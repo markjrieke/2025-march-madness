@@ -1,0 +1,64 @@
+
+# 2025 March Madness Forecast
+
+This repository contains the code for fitting a dynamic Bayesian model
+of NCAA team performance and simulating potential March Madness outcomes
+based on the results.
+
+## outline
+
+#### Data
+
+- rewrite of hoopR/wehoop calls to ESPN’s scoreboard API endpoints
+- would need
+  - home team
+  - away team
+  - home score
+  - away score
+  - game location (home team on neutral territory shouldn’t get home
+    bonus)
+  - overtime?
+
+#### Model
+
+use the bivariate poisson to model score outcomes
+
+$$
+\begin{align*}
+S_h &\sim \text{Poisson}(\lambda_0 + \lambda_h) \\
+S_a &\sim \text{Poisson}(\lambda_0 + \lambda_a) \\
+\log(\lambda_h) &= \beta_{a,t[h]} - \beta_{d,t[a]} \\
+\log(\lambda_a) &= \beta_{a,t[a]} - \beta_{d,t[h]} \\
+\log(\lambda_0) &= \gamma \\ 
+\beta_{a,t} &= \alpha_a + \eta_{a,t} \sigma_a \\
+\beta_{d,t} &= \alpha_d + \eta_{d,t} \sigma_d
+\end{align*}
+$$
+
+Possibly convert to a MVN for attack/defense strength, add in
+time-varying parameters, other predictors (home advantage, game-level
+randome effects, overtime), but that gets to the basic structure.
+
+Need to figure out:
+
+- bivariate_poisson_lpmf
+- mid-season updates?
+  - don’t refit the entire model lol
+  - posterior -\> prior extraction
+  - half normal extraction
+
+#### Simulation
+
+- Part of model? Or separate & pass in model output as data?
+- Individual game is easy
+- Future matchups is somewhat difficult (array indexing hell)
+- Ragged-array problem — how to handle completed games & future games?
+
+#### UI
+
+- Ideally, big interactive bracket
+- Can also do a big table with:
+  - tabs for each round
+  - greyed out when eliminated
+  - Prob of making it to: Round of 32, Sweet 16, Elite 8, Final 4,
+    Championchip, Winning
