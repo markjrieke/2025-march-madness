@@ -62,3 +62,14 @@ Need to figure out:
   - greyed out when eliminated
   - Prob of making it to: Round of 32, Sweet 16, Elite 8, Final 4,
     Championchip, Winning
+
+## Links
+
+- [Paper on bivariate poisson for modeling soccer
+  outcomes](https://link.springer.com/content/pdf/10.1007/s10182-021-00413-9.pdf)
+- [Repo for simulating tournament
+  advancement](https://github.com/lbenz730/intl_soccer_2024)
+- [Bivariate poisson in
+  Stan](https://discourse.mc-stan.org/t/loo-and-loglikelihood-calculation-for-bivariate-poisson/28648)
+- [ESPN API
+  links](https://gist.github.com/akeaswaran/b48b02f1c94f873c6655e7129910fc3b)
