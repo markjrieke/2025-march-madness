@@ -2,20 +2,26 @@ library(tidyverse)
 library(httr2)
 
 base_url <- "http://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard"
-date_str <- "20231111"
+date_str <- "20240321"
 url <- paste(base_url, date_str, sep = "?dates=")
 
 resp <- 
   request(url) %>%
   req_perform()
 
-# this gets everything _except_ for the number of periods played
-resp %>%
+resp_json <- 
+  resp %>%
   resp_body_json() %>%
   jsonlite::toJSON() %>%
   jsonlite::fromJSON(simplifyDataFrame = FALSE,
                      simplifyVector = FALSE,
-                     simplifyMatrix = FALSE) %>%
+                     simplifyMatrix = FALSE)
+
+game_date <-
+  ymd(resp_json[["day"]]$date[[1]][1])
+
+# includes teams, scores, periods, and location for each game
+resp_json %>%
   pluck("events") %>%
   tibble(data = .) %>%
   unnest_wider(data) %>%
@@ -23,32 +29,36 @@ resp %>%
   select(competitions) %>%
   unnest_wider(competitions) %>%
   select(id,
-         date,
          status,
          neutral_site = neutralSite,
          competitors) %>%
-  unnest(c(id, date, neutral_site)) %>%
-  mutate(across(c(id, date), ~map_chr(.x, ~.x[1])),
+  unnest_wider(status) %>%
+  unnest(c(id, period, neutral_site)) %>%
+  mutate(id = map_chr(id, ~.x[1]),
          neutral_site = map_lgl(neutral_site, ~.x[1]),
-         date = ymd_hm(date),
-         date = as_date(date)) %>%
+         periods = map_int(period, ~.x[1])) %>%
   rename(game_id = id) %>%
   unnest(competitors) %>%
+  select(game_id,
+         periods,
+         neutral_site,
+         competitors) %>%
   unnest_wider(competitors) %>%
   select(game_id,
-         date,
-         status,
          team_id = id,
          home_away = homeAway,
          neutral_site,
+         periods,
          team,
          score) %>%
   unnest(c(team_id, home_away, score)) %>%
   mutate(across(c(team_id, home_away, score), ~map_chr(.x, ~.x[1])),
          across(c(team_id, score), as.integer)) %>%
   unnest_wider(team) %>%
+  mutate(date = game_date) %>%
   select(game_id,
          date,
+         periods,
          team_id,
          home_away,
          neutral_site,
