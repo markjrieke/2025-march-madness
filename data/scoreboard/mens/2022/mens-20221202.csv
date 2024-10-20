@@ -1,0 +1,9 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401483258,2022-12-02,2,2250,home,TRUE,Gonzaga,63,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401483258,2022-12-02,2,239,away,TRUE,Baylor,64,Bears,Baylor Bears,Baylor
+401483045,2022-12-02,2,2,home,FALSE,Auburn,93,Tigers,Auburn Tigers,Auburn
+401483045,2022-12-02,2,2142,away,FALSE,Colgate,66,Raiders,Colgate Raiders,Colgate
+401484833,2022-12-02,2,120,home,FALSE,Maryland,71,Terrapins,Maryland Terrapins,Maryland
+401484833,2022-12-02,2,356,away,FALSE,Illinois,66,Fighting Illini,Illinois Fighting Illini,Illinois
+401493614,2022-12-02,2,21,home,FALSE,San Diego State,95,Aztecs,San Diego State Aztecs,San Diego St
+401493614,2022-12-02,2,2475,away,FALSE,Occidental,57,Tigers,Occidental Tigers,Occidental

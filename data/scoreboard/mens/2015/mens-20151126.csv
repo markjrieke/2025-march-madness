@@ -1,0 +1,51 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400826202,2015-11-26,2,2752,home,TRUE,Xavier,64,Musketeers,Xavier Musketeers,Xavier
+400826202,2015-11-26,2,333,away,TRUE,Alabama,45,Crimson Tide,Alabama Crimson Tide,Alabama
+400853968,2015-11-26,2,2250,home,TRUE,Gonzaga,61,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400853968,2015-11-26,2,245,away,TRUE,Texas A&M,62,Aggies,Texas A&M Aggies,Texas A&M
+400844308,2015-11-26,2,2210,home,FALSE,Elon,79,Phoenix,Elon Phoenix,Elon
+400844308,2015-11-26,2,116,away,FALSE,Mount St. Mary's,74,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+400833201,2015-11-26,2,151,home,TRUE,East Carolina,46,Pirates,East Carolina Pirates,East Carolina
+400833201,2015-11-26,2,2031,away,TRUE,Little Rock,54,Trojans,Little Rock Trojans,Little Rock
+400827788,2015-11-26,2,59,home,TRUE,Georgia Tech,83,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+400827788,2015-11-26,2,8,away,TRUE,Arkansas,73,Razorbacks,Arkansas Razorbacks,Arkansas
+400826203,2015-11-26,2,30,home,TRUE,USC,72,Trojans,USC Trojans,USC
+400826203,2015-11-26,2,2724,away,TRUE,Wichita State,69,Shockers,Wichita State Shockers,Wichita St
+400833426,2015-11-26,2,2335,home,TRUE,Liberty,62,Flames,Liberty Flames,Liberty
+400833426,2015-11-26,2,2026,away,TRUE,App State,73,Mountaineers,App State Mountaineers,App State
+400853988,2015-11-26,2,41,home,TRUE,UConn,76,Huskies,UConn Huskies,UConn
+400853988,2015-11-26,2,183,away,TRUE,Syracuse,79,Orange,Syracuse Orange,Syracuse
+400826225,2015-11-26,2,68,home,TRUE,Boise State,71,Broncos,Boise State Broncos,Boise St
+400826225,2015-11-26,2,300,away,TRUE,UC Irvine,64,Anteaters,UC Irvine Anteaters,UC Irvine
+400844955,2015-11-26,2,231,home,TRUE,Furman,69,Paladins,Furman Paladins,Furman
+400844955,2015-11-26,2,357,away,TRUE,Texas A&M-Corpus Christi,73,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+400827789,2015-11-26,2,222,home,TRUE,Villanova,59,Wildcats,Villanova Wildcats,Villanova
+400827789,2015-11-26,2,24,away,TRUE,Stanford,45,Cardinal,Stanford Cardinal,Stanford
+400831699,2015-11-26,2,277,home,TRUE,West Virginia,67,Mountaineers,West Virginia Mountaineers,West Virginia
+400831699,2015-11-26,2,257,away,TRUE,Richmond,59,Spiders,Richmond Spiders,Richmond
+400842136,2015-11-26,2,2617,home,TRUE,Stephen F. Austin,79,Lumberjacks,Stephen F. Austin Lumberjacks,SF Austin
+400842136,2015-11-26,2,2711,away,TRUE,Western Michigan,71,Broncos,Western Michigan Broncos,W Michigan
+400826226,2015-11-26,2,127,home,TRUE,Michigan State,99,Spartans,Michigan State Spartans,Michigan St
+400826226,2015-11-26,2,103,away,TRUE,Boston College,68,Eagles,Boston College Eagles,Boston College
+400826204,2015-11-26,2,2405,home,TRUE,Monmouth,70,Hawks,Monmouth Hawks,Monmouth
+400826204,2015-11-26,2,87,away,TRUE,Notre Dame,68,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400853969,2015-11-26,2,264,home,TRUE,Washington,70,Huskies,Washington Huskies,Washington
+400853969,2015-11-26,2,251,away,TRUE,Texas,82,Longhorns,Texas Longhorns,Texas
+400844979,2015-11-26,2,2655,home,TRUE,Tulane,61,Green Wave,Tulane Green Wave,Tulane
+400844979,2015-11-26,2,2382,away,TRUE,Mercer,71,Bears,Mercer Bears,Mercer
+400841215,2015-11-26,2,2065,home,TRUE,Bethune-Cookman,70,Wildcats,Bethune-Cookman Wildcats,Bethune
+400841215,2015-11-26,2,56,away,TRUE,Stetson,83,Hatters,Stetson Hatters,Stetson
+400826227,2015-11-26,2,2507,home,TRUE,Providence,74,Friars,Providence Friars,Providence
+400826227,2015-11-26,2,339,away,TRUE,Evansville,64,Purple Aces,Evansville Purple Aces,Evansville
+400826205,2015-11-26,2,2168,home,TRUE,Dayton,82,Flyers,Dayton Flyers,Dayton
+400826205,2015-11-26,2,2294,away,TRUE,Iowa,77,Hawkeyes,Iowa Hawkeyes,Iowa
+400853989,2015-11-26,2,130,home,TRUE,Michigan,102,Wolverines,Michigan Wolverines,Michigan
+400853989,2015-11-26,2,2429,away,TRUE,Charlotte,47,49ers,Charlotte 49ers,Charlotte
+400843470,2015-11-26,2,1,home,FALSE,Alaska Anchorage,72,Seawolves,Alaska Anchorage Seawolves,AK-Anchorage
+400843470,2015-11-26,2,2393,away,FALSE,Middle Tennessee,75,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+400826228,2015-11-26,3,12,home,TRUE,Arizona,75,Wildcats,Arizona Wildcats,Arizona
+400826228,2015-11-26,3,2541,away,TRUE,Santa Clara,73,Broncos,Santa Clara Broncos,Santa Clara
+400841310,2015-11-26,2,25,home,TRUE,California,58,Golden Bears,California Golden Bears,California
+400841310,2015-11-26,2,21,away,TRUE,San Diego State,72,Aztecs,San Diego State Aztecs,San Diego St
+400833257,2015-11-26,2,2427,home,TRUE,UNC Asheville,85,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+400833257,2015-11-26,2,2182,away,TRUE,Drexel,66,Dragons,Drexel Dragons,Drexel

@@ -1,0 +1,11 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401254144,2021-01-16,4,239,home,FALSE,Baylor,71,Bears,Baylor Bears,Baylor
+401254144,2021-01-16,4,66,away,FALSE,Iowa State,75,Cyclones,Iowa State Cyclones,Iowa State
+401264850,2021-01-16,4,158,home,FALSE,Nebraska,63,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401264850,2021-01-16,4,194,away,FALSE,Ohio State,55,Buckeyes,Ohio State Buckeyes,Ohio State
+401270795,2021-01-16,4,46,home,FALSE,Georgetown,54,Hoyas,Georgetown Hoyas,Georgetown
+401270795,2021-01-16,4,305,away,FALSE,DePaul,78,Blue Demons,DePaul Blue Demons,DePaul
+401255746,2021-01-16,4,2539,home,FALSE,San Francisco,52,Dons,San Francisco Dons,San Francisco
+401255746,2021-01-16,4,2250,away,FALSE,Gonzaga,76,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401270793,2021-01-16,0,41,home,FALSE,UConn,0,Huskies,UConn Huskies,UConn
+401270793,2021-01-16,0,222,away,FALSE,Villanova,0,Wildcats,Villanova Wildcats,Villanova

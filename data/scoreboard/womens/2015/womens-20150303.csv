@@ -1,0 +1,23 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400765255,2015-03-03,2,2241,home,TRUE,Gardner-Webb,63,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+400765255,2015-03-03,2,2344,away,TRUE,Longwood,55,Lancers,Longwood Lancers,Longwood
+400765256,2015-03-03,2,2506,home,TRUE,Presbyterian,47,Blue Hose,Presbyterian Blue Hose,Presbyterian
+400765256,2015-03-03,2,2127,away,TRUE,Charleston Southern,39,Buccaneers,Charleston Southern Buccaneers,Charleston So
+400765254,2015-03-03,2,2427,home,TRUE,UNC Asheville,68,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+400765254,2015-03-03,2,324,away,TRUE,Coastal Carolina,54,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+400601357,2015-03-03,2,2349,home,FALSE,UMass Lowell,60,River Hawks,UMass Lowell River Hawks,UMass Lowell
+400601357,2015-03-03,2,2885,away,FALSE,NJIT,51,Highlanders,NJIT Highlanders,NJIT
+400592440,2015-03-03,2,251,home,FALSE,Texas,79,Longhorns,Texas Longhorns,Texas
+400592440,2015-03-03,2,2628,away,FALSE,TCU,45,Horned Frogs,TCU Horned Frogs,TCU
+400592439,2015-03-03,2,2306,home,FALSE,Kansas State,59,Wildcats,Kansas State Wildcats,Kansas St
+400592439,2015-03-03,2,277,away,FALSE,West Virginia,55,Mountaineers,West Virginia Mountaineers,West Virginia
+400601249,2015-03-03,2,328,home,FALSE,Utah State,57,Aggies,Utah State Aggies,Utah State
+400601249,2015-03-03,2,2751,away,FALSE,Wyoming,61,Cowgirls,Wyoming Cowgirls,Wyoming
+400601217,2015-03-03,2,21,home,FALSE,San Diego State,76,Aztecs,San Diego State Aztecs,San Diego St
+400601217,2015-03-03,2,2439,away,FALSE,UNLV,61,Lady Rebels,UNLV Lady Rebels,UNLV
+400601140,2015-03-03,2,36,home,FALSE,Colorado State,68,Rams,Colorado State Rams,Colorado St
+400601140,2015-03-03,2,2440,away,FALSE,Nevada,61,Wolf Pack,Nevada Wolf Pack,Nevada
+400601122,2015-03-03,2,68,home,FALSE,Boise State,91,Broncos,Boise State Broncos,Boise St
+400601122,2015-03-03,2,23,away,FALSE,San José State,76,Spartans,San José State Spartans,San José St
+400601105,2015-03-03,2,2005,home,FALSE,Air Force,41,Falcons,Air Force Falcons,Air Force
+400601105,2015-03-03,2,278,away,FALSE,Fresno State,61,Bulldogs,Fresno State Bulldogs,Fresno St

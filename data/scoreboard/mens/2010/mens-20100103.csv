@@ -1,0 +1,13 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300030150,2010-01-03,2,150,home,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
+300030150,2010-01-03,2,228,away,FALSE,Clemson,53,Tigers,Clemson Tigers,Clemson
+300032306,2010-01-03,2,2306,home,FALSE,Kansas State,91,Wildcats,Kansas State Wildcats,Kansas St
+300032306,2010-01-03,2,233,away,FALSE,South Dakota,69,Coyotes,South Dakota Coyotes,South Dakota
+300040305,2010-01-03,2,305,home,FALSE,DePaul,50,Blue Demons,DePaul Blue Demons,DePaul
+300040305,2010-01-03,2,46,away,FALSE,Georgetown,67,Hoyas,Georgetown Hoyas,Georgetown
+300030130,2010-01-03,2,130,home,FALSE,Michigan,73,Wolverines,Michigan Wolverines,Michigan
+300030130,2010-01-03,2,194,away,FALSE,Ohio State,64,Buckeyes,Ohio State Buckeyes,Ohio State
+300032641,2010-01-03,2,2641,home,FALSE,Texas Tech,86,Red Raiders,Texas Tech Red Raiders,Texas Tech
+300032641,2010-01-03,2,2638,away,FALSE,UTEP,78,Miners,UTEP Miners,UTEP
+300030213,2010-01-03,2,213,home,FALSE,Penn State,46,Nittany Lions,Penn State Nittany Lions,Penn State
+300030213,2010-01-03,2,275,away,FALSE,Wisconsin,63,Badgers,Wisconsin Badgers,Wisconsin

@@ -1,0 +1,65 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401514256,2023-03-03,2,2427,home,TRUE,UNC Asheville,75,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+401514256,2023-03-03,2,2127,away,TRUE,Charleston Southern,66,Buccaneers,Charleston Southern Buccaneers,Charleston So
+401514322,2023-03-03,2,71,home,TRUE,Bradley,72,Braves,Bradley Braves,Bradley
+401514322,2023-03-03,2,2460,away,TRUE,Northern Iowa,66,Panthers,Northern Iowa Panthers,Northern Iowa
+401473610,2023-03-03,2,2459,home,FALSE,Northern Illinois,85,Huskies,Northern Illinois Huskies,N Illinois
+401473610,2023-03-03,2,2199,away,FALSE,Eastern Michigan,66,Eagles,Eastern Michigan Eagles,E Michigan
+401514272,2023-03-03,2,2261,home,TRUE,Hampton,64,Pirates,Hampton Pirates,Hampton
+401514272,2023-03-03,2,2405,away,TRUE,Monmouth,100,Hawks,Monmouth Hawks,Monmouth
+401514257,2023-03-03,2,2908,home,TRUE,South Carolina Upstate,77,Spartans,South Carolina Upstate Spartans,SC Upstate
+401514257,2023-03-03,2,2241,away,TRUE,Gardner-Webb,76,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+401514323,2023-03-03,2,2057,home,TRUE,Belmont,91,Bruins,Belmont Bruins,Belmont
+401514323,2023-03-03,2,282,away,TRUE,Indiana State,94,Sycamores,Indiana State Sycamores,Indiana St
+401514352,2023-03-03,2,2382,home,TRUE,Mercer,66,Bears,Mercer Bears,Mercer
+401514352,2023-03-03,2,2643,away,TRUE,The Citadel,41,Bulldogs,The Citadel Bulldogs,The Citadel
+401514258,2023-03-03,2,2344,home,TRUE,Longwood,68,Lancers,Longwood Lancers,Longwood
+401514258,2023-03-03,2,2097,away,TRUE,Campbell,81,Fighting Camels,Campbell Fighting Camels,Campbell
+401473609,2023-03-03,3,2309,home,FALSE,Kent State,89,Golden Flashes,Kent State Golden Flashes,Kent State
+401473609,2023-03-03,3,2006,away,FALSE,Akron,84,Zips,Akron Zips,Akron
+401473608,2023-03-03,2,2050,home,FALSE,Ball State,81,Cardinals,Ball State Cardinals,Ball State
+401473608,2023-03-03,2,2649,away,FALSE,Toledo,87,Rockets,Toledo Rockets,Toledo
+401531471,2023-03-03,2,2655,home,FALSE,Tulane,81,Green Wave,Tulane Green Wave,Tulane
+401531471,2023-03-03,2,151,away,FALSE,East Carolina,78,Pirates,East Carolina Pirates,East Carolina
+401514361,2023-03-03,2,2172,home,TRUE,Denver,68,Pioneers,Denver Pioneers,Denver
+401514361,2023-03-03,2,155,away,TRUE,North Dakota,83,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
+401514324,2023-03-03,2,2181,home,TRUE,Drake,74,Bulldogs,Drake Bulldogs,Drake
+401514324,2023-03-03,2,93,away,TRUE,Murray State,62,Racers,Murray State Racers,Murray St
+401484520,2023-03-03,2,139,home,FALSE,Saint Louis,65,Billikens,Saint Louis Billikens,Saint Louis
+401484520,2023-03-03,2,2168,away,FALSE,Dayton,61,Flyers,Dayton Flyers,Dayton
+401473607,2023-03-03,2,2084,home,FALSE,Buffalo,68,Bulls,Buffalo Bulls,Buffalo
+401473607,2023-03-03,2,193,away,FALSE,Miami (OH),63,RedHawks,Miami (OH) RedHawks,Miami OH
+401473605,2023-03-03,2,2711,home,FALSE,Western Michigan,81,Broncos,Western Michigan Broncos,W Michigan
+401473605,2023-03-03,2,2117,away,FALSE,Central Michigan,65,Chippewas,Central Michigan Chippewas,C Michigan
+401514353,2023-03-03,2,236,home,TRUE,Chattanooga,92,Mocs,Chattanooga Mocs,Chattanooga
+401514353,2023-03-03,2,2678,away,TRUE,VMI,72,Keydets,VMI Keydets,VMI
+401481166,2023-03-03,2,2534,home,FALSE,Sam Houston,72,Bearkats,Sam Houston Bearkats,Sam Houston
+401481166,2023-03-03,2,2000,away,FALSE,Abilene Christian,54,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
+401514340,2023-03-03,2,2413,home,TRUE,Morehead State,58,Eagles,Morehead State Eagles,Morehead St
+401514340,2023-03-03,2,2546,away,TRUE,Southeast Missouri State,65,Redhawks,Southeast Missouri State Redhawks,SE Missouri
+401481165,2023-03-03,0,2627,home,FALSE,Tarleton State,2,Texans,Tarleton State Texans,Tarleton St
+401481165,2023-03-03,0,166,away,FALSE,New Mexico State,0,Aggies,New Mexico State Aggies,New Mexico St
+401481162,2023-03-03,2,3084,home,FALSE,Utah Valley,113,Wolverines,Utah Valley Wolverines,Utah Valley
+401481162,2023-03-03,2,2617,away,FALSE,Stephen F. Austin,69,Lumberjacks,Stephen F. Austin Lumberjacks,SF Austin
+401473606,2023-03-03,2,195,home,FALSE,Ohio,92,Bobcats,Ohio Bobcats,Ohio
+401473606,2023-03-03,2,189,away,FALSE,Bowling Green,58,Falcons,Bowling Green Falcons,Bowling Green
+401514259,2023-03-03,2,2515,home,TRUE,Radford,78,Highlanders,Radford Highlanders,Radford
+401514259,2023-03-03,2,2737,away,TRUE,Winthrop,69,Eagles,Winthrop Eagles,Winthrop
+401514396,2023-03-03,2,252,home,TRUE,BYU,82,Cougars,BYU Cougars,BYU
+401514396,2023-03-03,2,2501,away,TRUE,Portland,71,Pilots,Portland Pilots,Portland
+401481164,2023-03-03,2,253,home,FALSE,Southern Utah,81,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+401481164,2023-03-03,2,2856,away,FALSE,California Baptist,71,Lancers,California Baptist Lancers,CA Baptist
+401481163,2023-03-03,2,3101,home,FALSE,Utah Tech,61,Trailblazers,Utah Tech Trailblazers,Utah Tech
+401481163,2023-03-03,2,2253,away,FALSE,Grand Canyon,71,Lopes,Grand Canyon Lopes,Grand Canyon
+401514362,2023-03-03,2,140,home,TRUE,Kansas City,61,Roos,Kansas City Roos,Kansas City
+401514362,2023-03-03,2,2437,away,TRUE,Omaha,73,Mavericks,Omaha Mavericks,Omaha
+401514325,2023-03-03,2,79,home,TRUE,Southern Illinois,54,Salukis,Southern Illinois Salukis,S Illinois
+401514325,2023-03-03,2,2623,away,TRUE,Missouri State,51,Bears,Missouri State Bears,Missouri St
+401481161,2023-03-03,2,2547,home,FALSE,Seattle U,80,Redhawks,Seattle U Redhawks,Seattle U
+401481161,2023-03-03,2,250,away,FALSE,UT Arlington,56,Mavericks,UT Arlington Mavericks,UT Arlington
+401514341,2023-03-03,2,2635,home,TRUE,Tennessee Tech,78,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
+401514341,2023-03-03,2,2630,away,TRUE,UT Martin,63,Skyhawks,UT Martin Skyhawks,UT Martin
+401482885,2023-03-03,2,36,home,FALSE,Colorado State,92,Rams,Colorado State Rams,Colorado St
+401482885,2023-03-03,2,167,away,FALSE,New Mexico,84,Lobos,New Mexico Lobos,New Mexico
+401514397,2023-03-03,2,2539,home,TRUE,San Francisco,80,Dons,San Francisco Dons,San Francisco
+401514397,2023-03-03,2,279,away,TRUE,Pacific,63,Tigers,Pacific Tigers,Pacific

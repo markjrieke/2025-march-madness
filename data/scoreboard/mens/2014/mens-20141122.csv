@@ -1,0 +1,9 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400591567,2014-11-22,2,275,home,FALSE,Wisconsin,78,Badgers,Wisconsin Badgers,Wisconsin
+400591567,2014-11-22,2,68,away,FALSE,Boise State,54,Broncos,Boise State Broncos,Boise St
+400587784,2014-11-22,2,2166,home,TRUE,Davidson,72,Wildcats,Davidson Wildcats,Davidson
+400587784,2014-11-22,2,153,away,TRUE,North Carolina,90,Tar Heels,North Carolina Tar Heels,North Carolina
+400591101,2014-11-22,3,227,home,FALSE,Rhode Island,66,Rams,Rhode Island Rams,Rhode Island
+400591101,2014-11-22,3,158,away,FALSE,Nebraska,62,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400585904,2014-11-22,2,2567,home,FALSE,SMU,77,Mustangs,SMU Mustangs,SMU
+400585904,2014-11-22,2,331,away,FALSE,Eastern Washington,68,Eagles,Eastern Washington Eagles,E Washington

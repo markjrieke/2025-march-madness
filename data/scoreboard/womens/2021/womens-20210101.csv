@@ -1,0 +1,9 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401263196,2021-01-01,4,12,home,FALSE,Arizona,54,Wildcats,Arizona Wildcats,Arizona
+401263196,2021-01-01,4,24,away,FALSE,Stanford,81,Cardinal,Stanford Cardinal,Stanford
+401274430,2021-01-01,4,97,home,FALSE,Louisville,74,Cardinals,Louisville Cardinals,Louisville
+401274430,2021-01-01,4,94,away,FALSE,Northern Kentucky,64,Norse,Northern Kentucky Norse,N Kentucky
+401263450,2021-01-01,4,2483,home,FALSE,Oregon,92,Ducks,Oregon Ducks,Oregon
+401263450,2021-01-01,4,30,away,FALSE,USC,69,Trojans,USC Trojans,USC
+401263179,2021-01-01,0,204,home,FALSE,Oregon State,0,Beavers,Oregon State Beavers,Oregon St
+401263179,2021-01-01,0,26,away,FALSE,UCLA,0,Bruins,UCLA Bruins,UCLA

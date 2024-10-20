@@ -1,0 +1,13 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401121630,2019-03-17,2,108,home,TRUE,Harvard,85,Crimson,Harvard Crimson,Harvard
+401121630,2019-03-17,2,43,away,TRUE,Yale,97,Bulldogs,Yale Bulldogs,Yale
+401121540,2019-03-17,2,179,home,TRUE,St. Bonaventure,53,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+401121540,2019-03-17,2,139,away,TRUE,Saint Louis,55,Billikens,Saint Louis Billikens,Saint Louis
+401119822,2019-03-17,2,2633,home,TRUE,Tennessee,64,Volunteers,Tennessee Volunteers,Tennessee
+401119822,2019-03-17,2,2,away,TRUE,Auburn,84,Tigers,Auburn Tigers,Auburn
+401121627,2019-03-17,2,2247,home,TRUE,Georgia State,73,Panthers,Georgia State Panthers,Georgia St
+401121627,2019-03-17,2,250,away,TRUE,UT Arlington,64,Mavericks,UT Arlington Mavericks,UT Arlington
+401120717,2019-03-17,2,248,home,TRUE,Houston,57,Cougars,Houston Cougars,Houston
+401120717,2019-03-17,2,2132,away,TRUE,Cincinnati,69,Bearcats,Cincinnati Bearcats,Cincinnati
+401120739,2019-03-17,2,127,home,TRUE,Michigan State,65,Spartans,Michigan State Spartans,Michigan St
+401120739,2019-03-17,2,130,away,TRUE,Michigan,60,Wolverines,Michigan Wolverines,Michigan

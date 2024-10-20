@@ -1,0 +1,21 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401082675,2018-12-08,2,150,home,FALSE,Duke,91,Blue Devils,Duke Blue Devils,Duke
+401082675,2018-12-08,2,43,away,FALSE,Yale,58,Bulldogs,Yale Bulldogs,Yale
+401083169,2018-12-08,2,2,home,FALSE,Auburn,82,Tigers,Auburn Tigers,Auburn
+401083169,2018-12-08,2,2168,away,FALSE,Dayton,72,Flyers,Dayton Flyers,Dayton
+401082477,2018-12-08,2,57,home,FALSE,Florida,59,Gators,Florida Gators,Florida
+401082477,2018-12-08,2,127,away,FALSE,Michigan State,63,Spartans,Michigan State Spartans,Michigan St
+401082607,2018-12-08,3,269,home,FALSE,Marquette,74,Golden Eagles,Marquette Golden Eagles,Marquette
+401082607,2018-12-08,3,275,away,FALSE,Wisconsin,69,Badgers,Wisconsin Badgers,Wisconsin
+401083430,2018-12-08,2,202,home,FALSE,Tulsa,47,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+401083430,2018-12-08,2,2306,away,FALSE,Kansas State,46,Wildcats,Kansas State Wildcats,Kansas St
+401085724,2018-12-08,2,179,home,FALSE,St. Bonaventure,62,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+401085724,2018-12-08,2,2084,away,FALSE,Buffalo,80,Bulls,Buffalo Bulls,Buffalo
+401083356,2018-12-08,2,222,home,FALSE,Villanova,70,Wildcats,Villanova Wildcats,Villanova
+401083356,2018-12-08,2,2603,away,FALSE,Saint Joseph's,58,Hawks,Saint Joseph's Hawks,Saint Joseph's
+401082427,2018-12-08,2,120,home,TRUE,Maryland,55,Terrapins,Maryland Terrapins,Maryland
+401082427,2018-12-08,2,2350,away,TRUE,Loyola Chicago,41,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+401082518,2018-12-08,2,158,home,FALSE,Nebraska,94,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401082518,2018-12-08,2,156,away,FALSE,Creighton,75,Bluejays,Creighton Bluejays,Creighton
+401088250,2018-12-08,2,2908,home,FALSE,South Carolina Upstate,60,Spartans,South Carolina Upstate Spartans,SC Upstate
+401088250,2018-12-08,2,231,away,FALSE,Furman,74,Paladins,Furman Paladins,Furman

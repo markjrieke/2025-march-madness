@@ -1,0 +1,13 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400506090,2014-03-02,2,12,home,FALSE,Arizona,79,Wildcats,Arizona Wildcats,Arizona
+400506090,2014-03-02,2,24,away,FALSE,Stanford,66,Cardinal,Stanford Cardinal,Stanford
+400504592,2014-03-02,2,222,home,FALSE,Villanova,73,Wildcats,Villanova Wildcats,Villanova
+400504592,2014-03-02,2,269,away,FALSE,Marquette,56,Golden Eagles,Marquette Golden Eagles,Marquette
+400510054,2014-03-02,2,213,home,FALSE,Penn State,66,Nittany Lions,Penn State Nittany Lions,Penn State
+400510054,2014-03-02,2,275,away,FALSE,Wisconsin,71,Badgers,Wisconsin Badgers,Wisconsin
+400510053,2014-03-02,2,2294,home,FALSE,Iowa,83,Hawkeyes,Iowa Hawkeyes,Iowa
+400510053,2014-03-02,2,2509,away,FALSE,Purdue,76,Boilermakers,Purdue Boilermakers,Purdue
+400510055,2014-03-02,2,84,home,FALSE,Indiana,72,Hoosiers,Indiana Hoosiers,Indiana
+400510055,2014-03-02,2,194,away,FALSE,Ohio State,64,Buckeyes,Ohio State Buckeyes,Ohio State
+400505628,2014-03-02,2,2440,home,FALSE,Nevada,58,Wolf Pack,Nevada Wolf Pack,Nevada
+400505628,2014-03-02,2,167,away,FALSE,New Mexico,72,Lobos,New Mexico Lobos,New Mexico

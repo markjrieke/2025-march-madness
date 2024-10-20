@@ -1,0 +1,11 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400504482,2013-12-01,2,96,home,TRUE,Kentucky,79,Wildcats,Kentucky Wildcats,Kentucky
+400504482,2013-12-01,2,2507,away,TRUE,Providence,65,Friars,Providence Friars,Providence
+400506799,2013-12-01,2,2250,home,FALSE,Gonzaga,86,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400506799,2013-12-01,2,2154,away,FALSE,Coppin State,51,Eagles,Coppin State Eagles,Coppin St
+400500006,2013-12-01,2,139,home,FALSE,Saint Louis,65,Billikens,Saint Louis Billikens,Saint Louis
+400500006,2013-12-01,2,2724,away,FALSE,Wichita State,70,Shockers,Wichita State Shockers,Wichita St
+400499301,2013-12-01,2,5,home,FALSE,UAB,63,Blazers,UAB Blazers,UAB
+400499301,2013-12-01,2,153,away,FALSE,North Carolina,59,Tar Heels,North Carolina Tar Heels,North Carolina
+400506829,2013-12-01,2,239,home,FALSE,Baylor,104,Bears,Baylor Bears,Baylor
+400506829,2013-12-01,2,2810,away,FALSE,Hardin-Simmons,59,Cowboys,Hardin-Simmons Cowboys,Hardin-Sim

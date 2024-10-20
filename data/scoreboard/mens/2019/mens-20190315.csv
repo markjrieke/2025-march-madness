@@ -1,0 +1,89 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401121534,2019-03-15,2,2670,home,TRUE,VCU,70,Rams,VCU Rams,VCU
+401121534,2019-03-15,2,227,away,TRUE,Rhode Island,75,Rams,Rhode Island Rams,Rhode Island
+401120711,2019-03-15,2,248,home,TRUE,Houston,84,Cougars,Houston Cougars,Houston
+401120711,2019-03-15,2,41,away,TRUE,UConn,45,Huskies,UConn Huskies,UConn
+401120733,2019-03-15,2,127,home,TRUE,Michigan State,77,Spartans,Michigan State Spartans,Michigan St
+401120733,2019-03-15,2,194,away,TRUE,Ohio State,70,Buckeyes,Ohio State Buckeyes,Ohio State
+401119816,2019-03-15,2,99,home,TRUE,LSU,73,Tigers,LSU Tigers,LSU
+401119816,2019-03-15,2,57,away,TRUE,Florida,76,Gators,Florida Gators,Florida
+401121632,2019-03-15,2,295,home,TRUE,Old Dominion,61,Monarchs,Old Dominion Monarchs,Old Dominion
+401121632,2019-03-15,2,5,away,TRUE,UAB,59,Blazers,UAB Blazers,UAB
+401121535,2019-03-15,2,179,home,TRUE,St. Bonaventure,68,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+401121535,2019-03-15,2,2244,away,TRUE,George Mason,57,Patriots,George Mason Patriots,George Mason
+401120712,2019-03-15,2,2116,home,TRUE,UCF,55,Knights,UCF Knights,UCF
+401120712,2019-03-15,2,235,away,TRUE,Memphis,79,Tigers,Memphis Tigers,Memphis
+401120734,2019-03-15,2,275,home,TRUE,Wisconsin,66,Badgers,Wisconsin Badgers,Wisconsin
+401120734,2019-03-15,2,158,away,TRUE,Nebraska,62,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401121856,2019-03-15,2,2504,home,TRUE,Prairie View A&M,81,Panthers,Prairie View A&M Panthers,Prairie View
+401121856,2019-03-15,2,2755,away,TRUE,Grambling,71,Tigers,Grambling Tigers,Grambling
+401119817,2019-03-15,2,2579,home,TRUE,South Carolina,64,Gamecocks,South Carolina Gamecocks,South Carolina
+401119817,2019-03-15,2,2,away,TRUE,Auburn,73,Tigers,Auburn Tigers,Auburn
+401121633,2019-03-15,2,98,home,TRUE,Western Kentucky,70,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+401121633,2019-03-15,2,2572,away,TRUE,Southern Miss,59,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
+401121733,2019-03-15,2,2450,home,TRUE,Norfolk State,75,Spartans,Norfolk State Spartans,Norfolk St
+401121733,2019-03-15,2,47,away,TRUE,Howard,69,Bison,Howard Bison,Howard
+401121623,2019-03-15,2,326,home,TRUE,Texas State,79,Bobcats,Texas State Bobcats,Texas St
+401121623,2019-03-15,2,6,away,TRUE,South Alabama,67,Jaguars,South Alabama Jaguars,South Alabama
+401121586,2019-03-15,2,2534,home,TRUE,Sam Houston,76,Bearkats,Sam Houston Bearkats,Sam Houston
+401121586,2019-03-15,2,2443,away,TRUE,New Orleans,79,Privateers,New Orleans Privateers,New Orleans
+401121536,2019-03-15,2,2166,home,TRUE,Davidson,70,Wildcats,Davidson Wildcats,Davidson
+401121536,2019-03-15,2,2603,away,TRUE,Saint Joseph's,60,Hawks,Saint Joseph's Hawks,Saint Joseph's
+401121722,2019-03-15,2,2084,home,TRUE,Buffalo,85,Bulls,Buffalo Bulls,Buffalo
+401121722,2019-03-15,2,2117,away,TRUE,Central Michigan,81,Chippewas,Central Michigan Chippewas,C Michigan
+401120746,2019-03-15,3,222,home,TRUE,Villanova,71,Wildcats,Villanova Wildcats,Villanova
+401120746,2019-03-15,3,2752,away,TRUE,Xavier,67,Musketeers,Xavier Musketeers,Xavier
+401120735,2019-03-15,2,2509,home,TRUE,Purdue,73,Boilermakers,Purdue Boilermakers,Purdue
+401120735,2019-03-15,2,135,away,TRUE,Minnesota,75,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401120724,2019-03-15,2,2306,home,TRUE,Kansas State,59,Wildcats,Kansas State Wildcats,Kansas St
+401120724,2019-03-15,2,66,away,TRUE,Iowa State,63,Cyclones,Iowa State Cyclones,Iowa State
+401120713,2019-03-15,2,2132,home,TRUE,Cincinnati,82,Bearcats,Cincinnati Bearcats,Cincinnati
+401120713,2019-03-15,2,2567,away,TRUE,SMU,74,Mustangs,SMU Mustangs,SMU
+401120704,2019-03-15,2,258,home,TRUE,Virginia,59,Cavaliers,Virginia Cavaliers,Virginia
+401120704,2019-03-15,2,52,away,TRUE,Florida State,69,Seminoles,Florida State Seminoles,Florida St
+401119823,2019-03-15,2,96,home,TRUE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
+401119823,2019-03-15,2,333,away,TRUE,Alabama,55,Crimson Tide,Alabama Crimson Tide,Alabama
+401121774,2019-03-15,2,149,home,TRUE,Montana,78,Grizzlies,Montana Grizzlies,Montana
+401121774,2019-03-15,2,2692,away,TRUE,Weber State,49,Wildcats,Weber State Wildcats,Weber St
+401121734,2019-03-15,2,2448,home,TRUE,North Carolina A&T,63,Aggies,North Carolina A&T Aggies,NC A&T
+401121734,2019-03-15,2,2428,away,TRUE,North Carolina Central,65,Eagles,North Carolina Central Eagles,NC Central
+401121624,2019-03-15,2,290,home,TRUE,Georgia Southern,81,Eagles,Georgia Southern Eagles,GA Southern
+401121624,2019-03-15,2,2433,away,TRUE,UL Monroe,67,Warhawks,UL Monroe Warhawks,UL Monroe
+401121587,2019-03-15,2,2000,home,TRUE,Abilene Christian,69,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
+401121587,2019-03-15,2,2545,away,TRUE,SE Louisiana,66,Lions,SE Louisiana Lions,SE Louisiana
+401121537,2019-03-15,2,2168,home,TRUE,Dayton,55,Flyers,Dayton Flyers,Dayton
+401121537,2019-03-15,2,139,away,TRUE,Saint Louis,64,Billikens,Saint Louis Billikens,Saint Louis
+401121723,2019-03-15,2,189,home,TRUE,Bowling Green,71,Falcons,Bowling Green Falcons,Bowling Green
+401121723,2019-03-15,2,2459,away,TRUE,Northern Illinois,67,Huskies,Northern Illinois Huskies,N Illinois
+401121708,2019-03-15,2,166,home,TRUE,New Mexico State,79,Aggies,New Mexico State Aggies,New Mexico St
+401121708,2019-03-15,2,292,away,TRUE,UT Rio Grande Valley,72,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+401121600,2019-03-15,2,2440,home,TRUE,Nevada,56,Wolf Pack,Nevada Wolf Pack,Nevada
+401121600,2019-03-15,2,21,away,TRUE,San Diego State,65,Aztecs,San Diego State Aztecs,San Diego St
+401120757,2019-03-15,2,264,home,TRUE,Washington,66,Huskies,Washington Huskies,Washington
+401120757,2019-03-15,2,38,away,TRUE,Colorado,61,Buffaloes,Colorado Buffaloes,Colorado
+401120714,2019-03-15,2,218,home,TRUE,Temple,74,Owls,Temple Owls,Temple
+401120714,2019-03-15,2,2724,away,TRUE,Wichita State,80,Shockers,Wichita State Shockers,Wichita St
+401120747,2019-03-15,2,269,home,TRUE,Marquette,79,Golden Eagles,Marquette Golden Eagles,Marquette
+401120747,2019-03-15,2,2550,away,TRUE,Seton Hall,81,Pirates,Seton Hall Pirates,Seton Hall
+401120736,2019-03-15,2,130,home,TRUE,Michigan,74,Wolverines,Michigan Wolverines,Michigan
+401120736,2019-03-15,2,2294,away,TRUE,Iowa,53,Hawkeyes,Iowa Hawkeyes,Iowa
+401121857,2019-03-15,2,2640,home,TRUE,Texas Southern,80,Tigers,Texas Southern Tigers,Texas Southern
+401121857,2019-03-15,2,2011,away,TRUE,Alabama State,66,Hornets,Alabama State Hornets,Alabama St
+401121837,2019-03-15,2,300,home,TRUE,UC Irvine,75,Anteaters,UC Irvine Anteaters,UC Irvine
+401121837,2019-03-15,2,299,away,TRUE,Long Beach State,67,Beach,Long Beach State Beach,Long Beach St
+401119818,2019-03-15,2,2633,home,TRUE,Tennessee,83,Volunteers,Tennessee Volunteers,Tennessee
+401119818,2019-03-15,2,344,away,TRUE,Mississippi State,76,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401120725,2019-03-15,2,2305,home,FALSE,Kansas,88,Jayhawks,Kansas Jayhawks,Kansas
+401120725,2019-03-15,2,277,away,FALSE,West Virginia,74,Mountaineers,West Virginia Mountaineers,West Virginia
+401120705,2019-03-15,2,153,home,TRUE,North Carolina,73,Tar Heels,North Carolina Tar Heels,North Carolina
+401120705,2019-03-15,2,150,away,TRUE,Duke,74,Blue Devils,Duke Blue Devils,Duke
+401121775,2019-03-15,2,331,home,TRUE,Eastern Washington,77,Eagles,Eastern Washington Eagles,E Washington
+401121775,2019-03-15,2,253,away,TRUE,Southern Utah,61,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+401121709,2019-03-15,2,3084,home,TRUE,Utah Valley,74,Wolverines,Utah Valley Wolverines,Utah Valley
+401121709,2019-03-15,2,2253,away,TRUE,Grand Canyon,78,Lopes,Grand Canyon Lopes,Grand Canyon
+401121601,2019-03-15,2,328,home,TRUE,Utah State,85,Aggies,Utah State Aggies,Utah State
+401121601,2019-03-15,2,278,away,TRUE,Fresno State,60,Bulldogs,Fresno State Bulldogs,Fresno St
+401120758,2019-03-15,3,9,home,TRUE,Arizona State,75,Sun Devils,Arizona State Sun Devils,Arizona St
+401120758,2019-03-15,3,2483,away,TRUE,Oregon,79,Ducks,Oregon Ducks,Oregon
+401121838,2019-03-15,2,2540,home,TRUE,UC Santa Barbara,58,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+401121838,2019-03-15,2,2239,away,TRUE,Cal State Fullerton,64,Titans,Cal State Fullerton Titans,Fullerton

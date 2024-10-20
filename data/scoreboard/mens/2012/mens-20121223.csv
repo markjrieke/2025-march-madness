@@ -1,0 +1,45 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323580213,2012-12-23,2,213,home,FALSE,Penn State,72,Nittany Lions,Penn State Nittany Lions,Penn State
+323580213,2012-12-23,2,160,away,FALSE,New Hampshire,45,Wildcats,New Hampshire Wildcats,New Hampshire
+323582230,2012-12-23,2,2230,home,FALSE,Fordham,81,Rams,Fordham Rams,Fordham
+323582230,2012-12-23,2,2561,away,FALSE,Siena,75,Saints,Siena Saints,Siena
+323580077,2012-12-23,2,77,home,FALSE,Northwestern,63,Wildcats,Northwestern Wildcats,Northwestern
+323580077,2012-12-23,2,225,away,FALSE,Brown,42,Bears,Brown Bears,Brown
+323582460,2012-12-23,2,2460,home,FALSE,Northern Iowa,82,Panthers,Northern Iowa Panthers,Northern Iowa
+323582460,2012-12-23,2,2608,away,FALSE,Saint Mary's,75,Gaels,Saint Mary's Gaels,Saint Mary's
+323582050,2012-12-23,2,2050,home,FALSE,Ball State,68,Cardinals,Ball State Cardinals,Ball State
+323582050,2012-12-23,2,85,away,FALSE,IU Indianapolis,77,Jaguars,IU Indianapolis Jaguars,IU Indy
+323582006,2012-12-23,2,2006,home,FALSE,Akron,87,Zips,Akron Zips,Akron
+323582006,2012-12-23,2,325,away,FALSE,Cleveland State,57,Vikings,Cleveland State Vikings,Cleveland St
+323580314,2012-12-23,2,314,home,FALSE,Iona,100,Gaels,Iona Gaels,Iona
+323580314,2012-12-23,2,2450,away,FALSE,Norfolk State,72,Spartans,Norfolk State Spartans,Norfolk St
+323580228,2012-12-23,2,228,home,FALSE,Clemson,77,Tigers,Clemson Tigers,Clemson
+323580228,2012-12-23,2,2569,away,FALSE,South Carolina State,41,Bulldogs,South Carolina State Bulldogs,SC State
+323582539,2012-12-23,2,2539,home,TRUE,San Francisco,78,Dons,San Francisco Dons,San Francisco
+323582539,2012-12-23,2,145,away,TRUE,Ole Miss,85,Rebels,Ole Miss Rebels,Ole Miss
+323582400,2012-12-23,2,2400,home,TRUE,Mississippi Valley State,64,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
+323582400,2012-12-23,2,2934,away,TRUE,Cal State Bakersfield,69,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+400419108,2012-12-23,2,2443,home,TRUE,New Orleans,49,Privateers,New Orleans Privateers,New Orleans
+400419108,2012-12-23,2,68,away,TRUE,Boise State,67,Broncos,Boise State Broncos,Boise St
+323580068,2012-12-23,2,2443,home,TRUE,New Orleans,51,Privateers,New Orleans Privateers,New Orleans
+323580068,2012-12-23,2,68,away,TRUE,Boise State,67,Broncos,Boise State Broncos,Boise St
+323580221,2012-12-23,2,221,home,FALSE,Pittsburgh,59,Panthers,Pittsburgh Panthers,Pitt
+323580221,2012-12-23,2,338,away,FALSE,Kennesaw State,43,Owls,Kennesaw State Owls,Kennesaw St
+323580021,2012-12-23,2,21,home,TRUE,San Diego State,62,Aztecs,San Diego State Aztecs,San Diego St
+323580021,2012-12-23,2,282,away,TRUE,Indiana State,55,Sycamores,Indiana State Sycamores,Indiana St
+323580290,2012-12-23,2,290,home,TRUE,Georgia Southern,46,Eagles,Georgia Southern Eagles,GA Southern
+323580290,2012-12-23,2,2454,away,TRUE,North Florida,74,Ospreys,North Florida Ospreys,North Florida
+323580301,2012-12-23,2,301,home,TRUE,San Diego,59,Toreros,San Diego Toreros,San Diego
+323580301,2012-12-23,2,256,away,TRUE,James Madison,62,Dukes,James Madison Dukes,James Madison
+323582029,2012-12-23,2,2029,home,TRUE,Arkansas-Pine Bluff,45,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+323582029,2012-12-23,2,2117,away,TRUE,Central Michigan,62,Chippewas,Central Michigan Chippewas,C Michigan
+323582638,2012-12-23,2,2638,home,FALSE,UTEP,68,Miners,UTEP Miners,UTEP
+323582638,2012-12-23,2,158,away,FALSE,Nebraska,52,Cornhuskers,Nebraska Cornhuskers,Nebraska
+323580071,2012-12-23,2,71,home,TRUE,Bradley,55,Braves,Bradley Braves,Bradley
+323580071,2012-12-23,2,2501,away,TRUE,Portland,57,Pilots,Portland Pilots,Portland
+323580062,2012-12-23,2,62,home,FALSE,Hawai'i,84,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
+323580062,2012-12-23,2,2193,away,FALSE,East Tennessee State,61,Buccaneers,East Tennessee State Buccaneers,ETSU
+323582390,2012-12-23,2,2390,home,TRUE,Miami,50,Hurricanes,Miami Hurricanes,Miami
+323582390,2012-12-23,2,12,away,TRUE,Arizona,69,Wildcats,Arizona Wildcats,Arizona
+323580259,2012-12-23,2,259,home,TRUE,Virginia Tech,52,Hokies,Virginia Tech Hokies,Virginia Tech
+323580259,2012-12-23,2,36,away,TRUE,Colorado State,88,Rams,Colorado State Rams,Colorado St

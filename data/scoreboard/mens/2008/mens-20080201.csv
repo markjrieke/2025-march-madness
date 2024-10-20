@@ -1,0 +1,19 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280322908,2008-02-01,2,2908,home,FALSE,South Carolina Upstate,71,Spartans,South Carolina Upstate Spartans,SC Upstate
+280322908,2008-02-01,2,338,away,FALSE,Kennesaw State,65,Owls,Kennesaw State Owls,Kennesaw St
+280322612,2008-02-01,2,2612,home,FALSE,Saint Peter's,52,Peacocks,Saint Peter's Peacocks,Saint Peter's
+280322612,2008-02-01,2,314,away,FALSE,Iona,60,Gaels,Iona Gaels,Iona
+280320225,2008-02-01,2,225,home,FALSE,Brown,64,Bears,Brown Bears,Brown
+280320225,2008-02-01,2,172,away,FALSE,Cornell,75,Big Red,Cornell Big Red,Cornell
+280320219,2008-02-01,2,219,home,FALSE,Pennsylvania,73,Quakers,Pennsylvania Quakers,Penn
+280320219,2008-02-01,2,108,away,FALSE,Harvard,69,Crimson,Harvard Crimson,Harvard
+280320043,2008-02-01,2,43,home,FALSE,Yale,58,Bulldogs,Yale Bulldogs,Yale
+280320043,2008-02-01,2,171,away,FALSE,Columbia,71,Lions,Columbia Lions,Columbia
+280322193,2008-02-01,2,2193,home,FALSE,East Tennessee State,85,Buccaneers,East Tennessee State Buccaneers,ETSU
+280322193,2008-02-01,2,2382,away,FALSE,Mercer,79,Bears,Mercer Bears,Mercer
+280322099,2008-02-01,2,2099,home,FALSE,Canisius,88,Golden Griffins,Canisius Golden Griffins,Canisius
+280322099,2008-02-01,2,2217,away,FALSE,Fairfield,60,Stags,Fairfield Stags,Fairfield
+280320163,2008-02-01,2,163,home,FALSE,Princeton,57,Tigers,Princeton Tigers,Princeton
+280320163,2008-02-01,2,159,away,FALSE,Dartmouth,53,Big Green,Dartmouth Big Green,Dartmouth
+280320315,2008-02-01,0,315,home,FALSE,Niagara,0,Purple Eagles,Niagara Purple Eagles,Niagara
+280320315,2008-02-01,0,2352,away,FALSE,Loyola Maryland,0,Greyhounds,Loyola Maryland Greyhounds,Loyola MD

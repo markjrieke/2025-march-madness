@@ -1,0 +1,9 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401175232,2020-01-02,2,2501,home,FALSE,Portland,72,Pilots,Portland Pilots,Portland
+401175232,2020-01-02,2,2250,away,FALSE,Gonzaga,85,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401170644,2020-01-02,2,38,home,FALSE,Colorado,74,Buffaloes,Colorado Buffaloes,Colorado
+401170644,2020-01-02,2,2483,away,FALSE,Oregon,65,Ducks,Oregon Ducks,Oregon
+401166145,2020-01-02,2,127,home,FALSE,Michigan State,76,Spartans,Michigan State Spartans,Michigan St
+401166145,2020-01-02,2,356,away,FALSE,Illinois,56,Fighting Illini,Illinois Fighting Illini,Illinois
+401170214,2020-01-02,2,2325,home,FALSE,La Salle,58,Explorers,La Salle Explorers,La Salle
+401170214,2020-01-02,2,2168,away,FALSE,Dayton,84,Flyers,Dayton Flyers,Dayton

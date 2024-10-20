@@ -1,0 +1,39 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273630235,2007-12-29,2,235,home,FALSE,Memphis,76,Tigers,Memphis Tigers,Memphis
+273630235,2007-12-29,2,12,away,FALSE,Arizona,63,Wildcats,Arizona Wildcats,Arizona
+273632305,2007-12-29,2,2305,home,FALSE,Kansas,86,Jayhawks,Kansas Jayhawks,Kansas
+273632305,2007-12-29,2,43,away,FALSE,Yale,53,Bulldogs,Yale Bulldogs,Yale
+273630026,2007-12-29,2,26,home,FALSE,UCLA,76,Bruins,UCLA Bruins,UCLA
+273630026,2007-12-29,2,302,away,FALSE,UC Davis,48,Aggies,UC Davis Aggies,UC Davis
+273632168,2007-12-29,2,2168,home,FALSE,Dayton,80,Flyers,Dayton Flyers,Dayton
+273632168,2007-12-29,2,221,away,FALSE,Pittsburgh,55,Panthers,Pittsburgh Panthers,Pitt
+273630127,2007-12-29,2,127,home,FALSE,Michigan State,93,Spartans,Michigan State Spartans,Michigan St
+273630127,2007-12-29,2,2739,away,FALSE,Green Bay,75,Phoenix,Green Bay Phoenix,Green Bay
+273630046,2007-12-29,2,46,home,FALSE,Georgetown,78,Hoyas,Georgetown Hoyas,Georgetown
+273630046,2007-12-29,2,44,away,FALSE,American University,51,Eagles,American University Eagles,American
+273630251,2007-12-29,2,251,home,FALSE,Texas,66,Longhorns,Texas Longhorns,Texas
+273630251,2007-12-29,2,275,away,FALSE,Wisconsin,67,Badgers,Wisconsin Badgers,Wisconsin
+273632250,2007-12-29,2,2250,home,FALSE,Gonzaga,72,Bulldogs,Gonzaga Bulldogs,Gonzaga
+273632250,2007-12-29,2,2633,away,FALSE,Tennessee,82,Volunteers,Tennessee Volunteers,Tennessee
+273630269,2007-12-29,2,269,home,FALSE,Marquette,77,Golden Eagles,Marquette Golden Eagles,Marquette
+273630269,2007-12-29,2,2542,away,FALSE,Savannah State,37,Tigers,Savannah State Tigers,Savannah St
+273630084,2007-12-29,2,84,home,FALSE,Indiana,97,Hoosiers,Indiana Hoosiers,Indiana
+273630084,2007-12-29,2,2130,away,FALSE,Chicago State,59,Cougars,Chicago State Cougars,Chicago St
+273630245,2007-12-29,2,245,home,FALSE,Texas A&M,83,Aggies,Texas A&M Aggies,Texas A&M
+273630245,2007-12-29,2,50,away,FALSE,Florida A&M,54,Rattlers,Florida A&M Rattlers,Florida A&M
+273630238,2007-12-29,2,238,home,FALSE,Vanderbilt,92,Commodores,Vanderbilt Commodores,Vanderbilt
+273630238,2007-12-29,2,2630,away,FALSE,UT Martin,85,Skyhawks,UT Martin Skyhawks,UT Martin
+273630222,2007-12-29,2,222,home,FALSE,Villanova,71,Wildcats,Villanova Wildcats,Villanova
+273630222,2007-12-29,2,2325,away,FALSE,La Salle,58,Explorers,La Salle Explorers,La Salle
+273632390,2007-12-29,2,2390,home,TRUE,Miami,70,Hurricanes,Miami Hurricanes,Miami
+273632390,2007-12-29,2,2737,away,TRUE,Winthrop,76,Eagles,Winthrop Eagles,Winthrop
+273630068,2007-12-29,2,68,home,FALSE,Boise State,73,Broncos,Boise State Broncos,Boise St
+273630068,2007-12-29,2,252,away,FALSE,BYU,70,Cougars,BYU Cougars,BYU
+273630228,2007-12-29,2,228,home,FALSE,Clemson,78,Tigers,Clemson Tigers,Clemson
+273630228,2007-12-29,2,2535,away,FALSE,Samford,45,Bulldogs,Samford Bulldogs,Samford
+273630277,2007-12-29,4,277,home,FALSE,West Virginia,82,Mountaineers,West Virginia Mountaineers,West Virginia
+273630277,2007-12-29,4,201,away,FALSE,Oklahoma,88,Sooners,Oklahoma Sooners,Oklahoma
+273630030,2007-12-29,2,30,home,FALSE,USC,70,Trojans,USC Trojans,USC
+273630030,2007-12-29,2,27,away,FALSE,UC Riverside,57,Highlanders,UC Riverside Highlanders,UC Riverside
+273630290,2007-12-29,2,290,home,TRUE,Georgia Southern,80,Eagles,Georgia Southern Eagles,GA Southern
+273630290,2007-12-29,2,227,away,TRUE,Rhode Island,85,Rams,Rhode Island Rams,Rhode Island

@@ -1,0 +1,61 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401021073,2018-03-05,4,2450,home,TRUE,Norfolk State,48,Spartans,Norfolk State Spartans,Norfolk St
+401021073,2018-03-05,4,2542,away,TRUE,Savannah State,51,Tigers,Savannah State Tigers,Savannah St
+401021304,2018-03-05,4,233,home,TRUE,South Dakota,65,Coyotes,South Dakota Coyotes,South Dakota
+401021304,2018-03-05,4,198,away,TRUE,Oral Roberts,53,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+401020867,2018-03-05,4,2739,home,TRUE,Green Bay,66,Phoenix,Green Bay Phoenix,Green Bay
+401020867,2018-03-05,4,2754,away,TRUE,Youngstown State,45,Penguins,Youngstown State Penguins,Youngstown St
+401021072,2018-03-05,4,47,home,TRUE,Howard,64,Bison,Howard Bison,Howard
+401021072,2018-03-05,4,50,away,TRUE,Florida A&M,69,Rattlers,Florida A&M Rattlers,Florida A&M
+401021059,2018-03-05,4,2514,home,TRUE,Quinnipiac,67,Bobcats,Quinnipiac Bobcats,Quinnipiac
+401021059,2018-03-05,4,2368,away,TRUE,Marist,58,Red Foxes,Marist Red Foxes,Marist
+401021264,2018-03-05,4,2250,home,TRUE,Gonzaga,65,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401021264,2018-03-05,4,2539,away,TRUE,San Francisco,53,Dons,San Francisco Dons,San Francisco
+401020816,2018-03-05,4,149,home,TRUE,Montana,87,Lady Griz,Montana Lady Griz,Montana
+401020816,2018-03-05,4,16,away,TRUE,Sacramento State,80,Hornets,Sacramento State Hornets,Sacramento St
+401021303,2018-03-05,4,2571,home,TRUE,South Dakota State,80,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+401021303,2018-03-05,4,2710,away,TRUE,Western Illinois,51,Leathernecks,Western Illinois Leathernecks,W Illinois
+401020868,2018-03-05,4,85,home,TRUE,IU Indianapolis,52,Jaguars,IU Indianapolis Jaguars,IU Indy
+401020868,2018-03-05,4,2750,away,TRUE,Wright State,60,Raiders,Wright State Raiders,Wright St
+401021074,2018-03-05,4,2415,home,TRUE,Morgan State,58,Lady Bears,Morgan State Lady Bears,Morgan St
+401021074,2018-03-05,4,2154,away,TRUE,Coppin State,51,Eagles,Coppin State Eagles,Coppin St
+401020603,2018-03-05,4,269,home,TRUE,Marquette,76,Golden Eagles,Marquette Golden Eagles,Marquette
+401020603,2018-03-05,4,156,away,TRUE,Creighton,70,Bluejays,Creighton Bluejays,Creighton
+401020584,2018-03-05,4,58,home,TRUE,South Florida,74,Bulls,South Florida Bulls,South Florida
+401020584,2018-03-05,4,2116,away,TRUE,UCF,59,Knights,UCF Knights,UCF
+401021263,2018-03-05,4,301,home,TRUE,San Diego,66,Toreros,San Diego Toreros,San Diego
+401021263,2018-03-05,4,279,away,TRUE,Pacific,56,Tigers,Pacific Tigers,Pacific
+401021085,2018-03-05,4,2005,home,TRUE,Air Force,68,Falcons,Air Force Falcons,Air Force
+401021085,2018-03-05,4,328,away,TRUE,Utah State,54,Aggies,Utah State Aggies,Utah State
+401021061,2018-03-05,4,2711,home,FALSE,Western Michigan,85,Broncos,Western Michigan Broncos,W Michigan
+401021061,2018-03-05,4,189,away,FALSE,Bowling Green,71,Falcons,Bowling Green Falcons,Bowling Green
+401020815,2018-03-05,4,304,home,TRUE,Idaho State,59,Bengals,Idaho State Bengals,Idaho St
+401020815,2018-03-05,4,253,away,TRUE,Southern Utah,49,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+401021708,2018-03-05,4,2083,home,FALSE,Bucknell,67,Bison,Bucknell Bison,Bucknell
+401021708,2018-03-05,4,107,away,FALSE,Holy Cross,53,Crusaders,Holy Cross Crusaders,Holy Cross
+401021706,2018-03-05,5,2329,home,FALSE,Lehigh,60,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+401021706,2018-03-05,5,349,away,FALSE,Army,62,Black Knights,Army Black Knights,Army
+401020604,2018-03-05,4,305,home,FALSE,DePaul,85,Blue Demons,DePaul Blue Demons,DePaul
+401020604,2018-03-05,4,46,away,FALSE,Georgetown,53,Hoyas,Georgetown Hoyas,Georgetown
+401021707,2018-03-05,4,2426,home,FALSE,Navy,63,Midshipmen,Navy Midshipmen,Navy
+401021707,2018-03-05,4,2352,away,FALSE,Loyola Maryland,55,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+401021705,2018-03-05,4,44,home,FALSE,American University,55,Eagles,American University Eagles,American
+401021705,2018-03-05,4,322,away,FALSE,Lafayette,35,Leopards,Lafayette Leopards,Lafayette
+401021063,2018-03-05,4,2459,home,FALSE,Northern Illinois,77,Huskies,Northern Illinois Huskies,N Illinois
+401021063,2018-03-05,4,2199,away,FALSE,Eastern Michigan,84,Eagles,Eastern Michigan Eagles,E Michigan
+401021062,2018-03-05,4,195,home,FALSE,Ohio,85,Bobcats,Ohio Bobcats,Ohio
+401021062,2018-03-05,4,2006,away,FALSE,Akron,73,Zips,Akron Zips,Akron
+401021060,2018-03-05,5,2649,home,FALSE,Toledo,76,Rockets,Toledo Rockets,Toledo
+401021060,2018-03-05,5,2309,away,FALSE,Kent State,80,Golden Flashes,Kent State Golden Flashes,Kent State
+401020583,2018-03-05,4,41,home,TRUE,UConn,75,Huskies,UConn Huskies,UConn
+401020583,2018-03-05,4,2132,away,TRUE,Cincinnati,21,Bearcats,Cincinnati Bearcats,Cincinnati
+401021084,2018-03-05,5,2440,home,TRUE,Nevada,95,Wolf Pack,Nevada Wolf Pack,Nevada
+401021084,2018-03-05,5,21,away,TRUE,San Diego State,84,Aztecs,San Diego State Aztecs,San Diego St
+401020814,2018-03-05,4,147,home,TRUE,Montana State,68,Bobcats,Montana State Bobcats,Montana St
+401020814,2018-03-05,4,155,away,TRUE,North Dakota,58,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
+401020563,2018-03-05,4,239,home,TRUE,Baylor,77,Bears,Baylor Bears,Baylor
+401020563,2018-03-05,4,251,away,TRUE,Texas,69,Longhorns,Texas Longhorns,Texas
+401021083,2018-03-05,4,167,home,TRUE,New Mexico,84,Lobos,New Mexico Lobos,New Mexico
+401021083,2018-03-05,4,23,away,TRUE,San José State,54,Spartans,San José State Spartans,San José St
+401020813,2018-03-05,4,2502,home,TRUE,Portland State,77,Vikings,Portland State Vikings,Portland St
+401020813,2018-03-05,4,2464,away,TRUE,Northern Arizona,61,Lumberjacks,Northern Arizona Lumberjacks,N Arizona

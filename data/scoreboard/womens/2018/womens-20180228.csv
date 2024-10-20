@@ -1,0 +1,67 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401020116,2018-02-28,4,238,home,TRUE,Vanderbilt,76,Commodores,Vanderbilt Commodores,Vanderbilt
+401020116,2018-02-28,4,8,away,TRUE,Arkansas,88,Razorbacks,Arkansas Razorbacks,Arkansas
+401020096,2018-02-28,4,153,home,TRUE,North Carolina,69,Tar Heels,North Carolina Tar Heels,North Carolina
+401020096,2018-02-28,4,103,away,TRUE,Boston College,64,Eagles,Boston College Eagles,Boston College
+401020510,2018-02-28,4,77,home,TRUE,Northwestern,68,Wildcats,Northwestern Wildcats,Northwestern
+401020510,2018-02-28,4,275,away,TRUE,Wisconsin,63,Badgers,Wisconsin Badgers,Wisconsin
+401021094,2018-02-28,4,2057,home,TRUE,Belmont,88,Bruins,Belmont Bruins,Belmont
+401021094,2018-02-28,4,93,away,TRUE,Murray State,64,Racers,Murray State Racers,Murray St
+401020117,2018-02-28,4,57,home,TRUE,Florida,43,Gators,Florida Gators,Florida
+401020117,2018-02-28,4,145,away,TRUE,Ole Miss,48,Rebels,Ole Miss Rebels,Ole Miss
+401020095,2018-02-28,4,59,home,TRUE,Georgia Tech,61,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+401020095,2018-02-28,4,228,away,TRUE,Clemson,52,Tigers,Clemson Tigers,Clemson
+401020511,2018-02-28,4,213,home,TRUE,Penn State,83,Lady Lions,Penn State Lady Lions,Penn State
+401020511,2018-02-28,4,356,away,TRUE,Illinois,57,Fighting Illini,Illinois Fighting Illini,Illinois
+401021093,2018-02-28,4,2630,home,TRUE,UT Martin,63,Skyhawks,UT Martin Skyhawks,UT Martin
+401021093,2018-02-28,4,2546,away,TRUE,Southeast Missouri State,60,Redhawks,Southeast Missouri State Redhawks,SE Missouri
+401021431,2018-02-28,4,2378,home,FALSE,UMBC,73,Retrievers,UMBC Retrievers,UMBC
+401021431,2018-02-28,4,2349,away,FALSE,UMass Lowell,65,River Hawks,UMass Lowell River Hawks,UMass Lowell
+400996431,2018-02-28,4,2329,home,FALSE,Lehigh,62,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+400996431,2018-02-28,4,107,away,FALSE,Holy Cross,65,Crusaders,Holy Cross Crusaders,Holy Cross
+401020094,2018-02-28,4,154,home,TRUE,Wake Forest,72,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+401020094,2018-02-28,4,221,away,TRUE,Pittsburgh,38,Panthers,Pittsburgh Panthers,Pitt
+400998103,2018-02-28,4,2447,home,FALSE,Nicholls,85,Colonels,Nicholls Colonels,Nicholls
+400998103,2018-02-28,4,2466,away,FALSE,Northwestern State,53,Lady Demons,Northwestern State Lady Demons,N'Western St
+400997861,2018-02-28,4,189,home,FALSE,Bowling Green,84,Falcons,Bowling Green Falcons,Bowling Green
+400997861,2018-02-28,4,2006,away,FALSE,Akron,63,Zips,Akron Zips,Akron
+400997860,2018-02-28,4,195,home,FALSE,Ohio,56,Bobcats,Ohio Bobcats,Ohio
+400997860,2018-02-28,4,193,away,FALSE,Miami (OH),78,RedHawks,Miami (OH) RedHawks,Miami OH
+400997859,2018-02-28,4,2117,home,FALSE,Central Michigan,88,Chippewas,Central Michigan Chippewas,C Michigan
+400997859,2018-02-28,4,2050,away,FALSE,Ball State,80,Cardinals,Ball State Cardinals,Ball State
+400997858,2018-02-28,4,2459,home,FALSE,Northern Illinois,89,Huskies,Northern Illinois Huskies,N Illinois
+400997858,2018-02-28,4,2649,away,FALSE,Toledo,79,Rockets,Toledo Rockets,Toledo
+400997857,2018-02-28,4,2309,home,FALSE,Kent State,51,Golden Flashes,Kent State Golden Flashes,Kent State
+400997857,2018-02-28,4,2084,away,FALSE,Buffalo,81,Bulls,Buffalo Bulls,Buffalo
+400997856,2018-02-28,4,2711,home,FALSE,Western Michigan,74,Broncos,Western Michigan Broncos,W Michigan
+400997856,2018-02-28,4,2199,away,FALSE,Eastern Michigan,66,Eagles,Eastern Michigan Eagles,E Michigan
+400996435,2018-02-28,4,349,home,FALSE,Army,55,Black Knights,Army Black Knights,Army
+400996435,2018-02-28,4,2083,away,FALSE,Bucknell,75,Bison,Bucknell Bison,Bucknell
+400996434,2018-02-28,4,2426,home,FALSE,Navy,76,Midshipmen,Navy Midshipmen,Navy
+400996434,2018-02-28,4,44,away,FALSE,American University,49,Eagles,American University Eagles,American
+400996433,2018-02-28,4,2352,home,FALSE,Loyola Maryland,65,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+400996433,2018-02-28,4,104,away,FALSE,Boston University,52,Terriers,Boston University Terriers,Boston U
+400996432,2018-02-28,4,2142,home,FALSE,Colgate,60,Raiders,Colgate Raiders,Colgate
+400996432,2018-02-28,4,322,away,FALSE,Lafayette,55,Leopards,Lafayette Leopards,Lafayette
+400998100,2018-02-28,4,2534,home,FALSE,Sam Houston,53,Bearkats,Sam Houston Bearkats,Sam Houston
+400998100,2018-02-28,4,2110,away,FALSE,Central Arkansas,73,Sugar Bears,Central Arkansas Sugar Bears,C Arkansas
+400998099,2018-02-28,4,2377,home,FALSE,McNeese,70,Cowgirls,McNeese Cowgirls,McNeese
+400998099,2018-02-28,4,357,away,FALSE,Texas A&M-Corpus Christi,64,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+400998102,2018-02-28,4,2277,home,FALSE,Houston Christian,67,Huskies,Houston Christian Huskies,Hou Christian
+400998102,2018-02-28,4,2916,away,FALSE,Incarnate Word,56,Cardinals,Incarnate Word Cardinals,Incarnate Word
+400998101,2018-02-28,4,2545,home,FALSE,SE Louisiana,71,Lady Lions,SE Louisiana Lady Lions,SE Louisiana
+400998101,2018-02-28,4,2443,away,FALSE,New Orleans,74,Privateers,New Orleans Privateers,New Orleans
+400998098,2018-02-28,4,2000,home,FALSE,Abilene Christian,52,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
+400998098,2018-02-28,4,2617,away,FALSE,Stephen F. Austin,78,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
+400996878,2018-02-28,4,155,home,FALSE,North Dakota,66,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
+400996878,2018-02-28,4,16,away,FALSE,Sacramento State,72,Hornets,Sacramento State Hornets,Sacramento St
+400996876,2018-02-28,4,253,home,FALSE,Southern Utah,49,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+400996876,2018-02-28,4,331,away,FALSE,Eastern Washington,70,Eagles,Eastern Washington Eagles,E Washington
+400996875,2018-02-28,4,2464,home,FALSE,Northern Arizona,83,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+400996875,2018-02-28,4,70,away,FALSE,Idaho,93,Vandals,Idaho Vandals,Idaho
+400996877,2018-02-28,4,2458,home,FALSE,Northern Colorado,63,Bears,Northern Colorado Bears,N Colorado
+400996877,2018-02-28,4,2502,away,FALSE,Portland State,60,Vikings,Portland State Vikings,Portland St
+400996874,2018-02-28,4,304,home,FALSE,Idaho State,60,Bengals,Idaho State Bengals,Idaho St
+400996874,2018-02-28,4,147,away,FALSE,Montana State,61,Bobcats,Montana State Bobcats,Montana St
+400996873,2018-02-28,4,2692,home,FALSE,Weber State,89,Wildcats,Weber State Wildcats,Weber St
+400996873,2018-02-28,4,149,away,FALSE,Montana,73,Lady Griz,Montana Lady Griz,Montana

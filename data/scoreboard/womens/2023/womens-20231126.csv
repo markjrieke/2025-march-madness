@@ -1,0 +1,15 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401582177,2023-11-26,4,24,home,FALSE,Stanford,79,Cardinal,Stanford Cardinal,Stanford
+401582177,2023-11-26,4,399,away,FALSE,UAlbany,35,Great Danes,UAlbany Great Danes,UAlbany
+401604416,2023-11-26,4,2306,home,TRUE,Kansas State,70,Wildcats,Kansas State Wildcats,Kansas St
+401604416,2023-11-26,4,2294,away,TRUE,Iowa,77,Hawkeyes,Iowa Hawkeyes,Iowa
+401601113,2023-11-26,4,239,home,FALSE,Baylor,93,Bears,Baylor Bears,Baylor
+401601113,2023-11-26,4,2016,away,FALSE,Alcorn State,47,Lady Braves,Alcorn State Lady Braves,Alcorn St
+401595151,2023-11-26,4,194,home,FALSE,Ohio State,83,Buckeyes,Ohio State Buckeyes,Ohio State
+401595151,2023-11-26,4,172,away,FALSE,Cornell,40,Big Red,Cornell Big Red,Cornell
+401604420,2023-11-26,4,153,home,TRUE,North Carolina,64,Tar Heels,North Carolina Tar Heels,North Carolina
+401604420,2023-11-26,4,526,away,TRUE,Florida Gulf Coast,65,Eagles,Florida Gulf Coast Eagles,FGCU
+401598319,2023-11-26,4,97,home,TRUE,Louisville,81,Cardinals,Louisville Cardinals,Louisville
+401598319,2023-11-26,4,2250,away,TRUE,Gonzaga,70,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401596643,2023-11-26,4,344,home,TRUE,Mississippi State,102,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401596643,2023-11-26,4,202,away,TRUE,Tulsa,58,Golden Hurricane,Tulsa Golden Hurricane,Tulsa

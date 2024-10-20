@@ -1,0 +1,31 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330702569,2013-03-11,0,2569,home,TRUE,South Carolina State,0,Lady Bulldogs,South Carolina State Lady Bulldogs,SC State
+330702569,2013-03-11,0,2542,away,TRUE,Savannah State,0,Tigers,Savannah State Tigers,Savannah St
+330702368,2013-03-11,2,2368,home,TRUE,Marist,72,Red Foxes,Marist Red Foxes,Marist
+330702368,2013-03-11,2,314,away,TRUE,Iona,48,Gaels,Iona Gaels,Iona
+330702571,2013-03-11,2,2571,home,TRUE,South Dakota State,86,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+330702571,2013-03-11,2,2870,away,TRUE,Purdue Fort Wayne,59,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+330702154,2013-03-11,2,2154,home,TRUE,Coppin State,44,Eagles,Coppin State Eagles,Coppin St
+330702154,2013-03-11,2,2428,away,TRUE,North Carolina Central,41,Eagles,North Carolina Central Eagles,NC Central
+330702393,2013-03-11,2,2393,home,TRUE,Middle Tennessee,53,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+330702393,2013-03-11,2,2031,away,TRUE,Little Rock,48,Trojans,Little Rock Trojans,Little Rock
+330700236,2013-03-11,2,236,home,TRUE,Chattanooga,64,Mocs,Chattanooga Mocs,Chattanooga
+330700236,2013-03-11,2,2166,away,TRUE,Davidson,63,Wildcats,Davidson Wildcats,Davidson
+330700085,2013-03-11,2,85,home,TRUE,IU Indianapolis,72,Jaguars,IU Indianapolis Jaguars,IU Indy
+330700085,2013-03-11,2,233,away,TRUE,South Dakota,82,Coyotes,South Dakota Coyotes,South Dakota
+330702415,2013-03-11,2,2415,home,TRUE,Morgan State,56,Lady Bears,Morgan State Lady Bears,Morgan St
+330702415,2013-03-11,2,2379,away,TRUE,Maryland Eastern Shore,49,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+330702250,2013-03-11,2,2250,home,TRUE,Gonzaga,62,Bulldogs,Gonzaga Bulldogs,Gonzaga
+330702250,2013-03-11,2,301,away,TRUE,San Diego,50,Toreros,San Diego Toreros,San Diego
+330700087,2013-03-11,2,87,home,TRUE,Notre Dame,83,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+330700087,2013-03-11,2,97,away,TRUE,Louisville,59,Cardinals,Louisville Cardinals,Louisville
+330702426,2013-03-11,2,2426,home,FALSE,Navy,60,Midshipmen,Navy Midshipmen,Navy
+330702426,2013-03-11,2,2083,away,FALSE,Bucknell,48,Bison,Bucknell Bison,Bucknell
+330700107,2013-03-11,2,107,home,FALSE,Holy Cross,59,Crusaders,Holy Cross Crusaders,Holy Cross
+330700107,2013-03-11,2,2142,away,FALSE,Colgate,38,Raiders,Colgate Raiders,Colgate
+330702674,2013-03-11,2,2674,home,FALSE,Valparaiso,67,Beacons,Valparaiso Beacons,Valparaiso
+330702674,2013-03-11,2,82,away,FALSE,UIC,57,Flames,UIC Flames,UIC
+330700239,2013-03-11,2,239,home,TRUE,Baylor,75,Bears,Baylor Bears,Baylor
+330700239,2013-03-11,2,66,away,TRUE,Iowa State,47,Cyclones,Iowa State Cyclones,Iowa State
+330700041,2013-03-11,2,41,home,TRUE,UConn,64,Huskies,UConn Huskies,UConn
+330700041,2013-03-11,2,183,away,TRUE,Syracuse,51,Orange,Syracuse Orange,Syracuse

@@ -1,0 +1,33 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400831523,2016-01-23,2,239,home,FALSE,Baylor,72,Bears,Baylor Bears,Baylor
+400831523,2016-01-23,2,201,away,FALSE,Oklahoma,82,Sooners,Oklahoma Sooners,Oklahoma
+400831524,2016-01-23,2,2305,home,FALSE,Kansas,76,Jayhawks,Kansas Jayhawks,Kansas
+400831524,2016-01-23,2,251,away,FALSE,Texas,67,Longhorns,Texas Longhorns,Texas
+400840311,2016-01-23,2,2752,home,FALSE,Xavier,84,Musketeers,Xavier Musketeers,Xavier
+400840311,2016-01-23,2,2550,away,FALSE,Seton Hall,76,Pirates,Seton Hall Pirates,Seton Hall
+400839325,2016-01-23,2,127,home,FALSE,Michigan State,74,Spartans,Michigan State Spartans,Michigan St
+400839325,2016-01-23,2,120,away,FALSE,Maryland,65,Terrapins,Maryland Terrapins,Maryland
+400830414,2016-01-23,2,245,home,FALSE,Texas A&M,66,Aggies,Texas A&M Aggies,Texas A&M
+400830414,2016-01-23,2,142,away,FALSE,Missouri,53,Tigers,Missouri Tigers,Missouri
+400841319,2016-01-23,2,25,home,FALSE,California,74,Golden Bears,California Golden Bears,California
+400841319,2016-01-23,2,12,away,FALSE,Arizona,73,Wildcats,Arizona Wildcats,Arizona
+400839336,2016-01-23,2,2390,home,FALSE,Miami,77,Hurricanes,Miami Hurricanes,Miami
+400839336,2016-01-23,2,154,away,FALSE,Wake Forest,63,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+400839791,2016-01-23,2,59,home,FALSE,Georgia Tech,71,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+400839791,2016-01-23,2,97,away,FALSE,Louisville,75,Cardinals,Louisville Cardinals,Louisville
+400840207,2016-01-23,2,156,home,FALSE,Creighton,72,Bluejays,Creighton Bluejays,Creighton
+400840207,2016-01-23,2,2086,away,FALSE,Butler,64,Bulldogs,Butler Bulldogs,Butler
+400831525,2016-01-23,2,2628,home,FALSE,TCU,60,Horned Frogs,TCU Horned Frogs,TCU
+400831525,2016-01-23,2,66,away,FALSE,Iowa State,73,Cyclones,Iowa State Cyclones,Iowa State
+400839767,2016-01-23,2,152,home,FALSE,NC State,78,Wolfpack,NC State Wolfpack,NC State
+400839767,2016-01-23,2,150,away,FALSE,Duke,88,Blue Devils,Duke Blue Devils,Duke
+400830416,2016-01-23,2,96,home,FALSE,Kentucky,76,Wildcats,Kentucky Wildcats,Kentucky
+400830416,2016-01-23,2,238,away,FALSE,Vanderbilt,57,Commodores,Vanderbilt Commodores,Vanderbilt
+400830415,2016-01-23,2,2633,home,FALSE,Tennessee,78,Volunteers,Tennessee Volunteers,Tennessee
+400830415,2016-01-23,2,2579,away,FALSE,South Carolina,69,Gamecocks,South Carolina Gamecocks,South Carolina
+400839289,2016-01-23,2,84,home,FALSE,Indiana,89,Hoosiers,Indiana Hoosiers,Indiana
+400839289,2016-01-23,2,77,away,FALSE,Northwestern,57,Wildcats,Northwestern Wildcats,Northwestern
+400840299,2016-01-23,0,222,home,FALSE,Villanova,0,Wildcats,Villanova Wildcats,Villanova
+400840299,2016-01-23,0,2507,away,FALSE,Providence,0,Friars,Providence Friars,Providence
+400835273,2016-01-23,0,218,home,FALSE,Temple,0,Owls,Temple Owls,Temple
+400835273,2016-01-23,0,2567,away,FALSE,SMU,0,Mustangs,SMU Mustangs,SMU

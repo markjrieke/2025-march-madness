@@ -1,0 +1,9 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401166185,2020-01-23,2,84,home,FALSE,Indiana,67,Hoosiers,Indiana Hoosiers,Indiana
+401166185,2020-01-23,2,127,away,FALSE,Michigan State,63,Spartans,Michigan State Spartans,Michigan St
+401170677,2020-01-23,4,2483,home,FALSE,Oregon,79,Ducks,Oregon Ducks,Oregon
+401170677,2020-01-23,4,30,away,FALSE,USC,70,Trojans,USC Trojans,USC
+401170676,2020-01-23,2,38,home,FALSE,Colorado,78,Buffaloes,Colorado Buffaloes,Colorado
+401170676,2020-01-23,2,265,away,FALSE,Washington State,56,Cougars,Washington State Cougars,Washington St
+401169546,2020-01-23,2,248,home,FALSE,Houston,63,Cougars,Houston Cougars,Houston
+401169546,2020-01-23,2,41,away,FALSE,UConn,59,Huskies,UConn Huskies,UConn

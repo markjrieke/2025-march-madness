@@ -1,0 +1,13 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401598444,2023-11-20,4,2579,home,FALSE,South Carolina,78,Gamecocks,South Carolina Gamecocks,South Carolina
+401598444,2023-11-20,4,2571,away,FALSE,South Dakota State,38,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+401594927,2023-11-20,4,99,home,FALSE,LSU,106,Tigers,LSU Tigers,LSU
+401594927,2023-11-20,4,2640,away,FALSE,Texas Southern,47,Tigers,Texas Southern Tigers,Texas Southern
+401594921,2023-11-20,4,30,home,TRUE,USC,64,Trojans,USC Trojans,USC
+401594921,2023-11-20,4,2550,away,TRUE,Seton Hall,54,Pirates,Seton Hall Pirates,Seton Hall
+401589264,2023-11-20,4,259,home,FALSE,Virginia Tech,72,Hokies,Virginia Tech Hokies,Virginia Tech
+401589264,2023-11-20,4,2430,away,FALSE,UNC Greensboro,51,Spartans,UNC Greensboro Spartans,UNC Greensboro
+401582202,2023-11-20,4,151,home,TRUE,East Carolina,55,Pirates,East Carolina Pirates,East Carolina
+401582202,2023-11-20,4,194,away,TRUE,Ohio State,79,Buckeyes,Ohio State Buckeyes,Ohio State
+401604376,2023-11-20,4,145,home,TRUE,Ole Miss,60,Rebels,Ole Miss Rebels,Ole Miss
+401604376,2023-11-20,4,130,away,TRUE,Michigan,49,Wolverines,Michigan Wolverines,Michigan

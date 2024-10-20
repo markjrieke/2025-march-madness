@@ -1,0 +1,57 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401211975,2020-03-02,4,278,home,TRUE,Fresno State,75,Bulldogs,Fresno State Bulldogs,Fresno St
+401211975,2020-03-02,4,2440,away,TRUE,Nevada,71,Wolf Pack,Nevada Wolf Pack,Nevada
+401211976,2020-03-02,4,23,home,TRUE,San José State,67,Spartans,San José State Spartans,San José St
+401211976,2020-03-02,4,2439,away,TRUE,UNLV,48,Lady Rebels,UNLV Lady Rebels,UNLV
+401180120,2020-03-02,4,2569,home,FALSE,South Carolina State,47,Lady Bulldogs,South Carolina State Lady Bulldogs,SC State
+401180120,2020-03-02,4,2448,away,FALSE,North Carolina A&T,63,Aggies,North Carolina A&T Aggies,NC A&T
+401179906,2020-03-02,4,47,home,FALSE,Howard,70,Bison,Howard Bison,Howard
+401179906,2020-03-02,4,2379,away,FALSE,Maryland Eastern Shore,71,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+401179807,2020-03-02,4,2169,home,FALSE,Delaware State,57,Hornets,Delaware State Hornets,Delaware St
+401179807,2020-03-02,4,2450,away,FALSE,Norfolk State,68,Spartans,Norfolk State Spartans,Norfolk St
+401179775,2020-03-02,4,2428,home,FALSE,North Carolina Central,55,Eagles,North Carolina Central Eagles,NC Central
+401179775,2020-03-02,4,2065,away,FALSE,Bethune-Cookman,70,Wildcats,Bethune-Cookman Wildcats,Bethune
+401180288,2020-03-02,4,2755,home,FALSE,Grambling,72,Lady Tigers,Grambling Lady Tigers,Grambling
+401180288,2020-03-02,4,2400,away,FALSE,Mississippi Valley State,47,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
+401180276,2020-03-02,4,2296,home,FALSE,Jackson State,68,Lady Tigers,Jackson State Lady Tigers,Jackson St
+401180276,2020-03-02,4,2029,away,FALSE,Arkansas-Pine Bluff,47,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+401180244,2020-03-02,4,2640,home,FALSE,Texas Southern,88,Tigers,Texas Southern Tigers,Texas Southern
+401180244,2020-03-02,4,2011,away,FALSE,Alabama State,59,Lady Hornets,Alabama State Lady Hornets,Alabama St
+401177907,2020-03-02,4,2504,home,FALSE,Prairie View A&M,60,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
+401177907,2020-03-02,4,2010,away,FALSE,Alabama A&M,53,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+401179211,2020-03-02,4,161,home,FALSE,Fairleigh Dickinson,57,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+401179211,2020-03-02,4,2681,away,FALSE,Wagner,53,Seahawks,Wagner Seahawks,Wagner
+401179210,2020-03-02,4,116,home,FALSE,Mount St. Mary's,52,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+401179210,2020-03-02,4,2523,away,FALSE,Robert Morris,57,Colonials,Robert Morris Colonials,Robert Morris
+401179209,2020-03-02,4,2803,home,FALSE,Bryant,49,Bulldogs,Bryant Bulldogs,Bryant
+401179209,2020-03-02,4,2529,away,FALSE,Sacred Heart,60,Pioneers,Sacred Heart Pioneers,Sacred Heart
+401179208,2020-03-02,4,2115,home,FALSE,Central Connecticut,71,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+401179208,2020-03-02,4,112358,away,FALSE,Long Island University,57,Sharks,Long Island University Sharks,Long Island
+401179207,2020-03-02,4,2597,home,FALSE,St. Francis Brooklyn,54,Terriers,St. Francis Brooklyn Terriers,St Francis BK
+401179207,2020-03-02,4,2771,away,FALSE,Merrimack,72,Warriors,Merrimack Warriors,Merrimack
+401178929,2020-03-02,4,314,home,FALSE,Iona,47,Gaels,Iona Gaels,Iona
+401178929,2020-03-02,4,2363,away,FALSE,Manhattan,59,Jaspers,Manhattan Jaspers,Manhattan
+401174361,2020-03-02,4,56,home,FALSE,Stetson,60,Hatters,Stetson Hatters,Stetson
+401174361,2020-03-02,4,2454,away,FALSE,North Florida,62,Ospreys,North Florida Ospreys,North Florida
+401174360,2020-03-02,4,338,home,FALSE,Kennesaw State,70,Owls,Kennesaw State Owls,Kennesaw St
+401174360,2020-03-02,4,2335,away,FALSE,Liberty,76,Flames,Liberty Flames,Liberty
+401174359,2020-03-02,4,2453,home,FALSE,North Alabama,90,Lions,North Alabama Lions,North Alabama
+401174359,2020-03-02,4,2885,away,FALSE,NJIT,45,Highlanders,NJIT Highlanders,NJIT
+401174358,2020-03-02,4,526,home,FALSE,Florida Gulf Coast,77,Eagles,Florida Gulf Coast Eagles,FGCU
+401174358,2020-03-02,4,294,away,FALSE,Jacksonville,64,Dolphins,Jacksonville Dolphins,Jacksonville
+401169387,2020-03-02,4,41,home,FALSE,UConn,80,Huskies,UConn Huskies,UConn
+401169387,2020-03-02,4,58,away,FALSE,South Florida,39,Bulls,South Florida Bulls,South Florida
+401169386,2020-03-02,4,2116,home,FALSE,UCF,95,Knights,UCF Knights,UCF
+401169386,2020-03-02,4,2724,away,FALSE,Wichita State,50,Shockers,Wichita State Shockers,Wichita St
+401169382,2020-03-02,4,2132,home,FALSE,Cincinnati,76,Bearcats,Cincinnati Bearcats,Cincinnati
+401169382,2020-03-02,4,151,away,FALSE,East Carolina,53,Pirates,East Carolina Pirates,East Carolina
+401169385,2020-03-02,4,202,home,FALSE,Tulsa,71,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+401169385,2020-03-02,4,248,away,FALSE,Houston,64,Cougars,Houston Cougars,Houston
+401169384,2020-03-02,4,2655,home,FALSE,Tulane,53,Green Wave,Tulane Green Wave,Tulane
+401169384,2020-03-02,4,218,away,FALSE,Temple,50,Owls,Temple Owls,Temple
+401169383,2020-03-02,4,2567,home,FALSE,SMU,69,Mustangs,SMU Mustangs,SMU
+401169383,2020-03-02,4,235,away,FALSE,Memphis,60,Tigers,Memphis Tigers,Memphis
+401211977,2020-03-02,4,68,home,TRUE,Boise State,73,Broncos,Boise State Broncos,Boise St
+401211977,2020-03-02,4,2005,away,TRUE,Air Force,50,Falcons,Air Force Falcons,Air Force
+401211978,2020-03-02,4,2751,home,TRUE,Wyoming,64,Cowgirls,Wyoming Cowgirls,Wyoming
+401211978,2020-03-02,4,328,away,TRUE,Utah State,59,Aggies,Utah State Aggies,Utah State

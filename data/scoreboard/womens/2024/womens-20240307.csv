@@ -1,0 +1,13 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401629608,2024-03-07,4,24,home,TRUE,Stanford,71,Cardinal,Stanford Cardinal,Stanford
+401629608,2024-03-07,4,25,away,TRUE,California,57,Golden Bears,California Golden Bears,California
+401629609,2024-03-07,4,30,home,TRUE,USC,65,Trojans,USC Trojans,USC
+401629609,2024-03-07,4,12,away,TRUE,Arizona,62,Wildcats,Arizona Wildcats,Arizona
+401629610,2024-03-07,4,26,home,TRUE,UCLA,67,Bruins,UCLA Bruins,UCLA
+401629610,2024-03-07,4,254,away,TRUE,Utah,57,Utes,Utah Utes,Utah
+401629607,2024-03-07,6,204,home,TRUE,Oregon State,85,Beavers,Oregon State Beavers,Oregon St
+401629607,2024-03-07,6,38,away,TRUE,Colorado,79,Buffaloes,Colorado Buffaloes,Colorado
+401629135,2024-03-07,4,97,home,TRUE,Louisville,58,Cardinals,Louisville Cardinals,Louisville
+401629135,2024-03-07,4,103,away,TRUE,Boston College,55,Eagles,Boston College Eagles,Boston College
+401594767,2024-03-07,4,2612,home,FALSE,Saint Peter's,46,Peacocks,Saint Peter's Peacocks,Saint Peter's
+401594767,2024-03-07,4,2217,away,FALSE,Fairfield,63,Stags,Fairfield Stags,Fairfield

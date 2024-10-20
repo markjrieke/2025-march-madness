@@ -1,0 +1,7 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400588216,2014-12-19,2,41,home,TRUE,UConn,98,Huskies,UConn Huskies,UConn
+400588216,2014-12-19,2,305,away,TRUE,DePaul,64,Blue Demons,DePaul Blue Demons,DePaul
+400593033,2014-12-19,2,153,home,TRUE,North Carolina,65,Tar Heels,North Carolina Tar Heels,North Carolina
+400593033,2014-12-19,2,311,away,TRUE,Maine,36,Black Bears,Maine Black Bears,Maine
+400593030,2014-12-19,2,150,home,FALSE,Duke,95,Blue Devils,Duke Blue Devils,Duke
+400593030,2014-12-19,2,2349,away,FALSE,UMass Lowell,48,River Hawks,UMass Lowell River Hawks,UMass Lowell

@@ -1,0 +1,13 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400508361,2013-12-01,2,96,home,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
+400508361,2013-12-01,2,97,away,FALSE,Louisville,64,Cardinals,Louisville Cardinals,Louisville
+400508719,2013-12-01,2,87,home,TRUE,Notre Dame,100,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400508719,2013-12-01,2,2184,away,TRUE,Duquesne,61,Dukes,Duquesne Dukes,Duquesne
+400503693,2013-12-01,2,201,home,FALSE,Oklahoma,80,Sooners,Oklahoma Sooners,Oklahoma
+400503693,2013-12-01,2,156,away,FALSE,Creighton,52,Bluejays,Creighton Bluejays,Creighton
+400503694,2013-12-01,2,197,home,FALSE,Oklahoma State,95,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+400503694,2013-12-01,2,249,away,FALSE,North Texas,47,Mean Green,North Texas Mean Green,North Texas
+400505163,2013-12-01,2,127,home,FALSE,Michigan State,76,Spartans,Michigan State Spartans,Michigan St
+400505163,2013-12-01,2,2870,away,FALSE,Purdue Fort Wayne,81,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+400509444,2013-12-01,2,77,home,FALSE,Northwestern,82,Wildcats,Northwestern Wildcats,Northwestern
+400509444,2013-12-01,2,305,away,FALSE,DePaul,79,Blue Demons,DePaul Blue Demons,DePaul

@@ -1,0 +1,19 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303312483,2010-11-27,2,2483,home,TRUE,Oregon,71,Ducks,Oregon Ducks,Oregon
+303312483,2010-11-27,2,150,away,TRUE,Duke,98,Blue Devils,Duke Blue Devils,Duke
+303310221,2010-11-27,2,221,home,FALSE,Pittsburgh,82,Panthers,Pittsburgh Panthers,Pitt
+303310221,2010-11-27,2,219,away,FALSE,Pennsylvania,58,Quakers,Pennsylvania Quakers,Penn
+303312305,2010-11-27,2,2305,home,TRUE,Kansas,87,Jayhawks,Kansas Jayhawks,Kansas
+303312305,2010-11-27,2,12,away,TRUE,Arizona,79,Wildcats,Arizona Wildcats,Arizona
+303310059,2010-11-27,2,59,home,TRUE,Georgia Tech,76,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+303310059,2010-11-27,2,183,away,TRUE,Syracuse,80,Orange,Syracuse Orange,Syracuse
+303310257,2010-11-27,2,257,home,TRUE,Richmond,65,Spiders,Richmond Spiders,Richmond
+303310257,2010-11-27,2,2509,away,TRUE,Purdue,54,Boilermakers,Purdue Boilermakers,Purdue
+303310046,2010-11-27,2,46,home,FALSE,Georgetown,87,Hoyas,Georgetown Hoyas,Georgetown
+303310046,2010-11-27,2,2427,away,FALSE,UNC Asheville,72,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+303312711,2010-11-27,2,2711,home,FALSE,Western Michigan,63,Broncos,Western Michigan Broncos,W Michigan
+303312711,2010-11-27,2,356,away,FALSE,Illinois,78,Fighting Illini,Illinois Fighting Illini,Illinois
+303310251,2010-11-27,2,251,home,FALSE,Texas,62,Longhorns,Texas Longhorns,Texas
+303310251,2010-11-27,2,242,away,FALSE,Rice,59,Owls,Rice Owls,Rice
+303310252,2010-11-27,2,252,home,TRUE,BYU,74,Cougars,BYU Cougars,BYU
+303310252,2010-11-27,2,2608,away,TRUE,Saint Mary's,73,Gaels,Saint Mary's Gaels,Saint Mary's

@@ -1,0 +1,73 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401514224,2023-03-08,2,2166,home,TRUE,Davidson,65,Wildcats,Davidson Wildcats,Davidson
+401514224,2023-03-08,2,179,away,TRUE,St. Bonaventure,54,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+401514041,2023-03-08,2,183,home,TRUE,Syracuse,74,Orange,Syracuse Orange,Syracuse
+401514041,2023-03-08,2,154,away,TRUE,Wake Forest,77,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+401514973,2023-03-08,2,36,home,TRUE,Colorado State,67,Rams,Colorado State Rams,Colorado St
+401514973,2023-03-08,2,278,away,TRUE,Fresno State,65,Bulldogs,Fresno State Bulldogs,Fresno St
+401514225,2023-03-08,2,2244,home,TRUE,George Mason,62,Patriots,George Mason Patriots,George Mason
+401514225,2023-03-08,2,257,away,TRUE,Richmond,57,Spiders,Richmond Spiders,Richmond
+401514042,2023-03-08,2,221,home,TRUE,Pittsburgh,89,Panthers,Pittsburgh Panthers,Pitt
+401514042,2023-03-08,2,59,away,TRUE,Georgia Tech,81,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+401527430,2023-03-08,2,2755,home,TRUE,Grambling,87,Tigers,Grambling Tigers,Grambling
+401527430,2023-03-08,2,2065,away,TRUE,Bethune-Cookman,72,Wildcats,Bethune-Cookman Wildcats,Bethune
+401514403,2023-03-08,2,264,home,TRUE,Washington,68,Huskies,Washington Huskies,Washington
+401514403,2023-03-08,2,38,away,TRUE,Colorado,74,Buffaloes,Colorado Buffaloes,Colorado
+401514244,2023-03-08,2,2599,home,TRUE,St. John's,76,Red Storm,St. John's Red Storm,St John's
+401514244,2023-03-08,2,2086,away,TRUE,Butler,63,Bulldogs,Butler Bulldogs,Butler
+401514974,2023-03-08,3,2439,home,TRUE,UNLV,78,Rebels,UNLV Rebels,UNLV
+401514974,2023-03-08,3,2005,away,TRUE,Air Force,70,Falcons,Air Force Falcons,Air Force
+401524236,2023-03-08,2,357,home,TRUE,Texas A&M-Corpus Christi,75,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+401524236,2023-03-08,2,2466,away,TRUE,Northwestern State,71,Demons,Northwestern State Demons,N'Western St
+401514226,2023-03-08,2,45,home,TRUE,George Washington,76,Revolutionaries,George Washington Revolutionaries,G Washington
+401514226,2023-03-08,2,2603,away,TRUE,Saint Joseph's,87,Hawks,Saint Joseph's Hawks,Saint Joseph's
+401514404,2023-03-08,2,265,home,TRUE,Washington State,69,Cougars,Washington State Cougars,Washington St
+401514404,2023-03-08,2,25,away,TRUE,California,52,Golden Bears,California Golden Bears,California
+401514245,2023-03-08,2,2550,home,TRUE,Seton Hall,65,Pirates,Seton Hall Pirates,Seton Hall
+401514245,2023-03-08,2,305,away,TRUE,DePaul,66,Blue Demons,DePaul Blue Demons,DePaul
+401514311,2023-03-08,2,47,home,TRUE,Howard,91,Bison,Howard Bison,Howard
+401514311,2023-03-08,2,2569,away,TRUE,South Carolina State,55,Bulldogs,South Carolina State Bulldogs,SC State
+401515340,2023-03-08,2,98,home,TRUE,Western Kentucky,73,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+401515340,2023-03-08,2,2638,away,TRUE,UTEP,67,Miners,UTEP Miners,UTEP
+401514414,2023-03-08,2,275,home,TRUE,Wisconsin,57,Badgers,Wisconsin Badgers,Wisconsin
+401514414,2023-03-08,2,194,away,TRUE,Ohio State,65,Buckeyes,Ohio State Buckeyes,Ohio State
+401519346,2023-03-08,2,2579,home,TRUE,South Carolina,61,Gamecocks,South Carolina Gamecocks,South Carolina
+401519346,2023-03-08,2,145,away,TRUE,Ole Miss,67,Rebels,Ole Miss Rebels,Ole Miss
+401514297,2023-03-08,2,314,home,TRUE,Iona,74,Gaels,Iona Gaels,Iona
+401514297,2023-03-08,2,116,away,TRUE,Mount St. Mary's,54,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+401514235,2023-03-08,2,277,home,TRUE,West Virginia,78,Mountaineers,West Virginia Mountaineers,West Virginia
+401514235,2023-03-08,2,2641,away,TRUE,Texas Tech,62,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401514043,2023-03-08,2,153,home,TRUE,North Carolina,85,Tar Heels,North Carolina Tar Heels,North Carolina
+401514043,2023-03-08,2,103,away,TRUE,Boston College,61,Eagles,Boston College Eagles,Boston College
+401514975,2023-03-08,2,167,home,TRUE,New Mexico,87,Lobos,New Mexico Lobos,New Mexico
+401514975,2023-03-08,2,2751,away,TRUE,Wyoming,76,Cowboys,Wyoming Cowboys,Wyoming
+401514351,2023-03-08,2,2142,home,FALSE,Colgate,79,Raiders,Colgate Raiders,Colgate
+401514351,2023-03-08,2,322,away,FALSE,Lafayette,61,Leopards,Lafayette Leopards,Lafayette
+401514227,2023-03-08,2,2184,home,TRUE,Duquesne,70,Dukes,Duquesne Dukes,Duquesne
+401514227,2023-03-08,2,2325,away,TRUE,La Salle,81,Explorers,La Salle Explorers,La Salle
+401514246,2023-03-08,2,222,home,TRUE,Villanova,80,Wildcats,Villanova Wildcats,Villanova
+401514246,2023-03-08,2,46,away,TRUE,Georgetown,48,Hoyas,Georgetown Hoyas,Georgetown
+401514312,2023-03-08,2,2428,home,TRUE,North Carolina Central,89,Eagles,North Carolina Central Eagles,NC Central
+401514312,2023-03-08,2,2169,away,TRUE,Delaware State,59,Hornets,Delaware State Hornets,Delaware St
+401519347,2023-03-08,2,61,home,TRUE,Georgia,67,Bulldogs,Georgia Bulldogs,Georgia
+401519347,2023-03-08,2,99,away,TRUE,LSU,72,Tigers,LSU Tigers,LSU
+401515341,2023-03-08,3,2229,home,TRUE,Florida International,76,Panthers,Florida International Panthers,FIU
+401515341,2023-03-08,3,2348,away,TRUE,Louisiana Tech,81,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
+401514415,2023-03-08,2,158,home,TRUE,Nebraska,75,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401514415,2023-03-08,2,135,away,TRUE,Minnesota,78,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401514405,2023-03-08,2,254,home,TRUE,Utah,62,Utes,Utah Utes,Utah
+401514405,2023-03-08,2,24,away,TRUE,Stanford,73,Cardinal,Stanford Cardinal,Stanford
+401527431,2023-03-08,2,2016,home,TRUE,Alcorn State,62,Braves,Alcorn State Braves,Alcorn St
+401527431,2023-03-08,2,2640,away,TRUE,Texas Southern,66,Tigers,Texas Southern Tigers,Texas Southern
+401515342,2023-03-08,2,242,home,TRUE,Rice,72,Owls,Rice Owls,Rice
+401515342,2023-03-08,2,2636,away,TRUE,UTSA,71,Roadrunners,UTSA Roadrunners,UTSA
+401514298,2023-03-08,2,2520,home,TRUE,Rider,62,Broncs,Rider Broncs,Rider
+401514298,2023-03-08,2,2612,away,TRUE,Saint Peter's,70,Peacocks,Saint Peter's Peacocks,Saint Peter's
+401514236,2023-03-08,2,197,home,TRUE,Oklahoma State,57,Cowboys,Oklahoma State Cowboys,Oklahoma St
+401514236,2023-03-08,2,201,away,TRUE,Oklahoma,49,Sooners,Oklahoma Sooners,Oklahoma
+401514044,2023-03-08,2,152,home,TRUE,NC State,97,Wolfpack,NC State Wolfpack,NC State
+401514044,2023-03-08,2,259,away,TRUE,Virginia Tech,77,Hokies,Virginia Tech Hokies,Virginia Tech
+401519310,2023-03-08,2,147,home,TRUE,Montana State,85,Bobcats,Montana State Bobcats,Montana St
+401519310,2023-03-08,2,2464,away,TRUE,Northern Arizona,78,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+401514406,2023-03-08,2,9,home,TRUE,Arizona State,63,Sun Devils,Arizona State Sun Devils,Arizona St
+401514406,2023-03-08,2,204,away,TRUE,Oregon State,57,Beavers,Oregon State Beavers,Oregon St

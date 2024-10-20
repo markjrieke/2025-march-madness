@@ -1,0 +1,69 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401210973,2020-03-11,2,2692,home,TRUE,Weber State,54,Wildcats,Weber State Wildcats,Weber St
+401210973,2020-03-11,2,16,away,TRUE,Sacramento State,62,Hornets,Sacramento State Hornets,Sacramento St
+401211587,2020-03-11,2,228,home,TRUE,Clemson,69,Tigers,Clemson Tigers,Clemson
+401211587,2020-03-11,2,2390,away,TRUE,Miami,64,Hurricanes,Miami Hurricanes,Miami
+401210901,2020-03-11,2,2244,home,TRUE,George Mason,77,Patriots,George Mason Patriots,George Mason
+401210901,2020-03-11,2,2603,away,TRUE,Saint Joseph's,70,Hawks,Saint Joseph's Hawks,Saint Joseph's
+401210974,2020-03-11,2,253,home,TRUE,Southern Utah,75,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+401210974,2020-03-11,2,70,away,TRUE,Idaho,69,Vandals,Idaho Vandals,Idaho
+401211588,2020-03-11,2,152,home,TRUE,NC State,73,Wolfpack,NC State Wolfpack,NC State
+401211588,2020-03-11,2,221,away,TRUE,Pittsburgh,58,Panthers,Pittsburgh Panthers,Pitt
+401211618,2020-03-11,2,204,home,TRUE,Oregon State,71,Beavers,Oregon State Beavers,Oregon St
+401211618,2020-03-11,2,254,away,TRUE,Utah,69,Utes,Utah Utes,Utah
+401210902,2020-03-11,2,45,home,TRUE,George Washington,52,Revolutionaries,George Washington Revolutionaries,G Washington
+401210902,2020-03-11,2,2230,away,TRUE,Fordham,72,Rams,Fordham Rams,Fordham
+401210976,2020-03-11,2,2464,home,TRUE,Northern Arizona,62,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+401210976,2020-03-11,2,304,away,TRUE,Idaho State,64,Bengals,Idaho State Bengals,Idaho St
+401211619,2020-03-11,2,12,home,TRUE,Arizona,77,Wildcats,Arizona Wildcats,Arizona
+401211619,2020-03-11,2,264,away,TRUE,Washington,70,Huskies,Washington Huskies,Washington
+401211075,2020-03-11,2,2466,home,TRUE,Northwestern State,79,Demons,Northwestern State Demons,N'Western St
+401211075,2020-03-11,2,357,away,TRUE,Texas A&M-Corpus Christi,62,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+401211042,2020-03-11,2,2428,home,TRUE,North Carolina Central,92,Eagles,North Carolina Central Eagles,NC Central
+401211042,2020-03-11,2,2169,away,TRUE,Delaware State,75,Hornets,Delaware State Hornets,Delaware St
+401211003,2020-03-11,2,135,home,TRUE,Minnesota,74,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401211003,2020-03-11,2,77,away,TRUE,Northwestern,57,Wildcats,Northwestern Wildcats,Northwestern
+401211589,2020-03-11,2,87,home,TRUE,Notre Dame,80,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401211589,2020-03-11,2,103,away,TRUE,Boston College,58,Eagles,Boston College Eagles,Boston College
+401211560,2020-03-11,2,2247,home,FALSE,Georgia State,62,Panthers,Georgia State Panthers,Georgia St
+401211560,2020-03-11,2,290,away,FALSE,Georgia Southern,81,Eagles,Georgia Southern Eagles,GA Southern
+401211469,2020-03-11,2,197,home,TRUE,Oklahoma State,72,Cowboys,Oklahoma State Cowboys,Oklahoma St
+401211469,2020-03-11,2,66,away,TRUE,Iowa State,71,Cyclones,Iowa State Cyclones,Iowa State
+401211456,2020-03-11,2,145,home,TRUE,Ole Miss,63,Rebels,Ole Miss Rebels,Ole Miss
+401211456,2020-03-11,2,61,away,TRUE,Georgia,81,Bulldogs,Georgia Bulldogs,Georgia
+401211033,2020-03-11,2,2561,home,TRUE,Siena,63,Saints,Siena Saints,Siena
+401211033,2020-03-11,2,2363,away,TRUE,Manhattan,49,Jaspers,Manhattan Jaspers,Manhattan
+401211019,2020-03-11,2,295,home,TRUE,Old Dominion,56,Monarchs,Old Dominion Monarchs,Old Dominion
+401211019,2020-03-11,2,2226,away,TRUE,Florida Atlantic,66,Owls,Florida Atlantic Owls,FAU
+401210943,2020-03-11,2,46,home,TRUE,Georgetown,62,Hoyas,Georgetown Hoyas,Georgetown
+401210943,2020-03-11,2,2599,away,TRUE,St. John's,75,Red Storm,St. John's Red Storm,St John's
+401211660,2020-03-11,2,2142,home,FALSE,Colgate,61,Raiders,Colgate Raiders,Colgate
+401211660,2020-03-11,2,104,away,FALSE,Boston University,64,Terriers,Boston University Terriers,Boston U
+401211020,2020-03-11,2,2229,home,TRUE,Florida International,85,Panthers,Florida International Panthers,FIU
+401211020,2020-03-11,2,242,away,TRUE,Rice,76,Owls,Rice Owls,Rice
+401211559,2020-03-11,2,326,home,FALSE,Texas State,85,Bobcats,Texas State Bobcats,Texas St
+401211559,2020-03-11,2,2026,away,FALSE,App State,68,Mountaineers,App State Mountaineers,App State
+401211076,2020-03-11,2,2320,home,TRUE,Lamar,80,Cardinals,Lamar Cardinals,Lamar
+401211076,2020-03-11,2,2377,away,TRUE,McNeese,59,Cowboys,McNeese Cowboys,McNeese
+401211043,2020-03-11,2,2448,home,TRUE,North Carolina A&T,86,Aggies,North Carolina A&T Aggies,NC A&T
+401211043,2020-03-11,2,47,away,TRUE,Howard,77,Bison,Howard Bison,Howard
+401211004,2020-03-11,2,84,home,TRUE,Indiana,89,Hoosiers,Indiana Hoosiers,Indiana
+401211004,2020-03-11,2,158,away,TRUE,Nebraska,64,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401211620,2020-03-11,2,24,home,TRUE,Stanford,51,Cardinal,Stanford Cardinal,Stanford
+401211620,2020-03-11,2,25,away,TRUE,California,63,Golden Bears,California Golden Bears,California
+401211590,2020-03-11,2,183,home,TRUE,Syracuse,81,Orange,Syracuse Orange,Syracuse
+401211590,2020-03-11,2,153,away,TRUE,North Carolina,53,Tar Heels,North Carolina Tar Heels,North Carolina
+401211457,2020-03-11,2,8,home,TRUE,Arkansas,86,Razorbacks,Arkansas Razorbacks,Arkansas
+401211457,2020-03-11,2,238,away,TRUE,Vanderbilt,73,Commodores,Vanderbilt Commodores,Vanderbilt
+401211034,2020-03-11,2,2612,home,TRUE,Saint Peter's,56,Peacocks,Saint Peter's Peacocks,Saint Peter's
+401211034,2020-03-11,2,314,away,TRUE,Iona,54,Gaels,Iona Gaels,Iona
+401211021,2020-03-11,2,5,home,TRUE,UAB,74,Blazers,UAB Blazers,UAB
+401211021,2020-03-11,2,2636,away,TRUE,UTSA,69,Roadrunners,UTSA Roadrunners,UTSA
+401210944,2020-03-11,2,2752,home,TRUE,Xavier,67,Musketeers,Xavier Musketeers,Xavier
+401210944,2020-03-11,2,305,away,TRUE,DePaul,71,Blue Demons,DePaul Blue Demons,DePaul
+401211470,2020-03-11,2,2628,home,TRUE,TCU,49,Horned Frogs,TCU Horned Frogs,TCU
+401211470,2020-03-11,2,2306,away,TRUE,Kansas State,53,Wildcats,Kansas State Wildcats,Kansas St
+401211022,2020-03-11,2,276,home,TRUE,Marshall,86,Thundering Herd,Marshall Thundering Herd,Marshall
+401211022,2020-03-11,2,2638,away,TRUE,UTEP,78,Miners,UTEP Miners,UTEP
+401211621,2020-03-11,2,38,home,TRUE,Colorado,68,Buffaloes,Colorado Buffaloes,Colorado
+401211621,2020-03-11,2,265,away,TRUE,Washington State,82,Cougars,Washington State Cougars,Washington St

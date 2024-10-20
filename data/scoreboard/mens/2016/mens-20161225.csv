@@ -1,0 +1,9 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400926723,2016-12-25,2,254,home,TRUE,Utah,74,Utes,Utah Utes,Utah
+400926723,2016-12-25,2,2617,away,TRUE,Stephen F. Austin,66,Lumberjacks,Stephen F. Austin Lumberjacks,SF Austin
+400926722,2016-12-25,2,62,home,FALSE,Hawai'i,60,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
+400926722,2016-12-25,2,2572,away,FALSE,Southern Miss,46,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
+400926720,2016-12-25,2,2287,home,TRUE,Illinois State,68,Redbirds,Illinois State Redbirds,Illinois St
+400926720,2016-12-25,2,202,away,TRUE,Tulsa,56,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+400926719,2016-12-25,2,2539,home,TRUE,San Francisco,48,Dons,San Francisco Dons,San Francisco
+400926719,2016-12-25,2,21,away,TRUE,San Diego State,62,Aztecs,San Diego State Aztecs,San Diego St

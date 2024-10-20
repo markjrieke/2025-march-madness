@@ -1,0 +1,69 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400945580,2017-03-08,2,183,home,TRUE,Syracuse,57,Orange,Syracuse Orange,Syracuse
+400945580,2017-03-08,2,2390,away,TRUE,Miami,62,Hurricanes,Miami Hurricanes,Miami
+400945617,2017-03-08,2,98,home,TRUE,Western Kentucky,52,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+400945617,2017-03-08,2,2636,away,TRUE,UTSA,56,Roadrunners,UTSA Roadrunners,UTSA
+400945610,2017-03-08,2,324,home,TRUE,Coastal Carolina,80,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+400945610,2017-03-08,2,6,away,TRUE,South Alabama,67,Jaguars,South Alabama Jaguars,South Alabama
+400945502,2017-03-08,2,328,home,TRUE,Utah State,90,Aggies,Utah State Aggies,Utah State
+400945502,2017-03-08,2,23,away,TRUE,San José State,64,Spartans,San José State Spartans,San José St
+400945789,2017-03-08,2,150,home,TRUE,Duke,79,Blue Devils,Duke Blue Devils,Duke
+400945789,2017-03-08,2,228,away,TRUE,Clemson,72,Tigers,Clemson Tigers,Clemson
+400945618,2017-03-08,2,242,home,TRUE,Rice,86,Owls,Rice Owls,Rice
+400945618,2017-03-08,2,2572,away,TRUE,Southern Miss,75,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
+400945611,2017-03-08,3,2032,home,TRUE,Arkansas State,70,Red Wolves,Arkansas State Red Wolves,Arkansas St
+400945611,2017-03-08,3,2433,away,TRUE,UL Monroe,73,Warhawks,UL Monroe Warhawks,UL Monroe
+400945497,2017-03-08,3,9,home,TRUE,Arizona State,98,Sun Devils,Arizona State Sun Devils,Arizona St
+400945497,2017-03-08,3,24,away,TRUE,Stanford,88,Cardinal,Stanford Cardinal,Stanford
+400945733,2017-03-08,3,158,home,TRUE,Nebraska,67,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400945733,2017-03-08,3,213,away,TRUE,Penn State,76,Nittany Lions,Penn State Nittany Lions,Penn State
+400945503,2017-03-08,2,2751,home,TRUE,Wyoming,68,Cowboys,Wyoming Cowboys,Wyoming
+400945503,2017-03-08,2,2005,away,TRUE,Air Force,83,Falcons,Air Force Falcons,Air Force
+400945498,2017-03-08,2,25,home,TRUE,California,67,Golden Bears,California Golden Bears,California
+400945498,2017-03-08,2,204,away,TRUE,Oregon State,62,Beavers,Oregon State Beavers,Oregon St
+400946035,2017-03-08,2,2428,home,TRUE,North Carolina Central,95,Eagles,North Carolina Central Eagles,NC Central
+400946035,2017-03-08,2,2065,away,TRUE,Bethune-Cookman,60,Wildcats,Bethune-Cookman Wildcats,Bethune
+400945621,2017-03-08,2,2534,home,TRUE,Sam Houston,77,Bearkats,Sam Houston Bearkats,Sam Houston
+400945621,2017-03-08,2,2110,away,TRUE,Central Arkansas,69,Bears,Central Arkansas Bears,C Arkansas
+400945612,2017-03-08,2,309,home,TRUE,Louisiana,78,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+400945612,2017-03-08,2,2031,away,TRUE,Little Rock,71,Trojans,Little Rock Trojans,Little Rock
+400945584,2017-03-08,2,113,home,TRUE,Massachusetts,70,Minutemen,Massachusetts Minutemen,UMass
+400945584,2017-03-08,2,2603,away,TRUE,Saint Joseph's,63,Hawks,Saint Joseph's Hawks,Saint Joseph's
+400945619,2017-03-08,2,5,home,TRUE,UAB,74,Blazers,UAB Blazers,UAB
+400945619,2017-03-08,2,2429,away,TRUE,Charlotte,73,49ers,Charlotte 49ers,Charlotte
+400945791,2017-03-08,2,259,home,TRUE,Virginia Tech,99,Hokies,Virginia Tech Hokies,Virginia Tech
+400945791,2017-03-08,2,154,away,TRUE,Wake Forest,90,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+400945734,2017-03-08,2,194,home,TRUE,Ohio State,57,Buckeyes,Ohio State Buckeyes,Ohio State
+400945734,2017-03-08,2,164,away,TRUE,Rutgers,66,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400945590,2017-03-08,2,344,home,TRUE,Mississippi State,79,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400945590,2017-03-08,2,99,away,TRUE,LSU,52,Tigers,LSU Tigers,LSU
+400945526,2017-03-08,2,2628,home,TRUE,TCU,82,Horned Frogs,TCU Horned Frogs,TCU
+400945526,2017-03-08,2,201,away,TRUE,Oklahoma,63,Sooners,Oklahoma Sooners,Oklahoma
+400945520,2017-03-08,2,2599,home,TRUE,St. John's,74,Red Storm,St. John's Red Storm,St John's
+400945520,2017-03-08,2,46,away,TRUE,Georgetown,73,Hoyas,Georgetown Hoyas,Georgetown
+400945504,2017-03-08,3,21,home,FALSE,San Diego State,62,Aztecs,San Diego State Aztecs,San Diego St
+400945504,2017-03-08,3,2439,away,FALSE,UNLV,52,Rebels,UNLV Rebels,UNLV
+400945694,2017-03-08,2,2083,home,FALSE,Bucknell,81,Bison,Bucknell Bison,Bucknell
+400945694,2017-03-08,2,2329,away,FALSE,Lehigh,65,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+400946041,2017-03-08,3,2450,home,TRUE,Norfolk State,93,Spartans,Norfolk State Spartans,Norfolk St
+400946041,2017-03-08,3,2569,away,TRUE,South Carolina State,88,Bulldogs,South Carolina State Bulldogs,SC State
+400945622,2017-03-08,2,2320,home,TRUE,Lamar,77,Cardinals,Lamar Cardinals,Lamar
+400945622,2017-03-08,2,2545,away,TRUE,SE Louisiana,65,Lions,SE Louisiana Lions,SE Louisiana
+400945613,2017-03-08,2,2653,home,TRUE,Troy,84,Trojans,Troy Trojans,Troy
+400945613,2017-03-08,2,2026,away,TRUE,App State,64,Mountaineers,App State Mountaineers,App State
+400945585,2017-03-08,2,139,home,TRUE,Saint Louis,72,Billikens,Saint Louis Billikens,Saint Louis
+400945585,2017-03-08,2,2184,away,TRUE,Duquesne,71,Dukes,Duquesne Dukes,Duquesne
+400945620,2017-03-08,2,276,home,TRUE,Marshall,89,Thundering Herd,Marshall Thundering Herd,Marshall
+400945620,2017-03-08,2,2226,away,TRUE,Florida Atlantic,74,Owls,Florida Atlantic Owls,FAU
+400945603,2017-03-08,3,2,home,TRUE,Auburn,83,Tigers,Auburn Tigers,Auburn
+400945603,2017-03-08,3,142,away,TRUE,Missouri,86,Tigers,Missouri Tigers,Missouri
+400945499,2017-03-08,2,38,home,TRUE,Colorado,73,Buffaloes,Colorado Buffaloes,Colorado
+400945499,2017-03-08,2,265,away,TRUE,Washington State,63,Cougars,Washington State Cougars,Washington St
+400945527,2017-03-08,2,2641,home,TRUE,Texas Tech,52,Red Raiders,Texas Tech Red Raiders,Texas Tech
+400945527,2017-03-08,2,251,away,TRUE,Texas,61,Longhorns,Texas Longhorns,Texas
+400945790,2017-03-08,2,258,home,TRUE,Virginia,75,Cavaliers,Virginia Cavaliers,Virginia
+400945790,2017-03-08,2,221,away,TRUE,Pittsburgh,63,Panthers,Pittsburgh Panthers,Pitt
+400945521,2017-03-08,2,2752,home,TRUE,Xavier,75,Musketeers,Xavier Musketeers,Xavier
+400945521,2017-03-08,2,305,away,TRUE,DePaul,64,Blue Demons,DePaul Blue Demons,DePaul
+400945500,2017-03-08,2,30,home,TRUE,USC,78,Trojans,USC Trojans,USC
+400945500,2017-03-08,2,264,away,TRUE,Washington,73,Huskies,Washington Huskies,Washington

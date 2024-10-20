@@ -1,0 +1,63 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400870214,2016-03-09,2,221,home,TRUE,Pittsburgh,72,Panthers,Pittsburgh Panthers,Pitt
+400870214,2016-03-09,2,183,away,TRUE,Syracuse,71,Orange,Syracuse Orange,Syracuse
+400870216,2016-03-09,2,98,home,TRUE,Western Kentucky,84,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+400870216,2016-03-09,2,249,away,TRUE,North Texas,76,Mean Green,North Texas Mean Green,North Texas
+400870237,2016-03-09,2,2751,home,TRUE,Wyoming,70,Cowboys,Wyoming Cowboys,Wyoming
+400870237,2016-03-09,2,328,away,TRUE,Utah State,88,Aggies,Utah State Aggies,Utah State
+400870658,2016-03-09,2,150,home,TRUE,Duke,92,Blue Devils,Duke Blue Devils,Duke
+400870658,2016-03-09,2,152,away,TRUE,NC State,89,Wolfpack,NC State Wolfpack,NC State
+400870229,2016-03-09,2,264,home,TRUE,Washington,91,Huskies,Washington Huskies,Washington
+400870229,2016-03-09,2,24,away,TRUE,Stanford,68,Cardinal,Stanford Cardinal,Stanford
+400870672,2016-03-09,2,2016,home,TRUE,Alcorn State,61,Braves,Alcorn State Braves,Alcorn St
+400870672,2016-03-09,2,2400,away,TRUE,Mississippi Valley State,64,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
+400870664,2016-03-09,2,295,home,TRUE,Old Dominion,72,Monarchs,Old Dominion Monarchs,Old Dominion
+400870664,2016-03-09,2,2226,away,TRUE,Florida Atlantic,46,Owls,Florida Atlantic Owls,FAU
+400870353,2016-03-09,2,356,home,TRUE,Illinois,85,Fighting Illini,Illinois Fighting Illini,Illinois
+400870353,2016-03-09,2,135,away,TRUE,Minnesota,52,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400870238,2016-03-09,5,2439,home,TRUE,UNLV,108,Rebels,UNLV Rebels,UNLV
+400870238,2016-03-09,5,2005,away,TRUE,Air Force,102,Falcons,Air Force Falcons,Air Force
+400870230,2016-03-09,2,38,home,TRUE,Colorado,80,Buffaloes,Colorado Buffaloes,Colorado
+400870230,2016-03-09,2,265,away,TRUE,Washington State,56,Cougars,Washington State Cougars,Washington St
+400870665,2016-03-09,2,2261,home,TRUE,Hampton,83,Pirates,Hampton Pirates,Hampton
+400870665,2016-03-09,2,2415,away,TRUE,Morgan State,81,Bears,Morgan State Bears,Morgan St
+400870186,2016-03-09,2,2545,home,TRUE,SE Louisiana,84,Lions,SE Louisiana Lions,SE Louisiana
+400870186,2016-03-09,2,2443,away,TRUE,New Orleans,74,Privateers,New Orleans Privateers,New Orleans
+400870220,2016-03-09,2,2244,home,TRUE,George Mason,78,Patriots,George Mason Patriots,George Mason
+400870220,2016-03-09,2,139,away,TRUE,Saint Louis,83,Billikens,Saint Louis Billikens,Saint Louis
+400870354,2016-03-09,2,158,home,TRUE,Nebraska,89,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400870354,2016-03-09,2,164,away,TRUE,Rutgers,72,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400870217,2016-03-09,2,2429,home,TRUE,Charlotte,79,49ers,Charlotte 49ers,Charlotte
+400870217,2016-03-09,2,242,away,TRUE,Rice,69,Owls,Rice Owls,Rice
+400870213,2016-03-09,3,228,home,TRUE,Clemson,85,Tigers,Clemson Tigers,Clemson
+400870213,2016-03-09,3,59,away,TRUE,Georgia Tech,88,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+400870171,2016-03-09,2,2306,home,TRUE,Kansas State,75,Wildcats,Kansas State Wildcats,Kansas St
+400870171,2016-03-09,2,197,away,TRUE,Oklahoma State,71,Cowboys,Oklahoma State Cowboys,Oklahoma St
+400870008,2016-03-09,2,46,home,TRUE,Georgetown,70,Hoyas,Georgetown Hoyas,Georgetown
+400870008,2016-03-09,2,305,away,TRUE,DePaul,53,Blue Demons,DePaul Blue Demons,DePaul
+400870282,2016-03-09,2,2329,home,FALSE,Lehigh,56,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+400870282,2016-03-09,2,107,away,FALSE,Holy Cross,59,Crusaders,Holy Cross Crusaders,Holy Cross
+400870182,2016-03-09,2,2633,home,TRUE,Tennessee,97,Volunteers,Tennessee Volunteers,Tennessee
+400870182,2016-03-09,2,2,away,TRUE,Auburn,59,Tigers,Auburn Tigers,Auburn
+400870239,2016-03-09,2,36,home,TRUE,Colorado State,80,Rams,Colorado State Rams,Colorado St
+400870239,2016-03-09,2,23,away,TRUE,San José State,61,Spartans,San José State Spartans,San José St
+400870671,2016-03-09,2,2450,home,TRUE,Norfolk State,66,Spartans,Norfolk State Spartans,Norfolk St
+400870671,2016-03-09,2,2428,away,TRUE,North Carolina Central,47,Eagles,North Carolina Central Eagles,NC Central
+400870187,2016-03-09,4,2377,home,TRUE,McNeese,90,Cowboys,McNeese Cowboys,McNeese
+400870187,2016-03-09,4,2447,away,TRUE,Nicholls,94,Colonels,Nicholls Colonels,Nicholls
+400870231,2016-03-09,2,30,home,TRUE,USC,95,Trojans,USC Trojans,USC
+400870231,2016-03-09,2,26,away,TRUE,UCLA,71,Bruins,UCLA Bruins,UCLA
+400870221,2016-03-09,2,2184,home,TRUE,Duquesne,73,Dukes,Duquesne Dukes,Duquesne
+400870221,2016-03-09,2,2325,away,TRUE,La Salle,88,Explorers,La Salle Explorers,La Salle
+400870693,2016-03-09,2,2640,home,TRUE,Texas Southern,77,Tigers,Texas Southern Tigers,Texas Southern
+400870693,2016-03-09,2,2010,away,TRUE,Alabama A&M,69,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+400870662,2016-03-09,2,259,home,TRUE,Virginia Tech,96,Hokies,Virginia Tech Hokies,Virginia Tech
+400870662,2016-03-09,2,52,away,TRUE,Florida State,85,Seminoles,Florida State Seminoles,Florida St
+400870222,2016-03-09,2,2638,home,TRUE,UTEP,85,Miners,UTEP Miners,UTEP
+400870222,2016-03-09,2,2229,away,TRUE,Florida International,77,Panthers,Florida International Panthers,FIU
+400870009,2016-03-09,2,269,home,TRUE,Marquette,101,Golden Eagles,Marquette Golden Eagles,Marquette
+400870009,2016-03-09,2,2599,away,TRUE,St. John's,93,Red Storm,St. John's Red Storm,St John's
+400870172,2016-03-09,2,2641,home,TRUE,Texas Tech,62,Red Raiders,Texas Tech Red Raiders,Texas Tech
+400870172,2016-03-09,2,2628,away,TRUE,TCU,67,Horned Frogs,TCU Horned Frogs,TCU
+400870232,2016-03-09,2,204,home,TRUE,Oregon State,75,Beavers,Oregon State Beavers,Oregon St
+400870232,2016-03-09,2,9,away,TRUE,Arizona State,66,Sun Devils,Arizona State Sun Devils,Arizona St

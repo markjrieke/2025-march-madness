@@ -1,0 +1,47 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401085977,2018-11-29,2,2368,home,TRUE,Marist,76,Red Foxes,Marist Red Foxes,Marist
+401085977,2018-11-29,2,159,away,TRUE,Dartmouth,58,Big Green,Dartmouth Big Green,Dartmouth
+401086517,2018-11-29,2,6446,home,TRUE,LIU Brooklyn,80,Liu Brooklyn,LIU Brooklyn Liu Brooklyn,Liu Brooklyn
+401086517,2018-11-29,2,399,away,TRUE,UAlbany,77,Great Danes,UAlbany Great Danes,UAlbany
+401088236,2018-11-29,4,2450,home,FALSE,Norfolk State,94,Spartans,Norfolk State Spartans,Norfolk St
+401088236,2018-11-29,4,2261,away,FALSE,Hampton,89,Pirates,Hampton Pirates,Hampton
+401088235,2018-11-29,2,2097,home,FALSE,Campbell,79,Fighting Camels,Campbell Fighting Camels,Campbell
+401088235,2018-11-29,2,3174,away,FALSE,Trinity Baptist,29,Eagles,Trinity Baptist Eagles,Trinity Baptist
+401083966,2018-11-29,3,256,home,FALSE,James Madison,81,Dukes,James Madison Dukes,James Madison
+401083966,2018-11-29,3,2154,away,FALSE,Coppin State,71,Eagles,Coppin State Eagles,Coppin St
+401082952,2018-11-29,2,2116,home,FALSE,UCF,70,Knights,UCF Knights,UCF
+401082952,2018-11-29,2,333,away,FALSE,Alabama,64,Crimson Tide,Alabama Crimson Tide,Alabama
+401082617,2018-11-29,2,103,home,FALSE,Boston College,81,Eagles,Boston College Eagles,Boston College
+401082617,2018-11-29,2,2529,away,FALSE,Sacred Heart,73,Pioneers,Sacred Heart Pioneers,Sacred Heart
+401088797,2018-11-29,3,2535,home,FALSE,Samford,93,Bulldogs,Samford Bulldogs,Samford
+401088797,2018-11-29,3,2057,away,FALSE,Belmont,99,Bruins,Belmont Bruins,Belmont
+401087477,2018-11-29,2,2448,home,FALSE,North Carolina A&T,72,Aggies,North Carolina A&T Aggies,NC A&T
+401087477,2018-11-29,2,2115,away,FALSE,Central Connecticut,60,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+401089345,2018-11-29,2,2010,home,FALSE,Alabama A&M,57,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+401089345,2018-11-29,2,5,away,FALSE,UAB,67,Blazers,UAB Blazers,UAB
+401086785,2018-11-29,2,2454,home,FALSE,North Florida,81,Ospreys,North Florida Ospreys,North Florida
+401086785,2018-11-29,2,50,away,FALSE,Florida A&M,62,Rattlers,Florida A&M Rattlers,Florida A&M
+401084702,2018-11-29,2,2567,home,FALSE,SMU,91,Mustangs,SMU Mustangs,SMU
+401084702,2018-11-29,2,2377,away,FALSE,McNeese,59,Cowboys,McNeese Cowboys,McNeese
+401086108,2018-11-29,2,2130,home,FALSE,Chicago State,90,Cougars,Chicago State Cougars,Chicago St
+401086108,2018-11-29,2,3107,away,FALSE,East-West University,67,Phantoms,East-West University Phantoms,East-West
+401089509,2018-11-29,3,2653,home,FALSE,Troy,74,Trojans,Troy Trojans,Troy
+401089509,2018-11-29,3,2046,away,FALSE,Austin Peay,79,Governors,Austin Peay Governors,Austin Peay
+401088534,2018-11-29,2,2640,home,FALSE,Texas Southern,81,Tigers,Texas Southern Tigers,Texas Southern
+401088534,2018-11-29,2,2281,away,FALSE,Huston-Tillotson,76,Rams,Huston-Tillotson Rams,Huston Til
+401086845,2018-11-29,2,253,home,FALSE,Southern Utah,111,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+401086845,2018-11-29,2,3096,away,FALSE,San Diego Christian,64,Hawks,San Diego Christian Hawks,S Diego Christ
+401087015,2018-11-29,2,12,home,FALSE,Arizona,100,Wildcats,Arizona Wildcats,Arizona
+401087015,2018-11-29,2,290,away,FALSE,Georgia Southern,70,Eagles,Georgia Southern Eagles,GA Southern
+401086842,2018-11-29,2,304,home,FALSE,Idaho State,74,Bengals,Idaho State Bengals,Idaho St
+401086842,2018-11-29,2,2701,away,FALSE,Montana-Western,66,Bulldogs,Montana-Western Bulldogs,W Montana
+401089504,2018-11-29,2,2351,home,FALSE,Loyola Marymount,106,Lions,Loyola Marymount Lions,LMU
+401089504,2018-11-29,2,3246,away,FALSE,Bethesda University,50,Flames,Bethesda University Flames,Bethesda
+401086844,2018-11-29,2,2540,home,FALSE,UC Santa Barbara,75,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+401086844,2018-11-29,2,16,away,FALSE,Sacramento State,58,Hornets,Sacramento State Hornets,Sacramento St
+401086843,2018-11-29,2,302,home,FALSE,UC Davis,73,Aggies,UC Davis Aggies,UC Davis
+401086843,2018-11-29,2,2464,away,FALSE,Northern Arizona,57,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+401086109,2018-11-29,2,27,home,FALSE,UC Riverside,70,Highlanders,UC Riverside Highlanders,UC Riverside
+401086109,2018-11-29,2,2856,away,FALSE,California Baptist,80,Lancers,California Baptist Lancers,CA Baptist
+401083769,2018-11-29,2,2541,home,FALSE,Santa Clara,81,Broncos,Santa Clara Broncos,Santa Clara
+401083769,2018-11-29,2,2296,away,FALSE,Jackson State,70,Tigers,Jackson State Tigers,Jackson St

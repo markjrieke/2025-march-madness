@@ -1,6 +1,11 @@
+# setup ------------------------------------------------------------------------
+
+# libraries
 library(tidyverse)
 library(httr2)
+library(furrr)
 
+# overwrite api call from hoopR/wehoop
 espn_api_scoreboard <- function(date_str,
                                 league = "mens") {
   
@@ -28,14 +33,21 @@ espn_api_scoreboard <- function(date_str,
   game_date <-
     ymd(resp_json[["day"]]$date[[1]][1])
   
-  # parse game data
-  out <- 
+  # convert to tibble
+  resp_tibble <-
     resp_json %>%
-      
-    # get each game into a tibble
     pluck("events") %>%
     tibble(data = .) %>%
-    unnest_wider(data) %>%
+    unnest_wider(data)
+    
+  # verify that games were played that day
+  if (!("competitions" %in% colnames(resp_tibble))) {
+    return(NULL)
+  }
+  
+  # parse game data
+  out <- 
+    resp_tibble %>%
     unchop(competitions) %>%
     select(competitions) %>%
     unnest_wider(competitions) %>%
@@ -84,18 +96,48 @@ espn_api_scoreboard <- function(date_str,
            location,
            score,
            name,
-           abbreviation,
            display_name = displayName,
            short_display_name = shortDisplayName) %>%
     
     # extract nested cols from team
-    unnest(c(location, name, abbreviation, display_name, short_display_name)) %>%
-    mutate(across(c(location, name, abbreviation, display_name, short_display_name),
+    unnest(c(location, name, display_name, short_display_name)) %>%
+    mutate(across(c(location, name, display_name, short_display_name),
                   ~map_chr(.x, ~.x[1])))
   
-  return(out)
+  # write to disk
+  season <- str_sub(date_str, 1, 4)
+  
+  if (!dir.exists(paste0("data/scoreboard/", league))) {
+    dir.create(paste0("data/scoreboard/", league))
+  }
+  
+  if (!dir.exists(paste0("data/socreboard/", league, "/", season))) {
+    dir.create(paste0("data/scoreboard/", league, "/", season))
+  }
+  
+  out %>%
+    write_csv(paste0("data/scoreboard/", league, "/", season, "/", league, "-", date_str, ".csv"))
   
 }
+
+# pull scores ------------------------------------------------------------------
+
+# import scores from the api
+plan(multisession, workers = 8)
+
+crossing(league = c("mens", "womens"),
+         game_date = seq.Date(from = mdy("10/1/2001"),
+                              to = mdy("10/1/2024"),
+                              by = "day")) %>%
+  mutate(dateid = as.character(game_date),
+         dateid = str_remove_all(dateid, "-")) %>%
+  select(dateid, league) %>%
+  as.list() %>%
+  future_pwalk(~espn_api_scoreboard(..1, ..2),
+               .progress = TRUE)
+
+plan(sequential)
+
 
 
 

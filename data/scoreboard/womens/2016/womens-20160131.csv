@@ -1,0 +1,27 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400831631,2016-01-31,4,245,home,FALSE,Texas A&M,63,Aggies,Texas A&M Aggies,Texas A&M
+400831631,2016-01-31,4,2579,away,FALSE,South Carolina,70,Gamecocks,South Carolina Gamecocks,South Carolina
+400842490,2016-01-31,4,52,home,FALSE,Florida State,68,Seminoles,Florida State Seminoles,Florida St
+400842490,2016-01-31,4,259,away,FALSE,Virginia Tech,50,Hokies,Virginia Tech Hokies,Virginia Tech
+400831628,2016-01-31,4,57,home,FALSE,Florida,85,Gators,Florida Gators,Florida
+400831628,2016-01-31,4,96,away,FALSE,Kentucky,79,Wildcats,Kentucky Wildcats,Kentucky
+400831626,2016-01-31,4,8,home,FALSE,Arkansas,55,Razorbacks,Arkansas Razorbacks,Arkansas
+400831626,2016-01-31,4,344,away,FALSE,Mississippi State,65,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400842410,2016-01-31,4,97,home,FALSE,Louisville,78,Cardinals,Louisville Cardinals,Louisville
+400842410,2016-01-31,4,154,away,FALSE,Wake Forest,54,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+400845615,2016-01-31,4,254,home,FALSE,Utah,63,Utes,Utah Utes,Utah
+400845615,2016-01-31,4,26,away,FALSE,UCLA,69,Bruins,UCLA Bruins,UCLA
+400845611,2016-01-31,4,24,home,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
+400845611,2016-01-31,4,265,away,FALSE,Washington State,52,Cougars,Washington State Cougars,Washington St
+400834888,2016-01-31,4,275,home,FALSE,Wisconsin,54,Badgers,Wisconsin Badgers,Wisconsin
+400834888,2016-01-31,4,127,away,FALSE,Michigan State,77,Spartans,Michigan State Spartans,Michigan St
+400831625,2016-01-31,4,2633,home,FALSE,Tennessee,70,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400831625,2016-01-31,4,333,away,FALSE,Alabama,42,Crimson Tide,Alabama Crimson Tide,Alabama
+400835046,2016-01-31,4,2567,home,FALSE,SMU,48,Mustangs,SMU Mustangs,SMU
+400835046,2016-01-31,4,58,away,FALSE,South Florida,66,Bulls,South Florida Bulls,South Florida
+400831630,2016-01-31,4,145,home,FALSE,Ole Miss,46,Rebels,Ole Miss Rebels,Ole Miss
+400831630,2016-01-31,4,142,away,FALSE,Missouri,60,Tigers,Missouri Tigers,Missouri
+400842659,2016-01-31,4,305,home,FALSE,DePaul,77,Blue Demons,DePaul Blue Demons,DePaul
+400842659,2016-01-31,4,2599,away,FALSE,St. John's,71,Red Storm,St. John's Red Storm,St John's
+400845195,2016-01-31,4,25,home,FALSE,California,65,Golden Bears,California Golden Bears,California
+400845195,2016-01-31,4,264,away,FALSE,Washington,75,Huskies,Washington Huskies,Washington

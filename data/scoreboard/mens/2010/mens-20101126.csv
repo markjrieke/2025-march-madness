@@ -1,0 +1,19 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303300194,2010-11-26,2,194,home,FALSE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
+303300194,2010-11-26,2,193,away,FALSE,Miami (OH),45,RedHawks,Miami (OH) RedHawks,Miami OH
+303302306,2010-11-26,2,2306,home,FALSE,Kansas State,84,Wildcats,Kansas State Wildcats,Kansas St
+303302306,2010-11-26,2,2640,away,FALSE,Texas Southern,60,Tigers,Texas Southern Tigers,Texas Southern
+303302305,2010-11-26,2,2305,home,TRUE,Kansas,98,Jayhawks,Kansas Jayhawks,Kansas
+303302305,2010-11-26,2,195,away,TRUE,Ohio,41,Bobcats,Ohio Bobcats,Ohio
+303300222,2010-11-26,2,222,home,TRUE,Villanova,68,Wildcats,Villanova Wildcats,Villanova
+303300222,2010-11-26,2,2633,away,TRUE,Tennessee,78,Volunteers,Tennessee Volunteers,Tennessee
+303300183,2010-11-26,2,130,home,TRUE,Michigan,50,Wolverines,Michigan Wolverines,Michigan
+303300183,2010-11-26,2,183,away,TRUE,Syracuse,53,Orange,Syracuse Orange,Syracuse
+303302509,2010-11-26,2,2509,home,TRUE,Purdue,79,Boilermakers,Purdue Boilermakers,Purdue
+303302509,2010-11-26,2,79,away,TRUE,Southern Illinois,60,Salukis,Southern Illinois Salukis,S Illinois
+303300021,2010-11-26,2,21,home,FALSE,San Diego State,88,Aztecs,San Diego State Aztecs,San Diego St
+303300021,2010-11-26,2,3096,away,FALSE,San Diego Christian,69,Hawks,San Diego Christian Hawks,S Diego Christ
+303300218,2010-11-26,2,218,home,TRUE,Temple,65,Owls,Temple Owls,Temple
+303300218,2010-11-26,2,61,away,TRUE,Georgia,58,Bulldogs,Georgia Bulldogs,Georgia
+303300058,2010-11-26,4,252,home,TRUE,BYU,77,Cougars,BYU Cougars,BYU
+303300058,2010-11-26,4,58,away,TRUE,South Florida,75,Bulls,South Florida Bulls,South Florida

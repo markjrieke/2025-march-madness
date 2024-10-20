@@ -1,0 +1,35 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401302193,2021-02-27,2,2250,home,FALSE,Gonzaga,86,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401302193,2021-02-27,2,2351,away,FALSE,Loyola Marymount,69,Lions,Loyola Marymount Lions,LMU
+401253903,2021-02-27,2,2305,home,FALSE,Kansas,71,Jayhawks,Kansas Jayhawks,Kansas
+401253903,2021-02-27,2,239,away,FALSE,Baylor,58,Bears,Baylor Bears,Baylor
+401263376,2021-02-27,2,84,home,FALSE,Indiana,57,Hoosiers,Indiana Hoosiers,Indiana
+401263376,2021-02-27,2,130,away,FALSE,Michigan,73,Wolverines,Michigan Wolverines,Michigan
+401263378,2021-02-27,2,275,home,FALSE,Wisconsin,69,Badgers,Wisconsin Badgers,Wisconsin
+401263378,2021-02-27,2,356,away,FALSE,Illinois,74,Fighting Illini,Illinois Fighting Illini,Illinois
+401258827,2021-02-27,2,344,home,FALSE,Mississippi State,59,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401258827,2021-02-27,2,333,away,FALSE,Alabama,64,Crimson Tide,Alabama Crimson Tide,Alabama
+401253904,2021-02-27,3,201,home,FALSE,Oklahoma,90,Sooners,Oklahoma Sooners,Oklahoma
+401253904,2021-02-27,3,197,away,FALSE,Oklahoma State,94,Cowboys,Oklahoma State Cowboys,Oklahoma St
+401253906,2021-02-27,2,277,home,FALSE,West Virginia,65,Mountaineers,West Virginia Mountaineers,West Virginia
+401253906,2021-02-27,2,2306,away,FALSE,Kansas State,43,Wildcats,Kansas State Wildcats,Kansas St
+401260305,2021-02-27,2,153,home,FALSE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
+401260305,2021-02-27,2,52,away,FALSE,Florida State,70,Seminoles,Florida State Seminoles,Florida St
+401269658,2021-02-27,2,2752,home,FALSE,Xavier,77,Musketeers,Xavier Musketeers,Xavier
+401269658,2021-02-27,2,156,away,FALSE,Creighton,69,Bluejays,Creighton Bluejays,Creighton
+401253905,2021-02-27,2,2641,home,FALSE,Texas Tech,68,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401253905,2021-02-27,2,251,away,FALSE,Texas,59,Longhorns,Texas Longhorns,Texas
+401260307,2021-02-27,2,259,home,FALSE,Virginia Tech,84,Hokies,Virginia Tech Hokies,Virginia Tech
+401260307,2021-02-27,2,154,away,FALSE,Wake Forest,46,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+401265446,2021-02-27,2,254,home,FALSE,Utah,71,Utes,Utah Utes,Utah
+401265446,2021-02-27,2,30,away,FALSE,USC,61,Trojans,USC Trojans,USC
+401258828,2021-02-27,2,8,home,FALSE,Arkansas,83,Razorbacks,Arkansas Razorbacks,Arkansas
+401258828,2021-02-27,2,99,away,FALSE,LSU,75,Tigers,LSU Tigers,LSU
+401267054,2021-02-27,3,2350,home,FALSE,Loyola Chicago,65,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+401267054,2021-02-27,3,79,away,FALSE,Southern Illinois,58,Salukis,Southern Illinois Salukis,S Illinois
+401262667,2021-02-27,2,21,home,FALSE,San Diego State,62,Aztecs,San Diego State Aztecs,San Diego St
+401262667,2021-02-27,2,68,away,FALSE,Boise State,58,Broncos,Boise State Broncos,Boise St
+401258829,2021-02-27,2,2,home,FALSE,Auburn,77,Tigers,Auburn Tigers,Auburn
+401258829,2021-02-27,2,2633,away,FALSE,Tennessee,72,Volunteers,Tennessee Volunteers,Tennessee
+401258832,2021-02-27,0,142,home,FALSE,Missouri,0,Tigers,Missouri Tigers,Missouri
+401258832,2021-02-27,0,245,away,FALSE,Texas A&M,0,Aggies,Texas A&M Aggies,Texas A&M

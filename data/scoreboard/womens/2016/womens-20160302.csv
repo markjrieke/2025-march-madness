@@ -1,0 +1,73 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400868370,2016-03-02,4,333,home,TRUE,Alabama,49,Crimson Tide,Alabama Crimson Tide,Alabama
+400868370,2016-03-02,4,99,away,TRUE,LSU,58,Tigers,LSU Tigers,LSU
+400868366,2016-03-02,5,221,home,TRUE,Pittsburgh,82,Panthers,Pittsburgh Panthers,Pitt
+400868366,2016-03-02,5,153,away,TRUE,North Carolina,72,Tar Heels,North Carolina Tar Heels,North Carolina
+400868360,2016-03-02,4,2630,home,TRUE,UT Martin,76,Skyhawks,UT Martin Skyhawks,UT Martin
+400868360,2016-03-02,4,93,away,TRUE,Murray State,78,Racers,Murray State Racers,Murray St
+400868371,2016-03-02,4,238,home,TRUE,Vanderbilt,74,Commodores,Vanderbilt Commodores,Vanderbilt
+400868371,2016-03-02,4,145,away,TRUE,Ole Miss,59,Rebels,Ole Miss Rebels,Ole Miss
+400868390,2016-03-02,5,77,home,TRUE,Northwestern,76,Wildcats,Northwestern Wildcats,Northwestern
+400868390,2016-03-02,5,275,away,TRUE,Wisconsin,72,Badgers,Wisconsin Badgers,Wisconsin
+400868363,2016-03-02,4,2057,home,TRUE,Belmont,68,Bruins,Belmont Bruins,Belmont
+400868363,2016-03-02,4,2634,away,TRUE,Tennessee State,60,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
+400868367,2016-03-02,4,154,home,TRUE,Wake Forest,73,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+400868367,2016-03-02,4,228,away,TRUE,Clemson,58,Tigers,Clemson Tigers,Clemson
+400868391,2016-03-02,4,213,home,TRUE,Penn State,75,Lady Lions,Penn State Lady Lions,Penn State
+400868391,2016-03-02,4,356,away,TRUE,Illinois,66,Fighting Illini,Illinois Fighting Illini,Illinois
+400868386,2016-03-02,4,2166,home,TRUE,Davidson,51,Wildcats,Davidson Wildcats,Davidson
+400868386,2016-03-02,4,257,away,TRUE,Richmond,70,Spiders,Richmond Spiders,Richmond
+400829670,2016-03-02,4,322,home,FALSE,Lafayette,59,Leopards,Lafayette Leopards,Lafayette
+400829670,2016-03-02,4,2083,away,FALSE,Bucknell,68,Bison,Bucknell Bison,Bucknell
+400868368,2016-03-02,4,259,home,TRUE,Virginia Tech,37,Hokies,Virginia Tech Hokies,Virginia Tech
+400868368,2016-03-02,4,103,away,TRUE,Boston College,49,Eagles,Boston College Eagles,Boston College
+400843964,2016-03-02,4,232,home,FALSE,Charleston,68,Cougars,Charleston Cougars,Charleston
+400843964,2016-03-02,4,350,away,FALSE,UNC Wilmington,24,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+400868387,2016-03-02,4,113,home,TRUE,Massachusetts,81,Minutewomen,Massachusetts Minutewomen,UMass
+400868387,2016-03-02,4,2325,away,TRUE,La Salle,65,Explorers,La Salle Explorers,La Salle
+400843834,2016-03-02,4,2711,home,FALSE,Western Michigan,52,Broncos,Western Michigan Broncos,W Michigan
+400843834,2016-03-02,4,2199,away,FALSE,Eastern Michigan,63,Eagles,Eastern Michigan Eagles,E Michigan
+400843386,2016-03-02,4,2649,home,FALSE,Toledo,76,Rockets,Toledo Rockets,Toledo
+400843386,2016-03-02,4,2117,away,FALSE,Central Michigan,72,Chippewas,Central Michigan Chippewas,C Michigan
+400843374,2016-03-02,4,2050,home,FALSE,Ball State,76,Cardinals,Ball State Cardinals,Ball State
+400843374,2016-03-02,4,2459,away,FALSE,Northern Illinois,68,Huskies,Northern Illinois Huskies,N Illinois
+400843335,2016-03-02,4,2309,home,FALSE,Kent State,59,Golden Flashes,Kent State Golden Flashes,Kent State
+400843335,2016-03-02,4,193,away,FALSE,Miami (OH),53,RedHawks,Miami (OH) RedHawks,Miami OH
+400843313,2016-03-02,4,195,home,FALSE,Ohio,75,Bobcats,Ohio Bobcats,Ohio
+400843313,2016-03-02,4,189,away,FALSE,Bowling Green,58,Falcons,Bowling Green Falcons,Bowling Green
+400842836,2016-03-02,4,2352,home,FALSE,Loyola Maryland,58,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+400842836,2016-03-02,4,107,away,FALSE,Holy Cross,45,Crusaders,Holy Cross Crusaders,Holy Cross
+400842827,2016-03-02,4,2142,home,FALSE,Colgate,82,Raiders,Colgate Raiders,Colgate
+400842827,2016-03-02,4,2329,away,FALSE,Lehigh,72,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+400842804,2016-03-02,4,104,home,FALSE,Boston University,44,Terriers,Boston University Terriers,Boston U
+400842804,2016-03-02,4,349,away,FALSE,Army,79,Black Knights,Army Black Knights,Army
+400835785,2016-03-02,4,2729,home,FALSE,William & Mary,64,Tribe,William & Mary Tribe,William & Mary
+400835785,2016-03-02,4,2210,away,FALSE,Elon,74,Phoenix,Elon Phoenix,Elon
+400835773,2016-03-02,4,111,home,FALSE,Northeastern,64,Huskies,Northeastern Huskies,Northeastern
+400835773,2016-03-02,4,2275,away,FALSE,Hofstra,71,Pride,Hofstra Pride,Hofstra
+400835754,2016-03-02,4,119,home,FALSE,Towson,33,Tigers,Towson Tigers,Towson
+400835754,2016-03-02,4,2182,away,FALSE,Drexel,74,Dragons,Drexel Dragons,Drexel
+400829652,2016-03-02,4,44,home,FALSE,American University,61,Eagles,American University Eagles,American
+400829652,2016-03-02,4,2426,away,FALSE,Navy,56,Midshipmen,Navy Midshipmen,Navy
+400829728,2016-03-02,4,2534,home,FALSE,Sam Houston,78,Bearkats,Sam Houston Bearkats,Sam Houston
+400829728,2016-03-02,4,2320,away,FALSE,Lamar,75,Cardinals,Lamar Cardinals,Lamar
+400839009,2016-03-02,4,2006,home,FALSE,Akron,62,Zips,Akron Zips,Akron
+400839009,2016-03-02,4,2084,away,FALSE,Buffalo,49,Bulls,Buffalo Bulls,Buffalo
+400838988,2016-03-02,4,2110,home,FALSE,Central Arkansas,56,Sugar Bears,Central Arkansas Sugar Bears,C Arkansas
+400838988,2016-03-02,4,2447,away,FALSE,Nicholls,51,Colonels,Nicholls Colonels,Nicholls
+400835733,2016-03-02,4,48,home,FALSE,Delaware,43,Blue Hens,Delaware Blue Hens,Delaware
+400835733,2016-03-02,4,256,away,FALSE,James Madison,65,Dukes,James Madison Dukes,James Madison
+400835401,2016-03-02,4,2000,home,FALSE,Abilene Christian,66,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
+400835401,2016-03-02,4,2916,away,FALSE,Incarnate Word,58,Cardinals,Incarnate Word Cardinals,Incarnate Word
+400819424,2016-03-02,4,155,home,FALSE,North Dakota,73,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
+400819424,2016-03-02,4,149,away,FALSE,Montana,61,Lady Griz,Montana Lady Griz,Montana
+400843008,2016-03-02,4,2464,home,FALSE,Northern Arizona,80,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+400843008,2016-03-02,4,2502,away,FALSE,Portland State,88,Vikings,Portland State Vikings,Portland St
+400843004,2016-03-02,4,2458,home,FALSE,Northern Colorado,80,Bears,Northern Colorado Bears,N Colorado
+400843004,2016-03-02,4,147,away,FALSE,Montana State,73,Bobcats,Montana State Bobcats,Montana St
+400830666,2016-03-02,4,304,home,FALSE,Idaho State,71,Bengals,Idaho State Bengals,Idaho St
+400830666,2016-03-02,4,331,away,FALSE,Eastern Washington,62,Eagles,Eastern Washington Eagles,E Washington
+400827125,2016-03-02,4,2692,home,FALSE,Weber State,70,Wildcats,Weber State Wildcats,Weber St
+400827125,2016-03-02,4,70,away,FALSE,Idaho,77,Vandals,Idaho Vandals,Idaho
+400826724,2016-03-02,4,253,home,FALSE,Southern Utah,72,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+400826724,2016-03-02,4,16,away,FALSE,Sacramento State,82,Hornets,Sacramento State Hornets,Sacramento St

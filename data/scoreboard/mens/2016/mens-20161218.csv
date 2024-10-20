@@ -1,0 +1,5 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400916184,2016-12-18,2,239,home,FALSE,Baylor,107,Bears,Baylor Bears,Baylor
+400916184,2016-12-18,2,2301,away,FALSE,John Brown,53,Golden Eagles,John Brown Golden Eagles,John Brown
+400910800,2016-12-18,2,2633,home,TRUE,Tennessee,76,Volunteers,Tennessee Volunteers,Tennessee
+400910800,2016-12-18,2,2250,away,TRUE,Gonzaga,86,Bulldogs,Gonzaga Bulldogs,Gonzaga

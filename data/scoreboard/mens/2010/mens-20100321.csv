@@ -1,0 +1,17 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300800150,2010-03-21,2,150,home,TRUE,Duke,68,Blue Devils,Duke Blue Devils,Duke
+300800150,2010-03-21,2,25,away,TRUE,California,53,Golden Bears,California Golden Bears,California
+300800183,2010-03-21,2,183,home,TRUE,Syracuse,87,Orange,Syracuse Orange,Syracuse
+300800183,2010-03-21,2,2250,away,TRUE,Gonzaga,65,Bulldogs,Gonzaga Bulldogs,Gonzaga
+300800194,2010-03-21,2,194,home,TRUE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
+300800194,2010-03-21,2,59,away,TRUE,Georgia Tech,66,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+300800277,2010-03-21,2,277,home,TRUE,West Virginia,68,Mountaineers,West Virginia Mountaineers,West Virginia
+300800277,2010-03-21,2,142,away,TRUE,Missouri,59,Tigers,Missouri Tigers,Missouri
+300802509,2010-03-21,3,2509,home,TRUE,Purdue,63,Boilermakers,Purdue Boilermakers,Purdue
+300802509,2010-03-21,3,245,away,TRUE,Texas A&M,61,Aggies,Texas A&M Aggies,Texas A&M
+300800120,2010-03-21,2,120,home,TRUE,Maryland,83,Terrapins,Maryland Terrapins,Maryland
+300800120,2010-03-21,2,127,away,TRUE,Michigan State,85,Spartans,Michigan State Spartans,Michigan St
+300800275,2010-03-21,2,275,home,TRUE,Wisconsin,69,Badgers,Wisconsin Badgers,Wisconsin
+300800275,2010-03-21,2,172,away,TRUE,Cornell,87,Big Red,Cornell Big Red,Cornell
+300800221,2010-03-21,2,221,home,TRUE,Pittsburgh,68,Panthers,Pittsburgh Panthers,Pitt
+300800221,2010-03-21,2,2752,away,TRUE,Xavier,71,Musketeers,Xavier Musketeers,Xavier

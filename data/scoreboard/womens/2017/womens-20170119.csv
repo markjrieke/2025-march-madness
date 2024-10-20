@@ -1,0 +1,17 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400914433,2017-01-19,4,120,home,FALSE,Maryland,83,Terrapins,Maryland Terrapins,Maryland
+400914433,2017-01-19,4,130,away,FALSE,Michigan,70,Wolverines,Michigan Wolverines,Michigan
+400910941,2017-01-19,4,333,home,FALSE,Alabama,54,Crimson Tide,Alabama Crimson Tide,Alabama
+400910941,2017-01-19,4,344,away,FALSE,Mississippi State,67,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400910945,2017-01-19,4,2579,home,FALSE,South Carolina,65,Gamecocks,South Carolina Gamecocks,South Carolina
+400910945,2017-01-19,4,145,away,FALSE,Ole Miss,46,Rebels,Ole Miss Rebels,Ole Miss
+400912137,2017-01-19,4,103,home,FALSE,Boston College,69,Eagles,Boston College Eagles,Boston College
+400912137,2017-01-19,4,87,away,FALSE,Notre Dame,80,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400912140,2017-01-19,4,52,home,FALSE,Florida State,77,Seminoles,Florida State Seminoles,Florida St
+400912140,2017-01-19,4,183,away,FALSE,Syracuse,58,Orange,Syracuse Orange,Syracuse
+400912139,2017-01-19,4,150,home,FALSE,Duke,84,Blue Devils,Duke Blue Devils,Duke
+400912139,2017-01-19,4,259,away,FALSE,Virginia Tech,59,Hokies,Virginia Tech Hokies,Virginia Tech
+400917345,2017-01-19,4,194,home,FALSE,Ohio State,70,Buckeyes,Ohio State Buckeyes,Ohio State
+400917345,2017-01-19,4,275,away,FALSE,Wisconsin,61,Badgers,Wisconsin Badgers,Wisconsin
+400910946,2017-01-19,5,142,home,FALSE,Missouri,78,Tigers,Missouri Tigers,Missouri
+400910946,2017-01-19,5,245,away,FALSE,Texas A&M,76,Aggies,Texas A&M Aggies,Texas A&M

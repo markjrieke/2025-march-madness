@@ -1,0 +1,15 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290720024,2009-03-13,2,24,home,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
+290720024,2009-03-13,2,12,away,FALSE,Arizona,46,Wildcats,Arizona Wildcats,Arizona
+290720201,2009-03-13,2,201,home,TRUE,Oklahoma,76,Sooners,Oklahoma Sooners,Oklahoma
+290720201,2009-03-13,2,2305,away,TRUE,Kansas,59,Jayhawks,Kansas Jayhawks,Kansas
+290720239,2009-03-13,2,239,home,TRUE,Baylor,67,Bears,Baylor Bears,Baylor
+290720239,2009-03-13,2,197,away,TRUE,Oklahoma State,62,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+290720245,2009-03-13,2,245,home,TRUE,Texas A&M,65,Aggies,Texas A&M Aggies,Texas A&M
+290720245,2009-03-13,2,2306,away,TRUE,Kansas State,63,Wildcats,Kansas State Wildcats,Kansas St
+290720025,2009-03-13,2,25,home,TRUE,California,61,Golden Bears,California Golden Bears,California
+290720025,2009-03-13,2,264,away,TRUE,Washington,41,Huskies,Washington Huskies,Washington
+290720066,2009-03-13,2,66,home,TRUE,Iowa State,59,Cyclones,Iowa State Cyclones,Iowa State
+290720066,2009-03-13,2,251,away,TRUE,Texas,55,Longhorns,Texas Longhorns,Texas
+290720009,2009-03-13,2,9,home,TRUE,Arizona State,65,Sun Devils,Arizona State Sun Devils,Arizona St
+290720009,2009-03-13,2,30,away,TRUE,USC,70,Trojans,USC Trojans,USC

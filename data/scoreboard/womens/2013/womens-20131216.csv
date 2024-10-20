@@ -1,0 +1,11 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400509781,2013-12-16,2,24,home,FALSE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
+400509781,2013-12-16,2,167,away,FALSE,New Mexico,41,Lobos,New Mexico Lobos,New Mexico
+400507470,2013-12-16,2,153,home,TRUE,North Carolina,124,Tar Heels,North Carolina Tar Heels,North Carolina
+400507470,2013-12-16,2,2443,away,TRUE,New Orleans,41,Privateers,New Orleans Privateers,New Orleans
+400508749,2013-12-16,2,183,home,FALSE,Syracuse,82,Orange,Syracuse Orange,Syracuse
+400508749,2013-12-16,2,218,away,FALSE,Temple,76,Owls,Temple Owls,Temple
+400505000,2013-12-16,2,52,home,FALSE,Florida State,61,Seminoles,Florida State Seminoles,Florida St
+400505000,2013-12-16,2,2454,away,FALSE,North Florida,42,Ospreys,North Florida Ospreys,North Florida
+400505845,2013-12-16,2,2250,home,FALSE,Gonzaga,87,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400505845,2013-12-16,2,27,away,FALSE,UC Riverside,43,Highlanders,UC Riverside Highlanders,UC Riverside

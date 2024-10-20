@@ -1,0 +1,53 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400545095,2014-03-12,2,2640,home,TRUE,Texas Southern,82,Tigers,Texas Southern Tigers,Texas Southern
+400545095,2014-03-12,2,2755,away,TRUE,Grambling,74,Lady Tigers,Grambling Lady Tigers,Grambling
+400545094,2014-03-12,2,2261,home,TRUE,Hampton,71,Lady Pirates,Hampton Lady Pirates,Hampton
+400545094,2014-03-12,2,47,away,TRUE,Howard,55,Bison,Howard Bison,Howard
+400544886,2014-03-12,2,2050,home,TRUE,Ball State,61,Cardinals,Ball State Cardinals,Ball State
+400544886,2014-03-12,2,2459,away,TRUE,Northern Illinois,47,Huskies,Northern Illinois Huskies,N Illinois
+400545114,2014-03-12,2,5,home,TRUE,UAB,79,Blazers,UAB Blazers,UAB
+400545114,2014-03-12,2,276,away,TRUE,Marshall,63,Thundering Herd,Marshall Thundering Herd,Marshall
+400544221,2014-03-12,2,2032,home,TRUE,Arkansas State,78,Red Wolves,Arkansas State Red Wolves,Arkansas St
+400544221,2014-03-12,2,2433,away,TRUE,UL Monroe,69,Warhawks,UL Monroe Warhawks,UL Monroe
+400545154,2014-03-12,2,2448,home,TRUE,North Carolina A&T,78,Aggies,North Carolina A&T Aggies,NC A&T
+400545154,2014-03-12,2,2065,away,TRUE,Bethune-Cookman,46,Wildcats,Bethune-Cookman Wildcats,Bethune
+400544887,2014-03-12,2,2649,home,TRUE,Toledo,72,Rockets,Toledo Rockets,Toledo
+400544887,2014-03-12,2,2711,away,TRUE,Western Michigan,61,Broncos,Western Michigan Broncos,W Michigan
+400544228,2014-03-12,2,70,home,TRUE,Idaho,84,Vandals,Idaho Vandals,Idaho
+400544228,2014-03-12,2,2130,away,TRUE,Chicago State,43,Cougars,Chicago State Cougars,Chicago St
+400545174,2014-03-12,2,151,home,TRUE,East Carolina,75,Pirates,East Carolina Pirates,East Carolina
+400545174,2014-03-12,2,2229,away,TRUE,Florida International,87,Panthers,Florida International Panthers,FIU
+400544222,2014-03-12,2,326,home,TRUE,Texas State,78,Bobcats,Texas State Bobcats,Texas St
+400544222,2014-03-12,2,2247,away,TRUE,Georgia State,44,Panthers,Georgia State Panthers,Georgia St
+400544229,2014-03-12,2,292,home,TRUE,UT Rio Grande Valley,74,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+400544229,2014-03-12,2,166,away,TRUE,New Mexico State,86,Aggies,New Mexico State Aggies,New Mexico St
+400545214,2014-03-12,2,2582,home,TRUE,Southern,80,Jaguars,Southern Jaguars,Southern
+400545214,2014-03-12,2,2010,away,TRUE,Alabama A&M,66,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+400545240,2014-03-12,2,2429,home,TRUE,Charlotte,55,49ers,Charlotte 49ers,Charlotte
+400545240,2014-03-12,2,2348,away,TRUE,Louisiana Tech,64,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+400544594,2014-03-12,2,2523,home,FALSE,Robert Morris,72,Colonials,Robert Morris Colonials,Robert Morris
+400544594,2014-03-12,2,2803,away,FALSE,Bryant,67,Bulldogs,Bryant Bulldogs,Bryant
+400544223,2014-03-12,2,98,home,TRUE,Western Kentucky,67,Lady Toppers,Western Kentucky Lady Toppers,Western KY
+400544223,2014-03-12,2,309,away,TRUE,Louisiana,61,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+400544216,2014-03-12,2,2750,home,FALSE,Wright State,73,Raiders,Wright State Raiders,Wright St
+400544216,2014-03-12,2,270,away,FALSE,Milwaukee,64,Panthers,Milwaukee Panthers,Milwaukee
+400544215,2014-03-12,2,2754,home,FALSE,Youngstown State,68,Penguins,Youngstown State Penguins,Youngstown St
+400544215,2014-03-12,2,2473,away,FALSE,Oakland,64,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+400544614,2014-03-12,2,116,home,FALSE,Mount St. Mary's,63,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+400544614,2014-03-12,2,2598,away,FALSE,St. Francis (PA),68,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+400544888,2014-03-12,2,2739,home,FALSE,Green Bay,72,Phoenix,Green Bay Phoenix,Green Bay
+400544888,2014-03-12,2,2674,away,FALSE,Valparaiso,55,Beacons,Valparaiso Beacons,Valparaiso
+400544214,2014-03-12,2,82,home,FALSE,UIC,77,Flames,UIC Flames,UIC
+400544214,2014-03-12,2,325,away,FALSE,Cleveland State,72,Vikings,Cleveland State Vikings,Cleveland St
+400545441,2014-03-12,2,62,home,TRUE,Hawai'i,52,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
+400545441,2014-03-12,2,299,away,TRUE,Long Beach State,49,Beach,Long Beach State Beach,Long Beach St
+400544230,2014-03-12,2,2547,home,TRUE,Seattle U,81,Redhawks,Seattle U Redhawks,Seattle U
+400544230,2014-03-12,2,140,away,TRUE,Kansas City,76,Roos,Kansas City Roos,Kansas City
+400545258,2014-03-12,2,295,home,TRUE,Old Dominion,79,Monarchs,Old Dominion Monarchs,Old Dominion
+400545258,2014-03-12,2,2636,away,TRUE,UTSA,74,Roadrunners,UTSA Roadrunners,UTSA
+400544224,2014-03-12,2,2031,home,TRUE,Little Rock,66,Trojans,Little Rock Trojans,Little Rock
+400544224,2014-03-12,2,2653,away,TRUE,Troy,54,Trojans,Troy Trojans,Troy
+400545257,2014-03-12,3,300,home,TRUE,UC Irvine,74,Anteaters,UC Irvine Anteaters,UC Irvine
+400545257,2014-03-12,3,302,away,TRUE,UC Davis,70,Aggies,UC Davis Aggies,UC Davis
+400544231,2014-03-12,3,2934,home,TRUE,Cal State Bakersfield,65,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+400544231,2014-03-12,3,3084,away,TRUE,Utah Valley,63,Wolverines,Utah Valley Wolverines,Utah Valley

@@ -1,0 +1,13 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330500127,2013-02-19,2,127,home,FALSE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St
+330500127,2013-02-19,2,84,away,FALSE,Indiana,72,Hoosiers,Indiana Hoosiers,Indiana
+330502390,2013-02-19,2,2390,home,FALSE,Miami,54,Hurricanes,Miami Hurricanes,Miami
+330502390,2013-02-19,2,258,away,FALSE,Virginia,50,Cavaliers,Virginia Cavaliers,Virginia
+330500142,2013-02-19,2,142,home,FALSE,Missouri,63,Tigers,Missouri Tigers,Missouri
+330500142,2013-02-19,2,57,away,FALSE,Florida,60,Gators,Florida Gators,Florida
+330502086,2013-02-19,2,2086,home,FALSE,Butler,68,Bulldogs,Butler Bulldogs,Butler
+330502086,2013-02-19,2,2184,away,FALSE,Duquesne,49,Dukes,Duquesne Dukes,Duquesne
+330502550,2013-02-19,2,2550,home,FALSE,Seton Hall,46,Pirates,Seton Hall Pirates,Seton Hall
+330502550,2013-02-19,2,269,away,FALSE,Marquette,67,Golden Eagles,Marquette Golden Eagles,Marquette
+330500139,2013-02-19,2,139,home,FALSE,Saint Louis,76,Billikens,Saint Louis Billikens,Saint Louis
+330500139,2013-02-19,2,2670,away,FALSE,VCU,62,Rams,VCU Rams,VCU

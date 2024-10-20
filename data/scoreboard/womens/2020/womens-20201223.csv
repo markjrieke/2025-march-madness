@@ -1,0 +1,9 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401268092,2020-12-23,4,12,home,FALSE,Arizona,96,Wildcats,Arizona Wildcats,Arizona
+401268092,2020-12-23,4,70,away,FALSE,Idaho,42,Vandals,Idaho Vandals,Idaho
+401264813,2020-12-23,4,135,home,FALSE,Minnesota,54,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401264813,2020-12-23,4,84,away,FALSE,Indiana,75,Hoosiers,Indiana Hoosiers,Indiana
+401264815,2020-12-23,0,120,home,FALSE,Maryland,0,Terrapins,Maryland Terrapins,Maryland
+401264815,2020-12-23,0,194,away,FALSE,Ohio State,0,Buckeyes,Ohio State Buckeyes,Ohio State
+401264816,2020-12-23,0,130,home,FALSE,Michigan,0,Wolverines,Michigan Wolverines,Michigan
+401264816,2020-12-23,0,213,away,FALSE,Penn State,0,Lady Lions,Penn State Lady Lions,Penn State

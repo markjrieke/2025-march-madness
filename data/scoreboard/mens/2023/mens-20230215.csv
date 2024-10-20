@@ -1,0 +1,13 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401484615,2023-02-15,2,2633,home,FALSE,Tennessee,68,Volunteers,Tennessee Volunteers,Tennessee
+401484615,2023-02-15,2,333,away,FALSE,Alabama,59,Crimson Tide,Alabama Crimson Tide,Alabama
+401488496,2023-02-15,2,97,home,FALSE,Louisville,58,Cardinals,Louisville Cardinals,Louisville
+401488496,2023-02-15,2,258,away,FALSE,Virginia,61,Cavaliers,Virginia Cavaliers,Virginia
+401485266,2023-02-15,2,269,home,FALSE,Marquette,69,Golden Eagles,Marquette Golden Eagles,Marquette
+401485266,2023-02-15,2,2752,away,FALSE,Xavier,68,Musketeers,Xavier Musketeers,Xavier
+401484955,2023-02-15,2,77,home,FALSE,Northwestern,64,Wildcats,Northwestern Wildcats,Northwestern
+401484955,2023-02-15,2,84,away,FALSE,Indiana,62,Hoosiers,Indiana Hoosiers,Indiana
+401493439,2023-02-15,2,66,home,FALSE,Iowa State,70,Cyclones,Iowa State Cyclones,Iowa State
+401493439,2023-02-15,2,2628,away,FALSE,TCU,59,Horned Frogs,TCU Horned Frogs,TCU
+401482861,2023-02-15,2,278,home,FALSE,Fresno State,43,Bulldogs,Fresno State Bulldogs,Fresno St
+401482861,2023-02-15,2,21,away,FALSE,San Diego State,45,Aztecs,San Diego State Aztecs,San Diego St

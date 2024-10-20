@@ -1,0 +1,67 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400768120,2015-03-11,2,2261,home,TRUE,Hampton,50,Lady Pirates,Hampton Lady Pirates,Hampton
+400768120,2015-03-11,2,2379,away,TRUE,Maryland Eastern Shore,52,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+400768026,2015-03-11,2,2711,home,TRUE,Western Michigan,81,Broncos,Western Michigan Broncos,W Michigan
+400768026,2015-03-11,2,2117,away,TRUE,Central Michigan,68,Chippewas,Central Michigan Chippewas,C Michigan
+400766908,2015-03-11,2,5,home,TRUE,UAB,63,Blazers,UAB Blazers,UAB
+400766908,2015-03-11,2,2638,away,TRUE,UTEP,52,Miners,UTEP Miners,UTEP
+400766807,2015-03-11,2,2031,home,TRUE,Little Rock,71,Trojans,Little Rock Trojans,Little Rock
+400766807,2015-03-11,2,2247,away,TRUE,Georgia State,54,Panthers,Georgia State Panthers,Georgia St
+400768118,2015-03-11,3,2296,home,TRUE,Jackson State,89,Lady Tigers,Jackson State Lady Tigers,Jackson St
+400768118,2015-03-11,3,2010,away,TRUE,Alabama A&M,82,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+400766976,2015-03-11,2,16,home,TRUE,Sacramento State,78,Hornets,Sacramento State Hornets,Sacramento St
+400766976,2015-03-11,2,147,away,TRUE,Montana State,62,Bobcats,Montana State Bobcats,Montana St
+400768121,2015-03-11,2,2542,home,TRUE,Savannah State,66,Tigers,Savannah State Tigers,Savannah St
+400768121,2015-03-11,2,2154,away,TRUE,Coppin State,52,Eagles,Coppin State Eagles,Coppin St
+400768031,2015-03-11,2,2199,home,TRUE,Eastern Michigan,74,Eagles,Eastern Michigan Eagles,E Michigan
+400768031,2015-03-11,2,2649,away,TRUE,Toledo,57,Rockets,Toledo Rockets,Toledo
+400766910,2015-03-11,2,2348,home,TRUE,Louisiana Tech,84,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+400766910,2015-03-11,2,2226,away,TRUE,Florida Atlantic,74,Owls,Florida Atlantic Owls,FAU
+400766808,2015-03-11,2,326,home,TRUE,Texas State,52,Bobcats,Texas State Bobcats,Texas St
+400766808,2015-03-11,2,250,away,TRUE,UT Arlington,46,Mavericks,UT Arlington Mavericks,UT Arlington
+400766977,2015-03-11,2,2458,home,TRUE,Northern Colorado,72,Bears,Northern Colorado Bears,N Colorado
+400766977,2015-03-11,2,155,away,TRUE,North Dakota,64,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
+400766838,2015-03-11,2,2547,home,TRUE,Seattle U,64,Redhawks,Seattle U Redhawks,Seattle U
+400766838,2015-03-11,2,3084,away,TRUE,Utah Valley,62,Wolverines,Utah Valley Wolverines,Utah Valley
+400766911,2015-03-11,2,2429,home,TRUE,Charlotte,67,49ers,Charlotte 49ers,Charlotte
+400766911,2015-03-11,2,276,away,TRUE,Marshall,52,Thundering Herd,Marshall Thundering Herd,Marshall
+400766809,2015-03-11,2,2032,home,TRUE,Arkansas State,67,Red Wolves,Arkansas State Red Wolves,Arkansas St
+400766809,2015-03-11,2,2026,away,TRUE,App State,52,Mountaineers,App State Mountaineers,App State
+400767022,2015-03-11,2,2803,home,FALSE,Bryant,62,Bulldogs,Bryant Bulldogs,Bryant
+400767022,2015-03-11,2,2523,away,FALSE,Robert Morris,68,Colonials,Robert Morris Colonials,Robert Morris
+400767021,2015-03-11,4,2115,home,FALSE,Central Connecticut,63,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+400767021,2015-03-11,4,2597,away,FALSE,St. Francis Brooklyn,71,Terriers,St. Francis Brooklyn Terriers,St Francis BK
+400766981,2015-03-11,2,2582,home,TRUE,Southern,62,Jaguars,Southern Jaguars,Southern
+400766981,2015-03-11,2,2400,away,TRUE,Mississippi Valley State,57,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
+400766817,2015-03-11,2,2750,home,FALSE,Wright State,95,Raiders,Wright State Raiders,Wright St
+400766817,2015-03-11,2,2473,away,FALSE,Oakland,60,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+400766816,2015-03-11,2,325,home,FALSE,Cleveland State,76,Vikings,Cleveland State Vikings,Cleveland St
+400766816,2015-03-11,2,82,away,FALSE,UIC,70,Flames,UIC Flames,UIC
+400766815,2015-03-11,2,2754,home,FALSE,Youngstown State,73,Penguins,Youngstown State Penguins,Youngstown St
+400766815,2015-03-11,2,2174,away,FALSE,Detroit Mercy,55,Titans,Detroit Mercy Titans,Detroit Mercy
+400766608,2015-03-11,2,526,home,FALSE,Florida Gulf Coast,62,Eagles,Florida Gulf Coast Eagles,FGCU
+400766608,2015-03-11,2,294,away,FALSE,Jacksonville,42,Dolphins,Jacksonville Dolphins,Jacksonville
+400766607,2015-03-11,2,56,home,FALSE,Stetson,52,Hatters,Stetson Hatters,Stetson
+400766607,2015-03-11,2,94,away,FALSE,Northern Kentucky,53,Norse,Northern Kentucky Norse,N Kentucky
+400766978,2015-03-11,2,331,home,TRUE,Eastern Washington,73,Eagles,Eastern Washington Eagles,E Washington
+400766978,2015-03-11,2,2464,away,TRUE,Northern Arizona,57,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+400766839,2015-03-11,2,2934,home,TRUE,Cal State Bakersfield,77,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+400766839,2015-03-11,2,2130,away,TRUE,Chicago State,53,Cougars,Chicago State Cougars,Chicago St
+400768036,2015-03-11,2,2739,home,FALSE,Green Bay,74,Phoenix,Green Bay Phoenix,Green Bay
+400768036,2015-03-11,2,270,away,FALSE,Milwaukee,62,Panthers,Milwaukee Panthers,Milwaukee
+400766912,2015-03-11,2,295,home,TRUE,Old Dominion,62,Monarchs,Old Dominion Monarchs,Old Dominion
+400766912,2015-03-11,2,242,away,TRUE,Rice,57,Owls,Rice Owls,Rice
+400766810,2015-03-11,2,2653,home,TRUE,Troy,52,Trojans,Troy Trojans,Troy
+400766810,2015-03-11,2,309,away,TRUE,Louisiana,66,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+400768210,2015-03-11,2,13,home,TRUE,Cal Poly,48,Mustangs,Cal Poly Mustangs,Cal Poly
+400768210,2015-03-11,2,2239,away,TRUE,Cal State Fullerton,55,Titans,Cal State Fullerton Titans,Fullerton
+400768136,2015-03-11,2,68,home,TRUE,Boise State,76,Broncos,Boise State Broncos,Boise St
+400768136,2015-03-11,2,23,away,TRUE,San José State,67,Spartans,San José State Spartans,San José St
+400766979,2015-03-11,2,149,home,TRUE,Montana,69,Lady Griz,Montana Lady Griz,Montana
+400766979,2015-03-11,2,304,away,TRUE,Idaho State,67,Bengals,Idaho State Bengals,Idaho St
+400766840,2015-03-11,2,292,home,TRUE,UT Rio Grande Valley,61,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+400766840,2015-03-11,2,140,away,TRUE,Kansas City,50,Roos,Kansas City Roos,Kansas City
+400768209,2015-03-11,2,167,home,TRUE,New Mexico,64,Lobos,New Mexico Lobos,New Mexico
+400768209,2015-03-11,2,278,away,TRUE,Fresno State,53,Bulldogs,Fresno State Bulldogs,Fresno St
+400768175,2015-03-11,2,299,home,TRUE,Long Beach State,67,Beach,Long Beach State Beach,Long Beach St
+400768175,2015-03-11,2,302,away,TRUE,UC Davis,70,Aggies,UC Davis Aggies,UC Davis

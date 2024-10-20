@@ -1,0 +1,37 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313440084,2011-12-10,2,84,home,FALSE,Indiana,73,Hoosiers,Indiana Hoosiers,Indiana
+313440084,2011-12-10,2,96,away,FALSE,Kentucky,72,Wildcats,Kentucky Wildcats,Kentucky
+313442305,2011-12-10,2,2305,home,FALSE,Kansas,78,Jayhawks,Kansas Jayhawks,Kansas
+313442305,2011-12-10,2,194,away,FALSE,Ohio State,67,Buckeyes,Ohio State Buckeyes,Ohio State
+313440183,2011-12-10,2,183,home,FALSE,Syracuse,85,Orange,Syracuse Orange,Syracuse
+313440183,2011-12-10,2,45,away,FALSE,George Washington,50,Revolutionaries,George Washington Revolutionaries,G Washington
+313440153,2011-12-10,2,153,home,FALSE,North Carolina,84,Tar Heels,North Carolina Tar Heels,North Carolina
+313440153,2011-12-10,2,299,away,FALSE,Long Beach State,78,Beach,Long Beach State Beach,Long Beach St
+313440097,2011-12-10,2,97,home,FALSE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
+313440097,2011-12-10,2,161,away,FALSE,Fairleigh Dickinson,58,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+313440150,2011-12-10,2,150,home,TRUE,Duke,86,Blue Devils,Duke Blue Devils,Duke
+313440150,2011-12-10,2,264,away,TRUE,Washington,80,Huskies,Washington Huskies,Washington
+313442752,2011-12-10,2,2752,home,FALSE,Xavier,76,Musketeers,Xavier Musketeers,Xavier
+313442752,2011-12-10,2,2132,away,FALSE,Cincinnati,53,Bearcats,Cincinnati Bearcats,Cincinnati
+313440142,2011-12-10,2,142,home,FALSE,Missouri,84,Tigers,Missouri Tigers,Missouri
+313440142,2011-12-10,2,2426,away,FALSE,Navy,59,Midshipmen,Navy Midshipmen,Navy
+313440269,2011-12-10,2,269,home,FALSE,Marquette,79,Golden Eagles,Marquette Golden Eagles,Marquette
+313440269,2011-12-10,2,2739,away,FALSE,Green Bay,61,Phoenix,Green Bay Phoenix,Green Bay
+313440275,2011-12-10,2,275,home,FALSE,Wisconsin,62,Badgers,Wisconsin Badgers,Wisconsin
+313440275,2011-12-10,2,2439,away,FALSE,UNLV,51,Rebels,UNLV Rebels,UNLV
+313440221,2011-12-10,2,221,home,TRUE,Pittsburgh,74,Panthers,Pittsburgh Panthers,Pitt
+313440221,2011-12-10,2,197,away,TRUE,Oklahoma State,68,Cowboys,Oklahoma State Cowboys,Oklahoma St
+313440344,2011-12-10,2,344,home,FALSE,Mississippi State,106,Bulldogs,Mississippi State Bulldogs,Mississippi St
+313440344,2011-12-10,2,2653,away,FALSE,Troy,68,Trojans,Troy Trojans,Troy
+313440046,2011-12-10,2,46,home,FALSE,Georgetown,62,Hoyas,Georgetown Hoyas,Georgetown
+313440046,2011-12-10,2,47,away,FALSE,Howard,48,Bison,Howard Bison,Howard
+313442603,2011-12-10,2,2603,home,FALSE,Saint Joseph's,80,Hawks,Saint Joseph's Hawks,Saint Joseph's
+313442603,2011-12-10,2,156,away,FALSE,Creighton,71,Bluejays,Creighton Bluejays,Creighton
+313442473,2011-12-10,2,2473,home,FALSE,Oakland,80,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+313442473,2011-12-10,2,130,away,FALSE,Michigan,90,Wolverines,Michigan Wolverines,Michigan
+313440245,2011-12-10,2,245,home,FALSE,Texas A&M,67,Aggies,Texas A&M Aggies,Texas A&M
+313440245,2011-12-10,2,2433,away,FALSE,UL Monroe,54,Warhawks,UL Monroe Warhawks,UL Monroe
+313442250,2011-12-10,2,2250,home,FALSE,Gonzaga,67,Bulldogs,Gonzaga Bulldogs,Gonzaga
+313442250,2011-12-10,2,127,away,FALSE,Michigan State,74,Spartans,Michigan State Spartans,Michigan St
+313440104,2011-12-10,2,104,home,FALSE,Boston University,52,Terriers,Boston University Terriers,Boston U
+313440104,2011-12-10,2,108,away,FALSE,Harvard,76,Crimson,Harvard Crimson,Harvard

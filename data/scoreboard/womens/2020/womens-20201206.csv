@@ -1,0 +1,29 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401263211,2020-12-06,4,24,home,TRUE,Stanford,83,Cardinal,Stanford Cardinal,Stanford
+401263211,2020-12-06,4,264,away,TRUE,Washington,50,Huskies,Washington Huskies,Washington
+401265934,2020-12-06,4,97,home,FALSE,Louisville,85,Cardinals,Louisville Cardinals,Louisville
+401265934,2020-12-06,4,2630,away,FALSE,UT Martin,67,Skyhawks,UT Martin Skyhawks,UT Martin
+401263194,2020-12-06,4,12,home,FALSE,Arizona,78,Wildcats,Arizona Wildcats,Arizona
+401263194,2020-12-06,4,30,away,FALSE,USC,77,Trojans,USC Trojans,USC
+401262849,2020-12-06,4,152,home,FALSE,NC State,98,Wolfpack,NC State Wolfpack,NC State
+401262849,2020-12-06,4,324,away,FALSE,Coastal Carolina,46,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+401263111,2020-12-06,4,9,home,FALSE,Arizona State,59,Sun Devils,Arizona State Sun Devils,Arizona St
+401263111,2020-12-06,4,26,away,FALSE,UCLA,63,Bruins,UCLA Bruins,UCLA
+401263238,2020-12-06,4,2483,home,FALSE,Oregon,85,Ducks,Oregon Ducks,Oregon
+401263238,2020-12-06,4,254,away,FALSE,Utah,43,Utes,Utah Utes,Utah
+401264351,2020-12-06,4,96,home,FALSE,Kentucky,72,Wildcats,Kentucky Wildcats,Kentucky
+401264351,2020-12-06,4,84,away,FALSE,Indiana,68,Hoosiers,Indiana Hoosiers,Indiana
+401263155,2020-12-06,4,204,home,FALSE,Oregon State,70,Beavers,Oregon State Beavers,Oregon St
+401263155,2020-12-06,4,38,away,FALSE,Colorado,53,Buffaloes,Colorado Buffaloes,Colorado
+401263468,2020-12-06,5,2571,home,FALSE,South Dakota State,75,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+401263468,2020-12-06,5,2250,away,FALSE,Gonzaga,72,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401266552,2020-12-06,4,194,home,FALSE,Ohio State,96,Buckeyes,Ohio State Buckeyes,Ohio State
+401266552,2020-12-06,4,94,away,FALSE,Northern Kentucky,63,Norse,Northern Kentucky Norse,N Kentucky
+401265297,2020-12-06,4,183,home,FALSE,Syracuse,82,Orange,Syracuse Orange,Syracuse
+401265297,2020-12-06,4,213,away,FALSE,Penn State,72,Lady Lions,Penn State Lady Lions,Penn State
+401268013,2020-12-06,4,130,home,FALSE,Michigan,82,Wolverines,Michigan Wolverines,Michigan
+401268013,2020-12-06,4,2750,away,FALSE,Wright State,59,Raiders,Wright State Raiders,Wright St
+401259629,2020-12-06,0,2550,home,FALSE,Seton Hall,0,Pirates,Seton Hall Pirates,Seton Hall
+401259629,2020-12-06,0,41,away,FALSE,UConn,0,Huskies,UConn Huskies,UConn
+401259617,2020-12-06,0,305,home,FALSE,DePaul,0,Blue Demons,DePaul Blue Demons,DePaul
+401259617,2020-12-06,0,2752,away,FALSE,Xavier,0,Musketeers,Xavier Musketeers,Xavier

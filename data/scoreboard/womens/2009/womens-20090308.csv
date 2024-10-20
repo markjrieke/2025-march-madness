@@ -1,0 +1,17 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290670041,2009-03-08,2,41,home,FALSE,UConn,79,Huskies,UConn Huskies,UConn
+290670041,2009-03-08,2,58,away,FALSE,South Florida,42,Bulls,South Florida Bulls,South Florida
+290670251,2009-03-08,2,251,home,FALSE,Texas,62,Longhorns,Texas Longhorns,Texas
+290670251,2009-03-08,2,201,away,FALSE,Oklahoma,74,Sooners,Oklahoma Sooners,Oklahoma
+290670120,2009-03-08,3,120,home,FALSE,Maryland,92,Terrapins,Maryland Terrapins,Maryland
+290670120,2009-03-08,3,150,away,FALSE,Duke,89,Blue Devils,Duke Blue Devils,Duke
+290670002,2009-03-08,2,2,home,TRUE,Auburn,54,Tigers,Auburn Tigers,Auburn
+290670002,2009-03-08,2,238,away,TRUE,Vanderbilt,61,Commodores,Vanderbilt Commodores,Vanderbilt
+290670097,2009-03-08,4,97,home,TRUE,Louisville,87,Cardinals,Louisville Cardinals,Louisville
+290670097,2009-03-08,4,164,away,TRUE,Rutgers,82,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+290670194,2009-03-08,2,194,home,TRUE,Ohio State,67,Buckeyes,Ohio State Buckeyes,Ohio State
+290670194,2009-03-08,2,2509,away,TRUE,Purdue,66,Boilermakers,Purdue Boilermakers,Purdue
+290670221,2009-03-08,2,221,home,TRUE,Pittsburgh,62,Panthers,Pittsburgh Panthers,Pitt
+290670221,2009-03-08,2,305,away,TRUE,DePaul,59,Blue Demons,DePaul Blue Demons,DePaul
+290670222,2009-03-08,2,222,home,TRUE,Villanova,58,Wildcats,Villanova Wildcats,Villanova
+290670222,2009-03-08,2,87,away,TRUE,Notre Dame,47,Fighting Irish,Notre Dame Fighting Irish,Notre Dame

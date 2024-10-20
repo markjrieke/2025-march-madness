@@ -1,0 +1,9 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300660096,2010-03-07,2,96,home,FALSE,Kentucky,74,Wildcats,Kentucky Wildcats,Kentucky
+300660096,2010-03-07,2,57,away,FALSE,Florida,66,Gators,Florida Gators,Florida
+300650127,2010-03-07,2,127,home,FALSE,Michigan State,64,Spartans,Michigan State Spartans,Michigan St
+300650127,2010-03-07,2,130,away,FALSE,Michigan,48,Wolverines,Michigan Wolverines,Michigan
+300650356,2010-03-07,2,356,home,FALSE,Illinois,57,Fighting Illini,Illinois Fighting Illini,Illinois
+300650356,2010-03-07,2,275,away,FALSE,Wisconsin,72,Badgers,Wisconsin Badgers,Wisconsin
+300662250,2010-03-07,2,2250,home,TRUE,Gonzaga,77,Bulldogs,Gonzaga Bulldogs,Gonzaga
+300662250,2010-03-07,2,2351,away,TRUE,Loyola Marymount,62,Lions,Loyola Marymount Lions,LMU

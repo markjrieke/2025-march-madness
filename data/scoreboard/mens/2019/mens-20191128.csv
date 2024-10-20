@@ -1,0 +1,37 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401169453,2019-11-28,2,218,home,TRUE,Temple,69,Owls,Temple Owls,Temple
+401169453,2019-11-28,2,120,away,TRUE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
+401171832,2019-11-28,2,2210,home,FALSE,Elon,67,Phoenix,Elon Phoenix,Elon
+401171832,2019-11-28,2,250,away,FALSE,UT Arlington,77,Mavericks,UT Arlington Mavericks,UT Arlington
+401183482,2019-11-28,2,130,home,TRUE,Michigan,73,Wolverines,Michigan Wolverines,Michigan
+401183482,2019-11-28,2,153,away,TRUE,North Carolina,64,Tar Heels,North Carolina Tar Heels,North Carolina
+401169862,2019-11-28,2,108,home,TRUE,Harvard,62,Crimson,Harvard Crimson,Harvard
+401169862,2019-11-28,2,245,away,TRUE,Texas A&M,51,Aggies,Texas A&M Aggies,Texas A&M
+401170517,2019-11-28,2,13,home,TRUE,Cal Poly,72,Mustangs,Cal Poly Mustangs,Cal Poly
+401170517,2019-11-28,2,2634,away,TRUE,Tennessee State,82,Tigers,Tennessee State Tigers,Tennessee St
+401168428,2019-11-28,2,299,home,TRUE,Long Beach State,66,Beach,Long Beach State Beach,Long Beach St
+401168428,2019-11-28,2,2507,away,TRUE,Providence,65,Friars,Providence Friars,Providence
+401183481,2019-11-28,3,2250,home,TRUE,Gonzaga,73,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401183481,2019-11-28,3,2483,away,TRUE,Oregon,72,Ducks,Oregon Ducks,Oregon
+401170602,2019-11-28,2,2217,home,TRUE,Fairfield,47,Stags,Fairfield Stags,Fairfield
+401170602,2019-11-28,2,30,away,TRUE,USC,54,Trojans,USC Trojans,USC
+401168618,2019-11-28,2,235,home,TRUE,Memphis,83,Tigers,Memphis Tigers,Memphis
+401168618,2019-11-28,2,152,away,TRUE,NC State,78,Wolfpack,NC State Wolfpack,NC State
+401170516,2019-11-28,2,2454,home,TRUE,North Florida,95,Ospreys,North Florida Ospreys,North Florida
+401170516,2019-11-28,2,112358,away,TRUE,Long Island University,92,Sharks,Long Island University Sharks,Long Island
+401168225,2019-11-28,2,232,home,TRUE,Charleston,56,Cougars,Charleston Cougars,Charleston
+401168225,2019-11-28,2,154,away,TRUE,Wake Forest,65,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+401168407,2019-11-28,2,269,home,TRUE,Marquette,73,Golden Eagles,Marquette Golden Eagles,Marquette
+401168407,2019-11-28,2,2166,away,TRUE,Davidson,63,Wildcats,Davidson Wildcats,Davidson
+401183480,2019-11-28,2,66,home,TRUE,Iowa State,104,Cyclones,Iowa State Cyclones,Iowa State
+401183480,2019-11-28,2,333,away,TRUE,Alabama,89,Crimson Tide,Alabama Crimson Tide,Alabama
+401169635,2019-11-28,2,2641,home,TRUE,Texas Tech,61,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401169635,2019-11-28,2,2294,away,TRUE,Iowa,72,Hawkeyes,Iowa Hawkeyes,Iowa
+401169452,2019-11-28,2,219,home,TRUE,Pennsylvania,68,Quakers,Pennsylvania Quakers,Penn
+401169452,2019-11-28,2,2116,away,TRUE,UCF,67,Knights,UCF Knights,UCF
+401183479,2019-11-28,2,2572,home,TRUE,Southern Miss,56,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
+401183479,2019-11-28,2,2550,away,TRUE,Seton Hall,81,Pirates,Seton Hall Pirates,Seton Hall
+401168318,2019-11-28,2,156,home,TRUE,Creighton,52,Bluejays,Creighton Bluejays,Creighton
+401168318,2019-11-28,2,21,away,TRUE,San Diego State,83,Aztecs,San Diego State Aztecs,San Diego St
+401170601,2019-11-28,2,12,home,TRUE,Arizona,93,Wildcats,Arizona Wildcats,Arizona
+401170601,2019-11-28,2,2492,away,TRUE,Pepperdine,91,Waves,Pepperdine Waves,Pepperdine

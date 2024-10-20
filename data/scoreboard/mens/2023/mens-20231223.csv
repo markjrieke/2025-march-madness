@@ -1,0 +1,9 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401600258,2023-12-23,4,12,home,TRUE,Arizona,95,Wildcats,Arizona Wildcats,Arizona
+401600258,2023-12-23,4,2226,away,TRUE,Florida Atlantic,96,Owls,Florida Atlantic Owls,FAU
+401599446,2023-12-23,2,41,home,FALSE,UConn,69,Huskies,UConn Huskies,UConn
+401599446,2023-12-23,2,2599,away,FALSE,St. John's,65,Red Storm,St. John's Red Storm,St John's
+401583605,2023-12-23,2,235,home,FALSE,Memphis,77,Tigers,Memphis Tigers,Memphis
+401583605,2023-12-23,2,238,away,FALSE,Vanderbilt,75,Commodores,Vanderbilt Commodores,Vanderbilt
+401594546,2023-12-23,2,145,home,TRUE,Ole Miss,89,Rebels,Ole Miss Rebels,Ole Miss
+401594546,2023-12-23,2,2572,away,TRUE,Southern Miss,72,Golden Eagles,Southern Miss Golden Eagles,Southern Miss

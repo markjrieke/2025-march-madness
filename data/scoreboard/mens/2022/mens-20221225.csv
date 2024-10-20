@@ -1,0 +1,11 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401486781,2022-12-25,2,45,home,TRUE,George Washington,67,Revolutionaries,George Washington Revolutionaries,G Washington
+401486781,2022-12-25,2,2547,away,TRUE,Seattle U,85,Redhawks,Seattle U Redhawks,Seattle U
+401486782,2022-12-25,2,2492,home,TRUE,Pepperdine,66,Waves,Pepperdine Waves,Pepperdine
+401486782,2022-12-25,2,314,away,TRUE,Iona,76,Gaels,Iona Gaels,Iona
+401485192,2022-12-25,2,156,home,FALSE,Creighton,80,Bluejays,Creighton Bluejays,Creighton
+401485192,2022-12-25,2,305,away,FALSE,DePaul,65,Blue Demons,DePaul Blue Demons,DePaul
+401486784,2022-12-25,2,265,home,TRUE,Washington State,73,Cougars,Washington State Cougars,Washington St
+401486784,2022-12-25,2,328,away,TRUE,Utah State,82,Aggies,Utah State Aggies,Utah State
+401486783,2022-12-25,2,62,home,FALSE,Hawai'i,58,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
+401486783,2022-12-25,2,2567,away,FALSE,SMU,57,Mustangs,SMU Mustangs,SMU

@@ -1,0 +1,23 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330090130,2013-01-09,2,130,home,FALSE,Michigan,62,Wolverines,Michigan Wolverines,Michigan
+330090130,2013-01-09,2,158,away,FALSE,Nebraska,47,Cornhuskers,Nebraska Cornhuskers,Nebraska
+330092550,2013-01-09,2,2550,home,FALSE,Seton Hall,58,Pirates,Seton Hall Pirates,Seton Hall
+330092550,2013-01-09,2,97,away,FALSE,Louisville,73,Cardinals,Louisville Cardinals,Louisville
+330092305,2013-01-09,3,2305,home,FALSE,Kansas,97,Jayhawks,Kansas Jayhawks,Kansas
+330092305,2013-01-09,3,66,away,FALSE,Iowa State,89,Cyclones,Iowa State Cyclones,Iowa State
+330092507,2013-01-09,2,2507,home,FALSE,Providence,66,Friars,Providence Friars,Providence
+330092507,2013-01-09,2,183,away,FALSE,Syracuse,72,Orange,Syracuse Orange,Syracuse
+330090356,2013-01-09,2,356,home,FALSE,Illinois,67,Fighting Illini,Illinois Fighting Illini,Illinois
+330090356,2013-01-09,2,135,away,FALSE,Minnesota,84,Golden Gophers,Minnesota Golden Gophers,Minnesota
+330090057,2013-01-09,2,57,home,FALSE,Florida,77,Gators,Florida Gators,Florida
+330090057,2013-01-09,2,61,away,FALSE,Georgia,44,Bulldogs,Georgia Bulldogs,Georgia
+330092603,2013-01-09,2,2603,home,FALSE,Saint Joseph's,66,Hawks,Saint Joseph's Hawks,Saint Joseph's
+330092603,2013-01-09,2,2086,away,FALSE,Butler,72,Bulldogs,Butler Bulldogs,Butler
+330090278,2013-01-09,2,278,home,FALSE,Fresno State,62,Bulldogs,Fresno State Bulldogs,Fresno St
+330090278,2013-01-09,2,21,away,FALSE,San Diego State,65,Aztecs,San Diego State Aztecs,San Diego St
+330090152,2013-01-09,2,152,home,FALSE,NC State,83,Wolfpack,NC State Wolfpack,NC State
+330090152,2013-01-09,2,59,away,FALSE,Georgia Tech,70,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+330092724,2013-01-09,2,2724,home,FALSE,Wichita State,82,Shockers,Wichita State Shockers,Wichita St
+330092724,2013-01-09,2,79,away,FALSE,Southern Illinois,76,Salukis,Southern Illinois Salukis,S Illinois
+330090167,2013-01-09,2,167,home,FALSE,New Mexico,65,Lobos,New Mexico Lobos,New Mexico
+330090167,2013-01-09,2,2439,away,FALSE,UNLV,60,Rebels,UNLV Rebels,UNLV

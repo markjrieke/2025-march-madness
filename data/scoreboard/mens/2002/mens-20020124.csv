@@ -1,0 +1,17 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220240103,2002-01-24,2,103,home,FALSE,Boston College,78,Eagles,Boston College Eagles,Boston College
+220240103,2002-01-24,2,150,away,FALSE,Duke,88,Blue Devils,Duke Blue Devils,Duke
+220240258,2002-01-24,2,258,home,FALSE,Virginia,93,Cavaliers,Virginia Cavaliers,Virginia
+220240258,2002-01-24,2,2678,away,FALSE,VMI,59,Keydets,VMI Keydets,VMI
+220240026,2002-01-24,2,26,home,FALSE,UCLA,76,Bruins,UCLA Bruins,UCLA
+220240026,2002-01-24,2,24,away,FALSE,Stanford,86,Cardinal,Stanford Cardinal,Stanford
+220242250,2002-01-24,2,2250,home,FALSE,Gonzaga,93,Bulldogs,Gonzaga Bulldogs,Gonzaga
+220242250,2002-01-24,2,2539,away,FALSE,San Francisco,73,Dons,San Francisco Dons,San Francisco
+220240264,2002-01-24,2,264,home,FALSE,Washington,97,Huskies,Washington Huskies,Washington
+220240264,2002-01-24,2,2483,away,FALSE,Oregon,92,Ducks,Oregon Ducks,Oregon
+220240194,2002-01-24,2,194,home,FALSE,Ohio State,69,Buckeyes,Ohio State Buckeyes,Ohio State
+220240194,2002-01-24,2,130,away,FALSE,Michigan,47,Wolverines,Michigan Wolverines,Michigan
+220242390,2002-01-24,2,2390,home,FALSE,Miami,76,Hurricanes,Miami Hurricanes,Miami
+220242390,2002-01-24,2,222,away,FALSE,Villanova,58,Wildcats,Villanova Wildcats,Villanova
+220240030,2002-01-24,3,30,home,FALSE,USC,91,Trojans,USC Trojans,USC
+220240030,2002-01-24,3,25,away,FALSE,California,92,Golden Bears,California Golden Bears,California

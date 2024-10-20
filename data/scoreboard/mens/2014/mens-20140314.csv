@@ -1,0 +1,89 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400546236,2014-03-14,2,258,home,TRUE,Virginia,64,Cavaliers,Virginia Cavaliers,Virginia
+400546236,2014-03-14,2,52,away,TRUE,Florida State,51,Seminoles,Florida State Seminoles,Florida St
+400546235,2014-03-14,2,130,home,TRUE,Michigan,64,Wolverines,Michigan Wolverines,Michigan
+400546235,2014-03-14,2,356,away,TRUE,Illinois,63,Fighting Illini,Illinois Fighting Illini,Illinois
+400546234,2014-03-14,2,139,home,TRUE,Saint Louis,68,Billikens,Saint Louis Billikens,Saint Louis
+400546234,2014-03-14,2,179,away,TRUE,St. Bonaventure,71,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+400546242,2014-03-14,2,57,home,TRUE,Florida,72,Gators,Florida Gators,Florida
+400546242,2014-03-14,2,142,away,TRUE,Missouri,49,Tigers,Missouri Tigers,Missouri
+400546247,2014-03-14,2,158,home,TRUE,Nebraska,67,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400546247,2014-03-14,2,194,away,TRUE,Ohio State,71,Buckeyes,Ohio State Buckeyes,Ohio State
+400546246,2014-03-14,2,2603,home,TRUE,Saint Joseph's,70,Hawks,Saint Joseph's Hawks,Saint Joseph's
+400546246,2014-03-14,2,2168,away,TRUE,Dayton,67,Flyers,Dayton Flyers,Dayton
+400546248,2014-03-14,2,153,home,TRUE,North Carolina,75,Tar Heels,North Carolina Tar Heels,North Carolina
+400546248,2014-03-14,2,221,away,TRUE,Pittsburgh,80,Panthers,Pittsburgh Panthers,Pitt
+400546299,2014-03-14,2,2633,home,TRUE,Tennessee,59,Volunteers,Tennessee Volunteers,Tennessee
+400546299,2014-03-14,2,2579,away,TRUE,South Carolina,44,Gamecocks,South Carolina Gamecocks,South Carolina
+400546241,2014-03-14,2,2640,home,TRUE,Texas Southern,73,Tigers,Texas Southern Tigers,Texas Southern
+400546241,2014-03-14,2,2011,away,TRUE,Alabama State,61,Hornets,Alabama State Hornets,Alabama St
+400546298,2014-03-14,2,202,home,TRUE,Tulsa,76,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+400546298,2014-03-14,2,2393,away,TRUE,Middle Tennessee,69,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+400546403,2014-03-14,2,2428,home,TRUE,North Carolina Central,68,Eagles,North Carolina Central Eagles,NC Central
+400546403,2014-03-14,2,2450,away,TRUE,Norfolk State,45,Spartans,Norfolk State Spartans,Norfolk St
+400546334,2014-03-14,2,2617,home,TRUE,Stephen F. Austin,85,Lumberjacks,Stephen F. Austin Lumberjacks,SF Austin
+400546334,2014-03-14,2,2466,away,TRUE,Northwestern State,78,Demons,Northwestern State Demons,N'Western St
+400546407,2014-03-14,2,155,home,TRUE,North Dakota,79,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
+400546407,2014-03-14,2,2502,away,TRUE,Portland State,63,Vikings,Portland State Vikings,Portland St
+400546399,2014-03-14,3,2711,home,TRUE,Western Michigan,64,Broncos,Western Michigan Broncos,W Michigan
+400546399,2014-03-14,3,2006,away,TRUE,Akron,60,Zips,Akron Zips,Akron
+400546397,2014-03-14,2,2670,home,TRUE,VCU,71,Rams,VCU Rams,VCU
+400546397,2014-03-14,2,257,away,TRUE,Richmond,53,Spiders,Richmond Spiders,Richmond
+400546394,2014-03-14,2,275,home,TRUE,Wisconsin,83,Badgers,Wisconsin Badgers,Wisconsin
+400546394,2014-03-14,2,135,away,TRUE,Minnesota,57,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400546474,2014-03-14,2,2348,home,TRUE,Louisiana Tech,88,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
+400546474,2014-03-14,2,2572,away,TRUE,Southern Miss,70,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
+400546398,2014-03-14,6,2032,home,TRUE,Arkansas State,116,Red Wolves,Arkansas State Red Wolves,Arkansas St
+400546398,2014-03-14,6,2031,away,TRUE,Little Rock,114,Trojans,Little Rock Trojans,Little Rock
+400546396,2014-03-14,2,183,home,TRUE,Syracuse,63,Orange,Syracuse Orange,Syracuse
+400546396,2014-03-14,2,152,away,TRUE,NC State,66,Wolfpack,NC State Wolfpack,NC State
+400546395,2014-03-14,2,96,home,TRUE,Kentucky,85,Wildcats,Kentucky Wildcats,Kentucky
+400546395,2014-03-14,2,99,away,TRUE,LSU,67,Tigers,LSU Tigers,LSU
+400546253,2014-03-14,2,97,home,TRUE,Louisville,94,Cardinals,Louisville Cardinals,Louisville
+400546253,2014-03-14,2,248,away,TRUE,Houston,65,Cougars,Houston Cougars,Houston
+400546252,2014-03-14,2,2305,home,TRUE,Kansas,83,Jayhawks,Kansas Jayhawks,Kansas
+400546252,2014-03-14,2,66,away,TRUE,Iowa State,94,Cyclones,Iowa State Cyclones,Iowa State
+400546249,2014-03-14,2,2507,home,TRUE,Providence,80,Friars,Providence Friars,Providence
+400546249,2014-03-14,2,2550,away,TRUE,Seton Hall,74,Pirates,Seton Hall Pirates,Seton Hall
+400546402,2014-03-14,2,357,home,TRUE,Texas A&M-Corpus Christi,63,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+400546402,2014-03-14,2,2534,away,TRUE,Sam Houston,69,Bearkats,Sam Houston Bearkats,Sam Houston
+400546354,2014-03-14,2,2415,home,TRUE,Morgan State,79,Bears,Morgan State Bears,Morgan St
+400546354,2014-03-14,2,2154,away,TRUE,Coppin State,64,Eagles,Coppin State Eagles,Coppin St
+400546410,2014-03-14,2,45,home,TRUE,George Washington,85,Revolutionaries,George Washington Revolutionaries,G Washington
+400546410,2014-03-14,2,113,away,TRUE,Massachusetts,77,Minutemen,Massachusetts Minutemen,UMass
+400546408,2014-03-14,3,2692,home,TRUE,Weber State,66,Wildcats,Weber State Wildcats,Weber St
+400546408,2014-03-14,3,2458,away,TRUE,Northern Colorado,63,Bears,Northern Colorado Bears,N Colorado
+400546406,2014-03-14,2,127,home,TRUE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
+400546406,2014-03-14,2,77,away,TRUE,Northwestern,51,Wildcats,Northwestern Wildcats,Northwestern
+400546306,2014-03-14,2,21,home,TRUE,San Diego State,59,Aztecs,San Diego State Aztecs,San Diego St
+400546306,2014-03-14,2,2439,away,TRUE,UNLV,51,Rebels,UNLV Rebels,UNLV
+400546305,2014-03-14,2,3084,home,TRUE,Utah Valley,69,Wolverines,Utah Valley Wolverines,Utah Valley
+400546305,2014-03-14,2,70,away,TRUE,Idaho,74,Vandals,Idaho Vandals,Idaho
+400546304,2014-03-14,2,12,home,TRUE,Arizona,63,Wildcats,Arizona Wildcats,Arizona
+400546304,2014-03-14,2,38,away,TRUE,Colorado,43,Buffaloes,Colorado Buffaloes,Colorado
+400546409,2014-03-14,2,2649,home,TRUE,Toledo,59,Rockets,Toledo Rockets,Toledo
+400546409,2014-03-14,2,2199,away,TRUE,Eastern Michigan,44,Eagles,Eastern Michigan Eagles,E Michigan
+400546413,2014-03-14,2,300,home,TRUE,UC Irvine,58,Anteaters,UC Irvine Anteaters,UC Irvine
+400546413,2014-03-14,2,13,away,TRUE,Cal Poly,61,Mustangs,Cal Poly Mustangs,Cal Poly
+400546405,2014-03-14,2,2010,home,TRUE,Alabama A&M,49,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+400546405,2014-03-14,2,2504,away,TRUE,Prairie View A&M,55,Panthers,Prairie View A&M Panthers,Prairie View
+400546435,2014-03-14,2,2132,home,TRUE,Cincinnati,56,Bearcats,Cincinnati Bearcats,Cincinnati
+400546435,2014-03-14,2,41,away,TRUE,UConn,58,Huskies,UConn Huskies,UConn
+400546438,2014-03-14,2,150,home,TRUE,Duke,63,Blue Devils,Duke Blue Devils,Duke
+400546438,2014-03-14,2,228,away,TRUE,Clemson,62,Tigers,Clemson Tigers,Clemson
+400546434,2014-03-14,2,61,home,TRUE,Georgia,75,Bulldogs,Georgia Bulldogs,Georgia
+400546434,2014-03-14,2,145,away,TRUE,Ole Miss,73,Rebels,Ole Miss Rebels,Ole Miss
+400546437,2014-03-14,2,156,home,TRUE,Creighton,86,Bluejays,Creighton Bluejays,Creighton
+400546437,2014-03-14,2,2752,away,TRUE,Xavier,78,Musketeers,Xavier Musketeers,Xavier
+400546412,2014-03-14,2,251,home,TRUE,Texas,69,Longhorns,Texas Longhorns,Texas
+400546412,2014-03-14,2,239,away,TRUE,Baylor,86,Bears,Baylor Bears,Baylor
+400546436,2014-03-14,2,309,home,TRUE,Louisiana,91,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+400546436,2014-03-14,2,250,away,TRUE,UT Arlington,85,Mavericks,UT Arlington Mavericks,UT Arlington
+400546556,2014-03-14,2,167,home,TRUE,New Mexico,70,Lobos,New Mexico Lobos,New Mexico
+400546556,2014-03-14,2,68,away,TRUE,Boise State,67,Broncos,Boise State Broncos,Boise St
+400546555,2014-03-14,2,166,home,TRUE,New Mexico State,69,Aggies,New Mexico State Aggies,New Mexico St
+400546555,2014-03-14,2,2934,away,TRUE,Cal State Bakersfield,63,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+400546554,2014-03-14,2,26,home,TRUE,UCLA,84,Bruins,UCLA Bruins,UCLA
+400546554,2014-03-14,2,24,away,TRUE,Stanford,59,Cardinal,Stanford Cardinal,Stanford
+400546557,2014-03-14,2,299,home,TRUE,Long Beach State,77,Beach,Long Beach State Beach,Long Beach St
+400546557,2014-03-14,2,2463,away,TRUE,Cal State Northridge,82,Matadors,Cal State Northridge Matadors,CSU Northridge

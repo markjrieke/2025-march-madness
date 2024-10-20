@@ -1,0 +1,31 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401253710,2021-01-02,2,2250,home,FALSE,Gonzaga,85,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401253710,2021-01-02,2,2539,away,FALSE,San Francisco,62,Dons,San Francisco Dons,San Francisco
+401253840,2021-01-02,2,66,home,FALSE,Iowa State,65,Cyclones,Iowa State Cyclones,Iowa State
+401253840,2021-01-02,2,239,away,FALSE,Baylor,76,Bears,Baylor Bears,Baylor
+401253841,2021-01-02,2,2305,home,FALSE,Kansas,59,Jayhawks,Kansas Jayhawks,Kansas
+401253841,2021-01-02,2,251,away,FALSE,Texas,84,Longhorns,Texas Longhorns,Texas
+401258722,2021-01-02,2,2633,home,FALSE,Tennessee,63,Volunteers,Tennessee Volunteers,Tennessee
+401258722,2021-01-02,2,333,away,FALSE,Alabama,71,Crimson Tide,Alabama Crimson Tide,Alabama
+401253843,2021-01-02,2,201,home,FALSE,Oklahoma,75,Sooners,Oklahoma Sooners,Oklahoma
+401253843,2021-01-02,2,277,away,FALSE,West Virginia,71,Mountaineers,West Virginia Mountaineers,West Virginia
+401263309,2021-01-02,2,164,home,FALSE,Rutgers,75,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401263309,2021-01-02,2,2294,away,FALSE,Iowa,77,Hawkeyes,Iowa Hawkeyes,Iowa
+401269594,2021-01-02,2,2507,home,FALSE,Providence,65,Friars,Providence Friars,Providence
+401269594,2021-01-02,2,156,away,FALSE,Creighton,67,Bluejays,Creighton Bluejays,Creighton
+401258723,2021-01-02,2,8,home,FALSE,Arkansas,68,Razorbacks,Arkansas Razorbacks,Arkansas
+401258723,2021-01-02,2,142,away,FALSE,Missouri,81,Tigers,Missouri Tigers,Missouri
+401253844,2021-01-02,3,2641,home,FALSE,Texas Tech,77,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401253844,2021-01-02,3,197,away,FALSE,Oklahoma State,82,Cowboys,Oklahoma State Cowboys,Oklahoma St
+401263307,2021-01-02,2,356,home,FALSE,Illinois,66,Fighting Illini,Illinois Fighting Illini,Illinois
+401263307,2021-01-02,2,2509,away,FALSE,Purdue,58,Boilermakers,Purdue Boilermakers,Purdue
+401263308,2021-01-02,2,158,home,FALSE,Nebraska,77,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401263308,2021-01-02,2,127,away,FALSE,Michigan State,84,Spartans,Michigan State Spartans,Michigan St
+401265358,2021-01-02,2,2483,home,FALSE,Oregon,73,Ducks,Oregon Ducks,Oregon
+401265358,2021-01-02,2,24,away,FALSE,Stanford,56,Cardinal,Stanford Cardinal,Stanford
+401269597,2021-01-02,0,2752,home,FALSE,Xavier,0,Musketeers,Xavier Musketeers,Xavier
+401269597,2021-01-02,0,222,away,FALSE,Villanova,0,Wildcats,Villanova Wildcats,Villanova
+401260192,2021-01-02,0,52,home,FALSE,Florida State,0,Seminoles,Florida State Seminoles,Florida St
+401260192,2021-01-02,0,150,away,FALSE,Duke,0,Blue Devils,Duke Blue Devils,Duke
+401260195,2021-01-02,0,258,home,FALSE,Virginia,0,Cavaliers,Virginia Cavaliers,Virginia
+401260195,2021-01-02,0,259,away,FALSE,Virginia Tech,0,Hokies,Virginia Tech Hokies,Virginia Tech

@@ -1,0 +1,11 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401264539,2020-12-03,2,2294,home,FALSE,Iowa,99,Hawkeyes,Iowa Hawkeyes,Iowa
+401264539,2020-12-03,2,2710,away,FALSE,Western Illinois,58,Leathernecks,Western Illinois Leathernecks,W Illinois
+401264484,2020-12-03,2,2305,home,FALSE,Kansas,89,Jayhawks,Kansas Jayhawks,Kansas
+401264484,2020-12-03,2,2687,away,FALSE,Washburn,54,Ichabods,Washburn Ichabods,Washburn
+401261744,2020-12-03,2,259,home,FALSE,Virginia Tech,64,Hokies,Virginia Tech Hokies,Virginia Tech
+401261744,2020-12-03,2,2678,away,FALSE,VMI,57,Keydets,VMI Keydets,VMI
+401257440,2020-12-03,2,25,home,FALSE,California,62,Golden Bears,California Golden Bears,California
+401257440,2020-12-03,2,9,away,FALSE,Arizona State,70,Sun Devils,Arizona State Sun Devils,Arizona St
+401255045,2020-12-03,0,222,home,FALSE,Villanova,0,Wildcats,Villanova Wildcats,Villanova
+401255045,2020-12-03,0,218,away,FALSE,Temple,0,Owls,Temple Owls,Temple

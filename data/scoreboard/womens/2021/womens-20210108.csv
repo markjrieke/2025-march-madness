@@ -1,0 +1,9 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401263215,2021-01-08,4,24,home,TRUE,Stanford,70,Cardinal,Stanford Cardinal,Stanford
+401263215,2021-01-08,4,2483,away,TRUE,Oregon,63,Ducks,Oregon Ducks,Oregon
+401263198,2021-01-08,0,264,home,FALSE,Washington,0,Huskies,Washington Huskies,Washington
+401263198,2021-01-08,0,12,away,FALSE,Arizona,0,Wildcats,Arizona Wildcats,Arizona
+401263161,2021-01-08,0,26,home,FALSE,UCLA,0,Bruins,UCLA Bruins,UCLA
+401263161,2021-01-08,0,38,away,FALSE,Colorado,0,Buffaloes,Colorado Buffaloes,Colorado
+401267072,2021-01-08,0,2623,home,FALSE,Missouri State,0,Lady Bears,Missouri State Lady Bears,Missouri St
+401267072,2021-01-08,0,2350,away,FALSE,Loyola Chicago,0,Ramblers,Loyola Chicago Ramblers,Loyola Chicago

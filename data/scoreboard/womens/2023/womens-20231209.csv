@@ -1,0 +1,7 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401582220,2023-12-09,4,2306,home,TRUE,Kansas State,84,Wildcats,Kansas State Wildcats,Kansas St
+401582220,2023-12-09,4,142,away,TRUE,Missouri,56,Tigers,Missouri Tigers,Missouri
+401601499,2023-12-09,4,164,home,FALSE,Rutgers,56,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401601499,2023-12-09,4,84,away,FALSE,Indiana,66,Hoosiers,Indiana Hoosiers,Indiana
+401575787,2023-12-09,4,242,home,FALSE,Rice,72,Owls,Rice Owls,Rice
+401575787,2023-12-09,4,2250,away,FALSE,Gonzaga,80,Bulldogs,Gonzaga Bulldogs,Gonzaga

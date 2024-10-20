@@ -1,0 +1,33 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401522122,2023-03-16,2,120,home,TRUE,Maryland,67,Terrapins,Maryland Terrapins,Maryland
+401522122,2023-03-16,2,277,away,TRUE,West Virginia,65,Mountaineers,West Virginia Mountaineers,West Virginia
+401522130,2023-03-16,2,258,home,TRUE,Virginia,67,Cavaliers,Virginia Cavaliers,Virginia
+401522130,2023-03-16,2,231,away,TRUE,Furman,68,Paladins,Furman Paladins,Furman
+401522135,2023-03-16,2,142,home,TRUE,Missouri,76,Tigers,Missouri Tigers,Missouri
+401522135,2023-03-16,2,328,away,TRUE,Utah State,65,Aggies,Utah State Aggies,Utah State
+401522125,2023-03-16,2,2305,home,TRUE,Kansas,96,Jayhawks,Kansas Jayhawks,Kansas
+401522125,2023-03-16,2,47,away,TRUE,Howard,68,Bison,Howard Bison,Howard
+401522123,2023-03-16,2,333,home,TRUE,Alabama,96,Crimson Tide,Alabama Crimson Tide,Alabama
+401522123,2023-03-16,2,357,away,TRUE,Texas A&M-Corpus Christi,75,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+401522131,2023-03-16,2,21,home,TRUE,San Diego State,63,Aztecs,San Diego State Aztecs,San Diego St
+401522131,2023-03-16,2,232,away,TRUE,Charleston,57,Cougars,Charleston Cougars,Charleston
+401522134,2023-03-16,2,12,home,TRUE,Arizona,55,Wildcats,Arizona Wildcats,Arizona
+401522134,2023-03-16,2,163,away,TRUE,Princeton,59,Tigers,Princeton Tigers,Princeton
+401522126,2023-03-16,2,8,home,TRUE,Arkansas,73,Razorbacks,Arkansas Razorbacks,Arkansas
+401522126,2023-03-16,2,356,away,TRUE,Illinois,63,Fighting Illini,Illinois Fighting Illini,Illinois
+401522120,2023-03-16,2,2294,home,TRUE,Iowa,75,Hawkeyes,Iowa Hawkeyes,Iowa
+401522120,2023-03-16,2,2,away,TRUE,Auburn,83,Tigers,Auburn Tigers,Auburn
+401522128,2023-03-16,2,150,home,TRUE,Duke,74,Blue Devils,Duke Blue Devils,Duke
+401522128,2023-03-16,2,198,away,TRUE,Oral Roberts,51,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+401522133,2023-03-16,2,77,home,TRUE,Northwestern,75,Wildcats,Northwestern Wildcats,Northwestern
+401522133,2023-03-16,2,68,away,TRUE,Boise State,67,Broncos,Boise State Broncos,Boise St
+401522124,2023-03-16,2,251,home,TRUE,Texas,81,Longhorns,Texas Longhorns,Texas
+401522124,2023-03-16,2,2142,away,TRUE,Colgate,61,Raiders,Colgate Raiders,Colgate
+401522121,2023-03-16,2,248,home,TRUE,Houston,63,Cougars,Houston Cougars,Houston
+401522121,2023-03-16,2,94,away,TRUE,Northern Kentucky,52,Norse,Northern Kentucky Norse,N Kentucky
+401522129,2023-03-16,2,2633,home,TRUE,Tennessee,58,Volunteers,Tennessee Volunteers,Tennessee
+401522129,2023-03-16,2,309,away,TRUE,Louisiana,55,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+401522132,2023-03-16,2,26,home,TRUE,UCLA,86,Bruins,UCLA Bruins,UCLA
+401522132,2023-03-16,2,2427,away,TRUE,UNC Asheville,53,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+401522127,2023-03-16,2,245,home,TRUE,Texas A&M,59,Aggies,Texas A&M Aggies,Texas A&M
+401522127,2023-03-16,2,213,away,TRUE,Penn State,76,Nittany Lions,Penn State Nittany Lions,Penn State

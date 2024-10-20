@@ -1,0 +1,9 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283620127,2008-12-27,2,2473,home,TRUE,Oakland,66,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+283620127,2008-12-27,2,127,away,TRUE,Michigan State,82,Spartans,Michigan State Spartans,Michigan St
+283620194,2008-12-27,2,194,home,FALSE,Ohio State,48,Buckeyes,Ohio State Buckeyes,Ohio State
+283620194,2008-12-27,2,277,away,FALSE,West Virginia,76,Mountaineers,West Virginia Mountaineers,West Virginia
+283620097,2008-12-27,2,97,home,FALSE,Louisville,82,Cardinals,Louisville Cardinals,Louisville
+283620097,2008-12-27,2,5,away,FALSE,UAB,62,Blazers,UAB Blazers,UAB
+283620142,2008-12-27,2,142,home,FALSE,Missouri,107,Tigers,Missouri Tigers,Missouri
+283620142,2008-12-27,2,2565,away,FALSE,SIU Edwardsville,57,Cougars,SIU Edwardsville Cougars,SIUE

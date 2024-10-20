@@ -1,0 +1,11 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401082680,2019-01-14,3,150,home,FALSE,Duke,91,Blue Devils,Duke Blue Devils,Duke
+401082680,2019-01-14,3,183,away,FALSE,Syracuse,95,Orange,Syracuse Orange,Syracuse
+401083502,2019-01-14,2,2305,home,FALSE,Kansas,80,Jayhawks,Kansas Jayhawks,Kansas
+401083502,2019-01-14,2,251,away,FALSE,Texas,78,Longhorns,Texas Longhorns,Texas
+401082706,2019-01-14,2,221,home,FALSE,Pittsburgh,75,Panthers,Pittsburgh Panthers,Pitt
+401082706,2019-01-14,2,52,away,FALSE,Florida State,62,Seminoles,Florida State Seminoles,Florida St
+401082434,2019-01-14,2,120,home,FALSE,Maryland,64,Terrapins,Maryland Terrapins,Maryland
+401082434,2019-01-14,2,275,away,FALSE,Wisconsin,60,Badgers,Wisconsin Badgers,Wisconsin
+401082377,2019-01-14,2,84,home,FALSE,Indiana,51,Hoosiers,Indiana Hoosiers,Indiana
+401082377,2019-01-14,2,158,away,FALSE,Nebraska,66,Cornhuskers,Nebraska Cornhuskers,Nebraska

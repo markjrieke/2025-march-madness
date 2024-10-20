@@ -1,0 +1,9 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401270544,2020-12-26,2,2250,home,TRUE,Gonzaga,98,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401270544,2020-12-26,2,258,away,TRUE,Virginia,75,Cavaliers,Virginia Cavaliers,Virginia
+401268673,2020-12-26,2,2116,home,FALSE,UCF,54,Knights,UCF Knights,UCF
+401268673,2020-12-26,2,248,away,FALSE,Houston,63,Cougars,Houston Cougars,Houston
+401263339,2020-12-26,2,356,home,FALSE,Illinois,69,Fighting Illini,Illinois Fighting Illini,Illinois
+401263339,2020-12-26,2,84,away,FALSE,Indiana,60,Hoosiers,Indiana Hoosiers,Indiana
+401263340,2020-12-26,2,77,home,FALSE,Northwestern,71,Wildcats,Northwestern Wildcats,Northwestern
+401263340,2020-12-26,2,194,away,FALSE,Ohio State,70,Buckeyes,Ohio State Buckeyes,Ohio State

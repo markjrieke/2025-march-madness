@@ -1,0 +1,9 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401026256,2018-03-23,4,239,home,TRUE,Baylor,67,Bears,Baylor Bears,Baylor
+401026256,2018-03-23,4,204,away,TRUE,Oregon State,72,Beavers,Oregon State Beavers,Oregon St
+401026209,2018-03-23,4,344,home,TRUE,Mississippi State,71,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401026209,2018-03-23,4,152,away,TRUE,NC State,57,Wolfpack,NC State Wolfpack,NC State
+401026208,2018-03-23,4,251,home,TRUE,Texas,75,Longhorns,Texas Longhorns,Texas
+401026208,2018-03-23,4,26,away,TRUE,UCLA,84,Bruins,UCLA Bruins,UCLA
+401026255,2018-03-23,4,97,home,TRUE,Louisville,86,Cardinals,Louisville Cardinals,Louisville
+401026255,2018-03-23,4,24,away,TRUE,Stanford,59,Cardinal,Stanford Cardinal,Stanford

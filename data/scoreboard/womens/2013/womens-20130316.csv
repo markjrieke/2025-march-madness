@@ -1,0 +1,35 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330752400,2013-03-16,6,2400,home,TRUE,Mississippi Valley State,87,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
+330752400,2013-03-16,6,2504,away,TRUE,Prairie View A&M,100,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
+330752261,2013-03-16,2,2261,home,TRUE,Hampton,59,Lady Pirates,Hampton Lady Pirates,Hampton
+330752261,2013-03-16,2,47,away,TRUE,Howard,38,Bison,Howard Bison,Howard
+330752006,2013-03-16,2,2006,home,TRUE,Akron,68,Zips,Akron Zips,Akron
+330752006,2013-03-16,2,2117,away,TRUE,Central Michigan,86,Chippewas,Central Michigan Chippewas,C Michigan
+330750198,2013-03-16,2,198,home,TRUE,Oral Roberts,72,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+330750198,2013-03-16,2,2534,away,TRUE,Sam Houston,66,Bearkats,Sam Houston Bearkats,Sam Houston
+330750048,2013-03-16,2,48,home,TRUE,Delaware,75,Blue Hens,Delaware Blue Hens,Delaware
+330750048,2013-03-16,2,2275,away,TRUE,Hofstra,54,Pride,Hofstra Pride,Hofstra
+330752724,2013-03-16,3,2724,home,TRUE,Wichita State,75,Shockers,Wichita State Shockers,Wichita St
+330752724,2013-03-16,3,2460,away,TRUE,Northern Iowa,71,Panthers,Northern Iowa Panthers,Northern Iowa
+330752547,2013-03-16,2,2547,home,TRUE,Seattle U,64,Redhawks,Seattle U Redhawks,Seattle U
+330752547,2013-03-16,2,70,away,TRUE,Idaho,67,Vandals,Idaho Vandals,Idaho
+330750279,2013-03-16,2,279,home,TRUE,Pacific,49,Tigers,Pacific Tigers,Pacific
+330750279,2013-03-16,2,13,away,TRUE,Cal Poly,63,Mustangs,Cal Poly Mustangs,Cal Poly
+330750149,2013-03-16,2,149,home,FALSE,Montana,56,Lady Griz,Montana Lady Griz,Montana
+330750149,2013-03-16,2,2458,away,FALSE,Northern Colorado,43,Bears,Northern Colorado Bears,N Colorado
+330750256,2013-03-16,2,256,home,TRUE,James Madison,34,Dukes,James Madison Dukes,James Madison
+330750256,2013-03-16,2,2182,away,TRUE,Drexel,50,Dragons,Drexel Dragons,Drexel
+330753084,2013-03-16,2,3084,home,TRUE,Utah Valley,42,Wolverines,Utah Valley Wolverines,Utah Valley
+330753084,2013-03-16,2,2885,away,TRUE,NJIT,52,Highlanders,NJIT Highlanders,NJIT
+330750156,2013-03-16,3,156,home,TRUE,Creighton,61,Bluejays,Creighton Bluejays,Creighton
+330750156,2013-03-16,3,2287,away,TRUE,Illinois State,64,Redbirds,Illinois State Redbirds,Illinois St
+330752426,2013-03-16,0,2426,home,FALSE,Navy,0,Midshipmen,Navy Midshipmen,Navy
+330752426,2013-03-16,0,107,away,FALSE,Holy Cross,0,Crusaders,Holy Cross Crusaders,Holy Cross
+330752230,2013-03-16,2,2230,home,TRUE,Fordham,46,Rams,Fordham Rams,Fordham
+330752230,2013-03-16,2,2603,away,TRUE,Saint Joseph's,47,Hawks,Saint Joseph's Hawks,Saint Joseph's
+330750399,2013-03-16,2,399,home,FALSE,UAlbany,61,Great Danes,UAlbany Great Danes,UAlbany
+330750399,2013-03-16,2,42,away,FALSE,Hartford,52,Hawks,Hartford Hawks,Hartford
+330750202,2013-03-16,0,202,home,TRUE,Tulsa,0,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+330750202,2013-03-16,0,2116,away,TRUE,UCF,0,Knights,UCF Knights,UCF
+330750021,2013-03-16,2,21,home,TRUE,San Diego State,70,Aztecs,San Diego State Aztecs,San Diego St
+330750021,2013-03-16,2,278,away,TRUE,Fresno State,76,Bulldogs,Fresno State Bulldogs,Fresno St

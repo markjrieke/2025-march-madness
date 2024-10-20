@@ -1,0 +1,63 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320682010,2012-03-08,3,2010,home,TRUE,Alabama A&M,68,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+320682010,2012-03-08,3,2755,away,TRUE,Grambling,73,Lady Tigers,Grambling Lady Tigers,Grambling
+320682655,2012-03-08,2,2655,home,TRUE,Tulane,67,Green Wave,Tulane Green Wave,Tulane
+320682655,2012-03-08,2,151,away,TRUE,East Carolina,51,Pirates,East Carolina Pirates,East Carolina
+320680295,2012-03-08,2,295,home,TRUE,Old Dominion,72,Monarchs,Old Dominion Monarchs,Old Dominion
+320680295,2012-03-08,2,119,away,TRUE,Towson,58,Tigers,Towson Tigers,Towson
+320680193,2012-03-08,2,193,home,TRUE,Miami (OH),64,RedHawks,Miami (OH) RedHawks,Miami OH
+320680193,2012-03-08,2,2117,away,TRUE,Central Michigan,78,Chippewas,Central Michigan Chippewas,C Michigan
+320680066,2012-03-08,2,66,home,TRUE,Iowa State,63,Cyclones,Iowa State Cyclones,Iowa State
+320680066,2012-03-08,2,2306,away,TRUE,Kansas State,67,Wildcats,Kansas State Wildcats,Kansas St
+320680050,2012-03-08,2,50,home,TRUE,Florida A&M,50,Rattlers,Florida A&M Rattlers,Florida A&M
+320680050,2012-03-08,2,2379,away,TRUE,Maryland Eastern Shore,48,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+320682377,2012-03-08,2,2377,home,TRUE,McNeese,76,Cowgirls,McNeese Cowgirls,McNeese
+320682377,2012-03-08,2,326,away,TRUE,Texas State,46,Bobcats,Texas State Bobcats,Texas St
+320682649,2012-03-08,2,2649,home,TRUE,Toledo,72,Rockets,Toledo Rockets,Toledo
+320682649,2012-03-08,2,2459,away,TRUE,Northern Illinois,62,Huskies,Northern Illinois Huskies,N Illinois
+320682154,2012-03-08,2,2154,home,TRUE,Coppin State,78,Eagles,Coppin State Eagles,Coppin St
+320682154,2012-03-08,2,2448,away,TRUE,North Carolina A&T,74,Aggies,North Carolina A&T Aggies,NC A&T
+320680350,2012-03-08,2,350,home,TRUE,UNC Wilmington,66,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+320680350,2012-03-08,2,2247,away,TRUE,Georgia State,59,Panthers,Georgia State Panthers,Georgia St
+320680239,2012-03-08,2,239,home,TRUE,Baylor,72,Bears,Baylor Bears,Baylor
+320680239,2012-03-08,2,2641,away,TRUE,Texas Tech,48,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+320680235,2012-03-08,2,235,home,FALSE,Memphis,77,Tigers,Memphis Tigers,Memphis
+320680235,2012-03-08,2,2567,away,FALSE,SMU,67,Mustangs,SMU Mustangs,SMU
+320680024,2012-03-08,2,24,home,TRUE,Stanford,76,Cardinal,Stanford Cardinal,Stanford
+320680024,2012-03-08,2,264,away,TRUE,Washington,57,Huskies,Washington Huskies,Washington
+320682617,2012-03-08,2,2617,home,TRUE,Stephen F. Austin,66,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
+320682617,2012-03-08,2,2447,away,TRUE,Nicholls,57,Colonels,Nicholls Colonels,Nicholls
+320682244,2012-03-08,2,2244,home,TRUE,George Mason,70,Patriots,George Mason Patriots,George Mason
+320682244,2012-03-08,2,111,away,TRUE,Northeastern,60,Huskies,Northeastern Huskies,Northeastern
+320680071,2012-03-08,2,71,home,TRUE,Bradley,85,Braves,Bradley Braves,Bradley
+320680071,2012-03-08,2,79,away,TRUE,Southern Illinois,67,Salukis,Southern Illinois Salukis,S Illinois
+320680009,2012-03-08,2,9,home,TRUE,Arizona State,68,Sun Devils,Arizona State Sun Devils,Arizona St
+320680009,2012-03-08,2,12,away,TRUE,Arizona,53,Wildcats,Arizona Wildcats,Arizona
+320682885,2012-03-08,0,2885,home,TRUE,NJIT,0,Highlanders,NJIT Highlanders,NJIT
+320682885,2012-03-08,0,2277,away,TRUE,Houston Christian,0,Huskies,Houston Christian Huskies,Hou Christian
+320682638,2012-03-08,2,2638,home,TRUE,UTEP,92,Miners,UTEP Miners,UTEP
+320682638,2012-03-08,2,2572,away,TRUE,Southern Miss,79,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+320680201,2012-03-08,2,201,home,TRUE,Oklahoma,70,Sooners,Oklahoma Sooners,Oklahoma
+320680201,2012-03-08,2,142,away,TRUE,Missouri,59,Tigers,Missouri Tigers,Missouri
+320682011,2012-03-08,2,2011,home,TRUE,Alabama State,35,Lady Hornets,Alabama State Lady Hornets,Alabama St
+320682011,2012-03-08,2,2504,away,TRUE,Prairie View A&M,62,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
+320680331,2012-03-08,2,331,home,TRUE,Eastern Washington,61,Eagles,Eastern Washington Eagles,E Washington
+320680331,2012-03-08,2,16,away,TRUE,Sacramento State,71,Hornets,Sacramento State Hornets,Sacramento St
+320682670,2012-03-08,2,2670,home,TRUE,VCU,78,Rams,VCU Rams,VCU
+320682670,2012-03-08,2,2729,away,TRUE,William & Mary,69,Tribe,William & Mary Tribe,William & Mary
+320682565,2012-03-08,2,2565,home,FALSE,SIU Edwardsville,37,Cougars,SIU Edwardsville Cougars,SIUE
+320682565,2012-03-08,2,8,away,FALSE,Arkansas,75,Razorbacks,Arkansas Razorbacks,Arkansas
+320680025,2012-03-08,2,25,home,TRUE,California,68,Golden Bears,California Golden Bears,California
+320680025,2012-03-08,2,38,away,TRUE,Colorado,59,Buffaloes,Colorado Buffaloes,Colorado
+320682181,2012-03-08,2,2181,home,TRUE,Drake,52,Bulldogs,Drake Bulldogs,Drake
+320682181,2012-03-08,2,339,away,TRUE,Evansville,48,Purple Aces,Evansville Purple Aces,Evansville
+320680292,2012-03-08,0,292,home,TRUE,UT Rio Grande Valley,0,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+320680292,2012-03-08,0,2130,away,TRUE,Chicago State,0,Cougars,Chicago State Cougars,Chicago St
+320680245,2012-03-08,2,245,home,TRUE,Texas A&M,78,Aggies,Texas A&M Aggies,Texas A&M
+320680245,2012-03-08,2,2305,away,TRUE,Kansas,63,Jayhawks,Kansas Jayhawks,Kansas
+320680005,2012-03-08,2,5,home,TRUE,UAB,72,Blazers,UAB Blazers,UAB
+320680005,2012-03-08,2,242,away,TRUE,Rice,46,Owls,Rice Owls,Rice
+320680147,2012-03-08,2,147,home,TRUE,Montana State,68,Bobcats,Montana State Bobcats,Montana St
+320680147,2012-03-08,2,149,away,TRUE,Montana,59,Lady Griz,Montana Lady Griz,Montana
+320680030,2012-03-08,2,30,home,FALSE,USC,55,Trojans,USC Trojans,USC
+320680030,2012-03-08,2,265,away,FALSE,Washington State,69,Cougars,Washington State Cougars,Washington St

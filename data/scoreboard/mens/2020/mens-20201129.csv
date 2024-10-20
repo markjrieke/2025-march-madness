@@ -1,0 +1,11 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401265778,2020-11-29,2,239,home,TRUE,Baylor,86,Bears,Baylor Bears,Baylor
+401265778,2020-11-29,2,264,away,TRUE,Washington,52,Huskies,Washington Huskies,Washington
+401261448,2020-11-29,2,9,home,FALSE,Arizona State,100,Sun Devils,Arizona State Sun Devils,Arizona St
+401261448,2020-11-29,2,2277,away,FALSE,Houston Christian,77,Huskies,Houston Christian Huskies,Hou Christian
+401265151,2020-11-29,2,164,home,FALSE,Rutgers,70,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401265151,2020-11-29,2,2275,away,FALSE,Hofstra,56,Pride,Hofstra Pride,Hofstra
+401262491,2020-11-29,3,130,home,FALSE,Michigan,81,Wolverines,Michigan Wolverines,Michigan
+401262491,2020-11-29,3,2473,away,FALSE,Oakland,71,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+401263458,2020-11-29,2,194,home,FALSE,Ohio State,74,Buckeyes,Ohio State Buckeyes,Ohio State
+401263458,2020-11-29,2,2349,away,FALSE,UMass Lowell,64,River Hawks,UMass Lowell River Hawks,UMass Lowell

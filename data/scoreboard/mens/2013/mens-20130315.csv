@@ -1,0 +1,85 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330742390,2013-03-15,2,2390,home,TRUE,Miami,69,Hurricanes,Miami Hurricanes,Miami
+330742390,2013-03-15,2,103,away,TRUE,Boston College,58,Eagles,Boston College Eagles,Boston College
+330740139,2013-03-15,2,139,home,TRUE,Saint Louis,72,Billikens,Saint Louis Billikens,Saint Louis
+330740139,2013-03-15,2,2429,away,TRUE,Charlotte,55,49ers,Charlotte 49ers,Charlotte
+330740084,2013-03-15,2,84,home,TRUE,Indiana,80,Hoosiers,Indiana Hoosiers,Indiana
+330740084,2013-03-15,2,356,away,TRUE,Illinois,64,Fighting Illini,Illinois Fighting Illini,Illinois
+330740057,2013-03-15,2,57,home,TRUE,Florida,80,Gators,Florida Gators,Florida
+330740057,2013-03-15,2,99,away,TRUE,LSU,58,Tigers,LSU Tigers,LSU
+330740275,2013-03-15,2,275,home,TRUE,Wisconsin,68,Badgers,Wisconsin Badgers,Wisconsin
+330740275,2013-03-15,2,130,away,TRUE,Michigan,59,Wolverines,Michigan Wolverines,Michigan
+330742325,2013-03-15,2,2325,home,TRUE,La Salle,58,Explorers,La Salle Explorers,La Salle
+330742325,2013-03-15,2,2086,away,TRUE,Butler,69,Bulldogs,Butler Bulldogs,Butler
+330740258,2013-03-15,2,258,home,TRUE,Virginia,56,Cavaliers,Virginia Cavaliers,Virginia
+330740258,2013-03-15,2,152,away,TRUE,NC State,75,Wolfpack,NC State Wolfpack,NC State
+330742296,2013-03-15,2,2296,home,TRUE,Jackson State,75,Tigers,Jackson State Tigers,Jackson St
+330742296,2013-03-15,2,2504,away,TRUE,Prairie View A&M,88,Panthers,Prairie View A&M Panthers,Prairie View
+330740333,2013-03-15,2,333,home,TRUE,Alabama,58,Crimson Tide,Alabama Crimson Tide,Alabama
+330740333,2013-03-15,2,2633,away,TRUE,Tennessee,48,Volunteers,Tennessee Volunteers,Tennessee
+330742572,2013-03-15,2,2572,home,TRUE,Southern Miss,85,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
+330742572,2013-03-15,2,2638,away,TRUE,UTEP,67,Miners,UTEP Miners,UTEP
+330742885,2013-03-15,2,2885,home,TRUE,NJIT,61,Highlanders,NJIT Highlanders,NJIT
+330742885,2013-03-15,2,2277,away,TRUE,Houston Christian,62,Huskies,Houston Christian Huskies,Hou Christian
+330742617,2013-03-15,2,2617,home,TRUE,Stephen F. Austin,68,Lumberjacks,Stephen F. Austin Lumberjacks,SF Austin
+330742617,2013-03-15,2,2545,away,TRUE,SE Louisiana,57,Lions,SE Louisiana Lions,SE Louisiana
+330742415,2013-03-15,2,2415,home,TRUE,Morgan State,82,Bears,Morgan State Bears,Morgan St
+330742415,2013-03-15,2,2065,away,TRUE,Bethune-Cookman,71,Wildcats,Bethune-Cookman Wildcats,Bethune
+330742670,2013-03-15,2,2670,home,TRUE,VCU,82,Rams,VCU Rams,VCU
+330742670,2013-03-15,2,2603,away,TRUE,Saint Joseph's,79,Hawks,Saint Joseph's Hawks,Saint Joseph's
+330742006,2013-03-15,2,2006,home,TRUE,Akron,62,Zips,Akron Zips,Akron
+330742006,2013-03-15,2,2309,away,TRUE,Kent State,59,Golden Flashes,Kent State Golden Flashes,Kent State
+330740194,2013-03-15,2,194,home,TRUE,Ohio State,71,Buckeyes,Ohio State Buckeyes,Ohio State
+330740194,2013-03-15,2,158,away,TRUE,Nebraska,50,Cornhuskers,Nebraska Cornhuskers,Nebraska
+330740235,2013-03-15,2,235,home,TRUE,Memphis,85,Tigers,Memphis Tigers,Memphis
+330740235,2013-03-15,2,202,away,TRUE,Tulsa,74,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+330740150,2013-03-15,2,150,home,TRUE,Duke,74,Blue Devils,Duke Blue Devils,Duke
+330740150,2013-03-15,2,120,away,TRUE,Maryland,83,Terrapins,Maryland Terrapins,Maryland
+330740046,2013-03-15,3,46,home,TRUE,Georgetown,55,Hoyas,Georgetown Hoyas,Georgetown
+330740046,2013-03-15,3,183,away,TRUE,Syracuse,58,Orange,Syracuse Orange,Syracuse
+330742692,2013-03-15,2,2692,home,TRUE,Weber State,76,Wildcats,Weber State Wildcats,Weber St
+330742692,2013-03-15,2,155,away,TRUE,North Dakota,74,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
+330742305,2013-03-15,2,2305,home,TRUE,Kansas,88,Jayhawks,Kansas Jayhawks,Kansas
+330742305,2013-03-15,2,66,away,TRUE,Iowa State,73,Cyclones,Iowa State Cyclones,Iowa State
+330740096,2013-03-15,2,96,home,TRUE,Kentucky,48,Wildcats,Kentucky Wildcats,Kentucky
+330740096,2013-03-15,2,238,away,TRUE,Vanderbilt,64,Commodores,Vanderbilt Commodores,Vanderbilt
+330742466,2013-03-15,2,2466,home,TRUE,Northwestern State,55,Demons,Northwestern State Demons,N'Western St
+330742466,2013-03-15,2,2534,away,TRUE,Sam Houston,52,Bearkats,Sam Houston Bearkats,Sam Houston
+330742169,2013-03-15,2,2169,home,TRUE,Delaware State,78,Hornets,Delaware State Hornets,Delaware St
+330742169,2013-03-15,2,2448,away,TRUE,North Carolina A&T,84,Aggies,North Carolina A&T Aggies,NC A&T
+330742130,2013-03-15,2,2130,home,TRUE,Chicago State,63,Cougars,Chicago State Cougars,Chicago St
+330742130,2013-03-15,2,292,away,TRUE,UT Rio Grande Valley,55,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+330742582,2013-03-15,2,2582,home,TRUE,Southern,72,Jaguars,Southern Jaguars,Southern
+330742582,2013-03-15,2,2010,away,TRUE,Alabama A&M,59,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+330740195,2013-03-15,2,195,home,TRUE,Ohio,74,Bobcats,Ohio Bobcats,Ohio
+330740195,2013-03-15,2,2711,away,TRUE,Western Michigan,63,Broncos,Western Michigan Broncos,W Michigan
+330740167,2013-03-15,2,167,home,TRUE,New Mexico,60,Lobos,New Mexico Lobos,New Mexico
+330740167,2013-03-15,2,21,away,TRUE,San Diego State,50,Aztecs,San Diego State Aztecs,San Diego St
+330740166,2013-03-15,2,166,home,TRUE,New Mexico State,74,Aggies,New Mexico State Aggies,New Mexico St
+330740166,2013-03-15,2,326,away,TRUE,Texas State,65,Bobcats,Texas State Bobcats,Texas St
+330740127,2013-03-15,2,127,home,TRUE,Michigan State,59,Spartans,Michigan State Spartans,Michigan St
+330740127,2013-03-15,2,2294,away,TRUE,Iowa,56,Hawkeyes,Iowa Hawkeyes,Iowa
+330740026,2013-03-15,2,26,home,TRUE,UCLA,66,Bruins,UCLA Bruins,UCLA
+330740026,2013-03-15,2,12,away,TRUE,Arizona,64,Wildcats,Arizona Wildcats,Arizona
+330740218,2013-03-15,2,218,home,TRUE,Temple,74,Owls,Temple Owls,Temple
+330740218,2013-03-15,2,113,away,TRUE,Massachusetts,79,Minutemen,Massachusetts Minutemen,UMass
+330740299,2013-03-15,2,299,home,TRUE,Long Beach State,60,Beach,Long Beach State Beach,Long Beach St
+330740299,2013-03-15,2,300,away,TRUE,UC Irvine,67,Anteaters,UC Irvine Anteaters,UC Irvine
+330740153,2013-03-15,2,153,home,TRUE,North Carolina,83,Tar Heels,North Carolina Tar Heels,North Carolina
+330740153,2013-03-15,2,52,away,TRUE,Florida State,62,Seminoles,Florida State Seminoles,Florida St
+330740097,2013-03-15,2,97,home,TRUE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
+330740097,2013-03-15,2,87,away,TRUE,Notre Dame,57,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+330742306,2013-03-15,2,2306,home,TRUE,Kansas State,68,Wildcats,Kansas State Wildcats,Kansas St
+330742306,2013-03-15,2,197,away,TRUE,Oklahoma State,57,Cowboys,Oklahoma State Cowboys,Oklahoma St
+330740149,2013-03-15,2,149,home,TRUE,Montana,70,Grizzlies,Montana Grizzlies,Montana
+330740149,2013-03-15,2,2458,away,TRUE,Northern Colorado,56,Bears,Northern Colorado Bears,N Colorado
+330740145,2013-03-15,2,145,home,TRUE,Ole Miss,64,Rebels,Ole Miss Rebels,Ole Miss
+330740145,2013-03-15,2,142,away,TRUE,Missouri,62,Tigers,Missouri Tigers,Missouri
+330740250,2013-03-15,2,250,home,TRUE,UT Arlington,69,Mavericks,UT Arlington Mavericks,UT Arlington
+330740250,2013-03-15,2,2636,away,TRUE,UTSA,53,Roadrunners,UTSA Roadrunners,UTSA
+330740036,2013-03-15,2,36,home,TRUE,Colorado State,65,Rams,Colorado State Rams,Colorado St
+330740036,2013-03-15,2,2439,away,TRUE,UNLV,75,Rebels,UNLV Rebels,UNLV
+330742483,2013-03-15,2,2483,home,TRUE,Oregon,64,Ducks,Oregon Ducks,Oregon
+330742483,2013-03-15,2,254,away,TRUE,Utah,45,Utes,Utah Utes,Utah
+330740279,2013-03-15,2,279,home,TRUE,Pacific,55,Tigers,Pacific Tigers,Pacific
+330740279,2013-03-15,2,13,away,TRUE,Cal Poly,53,Mustangs,Cal Poly Mustangs,Cal Poly

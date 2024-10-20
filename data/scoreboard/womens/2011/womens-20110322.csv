@@ -1,0 +1,17 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310812390,2011-03-22,2,2390,home,TRUE,Miami,83,Hurricanes,Miami Hurricanes,Miami
+310812390,2011-03-22,2,201,away,TRUE,Oklahoma,88,Sooners,Oklahoma Sooners,Oklahoma
+310810041,2011-03-22,2,41,home,FALSE,UConn,64,Huskies,UConn Huskies,UConn
+310810041,2011-03-22,2,2509,away,FALSE,Purdue,40,Boilermakers,Purdue Boilermakers,Purdue
+310812752,2011-03-22,2,2752,home,FALSE,Xavier,75,Musketeers,Xavier Musketeers,Xavier
+310812752,2011-03-22,2,97,away,FALSE,Louisville,85,Cardinals,Louisville Cardinals,Louisville
+310810120,2011-03-22,2,120,home,FALSE,Maryland,57,Terrapins,Maryland Terrapins,Maryland
+310810120,2011-03-22,2,46,away,FALSE,Georgetown,79,Hoyas,Georgetown Hoyas,Georgetown
+310810052,2011-03-22,2,52,home,TRUE,Florida State,59,Seminoles,Florida State Seminoles,Florida St
+310810052,2011-03-22,2,61,away,TRUE,Georgia,61,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+310810245,2011-03-22,2,245,home,TRUE,Texas A&M,70,Aggies,Texas A&M Aggies,Texas A&M
+310810245,2011-03-22,2,164,away,TRUE,Rutgers,48,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+310810127,2011-03-22,2,127,home,TRUE,Michigan State,56,Spartans,Michigan State Spartans,Michigan St
+310810127,2011-03-22,2,2739,away,TRUE,Green Bay,65,Phoenix,Green Bay Phoenix,Green Bay
+310810239,2011-03-22,2,239,home,FALSE,Baylor,82,Bears,Baylor Bears,Baylor
+310810239,2011-03-22,2,277,away,FALSE,West Virginia,68,Mountaineers,West Virginia Mountaineers,West Virginia

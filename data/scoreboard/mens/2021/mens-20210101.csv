@@ -1,0 +1,71 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401261861,2021-01-01,2,2099,home,FALSE,Canisius,70,Golden Griffins,Canisius Golden Griffins,Canisius
+401261861,2021-01-01,2,2612,away,FALSE,Saint Peter's,58,Peacocks,Saint Peter's Peacocks,Saint Peter's
+401261893,2021-01-01,2,2368,home,FALSE,Marist,63,Red Foxes,Marist Red Foxes,Marist
+401261893,2021-01-01,2,315,away,FALSE,Niagara,61,Purple Eagles,Niagara Purple Eagles,Niagara
+401261488,2021-01-01,2,2916,home,FALSE,Incarnate Word,81,Cardinals,Incarnate Word Cardinals,Incarnate Word
+401261488,2021-01-01,2,241,away,FALSE,McMurry,54,War Hawks,McMurry War Hawks,McMurry
+401257512,2021-01-01,2,288,home,FALSE,Lipscomb,77,Bisons,Lipscomb Bisons,Lipscomb
+401257512,2021-01-01,2,2335,away,FALSE,Liberty,70,Flames,Liberty Flames,Liberty
+401253996,2021-01-01,2,242,home,FALSE,Rice,95,Owls,Rice Owls,Rice
+401253996,2021-01-01,2,2636,away,FALSE,UTSA,86,Roadrunners,UTSA Roadrunners,UTSA
+401274395,2021-01-01,2,147,home,FALSE,Montana State,96,Bobcats,Montana State Bobcats,Montana St
+401274395,2021-01-01,2,2701,away,FALSE,Montana-Western,67,Bulldogs,Montana-Western Bulldogs,W Montana
+401258543,2021-01-01,2,2754,home,FALSE,Youngstown State,84,Penguins,Youngstown State Penguins,Youngstown St
+401258543,2021-01-01,2,2739,away,FALSE,Green Bay,77,Phoenix,Green Bay Phoenix,Green Bay
+401261862,2021-01-01,2,2217,home,FALSE,Fairfield,62,Stags,Fairfield Stags,Fairfield
+401261862,2021-01-01,2,2520,away,FALSE,Rider,70,Broncs,Rider Broncs,Rider
+401257085,2021-01-01,2,2031,home,FALSE,Little Rock,102,Trojans,Little Rock Trojans,Little Rock
+401257085,2021-01-01,2,250,away,FALSE,UT Arlington,93,Mavericks,UT Arlington Mavericks,UT Arlington
+401258547,2021-01-01,2,2523,home,FALSE,Robert Morris,67,Colonials,Robert Morris Colonials,Robert Morris
+401258547,2021-01-01,2,270,away,FALSE,Milwaukee,64,Panthers,Milwaukee Panthers,Milwaukee
+401258529,2021-01-01,2,94,home,FALSE,Northern Kentucky,75,Norse,Northern Kentucky Norse,N Kentucky
+401258529,2021-01-01,2,2870,away,FALSE,Purdue Fort Wayne,68,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+401257526,2021-01-01,2,338,home,FALSE,Kennesaw State,57,Owls,Kennesaw State Owls,Kennesaw St
+401257526,2021-01-01,2,294,away,FALSE,Jacksonville,62,Dolphins,Jacksonville Dolphins,Jacksonville
+401257083,2021-01-01,2,324,home,FALSE,Coastal Carolina,81,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+401257083,2021-01-01,2,2247,away,FALSE,Georgia State,69,Panthers,Georgia State Panthers,Georgia St
+401257082,2021-01-01,2,290,home,FALSE,Georgia Southern,59,Eagles,Georgia Southern Eagles,GA Southern
+401257082,2021-01-01,2,6,away,FALSE,South Alabama,88,Jaguars,South Alabama Jaguars,South Alabama
+401257081,2021-01-01,2,2026,home,FALSE,App State,56,Mountaineers,App State Mountaineers,App State
+401257081,2021-01-01,2,2653,away,FALSE,Troy,69,Trojans,Troy Trojans,Troy
+401274414,2021-01-01,2,2006,home,FALSE,Akron,66,Zips,Akron Zips,Akron
+401274414,2021-01-01,2,2309,away,FALSE,Kent State,62,Golden Flashes,Kent State Golden Flashes,Kent State
+401264128,2021-01-01,2,91,home,FALSE,Bellarmine,90,Knights,Bellarmine Knights,Bellarmine
+401264128,2021-01-01,2,2975,away,FALSE,Transylvania,40,Pioneers,Transylvania Pioneers,Transylvan
+401258485,2021-01-01,2,2473,home,FALSE,Oakland,51,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+401258485,2021-01-01,2,2750,away,FALSE,Wright State,90,Raiders,Wright State Raiders,Wright St
+401258426,2021-01-01,2,85,home,FALSE,IU Indianapolis,62,Jaguars,IU Indianapolis Jaguars,IU Indy
+401258426,2021-01-01,2,325,away,FALSE,Cleveland State,65,Vikings,Cleveland State Vikings,Cleveland St
+401257086,2021-01-01,3,309,home,FALSE,Louisiana,83,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+401257086,2021-01-01,3,326,away,FALSE,Texas State,77,Bobcats,Texas State Bobcats,Texas St
+401257084,2021-01-01,2,2433,home,FALSE,UL Monroe,84,Warhawks,UL Monroe Warhawks,UL Monroe
+401257084,2021-01-01,2,2032,away,FALSE,Arkansas State,72,Red Wolves,Arkansas State Red Wolves,Arkansas St
+401254221,2021-01-01,2,2229,home,FALSE,Florida International,82,Panthers,Florida International Panthers,FIU
+401254221,2021-01-01,2,295,away,FALSE,Old Dominion,67,Monarchs,Old Dominion Monarchs,Old Dominion
+401252694,2021-01-01,3,299,home,FALSE,Long Beach State,90,Beach,Long Beach State Beach,Long Beach St
+401252694,2021-01-01,3,2934,away,FALSE,Cal State Bakersfield,89,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+401254678,2021-01-01,2,2348,home,FALSE,Louisiana Tech,75,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
+401254678,2021-01-01,2,276,away,FALSE,Marshall,68,Thundering Herd,Marshall Thundering Herd,Marshall
+401254686,2021-01-01,3,2572,home,FALSE,Southern Miss,74,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
+401254686,2021-01-01,3,2638,away,FALSE,UTEP,66,Miners,UTEP Miners,UTEP
+401252695,2021-01-01,2,2540,home,FALSE,UC Santa Barbara,81,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+401252695,2021-01-01,2,2239,away,FALSE,Cal State Fullerton,63,Titans,Cal State Fullerton Titans,Fullerton
+401254582,2021-01-01,2,2429,home,FALSE,Charlotte,63,49ers,Charlotte 49ers,Charlotte
+401254582,2021-01-01,2,98,away,FALSE,Western Kentucky,67,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+401252698,2021-01-01,0,13,home,FALSE,Cal Poly,0,Mustangs,Cal Poly Mustangs,Cal Poly
+401252698,2021-01-01,0,28,away,FALSE,UC San Diego,0,Tritons,UC San Diego Tritons,UC San Diego
+401252697,2021-01-01,0,302,home,FALSE,UC Davis,0,Aggies,UC Davis Aggies,UC Davis
+401252697,2021-01-01,0,27,away,FALSE,UC Riverside,0,Highlanders,UC Riverside Highlanders,UC Riverside
+401257549,2021-01-01,0,56,home,FALSE,Stetson,0,Hatters,Stetson Hatters,Stetson
+401257549,2021-01-01,0,2454,away,FALSE,North Florida,0,Ospreys,North Florida Ospreys,North Florida
+401258467,2021-01-01,0,82,home,FALSE,UIC,0,Flames,UIC Flames,UIC
+401258467,2021-01-01,0,2174,away,FALSE,Detroit Mercy,0,Titans,Detroit Mercy Titans,Detroit Mercy
+401262435,2021-01-01,0,526,home,FALSE,Florida Gulf Coast,0,Eagles,Florida Gulf Coast Eagles,FGCU
+401262435,2021-01-01,0,2453,away,FALSE,North Alabama,0,Lions,North Alabama Lions,North Alabama
+401254205,2021-01-01,0,2226,home,FALSE,Florida Atlantic,0,Owls,Florida Atlantic Owls,FAU
+401254205,2021-01-01,0,2393,away,FALSE,Middle Tennessee,0,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+401252696,2021-01-01,0,2463,home,FALSE,Cal State Northridge,0,Matadors,Cal State Northridge Matadors,CSU Northridge
+401252696,2021-01-01,0,300,away,FALSE,UC Irvine,0,Anteaters,UC Irvine Anteaters,UC Irvine
+401254565,2021-01-01,0,249,home,FALSE,North Texas,0,Mean Green,North Texas Mean Green,North Texas
+401254565,2021-01-01,0,5,away,FALSE,UAB,0,Blazers,UAB Blazers,UAB

@@ -1,0 +1,73 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401600769,2023-12-18,2,2182,home,FALSE,Drexel,117,Dragons,Drexel Dragons,Drexel
+401600769,2023-12-18,2,124950,away,FALSE,Penn State-Alleghany,49,Nittany Lions,Penn State-Alleghany Nittany Lions,Penn Alleghany
+401581867,2023-12-18,2,294,home,FALSE,Jacksonville,75,Dolphins,Jacksonville Dolphins,Jacksonville
+401581867,2023-12-18,2,2433,away,FALSE,UL Monroe,65,Warhawks,UL Monroe Warhawks,UL Monroe
+401608799,2023-12-18,2,2837,home,FALSE,Texas A&M-Commerce,130,Lions,Texas A&M-Commerce Lions,Texas A&M-Comm
+401608799,2023-12-18,2,3166,away,FALSE,Arlington Baptist,53,Patriots,Arlington Baptist Patriots,Arlington Bpt
+401604785,2023-12-18,2,357,home,FALSE,Texas A&M-Corpus Christi,102,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+401604785,2023-12-18,2,2639,away,FALSE,Texas Lutheran,50,Bulldogs,Texas Lutheran Bulldogs,Texas Lutheran
+401598021,2023-12-18,2,2504,home,FALSE,Prairie View A&M,92,Panthers,Prairie View A&M Panthers,Prairie View
+401598021,2023-12-18,2,126750,away,FALSE,North American,61,Stallions,North American Stallions,North American
+401601467,2023-12-18,2,2427,home,FALSE,UNC Asheville,79,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+401601467,2023-12-18,2,2569,away,FALSE,South Carolina State,75,Bulldogs,South Carolina State Bulldogs,SC State
+401577654,2023-12-18,2,232,home,FALSE,Charleston,84,Cougars,Charleston Cougars,Charleston
+401577654,2023-12-18,2,324,away,FALSE,Coastal Carolina,81,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+401583782,2023-12-18,2,2754,home,FALSE,Youngstown State,117,Penguins,Youngstown State Penguins,Youngstown St
+401583782,2023-12-18,2,2849,away,FALSE,Westminster (PA),45,Titans,Westminster (PA) Titans,Wstmnstrpa
+401611803,2023-12-18,2,2450,home,FALSE,Norfolk State,108,Spartans,Norfolk State Spartans,Norfolk St
+401611803,2023-12-18,2,2896,away,FALSE,Southern Virginia,52,Knights,Southern Virginia Knights,S Virginia
+401602694,2023-12-18,2,2330,home,FALSE,Le Moyne,92,Dolphins,Le Moyne Dolphins,Le Moyne
+401602694,2023-12-18,2,538,away,FALSE,Houghton,72,Highlanders,Houghton Highlanders,Houghton
+401600290,2023-12-18,2,159,home,FALSE,Dartmouth,77,Big Green,Dartmouth Big Green,Dartmouth
+401600290,2023-12-18,2,2645,away,FALSE,Thomas (ME),48,Terriers,Thomas (ME) Terriers,THMAS
+401596814,2023-12-18,2,2097,home,FALSE,Campbell,83,Fighting Camels,Campbell Fighting Camels,Campbell
+401596814,2023-12-18,2,2415,away,FALSE,Morgan State,76,Bears,Morgan State Bears,Morgan St
+401592435,2023-12-18,2,127,home,FALSE,Michigan State,79,Spartans,Michigan State Spartans,Michigan St
+401592435,2023-12-18,2,2473,away,FALSE,Oakland,62,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+401587210,2023-12-18,2,2184,home,TRUE,Duquesne,69,Dukes,Duquesne Dukes,Duquesne
+401587210,2023-12-18,2,71,away,TRUE,Bradley,67,Braves,Bradley Braves,Bradley
+401587201,2023-12-18,2,195,home,FALSE,Ohio,108,Bobcats,Ohio Bobcats,Ohio
+401587201,2023-12-18,2,190,away,FALSE,Defiance,28,Yellow Jackets,Defiance Yellow Jackets,Defiance
+401584387,2023-12-18,2,2368,home,FALSE,Marist,76,Red Foxes,Marist Red Foxes,Marist
+401584387,2023-12-18,2,2379,away,FALSE,Maryland Eastern Shore,52,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+401581852,2023-12-18,2,276,home,FALSE,Marshall,103,Thundering Herd,Marshall Thundering Herd,Marshall
+401581852,2023-12-18,2,495,away,FALSE,Bluefield University,70,Ramblin' Rams,Bluefield University Ramblin' Rams,Bluefield U
+401581093,2023-12-18,2,154,home,FALSE,Wake Forest,88,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+401581093,2023-12-18,2,2169,away,FALSE,Delaware State,59,Hornets,Delaware State Hornets,Delaware St
+401577689,2023-12-18,2,107,home,FALSE,Holy Cross,57,Crusaders,Holy Cross Crusaders,Holy Cross
+401577689,2023-12-18,2,2514,away,FALSE,Quinnipiac,77,Bobcats,Quinnipiac Bobcats,Quinnipiac
+401575467,2023-12-18,2,2116,home,FALSE,UCF,74,Knights,UCF Knights,UCF
+401575467,2023-12-18,2,311,away,FALSE,Maine,51,Black Bears,Maine Black Bears,Maine
+401594435,2023-12-18,2,2031,home,FALSE,Little Rock,80,Trojans,Little Rock Trojans,Little Rock
+401594435,2023-12-18,2,93,away,FALSE,Murray State,66,Racers,Murray State Racers,Murray St
+401604759,2023-12-18,2,2029,home,FALSE,Arkansas-Pine Bluff,125,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+401604759,2023-12-18,2,3120,away,FALSE,Ecclesia,75,Royals,Ecclesia Royals,Ecclesia
+401604348,2023-12-18,2,2565,home,FALSE,SIU Edwardsville,99,Cougars,SIU Edwardsville Cougars,SIUE
+401604348,2023-12-18,2,112698,away,FALSE,Central Christian College,56,Central Christian,Central Christian College Central Christian,CENTRALCHR
+401600245,2023-12-18,2,2130,home,FALSE,Chicago State,78,Cougars,Chicago State Cougars,Chicago St
+401600245,2023-12-18,2,292,away,FALSE,UT Rio Grande Valley,68,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+401598013,2023-12-18,2,326,home,FALSE,Texas State,110,Bobcats,Texas State Bobcats,Texas St
+401598013,2023-12-18,2,2326,away,FALSE,LeTourneau,68,Yellow Jackets,LeTourneau Yellow Jackets,LeTourneau
+401597434,2023-12-18,2,2627,home,FALSE,Tarleton State,62,Texans,Tarleton State Texans,Tarleton St
+401597434,2023-12-18,2,55,away,FALSE,Jacksonville State,65,Gamecocks,Jacksonville State Gamecocks,Jax State
+401594478,2023-12-18,2,2710,home,FALSE,Western Illinois,92,Leathernecks,Western Illinois Leathernecks,W Illinois
+401594478,2023-12-18,2,101,away,FALSE,Eureka,56,Red Devils,Eureka Red Devils,Eureka
+401587220,2023-12-18,2,339,home,FALSE,Evansville,98,Purple Aces,Evansville Purple Aces,Evansville
+401587220,2023-12-18,2,2630,away,FALSE,UT Martin,91,Skyhawks,UT Martin Skyhawks,UT Martin
+401581791,2023-12-18,2,2320,home,FALSE,Lamar,79,Cardinals,Lamar Cardinals,Lamar
+401581791,2023-12-18,2,2572,away,FALSE,Southern Miss,82,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
+401588606,2023-12-18,2,2459,home,FALSE,Northern Illinois,92,Huskies,Northern Illinois Huskies,N Illinois
+401588606,2023-12-18,2,502,away,FALSE,Calumet,48,Calumet,Calumet,Calumet
+401594597,2023-12-18,2,2172,home,FALSE,Denver,89,Pioneers,Denver Pioneers,Denver
+401594597,2023-12-18,2,2001,away,FALSE,Adams State,83,Grizzlies,Adams State Grizzlies,Adams St
+401594055,2023-12-18,2,16,home,FALSE,Sacramento State,52,Hornets,Sacramento State Hornets,Sacramento St
+401594055,2023-12-18,2,28,away,FALSE,UC San Diego,83,Tritons,UC San Diego Tritons,UC San Diego
+401594038,2023-12-18,3,278,home,FALSE,Fresno State,72,Bulldogs,Fresno State Bulldogs,Fresno St
+401594038,2023-12-18,3,2502,away,FALSE,Portland State,75,Vikings,Portland State Vikings,Portland St
+401593977,2023-12-18,2,13,home,FALSE,Cal Poly,53,Mustangs,Cal Poly Mustangs,Cal Poly
+401593977,2023-12-18,2,331,away,FALSE,Eastern Washington,62,Eagles,Eastern Washington Eagles,E Washington
+401583757,2023-12-18,2,2351,home,FALSE,Loyola Marymount,76,Lions,Loyola Marymount Lions,LMU
+401583757,2023-12-18,2,2174,away,FALSE,Detroit Mercy,56,Titans,Detroit Mercy Titans,Detroit Mercy
+401575413,2023-12-18,2,279,home,FALSE,Pacific,68,Tigers,Pacific Tigers,Pacific
+401575413,2023-12-18,2,2616,away,FALSE,Stanislaus State,46,Warriors,Stanislaus State Warriors,Stanislaus St

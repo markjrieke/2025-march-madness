@@ -1,0 +1,11 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401266546,2020-12-02,2,2483,home,TRUE,Oregon,75,Ducks,Oregon Ducks,Oregon
+401266546,2020-12-02,2,142,away,TRUE,Missouri,83,Tigers,Missouri Tigers,Missouri
+401260332,2020-12-02,2,52,home,FALSE,Florida State,86,Seminoles,Florida State Seminoles,Florida St
+401260332,2020-12-02,2,2454,away,FALSE,North Florida,58,Ospreys,North Florida Ospreys,North Florida
+401255663,2020-12-02,2,194,home,FALSE,Ohio State,77,Buckeyes,Ohio State Buckeyes,Ohio State
+401255663,2020-12-02,2,2413,away,FALSE,Morehead State,44,Eagles,Morehead State Eagles,Morehead St
+401255044,2020-12-02,0,222,home,FALSE,Villanova,0,Wildcats,Villanova Wildcats,Villanova
+401255044,2020-12-02,0,2603,away,FALSE,Saint Joseph's,0,Hawks,Saint Joseph's Hawks,Saint Joseph's
+401259305,2020-12-02,0,232,home,FALSE,Charleston,0,Cougars,Charleston Cougars,Charleston
+401259305,2020-12-02,0,257,away,FALSE,Richmond,0,Spiders,Richmond Spiders,Richmond

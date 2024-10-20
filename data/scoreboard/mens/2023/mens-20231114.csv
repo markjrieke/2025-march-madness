@@ -1,0 +1,27 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401575453,2023-11-14,2,2305,home,TRUE,Kansas,89,Jayhawks,Kansas Jayhawks,Kansas
+401575453,2023-11-14,2,96,away,TRUE,Kentucky,84,Wildcats,Kentucky Wildcats,Kentucky
+401574573,2023-11-14,2,356,home,FALSE,Illinois,64,Fighting Illini,Illinois Fighting Illini,Illinois
+401574573,2023-11-14,2,269,away,FALSE,Marquette,71,Golden Eagles,Marquette Golden Eagles,Marquette
+401591369,2023-11-14,2,41,home,FALSE,UConn,87,Huskies,UConn Huskies,UConn
+401591369,2023-11-14,2,2400,away,FALSE,Mississippi Valley State,53,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
+401575519,2023-11-14,2,2633,home,FALSE,Tennessee,82,Volunteers,Tennessee Volunteers,Tennessee
+401575519,2023-11-14,2,2747,away,FALSE,Wofford,61,Terriers,Wofford Terriers,Wofford
+401574574,2023-11-14,2,156,home,FALSE,Creighton,92,Bluejays,Creighton Bluejays,Creighton
+401574574,2023-11-14,2,2294,away,FALSE,Iowa,84,Hawkeyes,Iowa Hawkeyes,Iowa
+401576149,2023-11-14,2,127,home,TRUE,Michigan State,65,Spartans,Michigan State Spartans,Michigan St
+401576149,2023-11-14,2,150,away,TRUE,Duke,74,Blue Devils,Duke Blue Devils,Duke
+401581349,2023-11-14,2,2226,home,FALSE,Florida Atlantic,100,Owls,Florida Atlantic Owls,FAU
+401581349,2023-11-14,2,2199,away,FALSE,Eastern Michigan,57,Eagles,Eastern Michigan Eagles,E Michigan
+401606989,2023-11-14,2,2250,home,FALSE,Gonzaga,123,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401606989,2023-11-14,2,2202,away,FALSE,Eastern Oregon,57,Mountaineers,Eastern Oregon Mountaineers,E Oregon
+401575511,2023-11-14,2,2567,home,FALSE,SMU,66,Mustangs,SMU Mustangs,SMU
+401575511,2023-11-14,2,245,away,FALSE,Texas A&M,79,Aggies,Texas A&M Aggies,Texas A&M
+401581803,2023-11-14,2,239,home,FALSE,Baylor,99,Bears,Baylor Bears,Baylor
+401581803,2023-11-14,2,140,away,FALSE,Kansas City,61,Roos,Kansas City Roos,Kansas City
+401603531,2023-11-14,2,30,home,FALSE,USC,60,Trojans,USC Trojans,USC
+401603531,2023-11-14,2,300,away,FALSE,UC Irvine,70,Anteaters,UC Irvine Anteaters,UC Irvine
+401591431,2023-11-14,2,333,home,FALSE,Alabama,102,Crimson Tide,Alabama Crimson Tide,Alabama
+401591431,2023-11-14,2,6,away,FALSE,South Alabama,46,Jaguars,South Alabama Jaguars,South Alabama
+401594480,2023-11-14,2,38,home,FALSE,Colorado,106,Buffaloes,Colorado Buffaloes,Colorado
+401594480,2023-11-14,2,270,away,FALSE,Milwaukee,79,Panthers,Milwaukee Panthers,Milwaukee

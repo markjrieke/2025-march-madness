@@ -1,0 +1,17 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401021711,2018-03-11,4,44,home,FALSE,American University,58,Eagles,American University Eagles,American
+401021711,2018-03-11,4,2426,away,FALSE,Navy,49,Midshipmen,Navy Midshipmen,Navy
+401021412,2018-03-11,4,2617,home,TRUE,Stephen F. Austin,65,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
+401021412,2018-03-11,4,2447,away,TRUE,Nicholls,69,Colonels,Nicholls Colonels,Nicholls
+401021396,2018-03-11,4,2598,home,FALSE,St. Francis (PA),66,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+401021396,2018-03-11,4,2523,away,FALSE,Robert Morris,56,Colonials,Robert Morris Colonials,Robert Morris
+401020832,2018-03-11,4,2335,home,FALSE,Liberty,60,Flames,Liberty Flames,Liberty
+401020832,2018-03-11,4,2427,away,FALSE,UNC Asheville,42,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+401021405,2018-03-11,4,2181,home,TRUE,Drake,75,Bulldogs,Drake Bulldogs,Drake
+401021405,2018-03-11,4,2460,away,TRUE,Northern Iowa,63,Panthers,Northern Iowa Panthers,Northern Iowa
+401021317,2018-03-11,4,526,home,FALSE,Florida Gulf Coast,68,Eagles,Florida Gulf Coast Eagles,FGCU
+401021317,2018-03-11,4,294,away,FALSE,Jacksonville,58,Dolphins,Jacksonville Dolphins,Jacksonville
+401020870,2018-03-11,4,163,home,TRUE,Princeton,63,Tigers,Princeton Tigers,Princeton
+401020870,2018-03-11,4,219,away,TRUE,Pennsylvania,34,Quakers,Pennsylvania Quakers,Penn
+401021423,2018-03-11,4,2031,home,TRUE,Little Rock,54,Trojans,Little Rock Trojans,Little Rock
+401021423,2018-03-11,4,326,away,TRUE,Texas State,53,Bobcats,Texas State Bobcats,Texas St

@@ -1,0 +1,17 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300100026,2010-01-10,2,26,home,FALSE,UCLA,61,Bruins,UCLA Bruins,UCLA
+300100026,2010-01-10,2,24,away,FALSE,Stanford,65,Cardinal,Stanford Cardinal,Stanford
+300100344,2010-01-10,2,344,home,FALSE,Mississippi State,48,Bulldogs,Mississippi State Bulldogs,Mississippi St
+300100344,2010-01-10,2,2633,away,FALSE,Tennessee,75,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+300100061,2010-01-10,2,61,home,FALSE,Georgia,61,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+300100061,2010-01-10,2,57,away,FALSE,Florida,52,Gators,Florida Gators,Florida
+300100150,2010-01-10,2,150,home,FALSE,Duke,65,Blue Devils,Duke Blue Devils,Duke
+300100150,2010-01-10,2,154,away,FALSE,Wake Forest,51,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+300100099,2010-01-10,3,99,home,FALSE,LSU,62,Tigers,LSU Tigers,LSU
+300100099,2010-01-10,3,2,away,FALSE,Auburn,64,Tigers,Auburn Tigers,Auburn
+300102390,2010-01-10,2,2390,home,FALSE,Miami,78,Hurricanes,Miami Hurricanes,Miami
+300102390,2010-01-10,2,52,away,FALSE,Florida State,70,Seminoles,Florida State Seminoles,Florida St
+300102752,2010-01-10,2,2752,home,FALSE,Xavier,82,Musketeers,Xavier Musketeers,Xavier
+300102752,2010-01-10,2,218,away,FALSE,Temple,69,Owls,Temple Owls,Temple
+300100096,2010-01-10,2,96,home,FALSE,Kentucky,63,Wildcats,Kentucky Wildcats,Kentucky
+300100096,2010-01-10,2,238,away,FALSE,Vanderbilt,53,Commodores,Vanderbilt Commodores,Vanderbilt

@@ -1,0 +1,9 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401123389,2019-03-29,2,127,home,TRUE,Michigan State,80,Spartans,Michigan State Spartans,Michigan St
+401123389,2019-03-29,2,99,away,TRUE,LSU,63,Tigers,LSU Tigers,LSU
+401123392,2019-03-29,2,153,home,TRUE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
+401123392,2019-03-29,2,2,away,TRUE,Auburn,97,Tigers,Auburn Tigers,Auburn
+401123388,2019-03-29,2,150,home,TRUE,Duke,75,Blue Devils,Duke Blue Devils,Duke
+401123388,2019-03-29,2,259,away,TRUE,Virginia Tech,73,Hokies,Virginia Tech Hokies,Virginia Tech
+401123391,2019-03-29,2,96,home,TRUE,Kentucky,62,Wildcats,Kentucky Wildcats,Kentucky
+401123391,2019-03-29,2,248,away,TRUE,Houston,58,Cougars,Houston Cougars,Houston

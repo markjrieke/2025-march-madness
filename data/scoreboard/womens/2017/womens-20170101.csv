@@ -1,0 +1,27 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400911735,2017-01-01,4,2116,home,FALSE,UCF,48,Knights,UCF Knights,UCF
+400911735,2017-01-01,4,41,away,FALSE,UConn,84,Huskies,UConn Huskies,UConn
+400905161,2017-01-01,4,239,home,FALSE,Baylor,90,Bears,Baylor Bears,Baylor
+400905161,2017-01-01,4,2305,away,FALSE,Kansas,43,Jayhawks,Kansas Jayhawks,Kansas
+400914409,2017-01-01,4,135,home,FALSE,Minnesota,72,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400914409,2017-01-01,4,120,away,FALSE,Maryland,83,Terrapins,Maryland Terrapins,Maryland
+400910908,2017-01-01,4,344,home,FALSE,Mississippi State,74,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400910908,2017-01-01,4,99,away,FALSE,LSU,48,Tigers,LSU Tigers,LSU
+400910910,2017-01-01,4,2579,home,FALSE,South Carolina,93,Gamecocks,South Carolina Gamecocks,South Carolina
+400910910,2017-01-01,4,333,away,FALSE,Alabama,45,Crimson Tide,Alabama Crimson Tide,Alabama
+400913914,2017-01-01,4,204,home,FALSE,Oregon State,73,Beavers,Oregon State Beavers,Oregon St
+400913914,2017-01-01,4,264,away,FALSE,Washington,70,Huskies,Washington Huskies,Washington
+400913918,2017-01-01,4,26,home,FALSE,UCLA,87,Bruins,UCLA Bruins,UCLA
+400913918,2017-01-01,4,38,away,FALSE,Colorado,74,Buffaloes,Colorado Buffaloes,Colorado
+400911138,2017-01-01,4,2306,home,FALSE,Kansas State,86,Wildcats,Kansas State Wildcats,Kansas St
+400911138,2017-01-01,4,277,away,FALSE,West Virginia,71,Mountaineers,West Virginia Mountaineers,West Virginia
+400913916,2017-01-01,4,12,home,FALSE,Arizona,55,Wildcats,Arizona Wildcats,Arizona
+400913916,2017-01-01,4,24,away,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
+400905221,2017-01-01,4,66,home,FALSE,Iowa State,68,Cyclones,Iowa State Cyclones,Iowa State
+400905221,2017-01-01,4,251,away,FALSE,Texas,75,Longhorns,Texas Longhorns,Texas
+400910911,2017-01-01,4,2633,home,FALSE,Tennessee,72,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400910911,2017-01-01,4,96,away,FALSE,Kentucky,65,Wildcats,Kentucky Wildcats,Kentucky
+400913919,2017-01-01,6,9,home,FALSE,Arizona State,72,Sun Devils,Arizona State Sun Devils,Arizona St
+400913919,2017-01-01,6,25,away,FALSE,California,62,Golden Bears,California Golden Bears,California
+400922863,2017-01-01,4,201,home,FALSE,Oklahoma,87,Sooners,Oklahoma Sooners,Oklahoma
+400922863,2017-01-01,4,2628,away,FALSE,TCU,72,Horned Frogs,TCU Horned Frogs,TCU

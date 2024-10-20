@@ -1,0 +1,13 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213330201,2001-11-29,2,201,home,FALSE,Oklahoma,89,Sooners,Oklahoma Sooners,Oklahoma
+213330201,2001-11-29,2,2724,away,FALSE,Wichita State,68,Shockers,Wichita State Shockers,Wichita St
+213332655,2001-11-29,2,2655,home,FALSE,Tulane,52,Green Wave,Tulane Green Wave,Tulane
+213332655,2001-11-29,2,2509,away,FALSE,Purdue,64,Boilermakers,Purdue Boilermakers,Purdue
+213332429,2001-11-29,2,2429,home,FALSE,Charlotte,39,49ers,Charlotte 49ers,Charlotte
+213332429,2001-11-29,2,150,away,FALSE,Duke,64,Blue Devils,Duke Blue Devils,Duke
+213330130,2001-11-29,2,130,home,FALSE,Michigan,65,Wolverines,Michigan Wolverines,Michigan
+213330130,2001-11-29,2,269,away,FALSE,Marquette,49,Golden Eagles,Marquette Golden Eagles,Marquette
+213330251,2001-11-29,2,251,home,FALSE,Texas,65,Longhorns,Texas Longhorns,Texas
+213330251,2001-11-29,2,99,away,FALSE,LSU,63,Tigers,LSU Tigers,LSU
+213330052,2001-11-29,3,52,home,FALSE,Florida State,74,Seminoles,Florida State Seminoles,Florida St
+213330052,2001-11-29,3,57,away,FALSE,Florida,78,Gators,Florida Gators,Florida

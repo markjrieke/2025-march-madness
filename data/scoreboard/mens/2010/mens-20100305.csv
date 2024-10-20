@@ -1,0 +1,61 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300642184,2010-03-05,2,2184,home,FALSE,Duquesne,111,Dukes,Duquesne Dukes,Duquesne
+300642184,2010-03-05,2,2230,away,FALSE,Fordham,100,Rams,Fordham Rams,Fordham
+300640119,2010-03-05,2,119,home,TRUE,Towson,91,Tigers,Towson Tigers,Towson
+300640119,2010-03-05,2,350,away,TRUE,UNC Wilmington,74,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+300642460,2010-03-05,2,2460,home,TRUE,Northern Iowa,55,Panthers,Northern Iowa Panthers,Northern Iowa
+300642460,2010-03-05,2,2181,away,TRUE,Drake,40,Bulldogs,Drake Bulldogs,Drake
+300642166,2010-03-05,2,2166,home,TRUE,Davidson,59,Wildcats,Davidson Wildcats,Davidson
+300642166,2010-03-05,2,2210,away,TRUE,Elon,66,Phoenix,Elon Phoenix,Elon
+300642670,2010-03-05,2,2670,home,TRUE,VCU,66,Rams,VCU Rams,VCU
+300642670,2010-03-05,2,48,away,TRUE,Delaware,49,Blue Hens,Delaware Blue Hens,Delaware
+300640156,2010-03-05,2,156,home,FALSE,Creighton,62,Bluejays,Creighton Bluejays,Creighton
+300640156,2010-03-05,2,71,away,FALSE,Bradley,81,Braves,Bradley Braves,Bradley
+300642430,2010-03-05,2,2430,home,FALSE,UNC Greensboro,66,Spartans,UNC Greensboro Spartans,UNC Greensboro
+300642430,2010-03-05,2,231,away,FALSE,Furman,65,Paladins,Furman Paladins,Furman
+300642739,2010-03-05,2,2739,home,TRUE,Green Bay,53,Phoenix,Green Bay Phoenix,Green Bay
+300642739,2010-03-05,2,2174,away,TRUE,Detroit Mercy,62,Titans,Detroit Mercy Titans,Detroit Mercy
+300642275,2010-03-05,2,2275,home,TRUE,Hofstra,68,Pride,Hofstra Pride,Hofstra
+300642275,2010-03-05,2,2247,away,TRUE,Georgia State,67,Panthers,Georgia State Panthers,Georgia St
+300642193,2010-03-05,2,2193,home,TRUE,East Tennessee State,69,Buccaneers,East Tennessee State Buccaneers,ETSU
+300642193,2010-03-05,2,338,away,TRUE,Kennesaw State,64,Owls,Kennesaw State Owls,Kennesaw St
+300642643,2010-03-05,2,2643,home,TRUE,The Citadel,55,Bulldogs,The Citadel Bulldogs,The Citadel
+300642643,2010-03-05,2,2535,away,TRUE,Samford,43,Bulldogs,Samford Bulldogs,Samford
+300640225,2010-03-05,2,225,home,FALSE,Brown,76,Bears,Brown Bears,Brown
+300640225,2010-03-05,2,172,away,FALSE,Cornell,95,Big Red,Cornell Big Red,Cornell
+300640219,2010-03-05,2,219,home,FALSE,Pennsylvania,66,Quakers,Pennsylvania Quakers,Penn
+300640219,2010-03-05,2,108,away,FALSE,Harvard,67,Crimson,Harvard Crimson,Harvard
+300640163,2010-03-05,2,163,home,FALSE,Princeton,71,Tigers,Princeton Tigers,Princeton
+300640163,2010-03-05,2,159,away,FALSE,Dartmouth,43,Big Green,Dartmouth Big Green,Dartmouth
+300640093,2010-03-05,2,93,home,TRUE,Murray State,55,Racers,Murray State Racers,Murray St
+300640093,2010-03-05,2,2197,away,TRUE,Eastern Illinois,51,Panthers,Eastern Illinois Panthers,E Illinois
+300640043,2010-03-05,2,43,home,FALSE,Yale,65,Bulldogs,Yale Bulldogs,Yale
+300640043,2010-03-05,2,171,away,FALSE,Columbia,48,Lions,Columbia Lions,Columbia
+300642724,2010-03-05,2,2724,home,TRUE,Wichita State,73,Shockers,Wichita State Shockers,Wichita St
+300642724,2010-03-05,2,2623,away,TRUE,Missouri State,63,Bears,Missouri State Bears,Missouri St
+300642352,2010-03-05,2,2352,home,TRUE,Loyola Maryland,79,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+300642352,2010-03-05,2,2363,away,TRUE,Manhattan,94,Jaspers,Manhattan Jaspers,Manhattan
+300642006,2010-03-05,2,2006,home,FALSE,Akron,61,Zips,Akron Zips,Akron
+300642006,2010-03-05,2,2309,away,FALSE,Kent State,74,Golden Flashes,Kent State Golden Flashes,Kent State
+300640270,2010-03-05,2,270,home,TRUE,Milwaukee,82,Panthers,Milwaukee Panthers,Milwaukee
+300640270,2010-03-05,2,325,away,TRUE,Cleveland State,75,Vikings,Cleveland State Vikings,Cleveland St
+300650305,2010-03-05,5,305,home,FALSE,DePaul,82,Blue Demons,DePaul Blue Demons,DePaul
+300650305,2010-03-05,5,2599,away,FALSE,St. John's,90,Red Storm,St. John's Red Storm,St John's
+300642182,2010-03-05,2,2182,home,TRUE,Drexel,65,Dragons,Drexel Dragons,Drexel
+300642182,2010-03-05,2,256,away,TRUE,James Madison,77,Dukes,James Madison Dukes,James Madison
+300642351,2010-03-05,2,2351,home,TRUE,Loyola Marymount,87,Lions,Loyola Marymount Lions,LMU
+300642351,2010-03-05,2,2492,away,TRUE,Pepperdine,84,Waves,Pepperdine Waves,Pepperdine
+300640294,2010-03-05,2,294,home,TRUE,Jacksonville,63,Dolphins,Jacksonville Dolphins,Jacksonville
+300640294,2010-03-05,2,2382,away,TRUE,Mercer,66,Bears,Mercer Bears,Mercer
+300640236,2010-03-05,2,236,home,TRUE,Chattanooga,82,Mocs,Chattanooga Mocs,Chattanooga
+300640236,2010-03-05,2,290,away,TRUE,Georgia Southern,62,Eagles,Georgia Southern Eagles,GA Southern
+300642287,2010-03-05,2,2287,home,TRUE,Illinois State,69,Redbirds,Illinois State Redbirds,Illinois St
+300642287,2010-03-05,2,282,away,TRUE,Indiana State,65,Sycamores,Indiana State Sycamores,Indiana St
+300642413,2010-03-05,2,2413,home,TRUE,Morehead State,76,Eagles,Morehead State Eagles,Morehead St
+300642413,2010-03-05,2,2635,away,TRUE,Tennessee Tech,47,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
+300642099,2010-03-05,2,2099,home,TRUE,Canisius,72,Golden Griffins,Canisius Golden Griffins,Canisius
+300642099,2010-03-05,2,2368,away,TRUE,Marist,54,Red Foxes,Marist Red Foxes,Marist
+300640299,2010-03-05,2,299,home,FALSE,Long Beach State,76,Beach,Long Beach State Beach,Long Beach St
+300640299,2010-03-05,2,27,away,FALSE,UC Riverside,74,Highlanders,UC Riverside Highlanders,UC Riverside
+300640301,2010-03-05,2,301,home,TRUE,San Diego,61,Toreros,San Diego Toreros,San Diego
+300640301,2010-03-05,2,2541,away,TRUE,Santa Clara,59,Broncos,Santa Clara Broncos,Santa Clara

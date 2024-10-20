@@ -1,0 +1,33 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401414483,2022-03-19,4,265,home,TRUE,Washington State,40,Cougars,Washington State Cougars,Washington St
+401414483,2022-03-19,4,2306,away,TRUE,Kansas State,50,Wildcats,Kansas State Wildcats,Kansas St
+401414489,2022-03-19,4,252,home,TRUE,BYU,57,Cougars,BYU Cougars,BYU
+401414489,2022-03-19,4,222,away,TRUE,Villanova,61,Wildcats,Villanova Wildcats,Villanova
+401414487,2022-03-19,4,41,home,FALSE,UConn,83,Huskies,UConn Huskies,UConn
+401414487,2022-03-19,4,2382,away,FALSE,Mercer,38,Bears,Mercer Bears,Mercer
+401414496,2022-03-19,4,84,home,FALSE,Indiana,85,Hoosiers,Indiana Hoosiers,Indiana
+401414496,2022-03-19,4,2429,away,FALSE,Charlotte,51,49ers,Charlotte 49ers,Charlotte
+401414497,2022-03-19,4,152,home,FALSE,NC State,96,Wolfpack,NC State Wolfpack,NC State
+401414497,2022-03-19,4,2344,away,FALSE,Longwood,68,Lancers,Longwood Lancers,Longwood
+401414491,2022-03-19,4,194,home,TRUE,Ohio State,63,Buckeyes,Ohio State Buckeyes,Ohio State
+401414491,2022-03-19,4,2623,away,TRUE,Missouri State,56,Lady Bears,Missouri State Lady Bears,Missouri St
+401414493,2022-03-19,4,2633,home,FALSE,Tennessee,80,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401414493,2022-03-19,4,2084,away,FALSE,Buffalo,67,Bulls,Buffalo Bulls,Buffalo
+401414492,2022-03-19,4,130,home,FALSE,Michigan,74,Wolverines,Michigan Wolverines,Michigan
+401414492,2022-03-19,4,44,away,FALSE,American University,39,Eagles,American University Eagles,American
+401414488,2022-03-19,4,2116,home,TRUE,UCF,69,Knights,UCF Knights,UCF
+401414488,2022-03-19,4,57,away,TRUE,Florida,52,Gators,Florida Gators,Florida
+401414486,2022-03-19,4,96,home,TRUE,Kentucky,62,Wildcats,Kentucky Wildcats,Kentucky
+401414486,2022-03-19,4,163,away,TRUE,Princeton,69,Tigers,Princeton Tigers,Princeton
+401414495,2022-03-19,4,99,home,FALSE,LSU,83,Tigers,LSU Tigers,LSU
+401414495,2022-03-19,4,2296,away,FALSE,Jackson State,77,Lady Tigers,Jackson State Lady Tigers,Jackson St
+401414494,2022-03-19,6,2483,home,TRUE,Oregon,70,Ducks,Oregon Ducks,Oregon
+401414494,2022-03-19,6,2057,away,TRUE,Belmont,73,Bruins,Belmont Bruins,Belmont
+401414498,2022-03-19,4,153,home,TRUE,North Carolina,79,Tar Heels,North Carolina Tar Heels,North Carolina
+401414498,2022-03-19,4,2617,away,TRUE,Stephen F. Austin,66,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
+401414485,2022-03-19,4,87,home,TRUE,Notre Dame,89,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401414485,2022-03-19,4,113,away,TRUE,Massachusetts,78,Minutewomen,Massachusetts Minutewomen,UMass
+401414490,2022-03-19,4,12,home,FALSE,Arizona,72,Wildcats,Arizona Wildcats,Arizona
+401414490,2022-03-19,4,2439,away,FALSE,UNLV,67,Lady Rebels,UNLV Lady Rebels,UNLV
+401414484,2022-03-19,4,201,home,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
+401414484,2022-03-19,4,85,away,FALSE,IU Indianapolis,72,Jaguars,IU Indianapolis Jaguars,IU Indy

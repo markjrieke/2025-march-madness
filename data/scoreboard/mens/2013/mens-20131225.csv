@@ -1,0 +1,9 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400524021,2013-12-25,2,2608,home,TRUE,Saint Mary's,63,Gaels,Saint Mary's Gaels,Saint Mary's
+400524021,2013-12-25,2,2244,away,TRUE,George Mason,65,Patriots,George Mason Patriots,George Mason
+400524020,2013-12-25,2,62,home,FALSE,Hawai'i,79,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
+400524020,2013-12-25,2,204,away,FALSE,Oregon State,73,Beavers,Oregon State Beavers,Oregon St
+400524014,2013-12-25,2,2579,home,TRUE,South Carolina,69,Gamecocks,South Carolina Gamecocks,South Carolina
+400524014,2013-12-25,2,2006,away,TRUE,Akron,59,Zips,Akron Zips,Akron
+400524015,2013-12-25,2,68,home,TRUE,Boise State,66,Broncos,Boise State Broncos,Boise St
+400524015,2013-12-25,2,66,away,TRUE,Iowa State,70,Cyclones,Iowa State Cyclones,Iowa State

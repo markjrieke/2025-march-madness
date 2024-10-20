@@ -1,0 +1,53 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401370702,2022-01-10,2,2737,home,FALSE,Winthrop,74,Eagles,Winthrop Eagles,Winthrop
+401370702,2022-01-10,2,2097,away,FALSE,Campbell,72,Fighting Camels,Campbell Fighting Camels,Campbell
+401402060,2022-01-10,2,2430,home,FALSE,UNC Greensboro,58,Spartans,UNC Greensboro Spartans,UNC Greensboro
+401402060,2022-01-10,2,2747,away,FALSE,Wofford,54,Terriers,Wofford Terriers,Wofford
+401381716,2022-01-10,2,2142,home,FALSE,Colgate,76,Raiders,Colgate Raiders,Colgate
+401381716,2022-01-10,2,349,away,FALSE,Army,57,Black Knights,Army Black Knights,Army
+401378596,2022-01-10,3,2569,home,FALSE,South Carolina State,81,Bulldogs,South Carolina State Bulldogs,SC State
+401378596,2022-01-10,3,2415,away,FALSE,Morgan State,88,Bears,Morgan State Bears,Morgan St
+401402041,2022-01-10,2,2193,home,FALSE,East Tennessee State,87,Buccaneers,East Tennessee State Buccaneers,ETSU
+401402041,2022-01-10,2,2717,away,FALSE,Western Carolina,69,Catamounts,Western Carolina Catamounts,W Carolina
+401381743,2022-01-10,2,2352,home,FALSE,Loyola Maryland,71,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+401381743,2022-01-10,2,2083,away,FALSE,Bucknell,67,Bison,Bucknell Bison,Bucknell
+401376560,2022-01-10,2,2329,home,FALSE,Lehigh,77,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+401376560,2022-01-10,2,107,away,FALSE,Holy Cross,69,Crusaders,Holy Cross Crusaders,Holy Cross
+401373339,2022-01-10,2,44,home,FALSE,American University,53,Eagles,American University Eagles,American
+401373339,2022-01-10,2,104,away,FALSE,Boston University,79,Terriers,Boston University Terriers,Boston U
+401373095,2022-01-10,2,322,home,FALSE,Lafayette,55,Leopards,Lafayette Leopards,Lafayette
+401373095,2022-01-10,2,2426,away,FALSE,Navy,69,Midshipmen,Navy Midshipmen,Navy
+401368260,2022-01-10,2,85,home,FALSE,IU Indianapolis,65,Jaguars,IU Indianapolis Jaguars,IU Indy
+401368260,2022-01-10,2,82,away,FALSE,UIC,67,Flames,UIC Flames,UIC
+401380976,2022-01-10,2,2065,home,FALSE,Bethune-Cookman,59,Wildcats,Bethune-Cookman Wildcats,Bethune
+401380976,2022-01-10,2,2582,away,FALSE,Southern,69,Jaguars,Southern Jaguars,Southern
+401373140,2022-01-10,2,50,home,FALSE,Florida A&M,75,Rattlers,Florida A&M Rattlers,Florida A&M
+401373140,2022-01-10,2,2755,away,FALSE,Grambling,66,Tigers,Grambling Tigers,Grambling
+401402039,2022-01-10,2,140,home,FALSE,Kansas City,64,Roos,Kansas City Roos,Kansas City
+401402039,2022-01-10,2,2437,away,FALSE,Omaha,61,Mavericks,Omaha Mavericks,Omaha
+401402029,2022-01-10,2,155,home,FALSE,North Dakota,68,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
+401402029,2022-01-10,2,233,away,FALSE,South Dakota,75,Coyotes,South Dakota Coyotes,South Dakota
+401378653,2022-01-10,2,2010,home,FALSE,Alabama A&M,60,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+401378653,2022-01-10,2,2296,away,FALSE,Jackson State,58,Tigers,Jackson State Tigers,Jackson St
+401382731,2022-01-10,2,2640,home,FALSE,Texas Southern,95,Tigers,Texas Southern Tigers,Texas Southern
+401382731,2022-01-10,2,2400,away,FALSE,Mississippi Valley State,58,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
+401373177,2022-01-10,2,2504,home,FALSE,Prairie View A&M,75,Panthers,Prairie View A&M Panthers,Prairie View
+401373177,2022-01-10,2,2029,away,FALSE,Arkansas-Pine Bluff,58,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+401373117,2022-01-10,2,2011,home,FALSE,Alabama State,60,Hornets,Alabama State Hornets,Alabama St
+401373117,2022-01-10,2,2016,away,FALSE,Alcorn State,70,Braves,Alcorn State Braves,Alcorn St
+401365654,2022-01-10,2,2172,home,FALSE,Denver,69,Pioneers,Denver Pioneers,Denver
+401365654,2022-01-10,2,2449,away,FALSE,North Dakota State,87,Bison,North Dakota State Bison,N Dakota St
+401403250,2022-01-10,2,204,home,FALSE,Oregon State,76,Beavers,Oregon State Beavers,Oregon St
+401403250,2022-01-10,2,2483,away,FALSE,Oregon,78,Ducks,Oregon Ducks,Oregon
+401371216,2022-01-10,2,2492,home,FALSE,Pepperdine,62,Waves,Pepperdine Waves,Pepperdine
+401371216,2022-01-10,2,301,away,FALSE,San Diego,72,Toreros,San Diego Toreros,San Diego
+401368261,2022-01-10,0,94,home,FALSE,Northern Kentucky,0,Norse,Northern Kentucky Norse,N Kentucky
+401368261,2022-01-10,0,2750,away,FALSE,Wright State,0,Raiders,Wright State Raiders,Wright St
+401373776,2022-01-10,0,2428,home,FALSE,North Carolina Central,0,Eagles,North Carolina Central Eagles,NC Central
+401373776,2022-01-10,0,2154,away,FALSE,Coppin State,0,Eagles,Coppin State Eagles,Coppin St
+401373073,2022-01-10,0,47,home,FALSE,Howard,0,Bison,Howard Bison,Howard
+401373073,2022-01-10,0,2379,away,FALSE,Maryland Eastern Shore,0,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+401372578,2022-01-10,0,2464,home,FALSE,Northern Arizona,0,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+401372578,2022-01-10,0,16,away,FALSE,Sacramento State,0,Hornets,Sacramento State Hornets,Sacramento St
+401372595,2022-01-10,0,2502,home,FALSE,Portland State,0,Vikings,Portland State Vikings,Portland St
+401372595,2022-01-10,0,2458,away,FALSE,Northern Colorado,0,Bears,Northern Colorado Bears,N Colorado

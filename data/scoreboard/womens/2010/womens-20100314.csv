@@ -1,0 +1,5 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300730024,2010-03-14,2,24,home,TRUE,Stanford,70,Cardinal,Stanford Cardinal,Stanford
+300730024,2010-03-14,2,26,away,TRUE,UCLA,46,Bruins,UCLA Bruins,UCLA
+300730201,2010-03-14,2,201,home,TRUE,Oklahoma,67,Sooners,Oklahoma Sooners,Oklahoma
+300730201,2010-03-14,2,245,away,TRUE,Texas A&M,74,Aggies,Texas A&M Aggies,Texas A&M

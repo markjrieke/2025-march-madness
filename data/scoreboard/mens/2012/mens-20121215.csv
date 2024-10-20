@@ -1,0 +1,33 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323500084,2012-12-15,3,2086,home,TRUE,Butler,88,Bulldogs,Butler Bulldogs,Butler
+323500084,2012-12-15,3,84,away,TRUE,Indiana,86,Hoosiers,Indiana Hoosiers,Indiana
+323500277,2012-12-15,2,130,home,TRUE,Michigan,81,Wolverines,Michigan Wolverines,Michigan
+323500277,2012-12-15,2,277,away,TRUE,West Virginia,66,Mountaineers,West Virginia Mountaineers,West Virginia
+323500183,2012-12-15,2,183,home,FALSE,Syracuse,85,Orange,Syracuse Orange,Syracuse
+323500183,2012-12-15,2,2099,away,FALSE,Canisius,61,Golden Griffins,Canisius Golden Griffins,Canisius
+323500012,2012-12-15,2,12,home,FALSE,Arizona,65,Wildcats,Arizona Wildcats,Arizona
+323500012,2012-12-15,2,57,away,FALSE,Florida,64,Gators,Florida Gators,Florida
+323500235,2012-12-15,2,235,home,FALSE,Memphis,78,Tigers,Memphis Tigers,Memphis
+323500235,2012-12-15,2,97,away,FALSE,Louisville,87,Cardinals,Louisville Cardinals,Louisville
+323500194,2012-12-15,2,194,home,FALSE,Ohio State,90,Buckeyes,Ohio State Buckeyes,Ohio State
+323500194,2012-12-15,2,2427,away,FALSE,UNC Asheville,72,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+323502305,2012-12-15,2,2305,home,FALSE,Kansas,89,Jayhawks,Kansas Jayhawks,Kansas
+323502305,2012-12-15,2,2057,away,FALSE,Belmont,60,Bruins,Belmont Bruins,Belmont
+323500276,2012-12-15,2,276,home,FALSE,Marshall,56,Thundering Herd,Marshall Thundering Herd,Marshall
+323500276,2012-12-15,2,2132,away,FALSE,Cincinnati,72,Bearcats,Cincinnati Bearcats,Cincinnati
+323502250,2012-12-15,2,2250,home,TRUE,Gonzaga,68,Bulldogs,Gonzaga Bulldogs,Gonzaga
+323502250,2012-12-15,2,2306,away,TRUE,Kansas State,52,Wildcats,Kansas State Wildcats,Kansas St
+323500046,2012-12-15,2,46,home,FALSE,Georgetown,81,Hoyas,Georgetown Hoyas,Georgetown
+323500046,2012-12-15,2,2717,away,FALSE,Western Carolina,68,Catamounts,Western Carolina Catamounts,W Carolina
+323500025,2012-12-15,2,25,home,FALSE,California,64,Golden Bears,California Golden Bears,California
+323500025,2012-12-15,2,156,away,FALSE,Creighton,74,Bluejays,Creighton Bluejays,Creighton
+323500167,2012-12-15,2,167,home,FALSE,New Mexico,73,Lobos,New Mexico Lobos,New Mexico
+323500167,2012-12-15,2,166,away,FALSE,New Mexico State,58,Aggies,New Mexico State Aggies,New Mexico St
+323500021,2012-12-15,2,21,home,FALSE,San Diego State,72,Aztecs,San Diego State Aztecs,San Diego St
+323500021,2012-12-15,2,301,away,FALSE,San Diego,56,Toreros,San Diego Toreros,San Diego
+323500127,2012-12-15,2,127,home,FALSE,Michigan State,92,Spartans,Michigan State Spartans,Michigan St
+323500127,2012-12-15,2,2657,away,FALSE,Tuskegee,56,Golden Tigers,Tuskegee Golden Tigers,Tuskegee
+323500153,2012-12-15,2,153,home,FALSE,North Carolina,93,Tar Heels,North Carolina Tar Heels,North Carolina
+323500153,2012-12-15,2,151,away,FALSE,East Carolina,87,Pirates,East Carolina Pirates,East Carolina
+323500152,2012-12-15,2,152,home,FALSE,NC State,84,Wolfpack,NC State Wolfpack,NC State
+323500152,2012-12-15,2,2450,away,FALSE,Norfolk State,62,Spartans,Norfolk State Spartans,Norfolk St

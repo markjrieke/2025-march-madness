@@ -1,0 +1,33 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280680150,2008-03-08,2,150,home,FALSE,Duke,68,Blue Devils,Duke Blue Devils,Duke
+280680150,2008-03-08,2,153,away,FALSE,North Carolina,76,Tar Heels,North Carolina Tar Heels,North Carolina
+280680235,2008-03-08,2,235,home,FALSE,Memphis,94,Tigers,Memphis Tigers,Memphis
+280680235,2008-03-08,2,5,away,FALSE,UAB,56,Blazers,UAB Blazers,UAB
+280680026,2008-03-08,2,26,home,FALSE,UCLA,81,Bruins,UCLA Bruins,UCLA
+280680026,2008-03-08,2,25,away,FALSE,California,80,Golden Bears,California Golden Bears,California
+280680245,2008-03-08,2,245,home,FALSE,Texas A&M,55,Aggies,Texas A&M Aggies,Texas A&M
+280680245,2008-03-08,2,2305,away,FALSE,Kansas,72,Jayhawks,Kansas Jayhawks,Kansas
+280680030,2008-03-08,2,30,home,FALSE,USC,77,Trojans,USC Trojans,USC
+280680030,2008-03-08,2,24,away,FALSE,Stanford,64,Cardinal,Stanford Cardinal,Stanford
+280682752,2008-03-08,2,2752,home,FALSE,Xavier,86,Musketeers,Xavier Musketeers,Xavier
+280682752,2008-03-08,2,257,away,FALSE,Richmond,61,Spiders,Richmond Spiders,Richmond
+280680077,2008-03-08,2,77,home,FALSE,Northwestern,52,Wildcats,Northwestern Wildcats,Northwestern
+280680077,2008-03-08,2,275,away,FALSE,Wisconsin,65,Badgers,Wisconsin Badgers,Wisconsin
+280680046,2008-03-08,2,46,home,FALSE,Georgetown,55,Hoyas,Georgetown Hoyas,Georgetown
+280680046,2008-03-08,2,97,away,FALSE,Louisville,52,Cardinals,Louisville Cardinals,Louisville
+280682086,2008-03-08,2,2086,home,TRUE,Butler,66,Bulldogs,Butler Bulldogs,Butler
+280682086,2008-03-08,2,82,away,TRUE,UIC,50,Flames,UIC Flames,UIC
+280680333,2008-03-08,3,333,home,FALSE,Alabama,78,Crimson Tide,Alabama Crimson Tide,Alabama
+280680333,2008-03-08,3,238,away,FALSE,Vanderbilt,73,Commodores,Vanderbilt Commodores,Vanderbilt
+280680058,2008-03-08,2,58,home,FALSE,South Florida,60,Bulls,South Florida Bulls,South Florida
+280680058,2008-03-08,2,87,away,FALSE,Notre Dame,67,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+280682181,2008-03-08,2,2181,home,TRUE,Drake,75,Bulldogs,Drake Bulldogs,Drake
+280682181,2008-03-08,2,156,away,TRUE,Creighton,67,Bluejays,Creighton Bluejays,Creighton
+280680183,2008-03-08,2,183,home,FALSE,Syracuse,87,Orange,Syracuse Orange,Syracuse
+280680183,2008-03-08,2,269,away,FALSE,Marquette,72,Golden Eagles,Marquette Golden Eagles,Marquette
+280680265,2008-03-08,4,265,home,FALSE,Washington State,76,Cougars,Washington State Cougars,Washington St
+280680265,2008-03-08,4,264,away,FALSE,Washington,73,Huskies,Washington Huskies,Washington
+280682166,2008-03-08,2,2166,home,TRUE,Davidson,82,Wildcats,Davidson Wildcats,Davidson
+280682166,2008-03-08,2,2747,away,TRUE,Wofford,49,Terriers,Wofford Terriers,Wofford
+280680041,2008-03-08,0,41,home,FALSE,UConn,0,Huskies,UConn Huskies,UConn
+280680041,2008-03-08,0,2132,away,FALSE,Cincinnati,0,Bearcats,Cincinnati Bearcats,Cincinnati

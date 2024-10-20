@@ -1,0 +1,19 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401082683,2019-01-26,2,150,home,FALSE,Duke,66,Blue Devils,Duke Blue Devils,Duke
+401082683,2019-01-26,2,59,away,FALSE,Georgia Tech,53,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+401082771,2019-01-26,2,87,home,FALSE,Notre Dame,55,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401082771,2019-01-26,2,258,away,FALSE,Virginia,82,Cavaliers,Virginia Cavaliers,Virginia
+401082753,2019-01-26,2,259,home,FALSE,Virginia Tech,78,Hokies,Virginia Tech Hokies,Virginia Tech
+401082753,2019-01-26,2,183,away,FALSE,Syracuse,56,Orange,Syracuse Orange,Syracuse
+401083260,2019-01-26,2,2752,home,FALSE,Xavier,82,Musketeers,Xavier Musketeers,Xavier
+401083260,2019-01-26,2,269,away,FALSE,Marquette,87,Golden Eagles,Marquette Golden Eagles,Marquette
+401082350,2019-01-26,2,120,home,TRUE,Maryland,67,Terrapins,Maryland Terrapins,Maryland
+401082350,2019-01-26,2,356,away,TRUE,Illinois,78,Fighting Illini,Illinois Fighting Illini,Illinois
+401083077,2019-01-26,2,344,home,FALSE,Mississippi State,92,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401083077,2019-01-26,2,2,away,FALSE,Auburn,84,Tigers,Auburn Tigers,Auburn
+401082657,2019-01-26,2,152,home,FALSE,NC State,69,Wolfpack,NC State Wolfpack,NC State
+401082657,2019-01-26,2,228,away,FALSE,Clemson,67,Tigers,Clemson Tigers,Clemson
+401082815,2019-01-26,2,97,home,FALSE,Louisville,66,Cardinals,Louisville Cardinals,Louisville
+401082815,2019-01-26,2,221,away,FALSE,Pittsburgh,51,Panthers,Pittsburgh Panthers,Pitt
+401083054,2019-01-26,3,142,home,FALSE,Missouri,80,Tigers,Missouri Tigers,Missouri
+401083054,2019-01-26,3,99,away,FALSE,LSU,86,Tigers,LSU Tigers,LSU

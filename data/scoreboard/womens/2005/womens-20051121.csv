@@ -1,0 +1,73 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253250228,2005-11-21,2,228,home,FALSE,Clemson,66,Tigers,Clemson Tigers,Clemson
+253250228,2005-11-21,2,145,away,FALSE,Ole Miss,70,Rebels,Ole Miss Rebels,Ole Miss
+253252377,2005-11-21,2,2377,home,FALSE,McNeese,93,Cowgirls,McNeese Cowgirls,McNeese
+253252377,2005-11-21,2,2056,away,FALSE,Belhaven,68,Blazers,Belhaven Blazers,Belhaven
+253252633,2005-11-21,2,2633,home,FALSE,Tennessee,92,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+253252633,2005-11-21,2,236,away,FALSE,Chattanooga,50,Mocs,Chattanooga Mocs,Chattanooga
+253252514,2005-11-21,2,2514,home,FALSE,Quinnipiac,61,Bobcats,Quinnipiac Bobcats,Quinnipiac
+253252514,2005-11-21,2,2619,away,FALSE,Stony Brook,87,Seawolves,Stony Brook Seawolves,Stony Brook
+253252507,2005-11-21,2,2507,home,FALSE,Providence,74,Friars,Providence Friars,Providence
+253252507,2005-11-21,2,43,away,FALSE,Yale,53,Bulldogs,Yale Bulldogs,Yale
+253252413,2005-11-21,2,2413,home,FALSE,Morehead State,66,Eagles,Morehead State Eagles,Morehead St
+253252413,2005-11-21,2,232,away,FALSE,Charleston,50,Cougars,Charleston Cougars,Charleston
+253252382,2005-11-21,2,2382,home,FALSE,Mercer,66,Bears,Mercer Bears,Mercer
+253252382,2005-11-21,2,13,away,FALSE,Cal Poly,74,Mustangs,Cal Poly Mustangs,Cal Poly
+253252244,2005-11-21,2,2244,home,FALSE,George Mason,71,Patriots,George Mason Patriots,George Mason
+253252244,2005-11-21,2,47,away,FALSE,Howard,49,Bison,Howard Bison,Howard
+253252127,2005-11-21,2,2127,home,FALSE,Charleston Southern,68,Buccaneers,Charleston Southern Buccaneers,Charleston So
+253252127,2005-11-21,2,2747,away,FALSE,Wofford,61,Terriers,Wofford Terriers,Wofford
+253250194,2005-11-21,2,194,home,FALSE,Ohio State,85,Buckeyes,Ohio State Buckeyes,Ohio State
+253250194,2005-11-21,2,2198,away,FALSE,Eastern Kentucky,38,Colonels,Eastern Kentucky Colonels,E Kentucky
+253250189,2005-11-21,2,189,home,FALSE,Bowling Green,77,Falcons,Bowling Green Falcons,Bowling Green
+253250189,2005-11-21,2,2598,away,FALSE,St. Francis (PA),55,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+253250153,2005-11-21,2,153,home,FALSE,North Carolina,87,Tar Heels,North Carolina Tar Heels,North Carolina
+253250153,2005-11-21,2,2335,away,FALSE,Liberty,36,Flames,Liberty Flames,Liberty
+253250139,2005-11-21,2,139,home,FALSE,Saint Louis,60,Billikens,Saint Louis Billikens,Saint Louis
+253250139,2005-11-21,2,2692,away,FALSE,Weber State,70,Wildcats,Weber State Wildcats,Weber St
+253250104,2005-11-21,2,104,home,FALSE,Boston University,73,Terriers,Boston University Terriers,Boston U
+253250104,2005-11-21,2,111,away,FALSE,Northeastern,46,Huskies,Northeastern Huskies,Northeastern
+253252466,2005-11-21,2,2466,home,FALSE,Northwestern State,84,Lady Demons,Northwestern State Lady Demons,N'Western St
+253252466,2005-11-21,2,2837,away,FALSE,Texas A&M-Commerce,74,Lions,Texas A&M-Commerce Lions,Texas A&M-Comm
+253252628,2005-11-21,2,2628,home,FALSE,TCU,51,Horned Frogs,TCU Horned Frogs,TCU
+253252628,2005-11-21,2,61,away,FALSE,Georgia,80,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+253252617,2005-11-21,2,2617,home,FALSE,Stephen F. Austin,82,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
+253252617,2005-11-21,2,2016,away,FALSE,Alcorn State,58,Lady Braves,Alcorn State Lady Braves,Alcorn St
+253252130,2005-11-21,2,2130,home,FALSE,Chicago State,79,Cougars,Chicago State Cougars,Chicago St
+253252130,2005-11-21,2,2168,away,FALSE,Dayton,65,Flyers,Dayton Flyers,Dayton
+253250333,2005-11-21,2,333,home,FALSE,Alabama,77,Crimson Tide,Alabama Crimson Tide,Alabama
+253250333,2005-11-21,2,2541,away,FALSE,Santa Clara,71,Broncos,Santa Clara Broncos,Santa Clara
+253250251,2005-11-21,2,251,home,FALSE,Texas,83,Longhorns,Texas Longhorns,Texas
+253250251,2005-11-21,2,2534,away,FALSE,Sam Houston,33,Bearkats,Sam Houston Bearkats,Sam Houston
+253250245,2005-11-21,2,245,home,FALSE,Texas A&M,77,Aggies,Texas A&M Aggies,Texas A&M
+253250245,2005-11-21,2,2612,away,FALSE,Saint Peter's,36,Peacocks,Saint Peter's Peacocks,Saint Peter's
+253250242,2005-11-21,2,242,home,FALSE,Rice,73,Owls,Rice Owls,Rice
+253250242,2005-11-21,2,2641,away,FALSE,Texas Tech,70,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+253250068,2005-11-21,2,68,home,FALSE,Boise State,80,Broncos,Boise State Broncos,Boise St
+253250068,2005-11-21,2,16,away,FALSE,Sacramento State,52,Hornets,Sacramento State Hornets,Sacramento St
+253250038,2005-11-21,2,38,home,FALSE,Colorado,50,Buffaloes,Colorado Buffaloes,Colorado
+253250038,2005-11-21,2,2751,away,FALSE,Wyoming,66,Cowgirls,Wyoming Cowgirls,Wyoming
+253250008,2005-11-21,2,8,home,FALSE,Arkansas,99,Razorbacks,Arkansas Razorbacks,Arkansas
+253250008,2005-11-21,2,235,away,FALSE,Memphis,53,Tigers,Memphis Tigers,Memphis
+253250006,2005-11-21,2,6,home,FALSE,South Alabama,84,Jaguars,South Alabama Jaguars,South Alabama
+253250006,2005-11-21,2,2572,away,FALSE,Southern Miss,72,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+253250003,2005-11-21,2,3,home,FALSE,Birmingham-Southern,49,Panthers,Birmingham-Southern Panthers,Birm-Southern
+253250003,2005-11-21,2,2535,away,FALSE,Samford,54,Bulldogs,Samford Bulldogs,Samford
+253250198,2005-11-21,2,198,home,FALSE,Oral Roberts,96,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+253250198,2005-11-21,2,2296,away,FALSE,Jackson State,70,Lady Tigers,Jackson State Lady Tigers,Jackson St
+253250158,2005-11-21,2,158,home,FALSE,Nebraska,84,Cornhuskers,Nebraska Cornhuskers,Nebraska
+253250158,2005-11-21,2,156,away,FALSE,Creighton,50,Bluejays,Creighton Bluejays,Creighton
+253250071,2005-11-21,4,71,home,FALSE,Bradley,79,Braves,Bradley Braves,Bradley
+253250071,2005-11-21,4,2674,away,FALSE,Valparaiso,71,Beacons,Valparaiso Beacons,Valparaiso
+253250292,2005-11-21,2,292,home,FALSE,UT Rio Grande Valley,66,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+253250292,2005-11-21,2,2504,away,FALSE,Prairie View A&M,67,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
+253250253,2005-11-21,2,253,home,FALSE,Southern Utah,64,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+253250253,2005-11-21,2,2714,away,FALSE,Western Colorado,58,Mountaineers,Western Colorado Mountaineers,Western St
+253252463,2005-11-21,2,2463,home,FALSE,Cal State Northridge,62,Matadors,Cal State Northridge Matadors,CSU Northridge
+253252463,2005-11-21,2,23,away,FALSE,San José State,76,Spartans,San José State Spartans,San José St
+253250300,2005-11-21,2,300,home,FALSE,UC Irvine,73,Anteaters,UC Irvine Anteaters,UC Irvine
+253250300,2005-11-21,2,2351,away,FALSE,Loyola Marymount,93,Lions,Loyola Marymount Lions,LMU
+253250278,2005-11-21,2,278,home,FALSE,Fresno State,91,Bulldogs,Fresno State Bulldogs,Fresno St
+253250278,2005-11-21,2,2640,away,FALSE,Texas Southern,62,Tigers,Texas Southern Tigers,Texas Southern
+253250062,2005-11-21,2,62,home,FALSE,Hawai'i,64,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
+253250062,2005-11-21,2,2197,away,FALSE,Eastern Illinois,58,Panthers,Eastern Illinois Panthers,E Illinois

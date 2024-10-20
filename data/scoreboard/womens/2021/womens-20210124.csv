@@ -1,0 +1,27 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401260499,2021-01-24,4,154,home,FALSE,Wake Forest,63,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+401260499,2021-01-24,4,97,away,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
+401260496,2021-01-24,4,152,home,FALSE,NC State,89,Wolfpack,NC State Wolfpack,NC State
+401260496,2021-01-24,4,259,away,FALSE,Virginia Tech,87,Hokies,Virginia Tech Hokies,Virginia Tech
+401261341,2021-01-24,4,99,home,FALSE,LSU,65,Tigers,LSU Tigers,LSU
+401261341,2021-01-24,4,2579,away,FALSE,South Carolina,69,Gamecocks,South Carolina Gamecocks,South Carolina
+401263218,2021-01-24,4,24,home,FALSE,Stanford,86,Cardinal,Stanford Cardinal,Stanford
+401263218,2021-01-24,4,30,away,FALSE,USC,59,Trojans,USC Trojans,USC
+401261340,2021-01-24,4,142,home,FALSE,Missouri,66,Tigers,Missouri Tigers,Missouri
+401261340,2021-01-24,4,245,away,FALSE,Texas A&M,70,Aggies,Texas A&M Aggies,Texas A&M
+401278394,2021-01-24,4,2633,home,FALSE,Tennessee,70,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401278394,2021-01-24,4,96,away,FALSE,Kentucky,53,Wildcats,Kentucky Wildcats,Kentucky
+401263252,2021-01-24,4,2483,home,FALSE,Oregon,69,Ducks,Oregon Ducks,Oregon
+401263252,2021-01-24,4,264,away,FALSE,Washington,52,Huskies,Washington Huskies,Washington
+401264863,2021-01-24,4,77,home,FALSE,Northwestern,61,Wildcats,Northwestern Wildcats,Northwestern
+401264863,2021-01-24,4,84,away,FALSE,Indiana,74,Hoosiers,Indiana Hoosiers,Indiana
+401279773,2021-01-24,4,2501,home,FALSE,Portland,61,Pilots,Portland Pilots,Portland
+401279773,2021-01-24,4,2250,away,FALSE,Gonzaga,79,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401260494,2021-01-24,5,228,home,FALSE,Clemson,86,Tigers,Clemson Tigers,Clemson
+401260494,2021-01-24,5,183,away,FALSE,Syracuse,77,Orange,Syracuse Orange,Syracuse
+401263231,2021-01-24,0,25,home,FALSE,California,0,Golden Bears,California Golden Bears,California
+401263231,2021-01-24,0,26,away,FALSE,UCLA,0,Bruins,UCLA Bruins,UCLA
+401263165,2021-01-24,0,12,home,FALSE,Arizona,0,Wildcats,Arizona Wildcats,Arizona
+401263165,2021-01-24,0,38,away,FALSE,Colorado,0,Buffaloes,Colorado Buffaloes,Colorado
+401264866,2021-01-24,0,130,home,FALSE,Michigan,0,Wolverines,Michigan Wolverines,Michigan
+401264866,2021-01-24,0,2509,away,FALSE,Purdue,0,Boilermakers,Purdue Boilermakers,Purdue

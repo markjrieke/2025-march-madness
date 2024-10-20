@@ -1,0 +1,9 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283270041,2008-11-22,2,41,home,FALSE,UConn,91,Huskies,UConn Huskies,UConn
+283270041,2008-11-22,2,227,away,FALSE,Rhode Island,43,Rams,Rhode Island Rams,Rhode Island
+283272582,2008-11-22,2,2582,home,TRUE,Southern,52,Jaguars,Southern Jaguars,Southern
+283272582,2008-11-22,2,150,away,TRUE,Duke,93,Blue Devils,Duke Blue Devils,Duke
+283272752,2008-11-22,2,2752,home,FALSE,Xavier,55,Musketeers,Xavier Musketeers,Xavier
+283272752,2008-11-22,2,97,away,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
+283270197,2008-11-22,2,197,home,FALSE,Oklahoma State,91,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+283270197,2008-11-22,2,2029,away,FALSE,Arkansas-Pine Bluff,45,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff

@@ -1,0 +1,53 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400945513,2017-03-05,4,2514,home,TRUE,Quinnipiac,64,Bobcats,Quinnipiac Bobcats,Quinnipiac
+400945513,2017-03-05,4,314,away,TRUE,Iona,59,Gaels,Iona Gaels,Iona
+400945469,2017-03-05,4,2168,home,TRUE,Dayton,70,Flyers,Dayton Flyers,Dayton
+400945469,2017-03-05,4,2184,away,TRUE,Duquesne,56,Dukes,Duquesne Dukes,Duquesne
+400944535,2017-03-05,4,2174,home,TRUE,Detroit Mercy,70,Titans,Detroit Mercy Titans,Detroit Mercy
+400944535,2017-03-05,4,325,away,TRUE,Cleveland State,56,Vikings,Cleveland State Vikings,Cleveland St
+400945530,2017-03-05,4,156,home,TRUE,Creighton,64,Bluejays,Creighton Bluejays,Creighton
+400945530,2017-03-05,4,2086,away,TRUE,Butler,55,Bulldogs,Butler Bulldogs,Butler
+400945468,2017-03-05,4,87,home,TRUE,Notre Dame,84,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400945468,2017-03-05,4,150,away,TRUE,Duke,61,Blue Devils,Duke Blue Devils,Duke
+400945395,2017-03-05,4,236,home,TRUE,Chattanooga,61,Mocs,Chattanooga Mocs,Chattanooga
+400945395,2017-03-05,4,2382,away,TRUE,Mercer,59,Bears,Mercer Bears,Mercer
+400944617,2017-03-05,4,2803,home,FALSE,Bryant,59,Bulldogs,Bryant Bulldogs,Bryant
+400944617,2017-03-05,4,116,away,FALSE,Mount St. Mary's,47,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+400944615,2017-03-05,4,2529,home,FALSE,Sacred Heart,90,Pioneers,Sacred Heart Pioneers,Sacred Heart
+400944615,2017-03-05,4,2597,away,FALSE,St. Francis Brooklyn,69,Terriers,St. Francis Brooklyn Terriers,St Francis BK
+400944614,2017-03-05,4,2523,home,FALSE,Robert Morris,68,Colonials,Robert Morris Colonials,Robert Morris
+400944614,2017-03-05,4,161,away,FALSE,Fairleigh Dickinson,35,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+400944433,2017-03-05,4,233,home,TRUE,South Dakota,58,Coyotes,South Dakota Coyotes,South Dakota
+400944433,2017-03-05,4,2437,away,TRUE,Omaha,64,Mavericks,Omaha Mavericks,Omaha
+400945506,2017-03-05,4,2520,home,TRUE,Rider,49,Broncs,Rider Broncs,Rider
+400945506,2017-03-05,4,2217,away,TRUE,Fairfield,36,Stags,Fairfield Stags,Fairfield
+400945514,2017-03-05,4,160,home,TRUE,New Hampshire,52,Wildcats,New Hampshire Wildcats,New Hampshire
+400945514,2017-03-05,4,311,away,TRUE,Maine,61,Black Bears,Maine Black Bears,Maine
+400944616,2017-03-05,4,2598,home,FALSE,St. Francis (PA),57,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+400944616,2017-03-05,4,2115,away,FALSE,Central Connecticut,65,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+400945512,2017-03-05,4,239,home,TRUE,Baylor,88,Bears,Baylor Bears,Baylor
+400945512,2017-03-05,4,2306,away,TRUE,Kansas State,71,Wildcats,Kansas State Wildcats,Kansas St
+400944534,2017-03-05,4,2473,home,TRUE,Oakland,60,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+400944534,2017-03-05,4,270,away,TRUE,Milwaukee,82,Panthers,Milwaukee Panthers,Milwaukee
+400945531,2017-03-05,4,2579,home,TRUE,South Carolina,59,Gamecocks,South Carolina Gamecocks,South Carolina
+400945531,2017-03-05,4,344,away,TRUE,Mississippi State,49,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400944558,2017-03-05,4,269,home,TRUE,Marquette,80,Golden Eagles,Marquette Golden Eagles,Marquette
+400944558,2017-03-05,4,46,away,TRUE,Georgetown,66,Hoyas,Georgetown Hoyas,Georgetown
+400944434,2017-03-05,4,2571,home,TRUE,South Dakota State,65,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+400944434,2017-03-05,4,198,away,TRUE,Oral Roberts,50,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+400945576,2017-03-05,4,399,home,TRUE,UAlbany,67,Great Danes,UAlbany Great Danes,UAlbany
+400945576,2017-03-05,4,42,away,TRUE,Hartford,65,Hawks,Hartford Hawks,Hartford
+400945615,2017-03-05,4,251,home,TRUE,Texas,59,Longhorns,Texas Longhorns,Texas
+400945615,2017-03-05,4,277,away,TRUE,West Virginia,62,Mountaineers,West Virginia Mountaineers,West Virginia
+400945508,2017-03-05,4,41,home,TRUE,UConn,78,Huskies,UConn Huskies,UConn
+400945508,2017-03-05,4,2116,away,TRUE,UCF,56,Knights,UCF Knights,UCF
+400945573,2017-03-05,4,305,home,TRUE,DePaul,92,Blue Demons,DePaul Blue Demons,DePaul
+400945573,2017-03-05,4,2550,away,TRUE,Seton Hall,60,Pirates,Seton Hall Pirates,Seton Hall
+400945548,2017-03-05,4,120,home,TRUE,Maryland,74,Terrapins,Maryland Terrapins,Maryland
+400945548,2017-03-05,4,2509,away,TRUE,Purdue,64,Boilermakers,Purdue Boilermakers,Purdue
+400945575,2017-03-05,4,218,home,TRUE,Temple,58,Owls,Temple Owls,Temple
+400945575,2017-03-05,4,58,away,TRUE,South Florida,63,Bulls,South Florida Bulls,South Florida
+400945501,2017-03-05,4,204,home,TRUE,Oregon State,43,Beavers,Oregon State Beavers,Oregon St
+400945501,2017-03-05,4,24,away,TRUE,Stanford,48,Cardinal,Stanford Cardinal,Stanford
+400944559,2017-03-05,4,222,home,TRUE,Villanova,40,Wildcats,Villanova Wildcats,Villanova
+400944559,2017-03-05,4,2599,away,TRUE,St. John's,56,Red Storm,St. John's Red Storm,St John's

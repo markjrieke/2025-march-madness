@@ -1,0 +1,33 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401527995,2023-03-18,4,84,home,FALSE,Indiana,77,Hoosiers,Indiana Hoosiers,Indiana
+401527995,2023-03-18,4,2635,away,FALSE,Tennessee Tech,47,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
+401527989,2023-03-18,4,2633,home,FALSE,Tennessee,95,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401527989,2023-03-18,4,139,away,FALSE,Saint Louis,50,Billikens,Saint Louis Billikens,Saint Louis
+401527991,2023-03-18,4,194,home,FALSE,Ohio State,80,Buckeyes,Ohio State Buckeyes,Ohio State
+401527991,2023-03-18,4,256,away,FALSE,James Madison,66,Dukes,James Madison Dukes,James Madison
+401527994,2023-03-18,4,197,home,TRUE,Oklahoma State,61,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+401527994,2023-03-18,4,2390,away,TRUE,Miami,62,Hurricanes,Miami Hurricanes,Miami
+401527992,2023-03-18,4,265,home,TRUE,Washington State,63,Cougars,Washington State Cougars,Washington St
+401527992,2023-03-18,4,526,away,TRUE,Florida Gulf Coast,74,Eagles,Florida Gulf Coast Eagles,FGCU
+401527987,2023-03-18,4,41,home,FALSE,UConn,95,Huskies,UConn Huskies,UConn
+401527987,2023-03-18,4,261,away,FALSE,Vermont,52,Catamounts,Vermont Catamounts,Vermont
+401527990,2023-03-18,4,66,home,TRUE,Iowa State,73,Cyclones,Iowa State Cyclones,Iowa State
+401527990,2023-03-18,4,2649,away,TRUE,Toledo,80,Rockets,Toledo Rockets,Toledo
+401527988,2023-03-18,4,153,home,TRUE,North Carolina,61,Tar Heels,North Carolina Tar Heels,North Carolina
+401527988,2023-03-18,4,2599,away,TRUE,St. John's,59,Red Storm,St. John's Red Storm,St John's
+401527993,2023-03-18,4,222,home,FALSE,Villanova,76,Wildcats,Villanova Wildcats,Villanova
+401527993,2023-03-18,4,325,away,FALSE,Cleveland State,59,Vikings,Cleveland State Vikings,Cleveland St
+401527986,2023-03-18,4,239,home,TRUE,Baylor,78,Bears,Baylor Bears,Baylor
+401527986,2023-03-18,4,333,away,TRUE,Alabama,74,Crimson Tide,Alabama Crimson Tide,Alabama
+401527982,2023-03-18,4,38,home,TRUE,Colorado,82,Buffaloes,Colorado Buffaloes,Colorado
+401527982,2023-03-18,4,2393,away,TRUE,Middle Tennessee,60,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+401527984,2023-03-18,4,97,home,TRUE,Louisville,83,Cardinals,Louisville Cardinals,Louisville
+401527984,2023-03-18,4,2181,away,TRUE,Drake,81,Bulldogs,Drake Bulldogs,Drake
+401527996,2023-03-18,4,201,home,TRUE,Oklahoma,85,Sooners,Oklahoma Sooners,Oklahoma
+401527996,2023-03-18,4,2501,away,TRUE,Portland,63,Pilots,Portland Pilots,Portland
+401527983,2023-03-18,4,150,home,FALSE,Duke,89,Blue Devils,Duke Blue Devils,Duke
+401527983,2023-03-18,4,314,away,FALSE,Iona,49,Gaels,Iona Gaels,Iona
+401527985,2023-03-18,4,251,home,FALSE,Texas,79,Longhorns,Texas Longhorns,Texas
+401527985,2023-03-18,4,151,away,FALSE,East Carolina,40,Pirates,East Carolina Pirates,East Carolina
+401527997,2023-03-18,4,26,home,FALSE,UCLA,67,Bruins,UCLA Bruins,UCLA
+401527997,2023-03-18,4,16,away,FALSE,Sacramento State,45,Hornets,Sacramento State Hornets,Sacramento St

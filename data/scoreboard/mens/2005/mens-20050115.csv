@@ -1,0 +1,37 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250150077,2005-01-15,2,77,home,FALSE,Northwestern,66,Wildcats,Northwestern Wildcats,Northwestern
+250150077,2005-01-15,2,356,away,FALSE,Illinois,78,Fighting Illini,Illinois Fighting Illini,Illinois
+250150038,2005-01-15,2,38,home,FALSE,Colorado,61,Buffaloes,Colorado Buffaloes,Colorado
+250150038,2005-01-15,2,2305,away,FALSE,Kansas,76,Jayhawks,Kansas Jayhawks,Kansas
+250150154,2005-01-15,2,154,home,FALSE,Wake Forest,95,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+250150154,2005-01-15,2,153,away,FALSE,North Carolina,82,Tar Heels,North Carolina Tar Heels,North Carolina
+250150197,2005-01-15,2,197,home,FALSE,Oklahoma State,83,Cowboys,Oklahoma State Cowboys,Oklahoma St
+250150197,2005-01-15,2,66,away,FALSE,Iowa State,73,Cyclones,Iowa State Cyclones,Iowa State
+250152507,2005-01-15,2,2507,home,FALSE,Providence,71,Friars,Providence Friars,Providence
+250152507,2005-01-15,2,183,away,FALSE,Syracuse,75,Orange,Syracuse Orange,Syracuse
+250150061,2005-01-15,2,61,home,FALSE,Georgia,55,Bulldogs,Georgia Bulldogs,Georgia
+250150061,2005-01-15,2,96,away,FALSE,Kentucky,76,Wildcats,Kentucky Wildcats,Kentucky
+250150158,2005-01-15,2,158,home,FALSE,Nebraska,53,Cornhuskers,Nebraska Cornhuskers,Nebraska
+250150158,2005-01-15,2,251,away,FALSE,Texas,63,Longhorns,Texas Longhorns,Texas
+250150344,2005-01-15,2,344,home,FALSE,Mississippi State,80,Bulldogs,Mississippi State Bulldogs,Mississippi St
+250150344,2005-01-15,2,8,away,FALSE,Arkansas,55,Razorbacks,Arkansas Razorbacks,Arkansas
+250150041,2005-01-15,2,41,home,FALSE,UConn,78,Huskies,UConn Huskies,UConn
+250150041,2005-01-15,2,164,away,FALSE,Rutgers,64,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+250150264,2005-01-15,2,264,home,FALSE,Washington,108,Huskies,Washington Huskies,Washington
+250150264,2005-01-15,2,204,away,FALSE,Oregon State,68,Beavers,Oregon State Beavers,Oregon St
+250152250,2005-01-15,2,2250,home,FALSE,Gonzaga,86,Bulldogs,Gonzaga Bulldogs,Gonzaga
+250152250,2005-01-15,2,2492,away,FALSE,Pepperdine,62,Waves,Pepperdine Waves,Pepperdine
+250150012,2005-01-15,2,12,home,FALSE,Arizona,76,Wildcats,Arizona Wildcats,Arizona
+250150012,2005-01-15,2,26,away,FALSE,UCLA,73,Bruins,UCLA Bruins,UCLA
+250152132,2005-01-15,2,2132,home,FALSE,Cincinnati,66,Bearcats,Cincinnati Bearcats,Cincinnati
+250152132,2005-01-15,2,97,away,FALSE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
+250150221,2005-01-15,2,221,home,FALSE,Pittsburgh,67,Panthers,Pittsburgh Panthers,Pitt
+250150221,2005-01-15,2,2550,away,FALSE,Seton Hall,63,Pirates,Seton Hall Pirates,Seton Hall
+250150045,2005-01-15,3,45,home,FALSE,George Washington,74,Revolutionaries,George Washington Revolutionaries,G Washington
+250150045,2005-01-15,3,113,away,FALSE,Massachusetts,76,Minutemen,Massachusetts Minutemen,UMass
+250150269,2005-01-15,2,269,home,FALSE,Marquette,66,Golden Eagles,Marquette Golden Eagles,Marquette
+250150269,2005-01-15,2,58,away,FALSE,South Florida,64,Bulls,South Florida Bulls,South Florida
+250152294,2005-01-15,2,2294,home,FALSE,Iowa,66,Hawkeyes,Iowa Hawkeyes,Iowa
+250152294,2005-01-15,2,135,away,FALSE,Minnesota,60,Golden Gophers,Minnesota Golden Gophers,Minnesota
+250150239,2005-01-15,2,239,home,FALSE,Baylor,61,Bears,Baylor Bears,Baylor
+250150239,2005-01-15,2,201,away,FALSE,Oklahoma,65,Sooners,Oklahoma Sooners,Oklahoma

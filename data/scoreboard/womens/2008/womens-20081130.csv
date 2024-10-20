@@ -1,0 +1,21 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283350041,2008-11-30,2,41,home,FALSE,UConn,106,Huskies,UConn Huskies,UConn
+283350041,2008-11-30,2,201,away,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
+283350062,2008-11-30,2,62,home,FALSE,Hawai'i,54,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
+283350062,2008-11-30,2,24,away,FALSE,Stanford,83,Cardinal,Stanford Cardinal,Stanford
+283352633,2008-11-30,2,2633,home,FALSE,Tennessee,88,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+283352633,2008-11-30,2,305,away,FALSE,DePaul,67,Blue Demons,DePaul Blue Demons,DePaul
+283352226,2008-11-30,2,2226,home,FALSE,Florida Atlantic,38,Owls,Florida Atlantic Owls,FAU
+283352226,2008-11-30,2,251,away,FALSE,Texas,87,Longhorns,Texas Longhorns,Texas
+283352229,2008-11-30,2,2229,home,FALSE,Florida International,52,Panthers,Florida International Panthers,FIU
+283352229,2008-11-30,2,2,away,FALSE,Auburn,63,Tigers,Auburn Tigers,Auburn
+283352250,2008-11-30,2,258,home,TRUE,Virginia,62,Cavaliers,Virginia Cavaliers,Virginia
+283352250,2008-11-30,2,2250,away,TRUE,Gonzaga,69,Bulldogs,Gonzaga Bulldogs,Gonzaga
+283352509,2008-11-30,2,2509,home,TRUE,Purdue,65,Boilermakers,Purdue Boilermakers,Purdue
+283352509,2008-11-30,2,2504,away,TRUE,Prairie View A&M,51,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
+283350194,2008-11-30,2,194,home,FALSE,Ohio State,76,Buckeyes,Ohio State Buckeyes,Ohio State
+283350194,2008-11-30,2,2168,away,FALSE,Dayton,61,Flyers,Dayton Flyers,Dayton
+283350295,2008-11-30,2,295,home,FALSE,Old Dominion,97,Monarchs,Old Dominion Monarchs,Old Dominion
+283350295,2008-11-30,2,2450,away,FALSE,Norfolk State,54,Spartans,Norfolk State Spartans,Norfolk St
+283350066,2008-11-30,2,66,home,TRUE,Iowa State,87,Cyclones,Iowa State Cyclones,Iowa State
+283350066,2008-11-30,2,21,away,TRUE,San Diego State,71,Aztecs,San Diego State Aztecs,San Diego St

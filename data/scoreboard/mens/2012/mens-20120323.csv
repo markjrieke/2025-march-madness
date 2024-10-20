@@ -1,0 +1,9 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320830239,2012-03-23,2,239,home,TRUE,Baylor,75,Bears,Baylor Bears,Baylor
+320830239,2012-03-23,2,2752,away,TRUE,Xavier,70,Musketeers,Xavier Musketeers,Xavier
+320830153,2012-03-23,3,153,home,TRUE,North Carolina,73,Tar Heels,North Carolina Tar Heels,North Carolina
+320830153,2012-03-23,3,195,away,TRUE,Ohio,65,Bobcats,Ohio Bobcats,Ohio
+320830096,2012-03-23,2,96,home,TRUE,Kentucky,102,Wildcats,Kentucky Wildcats,Kentucky
+320830096,2012-03-23,2,84,away,TRUE,Indiana,90,Hoosiers,Indiana Hoosiers,Indiana
+320832305,2012-03-23,2,2305,home,TRUE,Kansas,60,Jayhawks,Kansas Jayhawks,Kansas
+320832305,2012-03-23,2,152,away,TRUE,NC State,57,Wolfpack,NC State Wolfpack,NC State

@@ -1,0 +1,25 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283262540,2008-11-21,2,2540,home,FALSE,UC Santa Barbara,67,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+283262540,2008-11-21,2,153,away,FALSE,North Carolina,84,Tar Heels,North Carolina Tar Heels,North Carolina
+283260041,2008-11-21,2,41,home,TRUE,UConn,89,Huskies,UConn Huskies,UConn
+283260041,2008-11-21,2,2325,away,TRUE,La Salle,81,Explorers,La Salle Explorers,La Salle
+283260079,2008-11-21,2,79,home,TRUE,Southern Illinois,60,Salukis,Southern Illinois Salukis,S Illinois
+283260079,2008-11-21,2,26,away,TRUE,UCLA,77,Bruins,UCLA Bruins,UCLA
+283260221,2008-11-21,2,221,home,FALSE,Pittsburgh,86,Panthers,Pittsburgh Panthers,Pitt
+283260221,2008-11-21,2,2006,away,FALSE,Akron,67,Zips,Akron Zips,Akron
+283262351,2008-11-21,2,2351,home,FALSE,Loyola Marymount,54,Lions,Loyola Marymount Lions,LMU
+283262351,2008-11-21,2,87,away,FALSE,Notre Dame,65,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+283260130,2008-11-21,2,130,home,TRUE,Michigan,56,Wolverines,Michigan Wolverines,Michigan
+283260130,2008-11-21,2,150,away,TRUE,Duke,71,Blue Devils,Duke Blue Devils,Duke
+283262550,2008-11-21,2,2550,home,FALSE,Seton Hall,70,Pirates,Seton Hall Pirates,Seton Hall
+283262550,2008-11-21,2,235,away,FALSE,Memphis,84,Tigers,Memphis Tigers,Memphis
+283262393,2008-11-21,2,2393,home,FALSE,Middle Tennessee,66,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+283262393,2008-11-21,2,2633,away,FALSE,Tennessee,76,Volunteers,Tennessee Volunteers,Tennessee
+283262390,2008-11-21,2,2390,home,TRUE,Miami,70,Hurricanes,Miami Hurricanes,Miami
+283262390,2008-11-21,2,2572,away,TRUE,Southern Miss,60,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
+283260030,2008-11-21,2,30,home,FALSE,USC,73,Trojans,USC Trojans,USC
+283260030,2008-11-21,2,236,away,FALSE,Chattanooga,46,Mocs,Chattanooga Mocs,Chattanooga
+283262166,2008-11-21,2,2166,home,FALSE,Davidson,97,Wildcats,Davidson Wildcats,Davidson
+283262166,2008-11-21,2,2737,away,FALSE,Winthrop,70,Eagles,Winthrop Eagles,Winthrop
+283260275,2008-11-21,3,275,home,TRUE,Wisconsin,60,Badgers,Wisconsin Badgers,Wisconsin
+283260275,2008-11-21,3,314,away,TRUE,Iona,58,Gaels,Iona Gaels,Iona

@@ -1,0 +1,29 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303310041,2010-11-27,2,41,home,FALSE,UConn,81,Huskies,UConn Huskies,UConn
+303310041,2010-11-27,2,2329,away,FALSE,Lehigh,38,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+303312752,2010-11-27,2,2752,home,FALSE,Xavier,72,Musketeers,Xavier Musketeers,Xavier
+303312752,2010-11-27,2,2169,away,FALSE,Delaware State,41,Hornets,Delaware State Hornets,Delaware St
+303312429,2010-11-27,2,2429,home,FALSE,Charlotte,55,49ers,Charlotte 49ers,Charlotte
+303312429,2010-11-27,2,150,away,FALSE,Duke,61,Blue Devils,Duke Blue Devils,Duke
+303310245,2010-11-27,2,245,home,TRUE,Texas A&M,67,Aggies,Texas A&M Aggies,Texas A&M
+303310245,2010-11-27,2,130,away,TRUE,Michigan,49,Wolverines,Michigan Wolverines,Michigan
+303312572,2010-11-27,2,2572,home,FALSE,Southern Miss,60,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+303312572,2010-11-27,2,96,away,FALSE,Kentucky,79,Wildcats,Kentucky Wildcats,Kentucky
+303312633,2010-11-27,2,2633,home,TRUE,Tennessee,58,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+303312633,2010-11-27,2,46,away,TRUE,Georgetown,69,Hoyas,Georgetown Hoyas,Georgetown
+303310277,2010-11-27,2,277,home,TRUE,West Virginia,64,Mountaineers,West Virginia Mountaineers,West Virginia
+303310277,2010-11-27,2,66,away,TRUE,Iowa State,53,Cyclones,Iowa State Cyclones,Iowa State
+303310201,2010-11-27,2,201,home,FALSE,Oklahoma,84,Sooners,Oklahoma Sooners,Oklahoma
+303310201,2010-11-27,2,2241,away,FALSE,Gardner-Webb,75,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+303310153,2010-11-27,2,153,home,TRUE,North Carolina,87,Tar Heels,North Carolina Tar Heels,North Carolina
+303310153,2010-11-27,2,356,away,TRUE,Illinois,58,Fighting Illini,Illinois Fighting Illini,Illinois
+303310052,2010-11-27,2,52,home,TRUE,Florida State,65,Seminoles,Florida State Seminoles,Florida St
+303310052,2010-11-27,2,9,away,TRUE,Arizona State,55,Sun Devils,Arizona State Sun Devils,Arizona St
+303310087,2010-11-27,2,87,home,FALSE,Notre Dame,92,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+303310087,2010-11-27,2,154,away,FALSE,Wake Forest,69,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+303312351,2010-11-27,2,2351,home,TRUE,Loyola Marymount,45,Lions,Loyola Marymount Lions,LMU
+303312351,2010-11-27,2,61,away,TRUE,Georgia,76,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+303310120,2010-11-27,2,120,home,TRUE,Maryland,82,Terrapins,Maryland Terrapins,Maryland
+303310120,2010-11-27,2,113,away,TRUE,Massachusetts,50,Minutewomen,Massachusetts Minutewomen,UMass
+303310257,2010-11-27,2,257,home,FALSE,Richmond,52,Spiders,Richmond Spiders,Richmond
+303310257,2010-11-27,2,127,away,FALSE,Michigan State,76,Spartans,Michigan State Spartans,Michigan St

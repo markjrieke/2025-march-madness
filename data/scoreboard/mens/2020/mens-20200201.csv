@@ -1,0 +1,43 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401169725,2020-02-01,2,239,home,FALSE,Baylor,68,Bears,Baylor Bears,Baylor
+401169725,2020-02-01,2,2628,away,FALSE,TCU,52,Horned Frogs,TCU Horned Frogs,TCU
+401175264,2020-02-01,2,2539,home,FALSE,San Francisco,79,Dons,San Francisco Dons,San Francisco
+401175264,2020-02-01,2,2250,away,FALSE,Gonzaga,83,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401169726,2020-02-01,2,2305,home,FALSE,Kansas,78,Jayhawks,Kansas Jayhawks,Kansas
+401169726,2020-02-01,2,2641,away,FALSE,Texas Tech,75,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401173765,2020-02-01,2,21,home,FALSE,San Diego State,80,Aztecs,San Diego State Aztecs,San Diego St
+401173765,2020-02-01,2,328,away,FALSE,Utah State,68,Aggies,Utah State Aggies,Utah State
+401168525,2020-02-01,2,259,home,FALSE,Virginia Tech,63,Hokies,Virginia Tech Hokies,Virginia Tech
+401168525,2020-02-01,2,52,away,FALSE,Florida State,74,Seminoles,Florida State Seminoles,Florida St
+401168513,2020-02-01,2,152,home,FALSE,NC State,57,Wolfpack,NC State Wolfpack,NC State
+401168513,2020-02-01,2,97,away,FALSE,Louisville,77,Cardinals,Louisville Cardinals,Louisville
+401170270,2020-02-01,2,2168,home,FALSE,Dayton,70,Flyers,Dayton Flyers,Dayton
+401170270,2020-02-01,2,2230,away,FALSE,Fordham,56,Rams,Fordham Rams,Fordham
+401168331,2020-02-01,2,222,home,FALSE,Villanova,61,Wildcats,Villanova Wildcats,Villanova
+401168331,2020-02-01,2,156,away,FALSE,Creighton,76,Bluejays,Creighton Bluejays,Creighton
+401168362,2020-02-01,2,183,home,FALSE,Syracuse,88,Orange,Syracuse Orange,Syracuse
+401168362,2020-02-01,2,150,away,FALSE,Duke,97,Blue Devils,Duke Blue Devils,Duke
+401168451,2020-02-01,2,2550,home,FALSE,Seton Hall,62,Pirates,Seton Hall Pirates,Seton Hall
+401168451,2020-02-01,2,2752,away,FALSE,Xavier,74,Musketeers,Xavier Musketeers,Xavier
+401170693,2020-02-01,2,24,home,FALSE,Stanford,70,Cardinal,Stanford Cardinal,Stanford
+401170693,2020-02-01,2,2483,away,FALSE,Oregon,60,Ducks,Oregon Ducks,Oregon
+401169723,2020-02-01,2,277,home,FALSE,West Virginia,66,Mountaineers,West Virginia Mountaineers,West Virginia
+401169723,2020-02-01,2,2306,away,FALSE,Kansas State,57,Wildcats,Kansas State Wildcats,Kansas St
+401166322,2020-02-01,2,2,home,FALSE,Auburn,75,Tigers,Auburn Tigers,Auburn
+401166322,2020-02-01,2,96,away,FALSE,Kentucky,66,Wildcats,Kentucky Wildcats,Kentucky
+401166204,2020-02-01,2,275,home,FALSE,Wisconsin,64,Badgers,Wisconsin Badgers,Wisconsin
+401166204,2020-02-01,2,127,away,FALSE,Michigan State,63,Spartans,Michigan State Spartans,Michigan St
+401168305,2020-02-01,2,2086,home,FALSE,Butler,61,Bulldogs,Butler Bulldogs,Butler
+401168305,2020-02-01,2,2507,away,FALSE,Providence,65,Friars,Providence Friars,Providence
+401170694,2020-02-01,2,30,home,FALSE,USC,57,Trojans,USC Trojans,USC
+401170694,2020-02-01,2,38,away,FALSE,Colorado,78,Buffaloes,Colorado Buffaloes,Colorado
+401169559,2020-02-01,2,2132,home,FALSE,Cincinnati,64,Bearcats,Cincinnati Bearcats,Cincinnati
+401169559,2020-02-01,2,248,away,FALSE,Houston,62,Cougars,Houston Cougars,Houston
+401166318,2020-02-01,2,99,home,FALSE,LSU,73,Tigers,LSU Tigers,LSU
+401166318,2020-02-01,2,145,away,FALSE,Ole Miss,63,Rebels,Ole Miss Rebels,Ole Miss
+401169560,2020-02-01,2,202,home,FALSE,Tulsa,54,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+401169560,2020-02-01,2,2724,away,FALSE,Wichita State,51,Shockers,Wichita State Shockers,Wichita St
+401166201,2020-02-01,2,158,home,FALSE,Nebraska,64,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401166201,2020-02-01,2,213,away,FALSE,Penn State,76,Nittany Lions,Penn State Nittany Lions,Penn State
+401166200,2020-02-01,2,130,home,TRUE,Michigan,69,Wolverines,Michigan Wolverines,Michigan
+401166200,2020-02-01,2,164,away,TRUE,Rutgers,63,Scarlet Knights,Rutgers Scarlet Knights,Rutgers

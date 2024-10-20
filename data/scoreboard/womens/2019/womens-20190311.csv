@@ -1,0 +1,69 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401121454,2019-03-11,4,47,home,TRUE,Howard,59,Bison,Howard Bison,Howard
+401121454,2019-03-11,4,50,away,TRUE,Florida A&M,53,Rattlers,Florida A&M Rattlers,Florida A&M
+401121439,2019-03-11,4,2750,home,TRUE,Wright State,60,Raiders,Wright State Raiders,Wright St
+401121439,2019-03-11,4,85,away,TRUE,IU Indianapolis,51,Jaguars,IU Indianapolis Jaguars,IU Indy
+401119779,2019-03-11,4,2571,home,TRUE,South Dakota State,86,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+401119779,2019-03-11,4,198,away,TRUE,Oral Roberts,55,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+401121451,2019-03-11,4,2514,home,TRUE,Quinnipiac,81,Bobcats,Quinnipiac Bobcats,Quinnipiac
+401121451,2019-03-11,4,2368,away,TRUE,Marist,51,Red Foxes,Marist Red Foxes,Marist
+401121499,2019-03-11,6,2250,home,TRUE,Gonzaga,78,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401121499,2019-03-11,6,2608,away,TRUE,Saint Mary's,77,Gaels,Saint Mary's Gaels,Saint Mary's
+401121428,2019-03-11,4,68,home,TRUE,Boise State,72,Broncos,Boise State Broncos,Boise St
+401121428,2019-03-11,4,2440,away,TRUE,Nevada,67,Wolf Pack,Nevada Wolf Pack,Nevada
+401121455,2019-03-11,4,2415,home,TRUE,Morgan State,48,Lady Bears,Morgan State Lady Bears,Morgan St
+401121455,2019-03-11,4,2154,away,TRUE,Coppin State,50,Eagles,Coppin State Eagles,Coppin St
+401121440,2019-03-11,4,2739,home,TRUE,Green Bay,55,Phoenix,Green Bay Phoenix,Green Bay
+401121440,2019-03-11,4,2754,away,TRUE,Youngstown State,53,Penguins,Youngstown State Penguins,Youngstown St
+401119780,2019-03-11,4,233,home,TRUE,South Dakota,84,Coyotes,South Dakota Coyotes,South Dakota
+401119780,2019-03-11,4,155,away,TRUE,North Dakota,61,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
+401121515,2019-03-11,4,269,home,TRUE,Marquette,75,Golden Eagles,Marquette Golden Eagles,Marquette
+401121515,2019-03-11,4,46,away,TRUE,Georgetown,62,Hoyas,Georgetown Hoyas,Georgetown
+401121522,2019-03-11,4,2464,home,TRUE,Northern Arizona,74,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+401121522,2019-03-11,4,16,away,TRUE,Sacramento State,69,Hornets,Sacramento State Hornets,Sacramento St
+401119767,2019-03-11,4,2006,home,FALSE,Akron,59,Zips,Akron Zips,Akron
+401119767,2019-03-11,4,2199,away,FALSE,Eastern Michigan,61,Eagles,Eastern Michigan Eagles,E Michigan
+401121500,2019-03-11,4,252,home,TRUE,BYU,68,Cougars,BYU Cougars,BYU
+401121500,2019-03-11,4,2492,away,TRUE,Pepperdine,63,Waves,Pepperdine Waves,Pepperdine
+401121429,2019-03-11,4,278,home,TRUE,Fresno State,66,Bulldogs,Fresno State Bulldogs,Fresno St
+401121429,2019-03-11,4,2439,away,TRUE,UNLV,55,Lady Rebels,UNLV Lady Rebels,UNLV
+401121566,2019-03-11,4,2529,home,FALSE,Sacred Heart,68,Pioneers,Sacred Heart Pioneers,Sacred Heart
+401121566,2019-03-11,4,2681,away,FALSE,Wagner,51,Seahawks,Wagner Seahawks,Wagner
+401121553,2019-03-11,4,2083,home,FALSE,Bucknell,88,Bison,Bucknell Bison,Bucknell
+401121553,2019-03-11,4,2352,away,FALSE,Loyola Maryland,63,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+401121551,2019-03-11,4,2329,home,FALSE,Lehigh,78,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+401121551,2019-03-11,4,2142,away,FALSE,Colgate,68,Raiders,Colgate Raiders,Colgate
+401121516,2019-03-11,4,305,home,FALSE,DePaul,80,Blue Demons,DePaul Blue Demons,DePaul
+401121516,2019-03-11,4,156,away,FALSE,Creighton,69,Bluejays,Creighton Bluejays,Creighton
+401119766,2019-03-11,4,2459,home,FALSE,Northern Illinois,70,Huskies,Northern Illinois Huskies,N Illinois
+401119766,2019-03-11,4,2711,away,FALSE,Western Michigan,69,Broncos,Western Michigan Broncos,W Michigan
+401121567,2019-03-11,4,2523,home,FALSE,Robert Morris,64,Colonials,Robert Morris Colonials,Robert Morris
+401121567,2019-03-11,4,161,away,FALSE,Fairleigh Dickinson,38,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+401121565,2019-03-11,4,2597,home,FALSE,St. Francis Brooklyn,74,Terriers,St. Francis Brooklyn Terriers,St Francis BK
+401121565,2019-03-11,4,116,away,FALSE,Mount St. Mary's,80,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+401121564,2019-03-11,4,2598,home,FALSE,St. Francis (PA),91,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+401121564,2019-03-11,4,2803,away,FALSE,Bryant,78,Bulldogs,Bryant Bulldogs,Bryant
+401121552,2019-03-11,4,104,home,FALSE,Boston University,70,Terriers,Boston University Terriers,Boston U
+401121552,2019-03-11,4,107,away,FALSE,Holy Cross,72,Crusaders,Holy Cross Crusaders,Holy Cross
+401121550,2019-03-11,4,44,home,FALSE,American University,67,Eagles,American University Eagles,American
+401121550,2019-03-11,4,322,away,FALSE,Lafayette,47,Leopards,Lafayette Leopards,Lafayette
+401121253,2019-03-11,4,324,home,FALSE,Coastal Carolina,63,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+401121253,2019-03-11,4,2032,away,FALSE,Arkansas State,49,Red Wolves,Arkansas State Red Wolves,Arkansas St
+401119765,2019-03-11,4,2649,home,FALSE,Toledo,67,Rockets,Toledo Rockets,Toledo
+401119765,2019-03-11,4,2050,away,FALSE,Ball State,63,Cardinals,Ball State Cardinals,Ball State
+401119764,2019-03-11,4,2309,home,FALSE,Kent State,86,Golden Flashes,Kent State Golden Flashes,Kent State
+401119764,2019-03-11,4,189,away,FALSE,Bowling Green,62,Falcons,Bowling Green Falcons,Bowling Green
+401119725,2019-03-11,4,41,home,TRUE,UConn,66,Huskies,UConn Huskies,UConn
+401119725,2019-03-11,4,2116,away,TRUE,UCF,45,Knights,UCF Knights,UCF
+401121523,2019-03-11,4,149,home,TRUE,Montana,56,Lady Griz,Montana Lady Griz,Montana
+401121523,2019-03-11,4,253,away,TRUE,Southern Utah,64,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+401121254,2019-03-11,4,6,home,FALSE,South Alabama,73,Jaguars,South Alabama Jaguars,South Alabama
+401121254,2019-03-11,4,309,away,FALSE,Louisiana,61,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+401121430,2019-03-11,5,167,home,TRUE,New Mexico,61,Lobos,New Mexico Lobos,New Mexico
+401121430,2019-03-11,5,21,away,TRUE,San Diego State,70,Aztecs,San Diego State Aztecs,San Diego St
+401121421,2019-03-11,4,239,home,TRUE,Baylor,67,Bears,Baylor Bears,Baylor
+401121421,2019-03-11,4,66,away,TRUE,Iowa State,49,Cyclones,Iowa State Cyclones,Iowa State
+401121525,2019-03-11,4,331,home,TRUE,Eastern Washington,81,Eagles,Eastern Washington Eagles,E Washington
+401121525,2019-03-11,4,2692,away,TRUE,Weber State,74,Wildcats,Weber State Wildcats,Weber St
+401121431,2019-03-11,4,2751,home,TRUE,Wyoming,64,Cowgirls,Wyoming Cowgirls,Wyoming
+401121431,2019-03-11,4,328,away,TRUE,Utah State,41,Aggies,Utah State Aggies,Utah State

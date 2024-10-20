@@ -1,0 +1,89 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400817523,2015-11-15,2,194,home,FALSE,Ohio State,76,Buckeyes,Ohio State Buckeyes,Ohio State
+400817523,2015-11-15,2,116,away,FALSE,Mount St. Mary's,54,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+400827680,2015-11-15,2,164,home,FALSE,Rutgers,82,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400827680,2015-11-15,2,47,away,FALSE,Howard,70,Bison,Howard Bison,Howard
+400820661,2015-11-15,2,2083,home,FALSE,Bucknell,82,Bison,Bucknell Bison,Bucknell
+400820661,2015-11-15,2,154,away,FALSE,Wake Forest,90,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+400827770,2015-11-15,2,2550,home,FALSE,Seton Hall,69,Pirates,Seton Hall Pirates,Seton Hall
+400827770,2015-11-15,2,2681,away,FALSE,Wagner,59,Seahawks,Wagner Seahawks,Wagner
+400841545,2015-11-15,2,233,home,TRUE,South Dakota,76,Coyotes,South Dakota Coyotes,South Dakota
+400841545,2015-11-15,2,2463,away,TRUE,Cal State Northridge,72,Matadors,Cal State Northridge Matadors,CSU Northridge
+400841117,2015-11-15,3,322,home,FALSE,Lafayette,87,Leopards,Lafayette Leopards,Lafayette
+400841117,2015-11-15,3,2612,away,FALSE,Saint Peter's,86,Peacocks,Saint Peter's Peacocks,Saint Peter's
+400825531,2015-11-15,2,228,home,FALSE,Clemson,78,Tigers,Clemson Tigers,Clemson
+400825531,2015-11-15,2,2636,away,FALSE,UTSA,45,Roadrunners,UTSA Roadrunners,UTSA
+400820606,2015-11-15,2,2132,home,FALSE,Cincinnati,106,Bearcats,Cincinnati Bearcats,Cincinnati
+400820606,2015-11-15,2,2523,away,FALSE,Robert Morris,44,Colonials,Robert Morris Colonials,Robert Morris
+400816742,2015-11-15,2,2066,home,FALSE,Binghamton,60,Bearcats,Binghamton Bearcats,Binghamton
+400816742,2015-11-15,2,349,away,FALSE,Army,75,Black Knights,Army Black Knights,Army
+400809344,2015-11-15,2,2509,home,FALSE,Purdue,107,Boilermakers,Purdue Boilermakers,Purdue
+400809344,2015-11-15,2,261,away,FALSE,Vermont,79,Catamounts,Vermont Catamounts,Vermont
+400841986,2015-11-15,2,2674,home,FALSE,Valparaiso,83,Beacons,Valparaiso Beacons,Valparaiso
+400841986,2015-11-15,2,314,away,FALSE,Iona,58,Gaels,Iona Gaels,Iona
+400845544,2015-11-15,2,55,home,FALSE,Jacksonville State,81,Gamecocks,Jacksonville State Gamecocks,Jax State
+400845544,2015-11-15,2,2232,away,FALSE,Fort Valley State,68,Wildcats,Fort Valley State Wildcats,Ft Vly St
+400843835,2015-11-15,2,339,home,FALSE,Evansville,80,Purple Aces,Evansville Purple Aces,Evansville
+400843835,2015-11-15,2,2546,away,FALSE,Southeast Missouri State,65,Redhawks,Southeast Missouri State Redhawks,SE Missouri
+400833190,2015-11-15,2,2653,home,FALSE,Troy,97,Trojans,Troy Trojans,Troy
+400833190,2015-11-15,2,2890,away,FALSE,Reinhardt,82,Eagles,Reinhardt Eagles,Reinhardt
+400833165,2015-11-15,2,135,home,FALSE,Minnesota,67,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400833165,2015-11-15,2,2433,away,FALSE,UL Monroe,56,Warhawks,UL Monroe Warhawks,UL Monroe
+400830520,2015-11-15,2,2172,home,TRUE,Denver,82,Pioneers,Denver Pioneers,Denver
+400830520,2015-11-15,2,288,away,TRUE,Lipscomb,69,Bisons,Lipscomb Bisons,Lipscomb
+400825728,2015-11-15,2,52,home,FALSE,Florida State,109,Seminoles,Florida State Seminoles,Florida St
+400825728,2015-11-15,2,2447,away,FALSE,Nicholls,62,Colonels,Nicholls Colonels,Nicholls
+400820706,2015-11-15,2,356,home,TRUE,Illinois,80,Fighting Illini,Illinois Fighting Illini,Illinois
+400820706,2015-11-15,2,2449,away,TRUE,North Dakota State,74,Bison,North Dakota State Bison,N Dakota St
+400840810,2015-11-15,2,2272,home,FALSE,High Point,93,Panthers,High Point Panthers,High Point
+400840810,2015-11-15,2,286,away,FALSE,NC Wesleyan,69,Battling Bishops,NC Wesleyan Battling Bishops,NC Weslyn
+400820654,2015-11-15,2,153,home,FALSE,North Carolina,92,Tar Heels,North Carolina Tar Heels,North Carolina
+400820654,2015-11-15,2,2217,away,FALSE,Fairfield,65,Stags,Fairfield Stags,Fairfield
+400818718,2015-11-15,2,219,home,FALSE,Pennsylvania,77,Quakers,Pennsylvania Quakers,Penn
+400818718,2015-11-15,2,2115,away,FALSE,Central Connecticut,61,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+400817389,2015-11-15,2,79,home,FALSE,Southern Illinois,81,Salukis,Southern Illinois Salukis,S Illinois
+400817389,2015-11-15,2,50,away,FALSE,Florida A&M,51,Rattlers,Florida A&M Rattlers,Florida A&M
+400840880,2015-11-15,2,2717,home,FALSE,Western Carolina,90,Catamounts,Western Carolina Catamounts,W Carolina
+400840880,2015-11-15,2,2427,away,FALSE,UNC Asheville,81,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+400839819,2015-11-15,2,2459,home,FALSE,Northern Illinois,65,Huskies,Northern Illinois Huskies,N Illinois
+400839819,2015-11-15,2,2750,away,FALSE,Wright State,59,Raiders,Wright State Raiders,Wright St
+400842006,2015-11-15,2,2437,home,FALSE,Omaha,104,Mavericks,Omaha Mavericks,Omaha
+400842006,2015-11-15,2,2899,away,FALSE,Saint Mary's (MN),58,Cardinals,Saint Mary's (MN) Cardinals,St. Mary's MN
+400841030,2015-11-15,2,257,home,FALSE,Richmond,108,Spiders,Richmond Spiders,Richmond
+400841030,2015-11-15,2,56,away,FALSE,Stetson,85,Hatters,Stetson Hatters,Stetson
+400830607,2015-11-15,2,2294,home,FALSE,Iowa,103,Hawkeyes,Iowa Hawkeyes,Iowa
+400830607,2015-11-15,2,2154,away,FALSE,Coppin State,68,Eagles,Coppin State Eagles,Coppin St
+400827466,2015-11-15,2,139,home,FALSE,Saint Louis,85,Billikens,Saint Louis Billikens,Saint Louis
+400827466,2015-11-15,2,42,away,FALSE,Hartford,68,Hawks,Hartford Hawks,Hartford
+400817476,2015-11-15,2,2547,home,FALSE,Seattle U,65,Redhawks,Seattle U Redhawks,Seattle U
+400817476,2015-11-15,2,16,away,FALSE,Sacramento State,77,Hornets,Sacramento State Hornets,Sacramento St
+400809345,2015-11-15,2,2603,home,FALSE,Saint Joseph's,73,Hawks,Saint Joseph's Hawks,Saint Joseph's
+400809345,2015-11-15,2,315,away,FALSE,Niagara,62,Purple Eagles,Niagara Purple Eagles,Niagara
+400830224,2015-11-15,2,2541,home,FALSE,Santa Clara,65,Broncos,Santa Clara Broncos,Santa Clara
+400830224,2015-11-15,2,270,away,FALSE,Milwaukee,71,Panthers,Milwaukee Panthers,Milwaukee
+400847416,2015-11-15,2,2710,home,FALSE,Western Illinois,94,Leathernecks,Western Illinois Leathernecks,W Illinois
+400847416,2015-11-15,2,533,away,FALSE,Hannibal-Lagrange,57,Trojans,Hannibal-Lagrange Trojans,Hannibal
+400830786,2015-11-15,2,142,home,FALSE,Missouri,73,Tigers,Missouri Tigers,Missouri
+400830786,2015-11-15,2,2379,away,FALSE,Maryland Eastern Shore,55,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+400820668,2015-11-15,2,152,home,FALSE,NC State,88,Wolfpack,NC State Wolfpack,NC State
+400820668,2015-11-15,2,6,away,FALSE,South Alabama,70,Jaguars,South Alabama Jaguars,South Alabama
+400844327,2015-11-15,2,331,home,FALSE,Eastern Washington,126,Eagles,Eastern Washington Eagles,E Washington
+400844327,2015-11-15,2,415,away,FALSE,George Fox,64,Bruins,George Fox Bruins,George Fox
+400845410,2015-11-15,2,147,home,TRUE,Montana State,62,Bobcats,Montana State Bobcats,Montana St
+400845410,2015-11-15,2,2440,away,TRUE,Nevada,83,Wolf Pack,Nevada Wolf Pack,Nevada
+400839998,2015-11-15,2,140,home,FALSE,Kansas City,73,Roos,Kansas City Roos,Kansas City
+400839998,2015-11-15,2,2911,away,FALSE,William Jewell,59,Cardinals,William Jewell Cardinals,William Jewell
+400830544,2015-11-15,2,302,home,FALSE,UC Davis,79,Aggies,UC Davis Aggies,UC Davis
+400830544,2015-11-15,2,2501,away,FALSE,Portland,66,Pilots,Portland Pilots,Portland
+400830128,2015-11-15,2,300,home,FALSE,UC Irvine,77,Anteaters,UC Irvine Anteaters,UC Irvine
+400830128,2015-11-15,2,2351,away,FALSE,Loyola Marymount,53,Lions,Loyola Marymount Lions,LMU
+400827777,2015-11-15,2,24,home,FALSE,Stanford,93,Cardinal,Stanford Cardinal,Stanford
+400827777,2015-11-15,2,2127,away,FALSE,Charleston Southern,59,Buccaneers,Charleston Southern Buccaneers,Charleston So
+400818728,2015-11-15,2,275,home,FALSE,Wisconsin,92,Badgers,Wisconsin Badgers,Wisconsin
+400818728,2015-11-15,2,2561,away,FALSE,Siena,65,Saints,Siena Saints,Siena
+400845428,2015-11-15,2,166,home,FALSE,New Mexico State,74,Aggies,New Mexico State Aggies,New Mexico St
+400845428,2015-11-15,2,167,away,FALSE,New Mexico,83,Lobos,New Mexico Lobos,New Mexico
+400841560,2015-11-15,2,62,home,FALSE,Hawai'i,74,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
+400841560,2015-11-15,2,324,away,FALSE,Coastal Carolina,63,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+400814221,2015-11-15,2,26,home,FALSE,UCLA,88,Bruins,UCLA Bruins,UCLA
+400814221,2015-11-15,2,13,away,FALSE,Cal Poly,83,Mustangs,Cal Poly Mustangs,Cal Poly

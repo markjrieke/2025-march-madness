@@ -1,0 +1,109 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400591096,2014-11-20,2,2168,home,TRUE,Dayton,55,Flyers,Dayton Flyers,Dayton
+400591096,2014-11-20,2,245,away,TRUE,Texas A&M,53,Aggies,Texas A&M Aggies,Texas A&M
+400587401,2014-11-20,2,2006,home,TRUE,Akron,66,Zips,Akron Zips,Akron
+400587401,2014-11-20,2,30,away,TRUE,USC,46,Trojans,USC Trojans,USC
+400586677,2014-11-20,2,41,home,TRUE,UConn,65,Huskies,UConn Huskies,UConn
+400586677,2014-11-20,2,232,away,TRUE,Charleston,57,Cougars,Charleston Cougars,Charleston
+400587775,2014-11-20,2,2390,home,TRUE,Miami,66,Hurricanes,Miami Hurricanes,Miami
+400587775,2014-11-20,2,2182,away,TRUE,Drexel,46,Dragons,Drexel Dragons,Drexel
+400591355,2014-11-20,4,2429,home,TRUE,Charlotte,106,49ers,Charlotte 49ers,Charlotte
+400591355,2014-11-20,4,213,away,TRUE,Penn State,97,Nittany Lions,Penn State Nittany Lions,Penn State
+400587776,2014-11-20,2,103,home,TRUE,Boston College,69,Eagles,Boston College Eagles,Boston College
+400587776,2014-11-20,2,167,away,TRUE,New Mexico,65,Lobos,New Mexico Lobos,New Mexico
+400595371,2014-11-20,2,130,home,FALSE,Michigan,71,Wolverines,Michigan Wolverines,Michigan
+400595371,2014-11-20,2,2174,away,FALSE,Detroit Mercy,62,Titans,Detroit Mercy Titans,Detroit Mercy
+400606487,2014-11-20,2,2729,home,FALSE,William & Mary,100,Tribe,William & Mary Tribe,William & Mary
+400606487,2014-11-20,2,495,away,FALSE,Bluefield University,57,Ramblin' Rams,Bluefield University Ramblin' Rams,Bluefield U
+400598686,2014-11-20,2,2598,home,FALSE,St. Francis (PA),102,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+400598686,2014-11-20,2,108860,away,FALSE,Keystone,69,Keystone,Keystone,Keystone
+400597295,2014-11-20,2,2633,home,FALSE,Tennessee,70,Volunteers,Tennessee Volunteers,Tennessee
+400597295,2014-11-20,2,2640,away,FALSE,Texas Southern,58,Tigers,Texas Southern Tigers,Texas Southern
+400596040,2014-11-20,2,2681,home,FALSE,Wagner,83,Seahawks,Wagner Seahawks,Wagner
+400596040,2014-11-20,2,3087,away,FALSE,Old Westbury,49,Panthers,Old Westbury Panthers,Old Westbury
+400596017,2014-11-20,2,2529,home,FALSE,Sacred Heart,54,Pioneers,Sacred Heart Pioneers,Sacred Heart
+400596017,2014-11-20,2,2349,away,FALSE,UMass Lowell,57,River Hawks,UMass Lowell River Hawks,UMass Lowell
+400595372,2014-11-20,2,2509,home,FALSE,Purdue,82,Boilermakers,Purdue Boilermakers,Purdue
+400595372,2014-11-20,2,2755,away,FALSE,Grambling,30,Tigers,Grambling Tigers,Grambling
+400591712,2014-11-20,2,2803,home,FALSE,Bryant,72,Bulldogs,Bryant Bulldogs,Bryant
+400591712,2014-11-20,2,160,away,FALSE,New Hampshire,63,Wildcats,New Hampshire Wildcats,New Hampshire
+400591097,2014-11-20,2,2670,home,FALSE,VCU,106,Rams,VCU Rams,VCU
+400591097,2014-11-20,2,2379,away,FALSE,Maryland Eastern Shore,66,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+400588651,2014-11-20,2,56,home,FALSE,Stetson,96,Hatters,Stetson Hatters,Stetson
+400588651,2014-11-20,2,2489,away,FALSE,Palm Beach Atlantic,85,Sailfish,Palm Beach Atlantic Sailfish,Palm Beach Atl
+400588650,2014-11-20,2,2908,home,FALSE,South Carolina Upstate,107,Spartans,South Carolina Upstate Spartans,SC Upstate
+400588650,2014-11-20,2,3243,away,FALSE,Bob Jones,41,Bob Jones,Bob Jones,Bobjones
+400587778,2014-11-20,2,152,home,FALSE,NC State,79,Wolfpack,NC State Wolfpack,NC State
+400587778,2014-11-20,2,294,away,FALSE,Jacksonville,43,Dolphins,Jacksonville Dolphins,Jacksonville
+400587042,2014-11-20,2,2507,home,FALSE,Providence,88,Friars,Providence Friars,Providence
+400587042,2014-11-20,2,2426,away,FALSE,Navy,51,Midshipmen,Navy Midshipmen,Navy
+400586681,2014-11-20,2,2116,home,FALSE,UCF,76,Knights,UCF Knights,UCF
+400586681,2014-11-20,2,2204,away,FALSE,Eckerd,59,Tritons,Eckerd Tritons,Eckerd
+400586678,2014-11-20,2,151,home,FALSE,East Carolina,92,Pirates,East Carolina Pirates,East Carolina
+400586678,2014-11-20,2,3229,away,FALSE,Virginia-Lynchburg,51,Dragons,Virginia-Lynchburg Dragons,VA-Lynchbrg
+400586284,2014-11-20,2,2612,home,FALSE,Saint Peter's,59,Peacocks,Saint Peter's Peacocks,Saint Peter's
+400586284,2014-11-20,2,315,away,FALSE,Niagara,61,Purple Eagles,Niagara Purple Eagles,Niagara
+400585688,2014-11-20,2,2294,home,TRUE,Iowa,57,Hawkeyes,Iowa Hawkeyes,Iowa
+400585688,2014-11-20,2,251,away,TRUE,Texas,71,Longhorns,Texas Longhorns,Texas
+400596319,2014-11-20,2,2630,home,FALSE,UT Martin,115,Skyhawks,UT Martin Skyhawks,UT Martin
+400596319,2014-11-20,2,3134,away,FALSE,Champion Christian,29,Tigers,Champion Christian Tigers,Champ Christian
+400591098,2014-11-20,2,120,home,FALSE,Maryland,66,Terrapins,Maryland Terrapins,Maryland
+400591098,2014-11-20,2,2230,away,FALSE,Fordham,50,Rams,Fordham Rams,Fordham
+400585689,2014-11-20,2,277,home,TRUE,West Virginia,91,Mountaineers,West Virginia Mountaineers,West Virginia
+400585689,2014-11-20,2,2244,away,TRUE,George Mason,65,Patriots,George Mason Patriots,George Mason
+400589261,2014-11-20,2,2515,home,FALSE,Radford,61,Highlanders,Radford Highlanders,Radford
+400589261,2014-11-20,2,47,away,FALSE,Howard,52,Bison,Howard Bison,Howard
+400598816,2014-11-20,2,2655,home,FALSE,Tulane,100,Green Wave,Tulane Green Wave,Tulane
+400598816,2014-11-20,2,2400,away,FALSE,Mississippi Valley State,61,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
+400596321,2014-11-20,2,2634,home,FALSE,Tennessee State,75,Tigers,Tennessee State Tigers,Tennessee St
+400596321,2014-11-20,2,2225,away,FALSE,Fisk,60,Bulldogs,Fisk Bulldogs,Fisk
+400596320,2014-11-20,2,93,home,FALSE,Murray State,89,Racers,Murray State Racers,Murray St
+400596320,2014-11-20,2,2855,away,FALSE,Brescia,56,Bearcats,Brescia Bearcats,Brescia
+400595905,2014-11-20,2,2197,home,FALSE,Eastern Illinois,61,Panthers,Eastern Illinois Panthers,E Illinois
+400595905,2014-11-20,2,302,away,FALSE,UC Davis,63,Aggies,UC Davis Aggies,UC Davis
+400595572,2014-11-20,2,108817,home,FALSE,LSU Alexandria,79,Generals,LSU Alexandria Generals,LSU Alexandria
+400595572,2014-11-20,2,2466,away,FALSE,Northwestern State,89,Demons,Northwestern State Demons,N'Western St
+400595373,2014-11-20,2,135,home,FALSE,Minnesota,109,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400595373,2014-11-20,2,144,away,FALSE,Franklin Pierce,57,Ravens,Franklin Pierce Ravens,Frk Pierce
+400591291,2014-11-20,2,108,home,FALSE,Harvard,71,Crimson,Harvard Crimson,Harvard
+400591291,2014-11-20,2,2226,away,FALSE,Florida Atlantic,49,Owls,Florida Atlantic Owls,FAU
+400588649,2014-11-20,2,77,home,FALSE,Northwestern,69,Wildcats,Northwestern Wildcats,Northwestern
+400588649,2014-11-20,2,2454,away,FALSE,North Florida,67,Ospreys,North Florida Ospreys,North Florida
+400587043,2014-11-20,2,222,home,FALSE,Villanova,72,Wildcats,Villanova Wildcats,Villanova
+400587043,2014-11-20,2,2083,away,FALSE,Bucknell,65,Bison,Bucknell Bison,Bucknell
+400586680,2014-11-20,3,5,home,FALSE,UAB,71,Blazers,UAB Blazers,UAB
+400586680,2014-11-20,3,58,away,FALSE,South Florida,73,Bulls,South Florida Bulls,South Florida
+400586679,2014-11-20,2,84,home,FALSE,Indiana,74,Hoosiers,Indiana Hoosiers,Indiana
+400586679,2014-11-20,2,2567,away,FALSE,SMU,68,Mustangs,SMU Mustangs,SMU
+400585690,2014-11-20,2,2628,home,FALSE,TCU,86,Horned Frogs,TCU Horned Frogs,TCU
+400585690,2014-11-20,2,2443,away,FALSE,New Orleans,71,Privateers,New Orleans Privateers,New Orleans
+400589260,2014-11-20,2,2542,home,FALSE,Savannah State,59,Tigers,Savannah State Tigers,Savannah St
+400589260,2014-11-20,2,2737,away,FALSE,Winthrop,58,Eagles,Winthrop Eagles,Winthrop
+400591258,2014-11-20,2,2579,home,TRUE,South Carolina,69,Gamecocks,South Carolina Gamecocks,South Carolina
+400591258,2014-11-20,2,172,away,TRUE,Cornell,45,Big Red,Cornell Big Red,Cornell
+400586310,2014-11-20,2,2460,home,FALSE,Northern Iowa,73,Panthers,Northern Iowa Panthers,Northern Iowa
+400586310,2014-11-20,2,2415,away,FALSE,Morgan State,53,Bears,Morgan State Bears,Morgan St
+400591009,2014-11-20,2,145,home,FALSE,Ole Miss,69,Rebels,Ole Miss Rebels,Ole Miss
+400591009,2014-11-20,2,2582,away,FALSE,Southern,38,Jaguars,Southern Jaguars,Southern
+400591356,2014-11-20,2,333,home,FALSE,Alabama,81,Crimson Tide,Alabama Crimson Tide,Alabama
+400591356,2014-11-20,2,2572,away,FALSE,Southern Miss,67,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
+400590730,2014-11-20,2,2253,home,FALSE,Grand Canyon,64,Lopes,Grand Canyon Lopes,Grand Canyon
+400590730,2014-11-20,2,250,away,FALSE,UT Arlington,66,Mavericks,UT Arlington Mavericks,UT Arlington
+400588648,2014-11-20,2,238,home,FALSE,Vanderbilt,72,Commodores,Vanderbilt Commodores,Vanderbilt
+400588648,2014-11-20,2,288,away,FALSE,Lipscomb,62,Bisons,Lipscomb Bisons,Lipscomb
+400587227,2014-11-20,2,9,home,FALSE,Arizona State,68,Sun Devils,Arizona State Sun Devils,Arizona St
+400587227,2014-11-20,2,2351,away,FALSE,Loyola Marymount,44,Lions,Loyola Marymount Lions,LMU
+400585897,2014-11-20,2,2459,home,FALSE,Northern Illinois,78,Huskies,Northern Illinois Huskies,N Illinois
+400585897,2014-11-20,2,70,away,FALSE,Idaho,67,Vandals,Idaho Vandals,Idaho
+400587777,2014-11-20,2,25,home,TRUE,California,73,Golden Bears,California Golden Bears,California
+400587777,2014-11-20,2,183,away,TRUE,Syracuse,59,Orange,Syracuse Orange,Syracuse
+400599867,2014-11-20,2,279,home,FALSE,Pacific,81,Tigers,Pacific Tigers,Pacific
+400599867,2014-11-20,2,594,away,FALSE,Pacific Union,56,Pacific Union,Pacific Union,Pac Union
+400586876,2014-11-20,2,2608,home,FALSE,Saint Mary's,78,Gaels,Saint Mary's Gaels,Saint Mary's
+400586876,2014-11-20,2,2172,away,FALSE,Denver,62,Pioneers,Denver Pioneers,Denver
+400585898,2014-11-20,2,2464,home,FALSE,Northern Arizona,73,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+400585898,2014-11-20,2,278,away,FALSE,Fresno State,52,Bulldogs,Fresno State Bulldogs,Fresno St
+400590731,2014-11-20,2,21,home,FALSE,San Diego State,51,Aztecs,San Diego State Aztecs,San Diego St
+400590731,2014-11-20,2,2934,away,FALSE,Cal State Bakersfield,27,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+400593197,2014-11-20,2,26,home,FALSE,UCLA,107,Bruins,UCLA Bruins,UCLA
+400593197,2014-11-20,2,2447,away,FALSE,Nicholls,74,Colonels,Nicholls Colonels,Nicholls

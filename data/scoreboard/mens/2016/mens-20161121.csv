@@ -1,0 +1,115 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400916858,2016-11-21,2,261,home,TRUE,Vermont,60,Catamounts,Vermont Catamounts,Vermont
+400916858,2016-11-21,2,2747,away,TRUE,Wofford,59,Terriers,Wofford Terriers,Wofford
+400926591,2016-11-21,2,149,home,TRUE,Montana,68,Grizzlies,Montana Grizzlies,Montana
+400926591,2016-11-21,2,198,away,TRUE,Oral Roberts,47,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+400915922,2016-11-21,2,2197,home,FALSE,Eastern Illinois,71,Panthers,Eastern Illinois Panthers,E Illinois
+400915922,2016-11-21,2,2653,away,FALSE,Troy,67,Trojans,Troy Trojans,Troy
+400918251,2016-11-21,2,2275,home,TRUE,Hofstra,92,Pride,Hofstra Pride,Hofstra
+400918251,2016-11-21,2,71,away,TRUE,Bradley,90,Braves,Bradley Braves,Bradley
+400910794,2016-11-21,2,275,home,TRUE,Wisconsin,74,Badgers,Wisconsin Badgers,Wisconsin
+400910794,2016-11-21,2,2633,away,TRUE,Tennessee,62,Volunteers,Tennessee Volunteers,Tennessee
+400926590,2016-11-21,2,265,home,TRUE,Washington State,79,Cougars,Washington State Cougars,Washington St
+400926590,2016-11-21,2,2350,away,TRUE,Loyola Chicago,88,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+400918682,2016-11-21,2,6446,home,TRUE,LIU Brooklyn,71,Liu Brooklyn,LIU Brooklyn Liu Brooklyn,Liu Brooklyn
+400918682,2016-11-21,2,311,away,TRUE,Maine,66,Black Bears,Maine Black Bears,Maine
+400917023,2016-11-21,2,2050,home,TRUE,Ball State,79,Cardinals,Ball State Cardinals,Ball State
+400917023,2016-11-21,2,2154,away,TRUE,Coppin State,77,Eagles,Coppin State Eagles,Coppin St
+400917475,2016-11-21,2,2739,home,TRUE,Green Bay,95,Phoenix,Green Bay Phoenix,Green Bay
+400917475,2016-11-21,2,140,away,TRUE,Kansas City,77,Roos,Kansas City Roos,Kansas City
+400915516,2016-11-21,2,2483,home,TRUE,Oregon,61,Ducks,Oregon Ducks,Oregon
+400915516,2016-11-21,2,46,away,TRUE,Georgetown,65,Hoyas,Georgetown Hoyas,Georgetown
+400917024,2016-11-21,2,2309,home,TRUE,Kent State,77,Golden Flashes,Kent State Golden Flashes,Kent State
+400917024,2016-11-21,2,233,away,TRUE,South Dakota,80,Coyotes,South Dakota Coyotes,South Dakota
+400926682,2016-11-21,2,152,home,TRUE,NC State,73,Wolfpack,NC State Wolfpack,NC State
+400926682,2016-11-21,2,2603,away,TRUE,Saint Joseph's,63,Hawks,Saint Joseph's Hawks,Saint Joseph's
+400925708,2016-11-21,5,2029,home,FALSE,Arkansas-Pine Bluff,74,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+400925708,2016-11-21,5,494,away,FALSE,Blue Mountain,77,Toppers,Blue Mountain Toppers,Bluemtn
+400916683,2016-11-21,2,2335,home,FALSE,Liberty,84,Flames,Liberty Flames,Liberty
+400916683,2016-11-21,2,2349,away,FALSE,UMass Lowell,77,River Hawks,UMass Lowell River Hawks,UMass Lowell
+400916140,2016-11-21,2,2628,home,FALSE,TCU,80,Horned Frogs,TCU Horned Frogs,TCU
+400916140,2016-11-21,2,2287,away,FALSE,Illinois State,71,Redbirds,Illinois State Redbirds,Illinois St
+400915928,2016-11-21,2,324,home,TRUE,Coastal Carolina,83,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+400915928,2016-11-21,2,253,away,TRUE,Southern Utah,68,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+400915923,2016-11-21,2,179,home,TRUE,St. Bonaventure,65,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+400915923,2016-11-21,2,2031,away,TRUE,Little Rock,68,Trojans,Little Rock Trojans,Little Rock
+400919142,2016-11-21,2,2507,home,FALSE,Providence,64,Friars,Providence Friars,Providence
+400919142,2016-11-21,2,2597,away,FALSE,St. Francis Brooklyn,48,Terriers,St. Francis Brooklyn Terriers,St Francis BK
+400915924,2016-11-21,3,2547,home,TRUE,Seattle U,81,Redhawks,Seattle U Redhawks,Seattle U
+400915924,2016-11-21,3,2433,away,TRUE,UL Monroe,75,Warhawks,UL Monroe Warhawks,UL Monroe
+400923001,2016-11-21,2,2542,home,FALSE,Savannah State,118,Tigers,Savannah State Tigers,Savannah St
+400923001,2016-11-21,2,2232,away,FALSE,Fort Valley State,101,Wildcats,Fort Valley State Wildcats,Ft Vly St
+400919764,2016-11-21,2,256,home,FALSE,James Madison,56,Dukes,James Madison Dukes,James Madison
+400919764,2016-11-21,2,2640,away,FALSE,Texas Southern,67,Tigers,Texas Southern Tigers,Texas Southern
+400919427,2016-11-21,2,276,home,FALSE,Marshall,71,Thundering Herd,Marshall Thundering Herd,Marshall
+400919427,2016-11-21,2,2296,away,FALSE,Jackson State,61,Tigers,Jackson State Tigers,Jackson St
+400918593,2016-11-21,2,2750,home,FALSE,Wright State,109,Raiders,Wright State Raiders,Wright St
+400918593,2016-11-21,2,2477,away,FALSE,Ohio Dominican,54,Panthers,Ohio Dominican Panthers,Ohio Dom
+400917487,2016-11-21,2,2514,home,FALSE,Quinnipiac,78,Bobcats,Quinnipiac Bobcats,Quinnipiac
+400917487,2016-11-21,2,171,away,FALSE,Columbia,86,Lions,Columbia Lions,Columbia
+400917486,2016-11-21,2,2099,home,FALSE,Canisius,69,Golden Griffins,Canisius Golden Griffins,Canisius
+400917486,2016-11-21,2,2630,away,FALSE,UT Martin,72,Skyhawks,UT Martin Skyhawks,UT Martin
+400917025,2016-11-21,2,189,home,FALSE,Bowling Green,78,Falcons,Bowling Green Falcons,Bowling Green
+400917025,2016-11-21,2,93,away,FALSE,Murray State,77,Racers,Murray State Racers,Murray St
+400916684,2016-11-21,2,2097,home,FALSE,Campbell,53,Fighting Camels,Campbell Fighting Camels,Campbell
+400916684,2016-11-21,2,2535,away,FALSE,Samford,66,Bulldogs,Samford Bulldogs,Samford
+400915254,2016-11-21,2,38,home,TRUE,Colorado,83,Buffaloes,Colorado Buffaloes,Colorado
+400915254,2016-11-21,2,87,away,TRUE,Notre Dame,89,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400915149,2016-11-21,2,194,home,FALSE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
+400915149,2016-11-21,2,2717,away,FALSE,Western Carolina,38,Catamounts,Western Carolina Catamounts,W Carolina
+400910659,2016-11-21,2,61,home,TRUE,Georgia,81,Bulldogs,Georgia Bulldogs,Georgia
+400910659,2016-11-21,2,45,away,TRUE,George Washington,73,Revolutionaries,George Washington Revolutionaries,G Washington
+400910635,2016-11-21,2,57,home,TRUE,Florida,78,Gators,Florida Gators,Florida
+400910635,2016-11-21,2,2057,away,TRUE,Belmont,61,Bruins,Belmont Bruins,Belmont
+400916494,2016-11-21,2,248,home,TRUE,Houston,93,Cougars,Houston Cougars,Houston
+400916494,2016-11-21,2,2244,away,TRUE,George Mason,56,Patriots,George Mason Patriots,George Mason
+400922179,2016-11-21,2,2545,home,FALSE,SE Louisiana,89,Lions,SE Louisiana Lions,SE Louisiana
+400922179,2016-11-21,2,2753,away,FALSE,Xavier (LA),72,Gold Rush,Xavier (LA) Gold Rush,Xavier La
+400922084,2016-11-21,2,2916,home,FALSE,Incarnate Word,91,Cardinals,Incarnate Word Cardinals,Incarnate Word
+400922084,2016-11-21,2,2758,away,FALSE,Howard Payne,61,Yellow Jackets,Howard Payne Yellow Jackets,Hwrd Payne
+400919499,2016-11-21,2,2572,home,FALSE,Southern Miss,63,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
+400919499,2016-11-21,2,2010,away,FALSE,Alabama A&M,55,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+400918134,2016-11-21,2,79,home,FALSE,Southern Illinois,73,Salukis,Southern Illinois Salukis,S Illinois
+400918134,2016-11-21,2,116,away,FALSE,Mount St. Mary's,63,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+400916292,2016-11-21,2,242,home,FALSE,Rice,83,Owls,Rice Owls,Rice
+400916292,2016-11-21,2,147,away,FALSE,Montana State,78,Bobcats,Montana State Bobcats,Montana St
+400915927,2016-11-21,2,309,home,FALSE,Louisiana,83,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+400915927,2016-11-21,2,2169,away,FALSE,Delaware State,82,Hornets,Delaware State Hornets,Delaware St
+400915926,2016-11-21,2,326,home,FALSE,Texas State,69,Bobcats,Texas State Bobcats,Texas St
+400915926,2016-11-21,2,357,away,FALSE,Texas A&M-Corpus Christi,73,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+400915925,2016-11-21,2,250,home,FALSE,UT Arlington,88,Mavericks,UT Arlington Mavericks,UT Arlington
+400915925,2016-11-21,2,2595,away,FALSE,St. Francis (IL),67,Fighting Saints,St. Francis (IL) Fighting Saints,St. Francis IL
+400914950,2016-11-21,3,356,home,FALSE,Illinois,80,Fighting Illini,Illinois Fighting Illini,Illinois
+400914950,2016-11-21,3,2737,away,FALSE,Winthrop,84,Eagles,Winthrop Eagles,Winthrop
+400926681,2016-11-21,2,156,home,TRUE,Creighton,86,Bluejays,Creighton Bluejays,Creighton
+400926681,2016-11-21,2,145,away,TRUE,Ole Miss,77,Rebels,Ole Miss Rebels,Ole Miss
+400919645,2016-11-21,2,2086,home,FALSE,Butler,91,Bulldogs,Butler Bulldogs,Butler
+400919645,2016-11-21,2,2450,away,FALSE,Norfolk State,55,Spartans,Norfolk State Spartans,Norfolk St
+400915735,2016-11-21,2,2117,home,TRUE,Central Michigan,88,Chippewas,Central Michigan Chippewas,C Michigan
+400915735,2016-11-21,2,2492,away,TRUE,Pepperdine,77,Waves,Pepperdine Waves,Pepperdine
+400916294,2016-11-21,2,16,home,TRUE,Sacramento State,72,Hornets,Sacramento State Hornets,Sacramento St
+400916294,2016-11-21,2,302,away,TRUE,UC Davis,81,Aggies,UC Davis Aggies,UC Davis
+400916141,2016-11-21,2,41,home,TRUE,UConn,90,Huskies,UConn Huskies,UConn
+400916141,2016-11-21,2,197,away,TRUE,Oklahoma State,98,Cowboys,Oklahoma State Cowboys,Oklahoma St
+400915517,2016-11-21,2,12,home,FALSE,Arizona,71,Wildcats,Arizona Wildcats,Arizona
+400915517,2016-11-21,2,2458,away,FALSE,Northern Colorado,55,Bears,Northern Colorado Bears,N Colorado
+400910821,2016-11-21,2,238,home,FALSE,Vanderbilt,72,Commodores,Vanderbilt Commodores,Vanderbilt
+400910821,2016-11-21,2,2083,away,FALSE,Bucknell,75,Bison,Bucknell Bison,Bucknell
+400916291,2016-11-21,2,331,home,FALSE,Eastern Washington,81,Eagles,Eastern Washington Eagles,E Washington
+400916291,2016-11-21,2,2803,away,FALSE,Bryant,77,Bulldogs,Bryant Bulldogs,Bryant
+400916142,2016-11-21,2,2305,home,TRUE,Kansas,83,Jayhawks,Kansas Jayhawks,Kansas
+400916142,2016-11-21,2,5,away,TRUE,UAB,63,Blazers,UAB Blazers,UAB
+400915734,2016-11-21,2,139,home,TRUE,Saint Louis,62,Billikens,Saint Louis Billikens,Saint Louis
+400915734,2016-11-21,2,252,away,TRUE,BYU,92,Cougars,BYU Cougars,BYU
+400911023,2016-11-21,2,77,home,TRUE,Northwestern,77,Wildcats,Northwestern Wildcats,Northwestern
+400911023,2016-11-21,2,251,away,TRUE,Texas,58,Longhorns,Texas Longhorns,Texas
+400916293,2016-11-21,3,70,home,FALSE,Idaho,96,Vandals,Idaho Vandals,Idaho
+400916293,2016-11-21,3,2571,away,FALSE,South Dakota State,89,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+400915736,2016-11-21,2,2541,home,FALSE,Santa Clara,84,Broncos,Santa Clara Broncos,Santa Clara
+400915736,2016-11-21,2,2529,away,FALSE,Sacred Heart,74,Pioneers,Sacred Heart Pioneers,Sacred Heart
+400915518,2016-11-21,2,25,home,TRUE,California,65,Golden Bears,California Golden Bears,California
+400915518,2016-11-21,2,21,away,TRUE,San Diego State,77,Aztecs,San Diego State Aztecs,San Diego St
+400915255,2016-11-21,2,2124,home,FALSE,Chaminade,61,Silverswords,Chaminade Silverswords,Chaminade
+400915255,2016-11-21,2,153,away,FALSE,North Carolina,104,Tar Heels,North Carolina Tar Heels,North Carolina
+400910543,2016-11-21,2,333,home,TRUE,Alabama,60,Crimson Tide,Alabama Crimson Tide,Alabama
+400910543,2016-11-21,2,2674,away,TRUE,Valparaiso,68,Beacons,Valparaiso Beacons,Valparaiso

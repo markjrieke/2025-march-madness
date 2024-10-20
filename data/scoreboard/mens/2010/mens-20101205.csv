@@ -1,0 +1,5 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303390044,2010-12-05,2,44,home,TRUE,American University,48,Eagles,American University Eagles,American
+303390044,2010-12-05,2,57,away,TRUE,Florida,67,Gators,Florida Gators,Florida
+303390030,2010-12-05,2,30,home,FALSE,USC,73,Trojans,USC Trojans,USC
+303390030,2010-12-05,2,251,away,FALSE,Texas,56,Longhorns,Texas Longhorns,Texas

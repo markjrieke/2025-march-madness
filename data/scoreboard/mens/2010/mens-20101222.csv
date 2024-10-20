@@ -1,0 +1,27 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303560025,2010-12-22,2,25,home,FALSE,California,63,Golden Bears,California Golden Bears,California
+303560025,2010-12-22,2,2305,away,FALSE,Kansas,78,Jayhawks,Kansas Jayhawks,Kansas
+303560041,2010-12-22,2,41,home,FALSE,UConn,81,Huskies,UConn Huskies,UConn
+303560041,2010-12-22,2,108,away,FALSE,Harvard,52,Crimson,Harvard Crimson,Harvard
+303560183,2010-12-22,2,183,home,FALSE,Syracuse,93,Orange,Syracuse Orange,Syracuse
+303560183,2010-12-22,2,2182,away,FALSE,Drexel,65,Dragons,Drexel Dragons,Drexel
+303560221,2010-12-22,2,221,home,FALSE,Pittsburgh,61,Panthers,Pittsburgh Panthers,Pitt
+303560221,2010-12-22,2,44,away,FALSE,American University,46,Eagles,American University Eagles,American
+303560021,2010-12-22,2,85,home,TRUE,IU Indianapolis,54,Jaguars,IU Indianapolis Jaguars,IU Indy
+303560021,2010-12-22,2,21,away,TRUE,San Diego State,56,Aztecs,San Diego State Aztecs,San Diego St
+303562405,2010-12-22,2,2405,home,FALSE,Monmouth,36,Hawks,Monmouth Hawks,Monmouth
+303562405,2010-12-22,2,222,away,FALSE,Villanova,76,Wildcats,Villanova Wildcats,Villanova
+303560142,2010-12-22,2,356,home,TRUE,Illinois,64,Fighting Illini,Illinois Fighting Illini,Illinois
+303560142,2010-12-22,2,142,away,TRUE,Missouri,75,Tigers,Missouri Tigers,Missouri
+303560127,2010-12-22,2,127,home,FALSE,Michigan State,55,Spartans,Michigan State Spartans,Michigan St
+303560127,2010-12-22,2,251,away,FALSE,Texas,67,Longhorns,Texas Longhorns,Texas
+303560096,2010-12-22,2,96,home,FALSE,Kentucky,89,Wildcats,Kentucky Wildcats,Kentucky
+303560096,2010-12-22,2,2737,away,FALSE,Winthrop,52,Eagles,Winthrop Eagles,Winthrop
+303560239,2010-12-22,2,239,home,TRUE,Baylor,83,Bears,Baylor Bears,Baylor
+303560239,2010-12-22,2,301,away,TRUE,San Diego,50,Toreros,San Diego Toreros,San Diego
+303560057,2010-12-22,2,57,home,FALSE,Florida,66,Gators,Florida Gators,Florida
+303560057,2010-12-22,2,2515,away,FALSE,Radford,55,Highlanders,Radford Highlanders,Radford
+303560087,2010-12-22,2,87,home,FALSE,Notre Dame,93,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+303560087,2010-12-22,2,2378,away,FALSE,UMBC,53,Retrievers,UMBC Retrievers,UMBC
+303560113,2010-12-22,2,113,home,FALSE,Massachusetts,59,Minutemen,Massachusetts Minutemen,UMass
+303560113,2010-12-22,2,2116,away,FALSE,UCF,64,Knights,UCF Knights,UCF

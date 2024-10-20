@@ -1,0 +1,59 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230340232,2003-02-03,3,232,home,FALSE,Charleston,75,Cougars,Charleston Cougars,Charleston
+230340232,2003-02-03,3,236,away,FALSE,Chattanooga,85,Mocs,Chattanooga Mocs,Chattanooga
+230342379,2003-02-03,2,2379,home,FALSE,Maryland Eastern Shore,74,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+230342379,2003-02-03,2,2154,away,FALSE,Coppin State,53,Eagles,Coppin State Eagles,Coppin St
+230342169,2003-02-03,2,2169,home,FALSE,Delaware State,58,Hornets,Delaware State Hornets,Delaware St
+230342169,2003-02-03,2,2450,away,FALSE,Norfolk State,44,Spartans,Norfolk State Spartans,Norfolk St
+230340050,2003-02-03,2,50,home,FALSE,Florida A&M,60,Rattlers,Florida A&M Rattlers,Florida A&M
+230340050,2003-02-03,2,2569,away,FALSE,South Carolina State,50,Lady Bulldogs,South Carolina State Lady Bulldogs,SC State
+230340047,2003-02-03,2,47,home,FALSE,Howard,98,Bison,Howard Bison,Howard
+230340047,2003-02-03,2,2415,away,FALSE,Morgan State,37,Lady Bears,Morgan State Lady Bears,Morgan St
+230342542,2003-02-03,2,2542,home,FALSE,Savannah State,47,Tigers,Savannah State Tigers,Savannah St
+230342542,2003-02-03,2,2582,away,FALSE,Southern,81,Jaguars,Southern Jaguars,Southern
+230342065,2003-02-03,2,2065,home,FALSE,Bethune-Cookman,57,Wildcats,Bethune-Cookman Wildcats,Bethune
+230342065,2003-02-03,2,2448,away,FALSE,North Carolina A&T,45,Aggies,North Carolina A&T Aggies,NC A&T
+230340098,2003-02-03,2,98,home,FALSE,Western Kentucky,86,Lady Toppers,Western Kentucky Lady Toppers,Western KY
+230340098,2003-02-03,2,2086,away,FALSE,Butler,57,Bulldogs,Butler Bulldogs,Butler
+230342755,2003-02-03,2,2755,home,FALSE,Grambling,72,Lady Tigers,Grambling Lady Tigers,Grambling
+230342755,2003-02-03,2,2400,away,FALSE,Mississippi Valley State,42,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
+230342640,2003-02-03,2,2640,home,FALSE,Texas Southern,44,Tigers,Texas Southern Tigers,Texas Southern
+230342640,2003-02-03,2,2011,away,FALSE,Alabama State,69,Lady Hornets,Alabama State Lady Hornets,Alabama St
+230342504,2003-02-03,2,2504,home,FALSE,Prairie View A&M,53,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
+230342504,2003-02-03,2,2010,away,FALSE,Alabama A&M,50,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+230342296,2003-02-03,2,2296,home,FALSE,Jackson State,69,Lady Tigers,Jackson State Lady Tigers,Jackson St
+230342296,2003-02-03,2,2029,away,FALSE,Arkansas-Pine Bluff,42,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+230342717,2003-02-03,2,2717,home,FALSE,Western Carolina,75,Catamounts,Western Carolina Catamounts,W Carolina
+230342717,2003-02-03,2,2747,away,FALSE,Wofford,59,Terriers,Wofford Terriers,Wofford
+230342413,2003-02-03,2,2413,home,FALSE,Morehead State,76,Eagles,Morehead State Eagles,Morehead St
+230342413,2003-02-03,2,2046,away,FALSE,Austin Peay,83,Governors,Austin Peay Governors,Austin Peay
+230342193,2003-02-03,2,2193,home,FALSE,East Tennessee State,98,Bucs,East Tennessee State Bucs,ETSU
+230342193,2003-02-03,2,290,away,FALSE,Georgia Southern,92,Eagles,Georgia Southern Eagles,GA Southern
+230342127,2003-02-03,2,2127,home,FALSE,Charleston Southern,75,Buccaneers,Charleston Southern Buccaneers,Charleston So
+230342127,2003-02-03,2,2515,away,FALSE,Radford,65,Highlanders,Radford Highlanders,Radford
+230342050,2003-02-03,3,2050,home,FALSE,Ball State,97,Cardinals,Ball State Cardinals,Ball State
+230342050,2003-02-03,3,193,away,FALSE,Miami (OH),94,RedHawks,Miami (OH) RedHawks,Miami OH
+230340324,2003-02-03,2,324,home,FALSE,Coastal Carolina,76,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+230340324,2003-02-03,2,2335,away,FALSE,Liberty,82,Flames,Liberty Flames,Liberty
+230340258,2003-02-03,2,258,home,FALSE,Virginia,69,Cavaliers,Virginia Cavaliers,Virginia
+230340258,2003-02-03,2,228,away,FALSE,Clemson,54,Tigers,Clemson Tigers,Clemson
+230340231,2003-02-03,2,231,home,FALSE,Furman,63,Paladins,Furman Paladins,Furman
+230340231,2003-02-03,2,2026,away,FALSE,App State,73,Mountaineers,App State Mountaineers,App State
+230342197,2003-02-03,2,2197,home,FALSE,Eastern Illinois,64,Panthers,Eastern Illinois Panthers,E Illinois
+230342197,2003-02-03,2,2635,away,FALSE,Tennessee Tech,46,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
+230342710,2003-02-03,2,2710,home,FALSE,Western Illinois,78,Leathernecks,Western Illinois Leathernecks,W Illinois
+230342710,2003-02-03,2,140,away,FALSE,Kansas City,55,Roos,Kansas City Roos,Kansas City
+230342546,2003-02-03,2,2546,home,FALSE,Southeast Missouri State,77,Redhawks,Southeast Missouri State Redhawks,SE Missouri
+230342546,2003-02-03,2,2634,away,FALSE,Tennessee State,64,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
+230342534,2003-02-03,2,2534,home,FALSE,Sam Houston,66,Bearkats,Sam Houston Bearkats,Sam Houston
+230342534,2003-02-03,2,357,away,FALSE,Texas A&M-Corpus Christi,64,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+230342130,2003-02-03,2,2130,home,FALSE,Chicago State,55,Cougars,Chicago State Cougars,Chicago St
+230342130,2003-02-03,2,2473,away,FALSE,Oakland,60,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+230340292,2003-02-03,2,292,home,FALSE,UT Rio Grande Valley,41,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+230340292,2003-02-03,2,309,away,FALSE,Louisiana,66,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+230340003,2003-02-03,2,3,home,FALSE,Birmingham-Southern,73,Panthers,Birmingham-Southern Panthers,Birm-Southern
+230340003,2003-02-03,2,2272,away,FALSE,High Point,62,Panthers,High Point Panthers,High Point
+230342674,2003-02-03,2,2674,home,FALSE,Valparaiso,66,Beacons,Valparaiso Beacons,Valparaiso
+230342674,2003-02-03,2,198,away,FALSE,Oral Roberts,43,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+230340253,2003-02-03,2,253,home,FALSE,Southern Utah,72,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+230340253,2003-02-03,2,85,away,FALSE,IU Indianapolis,61,Jaguars,IU Indianapolis Jaguars,IU Indy

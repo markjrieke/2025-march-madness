@@ -1,0 +1,15 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273220153,2007-11-18,2,153,home,FALSE,North Carolina,107,Tar Heels,North Carolina Tar Heels,North Carolina
+273220153,2007-11-18,2,314,away,FALSE,Iona,72,Gaels,Iona Gaels,Iona
+273220097,2007-11-18,2,97,home,TRUE,Louisville,84,Cardinals,Louisville Cardinals,Louisville
+273220097,2007-11-18,2,2296,away,TRUE,Jackson State,53,Tigers,Jackson State Tigers,Jackson St
+273220084,2007-11-18,2,84,home,TRUE,Indiana,100,Hoosiers,Indiana Hoosiers,Indiana
+273220084,2007-11-18,2,2344,away,TRUE,Longwood,49,Lancers,Longwood Lancers,Longwood
+273220251,2007-11-18,2,251,home,FALSE,Texas,100,Longhorns,Texas Longhorns,Texas
+273220251,2007-11-18,2,2028,away,FALSE,Arkansas-Monticello,52,Boll Weevils,Arkansas-Monticello Boll Weevils,Ark-Monticello
+273222670,2007-11-18,2,8,home,TRUE,Arkansas,70,Razorbacks,Arkansas Razorbacks,Arkansas
+273222670,2007-11-18,2,2670,away,TRUE,VCU,60,Rams,VCU Rams,VCU
+273220152,2007-11-18,2,152,home,FALSE,NC State,63,Wolfpack,NC State Wolfpack,NC State
+273220152,2007-11-18,2,2443,away,FALSE,New Orleans,65,Privateers,New Orleans Privateers,New Orleans
+273220222,2007-11-18,2,222,home,FALSE,Villanova,70,Wildcats,Villanova Wildcats,Villanova
+273220222,2007-11-18,2,2083,away,FALSE,Bucknell,64,Bison,Bucknell Bison,Bucknell

@@ -1,0 +1,55 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400869959,2016-03-07,4,2154,home,TRUE,Coppin State,78,Eagles,Coppin State Eagles,Coppin St
+400869959,2016-03-07,4,2450,away,TRUE,Norfolk State,54,Spartans,Norfolk State Spartans,Norfolk St
+400870266,2016-03-07,4,233,home,TRUE,South Dakota,78,Coyotes,South Dakota Coyotes,South Dakota
+400870266,2016-03-07,4,198,away,TRUE,Oral Roberts,61,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+400869958,2016-03-07,4,2415,home,TRUE,Morgan State,52,Lady Bears,Morgan State Lady Bears,Morgan St
+400869958,2016-03-07,4,2428,away,TRUE,North Carolina Central,42,Eagles,North Carolina Central Eagles,NC Central
+400870281,2016-03-07,4,2514,home,TRUE,Quinnipiac,41,Bobcats,Quinnipiac Bobcats,Quinnipiac
+400870281,2016-03-07,4,314,away,TRUE,Iona,57,Gaels,Iona Gaels,Iona
+400869972,2016-03-07,4,252,home,TRUE,BYU,87,Cougars,BYU Cougars,BYU
+400869972,2016-03-07,4,2541,away,TRUE,Santa Clara,67,Broncos,Santa Clara Broncos,Santa Clara
+400870110,2016-03-07,4,2458,home,TRUE,Northern Colorado,45,Bears,Northern Colorado Bears,N Colorado
+400870110,2016-03-07,4,304,away,TRUE,Idaho State,54,Bengals,Idaho State Bengals,Idaho St
+400870291,2016-03-07,4,2571,home,TRUE,South Dakota State,76,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+400870291,2016-03-07,4,2437,away,TRUE,Omaha,60,Mavericks,Omaha Mavericks,Omaha
+400870292,2016-03-07,4,2550,home,TRUE,Seton Hall,56,Pirates,Seton Hall Pirates,Seton Hall
+400870292,2016-03-07,4,156,away,TRUE,Creighton,77,Bluejays,Creighton Bluejays,Creighton
+400869960,2016-03-07,4,2379,home,TRUE,Maryland Eastern Shore,51,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+400869960,2016-03-07,4,47,away,TRUE,Howard,68,Bison,Howard Bison,Howard
+400870165,2016-03-07,4,2199,home,FALSE,Eastern Michigan,73,Eagles,Eastern Michigan Eagles,E Michigan
+400870165,2016-03-07,4,2309,away,FALSE,Kent State,60,Golden Flashes,Kent State Golden Flashes,Kent State
+400870114,2016-03-07,4,21,home,TRUE,San Diego State,62,Aztecs,San Diego State Aztecs,San Diego St
+400870114,2016-03-07,4,2751,away,TRUE,Wyoming,44,Cowgirls,Wyoming Cowgirls,Wyoming
+400870011,2016-03-07,4,2608,home,TRUE,Saint Mary's,65,Gaels,Saint Mary's Gaels,Saint Mary's
+400870011,2016-03-07,4,2539,away,TRUE,San Francisco,67,Dons,San Francisco Dons,San Francisco
+400870162,2016-03-07,4,2084,home,FALSE,Buffalo,60,Bulls,Buffalo Bulls,Buffalo
+400870162,2016-03-07,4,189,away,FALSE,Bowling Green,44,Falcons,Bowling Green Falcons,Bowling Green
+400870111,2016-03-07,4,149,home,TRUE,Montana,78,Lady Griz,Montana Lady Griz,Montana
+400870111,2016-03-07,4,2464,away,TRUE,Northern Arizona,63,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+400870357,2016-03-07,4,305,home,TRUE,DePaul,66,Blue Demons,DePaul Blue Demons,DePaul
+400870357,2016-03-07,4,2599,away,TRUE,St. John's,75,Red Storm,St. John's Red Storm,St John's
+400870351,2016-03-07,4,41,home,TRUE,UConn,77,Huskies,UConn Huskies,UConn
+400870351,2016-03-07,4,58,away,TRUE,South Florida,51,Bulls,South Florida Bulls,South Florida
+400870164,2016-03-07,4,2711,home,FALSE,Western Michigan,94,Broncos,Western Michigan Broncos,W Michigan
+400870164,2016-03-07,4,2459,away,FALSE,Northern Illinois,52,Huskies,Northern Illinois Huskies,N Illinois
+400870163,2016-03-07,4,2006,home,FALSE,Akron,66,Zips,Akron Zips,Akron
+400870163,2016-03-07,4,193,away,FALSE,Miami (OH),54,RedHawks,Miami (OH) RedHawks,Miami OH
+400870000,2016-03-07,4,2083,home,FALSE,Bucknell,73,Bison,Bucknell Bison,Bucknell
+400870000,2016-03-07,4,44,away,FALSE,American University,65,Eagles,American University Eagles,American
+400869577,2016-03-07,4,2352,home,FALSE,Loyola Maryland,44,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+400869577,2016-03-07,4,2426,away,FALSE,Navy,42,Midshipmen,Navy Midshipmen,Navy
+400869576,2016-03-07,4,2329,home,FALSE,Lehigh,64,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+400869576,2016-03-07,4,107,away,FALSE,Holy Cross,48,Crusaders,Holy Cross Crusaders,Holy Cross
+400870170,2016-03-07,4,349,home,FALSE,Army,89,Black Knights,Army Black Knights,Army
+400870170,2016-03-07,4,2142,away,FALSE,Colgate,62,Raiders,Colgate Raiders,Colgate
+400870115,2016-03-07,4,328,home,TRUE,Utah State,59,Aggies,Utah State Aggies,Utah State
+400870115,2016-03-07,4,2440,away,TRUE,Nevada,35,Wolf Pack,Nevada Wolf Pack,Nevada
+400870112,2016-03-07,4,16,home,TRUE,Sacramento State,102,Hornets,Sacramento State Hornets,Sacramento St
+400870112,2016-03-07,4,253,away,TRUE,Southern Utah,89,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+400870314,2016-03-07,4,239,home,TRUE,Baylor,79,Bears,Baylor Bears,Baylor
+400870314,2016-03-07,4,251,away,TRUE,Texas,63,Longhorns,Texas Longhorns,Texas
+400870116,2016-03-07,4,2439,home,TRUE,UNLV,55,Lady Rebels,UNLV Lady Rebels,UNLV
+400870116,2016-03-07,4,2005,away,TRUE,Air Force,42,Falcons,Air Force Falcons,Air Force
+400870113,2016-03-07,4,2692,home,TRUE,Weber State,91,Wildcats,Weber State Wildcats,Weber St
+400870113,2016-03-07,4,2502,away,TRUE,Portland State,68,Vikings,Portland State Vikings,Portland St

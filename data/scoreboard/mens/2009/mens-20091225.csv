@@ -1,0 +1,9 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293590111,2009-12-25,2,2567,home,TRUE,SMU,62,Mustangs,SMU Mustangs,SMU
+293590111,2009-12-25,2,111,away,TRUE,Northeastern,73,Huskies,Northeastern Huskies,Northeastern
+293592711,2009-12-25,2,232,home,TRUE,Charleston,63,Cougars,Charleston Cougars,Charleston
+293592711,2009-12-25,2,2711,away,TRUE,Western Michigan,66,Broncos,Western Michigan Broncos,W Michigan
+293590062,2009-12-25,2,62,home,FALSE,Hawai'i,75,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
+293590062,2009-12-25,2,2608,away,FALSE,Saint Mary's,84,Gaels,Saint Mary's Gaels,Saint Mary's
+293590030,2009-12-25,2,2439,home,TRUE,UNLV,56,Rebels,UNLV Rebels,UNLV
+293590030,2009-12-25,2,30,away,TRUE,USC,67,Trojans,USC Trojans,USC

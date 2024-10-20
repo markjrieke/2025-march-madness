@@ -1,0 +1,13 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310700024,2011-03-11,2,24,home,TRUE,Stanford,100,Cardinal,Stanford Cardinal,Stanford
+310700024,2011-03-11,2,12,away,TRUE,Arizona,71,Wildcats,Arizona Wildcats,Arizona
+310700239,2011-03-11,2,239,home,TRUE,Baylor,86,Bears,Baylor Bears,Baylor
+310700239,2011-03-11,2,2306,away,TRUE,Kansas State,53,Wildcats,Kansas State Wildcats,Kansas St
+310700026,2011-03-11,2,26,home,TRUE,UCLA,63,Bruins,UCLA Bruins,UCLA
+310700026,2011-03-11,2,25,away,TRUE,California,50,Golden Bears,California Golden Bears,California
+310700245,2011-03-11,2,245,home,TRUE,Texas A&M,81,Aggies,Texas A&M Aggies,Texas A&M
+310700245,2011-03-11,2,201,away,TRUE,Oklahoma,68,Sooners,Oklahoma Sooners,Oklahoma
+310702739,2011-03-11,2,2739,home,FALSE,Green Bay,95,Phoenix,Green Bay Phoenix,Green Bay
+310702739,2011-03-11,2,2750,away,FALSE,Wright State,65,Raiders,Wright State Raiders,Wright St
+310700248,2011-03-11,2,248,home,TRUE,Houston,60,Cougars,Houston Cougars,Houston
+310700248,2011-03-11,2,2655,away,TRUE,Tulane,70,Green Wave,Tulane Green Wave,Tulane

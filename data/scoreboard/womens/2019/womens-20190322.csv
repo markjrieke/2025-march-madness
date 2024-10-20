@@ -1,0 +1,33 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401124134,2019-03-22,4,97,home,FALSE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
+401124134,2019-03-22,4,2523,away,FALSE,Robert Morris,34,Colonials,Robert Morris Colonials,Robert Morris
+401124182,2019-03-22,4,2579,home,TRUE,South Carolina,74,Gamecocks,South Carolina Gamecocks,South Carolina
+401124182,2019-03-22,4,2057,away,TRUE,Belmont,52,Bruins,Belmont Bruins,Belmont
+401124184,2019-03-22,4,2294,home,FALSE,Iowa,66,Hawkeyes,Iowa Hawkeyes,Iowa
+401124184,2019-03-22,4,2382,away,FALSE,Mercer,61,Bears,Mercer Bears,Mercer
+401124147,2019-03-22,5,269,home,TRUE,Marquette,58,Golden Eagles,Marquette Golden Eagles,Marquette
+401124147,2019-03-22,5,242,away,TRUE,Rice,54,Owls,Rice Owls,Rice
+401124135,2019-03-22,4,130,home,TRUE,Michigan,84,Wolverines,Michigan Wolverines,Michigan
+401124135,2019-03-22,4,2306,away,TRUE,Kansas State,54,Wildcats,Kansas State Wildcats,Kansas St
+401124183,2019-03-22,4,52,home,TRUE,Florida State,70,Seminoles,Florida State Seminoles,Florida St
+401124183,2019-03-22,4,2083,away,TRUE,Bucknell,67,Bison,Bucknell Bison,Bucknell
+401124185,2019-03-22,5,142,home,TRUE,Missouri,77,Tigers,Missouri Tigers,Missouri
+401124185,2019-03-22,5,2181,away,TRUE,Drake,76,Bulldogs,Drake Bulldogs,Drake
+401124140,2019-03-22,4,164,home,TRUE,Rutgers,71,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401124140,2019-03-22,4,2084,away,TRUE,Buffalo,82,Bulls,Buffalo Bulls,Buffalo
+401124146,2019-03-22,4,245,home,FALSE,Texas A&M,84,Aggies,Texas A&M Aggies,Texas A&M
+401124146,2019-03-22,4,2750,away,FALSE,Wright State,61,Raiders,Wright State Raiders,Wright St
+401124194,2019-03-22,4,251,home,TRUE,Texas,65,Longhorns,Texas Longhorns,Texas
+401124194,2019-03-22,4,84,away,TRUE,Indiana,69,Hoosiers,Indiana Hoosiers,Indiana
+401124190,2019-03-22,4,9,home,TRUE,Arizona State,60,Sun Devils,Arizona State Sun Devils,Arizona St
+401124190,2019-03-22,4,2116,away,TRUE,UCF,45,Knights,UCF Knights,UCF
+401124189,2019-03-22,4,233,home,TRUE,South Dakota,66,Coyotes,South Dakota Coyotes,South Dakota
+401124189,2019-03-22,4,228,away,TRUE,Clemson,79,Tigers,Clemson Tigers,Clemson
+401124141,2019-03-22,4,41,home,FALSE,UConn,110,Huskies,UConn Huskies,UConn
+401124141,2019-03-22,4,119,away,FALSE,Towson,61,Tigers,Towson Tigers,Towson
+401124191,2019-03-22,4,2390,home,FALSE,Miami,69,Hurricanes,Miami Hurricanes,Miami
+401124191,2019-03-22,4,526,away,FALSE,Florida Gulf Coast,62,Eagles,Florida Gulf Coast Eagles,FGCU
+401124188,2019-03-22,4,344,home,FALSE,Mississippi State,103,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401124188,2019-03-22,4,2582,away,FALSE,Southern,46,Jaguars,Southern Jaguars,Southern
+401124195,2019-03-22,4,2483,home,FALSE,Oregon,78,Ducks,Oregon Ducks,Oregon
+401124195,2019-03-22,4,2502,away,FALSE,Portland State,40,Vikings,Portland State Vikings,Portland St

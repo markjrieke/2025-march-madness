@@ -1,0 +1,11 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401175240,2020-01-09,2,301,home,FALSE,San Diego,50,Toreros,San Diego Toreros,San Diego
+401175240,2020-01-09,2,2250,away,FALSE,Gonzaga,94,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401166160,2020-01-09,2,127,home,FALSE,Michigan State,74,Spartans,Michigan State Spartans,Michigan St
+401166160,2020-01-09,2,135,away,FALSE,Minnesota,58,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401170655,2020-01-09,3,2483,home,FALSE,Oregon,74,Ducks,Oregon Ducks,Oregon
+401170655,2020-01-09,3,12,away,FALSE,Arizona,73,Wildcats,Arizona Wildcats,Arizona
+401166159,2020-01-09,4,130,home,FALSE,Michigan,84,Wolverines,Michigan Wolverines,Michigan
+401166159,2020-01-09,4,2509,away,FALSE,Purdue,78,Boilermakers,Purdue Boilermakers,Purdue
+401169525,2020-01-09,2,2724,home,FALSE,Wichita State,76,Shockers,Wichita State Shockers,Wichita St
+401169525,2020-01-09,2,235,away,FALSE,Memphis,67,Tigers,Memphis Tigers,Memphis

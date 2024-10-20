@@ -1,0 +1,23 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303530041,2010-12-19,2,41,home,TRUE,UConn,81,Huskies,UConn Huskies,UConn
+303530041,2010-12-19,2,194,away,TRUE,Ohio State,50,Buckeyes,Ohio State Buckeyes,Ohio State
+303532633,2010-12-19,3,2633,home,FALSE,Tennessee,82,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+303532633,2010-12-19,3,24,away,FALSE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
+303530164,2010-12-19,2,164,home,TRUE,Rutgers,50,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+303530164,2010-12-19,2,245,away,TRUE,Texas A&M,79,Aggies,Texas A&M Aggies,Texas A&M
+303530062,2010-12-19,2,62,home,FALSE,Hawai'i,44,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
+303530062,2010-12-19,2,26,away,FALSE,UCLA,72,Bruins,UCLA Bruins,UCLA
+303530153,2010-12-19,2,153,home,TRUE,North Carolina,75,Tar Heels,North Carolina Tar Heels,North Carolina
+303530153,2010-12-19,2,2579,away,TRUE,South Carolina,51,Gamecocks,South Carolina Gamecocks,South Carolina
+303530008,2010-12-19,2,8,home,FALSE,Arkansas,67,Razorbacks,Arkansas Razorbacks,Arkansas
+303530008,2010-12-19,2,201,away,FALSE,Oklahoma,57,Sooners,Oklahoma Sooners,Oklahoma
+303532599,2010-12-19,2,2599,home,FALSE,St. John's,56,Red Storm,St. John's Red Storm,St John's
+303532599,2010-12-19,2,2540,away,FALSE,UC Santa Barbara,47,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+303532169,2010-12-19,2,2169,home,FALSE,Delaware State,49,Hornets,Delaware State Hornets,Delaware St
+303532169,2010-12-19,2,120,away,FALSE,Maryland,79,Terrapins,Maryland Terrapins,Maryland
+303530046,2010-12-19,2,46,home,FALSE,Georgetown,72,Hoyas,Georgetown Hoyas,Georgetown
+303530046,2010-12-19,2,2623,away,FALSE,Missouri State,59,Lady Bears,Missouri State Lady Bears,Missouri St
+303532439,2010-12-19,2,2439,home,FALSE,UNLV,59,Lady Rebels,UNLV Lady Rebels,UNLV
+303532439,2010-12-19,2,251,away,FALSE,Texas,85,Longhorns,Texas Longhorns,Texas
+303530103,2010-12-19,2,103,home,FALSE,Boston College,85,Eagles,Boston College Eagles,Boston College
+303530103,2010-12-19,2,350,away,FALSE,UNC Wilmington,55,Seahawks,UNC Wilmington Seahawks,UNC Wilmington

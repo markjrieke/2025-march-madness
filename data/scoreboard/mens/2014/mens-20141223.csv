@@ -1,0 +1,11 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400591608,2014-12-23,2,2439,home,FALSE,UNLV,71,Rebels,UNLV Rebels,UNLV
+400591608,2014-12-23,2,12,away,FALSE,Arizona,67,Wildcats,Arizona Wildcats,Arizona
+400587872,2014-12-23,2,97,home,FALSE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
+400587872,2014-12-23,2,2463,away,FALSE,Cal State Northridge,55,Matadors,Cal State Northridge Matadors,CSU Northridge
+400588387,2014-12-23,2,222,home,FALSE,Villanova,92,Wildcats,Villanova Wildcats,Villanova
+400588387,2014-12-23,2,2885,away,FALSE,NJIT,67,Highlanders,NJIT Highlanders,NJIT
+400585765,2014-12-23,3,251,home,FALSE,Texas,71,Longhorns,Texas Longhorns,Texas
+400585765,2014-12-23,3,24,away,FALSE,Stanford,74,Cardinal,Stanford Cardinal,Stanford
+400586939,2014-12-23,2,254,home,FALSE,Utah,80,Utes,Utah Utes,Utah
+400586939,2014-12-23,2,2571,away,FALSE,South Dakota State,66,Jackrabbits,South Dakota State Jackrabbits,S Dakota St

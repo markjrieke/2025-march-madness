@@ -1,0 +1,33 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401527980,2023-03-17,5,58,home,TRUE,South Florida,67,Bulls,South Florida Bulls,South Florida
+401527980,2023-03-17,5,269,away,TRUE,Marquette,65,Golden Eagles,Marquette Golden Eagles,Marquette
+401527971,2023-03-17,4,12,home,TRUE,Arizona,75,Wildcats,Arizona Wildcats,Arizona
+401527971,2023-03-17,4,277,away,TRUE,West Virginia,62,Mountaineers,West Virginia Mountaineers,West Virginia
+401527966,2023-03-17,4,52,home,TRUE,Florida State,54,Seminoles,Florida State Seminoles,Florida St
+401527966,2023-03-17,4,61,away,TRUE,Georgia,66,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+401527981,2023-03-17,4,2579,home,FALSE,South Carolina,72,Gamecocks,South Carolina Gamecocks,South Carolina
+401527981,2023-03-17,4,2450,away,FALSE,Norfolk State,40,Spartans,Norfolk State Spartans,Norfolk St
+401527968,2023-03-17,4,120,home,FALSE,Maryland,93,Terrapins,Maryland Terrapins,Maryland
+401527968,2023-03-17,4,107,away,FALSE,Holy Cross,61,Crusaders,Holy Cross Crusaders,Holy Cross
+401527977,2023-03-17,4,130,home,TRUE,Michigan,71,Wolverines,Michigan Wolverines,Michigan
+401527977,2023-03-17,4,2439,away,TRUE,UNLV,59,Lady Rebels,UNLV Lady Rebels,UNLV
+401527976,2023-03-17,4,87,home,FALSE,Notre Dame,82,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401527976,2023-03-17,4,253,away,FALSE,Southern Utah,56,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+401527967,2023-03-17,4,2294,home,FALSE,Iowa,95,Hawkeyes,Iowa Hawkeyes,Iowa
+401527967,2023-03-17,4,2545,away,FALSE,SE Louisiana,43,Lady Lions,SE Louisiana Lady Lions,SE Louisiana
+401527978,2023-03-17,4,99,home,FALSE,LSU,73,Tigers,LSU Tigers,LSU
+401527978,2023-03-17,4,62,away,FALSE,Hawai'i,50,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
+401527973,2023-03-17,4,259,home,FALSE,Virginia Tech,58,Hokies,Virginia Tech Hokies,Virginia Tech
+401527973,2023-03-17,4,236,away,FALSE,Chattanooga,33,Mocs,Chattanooga Mocs,Chattanooga
+401527979,2023-03-17,4,156,home,TRUE,Creighton,66,Bluejays,Creighton Bluejays,Creighton
+401527979,2023-03-17,4,344,away,TRUE,Mississippi State,81,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401527975,2023-03-17,4,254,home,FALSE,Utah,103,Utes,Utah Utes,Utah
+401527975,2023-03-17,4,2241,away,FALSE,Gardner-Webb,77,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+401527970,2023-03-17,4,24,home,FALSE,Stanford,92,Cardinal,Stanford Cardinal,Stanford
+401527970,2023-03-17,4,2529,away,FALSE,Sacred Heart,49,Pioneers,Sacred Heart Pioneers,Sacred Heart
+401527972,2023-03-17,5,30,home,TRUE,USC,57,Trojans,USC Trojans,USC
+401527972,2023-03-17,5,2571,away,TRUE,South Dakota State,62,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+401527974,2023-03-17,4,152,home,TRUE,NC State,63,Wolfpack,NC State Wolfpack,NC State
+401527974,2023-03-17,4,163,away,TRUE,Princeton,64,Tigers,Princeton Tigers,Princeton
+401527969,2023-03-17,4,145,home,TRUE,Ole Miss,71,Rebels,Ole Miss Rebels,Ole Miss
+401527969,2023-03-17,4,2250,away,TRUE,Gonzaga,48,Bulldogs,Gonzaga Bulldogs,Gonzaga

@@ -1,0 +1,49 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401402595,2022-03-08,4,314,home,TRUE,Iona,74,Gaels,Iona Gaels,Iona
+401402595,2022-03-08,4,2520,away,TRUE,Rider,58,Broncs,Rider Broncs,Rider
+401402596,2022-03-08,4,2612,home,TRUE,Saint Peter's,49,Peacocks,Saint Peter's Peacocks,Saint Peter's
+401402596,2022-03-08,4,2368,away,TRUE,Marist,29,Red Foxes,Marist Red Foxes,Marist
+401402591,2022-03-08,4,85,home,TRUE,IU Indianapolis,61,Jaguars,IU Indianapolis Jaguars,IU Indy
+401402591,2022-03-08,4,325,away,TRUE,Cleveland State,54,Vikings,Cleveland State Vikings,Cleveland St
+401402458,2022-03-08,4,2116,home,TRUE,UCF,69,Knights,UCF Knights,UCF
+401402458,2022-03-08,4,202,away,TRUE,Tulsa,54,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+401402597,2022-03-08,4,2405,home,TRUE,Monmouth,65,Hawks,Monmouth Hawks,Monmouth
+401402597,2022-03-08,4,2099,away,TRUE,Canisius,71,Golden Griffins,Canisius Golden Griffins,Canisius
+401408531,2022-03-08,4,2571,home,TRUE,South Dakota State,45,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+401408531,2022-03-08,4,233,away,TRUE,South Dakota,56,Coyotes,South Dakota Coyotes,South Dakota
+401402539,2022-03-08,4,304,home,TRUE,Idaho State,54,Bengals,Idaho State Bengals,Idaho St
+401402539,2022-03-08,4,2458,away,TRUE,Northern Colorado,72,Bears,Northern Colorado Bears,N Colorado
+401404448,2022-03-08,4,292,home,TRUE,UT Rio Grande Valley,71,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+401404448,2022-03-08,4,2547,away,TRUE,Seattle U,61,Redhawks,Seattle U Redhawks,Seattle U
+401402572,2022-03-08,5,2463,home,TRUE,Cal State Northridge,62,Matadors,Cal State Northridge Matadors,CSU Northridge
+401402572,2022-03-08,5,2934,away,TRUE,Cal State Bakersfield,63,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+401402459,2022-03-08,4,218,home,TRUE,Temple,55,Owls,Temple Owls,Temple
+401402459,2022-03-08,4,2567,away,TRUE,SMU,63,Mustangs,SMU Mustangs,SMU
+401404465,2022-03-08,4,252,home,TRUE,BYU,59,Cougars,BYU Cougars,BYU
+401404465,2022-03-08,4,2250,away,TRUE,Gonzaga,71,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401402540,2022-03-08,4,2464,home,TRUE,Northern Arizona,75,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+401402540,2022-03-08,4,149,away,TRUE,Montana,57,Lady Griz,Montana Lady Griz,Montana
+401409245,2022-03-08,5,2638,home,TRUE,UTEP,57,Miners,UTEP Miners,UTEP
+401409245,2022-03-08,5,2636,away,TRUE,UTSA,58,Roadrunners,UTSA Roadrunners,UTSA
+401409246,2022-03-08,4,2229,home,TRUE,Florida International,68,Panthers,Florida International Panthers,FIU
+401409246,2022-03-08,4,2226,away,TRUE,Florida Atlantic,60,Owls,Florida Atlantic Owls,FAU
+401404449,2022-03-08,4,2320,home,TRUE,Lamar,65,Cardinals,Lamar Cardinals,Lamar
+401404449,2022-03-08,4,166,away,TRUE,New Mexico State,54,Aggies,New Mexico State Aggies,New Mexico St
+401402573,2022-03-08,4,2239,home,TRUE,Cal State Fullerton,70,Titans,Cal State Fullerton Titans,Fullerton
+401402573,2022-03-08,4,13,away,TRUE,Cal Poly,64,Mustangs,Cal Poly Mustangs,Cal Poly
+401408512,2022-03-08,4,311,home,FALSE,Maine,72,Black Bears,Maine Black Bears,Maine
+401408512,2022-03-08,4,2885,away,FALSE,NJIT,48,Highlanders,NJIT Highlanders,NJIT
+401408511,2022-03-08,4,399,home,FALSE,UAlbany,67,Great Danes,UAlbany Great Danes,UAlbany
+401408511,2022-03-08,4,261,away,FALSE,Vermont,54,Catamounts,Vermont Catamounts,Vermont
+401402460,2022-03-08,4,58,home,TRUE,South Florida,63,Bulls,South Florida Bulls,South Florida
+401402460,2022-03-08,4,235,away,TRUE,Memphis,53,Tigers,Memphis Tigers,Memphis
+401402541,2022-03-08,4,147,home,TRUE,Montana State,81,Bobcats,Montana State Bobcats,Montana St
+401402541,2022-03-08,4,2692,away,TRUE,Weber State,60,Wildcats,Weber State Wildcats,Weber St
+401409292,2022-03-08,4,2439,home,FALSE,UNLV,61,Lady Rebels,UNLV Lady Rebels,UNLV
+401409292,2022-03-08,4,2005,away,FALSE,Air Force,50,Falcons,Air Force Falcons,Air Force
+401402461,2022-03-08,4,2655,home,TRUE,Tulane,57,Green Wave,Tulane Green Wave,Tulane
+401402461,2022-03-08,4,248,away,TRUE,Houston,65,Cougars,Houston Cougars,Houston
+401402542,2022-03-08,4,253,home,TRUE,Southern Utah,64,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+401402542,2022-03-08,4,70,away,TRUE,Idaho,77,Vandals,Idaho Vandals,Idaho
+401409293,2022-03-08,4,167,home,TRUE,New Mexico,71,Lobos,New Mexico Lobos,New Mexico
+401409293,2022-03-08,4,36,away,TRUE,Colorado State,82,Rams,Colorado State Rams,Colorado St

@@ -1,0 +1,9 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401364498,2021-12-31,4,130,home,FALSE,Michigan,90,Wolverines,Michigan Wolverines,Michigan
+401364498,2021-12-31,4,194,away,FALSE,Ohio State,71,Buckeyes,Ohio State Buckeyes,Ohio State
+401382094,2021-12-31,0,264,home,FALSE,Washington,0,Huskies,Washington Huskies,Washington
+401382094,2021-12-31,0,24,away,FALSE,Stanford,0,Cardinal,Stanford Cardinal,Stanford
+401382096,2021-12-31,0,30,home,FALSE,USC,0,Trojans,USC Trojans,USC
+401382096,2021-12-31,0,12,away,FALSE,Arizona,0,Wildcats,Arizona Wildcats,Arizona
+401378374,2021-12-31,0,305,home,FALSE,DePaul,0,Blue Demons,DePaul Blue Demons,DePaul
+401378374,2021-12-31,0,41,away,FALSE,UConn,0,Huskies,UConn Huskies,UConn

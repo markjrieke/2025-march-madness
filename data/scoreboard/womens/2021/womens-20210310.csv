@@ -1,0 +1,73 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401307336,2021-03-10,4,158,home,TRUE,Nebraska,72,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401307336,2021-03-10,4,135,away,TRUE,Minnesota,61,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401287733,2021-03-10,4,189,home,TRUE,Bowling Green,63,Falcons,Bowling Green Falcons,Bowling Green
+401287733,2021-03-10,4,2199,away,TRUE,Eastern Michigan,47,Eagles,Eastern Michigan Eagles,E Michigan
+401301899,2021-03-10,4,2229,home,TRUE,Florida International,85,Panthers,Florida International Panthers,FIU
+401301899,2021-03-10,4,2572,away,TRUE,Southern Miss,75,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+401287106,2021-03-10,4,2011,home,FALSE,Alabama State,85,Lady Hornets,Alabama State Lady Hornets,Alabama St
+401287106,2021-03-10,4,2640,away,FALSE,Texas Southern,69,Tigers,Texas Southern Tigers,Texas Southern
+401287099,2021-03-10,4,2277,home,TRUE,Houston Christian,74,Huskies,Houston Christian Huskies,Hou Christian
+401287099,2021-03-10,4,2377,away,TRUE,McNeese,60,Cowgirls,McNeese Cowgirls,McNeese
+401287005,2021-03-10,4,2368,home,TRUE,Marist,63,Red Foxes,Marist Red Foxes,Marist
+401287005,2021-03-10,4,2561,away,TRUE,Siena,55,Saints,Siena Saints,Siena
+401301900,2021-03-10,4,249,home,TRUE,North Texas,66,Mean Green,North Texas Mean Green,North Texas
+401301900,2021-03-10,4,295,away,TRUE,Old Dominion,71,Monarchs,Old Dominion Monarchs,Old Dominion
+401307337,2021-03-10,4,77,home,TRUE,Northwestern,67,Wildcats,Northwestern Wildcats,Northwestern
+401307337,2021-03-10,4,356,away,TRUE,Illinois,42,Fighting Illini,Illinois Fighting Illini,Illinois
+401286936,2021-03-10,4,2166,home,TRUE,Davidson,69,Wildcats,Davidson Wildcats,Davidson
+401286936,2021-03-10,4,179,away,TRUE,St. Bonaventure,61,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+401287735,2021-03-10,4,2084,home,TRUE,Buffalo,73,Bulls,Buffalo Bulls,Buffalo
+401287735,2021-03-10,4,2309,away,TRUE,Kent State,66,Golden Flashes,Kent State Golden Flashes,Kent State
+401286962,2021-03-10,4,302,home,TRUE,UC Davis,61,Aggies,UC Davis Aggies,UC Davis
+401286962,2021-03-10,4,2239,away,TRUE,Cal State Fullerton,54,Titans,Cal State Fullerton Titans,Fullerton
+401286892,2021-03-10,4,338,home,FALSE,Kennesaw State,52,Owls,Kennesaw State Owls,Kennesaw St
+401286892,2021-03-10,4,294,away,FALSE,Jacksonville,55,Dolphins,Jacksonville Dolphins,Jacksonville
+401301763,2021-03-10,4,232,home,TRUE,Charleston,47,Cougars,Charleston Cougars,Charleston
+401301763,2021-03-10,4,350,away,TRUE,UNC Wilmington,60,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+401287004,2021-03-10,4,2514,home,TRUE,Quinnipiac,50,Bobcats,Quinnipiac Bobcats,Quinnipiac
+401287004,2021-03-10,4,2520,away,TRUE,Rider,62,Broncs,Rider Broncs,Rider
+401301901,2021-03-10,4,2348,home,TRUE,Louisiana Tech,50,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+401301901,2021-03-10,4,276,away,TRUE,Marshall,48,Thundering Herd,Marshall Thundering Herd,Marshall
+401287100,2021-03-10,4,2000,home,TRUE,Abilene Christian,81,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
+401287100,2021-03-10,4,2916,away,TRUE,Incarnate Word,70,Cardinals,Incarnate Word Cardinals,Incarnate Word
+401301902,2021-03-10,4,2226,home,TRUE,Florida Atlantic,72,Owls,Florida Atlantic Owls,FAU
+401301902,2021-03-10,4,5,away,TRUE,UAB,66,Blazers,UAB Blazers,UAB
+401301908,2021-03-10,4,166,home,TRUE,New Mexico State,56,Aggies,New Mexico State Aggies,New Mexico St
+401301908,2021-03-10,4,2547,away,TRUE,Seattle U,46,Redhawks,Seattle U Redhawks,Seattle U
+401287737,2021-03-10,4,2117,home,TRUE,Central Michigan,83,Chippewas,Central Michigan Chippewas,C Michigan
+401287737,2021-03-10,4,2459,away,TRUE,Northern Illinois,69,Huskies,Northern Illinois Huskies,N Illinois
+401286934,2021-03-10,4,45,home,TRUE,George Washington,62,Revolutionaries,George Washington Revolutionaries,G Washington
+401286934,2021-03-10,4,2244,away,TRUE,George Mason,56,Patriots,George Mason Patriots,George Mason
+401286964,2021-03-10,4,2934,home,TRUE,Cal State Bakersfield,67,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+401286964,2021-03-10,4,62,away,TRUE,Hawai'i,81,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
+401301870,2021-03-10,4,58,home,TRUE,South Florida,51,Bulls,South Florida Bulls,South Florida
+401301870,2021-03-10,4,2655,away,TRUE,Tulane,47,Green Wave,Tulane Green Wave,Tulane
+401307338,2021-03-10,4,127,home,TRUE,Michigan State,75,Spartans,Michigan State Spartans,Michigan St
+401307338,2021-03-10,4,213,away,TRUE,Penn State,66,Lady Lions,Penn State Lady Lions,Penn State
+401287738,2021-03-10,4,195,home,TRUE,Ohio,61,Bobcats,Ohio Bobcats,Ohio
+401287738,2021-03-10,4,2050,away,TRUE,Ball State,59,Cardinals,Ball State Cardinals,Ball State
+401287107,2021-03-10,4,2296,home,FALSE,Jackson State,70,Lady Tigers,Jackson State Lady Tigers,Jackson St
+401287107,2021-03-10,4,2400,away,FALSE,Mississippi Valley State,47,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
+401289513,2021-03-10,4,116,home,FALSE,Mount St. Mary's,77,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+401289513,2021-03-10,4,161,away,FALSE,Fairleigh Dickinson,62,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+401289493,2021-03-10,4,2681,home,FALSE,Wagner,70,Seahawks,Wagner Seahawks,Wagner
+401289493,2021-03-10,4,2598,away,FALSE,St. Francis (PA),57,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+401301909,2021-03-10,4,3084,home,TRUE,Utah Valley,61,Wolverines,Utah Valley Wolverines,Utah Valley
+401301909,2021-03-10,4,2130,away,TRUE,Chicago State,43,Cougars,Chicago State Cougars,Chicago St
+401286966,2021-03-10,4,300,home,TRUE,UC Irvine,92,Anteaters,UC Irvine Anteaters,UC Irvine
+401286966,2021-03-10,4,2540,away,TRUE,UC Santa Barbara,90,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+401301760,2021-03-10,4,304,home,TRUE,Idaho State,65,Bengals,Idaho State Bengals,Idaho St
+401301760,2021-03-10,4,2458,away,TRUE,Northern Colorado,55,Bears,Northern Colorado Bears,N Colorado
+401301871,2021-03-10,4,2116,home,TRUE,UCF,61,Knights,UCF Knights,UCF
+401301871,2021-03-10,4,248,away,TRUE,Houston,39,Cougars,Houston Cougars,Houston
+401307339,2021-03-10,4,2294,home,TRUE,Iowa,83,Hawkeyes,Iowa Hawkeyes,Iowa
+401307339,2021-03-10,4,2509,away,TRUE,Purdue,72,Boilermakers,Purdue Boilermakers,Purdue
+401301910,2021-03-10,4,2253,home,TRUE,Grand Canyon,67,Lopes,Grand Canyon Lopes,Grand Canyon
+401301910,2021-03-10,4,292,away,TRUE,UT Rio Grande Valley,54,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+401301761,2021-03-10,4,70,home,TRUE,Idaho,80,Vandals,Idaho Vandals,Idaho
+401301761,2021-03-10,4,147,away,TRUE,Montana State,64,Bobcats,Montana State Bobcats,Montana St
+401287031,2021-03-10,4,278,home,TRUE,Fresno State,56,Bulldogs,Fresno State Bulldogs,Fresno St
+401287031,2021-03-10,4,2751,away,TRUE,Wyoming,59,Cowgirls,Wyoming Cowgirls,Wyoming
+401286967,2021-03-10,4,299,home,TRUE,Long Beach State,60,Beach,Long Beach State Beach,Long Beach St
+401286967,2021-03-10,4,13,away,TRUE,Cal Poly,61,Mustangs,Cal Poly Mustangs,Cal Poly

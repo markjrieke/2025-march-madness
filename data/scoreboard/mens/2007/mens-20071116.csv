@@ -1,0 +1,11 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273200041,2007-11-16,2,41,home,TRUE,UConn,70,Huskies,UConn Huskies,UConn
+273200041,2007-11-16,2,235,away,TRUE,Memphis,81,Tigers,Memphis Tigers,Memphis
+273202633,2007-11-16,2,2633,home,TRUE,Tennessee,89,Volunteers,Tennessee Volunteers,Tennessee
+273202633,2007-11-16,2,2504,away,TRUE,Prairie View A&M,75,Panthers,Prairie View A&M Panthers,Prairie View
+273200265,2007-11-16,2,265,home,FALSE,Washington State,74,Cougars,Washington State Cougars,Washington St
+273200265,2007-11-16,2,70,away,FALSE,Idaho,43,Vandals,Idaho Vandals,Idaho
+273200251,2007-11-16,2,251,home,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
+273200251,2007-11-16,2,302,away,FALSE,UC Davis,42,Aggies,UC Davis Aggies,UC Davis
+273202507,2007-11-16,2,2507,home,TRUE,Providence,67,Friars,Providence Friars,Providence
+273202507,2007-11-16,2,8,away,TRUE,Arkansas,51,Razorbacks,Arkansas Razorbacks,Arkansas

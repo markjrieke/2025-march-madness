@@ -1,0 +1,13 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400911752,2017-01-14,4,2567,home,FALSE,SMU,48,Mustangs,SMU Mustangs,SMU
+400911752,2017-01-14,4,41,away,FALSE,UConn,88,Huskies,UConn Huskies,UConn
+400914392,2017-01-14,4,2294,home,FALSE,Iowa,82,Hawkeyes,Iowa Hawkeyes,Iowa
+400914392,2017-01-14,4,120,away,FALSE,Maryland,98,Terrapins,Maryland Terrapins,Maryland
+400911150,2017-01-14,4,277,home,FALSE,West Virginia,63,Mountaineers,West Virginia Mountaineers,West Virginia
+400911150,2017-01-14,4,251,away,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
+400911755,2017-01-14,4,58,home,FALSE,South Florida,79,Bulls,South Florida Bulls,South Florida
+400911755,2017-01-14,4,151,away,FALSE,East Carolina,48,Pirates,East Carolina Pirates,East Carolina
+400911148,2017-01-14,4,201,home,FALSE,Oklahoma,66,Sooners,Oklahoma Sooners,Oklahoma
+400911148,2017-01-14,4,2641,away,FALSE,Texas Tech,45,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+400911149,2017-01-14,4,197,home,FALSE,Oklahoma State,43,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+400911149,2017-01-14,4,2306,away,FALSE,Kansas State,63,Wildcats,Kansas State Wildcats,Kansas St

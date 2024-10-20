@@ -1,0 +1,15 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401263442,2020-11-27,2,2294,home,FALSE,Iowa,103,Hawkeyes,Iowa Hawkeyes,Iowa
+401263442,2020-11-27,2,2582,away,FALSE,Southern,76,Jaguars,Southern Jaguars,Southern
+401263459,2020-11-27,2,275,home,FALSE,Wisconsin,92,Badgers,Wisconsin Badgers,Wisconsin
+401263459,2020-11-27,2,2029,away,FALSE,Arkansas-Pine Bluff,58,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+401262373,2020-11-27,2,356,home,FALSE,Illinois,77,Fighting Illini,Illinois Fighting Illini,Illinois
+401262373,2020-11-27,2,195,away,FALSE,Ohio,75,Bobcats,Ohio Bobcats,Ohio
+401259559,2020-11-27,2,2641,home,FALSE,Texas Tech,84,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401259559,2020-11-27,2,2534,away,FALSE,Sam Houston,52,Bearkats,Sam Houston Bearkats,Sam Houston
+401260378,2020-11-27,5,26,home,TRUE,UCLA,107,Bruins,UCLA Bruins,UCLA
+401260378,2020-11-27,5,2492,away,TRUE,Pepperdine,98,Waves,Pepperdine Waves,Pepperdine
+401262136,2020-11-27,2,164,home,FALSE,Rutgers,96,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401262136,2020-11-27,2,161,away,FALSE,Fairleigh Dickinson,75,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+401260331,2020-11-27,0,52,home,FALSE,Florida State,0,Seminoles,Florida State Seminoles,Florida St
+401260331,2020-11-27,0,2241,away,FALSE,Gardner-Webb,0,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb

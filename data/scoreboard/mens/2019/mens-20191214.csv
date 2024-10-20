@@ -1,0 +1,19 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401168250,2019-12-14,2,97,home,FALSE,Louisville,99,Cardinals,Louisville Cardinals,Louisville
+401168250,2019-12-14,2,2198,away,FALSE,Eastern Kentucky,67,Colonels,Eastern Kentucky Colonels,E Kentucky
+401169657,2019-12-14,2,2305,home,FALSE,Kansas,98,Jayhawks,Kansas Jayhawks,Kansas
+401169657,2019-12-14,2,140,away,FALSE,Kansas City,57,Roos,Kansas City Roos,Kansas City
+401166114,2019-12-14,3,130,home,FALSE,Michigan,70,Wolverines,Michigan Wolverines,Michigan
+401166114,2019-12-14,3,2483,away,FALSE,Oregon,71,Ducks,Oregon Ducks,Oregon
+401170623,2019-12-14,2,12,home,FALSE,Arizona,80,Wildcats,Arizona Wildcats,Arizona
+401170623,2019-12-14,2,2250,away,FALSE,Gonzaga,84,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401168249,2019-12-14,2,96,home,FALSE,Kentucky,67,Wildcats,Kentucky Wildcats,Kentucky
+401168249,2019-12-14,2,59,away,FALSE,Georgia Tech,53,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+401169462,2019-12-14,2,2633,home,FALSE,Tennessee,47,Volunteers,Tennessee Volunteers,Tennessee
+401169462,2019-12-14,2,235,away,FALSE,Memphis,51,Tigers,Memphis Tigers,Memphis
+401170176,2019-12-14,2,2168,home,FALSE,Dayton,78,Flyers,Dayton Flyers,Dayton
+401170176,2019-12-14,2,2181,away,FALSE,Drake,47,Bulldogs,Drake Bulldogs,Drake
+401171734,2019-12-14,2,2473,home,TRUE,Oakland,49,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+401171734,2019-12-14,2,127,away,TRUE,Michigan State,72,Spartans,Michigan State Spartans,Michigan St
+401168295,2019-12-14,2,2086,home,FALSE,Butler,66,Bulldogs,Butler Bulldogs,Butler
+401168295,2019-12-14,2,2582,away,FALSE,Southern,41,Jaguars,Southern Jaguars,Southern

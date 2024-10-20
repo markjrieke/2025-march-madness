@@ -1,0 +1,9 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401107116,2018-12-25,2,2429,home,TRUE,Charlotte,53,49ers,Charlotte 49ers,Charlotte
+401107116,2018-12-25,2,38,away,TRUE,Colorado,68,Buffaloes,Colorado Buffaloes,Colorado
+401107115,2018-12-25,2,62,home,FALSE,Hawai'i,68,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
+401107115,2018-12-25,2,227,away,FALSE,Rhode Island,60,Rams,Rhode Island Rams,Rhode Island
+401107114,2018-12-25,2,2083,home,TRUE,Bucknell,97,Bison,Bucknell Bison,Bucknell
+401107114,2018-12-25,2,2439,away,TRUE,UNLV,72,Rebels,UNLV Rebels,UNLV
+401107113,2018-12-25,2,2628,home,TRUE,TCU,83,Horned Frogs,TCU Horned Frogs,TCU
+401107113,2018-12-25,2,282,away,TRUE,Indiana State,69,Sycamores,Indiana State Sycamores,Indiana St

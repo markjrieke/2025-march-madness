@@ -1,0 +1,11 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401168226,2019-11-29,2,150,home,FALSE,Duke,83,Blue Devils,Duke Blue Devils,Duke
+401168226,2019-11-29,2,2737,away,FALSE,Winthrop,70,Eagles,Winthrop Eagles,Winthrop
+401168228,2019-11-29,2,98,home,TRUE,Western Kentucky,54,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+401168228,2019-11-29,2,97,away,TRUE,Louisville,71,Cardinals,Louisville Cardinals,Louisville
+401166100,2019-11-29,2,194,home,FALSE,Ohio State,90,Buckeyes,Ohio State Buckeyes,Ohio State
+401166100,2019-11-29,2,2415,away,FALSE,Morgan State,57,Bears,Morgan State Bears,Morgan St
+401173677,2019-11-29,2,2608,home,FALSE,Saint Mary's,81,Gaels,Saint Mary's Gaels,Saint Mary's
+401173677,2019-11-29,2,328,away,FALSE,Utah State,73,Aggies,Utah State Aggies,Utah State
+401169864,2019-11-29,2,57,home,FALSE,Florida,73,Gators,Florida Gators,Florida
+401169864,2019-11-29,2,276,away,FALSE,Marshall,67,Thundering Herd,Marshall Thundering Herd,Marshall

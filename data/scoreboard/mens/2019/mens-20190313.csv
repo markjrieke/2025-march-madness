@@ -1,0 +1,67 @@
+game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401121780,2019-03-13,2,2464,home,TRUE,Northern Arizona,60,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+401121780,2019-03-13,2,16,away,TRUE,Sacramento State,72,Hornets,Sacramento State Hornets,Sacramento St
+401120696,2019-03-13,2,152,home,TRUE,NC State,59,Wolfpack,NC State Wolfpack,NC State
+401120696,2019-03-13,2,228,away,TRUE,Clemson,58,Tigers,Clemson Tigers,Clemson
+401121518,2019-03-13,3,45,home,TRUE,George Washington,68,Revolutionaries,George Washington Revolutionaries,G Washington
+401121518,2019-03-13,3,113,away,TRUE,Massachusetts,64,Minutemen,Massachusetts Minutemen,UMass
+401121782,2019-03-13,2,253,home,TRUE,Southern Utah,94,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+401121782,2019-03-13,2,304,away,TRUE,Idaho State,80,Bengals,Idaho State Bengals,Idaho St
+401121593,2019-03-13,2,68,home,TRUE,Boise State,66,Broncos,Boise State Broncos,Boise St
+401121593,2019-03-13,2,36,away,TRUE,Colorado State,57,Rams,Colorado State Rams,Colorado St
+401120697,2019-03-13,2,259,home,TRUE,Virginia Tech,71,Hokies,Virginia Tech Hokies,Virginia Tech
+401120697,2019-03-13,2,2390,away,TRUE,Miami,56,Hurricanes,Miami Hurricanes,Miami
+401120749,2019-03-13,2,30,home,TRUE,USC,78,Trojans,USC Trojans,USC
+401120749,2019-03-13,2,12,away,TRUE,Arizona,65,Wildcats,Arizona Wildcats,Arizona
+401121519,2019-03-13,2,257,home,TRUE,Richmond,52,Spiders,Richmond Spiders,Richmond
+401121519,2019-03-13,2,2230,away,TRUE,Fordham,50,Rams,Fordham Rams,Fordham
+401121781,2019-03-13,2,147,home,TRUE,Montana State,75,Bobcats,Montana State Bobcats,Montana St
+401121781,2019-03-13,2,70,away,TRUE,Idaho,71,Vandals,Idaho Vandals,Idaho
+401121594,2019-03-13,2,167,home,TRUE,New Mexico,78,Lobos,New Mexico Lobos,New Mexico
+401121594,2019-03-13,2,2751,away,TRUE,Wyoming,68,Cowboys,Wyoming Cowboys,Wyoming
+401120750,2019-03-13,2,38,home,TRUE,Colorado,56,Buffaloes,Colorado Buffaloes,Colorado
+401120750,2019-03-13,2,25,away,TRUE,California,51,Golden Bears,California Golden Bears,California
+401121737,2019-03-13,2,2450,home,TRUE,Norfolk State,78,Spartans,Norfolk State Spartans,Norfolk St
+401121737,2019-03-13,2,2569,away,TRUE,South Carolina State,73,Bulldogs,South Carolina State Bulldogs,SC State
+401121582,2019-03-13,2,2320,home,TRUE,Lamar,81,Cardinals,Lamar Cardinals,Lamar
+401121582,2019-03-13,2,2277,away,TRUE,Houston Christian,79,Huskies,Houston Christian Huskies,Hou Christian
+401120727,2019-03-13,2,164,home,TRUE,Rutgers,61,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401120727,2019-03-13,2,158,away,TRUE,Nebraska,68,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401121639,2019-03-13,2,2348,home,TRUE,Louisiana Tech,57,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
+401121639,2019-03-13,2,2226,away,TRUE,Florida Atlantic,56,Owls,Florida Atlantic Owls,FAU
+401121595,2019-03-13,2,2005,home,TRUE,Air Force,87,Falcons,Air Force Falcons,Air Force
+401121595,2019-03-13,2,23,away,TRUE,San José State,56,Spartans,San José State Spartans,San José St
+401120740,2019-03-13,2,2507,home,TRUE,Providence,80,Friars,Providence Friars,Providence
+401120740,2019-03-13,2,2086,away,TRUE,Butler,57,Bulldogs,Butler Bulldogs,Butler
+401120718,2019-03-13,2,2628,home,TRUE,TCU,73,Horned Frogs,TCU Horned Frogs,TCU
+401120718,2019-03-13,2,197,away,TRUE,Oklahoma State,70,Cowboys,Oklahoma State Cowboys,Oklahoma St
+401120698,2019-03-13,2,97,home,TRUE,Louisville,75,Cardinals,Louisville Cardinals,Louisville
+401120698,2019-03-13,2,87,away,TRUE,Notre Dame,53,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401119810,2019-03-13,2,142,home,TRUE,Missouri,71,Tigers,Missouri Tigers,Missouri
+401119810,2019-03-13,2,61,away,TRUE,Georgia,61,Bulldogs,Georgia Bulldogs,Georgia
+401121851,2019-03-13,2,2142,home,FALSE,Colgate,94,Raiders,Colgate Raiders,Colgate
+401121851,2019-03-13,2,2083,away,FALSE,Bucknell,80,Bison,Bucknell Bison,Bucknell
+401121638,2019-03-13,2,5,home,TRUE,UAB,70,Blazers,UAB Blazers,UAB
+401121638,2019-03-13,2,2393,away,TRUE,Middle Tennessee,61,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+401121738,2019-03-13,3,2448,home,TRUE,North Carolina A&T,82,Aggies,North Carolina A&T Aggies,NC A&T
+401121738,2019-03-13,3,2154,away,TRUE,Coppin State,79,Eagles,Coppin State Eagles,Coppin St
+401121583,2019-03-13,2,357,home,TRUE,Texas A&M-Corpus Christi,53,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+401121583,2019-03-13,2,2110,away,TRUE,Central Arkansas,73,Bears,Central Arkansas Bears,C Arkansas
+401120751,2019-03-13,2,26,home,TRUE,UCLA,79,Bruins,UCLA Bruins,UCLA
+401120751,2019-03-13,2,24,away,TRUE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
+401119811,2019-03-13,2,245,home,TRUE,Texas A&M,69,Aggies,Texas A&M Aggies,Texas A&M
+401119811,2019-03-13,2,238,away,TRUE,Vanderbilt,52,Commodores,Vanderbilt Commodores,Vanderbilt
+401120728,2019-03-13,3,356,home,TRUE,Illinois,74,Fighting Illini,Illinois Fighting Illini,Illinois
+401120728,2019-03-13,3,77,away,TRUE,Northwestern,69,Wildcats,Northwestern Wildcats,Northwestern
+401120699,2019-03-13,2,183,home,TRUE,Syracuse,73,Orange,Syracuse Orange,Syracuse
+401120699,2019-03-13,2,221,away,TRUE,Pittsburgh,59,Panthers,Pittsburgh Panthers,Pitt
+401121640,2019-03-13,2,2229,home,TRUE,Florida International,57,Panthers,Florida International Panthers,FIU
+401121640,2019-03-13,2,249,away,TRUE,North Texas,71,Mean Green,North Texas Mean Green,North Texas
+401120741,2019-03-13,2,2599,home,FALSE,St. John's,82,Red Storm,St. John's Red Storm,St John's
+401120741,2019-03-13,2,305,away,FALSE,DePaul,74,Blue Demons,DePaul Blue Demons,DePaul
+401120719,2019-03-13,2,201,home,TRUE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
+401120719,2019-03-13,2,277,away,TRUE,West Virginia,72,Mountaineers,West Virginia Mountaineers,West Virginia
+401121641,2019-03-13,2,276,home,TRUE,Marshall,82,Thundering Herd,Marshall Thundering Herd,Marshall
+401121641,2019-03-13,2,242,away,TRUE,Rice,65,Owls,Rice Owls,Rice
+401120752,2019-03-13,2,2483,home,TRUE,Oregon,84,Ducks,Oregon Ducks,Oregon
+401120752,2019-03-13,2,265,away,TRUE,Washington State,51,Cougars,Washington State Cougars,Washington St
