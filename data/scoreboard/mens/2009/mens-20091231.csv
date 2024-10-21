@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293650150,2009-12-31,2,150,home,FALSE,Duke,114,Blue Devils,Duke Blue Devils,Duke
-293650150,2009-12-31,2,219,away,FALSE,Pennsylvania,55,Quakers,Pennsylvania Quakers,Penn
-293650046,2009-12-31,2,46,home,FALSE,Georgetown,66,Hoyas,Georgetown Hoyas,Georgetown
-293650046,2009-12-31,2,2599,away,FALSE,St. John's,59,Red Storm,St. John's Red Storm,St John's
-293650235,2009-12-31,2,235,home,FALSE,Memphis,59,Tigers,Memphis Tigers,Memphis
-293650235,2009-12-31,2,2633,away,FALSE,Tennessee,66,Volunteers,Tennessee Volunteers,Tennessee
-293650275,2009-12-31,2,275,home,FALSE,Wisconsin,65,Badgers,Wisconsin Badgers,Wisconsin
-293650275,2009-12-31,2,194,away,FALSE,Ohio State,43,Buckeyes,Ohio State Buckeyes,Ohio State
-300010264,2009-12-31,2,264,home,FALSE,Washington,76,Huskies,Washington Huskies,Washington
-300010264,2009-12-31,2,204,away,FALSE,Oregon State,70,Beavers,Oregon State Beavers,Oregon St
-293650052,2009-12-31,2,52,home,FALSE,Florida State,81,Seminoles,Florida State Seminoles,Florida St
-293650052,2009-12-31,2,2010,away,FALSE,Alabama A&M,34,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293650150,2010,regular-season,2009-12-31,2,150,home,FALSE,Duke,114,Blue Devils,Duke Blue Devils,Duke
+293650150,2010,regular-season,2009-12-31,2,219,away,FALSE,Pennsylvania,55,Quakers,Pennsylvania Quakers,Penn
+293650046,2010,regular-season,2009-12-31,2,46,home,FALSE,Georgetown,66,Hoyas,Georgetown Hoyas,Georgetown
+293650046,2010,regular-season,2009-12-31,2,2599,away,FALSE,St. John's,59,Red Storm,St. John's Red Storm,St John's
+293650235,2010,regular-season,2009-12-31,2,235,home,FALSE,Memphis,59,Tigers,Memphis Tigers,Memphis
+293650235,2010,regular-season,2009-12-31,2,2633,away,FALSE,Tennessee,66,Volunteers,Tennessee Volunteers,Tennessee
+293650275,2010,regular-season,2009-12-31,2,275,home,FALSE,Wisconsin,65,Badgers,Wisconsin Badgers,Wisconsin
+293650275,2010,regular-season,2009-12-31,2,194,away,FALSE,Ohio State,43,Buckeyes,Ohio State Buckeyes,Ohio State
+300010264,2010,regular-season,2009-12-31,2,264,home,FALSE,Washington,76,Huskies,Washington Huskies,Washington
+300010264,2010,regular-season,2009-12-31,2,204,away,FALSE,Oregon State,70,Beavers,Oregon State Beavers,Oregon St
+293650052,2010,regular-season,2009-12-31,2,52,home,FALSE,Florida State,81,Seminoles,Florida State Seminoles,Florida St
+293650052,2010,regular-season,2009-12-31,2,2010,away,FALSE,Alabama A&M,34,Bulldogs,Alabama A&M Bulldogs,Alabama A&M

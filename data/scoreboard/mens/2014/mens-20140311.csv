@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400544276,2014-03-11,2,2296,home,TRUE,Jackson State,75,Tigers,Jackson State Tigers,Jackson St
-400544276,2014-03-11,2,2755,away,TRUE,Grambling,84,Tigers,Grambling Tigers,Grambling
-400543787,2014-03-11,2,47,home,TRUE,Howard,53,Bison,Howard Bison,Howard
-400543787,2014-03-11,2,2448,away,TRUE,North Carolina A&T,47,Aggies,North Carolina A&T Aggies,NC A&T
-400543780,2014-03-11,3,249,home,TRUE,North Texas,63,Mean Green,North Texas Mean Green,North Texas
-400543780,2014-03-11,3,242,away,TRUE,Rice,62,Owls,Rice Owls,Rice
-400543789,2014-03-11,2,2154,home,TRUE,Coppin State,75,Eagles,Coppin State Eagles,Coppin St
-400543789,2014-03-11,2,2065,away,TRUE,Bethune-Cookman,68,Wildcats,Bethune-Cookman Wildcats,Bethune
-400544173,2014-03-11,2,2750,home,FALSE,Wright State,63,Raiders,Wright State Raiders,Wright St
-400544173,2014-03-11,2,270,away,FALSE,Milwaukee,69,Panthers,Milwaukee Panthers,Milwaukee
-400543735,2014-03-11,2,2523,home,FALSE,Robert Morris,71,Colonials,Robert Morris Colonials,Robert Morris
-400543735,2014-03-11,2,116,away,FALSE,Mount St. Mary's,88,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-400543781,2014-03-11,2,2226,home,TRUE,Florida Atlantic,59,Owls,Florida Atlantic Owls,FAU
-400543781,2014-03-11,2,276,away,TRUE,Marshall,63,Thundering Herd,Marshall Thundering Herd,Marshall
-400505969,2014-03-11,2,163,home,FALSE,Princeton,70,Tigers,Princeton Tigers,Princeton
-400505969,2014-03-11,2,219,away,FALSE,Pennsylvania,65,Quakers,Pennsylvania Quakers,Penn
-400545034,2014-03-11,2,2250,home,TRUE,Gonzaga,75,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400545034,2014-03-11,2,252,away,TRUE,BYU,64,Cougars,BYU Cougars,BYU
-400544994,2014-03-11,2,2449,home,TRUE,North Dakota State,60,Bison,North Dakota State Bison,N Dakota St
-400544994,2014-03-11,2,2870,away,TRUE,Purdue Fort Wayne,57,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-400544277,2014-03-11,2,2504,home,TRUE,Prairie View A&M,79,Panthers,Prairie View A&M Panthers,Prairie View
-400544277,2014-03-11,2,2400,away,TRUE,Mississippi Valley State,63,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
-400543790,2014-03-11,2,50,home,TRUE,Florida A&M,65,Rattlers,Florida A&M Rattlers,Florida A&M
-400543790,2014-03-11,2,2169,away,TRUE,Delaware State,61,Hornets,Delaware State Hornets,Delaware St
-400543782,2014-03-11,2,151,home,TRUE,East Carolina,79,Pirates,East Carolina Pirates,East Carolina
-400543782,2014-03-11,2,2636,away,TRUE,UTSA,76,Roadrunners,UTSA Roadrunners,UTSA
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400544276,2014,regular-season,2014-03-11,2,2296,home,TRUE,Jackson State,75,Tigers,Jackson State Tigers,Jackson St
+400544276,2014,regular-season,2014-03-11,2,2755,away,TRUE,Grambling,84,Tigers,Grambling Tigers,Grambling
+400543787,2014,regular-season,2014-03-11,2,47,home,TRUE,Howard,53,Bison,Howard Bison,Howard
+400543787,2014,regular-season,2014-03-11,2,2448,away,TRUE,North Carolina A&T,47,Aggies,North Carolina A&T Aggies,NC A&T
+400543780,2014,regular-season,2014-03-11,3,249,home,TRUE,North Texas,63,Mean Green,North Texas Mean Green,North Texas
+400543780,2014,regular-season,2014-03-11,3,242,away,TRUE,Rice,62,Owls,Rice Owls,Rice
+400543789,2014,regular-season,2014-03-11,2,2154,home,TRUE,Coppin State,75,Eagles,Coppin State Eagles,Coppin St
+400543789,2014,regular-season,2014-03-11,2,2065,away,TRUE,Bethune-Cookman,68,Wildcats,Bethune-Cookman Wildcats,Bethune
+400544173,2014,regular-season,2014-03-11,2,2750,home,FALSE,Wright State,63,Raiders,Wright State Raiders,Wright St
+400544173,2014,regular-season,2014-03-11,2,270,away,FALSE,Milwaukee,69,Panthers,Milwaukee Panthers,Milwaukee
+400543735,2014,regular-season,2014-03-11,2,2523,home,FALSE,Robert Morris,71,Colonials,Robert Morris Colonials,Robert Morris
+400543735,2014,regular-season,2014-03-11,2,116,away,FALSE,Mount St. Mary's,88,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+400543781,2014,regular-season,2014-03-11,2,2226,home,TRUE,Florida Atlantic,59,Owls,Florida Atlantic Owls,FAU
+400543781,2014,regular-season,2014-03-11,2,276,away,TRUE,Marshall,63,Thundering Herd,Marshall Thundering Herd,Marshall
+400505969,2014,regular-season,2014-03-11,2,163,home,FALSE,Princeton,70,Tigers,Princeton Tigers,Princeton
+400505969,2014,regular-season,2014-03-11,2,219,away,FALSE,Pennsylvania,65,Quakers,Pennsylvania Quakers,Penn
+400545034,2014,regular-season,2014-03-11,2,2250,home,TRUE,Gonzaga,75,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400545034,2014,regular-season,2014-03-11,2,252,away,TRUE,BYU,64,Cougars,BYU Cougars,BYU
+400544994,2014,regular-season,2014-03-11,2,2449,home,TRUE,North Dakota State,60,Bison,North Dakota State Bison,N Dakota St
+400544994,2014,regular-season,2014-03-11,2,2870,away,TRUE,Purdue Fort Wayne,57,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+400544277,2014,regular-season,2014-03-11,2,2504,home,TRUE,Prairie View A&M,79,Panthers,Prairie View A&M Panthers,Prairie View
+400544277,2014,regular-season,2014-03-11,2,2400,away,TRUE,Mississippi Valley State,63,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
+400543790,2014,regular-season,2014-03-11,2,50,home,TRUE,Florida A&M,65,Rattlers,Florida A&M Rattlers,Florida A&M
+400543790,2014,regular-season,2014-03-11,2,2169,away,TRUE,Delaware State,61,Hornets,Delaware State Hornets,Delaware St
+400543782,2014,regular-season,2014-03-11,2,151,home,TRUE,East Carolina,79,Pirates,East Carolina Pirates,East Carolina
+400543782,2014,regular-season,2014-03-11,2,2636,away,TRUE,UTSA,76,Roadrunners,UTSA Roadrunners,UTSA

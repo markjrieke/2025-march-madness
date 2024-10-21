@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400999698,2017-12-25,2,2166,home,TRUE,Davidson,91,Wildcats,Davidson Wildcats,Davidson
-400999698,2017-12-25,2,2006,away,TRUE,Akron,78,Zips,Akron Zips,Akron
-400999699,2017-12-25,2,62,home,FALSE,Hawai'i,63,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
-400999699,2017-12-25,2,163,away,FALSE,Princeton,77,Tigers,Princeton Tigers,Princeton
-400999700,2017-12-25,2,166,home,TRUE,New Mexico State,72,Aggies,New Mexico State Aggies,New Mexico St
-400999700,2017-12-25,2,30,away,TRUE,USC,77,Trojans,USC Trojans,USC
-400999701,2017-12-25,2,2390,home,TRUE,Miami,84,Hurricanes,Miami Hurricanes,Miami
-400999701,2017-12-25,2,2393,away,TRUE,Middle Tennessee,81,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400999698,2018,regular-season,2017-12-25,2,2166,home,TRUE,Davidson,91,Wildcats,Davidson Wildcats,Davidson
+400999698,2018,regular-season,2017-12-25,2,2006,away,TRUE,Akron,78,Zips,Akron Zips,Akron
+400999699,2018,regular-season,2017-12-25,2,62,home,FALSE,Hawai'i,63,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
+400999699,2018,regular-season,2017-12-25,2,163,away,FALSE,Princeton,77,Tigers,Princeton Tigers,Princeton
+400999700,2018,regular-season,2017-12-25,2,166,home,TRUE,New Mexico State,72,Aggies,New Mexico State Aggies,New Mexico St
+400999700,2018,regular-season,2017-12-25,2,30,away,TRUE,USC,77,Trojans,USC Trojans,USC
+400999701,2018,regular-season,2017-12-25,2,2390,home,TRUE,Miami,84,Hurricanes,Miami Hurricanes,Miami
+400999701,2018,regular-season,2017-12-25,2,2393,away,TRUE,Middle Tennessee,81,Blue Raiders,Middle Tennessee Blue Raiders,MTSU

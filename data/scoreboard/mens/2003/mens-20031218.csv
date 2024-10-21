@@ -1,47 +1,47 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-233522754,2003-12-18,2,2754,home,FALSE,Youngstown State,59,Penguins,Youngstown State Penguins,Youngstown St
-233522754,2003-12-18,2,2750,away,FALSE,Wright State,69,Raiders,Wright State Raiders,Wright St
-233522598,2003-12-18,2,2598,home,FALSE,St. Francis (PA),75,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-233522598,2003-12-18,2,44,away,FALSE,American University,63,Eagles,American University Eagles,American
-233522320,2003-12-18,2,2320,home,FALSE,Lamar,78,Cardinals,Lamar Cardinals,Lamar
-233522320,2003-12-18,2,242,away,FALSE,Rice,84,Owls,Rice Owls,Rice
-233522244,2003-12-18,2,2244,home,FALSE,George Mason,96,Patriots,George Mason Patriots,George Mason
-233522244,2003-12-18,2,2377,away,FALSE,McNeese,63,Cowboys,McNeese Cowboys,McNeese
-233522099,2003-12-18,2,2099,home,FALSE,Canisius,72,Golden Griffins,Canisius Golden Griffins,Canisius
-233522099,2003-12-18,2,232,away,FALSE,Charleston,81,Cougars,Charleston Cougars,Charleston
-233520324,2003-12-18,2,324,home,FALSE,Coastal Carolina,77,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
-233520324,2003-12-18,2,2430,away,FALSE,UNC Greensboro,72,Spartans,UNC Greensboro Spartans,UNC Greensboro
-233520295,2003-12-18,2,295,home,FALSE,Old Dominion,87,Monarchs,Old Dominion Monarchs,Old Dominion
-233520295,2003-12-18,2,2335,away,FALSE,Liberty,66,Flames,Liberty Flames,Liberty
-233520189,2003-12-18,2,189,home,FALSE,Bowling Green,56,Falcons,Bowling Green Falcons,Bowling Green
-233520189,2003-12-18,2,2174,away,FALSE,Detroit Mercy,52,Titans,Detroit Mercy Titans,Detroit Mercy
-233520061,2003-12-18,2,61,home,FALSE,Georgia,65,Bulldogs,Georgia Bulldogs,Georgia
-233520061,2003-12-18,2,6,away,FALSE,South Alabama,63,Jaguars,South Alabama Jaguars,South Alabama
-233520052,2003-12-18,2,52,home,FALSE,Florida State,83,Seminoles,Florida State Seminoles,Florida St
-233520052,2003-12-18,2,2681,away,FALSE,Wagner,62,Seahawks,Wagner Seahawks,Wagner
-233522670,2003-12-18,2,2670,home,FALSE,VCU,58,Rams,VCU Rams,VCU
-233522670,2003-12-18,2,5,away,FALSE,UAB,68,Blazers,UAB Blazers,UAB
-233522426,2003-12-18,2,2426,home,FALSE,Navy,95,Midshipmen,Navy Midshipmen,Navy
-233522426,2003-12-18,2,2689,away,FALSE,Washington College (MD),66,Shoremen,Washington College (MD) Shoremen,Wash Md
-233522567,2003-12-18,2,2567,home,FALSE,SMU,82,Mustangs,SMU Mustangs,SMU
-233522567,2003-12-18,2,2026,away,FALSE,App State,85,Mountaineers,App State Mountaineers,App State
-233522542,2003-12-18,2,2542,home,FALSE,Savannah State,76,Tigers,Savannah State Tigers,Savannah St
-233522542,2003-12-18,2,3,away,FALSE,Birmingham-Southern,81,Panthers,Birmingham-Southern Panthers,Birm-Southern
-233522535,2003-12-18,2,2535,home,FALSE,Samford,85,Bulldogs,Samford Bulldogs,Samford
-233522535,2003-12-18,2,2631,away,FALSE,Tennessee Temple,50,Crusaders,Tennessee Temple Crusaders,Tn Temple
-233522433,2003-12-18,2,2433,home,FALSE,UL Monroe,64,Warhawks,UL Monroe Warhawks,UL Monroe
-233522433,2003-12-18,2,2650,away,FALSE,Tougaloo,47,Bulldogs,Tougaloo Bulldogs,Tougaloo
-233520288,2003-12-18,2,288,home,FALSE,Lipscomb,100,Bisons,Lipscomb Bisons,Lipscomb
-233520288,2003-12-18,2,2553,away,FALSE,Sewanee,59,Tigers,Sewanee Tigers,Sewanee
-233522636,2003-12-18,2,2636,home,FALSE,UTSA,49,Roadrunners,UTSA Roadrunners,UTSA
-233522636,2003-12-18,2,245,away,FALSE,Texas A&M,62,Aggies,Texas A&M Aggies,Texas A&M
-233520328,2003-12-18,2,328,home,FALSE,Utah State,67,Aggies,Utah State Aggies,Utah State
-233520328,2003-12-18,2,2296,away,FALSE,Jackson State,42,Tigers,Jackson State Tigers,Jackson St
-233520253,2003-12-18,2,253,home,FALSE,Southern Utah,78,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
-233520253,2003-12-18,2,148,away,FALSE,Montana Tech,41,Orediggers,Montana Tech Orediggers,Mont Tech
-233520300,2003-12-18,4,300,home,FALSE,UC Irvine,85,Anteaters,UC Irvine Anteaters,UC Irvine
-233520300,2003-12-18,4,2492,away,FALSE,Pepperdine,83,Waves,Pepperdine Waves,Pepperdine
-233520021,2003-12-18,2,21,home,FALSE,San Diego State,90,Aztecs,San Diego State Aztecs,San Diego St
-233520021,2003-12-18,2,13,away,FALSE,Cal Poly,71,Mustangs,Cal Poly Mustangs,Cal Poly
-233522439,2003-12-18,2,2439,home,FALSE,UNLV,73,Rebels,UNLV Rebels,UNLV
-233522439,2003-12-18,2,2464,away,FALSE,Northern Arizona,74,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+233522754,2004,regular-season,2003-12-18,2,2754,home,FALSE,Youngstown State,59,Penguins,Youngstown State Penguins,Youngstown St
+233522754,2004,regular-season,2003-12-18,2,2750,away,FALSE,Wright State,69,Raiders,Wright State Raiders,Wright St
+233522598,2004,regular-season,2003-12-18,2,2598,home,FALSE,St. Francis (PA),75,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+233522598,2004,regular-season,2003-12-18,2,44,away,FALSE,American University,63,Eagles,American University Eagles,American
+233522320,2004,regular-season,2003-12-18,2,2320,home,FALSE,Lamar,78,Cardinals,Lamar Cardinals,Lamar
+233522320,2004,regular-season,2003-12-18,2,242,away,FALSE,Rice,84,Owls,Rice Owls,Rice
+233522244,2004,regular-season,2003-12-18,2,2244,home,FALSE,George Mason,96,Patriots,George Mason Patriots,George Mason
+233522244,2004,regular-season,2003-12-18,2,2377,away,FALSE,McNeese,63,Cowboys,McNeese Cowboys,McNeese
+233522099,2004,regular-season,2003-12-18,2,2099,home,FALSE,Canisius,72,Golden Griffins,Canisius Golden Griffins,Canisius
+233522099,2004,regular-season,2003-12-18,2,232,away,FALSE,Charleston,81,Cougars,Charleston Cougars,Charleston
+233520324,2004,regular-season,2003-12-18,2,324,home,FALSE,Coastal Carolina,77,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+233520324,2004,regular-season,2003-12-18,2,2430,away,FALSE,UNC Greensboro,72,Spartans,UNC Greensboro Spartans,UNC Greensboro
+233520295,2004,regular-season,2003-12-18,2,295,home,FALSE,Old Dominion,87,Monarchs,Old Dominion Monarchs,Old Dominion
+233520295,2004,regular-season,2003-12-18,2,2335,away,FALSE,Liberty,66,Flames,Liberty Flames,Liberty
+233520189,2004,regular-season,2003-12-18,2,189,home,FALSE,Bowling Green,56,Falcons,Bowling Green Falcons,Bowling Green
+233520189,2004,regular-season,2003-12-18,2,2174,away,FALSE,Detroit Mercy,52,Titans,Detroit Mercy Titans,Detroit Mercy
+233520061,2004,regular-season,2003-12-18,2,61,home,FALSE,Georgia,65,Bulldogs,Georgia Bulldogs,Georgia
+233520061,2004,regular-season,2003-12-18,2,6,away,FALSE,South Alabama,63,Jaguars,South Alabama Jaguars,South Alabama
+233520052,2004,regular-season,2003-12-18,2,52,home,FALSE,Florida State,83,Seminoles,Florida State Seminoles,Florida St
+233520052,2004,regular-season,2003-12-18,2,2681,away,FALSE,Wagner,62,Seahawks,Wagner Seahawks,Wagner
+233522670,2004,regular-season,2003-12-18,2,2670,home,FALSE,VCU,58,Rams,VCU Rams,VCU
+233522670,2004,regular-season,2003-12-18,2,5,away,FALSE,UAB,68,Blazers,UAB Blazers,UAB
+233522426,2004,regular-season,2003-12-18,2,2426,home,FALSE,Navy,95,Midshipmen,Navy Midshipmen,Navy
+233522426,2004,regular-season,2003-12-18,2,2689,away,FALSE,Washington College (MD),66,Shoremen,Washington College (MD) Shoremen,Wash Md
+233522567,2004,regular-season,2003-12-18,2,2567,home,FALSE,SMU,82,Mustangs,SMU Mustangs,SMU
+233522567,2004,regular-season,2003-12-18,2,2026,away,FALSE,App State,85,Mountaineers,App State Mountaineers,App State
+233522542,2004,regular-season,2003-12-18,2,2542,home,FALSE,Savannah State,76,Tigers,Savannah State Tigers,Savannah St
+233522542,2004,regular-season,2003-12-18,2,3,away,FALSE,Birmingham-Southern,81,Panthers,Birmingham-Southern Panthers,Birm-Southern
+233522535,2004,regular-season,2003-12-18,2,2535,home,FALSE,Samford,85,Bulldogs,Samford Bulldogs,Samford
+233522535,2004,regular-season,2003-12-18,2,2631,away,FALSE,Tennessee Temple,50,Crusaders,Tennessee Temple Crusaders,Tn Temple
+233522433,2004,regular-season,2003-12-18,2,2433,home,FALSE,UL Monroe,64,Warhawks,UL Monroe Warhawks,UL Monroe
+233522433,2004,regular-season,2003-12-18,2,2650,away,FALSE,Tougaloo,47,Bulldogs,Tougaloo Bulldogs,Tougaloo
+233520288,2004,regular-season,2003-12-18,2,288,home,FALSE,Lipscomb,100,Bisons,Lipscomb Bisons,Lipscomb
+233520288,2004,regular-season,2003-12-18,2,2553,away,FALSE,Sewanee,59,Tigers,Sewanee Tigers,Sewanee
+233522636,2004,regular-season,2003-12-18,2,2636,home,FALSE,UTSA,49,Roadrunners,UTSA Roadrunners,UTSA
+233522636,2004,regular-season,2003-12-18,2,245,away,FALSE,Texas A&M,62,Aggies,Texas A&M Aggies,Texas A&M
+233520328,2004,regular-season,2003-12-18,2,328,home,FALSE,Utah State,67,Aggies,Utah State Aggies,Utah State
+233520328,2004,regular-season,2003-12-18,2,2296,away,FALSE,Jackson State,42,Tigers,Jackson State Tigers,Jackson St
+233520253,2004,regular-season,2003-12-18,2,253,home,FALSE,Southern Utah,78,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+233520253,2004,regular-season,2003-12-18,2,148,away,FALSE,Montana Tech,41,Orediggers,Montana Tech Orediggers,Mont Tech
+233520300,2004,regular-season,2003-12-18,4,300,home,FALSE,UC Irvine,85,Anteaters,UC Irvine Anteaters,UC Irvine
+233520300,2004,regular-season,2003-12-18,4,2492,away,FALSE,Pepperdine,83,Waves,Pepperdine Waves,Pepperdine
+233520021,2004,regular-season,2003-12-18,2,21,home,FALSE,San Diego State,90,Aztecs,San Diego State Aztecs,San Diego St
+233520021,2004,regular-season,2003-12-18,2,13,away,FALSE,Cal Poly,71,Mustangs,Cal Poly Mustangs,Cal Poly
+233522439,2004,regular-season,2003-12-18,2,2439,home,FALSE,UNLV,73,Rebels,UNLV Rebels,UNLV
+233522439,2004,regular-season,2003-12-18,2,2464,away,FALSE,Northern Arizona,74,Lumberjacks,Northern Arizona Lumberjacks,N Arizona

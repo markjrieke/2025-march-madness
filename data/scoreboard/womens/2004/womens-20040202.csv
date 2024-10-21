@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240330228,2004-02-02,2,228,home,FALSE,Clemson,60,Tigers,Clemson Tigers,Clemson
-240330228,2004-02-02,2,150,away,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
-240330151,2004-02-02,2,151,home,FALSE,East Carolina,74,Pirates,East Carolina Pirates,East Carolina
-240330151,2004-02-02,2,305,away,FALSE,DePaul,90,Blue Demons,DePaul Blue Demons,DePaul
-240330058,2004-02-02,4,58,home,FALSE,South Florida,89,Bulls,South Florida Bulls,South Florida
-240330058,2004-02-02,4,2628,away,FALSE,TCU,84,Horned Frogs,TCU Horned Frogs,TCU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240330228,2004,regular-season,2004-02-02,2,228,home,FALSE,Clemson,60,Tigers,Clemson Tigers,Clemson
+240330228,2004,regular-season,2004-02-02,2,150,away,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
+240330151,2004,regular-season,2004-02-02,2,151,home,FALSE,East Carolina,74,Pirates,East Carolina Pirates,East Carolina
+240330151,2004,regular-season,2004-02-02,2,305,away,FALSE,DePaul,90,Blue Demons,DePaul Blue Demons,DePaul
+240330058,2004,regular-season,2004-02-02,4,58,home,FALSE,South Florida,89,Bulls,South Florida Bulls,South Florida
+240330058,2004,regular-season,2004-02-02,4,2628,away,FALSE,TCU,84,Horned Frogs,TCU Horned Frogs,TCU

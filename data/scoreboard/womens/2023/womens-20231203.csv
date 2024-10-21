@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401584535,2023-12-03,4,150,home,FALSE,Duke,61,Blue Devils,Duke Blue Devils,Duke
-401584535,2023-12-03,4,2579,away,FALSE,South Carolina,77,Gamecocks,South Carolina Gamecocks,South Carolina
-401587042,2023-12-03,4,8,home,FALSE,Arkansas,66,Razorbacks,Arkansas Razorbacks,Arkansas
-401587042,2023-12-03,4,26,away,FALSE,UCLA,81,Bruins,UCLA Bruins,UCLA
-401598920,2023-12-03,4,2250,home,FALSE,Gonzaga,96,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401598920,2023-12-03,4,24,away,FALSE,Stanford,78,Cardinal,Stanford Cardinal,Stanford
-401574653,2023-12-03,4,152,home,FALSE,NC State,79,Wolfpack,NC State Wolfpack,NC State
-401574653,2023-12-03,4,2287,away,FALSE,Illinois State,61,Redbirds,Illinois State Redbirds,Illinois St
-401606645,2023-12-03,4,30,home,FALSE,USC,89,Trojans,USC Trojans,USC
-401606645,2023-12-03,4,301,away,FALSE,San Diego,58,Toreros,San Diego Toreros,San Diego
-401584562,2023-12-03,4,251,home,FALSE,Texas,80,Longhorns,Texas Longhorns,Texas
-401584562,2023-12-03,4,41,away,FALSE,UConn,68,Huskies,UConn Huskies,UConn
-401587034,2023-12-03,4,239,home,FALSE,Baylor,71,Bears,Baylor Bears,Baylor
-401587034,2023-12-03,4,2483,away,FALSE,Oregon,51,Ducks,Oregon Ducks,Oregon
-401588189,2023-12-03,4,52,home,FALSE,Florida State,76,Seminoles,Florida State Seminoles,Florida St
-401588189,2023-12-03,4,2309,away,FALSE,Kent State,49,Golden Flashes,Kent State Golden Flashes,Kent State
-401587052,2023-12-03,4,2633,home,FALSE,Tennessee,58,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401587052,2023-12-03,4,194,away,FALSE,Ohio State,78,Buckeyes,Ohio State Buckeyes,Ohio State
-401610840,2023-12-03,4,84,home,FALSE,Indiana,72,Hoosiers,Indiana Hoosiers,Indiana
-401610840,2023-12-03,4,56,away,FALSE,Stetson,34,Hatters,Stetson Hatters,Stetson
-401594959,2023-12-03,4,236,home,FALSE,Chattanooga,59,Mocs,Chattanooga Mocs,Chattanooga
-401594959,2023-12-03,4,344,away,FALSE,Mississippi State,53,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401582267,2023-12-03,4,97,home,FALSE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
-401582267,2023-12-03,4,2448,away,FALSE,North Carolina A&T,40,Aggies,North Carolina A&T Aggies,NC A&T
-401584657,2023-12-03,4,269,home,FALSE,Marquette,87,Golden Eagles,Marquette Golden Eagles,Marquette
-401584657,2023-12-03,4,219,away,FALSE,Pennsylvania,52,Quakers,Pennsylvania Quakers,Penn
-401598366,2023-12-03,4,227,home,FALSE,Rhode Island,60,Rams,Rhode Island Rams,Rhode Island
-401598366,2023-12-03,4,163,away,FALSE,Princeton,58,Tigers,Princeton Tigers,Princeton
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401584535,2024,regular-season,2023-12-03,4,150,home,FALSE,Duke,61,Blue Devils,Duke Blue Devils,Duke
+401584535,2024,regular-season,2023-12-03,4,2579,away,FALSE,South Carolina,77,Gamecocks,South Carolina Gamecocks,South Carolina
+401587042,2024,regular-season,2023-12-03,4,8,home,FALSE,Arkansas,66,Razorbacks,Arkansas Razorbacks,Arkansas
+401587042,2024,regular-season,2023-12-03,4,26,away,FALSE,UCLA,81,Bruins,UCLA Bruins,UCLA
+401598920,2024,regular-season,2023-12-03,4,2250,home,FALSE,Gonzaga,96,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401598920,2024,regular-season,2023-12-03,4,24,away,FALSE,Stanford,78,Cardinal,Stanford Cardinal,Stanford
+401574653,2024,regular-season,2023-12-03,4,152,home,FALSE,NC State,79,Wolfpack,NC State Wolfpack,NC State
+401574653,2024,regular-season,2023-12-03,4,2287,away,FALSE,Illinois State,61,Redbirds,Illinois State Redbirds,Illinois St
+401606645,2024,regular-season,2023-12-03,4,30,home,FALSE,USC,89,Trojans,USC Trojans,USC
+401606645,2024,regular-season,2023-12-03,4,301,away,FALSE,San Diego,58,Toreros,San Diego Toreros,San Diego
+401584562,2024,regular-season,2023-12-03,4,251,home,FALSE,Texas,80,Longhorns,Texas Longhorns,Texas
+401584562,2024,regular-season,2023-12-03,4,41,away,FALSE,UConn,68,Huskies,UConn Huskies,UConn
+401587034,2024,regular-season,2023-12-03,4,239,home,FALSE,Baylor,71,Bears,Baylor Bears,Baylor
+401587034,2024,regular-season,2023-12-03,4,2483,away,FALSE,Oregon,51,Ducks,Oregon Ducks,Oregon
+401588189,2024,regular-season,2023-12-03,4,52,home,FALSE,Florida State,76,Seminoles,Florida State Seminoles,Florida St
+401588189,2024,regular-season,2023-12-03,4,2309,away,FALSE,Kent State,49,Golden Flashes,Kent State Golden Flashes,Kent State
+401587052,2024,regular-season,2023-12-03,4,2633,home,FALSE,Tennessee,58,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401587052,2024,regular-season,2023-12-03,4,194,away,FALSE,Ohio State,78,Buckeyes,Ohio State Buckeyes,Ohio State
+401610840,2024,regular-season,2023-12-03,4,84,home,FALSE,Indiana,72,Hoosiers,Indiana Hoosiers,Indiana
+401610840,2024,regular-season,2023-12-03,4,56,away,FALSE,Stetson,34,Hatters,Stetson Hatters,Stetson
+401594959,2024,regular-season,2023-12-03,4,236,home,FALSE,Chattanooga,59,Mocs,Chattanooga Mocs,Chattanooga
+401594959,2024,regular-season,2023-12-03,4,344,away,FALSE,Mississippi State,53,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401582267,2024,regular-season,2023-12-03,4,97,home,FALSE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
+401582267,2024,regular-season,2023-12-03,4,2448,away,FALSE,North Carolina A&T,40,Aggies,North Carolina A&T Aggies,NC A&T
+401584657,2024,regular-season,2023-12-03,4,269,home,FALSE,Marquette,87,Golden Eagles,Marquette Golden Eagles,Marquette
+401584657,2024,regular-season,2023-12-03,4,219,away,FALSE,Pennsylvania,52,Quakers,Pennsylvania Quakers,Penn
+401598366,2024,regular-season,2023-12-03,4,227,home,FALSE,Rhode Island,60,Rams,Rhode Island Rams,Rhode Island
+401598366,2024,regular-season,2023-12-03,4,163,away,FALSE,Princeton,58,Tigers,Princeton Tigers,Princeton

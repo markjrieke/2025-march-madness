@@ -1,35 +1,35 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253182086,2005-11-14,2,2086,home,FALSE,Butler,70,Bulldogs,Butler Bulldogs,Butler
-253182086,2005-11-14,2,2011,away,FALSE,Alabama State,61,Hornets,Alabama State Hornets,Alabama St
-253182464,2005-11-14,2,2464,home,FALSE,Northern Arizona,59,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
-253182464,2005-11-14,2,250,away,FALSE,UT Arlington,68,Mavericks,UT Arlington Mavericks,UT Arlington
-253182529,2005-11-14,2,2529,home,FALSE,Sacred Heart,93,Pioneers,Sacred Heart Pioneers,Sacred Heart
-253182529,2005-11-14,2,2503,away,FALSE,Puerto Rico-Mayaguez,52,Bulldogs,Puerto Rico-Mayaguez Bulldogs,PR-Mayaguez
-253182154,2005-11-14,2,2154,home,FALSE,Coppin State,64,Eagles,Coppin State Eagles,Coppin St
-253182154,2005-11-14,2,2329,away,FALSE,Lehigh,65,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-253182415,2005-11-14,2,2415,home,FALSE,Morgan State,49,Bears,Morgan State Bears,Morgan St
-253182415,2005-11-14,2,2430,away,FALSE,UNC Greensboro,62,Spartans,UNC Greensboro Spartans,UNC Greensboro
-253183084,2005-11-14,2,3084,home,FALSE,Utah Valley,42,Wolverines,Utah Valley Wolverines,Utah Valley
-253183084,2005-11-14,2,2142,away,FALSE,Colgate,55,Raiders,Colgate Raiders,Colgate
-253182458,2005-11-14,2,2458,home,FALSE,Northern Colorado,59,Bears,Northern Colorado Bears,N Colorado
-253182458,2005-11-14,2,2571,away,FALSE,South Dakota State,61,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-253182550,2005-11-14,2,2550,home,FALSE,Seton Hall,66,Pirates,Seton Hall Pirates,Seton Hall
-253182550,2005-11-14,2,2363,away,FALSE,Manhattan,52,Jaspers,Manhattan Jaspers,Manhattan
-253180163,2005-11-14,2,163,home,FALSE,Princeton,41,Tigers,Princeton Tigers,Princeton
-253180163,2005-11-14,2,2182,away,FALSE,Drexel,54,Dragons,Drexel Dragons,Drexel
-253180150,2005-11-14,2,150,home,FALSE,Duke,64,Blue Devils,Duke Blue Devils,Duke
-253180150,2005-11-14,2,104,away,FALSE,Boston University,47,Terriers,Boston University Terriers,Boston U
-253182429,2005-11-14,2,2429,home,FALSE,Charlotte,47,49ers,Charlotte 49ers,Charlotte
-253182429,2005-11-14,2,77,away,FALSE,Northwestern,61,Wildcats,Northwestern Wildcats,Northwestern
-253180142,2005-11-14,2,142,home,FALSE,Missouri,77,Tigers,Missouri Tigers,Missouri
-253180142,2005-11-14,2,2534,away,FALSE,Sam Houston,80,Bearkats,Sam Houston Bearkats,Sam Houston
-253180096,2005-11-14,2,96,home,FALSE,Kentucky,67,Wildcats,Kentucky Wildcats,Kentucky
-253180096,2005-11-14,2,288,away,FALSE,Lipscomb,49,Bisons,Lipscomb Bisons,Lipscomb
-253182294,2005-11-14,2,2294,home,FALSE,Iowa,86,Hawkeyes,Iowa Hawkeyes,Iowa
-253182294,2005-11-14,2,2379,away,FALSE,Maryland Eastern Shore,41,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-253180264,2005-11-14,2,264,home,FALSE,Washington,87,Huskies,Washington Huskies,Washington
-253180264,2005-11-14,2,2739,away,FALSE,Green Bay,54,Phoenix,Green Bay Phoenix,Green Bay
-253182751,2005-11-14,3,2751,home,FALSE,Wyoming,59,Cowboys,Wyoming Cowboys,Wyoming
-253182751,2005-11-14,3,350,away,FALSE,UNC Wilmington,62,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
-253182005,2005-11-14,2,2005,home,FALSE,Air Force,57,Falcons,Air Force Falcons,Air Force
-253182005,2005-11-14,2,2390,away,FALSE,Miami,53,Hurricanes,Miami Hurricanes,Miami
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253182086,2006,regular-season,2005-11-14,2,2086,home,FALSE,Butler,70,Bulldogs,Butler Bulldogs,Butler
+253182086,2006,regular-season,2005-11-14,2,2011,away,FALSE,Alabama State,61,Hornets,Alabama State Hornets,Alabama St
+253182464,2006,regular-season,2005-11-14,2,2464,home,FALSE,Northern Arizona,59,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+253182464,2006,regular-season,2005-11-14,2,250,away,FALSE,UT Arlington,68,Mavericks,UT Arlington Mavericks,UT Arlington
+253182529,2006,regular-season,2005-11-14,2,2529,home,FALSE,Sacred Heart,93,Pioneers,Sacred Heart Pioneers,Sacred Heart
+253182529,2006,regular-season,2005-11-14,2,2503,away,FALSE,Puerto Rico-Mayaguez,52,Bulldogs,Puerto Rico-Mayaguez Bulldogs,PR-Mayaguez
+253182154,2006,regular-season,2005-11-14,2,2154,home,FALSE,Coppin State,64,Eagles,Coppin State Eagles,Coppin St
+253182154,2006,regular-season,2005-11-14,2,2329,away,FALSE,Lehigh,65,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+253182415,2006,regular-season,2005-11-14,2,2415,home,FALSE,Morgan State,49,Bears,Morgan State Bears,Morgan St
+253182415,2006,regular-season,2005-11-14,2,2430,away,FALSE,UNC Greensboro,62,Spartans,UNC Greensboro Spartans,UNC Greensboro
+253183084,2006,regular-season,2005-11-14,2,3084,home,FALSE,Utah Valley,42,Wolverines,Utah Valley Wolverines,Utah Valley
+253183084,2006,regular-season,2005-11-14,2,2142,away,FALSE,Colgate,55,Raiders,Colgate Raiders,Colgate
+253182458,2006,regular-season,2005-11-14,2,2458,home,FALSE,Northern Colorado,59,Bears,Northern Colorado Bears,N Colorado
+253182458,2006,regular-season,2005-11-14,2,2571,away,FALSE,South Dakota State,61,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+253182550,2006,regular-season,2005-11-14,2,2550,home,FALSE,Seton Hall,66,Pirates,Seton Hall Pirates,Seton Hall
+253182550,2006,regular-season,2005-11-14,2,2363,away,FALSE,Manhattan,52,Jaspers,Manhattan Jaspers,Manhattan
+253180163,2006,regular-season,2005-11-14,2,163,home,FALSE,Princeton,41,Tigers,Princeton Tigers,Princeton
+253180163,2006,regular-season,2005-11-14,2,2182,away,FALSE,Drexel,54,Dragons,Drexel Dragons,Drexel
+253180150,2006,regular-season,2005-11-14,2,150,home,FALSE,Duke,64,Blue Devils,Duke Blue Devils,Duke
+253180150,2006,regular-season,2005-11-14,2,104,away,FALSE,Boston University,47,Terriers,Boston University Terriers,Boston U
+253182429,2006,regular-season,2005-11-14,2,2429,home,FALSE,Charlotte,47,49ers,Charlotte 49ers,Charlotte
+253182429,2006,regular-season,2005-11-14,2,77,away,FALSE,Northwestern,61,Wildcats,Northwestern Wildcats,Northwestern
+253180142,2006,regular-season,2005-11-14,2,142,home,FALSE,Missouri,77,Tigers,Missouri Tigers,Missouri
+253180142,2006,regular-season,2005-11-14,2,2534,away,FALSE,Sam Houston,80,Bearkats,Sam Houston Bearkats,Sam Houston
+253180096,2006,regular-season,2005-11-14,2,96,home,FALSE,Kentucky,67,Wildcats,Kentucky Wildcats,Kentucky
+253180096,2006,regular-season,2005-11-14,2,288,away,FALSE,Lipscomb,49,Bisons,Lipscomb Bisons,Lipscomb
+253182294,2006,regular-season,2005-11-14,2,2294,home,FALSE,Iowa,86,Hawkeyes,Iowa Hawkeyes,Iowa
+253182294,2006,regular-season,2005-11-14,2,2379,away,FALSE,Maryland Eastern Shore,41,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+253180264,2006,regular-season,2005-11-14,2,264,home,FALSE,Washington,87,Huskies,Washington Huskies,Washington
+253180264,2006,regular-season,2005-11-14,2,2739,away,FALSE,Green Bay,54,Phoenix,Green Bay Phoenix,Green Bay
+253182751,2006,regular-season,2005-11-14,3,2751,home,FALSE,Wyoming,59,Cowboys,Wyoming Cowboys,Wyoming
+253182751,2006,regular-season,2005-11-14,3,350,away,FALSE,UNC Wilmington,62,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+253182005,2006,regular-season,2005-11-14,2,2005,home,FALSE,Air Force,57,Falcons,Air Force Falcons,Air Force
+253182005,2006,regular-season,2005-11-14,2,2390,away,FALSE,Miami,53,Hurricanes,Miami Hurricanes,Miami

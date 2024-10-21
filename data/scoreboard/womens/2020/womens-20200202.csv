@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401172159,2020-02-02,4,265,home,FALSE,Washington State,49,Cougars,Washington State Cougars,Washington St
-401172159,2020-02-02,4,24,away,FALSE,Stanford,71,Cardinal,Stanford Cardinal,Stanford
-401172158,2020-02-02,4,9,home,FALSE,Arizona State,61,Sun Devils,Arizona State Sun Devils,Arizona St
-401172158,2020-02-02,4,26,away,FALSE,UCLA,70,Bruins,UCLA Bruins,UCLA
-401177615,2020-02-02,4,305,home,FALSE,DePaul,93,Blue Demons,DePaul Blue Demons,DePaul
-401177615,2020-02-02,4,2507,away,FALSE,Providence,71,Friars,Providence Friars,Providence
-401166692,2020-02-02,4,96,home,FALSE,Kentucky,62,Wildcats,Kentucky Wildcats,Kentucky
-401166692,2020-02-02,4,57,away,FALSE,Florida,70,Gators,Florida Gators,Florida
-401166693,2020-02-02,4,99,home,FALSE,LSU,59,Tigers,LSU Tigers,LSU
-401166693,2020-02-02,4,245,away,FALSE,Texas A&M,58,Aggies,Texas A&M Aggies,Texas A&M
-401172157,2020-02-02,4,12,home,FALSE,Arizona,73,Wildcats,Arizona Wildcats,Arizona
-401172157,2020-02-02,4,30,away,FALSE,USC,57,Trojans,USC Trojans,USC
-401166869,2020-02-02,4,130,home,FALSE,Michigan,78,Wolverines,Michigan Wolverines,Michigan
-401166869,2020-02-02,4,2294,away,FALSE,Iowa,63,Hawkeyes,Iowa Hawkeyes,Iowa
-401179944,2020-02-02,4,2172,home,FALSE,Denver,60,Pioneers,Denver Pioneers,Denver
-401179944,2020-02-02,4,233,away,FALSE,South Dakota,92,Coyotes,South Dakota Coyotes,South Dakota
-401166872,2020-02-02,4,213,home,FALSE,Penn State,59,Lady Lions,Penn State Lady Lions,Penn State
-401166872,2020-02-02,4,77,away,FALSE,Northwestern,82,Wildcats,Northwestern Wildcats,Northwestern
-401179867,2020-02-02,4,2623,home,FALSE,Missouri State,87,Lady Bears,Missouri State Lady Bears,Missouri St
-401179867,2020-02-02,4,2287,away,FALSE,Illinois State,74,Redbirds,Illinois State Redbirds,Illinois St
-401166695,2020-02-02,5,142,home,FALSE,Missouri,81,Tigers,Missouri Tigers,Missouri
-401166695,2020-02-02,5,8,away,FALSE,Arkansas,85,Razorbacks,Arkansas Razorbacks,Arkansas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401172159,2020,regular-season,2020-02-02,4,265,home,FALSE,Washington State,49,Cougars,Washington State Cougars,Washington St
+401172159,2020,regular-season,2020-02-02,4,24,away,FALSE,Stanford,71,Cardinal,Stanford Cardinal,Stanford
+401172158,2020,regular-season,2020-02-02,4,9,home,FALSE,Arizona State,61,Sun Devils,Arizona State Sun Devils,Arizona St
+401172158,2020,regular-season,2020-02-02,4,26,away,FALSE,UCLA,70,Bruins,UCLA Bruins,UCLA
+401177615,2020,regular-season,2020-02-02,4,305,home,FALSE,DePaul,93,Blue Demons,DePaul Blue Demons,DePaul
+401177615,2020,regular-season,2020-02-02,4,2507,away,FALSE,Providence,71,Friars,Providence Friars,Providence
+401166692,2020,regular-season,2020-02-02,4,96,home,FALSE,Kentucky,62,Wildcats,Kentucky Wildcats,Kentucky
+401166692,2020,regular-season,2020-02-02,4,57,away,FALSE,Florida,70,Gators,Florida Gators,Florida
+401166693,2020,regular-season,2020-02-02,4,99,home,FALSE,LSU,59,Tigers,LSU Tigers,LSU
+401166693,2020,regular-season,2020-02-02,4,245,away,FALSE,Texas A&M,58,Aggies,Texas A&M Aggies,Texas A&M
+401172157,2020,regular-season,2020-02-02,4,12,home,FALSE,Arizona,73,Wildcats,Arizona Wildcats,Arizona
+401172157,2020,regular-season,2020-02-02,4,30,away,FALSE,USC,57,Trojans,USC Trojans,USC
+401166869,2020,regular-season,2020-02-02,4,130,home,FALSE,Michigan,78,Wolverines,Michigan Wolverines,Michigan
+401166869,2020,regular-season,2020-02-02,4,2294,away,FALSE,Iowa,63,Hawkeyes,Iowa Hawkeyes,Iowa
+401179944,2020,regular-season,2020-02-02,4,2172,home,FALSE,Denver,60,Pioneers,Denver Pioneers,Denver
+401179944,2020,regular-season,2020-02-02,4,233,away,FALSE,South Dakota,92,Coyotes,South Dakota Coyotes,South Dakota
+401166872,2020,regular-season,2020-02-02,4,213,home,FALSE,Penn State,59,Lady Lions,Penn State Lady Lions,Penn State
+401166872,2020,regular-season,2020-02-02,4,77,away,FALSE,Northwestern,82,Wildcats,Northwestern Wildcats,Northwestern
+401179867,2020,regular-season,2020-02-02,4,2623,home,FALSE,Missouri State,87,Lady Bears,Missouri State Lady Bears,Missouri St
+401179867,2020,regular-season,2020-02-02,4,2287,away,FALSE,Illinois State,74,Redbirds,Illinois State Redbirds,Illinois St
+401166695,2020,regular-season,2020-02-02,5,142,home,FALSE,Missouri,81,Tigers,Missouri Tigers,Missouri
+401166695,2020,regular-season,2020-02-02,5,8,away,FALSE,Arkansas,85,Razorbacks,Arkansas Razorbacks,Arkansas

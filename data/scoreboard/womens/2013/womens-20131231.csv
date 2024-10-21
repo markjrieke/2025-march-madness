@@ -1,37 +1,37 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400512814,2013-12-31,2,45,home,FALSE,George Washington,114,Revolutionaries,George Washington Revolutionaries,G Washington
-400512814,2013-12-31,2,2073,away,FALSE,Bluefield State,55,Big Blues,Bluefield State Big Blues,Bluefield St
-400510658,2013-12-31,2,350,home,FALSE,UNC Wilmington,47,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
-400510658,2013-12-31,2,2026,away,FALSE,App State,54,Mountaineers,App State Mountaineers,App State
-400509323,2013-12-31,2,2550,home,FALSE,Seton Hall,80,Pirates,Seton Hall Pirates,Seton Hall
-400509323,2013-12-31,2,2619,away,FALSE,Stony Brook,65,Seawolves,Stony Brook Seawolves,Stony Brook
-400512443,2013-12-31,2,2199,home,FALSE,Eastern Michigan,95,Eagles,Eastern Michigan Eagles,E Michigan
-400512443,2013-12-31,2,3251,away,FALSE,Lawrence Tech,62,Lawrence Tech,Lawrence Tech,Lawrncetch
-400509476,2013-12-31,2,269,home,FALSE,Marquette,61,Golden Eagles,Marquette Golden Eagles,Marquette
-400509476,2013-12-31,2,222,away,FALSE,Villanova,63,Wildcats,Villanova Wildcats,Villanova
-400526174,2013-12-31,2,276,home,FALSE,Marshall,86,Thundering Herd,Marshall Thundering Herd,Marshall
-400526174,2013-12-31,2,2167,away,FALSE,Davis & Elkins,72,Senators,Davis & Elkins Senators,Davis&Elk
-400511775,2013-12-31,2,2459,home,FALSE,Northern Illinois,54,Huskies,Northern Illinois Huskies,N Illinois
-400511775,2013-12-31,2,82,away,FALSE,UIC,66,Flames,UIC Flames,UIC
-400510327,2013-12-31,2,2561,home,FALSE,Siena,63,Saints,Siena Saints,Siena
-400510327,2013-12-31,2,2520,away,FALSE,Rider,77,Broncs,Rider Broncs,Rider
-400510326,2013-12-31,2,2363,home,FALSE,Manhattan,65,Jaspers,Manhattan Jaspers,Manhattan
-400510326,2013-12-31,2,2405,away,FALSE,Monmouth,59,Hawks,Monmouth Hawks,Monmouth
-400510325,2013-12-31,2,2368,home,FALSE,Marist,57,Red Foxes,Marist Red Foxes,Marist
-400510325,2013-12-31,2,2099,away,FALSE,Canisius,49,Golden Griffins,Canisius Golden Griffins,Canisius
-400510324,2013-12-31,2,2612,home,FALSE,Saint Peter's,61,Peacocks,Saint Peter's Peacocks,Saint Peter's
-400510324,2013-12-31,2,314,away,FALSE,Iona,65,Gaels,Iona Gaels,Iona
-400510323,2013-12-31,2,2217,home,FALSE,Fairfield,81,Stags,Fairfield Stags,Fairfield
-400510323,2013-12-31,2,315,away,FALSE,Niagara,77,Purple Eagles,Niagara Purple Eagles,Niagara
-400505204,2013-12-31,2,2674,home,FALSE,Valparaiso,70,Beacons,Valparaiso Beacons,Valparaiso
-400505204,2013-12-31,2,233,away,FALSE,South Dakota,81,Coyotes,South Dakota Coyotes,South Dakota
-400511040,2013-12-31,2,248,home,FALSE,Houston,54,Cougars,Houston Cougars,Houston
-400511040,2013-12-31,2,58,away,FALSE,South Florida,77,Bulls,South Florida Bulls,South Florida
-400505340,2013-12-31,2,2130,home,FALSE,Chicago State,63,Cougars,Chicago State Cougars,Chicago St
-400505340,2013-12-31,2,2350,away,FALSE,Loyola Chicago,77,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-400505205,2013-12-31,2,2437,home,FALSE,Omaha,80,Mavericks,Omaha Mavericks,Omaha
-400505205,2013-12-31,2,2178,away,FALSE,Doane,72,Tigers,Doane Tigers,Doane
-400504822,2013-12-31,2,2546,home,FALSE,Southeast Missouri State,74,Redhawks,Southeast Missouri State Redhawks,SE Missouri
-400504822,2013-12-31,2,2057,away,FALSE,Belmont,81,Bruins,Belmont Bruins,Belmont
-400510657,2013-12-31,2,2210,home,FALSE,Elon,57,Phoenix,Elon Phoenix,Elon
-400510657,2013-12-31,2,2448,away,FALSE,North Carolina A&T,58,Aggies,North Carolina A&T Aggies,NC A&T
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400512814,2014,regular-season,2013-12-31,2,45,home,FALSE,George Washington,114,Revolutionaries,George Washington Revolutionaries,G Washington
+400512814,2014,regular-season,2013-12-31,2,2073,away,FALSE,Bluefield State,55,Big Blues,Bluefield State Big Blues,Bluefield St
+400510658,2014,regular-season,2013-12-31,2,350,home,FALSE,UNC Wilmington,47,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+400510658,2014,regular-season,2013-12-31,2,2026,away,FALSE,App State,54,Mountaineers,App State Mountaineers,App State
+400509323,2014,regular-season,2013-12-31,2,2550,home,FALSE,Seton Hall,80,Pirates,Seton Hall Pirates,Seton Hall
+400509323,2014,regular-season,2013-12-31,2,2619,away,FALSE,Stony Brook,65,Seawolves,Stony Brook Seawolves,Stony Brook
+400512443,2014,regular-season,2013-12-31,2,2199,home,FALSE,Eastern Michigan,95,Eagles,Eastern Michigan Eagles,E Michigan
+400512443,2014,regular-season,2013-12-31,2,3251,away,FALSE,Lawrence Tech,62,Lawrence Tech,Lawrence Tech,Lawrncetch
+400509476,2014,regular-season,2013-12-31,2,269,home,FALSE,Marquette,61,Golden Eagles,Marquette Golden Eagles,Marquette
+400509476,2014,regular-season,2013-12-31,2,222,away,FALSE,Villanova,63,Wildcats,Villanova Wildcats,Villanova
+400526174,2014,regular-season,2013-12-31,2,276,home,FALSE,Marshall,86,Thundering Herd,Marshall Thundering Herd,Marshall
+400526174,2014,regular-season,2013-12-31,2,2167,away,FALSE,Davis & Elkins,72,Senators,Davis & Elkins Senators,Davis&Elk
+400511775,2014,regular-season,2013-12-31,2,2459,home,FALSE,Northern Illinois,54,Huskies,Northern Illinois Huskies,N Illinois
+400511775,2014,regular-season,2013-12-31,2,82,away,FALSE,UIC,66,Flames,UIC Flames,UIC
+400510327,2014,regular-season,2013-12-31,2,2561,home,FALSE,Siena,63,Saints,Siena Saints,Siena
+400510327,2014,regular-season,2013-12-31,2,2520,away,FALSE,Rider,77,Broncs,Rider Broncs,Rider
+400510326,2014,regular-season,2013-12-31,2,2363,home,FALSE,Manhattan,65,Jaspers,Manhattan Jaspers,Manhattan
+400510326,2014,regular-season,2013-12-31,2,2405,away,FALSE,Monmouth,59,Hawks,Monmouth Hawks,Monmouth
+400510325,2014,regular-season,2013-12-31,2,2368,home,FALSE,Marist,57,Red Foxes,Marist Red Foxes,Marist
+400510325,2014,regular-season,2013-12-31,2,2099,away,FALSE,Canisius,49,Golden Griffins,Canisius Golden Griffins,Canisius
+400510324,2014,regular-season,2013-12-31,2,2612,home,FALSE,Saint Peter's,61,Peacocks,Saint Peter's Peacocks,Saint Peter's
+400510324,2014,regular-season,2013-12-31,2,314,away,FALSE,Iona,65,Gaels,Iona Gaels,Iona
+400510323,2014,regular-season,2013-12-31,2,2217,home,FALSE,Fairfield,81,Stags,Fairfield Stags,Fairfield
+400510323,2014,regular-season,2013-12-31,2,315,away,FALSE,Niagara,77,Purple Eagles,Niagara Purple Eagles,Niagara
+400505204,2014,regular-season,2013-12-31,2,2674,home,FALSE,Valparaiso,70,Beacons,Valparaiso Beacons,Valparaiso
+400505204,2014,regular-season,2013-12-31,2,233,away,FALSE,South Dakota,81,Coyotes,South Dakota Coyotes,South Dakota
+400511040,2014,regular-season,2013-12-31,2,248,home,FALSE,Houston,54,Cougars,Houston Cougars,Houston
+400511040,2014,regular-season,2013-12-31,2,58,away,FALSE,South Florida,77,Bulls,South Florida Bulls,South Florida
+400505340,2014,regular-season,2013-12-31,2,2130,home,FALSE,Chicago State,63,Cougars,Chicago State Cougars,Chicago St
+400505340,2014,regular-season,2013-12-31,2,2350,away,FALSE,Loyola Chicago,77,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+400505205,2014,regular-season,2013-12-31,2,2437,home,FALSE,Omaha,80,Mavericks,Omaha Mavericks,Omaha
+400505205,2014,regular-season,2013-12-31,2,2178,away,FALSE,Doane,72,Tigers,Doane Tigers,Doane
+400504822,2014,regular-season,2013-12-31,2,2546,home,FALSE,Southeast Missouri State,74,Redhawks,Southeast Missouri State Redhawks,SE Missouri
+400504822,2014,regular-season,2013-12-31,2,2057,away,FALSE,Belmont,81,Bruins,Belmont Bruins,Belmont
+400510657,2014,regular-season,2013-12-31,2,2210,home,FALSE,Elon,57,Phoenix,Elon Phoenix,Elon
+400510657,2014,regular-season,2013-12-31,2,2448,away,FALSE,North Carolina A&T,58,Aggies,North Carolina A&T Aggies,NC A&T

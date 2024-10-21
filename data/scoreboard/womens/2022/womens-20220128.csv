@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401382136,2022-01-28,4,24,home,FALSE,Stanford,78,Cardinal,Stanford Cardinal,Stanford
-401382136,2022-01-28,4,9,away,FALSE,Arizona State,50,Sun Devils,Arizona State Sun Devils,Arizona St
-401364543,2022-01-28,5,77,home,FALSE,Northwestern,67,Wildcats,Northwestern Wildcats,Northwestern
-401364543,2022-01-28,5,2294,away,FALSE,Iowa,72,Hawkeyes,Iowa Hawkeyes,Iowa
-401382141,2022-01-28,0,2483,home,FALSE,Oregon,2,Ducks,Oregon Ducks,Oregon
-401382141,2022-01-28,0,26,away,FALSE,UCLA,0,Bruins,UCLA Bruins,UCLA
-401382138,2022-01-28,0,25,home,FALSE,California,0,Golden Bears,California Golden Bears,California
-401382138,2022-01-28,0,12,away,FALSE,Arizona,0,Wildcats,Arizona Wildcats,Arizona
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401382136,2022,regular-season,2022-01-28,4,24,home,FALSE,Stanford,78,Cardinal,Stanford Cardinal,Stanford
+401382136,2022,regular-season,2022-01-28,4,9,away,FALSE,Arizona State,50,Sun Devils,Arizona State Sun Devils,Arizona St
+401364543,2022,regular-season,2022-01-28,5,77,home,FALSE,Northwestern,67,Wildcats,Northwestern Wildcats,Northwestern
+401364543,2022,regular-season,2022-01-28,5,2294,away,FALSE,Iowa,72,Hawkeyes,Iowa Hawkeyes,Iowa
+401382141,2022,regular-season,2022-01-28,0,2483,home,FALSE,Oregon,2,Ducks,Oregon Ducks,Oregon
+401382141,2022,regular-season,2022-01-28,0,26,away,FALSE,UCLA,0,Bruins,UCLA Bruins,UCLA
+401382138,2022,regular-season,2022-01-28,0,25,home,FALSE,California,0,Golden Bears,California Golden Bears,California
+401382138,2022,regular-season,2022-01-28,0,12,away,FALSE,Arizona,0,Wildcats,Arizona Wildcats,Arizona

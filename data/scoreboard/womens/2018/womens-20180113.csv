@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400994087,2018-01-13,4,251,home,FALSE,Texas,79,Longhorns,Texas Longhorns,Texas
-400994087,2018-01-13,4,2305,away,FALSE,Kansas,62,Jayhawks,Kansas Jayhawks,Kansas
-400993607,2018-01-13,4,84,home,FALSE,Indiana,62,Hoosiers,Indiana Hoosiers,Indiana
-400993607,2018-01-13,4,194,away,FALSE,Ohio State,77,Buckeyes,Ohio State Buckeyes,Ohio State
-400994143,2018-01-13,5,277,home,FALSE,West Virginia,74,Mountaineers,West Virginia Mountaineers,West Virginia
-400994143,2018-01-13,5,2628,away,FALSE,TCU,76,Horned Frogs,TCU Horned Frogs,TCU
-400993632,2018-01-13,4,2294,home,FALSE,Iowa,70,Hawkeyes,Iowa Hawkeyes,Iowa
-400993632,2018-01-13,4,2509,away,FALSE,Purdue,76,Boilermakers,Purdue Boilermakers,Purdue
-400994064,2018-01-13,4,2306,home,FALSE,Kansas State,80,Wildcats,Kansas State Wildcats,Kansas St
-400994064,2018-01-13,4,197,away,FALSE,Oklahoma State,64,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-400993726,2018-01-13,5,164,home,FALSE,Rutgers,80,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400993726,2018-01-13,5,135,away,FALSE,Minnesota,70,Golden Gophers,Minnesota Golden Gophers,Minnesota
-400993703,2018-01-13,5,158,home,FALSE,Nebraska,64,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400993703,2018-01-13,5,130,away,FALSE,Michigan,69,Wolverines,Michigan Wolverines,Michigan
-400998348,2018-01-13,4,2739,home,FALSE,Green Bay,69,Phoenix,Green Bay Phoenix,Green Bay
-400998348,2018-01-13,4,325,away,FALSE,Cleveland State,43,Vikings,Cleveland State Vikings,Cleveland St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400994087,2018,regular-season,2018-01-13,4,251,home,FALSE,Texas,79,Longhorns,Texas Longhorns,Texas
+400994087,2018,regular-season,2018-01-13,4,2305,away,FALSE,Kansas,62,Jayhawks,Kansas Jayhawks,Kansas
+400993607,2018,regular-season,2018-01-13,4,84,home,FALSE,Indiana,62,Hoosiers,Indiana Hoosiers,Indiana
+400993607,2018,regular-season,2018-01-13,4,194,away,FALSE,Ohio State,77,Buckeyes,Ohio State Buckeyes,Ohio State
+400994143,2018,regular-season,2018-01-13,5,277,home,FALSE,West Virginia,74,Mountaineers,West Virginia Mountaineers,West Virginia
+400994143,2018,regular-season,2018-01-13,5,2628,away,FALSE,TCU,76,Horned Frogs,TCU Horned Frogs,TCU
+400993632,2018,regular-season,2018-01-13,4,2294,home,FALSE,Iowa,70,Hawkeyes,Iowa Hawkeyes,Iowa
+400993632,2018,regular-season,2018-01-13,4,2509,away,FALSE,Purdue,76,Boilermakers,Purdue Boilermakers,Purdue
+400994064,2018,regular-season,2018-01-13,4,2306,home,FALSE,Kansas State,80,Wildcats,Kansas State Wildcats,Kansas St
+400994064,2018,regular-season,2018-01-13,4,197,away,FALSE,Oklahoma State,64,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+400993726,2018,regular-season,2018-01-13,5,164,home,FALSE,Rutgers,80,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400993726,2018,regular-season,2018-01-13,5,135,away,FALSE,Minnesota,70,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400993703,2018,regular-season,2018-01-13,5,158,home,FALSE,Nebraska,64,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400993703,2018,regular-season,2018-01-13,5,130,away,FALSE,Michigan,69,Wolverines,Michigan Wolverines,Michigan
+400998348,2018,regular-season,2018-01-13,4,2739,home,FALSE,Green Bay,69,Phoenix,Green Bay Phoenix,Green Bay
+400998348,2018,regular-season,2018-01-13,4,325,away,FALSE,Cleveland State,43,Vikings,Cleveland State Vikings,Cleveland St

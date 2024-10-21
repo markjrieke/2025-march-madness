@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400920712,2017-01-28,4,325,home,FALSE,Cleveland State,51,Vikings,Cleveland State Vikings,Cleveland St
-400920712,2017-01-28,4,2739,away,FALSE,Green Bay,65,Phoenix,Green Bay Phoenix,Green Bay
-400911161,2017-01-28,4,2306,home,FALSE,Kansas State,74,Wildcats,Kansas State Wildcats,Kansas St
-400911161,2017-01-28,4,197,away,FALSE,Oklahoma State,69,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400920712,2017,regular-season,2017-01-28,4,325,home,FALSE,Cleveland State,51,Vikings,Cleveland State Vikings,Cleveland St
+400920712,2017,regular-season,2017-01-28,4,2739,away,FALSE,Green Bay,65,Phoenix,Green Bay Phoenix,Green Bay
+400911161,2017,regular-season,2017-01-28,4,2306,home,FALSE,Kansas State,74,Wildcats,Kansas State Wildcats,Kansas St
+400911161,2017,regular-season,2017-01-28,4,197,away,FALSE,Oklahoma State,69,Cowgirls,Oklahoma State Cowgirls,Oklahoma St

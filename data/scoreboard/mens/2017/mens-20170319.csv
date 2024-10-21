@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400947182,2017-03-19,2,97,home,TRUE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
-400947182,2017-03-19,2,130,away,TRUE,Michigan,73,Wolverines,Michigan Wolverines,Michigan
-400947227,2017-03-19,2,96,home,TRUE,Kentucky,65,Wildcats,Kentucky Wildcats,Kentucky
-400947227,2017-03-19,2,2724,away,TRUE,Wichita State,62,Shockers,Wichita State Shockers,Wichita St
-400947223,2017-03-19,2,2305,home,TRUE,Kansas,90,Jayhawks,Kansas Jayhawks,Kansas
-400947223,2017-03-19,2,127,away,TRUE,Michigan State,70,Spartans,Michigan State Spartans,Michigan St
-400947185,2017-03-19,2,153,home,TRUE,North Carolina,72,Tar Heels,North Carolina Tar Heels,North Carolina
-400947185,2017-03-19,2,8,away,TRUE,Arkansas,65,Razorbacks,Arkansas Razorbacks,Arkansas
-400947206,2017-03-19,2,2483,home,TRUE,Oregon,75,Ducks,Oregon Ducks,Oregon
-400947206,2017-03-19,2,227,away,TRUE,Rhode Island,72,Rams,Rhode Island Rams,Rhode Island
-400947183,2017-03-19,2,239,home,TRUE,Baylor,82,Bears,Baylor Bears,Baylor
-400947183,2017-03-19,2,30,away,TRUE,USC,78,Trojans,USC Trojans,USC
-400947225,2017-03-19,2,150,home,TRUE,Duke,81,Blue Devils,Duke Blue Devils,Duke
-400947225,2017-03-19,2,2579,away,TRUE,South Carolina,88,Gamecocks,South Carolina Gamecocks,South Carolina
-400947226,2017-03-19,2,26,home,TRUE,UCLA,79,Bruins,UCLA Bruins,UCLA
-400947226,2017-03-19,2,2132,away,TRUE,Cincinnati,67,Bearcats,Cincinnati Bearcats,Cincinnati
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400947182,2017,post-season,2017-03-19,2,97,home,TRUE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
+400947182,2017,post-season,2017-03-19,2,130,away,TRUE,Michigan,73,Wolverines,Michigan Wolverines,Michigan
+400947227,2017,post-season,2017-03-19,2,96,home,TRUE,Kentucky,65,Wildcats,Kentucky Wildcats,Kentucky
+400947227,2017,post-season,2017-03-19,2,2724,away,TRUE,Wichita State,62,Shockers,Wichita State Shockers,Wichita St
+400947223,2017,post-season,2017-03-19,2,2305,home,TRUE,Kansas,90,Jayhawks,Kansas Jayhawks,Kansas
+400947223,2017,post-season,2017-03-19,2,127,away,TRUE,Michigan State,70,Spartans,Michigan State Spartans,Michigan St
+400947185,2017,post-season,2017-03-19,2,153,home,TRUE,North Carolina,72,Tar Heels,North Carolina Tar Heels,North Carolina
+400947185,2017,post-season,2017-03-19,2,8,away,TRUE,Arkansas,65,Razorbacks,Arkansas Razorbacks,Arkansas
+400947206,2017,post-season,2017-03-19,2,2483,home,TRUE,Oregon,75,Ducks,Oregon Ducks,Oregon
+400947206,2017,post-season,2017-03-19,2,227,away,TRUE,Rhode Island,72,Rams,Rhode Island Rams,Rhode Island
+400947183,2017,post-season,2017-03-19,2,239,home,TRUE,Baylor,82,Bears,Baylor Bears,Baylor
+400947183,2017,post-season,2017-03-19,2,30,away,TRUE,USC,78,Trojans,USC Trojans,USC
+400947225,2017,post-season,2017-03-19,2,150,home,TRUE,Duke,81,Blue Devils,Duke Blue Devils,Duke
+400947225,2017,post-season,2017-03-19,2,2579,away,TRUE,South Carolina,88,Gamecocks,South Carolina Gamecocks,South Carolina
+400947226,2017,post-season,2017-03-19,2,26,home,TRUE,UCLA,79,Bruins,UCLA Bruins,UCLA
+400947226,2017,post-season,2017-03-19,2,2132,away,TRUE,Cincinnati,67,Bearcats,Cincinnati Bearcats,Cincinnati

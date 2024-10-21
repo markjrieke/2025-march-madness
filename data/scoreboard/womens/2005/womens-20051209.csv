@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253430164,2005-12-09,2,164,home,FALSE,Rutgers,77,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-253430164,2005-12-09,2,295,away,FALSE,Old Dominion,41,Monarchs,Old Dominion Monarchs,Old Dominion
-253430167,2005-12-09,2,167,home,FALSE,New Mexico,70,Lobos,New Mexico Lobos,New Mexico
-253430167,2005-12-09,2,2433,away,FALSE,UL Monroe,57,Warhawks,UL Monroe Warhawks,UL Monroe
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253430164,2006,regular-season,2005-12-09,2,164,home,FALSE,Rutgers,77,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+253430164,2006,regular-season,2005-12-09,2,295,away,FALSE,Old Dominion,41,Monarchs,Old Dominion Monarchs,Old Dominion
+253430167,2006,regular-season,2005-12-09,2,167,home,FALSE,New Mexico,70,Lobos,New Mexico Lobos,New Mexico
+253430167,2006,regular-season,2005-12-09,2,2433,away,FALSE,UL Monroe,57,Warhawks,UL Monroe Warhawks,UL Monroe

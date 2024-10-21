@@ -1,37 +1,37 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400843580,2015-12-14,2,171,home,FALSE,Columbia,78,Lions,Columbia Lions,Columbia
-400843580,2015-12-14,2,2523,away,FALSE,Robert Morris,71,Colonials,Robert Morris Colonials,Robert Morris
-400844335,2015-12-14,2,2747,home,FALSE,Wofford,63,Terriers,Wofford Terriers,Wofford
-400844335,2015-12-14,2,324,away,FALSE,Coastal Carolina,71,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
-400842029,2015-12-14,2,2363,home,FALSE,Manhattan,71,Jaspers,Manhattan Jaspers,Manhattan
-400842029,2015-12-14,2,2597,away,FALSE,St. Francis Brooklyn,60,Terriers,St. Francis Brooklyn Terriers,St Francis BK
-400841700,2015-12-14,2,276,home,FALSE,Marshall,92,Thundering Herd,Marshall Thundering Herd,Marshall
-400841700,2015-12-14,2,2428,away,FALSE,North Carolina Central,73,Eagles,North Carolina Central Eagles,NC Central
-400841218,2015-12-14,4,56,home,FALSE,Stetson,90,Hatters,Stetson Hatters,Stetson
-400841218,2015-12-14,4,2634,away,FALSE,Tennessee State,93,Tigers,Tennessee State Tigers,Tennessee St
-400840169,2015-12-14,2,2426,home,FALSE,Navy,57,Midshipmen,Navy Midshipmen,Navy
-400840169,2015-12-14,2,2908,away,FALSE,South Carolina Upstate,66,Spartans,South Carolina Upstate Spartans,SC Upstate
-400840155,2015-12-14,2,2454,home,FALSE,North Florida,94,Ospreys,North Florida Ospreys,North Florida
-400840155,2015-12-14,2,2229,away,FALSE,Florida International,72,Panthers,Florida International Panthers,FIU
-400830804,2015-12-14,2,2717,home,FALSE,Western Carolina,97,Catamounts,Western Carolina Catamounts,W Carolina
-400830804,2015-12-14,2,331,away,FALSE,Eastern Washington,80,Eagles,Eastern Washington Eagles,E Washington
-400847111,2015-12-14,2,2534,home,FALSE,Sam Houston,96,Bearkats,Sam Houston Bearkats,Sam Houston
-400847111,2015-12-14,2,2326,away,FALSE,LeTourneau,54,Yellow Jackets,LeTourneau Yellow Jackets,LeTourneau
-400833387,2015-12-14,2,2127,home,FALSE,Charleston Southern,107,Buccaneers,Charleston Southern Buccaneers,Charleston So
-400833387,2015-12-14,2,3242,away,FALSE,Columbia International,74,Columbia International,Columbia International,Colum Intl
-400843485,2015-12-14,2,249,home,FALSE,North Texas,78,Mean Green,North Texas Mean Green,North Texas
-400843485,2015-12-14,2,2447,away,FALSE,Nicholls,60,Colonels,Nicholls Colonels,Nicholls
-400825725,2015-12-14,2,2655,home,FALSE,Tulane,63,Green Wave,Tulane Green Wave,Tulane
-400825725,2015-12-14,2,2504,away,FALSE,Prairie View A&M,49,Panthers,Prairie View A&M Panthers,Prairie View
-400833177,2015-12-14,2,6,home,FALSE,South Alabama,54,Jaguars,South Alabama Jaguars,South Alabama
-400833177,2015-12-14,2,2572,away,FALSE,Southern Miss,57,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
-400848727,2015-12-14,2,2016,home,FALSE,Alcorn State,68,Braves,Alcorn State Braves,Alcorn St
-400848727,2015-12-14,2,494,away,FALSE,Blue Mountain,60,Toppers,Blue Mountain Toppers,Bluemtn
-400827476,2015-12-14,2,42,home,FALSE,Hartford,80,Hawks,Hartford Hawks,Hartford
-400827476,2015-12-14,2,2529,away,FALSE,Sacred Heart,71,Pioneers,Sacred Heart Pioneers,Sacred Heart
-400840099,2015-12-14,2,2250,home,FALSE,Gonzaga,86,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400840099,2015-12-14,2,2606,away,FALSE,Saint Martin's,50,Saints,Saint Martin's Saints,Saint Martin's
-400846762,2015-12-14,2,2608,home,FALSE,Saint Mary's,93,Gaels,Saint Mary's Gaels,Saint Mary's
-400846762,2015-12-14,2,13,away,FALSE,Cal Poly,63,Mustangs,Cal Poly Mustangs,Cal Poly
-400839980,2015-12-14,2,2934,home,FALSE,Cal State Bakersfield,69,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
-400839980,2015-12-14,2,159,away,FALSE,Dartmouth,62,Big Green,Dartmouth Big Green,Dartmouth
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400843580,2016,regular-season,2015-12-14,2,171,home,FALSE,Columbia,78,Lions,Columbia Lions,Columbia
+400843580,2016,regular-season,2015-12-14,2,2523,away,FALSE,Robert Morris,71,Colonials,Robert Morris Colonials,Robert Morris
+400844335,2016,regular-season,2015-12-14,2,2747,home,FALSE,Wofford,63,Terriers,Wofford Terriers,Wofford
+400844335,2016,regular-season,2015-12-14,2,324,away,FALSE,Coastal Carolina,71,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+400842029,2016,regular-season,2015-12-14,2,2363,home,FALSE,Manhattan,71,Jaspers,Manhattan Jaspers,Manhattan
+400842029,2016,regular-season,2015-12-14,2,2597,away,FALSE,St. Francis Brooklyn,60,Terriers,St. Francis Brooklyn Terriers,St Francis BK
+400841700,2016,regular-season,2015-12-14,2,276,home,FALSE,Marshall,92,Thundering Herd,Marshall Thundering Herd,Marshall
+400841700,2016,regular-season,2015-12-14,2,2428,away,FALSE,North Carolina Central,73,Eagles,North Carolina Central Eagles,NC Central
+400841218,2016,regular-season,2015-12-14,4,56,home,FALSE,Stetson,90,Hatters,Stetson Hatters,Stetson
+400841218,2016,regular-season,2015-12-14,4,2634,away,FALSE,Tennessee State,93,Tigers,Tennessee State Tigers,Tennessee St
+400840169,2016,regular-season,2015-12-14,2,2426,home,FALSE,Navy,57,Midshipmen,Navy Midshipmen,Navy
+400840169,2016,regular-season,2015-12-14,2,2908,away,FALSE,South Carolina Upstate,66,Spartans,South Carolina Upstate Spartans,SC Upstate
+400840155,2016,regular-season,2015-12-14,2,2454,home,FALSE,North Florida,94,Ospreys,North Florida Ospreys,North Florida
+400840155,2016,regular-season,2015-12-14,2,2229,away,FALSE,Florida International,72,Panthers,Florida International Panthers,FIU
+400830804,2016,regular-season,2015-12-14,2,2717,home,FALSE,Western Carolina,97,Catamounts,Western Carolina Catamounts,W Carolina
+400830804,2016,regular-season,2015-12-14,2,331,away,FALSE,Eastern Washington,80,Eagles,Eastern Washington Eagles,E Washington
+400847111,2016,regular-season,2015-12-14,2,2534,home,FALSE,Sam Houston,96,Bearkats,Sam Houston Bearkats,Sam Houston
+400847111,2016,regular-season,2015-12-14,2,2326,away,FALSE,LeTourneau,54,Yellow Jackets,LeTourneau Yellow Jackets,LeTourneau
+400833387,2016,regular-season,2015-12-14,2,2127,home,FALSE,Charleston Southern,107,Buccaneers,Charleston Southern Buccaneers,Charleston So
+400833387,2016,regular-season,2015-12-14,2,3242,away,FALSE,Columbia International,74,Columbia International,Columbia International,Colum Intl
+400843485,2016,regular-season,2015-12-14,2,249,home,FALSE,North Texas,78,Mean Green,North Texas Mean Green,North Texas
+400843485,2016,regular-season,2015-12-14,2,2447,away,FALSE,Nicholls,60,Colonels,Nicholls Colonels,Nicholls
+400825725,2016,regular-season,2015-12-14,2,2655,home,FALSE,Tulane,63,Green Wave,Tulane Green Wave,Tulane
+400825725,2016,regular-season,2015-12-14,2,2504,away,FALSE,Prairie View A&M,49,Panthers,Prairie View A&M Panthers,Prairie View
+400833177,2016,regular-season,2015-12-14,2,6,home,FALSE,South Alabama,54,Jaguars,South Alabama Jaguars,South Alabama
+400833177,2016,regular-season,2015-12-14,2,2572,away,FALSE,Southern Miss,57,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
+400848727,2016,regular-season,2015-12-14,2,2016,home,FALSE,Alcorn State,68,Braves,Alcorn State Braves,Alcorn St
+400848727,2016,regular-season,2015-12-14,2,494,away,FALSE,Blue Mountain,60,Toppers,Blue Mountain Toppers,Bluemtn
+400827476,2016,regular-season,2015-12-14,2,42,home,FALSE,Hartford,80,Hawks,Hartford Hawks,Hartford
+400827476,2016,regular-season,2015-12-14,2,2529,away,FALSE,Sacred Heart,71,Pioneers,Sacred Heart Pioneers,Sacred Heart
+400840099,2016,regular-season,2015-12-14,2,2250,home,FALSE,Gonzaga,86,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400840099,2016,regular-season,2015-12-14,2,2606,away,FALSE,Saint Martin's,50,Saints,Saint Martin's Saints,Saint Martin's
+400846762,2016,regular-season,2015-12-14,2,2608,home,FALSE,Saint Mary's,93,Gaels,Saint Mary's Gaels,Saint Mary's
+400846762,2016,regular-season,2015-12-14,2,13,away,FALSE,Cal Poly,63,Mustangs,Cal Poly Mustangs,Cal Poly
+400839980,2016,regular-season,2015-12-14,2,2934,home,FALSE,Cal State Bakersfield,69,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+400839980,2016,regular-season,2015-12-14,2,159,away,FALSE,Dartmouth,62,Big Green,Dartmouth Big Green,Dartmouth

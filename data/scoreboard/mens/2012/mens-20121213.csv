@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323482439,2012-12-13,2,2439,home,FALSE,UNLV,91,Rebels,UNLV Rebels,UNLV
-323482439,2012-12-13,2,2318,away,FALSE,La Verne,44,Leopards,La Verne Leopards,La Verne
-323482633,2012-12-13,2,2633,home,FALSE,Tennessee,69,Volunteers,Tennessee Volunteers,Tennessee
-323482633,2012-12-13,2,2724,away,FALSE,Wichita State,60,Shockers,Wichita State Shockers,Wichita St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323482439,2013,regular-season,2012-12-13,2,2439,home,FALSE,UNLV,91,Rebels,UNLV Rebels,UNLV
+323482439,2013,regular-season,2012-12-13,2,2318,away,FALSE,La Verne,44,Leopards,La Verne Leopards,La Verne
+323482633,2013,regular-season,2012-12-13,2,2633,home,FALSE,Tennessee,69,Volunteers,Tennessee Volunteers,Tennessee
+323482633,2013,regular-season,2012-12-13,2,2724,away,FALSE,Wichita State,60,Shockers,Wichita State Shockers,Wichita St

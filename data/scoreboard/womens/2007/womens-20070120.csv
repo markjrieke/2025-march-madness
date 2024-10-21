@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270200038,2007-01-20,2,38,home,FALSE,Colorado,67,Buffaloes,Colorado Buffaloes,Colorado
-270200038,2007-01-20,2,201,away,FALSE,Oklahoma,82,Sooners,Oklahoma Sooners,Oklahoma
-270200024,2007-01-20,2,24,home,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
-270200024,2007-01-20,2,204,away,FALSE,Oregon State,55,Beavers,Oregon State Beavers,Oregon St
-270200239,2007-01-20,2,239,home,FALSE,Baylor,79,Bears,Baylor Bears,Baylor
-270200239,2007-01-20,2,2306,away,FALSE,Kansas State,70,Wildcats,Kansas State Wildcats,Kansas St
-270200189,2007-01-20,2,189,home,FALSE,Bowling Green,70,Falcons,Bowling Green Falcons,Bowling Green
-270200189,2007-01-20,2,2117,away,FALSE,Central Michigan,50,Chippewas,Central Michigan Chippewas,C Michigan
-270202507,2007-01-20,2,2507,home,FALSE,Providence,77,Friars,Providence Friars,Providence
-270202507,2007-01-20,2,269,away,FALSE,Marquette,79,Golden Eagles,Marquette Golden Eagles,Marquette
-270202031,2007-01-20,2,2031,home,FALSE,Little Rock,62,Trojans,Little Rock Trojans,Little Rock
-270202031,2007-01-20,2,2393,away,FALSE,Middle Tennessee,75,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-270200025,2007-01-20,2,25,home,FALSE,California,65,Golden Bears,California Golden Bears,California
-270200025,2007-01-20,2,2483,away,FALSE,Oregon,56,Ducks,Oregon Ducks,Oregon
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270200038,2007,regular-season,2007-01-20,2,38,home,FALSE,Colorado,67,Buffaloes,Colorado Buffaloes,Colorado
+270200038,2007,regular-season,2007-01-20,2,201,away,FALSE,Oklahoma,82,Sooners,Oklahoma Sooners,Oklahoma
+270200024,2007,regular-season,2007-01-20,2,24,home,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
+270200024,2007,regular-season,2007-01-20,2,204,away,FALSE,Oregon State,55,Beavers,Oregon State Beavers,Oregon St
+270200239,2007,regular-season,2007-01-20,2,239,home,FALSE,Baylor,79,Bears,Baylor Bears,Baylor
+270200239,2007,regular-season,2007-01-20,2,2306,away,FALSE,Kansas State,70,Wildcats,Kansas State Wildcats,Kansas St
+270200189,2007,regular-season,2007-01-20,2,189,home,FALSE,Bowling Green,70,Falcons,Bowling Green Falcons,Bowling Green
+270200189,2007,regular-season,2007-01-20,2,2117,away,FALSE,Central Michigan,50,Chippewas,Central Michigan Chippewas,C Michigan
+270202507,2007,regular-season,2007-01-20,2,2507,home,FALSE,Providence,77,Friars,Providence Friars,Providence
+270202507,2007,regular-season,2007-01-20,2,269,away,FALSE,Marquette,79,Golden Eagles,Marquette Golden Eagles,Marquette
+270202031,2007,regular-season,2007-01-20,2,2031,home,FALSE,Little Rock,62,Trojans,Little Rock Trojans,Little Rock
+270202031,2007,regular-season,2007-01-20,2,2393,away,FALSE,Middle Tennessee,75,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+270200025,2007,regular-season,2007-01-20,2,25,home,FALSE,California,65,Golden Bears,California Golden Bears,California
+270200025,2007,regular-season,2007-01-20,2,2483,away,FALSE,Oregon,56,Ducks,Oregon Ducks,Oregon

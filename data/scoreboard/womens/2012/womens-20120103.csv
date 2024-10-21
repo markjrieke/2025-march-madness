@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320032633,2012-01-03,2,2633,home,FALSE,Tennessee,90,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-320032633,2012-01-03,2,236,away,FALSE,Chattanooga,47,Mocs,Chattanooga Mocs,Chattanooga
-320030164,2012-01-03,2,164,home,FALSE,Rutgers,55,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-320030164,2012-01-03,2,183,away,FALSE,Syracuse,44,Orange,Syracuse Orange,Syracuse
-320030097,2012-01-03,2,97,home,FALSE,Louisville,70,Cardinals,Louisville Cardinals,Louisville
-320030097,2012-01-03,2,269,away,FALSE,Marquette,53,Golden Eagles,Marquette Golden Eagles,Marquette
-320030046,2012-01-03,2,46,home,FALSE,Georgetown,50,Hoyas,Georgetown Hoyas,Georgetown
-320030046,2012-01-03,2,305,away,FALSE,DePaul,59,Blue Demons,DePaul Blue Demons,DePaul
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320032633,2012,regular-season,2012-01-03,2,2633,home,FALSE,Tennessee,90,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+320032633,2012,regular-season,2012-01-03,2,236,away,FALSE,Chattanooga,47,Mocs,Chattanooga Mocs,Chattanooga
+320030164,2012,regular-season,2012-01-03,2,164,home,FALSE,Rutgers,55,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+320030164,2012,regular-season,2012-01-03,2,183,away,FALSE,Syracuse,44,Orange,Syracuse Orange,Syracuse
+320030097,2012,regular-season,2012-01-03,2,97,home,FALSE,Louisville,70,Cardinals,Louisville Cardinals,Louisville
+320030097,2012,regular-season,2012-01-03,2,269,away,FALSE,Marquette,53,Golden Eagles,Marquette Golden Eagles,Marquette
+320030046,2012,regular-season,2012-01-03,2,46,home,FALSE,Georgetown,50,Hoyas,Georgetown Hoyas,Georgetown
+320030046,2012,regular-season,2012-01-03,2,305,away,FALSE,DePaul,59,Blue Demons,DePaul Blue Demons,DePaul

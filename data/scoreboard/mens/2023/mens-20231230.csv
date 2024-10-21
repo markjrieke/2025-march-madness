@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401575459,2023-12-30,2,2305,home,TRUE,Kansas,86,Jayhawks,Kansas Jayhawks,Kansas
-401575459,2023-12-30,2,2724,away,TRUE,Wichita State,67,Shockers,Wichita State Shockers,Wichita St
-401575442,2023-12-30,2,248,home,FALSE,Houston,81,Cougars,Houston Cougars,Houston
-401575442,2023-12-30,2,219,away,FALSE,Pennsylvania,42,Quakers,Pennsylvania Quakers,Penn
-401601144,2023-12-30,2,526,home,FALSE,Florida Gulf Coast,72,Eagles,Florida Gulf Coast Eagles,FGCU
-401601144,2023-12-30,2,2226,away,FALSE,Florida Atlantic,68,Owls,Florida Atlantic Owls,FAU
-401599448,2023-12-30,2,269,home,FALSE,Marquette,72,Golden Eagles,Marquette Golden Eagles,Marquette
-401599448,2023-12-30,2,156,away,FALSE,Creighton,67,Bluejays,Creighton Bluejays,Creighton
-401593958,2023-12-30,2,252,home,FALSE,BYU,94,Cougars,BYU Cougars,BYU
-401593958,2023-12-30,2,2751,away,FALSE,Wyoming,68,Cowboys,Wyoming Cowboys,Wyoming
-401574497,2023-12-30,2,150,home,FALSE,Duke,106,Blue Devils,Duke Blue Devils,Duke
-401574497,2023-12-30,2,2511,away,FALSE,Queens University,69,Royals,Queens University Royals,Queens
-401583606,2023-12-30,2,235,home,FALSE,Memphis,81,Tigers,Memphis Tigers,Memphis
-401583606,2023-12-30,2,2046,away,FALSE,Austin Peay,70,Governors,Austin Peay Governors,Austin Peay
-401581667,2023-12-30,2,256,home,FALSE,James Madison,82,Dukes,James Madison Dukes,James Madison
-401581667,2023-12-30,2,326,away,FALSE,Texas State,65,Bobcats,Texas State Bobcats,Texas St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401575459,2024,regular-season,2023-12-30,2,2305,home,TRUE,Kansas,86,Jayhawks,Kansas Jayhawks,Kansas
+401575459,2024,regular-season,2023-12-30,2,2724,away,TRUE,Wichita State,67,Shockers,Wichita State Shockers,Wichita St
+401575442,2024,regular-season,2023-12-30,2,248,home,FALSE,Houston,81,Cougars,Houston Cougars,Houston
+401575442,2024,regular-season,2023-12-30,2,219,away,FALSE,Pennsylvania,42,Quakers,Pennsylvania Quakers,Penn
+401601144,2024,regular-season,2023-12-30,2,526,home,FALSE,Florida Gulf Coast,72,Eagles,Florida Gulf Coast Eagles,FGCU
+401601144,2024,regular-season,2023-12-30,2,2226,away,FALSE,Florida Atlantic,68,Owls,Florida Atlantic Owls,FAU
+401599448,2024,regular-season,2023-12-30,2,269,home,FALSE,Marquette,72,Golden Eagles,Marquette Golden Eagles,Marquette
+401599448,2024,regular-season,2023-12-30,2,156,away,FALSE,Creighton,67,Bluejays,Creighton Bluejays,Creighton
+401593958,2024,regular-season,2023-12-30,2,252,home,FALSE,BYU,94,Cougars,BYU Cougars,BYU
+401593958,2024,regular-season,2023-12-30,2,2751,away,FALSE,Wyoming,68,Cowboys,Wyoming Cowboys,Wyoming
+401574497,2024,regular-season,2023-12-30,2,150,home,FALSE,Duke,106,Blue Devils,Duke Blue Devils,Duke
+401574497,2024,regular-season,2023-12-30,2,2511,away,FALSE,Queens University,69,Royals,Queens University Royals,Queens
+401583606,2024,regular-season,2023-12-30,2,235,home,FALSE,Memphis,81,Tigers,Memphis Tigers,Memphis
+401583606,2024,regular-season,2023-12-30,2,2046,away,FALSE,Austin Peay,70,Governors,Austin Peay Governors,Austin Peay
+401581667,2024,regular-season,2023-12-30,2,256,home,FALSE,James Madison,82,Dukes,James Madison Dukes,James Madison
+401581667,2024,regular-season,2023-12-30,2,326,away,FALSE,Texas State,65,Bobcats,Texas State Bobcats,Texas St

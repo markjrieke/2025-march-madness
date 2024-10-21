@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273230153,2007-11-19,2,153,home,FALSE,North Carolina,99,Tar Heels,North Carolina Tar Heels,North Carolina
-273230153,2007-11-19,2,2247,away,FALSE,Georgia State,64,Panthers,Georgia State Panthers,Georgia St
-273230009,2007-11-19,2,9,home,FALSE,Arizona State,84,Sun Devils,Arizona State Sun Devils,Arizona St
-273230009,2007-11-19,2,43,away,FALSE,Yale,38,Bulldogs,Yale Bulldogs,Yale
-273230194,2007-11-19,2,194,home,FALSE,Ohio State,79,Buckeyes,Ohio State Buckeyes,Ohio State
-273230194,2007-11-19,2,2582,away,FALSE,Southern,38,Jaguars,Southern Jaguars,Southern
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273230153,2008,regular-season,2007-11-19,2,153,home,FALSE,North Carolina,99,Tar Heels,North Carolina Tar Heels,North Carolina
+273230153,2008,regular-season,2007-11-19,2,2247,away,FALSE,Georgia State,64,Panthers,Georgia State Panthers,Georgia St
+273230009,2008,regular-season,2007-11-19,2,9,home,FALSE,Arizona State,84,Sun Devils,Arizona State Sun Devils,Arizona St
+273230009,2008,regular-season,2007-11-19,2,43,away,FALSE,Yale,38,Bulldogs,Yale Bulldogs,Yale
+273230194,2008,regular-season,2007-11-19,2,194,home,FALSE,Ohio State,79,Buckeyes,Ohio State Buckeyes,Ohio State
+273230194,2008,regular-season,2007-11-19,2,2582,away,FALSE,Southern,38,Jaguars,Southern Jaguars,Southern

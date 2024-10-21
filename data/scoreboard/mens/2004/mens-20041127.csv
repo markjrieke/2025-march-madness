@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243322561,2004-11-27,2,2561,home,FALSE,Siena,56,Saints,Siena Saints,Siena
-243322561,2004-11-27,2,183,away,FALSE,Syracuse,78,Orange,Syracuse Orange,Syracuse
-243320356,2004-11-27,2,356,home,FALSE,Illinois,89,Fighting Illini,Illinois Fighting Illini,Illinois
-243320356,2004-11-27,2,2250,away,FALSE,Gonzaga,72,Bulldogs,Gonzaga Bulldogs,Gonzaga
-243320197,2004-11-27,2,197,home,FALSE,Oklahoma State,73,Cowboys,Oklahoma State Cowboys,Oklahoma St
-243320197,2004-11-27,2,2534,away,FALSE,Sam Houston,57,Bearkats,Sam Houston Bearkats,Sam Houston
-243320150,2004-11-27,2,150,home,FALSE,Duke,98,Blue Devils,Duke Blue Devils,Duke
-243320150,2004-11-27,2,2430,away,FALSE,UNC Greensboro,44,Spartans,UNC Greensboro Spartans,UNC Greensboro
-243320127,2004-11-27,2,127,home,FALSE,Michigan State,102,Spartans,Michigan State Spartans,Michigan St
-243320127,2004-11-27,2,2447,away,FALSE,Nicholls,52,Colonels,Nicholls Colonels,Nicholls
-243320221,2004-11-27,2,221,home,FALSE,Pittsburgh,93,Panthers,Pittsburgh Panthers,Pitt
-243320221,2004-11-27,2,2352,away,FALSE,Loyola Maryland,57,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-243320264,2004-11-27,2,264,home,FALSE,Washington,79,Huskies,Washington Huskies,Washington
-243320264,2004-11-27,2,333,away,FALSE,Alabama,76,Crimson Tide,Alabama Crimson Tide,Alabama
-243322492,2004-11-27,2,2492,home,FALSE,Pepperdine,75,Waves,Pepperdine Waves,Pepperdine
-243322492,2004-11-27,2,275,away,FALSE,Wisconsin,61,Badgers,Wisconsin Badgers,Wisconsin
-243320057,2004-11-27,2,57,home,FALSE,Florida,84,Gators,Florida Gators,Florida
-243320057,2004-11-27,2,2507,away,FALSE,Providence,66,Friars,Providence Friars,Providence
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243322561,2005,regular-season,2004-11-27,2,2561,home,FALSE,Siena,56,Saints,Siena Saints,Siena
+243322561,2005,regular-season,2004-11-27,2,183,away,FALSE,Syracuse,78,Orange,Syracuse Orange,Syracuse
+243320356,2005,regular-season,2004-11-27,2,356,home,FALSE,Illinois,89,Fighting Illini,Illinois Fighting Illini,Illinois
+243320356,2005,regular-season,2004-11-27,2,2250,away,FALSE,Gonzaga,72,Bulldogs,Gonzaga Bulldogs,Gonzaga
+243320197,2005,regular-season,2004-11-27,2,197,home,FALSE,Oklahoma State,73,Cowboys,Oklahoma State Cowboys,Oklahoma St
+243320197,2005,regular-season,2004-11-27,2,2534,away,FALSE,Sam Houston,57,Bearkats,Sam Houston Bearkats,Sam Houston
+243320150,2005,regular-season,2004-11-27,2,150,home,FALSE,Duke,98,Blue Devils,Duke Blue Devils,Duke
+243320150,2005,regular-season,2004-11-27,2,2430,away,FALSE,UNC Greensboro,44,Spartans,UNC Greensboro Spartans,UNC Greensboro
+243320127,2005,regular-season,2004-11-27,2,127,home,FALSE,Michigan State,102,Spartans,Michigan State Spartans,Michigan St
+243320127,2005,regular-season,2004-11-27,2,2447,away,FALSE,Nicholls,52,Colonels,Nicholls Colonels,Nicholls
+243320221,2005,regular-season,2004-11-27,2,221,home,FALSE,Pittsburgh,93,Panthers,Pittsburgh Panthers,Pitt
+243320221,2005,regular-season,2004-11-27,2,2352,away,FALSE,Loyola Maryland,57,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+243320264,2005,regular-season,2004-11-27,2,264,home,FALSE,Washington,79,Huskies,Washington Huskies,Washington
+243320264,2005,regular-season,2004-11-27,2,333,away,FALSE,Alabama,76,Crimson Tide,Alabama Crimson Tide,Alabama
+243322492,2005,regular-season,2004-11-27,2,2492,home,FALSE,Pepperdine,75,Waves,Pepperdine Waves,Pepperdine
+243322492,2005,regular-season,2004-11-27,2,275,away,FALSE,Wisconsin,61,Badgers,Wisconsin Badgers,Wisconsin
+243320057,2005,regular-season,2004-11-27,2,57,home,FALSE,Florida,84,Gators,Florida Gators,Florida
+243320057,2005,regular-season,2004-11-27,2,2507,away,FALSE,Providence,66,Friars,Providence Friars,Providence

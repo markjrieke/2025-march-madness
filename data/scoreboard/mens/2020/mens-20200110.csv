@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401168299,2020-01-10,2,2507,home,FALSE,Providence,58,Friars,Providence Friars,Providence
-401168299,2020-01-10,2,2086,away,FALSE,Butler,70,Bulldogs,Butler Bulldogs,Butler
-401166161,2020-01-10,2,2294,home,FALSE,Iowa,67,Hawkeyes,Iowa Hawkeyes,Iowa
-401166161,2020-01-10,2,120,away,FALSE,Maryland,49,Terrapins,Maryland Terrapins,Maryland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401168299,2020,regular-season,2020-01-10,2,2507,home,FALSE,Providence,58,Friars,Providence Friars,Providence
+401168299,2020,regular-season,2020-01-10,2,2086,away,FALSE,Butler,70,Bulldogs,Butler Bulldogs,Butler
+401166161,2020,regular-season,2020-01-10,2,2294,home,FALSE,Iowa,67,Hawkeyes,Iowa Hawkeyes,Iowa
+401166161,2020,regular-season,2020-01-10,2,120,away,FALSE,Maryland,49,Terrapins,Maryland Terrapins,Maryland

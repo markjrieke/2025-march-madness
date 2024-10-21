@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323260120,2012-11-21,2,120,home,FALSE,Maryland,94,Terrapins,Maryland Terrapins,Maryland
-323260120,2012-11-21,2,44,away,FALSE,American University,54,Eagles,American University Eagles,American
-323262599,2012-11-21,2,2599,home,FALSE,St. John's,71,Red Storm,St. John's Red Storm,St John's
-323262599,2012-11-21,2,314,away,FALSE,Iona,55,Gaels,Iona Gaels,Iona
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323260120,2013,regular-season,2012-11-21,2,120,home,FALSE,Maryland,94,Terrapins,Maryland Terrapins,Maryland
+323260120,2013,regular-season,2012-11-21,2,44,away,FALSE,American University,54,Eagles,American University Eagles,American
+323262599,2013,regular-season,2012-11-21,2,2599,home,FALSE,St. John's,71,Red Storm,St. John's Red Storm,St John's
+323262599,2013,regular-season,2012-11-21,2,314,away,FALSE,Iona,55,Gaels,Iona Gaels,Iona

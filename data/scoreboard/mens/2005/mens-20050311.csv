@@ -1,43 +1,43 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250700356,2005-03-11,2,356,home,FALSE,Illinois,68,Fighting Illini,Illinois Fighting Illini,Illinois
-250700356,2005-03-11,2,77,away,FALSE,Northwestern,51,Wildcats,Northwestern Wildcats,Northwestern
-250700153,2005-03-11,2,153,home,FALSE,North Carolina,88,Tar Heels,North Carolina Tar Heels,North Carolina
-250700153,2005-03-11,2,228,away,FALSE,Clemson,81,Tigers,Clemson Tigers,Clemson
-250700150,2005-03-11,2,150,home,FALSE,Duke,76,Blue Devils,Duke Blue Devils,Duke
-250700150,2005-03-11,2,258,away,FALSE,Virginia,64,Cavaliers,Virginia Cavaliers,Virginia
-250700097,2005-03-11,2,97,home,FALSE,Louisville,74,Cardinals,Louisville Cardinals,Louisville
-250700097,2005-03-11,2,5,away,FALSE,UAB,67,Blazers,UAB Blazers,UAB
-250700154,2005-03-11,2,154,home,FALSE,Wake Forest,65,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-250700154,2005-03-11,2,152,away,FALSE,NC State,81,Wolfpack,NC State Wolfpack,NC State
-250700197,2005-03-11,2,197,home,FALSE,Oklahoma State,87,Cowboys,Oklahoma State Cowboys,Oklahoma St
-250700197,2005-03-11,2,38,away,FALSE,Colorado,85,Buffaloes,Colorado Buffaloes,Colorado
-250700096,2005-03-11,2,96,home,FALSE,Kentucky,76,Wildcats,Kentucky Wildcats,Kentucky
-250700096,2005-03-11,2,2633,away,FALSE,Tennessee,62,Volunteers,Tennessee Volunteers,Tennessee
-250700264,2005-03-11,2,264,home,FALSE,Washington,66,Huskies,Washington Huskies,Washington
-250700264,2005-03-11,2,24,away,FALSE,Stanford,63,Cardinal,Stanford Cardinal,Stanford
-250700012,2005-03-11,2,12,home,FALSE,Arizona,90,Wildcats,Arizona Wildcats,Arizona
-250700012,2005-03-11,2,204,away,FALSE,Oregon State,59,Beavers,Oregon State Beavers,Oregon St
-250700041,2005-03-11,2,41,home,FALSE,UConn,63,Huskies,UConn Huskies,UConn
-250700041,2005-03-11,2,183,away,FALSE,Syracuse,67,Orange,Syracuse Orange,Syracuse
-250702305,2005-03-11,2,2305,home,FALSE,Kansas,80,Jayhawks,Kansas Jayhawks,Kansas
-250702305,2005-03-11,2,2306,away,FALSE,Kansas State,67,Wildcats,Kansas State Wildcats,Kansas St
-250700127,2005-03-11,2,127,home,FALSE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
-250700127,2005-03-11,2,2294,away,FALSE,Iowa,71,Hawkeyes,Iowa Hawkeyes,Iowa
-250700057,2005-03-11,2,57,home,FALSE,Florida,80,Gators,Florida Gators,Florida
-250700057,2005-03-11,2,344,away,FALSE,Mississippi State,64,Bulldogs,Mississippi State Bulldogs,Mississippi St
-250700201,2005-03-11,2,201,home,FALSE,Oklahoma,83,Sooners,Oklahoma Sooners,Oklahoma
-250700201,2005-03-11,2,142,away,FALSE,Missouri,79,Tigers,Missouri Tigers,Missouri
-250700254,2005-03-11,2,254,home,FALSE,Utah,73,Utes,Utah Utes,Utah
-250700254,2005-03-11,2,2439,away,FALSE,UNLV,67,Rebels,UNLV Rebels,UNLV
-250700222,2005-03-11,2,222,home,FALSE,Villanova,76,Wildcats,Villanova Wildcats,Villanova
-250700222,2005-03-11,2,277,away,FALSE,West Virginia,78,Mountaineers,West Virginia Mountaineers,West Virginia
-250700275,2005-03-11,2,275,home,FALSE,Wisconsin,60,Badgers,Wisconsin Badgers,Wisconsin
-250700275,2005-03-11,2,194,away,FALSE,Ohio State,49,Buckeyes,Ohio State Buckeyes,Ohio State
-250700333,2005-03-11,2,333,home,FALSE,Alabama,69,Crimson Tide,Alabama Crimson Tide,Alabama
-250700333,2005-03-11,2,145,away,FALSE,Ole Miss,52,Rebels,Ole Miss Rebels,Ole Miss
-250700279,2005-03-11,2,279,home,FALSE,Pacific,63,Tigers,Pacific Tigers,Pacific
-250700279,2005-03-11,2,2463,away,FALSE,Cal State Northridge,61,Matadors,Cal State Northridge Matadors,CSU Northridge
-250702641,2005-03-11,2,2641,home,FALSE,Texas Tech,64,Red Raiders,Texas Tech Red Raiders,Texas Tech
-250702641,2005-03-11,2,66,away,FALSE,Iowa State,56,Cyclones,Iowa State Cyclones,Iowa State
-250700259,2005-03-11,2,259,home,FALSE,Virginia Tech,54,Hokies,Virginia Tech Hokies,Virginia Tech
-250700259,2005-03-11,2,59,away,FALSE,Georgia Tech,73,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250700356,2005,regular-season,2005-03-11,2,356,home,FALSE,Illinois,68,Fighting Illini,Illinois Fighting Illini,Illinois
+250700356,2005,regular-season,2005-03-11,2,77,away,FALSE,Northwestern,51,Wildcats,Northwestern Wildcats,Northwestern
+250700153,2005,regular-season,2005-03-11,2,153,home,FALSE,North Carolina,88,Tar Heels,North Carolina Tar Heels,North Carolina
+250700153,2005,regular-season,2005-03-11,2,228,away,FALSE,Clemson,81,Tigers,Clemson Tigers,Clemson
+250700150,2005,regular-season,2005-03-11,2,150,home,FALSE,Duke,76,Blue Devils,Duke Blue Devils,Duke
+250700150,2005,regular-season,2005-03-11,2,258,away,FALSE,Virginia,64,Cavaliers,Virginia Cavaliers,Virginia
+250700097,2005,regular-season,2005-03-11,2,97,home,FALSE,Louisville,74,Cardinals,Louisville Cardinals,Louisville
+250700097,2005,regular-season,2005-03-11,2,5,away,FALSE,UAB,67,Blazers,UAB Blazers,UAB
+250700154,2005,regular-season,2005-03-11,2,154,home,FALSE,Wake Forest,65,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+250700154,2005,regular-season,2005-03-11,2,152,away,FALSE,NC State,81,Wolfpack,NC State Wolfpack,NC State
+250700197,2005,regular-season,2005-03-11,2,197,home,FALSE,Oklahoma State,87,Cowboys,Oklahoma State Cowboys,Oklahoma St
+250700197,2005,regular-season,2005-03-11,2,38,away,FALSE,Colorado,85,Buffaloes,Colorado Buffaloes,Colorado
+250700096,2005,regular-season,2005-03-11,2,96,home,FALSE,Kentucky,76,Wildcats,Kentucky Wildcats,Kentucky
+250700096,2005,regular-season,2005-03-11,2,2633,away,FALSE,Tennessee,62,Volunteers,Tennessee Volunteers,Tennessee
+250700264,2005,regular-season,2005-03-11,2,264,home,FALSE,Washington,66,Huskies,Washington Huskies,Washington
+250700264,2005,regular-season,2005-03-11,2,24,away,FALSE,Stanford,63,Cardinal,Stanford Cardinal,Stanford
+250700012,2005,regular-season,2005-03-11,2,12,home,FALSE,Arizona,90,Wildcats,Arizona Wildcats,Arizona
+250700012,2005,regular-season,2005-03-11,2,204,away,FALSE,Oregon State,59,Beavers,Oregon State Beavers,Oregon St
+250700041,2005,regular-season,2005-03-11,2,41,home,FALSE,UConn,63,Huskies,UConn Huskies,UConn
+250700041,2005,regular-season,2005-03-11,2,183,away,FALSE,Syracuse,67,Orange,Syracuse Orange,Syracuse
+250702305,2005,regular-season,2005-03-11,2,2305,home,FALSE,Kansas,80,Jayhawks,Kansas Jayhawks,Kansas
+250702305,2005,regular-season,2005-03-11,2,2306,away,FALSE,Kansas State,67,Wildcats,Kansas State Wildcats,Kansas St
+250700127,2005,regular-season,2005-03-11,2,127,home,FALSE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
+250700127,2005,regular-season,2005-03-11,2,2294,away,FALSE,Iowa,71,Hawkeyes,Iowa Hawkeyes,Iowa
+250700057,2005,regular-season,2005-03-11,2,57,home,FALSE,Florida,80,Gators,Florida Gators,Florida
+250700057,2005,regular-season,2005-03-11,2,344,away,FALSE,Mississippi State,64,Bulldogs,Mississippi State Bulldogs,Mississippi St
+250700201,2005,regular-season,2005-03-11,2,201,home,FALSE,Oklahoma,83,Sooners,Oklahoma Sooners,Oklahoma
+250700201,2005,regular-season,2005-03-11,2,142,away,FALSE,Missouri,79,Tigers,Missouri Tigers,Missouri
+250700254,2005,regular-season,2005-03-11,2,254,home,FALSE,Utah,73,Utes,Utah Utes,Utah
+250700254,2005,regular-season,2005-03-11,2,2439,away,FALSE,UNLV,67,Rebels,UNLV Rebels,UNLV
+250700222,2005,regular-season,2005-03-11,2,222,home,FALSE,Villanova,76,Wildcats,Villanova Wildcats,Villanova
+250700222,2005,regular-season,2005-03-11,2,277,away,FALSE,West Virginia,78,Mountaineers,West Virginia Mountaineers,West Virginia
+250700275,2005,regular-season,2005-03-11,2,275,home,FALSE,Wisconsin,60,Badgers,Wisconsin Badgers,Wisconsin
+250700275,2005,regular-season,2005-03-11,2,194,away,FALSE,Ohio State,49,Buckeyes,Ohio State Buckeyes,Ohio State
+250700333,2005,regular-season,2005-03-11,2,333,home,FALSE,Alabama,69,Crimson Tide,Alabama Crimson Tide,Alabama
+250700333,2005,regular-season,2005-03-11,2,145,away,FALSE,Ole Miss,52,Rebels,Ole Miss Rebels,Ole Miss
+250700279,2005,regular-season,2005-03-11,2,279,home,FALSE,Pacific,63,Tigers,Pacific Tigers,Pacific
+250700279,2005,regular-season,2005-03-11,2,2463,away,FALSE,Cal State Northridge,61,Matadors,Cal State Northridge Matadors,CSU Northridge
+250702641,2005,regular-season,2005-03-11,2,2641,home,FALSE,Texas Tech,64,Red Raiders,Texas Tech Red Raiders,Texas Tech
+250702641,2005,regular-season,2005-03-11,2,66,away,FALSE,Iowa State,56,Cyclones,Iowa State Cyclones,Iowa State
+250700259,2005,regular-season,2005-03-11,2,259,home,FALSE,Virginia Tech,54,Hokies,Virginia Tech Hokies,Virginia Tech
+250700259,2005,regular-season,2005-03-11,2,59,away,FALSE,Georgia Tech,73,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310452306,2011-02-14,2,2306,home,FALSE,Kansas State,84,Wildcats,Kansas State Wildcats,Kansas St
-310452306,2011-02-14,2,2305,away,FALSE,Kansas,68,Jayhawks,Kansas Jayhawks,Kansas
-310450183,2011-02-14,2,183,home,FALSE,Syracuse,63,Orange,Syracuse Orange,Syracuse
-310450183,2011-02-14,2,277,away,FALSE,West Virginia,52,Mountaineers,West Virginia Mountaineers,West Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310452306,2011,regular-season,2011-02-14,2,2306,home,FALSE,Kansas State,84,Wildcats,Kansas State Wildcats,Kansas St
+310452306,2011,regular-season,2011-02-14,2,2305,away,FALSE,Kansas,68,Jayhawks,Kansas Jayhawks,Kansas
+310450183,2011,regular-season,2011-02-14,2,183,home,FALSE,Syracuse,63,Orange,Syracuse Orange,Syracuse
+310450183,2011,regular-season,2011-02-14,2,277,away,FALSE,West Virginia,52,Mountaineers,West Virginia Mountaineers,West Virginia

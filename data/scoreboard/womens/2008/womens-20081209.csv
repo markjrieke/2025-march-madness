@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-283442352,2008-12-09,2,2352,home,FALSE,Loyola Maryland,52,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-283442352,2008-12-09,2,120,away,FALSE,Maryland,83,Terrapins,Maryland Terrapins,Maryland
-283442306,2008-12-09,2,2306,home,FALSE,Kansas State,64,Wildcats,Kansas State Wildcats,Kansas St
-283442306,2008-12-09,2,156,away,FALSE,Creighton,55,Bluejays,Creighton Bluejays,Creighton
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283442352,2009,regular-season,2008-12-09,2,2352,home,FALSE,Loyola Maryland,52,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+283442352,2009,regular-season,2008-12-09,2,120,away,FALSE,Maryland,83,Terrapins,Maryland Terrapins,Maryland
+283442306,2009,regular-season,2008-12-09,2,2306,home,FALSE,Kansas State,64,Wildcats,Kansas State Wildcats,Kansas St
+283442306,2009,regular-season,2008-12-09,2,156,away,FALSE,Creighton,55,Bluejays,Creighton Bluejays,Creighton

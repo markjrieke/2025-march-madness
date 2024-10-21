@@ -1,37 +1,37 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253300150,2005-11-26,2,150,home,FALSE,Duke,110,Blue Devils,Duke Blue Devils,Duke
-253300150,2005-11-26,2,2032,away,FALSE,Arkansas State,56,Red Wolves,Arkansas State Red Wolves,Arkansas St
-253300120,2005-11-26,2,2633,home,FALSE,Tennessee,80,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-253300120,2005-11-26,2,120,away,FALSE,Maryland,75,Terrapins,Maryland Terrapins,Maryland
-253300357,2005-11-26,2,357,home,FALSE,Texas A&M-Corpus Christi,45,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-253300357,2005-11-26,2,99,away,FALSE,LSU,74,Tigers,LSU Tigers,LSU
-253300194,2005-11-26,2,194,home,FALSE,Ohio State,94,Buckeyes,Ohio State Buckeyes,Ohio State
-253300194,2005-11-26,2,2447,away,FALSE,Nicholls,35,Colonels,Nicholls Colonels,Nicholls
-253300239,2005-11-26,2,25,home,FALSE,California,58,Golden Bears,California Golden Bears,California
-253300239,2005-11-26,2,239,away,FALSE,Baylor,75,Bears,Baylor Bears,Baylor
-253300164,2005-11-26,2,164,home,FALSE,Rutgers,66,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-253300164,2005-11-26,2,152,away,FALSE,NC State,56,Wolfpack,NC State Wolfpack,NC State
-253302628,2005-11-26,2,2628,home,FALSE,TCU,54,Horned Frogs,TCU Horned Frogs,TCU
-253302628,2005-11-26,2,153,away,FALSE,North Carolina,77,Tar Heels,North Carolina Tar Heels,North Carolina
-253300127,2005-11-26,2,127,home,FALSE,Michigan State,60,Spartans,Michigan State Spartans,Michigan St
-253300127,2005-11-26,2,2250,away,FALSE,Gonzaga,45,Bulldogs,Gonzaga Bulldogs,Gonzaga
-253302351,2005-11-26,2,2351,home,FALSE,Loyola Marymount,58,Lions,Loyola Marymount Lions,LMU
-253302351,2005-11-26,2,61,away,FALSE,Georgia,89,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-253300135,2005-11-26,2,135,home,FALSE,Minnesota,69,Golden Gophers,Minnesota Golden Gophers,Minnesota
-253300135,2005-11-26,2,258,away,FALSE,Virginia,64,Cavaliers,Virginia Cavaliers,Virginia
-253300009,2005-11-26,2,9,home,FALSE,Arizona State,70,Sun Devils,Arizona State Sun Devils,Arizona St
-253300009,2005-11-26,2,344,away,FALSE,Mississippi State,48,Bulldogs,Mississippi State Bulldogs,Mississippi St
-253300245,2005-11-26,2,245,home,FALSE,Texas A&M,71,Aggies,Texas A&M Aggies,Texas A&M
-253300245,2005-11-26,2,305,away,FALSE,DePaul,84,Blue Demons,DePaul Blue Demons,DePaul
-253300045,2005-11-26,2,251,home,FALSE,Texas,59,Longhorns,Texas Longhorns,Texas
-253300045,2005-11-26,2,45,away,FALSE,George Washington,54,Revolutionaries,George Washington Revolutionaries,G Washington
-253302244,2005-11-26,2,2579,home,FALSE,South Carolina,48,Gamecocks,South Carolina Gamecocks,South Carolina
-253302244,2005-11-26,2,2509,away,FALSE,Purdue,56,Boilermakers,Purdue Boilermakers,Purdue
-253300238,2005-11-26,2,238,home,FALSE,Vanderbilt,72,Commodores,Vanderbilt Commodores,Vanderbilt
-253300238,2005-11-26,2,2142,away,FALSE,Colgate,33,Raiders,Colgate Raiders,Colgate
-253302539,2005-11-26,2,2539,home,FALSE,San Francisco,51,Dons,San Francisco Dons,San Francisco
-253302539,2005-11-26,2,201,away,FALSE,Oklahoma,53,Sooners,Oklahoma Sooners,Oklahoma
-253300012,2005-11-26,2,12,home,FALSE,Arizona,63,Wildcats,Arizona Wildcats,Arizona
-253300012,2005-11-26,2,254,away,FALSE,Utah,66,Utes,Utah Utes,Utah
-253300167,2005-11-26,2,167,home,FALSE,New Mexico,56,Lobos,New Mexico Lobos,New Mexico
-253300167,2005-11-26,2,197,away,FALSE,Oklahoma State,52,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253300150,2006,regular-season,2005-11-26,2,150,home,FALSE,Duke,110,Blue Devils,Duke Blue Devils,Duke
+253300150,2006,regular-season,2005-11-26,2,2032,away,FALSE,Arkansas State,56,Red Wolves,Arkansas State Red Wolves,Arkansas St
+253300120,2006,regular-season,2005-11-26,2,2633,home,FALSE,Tennessee,80,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+253300120,2006,regular-season,2005-11-26,2,120,away,FALSE,Maryland,75,Terrapins,Maryland Terrapins,Maryland
+253300357,2006,regular-season,2005-11-26,2,357,home,FALSE,Texas A&M-Corpus Christi,45,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+253300357,2006,regular-season,2005-11-26,2,99,away,FALSE,LSU,74,Tigers,LSU Tigers,LSU
+253300194,2006,regular-season,2005-11-26,2,194,home,FALSE,Ohio State,94,Buckeyes,Ohio State Buckeyes,Ohio State
+253300194,2006,regular-season,2005-11-26,2,2447,away,FALSE,Nicholls,35,Colonels,Nicholls Colonels,Nicholls
+253300239,2006,regular-season,2005-11-26,2,25,home,FALSE,California,58,Golden Bears,California Golden Bears,California
+253300239,2006,regular-season,2005-11-26,2,239,away,FALSE,Baylor,75,Bears,Baylor Bears,Baylor
+253300164,2006,regular-season,2005-11-26,2,164,home,FALSE,Rutgers,66,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+253300164,2006,regular-season,2005-11-26,2,152,away,FALSE,NC State,56,Wolfpack,NC State Wolfpack,NC State
+253302628,2006,regular-season,2005-11-26,2,2628,home,FALSE,TCU,54,Horned Frogs,TCU Horned Frogs,TCU
+253302628,2006,regular-season,2005-11-26,2,153,away,FALSE,North Carolina,77,Tar Heels,North Carolina Tar Heels,North Carolina
+253300127,2006,regular-season,2005-11-26,2,127,home,FALSE,Michigan State,60,Spartans,Michigan State Spartans,Michigan St
+253300127,2006,regular-season,2005-11-26,2,2250,away,FALSE,Gonzaga,45,Bulldogs,Gonzaga Bulldogs,Gonzaga
+253302351,2006,regular-season,2005-11-26,2,2351,home,FALSE,Loyola Marymount,58,Lions,Loyola Marymount Lions,LMU
+253302351,2006,regular-season,2005-11-26,2,61,away,FALSE,Georgia,89,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+253300135,2006,regular-season,2005-11-26,2,135,home,FALSE,Minnesota,69,Golden Gophers,Minnesota Golden Gophers,Minnesota
+253300135,2006,regular-season,2005-11-26,2,258,away,FALSE,Virginia,64,Cavaliers,Virginia Cavaliers,Virginia
+253300009,2006,regular-season,2005-11-26,2,9,home,FALSE,Arizona State,70,Sun Devils,Arizona State Sun Devils,Arizona St
+253300009,2006,regular-season,2005-11-26,2,344,away,FALSE,Mississippi State,48,Bulldogs,Mississippi State Bulldogs,Mississippi St
+253300245,2006,regular-season,2005-11-26,2,245,home,FALSE,Texas A&M,71,Aggies,Texas A&M Aggies,Texas A&M
+253300245,2006,regular-season,2005-11-26,2,305,away,FALSE,DePaul,84,Blue Demons,DePaul Blue Demons,DePaul
+253300045,2006,regular-season,2005-11-26,2,251,home,FALSE,Texas,59,Longhorns,Texas Longhorns,Texas
+253300045,2006,regular-season,2005-11-26,2,45,away,FALSE,George Washington,54,Revolutionaries,George Washington Revolutionaries,G Washington
+253302244,2006,regular-season,2005-11-26,2,2579,home,FALSE,South Carolina,48,Gamecocks,South Carolina Gamecocks,South Carolina
+253302244,2006,regular-season,2005-11-26,2,2509,away,FALSE,Purdue,56,Boilermakers,Purdue Boilermakers,Purdue
+253300238,2006,regular-season,2005-11-26,2,238,home,FALSE,Vanderbilt,72,Commodores,Vanderbilt Commodores,Vanderbilt
+253300238,2006,regular-season,2005-11-26,2,2142,away,FALSE,Colgate,33,Raiders,Colgate Raiders,Colgate
+253302539,2006,regular-season,2005-11-26,2,2539,home,FALSE,San Francisco,51,Dons,San Francisco Dons,San Francisco
+253302539,2006,regular-season,2005-11-26,2,201,away,FALSE,Oklahoma,53,Sooners,Oklahoma Sooners,Oklahoma
+253300012,2006,regular-season,2005-11-26,2,12,home,FALSE,Arizona,63,Wildcats,Arizona Wildcats,Arizona
+253300012,2006,regular-season,2005-11-26,2,254,away,FALSE,Utah,66,Utes,Utah Utes,Utah
+253300167,2006,regular-season,2005-11-26,2,167,home,FALSE,New Mexico,56,Lobos,New Mexico Lobos,New Mexico
+253300167,2006,regular-season,2005-11-26,2,197,away,FALSE,Oklahoma State,52,Cowgirls,Oklahoma State Cowgirls,Oklahoma St

@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313530153,2011-12-19,2,153,home,FALSE,North Carolina,99,Tar Heels,North Carolina Tar Heels,North Carolina
-313530153,2011-12-19,2,2447,away,FALSE,Nicholls,49,Colonels,Nicholls Colonels,Nicholls
-313530239,2011-12-19,2,239,home,FALSE,Baylor,95,Bears,Baylor Bears,Baylor
-313530239,2011-12-19,2,2491,away,FALSE,Paul Quinn,54,Tigers,Paul Quinn Tigers,Paul Quinn
-313530150,2011-12-19,2,150,home,FALSE,Duke,90,Blue Devils,Duke Blue Devils,Duke
-313530150,2011-12-19,2,2430,away,FALSE,UNC Greensboro,63,Spartans,UNC Greensboro Spartans,UNC Greensboro
-313530099,2011-12-19,2,99,home,FALSE,LSU,67,Tigers,LSU Tigers,LSU
-313530099,2011-12-19,2,269,away,FALSE,Marquette,59,Golden Eagles,Marquette Golden Eagles,Marquette
-313530057,2011-12-19,2,57,home,FALSE,Florida,82,Gators,Florida Gators,Florida
-313530057,2011-12-19,2,2400,away,FALSE,Mississippi Valley State,54,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
-313530084,2011-12-19,2,84,home,FALSE,Indiana,107,Hoosiers,Indiana Hoosiers,Indiana
-313530084,2011-12-19,2,47,away,FALSE,Howard,50,Bison,Howard Bison,Howard
-313530127,2011-12-19,2,127,home,FALSE,Michigan State,89,Spartans,Michigan State Spartans,Michigan St
-313530127,2011-12-19,2,140,away,FALSE,Kansas City,54,Roos,Kansas City Roos,Kansas City
-313532439,2011-12-19,2,2439,home,FALSE,UNLV,81,Rebels,UNLV Rebels,UNLV
-313532439,2011-12-19,2,2433,away,FALSE,UL Monroe,63,Warhawks,UL Monroe Warhawks,UL Monroe
-313530202,2011-12-19,2,202,home,FALSE,Tulsa,64,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-313530202,2011-12-19,2,156,away,FALSE,Creighton,83,Bluejays,Creighton Bluejays,Creighton
-313530356,2011-12-19,2,356,home,FALSE,Illinois,64,Fighting Illini,Illinois Fighting Illini,Illinois
-313530356,2011-12-19,2,172,away,FALSE,Cornell,60,Big Red,Cornell Big Red,Cornell
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313530153,2012,regular-season,2011-12-19,2,153,home,FALSE,North Carolina,99,Tar Heels,North Carolina Tar Heels,North Carolina
+313530153,2012,regular-season,2011-12-19,2,2447,away,FALSE,Nicholls,49,Colonels,Nicholls Colonels,Nicholls
+313530239,2012,regular-season,2011-12-19,2,239,home,FALSE,Baylor,95,Bears,Baylor Bears,Baylor
+313530239,2012,regular-season,2011-12-19,2,2491,away,FALSE,Paul Quinn,54,Tigers,Paul Quinn Tigers,Paul Quinn
+313530150,2012,regular-season,2011-12-19,2,150,home,FALSE,Duke,90,Blue Devils,Duke Blue Devils,Duke
+313530150,2012,regular-season,2011-12-19,2,2430,away,FALSE,UNC Greensboro,63,Spartans,UNC Greensboro Spartans,UNC Greensboro
+313530099,2012,regular-season,2011-12-19,2,99,home,FALSE,LSU,67,Tigers,LSU Tigers,LSU
+313530099,2012,regular-season,2011-12-19,2,269,away,FALSE,Marquette,59,Golden Eagles,Marquette Golden Eagles,Marquette
+313530057,2012,regular-season,2011-12-19,2,57,home,FALSE,Florida,82,Gators,Florida Gators,Florida
+313530057,2012,regular-season,2011-12-19,2,2400,away,FALSE,Mississippi Valley State,54,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
+313530084,2012,regular-season,2011-12-19,2,84,home,FALSE,Indiana,107,Hoosiers,Indiana Hoosiers,Indiana
+313530084,2012,regular-season,2011-12-19,2,47,away,FALSE,Howard,50,Bison,Howard Bison,Howard
+313530127,2012,regular-season,2011-12-19,2,127,home,FALSE,Michigan State,89,Spartans,Michigan State Spartans,Michigan St
+313530127,2012,regular-season,2011-12-19,2,140,away,FALSE,Kansas City,54,Roos,Kansas City Roos,Kansas City
+313532439,2012,regular-season,2011-12-19,2,2439,home,FALSE,UNLV,81,Rebels,UNLV Rebels,UNLV
+313532439,2012,regular-season,2011-12-19,2,2433,away,FALSE,UL Monroe,63,Warhawks,UL Monroe Warhawks,UL Monroe
+313530202,2012,regular-season,2011-12-19,2,202,home,FALSE,Tulsa,64,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+313530202,2012,regular-season,2011-12-19,2,156,away,FALSE,Creighton,83,Bluejays,Creighton Bluejays,Creighton
+313530356,2012,regular-season,2011-12-19,2,356,home,FALSE,Illinois,64,Fighting Illini,Illinois Fighting Illini,Illinois
+313530356,2012,regular-season,2011-12-19,2,172,away,FALSE,Cornell,60,Big Red,Cornell Big Red,Cornell

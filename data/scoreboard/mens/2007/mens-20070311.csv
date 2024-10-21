@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270700194,2007-03-11,2,194,home,FALSE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
-270700194,2007-03-11,2,275,away,FALSE,Wisconsin,49,Badgers,Wisconsin Badgers,Wisconsin
-270702305,2007-03-11,3,2305,home,FALSE,Kansas,88,Jayhawks,Kansas Jayhawks,Kansas
-270702305,2007-03-11,3,251,away,FALSE,Texas,84,Longhorns,Texas Longhorns,Texas
-270700057,2007-03-11,2,57,home,FALSE,Florida,77,Gators,Florida Gators,Florida
-270700057,2007-03-11,2,8,away,FALSE,Arkansas,56,Razorbacks,Arkansas Razorbacks,Arkansas
-270700153,2007-03-11,2,153,home,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
-270700153,2007-03-11,2,152,away,FALSE,NC State,80,Wolfpack,NC State Wolfpack,NC State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270700194,2007,regular-season,2007-03-11,2,194,home,FALSE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
+270700194,2007,regular-season,2007-03-11,2,275,away,FALSE,Wisconsin,49,Badgers,Wisconsin Badgers,Wisconsin
+270702305,2007,regular-season,2007-03-11,3,2305,home,FALSE,Kansas,88,Jayhawks,Kansas Jayhawks,Kansas
+270702305,2007,regular-season,2007-03-11,3,251,away,FALSE,Texas,84,Longhorns,Texas Longhorns,Texas
+270700057,2007,regular-season,2007-03-11,2,57,home,FALSE,Florida,77,Gators,Florida Gators,Florida
+270700057,2007,regular-season,2007-03-11,2,8,away,FALSE,Arkansas,56,Razorbacks,Arkansas Razorbacks,Arkansas
+270700153,2007,regular-season,2007-03-11,2,153,home,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
+270700153,2007,regular-season,2007-03-11,2,152,away,FALSE,NC State,80,Wolfpack,NC State Wolfpack,NC State

@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220370201,2002-02-06,2,201,home,FALSE,Oklahoma,70,Sooners,Oklahoma Sooners,Oklahoma
-220370201,2002-02-06,2,239,away,FALSE,Baylor,57,Bears,Baylor Bears,Baylor
-220370333,2002-02-06,2,333,home,FALSE,Alabama,79,Crimson Tide,Alabama Crimson Tide,Alabama
-220370333,2002-02-06,2,145,away,FALSE,Ole Miss,59,Rebels,Ole Miss Rebels,Ole Miss
-220372429,2002-02-06,2,2429,home,FALSE,Charlotte,66,49ers,Charlotte 49ers,Charlotte
-220372429,2002-02-06,2,2132,away,FALSE,Cincinnati,85,Bearcats,Cincinnati Bearcats,Cincinnati
-220372633,2002-02-06,3,2633,home,FALSE,Tennessee,76,Volunteers,Tennessee Volunteers,Tennessee
-220372633,2002-02-06,3,96,away,FALSE,Kentucky,74,Wildcats,Kentucky Wildcats,Kentucky
-220370152,2002-02-06,2,152,home,FALSE,NC State,85,Wolfpack,NC State Wolfpack,NC State
-220370152,2002-02-06,2,258,away,FALSE,Virginia,68,Cavaliers,Virginia Cavaliers,Virginia
-220370197,2002-02-06,2,197,home,FALSE,Oklahoma State,64,Cowboys,Oklahoma State Cowboys,Oklahoma St
-220370197,2002-02-06,2,2641,away,FALSE,Texas Tech,62,Red Raiders,Texas Tech Red Raiders,Texas Tech
-220370026,2002-02-06,2,26,home,FALSE,UCLA,67,Bruins,UCLA Bruins,UCLA
-220370026,2002-02-06,2,30,away,FALSE,USC,65,Trojans,USC Trojans,USC
-220370275,2002-02-06,3,275,home,FALSE,Wisconsin,94,Badgers,Wisconsin Badgers,Wisconsin
-220370275,2002-02-06,3,194,away,FALSE,Ohio State,92,Buckeyes,Ohio State Buckeyes,Ohio State
-220370344,2002-02-06,2,344,home,FALSE,Mississippi State,68,Bulldogs,Mississippi State Bulldogs,Mississippi St
-220370344,2002-02-06,2,61,away,FALSE,Georgia,86,Bulldogs,Georgia Bulldogs,Georgia
-220370269,2002-02-06,2,269,home,FALSE,Marquette,70,Golden Eagles,Marquette Golden Eagles,Marquette
-220370269,2002-02-06,2,151,away,FALSE,East Carolina,58,Pirates,East Carolina Pirates,East Carolina
-220370154,2002-02-06,2,154,home,FALSE,Wake Forest,90,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-220370154,2002-02-06,2,153,away,FALSE,North Carolina,66,Tar Heels,North Carolina Tar Heels,North Carolina
-220370142,2002-02-06,2,142,home,FALSE,Missouri,76,Tigers,Missouri Tigers,Missouri
-220370142,2002-02-06,2,66,away,FALSE,Iowa State,73,Cyclones,Iowa State Cyclones,Iowa State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220370201,2002,regular-season,2002-02-06,2,201,home,FALSE,Oklahoma,70,Sooners,Oklahoma Sooners,Oklahoma
+220370201,2002,regular-season,2002-02-06,2,239,away,FALSE,Baylor,57,Bears,Baylor Bears,Baylor
+220370333,2002,regular-season,2002-02-06,2,333,home,FALSE,Alabama,79,Crimson Tide,Alabama Crimson Tide,Alabama
+220370333,2002,regular-season,2002-02-06,2,145,away,FALSE,Ole Miss,59,Rebels,Ole Miss Rebels,Ole Miss
+220372429,2002,regular-season,2002-02-06,2,2429,home,FALSE,Charlotte,66,49ers,Charlotte 49ers,Charlotte
+220372429,2002,regular-season,2002-02-06,2,2132,away,FALSE,Cincinnati,85,Bearcats,Cincinnati Bearcats,Cincinnati
+220372633,2002,regular-season,2002-02-06,3,2633,home,FALSE,Tennessee,76,Volunteers,Tennessee Volunteers,Tennessee
+220372633,2002,regular-season,2002-02-06,3,96,away,FALSE,Kentucky,74,Wildcats,Kentucky Wildcats,Kentucky
+220370152,2002,regular-season,2002-02-06,2,152,home,FALSE,NC State,85,Wolfpack,NC State Wolfpack,NC State
+220370152,2002,regular-season,2002-02-06,2,258,away,FALSE,Virginia,68,Cavaliers,Virginia Cavaliers,Virginia
+220370197,2002,regular-season,2002-02-06,2,197,home,FALSE,Oklahoma State,64,Cowboys,Oklahoma State Cowboys,Oklahoma St
+220370197,2002,regular-season,2002-02-06,2,2641,away,FALSE,Texas Tech,62,Red Raiders,Texas Tech Red Raiders,Texas Tech
+220370026,2002,regular-season,2002-02-06,2,26,home,FALSE,UCLA,67,Bruins,UCLA Bruins,UCLA
+220370026,2002,regular-season,2002-02-06,2,30,away,FALSE,USC,65,Trojans,USC Trojans,USC
+220370275,2002,regular-season,2002-02-06,3,275,home,FALSE,Wisconsin,94,Badgers,Wisconsin Badgers,Wisconsin
+220370275,2002,regular-season,2002-02-06,3,194,away,FALSE,Ohio State,92,Buckeyes,Ohio State Buckeyes,Ohio State
+220370344,2002,regular-season,2002-02-06,2,344,home,FALSE,Mississippi State,68,Bulldogs,Mississippi State Bulldogs,Mississippi St
+220370344,2002,regular-season,2002-02-06,2,61,away,FALSE,Georgia,86,Bulldogs,Georgia Bulldogs,Georgia
+220370269,2002,regular-season,2002-02-06,2,269,home,FALSE,Marquette,70,Golden Eagles,Marquette Golden Eagles,Marquette
+220370269,2002,regular-season,2002-02-06,2,151,away,FALSE,East Carolina,58,Pirates,East Carolina Pirates,East Carolina
+220370154,2002,regular-season,2002-02-06,2,154,home,FALSE,Wake Forest,90,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+220370154,2002,regular-season,2002-02-06,2,153,away,FALSE,North Carolina,66,Tar Heels,North Carolina Tar Heels,North Carolina
+220370142,2002,regular-season,2002-02-06,2,142,home,FALSE,Missouri,76,Tigers,Missouri Tigers,Missouri
+220370142,2002,regular-season,2002-02-06,2,66,away,FALSE,Iowa State,73,Cyclones,Iowa State Cyclones,Iowa State

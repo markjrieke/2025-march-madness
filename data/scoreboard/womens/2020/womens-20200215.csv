@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401174131,2020-02-15,4,2250,home,FALSE,Gonzaga,53,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401174131,2020-02-15,4,2541,away,FALSE,Santa Clara,46,Broncos,Santa Clara Broncos,Santa Clara
-401180013,2020-02-15,4,198,home,FALSE,Oral Roberts,73,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-401180013,2020-02-15,4,233,away,FALSE,South Dakota,77,Coyotes,South Dakota Coyotes,South Dakota
-401180351,2020-02-15,4,2623,home,FALSE,Missouri State,88,Lady Bears,Missouri State Lady Bears,Missouri St
-401180351,2020-02-15,4,79,away,FALSE,Southern Illinois,57,Salukis,Southern Illinois Salukis,S Illinois
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401174131,2020,regular-season,2020-02-15,4,2250,home,FALSE,Gonzaga,53,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401174131,2020,regular-season,2020-02-15,4,2541,away,FALSE,Santa Clara,46,Broncos,Santa Clara Broncos,Santa Clara
+401180013,2020,regular-season,2020-02-15,4,198,home,FALSE,Oral Roberts,73,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+401180013,2020,regular-season,2020-02-15,4,233,away,FALSE,South Dakota,77,Coyotes,South Dakota Coyotes,South Dakota
+401180351,2020,regular-season,2020-02-15,4,2623,home,FALSE,Missouri State,88,Lady Bears,Missouri State Lady Bears,Missouri St
+401180351,2020,regular-season,2020-02-15,4,79,away,FALSE,Southern Illinois,57,Salukis,Southern Illinois Salukis,S Illinois

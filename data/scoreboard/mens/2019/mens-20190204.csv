@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401082756,2019-02-04,2,259,home,FALSE,Virginia Tech,64,Hokies,Virginia Tech Hokies,Virginia Tech
-401082756,2019-02-04,2,97,away,FALSE,Louisville,72,Cardinals,Louisville Cardinals,Louisville
-401083418,2019-02-04,2,201,home,FALSE,Oklahoma,74,Sooners,Oklahoma Sooners,Oklahoma
-401083418,2019-02-04,2,66,away,FALSE,Iowa State,75,Cyclones,Iowa State Cyclones,Iowa State
-401083468,2019-02-04,2,2641,home,FALSE,Texas Tech,81,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401083468,2019-02-04,2,277,away,FALSE,West Virginia,50,Mountaineers,West Virginia Mountaineers,West Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401082756,2019,regular-season,2019-02-04,2,259,home,FALSE,Virginia Tech,64,Hokies,Virginia Tech Hokies,Virginia Tech
+401082756,2019,regular-season,2019-02-04,2,97,away,FALSE,Louisville,72,Cardinals,Louisville Cardinals,Louisville
+401083418,2019,regular-season,2019-02-04,2,201,home,FALSE,Oklahoma,74,Sooners,Oklahoma Sooners,Oklahoma
+401083418,2019,regular-season,2019-02-04,2,66,away,FALSE,Iowa State,75,Cyclones,Iowa State Cyclones,Iowa State
+401083468,2019,regular-season,2019-02-04,2,2641,home,FALSE,Texas Tech,81,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401083468,2019,regular-season,2019-02-04,2,277,away,FALSE,West Virginia,50,Mountaineers,West Virginia Mountaineers,West Virginia

@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330812305,2013-03-22,2,2305,home,TRUE,Kansas,64,Jayhawks,Kansas Jayhawks,Kansas
-330812305,2013-03-22,2,98,away,TRUE,Western Kentucky,57,Hilltoppers,Western Kentucky Hilltoppers,Western KY
-330810084,2013-03-22,2,84,home,TRUE,Indiana,83,Hoosiers,Indiana Hoosiers,Indiana
-330810084,2013-03-22,2,256,away,TRUE,James Madison,62,Dukes,James Madison Dukes,James Madison
-330812390,2013-03-22,2,2390,home,TRUE,Miami,78,Hurricanes,Miami Hurricanes,Miami
-330812390,2013-03-22,2,279,away,TRUE,Pacific,49,Tigers,Pacific Tigers,Pacific
-330810150,2013-03-22,2,150,home,TRUE,Duke,73,Blue Devils,Duke Blue Devils,Duke
-330810150,2013-03-22,2,399,away,TRUE,UAlbany,61,Great Danes,UAlbany Great Danes,UAlbany
-330810194,2013-03-22,2,194,home,TRUE,Ohio State,95,Buckeyes,Ohio State Buckeyes,Ohio State
-330810194,2013-03-22,2,314,away,TRUE,Iona,70,Gaels,Iona Gaels,Iona
-330810046,2013-03-22,2,46,home,TRUE,Georgetown,68,Hoyas,Georgetown Hoyas,Georgetown
-330810046,2013-03-22,2,526,away,TRUE,Florida Gulf Coast,78,Eagles,Florida Gulf Coast Eagles,FGCU
-330812306,2013-03-22,2,2306,home,TRUE,Kansas State,61,Wildcats,Kansas State Wildcats,Kansas St
-330812306,2013-03-22,2,2325,away,TRUE,La Salle,63,Explorers,La Salle Explorers,La Salle
-330810057,2013-03-22,2,57,home,TRUE,Florida,79,Gators,Florida Gators,Florida
-330810057,2013-03-22,2,2466,away,TRUE,Northwestern State,47,Demons,Northwestern State Demons,N'Western St
-330810275,2013-03-22,2,275,home,TRUE,Wisconsin,46,Badgers,Wisconsin Badgers,Wisconsin
-330810275,2013-03-22,2,145,away,TRUE,Ole Miss,57,Rebels,Ole Miss Rebels,Ole Miss
-330810156,2013-03-22,2,156,home,TRUE,Creighton,67,Bluejays,Creighton Bluejays,Creighton
-330810156,2013-03-22,2,2132,away,TRUE,Cincinnati,63,Bearcats,Cincinnati Bearcats,Cincinnati
-330810087,2013-03-22,2,87,home,TRUE,Notre Dame,58,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-330810087,2013-03-22,2,66,away,TRUE,Iowa State,76,Cyclones,Iowa State Cyclones,Iowa State
-330810026,2013-03-22,2,26,home,TRUE,UCLA,63,Bruins,UCLA Bruins,UCLA
-330810026,2013-03-22,2,135,away,TRUE,Minnesota,83,Golden Gophers,Minnesota Golden Gophers,Minnesota
-330810152,2013-03-22,2,152,home,TRUE,NC State,72,Wolfpack,NC State Wolfpack,NC State
-330810152,2013-03-22,2,218,away,TRUE,Temple,76,Owls,Temple Owls,Temple
-330810356,2013-03-22,2,356,home,TRUE,Illinois,57,Fighting Illini,Illinois Fighting Illini,Illinois
-330810356,2013-03-22,2,38,away,TRUE,Colorado,49,Buffaloes,Colorado Buffaloes,Colorado
-330810153,2013-03-22,2,153,home,TRUE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
-330810153,2013-03-22,2,222,away,TRUE,Villanova,71,Wildcats,Villanova Wildcats,Villanova
-330810021,2013-03-22,2,21,home,TRUE,San Diego State,70,Aztecs,San Diego State Aztecs,San Diego St
-330810021,2013-03-22,2,201,away,TRUE,Oklahoma,55,Sooners,Oklahoma Sooners,Oklahoma
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330812305,2013,post-season,2013-03-22,2,2305,home,TRUE,Kansas,64,Jayhawks,Kansas Jayhawks,Kansas
+330812305,2013,post-season,2013-03-22,2,98,away,TRUE,Western Kentucky,57,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+330810084,2013,post-season,2013-03-22,2,84,home,TRUE,Indiana,83,Hoosiers,Indiana Hoosiers,Indiana
+330810084,2013,post-season,2013-03-22,2,256,away,TRUE,James Madison,62,Dukes,James Madison Dukes,James Madison
+330812390,2013,post-season,2013-03-22,2,2390,home,TRUE,Miami,78,Hurricanes,Miami Hurricanes,Miami
+330812390,2013,post-season,2013-03-22,2,279,away,TRUE,Pacific,49,Tigers,Pacific Tigers,Pacific
+330810150,2013,post-season,2013-03-22,2,150,home,TRUE,Duke,73,Blue Devils,Duke Blue Devils,Duke
+330810150,2013,post-season,2013-03-22,2,399,away,TRUE,UAlbany,61,Great Danes,UAlbany Great Danes,UAlbany
+330810194,2013,post-season,2013-03-22,2,194,home,TRUE,Ohio State,95,Buckeyes,Ohio State Buckeyes,Ohio State
+330810194,2013,post-season,2013-03-22,2,314,away,TRUE,Iona,70,Gaels,Iona Gaels,Iona
+330810046,2013,post-season,2013-03-22,2,46,home,TRUE,Georgetown,68,Hoyas,Georgetown Hoyas,Georgetown
+330810046,2013,post-season,2013-03-22,2,526,away,TRUE,Florida Gulf Coast,78,Eagles,Florida Gulf Coast Eagles,FGCU
+330812306,2013,post-season,2013-03-22,2,2306,home,TRUE,Kansas State,61,Wildcats,Kansas State Wildcats,Kansas St
+330812306,2013,post-season,2013-03-22,2,2325,away,TRUE,La Salle,63,Explorers,La Salle Explorers,La Salle
+330810057,2013,post-season,2013-03-22,2,57,home,TRUE,Florida,79,Gators,Florida Gators,Florida
+330810057,2013,post-season,2013-03-22,2,2466,away,TRUE,Northwestern State,47,Demons,Northwestern State Demons,N'Western St
+330810275,2013,post-season,2013-03-22,2,275,home,TRUE,Wisconsin,46,Badgers,Wisconsin Badgers,Wisconsin
+330810275,2013,post-season,2013-03-22,2,145,away,TRUE,Ole Miss,57,Rebels,Ole Miss Rebels,Ole Miss
+330810156,2013,post-season,2013-03-22,2,156,home,TRUE,Creighton,67,Bluejays,Creighton Bluejays,Creighton
+330810156,2013,post-season,2013-03-22,2,2132,away,TRUE,Cincinnati,63,Bearcats,Cincinnati Bearcats,Cincinnati
+330810087,2013,post-season,2013-03-22,2,87,home,TRUE,Notre Dame,58,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+330810087,2013,post-season,2013-03-22,2,66,away,TRUE,Iowa State,76,Cyclones,Iowa State Cyclones,Iowa State
+330810026,2013,post-season,2013-03-22,2,26,home,TRUE,UCLA,63,Bruins,UCLA Bruins,UCLA
+330810026,2013,post-season,2013-03-22,2,135,away,TRUE,Minnesota,83,Golden Gophers,Minnesota Golden Gophers,Minnesota
+330810152,2013,post-season,2013-03-22,2,152,home,TRUE,NC State,72,Wolfpack,NC State Wolfpack,NC State
+330810152,2013,post-season,2013-03-22,2,218,away,TRUE,Temple,76,Owls,Temple Owls,Temple
+330810356,2013,post-season,2013-03-22,2,356,home,TRUE,Illinois,57,Fighting Illini,Illinois Fighting Illini,Illinois
+330810356,2013,post-season,2013-03-22,2,38,away,TRUE,Colorado,49,Buffaloes,Colorado Buffaloes,Colorado
+330810153,2013,post-season,2013-03-22,2,153,home,TRUE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
+330810153,2013,post-season,2013-03-22,2,222,away,TRUE,Villanova,71,Wildcats,Villanova Wildcats,Villanova
+330810021,2013,post-season,2013-03-22,2,21,home,TRUE,San Diego State,70,Aztecs,San Diego State Aztecs,San Diego St
+330810021,2013,post-season,2013-03-22,2,201,away,TRUE,Oklahoma,55,Sooners,Oklahoma Sooners,Oklahoma

@@ -1,43 +1,43 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330732400,2013-03-14,2,2400,home,TRUE,Mississippi Valley State,63,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
-330732400,2013-03-14,2,2010,away,TRUE,Alabama A&M,60,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
-330732567,2013-03-14,0,2567,home,TRUE,SMU,0,Mustangs,SMU Mustangs,SMU
-330732567,2013-03-14,0,2116,away,TRUE,UCF,0,Knights,UCF Knights,UCF
-330732447,2013-03-14,2,2447,home,TRUE,Nicholls,70,Colonels,Nicholls Colonels,Nicholls
-330732447,2013-03-14,2,2377,away,TRUE,McNeese,86,Cowgirls,McNeese Cowgirls,McNeese
-330732244,2013-03-14,2,2244,home,TRUE,George Mason,46,Patriots,George Mason Patriots,George Mason
-330732244,2013-03-14,2,350,away,TRUE,UNC Wilmington,60,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
-330732117,2013-03-14,2,2117,home,TRUE,Central Michigan,81,Chippewas,Central Michigan Chippewas,C Michigan
-330732117,2013-03-14,2,189,away,TRUE,Bowling Green,48,Falcons,Bowling Green Falcons,Bowling Green
-330730047,2013-03-14,2,47,home,TRUE,Howard,62,Bison,Howard Bison,Howard
-330730047,2013-03-14,2,2415,away,TRUE,Morgan State,60,Lady Bears,Morgan State Lady Bears,Morgan St
-330732569,2013-03-14,2,2569,home,TRUE,South Carolina State,53,Lady Bulldogs,South Carolina State Lady Bulldogs,SC State
-330732569,2013-03-14,2,2154,away,TRUE,Coppin State,55,Eagles,Coppin State Eagles,Coppin St
-330732320,2013-03-14,2,2320,home,TRUE,Lamar,69,Cardinals,Lamar Cardinals,Lamar
-330732320,2013-03-14,2,2617,away,TRUE,Stephen F. Austin,65,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
-330732006,2013-03-14,2,2006,home,TRUE,Akron,83,Zips,Akron Zips,Akron
-330732006,2013-03-14,2,2084,away,TRUE,Buffalo,79,Bulls,Buffalo Bulls,Buffalo
-330730005,2013-03-14,0,5,home,TRUE,UAB,0,Blazers,UAB Blazers,UAB
-330730005,2013-03-14,0,2638,away,TRUE,UTEP,0,Miners,UTEP Miners,UTEP
-330730021,2013-03-14,2,21,home,TRUE,San Diego State,67,Aztecs,San Diego State Aztecs,San Diego St
-330730021,2013-03-14,2,2440,away,TRUE,Nevada,39,Wolf Pack,Nevada Wolf Pack,Nevada
-330732623,2013-03-14,2,2623,home,TRUE,Missouri State,66,Lady Bears,Missouri State Lady Bears,Missouri St
-330732623,2013-03-14,2,2181,away,TRUE,Drake,81,Bulldogs,Drake Bulldogs,Drake
-330732439,2013-03-14,2,2439,home,TRUE,UNLV,59,Lady Rebels,UNLV Lady Rebels,UNLV
-330732439,2013-03-14,2,167,away,TRUE,New Mexico,72,Lobos,New Mexico Lobos,New Mexico
-330732655,2013-03-14,0,2655,home,TRUE,Tulane,0,Green Wave,Tulane Green Wave,Tulane
-330732655,2013-03-14,0,202,away,TRUE,Tulsa,0,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-330732504,2013-03-14,2,2504,home,TRUE,Prairie View A&M,66,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
-330732504,2013-03-14,2,2296,away,TRUE,Jackson State,60,Lady Tigers,Jackson State Lady Tigers,Jackson St
-330730008,2013-03-14,2,8,home,FALSE,Arkansas,63,Razorbacks,Arkansas Razorbacks,Arkansas
-330730008,2013-03-14,2,2565,away,FALSE,SIU Edwardsville,41,Cougars,SIU Edwardsville Cougars,SIUE
-330730339,2013-03-14,3,339,home,TRUE,Evansville,74,Purple Aces,Evansville Purple Aces,Evansville
-330730339,2013-03-14,3,79,away,TRUE,Southern Illinois,83,Salukis,Southern Illinois Salukis,S Illinois
-330732130,2013-03-14,2,2130,home,FALSE,Chicago State,66,Cougars,Chicago State Cougars,Chicago St
-330732130,2013-03-14,2,2277,away,FALSE,Houston Christian,77,Huskies,Houston Christian Huskies,Hou Christian
-330730151,2013-03-14,0,151,home,TRUE,East Carolina,0,Pirates,East Carolina Pirates,East Carolina
-330730151,2013-03-14,0,2572,away,TRUE,Southern Miss,0,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-330730278,2013-03-14,2,278,home,TRUE,Fresno State,72,Bulldogs,Fresno State Bulldogs,Fresno St
-330730278,2013-03-14,2,68,away,TRUE,Boise State,55,Broncos,Boise State Broncos,Boise St
-330732751,2013-03-14,2,2751,home,TRUE,Wyoming,60,Cowgirls,Wyoming Cowgirls,Wyoming
-330732751,2013-03-14,2,36,away,TRUE,Colorado State,58,Rams,Colorado State Rams,Colorado St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330732400,2013,regular-season,2013-03-14,2,2400,home,TRUE,Mississippi Valley State,63,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
+330732400,2013,regular-season,2013-03-14,2,2010,away,TRUE,Alabama A&M,60,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+330732567,2013,regular-season,2013-03-14,0,2567,home,TRUE,SMU,0,Mustangs,SMU Mustangs,SMU
+330732567,2013,regular-season,2013-03-14,0,2116,away,TRUE,UCF,0,Knights,UCF Knights,UCF
+330732447,2013,regular-season,2013-03-14,2,2447,home,TRUE,Nicholls,70,Colonels,Nicholls Colonels,Nicholls
+330732447,2013,regular-season,2013-03-14,2,2377,away,TRUE,McNeese,86,Cowgirls,McNeese Cowgirls,McNeese
+330732244,2013,regular-season,2013-03-14,2,2244,home,TRUE,George Mason,46,Patriots,George Mason Patriots,George Mason
+330732244,2013,regular-season,2013-03-14,2,350,away,TRUE,UNC Wilmington,60,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+330732117,2013,regular-season,2013-03-14,2,2117,home,TRUE,Central Michigan,81,Chippewas,Central Michigan Chippewas,C Michigan
+330732117,2013,regular-season,2013-03-14,2,189,away,TRUE,Bowling Green,48,Falcons,Bowling Green Falcons,Bowling Green
+330730047,2013,regular-season,2013-03-14,2,47,home,TRUE,Howard,62,Bison,Howard Bison,Howard
+330730047,2013,regular-season,2013-03-14,2,2415,away,TRUE,Morgan State,60,Lady Bears,Morgan State Lady Bears,Morgan St
+330732569,2013,regular-season,2013-03-14,2,2569,home,TRUE,South Carolina State,53,Lady Bulldogs,South Carolina State Lady Bulldogs,SC State
+330732569,2013,regular-season,2013-03-14,2,2154,away,TRUE,Coppin State,55,Eagles,Coppin State Eagles,Coppin St
+330732320,2013,regular-season,2013-03-14,2,2320,home,TRUE,Lamar,69,Cardinals,Lamar Cardinals,Lamar
+330732320,2013,regular-season,2013-03-14,2,2617,away,TRUE,Stephen F. Austin,65,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
+330732006,2013,regular-season,2013-03-14,2,2006,home,TRUE,Akron,83,Zips,Akron Zips,Akron
+330732006,2013,regular-season,2013-03-14,2,2084,away,TRUE,Buffalo,79,Bulls,Buffalo Bulls,Buffalo
+330730005,2013,regular-season,2013-03-14,0,5,home,TRUE,UAB,0,Blazers,UAB Blazers,UAB
+330730005,2013,regular-season,2013-03-14,0,2638,away,TRUE,UTEP,0,Miners,UTEP Miners,UTEP
+330730021,2013,regular-season,2013-03-14,2,21,home,TRUE,San Diego State,67,Aztecs,San Diego State Aztecs,San Diego St
+330730021,2013,regular-season,2013-03-14,2,2440,away,TRUE,Nevada,39,Wolf Pack,Nevada Wolf Pack,Nevada
+330732623,2013,regular-season,2013-03-14,2,2623,home,TRUE,Missouri State,66,Lady Bears,Missouri State Lady Bears,Missouri St
+330732623,2013,regular-season,2013-03-14,2,2181,away,TRUE,Drake,81,Bulldogs,Drake Bulldogs,Drake
+330732439,2013,regular-season,2013-03-14,2,2439,home,TRUE,UNLV,59,Lady Rebels,UNLV Lady Rebels,UNLV
+330732439,2013,regular-season,2013-03-14,2,167,away,TRUE,New Mexico,72,Lobos,New Mexico Lobos,New Mexico
+330732655,2013,regular-season,2013-03-14,0,2655,home,TRUE,Tulane,0,Green Wave,Tulane Green Wave,Tulane
+330732655,2013,regular-season,2013-03-14,0,202,away,TRUE,Tulsa,0,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+330732504,2013,regular-season,2013-03-14,2,2504,home,TRUE,Prairie View A&M,66,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
+330732504,2013,regular-season,2013-03-14,2,2296,away,TRUE,Jackson State,60,Lady Tigers,Jackson State Lady Tigers,Jackson St
+330730008,2013,regular-season,2013-03-14,2,8,home,FALSE,Arkansas,63,Razorbacks,Arkansas Razorbacks,Arkansas
+330730008,2013,regular-season,2013-03-14,2,2565,away,FALSE,SIU Edwardsville,41,Cougars,SIU Edwardsville Cougars,SIUE
+330730339,2013,regular-season,2013-03-14,3,339,home,TRUE,Evansville,74,Purple Aces,Evansville Purple Aces,Evansville
+330730339,2013,regular-season,2013-03-14,3,79,away,TRUE,Southern Illinois,83,Salukis,Southern Illinois Salukis,S Illinois
+330732130,2013,regular-season,2013-03-14,2,2130,home,FALSE,Chicago State,66,Cougars,Chicago State Cougars,Chicago St
+330732130,2013,regular-season,2013-03-14,2,2277,away,FALSE,Houston Christian,77,Huskies,Houston Christian Huskies,Hou Christian
+330730151,2013,regular-season,2013-03-14,0,151,home,TRUE,East Carolina,0,Pirates,East Carolina Pirates,East Carolina
+330730151,2013,regular-season,2013-03-14,0,2572,away,TRUE,Southern Miss,0,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+330730278,2013,regular-season,2013-03-14,2,278,home,TRUE,Fresno State,72,Bulldogs,Fresno State Bulldogs,Fresno St
+330730278,2013,regular-season,2013-03-14,2,68,away,TRUE,Boise State,55,Broncos,Boise State Broncos,Boise St
+330732751,2013,regular-season,2013-03-14,2,2751,home,TRUE,Wyoming,60,Cowgirls,Wyoming Cowgirls,Wyoming
+330732751,2013,regular-season,2013-03-14,2,36,away,TRUE,Colorado State,58,Rams,Colorado State Rams,Colorado St

@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400840215,2016-02-20,2,222,home,FALSE,Villanova,77,Wildcats,Villanova Wildcats,Villanova
-400840215,2016-02-20,2,2086,away,FALSE,Butler,67,Bulldogs,Butler Bulldogs,Butler
-400831546,2016-02-20,2,2306,home,FALSE,Kansas State,63,Wildcats,Kansas State Wildcats,Kansas St
-400831546,2016-02-20,2,2305,away,FALSE,Kansas,72,Jayhawks,Kansas Jayhawks,Kansas
-400830926,2016-02-20,2,277,home,FALSE,West Virginia,62,Mountaineers,West Virginia Mountaineers,West Virginia
-400830926,2016-02-20,2,201,away,FALSE,Oklahoma,76,Sooners,Oklahoma Sooners,Oklahoma
-400839810,2016-02-20,2,153,home,FALSE,North Carolina,96,Tar Heels,North Carolina Tar Heels,North Carolina
-400839810,2016-02-20,2,2390,away,FALSE,Miami,71,Hurricanes,Miami Hurricanes,Miami
-400840270,2016-02-20,2,46,home,FALSE,Georgetown,70,Hoyas,Georgetown Hoyas,Georgetown
-400840270,2016-02-20,2,2752,away,FALSE,Xavier,88,Musketeers,Xavier Musketeers,Xavier
-400831547,2016-02-20,2,66,home,FALSE,Iowa State,92,Cyclones,Iowa State Cyclones,Iowa State
-400831547,2016-02-20,2,2628,away,FALSE,TCU,83,Horned Frogs,TCU Horned Frogs,TCU
-400830463,2016-02-20,3,245,home,FALSE,Texas A&M,79,Aggies,Texas A&M Aggies,Texas A&M
-400830463,2016-02-20,3,96,away,FALSE,Kentucky,77,Wildcats,Kentucky Wildcats,Kentucky
-400841001,2016-02-20,2,2168,home,FALSE,Dayton,72,Flyers,Dayton Flyers,Dayton
-400841001,2016-02-20,2,179,away,FALSE,St. Bonaventure,79,Bonnies,St. Bonaventure Bonnies,St Bonaventure
-400841640,2016-02-20,2,2483,home,FALSE,Oregon,91,Ducks,Oregon Ducks,Oregon
-400841640,2016-02-20,2,204,away,FALSE,Oregon State,81,Beavers,Oregon State Beavers,Oregon St
-400839297,2016-02-20,2,84,home,FALSE,Indiana,77,Hoosiers,Indiana Hoosiers,Indiana
-400839297,2016-02-20,2,2509,away,FALSE,Purdue,73,Boilermakers,Purdue Boilermakers,Purdue
-400839774,2016-02-20,2,97,home,FALSE,Louisville,71,Cardinals,Louisville Cardinals,Louisville
-400839774,2016-02-20,2,150,away,FALSE,Duke,64,Blue Devils,Duke Blue Devils,Duke
-400839247,2016-02-20,2,59,home,FALSE,Georgia Tech,63,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-400839247,2016-02-20,2,87,away,FALSE,Notre Dame,62,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400831545,2016-02-20,2,251,home,FALSE,Texas,64,Longhorns,Texas Longhorns,Texas
-400831545,2016-02-20,2,239,away,FALSE,Baylor,78,Bears,Baylor Bears,Baylor
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400840215,2016,regular-season,2016-02-20,2,222,home,FALSE,Villanova,77,Wildcats,Villanova Wildcats,Villanova
+400840215,2016,regular-season,2016-02-20,2,2086,away,FALSE,Butler,67,Bulldogs,Butler Bulldogs,Butler
+400831546,2016,regular-season,2016-02-20,2,2306,home,FALSE,Kansas State,63,Wildcats,Kansas State Wildcats,Kansas St
+400831546,2016,regular-season,2016-02-20,2,2305,away,FALSE,Kansas,72,Jayhawks,Kansas Jayhawks,Kansas
+400830926,2016,regular-season,2016-02-20,2,277,home,FALSE,West Virginia,62,Mountaineers,West Virginia Mountaineers,West Virginia
+400830926,2016,regular-season,2016-02-20,2,201,away,FALSE,Oklahoma,76,Sooners,Oklahoma Sooners,Oklahoma
+400839810,2016,regular-season,2016-02-20,2,153,home,FALSE,North Carolina,96,Tar Heels,North Carolina Tar Heels,North Carolina
+400839810,2016,regular-season,2016-02-20,2,2390,away,FALSE,Miami,71,Hurricanes,Miami Hurricanes,Miami
+400840270,2016,regular-season,2016-02-20,2,46,home,FALSE,Georgetown,70,Hoyas,Georgetown Hoyas,Georgetown
+400840270,2016,regular-season,2016-02-20,2,2752,away,FALSE,Xavier,88,Musketeers,Xavier Musketeers,Xavier
+400831547,2016,regular-season,2016-02-20,2,66,home,FALSE,Iowa State,92,Cyclones,Iowa State Cyclones,Iowa State
+400831547,2016,regular-season,2016-02-20,2,2628,away,FALSE,TCU,83,Horned Frogs,TCU Horned Frogs,TCU
+400830463,2016,regular-season,2016-02-20,3,245,home,FALSE,Texas A&M,79,Aggies,Texas A&M Aggies,Texas A&M
+400830463,2016,regular-season,2016-02-20,3,96,away,FALSE,Kentucky,77,Wildcats,Kentucky Wildcats,Kentucky
+400841001,2016,regular-season,2016-02-20,2,2168,home,FALSE,Dayton,72,Flyers,Dayton Flyers,Dayton
+400841001,2016,regular-season,2016-02-20,2,179,away,FALSE,St. Bonaventure,79,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+400841640,2016,regular-season,2016-02-20,2,2483,home,FALSE,Oregon,91,Ducks,Oregon Ducks,Oregon
+400841640,2016,regular-season,2016-02-20,2,204,away,FALSE,Oregon State,81,Beavers,Oregon State Beavers,Oregon St
+400839297,2016,regular-season,2016-02-20,2,84,home,FALSE,Indiana,77,Hoosiers,Indiana Hoosiers,Indiana
+400839297,2016,regular-season,2016-02-20,2,2509,away,FALSE,Purdue,73,Boilermakers,Purdue Boilermakers,Purdue
+400839774,2016,regular-season,2016-02-20,2,97,home,FALSE,Louisville,71,Cardinals,Louisville Cardinals,Louisville
+400839774,2016,regular-season,2016-02-20,2,150,away,FALSE,Duke,64,Blue Devils,Duke Blue Devils,Duke
+400839247,2016,regular-season,2016-02-20,2,59,home,FALSE,Georgia Tech,63,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+400839247,2016,regular-season,2016-02-20,2,87,away,FALSE,Notre Dame,62,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400831545,2016,regular-season,2016-02-20,2,251,home,FALSE,Texas,64,Longhorns,Texas Longhorns,Texas
+400831545,2016,regular-season,2016-02-20,2,239,away,FALSE,Baylor,78,Bears,Baylor Bears,Baylor

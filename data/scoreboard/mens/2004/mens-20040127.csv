@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240270059,2004-01-27,2,59,home,FALSE,Georgia Tech,76,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-240270059,2004-01-27,2,228,away,FALSE,Clemson,69,Tigers,Clemson Tigers,Clemson
-240270084,2004-01-27,2,84,home,FALSE,Indiana,63,Hoosiers,Indiana Hoosiers,Indiana
-240270084,2004-01-27,2,2509,away,FALSE,Purdue,58,Boilermakers,Purdue Boilermakers,Purdue
-240270333,2004-01-27,2,333,home,FALSE,Alabama,78,Crimson Tide,Alabama Crimson Tide,Alabama
-240270333,2004-01-27,2,57,away,FALSE,Florida,88,Gators,Florida Gators,Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240270059,2004,regular-season,2004-01-27,2,59,home,FALSE,Georgia Tech,76,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+240270059,2004,regular-season,2004-01-27,2,228,away,FALSE,Clemson,69,Tigers,Clemson Tigers,Clemson
+240270084,2004,regular-season,2004-01-27,2,84,home,FALSE,Indiana,63,Hoosiers,Indiana Hoosiers,Indiana
+240270084,2004,regular-season,2004-01-27,2,2509,away,FALSE,Purdue,58,Boilermakers,Purdue Boilermakers,Purdue
+240270333,2004,regular-season,2004-01-27,2,333,home,FALSE,Alabama,78,Crimson Tide,Alabama Crimson Tide,Alabama
+240270333,2004,regular-season,2004-01-27,2,57,away,FALSE,Florida,88,Gators,Florida Gators,Florida

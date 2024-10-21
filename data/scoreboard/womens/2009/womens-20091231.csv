@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293650087,2009-12-31,2,87,home,FALSE,Notre Dame,74,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-293650087,2009-12-31,2,238,away,FALSE,Vanderbilt,69,Commodores,Vanderbilt Commodores,Vanderbilt
-293650077,2009-12-31,2,77,home,FALSE,Northwestern,60,Wildcats,Northwestern Wildcats,Northwestern
-293650077,2009-12-31,2,194,away,FALSE,Ohio State,86,Buckeyes,Ohio State Buckeyes,Ohio State
-293650153,2009-12-31,2,153,home,FALSE,North Carolina,104,Tar Heels,North Carolina Tar Heels,North Carolina
-293650153,2009-12-31,2,2193,away,FALSE,East Tennessee State,65,Bucs,East Tennessee State Bucs,ETSU
-293650218,2009-12-31,2,218,home,FALSE,Temple,62,Owls,Temple Owls,Temple
-293650218,2009-12-31,2,150,away,FALSE,Duke,70,Blue Devils,Duke Blue Devils,Duke
-293650127,2009-12-31,2,127,home,FALSE,Michigan State,86,Spartans,Michigan State Spartans,Michigan St
-293650127,2009-12-31,2,130,away,FALSE,Michigan,71,Wolverines,Michigan Wolverines,Michigan
-293650221,2009-12-31,2,221,home,FALSE,Pittsburgh,57,Panthers,Pittsburgh Panthers,Pitt
-293650221,2009-12-31,2,116,away,FALSE,Mount St. Mary's,47,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293650087,2010,regular-season,2009-12-31,2,87,home,FALSE,Notre Dame,74,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+293650087,2010,regular-season,2009-12-31,2,238,away,FALSE,Vanderbilt,69,Commodores,Vanderbilt Commodores,Vanderbilt
+293650077,2010,regular-season,2009-12-31,2,77,home,FALSE,Northwestern,60,Wildcats,Northwestern Wildcats,Northwestern
+293650077,2010,regular-season,2009-12-31,2,194,away,FALSE,Ohio State,86,Buckeyes,Ohio State Buckeyes,Ohio State
+293650153,2010,regular-season,2009-12-31,2,153,home,FALSE,North Carolina,104,Tar Heels,North Carolina Tar Heels,North Carolina
+293650153,2010,regular-season,2009-12-31,2,2193,away,FALSE,East Tennessee State,65,Bucs,East Tennessee State Bucs,ETSU
+293650218,2010,regular-season,2009-12-31,2,218,home,FALSE,Temple,62,Owls,Temple Owls,Temple
+293650218,2010,regular-season,2009-12-31,2,150,away,FALSE,Duke,70,Blue Devils,Duke Blue Devils,Duke
+293650127,2010,regular-season,2009-12-31,2,127,home,FALSE,Michigan State,86,Spartans,Michigan State Spartans,Michigan St
+293650127,2010,regular-season,2009-12-31,2,130,away,FALSE,Michigan,71,Wolverines,Michigan Wolverines,Michigan
+293650221,2010,regular-season,2009-12-31,2,221,home,FALSE,Pittsburgh,57,Panthers,Pittsburgh Panthers,Pitt
+293650221,2010,regular-season,2009-12-31,2,116,away,FALSE,Mount St. Mary's,47,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys

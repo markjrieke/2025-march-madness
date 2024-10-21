@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323570183,2012-12-22,2,218,home,TRUE,Temple,83,Owls,Temple Owls,Temple
-323570183,2012-12-22,2,183,away,TRUE,Syracuse,79,Orange,Syracuse Orange,Syracuse
-323570098,2012-12-22,2,98,home,TRUE,Western Kentucky,55,Hilltoppers,Western Kentucky Hilltoppers,Western KY
-323570098,2012-12-22,2,97,away,TRUE,Louisville,78,Cardinals,Louisville Cardinals,Louisville
-323570194,2012-12-22,2,194,home,FALSE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
-323570194,2012-12-22,2,2305,away,FALSE,Kansas,74,Jayhawks,Kansas Jayhawks,Kansas
-323572306,2012-12-22,2,2306,home,TRUE,Kansas State,67,Wildcats,Kansas State Wildcats,Kansas St
-323572306,2012-12-22,2,57,away,TRUE,Florida,61,Gators,Florida Gators,Florida
-323570142,2012-12-22,2,356,home,TRUE,Illinois,73,Fighting Illini,Illinois Fighting Illini,Illinois
-323570142,2012-12-22,2,142,away,TRUE,Missouri,82,Tigers,Missouri Tigers,Missouri
-323572132,2012-12-22,2,2132,home,FALSE,Cincinnati,68,Bearcats,Cincinnati Bearcats,Cincinnati
-323572132,2012-12-22,2,2750,away,FALSE,Wright State,58,Raiders,Wright State Raiders,Wright St
-323570135,2012-12-22,2,135,home,FALSE,Minnesota,75,Golden Gophers,Minnesota Golden Gophers,Minnesota
-323570135,2012-12-22,2,322,away,FALSE,Lafayette,50,Leopards,Lafayette Leopards,Lafayette
-323570046,2012-12-22,2,46,home,FALSE,Georgetown,65,Hoyas,Georgetown Hoyas,Georgetown
-323570046,2012-12-22,2,44,away,FALSE,American University,48,Eagles,American University Eagles,American
-323570167,2012-12-22,2,167,home,FALSE,New Mexico,65,Lobos,New Mexico Lobos,New Mexico
-323570167,2012-12-22,2,2571,away,FALSE,South Dakota State,70,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-323572086,2012-12-22,2,2086,home,FALSE,Butler,75,Bulldogs,Butler Bulldogs,Butler
-323572086,2012-12-22,2,339,away,FALSE,Evansville,67,Purple Aces,Evansville Purple Aces,Evansville
-323570127,2012-12-22,2,127,home,FALSE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
-323570127,2012-12-22,2,251,away,FALSE,Texas,56,Longhorns,Texas Longhorns,Texas
-323572439,2012-12-22,2,2439,home,FALSE,UNLV,89,Rebels,UNLV Rebels,UNLV
-323572439,2012-12-22,2,2099,away,FALSE,Canisius,74,Golden Griffins,Canisius Golden Griffins,Canisius
-323570153,2012-12-22,2,153,home,FALSE,North Carolina,97,Tar Heels,North Carolina Tar Heels,North Carolina
-323570153,2012-12-22,2,2377,away,FALSE,McNeese,63,Cowboys,McNeese Cowboys,McNeese
-323570197,2012-12-22,2,197,home,FALSE,Oklahoma State,78,Cowboys,Oklahoma State Cowboys,Oklahoma St
-323570197,2012-12-22,2,2635,away,FALSE,Tennessee Tech,42,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
-323570152,2012-12-22,2,152,home,FALSE,NC State,92,Wolfpack,NC State Wolfpack,NC State
-323570152,2012-12-22,2,179,away,FALSE,St. Bonaventure,73,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323570183,2013,regular-season,2012-12-22,2,218,home,TRUE,Temple,83,Owls,Temple Owls,Temple
+323570183,2013,regular-season,2012-12-22,2,183,away,TRUE,Syracuse,79,Orange,Syracuse Orange,Syracuse
+323570098,2013,regular-season,2012-12-22,2,98,home,TRUE,Western Kentucky,55,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+323570098,2013,regular-season,2012-12-22,2,97,away,TRUE,Louisville,78,Cardinals,Louisville Cardinals,Louisville
+323570194,2013,regular-season,2012-12-22,2,194,home,FALSE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
+323570194,2013,regular-season,2012-12-22,2,2305,away,FALSE,Kansas,74,Jayhawks,Kansas Jayhawks,Kansas
+323572306,2013,regular-season,2012-12-22,2,2306,home,TRUE,Kansas State,67,Wildcats,Kansas State Wildcats,Kansas St
+323572306,2013,regular-season,2012-12-22,2,57,away,TRUE,Florida,61,Gators,Florida Gators,Florida
+323570142,2013,regular-season,2012-12-22,2,356,home,TRUE,Illinois,73,Fighting Illini,Illinois Fighting Illini,Illinois
+323570142,2013,regular-season,2012-12-22,2,142,away,TRUE,Missouri,82,Tigers,Missouri Tigers,Missouri
+323572132,2013,regular-season,2012-12-22,2,2132,home,FALSE,Cincinnati,68,Bearcats,Cincinnati Bearcats,Cincinnati
+323572132,2013,regular-season,2012-12-22,2,2750,away,FALSE,Wright State,58,Raiders,Wright State Raiders,Wright St
+323570135,2013,regular-season,2012-12-22,2,135,home,FALSE,Minnesota,75,Golden Gophers,Minnesota Golden Gophers,Minnesota
+323570135,2013,regular-season,2012-12-22,2,322,away,FALSE,Lafayette,50,Leopards,Lafayette Leopards,Lafayette
+323570046,2013,regular-season,2012-12-22,2,46,home,FALSE,Georgetown,65,Hoyas,Georgetown Hoyas,Georgetown
+323570046,2013,regular-season,2012-12-22,2,44,away,FALSE,American University,48,Eagles,American University Eagles,American
+323570167,2013,regular-season,2012-12-22,2,167,home,FALSE,New Mexico,65,Lobos,New Mexico Lobos,New Mexico
+323570167,2013,regular-season,2012-12-22,2,2571,away,FALSE,South Dakota State,70,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+323572086,2013,regular-season,2012-12-22,2,2086,home,FALSE,Butler,75,Bulldogs,Butler Bulldogs,Butler
+323572086,2013,regular-season,2012-12-22,2,339,away,FALSE,Evansville,67,Purple Aces,Evansville Purple Aces,Evansville
+323570127,2013,regular-season,2012-12-22,2,127,home,FALSE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
+323570127,2013,regular-season,2012-12-22,2,251,away,FALSE,Texas,56,Longhorns,Texas Longhorns,Texas
+323572439,2013,regular-season,2012-12-22,2,2439,home,FALSE,UNLV,89,Rebels,UNLV Rebels,UNLV
+323572439,2013,regular-season,2012-12-22,2,2099,away,FALSE,Canisius,74,Golden Griffins,Canisius Golden Griffins,Canisius
+323570153,2013,regular-season,2012-12-22,2,153,home,FALSE,North Carolina,97,Tar Heels,North Carolina Tar Heels,North Carolina
+323570153,2013,regular-season,2012-12-22,2,2377,away,FALSE,McNeese,63,Cowboys,McNeese Cowboys,McNeese
+323570197,2013,regular-season,2012-12-22,2,197,home,FALSE,Oklahoma State,78,Cowboys,Oklahoma State Cowboys,Oklahoma St
+323570197,2013,regular-season,2012-12-22,2,2635,away,FALSE,Tennessee Tech,42,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
+323570152,2013,regular-season,2012-12-22,2,152,home,FALSE,NC State,92,Wolfpack,NC State Wolfpack,NC State
+323570152,2013,regular-season,2012-12-22,2,179,away,FALSE,St. Bonaventure,73,Bonnies,St. Bonaventure Bonnies,St Bonaventure

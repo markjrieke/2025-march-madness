@@ -1,37 +1,37 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260282507,2006-01-28,2,2507,home,FALSE,Providence,62,Friars,Providence Friars,Providence
-260282507,2006-01-28,2,41,away,FALSE,UConn,76,Huskies,UConn Huskies,UConn
-260280150,2006-01-28,2,150,home,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
-260280150,2006-01-28,2,258,away,FALSE,Virginia,63,Cavaliers,Virginia Cavaliers,Virginia
-260280235,2006-01-28,2,235,home,FALSE,Memphis,94,Tigers,Memphis Tigers,Memphis
-260280235,2006-01-28,2,2116,away,FALSE,UCF,61,Knights,UCF Knights,UCF
-260280201,2006-01-28,2,201,home,FALSE,Oklahoma,82,Sooners,Oklahoma Sooners,Oklahoma
-260280201,2006-01-28,2,251,away,FALSE,Texas,72,Longhorns,Texas Longhorns,Texas
-260280057,2006-01-28,2,57,home,FALSE,Florida,81,Gators,Florida Gators,Florida
-260280057,2006-01-28,2,238,away,FALSE,Vanderbilt,58,Commodores,Vanderbilt Commodores,Vanderbilt
-260280087,2006-01-28,2,87,home,FALSE,Notre Dame,70,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-260280087,2006-01-28,2,222,away,FALSE,Villanova,72,Wildcats,Villanova Wildcats,Villanova
-260282250,2006-01-28,2,2250,home,FALSE,Gonzaga,81,Bulldogs,Gonzaga Bulldogs,Gonzaga
-260282250,2006-01-28,2,2501,away,FALSE,Portland,64,Pilots,Portland Pilots,Portland
-260280356,2006-01-28,2,356,home,FALSE,Illinois,76,Fighting Illini,Illinois Fighting Illini,Illinois
-260280356,2006-01-28,2,2509,away,FALSE,Purdue,58,Boilermakers,Purdue Boilermakers,Purdue
-260280127,2006-01-28,2,127,home,FALSE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
-260280127,2006-01-28,2,213,away,FALSE,Penn State,60,Nittany Lions,Penn State Nittany Lions,Penn State
-260280221,2006-01-28,2,221,home,FALSE,Pittsburgh,77,Panthers,Pittsburgh Panthers,Pitt
-260280221,2006-01-28,2,269,away,FALSE,Marquette,71,Golden Eagles,Marquette Golden Eagles,Marquette
-260280045,2006-01-28,2,45,home,FALSE,George Washington,81,Revolutionaries,George Washington Revolutionaries,G Washington
-260280045,2006-01-28,2,227,away,FALSE,Rhode Island,62,Rams,Rhode Island Rams,Rhode Island
-260282294,2006-01-28,2,2294,home,FALSE,Iowa,67,Hawkeyes,Iowa Hawkeyes,Iowa
-260282294,2006-01-28,2,194,away,FALSE,Ohio State,62,Buckeyes,Ohio State Buckeyes,Ohio State
-260280204,2006-01-28,2,204,home,FALSE,Oregon State,54,Beavers,Oregon State Beavers,Oregon St
-260280204,2006-01-28,2,26,away,FALSE,UCLA,63,Bruins,UCLA Bruins,UCLA
-260280218,2006-01-28,2,218,home,FALSE,Temple,91,Owls,Temple Owls,Temple
-260280218,2006-01-28,2,120,away,FALSE,Maryland,85,Terrapins,Maryland Terrapins,Maryland
-260282633,2006-01-28,2,2633,home,FALSE,Tennessee,81,Volunteers,Tennessee Volunteers,Tennessee
-260282633,2006-01-28,2,2579,away,FALSE,South Carolina,65,Gamecocks,South Carolina Gamecocks,South Carolina
-260280046,2006-01-28,2,46,home,FALSE,Georgetown,76,Hoyas,Georgetown Hoyas,Georgetown
-260280046,2006-01-28,2,2132,away,FALSE,Cincinnati,57,Bearcats,Cincinnati Bearcats,Cincinnati
-260280164,2006-01-28,2,164,home,FALSE,Rutgers,65,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-260280164,2006-01-28,2,97,away,FALSE,Louisville,56,Cardinals,Louisville Cardinals,Louisville
-260280130,2006-01-28,2,130,home,FALSE,Michigan,85,Wolverines,Michigan Wolverines,Michigan
-260280130,2006-01-28,2,275,away,FALSE,Wisconsin,76,Badgers,Wisconsin Badgers,Wisconsin
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260282507,2006,regular-season,2006-01-28,2,2507,home,FALSE,Providence,62,Friars,Providence Friars,Providence
+260282507,2006,regular-season,2006-01-28,2,41,away,FALSE,UConn,76,Huskies,UConn Huskies,UConn
+260280150,2006,regular-season,2006-01-28,2,150,home,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
+260280150,2006,regular-season,2006-01-28,2,258,away,FALSE,Virginia,63,Cavaliers,Virginia Cavaliers,Virginia
+260280235,2006,regular-season,2006-01-28,2,235,home,FALSE,Memphis,94,Tigers,Memphis Tigers,Memphis
+260280235,2006,regular-season,2006-01-28,2,2116,away,FALSE,UCF,61,Knights,UCF Knights,UCF
+260280201,2006,regular-season,2006-01-28,2,201,home,FALSE,Oklahoma,82,Sooners,Oklahoma Sooners,Oklahoma
+260280201,2006,regular-season,2006-01-28,2,251,away,FALSE,Texas,72,Longhorns,Texas Longhorns,Texas
+260280057,2006,regular-season,2006-01-28,2,57,home,FALSE,Florida,81,Gators,Florida Gators,Florida
+260280057,2006,regular-season,2006-01-28,2,238,away,FALSE,Vanderbilt,58,Commodores,Vanderbilt Commodores,Vanderbilt
+260280087,2006,regular-season,2006-01-28,2,87,home,FALSE,Notre Dame,70,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+260280087,2006,regular-season,2006-01-28,2,222,away,FALSE,Villanova,72,Wildcats,Villanova Wildcats,Villanova
+260282250,2006,regular-season,2006-01-28,2,2250,home,FALSE,Gonzaga,81,Bulldogs,Gonzaga Bulldogs,Gonzaga
+260282250,2006,regular-season,2006-01-28,2,2501,away,FALSE,Portland,64,Pilots,Portland Pilots,Portland
+260280356,2006,regular-season,2006-01-28,2,356,home,FALSE,Illinois,76,Fighting Illini,Illinois Fighting Illini,Illinois
+260280356,2006,regular-season,2006-01-28,2,2509,away,FALSE,Purdue,58,Boilermakers,Purdue Boilermakers,Purdue
+260280127,2006,regular-season,2006-01-28,2,127,home,FALSE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
+260280127,2006,regular-season,2006-01-28,2,213,away,FALSE,Penn State,60,Nittany Lions,Penn State Nittany Lions,Penn State
+260280221,2006,regular-season,2006-01-28,2,221,home,FALSE,Pittsburgh,77,Panthers,Pittsburgh Panthers,Pitt
+260280221,2006,regular-season,2006-01-28,2,269,away,FALSE,Marquette,71,Golden Eagles,Marquette Golden Eagles,Marquette
+260280045,2006,regular-season,2006-01-28,2,45,home,FALSE,George Washington,81,Revolutionaries,George Washington Revolutionaries,G Washington
+260280045,2006,regular-season,2006-01-28,2,227,away,FALSE,Rhode Island,62,Rams,Rhode Island Rams,Rhode Island
+260282294,2006,regular-season,2006-01-28,2,2294,home,FALSE,Iowa,67,Hawkeyes,Iowa Hawkeyes,Iowa
+260282294,2006,regular-season,2006-01-28,2,194,away,FALSE,Ohio State,62,Buckeyes,Ohio State Buckeyes,Ohio State
+260280204,2006,regular-season,2006-01-28,2,204,home,FALSE,Oregon State,54,Beavers,Oregon State Beavers,Oregon St
+260280204,2006,regular-season,2006-01-28,2,26,away,FALSE,UCLA,63,Bruins,UCLA Bruins,UCLA
+260280218,2006,regular-season,2006-01-28,2,218,home,FALSE,Temple,91,Owls,Temple Owls,Temple
+260280218,2006,regular-season,2006-01-28,2,120,away,FALSE,Maryland,85,Terrapins,Maryland Terrapins,Maryland
+260282633,2006,regular-season,2006-01-28,2,2633,home,FALSE,Tennessee,81,Volunteers,Tennessee Volunteers,Tennessee
+260282633,2006,regular-season,2006-01-28,2,2579,away,FALSE,South Carolina,65,Gamecocks,South Carolina Gamecocks,South Carolina
+260280046,2006,regular-season,2006-01-28,2,46,home,FALSE,Georgetown,76,Hoyas,Georgetown Hoyas,Georgetown
+260280046,2006,regular-season,2006-01-28,2,2132,away,FALSE,Cincinnati,57,Bearcats,Cincinnati Bearcats,Cincinnati
+260280164,2006,regular-season,2006-01-28,2,164,home,FALSE,Rutgers,65,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+260280164,2006,regular-season,2006-01-28,2,97,away,FALSE,Louisville,56,Cardinals,Louisville Cardinals,Louisville
+260280130,2006,regular-season,2006-01-28,2,130,home,FALSE,Michigan,85,Wolverines,Michigan Wolverines,Michigan
+260280130,2006,regular-season,2006-01-28,2,275,away,FALSE,Wisconsin,76,Badgers,Wisconsin Badgers,Wisconsin

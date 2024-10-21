@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400917169,2017-02-10,2,2050,home,FALSE,Ball State,77,Cardinals,Ball State Cardinals,Ball State
-400917169,2017-02-10,2,195,away,FALSE,Ohio,79,Bobcats,Ohio Bobcats,Ohio
-400919317,2017-02-10,2,43,home,FALSE,Yale,73,Bulldogs,Yale Bulldogs,Yale
-400919317,2017-02-10,2,159,away,FALSE,Dartmouth,64,Big Green,Dartmouth Big Green,Dartmouth
-400919304,2017-02-10,2,163,home,FALSE,Princeton,69,Tigers,Princeton Tigers,Princeton
-400919304,2017-02-10,2,172,away,FALSE,Cornell,60,Big Red,Cornell Big Red,Cornell
-400919289,2017-02-10,2,219,home,FALSE,Pennsylvania,70,Quakers,Pennsylvania Quakers,Penn
-400919289,2017-02-10,2,171,away,FALSE,Columbia,62,Lions,Columbia Lions,Columbia
-400919270,2017-02-10,2,225,home,FALSE,Brown,74,Bears,Brown Bears,Brown
-400919270,2017-02-10,2,108,away,FALSE,Harvard,87,Crimson,Harvard Crimson,Harvard
-400918512,2017-02-10,2,2174,home,FALSE,Detroit Mercy,80,Titans,Detroit Mercy Titans,Detroit Mercy
-400918512,2017-02-10,2,2473,away,FALSE,Oakland,89,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-400918313,2017-02-10,2,227,home,FALSE,Rhode Island,74,Rams,Rhode Island Rams,Rhode Island
-400918313,2017-02-10,2,2168,away,FALSE,Dayton,75,Flyers,Dayton Flyers,Dayton
-400917165,2017-02-10,2,2199,home,FALSE,Eastern Michigan,76,Eagles,Eastern Michigan Eagles,E Michigan
-400917165,2017-02-10,2,2006,away,FALSE,Akron,87,Zips,Akron Zips,Akron
-400917626,2017-02-10,2,2099,home,FALSE,Canisius,81,Golden Griffins,Canisius Golden Griffins,Canisius
-400917626,2017-02-10,2,315,away,FALSE,Niagara,94,Purple Eagles,Niagara Purple Eagles,Niagara
-400917627,2017-02-10,2,2363,home,FALSE,Manhattan,58,Jaspers,Manhattan Jaspers,Manhattan
-400917627,2017-02-10,2,2405,away,FALSE,Monmouth,62,Hawks,Monmouth Hawks,Monmouth
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400917169,2017,regular-season,2017-02-10,2,2050,home,FALSE,Ball State,77,Cardinals,Ball State Cardinals,Ball State
+400917169,2017,regular-season,2017-02-10,2,195,away,FALSE,Ohio,79,Bobcats,Ohio Bobcats,Ohio
+400919317,2017,regular-season,2017-02-10,2,43,home,FALSE,Yale,73,Bulldogs,Yale Bulldogs,Yale
+400919317,2017,regular-season,2017-02-10,2,159,away,FALSE,Dartmouth,64,Big Green,Dartmouth Big Green,Dartmouth
+400919304,2017,regular-season,2017-02-10,2,163,home,FALSE,Princeton,69,Tigers,Princeton Tigers,Princeton
+400919304,2017,regular-season,2017-02-10,2,172,away,FALSE,Cornell,60,Big Red,Cornell Big Red,Cornell
+400919289,2017,regular-season,2017-02-10,2,219,home,FALSE,Pennsylvania,70,Quakers,Pennsylvania Quakers,Penn
+400919289,2017,regular-season,2017-02-10,2,171,away,FALSE,Columbia,62,Lions,Columbia Lions,Columbia
+400919270,2017,regular-season,2017-02-10,2,225,home,FALSE,Brown,74,Bears,Brown Bears,Brown
+400919270,2017,regular-season,2017-02-10,2,108,away,FALSE,Harvard,87,Crimson,Harvard Crimson,Harvard
+400918512,2017,regular-season,2017-02-10,2,2174,home,FALSE,Detroit Mercy,80,Titans,Detroit Mercy Titans,Detroit Mercy
+400918512,2017,regular-season,2017-02-10,2,2473,away,FALSE,Oakland,89,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+400918313,2017,regular-season,2017-02-10,2,227,home,FALSE,Rhode Island,74,Rams,Rhode Island Rams,Rhode Island
+400918313,2017,regular-season,2017-02-10,2,2168,away,FALSE,Dayton,75,Flyers,Dayton Flyers,Dayton
+400917165,2017,regular-season,2017-02-10,2,2199,home,FALSE,Eastern Michigan,76,Eagles,Eastern Michigan Eagles,E Michigan
+400917165,2017,regular-season,2017-02-10,2,2006,away,FALSE,Akron,87,Zips,Akron Zips,Akron
+400917626,2017,regular-season,2017-02-10,2,2099,home,FALSE,Canisius,81,Golden Griffins,Canisius Golden Griffins,Canisius
+400917626,2017,regular-season,2017-02-10,2,315,away,FALSE,Niagara,94,Purple Eagles,Niagara Purple Eagles,Niagara
+400917627,2017,regular-season,2017-02-10,2,2363,home,FALSE,Manhattan,58,Jaspers,Manhattan Jaspers,Manhattan
+400917627,2017,regular-season,2017-02-10,2,2405,away,FALSE,Monmouth,62,Hawks,Monmouth Hawks,Monmouth

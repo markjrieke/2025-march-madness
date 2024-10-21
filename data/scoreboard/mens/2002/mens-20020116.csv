@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220160057,2002-01-16,2,57,home,FALSE,Florida,102,Gators,Florida Gators,Florida
-220160057,2002-01-16,2,99,away,FALSE,LSU,70,Tigers,LSU Tigers,LSU
-220160158,2002-01-16,2,158,home,FALSE,Nebraska,51,Cornhuskers,Nebraska Cornhuskers,Nebraska
-220160158,2002-01-16,2,201,away,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
-220162132,2002-01-16,2,2132,home,FALSE,Cincinnati,89,Bearcats,Cincinnati Bearcats,Cincinnati
-220162132,2002-01-16,2,305,away,FALSE,DePaul,72,Blue Demons,DePaul Blue Demons,DePaul
-220160061,2002-01-16,2,61,home,FALSE,Georgia,72,Bulldogs,Georgia Bulldogs,Georgia
-220160061,2002-01-16,2,333,away,FALSE,Alabama,77,Crimson Tide,Alabama Crimson Tide,Alabama
-220160142,2002-01-16,2,142,home,FALSE,Missouri,74,Tigers,Missouri Tigers,Missouri
-220160142,2002-01-16,2,245,away,FALSE,Texas A&M,50,Aggies,Texas A&M Aggies,Texas A&M
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220160057,2002,regular-season,2002-01-16,2,57,home,FALSE,Florida,102,Gators,Florida Gators,Florida
+220160057,2002,regular-season,2002-01-16,2,99,away,FALSE,LSU,70,Tigers,LSU Tigers,LSU
+220160158,2002,regular-season,2002-01-16,2,158,home,FALSE,Nebraska,51,Cornhuskers,Nebraska Cornhuskers,Nebraska
+220160158,2002,regular-season,2002-01-16,2,201,away,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
+220162132,2002,regular-season,2002-01-16,2,2132,home,FALSE,Cincinnati,89,Bearcats,Cincinnati Bearcats,Cincinnati
+220162132,2002,regular-season,2002-01-16,2,305,away,FALSE,DePaul,72,Blue Demons,DePaul Blue Demons,DePaul
+220160061,2002,regular-season,2002-01-16,2,61,home,FALSE,Georgia,72,Bulldogs,Georgia Bulldogs,Georgia
+220160061,2002,regular-season,2002-01-16,2,333,away,FALSE,Alabama,77,Crimson Tide,Alabama Crimson Tide,Alabama
+220160142,2002,regular-season,2002-01-16,2,142,home,FALSE,Missouri,74,Tigers,Missouri Tigers,Missouri
+220160142,2002,regular-season,2002-01-16,2,245,away,FALSE,Texas A&M,50,Aggies,Texas A&M Aggies,Texas A&M

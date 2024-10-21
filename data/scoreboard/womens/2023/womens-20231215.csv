@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401584004,2023-12-15,4,24,home,FALSE,Stanford,81,Cardinal,Stanford Cardinal,Stanford
-401584004,2023-12-15,4,2501,away,FALSE,Portland,51,Pilots,Portland Pilots,Portland
-401606633,2023-12-15,4,194,home,FALSE,Ohio State,73,Buckeyes,Ohio State Buckeyes,Ohio State
-401606633,2023-12-15,4,125,away,FALSE,Grand Valley State,49,Lakers,Grand Valley State Lakers,Grd Vly St
-401581378,2023-12-15,4,153,home,FALSE,North Carolina,96,Tar Heels,North Carolina Tar Heels,North Carolina
-401581378,2023-12-15,4,2717,away,FALSE,Western Carolina,36,Catamounts,Western Carolina Catamounts,W Carolina
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401584004,2024,regular-season,2023-12-15,4,24,home,FALSE,Stanford,81,Cardinal,Stanford Cardinal,Stanford
+401584004,2024,regular-season,2023-12-15,4,2501,away,FALSE,Portland,51,Pilots,Portland Pilots,Portland
+401606633,2024,regular-season,2023-12-15,4,194,home,FALSE,Ohio State,73,Buckeyes,Ohio State Buckeyes,Ohio State
+401606633,2024,regular-season,2023-12-15,4,125,away,FALSE,Grand Valley State,49,Lakers,Grand Valley State Lakers,Grd Vly St
+401581378,2024,regular-season,2023-12-15,4,153,home,FALSE,North Carolina,96,Tar Heels,North Carolina Tar Heels,North Carolina
+401581378,2024,regular-season,2023-12-15,4,2717,away,FALSE,Western Carolina,36,Catamounts,Western Carolina Catamounts,W Carolina

@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280040026,2008-01-04,2,26,home,FALSE,UCLA,69,Bruins,UCLA Bruins,UCLA
-280040026,2008-01-04,2,24,away,FALSE,Stanford,56,Cardinal,Stanford Cardinal,Stanford
-280040239,2008-01-04,2,239,home,FALSE,Baylor,84,Bears,Baylor Bears,Baylor
-280040239,2008-01-04,2,326,away,FALSE,Texas State,57,Bobcats,Texas State Bobcats,Texas St
-280040030,2008-01-04,2,30,home,FALSE,USC,52,Trojans,USC Trojans,USC
-280040030,2008-01-04,2,25,away,FALSE,California,57,Golden Bears,California Golden Bears,California
-280040251,2008-01-04,2,251,home,FALSE,Texas,91,Longhorns,Texas Longhorns,Texas
-280040251,2008-01-04,2,292,away,FALSE,UT Rio Grande Valley,43,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-280040038,2008-01-04,2,38,home,FALSE,Colorado,65,Buffaloes,Colorado Buffaloes,Colorado
-280040038,2008-01-04,2,2492,away,FALSE,Pepperdine,53,Waves,Pepperdine Waves,Pepperdine
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280040026,2008,regular-season,2008-01-04,2,26,home,FALSE,UCLA,69,Bruins,UCLA Bruins,UCLA
+280040026,2008,regular-season,2008-01-04,2,24,away,FALSE,Stanford,56,Cardinal,Stanford Cardinal,Stanford
+280040239,2008,regular-season,2008-01-04,2,239,home,FALSE,Baylor,84,Bears,Baylor Bears,Baylor
+280040239,2008,regular-season,2008-01-04,2,326,away,FALSE,Texas State,57,Bobcats,Texas State Bobcats,Texas St
+280040030,2008,regular-season,2008-01-04,2,30,home,FALSE,USC,52,Trojans,USC Trojans,USC
+280040030,2008,regular-season,2008-01-04,2,25,away,FALSE,California,57,Golden Bears,California Golden Bears,California
+280040251,2008,regular-season,2008-01-04,2,251,home,FALSE,Texas,91,Longhorns,Texas Longhorns,Texas
+280040251,2008,regular-season,2008-01-04,2,292,away,FALSE,UT Rio Grande Valley,43,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+280040038,2008,regular-season,2008-01-04,2,38,home,FALSE,Colorado,65,Buffaloes,Colorado Buffaloes,Colorado
+280040038,2008,regular-season,2008-01-04,2,2492,away,FALSE,Pepperdine,53,Waves,Pepperdine Waves,Pepperdine

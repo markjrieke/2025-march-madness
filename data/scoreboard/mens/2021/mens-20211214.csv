@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401369857,2021-12-14,2,150,home,FALSE,Duke,103,Blue Devils,Duke Blue Devils,Duke
-401369857,2021-12-14,2,2569,away,FALSE,South Carolina State,62,Bulldogs,South Carolina State Bulldogs,SC State
-401371822,2021-12-14,2,235,home,FALSE,Memphis,92,Tigers,Memphis Tigers,Memphis
-401371822,2021-12-14,2,333,away,FALSE,Alabama,78,Crimson Tide,Alabama Crimson Tide,Alabama
-401371837,2021-12-14,2,2,home,FALSE,Auburn,70,Tigers,Auburn Tigers,Auburn
-401371837,2021-12-14,2,2453,away,FALSE,North Alabama,44,Lions,North Alabama Lions,North Alabama
-401371816,2021-12-14,2,248,home,FALSE,Houston,71,Cougars,Houston Cougars,Houston
-401371816,2021-12-14,2,309,away,FALSE,Louisiana,56,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
-401372311,2021-12-14,2,251,home,FALSE,Texas,63,Longhorns,Texas Longhorns,Texas
-401372311,2021-12-14,2,2029,away,FALSE,Arkansas-Pine Bluff,31,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-401371899,2021-12-14,2,2633,home,FALSE,Tennessee,96,Volunteers,Tennessee Volunteers,Tennessee
-401371899,2021-12-14,2,2908,away,FALSE,South Carolina Upstate,52,Spartans,South Carolina Upstate Spartans,SC Upstate
-401371625,2021-12-14,2,99,home,FALSE,LSU,89,Tigers,LSU Tigers,LSU
-401371625,2021-12-14,2,2466,away,FALSE,Northwestern State,49,Demons,Northwestern State Demons,N'Western St
-401372316,2021-12-14,2,2641,home,FALSE,Texas Tech,75,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401372316,2021-12-14,2,2032,away,FALSE,Arkansas State,62,Red Wolves,Arkansas State Red Wolves,Arkansas St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401369857,2022,regular-season,2021-12-14,2,150,home,FALSE,Duke,103,Blue Devils,Duke Blue Devils,Duke
+401369857,2022,regular-season,2021-12-14,2,2569,away,FALSE,South Carolina State,62,Bulldogs,South Carolina State Bulldogs,SC State
+401371822,2022,regular-season,2021-12-14,2,235,home,FALSE,Memphis,92,Tigers,Memphis Tigers,Memphis
+401371822,2022,regular-season,2021-12-14,2,333,away,FALSE,Alabama,78,Crimson Tide,Alabama Crimson Tide,Alabama
+401371837,2022,regular-season,2021-12-14,2,2,home,FALSE,Auburn,70,Tigers,Auburn Tigers,Auburn
+401371837,2022,regular-season,2021-12-14,2,2453,away,FALSE,North Alabama,44,Lions,North Alabama Lions,North Alabama
+401371816,2022,regular-season,2021-12-14,2,248,home,FALSE,Houston,71,Cougars,Houston Cougars,Houston
+401371816,2022,regular-season,2021-12-14,2,309,away,FALSE,Louisiana,56,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+401372311,2022,regular-season,2021-12-14,2,251,home,FALSE,Texas,63,Longhorns,Texas Longhorns,Texas
+401372311,2022,regular-season,2021-12-14,2,2029,away,FALSE,Arkansas-Pine Bluff,31,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+401371899,2022,regular-season,2021-12-14,2,2633,home,FALSE,Tennessee,96,Volunteers,Tennessee Volunteers,Tennessee
+401371899,2022,regular-season,2021-12-14,2,2908,away,FALSE,South Carolina Upstate,52,Spartans,South Carolina Upstate Spartans,SC Upstate
+401371625,2022,regular-season,2021-12-14,2,99,home,FALSE,LSU,89,Tigers,LSU Tigers,LSU
+401371625,2022,regular-season,2021-12-14,2,2466,away,FALSE,Northwestern State,49,Demons,Northwestern State Demons,N'Western St
+401372316,2022,regular-season,2021-12-14,2,2641,home,FALSE,Texas Tech,75,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401372316,2022,regular-season,2021-12-14,2,2032,away,FALSE,Arkansas State,62,Red Wolves,Arkansas State Red Wolves,Arkansas St

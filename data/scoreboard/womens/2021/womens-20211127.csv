@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401376968,2021-11-27,4,251,home,FALSE,Texas,83,Longhorns,Texas Longhorns,Texas
-401376968,2021-11-27,4,2463,away,FALSE,Cal State Northridge,42,Matadors,Cal State Northridge Matadors,CSU Northridge
-401375873,2021-11-27,4,96,home,FALSE,Kentucky,74,Wildcats,Kentucky Wildcats,Kentucky
-401375873,2021-11-27,4,2325,away,FALSE,La Salle,52,Explorers,La Salle Explorers,La Salle
-401376540,2021-11-27,4,194,home,FALSE,Ohio State,86,Buckeyes,Ohio State Buckeyes,Ohio State
-401376540,2021-11-27,4,2132,away,FALSE,Cincinnati,50,Bearcats,Cincinnati Bearcats,Cincinnati
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401376968,2022,regular-season,2021-11-27,4,251,home,FALSE,Texas,83,Longhorns,Texas Longhorns,Texas
+401376968,2022,regular-season,2021-11-27,4,2463,away,FALSE,Cal State Northridge,42,Matadors,Cal State Northridge Matadors,CSU Northridge
+401375873,2022,regular-season,2021-11-27,4,96,home,FALSE,Kentucky,74,Wildcats,Kentucky Wildcats,Kentucky
+401375873,2022,regular-season,2021-11-27,4,2325,away,FALSE,La Salle,52,Explorers,La Salle Explorers,La Salle
+401376540,2022,regular-season,2021-11-27,4,194,home,FALSE,Ohio State,86,Buckeyes,Ohio State Buckeyes,Ohio State
+401376540,2022,regular-season,2021-11-27,4,2132,away,FALSE,Cincinnati,50,Bearcats,Cincinnati Bearcats,Cincinnati

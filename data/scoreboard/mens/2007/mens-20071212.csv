@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273462752,2007-12-12,2,2752,home,FALSE,Xavier,64,Musketeers,Xavier Musketeers,Xavier
-273462752,2007-12-12,2,2132,away,FALSE,Cincinnati,59,Bearcats,Cincinnati Bearcats,Cincinnati
-273460305,2007-12-12,3,305,home,FALSE,DePaul,85,Blue Demons,DePaul Blue Demons,DePaul
-273460305,2007-12-12,3,238,away,FALSE,Vanderbilt,91,Commodores,Vanderbilt Commodores,Vanderbilt
-273460252,2007-12-12,2,252,home,FALSE,BYU,88,Cougars,BYU Cougars,BYU
-273460252,2007-12-12,2,2320,away,FALSE,Lamar,66,Cardinals,Lamar Cardinals,Lamar
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273462752,2008,regular-season,2007-12-12,2,2752,home,FALSE,Xavier,64,Musketeers,Xavier Musketeers,Xavier
+273462752,2008,regular-season,2007-12-12,2,2132,away,FALSE,Cincinnati,59,Bearcats,Cincinnati Bearcats,Cincinnati
+273460305,2008,regular-season,2007-12-12,3,305,home,FALSE,DePaul,85,Blue Demons,DePaul Blue Demons,DePaul
+273460305,2008,regular-season,2007-12-12,3,238,away,FALSE,Vanderbilt,91,Commodores,Vanderbilt Commodores,Vanderbilt
+273460252,2008,regular-season,2007-12-12,2,252,home,FALSE,BYU,88,Cougars,BYU Cougars,BYU
+273460252,2008,regular-season,2007-12-12,2,2320,away,FALSE,Lamar,66,Cardinals,Lamar Cardinals,Lamar

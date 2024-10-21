@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401091427,2018-11-16,4,142,home,FALSE,Missouri,49,Tigers,Missouri Tigers,Missouri
-401091427,2018-11-16,4,2739,away,FALSE,Green Bay,56,Phoenix,Green Bay Phoenix,Green Bay
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401091427,2019,regular-season,2018-11-16,4,142,home,FALSE,Missouri,49,Tigers,Missouri Tigers,Missouri
+401091427,2019,regular-season,2018-11-16,4,2739,away,FALSE,Green Bay,56,Phoenix,Green Bay Phoenix,Green Bay

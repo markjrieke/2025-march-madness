@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273560024,2007-12-22,3,24,home,FALSE,Stanford,73,Cardinal,Stanford Cardinal,Stanford
-273560024,2007-12-22,3,2633,away,FALSE,Tennessee,69,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-273562599,2007-12-22,2,2599,home,FALSE,St. John's,58,Red Storm,St. John's Red Storm,St John's
-273562599,2007-12-22,2,239,away,FALSE,Baylor,81,Bears,Baylor Bears,Baylor
-273560084,2007-12-22,2,84,home,FALSE,Indiana,79,Hoosiers,Indiana Hoosiers,Indiana
-273560084,2007-12-22,2,277,away,FALSE,West Virginia,66,Mountaineers,West Virginia Mountaineers,West Virginia
-273560194,2007-12-22,2,194,home,FALSE,Ohio State,86,Buckeyes,Ohio State Buckeyes,Ohio State
-273560194,2007-12-22,2,158,away,FALSE,Nebraska,74,Cornhuskers,Nebraska Cornhuskers,Nebraska
-273560197,2007-12-22,2,197,home,FALSE,Oklahoma State,107,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-273560197,2007-12-22,2,2110,away,FALSE,Central Arkansas,36,Sugar Bears,Central Arkansas Sugar Bears,C Arkansas
-273560238,2007-12-22,2,238,home,FALSE,Vanderbilt,92,Commodores,Vanderbilt Commodores,Vanderbilt
-273560238,2007-12-22,2,288,away,FALSE,Lipscomb,37,Bisons,Lipscomb Bisons,Lipscomb
-273560042,2007-12-22,2,42,home,FALSE,Hartford,54,Hawks,Hartford Hawks,Hartford
-273560042,2007-12-22,2,127,away,FALSE,Michigan State,51,Spartans,Michigan State Spartans,Michigan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273560024,2008,regular-season,2007-12-22,3,24,home,FALSE,Stanford,73,Cardinal,Stanford Cardinal,Stanford
+273560024,2008,regular-season,2007-12-22,3,2633,away,FALSE,Tennessee,69,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+273562599,2008,regular-season,2007-12-22,2,2599,home,FALSE,St. John's,58,Red Storm,St. John's Red Storm,St John's
+273562599,2008,regular-season,2007-12-22,2,239,away,FALSE,Baylor,81,Bears,Baylor Bears,Baylor
+273560084,2008,regular-season,2007-12-22,2,84,home,FALSE,Indiana,79,Hoosiers,Indiana Hoosiers,Indiana
+273560084,2008,regular-season,2007-12-22,2,277,away,FALSE,West Virginia,66,Mountaineers,West Virginia Mountaineers,West Virginia
+273560194,2008,regular-season,2007-12-22,2,194,home,FALSE,Ohio State,86,Buckeyes,Ohio State Buckeyes,Ohio State
+273560194,2008,regular-season,2007-12-22,2,158,away,FALSE,Nebraska,74,Cornhuskers,Nebraska Cornhuskers,Nebraska
+273560197,2008,regular-season,2007-12-22,2,197,home,FALSE,Oklahoma State,107,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+273560197,2008,regular-season,2007-12-22,2,2110,away,FALSE,Central Arkansas,36,Sugar Bears,Central Arkansas Sugar Bears,C Arkansas
+273560238,2008,regular-season,2007-12-22,2,238,home,FALSE,Vanderbilt,92,Commodores,Vanderbilt Commodores,Vanderbilt
+273560238,2008,regular-season,2007-12-22,2,288,away,FALSE,Lipscomb,37,Bisons,Lipscomb Bisons,Lipscomb
+273560042,2008,regular-season,2007-12-22,2,42,home,FALSE,Hartford,54,Hawks,Hartford Hawks,Hartford
+273560042,2008,regular-season,2007-12-22,2,127,away,FALSE,Michigan State,51,Spartans,Michigan State Spartans,Michigan St

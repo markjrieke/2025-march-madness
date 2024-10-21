@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400819149,2015-11-26,4,66,home,TRUE,Iowa State,83,Cyclones,Iowa State Cyclones,Iowa State
-400819149,2015-11-26,4,326,away,TRUE,Texas State,61,Bobcats,Texas State Bobcats,Texas St
-400834824,2015-11-26,4,2294,home,TRUE,Iowa,83,Hawkeyes,Iowa Hawkeyes,Iowa
-400834824,2015-11-26,4,2750,away,TRUE,Wright State,77,Raiders,Wright State Raiders,Wright St
-400823450,2015-11-26,4,2739,home,TRUE,Green Bay,59,Phoenix,Green Bay Phoenix,Green Bay
-400823450,2015-11-26,4,258,away,TRUE,Virginia,68,Cavaliers,Virginia Cavaliers,Virginia
-400819150,2015-11-26,4,150,home,TRUE,Duke,74,Blue Devils,Duke Blue Devils,Duke
-400819150,2015-11-26,4,70,away,TRUE,Idaho,68,Vandals,Idaho Vandals,Idaho
-400820996,2015-11-26,4,239,home,TRUE,Baylor,72,Bears,Baylor Bears,Baylor
-400820996,2015-11-26,4,2132,away,TRUE,Cincinnati,34,Bearcats,Cincinnati Bearcats,Cincinnati
-400834827,2015-11-26,4,45,home,TRUE,George Washington,82,Revolutionaries,George Washington Revolutionaries,G Washington
-400834827,2015-11-26,4,248,away,TRUE,Houston,78,Cougars,Houston Cougars,Houston
-400823451,2015-11-26,4,164,home,TRUE,Rutgers,75,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400823451,2015-11-26,4,2655,away,TRUE,Tulane,51,Green Wave,Tulane Green Wave,Tulane
-400819151,2015-11-26,4,5,home,TRUE,UAB,56,Blazers,UAB Blazers,UAB
-400819151,2015-11-26,4,2272,away,TRUE,High Point,46,Panthers,High Point Panthers,High Point
-400820999,2015-11-26,4,201,home,TRUE,Oklahoma,70,Sooners,Oklahoma Sooners,Oklahoma
-400820999,2015-11-26,4,254,away,TRUE,Utah,55,Utes,Utah Utes,Utah
-400823456,2015-11-26,4,120,home,TRUE,Maryland,95,Terrapins,Maryland Terrapins,Maryland
-400823456,2015-11-26,4,295,away,TRUE,Old Dominion,49,Monarchs,Old Dominion Monarchs,Old Dominion
-400830647,2015-11-26,4,331,home,TRUE,Eastern Washington,70,Eagles,Eastern Washington Eagles,E Washington
-400830647,2015-11-26,4,77,away,TRUE,Northwestern,74,Wildcats,Northwestern Wildcats,Northwestern
-400819152,2015-11-26,4,2550,home,TRUE,Seton Hall,58,Pirates,Seton Hall Pirates,Seton Hall
-400819152,2015-11-26,4,152,away,TRUE,NC State,55,Wolfpack,NC State Wolfpack,NC State
-400823457,2015-11-26,4,221,home,TRUE,Pittsburgh,54,Panthers,Pittsburgh Panthers,Pitt
-400823457,2015-11-26,4,2571,away,TRUE,South Dakota State,55,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-400834976,2015-11-26,4,156,home,TRUE,Creighton,91,Bluejays,Creighton Bluejays,Creighton
-400834976,2015-11-26,4,151,away,TRUE,East Carolina,66,Pirates,East Carolina Pirates,East Carolina
-400819153,2015-11-26,4,59,home,TRUE,Georgia Tech,58,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-400819153,2015-11-26,4,2460,away,TRUE,Northern Iowa,61,Panthers,Northern Iowa Panthers,Northern Iowa
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400819149,2016,regular-season,2015-11-26,4,66,home,TRUE,Iowa State,83,Cyclones,Iowa State Cyclones,Iowa State
+400819149,2016,regular-season,2015-11-26,4,326,away,TRUE,Texas State,61,Bobcats,Texas State Bobcats,Texas St
+400834824,2016,regular-season,2015-11-26,4,2294,home,TRUE,Iowa,83,Hawkeyes,Iowa Hawkeyes,Iowa
+400834824,2016,regular-season,2015-11-26,4,2750,away,TRUE,Wright State,77,Raiders,Wright State Raiders,Wright St
+400823450,2016,regular-season,2015-11-26,4,2739,home,TRUE,Green Bay,59,Phoenix,Green Bay Phoenix,Green Bay
+400823450,2016,regular-season,2015-11-26,4,258,away,TRUE,Virginia,68,Cavaliers,Virginia Cavaliers,Virginia
+400819150,2016,regular-season,2015-11-26,4,150,home,TRUE,Duke,74,Blue Devils,Duke Blue Devils,Duke
+400819150,2016,regular-season,2015-11-26,4,70,away,TRUE,Idaho,68,Vandals,Idaho Vandals,Idaho
+400820996,2016,regular-season,2015-11-26,4,239,home,TRUE,Baylor,72,Bears,Baylor Bears,Baylor
+400820996,2016,regular-season,2015-11-26,4,2132,away,TRUE,Cincinnati,34,Bearcats,Cincinnati Bearcats,Cincinnati
+400834827,2016,regular-season,2015-11-26,4,45,home,TRUE,George Washington,82,Revolutionaries,George Washington Revolutionaries,G Washington
+400834827,2016,regular-season,2015-11-26,4,248,away,TRUE,Houston,78,Cougars,Houston Cougars,Houston
+400823451,2016,regular-season,2015-11-26,4,164,home,TRUE,Rutgers,75,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400823451,2016,regular-season,2015-11-26,4,2655,away,TRUE,Tulane,51,Green Wave,Tulane Green Wave,Tulane
+400819151,2016,regular-season,2015-11-26,4,5,home,TRUE,UAB,56,Blazers,UAB Blazers,UAB
+400819151,2016,regular-season,2015-11-26,4,2272,away,TRUE,High Point,46,Panthers,High Point Panthers,High Point
+400820999,2016,regular-season,2015-11-26,4,201,home,TRUE,Oklahoma,70,Sooners,Oklahoma Sooners,Oklahoma
+400820999,2016,regular-season,2015-11-26,4,254,away,TRUE,Utah,55,Utes,Utah Utes,Utah
+400823456,2016,regular-season,2015-11-26,4,120,home,TRUE,Maryland,95,Terrapins,Maryland Terrapins,Maryland
+400823456,2016,regular-season,2015-11-26,4,295,away,TRUE,Old Dominion,49,Monarchs,Old Dominion Monarchs,Old Dominion
+400830647,2016,regular-season,2015-11-26,4,331,home,TRUE,Eastern Washington,70,Eagles,Eastern Washington Eagles,E Washington
+400830647,2016,regular-season,2015-11-26,4,77,away,TRUE,Northwestern,74,Wildcats,Northwestern Wildcats,Northwestern
+400819152,2016,regular-season,2015-11-26,4,2550,home,TRUE,Seton Hall,58,Pirates,Seton Hall Pirates,Seton Hall
+400819152,2016,regular-season,2015-11-26,4,152,away,TRUE,NC State,55,Wolfpack,NC State Wolfpack,NC State
+400823457,2016,regular-season,2015-11-26,4,221,home,TRUE,Pittsburgh,54,Panthers,Pittsburgh Panthers,Pitt
+400823457,2016,regular-season,2015-11-26,4,2571,away,TRUE,South Dakota State,55,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+400834976,2016,regular-season,2015-11-26,4,156,home,TRUE,Creighton,91,Bluejays,Creighton Bluejays,Creighton
+400834976,2016,regular-season,2015-11-26,4,151,away,TRUE,East Carolina,66,Pirates,East Carolina Pirates,East Carolina
+400819153,2016,regular-season,2015-11-26,4,59,home,TRUE,Georgia Tech,58,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+400819153,2016,regular-season,2015-11-26,4,2460,away,TRUE,Northern Iowa,61,Panthers,Northern Iowa Panthers,Northern Iowa

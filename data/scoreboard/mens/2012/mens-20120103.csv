@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320030096,2012-01-03,2,96,home,TRUE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
-320030096,2012-01-03,2,2031,away,TRUE,Little Rock,51,Trojans,Little Rock Trojans,Little Rock
-320030194,2012-01-03,2,194,home,FALSE,Ohio State,71,Buckeyes,Ohio State Buckeyes,Ohio State
-320030194,2012-01-03,2,158,away,FALSE,Nebraska,40,Cornhuskers,Nebraska Cornhuskers,Nebraska
-320030142,2012-01-03,2,142,home,FALSE,Missouri,87,Tigers,Missouri Tigers,Missouri
-320030142,2012-01-03,2,201,away,FALSE,Oklahoma,49,Sooners,Oklahoma Sooners,Oklahoma
-320032550,2012-01-03,2,2550,home,FALSE,Seton Hall,75,Pirates,Seton Hall Pirates,Seton Hall
-320032550,2012-01-03,2,41,away,FALSE,UConn,63,Huskies,UConn Huskies,UConn
-320030275,2012-01-03,3,275,home,FALSE,Wisconsin,60,Badgers,Wisconsin Badgers,Wisconsin
-320030275,2012-01-03,3,127,away,FALSE,Michigan State,63,Spartans,Michigan State Spartans,Michigan St
-320032599,2012-01-03,2,2599,home,FALSE,St. John's,58,Red Storm,St. John's Red Storm,St John's
-320032599,2012-01-03,2,97,away,FALSE,Louisville,73,Cardinals,Louisville Cardinals,Louisville
-320030057,2012-01-03,2,57,home,FALSE,Florida,79,Gators,Florida Gators,Florida
-320030057,2012-01-03,2,5,away,FALSE,UAB,61,Blazers,UAB Blazers,UAB
-320032230,2012-01-03,2,2230,home,FALSE,Fordham,60,Rams,Fordham Rams,Fordham
-320032230,2012-01-03,2,108,away,FALSE,Harvard,54,Crimson,Harvard Crimson,Harvard
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320030096,2012,regular-season,2012-01-03,2,96,home,TRUE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
+320030096,2012,regular-season,2012-01-03,2,2031,away,TRUE,Little Rock,51,Trojans,Little Rock Trojans,Little Rock
+320030194,2012,regular-season,2012-01-03,2,194,home,FALSE,Ohio State,71,Buckeyes,Ohio State Buckeyes,Ohio State
+320030194,2012,regular-season,2012-01-03,2,158,away,FALSE,Nebraska,40,Cornhuskers,Nebraska Cornhuskers,Nebraska
+320030142,2012,regular-season,2012-01-03,2,142,home,FALSE,Missouri,87,Tigers,Missouri Tigers,Missouri
+320030142,2012,regular-season,2012-01-03,2,201,away,FALSE,Oklahoma,49,Sooners,Oklahoma Sooners,Oklahoma
+320032550,2012,regular-season,2012-01-03,2,2550,home,FALSE,Seton Hall,75,Pirates,Seton Hall Pirates,Seton Hall
+320032550,2012,regular-season,2012-01-03,2,41,away,FALSE,UConn,63,Huskies,UConn Huskies,UConn
+320030275,2012,regular-season,2012-01-03,3,275,home,FALSE,Wisconsin,60,Badgers,Wisconsin Badgers,Wisconsin
+320030275,2012,regular-season,2012-01-03,3,127,away,FALSE,Michigan State,63,Spartans,Michigan State Spartans,Michigan St
+320032599,2012,regular-season,2012-01-03,2,2599,home,FALSE,St. John's,58,Red Storm,St. John's Red Storm,St John's
+320032599,2012,regular-season,2012-01-03,2,97,away,FALSE,Louisville,73,Cardinals,Louisville Cardinals,Louisville
+320030057,2012,regular-season,2012-01-03,2,57,home,FALSE,Florida,79,Gators,Florida Gators,Florida
+320030057,2012,regular-season,2012-01-03,2,5,away,FALSE,UAB,61,Blazers,UAB Blazers,UAB
+320032230,2012,regular-season,2012-01-03,2,2230,home,FALSE,Fordham,60,Rams,Fordham Rams,Fordham
+320032230,2012,regular-season,2012-01-03,2,108,away,FALSE,Harvard,54,Crimson,Harvard Crimson,Harvard

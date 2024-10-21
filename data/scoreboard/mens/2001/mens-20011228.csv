@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213620057,2001-12-28,2,57,home,FALSE,Florida,94,Gators,Florida Gators,Florida
-213620057,2001-12-28,2,56,away,FALSE,Stetson,66,Hatters,Stetson Hatters,Stetson
-213622294,2001-12-28,2,2294,home,FALSE,Iowa,77,Hawkeyes,Iowa Hawkeyes,Iowa
-213622294,2001-12-28,2,2382,away,FALSE,Mercer,43,Bears,Mercer Bears,Mercer
-213620012,2001-12-28,2,12,home,FALSE,Arizona,94,Wildcats,Arizona Wildcats,Arizona
-213620012,2001-12-28,2,2492,away,FALSE,Pepperdine,71,Waves,Pepperdine Waves,Pepperdine
-213622535,2001-12-28,2,2535,home,FALSE,Samford,37,Bulldogs,Samford Bulldogs,Samford
-213622535,2001-12-28,2,2086,away,FALSE,Butler,45,Bulldogs,Butler Bulldogs,Butler
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213620057,2002,regular-season,2001-12-28,2,57,home,FALSE,Florida,94,Gators,Florida Gators,Florida
+213620057,2002,regular-season,2001-12-28,2,56,away,FALSE,Stetson,66,Hatters,Stetson Hatters,Stetson
+213622294,2002,regular-season,2001-12-28,2,2294,home,FALSE,Iowa,77,Hawkeyes,Iowa Hawkeyes,Iowa
+213622294,2002,regular-season,2001-12-28,2,2382,away,FALSE,Mercer,43,Bears,Mercer Bears,Mercer
+213620012,2002,regular-season,2001-12-28,2,12,home,FALSE,Arizona,94,Wildcats,Arizona Wildcats,Arizona
+213620012,2002,regular-season,2001-12-28,2,2492,away,FALSE,Pepperdine,71,Waves,Pepperdine Waves,Pepperdine
+213622535,2002,regular-season,2001-12-28,2,2535,home,FALSE,Samford,37,Bulldogs,Samford Bulldogs,Samford
+213622535,2002,regular-season,2001-12-28,2,2086,away,FALSE,Butler,45,Bulldogs,Butler Bulldogs,Butler

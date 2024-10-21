@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-234000016,2003-03-23,2,41,home,FALSE,UConn,91,Huskies,UConn Huskies,UConn
-234000016,2003-03-23,2,104,away,FALSE,Boston University,44,Terriers,Boston University Terriers,Boston U
-234000001,2003-03-23,2,150,home,FALSE,Duke,66,Blue Devils,Duke Blue Devils,Duke
-234000001,2003-03-23,2,2247,away,FALSE,Georgia State,48,Panthers,Georgia State Panthers,Georgia St
-234000043,2003-03-23,2,251,home,FALSE,Texas,90,Longhorns,Texas Longhorns,Texas
-234000043,2003-03-23,2,2261,away,FALSE,Hampton,46,Lady Pirates,Hampton Lady Pirates,Hampton
-234000035,2003-03-23,2,2348,home,FALSE,Louisiana Tech,94,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-234000035,2003-03-23,2,2492,away,FALSE,Pepperdine,60,Waves,Pepperdine Waves,Pepperdine
-234000012,2003-03-23,2,2641,home,FALSE,Texas Tech,67,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-234000012,2003-03-23,2,2623,away,FALSE,Missouri State,59,Lady Bears,Missouri State Lady Bears,Missouri St
-234000024,2003-03-23,2,2306,home,FALSE,Kansas State,79,Wildcats,Kansas State Wildcats,Kansas St
-234000024,2003-03-23,2,108,away,FALSE,Harvard,69,Crimson,Harvard Crimson,Harvard
-234000058,2003-03-23,2,222,home,FALSE,Villanova,51,Wildcats,Villanova Wildcats,Villanova
-234000058,2003-03-23,2,2598,away,FALSE,St. Francis (PA),36,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-234000051,2003-03-23,2,213,home,FALSE,Penn State,64,Lady Lions,Penn State Lady Lions,Penn State
-234000051,2003-03-23,2,107,away,FALSE,Holy Cross,33,Crusaders,Holy Cross Crusaders,Holy Cross
-234000050,2003-03-23,2,2579,home,FALSE,South Carolina,68,Gamecocks,South Carolina Gamecocks,South Carolina
-234000050,2003-03-23,2,236,away,FALSE,Chattanooga,54,Mocs,Chattanooga Mocs,Chattanooga
-234000011,2003-03-23,2,2540,home,FALSE,UC Santa Barbara,71,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-234000011,2003-03-23,2,2752,away,FALSE,Xavier,62,Musketeers,Xavier Musketeers,Xavier
-234000036,2003-03-23,2,194,home,FALSE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
-234000036,2003-03-23,2,2692,away,FALSE,Weber State,44,Wildcats,Weber State Wildcats,Weber St
-234000023,2003-03-23,2,12,home,FALSE,Arizona,47,Wildcats,Arizona Wildcats,Arizona
-234000023,2003-03-23,2,87,away,FALSE,Notre Dame,59,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-234000042,2003-03-23,2,8,home,FALSE,Arkansas,71,Razorbacks,Arkansas Razorbacks,Arkansas
-234000042,2003-03-23,2,2132,away,FALSE,Cincinnati,57,Bearcats,Cincinnati Bearcats,Cincinnati
-234000057,2003-03-23,2,45,home,FALSE,George Washington,71,Revolutionaries,George Washington Revolutionaries,G Washington
-234000057,2003-03-23,2,201,away,FALSE,Oklahoma,61,Sooners,Oklahoma Sooners,Oklahoma
-234000002,2003-03-23,2,254,home,FALSE,Utah,73,Utes,Utah Utes,Utah
-234000002,2003-03-23,2,305,away,FALSE,DePaul,64,Blue Demons,DePaul Blue Demons,DePaul
-234000017,2003-03-23,2,127,home,FALSE,Michigan State,47,Spartans,Michigan State Spartans,Michigan St
-234000017,2003-03-23,2,2628,away,FALSE,TCU,50,Horned Frogs,TCU Horned Frogs,TCU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+234000016,2003,post-season,2003-03-23,2,41,home,FALSE,UConn,91,Huskies,UConn Huskies,UConn
+234000016,2003,post-season,2003-03-23,2,104,away,FALSE,Boston University,44,Terriers,Boston University Terriers,Boston U
+234000001,2003,post-season,2003-03-23,2,150,home,FALSE,Duke,66,Blue Devils,Duke Blue Devils,Duke
+234000001,2003,post-season,2003-03-23,2,2247,away,FALSE,Georgia State,48,Panthers,Georgia State Panthers,Georgia St
+234000043,2003,post-season,2003-03-23,2,251,home,FALSE,Texas,90,Longhorns,Texas Longhorns,Texas
+234000043,2003,post-season,2003-03-23,2,2261,away,FALSE,Hampton,46,Lady Pirates,Hampton Lady Pirates,Hampton
+234000035,2003,post-season,2003-03-23,2,2348,home,FALSE,Louisiana Tech,94,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+234000035,2003,post-season,2003-03-23,2,2492,away,FALSE,Pepperdine,60,Waves,Pepperdine Waves,Pepperdine
+234000012,2003,post-season,2003-03-23,2,2641,home,FALSE,Texas Tech,67,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+234000012,2003,post-season,2003-03-23,2,2623,away,FALSE,Missouri State,59,Lady Bears,Missouri State Lady Bears,Missouri St
+234000024,2003,post-season,2003-03-23,2,2306,home,FALSE,Kansas State,79,Wildcats,Kansas State Wildcats,Kansas St
+234000024,2003,post-season,2003-03-23,2,108,away,FALSE,Harvard,69,Crimson,Harvard Crimson,Harvard
+234000058,2003,post-season,2003-03-23,2,222,home,FALSE,Villanova,51,Wildcats,Villanova Wildcats,Villanova
+234000058,2003,post-season,2003-03-23,2,2598,away,FALSE,St. Francis (PA),36,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+234000051,2003,post-season,2003-03-23,2,213,home,FALSE,Penn State,64,Lady Lions,Penn State Lady Lions,Penn State
+234000051,2003,post-season,2003-03-23,2,107,away,FALSE,Holy Cross,33,Crusaders,Holy Cross Crusaders,Holy Cross
+234000050,2003,post-season,2003-03-23,2,2579,home,FALSE,South Carolina,68,Gamecocks,South Carolina Gamecocks,South Carolina
+234000050,2003,post-season,2003-03-23,2,236,away,FALSE,Chattanooga,54,Mocs,Chattanooga Mocs,Chattanooga
+234000011,2003,post-season,2003-03-23,2,2540,home,FALSE,UC Santa Barbara,71,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+234000011,2003,post-season,2003-03-23,2,2752,away,FALSE,Xavier,62,Musketeers,Xavier Musketeers,Xavier
+234000036,2003,post-season,2003-03-23,2,194,home,FALSE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
+234000036,2003,post-season,2003-03-23,2,2692,away,FALSE,Weber State,44,Wildcats,Weber State Wildcats,Weber St
+234000023,2003,post-season,2003-03-23,2,12,home,FALSE,Arizona,47,Wildcats,Arizona Wildcats,Arizona
+234000023,2003,post-season,2003-03-23,2,87,away,FALSE,Notre Dame,59,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+234000042,2003,post-season,2003-03-23,2,8,home,FALSE,Arkansas,71,Razorbacks,Arkansas Razorbacks,Arkansas
+234000042,2003,post-season,2003-03-23,2,2132,away,FALSE,Cincinnati,57,Bearcats,Cincinnati Bearcats,Cincinnati
+234000057,2003,post-season,2003-03-23,2,45,home,FALSE,George Washington,71,Revolutionaries,George Washington Revolutionaries,G Washington
+234000057,2003,post-season,2003-03-23,2,201,away,FALSE,Oklahoma,61,Sooners,Oklahoma Sooners,Oklahoma
+234000002,2003,post-season,2003-03-23,2,254,home,FALSE,Utah,73,Utes,Utah Utes,Utah
+234000002,2003,post-season,2003-03-23,2,305,away,FALSE,DePaul,64,Blue Demons,DePaul Blue Demons,DePaul
+234000017,2003,post-season,2003-03-23,2,127,home,FALSE,Michigan State,47,Spartans,Michigan State Spartans,Michigan St
+234000017,2003,post-season,2003-03-23,2,2628,away,FALSE,TCU,50,Horned Frogs,TCU Horned Frogs,TCU

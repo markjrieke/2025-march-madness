@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310620024,2011-03-03,2,24,home,FALSE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
-310620024,2011-03-03,2,25,away,FALSE,California,51,Golden Bears,California Golden Bears,California
-310620026,2011-03-03,2,26,home,FALSE,UCLA,60,Bruins,UCLA Bruins,UCLA
-310620026,2011-03-03,2,264,away,FALSE,Washington,42,Huskies,Washington Huskies,Washington
-310622750,2011-03-03,2,2750,home,FALSE,Wright State,54,Raiders,Wright State Raiders,Wright St
-310622750,2011-03-03,2,2739,away,FALSE,Green Bay,75,Phoenix,Green Bay Phoenix,Green Bay
-310620153,2011-03-03,2,153,home,TRUE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
-310620153,2011-03-03,2,228,away,TRUE,Clemson,64,Tigers,Clemson Tigers,Clemson
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310620024,2011,regular-season,2011-03-03,2,24,home,FALSE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
+310620024,2011,regular-season,2011-03-03,2,25,away,FALSE,California,51,Golden Bears,California Golden Bears,California
+310620026,2011,regular-season,2011-03-03,2,26,home,FALSE,UCLA,60,Bruins,UCLA Bruins,UCLA
+310620026,2011,regular-season,2011-03-03,2,264,away,FALSE,Washington,42,Huskies,Washington Huskies,Washington
+310622750,2011,regular-season,2011-03-03,2,2750,home,FALSE,Wright State,54,Raiders,Wright State Raiders,Wright St
+310622750,2011,regular-season,2011-03-03,2,2739,away,FALSE,Green Bay,75,Phoenix,Green Bay Phoenix,Green Bay
+310620153,2011,regular-season,2011-03-03,2,153,home,TRUE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
+310620153,2011,regular-season,2011-03-03,2,228,away,TRUE,Clemson,64,Tigers,Clemson Tigers,Clemson

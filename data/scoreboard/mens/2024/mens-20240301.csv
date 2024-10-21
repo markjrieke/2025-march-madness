@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401596929,2024-03-01,2,2350,home,FALSE,Loyola Chicago,77,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-401596929,2024-03-01,2,2168,away,FALSE,Dayton,72,Flyers,Dayton Flyers,Dayton
-401594458,2024-03-01,2,328,home,FALSE,Utah State,72,Aggies,Utah State Aggies,Utah State
-401594458,2024-03-01,2,2005,away,FALSE,Air Force,60,Falcons,Air Force Falcons,Air Force
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401596929,2024,regular-season,2024-03-01,2,2350,home,FALSE,Loyola Chicago,77,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+401596929,2024,regular-season,2024-03-01,2,2168,away,FALSE,Dayton,72,Flyers,Dayton Flyers,Dayton
+401594458,2024,regular-season,2024-03-01,2,328,home,FALSE,Utah State,72,Aggies,Utah State Aggies,Utah State
+401594458,2024,regular-season,2024-03-01,2,2005,away,FALSE,Air Force,60,Falcons,Air Force Falcons,Air Force

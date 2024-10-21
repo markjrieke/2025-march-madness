@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400986156,2017-12-20,2,150,home,FALSE,Duke,104,Blue Devils,Duke Blue Devils,Duke
-400986156,2017-12-20,2,339,away,FALSE,Evansville,40,Purple Aces,Evansville Purple Aces,Evansville
-400986157,2017-12-20,2,153,home,FALSE,North Carolina,75,Tar Heels,North Carolina Tar Heels,North Carolina
-400986157,2017-12-20,2,2747,away,FALSE,Wofford,79,Terriers,Wofford Terriers,Wofford
-400989280,2017-12-20,2,277,home,FALSE,West Virginia,77,Mountaineers,West Virginia Mountaineers,West Virginia
-400989280,2017-12-20,2,2154,away,FALSE,Coppin State,38,Eagles,Coppin State Eagles,Coppin St
-400989132,2017-12-20,2,239,home,FALSE,Baylor,80,Bears,Baylor Bears,Baylor
-400989132,2017-12-20,2,2582,away,FALSE,Southern,60,Jaguars,Southern Jaguars,Southern
-400987260,2017-12-20,2,2633,home,FALSE,Tennessee,66,Volunteers,Tennessee Volunteers,Tennessee
-400987260,2017-12-20,2,231,away,FALSE,Furman,61,Paladins,Furman Paladins,Furman
-400988537,2017-12-20,2,2550,home,FALSE,Seton Hall,89,Pirates,Seton Hall Pirates,Seton Hall
-400988537,2017-12-20,2,2681,away,FALSE,Wagner,68,Seahawks,Wagner Seahawks,Wagner
-400988538,2017-12-20,2,156,home,FALSE,Creighton,116,Bluejays,Creighton Bluejays,Creighton
-400988538,2017-12-20,2,2908,away,FALSE,South Carolina Upstate,62,Spartans,South Carolina Upstate Spartans,SC Upstate
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400986156,2018,regular-season,2017-12-20,2,150,home,FALSE,Duke,104,Blue Devils,Duke Blue Devils,Duke
+400986156,2018,regular-season,2017-12-20,2,339,away,FALSE,Evansville,40,Purple Aces,Evansville Purple Aces,Evansville
+400986157,2018,regular-season,2017-12-20,2,153,home,FALSE,North Carolina,75,Tar Heels,North Carolina Tar Heels,North Carolina
+400986157,2018,regular-season,2017-12-20,2,2747,away,FALSE,Wofford,79,Terriers,Wofford Terriers,Wofford
+400989280,2018,regular-season,2017-12-20,2,277,home,FALSE,West Virginia,77,Mountaineers,West Virginia Mountaineers,West Virginia
+400989280,2018,regular-season,2017-12-20,2,2154,away,FALSE,Coppin State,38,Eagles,Coppin State Eagles,Coppin St
+400989132,2018,regular-season,2017-12-20,2,239,home,FALSE,Baylor,80,Bears,Baylor Bears,Baylor
+400989132,2018,regular-season,2017-12-20,2,2582,away,FALSE,Southern,60,Jaguars,Southern Jaguars,Southern
+400987260,2018,regular-season,2017-12-20,2,2633,home,FALSE,Tennessee,66,Volunteers,Tennessee Volunteers,Tennessee
+400987260,2018,regular-season,2017-12-20,2,231,away,FALSE,Furman,61,Paladins,Furman Paladins,Furman
+400988537,2018,regular-season,2017-12-20,2,2550,home,FALSE,Seton Hall,89,Pirates,Seton Hall Pirates,Seton Hall
+400988537,2018,regular-season,2017-12-20,2,2681,away,FALSE,Wagner,68,Seahawks,Wagner Seahawks,Wagner
+400988538,2018,regular-season,2017-12-20,2,156,home,FALSE,Creighton,116,Bluejays,Creighton Bluejays,Creighton
+400988538,2018,regular-season,2017-12-20,2,2908,away,FALSE,South Carolina Upstate,62,Spartans,South Carolina Upstate Spartans,SC Upstate

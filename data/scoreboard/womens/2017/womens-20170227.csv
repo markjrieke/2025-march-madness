@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400905177,2017-02-27,4,201,home,FALSE,Oklahoma,64,Sooners,Oklahoma Sooners,Oklahoma
-400905177,2017-02-27,4,239,away,FALSE,Baylor,103,Bears,Baylor Bears,Baylor
-400911186,2017-02-27,4,2306,home,FALSE,Kansas State,61,Wildcats,Kansas State Wildcats,Kansas St
-400911186,2017-02-27,4,251,away,FALSE,Texas,69,Longhorns,Texas Longhorns,Texas
-400911820,2017-02-27,4,2116,home,FALSE,UCF,60,Knights,UCF Knights,UCF
-400911820,2017-02-27,4,218,away,FALSE,Temple,66,Owls,Temple Owls,Temple
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400905177,2017,regular-season,2017-02-27,4,201,home,FALSE,Oklahoma,64,Sooners,Oklahoma Sooners,Oklahoma
+400905177,2017,regular-season,2017-02-27,4,239,away,FALSE,Baylor,103,Bears,Baylor Bears,Baylor
+400911186,2017,regular-season,2017-02-27,4,2306,home,FALSE,Kansas State,61,Wildcats,Kansas State Wildcats,Kansas St
+400911186,2017,regular-season,2017-02-27,4,251,away,FALSE,Texas,69,Longhorns,Texas Longhorns,Texas
+400911820,2017,regular-season,2017-02-27,4,2116,home,FALSE,UCF,60,Knights,UCF Knights,UCF
+400911820,2017,regular-season,2017-02-27,4,218,away,FALSE,Temple,66,Owls,Temple Owls,Temple

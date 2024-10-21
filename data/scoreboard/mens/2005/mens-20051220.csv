@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253540235,2005-12-20,2,235,home,FALSE,Memphis,76,Tigers,Memphis Tigers,Memphis
-253540235,2005-12-20,2,2348,away,FALSE,Louisiana Tech,58,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
-253540097,2005-12-20,2,97,home,FALSE,Louisville,76,Cardinals,Louisville Cardinals,Louisville
-253540097,2005-12-20,2,2393,away,FALSE,Middle Tennessee,68,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-253542294,2005-12-20,2,2294,home,FALSE,Iowa,65,Hawkeyes,Iowa Hawkeyes,Iowa
-253542294,2005-12-20,2,2181,away,FALSE,Drake,60,Bulldogs,Drake Bulldogs,Drake
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253540235,2006,regular-season,2005-12-20,2,235,home,FALSE,Memphis,76,Tigers,Memphis Tigers,Memphis
+253540235,2006,regular-season,2005-12-20,2,2348,away,FALSE,Louisiana Tech,58,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
+253540097,2006,regular-season,2005-12-20,2,97,home,FALSE,Louisville,76,Cardinals,Louisville Cardinals,Louisville
+253540097,2006,regular-season,2005-12-20,2,2393,away,FALSE,Middle Tennessee,68,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+253542294,2006,regular-season,2005-12-20,2,2294,home,FALSE,Iowa,65,Hawkeyes,Iowa Hawkeyes,Iowa
+253542294,2006,regular-season,2005-12-20,2,2181,away,FALSE,Drake,60,Bulldogs,Drake Bulldogs,Drake

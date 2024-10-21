@@ -1,37 +1,37 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400994646,2017-11-27,4,314,home,FALSE,Iona,57,Gaels,Iona Gaels,Iona
-400994646,2017-11-27,4,2649,away,FALSE,Toledo,74,Rockets,Toledo Rockets,Toledo
-400996954,2017-11-27,4,290,home,FALSE,Georgia Southern,79,Eagles,Georgia Southern Eagles,GA Southern
-400996954,2017-11-27,4,2645,away,FALSE,Thomas (GA),51,Night Hawks,Thomas (GA) Night Hawks,Thomas
-400998622,2017-11-27,4,93,home,FALSE,Murray State,81,Racers,Murray State Racers,Murray St
-400998622,2017-11-27,4,2064,away,FALSE,Bethel (TN),76,Wildcats,Bethel (TN) Wildcats,Bethel (TN)
-400998607,2017-11-27,4,79,home,FALSE,Southern Illinois,53,Salukis,Southern Illinois Salukis,S Illinois
-400998607,2017-11-27,4,2565,away,FALSE,SIU Edwardsville,57,Cougars,SIU Edwardsville Cougars,SIUE
-400998606,2017-11-27,4,2634,home,FALSE,Tennessee State,66,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
-400998606,2017-11-27,4,2653,away,FALSE,Troy,95,Trojans,Troy Trojans,Troy
-400997096,2017-11-27,4,2210,home,FALSE,Elon,106,Phoenix,Elon Phoenix,Elon
-400997096,2017-11-27,4,229,away,FALSE,Coker,54,Cobras,Coker Cobras,Coker
-400996730,2017-11-27,4,2349,home,FALSE,UMass Lowell,102,River Hawks,UMass Lowell River Hawks,UMass Lowell
-400996730,2017-11-27,4,111195,away,FALSE,Fisher College,47,Eagles,Fisher College Eagles,FISHER
-400996151,2017-11-27,4,2729,home,FALSE,William & Mary,73,Tribe,William & Mary Tribe,William & Mary
-400996151,2017-11-27,4,2166,away,FALSE,Davidson,55,Wildcats,Davidson Wildcats,Davidson
-400995486,2017-11-27,4,2132,home,FALSE,Cincinnati,73,Bearcats,Cincinnati Bearcats,Cincinnati
-400995486,2017-11-27,4,2598,away,FALSE,St. Francis (PA),77,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-400995148,2017-11-27,4,2115,home,FALSE,Central Connecticut,60,Blue Devils,Central Connecticut Blue Devils,C Connecticut
-400995148,2017-11-27,4,399,away,FALSE,UAlbany,72,Great Danes,UAlbany Great Danes,UAlbany
-400993845,2017-11-27,4,56,home,FALSE,Stetson,64,Hatters,Stetson Hatters,Stetson
-400993845,2017-11-27,4,2272,away,FALSE,High Point,69,Panthers,High Point Panthers,High Point
-400987714,2017-11-27,4,61,home,FALSE,Georgia,56,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-400987714,2017-11-27,4,2635,away,FALSE,Tennessee Tech,48,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
-400998857,2017-11-27,4,254,home,FALSE,Utah,71,Utes,Utah Utes,Utah
-400998857,2017-11-27,4,250,away,FALSE,UT Arlington,41,Mavericks,UT Arlington Mavericks,UT Arlington
-400996906,2017-11-27,4,2464,home,FALSE,Northern Arizona,104,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
-400996906,2017-11-27,4,110395,away,FALSE,Antelope Valley,49,Antelope Valley,Antelope Valley,ANTELOPE
-400996468,2017-11-27,4,253,home,FALSE,Southern Utah,45,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
-400996468,2017-11-27,4,2934,away,FALSE,Cal State Bakersfield,46,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
-400996767,2017-11-27,4,304,home,FALSE,Idaho State,64,Bengals,Idaho State Bengals,Idaho St
-400996767,2017-11-27,4,328,away,FALSE,Utah State,44,Aggies,Utah State Aggies,Utah State
-400995672,2017-11-27,4,2540,home,FALSE,UC Santa Barbara,58,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-400995672,2017-11-27,4,301,away,FALSE,San Diego,71,Toreros,San Diego Toreros,San Diego
-400995367,2017-11-27,4,2239,home,FALSE,Cal State Fullerton,58,Titans,Cal State Fullerton Titans,Fullerton
-400995367,2017-11-27,4,2172,away,FALSE,Denver,83,Pioneers,Denver Pioneers,Denver
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400994646,2018,regular-season,2017-11-27,4,314,home,FALSE,Iona,57,Gaels,Iona Gaels,Iona
+400994646,2018,regular-season,2017-11-27,4,2649,away,FALSE,Toledo,74,Rockets,Toledo Rockets,Toledo
+400996954,2018,regular-season,2017-11-27,4,290,home,FALSE,Georgia Southern,79,Eagles,Georgia Southern Eagles,GA Southern
+400996954,2018,regular-season,2017-11-27,4,2645,away,FALSE,Thomas (GA),51,Night Hawks,Thomas (GA) Night Hawks,Thomas
+400998622,2018,regular-season,2017-11-27,4,93,home,FALSE,Murray State,81,Racers,Murray State Racers,Murray St
+400998622,2018,regular-season,2017-11-27,4,2064,away,FALSE,Bethel (TN),76,Wildcats,Bethel (TN) Wildcats,Bethel (TN)
+400998607,2018,regular-season,2017-11-27,4,79,home,FALSE,Southern Illinois,53,Salukis,Southern Illinois Salukis,S Illinois
+400998607,2018,regular-season,2017-11-27,4,2565,away,FALSE,SIU Edwardsville,57,Cougars,SIU Edwardsville Cougars,SIUE
+400998606,2018,regular-season,2017-11-27,4,2634,home,FALSE,Tennessee State,66,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
+400998606,2018,regular-season,2017-11-27,4,2653,away,FALSE,Troy,95,Trojans,Troy Trojans,Troy
+400997096,2018,regular-season,2017-11-27,4,2210,home,FALSE,Elon,106,Phoenix,Elon Phoenix,Elon
+400997096,2018,regular-season,2017-11-27,4,229,away,FALSE,Coker,54,Cobras,Coker Cobras,Coker
+400996730,2018,regular-season,2017-11-27,4,2349,home,FALSE,UMass Lowell,102,River Hawks,UMass Lowell River Hawks,UMass Lowell
+400996730,2018,regular-season,2017-11-27,4,111195,away,FALSE,Fisher College,47,Eagles,Fisher College Eagles,FISHER
+400996151,2018,regular-season,2017-11-27,4,2729,home,FALSE,William & Mary,73,Tribe,William & Mary Tribe,William & Mary
+400996151,2018,regular-season,2017-11-27,4,2166,away,FALSE,Davidson,55,Wildcats,Davidson Wildcats,Davidson
+400995486,2018,regular-season,2017-11-27,4,2132,home,FALSE,Cincinnati,73,Bearcats,Cincinnati Bearcats,Cincinnati
+400995486,2018,regular-season,2017-11-27,4,2598,away,FALSE,St. Francis (PA),77,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+400995148,2018,regular-season,2017-11-27,4,2115,home,FALSE,Central Connecticut,60,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+400995148,2018,regular-season,2017-11-27,4,399,away,FALSE,UAlbany,72,Great Danes,UAlbany Great Danes,UAlbany
+400993845,2018,regular-season,2017-11-27,4,56,home,FALSE,Stetson,64,Hatters,Stetson Hatters,Stetson
+400993845,2018,regular-season,2017-11-27,4,2272,away,FALSE,High Point,69,Panthers,High Point Panthers,High Point
+400987714,2018,regular-season,2017-11-27,4,61,home,FALSE,Georgia,56,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+400987714,2018,regular-season,2017-11-27,4,2635,away,FALSE,Tennessee Tech,48,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
+400998857,2018,regular-season,2017-11-27,4,254,home,FALSE,Utah,71,Utes,Utah Utes,Utah
+400998857,2018,regular-season,2017-11-27,4,250,away,FALSE,UT Arlington,41,Mavericks,UT Arlington Mavericks,UT Arlington
+400996906,2018,regular-season,2017-11-27,4,2464,home,FALSE,Northern Arizona,104,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+400996906,2018,regular-season,2017-11-27,4,110395,away,FALSE,Antelope Valley,49,Antelope Valley,Antelope Valley,ANTELOPE
+400996468,2018,regular-season,2017-11-27,4,253,home,FALSE,Southern Utah,45,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+400996468,2018,regular-season,2017-11-27,4,2934,away,FALSE,Cal State Bakersfield,46,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+400996767,2018,regular-season,2017-11-27,4,304,home,FALSE,Idaho State,64,Bengals,Idaho State Bengals,Idaho St
+400996767,2018,regular-season,2017-11-27,4,328,away,FALSE,Utah State,44,Aggies,Utah State Aggies,Utah State
+400995672,2018,regular-season,2017-11-27,4,2540,home,FALSE,UC Santa Barbara,58,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+400995672,2018,regular-season,2017-11-27,4,301,away,FALSE,San Diego,71,Toreros,San Diego Toreros,San Diego
+400995367,2018,regular-season,2017-11-27,4,2239,home,FALSE,Cal State Fullerton,58,Titans,Cal State Fullerton Titans,Fullerton
+400995367,2018,regular-season,2017-11-27,4,2172,away,FALSE,Denver,83,Pioneers,Denver Pioneers,Denver

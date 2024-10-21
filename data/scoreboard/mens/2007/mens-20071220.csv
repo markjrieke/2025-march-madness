@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273540150,2007-12-20,3,150,home,TRUE,Duke,64,Blue Devils,Duke Blue Devils,Duke
-273540150,2007-12-20,3,221,away,TRUE,Pittsburgh,65,Panthers,Pittsburgh Panthers,Pitt
-273540265,2007-12-20,2,265,home,TRUE,Washington State,67,Cougars,Washington State Cougars,Washington St
-273540265,2007-12-20,2,2643,away,TRUE,The Citadel,45,Bulldogs,The Citadel Bulldogs,The Citadel
-273542325,2007-12-20,2,228,home,TRUE,Clemson,90,Tigers,Clemson Tigers,Clemson
-273542325,2007-12-20,2,2503,away,TRUE,Puerto Rico-Mayaguez,73,Bulldogs,Puerto Rico-Mayaguez Bulldogs,PR-Mayaguez
-273540201,2007-12-20,2,201,home,TRUE,Oklahoma,72,Sooners,Oklahoma Sooners,Oklahoma
-273540201,2007-12-20,2,2250,away,TRUE,Gonzaga,68,Bulldogs,Gonzaga Bulldogs,Gonzaga
-273542390,2007-12-20,2,2390,home,FALSE,Miami,85,Hurricanes,Miami Hurricanes,Miami
-273542390,2007-12-20,2,2454,away,FALSE,North Florida,63,Ospreys,North Florida Ospreys,North Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273540150,2008,regular-season,2007-12-20,3,150,home,TRUE,Duke,64,Blue Devils,Duke Blue Devils,Duke
+273540150,2008,regular-season,2007-12-20,3,221,away,TRUE,Pittsburgh,65,Panthers,Pittsburgh Panthers,Pitt
+273540265,2008,regular-season,2007-12-20,2,265,home,TRUE,Washington State,67,Cougars,Washington State Cougars,Washington St
+273540265,2008,regular-season,2007-12-20,2,2643,away,TRUE,The Citadel,45,Bulldogs,The Citadel Bulldogs,The Citadel
+273542325,2008,regular-season,2007-12-20,2,228,home,TRUE,Clemson,90,Tigers,Clemson Tigers,Clemson
+273542325,2008,regular-season,2007-12-20,2,2503,away,TRUE,Puerto Rico-Mayaguez,73,Bulldogs,Puerto Rico-Mayaguez Bulldogs,PR-Mayaguez
+273540201,2008,regular-season,2007-12-20,2,201,home,TRUE,Oklahoma,72,Sooners,Oklahoma Sooners,Oklahoma
+273540201,2008,regular-season,2007-12-20,2,2250,away,TRUE,Gonzaga,68,Bulldogs,Gonzaga Bulldogs,Gonzaga
+273542390,2008,regular-season,2007-12-20,2,2390,home,FALSE,Miami,85,Hurricanes,Miami Hurricanes,Miami
+273542390,2008,regular-season,2007-12-20,2,2454,away,FALSE,North Florida,63,Ospreys,North Florida Ospreys,North Florida

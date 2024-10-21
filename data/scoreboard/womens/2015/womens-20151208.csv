@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400834848,2015-12-08,4,120,home,FALSE,Maryland,97,Terrapins,Maryland Terrapins,Maryland
-400834848,2015-12-08,4,2352,away,FALSE,Loyola Maryland,47,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400834848,2016,regular-season,2015-12-08,4,120,home,FALSE,Maryland,97,Terrapins,Maryland Terrapins,Maryland
+400834848,2016,regular-season,2015-12-08,4,2352,away,FALSE,Loyola Maryland,47,Greyhounds,Loyola Maryland Greyhounds,Loyola MD

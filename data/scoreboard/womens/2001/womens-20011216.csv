@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213500024,2001-12-16,2,24,home,FALSE,Stanford,62,Cardinal,Stanford Cardinal,Stanford
-213500024,2001-12-16,2,2633,away,FALSE,Tennessee,68,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-213500201,2001-12-16,2,201,home,FALSE,Oklahoma,91,Sooners,Oklahoma Sooners,Oklahoma
-213500201,2001-12-16,2,356,away,FALSE,Illinois,69,Fighting Illini,Illinois Fighting Illini,Illinois
-213500150,2001-12-16,2,150,home,FALSE,Duke,90,Blue Devils,Duke Blue Devils,Duke
-213500150,2001-12-16,2,2430,away,FALSE,UNC Greensboro,58,Spartans,UNC Greensboro Spartans,UNC Greensboro
-213500239,2001-12-16,2,239,home,FALSE,Baylor,92,Bears,Baylor Bears,Baylor
-213500239,2001-12-16,2,26,away,FALSE,UCLA,59,Bruins,UCLA Bruins,UCLA
-213500152,2001-12-16,3,152,home,FALSE,NC State,63,Wolfpack,NC State Wolfpack,NC State
-213500152,2001-12-16,3,61,away,FALSE,Georgia,68,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-213502641,2001-12-16,2,2641,home,FALSE,Texas Tech,95,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-213502641,2001-12-16,2,2572,away,FALSE,Southern Miss,34,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-213500099,2001-12-16,4,99,home,FALSE,LSU,81,Tigers,LSU Tigers,LSU
-213500099,2001-12-16,4,130,away,FALSE,Michigan,86,Wolverines,Michigan Wolverines,Michigan
-213500002,2001-12-16,2,2,home,FALSE,Auburn,71,Tigers,Auburn Tigers,Auburn
-213500002,2001-12-16,2,52,away,FALSE,Florida State,59,Seminoles,Florida State Seminoles,Florida St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213500024,2002,regular-season,2001-12-16,2,24,home,FALSE,Stanford,62,Cardinal,Stanford Cardinal,Stanford
+213500024,2002,regular-season,2001-12-16,2,2633,away,FALSE,Tennessee,68,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+213500201,2002,regular-season,2001-12-16,2,201,home,FALSE,Oklahoma,91,Sooners,Oklahoma Sooners,Oklahoma
+213500201,2002,regular-season,2001-12-16,2,356,away,FALSE,Illinois,69,Fighting Illini,Illinois Fighting Illini,Illinois
+213500150,2002,regular-season,2001-12-16,2,150,home,FALSE,Duke,90,Blue Devils,Duke Blue Devils,Duke
+213500150,2002,regular-season,2001-12-16,2,2430,away,FALSE,UNC Greensboro,58,Spartans,UNC Greensboro Spartans,UNC Greensboro
+213500239,2002,regular-season,2001-12-16,2,239,home,FALSE,Baylor,92,Bears,Baylor Bears,Baylor
+213500239,2002,regular-season,2001-12-16,2,26,away,FALSE,UCLA,59,Bruins,UCLA Bruins,UCLA
+213500152,2002,regular-season,2001-12-16,3,152,home,FALSE,NC State,63,Wolfpack,NC State Wolfpack,NC State
+213500152,2002,regular-season,2001-12-16,3,61,away,FALSE,Georgia,68,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+213502641,2002,regular-season,2001-12-16,2,2641,home,FALSE,Texas Tech,95,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+213502641,2002,regular-season,2001-12-16,2,2572,away,FALSE,Southern Miss,34,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+213500099,2002,regular-season,2001-12-16,4,99,home,FALSE,LSU,81,Tigers,LSU Tigers,LSU
+213500099,2002,regular-season,2001-12-16,4,130,away,FALSE,Michigan,86,Wolverines,Michigan Wolverines,Michigan
+213500002,2002,regular-season,2001-12-16,2,2,home,FALSE,Auburn,71,Tigers,Auburn Tigers,Auburn
+213500002,2002,regular-season,2001-12-16,2,52,away,FALSE,Florida State,59,Seminoles,Florida State Seminoles,Florida St

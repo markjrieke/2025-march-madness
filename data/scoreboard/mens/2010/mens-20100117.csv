@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300180222,2010-01-17,2,222,home,FALSE,Villanova,82,Wildcats,Villanova Wildcats,Villanova
-300180222,2010-01-17,2,46,away,FALSE,Georgetown,77,Hoyas,Georgetown Hoyas,Georgetown
-300170150,2010-01-17,2,150,home,FALSE,Duke,90,Blue Devils,Duke Blue Devils,Duke
-300170150,2010-01-17,2,154,away,FALSE,Wake Forest,70,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-300170130,2010-01-17,2,130,home,FALSE,Michigan,68,Wolverines,Michigan Wolverines,Michigan
-300170130,2010-01-17,2,41,away,FALSE,UConn,63,Huskies,UConn Huskies,UConn
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300180222,2010,regular-season,2010-01-17,2,222,home,FALSE,Villanova,82,Wildcats,Villanova Wildcats,Villanova
+300180222,2010,regular-season,2010-01-17,2,46,away,FALSE,Georgetown,77,Hoyas,Georgetown Hoyas,Georgetown
+300170150,2010,regular-season,2010-01-17,2,150,home,FALSE,Duke,90,Blue Devils,Duke Blue Devils,Duke
+300170150,2010,regular-season,2010-01-17,2,154,away,FALSE,Wake Forest,70,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+300170130,2010,regular-season,2010-01-17,2,130,home,FALSE,Michigan,68,Wolverines,Michigan Wolverines,Michigan
+300170130,2010,regular-season,2010-01-17,2,41,away,FALSE,UConn,63,Huskies,UConn Huskies,UConn

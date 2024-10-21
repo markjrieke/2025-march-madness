@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401482845,2023-02-03,2,21,home,FALSE,San Diego State,72,Aztecs,San Diego State Aztecs,San Diego St
-401482845,2023-02-03,2,68,away,FALSE,Boise State,52,Broncos,Boise State Broncos,Boise St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401482845,2023,regular-season,2023-02-03,2,21,home,FALSE,San Diego State,72,Aztecs,San Diego State Aztecs,San Diego St
+401482845,2023,regular-season,2023-02-03,2,68,away,FALSE,Boise State,52,Broncos,Boise State Broncos,Boise St

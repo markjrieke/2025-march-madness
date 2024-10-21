@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-223470135,2002-12-13,2,135,home,FALSE,Minnesota,104,Golden Gophers,Minnesota Golden Gophers,Minnesota
-223470135,2002-12-13,2,161,away,FALSE,Fairleigh Dickinson,66,Knights,Fairleigh Dickinson Knights,Fair Dickinson
-223472754,2002-12-13,2,2754,home,FALSE,Youngstown State,84,Penguins,Youngstown State Penguins,Youngstown St
-223472754,2002-12-13,2,2893,away,FALSE,Shawnee State,69,Bears,Shawnee State Bears,Shawnee State
-223472142,2002-12-13,2,2142,home,FALSE,Colgate,71,Raiders,Colgate Raiders,Colgate
-223472142,2002-12-13,2,108,away,FALSE,Harvard,76,Crimson,Harvard Crimson,Harvard
-223470231,2002-12-13,2,231,home,FALSE,Furman,83,Paladins,Furman Paladins,Furman
-223470231,2002-12-13,2,291,away,FALSE,Methodist,29,Monarchs,Methodist Monarchs,Methodist
-223470104,2002-12-13,2,104,home,FALSE,Boston University,78,Terriers,Boston University Terriers,Boston U
-223470104,2002-12-13,2,195,away,FALSE,Ohio,57,Bobcats,Ohio Bobcats,Ohio
-223470222,2002-12-13,2,222,home,FALSE,Villanova,72,Wildcats,Villanova Wildcats,Villanova
-223470222,2002-12-13,2,2378,away,FALSE,UMBC,60,Retrievers,UMBC Retrievers,UMBC
-223472294,2002-12-13,2,2294,home,FALSE,Iowa,69,Hawkeyes,Iowa Hawkeyes,Iowa
-223472294,2002-12-13,2,66,away,FALSE,Iowa State,73,Cyclones,Iowa State Cyclones,Iowa State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+223470135,2003,regular-season,2002-12-13,2,135,home,FALSE,Minnesota,104,Golden Gophers,Minnesota Golden Gophers,Minnesota
+223470135,2003,regular-season,2002-12-13,2,161,away,FALSE,Fairleigh Dickinson,66,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+223472754,2003,regular-season,2002-12-13,2,2754,home,FALSE,Youngstown State,84,Penguins,Youngstown State Penguins,Youngstown St
+223472754,2003,regular-season,2002-12-13,2,2893,away,FALSE,Shawnee State,69,Bears,Shawnee State Bears,Shawnee State
+223472142,2003,regular-season,2002-12-13,2,2142,home,FALSE,Colgate,71,Raiders,Colgate Raiders,Colgate
+223472142,2003,regular-season,2002-12-13,2,108,away,FALSE,Harvard,76,Crimson,Harvard Crimson,Harvard
+223470231,2003,regular-season,2002-12-13,2,231,home,FALSE,Furman,83,Paladins,Furman Paladins,Furman
+223470231,2003,regular-season,2002-12-13,2,291,away,FALSE,Methodist,29,Monarchs,Methodist Monarchs,Methodist
+223470104,2003,regular-season,2002-12-13,2,104,home,FALSE,Boston University,78,Terriers,Boston University Terriers,Boston U
+223470104,2003,regular-season,2002-12-13,2,195,away,FALSE,Ohio,57,Bobcats,Ohio Bobcats,Ohio
+223470222,2003,regular-season,2002-12-13,2,222,home,FALSE,Villanova,72,Wildcats,Villanova Wildcats,Villanova
+223470222,2003,regular-season,2002-12-13,2,2378,away,FALSE,UMBC,60,Retrievers,UMBC Retrievers,UMBC
+223472294,2003,regular-season,2002-12-13,2,2294,home,FALSE,Iowa,69,Hawkeyes,Iowa Hawkeyes,Iowa
+223472294,2003,regular-season,2002-12-13,2,66,away,FALSE,Iowa State,73,Cyclones,Iowa State Cyclones,Iowa State

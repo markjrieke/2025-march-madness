@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400508883,2014-02-23,2,87,home,FALSE,Notre Dame,81,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400508883,2014-02-23,2,150,away,FALSE,Duke,70,Blue Devils,Duke Blue Devils,Duke
-400511388,2014-02-23,2,97,home,FALSE,Louisville,73,Cardinals,Louisville Cardinals,Louisville
-400511388,2014-02-23,2,164,away,FALSE,Rutgers,58,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400508506,2014-02-23,2,2579,home,FALSE,South Carolina,69,Gamecocks,South Carolina Gamecocks,South Carolina
-400508506,2014-02-23,2,57,away,FALSE,Florida,55,Gators,Florida Gators,Florida
-400509887,2014-02-23,2,26,home,FALSE,UCLA,56,Bruins,UCLA Bruins,UCLA
-400509887,2014-02-23,2,24,away,FALSE,Stanford,65,Cardinal,Stanford Cardinal,Stanford
-400508887,2014-02-23,2,59,home,FALSE,Georgia Tech,62,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-400508887,2014-02-23,2,120,away,FALSE,Maryland,79,Terrapins,Maryland Terrapins,Maryland
-400508507,2014-02-23,2,142,home,FALSE,Missouri,50,Tigers,Missouri Tigers,Missouri
-400508507,2014-02-23,2,2633,away,FALSE,Tennessee,56,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400508886,2014-02-23,2,153,home,FALSE,North Carolina,47,Tar Heels,North Carolina Tar Heels,North Carolina
-400508886,2014-02-23,2,259,away,FALSE,Virginia Tech,50,Hokies,Virginia Tech Hokies,Virginia Tech
-400503819,2014-02-23,2,2641,home,FALSE,Texas Tech,62,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-400503819,2014-02-23,2,197,away,FALSE,Oklahoma State,63,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-400508889,2014-02-23,2,152,home,FALSE,NC State,68,Wolfpack,NC State Wolfpack,NC State
-400508889,2014-02-23,2,258,away,FALSE,Virginia,66,Cavaliers,Virginia Cavaliers,Virginia
-400508508,2014-02-23,2,245,home,FALSE,Texas A&M,74,Aggies,Texas A&M Aggies,Texas A&M
-400508508,2014-02-23,2,96,away,FALSE,Kentucky,83,Wildcats,Kentucky Wildcats,Kentucky
-400509884,2014-02-23,2,30,home,FALSE,USC,67,Trojans,USC Trojans,USC
-400509884,2014-02-23,2,25,away,FALSE,California,76,Golden Bears,California Golden Bears,California
-400508509,2014-02-23,2,99,home,FALSE,LSU,53,Tigers,LSU Tigers,LSU
-400508509,2014-02-23,2,8,away,FALSE,Arkansas,57,Razorbacks,Arkansas Razorbacks,Arkansas
-400509885,2014-02-23,2,9,home,FALSE,Arizona State,60,Sun Devils,Arizona State Sun Devils,Arizona St
-400509885,2014-02-23,2,254,away,FALSE,Utah,40,Utes,Utah Utes,Utah
-400511297,2014-02-23,2,2509,home,FALSE,Purdue,72,Boilermakers,Purdue Boilermakers,Purdue
-400511297,2014-02-23,2,275,away,FALSE,Wisconsin,54,Badgers,Wisconsin Badgers,Wisconsin
-400509549,2014-02-23,2,156,home,FALSE,Creighton,65,Bluejays,Creighton Bluejays,Creighton
-400509549,2014-02-23,2,2599,away,FALSE,St. John's,62,Red Storm,St. John's Red Storm,St John's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400508883,2014,regular-season,2014-02-23,2,87,home,FALSE,Notre Dame,81,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400508883,2014,regular-season,2014-02-23,2,150,away,FALSE,Duke,70,Blue Devils,Duke Blue Devils,Duke
+400511388,2014,regular-season,2014-02-23,2,97,home,FALSE,Louisville,73,Cardinals,Louisville Cardinals,Louisville
+400511388,2014,regular-season,2014-02-23,2,164,away,FALSE,Rutgers,58,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400508506,2014,regular-season,2014-02-23,2,2579,home,FALSE,South Carolina,69,Gamecocks,South Carolina Gamecocks,South Carolina
+400508506,2014,regular-season,2014-02-23,2,57,away,FALSE,Florida,55,Gators,Florida Gators,Florida
+400509887,2014,regular-season,2014-02-23,2,26,home,FALSE,UCLA,56,Bruins,UCLA Bruins,UCLA
+400509887,2014,regular-season,2014-02-23,2,24,away,FALSE,Stanford,65,Cardinal,Stanford Cardinal,Stanford
+400508887,2014,regular-season,2014-02-23,2,59,home,FALSE,Georgia Tech,62,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+400508887,2014,regular-season,2014-02-23,2,120,away,FALSE,Maryland,79,Terrapins,Maryland Terrapins,Maryland
+400508507,2014,regular-season,2014-02-23,2,142,home,FALSE,Missouri,50,Tigers,Missouri Tigers,Missouri
+400508507,2014,regular-season,2014-02-23,2,2633,away,FALSE,Tennessee,56,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400508886,2014,regular-season,2014-02-23,2,153,home,FALSE,North Carolina,47,Tar Heels,North Carolina Tar Heels,North Carolina
+400508886,2014,regular-season,2014-02-23,2,259,away,FALSE,Virginia Tech,50,Hokies,Virginia Tech Hokies,Virginia Tech
+400503819,2014,regular-season,2014-02-23,2,2641,home,FALSE,Texas Tech,62,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+400503819,2014,regular-season,2014-02-23,2,197,away,FALSE,Oklahoma State,63,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+400508889,2014,regular-season,2014-02-23,2,152,home,FALSE,NC State,68,Wolfpack,NC State Wolfpack,NC State
+400508889,2014,regular-season,2014-02-23,2,258,away,FALSE,Virginia,66,Cavaliers,Virginia Cavaliers,Virginia
+400508508,2014,regular-season,2014-02-23,2,245,home,FALSE,Texas A&M,74,Aggies,Texas A&M Aggies,Texas A&M
+400508508,2014,regular-season,2014-02-23,2,96,away,FALSE,Kentucky,83,Wildcats,Kentucky Wildcats,Kentucky
+400509884,2014,regular-season,2014-02-23,2,30,home,FALSE,USC,67,Trojans,USC Trojans,USC
+400509884,2014,regular-season,2014-02-23,2,25,away,FALSE,California,76,Golden Bears,California Golden Bears,California
+400508509,2014,regular-season,2014-02-23,2,99,home,FALSE,LSU,53,Tigers,LSU Tigers,LSU
+400508509,2014,regular-season,2014-02-23,2,8,away,FALSE,Arkansas,57,Razorbacks,Arkansas Razorbacks,Arkansas
+400509885,2014,regular-season,2014-02-23,2,9,home,FALSE,Arizona State,60,Sun Devils,Arizona State Sun Devils,Arizona St
+400509885,2014,regular-season,2014-02-23,2,254,away,FALSE,Utah,40,Utes,Utah Utes,Utah
+400511297,2014,regular-season,2014-02-23,2,2509,home,FALSE,Purdue,72,Boilermakers,Purdue Boilermakers,Purdue
+400511297,2014,regular-season,2014-02-23,2,275,away,FALSE,Wisconsin,54,Badgers,Wisconsin Badgers,Wisconsin
+400509549,2014,regular-season,2014-02-23,2,156,home,FALSE,Creighton,65,Bluejays,Creighton Bluejays,Creighton
+400509549,2014,regular-season,2014-02-23,2,2599,away,FALSE,St. John's,62,Red Storm,St. John's Red Storm,St John's

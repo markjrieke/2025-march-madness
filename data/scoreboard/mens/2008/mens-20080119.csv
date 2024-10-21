@@ -1,37 +1,37 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280190153,2008-01-19,2,153,home,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
-280190153,2008-01-19,2,120,away,FALSE,Maryland,82,Terrapins,Maryland Terrapins,Maryland
-280190235,2008-01-19,2,235,home,FALSE,Memphis,83,Tigers,Memphis Tigers,Memphis
-280190235,2008-01-19,2,2572,away,FALSE,Southern Miss,47,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
-280190142,2008-01-19,2,142,home,FALSE,Missouri,70,Tigers,Missouri Tigers,Missouri
-280190142,2008-01-19,2,2305,away,FALSE,Kansas,76,Jayhawks,Kansas Jayhawks,Kansas
-280190026,2008-01-19,2,26,home,FALSE,UCLA,63,Bruins,UCLA Bruins,UCLA
-280190026,2008-01-19,2,30,away,FALSE,USC,72,Trojans,USC Trojans,USC
-280190046,2008-01-19,2,46,home,FALSE,Georgetown,84,Hoyas,Georgetown Hoyas,Georgetown
-280190046,2008-01-19,2,87,away,FALSE,Notre Dame,65,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-280192633,2008-01-19,2,2633,home,FALSE,Tennessee,74,Volunteers,Tennessee Volunteers,Tennessee
-280192633,2008-01-19,2,194,away,FALSE,Ohio State,69,Buckeyes,Ohio State Buckeyes,Ohio State
-280190150,2008-01-19,2,150,home,FALSE,Duke,93,Blue Devils,Duke Blue Devils,Duke
-280190150,2008-01-19,2,228,away,FALSE,Clemson,80,Tigers,Clemson Tigers,Clemson
-280192306,2008-01-19,2,2306,home,FALSE,Kansas State,75,Wildcats,Kansas State Wildcats,Kansas St
-280192306,2008-01-19,2,245,away,FALSE,Texas A&M,54,Aggies,Texas A&M Aggies,Texas A&M
-280192754,2008-01-19,2,2754,home,FALSE,Youngstown State,69,Penguins,Youngstown State Penguins,Youngstown St
-280192754,2008-01-19,2,2086,away,FALSE,Butler,78,Bulldogs,Butler Bulldogs,Butler
-280192132,2008-01-19,2,2132,home,FALSE,Cincinnati,62,Bearcats,Cincinnati Bearcats,Cincinnati
-280192132,2008-01-19,2,221,away,FALSE,Pittsburgh,59,Panthers,Pittsburgh Panthers,Pitt
-280190238,2008-01-19,2,238,home,FALSE,Vanderbilt,92,Commodores,Vanderbilt Commodores,Vanderbilt
-280190238,2008-01-19,2,99,away,FALSE,LSU,76,Tigers,LSU Tigers,LSU
-280190275,2008-01-19,2,275,home,FALSE,Wisconsin,62,Badgers,Wisconsin Badgers,Wisconsin
-280190275,2008-01-19,2,77,away,FALSE,Northwestern,50,Wildcats,Northwestern Wildcats,Northwestern
-280190002,2008-01-19,2,2,home,FALSE,Auburn,80,Tigers,Auburn Tigers,Auburn
-280190002,2008-01-19,2,145,away,FALSE,Ole Miss,77,Rebels,Ole Miss Rebels,Ole Miss
-280190251,2008-01-19,2,251,home,FALSE,Texas,69,Longhorns,Texas Longhorns,Texas
-280190251,2008-01-19,2,38,away,FALSE,Colorado,67,Buffaloes,Colorado Buffaloes,Colorado
-280190045,2008-01-19,2,45,home,FALSE,George Washington,66,Revolutionaries,George Washington Revolutionaries,G Washington
-280190045,2008-01-19,2,2752,away,FALSE,Xavier,74,Musketeers,Xavier Musketeers,Xavier
-280190152,2008-01-19,3,152,home,FALSE,NC State,79,Wolfpack,NC State Wolfpack,NC State
-280190152,2008-01-19,3,2390,away,FALSE,Miami,77,Hurricanes,Miami Hurricanes,Miami
-280190024,2008-01-19,2,24,home,FALSE,Stanford,67,Cardinal,Stanford Cardinal,Stanford
-280190024,2008-01-19,2,9,away,FALSE,Arizona State,52,Sun Devils,Arizona State Sun Devils,Arizona St
-280190183,2008-01-19,2,183,home,FALSE,Syracuse,71,Orange,Syracuse Orange,Syracuse
-280190183,2008-01-19,2,222,away,FALSE,Villanova,81,Wildcats,Villanova Wildcats,Villanova
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280190153,2008,regular-season,2008-01-19,2,153,home,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
+280190153,2008,regular-season,2008-01-19,2,120,away,FALSE,Maryland,82,Terrapins,Maryland Terrapins,Maryland
+280190235,2008,regular-season,2008-01-19,2,235,home,FALSE,Memphis,83,Tigers,Memphis Tigers,Memphis
+280190235,2008,regular-season,2008-01-19,2,2572,away,FALSE,Southern Miss,47,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
+280190142,2008,regular-season,2008-01-19,2,142,home,FALSE,Missouri,70,Tigers,Missouri Tigers,Missouri
+280190142,2008,regular-season,2008-01-19,2,2305,away,FALSE,Kansas,76,Jayhawks,Kansas Jayhawks,Kansas
+280190026,2008,regular-season,2008-01-19,2,26,home,FALSE,UCLA,63,Bruins,UCLA Bruins,UCLA
+280190026,2008,regular-season,2008-01-19,2,30,away,FALSE,USC,72,Trojans,USC Trojans,USC
+280190046,2008,regular-season,2008-01-19,2,46,home,FALSE,Georgetown,84,Hoyas,Georgetown Hoyas,Georgetown
+280190046,2008,regular-season,2008-01-19,2,87,away,FALSE,Notre Dame,65,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+280192633,2008,regular-season,2008-01-19,2,2633,home,FALSE,Tennessee,74,Volunteers,Tennessee Volunteers,Tennessee
+280192633,2008,regular-season,2008-01-19,2,194,away,FALSE,Ohio State,69,Buckeyes,Ohio State Buckeyes,Ohio State
+280190150,2008,regular-season,2008-01-19,2,150,home,FALSE,Duke,93,Blue Devils,Duke Blue Devils,Duke
+280190150,2008,regular-season,2008-01-19,2,228,away,FALSE,Clemson,80,Tigers,Clemson Tigers,Clemson
+280192306,2008,regular-season,2008-01-19,2,2306,home,FALSE,Kansas State,75,Wildcats,Kansas State Wildcats,Kansas St
+280192306,2008,regular-season,2008-01-19,2,245,away,FALSE,Texas A&M,54,Aggies,Texas A&M Aggies,Texas A&M
+280192754,2008,regular-season,2008-01-19,2,2754,home,FALSE,Youngstown State,69,Penguins,Youngstown State Penguins,Youngstown St
+280192754,2008,regular-season,2008-01-19,2,2086,away,FALSE,Butler,78,Bulldogs,Butler Bulldogs,Butler
+280192132,2008,regular-season,2008-01-19,2,2132,home,FALSE,Cincinnati,62,Bearcats,Cincinnati Bearcats,Cincinnati
+280192132,2008,regular-season,2008-01-19,2,221,away,FALSE,Pittsburgh,59,Panthers,Pittsburgh Panthers,Pitt
+280190238,2008,regular-season,2008-01-19,2,238,home,FALSE,Vanderbilt,92,Commodores,Vanderbilt Commodores,Vanderbilt
+280190238,2008,regular-season,2008-01-19,2,99,away,FALSE,LSU,76,Tigers,LSU Tigers,LSU
+280190275,2008,regular-season,2008-01-19,2,275,home,FALSE,Wisconsin,62,Badgers,Wisconsin Badgers,Wisconsin
+280190275,2008,regular-season,2008-01-19,2,77,away,FALSE,Northwestern,50,Wildcats,Northwestern Wildcats,Northwestern
+280190002,2008,regular-season,2008-01-19,2,2,home,FALSE,Auburn,80,Tigers,Auburn Tigers,Auburn
+280190002,2008,regular-season,2008-01-19,2,145,away,FALSE,Ole Miss,77,Rebels,Ole Miss Rebels,Ole Miss
+280190251,2008,regular-season,2008-01-19,2,251,home,FALSE,Texas,69,Longhorns,Texas Longhorns,Texas
+280190251,2008,regular-season,2008-01-19,2,38,away,FALSE,Colorado,67,Buffaloes,Colorado Buffaloes,Colorado
+280190045,2008,regular-season,2008-01-19,2,45,home,FALSE,George Washington,66,Revolutionaries,George Washington Revolutionaries,G Washington
+280190045,2008,regular-season,2008-01-19,2,2752,away,FALSE,Xavier,74,Musketeers,Xavier Musketeers,Xavier
+280190152,2008,regular-season,2008-01-19,3,152,home,FALSE,NC State,79,Wolfpack,NC State Wolfpack,NC State
+280190152,2008,regular-season,2008-01-19,3,2390,away,FALSE,Miami,77,Hurricanes,Miami Hurricanes,Miami
+280190024,2008,regular-season,2008-01-19,2,24,home,FALSE,Stanford,67,Cardinal,Stanford Cardinal,Stanford
+280190024,2008,regular-season,2008-01-19,2,9,away,FALSE,Arizona State,52,Sun Devils,Arizona State Sun Devils,Arizona St
+280190183,2008,regular-season,2008-01-19,2,183,home,FALSE,Syracuse,71,Orange,Syracuse Orange,Syracuse
+280190183,2008,regular-season,2008-01-19,2,222,away,FALSE,Villanova,81,Wildcats,Villanova Wildcats,Villanova

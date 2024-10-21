@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401096393,2019-02-05,4,2335,home,FALSE,Liberty,56,Flames,Liberty Flames,Liberty
-401096393,2019-02-05,4,56,away,FALSE,Stetson,68,Hatters,Stetson Hatters,Stetson
-401090619,2019-02-05,4,218,home,FALSE,Temple,76,Owls,Temple Owls,Temple
-401090619,2019-02-05,4,248,away,FALSE,Houston,65,Cougars,Houston Cougars,Houston
-401095937,2019-02-05,4,2344,home,FALSE,Longwood,54,Lancers,Longwood Lancers,Longwood
-401095937,2019-02-05,4,2272,away,FALSE,High Point,65,Panthers,High Point Panthers,High Point
-401095922,2019-02-05,4,2261,home,FALSE,Hampton,79,Lady Pirates,Hampton Lady Pirates,Hampton
-401095922,2019-02-05,4,2506,away,FALSE,Presbyterian,62,Blue Hose,Presbyterian Blue Hose,Presbyterian
-401095906,2019-02-05,4,2515,home,FALSE,Radford,79,Highlanders,Radford Highlanders,Radford
-401095906,2019-02-05,4,2241,away,FALSE,Gardner-Webb,69,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-401095887,2019-02-05,4,2127,home,FALSE,Charleston Southern,70,Buccaneers,Charleston Southern Buccaneers,Charleston So
-401095887,2019-02-05,4,2427,away,FALSE,UNC Asheville,59,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-401095865,2019-02-05,4,2097,home,FALSE,Campbell,61,Fighting Camels,Campbell Fighting Camels,Campbell
-401095865,2019-02-05,4,2908,away,FALSE,South Carolina Upstate,41,Spartans,South Carolina Upstate Spartans,SC Upstate
-401095849,2019-02-05,4,2454,home,FALSE,North Florida,72,Ospreys,North Florida Ospreys,North Florida
-401095849,2019-02-05,4,288,away,FALSE,Lipscomb,66,Bisons,Lipscomb Bisons,Lipscomb
-401095812,2019-02-05,4,294,home,FALSE,Jacksonville,68,Dolphins,Jacksonville Dolphins,Jacksonville
-401095812,2019-02-05,4,338,away,FALSE,Kennesaw State,53,Owls,Kennesaw State Owls,Kennesaw St
-401095790,2019-02-05,4,526,home,FALSE,Florida Gulf Coast,76,Eagles,Florida Gulf Coast Eagles,FGCU
-401095790,2019-02-05,4,2453,away,FALSE,North Alabama,51,Lions,North Alabama Lions,North Alabama
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401096393,2019,regular-season,2019-02-05,4,2335,home,FALSE,Liberty,56,Flames,Liberty Flames,Liberty
+401096393,2019,regular-season,2019-02-05,4,56,away,FALSE,Stetson,68,Hatters,Stetson Hatters,Stetson
+401090619,2019,regular-season,2019-02-05,4,218,home,FALSE,Temple,76,Owls,Temple Owls,Temple
+401090619,2019,regular-season,2019-02-05,4,248,away,FALSE,Houston,65,Cougars,Houston Cougars,Houston
+401095937,2019,regular-season,2019-02-05,4,2344,home,FALSE,Longwood,54,Lancers,Longwood Lancers,Longwood
+401095937,2019,regular-season,2019-02-05,4,2272,away,FALSE,High Point,65,Panthers,High Point Panthers,High Point
+401095922,2019,regular-season,2019-02-05,4,2261,home,FALSE,Hampton,79,Lady Pirates,Hampton Lady Pirates,Hampton
+401095922,2019,regular-season,2019-02-05,4,2506,away,FALSE,Presbyterian,62,Blue Hose,Presbyterian Blue Hose,Presbyterian
+401095906,2019,regular-season,2019-02-05,4,2515,home,FALSE,Radford,79,Highlanders,Radford Highlanders,Radford
+401095906,2019,regular-season,2019-02-05,4,2241,away,FALSE,Gardner-Webb,69,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+401095887,2019,regular-season,2019-02-05,4,2127,home,FALSE,Charleston Southern,70,Buccaneers,Charleston Southern Buccaneers,Charleston So
+401095887,2019,regular-season,2019-02-05,4,2427,away,FALSE,UNC Asheville,59,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+401095865,2019,regular-season,2019-02-05,4,2097,home,FALSE,Campbell,61,Fighting Camels,Campbell Fighting Camels,Campbell
+401095865,2019,regular-season,2019-02-05,4,2908,away,FALSE,South Carolina Upstate,41,Spartans,South Carolina Upstate Spartans,SC Upstate
+401095849,2019,regular-season,2019-02-05,4,2454,home,FALSE,North Florida,72,Ospreys,North Florida Ospreys,North Florida
+401095849,2019,regular-season,2019-02-05,4,288,away,FALSE,Lipscomb,66,Bisons,Lipscomb Bisons,Lipscomb
+401095812,2019,regular-season,2019-02-05,4,294,home,FALSE,Jacksonville,68,Dolphins,Jacksonville Dolphins,Jacksonville
+401095812,2019,regular-season,2019-02-05,4,338,away,FALSE,Kennesaw State,53,Owls,Kennesaw State Owls,Kennesaw St
+401095790,2019,regular-season,2019-02-05,4,526,home,FALSE,Florida Gulf Coast,76,Eagles,Florida Gulf Coast Eagles,FGCU
+401095790,2019,regular-season,2019-02-05,4,2453,away,FALSE,North Alabama,51,Lions,North Alabama Lions,North Alabama

@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270090041,2007-01-09,2,41,home,FALSE,UConn,106,Huskies,UConn Huskies,UConn
-270090041,2007-01-09,2,2550,away,FALSE,Seton Hall,58,Pirates,Seton Hall Pirates,Seton Hall
-270090045,2007-01-09,2,45,home,FALSE,George Washington,57,Revolutionaries,George Washington Revolutionaries,G Washington
-270090045,2007-01-09,2,257,away,FALSE,Richmond,50,Spiders,Richmond Spiders,Richmond
-270090221,2007-01-09,3,221,home,FALSE,Pittsburgh,91,Panthers,Pittsburgh Panthers,Pitt
-270090221,2007-01-09,3,269,away,FALSE,Marquette,87,Golden Eagles,Marquette Golden Eagles,Marquette
-270090046,2007-01-09,2,46,home,FALSE,Georgetown,54,Hoyas,Georgetown Hoyas,Georgetown
-270090046,2007-01-09,2,97,away,FALSE,Louisville,57,Cardinals,Louisville Cardinals,Louisville
-270092229,2007-01-09,2,2229,home,FALSE,Florida International,52,Panthers,Florida International Panthers,FIU
-270092229,2007-01-09,2,2393,away,FALSE,Middle Tennessee,86,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-270090305,2007-01-09,2,305,home,FALSE,DePaul,63,Blue Demons,DePaul Blue Demons,DePaul
-270090305,2007-01-09,2,277,away,FALSE,West Virginia,74,Mountaineers,West Virginia Mountaineers,West Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270090041,2007,regular-season,2007-01-09,2,41,home,FALSE,UConn,106,Huskies,UConn Huskies,UConn
+270090041,2007,regular-season,2007-01-09,2,2550,away,FALSE,Seton Hall,58,Pirates,Seton Hall Pirates,Seton Hall
+270090045,2007,regular-season,2007-01-09,2,45,home,FALSE,George Washington,57,Revolutionaries,George Washington Revolutionaries,G Washington
+270090045,2007,regular-season,2007-01-09,2,257,away,FALSE,Richmond,50,Spiders,Richmond Spiders,Richmond
+270090221,2007,regular-season,2007-01-09,3,221,home,FALSE,Pittsburgh,91,Panthers,Pittsburgh Panthers,Pitt
+270090221,2007,regular-season,2007-01-09,3,269,away,FALSE,Marquette,87,Golden Eagles,Marquette Golden Eagles,Marquette
+270090046,2007,regular-season,2007-01-09,2,46,home,FALSE,Georgetown,54,Hoyas,Georgetown Hoyas,Georgetown
+270090046,2007,regular-season,2007-01-09,2,97,away,FALSE,Louisville,57,Cardinals,Louisville Cardinals,Louisville
+270092229,2007,regular-season,2007-01-09,2,2229,home,FALSE,Florida International,52,Panthers,Florida International Panthers,FIU
+270092229,2007,regular-season,2007-01-09,2,2393,away,FALSE,Middle Tennessee,86,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+270090305,2007,regular-season,2007-01-09,2,305,home,FALSE,DePaul,63,Blue Demons,DePaul Blue Demons,DePaul
+270090305,2007,regular-season,2007-01-09,2,277,away,FALSE,West Virginia,74,Mountaineers,West Virginia Mountaineers,West Virginia

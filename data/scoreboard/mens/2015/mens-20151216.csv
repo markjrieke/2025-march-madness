@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400820657,2015-12-16,2,153,home,FALSE,North Carolina,96,Tar Heels,North Carolina Tar Heels,North Carolina
-400820657,2015-12-16,2,2655,away,FALSE,Tulane,72,Green Wave,Tulane Green Wave,Tulane
-400813824,2015-12-16,2,12,home,FALSE,Arizona,92,Wildcats,Arizona Wildcats,Arizona
-400813824,2015-12-16,2,2464,away,FALSE,Northern Arizona,37,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
-400831688,2015-12-16,2,239,home,TRUE,Baylor,104,Bears,Baylor Bears,Baylor
-400831688,2015-12-16,2,2810,away,TRUE,Hardin-Simmons,59,Cowboys,Hardin-Simmons Cowboys,Hardin-Sim
-400830505,2015-12-16,2,97,home,FALSE,Louisville,94,Cardinals,Louisville Cardinals,Louisville
-400830505,2015-12-16,2,338,away,FALSE,Kennesaw State,57,Owls,Kennesaw State Owls,Kennesaw St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400820657,2016,regular-season,2015-12-16,2,153,home,FALSE,North Carolina,96,Tar Heels,North Carolina Tar Heels,North Carolina
+400820657,2016,regular-season,2015-12-16,2,2655,away,FALSE,Tulane,72,Green Wave,Tulane Green Wave,Tulane
+400813824,2016,regular-season,2015-12-16,2,12,home,FALSE,Arizona,92,Wildcats,Arizona Wildcats,Arizona
+400813824,2016,regular-season,2015-12-16,2,2464,away,FALSE,Northern Arizona,37,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+400831688,2016,regular-season,2015-12-16,2,239,home,TRUE,Baylor,104,Bears,Baylor Bears,Baylor
+400831688,2016,regular-season,2015-12-16,2,2810,away,TRUE,Hardin-Simmons,59,Cowboys,Hardin-Simmons Cowboys,Hardin-Sim
+400830505,2016,regular-season,2015-12-16,2,97,home,FALSE,Louisville,94,Cardinals,Louisville Cardinals,Louisville
+400830505,2016,regular-season,2015-12-16,2,338,away,FALSE,Kennesaw State,57,Owls,Kennesaw State Owls,Kennesaw St

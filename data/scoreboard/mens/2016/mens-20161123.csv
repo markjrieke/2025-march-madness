@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400915262,2016-11-23,2,150,home,FALSE,Duke,88,Blue Devils,Duke Blue Devils,Duke
-400915262,2016-11-23,2,2729,away,FALSE,William & Mary,67,Tribe,William & Mary Tribe,William & Mary
-400910779,2016-11-23,2,2579,home,FALSE,South Carolina,61,Gamecocks,South Carolina Gamecocks,South Carolina
-400910779,2016-11-23,2,130,away,FALSE,Michigan,46,Wolverines,Michigan Wolverines,Michigan
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400915262,2017,regular-season,2016-11-23,2,150,home,FALSE,Duke,88,Blue Devils,Duke Blue Devils,Duke
+400915262,2017,regular-season,2016-11-23,2,2729,away,FALSE,William & Mary,67,Tribe,William & Mary Tribe,William & Mary
+400910779,2017,regular-season,2016-11-23,2,2579,home,FALSE,South Carolina,61,Gamecocks,South Carolina Gamecocks,South Carolina
+400910779,2017,regular-season,2016-11-23,2,130,away,FALSE,Michigan,46,Wolverines,Michigan Wolverines,Michigan

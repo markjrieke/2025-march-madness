@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400502811,2014-01-25,2,2390,home,FALSE,Miami,52,Hurricanes,Miami Hurricanes,Miami
-400502811,2014-01-25,2,183,away,FALSE,Syracuse,64,Orange,Syracuse Orange,Syracuse
-400510000,2014-01-25,2,127,home,FALSE,Michigan State,75,Spartans,Michigan State Spartans,Michigan St
-400510000,2014-01-25,2,130,away,FALSE,Michigan,80,Wolverines,Michigan Wolverines,Michigan
-400504544,2014-01-25,3,269,home,FALSE,Marquette,85,Golden Eagles,Marquette Golden Eagles,Marquette
-400504544,2014-01-25,3,222,away,FALSE,Villanova,94,Wildcats,Villanova Wildcats,Villanova
-400500090,2014-01-25,2,2181,home,FALSE,Drake,61,Bulldogs,Drake Bulldogs,Drake
-400500090,2014-01-25,2,2724,away,FALSE,Wichita State,78,Shockers,Wichita State Shockers,Wichita St
-400506384,2014-01-25,2,57,home,FALSE,Florida,67,Gators,Florida Gators,Florida
-400506384,2014-01-25,2,2633,away,FALSE,Tennessee,41,Volunteers,Tennessee Volunteers,Tennessee
-400505578,2014-01-25,3,328,home,FALSE,Utah State,69,Aggies,Utah State Aggies,Utah State
-400505578,2014-01-25,3,21,away,FALSE,San Diego State,74,Aztecs,San Diego State Aztecs,San Diego St
-400498369,2014-01-25,2,2628,home,FALSE,TCU,69,Horned Frogs,TCU Horned Frogs,TCU
-400498369,2014-01-25,2,2305,away,FALSE,Kansas,91,Jayhawks,Kansas Jayhawks,Kansas
-400509999,2014-01-25,2,2509,home,FALSE,Purdue,58,Boilermakers,Purdue Boilermakers,Purdue
-400509999,2014-01-25,2,275,away,FALSE,Wisconsin,72,Badgers,Wisconsin Badgers,Wisconsin
-400509998,2014-01-25,2,77,home,FALSE,Northwestern,50,Wildcats,Northwestern Wildcats,Northwestern
-400509998,2014-01-25,2,2294,away,FALSE,Iowa,76,Hawkeyes,Iowa Hawkeyes,Iowa
-400498367,2014-01-25,2,197,home,FALSE,Oklahoma State,81,Cowboys,Oklahoma State Cowboys,Oklahoma St
-400498367,2014-01-25,2,277,away,FALSE,West Virginia,75,Mountaineers,West Virginia Mountaineers,West Virginia
-400498365,2014-01-25,2,66,home,FALSE,Iowa State,81,Cyclones,Iowa State Cyclones,Iowa State
-400498365,2014-01-25,2,2306,away,FALSE,Kansas State,75,Wildcats,Kansas State Wildcats,Kansas St
-400502810,2014-01-25,2,150,home,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
-400502810,2014-01-25,2,52,away,FALSE,Florida State,56,Seminoles,Florida State Seminoles,Florida St
-400502814,2014-01-25,2,120,home,FALSE,Maryland,79,Terrapins,Maryland Terrapins,Maryland
-400502814,2014-01-25,2,221,away,FALSE,Pittsburgh,83,Panthers,Pittsburgh Panthers,Pitt
-400507020,2014-01-25,2,239,home,FALSE,Baylor,60,Bears,Baylor Bears,Baylor
-400507020,2014-01-25,2,251,away,FALSE,Texas,74,Longhorns,Texas Longhorns,Texas
-400498368,2014-01-25,2,2641,home,FALSE,Texas Tech,65,Red Raiders,Texas Tech Red Raiders,Texas Tech
-400498368,2014-01-25,2,201,away,FALSE,Oklahoma,74,Sooners,Oklahoma Sooners,Oklahoma
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400502811,2014,regular-season,2014-01-25,2,2390,home,FALSE,Miami,52,Hurricanes,Miami Hurricanes,Miami
+400502811,2014,regular-season,2014-01-25,2,183,away,FALSE,Syracuse,64,Orange,Syracuse Orange,Syracuse
+400510000,2014,regular-season,2014-01-25,2,127,home,FALSE,Michigan State,75,Spartans,Michigan State Spartans,Michigan St
+400510000,2014,regular-season,2014-01-25,2,130,away,FALSE,Michigan,80,Wolverines,Michigan Wolverines,Michigan
+400504544,2014,regular-season,2014-01-25,3,269,home,FALSE,Marquette,85,Golden Eagles,Marquette Golden Eagles,Marquette
+400504544,2014,regular-season,2014-01-25,3,222,away,FALSE,Villanova,94,Wildcats,Villanova Wildcats,Villanova
+400500090,2014,regular-season,2014-01-25,2,2181,home,FALSE,Drake,61,Bulldogs,Drake Bulldogs,Drake
+400500090,2014,regular-season,2014-01-25,2,2724,away,FALSE,Wichita State,78,Shockers,Wichita State Shockers,Wichita St
+400506384,2014,regular-season,2014-01-25,2,57,home,FALSE,Florida,67,Gators,Florida Gators,Florida
+400506384,2014,regular-season,2014-01-25,2,2633,away,FALSE,Tennessee,41,Volunteers,Tennessee Volunteers,Tennessee
+400505578,2014,regular-season,2014-01-25,3,328,home,FALSE,Utah State,69,Aggies,Utah State Aggies,Utah State
+400505578,2014,regular-season,2014-01-25,3,21,away,FALSE,San Diego State,74,Aztecs,San Diego State Aztecs,San Diego St
+400498369,2014,regular-season,2014-01-25,2,2628,home,FALSE,TCU,69,Horned Frogs,TCU Horned Frogs,TCU
+400498369,2014,regular-season,2014-01-25,2,2305,away,FALSE,Kansas,91,Jayhawks,Kansas Jayhawks,Kansas
+400509999,2014,regular-season,2014-01-25,2,2509,home,FALSE,Purdue,58,Boilermakers,Purdue Boilermakers,Purdue
+400509999,2014,regular-season,2014-01-25,2,275,away,FALSE,Wisconsin,72,Badgers,Wisconsin Badgers,Wisconsin
+400509998,2014,regular-season,2014-01-25,2,77,home,FALSE,Northwestern,50,Wildcats,Northwestern Wildcats,Northwestern
+400509998,2014,regular-season,2014-01-25,2,2294,away,FALSE,Iowa,76,Hawkeyes,Iowa Hawkeyes,Iowa
+400498367,2014,regular-season,2014-01-25,2,197,home,FALSE,Oklahoma State,81,Cowboys,Oklahoma State Cowboys,Oklahoma St
+400498367,2014,regular-season,2014-01-25,2,277,away,FALSE,West Virginia,75,Mountaineers,West Virginia Mountaineers,West Virginia
+400498365,2014,regular-season,2014-01-25,2,66,home,FALSE,Iowa State,81,Cyclones,Iowa State Cyclones,Iowa State
+400498365,2014,regular-season,2014-01-25,2,2306,away,FALSE,Kansas State,75,Wildcats,Kansas State Wildcats,Kansas St
+400502810,2014,regular-season,2014-01-25,2,150,home,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
+400502810,2014,regular-season,2014-01-25,2,52,away,FALSE,Florida State,56,Seminoles,Florida State Seminoles,Florida St
+400502814,2014,regular-season,2014-01-25,2,120,home,FALSE,Maryland,79,Terrapins,Maryland Terrapins,Maryland
+400502814,2014,regular-season,2014-01-25,2,221,away,FALSE,Pittsburgh,83,Panthers,Pittsburgh Panthers,Pitt
+400507020,2014,regular-season,2014-01-25,2,239,home,FALSE,Baylor,60,Bears,Baylor Bears,Baylor
+400507020,2014,regular-season,2014-01-25,2,251,away,FALSE,Texas,74,Longhorns,Texas Longhorns,Texas
+400498368,2014,regular-season,2014-01-25,2,2641,home,FALSE,Texas Tech,65,Red Raiders,Texas Tech Red Raiders,Texas Tech
+400498368,2014,regular-season,2014-01-25,2,201,away,FALSE,Oklahoma,74,Sooners,Oklahoma Sooners,Oklahoma

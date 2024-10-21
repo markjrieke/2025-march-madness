@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401262374,2020-12-12,2,142,home,FALSE,Missouri,81,Tigers,Missouri Tigers,Missouri
-401262374,2020-12-12,2,356,away,FALSE,Illinois,78,Fighting Illini,Illinois Fighting Illini,Illinois
-401258875,2020-12-12,2,2633,home,FALSE,Tennessee,65,Volunteers,Tennessee Volunteers,Tennessee
-401258875,2020-12-12,2,2132,away,FALSE,Cincinnati,56,Bearcats,Cincinnati Bearcats,Cincinnati
-401268610,2020-12-12,2,153,home,FALSE,North Carolina,73,Tar Heels,North Carolina Tar Heels,North Carolina
-401268610,2020-12-12,2,2428,away,FALSE,North Carolina Central,67,Eagles,North Carolina Central Eagles,NC Central
-401257378,2020-12-12,2,2641,home,TRUE,Texas Tech,77,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401257378,2020-12-12,2,357,away,TRUE,Texas A&M-Corpus Christi,57,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-401256760,2020-12-12,2,52,home,FALSE,Florida State,83,Seminoles,Florida State Seminoles,Florida St
-401256760,2020-12-12,2,57,away,FALSE,Florida,71,Gators,Florida Gators,Florida
-401261643,2020-12-12,0,2250,home,FALSE,Gonzaga,0,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401261643,2020-12-12,0,2464,away,FALSE,Northern Arizona,0,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
-401261571,2020-12-12,0,248,home,FALSE,Houston,0,Cougars,Houston Cougars,Houston
-401261571,2020-12-12,0,242,away,FALSE,Rice,0,Owls,Rice Owls,Rice
-401260335,2020-12-12,0,150,home,FALSE,Duke,0,Blue Devils,Duke Blue Devils,Duke
-401260335,2020-12-12,0,2127,away,FALSE,Charleston Southern,0,Buccaneers,Charleston Southern Buccaneers,Charleston So
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401262374,2021,regular-season,2020-12-12,2,142,home,FALSE,Missouri,81,Tigers,Missouri Tigers,Missouri
+401262374,2021,regular-season,2020-12-12,2,356,away,FALSE,Illinois,78,Fighting Illini,Illinois Fighting Illini,Illinois
+401258875,2021,regular-season,2020-12-12,2,2633,home,FALSE,Tennessee,65,Volunteers,Tennessee Volunteers,Tennessee
+401258875,2021,regular-season,2020-12-12,2,2132,away,FALSE,Cincinnati,56,Bearcats,Cincinnati Bearcats,Cincinnati
+401268610,2021,regular-season,2020-12-12,2,153,home,FALSE,North Carolina,73,Tar Heels,North Carolina Tar Heels,North Carolina
+401268610,2021,regular-season,2020-12-12,2,2428,away,FALSE,North Carolina Central,67,Eagles,North Carolina Central Eagles,NC Central
+401257378,2021,regular-season,2020-12-12,2,2641,home,TRUE,Texas Tech,77,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401257378,2021,regular-season,2020-12-12,2,357,away,TRUE,Texas A&M-Corpus Christi,57,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+401256760,2021,regular-season,2020-12-12,2,52,home,FALSE,Florida State,83,Seminoles,Florida State Seminoles,Florida St
+401256760,2021,regular-season,2020-12-12,2,57,away,FALSE,Florida,71,Gators,Florida Gators,Florida
+401261643,2021,regular-season,2020-12-12,0,2250,home,FALSE,Gonzaga,0,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401261643,2021,regular-season,2020-12-12,0,2464,away,FALSE,Northern Arizona,0,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+401261571,2021,regular-season,2020-12-12,0,248,home,FALSE,Houston,0,Cougars,Houston Cougars,Houston
+401261571,2021,regular-season,2020-12-12,0,242,away,FALSE,Rice,0,Owls,Rice Owls,Rice
+401260335,2021,regular-season,2020-12-12,0,150,home,FALSE,Duke,0,Blue Devils,Duke Blue Devils,Duke
+401260335,2021,regular-season,2020-12-12,0,2127,away,FALSE,Charleston Southern,0,Buccaneers,Charleston Southern Buccaneers,Charleston So

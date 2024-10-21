@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253492166,2005-12-15,2,2166,home,FALSE,Davidson,112,Wildcats,Davidson Wildcats,Davidson
-253492166,2005-12-15,2,117,away,FALSE,St. Mary's (MD),59,Seahawks,St. Mary's (MD) Seahawks,St Mary Md
-253490236,2005-12-15,2,236,home,FALSE,Chattanooga,92,Mocs,Chattanooga Mocs,Chattanooga
-253490236,2005-12-15,2,2671,away,FALSE,Virginia Intermont,62,Cobras,Virginia Intermont Cobras,Va Intrmnt
-253490231,2005-12-15,2,231,home,FALSE,Furman,99,Paladins,Furman Paladins,Furman
-253490231,2005-12-15,2,2553,away,FALSE,Sewanee,69,Tigers,Sewanee Tigers,Sewanee
-253490058,2005-12-15,2,58,home,FALSE,South Florida,62,Bulls,South Florida Bulls,South Florida
-253490058,2005-12-15,2,2226,away,FALSE,Florida Atlantic,44,Owls,Florida Atlantic Owls,FAU
-253492643,2005-12-15,2,2643,home,FALSE,The Citadel,73,Bulldogs,The Citadel Bulldogs,The Citadel
-253492643,2005-12-15,2,2691,away,FALSE,Webber International,56,Warriors,Webber International Warriors,Webber Int
-253490164,2005-12-15,2,164,home,FALSE,Rutgers,91,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-253490164,2005-12-15,2,311,away,FALSE,Maine,56,Black Bears,Maine Black Bears,Maine
-253492653,2005-12-15,2,2653,home,FALSE,Troy,71,Trojans,Troy Trojans,Troy
-253492653,2005-12-15,2,2011,away,FALSE,Alabama State,53,Hornets,Alabama State Hornets,Alabama St
-253492504,2005-12-15,2,2504,home,FALSE,Prairie View A&M,71,Panthers,Prairie View A&M Panthers,Prairie View
-253492504,2005-12-15,2,2542,away,FALSE,Savannah State,43,Tigers,Savannah State Tigers,Savannah St
-253490344,2005-12-15,2,344,home,FALSE,Mississippi State,104,Bulldogs,Mississippi State Bulldogs,Mississippi St
-253490344,2005-12-15,2,55,away,FALSE,Jacksonville State,80,Gamecocks,Jacksonville State Gamecocks,Jax State
-253490275,2005-12-15,2,275,home,FALSE,Wisconsin,74,Badgers,Wisconsin Badgers,Wisconsin
-253490275,2005-12-15,2,270,away,FALSE,Milwaukee,68,Panthers,Milwaukee Panthers,Milwaukee
-253490145,2005-12-15,2,145,home,FALSE,Ole Miss,69,Rebels,Ole Miss Rebels,Ole Miss
-253490145,2005-12-15,2,2447,away,FALSE,Nicholls,43,Colonels,Nicholls Colonels,Nicholls
-253490309,2005-12-15,2,309,home,FALSE,Louisiana,95,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
-253490309,2005-12-15,2,198,away,FALSE,Oral Roberts,74,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-253490242,2005-12-15,2,242,home,FALSE,Rice,93,Owls,Rice Owls,Rice
-253490242,2005-12-15,2,2489,away,FALSE,Palm Beach Atlantic,54,Sailfish,Palm Beach Atlantic Sailfish,Palm Beach Atl
-253490008,2005-12-15,2,8,home,FALSE,Arkansas,79,Razorbacks,Arkansas Razorbacks,Arkansas
-253490008,2005-12-15,2,2623,away,FALSE,Missouri State,75,Bears,Missouri State Bears,Missouri St
-253492572,2005-12-15,2,2572,home,FALSE,Southern Miss,90,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
-253492572,2005-12-15,2,2730,away,FALSE,William Carey,57,Crusaders,William Carey Crusaders,Will Carey
-253490292,2005-12-15,2,292,home,FALSE,UT Rio Grande Valley,57,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-253490292,2005-12-15,2,326,away,FALSE,Texas State,58,Bobcats,Texas State Bobcats,Texas St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253492166,2006,regular-season,2005-12-15,2,2166,home,FALSE,Davidson,112,Wildcats,Davidson Wildcats,Davidson
+253492166,2006,regular-season,2005-12-15,2,117,away,FALSE,St. Mary's (MD),59,Seahawks,St. Mary's (MD) Seahawks,St Mary Md
+253490236,2006,regular-season,2005-12-15,2,236,home,FALSE,Chattanooga,92,Mocs,Chattanooga Mocs,Chattanooga
+253490236,2006,regular-season,2005-12-15,2,2671,away,FALSE,Virginia Intermont,62,Cobras,Virginia Intermont Cobras,Va Intrmnt
+253490231,2006,regular-season,2005-12-15,2,231,home,FALSE,Furman,99,Paladins,Furman Paladins,Furman
+253490231,2006,regular-season,2005-12-15,2,2553,away,FALSE,Sewanee,69,Tigers,Sewanee Tigers,Sewanee
+253490058,2006,regular-season,2005-12-15,2,58,home,FALSE,South Florida,62,Bulls,South Florida Bulls,South Florida
+253490058,2006,regular-season,2005-12-15,2,2226,away,FALSE,Florida Atlantic,44,Owls,Florida Atlantic Owls,FAU
+253492643,2006,regular-season,2005-12-15,2,2643,home,FALSE,The Citadel,73,Bulldogs,The Citadel Bulldogs,The Citadel
+253492643,2006,regular-season,2005-12-15,2,2691,away,FALSE,Webber International,56,Warriors,Webber International Warriors,Webber Int
+253490164,2006,regular-season,2005-12-15,2,164,home,FALSE,Rutgers,91,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+253490164,2006,regular-season,2005-12-15,2,311,away,FALSE,Maine,56,Black Bears,Maine Black Bears,Maine
+253492653,2006,regular-season,2005-12-15,2,2653,home,FALSE,Troy,71,Trojans,Troy Trojans,Troy
+253492653,2006,regular-season,2005-12-15,2,2011,away,FALSE,Alabama State,53,Hornets,Alabama State Hornets,Alabama St
+253492504,2006,regular-season,2005-12-15,2,2504,home,FALSE,Prairie View A&M,71,Panthers,Prairie View A&M Panthers,Prairie View
+253492504,2006,regular-season,2005-12-15,2,2542,away,FALSE,Savannah State,43,Tigers,Savannah State Tigers,Savannah St
+253490344,2006,regular-season,2005-12-15,2,344,home,FALSE,Mississippi State,104,Bulldogs,Mississippi State Bulldogs,Mississippi St
+253490344,2006,regular-season,2005-12-15,2,55,away,FALSE,Jacksonville State,80,Gamecocks,Jacksonville State Gamecocks,Jax State
+253490275,2006,regular-season,2005-12-15,2,275,home,FALSE,Wisconsin,74,Badgers,Wisconsin Badgers,Wisconsin
+253490275,2006,regular-season,2005-12-15,2,270,away,FALSE,Milwaukee,68,Panthers,Milwaukee Panthers,Milwaukee
+253490145,2006,regular-season,2005-12-15,2,145,home,FALSE,Ole Miss,69,Rebels,Ole Miss Rebels,Ole Miss
+253490145,2006,regular-season,2005-12-15,2,2447,away,FALSE,Nicholls,43,Colonels,Nicholls Colonels,Nicholls
+253490309,2006,regular-season,2005-12-15,2,309,home,FALSE,Louisiana,95,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+253490309,2006,regular-season,2005-12-15,2,198,away,FALSE,Oral Roberts,74,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+253490242,2006,regular-season,2005-12-15,2,242,home,FALSE,Rice,93,Owls,Rice Owls,Rice
+253490242,2006,regular-season,2005-12-15,2,2489,away,FALSE,Palm Beach Atlantic,54,Sailfish,Palm Beach Atlantic Sailfish,Palm Beach Atl
+253490008,2006,regular-season,2005-12-15,2,8,home,FALSE,Arkansas,79,Razorbacks,Arkansas Razorbacks,Arkansas
+253490008,2006,regular-season,2005-12-15,2,2623,away,FALSE,Missouri State,75,Bears,Missouri State Bears,Missouri St
+253492572,2006,regular-season,2005-12-15,2,2572,home,FALSE,Southern Miss,90,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
+253492572,2006,regular-season,2005-12-15,2,2730,away,FALSE,William Carey,57,Crusaders,William Carey Crusaders,Will Carey
+253490292,2006,regular-season,2005-12-15,2,292,home,FALSE,UT Rio Grande Valley,57,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+253490292,2006,regular-season,2005-12-15,2,326,away,FALSE,Texas State,58,Bobcats,Texas State Bobcats,Texas St

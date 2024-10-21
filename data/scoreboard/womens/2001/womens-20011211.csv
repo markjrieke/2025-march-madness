@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213450275,2001-12-11,2,275,home,FALSE,Wisconsin,80,Badgers,Wisconsin Badgers,Wisconsin
-213450275,2001-12-11,2,270,away,FALSE,Milwaukee,61,Panthers,Milwaukee Panthers,Milwaukee
-213452655,2001-12-11,2,2655,home,FALSE,Tulane,71,Green Wave,Tulane Green Wave,Tulane
-213452655,2001-12-11,2,2447,away,FALSE,Nicholls,48,Colonels,Nicholls Colonels,Nicholls
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213450275,2002,regular-season,2001-12-11,2,275,home,FALSE,Wisconsin,80,Badgers,Wisconsin Badgers,Wisconsin
+213450275,2002,regular-season,2001-12-11,2,270,away,FALSE,Milwaukee,61,Panthers,Milwaukee Panthers,Milwaukee
+213452655,2002,regular-season,2001-12-11,2,2655,home,FALSE,Tulane,71,Green Wave,Tulane Green Wave,Tulane
+213452655,2002,regular-season,2001-12-11,2,2447,away,FALSE,Nicholls,48,Colonels,Nicholls Colonels,Nicholls

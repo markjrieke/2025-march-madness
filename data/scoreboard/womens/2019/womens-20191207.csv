@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401166786,2019-12-07,4,218,home,FALSE,Temple,71,Owls,Temple Owls,Temple
-401166786,2019-12-07,4,2579,away,FALSE,South Carolina,78,Gamecocks,South Carolina Gamecocks,South Carolina
-401177519,2019-12-07,4,2463,home,FALSE,Cal State Northridge,44,Matadors,Cal State Northridge Matadors,CSU Northridge
-401177519,2019-12-07,4,26,away,FALSE,UCLA,58,Bruins,UCLA Bruins,UCLA
-401174262,2019-12-07,4,84,home,FALSE,Indiana,72,Hoosiers,Indiana Hoosiers,Indiana
-401174262,2019-12-07,4,2454,away,FALSE,North Florida,45,Ospreys,North Florida Ospreys,North Florida
-401177605,2019-12-07,4,2739,home,FALSE,Green Bay,65,Phoenix,Green Bay Phoenix,Green Bay
-401177605,2019-12-07,4,305,away,FALSE,DePaul,76,Blue Demons,DePaul Blue Demons,DePaul
-401177179,2019-12-07,4,2638,home,FALSE,UTEP,43,Miners,UTEP Miners,UTEP
-401177179,2019-12-07,4,12,away,FALSE,Arizona,54,Wildcats,Arizona Wildcats,Arizona
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401166786,2020,regular-season,2019-12-07,4,218,home,FALSE,Temple,71,Owls,Temple Owls,Temple
+401166786,2020,regular-season,2019-12-07,4,2579,away,FALSE,South Carolina,78,Gamecocks,South Carolina Gamecocks,South Carolina
+401177519,2020,regular-season,2019-12-07,4,2463,home,FALSE,Cal State Northridge,44,Matadors,Cal State Northridge Matadors,CSU Northridge
+401177519,2020,regular-season,2019-12-07,4,26,away,FALSE,UCLA,58,Bruins,UCLA Bruins,UCLA
+401174262,2020,regular-season,2019-12-07,4,84,home,FALSE,Indiana,72,Hoosiers,Indiana Hoosiers,Indiana
+401174262,2020,regular-season,2019-12-07,4,2454,away,FALSE,North Florida,45,Ospreys,North Florida Ospreys,North Florida
+401177605,2020,regular-season,2019-12-07,4,2739,home,FALSE,Green Bay,65,Phoenix,Green Bay Phoenix,Green Bay
+401177605,2020,regular-season,2019-12-07,4,305,away,FALSE,DePaul,76,Blue Demons,DePaul Blue Demons,DePaul
+401177179,2020,regular-season,2019-12-07,4,2638,home,FALSE,UTEP,43,Miners,UTEP Miners,UTEP
+401177179,2020,regular-season,2019-12-07,4,12,away,FALSE,Arizona,54,Wildcats,Arizona Wildcats,Arizona

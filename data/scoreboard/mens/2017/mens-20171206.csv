@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400987227,2017-12-06,2,57,home,FALSE,Florida,59,Gators,Florida Gators,Florida
-400987227,2017-12-06,2,2350,away,FALSE,Loyola Chicago,65,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-400988516,2017-12-06,2,2752,home,FALSE,Xavier,96,Musketeers,Xavier Musketeers,Xavier
-400988516,2017-12-06,2,2309,away,FALSE,Kent State,70,Golden Flashes,Kent State Golden Flashes,Kent State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400987227,2018,regular-season,2017-12-06,2,57,home,FALSE,Florida,59,Gators,Florida Gators,Florida
+400987227,2018,regular-season,2017-12-06,2,2350,away,FALSE,Loyola Chicago,65,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+400988516,2018,regular-season,2017-12-06,2,2752,home,FALSE,Xavier,96,Musketeers,Xavier Musketeers,Xavier
+400988516,2018,regular-season,2017-12-06,2,2309,away,FALSE,Kent State,70,Golden Flashes,Kent State Golden Flashes,Kent State

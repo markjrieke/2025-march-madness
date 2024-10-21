@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400915245,2016-11-18,2,62,home,FALSE,Hawai'i,68,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
-400915245,2016-11-18,2,153,away,FALSE,North Carolina,83,Tar Heels,North Carolina Tar Heels,North Carolina
-400915063,2016-11-18,2,127,home,FALSE,Michigan State,100,Spartans,Michigan State Spartans,Michigan St
-400915063,2016-11-18,2,2400,away,FALSE,Mississippi Valley State,53,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
-400915727,2016-11-18,2,2250,home,FALSE,Gonzaga,109,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400915727,2016-11-18,2,2803,away,FALSE,Bryant,70,Bulldogs,Bryant Bulldogs,Bryant
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400915245,2017,regular-season,2016-11-18,2,62,home,FALSE,Hawai'i,68,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
+400915245,2017,regular-season,2016-11-18,2,153,away,FALSE,North Carolina,83,Tar Heels,North Carolina Tar Heels,North Carolina
+400915063,2017,regular-season,2016-11-18,2,127,home,FALSE,Michigan State,100,Spartans,Michigan State Spartans,Michigan St
+400915063,2017,regular-season,2016-11-18,2,2400,away,FALSE,Mississippi Valley State,53,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
+400915727,2017,regular-season,2016-11-18,2,2250,home,FALSE,Gonzaga,109,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400915727,2017,regular-season,2016-11-18,2,2803,away,FALSE,Bryant,70,Bulldogs,Bryant Bulldogs,Bryant

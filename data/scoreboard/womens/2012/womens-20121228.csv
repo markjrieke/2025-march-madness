@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323630356,2012-12-28,2,356,home,FALSE,Illinois,70,Fighting Illini,Illinois Fighting Illini,Illinois
-323630356,2012-12-28,2,61,away,FALSE,Georgia,59,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-323630096,2012-12-28,2,96,home,FALSE,Kentucky,90,Wildcats,Kentucky Wildcats,Kentucky
-323630096,2012-12-28,2,2016,away,FALSE,Alcorn State,23,Lady Braves,Alcorn State Lady Braves,Alcorn St
-323630025,2012-12-28,2,25,home,FALSE,California,70,Golden Bears,California Golden Bears,California
-323630025,2012-12-28,2,45,away,FALSE,George Washington,43,Revolutionaries,George Washington Revolutionaries,G Washington
-323632633,2012-12-28,2,2633,home,FALSE,Tennessee,75,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-323632633,2012-12-28,2,2166,away,FALSE,Davidson,40,Wildcats,Davidson Wildcats,Davidson
-323630153,2012-12-28,2,153,home,FALSE,North Carolina,85,Tar Heels,North Carolina Tar Heels,North Carolina
-323630153,2012-12-28,2,2193,away,FALSE,East Tennessee State,44,Bucs,East Tennessee State Bucs,ETSU
-323632492,2012-12-28,2,2492,home,FALSE,Pepperdine,46,Waves,Pepperdine Waves,Pepperdine
-323632492,2012-12-28,2,26,away,FALSE,UCLA,77,Bruins,UCLA Bruins,UCLA
-323630245,2012-12-28,2,245,home,FALSE,Texas A&M,74,Aggies,Texas A&M Aggies,Texas A&M
-323630245,2012-12-28,2,2504,away,FALSE,Prairie View A&M,52,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
-323630008,2012-12-28,2,8,home,FALSE,Arkansas,71,Razorbacks,Arkansas Razorbacks,Arkansas
-323630008,2012-12-28,2,2154,away,FALSE,Coppin State,57,Eagles,Coppin State Eagles,Coppin St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323630356,2013,regular-season,2012-12-28,2,356,home,FALSE,Illinois,70,Fighting Illini,Illinois Fighting Illini,Illinois
+323630356,2013,regular-season,2012-12-28,2,61,away,FALSE,Georgia,59,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+323630096,2013,regular-season,2012-12-28,2,96,home,FALSE,Kentucky,90,Wildcats,Kentucky Wildcats,Kentucky
+323630096,2013,regular-season,2012-12-28,2,2016,away,FALSE,Alcorn State,23,Lady Braves,Alcorn State Lady Braves,Alcorn St
+323630025,2013,regular-season,2012-12-28,2,25,home,FALSE,California,70,Golden Bears,California Golden Bears,California
+323630025,2013,regular-season,2012-12-28,2,45,away,FALSE,George Washington,43,Revolutionaries,George Washington Revolutionaries,G Washington
+323632633,2013,regular-season,2012-12-28,2,2633,home,FALSE,Tennessee,75,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+323632633,2013,regular-season,2012-12-28,2,2166,away,FALSE,Davidson,40,Wildcats,Davidson Wildcats,Davidson
+323630153,2013,regular-season,2012-12-28,2,153,home,FALSE,North Carolina,85,Tar Heels,North Carolina Tar Heels,North Carolina
+323630153,2013,regular-season,2012-12-28,2,2193,away,FALSE,East Tennessee State,44,Bucs,East Tennessee State Bucs,ETSU
+323632492,2013,regular-season,2012-12-28,2,2492,home,FALSE,Pepperdine,46,Waves,Pepperdine Waves,Pepperdine
+323632492,2013,regular-season,2012-12-28,2,26,away,FALSE,UCLA,77,Bruins,UCLA Bruins,UCLA
+323630245,2013,regular-season,2012-12-28,2,245,home,FALSE,Texas A&M,74,Aggies,Texas A&M Aggies,Texas A&M
+323630245,2013,regular-season,2012-12-28,2,2504,away,FALSE,Prairie View A&M,52,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
+323630008,2013,regular-season,2012-12-28,2,8,home,FALSE,Arkansas,71,Razorbacks,Arkansas Razorbacks,Arkansas
+323630008,2013,regular-season,2012-12-28,2,2154,away,FALSE,Coppin State,57,Eagles,Coppin State Eagles,Coppin St

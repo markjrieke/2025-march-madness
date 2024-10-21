@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401372590,2021-12-15,2,12,home,FALSE,Arizona,101,Wildcats,Arizona Wildcats,Arizona
-401372590,2021-12-15,2,2458,away,FALSE,Northern Colorado,76,Bears,Northern Colorado Bears,N Colorado
-401373643,2021-12-15,2,30,home,FALSE,USC,66,Trojans,USC Trojans,USC
-401373643,2021-12-15,2,300,away,FALSE,UC Irvine,61,Anteaters,UC Irvine Anteaters,UC Irvine
-401372041,2021-12-15,2,2752,home,FALSE,Xavier,86,Musketeers,Xavier Musketeers,Xavier
-401372041,2021-12-15,2,2413,away,FALSE,Morehead State,63,Eagles,Morehead State Eagles,Morehead St
-401373879,2021-12-15,0,26,home,FALSE,UCLA,0,Bruins,UCLA Bruins,UCLA
-401373879,2021-12-15,0,2011,away,FALSE,Alabama State,0,Hornets,Alabama State Hornets,Alabama St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401372590,2022,regular-season,2021-12-15,2,12,home,FALSE,Arizona,101,Wildcats,Arizona Wildcats,Arizona
+401372590,2022,regular-season,2021-12-15,2,2458,away,FALSE,Northern Colorado,76,Bears,Northern Colorado Bears,N Colorado
+401373643,2022,regular-season,2021-12-15,2,30,home,FALSE,USC,66,Trojans,USC Trojans,USC
+401373643,2022,regular-season,2021-12-15,2,300,away,FALSE,UC Irvine,61,Anteaters,UC Irvine Anteaters,UC Irvine
+401372041,2022,regular-season,2021-12-15,2,2752,home,FALSE,Xavier,86,Musketeers,Xavier Musketeers,Xavier
+401372041,2022,regular-season,2021-12-15,2,2413,away,FALSE,Morehead State,63,Eagles,Morehead State Eagles,Morehead St
+401373879,2022,regular-season,2021-12-15,0,26,home,FALSE,UCLA,0,Bruins,UCLA Bruins,UCLA
+401373879,2022,regular-season,2021-12-15,0,2011,away,FALSE,Alabama State,0,Hornets,Alabama State Hornets,Alabama St

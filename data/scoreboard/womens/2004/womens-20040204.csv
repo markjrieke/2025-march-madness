@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240350052,2004-02-04,2,52,home,FALSE,Florida State,80,Seminoles,Florida State Seminoles,Florida St
-240350052,2004-02-04,2,150,away,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
-240352641,2004-02-04,2,2641,home,FALSE,Texas Tech,67,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-240352641,2004-02-04,2,2305,away,FALSE,Kansas,44,Jayhawks,Kansas Jayhawks,Kansas
-240350066,2004-02-04,2,66,home,FALSE,Iowa State,47,Cyclones,Iowa State Cyclones,Iowa State
-240350066,2004-02-04,2,2306,away,FALSE,Kansas State,61,Wildcats,Kansas State Wildcats,Kansas St
-240350038,2004-02-04,2,38,home,FALSE,Colorado,78,Buffaloes,Colorado Buffaloes,Colorado
-240350038,2004-02-04,2,158,away,FALSE,Nebraska,63,Cornhuskers,Nebraska Cornhuskers,Nebraska
-240350087,2004-02-04,2,87,home,FALSE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-240350087,2004-02-04,2,46,away,FALSE,Georgetown,52,Hoyas,Georgetown Hoyas,Georgetown
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240350052,2004,regular-season,2004-02-04,2,52,home,FALSE,Florida State,80,Seminoles,Florida State Seminoles,Florida St
+240350052,2004,regular-season,2004-02-04,2,150,away,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
+240352641,2004,regular-season,2004-02-04,2,2641,home,FALSE,Texas Tech,67,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+240352641,2004,regular-season,2004-02-04,2,2305,away,FALSE,Kansas,44,Jayhawks,Kansas Jayhawks,Kansas
+240350066,2004,regular-season,2004-02-04,2,66,home,FALSE,Iowa State,47,Cyclones,Iowa State Cyclones,Iowa State
+240350066,2004,regular-season,2004-02-04,2,2306,away,FALSE,Kansas State,61,Wildcats,Kansas State Wildcats,Kansas St
+240350038,2004,regular-season,2004-02-04,2,38,home,FALSE,Colorado,78,Buffaloes,Colorado Buffaloes,Colorado
+240350038,2004,regular-season,2004-02-04,2,158,away,FALSE,Nebraska,63,Cornhuskers,Nebraska Cornhuskers,Nebraska
+240350087,2004,regular-season,2004-02-04,2,87,home,FALSE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+240350087,2004,regular-season,2004-02-04,2,46,away,FALSE,Georgetown,52,Hoyas,Georgetown Hoyas,Georgetown

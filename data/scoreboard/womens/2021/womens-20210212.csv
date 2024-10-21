@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401270828,2021-02-12,4,46,home,FALSE,Georgetown,40,Hoyas,Georgetown Hoyas,Georgetown
-401270828,2021-02-12,4,41,away,FALSE,UConn,64,Huskies,UConn Huskies,UConn
-401263234,2021-02-12,4,254,home,FALSE,Utah,58,Utes,Utah Utes,Utah
-401263234,2021-02-12,4,26,away,FALSE,UCLA,69,Bruins,UCLA Bruins,UCLA
-401263205,2021-02-12,4,12,home,FALSE,Arizona,60,Wildcats,Arizona Wildcats,Arizona
-401263205,2021-02-12,4,265,away,FALSE,Washington State,51,Cougars,Washington State Cougars,Washington St
-401267117,2021-02-12,4,2287,home,FALSE,Illinois State,52,Redbirds,Illinois State Redbirds,Illinois St
-401267117,2021-02-12,4,2623,away,FALSE,Missouri State,69,Lady Bears,Missouri State Lady Bears,Missouri St
-401263473,2021-02-12,0,2483,home,FALSE,Oregon,0,Ducks,Oregon Ducks,Oregon
-401263473,2021-02-12,0,25,away,FALSE,California,0,Golden Bears,California Golden Bears,California
-401270829,2021-02-12,0,305,home,FALSE,DePaul,0,Blue Demons,DePaul Blue Demons,DePaul
-401270829,2021-02-12,0,222,away,FALSE,Villanova,0,Wildcats,Villanova Wildcats,Villanova
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401270828,2021,regular-season,2021-02-12,4,46,home,FALSE,Georgetown,40,Hoyas,Georgetown Hoyas,Georgetown
+401270828,2021,regular-season,2021-02-12,4,41,away,FALSE,UConn,64,Huskies,UConn Huskies,UConn
+401263234,2021,regular-season,2021-02-12,4,254,home,FALSE,Utah,58,Utes,Utah Utes,Utah
+401263234,2021,regular-season,2021-02-12,4,26,away,FALSE,UCLA,69,Bruins,UCLA Bruins,UCLA
+401263205,2021,regular-season,2021-02-12,4,12,home,FALSE,Arizona,60,Wildcats,Arizona Wildcats,Arizona
+401263205,2021,regular-season,2021-02-12,4,265,away,FALSE,Washington State,51,Cougars,Washington State Cougars,Washington St
+401267117,2021,regular-season,2021-02-12,4,2287,home,FALSE,Illinois State,52,Redbirds,Illinois State Redbirds,Illinois St
+401267117,2021,regular-season,2021-02-12,4,2623,away,FALSE,Missouri State,69,Lady Bears,Missouri State Lady Bears,Missouri St
+401263473,2021,regular-season,2021-02-12,0,2483,home,FALSE,Oregon,0,Ducks,Oregon Ducks,Oregon
+401263473,2021,regular-season,2021-02-12,0,25,away,FALSE,California,0,Golden Bears,California Golden Bears,California
+401270829,2021,regular-season,2021-02-12,0,305,home,FALSE,DePaul,0,Blue Demons,DePaul Blue Demons,DePaul
+401270829,2021,regular-season,2021-02-12,0,222,away,FALSE,Villanova,0,Wildcats,Villanova Wildcats,Villanova

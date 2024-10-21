@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400506079,2014-01-16,2,12,home,FALSE,Arizona,91,Wildcats,Arizona Wildcats,Arizona
-400506079,2014-01-16,2,9,away,FALSE,Arizona State,68,Sun Devils,Arizona State Sun Devils,Arizona St
-400509985,2014-01-16,2,135,home,FALSE,Minnesota,63,Golden Gophers,Minnesota Golden Gophers,Minnesota
-400509985,2014-01-16,2,194,away,FALSE,Ohio State,53,Buckeyes,Ohio State Buckeyes,Ohio State
-400496962,2014-01-16,2,235,home,FALSE,Memphis,73,Tigers,Memphis Tigers,Memphis
-400496962,2014-01-16,2,41,away,FALSE,UConn,83,Huskies,UConn Huskies,UConn
-400496961,2014-01-16,2,97,home,FALSE,Louisville,91,Cardinals,Louisville Cardinals,Louisville
-400496961,2014-01-16,2,248,away,FALSE,Houston,52,Cougars,Houston Cougars,Houston
-400506176,2014-01-16,2,38,home,FALSE,Colorado,56,Buffaloes,Colorado Buffaloes,Colorado
-400506176,2014-01-16,2,26,away,FALSE,UCLA,69,Bruins,UCLA Bruins,UCLA
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400506079,2014,regular-season,2014-01-16,2,12,home,FALSE,Arizona,91,Wildcats,Arizona Wildcats,Arizona
+400506079,2014,regular-season,2014-01-16,2,9,away,FALSE,Arizona State,68,Sun Devils,Arizona State Sun Devils,Arizona St
+400509985,2014,regular-season,2014-01-16,2,135,home,FALSE,Minnesota,63,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400509985,2014,regular-season,2014-01-16,2,194,away,FALSE,Ohio State,53,Buckeyes,Ohio State Buckeyes,Ohio State
+400496962,2014,regular-season,2014-01-16,2,235,home,FALSE,Memphis,73,Tigers,Memphis Tigers,Memphis
+400496962,2014,regular-season,2014-01-16,2,41,away,FALSE,UConn,83,Huskies,UConn Huskies,UConn
+400496961,2014,regular-season,2014-01-16,2,97,home,FALSE,Louisville,91,Cardinals,Louisville Cardinals,Louisville
+400496961,2014,regular-season,2014-01-16,2,248,away,FALSE,Houston,52,Cougars,Houston Cougars,Houston
+400506176,2014,regular-season,2014-01-16,2,38,home,FALSE,Colorado,56,Buffaloes,Colorado Buffaloes,Colorado
+400506176,2014,regular-season,2014-01-16,2,26,away,FALSE,UCLA,69,Bruins,UCLA Bruins,UCLA

@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320530183,2012-02-22,2,183,home,FALSE,Syracuse,56,Orange,Syracuse Orange,Syracuse
-320530183,2012-02-22,2,58,away,FALSE,South Florida,48,Bulls,South Florida Bulls,South Florida
-320530245,2012-02-22,2,245,home,FALSE,Texas A&M,58,Aggies,Texas A&M Aggies,Texas A&M
-320530245,2012-02-22,2,2305,away,FALSE,Kansas,66,Jayhawks,Kansas Jayhawks,Kansas
-320530135,2012-02-22,2,135,home,FALSE,Minnesota,61,Golden Gophers,Minnesota Golden Gophers,Minnesota
-320530135,2012-02-22,2,127,away,FALSE,Michigan State,66,Spartans,Michigan State Spartans,Michigan St
-320530269,2012-02-22,2,269,home,FALSE,Marquette,82,Golden Eagles,Marquette Golden Eagles,Marquette
-320530269,2012-02-22,2,164,away,FALSE,Rutgers,65,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-320532287,2012-02-22,2,2287,home,FALSE,Illinois State,55,Redbirds,Illinois State Redbirds,Illinois St
-320532287,2012-02-22,2,2724,away,FALSE,Wichita State,68,Shockers,Wichita State Shockers,Wichita St
-320530087,2012-02-22,2,87,home,FALSE,Notre Dame,71,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-320530087,2012-02-22,2,277,away,FALSE,West Virginia,44,Mountaineers,West Virginia Mountaineers,West Virginia
-320532439,2012-02-22,2,2439,home,FALSE,UNLV,75,Rebels,UNLV Rebels,UNLV
-320532439,2012-02-22,2,68,away,FALSE,Boise State,58,Broncos,Boise State Broncos,Boise St
-320532325,2012-02-22,3,2325,home,FALSE,La Salle,79,Explorers,La Salle Explorers,La Salle
-320532325,2012-02-22,3,218,away,FALSE,Temple,80,Owls,Temple Owls,Temple
-320530084,2012-02-22,2,84,home,FALSE,Indiana,75,Hoosiers,Indiana Hoosiers,Indiana
-320530084,2012-02-22,2,2428,away,FALSE,North Carolina Central,56,Eagles,North Carolina Central Eagles,NC Central
-320530021,2012-02-22,3,21,home,FALSE,San Diego State,67,Aztecs,San Diego State Aztecs,San Diego St
-320530021,2012-02-22,3,2751,away,FALSE,Wyoming,58,Cowboys,Wyoming Cowboys,Wyoming
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320530183,2012,regular-season,2012-02-22,2,183,home,FALSE,Syracuse,56,Orange,Syracuse Orange,Syracuse
+320530183,2012,regular-season,2012-02-22,2,58,away,FALSE,South Florida,48,Bulls,South Florida Bulls,South Florida
+320530245,2012,regular-season,2012-02-22,2,245,home,FALSE,Texas A&M,58,Aggies,Texas A&M Aggies,Texas A&M
+320530245,2012,regular-season,2012-02-22,2,2305,away,FALSE,Kansas,66,Jayhawks,Kansas Jayhawks,Kansas
+320530135,2012,regular-season,2012-02-22,2,135,home,FALSE,Minnesota,61,Golden Gophers,Minnesota Golden Gophers,Minnesota
+320530135,2012,regular-season,2012-02-22,2,127,away,FALSE,Michigan State,66,Spartans,Michigan State Spartans,Michigan St
+320530269,2012,regular-season,2012-02-22,2,269,home,FALSE,Marquette,82,Golden Eagles,Marquette Golden Eagles,Marquette
+320530269,2012,regular-season,2012-02-22,2,164,away,FALSE,Rutgers,65,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+320532287,2012,regular-season,2012-02-22,2,2287,home,FALSE,Illinois State,55,Redbirds,Illinois State Redbirds,Illinois St
+320532287,2012,regular-season,2012-02-22,2,2724,away,FALSE,Wichita State,68,Shockers,Wichita State Shockers,Wichita St
+320530087,2012,regular-season,2012-02-22,2,87,home,FALSE,Notre Dame,71,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+320530087,2012,regular-season,2012-02-22,2,277,away,FALSE,West Virginia,44,Mountaineers,West Virginia Mountaineers,West Virginia
+320532439,2012,regular-season,2012-02-22,2,2439,home,FALSE,UNLV,75,Rebels,UNLV Rebels,UNLV
+320532439,2012,regular-season,2012-02-22,2,68,away,FALSE,Boise State,58,Broncos,Boise State Broncos,Boise St
+320532325,2012,regular-season,2012-02-22,3,2325,home,FALSE,La Salle,79,Explorers,La Salle Explorers,La Salle
+320532325,2012,regular-season,2012-02-22,3,218,away,FALSE,Temple,80,Owls,Temple Owls,Temple
+320530084,2012,regular-season,2012-02-22,2,84,home,FALSE,Indiana,75,Hoosiers,Indiana Hoosiers,Indiana
+320530084,2012,regular-season,2012-02-22,2,2428,away,FALSE,North Carolina Central,56,Eagles,North Carolina Central Eagles,NC Central
+320530021,2012,regular-season,2012-02-22,3,21,home,FALSE,San Diego State,67,Aztecs,San Diego State Aztecs,San Diego St
+320530021,2012,regular-season,2012-02-22,3,2751,away,FALSE,Wyoming,58,Cowboys,Wyoming Cowboys,Wyoming

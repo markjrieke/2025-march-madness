@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401597146,2024-01-24,2,333,home,FALSE,Alabama,79,Crimson Tide,Alabama Crimson Tide,Alabama
-401597146,2024-01-24,2,2,away,FALSE,Auburn,75,Tigers,Auburn Tigers,Auburn
-401600349,2024-01-24,3,77,home,FALSE,Northwestern,96,Wildcats,Northwestern Wildcats,Northwestern
-401600349,2024-01-24,3,356,away,FALSE,Illinois,91,Fighting Illini,Illinois Fighting Illini,Illinois
-401599501,2024-01-24,2,305,home,FALSE,DePaul,73,Blue Demons,DePaul Blue Demons,DePaul
-401599501,2024-01-24,2,269,away,FALSE,Marquette,86,Golden Eagles,Marquette Golden Eagles,Marquette
-401602096,2024-01-24,2,242,home,FALSE,Rice,56,Owls,Rice Owls,Rice
-401602096,2024-01-24,2,2226,away,FALSE,Florida Atlantic,69,Owls,Florida Atlantic Owls,FAU
-401603438,2024-01-24,2,66,home,FALSE,Iowa State,78,Cyclones,Iowa State Cyclones,Iowa State
-401603438,2024-01-24,2,2306,away,FALSE,Kansas State,67,Wildcats,Kansas State Wildcats,Kansas St
-401602981,2024-01-24,2,2440,home,FALSE,Nevada,77,Wolf Pack,Nevada Wolf Pack,Nevada
-401602981,2024-01-24,2,36,away,FALSE,Colorado State,64,Rams,Colorado State Rams,Colorado St
-401602989,2024-01-24,2,23,home,FALSE,San José State,75,Spartans,San José State Spartans,San José St
-401602989,2024-01-24,2,167,away,FALSE,New Mexico,95,Lobos,New Mexico Lobos,New Mexico
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401597146,2024,regular-season,2024-01-24,2,333,home,FALSE,Alabama,79,Crimson Tide,Alabama Crimson Tide,Alabama
+401597146,2024,regular-season,2024-01-24,2,2,away,FALSE,Auburn,75,Tigers,Auburn Tigers,Auburn
+401600349,2024,regular-season,2024-01-24,3,77,home,FALSE,Northwestern,96,Wildcats,Northwestern Wildcats,Northwestern
+401600349,2024,regular-season,2024-01-24,3,356,away,FALSE,Illinois,91,Fighting Illini,Illinois Fighting Illini,Illinois
+401599501,2024,regular-season,2024-01-24,2,305,home,FALSE,DePaul,73,Blue Demons,DePaul Blue Demons,DePaul
+401599501,2024,regular-season,2024-01-24,2,269,away,FALSE,Marquette,86,Golden Eagles,Marquette Golden Eagles,Marquette
+401602096,2024,regular-season,2024-01-24,2,242,home,FALSE,Rice,56,Owls,Rice Owls,Rice
+401602096,2024,regular-season,2024-01-24,2,2226,away,FALSE,Florida Atlantic,69,Owls,Florida Atlantic Owls,FAU
+401603438,2024,regular-season,2024-01-24,2,66,home,FALSE,Iowa State,78,Cyclones,Iowa State Cyclones,Iowa State
+401603438,2024,regular-season,2024-01-24,2,2306,away,FALSE,Kansas State,67,Wildcats,Kansas State Wildcats,Kansas St
+401602981,2024,regular-season,2024-01-24,2,2440,home,FALSE,Nevada,77,Wolf Pack,Nevada Wolf Pack,Nevada
+401602981,2024,regular-season,2024-01-24,2,36,away,FALSE,Colorado State,64,Rams,Colorado State Rams,Colorado St
+401602989,2024,regular-season,2024-01-24,2,23,home,FALSE,San José State,75,Spartans,San José State Spartans,San José St
+401602989,2024,regular-season,2024-01-24,2,167,away,FALSE,New Mexico,95,Lobos,New Mexico Lobos,New Mexico

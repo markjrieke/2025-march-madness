@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400992949,2017-12-11,2,2296,home,FALSE,Jackson State,60,Tigers,Jackson State Tigers,Jackson St
-400992949,2017-12-11,2,2225,away,FALSE,Fisk,53,Bulldogs,Fisk Bulldogs,Fisk
-400991934,2017-12-11,2,50,home,FALSE,Florida A&M,89,Rattlers,Florida A&M Rattlers,Florida A&M
-400991934,2017-12-11,2,2454,away,FALSE,North Florida,101,Ospreys,North Florida Ospreys,North Florida
-400991099,2017-12-11,2,261,home,FALSE,Vermont,81,Catamounts,Vermont Catamounts,Vermont
-400991099,2017-12-11,2,2561,away,FALSE,Siena,57,Saints,Siena Saints,Siena
-400990763,2017-12-11,2,42,home,FALSE,Hartford,86,Hawks,Hartford Hawks,Hartford
-400990763,2017-12-11,2,2529,away,FALSE,Sacred Heart,72,Pioneers,Sacred Heart Pioneers,Sacred Heart
-400988005,2017-12-11,2,58,home,FALSE,South Florida,53,Bulls,South Florida Bulls,South Florida
-400988005,2017-12-11,2,2229,away,FALSE,Florida International,65,Panthers,Florida International Panthers,FIU
-400986426,2017-12-11,2,77,home,FALSE,Northwestern,96,Wildcats,Northwestern Wildcats,Northwestern
-400986426,2017-12-11,2,2130,away,FALSE,Chicago State,31,Cougars,Chicago State Cougars,Chicago St
-400986137,2017-12-11,2,97,home,FALSE,Louisville,102,Cardinals,Louisville Cardinals,Louisville
-400986137,2017-12-11,2,2803,away,FALSE,Bryant,59,Bulldogs,Bryant Bulldogs,Bryant
-400986427,2017-12-11,2,135,home,FALSE,Minnesota,68,Golden Gophers,Minnesota Golden Gophers,Minnesota
-400986427,2017-12-11,2,2181,away,FALSE,Drake,67,Bulldogs,Drake Bulldogs,Drake
-400990628,2017-12-11,2,2253,home,FALSE,Grand Canyon,64,Lopes,Grand Canyon Lopes,Grand Canyon
-400990628,2017-12-11,2,2428,away,FALSE,North Carolina Central,59,Eagles,North Carolina Central Eagles,NC Central
-400988525,2017-12-11,2,305,home,FALSE,DePaul,83,Blue Demons,DePaul Blue Demons,DePaul
-400988525,2017-12-11,2,2010,away,FALSE,Alabama A&M,59,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
-400988263,2017-12-11,2,2483,home,FALSE,Oregon,74,Ducks,Oregon Ducks,Oregon
-400988263,2017-12-11,2,2640,away,FALSE,Texas Southern,68,Tigers,Texas Southern Tigers,Texas Southern
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400992949,2018,regular-season,2017-12-11,2,2296,home,FALSE,Jackson State,60,Tigers,Jackson State Tigers,Jackson St
+400992949,2018,regular-season,2017-12-11,2,2225,away,FALSE,Fisk,53,Bulldogs,Fisk Bulldogs,Fisk
+400991934,2018,regular-season,2017-12-11,2,50,home,FALSE,Florida A&M,89,Rattlers,Florida A&M Rattlers,Florida A&M
+400991934,2018,regular-season,2017-12-11,2,2454,away,FALSE,North Florida,101,Ospreys,North Florida Ospreys,North Florida
+400991099,2018,regular-season,2017-12-11,2,261,home,FALSE,Vermont,81,Catamounts,Vermont Catamounts,Vermont
+400991099,2018,regular-season,2017-12-11,2,2561,away,FALSE,Siena,57,Saints,Siena Saints,Siena
+400990763,2018,regular-season,2017-12-11,2,42,home,FALSE,Hartford,86,Hawks,Hartford Hawks,Hartford
+400990763,2018,regular-season,2017-12-11,2,2529,away,FALSE,Sacred Heart,72,Pioneers,Sacred Heart Pioneers,Sacred Heart
+400988005,2018,regular-season,2017-12-11,2,58,home,FALSE,South Florida,53,Bulls,South Florida Bulls,South Florida
+400988005,2018,regular-season,2017-12-11,2,2229,away,FALSE,Florida International,65,Panthers,Florida International Panthers,FIU
+400986426,2018,regular-season,2017-12-11,2,77,home,FALSE,Northwestern,96,Wildcats,Northwestern Wildcats,Northwestern
+400986426,2018,regular-season,2017-12-11,2,2130,away,FALSE,Chicago State,31,Cougars,Chicago State Cougars,Chicago St
+400986137,2018,regular-season,2017-12-11,2,97,home,FALSE,Louisville,102,Cardinals,Louisville Cardinals,Louisville
+400986137,2018,regular-season,2017-12-11,2,2803,away,FALSE,Bryant,59,Bulldogs,Bryant Bulldogs,Bryant
+400986427,2018,regular-season,2017-12-11,2,135,home,FALSE,Minnesota,68,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400986427,2018,regular-season,2017-12-11,2,2181,away,FALSE,Drake,67,Bulldogs,Drake Bulldogs,Drake
+400990628,2018,regular-season,2017-12-11,2,2253,home,FALSE,Grand Canyon,64,Lopes,Grand Canyon Lopes,Grand Canyon
+400990628,2018,regular-season,2017-12-11,2,2428,away,FALSE,North Carolina Central,59,Eagles,North Carolina Central Eagles,NC Central
+400988525,2018,regular-season,2017-12-11,2,305,home,FALSE,DePaul,83,Blue Demons,DePaul Blue Demons,DePaul
+400988525,2018,regular-season,2017-12-11,2,2010,away,FALSE,Alabama A&M,59,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+400988263,2018,regular-season,2017-12-11,2,2483,home,FALSE,Oregon,74,Ducks,Oregon Ducks,Oregon
+400988263,2018,regular-season,2017-12-11,2,2640,away,FALSE,Texas Southern,68,Tigers,Texas Southern Tigers,Texas Southern

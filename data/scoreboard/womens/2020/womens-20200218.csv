@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401178487,2020-02-18,4,2515,home,FALSE,Radford,88,Highlanders,Radford Highlanders,Radford
-401178487,2020-02-18,4,2344,away,FALSE,Longwood,76,Lancers,Longwood Lancers,Longwood
-401176747,2020-02-18,4,2908,home,FALSE,South Carolina Upstate,73,Spartans,South Carolina Upstate Spartans,SC Upstate
-401176747,2020-02-18,4,2261,away,FALSE,Hampton,86,Lady Pirates,Hampton Lady Pirates,Hampton
-401176725,2020-02-18,4,2506,home,FALSE,Presbyterian,64,Blue Hose,Presbyterian Blue Hose,Presbyterian
-401176725,2020-02-18,4,2241,away,FALSE,Gardner-Webb,49,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-401178908,2020-02-18,5,2612,home,FALSE,Saint Peter's,66,Peacocks,Saint Peter's Peacocks,Saint Peter's
-401178908,2020-02-18,5,2217,away,FALSE,Fairfield,63,Stags,Fairfield Stags,Fairfield
-401176701,2020-02-18,4,2127,home,FALSE,Charleston Southern,56,Buccaneers,Charleston Southern Buccaneers,Charleston So
-401176701,2020-02-18,4,2427,away,FALSE,UNC Asheville,54,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-401176674,2020-02-18,4,2737,home,FALSE,Winthrop,58,Eagles,Winthrop Eagles,Winthrop
-401176674,2020-02-18,4,2097,away,FALSE,Campbell,61,Fighting Camels,Campbell Fighting Camels,Campbell
-401176958,2020-02-18,4,2641,home,FALSE,Texas Tech,62,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-401176958,2020-02-18,4,239,away,FALSE,Baylor,77,Bears,Baylor Bears,Baylor
-401169361,2020-02-18,4,248,home,FALSE,Houston,65,Cougars,Houston Cougars,Houston
-401169361,2020-02-18,4,2132,away,FALSE,Cincinnati,74,Bearcats,Cincinnati Bearcats,Cincinnati
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401178487,2020,regular-season,2020-02-18,4,2515,home,FALSE,Radford,88,Highlanders,Radford Highlanders,Radford
+401178487,2020,regular-season,2020-02-18,4,2344,away,FALSE,Longwood,76,Lancers,Longwood Lancers,Longwood
+401176747,2020,regular-season,2020-02-18,4,2908,home,FALSE,South Carolina Upstate,73,Spartans,South Carolina Upstate Spartans,SC Upstate
+401176747,2020,regular-season,2020-02-18,4,2261,away,FALSE,Hampton,86,Lady Pirates,Hampton Lady Pirates,Hampton
+401176725,2020,regular-season,2020-02-18,4,2506,home,FALSE,Presbyterian,64,Blue Hose,Presbyterian Blue Hose,Presbyterian
+401176725,2020,regular-season,2020-02-18,4,2241,away,FALSE,Gardner-Webb,49,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+401178908,2020,regular-season,2020-02-18,5,2612,home,FALSE,Saint Peter's,66,Peacocks,Saint Peter's Peacocks,Saint Peter's
+401178908,2020,regular-season,2020-02-18,5,2217,away,FALSE,Fairfield,63,Stags,Fairfield Stags,Fairfield
+401176701,2020,regular-season,2020-02-18,4,2127,home,FALSE,Charleston Southern,56,Buccaneers,Charleston Southern Buccaneers,Charleston So
+401176701,2020,regular-season,2020-02-18,4,2427,away,FALSE,UNC Asheville,54,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+401176674,2020,regular-season,2020-02-18,4,2737,home,FALSE,Winthrop,58,Eagles,Winthrop Eagles,Winthrop
+401176674,2020,regular-season,2020-02-18,4,2097,away,FALSE,Campbell,61,Fighting Camels,Campbell Fighting Camels,Campbell
+401176958,2020,regular-season,2020-02-18,4,2641,home,FALSE,Texas Tech,62,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+401176958,2020,regular-season,2020-02-18,4,239,away,FALSE,Baylor,77,Bears,Baylor Bears,Baylor
+401169361,2020,regular-season,2020-02-18,4,248,home,FALSE,Houston,65,Cougars,Houston Cougars,Houston
+401169361,2020,regular-season,2020-02-18,4,2132,away,FALSE,Cincinnati,74,Bearcats,Cincinnati Bearcats,Cincinnati

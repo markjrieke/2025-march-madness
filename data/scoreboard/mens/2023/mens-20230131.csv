@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401484585,2023-01-31,2,333,home,FALSE,Alabama,101,Crimson Tide,Alabama Crimson Tide,Alabama
-401484585,2023-01-31,2,238,away,FALSE,Vanderbilt,44,Commodores,Vanderbilt Commodores,Vanderbilt
-401493417,2023-01-31,2,2305,home,FALSE,Kansas,90,Jayhawks,Kansas Jayhawks,Kansas
-401493417,2023-01-31,2,2306,away,FALSE,Kansas State,78,Wildcats,Kansas State Wildcats,Kansas St
-401493418,2023-01-31,2,2628,home,FALSE,TCU,76,Horned Frogs,TCU Horned Frogs,TCU
-401493418,2023-01-31,2,277,away,FALSE,West Virginia,72,Mountaineers,West Virginia Mountaineers,West Virginia
-401488464,2023-01-31,2,103,home,FALSE,Boston College,62,Eagles,Boston College Eagles,Boston College
-401488464,2023-01-31,2,228,away,FALSE,Clemson,54,Tigers,Clemson Tigers,Clemson
-401484926,2023-01-31,2,120,home,FALSE,Maryland,66,Terrapins,Maryland Terrapins,Maryland
-401484926,2023-01-31,2,84,away,FALSE,Indiana,55,Hoosiers,Indiana Hoosiers,Indiana
-401482842,2023-01-31,2,2440,home,FALSE,Nevada,75,Wolf Pack,Nevada Wolf Pack,Nevada
-401482842,2023-01-31,2,21,away,FALSE,San Diego State,66,Aztecs,San Diego State Aztecs,San Diego St
-401488467,2023-01-31,2,2390,home,FALSE,Miami,92,Hurricanes,Miami Hurricanes,Miami
-401488467,2023-01-31,2,259,away,FALSE,Virginia Tech,83,Hokies,Virginia Tech Hokies,Virginia Tech
-401485242,2023-01-31,2,305,home,FALSE,DePaul,76,Blue Demons,DePaul Blue Demons,DePaul
-401485242,2023-01-31,2,41,away,FALSE,UConn,90,Huskies,UConn Huskies,UConn
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401484585,2023,regular-season,2023-01-31,2,333,home,FALSE,Alabama,101,Crimson Tide,Alabama Crimson Tide,Alabama
+401484585,2023,regular-season,2023-01-31,2,238,away,FALSE,Vanderbilt,44,Commodores,Vanderbilt Commodores,Vanderbilt
+401493417,2023,regular-season,2023-01-31,2,2305,home,FALSE,Kansas,90,Jayhawks,Kansas Jayhawks,Kansas
+401493417,2023,regular-season,2023-01-31,2,2306,away,FALSE,Kansas State,78,Wildcats,Kansas State Wildcats,Kansas St
+401493418,2023,regular-season,2023-01-31,2,2628,home,FALSE,TCU,76,Horned Frogs,TCU Horned Frogs,TCU
+401493418,2023,regular-season,2023-01-31,2,277,away,FALSE,West Virginia,72,Mountaineers,West Virginia Mountaineers,West Virginia
+401488464,2023,regular-season,2023-01-31,2,103,home,FALSE,Boston College,62,Eagles,Boston College Eagles,Boston College
+401488464,2023,regular-season,2023-01-31,2,228,away,FALSE,Clemson,54,Tigers,Clemson Tigers,Clemson
+401484926,2023,regular-season,2023-01-31,2,120,home,FALSE,Maryland,66,Terrapins,Maryland Terrapins,Maryland
+401484926,2023,regular-season,2023-01-31,2,84,away,FALSE,Indiana,55,Hoosiers,Indiana Hoosiers,Indiana
+401482842,2023,regular-season,2023-01-31,2,2440,home,FALSE,Nevada,75,Wolf Pack,Nevada Wolf Pack,Nevada
+401482842,2023,regular-season,2023-01-31,2,21,away,FALSE,San Diego State,66,Aztecs,San Diego State Aztecs,San Diego St
+401488467,2023,regular-season,2023-01-31,2,2390,home,FALSE,Miami,92,Hurricanes,Miami Hurricanes,Miami
+401488467,2023,regular-season,2023-01-31,2,259,away,FALSE,Virginia Tech,83,Hokies,Virginia Tech Hokies,Virginia Tech
+401485242,2023,regular-season,2023-01-31,2,305,home,FALSE,DePaul,76,Blue Demons,DePaul Blue Demons,DePaul
+401485242,2023,regular-season,2023-01-31,2,41,away,FALSE,UConn,90,Huskies,UConn Huskies,UConn

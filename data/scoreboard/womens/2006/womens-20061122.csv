@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263260127,2006-11-22,2,127,home,FALSE,Michigan State,53,Spartans,Michigan State Spartans,Michigan St
-263260127,2006-11-22,2,2275,away,FALSE,Hofstra,57,Pride,Hofstra Pride,Hofstra
-263260252,2006-11-22,2,252,home,FALSE,BYU,77,Cougars,BYU Cougars,BYU
-263260252,2006-11-22,2,2541,away,FALSE,Santa Clara,63,Broncos,Santa Clara Broncos,Santa Clara
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263260127,2007,regular-season,2006-11-22,2,127,home,FALSE,Michigan State,53,Spartans,Michigan State Spartans,Michigan St
+263260127,2007,regular-season,2006-11-22,2,2275,away,FALSE,Hofstra,57,Pride,Hofstra Pride,Hofstra
+263260252,2007,regular-season,2006-11-22,2,252,home,FALSE,BYU,77,Cougars,BYU Cougars,BYU
+263260252,2007,regular-season,2006-11-22,2,2541,away,FALSE,Santa Clara,63,Broncos,Santa Clara Broncos,Santa Clara

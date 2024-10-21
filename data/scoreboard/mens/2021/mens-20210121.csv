@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401263406,2021-01-21,2,2294,home,FALSE,Iowa,69,Hawkeyes,Iowa Hawkeyes,Iowa
-401263406,2021-01-21,2,84,away,FALSE,Indiana,81,Hoosiers,Indiana Hoosiers,Indiana
-401265385,2021-01-21,2,25,home,FALSE,California,57,Golden Bears,California Golden Bears,California
-401265385,2021-01-21,2,26,away,FALSE,UCLA,61,Bruins,UCLA Bruins,UCLA
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401263406,2021,regular-season,2021-01-21,2,2294,home,FALSE,Iowa,69,Hawkeyes,Iowa Hawkeyes,Iowa
+401263406,2021,regular-season,2021-01-21,2,84,away,FALSE,Indiana,81,Hoosiers,Indiana Hoosiers,Indiana
+401265385,2021,regular-season,2021-01-21,2,25,home,FALSE,California,57,Golden Bears,California Golden Bears,California
+401265385,2021,regular-season,2021-01-21,2,26,away,FALSE,UCLA,61,Bruins,UCLA Bruins,UCLA

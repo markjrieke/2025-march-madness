@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401026258,2018-03-30,5,344,home,TRUE,Mississippi State,73,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401026258,2018-03-30,5,97,away,TRUE,Louisville,63,Cardinals,Louisville Cardinals,Louisville
-401026259,2018-03-30,5,41,home,TRUE,UConn,89,Huskies,UConn Huskies,UConn
-401026259,2018-03-30,5,87,away,TRUE,Notre Dame,91,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401026258,2018,post-season,2018-03-30,5,344,home,TRUE,Mississippi State,73,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401026258,2018,post-season,2018-03-30,5,97,away,TRUE,Louisville,63,Cardinals,Louisville Cardinals,Louisville
+401026259,2018,post-season,2018-03-30,5,41,home,TRUE,UConn,89,Huskies,UConn Huskies,UConn
+401026259,2018,post-season,2018-03-30,5,87,away,TRUE,Notre Dame,91,Fighting Irish,Notre Dame Fighting Irish,Notre Dame

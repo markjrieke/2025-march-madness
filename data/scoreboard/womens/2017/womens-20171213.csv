@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400994008,2017-12-13,4,239,home,FALSE,Baylor,95,Bears,Baylor Bears,Baylor
-400994008,2017-12-13,4,2377,away,FALSE,McNeese,34,Cowgirls,McNeese Cowgirls,McNeese
-400994150,2017-12-13,4,251,home,FALSE,Texas,68,Longhorns,Texas Longhorns,Texas
-400994150,2017-12-13,4,2466,away,FALSE,Northwestern State,44,Lady Demons,Northwestern State Lady Demons,N'Western St
-400994409,2017-12-13,4,204,home,FALSE,Oregon State,84,Beavers,Oregon State Beavers,Oregon St
-400994409,2017-12-13,4,2542,away,FALSE,Savannah State,36,Tigers,Savannah State Tigers,Savannah St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400994008,2018,regular-season,2017-12-13,4,239,home,FALSE,Baylor,95,Bears,Baylor Bears,Baylor
+400994008,2018,regular-season,2017-12-13,4,2377,away,FALSE,McNeese,34,Cowgirls,McNeese Cowgirls,McNeese
+400994150,2018,regular-season,2017-12-13,4,251,home,FALSE,Texas,68,Longhorns,Texas Longhorns,Texas
+400994150,2018,regular-season,2017-12-13,4,2466,away,FALSE,Northwestern State,44,Lady Demons,Northwestern State Lady Demons,N'Western St
+400994409,2018,regular-season,2017-12-13,4,204,home,FALSE,Oregon State,84,Beavers,Oregon State Beavers,Oregon St
+400994409,2018,regular-season,2017-12-13,4,2542,away,FALSE,Savannah State,36,Tigers,Savannah State Tigers,Savannah St

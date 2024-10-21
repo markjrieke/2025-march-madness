@@ -1,39 +1,39 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230592329,2003-02-28,2,2329,home,FALSE,Lehigh,60,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-230592329,2003-02-28,2,2142,away,FALSE,Colgate,72,Raiders,Colgate Raiders,Colgate
-230592083,2003-02-28,2,2083,home,FALSE,Bucknell,79,Bison,Bucknell Bison,Bucknell
-230592083,2003-02-28,2,107,away,FALSE,Holy Cross,91,Crusaders,Holy Cross Crusaders,Holy Cross
-230590108,2003-02-28,2,108,home,FALSE,Harvard,61,Crimson,Harvard Crimson,Harvard
-230590108,2003-02-28,2,172,away,FALSE,Cornell,47,Big Red,Cornell Big Red,Cornell
-230592561,2003-02-28,2,2561,home,FALSE,Siena,68,Saints,Siena Saints,Siena
-230592561,2003-02-28,2,2368,away,FALSE,Marist,60,Red Foxes,Marist Red Foxes,Marist
-230592429,2003-02-28,2,2429,home,FALSE,Charlotte,80,49ers,Charlotte 49ers,Charlotte
-230592429,2003-02-28,2,2572,away,FALSE,Southern Miss,54,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-230592363,2003-02-28,2,2363,home,FALSE,Manhattan,85,Jaspers,Manhattan Jaspers,Manhattan
-230592363,2003-02-28,2,2612,away,FALSE,Saint Peter's,72,Peacocks,Saint Peter's Peacocks,Saint Peter's
-230592275,2003-02-28,2,2275,home,FALSE,Hofstra,63,Pride,Hofstra Pride,Hofstra
-230592275,2003-02-28,2,350,away,FALSE,UNC Wilmington,65,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
-230590219,2003-02-28,2,219,home,FALSE,Pennsylvania,82,Quakers,Pennsylvania Quakers,Penn
-230590219,2003-02-28,2,225,away,FALSE,Brown,58,Bears,Brown Bears,Brown
-230590163,2003-02-28,2,163,home,FALSE,Princeton,74,Tigers,Princeton Tigers,Princeton
-230590163,2003-02-28,2,43,away,FALSE,Yale,71,Bulldogs,Yale Bulldogs,Yale
-230590159,2003-02-28,2,159,home,FALSE,Dartmouth,68,Big Green,Dartmouth Big Green,Dartmouth
-230590159,2003-02-28,2,171,away,FALSE,Columbia,66,Lions,Columbia Lions,Columbia
-230590151,2003-02-28,2,151,home,FALSE,East Carolina,64,Pirates,East Carolina Pirates,East Carolina
-230590151,2003-02-28,2,2655,away,FALSE,Tulane,85,Green Wave,Tulane Green Wave,Tulane
-230590314,2003-02-28,2,314,home,FALSE,Iona,62,Gaels,Iona Gaels,Iona
-230590314,2003-02-28,2,2217,away,FALSE,Fairfield,72,Stags,Fairfield Stags,Fairfield
-230592628,2003-02-28,2,2628,home,FALSE,TCU,74,Horned Frogs,TCU Horned Frogs,TCU
-230592628,2003-02-28,2,5,away,FALSE,UAB,49,Blazers,UAB Blazers,UAB
-230590248,2003-02-28,2,248,home,FALSE,Houston,77,Cougars,Houston Cougars,Houston
-230590248,2003-02-28,2,58,away,FALSE,South Florida,73,Bulls,South Florida Bulls,South Florida
-230590235,2003-02-28,2,235,home,FALSE,Memphis,53,Tigers,Memphis Tigers,Memphis
-230590235,2003-02-28,2,2132,away,FALSE,Cincinnati,74,Bearcats,Cincinnati Bearcats,Cincinnati
-230590139,2003-02-28,2,139,home,FALSE,Saint Louis,70,Billikens,Saint Louis Billikens,Saint Louis
-230590139,2003-02-28,2,97,away,FALSE,Louisville,66,Cardinals,Louisville Cardinals,Louisville
-230590036,2003-02-28,2,36,home,FALSE,Colorado State,73,Rams,Colorado State Rams,Colorado St
-230590036,2003-02-28,2,2751,away,FALSE,Wyoming,51,Cowgirls,Wyoming Cowgirls,Wyoming
-230592608,2003-02-28,2,2608,home,FALSE,Saint Mary's,74,Gaels,Saint Mary's Gaels,Saint Mary's
-230592608,2003-02-28,2,2492,away,FALSE,Pepperdine,89,Waves,Pepperdine Waves,Pepperdine
-230592539,2003-02-28,2,2539,home,FALSE,San Francisco,71,Dons,San Francisco Dons,San Francisco
-230592539,2003-02-28,2,2351,away,FALSE,Loyola Marymount,49,Lions,Loyola Marymount Lions,LMU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230592329,2003,regular-season,2003-02-28,2,2329,home,FALSE,Lehigh,60,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+230592329,2003,regular-season,2003-02-28,2,2142,away,FALSE,Colgate,72,Raiders,Colgate Raiders,Colgate
+230592083,2003,regular-season,2003-02-28,2,2083,home,FALSE,Bucknell,79,Bison,Bucknell Bison,Bucknell
+230592083,2003,regular-season,2003-02-28,2,107,away,FALSE,Holy Cross,91,Crusaders,Holy Cross Crusaders,Holy Cross
+230590108,2003,regular-season,2003-02-28,2,108,home,FALSE,Harvard,61,Crimson,Harvard Crimson,Harvard
+230590108,2003,regular-season,2003-02-28,2,172,away,FALSE,Cornell,47,Big Red,Cornell Big Red,Cornell
+230592561,2003,regular-season,2003-02-28,2,2561,home,FALSE,Siena,68,Saints,Siena Saints,Siena
+230592561,2003,regular-season,2003-02-28,2,2368,away,FALSE,Marist,60,Red Foxes,Marist Red Foxes,Marist
+230592429,2003,regular-season,2003-02-28,2,2429,home,FALSE,Charlotte,80,49ers,Charlotte 49ers,Charlotte
+230592429,2003,regular-season,2003-02-28,2,2572,away,FALSE,Southern Miss,54,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+230592363,2003,regular-season,2003-02-28,2,2363,home,FALSE,Manhattan,85,Jaspers,Manhattan Jaspers,Manhattan
+230592363,2003,regular-season,2003-02-28,2,2612,away,FALSE,Saint Peter's,72,Peacocks,Saint Peter's Peacocks,Saint Peter's
+230592275,2003,regular-season,2003-02-28,2,2275,home,FALSE,Hofstra,63,Pride,Hofstra Pride,Hofstra
+230592275,2003,regular-season,2003-02-28,2,350,away,FALSE,UNC Wilmington,65,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+230590219,2003,regular-season,2003-02-28,2,219,home,FALSE,Pennsylvania,82,Quakers,Pennsylvania Quakers,Penn
+230590219,2003,regular-season,2003-02-28,2,225,away,FALSE,Brown,58,Bears,Brown Bears,Brown
+230590163,2003,regular-season,2003-02-28,2,163,home,FALSE,Princeton,74,Tigers,Princeton Tigers,Princeton
+230590163,2003,regular-season,2003-02-28,2,43,away,FALSE,Yale,71,Bulldogs,Yale Bulldogs,Yale
+230590159,2003,regular-season,2003-02-28,2,159,home,FALSE,Dartmouth,68,Big Green,Dartmouth Big Green,Dartmouth
+230590159,2003,regular-season,2003-02-28,2,171,away,FALSE,Columbia,66,Lions,Columbia Lions,Columbia
+230590151,2003,regular-season,2003-02-28,2,151,home,FALSE,East Carolina,64,Pirates,East Carolina Pirates,East Carolina
+230590151,2003,regular-season,2003-02-28,2,2655,away,FALSE,Tulane,85,Green Wave,Tulane Green Wave,Tulane
+230590314,2003,regular-season,2003-02-28,2,314,home,FALSE,Iona,62,Gaels,Iona Gaels,Iona
+230590314,2003,regular-season,2003-02-28,2,2217,away,FALSE,Fairfield,72,Stags,Fairfield Stags,Fairfield
+230592628,2003,regular-season,2003-02-28,2,2628,home,FALSE,TCU,74,Horned Frogs,TCU Horned Frogs,TCU
+230592628,2003,regular-season,2003-02-28,2,5,away,FALSE,UAB,49,Blazers,UAB Blazers,UAB
+230590248,2003,regular-season,2003-02-28,2,248,home,FALSE,Houston,77,Cougars,Houston Cougars,Houston
+230590248,2003,regular-season,2003-02-28,2,58,away,FALSE,South Florida,73,Bulls,South Florida Bulls,South Florida
+230590235,2003,regular-season,2003-02-28,2,235,home,FALSE,Memphis,53,Tigers,Memphis Tigers,Memphis
+230590235,2003,regular-season,2003-02-28,2,2132,away,FALSE,Cincinnati,74,Bearcats,Cincinnati Bearcats,Cincinnati
+230590139,2003,regular-season,2003-02-28,2,139,home,FALSE,Saint Louis,70,Billikens,Saint Louis Billikens,Saint Louis
+230590139,2003,regular-season,2003-02-28,2,97,away,FALSE,Louisville,66,Cardinals,Louisville Cardinals,Louisville
+230590036,2003,regular-season,2003-02-28,2,36,home,FALSE,Colorado State,73,Rams,Colorado State Rams,Colorado St
+230590036,2003,regular-season,2003-02-28,2,2751,away,FALSE,Wyoming,51,Cowgirls,Wyoming Cowgirls,Wyoming
+230592608,2003,regular-season,2003-02-28,2,2608,home,FALSE,Saint Mary's,74,Gaels,Saint Mary's Gaels,Saint Mary's
+230592608,2003,regular-season,2003-02-28,2,2492,away,FALSE,Pepperdine,89,Waves,Pepperdine Waves,Pepperdine
+230592539,2003,regular-season,2003-02-28,2,2539,home,FALSE,San Francisco,71,Dons,San Francisco Dons,San Francisco
+230592539,2003,regular-season,2003-02-28,2,2351,away,FALSE,Loyola Marymount,49,Lions,Loyola Marymount Lions,LMU

@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273442678,2007-12-10,2,2678,home,FALSE,VMI,112,Keydets,VMI Keydets,VMI
-273442678,2007-12-10,2,3111,away,FALSE,Apprentice School,96,Builders,Apprentice School Builders,Apprentice
-273442619,2007-12-10,2,2619,home,FALSE,Stony Brook,62,Seawolves,Stony Brook Seawolves,Stony Brook
-273442619,2007-12-10,2,2885,away,FALSE,NJIT,53,Highlanders,NJIT Highlanders,NJIT
-273442065,2007-12-10,2,2065,home,FALSE,Bethune-Cookman,65,Wildcats,Bethune-Cookman Wildcats,Bethune
-273442065,2007-12-10,2,3105,away,FALSE,Southeastern,51,Fires,Southeastern Fires,Southeastern
-273440171,2007-12-10,2,171,home,FALSE,Columbia,83,Lions,Columbia Lions,Columbia
-273440171,2007-12-10,2,2597,away,FALSE,St. Francis Brooklyn,64,Terriers,St. Francis Brooklyn Terriers,St Francis BK
-273440161,2007-12-10,2,161,home,FALSE,Fairleigh Dickinson,80,Knights,Fairleigh Dickinson Knights,Fair Dickinson
-273440161,2007-12-10,2,2450,away,FALSE,Norfolk State,64,Spartans,Norfolk State Spartans,Norfolk St
-273440160,2007-12-10,2,160,home,FALSE,New Hampshire,78,Wildcats,New Hampshire Wildcats,New Hampshire
-273440160,2007-12-10,2,112358,away,FALSE,Long Island University,84,Sharks,Long Island University Sharks,Long Island
-273440290,2007-12-10,2,290,home,FALSE,Georgia Southern,93,Eagles,Georgia Southern Eagles,GA Southern
-273440290,2007-12-10,2,2232,away,FALSE,Fort Valley State,73,Wildcats,Fort Valley State Wildcats,Ft Vly St
-273440194,2007-12-10,2,194,home,FALSE,Ohio State,47,Buckeyes,Ohio State Buckeyes,Ohio State
-273440194,2007-12-10,2,2154,away,FALSE,Coppin State,39,Eagles,Coppin State Eagles,Coppin St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273442678,2008,regular-season,2007-12-10,2,2678,home,FALSE,VMI,112,Keydets,VMI Keydets,VMI
+273442678,2008,regular-season,2007-12-10,2,3111,away,FALSE,Apprentice School,96,Builders,Apprentice School Builders,Apprentice
+273442619,2008,regular-season,2007-12-10,2,2619,home,FALSE,Stony Brook,62,Seawolves,Stony Brook Seawolves,Stony Brook
+273442619,2008,regular-season,2007-12-10,2,2885,away,FALSE,NJIT,53,Highlanders,NJIT Highlanders,NJIT
+273442065,2008,regular-season,2007-12-10,2,2065,home,FALSE,Bethune-Cookman,65,Wildcats,Bethune-Cookman Wildcats,Bethune
+273442065,2008,regular-season,2007-12-10,2,3105,away,FALSE,Southeastern,51,Fires,Southeastern Fires,Southeastern
+273440171,2008,regular-season,2007-12-10,2,171,home,FALSE,Columbia,83,Lions,Columbia Lions,Columbia
+273440171,2008,regular-season,2007-12-10,2,2597,away,FALSE,St. Francis Brooklyn,64,Terriers,St. Francis Brooklyn Terriers,St Francis BK
+273440161,2008,regular-season,2007-12-10,2,161,home,FALSE,Fairleigh Dickinson,80,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+273440161,2008,regular-season,2007-12-10,2,2450,away,FALSE,Norfolk State,64,Spartans,Norfolk State Spartans,Norfolk St
+273440160,2008,regular-season,2007-12-10,2,160,home,FALSE,New Hampshire,78,Wildcats,New Hampshire Wildcats,New Hampshire
+273440160,2008,regular-season,2007-12-10,2,112358,away,FALSE,Long Island University,84,Sharks,Long Island University Sharks,Long Island
+273440290,2008,regular-season,2007-12-10,2,290,home,FALSE,Georgia Southern,93,Eagles,Georgia Southern Eagles,GA Southern
+273440290,2008,regular-season,2007-12-10,2,2232,away,FALSE,Fort Valley State,73,Wildcats,Fort Valley State Wildcats,Ft Vly St
+273440194,2008,regular-season,2007-12-10,2,194,home,FALSE,Ohio State,47,Buckeyes,Ohio State Buckeyes,Ohio State
+273440194,2008,regular-season,2007-12-10,2,2154,away,FALSE,Coppin State,39,Eagles,Coppin State Eagles,Coppin St

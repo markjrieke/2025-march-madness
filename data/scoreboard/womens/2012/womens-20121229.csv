@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323640024,2012-12-29,2,24,home,FALSE,Stanford,35,Cardinal,Stanford Cardinal,Stanford
-323640024,2012-12-29,2,41,away,FALSE,UConn,61,Huskies,UConn Huskies,UConn
-323640239,2012-12-29,2,239,home,FALSE,Baylor,106,Bears,Baylor Bears,Baylor
-323640239,2012-12-29,2,2545,away,FALSE,SE Louisiana,41,Lady Lions,SE Louisiana Lady Lions,SE Louisiana
-323640087,2012-12-29,2,87,home,FALSE,Notre Dame,74,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-323640087,2012-12-29,2,2509,away,FALSE,Purdue,47,Boilermakers,Purdue Boilermakers,Purdue
-323640201,2012-12-29,2,201,home,FALSE,Oklahoma,79,Sooners,Oklahoma Sooners,Oklahoma
-323640201,2012-12-29,2,2463,away,FALSE,Cal State Northridge,57,Matadors,Cal State Northridge Matadors,CSU Northridge
-323642579,2012-12-29,2,2579,home,FALSE,South Carolina,66,Gamecocks,South Carolina Gamecocks,South Carolina
-323642579,2012-12-29,2,2717,away,FALSE,Western Carolina,44,Catamounts,Western Carolina Catamounts,W Carolina
-323640038,2012-12-29,2,38,home,FALSE,Colorado,84,Buffaloes,Colorado Buffaloes,Colorado
-323640038,2012-12-29,2,167,away,FALSE,New Mexico,39,Lobos,New Mexico Lobos,New Mexico
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323640024,2013,regular-season,2012-12-29,2,24,home,FALSE,Stanford,35,Cardinal,Stanford Cardinal,Stanford
+323640024,2013,regular-season,2012-12-29,2,41,away,FALSE,UConn,61,Huskies,UConn Huskies,UConn
+323640239,2013,regular-season,2012-12-29,2,239,home,FALSE,Baylor,106,Bears,Baylor Bears,Baylor
+323640239,2013,regular-season,2012-12-29,2,2545,away,FALSE,SE Louisiana,41,Lady Lions,SE Louisiana Lady Lions,SE Louisiana
+323640087,2013,regular-season,2012-12-29,2,87,home,FALSE,Notre Dame,74,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+323640087,2013,regular-season,2012-12-29,2,2509,away,FALSE,Purdue,47,Boilermakers,Purdue Boilermakers,Purdue
+323640201,2013,regular-season,2012-12-29,2,201,home,FALSE,Oklahoma,79,Sooners,Oklahoma Sooners,Oklahoma
+323640201,2013,regular-season,2012-12-29,2,2463,away,FALSE,Cal State Northridge,57,Matadors,Cal State Northridge Matadors,CSU Northridge
+323642579,2013,regular-season,2012-12-29,2,2579,home,FALSE,South Carolina,66,Gamecocks,South Carolina Gamecocks,South Carolina
+323642579,2013,regular-season,2012-12-29,2,2717,away,FALSE,Western Carolina,44,Catamounts,Western Carolina Catamounts,W Carolina
+323640038,2013,regular-season,2012-12-29,2,38,home,FALSE,Colorado,84,Buffaloes,Colorado Buffaloes,Colorado
+323640038,2013,regular-season,2012-12-29,2,167,away,FALSE,New Mexico,39,Lobos,New Mexico Lobos,New Mexico

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240530150,2004-02-22,2,150,home,FALSE,Duke,86,Blue Devils,Duke Blue Devils,Duke
-240530150,2004-02-22,2,120,away,FALSE,Maryland,63,Terrapins,Maryland Terrapins,Maryland
-240530130,2004-02-22,2,130,home,FALSE,Michigan,71,Wolverines,Michigan Wolverines,Michigan
-240530130,2004-02-22,2,275,away,FALSE,Wisconsin,59,Badgers,Wisconsin Badgers,Wisconsin
-240530152,2004-02-22,2,152,home,FALSE,NC State,77,Wolfpack,NC State Wolfpack,NC State
-240530152,2004-02-22,2,264,away,FALSE,Washington,72,Huskies,Washington Huskies,Washington
-240530059,2004-02-22,2,59,home,FALSE,Georgia Tech,76,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-240530059,2004-02-22,2,154,away,FALSE,Wake Forest,80,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240530150,2004,regular-season,2004-02-22,2,150,home,FALSE,Duke,86,Blue Devils,Duke Blue Devils,Duke
+240530150,2004,regular-season,2004-02-22,2,120,away,FALSE,Maryland,63,Terrapins,Maryland Terrapins,Maryland
+240530130,2004,regular-season,2004-02-22,2,130,home,FALSE,Michigan,71,Wolverines,Michigan Wolverines,Michigan
+240530130,2004,regular-season,2004-02-22,2,275,away,FALSE,Wisconsin,59,Badgers,Wisconsin Badgers,Wisconsin
+240530152,2004,regular-season,2004-02-22,2,152,home,FALSE,NC State,77,Wolfpack,NC State Wolfpack,NC State
+240530152,2004,regular-season,2004-02-22,2,264,away,FALSE,Washington,72,Huskies,Washington Huskies,Washington
+240530059,2004,regular-season,2004-02-22,2,59,home,FALSE,Georgia Tech,76,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+240530059,2004,regular-season,2004-02-22,2,154,away,FALSE,Wake Forest,80,Demon Deacons,Wake Forest Demon Deacons,Wake Forest

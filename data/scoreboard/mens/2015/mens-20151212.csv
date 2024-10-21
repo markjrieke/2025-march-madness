@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400830673,2015-12-12,2,127,home,FALSE,Michigan State,58,Spartans,Michigan State Spartans,Michigan St
-400830673,2015-12-12,2,57,away,FALSE,Florida,52,Gators,Florida Gators,Florida
-400813775,2015-12-12,2,96,home,FALSE,Kentucky,72,Wildcats,Kentucky Wildcats,Kentucky
-400813775,2015-12-12,2,9,away,FALSE,Arizona State,58,Sun Devils,Arizona State Sun Devils,Arizona St
-400820713,2015-12-12,2,120,home,FALSE,Maryland,77,Terrapins,Maryland Terrapins,Maryland
-400820713,2015-12-12,2,2379,away,FALSE,Maryland Eastern Shore,56,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-400816974,2015-12-12,2,201,home,FALSE,Oklahoma,96,Sooners,Oklahoma Sooners,Oklahoma
-400816974,2015-12-12,2,198,away,FALSE,Oral Roberts,73,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-400813811,2015-12-12,2,2509,home,FALSE,Purdue,95,Boilermakers,Purdue Boilermakers,Purdue
-400813811,2015-12-12,2,2754,away,FALSE,Youngstown State,64,Penguins,Youngstown State Penguins,Youngstown St
-400820612,2015-12-12,2,2752,home,FALSE,Xavier,65,Musketeers,Xavier Musketeers,Xavier
-400820612,2015-12-12,2,2132,away,FALSE,Cincinnati,55,Bearcats,Cincinnati Bearcats,Cincinnati
-400827766,2015-12-12,2,2507,home,FALSE,Providence,74,Friars,Providence Friars,Providence
-400827766,2015-12-12,2,2803,away,FALSE,Bryant,67,Bulldogs,Bryant Bulldogs,Bryant
-400825769,2015-12-12,2,2086,home,FALSE,Butler,94,Bulldogs,Butler Bulldogs,Butler
-400825769,2015-12-12,2,2633,away,FALSE,Tennessee,86,Volunteers,Tennessee Volunteers,Tennessee
-400814226,2015-12-12,2,2250,home,FALSE,Gonzaga,66,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400814226,2015-12-12,2,26,away,FALSE,UCLA,71,Bruins,UCLA Bruins,UCLA
-400839799,2015-12-12,2,97,home,FALSE,Louisville,86,Cardinals,Louisville Cardinals,Louisville
-400839799,2015-12-12,2,2199,away,FALSE,Eastern Michigan,53,Eagles,Eastern Michigan Eagles,E Michigan
-400818904,2015-12-12,2,68,home,FALSE,Boise State,74,Broncos,Boise State Broncos,Boise St
-400818904,2015-12-12,2,2483,away,FALSE,Oregon,72,Ducks,Oregon Ducks,Oregon
-400816759,2015-12-12,2,2724,home,FALSE,Wichita State,67,Shockers,Wichita State Shockers,Wichita St
-400816759,2015-12-12,2,254,away,FALSE,Utah,50,Utes,Utah Utes,Utah
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400830673,2016,regular-season,2015-12-12,2,127,home,FALSE,Michigan State,58,Spartans,Michigan State Spartans,Michigan St
+400830673,2016,regular-season,2015-12-12,2,57,away,FALSE,Florida,52,Gators,Florida Gators,Florida
+400813775,2016,regular-season,2015-12-12,2,96,home,FALSE,Kentucky,72,Wildcats,Kentucky Wildcats,Kentucky
+400813775,2016,regular-season,2015-12-12,2,9,away,FALSE,Arizona State,58,Sun Devils,Arizona State Sun Devils,Arizona St
+400820713,2016,regular-season,2015-12-12,2,120,home,FALSE,Maryland,77,Terrapins,Maryland Terrapins,Maryland
+400820713,2016,regular-season,2015-12-12,2,2379,away,FALSE,Maryland Eastern Shore,56,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+400816974,2016,regular-season,2015-12-12,2,201,home,FALSE,Oklahoma,96,Sooners,Oklahoma Sooners,Oklahoma
+400816974,2016,regular-season,2015-12-12,2,198,away,FALSE,Oral Roberts,73,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+400813811,2016,regular-season,2015-12-12,2,2509,home,FALSE,Purdue,95,Boilermakers,Purdue Boilermakers,Purdue
+400813811,2016,regular-season,2015-12-12,2,2754,away,FALSE,Youngstown State,64,Penguins,Youngstown State Penguins,Youngstown St
+400820612,2016,regular-season,2015-12-12,2,2752,home,FALSE,Xavier,65,Musketeers,Xavier Musketeers,Xavier
+400820612,2016,regular-season,2015-12-12,2,2132,away,FALSE,Cincinnati,55,Bearcats,Cincinnati Bearcats,Cincinnati
+400827766,2016,regular-season,2015-12-12,2,2507,home,FALSE,Providence,74,Friars,Providence Friars,Providence
+400827766,2016,regular-season,2015-12-12,2,2803,away,FALSE,Bryant,67,Bulldogs,Bryant Bulldogs,Bryant
+400825769,2016,regular-season,2015-12-12,2,2086,home,FALSE,Butler,94,Bulldogs,Butler Bulldogs,Butler
+400825769,2016,regular-season,2015-12-12,2,2633,away,FALSE,Tennessee,86,Volunteers,Tennessee Volunteers,Tennessee
+400814226,2016,regular-season,2015-12-12,2,2250,home,FALSE,Gonzaga,66,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400814226,2016,regular-season,2015-12-12,2,26,away,FALSE,UCLA,71,Bruins,UCLA Bruins,UCLA
+400839799,2016,regular-season,2015-12-12,2,97,home,FALSE,Louisville,86,Cardinals,Louisville Cardinals,Louisville
+400839799,2016,regular-season,2015-12-12,2,2199,away,FALSE,Eastern Michigan,53,Eagles,Eastern Michigan Eagles,E Michigan
+400818904,2016,regular-season,2015-12-12,2,68,home,FALSE,Boise State,74,Broncos,Boise State Broncos,Boise St
+400818904,2016,regular-season,2015-12-12,2,2483,away,FALSE,Oregon,72,Ducks,Oregon Ducks,Oregon
+400816759,2016,regular-season,2015-12-12,2,2724,home,FALSE,Wichita State,67,Shockers,Wichita State Shockers,Wichita St
+400816759,2016,regular-season,2015-12-12,2,254,away,FALSE,Utah,50,Utes,Utah Utes,Utah

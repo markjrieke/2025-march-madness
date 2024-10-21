@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401166462,2019-11-30,2,38,home,FALSE,Colorado,59,Buffaloes,Colorado Buffaloes,Colorado
-401166462,2019-11-30,2,16,away,FALSE,Sacramento State,45,Hornets,Sacramento State Hornets,Sacramento St
-401169792,2019-11-30,2,2752,home,FALSE,Xavier,87,Musketeers,Xavier Musketeers,Xavier
-401169792,2019-11-30,2,288,away,FALSE,Lipscomb,62,Bisons,Lipscomb Bisons,Lipscomb
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401166462,2020,regular-season,2019-11-30,2,38,home,FALSE,Colorado,59,Buffaloes,Colorado Buffaloes,Colorado
+401166462,2020,regular-season,2019-11-30,2,16,away,FALSE,Sacramento State,45,Hornets,Sacramento State Hornets,Sacramento St
+401169792,2020,regular-season,2019-11-30,2,2752,home,FALSE,Xavier,87,Musketeers,Xavier Musketeers,Xavier
+401169792,2020,regular-season,2019-11-30,2,288,away,FALSE,Lipscomb,62,Bisons,Lipscomb Bisons,Lipscomb

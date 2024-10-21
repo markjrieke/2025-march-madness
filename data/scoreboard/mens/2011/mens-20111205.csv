@@ -1,35 +1,35 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313390050,2011-12-05,2,50,home,FALSE,Florida A&M,94,Rattlers,Florida A&M Rattlers,Florida A&M
-313390050,2011-12-05,2,2019,away,FALSE,Allen University,65,Yellow Jackets,Allen University Yellow Jackets,Allen
-313392561,2011-12-05,2,2561,home,FALSE,Siena,64,Saints,Siena Saints,Siena
-313392561,2011-12-05,2,399,away,FALSE,UAlbany,60,Great Danes,UAlbany Great Danes,UAlbany
-313392529,2011-12-05,2,2529,home,FALSE,Sacred Heart,71,Pioneers,Sacred Heart Pioneers,Sacred Heart
-313392529,2011-12-05,2,43,away,FALSE,Yale,73,Bulldogs,Yale Bulldogs,Yale
-313392507,2011-12-05,2,2507,home,FALSE,Providence,80,Friars,Providence Friars,Providence
-313392507,2011-12-05,2,225,away,FALSE,Brown,49,Bears,Brown Bears,Brown
-313392430,2011-12-05,2,2430,home,FALSE,UNC Greensboro,72,Spartans,UNC Greensboro Spartans,UNC Greensboro
-313392430,2011-12-05,2,2210,away,FALSE,Elon,80,Phoenix,Elon Phoenix,Elon
-313392230,2011-12-05,2,2230,home,FALSE,Fordham,54,Rams,Fordham Rams,Fordham
-313392230,2011-12-05,2,2261,away,FALSE,Hampton,53,Pirates,Hampton Pirates,Hampton
-313392174,2011-12-05,2,2174,home,FALSE,Detroit Mercy,69,Titans,Detroit Mercy Titans,Detroit Mercy
-313392174,2011-12-05,2,2599,away,FALSE,St. John's,63,Red Storm,St. John's Red Storm,St John's
-313390322,2011-12-05,2,322,home,FALSE,Lafayette,80,Leopards,Lafayette Leopards,Lafayette
-313390322,2011-12-05,2,112358,away,FALSE,Long Island University,82,Sharks,Long Island University Sharks,Long Island
-313390052,2011-12-05,2,52,home,FALSE,Florida State,76,Seminoles,Florida State Seminoles,Florida St
-313390052,2011-12-05,2,2127,away,FALSE,Charleston Southern,51,Buccaneers,Charleston Southern Buccaneers,Charleston So
-313392154,2011-12-05,2,2154,home,FALSE,Coppin State,53,Eagles,Coppin State Eagles,Coppin St
-313392154,2011-12-05,2,2521,away,FALSE,Rio Grande,50,Red Storm,Rio Grande Red Storm,Rio Grande
-313392535,2011-12-05,2,2535,home,FALSE,Samford,52,Bulldogs,Samford Bulldogs,Samford
-313392535,2011-12-05,2,2636,away,FALSE,UTSA,74,Roadrunners,UTSA Roadrunners,UTSA
-313392450,2011-12-05,2,2450,home,FALSE,Norfolk State,82,Spartans,Norfolk State Spartans,Norfolk St
-313392450,2011-12-05,2,2569,away,FALSE,South Carolina State,67,Bulldogs,South Carolina State Bulldogs,SC State
-313392320,2011-12-05,2,2320,home,FALSE,Lamar,60,Cardinals,Lamar Cardinals,Lamar
-313392320,2011-12-05,2,292,away,FALSE,UT Rio Grande Valley,49,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-313392046,2011-12-05,3,2046,home,FALSE,Austin Peay,86,Governors,Austin Peay Governors,Austin Peay
-313392046,2011-12-05,3,2032,away,FALSE,Arkansas State,82,Red Wolves,Arkansas State Red Wolves,Arkansas St
-313392110,2011-12-05,2,2110,home,FALSE,Central Arkansas,88,Bears,Central Arkansas Bears,C Arkansas
-313392110,2011-12-05,2,2546,away,FALSE,Southeast Missouri State,72,Redhawks,Southeast Missouri State Redhawks,SE Missouri
-313390305,2011-12-05,2,305,home,FALSE,DePaul,76,Blue Demons,DePaul Blue Demons,DePaul
-313390305,2011-12-05,2,270,away,FALSE,Milwaukee,87,Panthers,Milwaukee Panthers,Milwaukee
-313390068,2011-12-05,2,68,home,FALSE,Boise State,79,Broncos,Boise State Broncos,Boise St
-313390068,2011-12-05,2,304,away,FALSE,Idaho State,55,Bengals,Idaho State Bengals,Idaho St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313390050,2012,regular-season,2011-12-05,2,50,home,FALSE,Florida A&M,94,Rattlers,Florida A&M Rattlers,Florida A&M
+313390050,2012,regular-season,2011-12-05,2,2019,away,FALSE,Allen University,65,Yellow Jackets,Allen University Yellow Jackets,Allen
+313392561,2012,regular-season,2011-12-05,2,2561,home,FALSE,Siena,64,Saints,Siena Saints,Siena
+313392561,2012,regular-season,2011-12-05,2,399,away,FALSE,UAlbany,60,Great Danes,UAlbany Great Danes,UAlbany
+313392529,2012,regular-season,2011-12-05,2,2529,home,FALSE,Sacred Heart,71,Pioneers,Sacred Heart Pioneers,Sacred Heart
+313392529,2012,regular-season,2011-12-05,2,43,away,FALSE,Yale,73,Bulldogs,Yale Bulldogs,Yale
+313392507,2012,regular-season,2011-12-05,2,2507,home,FALSE,Providence,80,Friars,Providence Friars,Providence
+313392507,2012,regular-season,2011-12-05,2,225,away,FALSE,Brown,49,Bears,Brown Bears,Brown
+313392430,2012,regular-season,2011-12-05,2,2430,home,FALSE,UNC Greensboro,72,Spartans,UNC Greensboro Spartans,UNC Greensboro
+313392430,2012,regular-season,2011-12-05,2,2210,away,FALSE,Elon,80,Phoenix,Elon Phoenix,Elon
+313392230,2012,regular-season,2011-12-05,2,2230,home,FALSE,Fordham,54,Rams,Fordham Rams,Fordham
+313392230,2012,regular-season,2011-12-05,2,2261,away,FALSE,Hampton,53,Pirates,Hampton Pirates,Hampton
+313392174,2012,regular-season,2011-12-05,2,2174,home,FALSE,Detroit Mercy,69,Titans,Detroit Mercy Titans,Detroit Mercy
+313392174,2012,regular-season,2011-12-05,2,2599,away,FALSE,St. John's,63,Red Storm,St. John's Red Storm,St John's
+313390322,2012,regular-season,2011-12-05,2,322,home,FALSE,Lafayette,80,Leopards,Lafayette Leopards,Lafayette
+313390322,2012,regular-season,2011-12-05,2,112358,away,FALSE,Long Island University,82,Sharks,Long Island University Sharks,Long Island
+313390052,2012,regular-season,2011-12-05,2,52,home,FALSE,Florida State,76,Seminoles,Florida State Seminoles,Florida St
+313390052,2012,regular-season,2011-12-05,2,2127,away,FALSE,Charleston Southern,51,Buccaneers,Charleston Southern Buccaneers,Charleston So
+313392154,2012,regular-season,2011-12-05,2,2154,home,FALSE,Coppin State,53,Eagles,Coppin State Eagles,Coppin St
+313392154,2012,regular-season,2011-12-05,2,2521,away,FALSE,Rio Grande,50,Red Storm,Rio Grande Red Storm,Rio Grande
+313392535,2012,regular-season,2011-12-05,2,2535,home,FALSE,Samford,52,Bulldogs,Samford Bulldogs,Samford
+313392535,2012,regular-season,2011-12-05,2,2636,away,FALSE,UTSA,74,Roadrunners,UTSA Roadrunners,UTSA
+313392450,2012,regular-season,2011-12-05,2,2450,home,FALSE,Norfolk State,82,Spartans,Norfolk State Spartans,Norfolk St
+313392450,2012,regular-season,2011-12-05,2,2569,away,FALSE,South Carolina State,67,Bulldogs,South Carolina State Bulldogs,SC State
+313392320,2012,regular-season,2011-12-05,2,2320,home,FALSE,Lamar,60,Cardinals,Lamar Cardinals,Lamar
+313392320,2012,regular-season,2011-12-05,2,292,away,FALSE,UT Rio Grande Valley,49,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+313392046,2012,regular-season,2011-12-05,3,2046,home,FALSE,Austin Peay,86,Governors,Austin Peay Governors,Austin Peay
+313392046,2012,regular-season,2011-12-05,3,2032,away,FALSE,Arkansas State,82,Red Wolves,Arkansas State Red Wolves,Arkansas St
+313392110,2012,regular-season,2011-12-05,2,2110,home,FALSE,Central Arkansas,88,Bears,Central Arkansas Bears,C Arkansas
+313392110,2012,regular-season,2011-12-05,2,2546,away,FALSE,Southeast Missouri State,72,Redhawks,Southeast Missouri State Redhawks,SE Missouri
+313390305,2012,regular-season,2011-12-05,2,305,home,FALSE,DePaul,76,Blue Demons,DePaul Blue Demons,DePaul
+313390305,2012,regular-season,2011-12-05,2,270,away,FALSE,Milwaukee,87,Panthers,Milwaukee Panthers,Milwaukee
+313390068,2012,regular-season,2011-12-05,2,68,home,FALSE,Boise State,79,Broncos,Boise State Broncos,Boise St
+313390068,2012,regular-season,2011-12-05,2,304,away,FALSE,Idaho State,55,Bengals,Idaho State Bengals,Idaho St

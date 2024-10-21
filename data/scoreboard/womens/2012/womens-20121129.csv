@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323342117,2012-11-29,2,2117,home,FALSE,Central Michigan,63,Chippewas,Central Michigan Chippewas,C Michigan
-323342117,2012-11-29,2,87,away,FALSE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-323340201,2012-11-29,2,201,home,FALSE,Oklahoma,96,Sooners,Oklahoma Sooners,Oklahoma
-323340201,2012-11-29,2,2466,away,FALSE,Northwestern State,35,Lady Demons,Northwestern State Lady Demons,N'Western St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323342117,2013,regular-season,2012-11-29,2,2117,home,FALSE,Central Michigan,63,Chippewas,Central Michigan Chippewas,C Michigan
+323342117,2013,regular-season,2012-11-29,2,87,away,FALSE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+323340201,2013,regular-season,2012-11-29,2,201,home,FALSE,Oklahoma,96,Sooners,Oklahoma Sooners,Oklahoma
+323340201,2013,regular-season,2012-11-29,2,2466,away,FALSE,Northwestern State,35,Lady Demons,Northwestern State Lady Demons,N'Western St

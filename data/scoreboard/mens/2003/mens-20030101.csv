@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230012641,2003-01-01,2,2641,home,FALSE,Texas Tech,62,Red Raiders,Texas Tech Red Raiders,Texas Tech
-230012641,2003-01-01,2,248,away,FALSE,Houston,48,Cougars,Houston Cougars,Houston
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230012641,2003,regular-season,2003-01-01,2,2641,home,FALSE,Texas Tech,62,Red Raiders,Texas Tech Red Raiders,Texas Tech
+230012641,2003,regular-season,2003-01-01,2,248,away,FALSE,Houston,48,Cougars,Houston Cougars,Houston

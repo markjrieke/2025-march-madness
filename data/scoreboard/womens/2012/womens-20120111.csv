@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320110239,2012-01-11,2,239,home,FALSE,Baylor,71,Bears,Baylor Bears,Baylor
-320110239,2012-01-11,2,197,away,FALSE,Oklahoma State,44,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-320110201,2012-01-11,2,201,home,FALSE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
-320110201,2012-01-11,2,2641,away,FALSE,Texas Tech,68,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-320110245,2012-01-11,2,245,home,FALSE,Texas A&M,71,Aggies,Texas A&M Aggies,Texas A&M
-320110245,2012-01-11,2,251,away,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
-320110097,2012-01-11,2,97,home,FALSE,Louisville,63,Cardinals,Louisville Cardinals,Louisville
-320110097,2012-01-11,2,58,away,FALSE,South Florida,57,Bulls,South Florida Bulls,South Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320110239,2012,regular-season,2012-01-11,2,239,home,FALSE,Baylor,71,Bears,Baylor Bears,Baylor
+320110239,2012,regular-season,2012-01-11,2,197,away,FALSE,Oklahoma State,44,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+320110201,2012,regular-season,2012-01-11,2,201,home,FALSE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
+320110201,2012,regular-season,2012-01-11,2,2641,away,FALSE,Texas Tech,68,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+320110245,2012,regular-season,2012-01-11,2,245,home,FALSE,Texas A&M,71,Aggies,Texas A&M Aggies,Texas A&M
+320110245,2012,regular-season,2012-01-11,2,251,away,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
+320110097,2012,regular-season,2012-01-11,2,97,home,FALSE,Louisville,63,Cardinals,Louisville Cardinals,Louisville
+320110097,2012,regular-season,2012-01-11,2,58,away,FALSE,South Florida,57,Bulls,South Florida Bulls,South Florida

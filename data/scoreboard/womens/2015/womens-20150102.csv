@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400594928,2015-01-02,2,2579,home,FALSE,South Carolina,77,Gamecocks,South Carolina Gamecocks,South Carolina
-400594928,2015-01-02,2,2,away,FALSE,Auburn,58,Tigers,Auburn Tigers,Auburn
-400593062,2015-01-02,2,87,home,FALSE,Notre Dame,74,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400593062,2015-01-02,2,52,away,FALSE,Florida State,68,Seminoles,Florida State Seminoles,Florida St
-400595063,2015-01-02,2,245,home,FALSE,Texas A&M,75,Aggies,Texas A&M Aggies,Texas A&M
-400595063,2015-01-02,2,238,away,FALSE,Vanderbilt,61,Commodores,Vanderbilt Commodores,Vanderbilt
-400593061,2015-01-02,2,97,home,FALSE,Louisville,75,Cardinals,Louisville Cardinals,Louisville
-400593061,2015-01-02,2,59,away,FALSE,Georgia Tech,48,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-400595031,2015-01-02,2,2633,home,FALSE,Tennessee,63,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400595031,2015-01-02,2,142,away,FALSE,Missouri,53,Tigers,Missouri Tigers,Missouri
-400593059,2015-01-02,2,153,home,FALSE,North Carolina,95,Tar Heels,North Carolina Tar Heels,North Carolina
-400593059,2015-01-02,2,2193,away,FALSE,East Tennessee State,62,Bucs,East Tennessee State Bucs,ETSU
-400593060,2015-01-02,2,150,home,FALSE,Duke,87,Blue Devils,Duke Blue Devils,Duke
-400593060,2015-01-02,2,2448,away,FALSE,North Carolina A&T,36,Aggies,North Carolina A&T Aggies,NC A&T
-400594886,2015-01-02,2,333,home,FALSE,Alabama,66,Crimson Tide,Alabama Crimson Tide,Alabama
-400594886,2015-01-02,2,96,away,FALSE,Kentucky,78,Wildcats,Kentucky Wildcats,Kentucky
-400594968,2015-01-02,2,344,home,FALSE,Mississippi State,64,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400594968,2015-01-02,2,61,away,FALSE,Georgia,56,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-400588236,2015-01-02,2,2599,home,FALSE,St. John's,59,Red Storm,St. John's Red Storm,St John's
-400588236,2015-01-02,2,2550,away,FALSE,Seton Hall,50,Pirates,Seton Hall Pirates,Seton Hall
-400588238,2015-01-02,3,222,home,FALSE,Villanova,79,Wildcats,Villanova Wildcats,Villanova
-400588238,2015-01-02,3,305,away,FALSE,DePaul,76,Blue Demons,DePaul Blue Demons,DePaul
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400594928,2015,regular-season,2015-01-02,2,2579,home,FALSE,South Carolina,77,Gamecocks,South Carolina Gamecocks,South Carolina
+400594928,2015,regular-season,2015-01-02,2,2,away,FALSE,Auburn,58,Tigers,Auburn Tigers,Auburn
+400593062,2015,regular-season,2015-01-02,2,87,home,FALSE,Notre Dame,74,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400593062,2015,regular-season,2015-01-02,2,52,away,FALSE,Florida State,68,Seminoles,Florida State Seminoles,Florida St
+400595063,2015,regular-season,2015-01-02,2,245,home,FALSE,Texas A&M,75,Aggies,Texas A&M Aggies,Texas A&M
+400595063,2015,regular-season,2015-01-02,2,238,away,FALSE,Vanderbilt,61,Commodores,Vanderbilt Commodores,Vanderbilt
+400593061,2015,regular-season,2015-01-02,2,97,home,FALSE,Louisville,75,Cardinals,Louisville Cardinals,Louisville
+400593061,2015,regular-season,2015-01-02,2,59,away,FALSE,Georgia Tech,48,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+400595031,2015,regular-season,2015-01-02,2,2633,home,FALSE,Tennessee,63,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400595031,2015,regular-season,2015-01-02,2,142,away,FALSE,Missouri,53,Tigers,Missouri Tigers,Missouri
+400593059,2015,regular-season,2015-01-02,2,153,home,FALSE,North Carolina,95,Tar Heels,North Carolina Tar Heels,North Carolina
+400593059,2015,regular-season,2015-01-02,2,2193,away,FALSE,East Tennessee State,62,Bucs,East Tennessee State Bucs,ETSU
+400593060,2015,regular-season,2015-01-02,2,150,home,FALSE,Duke,87,Blue Devils,Duke Blue Devils,Duke
+400593060,2015,regular-season,2015-01-02,2,2448,away,FALSE,North Carolina A&T,36,Aggies,North Carolina A&T Aggies,NC A&T
+400594886,2015,regular-season,2015-01-02,2,333,home,FALSE,Alabama,66,Crimson Tide,Alabama Crimson Tide,Alabama
+400594886,2015,regular-season,2015-01-02,2,96,away,FALSE,Kentucky,78,Wildcats,Kentucky Wildcats,Kentucky
+400594968,2015,regular-season,2015-01-02,2,344,home,FALSE,Mississippi State,64,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400594968,2015,regular-season,2015-01-02,2,61,away,FALSE,Georgia,56,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+400588236,2015,regular-season,2015-01-02,2,2599,home,FALSE,St. John's,59,Red Storm,St. John's Red Storm,St John's
+400588236,2015,regular-season,2015-01-02,2,2550,away,FALSE,Seton Hall,50,Pirates,Seton Hall Pirates,Seton Hall
+400588238,2015,regular-season,2015-01-02,3,222,home,FALSE,Villanova,79,Wildcats,Villanova Wildcats,Villanova
+400588238,2015,regular-season,2015-01-02,3,305,away,FALSE,DePaul,76,Blue Demons,DePaul Blue Demons,DePaul

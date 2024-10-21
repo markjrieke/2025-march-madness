@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400825573,2016-02-17,2,218,home,FALSE,Temple,67,Owls,Temple Owls,Temple
-400825573,2016-02-17,2,222,away,FALSE,Villanova,83,Wildcats,Villanova Wildcats,Villanova
-400831543,2016-02-17,2,2641,home,FALSE,Texas Tech,65,Red Raiders,Texas Tech Red Raiders,Texas Tech
-400831543,2016-02-17,2,201,away,FALSE,Oklahoma,63,Sooners,Oklahoma Sooners,Oklahoma
-400839311,2016-02-17,2,213,home,FALSE,Penn State,79,Nittany Lions,Penn State Nittany Lions,Penn State
-400839311,2016-02-17,2,2294,away,FALSE,Iowa,75,Hawkeyes,Iowa Hawkeyes,Iowa
-400839773,2016-02-17,2,153,home,FALSE,North Carolina,73,Tar Heels,North Carolina Tar Heels,North Carolina
-400839773,2016-02-17,2,150,away,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
-400840302,2016-02-17,2,2752,home,FALSE,Xavier,85,Musketeers,Xavier Musketeers,Xavier
-400840302,2016-02-17,2,2507,away,FALSE,Providence,74,Friars,Providence Friars,Providence
-400839179,2016-02-17,2,2390,home,FALSE,Miami,65,Hurricanes,Miami Hurricanes,Miami
-400839179,2016-02-17,2,259,away,FALSE,Virginia Tech,49,Hokies,Virginia Tech Hokies,Virginia Tech
-400841600,2016-02-17,2,12,home,FALSE,Arizona,99,Wildcats,Arizona Wildcats,Arizona
-400841600,2016-02-17,2,9,away,FALSE,Arizona State,61,Sun Devils,Arizona State Sun Devils,Arizona St
-400840996,2016-02-17,2,2603,home,FALSE,Saint Joseph's,79,Hawks,Saint Joseph's Hawks,Saint Joseph's
-400840996,2016-02-17,2,2168,away,FALSE,Dayton,70,Flyers,Dayton Flyers,Dayton
-400839206,2016-02-17,2,97,home,FALSE,Louisville,72,Cardinals,Louisville Cardinals,Louisville
-400839206,2016-02-17,2,183,away,FALSE,Syracuse,58,Orange,Syracuse Orange,Syracuse
-400839296,2016-02-17,2,84,home,FALSE,Indiana,80,Hoosiers,Indiana Hoosiers,Indiana
-400839296,2016-02-17,2,158,away,FALSE,Nebraska,64,Cornhuskers,Nebraska Cornhuskers,Nebraska
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400825573,2016,regular-season,2016-02-17,2,218,home,FALSE,Temple,67,Owls,Temple Owls,Temple
+400825573,2016,regular-season,2016-02-17,2,222,away,FALSE,Villanova,83,Wildcats,Villanova Wildcats,Villanova
+400831543,2016,regular-season,2016-02-17,2,2641,home,FALSE,Texas Tech,65,Red Raiders,Texas Tech Red Raiders,Texas Tech
+400831543,2016,regular-season,2016-02-17,2,201,away,FALSE,Oklahoma,63,Sooners,Oklahoma Sooners,Oklahoma
+400839311,2016,regular-season,2016-02-17,2,213,home,FALSE,Penn State,79,Nittany Lions,Penn State Nittany Lions,Penn State
+400839311,2016,regular-season,2016-02-17,2,2294,away,FALSE,Iowa,75,Hawkeyes,Iowa Hawkeyes,Iowa
+400839773,2016,regular-season,2016-02-17,2,153,home,FALSE,North Carolina,73,Tar Heels,North Carolina Tar Heels,North Carolina
+400839773,2016,regular-season,2016-02-17,2,150,away,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
+400840302,2016,regular-season,2016-02-17,2,2752,home,FALSE,Xavier,85,Musketeers,Xavier Musketeers,Xavier
+400840302,2016,regular-season,2016-02-17,2,2507,away,FALSE,Providence,74,Friars,Providence Friars,Providence
+400839179,2016,regular-season,2016-02-17,2,2390,home,FALSE,Miami,65,Hurricanes,Miami Hurricanes,Miami
+400839179,2016,regular-season,2016-02-17,2,259,away,FALSE,Virginia Tech,49,Hokies,Virginia Tech Hokies,Virginia Tech
+400841600,2016,regular-season,2016-02-17,2,12,home,FALSE,Arizona,99,Wildcats,Arizona Wildcats,Arizona
+400841600,2016,regular-season,2016-02-17,2,9,away,FALSE,Arizona State,61,Sun Devils,Arizona State Sun Devils,Arizona St
+400840996,2016,regular-season,2016-02-17,2,2603,home,FALSE,Saint Joseph's,79,Hawks,Saint Joseph's Hawks,Saint Joseph's
+400840996,2016,regular-season,2016-02-17,2,2168,away,FALSE,Dayton,70,Flyers,Dayton Flyers,Dayton
+400839206,2016,regular-season,2016-02-17,2,97,home,FALSE,Louisville,72,Cardinals,Louisville Cardinals,Louisville
+400839206,2016,regular-season,2016-02-17,2,183,away,FALSE,Syracuse,58,Orange,Syracuse Orange,Syracuse
+400839296,2016,regular-season,2016-02-17,2,84,home,FALSE,Indiana,80,Hoosiers,Indiana Hoosiers,Indiana
+400839296,2016,regular-season,2016-02-17,2,158,away,FALSE,Nebraska,64,Cornhuskers,Nebraska Cornhuskers,Nebraska

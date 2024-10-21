@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320400024,2012-02-09,2,24,home,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
-320400024,2012-02-09,2,30,away,FALSE,USC,52,Trojans,USC Trojans,USC
-320400103,2012-02-09,2,103,home,FALSE,Boston College,62,Eagles,Boston College Eagles,Boston College
-320400103,2012-02-09,2,150,away,FALSE,Duke,71,Blue Devils,Duke Blue Devils,Duke
-320400228,2012-02-09,2,228,home,FALSE,Clemson,61,Tigers,Clemson Tigers,Clemson
-320400228,2012-02-09,2,120,away,FALSE,Maryland,91,Terrapins,Maryland Terrapins,Maryland
-320402739,2012-02-09,2,2739,home,FALSE,Green Bay,58,Phoenix,Green Bay Phoenix,Green Bay
-320402739,2012-02-09,2,2174,away,FALSE,Detroit Mercy,70,Titans,Detroit Mercy Titans,Detroit Mercy
-320400356,2012-02-09,2,356,home,FALSE,Illinois,66,Fighting Illini,Illinois Fighting Illini,Illinois
-320400356,2012-02-09,2,194,away,FALSE,Ohio State,65,Buckeyes,Ohio State Buckeyes,Ohio State
-320400238,2012-02-09,2,238,home,FALSE,Vanderbilt,93,Commodores,Vanderbilt Commodores,Vanderbilt
-320400238,2012-02-09,2,2633,away,FALSE,Tennessee,79,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-320400048,2012-02-09,2,48,home,FALSE,Delaware,76,Blue Hens,Delaware Blue Hens,Delaware
-320400048,2012-02-09,2,295,away,FALSE,Old Dominion,63,Monarchs,Old Dominion Monarchs,Old Dominion
-320400158,2012-02-09,2,158,home,FALSE,Nebraska,52,Cornhuskers,Nebraska Cornhuskers,Nebraska
-320400158,2012-02-09,2,130,away,FALSE,Michigan,63,Wolverines,Michigan Wolverines,Michigan
-320400213,2012-02-09,2,213,home,FALSE,Penn State,69,Lady Lions,Penn State Lady Lions,Penn State
-320400213,2012-02-09,2,275,away,FALSE,Wisconsin,54,Badgers,Wisconsin Badgers,Wisconsin
-320400252,2012-02-09,2,252,home,FALSE,BYU,70,Cougars,BYU Cougars,BYU
-320400252,2012-02-09,2,2250,away,FALSE,Gonzaga,40,Bulldogs,Gonzaga Bulldogs,Gonzaga
-320400008,2012-02-09,2,8,home,FALSE,Arkansas,68,Razorbacks,Arkansas Razorbacks,Arkansas
-320400008,2012-02-09,2,2579,away,FALSE,South Carolina,47,Gamecocks,South Carolina Gamecocks,South Carolina
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320400024,2012,regular-season,2012-02-09,2,24,home,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
+320400024,2012,regular-season,2012-02-09,2,30,away,FALSE,USC,52,Trojans,USC Trojans,USC
+320400103,2012,regular-season,2012-02-09,2,103,home,FALSE,Boston College,62,Eagles,Boston College Eagles,Boston College
+320400103,2012,regular-season,2012-02-09,2,150,away,FALSE,Duke,71,Blue Devils,Duke Blue Devils,Duke
+320400228,2012,regular-season,2012-02-09,2,228,home,FALSE,Clemson,61,Tigers,Clemson Tigers,Clemson
+320400228,2012,regular-season,2012-02-09,2,120,away,FALSE,Maryland,91,Terrapins,Maryland Terrapins,Maryland
+320402739,2012,regular-season,2012-02-09,2,2739,home,FALSE,Green Bay,58,Phoenix,Green Bay Phoenix,Green Bay
+320402739,2012,regular-season,2012-02-09,2,2174,away,FALSE,Detroit Mercy,70,Titans,Detroit Mercy Titans,Detroit Mercy
+320400356,2012,regular-season,2012-02-09,2,356,home,FALSE,Illinois,66,Fighting Illini,Illinois Fighting Illini,Illinois
+320400356,2012,regular-season,2012-02-09,2,194,away,FALSE,Ohio State,65,Buckeyes,Ohio State Buckeyes,Ohio State
+320400238,2012,regular-season,2012-02-09,2,238,home,FALSE,Vanderbilt,93,Commodores,Vanderbilt Commodores,Vanderbilt
+320400238,2012,regular-season,2012-02-09,2,2633,away,FALSE,Tennessee,79,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+320400048,2012,regular-season,2012-02-09,2,48,home,FALSE,Delaware,76,Blue Hens,Delaware Blue Hens,Delaware
+320400048,2012,regular-season,2012-02-09,2,295,away,FALSE,Old Dominion,63,Monarchs,Old Dominion Monarchs,Old Dominion
+320400158,2012,regular-season,2012-02-09,2,158,home,FALSE,Nebraska,52,Cornhuskers,Nebraska Cornhuskers,Nebraska
+320400158,2012,regular-season,2012-02-09,2,130,away,FALSE,Michigan,63,Wolverines,Michigan Wolverines,Michigan
+320400213,2012,regular-season,2012-02-09,2,213,home,FALSE,Penn State,69,Lady Lions,Penn State Lady Lions,Penn State
+320400213,2012,regular-season,2012-02-09,2,275,away,FALSE,Wisconsin,54,Badgers,Wisconsin Badgers,Wisconsin
+320400252,2012,regular-season,2012-02-09,2,252,home,FALSE,BYU,70,Cougars,BYU Cougars,BYU
+320400252,2012,regular-season,2012-02-09,2,2250,away,FALSE,Gonzaga,40,Bulldogs,Gonzaga Bulldogs,Gonzaga
+320400008,2012,regular-season,2012-02-09,2,8,home,FALSE,Arkansas,68,Razorbacks,Arkansas Razorbacks,Arkansas
+320400008,2012,regular-season,2012-02-09,2,2579,away,FALSE,South Carolina,47,Gamecocks,South Carolina Gamecocks,South Carolina

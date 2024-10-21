@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-233610096,2003-12-27,2,96,home,FALSE,Kentucky,56,Wildcats,Kentucky Wildcats,Kentucky
-233610096,2003-12-27,2,97,away,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
-233612603,2003-12-27,2,2603,home,FALSE,Saint Joseph's,73,Hawks,Saint Joseph's Hawks,Saint Joseph's
-233612603,2003-12-27,2,279,away,FALSE,Pacific,55,Tigers,Pacific Tigers,Pacific
-233610235,2003-12-27,2,235,home,FALSE,Memphis,61,Tigers,Memphis Tigers,Memphis
-233610235,2003-12-27,2,142,away,FALSE,Missouri,59,Tigers,Missouri Tigers,Missouri
-233610057,2003-12-27,2,57,home,FALSE,Florida,109,Gators,Florida Gators,Florida
-233610057,2003-12-27,2,2198,away,FALSE,Eastern Kentucky,63,Colonels,Eastern Kentucky Colonels,E Kentucky
-233612132,2003-12-27,2,2132,home,FALSE,Cincinnati,83,Bearcats,Cincinnati Bearcats,Cincinnati
-233612132,2003-12-27,2,193,away,FALSE,Miami (OH),63,RedHawks,Miami (OH) RedHawks,Miami OH
-233610221,2003-12-27,2,221,home,FALSE,Pittsburgh,52,Panthers,Pittsburgh Panthers,Pitt
-233610221,2003-12-27,2,160,away,FALSE,New Hampshire,38,Wildcats,New Hampshire Wildcats,New Hampshire
-233610195,2003-12-27,2,195,home,FALSE,Ohio,48,Bobcats,Ohio Bobcats,Ohio
-233610195,2003-12-27,2,275,away,FALSE,Wisconsin,71,Badgers,Wisconsin Badgers,Wisconsin
-233612509,2003-12-27,2,2509,home,FALSE,Purdue,82,Boilermakers,Purdue Boilermakers,Purdue
-233612509,2003-12-27,2,339,away,FALSE,Evansville,62,Purple Aces,Evansville Purple Aces,Evansville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+233610096,2004,regular-season,2003-12-27,2,96,home,FALSE,Kentucky,56,Wildcats,Kentucky Wildcats,Kentucky
+233610096,2004,regular-season,2003-12-27,2,97,away,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
+233612603,2004,regular-season,2003-12-27,2,2603,home,FALSE,Saint Joseph's,73,Hawks,Saint Joseph's Hawks,Saint Joseph's
+233612603,2004,regular-season,2003-12-27,2,279,away,FALSE,Pacific,55,Tigers,Pacific Tigers,Pacific
+233610235,2004,regular-season,2003-12-27,2,235,home,FALSE,Memphis,61,Tigers,Memphis Tigers,Memphis
+233610235,2004,regular-season,2003-12-27,2,142,away,FALSE,Missouri,59,Tigers,Missouri Tigers,Missouri
+233610057,2004,regular-season,2003-12-27,2,57,home,FALSE,Florida,109,Gators,Florida Gators,Florida
+233610057,2004,regular-season,2003-12-27,2,2198,away,FALSE,Eastern Kentucky,63,Colonels,Eastern Kentucky Colonels,E Kentucky
+233612132,2004,regular-season,2003-12-27,2,2132,home,FALSE,Cincinnati,83,Bearcats,Cincinnati Bearcats,Cincinnati
+233612132,2004,regular-season,2003-12-27,2,193,away,FALSE,Miami (OH),63,RedHawks,Miami (OH) RedHawks,Miami OH
+233610221,2004,regular-season,2003-12-27,2,221,home,FALSE,Pittsburgh,52,Panthers,Pittsburgh Panthers,Pitt
+233610221,2004,regular-season,2003-12-27,2,160,away,FALSE,New Hampshire,38,Wildcats,New Hampshire Wildcats,New Hampshire
+233610195,2004,regular-season,2003-12-27,2,195,home,FALSE,Ohio,48,Bobcats,Ohio Bobcats,Ohio
+233610195,2004,regular-season,2003-12-27,2,275,away,FALSE,Wisconsin,71,Badgers,Wisconsin Badgers,Wisconsin
+233612509,2004,regular-season,2003-12-27,2,2509,home,FALSE,Purdue,82,Boilermakers,Purdue Boilermakers,Purdue
+233612509,2004,regular-season,2003-12-27,2,339,away,FALSE,Evansville,62,Purple Aces,Evansville Purple Aces,Evansville

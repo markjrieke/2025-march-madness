@@ -1,35 +1,35 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400869964,2016-03-07,2,2542,home,TRUE,Savannah State,63,Tigers,Savannah State Tigers,Savannah St
-400869964,2016-03-07,2,2169,away,TRUE,Delaware State,58,Hornets,Delaware State Hornets,Delaware St
-400870352,2016-03-07,2,2870,home,TRUE,Purdue Fort Wayne,68,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-400870352,2016-03-07,2,2449,away,TRUE,North Dakota State,69,Bison,North Dakota State Bison,N Dakota St
-400870331,2016-03-07,2,2405,home,TRUE,Monmouth,76,Hawks,Monmouth Hawks,Monmouth
-400870331,2016-03-07,2,314,away,TRUE,Iona,79,Gaels,Iona Gaels,Iona
-400870289,2016-03-07,3,2275,home,TRUE,Hofstra,73,Pride,Hofstra Pride,Hofstra
-400870289,2016-03-07,3,350,away,TRUE,UNC Wilmington,80,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
-400870268,2016-03-07,3,2674,home,TRUE,Valparaiso,92,Beacons,Valparaiso Beacons,Valparaiso
-400870268,2016-03-07,3,2739,away,TRUE,Green Bay,99,Phoenix,Green Bay Phoenix,Green Bay
-400869994,2016-03-07,2,2050,home,FALSE,Ball State,47,Cardinals,Ball State Cardinals,Ball State
-400869994,2016-03-07,2,193,away,FALSE,Miami (OH),49,RedHawks,Miami (OH) RedHawks,Miami OH
-400869992,2016-03-07,2,2309,home,FALSE,Kent State,69,Golden Flashes,Kent State Golden Flashes,Kent State
-400869992,2016-03-07,2,189,away,FALSE,Bowling Green,70,Falcons,Bowling Green Falcons,Bowling Green
-400868853,2016-03-07,2,2619,home,FALSE,Stony Brook,80,Seawolves,Stony Brook Seawolves,Stony Brook
-400868853,2016-03-07,2,42,away,FALSE,Hartford,64,Hawks,Hartford Hawks,Hartford
-400869991,2016-03-07,2,2199,home,FALSE,Eastern Michigan,69,Eagles,Eastern Michigan Eagles,E Michigan
-400869991,2016-03-07,2,2649,away,FALSE,Toledo,60,Rockets,Toledo Rockets,Toledo
-400868854,2016-03-07,2,261,home,FALSE,Vermont,63,Catamounts,Vermont Catamounts,Vermont
-400868854,2016-03-07,2,160,away,FALSE,New Hampshire,56,Wildcats,New Hampshire Wildcats,New Hampshire
-400869993,2016-03-07,2,2459,home,FALSE,Northern Illinois,56,Huskies,Northern Illinois Huskies,N Illinois
-400869993,2016-03-07,2,2711,away,FALSE,Western Michigan,50,Broncos,Western Michigan Broncos,W Michigan
-400869965,2016-03-07,4,2448,home,TRUE,North Carolina A&T,91,Aggies,North Carolina A&T Aggies,NC A&T
-400869965,2016-03-07,4,2154,away,TRUE,Coppin State,98,Eagles,Coppin State Eagles,Coppin St
-400870330,2016-03-07,2,236,home,TRUE,Chattanooga,73,Mocs,Chattanooga Mocs,Chattanooga
-400870330,2016-03-07,2,2193,away,TRUE,East Tennessee State,67,Buccaneers,East Tennessee State Buccaneers,ETSU
-400870241,2016-03-07,2,2608,home,TRUE,Saint Mary's,81,Gaels,Saint Mary's Gaels,Saint Mary's
-400870241,2016-03-07,2,2492,away,TRUE,Pepperdine,66,Waves,Pepperdine Waves,Pepperdine
-400870358,2016-03-07,2,2571,home,TRUE,South Dakota State,54,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-400870358,2016-03-07,2,2172,away,TRUE,Denver,53,Pioneers,Denver Pioneers,Denver
-400870287,2016-03-07,2,2473,home,TRUE,Oakland,55,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-400870287,2016-03-07,2,2750,away,TRUE,Wright State,59,Raiders,Wright State Raiders,Wright St
-400870250,2016-03-07,2,2250,home,TRUE,Gonzaga,88,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400870250,2016-03-07,2,252,away,TRUE,BYU,84,Cougars,BYU Cougars,BYU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400869964,2016,regular-season,2016-03-07,2,2542,home,TRUE,Savannah State,63,Tigers,Savannah State Tigers,Savannah St
+400869964,2016,regular-season,2016-03-07,2,2169,away,TRUE,Delaware State,58,Hornets,Delaware State Hornets,Delaware St
+400870352,2016,regular-season,2016-03-07,2,2870,home,TRUE,Purdue Fort Wayne,68,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+400870352,2016,regular-season,2016-03-07,2,2449,away,TRUE,North Dakota State,69,Bison,North Dakota State Bison,N Dakota St
+400870331,2016,regular-season,2016-03-07,2,2405,home,TRUE,Monmouth,76,Hawks,Monmouth Hawks,Monmouth
+400870331,2016,regular-season,2016-03-07,2,314,away,TRUE,Iona,79,Gaels,Iona Gaels,Iona
+400870289,2016,regular-season,2016-03-07,3,2275,home,TRUE,Hofstra,73,Pride,Hofstra Pride,Hofstra
+400870289,2016,regular-season,2016-03-07,3,350,away,TRUE,UNC Wilmington,80,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+400870268,2016,regular-season,2016-03-07,3,2674,home,TRUE,Valparaiso,92,Beacons,Valparaiso Beacons,Valparaiso
+400870268,2016,regular-season,2016-03-07,3,2739,away,TRUE,Green Bay,99,Phoenix,Green Bay Phoenix,Green Bay
+400869994,2016,regular-season,2016-03-07,2,2050,home,FALSE,Ball State,47,Cardinals,Ball State Cardinals,Ball State
+400869994,2016,regular-season,2016-03-07,2,193,away,FALSE,Miami (OH),49,RedHawks,Miami (OH) RedHawks,Miami OH
+400869992,2016,regular-season,2016-03-07,2,2309,home,FALSE,Kent State,69,Golden Flashes,Kent State Golden Flashes,Kent State
+400869992,2016,regular-season,2016-03-07,2,189,away,FALSE,Bowling Green,70,Falcons,Bowling Green Falcons,Bowling Green
+400868853,2016,regular-season,2016-03-07,2,2619,home,FALSE,Stony Brook,80,Seawolves,Stony Brook Seawolves,Stony Brook
+400868853,2016,regular-season,2016-03-07,2,42,away,FALSE,Hartford,64,Hawks,Hartford Hawks,Hartford
+400869991,2016,regular-season,2016-03-07,2,2199,home,FALSE,Eastern Michigan,69,Eagles,Eastern Michigan Eagles,E Michigan
+400869991,2016,regular-season,2016-03-07,2,2649,away,FALSE,Toledo,60,Rockets,Toledo Rockets,Toledo
+400868854,2016,regular-season,2016-03-07,2,261,home,FALSE,Vermont,63,Catamounts,Vermont Catamounts,Vermont
+400868854,2016,regular-season,2016-03-07,2,160,away,FALSE,New Hampshire,56,Wildcats,New Hampshire Wildcats,New Hampshire
+400869993,2016,regular-season,2016-03-07,2,2459,home,FALSE,Northern Illinois,56,Huskies,Northern Illinois Huskies,N Illinois
+400869993,2016,regular-season,2016-03-07,2,2711,away,FALSE,Western Michigan,50,Broncos,Western Michigan Broncos,W Michigan
+400869965,2016,regular-season,2016-03-07,4,2448,home,TRUE,North Carolina A&T,91,Aggies,North Carolina A&T Aggies,NC A&T
+400869965,2016,regular-season,2016-03-07,4,2154,away,TRUE,Coppin State,98,Eagles,Coppin State Eagles,Coppin St
+400870330,2016,regular-season,2016-03-07,2,236,home,TRUE,Chattanooga,73,Mocs,Chattanooga Mocs,Chattanooga
+400870330,2016,regular-season,2016-03-07,2,2193,away,TRUE,East Tennessee State,67,Buccaneers,East Tennessee State Buccaneers,ETSU
+400870241,2016,regular-season,2016-03-07,2,2608,home,TRUE,Saint Mary's,81,Gaels,Saint Mary's Gaels,Saint Mary's
+400870241,2016,regular-season,2016-03-07,2,2492,away,TRUE,Pepperdine,66,Waves,Pepperdine Waves,Pepperdine
+400870358,2016,regular-season,2016-03-07,2,2571,home,TRUE,South Dakota State,54,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+400870358,2016,regular-season,2016-03-07,2,2172,away,TRUE,Denver,53,Pioneers,Denver Pioneers,Denver
+400870287,2016,regular-season,2016-03-07,2,2473,home,TRUE,Oakland,55,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+400870287,2016,regular-season,2016-03-07,2,2750,away,TRUE,Wright State,59,Raiders,Wright State Raiders,Wright St
+400870250,2016,regular-season,2016-03-07,2,2250,home,TRUE,Gonzaga,88,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400870250,2016,regular-season,2016-03-07,2,252,away,TRUE,BYU,84,Cougars,BYU Cougars,BYU

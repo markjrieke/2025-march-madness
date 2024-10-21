@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401601537,2024-01-16,4,2294,home,FALSE,Iowa,96,Hawkeyes,Iowa Hawkeyes,Iowa
-401601537,2024-01-16,4,275,away,FALSE,Wisconsin,50,Badgers,Wisconsin Badgers,Wisconsin
-401603307,2024-01-16,4,251,home,FALSE,Texas,91,Longhorns,Texas Longhorns,Texas
-401603307,2024-01-16,4,2305,away,FALSE,Kansas,56,Jayhawks,Kansas Jayhawks,Kansas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401601537,2024,regular-season,2024-01-16,4,2294,home,FALSE,Iowa,96,Hawkeyes,Iowa Hawkeyes,Iowa
+401601537,2024,regular-season,2024-01-16,4,275,away,FALSE,Wisconsin,50,Badgers,Wisconsin Badgers,Wisconsin
+401603307,2024,regular-season,2024-01-16,4,251,home,FALSE,Texas,91,Longhorns,Texas Longhorns,Texas
+401603307,2024,regular-season,2024-01-16,4,2305,away,FALSE,Kansas,56,Jayhawks,Kansas Jayhawks,Kansas

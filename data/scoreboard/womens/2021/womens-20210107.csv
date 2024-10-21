@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401275525,2021-01-07,4,259,home,FALSE,Virginia Tech,67,Hokies,Virginia Tech Hokies,Virginia Tech
-401275525,2021-01-07,4,97,away,FALSE,Louisville,71,Cardinals,Louisville Cardinals,Louisville
-401261314,2021-01-07,4,245,home,FALSE,Texas A&M,77,Aggies,Texas A&M Aggies,Texas A&M
-401261314,2021-01-07,4,96,away,FALSE,Kentucky,60,Wildcats,Kentucky Wildcats,Kentucky
-401264833,2021-01-07,4,127,home,FALSE,Michigan State,87,Spartans,Michigan State Spartans,Michigan St
-401264833,2021-01-07,4,120,away,FALSE,Maryland,93,Terrapins,Maryland Terrapins,Maryland
-401261309,2021-01-07,4,2633,home,FALSE,Tennessee,88,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401261309,2021-01-07,4,8,away,FALSE,Arkansas,73,Razorbacks,Arkansas Razorbacks,Arkansas
-401261311,2021-01-07,4,57,home,FALSE,Florida,56,Gators,Florida Gators,Florida
-401261311,2021-01-07,4,344,away,FALSE,Mississippi State,68,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401264834,2021-01-07,4,130,home,FALSE,Michigan,64,Wolverines,Michigan Wolverines,Michigan
-401264834,2021-01-07,4,158,away,FALSE,Nebraska,62,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401264835,2021-01-07,4,356,home,FALSE,Illinois,55,Fighting Illini,Illinois Fighting Illini,Illinois
-401264835,2021-01-07,4,194,away,FALSE,Ohio State,78,Buckeyes,Ohio State Buckeyes,Ohio State
-401264832,2021-01-07,4,213,home,FALSE,Penn State,64,Lady Lions,Penn State Lady Lions,Penn State
-401264832,2021-01-07,4,84,away,FALSE,Indiana,85,Hoosiers,Indiana Hoosiers,Indiana
-401254963,2021-01-07,0,239,home,FALSE,Baylor,0,Bears,Baylor Bears,Baylor
-401254963,2021-01-07,0,41,away,FALSE,UConn,0,Huskies,UConn Huskies,UConn
-401261312,2021-01-07,0,2579,home,FALSE,South Carolina,0,Gamecocks,South Carolina Gamecocks,South Carolina
-401261312,2021-01-07,0,61,away,FALSE,Georgia,0,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-401260462,2021-01-07,0,183,home,FALSE,Syracuse,0,Orange,Syracuse Orange,Syracuse
-401260462,2021-01-07,0,258,away,FALSE,Virginia,0,Cavaliers,Virginia Cavaliers,Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401275525,2021,regular-season,2021-01-07,4,259,home,FALSE,Virginia Tech,67,Hokies,Virginia Tech Hokies,Virginia Tech
+401275525,2021,regular-season,2021-01-07,4,97,away,FALSE,Louisville,71,Cardinals,Louisville Cardinals,Louisville
+401261314,2021,regular-season,2021-01-07,4,245,home,FALSE,Texas A&M,77,Aggies,Texas A&M Aggies,Texas A&M
+401261314,2021,regular-season,2021-01-07,4,96,away,FALSE,Kentucky,60,Wildcats,Kentucky Wildcats,Kentucky
+401264833,2021,regular-season,2021-01-07,4,127,home,FALSE,Michigan State,87,Spartans,Michigan State Spartans,Michigan St
+401264833,2021,regular-season,2021-01-07,4,120,away,FALSE,Maryland,93,Terrapins,Maryland Terrapins,Maryland
+401261309,2021,regular-season,2021-01-07,4,2633,home,FALSE,Tennessee,88,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401261309,2021,regular-season,2021-01-07,4,8,away,FALSE,Arkansas,73,Razorbacks,Arkansas Razorbacks,Arkansas
+401261311,2021,regular-season,2021-01-07,4,57,home,FALSE,Florida,56,Gators,Florida Gators,Florida
+401261311,2021,regular-season,2021-01-07,4,344,away,FALSE,Mississippi State,68,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401264834,2021,regular-season,2021-01-07,4,130,home,FALSE,Michigan,64,Wolverines,Michigan Wolverines,Michigan
+401264834,2021,regular-season,2021-01-07,4,158,away,FALSE,Nebraska,62,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401264835,2021,regular-season,2021-01-07,4,356,home,FALSE,Illinois,55,Fighting Illini,Illinois Fighting Illini,Illinois
+401264835,2021,regular-season,2021-01-07,4,194,away,FALSE,Ohio State,78,Buckeyes,Ohio State Buckeyes,Ohio State
+401264832,2021,regular-season,2021-01-07,4,213,home,FALSE,Penn State,64,Lady Lions,Penn State Lady Lions,Penn State
+401264832,2021,regular-season,2021-01-07,4,84,away,FALSE,Indiana,85,Hoosiers,Indiana Hoosiers,Indiana
+401254963,2021,regular-season,2021-01-07,0,239,home,FALSE,Baylor,0,Bears,Baylor Bears,Baylor
+401254963,2021,regular-season,2021-01-07,0,41,away,FALSE,UConn,0,Huskies,UConn Huskies,UConn
+401261312,2021,regular-season,2021-01-07,0,2579,home,FALSE,South Carolina,0,Gamecocks,South Carolina Gamecocks,South Carolina
+401261312,2021,regular-season,2021-01-07,0,61,away,FALSE,Georgia,0,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+401260462,2021,regular-season,2021-01-07,0,183,home,FALSE,Syracuse,0,Orange,Syracuse Orange,Syracuse
+401260462,2021,regular-season,2021-01-07,0,258,away,FALSE,Virginia,0,Cavaliers,Virginia Cavaliers,Virginia

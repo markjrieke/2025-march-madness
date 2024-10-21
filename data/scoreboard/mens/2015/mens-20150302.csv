@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400588011,2015-03-02,2,183,home,FALSE,Syracuse,47,Orange,Syracuse Orange,Syracuse
-400588011,2015-03-02,2,258,away,FALSE,Virginia,59,Cavaliers,Virginia Cavaliers,Virginia
-400585861,2015-03-02,3,251,home,FALSE,Texas,61,Longhorns,Texas Longhorns,Texas
-400585861,2015-03-02,3,239,away,FALSE,Baylor,59,Bears,Baylor Bears,Baylor
-400585862,2015-03-02,2,66,home,FALSE,Iowa State,77,Cyclones,Iowa State Cyclones,Iowa State
-400585862,2015-03-02,2,201,away,FALSE,Oklahoma,70,Sooners,Oklahoma Sooners,Oklahoma
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400588011,2015,regular-season,2015-03-02,2,183,home,FALSE,Syracuse,47,Orange,Syracuse Orange,Syracuse
+400588011,2015,regular-season,2015-03-02,2,258,away,FALSE,Virginia,59,Cavaliers,Virginia Cavaliers,Virginia
+400585861,2015,regular-season,2015-03-02,3,251,home,FALSE,Texas,61,Longhorns,Texas Longhorns,Texas
+400585861,2015,regular-season,2015-03-02,3,239,away,FALSE,Baylor,59,Bears,Baylor Bears,Baylor
+400585862,2015,regular-season,2015-03-02,2,66,home,FALSE,Iowa State,77,Cyclones,Iowa State Cyclones,Iowa State
+400585862,2015,regular-season,2015-03-02,2,201,away,FALSE,Oklahoma,70,Sooners,Oklahoma Sooners,Oklahoma

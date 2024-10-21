@@ -1,45 +1,45 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401179189,2020-02-17,4,2681,home,FALSE,Wagner,52,Seahawks,Wagner Seahawks,Wagner
-401179189,2020-02-17,4,116,away,FALSE,Mount St. Mary's,67,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-401179187,2020-02-17,4,2803,home,FALSE,Bryant,53,Bulldogs,Bryant Bulldogs,Bryant
-401179187,2020-02-17,4,2771,away,FALSE,Merrimack,61,Warriors,Merrimack Warriors,Merrimack
-401180108,2020-02-17,4,2569,home,FALSE,South Carolina State,47,Lady Bulldogs,South Carolina State Lady Bulldogs,SC State
-401180108,2020-02-17,4,2415,away,FALSE,Morgan State,60,Lady Bears,Morgan State Lady Bears,Morgan St
-401179821,2020-02-17,4,2379,home,FALSE,Maryland Eastern Shore,71,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-401179821,2020-02-17,4,50,away,FALSE,Florida A&M,81,Rattlers,Florida A&M Rattlers,Florida A&M
-401179790,2020-02-17,4,2450,home,FALSE,Norfolk State,55,Spartans,Norfolk State Spartans,Norfolk St
-401179790,2020-02-17,4,2154,away,FALSE,Coppin State,57,Eagles,Coppin State Eagles,Coppin St
-401179772,2020-02-17,4,2169,home,FALSE,Delaware State,55,Hornets,Delaware State Hornets,Delaware St
-401179772,2020-02-17,4,2065,away,FALSE,Bethune-Cookman,66,Wildcats,Bethune-Cookman Wildcats,Bethune
-401180301,2020-02-17,4,2582,home,FALSE,Southern,71,Jaguars,Southern Jaguars,Southern
-401180301,2020-02-17,4,2400,away,FALSE,Mississippi Valley State,40,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
-401180295,2020-02-17,4,2504,home,FALSE,Prairie View A&M,62,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
-401180295,2020-02-17,4,2296,away,FALSE,Jackson State,52,Lady Tigers,Jackson State Lady Tigers,Jackson St
-401180286,2020-02-17,4,2640,home,FALSE,Texas Southern,85,Tigers,Texas Southern Tigers,Texas Southern
-401180286,2020-02-17,4,2755,away,FALSE,Grambling,62,Lady Tigers,Grambling Lady Tigers,Grambling
-401180260,2020-02-17,4,2016,home,FALSE,Alcorn State,57,Lady Braves,Alcorn State Lady Braves,Alcorn St
-401180260,2020-02-17,4,2029,away,FALSE,Arkansas-Pine Bluff,54,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-401179191,2020-02-17,4,2598,home,FALSE,St. Francis (PA),57,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-401179191,2020-02-17,4,2523,away,FALSE,Robert Morris,66,Colonials,Robert Morris Colonials,Robert Morris
-401179190,2020-02-17,4,112358,home,FALSE,Long Island University,66,Sharks,Long Island University Sharks,Long Island
-401179190,2020-02-17,4,2529,away,FALSE,Sacred Heart,63,Pioneers,Sacred Heart Pioneers,Sacred Heart
-401179188,2020-02-17,4,2115,home,FALSE,Central Connecticut,55,Blue Devils,Central Connecticut Blue Devils,C Connecticut
-401179188,2020-02-17,4,161,away,FALSE,Fairleigh Dickinson,63,Knights,Fairleigh Dickinson Knights,Fair Dickinson
-401174344,2020-02-17,4,338,home,FALSE,Kennesaw State,64,Owls,Kennesaw State Owls,Kennesaw St
-401174344,2020-02-17,4,526,away,FALSE,Florida Gulf Coast,89,Eagles,Florida Gulf Coast Eagles,FGCU
-401174343,2020-02-17,4,56,home,FALSE,Stetson,69,Hatters,Stetson Hatters,Stetson
-401174343,2020-02-17,4,2453,away,FALSE,North Alabama,60,Lions,North Alabama Lions,North Alabama
-401174342,2020-02-17,4,2454,home,FALSE,North Florida,60,Ospreys,North Florida Ospreys,North Florida
-401174342,2020-02-17,4,294,away,FALSE,Jacksonville,69,Dolphins,Jacksonville Dolphins,Jacksonville
-401166901,2020-02-17,4,127,home,FALSE,Michigan State,66,Spartans,Michigan State Spartans,Michigan St
-401166901,2020-02-17,4,135,away,FALSE,Minnesota,54,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401166718,2020-02-17,4,2579,home,FALSE,South Carolina,95,Gamecocks,South Carolina Gamecocks,South Carolina
-401166718,2020-02-17,4,238,away,FALSE,Vanderbilt,44,Commodores,Vanderbilt Commodores,Vanderbilt
-401174345,2020-02-17,4,288,home,FALSE,Lipscomb,68,Bisons,Lipscomb Bisons,Lipscomb
-401174345,2020-02-17,4,2885,away,FALSE,NJIT,66,Highlanders,NJIT Highlanders,NJIT
-401176957,2020-02-17,4,251,home,FALSE,Texas,50,Longhorns,Texas Longhorns,Texas
-401176957,2020-02-17,4,277,away,FALSE,West Virginia,44,Mountaineers,West Virginia Mountaineers,West Virginia
-401174662,2020-02-17,4,70,home,FALSE,Idaho,65,Vandals,Idaho Vandals,Idaho
-401174662,2020-02-17,4,2502,away,FALSE,Portland State,52,Vikings,Portland State Vikings,Portland St
-401172184,2020-02-17,5,26,home,FALSE,UCLA,83,Bruins,UCLA Bruins,UCLA
-401172184,2020-02-17,5,204,away,FALSE,Oregon State,74,Beavers,Oregon State Beavers,Oregon St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401179189,2020,regular-season,2020-02-17,4,2681,home,FALSE,Wagner,52,Seahawks,Wagner Seahawks,Wagner
+401179189,2020,regular-season,2020-02-17,4,116,away,FALSE,Mount St. Mary's,67,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+401179187,2020,regular-season,2020-02-17,4,2803,home,FALSE,Bryant,53,Bulldogs,Bryant Bulldogs,Bryant
+401179187,2020,regular-season,2020-02-17,4,2771,away,FALSE,Merrimack,61,Warriors,Merrimack Warriors,Merrimack
+401180108,2020,regular-season,2020-02-17,4,2569,home,FALSE,South Carolina State,47,Lady Bulldogs,South Carolina State Lady Bulldogs,SC State
+401180108,2020,regular-season,2020-02-17,4,2415,away,FALSE,Morgan State,60,Lady Bears,Morgan State Lady Bears,Morgan St
+401179821,2020,regular-season,2020-02-17,4,2379,home,FALSE,Maryland Eastern Shore,71,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+401179821,2020,regular-season,2020-02-17,4,50,away,FALSE,Florida A&M,81,Rattlers,Florida A&M Rattlers,Florida A&M
+401179790,2020,regular-season,2020-02-17,4,2450,home,FALSE,Norfolk State,55,Spartans,Norfolk State Spartans,Norfolk St
+401179790,2020,regular-season,2020-02-17,4,2154,away,FALSE,Coppin State,57,Eagles,Coppin State Eagles,Coppin St
+401179772,2020,regular-season,2020-02-17,4,2169,home,FALSE,Delaware State,55,Hornets,Delaware State Hornets,Delaware St
+401179772,2020,regular-season,2020-02-17,4,2065,away,FALSE,Bethune-Cookman,66,Wildcats,Bethune-Cookman Wildcats,Bethune
+401180301,2020,regular-season,2020-02-17,4,2582,home,FALSE,Southern,71,Jaguars,Southern Jaguars,Southern
+401180301,2020,regular-season,2020-02-17,4,2400,away,FALSE,Mississippi Valley State,40,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
+401180295,2020,regular-season,2020-02-17,4,2504,home,FALSE,Prairie View A&M,62,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
+401180295,2020,regular-season,2020-02-17,4,2296,away,FALSE,Jackson State,52,Lady Tigers,Jackson State Lady Tigers,Jackson St
+401180286,2020,regular-season,2020-02-17,4,2640,home,FALSE,Texas Southern,85,Tigers,Texas Southern Tigers,Texas Southern
+401180286,2020,regular-season,2020-02-17,4,2755,away,FALSE,Grambling,62,Lady Tigers,Grambling Lady Tigers,Grambling
+401180260,2020,regular-season,2020-02-17,4,2016,home,FALSE,Alcorn State,57,Lady Braves,Alcorn State Lady Braves,Alcorn St
+401180260,2020,regular-season,2020-02-17,4,2029,away,FALSE,Arkansas-Pine Bluff,54,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+401179191,2020,regular-season,2020-02-17,4,2598,home,FALSE,St. Francis (PA),57,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+401179191,2020,regular-season,2020-02-17,4,2523,away,FALSE,Robert Morris,66,Colonials,Robert Morris Colonials,Robert Morris
+401179190,2020,regular-season,2020-02-17,4,112358,home,FALSE,Long Island University,66,Sharks,Long Island University Sharks,Long Island
+401179190,2020,regular-season,2020-02-17,4,2529,away,FALSE,Sacred Heart,63,Pioneers,Sacred Heart Pioneers,Sacred Heart
+401179188,2020,regular-season,2020-02-17,4,2115,home,FALSE,Central Connecticut,55,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+401179188,2020,regular-season,2020-02-17,4,161,away,FALSE,Fairleigh Dickinson,63,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+401174344,2020,regular-season,2020-02-17,4,338,home,FALSE,Kennesaw State,64,Owls,Kennesaw State Owls,Kennesaw St
+401174344,2020,regular-season,2020-02-17,4,526,away,FALSE,Florida Gulf Coast,89,Eagles,Florida Gulf Coast Eagles,FGCU
+401174343,2020,regular-season,2020-02-17,4,56,home,FALSE,Stetson,69,Hatters,Stetson Hatters,Stetson
+401174343,2020,regular-season,2020-02-17,4,2453,away,FALSE,North Alabama,60,Lions,North Alabama Lions,North Alabama
+401174342,2020,regular-season,2020-02-17,4,2454,home,FALSE,North Florida,60,Ospreys,North Florida Ospreys,North Florida
+401174342,2020,regular-season,2020-02-17,4,294,away,FALSE,Jacksonville,69,Dolphins,Jacksonville Dolphins,Jacksonville
+401166901,2020,regular-season,2020-02-17,4,127,home,FALSE,Michigan State,66,Spartans,Michigan State Spartans,Michigan St
+401166901,2020,regular-season,2020-02-17,4,135,away,FALSE,Minnesota,54,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401166718,2020,regular-season,2020-02-17,4,2579,home,FALSE,South Carolina,95,Gamecocks,South Carolina Gamecocks,South Carolina
+401166718,2020,regular-season,2020-02-17,4,238,away,FALSE,Vanderbilt,44,Commodores,Vanderbilt Commodores,Vanderbilt
+401174345,2020,regular-season,2020-02-17,4,288,home,FALSE,Lipscomb,68,Bisons,Lipscomb Bisons,Lipscomb
+401174345,2020,regular-season,2020-02-17,4,2885,away,FALSE,NJIT,66,Highlanders,NJIT Highlanders,NJIT
+401176957,2020,regular-season,2020-02-17,4,251,home,FALSE,Texas,50,Longhorns,Texas Longhorns,Texas
+401176957,2020,regular-season,2020-02-17,4,277,away,FALSE,West Virginia,44,Mountaineers,West Virginia Mountaineers,West Virginia
+401174662,2020,regular-season,2020-02-17,4,70,home,FALSE,Idaho,65,Vandals,Idaho Vandals,Idaho
+401174662,2020,regular-season,2020-02-17,4,2502,away,FALSE,Portland State,52,Vikings,Portland State Vikings,Portland St
+401172184,2020,regular-season,2020-02-17,5,26,home,FALSE,UCLA,83,Bruins,UCLA Bruins,UCLA
+401172184,2020,regular-season,2020-02-17,5,204,away,FALSE,Oregon State,74,Beavers,Oregon State Beavers,Oregon St

@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220062294,2002-01-06,2,2294,home,FALSE,Iowa,90,Hawkeyes,Iowa Hawkeyes,Iowa
-220062294,2002-01-06,2,2509,away,FALSE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
-220060150,2002-01-06,2,150,home,FALSE,Duke,91,Blue Devils,Duke Blue Devils,Duke
-220060150,2002-01-06,2,154,away,FALSE,Wake Forest,46,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-220060275,2002-01-06,2,275,home,FALSE,Wisconsin,89,Badgers,Wisconsin Badgers,Wisconsin
-220060275,2002-01-06,2,130,away,FALSE,Michigan,74,Wolverines,Michigan Wolverines,Michigan
-220060344,2002-01-06,2,344,home,FALSE,Mississippi State,64,Bulldogs,Mississippi State Bulldogs,Mississippi St
-220060344,2002-01-06,2,2579,away,FALSE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
-220060002,2002-01-06,2,2,home,FALSE,Auburn,61,Tigers,Auburn Tigers,Auburn
-220060002,2002-01-06,2,57,away,FALSE,Florida,70,Gators,Florida Gators,Florida
-220060038,2002-01-06,2,38,home,FALSE,Colorado,68,Buffaloes,Colorado Buffaloes,Colorado
-220060038,2002-01-06,2,251,away,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220062294,2002,regular-season,2002-01-06,2,2294,home,FALSE,Iowa,90,Hawkeyes,Iowa Hawkeyes,Iowa
+220062294,2002,regular-season,2002-01-06,2,2509,away,FALSE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
+220060150,2002,regular-season,2002-01-06,2,150,home,FALSE,Duke,91,Blue Devils,Duke Blue Devils,Duke
+220060150,2002,regular-season,2002-01-06,2,154,away,FALSE,Wake Forest,46,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+220060275,2002,regular-season,2002-01-06,2,275,home,FALSE,Wisconsin,89,Badgers,Wisconsin Badgers,Wisconsin
+220060275,2002,regular-season,2002-01-06,2,130,away,FALSE,Michigan,74,Wolverines,Michigan Wolverines,Michigan
+220060344,2002,regular-season,2002-01-06,2,344,home,FALSE,Mississippi State,64,Bulldogs,Mississippi State Bulldogs,Mississippi St
+220060344,2002,regular-season,2002-01-06,2,2579,away,FALSE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
+220060002,2002,regular-season,2002-01-06,2,2,home,FALSE,Auburn,61,Tigers,Auburn Tigers,Auburn
+220060002,2002,regular-season,2002-01-06,2,57,away,FALSE,Florida,70,Gators,Florida Gators,Florida
+220060038,2002,regular-season,2002-01-06,2,38,home,FALSE,Colorado,68,Buffaloes,Colorado Buffaloes,Colorado
+220060038,2002,regular-season,2002-01-06,2,251,away,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400988503,2017-11-29,2,222,home,FALSE,Villanova,90,Wildcats,Villanova Wildcats,Villanova
-400988503,2017-11-29,2,219,away,FALSE,Pennsylvania,62,Quakers,Pennsylvania Quakers,Penn
-400986880,2017-11-29,2,2250,home,FALSE,Gonzaga,103,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400986880,2017-11-29,2,2916,away,FALSE,Incarnate Word,68,Cardinals,Incarnate Word Cardinals,Incarnate Word
-400989245,2017-11-29,2,2628,home,FALSE,TCU,87,Horned Frogs,TCU Horned Frogs,TCU
-400989245,2017-11-29,2,2057,away,FALSE,Belmont,76,Bruins,Belmont Bruins,Belmont
-400987208,2017-11-29,2,333,home,FALSE,Alabama,77,Crimson Tide,Alabama Crimson Tide,Alabama
-400987208,2017-11-29,2,2348,away,FALSE,Louisiana Tech,74,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400988503,2018,regular-season,2017-11-29,2,222,home,FALSE,Villanova,90,Wildcats,Villanova Wildcats,Villanova
+400988503,2018,regular-season,2017-11-29,2,219,away,FALSE,Pennsylvania,62,Quakers,Pennsylvania Quakers,Penn
+400986880,2018,regular-season,2017-11-29,2,2250,home,FALSE,Gonzaga,103,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400986880,2018,regular-season,2017-11-29,2,2916,away,FALSE,Incarnate Word,68,Cardinals,Incarnate Word Cardinals,Incarnate Word
+400989245,2018,regular-season,2017-11-29,2,2628,home,FALSE,TCU,87,Horned Frogs,TCU Horned Frogs,TCU
+400989245,2018,regular-season,2017-11-29,2,2057,away,FALSE,Belmont,76,Bruins,Belmont Bruins,Belmont
+400987208,2018,regular-season,2017-11-29,2,333,home,FALSE,Alabama,77,Crimson Tide,Alabama Crimson Tide,Alabama
+400987208,2018,regular-season,2017-11-29,2,2348,away,FALSE,Louisiana Tech,74,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401377429,2022-01-23,2,25,home,FALSE,California,71,Golden Bears,California Golden Bears,California
-401377429,2022-01-23,2,12,away,FALSE,Arizona,96,Wildcats,Arizona Wildcats,Arizona
-401364399,2022-01-23,2,2509,home,FALSE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
-401364399,2022-01-23,2,77,away,FALSE,Northwestern,60,Wildcats,Northwestern Wildcats,Northwestern
-401373560,2022-01-23,2,269,home,FALSE,Marquette,75,Golden Eagles,Marquette Golden Eagles,Marquette
-401373560,2022-01-23,2,2752,away,FALSE,Xavier,64,Musketeers,Xavier Musketeers,Xavier
-401373559,2022-01-23,2,2507,home,FALSE,Providence,69,Friars,Providence Friars,Providence
-401373559,2022-01-23,2,2086,away,FALSE,Butler,62,Bulldogs,Butler Bulldogs,Butler
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401377429,2022,regular-season,2022-01-23,2,25,home,FALSE,California,71,Golden Bears,California Golden Bears,California
+401377429,2022,regular-season,2022-01-23,2,12,away,FALSE,Arizona,96,Wildcats,Arizona Wildcats,Arizona
+401364399,2022,regular-season,2022-01-23,2,2509,home,FALSE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
+401364399,2022,regular-season,2022-01-23,2,77,away,FALSE,Northwestern,60,Wildcats,Northwestern Wildcats,Northwestern
+401373560,2022,regular-season,2022-01-23,2,269,home,FALSE,Marquette,75,Golden Eagles,Marquette Golden Eagles,Marquette
+401373560,2022,regular-season,2022-01-23,2,2752,away,FALSE,Xavier,64,Musketeers,Xavier Musketeers,Xavier
+401373559,2022,regular-season,2022-01-23,2,2507,home,FALSE,Providence,69,Friars,Providence Friars,Providence
+401373559,2022,regular-season,2022-01-23,2,2086,away,FALSE,Butler,62,Bulldogs,Butler Bulldogs,Butler

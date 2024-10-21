@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401025856,2018-03-13,2,2515,home,TRUE,Radford,71,Highlanders,Radford Highlanders,Radford
-401025856,2018-03-13,2,6446,away,TRUE,LIU Brooklyn,61,Liu Brooklyn,LIU Brooklyn Liu Brooklyn,Liu Brooklyn
-401025841,2018-03-13,2,26,home,TRUE,UCLA,58,Bruins,UCLA Bruins,UCLA
-401025841,2018-03-13,2,179,away,TRUE,St. Bonaventure,65,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401025856,2018,post-season,2018-03-13,2,2515,home,TRUE,Radford,71,Highlanders,Radford Highlanders,Radford
+401025856,2018,post-season,2018-03-13,2,6446,away,TRUE,LIU Brooklyn,61,Liu Brooklyn,LIU Brooklyn Liu Brooklyn,Liu Brooklyn
+401025841,2018,post-season,2018-03-13,2,26,home,TRUE,UCLA,58,Bruins,UCLA Bruins,UCLA
+401025841,2018,post-season,2018-03-13,2,179,away,TRUE,St. Bonaventure,65,Bonnies,St. Bonaventure Bonnies,St Bonaventure

@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280680153,2008-03-08,2,153,home,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
-280680153,2008-03-08,2,258,away,FALSE,Virginia,65,Cavaliers,Virginia Cavaliers,Virginia
-280682633,2008-03-08,2,2633,home,FALSE,Tennessee,63,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-280682633,2008-03-08,2,238,away,FALSE,Vanderbilt,48,Commodores,Vanderbilt Commodores,Vanderbilt
-280680120,2008-03-08,2,120,home,FALSE,Maryland,63,Terrapins,Maryland Terrapins,Maryland
-280680120,2008-03-08,2,150,away,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
-280680024,2008-03-08,2,24,home,FALSE,Stanford,64,Cardinal,Stanford Cardinal,Stanford
-280680024,2008-03-08,2,204,away,FALSE,Oregon State,41,Beavers,Oregon State Beavers,Oregon St
-280680099,2008-03-08,2,99,home,FALSE,LSU,66,Tigers,LSU Tigers,LSU
-280680099,2008-03-08,2,96,away,FALSE,Kentucky,49,Wildcats,Kentucky Wildcats,Kentucky
-280680025,2008-03-08,2,25,home,FALSE,California,67,Golden Bears,California Golden Bears,California
-280680025,2008-03-08,2,2483,away,FALSE,Oregon,60,Ducks,Oregon Ducks,Oregon
-280680045,2008-03-08,2,45,home,FALSE,George Washington,70,Revolutionaries,George Washington Revolutionaries,G Washington
-280680045,2008-03-08,2,227,away,FALSE,Rhode Island,43,Rams,Rhode Island Rams,Rhode Island
-280680254,2008-03-08,2,254,home,FALSE,Utah,82,Utes,Utah Utes,Utah
-280680254,2008-03-08,2,2439,away,FALSE,UNLV,46,Lady Rebels,UNLV Lady Rebels,UNLV
-280682638,2008-03-08,2,2638,home,FALSE,UTEP,86,Miners,UTEP Miners,UTEP
-280682638,2008-03-08,2,2572,away,FALSE,Southern Miss,69,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-280682368,2008-03-08,2,2368,home,FALSE,Marist,78,Red Foxes,Marist Red Foxes,Marist
-280682368,2008-03-08,2,2612,away,FALSE,Saint Peter's,67,Peacocks,Saint Peter's Peacocks,Saint Peter's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280680153,2008,regular-season,2008-03-08,2,153,home,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
+280680153,2008,regular-season,2008-03-08,2,258,away,FALSE,Virginia,65,Cavaliers,Virginia Cavaliers,Virginia
+280682633,2008,regular-season,2008-03-08,2,2633,home,FALSE,Tennessee,63,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+280682633,2008,regular-season,2008-03-08,2,238,away,FALSE,Vanderbilt,48,Commodores,Vanderbilt Commodores,Vanderbilt
+280680120,2008,regular-season,2008-03-08,2,120,home,FALSE,Maryland,63,Terrapins,Maryland Terrapins,Maryland
+280680120,2008,regular-season,2008-03-08,2,150,away,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
+280680024,2008,regular-season,2008-03-08,2,24,home,FALSE,Stanford,64,Cardinal,Stanford Cardinal,Stanford
+280680024,2008,regular-season,2008-03-08,2,204,away,FALSE,Oregon State,41,Beavers,Oregon State Beavers,Oregon St
+280680099,2008,regular-season,2008-03-08,2,99,home,FALSE,LSU,66,Tigers,LSU Tigers,LSU
+280680099,2008,regular-season,2008-03-08,2,96,away,FALSE,Kentucky,49,Wildcats,Kentucky Wildcats,Kentucky
+280680025,2008,regular-season,2008-03-08,2,25,home,FALSE,California,67,Golden Bears,California Golden Bears,California
+280680025,2008,regular-season,2008-03-08,2,2483,away,FALSE,Oregon,60,Ducks,Oregon Ducks,Oregon
+280680045,2008,regular-season,2008-03-08,2,45,home,FALSE,George Washington,70,Revolutionaries,George Washington Revolutionaries,G Washington
+280680045,2008,regular-season,2008-03-08,2,227,away,FALSE,Rhode Island,43,Rams,Rhode Island Rams,Rhode Island
+280680254,2008,regular-season,2008-03-08,2,254,home,FALSE,Utah,82,Utes,Utah Utes,Utah
+280680254,2008,regular-season,2008-03-08,2,2439,away,FALSE,UNLV,46,Lady Rebels,UNLV Lady Rebels,UNLV
+280682638,2008,regular-season,2008-03-08,2,2638,home,FALSE,UTEP,86,Miners,UTEP Miners,UTEP
+280682638,2008,regular-season,2008-03-08,2,2572,away,FALSE,Southern Miss,69,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+280682368,2008,regular-season,2008-03-08,2,2368,home,FALSE,Marist,78,Red Foxes,Marist Red Foxes,Marist
+280682368,2008,regular-season,2008-03-08,2,2612,away,FALSE,Saint Peter's,67,Peacocks,Saint Peter's Peacocks,Saint Peter's

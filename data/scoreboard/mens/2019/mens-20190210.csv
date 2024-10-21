@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401084798,2019-02-10,2,248,home,FALSE,Houston,65,Cougars,Houston Cougars,Houston
-401084798,2019-02-10,2,2132,away,FALSE,Cincinnati,58,Bearcats,Cincinnati Bearcats,Cincinnati
-401082411,2019-02-10,2,2294,home,FALSE,Iowa,80,Hawkeyes,Iowa Hawkeyes,Iowa
-401082411,2019-02-10,2,77,away,FALSE,Northwestern,79,Wildcats,Northwestern Wildcats,Northwestern
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401084798,2019,regular-season,2019-02-10,2,248,home,FALSE,Houston,65,Cougars,Houston Cougars,Houston
+401084798,2019,regular-season,2019-02-10,2,2132,away,FALSE,Cincinnati,58,Bearcats,Cincinnati Bearcats,Cincinnati
+401082411,2019,regular-season,2019-02-10,2,2294,home,FALSE,Iowa,80,Hawkeyes,Iowa Hawkeyes,Iowa
+401082411,2019,regular-season,2019-02-10,2,77,away,FALSE,Northwestern,79,Wildcats,Northwestern Wildcats,Northwestern

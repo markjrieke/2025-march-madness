@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330180024,2013-01-18,2,24,home,FALSE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
-330180024,2013-01-18,2,26,away,FALSE,UCLA,49,Bruins,UCLA Bruins,UCLA
-330180097,2013-01-18,2,97,home,FALSE,Louisville,72,Cardinals,Louisville Cardinals,Louisville
-330180097,2013-01-18,2,2132,away,FALSE,Cincinnati,33,Bearcats,Cincinnati Bearcats,Cincinnati
-330180038,2013-01-18,2,38,home,FALSE,Colorado,57,Buffaloes,Colorado Buffaloes,Colorado
-330180038,2013-01-18,2,9,away,FALSE,Arizona State,43,Sun Devils,Arizona State Sun Devils,Arizona St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330180024,2013,regular-season,2013-01-18,2,24,home,FALSE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
+330180024,2013,regular-season,2013-01-18,2,26,away,FALSE,UCLA,49,Bruins,UCLA Bruins,UCLA
+330180097,2013,regular-season,2013-01-18,2,97,home,FALSE,Louisville,72,Cardinals,Louisville Cardinals,Louisville
+330180097,2013,regular-season,2013-01-18,2,2132,away,FALSE,Cincinnati,33,Bearcats,Cincinnati Bearcats,Cincinnati
+330180038,2013,regular-season,2013-01-18,2,38,home,FALSE,Colorado,57,Buffaloes,Colorado Buffaloes,Colorado
+330180038,2013,regular-season,2013-01-18,2,9,away,FALSE,Arizona State,43,Sun Devils,Arizona State Sun Devils,Arizona St

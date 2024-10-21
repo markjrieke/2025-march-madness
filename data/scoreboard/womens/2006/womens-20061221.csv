@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263552352,2006-12-21,2,2352,home,FALSE,Loyola Maryland,55,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-263552352,2006-12-21,2,120,away,FALSE,Maryland,110,Terrapins,Maryland Terrapins,Maryland
-263550150,2006-12-21,2,150,home,FALSE,Duke,72,Blue Devils,Duke Blue Devils,Duke
-263550150,2006-12-21,2,221,away,FALSE,Pittsburgh,51,Panthers,Pittsburgh Panthers,Pitt
-263550041,2006-12-21,2,41,home,FALSE,UConn,93,Huskies,UConn Huskies,UConn
-263550041,2006-12-21,2,36,away,FALSE,Colorado State,58,Rams,Colorado State Rams,Colorado St
-263550257,2006-12-21,2,257,home,FALSE,Richmond,41,Spiders,Richmond Spiders,Richmond
-263550257,2006-12-21,2,61,away,FALSE,Georgia,72,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-263550238,2006-12-21,2,238,home,FALSE,Vanderbilt,89,Commodores,Vanderbilt Commodores,Vanderbilt
-263550238,2006-12-21,2,282,away,FALSE,Indiana State,75,Sycamores,Indiana State Sycamores,Indiana St
-263552509,2006-12-21,2,2509,home,FALSE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
-263552509,2006-12-21,2,68,away,FALSE,Boise State,64,Broncos,Boise State Broncos,Boise St
-263550057,2006-12-21,2,57,home,FALSE,Florida,60,Gators,Florida Gators,Florida
-263550057,2006-12-21,2,97,away,FALSE,Louisville,77,Cardinals,Louisville Cardinals,Louisville
-263550305,2006-12-21,2,2628,home,FALSE,TCU,74,Horned Frogs,TCU Horned Frogs,TCU
-263550305,2006-12-21,2,305,away,FALSE,DePaul,73,Blue Demons,DePaul Blue Demons,DePaul
-263550269,2006-12-21,2,269,home,FALSE,Marquette,89,Golden Eagles,Marquette Golden Eagles,Marquette
-263550269,2006-12-21,2,2363,away,FALSE,Manhattan,38,Jaspers,Manhattan Jaspers,Manhattan
-263550167,2006-12-21,2,167,home,FALSE,New Mexico,62,Lobos,New Mexico Lobos,New Mexico
-263550167,2006-12-21,2,2464,away,FALSE,Northern Arizona,51,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263552352,2007,regular-season,2006-12-21,2,2352,home,FALSE,Loyola Maryland,55,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+263552352,2007,regular-season,2006-12-21,2,120,away,FALSE,Maryland,110,Terrapins,Maryland Terrapins,Maryland
+263550150,2007,regular-season,2006-12-21,2,150,home,FALSE,Duke,72,Blue Devils,Duke Blue Devils,Duke
+263550150,2007,regular-season,2006-12-21,2,221,away,FALSE,Pittsburgh,51,Panthers,Pittsburgh Panthers,Pitt
+263550041,2007,regular-season,2006-12-21,2,41,home,FALSE,UConn,93,Huskies,UConn Huskies,UConn
+263550041,2007,regular-season,2006-12-21,2,36,away,FALSE,Colorado State,58,Rams,Colorado State Rams,Colorado St
+263550257,2007,regular-season,2006-12-21,2,257,home,FALSE,Richmond,41,Spiders,Richmond Spiders,Richmond
+263550257,2007,regular-season,2006-12-21,2,61,away,FALSE,Georgia,72,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+263550238,2007,regular-season,2006-12-21,2,238,home,FALSE,Vanderbilt,89,Commodores,Vanderbilt Commodores,Vanderbilt
+263550238,2007,regular-season,2006-12-21,2,282,away,FALSE,Indiana State,75,Sycamores,Indiana State Sycamores,Indiana St
+263552509,2007,regular-season,2006-12-21,2,2509,home,FALSE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
+263552509,2007,regular-season,2006-12-21,2,68,away,FALSE,Boise State,64,Broncos,Boise State Broncos,Boise St
+263550057,2007,regular-season,2006-12-21,2,57,home,FALSE,Florida,60,Gators,Florida Gators,Florida
+263550057,2007,regular-season,2006-12-21,2,97,away,FALSE,Louisville,77,Cardinals,Louisville Cardinals,Louisville
+263550305,2007,regular-season,2006-12-21,2,2628,home,FALSE,TCU,74,Horned Frogs,TCU Horned Frogs,TCU
+263550305,2007,regular-season,2006-12-21,2,305,away,FALSE,DePaul,73,Blue Demons,DePaul Blue Demons,DePaul
+263550269,2007,regular-season,2006-12-21,2,269,home,FALSE,Marquette,89,Golden Eagles,Marquette Golden Eagles,Marquette
+263550269,2007,regular-season,2006-12-21,2,2363,away,FALSE,Manhattan,38,Jaspers,Manhattan Jaspers,Manhattan
+263550167,2007,regular-season,2006-12-21,2,167,home,FALSE,New Mexico,62,Lobos,New Mexico Lobos,New Mexico
+263550167,2007,regular-season,2006-12-21,2,2464,away,FALSE,Northern Arizona,51,Lumberjacks,Northern Arizona Lumberjacks,N Arizona

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400912058,2016-12-16,4,97,home,FALSE,Louisville,86,Cardinals,Louisville Cardinals,Louisville
-400912058,2016-12-16,4,232,away,FALSE,Charleston,58,Cougars,Charleston Cougars,Charleston
-400917343,2016-12-16,4,194,home,FALSE,Ohio State,118,Buckeyes,Ohio State Buckeyes,Ohio State
-400917343,2016-12-16,4,2011,away,FALSE,Alabama State,61,Lady Hornets,Alabama State Lady Hornets,Alabama St
-400912060,2016-12-16,4,2229,home,FALSE,Florida International,49,Panthers,Florida International Panthers,FIU
-400912060,2016-12-16,4,2390,away,FALSE,Miami,69,Hurricanes,Miami Hurricanes,Miami
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400912058,2017,regular-season,2016-12-16,4,97,home,FALSE,Louisville,86,Cardinals,Louisville Cardinals,Louisville
+400912058,2017,regular-season,2016-12-16,4,232,away,FALSE,Charleston,58,Cougars,Charleston Cougars,Charleston
+400917343,2017,regular-season,2016-12-16,4,194,home,FALSE,Ohio State,118,Buckeyes,Ohio State Buckeyes,Ohio State
+400917343,2017,regular-season,2016-12-16,4,2011,away,FALSE,Alabama State,61,Lady Hornets,Alabama State Lady Hornets,Alabama St
+400912060,2017,regular-season,2016-12-16,4,2229,home,FALSE,Florida International,49,Panthers,Florida International Panthers,FIU
+400912060,2017,regular-season,2016-12-16,4,2390,away,FALSE,Miami,69,Hurricanes,Miami Hurricanes,Miami

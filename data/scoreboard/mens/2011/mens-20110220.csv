@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310512509,2011-02-20,2,2509,home,FALSE,Purdue,76,Boilermakers,Purdue Boilermakers,Purdue
-310512509,2011-02-20,2,194,away,FALSE,Ohio State,63,Buckeyes,Ohio State Buckeyes,Ohio State
-310510150,2011-02-20,2,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
-310510150,2011-02-20,2,59,away,FALSE,Georgia Tech,57,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-310510275,2011-02-20,2,275,home,FALSE,Wisconsin,76,Badgers,Wisconsin Badgers,Wisconsin
-310510275,2011-02-20,2,213,away,FALSE,Penn State,66,Nittany Lions,Penn State Nittany Lions,Penn State
-310510099,2011-02-20,2,99,home,FALSE,LSU,61,Tigers,LSU Tigers,LSU
-310510099,2011-02-20,2,57,away,FALSE,Florida,68,Gators,Florida Gators,Florida
-310510218,2011-02-20,2,218,home,FALSE,Temple,66,Owls,Temple Owls,Temple
-310510218,2011-02-20,2,2603,away,FALSE,Saint Joseph's,52,Hawks,Saint Joseph's Hawks,Saint Joseph's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310512509,2011,regular-season,2011-02-20,2,2509,home,FALSE,Purdue,76,Boilermakers,Purdue Boilermakers,Purdue
+310512509,2011,regular-season,2011-02-20,2,194,away,FALSE,Ohio State,63,Buckeyes,Ohio State Buckeyes,Ohio State
+310510150,2011,regular-season,2011-02-20,2,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
+310510150,2011,regular-season,2011-02-20,2,59,away,FALSE,Georgia Tech,57,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+310510275,2011,regular-season,2011-02-20,2,275,home,FALSE,Wisconsin,76,Badgers,Wisconsin Badgers,Wisconsin
+310510275,2011,regular-season,2011-02-20,2,213,away,FALSE,Penn State,66,Nittany Lions,Penn State Nittany Lions,Penn State
+310510099,2011,regular-season,2011-02-20,2,99,home,FALSE,LSU,61,Tigers,LSU Tigers,LSU
+310510099,2011,regular-season,2011-02-20,2,57,away,FALSE,Florida,68,Gators,Florida Gators,Florida
+310510218,2011,regular-season,2011-02-20,2,218,home,FALSE,Temple,66,Owls,Temple Owls,Temple
+310510218,2011,regular-season,2011-02-20,2,2603,away,FALSE,Saint Joseph's,52,Hawks,Saint Joseph's Hawks,Saint Joseph's

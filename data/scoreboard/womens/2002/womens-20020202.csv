@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220330238,2002-02-02,2,238,home,FALSE,Vanderbilt,76,Commodores,Vanderbilt Commodores,Vanderbilt
-220330238,2002-02-02,2,2633,away,FALSE,Tennessee,59,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-220330025,2002-02-02,2,25,home,FALSE,California,51,Golden Bears,California Golden Bears,California
-220330025,2002-02-02,2,24,away,FALSE,Stanford,79,Cardinal,Stanford Cardinal,Stanford
-220330201,2002-02-02,2,201,home,FALSE,Oklahoma,79,Sooners,Oklahoma Sooners,Oklahoma
-220330201,2002-02-02,2,2305,away,FALSE,Kansas,57,Jayhawks,Kansas Jayhawks,Kansas
-220330120,2002-02-02,2,120,home,FALSE,Maryland,55,Terrapins,Maryland Terrapins,Maryland
-220330120,2002-02-02,2,150,away,FALSE,Duke,66,Blue Devils,Duke Blue Devils,Duke
-220330067,2002-02-02,2,68,home,FALSE,Boise State,39,Broncos,Boise State Broncos,Boise St
-220330067,2002-02-02,2,2348,away,FALSE,Louisiana Tech,78,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-220332306,2002-02-02,2,2306,home,FALSE,Kansas State,72,Wildcats,Kansas State Wildcats,Kansas St
-220332306,2002-02-02,2,66,away,FALSE,Iowa State,86,Cyclones,Iowa State Cyclones,Iowa State
-220330239,2002-02-02,2,239,home,FALSE,Baylor,80,Bears,Baylor Bears,Baylor
-220330239,2002-02-02,2,197,away,FALSE,Oklahoma State,62,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-220330245,2002-02-02,2,245,home,FALSE,Texas A&M,70,Aggies,Texas A&M Aggies,Texas A&M
-220330245,2002-02-02,2,251,away,FALSE,Texas,65,Longhorns,Texas Longhorns,Texas
-220332005,2002-02-02,2,2005,home,FALSE,Air Force,55,Falcons,Air Force Falcons,Air Force
-220332005,2002-02-02,2,36,away,FALSE,Colorado State,63,Rams,Colorado State Rams,Colorado St
-220330103,2002-02-02,2,103,home,FALSE,Boston College,75,Eagles,Boston College Eagles,Boston College
-220330103,2002-02-02,2,46,away,FALSE,Georgetown,62,Hoyas,Georgetown Hoyas,Georgetown
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220330238,2002,regular-season,2002-02-02,2,238,home,FALSE,Vanderbilt,76,Commodores,Vanderbilt Commodores,Vanderbilt
+220330238,2002,regular-season,2002-02-02,2,2633,away,FALSE,Tennessee,59,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+220330025,2002,regular-season,2002-02-02,2,25,home,FALSE,California,51,Golden Bears,California Golden Bears,California
+220330025,2002,regular-season,2002-02-02,2,24,away,FALSE,Stanford,79,Cardinal,Stanford Cardinal,Stanford
+220330201,2002,regular-season,2002-02-02,2,201,home,FALSE,Oklahoma,79,Sooners,Oklahoma Sooners,Oklahoma
+220330201,2002,regular-season,2002-02-02,2,2305,away,FALSE,Kansas,57,Jayhawks,Kansas Jayhawks,Kansas
+220330120,2002,regular-season,2002-02-02,2,120,home,FALSE,Maryland,55,Terrapins,Maryland Terrapins,Maryland
+220330120,2002,regular-season,2002-02-02,2,150,away,FALSE,Duke,66,Blue Devils,Duke Blue Devils,Duke
+220330067,2002,regular-season,2002-02-02,2,68,home,FALSE,Boise State,39,Broncos,Boise State Broncos,Boise St
+220330067,2002,regular-season,2002-02-02,2,2348,away,FALSE,Louisiana Tech,78,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+220332306,2002,regular-season,2002-02-02,2,2306,home,FALSE,Kansas State,72,Wildcats,Kansas State Wildcats,Kansas St
+220332306,2002,regular-season,2002-02-02,2,66,away,FALSE,Iowa State,86,Cyclones,Iowa State Cyclones,Iowa State
+220330239,2002,regular-season,2002-02-02,2,239,home,FALSE,Baylor,80,Bears,Baylor Bears,Baylor
+220330239,2002,regular-season,2002-02-02,2,197,away,FALSE,Oklahoma State,62,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+220330245,2002,regular-season,2002-02-02,2,245,home,FALSE,Texas A&M,70,Aggies,Texas A&M Aggies,Texas A&M
+220330245,2002,regular-season,2002-02-02,2,251,away,FALSE,Texas,65,Longhorns,Texas Longhorns,Texas
+220332005,2002,regular-season,2002-02-02,2,2005,home,FALSE,Air Force,55,Falcons,Air Force Falcons,Air Force
+220332005,2002,regular-season,2002-02-02,2,36,away,FALSE,Colorado State,63,Rams,Colorado State Rams,Colorado St
+220330103,2002,regular-season,2002-02-02,2,103,home,FALSE,Boston College,75,Eagles,Boston College Eagles,Boston College
+220330103,2002,regular-season,2002-02-02,2,46,away,FALSE,Georgetown,62,Hoyas,Georgetown Hoyas,Georgetown

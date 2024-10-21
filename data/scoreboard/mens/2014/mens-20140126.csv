@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400506081,2014-01-26,2,12,home,FALSE,Arizona,65,Wildcats,Arizona Wildcats,Arizona
-400506081,2014-01-26,2,254,away,FALSE,Utah,56,Utes,Utah Utes,Utah
-400506064,2014-01-26,2,113,home,FALSE,Massachusetts,90,Minutemen,Massachusetts Minutemen,UMass
-400506064,2014-01-26,2,2230,away,FALSE,Fordham,52,Rams,Fordham Rams,Fordham
-400496977,2014-01-26,2,218,home,FALSE,Temple,76,Owls,Temple Owls,Temple
-400496977,2014-01-26,2,2132,away,FALSE,Cincinnati,80,Bearcats,Cincinnati Bearcats,Cincinnati
-400496975,2014-01-26,2,235,home,FALSE,Memphis,80,Tigers,Memphis Tigers,Memphis
-400496975,2014-01-26,2,58,away,FALSE,South Florida,58,Bulls,South Florida Bulls,South Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400506081,2014,regular-season,2014-01-26,2,12,home,FALSE,Arizona,65,Wildcats,Arizona Wildcats,Arizona
+400506081,2014,regular-season,2014-01-26,2,254,away,FALSE,Utah,56,Utes,Utah Utes,Utah
+400506064,2014,regular-season,2014-01-26,2,113,home,FALSE,Massachusetts,90,Minutemen,Massachusetts Minutemen,UMass
+400506064,2014,regular-season,2014-01-26,2,2230,away,FALSE,Fordham,52,Rams,Fordham Rams,Fordham
+400496977,2014,regular-season,2014-01-26,2,218,home,FALSE,Temple,76,Owls,Temple Owls,Temple
+400496977,2014,regular-season,2014-01-26,2,2132,away,FALSE,Cincinnati,80,Bearcats,Cincinnati Bearcats,Cincinnati
+400496975,2014,regular-season,2014-01-26,2,235,home,FALSE,Memphis,80,Tigers,Memphis Tigers,Memphis
+400496975,2014,regular-season,2014-01-26,2,58,away,FALSE,South Florida,58,Bulls,South Florida Bulls,South Florida

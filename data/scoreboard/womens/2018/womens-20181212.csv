@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401092570,2018-12-12,4,239,home,FALSE,Baylor,96,Bears,Baylor Bears,Baylor
-401092570,2018-12-12,4,2413,away,FALSE,Morehead State,58,Eagles,Morehead State Eagles,Morehead St
-401095346,2018-12-12,4,2571,home,FALSE,South Dakota State,79,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-401095346,2018-12-12,4,2483,away,FALSE,Oregon,87,Ducks,Oregon Ducks,Oregon
-401094731,2018-12-12,4,135,home,FALSE,Minnesota,84,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401094731,2018-12-12,4,2154,away,FALSE,Coppin State,52,Eagles,Coppin State Eagles,Coppin St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401092570,2019,regular-season,2018-12-12,4,239,home,FALSE,Baylor,96,Bears,Baylor Bears,Baylor
+401092570,2019,regular-season,2018-12-12,4,2413,away,FALSE,Morehead State,58,Eagles,Morehead State Eagles,Morehead St
+401095346,2019,regular-season,2018-12-12,4,2571,home,FALSE,South Dakota State,79,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+401095346,2019,regular-season,2018-12-12,4,2483,away,FALSE,Oregon,87,Ducks,Oregon Ducks,Oregon
+401094731,2019,regular-season,2018-12-12,4,135,home,FALSE,Minnesota,84,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401094731,2019,regular-season,2018-12-12,4,2154,away,FALSE,Coppin State,52,Eagles,Coppin State Eagles,Coppin St

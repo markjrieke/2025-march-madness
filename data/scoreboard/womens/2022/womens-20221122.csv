@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401480030,2022-11-22,4,13,home,FALSE,Cal Poly,36,Mustangs,Cal Poly Mustangs,Cal Poly
-401480030,2022-11-22,4,2579,away,FALSE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
-401485714,2022-11-22,4,2437,home,FALSE,Omaha,71,Mavericks,Omaha Mavericks,Omaha
-401485714,2022-11-22,4,156,away,FALSE,Creighton,93,Bluejays,Creighton Bluejays,Creighton
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401480030,2023,regular-season,2022-11-22,4,13,home,FALSE,Cal Poly,36,Mustangs,Cal Poly Mustangs,Cal Poly
+401480030,2023,regular-season,2022-11-22,4,2579,away,FALSE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
+401485714,2023,regular-season,2022-11-22,4,2437,home,FALSE,Omaha,71,Mavericks,Omaha Mavericks,Omaha
+401485714,2023,regular-season,2022-11-22,4,156,away,FALSE,Creighton,93,Bluejays,Creighton Bluejays,Creighton

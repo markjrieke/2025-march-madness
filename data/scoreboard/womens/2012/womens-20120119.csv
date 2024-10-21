@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320190041,2012-01-19,2,41,home,FALSE,UConn,80,Huskies,UConn Huskies,UConn
-320190041,2012-01-19,2,2132,away,FALSE,Cincinnati,37,Bearcats,Cincinnati Bearcats,Cincinnati
-320190024,2012-01-19,2,24,home,FALSE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
-320190024,2012-01-19,2,265,away,FALSE,Washington State,41,Cougars,Washington State Cougars,Washington St
-320190061,2012-01-19,2,61,home,FALSE,Georgia,64,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-320190061,2012-01-19,2,96,away,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
-320190120,2012-01-19,2,120,home,FALSE,Maryland,86,Terrapins,Maryland Terrapins,Maryland
-320190120,2012-01-19,2,154,away,FALSE,Wake Forest,58,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-320192633,2012-01-19,2,2633,home,FALSE,Tennessee,65,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-320192633,2012-01-19,2,99,away,FALSE,LSU,56,Tigers,LSU Tigers,LSU
-320190194,2012-01-19,2,194,home,FALSE,Ohio State,82,Buckeyes,Ohio State Buckeyes,Ohio State
-320190194,2012-01-19,2,158,away,FALSE,Nebraska,68,Cornhuskers,Nebraska Cornhuskers,Nebraska
-320190258,2012-01-19,2,258,home,FALSE,Virginia,53,Cavaliers,Virginia Cavaliers,Virginia
-320190258,2012-01-19,2,2390,away,FALSE,Miami,56,Hurricanes,Miami Hurricanes,Miami
-320192739,2012-01-19,2,2739,home,FALSE,Green Bay,75,Phoenix,Green Bay Phoenix,Green Bay
-320192739,2012-01-19,2,2754,away,FALSE,Youngstown State,50,Penguins,Youngstown State Penguins,Youngstown St
-320190084,2012-01-19,2,84,home,FALSE,Indiana,60,Hoosiers,Indiana Hoosiers,Indiana
-320190084,2012-01-19,2,2509,away,FALSE,Purdue,82,Boilermakers,Purdue Boilermakers,Purdue
-320190119,2012-01-19,2,119,home,FALSE,Towson,46,Tigers,Towson Tigers,Towson
-320190119,2012-01-19,2,48,away,FALSE,Delaware,65,Blue Hens,Delaware Blue Hens,Delaware
-320190356,2012-01-19,2,356,home,FALSE,Illinois,65,Fighting Illini,Illinois Fighting Illini,Illinois
-320190356,2012-01-19,2,213,away,FALSE,Penn State,71,Lady Lions,Penn State Lady Lions,Penn State
-320190259,2012-01-19,2,259,home,FALSE,Virginia Tech,37,Hokies,Virginia Tech Hokies,Virginia Tech
-320190259,2012-01-19,2,153,away,FALSE,North Carolina,56,Tar Heels,North Carolina Tar Heels,North Carolina
-320190008,2012-01-19,2,8,home,FALSE,Arkansas,69,Razorbacks,Arkansas Razorbacks,Arkansas
-320190008,2012-01-19,2,238,away,FALSE,Vanderbilt,47,Commodores,Vanderbilt Commodores,Vanderbilt
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320190041,2012,regular-season,2012-01-19,2,41,home,FALSE,UConn,80,Huskies,UConn Huskies,UConn
+320190041,2012,regular-season,2012-01-19,2,2132,away,FALSE,Cincinnati,37,Bearcats,Cincinnati Bearcats,Cincinnati
+320190024,2012,regular-season,2012-01-19,2,24,home,FALSE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
+320190024,2012,regular-season,2012-01-19,2,265,away,FALSE,Washington State,41,Cougars,Washington State Cougars,Washington St
+320190061,2012,regular-season,2012-01-19,2,61,home,FALSE,Georgia,64,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+320190061,2012,regular-season,2012-01-19,2,96,away,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
+320190120,2012,regular-season,2012-01-19,2,120,home,FALSE,Maryland,86,Terrapins,Maryland Terrapins,Maryland
+320190120,2012,regular-season,2012-01-19,2,154,away,FALSE,Wake Forest,58,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+320192633,2012,regular-season,2012-01-19,2,2633,home,FALSE,Tennessee,65,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+320192633,2012,regular-season,2012-01-19,2,99,away,FALSE,LSU,56,Tigers,LSU Tigers,LSU
+320190194,2012,regular-season,2012-01-19,2,194,home,FALSE,Ohio State,82,Buckeyes,Ohio State Buckeyes,Ohio State
+320190194,2012,regular-season,2012-01-19,2,158,away,FALSE,Nebraska,68,Cornhuskers,Nebraska Cornhuskers,Nebraska
+320190258,2012,regular-season,2012-01-19,2,258,home,FALSE,Virginia,53,Cavaliers,Virginia Cavaliers,Virginia
+320190258,2012,regular-season,2012-01-19,2,2390,away,FALSE,Miami,56,Hurricanes,Miami Hurricanes,Miami
+320192739,2012,regular-season,2012-01-19,2,2739,home,FALSE,Green Bay,75,Phoenix,Green Bay Phoenix,Green Bay
+320192739,2012,regular-season,2012-01-19,2,2754,away,FALSE,Youngstown State,50,Penguins,Youngstown State Penguins,Youngstown St
+320190084,2012,regular-season,2012-01-19,2,84,home,FALSE,Indiana,60,Hoosiers,Indiana Hoosiers,Indiana
+320190084,2012,regular-season,2012-01-19,2,2509,away,FALSE,Purdue,82,Boilermakers,Purdue Boilermakers,Purdue
+320190119,2012,regular-season,2012-01-19,2,119,home,FALSE,Towson,46,Tigers,Towson Tigers,Towson
+320190119,2012,regular-season,2012-01-19,2,48,away,FALSE,Delaware,65,Blue Hens,Delaware Blue Hens,Delaware
+320190356,2012,regular-season,2012-01-19,2,356,home,FALSE,Illinois,65,Fighting Illini,Illinois Fighting Illini,Illinois
+320190356,2012,regular-season,2012-01-19,2,213,away,FALSE,Penn State,71,Lady Lions,Penn State Lady Lions,Penn State
+320190259,2012,regular-season,2012-01-19,2,259,home,FALSE,Virginia Tech,37,Hokies,Virginia Tech Hokies,Virginia Tech
+320190259,2012,regular-season,2012-01-19,2,153,away,FALSE,North Carolina,56,Tar Heels,North Carolina Tar Heels,North Carolina
+320190008,2012,regular-season,2012-01-19,2,8,home,FALSE,Arkansas,69,Razorbacks,Arkansas Razorbacks,Arkansas
+320190008,2012,regular-season,2012-01-19,2,238,away,FALSE,Vanderbilt,47,Commodores,Vanderbilt Commodores,Vanderbilt

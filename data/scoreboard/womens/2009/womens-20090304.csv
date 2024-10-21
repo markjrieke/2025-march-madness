@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290630201,2009-03-04,2,201,home,FALSE,Oklahoma,61,Sooners,Oklahoma Sooners,Oklahoma
-290630201,2009-03-04,2,2641,away,FALSE,Texas Tech,49,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-290632305,2009-03-04,2,2305,home,FALSE,Kansas,69,Jayhawks,Kansas Jayhawks,Kansas
-290632305,2009-03-04,2,239,away,FALSE,Baylor,45,Bears,Baylor Bears,Baylor
-290632306,2009-03-04,2,2306,home,FALSE,Kansas State,66,Wildcats,Kansas State Wildcats,Kansas St
-290632306,2009-03-04,2,251,away,FALSE,Texas,50,Longhorns,Texas Longhorns,Texas
-290630193,2009-03-04,2,193,home,FALSE,Miami (OH),45,RedHawks,Miami (OH) RedHawks,Miami OH
-290630193,2009-03-04,2,189,away,FALSE,Bowling Green,40,Falcons,Bowling Green Falcons,Bowling Green
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290630201,2009,regular-season,2009-03-04,2,201,home,FALSE,Oklahoma,61,Sooners,Oklahoma Sooners,Oklahoma
+290630201,2009,regular-season,2009-03-04,2,2641,away,FALSE,Texas Tech,49,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+290632305,2009,regular-season,2009-03-04,2,2305,home,FALSE,Kansas,69,Jayhawks,Kansas Jayhawks,Kansas
+290632305,2009,regular-season,2009-03-04,2,239,away,FALSE,Baylor,45,Bears,Baylor Bears,Baylor
+290632306,2009,regular-season,2009-03-04,2,2306,home,FALSE,Kansas State,66,Wildcats,Kansas State Wildcats,Kansas St
+290632306,2009,regular-season,2009-03-04,2,251,away,FALSE,Texas,50,Longhorns,Texas Longhorns,Texas
+290630193,2009,regular-season,2009-03-04,2,193,home,FALSE,Miami (OH),45,RedHawks,Miami (OH) RedHawks,Miami OH
+290630193,2009,regular-season,2009-03-04,2,189,away,FALSE,Bowling Green,40,Falcons,Bowling Green Falcons,Bowling Green

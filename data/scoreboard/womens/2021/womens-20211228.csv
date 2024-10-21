@@ -1,47 +1,47 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401398391,2021-12-28,4,2603,home,FALSE,Saint Joseph's,70,Hawks,Saint Joseph's Hawks,Saint Joseph's
-401398391,2021-12-28,4,108,away,FALSE,Harvard,73,Crimson,Harvard Crimson,Harvard
-401377382,2021-12-28,4,45,home,FALSE,George Washington,64,Revolutionaries,George Washington Revolutionaries,G Washington
-401377382,2021-12-28,4,223,away,FALSE,West Chester,31,Golden Rams,West Chester Golden Rams,W Chester
-401375702,2021-12-28,4,166,home,FALSE,New Mexico State,110,Aggies,New Mexico State Aggies,New Mexico St
-401375702,2021-12-28,4,124682,away,FALSE,Nelson,40,Lions,Nelson Lions,Nelson
-401364610,2021-12-28,4,21,home,FALSE,San Diego State,54,Aztecs,San Diego State Aztecs,San Diego St
-401364610,2021-12-28,4,2751,away,FALSE,Wyoming,62,Cowgirls,Wyoming Cowgirls,Wyoming
-401379186,2021-12-28,4,43,home,FALSE,Yale,68,Bulldogs,Yale Bulldogs,Yale
-401379186,2021-12-28,4,349,away,FALSE,Army,50,Black Knights,Army Black Knights,Army
-401396509,2021-12-28,4,399,home,FALSE,UAlbany,88,Great Danes,UAlbany Great Danes,UAlbany
-401396509,2021-12-28,4,2785,away,FALSE,Union (NY),37,Garnet Chargers,Union (NY) Garnet Chargers,Union (NY)
-401376625,2021-12-28,4,2567,home,FALSE,SMU,86,Mustangs,SMU Mustangs,SMU
-401376625,2021-12-28,4,2029,away,FALSE,Arkansas-Pine Bluff,74,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-401375928,2021-12-28,4,238,home,FALSE,Vanderbilt,94,Commodores,Vanderbilt Commodores,Vanderbilt
-401375928,2021-12-28,4,2011,away,FALSE,Alabama State,42,Lady Hornets,Alabama State Lady Hornets,Alabama St
-401374616,2021-12-28,4,2458,home,FALSE,Northern Colorado,82,Bears,Northern Colorado Bears,N Colorado
-401374616,2021-12-28,4,547,away,FALSE,Kansas Wesleyan,54,Coyotes,Kansas Wesleyan Coyotes,KS Wesleyan
-401364612,2021-12-28,4,36,home,FALSE,Colorado State,81,Rams,Colorado State Rams,Colorado St
-401364612,2021-12-28,4,68,away,FALSE,Boise State,77,Broncos,Boise State Broncos,Boise St
-401364613,2021-12-28,4,278,home,FALSE,Fresno State,63,Bulldogs,Fresno State Bulldogs,Fresno St
-401364613,2021-12-28,4,2439,away,FALSE,UNLV,73,Lady Rebels,UNLV Lady Rebels,UNLV
-401364614,2021-12-28,4,2440,home,FALSE,Nevada,67,Wolf Pack,Nevada Wolf Pack,Nevada
-401364614,2021-12-28,4,2005,away,FALSE,Air Force,52,Falcons,Air Force Falcons,Air Force
-401375274,2021-12-28,0,2382,home,FALSE,Mercer,0,Bears,Mercer Bears,Mercer
-401375274,2021-12-28,0,350,away,FALSE,UNC Wilmington,0,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
-401364611,2021-12-28,0,167,home,FALSE,New Mexico,0,Lobos,New Mexico Lobos,New Mexico
-401364611,2021-12-28,0,23,away,FALSE,San José State,0,Spartans,San José State Spartans,San José St
-401377357,2021-12-28,0,172,home,FALSE,Cornell,0,Big Red,Cornell Big Red,Cornell
-401377357,2021-12-28,0,2134,away,FALSE,Clarion,0,Golden Eagles,Clarion Golden Eagles,Clarion
-401377352,2021-12-28,0,171,home,FALSE,Columbia,0,Lions,Columbia Lions,Columbia
-401377352,2021-12-28,0,2275,away,FALSE,Hofstra,0,Pride,Hofstra Pride,Hofstra
-401372886,2021-12-28,0,2244,home,FALSE,George Mason,0,Patriots,George Mason Patriots,George Mason
-401372886,2021-12-28,0,2154,away,FALSE,Coppin State,0,Eagles,Coppin State Eagles,Coppin St
-401377366,2021-12-28,0,159,home,FALSE,Dartmouth,0,Big Green,Dartmouth Big Green,Dartmouth
-401377366,2021-12-28,0,113,away,FALSE,Massachusetts,0,Minutewomen,Massachusetts Minutewomen,UMass
-401377556,2021-12-28,0,71,home,FALSE,Bradley,0,Braves,Bradley Braves,Bradley
-401377556,2021-12-28,0,139,away,FALSE,Saint Louis,0,Billikens,Saint Louis Billikens,Saint Louis
-401376818,2021-12-28,0,197,home,FALSE,Oklahoma State,0,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-401376818,2021-12-28,0,202,away,FALSE,Tulsa,0,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-401375406,2021-12-28,0,2305,home,FALSE,Kansas,0,Jayhawks,Kansas Jayhawks,Kansas
-401375406,2021-12-28,0,2466,away,FALSE,Northwestern State,0,Lady Demons,Northwestern State Lady Demons,N'Western St
-401376859,2021-12-28,0,204,home,FALSE,Oregon State,0,Beavers,Oregon State Beavers,Oregon St
-401376859,2021-12-28,0,2428,away,FALSE,North Carolina Central,0,Eagles,North Carolina Central Eagles,NC Central
-401374894,2021-12-28,0,27,home,FALSE,UC Riverside,0,Highlanders,UC Riverside Highlanders,UC Riverside
-401374894,2021-12-28,0,302,away,FALSE,UC Davis,0,Aggies,UC Davis Aggies,UC Davis
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401398391,2022,regular-season,2021-12-28,4,2603,home,FALSE,Saint Joseph's,70,Hawks,Saint Joseph's Hawks,Saint Joseph's
+401398391,2022,regular-season,2021-12-28,4,108,away,FALSE,Harvard,73,Crimson,Harvard Crimson,Harvard
+401377382,2022,regular-season,2021-12-28,4,45,home,FALSE,George Washington,64,Revolutionaries,George Washington Revolutionaries,G Washington
+401377382,2022,regular-season,2021-12-28,4,223,away,FALSE,West Chester,31,Golden Rams,West Chester Golden Rams,W Chester
+401375702,2022,regular-season,2021-12-28,4,166,home,FALSE,New Mexico State,110,Aggies,New Mexico State Aggies,New Mexico St
+401375702,2022,regular-season,2021-12-28,4,124682,away,FALSE,Nelson,40,Lions,Nelson Lions,Nelson
+401364610,2022,regular-season,2021-12-28,4,21,home,FALSE,San Diego State,54,Aztecs,San Diego State Aztecs,San Diego St
+401364610,2022,regular-season,2021-12-28,4,2751,away,FALSE,Wyoming,62,Cowgirls,Wyoming Cowgirls,Wyoming
+401379186,2022,regular-season,2021-12-28,4,43,home,FALSE,Yale,68,Bulldogs,Yale Bulldogs,Yale
+401379186,2022,regular-season,2021-12-28,4,349,away,FALSE,Army,50,Black Knights,Army Black Knights,Army
+401396509,2022,regular-season,2021-12-28,4,399,home,FALSE,UAlbany,88,Great Danes,UAlbany Great Danes,UAlbany
+401396509,2022,regular-season,2021-12-28,4,2785,away,FALSE,Union (NY),37,Garnet Chargers,Union (NY) Garnet Chargers,Union (NY)
+401376625,2022,regular-season,2021-12-28,4,2567,home,FALSE,SMU,86,Mustangs,SMU Mustangs,SMU
+401376625,2022,regular-season,2021-12-28,4,2029,away,FALSE,Arkansas-Pine Bluff,74,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+401375928,2022,regular-season,2021-12-28,4,238,home,FALSE,Vanderbilt,94,Commodores,Vanderbilt Commodores,Vanderbilt
+401375928,2022,regular-season,2021-12-28,4,2011,away,FALSE,Alabama State,42,Lady Hornets,Alabama State Lady Hornets,Alabama St
+401374616,2022,regular-season,2021-12-28,4,2458,home,FALSE,Northern Colorado,82,Bears,Northern Colorado Bears,N Colorado
+401374616,2022,regular-season,2021-12-28,4,547,away,FALSE,Kansas Wesleyan,54,Coyotes,Kansas Wesleyan Coyotes,KS Wesleyan
+401364612,2022,regular-season,2021-12-28,4,36,home,FALSE,Colorado State,81,Rams,Colorado State Rams,Colorado St
+401364612,2022,regular-season,2021-12-28,4,68,away,FALSE,Boise State,77,Broncos,Boise State Broncos,Boise St
+401364613,2022,regular-season,2021-12-28,4,278,home,FALSE,Fresno State,63,Bulldogs,Fresno State Bulldogs,Fresno St
+401364613,2022,regular-season,2021-12-28,4,2439,away,FALSE,UNLV,73,Lady Rebels,UNLV Lady Rebels,UNLV
+401364614,2022,regular-season,2021-12-28,4,2440,home,FALSE,Nevada,67,Wolf Pack,Nevada Wolf Pack,Nevada
+401364614,2022,regular-season,2021-12-28,4,2005,away,FALSE,Air Force,52,Falcons,Air Force Falcons,Air Force
+401375274,2022,regular-season,2021-12-28,0,2382,home,FALSE,Mercer,0,Bears,Mercer Bears,Mercer
+401375274,2022,regular-season,2021-12-28,0,350,away,FALSE,UNC Wilmington,0,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+401364611,2022,regular-season,2021-12-28,0,167,home,FALSE,New Mexico,0,Lobos,New Mexico Lobos,New Mexico
+401364611,2022,regular-season,2021-12-28,0,23,away,FALSE,San José State,0,Spartans,San José State Spartans,San José St
+401377357,2022,regular-season,2021-12-28,0,172,home,FALSE,Cornell,0,Big Red,Cornell Big Red,Cornell
+401377357,2022,regular-season,2021-12-28,0,2134,away,FALSE,Clarion,0,Golden Eagles,Clarion Golden Eagles,Clarion
+401377352,2022,regular-season,2021-12-28,0,171,home,FALSE,Columbia,0,Lions,Columbia Lions,Columbia
+401377352,2022,regular-season,2021-12-28,0,2275,away,FALSE,Hofstra,0,Pride,Hofstra Pride,Hofstra
+401372886,2022,regular-season,2021-12-28,0,2244,home,FALSE,George Mason,0,Patriots,George Mason Patriots,George Mason
+401372886,2022,regular-season,2021-12-28,0,2154,away,FALSE,Coppin State,0,Eagles,Coppin State Eagles,Coppin St
+401377366,2022,regular-season,2021-12-28,0,159,home,FALSE,Dartmouth,0,Big Green,Dartmouth Big Green,Dartmouth
+401377366,2022,regular-season,2021-12-28,0,113,away,FALSE,Massachusetts,0,Minutewomen,Massachusetts Minutewomen,UMass
+401377556,2022,regular-season,2021-12-28,0,71,home,FALSE,Bradley,0,Braves,Bradley Braves,Bradley
+401377556,2022,regular-season,2021-12-28,0,139,away,FALSE,Saint Louis,0,Billikens,Saint Louis Billikens,Saint Louis
+401376818,2022,regular-season,2021-12-28,0,197,home,FALSE,Oklahoma State,0,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+401376818,2022,regular-season,2021-12-28,0,202,away,FALSE,Tulsa,0,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+401375406,2022,regular-season,2021-12-28,0,2305,home,FALSE,Kansas,0,Jayhawks,Kansas Jayhawks,Kansas
+401375406,2022,regular-season,2021-12-28,0,2466,away,FALSE,Northwestern State,0,Lady Demons,Northwestern State Lady Demons,N'Western St
+401376859,2022,regular-season,2021-12-28,0,204,home,FALSE,Oregon State,0,Beavers,Oregon State Beavers,Oregon St
+401376859,2022,regular-season,2021-12-28,0,2428,away,FALSE,North Carolina Central,0,Eagles,North Carolina Central Eagles,NC Central
+401374894,2022,regular-season,2021-12-28,0,27,home,FALSE,UC Riverside,0,Highlanders,UC Riverside Highlanders,UC Riverside
+401374894,2022,regular-season,2021-12-28,0,302,away,FALSE,UC Davis,0,Aggies,UC Davis Aggies,UC Davis

@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303390041,2010-12-05,2,41,home,FALSE,UConn,86,Huskies,UConn Huskies,UConn
-303390041,2010-12-05,2,2529,away,FALSE,Sacred Heart,32,Pioneers,Sacred Heart Pioneers,Sacred Heart
-303390239,2010-12-05,2,239,home,FALSE,Baylor,103,Bears,Baylor Bears,Baylor
-303390239,2010-12-05,2,135,away,FALSE,Minnesota,56,Golden Gophers,Minnesota Golden Gophers,Minnesota
-303392132,2010-12-05,2,2132,home,FALSE,Cincinnati,61,Bearcats,Cincinnati Bearcats,Cincinnati
-303392132,2010-12-05,2,2752,away,FALSE,Xavier,69,Musketeers,Xavier Musketeers,Xavier
-303390194,2010-12-05,2,194,home,FALSE,Ohio State,95,Buckeyes,Ohio State Buckeyes,Ohio State
-303390194,2010-12-05,2,201,away,FALSE,Oklahoma,84,Sooners,Oklahoma Sooners,Oklahoma
-303390295,2010-12-05,2,295,home,FALSE,Old Dominion,44,Monarchs,Old Dominion Monarchs,Old Dominion
-303390295,2010-12-05,2,2633,away,FALSE,Tennessee,74,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-303390026,2010-12-05,2,26,home,FALSE,UCLA,54,Bruins,UCLA Bruins,UCLA
-303390026,2010-12-05,2,147,away,FALSE,Montana State,44,Bobcats,Montana State Bobcats,Montana St
-303390097,2010-12-05,2,97,home,FALSE,Louisville,78,Cardinals,Louisville Cardinals,Louisville
-303390097,2010-12-05,2,96,away,FALSE,Kentucky,52,Wildcats,Kentucky Wildcats,Kentucky
-303390127,2010-12-05,2,127,home,FALSE,Michigan State,71,Spartans,Michigan State Spartans,Michigan St
-303390127,2010-12-05,2,251,away,FALSE,Texas,57,Longhorns,Texas Longhorns,Texas
-303390066,2010-12-05,2,66,home,FALSE,Iowa State,60,Cyclones,Iowa State Cyclones,Iowa State
-303390066,2010-12-05,2,130,away,FALSE,Michigan,47,Wolverines,Michigan Wolverines,Michigan
-303390087,2010-12-05,2,87,home,FALSE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-303390087,2010-12-05,2,2509,away,FALSE,Purdue,51,Boilermakers,Purdue Boilermakers,Purdue
-303392294,2010-12-05,2,2294,home,FALSE,Iowa,68,Hawkeyes,Iowa Hawkeyes,Iowa
-303392294,2010-12-05,2,2306,away,FALSE,Kansas State,62,Wildcats,Kansas State Wildcats,Kansas St
-303390120,2010-12-05,2,120,home,FALSE,Maryland,81,Terrapins,Maryland Terrapins,Maryland
-303390120,2010-12-05,2,2026,away,FALSE,App State,65,Mountaineers,App State Mountaineers,App State
-303390059,2010-12-05,2,59,home,FALSE,Georgia Tech,69,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-303390059,2010-12-05,2,61,away,FALSE,Georgia,53,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303390041,2011,regular-season,2010-12-05,2,41,home,FALSE,UConn,86,Huskies,UConn Huskies,UConn
+303390041,2011,regular-season,2010-12-05,2,2529,away,FALSE,Sacred Heart,32,Pioneers,Sacred Heart Pioneers,Sacred Heart
+303390239,2011,regular-season,2010-12-05,2,239,home,FALSE,Baylor,103,Bears,Baylor Bears,Baylor
+303390239,2011,regular-season,2010-12-05,2,135,away,FALSE,Minnesota,56,Golden Gophers,Minnesota Golden Gophers,Minnesota
+303392132,2011,regular-season,2010-12-05,2,2132,home,FALSE,Cincinnati,61,Bearcats,Cincinnati Bearcats,Cincinnati
+303392132,2011,regular-season,2010-12-05,2,2752,away,FALSE,Xavier,69,Musketeers,Xavier Musketeers,Xavier
+303390194,2011,regular-season,2010-12-05,2,194,home,FALSE,Ohio State,95,Buckeyes,Ohio State Buckeyes,Ohio State
+303390194,2011,regular-season,2010-12-05,2,201,away,FALSE,Oklahoma,84,Sooners,Oklahoma Sooners,Oklahoma
+303390295,2011,regular-season,2010-12-05,2,295,home,FALSE,Old Dominion,44,Monarchs,Old Dominion Monarchs,Old Dominion
+303390295,2011,regular-season,2010-12-05,2,2633,away,FALSE,Tennessee,74,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+303390026,2011,regular-season,2010-12-05,2,26,home,FALSE,UCLA,54,Bruins,UCLA Bruins,UCLA
+303390026,2011,regular-season,2010-12-05,2,147,away,FALSE,Montana State,44,Bobcats,Montana State Bobcats,Montana St
+303390097,2011,regular-season,2010-12-05,2,97,home,FALSE,Louisville,78,Cardinals,Louisville Cardinals,Louisville
+303390097,2011,regular-season,2010-12-05,2,96,away,FALSE,Kentucky,52,Wildcats,Kentucky Wildcats,Kentucky
+303390127,2011,regular-season,2010-12-05,2,127,home,FALSE,Michigan State,71,Spartans,Michigan State Spartans,Michigan St
+303390127,2011,regular-season,2010-12-05,2,251,away,FALSE,Texas,57,Longhorns,Texas Longhorns,Texas
+303390066,2011,regular-season,2010-12-05,2,66,home,FALSE,Iowa State,60,Cyclones,Iowa State Cyclones,Iowa State
+303390066,2011,regular-season,2010-12-05,2,130,away,FALSE,Michigan,47,Wolverines,Michigan Wolverines,Michigan
+303390087,2011,regular-season,2010-12-05,2,87,home,FALSE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+303390087,2011,regular-season,2010-12-05,2,2509,away,FALSE,Purdue,51,Boilermakers,Purdue Boilermakers,Purdue
+303392294,2011,regular-season,2010-12-05,2,2294,home,FALSE,Iowa,68,Hawkeyes,Iowa Hawkeyes,Iowa
+303392294,2011,regular-season,2010-12-05,2,2306,away,FALSE,Kansas State,62,Wildcats,Kansas State Wildcats,Kansas St
+303390120,2011,regular-season,2010-12-05,2,120,home,FALSE,Maryland,81,Terrapins,Maryland Terrapins,Maryland
+303390120,2011,regular-season,2010-12-05,2,2026,away,FALSE,App State,65,Mountaineers,App State Mountaineers,App State
+303390059,2011,regular-season,2010-12-05,2,59,home,FALSE,Georgia Tech,69,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+303390059,2011,regular-season,2010-12-05,2,61,away,FALSE,Georgia,53,Lady Bulldogs,Georgia Lady Bulldogs,Georgia

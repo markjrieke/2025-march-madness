@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400820677,2015-11-16,2,45,home,FALSE,George Washington,73,Revolutionaries,George Washington Revolutionaries,G Washington
-400820677,2015-11-16,2,258,away,FALSE,Virginia,68,Cavaliers,Virginia Cavaliers,Virginia
-400813819,2015-11-16,2,12,home,FALSE,Arizona,90,Wildcats,Arizona Wildcats,Arizona
-400813819,2015-11-16,2,71,away,FALSE,Bradley,60,Braves,Bradley Braves,Bradley
-400841308,2015-11-16,2,25,home,FALSE,California,85,Golden Bears,California Golden Bears,California
-400841308,2015-11-16,2,2540,away,FALSE,UC Santa Barbara,67,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-400816755,2015-11-16,2,254,home,FALSE,Utah,81,Utes,Utah Utes,Utah
-400816755,2015-11-16,2,21,away,FALSE,San Diego State,76,Aztecs,San Diego State Aztecs,San Diego St
-400817503,2015-11-16,2,238,home,FALSE,Vanderbilt,98,Commodores,Vanderbilt Commodores,Vanderbilt
-400817503,2015-11-16,2,2241,away,FALSE,Gardner-Webb,62,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-400818879,2015-11-16,2,2483,home,FALSE,Oregon,74,Ducks,Oregon Ducks,Oregon
-400818879,2015-11-16,2,239,away,FALSE,Baylor,67,Bears,Baylor Bears,Baylor
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400820677,2016,regular-season,2015-11-16,2,45,home,FALSE,George Washington,73,Revolutionaries,George Washington Revolutionaries,G Washington
+400820677,2016,regular-season,2015-11-16,2,258,away,FALSE,Virginia,68,Cavaliers,Virginia Cavaliers,Virginia
+400813819,2016,regular-season,2015-11-16,2,12,home,FALSE,Arizona,90,Wildcats,Arizona Wildcats,Arizona
+400813819,2016,regular-season,2015-11-16,2,71,away,FALSE,Bradley,60,Braves,Bradley Braves,Bradley
+400841308,2016,regular-season,2015-11-16,2,25,home,FALSE,California,85,Golden Bears,California Golden Bears,California
+400841308,2016,regular-season,2015-11-16,2,2540,away,FALSE,UC Santa Barbara,67,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+400816755,2016,regular-season,2015-11-16,2,254,home,FALSE,Utah,81,Utes,Utah Utes,Utah
+400816755,2016,regular-season,2015-11-16,2,21,away,FALSE,San Diego State,76,Aztecs,San Diego State Aztecs,San Diego St
+400817503,2016,regular-season,2015-11-16,2,238,home,FALSE,Vanderbilt,98,Commodores,Vanderbilt Commodores,Vanderbilt
+400817503,2016,regular-season,2015-11-16,2,2241,away,FALSE,Gardner-Webb,62,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+400818879,2016,regular-season,2015-11-16,2,2483,home,FALSE,Oregon,74,Ducks,Oregon Ducks,Oregon
+400818879,2016,regular-season,2015-11-16,2,239,away,FALSE,Baylor,67,Bears,Baylor Bears,Baylor

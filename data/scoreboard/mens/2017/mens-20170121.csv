@@ -1,41 +1,41 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400919689,2017-01-21,2,222,home,FALSE,Villanova,78,Wildcats,Villanova Wildcats,Villanova
-400919689,2017-01-21,2,2507,away,FALSE,Providence,68,Friars,Providence Friars,Providence
-400911035,2017-01-21,2,2305,home,FALSE,Kansas,79,Jayhawks,Kansas Jayhawks,Kansas
-400911035,2017-01-21,2,251,away,FALSE,Texas,67,Longhorns,Texas Longhorns,Texas
-400915635,2017-01-21,2,26,home,FALSE,UCLA,85,Bruins,UCLA Bruins,UCLA
-400915635,2017-01-21,2,12,away,FALSE,Arizona,96,Wildcats,Arizona Wildcats,Arizona
-400915840,2017-01-21,2,2250,home,FALSE,Gonzaga,73,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400915840,2017-01-21,2,2501,away,FALSE,Portland,52,Pilots,Portland Pilots,Portland
-400910695,2017-01-21,2,96,home,FALSE,Kentucky,85,Wildcats,Kentucky Wildcats,Kentucky
-400910695,2017-01-21,2,2579,away,FALSE,South Carolina,69,Gamecocks,South Carolina Gamecocks,South Carolina
-400916221,2017-01-21,2,2628,home,FALSE,TCU,53,Horned Frogs,TCU Horned Frogs,TCU
-400916221,2017-01-21,2,239,away,FALSE,Baylor,62,Bears,Baylor Bears,Baylor
-400919691,2017-01-21,2,156,home,FALSE,Creighton,94,Bluejays,Creighton Bluejays,Creighton
-400919691,2017-01-21,2,269,away,FALSE,Marquette,102,Golden Eagles,Marquette Golden Eagles,Marquette
-400916220,2017-01-21,2,2306,home,FALSE,Kansas State,79,Wildcats,Kansas State Wildcats,Kansas St
-400916220,2017-01-21,2,277,away,FALSE,West Virginia,75,Mountaineers,West Virginia Mountaineers,West Virginia
-400915389,2017-01-21,2,103,home,FALSE,Boston College,82,Eagles,Boston College Eagles,Boston College
-400915389,2017-01-21,2,153,away,FALSE,North Carolina,90,Tar Heels,North Carolina Tar Heels,North Carolina
-400915391,2017-01-21,2,52,home,FALSE,Florida State,73,Seminoles,Florida State Seminoles,Florida St
-400915391,2017-01-21,2,97,away,FALSE,Louisville,68,Cardinals,Louisville Cardinals,Louisville
-400915636,2017-01-21,2,2483,home,FALSE,Oregon,69,Ducks,Oregon Ducks,Oregon
-400915636,2017-01-21,2,24,away,FALSE,Stanford,52,Cardinal,Stanford Cardinal,Stanford
-400919690,2017-01-21,3,305,home,FALSE,DePaul,69,Blue Demons,DePaul Blue Demons,DePaul
-400919690,2017-01-21,3,2086,away,FALSE,Butler,70,Bulldogs,Butler Bulldogs,Butler
-400915390,2017-01-21,2,87,home,FALSE,Notre Dame,84,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400915390,2017-01-21,2,183,away,FALSE,Syracuse,66,Orange,Syracuse Orange,Syracuse
-400915393,2017-01-21,2,258,home,FALSE,Virginia,62,Cavaliers,Virginia Cavaliers,Virginia
-400915393,2017-01-21,2,59,away,FALSE,Georgia Tech,49,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-400914936,2017-01-21,3,135,home,FALSE,Minnesota,76,Golden Gophers,Minnesota Golden Gophers,Minnesota
-400914936,2017-01-21,3,275,away,FALSE,Wisconsin,78,Badgers,Wisconsin Badgers,Wisconsin
-400915394,2017-01-21,2,150,home,FALSE,Duke,70,Blue Devils,Duke Blue Devils,Duke
-400915394,2017-01-21,2,2390,away,FALSE,Miami,58,Hurricanes,Miami Hurricanes,Miami
-400910646,2017-01-21,2,57,home,FALSE,Florida,66,Gators,Florida Gators,Florida
-400910646,2017-01-21,2,238,away,FALSE,Vanderbilt,68,Commodores,Vanderbilt Commodores,Vanderbilt
-400916593,2017-01-21,2,2655,home,FALSE,Tulane,61,Green Wave,Tulane Green Wave,Tulane
-400916593,2017-01-21,2,2132,away,FALSE,Cincinnati,78,Bearcats,Cincinnati Bearcats,Cincinnati
-400915177,2017-01-21,2,2509,home,FALSE,Purdue,77,Boilermakers,Purdue Boilermakers,Purdue
-400915177,2017-01-21,2,213,away,FALSE,Penn State,52,Nittany Lions,Penn State Nittany Lions,Penn State
-400915842,2017-01-21,2,2608,home,FALSE,Saint Mary's,85,Gaels,Saint Mary's Gaels,Saint Mary's
-400915842,2017-01-21,2,2492,away,FALSE,Pepperdine,65,Waves,Pepperdine Waves,Pepperdine
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400919689,2017,regular-season,2017-01-21,2,222,home,FALSE,Villanova,78,Wildcats,Villanova Wildcats,Villanova
+400919689,2017,regular-season,2017-01-21,2,2507,away,FALSE,Providence,68,Friars,Providence Friars,Providence
+400911035,2017,regular-season,2017-01-21,2,2305,home,FALSE,Kansas,79,Jayhawks,Kansas Jayhawks,Kansas
+400911035,2017,regular-season,2017-01-21,2,251,away,FALSE,Texas,67,Longhorns,Texas Longhorns,Texas
+400915635,2017,regular-season,2017-01-21,2,26,home,FALSE,UCLA,85,Bruins,UCLA Bruins,UCLA
+400915635,2017,regular-season,2017-01-21,2,12,away,FALSE,Arizona,96,Wildcats,Arizona Wildcats,Arizona
+400915840,2017,regular-season,2017-01-21,2,2250,home,FALSE,Gonzaga,73,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400915840,2017,regular-season,2017-01-21,2,2501,away,FALSE,Portland,52,Pilots,Portland Pilots,Portland
+400910695,2017,regular-season,2017-01-21,2,96,home,FALSE,Kentucky,85,Wildcats,Kentucky Wildcats,Kentucky
+400910695,2017,regular-season,2017-01-21,2,2579,away,FALSE,South Carolina,69,Gamecocks,South Carolina Gamecocks,South Carolina
+400916221,2017,regular-season,2017-01-21,2,2628,home,FALSE,TCU,53,Horned Frogs,TCU Horned Frogs,TCU
+400916221,2017,regular-season,2017-01-21,2,239,away,FALSE,Baylor,62,Bears,Baylor Bears,Baylor
+400919691,2017,regular-season,2017-01-21,2,156,home,FALSE,Creighton,94,Bluejays,Creighton Bluejays,Creighton
+400919691,2017,regular-season,2017-01-21,2,269,away,FALSE,Marquette,102,Golden Eagles,Marquette Golden Eagles,Marquette
+400916220,2017,regular-season,2017-01-21,2,2306,home,FALSE,Kansas State,79,Wildcats,Kansas State Wildcats,Kansas St
+400916220,2017,regular-season,2017-01-21,2,277,away,FALSE,West Virginia,75,Mountaineers,West Virginia Mountaineers,West Virginia
+400915389,2017,regular-season,2017-01-21,2,103,home,FALSE,Boston College,82,Eagles,Boston College Eagles,Boston College
+400915389,2017,regular-season,2017-01-21,2,153,away,FALSE,North Carolina,90,Tar Heels,North Carolina Tar Heels,North Carolina
+400915391,2017,regular-season,2017-01-21,2,52,home,FALSE,Florida State,73,Seminoles,Florida State Seminoles,Florida St
+400915391,2017,regular-season,2017-01-21,2,97,away,FALSE,Louisville,68,Cardinals,Louisville Cardinals,Louisville
+400915636,2017,regular-season,2017-01-21,2,2483,home,FALSE,Oregon,69,Ducks,Oregon Ducks,Oregon
+400915636,2017,regular-season,2017-01-21,2,24,away,FALSE,Stanford,52,Cardinal,Stanford Cardinal,Stanford
+400919690,2017,regular-season,2017-01-21,3,305,home,FALSE,DePaul,69,Blue Demons,DePaul Blue Demons,DePaul
+400919690,2017,regular-season,2017-01-21,3,2086,away,FALSE,Butler,70,Bulldogs,Butler Bulldogs,Butler
+400915390,2017,regular-season,2017-01-21,2,87,home,FALSE,Notre Dame,84,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400915390,2017,regular-season,2017-01-21,2,183,away,FALSE,Syracuse,66,Orange,Syracuse Orange,Syracuse
+400915393,2017,regular-season,2017-01-21,2,258,home,FALSE,Virginia,62,Cavaliers,Virginia Cavaliers,Virginia
+400915393,2017,regular-season,2017-01-21,2,59,away,FALSE,Georgia Tech,49,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+400914936,2017,regular-season,2017-01-21,3,135,home,FALSE,Minnesota,76,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400914936,2017,regular-season,2017-01-21,3,275,away,FALSE,Wisconsin,78,Badgers,Wisconsin Badgers,Wisconsin
+400915394,2017,regular-season,2017-01-21,2,150,home,FALSE,Duke,70,Blue Devils,Duke Blue Devils,Duke
+400915394,2017,regular-season,2017-01-21,2,2390,away,FALSE,Miami,58,Hurricanes,Miami Hurricanes,Miami
+400910646,2017,regular-season,2017-01-21,2,57,home,FALSE,Florida,66,Gators,Florida Gators,Florida
+400910646,2017,regular-season,2017-01-21,2,238,away,FALSE,Vanderbilt,68,Commodores,Vanderbilt Commodores,Vanderbilt
+400916593,2017,regular-season,2017-01-21,2,2655,home,FALSE,Tulane,61,Green Wave,Tulane Green Wave,Tulane
+400916593,2017,regular-season,2017-01-21,2,2132,away,FALSE,Cincinnati,78,Bearcats,Cincinnati Bearcats,Cincinnati
+400915177,2017,regular-season,2017-01-21,2,2509,home,FALSE,Purdue,77,Boilermakers,Purdue Boilermakers,Purdue
+400915177,2017,regular-season,2017-01-21,2,213,away,FALSE,Penn State,52,Nittany Lions,Penn State Nittany Lions,Penn State
+400915842,2017,regular-season,2017-01-21,2,2608,home,FALSE,Saint Mary's,85,Gaels,Saint Mary's Gaels,Saint Mary's
+400915842,2017,regular-season,2017-01-21,2,2492,away,FALSE,Pepperdine,65,Waves,Pepperdine Waves,Pepperdine

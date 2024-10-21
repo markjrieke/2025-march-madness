@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400947325,2017-03-23,2,2483,home,TRUE,Oregon,69,Ducks,Oregon Ducks,Oregon
-400947325,2017-03-23,2,130,away,TRUE,Michigan,68,Wolverines,Michigan Wolverines,Michigan
-400947270,2017-03-23,2,2250,home,TRUE,Gonzaga,61,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400947270,2017-03-23,2,277,away,TRUE,West Virginia,58,Mountaineers,West Virginia Mountaineers,West Virginia
-400947321,2017-03-23,2,2305,home,TRUE,Kansas,98,Jayhawks,Kansas Jayhawks,Kansas
-400947321,2017-03-23,2,2509,away,TRUE,Purdue,66,Boilermakers,Purdue Boilermakers,Purdue
-400947273,2017-03-23,2,12,home,TRUE,Arizona,71,Wildcats,Arizona Wildcats,Arizona
-400947273,2017-03-23,2,2752,away,TRUE,Xavier,73,Musketeers,Xavier Musketeers,Xavier
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400947325,2017,post-season,2017-03-23,2,2483,home,TRUE,Oregon,69,Ducks,Oregon Ducks,Oregon
+400947325,2017,post-season,2017-03-23,2,130,away,TRUE,Michigan,68,Wolverines,Michigan Wolverines,Michigan
+400947270,2017,post-season,2017-03-23,2,2250,home,TRUE,Gonzaga,61,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400947270,2017,post-season,2017-03-23,2,277,away,TRUE,West Virginia,58,Mountaineers,West Virginia Mountaineers,West Virginia
+400947321,2017,post-season,2017-03-23,2,2305,home,TRUE,Kansas,98,Jayhawks,Kansas Jayhawks,Kansas
+400947321,2017,post-season,2017-03-23,2,2509,away,TRUE,Purdue,66,Boilermakers,Purdue Boilermakers,Purdue
+400947273,2017,post-season,2017-03-23,2,12,home,TRUE,Arizona,71,Wildcats,Arizona Wildcats,Arizona
+400947273,2017,post-season,2017-03-23,2,2752,away,TRUE,Xavier,73,Musketeers,Xavier Musketeers,Xavier

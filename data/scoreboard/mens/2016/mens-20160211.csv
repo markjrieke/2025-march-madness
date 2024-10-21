@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400839294,2016-02-11,2,84,home,FALSE,Indiana,85,Hoosiers,Indiana Hoosiers,Indiana
-400839294,2016-02-11,2,2294,away,FALSE,Iowa,78,Hawkeyes,Iowa Hawkeyes,Iowa
-400841323,2016-02-11,2,25,home,FALSE,California,83,Golden Bears,California Golden Bears,California
-400841323,2016-02-11,2,2483,away,FALSE,Oregon,63,Ducks,Oregon Ducks,Oregon
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400839294,2016,regular-season,2016-02-11,2,84,home,FALSE,Indiana,85,Hoosiers,Indiana Hoosiers,Indiana
+400839294,2016,regular-season,2016-02-11,2,2294,away,FALSE,Iowa,78,Hawkeyes,Iowa Hawkeyes,Iowa
+400841323,2016,regular-season,2016-02-11,2,25,home,FALSE,California,83,Golden Bears,California Golden Bears,California
+400841323,2016,regular-season,2016-02-11,2,2483,away,FALSE,Oregon,63,Ducks,Oregon Ducks,Oregon

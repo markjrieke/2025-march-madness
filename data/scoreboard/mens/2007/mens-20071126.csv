@@ -1,53 +1,53 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273302747,2007-11-26,2,2747,home,FALSE,Wofford,85,Terriers,Wofford Terriers,Wofford
-273302747,2007-11-26,2,2648,away,FALSE,Toccoa Falls,35,Eagles,Toccoa Falls Eagles,Toccoa Fal
-273302413,2007-11-26,2,2413,home,FALSE,Morehead State,85,Eagles,Morehead State Eagles,Morehead St
-273302413,2007-11-26,2,484,away,FALSE,Alice Lloyd College,51,Eagles,Alice Lloyd College Eagles,Alice Lloyd
-273302329,2007-11-26,2,2329,home,FALSE,Lehigh,67,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-273302329,2007-11-26,2,2885,away,FALSE,NJIT,58,Highlanders,NJIT Highlanders,NJIT
-273302229,2007-11-26,2,2229,home,FALSE,Florida International,69,Panthers,Florida International Panthers,FIU
-273302229,2007-11-26,2,58,away,FALSE,South Florida,77,Bulls,South Florida Bulls,South Florida
-273302026,2007-11-26,2,2026,home,FALSE,App State,60,Mountaineers,App State Mountaineers,App State
-273302026,2007-11-26,2,2166,away,FALSE,Davidson,71,Wildcats,Davidson Wildcats,Davidson
-273302006,2007-11-26,2,2006,home,FALSE,Akron,67,Zips,Akron Zips,Akron
-273302006,2007-11-26,2,218,away,FALSE,Temple,65,Owls,Temple Owls,Temple
-273300116,2007-11-26,2,116,home,FALSE,Mount St. Mary's,45,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-273300116,2007-11-26,2,44,away,FALSE,American University,66,Eagles,American University Eagles,American
-273300107,2007-11-26,2,107,home,FALSE,Holy Cross,62,Crusaders,Holy Cross Crusaders,Holy Cross
-273300107,2007-11-26,2,195,away,FALSE,Ohio,60,Bobcats,Ohio Bobcats,Ohio
-273300041,2007-11-26,2,41,home,FALSE,UConn,93,Huskies,UConn Huskies,UConn
-273300041,2007-11-26,2,50,away,FALSE,Florida A&M,54,Rattlers,Florida A&M Rattlers,Florida A&M
-273302643,2007-11-26,2,2643,home,FALSE,The Citadel,76,Bulldogs,The Citadel Bulldogs,The Citadel
-273302643,2007-11-26,2,2127,away,FALSE,Charleston Southern,73,Buccaneers,Charleston Southern Buccaneers,Charleston So
-273302294,2007-11-26,2,2294,home,TRUE,Iowa,47,Hawkeyes,Iowa Hawkeyes,Iowa
-273302294,2007-11-26,2,154,away,TRUE,Wake Forest,56,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-273300290,2007-11-26,2,290,home,FALSE,Georgia Southern,80,Eagles,Georgia Southern Eagles,GA Southern
-273300290,2007-11-26,2,2382,away,FALSE,Mercer,69,Bears,Mercer Bears,Mercer
-273300087,2007-11-26,2,87,home,FALSE,Notre Dame,94,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-273300087,2007-11-26,2,2142,away,FALSE,Colgate,63,Raiders,Colgate Raiders,Colgate
-273302636,2007-11-26,2,2636,home,FALSE,UTSA,93,Roadrunners,UTSA Roadrunners,UTSA
-273302636,2007-11-26,2,2491,away,FALSE,Paul Quinn,79,Tigers,Paul Quinn Tigers,Paul Quinn
-273302132,2007-11-26,2,2132,home,FALSE,Cincinnati,69,Bearcats,Cincinnati Bearcats,Cincinnati
-273302132,2007-11-26,2,2908,away,FALSE,South Carolina Upstate,57,Spartans,South Carolina Upstate Spartans,SC Upstate
-273302057,2007-11-26,2,2057,home,FALSE,Belmont,85,Bruins,Belmont Bruins,Belmont
-273302057,2007-11-26,2,2393,away,FALSE,Middle Tennessee,62,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-273300288,2007-11-26,3,288,home,FALSE,Lipscomb,70,Bisons,Lipscomb Bisons,Lipscomb
-273300288,2007-11-26,3,2535,away,FALSE,Samford,65,Bulldogs,Samford Bulldogs,Samford
-273300250,2007-11-26,2,250,home,FALSE,UT Arlington,99,Mavericks,UT Arlington Mavericks,UT Arlington
-273300250,2007-11-26,2,2544,away,FALSE,Schreiner,66,Mountaineers,Schreiner Mountaineers,Schreiner
-273300248,2007-11-26,2,248,home,FALSE,Houston,86,Cougars,Houston Cougars,Houston
-273300248,2007-11-26,2,324,away,FALSE,Coastal Carolina,79,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
-273300158,2007-11-26,2,158,home,FALSE,Nebraska,79,Cornhuskers,Nebraska Cornhuskers,Nebraska
-273300158,2007-11-26,2,2870,away,FALSE,Purdue Fort Wayne,62,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-273300093,2007-11-26,2,93,home,FALSE,Murray State,81,Racers,Murray State Racers,Murray St
-273300093,2007-11-26,2,2032,away,FALSE,Arkansas State,67,Red Wolves,Arkansas State Red Wolves,Arkansas St
-273300140,2007-11-26,2,140,home,FALSE,Kansas City,77,Roos,Kansas City Roos,Kansas City
-273300140,2007-11-26,2,2226,away,FALSE,Florida Atlantic,66,Owls,Florida Atlantic Owls,FAU
-273302504,2007-11-26,2,2504,home,FALSE,Prairie View A&M,76,Panthers,Prairie View A&M Panthers,Prairie View
-273302504,2007-11-26,2,2450,away,FALSE,Norfolk State,71,Spartans,Norfolk State Spartans,Norfolk St
-273302751,2007-11-26,2,2751,home,FALSE,Wyoming,78,Cowboys,Wyoming Cowboys,Wyoming
-273302751,2007-11-26,2,2029,away,FALSE,Arkansas-Pine Bluff,59,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-273300009,2007-11-26,2,9,home,FALSE,Arizona State,75,Sun Devils,Arizona State Sun Devils,Arizona St
-273300009,2007-11-26,2,13,away,FALSE,Cal Poly,41,Mustangs,Cal Poly Mustangs,Cal Poly
-273300264,2007-11-26,2,264,home,FALSE,Washington,84,Huskies,Washington Huskies,Washington
-273300264,2007-11-26,2,299,away,FALSE,Long Beach State,69,Beach,Long Beach State Beach,Long Beach St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273302747,2008,regular-season,2007-11-26,2,2747,home,FALSE,Wofford,85,Terriers,Wofford Terriers,Wofford
+273302747,2008,regular-season,2007-11-26,2,2648,away,FALSE,Toccoa Falls,35,Eagles,Toccoa Falls Eagles,Toccoa Fal
+273302413,2008,regular-season,2007-11-26,2,2413,home,FALSE,Morehead State,85,Eagles,Morehead State Eagles,Morehead St
+273302413,2008,regular-season,2007-11-26,2,484,away,FALSE,Alice Lloyd College,51,Eagles,Alice Lloyd College Eagles,Alice Lloyd
+273302329,2008,regular-season,2007-11-26,2,2329,home,FALSE,Lehigh,67,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+273302329,2008,regular-season,2007-11-26,2,2885,away,FALSE,NJIT,58,Highlanders,NJIT Highlanders,NJIT
+273302229,2008,regular-season,2007-11-26,2,2229,home,FALSE,Florida International,69,Panthers,Florida International Panthers,FIU
+273302229,2008,regular-season,2007-11-26,2,58,away,FALSE,South Florida,77,Bulls,South Florida Bulls,South Florida
+273302026,2008,regular-season,2007-11-26,2,2026,home,FALSE,App State,60,Mountaineers,App State Mountaineers,App State
+273302026,2008,regular-season,2007-11-26,2,2166,away,FALSE,Davidson,71,Wildcats,Davidson Wildcats,Davidson
+273302006,2008,regular-season,2007-11-26,2,2006,home,FALSE,Akron,67,Zips,Akron Zips,Akron
+273302006,2008,regular-season,2007-11-26,2,218,away,FALSE,Temple,65,Owls,Temple Owls,Temple
+273300116,2008,regular-season,2007-11-26,2,116,home,FALSE,Mount St. Mary's,45,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+273300116,2008,regular-season,2007-11-26,2,44,away,FALSE,American University,66,Eagles,American University Eagles,American
+273300107,2008,regular-season,2007-11-26,2,107,home,FALSE,Holy Cross,62,Crusaders,Holy Cross Crusaders,Holy Cross
+273300107,2008,regular-season,2007-11-26,2,195,away,FALSE,Ohio,60,Bobcats,Ohio Bobcats,Ohio
+273300041,2008,regular-season,2007-11-26,2,41,home,FALSE,UConn,93,Huskies,UConn Huskies,UConn
+273300041,2008,regular-season,2007-11-26,2,50,away,FALSE,Florida A&M,54,Rattlers,Florida A&M Rattlers,Florida A&M
+273302643,2008,regular-season,2007-11-26,2,2643,home,FALSE,The Citadel,76,Bulldogs,The Citadel Bulldogs,The Citadel
+273302643,2008,regular-season,2007-11-26,2,2127,away,FALSE,Charleston Southern,73,Buccaneers,Charleston Southern Buccaneers,Charleston So
+273302294,2008,regular-season,2007-11-26,2,2294,home,TRUE,Iowa,47,Hawkeyes,Iowa Hawkeyes,Iowa
+273302294,2008,regular-season,2007-11-26,2,154,away,TRUE,Wake Forest,56,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+273300290,2008,regular-season,2007-11-26,2,290,home,FALSE,Georgia Southern,80,Eagles,Georgia Southern Eagles,GA Southern
+273300290,2008,regular-season,2007-11-26,2,2382,away,FALSE,Mercer,69,Bears,Mercer Bears,Mercer
+273300087,2008,regular-season,2007-11-26,2,87,home,FALSE,Notre Dame,94,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+273300087,2008,regular-season,2007-11-26,2,2142,away,FALSE,Colgate,63,Raiders,Colgate Raiders,Colgate
+273302636,2008,regular-season,2007-11-26,2,2636,home,FALSE,UTSA,93,Roadrunners,UTSA Roadrunners,UTSA
+273302636,2008,regular-season,2007-11-26,2,2491,away,FALSE,Paul Quinn,79,Tigers,Paul Quinn Tigers,Paul Quinn
+273302132,2008,regular-season,2007-11-26,2,2132,home,FALSE,Cincinnati,69,Bearcats,Cincinnati Bearcats,Cincinnati
+273302132,2008,regular-season,2007-11-26,2,2908,away,FALSE,South Carolina Upstate,57,Spartans,South Carolina Upstate Spartans,SC Upstate
+273302057,2008,regular-season,2007-11-26,2,2057,home,FALSE,Belmont,85,Bruins,Belmont Bruins,Belmont
+273302057,2008,regular-season,2007-11-26,2,2393,away,FALSE,Middle Tennessee,62,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+273300288,2008,regular-season,2007-11-26,3,288,home,FALSE,Lipscomb,70,Bisons,Lipscomb Bisons,Lipscomb
+273300288,2008,regular-season,2007-11-26,3,2535,away,FALSE,Samford,65,Bulldogs,Samford Bulldogs,Samford
+273300250,2008,regular-season,2007-11-26,2,250,home,FALSE,UT Arlington,99,Mavericks,UT Arlington Mavericks,UT Arlington
+273300250,2008,regular-season,2007-11-26,2,2544,away,FALSE,Schreiner,66,Mountaineers,Schreiner Mountaineers,Schreiner
+273300248,2008,regular-season,2007-11-26,2,248,home,FALSE,Houston,86,Cougars,Houston Cougars,Houston
+273300248,2008,regular-season,2007-11-26,2,324,away,FALSE,Coastal Carolina,79,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+273300158,2008,regular-season,2007-11-26,2,158,home,FALSE,Nebraska,79,Cornhuskers,Nebraska Cornhuskers,Nebraska
+273300158,2008,regular-season,2007-11-26,2,2870,away,FALSE,Purdue Fort Wayne,62,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+273300093,2008,regular-season,2007-11-26,2,93,home,FALSE,Murray State,81,Racers,Murray State Racers,Murray St
+273300093,2008,regular-season,2007-11-26,2,2032,away,FALSE,Arkansas State,67,Red Wolves,Arkansas State Red Wolves,Arkansas St
+273300140,2008,regular-season,2007-11-26,2,140,home,FALSE,Kansas City,77,Roos,Kansas City Roos,Kansas City
+273300140,2008,regular-season,2007-11-26,2,2226,away,FALSE,Florida Atlantic,66,Owls,Florida Atlantic Owls,FAU
+273302504,2008,regular-season,2007-11-26,2,2504,home,FALSE,Prairie View A&M,76,Panthers,Prairie View A&M Panthers,Prairie View
+273302504,2008,regular-season,2007-11-26,2,2450,away,FALSE,Norfolk State,71,Spartans,Norfolk State Spartans,Norfolk St
+273302751,2008,regular-season,2007-11-26,2,2751,home,FALSE,Wyoming,78,Cowboys,Wyoming Cowboys,Wyoming
+273302751,2008,regular-season,2007-11-26,2,2029,away,FALSE,Arkansas-Pine Bluff,59,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+273300009,2008,regular-season,2007-11-26,2,9,home,FALSE,Arizona State,75,Sun Devils,Arizona State Sun Devils,Arizona St
+273300009,2008,regular-season,2007-11-26,2,13,away,FALSE,Cal Poly,41,Mustangs,Cal Poly Mustangs,Cal Poly
+273300264,2008,regular-season,2007-11-26,2,264,home,FALSE,Washington,84,Huskies,Washington Huskies,Washington
+273300264,2008,regular-season,2007-11-26,2,299,away,FALSE,Long Beach State,69,Beach,Long Beach State Beach,Long Beach St

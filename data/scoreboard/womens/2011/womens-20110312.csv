@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310710024,2011-03-12,2,24,home,TRUE,Stanford,64,Cardinal,Stanford Cardinal,Stanford
-310710024,2011-03-12,2,26,away,TRUE,UCLA,55,Bruins,UCLA Bruins,UCLA
-310710239,2011-03-12,2,239,home,TRUE,Baylor,61,Bears,Baylor Bears,Baylor
-310710239,2011-03-12,2,245,away,TRUE,Texas A&M,58,Aggies,Texas A&M Aggies,Texas A&M
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310710024,2011,regular-season,2011-03-12,2,24,home,TRUE,Stanford,64,Cardinal,Stanford Cardinal,Stanford
+310710024,2011,regular-season,2011-03-12,2,26,away,TRUE,UCLA,55,Bruins,UCLA Bruins,UCLA
+310710239,2011,regular-season,2011-03-12,2,239,home,TRUE,Baylor,61,Bears,Baylor Bears,Baylor
+310710239,2011,regular-season,2011-03-12,2,245,away,TRUE,Texas A&M,58,Aggies,Texas A&M Aggies,Texas A&M

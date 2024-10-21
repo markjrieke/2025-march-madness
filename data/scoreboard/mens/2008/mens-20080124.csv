@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280240259,2008-01-24,2,259,home,FALSE,Virginia Tech,64,Hokies,Virginia Tech Hokies,Virginia Tech
-280240259,2008-01-24,2,150,away,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
-280240012,2008-01-24,2,12,home,FALSE,Arizona,76,Wildcats,Arizona Wildcats,Arizona
-280240012,2008-01-24,2,265,away,FALSE,Washington State,64,Cougars,Washington State Cougars,Washington St
-280242483,2008-01-24,2,2483,home,FALSE,Oregon,75,Ducks,Oregon Ducks,Oregon
-280242483,2008-01-24,2,26,away,FALSE,UCLA,80,Bruins,UCLA Bruins,UCLA
-280240077,2008-01-24,2,77,home,FALSE,Northwestern,62,Wildcats,Northwestern Wildcats,Northwestern
-280240077,2008-01-24,2,127,away,FALSE,Michigan State,78,Spartans,Michigan State Spartans,Michigan St
-280242086,2008-01-24,2,2086,home,FALSE,Butler,63,Bulldogs,Butler Bulldogs,Butler
-280242086,2008-01-24,2,2350,away,FALSE,Loyola Chicago,50,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-280242752,2008-01-24,2,2752,home,FALSE,Xavier,69,Musketeers,Xavier Musketeers,Xavier
-280242752,2008-01-24,2,2168,away,FALSE,Dayton,43,Flyers,Dayton Flyers,Dayton
-280240009,2008-01-24,2,9,home,FALSE,Arizona State,61,Sun Devils,Arizona State Sun Devils,Arizona St
-280240009,2008-01-24,2,264,away,FALSE,Washington,72,Huskies,Washington Huskies,Washington
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280240259,2008,regular-season,2008-01-24,2,259,home,FALSE,Virginia Tech,64,Hokies,Virginia Tech Hokies,Virginia Tech
+280240259,2008,regular-season,2008-01-24,2,150,away,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
+280240012,2008,regular-season,2008-01-24,2,12,home,FALSE,Arizona,76,Wildcats,Arizona Wildcats,Arizona
+280240012,2008,regular-season,2008-01-24,2,265,away,FALSE,Washington State,64,Cougars,Washington State Cougars,Washington St
+280242483,2008,regular-season,2008-01-24,2,2483,home,FALSE,Oregon,75,Ducks,Oregon Ducks,Oregon
+280242483,2008,regular-season,2008-01-24,2,26,away,FALSE,UCLA,80,Bruins,UCLA Bruins,UCLA
+280240077,2008,regular-season,2008-01-24,2,77,home,FALSE,Northwestern,62,Wildcats,Northwestern Wildcats,Northwestern
+280240077,2008,regular-season,2008-01-24,2,127,away,FALSE,Michigan State,78,Spartans,Michigan State Spartans,Michigan St
+280242086,2008,regular-season,2008-01-24,2,2086,home,FALSE,Butler,63,Bulldogs,Butler Bulldogs,Butler
+280242086,2008,regular-season,2008-01-24,2,2350,away,FALSE,Loyola Chicago,50,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+280242752,2008,regular-season,2008-01-24,2,2752,home,FALSE,Xavier,69,Musketeers,Xavier Musketeers,Xavier
+280242752,2008,regular-season,2008-01-24,2,2168,away,FALSE,Dayton,43,Flyers,Dayton Flyers,Dayton
+280240009,2008,regular-season,2008-01-24,2,9,home,FALSE,Arizona State,61,Sun Devils,Arizona State Sun Devils,Arizona St
+280240009,2008,regular-season,2008-01-24,2,264,away,FALSE,Washington,72,Huskies,Washington Huskies,Washington

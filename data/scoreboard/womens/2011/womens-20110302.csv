@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310610239,2011-03-02,2,239,home,FALSE,Baylor,84,Bears,Baylor Bears,Baylor
-310610239,2011-03-02,2,142,away,FALSE,Missouri,52,Tigers,Missouri Tigers,Missouri
-310612306,2011-03-02,2,2306,home,FALSE,Kansas State,71,Wildcats,Kansas State Wildcats,Kansas St
-310612306,2011-03-02,2,245,away,FALSE,Texas A&M,67,Aggies,Texas A&M Aggies,Texas A&M
-310610201,2011-03-02,2,201,home,FALSE,Oklahoma,81,Sooners,Oklahoma Sooners,Oklahoma
-310610201,2011-03-02,2,197,away,FALSE,Oklahoma State,66,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310610239,2011,regular-season,2011-03-02,2,239,home,FALSE,Baylor,84,Bears,Baylor Bears,Baylor
+310610239,2011,regular-season,2011-03-02,2,142,away,FALSE,Missouri,52,Tigers,Missouri Tigers,Missouri
+310612306,2011,regular-season,2011-03-02,2,2306,home,FALSE,Kansas State,71,Wildcats,Kansas State Wildcats,Kansas St
+310612306,2011,regular-season,2011-03-02,2,245,away,FALSE,Texas A&M,67,Aggies,Texas A&M Aggies,Texas A&M
+310610201,2011,regular-season,2011-03-02,2,201,home,FALSE,Oklahoma,81,Sooners,Oklahoma Sooners,Oklahoma
+310610201,2011,regular-season,2011-03-02,2,197,away,FALSE,Oklahoma State,66,Cowgirls,Oklahoma State Cowgirls,Oklahoma St

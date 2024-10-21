@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240510219,2004-02-20,2,219,home,FALSE,Pennsylvania,74,Quakers,Pennsylvania Quakers,Penn
-240510219,2004-02-20,2,225,away,FALSE,Brown,78,Bears,Brown Bears,Brown
-240510172,2004-02-20,2,172,home,FALSE,Cornell,69,Big Red,Cornell Big Red,Cornell
-240510172,2004-02-20,2,159,away,FALSE,Dartmouth,45,Big Green,Dartmouth Big Green,Dartmouth
-240510171,2004-02-20,2,171,home,FALSE,Columbia,66,Lions,Columbia Lions,Columbia
-240510171,2004-02-20,2,108,away,FALSE,Harvard,57,Crimson,Harvard Crimson,Harvard
-240512426,2004-02-20,2,2426,home,FALSE,Navy,59,Midshipmen,Navy Midshipmen,Navy
-240512426,2004-02-20,2,2142,away,FALSE,Colgate,60,Raiders,Colgate Raiders,Colgate
-240512329,2004-02-20,2,2329,home,FALSE,Lehigh,68,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-240512329,2004-02-20,2,349,away,FALSE,Army,63,Black Knights,Army Black Knights,Army
-240512241,2004-02-20,2,2241,home,FALSE,Gardner-Webb,84,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-240512241,2004-02-20,2,2097,away,FALSE,Campbell,69,Fighting Camels,Campbell Fighting Camels,Campbell
-240512083,2004-02-20,2,2083,home,FALSE,Bucknell,79,Bison,Bucknell Bison,Bucknell
-240512083,2004-02-20,2,322,away,FALSE,Lafayette,61,Leopards,Lafayette Leopards,Lafayette
-240510163,2004-02-20,2,163,home,FALSE,Princeton,70,Tigers,Princeton Tigers,Princeton
-240510163,2004-02-20,2,43,away,FALSE,Yale,58,Bulldogs,Yale Bulldogs,Yale
-240510044,2004-02-20,2,44,home,FALSE,American University,65,Eagles,American University Eagles,American
-240510044,2004-02-20,2,107,away,FALSE,Holy Cross,51,Crusaders,Holy Cross Crusaders,Holy Cross
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240510219,2004,regular-season,2004-02-20,2,219,home,FALSE,Pennsylvania,74,Quakers,Pennsylvania Quakers,Penn
+240510219,2004,regular-season,2004-02-20,2,225,away,FALSE,Brown,78,Bears,Brown Bears,Brown
+240510172,2004,regular-season,2004-02-20,2,172,home,FALSE,Cornell,69,Big Red,Cornell Big Red,Cornell
+240510172,2004,regular-season,2004-02-20,2,159,away,FALSE,Dartmouth,45,Big Green,Dartmouth Big Green,Dartmouth
+240510171,2004,regular-season,2004-02-20,2,171,home,FALSE,Columbia,66,Lions,Columbia Lions,Columbia
+240510171,2004,regular-season,2004-02-20,2,108,away,FALSE,Harvard,57,Crimson,Harvard Crimson,Harvard
+240512426,2004,regular-season,2004-02-20,2,2426,home,FALSE,Navy,59,Midshipmen,Navy Midshipmen,Navy
+240512426,2004,regular-season,2004-02-20,2,2142,away,FALSE,Colgate,60,Raiders,Colgate Raiders,Colgate
+240512329,2004,regular-season,2004-02-20,2,2329,home,FALSE,Lehigh,68,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+240512329,2004,regular-season,2004-02-20,2,349,away,FALSE,Army,63,Black Knights,Army Black Knights,Army
+240512241,2004,regular-season,2004-02-20,2,2241,home,FALSE,Gardner-Webb,84,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+240512241,2004,regular-season,2004-02-20,2,2097,away,FALSE,Campbell,69,Fighting Camels,Campbell Fighting Camels,Campbell
+240512083,2004,regular-season,2004-02-20,2,2083,home,FALSE,Bucknell,79,Bison,Bucknell Bison,Bucknell
+240512083,2004,regular-season,2004-02-20,2,322,away,FALSE,Lafayette,61,Leopards,Lafayette Leopards,Lafayette
+240510163,2004,regular-season,2004-02-20,2,163,home,FALSE,Princeton,70,Tigers,Princeton Tigers,Princeton
+240510163,2004,regular-season,2004-02-20,2,43,away,FALSE,Yale,58,Bulldogs,Yale Bulldogs,Yale
+240510044,2004,regular-season,2004-02-20,2,44,home,FALSE,American University,65,Eagles,American University Eagles,American
+240510044,2004,regular-season,2004-02-20,2,107,away,FALSE,Holy Cross,51,Crusaders,Holy Cross Crusaders,Holy Cross

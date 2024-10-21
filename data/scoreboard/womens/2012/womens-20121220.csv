@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323550048,2012-12-20,2,48,home,FALSE,Delaware,53,Blue Hens,Delaware Blue Hens,Delaware
-323550048,2012-12-20,2,120,away,FALSE,Maryland,69,Terrapins,Maryland Terrapins,Maryland
-323550026,2012-12-20,2,26,home,FALSE,UCLA,72,Bruins,UCLA Bruins,UCLA
-323550026,2012-12-20,2,2463,away,FALSE,Cal State Northridge,77,Matadors,Cal State Northridge Matadors,CSU Northridge
-323550201,2012-12-20,2,201,home,FALSE,Oklahoma,70,Sooners,Oklahoma Sooners,Oklahoma
-323550201,2012-12-20,2,27,away,FALSE,UC Riverside,46,Highlanders,UC Riverside Highlanders,UC Riverside
-323550251,2012-12-20,2,251,home,FALSE,Texas,53,Longhorns,Texas Longhorns,Texas
-323550251,2012-12-20,2,172,away,FALSE,Cornell,40,Big Red,Cornell Big Red,Cornell
-323550277,2012-12-20,2,277,home,FALSE,West Virginia,54,Mountaineers,West Virginia Mountaineers,West Virginia
-323550277,2012-12-20,2,2184,away,FALSE,Duquesne,62,Dukes,Duquesne Dukes,Duquesne
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323550048,2013,regular-season,2012-12-20,2,48,home,FALSE,Delaware,53,Blue Hens,Delaware Blue Hens,Delaware
+323550048,2013,regular-season,2012-12-20,2,120,away,FALSE,Maryland,69,Terrapins,Maryland Terrapins,Maryland
+323550026,2013,regular-season,2012-12-20,2,26,home,FALSE,UCLA,72,Bruins,UCLA Bruins,UCLA
+323550026,2013,regular-season,2012-12-20,2,2463,away,FALSE,Cal State Northridge,77,Matadors,Cal State Northridge Matadors,CSU Northridge
+323550201,2013,regular-season,2012-12-20,2,201,home,FALSE,Oklahoma,70,Sooners,Oklahoma Sooners,Oklahoma
+323550201,2013,regular-season,2012-12-20,2,27,away,FALSE,UC Riverside,46,Highlanders,UC Riverside Highlanders,UC Riverside
+323550251,2013,regular-season,2012-12-20,2,251,home,FALSE,Texas,53,Longhorns,Texas Longhorns,Texas
+323550251,2013,regular-season,2012-12-20,2,172,away,FALSE,Cornell,40,Big Red,Cornell Big Red,Cornell
+323550277,2013,regular-season,2012-12-20,2,277,home,FALSE,West Virginia,54,Mountaineers,West Virginia Mountaineers,West Virginia
+323550277,2013,regular-season,2012-12-20,2,2184,away,FALSE,Duquesne,62,Dukes,Duquesne Dukes,Duquesne

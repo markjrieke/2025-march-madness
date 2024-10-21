@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213530140,2001-12-19,2,140,home,FALSE,Kansas City,50,Roos,Kansas City Roos,Kansas City
-213530140,2001-12-19,2,197,away,FALSE,Oklahoma State,62,Cowboys,Oklahoma State Cowboys,Oklahoma St
-213530024,2001-12-19,2,24,home,FALSE,Stanford,87,Cardinal,Stanford Cardinal,Stanford
-213530024,2001-12-19,2,2502,away,FALSE,Portland State,63,Vikings,Portland State Vikings,Portland St
-213530269,2001-12-19,2,269,home,FALSE,Marquette,100,Golden Eagles,Marquette Golden Eagles,Marquette
-213530269,2001-12-19,2,2029,away,FALSE,Arkansas-Pine Bluff,49,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-213530127,2001-12-19,2,127,home,FALSE,Michigan State,78,Spartans,Michigan State Spartans,Michigan St
-213530127,2001-12-19,2,2473,away,FALSE,Oakland,50,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-213530154,2001-12-19,2,154,home,FALSE,Wake Forest,89,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-213530154,2001-12-19,2,2598,away,FALSE,St. Francis (PA),60,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-213532050,2001-12-19,2,2050,home,FALSE,Ball State,66,Cardinals,Ball State Cardinals,Ball State
-213532050,2001-12-19,2,2086,away,FALSE,Butler,75,Bulldogs,Butler Bulldogs,Butler
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213530140,2002,regular-season,2001-12-19,2,140,home,FALSE,Kansas City,50,Roos,Kansas City Roos,Kansas City
+213530140,2002,regular-season,2001-12-19,2,197,away,FALSE,Oklahoma State,62,Cowboys,Oklahoma State Cowboys,Oklahoma St
+213530024,2002,regular-season,2001-12-19,2,24,home,FALSE,Stanford,87,Cardinal,Stanford Cardinal,Stanford
+213530024,2002,regular-season,2001-12-19,2,2502,away,FALSE,Portland State,63,Vikings,Portland State Vikings,Portland St
+213530269,2002,regular-season,2001-12-19,2,269,home,FALSE,Marquette,100,Golden Eagles,Marquette Golden Eagles,Marquette
+213530269,2002,regular-season,2001-12-19,2,2029,away,FALSE,Arkansas-Pine Bluff,49,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+213530127,2002,regular-season,2001-12-19,2,127,home,FALSE,Michigan State,78,Spartans,Michigan State Spartans,Michigan St
+213530127,2002,regular-season,2001-12-19,2,2473,away,FALSE,Oakland,50,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+213530154,2002,regular-season,2001-12-19,2,154,home,FALSE,Wake Forest,89,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+213530154,2002,regular-season,2001-12-19,2,2598,away,FALSE,St. Francis (PA),60,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+213532050,2002,regular-season,2001-12-19,2,2050,home,FALSE,Ball State,66,Cardinals,Ball State Cardinals,Ball State
+213532050,2002,regular-season,2001-12-19,2,2086,away,FALSE,Butler,75,Bulldogs,Butler Bulldogs,Butler

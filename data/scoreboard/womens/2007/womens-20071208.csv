@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273420349,2007-12-08,2,349,home,FALSE,Army,42,Black Knights,Army Black Knights,Army
-273420349,2007-12-08,2,164,away,FALSE,Rutgers,59,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-273420202,2007-12-08,2,202,home,FALSE,Tulsa,47,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-273420202,2007-12-08,2,201,away,FALSE,Oklahoma,67,Sooners,Oklahoma Sooners,Oklahoma
-273420163,2007-12-08,2,163,home,FALSE,Princeton,42,Tigers,Princeton Tigers,Princeton
-273420163,2007-12-08,2,25,away,FALSE,California,68,Golden Bears,California Golden Bears,California
-273420221,2007-12-08,2,221,home,FALSE,Pittsburgh,49,Panthers,Pittsburgh Panthers,Pitt
-273420221,2007-12-08,2,150,away,FALSE,Duke,51,Blue Devils,Duke Blue Devils,Duke
-273420305,2007-12-08,2,305,home,FALSE,DePaul,93,Blue Demons,DePaul Blue Demons,DePaul
-273420305,2007-12-08,2,2350,away,FALSE,Loyola Chicago,51,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-273422509,2007-12-08,2,2509,home,FALSE,Purdue,48,Boilermakers,Purdue Boilermakers,Purdue
-273422509,2007-12-08,2,87,away,FALSE,Notre Dame,61,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-273420357,2007-12-08,2,357,home,FALSE,Texas A&M-Corpus Christi,41,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-273420357,2007-12-08,2,251,away,FALSE,Texas,88,Longhorns,Texas Longhorns,Texas
-273420282,2007-12-08,2,282,home,FALSE,Indiana State,58,Sycamores,Indiana State Sycamores,Indiana St
-273420282,2007-12-08,2,127,away,FALSE,Michigan State,83,Spartans,Michigan State Spartans,Michigan St
-273422603,2007-12-08,2,2603,home,FALSE,Saint Joseph's,64,Hawks,Saint Joseph's Hawks,Saint Joseph's
-273422603,2007-12-08,2,2751,away,FALSE,Wyoming,66,Cowgirls,Wyoming Cowgirls,Wyoming
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273420349,2008,regular-season,2007-12-08,2,349,home,FALSE,Army,42,Black Knights,Army Black Knights,Army
+273420349,2008,regular-season,2007-12-08,2,164,away,FALSE,Rutgers,59,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+273420202,2008,regular-season,2007-12-08,2,202,home,FALSE,Tulsa,47,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+273420202,2008,regular-season,2007-12-08,2,201,away,FALSE,Oklahoma,67,Sooners,Oklahoma Sooners,Oklahoma
+273420163,2008,regular-season,2007-12-08,2,163,home,FALSE,Princeton,42,Tigers,Princeton Tigers,Princeton
+273420163,2008,regular-season,2007-12-08,2,25,away,FALSE,California,68,Golden Bears,California Golden Bears,California
+273420221,2008,regular-season,2007-12-08,2,221,home,FALSE,Pittsburgh,49,Panthers,Pittsburgh Panthers,Pitt
+273420221,2008,regular-season,2007-12-08,2,150,away,FALSE,Duke,51,Blue Devils,Duke Blue Devils,Duke
+273420305,2008,regular-season,2007-12-08,2,305,home,FALSE,DePaul,93,Blue Demons,DePaul Blue Demons,DePaul
+273420305,2008,regular-season,2007-12-08,2,2350,away,FALSE,Loyola Chicago,51,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+273422509,2008,regular-season,2007-12-08,2,2509,home,FALSE,Purdue,48,Boilermakers,Purdue Boilermakers,Purdue
+273422509,2008,regular-season,2007-12-08,2,87,away,FALSE,Notre Dame,61,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+273420357,2008,regular-season,2007-12-08,2,357,home,FALSE,Texas A&M-Corpus Christi,41,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+273420357,2008,regular-season,2007-12-08,2,251,away,FALSE,Texas,88,Longhorns,Texas Longhorns,Texas
+273420282,2008,regular-season,2007-12-08,2,282,home,FALSE,Indiana State,58,Sycamores,Indiana State Sycamores,Indiana St
+273420282,2008,regular-season,2007-12-08,2,127,away,FALSE,Michigan State,83,Spartans,Michigan State Spartans,Michigan St
+273422603,2008,regular-season,2007-12-08,2,2603,home,FALSE,Saint Joseph's,64,Hawks,Saint Joseph's Hawks,Saint Joseph's
+273422603,2008,regular-season,2007-12-08,2,2751,away,FALSE,Wyoming,66,Cowgirls,Wyoming Cowgirls,Wyoming

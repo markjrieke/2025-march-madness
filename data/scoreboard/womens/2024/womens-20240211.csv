@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401584565,2024-02-11,4,2579,home,FALSE,South Carolina,83,Gamecocks,South Carolina Gamecocks,South Carolina
-401584565,2024-02-11,4,41,away,FALSE,UConn,65,Huskies,UConn Huskies,UConn
-401601585,2024-02-11,4,158,home,FALSE,Nebraska,82,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401601585,2024-02-11,4,2294,away,FALSE,Iowa,79,Hawkeyes,Iowa Hawkeyes,Iowa
-401604018,2024-02-11,4,221,home,FALSE,Pittsburgh,47,Panthers,Pittsburgh Panthers,Pitt
-401604018,2024-02-11,4,152,away,FALSE,NC State,83,Wolfpack,NC State Wolfpack,NC State
-401609715,2024-02-11,4,38,home,FALSE,Colorado,59,Buffaloes,Colorado Buffaloes,Colorado
-401609715,2024-02-11,4,204,away,FALSE,Oregon State,65,Beavers,Oregon State Beavers,Oregon St
-401601586,2024-02-11,4,127,home,FALSE,Michigan State,71,Spartans,Michigan State Spartans,Michigan St
-401601586,2024-02-11,4,194,away,FALSE,Ohio State,86,Buckeyes,Ohio State Buckeyes,Ohio State
-401609718,2024-02-11,4,265,home,FALSE,Washington State,58,Cougars,Washington State Cougars,Washington St
-401609718,2024-02-11,4,24,away,FALSE,Stanford,73,Cardinal,Stanford Cardinal,Stanford
-401609716,2024-02-11,4,26,home,FALSE,UCLA,78,Bruins,UCLA Bruins,UCLA
-401609716,2024-02-11,4,9,away,FALSE,Arizona State,45,Sun Devils,Arizona State Sun Devils,Arizona St
-401604017,2024-02-11,6,52,home,FALSE,Florida State,94,Seminoles,Florida State Seminoles,Florida St
-401604017,2024-02-11,6,87,away,FALSE,Notre Dame,98,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401596734,2024-02-11,4,99,home,FALSE,LSU,85,Tigers,LSU Tigers,LSU
-401596734,2024-02-11,4,333,away,FALSE,Alabama,66,Crimson Tide,Alabama Crimson Tide,Alabama
-401601584,2024-02-11,4,84,home,FALSE,Indiana,95,Hoosiers,Indiana Hoosiers,Indiana
-401601584,2024-02-11,4,2509,away,FALSE,Purdue,62,Boilermakers,Purdue Boilermakers,Purdue
-401604016,2024-02-11,4,183,home,FALSE,Syracuse,73,Orange,Syracuse Orange,Syracuse
-401604016,2024-02-11,4,97,away,FALSE,Louisville,72,Cardinals,Louisville Cardinals,Louisville
-401604019,2024-02-11,4,259,home,FALSE,Virginia Tech,74,Hokies,Virginia Tech Hokies,Virginia Tech
-401604019,2024-02-11,4,103,away,FALSE,Boston College,63,Eagles,Boston College Eagles,Boston College
-401609714,2024-02-11,4,254,home,FALSE,Utah,70,Utes,Utah Utes,Utah
-401609714,2024-02-11,4,2483,away,FALSE,Oregon,48,Ducks,Oregon Ducks,Oregon
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401584565,2024,regular-season,2024-02-11,4,2579,home,FALSE,South Carolina,83,Gamecocks,South Carolina Gamecocks,South Carolina
+401584565,2024,regular-season,2024-02-11,4,41,away,FALSE,UConn,65,Huskies,UConn Huskies,UConn
+401601585,2024,regular-season,2024-02-11,4,158,home,FALSE,Nebraska,82,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401601585,2024,regular-season,2024-02-11,4,2294,away,FALSE,Iowa,79,Hawkeyes,Iowa Hawkeyes,Iowa
+401604018,2024,regular-season,2024-02-11,4,221,home,FALSE,Pittsburgh,47,Panthers,Pittsburgh Panthers,Pitt
+401604018,2024,regular-season,2024-02-11,4,152,away,FALSE,NC State,83,Wolfpack,NC State Wolfpack,NC State
+401609715,2024,regular-season,2024-02-11,4,38,home,FALSE,Colorado,59,Buffaloes,Colorado Buffaloes,Colorado
+401609715,2024,regular-season,2024-02-11,4,204,away,FALSE,Oregon State,65,Beavers,Oregon State Beavers,Oregon St
+401601586,2024,regular-season,2024-02-11,4,127,home,FALSE,Michigan State,71,Spartans,Michigan State Spartans,Michigan St
+401601586,2024,regular-season,2024-02-11,4,194,away,FALSE,Ohio State,86,Buckeyes,Ohio State Buckeyes,Ohio State
+401609718,2024,regular-season,2024-02-11,4,265,home,FALSE,Washington State,58,Cougars,Washington State Cougars,Washington St
+401609718,2024,regular-season,2024-02-11,4,24,away,FALSE,Stanford,73,Cardinal,Stanford Cardinal,Stanford
+401609716,2024,regular-season,2024-02-11,4,26,home,FALSE,UCLA,78,Bruins,UCLA Bruins,UCLA
+401609716,2024,regular-season,2024-02-11,4,9,away,FALSE,Arizona State,45,Sun Devils,Arizona State Sun Devils,Arizona St
+401604017,2024,regular-season,2024-02-11,6,52,home,FALSE,Florida State,94,Seminoles,Florida State Seminoles,Florida St
+401604017,2024,regular-season,2024-02-11,6,87,away,FALSE,Notre Dame,98,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401596734,2024,regular-season,2024-02-11,4,99,home,FALSE,LSU,85,Tigers,LSU Tigers,LSU
+401596734,2024,regular-season,2024-02-11,4,333,away,FALSE,Alabama,66,Crimson Tide,Alabama Crimson Tide,Alabama
+401601584,2024,regular-season,2024-02-11,4,84,home,FALSE,Indiana,95,Hoosiers,Indiana Hoosiers,Indiana
+401601584,2024,regular-season,2024-02-11,4,2509,away,FALSE,Purdue,62,Boilermakers,Purdue Boilermakers,Purdue
+401604016,2024,regular-season,2024-02-11,4,183,home,FALSE,Syracuse,73,Orange,Syracuse Orange,Syracuse
+401604016,2024,regular-season,2024-02-11,4,97,away,FALSE,Louisville,72,Cardinals,Louisville Cardinals,Louisville
+401604019,2024,regular-season,2024-02-11,4,259,home,FALSE,Virginia Tech,74,Hokies,Virginia Tech Hokies,Virginia Tech
+401604019,2024,regular-season,2024-02-11,4,103,away,FALSE,Boston College,63,Eagles,Boston College Eagles,Boston College
+401609714,2024,regular-season,2024-02-11,4,254,home,FALSE,Utah,70,Utes,Utah Utes,Utah
+401609714,2024,regular-season,2024-02-11,4,2483,away,FALSE,Oregon,48,Ducks,Oregon Ducks,Oregon

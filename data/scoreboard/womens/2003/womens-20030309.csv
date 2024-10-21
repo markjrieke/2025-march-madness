@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230680041,2003-03-09,2,41,home,FALSE,UConn,70,Huskies,UConn Huskies,UConn
-230680041,2003-03-09,2,2550,away,FALSE,Seton Hall,47,Pirates,Seton Hall Pirates,Seton Hall
-230680150,2003-03-09,2,150,home,FALSE,Duke,76,Blue Devils,Duke Blue Devils,Duke
-230680150,2003-03-09,2,59,away,FALSE,Georgia Tech,52,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-230682633,2003-03-09,2,2633,home,FALSE,Tennessee,62,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-230682633,2003-03-09,2,99,away,FALSE,LSU,78,Tigers,LSU Tigers,LSU
-230680024,2003-03-09,2,24,home,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
-230680024,2003-03-09,2,26,away,FALSE,UCLA,64,Bruins,UCLA Bruins,UCLA
-230680153,2003-03-09,2,153,home,FALSE,North Carolina,88,Tar Heels,North Carolina Tar Heels,North Carolina
-230680153,2003-03-09,2,258,away,FALSE,Virginia,78,Cavaliers,Virginia Cavaliers,Virginia
-230682509,2003-03-09,2,2509,home,FALSE,Purdue,84,Boilermakers,Purdue Boilermakers,Purdue
-230682509,2003-03-09,2,2294,away,FALSE,Iowa,57,Hawkeyes,Iowa Hawkeyes,Iowa
-230680213,2003-03-09,2,213,home,FALSE,Penn State,61,Lady Lions,Penn State Lady Lions,Penn State
-230680213,2003-03-09,2,194,away,FALSE,Ohio State,72,Buckeyes,Ohio State Buckeyes,Ohio State
-230680164,2003-03-09,2,164,home,FALSE,Rutgers,74,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-230680164,2003-03-09,2,2390,away,FALSE,Miami,77,Hurricanes,Miami Hurricanes,Miami
-230680222,2003-03-09,2,222,home,FALSE,Villanova,50,Wildcats,Villanova Wildcats,Villanova
-230680222,2003-03-09,2,87,away,FALSE,Notre Dame,39,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-230682739,2003-03-09,2,2739,home,FALSE,Green Bay,83,Phoenix,Green Bay Phoenix,Green Bay
-230682739,2003-03-09,2,2174,away,FALSE,Detroit Mercy,59,Titans,Detroit Mercy Titans,Detroit Mercy
-230680264,2003-03-09,2,264,home,FALSE,Washington,51,Huskies,Washington Huskies,Washington
-230680264,2003-03-09,2,12,away,FALSE,Arizona,74,Wildcats,Arizona Wildcats,Arizona
-230680103,2003-03-09,3,103,home,FALSE,Boston College,70,Eagles,Boston College Eagles,Boston College
-230680103,2003-03-09,3,259,away,FALSE,Virginia Tech,74,Hokies,Virginia Tech Hokies,Virginia Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230680041,2003,regular-season,2003-03-09,2,41,home,FALSE,UConn,70,Huskies,UConn Huskies,UConn
+230680041,2003,regular-season,2003-03-09,2,2550,away,FALSE,Seton Hall,47,Pirates,Seton Hall Pirates,Seton Hall
+230680150,2003,regular-season,2003-03-09,2,150,home,FALSE,Duke,76,Blue Devils,Duke Blue Devils,Duke
+230680150,2003,regular-season,2003-03-09,2,59,away,FALSE,Georgia Tech,52,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+230682633,2003,regular-season,2003-03-09,2,2633,home,FALSE,Tennessee,62,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+230682633,2003,regular-season,2003-03-09,2,99,away,FALSE,LSU,78,Tigers,LSU Tigers,LSU
+230680024,2003,regular-season,2003-03-09,2,24,home,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
+230680024,2003,regular-season,2003-03-09,2,26,away,FALSE,UCLA,64,Bruins,UCLA Bruins,UCLA
+230680153,2003,regular-season,2003-03-09,2,153,home,FALSE,North Carolina,88,Tar Heels,North Carolina Tar Heels,North Carolina
+230680153,2003,regular-season,2003-03-09,2,258,away,FALSE,Virginia,78,Cavaliers,Virginia Cavaliers,Virginia
+230682509,2003,regular-season,2003-03-09,2,2509,home,FALSE,Purdue,84,Boilermakers,Purdue Boilermakers,Purdue
+230682509,2003,regular-season,2003-03-09,2,2294,away,FALSE,Iowa,57,Hawkeyes,Iowa Hawkeyes,Iowa
+230680213,2003,regular-season,2003-03-09,2,213,home,FALSE,Penn State,61,Lady Lions,Penn State Lady Lions,Penn State
+230680213,2003,regular-season,2003-03-09,2,194,away,FALSE,Ohio State,72,Buckeyes,Ohio State Buckeyes,Ohio State
+230680164,2003,regular-season,2003-03-09,2,164,home,FALSE,Rutgers,74,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+230680164,2003,regular-season,2003-03-09,2,2390,away,FALSE,Miami,77,Hurricanes,Miami Hurricanes,Miami
+230680222,2003,regular-season,2003-03-09,2,222,home,FALSE,Villanova,50,Wildcats,Villanova Wildcats,Villanova
+230680222,2003,regular-season,2003-03-09,2,87,away,FALSE,Notre Dame,39,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+230682739,2003,regular-season,2003-03-09,2,2739,home,FALSE,Green Bay,83,Phoenix,Green Bay Phoenix,Green Bay
+230682739,2003,regular-season,2003-03-09,2,2174,away,FALSE,Detroit Mercy,59,Titans,Detroit Mercy Titans,Detroit Mercy
+230680264,2003,regular-season,2003-03-09,2,264,home,FALSE,Washington,51,Huskies,Washington Huskies,Washington
+230680264,2003,regular-season,2003-03-09,2,12,away,FALSE,Arizona,74,Wildcats,Arizona Wildcats,Arizona
+230680103,2003,regular-season,2003-03-09,3,103,home,FALSE,Boston College,70,Eagles,Boston College Eagles,Boston College
+230680103,2003,regular-season,2003-03-09,3,259,away,FALSE,Virginia Tech,74,Hokies,Virginia Tech Hokies,Virginia Tech

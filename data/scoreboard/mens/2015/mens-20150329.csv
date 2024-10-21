@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400787680,2015-03-29,3,97,home,TRUE,Louisville,70,Cardinals,Louisville Cardinals,Louisville
-400787680,2015-03-29,3,127,away,TRUE,Michigan State,76,Spartans,Michigan State Spartans,Michigan St
-400787701,2015-03-29,2,150,home,TRUE,Duke,66,Blue Devils,Duke Blue Devils,Duke
-400787701,2015-03-29,2,2250,away,TRUE,Gonzaga,52,Bulldogs,Gonzaga Bulldogs,Gonzaga
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400787680,2015,post-season,2015-03-29,3,97,home,TRUE,Louisville,70,Cardinals,Louisville Cardinals,Louisville
+400787680,2015,post-season,2015-03-29,3,127,away,TRUE,Michigan State,76,Spartans,Michigan State Spartans,Michigan St
+400787701,2015,post-season,2015-03-29,2,150,home,TRUE,Duke,66,Blue Devils,Duke Blue Devils,Duke
+400787701,2015,post-season,2015-03-29,2,2250,away,TRUE,Gonzaga,52,Bulldogs,Gonzaga Bulldogs,Gonzaga

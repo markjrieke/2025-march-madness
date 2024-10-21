@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240160025,2004-01-16,2,25,home,FALSE,California,53,Golden Bears,California Golden Bears,California
-240160025,2004-01-16,2,24,away,FALSE,Stanford,63,Cardinal,Stanford Cardinal,Stanford
-240160005,2004-01-16,2,5,home,FALSE,UAB,71,Blazers,UAB Blazers,UAB
-240160005,2004-01-16,2,305,away,FALSE,DePaul,88,Blue Demons,DePaul Blue Demons,DePaul
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240160025,2004,regular-season,2004-01-16,2,25,home,FALSE,California,53,Golden Bears,California Golden Bears,California
+240160025,2004,regular-season,2004-01-16,2,24,away,FALSE,Stanford,63,Cardinal,Stanford Cardinal,Stanford
+240160005,2004,regular-season,2004-01-16,2,5,home,FALSE,UAB,71,Blazers,UAB Blazers,UAB
+240160005,2004,regular-season,2004-01-16,2,305,away,FALSE,DePaul,88,Blue Demons,DePaul Blue Demons,DePaul

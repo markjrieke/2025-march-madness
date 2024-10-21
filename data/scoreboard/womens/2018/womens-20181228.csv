@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401094682,2018-12-28,4,213,home,FALSE,Penn State,61,Lady Lions,Penn State Lady Lions,Penn State
-401094682,2018-12-28,4,120,away,FALSE,Maryland,77,Terrapins,Maryland Terrapins,Maryland
-401091534,2018-12-28,4,2633,home,FALSE,Tennessee,98,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401091534,2018-12-28,4,93,away,FALSE,Murray State,77,Racers,Murray State Racers,Murray St
-401094732,2018-12-28,4,135,home,FALSE,Minnesota,74,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401094732,2018-12-28,4,275,away,FALSE,Wisconsin,56,Badgers,Wisconsin Badgers,Wisconsin
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401094682,2019,regular-season,2018-12-28,4,213,home,FALSE,Penn State,61,Lady Lions,Penn State Lady Lions,Penn State
+401094682,2019,regular-season,2018-12-28,4,120,away,FALSE,Maryland,77,Terrapins,Maryland Terrapins,Maryland
+401091534,2019,regular-season,2018-12-28,4,2633,home,FALSE,Tennessee,98,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401091534,2019,regular-season,2018-12-28,4,93,away,FALSE,Murray State,77,Racers,Murray State Racers,Murray St
+401094732,2019,regular-season,2018-12-28,4,135,home,FALSE,Minnesota,74,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401094732,2019,regular-season,2018-12-28,4,275,away,FALSE,Wisconsin,56,Badgers,Wisconsin Badgers,Wisconsin

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323622612,2012-12-27,2,2612,home,FALSE,Saint Peter's,40,Peacocks,Saint Peter's Peacocks,Saint Peter's
-323622612,2012-12-27,2,2261,away,FALSE,Hampton,62,Lady Pirates,Hampton Lady Pirates,Hampton
-323620194,2012-12-27,2,194,home,FALSE,Ohio State,88,Buckeyes,Ohio State Buckeyes,Ohio State
-323620194,2012-12-27,2,2670,away,FALSE,VCU,50,Rams,VCU Rams,VCU
-323622393,2012-12-27,2,2393,home,FALSE,Middle Tennessee,66,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-323622393,2012-12-27,2,249,away,FALSE,North Texas,64,Mean Green,North Texas Mean Green,North Texas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323622612,2013,regular-season,2012-12-27,2,2612,home,FALSE,Saint Peter's,40,Peacocks,Saint Peter's Peacocks,Saint Peter's
+323622612,2013,regular-season,2012-12-27,2,2261,away,FALSE,Hampton,62,Lady Pirates,Hampton Lady Pirates,Hampton
+323620194,2013,regular-season,2012-12-27,2,194,home,FALSE,Ohio State,88,Buckeyes,Ohio State Buckeyes,Ohio State
+323620194,2013,regular-season,2012-12-27,2,2670,away,FALSE,VCU,50,Rams,VCU Rams,VCU
+323622393,2013,regular-season,2012-12-27,2,2393,home,FALSE,Middle Tennessee,66,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+323622393,2013,regular-season,2012-12-27,2,249,away,FALSE,North Texas,64,Mean Green,North Texas Mean Green,North Texas

@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320310096,2012-01-31,2,96,home,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
-320310096,2012-01-31,2,2633,away,FALSE,Tennessee,44,Volunteers,Tennessee Volunteers,Tennessee
-320310154,2012-01-31,2,154,home,FALSE,Wake Forest,53,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-320310154,2012-01-31,2,153,away,FALSE,North Carolina,68,Tar Heels,North Carolina Tar Heels,North Carolina
-320310356,2012-01-31,2,356,home,FALSE,Illinois,42,Fighting Illini,Illinois Fighting Illini,Illinois
-320310356,2012-01-31,2,127,away,FALSE,Michigan State,41,Spartans,Michigan State Spartans,Michigan St
-320310269,2012-01-31,2,269,home,FALSE,Marquette,66,Golden Eagles,Marquette Golden Eagles,Marquette
-320310269,2012-01-31,2,2550,away,FALSE,Seton Hall,59,Pirates,Seton Hall Pirates,Seton Hall
-320310258,2012-01-31,2,258,home,FALSE,Virginia,65,Cavaliers,Virginia Cavaliers,Virginia
-320310258,2012-01-31,2,228,away,FALSE,Clemson,61,Tigers,Clemson Tigers,Clemson
-320310213,2012-01-31,2,213,home,FALSE,Penn State,46,Nittany Lions,Penn State Nittany Lions,Penn State
-320310213,2012-01-31,2,275,away,FALSE,Wisconsin,52,Badgers,Wisconsin Badgers,Wisconsin
-320310008,2012-01-31,2,8,home,FALSE,Arkansas,82,Razorbacks,Arkansas Razorbacks,Arkansas
-320310008,2012-01-31,2,238,away,FALSE,Vanderbilt,74,Commodores,Vanderbilt Commodores,Vanderbilt
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320310096,2012,regular-season,2012-01-31,2,96,home,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
+320310096,2012,regular-season,2012-01-31,2,2633,away,FALSE,Tennessee,44,Volunteers,Tennessee Volunteers,Tennessee
+320310154,2012,regular-season,2012-01-31,2,154,home,FALSE,Wake Forest,53,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+320310154,2012,regular-season,2012-01-31,2,153,away,FALSE,North Carolina,68,Tar Heels,North Carolina Tar Heels,North Carolina
+320310356,2012,regular-season,2012-01-31,2,356,home,FALSE,Illinois,42,Fighting Illini,Illinois Fighting Illini,Illinois
+320310356,2012,regular-season,2012-01-31,2,127,away,FALSE,Michigan State,41,Spartans,Michigan State Spartans,Michigan St
+320310269,2012,regular-season,2012-01-31,2,269,home,FALSE,Marquette,66,Golden Eagles,Marquette Golden Eagles,Marquette
+320310269,2012,regular-season,2012-01-31,2,2550,away,FALSE,Seton Hall,59,Pirates,Seton Hall Pirates,Seton Hall
+320310258,2012,regular-season,2012-01-31,2,258,home,FALSE,Virginia,65,Cavaliers,Virginia Cavaliers,Virginia
+320310258,2012,regular-season,2012-01-31,2,228,away,FALSE,Clemson,61,Tigers,Clemson Tigers,Clemson
+320310213,2012,regular-season,2012-01-31,2,213,home,FALSE,Penn State,46,Nittany Lions,Penn State Nittany Lions,Penn State
+320310213,2012,regular-season,2012-01-31,2,275,away,FALSE,Wisconsin,52,Badgers,Wisconsin Badgers,Wisconsin
+320310008,2012,regular-season,2012-01-31,2,8,home,FALSE,Arkansas,82,Razorbacks,Arkansas Razorbacks,Arkansas
+320310008,2012,regular-season,2012-01-31,2,238,away,FALSE,Vanderbilt,74,Commodores,Vanderbilt Commodores,Vanderbilt

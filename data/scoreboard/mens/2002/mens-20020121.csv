@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220210201,2002-01-21,2,201,home,FALSE,Oklahoma,84,Sooners,Oklahoma Sooners,Oklahoma
-220210201,2002-01-21,2,142,away,FALSE,Missouri,71,Tigers,Missouri Tigers,Missouri
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220210201,2002,regular-season,2002-01-21,2,201,home,FALSE,Oklahoma,84,Sooners,Oklahoma Sooners,Oklahoma
+220210201,2002,regular-season,2002-01-21,2,142,away,FALSE,Missouri,71,Tigers,Missouri Tigers,Missouri

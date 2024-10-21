@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401025864,2018-03-18,2,2509,home,TRUE,Purdue,76,Boilermakers,Purdue Boilermakers,Purdue
-401025864,2018-03-18,2,2086,away,TRUE,Butler,73,Bulldogs,Butler Bulldogs,Butler
-401025873,2018-03-18,2,127,home,TRUE,Michigan State,53,Spartans,Michigan State Spartans,Michigan St
-401025873,2018-03-18,2,183,away,TRUE,Syracuse,55,Orange,Syracuse Orange,Syracuse
-401025866,2018-03-18,2,153,home,TRUE,North Carolina,65,Tar Heels,North Carolina Tar Heels,North Carolina
-401025866,2018-03-18,2,245,away,TRUE,Texas A&M,86,Aggies,Texas A&M Aggies,Texas A&M
-401025861,2018-03-18,2,2132,home,TRUE,Cincinnati,73,Bearcats,Cincinnati Bearcats,Cincinnati
-401025861,2018-03-18,2,2440,away,TRUE,Nevada,75,Wolf Pack,Nevada Wolf Pack,Nevada
-401025872,2018-03-18,2,2,home,TRUE,Auburn,53,Tigers,Auburn Tigers,Auburn
-401025872,2018-03-18,2,228,away,TRUE,Clemson,84,Tigers,Clemson Tigers,Clemson
-401025860,2018-03-18,2,2306,home,TRUE,Kansas State,50,Wildcats,Kansas State Wildcats,Kansas St
-401025860,2018-03-18,2,2378,away,TRUE,UMBC,43,Retrievers,UMBC Retrievers,UMBC
-401025867,2018-03-18,2,2752,home,TRUE,Xavier,70,Musketeers,Xavier Musketeers,Xavier
-401025867,2018-03-18,2,52,away,TRUE,Florida State,75,Seminoles,Florida State Seminoles,Florida St
-401025865,2018-03-18,2,277,home,TRUE,West Virginia,94,Mountaineers,West Virginia Mountaineers,West Virginia
-401025865,2018-03-18,2,276,away,TRUE,Marshall,71,Thundering Herd,Marshall Thundering Herd,Marshall
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401025864,2018,post-season,2018-03-18,2,2509,home,TRUE,Purdue,76,Boilermakers,Purdue Boilermakers,Purdue
+401025864,2018,post-season,2018-03-18,2,2086,away,TRUE,Butler,73,Bulldogs,Butler Bulldogs,Butler
+401025873,2018,post-season,2018-03-18,2,127,home,TRUE,Michigan State,53,Spartans,Michigan State Spartans,Michigan St
+401025873,2018,post-season,2018-03-18,2,183,away,TRUE,Syracuse,55,Orange,Syracuse Orange,Syracuse
+401025866,2018,post-season,2018-03-18,2,153,home,TRUE,North Carolina,65,Tar Heels,North Carolina Tar Heels,North Carolina
+401025866,2018,post-season,2018-03-18,2,245,away,TRUE,Texas A&M,86,Aggies,Texas A&M Aggies,Texas A&M
+401025861,2018,post-season,2018-03-18,2,2132,home,TRUE,Cincinnati,73,Bearcats,Cincinnati Bearcats,Cincinnati
+401025861,2018,post-season,2018-03-18,2,2440,away,TRUE,Nevada,75,Wolf Pack,Nevada Wolf Pack,Nevada
+401025872,2018,post-season,2018-03-18,2,2,home,TRUE,Auburn,53,Tigers,Auburn Tigers,Auburn
+401025872,2018,post-season,2018-03-18,2,228,away,TRUE,Clemson,84,Tigers,Clemson Tigers,Clemson
+401025860,2018,post-season,2018-03-18,2,2306,home,TRUE,Kansas State,50,Wildcats,Kansas State Wildcats,Kansas St
+401025860,2018,post-season,2018-03-18,2,2378,away,TRUE,UMBC,43,Retrievers,UMBC Retrievers,UMBC
+401025867,2018,post-season,2018-03-18,2,2752,home,TRUE,Xavier,70,Musketeers,Xavier Musketeers,Xavier
+401025867,2018,post-season,2018-03-18,2,52,away,TRUE,Florida State,75,Seminoles,Florida State Seminoles,Florida St
+401025865,2018,post-season,2018-03-18,2,277,home,TRUE,West Virginia,94,Mountaineers,West Virginia Mountaineers,West Virginia
+401025865,2018,post-season,2018-03-18,2,276,away,TRUE,Marshall,71,Thundering Herd,Marshall Thundering Herd,Marshall

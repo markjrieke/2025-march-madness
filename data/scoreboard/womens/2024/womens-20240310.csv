@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401629646,2024-03-10,4,2579,home,TRUE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
-401629646,2024-03-10,4,99,away,TRUE,LSU,72,Tigers,LSU Tigers,LSU
-401629613,2024-03-10,4,24,home,TRUE,Stanford,61,Cardinal,Stanford Cardinal,Stanford
-401629613,2024-03-10,4,30,away,TRUE,USC,74,Trojans,USC Trojans,USC
-401629353,2024-03-10,5,2294,home,TRUE,Iowa,94,Hawkeyes,Iowa Hawkeyes,Iowa
-401629353,2024-03-10,5,158,away,TRUE,Nebraska,89,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401629314,2024-03-10,4,41,home,TRUE,UConn,58,Huskies,UConn Huskies,UConn
-401629314,2024-03-10,4,269,away,TRUE,Marquette,29,Golden Eagles,Marquette Golden Eagles,Marquette
-401629145,2024-03-10,4,152,home,TRUE,NC State,51,Wolfpack,NC State Wolfpack,NC State
-401629145,2024-03-10,4,87,away,TRUE,Notre Dame,55,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401629315,2024-03-10,4,156,home,TRUE,Creighton,46,Bluejays,Creighton Bluejays,Creighton
-401629315,2024-03-10,4,46,away,TRUE,Georgetown,55,Hoyas,Georgetown Hoyas,Georgetown
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401629646,2024,regular-season,2024-03-10,4,2579,home,TRUE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
+401629646,2024,regular-season,2024-03-10,4,99,away,TRUE,LSU,72,Tigers,LSU Tigers,LSU
+401629613,2024,regular-season,2024-03-10,4,24,home,TRUE,Stanford,61,Cardinal,Stanford Cardinal,Stanford
+401629613,2024,regular-season,2024-03-10,4,30,away,TRUE,USC,74,Trojans,USC Trojans,USC
+401629353,2024,regular-season,2024-03-10,5,2294,home,TRUE,Iowa,94,Hawkeyes,Iowa Hawkeyes,Iowa
+401629353,2024,regular-season,2024-03-10,5,158,away,TRUE,Nebraska,89,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401629314,2024,regular-season,2024-03-10,4,41,home,TRUE,UConn,58,Huskies,UConn Huskies,UConn
+401629314,2024,regular-season,2024-03-10,4,269,away,TRUE,Marquette,29,Golden Eagles,Marquette Golden Eagles,Marquette
+401629145,2024,regular-season,2024-03-10,4,152,home,TRUE,NC State,51,Wolfpack,NC State Wolfpack,NC State
+401629145,2024,regular-season,2024-03-10,4,87,away,TRUE,Notre Dame,55,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401629315,2024,regular-season,2024-03-10,4,156,home,TRUE,Creighton,46,Bluejays,Creighton Bluejays,Creighton
+401629315,2024,regular-season,2024-03-10,4,46,away,TRUE,Georgetown,55,Hoyas,Georgetown Hoyas,Georgetown

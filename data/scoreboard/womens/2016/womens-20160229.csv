@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400834777,2016-02-29,4,41,home,FALSE,UConn,79,Huskies,UConn Huskies,UConn
-400834777,2016-02-29,4,58,away,FALSE,South Florida,59,Bulls,South Florida Bulls,South Florida
-400832070,2016-02-29,4,239,home,FALSE,Baylor,74,Bears,Baylor Bears,Baylor
-400832070,2016-02-29,4,251,away,FALSE,Texas,48,Longhorns,Texas Longhorns,Texas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400834777,2016,regular-season,2016-02-29,4,41,home,FALSE,UConn,79,Huskies,UConn Huskies,UConn
+400834777,2016,regular-season,2016-02-29,4,58,away,FALSE,South Florida,59,Bulls,South Florida Bulls,South Florida
+400832070,2016,regular-season,2016-02-29,4,239,home,FALSE,Baylor,74,Bears,Baylor Bears,Baylor
+400832070,2016,regular-season,2016-02-29,4,251,away,FALSE,Texas,48,Longhorns,Texas Longhorns,Texas

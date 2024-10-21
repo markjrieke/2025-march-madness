@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401253880,2021-02-01,2,2641,home,FALSE,Texas Tech,57,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401253880,2021-02-01,2,201,away,FALSE,Oklahoma,52,Sooners,Oklahoma Sooners,Oklahoma
-401267019,2021-02-01,2,2181,home,FALSE,Drake,95,Bulldogs,Drake Bulldogs,Drake
-401267019,2021-02-01,2,2287,away,FALSE,Illinois State,60,Redbirds,Illinois State Redbirds,Illinois St
-401276933,2021-02-01,0,26,home,FALSE,UCLA,0,Bruins,UCLA Bruins,UCLA
-401276933,2021-02-01,0,2483,away,FALSE,Oregon,0,Ducks,Oregon Ducks,Oregon
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401253880,2021,regular-season,2021-02-01,2,2641,home,FALSE,Texas Tech,57,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401253880,2021,regular-season,2021-02-01,2,201,away,FALSE,Oklahoma,52,Sooners,Oklahoma Sooners,Oklahoma
+401267019,2021,regular-season,2021-02-01,2,2181,home,FALSE,Drake,95,Bulldogs,Drake Bulldogs,Drake
+401267019,2021,regular-season,2021-02-01,2,2287,away,FALSE,Illinois State,60,Redbirds,Illinois State Redbirds,Illinois St
+401276933,2021,regular-season,2021-02-01,0,26,home,FALSE,UCLA,0,Bruins,UCLA Bruins,UCLA
+401276933,2021,regular-season,2021-02-01,0,2483,away,FALSE,Oregon,0,Ducks,Oregon Ducks,Oregon

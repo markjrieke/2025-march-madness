@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-294000049,2009-03-22,2,97,home,TRUE,Louisville,79,Cardinals,Louisville Cardinals,Louisville
-294000049,2009-03-22,2,2561,away,TRUE,Siena,72,Saints,Siena Saints,Siena
-294000018,2009-03-22,2,221,home,TRUE,Pittsburgh,84,Panthers,Pittsburgh Panthers,Pitt
-294000018,2009-03-22,2,197,away,TRUE,Oklahoma State,76,Cowboys,Oklahoma State Cowboys,Oklahoma St
-294000059,2009-03-22,2,127,home,TRUE,Michigan State,74,Spartans,Michigan State Spartans,Michigan St
-294000059,2009-03-22,2,30,away,TRUE,USC,69,Trojans,USC Trojans,USC
-294000010,2009-03-22,2,142,home,TRUE,Missouri,83,Tigers,Missouri Tigers,Missouri
-294000010,2009-03-22,2,269,away,TRUE,Marquette,79,Golden Eagles,Marquette Golden Eagles,Marquette
-294000041,2009-03-22,2,183,home,TRUE,Syracuse,78,Orange,Syracuse Orange,Syracuse
-294000041,2009-03-22,2,9,away,TRUE,Arizona State,67,Sun Devils,Arizona State Sun Devils,Arizona St
-294000056,2009-03-22,2,2305,home,TRUE,Kansas,60,Jayhawks,Kansas Jayhawks,Kansas
-294000056,2009-03-22,2,2168,away,TRUE,Dayton,43,Flyers,Dayton Flyers,Dayton
-294000021,2009-03-22,2,2752,home,TRUE,Xavier,60,Musketeers,Xavier Musketeers,Xavier
-294000021,2009-03-22,2,275,away,TRUE,Wisconsin,49,Badgers,Wisconsin Badgers,Wisconsin
-294000052,2009-03-22,2,12,home,TRUE,Arizona,71,Wildcats,Arizona Wildcats,Arizona
-294000052,2009-03-22,2,325,away,TRUE,Cleveland State,57,Vikings,Cleveland State Vikings,Cleveland St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+294000049,2009,post-season,2009-03-22,2,97,home,TRUE,Louisville,79,Cardinals,Louisville Cardinals,Louisville
+294000049,2009,post-season,2009-03-22,2,2561,away,TRUE,Siena,72,Saints,Siena Saints,Siena
+294000018,2009,post-season,2009-03-22,2,221,home,TRUE,Pittsburgh,84,Panthers,Pittsburgh Panthers,Pitt
+294000018,2009,post-season,2009-03-22,2,197,away,TRUE,Oklahoma State,76,Cowboys,Oklahoma State Cowboys,Oklahoma St
+294000059,2009,post-season,2009-03-22,2,127,home,TRUE,Michigan State,74,Spartans,Michigan State Spartans,Michigan St
+294000059,2009,post-season,2009-03-22,2,30,away,TRUE,USC,69,Trojans,USC Trojans,USC
+294000010,2009,post-season,2009-03-22,2,142,home,TRUE,Missouri,83,Tigers,Missouri Tigers,Missouri
+294000010,2009,post-season,2009-03-22,2,269,away,TRUE,Marquette,79,Golden Eagles,Marquette Golden Eagles,Marquette
+294000041,2009,post-season,2009-03-22,2,183,home,TRUE,Syracuse,78,Orange,Syracuse Orange,Syracuse
+294000041,2009,post-season,2009-03-22,2,9,away,TRUE,Arizona State,67,Sun Devils,Arizona State Sun Devils,Arizona St
+294000056,2009,post-season,2009-03-22,2,2305,home,TRUE,Kansas,60,Jayhawks,Kansas Jayhawks,Kansas
+294000056,2009,post-season,2009-03-22,2,2168,away,TRUE,Dayton,43,Flyers,Dayton Flyers,Dayton
+294000021,2009,post-season,2009-03-22,2,2752,home,TRUE,Xavier,60,Musketeers,Xavier Musketeers,Xavier
+294000021,2009,post-season,2009-03-22,2,275,away,TRUE,Wisconsin,49,Badgers,Wisconsin Badgers,Wisconsin
+294000052,2009,post-season,2009-03-22,2,12,home,TRUE,Arizona,71,Wildcats,Arizona Wildcats,Arizona
+294000052,2009,post-season,2009-03-22,2,325,away,TRUE,Cleveland State,57,Vikings,Cleveland State Vikings,Cleveland St

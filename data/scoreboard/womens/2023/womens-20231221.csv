@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401599382,2023-12-21,4,26,home,FALSE,UCLA,85,Bruins,UCLA Bruins,UCLA
-401599382,2023-12-21,4,62,away,FALSE,Hawai'i,46,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
-401598363,2023-12-21,4,2294,home,FALSE,Iowa,98,Hawkeyes,Iowa Hawkeyes,Iowa
-401598363,2023-12-21,4,2350,away,FALSE,Loyola Chicago,69,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-401595243,2023-12-21,4,299,home,FALSE,Long Beach State,77,Beach,Long Beach State Beach,Long Beach St
-401595243,2023-12-21,4,30,away,FALSE,USC,85,Trojans,USC Trojans,USC
-401597295,2023-12-21,4,38,home,FALSE,Colorado,78,Buffaloes,Colorado Buffaloes,Colorado
-401597295,2023-12-21,4,2458,away,FALSE,Northern Colorado,56,Bears,Northern Colorado Bears,N Colorado
-401608916,2023-12-21,4,239,home,TRUE,Baylor,73,Bears,Baylor Bears,Baylor
-401608916,2023-12-21,4,58,away,TRUE,South Florida,50,Bulls,South Florida Bulls,South Florida
-401599290,2023-12-21,4,254,home,FALSE,Utah,89,Utes,Utah Utes,Utah
-401599290,2023-12-21,4,2692,away,FALSE,Weber State,36,Wildcats,Weber State Wildcats,Weber St
-401588171,2023-12-21,4,87,home,FALSE,Notre Dame,84,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401588171,2023-12-21,4,2711,away,FALSE,Western Michigan,47,Broncos,Western Michigan Broncos,W Michigan
-401595230,2023-12-21,4,259,home,FALSE,Virginia Tech,76,Hokies,Virginia Tech Hokies,Virginia Tech
-401595230,2023-12-21,4,2729,away,FALSE,William & Mary,43,Tribe,William & Mary Tribe,William & Mary
-401594976,2023-12-21,4,269,home,FALSE,Marquette,67,Golden Eagles,Marquette Golden Eagles,Marquette
-401594976,2023-12-21,4,2083,away,FALSE,Bucknell,39,Bison,Bucknell Bison,Bucknell
-401598450,2023-12-21,4,156,home,FALSE,Creighton,58,Bluejays,Creighton Bluejays,Creighton
-401598450,2023-12-21,4,2571,away,FALSE,South Dakota State,46,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401599382,2024,regular-season,2023-12-21,4,26,home,FALSE,UCLA,85,Bruins,UCLA Bruins,UCLA
+401599382,2024,regular-season,2023-12-21,4,62,away,FALSE,Hawai'i,46,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
+401598363,2024,regular-season,2023-12-21,4,2294,home,FALSE,Iowa,98,Hawkeyes,Iowa Hawkeyes,Iowa
+401598363,2024,regular-season,2023-12-21,4,2350,away,FALSE,Loyola Chicago,69,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+401595243,2024,regular-season,2023-12-21,4,299,home,FALSE,Long Beach State,77,Beach,Long Beach State Beach,Long Beach St
+401595243,2024,regular-season,2023-12-21,4,30,away,FALSE,USC,85,Trojans,USC Trojans,USC
+401597295,2024,regular-season,2023-12-21,4,38,home,FALSE,Colorado,78,Buffaloes,Colorado Buffaloes,Colorado
+401597295,2024,regular-season,2023-12-21,4,2458,away,FALSE,Northern Colorado,56,Bears,Northern Colorado Bears,N Colorado
+401608916,2024,regular-season,2023-12-21,4,239,home,TRUE,Baylor,73,Bears,Baylor Bears,Baylor
+401608916,2024,regular-season,2023-12-21,4,58,away,TRUE,South Florida,50,Bulls,South Florida Bulls,South Florida
+401599290,2024,regular-season,2023-12-21,4,254,home,FALSE,Utah,89,Utes,Utah Utes,Utah
+401599290,2024,regular-season,2023-12-21,4,2692,away,FALSE,Weber State,36,Wildcats,Weber State Wildcats,Weber St
+401588171,2024,regular-season,2023-12-21,4,87,home,FALSE,Notre Dame,84,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401588171,2024,regular-season,2023-12-21,4,2711,away,FALSE,Western Michigan,47,Broncos,Western Michigan Broncos,W Michigan
+401595230,2024,regular-season,2023-12-21,4,259,home,FALSE,Virginia Tech,76,Hokies,Virginia Tech Hokies,Virginia Tech
+401595230,2024,regular-season,2023-12-21,4,2729,away,FALSE,William & Mary,43,Tribe,William & Mary Tribe,William & Mary
+401594976,2024,regular-season,2023-12-21,4,269,home,FALSE,Marquette,67,Golden Eagles,Marquette Golden Eagles,Marquette
+401594976,2024,regular-season,2023-12-21,4,2083,away,FALSE,Bucknell,39,Bison,Bucknell Bison,Bucknell
+401598450,2024,regular-season,2023-12-21,4,156,home,FALSE,Creighton,58,Bluejays,Creighton Bluejays,Creighton
+401598450,2024,regular-season,2023-12-21,4,2571,away,FALSE,South Dakota State,46,Jackrabbits,South Dakota State Jackrabbits,S Dakota St

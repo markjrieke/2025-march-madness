@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400597368,2015-02-03,2,96,home,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
-400597368,2015-02-03,2,61,away,FALSE,Georgia,58,Bulldogs,Georgia Bulldogs,Georgia
-400587960,2015-02-03,2,2390,home,FALSE,Miami,55,Hurricanes,Miami Hurricanes,Miami
-400587960,2015-02-03,2,97,away,FALSE,Louisville,63,Cardinals,Louisville Cardinals,Louisville
-400586442,2015-02-03,2,282,home,FALSE,Indiana State,51,Sycamores,Indiana State Sycamores,Indiana St
-400586442,2015-02-03,2,2460,away,FALSE,Northern Iowa,61,Panthers,Northern Iowa Panthers,Northern Iowa
-400585823,2015-02-03,2,201,home,FALSE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
-400585823,2015-02-03,2,277,away,FALSE,West Virginia,52,Mountaineers,West Virginia Mountaineers,West Virginia
-400588441,2015-02-03,2,2086,home,FALSE,Butler,85,Bulldogs,Butler Bulldogs,Butler
-400588441,2015-02-03,2,2599,away,FALSE,St. John's,62,Red Storm,St. John's Red Storm,St John's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400597368,2015,regular-season,2015-02-03,2,96,home,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
+400597368,2015,regular-season,2015-02-03,2,61,away,FALSE,Georgia,58,Bulldogs,Georgia Bulldogs,Georgia
+400587960,2015,regular-season,2015-02-03,2,2390,home,FALSE,Miami,55,Hurricanes,Miami Hurricanes,Miami
+400587960,2015,regular-season,2015-02-03,2,97,away,FALSE,Louisville,63,Cardinals,Louisville Cardinals,Louisville
+400586442,2015,regular-season,2015-02-03,2,282,home,FALSE,Indiana State,51,Sycamores,Indiana State Sycamores,Indiana St
+400586442,2015,regular-season,2015-02-03,2,2460,away,FALSE,Northern Iowa,61,Panthers,Northern Iowa Panthers,Northern Iowa
+400585823,2015,regular-season,2015-02-03,2,201,home,FALSE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
+400585823,2015,regular-season,2015-02-03,2,277,away,FALSE,West Virginia,52,Mountaineers,West Virginia Mountaineers,West Virginia
+400588441,2015,regular-season,2015-02-03,2,2086,home,FALSE,Butler,85,Bulldogs,Butler Bulldogs,Butler
+400588441,2015,regular-season,2015-02-03,2,2599,away,FALSE,St. John's,62,Red Storm,St. John's Red Storm,St John's

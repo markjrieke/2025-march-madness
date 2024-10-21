@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270250025,2007-01-25,2,25,home,FALSE,California,46,Golden Bears,California Golden Bears,California
-270250025,2007-01-25,2,26,away,FALSE,UCLA,62,Bruins,UCLA Bruins,UCLA
-270250264,2007-01-25,2,264,home,FALSE,Washington,89,Huskies,Washington Huskies,Washington
-270250264,2007-01-25,2,2483,away,FALSE,Oregon,77,Ducks,Oregon Ducks,Oregon
-270250150,2007-01-25,2,150,home,FALSE,Duke,68,Blue Devils,Duke Blue Devils,Duke
-270250150,2007-01-25,2,228,away,FALSE,Clemson,66,Tigers,Clemson Tigers,Clemson
-270252350,2007-01-25,3,2350,home,FALSE,Loyola Chicago,66,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-270252350,2007-01-25,3,2086,away,FALSE,Butler,70,Bulldogs,Butler Bulldogs,Butler
-270252440,2007-01-25,2,2440,home,FALSE,Nevada,84,Wolf Pack,Nevada Wolf Pack,Nevada
-270252440,2007-01-25,2,2348,away,FALSE,Louisiana Tech,67,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
-270250265,2007-01-25,2,265,home,FALSE,Washington State,70,Cougars,Washington State Cougars,Washington St
-270250265,2007-01-25,2,204,away,FALSE,Oregon State,55,Beavers,Oregon State Beavers,Oregon St
-270250024,2007-01-25,2,24,home,FALSE,Stanford,65,Cardinal,Stanford Cardinal,Stanford
-270250024,2007-01-25,2,30,away,FALSE,USC,50,Trojans,USC Trojans,USC
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270250025,2007,regular-season,2007-01-25,2,25,home,FALSE,California,46,Golden Bears,California Golden Bears,California
+270250025,2007,regular-season,2007-01-25,2,26,away,FALSE,UCLA,62,Bruins,UCLA Bruins,UCLA
+270250264,2007,regular-season,2007-01-25,2,264,home,FALSE,Washington,89,Huskies,Washington Huskies,Washington
+270250264,2007,regular-season,2007-01-25,2,2483,away,FALSE,Oregon,77,Ducks,Oregon Ducks,Oregon
+270250150,2007,regular-season,2007-01-25,2,150,home,FALSE,Duke,68,Blue Devils,Duke Blue Devils,Duke
+270250150,2007,regular-season,2007-01-25,2,228,away,FALSE,Clemson,66,Tigers,Clemson Tigers,Clemson
+270252350,2007,regular-season,2007-01-25,3,2350,home,FALSE,Loyola Chicago,66,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+270252350,2007,regular-season,2007-01-25,3,2086,away,FALSE,Butler,70,Bulldogs,Butler Bulldogs,Butler
+270252440,2007,regular-season,2007-01-25,2,2440,home,FALSE,Nevada,84,Wolf Pack,Nevada Wolf Pack,Nevada
+270252440,2007,regular-season,2007-01-25,2,2348,away,FALSE,Louisiana Tech,67,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
+270250265,2007,regular-season,2007-01-25,2,265,home,FALSE,Washington State,70,Cougars,Washington State Cougars,Washington St
+270250265,2007,regular-season,2007-01-25,2,204,away,FALSE,Oregon State,55,Beavers,Oregon State Beavers,Oregon St
+270250024,2007,regular-season,2007-01-25,2,24,home,FALSE,Stanford,65,Cardinal,Stanford Cardinal,Stanford
+270250024,2007,regular-season,2007-01-25,2,30,away,FALSE,USC,50,Trojans,USC Trojans,USC

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400509809,2014-01-10,2,254,home,FALSE,Utah,61,Utes,Utah Utes,Utah
-400509809,2014-01-10,2,24,away,FALSE,Stanford,87,Cardinal,Stanford Cardinal,Stanford
-400509811,2014-01-10,2,38,home,FALSE,Colorado,55,Buffaloes,Colorado Buffaloes,Colorado
-400509811,2014-01-10,2,25,away,FALSE,California,57,Golden Bears,California Golden Bears,California
-400509808,2014-01-10,3,9,home,FALSE,Arizona State,94,Sun Devils,Arizona State Sun Devils,Arizona St
-400509808,2014-01-10,3,30,away,FALSE,USC,86,Trojans,USC Trojans,USC
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400509809,2014,regular-season,2014-01-10,2,254,home,FALSE,Utah,61,Utes,Utah Utes,Utah
+400509809,2014,regular-season,2014-01-10,2,24,away,FALSE,Stanford,87,Cardinal,Stanford Cardinal,Stanford
+400509811,2014,regular-season,2014-01-10,2,38,home,FALSE,Colorado,55,Buffaloes,Colorado Buffaloes,Colorado
+400509811,2014,regular-season,2014-01-10,2,25,away,FALSE,California,57,Golden Bears,California Golden Bears,California
+400509808,2014,regular-season,2014-01-10,3,9,home,FALSE,Arizona State,94,Sun Devils,Arizona State Sun Devils,Arizona St
+400509808,2014,regular-season,2014-01-10,3,30,away,FALSE,USC,86,Trojans,USC Trojans,USC

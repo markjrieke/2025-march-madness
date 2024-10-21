@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401095349,2019-01-11,4,30,home,FALSE,USC,53,Trojans,USC Trojans,USC
-401095349,2019-01-11,4,2483,away,FALSE,Oregon,93,Ducks,Oregon Ducks,Oregon
-401095362,2019-01-11,4,26,home,FALSE,UCLA,73,Bruins,UCLA Bruins,UCLA
-401095362,2019-01-11,4,204,away,FALSE,Oregon State,83,Beavers,Oregon State Beavers,Oregon St
-401091104,2019-01-11,4,222,home,FALSE,Villanova,55,Wildcats,Villanova Wildcats,Villanova
-401091104,2019-01-11,4,269,away,FALSE,Marquette,91,Golden Eagles,Marquette Golden Eagles,Marquette
-401094255,2019-01-11,4,12,home,FALSE,Arizona,60,Wildcats,Arizona Wildcats,Arizona
-401094255,2019-01-11,4,25,away,FALSE,California,55,Golden Bears,California Golden Bears,California
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401095349,2019,regular-season,2019-01-11,4,30,home,FALSE,USC,53,Trojans,USC Trojans,USC
+401095349,2019,regular-season,2019-01-11,4,2483,away,FALSE,Oregon,93,Ducks,Oregon Ducks,Oregon
+401095362,2019,regular-season,2019-01-11,4,26,home,FALSE,UCLA,73,Bruins,UCLA Bruins,UCLA
+401095362,2019,regular-season,2019-01-11,4,204,away,FALSE,Oregon State,83,Beavers,Oregon State Beavers,Oregon St
+401091104,2019,regular-season,2019-01-11,4,222,home,FALSE,Villanova,55,Wildcats,Villanova Wildcats,Villanova
+401091104,2019,regular-season,2019-01-11,4,269,away,FALSE,Marquette,91,Golden Eagles,Marquette Golden Eagles,Marquette
+401094255,2019,regular-season,2019-01-11,4,12,home,FALSE,Arizona,60,Wildcats,Arizona Wildcats,Arizona
+401094255,2019,regular-season,2019-01-11,4,25,away,FALSE,California,55,Golden Bears,California Golden Bears,California

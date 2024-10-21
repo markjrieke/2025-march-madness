@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240022628,2004-01-02,2,2628,home,FALSE,TCU,66,Horned Frogs,TCU Horned Frogs,TCU
-240022628,2004-01-02,2,2633,away,FALSE,Tennessee,74,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-240022509,2004-01-02,2,2509,home,FALSE,Purdue,42,Boilermakers,Purdue Boilermakers,Purdue
-240022509,2004-01-02,2,213,away,FALSE,Penn State,47,Lady Lions,Penn State Lady Lions,Penn State
-240020265,2004-01-02,2,265,home,FALSE,Washington State,69,Cougars,Washington State Cougars,Washington St
-240020265,2004-01-02,2,24,away,FALSE,Stanford,90,Cardinal,Stanford Cardinal,Stanford
-240020153,2004-01-02,2,153,home,FALSE,North Carolina,90,Tar Heels,North Carolina Tar Heels,North Carolina
-240020153,2004-01-02,2,154,away,FALSE,Wake Forest,79,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-240020259,2004-01-02,2,259,home,FALSE,Virginia Tech,52,Hokies,Virginia Tech Hokies,Virginia Tech
-240020259,2004-01-02,2,2335,away,FALSE,Liberty,45,Flames,Liberty Flames,Liberty
-240020194,2004-01-02,2,194,home,FALSE,Ohio State,65,Buckeyes,Ohio State Buckeyes,Ohio State
-240020194,2004-01-02,2,275,away,FALSE,Wisconsin,46,Badgers,Wisconsin Badgers,Wisconsin
-240020103,2004-01-02,2,103,home,FALSE,Boston College,61,Eagles,Boston College Eagles,Boston College
-240020103,2004-01-02,2,222,away,FALSE,Villanova,48,Wildcats,Villanova Wildcats,Villanova
-240020127,2004-01-02,2,127,home,FALSE,Michigan State,59,Spartans,Michigan State Spartans,Michigan St
-240020127,2004-01-02,2,84,away,FALSE,Indiana,41,Hoosiers,Indiana Hoosiers,Indiana
-240020238,2004-01-02,2,238,home,FALSE,Vanderbilt,61,Commodores,Vanderbilt Commodores,Vanderbilt
-240020238,2004-01-02,2,183,away,FALSE,Syracuse,52,Orange,Syracuse Orange,Syracuse
-240020254,2004-01-02,2,254,home,FALSE,Utah,75,Utes,Utah Utes,Utah
-240020254,2004-01-02,2,2539,away,FALSE,San Francisco,48,Dons,San Francisco Dons,San Francisco
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240022628,2004,regular-season,2004-01-02,2,2628,home,FALSE,TCU,66,Horned Frogs,TCU Horned Frogs,TCU
+240022628,2004,regular-season,2004-01-02,2,2633,away,FALSE,Tennessee,74,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+240022509,2004,regular-season,2004-01-02,2,2509,home,FALSE,Purdue,42,Boilermakers,Purdue Boilermakers,Purdue
+240022509,2004,regular-season,2004-01-02,2,213,away,FALSE,Penn State,47,Lady Lions,Penn State Lady Lions,Penn State
+240020265,2004,regular-season,2004-01-02,2,265,home,FALSE,Washington State,69,Cougars,Washington State Cougars,Washington St
+240020265,2004,regular-season,2004-01-02,2,24,away,FALSE,Stanford,90,Cardinal,Stanford Cardinal,Stanford
+240020153,2004,regular-season,2004-01-02,2,153,home,FALSE,North Carolina,90,Tar Heels,North Carolina Tar Heels,North Carolina
+240020153,2004,regular-season,2004-01-02,2,154,away,FALSE,Wake Forest,79,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+240020259,2004,regular-season,2004-01-02,2,259,home,FALSE,Virginia Tech,52,Hokies,Virginia Tech Hokies,Virginia Tech
+240020259,2004,regular-season,2004-01-02,2,2335,away,FALSE,Liberty,45,Flames,Liberty Flames,Liberty
+240020194,2004,regular-season,2004-01-02,2,194,home,FALSE,Ohio State,65,Buckeyes,Ohio State Buckeyes,Ohio State
+240020194,2004,regular-season,2004-01-02,2,275,away,FALSE,Wisconsin,46,Badgers,Wisconsin Badgers,Wisconsin
+240020103,2004,regular-season,2004-01-02,2,103,home,FALSE,Boston College,61,Eagles,Boston College Eagles,Boston College
+240020103,2004,regular-season,2004-01-02,2,222,away,FALSE,Villanova,48,Wildcats,Villanova Wildcats,Villanova
+240020127,2004,regular-season,2004-01-02,2,127,home,FALSE,Michigan State,59,Spartans,Michigan State Spartans,Michigan St
+240020127,2004,regular-season,2004-01-02,2,84,away,FALSE,Indiana,41,Hoosiers,Indiana Hoosiers,Indiana
+240020238,2004,regular-season,2004-01-02,2,238,home,FALSE,Vanderbilt,61,Commodores,Vanderbilt Commodores,Vanderbilt
+240020238,2004,regular-season,2004-01-02,2,183,away,FALSE,Syracuse,52,Orange,Syracuse Orange,Syracuse
+240020254,2004,regular-season,2004-01-02,2,254,home,FALSE,Utah,75,Utes,Utah Utes,Utah
+240020254,2004,regular-season,2004-01-02,2,2539,away,FALSE,San Francisco,48,Dons,San Francisco Dons,San Francisco

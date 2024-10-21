@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401484644,2023-03-01,3,333,home,FALSE,Alabama,90,Crimson Tide,Alabama Crimson Tide,Alabama
-401484644,2023-03-01,3,2,away,FALSE,Auburn,85,Tigers,Auburn Tigers,Auburn
-401493459,2023-03-01,2,2628,home,FALSE,TCU,75,Horned Frogs,TCU Horned Frogs,TCU
-401493459,2023-03-01,2,251,away,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
-401497508,2023-03-01,2,2250,home,FALSE,Gonzaga,104,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401497508,2023-03-01,2,2130,away,FALSE,Chicago State,65,Cougars,Chicago State Cougars,Chicago St
-401493458,2023-03-01,2,2306,home,FALSE,Kansas State,85,Wildcats,Kansas State Wildcats,Kansas St
-401493458,2023-03-01,2,201,away,FALSE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma
-401485285,2023-03-01,2,41,home,FALSE,UConn,88,Huskies,UConn Huskies,UConn
-401485285,2023-03-01,2,305,away,FALSE,DePaul,59,Blue Demons,DePaul Blue Demons,DePaul
-401485284,2023-03-01,2,2507,home,FALSE,Providence,89,Friars,Providence Friars,Providence
-401485284,2023-03-01,2,2752,away,FALSE,Xavier,94,Musketeers,Xavier Musketeers,Xavier
-401484981,2023-03-01,2,194,home,FALSE,Ohio State,73,Buckeyes,Ohio State Buckeyes,Ohio State
-401484981,2023-03-01,2,120,away,FALSE,Maryland,62,Terrapins,Maryland Terrapins,Maryland
-401484645,2023-03-01,2,96,home,FALSE,Kentucky,66,Wildcats,Kentucky Wildcats,Kentucky
-401484645,2023-03-01,2,238,away,FALSE,Vanderbilt,68,Commodores,Vanderbilt Commodores,Vanderbilt
-401488525,2023-03-01,2,87,home,FALSE,Notre Dame,88,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401488525,2023-03-01,2,221,away,FALSE,Pittsburgh,81,Panthers,Pittsburgh Panthers,Pitt
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401484644,2023,regular-season,2023-03-01,3,333,home,FALSE,Alabama,90,Crimson Tide,Alabama Crimson Tide,Alabama
+401484644,2023,regular-season,2023-03-01,3,2,away,FALSE,Auburn,85,Tigers,Auburn Tigers,Auburn
+401493459,2023,regular-season,2023-03-01,2,2628,home,FALSE,TCU,75,Horned Frogs,TCU Horned Frogs,TCU
+401493459,2023,regular-season,2023-03-01,2,251,away,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
+401497508,2023,regular-season,2023-03-01,2,2250,home,FALSE,Gonzaga,104,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401497508,2023,regular-season,2023-03-01,2,2130,away,FALSE,Chicago State,65,Cougars,Chicago State Cougars,Chicago St
+401493458,2023,regular-season,2023-03-01,2,2306,home,FALSE,Kansas State,85,Wildcats,Kansas State Wildcats,Kansas St
+401493458,2023,regular-season,2023-03-01,2,201,away,FALSE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma
+401485285,2023,regular-season,2023-03-01,2,41,home,FALSE,UConn,88,Huskies,UConn Huskies,UConn
+401485285,2023,regular-season,2023-03-01,2,305,away,FALSE,DePaul,59,Blue Demons,DePaul Blue Demons,DePaul
+401485284,2023,regular-season,2023-03-01,2,2507,home,FALSE,Providence,89,Friars,Providence Friars,Providence
+401485284,2023,regular-season,2023-03-01,2,2752,away,FALSE,Xavier,94,Musketeers,Xavier Musketeers,Xavier
+401484981,2023,regular-season,2023-03-01,2,194,home,FALSE,Ohio State,73,Buckeyes,Ohio State Buckeyes,Ohio State
+401484981,2023,regular-season,2023-03-01,2,120,away,FALSE,Maryland,62,Terrapins,Maryland Terrapins,Maryland
+401484645,2023,regular-season,2023-03-01,2,96,home,FALSE,Kentucky,66,Wildcats,Kentucky Wildcats,Kentucky
+401484645,2023,regular-season,2023-03-01,2,238,away,FALSE,Vanderbilt,68,Commodores,Vanderbilt Commodores,Vanderbilt
+401488525,2023,regular-season,2023-03-01,2,87,home,FALSE,Notre Dame,88,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401488525,2023,regular-season,2023-03-01,2,221,away,FALSE,Pittsburgh,81,Panthers,Pittsburgh Panthers,Pitt

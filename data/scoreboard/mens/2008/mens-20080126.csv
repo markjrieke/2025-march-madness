@@ -1,39 +1,39 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280260235,2008-01-26,2,235,home,FALSE,Memphis,81,Tigers,Memphis Tigers,Memphis
-280260235,2008-01-26,2,2250,away,FALSE,Gonzaga,73,Bulldogs,Gonzaga Bulldogs,Gonzaga
-280262305,2008-01-26,2,2305,home,FALSE,Kansas,84,Jayhawks,Kansas Jayhawks,Kansas
-280262305,2008-01-26,2,158,away,FALSE,Nebraska,49,Cornhuskers,Nebraska Cornhuskers,Nebraska
-280262633,2008-01-26,2,2633,home,FALSE,Tennessee,85,Volunteers,Tennessee Volunteers,Tennessee
-280262633,2008-01-26,2,61,away,FALSE,Georgia,69,Bulldogs,Georgia Bulldogs,Georgia
-280260009,2008-01-26,2,9,home,FALSE,Arizona State,55,Sun Devils,Arizona State Sun Devils,Arizona St
-280260009,2008-01-26,2,265,away,FALSE,Washington State,56,Cougars,Washington State Cougars,Washington St
-280260084,2008-01-26,2,84,home,FALSE,Indiana,63,Hoosiers,Indiana Hoosiers,Indiana
-280260084,2008-01-26,2,41,away,FALSE,UConn,68,Huskies,UConn Huskies,UConn
-280260204,2008-01-26,2,204,home,FALSE,Oregon State,62,Beavers,Oregon State Beavers,Oregon St
-280260204,2008-01-26,2,26,away,FALSE,UCLA,85,Bruins,UCLA Bruins,UCLA
-280260277,2008-01-26,2,277,home,FALSE,West Virginia,57,Mountaineers,West Virginia Mountaineers,West Virginia
-280260277,2008-01-26,2,46,away,FALSE,Georgetown,58,Hoyas,Georgetown Hoyas,Georgetown
-280262509,2008-01-26,2,2509,home,FALSE,Purdue,60,Boilermakers,Purdue Boilermakers,Purdue
-280262509,2008-01-26,2,275,away,FALSE,Wisconsin,56,Badgers,Wisconsin Badgers,Wisconsin
-280260251,2008-01-26,2,251,home,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
-280260251,2008-01-26,2,2641,away,FALSE,Texas Tech,47,Red Raiders,Texas Tech Red Raiders,Texas Tech
-280260221,2008-01-26,2,221,home,FALSE,Pittsburgh,64,Panthers,Pittsburgh Panthers,Pitt
-280260221,2008-01-26,2,164,away,FALSE,Rutgers,77,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-280262086,2008-01-26,2,2086,home,FALSE,Butler,73,Bulldogs,Butler Bulldogs,Butler
-280262086,2008-01-26,2,82,away,FALSE,UIC,57,Flames,UIC Flames,UIC
-280260257,2008-01-26,2,257,home,FALSE,Richmond,80,Spiders,Richmond Spiders,Richmond
-280260257,2008-01-26,2,2168,away,FALSE,Dayton,63,Flyers,Dayton Flyers,Dayton
-280260344,2008-01-26,2,344,home,FALSE,Mississippi State,88,Bulldogs,Mississippi State Bulldogs,Mississippi St
-280260344,2008-01-26,2,145,away,FALSE,Ole Miss,68,Rebels,Ole Miss Rebels,Ole Miss
-280260222,2008-01-26,2,222,home,FALSE,Villanova,80,Wildcats,Villanova Wildcats,Villanova
-280260222,2008-01-26,2,87,away,FALSE,Notre Dame,90,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-280260197,2008-01-26,2,197,home,FALSE,Oklahoma State,56,Cowboys,Oklahoma State Cowboys,Oklahoma St
-280260197,2008-01-26,2,245,away,FALSE,Texas A&M,59,Aggies,Texas A&M Aggies,Texas A&M
-280260025,2008-01-26,2,25,home,FALSE,California,77,Golden Bears,California Golden Bears,California
-280260025,2008-01-26,2,24,away,FALSE,Stanford,82,Cardinal,Stanford Cardinal,Stanford
-280260269,2008-01-26,2,269,home,FALSE,Marquette,79,Golden Eagles,Marquette Golden Eagles,Marquette
-280260269,2008-01-26,2,305,away,FALSE,DePaul,71,Blue Demons,DePaul Blue Demons,DePaul
-280262181,2008-01-26,2,2181,home,FALSE,Drake,58,Bulldogs,Drake Bulldogs,Drake
-280262181,2008-01-26,2,2460,away,FALSE,Northern Iowa,54,Panthers,Northern Iowa Panthers,Northern Iowa
-280260239,2008-01-26,2,239,home,FALSE,Baylor,71,Bears,Baylor Bears,Baylor
-280260239,2008-01-26,2,201,away,FALSE,Oklahoma,77,Sooners,Oklahoma Sooners,Oklahoma
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280260235,2008,regular-season,2008-01-26,2,235,home,FALSE,Memphis,81,Tigers,Memphis Tigers,Memphis
+280260235,2008,regular-season,2008-01-26,2,2250,away,FALSE,Gonzaga,73,Bulldogs,Gonzaga Bulldogs,Gonzaga
+280262305,2008,regular-season,2008-01-26,2,2305,home,FALSE,Kansas,84,Jayhawks,Kansas Jayhawks,Kansas
+280262305,2008,regular-season,2008-01-26,2,158,away,FALSE,Nebraska,49,Cornhuskers,Nebraska Cornhuskers,Nebraska
+280262633,2008,regular-season,2008-01-26,2,2633,home,FALSE,Tennessee,85,Volunteers,Tennessee Volunteers,Tennessee
+280262633,2008,regular-season,2008-01-26,2,61,away,FALSE,Georgia,69,Bulldogs,Georgia Bulldogs,Georgia
+280260009,2008,regular-season,2008-01-26,2,9,home,FALSE,Arizona State,55,Sun Devils,Arizona State Sun Devils,Arizona St
+280260009,2008,regular-season,2008-01-26,2,265,away,FALSE,Washington State,56,Cougars,Washington State Cougars,Washington St
+280260084,2008,regular-season,2008-01-26,2,84,home,FALSE,Indiana,63,Hoosiers,Indiana Hoosiers,Indiana
+280260084,2008,regular-season,2008-01-26,2,41,away,FALSE,UConn,68,Huskies,UConn Huskies,UConn
+280260204,2008,regular-season,2008-01-26,2,204,home,FALSE,Oregon State,62,Beavers,Oregon State Beavers,Oregon St
+280260204,2008,regular-season,2008-01-26,2,26,away,FALSE,UCLA,85,Bruins,UCLA Bruins,UCLA
+280260277,2008,regular-season,2008-01-26,2,277,home,FALSE,West Virginia,57,Mountaineers,West Virginia Mountaineers,West Virginia
+280260277,2008,regular-season,2008-01-26,2,46,away,FALSE,Georgetown,58,Hoyas,Georgetown Hoyas,Georgetown
+280262509,2008,regular-season,2008-01-26,2,2509,home,FALSE,Purdue,60,Boilermakers,Purdue Boilermakers,Purdue
+280262509,2008,regular-season,2008-01-26,2,275,away,FALSE,Wisconsin,56,Badgers,Wisconsin Badgers,Wisconsin
+280260251,2008,regular-season,2008-01-26,2,251,home,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
+280260251,2008,regular-season,2008-01-26,2,2641,away,FALSE,Texas Tech,47,Red Raiders,Texas Tech Red Raiders,Texas Tech
+280260221,2008,regular-season,2008-01-26,2,221,home,FALSE,Pittsburgh,64,Panthers,Pittsburgh Panthers,Pitt
+280260221,2008,regular-season,2008-01-26,2,164,away,FALSE,Rutgers,77,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+280262086,2008,regular-season,2008-01-26,2,2086,home,FALSE,Butler,73,Bulldogs,Butler Bulldogs,Butler
+280262086,2008,regular-season,2008-01-26,2,82,away,FALSE,UIC,57,Flames,UIC Flames,UIC
+280260257,2008,regular-season,2008-01-26,2,257,home,FALSE,Richmond,80,Spiders,Richmond Spiders,Richmond
+280260257,2008,regular-season,2008-01-26,2,2168,away,FALSE,Dayton,63,Flyers,Dayton Flyers,Dayton
+280260344,2008,regular-season,2008-01-26,2,344,home,FALSE,Mississippi State,88,Bulldogs,Mississippi State Bulldogs,Mississippi St
+280260344,2008,regular-season,2008-01-26,2,145,away,FALSE,Ole Miss,68,Rebels,Ole Miss Rebels,Ole Miss
+280260222,2008,regular-season,2008-01-26,2,222,home,FALSE,Villanova,80,Wildcats,Villanova Wildcats,Villanova
+280260222,2008,regular-season,2008-01-26,2,87,away,FALSE,Notre Dame,90,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+280260197,2008,regular-season,2008-01-26,2,197,home,FALSE,Oklahoma State,56,Cowboys,Oklahoma State Cowboys,Oklahoma St
+280260197,2008,regular-season,2008-01-26,2,245,away,FALSE,Texas A&M,59,Aggies,Texas A&M Aggies,Texas A&M
+280260025,2008,regular-season,2008-01-26,2,25,home,FALSE,California,77,Golden Bears,California Golden Bears,California
+280260025,2008,regular-season,2008-01-26,2,24,away,FALSE,Stanford,82,Cardinal,Stanford Cardinal,Stanford
+280260269,2008,regular-season,2008-01-26,2,269,home,FALSE,Marquette,79,Golden Eagles,Marquette Golden Eagles,Marquette
+280260269,2008,regular-season,2008-01-26,2,305,away,FALSE,DePaul,71,Blue Demons,DePaul Blue Demons,DePaul
+280262181,2008,regular-season,2008-01-26,2,2181,home,FALSE,Drake,58,Bulldogs,Drake Bulldogs,Drake
+280262181,2008,regular-season,2008-01-26,2,2460,away,FALSE,Northern Iowa,54,Panthers,Northern Iowa Panthers,Northern Iowa
+280260239,2008,regular-season,2008-01-26,2,239,home,FALSE,Baylor,71,Bears,Baylor Bears,Baylor
+280260239,2008,regular-season,2008-01-26,2,201,away,FALSE,Oklahoma,77,Sooners,Oklahoma Sooners,Oklahoma

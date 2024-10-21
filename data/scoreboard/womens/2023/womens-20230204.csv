@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401494178,2023-02-04,4,66,home,FALSE,Iowa State,70,Cyclones,Iowa State Cyclones,Iowa State
-401494178,2023-02-04,4,239,away,FALSE,Baylor,76,Bears,Baylor Bears,Baylor
-401474754,2023-02-04,4,2539,home,FALSE,San Francisco,56,Dons,San Francisco Dons,San Francisco
-401474754,2023-02-04,4,2250,away,FALSE,Gonzaga,78,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401487223,2023-02-04,4,2086,home,FALSE,Butler,58,Bulldogs,Butler Bulldogs,Butler
-401487223,2023-02-04,4,222,away,FALSE,Villanova,78,Wildcats,Villanova Wildcats,Villanova
-401494181,2023-02-04,4,201,home,FALSE,Oklahoma,93,Sooners,Oklahoma Sooners,Oklahoma
-401494181,2023-02-04,4,277,away,FALSE,West Virginia,68,Mountaineers,West Virginia Mountaineers,West Virginia
-401491945,2023-02-04,4,2636,home,FALSE,UTSA,58,Roadrunners,UTSA Roadrunners,UTSA
-401491945,2023-02-04,4,2393,away,FALSE,Middle Tennessee,53,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-401494179,2023-02-04,4,2305,home,FALSE,Kansas,65,Jayhawks,Kansas Jayhawks,Kansas
-401494179,2023-02-04,4,251,away,FALSE,Texas,68,Longhorns,Texas Longhorns,Texas
-401493056,2023-02-04,4,2567,home,FALSE,SMU,63,Mustangs,SMU Mustangs,SMU
-401493056,2023-02-04,4,58,away,FALSE,South Florida,65,Bulls,South Florida Bulls,South Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401494178,2023,regular-season,2023-02-04,4,66,home,FALSE,Iowa State,70,Cyclones,Iowa State Cyclones,Iowa State
+401494178,2023,regular-season,2023-02-04,4,239,away,FALSE,Baylor,76,Bears,Baylor Bears,Baylor
+401474754,2023,regular-season,2023-02-04,4,2539,home,FALSE,San Francisco,56,Dons,San Francisco Dons,San Francisco
+401474754,2023,regular-season,2023-02-04,4,2250,away,FALSE,Gonzaga,78,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401487223,2023,regular-season,2023-02-04,4,2086,home,FALSE,Butler,58,Bulldogs,Butler Bulldogs,Butler
+401487223,2023,regular-season,2023-02-04,4,222,away,FALSE,Villanova,78,Wildcats,Villanova Wildcats,Villanova
+401494181,2023,regular-season,2023-02-04,4,201,home,FALSE,Oklahoma,93,Sooners,Oklahoma Sooners,Oklahoma
+401494181,2023,regular-season,2023-02-04,4,277,away,FALSE,West Virginia,68,Mountaineers,West Virginia Mountaineers,West Virginia
+401491945,2023,regular-season,2023-02-04,4,2636,home,FALSE,UTSA,58,Roadrunners,UTSA Roadrunners,UTSA
+401491945,2023,regular-season,2023-02-04,4,2393,away,FALSE,Middle Tennessee,53,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+401494179,2023,regular-season,2023-02-04,4,2305,home,FALSE,Kansas,65,Jayhawks,Kansas Jayhawks,Kansas
+401494179,2023,regular-season,2023-02-04,4,251,away,FALSE,Texas,68,Longhorns,Texas Longhorns,Texas
+401493056,2023,regular-season,2023-02-04,4,2567,home,FALSE,SMU,63,Mustangs,SMU Mustangs,SMU
+401493056,2023,regular-season,2023-02-04,4,58,away,FALSE,South Florida,65,Bulls,South Florida Bulls,South Florida

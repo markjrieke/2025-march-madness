@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320150194,2012-01-15,2,194,home,FALSE,Ohio State,80,Buckeyes,Ohio State Buckeyes,Ohio State
-320150194,2012-01-15,2,84,away,FALSE,Indiana,63,Hoosiers,Indiana Hoosiers,Indiana
-320150228,2012-01-15,2,228,home,FALSE,Clemson,66,Tigers,Clemson Tigers,Clemson
-320150228,2012-01-15,2,150,away,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
-320152599,2012-01-15,2,2599,home,FALSE,St. John's,49,Red Storm,St. John's Red Storm,St John's
-320152599,2012-01-15,2,46,away,FALSE,Georgetown,69,Hoyas,Georgetown Hoyas,Georgetown
-320150156,2012-01-15,2,156,home,FALSE,Creighton,90,Bluejays,Creighton Bluejays,Creighton
-320150156,2012-01-15,2,79,away,FALSE,Southern Illinois,71,Salukis,Southern Illinois Salukis,S Illinois
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320150194,2012,regular-season,2012-01-15,2,194,home,FALSE,Ohio State,80,Buckeyes,Ohio State Buckeyes,Ohio State
+320150194,2012,regular-season,2012-01-15,2,84,away,FALSE,Indiana,63,Hoosiers,Indiana Hoosiers,Indiana
+320150228,2012,regular-season,2012-01-15,2,228,home,FALSE,Clemson,66,Tigers,Clemson Tigers,Clemson
+320150228,2012,regular-season,2012-01-15,2,150,away,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
+320152599,2012,regular-season,2012-01-15,2,2599,home,FALSE,St. John's,49,Red Storm,St. John's Red Storm,St John's
+320152599,2012,regular-season,2012-01-15,2,46,away,FALSE,Georgetown,69,Hoyas,Georgetown Hoyas,Georgetown
+320150156,2012,regular-season,2012-01-15,2,156,home,FALSE,Creighton,90,Bluejays,Creighton Bluejays,Creighton
+320150156,2012,regular-season,2012-01-15,2,79,away,FALSE,Southern Illinois,71,Salukis,Southern Illinois Salukis,S Illinois

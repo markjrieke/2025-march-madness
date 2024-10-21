@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330590264,2013-02-28,2,264,home,FALSE,Washington,36,Huskies,Washington Huskies,Washington
-330590264,2013-02-28,2,24,away,FALSE,Stanford,71,Cardinal,Stanford Cardinal,Stanford
-330592390,2013-02-28,2,2390,home,FALSE,Miami,69,Hurricanes,Miami Hurricanes,Miami
-330592390,2013-02-28,2,150,away,FALSE,Duke,65,Blue Devils,Duke Blue Devils,Duke
-330590265,2013-02-28,2,265,home,FALSE,Washington State,60,Cougars,Washington State Cougars,Washington St
-330590265,2013-02-28,2,25,away,FALSE,California,73,Golden Bears,California Golden Bears,California
-330590135,2013-02-28,2,135,home,FALSE,Minnesota,89,Golden Gophers,Minnesota Golden Gophers,Minnesota
-330590135,2013-02-28,2,213,away,FALSE,Penn State,81,Lady Lions,Penn State Lady Lions,Penn State
-330592633,2013-02-28,2,2633,home,FALSE,Tennessee,82,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-330592633,2013-02-28,2,245,away,FALSE,Texas A&M,72,Aggies,Texas A&M Aggies,Texas A&M
-330590052,2013-02-28,2,52,home,FALSE,Florida State,72,Seminoles,Florida State Seminoles,Florida St
-330590052,2013-02-28,2,120,away,FALSE,Maryland,71,Terrapins,Maryland Terrapins,Maryland
-330590145,2013-02-28,2,145,home,FALSE,Ole Miss,65,Rebels,Ole Miss Rebels,Ole Miss
-330590145,2013-02-28,2,96,away,FALSE,Kentucky,90,Wildcats,Kentucky Wildcats,Kentucky
-330590344,2013-02-28,2,344,home,FALSE,Mississippi State,50,Bulldogs,Mississippi State Bulldogs,Mississippi St
-330590344,2013-02-28,2,61,away,FALSE,Georgia,38,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-330590139,2013-02-28,2,139,home,FALSE,Saint Louis,61,Billikens,Saint Louis Billikens,Saint Louis
-330590139,2013-02-28,2,2168,away,FALSE,Dayton,71,Flyers,Dayton Flyers,Dayton
-330590142,2013-02-28,2,142,home,FALSE,Missouri,65,Tigers,Missouri Tigers,Missouri
-330590142,2013-02-28,2,2579,away,FALSE,South Carolina,58,Gamecocks,South Carolina Gamecocks,South Carolina
-330590153,2013-02-28,2,153,home,FALSE,North Carolina,85,Tar Heels,North Carolina Tar Heels,North Carolina
-330590153,2013-02-28,2,103,away,FALSE,Boston College,57,Eagles,Boston College Eagles,Boston College
-330592275,2013-02-28,2,2275,home,FALSE,Hofstra,50,Pride,Hofstra Pride,Hofstra
-330592275,2013-02-28,2,48,away,FALSE,Delaware,79,Blue Hens,Delaware Blue Hens,Delaware
-330590275,2013-02-28,2,275,home,FALSE,Wisconsin,53,Badgers,Wisconsin Badgers,Wisconsin
-330590275,2013-02-28,2,158,away,FALSE,Nebraska,55,Cornhuskers,Nebraska Cornhuskers,Nebraska
-330592174,2013-02-28,2,2174,home,FALSE,Detroit Mercy,63,Titans,Detroit Mercy Titans,Detroit Mercy
-330592174,2013-02-28,2,2739,away,FALSE,Green Bay,71,Phoenix,Green Bay Phoenix,Green Bay
-330592509,2013-02-28,2,2509,home,FALSE,Purdue,61,Boilermakers,Purdue Boilermakers,Purdue
-330592509,2013-02-28,2,127,away,FALSE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330590264,2013,regular-season,2013-02-28,2,264,home,FALSE,Washington,36,Huskies,Washington Huskies,Washington
+330590264,2013,regular-season,2013-02-28,2,24,away,FALSE,Stanford,71,Cardinal,Stanford Cardinal,Stanford
+330592390,2013,regular-season,2013-02-28,2,2390,home,FALSE,Miami,69,Hurricanes,Miami Hurricanes,Miami
+330592390,2013,regular-season,2013-02-28,2,150,away,FALSE,Duke,65,Blue Devils,Duke Blue Devils,Duke
+330590265,2013,regular-season,2013-02-28,2,265,home,FALSE,Washington State,60,Cougars,Washington State Cougars,Washington St
+330590265,2013,regular-season,2013-02-28,2,25,away,FALSE,California,73,Golden Bears,California Golden Bears,California
+330590135,2013,regular-season,2013-02-28,2,135,home,FALSE,Minnesota,89,Golden Gophers,Minnesota Golden Gophers,Minnesota
+330590135,2013,regular-season,2013-02-28,2,213,away,FALSE,Penn State,81,Lady Lions,Penn State Lady Lions,Penn State
+330592633,2013,regular-season,2013-02-28,2,2633,home,FALSE,Tennessee,82,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+330592633,2013,regular-season,2013-02-28,2,245,away,FALSE,Texas A&M,72,Aggies,Texas A&M Aggies,Texas A&M
+330590052,2013,regular-season,2013-02-28,2,52,home,FALSE,Florida State,72,Seminoles,Florida State Seminoles,Florida St
+330590052,2013,regular-season,2013-02-28,2,120,away,FALSE,Maryland,71,Terrapins,Maryland Terrapins,Maryland
+330590145,2013,regular-season,2013-02-28,2,145,home,FALSE,Ole Miss,65,Rebels,Ole Miss Rebels,Ole Miss
+330590145,2013,regular-season,2013-02-28,2,96,away,FALSE,Kentucky,90,Wildcats,Kentucky Wildcats,Kentucky
+330590344,2013,regular-season,2013-02-28,2,344,home,FALSE,Mississippi State,50,Bulldogs,Mississippi State Bulldogs,Mississippi St
+330590344,2013,regular-season,2013-02-28,2,61,away,FALSE,Georgia,38,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+330590139,2013,regular-season,2013-02-28,2,139,home,FALSE,Saint Louis,61,Billikens,Saint Louis Billikens,Saint Louis
+330590139,2013,regular-season,2013-02-28,2,2168,away,FALSE,Dayton,71,Flyers,Dayton Flyers,Dayton
+330590142,2013,regular-season,2013-02-28,2,142,home,FALSE,Missouri,65,Tigers,Missouri Tigers,Missouri
+330590142,2013,regular-season,2013-02-28,2,2579,away,FALSE,South Carolina,58,Gamecocks,South Carolina Gamecocks,South Carolina
+330590153,2013,regular-season,2013-02-28,2,153,home,FALSE,North Carolina,85,Tar Heels,North Carolina Tar Heels,North Carolina
+330590153,2013,regular-season,2013-02-28,2,103,away,FALSE,Boston College,57,Eagles,Boston College Eagles,Boston College
+330592275,2013,regular-season,2013-02-28,2,2275,home,FALSE,Hofstra,50,Pride,Hofstra Pride,Hofstra
+330592275,2013,regular-season,2013-02-28,2,48,away,FALSE,Delaware,79,Blue Hens,Delaware Blue Hens,Delaware
+330590275,2013,regular-season,2013-02-28,2,275,home,FALSE,Wisconsin,53,Badgers,Wisconsin Badgers,Wisconsin
+330590275,2013,regular-season,2013-02-28,2,158,away,FALSE,Nebraska,55,Cornhuskers,Nebraska Cornhuskers,Nebraska
+330592174,2013,regular-season,2013-02-28,2,2174,home,FALSE,Detroit Mercy,63,Titans,Detroit Mercy Titans,Detroit Mercy
+330592174,2013,regular-season,2013-02-28,2,2739,away,FALSE,Green Bay,71,Phoenix,Green Bay Phoenix,Green Bay
+330592509,2013,regular-season,2013-02-28,2,2509,home,FALSE,Purdue,61,Boilermakers,Purdue Boilermakers,Purdue
+330592509,2013,regular-season,2013-02-28,2,127,away,FALSE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St

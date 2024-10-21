@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260450164,2006-02-14,2,164,home,FALSE,Rutgers,62,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-260450164,2006-02-14,2,222,away,FALSE,Villanova,56,Wildcats,Villanova Wildcats,Villanova
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260450164,2006,regular-season,2006-02-14,2,164,home,FALSE,Rutgers,62,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+260450164,2006,regular-season,2006-02-14,2,222,away,FALSE,Villanova,56,Wildcats,Villanova Wildcats,Villanova

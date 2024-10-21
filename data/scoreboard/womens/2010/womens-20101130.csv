@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303342752,2010-11-30,2,2752,home,FALSE,Xavier,85,Musketeers,Xavier Musketeers,Xavier
-303342752,2010-11-30,2,2400,away,FALSE,Mississippi Valley State,40,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
-303340256,2010-11-30,2,256,home,FALSE,James Madison,58,Dukes,James Madison Dukes,James Madison
-303340256,2010-11-30,2,150,away,FALSE,Duke,75,Blue Devils,Duke Blue Devils,Duke
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303342752,2011,regular-season,2010-11-30,2,2752,home,FALSE,Xavier,85,Musketeers,Xavier Musketeers,Xavier
+303342752,2011,regular-season,2010-11-30,2,2400,away,FALSE,Mississippi Valley State,40,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
+303340256,2011,regular-season,2010-11-30,2,256,home,FALSE,James Madison,58,Dukes,James Madison Dukes,James Madison
+303340256,2011,regular-season,2010-11-30,2,150,away,FALSE,Duke,75,Blue Devils,Duke Blue Devils,Duke

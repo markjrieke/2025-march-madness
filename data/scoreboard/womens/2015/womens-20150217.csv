@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400597541,2015-02-17,2,41,home,FALSE,UConn,85,Huskies,UConn Huskies,UConn
-400597541,2015-02-17,2,248,away,FALSE,Houston,26,Cougars,Houston Cougars,Houston
-400596741,2015-02-17,2,135,home,FALSE,Minnesota,93,Golden Gophers,Minnesota Golden Gophers,Minnesota
-400596741,2015-02-17,2,2294,away,FALSE,Iowa,80,Hawkeyes,Iowa Hawkeyes,Iowa
-400596742,2015-02-17,2,164,home,FALSE,Rutgers,80,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400596742,2015-02-17,2,356,away,FALSE,Illinois,56,Fighting Illini,Illinois Fighting Illini,Illinois
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400597541,2015,regular-season,2015-02-17,2,41,home,FALSE,UConn,85,Huskies,UConn Huskies,UConn
+400597541,2015,regular-season,2015-02-17,2,248,away,FALSE,Houston,26,Cougars,Houston Cougars,Houston
+400596741,2015,regular-season,2015-02-17,2,135,home,FALSE,Minnesota,93,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400596741,2015,regular-season,2015-02-17,2,2294,away,FALSE,Iowa,80,Hawkeyes,Iowa Hawkeyes,Iowa
+400596742,2015,regular-season,2015-02-17,2,164,home,FALSE,Rutgers,80,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400596742,2015,regular-season,2015-02-17,2,356,away,FALSE,Illinois,56,Fighting Illini,Illinois Fighting Illini,Illinois

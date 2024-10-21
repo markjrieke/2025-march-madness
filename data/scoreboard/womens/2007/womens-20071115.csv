@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273192633,2007-11-15,2,201,home,FALSE,Oklahoma,67,Sooners,Oklahoma Sooners,Oklahoma
-273192633,2007-11-15,2,2633,away,FALSE,Tennessee,70,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-273190099,2007-11-15,2,99,home,FALSE,LSU,64,Tigers,LSU Tigers,LSU
-273190099,2007-11-15,2,127,away,FALSE,Michigan State,41,Spartans,Michigan State Spartans,Michigan St
-273190058,2007-11-15,2,58,home,FALSE,South Florida,52,Bulls,South Florida Bulls,South Florida
-273190058,2007-11-15,2,150,away,FALSE,Duke,89,Blue Devils,Duke Blue Devils,Duke
-273190245,2007-11-15,2,245,home,FALSE,Texas A&M,73,Aggies,Texas A&M Aggies,Texas A&M
-273190245,2007-11-15,2,2504,away,FALSE,Prairie View A&M,54,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
-273190027,2007-11-15,2,27,home,FALSE,UC Riverside,49,Highlanders,UC Riverside Highlanders,UC Riverside
-273190027,2007-11-15,2,25,away,FALSE,California,65,Golden Bears,California Golden Bears,California
-273190239,2007-11-15,2,239,home,FALSE,Baylor,76,Bears,Baylor Bears,Baylor
-273190239,2007-11-15,2,292,away,FALSE,UT Rio Grande Valley,39,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-273190251,2007-11-15,2,251,home,FALSE,Texas,94,Longhorns,Texas Longhorns,Texas
-273190251,2007-11-15,2,2320,away,FALSE,Lamar,35,Cardinals,Lamar Cardinals,Lamar
-273190305,2007-11-15,2,305,home,FALSE,DePaul,89,Blue Demons,DePaul Blue Demons,DePaul
-273190305,2007-11-15,2,2229,away,FALSE,Florida International,77,Panthers,Florida International Panthers,FIU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273192633,2008,regular-season,2007-11-15,2,201,home,FALSE,Oklahoma,67,Sooners,Oklahoma Sooners,Oklahoma
+273192633,2008,regular-season,2007-11-15,2,2633,away,FALSE,Tennessee,70,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+273190099,2008,regular-season,2007-11-15,2,99,home,FALSE,LSU,64,Tigers,LSU Tigers,LSU
+273190099,2008,regular-season,2007-11-15,2,127,away,FALSE,Michigan State,41,Spartans,Michigan State Spartans,Michigan St
+273190058,2008,regular-season,2007-11-15,2,58,home,FALSE,South Florida,52,Bulls,South Florida Bulls,South Florida
+273190058,2008,regular-season,2007-11-15,2,150,away,FALSE,Duke,89,Blue Devils,Duke Blue Devils,Duke
+273190245,2008,regular-season,2007-11-15,2,245,home,FALSE,Texas A&M,73,Aggies,Texas A&M Aggies,Texas A&M
+273190245,2008,regular-season,2007-11-15,2,2504,away,FALSE,Prairie View A&M,54,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
+273190027,2008,regular-season,2007-11-15,2,27,home,FALSE,UC Riverside,49,Highlanders,UC Riverside Highlanders,UC Riverside
+273190027,2008,regular-season,2007-11-15,2,25,away,FALSE,California,65,Golden Bears,California Golden Bears,California
+273190239,2008,regular-season,2007-11-15,2,239,home,FALSE,Baylor,76,Bears,Baylor Bears,Baylor
+273190239,2008,regular-season,2007-11-15,2,292,away,FALSE,UT Rio Grande Valley,39,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+273190251,2008,regular-season,2007-11-15,2,251,home,FALSE,Texas,94,Longhorns,Texas Longhorns,Texas
+273190251,2008,regular-season,2007-11-15,2,2320,away,FALSE,Lamar,35,Cardinals,Lamar Cardinals,Lamar
+273190305,2008,regular-season,2007-11-15,2,305,home,FALSE,DePaul,89,Blue Demons,DePaul Blue Demons,DePaul
+273190305,2008,regular-season,2007-11-15,2,2229,away,FALSE,Florida International,77,Panthers,Florida International Panthers,FIU

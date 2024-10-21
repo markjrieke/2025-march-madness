@@ -1,47 +1,47 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400921397,2017-02-13,4,2428,home,FALSE,North Carolina Central,52,Eagles,North Carolina Central Eagles,NC Central
-400921397,2017-02-13,4,50,away,FALSE,Florida A&M,49,Rattlers,Florida A&M Rattlers,Florida A&M
-400921293,2017-02-13,4,2379,home,FALSE,Maryland Eastern Shore,33,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-400921293,2017-02-13,4,2065,away,FALSE,Bethune-Cookman,61,Wildcats,Bethune-Cookman Wildcats,Bethune
-400921022,2017-02-13,4,2448,home,FALSE,North Carolina A&T,66,Aggies,North Carolina A&T Aggies,NC A&T
-400921022,2017-02-13,4,2569,away,FALSE,South Carolina State,54,Lady Bulldogs,South Carolina State Lady Bulldogs,SC State
-400921004,2017-02-13,4,2154,home,FALSE,Coppin State,77,Eagles,Coppin State Eagles,Coppin St
-400921004,2017-02-13,4,2169,away,FALSE,Delaware State,64,Hornets,Delaware State Hornets,Delaware St
-400921314,2017-02-13,4,47,home,FALSE,Howard,72,Bison,Howard Bison,Howard
-400921314,2017-02-13,4,2415,away,FALSE,Morgan State,73,Lady Bears,Morgan State Lady Bears,Morgan St
-400921869,2017-02-13,4,2029,home,FALSE,Arkansas-Pine Bluff,61,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-400921869,2017-02-13,4,2016,away,FALSE,Alcorn State,56,Lady Braves,Alcorn State Lady Braves,Alcorn St
-400921081,2017-02-13,5,2755,home,FALSE,Grambling,60,Lady Tigers,Grambling Lady Tigers,Grambling
-400921081,2017-02-13,5,2504,away,FALSE,Prairie View A&M,55,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
-400921064,2017-02-13,4,2400,home,FALSE,Mississippi Valley State,51,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
-400921064,2017-02-13,4,2582,away,FALSE,Southern,62,Jaguars,Southern Jaguars,Southern
-400921042,2017-02-13,4,2296,home,FALSE,Jackson State,63,Lady Tigers,Jackson State Lady Tigers,Jackson St
-400921042,2017-02-13,4,2640,away,FALSE,Texas Southern,66,Tigers,Texas Southern Tigers,Texas Southern
-400934487,2017-02-13,4,135,home,FALSE,Minnesota,71,Golden Gophers,Minnesota Golden Gophers,Minnesota
-400934487,2017-02-13,4,77,away,FALSE,Northwestern,61,Wildcats,Northwestern Wildcats,Northwestern
-400921516,2017-02-13,4,2542,home,FALSE,Savannah State,91,Tigers,Savannah State Tigers,Savannah St
-400921516,2017-02-13,4,2019,away,FALSE,Allen University,48,Yellow Jackets,Allen University Yellow Jackets,Allen
-400920480,2017-02-13,4,2598,home,FALSE,St. Francis (PA),71,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-400920480,2017-02-13,4,2681,away,FALSE,Wagner,87,Seahawks,Wagner Seahawks,Wagner
-400920398,2017-02-13,6,2529,home,FALSE,Sacred Heart,61,Pioneers,Sacred Heart Pioneers,Sacred Heart
-400920398,2017-02-13,6,2597,away,FALSE,St. Francis Brooklyn,58,Terriers,St. Francis Brooklyn Terriers,St Francis BK
-400920351,2017-02-13,4,2523,home,FALSE,Robert Morris,70,Colonials,Robert Morris Colonials,Robert Morris
-400920351,2017-02-13,4,116,away,FALSE,Mount St. Mary's,58,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-400920285,2017-02-13,4,161,home,FALSE,Fairleigh Dickinson,77,Knights,Fairleigh Dickinson Knights,Fair Dickinson
-400920285,2017-02-13,4,2115,away,FALSE,Central Connecticut,64,Blue Devils,Central Connecticut Blue Devils,C Connecticut
-400920264,2017-02-13,4,2803,home,FALSE,Bryant,57,Bulldogs,Bryant Bulldogs,Bryant
-400920264,2017-02-13,4,2341,away,FALSE,LIU Brooklyn,53,Blackbirds,LIU Brooklyn Blackbirds,LIU Brooklyn
-400917330,2017-02-13,4,294,home,FALSE,Jacksonville,59,Dolphins,Jacksonville Dolphins,Jacksonville
-400917330,2017-02-13,4,2908,away,FALSE,South Carolina Upstate,46,Spartans,South Carolina Upstate Spartans,SC Upstate
-400917329,2017-02-13,4,526,home,FALSE,Florida Gulf Coast,98,Eagles,Florida Gulf Coast Eagles,FGCU
-400917329,2017-02-13,4,288,away,FALSE,Lipscomb,50,Bisons,Lipscomb Bisons,Lipscomb
-400917328,2017-02-13,4,2454,home,FALSE,North Florida,61,Ospreys,North Florida Ospreys,North Florida
-400917328,2017-02-13,4,2885,away,FALSE,NJIT,51,Highlanders,NJIT Highlanders,NJIT
-400912509,2017-02-13,4,56,home,FALSE,Stetson,60,Hatters,Stetson Hatters,Stetson
-400912509,2017-02-13,4,338,away,FALSE,Kennesaw State,43,Owls,Kennesaw State Owls,Kennesaw St
-400912190,2017-02-13,6,52,home,FALSE,Florida State,88,Seminoles,Florida State Seminoles,Florida St
-400912190,2017-02-13,6,251,away,FALSE,Texas,92,Longhorns,Texas Longhorns,Texas
-400910990,2017-02-13,4,238,home,FALSE,Vanderbilt,70,Commodores,Vanderbilt Commodores,Vanderbilt
-400910990,2017-02-13,4,99,away,FALSE,LSU,68,Tigers,LSU Tigers,LSU
-400910991,2017-02-13,4,41,home,FALSE,UConn,66,Huskies,UConn Huskies,UConn
-400910991,2017-02-13,4,2579,away,FALSE,South Carolina,55,Gamecocks,South Carolina Gamecocks,South Carolina
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400921397,2017,regular-season,2017-02-13,4,2428,home,FALSE,North Carolina Central,52,Eagles,North Carolina Central Eagles,NC Central
+400921397,2017,regular-season,2017-02-13,4,50,away,FALSE,Florida A&M,49,Rattlers,Florida A&M Rattlers,Florida A&M
+400921293,2017,regular-season,2017-02-13,4,2379,home,FALSE,Maryland Eastern Shore,33,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+400921293,2017,regular-season,2017-02-13,4,2065,away,FALSE,Bethune-Cookman,61,Wildcats,Bethune-Cookman Wildcats,Bethune
+400921022,2017,regular-season,2017-02-13,4,2448,home,FALSE,North Carolina A&T,66,Aggies,North Carolina A&T Aggies,NC A&T
+400921022,2017,regular-season,2017-02-13,4,2569,away,FALSE,South Carolina State,54,Lady Bulldogs,South Carolina State Lady Bulldogs,SC State
+400921004,2017,regular-season,2017-02-13,4,2154,home,FALSE,Coppin State,77,Eagles,Coppin State Eagles,Coppin St
+400921004,2017,regular-season,2017-02-13,4,2169,away,FALSE,Delaware State,64,Hornets,Delaware State Hornets,Delaware St
+400921314,2017,regular-season,2017-02-13,4,47,home,FALSE,Howard,72,Bison,Howard Bison,Howard
+400921314,2017,regular-season,2017-02-13,4,2415,away,FALSE,Morgan State,73,Lady Bears,Morgan State Lady Bears,Morgan St
+400921869,2017,regular-season,2017-02-13,4,2029,home,FALSE,Arkansas-Pine Bluff,61,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+400921869,2017,regular-season,2017-02-13,4,2016,away,FALSE,Alcorn State,56,Lady Braves,Alcorn State Lady Braves,Alcorn St
+400921081,2017,regular-season,2017-02-13,5,2755,home,FALSE,Grambling,60,Lady Tigers,Grambling Lady Tigers,Grambling
+400921081,2017,regular-season,2017-02-13,5,2504,away,FALSE,Prairie View A&M,55,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
+400921064,2017,regular-season,2017-02-13,4,2400,home,FALSE,Mississippi Valley State,51,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
+400921064,2017,regular-season,2017-02-13,4,2582,away,FALSE,Southern,62,Jaguars,Southern Jaguars,Southern
+400921042,2017,regular-season,2017-02-13,4,2296,home,FALSE,Jackson State,63,Lady Tigers,Jackson State Lady Tigers,Jackson St
+400921042,2017,regular-season,2017-02-13,4,2640,away,FALSE,Texas Southern,66,Tigers,Texas Southern Tigers,Texas Southern
+400934487,2017,regular-season,2017-02-13,4,135,home,FALSE,Minnesota,71,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400934487,2017,regular-season,2017-02-13,4,77,away,FALSE,Northwestern,61,Wildcats,Northwestern Wildcats,Northwestern
+400921516,2017,regular-season,2017-02-13,4,2542,home,FALSE,Savannah State,91,Tigers,Savannah State Tigers,Savannah St
+400921516,2017,regular-season,2017-02-13,4,2019,away,FALSE,Allen University,48,Yellow Jackets,Allen University Yellow Jackets,Allen
+400920480,2017,regular-season,2017-02-13,4,2598,home,FALSE,St. Francis (PA),71,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+400920480,2017,regular-season,2017-02-13,4,2681,away,FALSE,Wagner,87,Seahawks,Wagner Seahawks,Wagner
+400920398,2017,regular-season,2017-02-13,6,2529,home,FALSE,Sacred Heart,61,Pioneers,Sacred Heart Pioneers,Sacred Heart
+400920398,2017,regular-season,2017-02-13,6,2597,away,FALSE,St. Francis Brooklyn,58,Terriers,St. Francis Brooklyn Terriers,St Francis BK
+400920351,2017,regular-season,2017-02-13,4,2523,home,FALSE,Robert Morris,70,Colonials,Robert Morris Colonials,Robert Morris
+400920351,2017,regular-season,2017-02-13,4,116,away,FALSE,Mount St. Mary's,58,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+400920285,2017,regular-season,2017-02-13,4,161,home,FALSE,Fairleigh Dickinson,77,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+400920285,2017,regular-season,2017-02-13,4,2115,away,FALSE,Central Connecticut,64,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+400920264,2017,regular-season,2017-02-13,4,2803,home,FALSE,Bryant,57,Bulldogs,Bryant Bulldogs,Bryant
+400920264,2017,regular-season,2017-02-13,4,2341,away,FALSE,LIU Brooklyn,53,Blackbirds,LIU Brooklyn Blackbirds,LIU Brooklyn
+400917330,2017,regular-season,2017-02-13,4,294,home,FALSE,Jacksonville,59,Dolphins,Jacksonville Dolphins,Jacksonville
+400917330,2017,regular-season,2017-02-13,4,2908,away,FALSE,South Carolina Upstate,46,Spartans,South Carolina Upstate Spartans,SC Upstate
+400917329,2017,regular-season,2017-02-13,4,526,home,FALSE,Florida Gulf Coast,98,Eagles,Florida Gulf Coast Eagles,FGCU
+400917329,2017,regular-season,2017-02-13,4,288,away,FALSE,Lipscomb,50,Bisons,Lipscomb Bisons,Lipscomb
+400917328,2017,regular-season,2017-02-13,4,2454,home,FALSE,North Florida,61,Ospreys,North Florida Ospreys,North Florida
+400917328,2017,regular-season,2017-02-13,4,2885,away,FALSE,NJIT,51,Highlanders,NJIT Highlanders,NJIT
+400912509,2017,regular-season,2017-02-13,4,56,home,FALSE,Stetson,60,Hatters,Stetson Hatters,Stetson
+400912509,2017,regular-season,2017-02-13,4,338,away,FALSE,Kennesaw State,43,Owls,Kennesaw State Owls,Kennesaw St
+400912190,2017,regular-season,2017-02-13,6,52,home,FALSE,Florida State,88,Seminoles,Florida State Seminoles,Florida St
+400912190,2017,regular-season,2017-02-13,6,251,away,FALSE,Texas,92,Longhorns,Texas Longhorns,Texas
+400910990,2017,regular-season,2017-02-13,4,238,home,FALSE,Vanderbilt,70,Commodores,Vanderbilt Commodores,Vanderbilt
+400910990,2017,regular-season,2017-02-13,4,99,away,FALSE,LSU,68,Tigers,LSU Tigers,LSU
+400910991,2017,regular-season,2017-02-13,4,41,home,FALSE,UConn,66,Huskies,UConn Huskies,UConn
+400910991,2017,regular-season,2017-02-13,4,2579,away,FALSE,South Carolina,55,Gamecocks,South Carolina Gamecocks,South Carolina

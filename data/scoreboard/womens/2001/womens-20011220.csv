@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213540150,2001-12-20,2,150,home,FALSE,Duke,95,Blue Devils,Duke Blue Devils,Duke
-213540150,2001-12-20,2,2335,away,FALSE,Liberty,53,Flames,Liberty Flames,Liberty
-213540239,2001-12-20,2,239,home,FALSE,Baylor,85,Bears,Baylor Bears,Baylor
-213540239,2001-12-20,2,2031,away,FALSE,Little Rock,55,Trojans,Little Rock Trojans,Little Rock
-213542579,2001-12-20,2,2579,home,FALSE,South Carolina,85,Gamecocks,South Carolina Gamecocks,South Carolina
-213542579,2001-12-20,2,153,away,FALSE,North Carolina,53,Tar Heels,North Carolina Tar Heels,North Carolina
-213540099,2001-12-20,2,99,home,FALSE,LSU,72,Tigers,LSU Tigers,LSU
-213540099,2001-12-20,2,242,away,FALSE,Rice,47,Owls,Rice Owls,Rice
-213542172,2001-12-20,2,2172,home,FALSE,Denver,69,Pioneers,Denver Pioneers,Denver
-213542172,2001-12-20,2,295,away,FALSE,Old Dominion,91,Monarchs,Old Dominion Monarchs,Old Dominion
-213540002,2001-12-20,2,2,home,FALSE,Auburn,86,Tigers,Auburn Tigers,Auburn
-213540002,2001-12-20,2,2653,away,FALSE,Troy,44,Trojans,Troy Trojans,Troy
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213540150,2002,regular-season,2001-12-20,2,150,home,FALSE,Duke,95,Blue Devils,Duke Blue Devils,Duke
+213540150,2002,regular-season,2001-12-20,2,2335,away,FALSE,Liberty,53,Flames,Liberty Flames,Liberty
+213540239,2002,regular-season,2001-12-20,2,239,home,FALSE,Baylor,85,Bears,Baylor Bears,Baylor
+213540239,2002,regular-season,2001-12-20,2,2031,away,FALSE,Little Rock,55,Trojans,Little Rock Trojans,Little Rock
+213542579,2002,regular-season,2001-12-20,2,2579,home,FALSE,South Carolina,85,Gamecocks,South Carolina Gamecocks,South Carolina
+213542579,2002,regular-season,2001-12-20,2,153,away,FALSE,North Carolina,53,Tar Heels,North Carolina Tar Heels,North Carolina
+213540099,2002,regular-season,2001-12-20,2,99,home,FALSE,LSU,72,Tigers,LSU Tigers,LSU
+213540099,2002,regular-season,2001-12-20,2,242,away,FALSE,Rice,47,Owls,Rice Owls,Rice
+213542172,2002,regular-season,2001-12-20,2,2172,home,FALSE,Denver,69,Pioneers,Denver Pioneers,Denver
+213542172,2002,regular-season,2001-12-20,2,295,away,FALSE,Old Dominion,91,Monarchs,Old Dominion Monarchs,Old Dominion
+213540002,2002,regular-season,2001-12-20,2,2,home,FALSE,Auburn,86,Tigers,Auburn Tigers,Auburn
+213540002,2002,regular-season,2001-12-20,2,2653,away,FALSE,Troy,44,Trojans,Troy Trojans,Troy

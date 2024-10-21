@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320360087,2012-02-05,2,87,home,FALSE,Notre Dame,90,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-320360087,2012-02-05,2,305,away,FALSE,DePaul,70,Blue Demons,DePaul Blue Demons,DePaul
-320360099,2012-02-05,2,99,home,FALSE,LSU,61,Tigers,LSU Tigers,LSU
-320360099,2012-02-05,2,96,away,FALSE,Kentucky,51,Wildcats,Kentucky Wildcats,Kentucky
-320362390,2012-02-05,2,2390,home,FALSE,Miami,68,Hurricanes,Miami Hurricanes,Miami
-320362390,2012-02-05,2,228,away,FALSE,Clemson,47,Tigers,Clemson Tigers,Clemson
-320362633,2012-02-05,2,2633,home,FALSE,Tennessee,82,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-320362633,2012-02-05,2,2,away,FALSE,Auburn,61,Tigers,Auburn Tigers,Auburn
-320360048,2012-02-05,2,48,home,FALSE,Delaware,68,Blue Hens,Delaware Blue Hens,Delaware
-320360048,2012-02-05,2,2670,away,FALSE,VCU,49,Rams,VCU Rams,VCU
-320362509,2012-02-05,2,2509,home,FALSE,Purdue,77,Boilermakers,Purdue Boilermakers,Purdue
-320362509,2012-02-05,2,356,away,FALSE,Illinois,66,Fighting Illini,Illinois Fighting Illini,Illinois
-320360135,2012-02-05,2,135,home,FALSE,Minnesota,65,Golden Gophers,Minnesota Golden Gophers,Minnesota
-320360135,2012-02-05,2,213,away,FALSE,Penn State,68,Lady Lions,Penn State Lady Lions,Penn State
-320360333,2012-02-05,2,333,home,FALSE,Alabama,66,Crimson Tide,Alabama Crimson Tide,Alabama
-320360333,2012-02-05,2,61,away,FALSE,Georgia,81,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-320362641,2012-02-05,2,2641,home,FALSE,Texas Tech,76,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-320362641,2012-02-05,2,142,away,FALSE,Missouri,49,Tigers,Missouri Tigers,Missouri
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320360087,2012,regular-season,2012-02-05,2,87,home,FALSE,Notre Dame,90,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+320360087,2012,regular-season,2012-02-05,2,305,away,FALSE,DePaul,70,Blue Demons,DePaul Blue Demons,DePaul
+320360099,2012,regular-season,2012-02-05,2,99,home,FALSE,LSU,61,Tigers,LSU Tigers,LSU
+320360099,2012,regular-season,2012-02-05,2,96,away,FALSE,Kentucky,51,Wildcats,Kentucky Wildcats,Kentucky
+320362390,2012,regular-season,2012-02-05,2,2390,home,FALSE,Miami,68,Hurricanes,Miami Hurricanes,Miami
+320362390,2012,regular-season,2012-02-05,2,228,away,FALSE,Clemson,47,Tigers,Clemson Tigers,Clemson
+320362633,2012,regular-season,2012-02-05,2,2633,home,FALSE,Tennessee,82,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+320362633,2012,regular-season,2012-02-05,2,2,away,FALSE,Auburn,61,Tigers,Auburn Tigers,Auburn
+320360048,2012,regular-season,2012-02-05,2,48,home,FALSE,Delaware,68,Blue Hens,Delaware Blue Hens,Delaware
+320360048,2012,regular-season,2012-02-05,2,2670,away,FALSE,VCU,49,Rams,VCU Rams,VCU
+320362509,2012,regular-season,2012-02-05,2,2509,home,FALSE,Purdue,77,Boilermakers,Purdue Boilermakers,Purdue
+320362509,2012,regular-season,2012-02-05,2,356,away,FALSE,Illinois,66,Fighting Illini,Illinois Fighting Illini,Illinois
+320360135,2012,regular-season,2012-02-05,2,135,home,FALSE,Minnesota,65,Golden Gophers,Minnesota Golden Gophers,Minnesota
+320360135,2012,regular-season,2012-02-05,2,213,away,FALSE,Penn State,68,Lady Lions,Penn State Lady Lions,Penn State
+320360333,2012,regular-season,2012-02-05,2,333,home,FALSE,Alabama,66,Crimson Tide,Alabama Crimson Tide,Alabama
+320360333,2012,regular-season,2012-02-05,2,61,away,FALSE,Georgia,81,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+320362641,2012,regular-season,2012-02-05,2,2641,home,FALSE,Texas Tech,76,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+320362641,2012,regular-season,2012-02-05,2,142,away,FALSE,Missouri,49,Tigers,Missouri Tigers,Missouri

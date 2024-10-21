@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400838904,2015-11-15,4,2579,home,FALSE,South Carolina,92,Gamecocks,South Carolina Gamecocks,South Carolina
-400838904,2015-11-15,4,2430,away,FALSE,UNC Greensboro,44,Spartans,UNC Greensboro Spartans,UNC Greensboro
-400829788,2015-11-15,4,87,home,FALSE,Notre Dame,85,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400829788,2015-11-15,4,2083,away,FALSE,Bucknell,54,Bison,Bucknell Bison,Bucknell
-400838968,2015-11-15,4,2633,home,FALSE,Tennessee,102,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400838968,2015-11-15,4,2110,away,FALSE,Central Arkansas,47,Sugar Bears,Central Arkansas Sugar Bears,C Arkansas
-400823609,2015-11-15,4,97,home,FALSE,Louisville,71,Cardinals,Louisville Cardinals,Louisville
-400823609,2015-11-15,4,25,away,FALSE,California,75,Golden Bears,California Golden Bears,California
-400849607,2015-11-15,4,245,home,FALSE,Texas A&M,88,Aggies,Texas A&M Aggies,Texas A&M
-400849607,2015-11-15,4,2582,away,FALSE,Southern,47,Jaguars,Southern Jaguars,Southern
-400819372,2015-11-15,4,150,home,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
-400819372,2015-11-15,4,2737,away,FALSE,Winthrop,50,Eagles,Winthrop Eagles,Winthrop
-400821057,2015-11-15,5,9,home,FALSE,Arizona State,64,Sun Devils,Arizona State Sun Devils,Arizona St
-400821057,2015-11-15,5,96,away,FALSE,Kentucky,68,Wildcats,Kentucky Wildcats,Kentucky
-400829529,2015-11-15,4,2250,home,FALSE,Gonzaga,48,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400829529,2015-11-15,4,24,away,FALSE,Stanford,65,Cardinal,Stanford Cardinal,Stanford
-400834912,2015-11-15,4,77,home,FALSE,Northwestern,89,Wildcats,Northwestern Wildcats,Northwestern
-400834912,2015-11-15,4,47,away,FALSE,Howard,49,Bison,Howard Bison,Howard
-400821077,2015-11-15,4,153,home,FALSE,North Carolina,77,Tar Heels,North Carolina Tar Heels,North Carolina
-400821077,2015-11-15,4,2483,away,FALSE,Oregon,79,Ducks,Oregon Ducks,Oregon
-400834877,2015-11-15,4,127,home,FALSE,Michigan State,78,Spartans,Michigan State Spartans,Michigan St
-400834877,2015-11-15,4,2711,away,FALSE,Western Michigan,40,Broncos,Western Michigan Broncos,W Michigan
-400838817,2015-11-15,4,236,home,FALSE,Chattanooga,60,Mocs,Chattanooga Mocs,Chattanooga
-400838817,2015-11-15,4,2086,away,FALSE,Butler,49,Bulldogs,Butler Bulldogs,Butler
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400838904,2016,regular-season,2015-11-15,4,2579,home,FALSE,South Carolina,92,Gamecocks,South Carolina Gamecocks,South Carolina
+400838904,2016,regular-season,2015-11-15,4,2430,away,FALSE,UNC Greensboro,44,Spartans,UNC Greensboro Spartans,UNC Greensboro
+400829788,2016,regular-season,2015-11-15,4,87,home,FALSE,Notre Dame,85,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400829788,2016,regular-season,2015-11-15,4,2083,away,FALSE,Bucknell,54,Bison,Bucknell Bison,Bucknell
+400838968,2016,regular-season,2015-11-15,4,2633,home,FALSE,Tennessee,102,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400838968,2016,regular-season,2015-11-15,4,2110,away,FALSE,Central Arkansas,47,Sugar Bears,Central Arkansas Sugar Bears,C Arkansas
+400823609,2016,regular-season,2015-11-15,4,97,home,FALSE,Louisville,71,Cardinals,Louisville Cardinals,Louisville
+400823609,2016,regular-season,2015-11-15,4,25,away,FALSE,California,75,Golden Bears,California Golden Bears,California
+400849607,2016,regular-season,2015-11-15,4,245,home,FALSE,Texas A&M,88,Aggies,Texas A&M Aggies,Texas A&M
+400849607,2016,regular-season,2015-11-15,4,2582,away,FALSE,Southern,47,Jaguars,Southern Jaguars,Southern
+400819372,2016,regular-season,2015-11-15,4,150,home,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
+400819372,2016,regular-season,2015-11-15,4,2737,away,FALSE,Winthrop,50,Eagles,Winthrop Eagles,Winthrop
+400821057,2016,regular-season,2015-11-15,5,9,home,FALSE,Arizona State,64,Sun Devils,Arizona State Sun Devils,Arizona St
+400821057,2016,regular-season,2015-11-15,5,96,away,FALSE,Kentucky,68,Wildcats,Kentucky Wildcats,Kentucky
+400829529,2016,regular-season,2015-11-15,4,2250,home,FALSE,Gonzaga,48,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400829529,2016,regular-season,2015-11-15,4,24,away,FALSE,Stanford,65,Cardinal,Stanford Cardinal,Stanford
+400834912,2016,regular-season,2015-11-15,4,77,home,FALSE,Northwestern,89,Wildcats,Northwestern Wildcats,Northwestern
+400834912,2016,regular-season,2015-11-15,4,47,away,FALSE,Howard,49,Bison,Howard Bison,Howard
+400821077,2016,regular-season,2015-11-15,4,153,home,FALSE,North Carolina,77,Tar Heels,North Carolina Tar Heels,North Carolina
+400821077,2016,regular-season,2015-11-15,4,2483,away,FALSE,Oregon,79,Ducks,Oregon Ducks,Oregon
+400834877,2016,regular-season,2015-11-15,4,127,home,FALSE,Michigan State,78,Spartans,Michigan State Spartans,Michigan St
+400834877,2016,regular-season,2015-11-15,4,2711,away,FALSE,Western Michigan,40,Broncos,Western Michigan Broncos,W Michigan
+400838817,2016,regular-season,2015-11-15,4,236,home,FALSE,Chattanooga,60,Mocs,Chattanooga Mocs,Chattanooga
+400838817,2016,regular-season,2015-11-15,4,2086,away,FALSE,Butler,49,Bulldogs,Butler Bulldogs,Butler

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260040235,2006-01-04,2,235,home,FALSE,Memphis,83,Tigers,Memphis Tigers,Memphis
-260040235,2006-01-04,2,2393,away,FALSE,Middle Tennessee,50,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-260040120,2006-01-04,2,120,home,FALSE,Maryland,99,Terrapins,Maryland Terrapins,Maryland
-260040120,2006-01-04,2,357,away,FALSE,Texas A&M-Corpus Christi,73,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-260040218,2006-01-04,2,218,home,FALSE,Temple,60,Owls,Temple Owls,Temple
-260040218,2006-01-04,2,45,away,FALSE,George Washington,72,Revolutionaries,George Washington Revolutionaries,G Washington
-260040221,2006-01-04,4,221,home,FALSE,Pittsburgh,100,Panthers,Pittsburgh Panthers,Pitt
-260040221,2006-01-04,4,87,away,FALSE,Notre Dame,97,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260040235,2006,regular-season,2006-01-04,2,235,home,FALSE,Memphis,83,Tigers,Memphis Tigers,Memphis
+260040235,2006,regular-season,2006-01-04,2,2393,away,FALSE,Middle Tennessee,50,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+260040120,2006,regular-season,2006-01-04,2,120,home,FALSE,Maryland,99,Terrapins,Maryland Terrapins,Maryland
+260040120,2006,regular-season,2006-01-04,2,357,away,FALSE,Texas A&M-Corpus Christi,73,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+260040218,2006,regular-season,2006-01-04,2,218,home,FALSE,Temple,60,Owls,Temple Owls,Temple
+260040218,2006,regular-season,2006-01-04,2,45,away,FALSE,George Washington,72,Revolutionaries,George Washington Revolutionaries,G Washington
+260040221,2006,regular-season,2006-01-04,4,221,home,FALSE,Pittsburgh,100,Panthers,Pittsburgh Panthers,Pitt
+260040221,2006,regular-season,2006-01-04,4,87,away,FALSE,Notre Dame,97,Fighting Irish,Notre Dame Fighting Irish,Notre Dame

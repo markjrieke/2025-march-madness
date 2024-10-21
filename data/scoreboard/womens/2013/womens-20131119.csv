@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400508676,2013-11-19,2,120,home,FALSE,Maryland,87,Terrapins,Maryland Terrapins,Maryland
-400508676,2013-11-19,2,45,away,FALSE,George Washington,51,Revolutionaries,George Washington Revolutionaries,G Washington
-400508329,2013-11-19,2,61,home,FALSE,Georgia,72,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-400508329,2013-11-19,2,231,away,FALSE,Furman,48,Paladins,Furman Paladins,Furman
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400508676,2014,regular-season,2013-11-19,2,120,home,FALSE,Maryland,87,Terrapins,Maryland Terrapins,Maryland
+400508676,2014,regular-season,2013-11-19,2,45,away,FALSE,George Washington,51,Revolutionaries,George Washington Revolutionaries,G Washington
+400508329,2014,regular-season,2013-11-19,2,61,home,FALSE,Georgia,72,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+400508329,2014,regular-season,2013-11-19,2,231,away,FALSE,Furman,48,Paladins,Furman Paladins,Furman

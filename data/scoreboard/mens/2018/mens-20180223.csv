@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400986586,2018-02-23,4,84,home,FALSE,Indiana,78,Hoosiers,Indiana Hoosiers,Indiana
-400986586,2018-02-23,4,194,away,FALSE,Ohio State,80,Buckeyes,Ohio State Buckeyes,Ohio State
-400989833,2018-02-23,2,227,home,FALSE,Rhode Island,81,Rams,Rhode Island Rams,Rhode Island
-400989833,2018-02-23,2,2168,away,FALSE,Dayton,56,Flyers,Dayton Flyers,Dayton
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400986586,2018,regular-season,2018-02-23,4,84,home,FALSE,Indiana,78,Hoosiers,Indiana Hoosiers,Indiana
+400986586,2018,regular-season,2018-02-23,4,194,away,FALSE,Ohio State,80,Buckeyes,Ohio State Buckeyes,Ohio State
+400989833,2018,regular-season,2018-02-23,2,227,home,FALSE,Rhode Island,81,Rams,Rhode Island Rams,Rhode Island
+400989833,2018,regular-season,2018-02-23,2,2168,away,FALSE,Dayton,56,Flyers,Dayton Flyers,Dayton

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230230339,2003-01-23,2,339,home,FALSE,Evansville,74,Purple Aces,Evansville Purple Aces,Evansville
-230230339,2003-01-23,2,156,away,FALSE,Creighton,66,Bluejays,Creighton Bluejays,Creighton
-230230258,2003-01-23,2,258,home,FALSE,Virginia,85,Cavaliers,Virginia Cavaliers,Virginia
-230230258,2003-01-23,2,154,away,FALSE,Wake Forest,75,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-230232483,2003-01-23,2,2483,home,FALSE,Oregon,91,Ducks,Oregon Ducks,Oregon
-230232483,2003-01-23,2,264,away,FALSE,Washington,66,Huskies,Washington Huskies,Washington
-230230025,2003-01-23,2,25,home,FALSE,California,73,Golden Bears,California Golden Bears,California
-230230025,2003-01-23,2,30,away,FALSE,USC,68,Trojans,USC Trojans,USC
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230230339,2003,regular-season,2003-01-23,2,339,home,FALSE,Evansville,74,Purple Aces,Evansville Purple Aces,Evansville
+230230339,2003,regular-season,2003-01-23,2,156,away,FALSE,Creighton,66,Bluejays,Creighton Bluejays,Creighton
+230230258,2003,regular-season,2003-01-23,2,258,home,FALSE,Virginia,85,Cavaliers,Virginia Cavaliers,Virginia
+230230258,2003,regular-season,2003-01-23,2,154,away,FALSE,Wake Forest,75,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+230232483,2003,regular-season,2003-01-23,2,2483,home,FALSE,Oregon,91,Ducks,Oregon Ducks,Oregon
+230232483,2003,regular-season,2003-01-23,2,264,away,FALSE,Washington,66,Huskies,Washington Huskies,Washington
+230230025,2003,regular-season,2003-01-23,2,25,home,FALSE,California,73,Golden Bears,California Golden Bears,California
+230230025,2003,regular-season,2003-01-23,2,30,away,FALSE,USC,68,Trojans,USC Trojans,USC

@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323450046,2012-12-10,2,46,home,FALSE,Georgetown,89,Hoyas,Georgetown Hoyas,Georgetown
-323450046,2012-12-10,2,2344,away,FALSE,Longwood,53,Lancers,Longwood Lancers,Longwood
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323450046,2013,regular-season,2012-12-10,2,46,home,FALSE,Georgetown,89,Hoyas,Georgetown Hoyas,Georgetown
+323450046,2013,regular-season,2012-12-10,2,2344,away,FALSE,Longwood,53,Lancers,Longwood Lancers,Longwood

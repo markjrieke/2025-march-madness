@@ -1,63 +1,63 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401021058,2018-03-04,4,2514,home,TRUE,Quinnipiac,82,Bobcats,Quinnipiac Bobcats,Quinnipiac
-401021058,2018-03-04,4,2520,away,TRUE,Rider,62,Broncs,Rider Broncs,Rider
-401021298,2018-03-04,4,45,home,TRUE,George Washington,65,Revolutionaries,George Washington Revolutionaries,G Washington
-401021298,2018-03-04,4,2603,away,TRUE,Saint Joseph's,49,Hawks,Saint Joseph's Hawks,Saint Joseph's
-401021256,2018-03-04,4,2382,home,TRUE,Mercer,68,Bears,Mercer Bears,Mercer
-401021256,2018-03-04,4,2193,away,TRUE,East Tennessee State,53,Bucs,East Tennessee State Bucs,ETSU
-401020865,2018-03-04,4,2750,home,TRUE,Wright State,83,Raiders,Wright State Raiders,Wright St
-401020865,2018-03-04,4,325,away,TRUE,Cleveland State,61,Vikings,Cleveland State Vikings,Cleveland St
-401020579,2018-03-04,4,2116,home,TRUE,UCF,77,Knights,UCF Knights,UCF
-401020579,2018-03-04,4,218,away,TRUE,Temple,70,Owls,Temple Owls,Temple
-401021300,2018-03-04,4,2172,home,TRUE,Denver,71,Pioneers,Denver Pioneers,Denver
-401021300,2018-03-04,4,198,away,TRUE,Oral Roberts,76,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-401020598,2018-03-04,4,269,home,TRUE,Marquette,73,Golden Eagles,Marquette Golden Eagles,Marquette
-401020598,2018-03-04,4,2086,away,TRUE,Butler,61,Bulldogs,Butler Bulldogs,Butler
-400996306,2018-03-04,4,2597,home,FALSE,St. Francis Brooklyn,66,Terriers,St. Francis Brooklyn Terriers,St Francis BK
-400996306,2018-03-04,4,2803,away,FALSE,Bryant,60,Bulldogs,Bryant Bulldogs,Bryant
-400996066,2018-03-04,4,2523,home,FALSE,Robert Morris,66,Colonials,Robert Morris Colonials,Robert Morris
-400996066,2018-03-04,4,116,away,FALSE,Mount St. Mary's,54,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-400996029,2018-03-04,4,2529,home,FALSE,Sacred Heart,61,Pioneers,Sacred Heart Pioneers,Sacred Heart
-400996029,2018-03-04,4,161,away,FALSE,Fairleigh Dickinson,48,Knights,Fairleigh Dickinson Knights,Fair Dickinson
-401021057,2018-03-04,4,2368,home,TRUE,Marist,67,Red Foxes,Marist Red Foxes,Marist
-401021057,2018-03-04,4,2561,away,TRUE,Siena,51,Saints,Siena Saints,Siena
-401022618,2018-03-04,4,172,home,FALSE,Cornell,51,Big Red,Cornell Big Red,Cornell
-401022618,2018-03-04,4,159,away,FALSE,Dartmouth,49,Big Green,Dartmouth Big Green,Dartmouth
-401021436,2018-03-04,4,311,home,TRUE,Maine,64,Black Bears,Maine Black Bears,Maine
-401021436,2018-03-04,4,160,away,TRUE,New Hampshire,48,Wildcats,New Hampshire Wildcats,New Hampshire
-401020114,2018-03-04,4,97,home,TRUE,Louisville,74,Cardinals,Louisville Cardinals,Louisville
-401020114,2018-03-04,4,87,away,TRUE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400996315,2018-03-04,4,2598,home,FALSE,St. Francis (PA),86,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-400996315,2018-03-04,4,2681,away,FALSE,Wagner,55,Seahawks,Wagner Seahawks,Wagner
-400996009,2018-03-04,4,2341,home,FALSE,LIU Brooklyn,63,Blackbirds,LIU Brooklyn Blackbirds,LIU Brooklyn
-400996009,2018-03-04,4,2115,away,FALSE,Central Connecticut,57,Blue Devils,Central Connecticut Blue Devils,C Connecticut
-400995887,2018-03-04,4,171,home,FALSE,Columbia,59,Lions,Columbia Lions,Columbia
-400995887,2018-03-04,4,108,away,FALSE,Harvard,78,Crimson,Harvard Crimson,Harvard
-401020866,2018-03-04,4,270,home,TRUE,Milwaukee,58,Panthers,Milwaukee Panthers,Milwaukee
-401020866,2018-03-04,4,2754,away,TRUE,Youngstown State,62,Penguins,Youngstown State Penguins,Youngstown St
-401020578,2018-03-04,4,58,home,TRUE,South Florida,80,Bulls,South Florida Bulls,South Florida
-401020578,2018-03-04,4,151,away,TRUE,East Carolina,44,Pirates,East Carolina Pirates,East Carolina
-401020562,2018-03-04,4,239,home,TRUE,Baylor,94,Bears,Baylor Bears,Baylor
-401020562,2018-03-04,4,2628,away,TRUE,TCU,48,Horned Frogs,TCU Horned Frogs,TCU
-401021299,2018-03-04,4,2710,home,TRUE,Western Illinois,97,Leathernecks,Western Illinois Leathernecks,W Illinois
-401021299,2018-03-04,4,2437,away,TRUE,Omaha,57,Mavericks,Omaha Mavericks,Omaha
-401020599,2018-03-04,4,156,home,TRUE,Creighton,66,Bluejays,Creighton Bluejays,Creighton
-401020599,2018-03-04,4,2599,away,TRUE,St. John's,58,Red Storm,St. John's Red Storm,St John's
-401021437,2018-03-04,4,399,home,TRUE,UAlbany,56,Great Danes,UAlbany Great Danes,UAlbany
-401021437,2018-03-04,4,42,away,TRUE,Hartford,58,Hawks,Hartford Hawks,Hartford
-401020147,2018-03-04,4,344,home,TRUE,Mississippi State,51,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401020147,2018-03-04,4,2579,away,TRUE,South Carolina,62,Gamecocks,South Carolina Gamecocks,South Carolina
-401020561,2018-03-04,4,251,home,TRUE,Texas,68,Longhorns,Texas Longhorns,Texas
-401020561,2018-03-04,4,277,away,TRUE,West Virginia,55,Mountaineers,West Virginia Mountaineers,West Virginia
-401020577,2018-03-04,4,41,home,TRUE,UConn,82,Huskies,UConn Huskies,UConn
-401020577,2018-03-04,4,2655,away,TRUE,Tulane,56,Green Wave,Tulane Green Wave,Tulane
-401020600,2018-03-04,4,305,home,FALSE,DePaul,78,Blue Demons,DePaul Blue Demons,DePaul
-401020600,2018-03-04,4,2550,away,FALSE,Seton Hall,52,Pirates,Seton Hall Pirates,Seton Hall
-401020522,2018-03-04,4,194,home,TRUE,Ohio State,79,Buckeyes,Ohio State Buckeyes,Ohio State
-401020522,2018-03-04,4,120,away,TRUE,Maryland,69,Terrapins,Maryland Terrapins,Maryland
-401020576,2018-03-04,4,2132,home,TRUE,Cincinnati,66,Bearcats,Cincinnati Bearcats,Cincinnati
-401020576,2018-03-04,4,202,away,TRUE,Tulsa,65,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-401020158,2018-03-04,4,2483,home,TRUE,Oregon,77,Ducks,Oregon Ducks,Oregon
-401020158,2018-03-04,4,24,away,TRUE,Stanford,57,Cardinal,Stanford Cardinal,Stanford
-401020601,2018-03-04,4,222,home,TRUE,Villanova,58,Wildcats,Villanova Wildcats,Villanova
-401020601,2018-03-04,4,46,away,TRUE,Georgetown,63,Hoyas,Georgetown Hoyas,Georgetown
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401021058,2018,regular-season,2018-03-04,4,2514,home,TRUE,Quinnipiac,82,Bobcats,Quinnipiac Bobcats,Quinnipiac
+401021058,2018,regular-season,2018-03-04,4,2520,away,TRUE,Rider,62,Broncs,Rider Broncs,Rider
+401021298,2018,regular-season,2018-03-04,4,45,home,TRUE,George Washington,65,Revolutionaries,George Washington Revolutionaries,G Washington
+401021298,2018,regular-season,2018-03-04,4,2603,away,TRUE,Saint Joseph's,49,Hawks,Saint Joseph's Hawks,Saint Joseph's
+401021256,2018,regular-season,2018-03-04,4,2382,home,TRUE,Mercer,68,Bears,Mercer Bears,Mercer
+401021256,2018,regular-season,2018-03-04,4,2193,away,TRUE,East Tennessee State,53,Bucs,East Tennessee State Bucs,ETSU
+401020865,2018,regular-season,2018-03-04,4,2750,home,TRUE,Wright State,83,Raiders,Wright State Raiders,Wright St
+401020865,2018,regular-season,2018-03-04,4,325,away,TRUE,Cleveland State,61,Vikings,Cleveland State Vikings,Cleveland St
+401020579,2018,regular-season,2018-03-04,4,2116,home,TRUE,UCF,77,Knights,UCF Knights,UCF
+401020579,2018,regular-season,2018-03-04,4,218,away,TRUE,Temple,70,Owls,Temple Owls,Temple
+401021300,2018,regular-season,2018-03-04,4,2172,home,TRUE,Denver,71,Pioneers,Denver Pioneers,Denver
+401021300,2018,regular-season,2018-03-04,4,198,away,TRUE,Oral Roberts,76,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+401020598,2018,regular-season,2018-03-04,4,269,home,TRUE,Marquette,73,Golden Eagles,Marquette Golden Eagles,Marquette
+401020598,2018,regular-season,2018-03-04,4,2086,away,TRUE,Butler,61,Bulldogs,Butler Bulldogs,Butler
+400996306,2018,regular-season,2018-03-04,4,2597,home,FALSE,St. Francis Brooklyn,66,Terriers,St. Francis Brooklyn Terriers,St Francis BK
+400996306,2018,regular-season,2018-03-04,4,2803,away,FALSE,Bryant,60,Bulldogs,Bryant Bulldogs,Bryant
+400996066,2018,regular-season,2018-03-04,4,2523,home,FALSE,Robert Morris,66,Colonials,Robert Morris Colonials,Robert Morris
+400996066,2018,regular-season,2018-03-04,4,116,away,FALSE,Mount St. Mary's,54,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+400996029,2018,regular-season,2018-03-04,4,2529,home,FALSE,Sacred Heart,61,Pioneers,Sacred Heart Pioneers,Sacred Heart
+400996029,2018,regular-season,2018-03-04,4,161,away,FALSE,Fairleigh Dickinson,48,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+401021057,2018,regular-season,2018-03-04,4,2368,home,TRUE,Marist,67,Red Foxes,Marist Red Foxes,Marist
+401021057,2018,regular-season,2018-03-04,4,2561,away,TRUE,Siena,51,Saints,Siena Saints,Siena
+401022618,2018,regular-season,2018-03-04,4,172,home,FALSE,Cornell,51,Big Red,Cornell Big Red,Cornell
+401022618,2018,regular-season,2018-03-04,4,159,away,FALSE,Dartmouth,49,Big Green,Dartmouth Big Green,Dartmouth
+401021436,2018,regular-season,2018-03-04,4,311,home,TRUE,Maine,64,Black Bears,Maine Black Bears,Maine
+401021436,2018,regular-season,2018-03-04,4,160,away,TRUE,New Hampshire,48,Wildcats,New Hampshire Wildcats,New Hampshire
+401020114,2018,regular-season,2018-03-04,4,97,home,TRUE,Louisville,74,Cardinals,Louisville Cardinals,Louisville
+401020114,2018,regular-season,2018-03-04,4,87,away,TRUE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400996315,2018,regular-season,2018-03-04,4,2598,home,FALSE,St. Francis (PA),86,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+400996315,2018,regular-season,2018-03-04,4,2681,away,FALSE,Wagner,55,Seahawks,Wagner Seahawks,Wagner
+400996009,2018,regular-season,2018-03-04,4,2341,home,FALSE,LIU Brooklyn,63,Blackbirds,LIU Brooklyn Blackbirds,LIU Brooklyn
+400996009,2018,regular-season,2018-03-04,4,2115,away,FALSE,Central Connecticut,57,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+400995887,2018,regular-season,2018-03-04,4,171,home,FALSE,Columbia,59,Lions,Columbia Lions,Columbia
+400995887,2018,regular-season,2018-03-04,4,108,away,FALSE,Harvard,78,Crimson,Harvard Crimson,Harvard
+401020866,2018,regular-season,2018-03-04,4,270,home,TRUE,Milwaukee,58,Panthers,Milwaukee Panthers,Milwaukee
+401020866,2018,regular-season,2018-03-04,4,2754,away,TRUE,Youngstown State,62,Penguins,Youngstown State Penguins,Youngstown St
+401020578,2018,regular-season,2018-03-04,4,58,home,TRUE,South Florida,80,Bulls,South Florida Bulls,South Florida
+401020578,2018,regular-season,2018-03-04,4,151,away,TRUE,East Carolina,44,Pirates,East Carolina Pirates,East Carolina
+401020562,2018,regular-season,2018-03-04,4,239,home,TRUE,Baylor,94,Bears,Baylor Bears,Baylor
+401020562,2018,regular-season,2018-03-04,4,2628,away,TRUE,TCU,48,Horned Frogs,TCU Horned Frogs,TCU
+401021299,2018,regular-season,2018-03-04,4,2710,home,TRUE,Western Illinois,97,Leathernecks,Western Illinois Leathernecks,W Illinois
+401021299,2018,regular-season,2018-03-04,4,2437,away,TRUE,Omaha,57,Mavericks,Omaha Mavericks,Omaha
+401020599,2018,regular-season,2018-03-04,4,156,home,TRUE,Creighton,66,Bluejays,Creighton Bluejays,Creighton
+401020599,2018,regular-season,2018-03-04,4,2599,away,TRUE,St. John's,58,Red Storm,St. John's Red Storm,St John's
+401021437,2018,regular-season,2018-03-04,4,399,home,TRUE,UAlbany,56,Great Danes,UAlbany Great Danes,UAlbany
+401021437,2018,regular-season,2018-03-04,4,42,away,TRUE,Hartford,58,Hawks,Hartford Hawks,Hartford
+401020147,2018,regular-season,2018-03-04,4,344,home,TRUE,Mississippi State,51,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401020147,2018,regular-season,2018-03-04,4,2579,away,TRUE,South Carolina,62,Gamecocks,South Carolina Gamecocks,South Carolina
+401020561,2018,regular-season,2018-03-04,4,251,home,TRUE,Texas,68,Longhorns,Texas Longhorns,Texas
+401020561,2018,regular-season,2018-03-04,4,277,away,TRUE,West Virginia,55,Mountaineers,West Virginia Mountaineers,West Virginia
+401020577,2018,regular-season,2018-03-04,4,41,home,TRUE,UConn,82,Huskies,UConn Huskies,UConn
+401020577,2018,regular-season,2018-03-04,4,2655,away,TRUE,Tulane,56,Green Wave,Tulane Green Wave,Tulane
+401020600,2018,regular-season,2018-03-04,4,305,home,FALSE,DePaul,78,Blue Demons,DePaul Blue Demons,DePaul
+401020600,2018,regular-season,2018-03-04,4,2550,away,FALSE,Seton Hall,52,Pirates,Seton Hall Pirates,Seton Hall
+401020522,2018,regular-season,2018-03-04,4,194,home,TRUE,Ohio State,79,Buckeyes,Ohio State Buckeyes,Ohio State
+401020522,2018,regular-season,2018-03-04,4,120,away,TRUE,Maryland,69,Terrapins,Maryland Terrapins,Maryland
+401020576,2018,regular-season,2018-03-04,4,2132,home,TRUE,Cincinnati,66,Bearcats,Cincinnati Bearcats,Cincinnati
+401020576,2018,regular-season,2018-03-04,4,202,away,TRUE,Tulsa,65,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+401020158,2018,regular-season,2018-03-04,4,2483,home,TRUE,Oregon,77,Ducks,Oregon Ducks,Oregon
+401020158,2018,regular-season,2018-03-04,4,24,away,TRUE,Stanford,57,Cardinal,Stanford Cardinal,Stanford
+401020601,2018,regular-season,2018-03-04,4,222,home,TRUE,Villanova,58,Wildcats,Villanova Wildcats,Villanova
+401020601,2018,regular-season,2018-03-04,4,46,away,TRUE,Georgetown,63,Hoyas,Georgetown Hoyas,Georgetown

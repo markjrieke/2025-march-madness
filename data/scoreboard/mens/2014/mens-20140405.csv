@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400549976,2014-04-05,2,57,home,TRUE,Florida,53,Gators,Florida Gators,Florida
-400549976,2014-04-05,2,41,away,TRUE,UConn,63,Huskies,UConn Huskies,UConn
-400549978,2014-04-05,2,275,home,TRUE,Wisconsin,73,Badgers,Wisconsin Badgers,Wisconsin
-400549978,2014-04-05,2,96,away,TRUE,Kentucky,74,Wildcats,Kentucky Wildcats,Kentucky
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400549976,2014,post-season,2014-04-05,2,57,home,TRUE,Florida,53,Gators,Florida Gators,Florida
+400549976,2014,post-season,2014-04-05,2,41,away,TRUE,UConn,63,Huskies,UConn Huskies,UConn
+400549978,2014,post-season,2014-04-05,2,275,home,TRUE,Wisconsin,73,Badgers,Wisconsin Badgers,Wisconsin
+400549978,2014,post-season,2014-04-05,2,96,away,TRUE,Kentucky,74,Wildcats,Kentucky Wildcats,Kentucky

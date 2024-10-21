@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240070097,2004-01-07,2,97,home,FALSE,Louisville,76,Cardinals,Louisville Cardinals,Louisville
-240070097,2004-01-07,2,2572,away,FALSE,Southern Miss,42,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
-240072655,2004-01-07,2,2655,home,FALSE,Tulane,44,Green Wave,Tulane Green Wave,Tulane
-240072655,2004-01-07,2,2132,away,FALSE,Cincinnati,71,Bearcats,Cincinnati Bearcats,Cincinnati
-240070153,2004-01-07,2,153,home,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
-240070153,2004-01-07,2,2390,away,FALSE,Miami,64,Hurricanes,Miami Hurricanes,Miami
-240072579,2004-01-07,2,2579,home,FALSE,South Carolina,62,Gamecocks,South Carolina Gamecocks,South Carolina
-240072579,2004-01-07,2,57,away,FALSE,Florida,65,Gators,Florida Gators,Florida
-240070183,2004-01-07,2,183,home,FALSE,Syracuse,65,Orange,Syracuse Orange,Syracuse
-240070183,2004-01-07,2,2599,away,FALSE,St. John's,59,Red Storm,St. John's Red Storm,St John's
-240070356,2004-01-07,2,356,home,FALSE,Illinois,85,Fighting Illini,Illinois Fighting Illini,Illinois
-240070356,2004-01-07,2,194,away,FALSE,Ohio State,63,Buckeyes,Ohio State Buckeyes,Ohio State
-240070238,2004-01-07,2,238,home,FALSE,Vanderbilt,59,Commodores,Vanderbilt Commodores,Vanderbilt
-240070238,2004-01-07,2,2,away,FALSE,Auburn,53,Tigers,Auburn Tigers,Auburn
-240070145,2004-01-07,2,145,home,FALSE,Ole Miss,54,Rebels,Ole Miss Rebels,Ole Miss
-240070145,2004-01-07,2,344,away,FALSE,Mississippi State,61,Bulldogs,Mississippi State Bulldogs,Mississippi St
-240070248,2004-01-07,2,248,home,FALSE,Houston,52,Cougars,Houston Cougars,Houston
-240070248,2004-01-07,2,269,away,FALSE,Marquette,65,Golden Eagles,Marquette Golden Eagles,Marquette
-240072294,2004-01-07,2,2294,home,FALSE,Iowa,71,Hawkeyes,Iowa Hawkeyes,Iowa
-240072294,2004-01-07,2,2509,away,FALSE,Purdue,61,Boilermakers,Purdue Boilermakers,Purdue
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240070097,2004,regular-season,2004-01-07,2,97,home,FALSE,Louisville,76,Cardinals,Louisville Cardinals,Louisville
+240070097,2004,regular-season,2004-01-07,2,2572,away,FALSE,Southern Miss,42,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
+240072655,2004,regular-season,2004-01-07,2,2655,home,FALSE,Tulane,44,Green Wave,Tulane Green Wave,Tulane
+240072655,2004,regular-season,2004-01-07,2,2132,away,FALSE,Cincinnati,71,Bearcats,Cincinnati Bearcats,Cincinnati
+240070153,2004,regular-season,2004-01-07,2,153,home,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
+240070153,2004,regular-season,2004-01-07,2,2390,away,FALSE,Miami,64,Hurricanes,Miami Hurricanes,Miami
+240072579,2004,regular-season,2004-01-07,2,2579,home,FALSE,South Carolina,62,Gamecocks,South Carolina Gamecocks,South Carolina
+240072579,2004,regular-season,2004-01-07,2,57,away,FALSE,Florida,65,Gators,Florida Gators,Florida
+240070183,2004,regular-season,2004-01-07,2,183,home,FALSE,Syracuse,65,Orange,Syracuse Orange,Syracuse
+240070183,2004,regular-season,2004-01-07,2,2599,away,FALSE,St. John's,59,Red Storm,St. John's Red Storm,St John's
+240070356,2004,regular-season,2004-01-07,2,356,home,FALSE,Illinois,85,Fighting Illini,Illinois Fighting Illini,Illinois
+240070356,2004,regular-season,2004-01-07,2,194,away,FALSE,Ohio State,63,Buckeyes,Ohio State Buckeyes,Ohio State
+240070238,2004,regular-season,2004-01-07,2,238,home,FALSE,Vanderbilt,59,Commodores,Vanderbilt Commodores,Vanderbilt
+240070238,2004,regular-season,2004-01-07,2,2,away,FALSE,Auburn,53,Tigers,Auburn Tigers,Auburn
+240070145,2004,regular-season,2004-01-07,2,145,home,FALSE,Ole Miss,54,Rebels,Ole Miss Rebels,Ole Miss
+240070145,2004,regular-season,2004-01-07,2,344,away,FALSE,Mississippi State,61,Bulldogs,Mississippi State Bulldogs,Mississippi St
+240070248,2004,regular-season,2004-01-07,2,248,home,FALSE,Houston,52,Cougars,Houston Cougars,Houston
+240070248,2004,regular-season,2004-01-07,2,269,away,FALSE,Marquette,65,Golden Eagles,Marquette Golden Eagles,Marquette
+240072294,2004,regular-season,2004-01-07,2,2294,home,FALSE,Iowa,71,Hawkeyes,Iowa Hawkeyes,Iowa
+240072294,2004,regular-season,2004-01-07,2,2509,away,FALSE,Purdue,61,Boilermakers,Purdue Boilermakers,Purdue

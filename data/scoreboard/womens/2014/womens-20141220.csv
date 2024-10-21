@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400590431,2014-12-20,2,2633,home,FALSE,Tennessee,59,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400590431,2014-12-20,2,24,away,FALSE,Stanford,40,Cardinal,Stanford Cardinal,Stanford
-400596639,2014-12-20,2,158,home,FALSE,Nebraska,83,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400596639,2014-12-20,2,2272,away,FALSE,High Point,57,Panthers,High Point Panthers,High Point
-400594966,2014-12-20,2,61,home,FALSE,Georgia,58,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-400594966,2014-12-20,2,231,away,FALSE,Furman,51,Paladins,Furman Paladins,Furman
-400592514,2014-12-20,2,314,home,FALSE,Iona,58,Gaels,Iona Gaels,Iona
-400592514,2014-12-20,2,164,away,FALSE,Rutgers,66,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400590015,2014-12-20,2,277,home,FALSE,West Virginia,69,Mountaineers,West Virginia Mountaineers,West Virginia
-400590015,2014-12-20,2,276,away,FALSE,Marshall,56,Thundering Herd,Marshall Thundering Herd,Marshall
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400590431,2015,regular-season,2014-12-20,2,2633,home,FALSE,Tennessee,59,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400590431,2015,regular-season,2014-12-20,2,24,away,FALSE,Stanford,40,Cardinal,Stanford Cardinal,Stanford
+400596639,2015,regular-season,2014-12-20,2,158,home,FALSE,Nebraska,83,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400596639,2015,regular-season,2014-12-20,2,2272,away,FALSE,High Point,57,Panthers,High Point Panthers,High Point
+400594966,2015,regular-season,2014-12-20,2,61,home,FALSE,Georgia,58,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+400594966,2015,regular-season,2014-12-20,2,231,away,FALSE,Furman,51,Paladins,Furman Paladins,Furman
+400592514,2015,regular-season,2014-12-20,2,314,home,FALSE,Iona,58,Gaels,Iona Gaels,Iona
+400592514,2015,regular-season,2014-12-20,2,164,away,FALSE,Rutgers,66,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400590015,2015,regular-season,2014-12-20,2,277,home,FALSE,West Virginia,69,Mountaineers,West Virginia Mountaineers,West Virginia
+400590015,2015,regular-season,2014-12-20,2,276,away,FALSE,Marshall,56,Thundering Herd,Marshall Thundering Herd,Marshall

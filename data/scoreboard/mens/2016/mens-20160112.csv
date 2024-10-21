@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400839366,2016-01-12,2,130,home,FALSE,Michigan,70,Wolverines,Michigan Wolverines,Michigan
-400839366,2016-01-12,2,120,away,FALSE,Maryland,67,Terrapins,Maryland Terrapins,Maryland
-400840239,2016-01-12,2,2752,home,FALSE,Xavier,84,Musketeers,Xavier Musketeers,Xavier
-400840239,2016-01-12,2,305,away,FALSE,DePaul,64,Blue Demons,DePaul Blue Demons,DePaul
-400839808,2016-01-12,2,258,home,FALSE,Virginia,66,Cavaliers,Virginia Cavaliers,Virginia
-400839808,2016-01-12,2,2390,away,FALSE,Miami,58,Hurricanes,Miami Hurricanes,Miami
-400840223,2016-01-12,2,156,home,FALSE,Creighton,48,Bluejays,Creighton Bluejays,Creighton
-400840223,2016-01-12,2,2507,away,FALSE,Providence,50,Friars,Providence Friars,Providence
-400830393,2016-01-12,2,96,home,FALSE,Kentucky,80,Wildcats,Kentucky Wildcats,Kentucky
-400830393,2016-01-12,2,344,away,FALSE,Mississippi State,74,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400830391,2016-01-12,2,245,home,FALSE,Texas A&M,71,Aggies,Texas A&M Aggies,Texas A&M
-400830391,2016-01-12,2,57,away,FALSE,Florida,68,Gators,Florida Gators,Florida
-400831514,2016-01-12,3,251,home,FALSE,Texas,94,Longhorns,Texas Longhorns,Texas
-400831514,2016-01-12,3,66,away,FALSE,Iowa State,91,Cyclones,Iowa State Cyclones,Iowa State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400839366,2016,regular-season,2016-01-12,2,130,home,FALSE,Michigan,70,Wolverines,Michigan Wolverines,Michigan
+400839366,2016,regular-season,2016-01-12,2,120,away,FALSE,Maryland,67,Terrapins,Maryland Terrapins,Maryland
+400840239,2016,regular-season,2016-01-12,2,2752,home,FALSE,Xavier,84,Musketeers,Xavier Musketeers,Xavier
+400840239,2016,regular-season,2016-01-12,2,305,away,FALSE,DePaul,64,Blue Demons,DePaul Blue Demons,DePaul
+400839808,2016,regular-season,2016-01-12,2,258,home,FALSE,Virginia,66,Cavaliers,Virginia Cavaliers,Virginia
+400839808,2016,regular-season,2016-01-12,2,2390,away,FALSE,Miami,58,Hurricanes,Miami Hurricanes,Miami
+400840223,2016,regular-season,2016-01-12,2,156,home,FALSE,Creighton,48,Bluejays,Creighton Bluejays,Creighton
+400840223,2016,regular-season,2016-01-12,2,2507,away,FALSE,Providence,50,Friars,Providence Friars,Providence
+400830393,2016,regular-season,2016-01-12,2,96,home,FALSE,Kentucky,80,Wildcats,Kentucky Wildcats,Kentucky
+400830393,2016,regular-season,2016-01-12,2,344,away,FALSE,Mississippi State,74,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400830391,2016,regular-season,2016-01-12,2,245,home,FALSE,Texas A&M,71,Aggies,Texas A&M Aggies,Texas A&M
+400830391,2016,regular-season,2016-01-12,2,57,away,FALSE,Florida,68,Gators,Florida Gators,Florida
+400831514,2016,regular-season,2016-01-12,3,251,home,FALSE,Texas,94,Longhorns,Texas Longhorns,Texas
+400831514,2016,regular-season,2016-01-12,3,66,away,FALSE,Iowa State,91,Cyclones,Iowa State Cyclones,Iowa State

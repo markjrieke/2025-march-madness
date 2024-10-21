@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400987855,2017-11-19,4,2579,home,FALSE,South Carolina,94,Gamecocks,South Carolina Gamecocks,South Carolina
-400987855,2017-11-19,4,2747,away,FALSE,Wofford,60,Terriers,Wofford Terriers,Wofford
-400994354,2017-11-19,4,204,home,FALSE,Oregon State,67,Beavers,Oregon State Beavers,Oregon St
-400994354,2017-11-19,4,87,away,FALSE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400987778,2017-11-19,4,344,home,FALSE,Mississippi State,91,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400987778,2017-11-19,4,2572,away,FALSE,Southern Miss,56,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-400993772,2017-11-19,4,194,home,FALSE,Ohio State,85,Buckeyes,Ohio State Buckeyes,Ohio State
-400993772,2017-11-19,4,264,away,FALSE,Washington,76,Huskies,Washington Huskies,Washington
-400994918,2017-11-19,4,222,home,FALSE,Villanova,64,Wildcats,Villanova Wildcats,Villanova
-400994918,2017-11-19,4,150,away,FALSE,Duke,55,Blue Devils,Duke Blue Devils,Duke
-400993858,2017-11-19,4,277,home,FALSE,West Virginia,87,Mountaineers,West Virginia Mountaineers,West Virginia
-400993858,2017-11-19,4,2454,away,FALSE,North Florida,59,Ospreys,North Florida Ospreys,North Florida
-400994356,2017-11-19,4,24,home,FALSE,Stanford,57,Cardinal,Stanford Cardinal,Stanford
-400994356,2017-11-19,4,2934,away,FALSE,Cal State Bakersfield,34,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
-400995745,2017-11-19,4,269,home,FALSE,Marquette,83,Golden Eagles,Marquette Golden Eagles,Marquette
-400995745,2017-11-19,4,2352,away,FALSE,Loyola Maryland,63,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-400994922,2017-11-19,4,2755,home,FALSE,Grambling,53,Lady Tigers,Grambling Lady Tigers,Grambling
-400994922,2017-11-19,4,52,away,FALSE,Florida State,96,Seminoles,Florida State Seminoles,Florida St
-400994353,2017-11-19,4,225,home,FALSE,Brown,79,Bears,Brown Bears,Brown
-400994353,2017-11-19,4,25,away,FALSE,California,89,Golden Bears,California Golden Bears,California
-400987800,2017-11-19,4,2623,home,FALSE,Missouri State,59,Lady Bears,Missouri State Lady Bears,Missouri St
-400987800,2017-11-19,4,142,away,FALSE,Missouri,69,Tigers,Missouri Tigers,Missouri
-400987736,2017-11-19,4,265,home,FALSE,Washington State,68,Cougars,Washington State Cougars,Washington St
-400987736,2017-11-19,4,96,away,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400987855,2018,regular-season,2017-11-19,4,2579,home,FALSE,South Carolina,94,Gamecocks,South Carolina Gamecocks,South Carolina
+400987855,2018,regular-season,2017-11-19,4,2747,away,FALSE,Wofford,60,Terriers,Wofford Terriers,Wofford
+400994354,2018,regular-season,2017-11-19,4,204,home,FALSE,Oregon State,67,Beavers,Oregon State Beavers,Oregon St
+400994354,2018,regular-season,2017-11-19,4,87,away,FALSE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400987778,2018,regular-season,2017-11-19,4,344,home,FALSE,Mississippi State,91,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400987778,2018,regular-season,2017-11-19,4,2572,away,FALSE,Southern Miss,56,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+400993772,2018,regular-season,2017-11-19,4,194,home,FALSE,Ohio State,85,Buckeyes,Ohio State Buckeyes,Ohio State
+400993772,2018,regular-season,2017-11-19,4,264,away,FALSE,Washington,76,Huskies,Washington Huskies,Washington
+400994918,2018,regular-season,2017-11-19,4,222,home,FALSE,Villanova,64,Wildcats,Villanova Wildcats,Villanova
+400994918,2018,regular-season,2017-11-19,4,150,away,FALSE,Duke,55,Blue Devils,Duke Blue Devils,Duke
+400993858,2018,regular-season,2017-11-19,4,277,home,FALSE,West Virginia,87,Mountaineers,West Virginia Mountaineers,West Virginia
+400993858,2018,regular-season,2017-11-19,4,2454,away,FALSE,North Florida,59,Ospreys,North Florida Ospreys,North Florida
+400994356,2018,regular-season,2017-11-19,4,24,home,FALSE,Stanford,57,Cardinal,Stanford Cardinal,Stanford
+400994356,2018,regular-season,2017-11-19,4,2934,away,FALSE,Cal State Bakersfield,34,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+400995745,2018,regular-season,2017-11-19,4,269,home,FALSE,Marquette,83,Golden Eagles,Marquette Golden Eagles,Marquette
+400995745,2018,regular-season,2017-11-19,4,2352,away,FALSE,Loyola Maryland,63,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+400994922,2018,regular-season,2017-11-19,4,2755,home,FALSE,Grambling,53,Lady Tigers,Grambling Lady Tigers,Grambling
+400994922,2018,regular-season,2017-11-19,4,52,away,FALSE,Florida State,96,Seminoles,Florida State Seminoles,Florida St
+400994353,2018,regular-season,2017-11-19,4,225,home,FALSE,Brown,79,Bears,Brown Bears,Brown
+400994353,2018,regular-season,2017-11-19,4,25,away,FALSE,California,89,Golden Bears,California Golden Bears,California
+400987800,2018,regular-season,2017-11-19,4,2623,home,FALSE,Missouri State,59,Lady Bears,Missouri State Lady Bears,Missouri St
+400987800,2018,regular-season,2017-11-19,4,142,away,FALSE,Missouri,69,Tigers,Missouri Tigers,Missouri
+400987736,2018,regular-season,2017-11-19,4,265,home,FALSE,Washington State,68,Cougars,Washington State Cougars,Washington St
+400987736,2018,regular-season,2017-11-19,4,96,away,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky

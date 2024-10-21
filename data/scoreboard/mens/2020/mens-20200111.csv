@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401175242,2020-01-11,2,2351,home,FALSE,Loyola Marymount,62,Lions,Loyola Marymount Lions,LMU
-401175242,2020-01-11,2,2250,away,FALSE,Gonzaga,87,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401168357,2020-01-11,2,150,home,FALSE,Duke,90,Blue Devils,Duke Blue Devils,Duke
-401168357,2020-01-11,2,154,away,FALSE,Wake Forest,59,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-401169688,2020-01-11,2,2305,home,FALSE,Kansas,55,Jayhawks,Kansas Jayhawks,Kansas
-401169688,2020-01-11,2,239,away,FALSE,Baylor,67,Bears,Baylor Bears,Baylor
-401166287,2020-01-11,2,2,home,FALSE,Auburn,82,Tigers,Auburn Tigers,Auburn
-401166287,2020-01-11,2,61,away,FALSE,Georgia,60,Bulldogs,Georgia Bulldogs,Georgia
-401173731,2020-01-11,2,21,home,FALSE,San Diego State,83,Aztecs,San Diego State Aztecs,San Diego St
-401173731,2020-01-11,2,68,away,FALSE,Boise State,65,Broncos,Boise State Broncos,Boise St
-401170659,2020-01-11,2,2483,home,FALSE,Oregon,78,Ducks,Oregon Ducks,Oregon
-401170659,2020-01-11,2,9,away,FALSE,Arizona State,69,Sun Devils,Arizona State Sun Devils,Arizona St
-401166163,2020-01-11,2,84,home,FALSE,Indiana,66,Hoosiers,Indiana Hoosiers,Indiana
-401166163,2020-01-11,2,194,away,FALSE,Ohio State,54,Buckeyes,Ohio State Buckeyes,Ohio State
-401168508,2020-01-11,2,87,home,FALSE,Notre Dame,64,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401168508,2020-01-11,2,97,away,FALSE,Louisville,67,Cardinals,Louisville Cardinals,Louisville
-401166283,2020-01-11,2,96,home,FALSE,Kentucky,76,Wildcats,Kentucky Wildcats,Kentucky
-401166283,2020-01-11,2,333,away,FALSE,Alabama,67,Crimson Tide,Alabama Crimson Tide,Alabama
-401170229,2020-01-11,2,2168,home,FALSE,Dayton,88,Flyers,Dayton Flyers,Dayton
-401170229,2020-01-11,2,113,away,FALSE,Massachusetts,60,Minutemen,Massachusetts Minutemen,UMass
-401168396,2020-01-11,2,222,home,FALSE,Villanova,80,Wildcats,Villanova Wildcats,Villanova
-401168396,2020-01-11,2,46,away,FALSE,Georgetown,66,Hoyas,Georgetown Hoyas,Georgetown
-401169690,2020-01-11,2,277,home,FALSE,West Virginia,66,Mountaineers,West Virginia Mountaineers,West Virginia
-401169690,2020-01-11,2,2641,away,FALSE,Texas Tech,54,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401168475,2020-01-11,3,258,home,FALSE,Virginia,55,Cavaliers,Virginia Cavaliers,Virginia
-401168475,2020-01-11,3,183,away,FALSE,Syracuse,63,Orange,Syracuse Orange,Syracuse
-401166165,2020-01-11,2,213,home,FALSE,Penn State,49,Nittany Lions,Penn State Nittany Lions,Penn State
-401166165,2020-01-11,2,275,away,FALSE,Wisconsin,58,Badgers,Wisconsin Badgers,Wisconsin
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401175242,2020,regular-season,2020-01-11,2,2351,home,FALSE,Loyola Marymount,62,Lions,Loyola Marymount Lions,LMU
+401175242,2020,regular-season,2020-01-11,2,2250,away,FALSE,Gonzaga,87,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401168357,2020,regular-season,2020-01-11,2,150,home,FALSE,Duke,90,Blue Devils,Duke Blue Devils,Duke
+401168357,2020,regular-season,2020-01-11,2,154,away,FALSE,Wake Forest,59,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+401169688,2020,regular-season,2020-01-11,2,2305,home,FALSE,Kansas,55,Jayhawks,Kansas Jayhawks,Kansas
+401169688,2020,regular-season,2020-01-11,2,239,away,FALSE,Baylor,67,Bears,Baylor Bears,Baylor
+401166287,2020,regular-season,2020-01-11,2,2,home,FALSE,Auburn,82,Tigers,Auburn Tigers,Auburn
+401166287,2020,regular-season,2020-01-11,2,61,away,FALSE,Georgia,60,Bulldogs,Georgia Bulldogs,Georgia
+401173731,2020,regular-season,2020-01-11,2,21,home,FALSE,San Diego State,83,Aztecs,San Diego State Aztecs,San Diego St
+401173731,2020,regular-season,2020-01-11,2,68,away,FALSE,Boise State,65,Broncos,Boise State Broncos,Boise St
+401170659,2020,regular-season,2020-01-11,2,2483,home,FALSE,Oregon,78,Ducks,Oregon Ducks,Oregon
+401170659,2020,regular-season,2020-01-11,2,9,away,FALSE,Arizona State,69,Sun Devils,Arizona State Sun Devils,Arizona St
+401166163,2020,regular-season,2020-01-11,2,84,home,FALSE,Indiana,66,Hoosiers,Indiana Hoosiers,Indiana
+401166163,2020,regular-season,2020-01-11,2,194,away,FALSE,Ohio State,54,Buckeyes,Ohio State Buckeyes,Ohio State
+401168508,2020,regular-season,2020-01-11,2,87,home,FALSE,Notre Dame,64,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401168508,2020,regular-season,2020-01-11,2,97,away,FALSE,Louisville,67,Cardinals,Louisville Cardinals,Louisville
+401166283,2020,regular-season,2020-01-11,2,96,home,FALSE,Kentucky,76,Wildcats,Kentucky Wildcats,Kentucky
+401166283,2020,regular-season,2020-01-11,2,333,away,FALSE,Alabama,67,Crimson Tide,Alabama Crimson Tide,Alabama
+401170229,2020,regular-season,2020-01-11,2,2168,home,FALSE,Dayton,88,Flyers,Dayton Flyers,Dayton
+401170229,2020,regular-season,2020-01-11,2,113,away,FALSE,Massachusetts,60,Minutemen,Massachusetts Minutemen,UMass
+401168396,2020,regular-season,2020-01-11,2,222,home,FALSE,Villanova,80,Wildcats,Villanova Wildcats,Villanova
+401168396,2020,regular-season,2020-01-11,2,46,away,FALSE,Georgetown,66,Hoyas,Georgetown Hoyas,Georgetown
+401169690,2020,regular-season,2020-01-11,2,277,home,FALSE,West Virginia,66,Mountaineers,West Virginia Mountaineers,West Virginia
+401169690,2020,regular-season,2020-01-11,2,2641,away,FALSE,Texas Tech,54,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401168475,2020,regular-season,2020-01-11,3,258,home,FALSE,Virginia,55,Cavaliers,Virginia Cavaliers,Virginia
+401168475,2020,regular-season,2020-01-11,3,183,away,FALSE,Syracuse,63,Orange,Syracuse Orange,Syracuse
+401166165,2020,regular-season,2020-01-11,2,213,home,FALSE,Penn State,49,Nittany Lions,Penn State Nittany Lions,Penn State
+401166165,2020,regular-season,2020-01-11,2,275,away,FALSE,Wisconsin,58,Badgers,Wisconsin Badgers,Wisconsin

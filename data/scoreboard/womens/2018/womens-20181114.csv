@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401094387,2018-11-14,4,328,home,FALSE,Utah State,58,Aggies,Utah State Aggies,Utah State
-401094387,2018-11-14,4,2483,away,FALSE,Oregon,88,Ducks,Oregon Ducks,Oregon
-401095359,2018-11-14,4,204,home,FALSE,Oregon State,89,Beavers,Oregon State Beavers,Oregon St
-401095359,2018-11-14,4,2029,away,FALSE,Arkansas-Pine Bluff,33,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-401090707,2018-11-14,4,45,home,FALSE,George Washington,30,Revolutionaries,George Washington Revolutionaries,G Washington
-401090707,2018-11-14,4,120,away,FALSE,Maryland,69,Terrapins,Maryland Terrapins,Maryland
-401091418,2018-11-14,4,2633,home,FALSE,Tennessee,73,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401091418,2018-11-14,4,2427,away,FALSE,UNC Asheville,46,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-401091420,2018-11-14,4,26,home,FALSE,UCLA,80,Bruins,UCLA Bruins,UCLA
-401091420,2018-11-14,4,61,away,FALSE,Georgia,69,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-401091421,2018-11-14,4,183,home,TRUE,Syracuse,75,Orange,Syracuse Orange,Syracuse
-401091421,2018-11-14,4,245,away,TRUE,Texas A&M,65,Aggies,Texas A&M Aggies,Texas A&M
-401091010,2018-11-14,4,2752,home,FALSE,Xavier,53,Musketeers,Xavier Musketeers,Xavier
-401091010,2018-11-14,4,135,away,FALSE,Minnesota,78,Golden Gophers,Minnesota Golden Gophers,Minnesota
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401094387,2019,regular-season,2018-11-14,4,328,home,FALSE,Utah State,58,Aggies,Utah State Aggies,Utah State
+401094387,2019,regular-season,2018-11-14,4,2483,away,FALSE,Oregon,88,Ducks,Oregon Ducks,Oregon
+401095359,2019,regular-season,2018-11-14,4,204,home,FALSE,Oregon State,89,Beavers,Oregon State Beavers,Oregon St
+401095359,2019,regular-season,2018-11-14,4,2029,away,FALSE,Arkansas-Pine Bluff,33,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+401090707,2019,regular-season,2018-11-14,4,45,home,FALSE,George Washington,30,Revolutionaries,George Washington Revolutionaries,G Washington
+401090707,2019,regular-season,2018-11-14,4,120,away,FALSE,Maryland,69,Terrapins,Maryland Terrapins,Maryland
+401091418,2019,regular-season,2018-11-14,4,2633,home,FALSE,Tennessee,73,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401091418,2019,regular-season,2018-11-14,4,2427,away,FALSE,UNC Asheville,46,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+401091420,2019,regular-season,2018-11-14,4,26,home,FALSE,UCLA,80,Bruins,UCLA Bruins,UCLA
+401091420,2019,regular-season,2018-11-14,4,61,away,FALSE,Georgia,69,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+401091421,2019,regular-season,2018-11-14,4,183,home,TRUE,Syracuse,75,Orange,Syracuse Orange,Syracuse
+401091421,2019,regular-season,2018-11-14,4,245,away,TRUE,Texas A&M,65,Aggies,Texas A&M Aggies,Texas A&M
+401091010,2019,regular-season,2018-11-14,4,2752,home,FALSE,Xavier,53,Musketeers,Xavier Musketeers,Xavier
+401091010,2019,regular-season,2018-11-14,4,135,away,FALSE,Minnesota,78,Golden Gophers,Minnesota Golden Gophers,Minnesota

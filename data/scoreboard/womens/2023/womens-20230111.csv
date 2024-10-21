@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401487188,2023-01-11,4,2599,home,FALSE,St. John's,52,Red Storm,St. John's Red Storm,St John's
-401487188,2023-01-11,4,41,away,FALSE,UConn,82,Huskies,UConn Huskies,UConn
-401484691,2023-01-11,4,2294,home,FALSE,Iowa,93,Hawkeyes,Iowa Hawkeyes,Iowa
-401484691,2023-01-11,4,77,away,FALSE,Northwestern,64,Wildcats,Northwestern Wildcats,Northwestern
-401494147,2023-01-11,4,66,home,FALSE,Iowa State,67,Cyclones,Iowa State Cyclones,Iowa State
-401494147,2023-01-11,4,2306,away,FALSE,Kansas State,56,Wildcats,Kansas State Wildcats,Kansas St
-401494149,2023-01-11,4,239,home,FALSE,Baylor,65,Bears,Baylor Bears,Baylor
-401494149,2023-01-11,4,197,away,FALSE,Oklahoma State,70,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-401494148,2023-01-11,4,2641,home,FALSE,Texas Tech,79,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-401494148,2023-01-11,4,201,away,FALSE,Oklahoma,89,Sooners,Oklahoma Sooners,Oklahoma
-401487187,2023-01-11,4,305,home,FALSE,DePaul,64,Blue Demons,DePaul Blue Demons,DePaul
-401487187,2023-01-11,4,222,away,FALSE,Villanova,71,Wildcats,Villanova Wildcats,Villanova
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401487188,2023,regular-season,2023-01-11,4,2599,home,FALSE,St. John's,52,Red Storm,St. John's Red Storm,St John's
+401487188,2023,regular-season,2023-01-11,4,41,away,FALSE,UConn,82,Huskies,UConn Huskies,UConn
+401484691,2023,regular-season,2023-01-11,4,2294,home,FALSE,Iowa,93,Hawkeyes,Iowa Hawkeyes,Iowa
+401484691,2023,regular-season,2023-01-11,4,77,away,FALSE,Northwestern,64,Wildcats,Northwestern Wildcats,Northwestern
+401494147,2023,regular-season,2023-01-11,4,66,home,FALSE,Iowa State,67,Cyclones,Iowa State Cyclones,Iowa State
+401494147,2023,regular-season,2023-01-11,4,2306,away,FALSE,Kansas State,56,Wildcats,Kansas State Wildcats,Kansas St
+401494149,2023,regular-season,2023-01-11,4,239,home,FALSE,Baylor,65,Bears,Baylor Bears,Baylor
+401494149,2023,regular-season,2023-01-11,4,197,away,FALSE,Oklahoma State,70,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+401494148,2023,regular-season,2023-01-11,4,2641,home,FALSE,Texas Tech,79,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+401494148,2023,regular-season,2023-01-11,4,201,away,FALSE,Oklahoma,89,Sooners,Oklahoma Sooners,Oklahoma
+401487187,2023,regular-season,2023-01-11,4,305,home,FALSE,DePaul,64,Blue Demons,DePaul Blue Demons,DePaul
+401487187,2023,regular-season,2023-01-11,4,222,away,FALSE,Villanova,71,Wildcats,Villanova Wildcats,Villanova

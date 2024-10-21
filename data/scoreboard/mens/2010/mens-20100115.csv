@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300162520,2010-01-15,2,2520,home,FALSE,Rider,66,Broncs,Rider Broncs,Rider
-300162520,2010-01-15,2,2612,away,FALSE,Saint Peter's,77,Peacocks,Saint Peter's Peacocks,Saint Peter's
-300162352,2010-01-15,2,2352,home,FALSE,Loyola Maryland,68,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-300162352,2010-01-15,2,2368,away,FALSE,Marist,61,Red Foxes,Marist Red Foxes,Marist
-300152908,2010-01-15,2,2908,home,FALSE,South Carolina Upstate,57,Spartans,South Carolina Upstate Spartans,SC Upstate
-300152908,2010-01-15,2,2382,away,FALSE,Mercer,60,Bears,Mercer Bears,Mercer
-300150043,2010-01-15,2,43,home,FALSE,Yale,66,Bulldogs,Yale Bulldogs,Yale
-300150043,2010-01-15,2,225,away,FALSE,Brown,75,Bears,Brown Bears,Brown
-300152449,2010-01-15,2,2449,home,FALSE,North Dakota State,79,Bison,North Dakota State Bison,N Dakota St
-300152449,2010-01-15,2,2571,away,FALSE,South Dakota State,67,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-300152428,2010-01-15,2,2428,home,FALSE,North Carolina Central,75,Eagles,North Carolina Central Eagles,NC Central
-300152428,2010-01-15,2,2631,away,FALSE,Tennessee Temple,50,Crusaders,Tennessee Temple Crusaders,Tn Temple
-300150331,2010-01-15,2,331,home,FALSE,Eastern Washington,69,Eagles,Eastern Washington Eagles,E Washington
-300150331,2010-01-15,2,2464,away,FALSE,Northern Arizona,73,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
-300160082,2010-01-15,2,82,home,FALSE,UIC,50,Flames,UIC Flames,UIC
-300160082,2010-01-15,2,2350,away,FALSE,Loyola Chicago,55,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-300160016,2010-01-15,2,16,home,FALSE,Sacramento State,56,Hornets,Sacramento State Hornets,Sacramento St
-300160016,2010-01-15,2,149,away,FALSE,Montana,57,Grizzlies,Montana Grizzlies,Montana
-300152502,2010-01-15,2,2502,home,FALSE,Portland State,85,Vikings,Portland State Vikings,Portland St
-300152502,2010-01-15,2,2458,away,FALSE,Northern Colorado,69,Bears,Northern Colorado Bears,N Colorado
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300162520,2010,regular-season,2010-01-15,2,2520,home,FALSE,Rider,66,Broncs,Rider Broncs,Rider
+300162520,2010,regular-season,2010-01-15,2,2612,away,FALSE,Saint Peter's,77,Peacocks,Saint Peter's Peacocks,Saint Peter's
+300162352,2010,regular-season,2010-01-15,2,2352,home,FALSE,Loyola Maryland,68,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+300162352,2010,regular-season,2010-01-15,2,2368,away,FALSE,Marist,61,Red Foxes,Marist Red Foxes,Marist
+300152908,2010,regular-season,2010-01-15,2,2908,home,FALSE,South Carolina Upstate,57,Spartans,South Carolina Upstate Spartans,SC Upstate
+300152908,2010,regular-season,2010-01-15,2,2382,away,FALSE,Mercer,60,Bears,Mercer Bears,Mercer
+300150043,2010,regular-season,2010-01-15,2,43,home,FALSE,Yale,66,Bulldogs,Yale Bulldogs,Yale
+300150043,2010,regular-season,2010-01-15,2,225,away,FALSE,Brown,75,Bears,Brown Bears,Brown
+300152449,2010,regular-season,2010-01-15,2,2449,home,FALSE,North Dakota State,79,Bison,North Dakota State Bison,N Dakota St
+300152449,2010,regular-season,2010-01-15,2,2571,away,FALSE,South Dakota State,67,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+300152428,2010,regular-season,2010-01-15,2,2428,home,FALSE,North Carolina Central,75,Eagles,North Carolina Central Eagles,NC Central
+300152428,2010,regular-season,2010-01-15,2,2631,away,FALSE,Tennessee Temple,50,Crusaders,Tennessee Temple Crusaders,Tn Temple
+300150331,2010,regular-season,2010-01-15,2,331,home,FALSE,Eastern Washington,69,Eagles,Eastern Washington Eagles,E Washington
+300150331,2010,regular-season,2010-01-15,2,2464,away,FALSE,Northern Arizona,73,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+300160082,2010,regular-season,2010-01-15,2,82,home,FALSE,UIC,50,Flames,UIC Flames,UIC
+300160082,2010,regular-season,2010-01-15,2,2350,away,FALSE,Loyola Chicago,55,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+300160016,2010,regular-season,2010-01-15,2,16,home,FALSE,Sacramento State,56,Hornets,Sacramento State Hornets,Sacramento St
+300160016,2010,regular-season,2010-01-15,2,149,away,FALSE,Montana,57,Grizzlies,Montana Grizzlies,Montana
+300152502,2010,regular-season,2010-01-15,2,2502,home,FALSE,Portland State,85,Vikings,Portland State Vikings,Portland St
+300152502,2010,regular-season,2010-01-15,2,2458,away,FALSE,Northern Colorado,69,Bears,Northern Colorado Bears,N Colorado

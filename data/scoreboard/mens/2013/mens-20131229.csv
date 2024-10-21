@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400500051,2013-12-29,2,2724,home,FALSE,Wichita State,81,Shockers,Wichita State Shockers,Wichita St
-400500051,2013-12-29,2,2166,away,FALSE,Davidson,70,Wildcats,Davidson Wildcats,Davidson
-400507044,2013-12-29,2,2483,home,FALSE,Oregon,97,Ducks,Oregon Ducks,Oregon
-400507044,2013-12-29,2,2415,away,FALSE,Morgan State,76,Bears,Morgan State Bears,Morgan St
-400506339,2013-12-29,2,57,home,FALSE,Florida,76,Gators,Florida Gators,Florida
-400506339,2013-12-29,2,2542,away,FALSE,Savannah State,34,Tigers,Savannah State Tigers,Savannah St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400500051,2014,regular-season,2013-12-29,2,2724,home,FALSE,Wichita State,81,Shockers,Wichita State Shockers,Wichita St
+400500051,2014,regular-season,2013-12-29,2,2166,away,FALSE,Davidson,70,Wildcats,Davidson Wildcats,Davidson
+400507044,2014,regular-season,2013-12-29,2,2483,home,FALSE,Oregon,97,Ducks,Oregon Ducks,Oregon
+400507044,2014,regular-season,2013-12-29,2,2415,away,FALSE,Morgan State,76,Bears,Morgan State Bears,Morgan St
+400506339,2014,regular-season,2013-12-29,2,57,home,FALSE,Florida,76,Gators,Florida Gators,Florida
+400506339,2014,regular-season,2013-12-29,2,2542,away,FALSE,Savannah State,34,Tigers,Savannah State Tigers,Savannah St

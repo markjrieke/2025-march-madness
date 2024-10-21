@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400913946,2017-01-20,4,24,home,FALSE,Stanford,73,Cardinal,Stanford Cardinal,Stanford
-400913946,2017-01-20,4,12,away,FALSE,Arizona,46,Wildcats,Arizona Wildcats,Arizona
-400913947,2017-01-20,4,204,home,FALSE,Oregon State,70,Beavers,Oregon State Beavers,Oregon St
-400913947,2017-01-20,4,254,away,FALSE,Utah,44,Utes,Utah Utes,Utah
-400913948,2017-01-20,4,25,home,FALSE,California,45,Golden Bears,California Golden Bears,California
-400913948,2017-01-20,4,9,away,FALSE,Arizona State,54,Sun Devils,Arizona State Sun Devils,Arizona St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400913946,2017,regular-season,2017-01-20,4,24,home,FALSE,Stanford,73,Cardinal,Stanford Cardinal,Stanford
+400913946,2017,regular-season,2017-01-20,4,12,away,FALSE,Arizona,46,Wildcats,Arizona Wildcats,Arizona
+400913947,2017,regular-season,2017-01-20,4,204,home,FALSE,Oregon State,70,Beavers,Oregon State Beavers,Oregon St
+400913947,2017,regular-season,2017-01-20,4,254,away,FALSE,Utah,44,Utes,Utah Utes,Utah
+400913948,2017,regular-season,2017-01-20,4,25,home,FALSE,California,45,Golden Bears,California Golden Bears,California
+400913948,2017,regular-season,2017-01-20,4,9,away,FALSE,Arizona State,54,Sun Devils,Arizona State Sun Devils,Arizona St

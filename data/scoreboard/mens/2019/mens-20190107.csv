@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401086003,2019-01-07,2,2217,home,FALSE,Fairfield,77,Stags,Fairfield Stags,Fairfield
-401086003,2019-01-07,2,315,away,FALSE,Niagara,59,Purple Eagles,Niagara Purple Eagles,Niagara
-401090281,2019-01-07,3,2415,home,FALSE,Morgan State,87,Bears,Morgan State Bears,Morgan St
-401090281,2019-01-07,3,2542,away,FALSE,Savannah State,88,Tigers,Savannah State Tigers,Savannah St
-401090258,2019-01-07,2,2379,home,FALSE,Maryland Eastern Shore,39,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-401090258,2019-01-07,2,47,away,FALSE,Howard,79,Bison,Howard Bison,Howard
-401089978,2019-01-07,2,2169,home,FALSE,Delaware State,60,Hornets,Delaware State Hornets,Delaware St
-401089978,2019-01-07,2,2154,away,FALSE,Coppin State,64,Eagles,Coppin State Eagles,Coppin St
-401090375,2019-01-07,2,2450,home,FALSE,Norfolk State,72,Spartans,Norfolk State Spartans,Norfolk St
-401090375,2019-01-07,2,50,away,FALSE,Florida A&M,62,Rattlers,Florida A&M Rattlers,Florida A&M
-401089001,2019-01-07,3,2010,home,FALSE,Alabama A&M,65,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
-401089001,2019-01-07,3,2755,away,FALSE,Grambling,60,Tigers,Grambling Tigers,Grambling
-401088915,2019-01-07,2,2011,home,FALSE,Alabama State,59,Hornets,Alabama State Hornets,Alabama St
-401088915,2019-01-07,2,2296,away,FALSE,Jackson State,57,Tigers,Jackson State Tigers,Jackson St
-401088591,2019-01-07,2,2016,home,FALSE,Alcorn State,54,Braves,Alcorn State Braves,Alcorn St
-401088591,2019-01-07,2,2504,away,FALSE,Prairie View A&M,57,Panthers,Prairie View A&M Panthers,Prairie View
-401088538,2019-01-07,2,2582,home,FALSE,Southern,67,Jaguars,Southern Jaguars,Southern
-401088538,2019-01-07,2,2640,away,FALSE,Texas Southern,77,Tigers,Texas Southern Tigers,Texas Southern
-401086892,2019-01-07,2,2458,home,FALSE,Northern Colorado,75,Bears,Northern Colorado Bears,N Colorado
-401086892,2019-01-07,2,331,away,FALSE,Eastern Washington,63,Eagles,Eastern Washington Eagles,E Washington
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401086003,2019,regular-season,2019-01-07,2,2217,home,FALSE,Fairfield,77,Stags,Fairfield Stags,Fairfield
+401086003,2019,regular-season,2019-01-07,2,315,away,FALSE,Niagara,59,Purple Eagles,Niagara Purple Eagles,Niagara
+401090281,2019,regular-season,2019-01-07,3,2415,home,FALSE,Morgan State,87,Bears,Morgan State Bears,Morgan St
+401090281,2019,regular-season,2019-01-07,3,2542,away,FALSE,Savannah State,88,Tigers,Savannah State Tigers,Savannah St
+401090258,2019,regular-season,2019-01-07,2,2379,home,FALSE,Maryland Eastern Shore,39,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+401090258,2019,regular-season,2019-01-07,2,47,away,FALSE,Howard,79,Bison,Howard Bison,Howard
+401089978,2019,regular-season,2019-01-07,2,2169,home,FALSE,Delaware State,60,Hornets,Delaware State Hornets,Delaware St
+401089978,2019,regular-season,2019-01-07,2,2154,away,FALSE,Coppin State,64,Eagles,Coppin State Eagles,Coppin St
+401090375,2019,regular-season,2019-01-07,2,2450,home,FALSE,Norfolk State,72,Spartans,Norfolk State Spartans,Norfolk St
+401090375,2019,regular-season,2019-01-07,2,50,away,FALSE,Florida A&M,62,Rattlers,Florida A&M Rattlers,Florida A&M
+401089001,2019,regular-season,2019-01-07,3,2010,home,FALSE,Alabama A&M,65,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+401089001,2019,regular-season,2019-01-07,3,2755,away,FALSE,Grambling,60,Tigers,Grambling Tigers,Grambling
+401088915,2019,regular-season,2019-01-07,2,2011,home,FALSE,Alabama State,59,Hornets,Alabama State Hornets,Alabama St
+401088915,2019,regular-season,2019-01-07,2,2296,away,FALSE,Jackson State,57,Tigers,Jackson State Tigers,Jackson St
+401088591,2019,regular-season,2019-01-07,2,2016,home,FALSE,Alcorn State,54,Braves,Alcorn State Braves,Alcorn St
+401088591,2019,regular-season,2019-01-07,2,2504,away,FALSE,Prairie View A&M,57,Panthers,Prairie View A&M Panthers,Prairie View
+401088538,2019,regular-season,2019-01-07,2,2582,home,FALSE,Southern,67,Jaguars,Southern Jaguars,Southern
+401088538,2019,regular-season,2019-01-07,2,2640,away,FALSE,Texas Southern,77,Tigers,Texas Southern Tigers,Texas Southern
+401086892,2019,regular-season,2019-01-07,2,2458,home,FALSE,Northern Colorado,75,Bears,Northern Colorado Bears,N Colorado
+401086892,2019,regular-season,2019-01-07,2,331,away,FALSE,Eastern Washington,63,Eagles,Eastern Washington Eagles,E Washington

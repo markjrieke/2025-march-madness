@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300280024,2010-01-28,2,24,home,FALSE,Stanford,71,Cardinal,Stanford Cardinal,Stanford
-300280024,2010-01-28,2,9,away,FALSE,Arizona State,48,Sun Devils,Arizona State Sun Devils,Arizona St
-300280194,2010-01-28,2,194,home,FALSE,Ohio State,81,Buckeyes,Ohio State Buckeyes,Ohio State
-300280194,2010-01-28,2,135,away,FALSE,Minnesota,58,Golden Gophers,Minnesota Golden Gophers,Minnesota
-300282633,2010-01-28,2,2633,home,FALSE,Tennessee,85,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-300282633,2010-01-28,2,2,away,FALSE,Auburn,56,Tigers,Auburn Tigers,Auburn
-300280344,2010-01-28,2,344,home,FALSE,Mississippi State,74,Bulldogs,Mississippi State Bulldogs,Mississippi St
-300280344,2010-01-28,2,61,away,FALSE,Georgia,66,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-300280099,2010-01-28,2,99,home,FALSE,LSU,62,Tigers,LSU Tigers,LSU
-300280099,2010-01-28,2,96,away,FALSE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
-300280213,2010-01-28,3,213,home,FALSE,Penn State,76,Lady Lions,Penn State Lady Lions,Penn State
-300280213,2010-01-28,3,2509,away,FALSE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
-300282739,2010-01-28,2,2739,home,FALSE,Green Bay,73,Phoenix,Green Bay Phoenix,Green Bay
-300282739,2010-01-28,2,2086,away,FALSE,Butler,62,Bulldogs,Butler Bulldogs,Butler
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300280024,2010,regular-season,2010-01-28,2,24,home,FALSE,Stanford,71,Cardinal,Stanford Cardinal,Stanford
+300280024,2010,regular-season,2010-01-28,2,9,away,FALSE,Arizona State,48,Sun Devils,Arizona State Sun Devils,Arizona St
+300280194,2010,regular-season,2010-01-28,2,194,home,FALSE,Ohio State,81,Buckeyes,Ohio State Buckeyes,Ohio State
+300280194,2010,regular-season,2010-01-28,2,135,away,FALSE,Minnesota,58,Golden Gophers,Minnesota Golden Gophers,Minnesota
+300282633,2010,regular-season,2010-01-28,2,2633,home,FALSE,Tennessee,85,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+300282633,2010,regular-season,2010-01-28,2,2,away,FALSE,Auburn,56,Tigers,Auburn Tigers,Auburn
+300280344,2010,regular-season,2010-01-28,2,344,home,FALSE,Mississippi State,74,Bulldogs,Mississippi State Bulldogs,Mississippi St
+300280344,2010,regular-season,2010-01-28,2,61,away,FALSE,Georgia,66,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+300280099,2010,regular-season,2010-01-28,2,99,home,FALSE,LSU,62,Tigers,LSU Tigers,LSU
+300280099,2010,regular-season,2010-01-28,2,96,away,FALSE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
+300280213,2010,regular-season,2010-01-28,3,213,home,FALSE,Penn State,76,Lady Lions,Penn State Lady Lions,Penn State
+300280213,2010,regular-season,2010-01-28,3,2509,away,FALSE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
+300282739,2010,regular-season,2010-01-28,2,2739,home,FALSE,Green Bay,73,Phoenix,Green Bay Phoenix,Green Bay
+300282739,2010,regular-season,2010-01-28,2,2086,away,FALSE,Butler,62,Bulldogs,Butler Bulldogs,Butler

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230032306,2003-01-03,2,2306,home,FALSE,Kansas State,84,Wildcats,Kansas State Wildcats,Kansas St
-230032306,2003-01-03,2,2710,away,FALSE,Western Illinois,40,Leathernecks,Western Illinois Leathernecks,W Illinois
-230030024,2003-01-03,2,24,home,FALSE,Stanford,58,Cardinal,Stanford Cardinal,Stanford
-230030024,2003-01-03,2,201,away,FALSE,Oklahoma,38,Sooners,Oklahoma Sooners,Oklahoma
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230032306,2003,regular-season,2003-01-03,2,2306,home,FALSE,Kansas State,84,Wildcats,Kansas State Wildcats,Kansas St
+230032306,2003,regular-season,2003-01-03,2,2710,away,FALSE,Western Illinois,40,Leathernecks,Western Illinois Leathernecks,W Illinois
+230030024,2003,regular-season,2003-01-03,2,24,home,FALSE,Stanford,58,Cardinal,Stanford Cardinal,Stanford
+230030024,2003,regular-season,2003-01-03,2,201,away,FALSE,Oklahoma,38,Sooners,Oklahoma Sooners,Oklahoma

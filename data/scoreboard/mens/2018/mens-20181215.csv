@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401083358,2018-12-15,2,2305,home,FALSE,Kansas,74,Jayhawks,Kansas Jayhawks,Kansas
-401083358,2018-12-15,2,222,away,FALSE,Villanova,71,Wildcats,Villanova Wildcats,Villanova
-401082979,2018-12-15,2,235,home,FALSE,Memphis,92,Tigers,Memphis Tigers,Memphis
-401082979,2018-12-15,2,2633,away,FALSE,Tennessee,102,Volunteers,Tennessee Volunteers,Tennessee
-401083650,2018-12-15,2,153,home,FALSE,North Carolina,103,Tar Heels,North Carolina Tar Heels,North Carolina
-401083650,2018-12-15,2,2250,away,FALSE,Gonzaga,90,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401082455,2018-12-15,2,130,home,FALSE,Michigan,70,Wolverines,Michigan Wolverines,Michigan
-401082455,2018-12-15,2,2711,away,FALSE,Western Michigan,62,Broncos,Western Michigan Broncos,W Michigan
-401089495,2018-12-15,2,2440,home,FALSE,Nevada,72,Wolf Pack,Nevada Wolf Pack,Nevada
-401089495,2018-12-15,2,2571,away,FALSE,South Dakota State,68,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-401083170,2018-12-15,3,5,home,TRUE,UAB,71,Blazers,UAB Blazers,UAB
-401083170,2018-12-15,3,2,away,TRUE,Auburn,75,Tigers,Auburn Tigers,Auburn
-401083482,2018-12-15,2,2641,home,FALSE,Texas Tech,82,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401083482,2018-12-15,2,2000,away,FALSE,Abilene Christian,48,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
-401082554,2018-12-15,2,194,home,FALSE,Ohio State,73,Buckeyes,Ohio State Buckeyes,Ohio State
-401082554,2018-12-15,2,2083,away,FALSE,Bucknell,71,Bison,Bucknell Bison,Bucknell
-401083070,2018-12-15,2,344,home,FALSE,Mississippi State,70,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401083070,2018-12-15,2,2132,away,FALSE,Cincinnati,59,Bearcats,Cincinnati Bearcats,Cincinnati
-401083131,2018-12-15,2,96,home,FALSE,Kentucky,88,Wildcats,Kentucky Wildcats,Kentucky
-401083131,2018-12-15,2,254,away,FALSE,Utah,61,Utes,Utah Utes,Utah
-401083145,2018-12-15,2,61,home,FALSE,Georgia,74,Bulldogs,Georgia Bulldogs,Georgia
-401083145,2018-12-15,2,9,away,FALSE,Arizona State,76,Sun Devils,Arizona State Sun Devils,Arizona St
-401084030,2018-12-15,2,231,home,FALSE,Furman,93,Paladins,Furman Paladins,Furman
-401084030,2018-12-15,2,350,away,FALSE,UNC Wilmington,50,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
-401082788,2018-12-15,2,183,home,FALSE,Syracuse,62,Orange,Syracuse Orange,Syracuse
-401082788,2018-12-15,2,295,away,FALSE,Old Dominion,68,Monarchs,Old Dominion Monarchs,Old Dominion
-401083431,2018-12-15,2,2306,home,FALSE,Kansas State,71,Wildcats,Kansas State Wildcats,Kansas St
-401083431,2018-12-15,2,2247,away,FALSE,Georgia State,59,Panthers,Georgia State Panthers,Georgia St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401083358,2019,regular-season,2018-12-15,2,2305,home,FALSE,Kansas,74,Jayhawks,Kansas Jayhawks,Kansas
+401083358,2019,regular-season,2018-12-15,2,222,away,FALSE,Villanova,71,Wildcats,Villanova Wildcats,Villanova
+401082979,2019,regular-season,2018-12-15,2,235,home,FALSE,Memphis,92,Tigers,Memphis Tigers,Memphis
+401082979,2019,regular-season,2018-12-15,2,2633,away,FALSE,Tennessee,102,Volunteers,Tennessee Volunteers,Tennessee
+401083650,2019,regular-season,2018-12-15,2,153,home,FALSE,North Carolina,103,Tar Heels,North Carolina Tar Heels,North Carolina
+401083650,2019,regular-season,2018-12-15,2,2250,away,FALSE,Gonzaga,90,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401082455,2019,regular-season,2018-12-15,2,130,home,FALSE,Michigan,70,Wolverines,Michigan Wolverines,Michigan
+401082455,2019,regular-season,2018-12-15,2,2711,away,FALSE,Western Michigan,62,Broncos,Western Michigan Broncos,W Michigan
+401089495,2019,regular-season,2018-12-15,2,2440,home,FALSE,Nevada,72,Wolf Pack,Nevada Wolf Pack,Nevada
+401089495,2019,regular-season,2018-12-15,2,2571,away,FALSE,South Dakota State,68,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+401083170,2019,regular-season,2018-12-15,3,5,home,TRUE,UAB,71,Blazers,UAB Blazers,UAB
+401083170,2019,regular-season,2018-12-15,3,2,away,TRUE,Auburn,75,Tigers,Auburn Tigers,Auburn
+401083482,2019,regular-season,2018-12-15,2,2641,home,FALSE,Texas Tech,82,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401083482,2019,regular-season,2018-12-15,2,2000,away,FALSE,Abilene Christian,48,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
+401082554,2019,regular-season,2018-12-15,2,194,home,FALSE,Ohio State,73,Buckeyes,Ohio State Buckeyes,Ohio State
+401082554,2019,regular-season,2018-12-15,2,2083,away,FALSE,Bucknell,71,Bison,Bucknell Bison,Bucknell
+401083070,2019,regular-season,2018-12-15,2,344,home,FALSE,Mississippi State,70,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401083070,2019,regular-season,2018-12-15,2,2132,away,FALSE,Cincinnati,59,Bearcats,Cincinnati Bearcats,Cincinnati
+401083131,2019,regular-season,2018-12-15,2,96,home,FALSE,Kentucky,88,Wildcats,Kentucky Wildcats,Kentucky
+401083131,2019,regular-season,2018-12-15,2,254,away,FALSE,Utah,61,Utes,Utah Utes,Utah
+401083145,2019,regular-season,2018-12-15,2,61,home,FALSE,Georgia,74,Bulldogs,Georgia Bulldogs,Georgia
+401083145,2019,regular-season,2018-12-15,2,9,away,FALSE,Arizona State,76,Sun Devils,Arizona State Sun Devils,Arizona St
+401084030,2019,regular-season,2018-12-15,2,231,home,FALSE,Furman,93,Paladins,Furman Paladins,Furman
+401084030,2019,regular-season,2018-12-15,2,350,away,FALSE,UNC Wilmington,50,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+401082788,2019,regular-season,2018-12-15,2,183,home,FALSE,Syracuse,62,Orange,Syracuse Orange,Syracuse
+401082788,2019,regular-season,2018-12-15,2,295,away,FALSE,Old Dominion,68,Monarchs,Old Dominion Monarchs,Old Dominion
+401083431,2019,regular-season,2018-12-15,2,2306,home,FALSE,Kansas State,71,Wildcats,Kansas State Wildcats,Kansas St
+401083431,2019,regular-season,2018-12-15,2,2247,away,FALSE,Georgia State,59,Panthers,Georgia State Panthers,Georgia St

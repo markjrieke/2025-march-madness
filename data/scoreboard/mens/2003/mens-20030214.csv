@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230452099,2003-02-14,2,2099,home,FALSE,Canisius,76,Golden Griffins,Canisius Golden Griffins,Canisius
-230452099,2003-02-14,2,2352,away,FALSE,Loyola Maryland,64,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-230450399,2003-02-14,2,399,home,FALSE,UAlbany,82,Great Danes,UAlbany Great Danes,UAlbany
-230450399,2003-02-14,2,2619,away,FALSE,Stony Brook,74,Seawolves,Stony Brook Seawolves,Stony Brook
-230450219,2003-02-14,2,219,home,FALSE,Pennsylvania,68,Quakers,Pennsylvania Quakers,Penn
-230450219,2003-02-14,2,43,away,FALSE,Yale,57,Bulldogs,Yale Bulldogs,Yale
-230450159,2003-02-14,2,159,home,FALSE,Dartmouth,65,Big Green,Dartmouth Big Green,Dartmouth
-230450159,2003-02-14,2,172,away,FALSE,Cornell,56,Big Red,Cornell Big Red,Cornell
-230450108,2003-02-14,2,108,home,FALSE,Harvard,77,Crimson,Harvard Crimson,Harvard
-230450108,2003-02-14,2,171,away,FALSE,Columbia,63,Lions,Columbia Lions,Columbia
-230450163,2003-02-14,2,163,home,FALSE,Princeton,73,Tigers,Princeton Tigers,Princeton
-230450163,2003-02-14,2,225,away,FALSE,Brown,80,Bears,Brown Bears,Brown
-230452241,2003-02-14,2,2241,home,FALSE,Gardner-Webb,81,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-230452241,2003-02-14,2,2097,away,FALSE,Campbell,69,Fighting Camels,Campbell Fighting Camels,Campbell
-230452083,2003-02-14,2,2083,home,FALSE,Bucknell,59,Bison,Bucknell Bison,Bucknell
-230452083,2003-02-14,2,2426,away,FALSE,Navy,41,Midshipmen,Navy Midshipmen,Navy
-230452439,2003-02-14,2,2439,home,FALSE,UNLV,61,Rebels,UNLV Rebels,UNLV
-230452439,2003-02-14,2,252,away,FALSE,BYU,54,Cougars,BYU Cougars,BYU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230452099,2003,regular-season,2003-02-14,2,2099,home,FALSE,Canisius,76,Golden Griffins,Canisius Golden Griffins,Canisius
+230452099,2003,regular-season,2003-02-14,2,2352,away,FALSE,Loyola Maryland,64,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+230450399,2003,regular-season,2003-02-14,2,399,home,FALSE,UAlbany,82,Great Danes,UAlbany Great Danes,UAlbany
+230450399,2003,regular-season,2003-02-14,2,2619,away,FALSE,Stony Brook,74,Seawolves,Stony Brook Seawolves,Stony Brook
+230450219,2003,regular-season,2003-02-14,2,219,home,FALSE,Pennsylvania,68,Quakers,Pennsylvania Quakers,Penn
+230450219,2003,regular-season,2003-02-14,2,43,away,FALSE,Yale,57,Bulldogs,Yale Bulldogs,Yale
+230450159,2003,regular-season,2003-02-14,2,159,home,FALSE,Dartmouth,65,Big Green,Dartmouth Big Green,Dartmouth
+230450159,2003,regular-season,2003-02-14,2,172,away,FALSE,Cornell,56,Big Red,Cornell Big Red,Cornell
+230450108,2003,regular-season,2003-02-14,2,108,home,FALSE,Harvard,77,Crimson,Harvard Crimson,Harvard
+230450108,2003,regular-season,2003-02-14,2,171,away,FALSE,Columbia,63,Lions,Columbia Lions,Columbia
+230450163,2003,regular-season,2003-02-14,2,163,home,FALSE,Princeton,73,Tigers,Princeton Tigers,Princeton
+230450163,2003,regular-season,2003-02-14,2,225,away,FALSE,Brown,80,Bears,Brown Bears,Brown
+230452241,2003,regular-season,2003-02-14,2,2241,home,FALSE,Gardner-Webb,81,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+230452241,2003,regular-season,2003-02-14,2,2097,away,FALSE,Campbell,69,Fighting Camels,Campbell Fighting Camels,Campbell
+230452083,2003,regular-season,2003-02-14,2,2083,home,FALSE,Bucknell,59,Bison,Bucknell Bison,Bucknell
+230452083,2003,regular-season,2003-02-14,2,2426,away,FALSE,Navy,41,Midshipmen,Navy Midshipmen,Navy
+230452439,2003,regular-season,2003-02-14,2,2439,home,FALSE,UNLV,61,Rebels,UNLV Rebels,UNLV
+230452439,2003,regular-season,2003-02-14,2,252,away,FALSE,BYU,54,Cougars,BYU Cougars,BYU

@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263422459,2006-12-08,2,2459,home,FALSE,Northern Illinois,70,Huskies,Northern Illinois Huskies,N Illinois
-263422459,2006-12-08,2,290,away,FALSE,Georgia Southern,72,Eagles,Georgia Southern Eagles,GA Southern
-263422729,2006-12-08,2,2729,home,FALSE,William & Mary,61,Tribe,William & Mary Tribe,William & Mary
-263422729,2006-12-08,2,2454,away,FALSE,North Florida,44,Ospreys,North Florida Ospreys,North Florida
-263422352,2006-12-08,2,2352,home,FALSE,Loyola Maryland,55,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-263422352,2006-12-08,2,2612,away,FALSE,Saint Peter's,66,Peacocks,Saint Peter's Peacocks,Saint Peter's
-263420097,2006-12-08,2,97,home,FALSE,Louisville,74,Cardinals,Louisville Cardinals,Louisville
-263420097,2006-12-08,2,195,away,FALSE,Ohio,71,Bobcats,Ohio Bobcats,Ohio
-263422368,2006-12-08,2,2368,home,FALSE,Marist,80,Red Foxes,Marist Red Foxes,Marist
-263422368,2006-12-08,2,2099,away,FALSE,Canisius,69,Golden Griffins,Canisius Golden Griffins,Canisius
-263422217,2006-12-08,2,2217,home,FALSE,Fairfield,54,Stags,Fairfield Stags,Fairfield
-263422217,2006-12-08,2,2363,away,FALSE,Manhattan,57,Jaspers,Manhattan Jaspers,Manhattan
-263420301,2006-12-08,2,301,home,FALSE,San Diego,78,Toreros,San Diego Toreros,San Diego
-263420301,2006-12-08,2,2199,away,FALSE,Eastern Michigan,76,Eagles,Eastern Michigan Eagles,E Michigan
-263422294,2006-12-08,2,2294,home,FALSE,Iowa,77,Hawkeyes,Iowa Hawkeyes,Iowa
-263422294,2006-12-08,2,66,away,FALSE,Iowa State,59,Cyclones,Iowa State Cyclones,Iowa State
-263422181,2006-12-08,2,2181,home,FALSE,Drake,102,Bulldogs,Drake Bulldogs,Drake
-263422181,2006-12-08,2,2653,away,FALSE,Troy,90,Trojans,Troy Trojans,Troy
-263422603,2006-12-08,2,2603,home,FALSE,Saint Joseph's,75,Hawks,Saint Joseph's Hawks,Saint Joseph's
-263422603,2006-12-08,2,91,away,FALSE,Bellarmine,63,Knights,Bellarmine Knights,Bellarmine
-263420025,2006-12-08,2,25,home,FALSE,California,75,Golden Bears,California Golden Bears,California
-263420025,2006-12-08,2,2130,away,FALSE,Chicago State,51,Cougars,Chicago State Cougars,Chicago St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263422459,2007,regular-season,2006-12-08,2,2459,home,FALSE,Northern Illinois,70,Huskies,Northern Illinois Huskies,N Illinois
+263422459,2007,regular-season,2006-12-08,2,290,away,FALSE,Georgia Southern,72,Eagles,Georgia Southern Eagles,GA Southern
+263422729,2007,regular-season,2006-12-08,2,2729,home,FALSE,William & Mary,61,Tribe,William & Mary Tribe,William & Mary
+263422729,2007,regular-season,2006-12-08,2,2454,away,FALSE,North Florida,44,Ospreys,North Florida Ospreys,North Florida
+263422352,2007,regular-season,2006-12-08,2,2352,home,FALSE,Loyola Maryland,55,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+263422352,2007,regular-season,2006-12-08,2,2612,away,FALSE,Saint Peter's,66,Peacocks,Saint Peter's Peacocks,Saint Peter's
+263420097,2007,regular-season,2006-12-08,2,97,home,FALSE,Louisville,74,Cardinals,Louisville Cardinals,Louisville
+263420097,2007,regular-season,2006-12-08,2,195,away,FALSE,Ohio,71,Bobcats,Ohio Bobcats,Ohio
+263422368,2007,regular-season,2006-12-08,2,2368,home,FALSE,Marist,80,Red Foxes,Marist Red Foxes,Marist
+263422368,2007,regular-season,2006-12-08,2,2099,away,FALSE,Canisius,69,Golden Griffins,Canisius Golden Griffins,Canisius
+263422217,2007,regular-season,2006-12-08,2,2217,home,FALSE,Fairfield,54,Stags,Fairfield Stags,Fairfield
+263422217,2007,regular-season,2006-12-08,2,2363,away,FALSE,Manhattan,57,Jaspers,Manhattan Jaspers,Manhattan
+263420301,2007,regular-season,2006-12-08,2,301,home,FALSE,San Diego,78,Toreros,San Diego Toreros,San Diego
+263420301,2007,regular-season,2006-12-08,2,2199,away,FALSE,Eastern Michigan,76,Eagles,Eastern Michigan Eagles,E Michigan
+263422294,2007,regular-season,2006-12-08,2,2294,home,FALSE,Iowa,77,Hawkeyes,Iowa Hawkeyes,Iowa
+263422294,2007,regular-season,2006-12-08,2,66,away,FALSE,Iowa State,59,Cyclones,Iowa State Cyclones,Iowa State
+263422181,2007,regular-season,2006-12-08,2,2181,home,FALSE,Drake,102,Bulldogs,Drake Bulldogs,Drake
+263422181,2007,regular-season,2006-12-08,2,2653,away,FALSE,Troy,90,Trojans,Troy Trojans,Troy
+263422603,2007,regular-season,2006-12-08,2,2603,home,FALSE,Saint Joseph's,75,Hawks,Saint Joseph's Hawks,Saint Joseph's
+263422603,2007,regular-season,2006-12-08,2,91,away,FALSE,Bellarmine,63,Knights,Bellarmine Knights,Bellarmine
+263420025,2007,regular-season,2006-12-08,2,25,home,FALSE,California,75,Golden Bears,California Golden Bears,California
+263420025,2007,regular-season,2006-12-08,2,2130,away,FALSE,Chicago State,51,Cougars,Chicago State Cougars,Chicago St

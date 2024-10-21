@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240302247,2004-01-30,2,2247,home,FALSE,Georgia State,75,Panthers,Georgia State Panthers,Georgia St
-240302247,2004-01-30,2,294,away,FALSE,Jacksonville,77,Dolphins,Jacksonville Dolphins,Jacksonville
-240302363,2004-01-30,2,2363,home,FALSE,Manhattan,65,Jaspers,Manhattan Jaspers,Manhattan
-240302363,2004-01-30,2,315,away,FALSE,Niagara,62,Purple Eagles,Niagara Purple Eagles,Niagara
-240300225,2004-01-30,2,225,home,FALSE,Brown,49,Bears,Brown Bears,Brown
-240300225,2004-01-30,2,163,away,FALSE,Princeton,64,Tigers,Princeton Tigers,Princeton
-240300108,2004-01-30,2,108,home,FALSE,Harvard,79,Crimson,Harvard Crimson,Harvard
-240300108,2004-01-30,2,172,away,FALSE,Cornell,91,Big Red,Cornell Big Red,Cornell
-240302382,2004-01-30,2,2382,home,FALSE,Mercer,76,Bears,Mercer Bears,Mercer
-240302382,2004-01-30,2,56,away,FALSE,Stetson,62,Hatters,Stetson Hatters,Stetson
-240302329,2004-01-30,2,2329,home,FALSE,Lehigh,63,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-240302329,2004-01-30,2,107,away,FALSE,Holy Cross,53,Crusaders,Holy Cross Crusaders,Holy Cross
-240300314,2004-01-30,2,314,home,FALSE,Iona,70,Gaels,Iona Gaels,Iona
-240300314,2004-01-30,2,2099,away,FALSE,Canisius,66,Golden Griffins,Canisius Golden Griffins,Canisius
-240302083,2004-01-30,2,2083,home,FALSE,Bucknell,61,Bison,Bucknell Bison,Bucknell
-240302083,2004-01-30,2,2142,away,FALSE,Colgate,53,Raiders,Colgate Raiders,Colgate
-240302426,2004-01-30,2,2426,home,FALSE,Navy,50,Midshipmen,Navy Midshipmen,Navy
-240302426,2004-01-30,2,349,away,FALSE,Army,52,Black Knights,Army Black Knights,Army
-240300043,2004-01-30,2,43,home,FALSE,Yale,54,Bulldogs,Yale Bulldogs,Yale
-240300043,2004-01-30,2,219,away,FALSE,Pennsylvania,52,Quakers,Pennsylvania Quakers,Penn
-240300044,2004-01-30,3,44,home,FALSE,American University,83,Eagles,American University Eagles,American
-240300044,2004-01-30,3,322,away,FALSE,Lafayette,86,Leopards,Lafayette Leopards,Lafayette
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240302247,2004,regular-season,2004-01-30,2,2247,home,FALSE,Georgia State,75,Panthers,Georgia State Panthers,Georgia St
+240302247,2004,regular-season,2004-01-30,2,294,away,FALSE,Jacksonville,77,Dolphins,Jacksonville Dolphins,Jacksonville
+240302363,2004,regular-season,2004-01-30,2,2363,home,FALSE,Manhattan,65,Jaspers,Manhattan Jaspers,Manhattan
+240302363,2004,regular-season,2004-01-30,2,315,away,FALSE,Niagara,62,Purple Eagles,Niagara Purple Eagles,Niagara
+240300225,2004,regular-season,2004-01-30,2,225,home,FALSE,Brown,49,Bears,Brown Bears,Brown
+240300225,2004,regular-season,2004-01-30,2,163,away,FALSE,Princeton,64,Tigers,Princeton Tigers,Princeton
+240300108,2004,regular-season,2004-01-30,2,108,home,FALSE,Harvard,79,Crimson,Harvard Crimson,Harvard
+240300108,2004,regular-season,2004-01-30,2,172,away,FALSE,Cornell,91,Big Red,Cornell Big Red,Cornell
+240302382,2004,regular-season,2004-01-30,2,2382,home,FALSE,Mercer,76,Bears,Mercer Bears,Mercer
+240302382,2004,regular-season,2004-01-30,2,56,away,FALSE,Stetson,62,Hatters,Stetson Hatters,Stetson
+240302329,2004,regular-season,2004-01-30,2,2329,home,FALSE,Lehigh,63,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+240302329,2004,regular-season,2004-01-30,2,107,away,FALSE,Holy Cross,53,Crusaders,Holy Cross Crusaders,Holy Cross
+240300314,2004,regular-season,2004-01-30,2,314,home,FALSE,Iona,70,Gaels,Iona Gaels,Iona
+240300314,2004,regular-season,2004-01-30,2,2099,away,FALSE,Canisius,66,Golden Griffins,Canisius Golden Griffins,Canisius
+240302083,2004,regular-season,2004-01-30,2,2083,home,FALSE,Bucknell,61,Bison,Bucknell Bison,Bucknell
+240302083,2004,regular-season,2004-01-30,2,2142,away,FALSE,Colgate,53,Raiders,Colgate Raiders,Colgate
+240302426,2004,regular-season,2004-01-30,2,2426,home,FALSE,Navy,50,Midshipmen,Navy Midshipmen,Navy
+240302426,2004,regular-season,2004-01-30,2,349,away,FALSE,Army,52,Black Knights,Army Black Knights,Army
+240300043,2004,regular-season,2004-01-30,2,43,home,FALSE,Yale,54,Bulldogs,Yale Bulldogs,Yale
+240300043,2004,regular-season,2004-01-30,2,219,away,FALSE,Pennsylvania,52,Quakers,Pennsylvania Quakers,Penn
+240300044,2004,regular-season,2004-01-30,3,44,home,FALSE,American University,83,Eagles,American University Eagles,American
+240300044,2004,regular-season,2004-01-30,3,322,away,FALSE,Lafayette,86,Leopards,Lafayette Leopards,Lafayette

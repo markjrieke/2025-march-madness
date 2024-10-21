@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400503798,2014-02-08,2,277,home,FALSE,West Virginia,84,Mountaineers,West Virginia Mountaineers,West Virginia
-400503798,2014-02-08,2,2306,away,FALSE,Kansas State,44,Wildcats,Kansas State Wildcats,Kansas St
-400511194,2014-02-08,2,2250,home,FALSE,Gonzaga,88,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400511194,2014-02-08,2,2351,away,FALSE,Loyola Marymount,51,Lions,Loyola Marymount Lions,LMU
-400512207,2014-02-08,2,2393,home,FALSE,Middle Tennessee,65,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-400512207,2014-02-08,2,242,away,FALSE,Rice,54,Owls,Rice Owls,Rice
-400510587,2014-02-08,2,158,home,FALSE,Nebraska,76,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400510587,2014-02-08,2,127,away,FALSE,Michigan State,56,Spartans,Michigan State Spartans,Michigan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400503798,2014,regular-season,2014-02-08,2,277,home,FALSE,West Virginia,84,Mountaineers,West Virginia Mountaineers,West Virginia
+400503798,2014,regular-season,2014-02-08,2,2306,away,FALSE,Kansas State,44,Wildcats,Kansas State Wildcats,Kansas St
+400511194,2014,regular-season,2014-02-08,2,2250,home,FALSE,Gonzaga,88,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400511194,2014,regular-season,2014-02-08,2,2351,away,FALSE,Loyola Marymount,51,Lions,Loyola Marymount Lions,LMU
+400512207,2014,regular-season,2014-02-08,2,2393,home,FALSE,Middle Tennessee,65,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+400512207,2014,regular-season,2014-02-08,2,242,away,FALSE,Rice,54,Owls,Rice Owls,Rice
+400510587,2014,regular-season,2014-02-08,2,158,home,FALSE,Nebraska,76,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400510587,2014,regular-season,2014-02-08,2,127,away,FALSE,Michigan State,56,Spartans,Michigan State Spartans,Michigan St

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260100103,2006-01-10,2,103,home,FALSE,Boston College,60,Eagles,Boston College Eagles,Boston College
-260100103,2006-01-10,2,152,away,FALSE,NC State,78,Wolfpack,NC State Wolfpack,NC State
-260100259,2006-01-10,2,259,home,FALSE,Virginia Tech,61,Hokies,Virginia Tech Hokies,Virginia Tech
-260100259,2006-01-10,2,153,away,FALSE,North Carolina,64,Tar Heels,North Carolina Tar Heels,North Carolina
-260100135,2006-01-10,2,135,home,FALSE,Minnesota,62,Golden Gophers,Minnesota Golden Gophers,Minnesota
-260100135,2006-01-10,2,275,away,FALSE,Wisconsin,64,Badgers,Wisconsin Badgers,Wisconsin
-260100201,2006-01-10,2,201,home,FALSE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma
-260100201,2006-01-10,2,142,away,FALSE,Missouri,71,Tigers,Missouri Tigers,Missouri
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260100103,2006,regular-season,2006-01-10,2,103,home,FALSE,Boston College,60,Eagles,Boston College Eagles,Boston College
+260100103,2006,regular-season,2006-01-10,2,152,away,FALSE,NC State,78,Wolfpack,NC State Wolfpack,NC State
+260100259,2006,regular-season,2006-01-10,2,259,home,FALSE,Virginia Tech,61,Hokies,Virginia Tech Hokies,Virginia Tech
+260100259,2006,regular-season,2006-01-10,2,153,away,FALSE,North Carolina,64,Tar Heels,North Carolina Tar Heels,North Carolina
+260100135,2006,regular-season,2006-01-10,2,135,home,FALSE,Minnesota,62,Golden Gophers,Minnesota Golden Gophers,Minnesota
+260100135,2006,regular-season,2006-01-10,2,275,away,FALSE,Wisconsin,64,Badgers,Wisconsin Badgers,Wisconsin
+260100201,2006,regular-season,2006-01-10,2,201,home,FALSE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma
+260100201,2006,regular-season,2006-01-10,2,142,away,FALSE,Missouri,71,Tigers,Missouri Tigers,Missouri

@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401092568,2018-11-15,4,239,home,FALSE,Baylor,94,Bears,Baylor Bears,Baylor
-401092568,2018-11-15,4,2582,away,FALSE,Southern,49,Jaguars,Southern Jaguars,Southern
-401091424,2018-11-15,4,344,home,FALSE,Mississippi State,104,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401091424,2018-11-15,4,2320,away,FALSE,Lamar,53,Cardinals,Lamar Cardinals,Lamar
-401093924,2018-11-15,4,24,home,FALSE,Stanford,96,Cardinal,Stanford Cardinal,Stanford
-401093924,2018-11-15,4,2539,away,FALSE,San Francisco,62,Dons,San Francisco Dons,San Francisco
-401091423,2018-11-15,4,2579,home,FALSE,South Carolina,69,Gamecocks,South Carolina Gamecocks,South Carolina
-401091423,2018-11-15,4,228,away,FALSE,Clemson,57,Tigers,Clemson Tigers,Clemson
-401092591,2018-11-15,4,251,home,FALSE,Texas,96,Longhorns,Texas Longhorns,Texas
-401092591,2018-11-15,4,2377,away,FALSE,McNeese,40,Cowgirls,McNeese Cowgirls,McNeese
-401091426,2018-11-15,4,152,home,FALSE,NC State,74,Wolfpack,NC State Wolfpack,NC State
-401091426,2018-11-15,4,238,away,FALSE,Vanderbilt,54,Commodores,Vanderbilt Commodores,Vanderbilt
-401090443,2018-11-15,4,58,home,FALSE,South Florida,88,Bulls,South Florida Bulls,South Florida
-401090443,2018-11-15,4,2065,away,FALSE,Bethune-Cookman,39,Wildcats,Bethune-Cookman Wildcats,Bethune
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401092568,2019,regular-season,2018-11-15,4,239,home,FALSE,Baylor,94,Bears,Baylor Bears,Baylor
+401092568,2019,regular-season,2018-11-15,4,2582,away,FALSE,Southern,49,Jaguars,Southern Jaguars,Southern
+401091424,2019,regular-season,2018-11-15,4,344,home,FALSE,Mississippi State,104,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401091424,2019,regular-season,2018-11-15,4,2320,away,FALSE,Lamar,53,Cardinals,Lamar Cardinals,Lamar
+401093924,2019,regular-season,2018-11-15,4,24,home,FALSE,Stanford,96,Cardinal,Stanford Cardinal,Stanford
+401093924,2019,regular-season,2018-11-15,4,2539,away,FALSE,San Francisco,62,Dons,San Francisco Dons,San Francisco
+401091423,2019,regular-season,2018-11-15,4,2579,home,FALSE,South Carolina,69,Gamecocks,South Carolina Gamecocks,South Carolina
+401091423,2019,regular-season,2018-11-15,4,228,away,FALSE,Clemson,57,Tigers,Clemson Tigers,Clemson
+401092591,2019,regular-season,2018-11-15,4,251,home,FALSE,Texas,96,Longhorns,Texas Longhorns,Texas
+401092591,2019,regular-season,2018-11-15,4,2377,away,FALSE,McNeese,40,Cowgirls,McNeese Cowgirls,McNeese
+401091426,2019,regular-season,2018-11-15,4,152,home,FALSE,NC State,74,Wolfpack,NC State Wolfpack,NC State
+401091426,2019,regular-season,2018-11-15,4,238,away,FALSE,Vanderbilt,54,Commodores,Vanderbilt Commodores,Vanderbilt
+401090443,2019,regular-season,2018-11-15,4,58,home,FALSE,South Florida,88,Bulls,South Florida Bulls,South Florida
+401090443,2019,regular-season,2018-11-15,4,2065,away,FALSE,Bethune-Cookman,39,Wildcats,Bethune-Cookman Wildcats,Bethune

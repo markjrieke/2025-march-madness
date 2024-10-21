@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400910930,2017-01-12,4,344,home,FALSE,Mississippi State,82,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400910930,2017-01-12,4,57,away,FALSE,Florida,49,Gators,Florida Gators,Florida
-400910931,2017-01-12,4,2579,home,FALSE,South Carolina,66,Gamecocks,South Carolina Gamecocks,South Carolina
-400910931,2017-01-12,4,61,away,FALSE,Georgia,63,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-400912126,2017-01-12,4,87,home,FALSE,Notre Dame,86,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400912126,2017-01-12,4,221,away,FALSE,Pittsburgh,54,Panthers,Pittsburgh Panthers,Pitt
-400912125,2017-01-12,4,52,home,FALSE,Florida State,72,Seminoles,Florida State Seminoles,Florida St
-400912125,2017-01-12,4,97,away,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
-400912124,2017-01-12,4,150,home,FALSE,Duke,70,Blue Devils,Duke Blue Devils,Duke
-400912124,2017-01-12,4,153,away,FALSE,North Carolina,58,Tar Heels,North Carolina Tar Heels,North Carolina
-400912127,2017-01-12,4,183,home,FALSE,Syracuse,85,Orange,Syracuse Orange,Syracuse
-400912127,2017-01-12,4,152,away,FALSE,NC State,75,Wolfpack,NC State Wolfpack,NC State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400910930,2017,regular-season,2017-01-12,4,344,home,FALSE,Mississippi State,82,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400910930,2017,regular-season,2017-01-12,4,57,away,FALSE,Florida,49,Gators,Florida Gators,Florida
+400910931,2017,regular-season,2017-01-12,4,2579,home,FALSE,South Carolina,66,Gamecocks,South Carolina Gamecocks,South Carolina
+400910931,2017,regular-season,2017-01-12,4,61,away,FALSE,Georgia,63,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+400912126,2017,regular-season,2017-01-12,4,87,home,FALSE,Notre Dame,86,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400912126,2017,regular-season,2017-01-12,4,221,away,FALSE,Pittsburgh,54,Panthers,Pittsburgh Panthers,Pitt
+400912125,2017,regular-season,2017-01-12,4,52,home,FALSE,Florida State,72,Seminoles,Florida State Seminoles,Florida St
+400912125,2017,regular-season,2017-01-12,4,97,away,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
+400912124,2017,regular-season,2017-01-12,4,150,home,FALSE,Duke,70,Blue Devils,Duke Blue Devils,Duke
+400912124,2017,regular-season,2017-01-12,4,153,away,FALSE,North Carolina,58,Tar Heels,North Carolina Tar Heels,North Carolina
+400912127,2017,regular-season,2017-01-12,4,183,home,FALSE,Syracuse,85,Orange,Syracuse Orange,Syracuse
+400912127,2017,regular-season,2017-01-12,4,152,away,FALSE,NC State,75,Wolfpack,NC State Wolfpack,NC State

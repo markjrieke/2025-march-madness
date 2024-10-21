@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263250057,2006-11-21,2,57,home,FALSE,Florida,94,Gators,Florida Gators,Florida
-263250057,2006-11-21,2,2504,away,FALSE,Prairie View A&M,33,Panthers,Prairie View A&M Panthers,Prairie View
-263250096,2006-11-21,2,96,home,FALSE,Kentucky,68,Wildcats,Kentucky Wildcats,Kentucky
-263250096,2006-11-21,2,26,away,FALSE,UCLA,73,Bruins,UCLA Bruins,UCLA
-263250275,2006-11-21,2,275,home,FALSE,Wisconsin,64,Badgers,Wisconsin Badgers,Wisconsin
-263250275,2006-11-21,2,2169,away,FALSE,Delaware State,52,Hornets,Delaware State Hornets,Delaware St
-263250150,2006-11-21,2,150,home,FALSE,Duke,62,Blue Devils,Duke Blue Devils,Duke
-263250150,2006-11-21,2,269,away,FALSE,Marquette,73,Golden Eagles,Marquette Golden Eagles,Marquette
-263252305,2006-11-21,2,2305,home,FALSE,Kansas,89,Jayhawks,Kansas Jayhawks,Kansas
-263252305,2006-11-21,2,2634,away,FALSE,Tennessee State,54,Tigers,Tennessee State Tigers,Tennessee St
-263250235,2006-11-21,2,235,home,FALSE,Memphis,85,Tigers,Memphis Tigers,Memphis
-263250235,2006-11-21,2,59,away,FALSE,Georgia Tech,92,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-263252440,2006-11-21,2,2440,home,FALSE,Nevada,83,Wolf Pack,Nevada Wolf Pack,Nevada
-263252440,2006-11-21,2,300,away,FALSE,UC Irvine,64,Anteaters,UC Irvine Anteaters,UC Irvine
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263250057,2007,regular-season,2006-11-21,2,57,home,FALSE,Florida,94,Gators,Florida Gators,Florida
+263250057,2007,regular-season,2006-11-21,2,2504,away,FALSE,Prairie View A&M,33,Panthers,Prairie View A&M Panthers,Prairie View
+263250096,2007,regular-season,2006-11-21,2,96,home,FALSE,Kentucky,68,Wildcats,Kentucky Wildcats,Kentucky
+263250096,2007,regular-season,2006-11-21,2,26,away,FALSE,UCLA,73,Bruins,UCLA Bruins,UCLA
+263250275,2007,regular-season,2006-11-21,2,275,home,FALSE,Wisconsin,64,Badgers,Wisconsin Badgers,Wisconsin
+263250275,2007,regular-season,2006-11-21,2,2169,away,FALSE,Delaware State,52,Hornets,Delaware State Hornets,Delaware St
+263250150,2007,regular-season,2006-11-21,2,150,home,FALSE,Duke,62,Blue Devils,Duke Blue Devils,Duke
+263250150,2007,regular-season,2006-11-21,2,269,away,FALSE,Marquette,73,Golden Eagles,Marquette Golden Eagles,Marquette
+263252305,2007,regular-season,2006-11-21,2,2305,home,FALSE,Kansas,89,Jayhawks,Kansas Jayhawks,Kansas
+263252305,2007,regular-season,2006-11-21,2,2634,away,FALSE,Tennessee State,54,Tigers,Tennessee State Tigers,Tennessee St
+263250235,2007,regular-season,2006-11-21,2,235,home,FALSE,Memphis,85,Tigers,Memphis Tigers,Memphis
+263250235,2007,regular-season,2006-11-21,2,59,away,FALSE,Georgia Tech,92,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+263252440,2007,regular-season,2006-11-21,2,2440,home,FALSE,Nevada,83,Wolf Pack,Nevada Wolf Pack,Nevada
+263252440,2007,regular-season,2006-11-21,2,300,away,FALSE,UC Irvine,64,Anteaters,UC Irvine Anteaters,UC Irvine

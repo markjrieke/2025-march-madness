@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310420154,2011-02-11,2,154,home,FALSE,Wake Forest,39,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-310420154,2011-02-11,2,150,away,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
-310420052,2011-02-11,2,52,home,FALSE,Florida State,73,Seminoles,Florida State Seminoles,Florida St
-310420052,2011-02-11,2,59,away,FALSE,Georgia Tech,60,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-310420314,2011-02-11,2,314,home,FALSE,Iona,45,Gaels,Iona Gaels,Iona
-310420314,2011-02-11,2,2368,away,FALSE,Marist,56,Red Foxes,Marist Red Foxes,Marist
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310420154,2011,regular-season,2011-02-11,2,154,home,FALSE,Wake Forest,39,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+310420154,2011,regular-season,2011-02-11,2,150,away,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
+310420052,2011,regular-season,2011-02-11,2,52,home,FALSE,Florida State,73,Seminoles,Florida State Seminoles,Florida St
+310420052,2011,regular-season,2011-02-11,2,59,away,FALSE,Georgia Tech,60,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+310420314,2011,regular-season,2011-02-11,2,314,home,FALSE,Iona,45,Gaels,Iona Gaels,Iona
+310420314,2011,regular-season,2011-02-11,2,2368,away,FALSE,Marist,56,Red Foxes,Marist Red Foxes,Marist

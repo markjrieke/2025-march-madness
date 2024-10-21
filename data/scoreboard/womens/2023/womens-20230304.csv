@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401494217,2023-03-04,4,2306,home,FALSE,Kansas State,52,Wildcats,Kansas State Wildcats,Kansas St
-401494217,2023-03-04,4,251,away,FALSE,Texas,80,Longhorns,Texas Longhorns,Texas
-401494216,2023-03-04,4,197,home,FALSE,Oklahoma State,71,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-401494216,2023-03-04,4,201,away,FALSE,Oklahoma,80,Sooners,Oklahoma Sooners,Oklahoma
-401494218,2023-03-04,4,66,home,FALSE,Iowa State,76,Cyclones,Iowa State Cyclones,Iowa State
-401494218,2023-03-04,4,2641,away,FALSE,Texas Tech,52,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-401491917,2023-03-04,5,2393,home,FALSE,Middle Tennessee,72,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-401491917,2023-03-04,5,2638,away,FALSE,UTEP,68,Miners,UTEP Miners,UTEP
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401494217,2023,regular-season,2023-03-04,4,2306,home,FALSE,Kansas State,52,Wildcats,Kansas State Wildcats,Kansas St
+401494217,2023,regular-season,2023-03-04,4,251,away,FALSE,Texas,80,Longhorns,Texas Longhorns,Texas
+401494216,2023,regular-season,2023-03-04,4,197,home,FALSE,Oklahoma State,71,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+401494216,2023,regular-season,2023-03-04,4,201,away,FALSE,Oklahoma,80,Sooners,Oklahoma Sooners,Oklahoma
+401494218,2023,regular-season,2023-03-04,4,66,home,FALSE,Iowa State,76,Cyclones,Iowa State Cyclones,Iowa State
+401494218,2023,regular-season,2023-03-04,4,2641,away,FALSE,Texas Tech,52,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+401491917,2023,regular-season,2023-03-04,5,2393,home,FALSE,Middle Tennessee,72,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+401491917,2023,regular-season,2023-03-04,5,2638,away,FALSE,UTEP,68,Miners,UTEP Miners,UTEP

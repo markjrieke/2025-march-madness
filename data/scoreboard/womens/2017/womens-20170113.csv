@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400913935,2017-01-13,4,12,home,FALSE,Arizona,73,Wildcats,Arizona Wildcats,Arizona
-400913935,2017-01-13,4,264,away,FALSE,Washington,90,Huskies,Washington Huskies,Washington
-400913934,2017-01-13,4,26,home,FALSE,UCLA,66,Bruins,UCLA Bruins,UCLA
-400913934,2017-01-13,4,204,away,FALSE,Oregon State,56,Beavers,Oregon State Beavers,Oregon St
-400913933,2017-01-13,4,254,home,FALSE,Utah,58,Utes,Utah Utes,Utah
-400913933,2017-01-13,4,24,away,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
-400913932,2017-01-13,4,9,home,FALSE,Arizona State,68,Sun Devils,Arizona State Sun Devils,Arizona St
-400913932,2017-01-13,4,265,away,FALSE,Washington State,49,Cougars,Washington State Cougars,Washington St
-400911363,2017-01-13,4,305,home,FALSE,DePaul,100,Blue Demons,DePaul Blue Demons,DePaul
-400911363,2017-01-13,4,2086,away,FALSE,Butler,69,Bulldogs,Butler Bulldogs,Butler
-400913936,2017-01-13,4,38,home,FALSE,Colorado,53,Buffaloes,Colorado Buffaloes,Colorado
-400913936,2017-01-13,4,25,away,FALSE,California,65,Golden Bears,California Golden Bears,California
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400913935,2017,regular-season,2017-01-13,4,12,home,FALSE,Arizona,73,Wildcats,Arizona Wildcats,Arizona
+400913935,2017,regular-season,2017-01-13,4,264,away,FALSE,Washington,90,Huskies,Washington Huskies,Washington
+400913934,2017,regular-season,2017-01-13,4,26,home,FALSE,UCLA,66,Bruins,UCLA Bruins,UCLA
+400913934,2017,regular-season,2017-01-13,4,204,away,FALSE,Oregon State,56,Beavers,Oregon State Beavers,Oregon St
+400913933,2017,regular-season,2017-01-13,4,254,home,FALSE,Utah,58,Utes,Utah Utes,Utah
+400913933,2017,regular-season,2017-01-13,4,24,away,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
+400913932,2017,regular-season,2017-01-13,4,9,home,FALSE,Arizona State,68,Sun Devils,Arizona State Sun Devils,Arizona St
+400913932,2017,regular-season,2017-01-13,4,265,away,FALSE,Washington State,49,Cougars,Washington State Cougars,Washington St
+400911363,2017,regular-season,2017-01-13,4,305,home,FALSE,DePaul,100,Blue Demons,DePaul Blue Demons,DePaul
+400911363,2017,regular-season,2017-01-13,4,2086,away,FALSE,Butler,69,Bulldogs,Butler Bulldogs,Butler
+400913936,2017,regular-season,2017-01-13,4,38,home,FALSE,Colorado,53,Buffaloes,Colorado Buffaloes,Colorado
+400913936,2017,regular-season,2017-01-13,4,25,away,FALSE,California,65,Golden Bears,California Golden Bears,California

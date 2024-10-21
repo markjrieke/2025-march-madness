@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310562561,2011-02-25,2,2561,home,FALSE,Siena,48,Saints,Siena Saints,Siena
-310562561,2011-02-25,2,2368,away,FALSE,Marist,64,Red Foxes,Marist Red Foxes,Marist
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310562561,2011,regular-season,2011-02-25,2,2561,home,FALSE,Siena,48,Saints,Siena Saints,Siena
+310562561,2011,regular-season,2011-02-25,2,2368,away,FALSE,Marist,64,Red Foxes,Marist Red Foxes,Marist

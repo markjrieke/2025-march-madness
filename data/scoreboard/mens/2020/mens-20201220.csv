@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401263349,2020-12-20,2,77,home,FALSE,Northwestern,79,Wildcats,Northwestern Wildcats,Northwestern
-401263349,2020-12-20,2,127,away,FALSE,Michigan State,65,Spartans,Michigan State Spartans,Michigan St
-401270041,2020-12-20,2,248,home,FALSE,Houston,88,Cougars,Houston Cougars,Houston
-401270041,2020-12-20,2,2016,away,FALSE,Alcorn State,55,Braves,Alcorn State Braves,Alcorn St
-401254992,2020-12-20,3,41,home,FALSE,UConn,74,Huskies,UConn Huskies,UConn
-401254992,2020-12-20,3,156,away,FALSE,Creighton,76,Bluejays,Creighton Bluejays,Creighton
-401253837,2020-12-20,2,251,home,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
-401253837,2020-12-20,2,197,away,FALSE,Oklahoma State,74,Cowboys,Oklahoma State Cowboys,Oklahoma St
-401263350,2020-12-20,2,164,home,FALSE,Rutgers,91,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-401263350,2020-12-20,2,356,away,FALSE,Illinois,88,Fighting Illini,Illinois Fighting Illini,Illinois
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401263349,2021,regular-season,2020-12-20,2,77,home,FALSE,Northwestern,79,Wildcats,Northwestern Wildcats,Northwestern
+401263349,2021,regular-season,2020-12-20,2,127,away,FALSE,Michigan State,65,Spartans,Michigan State Spartans,Michigan St
+401270041,2021,regular-season,2020-12-20,2,248,home,FALSE,Houston,88,Cougars,Houston Cougars,Houston
+401270041,2021,regular-season,2020-12-20,2,2016,away,FALSE,Alcorn State,55,Braves,Alcorn State Braves,Alcorn St
+401254992,2021,regular-season,2020-12-20,3,41,home,FALSE,UConn,74,Huskies,UConn Huskies,UConn
+401254992,2021,regular-season,2020-12-20,3,156,away,FALSE,Creighton,76,Bluejays,Creighton Bluejays,Creighton
+401253837,2021,regular-season,2020-12-20,2,251,home,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
+401253837,2021,regular-season,2020-12-20,2,197,away,FALSE,Oklahoma State,74,Cowboys,Oklahoma State Cowboys,Oklahoma St
+401263350,2021,regular-season,2020-12-20,2,164,home,FALSE,Rutgers,91,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401263350,2021,regular-season,2020-12-20,2,356,away,FALSE,Illinois,88,Fighting Illini,Illinois Fighting Illini,Illinois

@@ -1,37 +1,37 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401176505,2020-02-21,2,2771,home,FALSE,Merrimack,64,Warriors,Merrimack Warriors,Merrimack
-401176505,2020-02-21,2,2529,away,FALSE,Sacred Heart,57,Pioneers,Sacred Heart Pioneers,Sacred Heart
-401172702,2020-02-21,4,2309,home,FALSE,Kent State,98,Golden Flashes,Kent State Golden Flashes,Kent State
-401172702,2020-02-21,4,2084,away,FALSE,Buffalo,104,Bulls,Buffalo Bulls,Buffalo
-401172505,2020-02-21,2,2174,home,FALSE,Detroit Mercy,67,Titans,Detroit Mercy Titans,Detroit Mercy
-401172505,2020-02-21,2,2739,away,FALSE,Green Bay,84,Phoenix,Green Bay Phoenix,Green Bay
-401172346,2020-02-21,2,108,home,FALSE,Harvard,61,Crimson,Harvard Crimson,Harvard
-401172346,2020-02-21,2,163,away,FALSE,Princeton,60,Tigers,Princeton Tigers,Princeton
-401172325,2020-02-21,2,159,home,FALSE,Dartmouth,66,Big Green,Dartmouth Big Green,Dartmouth
-401172325,2020-02-21,2,219,away,FALSE,Pennsylvania,59,Quakers,Pennsylvania Quakers,Penn
-401172307,2020-02-21,4,172,home,FALSE,Cornell,80,Big Red,Cornell Big Red,Cornell
-401172307,2020-02-21,4,43,away,FALSE,Yale,81,Bulldogs,Yale Bulldogs,Yale
-401172272,2020-02-21,2,171,home,FALSE,Columbia,66,Lions,Columbia Lions,Columbia
-401172272,2020-02-21,2,225,away,FALSE,Brown,72,Bears,Brown Bears,Brown
-401172029,2020-02-21,3,2368,home,FALSE,Marist,61,Red Foxes,Marist Red Foxes,Marist
-401172029,2020-02-21,3,2405,away,FALSE,Monmouth,65,Hawks,Monmouth Hawks,Monmouth
-401172011,2020-02-21,2,2363,home,FALSE,Manhattan,64,Jaspers,Manhattan Jaspers,Manhattan
-401172011,2020-02-21,2,2612,away,FALSE,Saint Peter's,67,Peacocks,Saint Peter's Peacocks,Saint Peter's
-401171993,2020-02-21,2,314,home,FALSE,Iona,70,Gaels,Iona Gaels,Iona
-401171993,2020-02-21,2,2520,away,FALSE,Rider,69,Broncs,Rider Broncs,Rider
-401171972,2020-02-21,2,2217,home,FALSE,Fairfield,61,Stags,Fairfield Stags,Fairfield
-401171972,2020-02-21,2,315,away,FALSE,Niagara,60,Purple Eagles,Niagara Purple Eagles,Niagara
-401171948,2020-02-21,2,2514,home,FALSE,Quinnipiac,66,Bobcats,Quinnipiac Bobcats,Quinnipiac
-401171948,2020-02-21,2,2099,away,FALSE,Canisius,64,Golden Griffins,Canisius Golden Griffins,Canisius
-401176506,2020-02-21,2,2523,home,FALSE,Robert Morris,68,Colonials,Robert Morris Colonials,Robert Morris
-401176506,2020-02-21,2,116,away,FALSE,Mount St. Mary's,60,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-401176503,2020-02-21,2,2681,home,FALSE,Wagner,68,Seahawks,Wagner Seahawks,Wagner
-401176503,2020-02-21,2,2115,away,FALSE,Central Connecticut,56,Blue Devils,Central Connecticut Blue Devils,C Connecticut
-401176108,2020-02-21,2,2597,home,FALSE,St. Francis Brooklyn,74,Terriers,St. Francis Brooklyn Terriers,St Francis BK
-401176108,2020-02-21,2,2803,away,FALSE,Bryant,82,Bulldogs,Bryant Bulldogs,Bryant
-401176504,2020-02-21,2,161,home,FALSE,Fairleigh Dickinson,81,Knights,Fairleigh Dickinson Knights,Fair Dickinson
-401176504,2020-02-21,2,112358,away,FALSE,Long Island University,86,Sharks,Long Island University Sharks,Long Island
-401175150,2020-02-21,2,2473,home,FALSE,Oakland,75,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-401175150,2020-02-21,2,270,away,FALSE,Milwaukee,68,Panthers,Milwaukee Panthers,Milwaukee
-401170304,2020-02-21,2,139,home,FALSE,Saint Louis,80,Billikens,Saint Louis Billikens,Saint Louis
-401170304,2020-02-21,2,2670,away,FALSE,VCU,62,Rams,VCU Rams,VCU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401176505,2020,regular-season,2020-02-21,2,2771,home,FALSE,Merrimack,64,Warriors,Merrimack Warriors,Merrimack
+401176505,2020,regular-season,2020-02-21,2,2529,away,FALSE,Sacred Heart,57,Pioneers,Sacred Heart Pioneers,Sacred Heart
+401172702,2020,regular-season,2020-02-21,4,2309,home,FALSE,Kent State,98,Golden Flashes,Kent State Golden Flashes,Kent State
+401172702,2020,regular-season,2020-02-21,4,2084,away,FALSE,Buffalo,104,Bulls,Buffalo Bulls,Buffalo
+401172505,2020,regular-season,2020-02-21,2,2174,home,FALSE,Detroit Mercy,67,Titans,Detroit Mercy Titans,Detroit Mercy
+401172505,2020,regular-season,2020-02-21,2,2739,away,FALSE,Green Bay,84,Phoenix,Green Bay Phoenix,Green Bay
+401172346,2020,regular-season,2020-02-21,2,108,home,FALSE,Harvard,61,Crimson,Harvard Crimson,Harvard
+401172346,2020,regular-season,2020-02-21,2,163,away,FALSE,Princeton,60,Tigers,Princeton Tigers,Princeton
+401172325,2020,regular-season,2020-02-21,2,159,home,FALSE,Dartmouth,66,Big Green,Dartmouth Big Green,Dartmouth
+401172325,2020,regular-season,2020-02-21,2,219,away,FALSE,Pennsylvania,59,Quakers,Pennsylvania Quakers,Penn
+401172307,2020,regular-season,2020-02-21,4,172,home,FALSE,Cornell,80,Big Red,Cornell Big Red,Cornell
+401172307,2020,regular-season,2020-02-21,4,43,away,FALSE,Yale,81,Bulldogs,Yale Bulldogs,Yale
+401172272,2020,regular-season,2020-02-21,2,171,home,FALSE,Columbia,66,Lions,Columbia Lions,Columbia
+401172272,2020,regular-season,2020-02-21,2,225,away,FALSE,Brown,72,Bears,Brown Bears,Brown
+401172029,2020,regular-season,2020-02-21,3,2368,home,FALSE,Marist,61,Red Foxes,Marist Red Foxes,Marist
+401172029,2020,regular-season,2020-02-21,3,2405,away,FALSE,Monmouth,65,Hawks,Monmouth Hawks,Monmouth
+401172011,2020,regular-season,2020-02-21,2,2363,home,FALSE,Manhattan,64,Jaspers,Manhattan Jaspers,Manhattan
+401172011,2020,regular-season,2020-02-21,2,2612,away,FALSE,Saint Peter's,67,Peacocks,Saint Peter's Peacocks,Saint Peter's
+401171993,2020,regular-season,2020-02-21,2,314,home,FALSE,Iona,70,Gaels,Iona Gaels,Iona
+401171993,2020,regular-season,2020-02-21,2,2520,away,FALSE,Rider,69,Broncs,Rider Broncs,Rider
+401171972,2020,regular-season,2020-02-21,2,2217,home,FALSE,Fairfield,61,Stags,Fairfield Stags,Fairfield
+401171972,2020,regular-season,2020-02-21,2,315,away,FALSE,Niagara,60,Purple Eagles,Niagara Purple Eagles,Niagara
+401171948,2020,regular-season,2020-02-21,2,2514,home,FALSE,Quinnipiac,66,Bobcats,Quinnipiac Bobcats,Quinnipiac
+401171948,2020,regular-season,2020-02-21,2,2099,away,FALSE,Canisius,64,Golden Griffins,Canisius Golden Griffins,Canisius
+401176506,2020,regular-season,2020-02-21,2,2523,home,FALSE,Robert Morris,68,Colonials,Robert Morris Colonials,Robert Morris
+401176506,2020,regular-season,2020-02-21,2,116,away,FALSE,Mount St. Mary's,60,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+401176503,2020,regular-season,2020-02-21,2,2681,home,FALSE,Wagner,68,Seahawks,Wagner Seahawks,Wagner
+401176503,2020,regular-season,2020-02-21,2,2115,away,FALSE,Central Connecticut,56,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+401176108,2020,regular-season,2020-02-21,2,2597,home,FALSE,St. Francis Brooklyn,74,Terriers,St. Francis Brooklyn Terriers,St Francis BK
+401176108,2020,regular-season,2020-02-21,2,2803,away,FALSE,Bryant,82,Bulldogs,Bryant Bulldogs,Bryant
+401176504,2020,regular-season,2020-02-21,2,161,home,FALSE,Fairleigh Dickinson,81,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+401176504,2020,regular-season,2020-02-21,2,112358,away,FALSE,Long Island University,86,Sharks,Long Island University Sharks,Long Island
+401175150,2020,regular-season,2020-02-21,2,2473,home,FALSE,Oakland,75,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+401175150,2020,regular-season,2020-02-21,2,270,away,FALSE,Milwaukee,68,Panthers,Milwaukee Panthers,Milwaukee
+401170304,2020,regular-season,2020-02-21,2,139,home,FALSE,Saint Louis,80,Billikens,Saint Louis Billikens,Saint Louis
+401170304,2020,regular-season,2020-02-21,2,2670,away,FALSE,VCU,62,Rams,VCU Rams,VCU

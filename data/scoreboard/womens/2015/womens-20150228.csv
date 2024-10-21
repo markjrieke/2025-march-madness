@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400597558,2015-02-28,2,41,home,FALSE,UConn,87,Huskies,UConn Huskies,UConn
-400597558,2015-02-28,2,235,away,FALSE,Memphis,24,Tigers,Memphis Tigers,Memphis
-400592434,2015-02-28,2,66,home,FALSE,Iowa State,76,Cyclones,Iowa State Cyclones,Iowa State
-400592434,2015-02-28,2,239,away,FALSE,Baylor,71,Bears,Baylor Bears,Baylor
-400590553,2015-02-28,2,204,home,FALSE,Oregon State,73,Beavers,Oregon State Beavers,Oregon St
-400590553,2015-02-28,2,25,away,FALSE,California,55,Golden Bears,California Golden Bears,California
-400602897,2015-02-28,2,163,home,FALSE,Princeton,79,Tigers,Princeton Tigers,Princeton
-400602897,2015-02-28,2,225,away,FALSE,Brown,67,Bears,Brown Bears,Brown
-400595884,2015-02-28,2,236,home,FALSE,Chattanooga,64,Mocs,Chattanooga Mocs,Chattanooga
-400595884,2015-02-28,2,2193,away,FALSE,East Tennessee State,42,Bucs,East Tennessee State Bucs,ETSU
-400588947,2015-02-28,2,526,home,FALSE,Florida Gulf Coast,78,Eagles,Florida Gulf Coast Eagles,FGCU
-400588947,2015-02-28,2,294,away,FALSE,Jacksonville,47,Dolphins,Jacksonville Dolphins,Jacksonville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400597558,2015,regular-season,2015-02-28,2,41,home,FALSE,UConn,87,Huskies,UConn Huskies,UConn
+400597558,2015,regular-season,2015-02-28,2,235,away,FALSE,Memphis,24,Tigers,Memphis Tigers,Memphis
+400592434,2015,regular-season,2015-02-28,2,66,home,FALSE,Iowa State,76,Cyclones,Iowa State Cyclones,Iowa State
+400592434,2015,regular-season,2015-02-28,2,239,away,FALSE,Baylor,71,Bears,Baylor Bears,Baylor
+400590553,2015,regular-season,2015-02-28,2,204,home,FALSE,Oregon State,73,Beavers,Oregon State Beavers,Oregon St
+400590553,2015,regular-season,2015-02-28,2,25,away,FALSE,California,55,Golden Bears,California Golden Bears,California
+400602897,2015,regular-season,2015-02-28,2,163,home,FALSE,Princeton,79,Tigers,Princeton Tigers,Princeton
+400602897,2015,regular-season,2015-02-28,2,225,away,FALSE,Brown,67,Bears,Brown Bears,Brown
+400595884,2015,regular-season,2015-02-28,2,236,home,FALSE,Chattanooga,64,Mocs,Chattanooga Mocs,Chattanooga
+400595884,2015,regular-season,2015-02-28,2,2193,away,FALSE,East Tennessee State,42,Bucs,East Tennessee State Bucs,ETSU
+400588947,2015,regular-season,2015-02-28,2,526,home,FALSE,Florida Gulf Coast,78,Eagles,Florida Gulf Coast Eagles,FGCU
+400588947,2015,regular-season,2015-02-28,2,294,away,FALSE,Jacksonville,47,Dolphins,Jacksonville Dolphins,Jacksonville

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400820971,2015-11-25,4,251,home,FALSE,Texas,79,Longhorns,Texas Longhorns,Texas
-400820971,2015-11-25,4,2261,away,FALSE,Hampton,52,Lady Pirates,Hampton Lady Pirates,Hampton
-400842255,2015-11-25,4,96,home,FALSE,Kentucky,89,Wildcats,Kentucky Wildcats,Kentucky
-400842255,2015-11-25,4,2199,away,FALSE,Eastern Michigan,67,Eagles,Eastern Michigan Eagles,E Michigan
-400825114,2015-11-25,4,58,home,FALSE,South Florida,87,Bulls,South Florida Bulls,South Florida
-400825114,2015-11-25,4,2086,away,FALSE,Butler,77,Bulldogs,Butler Bulldogs,Butler
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400820971,2016,regular-season,2015-11-25,4,251,home,FALSE,Texas,79,Longhorns,Texas Longhorns,Texas
+400820971,2016,regular-season,2015-11-25,4,2261,away,FALSE,Hampton,52,Lady Pirates,Hampton Lady Pirates,Hampton
+400842255,2016,regular-season,2015-11-25,4,96,home,FALSE,Kentucky,89,Wildcats,Kentucky Wildcats,Kentucky
+400842255,2016,regular-season,2015-11-25,4,2199,away,FALSE,Eastern Michigan,67,Eagles,Eastern Michigan Eagles,E Michigan
+400825114,2016,regular-season,2015-11-25,4,58,home,FALSE,South Florida,87,Bulls,South Florida Bulls,South Florida
+400825114,2016,regular-season,2015-11-25,4,2086,away,FALSE,Butler,77,Bulldogs,Butler Bulldogs,Butler

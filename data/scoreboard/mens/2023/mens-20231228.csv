@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401574420,2023-12-28,2,201,home,FALSE,Oklahoma,88,Sooners,Oklahoma Sooners,Oklahoma
-401574420,2023-12-28,2,2110,away,FALSE,Central Arkansas,72,Bears,Central Arkansas Bears,C Arkansas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401574420,2024,regular-season,2023-12-28,2,201,home,FALSE,Oklahoma,88,Sooners,Oklahoma Sooners,Oklahoma
+401574420,2024,regular-season,2023-12-28,2,2110,away,FALSE,Central Arkansas,72,Bears,Central Arkansas Bears,C Arkansas

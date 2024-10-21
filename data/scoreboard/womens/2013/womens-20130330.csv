@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330890096,2013-03-30,2,96,home,TRUE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
-330890096,2013-03-30,2,48,away,TRUE,Delaware,62,Blue Hens,Delaware Blue Hens,Delaware
-330890041,2013-03-30,2,41,home,TRUE,UConn,76,Huskies,UConn Huskies,UConn
-330890041,2013-03-30,2,120,away,TRUE,Maryland,50,Terrapins,Maryland Terrapins,Maryland
-330890024,2013-03-30,2,24,home,TRUE,Stanford,59,Cardinal,Stanford Cardinal,Stanford
-330890024,2013-03-30,2,61,away,TRUE,Georgia,61,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-330890025,2013-03-30,2,25,home,TRUE,California,73,Golden Bears,California Golden Bears,California
-330890025,2013-03-30,2,99,away,TRUE,LSU,63,Tigers,LSU Tigers,LSU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330890096,2013,post-season,2013-03-30,2,96,home,TRUE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
+330890096,2013,post-season,2013-03-30,2,48,away,TRUE,Delaware,62,Blue Hens,Delaware Blue Hens,Delaware
+330890041,2013,post-season,2013-03-30,2,41,home,TRUE,UConn,76,Huskies,UConn Huskies,UConn
+330890041,2013,post-season,2013-03-30,2,120,away,TRUE,Maryland,50,Terrapins,Maryland Terrapins,Maryland
+330890024,2013,post-season,2013-03-30,2,24,home,TRUE,Stanford,59,Cardinal,Stanford Cardinal,Stanford
+330890024,2013,post-season,2013-03-30,2,61,away,TRUE,Georgia,61,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+330890025,2013,post-season,2013-03-30,2,25,home,TRUE,California,73,Golden Bears,California Golden Bears,California
+330890025,2013,post-season,2013-03-30,2,99,away,TRUE,LSU,63,Tigers,LSU Tigers,LSU

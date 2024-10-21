@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400587303,2015-01-15,2,2492,home,FALSE,Pepperdine,76,Waves,Pepperdine Waves,Pepperdine
-400587303,2015-01-15,2,2250,away,FALSE,Gonzaga,78,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400595465,2015-01-15,2,275,home,FALSE,Wisconsin,70,Badgers,Wisconsin Badgers,Wisconsin
-400595465,2015-01-15,2,158,away,FALSE,Nebraska,55,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400593265,2015-01-15,2,9,home,FALSE,Arizona State,59,Sun Devils,Arizona State Sun Devils,Arizona St
-400593265,2015-01-15,2,254,away,FALSE,Utah,76,Utes,Utah Utes,Utah
-400593263,2015-01-15,2,12,home,FALSE,Arizona,68,Wildcats,Arizona Wildcats,Arizona
-400593263,2015-01-15,2,38,away,FALSE,Colorado,54,Buffaloes,Colorado Buffaloes,Colorado
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400587303,2015,regular-season,2015-01-15,2,2492,home,FALSE,Pepperdine,76,Waves,Pepperdine Waves,Pepperdine
+400587303,2015,regular-season,2015-01-15,2,2250,away,FALSE,Gonzaga,78,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400595465,2015,regular-season,2015-01-15,2,275,home,FALSE,Wisconsin,70,Badgers,Wisconsin Badgers,Wisconsin
+400595465,2015,regular-season,2015-01-15,2,158,away,FALSE,Nebraska,55,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400593265,2015,regular-season,2015-01-15,2,9,home,FALSE,Arizona State,59,Sun Devils,Arizona State Sun Devils,Arizona St
+400593265,2015,regular-season,2015-01-15,2,254,away,FALSE,Utah,76,Utes,Utah Utes,Utah
+400593263,2015,regular-season,2015-01-15,2,12,home,FALSE,Arizona,68,Wildcats,Arizona Wildcats,Arizona
+400593263,2015,regular-season,2015-01-15,2,38,away,FALSE,Colorado,54,Buffaloes,Colorado Buffaloes,Colorado

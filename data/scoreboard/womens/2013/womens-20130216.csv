@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330470239,2013-02-16,2,239,home,FALSE,Baylor,78,Bears,Baylor Bears,Baylor
-330470239,2013-02-16,2,2628,away,FALSE,TCU,45,Horned Frogs,TCU Horned Frogs,TCU
-330470164,2013-02-16,2,164,home,FALSE,Rutgers,45,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-330470164,2013-02-16,2,41,away,FALSE,UConn,65,Huskies,UConn Huskies,UConn
-330470183,2013-02-16,2,183,home,FALSE,Syracuse,80,Orange,Syracuse Orange,Syracuse
-330470183,2013-02-16,2,221,away,FALSE,Pittsburgh,39,Panthers,Pittsburgh Panthers,Pitt
-330470197,2013-02-16,2,197,home,FALSE,Oklahoma State,80,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-330470197,2013-02-16,2,2306,away,FALSE,Kansas State,45,Wildcats,Kansas State Wildcats,Kansas St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330470239,2013,regular-season,2013-02-16,2,239,home,FALSE,Baylor,78,Bears,Baylor Bears,Baylor
+330470239,2013,regular-season,2013-02-16,2,2628,away,FALSE,TCU,45,Horned Frogs,TCU Horned Frogs,TCU
+330470164,2013,regular-season,2013-02-16,2,164,home,FALSE,Rutgers,45,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+330470164,2013,regular-season,2013-02-16,2,41,away,FALSE,UConn,65,Huskies,UConn Huskies,UConn
+330470183,2013,regular-season,2013-02-16,2,183,home,FALSE,Syracuse,80,Orange,Syracuse Orange,Syracuse
+330470183,2013,regular-season,2013-02-16,2,221,away,FALSE,Pittsburgh,39,Panthers,Pittsburgh Panthers,Pitt
+330470197,2013,regular-season,2013-02-16,2,197,home,FALSE,Oklahoma State,80,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+330470197,2013,regular-season,2013-02-16,2,2306,away,FALSE,Kansas State,45,Wildcats,Kansas State Wildcats,Kansas St

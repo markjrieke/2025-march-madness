@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400587944,2015-01-26,2,153,home,FALSE,North Carolina,93,Tar Heels,North Carolina Tar Heels,North Carolina
-400587944,2015-01-26,2,183,away,FALSE,Syracuse,83,Orange,Syracuse Orange,Syracuse
-400585812,2015-01-26,2,66,home,FALSE,Iowa State,89,Cyclones,Iowa State Cyclones,Iowa State
-400585812,2015-01-26,2,251,away,FALSE,Texas,86,Longhorns,Texas Longhorns,Texas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400587944,2015,regular-season,2015-01-26,2,153,home,FALSE,North Carolina,93,Tar Heels,North Carolina Tar Heels,North Carolina
+400587944,2015,regular-season,2015-01-26,2,183,away,FALSE,Syracuse,83,Orange,Syracuse Orange,Syracuse
+400585812,2015,regular-season,2015-01-26,2,66,home,FALSE,Iowa State,89,Cyclones,Iowa State Cyclones,Iowa State
+400585812,2015,regular-season,2015-01-26,2,251,away,FALSE,Texas,86,Longhorns,Texas Longhorns,Texas

@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400947006,2017-03-18,2,277,home,TRUE,West Virginia,83,Mountaineers,West Virginia Mountaineers,West Virginia
-400947006,2017-03-18,2,87,away,TRUE,Notre Dame,71,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400947025,2017-03-18,2,222,home,TRUE,Villanova,62,Wildcats,Villanova Wildcats,Villanova
-400947025,2017-03-18,2,275,away,TRUE,Wisconsin,65,Badgers,Wisconsin Badgers,Wisconsin
-400947027,2017-03-18,2,2250,home,TRUE,Gonzaga,79,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400947027,2017-03-18,2,77,away,TRUE,Northwestern,73,Wildcats,Northwestern Wildcats,Northwestern
-400947046,2017-03-18,2,52,home,TRUE,Florida State,66,Seminoles,Florida State Seminoles,Florida St
-400947046,2017-03-18,2,2752,away,TRUE,Xavier,91,Musketeers,Xavier Musketeers,Xavier
-400947026,2017-03-18,2,2086,home,TRUE,Butler,74,Bulldogs,Butler Bulldogs,Butler
-400947026,2017-03-18,2,2393,away,TRUE,Middle Tennessee,65,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-400947049,2017-03-18,2,12,home,TRUE,Arizona,69,Wildcats,Arizona Wildcats,Arizona
-400947049,2017-03-18,2,2608,away,TRUE,Saint Mary's,60,Gaels,Saint Mary's Gaels,Saint Mary's
-400947000,2017-03-18,2,57,home,TRUE,Florida,65,Gators,Florida Gators,Florida
-400947000,2017-03-18,2,258,away,TRUE,Virginia,39,Cavaliers,Virginia Cavaliers,Virginia
-400947047,2017-03-18,2,2509,home,TRUE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
-400947047,2017-03-18,2,66,away,TRUE,Iowa State,76,Cyclones,Iowa State Cyclones,Iowa State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400947006,2017,post-season,2017-03-18,2,277,home,TRUE,West Virginia,83,Mountaineers,West Virginia Mountaineers,West Virginia
+400947006,2017,post-season,2017-03-18,2,87,away,TRUE,Notre Dame,71,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400947025,2017,post-season,2017-03-18,2,222,home,TRUE,Villanova,62,Wildcats,Villanova Wildcats,Villanova
+400947025,2017,post-season,2017-03-18,2,275,away,TRUE,Wisconsin,65,Badgers,Wisconsin Badgers,Wisconsin
+400947027,2017,post-season,2017-03-18,2,2250,home,TRUE,Gonzaga,79,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400947027,2017,post-season,2017-03-18,2,77,away,TRUE,Northwestern,73,Wildcats,Northwestern Wildcats,Northwestern
+400947046,2017,post-season,2017-03-18,2,52,home,TRUE,Florida State,66,Seminoles,Florida State Seminoles,Florida St
+400947046,2017,post-season,2017-03-18,2,2752,away,TRUE,Xavier,91,Musketeers,Xavier Musketeers,Xavier
+400947026,2017,post-season,2017-03-18,2,2086,home,TRUE,Butler,74,Bulldogs,Butler Bulldogs,Butler
+400947026,2017,post-season,2017-03-18,2,2393,away,TRUE,Middle Tennessee,65,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+400947049,2017,post-season,2017-03-18,2,12,home,TRUE,Arizona,69,Wildcats,Arizona Wildcats,Arizona
+400947049,2017,post-season,2017-03-18,2,2608,away,TRUE,Saint Mary's,60,Gaels,Saint Mary's Gaels,Saint Mary's
+400947000,2017,post-season,2017-03-18,2,57,home,TRUE,Florida,65,Gators,Florida Gators,Florida
+400947000,2017,post-season,2017-03-18,2,258,away,TRUE,Virginia,39,Cavaliers,Virginia Cavaliers,Virginia
+400947047,2017,post-season,2017-03-18,2,2509,home,TRUE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
+400947047,2017,post-season,2017-03-18,2,66,away,TRUE,Iowa State,76,Cyclones,Iowa State Cyclones,Iowa State

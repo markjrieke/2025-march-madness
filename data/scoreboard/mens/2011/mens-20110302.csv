@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310612305,2011-03-02,2,2305,home,FALSE,Kansas,64,Jayhawks,Kansas Jayhawks,Kansas
-310612305,2011-03-02,2,245,away,FALSE,Texas A&M,51,Aggies,Texas A&M Aggies,Texas A&M
-310610252,2011-03-02,2,252,home,FALSE,BYU,64,Cougars,BYU Cougars,BYU
-310610252,2011-03-02,2,167,away,FALSE,New Mexico,82,Lobos,New Mexico Lobos,New Mexico
-310610150,2011-03-02,2,150,home,FALSE,Duke,70,Blue Devils,Duke Blue Devils,Duke
-310610150,2011-03-02,2,228,away,FALSE,Clemson,59,Tigers,Clemson Tigers,Clemson
-310610058,2011-03-02,2,58,home,FALSE,South Florida,50,Bulls,South Florida Bulls,South Florida
-310610058,2011-03-02,2,221,away,FALSE,Pittsburgh,66,Panthers,Pittsburgh Panthers,Pitt
-310610097,2011-03-02,2,97,home,FALSE,Louisville,87,Cardinals,Louisville Cardinals,Louisville
-310610097,2011-03-02,2,2507,away,FALSE,Providence,60,Friars,Providence Friars,Providence
-310610052,2011-03-02,2,52,home,FALSE,Florida State,70,Seminoles,Florida State Seminoles,Florida St
-310610052,2011-03-02,2,153,away,FALSE,North Carolina,72,Tar Heels,North Carolina Tar Heels,North Carolina
-310610277,2011-03-02,2,277,home,FALSE,West Virginia,65,Mountaineers,West Virginia Mountaineers,West Virginia
-310610277,2011-03-02,2,41,away,FALSE,UConn,56,Huskies,UConn Huskies,UConn
-310612752,2011-03-02,2,2752,home,FALSE,Xavier,68,Musketeers,Xavier Musketeers,Xavier
-310612752,2011-03-02,2,2429,away,FALSE,Charlotte,48,49ers,Charlotte 49ers,Charlotte
-310610166,2011-03-02,2,166,home,FALSE,New Mexico State,54,Aggies,New Mexico State Aggies,New Mexico St
-310610166,2011-03-02,2,328,away,FALSE,Utah State,58,Aggies,Utah State Aggies,Utah State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310612305,2011,regular-season,2011-03-02,2,2305,home,FALSE,Kansas,64,Jayhawks,Kansas Jayhawks,Kansas
+310612305,2011,regular-season,2011-03-02,2,245,away,FALSE,Texas A&M,51,Aggies,Texas A&M Aggies,Texas A&M
+310610252,2011,regular-season,2011-03-02,2,252,home,FALSE,BYU,64,Cougars,BYU Cougars,BYU
+310610252,2011,regular-season,2011-03-02,2,167,away,FALSE,New Mexico,82,Lobos,New Mexico Lobos,New Mexico
+310610150,2011,regular-season,2011-03-02,2,150,home,FALSE,Duke,70,Blue Devils,Duke Blue Devils,Duke
+310610150,2011,regular-season,2011-03-02,2,228,away,FALSE,Clemson,59,Tigers,Clemson Tigers,Clemson
+310610058,2011,regular-season,2011-03-02,2,58,home,FALSE,South Florida,50,Bulls,South Florida Bulls,South Florida
+310610058,2011,regular-season,2011-03-02,2,221,away,FALSE,Pittsburgh,66,Panthers,Pittsburgh Panthers,Pitt
+310610097,2011,regular-season,2011-03-02,2,97,home,FALSE,Louisville,87,Cardinals,Louisville Cardinals,Louisville
+310610097,2011,regular-season,2011-03-02,2,2507,away,FALSE,Providence,60,Friars,Providence Friars,Providence
+310610052,2011,regular-season,2011-03-02,2,52,home,FALSE,Florida State,70,Seminoles,Florida State Seminoles,Florida St
+310610052,2011,regular-season,2011-03-02,2,153,away,FALSE,North Carolina,72,Tar Heels,North Carolina Tar Heels,North Carolina
+310610277,2011,regular-season,2011-03-02,2,277,home,FALSE,West Virginia,65,Mountaineers,West Virginia Mountaineers,West Virginia
+310610277,2011,regular-season,2011-03-02,2,41,away,FALSE,UConn,56,Huskies,UConn Huskies,UConn
+310612752,2011,regular-season,2011-03-02,2,2752,home,FALSE,Xavier,68,Musketeers,Xavier Musketeers,Xavier
+310612752,2011,regular-season,2011-03-02,2,2429,away,FALSE,Charlotte,48,49ers,Charlotte 49ers,Charlotte
+310610166,2011,regular-season,2011-03-02,2,166,home,FALSE,New Mexico State,54,Aggies,New Mexico State Aggies,New Mexico St
+310610166,2011,regular-season,2011-03-02,2,328,away,FALSE,Utah State,58,Aggies,Utah State Aggies,Utah State

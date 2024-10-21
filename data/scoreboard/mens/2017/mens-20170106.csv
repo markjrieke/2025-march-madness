@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400917114,2017-01-06,2,2006,home,FALSE,Akron,66,Zips,Akron Zips,Akron
-400917114,2017-01-06,2,2711,away,FALSE,Western Michigan,59,Broncos,Western Michigan Broncos,W Michigan
-400918304,2017-01-06,2,2168,home,FALSE,Dayton,67,Flyers,Dayton Flyers,Dayton
-400918304,2017-01-06,2,227,away,FALSE,Rhode Island,64,Rams,Rhode Island Rams,Rhode Island
-400917570,2017-01-06,2,2368,home,FALSE,Marist,62,Red Foxes,Marist Red Foxes,Marist
-400917570,2017-01-06,2,2520,away,FALSE,Rider,73,Broncs,Rider Broncs,Rider
-400917569,2017-01-06,2,2405,home,FALSE,Monmouth,92,Hawks,Monmouth Hawks,Monmouth
-400917569,2017-01-06,2,314,away,FALSE,Iona,74,Gaels,Iona Gaels,Iona
-400918520,2017-01-06,2,2739,home,FALSE,Green Bay,80,Phoenix,Green Bay Phoenix,Green Bay
-400918520,2017-01-06,2,270,away,FALSE,Milwaukee,74,Panthers,Milwaukee Panthers,Milwaukee
-400918503,2017-01-06,2,82,home,FALSE,UIC,78,Flames,UIC Flames,UIC
-400918503,2017-01-06,2,2174,away,FALSE,Detroit Mercy,64,Titans,Detroit Mercy Titans,Detroit Mercy
-400919552,2017-01-06,2,195,home,FALSE,Ohio,85,Bobcats,Ohio Bobcats,Ohio
-400919552,2017-01-06,2,2309,away,FALSE,Kent State,67,Golden Flashes,Kent State Golden Flashes,Kent State
-400918583,2017-01-06,2,2674,home,FALSE,Valparaiso,66,Beacons,Valparaiso Beacons,Valparaiso
-400918583,2017-01-06,2,2473,away,FALSE,Oakland,78,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400917114,2017,regular-season,2017-01-06,2,2006,home,FALSE,Akron,66,Zips,Akron Zips,Akron
+400917114,2017,regular-season,2017-01-06,2,2711,away,FALSE,Western Michigan,59,Broncos,Western Michigan Broncos,W Michigan
+400918304,2017,regular-season,2017-01-06,2,2168,home,FALSE,Dayton,67,Flyers,Dayton Flyers,Dayton
+400918304,2017,regular-season,2017-01-06,2,227,away,FALSE,Rhode Island,64,Rams,Rhode Island Rams,Rhode Island
+400917570,2017,regular-season,2017-01-06,2,2368,home,FALSE,Marist,62,Red Foxes,Marist Red Foxes,Marist
+400917570,2017,regular-season,2017-01-06,2,2520,away,FALSE,Rider,73,Broncs,Rider Broncs,Rider
+400917569,2017,regular-season,2017-01-06,2,2405,home,FALSE,Monmouth,92,Hawks,Monmouth Hawks,Monmouth
+400917569,2017,regular-season,2017-01-06,2,314,away,FALSE,Iona,74,Gaels,Iona Gaels,Iona
+400918520,2017,regular-season,2017-01-06,2,2739,home,FALSE,Green Bay,80,Phoenix,Green Bay Phoenix,Green Bay
+400918520,2017,regular-season,2017-01-06,2,270,away,FALSE,Milwaukee,74,Panthers,Milwaukee Panthers,Milwaukee
+400918503,2017,regular-season,2017-01-06,2,82,home,FALSE,UIC,78,Flames,UIC Flames,UIC
+400918503,2017,regular-season,2017-01-06,2,2174,away,FALSE,Detroit Mercy,64,Titans,Detroit Mercy Titans,Detroit Mercy
+400919552,2017,regular-season,2017-01-06,2,195,home,FALSE,Ohio,85,Bobcats,Ohio Bobcats,Ohio
+400919552,2017,regular-season,2017-01-06,2,2309,away,FALSE,Kent State,67,Golden Flashes,Kent State Golden Flashes,Kent State
+400918583,2017,regular-season,2017-01-06,2,2674,home,FALSE,Valparaiso,66,Beacons,Valparaiso Beacons,Valparaiso
+400918583,2017,regular-season,2017-01-06,2,2473,away,FALSE,Oakland,78,Golden Grizzlies,Oakland Golden Grizzlies,Oakland

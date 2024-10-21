@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240480041,2004-02-17,2,41,home,FALSE,UConn,97,Huskies,UConn Huskies,UConn
-240480041,2004-02-17,2,221,away,FALSE,Pittsburgh,42,Panthers,Pittsburgh Panthers,Pitt
-240480142,2004-02-17,2,142,home,FALSE,Missouri,68,Tigers,Missouri Tigers,Missouri
-240480142,2004-02-17,2,2641,away,FALSE,Texas Tech,73,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240480041,2004,regular-season,2004-02-17,2,41,home,FALSE,UConn,97,Huskies,UConn Huskies,UConn
+240480041,2004,regular-season,2004-02-17,2,221,away,FALSE,Pittsburgh,42,Panthers,Pittsburgh Panthers,Pitt
+240480142,2004,regular-season,2004-02-17,2,142,home,FALSE,Missouri,68,Tigers,Missouri Tigers,Missouri
+240480142,2004,regular-season,2004-02-17,2,2641,away,FALSE,Texas Tech,73,Lady Raiders,Texas Tech Lady Raiders,Texas Tech

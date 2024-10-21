@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400509543,2014-02-18,2,46,home,FALSE,Georgetown,60,Hoyas,Georgetown Hoyas,Georgetown
-400509543,2014-02-18,2,2599,away,FALSE,St. John's,57,Red Storm,St. John's Red Storm,St John's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400509543,2014,regular-season,2014-02-18,2,46,home,FALSE,Georgetown,60,Hoyas,Georgetown Hoyas,Georgetown
+400509543,2014,regular-season,2014-02-18,2,2599,away,FALSE,St. John's,57,Red Storm,St. John's Red Storm,St John's

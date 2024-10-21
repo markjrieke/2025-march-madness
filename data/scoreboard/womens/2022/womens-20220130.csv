@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401364286,2022-01-30,4,57,home,FALSE,Florida,50,Gators,Florida Gators,Florida
-401364286,2022-01-30,4,2579,away,FALSE,South Carolina,62,Gamecocks,South Carolina Gamecocks,South Carolina
-401382147,2022-01-30,4,24,home,FALSE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
-401382147,2022-01-30,4,12,away,FALSE,Arizona,69,Wildcats,Arizona Wildcats,Arizona
-401369564,2022-01-30,4,153,home,FALSE,North Carolina,58,Tar Heels,North Carolina Tar Heels,North Carolina
-401369564,2022-01-30,4,152,away,FALSE,NC State,66,Wolfpack,NC State Wolfpack,NC State
-401369563,2022-01-30,4,97,home,FALSE,Louisville,77,Cardinals,Louisville Cardinals,Louisville
-401369563,2022-01-30,4,150,away,FALSE,Duke,65,Blue Devils,Duke Blue Devils,Duke
-401378388,2022-01-30,4,2507,home,FALSE,Providence,61,Friars,Providence Friars,Providence
-401378388,2022-01-30,4,41,away,FALSE,UConn,69,Huskies,UConn Huskies,UConn
-401364287,2022-01-30,4,99,home,FALSE,LSU,78,Tigers,LSU Tigers,LSU
-401364287,2022-01-30,4,96,away,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
-401369561,2022-01-30,4,228,home,FALSE,Clemson,62,Tigers,Clemson Tigers,Clemson
-401369561,2022-01-30,4,59,away,FALSE,Georgia Tech,69,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-401364288,2022-01-30,4,145,home,FALSE,Ole Miss,52,Rebels,Ole Miss Rebels,Ole Miss
-401364288,2022-01-30,4,61,away,FALSE,Georgia,62,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-401364551,2022-01-30,4,213,home,FALSE,Penn State,71,Lady Lions,Penn State Lady Lions,Penn State
-401364551,2022-01-30,4,120,away,FALSE,Maryland,82,Terrapins,Maryland Terrapins,Maryland
-401382145,2022-01-30,4,2483,home,FALSE,Oregon,80,Ducks,Oregon Ducks,Oregon
-401382145,2022-01-30,4,30,away,FALSE,USC,48,Trojans,USC Trojans,USC
-401369560,2022-01-30,4,87,home,FALSE,Notre Dame,74,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401369560,2022-01-30,4,103,away,FALSE,Boston College,61,Eagles,Boston College Eagles,Boston College
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401364286,2022,regular-season,2022-01-30,4,57,home,FALSE,Florida,50,Gators,Florida Gators,Florida
+401364286,2022,regular-season,2022-01-30,4,2579,away,FALSE,South Carolina,62,Gamecocks,South Carolina Gamecocks,South Carolina
+401382147,2022,regular-season,2022-01-30,4,24,home,FALSE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
+401382147,2022,regular-season,2022-01-30,4,12,away,FALSE,Arizona,69,Wildcats,Arizona Wildcats,Arizona
+401369564,2022,regular-season,2022-01-30,4,153,home,FALSE,North Carolina,58,Tar Heels,North Carolina Tar Heels,North Carolina
+401369564,2022,regular-season,2022-01-30,4,152,away,FALSE,NC State,66,Wolfpack,NC State Wolfpack,NC State
+401369563,2022,regular-season,2022-01-30,4,97,home,FALSE,Louisville,77,Cardinals,Louisville Cardinals,Louisville
+401369563,2022,regular-season,2022-01-30,4,150,away,FALSE,Duke,65,Blue Devils,Duke Blue Devils,Duke
+401378388,2022,regular-season,2022-01-30,4,2507,home,FALSE,Providence,61,Friars,Providence Friars,Providence
+401378388,2022,regular-season,2022-01-30,4,41,away,FALSE,UConn,69,Huskies,UConn Huskies,UConn
+401364287,2022,regular-season,2022-01-30,4,99,home,FALSE,LSU,78,Tigers,LSU Tigers,LSU
+401364287,2022,regular-season,2022-01-30,4,96,away,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
+401369561,2022,regular-season,2022-01-30,4,228,home,FALSE,Clemson,62,Tigers,Clemson Tigers,Clemson
+401369561,2022,regular-season,2022-01-30,4,59,away,FALSE,Georgia Tech,69,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+401364288,2022,regular-season,2022-01-30,4,145,home,FALSE,Ole Miss,52,Rebels,Ole Miss Rebels,Ole Miss
+401364288,2022,regular-season,2022-01-30,4,61,away,FALSE,Georgia,62,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+401364551,2022,regular-season,2022-01-30,4,213,home,FALSE,Penn State,71,Lady Lions,Penn State Lady Lions,Penn State
+401364551,2022,regular-season,2022-01-30,4,120,away,FALSE,Maryland,82,Terrapins,Maryland Terrapins,Maryland
+401382145,2022,regular-season,2022-01-30,4,2483,home,FALSE,Oregon,80,Ducks,Oregon Ducks,Oregon
+401382145,2022,regular-season,2022-01-30,4,30,away,FALSE,USC,48,Trojans,USC Trojans,USC
+401369560,2022,regular-season,2022-01-30,4,87,home,FALSE,Notre Dame,74,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401369560,2022,regular-season,2022-01-30,4,103,away,FALSE,Boston College,61,Eagles,Boston College Eagles,Boston College

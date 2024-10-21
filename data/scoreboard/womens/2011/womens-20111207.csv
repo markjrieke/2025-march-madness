@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313410087,2011-12-07,2,87,home,FALSE,Notre Dame,95,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-313410087,2011-12-07,2,269,away,FALSE,Marquette,42,Golden Eagles,Marquette Golden Eagles,Marquette
-313412641,2011-12-07,2,2641,home,FALSE,Texas Tech,88,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-313412641,2011-12-07,2,250,away,FALSE,UT Arlington,48,Mavericks,UT Arlington Mavericks,UT Arlington
-313410153,2011-12-07,2,153,home,FALSE,North Carolina,95,Tar Heels,North Carolina Tar Heels,North Carolina
-313410153,2011-12-07,2,288,away,FALSE,Lipscomb,53,Bisons,Lipscomb Bisons,Lipscomb
-313410221,2011-12-07,2,221,home,FALSE,Pittsburgh,54,Panthers,Pittsburgh Panthers,Pitt
-313410221,2011-12-07,2,46,away,FALSE,Georgetown,82,Hoyas,Georgetown Hoyas,Georgetown
-313410305,2011-12-07,2,305,home,FALSE,DePaul,69,Blue Demons,DePaul Blue Demons,DePaul
-313410305,2011-12-07,2,2599,away,FALSE,St. John's,52,Red Storm,St. John's Red Storm,St John's
-313412630,2011-12-07,2,2630,home,FALSE,UT Martin,84,Skyhawks,UT Martin Skyhawks,UT Martin
-313412630,2011-12-07,2,238,away,FALSE,Vanderbilt,99,Commodores,Vanderbilt Commodores,Vanderbilt
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313410087,2012,regular-season,2011-12-07,2,87,home,FALSE,Notre Dame,95,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+313410087,2012,regular-season,2011-12-07,2,269,away,FALSE,Marquette,42,Golden Eagles,Marquette Golden Eagles,Marquette
+313412641,2012,regular-season,2011-12-07,2,2641,home,FALSE,Texas Tech,88,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+313412641,2012,regular-season,2011-12-07,2,250,away,FALSE,UT Arlington,48,Mavericks,UT Arlington Mavericks,UT Arlington
+313410153,2012,regular-season,2011-12-07,2,153,home,FALSE,North Carolina,95,Tar Heels,North Carolina Tar Heels,North Carolina
+313410153,2012,regular-season,2011-12-07,2,288,away,FALSE,Lipscomb,53,Bisons,Lipscomb Bisons,Lipscomb
+313410221,2012,regular-season,2011-12-07,2,221,home,FALSE,Pittsburgh,54,Panthers,Pittsburgh Panthers,Pitt
+313410221,2012,regular-season,2011-12-07,2,46,away,FALSE,Georgetown,82,Hoyas,Georgetown Hoyas,Georgetown
+313410305,2012,regular-season,2011-12-07,2,305,home,FALSE,DePaul,69,Blue Demons,DePaul Blue Demons,DePaul
+313410305,2012,regular-season,2011-12-07,2,2599,away,FALSE,St. John's,52,Red Storm,St. John's Red Storm,St John's
+313412630,2012,regular-season,2011-12-07,2,2630,home,FALSE,UT Martin,84,Skyhawks,UT Martin Skyhawks,UT Martin
+313412630,2012,regular-season,2011-12-07,2,238,away,FALSE,Vanderbilt,99,Commodores,Vanderbilt Commodores,Vanderbilt

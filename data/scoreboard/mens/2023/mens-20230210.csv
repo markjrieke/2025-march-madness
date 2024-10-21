@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401485257,2023-02-10,2,2086,home,FALSE,Butler,69,Bulldogs,Butler Bulldogs,Butler
-401485257,2023-02-10,2,2752,away,FALSE,Xavier,67,Musketeers,Xavier Musketeers,Xavier
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401485257,2023,regular-season,2023-02-10,2,2086,home,FALSE,Butler,69,Bulldogs,Butler Bulldogs,Butler
+401485257,2023,regular-season,2023-02-10,2,2752,away,FALSE,Xavier,67,Musketeers,Xavier Musketeers,Xavier

@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240110150,2004-01-11,2,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
-240110150,2004-01-11,2,153,away,FALSE,North Carolina,57,Tar Heels,North Carolina Tar Heels,North Carolina
-240110344,2004-01-11,2,344,home,FALSE,Mississippi State,53,Bulldogs,Mississippi State Bulldogs,Mississippi St
-240110344,2004-01-11,2,2633,away,FALSE,Tennessee,61,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-240110135,2004-01-11,2,135,home,FALSE,Minnesota,75,Golden Gophers,Minnesota Golden Gophers,Minnesota
-240110135,2004-01-11,2,2294,away,FALSE,Iowa,61,Hawkeyes,Iowa Hawkeyes,Iowa
-240110275,2004-01-11,2,275,home,FALSE,Wisconsin,59,Badgers,Wisconsin Badgers,Wisconsin
-240110275,2004-01-11,2,213,away,FALSE,Penn State,60,Lady Lions,Penn State Lady Lions,Penn State
-240110356,2004-01-11,2,356,home,FALSE,Illinois,49,Fighting Illini,Illinois Fighting Illini,Illinois
-240110356,2004-01-11,2,2509,away,FALSE,Purdue,58,Boilermakers,Purdue Boilermakers,Purdue
-240110096,2004-01-11,2,96,home,FALSE,Kentucky,53,Wildcats,Kentucky Wildcats,Kentucky
-240110096,2004-01-11,2,61,away,FALSE,Georgia,74,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-240110099,2004-01-11,2,99,home,FALSE,LSU,70,Tigers,LSU Tigers,LSU
-240110099,2004-01-11,2,2,away,FALSE,Auburn,59,Tigers,Auburn Tigers,Auburn
-240110305,2004-01-11,2,305,home,FALSE,DePaul,88,Blue Demons,DePaul Blue Demons,DePaul
-240110305,2004-01-11,2,2132,away,FALSE,Cincinnati,61,Bearcats,Cincinnati Bearcats,Cincinnati
-240110235,2004-01-11,2,235,home,FALSE,Memphis,75,Tigers,Memphis Tigers,Memphis
-240110235,2004-01-11,2,2628,away,FALSE,TCU,78,Horned Frogs,TCU Horned Frogs,TCU
-240110077,2004-01-11,2,77,home,FALSE,Northwestern,35,Wildcats,Northwestern Wildcats,Northwestern
-240110077,2004-01-11,2,194,away,FALSE,Ohio State,77,Buckeyes,Ohio State Buckeyes,Ohio State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240110150,2004,regular-season,2004-01-11,2,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
+240110150,2004,regular-season,2004-01-11,2,153,away,FALSE,North Carolina,57,Tar Heels,North Carolina Tar Heels,North Carolina
+240110344,2004,regular-season,2004-01-11,2,344,home,FALSE,Mississippi State,53,Bulldogs,Mississippi State Bulldogs,Mississippi St
+240110344,2004,regular-season,2004-01-11,2,2633,away,FALSE,Tennessee,61,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+240110135,2004,regular-season,2004-01-11,2,135,home,FALSE,Minnesota,75,Golden Gophers,Minnesota Golden Gophers,Minnesota
+240110135,2004,regular-season,2004-01-11,2,2294,away,FALSE,Iowa,61,Hawkeyes,Iowa Hawkeyes,Iowa
+240110275,2004,regular-season,2004-01-11,2,275,home,FALSE,Wisconsin,59,Badgers,Wisconsin Badgers,Wisconsin
+240110275,2004,regular-season,2004-01-11,2,213,away,FALSE,Penn State,60,Lady Lions,Penn State Lady Lions,Penn State
+240110356,2004,regular-season,2004-01-11,2,356,home,FALSE,Illinois,49,Fighting Illini,Illinois Fighting Illini,Illinois
+240110356,2004,regular-season,2004-01-11,2,2509,away,FALSE,Purdue,58,Boilermakers,Purdue Boilermakers,Purdue
+240110096,2004,regular-season,2004-01-11,2,96,home,FALSE,Kentucky,53,Wildcats,Kentucky Wildcats,Kentucky
+240110096,2004,regular-season,2004-01-11,2,61,away,FALSE,Georgia,74,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+240110099,2004,regular-season,2004-01-11,2,99,home,FALSE,LSU,70,Tigers,LSU Tigers,LSU
+240110099,2004,regular-season,2004-01-11,2,2,away,FALSE,Auburn,59,Tigers,Auburn Tigers,Auburn
+240110305,2004,regular-season,2004-01-11,2,305,home,FALSE,DePaul,88,Blue Demons,DePaul Blue Demons,DePaul
+240110305,2004,regular-season,2004-01-11,2,2132,away,FALSE,Cincinnati,61,Bearcats,Cincinnati Bearcats,Cincinnati
+240110235,2004,regular-season,2004-01-11,2,235,home,FALSE,Memphis,75,Tigers,Memphis Tigers,Memphis
+240110235,2004,regular-season,2004-01-11,2,2628,away,FALSE,TCU,78,Horned Frogs,TCU Horned Frogs,TCU
+240110077,2004,regular-season,2004-01-11,2,77,home,FALSE,Northwestern,35,Wildcats,Northwestern Wildcats,Northwestern
+240110077,2004,regular-season,2004-01-11,2,194,away,FALSE,Ohio State,77,Buckeyes,Ohio State Buckeyes,Ohio State

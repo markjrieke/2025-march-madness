@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270250052,2007-01-25,2,52,home,FALSE,Florida State,60,Seminoles,Florida State Seminoles,Florida St
-270250052,2007-01-25,2,150,away,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
-270250228,2007-01-25,2,228,home,FALSE,Clemson,62,Tigers,Clemson Tigers,Clemson
-270250228,2007-01-25,2,120,away,FALSE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
-270250238,2007-01-25,2,238,home,FALSE,Vanderbilt,57,Commodores,Vanderbilt Commodores,Vanderbilt
-270250238,2007-01-25,2,2633,away,FALSE,Tennessee,67,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-270250194,2007-01-25,2,194,home,FALSE,Ohio State,72,Buckeyes,Ohio State Buckeyes,Ohio State
-270250194,2007-01-25,2,84,away,FALSE,Indiana,62,Hoosiers,Indiana Hoosiers,Indiana
-270250099,2007-01-25,2,99,home,FALSE,LSU,70,Tigers,LSU Tigers,LSU
-270250099,2007-01-25,2,8,away,FALSE,Arkansas,53,Razorbacks,Arkansas Razorbacks,Arkansas
-270250012,2007-01-25,2,12,home,FALSE,Arizona,76,Wildcats,Arizona Wildcats,Arizona
-270250012,2007-01-25,2,24,away,FALSE,Stanford,86,Cardinal,Stanford Cardinal,Stanford
-270250009,2007-01-25,2,9,home,FALSE,Arizona State,66,Sun Devils,Arizona State Sun Devils,Arizona St
-270250009,2007-01-25,2,25,away,FALSE,California,54,Golden Bears,California Golden Bears,California
-270252509,2007-01-25,2,2509,home,FALSE,Purdue,72,Boilermakers,Purdue Boilermakers,Purdue
-270252509,2007-01-25,2,77,away,FALSE,Northwestern,30,Wildcats,Northwestern Wildcats,Northwestern
-270250061,2007-01-25,2,61,home,FALSE,Georgia,69,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-270250061,2007-01-25,2,145,away,FALSE,Ole Miss,60,Rebels,Ole Miss Rebels,Ole Miss
-270250213,2007-01-25,2,213,home,FALSE,Penn State,69,Lady Lions,Penn State Lady Lions,Penn State
-270250213,2007-01-25,2,127,away,FALSE,Michigan State,58,Spartans,Michigan State Spartans,Michigan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270250052,2007,regular-season,2007-01-25,2,52,home,FALSE,Florida State,60,Seminoles,Florida State Seminoles,Florida St
+270250052,2007,regular-season,2007-01-25,2,150,away,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
+270250228,2007,regular-season,2007-01-25,2,228,home,FALSE,Clemson,62,Tigers,Clemson Tigers,Clemson
+270250228,2007,regular-season,2007-01-25,2,120,away,FALSE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
+270250238,2007,regular-season,2007-01-25,2,238,home,FALSE,Vanderbilt,57,Commodores,Vanderbilt Commodores,Vanderbilt
+270250238,2007,regular-season,2007-01-25,2,2633,away,FALSE,Tennessee,67,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+270250194,2007,regular-season,2007-01-25,2,194,home,FALSE,Ohio State,72,Buckeyes,Ohio State Buckeyes,Ohio State
+270250194,2007,regular-season,2007-01-25,2,84,away,FALSE,Indiana,62,Hoosiers,Indiana Hoosiers,Indiana
+270250099,2007,regular-season,2007-01-25,2,99,home,FALSE,LSU,70,Tigers,LSU Tigers,LSU
+270250099,2007,regular-season,2007-01-25,2,8,away,FALSE,Arkansas,53,Razorbacks,Arkansas Razorbacks,Arkansas
+270250012,2007,regular-season,2007-01-25,2,12,home,FALSE,Arizona,76,Wildcats,Arizona Wildcats,Arizona
+270250012,2007,regular-season,2007-01-25,2,24,away,FALSE,Stanford,86,Cardinal,Stanford Cardinal,Stanford
+270250009,2007,regular-season,2007-01-25,2,9,home,FALSE,Arizona State,66,Sun Devils,Arizona State Sun Devils,Arizona St
+270250009,2007,regular-season,2007-01-25,2,25,away,FALSE,California,54,Golden Bears,California Golden Bears,California
+270252509,2007,regular-season,2007-01-25,2,2509,home,FALSE,Purdue,72,Boilermakers,Purdue Boilermakers,Purdue
+270252509,2007,regular-season,2007-01-25,2,77,away,FALSE,Northwestern,30,Wildcats,Northwestern Wildcats,Northwestern
+270250061,2007,regular-season,2007-01-25,2,61,home,FALSE,Georgia,69,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+270250061,2007,regular-season,2007-01-25,2,145,away,FALSE,Ole Miss,60,Rebels,Ole Miss Rebels,Ole Miss
+270250213,2007,regular-season,2007-01-25,2,213,home,FALSE,Penn State,69,Lady Lions,Penn State Lady Lions,Penn State
+270250213,2007,regular-season,2007-01-25,2,127,away,FALSE,Michigan State,58,Spartans,Michigan State Spartans,Michigan St

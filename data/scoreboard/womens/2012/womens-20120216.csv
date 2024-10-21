@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320470204,2012-02-16,2,204,home,FALSE,Oregon State,45,Beavers,Oregon State Beavers,Oregon St
-320470204,2012-02-16,2,24,away,FALSE,Stanford,78,Cardinal,Stanford Cardinal,Stanford
-320470152,2012-02-16,2,152,home,FALSE,NC State,61,Wolfpack,NC State Wolfpack,NC State
-320470152,2012-02-16,2,2390,away,FALSE,Miami,73,Hurricanes,Miami Hurricanes,Miami
-320470333,2012-02-16,2,333,home,FALSE,Alabama,77,Crimson Tide,Alabama Crimson Tide,Alabama
-320470333,2012-02-16,2,96,away,FALSE,Kentucky,75,Wildcats,Kentucky Wildcats,Kentucky
-320470258,2012-02-16,2,258,home,FALSE,Virginia,56,Cavaliers,Virginia Cavaliers,Virginia
-320470258,2012-02-16,2,120,away,FALSE,Maryland,73,Terrapins,Maryland Terrapins,Maryland
-320470194,2012-02-16,2,194,home,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
-320470194,2012-02-16,2,84,away,FALSE,Indiana,54,Hoosiers,Indiana Hoosiers,Indiana
-320472275,2012-02-16,2,2275,home,FALSE,Hofstra,79,Pride,Hofstra Pride,Hofstra
-320472275,2012-02-16,2,48,away,FALSE,Delaware,89,Blue Hens,Delaware Blue Hens,Delaware
-320470325,2012-02-16,2,325,home,FALSE,Cleveland State,59,Vikings,Cleveland State Vikings,Cleveland St
-320470325,2012-02-16,2,2739,away,FALSE,Green Bay,90,Phoenix,Green Bay Phoenix,Green Bay
-320472509,2012-02-16,2,2509,home,FALSE,Purdue,63,Boilermakers,Purdue Boilermakers,Purdue
-320472509,2012-02-16,2,213,away,FALSE,Penn State,74,Lady Lions,Penn State Lady Lions,Penn State
-320470344,2012-02-16,2,344,home,FALSE,Mississippi State,41,Bulldogs,Mississippi State Bulldogs,Mississippi St
-320470344,2012-02-16,2,2633,away,FALSE,Tennessee,57,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-320470158,2012-02-16,2,158,home,FALSE,Nebraska,51,Cornhuskers,Nebraska Cornhuskers,Nebraska
-320470158,2012-02-16,2,77,away,FALSE,Northwestern,63,Wildcats,Northwestern Wildcats,Northwestern
-320472579,2012-02-16,2,2579,home,FALSE,South Carolina,59,Gamecocks,South Carolina Gamecocks,South Carolina
-320472579,2012-02-16,2,61,away,FALSE,Georgia,61,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-320470154,2012-02-16,2,154,home,FALSE,Wake Forest,52,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-320470154,2012-02-16,2,59,away,FALSE,Georgia Tech,67,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-320470252,2012-02-16,2,252,home,FALSE,BYU,64,Cougars,BYU Cougars,BYU
-320470252,2012-02-16,2,2539,away,FALSE,San Francisco,71,Dons,San Francisco Dons,San Francisco
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320470204,2012,regular-season,2012-02-16,2,204,home,FALSE,Oregon State,45,Beavers,Oregon State Beavers,Oregon St
+320470204,2012,regular-season,2012-02-16,2,24,away,FALSE,Stanford,78,Cardinal,Stanford Cardinal,Stanford
+320470152,2012,regular-season,2012-02-16,2,152,home,FALSE,NC State,61,Wolfpack,NC State Wolfpack,NC State
+320470152,2012,regular-season,2012-02-16,2,2390,away,FALSE,Miami,73,Hurricanes,Miami Hurricanes,Miami
+320470333,2012,regular-season,2012-02-16,2,333,home,FALSE,Alabama,77,Crimson Tide,Alabama Crimson Tide,Alabama
+320470333,2012,regular-season,2012-02-16,2,96,away,FALSE,Kentucky,75,Wildcats,Kentucky Wildcats,Kentucky
+320470258,2012,regular-season,2012-02-16,2,258,home,FALSE,Virginia,56,Cavaliers,Virginia Cavaliers,Virginia
+320470258,2012,regular-season,2012-02-16,2,120,away,FALSE,Maryland,73,Terrapins,Maryland Terrapins,Maryland
+320470194,2012,regular-season,2012-02-16,2,194,home,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
+320470194,2012,regular-season,2012-02-16,2,84,away,FALSE,Indiana,54,Hoosiers,Indiana Hoosiers,Indiana
+320472275,2012,regular-season,2012-02-16,2,2275,home,FALSE,Hofstra,79,Pride,Hofstra Pride,Hofstra
+320472275,2012,regular-season,2012-02-16,2,48,away,FALSE,Delaware,89,Blue Hens,Delaware Blue Hens,Delaware
+320470325,2012,regular-season,2012-02-16,2,325,home,FALSE,Cleveland State,59,Vikings,Cleveland State Vikings,Cleveland St
+320470325,2012,regular-season,2012-02-16,2,2739,away,FALSE,Green Bay,90,Phoenix,Green Bay Phoenix,Green Bay
+320472509,2012,regular-season,2012-02-16,2,2509,home,FALSE,Purdue,63,Boilermakers,Purdue Boilermakers,Purdue
+320472509,2012,regular-season,2012-02-16,2,213,away,FALSE,Penn State,74,Lady Lions,Penn State Lady Lions,Penn State
+320470344,2012,regular-season,2012-02-16,2,344,home,FALSE,Mississippi State,41,Bulldogs,Mississippi State Bulldogs,Mississippi St
+320470344,2012,regular-season,2012-02-16,2,2633,away,FALSE,Tennessee,57,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+320470158,2012,regular-season,2012-02-16,2,158,home,FALSE,Nebraska,51,Cornhuskers,Nebraska Cornhuskers,Nebraska
+320470158,2012,regular-season,2012-02-16,2,77,away,FALSE,Northwestern,63,Wildcats,Northwestern Wildcats,Northwestern
+320472579,2012,regular-season,2012-02-16,2,2579,home,FALSE,South Carolina,59,Gamecocks,South Carolina Gamecocks,South Carolina
+320472579,2012,regular-season,2012-02-16,2,61,away,FALSE,Georgia,61,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+320470154,2012,regular-season,2012-02-16,2,154,home,FALSE,Wake Forest,52,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+320470154,2012,regular-season,2012-02-16,2,59,away,FALSE,Georgia Tech,67,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+320470252,2012,regular-season,2012-02-16,2,252,home,FALSE,BYU,64,Cougars,BYU Cougars,BYU
+320470252,2012,regular-season,2012-02-16,2,2539,away,FALSE,San Francisco,71,Dons,San Francisco Dons,San Francisco

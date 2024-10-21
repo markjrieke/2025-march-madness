@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400596339,2014-12-07,2,96,home,FALSE,Kentucky,82,Wildcats,Kentucky Wildcats,Kentucky
-400596339,2014-12-07,2,2198,away,FALSE,Eastern Kentucky,49,Colonels,Eastern Kentucky Colonels,E Kentucky
-400586717,2014-12-07,2,153,home,FALSE,North Carolina,108,Tar Heels,North Carolina Tar Heels,North Carolina
-400586717,2014-12-07,2,151,away,FALSE,East Carolina,64,Pirates,East Carolina Pirates,East Carolina
-400591589,2014-12-07,2,264,home,FALSE,Washington,49,Huskies,Washington Huskies,Washington
-400591589,2014-12-07,2,21,away,FALSE,San Diego State,36,Aztecs,San Diego State Aztecs,San Diego St
-400585728,2014-12-07,2,94,home,FALSE,Northern Kentucky,42,Norse,Northern Kentucky Norse,N Kentucky
-400585728,2014-12-07,2,277,away,FALSE,West Virginia,67,Mountaineers,West Virginia Mountaineers,West Virginia
-400587832,2014-12-07,3,228,home,FALSE,Clemson,68,Tigers,Clemson Tigers,Clemson
-400587832,2014-12-07,3,8,away,FALSE,Arkansas,65,Razorbacks,Arkansas Razorbacks,Arkansas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400596339,2015,regular-season,2014-12-07,2,96,home,FALSE,Kentucky,82,Wildcats,Kentucky Wildcats,Kentucky
+400596339,2015,regular-season,2014-12-07,2,2198,away,FALSE,Eastern Kentucky,49,Colonels,Eastern Kentucky Colonels,E Kentucky
+400586717,2015,regular-season,2014-12-07,2,153,home,FALSE,North Carolina,108,Tar Heels,North Carolina Tar Heels,North Carolina
+400586717,2015,regular-season,2014-12-07,2,151,away,FALSE,East Carolina,64,Pirates,East Carolina Pirates,East Carolina
+400591589,2015,regular-season,2014-12-07,2,264,home,FALSE,Washington,49,Huskies,Washington Huskies,Washington
+400591589,2015,regular-season,2014-12-07,2,21,away,FALSE,San Diego State,36,Aztecs,San Diego State Aztecs,San Diego St
+400585728,2015,regular-season,2014-12-07,2,94,home,FALSE,Northern Kentucky,42,Norse,Northern Kentucky Norse,N Kentucky
+400585728,2015,regular-season,2014-12-07,2,277,away,FALSE,West Virginia,67,Mountaineers,West Virginia Mountaineers,West Virginia
+400587832,2015,regular-season,2014-12-07,3,228,home,FALSE,Clemson,68,Tigers,Clemson Tigers,Clemson
+400587832,2015,regular-season,2014-12-07,3,8,away,FALSE,Arkansas,65,Razorbacks,Arkansas Razorbacks,Arkansas

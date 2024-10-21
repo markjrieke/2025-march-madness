@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300050251,2010-01-05,2,251,home,FALSE,Texas,84,Longhorns,Texas Longhorns,Texas
-300050251,2010-01-05,2,250,away,FALSE,UT Arlington,41,Mavericks,UT Arlington Mavericks,UT Arlington
-300050142,2010-01-05,2,142,home,FALSE,Missouri,60,Tigers,Missouri Tigers,Missouri
-300050142,2010-01-05,2,2752,away,FALSE,Xavier,68,Musketeers,Xavier Musketeers,Xavier
-300050277,2010-01-05,2,277,home,FALSE,West Virginia,63,Mountaineers,West Virginia Mountaineers,West Virginia
-300050277,2010-01-05,2,221,away,FALSE,Pittsburgh,59,Panthers,Pittsburgh Panthers,Pitt
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300050251,2010,regular-season,2010-01-05,2,251,home,FALSE,Texas,84,Longhorns,Texas Longhorns,Texas
+300050251,2010,regular-season,2010-01-05,2,250,away,FALSE,UT Arlington,41,Mavericks,UT Arlington Mavericks,UT Arlington
+300050142,2010,regular-season,2010-01-05,2,142,home,FALSE,Missouri,60,Tigers,Missouri Tigers,Missouri
+300050142,2010,regular-season,2010-01-05,2,2752,away,FALSE,Xavier,68,Musketeers,Xavier Musketeers,Xavier
+300050277,2010,regular-season,2010-01-05,2,277,home,FALSE,West Virginia,63,Mountaineers,West Virginia Mountaineers,West Virginia
+300050277,2010,regular-season,2010-01-05,2,221,away,FALSE,Pittsburgh,59,Panthers,Pittsburgh Panthers,Pitt

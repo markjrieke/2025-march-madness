@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400588158,2014-11-23,2,41,home,FALSE,UConn,96,Huskies,UConn Huskies,UConn
-400588158,2014-11-23,2,156,away,FALSE,Creighton,60,Bluejays,Creighton Bluejays,Creighton
-400595037,2014-11-23,2,2579,home,FALSE,South Carolina,89,Gamecocks,South Carolina Gamecocks,South Carolina
-400595037,2014-11-23,2,21,away,FALSE,San Diego State,38,Aztecs,San Diego State Aztecs,San Diego St
-400588161,2014-11-23,2,150,home,FALSE,Duke,83,Blue Devils,Duke Blue Devils,Duke
-400588161,2014-11-23,2,269,away,FALSE,Marquette,51,Golden Eagles,Marquette Golden Eagles,Marquette
-400590371,2014-11-23,2,26,home,FALSE,UCLA,65,Bruins,UCLA Bruins,UCLA
-400590371,2014-11-23,2,251,away,FALSE,Texas,75,Longhorns,Texas Longhorns,Texas
-400590370,2014-11-23,2,2483,home,FALSE,Oregon,59,Ducks,Oregon Ducks,Oregon
-400590370,2014-11-23,2,153,away,FALSE,North Carolina,76,Tar Heels,North Carolina Tar Heels,North Carolina
-400592962,2014-11-23,2,97,home,FALSE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
-400592962,2014-11-23,2,2050,away,FALSE,Ball State,56,Cardinals,Ball State Cardinals,Ball State
-400586496,2014-11-23,2,127,home,FALSE,Michigan State,64,Spartans,Michigan State Spartans,Michigan St
-400586496,2014-11-23,2,85,away,FALSE,IU Indianapolis,45,Jaguars,IU Indianapolis Jaguars,IU Indy
-400590372,2014-11-23,2,158,home,FALSE,Nebraska,66,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400590372,2014-11-23,2,254,away,FALSE,Utah,43,Utes,Utah Utes,Utah
-400594688,2014-11-23,2,2509,home,FALSE,Purdue,66,Boilermakers,Purdue Boilermakers,Purdue
-400594688,2014-11-23,2,2649,away,FALSE,Toledo,48,Rockets,Toledo Rockets,Toledo
-400592961,2014-11-23,2,59,home,FALSE,Georgia Tech,57,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-400592961,2014-11-23,2,61,away,FALSE,Georgia,64,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400588158,2015,regular-season,2014-11-23,2,41,home,FALSE,UConn,96,Huskies,UConn Huskies,UConn
+400588158,2015,regular-season,2014-11-23,2,156,away,FALSE,Creighton,60,Bluejays,Creighton Bluejays,Creighton
+400595037,2015,regular-season,2014-11-23,2,2579,home,FALSE,South Carolina,89,Gamecocks,South Carolina Gamecocks,South Carolina
+400595037,2015,regular-season,2014-11-23,2,21,away,FALSE,San Diego State,38,Aztecs,San Diego State Aztecs,San Diego St
+400588161,2015,regular-season,2014-11-23,2,150,home,FALSE,Duke,83,Blue Devils,Duke Blue Devils,Duke
+400588161,2015,regular-season,2014-11-23,2,269,away,FALSE,Marquette,51,Golden Eagles,Marquette Golden Eagles,Marquette
+400590371,2015,regular-season,2014-11-23,2,26,home,FALSE,UCLA,65,Bruins,UCLA Bruins,UCLA
+400590371,2015,regular-season,2014-11-23,2,251,away,FALSE,Texas,75,Longhorns,Texas Longhorns,Texas
+400590370,2015,regular-season,2014-11-23,2,2483,home,FALSE,Oregon,59,Ducks,Oregon Ducks,Oregon
+400590370,2015,regular-season,2014-11-23,2,153,away,FALSE,North Carolina,76,Tar Heels,North Carolina Tar Heels,North Carolina
+400592962,2015,regular-season,2014-11-23,2,97,home,FALSE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
+400592962,2015,regular-season,2014-11-23,2,2050,away,FALSE,Ball State,56,Cardinals,Ball State Cardinals,Ball State
+400586496,2015,regular-season,2014-11-23,2,127,home,FALSE,Michigan State,64,Spartans,Michigan State Spartans,Michigan St
+400586496,2015,regular-season,2014-11-23,2,85,away,FALSE,IU Indianapolis,45,Jaguars,IU Indianapolis Jaguars,IU Indy
+400590372,2015,regular-season,2014-11-23,2,158,home,FALSE,Nebraska,66,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400590372,2015,regular-season,2014-11-23,2,254,away,FALSE,Utah,43,Utes,Utah Utes,Utah
+400594688,2015,regular-season,2014-11-23,2,2509,home,FALSE,Purdue,66,Boilermakers,Purdue Boilermakers,Purdue
+400594688,2015,regular-season,2014-11-23,2,2649,away,FALSE,Toledo,48,Rockets,Toledo Rockets,Toledo
+400592961,2015,regular-season,2014-11-23,2,59,home,FALSE,Georgia Tech,57,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+400592961,2015,regular-season,2014-11-23,2,61,away,FALSE,Georgia,64,Lady Bulldogs,Georgia Lady Bulldogs,Georgia

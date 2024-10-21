@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-284000046,2008-04-01,2,2633,home,FALSE,Tennessee,53,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-284000046,2008-04-01,2,245,away,FALSE,Texas A&M,45,Aggies,Texas A&M Aggies,Texas A&M
-284000061,2008-04-01,2,41,home,FALSE,UConn,66,Huskies,UConn Huskies,UConn
-284000061,2008-04-01,2,164,away,FALSE,Rutgers,56,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+284000046,2008,post-season,2008-04-01,2,2633,home,FALSE,Tennessee,53,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+284000046,2008,post-season,2008-04-01,2,245,away,FALSE,Texas A&M,45,Aggies,Texas A&M Aggies,Texas A&M
+284000061,2008,post-season,2008-04-01,2,41,home,FALSE,UConn,66,Huskies,UConn Huskies,UConn
+284000061,2008,post-season,2008-04-01,2,164,away,FALSE,Rutgers,56,Scarlet Knights,Rutgers Scarlet Knights,Rutgers

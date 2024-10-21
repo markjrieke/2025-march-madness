@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290580026,2009-02-27,2,26,home,FALSE,UCLA,58,Bruins,UCLA Bruins,UCLA
-290580026,2009-02-27,2,24,away,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
-290580030,2009-02-27,2,30,home,FALSE,USC,64,Trojans,USC Trojans,USC
-290580030,2009-02-27,2,25,away,FALSE,California,66,Golden Bears,California Golden Bears,California
-290580120,2009-02-27,2,120,home,FALSE,Maryland,86,Terrapins,Maryland Terrapins,Maryland
-290580120,2009-02-27,2,103,away,FALSE,Boston College,74,Eagles,Boston College Eagles,Boston College
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290580026,2009,regular-season,2009-02-27,2,26,home,FALSE,UCLA,58,Bruins,UCLA Bruins,UCLA
+290580026,2009,regular-season,2009-02-27,2,24,away,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
+290580030,2009,regular-season,2009-02-27,2,30,home,FALSE,USC,64,Trojans,USC Trojans,USC
+290580030,2009,regular-season,2009-02-27,2,25,away,FALSE,California,66,Golden Bears,California Golden Bears,California
+290580120,2009,regular-season,2009-02-27,2,120,home,FALSE,Maryland,86,Terrapins,Maryland Terrapins,Maryland
+290580120,2009,regular-season,2009-02-27,2,103,away,FALSE,Boston College,74,Eagles,Boston College Eagles,Boston College

@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220520145,2002-02-21,2,145,home,FALSE,Ole Miss,69,Rebels,Ole Miss Rebels,Ole Miss
-220520145,2002-02-21,2,2633,away,FALSE,Tennessee,86,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-220520150,2002-02-21,2,150,home,FALSE,Duke,88,Blue Devils,Duke Blue Devils,Duke
-220520150,2002-02-21,2,52,away,FALSE,Florida State,55,Seminoles,Florida State Seminoles,Florida St
-220520096,2002-02-21,2,96,home,FALSE,Kentucky,57,Wildcats,Kentucky Wildcats,Kentucky
-220520096,2002-02-21,2,238,away,FALSE,Vanderbilt,73,Commodores,Vanderbilt Commodores,Vanderbilt
-220520242,2002-02-21,2,242,home,FALSE,Rice,57,Owls,Rice Owls,Rice
-220520242,2002-02-21,2,2348,away,FALSE,Louisiana Tech,56,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-220522509,2002-02-21,2,2509,home,FALSE,Purdue,64,Boilermakers,Purdue Boilermakers,Purdue
-220522509,2002-02-21,2,213,away,FALSE,Penn State,58,Lady Lions,Penn State Lady Lions,Penn State
-220520002,2002-02-21,2,2,home,FALSE,Auburn,67,Tigers,Auburn Tigers,Auburn
-220520002,2002-02-21,2,2579,away,FALSE,South Carolina,49,Gamecocks,South Carolina Gamecocks,South Carolina
-220520135,2002-02-21,2,135,home,FALSE,Minnesota,76,Golden Gophers,Minnesota Golden Gophers,Minnesota
-220520135,2002-02-21,2,275,away,FALSE,Wisconsin,74,Badgers,Wisconsin Badgers,Wisconsin
-220520057,2002-02-21,2,57,home,FALSE,Florida,64,Gators,Florida Gators,Florida
-220520057,2002-02-21,2,8,away,FALSE,Arkansas,58,Razorbacks,Arkansas Razorbacks,Arkansas
-220520258,2002-02-21,2,258,home,FALSE,Virginia,68,Cavaliers,Virginia Cavaliers,Virginia
-220520258,2002-02-21,2,153,away,FALSE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
-220520061,2002-02-21,2,61,home,FALSE,Georgia,73,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-220520061,2002-02-21,2,333,away,FALSE,Alabama,62,Crimson Tide,Alabama Crimson Tide,Alabama
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220520145,2002,regular-season,2002-02-21,2,145,home,FALSE,Ole Miss,69,Rebels,Ole Miss Rebels,Ole Miss
+220520145,2002,regular-season,2002-02-21,2,2633,away,FALSE,Tennessee,86,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+220520150,2002,regular-season,2002-02-21,2,150,home,FALSE,Duke,88,Blue Devils,Duke Blue Devils,Duke
+220520150,2002,regular-season,2002-02-21,2,52,away,FALSE,Florida State,55,Seminoles,Florida State Seminoles,Florida St
+220520096,2002,regular-season,2002-02-21,2,96,home,FALSE,Kentucky,57,Wildcats,Kentucky Wildcats,Kentucky
+220520096,2002,regular-season,2002-02-21,2,238,away,FALSE,Vanderbilt,73,Commodores,Vanderbilt Commodores,Vanderbilt
+220520242,2002,regular-season,2002-02-21,2,242,home,FALSE,Rice,57,Owls,Rice Owls,Rice
+220520242,2002,regular-season,2002-02-21,2,2348,away,FALSE,Louisiana Tech,56,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+220522509,2002,regular-season,2002-02-21,2,2509,home,FALSE,Purdue,64,Boilermakers,Purdue Boilermakers,Purdue
+220522509,2002,regular-season,2002-02-21,2,213,away,FALSE,Penn State,58,Lady Lions,Penn State Lady Lions,Penn State
+220520002,2002,regular-season,2002-02-21,2,2,home,FALSE,Auburn,67,Tigers,Auburn Tigers,Auburn
+220520002,2002,regular-season,2002-02-21,2,2579,away,FALSE,South Carolina,49,Gamecocks,South Carolina Gamecocks,South Carolina
+220520135,2002,regular-season,2002-02-21,2,135,home,FALSE,Minnesota,76,Golden Gophers,Minnesota Golden Gophers,Minnesota
+220520135,2002,regular-season,2002-02-21,2,275,away,FALSE,Wisconsin,74,Badgers,Wisconsin Badgers,Wisconsin
+220520057,2002,regular-season,2002-02-21,2,57,home,FALSE,Florida,64,Gators,Florida Gators,Florida
+220520057,2002,regular-season,2002-02-21,2,8,away,FALSE,Arkansas,58,Razorbacks,Arkansas Razorbacks,Arkansas
+220520258,2002,regular-season,2002-02-21,2,258,home,FALSE,Virginia,68,Cavaliers,Virginia Cavaliers,Virginia
+220520258,2002,regular-season,2002-02-21,2,153,away,FALSE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
+220520061,2002,regular-season,2002-02-21,2,61,home,FALSE,Georgia,73,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+220520061,2002,regular-season,2002-02-21,2,333,away,FALSE,Alabama,62,Crimson Tide,Alabama Crimson Tide,Alabama

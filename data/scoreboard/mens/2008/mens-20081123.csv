@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-283280041,2008-11-23,2,41,home,TRUE,UConn,76,Huskies,UConn Huskies,UConn
-283280041,2008-11-23,2,2390,away,TRUE,Miami,63,Hurricanes,Miami Hurricanes,Miami
-283280097,2008-11-23,2,97,home,FALSE,Louisville,81,Cardinals,Louisville Cardinals,Louisville
-283280097,2008-11-23,2,6,away,FALSE,South Alabama,54,Jaguars,South Alabama Jaguars,South Alabama
-283280150,2008-11-23,2,150,home,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
-283280150,2008-11-23,2,149,away,FALSE,Montana,58,Grizzlies,Montana Grizzlies,Montana
-283280235,2008-11-23,2,235,home,TRUE,Memphis,58,Tigers,Memphis Tigers,Memphis
-283280235,2008-11-23,2,2752,away,TRUE,Xavier,63,Musketeers,Xavier Musketeers,Xavier
-283280009,2008-11-23,2,9,home,FALSE,Arizona State,61,Sun Devils,Arizona State Sun Devils,Arizona St
-283280009,2008-11-23,2,2492,away,FALSE,Pepperdine,40,Waves,Pepperdine Waves,Pepperdine
-283280030,2008-11-23,2,30,home,TRUE,USC,72,Trojans,USC Trojans,USC
-283280030,2008-11-23,2,142,away,TRUE,Missouri,83,Tigers,Missouri Tigers,Missouri
-283280275,2008-11-23,2,275,home,TRUE,Wisconsin,64,Badgers,Wisconsin Badgers,Wisconsin
-283280275,2008-11-23,2,301,away,TRUE,San Diego,49,Toreros,San Diego Toreros,San Diego
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283280041,2009,regular-season,2008-11-23,2,41,home,TRUE,UConn,76,Huskies,UConn Huskies,UConn
+283280041,2009,regular-season,2008-11-23,2,2390,away,TRUE,Miami,63,Hurricanes,Miami Hurricanes,Miami
+283280097,2009,regular-season,2008-11-23,2,97,home,FALSE,Louisville,81,Cardinals,Louisville Cardinals,Louisville
+283280097,2009,regular-season,2008-11-23,2,6,away,FALSE,South Alabama,54,Jaguars,South Alabama Jaguars,South Alabama
+283280150,2009,regular-season,2008-11-23,2,150,home,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
+283280150,2009,regular-season,2008-11-23,2,149,away,FALSE,Montana,58,Grizzlies,Montana Grizzlies,Montana
+283280235,2009,regular-season,2008-11-23,2,235,home,TRUE,Memphis,58,Tigers,Memphis Tigers,Memphis
+283280235,2009,regular-season,2008-11-23,2,2752,away,TRUE,Xavier,63,Musketeers,Xavier Musketeers,Xavier
+283280009,2009,regular-season,2008-11-23,2,9,home,FALSE,Arizona State,61,Sun Devils,Arizona State Sun Devils,Arizona St
+283280009,2009,regular-season,2008-11-23,2,2492,away,FALSE,Pepperdine,40,Waves,Pepperdine Waves,Pepperdine
+283280030,2009,regular-season,2008-11-23,2,30,home,TRUE,USC,72,Trojans,USC Trojans,USC
+283280030,2009,regular-season,2008-11-23,2,142,away,TRUE,Missouri,83,Tigers,Missouri Tigers,Missouri
+283280275,2009,regular-season,2008-11-23,2,275,home,TRUE,Wisconsin,64,Badgers,Wisconsin Badgers,Wisconsin
+283280275,2009,regular-season,2008-11-23,2,301,away,TRUE,San Diego,49,Toreros,San Diego Toreros,San Diego

@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330380356,2013-02-07,2,356,home,FALSE,Illinois,74,Fighting Illini,Illinois Fighting Illini,Illinois
-330380356,2013-02-07,2,84,away,FALSE,Indiana,72,Hoosiers,Indiana Hoosiers,Indiana
-330380150,2013-02-07,2,150,home,FALSE,Duke,98,Blue Devils,Duke Blue Devils,Duke
-330380150,2013-02-07,2,152,away,FALSE,NC State,85,Wolfpack,NC State Wolfpack,NC State
-330382250,2013-02-07,2,2250,home,FALSE,Gonzaga,82,Bulldogs,Gonzaga Bulldogs,Gonzaga
-330382250,2013-02-07,2,2492,away,FALSE,Pepperdine,56,Waves,Pepperdine Waves,Pepperdine
-330382483,2013-02-07,2,2483,home,FALSE,Oregon,47,Ducks,Oregon Ducks,Oregon
-330382483,2013-02-07,2,38,away,FALSE,Colorado,48,Buffaloes,Colorado Buffaloes,Colorado
-330380245,2013-02-07,2,245,home,FALSE,Texas A&M,70,Aggies,Texas A&M Aggies,Texas A&M
-330380245,2013-02-07,2,142,away,FALSE,Missouri,68,Tigers,Missouri Tigers,Missouri
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330380356,2013,regular-season,2013-02-07,2,356,home,FALSE,Illinois,74,Fighting Illini,Illinois Fighting Illini,Illinois
+330380356,2013,regular-season,2013-02-07,2,84,away,FALSE,Indiana,72,Hoosiers,Indiana Hoosiers,Indiana
+330380150,2013,regular-season,2013-02-07,2,150,home,FALSE,Duke,98,Blue Devils,Duke Blue Devils,Duke
+330380150,2013,regular-season,2013-02-07,2,152,away,FALSE,NC State,85,Wolfpack,NC State Wolfpack,NC State
+330382250,2013,regular-season,2013-02-07,2,2250,home,FALSE,Gonzaga,82,Bulldogs,Gonzaga Bulldogs,Gonzaga
+330382250,2013,regular-season,2013-02-07,2,2492,away,FALSE,Pepperdine,56,Waves,Pepperdine Waves,Pepperdine
+330382483,2013,regular-season,2013-02-07,2,2483,home,FALSE,Oregon,47,Ducks,Oregon Ducks,Oregon
+330382483,2013,regular-season,2013-02-07,2,38,away,FALSE,Colorado,48,Buffaloes,Colorado Buffaloes,Colorado
+330380245,2013,regular-season,2013-02-07,2,245,home,FALSE,Texas A&M,70,Aggies,Texas A&M Aggies,Texas A&M
+330380245,2013,regular-season,2013-02-07,2,142,away,FALSE,Missouri,68,Tigers,Missouri Tigers,Missouri

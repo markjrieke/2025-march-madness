@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243540356,2004-12-19,2,356,home,FALSE,Illinois,93,Fighting Illini,Illinois Fighting Illini,Illinois
-243540356,2004-12-19,2,2674,away,FALSE,Valparaiso,56,Beacons,Valparaiso Beacons,Valparaiso
-243540259,2004-12-19,2,259,home,FALSE,Virginia Tech,51,Hokies,Virginia Tech Hokies,Virginia Tech
-243540259,2004-12-19,2,153,away,FALSE,North Carolina,85,Tar Heels,North Carolina Tar Heels,North Carolina
-243540041,2004-12-19,2,41,home,FALSE,UConn,81,Huskies,UConn Huskies,UConn
-243540041,2004-12-19,2,242,away,FALSE,Rice,72,Owls,Rice Owls,Rice
-243540264,2004-12-19,2,264,home,FALSE,Washington,68,Huskies,Washington Huskies,Washington
-243540264,2004-12-19,2,152,away,FALSE,NC State,64,Wolfpack,NC State Wolfpack,NC State
-243540120,2004-12-19,3,120,home,FALSE,Maryland,90,Terrapins,Maryland Terrapins,Maryland
-243540120,2004-12-19,3,52,away,FALSE,Florida State,88,Seminoles,Florida State Seminoles,Florida St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243540356,2005,regular-season,2004-12-19,2,356,home,FALSE,Illinois,93,Fighting Illini,Illinois Fighting Illini,Illinois
+243540356,2005,regular-season,2004-12-19,2,2674,away,FALSE,Valparaiso,56,Beacons,Valparaiso Beacons,Valparaiso
+243540259,2005,regular-season,2004-12-19,2,259,home,FALSE,Virginia Tech,51,Hokies,Virginia Tech Hokies,Virginia Tech
+243540259,2005,regular-season,2004-12-19,2,153,away,FALSE,North Carolina,85,Tar Heels,North Carolina Tar Heels,North Carolina
+243540041,2005,regular-season,2004-12-19,2,41,home,FALSE,UConn,81,Huskies,UConn Huskies,UConn
+243540041,2005,regular-season,2004-12-19,2,242,away,FALSE,Rice,72,Owls,Rice Owls,Rice
+243540264,2005,regular-season,2004-12-19,2,264,home,FALSE,Washington,68,Huskies,Washington Huskies,Washington
+243540264,2005,regular-season,2004-12-19,2,152,away,FALSE,NC State,64,Wolfpack,NC State Wolfpack,NC State
+243540120,2005,regular-season,2004-12-19,3,120,home,FALSE,Maryland,90,Terrapins,Maryland Terrapins,Maryland
+243540120,2005,regular-season,2004-12-19,3,52,away,FALSE,Florida State,88,Seminoles,Florida State Seminoles,Florida St

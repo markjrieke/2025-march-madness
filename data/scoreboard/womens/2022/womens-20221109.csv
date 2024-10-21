@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401502072,2022-11-09,4,24,home,FALSE,Stanford,104,Cardinal,Stanford Cardinal,Stanford
-401502072,2022-11-09,4,2463,away,FALSE,Cal State Northridge,40,Matadors,Cal State Northridge Matadors,CSU Northridge
-401480264,2022-11-09,4,153,home,FALSE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
-401480264,2022-11-09,4,2296,away,FALSE,Jackson State,59,Lady Tigers,Jackson State Lady Tigers,Jackson St
-401491425,2022-11-09,4,130,home,FALSE,Michigan,83,Wolverines,Michigan Wolverines,Michigan
-401491425,2022-11-09,4,2169,away,FALSE,Delaware State,30,Hornets,Delaware State Hornets,Delaware St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401502072,2023,regular-season,2022-11-09,4,24,home,FALSE,Stanford,104,Cardinal,Stanford Cardinal,Stanford
+401502072,2023,regular-season,2022-11-09,4,2463,away,FALSE,Cal State Northridge,40,Matadors,Cal State Northridge Matadors,CSU Northridge
+401480264,2023,regular-season,2022-11-09,4,153,home,FALSE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
+401480264,2023,regular-season,2022-11-09,4,2296,away,FALSE,Jackson State,59,Lady Tigers,Jackson State Lady Tigers,Jackson St
+401491425,2023,regular-season,2022-11-09,4,130,home,FALSE,Michigan,83,Wolverines,Michigan Wolverines,Michigan
+401491425,2023,regular-season,2022-11-09,4,2169,away,FALSE,Delaware State,30,Hornets,Delaware State Hornets,Delaware St

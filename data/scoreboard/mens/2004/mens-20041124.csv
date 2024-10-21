@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243292507,2004-11-24,2,2507,home,FALSE,Providence,67,Friars,Providence Friars,Providence
-243292507,2004-11-24,2,154,away,FALSE,Wake Forest,79,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-243290356,2004-11-24,2,356,home,FALSE,Illinois,85,Fighting Illini,Illinois Fighting Illini,Illinois
-243290356,2004-11-24,2,2473,away,FALSE,Oakland,54,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-243290153,2004-11-24,2,153,home,FALSE,North Carolina,106,Tar Heels,North Carolina Tar Heels,North Carolina
-243290153,2004-11-24,2,2294,away,FALSE,Iowa,92,Hawkeyes,Iowa Hawkeyes,Iowa
-243290024,2004-11-24,2,24,home,FALSE,Stanford,67,Cardinal,Stanford Cardinal,Stanford
-243290024,2004-11-24,2,97,away,FALSE,Louisville,82,Cardinals,Louisville Cardinals,Louisville
-243292633,2004-11-24,2,2633,home,FALSE,Tennessee,70,Volunteers,Tennessee Volunteers,Tennessee
-243292633,2004-11-24,2,251,away,FALSE,Texas,95,Longhorns,Texas Longhorns,Texas
-243290221,2004-11-24,2,221,home,FALSE,Pittsburgh,83,Panthers,Pittsburgh Panthers,Pitt
-243290221,2004-11-24,2,2523,away,FALSE,Robert Morris,59,Colonials,Robert Morris Colonials,Robert Morris
-243290130,2004-11-24,3,130,home,FALSE,Michigan,60,Wolverines,Michigan Wolverines,Michigan
-243290130,2004-11-24,3,12,away,FALSE,Arizona,61,Wildcats,Arizona Wildcats,Arizona
-243290001,2004-11-24,2,1,home,FALSE,Alaska Anchorage,55,Seawolves,Alaska Anchorage Seawolves,AK-Anchorage
-243290001,2004-11-24,2,333,away,FALSE,Alabama,90,Crimson Tide,Alabama Crimson Tide,Alabama
-243292250,2004-11-24,2,2250,home,FALSE,Gonzaga,88,Bulldogs,Gonzaga Bulldogs,Gonzaga
-243292250,2004-11-24,2,70,away,FALSE,Idaho,74,Vandals,Idaho Vandals,Idaho
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243292507,2005,regular-season,2004-11-24,2,2507,home,FALSE,Providence,67,Friars,Providence Friars,Providence
+243292507,2005,regular-season,2004-11-24,2,154,away,FALSE,Wake Forest,79,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+243290356,2005,regular-season,2004-11-24,2,356,home,FALSE,Illinois,85,Fighting Illini,Illinois Fighting Illini,Illinois
+243290356,2005,regular-season,2004-11-24,2,2473,away,FALSE,Oakland,54,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+243290153,2005,regular-season,2004-11-24,2,153,home,FALSE,North Carolina,106,Tar Heels,North Carolina Tar Heels,North Carolina
+243290153,2005,regular-season,2004-11-24,2,2294,away,FALSE,Iowa,92,Hawkeyes,Iowa Hawkeyes,Iowa
+243290024,2005,regular-season,2004-11-24,2,24,home,FALSE,Stanford,67,Cardinal,Stanford Cardinal,Stanford
+243290024,2005,regular-season,2004-11-24,2,97,away,FALSE,Louisville,82,Cardinals,Louisville Cardinals,Louisville
+243292633,2005,regular-season,2004-11-24,2,2633,home,FALSE,Tennessee,70,Volunteers,Tennessee Volunteers,Tennessee
+243292633,2005,regular-season,2004-11-24,2,251,away,FALSE,Texas,95,Longhorns,Texas Longhorns,Texas
+243290221,2005,regular-season,2004-11-24,2,221,home,FALSE,Pittsburgh,83,Panthers,Pittsburgh Panthers,Pitt
+243290221,2005,regular-season,2004-11-24,2,2523,away,FALSE,Robert Morris,59,Colonials,Robert Morris Colonials,Robert Morris
+243290130,2005,regular-season,2004-11-24,3,130,home,FALSE,Michigan,60,Wolverines,Michigan Wolverines,Michigan
+243290130,2005,regular-season,2004-11-24,3,12,away,FALSE,Arizona,61,Wildcats,Arizona Wildcats,Arizona
+243290001,2005,regular-season,2004-11-24,2,1,home,FALSE,Alaska Anchorage,55,Seawolves,Alaska Anchorage Seawolves,AK-Anchorage
+243290001,2005,regular-season,2004-11-24,2,333,away,FALSE,Alabama,90,Crimson Tide,Alabama Crimson Tide,Alabama
+243292250,2005,regular-season,2004-11-24,2,2250,home,FALSE,Gonzaga,88,Bulldogs,Gonzaga Bulldogs,Gonzaga
+243292250,2005,regular-season,2004-11-24,2,70,away,FALSE,Idaho,74,Vandals,Idaho Vandals,Idaho

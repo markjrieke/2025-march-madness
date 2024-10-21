@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260060153,2006-01-06,2,153,home,FALSE,North Carolina,102,Tar Heels,North Carolina Tar Heels,North Carolina
-260060153,2006-01-06,2,228,away,FALSE,Clemson,61,Tigers,Clemson Tigers,Clemson
-260060030,2006-01-06,2,30,home,FALSE,USC,58,Trojans,USC Trojans,USC
-260060030,2006-01-06,2,9,away,FALSE,Arizona State,50,Sun Devils,Arizona State Sun Devils,Arizona St
-260060218,2006-01-06,2,218,home,FALSE,Temple,77,Owls,Temple Owls,Temple
-260060218,2006-01-06,2,2429,away,FALSE,Charlotte,69,49ers,Charlotte 49ers,Charlotte
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260060153,2006,regular-season,2006-01-06,2,153,home,FALSE,North Carolina,102,Tar Heels,North Carolina Tar Heels,North Carolina
+260060153,2006,regular-season,2006-01-06,2,228,away,FALSE,Clemson,61,Tigers,Clemson Tigers,Clemson
+260060030,2006,regular-season,2006-01-06,2,30,home,FALSE,USC,58,Trojans,USC Trojans,USC
+260060030,2006,regular-season,2006-01-06,2,9,away,FALSE,Arizona State,50,Sun Devils,Arizona State Sun Devils,Arizona St
+260060218,2006,regular-season,2006-01-06,2,218,home,FALSE,Temple,77,Owls,Temple Owls,Temple
+260060218,2006,regular-season,2006-01-06,2,2429,away,FALSE,Charlotte,69,49ers,Charlotte 49ers,Charlotte

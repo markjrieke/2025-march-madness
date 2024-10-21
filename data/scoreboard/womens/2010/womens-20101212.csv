@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303460024,2010-12-12,2,24,home,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
-303460024,2010-12-12,2,278,away,FALSE,Fresno State,40,Bulldogs,Fresno State Bulldogs,Fresno St
-303460197,2010-12-12,2,197,home,FALSE,Oklahoma State,45,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-303460197,2010-12-12,2,150,away,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
-303460251,2010-12-12,2,251,home,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
-303460251,2010-12-12,2,2633,away,FALSE,Tennessee,92,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-303460245,2010-12-12,2,245,home,FALSE,Texas A&M,91,Aggies,Texas A&M Aggies,Texas A&M
-303460245,2010-12-12,2,2628,away,FALSE,TCU,66,Horned Frogs,TCU Horned Frogs,TCU
-303462608,2010-12-12,2,2608,home,FALSE,Saint Mary's,59,Gaels,Saint Mary's Gaels,Saint Mary's
-303462608,2010-12-12,2,26,away,FALSE,UCLA,75,Bruins,UCLA Bruins,UCLA
-303460153,2010-12-12,2,153,home,FALSE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
-303460153,2010-12-12,2,2439,away,FALSE,UNLV,66,Lady Rebels,UNLV Lady Rebels,UNLV
-303460201,2010-12-12,2,201,home,FALSE,Oklahoma,63,Sooners,Oklahoma Sooners,Oklahoma
-303460201,2010-12-12,2,167,away,FALSE,New Mexico,60,Lobos,New Mexico Lobos,New Mexico
-303460127,2010-12-12,2,127,home,FALSE,Michigan State,85,Spartans,Michigan State Spartans,Michigan St
-303460127,2010-12-12,2,314,away,FALSE,Iona,51,Gaels,Iona Gaels,Iona
-303460052,2010-12-12,2,52,home,FALSE,Florida State,87,Seminoles,Florida State Seminoles,Florida St
-303460052,2010-12-12,2,55,away,FALSE,Jacksonville State,39,Gamecocks,Jacksonville State Gamecocks,Jax State
-303460066,2010-12-12,2,66,home,FALSE,Iowa State,73,Cyclones,Iowa State Cyclones,Iowa State
-303460066,2010-12-12,2,171,away,FALSE,Columbia,27,Lions,Columbia Lions,Columbia
-303460103,2010-12-12,2,103,home,FALSE,Boston College,84,Eagles,Boston College Eagles,Boston College
-303460103,2010-12-12,2,164,away,FALSE,Rutgers,75,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303460024,2011,regular-season,2010-12-12,2,24,home,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
+303460024,2011,regular-season,2010-12-12,2,278,away,FALSE,Fresno State,40,Bulldogs,Fresno State Bulldogs,Fresno St
+303460197,2011,regular-season,2010-12-12,2,197,home,FALSE,Oklahoma State,45,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+303460197,2011,regular-season,2010-12-12,2,150,away,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
+303460251,2011,regular-season,2010-12-12,2,251,home,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
+303460251,2011,regular-season,2010-12-12,2,2633,away,FALSE,Tennessee,92,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+303460245,2011,regular-season,2010-12-12,2,245,home,FALSE,Texas A&M,91,Aggies,Texas A&M Aggies,Texas A&M
+303460245,2011,regular-season,2010-12-12,2,2628,away,FALSE,TCU,66,Horned Frogs,TCU Horned Frogs,TCU
+303462608,2011,regular-season,2010-12-12,2,2608,home,FALSE,Saint Mary's,59,Gaels,Saint Mary's Gaels,Saint Mary's
+303462608,2011,regular-season,2010-12-12,2,26,away,FALSE,UCLA,75,Bruins,UCLA Bruins,UCLA
+303460153,2011,regular-season,2010-12-12,2,153,home,FALSE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
+303460153,2011,regular-season,2010-12-12,2,2439,away,FALSE,UNLV,66,Lady Rebels,UNLV Lady Rebels,UNLV
+303460201,2011,regular-season,2010-12-12,2,201,home,FALSE,Oklahoma,63,Sooners,Oklahoma Sooners,Oklahoma
+303460201,2011,regular-season,2010-12-12,2,167,away,FALSE,New Mexico,60,Lobos,New Mexico Lobos,New Mexico
+303460127,2011,regular-season,2010-12-12,2,127,home,FALSE,Michigan State,85,Spartans,Michigan State Spartans,Michigan St
+303460127,2011,regular-season,2010-12-12,2,314,away,FALSE,Iona,51,Gaels,Iona Gaels,Iona
+303460052,2011,regular-season,2010-12-12,2,52,home,FALSE,Florida State,87,Seminoles,Florida State Seminoles,Florida St
+303460052,2011,regular-season,2010-12-12,2,55,away,FALSE,Jacksonville State,39,Gamecocks,Jacksonville State Gamecocks,Jax State
+303460066,2011,regular-season,2010-12-12,2,66,home,FALSE,Iowa State,73,Cyclones,Iowa State Cyclones,Iowa State
+303460066,2011,regular-season,2010-12-12,2,171,away,FALSE,Columbia,27,Lions,Columbia Lions,Columbia
+303460103,2011,regular-season,2010-12-12,2,103,home,FALSE,Boston College,84,Eagles,Boston College Eagles,Boston College
+303460103,2011,regular-season,2010-12-12,2,164,away,FALSE,Rutgers,75,Scarlet Knights,Rutgers Scarlet Knights,Rutgers

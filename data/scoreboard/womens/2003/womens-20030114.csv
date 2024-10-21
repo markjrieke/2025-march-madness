@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230142633,2003-01-14,2,2633,home,FALSE,Tennessee,76,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-230142633,2003-01-14,2,305,away,FALSE,DePaul,57,Blue Demons,DePaul Blue Demons,DePaul
-230142599,2003-01-14,2,2599,home,FALSE,St. John's,42,Red Storm,St. John's Red Storm,St John's
-230142599,2003-01-14,2,87,away,FALSE,Notre Dame,71,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-230140038,2003-01-14,2,38,home,FALSE,Colorado,74,Buffaloes,Colorado Buffaloes,Colorado
-230140038,2003-01-14,2,158,away,FALSE,Nebraska,54,Cornhuskers,Nebraska Cornhuskers,Nebraska
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230142633,2003,regular-season,2003-01-14,2,2633,home,FALSE,Tennessee,76,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+230142633,2003,regular-season,2003-01-14,2,305,away,FALSE,DePaul,57,Blue Demons,DePaul Blue Demons,DePaul
+230142599,2003,regular-season,2003-01-14,2,2599,home,FALSE,St. John's,42,Red Storm,St. John's Red Storm,St John's
+230142599,2003,regular-season,2003-01-14,2,87,away,FALSE,Notre Dame,71,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+230140038,2003,regular-season,2003-01-14,2,38,home,FALSE,Colorado,74,Buffaloes,Colorado Buffaloes,Colorado
+230140038,2003,regular-season,2003-01-14,2,158,away,FALSE,Nebraska,54,Cornhuskers,Nebraska Cornhuskers,Nebraska

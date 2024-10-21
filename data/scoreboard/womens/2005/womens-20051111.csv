@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253150009,2005-11-11,2,9,home,FALSE,Arizona State,69,Sun Devils,Arizona State Sun Devils,Arizona St
-253150009,2005-11-11,2,238,away,FALSE,Vanderbilt,60,Commodores,Vanderbilt Commodores,Vanderbilt
-253150218,2005-11-11,2,218,home,FALSE,Temple,65,Owls,Temple Owls,Temple
-253150218,2005-11-11,2,130,away,FALSE,Michigan,48,Wolverines,Michigan Wolverines,Michigan
-253150201,2005-11-11,2,201,home,FALSE,Oklahoma,89,Sooners,Oklahoma Sooners,Oklahoma
-253150201,2005-11-11,2,270,away,FALSE,Milwaukee,57,Panthers,Milwaukee Panthers,Milwaukee
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253150009,2006,regular-season,2005-11-11,2,9,home,FALSE,Arizona State,69,Sun Devils,Arizona State Sun Devils,Arizona St
+253150009,2006,regular-season,2005-11-11,2,238,away,FALSE,Vanderbilt,60,Commodores,Vanderbilt Commodores,Vanderbilt
+253150218,2006,regular-season,2005-11-11,2,218,home,FALSE,Temple,65,Owls,Temple Owls,Temple
+253150218,2006,regular-season,2005-11-11,2,130,away,FALSE,Michigan,48,Wolverines,Michigan Wolverines,Michigan
+253150201,2006,regular-season,2005-11-11,2,201,home,FALSE,Oklahoma,89,Sooners,Oklahoma Sooners,Oklahoma
+253150201,2006,regular-season,2005-11-11,2,270,away,FALSE,Milwaukee,57,Panthers,Milwaukee Panthers,Milwaukee

@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303250059,2010-11-21,2,59,home,FALSE,Georgia Tech,51,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-303250059,2010-11-21,2,41,away,FALSE,UConn,71,Huskies,UConn Huskies,UConn
-303252250,2010-11-21,2,2250,home,FALSE,Gonzaga,78,Bulldogs,Gonzaga Bulldogs,Gonzaga
-303252250,2010-11-21,2,24,away,FALSE,Stanford,84,Cardinal,Stanford Cardinal,Stanford
-303252633,2010-11-21,2,2633,home,FALSE,Tennessee,80,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-303252633,2010-11-21,2,9,away,FALSE,Arizona State,64,Sun Devils,Arizona State Sun Devils,Arizona St
-303250150,2010-11-21,2,150,home,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
-303250150,2010-11-21,2,98,away,FALSE,Western Kentucky,55,Lady Toppers,Western Kentucky Lady Toppers,Western KY
-303250096,2010-11-21,2,96,home,FALSE,Kentucky,81,Wildcats,Kentucky Wildcats,Kentucky
-303250096,2010-11-21,2,87,away,FALSE,Notre Dame,76,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-303250153,2010-11-21,2,153,home,FALSE,North Carolina,93,Tar Heels,North Carolina Tar Heels,North Carolina
-303250153,2010-11-21,2,2717,away,FALSE,Western Carolina,36,Catamounts,Western Carolina Catamounts,W Carolina
-303250026,2010-11-21,2,26,home,FALSE,UCLA,65,Bruins,UCLA Bruins,UCLA
-303250026,2010-11-21,2,302,away,FALSE,UC Davis,49,Aggies,UC Davis Aggies,UC Davis
-303250052,2010-11-21,2,52,home,FALSE,Florida State,72,Seminoles,Florida State Seminoles,Florida St
-303250052,2010-11-21,2,238,away,FALSE,Vanderbilt,66,Commodores,Vanderbilt Commodores,Vanderbilt
-303250251,2010-11-21,2,251,home,FALSE,Texas,92,Longhorns,Texas Longhorns,Texas
-303250251,2010-11-21,2,104,away,FALSE,Boston University,46,Terriers,Boston University Terriers,Boston U
-303250061,2010-11-21,2,61,home,FALSE,Georgia,84,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-303250061,2010-11-21,2,84,away,FALSE,Indiana,51,Hoosiers,Indiana Hoosiers,Indiana
-303252460,2010-11-21,2,2460,home,FALSE,Northern Iowa,59,Panthers,Northern Iowa Panthers,Northern Iowa
-303252460,2010-11-21,2,66,away,FALSE,Iowa State,69,Cyclones,Iowa State Cyclones,Iowa State
-303250120,2010-11-21,2,120,home,FALSE,Maryland,78,Terrapins,Maryland Terrapins,Maryland
-303250120,2010-11-21,2,44,away,FALSE,American University,52,Eagles,American University Eagles,American
-303252294,2010-11-21,2,2294,home,TRUE,Iowa,90,Hawkeyes,Iowa Hawkeyes,Iowa
-303252294,2010-11-21,2,2117,away,TRUE,Central Michigan,79,Chippewas,Central Michigan Chippewas,C Michigan
-303250127,2010-11-21,2,127,home,FALSE,Michigan State,82,Spartans,Michigan State Spartans,Michigan St
-303250127,2010-11-21,2,2174,away,FALSE,Detroit Mercy,42,Titans,Detroit Mercy Titans,Detroit Mercy
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303250059,2011,regular-season,2010-11-21,2,59,home,FALSE,Georgia Tech,51,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+303250059,2011,regular-season,2010-11-21,2,41,away,FALSE,UConn,71,Huskies,UConn Huskies,UConn
+303252250,2011,regular-season,2010-11-21,2,2250,home,FALSE,Gonzaga,78,Bulldogs,Gonzaga Bulldogs,Gonzaga
+303252250,2011,regular-season,2010-11-21,2,24,away,FALSE,Stanford,84,Cardinal,Stanford Cardinal,Stanford
+303252633,2011,regular-season,2010-11-21,2,2633,home,FALSE,Tennessee,80,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+303252633,2011,regular-season,2010-11-21,2,9,away,FALSE,Arizona State,64,Sun Devils,Arizona State Sun Devils,Arizona St
+303250150,2011,regular-season,2010-11-21,2,150,home,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
+303250150,2011,regular-season,2010-11-21,2,98,away,FALSE,Western Kentucky,55,Lady Toppers,Western Kentucky Lady Toppers,Western KY
+303250096,2011,regular-season,2010-11-21,2,96,home,FALSE,Kentucky,81,Wildcats,Kentucky Wildcats,Kentucky
+303250096,2011,regular-season,2010-11-21,2,87,away,FALSE,Notre Dame,76,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+303250153,2011,regular-season,2010-11-21,2,153,home,FALSE,North Carolina,93,Tar Heels,North Carolina Tar Heels,North Carolina
+303250153,2011,regular-season,2010-11-21,2,2717,away,FALSE,Western Carolina,36,Catamounts,Western Carolina Catamounts,W Carolina
+303250026,2011,regular-season,2010-11-21,2,26,home,FALSE,UCLA,65,Bruins,UCLA Bruins,UCLA
+303250026,2011,regular-season,2010-11-21,2,302,away,FALSE,UC Davis,49,Aggies,UC Davis Aggies,UC Davis
+303250052,2011,regular-season,2010-11-21,2,52,home,FALSE,Florida State,72,Seminoles,Florida State Seminoles,Florida St
+303250052,2011,regular-season,2010-11-21,2,238,away,FALSE,Vanderbilt,66,Commodores,Vanderbilt Commodores,Vanderbilt
+303250251,2011,regular-season,2010-11-21,2,251,home,FALSE,Texas,92,Longhorns,Texas Longhorns,Texas
+303250251,2011,regular-season,2010-11-21,2,104,away,FALSE,Boston University,46,Terriers,Boston University Terriers,Boston U
+303250061,2011,regular-season,2010-11-21,2,61,home,FALSE,Georgia,84,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+303250061,2011,regular-season,2010-11-21,2,84,away,FALSE,Indiana,51,Hoosiers,Indiana Hoosiers,Indiana
+303252460,2011,regular-season,2010-11-21,2,2460,home,FALSE,Northern Iowa,59,Panthers,Northern Iowa Panthers,Northern Iowa
+303252460,2011,regular-season,2010-11-21,2,66,away,FALSE,Iowa State,69,Cyclones,Iowa State Cyclones,Iowa State
+303250120,2011,regular-season,2010-11-21,2,120,home,FALSE,Maryland,78,Terrapins,Maryland Terrapins,Maryland
+303250120,2011,regular-season,2010-11-21,2,44,away,FALSE,American University,52,Eagles,American University Eagles,American
+303252294,2011,regular-season,2010-11-21,2,2294,home,TRUE,Iowa,90,Hawkeyes,Iowa Hawkeyes,Iowa
+303252294,2011,regular-season,2010-11-21,2,2117,away,TRUE,Central Michigan,79,Chippewas,Central Michigan Chippewas,C Michigan
+303250127,2011,regular-season,2010-11-21,2,127,home,FALSE,Michigan State,82,Spartans,Michigan State Spartans,Michigan St
+303250127,2011,regular-season,2010-11-21,2,2174,away,FALSE,Detroit Mercy,42,Titans,Detroit Mercy Titans,Detroit Mercy

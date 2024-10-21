@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243640150,2004-12-29,2,227,home,FALSE,Rhode Island,63,Rams,Rhode Island Rams,Rhode Island
-243640150,2004-12-29,2,150,away,FALSE,Duke,89,Blue Devils,Duke Blue Devils,Duke
-243640239,2004-12-29,2,239,home,FALSE,Baylor,92,Bears,Baylor Bears,Baylor
-243640239,2004-12-29,2,147,away,FALSE,Montana State,47,Bobcats,Montana State Bobcats,Montana St
-243642483,2004-12-29,2,2483,home,FALSE,Oregon,62,Ducks,Oregon Ducks,Oregon
-243642483,2004-12-29,2,24,away,FALSE,Stanford,58,Cardinal,Stanford Cardinal,Stanford
-243640164,2004-12-29,2,164,home,FALSE,Rutgers,65,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-243640164,2004-12-29,2,2633,away,FALSE,Tennessee,51,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-243640041,2004-12-29,2,41,home,FALSE,UConn,51,Huskies,UConn Huskies,UConn
-243640041,2004-12-29,2,127,away,FALSE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
-243640120,2004-12-29,2,120,home,FALSE,Maryland,67,Terrapins,Maryland Terrapins,Maryland
-243640120,2004-12-29,2,113,away,FALSE,Massachusetts,63,Minutewomen,Massachusetts Minutewomen,UMass
-243642674,2004-12-29,2,2674,home,FALSE,Valparaiso,49,Beacons,Valparaiso Beacons,Valparaiso
-243642674,2004-12-29,2,305,away,FALSE,DePaul,75,Blue Demons,DePaul Blue Demons,DePaul
-243640264,2004-12-29,2,264,home,FALSE,Washington,63,Huskies,Washington Huskies,Washington
-243640264,2004-12-29,2,9,away,FALSE,Arizona State,55,Sun Devils,Arizona State Sun Devils,Arizona St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243640150,2005,regular-season,2004-12-29,2,227,home,FALSE,Rhode Island,63,Rams,Rhode Island Rams,Rhode Island
+243640150,2005,regular-season,2004-12-29,2,150,away,FALSE,Duke,89,Blue Devils,Duke Blue Devils,Duke
+243640239,2005,regular-season,2004-12-29,2,239,home,FALSE,Baylor,92,Bears,Baylor Bears,Baylor
+243640239,2005,regular-season,2004-12-29,2,147,away,FALSE,Montana State,47,Bobcats,Montana State Bobcats,Montana St
+243642483,2005,regular-season,2004-12-29,2,2483,home,FALSE,Oregon,62,Ducks,Oregon Ducks,Oregon
+243642483,2005,regular-season,2004-12-29,2,24,away,FALSE,Stanford,58,Cardinal,Stanford Cardinal,Stanford
+243640164,2005,regular-season,2004-12-29,2,164,home,FALSE,Rutgers,65,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+243640164,2005,regular-season,2004-12-29,2,2633,away,FALSE,Tennessee,51,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+243640041,2005,regular-season,2004-12-29,2,41,home,FALSE,UConn,51,Huskies,UConn Huskies,UConn
+243640041,2005,regular-season,2004-12-29,2,127,away,FALSE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
+243640120,2005,regular-season,2004-12-29,2,120,home,FALSE,Maryland,67,Terrapins,Maryland Terrapins,Maryland
+243640120,2005,regular-season,2004-12-29,2,113,away,FALSE,Massachusetts,63,Minutewomen,Massachusetts Minutewomen,UMass
+243642674,2005,regular-season,2004-12-29,2,2674,home,FALSE,Valparaiso,49,Beacons,Valparaiso Beacons,Valparaiso
+243642674,2005,regular-season,2004-12-29,2,305,away,FALSE,DePaul,75,Blue Demons,DePaul Blue Demons,DePaul
+243640264,2005,regular-season,2004-12-29,2,264,home,FALSE,Washington,63,Huskies,Washington Huskies,Washington
+243640264,2005,regular-season,2004-12-29,2,9,away,FALSE,Arizona State,55,Sun Devils,Arizona State Sun Devils,Arizona St

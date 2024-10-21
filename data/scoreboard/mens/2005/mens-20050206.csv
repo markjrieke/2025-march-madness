@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250370356,2005-02-06,2,356,home,FALSE,Illinois,60,Fighting Illini,Illinois Fighting Illini,Illinois
-250370356,2005-02-06,2,84,away,FALSE,Indiana,47,Hoosiers,Indiana Hoosiers,Indiana
-250370052,2005-02-06,2,52,home,FALSE,Florida State,60,Seminoles,Florida State Seminoles,Florida St
-250370052,2005-02-06,2,153,away,FALSE,North Carolina,81,Tar Heels,North Carolina Tar Heels,North Carolina
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250370356,2005,regular-season,2005-02-06,2,356,home,FALSE,Illinois,60,Fighting Illini,Illinois Fighting Illini,Illinois
+250370356,2005,regular-season,2005-02-06,2,84,away,FALSE,Indiana,47,Hoosiers,Indiana Hoosiers,Indiana
+250370052,2005,regular-season,2005-02-06,2,52,home,FALSE,Florida State,60,Seminoles,Florida State Seminoles,Florida St
+250370052,2005,regular-season,2005-02-06,2,153,away,FALSE,North Carolina,81,Tar Heels,North Carolina Tar Heels,North Carolina

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310860041,2011-03-27,2,41,home,TRUE,UConn,68,Huskies,UConn Huskies,UConn
-310860041,2011-03-27,2,46,away,TRUE,Georgetown,63,Hoyas,Georgetown Hoyas,Georgetown
-310860150,2011-03-27,2,150,home,TRUE,Duke,70,Blue Devils,Duke Blue Devils,Duke
-310860150,2011-03-27,2,305,away,TRUE,DePaul,63,Blue Demons,DePaul Blue Demons,DePaul
-310860245,2011-03-27,2,245,home,TRUE,Texas A&M,79,Aggies,Texas A&M Aggies,Texas A&M
-310860245,2011-03-27,2,61,away,TRUE,Georgia,38,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-310860239,2011-03-27,2,239,home,TRUE,Baylor,86,Bears,Baylor Bears,Baylor
-310860239,2011-03-27,2,2739,away,TRUE,Green Bay,76,Phoenix,Green Bay Phoenix,Green Bay
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310860041,2011,post-season,2011-03-27,2,41,home,TRUE,UConn,68,Huskies,UConn Huskies,UConn
+310860041,2011,post-season,2011-03-27,2,46,away,TRUE,Georgetown,63,Hoyas,Georgetown Hoyas,Georgetown
+310860150,2011,post-season,2011-03-27,2,150,home,TRUE,Duke,70,Blue Devils,Duke Blue Devils,Duke
+310860150,2011,post-season,2011-03-27,2,305,away,TRUE,DePaul,63,Blue Demons,DePaul Blue Demons,DePaul
+310860245,2011,post-season,2011-03-27,2,245,home,TRUE,Texas A&M,79,Aggies,Texas A&M Aggies,Texas A&M
+310860245,2011,post-season,2011-03-27,2,61,away,TRUE,Georgia,38,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+310860239,2011,post-season,2011-03-27,2,239,home,TRUE,Baylor,86,Bears,Baylor Bears,Baylor
+310860239,2011,post-season,2011-03-27,2,2739,away,TRUE,Green Bay,76,Phoenix,Green Bay Phoenix,Green Bay

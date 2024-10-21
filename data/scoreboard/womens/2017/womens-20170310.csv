@@ -1,61 +1,61 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400946089,2017-03-10,4,2459,home,TRUE,Northern Illinois,83,Huskies,Northern Illinois Huskies,N Illinois
-400946089,2017-03-10,4,2711,away,TRUE,Western Michigan,55,Broncos,Western Michigan Broncos,W Michigan
-400946178,2017-03-10,4,2515,home,TRUE,Radford,54,Highlanders,Radford Highlanders,Radford
-400946178,2017-03-10,4,2241,away,TRUE,Gardner-Webb,51,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-400946142,2017-03-10,4,2065,home,TRUE,Bethune-Cookman,59,Wildcats,Bethune-Cookman Wildcats,Bethune
-400946142,2017-03-10,4,50,away,TRUE,Florida A&M,42,Rattlers,Florida A&M Rattlers,Florida A&M
-400946140,2017-03-10,4,2443,home,TRUE,New Orleans,77,Privateers,New Orleans Privateers,New Orleans
-400946140,2017-03-10,4,357,away,TRUE,Texas A&M-Corpus Christi,88,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-400946173,2017-03-10,4,2181,home,TRUE,Drake,64,Bulldogs,Drake Bulldogs,Drake
-400946173,2017-03-10,4,2287,away,TRUE,Illinois State,40,Redbirds,Illinois State Redbirds,Illinois St
-400946040,2017-03-10,4,2755,home,TRUE,Grambling,65,Lady Tigers,Grambling Lady Tigers,Grambling
-400946040,2017-03-10,4,2582,away,TRUE,Southern,56,Jaguars,Southern Jaguars,Southern
-400946113,2017-03-10,4,2649,home,TRUE,Toledo,72,Rockets,Toledo Rockets,Toledo
-400946113,2017-03-10,4,2084,away,TRUE,Buffalo,65,Bulls,Buffalo Bulls,Buffalo
-400946139,2017-03-10,4,2261,home,TRUE,Hampton,64,Lady Pirates,Hampton Lady Pirates,Hampton
-400946139,2017-03-10,4,2448,away,TRUE,North Carolina A&T,62,Aggies,North Carolina A&T Aggies,NC A&T
-400945547,2017-03-10,4,2335,home,TRUE,Liberty,50,Flames,Liberty Flames,Liberty
-400945547,2017-03-10,4,2127,away,TRUE,Charleston Southern,52,Buccaneers,Charleston Southern Buccaneers,Charleston So
-400946143,2017-03-10,4,2617,home,TRUE,Stephen F. Austin,77,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
-400946143,2017-03-10,4,2377,away,TRUE,McNeese,63,Cowgirls,McNeese Cowgirls,McNeese
-400946124,2017-03-10,4,68,home,TRUE,Boise State,66,Broncos,Boise State Broncos,Boise St
-400946124,2017-03-10,4,278,away,TRUE,Fresno State,53,Bulldogs,Fresno State Bulldogs,Fresno St
-400946123,2017-03-10,4,302,home,TRUE,UC Davis,59,Aggies,UC Davis Aggies,UC Davis
-400946123,2017-03-10,4,2540,away,TRUE,UC Santa Barbara,73,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-400946094,2017-03-10,4,166,home,TRUE,New Mexico State,71,Aggies,New Mexico State Aggies,New Mexico St
-400946094,2017-03-10,4,140,away,TRUE,Kansas City,63,Roos,Kansas City Roos,Kansas City
-400946106,2017-03-10,4,147,home,TRUE,Montana State,61,Bobcats,Montana State Bobcats,Montana St
-400946106,2017-03-10,4,331,away,TRUE,Eastern Washington,59,Eagles,Eastern Washington Eagles,E Washington
-400945601,2017-03-10,4,79,home,TRUE,Southern Illinois,60,Salukis,Southern Illinois Salukis,S Illinois
-400945601,2017-03-10,4,2724,away,TRUE,Wichita State,73,Shockers,Wichita State Shockers,Wichita St
-400946141,2017-03-10,4,2210,home,TRUE,Elon,88,Phoenix,Elon Phoenix,Elon
-400946141,2017-03-10,4,2729,away,TRUE,William & Mary,60,Tribe,William & Mary Tribe,William & Mary
-400945703,2017-03-10,4,399,home,FALSE,UAlbany,66,Great Danes,UAlbany Great Danes,UAlbany
-400945703,2017-03-10,4,311,away,FALSE,Maine,50,Black Bears,Maine Black Bears,Maine
-400945847,2017-03-10,4,2083,home,FALSE,Bucknell,69,Bison,Bucknell Bison,Bucknell
-400945847,2017-03-10,4,44,away,FALSE,American University,57,Eagles,American University Eagles,American
-400946170,2017-03-10,4,98,home,TRUE,Western Kentucky,77,Lady Toppers,Western Kentucky Lady Toppers,Western KY
-400946170,2017-03-10,4,2348,away,TRUE,Louisiana Tech,53,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-400946120,2017-03-10,4,2547,home,TRUE,Seattle U,61,Redhawks,Seattle U Redhawks,Seattle U
-400946120,2017-03-10,4,3084,away,TRUE,Utah Valley,60,Wolverines,Utah Valley Wolverines,Utah Valley
-400946118,2017-03-10,4,299,home,TRUE,Long Beach State,61,Beach,Long Beach State Beach,Long Beach St
-400946118,2017-03-10,4,2463,away,TRUE,Cal State Northridge,60,Matadors,Cal State Northridge Matadors,CSU Northridge
-400946122,2017-03-10,4,304,home,TRUE,Idaho State,54,Bengals,Idaho State Bengals,Idaho St
-400946122,2017-03-10,4,2502,away,TRUE,Portland State,50,Vikings,Portland State Vikings,Portland St
-400946185,2017-03-10,4,2097,home,TRUE,Campbell,55,Fighting Camels,Campbell Fighting Camels,Campbell
-400946185,2017-03-10,4,2427,away,TRUE,UNC Asheville,64,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-400946184,2017-03-10,4,2460,home,TRUE,Northern Iowa,69,Panthers,Northern Iowa Panthers,Northern Iowa
-400946184,2017-03-10,4,71,away,TRUE,Bradley,39,Braves,Bradley Braves,Bradley
-400946182,2017-03-10,4,256,home,FALSE,James Madison,76,Dukes,James Madison Dukes,James Madison
-400946182,2017-03-10,4,2182,away,FALSE,Drexel,68,Dragons,Drexel Dragons,Drexel
-400946039,2017-03-10,4,2640,home,TRUE,Texas Southern,68,Tigers,Texas Southern Tigers,Texas Southern
-400946039,2017-03-10,4,2011,away,TRUE,Alabama State,54,Lady Hornets,Alabama State Lady Hornets,Alabama St
-400945848,2017-03-10,4,2426,home,TRUE,Navy,54,Midshipmen,Navy Midshipmen,Navy
-400945848,2017-03-10,4,349,away,TRUE,Army,53,Black Knights,Army Black Knights,Army
-400946194,2017-03-10,4,2393,home,TRUE,Middle Tennessee,54,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-400946194,2017-03-10,4,2572,away,TRUE,Southern Miss,59,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-400945546,2017-03-10,4,2272,home,TRUE,High Point,48,Panthers,High Point Panthers,High Point
-400945546,2017-03-10,4,2506,away,TRUE,Presbyterian,55,Blue Hose,Presbyterian Blue Hose,Presbyterian
-400945602,2017-03-10,4,2623,home,TRUE,Missouri State,59,Lady Bears,Missouri State Lady Bears,Missouri St
-400945602,2017-03-10,4,339,away,TRUE,Evansville,65,Purple Aces,Evansville Purple Aces,Evansville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400946089,2017,regular-season,2017-03-10,4,2459,home,TRUE,Northern Illinois,83,Huskies,Northern Illinois Huskies,N Illinois
+400946089,2017,regular-season,2017-03-10,4,2711,away,TRUE,Western Michigan,55,Broncos,Western Michigan Broncos,W Michigan
+400946178,2017,regular-season,2017-03-10,4,2515,home,TRUE,Radford,54,Highlanders,Radford Highlanders,Radford
+400946178,2017,regular-season,2017-03-10,4,2241,away,TRUE,Gardner-Webb,51,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+400946142,2017,regular-season,2017-03-10,4,2065,home,TRUE,Bethune-Cookman,59,Wildcats,Bethune-Cookman Wildcats,Bethune
+400946142,2017,regular-season,2017-03-10,4,50,away,TRUE,Florida A&M,42,Rattlers,Florida A&M Rattlers,Florida A&M
+400946140,2017,regular-season,2017-03-10,4,2443,home,TRUE,New Orleans,77,Privateers,New Orleans Privateers,New Orleans
+400946140,2017,regular-season,2017-03-10,4,357,away,TRUE,Texas A&M-Corpus Christi,88,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+400946173,2017,regular-season,2017-03-10,4,2181,home,TRUE,Drake,64,Bulldogs,Drake Bulldogs,Drake
+400946173,2017,regular-season,2017-03-10,4,2287,away,TRUE,Illinois State,40,Redbirds,Illinois State Redbirds,Illinois St
+400946040,2017,regular-season,2017-03-10,4,2755,home,TRUE,Grambling,65,Lady Tigers,Grambling Lady Tigers,Grambling
+400946040,2017,regular-season,2017-03-10,4,2582,away,TRUE,Southern,56,Jaguars,Southern Jaguars,Southern
+400946113,2017,regular-season,2017-03-10,4,2649,home,TRUE,Toledo,72,Rockets,Toledo Rockets,Toledo
+400946113,2017,regular-season,2017-03-10,4,2084,away,TRUE,Buffalo,65,Bulls,Buffalo Bulls,Buffalo
+400946139,2017,regular-season,2017-03-10,4,2261,home,TRUE,Hampton,64,Lady Pirates,Hampton Lady Pirates,Hampton
+400946139,2017,regular-season,2017-03-10,4,2448,away,TRUE,North Carolina A&T,62,Aggies,North Carolina A&T Aggies,NC A&T
+400945547,2017,regular-season,2017-03-10,4,2335,home,TRUE,Liberty,50,Flames,Liberty Flames,Liberty
+400945547,2017,regular-season,2017-03-10,4,2127,away,TRUE,Charleston Southern,52,Buccaneers,Charleston Southern Buccaneers,Charleston So
+400946143,2017,regular-season,2017-03-10,4,2617,home,TRUE,Stephen F. Austin,77,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
+400946143,2017,regular-season,2017-03-10,4,2377,away,TRUE,McNeese,63,Cowgirls,McNeese Cowgirls,McNeese
+400946124,2017,regular-season,2017-03-10,4,68,home,TRUE,Boise State,66,Broncos,Boise State Broncos,Boise St
+400946124,2017,regular-season,2017-03-10,4,278,away,TRUE,Fresno State,53,Bulldogs,Fresno State Bulldogs,Fresno St
+400946123,2017,regular-season,2017-03-10,4,302,home,TRUE,UC Davis,59,Aggies,UC Davis Aggies,UC Davis
+400946123,2017,regular-season,2017-03-10,4,2540,away,TRUE,UC Santa Barbara,73,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+400946094,2017,regular-season,2017-03-10,4,166,home,TRUE,New Mexico State,71,Aggies,New Mexico State Aggies,New Mexico St
+400946094,2017,regular-season,2017-03-10,4,140,away,TRUE,Kansas City,63,Roos,Kansas City Roos,Kansas City
+400946106,2017,regular-season,2017-03-10,4,147,home,TRUE,Montana State,61,Bobcats,Montana State Bobcats,Montana St
+400946106,2017,regular-season,2017-03-10,4,331,away,TRUE,Eastern Washington,59,Eagles,Eastern Washington Eagles,E Washington
+400945601,2017,regular-season,2017-03-10,4,79,home,TRUE,Southern Illinois,60,Salukis,Southern Illinois Salukis,S Illinois
+400945601,2017,regular-season,2017-03-10,4,2724,away,TRUE,Wichita State,73,Shockers,Wichita State Shockers,Wichita St
+400946141,2017,regular-season,2017-03-10,4,2210,home,TRUE,Elon,88,Phoenix,Elon Phoenix,Elon
+400946141,2017,regular-season,2017-03-10,4,2729,away,TRUE,William & Mary,60,Tribe,William & Mary Tribe,William & Mary
+400945703,2017,regular-season,2017-03-10,4,399,home,FALSE,UAlbany,66,Great Danes,UAlbany Great Danes,UAlbany
+400945703,2017,regular-season,2017-03-10,4,311,away,FALSE,Maine,50,Black Bears,Maine Black Bears,Maine
+400945847,2017,regular-season,2017-03-10,4,2083,home,FALSE,Bucknell,69,Bison,Bucknell Bison,Bucknell
+400945847,2017,regular-season,2017-03-10,4,44,away,FALSE,American University,57,Eagles,American University Eagles,American
+400946170,2017,regular-season,2017-03-10,4,98,home,TRUE,Western Kentucky,77,Lady Toppers,Western Kentucky Lady Toppers,Western KY
+400946170,2017,regular-season,2017-03-10,4,2348,away,TRUE,Louisiana Tech,53,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+400946120,2017,regular-season,2017-03-10,4,2547,home,TRUE,Seattle U,61,Redhawks,Seattle U Redhawks,Seattle U
+400946120,2017,regular-season,2017-03-10,4,3084,away,TRUE,Utah Valley,60,Wolverines,Utah Valley Wolverines,Utah Valley
+400946118,2017,regular-season,2017-03-10,4,299,home,TRUE,Long Beach State,61,Beach,Long Beach State Beach,Long Beach St
+400946118,2017,regular-season,2017-03-10,4,2463,away,TRUE,Cal State Northridge,60,Matadors,Cal State Northridge Matadors,CSU Northridge
+400946122,2017,regular-season,2017-03-10,4,304,home,TRUE,Idaho State,54,Bengals,Idaho State Bengals,Idaho St
+400946122,2017,regular-season,2017-03-10,4,2502,away,TRUE,Portland State,50,Vikings,Portland State Vikings,Portland St
+400946185,2017,regular-season,2017-03-10,4,2097,home,TRUE,Campbell,55,Fighting Camels,Campbell Fighting Camels,Campbell
+400946185,2017,regular-season,2017-03-10,4,2427,away,TRUE,UNC Asheville,64,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+400946184,2017,regular-season,2017-03-10,4,2460,home,TRUE,Northern Iowa,69,Panthers,Northern Iowa Panthers,Northern Iowa
+400946184,2017,regular-season,2017-03-10,4,71,away,TRUE,Bradley,39,Braves,Bradley Braves,Bradley
+400946182,2017,regular-season,2017-03-10,4,256,home,FALSE,James Madison,76,Dukes,James Madison Dukes,James Madison
+400946182,2017,regular-season,2017-03-10,4,2182,away,FALSE,Drexel,68,Dragons,Drexel Dragons,Drexel
+400946039,2017,regular-season,2017-03-10,4,2640,home,TRUE,Texas Southern,68,Tigers,Texas Southern Tigers,Texas Southern
+400946039,2017,regular-season,2017-03-10,4,2011,away,TRUE,Alabama State,54,Lady Hornets,Alabama State Lady Hornets,Alabama St
+400945848,2017,regular-season,2017-03-10,4,2426,home,TRUE,Navy,54,Midshipmen,Navy Midshipmen,Navy
+400945848,2017,regular-season,2017-03-10,4,349,away,TRUE,Army,53,Black Knights,Army Black Knights,Army
+400946194,2017,regular-season,2017-03-10,4,2393,home,TRUE,Middle Tennessee,54,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+400946194,2017,regular-season,2017-03-10,4,2572,away,TRUE,Southern Miss,59,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+400945546,2017,regular-season,2017-03-10,4,2272,home,TRUE,High Point,48,Panthers,High Point Panthers,High Point
+400945546,2017,regular-season,2017-03-10,4,2506,away,TRUE,Presbyterian,55,Blue Hose,Presbyterian Blue Hose,Presbyterian
+400945602,2017,regular-season,2017-03-10,4,2623,home,TRUE,Missouri State,59,Lady Bears,Missouri State Lady Bears,Missouri St
+400945602,2017,regular-season,2017-03-10,4,339,away,TRUE,Evansville,65,Purple Aces,Evansville Purple Aces,Evansville

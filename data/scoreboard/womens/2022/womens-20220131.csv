@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401364550,2022-01-31,4,130,home,FALSE,Michigan,65,Wolverines,Michigan Wolverines,Michigan
-401364550,2022-01-31,4,84,away,FALSE,Indiana,50,Hoosiers,Indiana Hoosiers,Indiana
-401364291,2022-01-31,5,2633,home,FALSE,Tennessee,86,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401364291,2022-01-31,5,8,away,FALSE,Arkansas,83,Razorbacks,Arkansas Razorbacks,Arkansas
-401364555,2022-01-31,4,2294,home,FALSE,Iowa,88,Hawkeyes,Iowa Hawkeyes,Iowa
-401364555,2022-01-31,4,194,away,FALSE,Ohio State,92,Buckeyes,Ohio State Buckeyes,Ohio State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401364550,2022,regular-season,2022-01-31,4,130,home,FALSE,Michigan,65,Wolverines,Michigan Wolverines,Michigan
+401364550,2022,regular-season,2022-01-31,4,84,away,FALSE,Indiana,50,Hoosiers,Indiana Hoosiers,Indiana
+401364291,2022,regular-season,2022-01-31,5,2633,home,FALSE,Tennessee,86,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401364291,2022,regular-season,2022-01-31,5,8,away,FALSE,Arkansas,83,Razorbacks,Arkansas Razorbacks,Arkansas
+401364555,2022,regular-season,2022-01-31,4,2294,home,FALSE,Iowa,88,Hawkeyes,Iowa Hawkeyes,Iowa
+401364555,2022,regular-season,2022-01-31,4,194,away,FALSE,Ohio State,92,Buckeyes,Ohio State Buckeyes,Ohio State

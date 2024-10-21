@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310422908,2011-02-11,2,2908,home,FALSE,South Carolina Upstate,55,Spartans,South Carolina Upstate Spartans,SC Upstate
-310422908,2011-02-11,2,2454,away,FALSE,North Florida,63,Ospreys,North Florida Ospreys,North Florida
-310422717,2011-02-11,2,2717,home,FALSE,Western Carolina,69,Catamounts,Western Carolina Catamounts,W Carolina
-310422717,2011-02-11,2,236,away,FALSE,Chattanooga,68,Mocs,Chattanooga Mocs,Chattanooga
-310422520,2011-02-11,2,2520,home,FALSE,Rider,65,Broncs,Rider Broncs,Rider
-310422520,2011-02-11,2,2099,away,FALSE,Canisius,67,Golden Griffins,Canisius Golden Griffins,Canisius
-310422363,2011-02-11,2,2363,home,FALSE,Manhattan,56,Jaspers,Manhattan Jaspers,Manhattan
-310422363,2011-02-11,2,2217,away,FALSE,Fairfield,65,Stags,Fairfield Stags,Fairfield
-310422352,2011-02-11,2,2352,home,FALSE,Loyola Maryland,57,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-310422352,2011-02-11,2,315,away,FALSE,Niagara,59,Purple Eagles,Niagara Purple Eagles,Niagara
-310422193,2011-02-11,2,2193,home,FALSE,East Tennessee State,80,Buccaneers,East Tennessee State Buccaneers,ETSU
-310422193,2011-02-11,2,294,away,FALSE,Jacksonville,64,Dolphins,Jacksonville Dolphins,Jacksonville
-310420314,2011-02-11,2,314,home,FALSE,Iona,69,Gaels,Iona Gaels,Iona
-310420314,2011-02-11,2,2561,away,FALSE,Siena,65,Saints,Siena Saints,Siena
-310420172,2011-02-11,3,172,home,FALSE,Cornell,82,Big Red,Cornell Big Red,Cornell
-310420172,2011-02-11,3,219,away,FALSE,Pennsylvania,71,Quakers,Pennsylvania Quakers,Penn
-310420171,2011-02-11,2,171,home,FALSE,Columbia,46,Lions,Columbia Lions,Columbia
-310420171,2011-02-11,2,163,away,FALSE,Princeton,76,Tigers,Princeton Tigers,Princeton
-310420159,2011-02-11,2,159,home,FALSE,Dartmouth,66,Big Green,Dartmouth Big Green,Dartmouth
-310420159,2011-02-11,2,225,away,FALSE,Brown,75,Bears,Brown Bears,Brown
-310420108,2011-02-11,2,108,home,FALSE,Harvard,78,Crimson,Harvard Crimson,Harvard
-310420108,2011-02-11,2,43,away,FALSE,Yale,75,Bulldogs,Yale Bulldogs,Yale
-310422368,2011-02-11,2,2368,home,FALSE,Marist,54,Red Foxes,Marist Red Foxes,Marist
-310422368,2011-02-11,2,2612,away,FALSE,Saint Peter's,66,Peacocks,Saint Peter's Peacocks,Saint Peter's
-310422755,2011-02-11,2,2755,home,FALSE,Grambling,64,Tigers,Grambling Tigers,Grambling
-310422755,2011-02-11,2,2504,away,FALSE,Prairie View A&M,33,Panthers,Prairie View A&M Panthers,Prairie View
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310422908,2011,regular-season,2011-02-11,2,2908,home,FALSE,South Carolina Upstate,55,Spartans,South Carolina Upstate Spartans,SC Upstate
+310422908,2011,regular-season,2011-02-11,2,2454,away,FALSE,North Florida,63,Ospreys,North Florida Ospreys,North Florida
+310422717,2011,regular-season,2011-02-11,2,2717,home,FALSE,Western Carolina,69,Catamounts,Western Carolina Catamounts,W Carolina
+310422717,2011,regular-season,2011-02-11,2,236,away,FALSE,Chattanooga,68,Mocs,Chattanooga Mocs,Chattanooga
+310422520,2011,regular-season,2011-02-11,2,2520,home,FALSE,Rider,65,Broncs,Rider Broncs,Rider
+310422520,2011,regular-season,2011-02-11,2,2099,away,FALSE,Canisius,67,Golden Griffins,Canisius Golden Griffins,Canisius
+310422363,2011,regular-season,2011-02-11,2,2363,home,FALSE,Manhattan,56,Jaspers,Manhattan Jaspers,Manhattan
+310422363,2011,regular-season,2011-02-11,2,2217,away,FALSE,Fairfield,65,Stags,Fairfield Stags,Fairfield
+310422352,2011,regular-season,2011-02-11,2,2352,home,FALSE,Loyola Maryland,57,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+310422352,2011,regular-season,2011-02-11,2,315,away,FALSE,Niagara,59,Purple Eagles,Niagara Purple Eagles,Niagara
+310422193,2011,regular-season,2011-02-11,2,2193,home,FALSE,East Tennessee State,80,Buccaneers,East Tennessee State Buccaneers,ETSU
+310422193,2011,regular-season,2011-02-11,2,294,away,FALSE,Jacksonville,64,Dolphins,Jacksonville Dolphins,Jacksonville
+310420314,2011,regular-season,2011-02-11,2,314,home,FALSE,Iona,69,Gaels,Iona Gaels,Iona
+310420314,2011,regular-season,2011-02-11,2,2561,away,FALSE,Siena,65,Saints,Siena Saints,Siena
+310420172,2011,regular-season,2011-02-11,3,172,home,FALSE,Cornell,82,Big Red,Cornell Big Red,Cornell
+310420172,2011,regular-season,2011-02-11,3,219,away,FALSE,Pennsylvania,71,Quakers,Pennsylvania Quakers,Penn
+310420171,2011,regular-season,2011-02-11,2,171,home,FALSE,Columbia,46,Lions,Columbia Lions,Columbia
+310420171,2011,regular-season,2011-02-11,2,163,away,FALSE,Princeton,76,Tigers,Princeton Tigers,Princeton
+310420159,2011,regular-season,2011-02-11,2,159,home,FALSE,Dartmouth,66,Big Green,Dartmouth Big Green,Dartmouth
+310420159,2011,regular-season,2011-02-11,2,225,away,FALSE,Brown,75,Bears,Brown Bears,Brown
+310420108,2011,regular-season,2011-02-11,2,108,home,FALSE,Harvard,78,Crimson,Harvard Crimson,Harvard
+310420108,2011,regular-season,2011-02-11,2,43,away,FALSE,Yale,75,Bulldogs,Yale Bulldogs,Yale
+310422368,2011,regular-season,2011-02-11,2,2368,home,FALSE,Marist,54,Red Foxes,Marist Red Foxes,Marist
+310422368,2011,regular-season,2011-02-11,2,2612,away,FALSE,Saint Peter's,66,Peacocks,Saint Peter's Peacocks,Saint Peter's
+310422755,2011,regular-season,2011-02-11,2,2755,home,FALSE,Grambling,64,Tigers,Grambling Tigers,Grambling
+310422755,2011,regular-season,2011-02-11,2,2504,away,FALSE,Prairie View A&M,33,Panthers,Prairie View A&M Panthers,Prairie View

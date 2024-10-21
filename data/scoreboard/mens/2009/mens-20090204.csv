@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290350201,2009-02-04,2,201,home,FALSE,Oklahoma,77,Sooners,Oklahoma Sooners,Oklahoma
-290350201,2009-02-04,2,245,away,FALSE,Texas A&M,71,Aggies,Texas A&M Aggies,Texas A&M
-290350228,2009-02-04,2,228,home,FALSE,Clemson,74,Tigers,Clemson Tigers,Clemson
-290350228,2009-02-04,2,150,away,FALSE,Duke,47,Blue Devils,Duke Blue Devils,Duke
-290352390,2009-02-04,2,2390,home,FALSE,Miami,79,Hurricanes,Miami Hurricanes,Miami
-290352390,2009-02-04,2,154,away,FALSE,Wake Forest,52,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-290350127,2009-02-04,2,127,home,FALSE,Michigan State,76,Spartans,Michigan State Spartans,Michigan St
-290350127,2009-02-04,2,135,away,FALSE,Minnesota,47,Golden Gophers,Minnesota Golden Gophers,Minnesota
-290352567,2009-02-04,2,2567,home,FALSE,SMU,66,Mustangs,SMU Mustangs,SMU
-290352567,2009-02-04,2,235,away,FALSE,Memphis,79,Tigers,Memphis Tigers,Memphis
-290350026,2009-02-04,2,26,home,FALSE,UCLA,76,Bruins,UCLA Bruins,UCLA
-290350026,2009-02-04,2,30,away,FALSE,USC,60,Trojans,USC Trojans,USC
-290350251,2009-02-04,2,251,home,FALSE,Texas,65,Longhorns,Texas Longhorns,Texas
-290350251,2009-02-04,2,142,away,FALSE,Missouri,69,Tigers,Missouri Tigers,Missouri
-290352507,2009-02-04,2,2507,home,FALSE,Providence,91,Friars,Providence Friars,Providence
-290352507,2009-02-04,2,222,away,FALSE,Villanova,94,Wildcats,Villanova Wildcats,Villanova
-290350183,2009-02-04,2,183,home,FALSE,Syracuse,74,Orange,Syracuse Orange,Syracuse
-290350183,2009-02-04,2,277,away,FALSE,West Virginia,61,Mountaineers,West Virginia Mountaineers,West Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290350201,2009,regular-season,2009-02-04,2,201,home,FALSE,Oklahoma,77,Sooners,Oklahoma Sooners,Oklahoma
+290350201,2009,regular-season,2009-02-04,2,245,away,FALSE,Texas A&M,71,Aggies,Texas A&M Aggies,Texas A&M
+290350228,2009,regular-season,2009-02-04,2,228,home,FALSE,Clemson,74,Tigers,Clemson Tigers,Clemson
+290350228,2009,regular-season,2009-02-04,2,150,away,FALSE,Duke,47,Blue Devils,Duke Blue Devils,Duke
+290352390,2009,regular-season,2009-02-04,2,2390,home,FALSE,Miami,79,Hurricanes,Miami Hurricanes,Miami
+290352390,2009,regular-season,2009-02-04,2,154,away,FALSE,Wake Forest,52,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+290350127,2009,regular-season,2009-02-04,2,127,home,FALSE,Michigan State,76,Spartans,Michigan State Spartans,Michigan St
+290350127,2009,regular-season,2009-02-04,2,135,away,FALSE,Minnesota,47,Golden Gophers,Minnesota Golden Gophers,Minnesota
+290352567,2009,regular-season,2009-02-04,2,2567,home,FALSE,SMU,66,Mustangs,SMU Mustangs,SMU
+290352567,2009,regular-season,2009-02-04,2,235,away,FALSE,Memphis,79,Tigers,Memphis Tigers,Memphis
+290350026,2009,regular-season,2009-02-04,2,26,home,FALSE,UCLA,76,Bruins,UCLA Bruins,UCLA
+290350026,2009,regular-season,2009-02-04,2,30,away,FALSE,USC,60,Trojans,USC Trojans,USC
+290350251,2009,regular-season,2009-02-04,2,251,home,FALSE,Texas,65,Longhorns,Texas Longhorns,Texas
+290350251,2009,regular-season,2009-02-04,2,142,away,FALSE,Missouri,69,Tigers,Missouri Tigers,Missouri
+290352507,2009,regular-season,2009-02-04,2,2507,home,FALSE,Providence,91,Friars,Providence Friars,Providence
+290352507,2009,regular-season,2009-02-04,2,222,away,FALSE,Villanova,94,Wildcats,Villanova Wildcats,Villanova
+290350183,2009,regular-season,2009-02-04,2,183,home,FALSE,Syracuse,74,Orange,Syracuse Orange,Syracuse
+290350183,2009,regular-season,2009-02-04,2,277,away,FALSE,West Virginia,61,Mountaineers,West Virginia Mountaineers,West Virginia

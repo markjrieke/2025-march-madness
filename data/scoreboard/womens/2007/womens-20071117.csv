@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273210009,2007-11-17,2,9,home,FALSE,Arizona State,66,Sun Devils,Arizona State Sun Devils,Arizona St
-273210009,2007-11-17,2,2540,away,FALSE,UC Santa Barbara,42,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-273210104,2007-11-17,2,104,home,FALSE,Boston University,68,Terriers,Boston University Terriers,Boston U
-273210104,2007-11-17,2,194,away,FALSE,Ohio State,83,Buckeyes,Ohio State Buckeyes,Ohio State
-273210052,2007-11-17,2,52,home,FALSE,Florida State,70,Seminoles,Florida State Seminoles,Florida St
-273210052,2007-11-17,2,2229,away,FALSE,Florida International,50,Panthers,Florida International Panthers,FIU
-273212717,2007-11-17,2,2717,home,FALSE,Western Carolina,77,Catamounts,Western Carolina Catamounts,W Carolina
-273212717,2007-11-17,2,97,away,FALSE,Louisville,72,Cardinals,Louisville Cardinals,Louisville
-273210269,2007-11-17,2,269,home,FALSE,Marquette,67,Golden Eagles,Marquette Golden Eagles,Marquette
-273210269,2007-11-17,2,275,away,FALSE,Wisconsin,53,Badgers,Wisconsin Badgers,Wisconsin
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273210009,2008,regular-season,2007-11-17,2,9,home,FALSE,Arizona State,66,Sun Devils,Arizona State Sun Devils,Arizona St
+273210009,2008,regular-season,2007-11-17,2,2540,away,FALSE,UC Santa Barbara,42,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+273210104,2008,regular-season,2007-11-17,2,104,home,FALSE,Boston University,68,Terriers,Boston University Terriers,Boston U
+273210104,2008,regular-season,2007-11-17,2,194,away,FALSE,Ohio State,83,Buckeyes,Ohio State Buckeyes,Ohio State
+273210052,2008,regular-season,2007-11-17,2,52,home,FALSE,Florida State,70,Seminoles,Florida State Seminoles,Florida St
+273210052,2008,regular-season,2007-11-17,2,2229,away,FALSE,Florida International,50,Panthers,Florida International Panthers,FIU
+273212717,2008,regular-season,2007-11-17,2,2717,home,FALSE,Western Carolina,77,Catamounts,Western Carolina Catamounts,W Carolina
+273212717,2008,regular-season,2007-11-17,2,97,away,FALSE,Louisville,72,Cardinals,Louisville Cardinals,Louisville
+273210269,2008,regular-season,2007-11-17,2,269,home,FALSE,Marquette,67,Golden Eagles,Marquette Golden Eagles,Marquette
+273210269,2008,regular-season,2007-11-17,2,275,away,FALSE,Wisconsin,53,Badgers,Wisconsin Badgers,Wisconsin

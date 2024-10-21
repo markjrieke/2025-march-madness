@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330960097,2013-04-06,2,97,home,TRUE,Louisville,72,Cardinals,Louisville Cardinals,Louisville
-330960097,2013-04-06,2,2724,away,TRUE,Wichita State,68,Shockers,Wichita State Shockers,Wichita St
-330960130,2013-04-06,2,130,home,TRUE,Michigan,61,Wolverines,Michigan Wolverines,Michigan
-330960130,2013-04-06,2,183,away,TRUE,Syracuse,56,Orange,Syracuse Orange,Syracuse
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330960097,2013,post-season,2013-04-06,2,97,home,TRUE,Louisville,72,Cardinals,Louisville Cardinals,Louisville
+330960097,2013,post-season,2013-04-06,2,2724,away,TRUE,Wichita State,68,Shockers,Wichita State Shockers,Wichita St
+330960130,2013,post-season,2013-04-06,2,130,home,TRUE,Michigan,61,Wolverines,Michigan Wolverines,Michigan
+330960130,2013,post-season,2013-04-06,2,183,away,TRUE,Syracuse,56,Orange,Syracuse Orange,Syracuse

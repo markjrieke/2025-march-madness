@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401168354,2019-12-31,2,150,home,FALSE,Duke,88,Blue Devils,Duke Blue Devils,Duke
-401168354,2019-12-31,2,103,away,FALSE,Boston College,49,Eagles,Boston College Eagles,Boston College
-401168297,2019-12-31,2,2599,home,FALSE,St. John's,58,Red Storm,St. John's Red Storm,St John's
-401168297,2019-12-31,2,2086,away,FALSE,Butler,60,Bulldogs,Butler Bulldogs,Butler
-401168521,2019-12-31,2,52,home,FALSE,Florida State,70,Seminoles,Florida State Seminoles,Florida St
-401168521,2019-12-31,2,59,away,FALSE,Georgia Tech,58,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401168354,2020,regular-season,2019-12-31,2,150,home,FALSE,Duke,88,Blue Devils,Duke Blue Devils,Duke
+401168354,2020,regular-season,2019-12-31,2,103,away,FALSE,Boston College,49,Eagles,Boston College Eagles,Boston College
+401168297,2020,regular-season,2019-12-31,2,2599,home,FALSE,St. John's,58,Red Storm,St. John's Red Storm,St John's
+401168297,2020,regular-season,2019-12-31,2,2086,away,FALSE,Butler,60,Bulldogs,Butler Bulldogs,Butler
+401168521,2020,regular-season,2019-12-31,2,52,home,FALSE,Florida State,70,Seminoles,Florida State Seminoles,Florida St
+401168521,2020,regular-season,2019-12-31,2,59,away,FALSE,Georgia Tech,58,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech

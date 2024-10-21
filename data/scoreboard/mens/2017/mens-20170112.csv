@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400915622,2017-01-12,2,38,home,FALSE,Colorado,89,Buffaloes,Colorado Buffaloes,Colorado
-400915622,2017-01-12,2,26,away,FALSE,UCLA,104,Bruins,UCLA Bruins,UCLA
-400915826,2017-01-12,2,2250,home,FALSE,Gonzaga,93,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400915826,2017-01-12,2,2351,away,FALSE,Loyola Marymount,55,Lions,Loyola Marymount Lions,LMU
-400915620,2017-01-12,2,12,home,FALSE,Arizona,91,Wildcats,Arizona Wildcats,Arizona
-400915620,2017-01-12,2,9,away,FALSE,Arizona State,75,Sun Devils,Arizona State Sun Devils,Arizona St
-400915008,2017-01-12,2,2294,home,FALSE,Iowa,83,Hawkeyes,Iowa Hawkeyes,Iowa
-400915008,2017-01-12,2,2509,away,FALSE,Purdue,78,Boilermakers,Purdue Boilermakers,Purdue
-400914934,2017-01-12,2,275,home,FALSE,Wisconsin,89,Badgers,Wisconsin Badgers,Wisconsin
-400914934,2017-01-12,2,194,away,FALSE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
-400915374,2017-01-12,2,2390,home,FALSE,Miami,62,Hurricanes,Miami Hurricanes,Miami
-400915374,2017-01-12,2,87,away,FALSE,Notre Dame,67,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400915828,2017-01-12,2,2501,home,FALSE,Portland,33,Pilots,Portland Pilots,Portland
-400915828,2017-01-12,2,2608,away,FALSE,Saint Mary's,74,Gaels,Saint Mary's Gaels,Saint Mary's
-400916580,2017-01-12,2,2132,home,FALSE,Cincinnati,66,Bearcats,Cincinnati Bearcats,Cincinnati
-400916580,2017-01-12,2,2567,away,FALSE,SMU,64,Mustangs,SMU Mustangs,SMU
-400915619,2017-01-12,2,254,home,FALSE,Utah,86,Utes,Utah Utes,Utah
-400915619,2017-01-12,2,30,away,FALSE,USC,64,Trojans,USC Trojans,USC
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400915622,2017,regular-season,2017-01-12,2,38,home,FALSE,Colorado,89,Buffaloes,Colorado Buffaloes,Colorado
+400915622,2017,regular-season,2017-01-12,2,26,away,FALSE,UCLA,104,Bruins,UCLA Bruins,UCLA
+400915826,2017,regular-season,2017-01-12,2,2250,home,FALSE,Gonzaga,93,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400915826,2017,regular-season,2017-01-12,2,2351,away,FALSE,Loyola Marymount,55,Lions,Loyola Marymount Lions,LMU
+400915620,2017,regular-season,2017-01-12,2,12,home,FALSE,Arizona,91,Wildcats,Arizona Wildcats,Arizona
+400915620,2017,regular-season,2017-01-12,2,9,away,FALSE,Arizona State,75,Sun Devils,Arizona State Sun Devils,Arizona St
+400915008,2017,regular-season,2017-01-12,2,2294,home,FALSE,Iowa,83,Hawkeyes,Iowa Hawkeyes,Iowa
+400915008,2017,regular-season,2017-01-12,2,2509,away,FALSE,Purdue,78,Boilermakers,Purdue Boilermakers,Purdue
+400914934,2017,regular-season,2017-01-12,2,275,home,FALSE,Wisconsin,89,Badgers,Wisconsin Badgers,Wisconsin
+400914934,2017,regular-season,2017-01-12,2,194,away,FALSE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
+400915374,2017,regular-season,2017-01-12,2,2390,home,FALSE,Miami,62,Hurricanes,Miami Hurricanes,Miami
+400915374,2017,regular-season,2017-01-12,2,87,away,FALSE,Notre Dame,67,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400915828,2017,regular-season,2017-01-12,2,2501,home,FALSE,Portland,33,Pilots,Portland Pilots,Portland
+400915828,2017,regular-season,2017-01-12,2,2608,away,FALSE,Saint Mary's,74,Gaels,Saint Mary's Gaels,Saint Mary's
+400916580,2017,regular-season,2017-01-12,2,2132,home,FALSE,Cincinnati,66,Bearcats,Cincinnati Bearcats,Cincinnati
+400916580,2017,regular-season,2017-01-12,2,2567,away,FALSE,SMU,64,Mustangs,SMU Mustangs,SMU
+400915619,2017,regular-season,2017-01-12,2,254,home,FALSE,Utah,86,Utes,Utah Utes,Utah
+400915619,2017,regular-season,2017-01-12,2,30,away,FALSE,USC,64,Trojans,USC Trojans,USC

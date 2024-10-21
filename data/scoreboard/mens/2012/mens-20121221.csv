@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323560084,2012-12-21,2,84,home,FALSE,Indiana,88,Hoosiers,Indiana Hoosiers,Indiana
-323560084,2012-12-21,2,2226,away,FALSE,Florida Atlantic,52,Owls,Florida Atlantic Owls,FAU
-323560087,2012-12-21,2,87,home,FALSE,Notre Dame,89,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-323560087,2012-12-21,2,315,away,FALSE,Niagara,67,Purple Eagles,Niagara Purple Eagles,Niagara
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323560084,2013,regular-season,2012-12-21,2,84,home,FALSE,Indiana,88,Hoosiers,Indiana Hoosiers,Indiana
+323560084,2013,regular-season,2012-12-21,2,2226,away,FALSE,Florida Atlantic,52,Owls,Florida Atlantic Owls,FAU
+323560087,2013,regular-season,2012-12-21,2,87,home,FALSE,Notre Dame,89,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+323560087,2013,regular-season,2012-12-21,2,315,away,FALSE,Niagara,67,Purple Eagles,Niagara Purple Eagles,Niagara

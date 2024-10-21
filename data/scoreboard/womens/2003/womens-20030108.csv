@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230080041,2003-01-08,2,41,home,FALSE,UConn,67,Huskies,UConn Huskies,UConn
-230080041,2003-01-08,2,164,away,FALSE,Rutgers,62,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-230082305,2003-01-08,2,2305,home,FALSE,Kansas,49,Jayhawks,Kansas Jayhawks,Kansas
-230082305,2003-01-08,2,2306,away,FALSE,Kansas State,88,Wildcats,Kansas State Wildcats,Kansas St
-230080245,2003-01-08,2,245,home,FALSE,Texas A&M,56,Aggies,Texas A&M Aggies,Texas A&M
-230080245,2003-01-08,2,2641,away,FALSE,Texas Tech,77,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-230080277,2003-01-08,2,277,home,FALSE,West Virginia,59,Mountaineers,West Virginia Mountaineers,West Virginia
-230080277,2003-01-08,2,87,away,FALSE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-230080269,2003-01-08,2,269,home,FALSE,Marquette,47,Golden Eagles,Marquette Golden Eagles,Marquette
-230080269,2003-01-08,2,2739,away,FALSE,Green Bay,58,Phoenix,Green Bay Phoenix,Green Bay
-230080251,2003-01-08,2,251,home,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
-230080251,2003-01-08,2,197,away,FALSE,Oklahoma State,44,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-230080038,2003-01-08,2,38,home,FALSE,Colorado,64,Buffaloes,Colorado Buffaloes,Colorado
-230080038,2003-01-08,2,66,away,FALSE,Iowa State,63,Cyclones,Iowa State Cyclones,Iowa State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230080041,2003,regular-season,2003-01-08,2,41,home,FALSE,UConn,67,Huskies,UConn Huskies,UConn
+230080041,2003,regular-season,2003-01-08,2,164,away,FALSE,Rutgers,62,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+230082305,2003,regular-season,2003-01-08,2,2305,home,FALSE,Kansas,49,Jayhawks,Kansas Jayhawks,Kansas
+230082305,2003,regular-season,2003-01-08,2,2306,away,FALSE,Kansas State,88,Wildcats,Kansas State Wildcats,Kansas St
+230080245,2003,regular-season,2003-01-08,2,245,home,FALSE,Texas A&M,56,Aggies,Texas A&M Aggies,Texas A&M
+230080245,2003,regular-season,2003-01-08,2,2641,away,FALSE,Texas Tech,77,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+230080277,2003,regular-season,2003-01-08,2,277,home,FALSE,West Virginia,59,Mountaineers,West Virginia Mountaineers,West Virginia
+230080277,2003,regular-season,2003-01-08,2,87,away,FALSE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+230080269,2003,regular-season,2003-01-08,2,269,home,FALSE,Marquette,47,Golden Eagles,Marquette Golden Eagles,Marquette
+230080269,2003,regular-season,2003-01-08,2,2739,away,FALSE,Green Bay,58,Phoenix,Green Bay Phoenix,Green Bay
+230080251,2003,regular-season,2003-01-08,2,251,home,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
+230080251,2003,regular-season,2003-01-08,2,197,away,FALSE,Oklahoma State,44,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+230080038,2003,regular-season,2003-01-08,2,38,home,FALSE,Colorado,64,Buffaloes,Colorado Buffaloes,Colorado
+230080038,2003,regular-season,2003-01-08,2,66,away,FALSE,Iowa State,63,Cyclones,Iowa State Cyclones,Iowa State

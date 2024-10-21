@@ -1,35 +1,35 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310502305,2011-02-19,2,2305,home,FALSE,Kansas,89,Jayhawks,Kansas Jayhawks,Kansas
-310502305,2011-02-19,2,38,away,FALSE,Colorado,63,Buffaloes,Colorado Buffaloes,Colorado
-310500158,2011-02-19,2,158,home,FALSE,Nebraska,70,Cornhuskers,Nebraska Cornhuskers,Nebraska
-310500158,2011-02-19,2,251,away,FALSE,Texas,67,Longhorns,Texas Longhorns,Texas
-310502599,2011-02-19,2,2599,home,FALSE,St. John's,60,Red Storm,St. John's Red Storm,St John's
-310502599,2011-02-19,2,221,away,FALSE,Pittsburgh,59,Panthers,Pittsburgh Panthers,Pitt
-310502005,2011-02-19,2,2005,home,FALSE,Air Force,58,Falcons,Air Force Falcons,Air Force
-310502005,2011-02-19,2,21,away,FALSE,San Diego State,70,Aztecs,San Diego State Aztecs,San Diego St
-310502628,2011-02-19,2,2628,home,FALSE,TCU,56,Horned Frogs,TCU Horned Frogs,TCU
-310502628,2011-02-19,2,252,away,FALSE,BYU,79,Cougars,BYU Cougars,BYU
-310500277,2011-02-19,2,277,home,FALSE,West Virginia,72,Mountaineers,West Virginia Mountaineers,West Virginia
-310500277,2011-02-19,2,87,away,FALSE,Notre Dame,58,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-310500058,2011-02-19,2,58,home,FALSE,South Florida,55,Bulls,South Florida Bulls,South Florida
-310500058,2011-02-19,2,46,away,FALSE,Georgetown,61,Hoyas,Georgetown Hoyas,Georgetown
-310500012,2011-02-19,2,12,home,FALSE,Arizona,87,Wildcats,Arizona Wildcats,Arizona
-310500012,2011-02-19,2,264,away,FALSE,Washington,86,Huskies,Washington Huskies,Washington
-310500305,2011-02-19,3,305,home,FALSE,DePaul,75,Blue Demons,DePaul Blue Demons,DePaul
-310500305,2011-02-19,3,222,away,FALSE,Villanova,77,Wildcats,Villanova Wildcats,Villanova
-310500183,2011-02-19,3,183,home,FALSE,Syracuse,84,Orange,Syracuse Orange,Syracuse
-310500183,2011-02-19,3,164,away,FALSE,Rutgers,80,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-310500002,2011-02-19,2,2,home,FALSE,Auburn,60,Tigers,Auburn Tigers,Auburn
-310500002,2011-02-19,2,238,away,FALSE,Vanderbilt,77,Commodores,Vanderbilt Commodores,Vanderbilt
-310500153,2011-02-19,2,153,home,FALSE,North Carolina,48,Tar Heels,North Carolina Tar Heels,North Carolina
-310500153,2011-02-19,2,103,away,FALSE,Boston College,46,Eagles,Boston College Eagles,Boston College
-310500066,2011-02-19,2,66,home,FALSE,Iowa State,70,Cyclones,Iowa State Cyclones,Iowa State
-310500066,2011-02-19,2,142,away,FALSE,Missouri,76,Tigers,Missouri Tigers,Missouri
-310500197,2011-02-19,2,197,home,FALSE,Oklahoma State,66,Cowboys,Oklahoma State Cowboys,Oklahoma St
-310500197,2011-02-19,2,245,away,FALSE,Texas A&M,67,Aggies,Texas A&M Aggies,Texas A&M
-310500096,2011-02-19,2,96,home,FALSE,Kentucky,90,Wildcats,Kentucky Wildcats,Kentucky
-310500096,2011-02-19,2,2579,away,FALSE,South Carolina,59,Gamecocks,South Carolina Gamecocks,South Carolina
-310502752,2011-02-19,2,2752,home,FALSE,Xavier,79,Musketeers,Xavier Musketeers,Xavier
-310502752,2011-02-19,2,2230,away,FALSE,Fordham,72,Rams,Fordham Rams,Fordham
-310502608,2011-02-19,2,2608,home,FALSE,Saint Mary's,65,Gaels,Saint Mary's Gaels,Saint Mary's
-310502608,2011-02-19,2,328,away,FALSE,Utah State,75,Aggies,Utah State Aggies,Utah State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310502305,2011,regular-season,2011-02-19,2,2305,home,FALSE,Kansas,89,Jayhawks,Kansas Jayhawks,Kansas
+310502305,2011,regular-season,2011-02-19,2,38,away,FALSE,Colorado,63,Buffaloes,Colorado Buffaloes,Colorado
+310500158,2011,regular-season,2011-02-19,2,158,home,FALSE,Nebraska,70,Cornhuskers,Nebraska Cornhuskers,Nebraska
+310500158,2011,regular-season,2011-02-19,2,251,away,FALSE,Texas,67,Longhorns,Texas Longhorns,Texas
+310502599,2011,regular-season,2011-02-19,2,2599,home,FALSE,St. John's,60,Red Storm,St. John's Red Storm,St John's
+310502599,2011,regular-season,2011-02-19,2,221,away,FALSE,Pittsburgh,59,Panthers,Pittsburgh Panthers,Pitt
+310502005,2011,regular-season,2011-02-19,2,2005,home,FALSE,Air Force,58,Falcons,Air Force Falcons,Air Force
+310502005,2011,regular-season,2011-02-19,2,21,away,FALSE,San Diego State,70,Aztecs,San Diego State Aztecs,San Diego St
+310502628,2011,regular-season,2011-02-19,2,2628,home,FALSE,TCU,56,Horned Frogs,TCU Horned Frogs,TCU
+310502628,2011,regular-season,2011-02-19,2,252,away,FALSE,BYU,79,Cougars,BYU Cougars,BYU
+310500277,2011,regular-season,2011-02-19,2,277,home,FALSE,West Virginia,72,Mountaineers,West Virginia Mountaineers,West Virginia
+310500277,2011,regular-season,2011-02-19,2,87,away,FALSE,Notre Dame,58,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+310500058,2011,regular-season,2011-02-19,2,58,home,FALSE,South Florida,55,Bulls,South Florida Bulls,South Florida
+310500058,2011,regular-season,2011-02-19,2,46,away,FALSE,Georgetown,61,Hoyas,Georgetown Hoyas,Georgetown
+310500012,2011,regular-season,2011-02-19,2,12,home,FALSE,Arizona,87,Wildcats,Arizona Wildcats,Arizona
+310500012,2011,regular-season,2011-02-19,2,264,away,FALSE,Washington,86,Huskies,Washington Huskies,Washington
+310500305,2011,regular-season,2011-02-19,3,305,home,FALSE,DePaul,75,Blue Demons,DePaul Blue Demons,DePaul
+310500305,2011,regular-season,2011-02-19,3,222,away,FALSE,Villanova,77,Wildcats,Villanova Wildcats,Villanova
+310500183,2011,regular-season,2011-02-19,3,183,home,FALSE,Syracuse,84,Orange,Syracuse Orange,Syracuse
+310500183,2011,regular-season,2011-02-19,3,164,away,FALSE,Rutgers,80,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+310500002,2011,regular-season,2011-02-19,2,2,home,FALSE,Auburn,60,Tigers,Auburn Tigers,Auburn
+310500002,2011,regular-season,2011-02-19,2,238,away,FALSE,Vanderbilt,77,Commodores,Vanderbilt Commodores,Vanderbilt
+310500153,2011,regular-season,2011-02-19,2,153,home,FALSE,North Carolina,48,Tar Heels,North Carolina Tar Heels,North Carolina
+310500153,2011,regular-season,2011-02-19,2,103,away,FALSE,Boston College,46,Eagles,Boston College Eagles,Boston College
+310500066,2011,regular-season,2011-02-19,2,66,home,FALSE,Iowa State,70,Cyclones,Iowa State Cyclones,Iowa State
+310500066,2011,regular-season,2011-02-19,2,142,away,FALSE,Missouri,76,Tigers,Missouri Tigers,Missouri
+310500197,2011,regular-season,2011-02-19,2,197,home,FALSE,Oklahoma State,66,Cowboys,Oklahoma State Cowboys,Oklahoma St
+310500197,2011,regular-season,2011-02-19,2,245,away,FALSE,Texas A&M,67,Aggies,Texas A&M Aggies,Texas A&M
+310500096,2011,regular-season,2011-02-19,2,96,home,FALSE,Kentucky,90,Wildcats,Kentucky Wildcats,Kentucky
+310500096,2011,regular-season,2011-02-19,2,2579,away,FALSE,South Carolina,59,Gamecocks,South Carolina Gamecocks,South Carolina
+310502752,2011,regular-season,2011-02-19,2,2752,home,FALSE,Xavier,79,Musketeers,Xavier Musketeers,Xavier
+310502752,2011,regular-season,2011-02-19,2,2230,away,FALSE,Fordham,72,Rams,Fordham Rams,Fordham
+310502608,2011,regular-season,2011-02-19,2,2608,home,FALSE,Saint Mary's,65,Gaels,Saint Mary's Gaels,Saint Mary's
+310502608,2011,regular-season,2011-02-19,2,328,away,FALSE,Utah State,75,Aggies,Utah State Aggies,Utah State

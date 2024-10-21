@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400834766,2016-01-23,4,2567,home,FALSE,SMU,37,Mustangs,SMU Mustangs,SMU
-400834766,2016-01-23,4,41,away,FALSE,UConn,90,Huskies,UConn Huskies,UConn
-400832059,2016-01-23,4,66,home,FALSE,Iowa State,61,Cyclones,Iowa State Cyclones,Iowa State
-400832059,2016-01-23,4,239,away,FALSE,Baylor,77,Bears,Baylor Bears,Baylor
-400832077,2016-01-23,4,251,home,FALSE,Texas,83,Longhorns,Texas Longhorns,Texas
-400832077,2016-01-23,4,201,away,FALSE,Oklahoma,76,Sooners,Oklahoma Sooners,Oklahoma
-400834855,2016-01-23,0,120,home,FALSE,Maryland,0,Terrapins,Maryland Terrapins,Maryland
-400834855,2016-01-23,0,127,away,FALSE,Michigan State,0,Spartans,Michigan State Spartans,Michigan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400834766,2016,regular-season,2016-01-23,4,2567,home,FALSE,SMU,37,Mustangs,SMU Mustangs,SMU
+400834766,2016,regular-season,2016-01-23,4,41,away,FALSE,UConn,90,Huskies,UConn Huskies,UConn
+400832059,2016,regular-season,2016-01-23,4,66,home,FALSE,Iowa State,61,Cyclones,Iowa State Cyclones,Iowa State
+400832059,2016,regular-season,2016-01-23,4,239,away,FALSE,Baylor,77,Bears,Baylor Bears,Baylor
+400832077,2016,regular-season,2016-01-23,4,251,home,FALSE,Texas,83,Longhorns,Texas Longhorns,Texas
+400832077,2016,regular-season,2016-01-23,4,201,away,FALSE,Oklahoma,76,Sooners,Oklahoma Sooners,Oklahoma
+400834855,2016,regular-season,2016-01-23,0,120,home,FALSE,Maryland,0,Terrapins,Maryland Terrapins,Maryland
+400834855,2016,regular-season,2016-01-23,0,127,away,FALSE,Michigan State,0,Spartans,Michigan State Spartans,Michigan St

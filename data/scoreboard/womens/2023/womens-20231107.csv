@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401587048,2023-11-07,4,2633,home,FALSE,Tennessee,93,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401587048,2023-11-07,4,50,away,FALSE,Florida A&M,64,Rattlers,Florida A&M Rattlers,Florida A&M
-401598986,2023-11-07,4,356,home,FALSE,Illinois,81,Fighting Illini,Illinois Fighting Illini,Illinois
-401598986,2023-11-07,4,2413,away,FALSE,Morehead State,61,Eagles,Morehead State Eagles,Morehead St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401587048,2024,regular-season,2023-11-07,4,2633,home,FALSE,Tennessee,93,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401587048,2024,regular-season,2023-11-07,4,50,away,FALSE,Florida A&M,64,Rattlers,Florida A&M Rattlers,Florida A&M
+401598986,2024,regular-season,2023-11-07,4,356,home,FALSE,Illinois,81,Fighting Illini,Illinois Fighting Illini,Illinois
+401598986,2024,regular-season,2023-11-07,4,2413,away,FALSE,Morehead State,61,Eagles,Morehead State Eagles,Morehead St

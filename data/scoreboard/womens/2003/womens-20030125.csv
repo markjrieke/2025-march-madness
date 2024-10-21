@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230250221,2003-01-25,2,221,home,FALSE,Pittsburgh,55,Panthers,Pittsburgh Panthers,Pitt
-230250221,2003-01-25,2,41,away,FALSE,UConn,76,Huskies,UConn Huskies,UConn
-230252306,2003-01-25,2,2306,home,FALSE,Kansas State,71,Wildcats,Kansas State Wildcats,Kansas St
-230252306,2003-01-25,2,251,away,FALSE,Texas,69,Longhorns,Texas Longhorns,Texas
-230252348,2003-01-25,2,2348,home,FALSE,Louisiana Tech,79,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-230252348,2003-01-25,2,242,away,FALSE,Rice,65,Owls,Rice Owls,Rice
-230252750,2003-01-25,2,2750,home,FALSE,Wright State,73,Raiders,Wright State Raiders,Wright St
-230252750,2003-01-25,2,2739,away,FALSE,Green Bay,70,Phoenix,Green Bay Phoenix,Green Bay
-230250222,2003-01-25,2,222,home,FALSE,Villanova,56,Wildcats,Villanova Wildcats,Villanova
-230250222,2003-01-25,2,87,away,FALSE,Notre Dame,58,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-230250013,2003-01-25,2,13,home,FALSE,Cal Poly,49,Mustangs,Cal Poly Mustangs,Cal Poly
-230250013,2003-01-25,2,2540,away,FALSE,UC Santa Barbara,65,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-230250164,2003-01-25,4,164,home,FALSE,Rutgers,70,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-230250164,2003-01-25,4,2599,away,FALSE,St. John's,64,Red Storm,St. John's Red Storm,St John's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230250221,2003,regular-season,2003-01-25,2,221,home,FALSE,Pittsburgh,55,Panthers,Pittsburgh Panthers,Pitt
+230250221,2003,regular-season,2003-01-25,2,41,away,FALSE,UConn,76,Huskies,UConn Huskies,UConn
+230252306,2003,regular-season,2003-01-25,2,2306,home,FALSE,Kansas State,71,Wildcats,Kansas State Wildcats,Kansas St
+230252306,2003,regular-season,2003-01-25,2,251,away,FALSE,Texas,69,Longhorns,Texas Longhorns,Texas
+230252348,2003,regular-season,2003-01-25,2,2348,home,FALSE,Louisiana Tech,79,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+230252348,2003,regular-season,2003-01-25,2,242,away,FALSE,Rice,65,Owls,Rice Owls,Rice
+230252750,2003,regular-season,2003-01-25,2,2750,home,FALSE,Wright State,73,Raiders,Wright State Raiders,Wright St
+230252750,2003,regular-season,2003-01-25,2,2739,away,FALSE,Green Bay,70,Phoenix,Green Bay Phoenix,Green Bay
+230250222,2003,regular-season,2003-01-25,2,222,home,FALSE,Villanova,56,Wildcats,Villanova Wildcats,Villanova
+230250222,2003,regular-season,2003-01-25,2,87,away,FALSE,Notre Dame,58,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+230250013,2003,regular-season,2003-01-25,2,13,home,FALSE,Cal Poly,49,Mustangs,Cal Poly Mustangs,Cal Poly
+230250013,2003,regular-season,2003-01-25,2,2540,away,FALSE,UC Santa Barbara,65,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+230250164,2003,regular-season,2003-01-25,4,164,home,FALSE,Rutgers,70,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+230250164,2003,regular-season,2003-01-25,4,2599,away,FALSE,St. John's,64,Red Storm,St. John's Red Storm,St John's

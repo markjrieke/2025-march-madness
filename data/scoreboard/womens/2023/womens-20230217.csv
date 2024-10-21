@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401498703,2023-02-17,4,24,home,FALSE,Stanford,50,Cardinal,Stanford Cardinal,Stanford
-401498703,2023-02-17,4,30,away,FALSE,USC,47,Trojans,USC Trojans,USC
-401498699,2023-02-17,4,12,home,FALSE,Arizona,82,Wildcats,Arizona Wildcats,Arizona
-401498699,2023-02-17,4,254,away,FALSE,Utah,72,Utes,Utah Utes,Utah
-401498700,2023-02-17,4,25,home,FALSE,California,54,Golden Bears,California Golden Bears,California
-401498700,2023-02-17,4,26,away,FALSE,UCLA,67,Bruins,UCLA Bruins,UCLA
-401498698,2023-02-17,4,9,home,FALSE,Arizona State,62,Sun Devils,Arizona State Sun Devils,Arizona St
-401498698,2023-02-17,4,38,away,FALSE,Colorado,70,Buffaloes,Colorado Buffaloes,Colorado
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401498703,2023,regular-season,2023-02-17,4,24,home,FALSE,Stanford,50,Cardinal,Stanford Cardinal,Stanford
+401498703,2023,regular-season,2023-02-17,4,30,away,FALSE,USC,47,Trojans,USC Trojans,USC
+401498699,2023,regular-season,2023-02-17,4,12,home,FALSE,Arizona,82,Wildcats,Arizona Wildcats,Arizona
+401498699,2023,regular-season,2023-02-17,4,254,away,FALSE,Utah,72,Utes,Utah Utes,Utah
+401498700,2023,regular-season,2023-02-17,4,25,home,FALSE,California,54,Golden Bears,California Golden Bears,California
+401498700,2023,regular-season,2023-02-17,4,26,away,FALSE,UCLA,67,Bruins,UCLA Bruins,UCLA
+401498698,2023,regular-season,2023-02-17,4,9,home,FALSE,Arizona State,62,Sun Devils,Arizona State Sun Devils,Arizona St
+401498698,2023,regular-season,2023-02-17,4,38,away,FALSE,Colorado,70,Buffaloes,Colorado Buffaloes,Colorado

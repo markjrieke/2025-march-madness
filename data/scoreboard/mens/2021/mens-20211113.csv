@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401371253,2021-11-13,2,2250,home,FALSE,Gonzaga,86,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401371253,2021-11-13,2,251,away,FALSE,Texas,74,Longhorns,Texas Longhorns,Texas
-401371915,2021-11-13,2,235,home,FALSE,Memphis,90,Tigers,Memphis Tigers,Memphis
-401371915,2021-11-13,2,2428,away,FALSE,North Carolina Central,51,Eagles,North Carolina Central Eagles,NC Central
-401371825,2021-11-13,2,8,home,FALSE,Arkansas,86,Razorbacks,Arkansas Razorbacks,Arkansas
-401371825,2021-11-13,2,2241,away,FALSE,Gardner-Webb,69,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-401372177,2021-11-13,2,120,home,FALSE,Maryland,68,Terrapins,Maryland Terrapins,Maryland
-401372177,2021-11-13,2,261,away,FALSE,Vermont,57,Catamounts,Vermont Catamounts,Vermont
-401370795,2021-11-13,2,41,home,FALSE,UConn,89,Huskies,UConn Huskies,UConn
-401370795,2021-11-13,2,2154,away,FALSE,Coppin State,54,Eagles,Coppin State Eagles,Coppin St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401371253,2022,regular-season,2021-11-13,2,2250,home,FALSE,Gonzaga,86,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401371253,2022,regular-season,2021-11-13,2,251,away,FALSE,Texas,74,Longhorns,Texas Longhorns,Texas
+401371915,2022,regular-season,2021-11-13,2,235,home,FALSE,Memphis,90,Tigers,Memphis Tigers,Memphis
+401371915,2022,regular-season,2021-11-13,2,2428,away,FALSE,North Carolina Central,51,Eagles,North Carolina Central Eagles,NC Central
+401371825,2022,regular-season,2021-11-13,2,8,home,FALSE,Arkansas,86,Razorbacks,Arkansas Razorbacks,Arkansas
+401371825,2022,regular-season,2021-11-13,2,2241,away,FALSE,Gardner-Webb,69,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+401372177,2022,regular-season,2021-11-13,2,120,home,FALSE,Maryland,68,Terrapins,Maryland Terrapins,Maryland
+401372177,2022,regular-season,2021-11-13,2,261,away,FALSE,Vermont,57,Catamounts,Vermont Catamounts,Vermont
+401370795,2022,regular-season,2021-11-13,2,41,home,FALSE,UConn,89,Huskies,UConn Huskies,UConn
+401370795,2022,regular-season,2021-11-13,2,2154,away,FALSE,Coppin State,54,Eagles,Coppin State Eagles,Coppin St

@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401522183,2023-03-19,2,2752,home,TRUE,Xavier,84,Musketeers,Xavier Musketeers,Xavier
-401522183,2023-03-19,2,221,away,TRUE,Pittsburgh,73,Panthers,Pittsburgh Panthers,Pitt
-401522180,2023-03-19,2,2306,home,TRUE,Kansas State,75,Wildcats,Kansas State Wildcats,Kansas St
-401522180,2023-03-19,2,96,away,TRUE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
-401522175,2023-03-19,2,269,home,TRUE,Marquette,60,Golden Eagles,Marquette Golden Eagles,Marquette
-401522175,2023-03-19,2,127,away,TRUE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
-401522172,2023-03-19,2,41,home,TRUE,UConn,70,Huskies,UConn Huskies,UConn
-401522172,2023-03-19,2,2608,away,TRUE,Saint Mary's,55,Gaels,Saint Mary's Gaels,Saint Mary's
-401522179,2023-03-19,2,239,home,TRUE,Baylor,76,Bears,Baylor Bears,Baylor
-401522179,2023-03-19,2,156,away,TRUE,Creighton,85,Bluejays,Creighton Bluejays,Creighton
-401522174,2023-03-19,2,2226,home,TRUE,Florida Atlantic,78,Owls,Florida Atlantic Owls,FAU
-401522174,2023-03-19,2,161,away,TRUE,Fairleigh Dickinson,70,Knights,Fairleigh Dickinson Knights,Fair Dickinson
-401522173,2023-03-19,2,84,home,TRUE,Indiana,69,Hoosiers,Indiana Hoosiers,Indiana
-401522173,2023-03-19,2,2390,away,TRUE,Miami,85,Hurricanes,Miami Hurricanes,Miami
-401522178,2023-03-19,2,2250,home,TRUE,Gonzaga,84,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401522178,2023-03-19,2,2628,away,TRUE,TCU,81,Horned Frogs,TCU Horned Frogs,TCU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401522183,2023,post-season,2023-03-19,2,2752,home,TRUE,Xavier,84,Musketeers,Xavier Musketeers,Xavier
+401522183,2023,post-season,2023-03-19,2,221,away,TRUE,Pittsburgh,73,Panthers,Pittsburgh Panthers,Pitt
+401522180,2023,post-season,2023-03-19,2,2306,home,TRUE,Kansas State,75,Wildcats,Kansas State Wildcats,Kansas St
+401522180,2023,post-season,2023-03-19,2,96,away,TRUE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
+401522175,2023,post-season,2023-03-19,2,269,home,TRUE,Marquette,60,Golden Eagles,Marquette Golden Eagles,Marquette
+401522175,2023,post-season,2023-03-19,2,127,away,TRUE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
+401522172,2023,post-season,2023-03-19,2,41,home,TRUE,UConn,70,Huskies,UConn Huskies,UConn
+401522172,2023,post-season,2023-03-19,2,2608,away,TRUE,Saint Mary's,55,Gaels,Saint Mary's Gaels,Saint Mary's
+401522179,2023,post-season,2023-03-19,2,239,home,TRUE,Baylor,76,Bears,Baylor Bears,Baylor
+401522179,2023,post-season,2023-03-19,2,156,away,TRUE,Creighton,85,Bluejays,Creighton Bluejays,Creighton
+401522174,2023,post-season,2023-03-19,2,2226,home,TRUE,Florida Atlantic,78,Owls,Florida Atlantic Owls,FAU
+401522174,2023,post-season,2023-03-19,2,161,away,TRUE,Fairleigh Dickinson,70,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+401522173,2023,post-season,2023-03-19,2,84,home,TRUE,Indiana,69,Hoosiers,Indiana Hoosiers,Indiana
+401522173,2023,post-season,2023-03-19,2,2390,away,TRUE,Miami,85,Hurricanes,Miami Hurricanes,Miami
+401522178,2023,post-season,2023-03-19,2,2250,home,TRUE,Gonzaga,84,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401522178,2023,post-season,2023-03-19,2,2628,away,TRUE,TCU,81,Horned Frogs,TCU Horned Frogs,TCU

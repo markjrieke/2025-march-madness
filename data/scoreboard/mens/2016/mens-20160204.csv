@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400830432,2016-02-04,2,238,home,FALSE,Vanderbilt,77,Commodores,Vanderbilt Commodores,Vanderbilt
-400830432,2016-02-04,2,245,away,FALSE,Texas A&M,60,Aggies,Texas A&M Aggies,Texas A&M
-400841654,2016-02-04,2,2483,home,FALSE,Oregon,76,Ducks,Oregon Ducks,Oregon
-400841654,2016-02-04,2,38,away,FALSE,Colorado,56,Buffaloes,Colorado Buffaloes,Colorado
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400830432,2016,regular-season,2016-02-04,2,238,home,FALSE,Vanderbilt,77,Commodores,Vanderbilt Commodores,Vanderbilt
+400830432,2016,regular-season,2016-02-04,2,245,away,FALSE,Texas A&M,60,Aggies,Texas A&M Aggies,Texas A&M
+400841654,2016,regular-season,2016-02-04,2,2483,home,FALSE,Oregon,76,Ducks,Oregon Ducks,Oregon
+400841654,2016,regular-season,2016-02-04,2,38,away,FALSE,Colorado,56,Buffaloes,Colorado Buffaloes,Colorado

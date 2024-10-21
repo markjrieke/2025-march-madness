@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300340158,2010-02-03,2,158,home,FALSE,Nebraska,88,Cornhuskers,Nebraska Cornhuskers,Nebraska
-300340158,2010-02-03,2,197,away,FALSE,Oklahoma State,67,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-300340045,2010-02-03,2,45,home,FALSE,George Washington,56,Revolutionaries,George Washington Revolutionaries,G Washington
-300340045,2010-02-03,2,2752,away,FALSE,Xavier,72,Musketeers,Xavier Musketeers,Xavier
-300340245,2010-02-03,2,245,home,FALSE,Texas A&M,65,Aggies,Texas A&M Aggies,Texas A&M
-300340245,2010-02-03,2,142,away,FALSE,Missouri,55,Tigers,Missouri Tigers,Missouri
-300340201,2010-02-03,2,201,home,FALSE,Oklahoma,57,Sooners,Oklahoma Sooners,Oklahoma
-300340201,2010-02-03,2,251,away,FALSE,Texas,75,Longhorns,Texas Longhorns,Texas
-300342306,2010-02-03,2,2306,home,FALSE,Kansas State,47,Wildcats,Kansas State Wildcats,Kansas St
-300342306,2010-02-03,2,239,away,FALSE,Baylor,65,Bears,Baylor Bears,Baylor
-300340066,2010-02-03,2,66,home,FALSE,Iowa State,63,Cyclones,Iowa State Cyclones,Iowa State
-300340066,2010-02-03,2,2641,away,FALSE,Texas Tech,48,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300340158,2010,regular-season,2010-02-03,2,158,home,FALSE,Nebraska,88,Cornhuskers,Nebraska Cornhuskers,Nebraska
+300340158,2010,regular-season,2010-02-03,2,197,away,FALSE,Oklahoma State,67,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+300340045,2010,regular-season,2010-02-03,2,45,home,FALSE,George Washington,56,Revolutionaries,George Washington Revolutionaries,G Washington
+300340045,2010,regular-season,2010-02-03,2,2752,away,FALSE,Xavier,72,Musketeers,Xavier Musketeers,Xavier
+300340245,2010,regular-season,2010-02-03,2,245,home,FALSE,Texas A&M,65,Aggies,Texas A&M Aggies,Texas A&M
+300340245,2010,regular-season,2010-02-03,2,142,away,FALSE,Missouri,55,Tigers,Missouri Tigers,Missouri
+300340201,2010,regular-season,2010-02-03,2,201,home,FALSE,Oklahoma,57,Sooners,Oklahoma Sooners,Oklahoma
+300340201,2010,regular-season,2010-02-03,2,251,away,FALSE,Texas,75,Longhorns,Texas Longhorns,Texas
+300342306,2010,regular-season,2010-02-03,2,2306,home,FALSE,Kansas State,47,Wildcats,Kansas State Wildcats,Kansas St
+300342306,2010,regular-season,2010-02-03,2,239,away,FALSE,Baylor,65,Bears,Baylor Bears,Baylor
+300340066,2010,regular-season,2010-02-03,2,66,home,FALSE,Iowa State,63,Cyclones,Iowa State Cyclones,Iowa State
+300340066,2010,regular-season,2010-02-03,2,2641,away,FALSE,Texas Tech,48,Lady Raiders,Texas Tech Lady Raiders,Texas Tech

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290472633,2009-02-16,2,2633,home,FALSE,Tennessee,54,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-290472633,2009-02-16,2,150,away,FALSE,Duke,62,Blue Devils,Duke Blue Devils,Duke
-290472571,2009-02-16,2,2571,home,FALSE,South Dakota State,87,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-290472571,2009-02-16,2,253,away,FALSE,Southern Utah,42,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290472633,2009,regular-season,2009-02-16,2,2633,home,FALSE,Tennessee,54,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+290472633,2009,regular-season,2009-02-16,2,150,away,FALSE,Duke,62,Blue Devils,Duke Blue Devils,Duke
+290472571,2009,regular-season,2009-02-16,2,2571,home,FALSE,South Dakota State,87,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+290472571,2009,regular-season,2009-02-16,2,253,away,FALSE,Southern Utah,42,Thunderbirds,Southern Utah Thunderbirds,Southern Utah

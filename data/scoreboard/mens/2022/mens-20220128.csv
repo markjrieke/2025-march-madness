@@ -1,37 +1,37 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401381721,2022-01-28,2,104,home,FALSE,Boston University,76,Terriers,Boston University Terriers,Boston U
-401381721,2022-01-28,2,2142,away,FALSE,Colgate,72,Raiders,Colgate Raiders,Colgate
-401376565,2022-01-28,2,107,home,FALSE,Holy Cross,67,Crusaders,Holy Cross Crusaders,Holy Cross
-401376565,2022-01-28,2,2329,away,FALSE,Lehigh,65,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-401369747,2022-01-28,2,108,home,FALSE,Harvard,74,Crimson,Harvard Crimson,Harvard
-401369747,2022-01-28,2,219,away,FALSE,Pennsylvania,78,Quakers,Pennsylvania Quakers,Penn
-401369671,2022-01-28,2,160,home,FALSE,New Hampshire,69,Wildcats,New Hampshire Wildcats,New Hampshire
-401369671,2022-01-28,2,2619,away,FALSE,Stony Brook,76,Seawolves,Stony Brook Seawolves,Stony Brook
-401365351,2022-01-28,2,2405,home,FALSE,Monmouth,72,Hawks,Monmouth Hawks,Monmouth
-401365351,2022-01-28,2,2099,away,FALSE,Canisius,67,Golden Griffins,Canisius Golden Griffins,Canisius
-401364756,2022-01-28,2,2005,home,FALSE,Air Force,61,Falcons,Air Force Falcons,Air Force
-401364756,2022-01-28,2,2751,away,FALSE,Wyoming,63,Cowboys,Wyoming Cowboys,Wyoming
-401368291,2022-01-28,2,94,home,FALSE,Northern Kentucky,59,Norse,Northern Kentucky Norse,N Kentucky
-401368291,2022-01-28,2,2870,away,FALSE,Purdue Fort Wayne,49,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-401365810,2022-01-28,2,2168,home,FALSE,Dayton,53,Flyers,Dayton Flyers,Dayton
-401365810,2022-01-28,2,227,away,FALSE,Rhode Island,51,Rams,Rhode Island Rams,Rhode Island
-401365350,2022-01-28,2,2520,home,FALSE,Rider,65,Broncs,Rider Broncs,Rider
-401365350,2022-01-28,2,2217,away,FALSE,Fairfield,76,Stags,Fairfield Stags,Fairfield
-401365349,2022-01-28,2,2612,home,FALSE,Saint Peter's,77,Peacocks,Saint Peter's Peacocks,Saint Peter's
-401365349,2022-01-28,2,2363,away,FALSE,Manhattan,51,Jaspers,Manhattan Jaspers,Manhattan
-401365348,2022-01-28,2,2561,home,FALSE,Siena,60,Saints,Siena Saints,Siena
-401365348,2022-01-28,2,315,away,FALSE,Niagara,56,Purple Eagles,Niagara Purple Eagles,Niagara
-401365137,2022-01-28,2,2084,home,FALSE,Buffalo,53,Bulls,Buffalo Bulls,Buffalo
-401365137,2022-01-28,2,195,away,FALSE,Ohio,74,Bobcats,Ohio Bobcats,Ohio
-401365134,2022-01-28,2,2649,home,FALSE,Toledo,84,Rockets,Toledo Rockets,Toledo
-401365134,2022-01-28,2,2006,away,FALSE,Akron,76,Zips,Akron Zips,Akron
-401365352,2022-01-28,2,2514,home,FALSE,Quinnipiac,94,Bobcats,Quinnipiac Bobcats,Quinnipiac
-401365352,2022-01-28,2,2368,away,FALSE,Marist,87,Red Foxes,Marist Red Foxes,Marist
-401368290,2022-01-28,2,2750,home,FALSE,Wright State,67,Raiders,Wright State Raiders,Wright St
-401368290,2022-01-28,2,325,away,FALSE,Cleveland State,71,Vikings,Cleveland State Vikings,Cleveland St
-401364757,2022-01-28,2,36,home,FALSE,Colorado State,74,Rams,Colorado State Rams,Colorado St
-401364757,2022-01-28,2,2439,away,FALSE,UNLV,88,Rebels,UNLV Rebels,UNLV
-401364754,2022-01-28,2,167,home,FALSE,New Mexico,86,Lobos,New Mexico Lobos,New Mexico
-401364754,2022-01-28,2,23,away,FALSE,San José State,70,Spartans,San José State Spartans,San José St
-401364755,2022-01-28,3,278,home,FALSE,Fresno State,63,Bulldogs,Fresno State Bulldogs,Fresno St
-401364755,2022-01-28,3,68,away,FALSE,Boise State,68,Broncos,Boise State Broncos,Boise St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401381721,2022,regular-season,2022-01-28,2,104,home,FALSE,Boston University,76,Terriers,Boston University Terriers,Boston U
+401381721,2022,regular-season,2022-01-28,2,2142,away,FALSE,Colgate,72,Raiders,Colgate Raiders,Colgate
+401376565,2022,regular-season,2022-01-28,2,107,home,FALSE,Holy Cross,67,Crusaders,Holy Cross Crusaders,Holy Cross
+401376565,2022,regular-season,2022-01-28,2,2329,away,FALSE,Lehigh,65,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+401369747,2022,regular-season,2022-01-28,2,108,home,FALSE,Harvard,74,Crimson,Harvard Crimson,Harvard
+401369747,2022,regular-season,2022-01-28,2,219,away,FALSE,Pennsylvania,78,Quakers,Pennsylvania Quakers,Penn
+401369671,2022,regular-season,2022-01-28,2,160,home,FALSE,New Hampshire,69,Wildcats,New Hampshire Wildcats,New Hampshire
+401369671,2022,regular-season,2022-01-28,2,2619,away,FALSE,Stony Brook,76,Seawolves,Stony Brook Seawolves,Stony Brook
+401365351,2022,regular-season,2022-01-28,2,2405,home,FALSE,Monmouth,72,Hawks,Monmouth Hawks,Monmouth
+401365351,2022,regular-season,2022-01-28,2,2099,away,FALSE,Canisius,67,Golden Griffins,Canisius Golden Griffins,Canisius
+401364756,2022,regular-season,2022-01-28,2,2005,home,FALSE,Air Force,61,Falcons,Air Force Falcons,Air Force
+401364756,2022,regular-season,2022-01-28,2,2751,away,FALSE,Wyoming,63,Cowboys,Wyoming Cowboys,Wyoming
+401368291,2022,regular-season,2022-01-28,2,94,home,FALSE,Northern Kentucky,59,Norse,Northern Kentucky Norse,N Kentucky
+401368291,2022,regular-season,2022-01-28,2,2870,away,FALSE,Purdue Fort Wayne,49,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+401365810,2022,regular-season,2022-01-28,2,2168,home,FALSE,Dayton,53,Flyers,Dayton Flyers,Dayton
+401365810,2022,regular-season,2022-01-28,2,227,away,FALSE,Rhode Island,51,Rams,Rhode Island Rams,Rhode Island
+401365350,2022,regular-season,2022-01-28,2,2520,home,FALSE,Rider,65,Broncs,Rider Broncs,Rider
+401365350,2022,regular-season,2022-01-28,2,2217,away,FALSE,Fairfield,76,Stags,Fairfield Stags,Fairfield
+401365349,2022,regular-season,2022-01-28,2,2612,home,FALSE,Saint Peter's,77,Peacocks,Saint Peter's Peacocks,Saint Peter's
+401365349,2022,regular-season,2022-01-28,2,2363,away,FALSE,Manhattan,51,Jaspers,Manhattan Jaspers,Manhattan
+401365348,2022,regular-season,2022-01-28,2,2561,home,FALSE,Siena,60,Saints,Siena Saints,Siena
+401365348,2022,regular-season,2022-01-28,2,315,away,FALSE,Niagara,56,Purple Eagles,Niagara Purple Eagles,Niagara
+401365137,2022,regular-season,2022-01-28,2,2084,home,FALSE,Buffalo,53,Bulls,Buffalo Bulls,Buffalo
+401365137,2022,regular-season,2022-01-28,2,195,away,FALSE,Ohio,74,Bobcats,Ohio Bobcats,Ohio
+401365134,2022,regular-season,2022-01-28,2,2649,home,FALSE,Toledo,84,Rockets,Toledo Rockets,Toledo
+401365134,2022,regular-season,2022-01-28,2,2006,away,FALSE,Akron,76,Zips,Akron Zips,Akron
+401365352,2022,regular-season,2022-01-28,2,2514,home,FALSE,Quinnipiac,94,Bobcats,Quinnipiac Bobcats,Quinnipiac
+401365352,2022,regular-season,2022-01-28,2,2368,away,FALSE,Marist,87,Red Foxes,Marist Red Foxes,Marist
+401368290,2022,regular-season,2022-01-28,2,2750,home,FALSE,Wright State,67,Raiders,Wright State Raiders,Wright St
+401368290,2022,regular-season,2022-01-28,2,325,away,FALSE,Cleveland State,71,Vikings,Cleveland State Vikings,Cleveland St
+401364757,2022,regular-season,2022-01-28,2,36,home,FALSE,Colorado State,74,Rams,Colorado State Rams,Colorado St
+401364757,2022,regular-season,2022-01-28,2,2439,away,FALSE,UNLV,88,Rebels,UNLV Rebels,UNLV
+401364754,2022,regular-season,2022-01-28,2,167,home,FALSE,New Mexico,86,Lobos,New Mexico Lobos,New Mexico
+401364754,2022,regular-season,2022-01-28,2,23,away,FALSE,San José State,70,Spartans,San José State Spartans,San José St
+401364755,2022,regular-season,2022-01-28,3,278,home,FALSE,Fresno State,63,Bulldogs,Fresno State Bulldogs,Fresno St
+401364755,2022,regular-season,2022-01-28,3,68,away,FALSE,Boise State,68,Broncos,Boise State Broncos,Boise St

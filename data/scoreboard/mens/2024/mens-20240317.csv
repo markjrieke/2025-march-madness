@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401625459,2024-03-17,2,2,home,TRUE,Auburn,86,Tigers,Auburn Tigers,Auburn
-401625459,2024-03-17,2,57,away,TRUE,Florida,67,Gators,Florida Gators,Florida
-401625690,2024-03-17,2,356,home,TRUE,Illinois,93,Fighting Illini,Illinois Fighting Illini,Illinois
-401625690,2024-03-17,2,275,away,TRUE,Wisconsin,87,Badgers,Wisconsin Badgers,Wisconsin
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401625459,2024,regular-season,2024-03-17,2,2,home,TRUE,Auburn,86,Tigers,Auburn Tigers,Auburn
+401625459,2024,regular-season,2024-03-17,2,57,away,TRUE,Florida,67,Gators,Florida Gators,Florida
+401625690,2024,regular-season,2024-03-17,2,356,home,TRUE,Illinois,93,Fighting Illini,Illinois Fighting Illini,Illinois
+401625690,2024,regular-season,2024-03-17,2,275,away,TRUE,Wisconsin,87,Badgers,Wisconsin Badgers,Wisconsin

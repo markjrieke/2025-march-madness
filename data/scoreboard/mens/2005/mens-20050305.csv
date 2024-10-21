@@ -1,35 +1,35 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250640164,2005-03-05,2,164,home,FALSE,Rutgers,66,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-250640164,2005-03-05,2,103,away,FALSE,Boston College,78,Eagles,Boston College Eagles,Boston College
-250640197,2005-03-05,2,197,home,FALSE,Oklahoma State,73,Cowboys,Oklahoma State Cowboys,Oklahoma St
-250640197,2005-03-05,2,251,away,FALSE,Texas,74,Longhorns,Texas Longhorns,Texas
-250640305,2005-03-05,2,305,home,FALSE,DePaul,62,Blue Demons,DePaul Blue Demons,DePaul
-250640305,2005-03-05,2,97,away,FALSE,Louisville,66,Cardinals,Louisville Cardinals,Louisville
-250640024,2005-03-05,2,24,home,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
-250640024,2005-03-05,2,264,away,FALSE,Washington,67,Huskies,Washington Huskies,Washington
-250640009,2005-03-05,2,9,home,FALSE,Arizona State,68,Sun Devils,Arizona State Sun Devils,Arizona St
-250640009,2005-03-05,2,12,away,FALSE,Arizona,70,Wildcats,Arizona Wildcats,Arizona
-250640041,2005-03-05,2,41,home,FALSE,UConn,88,Huskies,UConn Huskies,UConn
-250640041,2005-03-05,2,183,away,FALSE,Syracuse,70,Orange,Syracuse Orange,Syracuse
-250640127,2005-03-05,2,127,home,FALSE,Michigan State,90,Spartans,Michigan State Spartans,Michigan St
-250640127,2005-03-05,2,213,away,FALSE,Penn State,64,Nittany Lions,Penn State Nittany Lions,Penn State
-250640254,2005-03-05,2,254,home,FALSE,Utah,72,Utes,Utah Utes,Utah
-250640254,2005-03-05,2,21,away,FALSE,San Diego State,60,Aztecs,San Diego State Aztecs,San Diego St
-250640027,2005-03-05,2,27,home,FALSE,UC Riverside,48,Highlanders,UC Riverside Highlanders,UC Riverside
-250640027,2005-03-05,2,279,away,FALSE,Pacific,64,Tigers,Pacific Tigers,Pacific
-250640058,2005-03-05,2,58,home,FALSE,South Florida,85,Bulls,South Florida Bulls,South Florida
-250640058,2005-03-05,2,2429,away,FALSE,Charlotte,73,49ers,Charlotte 49ers,Charlotte
-250642599,2005-03-05,2,2599,home,FALSE,St. John's,68,Red Storm,St. John's Red Storm,St John's
-250642599,2005-03-05,2,222,away,FALSE,Villanova,70,Wildcats,Villanova Wildcats,Villanova
-250642641,2005-03-05,2,2641,home,FALSE,Texas Tech,54,Red Raiders,Texas Tech Red Raiders,Texas Tech
-250642641,2005-03-05,2,201,away,FALSE,Oklahoma,74,Sooners,Oklahoma Sooners,Oklahoma
-250640344,2005-03-05,2,344,home,FALSE,Mississippi State,63,Bulldogs,Mississippi State Bulldogs,Mississippi St
-250640344,2005-03-05,2,333,away,FALSE,Alabama,68,Crimson Tide,Alabama Crimson Tide,Alabama
-250640235,2005-03-05,2,235,home,FALSE,Memphis,60,Tigers,Memphis Tigers,Memphis
-250640235,2005-03-05,2,2132,away,FALSE,Cincinnati,62,Bearcats,Cincinnati Bearcats,Cincinnati
-250640275,2005-03-05,2,275,home,FALSE,Wisconsin,64,Badgers,Wisconsin Badgers,Wisconsin
-250640275,2005-03-05,2,2509,away,FALSE,Purdue,52,Boilermakers,Purdue Boilermakers,Purdue
-250640087,2005-03-05,2,87,home,FALSE,Notre Dame,77,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-250640087,2005-03-05,2,221,away,FALSE,Pittsburgh,85,Panthers,Pittsburgh Panthers,Pitt
-250640023,2005-03-05,2,23,home,FALSE,San José State,69,Spartans,San José State Spartans,San José St
-250640023,2005-03-05,2,2440,away,FALSE,Nevada,73,Wolf Pack,Nevada Wolf Pack,Nevada
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250640164,2005,regular-season,2005-03-05,2,164,home,FALSE,Rutgers,66,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+250640164,2005,regular-season,2005-03-05,2,103,away,FALSE,Boston College,78,Eagles,Boston College Eagles,Boston College
+250640197,2005,regular-season,2005-03-05,2,197,home,FALSE,Oklahoma State,73,Cowboys,Oklahoma State Cowboys,Oklahoma St
+250640197,2005,regular-season,2005-03-05,2,251,away,FALSE,Texas,74,Longhorns,Texas Longhorns,Texas
+250640305,2005,regular-season,2005-03-05,2,305,home,FALSE,DePaul,62,Blue Demons,DePaul Blue Demons,DePaul
+250640305,2005,regular-season,2005-03-05,2,97,away,FALSE,Louisville,66,Cardinals,Louisville Cardinals,Louisville
+250640024,2005,regular-season,2005-03-05,2,24,home,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
+250640024,2005,regular-season,2005-03-05,2,264,away,FALSE,Washington,67,Huskies,Washington Huskies,Washington
+250640009,2005,regular-season,2005-03-05,2,9,home,FALSE,Arizona State,68,Sun Devils,Arizona State Sun Devils,Arizona St
+250640009,2005,regular-season,2005-03-05,2,12,away,FALSE,Arizona,70,Wildcats,Arizona Wildcats,Arizona
+250640041,2005,regular-season,2005-03-05,2,41,home,FALSE,UConn,88,Huskies,UConn Huskies,UConn
+250640041,2005,regular-season,2005-03-05,2,183,away,FALSE,Syracuse,70,Orange,Syracuse Orange,Syracuse
+250640127,2005,regular-season,2005-03-05,2,127,home,FALSE,Michigan State,90,Spartans,Michigan State Spartans,Michigan St
+250640127,2005,regular-season,2005-03-05,2,213,away,FALSE,Penn State,64,Nittany Lions,Penn State Nittany Lions,Penn State
+250640254,2005,regular-season,2005-03-05,2,254,home,FALSE,Utah,72,Utes,Utah Utes,Utah
+250640254,2005,regular-season,2005-03-05,2,21,away,FALSE,San Diego State,60,Aztecs,San Diego State Aztecs,San Diego St
+250640027,2005,regular-season,2005-03-05,2,27,home,FALSE,UC Riverside,48,Highlanders,UC Riverside Highlanders,UC Riverside
+250640027,2005,regular-season,2005-03-05,2,279,away,FALSE,Pacific,64,Tigers,Pacific Tigers,Pacific
+250640058,2005,regular-season,2005-03-05,2,58,home,FALSE,South Florida,85,Bulls,South Florida Bulls,South Florida
+250640058,2005,regular-season,2005-03-05,2,2429,away,FALSE,Charlotte,73,49ers,Charlotte 49ers,Charlotte
+250642599,2005,regular-season,2005-03-05,2,2599,home,FALSE,St. John's,68,Red Storm,St. John's Red Storm,St John's
+250642599,2005,regular-season,2005-03-05,2,222,away,FALSE,Villanova,70,Wildcats,Villanova Wildcats,Villanova
+250642641,2005,regular-season,2005-03-05,2,2641,home,FALSE,Texas Tech,54,Red Raiders,Texas Tech Red Raiders,Texas Tech
+250642641,2005,regular-season,2005-03-05,2,201,away,FALSE,Oklahoma,74,Sooners,Oklahoma Sooners,Oklahoma
+250640344,2005,regular-season,2005-03-05,2,344,home,FALSE,Mississippi State,63,Bulldogs,Mississippi State Bulldogs,Mississippi St
+250640344,2005,regular-season,2005-03-05,2,333,away,FALSE,Alabama,68,Crimson Tide,Alabama Crimson Tide,Alabama
+250640235,2005,regular-season,2005-03-05,2,235,home,FALSE,Memphis,60,Tigers,Memphis Tigers,Memphis
+250640235,2005,regular-season,2005-03-05,2,2132,away,FALSE,Cincinnati,62,Bearcats,Cincinnati Bearcats,Cincinnati
+250640275,2005,regular-season,2005-03-05,2,275,home,FALSE,Wisconsin,64,Badgers,Wisconsin Badgers,Wisconsin
+250640275,2005,regular-season,2005-03-05,2,2509,away,FALSE,Purdue,52,Boilermakers,Purdue Boilermakers,Purdue
+250640087,2005,regular-season,2005-03-05,2,87,home,FALSE,Notre Dame,77,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+250640087,2005,regular-season,2005-03-05,2,221,away,FALSE,Pittsburgh,85,Panthers,Pittsburgh Panthers,Pitt
+250640023,2005,regular-season,2005-03-05,2,23,home,FALSE,San José State,69,Spartans,San José State Spartans,San José St
+250640023,2005,regular-season,2005-03-05,2,2440,away,FALSE,Nevada,73,Wolf Pack,Nevada Wolf Pack,Nevada

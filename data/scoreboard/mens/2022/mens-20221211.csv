@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401483272,2022-12-11,2,66,home,FALSE,Iowa State,77,Cyclones,Iowa State Cyclones,Iowa State
-401483272,2022-12-11,2,2377,away,FALSE,McNeese,40,Cowboys,McNeese Cowboys,McNeese
-401483192,2022-12-11,2,135,home,FALSE,Minnesota,51,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401483192,2022-12-11,2,344,away,FALSE,Mississippi State,69,Bulldogs,Mississippi State Bulldogs,Mississippi St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401483272,2023,regular-season,2022-12-11,2,66,home,FALSE,Iowa State,77,Cyclones,Iowa State Cyclones,Iowa State
+401483272,2023,regular-season,2022-12-11,2,2377,away,FALSE,McNeese,40,Cowboys,McNeese Cowboys,McNeese
+401483192,2023,regular-season,2022-12-11,2,135,home,FALSE,Minnesota,51,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401483192,2023,regular-season,2022-12-11,2,344,away,FALSE,Mississippi State,69,Bulldogs,Mississippi State Bulldogs,Mississippi St

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330880097,2013-03-29,2,97,home,TRUE,Louisville,77,Cardinals,Louisville Cardinals,Louisville
-330880097,2013-03-29,2,2483,away,TRUE,Oregon,69,Ducks,Oregon Ducks,Oregon
-330882305,2013-03-29,3,2305,home,TRUE,Kansas,85,Jayhawks,Kansas Jayhawks,Kansas
-330882305,2013-03-29,3,130,away,TRUE,Michigan,87,Wolverines,Michigan Wolverines,Michigan
-330880150,2013-03-29,2,150,home,TRUE,Duke,71,Blue Devils,Duke Blue Devils,Duke
-330880150,2013-03-29,2,127,away,TRUE,Michigan State,61,Spartans,Michigan State Spartans,Michigan St
-330880057,2013-03-29,2,57,home,TRUE,Florida,62,Gators,Florida Gators,Florida
-330880057,2013-03-29,2,526,away,TRUE,Florida Gulf Coast,50,Eagles,Florida Gulf Coast Eagles,FGCU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330880097,2013,post-season,2013-03-29,2,97,home,TRUE,Louisville,77,Cardinals,Louisville Cardinals,Louisville
+330880097,2013,post-season,2013-03-29,2,2483,away,TRUE,Oregon,69,Ducks,Oregon Ducks,Oregon
+330882305,2013,post-season,2013-03-29,3,2305,home,TRUE,Kansas,85,Jayhawks,Kansas Jayhawks,Kansas
+330882305,2013,post-season,2013-03-29,3,130,away,TRUE,Michigan,87,Wolverines,Michigan Wolverines,Michigan
+330880150,2013,post-season,2013-03-29,2,150,home,TRUE,Duke,71,Blue Devils,Duke Blue Devils,Duke
+330880150,2013,post-season,2013-03-29,2,127,away,TRUE,Michigan State,61,Spartans,Michigan State Spartans,Michigan St
+330880057,2013,post-season,2013-03-29,2,57,home,TRUE,Florida,62,Gators,Florida Gators,Florida
+330880057,2013,post-season,2013-03-29,2,526,away,TRUE,Florida Gulf Coast,50,Eagles,Florida Gulf Coast Eagles,FGCU

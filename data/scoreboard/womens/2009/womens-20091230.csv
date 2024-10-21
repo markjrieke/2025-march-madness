@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293640278,2009-12-30,2,278,home,FALSE,Fresno State,46,Bulldogs,Fresno State Bulldogs,Fresno St
-293640278,2009-12-30,2,24,away,FALSE,Stanford,68,Cardinal,Stanford Cardinal,Stanford
-293642633,2009-12-30,2,2633,home,FALSE,Tennessee,102,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-293642633,2009-12-30,2,295,away,FALSE,Old Dominion,62,Monarchs,Old Dominion Monarchs,Old Dominion
-293640239,2009-12-30,2,239,home,FALSE,Baylor,100,Bears,Baylor Bears,Baylor
-293640239,2009-12-30,2,292,away,FALSE,UT Rio Grande Valley,46,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-293642542,2009-12-30,2,2542,home,FALSE,Savannah State,45,Tigers,Savannah State Tigers,Savannah St
-293642542,2009-12-30,2,61,away,FALSE,Georgia,80,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-293640167,2009-12-30,2,167,home,FALSE,New Mexico,69,Lobos,New Mexico Lobos,New Mexico
-293640167,2009-12-30,2,245,away,FALSE,Texas A&M,84,Aggies,Texas A&M Aggies,Texas A&M
-293642752,2009-12-30,2,2752,home,FALSE,Xavier,47,Musketeers,Xavier Musketeers,Xavier
-293642752,2009-12-30,2,99,away,FALSE,LSU,56,Tigers,LSU Tigers,LSU
-293640052,2009-12-30,2,52,home,FALSE,Florida State,80,Seminoles,Florida State Seminoles,Florida St
-293640052,2009-12-30,2,2717,away,FALSE,Western Carolina,47,Catamounts,Western Carolina Catamounts,W Carolina
-293640158,2009-12-30,2,158,home,FALSE,Nebraska,88,Cornhuskers,Nebraska Cornhuskers,Nebraska
-293640158,2009-12-30,2,399,away,FALSE,UAlbany,41,Great Danes,UAlbany Great Danes,UAlbany
-293640201,2009-12-30,2,201,home,FALSE,Oklahoma,95,Sooners,Oklahoma Sooners,Oklahoma
-293640201,2009-12-30,2,2239,away,FALSE,Cal State Fullerton,76,Titans,Cal State Fullerton Titans,Fullerton
-293642305,2009-12-30,2,2305,home,FALSE,Kansas,82,Jayhawks,Kansas Jayhawks,Kansas
-293642305,2009-12-30,2,2492,away,FALSE,Pepperdine,63,Waves,Pepperdine Waves,Pepperdine
-293640256,2009-12-30,2,256,home,FALSE,James Madison,74,Dukes,James Madison Dukes,James Madison
-293640256,2009-12-30,2,2711,away,FALSE,Western Michigan,65,Broncos,Western Michigan Broncos,W Michigan
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293640278,2010,regular-season,2009-12-30,2,278,home,FALSE,Fresno State,46,Bulldogs,Fresno State Bulldogs,Fresno St
+293640278,2010,regular-season,2009-12-30,2,24,away,FALSE,Stanford,68,Cardinal,Stanford Cardinal,Stanford
+293642633,2010,regular-season,2009-12-30,2,2633,home,FALSE,Tennessee,102,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+293642633,2010,regular-season,2009-12-30,2,295,away,FALSE,Old Dominion,62,Monarchs,Old Dominion Monarchs,Old Dominion
+293640239,2010,regular-season,2009-12-30,2,239,home,FALSE,Baylor,100,Bears,Baylor Bears,Baylor
+293640239,2010,regular-season,2009-12-30,2,292,away,FALSE,UT Rio Grande Valley,46,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+293642542,2010,regular-season,2009-12-30,2,2542,home,FALSE,Savannah State,45,Tigers,Savannah State Tigers,Savannah St
+293642542,2010,regular-season,2009-12-30,2,61,away,FALSE,Georgia,80,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+293640167,2010,regular-season,2009-12-30,2,167,home,FALSE,New Mexico,69,Lobos,New Mexico Lobos,New Mexico
+293640167,2010,regular-season,2009-12-30,2,245,away,FALSE,Texas A&M,84,Aggies,Texas A&M Aggies,Texas A&M
+293642752,2010,regular-season,2009-12-30,2,2752,home,FALSE,Xavier,47,Musketeers,Xavier Musketeers,Xavier
+293642752,2010,regular-season,2009-12-30,2,99,away,FALSE,LSU,56,Tigers,LSU Tigers,LSU
+293640052,2010,regular-season,2009-12-30,2,52,home,FALSE,Florida State,80,Seminoles,Florida State Seminoles,Florida St
+293640052,2010,regular-season,2009-12-30,2,2717,away,FALSE,Western Carolina,47,Catamounts,Western Carolina Catamounts,W Carolina
+293640158,2010,regular-season,2009-12-30,2,158,home,FALSE,Nebraska,88,Cornhuskers,Nebraska Cornhuskers,Nebraska
+293640158,2010,regular-season,2009-12-30,2,399,away,FALSE,UAlbany,41,Great Danes,UAlbany Great Danes,UAlbany
+293640201,2010,regular-season,2009-12-30,2,201,home,FALSE,Oklahoma,95,Sooners,Oklahoma Sooners,Oklahoma
+293640201,2010,regular-season,2009-12-30,2,2239,away,FALSE,Cal State Fullerton,76,Titans,Cal State Fullerton Titans,Fullerton
+293642305,2010,regular-season,2009-12-30,2,2305,home,FALSE,Kansas,82,Jayhawks,Kansas Jayhawks,Kansas
+293642305,2010,regular-season,2009-12-30,2,2492,away,FALSE,Pepperdine,63,Waves,Pepperdine Waves,Pepperdine
+293640256,2010,regular-season,2009-12-30,2,256,home,FALSE,James Madison,74,Dukes,James Madison Dukes,James Madison
+293640256,2010,regular-season,2009-12-30,2,2711,away,FALSE,Western Michigan,65,Broncos,Western Michigan Broncos,W Michigan

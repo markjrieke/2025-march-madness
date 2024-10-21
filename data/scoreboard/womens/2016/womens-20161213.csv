@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400912560,2016-12-13,4,2031,home,FALSE,Little Rock,44,Trojans,Little Rock Trojans,Little Rock
-400912560,2016-12-13,4,344,away,FALSE,Mississippi State,58,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400912995,2016-12-13,4,2393,home,FALSE,Middle Tennessee,48,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-400912995,2016-12-13,4,9,away,FALSE,Arizona State,69,Sun Devils,Arizona State Sun Devils,Arizona St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400912560,2017,regular-season,2016-12-13,4,2031,home,FALSE,Little Rock,44,Trojans,Little Rock Trojans,Little Rock
+400912560,2017,regular-season,2016-12-13,4,344,away,FALSE,Mississippi State,58,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400912995,2017,regular-season,2016-12-13,4,2393,home,FALSE,Middle Tennessee,48,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+400912995,2017,regular-season,2016-12-13,4,9,away,FALSE,Arizona State,69,Sun Devils,Arizona State Sun Devils,Arizona St

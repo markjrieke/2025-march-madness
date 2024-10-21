@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263112443,2006-11-07,2,2443,home,FALSE,New Orleans,65,Privateers,New Orleans Privateers,New Orleans
-263112443,2006-11-07,2,261,away,FALSE,Vermont,82,Catamounts,Vermont Catamounts,Vermont
-263110120,2006-11-07,2,120,home,FALSE,Maryland,102,Terrapins,Maryland Terrapins,Maryland
-263110120,2006-11-07,2,2261,away,FALSE,Hampton,75,Pirates,Hampton Pirates,Hampton
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263112443,2007,regular-season,2006-11-07,2,2443,home,FALSE,New Orleans,65,Privateers,New Orleans Privateers,New Orleans
+263112443,2007,regular-season,2006-11-07,2,261,away,FALSE,Vermont,82,Catamounts,Vermont Catamounts,Vermont
+263110120,2007,regular-season,2006-11-07,2,120,home,FALSE,Maryland,102,Terrapins,Maryland Terrapins,Maryland
+263110120,2007,regular-season,2006-11-07,2,2261,away,FALSE,Hampton,75,Pirates,Hampton Pirates,Hampton

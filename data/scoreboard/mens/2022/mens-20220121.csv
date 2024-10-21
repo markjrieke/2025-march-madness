@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401364394,2022-01-21,2,275,home,FALSE,Wisconsin,74,Badgers,Wisconsin Badgers,Wisconsin
-401364394,2022-01-21,2,127,away,FALSE,Michigan State,86,Spartans,Michigan State Spartans,Michigan St
-401364393,2022-01-21,2,120,home,FALSE,Maryland,81,Terrapins,Maryland Terrapins,Maryland
-401364393,2022-01-21,2,356,away,FALSE,Illinois,65,Fighting Illini,Illinois Fighting Illini,Illinois
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401364394,2022,regular-season,2022-01-21,2,275,home,FALSE,Wisconsin,74,Badgers,Wisconsin Badgers,Wisconsin
+401364394,2022,regular-season,2022-01-21,2,127,away,FALSE,Michigan State,86,Spartans,Michigan State Spartans,Michigan St
+401364393,2022,regular-season,2022-01-21,2,120,home,FALSE,Maryland,81,Terrapins,Maryland Terrapins,Maryland
+401364393,2022,regular-season,2022-01-21,2,356,away,FALSE,Illinois,65,Fighting Illini,Illinois Fighting Illini,Illinois

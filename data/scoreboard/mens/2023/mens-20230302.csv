@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401492763,2023-03-02,2,248,home,FALSE,Houston,83,Cougars,Houston Cougars,Houston
-401492763,2023-03-02,2,2724,away,FALSE,Wichita State,66,Shockers,Wichita State Shockers,Wichita St
-401490412,2023-03-02,2,26,home,FALSE,UCLA,79,Bruins,UCLA Bruins,UCLA
-401490412,2023-03-02,2,9,away,FALSE,Arizona State,61,Sun Devils,Arizona State Sun Devils,Arizona St
-401484985,2023-03-02,2,275,home,FALSE,Wisconsin,61,Badgers,Wisconsin Badgers,Wisconsin
-401484985,2023-03-02,2,2509,away,FALSE,Purdue,63,Boilermakers,Purdue Boilermakers,Purdue
-401490413,2023-03-02,2,30,home,FALSE,USC,81,Trojans,USC Trojans,USC
-401490413,2023-03-02,2,12,away,FALSE,Arizona,87,Wildcats,Arizona Wildcats,Arizona
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401492763,2023,regular-season,2023-03-02,2,248,home,FALSE,Houston,83,Cougars,Houston Cougars,Houston
+401492763,2023,regular-season,2023-03-02,2,2724,away,FALSE,Wichita State,66,Shockers,Wichita State Shockers,Wichita St
+401490412,2023,regular-season,2023-03-02,2,26,home,FALSE,UCLA,79,Bruins,UCLA Bruins,UCLA
+401490412,2023,regular-season,2023-03-02,2,9,away,FALSE,Arizona State,61,Sun Devils,Arizona State Sun Devils,Arizona St
+401484985,2023,regular-season,2023-03-02,2,275,home,FALSE,Wisconsin,61,Badgers,Wisconsin Badgers,Wisconsin
+401484985,2023,regular-season,2023-03-02,2,2509,away,FALSE,Purdue,63,Boilermakers,Purdue Boilermakers,Purdue
+401490413,2023,regular-season,2023-03-02,2,30,home,FALSE,USC,81,Trojans,USC Trojans,USC
+401490413,2023,regular-season,2023-03-02,2,12,away,FALSE,Arizona,87,Wildcats,Arizona Wildcats,Arizona

@@ -1,117 +1,117 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401211005,2020-03-12,0,164,home,TRUE,Rutgers,0,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-401211005,2020-03-12,0,130,away,TRUE,Michigan,0,Wolverines,Michigan Wolverines,Michigan
-401210945,2020-03-12,0,156,home,TRUE,Creighton,0,Bluejays,Creighton Bluejays,Creighton
-401210945,2020-03-12,0,2599,away,TRUE,St. John's,0,Red Storm,St. John's Red Storm,St John's
-401210903,2020-03-12,0,113,home,TRUE,Massachusetts,0,Minutemen,Massachusetts Minutemen,UMass
-401210903,2020-03-12,0,2670,away,TRUE,VCU,0,Rams,VCU Rams,VCU
-401211591,2020-03-12,0,52,home,TRUE,Florida State,0,Seminoles,Florida State Seminoles,Florida St
-401211591,2020-03-12,0,228,away,TRUE,Clemson,0,Tigers,Clemson Tigers,Clemson
-401211471,2020-03-12,0,251,home,TRUE,Texas,0,Longhorns,Texas Longhorns,Texas
-401211471,2020-03-12,0,2641,away,TRUE,Texas Tech,0,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401211644,2020-03-12,0,2006,home,TRUE,Akron,0,Zips,Akron Zips,Akron
-401211644,2020-03-12,0,195,away,TRUE,Ohio,0,Bobcats,Ohio Bobcats,Ohio
-401211598,2020-03-12,0,2116,home,TRUE,UCF,0,Knights,UCF Knights,UCF
-401211598,2020-03-12,0,58,away,TRUE,South Florida,0,Bulls,South Florida Bulls,South Florida
-401211458,2020-03-12,0,2633,home,TRUE,Tennessee,0,Volunteers,Tennessee Volunteers,Tennessee
-401211458,2020-03-12,0,333,away,TRUE,Alabama,0,Crimson Tide,Alabama Crimson Tide,Alabama
-401210977,2020-03-12,0,331,home,TRUE,Eastern Washington,0,Eagles,Eastern Washington Eagles,E Washington
-401210977,2020-03-12,0,16,away,TRUE,Sacramento State,0,Hornets,Sacramento State Hornets,Sacramento St
-401211007,2020-03-12,0,2294,home,TRUE,Iowa,0,Hawkeyes,Iowa Hawkeyes,Iowa
-401211007,2020-03-12,0,135,away,TRUE,Minnesota,0,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401211592,2020-03-12,0,150,home,TRUE,Duke,0,Blue Devils,Duke Blue Devils,Duke
-401211592,2020-03-12,0,152,away,TRUE,NC State,0,Wolfpack,NC State Wolfpack,NC State
-401211472,2020-03-12,0,2305,home,FALSE,Kansas,0,Jayhawks,Kansas Jayhawks,Kansas
-401211472,2020-03-12,0,197,away,FALSE,Oklahoma State,0,Cowboys,Oklahoma State Cowboys,Oklahoma St
-401210946,2020-03-12,0,2507,home,TRUE,Providence,0,Friars,Providence Friars,Providence
-401210946,2020-03-12,0,2086,away,TRUE,Butler,0,Bulldogs,Butler Bulldogs,Butler
-401210904,2020-03-12,0,179,home,TRUE,St. Bonaventure,0,Bonnies,St. Bonaventure Bonnies,St Bonaventure
-401210904,2020-03-12,0,2244,away,TRUE,George Mason,0,Patriots,George Mason Patriots,George Mason
-401211622,2020-03-12,0,2483,home,TRUE,Oregon,0,Ducks,Oregon Ducks,Oregon
-401211622,2020-03-12,0,204,away,TRUE,Oregon State,0,Beavers,Oregon State Beavers,Oregon St
-401211599,2020-03-12,0,41,home,TRUE,UConn,0,Huskies,UConn Huskies,UConn
-401211599,2020-03-12,0,2655,away,TRUE,Tulane,0,Green Wave,Tulane Green Wave,Tulane
-401211459,2020-03-12,0,57,home,TRUE,Florida,0,Gators,Florida Gators,Florida
-401211459,2020-03-12,0,61,away,TRUE,Georgia,0,Bulldogs,Georgia Bulldogs,Georgia
-401211110,2020-03-12,0,2463,home,TRUE,Cal State Northridge,0,Matadors,Cal State Northridge Matadors,CSU Northridge
-401211110,2020-03-12,0,2239,away,TRUE,Cal State Fullerton,0,Titans,Cal State Fullerton Titans,Fullerton
-401211096,2020-03-12,0,166,home,TRUE,New Mexico State,0,Aggies,New Mexico State Aggies,New Mexico St
-401211096,2020-03-12,0,2130,away,TRUE,Chicago State,0,Cougars,Chicago State Cougars,Chicago St
-401211645,2020-03-12,0,2459,home,TRUE,Northern Illinois,0,Huskies,Northern Illinois Huskies,N Illinois
-401211645,2020-03-12,0,193,away,TRUE,Miami (OH),0,RedHawks,Miami (OH) RedHawks,Miami OH
-401210979,2020-03-12,0,2502,home,TRUE,Portland State,0,Vikings,Portland State Vikings,Portland St
-401210979,2020-03-12,0,147,away,TRUE,Montana State,0,Bobcats,Montana State Bobcats,Montana St
-401211623,2020-03-12,0,30,home,TRUE,USC,0,Trojans,USC Trojans,USC
-401211623,2020-03-12,0,12,away,TRUE,Arizona,0,Wildcats,Arizona Wildcats,Arizona
-401211111,2020-03-12,0,2540,home,TRUE,UC Santa Barbara,0,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-401211111,2020-03-12,0,27,away,TRUE,UC Riverside,0,Highlanders,UC Riverside Highlanders,UC Riverside
-401211097,2020-03-12,0,2253,home,TRUE,Grand Canyon,0,Lopes,Grand Canyon Lopes,Grand Canyon
-401211097,2020-03-12,0,140,away,TRUE,Kansas City,0,Roos,Kansas City Roos,Kansas City
-401211077,2020-03-12,0,2534,home,TRUE,Sam Houston,0,Bearkats,Sam Houston Bearkats,Sam Houston
-401211077,2020-03-12,0,2466,away,TRUE,Northwestern State,0,Demons,Northwestern State Demons,N'Western St
-401211044,2020-03-12,0,2065,home,TRUE,Bethune-Cookman,0,Wildcats,Bethune-Cookman Wildcats,Bethune
-401211044,2020-03-12,0,2415,away,TRUE,Morgan State,0,Bears,Morgan State Bears,Morgan St
-401210905,2020-03-12,0,2166,home,TRUE,Davidson,0,Wildcats,Davidson Wildcats,Davidson
-401210905,2020-03-12,0,2325,away,TRUE,La Salle,0,Explorers,La Salle Explorers,La Salle
-401211646,2020-03-12,0,189,home,TRUE,Bowling Green,0,Falcons,Bowling Green Falcons,Bowling Green
-401211646,2020-03-12,0,2649,away,TRUE,Toledo,0,Rockets,Toledo Rockets,Toledo
-401211008,2020-03-12,0,194,home,TRUE,Ohio State,0,Buckeyes,Ohio State Buckeyes,Ohio State
-401211008,2020-03-12,0,2509,away,TRUE,Purdue,0,Boilermakers,Purdue Boilermakers,Purdue
-401211613,2020-03-12,0,239,home,TRUE,Baylor,0,Bears,Baylor Bears,Baylor
-401211613,2020-03-12,0,2306,away,TRUE,Kansas State,0,Wildcats,Kansas State Wildcats,Kansas St
-401211593,2020-03-12,0,258,home,TRUE,Virginia,0,Cavaliers,Virginia Cavaliers,Virginia
-401211593,2020-03-12,0,87,away,TRUE,Notre Dame,0,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401211460,2020-03-12,0,245,home,TRUE,Texas A&M,0,Aggies,Texas A&M Aggies,Texas A&M
-401211460,2020-03-12,0,142,away,TRUE,Missouri,0,Tigers,Missouri Tigers,Missouri
-401211036,2020-03-12,0,2520,home,TRUE,Rider,0,Broncs,Rider Broncs,Rider
-401211036,2020-03-12,0,315,away,TRUE,Niagara,0,Purple Eagles,Niagara Purple Eagles,Niagara
-401211023,2020-03-12,0,249,home,TRUE,North Texas,0,Mean Green,North Texas Mean Green,North Texas
-401211023,2020-03-12,0,2226,away,TRUE,Florida Atlantic,0,Owls,Florida Atlantic Owls,FAU
-401210947,2020-03-12,0,222,home,TRUE,Villanova,0,Wildcats,Villanova Wildcats,Villanova
-401210947,2020-03-12,0,305,away,TRUE,DePaul,0,Blue Demons,DePaul Blue Demons,DePaul
-401211024,2020-03-12,0,2429,home,TRUE,Charlotte,0,49ers,Charlotte 49ers,Charlotte
-401211024,2020-03-12,0,2229,away,TRUE,Florida International,0,Panthers,Florida International Panthers,FIU
-401210980,2020-03-12,0,2458,home,TRUE,Northern Colorado,0,Bears,Northern Colorado Bears,N Colorado
-401210980,2020-03-12,0,253,away,TRUE,Southern Utah,0,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
-401211600,2020-03-12,0,2567,home,TRUE,SMU,0,Mustangs,SMU Mustangs,SMU
-401211600,2020-03-12,0,218,away,TRUE,Temple,0,Owls,Temple Owls,Temple
-401211078,2020-03-12,0,2447,home,TRUE,Nicholls,0,Colonels,Nicholls Colonels,Nicholls
-401211078,2020-03-12,0,2320,away,TRUE,Lamar,0,Cardinals,Lamar Cardinals,Lamar
-401211045,2020-03-12,0,2450,home,TRUE,Norfolk State,0,Spartans,Norfolk State Spartans,Norfolk St
-401211045,2020-03-12,0,2154,away,TRUE,Coppin State,0,Eagles,Coppin State Eagles,Coppin St
-401210906,2020-03-12,0,2184,home,TRUE,Duquesne,0,Dukes,Duquesne Dukes,Duquesne
-401210906,2020-03-12,0,2230,away,TRUE,Fordham,0,Rams,Fordham Rams,Fordham
-401211009,2020-03-12,0,213,home,TRUE,Penn State,0,Nittany Lions,Penn State Nittany Lions,Penn State
-401211009,2020-03-12,0,84,away,TRUE,Indiana,0,Hoosiers,Indiana Hoosiers,Indiana
-401211647,2020-03-12,0,2050,home,TRUE,Ball State,0,Cardinals,Ball State Cardinals,Ball State
-401211647,2020-03-12,0,2309,away,TRUE,Kent State,0,Golden Flashes,Kent State Golden Flashes,Kent State
-401211624,2020-03-12,0,26,home,TRUE,UCLA,0,Bruins,UCLA Bruins,UCLA
-401211624,2020-03-12,0,25,away,TRUE,California,0,Golden Bears,California Golden Bears,California
-401211614,2020-03-12,0,201,home,TRUE,Oklahoma,0,Sooners,Oklahoma Sooners,Oklahoma
-401211614,2020-03-12,0,277,away,TRUE,West Virginia,0,Mountaineers,West Virginia Mountaineers,West Virginia
-401211594,2020-03-12,0,97,home,TRUE,Louisville,0,Cardinals,Louisville Cardinals,Louisville
-401211594,2020-03-12,0,183,away,TRUE,Syracuse,0,Orange,Syracuse Orange,Syracuse
-401211461,2020-03-12,0,2579,home,TRUE,South Carolina,0,Gamecocks,South Carolina Gamecocks,South Carolina
-401211461,2020-03-12,0,8,away,TRUE,Arkansas,0,Razorbacks,Arkansas Razorbacks,Arkansas
-401211112,2020-03-12,0,300,home,TRUE,UC Irvine,0,Anteaters,UC Irvine Anteaters,UC Irvine
-401211112,2020-03-12,0,299,away,TRUE,Long Beach State,0,Beach,Long Beach State Beach,Long Beach St
-401211098,2020-03-12,0,292,home,TRUE,UT Rio Grande Valley,0,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-401211098,2020-03-12,0,2934,away,TRUE,Cal State Bakersfield,0,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
-401211035,2020-03-12,0,2405,home,TRUE,Monmouth,0,Hawks,Monmouth Hawks,Monmouth
-401211035,2020-03-12,0,2514,away,TRUE,Quinnipiac,0,Bobcats,Quinnipiac Bobcats,Quinnipiac
-401211025,2020-03-12,0,98,home,TRUE,Western Kentucky,0,Hilltoppers,Western Kentucky Hilltoppers,Western KY
-401211025,2020-03-12,0,5,away,TRUE,UAB,0,Blazers,UAB Blazers,UAB
-401210948,2020-03-12,0,2550,home,TRUE,Seton Hall,0,Pirates,Seton Hall Pirates,Seton Hall
-401210948,2020-03-12,0,269,away,TRUE,Marquette,0,Golden Eagles,Marquette Golden Eagles,Marquette
-401211601,2020-03-12,0,235,home,TRUE,Memphis,0,Tigers,Memphis Tigers,Memphis
-401211601,2020-03-12,0,151,away,TRUE,East Carolina,0,Pirates,East Carolina Pirates,East Carolina
-401211026,2020-03-12,0,2348,home,TRUE,Louisiana Tech,0,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
-401211026,2020-03-12,0,276,away,TRUE,Marshall,0,Thundering Herd,Marshall Thundering Herd,Marshall
-401210981,2020-03-12,0,149,home,TRUE,Montana,0,Grizzlies,Montana Grizzlies,Montana
-401210981,2020-03-12,0,304,away,TRUE,Idaho State,0,Bengals,Idaho State Bengals,Idaho St
-401211625,2020-03-12,0,9,home,TRUE,Arizona State,0,Sun Devils,Arizona State Sun Devils,Arizona St
-401211625,2020-03-12,0,265,away,TRUE,Washington State,0,Cougars,Washington State Cougars,Washington St
-401211113,2020-03-12,0,62,home,TRUE,Hawai'i,0,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
-401211113,2020-03-12,0,302,away,TRUE,UC Davis,0,Aggies,UC Davis Aggies,UC Davis
-401211099,2020-03-12,0,2547,home,TRUE,Seattle U,0,Redhawks,Seattle U Redhawks,Seattle U
-401211099,2020-03-12,0,3084,away,TRUE,Utah Valley,0,Wolverines,Utah Valley Wolverines,Utah Valley
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401211005,2020,regular-season,2020-03-12,0,164,home,TRUE,Rutgers,0,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401211005,2020,regular-season,2020-03-12,0,130,away,TRUE,Michigan,0,Wolverines,Michigan Wolverines,Michigan
+401210945,2020,regular-season,2020-03-12,0,156,home,TRUE,Creighton,0,Bluejays,Creighton Bluejays,Creighton
+401210945,2020,regular-season,2020-03-12,0,2599,away,TRUE,St. John's,0,Red Storm,St. John's Red Storm,St John's
+401210903,2020,regular-season,2020-03-12,0,113,home,TRUE,Massachusetts,0,Minutemen,Massachusetts Minutemen,UMass
+401210903,2020,regular-season,2020-03-12,0,2670,away,TRUE,VCU,0,Rams,VCU Rams,VCU
+401211591,2020,regular-season,2020-03-12,0,52,home,TRUE,Florida State,0,Seminoles,Florida State Seminoles,Florida St
+401211591,2020,regular-season,2020-03-12,0,228,away,TRUE,Clemson,0,Tigers,Clemson Tigers,Clemson
+401211471,2020,regular-season,2020-03-12,0,251,home,TRUE,Texas,0,Longhorns,Texas Longhorns,Texas
+401211471,2020,regular-season,2020-03-12,0,2641,away,TRUE,Texas Tech,0,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401211644,2020,regular-season,2020-03-12,0,2006,home,TRUE,Akron,0,Zips,Akron Zips,Akron
+401211644,2020,regular-season,2020-03-12,0,195,away,TRUE,Ohio,0,Bobcats,Ohio Bobcats,Ohio
+401211598,2020,regular-season,2020-03-12,0,2116,home,TRUE,UCF,0,Knights,UCF Knights,UCF
+401211598,2020,regular-season,2020-03-12,0,58,away,TRUE,South Florida,0,Bulls,South Florida Bulls,South Florida
+401211458,2020,regular-season,2020-03-12,0,2633,home,TRUE,Tennessee,0,Volunteers,Tennessee Volunteers,Tennessee
+401211458,2020,regular-season,2020-03-12,0,333,away,TRUE,Alabama,0,Crimson Tide,Alabama Crimson Tide,Alabama
+401210977,2020,regular-season,2020-03-12,0,331,home,TRUE,Eastern Washington,0,Eagles,Eastern Washington Eagles,E Washington
+401210977,2020,regular-season,2020-03-12,0,16,away,TRUE,Sacramento State,0,Hornets,Sacramento State Hornets,Sacramento St
+401211007,2020,regular-season,2020-03-12,0,2294,home,TRUE,Iowa,0,Hawkeyes,Iowa Hawkeyes,Iowa
+401211007,2020,regular-season,2020-03-12,0,135,away,TRUE,Minnesota,0,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401211592,2020,regular-season,2020-03-12,0,150,home,TRUE,Duke,0,Blue Devils,Duke Blue Devils,Duke
+401211592,2020,regular-season,2020-03-12,0,152,away,TRUE,NC State,0,Wolfpack,NC State Wolfpack,NC State
+401211472,2020,regular-season,2020-03-12,0,2305,home,FALSE,Kansas,0,Jayhawks,Kansas Jayhawks,Kansas
+401211472,2020,regular-season,2020-03-12,0,197,away,FALSE,Oklahoma State,0,Cowboys,Oklahoma State Cowboys,Oklahoma St
+401210946,2020,regular-season,2020-03-12,0,2507,home,TRUE,Providence,0,Friars,Providence Friars,Providence
+401210946,2020,regular-season,2020-03-12,0,2086,away,TRUE,Butler,0,Bulldogs,Butler Bulldogs,Butler
+401210904,2020,regular-season,2020-03-12,0,179,home,TRUE,St. Bonaventure,0,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+401210904,2020,regular-season,2020-03-12,0,2244,away,TRUE,George Mason,0,Patriots,George Mason Patriots,George Mason
+401211622,2020,regular-season,2020-03-12,0,2483,home,TRUE,Oregon,0,Ducks,Oregon Ducks,Oregon
+401211622,2020,regular-season,2020-03-12,0,204,away,TRUE,Oregon State,0,Beavers,Oregon State Beavers,Oregon St
+401211599,2020,regular-season,2020-03-12,0,41,home,TRUE,UConn,0,Huskies,UConn Huskies,UConn
+401211599,2020,regular-season,2020-03-12,0,2655,away,TRUE,Tulane,0,Green Wave,Tulane Green Wave,Tulane
+401211459,2020,regular-season,2020-03-12,0,57,home,TRUE,Florida,0,Gators,Florida Gators,Florida
+401211459,2020,regular-season,2020-03-12,0,61,away,TRUE,Georgia,0,Bulldogs,Georgia Bulldogs,Georgia
+401211110,2020,regular-season,2020-03-12,0,2463,home,TRUE,Cal State Northridge,0,Matadors,Cal State Northridge Matadors,CSU Northridge
+401211110,2020,regular-season,2020-03-12,0,2239,away,TRUE,Cal State Fullerton,0,Titans,Cal State Fullerton Titans,Fullerton
+401211096,2020,regular-season,2020-03-12,0,166,home,TRUE,New Mexico State,0,Aggies,New Mexico State Aggies,New Mexico St
+401211096,2020,regular-season,2020-03-12,0,2130,away,TRUE,Chicago State,0,Cougars,Chicago State Cougars,Chicago St
+401211645,2020,regular-season,2020-03-12,0,2459,home,TRUE,Northern Illinois,0,Huskies,Northern Illinois Huskies,N Illinois
+401211645,2020,regular-season,2020-03-12,0,193,away,TRUE,Miami (OH),0,RedHawks,Miami (OH) RedHawks,Miami OH
+401210979,2020,regular-season,2020-03-12,0,2502,home,TRUE,Portland State,0,Vikings,Portland State Vikings,Portland St
+401210979,2020,regular-season,2020-03-12,0,147,away,TRUE,Montana State,0,Bobcats,Montana State Bobcats,Montana St
+401211623,2020,regular-season,2020-03-12,0,30,home,TRUE,USC,0,Trojans,USC Trojans,USC
+401211623,2020,regular-season,2020-03-12,0,12,away,TRUE,Arizona,0,Wildcats,Arizona Wildcats,Arizona
+401211111,2020,regular-season,2020-03-12,0,2540,home,TRUE,UC Santa Barbara,0,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+401211111,2020,regular-season,2020-03-12,0,27,away,TRUE,UC Riverside,0,Highlanders,UC Riverside Highlanders,UC Riverside
+401211097,2020,regular-season,2020-03-12,0,2253,home,TRUE,Grand Canyon,0,Lopes,Grand Canyon Lopes,Grand Canyon
+401211097,2020,regular-season,2020-03-12,0,140,away,TRUE,Kansas City,0,Roos,Kansas City Roos,Kansas City
+401211077,2020,regular-season,2020-03-12,0,2534,home,TRUE,Sam Houston,0,Bearkats,Sam Houston Bearkats,Sam Houston
+401211077,2020,regular-season,2020-03-12,0,2466,away,TRUE,Northwestern State,0,Demons,Northwestern State Demons,N'Western St
+401211044,2020,regular-season,2020-03-12,0,2065,home,TRUE,Bethune-Cookman,0,Wildcats,Bethune-Cookman Wildcats,Bethune
+401211044,2020,regular-season,2020-03-12,0,2415,away,TRUE,Morgan State,0,Bears,Morgan State Bears,Morgan St
+401210905,2020,regular-season,2020-03-12,0,2166,home,TRUE,Davidson,0,Wildcats,Davidson Wildcats,Davidson
+401210905,2020,regular-season,2020-03-12,0,2325,away,TRUE,La Salle,0,Explorers,La Salle Explorers,La Salle
+401211646,2020,regular-season,2020-03-12,0,189,home,TRUE,Bowling Green,0,Falcons,Bowling Green Falcons,Bowling Green
+401211646,2020,regular-season,2020-03-12,0,2649,away,TRUE,Toledo,0,Rockets,Toledo Rockets,Toledo
+401211008,2020,regular-season,2020-03-12,0,194,home,TRUE,Ohio State,0,Buckeyes,Ohio State Buckeyes,Ohio State
+401211008,2020,regular-season,2020-03-12,0,2509,away,TRUE,Purdue,0,Boilermakers,Purdue Boilermakers,Purdue
+401211613,2020,regular-season,2020-03-12,0,239,home,TRUE,Baylor,0,Bears,Baylor Bears,Baylor
+401211613,2020,regular-season,2020-03-12,0,2306,away,TRUE,Kansas State,0,Wildcats,Kansas State Wildcats,Kansas St
+401211593,2020,regular-season,2020-03-12,0,258,home,TRUE,Virginia,0,Cavaliers,Virginia Cavaliers,Virginia
+401211593,2020,regular-season,2020-03-12,0,87,away,TRUE,Notre Dame,0,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401211460,2020,regular-season,2020-03-12,0,245,home,TRUE,Texas A&M,0,Aggies,Texas A&M Aggies,Texas A&M
+401211460,2020,regular-season,2020-03-12,0,142,away,TRUE,Missouri,0,Tigers,Missouri Tigers,Missouri
+401211036,2020,regular-season,2020-03-12,0,2520,home,TRUE,Rider,0,Broncs,Rider Broncs,Rider
+401211036,2020,regular-season,2020-03-12,0,315,away,TRUE,Niagara,0,Purple Eagles,Niagara Purple Eagles,Niagara
+401211023,2020,regular-season,2020-03-12,0,249,home,TRUE,North Texas,0,Mean Green,North Texas Mean Green,North Texas
+401211023,2020,regular-season,2020-03-12,0,2226,away,TRUE,Florida Atlantic,0,Owls,Florida Atlantic Owls,FAU
+401210947,2020,regular-season,2020-03-12,0,222,home,TRUE,Villanova,0,Wildcats,Villanova Wildcats,Villanova
+401210947,2020,regular-season,2020-03-12,0,305,away,TRUE,DePaul,0,Blue Demons,DePaul Blue Demons,DePaul
+401211024,2020,regular-season,2020-03-12,0,2429,home,TRUE,Charlotte,0,49ers,Charlotte 49ers,Charlotte
+401211024,2020,regular-season,2020-03-12,0,2229,away,TRUE,Florida International,0,Panthers,Florida International Panthers,FIU
+401210980,2020,regular-season,2020-03-12,0,2458,home,TRUE,Northern Colorado,0,Bears,Northern Colorado Bears,N Colorado
+401210980,2020,regular-season,2020-03-12,0,253,away,TRUE,Southern Utah,0,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+401211600,2020,regular-season,2020-03-12,0,2567,home,TRUE,SMU,0,Mustangs,SMU Mustangs,SMU
+401211600,2020,regular-season,2020-03-12,0,218,away,TRUE,Temple,0,Owls,Temple Owls,Temple
+401211078,2020,regular-season,2020-03-12,0,2447,home,TRUE,Nicholls,0,Colonels,Nicholls Colonels,Nicholls
+401211078,2020,regular-season,2020-03-12,0,2320,away,TRUE,Lamar,0,Cardinals,Lamar Cardinals,Lamar
+401211045,2020,regular-season,2020-03-12,0,2450,home,TRUE,Norfolk State,0,Spartans,Norfolk State Spartans,Norfolk St
+401211045,2020,regular-season,2020-03-12,0,2154,away,TRUE,Coppin State,0,Eagles,Coppin State Eagles,Coppin St
+401210906,2020,regular-season,2020-03-12,0,2184,home,TRUE,Duquesne,0,Dukes,Duquesne Dukes,Duquesne
+401210906,2020,regular-season,2020-03-12,0,2230,away,TRUE,Fordham,0,Rams,Fordham Rams,Fordham
+401211009,2020,regular-season,2020-03-12,0,213,home,TRUE,Penn State,0,Nittany Lions,Penn State Nittany Lions,Penn State
+401211009,2020,regular-season,2020-03-12,0,84,away,TRUE,Indiana,0,Hoosiers,Indiana Hoosiers,Indiana
+401211647,2020,regular-season,2020-03-12,0,2050,home,TRUE,Ball State,0,Cardinals,Ball State Cardinals,Ball State
+401211647,2020,regular-season,2020-03-12,0,2309,away,TRUE,Kent State,0,Golden Flashes,Kent State Golden Flashes,Kent State
+401211624,2020,regular-season,2020-03-12,0,26,home,TRUE,UCLA,0,Bruins,UCLA Bruins,UCLA
+401211624,2020,regular-season,2020-03-12,0,25,away,TRUE,California,0,Golden Bears,California Golden Bears,California
+401211614,2020,regular-season,2020-03-12,0,201,home,TRUE,Oklahoma,0,Sooners,Oklahoma Sooners,Oklahoma
+401211614,2020,regular-season,2020-03-12,0,277,away,TRUE,West Virginia,0,Mountaineers,West Virginia Mountaineers,West Virginia
+401211594,2020,regular-season,2020-03-12,0,97,home,TRUE,Louisville,0,Cardinals,Louisville Cardinals,Louisville
+401211594,2020,regular-season,2020-03-12,0,183,away,TRUE,Syracuse,0,Orange,Syracuse Orange,Syracuse
+401211461,2020,regular-season,2020-03-12,0,2579,home,TRUE,South Carolina,0,Gamecocks,South Carolina Gamecocks,South Carolina
+401211461,2020,regular-season,2020-03-12,0,8,away,TRUE,Arkansas,0,Razorbacks,Arkansas Razorbacks,Arkansas
+401211112,2020,regular-season,2020-03-12,0,300,home,TRUE,UC Irvine,0,Anteaters,UC Irvine Anteaters,UC Irvine
+401211112,2020,regular-season,2020-03-12,0,299,away,TRUE,Long Beach State,0,Beach,Long Beach State Beach,Long Beach St
+401211098,2020,regular-season,2020-03-12,0,292,home,TRUE,UT Rio Grande Valley,0,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+401211098,2020,regular-season,2020-03-12,0,2934,away,TRUE,Cal State Bakersfield,0,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+401211035,2020,regular-season,2020-03-12,0,2405,home,TRUE,Monmouth,0,Hawks,Monmouth Hawks,Monmouth
+401211035,2020,regular-season,2020-03-12,0,2514,away,TRUE,Quinnipiac,0,Bobcats,Quinnipiac Bobcats,Quinnipiac
+401211025,2020,regular-season,2020-03-12,0,98,home,TRUE,Western Kentucky,0,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+401211025,2020,regular-season,2020-03-12,0,5,away,TRUE,UAB,0,Blazers,UAB Blazers,UAB
+401210948,2020,regular-season,2020-03-12,0,2550,home,TRUE,Seton Hall,0,Pirates,Seton Hall Pirates,Seton Hall
+401210948,2020,regular-season,2020-03-12,0,269,away,TRUE,Marquette,0,Golden Eagles,Marquette Golden Eagles,Marquette
+401211601,2020,regular-season,2020-03-12,0,235,home,TRUE,Memphis,0,Tigers,Memphis Tigers,Memphis
+401211601,2020,regular-season,2020-03-12,0,151,away,TRUE,East Carolina,0,Pirates,East Carolina Pirates,East Carolina
+401211026,2020,regular-season,2020-03-12,0,2348,home,TRUE,Louisiana Tech,0,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
+401211026,2020,regular-season,2020-03-12,0,276,away,TRUE,Marshall,0,Thundering Herd,Marshall Thundering Herd,Marshall
+401210981,2020,regular-season,2020-03-12,0,149,home,TRUE,Montana,0,Grizzlies,Montana Grizzlies,Montana
+401210981,2020,regular-season,2020-03-12,0,304,away,TRUE,Idaho State,0,Bengals,Idaho State Bengals,Idaho St
+401211625,2020,regular-season,2020-03-12,0,9,home,TRUE,Arizona State,0,Sun Devils,Arizona State Sun Devils,Arizona St
+401211625,2020,regular-season,2020-03-12,0,265,away,TRUE,Washington State,0,Cougars,Washington State Cougars,Washington St
+401211113,2020,regular-season,2020-03-12,0,62,home,TRUE,Hawai'i,0,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
+401211113,2020,regular-season,2020-03-12,0,302,away,TRUE,UC Davis,0,Aggies,UC Davis Aggies,UC Davis
+401211099,2020,regular-season,2020-03-12,0,2547,home,TRUE,Seattle U,0,Redhawks,Seattle U Redhawks,Seattle U
+401211099,2020,regular-season,2020-03-12,0,3084,away,TRUE,Utah Valley,0,Wolverines,Utah Valley Wolverines,Utah Valley

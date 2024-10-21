@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400505518,2013-12-05,2,301,home,FALSE,San Diego,64,Toreros,San Diego Toreros,San Diego
-400505518,2013-12-05,2,21,away,FALSE,San Diego State,65,Aztecs,San Diego State Aztecs,San Diego St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400505518,2014,regular-season,2013-12-05,2,301,home,FALSE,San Diego,64,Toreros,San Diego Toreros,San Diego
+400505518,2014,regular-season,2013-12-05,2,21,away,FALSE,San Diego State,65,Aztecs,San Diego State Aztecs,San Diego St

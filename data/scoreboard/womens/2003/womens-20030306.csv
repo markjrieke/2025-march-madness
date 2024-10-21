@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230652641,2003-03-06,2,2641,home,FALSE,Texas Tech,73,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-230652641,2003-03-06,2,2306,away,FALSE,Kansas State,64,Wildcats,Kansas State Wildcats,Kansas St
-230652348,2003-03-06,2,2348,home,FALSE,Louisiana Tech,89,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-230652348,2003-03-06,2,2567,away,FALSE,SMU,56,Mustangs,SMU Mustangs,SMU
-230650238,2003-03-06,2,238,home,FALSE,Vanderbilt,74,Commodores,Vanderbilt Commodores,Vanderbilt
-230650238,2003-03-06,2,57,away,FALSE,Florida,58,Gators,Florida Gators,Florida
-230652579,2003-03-06,2,2579,home,FALSE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
-230652579,2003-03-06,2,145,away,FALSE,Ole Miss,64,Rebels,Ole Miss Rebels,Ole Miss
-230652540,2003-03-06,2,2540,home,FALSE,UC Santa Barbara,94,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-230652540,2003-03-06,2,2239,away,FALSE,Cal State Fullerton,52,Titans,Cal State Fullerton Titans,Fullerton
-230652739,2003-03-06,2,2739,home,FALSE,Green Bay,86,Phoenix,Green Bay Phoenix,Green Bay
-230652739,2003-03-06,2,2086,away,FALSE,Butler,51,Bulldogs,Butler Bulldogs,Butler
-230650008,2003-03-06,2,8,home,FALSE,Arkansas,53,Razorbacks,Arkansas Razorbacks,Arkansas
-230650008,2003-03-06,2,333,away,FALSE,Alabama,48,Crimson Tide,Alabama Crimson Tide,Alabama
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230652641,2003,regular-season,2003-03-06,2,2641,home,FALSE,Texas Tech,73,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+230652641,2003,regular-season,2003-03-06,2,2306,away,FALSE,Kansas State,64,Wildcats,Kansas State Wildcats,Kansas St
+230652348,2003,regular-season,2003-03-06,2,2348,home,FALSE,Louisiana Tech,89,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+230652348,2003,regular-season,2003-03-06,2,2567,away,FALSE,SMU,56,Mustangs,SMU Mustangs,SMU
+230650238,2003,regular-season,2003-03-06,2,238,home,FALSE,Vanderbilt,74,Commodores,Vanderbilt Commodores,Vanderbilt
+230650238,2003,regular-season,2003-03-06,2,57,away,FALSE,Florida,58,Gators,Florida Gators,Florida
+230652579,2003,regular-season,2003-03-06,2,2579,home,FALSE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
+230652579,2003,regular-season,2003-03-06,2,145,away,FALSE,Ole Miss,64,Rebels,Ole Miss Rebels,Ole Miss
+230652540,2003,regular-season,2003-03-06,2,2540,home,FALSE,UC Santa Barbara,94,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+230652540,2003,regular-season,2003-03-06,2,2239,away,FALSE,Cal State Fullerton,52,Titans,Cal State Fullerton Titans,Fullerton
+230652739,2003,regular-season,2003-03-06,2,2739,home,FALSE,Green Bay,86,Phoenix,Green Bay Phoenix,Green Bay
+230652739,2003,regular-season,2003-03-06,2,2086,away,FALSE,Butler,51,Bulldogs,Butler Bulldogs,Butler
+230650008,2003,regular-season,2003-03-06,2,8,home,FALSE,Arkansas,53,Razorbacks,Arkansas Razorbacks,Arkansas
+230650008,2003,regular-season,2003-03-06,2,333,away,FALSE,Alabama,48,Crimson Tide,Alabama Crimson Tide,Alabama

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330140041,2013-01-14,2,41,home,FALSE,UConn,58,Huskies,UConn Huskies,UConn
-330140041,2013-01-14,2,97,away,FALSE,Louisville,73,Cardinals,Louisville Cardinals,Louisville
-330142305,2013-01-14,2,2305,home,FALSE,Kansas,61,Jayhawks,Kansas Jayhawks,Kansas
-330142305,2013-01-14,2,239,away,FALSE,Baylor,44,Bears,Baylor Bears,Baylor
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330140041,2013,regular-season,2013-01-14,2,41,home,FALSE,UConn,58,Huskies,UConn Huskies,UConn
+330140041,2013,regular-season,2013-01-14,2,97,away,FALSE,Louisville,73,Cardinals,Louisville Cardinals,Louisville
+330142305,2013,regular-season,2013-01-14,2,2305,home,FALSE,Kansas,61,Jayhawks,Kansas Jayhawks,Kansas
+330142305,2013,regular-season,2013-01-14,2,239,away,FALSE,Baylor,44,Bears,Baylor Bears,Baylor

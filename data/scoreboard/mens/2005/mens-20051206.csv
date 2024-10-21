@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253402083,2005-12-06,2,2083,home,FALSE,Bucknell,60,Bison,Bucknell Bison,Bucknell
-253402083,2005-12-06,2,222,away,FALSE,Villanova,79,Wildcats,Villanova Wildcats,Villanova
-253400127,2005-12-06,2,127,home,FALSE,Michigan State,77,Spartans,Michigan State Spartans,Michigan St
-253400127,2005-12-06,2,103,away,FALSE,Boston College,70,Eagles,Boston College Eagles,Boston College
-253402507,2005-12-06,2,2507,home,FALSE,Providence,77,Friars,Providence Friars,Providence
-253402507,2005-12-06,2,57,away,FALSE,Florida,87,Gators,Florida Gators,Florida
-253402460,2005-12-06,3,2460,home,FALSE,Northern Iowa,67,Panthers,Northern Iowa Panthers,Northern Iowa
-253402460,2005-12-06,3,2294,away,FALSE,Iowa,63,Hawkeyes,Iowa Hawkeyes,Iowa
-253402247,2005-12-06,2,2247,home,FALSE,Georgia State,46,Panthers,Georgia State Panthers,Georgia St
-253402247,2005-12-06,2,96,away,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
-253400282,2005-12-06,2,282,home,FALSE,Indiana State,72,Sycamores,Indiana State Sycamores,Indiana St
-253400282,2005-12-06,2,84,away,FALSE,Indiana,67,Hoosiers,Indiana Hoosiers,Indiana
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253402083,2006,regular-season,2005-12-06,2,2083,home,FALSE,Bucknell,60,Bison,Bucknell Bison,Bucknell
+253402083,2006,regular-season,2005-12-06,2,222,away,FALSE,Villanova,79,Wildcats,Villanova Wildcats,Villanova
+253400127,2006,regular-season,2005-12-06,2,127,home,FALSE,Michigan State,77,Spartans,Michigan State Spartans,Michigan St
+253400127,2006,regular-season,2005-12-06,2,103,away,FALSE,Boston College,70,Eagles,Boston College Eagles,Boston College
+253402507,2006,regular-season,2005-12-06,2,2507,home,FALSE,Providence,77,Friars,Providence Friars,Providence
+253402507,2006,regular-season,2005-12-06,2,57,away,FALSE,Florida,87,Gators,Florida Gators,Florida
+253402460,2006,regular-season,2005-12-06,3,2460,home,FALSE,Northern Iowa,67,Panthers,Northern Iowa Panthers,Northern Iowa
+253402460,2006,regular-season,2005-12-06,3,2294,away,FALSE,Iowa,63,Hawkeyes,Iowa Hawkeyes,Iowa
+253402247,2006,regular-season,2005-12-06,2,2247,home,FALSE,Georgia State,46,Panthers,Georgia State Panthers,Georgia St
+253402247,2006,regular-season,2005-12-06,2,96,away,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
+253400282,2006,regular-season,2005-12-06,2,282,home,FALSE,Indiana State,72,Sycamores,Indiana State Sycamores,Indiana St
+253400282,2006,regular-season,2005-12-06,2,84,away,FALSE,Indiana,67,Hoosiers,Indiana Hoosiers,Indiana

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290740150,2009-03-15,2,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
-290740150,2009-03-15,2,52,away,FALSE,Florida State,69,Seminoles,Florida State Seminoles,Florida St
-290742509,2009-03-15,2,2509,home,FALSE,Purdue,65,Boilermakers,Purdue Boilermakers,Purdue
-290742509,2009-03-15,2,194,away,FALSE,Ohio State,61,Buckeyes,Ohio State Buckeyes,Ohio State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290740150,2009,regular-season,2009-03-15,2,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
+290740150,2009,regular-season,2009-03-15,2,52,away,FALSE,Florida State,69,Seminoles,Florida State Seminoles,Florida St
+290742509,2009,regular-season,2009-03-15,2,2509,home,FALSE,Purdue,65,Boilermakers,Purdue Boilermakers,Purdue
+290742509,2009,regular-season,2009-03-15,2,194,away,FALSE,Ohio State,61,Buckeyes,Ohio State Buckeyes,Ohio State

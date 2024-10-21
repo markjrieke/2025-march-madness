@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401092604,2019-01-28,4,251,home,FALSE,Texas,58,Longhorns,Texas Longhorns,Texas
-401092604,2019-01-28,4,277,away,FALSE,West Virginia,64,Mountaineers,West Virginia Mountaineers,West Virginia
-401091597,2019-01-28,4,2579,home,FALSE,South Carolina,80,Gamecocks,South Carolina Gamecocks,South Carolina
-401091597,2019-01-28,4,238,away,FALSE,Vanderbilt,69,Commodores,Vanderbilt Commodores,Vanderbilt
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401092604,2019,regular-season,2019-01-28,4,251,home,FALSE,Texas,58,Longhorns,Texas Longhorns,Texas
+401092604,2019,regular-season,2019-01-28,4,277,away,FALSE,West Virginia,64,Mountaineers,West Virginia Mountaineers,West Virginia
+401091597,2019,regular-season,2019-01-28,4,2579,home,FALSE,South Carolina,80,Gamecocks,South Carolina Gamecocks,South Carolina
+401091597,2019,regular-season,2019-01-28,4,238,away,FALSE,Vanderbilt,69,Commodores,Vanderbilt Commodores,Vanderbilt

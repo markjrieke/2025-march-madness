@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401166733,2020-02-27,4,57,home,FALSE,Florida,67,Gators,Florida Gators,Florida
-401166733,2020-02-27,4,2579,away,FALSE,South Carolina,100,Gamecocks,South Carolina Gamecocks,South Carolina
-401171323,2020-02-27,4,97,home,FALSE,Louisville,68,Cardinals,Louisville Cardinals,Louisville
-401171323,2020-02-27,4,103,away,FALSE,Boston College,48,Eagles,Boston College Eagles,Boston College
-401171329,2020-02-27,4,152,home,FALSE,NC State,69,Wolfpack,NC State Wolfpack,NC State
-401171329,2020-02-27,4,183,away,FALSE,Syracuse,60,Orange,Syracuse Orange,Syracuse
-401166736,2020-02-27,4,344,home,FALSE,Mississippi State,92,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401166736,2020-02-27,4,8,away,FALSE,Arkansas,83,Razorbacks,Arkansas Razorbacks,Arkansas
-401166739,2020-02-27,4,245,home,FALSE,Texas A&M,63,Aggies,Texas A&M Aggies,Texas A&M
-401166739,2020-02-27,4,333,away,FALSE,Alabama,76,Crimson Tide,Alabama Crimson Tide,Alabama
-401166734,2020-02-27,4,96,home,FALSE,Kentucky,88,Wildcats,Kentucky Wildcats,Kentucky
-401166734,2020-02-27,4,61,away,FALSE,Georgia,77,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-401166917,2020-02-27,4,2294,home,FALSE,Iowa,90,Hawkeyes,Iowa Hawkeyes,Iowa
-401166917,2020-02-27,4,135,away,FALSE,Minnesota,82,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401171327,2020-02-27,4,52,home,FALSE,Florida State,81,Seminoles,Florida State Seminoles,Florida St
-401171327,2020-02-27,4,228,away,FALSE,Clemson,54,Tigers,Clemson Tigers,Clemson
-401179886,2020-02-27,4,2287,home,FALSE,Illinois State,78,Redbirds,Illinois State Redbirds,Illinois St
-401179886,2020-02-27,4,2623,away,FALSE,Missouri State,66,Lady Bears,Missouri State Lady Bears,Missouri St
-401166916,2020-02-27,4,84,home,FALSE,Indiana,81,Hoosiers,Indiana Hoosiers,Indiana
-401166916,2020-02-27,4,158,away,FALSE,Nebraska,53,Cornhuskers,Nebraska Cornhuskers,Nebraska
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401166733,2020,regular-season,2020-02-27,4,57,home,FALSE,Florida,67,Gators,Florida Gators,Florida
+401166733,2020,regular-season,2020-02-27,4,2579,away,FALSE,South Carolina,100,Gamecocks,South Carolina Gamecocks,South Carolina
+401171323,2020,regular-season,2020-02-27,4,97,home,FALSE,Louisville,68,Cardinals,Louisville Cardinals,Louisville
+401171323,2020,regular-season,2020-02-27,4,103,away,FALSE,Boston College,48,Eagles,Boston College Eagles,Boston College
+401171329,2020,regular-season,2020-02-27,4,152,home,FALSE,NC State,69,Wolfpack,NC State Wolfpack,NC State
+401171329,2020,regular-season,2020-02-27,4,183,away,FALSE,Syracuse,60,Orange,Syracuse Orange,Syracuse
+401166736,2020,regular-season,2020-02-27,4,344,home,FALSE,Mississippi State,92,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401166736,2020,regular-season,2020-02-27,4,8,away,FALSE,Arkansas,83,Razorbacks,Arkansas Razorbacks,Arkansas
+401166739,2020,regular-season,2020-02-27,4,245,home,FALSE,Texas A&M,63,Aggies,Texas A&M Aggies,Texas A&M
+401166739,2020,regular-season,2020-02-27,4,333,away,FALSE,Alabama,76,Crimson Tide,Alabama Crimson Tide,Alabama
+401166734,2020,regular-season,2020-02-27,4,96,home,FALSE,Kentucky,88,Wildcats,Kentucky Wildcats,Kentucky
+401166734,2020,regular-season,2020-02-27,4,61,away,FALSE,Georgia,77,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+401166917,2020,regular-season,2020-02-27,4,2294,home,FALSE,Iowa,90,Hawkeyes,Iowa Hawkeyes,Iowa
+401166917,2020,regular-season,2020-02-27,4,135,away,FALSE,Minnesota,82,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401171327,2020,regular-season,2020-02-27,4,52,home,FALSE,Florida State,81,Seminoles,Florida State Seminoles,Florida St
+401171327,2020,regular-season,2020-02-27,4,228,away,FALSE,Clemson,54,Tigers,Clemson Tigers,Clemson
+401179886,2020,regular-season,2020-02-27,4,2287,home,FALSE,Illinois State,78,Redbirds,Illinois State Redbirds,Illinois St
+401179886,2020,regular-season,2020-02-27,4,2623,away,FALSE,Missouri State,66,Lady Bears,Missouri State Lady Bears,Missouri St
+401166916,2020,regular-season,2020-02-27,4,84,home,FALSE,Indiana,81,Hoosiers,Indiana Hoosiers,Indiana
+401166916,2020,regular-season,2020-02-27,4,158,away,FALSE,Nebraska,53,Cornhuskers,Nebraska Cornhuskers,Nebraska

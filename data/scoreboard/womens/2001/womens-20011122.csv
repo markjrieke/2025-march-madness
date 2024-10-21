@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213260050,2001-11-22,2,50,home,FALSE,Florida A&M,89,Rattlers,Florida A&M Rattlers,Florida A&M
-213260050,2001-11-22,2,2755,away,FALSE,Grambling,86,Lady Tigers,Grambling Lady Tigers,Grambling
-213260278,2001-11-22,2,278,home,FALSE,Fresno State,71,Bulldogs,Fresno State Bulldogs,Fresno St
-213260278,2001-11-22,2,2463,away,FALSE,Cal State Northridge,65,Matadors,Cal State Northridge Matadors,CSU Northridge
-213260253,2001-11-22,2,253,home,FALSE,Southern Utah,77,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
-213260253,2001-11-22,2,276,away,FALSE,Marshall,74,Thundering Herd,Marshall Thundering Herd,Marshall
-213270062,2001-11-22,2,62,home,FALSE,Hawai'i,69,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
-213270062,2001-11-22,2,2751,away,FALSE,Wyoming,61,Cowgirls,Wyoming Cowgirls,Wyoming
-213270005,2001-11-22,2,298,home,FALSE,Alaska,55,Nanooks,Alaska Nanooks,Alaska
-213270005,2001-11-22,2,2459,away,FALSE,Northern Illinois,48,Huskies,Northern Illinois Huskies,N Illinois
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213260050,2002,regular-season,2001-11-22,2,50,home,FALSE,Florida A&M,89,Rattlers,Florida A&M Rattlers,Florida A&M
+213260050,2002,regular-season,2001-11-22,2,2755,away,FALSE,Grambling,86,Lady Tigers,Grambling Lady Tigers,Grambling
+213260278,2002,regular-season,2001-11-22,2,278,home,FALSE,Fresno State,71,Bulldogs,Fresno State Bulldogs,Fresno St
+213260278,2002,regular-season,2001-11-22,2,2463,away,FALSE,Cal State Northridge,65,Matadors,Cal State Northridge Matadors,CSU Northridge
+213260253,2002,regular-season,2001-11-22,2,253,home,FALSE,Southern Utah,77,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+213260253,2002,regular-season,2001-11-22,2,276,away,FALSE,Marshall,74,Thundering Herd,Marshall Thundering Herd,Marshall
+213270062,2002,regular-season,2001-11-22,2,62,home,FALSE,Hawai'i,69,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
+213270062,2002,regular-season,2001-11-22,2,2751,away,FALSE,Wyoming,61,Cowgirls,Wyoming Cowgirls,Wyoming
+213270005,2002,regular-season,2001-11-22,2,298,home,FALSE,Alaska,55,Nanooks,Alaska Nanooks,Alaska
+213270005,2002,regular-season,2001-11-22,2,2459,away,FALSE,Northern Illinois,48,Huskies,Northern Illinois Huskies,N Illinois

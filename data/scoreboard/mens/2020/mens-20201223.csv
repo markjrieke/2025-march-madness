@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401255019,2020-12-23,2,269,home,FALSE,Marquette,68,Golden Eagles,Marquette Golden Eagles,Marquette
-401255019,2020-12-23,2,222,away,FALSE,Villanova,85,Wildcats,Villanova Wildcats,Villanova
-401263333,2020-12-23,2,194,home,FALSE,Ohio State,80,Buckeyes,Ohio State Buckeyes,Ohio State
-401263333,2020-12-23,2,164,away,FALSE,Rutgers,68,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-401255016,2020-12-23,2,156,home,FALSE,Creighton,66,Bluejays,Creighton Bluejays,Creighton
-401255016,2020-12-23,2,2752,away,FALSE,Xavier,61,Musketeers,Xavier Musketeers,Xavier
-401263334,2020-12-23,2,213,home,FALSE,Penn State,81,Nittany Lions,Penn State Nittany Lions,Penn State
-401263334,2020-12-23,2,356,away,FALSE,Illinois,98,Fighting Illini,Illinois Fighting Illini,Illinois
-401257449,2020-12-23,0,2483,home,FALSE,Oregon,0,Ducks,Oregon Ducks,Oregon
-401257449,2020-12-23,0,26,away,FALSE,UCLA,0,Bruins,UCLA Bruins,UCLA
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401255019,2021,regular-season,2020-12-23,2,269,home,FALSE,Marquette,68,Golden Eagles,Marquette Golden Eagles,Marquette
+401255019,2021,regular-season,2020-12-23,2,222,away,FALSE,Villanova,85,Wildcats,Villanova Wildcats,Villanova
+401263333,2021,regular-season,2020-12-23,2,194,home,FALSE,Ohio State,80,Buckeyes,Ohio State Buckeyes,Ohio State
+401263333,2021,regular-season,2020-12-23,2,164,away,FALSE,Rutgers,68,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401255016,2021,regular-season,2020-12-23,2,156,home,FALSE,Creighton,66,Bluejays,Creighton Bluejays,Creighton
+401255016,2021,regular-season,2020-12-23,2,2752,away,FALSE,Xavier,61,Musketeers,Xavier Musketeers,Xavier
+401263334,2021,regular-season,2020-12-23,2,213,home,FALSE,Penn State,81,Nittany Lions,Penn State Nittany Lions,Penn State
+401263334,2021,regular-season,2020-12-23,2,356,away,FALSE,Illinois,98,Fighting Illini,Illinois Fighting Illini,Illinois
+401257449,2021,regular-season,2020-12-23,0,2483,home,FALSE,Oregon,0,Ducks,Oregon Ducks,Oregon
+401257449,2021,regular-season,2020-12-23,0,26,away,FALSE,UCLA,0,Bruins,UCLA Bruins,UCLA

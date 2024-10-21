@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401483812,2022-12-20,4,24,home,FALSE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
-401483812,2022-12-20,4,156,away,FALSE,Creighton,59,Bluejays,Creighton Bluejays,Creighton
-401488837,2022-12-20,4,26,home,FALSE,UCLA,82,Bruins,UCLA Bruins,UCLA
-401488837,2022-12-20,4,278,away,FALSE,Fresno State,48,Bulldogs,Fresno State Bulldogs,Fresno St
-401483839,2022-12-20,4,2692,home,FALSE,Weber State,52,Wildcats,Weber State Wildcats,Weber St
-401483839,2022-12-20,4,254,away,FALSE,Utah,88,Utes,Utah Utes,Utah
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401483812,2023,regular-season,2022-12-20,4,24,home,FALSE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
+401483812,2023,regular-season,2022-12-20,4,156,away,FALSE,Creighton,59,Bluejays,Creighton Bluejays,Creighton
+401488837,2023,regular-season,2022-12-20,4,26,home,FALSE,UCLA,82,Bruins,UCLA Bruins,UCLA
+401488837,2023,regular-season,2022-12-20,4,278,away,FALSE,Fresno State,48,Bulldogs,Fresno State Bulldogs,Fresno St
+401483839,2023,regular-season,2022-12-20,4,2692,home,FALSE,Weber State,52,Wildcats,Weber State Wildcats,Weber St
+401483839,2023,regular-season,2022-12-20,4,254,away,FALSE,Utah,88,Utes,Utah Utes,Utah

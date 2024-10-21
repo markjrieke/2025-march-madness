@@ -1,45 +1,45 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400588843,2014-12-05,2,56,home,FALSE,Stetson,90,Hatters,Stetson Hatters,Stetson
-400588843,2014-12-05,2,2691,away,FALSE,Webber International,27,Warriors,Webber International Warriors,Webber Int
-400601272,2014-12-05,2,171,home,FALSE,Columbia,66,Lions,Columbia Lions,Columbia
-400601272,2014-12-05,2,2378,away,FALSE,UMBC,76,Retrievers,UMBC Retrievers,UMBC
-400590397,2014-12-05,3,38,home,FALSE,Colorado,97,Buffaloes,Colorado Buffaloes,Colorado
-400590397,2014-12-05,3,23,away,FALSE,San José State,89,Spartans,San José State Spartans,San José St
-400589772,2014-12-05,2,2724,home,FALSE,Wichita State,55,Shockers,Wichita State Shockers,Wichita St
-400589772,2014-12-05,2,2029,away,FALSE,Arkansas-Pine Bluff,26,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-400592487,2014-12-05,2,2514,home,FALSE,Quinnipiac,78,Bobcats,Quinnipiac Bobcats,Quinnipiac
-400592487,2014-12-05,2,2561,away,FALSE,Siena,65,Saints,Siena Saints,Siena
-400592488,2014-12-05,2,315,home,FALSE,Niagara,73,Purple Eagles,Niagara Purple Eagles,Niagara
-400592488,2014-12-05,2,2612,away,FALSE,Saint Peter's,40,Peacocks,Saint Peter's Peacocks,Saint Peter's
-400602154,2014-12-05,2,2541,home,TRUE,Santa Clara,79,Broncos,Santa Clara Broncos,Santa Clara
-400602154,2014-12-05,2,302,away,TRUE,UC Davis,76,Aggies,UC Davis Aggies,UC Davis
-400602848,2014-12-05,2,219,home,FALSE,Pennsylvania,43,Quakers,Pennsylvania Quakers,Penn
-400602848,2014-12-05,2,2261,away,FALSE,Hampton,58,Lady Pirates,Hampton Lady Pirates,Hampton
-400601816,2014-12-05,2,55,home,FALSE,Jacksonville State,64,Gamecocks,Jacksonville State Gamecocks,Jax State
-400601816,2014-12-05,2,2296,away,FALSE,Jackson State,57,Lady Tigers,Jackson State Lady Tigers,Jackson St
-400597152,2014-12-05,2,2597,home,FALSE,St. Francis Brooklyn,51,Terriers,St. Francis Brooklyn Terriers,St Francis BK
-400597152,2014-12-05,2,322,away,FALSE,Lafayette,73,Leopards,Lafayette Leopards,Lafayette
-400595788,2014-12-05,2,2430,home,FALSE,UNC Greensboro,76,Spartans,UNC Greensboro Spartans,UNC Greensboro
-400595788,2014-12-05,2,2241,away,FALSE,Gardner-Webb,60,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-400594708,2014-12-05,2,2006,home,FALSE,Akron,89,Zips,Akron Zips,Akron
-400594708,2014-12-05,2,2413,away,FALSE,Morehead State,61,Eagles,Morehead State Eagles,Morehead St
-400592489,2014-12-05,2,2368,home,FALSE,Marist,75,Red Foxes,Marist Red Foxes,Marist
-400592489,2014-12-05,2,2405,away,FALSE,Monmouth,65,Hawks,Monmouth Hawks,Monmouth
-400592486,2014-12-05,2,2520,home,FALSE,Rider,51,Broncs,Rider Broncs,Rider
-400592486,2014-12-05,2,314,away,FALSE,Iona,71,Gaels,Iona Gaels,Iona
-400592485,2014-12-05,2,2099,home,FALSE,Canisius,55,Golden Griffins,Canisius Golden Griffins,Canisius
-400592485,2014-12-05,2,2363,away,FALSE,Manhattan,44,Jaspers,Manhattan Jaspers,Manhattan
-400589978,2014-12-05,2,295,home,FALSE,Old Dominion,66,Monarchs,Old Dominion Monarchs,Old Dominion
-400589978,2014-12-05,2,2670,away,FALSE,VCU,44,Rams,VCU Rams,VCU
-400588186,2014-12-05,2,2086,home,FALSE,Butler,57,Bulldogs,Butler Bulldogs,Butler
-400588186,2014-12-05,2,2750,away,FALSE,Wright State,49,Raiders,Wright State Raiders,Wright St
-400588185,2014-12-05,2,2230,home,FALSE,Fordham,43,Rams,Fordham Rams,Fordham
-400588185,2014-12-05,2,2550,away,FALSE,Seton Hall,56,Pirates,Seton Hall Pirates,Seton Hall
-400586524,2014-12-05,2,2197,home,FALSE,Eastern Illinois,77,Panthers,Eastern Illinois Panthers,E Illinois
-400586524,2014-12-05,2,2437,away,FALSE,Omaha,66,Mavericks,Omaha Mavericks,Omaha
-400596832,2014-12-05,2,2005,home,FALSE,Air Force,57,Falcons,Air Force Falcons,Air Force
-400596832,2014-12-05,2,253,away,FALSE,Southern Utah,73,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
-400596831,2014-12-05,2,2502,home,FALSE,Portland State,56,Vikings,Portland State Vikings,Portland St
-400596831,2014-12-05,2,2426,away,FALSE,Navy,50,Midshipmen,Navy Midshipmen,Navy
-400590396,2014-12-05,2,2501,home,FALSE,Portland,49,Pilots,Portland Pilots,Portland
-400590396,2014-12-05,2,2483,away,FALSE,Oregon,72,Ducks,Oregon Ducks,Oregon
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400588843,2015,regular-season,2014-12-05,2,56,home,FALSE,Stetson,90,Hatters,Stetson Hatters,Stetson
+400588843,2015,regular-season,2014-12-05,2,2691,away,FALSE,Webber International,27,Warriors,Webber International Warriors,Webber Int
+400601272,2015,regular-season,2014-12-05,2,171,home,FALSE,Columbia,66,Lions,Columbia Lions,Columbia
+400601272,2015,regular-season,2014-12-05,2,2378,away,FALSE,UMBC,76,Retrievers,UMBC Retrievers,UMBC
+400590397,2015,regular-season,2014-12-05,3,38,home,FALSE,Colorado,97,Buffaloes,Colorado Buffaloes,Colorado
+400590397,2015,regular-season,2014-12-05,3,23,away,FALSE,San José State,89,Spartans,San José State Spartans,San José St
+400589772,2015,regular-season,2014-12-05,2,2724,home,FALSE,Wichita State,55,Shockers,Wichita State Shockers,Wichita St
+400589772,2015,regular-season,2014-12-05,2,2029,away,FALSE,Arkansas-Pine Bluff,26,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+400592487,2015,regular-season,2014-12-05,2,2514,home,FALSE,Quinnipiac,78,Bobcats,Quinnipiac Bobcats,Quinnipiac
+400592487,2015,regular-season,2014-12-05,2,2561,away,FALSE,Siena,65,Saints,Siena Saints,Siena
+400592488,2015,regular-season,2014-12-05,2,315,home,FALSE,Niagara,73,Purple Eagles,Niagara Purple Eagles,Niagara
+400592488,2015,regular-season,2014-12-05,2,2612,away,FALSE,Saint Peter's,40,Peacocks,Saint Peter's Peacocks,Saint Peter's
+400602154,2015,regular-season,2014-12-05,2,2541,home,TRUE,Santa Clara,79,Broncos,Santa Clara Broncos,Santa Clara
+400602154,2015,regular-season,2014-12-05,2,302,away,TRUE,UC Davis,76,Aggies,UC Davis Aggies,UC Davis
+400602848,2015,regular-season,2014-12-05,2,219,home,FALSE,Pennsylvania,43,Quakers,Pennsylvania Quakers,Penn
+400602848,2015,regular-season,2014-12-05,2,2261,away,FALSE,Hampton,58,Lady Pirates,Hampton Lady Pirates,Hampton
+400601816,2015,regular-season,2014-12-05,2,55,home,FALSE,Jacksonville State,64,Gamecocks,Jacksonville State Gamecocks,Jax State
+400601816,2015,regular-season,2014-12-05,2,2296,away,FALSE,Jackson State,57,Lady Tigers,Jackson State Lady Tigers,Jackson St
+400597152,2015,regular-season,2014-12-05,2,2597,home,FALSE,St. Francis Brooklyn,51,Terriers,St. Francis Brooklyn Terriers,St Francis BK
+400597152,2015,regular-season,2014-12-05,2,322,away,FALSE,Lafayette,73,Leopards,Lafayette Leopards,Lafayette
+400595788,2015,regular-season,2014-12-05,2,2430,home,FALSE,UNC Greensboro,76,Spartans,UNC Greensboro Spartans,UNC Greensboro
+400595788,2015,regular-season,2014-12-05,2,2241,away,FALSE,Gardner-Webb,60,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+400594708,2015,regular-season,2014-12-05,2,2006,home,FALSE,Akron,89,Zips,Akron Zips,Akron
+400594708,2015,regular-season,2014-12-05,2,2413,away,FALSE,Morehead State,61,Eagles,Morehead State Eagles,Morehead St
+400592489,2015,regular-season,2014-12-05,2,2368,home,FALSE,Marist,75,Red Foxes,Marist Red Foxes,Marist
+400592489,2015,regular-season,2014-12-05,2,2405,away,FALSE,Monmouth,65,Hawks,Monmouth Hawks,Monmouth
+400592486,2015,regular-season,2014-12-05,2,2520,home,FALSE,Rider,51,Broncs,Rider Broncs,Rider
+400592486,2015,regular-season,2014-12-05,2,314,away,FALSE,Iona,71,Gaels,Iona Gaels,Iona
+400592485,2015,regular-season,2014-12-05,2,2099,home,FALSE,Canisius,55,Golden Griffins,Canisius Golden Griffins,Canisius
+400592485,2015,regular-season,2014-12-05,2,2363,away,FALSE,Manhattan,44,Jaspers,Manhattan Jaspers,Manhattan
+400589978,2015,regular-season,2014-12-05,2,295,home,FALSE,Old Dominion,66,Monarchs,Old Dominion Monarchs,Old Dominion
+400589978,2015,regular-season,2014-12-05,2,2670,away,FALSE,VCU,44,Rams,VCU Rams,VCU
+400588186,2015,regular-season,2014-12-05,2,2086,home,FALSE,Butler,57,Bulldogs,Butler Bulldogs,Butler
+400588186,2015,regular-season,2014-12-05,2,2750,away,FALSE,Wright State,49,Raiders,Wright State Raiders,Wright St
+400588185,2015,regular-season,2014-12-05,2,2230,home,FALSE,Fordham,43,Rams,Fordham Rams,Fordham
+400588185,2015,regular-season,2014-12-05,2,2550,away,FALSE,Seton Hall,56,Pirates,Seton Hall Pirates,Seton Hall
+400586524,2015,regular-season,2014-12-05,2,2197,home,FALSE,Eastern Illinois,77,Panthers,Eastern Illinois Panthers,E Illinois
+400586524,2015,regular-season,2014-12-05,2,2437,away,FALSE,Omaha,66,Mavericks,Omaha Mavericks,Omaha
+400596832,2015,regular-season,2014-12-05,2,2005,home,FALSE,Air Force,57,Falcons,Air Force Falcons,Air Force
+400596832,2015,regular-season,2014-12-05,2,253,away,FALSE,Southern Utah,73,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+400596831,2015,regular-season,2014-12-05,2,2502,home,FALSE,Portland State,56,Vikings,Portland State Vikings,Portland St
+400596831,2015,regular-season,2014-12-05,2,2426,away,FALSE,Navy,50,Midshipmen,Navy Midshipmen,Navy
+400590396,2015,regular-season,2014-12-05,2,2501,home,FALSE,Portland,49,Pilots,Portland Pilots,Portland
+400590396,2015,regular-season,2014-12-05,2,2483,away,FALSE,Oregon,72,Ducks,Oregon Ducks,Oregon

@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250120356,2005-01-12,2,356,home,FALSE,Illinois,90,Fighting Illini,Illinois Fighting Illini,Illinois
-250120356,2005-01-12,2,213,away,FALSE,Penn State,64,Nittany Lions,Penn State Nittany Lions,Penn State
-250120066,2005-01-12,2,66,home,FALSE,Iowa State,66,Cyclones,Iowa State Cyclones,Iowa State
-250120066,2005-01-12,2,2305,away,FALSE,Kansas,71,Jayhawks,Kansas Jayhawks,Kansas
-250120153,2005-01-12,2,153,home,FALSE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
-250120153,2005-01-12,2,59,away,FALSE,Georgia Tech,69,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-250120096,2005-01-12,2,96,home,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
-250120096,2005-01-12,2,238,away,FALSE,Vanderbilt,54,Commodores,Vanderbilt Commodores,Vanderbilt
-250120245,2005-01-12,2,245,home,FALSE,Texas A&M,74,Aggies,Texas A&M Aggies,Texas A&M
-250120245,2005-01-12,2,251,away,FALSE,Texas,63,Longhorns,Texas Longhorns,Texas
-250122633,2005-01-12,2,2633,home,FALSE,Tennessee,64,Volunteers,Tennessee Volunteers,Tennessee
-250122633,2005-01-12,2,344,away,FALSE,Mississippi State,63,Bulldogs,Mississippi State Bulldogs,Mississippi St
-250120151,2005-01-12,2,151,home,FALSE,East Carolina,78,Pirates,East Carolina Pirates,East Carolina
-250120151,2005-01-12,2,2132,away,FALSE,Cincinnati,84,Bearcats,Cincinnati Bearcats,Cincinnati
-250120179,2005-01-12,2,179,home,FALSE,St. Bonaventure,59,Bonnies,St. Bonaventure Bonnies,St Bonaventure
-250120179,2005-01-12,2,45,away,FALSE,George Washington,85,Revolutionaries,George Washington Revolutionaries,G Washington
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250120356,2005,regular-season,2005-01-12,2,356,home,FALSE,Illinois,90,Fighting Illini,Illinois Fighting Illini,Illinois
+250120356,2005,regular-season,2005-01-12,2,213,away,FALSE,Penn State,64,Nittany Lions,Penn State Nittany Lions,Penn State
+250120066,2005,regular-season,2005-01-12,2,66,home,FALSE,Iowa State,66,Cyclones,Iowa State Cyclones,Iowa State
+250120066,2005,regular-season,2005-01-12,2,2305,away,FALSE,Kansas,71,Jayhawks,Kansas Jayhawks,Kansas
+250120153,2005,regular-season,2005-01-12,2,153,home,FALSE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
+250120153,2005,regular-season,2005-01-12,2,59,away,FALSE,Georgia Tech,69,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+250120096,2005,regular-season,2005-01-12,2,96,home,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
+250120096,2005,regular-season,2005-01-12,2,238,away,FALSE,Vanderbilt,54,Commodores,Vanderbilt Commodores,Vanderbilt
+250120245,2005,regular-season,2005-01-12,2,245,home,FALSE,Texas A&M,74,Aggies,Texas A&M Aggies,Texas A&M
+250120245,2005,regular-season,2005-01-12,2,251,away,FALSE,Texas,63,Longhorns,Texas Longhorns,Texas
+250122633,2005,regular-season,2005-01-12,2,2633,home,FALSE,Tennessee,64,Volunteers,Tennessee Volunteers,Tennessee
+250122633,2005,regular-season,2005-01-12,2,344,away,FALSE,Mississippi State,63,Bulldogs,Mississippi State Bulldogs,Mississippi St
+250120151,2005,regular-season,2005-01-12,2,151,home,FALSE,East Carolina,78,Pirates,East Carolina Pirates,East Carolina
+250120151,2005,regular-season,2005-01-12,2,2132,away,FALSE,Cincinnati,84,Bearcats,Cincinnati Bearcats,Cincinnati
+250120179,2005,regular-season,2005-01-12,2,179,home,FALSE,St. Bonaventure,59,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+250120179,2005,regular-season,2005-01-12,2,45,away,FALSE,George Washington,85,Revolutionaries,George Washington Revolutionaries,G Washington

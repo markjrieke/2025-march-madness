@@ -1,39 +1,39 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401095168,2019-02-18,4,2341,home,FALSE,LIU Brooklyn,69,Blackbirds,LIU Brooklyn Blackbirds,LIU Brooklyn
-401095168,2019-02-18,4,2529,away,FALSE,Sacred Heart,64,Pioneers,Sacred Heart Pioneers,Sacred Heart
-401095134,2019-02-18,4,2597,home,FALSE,St. Francis Brooklyn,70,Terriers,St. Francis Brooklyn Terriers,St Francis BK
-401095134,2019-02-18,4,2115,away,FALSE,Central Connecticut,58,Blue Devils,Central Connecticut Blue Devils,C Connecticut
-401095028,2019-02-18,4,2803,home,FALSE,Bryant,68,Bulldogs,Bryant Bulldogs,Bryant
-401095028,2019-02-18,4,161,away,FALSE,Fairleigh Dickinson,48,Knights,Fairleigh Dickinson Knights,Fair Dickinson
-401094906,2019-02-18,4,331,home,FALSE,Eastern Washington,74,Eagles,Eastern Washington Eagles,E Washington
-401094906,2019-02-18,4,70,away,FALSE,Idaho,75,Vandals,Idaho Vandals,Idaho
-401096191,2019-02-18,4,2450,home,FALSE,Norfolk State,44,Spartans,Norfolk State Spartans,Norfolk St
-401096191,2019-02-18,4,2448,away,FALSE,North Carolina A&T,49,Aggies,North Carolina A&T Aggies,NC A&T
-401096142,2019-02-18,4,47,home,FALSE,Howard,80,Bison,Howard Bison,Howard
-401096142,2019-02-18,4,2428,away,FALSE,North Carolina Central,70,Eagles,North Carolina Central Eagles,NC Central
-401096133,2019-02-18,4,2569,home,FALSE,South Carolina State,61,Lady Bulldogs,South Carolina State Lady Bulldogs,SC State
-401096133,2019-02-18,4,50,away,FALSE,Florida A&M,48,Rattlers,Florida A&M Rattlers,Florida A&M
-401096063,2019-02-18,4,2542,home,FALSE,Savannah State,47,Tigers,Savannah State Tigers,Savannah St
-401096063,2019-02-18,4,2065,away,FALSE,Bethune-Cookman,68,Wildcats,Bethune-Cookman Wildcats,Bethune
-401096697,2019-02-18,4,2400,home,FALSE,Mississippi Valley State,46,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
-401096697,2019-02-18,4,2582,away,FALSE,Southern,67,Jaguars,Southern Jaguars,Southern
-401096423,2019-02-18,4,2296,home,FALSE,Jackson State,73,Lady Tigers,Jackson State Lady Tigers,Jackson St
-401096423,2019-02-18,4,2640,away,FALSE,Texas Southern,64,Tigers,Texas Southern Tigers,Texas Southern
-401096384,2019-02-18,4,2755,home,FALSE,Grambling,73,Lady Tigers,Grambling Lady Tigers,Grambling
-401096384,2019-02-18,4,2504,away,FALSE,Prairie View A&M,57,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
-401116679,2019-02-18,4,2459,home,FALSE,Northern Illinois,77,Huskies,Northern Illinois Huskies,N Illinois
-401116679,2019-02-18,4,2711,away,FALSE,Western Michigan,64,Broncos,Western Michigan Broncos,W Michigan
-401095405,2019-02-18,4,2598,home,FALSE,St. Francis (PA),60,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-401095405,2019-02-18,4,2523,away,FALSE,Robert Morris,66,Colonials,Robert Morris Colonials,Robert Morris
-401095182,2019-02-18,4,116,home,FALSE,Mount St. Mary's,81,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-401095182,2019-02-18,4,2681,away,FALSE,Wagner,66,Seahawks,Wagner Seahawks,Wagner
-401094655,2019-02-18,4,84,home,FALSE,Indiana,61,Hoosiers,Indiana Hoosiers,Indiana
-401094655,2019-02-18,4,164,away,FALSE,Rutgers,69,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-401092109,2019-02-18,4,152,home,FALSE,NC State,72,Wolfpack,NC State Wolfpack,NC State
-401092109,2019-02-18,4,87,away,FALSE,Notre Dame,95,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401091630,2019-02-18,4,61,home,FALSE,Georgia,78,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-401091630,2019-02-18,4,145,away,FALSE,Ole Miss,56,Rebels,Ole Miss Rebels,Ole Miss
-401095774,2019-02-18,4,2029,home,FALSE,Arkansas-Pine Bluff,66,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-401095774,2019-02-18,4,2016,away,FALSE,Alcorn State,57,Lady Braves,Alcorn State Lady Braves,Alcorn St
-401095356,2019-02-18,4,204,home,FALSE,Oregon State,67,Beavers,Oregon State Beavers,Oregon St
-401095356,2019-02-18,4,2483,away,FALSE,Oregon,62,Ducks,Oregon Ducks,Oregon
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401095168,2019,regular-season,2019-02-18,4,2341,home,FALSE,LIU Brooklyn,69,Blackbirds,LIU Brooklyn Blackbirds,LIU Brooklyn
+401095168,2019,regular-season,2019-02-18,4,2529,away,FALSE,Sacred Heart,64,Pioneers,Sacred Heart Pioneers,Sacred Heart
+401095134,2019,regular-season,2019-02-18,4,2597,home,FALSE,St. Francis Brooklyn,70,Terriers,St. Francis Brooklyn Terriers,St Francis BK
+401095134,2019,regular-season,2019-02-18,4,2115,away,FALSE,Central Connecticut,58,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+401095028,2019,regular-season,2019-02-18,4,2803,home,FALSE,Bryant,68,Bulldogs,Bryant Bulldogs,Bryant
+401095028,2019,regular-season,2019-02-18,4,161,away,FALSE,Fairleigh Dickinson,48,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+401094906,2019,regular-season,2019-02-18,4,331,home,FALSE,Eastern Washington,74,Eagles,Eastern Washington Eagles,E Washington
+401094906,2019,regular-season,2019-02-18,4,70,away,FALSE,Idaho,75,Vandals,Idaho Vandals,Idaho
+401096191,2019,regular-season,2019-02-18,4,2450,home,FALSE,Norfolk State,44,Spartans,Norfolk State Spartans,Norfolk St
+401096191,2019,regular-season,2019-02-18,4,2448,away,FALSE,North Carolina A&T,49,Aggies,North Carolina A&T Aggies,NC A&T
+401096142,2019,regular-season,2019-02-18,4,47,home,FALSE,Howard,80,Bison,Howard Bison,Howard
+401096142,2019,regular-season,2019-02-18,4,2428,away,FALSE,North Carolina Central,70,Eagles,North Carolina Central Eagles,NC Central
+401096133,2019,regular-season,2019-02-18,4,2569,home,FALSE,South Carolina State,61,Lady Bulldogs,South Carolina State Lady Bulldogs,SC State
+401096133,2019,regular-season,2019-02-18,4,50,away,FALSE,Florida A&M,48,Rattlers,Florida A&M Rattlers,Florida A&M
+401096063,2019,regular-season,2019-02-18,4,2542,home,FALSE,Savannah State,47,Tigers,Savannah State Tigers,Savannah St
+401096063,2019,regular-season,2019-02-18,4,2065,away,FALSE,Bethune-Cookman,68,Wildcats,Bethune-Cookman Wildcats,Bethune
+401096697,2019,regular-season,2019-02-18,4,2400,home,FALSE,Mississippi Valley State,46,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
+401096697,2019,regular-season,2019-02-18,4,2582,away,FALSE,Southern,67,Jaguars,Southern Jaguars,Southern
+401096423,2019,regular-season,2019-02-18,4,2296,home,FALSE,Jackson State,73,Lady Tigers,Jackson State Lady Tigers,Jackson St
+401096423,2019,regular-season,2019-02-18,4,2640,away,FALSE,Texas Southern,64,Tigers,Texas Southern Tigers,Texas Southern
+401096384,2019,regular-season,2019-02-18,4,2755,home,FALSE,Grambling,73,Lady Tigers,Grambling Lady Tigers,Grambling
+401096384,2019,regular-season,2019-02-18,4,2504,away,FALSE,Prairie View A&M,57,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
+401116679,2019,regular-season,2019-02-18,4,2459,home,FALSE,Northern Illinois,77,Huskies,Northern Illinois Huskies,N Illinois
+401116679,2019,regular-season,2019-02-18,4,2711,away,FALSE,Western Michigan,64,Broncos,Western Michigan Broncos,W Michigan
+401095405,2019,regular-season,2019-02-18,4,2598,home,FALSE,St. Francis (PA),60,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+401095405,2019,regular-season,2019-02-18,4,2523,away,FALSE,Robert Morris,66,Colonials,Robert Morris Colonials,Robert Morris
+401095182,2019,regular-season,2019-02-18,4,116,home,FALSE,Mount St. Mary's,81,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+401095182,2019,regular-season,2019-02-18,4,2681,away,FALSE,Wagner,66,Seahawks,Wagner Seahawks,Wagner
+401094655,2019,regular-season,2019-02-18,4,84,home,FALSE,Indiana,61,Hoosiers,Indiana Hoosiers,Indiana
+401094655,2019,regular-season,2019-02-18,4,164,away,FALSE,Rutgers,69,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401092109,2019,regular-season,2019-02-18,4,152,home,FALSE,NC State,72,Wolfpack,NC State Wolfpack,NC State
+401092109,2019,regular-season,2019-02-18,4,87,away,FALSE,Notre Dame,95,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401091630,2019,regular-season,2019-02-18,4,61,home,FALSE,Georgia,78,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+401091630,2019,regular-season,2019-02-18,4,145,away,FALSE,Ole Miss,56,Rebels,Ole Miss Rebels,Ole Miss
+401095774,2019,regular-season,2019-02-18,4,2029,home,FALSE,Arkansas-Pine Bluff,66,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+401095774,2019,regular-season,2019-02-18,4,2016,away,FALSE,Alcorn State,57,Lady Braves,Alcorn State Lady Braves,Alcorn St
+401095356,2019,regular-season,2019-02-18,4,204,home,FALSE,Oregon State,67,Beavers,Oregon State Beavers,Oregon St
+401095356,2019,regular-season,2019-02-18,4,2483,away,FALSE,Oregon,62,Ducks,Oregon Ducks,Oregon

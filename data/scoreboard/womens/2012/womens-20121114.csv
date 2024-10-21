@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323190245,2012-11-14,2,245,home,FALSE,Texas A&M,58,Aggies,Texas A&M Aggies,Texas A&M
-323190245,2012-11-14,2,213,away,FALSE,Penn State,63,Lady Lions,Penn State Lady Lions,Penn State
-323190061,2012-11-14,2,61,home,FALSE,Georgia,66,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-323190061,2012-11-14,2,2506,away,FALSE,Presbyterian,38,Blue Hose,Presbyterian Blue Hose,Presbyterian
-323190201,2012-11-14,2,201,home,FALSE,Oklahoma,80,Sooners,Oklahoma Sooners,Oklahoma
-323190201,2012-11-14,2,26,away,FALSE,UCLA,86,Bruins,UCLA Bruins,UCLA
-323190194,2012-11-14,2,194,home,FALSE,Ohio State,87,Buckeyes,Ohio State Buckeyes,Ohio State
-323190194,2012-11-14,2,2132,away,FALSE,Cincinnati,49,Bearcats,Cincinnati Bearcats,Cincinnati
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323190245,2013,regular-season,2012-11-14,2,245,home,FALSE,Texas A&M,58,Aggies,Texas A&M Aggies,Texas A&M
+323190245,2013,regular-season,2012-11-14,2,213,away,FALSE,Penn State,63,Lady Lions,Penn State Lady Lions,Penn State
+323190061,2013,regular-season,2012-11-14,2,61,home,FALSE,Georgia,66,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+323190061,2013,regular-season,2012-11-14,2,2506,away,FALSE,Presbyterian,38,Blue Hose,Presbyterian Blue Hose,Presbyterian
+323190201,2013,regular-season,2012-11-14,2,201,home,FALSE,Oklahoma,80,Sooners,Oklahoma Sooners,Oklahoma
+323190201,2013,regular-season,2012-11-14,2,26,away,FALSE,UCLA,86,Bruins,UCLA Bruins,UCLA
+323190194,2013,regular-season,2012-11-14,2,194,home,FALSE,Ohio State,87,Buckeyes,Ohio State Buckeyes,Ohio State
+323190194,2013,regular-season,2012-11-14,2,2132,away,FALSE,Cincinnati,49,Bearcats,Cincinnati Bearcats,Cincinnati

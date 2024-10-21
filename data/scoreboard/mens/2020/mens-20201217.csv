@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401253834,2020-12-17,2,2641,home,FALSE,Texas Tech,57,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401253834,2020-12-17,2,2305,away,FALSE,Kansas,58,Jayhawks,Kansas Jayhawks,Kansas
-401254988,2020-12-17,2,2599,home,FALSE,St. John's,76,Red Storm,St. John's Red Storm,St John's
-401254988,2020-12-17,2,156,away,FALSE,Creighton,94,Bluejays,Creighton Bluejays,Creighton
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401253834,2021,regular-season,2020-12-17,2,2641,home,FALSE,Texas Tech,57,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401253834,2021,regular-season,2020-12-17,2,2305,away,FALSE,Kansas,58,Jayhawks,Kansas Jayhawks,Kansas
+401254988,2021,regular-season,2020-12-17,2,2599,home,FALSE,St. John's,76,Red Storm,St. John's Red Storm,St John's
+401254988,2021,regular-season,2020-12-17,2,156,away,FALSE,Creighton,94,Bluejays,Creighton Bluejays,Creighton

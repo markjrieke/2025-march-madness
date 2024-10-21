@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401090552,2018-12-22,4,25,home,FALSE,California,66,Golden Bears,California Golden Bears,California
-401090552,2018-12-22,4,41,away,FALSE,UConn,76,Huskies,UConn Huskies,UConn
-401091081,2018-12-22,4,269,home,FALSE,Marquette,63,Golden Eagles,Marquette Golden Eagles,Marquette
-401091081,2018-12-22,4,87,away,FALSE,Notre Dame,87,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401090819,2018-12-22,4,135,home,FALSE,Minnesota,91,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401090819,2018-12-22,4,227,away,FALSE,Rhode Island,71,Rams,Rhode Island Rams,Rhode Island
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401090552,2019,regular-season,2018-12-22,4,25,home,FALSE,California,66,Golden Bears,California Golden Bears,California
+401090552,2019,regular-season,2018-12-22,4,41,away,FALSE,UConn,76,Huskies,UConn Huskies,UConn
+401091081,2019,regular-season,2018-12-22,4,269,home,FALSE,Marquette,63,Golden Eagles,Marquette Golden Eagles,Marquette
+401091081,2019,regular-season,2018-12-22,4,87,away,FALSE,Notre Dame,87,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401090819,2019,regular-season,2018-12-22,4,135,home,FALSE,Minnesota,91,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401090819,2019,regular-season,2018-12-22,4,227,away,FALSE,Rhode Island,71,Rams,Rhode Island Rams,Rhode Island

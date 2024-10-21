@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401599519,2024-02-06,2,41,home,FALSE,UConn,71,Huskies,UConn Huskies,UConn
-401599519,2024-02-06,2,2086,away,FALSE,Butler,62,Bulldogs,Butler Bulldogs,Butler
-401604171,2024-02-06,2,153,home,FALSE,North Carolina,76,Tar Heels,North Carolina Tar Heels,North Carolina
-401604171,2024-02-06,2,228,away,FALSE,Clemson,80,Tigers,Clemson Tigers,Clemson
-401603461,2024-02-06,2,248,home,FALSE,Houston,79,Cougars,Houston Cougars,Houston
-401603461,2024-02-06,2,197,away,FALSE,Oklahoma State,63,Cowboys,Oklahoma State Cowboys,Oklahoma St
-401603460,2024-02-06,2,239,home,FALSE,Baylor,79,Bears,Baylor Bears,Baylor
-401603460,2024-02-06,2,2641,away,FALSE,Texas Tech,73,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401603462,2024-02-06,2,251,home,FALSE,Texas,65,Longhorns,Texas Longhorns,Texas
-401603462,2024-02-06,2,66,away,FALSE,Iowa State,70,Cyclones,Iowa State Cyclones,Iowa State
-401597170,2024-02-06,2,2579,home,FALSE,South Carolina,68,Gamecocks,South Carolina Gamecocks,South Carolina
-401597170,2024-02-06,2,145,away,FALSE,Ole Miss,65,Rebels,Ole Miss Rebels,Ole Miss
-401597171,2024-02-06,2,238,home,FALSE,Vanderbilt,77,Commodores,Vanderbilt Commodores,Vanderbilt
-401597171,2024-02-06,2,96,away,FALSE,Kentucky,109,Wildcats,Kentucky Wildcats,Kentucky
-401596882,2024-02-06,2,2603,home,FALSE,Saint Joseph's,79,Hawks,Saint Joseph's Hawks,Saint Joseph's
-401596882,2024-02-06,2,2168,away,FALSE,Dayton,94,Flyers,Dayton Flyers,Dayton
-401603463,2024-02-06,2,201,home,FALSE,Oklahoma,82,Sooners,Oklahoma Sooners,Oklahoma
-401603463,2024-02-06,2,252,away,FALSE,BYU,66,Cougars,BYU Cougars,BYU
-401600799,2024-02-06,2,328,home,FALSE,Utah State,63,Aggies,Utah State Aggies,Utah State
-401600799,2024-02-06,2,2440,away,FALSE,Nevada,77,Wolf Pack,Nevada Wolf Pack,Nevada
-401594452,2024-02-06,2,2005,home,FALSE,Air Force,64,Falcons,Air Force Falcons,Air Force
-401594452,2024-02-06,2,21,away,FALSE,San Diego State,77,Aztecs,San Diego State Aztecs,San Diego St
-401602994,2024-02-06,2,2751,home,FALSE,Wyoming,73,Cowboys,Wyoming Cowboys,Wyoming
-401602994,2024-02-06,2,167,away,FALSE,New Mexico,91,Lobos,New Mexico Lobos,New Mexico
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401599519,2024,regular-season,2024-02-06,2,41,home,FALSE,UConn,71,Huskies,UConn Huskies,UConn
+401599519,2024,regular-season,2024-02-06,2,2086,away,FALSE,Butler,62,Bulldogs,Butler Bulldogs,Butler
+401604171,2024,regular-season,2024-02-06,2,153,home,FALSE,North Carolina,76,Tar Heels,North Carolina Tar Heels,North Carolina
+401604171,2024,regular-season,2024-02-06,2,228,away,FALSE,Clemson,80,Tigers,Clemson Tigers,Clemson
+401603461,2024,regular-season,2024-02-06,2,248,home,FALSE,Houston,79,Cougars,Houston Cougars,Houston
+401603461,2024,regular-season,2024-02-06,2,197,away,FALSE,Oklahoma State,63,Cowboys,Oklahoma State Cowboys,Oklahoma St
+401603460,2024,regular-season,2024-02-06,2,239,home,FALSE,Baylor,79,Bears,Baylor Bears,Baylor
+401603460,2024,regular-season,2024-02-06,2,2641,away,FALSE,Texas Tech,73,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401603462,2024,regular-season,2024-02-06,2,251,home,FALSE,Texas,65,Longhorns,Texas Longhorns,Texas
+401603462,2024,regular-season,2024-02-06,2,66,away,FALSE,Iowa State,70,Cyclones,Iowa State Cyclones,Iowa State
+401597170,2024,regular-season,2024-02-06,2,2579,home,FALSE,South Carolina,68,Gamecocks,South Carolina Gamecocks,South Carolina
+401597170,2024,regular-season,2024-02-06,2,145,away,FALSE,Ole Miss,65,Rebels,Ole Miss Rebels,Ole Miss
+401597171,2024,regular-season,2024-02-06,2,238,home,FALSE,Vanderbilt,77,Commodores,Vanderbilt Commodores,Vanderbilt
+401597171,2024,regular-season,2024-02-06,2,96,away,FALSE,Kentucky,109,Wildcats,Kentucky Wildcats,Kentucky
+401596882,2024,regular-season,2024-02-06,2,2603,home,FALSE,Saint Joseph's,79,Hawks,Saint Joseph's Hawks,Saint Joseph's
+401596882,2024,regular-season,2024-02-06,2,2168,away,FALSE,Dayton,94,Flyers,Dayton Flyers,Dayton
+401603463,2024,regular-season,2024-02-06,2,201,home,FALSE,Oklahoma,82,Sooners,Oklahoma Sooners,Oklahoma
+401603463,2024,regular-season,2024-02-06,2,252,away,FALSE,BYU,66,Cougars,BYU Cougars,BYU
+401600799,2024,regular-season,2024-02-06,2,328,home,FALSE,Utah State,63,Aggies,Utah State Aggies,Utah State
+401600799,2024,regular-season,2024-02-06,2,2440,away,FALSE,Nevada,77,Wolf Pack,Nevada Wolf Pack,Nevada
+401594452,2024,regular-season,2024-02-06,2,2005,home,FALSE,Air Force,64,Falcons,Air Force Falcons,Air Force
+401594452,2024,regular-season,2024-02-06,2,21,away,FALSE,San Diego State,77,Aztecs,San Diego State Aztecs,San Diego St
+401602994,2024,regular-season,2024-02-06,2,2751,home,FALSE,Wyoming,73,Cowboys,Wyoming Cowboys,Wyoming
+401602994,2024,regular-season,2024-02-06,2,167,away,FALSE,New Mexico,91,Lobos,New Mexico Lobos,New Mexico

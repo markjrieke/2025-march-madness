@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260570099,2006-02-26,2,99,home,FALSE,LSU,62,Tigers,LSU Tigers,LSU
-260570099,2006-02-26,2,344,away,FALSE,Mississippi State,48,Bulldogs,Mississippi State Bulldogs,Mississippi St
-260570120,2006-02-26,2,120,home,FALSE,Maryland,89,Terrapins,Maryland Terrapins,Maryland
-260570120,2006-02-26,2,2458,away,FALSE,Northern Colorado,53,Bears,Northern Colorado Bears,N Colorado
-260572633,2006-02-26,3,2633,home,FALSE,Tennessee,93,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-260572633,2006-02-26,3,57,away,FALSE,Florida,95,Gators,Florida Gators,Florida
-260570213,2006-02-26,2,213,home,FALSE,Penn State,59,Lady Lions,Penn State Lady Lions,Penn State
-260570213,2006-02-26,2,194,away,FALSE,Ohio State,61,Buckeyes,Ohio State Buckeyes,Ohio State
-260570201,2006-02-26,2,201,home,FALSE,Oklahoma,73,Sooners,Oklahoma Sooners,Oklahoma
-260570201,2006-02-26,2,158,away,FALSE,Nebraska,45,Cornhuskers,Nebraska Cornhuskers,Nebraska
-260570275,2006-02-26,2,275,home,FALSE,Wisconsin,63,Badgers,Wisconsin Badgers,Wisconsin
-260570275,2006-02-26,2,2509,away,FALSE,Purdue,66,Boilermakers,Purdue Boilermakers,Purdue
-260570061,2006-02-26,2,61,home,FALSE,Georgia,74,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-260570061,2006-02-26,2,2,away,FALSE,Auburn,61,Tigers,Auburn Tigers,Auburn
-260570052,2006-02-26,2,52,home,FALSE,Florida State,71,Seminoles,Florida State Seminoles,Florida St
-260570052,2006-02-26,2,103,away,FALSE,Boston College,60,Eagles,Boston College Eagles,Boston College
-260570227,2006-02-26,2,227,home,FALSE,Rhode Island,79,Rams,Rhode Island Rams,Rhode Island
-260570227,2006-02-26,2,218,away,FALSE,Temple,91,Owls,Temple Owls,Temple
-260570135,2006-02-26,2,135,home,FALSE,Minnesota,71,Golden Gophers,Minnesota Golden Gophers,Minnesota
-260570135,2006-02-26,2,77,away,FALSE,Northwestern,33,Wildcats,Northwestern Wildcats,Northwestern
-260570238,2006-02-26,2,238,home,FALSE,Vanderbilt,88,Commodores,Vanderbilt Commodores,Vanderbilt
-260570238,2006-02-26,2,2579,away,FALSE,South Carolina,71,Gamecocks,South Carolina Gamecocks,South Carolina
-260570245,2006-02-26,2,245,home,FALSE,Texas A&M,64,Aggies,Texas A&M Aggies,Texas A&M
-260570245,2006-02-26,2,66,away,FALSE,Iowa State,53,Cyclones,Iowa State Cyclones,Iowa State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260570099,2006,regular-season,2006-02-26,2,99,home,FALSE,LSU,62,Tigers,LSU Tigers,LSU
+260570099,2006,regular-season,2006-02-26,2,344,away,FALSE,Mississippi State,48,Bulldogs,Mississippi State Bulldogs,Mississippi St
+260570120,2006,regular-season,2006-02-26,2,120,home,FALSE,Maryland,89,Terrapins,Maryland Terrapins,Maryland
+260570120,2006,regular-season,2006-02-26,2,2458,away,FALSE,Northern Colorado,53,Bears,Northern Colorado Bears,N Colorado
+260572633,2006,regular-season,2006-02-26,3,2633,home,FALSE,Tennessee,93,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+260572633,2006,regular-season,2006-02-26,3,57,away,FALSE,Florida,95,Gators,Florida Gators,Florida
+260570213,2006,regular-season,2006-02-26,2,213,home,FALSE,Penn State,59,Lady Lions,Penn State Lady Lions,Penn State
+260570213,2006,regular-season,2006-02-26,2,194,away,FALSE,Ohio State,61,Buckeyes,Ohio State Buckeyes,Ohio State
+260570201,2006,regular-season,2006-02-26,2,201,home,FALSE,Oklahoma,73,Sooners,Oklahoma Sooners,Oklahoma
+260570201,2006,regular-season,2006-02-26,2,158,away,FALSE,Nebraska,45,Cornhuskers,Nebraska Cornhuskers,Nebraska
+260570275,2006,regular-season,2006-02-26,2,275,home,FALSE,Wisconsin,63,Badgers,Wisconsin Badgers,Wisconsin
+260570275,2006,regular-season,2006-02-26,2,2509,away,FALSE,Purdue,66,Boilermakers,Purdue Boilermakers,Purdue
+260570061,2006,regular-season,2006-02-26,2,61,home,FALSE,Georgia,74,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+260570061,2006,regular-season,2006-02-26,2,2,away,FALSE,Auburn,61,Tigers,Auburn Tigers,Auburn
+260570052,2006,regular-season,2006-02-26,2,52,home,FALSE,Florida State,71,Seminoles,Florida State Seminoles,Florida St
+260570052,2006,regular-season,2006-02-26,2,103,away,FALSE,Boston College,60,Eagles,Boston College Eagles,Boston College
+260570227,2006,regular-season,2006-02-26,2,227,home,FALSE,Rhode Island,79,Rams,Rhode Island Rams,Rhode Island
+260570227,2006,regular-season,2006-02-26,2,218,away,FALSE,Temple,91,Owls,Temple Owls,Temple
+260570135,2006,regular-season,2006-02-26,2,135,home,FALSE,Minnesota,71,Golden Gophers,Minnesota Golden Gophers,Minnesota
+260570135,2006,regular-season,2006-02-26,2,77,away,FALSE,Northwestern,33,Wildcats,Northwestern Wildcats,Northwestern
+260570238,2006,regular-season,2006-02-26,2,238,home,FALSE,Vanderbilt,88,Commodores,Vanderbilt Commodores,Vanderbilt
+260570238,2006,regular-season,2006-02-26,2,2579,away,FALSE,South Carolina,71,Gamecocks,South Carolina Gamecocks,South Carolina
+260570245,2006,regular-season,2006-02-26,2,245,home,FALSE,Texas A&M,64,Aggies,Texas A&M Aggies,Texas A&M
+260570245,2006,regular-season,2006-02-26,2,66,away,FALSE,Iowa State,53,Cyclones,Iowa State Cyclones,Iowa State

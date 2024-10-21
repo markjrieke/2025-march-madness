@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401277420,2021-02-01,4,97,home,FALSE,Louisville,60,Cardinals,Louisville Cardinals,Louisville
-401277420,2021-02-01,4,152,away,FALSE,NC State,74,Wolfpack,NC State Wolfpack,NC State
-401264881,2021-02-01,4,77,home,FALSE,Northwestern,69,Wildcats,Northwestern Wildcats,Northwestern
-401264881,2021-02-01,4,194,away,FALSE,Ohio State,57,Buckeyes,Ohio State Buckeyes,Ohio State
-401264880,2021-02-01,0,164,home,FALSE,Rutgers,0,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-401264880,2021-02-01,0,130,away,FALSE,Michigan,0,Wolverines,Michigan Wolverines,Michigan
-401261357,2021-02-01,0,238,home,FALSE,Vanderbilt,0,Commodores,Vanderbilt Commodores,Vanderbilt
-401261357,2021-02-01,0,344,away,FALSE,Mississippi State,0,Bulldogs,Mississippi State Bulldogs,Mississippi St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401277420,2021,regular-season,2021-02-01,4,97,home,FALSE,Louisville,60,Cardinals,Louisville Cardinals,Louisville
+401277420,2021,regular-season,2021-02-01,4,152,away,FALSE,NC State,74,Wolfpack,NC State Wolfpack,NC State
+401264881,2021,regular-season,2021-02-01,4,77,home,FALSE,Northwestern,69,Wildcats,Northwestern Wildcats,Northwestern
+401264881,2021,regular-season,2021-02-01,4,194,away,FALSE,Ohio State,57,Buckeyes,Ohio State Buckeyes,Ohio State
+401264880,2021,regular-season,2021-02-01,0,164,home,FALSE,Rutgers,0,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401264880,2021,regular-season,2021-02-01,0,130,away,FALSE,Michigan,0,Wolverines,Michigan Wolverines,Michigan
+401261357,2021,regular-season,2021-02-01,0,238,home,FALSE,Vanderbilt,0,Commodores,Vanderbilt Commodores,Vanderbilt
+401261357,2021,regular-season,2021-02-01,0,344,away,FALSE,Mississippi State,0,Bulldogs,Mississippi State Bulldogs,Mississippi St

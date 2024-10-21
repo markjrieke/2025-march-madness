@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401414456,2022-03-18,4,2390,home,TRUE,Miami,78,Hurricanes,Miami Hurricanes,Miami
-401414456,2022-03-18,4,58,away,TRUE,South Florida,66,Bulls,South Florida Bulls,South Florida
-401414474,2022-03-18,4,145,home,TRUE,Ole Miss,61,Rebels,Ole Miss Rebels,Ole Miss
-401414474,2022-03-18,4,233,away,TRUE,South Dakota,75,Coyotes,South Dakota Coyotes,South Dakota
-401414470,2022-03-18,4,38,home,TRUE,Colorado,74,Buffaloes,Colorado Buffaloes,Colorado
-401414470,2022-03-18,4,156,away,TRUE,Creighton,84,Bluejays,Creighton Bluejays,Creighton
-401414482,2022-03-18,4,2579,home,FALSE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
-401414482,2022-03-18,4,47,away,FALSE,Howard,21,Bison,Howard Bison,Howard
-401414472,2022-03-18,4,259,home,TRUE,Virginia Tech,81,Hokies,Virginia Tech Hokies,Virginia Tech
-401414472,2022-03-18,4,526,away,TRUE,Florida Gulf Coast,84,Eagles,Florida Gulf Coast Eagles,FGCU
-401414479,2022-03-18,4,158,home,TRUE,Nebraska,55,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401414479,2022-03-18,4,2250,away,TRUE,Gonzaga,68,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401414477,2022-03-18,4,239,home,FALSE,Baylor,89,Bears,Baylor Bears,Baylor
-401414477,2022-03-18,4,62,away,FALSE,Hawai'i,49,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
-401414475,2022-03-18,4,2294,home,FALSE,Iowa,98,Hawkeyes,Iowa Hawkeyes,Iowa
-401414475,2022-03-18,4,2287,away,FALSE,Illinois State,58,Redbirds,Illinois State Redbirds,Illinois St
-401414478,2022-03-18,4,120,home,FALSE,Maryland,102,Terrapins,Maryland Terrapins,Maryland
-401414478,2022-03-18,4,48,away,FALSE,Delaware,71,Blue Hens,Delaware Blue Hens,Delaware
-401414473,2022-03-18,4,254,home,TRUE,Utah,92,Utes,Utah Utes,Utah
-401414473,2022-03-18,4,8,away,TRUE,Arkansas,69,Razorbacks,Arkansas Razorbacks,Arkansas
-401414480,2022-03-18,4,97,home,FALSE,Louisville,83,Cardinals,Louisville Cardinals,Louisville
-401414480,2022-03-18,4,399,away,FALSE,UAlbany,51,Great Danes,UAlbany Great Danes,UAlbany
-401414471,2022-03-18,4,2305,home,TRUE,Kansas,77,Jayhawks,Kansas Jayhawks,Kansas
-401414471,2022-03-18,4,59,away,TRUE,Georgia Tech,58,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-401414469,2022-03-18,4,61,home,TRUE,Georgia,70,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-401414469,2022-03-18,4,2168,away,TRUE,Dayton,54,Flyers,Dayton Flyers,Dayton
-401414476,2022-03-18,4,251,home,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas
-401414476,2022-03-18,4,2217,away,FALSE,Fairfield,52,Stags,Fairfield Stags,Fairfield
-401414481,2022-03-18,4,24,home,FALSE,Stanford,78,Cardinal,Stanford Cardinal,Stanford
-401414481,2022-03-18,4,147,away,FALSE,Montana State,37,Bobcats,Montana State Bobcats,Montana St
-401412964,2022-03-18,4,66,home,FALSE,Iowa State,78,Cyclones,Iowa State Cyclones,Iowa State
-401412964,2022-03-18,4,250,away,FALSE,UT Arlington,71,Mavericks,UT Arlington Mavericks,UT Arlington
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401414456,2022,post-season,2022-03-18,4,2390,home,TRUE,Miami,78,Hurricanes,Miami Hurricanes,Miami
+401414456,2022,post-season,2022-03-18,4,58,away,TRUE,South Florida,66,Bulls,South Florida Bulls,South Florida
+401414474,2022,post-season,2022-03-18,4,145,home,TRUE,Ole Miss,61,Rebels,Ole Miss Rebels,Ole Miss
+401414474,2022,post-season,2022-03-18,4,233,away,TRUE,South Dakota,75,Coyotes,South Dakota Coyotes,South Dakota
+401414470,2022,post-season,2022-03-18,4,38,home,TRUE,Colorado,74,Buffaloes,Colorado Buffaloes,Colorado
+401414470,2022,post-season,2022-03-18,4,156,away,TRUE,Creighton,84,Bluejays,Creighton Bluejays,Creighton
+401414482,2022,post-season,2022-03-18,4,2579,home,FALSE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
+401414482,2022,post-season,2022-03-18,4,47,away,FALSE,Howard,21,Bison,Howard Bison,Howard
+401414472,2022,post-season,2022-03-18,4,259,home,TRUE,Virginia Tech,81,Hokies,Virginia Tech Hokies,Virginia Tech
+401414472,2022,post-season,2022-03-18,4,526,away,TRUE,Florida Gulf Coast,84,Eagles,Florida Gulf Coast Eagles,FGCU
+401414479,2022,post-season,2022-03-18,4,158,home,TRUE,Nebraska,55,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401414479,2022,post-season,2022-03-18,4,2250,away,TRUE,Gonzaga,68,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401414477,2022,post-season,2022-03-18,4,239,home,FALSE,Baylor,89,Bears,Baylor Bears,Baylor
+401414477,2022,post-season,2022-03-18,4,62,away,FALSE,Hawai'i,49,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
+401414475,2022,post-season,2022-03-18,4,2294,home,FALSE,Iowa,98,Hawkeyes,Iowa Hawkeyes,Iowa
+401414475,2022,post-season,2022-03-18,4,2287,away,FALSE,Illinois State,58,Redbirds,Illinois State Redbirds,Illinois St
+401414478,2022,post-season,2022-03-18,4,120,home,FALSE,Maryland,102,Terrapins,Maryland Terrapins,Maryland
+401414478,2022,post-season,2022-03-18,4,48,away,FALSE,Delaware,71,Blue Hens,Delaware Blue Hens,Delaware
+401414473,2022,post-season,2022-03-18,4,254,home,TRUE,Utah,92,Utes,Utah Utes,Utah
+401414473,2022,post-season,2022-03-18,4,8,away,TRUE,Arkansas,69,Razorbacks,Arkansas Razorbacks,Arkansas
+401414480,2022,post-season,2022-03-18,4,97,home,FALSE,Louisville,83,Cardinals,Louisville Cardinals,Louisville
+401414480,2022,post-season,2022-03-18,4,399,away,FALSE,UAlbany,51,Great Danes,UAlbany Great Danes,UAlbany
+401414471,2022,post-season,2022-03-18,4,2305,home,TRUE,Kansas,77,Jayhawks,Kansas Jayhawks,Kansas
+401414471,2022,post-season,2022-03-18,4,59,away,TRUE,Georgia Tech,58,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+401414469,2022,post-season,2022-03-18,4,61,home,TRUE,Georgia,70,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+401414469,2022,post-season,2022-03-18,4,2168,away,TRUE,Dayton,54,Flyers,Dayton Flyers,Dayton
+401414476,2022,post-season,2022-03-18,4,251,home,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas
+401414476,2022,post-season,2022-03-18,4,2217,away,FALSE,Fairfield,52,Stags,Fairfield Stags,Fairfield
+401414481,2022,post-season,2022-03-18,4,24,home,FALSE,Stanford,78,Cardinal,Stanford Cardinal,Stanford
+401414481,2022,post-season,2022-03-18,4,147,away,FALSE,Montana State,37,Bobcats,Montana State Bobcats,Montana St
+401412964,2022,post-season,2022-03-18,4,66,home,FALSE,Iowa State,78,Cyclones,Iowa State Cyclones,Iowa State
+401412964,2022,post-season,2022-03-18,4,250,away,FALSE,UT Arlington,71,Mavericks,UT Arlington Mavericks,UT Arlington

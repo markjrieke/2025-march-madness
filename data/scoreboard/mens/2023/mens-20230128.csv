@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401492718,2023-01-28,2,248,home,FALSE,Houston,75,Cougars,Houston Cougars,Houston
-401492718,2023-01-28,2,2132,away,FALSE,Cincinnati,69,Bearcats,Cincinnati Bearcats,Cincinnati
-401490364,2023-01-28,2,264,home,FALSE,Washington,72,Huskies,Washington Huskies,Washington
-401490364,2023-01-28,2,12,away,FALSE,Arizona,95,Wildcats,Arizona Wildcats,Arizona
-401488456,2023-01-28,2,258,home,FALSE,Virginia,76,Cavaliers,Virginia Cavaliers,Virginia
-401488456,2023-01-28,2,103,away,FALSE,Boston College,57,Eagles,Boston College Eagles,Boston College
-401485237,2023-01-28,2,156,home,FALSE,Creighton,84,Bluejays,Creighton Bluejays,Creighton
-401485237,2023-01-28,2,2752,away,FALSE,Xavier,67,Musketeers,Xavier Musketeers,Xavier
-401470430,2023-01-28,2,2501,home,FALSE,Portland,67,Pilots,Portland Pilots,Portland
-401470430,2023-01-28,2,2250,away,FALSE,Gonzaga,82,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401485238,2023-01-28,2,305,home,FALSE,DePaul,69,Blue Demons,DePaul Blue Demons,DePaul
-401485238,2023-01-28,2,269,away,FALSE,Marquette,89,Golden Eagles,Marquette Golden Eagles,Marquette
-401469916,2023-01-28,2,232,home,FALSE,Charleston,81,Cougars,Charleston Cougars,Charleston
-401469916,2023-01-28,2,2275,away,FALSE,Hofstra,85,Pride,Hofstra Pride,Hofstra
-401488460,2023-01-28,2,221,home,FALSE,Pittsburgh,71,Panthers,Pittsburgh Panthers,Pitt
-401488460,2023-01-28,2,2390,away,FALSE,Miami,68,Hurricanes,Miami Hurricanes,Miami
-401489727,2023-01-28,2,2226,home,FALSE,Florida Atlantic,70,Owls,Florida Atlantic Owls,FAU
-401489727,2023-01-28,2,98,away,FALSE,Western Kentucky,63,Hilltoppers,Western Kentucky Hilltoppers,Western KY
-401470428,2023-01-28,2,252,home,FALSE,BYU,56,Cougars,BYU Cougars,BYU
-401470428,2023-01-28,2,2608,away,FALSE,Saint Mary's,57,Gaels,Saint Mary's Gaels,Saint Mary's
-401488457,2023-01-28,2,52,home,FALSE,Florida State,81,Seminoles,Florida State Seminoles,Florida St
-401488457,2023-01-28,2,228,away,FALSE,Clemson,82,Tigers,Clemson Tigers,Clemson
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401492718,2023,regular-season,2023-01-28,2,248,home,FALSE,Houston,75,Cougars,Houston Cougars,Houston
+401492718,2023,regular-season,2023-01-28,2,2132,away,FALSE,Cincinnati,69,Bearcats,Cincinnati Bearcats,Cincinnati
+401490364,2023,regular-season,2023-01-28,2,264,home,FALSE,Washington,72,Huskies,Washington Huskies,Washington
+401490364,2023,regular-season,2023-01-28,2,12,away,FALSE,Arizona,95,Wildcats,Arizona Wildcats,Arizona
+401488456,2023,regular-season,2023-01-28,2,258,home,FALSE,Virginia,76,Cavaliers,Virginia Cavaliers,Virginia
+401488456,2023,regular-season,2023-01-28,2,103,away,FALSE,Boston College,57,Eagles,Boston College Eagles,Boston College
+401485237,2023,regular-season,2023-01-28,2,156,home,FALSE,Creighton,84,Bluejays,Creighton Bluejays,Creighton
+401485237,2023,regular-season,2023-01-28,2,2752,away,FALSE,Xavier,67,Musketeers,Xavier Musketeers,Xavier
+401470430,2023,regular-season,2023-01-28,2,2501,home,FALSE,Portland,67,Pilots,Portland Pilots,Portland
+401470430,2023,regular-season,2023-01-28,2,2250,away,FALSE,Gonzaga,82,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401485238,2023,regular-season,2023-01-28,2,305,home,FALSE,DePaul,69,Blue Demons,DePaul Blue Demons,DePaul
+401485238,2023,regular-season,2023-01-28,2,269,away,FALSE,Marquette,89,Golden Eagles,Marquette Golden Eagles,Marquette
+401469916,2023,regular-season,2023-01-28,2,232,home,FALSE,Charleston,81,Cougars,Charleston Cougars,Charleston
+401469916,2023,regular-season,2023-01-28,2,2275,away,FALSE,Hofstra,85,Pride,Hofstra Pride,Hofstra
+401488460,2023,regular-season,2023-01-28,2,221,home,FALSE,Pittsburgh,71,Panthers,Pittsburgh Panthers,Pitt
+401488460,2023,regular-season,2023-01-28,2,2390,away,FALSE,Miami,68,Hurricanes,Miami Hurricanes,Miami
+401489727,2023,regular-season,2023-01-28,2,2226,home,FALSE,Florida Atlantic,70,Owls,Florida Atlantic Owls,FAU
+401489727,2023,regular-season,2023-01-28,2,98,away,FALSE,Western Kentucky,63,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+401470428,2023,regular-season,2023-01-28,2,252,home,FALSE,BYU,56,Cougars,BYU Cougars,BYU
+401470428,2023,regular-season,2023-01-28,2,2608,away,FALSE,Saint Mary's,57,Gaels,Saint Mary's Gaels,Saint Mary's
+401488457,2023,regular-season,2023-01-28,2,52,home,FALSE,Florida State,81,Seminoles,Florida State Seminoles,Florida St
+401488457,2023,regular-season,2023-01-28,2,228,away,FALSE,Clemson,82,Tigers,Clemson Tigers,Clemson

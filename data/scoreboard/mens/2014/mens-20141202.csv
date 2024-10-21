@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400589285,2014-12-02,2,12,home,FALSE,Arizona,91,Wildcats,Arizona Wildcats,Arizona
-400589285,2014-12-02,2,2241,away,FALSE,Gardner-Webb,65,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-400595592,2014-12-02,2,2250,home,FALSE,Gonzaga,76,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400595592,2014-12-02,2,2545,away,FALSE,SE Louisiana,57,Lions,SE Louisiana Lions,SE Louisiana
-400585714,2014-12-02,2,66,home,FALSE,Iowa State,96,Cyclones,Iowa State Cyclones,Iowa State
-400585714,2014-12-02,2,2320,away,FALSE,Lamar,59,Cardinals,Lamar Cardinals,Lamar
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400589285,2015,regular-season,2014-12-02,2,12,home,FALSE,Arizona,91,Wildcats,Arizona Wildcats,Arizona
+400589285,2015,regular-season,2014-12-02,2,2241,away,FALSE,Gardner-Webb,65,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+400595592,2015,regular-season,2014-12-02,2,2250,home,FALSE,Gonzaga,76,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400595592,2015,regular-season,2014-12-02,2,2545,away,FALSE,SE Louisiana,57,Lions,SE Louisiana Lions,SE Louisiana
+400585714,2015,regular-season,2014-12-02,2,66,home,FALSE,Iowa State,96,Cyclones,Iowa State Cyclones,Iowa State
+400585714,2015,regular-season,2014-12-02,2,2320,away,FALSE,Lamar,59,Cardinals,Lamar Cardinals,Lamar

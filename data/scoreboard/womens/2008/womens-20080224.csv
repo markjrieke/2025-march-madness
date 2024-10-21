@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280552633,2008-02-24,2,2633,home,FALSE,Tennessee,72,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-280552633,2008-02-24,2,344,away,FALSE,Mississippi State,46,Bulldogs,Mississippi State Bulldogs,Mississippi St
-280550120,2008-02-24,3,120,home,FALSE,Maryland,92,Terrapins,Maryland Terrapins,Maryland
-280550120,2008-02-24,3,52,away,FALSE,Florida State,84,Seminoles,Florida State Seminoles,Florida St
-280550295,2008-02-24,2,295,home,FALSE,Old Dominion,66,Monarchs,Old Dominion Monarchs,Old Dominion
-280550295,2008-02-24,2,2182,away,FALSE,Drexel,51,Dragons,Drexel Dragons,Drexel
-280550150,2008-02-24,2,150,home,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
-280550150,2008-02-24,2,258,away,FALSE,Virginia,70,Cavaliers,Virginia Cavaliers,Virginia
-280550305,2008-02-24,2,305,home,FALSE,DePaul,64,Blue Demons,DePaul Blue Demons,DePaul
-280550305,2008-02-24,2,87,away,FALSE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-280552603,2008-02-24,2,2603,home,FALSE,Saint Joseph's,53,Hawks,Saint Joseph's Hawks,Saint Joseph's
-280552603,2008-02-24,2,45,away,FALSE,George Washington,61,Revolutionaries,George Washington Revolutionaries,G Washington
-280552116,2008-02-24,2,2116,home,FALSE,UCF,74,Knights,UCF Knights,UCF
-280552116,2008-02-24,2,2638,away,FALSE,UTEP,89,Miners,UTEP Miners,UTEP
-280550251,2008-02-24,2,251,home,FALSE,Texas,50,Longhorns,Texas Longhorns,Texas
-280550251,2008-02-24,2,245,away,FALSE,Texas A&M,65,Aggies,Texas A&M Aggies,Texas A&M
-280550061,2008-02-24,2,61,home,FALSE,Georgia,68,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-280550061,2008-02-24,2,2,away,FALSE,Auburn,56,Tigers,Auburn Tigers,Auburn
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280552633,2008,regular-season,2008-02-24,2,2633,home,FALSE,Tennessee,72,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+280552633,2008,regular-season,2008-02-24,2,344,away,FALSE,Mississippi State,46,Bulldogs,Mississippi State Bulldogs,Mississippi St
+280550120,2008,regular-season,2008-02-24,3,120,home,FALSE,Maryland,92,Terrapins,Maryland Terrapins,Maryland
+280550120,2008,regular-season,2008-02-24,3,52,away,FALSE,Florida State,84,Seminoles,Florida State Seminoles,Florida St
+280550295,2008,regular-season,2008-02-24,2,295,home,FALSE,Old Dominion,66,Monarchs,Old Dominion Monarchs,Old Dominion
+280550295,2008,regular-season,2008-02-24,2,2182,away,FALSE,Drexel,51,Dragons,Drexel Dragons,Drexel
+280550150,2008,regular-season,2008-02-24,2,150,home,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
+280550150,2008,regular-season,2008-02-24,2,258,away,FALSE,Virginia,70,Cavaliers,Virginia Cavaliers,Virginia
+280550305,2008,regular-season,2008-02-24,2,305,home,FALSE,DePaul,64,Blue Demons,DePaul Blue Demons,DePaul
+280550305,2008,regular-season,2008-02-24,2,87,away,FALSE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+280552603,2008,regular-season,2008-02-24,2,2603,home,FALSE,Saint Joseph's,53,Hawks,Saint Joseph's Hawks,Saint Joseph's
+280552603,2008,regular-season,2008-02-24,2,45,away,FALSE,George Washington,61,Revolutionaries,George Washington Revolutionaries,G Washington
+280552116,2008,regular-season,2008-02-24,2,2116,home,FALSE,UCF,74,Knights,UCF Knights,UCF
+280552116,2008,regular-season,2008-02-24,2,2638,away,FALSE,UTEP,89,Miners,UTEP Miners,UTEP
+280550251,2008,regular-season,2008-02-24,2,251,home,FALSE,Texas,50,Longhorns,Texas Longhorns,Texas
+280550251,2008,regular-season,2008-02-24,2,245,away,FALSE,Texas A&M,65,Aggies,Texas A&M Aggies,Texas A&M
+280550061,2008,regular-season,2008-02-24,2,61,home,FALSE,Georgia,68,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+280550061,2008,regular-season,2008-02-24,2,2,away,FALSE,Auburn,56,Tigers,Auburn Tigers,Auburn

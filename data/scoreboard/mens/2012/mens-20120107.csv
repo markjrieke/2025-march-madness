@@ -1,35 +1,35 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320070183,2012-01-07,2,183,home,FALSE,Syracuse,73,Orange,Syracuse Orange,Syracuse
-320070183,2012-01-07,2,269,away,FALSE,Marquette,66,Golden Eagles,Marquette Golden Eagles,Marquette
-320070096,2012-01-07,2,96,home,FALSE,Kentucky,79,Wildcats,Kentucky Wildcats,Kentucky
-320070096,2012-01-07,2,2579,away,FALSE,South Carolina,64,Gamecocks,South Carolina Gamecocks,South Carolina
-320070153,2012-01-07,2,153,home,FALSE,North Carolina,83,Tar Heels,North Carolina Tar Heels,North Carolina
-320070153,2012-01-07,2,103,away,FALSE,Boston College,60,Eagles,Boston College Eagles,Boston College
-320072641,2012-01-07,2,2641,home,FALSE,Texas Tech,60,Red Raiders,Texas Tech Red Raiders,Texas Tech
-320072641,2012-01-07,2,239,away,FALSE,Baylor,73,Bears,Baylor Bears,Baylor
-320070059,2012-01-07,2,59,home,FALSE,Georgia Tech,74,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-320070059,2012-01-07,2,150,away,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
-320072294,2012-01-07,2,2294,home,FALSE,Iowa,47,Hawkeyes,Iowa Hawkeyes,Iowa
-320072294,2012-01-07,2,194,away,FALSE,Ohio State,76,Buckeyes,Ohio State Buckeyes,Ohio State
-320072306,2012-01-07,2,2306,home,FALSE,Kansas State,75,Wildcats,Kansas State Wildcats,Kansas St
-320072306,2012-01-07,2,142,away,FALSE,Missouri,59,Tigers,Missouri Tigers,Missouri
-320070164,2012-01-07,2,164,home,FALSE,Rutgers,67,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-320070164,2012-01-07,2,41,away,FALSE,UConn,60,Huskies,UConn Huskies,UConn
-320070277,2012-01-07,2,277,home,FALSE,West Virginia,74,Mountaineers,West Virginia Mountaineers,West Virginia
-320070277,2012-01-07,2,46,away,FALSE,Georgetown,62,Hoyas,Georgetown Hoyas,Georgetown
-320070097,2012-01-07,4,97,home,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
-320070097,2012-01-07,4,87,away,FALSE,Notre Dame,67,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-320072633,2012-01-07,2,2633,home,FALSE,Tennessee,67,Volunteers,Tennessee Volunteers,Tennessee
-320072633,2012-01-07,2,57,away,FALSE,Florida,56,Gators,Florida Gators,Florida
-320070201,2012-01-07,2,201,home,FALSE,Oklahoma,61,Sooners,Oklahoma Sooners,Oklahoma
-320070201,2012-01-07,2,2305,away,FALSE,Kansas,72,Jayhawks,Kansas Jayhawks,Kansas
-320070008,2012-01-07,2,8,home,FALSE,Arkansas,98,Razorbacks,Arkansas Razorbacks,Arkansas
-320070008,2012-01-07,2,344,away,FALSE,Mississippi State,88,Bulldogs,Mississippi State Bulldogs,Mississippi St
-320072046,2012-01-07,2,2046,home,FALSE,Austin Peay,75,Governors,Austin Peay Governors,Austin Peay
-320072046,2012-01-07,2,93,away,FALSE,Murray State,87,Racers,Murray State Racers,Murray St
-320070258,2012-01-07,2,258,home,FALSE,Virginia,52,Cavaliers,Virginia Cavaliers,Virginia
-320070258,2012-01-07,2,2390,away,FALSE,Miami,51,Hurricanes,Miami Hurricanes,Miami
-320070108,2012-01-07,2,108,home,FALSE,Harvard,63,Crimson,Harvard Crimson,Harvard
-320070108,2012-01-07,2,159,away,FALSE,Dartmouth,47,Big Green,Dartmouth Big Green,Dartmouth
-320072250,2012-01-07,2,2250,home,FALSE,Gonzaga,82,Bulldogs,Gonzaga Bulldogs,Gonzaga
-320072250,2012-01-07,2,2541,away,FALSE,Santa Clara,60,Broncos,Santa Clara Broncos,Santa Clara
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320070183,2012,regular-season,2012-01-07,2,183,home,FALSE,Syracuse,73,Orange,Syracuse Orange,Syracuse
+320070183,2012,regular-season,2012-01-07,2,269,away,FALSE,Marquette,66,Golden Eagles,Marquette Golden Eagles,Marquette
+320070096,2012,regular-season,2012-01-07,2,96,home,FALSE,Kentucky,79,Wildcats,Kentucky Wildcats,Kentucky
+320070096,2012,regular-season,2012-01-07,2,2579,away,FALSE,South Carolina,64,Gamecocks,South Carolina Gamecocks,South Carolina
+320070153,2012,regular-season,2012-01-07,2,153,home,FALSE,North Carolina,83,Tar Heels,North Carolina Tar Heels,North Carolina
+320070153,2012,regular-season,2012-01-07,2,103,away,FALSE,Boston College,60,Eagles,Boston College Eagles,Boston College
+320072641,2012,regular-season,2012-01-07,2,2641,home,FALSE,Texas Tech,60,Red Raiders,Texas Tech Red Raiders,Texas Tech
+320072641,2012,regular-season,2012-01-07,2,239,away,FALSE,Baylor,73,Bears,Baylor Bears,Baylor
+320070059,2012,regular-season,2012-01-07,2,59,home,FALSE,Georgia Tech,74,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+320070059,2012,regular-season,2012-01-07,2,150,away,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
+320072294,2012,regular-season,2012-01-07,2,2294,home,FALSE,Iowa,47,Hawkeyes,Iowa Hawkeyes,Iowa
+320072294,2012,regular-season,2012-01-07,2,194,away,FALSE,Ohio State,76,Buckeyes,Ohio State Buckeyes,Ohio State
+320072306,2012,regular-season,2012-01-07,2,2306,home,FALSE,Kansas State,75,Wildcats,Kansas State Wildcats,Kansas St
+320072306,2012,regular-season,2012-01-07,2,142,away,FALSE,Missouri,59,Tigers,Missouri Tigers,Missouri
+320070164,2012,regular-season,2012-01-07,2,164,home,FALSE,Rutgers,67,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+320070164,2012,regular-season,2012-01-07,2,41,away,FALSE,UConn,60,Huskies,UConn Huskies,UConn
+320070277,2012,regular-season,2012-01-07,2,277,home,FALSE,West Virginia,74,Mountaineers,West Virginia Mountaineers,West Virginia
+320070277,2012,regular-season,2012-01-07,2,46,away,FALSE,Georgetown,62,Hoyas,Georgetown Hoyas,Georgetown
+320070097,2012,regular-season,2012-01-07,4,97,home,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
+320070097,2012,regular-season,2012-01-07,4,87,away,FALSE,Notre Dame,67,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+320072633,2012,regular-season,2012-01-07,2,2633,home,FALSE,Tennessee,67,Volunteers,Tennessee Volunteers,Tennessee
+320072633,2012,regular-season,2012-01-07,2,57,away,FALSE,Florida,56,Gators,Florida Gators,Florida
+320070201,2012,regular-season,2012-01-07,2,201,home,FALSE,Oklahoma,61,Sooners,Oklahoma Sooners,Oklahoma
+320070201,2012,regular-season,2012-01-07,2,2305,away,FALSE,Kansas,72,Jayhawks,Kansas Jayhawks,Kansas
+320070008,2012,regular-season,2012-01-07,2,8,home,FALSE,Arkansas,98,Razorbacks,Arkansas Razorbacks,Arkansas
+320070008,2012,regular-season,2012-01-07,2,344,away,FALSE,Mississippi State,88,Bulldogs,Mississippi State Bulldogs,Mississippi St
+320072046,2012,regular-season,2012-01-07,2,2046,home,FALSE,Austin Peay,75,Governors,Austin Peay Governors,Austin Peay
+320072046,2012,regular-season,2012-01-07,2,93,away,FALSE,Murray State,87,Racers,Murray State Racers,Murray St
+320070258,2012,regular-season,2012-01-07,2,258,home,FALSE,Virginia,52,Cavaliers,Virginia Cavaliers,Virginia
+320070258,2012,regular-season,2012-01-07,2,2390,away,FALSE,Miami,51,Hurricanes,Miami Hurricanes,Miami
+320070108,2012,regular-season,2012-01-07,2,108,home,FALSE,Harvard,63,Crimson,Harvard Crimson,Harvard
+320070108,2012,regular-season,2012-01-07,2,159,away,FALSE,Dartmouth,47,Big Green,Dartmouth Big Green,Dartmouth
+320072250,2012,regular-season,2012-01-07,2,2250,home,FALSE,Gonzaga,82,Bulldogs,Gonzaga Bulldogs,Gonzaga
+320072250,2012,regular-season,2012-01-07,2,2541,away,FALSE,Santa Clara,60,Broncos,Santa Clara Broncos,Santa Clara

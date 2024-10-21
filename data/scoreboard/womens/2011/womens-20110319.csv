@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310782633,2011-03-19,2,2633,home,FALSE,Tennessee,99,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-310782633,2011-03-19,2,56,away,FALSE,Stetson,34,Hatters,Stetson Hatters,Stetson
-310780213,2011-03-19,2,213,home,FALSE,Penn State,75,Lady Lions,Penn State Lady Lions,Penn State
-310780213,2011-03-19,2,2168,away,FALSE,Dayton,66,Flyers,Dayton Flyers,Dayton
-310780066,2011-03-19,2,66,home,TRUE,Iowa State,64,Cyclones,Iowa State Cyclones,Iowa State
-310780066,2011-03-19,2,2368,away,TRUE,Marist,74,Red Foxes,Marist Red Foxes,Marist
-310780059,2011-03-19,2,59,home,TRUE,Georgia Tech,69,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-310780059,2011-03-19,2,189,away,TRUE,Bowling Green,58,Falcons,Bowling Green Falcons,Bowling Green
-310780269,2011-03-19,2,269,home,TRUE,Marquette,68,Golden Eagles,Marquette Golden Eagles,Marquette
-310780269,2011-03-19,2,251,away,TRUE,Texas,65,Longhorns,Texas Longhorns,Texas
-310780305,2011-03-19,2,305,home,TRUE,DePaul,56,Blue Demons,DePaul Blue Demons,DePaul
-310780305,2011-03-19,2,2426,away,TRUE,Navy,43,Midshipmen,Navy Midshipmen,Navy
-310780150,2011-03-19,2,150,home,FALSE,Duke,90,Blue Devils,Duke Blue Devils,Duke
-310780150,2011-03-19,2,2630,away,FALSE,UT Martin,45,Skyhawks,UT Martin Skyhawks,UT Martin
-310780194,2011-03-19,2,194,home,FALSE,Ohio State,80,Buckeyes,Ohio State Buckeyes,Ohio State
-310780194,2011-03-19,2,2116,away,FALSE,UCF,69,Knights,UCF Knights,UCF
-310780009,2011-03-19,2,9,home,TRUE,Arizona State,45,Sun Devils,Arizona State Sun Devils,Arizona St
-310780009,2011-03-19,2,218,away,TRUE,Temple,63,Owls,Temple Owls,Temple
-310782294,2011-03-19,2,2294,home,TRUE,Iowa,86,Hawkeyes,Iowa Hawkeyes,Iowa
-310782294,2011-03-19,2,2250,away,TRUE,Gonzaga,92,Bulldogs,Gonzaga Bulldogs,Gonzaga
-310780153,2011-03-19,2,153,home,TRUE,North Carolina,82,Tar Heels,North Carolina Tar Heels,North Carolina
-310780153,2011-03-19,2,278,away,TRUE,Fresno State,68,Bulldogs,Fresno State Bulldogs,Fresno St
-310782641,2011-03-19,2,2641,home,TRUE,Texas Tech,50,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-310782641,2011-03-19,2,2599,away,TRUE,St. John's,55,Red Storm,St. John's Red Storm,St John's
-310780096,2011-03-19,3,96,home,TRUE,Kentucky,66,Wildcats,Kentucky Wildcats,Kentucky
-310780096,2011-03-19,3,2261,away,TRUE,Hampton,62,Lady Pirates,Hampton Lady Pirates,Hampton
-310780087,2011-03-19,2,87,home,TRUE,Notre Dame,67,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-310780087,2011-03-19,2,254,away,TRUE,Utah,54,Utes,Utah Utes,Utah
-310780026,2011-03-19,2,26,home,TRUE,UCLA,55,Bruins,UCLA Bruins,UCLA
-310780026,2011-03-19,2,149,away,TRUE,Montana,47,Lady Griz,Montana Lady Griz,Montana
-310780024,2011-03-19,2,24,home,FALSE,Stanford,86,Cardinal,Stanford Cardinal,Stanford
-310780024,2011-03-19,2,302,away,FALSE,UC Davis,59,Aggies,UC Davis Aggies,UC Davis
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310782633,2011,post-season,2011-03-19,2,2633,home,FALSE,Tennessee,99,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+310782633,2011,post-season,2011-03-19,2,56,away,FALSE,Stetson,34,Hatters,Stetson Hatters,Stetson
+310780213,2011,post-season,2011-03-19,2,213,home,FALSE,Penn State,75,Lady Lions,Penn State Lady Lions,Penn State
+310780213,2011,post-season,2011-03-19,2,2168,away,FALSE,Dayton,66,Flyers,Dayton Flyers,Dayton
+310780066,2011,post-season,2011-03-19,2,66,home,TRUE,Iowa State,64,Cyclones,Iowa State Cyclones,Iowa State
+310780066,2011,post-season,2011-03-19,2,2368,away,TRUE,Marist,74,Red Foxes,Marist Red Foxes,Marist
+310780059,2011,post-season,2011-03-19,2,59,home,TRUE,Georgia Tech,69,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+310780059,2011,post-season,2011-03-19,2,189,away,TRUE,Bowling Green,58,Falcons,Bowling Green Falcons,Bowling Green
+310780269,2011,post-season,2011-03-19,2,269,home,TRUE,Marquette,68,Golden Eagles,Marquette Golden Eagles,Marquette
+310780269,2011,post-season,2011-03-19,2,251,away,TRUE,Texas,65,Longhorns,Texas Longhorns,Texas
+310780305,2011,post-season,2011-03-19,2,305,home,TRUE,DePaul,56,Blue Demons,DePaul Blue Demons,DePaul
+310780305,2011,post-season,2011-03-19,2,2426,away,TRUE,Navy,43,Midshipmen,Navy Midshipmen,Navy
+310780150,2011,post-season,2011-03-19,2,150,home,FALSE,Duke,90,Blue Devils,Duke Blue Devils,Duke
+310780150,2011,post-season,2011-03-19,2,2630,away,FALSE,UT Martin,45,Skyhawks,UT Martin Skyhawks,UT Martin
+310780194,2011,post-season,2011-03-19,2,194,home,FALSE,Ohio State,80,Buckeyes,Ohio State Buckeyes,Ohio State
+310780194,2011,post-season,2011-03-19,2,2116,away,FALSE,UCF,69,Knights,UCF Knights,UCF
+310780009,2011,post-season,2011-03-19,2,9,home,TRUE,Arizona State,45,Sun Devils,Arizona State Sun Devils,Arizona St
+310780009,2011,post-season,2011-03-19,2,218,away,TRUE,Temple,63,Owls,Temple Owls,Temple
+310782294,2011,post-season,2011-03-19,2,2294,home,TRUE,Iowa,86,Hawkeyes,Iowa Hawkeyes,Iowa
+310782294,2011,post-season,2011-03-19,2,2250,away,TRUE,Gonzaga,92,Bulldogs,Gonzaga Bulldogs,Gonzaga
+310780153,2011,post-season,2011-03-19,2,153,home,TRUE,North Carolina,82,Tar Heels,North Carolina Tar Heels,North Carolina
+310780153,2011,post-season,2011-03-19,2,278,away,TRUE,Fresno State,68,Bulldogs,Fresno State Bulldogs,Fresno St
+310782641,2011,post-season,2011-03-19,2,2641,home,TRUE,Texas Tech,50,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+310782641,2011,post-season,2011-03-19,2,2599,away,TRUE,St. John's,55,Red Storm,St. John's Red Storm,St John's
+310780096,2011,post-season,2011-03-19,3,96,home,TRUE,Kentucky,66,Wildcats,Kentucky Wildcats,Kentucky
+310780096,2011,post-season,2011-03-19,3,2261,away,TRUE,Hampton,62,Lady Pirates,Hampton Lady Pirates,Hampton
+310780087,2011,post-season,2011-03-19,2,87,home,TRUE,Notre Dame,67,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+310780087,2011,post-season,2011-03-19,2,254,away,TRUE,Utah,54,Utes,Utah Utes,Utah
+310780026,2011,post-season,2011-03-19,2,26,home,TRUE,UCLA,55,Bruins,UCLA Bruins,UCLA
+310780026,2011,post-season,2011-03-19,2,149,away,TRUE,Montana,47,Lady Griz,Montana Lady Griz,Montana
+310780024,2011,post-season,2011-03-19,2,24,home,FALSE,Stanford,86,Cardinal,Stanford Cardinal,Stanford
+310780024,2011,post-season,2011-03-19,2,302,away,FALSE,UC Davis,59,Aggies,UC Davis Aggies,UC Davis

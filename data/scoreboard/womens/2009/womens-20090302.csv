@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290610164,2009-03-02,2,164,home,FALSE,Rutgers,59,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-290610164,2009-03-02,2,41,away,FALSE,UConn,69,Huskies,UConn Huskies,UConn
-290610269,2009-03-02,2,269,home,FALSE,Marquette,61,Golden Eagles,Marquette Golden Eagles,Marquette
-290610269,2009-03-02,2,97,away,FALSE,Louisville,66,Cardinals,Louisville Cardinals,Louisville
-290610221,2009-03-02,2,221,home,FALSE,Pittsburgh,79,Panthers,Pittsburgh Panthers,Pitt
-290610221,2009-03-02,2,2599,away,FALSE,St. John's,60,Red Storm,St. John's Red Storm,St John's
-290610198,2009-03-02,2,198,home,FALSE,Oral Roberts,64,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-290610198,2009-03-02,2,2571,away,FALSE,South Dakota State,71,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-290610087,2009-03-02,2,87,home,FALSE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-290610087,2009-03-02,2,277,away,FALSE,West Virginia,66,Mountaineers,West Virginia Mountaineers,West Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290610164,2009,regular-season,2009-03-02,2,164,home,FALSE,Rutgers,59,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+290610164,2009,regular-season,2009-03-02,2,41,away,FALSE,UConn,69,Huskies,UConn Huskies,UConn
+290610269,2009,regular-season,2009-03-02,2,269,home,FALSE,Marquette,61,Golden Eagles,Marquette Golden Eagles,Marquette
+290610269,2009,regular-season,2009-03-02,2,97,away,FALSE,Louisville,66,Cardinals,Louisville Cardinals,Louisville
+290610221,2009,regular-season,2009-03-02,2,221,home,FALSE,Pittsburgh,79,Panthers,Pittsburgh Panthers,Pitt
+290610221,2009,regular-season,2009-03-02,2,2599,away,FALSE,St. John's,60,Red Storm,St. John's Red Storm,St John's
+290610198,2009,regular-season,2009-03-02,2,198,home,FALSE,Oral Roberts,64,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+290610198,2009,regular-season,2009-03-02,2,2571,away,FALSE,South Dakota State,71,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+290610087,2009,regular-season,2009-03-02,2,87,home,FALSE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+290610087,2009,regular-season,2009-03-02,2,277,away,FALSE,West Virginia,66,Mountaineers,West Virginia Mountaineers,West Virginia

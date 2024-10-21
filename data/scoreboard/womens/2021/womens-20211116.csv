@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401380644,2021-11-16,4,120,home,FALSE,Maryland,98,Terrapins,Maryland Terrapins,Maryland
-401380644,2021-11-16,4,116,away,FALSE,Mount St. Mary's,57,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-401380636,2021-11-16,4,84,home,FALSE,Indiana,72,Hoosiers,Indiana Hoosiers,Indiana
-401380636,2021-11-16,4,2450,away,FALSE,Norfolk State,42,Spartans,Norfolk State Spartans,Norfolk St
-401376870,2021-11-16,4,24,home,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
-401376870,2021-11-16,4,2501,away,FALSE,Portland,55,Pilots,Portland Pilots,Portland
-401369366,2021-11-16,4,97,home,FALSE,Louisville,82,Cardinals,Louisville Cardinals,Louisville
-401369366,2021-11-16,4,91,away,FALSE,Bellarmine,25,Knights,Bellarmine Knights,Bellarmine
-401374079,2021-11-16,4,130,home,FALSE,Michigan,73,Wolverines,Michigan Wolverines,Michigan
-401374079,2021-11-16,4,2349,away,FALSE,UMass Lowell,54,River Hawks,UMass Lowell River Hawks,UMass Lowell
-401376980,2021-11-16,4,277,home,FALSE,West Virginia,86,Mountaineers,West Virginia Mountaineers,West Virginia
-401376980,2021-11-16,4,2598,away,FALSE,St. Francis (PA),33,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401380644,2022,regular-season,2021-11-16,4,120,home,FALSE,Maryland,98,Terrapins,Maryland Terrapins,Maryland
+401380644,2022,regular-season,2021-11-16,4,116,away,FALSE,Mount St. Mary's,57,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+401380636,2022,regular-season,2021-11-16,4,84,home,FALSE,Indiana,72,Hoosiers,Indiana Hoosiers,Indiana
+401380636,2022,regular-season,2021-11-16,4,2450,away,FALSE,Norfolk State,42,Spartans,Norfolk State Spartans,Norfolk St
+401376870,2022,regular-season,2021-11-16,4,24,home,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
+401376870,2022,regular-season,2021-11-16,4,2501,away,FALSE,Portland,55,Pilots,Portland Pilots,Portland
+401369366,2022,regular-season,2021-11-16,4,97,home,FALSE,Louisville,82,Cardinals,Louisville Cardinals,Louisville
+401369366,2022,regular-season,2021-11-16,4,91,away,FALSE,Bellarmine,25,Knights,Bellarmine Knights,Bellarmine
+401374079,2022,regular-season,2021-11-16,4,130,home,FALSE,Michigan,73,Wolverines,Michigan Wolverines,Michigan
+401374079,2022,regular-season,2021-11-16,4,2349,away,FALSE,UMass Lowell,54,River Hawks,UMass Lowell River Hawks,UMass Lowell
+401376980,2022,regular-season,2021-11-16,4,277,home,FALSE,West Virginia,86,Mountaineers,West Virginia Mountaineers,West Virginia
+401376980,2022,regular-season,2021-11-16,4,2598,away,FALSE,St. Francis (PA),33,Red Flash,St. Francis (PA) Red Flash,St Francis PA

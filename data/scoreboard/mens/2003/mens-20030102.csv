@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230020150,2003-01-02,2,150,home,FALSE,Duke,86,Blue Devils,Duke Blue Devils,Duke
-230020150,2003-01-02,2,2217,away,FALSE,Fairfield,58,Stags,Fairfield Stags,Fairfield
-230022483,2003-01-02,2,2483,home,FALSE,Oregon,72,Ducks,Oregon Ducks,Oregon
-230022483,2003-01-02,2,12,away,FALSE,Arizona,81,Wildcats,Arizona Wildcats,Arizona
-230020041,2003-01-02,2,41,home,FALSE,UConn,95,Huskies,UConn Huskies,UConn
-230020041,2003-01-02,2,179,away,FALSE,St. Bonaventure,78,Bonnies,St. Bonaventure Bonnies,St Bonaventure
-230020005,2003-01-02,2,5,home,FALSE,UAB,52,Blazers,UAB Blazers,UAB
-230020005,2003-01-02,2,344,away,FALSE,Mississippi State,68,Bulldogs,Mississippi State Bulldogs,Mississippi St
-230022305,2003-01-02,2,2305,home,FALSE,Kansas,102,Jayhawks,Kansas Jayhawks,Kansas
-230022305,2003-01-02,2,2427,away,FALSE,UNC Asheville,50,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-230020096,2003-01-02,2,96,home,FALSE,Kentucky,94,Wildcats,Kentucky Wildcats,Kentucky
-230020096,2003-01-02,2,2016,away,FALSE,Alcorn State,63,Braves,Alcorn State Braves,Alcorn St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230020150,2003,regular-season,2003-01-02,2,150,home,FALSE,Duke,86,Blue Devils,Duke Blue Devils,Duke
+230020150,2003,regular-season,2003-01-02,2,2217,away,FALSE,Fairfield,58,Stags,Fairfield Stags,Fairfield
+230022483,2003,regular-season,2003-01-02,2,2483,home,FALSE,Oregon,72,Ducks,Oregon Ducks,Oregon
+230022483,2003,regular-season,2003-01-02,2,12,away,FALSE,Arizona,81,Wildcats,Arizona Wildcats,Arizona
+230020041,2003,regular-season,2003-01-02,2,41,home,FALSE,UConn,95,Huskies,UConn Huskies,UConn
+230020041,2003,regular-season,2003-01-02,2,179,away,FALSE,St. Bonaventure,78,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+230020005,2003,regular-season,2003-01-02,2,5,home,FALSE,UAB,52,Blazers,UAB Blazers,UAB
+230020005,2003,regular-season,2003-01-02,2,344,away,FALSE,Mississippi State,68,Bulldogs,Mississippi State Bulldogs,Mississippi St
+230022305,2003,regular-season,2003-01-02,2,2305,home,FALSE,Kansas,102,Jayhawks,Kansas Jayhawks,Kansas
+230022305,2003,regular-season,2003-01-02,2,2427,away,FALSE,UNC Asheville,50,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+230020096,2003,regular-season,2003-01-02,2,96,home,FALSE,Kentucky,94,Wildcats,Kentucky Wildcats,Kentucky
+230020096,2003,regular-season,2003-01-02,2,2016,away,FALSE,Alcorn State,63,Braves,Alcorn State Braves,Alcorn St

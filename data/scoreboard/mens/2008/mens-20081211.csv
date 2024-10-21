@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-283460222,2008-12-11,2,222,home,FALSE,Villanova,59,Wildcats,Villanova Wildcats,Villanova
-283460222,2008-12-11,2,2603,away,FALSE,Saint Joseph's,56,Hawks,Saint Joseph's Hawks,Saint Joseph's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283460222,2009,regular-season,2008-12-11,2,222,home,FALSE,Villanova,59,Wildcats,Villanova Wildcats,Villanova
+283460222,2009,regular-season,2008-12-11,2,2603,away,FALSE,Saint Joseph's,56,Hawks,Saint Joseph's Hawks,Saint Joseph's

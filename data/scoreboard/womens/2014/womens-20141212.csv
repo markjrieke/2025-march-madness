@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400589991,2014-12-12,2,96,home,FALSE,Kentucky,78,Wildcats,Kentucky Wildcats,Kentucky
-400589991,2014-12-12,2,2393,away,FALSE,Middle Tennessee,62,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-400596630,2014-12-12,2,120,home,FALSE,Maryland,94,Terrapins,Maryland Terrapins,Maryland
-400596630,2014-12-12,2,44,away,FALSE,American University,50,Eagles,American University Eagles,American
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400589991,2015,regular-season,2014-12-12,2,96,home,FALSE,Kentucky,78,Wildcats,Kentucky Wildcats,Kentucky
+400589991,2015,regular-season,2014-12-12,2,2393,away,FALSE,Middle Tennessee,62,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+400596630,2015,regular-season,2014-12-12,2,120,home,FALSE,Maryland,94,Terrapins,Maryland Terrapins,Maryland
+400596630,2015,regular-season,2014-12-12,2,44,away,FALSE,American University,50,Eagles,American University Eagles,American

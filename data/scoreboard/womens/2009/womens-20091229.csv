@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293632116,2009-12-29,2,2116,home,FALSE,UCF,52,Knights,UCF Knights,UCF
-293632116,2009-12-29,2,87,away,FALSE,Notre Dame,85,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-293630153,2009-12-29,2,153,home,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
-293630153,2009-12-29,2,338,away,FALSE,Kennesaw State,44,Owls,Kennesaw State Owls,Kennesaw St
-293632390,2009-12-29,2,2390,home,FALSE,Miami,65,Hurricanes,Miami Hurricanes,Miami
-293632390,2009-12-29,2,251,away,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
-293630221,2009-12-29,2,221,home,FALSE,Pittsburgh,63,Panthers,Pittsburgh Panthers,Pitt
-293630221,2009-12-29,2,2184,away,FALSE,Duquesne,72,Dukes,Duquesne Dukes,Duquesne
-293630258,2009-12-29,2,258,home,FALSE,Virginia,63,Cavaliers,Virginia Cavaliers,Virginia
-293630258,2009-12-29,2,2335,away,FALSE,Liberty,54,Flames,Liberty Flames,Liberty
-293632229,2009-12-29,2,2229,home,FALSE,Florida International,57,Panthers,Florida International Panthers,FIU
-293632229,2009-12-29,2,59,away,FALSE,Georgia Tech,68,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-293630256,2009-12-29,2,256,home,FALSE,James Madison,86,Dukes,James Madison Dukes,James Madison
-293630256,2009-12-29,2,322,away,FALSE,Lafayette,54,Leopards,Lafayette Leopards,Lafayette
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293632116,2010,regular-season,2009-12-29,2,2116,home,FALSE,UCF,52,Knights,UCF Knights,UCF
+293632116,2010,regular-season,2009-12-29,2,87,away,FALSE,Notre Dame,85,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+293630153,2010,regular-season,2009-12-29,2,153,home,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
+293630153,2010,regular-season,2009-12-29,2,338,away,FALSE,Kennesaw State,44,Owls,Kennesaw State Owls,Kennesaw St
+293632390,2010,regular-season,2009-12-29,2,2390,home,FALSE,Miami,65,Hurricanes,Miami Hurricanes,Miami
+293632390,2010,regular-season,2009-12-29,2,251,away,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
+293630221,2010,regular-season,2009-12-29,2,221,home,FALSE,Pittsburgh,63,Panthers,Pittsburgh Panthers,Pitt
+293630221,2010,regular-season,2009-12-29,2,2184,away,FALSE,Duquesne,72,Dukes,Duquesne Dukes,Duquesne
+293630258,2010,regular-season,2009-12-29,2,258,home,FALSE,Virginia,63,Cavaliers,Virginia Cavaliers,Virginia
+293630258,2010,regular-season,2009-12-29,2,2335,away,FALSE,Liberty,54,Flames,Liberty Flames,Liberty
+293632229,2010,regular-season,2009-12-29,2,2229,home,FALSE,Florida International,57,Panthers,Florida International Panthers,FIU
+293632229,2010,regular-season,2009-12-29,2,59,away,FALSE,Georgia Tech,68,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+293630256,2010,regular-season,2009-12-29,2,256,home,FALSE,James Madison,86,Dukes,James Madison Dukes,James Madison
+293630256,2010,regular-season,2009-12-29,2,322,away,FALSE,Lafayette,54,Leopards,Lafayette Leopards,Lafayette

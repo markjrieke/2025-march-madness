@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-233260041,2003-11-22,2,41,home,FALSE,UConn,111,Huskies,UConn Huskies,UConn
-233260041,2003-11-22,2,2529,away,FALSE,Sacred Heart,64,Pioneers,Sacred Heart Pioneers,Sacred Heart
-233260150,2003-11-22,2,150,home,FALSE,Duke,67,Blue Devils,Duke Blue Devils,Duke
-233260150,2003-11-22,2,2174,away,FALSE,Detroit Mercy,56,Titans,Detroit Mercy Titans,Detroit Mercy
-233260153,2003-11-22,2,153,home,FALSE,North Carolina,90,Tar Heels,North Carolina Tar Heels,North Carolina
-233260153,2003-11-22,2,295,away,FALSE,Old Dominion,64,Monarchs,Old Dominion Monarchs,Old Dominion
-233260356,2003-11-22,2,356,home,FALSE,Illinois,94,Fighting Illini,Illinois Fighting Illini,Illinois
-233260356,2003-11-22,2,2710,away,FALSE,Western Illinois,66,Leathernecks,Western Illinois Leathernecks,W Illinois
-233260201,2003-11-22,2,201,home,FALSE,Oklahoma,84,Sooners,Oklahoma Sooners,Oklahoma
-233260201,2003-11-22,2,198,away,FALSE,Oral Roberts,68,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-233262132,2003-11-22,2,2132,home,FALSE,Cincinnati,88,Bearcats,Cincinnati Bearcats,Cincinnati
-233262132,2003-11-22,2,2006,away,FALSE,Akron,66,Zips,Akron Zips,Akron
-233260154,2003-11-22,2,154,home,FALSE,Wake Forest,97,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-233260154,2003-11-22,2,2210,away,FALSE,Elon,55,Phoenix,Elon Phoenix,Elon
-233260024,2003-11-22,2,24,home,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
-233260024,2003-11-22,2,16,away,FALSE,Sacramento State,59,Hornets,Sacramento State Hornets,Sacramento St
-233260221,2003-11-22,2,221,home,FALSE,Pittsburgh,90,Panthers,Pittsburgh Panthers,Pitt
-233260221,2003-11-22,2,2598,away,FALSE,St. Francis (PA),69,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-233260269,2003-11-22,2,269,home,FALSE,Marquette,75,Golden Eagles,Marquette Golden Eagles,Marquette
-233260269,2003-11-22,2,2674,away,FALSE,Valparaiso,70,Beacons,Valparaiso Beacons,Valparaiso
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+233260041,2004,regular-season,2003-11-22,2,41,home,FALSE,UConn,111,Huskies,UConn Huskies,UConn
+233260041,2004,regular-season,2003-11-22,2,2529,away,FALSE,Sacred Heart,64,Pioneers,Sacred Heart Pioneers,Sacred Heart
+233260150,2004,regular-season,2003-11-22,2,150,home,FALSE,Duke,67,Blue Devils,Duke Blue Devils,Duke
+233260150,2004,regular-season,2003-11-22,2,2174,away,FALSE,Detroit Mercy,56,Titans,Detroit Mercy Titans,Detroit Mercy
+233260153,2004,regular-season,2003-11-22,2,153,home,FALSE,North Carolina,90,Tar Heels,North Carolina Tar Heels,North Carolina
+233260153,2004,regular-season,2003-11-22,2,295,away,FALSE,Old Dominion,64,Monarchs,Old Dominion Monarchs,Old Dominion
+233260356,2004,regular-season,2003-11-22,2,356,home,FALSE,Illinois,94,Fighting Illini,Illinois Fighting Illini,Illinois
+233260356,2004,regular-season,2003-11-22,2,2710,away,FALSE,Western Illinois,66,Leathernecks,Western Illinois Leathernecks,W Illinois
+233260201,2004,regular-season,2003-11-22,2,201,home,FALSE,Oklahoma,84,Sooners,Oklahoma Sooners,Oklahoma
+233260201,2004,regular-season,2003-11-22,2,198,away,FALSE,Oral Roberts,68,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+233262132,2004,regular-season,2003-11-22,2,2132,home,FALSE,Cincinnati,88,Bearcats,Cincinnati Bearcats,Cincinnati
+233262132,2004,regular-season,2003-11-22,2,2006,away,FALSE,Akron,66,Zips,Akron Zips,Akron
+233260154,2004,regular-season,2003-11-22,2,154,home,FALSE,Wake Forest,97,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+233260154,2004,regular-season,2003-11-22,2,2210,away,FALSE,Elon,55,Phoenix,Elon Phoenix,Elon
+233260024,2004,regular-season,2003-11-22,2,24,home,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
+233260024,2004,regular-season,2003-11-22,2,16,away,FALSE,Sacramento State,59,Hornets,Sacramento State Hornets,Sacramento St
+233260221,2004,regular-season,2003-11-22,2,221,home,FALSE,Pittsburgh,90,Panthers,Pittsburgh Panthers,Pitt
+233260221,2004,regular-season,2003-11-22,2,2598,away,FALSE,St. Francis (PA),69,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+233260269,2004,regular-season,2003-11-22,2,269,home,FALSE,Marquette,75,Golden Eagles,Marquette Golden Eagles,Marquette
+233260269,2004,regular-season,2003-11-22,2,2674,away,FALSE,Valparaiso,70,Beacons,Valparaiso Beacons,Valparaiso

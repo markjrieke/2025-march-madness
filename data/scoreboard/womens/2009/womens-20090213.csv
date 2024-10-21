@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290440150,2009-02-13,2,150,home,FALSE,Duke,77,Blue Devils,Duke Blue Devils,Duke
-290440150,2009-02-13,2,228,away,FALSE,Clemson,53,Tigers,Clemson Tigers,Clemson
-290440052,2009-02-13,2,52,home,FALSE,Florida State,77,Seminoles,Florida State Seminoles,Florida St
-290440052,2009-02-13,2,153,away,FALSE,North Carolina,70,Tar Heels,North Carolina Tar Heels,North Carolina
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290440150,2009,regular-season,2009-02-13,2,150,home,FALSE,Duke,77,Blue Devils,Duke Blue Devils,Duke
+290440150,2009,regular-season,2009-02-13,2,228,away,FALSE,Clemson,53,Tigers,Clemson Tigers,Clemson
+290440052,2009,regular-season,2009-02-13,2,52,home,FALSE,Florida State,77,Seminoles,Florida State Seminoles,Florida St
+290440052,2009,regular-season,2009-02-13,2,153,away,FALSE,North Carolina,70,Tar Heels,North Carolina Tar Heels,North Carolina

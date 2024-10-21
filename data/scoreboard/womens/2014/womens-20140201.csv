@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400510925,2014-02-01,2,2132,home,FALSE,Cincinnati,29,Bearcats,Cincinnati Bearcats,Cincinnati
-400510925,2014-02-01,2,41,away,FALSE,UConn,86,Huskies,UConn Huskies,UConn
-400503789,2014-02-01,2,239,home,FALSE,Baylor,87,Bears,Baylor Bears,Baylor
-400503789,2014-02-01,2,251,away,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
-400503788,2014-02-01,2,201,home,FALSE,Oklahoma,81,Sooners,Oklahoma Sooners,Oklahoma
-400503788,2014-02-01,2,197,away,FALSE,Oklahoma State,74,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-400503792,2014-02-01,2,2628,home,FALSE,TCU,62,Horned Frogs,TCU Horned Frogs,TCU
-400503792,2014-02-01,2,277,away,FALSE,West Virginia,66,Mountaineers,West Virginia Mountaineers,West Virginia
-400511192,2014-02-01,2,2250,home,FALSE,Gonzaga,101,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400511192,2014-02-01,2,2539,away,FALSE,San Francisco,66,Dons,San Francisco Dons,San Francisco
-400503790,2014-02-01,2,66,home,FALSE,Iowa State,84,Cyclones,Iowa State Cyclones,Iowa State
-400503790,2014-02-01,2,2306,away,FALSE,Kansas State,65,Wildcats,Kansas State Wildcats,Kansas St
-400512191,2014-02-01,2,202,home,FALSE,Tulsa,57,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-400512191,2014-02-01,2,2393,away,FALSE,Middle Tennessee,67,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400510925,2014,regular-season,2014-02-01,2,2132,home,FALSE,Cincinnati,29,Bearcats,Cincinnati Bearcats,Cincinnati
+400510925,2014,regular-season,2014-02-01,2,41,away,FALSE,UConn,86,Huskies,UConn Huskies,UConn
+400503789,2014,regular-season,2014-02-01,2,239,home,FALSE,Baylor,87,Bears,Baylor Bears,Baylor
+400503789,2014,regular-season,2014-02-01,2,251,away,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
+400503788,2014,regular-season,2014-02-01,2,201,home,FALSE,Oklahoma,81,Sooners,Oklahoma Sooners,Oklahoma
+400503788,2014,regular-season,2014-02-01,2,197,away,FALSE,Oklahoma State,74,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+400503792,2014,regular-season,2014-02-01,2,2628,home,FALSE,TCU,62,Horned Frogs,TCU Horned Frogs,TCU
+400503792,2014,regular-season,2014-02-01,2,277,away,FALSE,West Virginia,66,Mountaineers,West Virginia Mountaineers,West Virginia
+400511192,2014,regular-season,2014-02-01,2,2250,home,FALSE,Gonzaga,101,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400511192,2014,regular-season,2014-02-01,2,2539,away,FALSE,San Francisco,66,Dons,San Francisco Dons,San Francisco
+400503790,2014,regular-season,2014-02-01,2,66,home,FALSE,Iowa State,84,Cyclones,Iowa State Cyclones,Iowa State
+400503790,2014,regular-season,2014-02-01,2,2306,away,FALSE,Kansas State,65,Wildcats,Kansas State Wildcats,Kansas St
+400512191,2014,regular-season,2014-02-01,2,202,home,FALSE,Tulsa,57,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+400512191,2014,regular-season,2014-02-01,2,2393,away,FALSE,Middle Tennessee,67,Blue Raiders,Middle Tennessee Blue Raiders,MTSU

@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243390167,2004-12-04,2,167,home,FALSE,New Mexico,56,Lobos,New Mexico Lobos,New Mexico
-243390167,2004-12-04,2,251,away,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
-243390239,2004-12-04,2,239,home,FALSE,Baylor,73,Bears,Baylor Bears,Baylor
-243390239,2004-12-04,2,2296,away,FALSE,Jackson State,56,Lady Tigers,Jackson State Lady Tigers,Jackson St
-243390150,2004-12-04,2,150,home,FALSE,Duke,86,Blue Devils,Duke Blue Devils,Duke
-243390150,2004-12-04,2,279,away,FALSE,Pacific,30,Tigers,Pacific Tigers,Pacific
-243392168,2004-12-04,2,2168,home,FALSE,Dayton,42,Flyers,Dayton Flyers,Dayton
-243392168,2004-12-04,2,194,away,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
-243390193,2004-12-04,2,193,home,FALSE,Miami (OH),50,RedHawks,Miami (OH) RedHawks,Miami OH
-243390193,2004-12-04,2,238,away,FALSE,Vanderbilt,93,Commodores,Vanderbilt Commodores,Vanderbilt
-243392132,2004-12-04,2,2132,home,FALSE,Cincinnati,61,Bearcats,Cincinnati Bearcats,Cincinnati
-243392132,2004-12-04,2,127,away,FALSE,Michigan State,77,Spartans,Michigan State Spartans,Michigan St
-243392306,2004-12-04,2,2306,home,FALSE,Kansas State,56,Wildcats,Kansas State Wildcats,Kansas St
-243392306,2004-12-04,2,2335,away,FALSE,Liberty,77,Flames,Liberty Flames,Liberty
-243390103,2004-12-04,2,103,home,FALSE,Boston College,90,Eagles,Boston College Eagles,Boston College
-243390103,2004-12-04,2,111,away,FALSE,Northeastern,63,Huskies,Northeastern Huskies,Northeastern
-243392348,2004-12-04,3,2348,home,FALSE,Louisiana Tech,65,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-243392348,2004-12-04,3,356,away,FALSE,Illinois,71,Fighting Illini,Illinois Fighting Illini,Illinois
-243392752,2004-12-04,2,2752,home,FALSE,Xavier,72,Musketeers,Xavier Musketeers,Xavier
-243392752,2004-12-04,2,120,away,FALSE,Maryland,74,Terrapins,Maryland Terrapins,Maryland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243390167,2005,regular-season,2004-12-04,2,167,home,FALSE,New Mexico,56,Lobos,New Mexico Lobos,New Mexico
+243390167,2005,regular-season,2004-12-04,2,251,away,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
+243390239,2005,regular-season,2004-12-04,2,239,home,FALSE,Baylor,73,Bears,Baylor Bears,Baylor
+243390239,2005,regular-season,2004-12-04,2,2296,away,FALSE,Jackson State,56,Lady Tigers,Jackson State Lady Tigers,Jackson St
+243390150,2005,regular-season,2004-12-04,2,150,home,FALSE,Duke,86,Blue Devils,Duke Blue Devils,Duke
+243390150,2005,regular-season,2004-12-04,2,279,away,FALSE,Pacific,30,Tigers,Pacific Tigers,Pacific
+243392168,2005,regular-season,2004-12-04,2,2168,home,FALSE,Dayton,42,Flyers,Dayton Flyers,Dayton
+243392168,2005,regular-season,2004-12-04,2,194,away,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
+243390193,2005,regular-season,2004-12-04,2,193,home,FALSE,Miami (OH),50,RedHawks,Miami (OH) RedHawks,Miami OH
+243390193,2005,regular-season,2004-12-04,2,238,away,FALSE,Vanderbilt,93,Commodores,Vanderbilt Commodores,Vanderbilt
+243392132,2005,regular-season,2004-12-04,2,2132,home,FALSE,Cincinnati,61,Bearcats,Cincinnati Bearcats,Cincinnati
+243392132,2005,regular-season,2004-12-04,2,127,away,FALSE,Michigan State,77,Spartans,Michigan State Spartans,Michigan St
+243392306,2005,regular-season,2004-12-04,2,2306,home,FALSE,Kansas State,56,Wildcats,Kansas State Wildcats,Kansas St
+243392306,2005,regular-season,2004-12-04,2,2335,away,FALSE,Liberty,77,Flames,Liberty Flames,Liberty
+243390103,2005,regular-season,2004-12-04,2,103,home,FALSE,Boston College,90,Eagles,Boston College Eagles,Boston College
+243390103,2005,regular-season,2004-12-04,2,111,away,FALSE,Northeastern,63,Huskies,Northeastern Huskies,Northeastern
+243392348,2005,regular-season,2004-12-04,3,2348,home,FALSE,Louisiana Tech,65,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+243392348,2005,regular-season,2004-12-04,3,356,away,FALSE,Illinois,71,Fighting Illini,Illinois Fighting Illini,Illinois
+243392752,2005,regular-season,2004-12-04,2,2752,home,FALSE,Xavier,72,Musketeers,Xavier Musketeers,Xavier
+243392752,2005,regular-season,2004-12-04,2,120,away,FALSE,Maryland,74,Terrapins,Maryland Terrapins,Maryland

@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243330153,2004-11-28,2,153,home,FALSE,North Carolina,97,Tar Heels,North Carolina Tar Heels,North Carolina
-243330153,2004-11-28,2,30,away,FALSE,USC,65,Trojans,USC Trojans,USC
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243330153,2005,regular-season,2004-11-28,2,153,home,FALSE,North Carolina,97,Tar Heels,North Carolina Tar Heels,North Carolina
+243330153,2005,regular-season,2004-11-28,2,30,away,FALSE,USC,65,Trojans,USC Trojans,USC

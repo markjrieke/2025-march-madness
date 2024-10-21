@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401494167,2023-01-25,4,251,home,FALSE,Texas,78,Longhorns,Texas Longhorns,Texas
-401494167,2023-01-25,4,201,away,FALSE,Oklahoma,58,Sooners,Oklahoma Sooners,Oklahoma
-401494165,2023-01-25,4,2628,home,FALSE,TCU,35,Horned Frogs,TCU Horned Frogs,TCU
-401494165,2023-01-25,4,66,away,FALSE,Iowa State,75,Cyclones,Iowa State Cyclones,Iowa State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401494167,2023,regular-season,2023-01-25,4,251,home,FALSE,Texas,78,Longhorns,Texas Longhorns,Texas
+401494167,2023,regular-season,2023-01-25,4,201,away,FALSE,Oklahoma,58,Sooners,Oklahoma Sooners,Oklahoma
+401494165,2023,regular-season,2023-01-25,4,2628,home,FALSE,TCU,35,Horned Frogs,TCU Horned Frogs,TCU
+401494165,2023,regular-season,2023-01-25,4,66,away,FALSE,Iowa State,75,Cyclones,Iowa State Cyclones,Iowa State

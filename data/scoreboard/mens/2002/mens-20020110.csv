@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220100150,2002-01-10,2,150,home,FALSE,Duke,104,Blue Devils,Duke Blue Devils,Duke
-220100150,2002-01-10,2,59,away,FALSE,Georgia Tech,79,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-220100030,2002-01-10,2,30,home,FALSE,USC,81,Trojans,USC Trojans,USC
-220100030,2002-01-10,2,26,away,FALSE,UCLA,77,Bruins,UCLA Bruins,UCLA
-220100204,2002-01-10,2,204,home,FALSE,Oregon State,50,Beavers,Oregon State Beavers,Oregon St
-220100204,2002-01-10,2,24,away,FALSE,Stanford,67,Cardinal,Stanford Cardinal,Stanford
-220100265,2002-01-10,2,265,home,FALSE,Washington State,85,Cougars,Washington State Cougars,Washington St
-220100265,2002-01-10,2,12,away,FALSE,Arizona,92,Wildcats,Arizona Wildcats,Arizona
-220102174,2002-01-10,2,2174,home,FALSE,Detroit Mercy,63,Titans,Detroit Mercy Titans,Detroit Mercy
-220102174,2002-01-10,2,2086,away,FALSE,Butler,54,Bulldogs,Butler Bulldogs,Butler
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220100150,2002,regular-season,2002-01-10,2,150,home,FALSE,Duke,104,Blue Devils,Duke Blue Devils,Duke
+220100150,2002,regular-season,2002-01-10,2,59,away,FALSE,Georgia Tech,79,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+220100030,2002,regular-season,2002-01-10,2,30,home,FALSE,USC,81,Trojans,USC Trojans,USC
+220100030,2002,regular-season,2002-01-10,2,26,away,FALSE,UCLA,77,Bruins,UCLA Bruins,UCLA
+220100204,2002,regular-season,2002-01-10,2,204,home,FALSE,Oregon State,50,Beavers,Oregon State Beavers,Oregon St
+220100204,2002,regular-season,2002-01-10,2,24,away,FALSE,Stanford,67,Cardinal,Stanford Cardinal,Stanford
+220100265,2002,regular-season,2002-01-10,2,265,home,FALSE,Washington State,85,Cougars,Washington State Cougars,Washington St
+220100265,2002,regular-season,2002-01-10,2,12,away,FALSE,Arizona,92,Wildcats,Arizona Wildcats,Arizona
+220102174,2002,regular-season,2002-01-10,2,2174,home,FALSE,Detroit Mercy,63,Titans,Detroit Mercy Titans,Detroit Mercy
+220102174,2002,regular-season,2002-01-10,2,2086,away,FALSE,Butler,54,Bulldogs,Butler Bulldogs,Butler

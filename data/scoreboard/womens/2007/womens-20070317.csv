@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-274000027,2007-03-17,2,24,home,FALSE,Stanford,96,Cardinal,Stanford Cardinal,Stanford
-274000027,2007-03-17,2,304,away,FALSE,Idaho State,58,Bengals,Idaho State Bengals,Idaho St
-274000005,2007-03-17,2,194,home,FALSE,Ohio State,63,Buckeyes,Ohio State Buckeyes,Ohio State
-274000005,2007-03-17,2,2368,away,FALSE,Marist,67,Red Foxes,Marist Red Foxes,Marist
-274000009,2007-03-17,2,201,home,FALSE,Oklahoma,74,Sooners,Oklahoma Sooners,Oklahoma
-274000009,2007-03-17,2,2546,away,FALSE,Southeast Missouri State,60,Redhawks,Southeast Missouri State Redhawks,SE Missouri
-274000040,2007-03-17,2,9,home,FALSE,Arizona State,57,Sun Devils,Arizona State Sun Devils,Arizona St
-274000040,2007-03-17,2,27,away,FALSE,UC Riverside,50,Highlanders,UC Riverside Highlanders,UC Riverside
-274000058,2007-03-17,2,2509,home,FALSE,Purdue,63,Boilermakers,Purdue Boilermakers,Purdue
-274000058,2007-03-17,2,198,away,FALSE,Oral Roberts,42,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-274000024,2007-03-17,2,99,home,FALSE,LSU,77,Tigers,LSU Tigers,LSU
-274000024,2007-03-17,2,2427,away,FALSE,UNC Asheville,39,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-274000055,2007-03-17,2,61,home,FALSE,Georgia,53,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-274000055,2007-03-17,2,2057,away,FALSE,Belmont,36,Bruins,Belmont Bruins,Belmont
-274000050,2007-03-17,2,45,home,FALSE,George Washington,76,Revolutionaries,George Washington Revolutionaries,G Washington
-274000050,2007-03-17,2,68,away,FALSE,Boise State,67,Broncos,Boise State Broncos,Boise St
-274000051,2007-03-17,2,245,home,FALSE,Texas A&M,58,Aggies,Texas A&M Aggies,Texas A&M
-274000051,2007-03-17,2,250,away,FALSE,UT Arlington,50,Mavericks,UT Arlington Mavericks,UT Arlington
-274000004,2007-03-17,2,2393,home,FALSE,Middle Tennessee,85,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-274000004,2007-03-17,2,2250,away,FALSE,Gonzaga,46,Bulldogs,Gonzaga Bulldogs,Gonzaga
-274000008,2007-03-17,2,269,home,FALSE,Marquette,87,Golden Eagles,Marquette Golden Eagles,Marquette
-274000008,2007-03-17,2,309,away,FALSE,Louisiana,58,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
-274000054,2007-03-17,2,66,home,FALSE,Iowa State,79,Cyclones,Iowa State Cyclones,Iowa State
-274000054,2007-03-17,2,264,away,FALSE,Washington,60,Huskies,Washington Huskies,Washington
-274000039,2007-03-17,2,97,home,FALSE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
-274000039,2007-03-17,2,252,away,FALSE,BYU,54,Cougars,BYU Cougars,BYU
-274000026,2007-03-17,2,295,home,FALSE,Old Dominion,75,Monarchs,Old Dominion Monarchs,Old Dominion
-274000026,2007-03-17,2,52,away,FALSE,Florida State,85,Seminoles,Florida State Seminoles,Florida St
-274000057,2007-03-17,2,59,home,FALSE,Georgia Tech,55,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-274000057,2007-03-17,2,305,away,FALSE,DePaul,54,Blue Demons,DePaul Blue Demons,DePaul
-274000023,2007-03-17,2,2752,home,FALSE,Xavier,52,Musketeers,Xavier Musketeers,Xavier
-274000023,2007-03-17,2,277,away,FALSE,West Virginia,65,Mountaineers,West Virginia Mountaineers,West Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+274000027,2007,post-season,2007-03-17,2,24,home,FALSE,Stanford,96,Cardinal,Stanford Cardinal,Stanford
+274000027,2007,post-season,2007-03-17,2,304,away,FALSE,Idaho State,58,Bengals,Idaho State Bengals,Idaho St
+274000005,2007,post-season,2007-03-17,2,194,home,FALSE,Ohio State,63,Buckeyes,Ohio State Buckeyes,Ohio State
+274000005,2007,post-season,2007-03-17,2,2368,away,FALSE,Marist,67,Red Foxes,Marist Red Foxes,Marist
+274000009,2007,post-season,2007-03-17,2,201,home,FALSE,Oklahoma,74,Sooners,Oklahoma Sooners,Oklahoma
+274000009,2007,post-season,2007-03-17,2,2546,away,FALSE,Southeast Missouri State,60,Redhawks,Southeast Missouri State Redhawks,SE Missouri
+274000040,2007,post-season,2007-03-17,2,9,home,FALSE,Arizona State,57,Sun Devils,Arizona State Sun Devils,Arizona St
+274000040,2007,post-season,2007-03-17,2,27,away,FALSE,UC Riverside,50,Highlanders,UC Riverside Highlanders,UC Riverside
+274000058,2007,post-season,2007-03-17,2,2509,home,FALSE,Purdue,63,Boilermakers,Purdue Boilermakers,Purdue
+274000058,2007,post-season,2007-03-17,2,198,away,FALSE,Oral Roberts,42,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+274000024,2007,post-season,2007-03-17,2,99,home,FALSE,LSU,77,Tigers,LSU Tigers,LSU
+274000024,2007,post-season,2007-03-17,2,2427,away,FALSE,UNC Asheville,39,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+274000055,2007,post-season,2007-03-17,2,61,home,FALSE,Georgia,53,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+274000055,2007,post-season,2007-03-17,2,2057,away,FALSE,Belmont,36,Bruins,Belmont Bruins,Belmont
+274000050,2007,post-season,2007-03-17,2,45,home,FALSE,George Washington,76,Revolutionaries,George Washington Revolutionaries,G Washington
+274000050,2007,post-season,2007-03-17,2,68,away,FALSE,Boise State,67,Broncos,Boise State Broncos,Boise St
+274000051,2007,post-season,2007-03-17,2,245,home,FALSE,Texas A&M,58,Aggies,Texas A&M Aggies,Texas A&M
+274000051,2007,post-season,2007-03-17,2,250,away,FALSE,UT Arlington,50,Mavericks,UT Arlington Mavericks,UT Arlington
+274000004,2007,post-season,2007-03-17,2,2393,home,FALSE,Middle Tennessee,85,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+274000004,2007,post-season,2007-03-17,2,2250,away,FALSE,Gonzaga,46,Bulldogs,Gonzaga Bulldogs,Gonzaga
+274000008,2007,post-season,2007-03-17,2,269,home,FALSE,Marquette,87,Golden Eagles,Marquette Golden Eagles,Marquette
+274000008,2007,post-season,2007-03-17,2,309,away,FALSE,Louisiana,58,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+274000054,2007,post-season,2007-03-17,2,66,home,FALSE,Iowa State,79,Cyclones,Iowa State Cyclones,Iowa State
+274000054,2007,post-season,2007-03-17,2,264,away,FALSE,Washington,60,Huskies,Washington Huskies,Washington
+274000039,2007,post-season,2007-03-17,2,97,home,FALSE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
+274000039,2007,post-season,2007-03-17,2,252,away,FALSE,BYU,54,Cougars,BYU Cougars,BYU
+274000026,2007,post-season,2007-03-17,2,295,home,FALSE,Old Dominion,75,Monarchs,Old Dominion Monarchs,Old Dominion
+274000026,2007,post-season,2007-03-17,2,52,away,FALSE,Florida State,85,Seminoles,Florida State Seminoles,Florida St
+274000057,2007,post-season,2007-03-17,2,59,home,FALSE,Georgia Tech,55,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+274000057,2007,post-season,2007-03-17,2,305,away,FALSE,DePaul,54,Blue Demons,DePaul Blue Demons,DePaul
+274000023,2007,post-season,2007-03-17,2,2752,home,FALSE,Xavier,52,Musketeers,Xavier Musketeers,Xavier
+274000023,2007,post-season,2007-03-17,2,277,away,FALSE,West Virginia,65,Mountaineers,West Virginia Mountaineers,West Virginia

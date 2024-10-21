@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313380135,2011-12-04,2,135,home,FALSE,Minnesota,60,Golden Gophers,Minnesota Golden Gophers,Minnesota
-313380135,2011-12-04,2,239,away,FALSE,Baylor,89,Bears,Baylor Bears,Baylor
-313380156,2011-12-04,2,156,home,FALSE,Creighton,48,Bluejays,Creighton Bluejays,Creighton
-313380156,2011-12-04,2,87,away,FALSE,Notre Dame,76,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-313382509,2011-12-04,2,2509,home,FALSE,Purdue,60,Boilermakers,Purdue Boilermakers,Purdue
-313382509,2011-12-04,2,245,away,FALSE,Texas A&M,51,Aggies,Texas A&M Aggies,Texas A&M
-313380278,2011-12-04,2,278,home,FALSE,Fresno State,59,Bulldogs,Fresno State Bulldogs,Fresno St
-313380278,2011-12-04,2,24,away,FALSE,Stanford,93,Cardinal,Stanford Cardinal,Stanford
-313380044,2011-12-04,2,44,home,FALSE,American University,42,Eagles,American University Eagles,American
-313380044,2011-12-04,2,120,away,FALSE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
-313380150,2011-12-04,2,150,home,FALSE,Duke,92,Blue Devils,Duke Blue Devils,Duke
-313380150,2011-12-04,2,221,away,FALSE,Pittsburgh,43,Panthers,Pittsburgh Panthers,Pitt
-313382633,2011-12-04,2,2633,home,FALSE,Tennessee,73,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-313382633,2011-12-04,2,251,away,FALSE,Texas,57,Longhorns,Texas Longhorns,Texas
-313380096,2011-12-04,2,96,home,FALSE,Kentucky,74,Wildcats,Kentucky Wildcats,Kentucky
-313380096,2011-12-04,2,97,away,FALSE,Louisville,54,Cardinals,Louisville Cardinals,Louisville
-313380061,2011-12-04,2,61,home,FALSE,Georgia,75,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-313380061,2011-12-04,2,59,away,FALSE,Georgia Tech,68,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-313380201,2011-12-04,2,201,home,FALSE,Oklahoma,63,Sooners,Oklahoma Sooners,Oklahoma
-313380201,2011-12-04,2,194,away,FALSE,Ohio State,69,Buckeyes,Ohio State Buckeyes,Ohio State
-313380046,2011-12-04,2,46,home,FALSE,Georgetown,58,Hoyas,Georgetown Hoyas,Georgetown
-313380046,2011-12-04,2,2520,away,FALSE,Rider,51,Broncs,Rider Broncs,Rider
-313382739,2011-12-04,2,2739,home,FALSE,Green Bay,75,Phoenix,Green Bay Phoenix,Green Bay
-313382739,2011-12-04,2,2460,away,FALSE,Northern Iowa,67,Panthers,Northern Iowa Panthers,Northern Iowa
-313380048,2011-12-04,2,48,home,FALSE,Delaware,73,Blue Hens,Delaware Blue Hens,Delaware
-313380048,2011-12-04,2,2729,away,FALSE,William & Mary,57,Tribe,William & Mary Tribe,William & Mary
-313380238,2011-12-04,2,238,home,FALSE,Vanderbilt,70,Commodores,Vanderbilt Commodores,Vanderbilt
-313380238,2011-12-04,2,2272,away,FALSE,High Point,54,Panthers,High Point Panthers,High Point
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313380135,2012,regular-season,2011-12-04,2,135,home,FALSE,Minnesota,60,Golden Gophers,Minnesota Golden Gophers,Minnesota
+313380135,2012,regular-season,2011-12-04,2,239,away,FALSE,Baylor,89,Bears,Baylor Bears,Baylor
+313380156,2012,regular-season,2011-12-04,2,156,home,FALSE,Creighton,48,Bluejays,Creighton Bluejays,Creighton
+313380156,2012,regular-season,2011-12-04,2,87,away,FALSE,Notre Dame,76,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+313382509,2012,regular-season,2011-12-04,2,2509,home,FALSE,Purdue,60,Boilermakers,Purdue Boilermakers,Purdue
+313382509,2012,regular-season,2011-12-04,2,245,away,FALSE,Texas A&M,51,Aggies,Texas A&M Aggies,Texas A&M
+313380278,2012,regular-season,2011-12-04,2,278,home,FALSE,Fresno State,59,Bulldogs,Fresno State Bulldogs,Fresno St
+313380278,2012,regular-season,2011-12-04,2,24,away,FALSE,Stanford,93,Cardinal,Stanford Cardinal,Stanford
+313380044,2012,regular-season,2011-12-04,2,44,home,FALSE,American University,42,Eagles,American University Eagles,American
+313380044,2012,regular-season,2011-12-04,2,120,away,FALSE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
+313380150,2012,regular-season,2011-12-04,2,150,home,FALSE,Duke,92,Blue Devils,Duke Blue Devils,Duke
+313380150,2012,regular-season,2011-12-04,2,221,away,FALSE,Pittsburgh,43,Panthers,Pittsburgh Panthers,Pitt
+313382633,2012,regular-season,2011-12-04,2,2633,home,FALSE,Tennessee,73,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+313382633,2012,regular-season,2011-12-04,2,251,away,FALSE,Texas,57,Longhorns,Texas Longhorns,Texas
+313380096,2012,regular-season,2011-12-04,2,96,home,FALSE,Kentucky,74,Wildcats,Kentucky Wildcats,Kentucky
+313380096,2012,regular-season,2011-12-04,2,97,away,FALSE,Louisville,54,Cardinals,Louisville Cardinals,Louisville
+313380061,2012,regular-season,2011-12-04,2,61,home,FALSE,Georgia,75,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+313380061,2012,regular-season,2011-12-04,2,59,away,FALSE,Georgia Tech,68,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+313380201,2012,regular-season,2011-12-04,2,201,home,FALSE,Oklahoma,63,Sooners,Oklahoma Sooners,Oklahoma
+313380201,2012,regular-season,2011-12-04,2,194,away,FALSE,Ohio State,69,Buckeyes,Ohio State Buckeyes,Ohio State
+313380046,2012,regular-season,2011-12-04,2,46,home,FALSE,Georgetown,58,Hoyas,Georgetown Hoyas,Georgetown
+313380046,2012,regular-season,2011-12-04,2,2520,away,FALSE,Rider,51,Broncs,Rider Broncs,Rider
+313382739,2012,regular-season,2011-12-04,2,2739,home,FALSE,Green Bay,75,Phoenix,Green Bay Phoenix,Green Bay
+313382739,2012,regular-season,2011-12-04,2,2460,away,FALSE,Northern Iowa,67,Panthers,Northern Iowa Panthers,Northern Iowa
+313380048,2012,regular-season,2011-12-04,2,48,home,FALSE,Delaware,73,Blue Hens,Delaware Blue Hens,Delaware
+313380048,2012,regular-season,2011-12-04,2,2729,away,FALSE,William & Mary,57,Tribe,William & Mary Tribe,William & Mary
+313380238,2012,regular-season,2011-12-04,2,238,home,FALSE,Vanderbilt,70,Commodores,Vanderbilt Commodores,Vanderbilt
+313380238,2012,regular-season,2011-12-04,2,2272,away,FALSE,High Point,54,Panthers,High Point Panthers,High Point

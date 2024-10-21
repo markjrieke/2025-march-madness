@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400995002,2017-12-19,4,150,home,FALSE,Duke,69,Blue Devils,Duke Blue Devils,Duke
-400995002,2017-12-19,4,311,away,FALSE,Maine,39,Black Bears,Maine Black Bears,Maine
-400993760,2017-12-19,4,77,home,FALSE,Northwestern,57,Wildcats,Northwestern Wildcats,Northwestern
-400993760,2017-12-19,4,2739,away,FALSE,Green Bay,63,Phoenix,Green Bay Phoenix,Green Bay
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400995002,2018,regular-season,2017-12-19,4,150,home,FALSE,Duke,69,Blue Devils,Duke Blue Devils,Duke
+400995002,2018,regular-season,2017-12-19,4,311,away,FALSE,Maine,39,Black Bears,Maine Black Bears,Maine
+400993760,2018,regular-season,2017-12-19,4,77,home,FALSE,Northwestern,57,Wildcats,Northwestern Wildcats,Northwestern
+400993760,2018,regular-season,2017-12-19,4,2739,away,FALSE,Green Bay,63,Phoenix,Green Bay Phoenix,Green Bay

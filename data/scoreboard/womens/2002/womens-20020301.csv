@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220602633,2002-03-01,2,2633,home,FALSE,Tennessee,81,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-220602633,2002-03-01,2,61,away,FALSE,Georgia,67,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-220600150,2002-03-01,2,150,home,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
-220600150,2002-03-01,2,52,away,FALSE,Florida State,66,Seminoles,Florida State Seminoles,Florida St
-220600238,2002-03-01,2,238,home,FALSE,Vanderbilt,55,Commodores,Vanderbilt Commodores,Vanderbilt
-220600238,2002-03-01,2,2,away,FALSE,Auburn,39,Tigers,Auburn Tigers,Auburn
-220602509,2002-03-01,3,2509,home,FALSE,Purdue,74,Boilermakers,Purdue Boilermakers,Purdue
-220602509,2002-03-01,3,130,away,FALSE,Michigan,67,Wolverines,Michigan Wolverines,Michigan
-220602579,2002-03-01,2,2579,home,FALSE,South Carolina,61,Gamecocks,South Carolina Gamecocks,South Carolina
-220602579,2002-03-01,2,8,away,FALSE,Arkansas,79,Razorbacks,Arkansas Razorbacks,Arkansas
-220600295,2002-03-01,2,295,home,FALSE,Old Dominion,70,Monarchs,Old Dominion Monarchs,Old Dominion
-220600295,2002-03-01,2,2729,away,FALSE,William & Mary,36,Tribe,William & Mary Tribe,William & Mary
-220600135,2002-03-01,2,135,home,FALSE,Minnesota,64,Golden Gophers,Minnesota Golden Gophers,Minnesota
-220600135,2002-03-01,2,275,away,FALSE,Wisconsin,74,Badgers,Wisconsin Badgers,Wisconsin
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220602633,2002,regular-season,2002-03-01,2,2633,home,FALSE,Tennessee,81,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+220602633,2002,regular-season,2002-03-01,2,61,away,FALSE,Georgia,67,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+220600150,2002,regular-season,2002-03-01,2,150,home,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
+220600150,2002,regular-season,2002-03-01,2,52,away,FALSE,Florida State,66,Seminoles,Florida State Seminoles,Florida St
+220600238,2002,regular-season,2002-03-01,2,238,home,FALSE,Vanderbilt,55,Commodores,Vanderbilt Commodores,Vanderbilt
+220600238,2002,regular-season,2002-03-01,2,2,away,FALSE,Auburn,39,Tigers,Auburn Tigers,Auburn
+220602509,2002,regular-season,2002-03-01,3,2509,home,FALSE,Purdue,74,Boilermakers,Purdue Boilermakers,Purdue
+220602509,2002,regular-season,2002-03-01,3,130,away,FALSE,Michigan,67,Wolverines,Michigan Wolverines,Michigan
+220602579,2002,regular-season,2002-03-01,2,2579,home,FALSE,South Carolina,61,Gamecocks,South Carolina Gamecocks,South Carolina
+220602579,2002,regular-season,2002-03-01,2,8,away,FALSE,Arkansas,79,Razorbacks,Arkansas Razorbacks,Arkansas
+220600295,2002,regular-season,2002-03-01,2,295,home,FALSE,Old Dominion,70,Monarchs,Old Dominion Monarchs,Old Dominion
+220600295,2002,regular-season,2002-03-01,2,2729,away,FALSE,William & Mary,36,Tribe,William & Mary Tribe,William & Mary
+220600135,2002,regular-season,2002-03-01,2,135,home,FALSE,Minnesota,64,Golden Gophers,Minnesota Golden Gophers,Minnesota
+220600135,2002,regular-season,2002-03-01,2,275,away,FALSE,Wisconsin,74,Badgers,Wisconsin Badgers,Wisconsin

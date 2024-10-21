@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253492633,2005-12-15,2,2633,home,FALSE,Tennessee,83,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-253492633,2005-12-15,2,2348,away,FALSE,Louisiana Tech,59,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-253490194,2005-12-15,2,194,home,FALSE,Ohio State,48,Buckeyes,Ohio State Buckeyes,Ohio State
-253490194,2005-12-15,2,99,away,FALSE,LSU,64,Tigers,LSU Tigers,LSU
-253490278,2005-12-15,2,278,home,FALSE,Fresno State,52,Bulldogs,Fresno State Bulldogs,Fresno St
-253490278,2005-12-15,2,9,away,FALSE,Arizona State,68,Sun Devils,Arizona State Sun Devils,Arizona St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253492633,2006,regular-season,2005-12-15,2,2633,home,FALSE,Tennessee,83,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+253492633,2006,regular-season,2005-12-15,2,2348,away,FALSE,Louisiana Tech,59,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+253490194,2006,regular-season,2005-12-15,2,194,home,FALSE,Ohio State,48,Buckeyes,Ohio State Buckeyes,Ohio State
+253490194,2006,regular-season,2005-12-15,2,99,away,FALSE,LSU,64,Tigers,LSU Tigers,LSU
+253490278,2006,regular-season,2005-12-15,2,278,home,FALSE,Fresno State,52,Bulldogs,Fresno State Bulldogs,Fresno St
+253490278,2006,regular-season,2005-12-15,2,9,away,FALSE,Arizona State,68,Sun Devils,Arizona State Sun Devils,Arizona St

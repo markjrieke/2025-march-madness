@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240580150,2004-02-27,2,150,home,FALSE,Duke,102,Blue Devils,Duke Blue Devils,Duke
-240580150,2004-02-27,2,228,away,FALSE,Clemson,45,Tigers,Clemson Tigers,Clemson
-240580248,2004-02-27,2,248,home,FALSE,Houston,76,Cougars,Houston Cougars,Houston
-240580248,2004-02-27,2,2628,away,FALSE,TCU,71,Horned Frogs,TCU Horned Frogs,TCU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240580150,2004,regular-season,2004-02-27,2,150,home,FALSE,Duke,102,Blue Devils,Duke Blue Devils,Duke
+240580150,2004,regular-season,2004-02-27,2,228,away,FALSE,Clemson,45,Tigers,Clemson Tigers,Clemson
+240580248,2004,regular-season,2004-02-27,2,248,home,FALSE,Houston,76,Cougars,Houston Cougars,Houston
+240580248,2004,regular-season,2004-02-27,2,2628,away,FALSE,TCU,71,Horned Frogs,TCU Horned Frogs,TCU

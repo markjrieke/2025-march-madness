@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401637557,2024-03-22,4,2579,home,FALSE,South Carolina,91,Gamecocks,South Carolina Gamecocks,South Carolina
-401637557,2024-03-22,4,2506,away,FALSE,Presbyterian,39,Blue Hose,Presbyterian Blue Hose,Presbyterian
-401637549,2024-03-22,4,251,home,FALSE,Texas,82,Longhorns,Texas Longhorns,Texas
-401637549,2024-03-22,4,2182,away,FALSE,Drexel,42,Dragons,Drexel Dragons,Drexel
-401637558,2024-03-22,4,194,home,FALSE,Ohio State,80,Buckeyes,Ohio State Buckeyes,Ohio State
-401637558,2024-03-22,4,311,away,FALSE,Maine,57,Black Bears,Maine Black Bears,Maine
-401637550,2024-03-22,4,24,home,FALSE,Stanford,79,Cardinal,Stanford Cardinal,Stanford
-401637550,2024-03-22,4,2450,away,FALSE,Norfolk State,50,Spartans,Norfolk State Spartans,Norfolk St
-401637556,2024-03-22,4,99,home,FALSE,LSU,70,Tigers,LSU Tigers,LSU
-401637556,2024-03-22,4,242,away,FALSE,Rice,60,Owls,Rice Owls,Rice
-401637547,2024-03-22,4,204,home,FALSE,Oregon State,73,Beavers,Oregon State Beavers,Oregon St
-401637547,2024-03-22,4,331,away,FALSE,Eastern Washington,51,Eagles,Eastern Washington Eagles,E Washington
-401637553,2024-03-22,4,259,home,FALSE,Virginia Tech,92,Hokies,Virginia Tech Hokies,Virginia Tech
-401637553,2024-03-22,4,276,away,FALSE,Marshall,49,Thundering Herd,Marshall Thundering Herd,Marshall
-401637544,2024-03-22,4,2306,home,FALSE,Kansas State,78,Wildcats,Kansas State Wildcats,Kansas St
-401637544,2024-03-22,4,2501,away,FALSE,Portland,65,Pilots,Portland Pilots,Portland
-401637548,2024-03-22,4,239,home,TRUE,Baylor,80,Bears,Baylor Bears,Baylor
-401637548,2024-03-22,4,238,away,TRUE,Vanderbilt,63,Commodores,Vanderbilt Commodores,Vanderbilt
-401637543,2024-03-22,4,38,home,TRUE,Colorado,86,Buffaloes,Colorado Buffaloes,Colorado
-401637543,2024-03-22,4,2181,away,TRUE,Drake,72,Bulldogs,Drake Bulldogs,Drake
-401637554,2024-03-22,4,97,home,TRUE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
-401637554,2024-03-22,4,2393,away,TRUE,Middle Tennessee,71,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-401637546,2024-03-22,4,158,home,TRUE,Nebraska,61,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401637546,2024-03-22,4,245,away,TRUE,Texas A&M,59,Aggies,Texas A&M Aggies,Texas A&M
-401637545,2024-03-22,4,150,home,TRUE,Duke,72,Blue Devils,Duke Blue Devils,Duke
-401637545,2024-03-22,4,257,away,TRUE,Richmond,61,Spiders,Richmond Spiders,Richmond
-401637551,2024-03-22,4,66,home,TRUE,Iowa State,93,Cyclones,Iowa State Cyclones,Iowa State
-401637551,2024-03-22,4,120,away,TRUE,Maryland,86,Terrapins,Maryland Terrapins,Maryland
-401637555,2024-03-22,4,153,home,TRUE,North Carolina,59,Tar Heels,North Carolina Tar Heels,North Carolina
-401637555,2024-03-22,4,127,away,TRUE,Michigan State,56,Spartans,Michigan State Spartans,Michigan St
-401637552,2024-03-22,4,333,home,TRUE,Alabama,82,Crimson Tide,Alabama Crimson Tide,Alabama
-401637552,2024-03-22,4,52,away,TRUE,Florida State,74,Seminoles,Florida State Seminoles,Florida St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401637557,2024,post-season,2024-03-22,4,2579,home,FALSE,South Carolina,91,Gamecocks,South Carolina Gamecocks,South Carolina
+401637557,2024,post-season,2024-03-22,4,2506,away,FALSE,Presbyterian,39,Blue Hose,Presbyterian Blue Hose,Presbyterian
+401637549,2024,post-season,2024-03-22,4,251,home,FALSE,Texas,82,Longhorns,Texas Longhorns,Texas
+401637549,2024,post-season,2024-03-22,4,2182,away,FALSE,Drexel,42,Dragons,Drexel Dragons,Drexel
+401637558,2024,post-season,2024-03-22,4,194,home,FALSE,Ohio State,80,Buckeyes,Ohio State Buckeyes,Ohio State
+401637558,2024,post-season,2024-03-22,4,311,away,FALSE,Maine,57,Black Bears,Maine Black Bears,Maine
+401637550,2024,post-season,2024-03-22,4,24,home,FALSE,Stanford,79,Cardinal,Stanford Cardinal,Stanford
+401637550,2024,post-season,2024-03-22,4,2450,away,FALSE,Norfolk State,50,Spartans,Norfolk State Spartans,Norfolk St
+401637556,2024,post-season,2024-03-22,4,99,home,FALSE,LSU,70,Tigers,LSU Tigers,LSU
+401637556,2024,post-season,2024-03-22,4,242,away,FALSE,Rice,60,Owls,Rice Owls,Rice
+401637547,2024,post-season,2024-03-22,4,204,home,FALSE,Oregon State,73,Beavers,Oregon State Beavers,Oregon St
+401637547,2024,post-season,2024-03-22,4,331,away,FALSE,Eastern Washington,51,Eagles,Eastern Washington Eagles,E Washington
+401637553,2024,post-season,2024-03-22,4,259,home,FALSE,Virginia Tech,92,Hokies,Virginia Tech Hokies,Virginia Tech
+401637553,2024,post-season,2024-03-22,4,276,away,FALSE,Marshall,49,Thundering Herd,Marshall Thundering Herd,Marshall
+401637544,2024,post-season,2024-03-22,4,2306,home,FALSE,Kansas State,78,Wildcats,Kansas State Wildcats,Kansas St
+401637544,2024,post-season,2024-03-22,4,2501,away,FALSE,Portland,65,Pilots,Portland Pilots,Portland
+401637548,2024,post-season,2024-03-22,4,239,home,TRUE,Baylor,80,Bears,Baylor Bears,Baylor
+401637548,2024,post-season,2024-03-22,4,238,away,TRUE,Vanderbilt,63,Commodores,Vanderbilt Commodores,Vanderbilt
+401637543,2024,post-season,2024-03-22,4,38,home,TRUE,Colorado,86,Buffaloes,Colorado Buffaloes,Colorado
+401637543,2024,post-season,2024-03-22,4,2181,away,TRUE,Drake,72,Bulldogs,Drake Bulldogs,Drake
+401637554,2024,post-season,2024-03-22,4,97,home,TRUE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
+401637554,2024,post-season,2024-03-22,4,2393,away,TRUE,Middle Tennessee,71,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+401637546,2024,post-season,2024-03-22,4,158,home,TRUE,Nebraska,61,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401637546,2024,post-season,2024-03-22,4,245,away,TRUE,Texas A&M,59,Aggies,Texas A&M Aggies,Texas A&M
+401637545,2024,post-season,2024-03-22,4,150,home,TRUE,Duke,72,Blue Devils,Duke Blue Devils,Duke
+401637545,2024,post-season,2024-03-22,4,257,away,TRUE,Richmond,61,Spiders,Richmond Spiders,Richmond
+401637551,2024,post-season,2024-03-22,4,66,home,TRUE,Iowa State,93,Cyclones,Iowa State Cyclones,Iowa State
+401637551,2024,post-season,2024-03-22,4,120,away,TRUE,Maryland,86,Terrapins,Maryland Terrapins,Maryland
+401637555,2024,post-season,2024-03-22,4,153,home,TRUE,North Carolina,59,Tar Heels,North Carolina Tar Heels,North Carolina
+401637555,2024,post-season,2024-03-22,4,127,away,TRUE,Michigan State,56,Spartans,Michigan State Spartans,Michigan St
+401637552,2024,post-season,2024-03-22,4,333,home,TRUE,Alabama,82,Crimson Tide,Alabama Crimson Tide,Alabama
+401637552,2024,post-season,2024-03-22,4,52,away,TRUE,Florida State,74,Seminoles,Florida State Seminoles,Florida St

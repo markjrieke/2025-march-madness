@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400839173,2016-01-24,2,259,home,FALSE,Virginia Tech,70,Hokies,Virginia Tech Hokies,Virginia Tech
-400839173,2016-01-24,2,153,away,FALSE,North Carolina,75,Tar Heels,North Carolina Tar Heels,North Carolina
-400861696,2016-01-24,3,222,home,FALSE,Villanova,76,Wildcats,Villanova Wildcats,Villanova
-400861696,2016-01-24,3,2507,away,FALSE,Providence,82,Friars,Providence Friars,Providence
-400861699,2016-01-24,2,218,home,FALSE,Temple,89,Owls,Temple Owls,Temple
-400861699,2016-01-24,2,2567,away,FALSE,SMU,80,Mustangs,SMU Mustangs,SMU
-400839306,2016-01-24,2,2294,home,FALSE,Iowa,83,Hawkeyes,Iowa Hawkeyes,Iowa
-400839306,2016-01-24,2,2509,away,FALSE,Purdue,71,Boilermakers,Purdue Boilermakers,Purdue
-400839201,2016-01-24,2,258,home,FALSE,Virginia,73,Cavaliers,Virginia Cavaliers,Virginia
-400839201,2016-01-24,2,183,away,FALSE,Syracuse,65,Orange,Syracuse Orange,Syracuse
-400841635,2016-01-24,2,204,home,FALSE,Oregon State,85,Beavers,Oregon State Beavers,Oregon St
-400841635,2016-01-24,2,30,away,FALSE,USC,70,Trojans,USC Trojans,USC
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400839173,2016,regular-season,2016-01-24,2,259,home,FALSE,Virginia Tech,70,Hokies,Virginia Tech Hokies,Virginia Tech
+400839173,2016,regular-season,2016-01-24,2,153,away,FALSE,North Carolina,75,Tar Heels,North Carolina Tar Heels,North Carolina
+400861696,2016,regular-season,2016-01-24,3,222,home,FALSE,Villanova,76,Wildcats,Villanova Wildcats,Villanova
+400861696,2016,regular-season,2016-01-24,3,2507,away,FALSE,Providence,82,Friars,Providence Friars,Providence
+400861699,2016,regular-season,2016-01-24,2,218,home,FALSE,Temple,89,Owls,Temple Owls,Temple
+400861699,2016,regular-season,2016-01-24,2,2567,away,FALSE,SMU,80,Mustangs,SMU Mustangs,SMU
+400839306,2016,regular-season,2016-01-24,2,2294,home,FALSE,Iowa,83,Hawkeyes,Iowa Hawkeyes,Iowa
+400839306,2016,regular-season,2016-01-24,2,2509,away,FALSE,Purdue,71,Boilermakers,Purdue Boilermakers,Purdue
+400839201,2016,regular-season,2016-01-24,2,258,home,FALSE,Virginia,73,Cavaliers,Virginia Cavaliers,Virginia
+400839201,2016,regular-season,2016-01-24,2,183,away,FALSE,Syracuse,65,Orange,Syracuse Orange,Syracuse
+400841635,2016,regular-season,2016-01-24,2,204,home,FALSE,Oregon State,85,Beavers,Oregon State Beavers,Oregon St
+400841635,2016,regular-season,2016-01-24,2,30,away,FALSE,USC,70,Trojans,USC Trojans,USC

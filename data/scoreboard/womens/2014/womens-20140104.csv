@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400511001,2014-01-04,2,235,home,FALSE,Memphis,49,Tigers,Memphis Tigers,Memphis
-400511001,2014-01-04,2,41,away,FALSE,UConn,90,Huskies,UConn Huskies,UConn
-400510918,2014-01-04,2,97,home,FALSE,Louisville,64,Cardinals,Louisville Cardinals,Louisville
-400510918,2014-01-04,2,2132,away,FALSE,Cincinnati,45,Bearcats,Cincinnati Bearcats,Cincinnati
-400503749,2014-01-04,2,197,home,FALSE,Oklahoma State,67,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-400503749,2014-01-04,2,277,away,FALSE,West Virginia,71,Mountaineers,West Virginia Mountaineers,West Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400511001,2014,regular-season,2014-01-04,2,235,home,FALSE,Memphis,49,Tigers,Memphis Tigers,Memphis
+400511001,2014,regular-season,2014-01-04,2,41,away,FALSE,UConn,90,Huskies,UConn Huskies,UConn
+400510918,2014,regular-season,2014-01-04,2,97,home,FALSE,Louisville,64,Cardinals,Louisville Cardinals,Louisville
+400510918,2014,regular-season,2014-01-04,2,2132,away,FALSE,Cincinnati,45,Bearcats,Cincinnati Bearcats,Cincinnati
+400503749,2014,regular-season,2014-01-04,2,197,home,FALSE,Oklahoma State,67,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+400503749,2014,regular-season,2014-01-04,2,277,away,FALSE,West Virginia,71,Mountaineers,West Virginia Mountaineers,West Virginia

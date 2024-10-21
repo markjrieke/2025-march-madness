@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300690046,2010-03-10,2,46,home,TRUE,Georgetown,69,Hoyas,Georgetown Hoyas,Georgetown
-300690046,2010-03-10,2,58,away,TRUE,South Florida,49,Bulls,South Florida Bulls,South Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300690046,2010,regular-season,2010-03-10,2,46,home,TRUE,Georgetown,69,Hoyas,Georgetown Hoyas,Georgetown
+300690046,2010,regular-season,2010-03-10,2,58,away,TRUE,South Florida,49,Bulls,South Florida Bulls,South Florida

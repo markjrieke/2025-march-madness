@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240560113,2004-02-25,2,113,home,FALSE,Massachusetts,58,Minutemen,Massachusetts Minutemen,UMass
-240560113,2004-02-25,2,2603,away,FALSE,Saint Joseph's,83,Hawks,Saint Joseph's Hawks,Saint Joseph's
-240560344,2004-02-25,2,344,home,FALSE,Mississippi State,84,Bulldogs,Mississippi State Bulldogs,Mississippi St
-240560344,2004-02-25,2,99,away,FALSE,LSU,58,Tigers,LSU Tigers,LSU
-240560096,2004-02-25,2,96,home,FALSE,Kentucky,92,Wildcats,Kentucky Wildcats,Kentucky
-240560096,2004-02-25,2,2633,away,FALSE,Tennessee,60,Volunteers,Tennessee Volunteers,Tennessee
-240560154,2004-02-25,3,154,home,FALSE,Wake Forest,90,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-240560154,2004-02-25,3,52,away,FALSE,Florida State,87,Seminoles,Florida State Seminoles,Florida St
-240560059,2004-02-25,2,59,home,FALSE,Georgia Tech,69,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-240560059,2004-02-25,2,152,away,FALSE,NC State,79,Wolfpack,NC State Wolfpack,NC State
-240562132,2004-02-25,2,2132,home,FALSE,Cincinnati,77,Bearcats,Cincinnati Bearcats,Cincinnati
-240562132,2004-02-25,2,139,away,FALSE,Saint Louis,52,Billikens,Saint Louis Billikens,Saint Louis
-240560097,2004-02-25,3,97,home,FALSE,Louisville,58,Cardinals,Louisville Cardinals,Louisville
-240560097,2004-02-25,3,305,away,FALSE,DePaul,60,Blue Demons,DePaul Blue Demons,DePaul
-240560275,2004-02-25,2,275,home,FALSE,Wisconsin,68,Badgers,Wisconsin Badgers,Wisconsin
-240560275,2004-02-25,2,213,away,FALSE,Penn State,45,Nittany Lions,Penn State Nittany Lions,Penn State
-240562294,2004-02-25,2,2294,home,FALSE,Iowa,59,Hawkeyes,Iowa Hawkeyes,Iowa
-240562294,2004-02-25,2,356,away,FALSE,Illinois,78,Fighting Illini,Illinois Fighting Illini,Illinois
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240560113,2004,regular-season,2004-02-25,2,113,home,FALSE,Massachusetts,58,Minutemen,Massachusetts Minutemen,UMass
+240560113,2004,regular-season,2004-02-25,2,2603,away,FALSE,Saint Joseph's,83,Hawks,Saint Joseph's Hawks,Saint Joseph's
+240560344,2004,regular-season,2004-02-25,2,344,home,FALSE,Mississippi State,84,Bulldogs,Mississippi State Bulldogs,Mississippi St
+240560344,2004,regular-season,2004-02-25,2,99,away,FALSE,LSU,58,Tigers,LSU Tigers,LSU
+240560096,2004,regular-season,2004-02-25,2,96,home,FALSE,Kentucky,92,Wildcats,Kentucky Wildcats,Kentucky
+240560096,2004,regular-season,2004-02-25,2,2633,away,FALSE,Tennessee,60,Volunteers,Tennessee Volunteers,Tennessee
+240560154,2004,regular-season,2004-02-25,3,154,home,FALSE,Wake Forest,90,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+240560154,2004,regular-season,2004-02-25,3,52,away,FALSE,Florida State,87,Seminoles,Florida State Seminoles,Florida St
+240560059,2004,regular-season,2004-02-25,2,59,home,FALSE,Georgia Tech,69,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+240560059,2004,regular-season,2004-02-25,2,152,away,FALSE,NC State,79,Wolfpack,NC State Wolfpack,NC State
+240562132,2004,regular-season,2004-02-25,2,2132,home,FALSE,Cincinnati,77,Bearcats,Cincinnati Bearcats,Cincinnati
+240562132,2004,regular-season,2004-02-25,2,139,away,FALSE,Saint Louis,52,Billikens,Saint Louis Billikens,Saint Louis
+240560097,2004,regular-season,2004-02-25,3,97,home,FALSE,Louisville,58,Cardinals,Louisville Cardinals,Louisville
+240560097,2004,regular-season,2004-02-25,3,305,away,FALSE,DePaul,60,Blue Demons,DePaul Blue Demons,DePaul
+240560275,2004,regular-season,2004-02-25,2,275,home,FALSE,Wisconsin,68,Badgers,Wisconsin Badgers,Wisconsin
+240560275,2004,regular-season,2004-02-25,2,213,away,FALSE,Penn State,45,Nittany Lions,Penn State Nittany Lions,Penn State
+240562294,2004,regular-season,2004-02-25,2,2294,home,FALSE,Iowa,59,Hawkeyes,Iowa Hawkeyes,Iowa
+240562294,2004,regular-season,2004-02-25,2,356,away,FALSE,Illinois,78,Fighting Illini,Illinois Fighting Illini,Illinois

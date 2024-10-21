@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313300050,2011-11-26,2,50,home,FALSE,Florida A&M,66,Rattlers,Florida A&M Rattlers,Florida A&M
-313300050,2011-11-26,2,97,away,FALSE,Louisville,86,Cardinals,Louisville Cardinals,Louisville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313300050,2012,regular-season,2011-11-26,2,50,home,FALSE,Florida A&M,66,Rattlers,Florida A&M Rattlers,Florida A&M
+313300050,2012,regular-season,2011-11-26,2,97,away,FALSE,Louisville,86,Cardinals,Louisville Cardinals,Louisville

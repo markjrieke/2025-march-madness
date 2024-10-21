@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300232099,2010-01-22,2,2099,home,FALSE,Canisius,74,Golden Griffins,Canisius Golden Griffins,Canisius
-300232099,2010-01-22,2,2520,away,FALSE,Rider,58,Broncs,Rider Broncs,Rider
-300230315,2010-01-22,2,315,home,FALSE,Niagara,65,Purple Eagles,Niagara Purple Eagles,Niagara
-300230315,2010-01-22,2,2612,away,FALSE,Saint Peter's,74,Peacocks,Saint Peter's Peacocks,Saint Peter's
-300222754,2010-01-22,2,2754,home,FALSE,Youngstown State,59,Penguins,Youngstown State Penguins,Youngstown St
-300222754,2010-01-22,2,270,away,FALSE,Milwaukee,69,Panthers,Milwaukee Panthers,Milwaukee
-300220232,2010-01-22,2,232,home,FALSE,Charleston,70,Cougars,Charleston Cougars,Charleston
-300220232,2010-01-22,2,2747,away,FALSE,Wofford,68,Terriers,Wofford Terriers,Wofford
-300220225,2010-01-22,2,225,home,FALSE,Brown,63,Bears,Brown Bears,Brown
-300220225,2010-01-22,2,43,away,FALSE,Yale,71,Bulldogs,Yale Bulldogs,Yale
-300220056,2010-01-22,2,56,home,FALSE,Stetson,76,Hatters,Stetson Hatters,Stetson
-300220056,2010-01-22,2,2382,away,FALSE,Mercer,69,Bears,Mercer Bears,Mercer
-300230526,2010-01-22,2,526,home,FALSE,Florida Gulf Coast,68,Eagles,Florida Gulf Coast Eagles,FGCU
-300230526,2010-01-22,2,338,away,FALSE,Kennesaw State,69,Owls,Kennesaw State Owls,Kennesaw St
-300230325,2010-01-22,2,325,home,FALSE,Cleveland State,64,Vikings,Cleveland State Vikings,Cleveland St
-300230325,2010-01-22,2,2739,away,FALSE,Green Bay,50,Phoenix,Green Bay Phoenix,Green Bay
-300232363,2010-01-22,2,2363,home,FALSE,Manhattan,53,Jaspers,Manhattan Jaspers,Manhattan
-300232363,2010-01-22,2,314,away,FALSE,Iona,56,Gaels,Iona Gaels,Iona
-300222692,2010-01-22,2,2692,home,FALSE,Weber State,86,Wildcats,Weber State Wildcats,Weber St
-300222692,2010-01-22,2,2502,away,FALSE,Portland State,83,Vikings,Portland State Vikings,Portland St
-300222458,2010-01-22,2,2458,home,FALSE,Northern Colorado,79,Bears,Northern Colorado Bears,N Colorado
-300222458,2010-01-22,2,16,away,FALSE,Sacramento State,65,Hornets,Sacramento State Hornets,Sacramento St
-300220304,2010-01-22,2,304,home,FALSE,Idaho State,80,Bengals,Idaho State Bengals,Idaho St
-300220304,2010-01-22,2,331,away,FALSE,Eastern Washington,74,Eagles,Eastern Washington Eagles,E Washington
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300232099,2010,regular-season,2010-01-22,2,2099,home,FALSE,Canisius,74,Golden Griffins,Canisius Golden Griffins,Canisius
+300232099,2010,regular-season,2010-01-22,2,2520,away,FALSE,Rider,58,Broncs,Rider Broncs,Rider
+300230315,2010,regular-season,2010-01-22,2,315,home,FALSE,Niagara,65,Purple Eagles,Niagara Purple Eagles,Niagara
+300230315,2010,regular-season,2010-01-22,2,2612,away,FALSE,Saint Peter's,74,Peacocks,Saint Peter's Peacocks,Saint Peter's
+300222754,2010,regular-season,2010-01-22,2,2754,home,FALSE,Youngstown State,59,Penguins,Youngstown State Penguins,Youngstown St
+300222754,2010,regular-season,2010-01-22,2,270,away,FALSE,Milwaukee,69,Panthers,Milwaukee Panthers,Milwaukee
+300220232,2010,regular-season,2010-01-22,2,232,home,FALSE,Charleston,70,Cougars,Charleston Cougars,Charleston
+300220232,2010,regular-season,2010-01-22,2,2747,away,FALSE,Wofford,68,Terriers,Wofford Terriers,Wofford
+300220225,2010,regular-season,2010-01-22,2,225,home,FALSE,Brown,63,Bears,Brown Bears,Brown
+300220225,2010,regular-season,2010-01-22,2,43,away,FALSE,Yale,71,Bulldogs,Yale Bulldogs,Yale
+300220056,2010,regular-season,2010-01-22,2,56,home,FALSE,Stetson,76,Hatters,Stetson Hatters,Stetson
+300220056,2010,regular-season,2010-01-22,2,2382,away,FALSE,Mercer,69,Bears,Mercer Bears,Mercer
+300230526,2010,regular-season,2010-01-22,2,526,home,FALSE,Florida Gulf Coast,68,Eagles,Florida Gulf Coast Eagles,FGCU
+300230526,2010,regular-season,2010-01-22,2,338,away,FALSE,Kennesaw State,69,Owls,Kennesaw State Owls,Kennesaw St
+300230325,2010,regular-season,2010-01-22,2,325,home,FALSE,Cleveland State,64,Vikings,Cleveland State Vikings,Cleveland St
+300230325,2010,regular-season,2010-01-22,2,2739,away,FALSE,Green Bay,50,Phoenix,Green Bay Phoenix,Green Bay
+300232363,2010,regular-season,2010-01-22,2,2363,home,FALSE,Manhattan,53,Jaspers,Manhattan Jaspers,Manhattan
+300232363,2010,regular-season,2010-01-22,2,314,away,FALSE,Iona,56,Gaels,Iona Gaels,Iona
+300222692,2010,regular-season,2010-01-22,2,2692,home,FALSE,Weber State,86,Wildcats,Weber State Wildcats,Weber St
+300222692,2010,regular-season,2010-01-22,2,2502,away,FALSE,Portland State,83,Vikings,Portland State Vikings,Portland St
+300222458,2010,regular-season,2010-01-22,2,2458,home,FALSE,Northern Colorado,79,Bears,Northern Colorado Bears,N Colorado
+300222458,2010,regular-season,2010-01-22,2,16,away,FALSE,Sacramento State,65,Hornets,Sacramento State Hornets,Sacramento St
+300220304,2010,regular-season,2010-01-22,2,304,home,FALSE,Idaho State,80,Bengals,Idaho State Bengals,Idaho St
+300220304,2010,regular-season,2010-01-22,2,331,away,FALSE,Eastern Washington,74,Eagles,Eastern Washington Eagles,E Washington

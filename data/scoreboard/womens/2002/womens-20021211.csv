@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-223450305,2002-12-11,2,305,home,FALSE,DePaul,75,Blue Demons,DePaul Blue Demons,DePaul
-223450305,2002-12-11,2,87,away,FALSE,Notre Dame,59,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-223450045,2002-12-11,2,45,home,FALSE,George Washington,82,Revolutionaries,George Washington Revolutionaries,G Washington
-223450045,2002-12-11,2,252,away,FALSE,BYU,58,Cougars,BYU Cougars,BYU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+223450305,2003,regular-season,2002-12-11,2,305,home,FALSE,DePaul,75,Blue Demons,DePaul Blue Demons,DePaul
+223450305,2003,regular-season,2002-12-11,2,87,away,FALSE,Notre Dame,59,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+223450045,2003,regular-season,2002-12-11,2,45,home,FALSE,George Washington,82,Revolutionaries,George Washington Revolutionaries,G Washington
+223450045,2003,regular-season,2002-12-11,2,252,away,FALSE,BYU,58,Cougars,BYU Cougars,BYU

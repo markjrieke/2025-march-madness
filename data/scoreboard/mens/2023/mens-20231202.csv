@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401598634,2023-12-02,2,12,home,FALSE,Arizona,82,Wildcats,Arizona Wildcats,Arizona
-401598634,2023-12-02,2,2142,away,FALSE,Colgate,55,Raiders,Colgate Raiders,Colgate
-401577601,2023-12-02,2,275,home,FALSE,Wisconsin,75,Badgers,Wisconsin Badgers,Wisconsin
-401577601,2023-12-02,2,269,away,FALSE,Marquette,64,Golden Eagles,Marquette Golden Eagles,Marquette
-401604090,2023-12-02,2,59,home,FALSE,Georgia Tech,72,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-401604090,2023-12-02,2,150,away,FALSE,Duke,68,Blue Devils,Duke Blue Devils,Duke
-401604091,2023-12-02,2,2390,home,FALSE,Miami,62,Hurricanes,Miami Hurricanes,Miami
-401604091,2023-12-02,2,87,away,FALSE,Notre Dame,49,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401602358,2023-12-02,2,239,home,FALSE,Baylor,91,Bears,Baylor Bears,Baylor
-401602358,2023-12-02,2,2466,away,FALSE,Northwestern State,40,Demons,Northwestern State Demons,N'Western St
-401603832,2023-12-02,2,30,home,TRUE,USC,76,Trojans,USC Trojans,USC
-401603832,2023-12-02,2,2250,away,TRUE,Gonzaga,89,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401588945,2023-12-02,2,96,home,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
-401588945,2023-12-02,2,350,away,FALSE,UNC Wilmington,80,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
-401577651,2023-12-02,2,2226,home,FALSE,Florida Atlantic,90,Owls,Florida Atlantic Owls,FAU
-401577651,2023-12-02,2,232,away,FALSE,Charleston,74,Cougars,Charleston Cougars,Charleston
-401604092,2023-12-02,2,153,home,FALSE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
-401604092,2023-12-02,2,52,away,FALSE,Florida State,70,Seminoles,Florida State Seminoles,Florida St
-401604303,2023-12-02,2,222,home,TRUE,Villanova,55,Wildcats,Villanova Wildcats,Villanova
-401604303,2023-12-02,2,2182,away,TRUE,Drexel,57,Dragons,Drexel Dragons,Drexel
-401581778,2023-12-02,2,36,home,TRUE,Colorado State,86,Rams,Colorado State Rams,Colorado St
-401581778,2023-12-02,2,264,away,TRUE,Washington,81,Huskies,Washington Huskies,Washington
-401600296,2023-12-02,2,164,home,FALSE,Rutgers,58,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-401600296,2023-12-02,2,356,away,FALSE,Illinois,76,Fighting Illini,Illinois Fighting Illini,Illinois
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401598634,2024,regular-season,2023-12-02,2,12,home,FALSE,Arizona,82,Wildcats,Arizona Wildcats,Arizona
+401598634,2024,regular-season,2023-12-02,2,2142,away,FALSE,Colgate,55,Raiders,Colgate Raiders,Colgate
+401577601,2024,regular-season,2023-12-02,2,275,home,FALSE,Wisconsin,75,Badgers,Wisconsin Badgers,Wisconsin
+401577601,2024,regular-season,2023-12-02,2,269,away,FALSE,Marquette,64,Golden Eagles,Marquette Golden Eagles,Marquette
+401604090,2024,regular-season,2023-12-02,2,59,home,FALSE,Georgia Tech,72,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+401604090,2024,regular-season,2023-12-02,2,150,away,FALSE,Duke,68,Blue Devils,Duke Blue Devils,Duke
+401604091,2024,regular-season,2023-12-02,2,2390,home,FALSE,Miami,62,Hurricanes,Miami Hurricanes,Miami
+401604091,2024,regular-season,2023-12-02,2,87,away,FALSE,Notre Dame,49,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401602358,2024,regular-season,2023-12-02,2,239,home,FALSE,Baylor,91,Bears,Baylor Bears,Baylor
+401602358,2024,regular-season,2023-12-02,2,2466,away,FALSE,Northwestern State,40,Demons,Northwestern State Demons,N'Western St
+401603832,2024,regular-season,2023-12-02,2,30,home,TRUE,USC,76,Trojans,USC Trojans,USC
+401603832,2024,regular-season,2023-12-02,2,2250,away,TRUE,Gonzaga,89,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401588945,2024,regular-season,2023-12-02,2,96,home,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
+401588945,2024,regular-season,2023-12-02,2,350,away,FALSE,UNC Wilmington,80,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+401577651,2024,regular-season,2023-12-02,2,2226,home,FALSE,Florida Atlantic,90,Owls,Florida Atlantic Owls,FAU
+401577651,2024,regular-season,2023-12-02,2,232,away,FALSE,Charleston,74,Cougars,Charleston Cougars,Charleston
+401604092,2024,regular-season,2023-12-02,2,153,home,FALSE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
+401604092,2024,regular-season,2023-12-02,2,52,away,FALSE,Florida State,70,Seminoles,Florida State Seminoles,Florida St
+401604303,2024,regular-season,2023-12-02,2,222,home,TRUE,Villanova,55,Wildcats,Villanova Wildcats,Villanova
+401604303,2024,regular-season,2023-12-02,2,2182,away,TRUE,Drexel,57,Dragons,Drexel Dragons,Drexel
+401581778,2024,regular-season,2023-12-02,2,36,home,TRUE,Colorado State,86,Rams,Colorado State Rams,Colorado St
+401581778,2024,regular-season,2023-12-02,2,264,away,TRUE,Washington,81,Huskies,Washington Huskies,Washington
+401600296,2024,regular-season,2023-12-02,2,164,home,FALSE,Rutgers,58,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401600296,2024,regular-season,2023-12-02,2,356,away,FALSE,Illinois,76,Fighting Illini,Illinois Fighting Illini,Illinois

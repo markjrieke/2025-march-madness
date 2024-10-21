@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310390021,2011-02-08,2,21,home,FALSE,San Diego State,85,Aztecs,San Diego State Aztecs,San Diego St
-310390021,2011-02-08,2,254,away,FALSE,Utah,53,Utes,Utah Utes,Utah
-310392509,2011-02-08,2,2509,home,FALSE,Purdue,67,Boilermakers,Purdue Boilermakers,Purdue
-310392509,2011-02-08,2,84,away,FALSE,Indiana,53,Hoosiers,Indiana Hoosiers,Indiana
-310390096,2011-02-08,2,96,home,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
-310390096,2011-02-08,2,2633,away,FALSE,Tennessee,61,Volunteers,Tennessee Volunteers,Tennessee
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310390021,2011,regular-season,2011-02-08,2,21,home,FALSE,San Diego State,85,Aztecs,San Diego State Aztecs,San Diego St
+310390021,2011,regular-season,2011-02-08,2,254,away,FALSE,Utah,53,Utes,Utah Utes,Utah
+310392509,2011,regular-season,2011-02-08,2,2509,home,FALSE,Purdue,67,Boilermakers,Purdue Boilermakers,Purdue
+310392509,2011,regular-season,2011-02-08,2,84,away,FALSE,Indiana,53,Hoosiers,Indiana Hoosiers,Indiana
+310390096,2011,regular-season,2011-02-08,2,96,home,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
+310390096,2011,regular-season,2011-02-08,2,2633,away,FALSE,Tennessee,61,Volunteers,Tennessee Volunteers,Tennessee

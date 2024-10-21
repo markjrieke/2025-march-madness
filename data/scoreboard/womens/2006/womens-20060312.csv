@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260710159,2006-03-12,2,159,home,FALSE,Dartmouth,63,Big Green,Dartmouth Big Green,Dartmouth
-260710159,2006-03-12,2,163,away,FALSE,Princeton,48,Tigers,Princeton Tigers,Princeton
-260710042,2006-03-12,2,42,home,FALSE,Hartford,75,Hawks,Hartford Hawks,Hartford
-260710042,2006-03-12,2,104,away,FALSE,Boston University,56,Terriers,Boston University Terriers,Boston U
-260710282,2006-03-12,2,282,home,FALSE,Indiana State,55,Sycamores,Indiana State Sycamores,Indiana St
-260710282,2006-03-12,2,2623,away,FALSE,Missouri State,64,Lady Bears,Missouri State Lady Bears,Missouri St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260710159,2006,regular-season,2006-03-12,2,159,home,FALSE,Dartmouth,63,Big Green,Dartmouth Big Green,Dartmouth
+260710159,2006,regular-season,2006-03-12,2,163,away,FALSE,Princeton,48,Tigers,Princeton Tigers,Princeton
+260710042,2006,regular-season,2006-03-12,2,42,home,FALSE,Hartford,75,Hawks,Hartford Hawks,Hartford
+260710042,2006,regular-season,2006-03-12,2,104,away,FALSE,Boston University,56,Terriers,Boston University Terriers,Boston U
+260710282,2006,regular-season,2006-03-12,2,282,home,FALSE,Indiana State,55,Sycamores,Indiana State Sycamores,Indiana St
+260710282,2006,regular-season,2006-03-12,2,2623,away,FALSE,Missouri State,64,Lady Bears,Missouri State Lady Bears,Missouri St

@@ -1,45 +1,45 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401405850,2022-03-04,3,2344,home,TRUE,Longwood,79,Lancers,Longwood Lancers,Longwood
-401405850,2022-03-04,3,2448,away,TRUE,North Carolina A&T,65,Aggies,North Carolina A&T Aggies,NC A&T
-401403436,2022-03-04,2,2460,home,TRUE,Northern Iowa,78,Panthers,Northern Iowa Panthers,Northern Iowa
-401403436,2022-03-04,2,2287,away,TRUE,Illinois State,65,Redbirds,Illinois State Redbirds,Illinois St
-401405851,2022-03-04,2,2908,home,TRUE,South Carolina Upstate,72,Spartans,South Carolina Upstate Spartans,SC Upstate
-401405851,2022-03-04,2,2127,away,TRUE,Charleston Southern,62,Buccaneers,Charleston Southern Buccaneers,Charleston So
-401403437,2022-03-04,2,2350,home,TRUE,Loyola Chicago,66,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-401403437,2022-03-04,2,71,away,TRUE,Bradley,50,Braves,Bradley Braves,Bradley
-401403323,2022-03-04,3,2193,home,TRUE,East Tennessee State,76,Buccaneers,East Tennessee State Buccaneers,ETSU
-401403323,2022-03-04,3,2643,away,TRUE,The Citadel,84,Bulldogs,The Citadel Bulldogs,The Citadel
-401405852,2022-03-04,2,2737,home,TRUE,Winthrop,68,Eagles,Winthrop Eagles,Winthrop
-401405852,2022-03-04,2,2272,away,TRUE,High Point,51,Panthers,High Point Panthers,High Point
-401365194,2022-03-04,2,2711,home,FALSE,Western Michigan,63,Broncos,Western Michigan Broncos,W Michigan
-401365194,2022-03-04,2,2050,away,FALSE,Ball State,64,Cardinals,Ball State Cardinals,Ball State
-401365193,2022-03-04,2,2309,home,FALSE,Kent State,70,Golden Flashes,Kent State Golden Flashes,Kent State
-401365193,2022-03-04,2,2084,away,FALSE,Buffalo,65,Bulls,Buffalo Bulls,Buffalo
-401365196,2022-03-04,2,2649,home,FALSE,Toledo,96,Rockets,Toledo Rockets,Toledo
-401365196,2022-03-04,2,189,away,FALSE,Bowling Green,56,Falcons,Bowling Green Falcons,Bowling Green
-401403438,2022-03-04,2,2623,home,TRUE,Missouri State,67,Bears,Missouri State Bears,Missouri St
-401403438,2022-03-04,2,2674,away,TRUE,Valparaiso,58,Beacons,Valparaiso Beacons,Valparaiso
-401365873,2022-03-04,2,179,home,FALSE,St. Bonaventure,72,Bonnies,St. Bonaventure Bonnies,St Bonaventure
-401365873,2022-03-04,2,257,away,FALSE,Richmond,65,Spiders,Richmond Spiders,Richmond
-401365197,2022-03-04,2,193,home,FALSE,Miami (OH),76,RedHawks,Miami (OH) RedHawks,Miami OH
-401365197,2022-03-04,2,2199,away,FALSE,Eastern Michigan,63,Eagles,Eastern Michigan Eagles,E Michigan
-401365195,2022-03-04,2,2006,home,FALSE,Akron,57,Zips,Akron Zips,Akron
-401365195,2022-03-04,2,2117,away,FALSE,Central Michigan,56,Chippewas,Central Michigan Chippewas,C Michigan
-401403324,2022-03-04,2,2382,home,TRUE,Mercer,81,Bears,Mercer Bears,Mercer
-401403324,2022-03-04,2,2717,away,TRUE,Western Carolina,53,Catamounts,Western Carolina Catamounts,W Carolina
-401405880,2022-03-04,2,93,home,TRUE,Murray State,88,Racers,Murray State Racers,Murray St
-401405880,2022-03-04,2,2546,away,TRUE,Southeast Missouri State,74,Redhawks,Southeast Missouri State Redhawks,SE Missouri
-401365198,2022-03-04,2,2459,home,FALSE,Northern Illinois,58,Huskies,Northern Illinois Huskies,N Illinois
-401365198,2022-03-04,2,195,away,FALSE,Ohio,57,Bobcats,Ohio Bobcats,Ohio
-401405853,2022-03-04,2,2241,home,TRUE,Gardner-Webb,54,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-401405853,2022-03-04,2,2097,away,TRUE,Campbell,53,Fighting Camels,Campbell Fighting Camels,Campbell
-401403485,2022-03-04,2,252,home,TRUE,BYU,85,Cougars,BYU Cougars,BYU
-401403485,2022-03-04,2,2351,away,TRUE,Loyola Marymount,60,Lions,Loyola Marymount Lions,LMU
-401403439,2022-03-04,2,2181,home,TRUE,Drake,65,Bulldogs,Drake Bulldogs,Drake
-401403439,2022-03-04,2,79,away,TRUE,Southern Illinois,52,Salukis,Southern Illinois Salukis,S Illinois
-401405881,2022-03-04,2,2057,home,TRUE,Belmont,51,Bruins,Belmont Bruins,Belmont
-401405881,2022-03-04,2,2413,away,TRUE,Morehead State,53,Eagles,Morehead State Eagles,Morehead St
-401378802,2022-03-04,2,23,home,FALSE,San José State,52,Spartans,San José State Spartans,San José St
-401378802,2022-03-04,2,328,away,FALSE,Utah State,75,Aggies,Utah State Aggies,Utah State
-401403486,2022-03-04,2,2501,home,TRUE,Portland,73,Pilots,Portland Pilots,Portland
-401403486,2022-03-04,2,301,away,TRUE,San Diego,55,Toreros,San Diego Toreros,San Diego
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401405850,2022,regular-season,2022-03-04,3,2344,home,TRUE,Longwood,79,Lancers,Longwood Lancers,Longwood
+401405850,2022,regular-season,2022-03-04,3,2448,away,TRUE,North Carolina A&T,65,Aggies,North Carolina A&T Aggies,NC A&T
+401403436,2022,regular-season,2022-03-04,2,2460,home,TRUE,Northern Iowa,78,Panthers,Northern Iowa Panthers,Northern Iowa
+401403436,2022,regular-season,2022-03-04,2,2287,away,TRUE,Illinois State,65,Redbirds,Illinois State Redbirds,Illinois St
+401405851,2022,regular-season,2022-03-04,2,2908,home,TRUE,South Carolina Upstate,72,Spartans,South Carolina Upstate Spartans,SC Upstate
+401405851,2022,regular-season,2022-03-04,2,2127,away,TRUE,Charleston Southern,62,Buccaneers,Charleston Southern Buccaneers,Charleston So
+401403437,2022,regular-season,2022-03-04,2,2350,home,TRUE,Loyola Chicago,66,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+401403437,2022,regular-season,2022-03-04,2,71,away,TRUE,Bradley,50,Braves,Bradley Braves,Bradley
+401403323,2022,regular-season,2022-03-04,3,2193,home,TRUE,East Tennessee State,76,Buccaneers,East Tennessee State Buccaneers,ETSU
+401403323,2022,regular-season,2022-03-04,3,2643,away,TRUE,The Citadel,84,Bulldogs,The Citadel Bulldogs,The Citadel
+401405852,2022,regular-season,2022-03-04,2,2737,home,TRUE,Winthrop,68,Eagles,Winthrop Eagles,Winthrop
+401405852,2022,regular-season,2022-03-04,2,2272,away,TRUE,High Point,51,Panthers,High Point Panthers,High Point
+401365194,2022,regular-season,2022-03-04,2,2711,home,FALSE,Western Michigan,63,Broncos,Western Michigan Broncos,W Michigan
+401365194,2022,regular-season,2022-03-04,2,2050,away,FALSE,Ball State,64,Cardinals,Ball State Cardinals,Ball State
+401365193,2022,regular-season,2022-03-04,2,2309,home,FALSE,Kent State,70,Golden Flashes,Kent State Golden Flashes,Kent State
+401365193,2022,regular-season,2022-03-04,2,2084,away,FALSE,Buffalo,65,Bulls,Buffalo Bulls,Buffalo
+401365196,2022,regular-season,2022-03-04,2,2649,home,FALSE,Toledo,96,Rockets,Toledo Rockets,Toledo
+401365196,2022,regular-season,2022-03-04,2,189,away,FALSE,Bowling Green,56,Falcons,Bowling Green Falcons,Bowling Green
+401403438,2022,regular-season,2022-03-04,2,2623,home,TRUE,Missouri State,67,Bears,Missouri State Bears,Missouri St
+401403438,2022,regular-season,2022-03-04,2,2674,away,TRUE,Valparaiso,58,Beacons,Valparaiso Beacons,Valparaiso
+401365873,2022,regular-season,2022-03-04,2,179,home,FALSE,St. Bonaventure,72,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+401365873,2022,regular-season,2022-03-04,2,257,away,FALSE,Richmond,65,Spiders,Richmond Spiders,Richmond
+401365197,2022,regular-season,2022-03-04,2,193,home,FALSE,Miami (OH),76,RedHawks,Miami (OH) RedHawks,Miami OH
+401365197,2022,regular-season,2022-03-04,2,2199,away,FALSE,Eastern Michigan,63,Eagles,Eastern Michigan Eagles,E Michigan
+401365195,2022,regular-season,2022-03-04,2,2006,home,FALSE,Akron,57,Zips,Akron Zips,Akron
+401365195,2022,regular-season,2022-03-04,2,2117,away,FALSE,Central Michigan,56,Chippewas,Central Michigan Chippewas,C Michigan
+401403324,2022,regular-season,2022-03-04,2,2382,home,TRUE,Mercer,81,Bears,Mercer Bears,Mercer
+401403324,2022,regular-season,2022-03-04,2,2717,away,TRUE,Western Carolina,53,Catamounts,Western Carolina Catamounts,W Carolina
+401405880,2022,regular-season,2022-03-04,2,93,home,TRUE,Murray State,88,Racers,Murray State Racers,Murray St
+401405880,2022,regular-season,2022-03-04,2,2546,away,TRUE,Southeast Missouri State,74,Redhawks,Southeast Missouri State Redhawks,SE Missouri
+401365198,2022,regular-season,2022-03-04,2,2459,home,FALSE,Northern Illinois,58,Huskies,Northern Illinois Huskies,N Illinois
+401365198,2022,regular-season,2022-03-04,2,195,away,FALSE,Ohio,57,Bobcats,Ohio Bobcats,Ohio
+401405853,2022,regular-season,2022-03-04,2,2241,home,TRUE,Gardner-Webb,54,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+401405853,2022,regular-season,2022-03-04,2,2097,away,TRUE,Campbell,53,Fighting Camels,Campbell Fighting Camels,Campbell
+401403485,2022,regular-season,2022-03-04,2,252,home,TRUE,BYU,85,Cougars,BYU Cougars,BYU
+401403485,2022,regular-season,2022-03-04,2,2351,away,TRUE,Loyola Marymount,60,Lions,Loyola Marymount Lions,LMU
+401403439,2022,regular-season,2022-03-04,2,2181,home,TRUE,Drake,65,Bulldogs,Drake Bulldogs,Drake
+401403439,2022,regular-season,2022-03-04,2,79,away,TRUE,Southern Illinois,52,Salukis,Southern Illinois Salukis,S Illinois
+401405881,2022,regular-season,2022-03-04,2,2057,home,TRUE,Belmont,51,Bruins,Belmont Bruins,Belmont
+401405881,2022,regular-season,2022-03-04,2,2413,away,TRUE,Morehead State,53,Eagles,Morehead State Eagles,Morehead St
+401378802,2022,regular-season,2022-03-04,2,23,home,FALSE,San José State,52,Spartans,San José State Spartans,San José St
+401378802,2022,regular-season,2022-03-04,2,328,away,FALSE,Utah State,75,Aggies,Utah State Aggies,Utah State
+401403486,2022,regular-season,2022-03-04,2,2501,home,TRUE,Portland,73,Pilots,Portland Pilots,Portland
+401403486,2022,regular-season,2022-03-04,2,301,away,TRUE,San Diego,55,Toreros,San Diego Toreros,San Diego

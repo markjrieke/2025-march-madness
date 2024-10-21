@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313650084,2011-12-31,2,84,home,FALSE,Indiana,74,Hoosiers,Indiana Hoosiers,Indiana
-313650084,2011-12-31,2,194,away,FALSE,Ohio State,70,Buckeyes,Ohio State Buckeyes,Ohio State
-313650096,2011-12-31,2,96,home,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
-313650096,2011-12-31,2,97,away,FALSE,Louisville,62,Cardinals,Louisville Cardinals,Louisville
-313650041,2011-12-31,2,41,home,FALSE,UConn,83,Huskies,UConn Huskies,UConn
-313650041,2011-12-31,2,2599,away,FALSE,St. John's,69,Red Storm,St. John's Red Storm,St John's
-313650057,2011-12-31,2,57,home,FALSE,Florida,90,Gators,Florida Gators,Florida
-313650057,2011-12-31,2,43,away,FALSE,Yale,70,Bulldogs,Yale Bulldogs,Yale
-313650275,2011-12-31,2,275,home,FALSE,Wisconsin,65,Badgers,Wisconsin Badgers,Wisconsin
-313650275,2011-12-31,2,2294,away,FALSE,Iowa,72,Hawkeyes,Iowa Hawkeyes,Iowa
-313650046,2011-12-31,2,46,home,FALSE,Georgetown,49,Hoyas,Georgetown Hoyas,Georgetown
-313650046,2011-12-31,2,2507,away,FALSE,Providence,40,Friars,Providence Friars,Providence
-313650344,2011-12-31,2,344,home,FALSE,Mississippi State,66,Bulldogs,Mississippi State Bulldogs,Mississippi St
-313650344,2011-12-31,2,328,away,FALSE,Utah State,64,Aggies,Utah State Aggies,Utah State
-313650158,2011-12-31,2,158,home,FALSE,Nebraska,55,Cornhuskers,Nebraska Cornhuskers,Nebraska
-313650158,2011-12-31,2,127,away,FALSE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St
-313652305,2011-12-31,2,2305,home,FALSE,Kansas,84,Jayhawks,Kansas Jayhawks,Kansas
-313652305,2011-12-31,2,155,away,FALSE,North Dakota,58,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
-313650062,2011-12-31,2,62,home,FALSE,Hawai'i,69,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
-313650062,2011-12-31,2,2439,away,FALSE,UNLV,74,Rebels,UNLV Rebels,UNLV
-313652724,2011-12-31,2,2724,home,FALSE,Wichita State,61,Shockers,Wichita State Shockers,Wichita St
-313652724,2011-12-31,2,156,away,FALSE,Creighton,68,Bluejays,Creighton Bluejays,Creighton
-313650108,2011-12-31,2,108,home,FALSE,Harvard,74,Crimson,Harvard Crimson,Harvard
-313650108,2011-12-31,2,2603,away,FALSE,Saint Joseph's,69,Hawks,Saint Joseph's Hawks,Saint Joseph's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313650084,2012,regular-season,2011-12-31,2,84,home,FALSE,Indiana,74,Hoosiers,Indiana Hoosiers,Indiana
+313650084,2012,regular-season,2011-12-31,2,194,away,FALSE,Ohio State,70,Buckeyes,Ohio State Buckeyes,Ohio State
+313650096,2012,regular-season,2011-12-31,2,96,home,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
+313650096,2012,regular-season,2011-12-31,2,97,away,FALSE,Louisville,62,Cardinals,Louisville Cardinals,Louisville
+313650041,2012,regular-season,2011-12-31,2,41,home,FALSE,UConn,83,Huskies,UConn Huskies,UConn
+313650041,2012,regular-season,2011-12-31,2,2599,away,FALSE,St. John's,69,Red Storm,St. John's Red Storm,St John's
+313650057,2012,regular-season,2011-12-31,2,57,home,FALSE,Florida,90,Gators,Florida Gators,Florida
+313650057,2012,regular-season,2011-12-31,2,43,away,FALSE,Yale,70,Bulldogs,Yale Bulldogs,Yale
+313650275,2012,regular-season,2011-12-31,2,275,home,FALSE,Wisconsin,65,Badgers,Wisconsin Badgers,Wisconsin
+313650275,2012,regular-season,2011-12-31,2,2294,away,FALSE,Iowa,72,Hawkeyes,Iowa Hawkeyes,Iowa
+313650046,2012,regular-season,2011-12-31,2,46,home,FALSE,Georgetown,49,Hoyas,Georgetown Hoyas,Georgetown
+313650046,2012,regular-season,2011-12-31,2,2507,away,FALSE,Providence,40,Friars,Providence Friars,Providence
+313650344,2012,regular-season,2011-12-31,2,344,home,FALSE,Mississippi State,66,Bulldogs,Mississippi State Bulldogs,Mississippi St
+313650344,2012,regular-season,2011-12-31,2,328,away,FALSE,Utah State,64,Aggies,Utah State Aggies,Utah State
+313650158,2012,regular-season,2011-12-31,2,158,home,FALSE,Nebraska,55,Cornhuskers,Nebraska Cornhuskers,Nebraska
+313650158,2012,regular-season,2011-12-31,2,127,away,FALSE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St
+313652305,2012,regular-season,2011-12-31,2,2305,home,FALSE,Kansas,84,Jayhawks,Kansas Jayhawks,Kansas
+313652305,2012,regular-season,2011-12-31,2,155,away,FALSE,North Dakota,58,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
+313650062,2012,regular-season,2011-12-31,2,62,home,FALSE,Hawai'i,69,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
+313650062,2012,regular-season,2011-12-31,2,2439,away,FALSE,UNLV,74,Rebels,UNLV Rebels,UNLV
+313652724,2012,regular-season,2011-12-31,2,2724,home,FALSE,Wichita State,61,Shockers,Wichita State Shockers,Wichita St
+313652724,2012,regular-season,2011-12-31,2,156,away,FALSE,Creighton,68,Bluejays,Creighton Bluejays,Creighton
+313650108,2012,regular-season,2011-12-31,2,108,home,FALSE,Harvard,74,Crimson,Harvard Crimson,Harvard
+313650108,2012,regular-season,2011-12-31,2,2603,away,FALSE,Saint Joseph's,69,Hawks,Saint Joseph's Hawks,Saint Joseph's

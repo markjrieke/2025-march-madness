@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400912477,2017-03-02,4,2181,home,FALSE,Drake,98,Bulldogs,Drake Bulldogs,Drake
-400912477,2017-03-02,4,2623,away,FALSE,Missouri State,91,Lady Bears,Missouri State Lady Bears,Missouri St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400912477,2017,regular-season,2017-03-02,4,2181,home,FALSE,Drake,98,Bulldogs,Drake Bulldogs,Drake
+400912477,2017,regular-season,2017-03-02,4,2623,away,FALSE,Missouri State,91,Lady Bears,Missouri State Lady Bears,Missouri St

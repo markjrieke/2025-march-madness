@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401020935,2018-03-11,2,108,home,TRUE,Harvard,65,Crimson,Harvard Crimson,Harvard
-401020935,2018-03-11,2,219,away,TRUE,Pennsylvania,68,Quakers,Pennsylvania Quakers,Penn
-401020084,2018-03-11,2,227,home,TRUE,Rhode Island,57,Rams,Rhode Island Rams,Rhode Island
-401020084,2018-03-11,2,2166,away,TRUE,Davidson,58,Wildcats,Davidson Wildcats,Davidson
-401020012,2018-03-11,2,2633,home,TRUE,Tennessee,72,Volunteers,Tennessee Volunteers,Tennessee
-401020012,2018-03-11,2,96,away,TRUE,Kentucky,77,Wildcats,Kentucky Wildcats,Kentucky
-401020131,2018-03-11,2,2247,home,TRUE,Georgia State,74,Panthers,Georgia State Panthers,Georgia St
-401020131,2018-03-11,2,250,away,TRUE,UT Arlington,61,Mavericks,UT Arlington Mavericks,UT Arlington
-401019984,2018-03-11,2,2132,home,TRUE,Cincinnati,56,Bearcats,Cincinnati Bearcats,Cincinnati
-401019984,2018-03-11,2,248,away,TRUE,Houston,55,Cougars,Houston Cougars,Houston
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401020935,2018,regular-season,2018-03-11,2,108,home,TRUE,Harvard,65,Crimson,Harvard Crimson,Harvard
+401020935,2018,regular-season,2018-03-11,2,219,away,TRUE,Pennsylvania,68,Quakers,Pennsylvania Quakers,Penn
+401020084,2018,regular-season,2018-03-11,2,227,home,TRUE,Rhode Island,57,Rams,Rhode Island Rams,Rhode Island
+401020084,2018,regular-season,2018-03-11,2,2166,away,TRUE,Davidson,58,Wildcats,Davidson Wildcats,Davidson
+401020012,2018,regular-season,2018-03-11,2,2633,home,TRUE,Tennessee,72,Volunteers,Tennessee Volunteers,Tennessee
+401020012,2018,regular-season,2018-03-11,2,96,away,TRUE,Kentucky,77,Wildcats,Kentucky Wildcats,Kentucky
+401020131,2018,regular-season,2018-03-11,2,2247,home,TRUE,Georgia State,74,Panthers,Georgia State Panthers,Georgia St
+401020131,2018,regular-season,2018-03-11,2,250,away,TRUE,UT Arlington,61,Mavericks,UT Arlington Mavericks,UT Arlington
+401019984,2018,regular-season,2018-03-11,2,2132,home,TRUE,Cincinnati,56,Bearcats,Cincinnati Bearcats,Cincinnati
+401019984,2018,regular-season,2018-03-11,2,248,away,TRUE,Houston,55,Cougars,Houston Cougars,Houston

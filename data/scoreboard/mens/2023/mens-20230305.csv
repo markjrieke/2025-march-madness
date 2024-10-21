@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401492766,2023-03-05,2,235,home,FALSE,Memphis,65,Tigers,Memphis Tigers,Memphis
-401492766,2023-03-05,2,248,away,FALSE,Houston,67,Cougars,Houston Cougars,Houston
-401484992,2023-03-05,2,2509,home,FALSE,Purdue,76,Boilermakers,Purdue Boilermakers,Purdue
-401484992,2023-03-05,2,356,away,FALSE,Illinois,71,Fighting Illini,Illinois Fighting Illini,Illinois
-401484988,2023-03-05,3,84,home,FALSE,Indiana,75,Hoosiers,Indiana Hoosiers,Indiana
-401484988,2023-03-05,3,130,away,FALSE,Michigan,73,Wolverines,Michigan Wolverines,Michigan
-401484987,2023-03-05,2,213,home,FALSE,Penn State,65,Nittany Lions,Penn State Nittany Lions,Penn State
-401484987,2023-03-05,2,120,away,FALSE,Maryland,64,Terrapins,Maryland Terrapins,Maryland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401492766,2023,regular-season,2023-03-05,2,235,home,FALSE,Memphis,65,Tigers,Memphis Tigers,Memphis
+401492766,2023,regular-season,2023-03-05,2,248,away,FALSE,Houston,67,Cougars,Houston Cougars,Houston
+401484992,2023,regular-season,2023-03-05,2,2509,home,FALSE,Purdue,76,Boilermakers,Purdue Boilermakers,Purdue
+401484992,2023,regular-season,2023-03-05,2,356,away,FALSE,Illinois,71,Fighting Illini,Illinois Fighting Illini,Illinois
+401484988,2023,regular-season,2023-03-05,3,84,home,FALSE,Indiana,75,Hoosiers,Indiana Hoosiers,Indiana
+401484988,2023,regular-season,2023-03-05,3,130,away,FALSE,Michigan,73,Wolverines,Michigan Wolverines,Michigan
+401484987,2023,regular-season,2023-03-05,2,213,home,FALSE,Penn State,65,Nittany Lions,Penn State Nittany Lions,Penn State
+401484987,2023,regular-season,2023-03-05,2,120,away,FALSE,Maryland,64,Terrapins,Maryland Terrapins,Maryland

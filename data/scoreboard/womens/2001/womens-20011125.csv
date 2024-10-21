@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213290238,2001-11-25,2,238,home,FALSE,Vanderbilt,98,Commodores,Vanderbilt Commodores,Vanderbilt
-213290238,2001-11-25,2,159,away,FALSE,Dartmouth,62,Big Green,Dartmouth Big Green,Dartmouth
-213290024,2001-11-25,2,24,home,FALSE,Stanford,90,Cardinal,Stanford Cardinal,Stanford
-213290024,2001-11-25,2,213,away,FALSE,Penn State,68,Lady Lions,Penn State Lady Lions,Penn State
-213290150,2001-11-25,3,150,home,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
-213290150,2001-11-25,3,2579,away,FALSE,South Carolina,87,Gamecocks,South Carolina Gamecocks,South Carolina
-213292509,2001-11-25,2,2509,home,FALSE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
-213292509,2001-11-25,2,2572,away,FALSE,Southern Miss,40,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-213290057,2001-11-25,2,57,home,FALSE,Florida,49,Gators,Florida Gators,Florida
-213290057,2001-11-25,2,275,away,FALSE,Wisconsin,61,Badgers,Wisconsin Badgers,Wisconsin
-213290239,2001-11-25,2,239,home,FALSE,Baylor,65,Bears,Baylor Bears,Baylor
-213290239,2001-11-25,2,2172,away,FALSE,Denver,60,Pioneers,Denver Pioneers,Denver
-213290183,2001-11-25,2,183,home,FALSE,Syracuse,76,Orange,Syracuse Orange,Syracuse
-213290183,2001-11-25,2,130,away,FALSE,Michigan,84,Wolverines,Michigan Wolverines,Michigan
-213292306,2001-11-25,2,2306,home,FALSE,Kansas State,58,Wildcats,Kansas State Wildcats,Kansas St
-213292306,2001-11-25,2,9,away,FALSE,Arizona State,76,Sun Devils,Arizona State Sun Devils,Arizona St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213290238,2002,regular-season,2001-11-25,2,238,home,FALSE,Vanderbilt,98,Commodores,Vanderbilt Commodores,Vanderbilt
+213290238,2002,regular-season,2001-11-25,2,159,away,FALSE,Dartmouth,62,Big Green,Dartmouth Big Green,Dartmouth
+213290024,2002,regular-season,2001-11-25,2,24,home,FALSE,Stanford,90,Cardinal,Stanford Cardinal,Stanford
+213290024,2002,regular-season,2001-11-25,2,213,away,FALSE,Penn State,68,Lady Lions,Penn State Lady Lions,Penn State
+213290150,2002,regular-season,2001-11-25,3,150,home,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
+213290150,2002,regular-season,2001-11-25,3,2579,away,FALSE,South Carolina,87,Gamecocks,South Carolina Gamecocks,South Carolina
+213292509,2002,regular-season,2001-11-25,2,2509,home,FALSE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
+213292509,2002,regular-season,2001-11-25,2,2572,away,FALSE,Southern Miss,40,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+213290057,2002,regular-season,2001-11-25,2,57,home,FALSE,Florida,49,Gators,Florida Gators,Florida
+213290057,2002,regular-season,2001-11-25,2,275,away,FALSE,Wisconsin,61,Badgers,Wisconsin Badgers,Wisconsin
+213290239,2002,regular-season,2001-11-25,2,239,home,FALSE,Baylor,65,Bears,Baylor Bears,Baylor
+213290239,2002,regular-season,2001-11-25,2,2172,away,FALSE,Denver,60,Pioneers,Denver Pioneers,Denver
+213290183,2002,regular-season,2001-11-25,2,183,home,FALSE,Syracuse,76,Orange,Syracuse Orange,Syracuse
+213290183,2002,regular-season,2001-11-25,2,130,away,FALSE,Michigan,84,Wolverines,Michigan Wolverines,Michigan
+213292306,2002,regular-season,2001-11-25,2,2306,home,FALSE,Kansas State,58,Wildcats,Kansas State Wildcats,Kansas St
+213292306,2002,regular-season,2001-11-25,2,9,away,FALSE,Arizona State,76,Sun Devils,Arizona State Sun Devils,Arizona St

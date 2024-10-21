@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220500305,2002-02-19,2,305,home,FALSE,DePaul,62,Blue Demons,DePaul Blue Demons,DePaul
-220500305,2002-02-19,2,2132,away,FALSE,Cincinnati,79,Bearcats,Cincinnati Bearcats,Cincinnati
-220500239,2002-02-19,2,239,home,FALSE,Baylor,54,Bears,Baylor Bears,Baylor
-220500239,2002-02-19,2,201,away,FALSE,Oklahoma,65,Sooners,Oklahoma Sooners,Oklahoma
-220500269,2002-02-19,2,269,home,FALSE,Marquette,66,Golden Eagles,Marquette Golden Eagles,Marquette
-220500269,2002-02-19,2,2429,away,FALSE,Charlotte,52,49ers,Charlotte 49ers,Charlotte
-220500096,2002-02-19,2,96,home,FALSE,Kentucky,64,Wildcats,Kentucky Wildcats,Kentucky
-220500096,2002-02-19,2,2633,away,FALSE,Tennessee,61,Volunteers,Tennessee Volunteers,Tennessee
-220500098,2002-02-19,2,98,home,FALSE,Western Kentucky,100,Hilltoppers,Western Kentucky Hilltoppers,Western KY
-220500098,2002-02-19,2,2310,away,FALSE,Kentucky State,63,Thorobreds,Kentucky State Thorobreds,Kentucky St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220500305,2002,regular-season,2002-02-19,2,305,home,FALSE,DePaul,62,Blue Demons,DePaul Blue Demons,DePaul
+220500305,2002,regular-season,2002-02-19,2,2132,away,FALSE,Cincinnati,79,Bearcats,Cincinnati Bearcats,Cincinnati
+220500239,2002,regular-season,2002-02-19,2,239,home,FALSE,Baylor,54,Bears,Baylor Bears,Baylor
+220500239,2002,regular-season,2002-02-19,2,201,away,FALSE,Oklahoma,65,Sooners,Oklahoma Sooners,Oklahoma
+220500269,2002,regular-season,2002-02-19,2,269,home,FALSE,Marquette,66,Golden Eagles,Marquette Golden Eagles,Marquette
+220500269,2002,regular-season,2002-02-19,2,2429,away,FALSE,Charlotte,52,49ers,Charlotte 49ers,Charlotte
+220500096,2002,regular-season,2002-02-19,2,96,home,FALSE,Kentucky,64,Wildcats,Kentucky Wildcats,Kentucky
+220500096,2002,regular-season,2002-02-19,2,2633,away,FALSE,Tennessee,61,Volunteers,Tennessee Volunteers,Tennessee
+220500098,2002,regular-season,2002-02-19,2,98,home,FALSE,Western Kentucky,100,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+220500098,2002,regular-season,2002-02-19,2,2310,away,FALSE,Kentucky State,63,Thorobreds,Kentucky State Thorobreds,Kentucky St

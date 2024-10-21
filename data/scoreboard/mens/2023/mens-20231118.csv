@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401577593,2023-11-18,2,156,home,FALSE,Creighton,82,Bluejays,Creighton Bluejays,Creighton
-401577593,2023-11-18,2,2640,away,FALSE,Texas Southern,50,Tigers,Texas Southern Tigers,Texas Southern
-401600915,2023-11-18,2,2226,home,FALSE,Florida Atlantic,52,Owls,Florida Atlantic Owls,FAU
-401600915,2023-11-18,2,2803,away,FALSE,Bryant,61,Bulldogs,Bryant Bulldogs,Bryant
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401577593,2024,regular-season,2023-11-18,2,156,home,FALSE,Creighton,82,Bluejays,Creighton Bluejays,Creighton
+401577593,2024,regular-season,2023-11-18,2,2640,away,FALSE,Texas Southern,50,Tigers,Texas Southern Tigers,Texas Southern
+401600915,2024,regular-season,2023-11-18,2,2226,home,FALSE,Florida Atlantic,52,Owls,Florida Atlantic Owls,FAU
+401600915,2024,regular-season,2023-11-18,2,2803,away,FALSE,Bryant,61,Bulldogs,Bryant Bulldogs,Bryant

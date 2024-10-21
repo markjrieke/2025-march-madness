@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400587874,2014-12-27,2,97,home,FALSE,Louisville,50,Cardinals,Louisville Cardinals,Louisville
-400587874,2014-12-27,2,96,away,FALSE,Kentucky,58,Wildcats,Kentucky Wildcats,Kentucky
-400587275,2014-12-27,2,252,home,FALSE,BYU,80,Cougars,BYU Cougars,BYU
-400587275,2014-12-27,2,2250,away,FALSE,Gonzaga,87,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400595431,2014-12-27,2,120,home,FALSE,Maryland,72,Terrapins,Maryland Terrapins,Maryland
-400595431,2014-12-27,2,2473,away,FALSE,Oakland,56,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-400587875,2014-12-27,2,153,home,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
-400587875,2014-12-27,2,5,away,FALSE,UAB,58,Blazers,UAB Blazers,UAB
-400595433,2014-12-27,2,194,home,FALSE,Ohio State,100,Buckeyes,Ohio State Buckeyes,Ohio State
-400595433,2014-12-27,2,2750,away,FALSE,Wright State,55,Raiders,Wright State Raiders,Wright St
-400590774,2014-12-27,3,166,home,FALSE,New Mexico State,57,Aggies,New Mexico State Aggies,New Mexico St
-400590774,2014-12-27,3,36,away,FALSE,Colorado State,58,Rams,Colorado State Rams,Colorado St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400587874,2015,regular-season,2014-12-27,2,97,home,FALSE,Louisville,50,Cardinals,Louisville Cardinals,Louisville
+400587874,2015,regular-season,2014-12-27,2,96,away,FALSE,Kentucky,58,Wildcats,Kentucky Wildcats,Kentucky
+400587275,2015,regular-season,2014-12-27,2,252,home,FALSE,BYU,80,Cougars,BYU Cougars,BYU
+400587275,2015,regular-season,2014-12-27,2,2250,away,FALSE,Gonzaga,87,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400595431,2015,regular-season,2014-12-27,2,120,home,FALSE,Maryland,72,Terrapins,Maryland Terrapins,Maryland
+400595431,2015,regular-season,2014-12-27,2,2473,away,FALSE,Oakland,56,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+400587875,2015,regular-season,2014-12-27,2,153,home,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
+400587875,2015,regular-season,2014-12-27,2,5,away,FALSE,UAB,58,Blazers,UAB Blazers,UAB
+400595433,2015,regular-season,2014-12-27,2,194,home,FALSE,Ohio State,100,Buckeyes,Ohio State Buckeyes,Ohio State
+400595433,2015,regular-season,2014-12-27,2,2750,away,FALSE,Wright State,55,Raiders,Wright State Raiders,Wright St
+400590774,2015,regular-season,2014-12-27,3,166,home,FALSE,New Mexico State,57,Aggies,New Mexico State Aggies,New Mexico St
+400590774,2015,regular-season,2014-12-27,3,36,away,FALSE,Colorado State,58,Rams,Colorado State Rams,Colorado St

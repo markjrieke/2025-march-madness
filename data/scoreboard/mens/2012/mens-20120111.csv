@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320110222,2012-01-11,2,222,home,FALSE,Villanova,66,Wildcats,Villanova Wildcats,Villanova
-320110222,2012-01-11,2,183,away,FALSE,Syracuse,79,Orange,Syracuse Orange,Syracuse
-320110002,2012-01-11,2,2,home,FALSE,Auburn,53,Tigers,Auburn Tigers,Auburn
-320110002,2012-01-11,2,96,away,FALSE,Kentucky,68,Wildcats,Kentucky Wildcats,Kentucky
-320110066,2012-01-11,2,66,home,FALSE,Iowa State,69,Cyclones,Iowa State Cyclones,Iowa State
-320110066,2012-01-11,2,142,away,FALSE,Missouri,76,Tigers,Missouri Tigers,Missouri
-320112641,2012-01-11,2,2641,home,FALSE,Texas Tech,46,Red Raiders,Texas Tech Red Raiders,Texas Tech
-320112641,2012-01-11,2,2305,away,FALSE,Kansas,81,Jayhawks,Kansas Jayhawks,Kansas
-320110130,2012-01-11,3,130,home,FALSE,Michigan,66,Wolverines,Michigan Wolverines,Michigan
-320110130,2012-01-11,3,77,away,FALSE,Northwestern,64,Wildcats,Northwestern Wildcats,Northwestern
-320110269,2012-01-11,2,269,home,FALSE,Marquette,83,Golden Eagles,Marquette Golden Eagles,Marquette
-320110269,2012-01-11,2,2599,away,FALSE,St. John's,64,Red Storm,St. John's Red Storm,St John's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320110222,2012,regular-season,2012-01-11,2,222,home,FALSE,Villanova,66,Wildcats,Villanova Wildcats,Villanova
+320110222,2012,regular-season,2012-01-11,2,183,away,FALSE,Syracuse,79,Orange,Syracuse Orange,Syracuse
+320110002,2012,regular-season,2012-01-11,2,2,home,FALSE,Auburn,53,Tigers,Auburn Tigers,Auburn
+320110002,2012,regular-season,2012-01-11,2,96,away,FALSE,Kentucky,68,Wildcats,Kentucky Wildcats,Kentucky
+320110066,2012,regular-season,2012-01-11,2,66,home,FALSE,Iowa State,69,Cyclones,Iowa State Cyclones,Iowa State
+320110066,2012,regular-season,2012-01-11,2,142,away,FALSE,Missouri,76,Tigers,Missouri Tigers,Missouri
+320112641,2012,regular-season,2012-01-11,2,2641,home,FALSE,Texas Tech,46,Red Raiders,Texas Tech Red Raiders,Texas Tech
+320112641,2012,regular-season,2012-01-11,2,2305,away,FALSE,Kansas,81,Jayhawks,Kansas Jayhawks,Kansas
+320110130,2012,regular-season,2012-01-11,3,130,home,FALSE,Michigan,66,Wolverines,Michigan Wolverines,Michigan
+320110130,2012,regular-season,2012-01-11,3,77,away,FALSE,Northwestern,64,Wildcats,Northwestern Wildcats,Northwestern
+320110269,2012,regular-season,2012-01-11,2,269,home,FALSE,Marquette,83,Golden Eagles,Marquette Golden Eagles,Marquette
+320110269,2012,regular-season,2012-01-11,2,2599,away,FALSE,St. John's,64,Red Storm,St. John's Red Storm,St John's

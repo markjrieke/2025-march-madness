@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400498389,2014-02-10,3,2306,home,FALSE,Kansas State,85,Wildcats,Kansas State Wildcats,Kansas St
-400498389,2014-02-10,3,2305,away,FALSE,Kansas,82,Jayhawks,Kansas Jayhawks,Kansas
-400498388,2014-02-10,2,277,home,FALSE,West Virginia,102,Mountaineers,West Virginia Mountaineers,West Virginia
-400498388,2014-02-10,2,66,away,FALSE,Iowa State,77,Cyclones,Iowa State Cyclones,Iowa State
-400502846,2014-02-10,2,258,home,FALSE,Virginia,61,Cavaliers,Virginia Cavaliers,Virginia
-400502846,2014-02-10,2,120,away,FALSE,Maryland,53,Terrapins,Maryland Terrapins,Maryland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400498389,2014,regular-season,2014-02-10,3,2306,home,FALSE,Kansas State,85,Wildcats,Kansas State Wildcats,Kansas St
+400498389,2014,regular-season,2014-02-10,3,2305,away,FALSE,Kansas,82,Jayhawks,Kansas Jayhawks,Kansas
+400498388,2014,regular-season,2014-02-10,2,277,home,FALSE,West Virginia,102,Mountaineers,West Virginia Mountaineers,West Virginia
+400498388,2014,regular-season,2014-02-10,2,66,away,FALSE,Iowa State,77,Cyclones,Iowa State Cyclones,Iowa State
+400502846,2014,regular-season,2014-02-10,2,258,home,FALSE,Virginia,61,Cavaliers,Virginia Cavaliers,Virginia
+400502846,2014,regular-season,2014-02-10,2,120,away,FALSE,Maryland,53,Terrapins,Maryland Terrapins,Maryland

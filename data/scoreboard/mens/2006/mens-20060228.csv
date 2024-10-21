@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260590135,2006-02-28,2,135,home,FALSE,Minnesota,65,Golden Gophers,Minnesota Golden Gophers,Minnesota
-260590135,2006-02-28,2,356,away,FALSE,Illinois,71,Fighting Illini,Illinois Fighting Illini,Illinois
-260590103,2006-02-28,2,103,home,FALSE,Boston College,80,Eagles,Boston College Eagles,Boston College
-260590103,2006-02-28,2,154,away,FALSE,Wake Forest,65,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-260592579,2006-02-28,2,2579,home,FALSE,South Carolina,61,Gamecocks,South Carolina Gamecocks,South Carolina
-260592579,2006-02-28,2,99,away,FALSE,LSU,64,Tigers,LSU Tigers,LSU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260590135,2006,regular-season,2006-02-28,2,135,home,FALSE,Minnesota,65,Golden Gophers,Minnesota Golden Gophers,Minnesota
+260590135,2006,regular-season,2006-02-28,2,356,away,FALSE,Illinois,71,Fighting Illini,Illinois Fighting Illini,Illinois
+260590103,2006,regular-season,2006-02-28,2,103,home,FALSE,Boston College,80,Eagles,Boston College Eagles,Boston College
+260590103,2006,regular-season,2006-02-28,2,154,away,FALSE,Wake Forest,65,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+260592579,2006,regular-season,2006-02-28,2,2579,home,FALSE,South Carolina,61,Gamecocks,South Carolina Gamecocks,South Carolina
+260592579,2006,regular-season,2006-02-28,2,99,away,FALSE,LSU,64,Tigers,LSU Tigers,LSU

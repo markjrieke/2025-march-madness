@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263530026,2006-12-19,2,26,home,FALSE,UCLA,75,Bruins,UCLA Bruins,UCLA
-263530026,2006-12-19,2,2534,away,FALSE,Sam Houston,61,Bearkats,Sam Houston Bearkats,Sam Houston
-263530153,2006-12-19,2,153,home,FALSE,North Carolina,105,Tar Heels,North Carolina Tar Heels,North Carolina
-263530153,2006-12-19,2,2226,away,FALSE,Florida Atlantic,52,Owls,Florida Atlantic Owls,FAU
-263530194,2006-12-19,2,194,home,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
-263530194,2006-12-19,2,66,away,FALSE,Iowa State,56,Cyclones,Iowa State Cyclones,Iowa State
-263530150,2006-12-19,2,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
-263530150,2006-12-19,2,2309,away,FALSE,Kent State,72,Golden Flashes,Kent State Golden Flashes,Kent State
-263532724,2006-12-19,2,2724,home,FALSE,Wichita State,74,Shockers,Wichita State Shockers,Wichita St
-263532724,2006-12-19,2,338,away,FALSE,Kennesaw State,65,Owls,Kennesaw State Owls,Kennesaw St
-263532305,2006-12-19,2,2305,home,FALSE,Kansas,94,Jayhawks,Kansas Jayhawks,Kansas
-263532305,2006-12-19,2,2736,away,FALSE,Winston-Salem,43,Rams,Winston-Salem Rams,Winston-Salem
-263530269,2006-12-19,2,269,home,FALSE,Marquette,80,Golden Eagles,Marquette Golden Eagles,Marquette
-263530269,2006-12-19,2,2473,away,FALSE,Oakland,62,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-263530087,2006-12-19,2,87,home,FALSE,Notre Dame,86,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-263530087,2006-12-19,2,2501,away,FALSE,Portland,69,Pilots,Portland Pilots,Portland
-263530183,2006-12-19,2,183,home,FALSE,Syracuse,79,Orange,Syracuse Orange,Syracuse
-263530183,2006-12-19,2,2182,away,FALSE,Drexel,84,Dragons,Drexel Dragons,Drexel
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263530026,2007,regular-season,2006-12-19,2,26,home,FALSE,UCLA,75,Bruins,UCLA Bruins,UCLA
+263530026,2007,regular-season,2006-12-19,2,2534,away,FALSE,Sam Houston,61,Bearkats,Sam Houston Bearkats,Sam Houston
+263530153,2007,regular-season,2006-12-19,2,153,home,FALSE,North Carolina,105,Tar Heels,North Carolina Tar Heels,North Carolina
+263530153,2007,regular-season,2006-12-19,2,2226,away,FALSE,Florida Atlantic,52,Owls,Florida Atlantic Owls,FAU
+263530194,2007,regular-season,2006-12-19,2,194,home,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
+263530194,2007,regular-season,2006-12-19,2,66,away,FALSE,Iowa State,56,Cyclones,Iowa State Cyclones,Iowa State
+263530150,2007,regular-season,2006-12-19,2,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
+263530150,2007,regular-season,2006-12-19,2,2309,away,FALSE,Kent State,72,Golden Flashes,Kent State Golden Flashes,Kent State
+263532724,2007,regular-season,2006-12-19,2,2724,home,FALSE,Wichita State,74,Shockers,Wichita State Shockers,Wichita St
+263532724,2007,regular-season,2006-12-19,2,338,away,FALSE,Kennesaw State,65,Owls,Kennesaw State Owls,Kennesaw St
+263532305,2007,regular-season,2006-12-19,2,2305,home,FALSE,Kansas,94,Jayhawks,Kansas Jayhawks,Kansas
+263532305,2007,regular-season,2006-12-19,2,2736,away,FALSE,Winston-Salem,43,Rams,Winston-Salem Rams,Winston-Salem
+263530269,2007,regular-season,2006-12-19,2,269,home,FALSE,Marquette,80,Golden Eagles,Marquette Golden Eagles,Marquette
+263530269,2007,regular-season,2006-12-19,2,2473,away,FALSE,Oakland,62,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+263530087,2007,regular-season,2006-12-19,2,87,home,FALSE,Notre Dame,86,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+263530087,2007,regular-season,2006-12-19,2,2501,away,FALSE,Portland,69,Pilots,Portland Pilots,Portland
+263530183,2007,regular-season,2006-12-19,2,183,home,FALSE,Syracuse,79,Orange,Syracuse Orange,Syracuse
+263530183,2007,regular-season,2006-12-19,2,2182,away,FALSE,Drexel,84,Dragons,Drexel Dragons,Drexel

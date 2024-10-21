@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250680239,2005-03-09,2,239,home,FALSE,Baylor,70,Bears,Baylor Bears,Baylor
-250680239,2005-03-09,2,142,away,FALSE,Missouri,52,Tigers,Missouri Tigers,Missouri
-250680251,2005-03-09,2,251,home,FALSE,Texas,65,Longhorns,Texas Longhorns,Texas
-250680251,2005-03-09,2,201,away,FALSE,Oklahoma,59,Sooners,Oklahoma Sooners,Oklahoma
-250682641,2005-03-09,2,2641,home,FALSE,Texas Tech,61,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-250682641,2005-03-09,2,66,away,FALSE,Iowa State,59,Cyclones,Iowa State Cyclones,Iowa State
-250682306,2005-03-09,2,2306,home,FALSE,Kansas State,71,Wildcats,Kansas State Wildcats,Kansas St
-250682306,2005-03-09,2,158,away,FALSE,Nebraska,45,Cornhuskers,Nebraska Cornhuskers,Nebraska
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250680239,2005,regular-season,2005-03-09,2,239,home,FALSE,Baylor,70,Bears,Baylor Bears,Baylor
+250680239,2005,regular-season,2005-03-09,2,142,away,FALSE,Missouri,52,Tigers,Missouri Tigers,Missouri
+250680251,2005,regular-season,2005-03-09,2,251,home,FALSE,Texas,65,Longhorns,Texas Longhorns,Texas
+250680251,2005,regular-season,2005-03-09,2,201,away,FALSE,Oklahoma,59,Sooners,Oklahoma Sooners,Oklahoma
+250682641,2005,regular-season,2005-03-09,2,2641,home,FALSE,Texas Tech,61,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+250682641,2005,regular-season,2005-03-09,2,66,away,FALSE,Iowa State,59,Cyclones,Iowa State Cyclones,Iowa State
+250682306,2005,regular-season,2005-03-09,2,2306,home,FALSE,Kansas State,71,Wildcats,Kansas State Wildcats,Kansas St
+250682306,2005,regular-season,2005-03-09,2,158,away,FALSE,Nebraska,45,Cornhuskers,Nebraska Cornhuskers,Nebraska

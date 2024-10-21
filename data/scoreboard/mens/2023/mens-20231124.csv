@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401591370,2023-11-24,2,41,home,FALSE,UConn,90,Huskies,UConn Huskies,UConn
-401591370,2023-11-24,2,2363,away,FALSE,Manhattan,60,Jaspers,Manhattan Jaspers,Manhattan
-401575437,2023-11-24,2,248,home,FALSE,Houston,79,Cougars,Houston Cougars,Houston
-401575437,2023-11-24,2,149,away,FALSE,Montana,44,Grizzlies,Montana Grizzlies,Montana
-401576152,2023-11-24,2,150,home,FALSE,Duke,80,Blue Devils,Duke Blue Devils,Duke
-401576152,2023-11-24,2,88,away,FALSE,Southern Indiana,62,Screaming Eagles,Southern Indiana Screaming Eagles,So Indiana
-401581565,2023-11-24,2,2226,home,TRUE,Florida Atlantic,96,Owls,Florida Atlantic Owls,FAU
-401581565,2023-11-24,2,245,away,TRUE,Texas A&M,89,Aggies,Texas A&M Aggies,Texas A&M
-401582118,2023-11-24,2,57,home,TRUE,Florida,91,Gators,Florida Gators,Florida
-401582118,2023-11-24,2,239,away,TRUE,Baylor,95,Bears,Baylor Bears,Baylor
-401581524,2023-11-24,2,153,home,TRUE,North Carolina,87,Tar Heels,North Carolina Tar Heels,North Carolina
-401581524,2023-11-24,2,8,away,TRUE,Arkansas,72,Razorbacks,Arkansas Razorbacks,Arkansas
-401581847,2023-11-24,2,96,home,FALSE,Kentucky,118,Wildcats,Kentucky Wildcats,Kentucky
-401581847,2023-11-24,2,276,away,FALSE,Marshall,82,Thundering Herd,Marshall Thundering Herd,Marshall
-401577636,2023-11-24,2,194,home,TRUE,Ohio State,92,Buckeyes,Ohio State Buckeyes,Ohio State
-401577636,2023-11-24,2,333,away,TRUE,Alabama,81,Crimson Tide,Alabama Crimson Tide,Alabama
-401586851,2023-11-24,2,30,home,TRUE,USC,70,Trojans,USC Trojans,USC
-401586851,2023-11-24,2,201,away,TRUE,Oklahoma,72,Sooners,Oklahoma Sooners,Oklahoma
-401606613,2023-11-24,2,344,home,FALSE,Mississippi State,74,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401606613,2023-11-24,2,2447,away,FALSE,Nicholls,61,Colonels,Nicholls Colonels,Nicholls
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401591370,2024,regular-season,2023-11-24,2,41,home,FALSE,UConn,90,Huskies,UConn Huskies,UConn
+401591370,2024,regular-season,2023-11-24,2,2363,away,FALSE,Manhattan,60,Jaspers,Manhattan Jaspers,Manhattan
+401575437,2024,regular-season,2023-11-24,2,248,home,FALSE,Houston,79,Cougars,Houston Cougars,Houston
+401575437,2024,regular-season,2023-11-24,2,149,away,FALSE,Montana,44,Grizzlies,Montana Grizzlies,Montana
+401576152,2024,regular-season,2023-11-24,2,150,home,FALSE,Duke,80,Blue Devils,Duke Blue Devils,Duke
+401576152,2024,regular-season,2023-11-24,2,88,away,FALSE,Southern Indiana,62,Screaming Eagles,Southern Indiana Screaming Eagles,So Indiana
+401581565,2024,regular-season,2023-11-24,2,2226,home,TRUE,Florida Atlantic,96,Owls,Florida Atlantic Owls,FAU
+401581565,2024,regular-season,2023-11-24,2,245,away,TRUE,Texas A&M,89,Aggies,Texas A&M Aggies,Texas A&M
+401582118,2024,regular-season,2023-11-24,2,57,home,TRUE,Florida,91,Gators,Florida Gators,Florida
+401582118,2024,regular-season,2023-11-24,2,239,away,TRUE,Baylor,95,Bears,Baylor Bears,Baylor
+401581524,2024,regular-season,2023-11-24,2,153,home,TRUE,North Carolina,87,Tar Heels,North Carolina Tar Heels,North Carolina
+401581524,2024,regular-season,2023-11-24,2,8,away,TRUE,Arkansas,72,Razorbacks,Arkansas Razorbacks,Arkansas
+401581847,2024,regular-season,2023-11-24,2,96,home,FALSE,Kentucky,118,Wildcats,Kentucky Wildcats,Kentucky
+401581847,2024,regular-season,2023-11-24,2,276,away,FALSE,Marshall,82,Thundering Herd,Marshall Thundering Herd,Marshall
+401577636,2024,regular-season,2023-11-24,2,194,home,TRUE,Ohio State,92,Buckeyes,Ohio State Buckeyes,Ohio State
+401577636,2024,regular-season,2023-11-24,2,333,away,TRUE,Alabama,81,Crimson Tide,Alabama Crimson Tide,Alabama
+401586851,2024,regular-season,2023-11-24,2,30,home,TRUE,USC,70,Trojans,USC Trojans,USC
+401586851,2024,regular-season,2023-11-24,2,201,away,TRUE,Oklahoma,72,Sooners,Oklahoma Sooners,Oklahoma
+401606613,2024,regular-season,2023-11-24,2,344,home,FALSE,Mississippi State,74,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401606613,2024,regular-season,2023-11-24,2,2447,away,FALSE,Nicholls,61,Colonels,Nicholls Colonels,Nicholls

@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263510201,2006-12-17,2,201,home,FALSE,Oklahoma,82,Sooners,Oklahoma Sooners,Oklahoma
-263510201,2006-12-17,2,2458,away,FALSE,Northern Colorado,36,Bears,Northern Colorado Bears,N Colorado
-263510251,2006-12-17,2,251,home,FALSE,Texas,46,Longhorns,Texas Longhorns,Texas
-263510251,2006-12-17,2,2633,away,FALSE,Tennessee,67,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-263510127,2006-12-17,2,127,home,FALSE,Michigan State,50,Spartans,Michigan State Spartans,Michigan St
-263510127,2006-12-17,2,99,away,FALSE,LSU,65,Tigers,LSU Tigers,LSU
-263510194,2006-12-17,2,194,home,FALSE,Ohio State,97,Buckeyes,Ohio State Buckeyes,Ohio State
-263510194,2006-12-17,2,47,away,FALSE,Howard,52,Bison,Howard Bison,Howard
-263510026,2006-12-17,2,26,home,FALSE,UCLA,70,Bruins,UCLA Bruins,UCLA
-263510026,2006-12-17,2,239,away,FALSE,Baylor,83,Bears,Baylor Bears,Baylor
-263510061,2006-12-17,2,61,home,FALSE,Georgia,80,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-263510061,2006-12-17,2,2628,away,FALSE,TCU,58,Horned Frogs,TCU Horned Frogs,TCU
-263510058,2006-12-17,2,58,home,FALSE,South Florida,68,Bulls,South Florida Bulls,South Florida
-263510058,2006-12-17,2,238,away,FALSE,Vanderbilt,76,Commodores,Vanderbilt Commodores,Vanderbilt
-263510082,2006-12-17,2,82,home,FALSE,UIC,65,Flames,UIC Flames,UIC
-263510082,2006-12-17,2,305,away,FALSE,DePaul,74,Blue Demons,DePaul Blue Demons,DePaul
-263510269,2006-12-17,2,269,home,FALSE,Marquette,75,Golden Eagles,Marquette Golden Eagles,Marquette
-263510269,2006-12-17,2,2250,away,FALSE,Gonzaga,60,Bulldogs,Gonzaga Bulldogs,Gonzaga
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263510201,2007,regular-season,2006-12-17,2,201,home,FALSE,Oklahoma,82,Sooners,Oklahoma Sooners,Oklahoma
+263510201,2007,regular-season,2006-12-17,2,2458,away,FALSE,Northern Colorado,36,Bears,Northern Colorado Bears,N Colorado
+263510251,2007,regular-season,2006-12-17,2,251,home,FALSE,Texas,46,Longhorns,Texas Longhorns,Texas
+263510251,2007,regular-season,2006-12-17,2,2633,away,FALSE,Tennessee,67,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+263510127,2007,regular-season,2006-12-17,2,127,home,FALSE,Michigan State,50,Spartans,Michigan State Spartans,Michigan St
+263510127,2007,regular-season,2006-12-17,2,99,away,FALSE,LSU,65,Tigers,LSU Tigers,LSU
+263510194,2007,regular-season,2006-12-17,2,194,home,FALSE,Ohio State,97,Buckeyes,Ohio State Buckeyes,Ohio State
+263510194,2007,regular-season,2006-12-17,2,47,away,FALSE,Howard,52,Bison,Howard Bison,Howard
+263510026,2007,regular-season,2006-12-17,2,26,home,FALSE,UCLA,70,Bruins,UCLA Bruins,UCLA
+263510026,2007,regular-season,2006-12-17,2,239,away,FALSE,Baylor,83,Bears,Baylor Bears,Baylor
+263510061,2007,regular-season,2006-12-17,2,61,home,FALSE,Georgia,80,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+263510061,2007,regular-season,2006-12-17,2,2628,away,FALSE,TCU,58,Horned Frogs,TCU Horned Frogs,TCU
+263510058,2007,regular-season,2006-12-17,2,58,home,FALSE,South Florida,68,Bulls,South Florida Bulls,South Florida
+263510058,2007,regular-season,2006-12-17,2,238,away,FALSE,Vanderbilt,76,Commodores,Vanderbilt Commodores,Vanderbilt
+263510082,2007,regular-season,2006-12-17,2,82,home,FALSE,UIC,65,Flames,UIC Flames,UIC
+263510082,2007,regular-season,2006-12-17,2,305,away,FALSE,DePaul,74,Blue Demons,DePaul Blue Demons,DePaul
+263510269,2007,regular-season,2006-12-17,2,269,home,FALSE,Marquette,75,Golden Eagles,Marquette Golden Eagles,Marquette
+263510269,2007,regular-season,2006-12-17,2,2250,away,FALSE,Gonzaga,60,Bulldogs,Gonzaga Bulldogs,Gonzaga

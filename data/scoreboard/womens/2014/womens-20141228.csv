@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400590444,2014-12-28,2,26,home,FALSE,UCLA,67,Bruins,UCLA Bruins,UCLA
-400590444,2014-12-28,2,87,away,FALSE,Notre Dame,82,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400590443,2014-12-28,2,2633,home,FALSE,Tennessee,74,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400590443,2014-12-28,2,204,away,FALSE,Oregon State,63,Beavers,Oregon State Beavers,Oregon St
-400594983,2014-12-28,2,96,home,FALSE,Kentucky,87,Wildcats,Kentucky Wildcats,Kentucky
-400594983,2014-12-28,2,2634,away,FALSE,Tennessee State,75,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
-400588227,2014-12-28,2,2550,home,FALSE,Seton Hall,70,Pirates,Seton Hall Pirates,Seton Hall
-400588227,2014-12-28,2,61,away,FALSE,Georgia,51,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-400590442,2014-12-28,2,24,home,FALSE,Stanford,90,Cardinal,Stanford Cardinal,Stanford
-400590442,2014-12-28,2,2540,away,FALSE,UC Santa Barbara,34,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-400596648,2014-12-28,2,84,home,FALSE,Indiana,51,Hoosiers,Indiana Hoosiers,Indiana
-400596648,2014-12-28,2,164,away,FALSE,Rutgers,66,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400596646,2014-12-28,2,127,home,FALSE,Michigan State,57,Spartans,Michigan State Spartans,Michigan St
-400596646,2014-12-28,2,77,away,FALSE,Northwestern,61,Wildcats,Northwestern Wildcats,Northwestern
-400593046,2014-12-28,2,183,home,FALSE,Syracuse,76,Orange,Syracuse Orange,Syracuse
-400593046,2014-12-28,2,172,away,FALSE,Cornell,59,Big Red,Cornell Big Red,Cornell
-400596647,2014-12-28,2,2294,home,FALSE,Iowa,77,Hawkeyes,Iowa Hawkeyes,Iowa
-400596647,2014-12-28,2,213,away,FALSE,Penn State,52,Lady Lions,Penn State Lady Lions,Penn State
-400592784,2014-12-28,2,2168,home,FALSE,Dayton,72,Flyers,Dayton Flyers,Dayton
-400592784,2014-12-28,2,2739,away,FALSE,Green Bay,66,Phoenix,Green Bay Phoenix,Green Bay
-400590445,2014-12-28,2,9,home,FALSE,Arizona State,69,Sun Devils,Arizona State Sun Devils,Arizona St
-400590445,2014-12-28,2,43,away,FALSE,Yale,51,Bulldogs,Yale Bulldogs,Yale
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400590444,2015,regular-season,2014-12-28,2,26,home,FALSE,UCLA,67,Bruins,UCLA Bruins,UCLA
+400590444,2015,regular-season,2014-12-28,2,87,away,FALSE,Notre Dame,82,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400590443,2015,regular-season,2014-12-28,2,2633,home,FALSE,Tennessee,74,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400590443,2015,regular-season,2014-12-28,2,204,away,FALSE,Oregon State,63,Beavers,Oregon State Beavers,Oregon St
+400594983,2015,regular-season,2014-12-28,2,96,home,FALSE,Kentucky,87,Wildcats,Kentucky Wildcats,Kentucky
+400594983,2015,regular-season,2014-12-28,2,2634,away,FALSE,Tennessee State,75,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
+400588227,2015,regular-season,2014-12-28,2,2550,home,FALSE,Seton Hall,70,Pirates,Seton Hall Pirates,Seton Hall
+400588227,2015,regular-season,2014-12-28,2,61,away,FALSE,Georgia,51,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+400590442,2015,regular-season,2014-12-28,2,24,home,FALSE,Stanford,90,Cardinal,Stanford Cardinal,Stanford
+400590442,2015,regular-season,2014-12-28,2,2540,away,FALSE,UC Santa Barbara,34,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+400596648,2015,regular-season,2014-12-28,2,84,home,FALSE,Indiana,51,Hoosiers,Indiana Hoosiers,Indiana
+400596648,2015,regular-season,2014-12-28,2,164,away,FALSE,Rutgers,66,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400596646,2015,regular-season,2014-12-28,2,127,home,FALSE,Michigan State,57,Spartans,Michigan State Spartans,Michigan St
+400596646,2015,regular-season,2014-12-28,2,77,away,FALSE,Northwestern,61,Wildcats,Northwestern Wildcats,Northwestern
+400593046,2015,regular-season,2014-12-28,2,183,home,FALSE,Syracuse,76,Orange,Syracuse Orange,Syracuse
+400593046,2015,regular-season,2014-12-28,2,172,away,FALSE,Cornell,59,Big Red,Cornell Big Red,Cornell
+400596647,2015,regular-season,2014-12-28,2,2294,home,FALSE,Iowa,77,Hawkeyes,Iowa Hawkeyes,Iowa
+400596647,2015,regular-season,2014-12-28,2,213,away,FALSE,Penn State,52,Lady Lions,Penn State Lady Lions,Penn State
+400592784,2015,regular-season,2014-12-28,2,2168,home,FALSE,Dayton,72,Flyers,Dayton Flyers,Dayton
+400592784,2015,regular-season,2014-12-28,2,2739,away,FALSE,Green Bay,66,Phoenix,Green Bay Phoenix,Green Bay
+400590445,2015,regular-season,2014-12-28,2,9,home,FALSE,Arizona State,69,Sun Devils,Arizona State Sun Devils,Arizona St
+400590445,2015,regular-season,2014-12-28,2,43,away,FALSE,Yale,51,Bulldogs,Yale Bulldogs,Yale

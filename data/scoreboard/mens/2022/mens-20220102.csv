@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401364357,2022-01-02,2,77,home,FALSE,Northwestern,67,Wildcats,Northwestern Wildcats,Northwestern
-401364357,2022-01-02,2,127,away,FALSE,Michigan State,73,Spartans,Michigan State Spartans,Michigan St
-401377699,2022-01-02,2,218,home,FALSE,Temple,61,Owls,Temple Owls,Temple
-401377699,2022-01-02,2,248,away,FALSE,Houston,66,Cougars,Houston Cougars,Houston
-401364358,2022-01-02,3,158,home,FALSE,Nebraska,79,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401364358,2022-01-02,3,194,away,FALSE,Ohio State,87,Buckeyes,Ohio State Buckeyes,Ohio State
-401377395,2022-01-02,0,30,home,FALSE,USC,0,Trojans,USC Trojans,USC
-401377395,2022-01-02,0,12,away,FALSE,Arizona,0,Wildcats,Arizona Wildcats,Arizona
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401364357,2022,regular-season,2022-01-02,2,77,home,FALSE,Northwestern,67,Wildcats,Northwestern Wildcats,Northwestern
+401364357,2022,regular-season,2022-01-02,2,127,away,FALSE,Michigan State,73,Spartans,Michigan State Spartans,Michigan St
+401377699,2022,regular-season,2022-01-02,2,218,home,FALSE,Temple,61,Owls,Temple Owls,Temple
+401377699,2022,regular-season,2022-01-02,2,248,away,FALSE,Houston,66,Cougars,Houston Cougars,Houston
+401364358,2022,regular-season,2022-01-02,3,158,home,FALSE,Nebraska,79,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401364358,2022,regular-season,2022-01-02,3,194,away,FALSE,Ohio State,87,Buckeyes,Ohio State Buckeyes,Ohio State
+401377395,2022,regular-season,2022-01-02,0,30,home,FALSE,USC,0,Trojans,USC Trojans,USC
+401377395,2022,regular-season,2022-01-02,0,12,away,FALSE,Arizona,0,Wildcats,Arizona Wildcats,Arizona

@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400915873,2017-02-11,2,2608,home,FALSE,Saint Mary's,64,Gaels,Saint Mary's Gaels,Saint Mary's
-400915873,2017-02-11,2,2250,away,FALSE,Gonzaga,74,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400919718,2017-02-11,2,2752,home,FALSE,Xavier,57,Musketeers,Xavier Musketeers,Xavier
-400919718,2017-02-11,2,222,away,FALSE,Villanova,73,Wildcats,Villanova Wildcats,Villanova
-400916240,2017-02-11,2,2641,home,FALSE,Texas Tech,79,Red Raiders,Texas Tech Red Raiders,Texas Tech
-400916240,2017-02-11,2,2305,away,FALSE,Kansas,80,Jayhawks,Kansas Jayhawks,Kansas
-400915437,2017-02-11,2,97,home,FALSE,Louisville,71,Cardinals,Louisville Cardinals,Louisville
-400915437,2017-02-11,2,2390,away,FALSE,Miami,66,Hurricanes,Miami Hurricanes,Miami
-400915671,2017-02-11,2,30,home,FALSE,USC,70,Trojans,USC Trojans,USC
-400915671,2017-02-11,2,2483,away,FALSE,Oregon,81,Ducks,Oregon Ducks,Oregon
-400915668,2017-02-11,2,12,home,FALSE,Arizona,62,Wildcats,Arizona Wildcats,Arizona
-400915668,2017-02-11,2,25,away,FALSE,California,57,Golden Bears,California Golden Bears,California
-400916238,2017-02-11,2,277,home,FALSE,West Virginia,85,Mountaineers,West Virginia Mountaineers,West Virginia
-400916238,2017-02-11,2,2306,away,FALSE,Kansas State,66,Wildcats,Kansas State Wildcats,Kansas St
-400915435,2017-02-11,2,87,home,FALSE,Notre Dame,84,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400915435,2017-02-11,2,52,away,FALSE,Florida State,72,Seminoles,Florida State Seminoles,Florida St
-400910652,2017-02-11,2,57,home,FALSE,Florida,71,Gators,Florida Gators,Florida
-400910652,2017-02-11,2,245,away,FALSE,Texas A&M,62,Aggies,Texas A&M Aggies,Texas A&M
-400915434,2017-02-11,2,150,home,FALSE,Duke,64,Blue Devils,Duke Blue Devils,Duke
-400915434,2017-02-11,2,228,away,FALSE,Clemson,62,Tigers,Clemson Tigers,Clemson
-400910737,2017-02-11,2,344,home,FALSE,Mississippi State,73,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400910737,2017-02-11,2,2579,away,FALSE,South Carolina,77,Gamecocks,South Carolina Gamecocks,South Carolina
-400915037,2017-02-11,2,120,home,FALSE,Maryland,86,Terrapins,Maryland Terrapins,Maryland
-400915037,2017-02-11,2,194,away,FALSE,Ohio State,77,Buckeyes,Ohio State Buckeyes,Ohio State
-400919717,2017-02-11,2,305,home,FALSE,DePaul,58,Blue Demons,DePaul Blue Demons,DePaul
-400919717,2017-02-11,2,156,away,FALSE,Creighton,93,Bluejays,Creighton Bluejays,Creighton
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400915873,2017,regular-season,2017-02-11,2,2608,home,FALSE,Saint Mary's,64,Gaels,Saint Mary's Gaels,Saint Mary's
+400915873,2017,regular-season,2017-02-11,2,2250,away,FALSE,Gonzaga,74,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400919718,2017,regular-season,2017-02-11,2,2752,home,FALSE,Xavier,57,Musketeers,Xavier Musketeers,Xavier
+400919718,2017,regular-season,2017-02-11,2,222,away,FALSE,Villanova,73,Wildcats,Villanova Wildcats,Villanova
+400916240,2017,regular-season,2017-02-11,2,2641,home,FALSE,Texas Tech,79,Red Raiders,Texas Tech Red Raiders,Texas Tech
+400916240,2017,regular-season,2017-02-11,2,2305,away,FALSE,Kansas,80,Jayhawks,Kansas Jayhawks,Kansas
+400915437,2017,regular-season,2017-02-11,2,97,home,FALSE,Louisville,71,Cardinals,Louisville Cardinals,Louisville
+400915437,2017,regular-season,2017-02-11,2,2390,away,FALSE,Miami,66,Hurricanes,Miami Hurricanes,Miami
+400915671,2017,regular-season,2017-02-11,2,30,home,FALSE,USC,70,Trojans,USC Trojans,USC
+400915671,2017,regular-season,2017-02-11,2,2483,away,FALSE,Oregon,81,Ducks,Oregon Ducks,Oregon
+400915668,2017,regular-season,2017-02-11,2,12,home,FALSE,Arizona,62,Wildcats,Arizona Wildcats,Arizona
+400915668,2017,regular-season,2017-02-11,2,25,away,FALSE,California,57,Golden Bears,California Golden Bears,California
+400916238,2017,regular-season,2017-02-11,2,277,home,FALSE,West Virginia,85,Mountaineers,West Virginia Mountaineers,West Virginia
+400916238,2017,regular-season,2017-02-11,2,2306,away,FALSE,Kansas State,66,Wildcats,Kansas State Wildcats,Kansas St
+400915435,2017,regular-season,2017-02-11,2,87,home,FALSE,Notre Dame,84,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400915435,2017,regular-season,2017-02-11,2,52,away,FALSE,Florida State,72,Seminoles,Florida State Seminoles,Florida St
+400910652,2017,regular-season,2017-02-11,2,57,home,FALSE,Florida,71,Gators,Florida Gators,Florida
+400910652,2017,regular-season,2017-02-11,2,245,away,FALSE,Texas A&M,62,Aggies,Texas A&M Aggies,Texas A&M
+400915434,2017,regular-season,2017-02-11,2,150,home,FALSE,Duke,64,Blue Devils,Duke Blue Devils,Duke
+400915434,2017,regular-season,2017-02-11,2,228,away,FALSE,Clemson,62,Tigers,Clemson Tigers,Clemson
+400910737,2017,regular-season,2017-02-11,2,344,home,FALSE,Mississippi State,73,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400910737,2017,regular-season,2017-02-11,2,2579,away,FALSE,South Carolina,77,Gamecocks,South Carolina Gamecocks,South Carolina
+400915037,2017,regular-season,2017-02-11,2,120,home,FALSE,Maryland,86,Terrapins,Maryland Terrapins,Maryland
+400915037,2017,regular-season,2017-02-11,2,194,away,FALSE,Ohio State,77,Buckeyes,Ohio State Buckeyes,Ohio State
+400919717,2017,regular-season,2017-02-11,2,305,home,FALSE,DePaul,58,Blue Demons,DePaul Blue Demons,DePaul
+400919717,2017,regular-season,2017-02-11,2,156,away,FALSE,Creighton,93,Bluejays,Creighton Bluejays,Creighton

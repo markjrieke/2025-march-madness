@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293200096,2009-11-16,2,96,home,FALSE,Kentucky,72,Wildcats,Kentucky Wildcats,Kentucky
-293200096,2009-11-16,2,193,away,FALSE,Miami (OH),70,RedHawks,Miami (OH) RedHawks,Miami OH
-293200222,2009-11-16,2,222,home,FALSE,Villanova,103,Wildcats,Villanova Wildcats,Villanova
-293200222,2009-11-16,2,219,away,FALSE,Pennsylvania,65,Quakers,Pennsylvania Quakers,Penn
-293200150,2009-11-16,2,150,home,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
-293200150,2009-11-16,2,324,away,FALSE,Coastal Carolina,49,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
-293200041,2009-11-16,2,41,home,FALSE,UConn,77,Huskies,UConn Huskies,UConn
-293200041,2009-11-16,2,2142,away,FALSE,Colgate,63,Raiders,Colgate Raiders,Colgate
-293200135,2009-11-16,2,135,home,FALSE,Minnesota,82,Golden Gophers,Minnesota Golden Gophers,Minnesota
-293200135,2009-11-16,2,2617,away,FALSE,Stephen F. Austin,42,Lumberjacks,Stephen F. Austin Lumberjacks,SF Austin
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293200096,2010,regular-season,2009-11-16,2,96,home,FALSE,Kentucky,72,Wildcats,Kentucky Wildcats,Kentucky
+293200096,2010,regular-season,2009-11-16,2,193,away,FALSE,Miami (OH),70,RedHawks,Miami (OH) RedHawks,Miami OH
+293200222,2010,regular-season,2009-11-16,2,222,home,FALSE,Villanova,103,Wildcats,Villanova Wildcats,Villanova
+293200222,2010,regular-season,2009-11-16,2,219,away,FALSE,Pennsylvania,65,Quakers,Pennsylvania Quakers,Penn
+293200150,2010,regular-season,2009-11-16,2,150,home,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
+293200150,2010,regular-season,2009-11-16,2,324,away,FALSE,Coastal Carolina,49,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+293200041,2010,regular-season,2009-11-16,2,41,home,FALSE,UConn,77,Huskies,UConn Huskies,UConn
+293200041,2010,regular-season,2009-11-16,2,2142,away,FALSE,Colgate,63,Raiders,Colgate Raiders,Colgate
+293200135,2010,regular-season,2009-11-16,2,135,home,FALSE,Minnesota,82,Golden Gophers,Minnesota Golden Gophers,Minnesota
+293200135,2010,regular-season,2009-11-16,2,2617,away,FALSE,Stephen F. Austin,42,Lumberjacks,Stephen F. Austin Lumberjacks,SF Austin

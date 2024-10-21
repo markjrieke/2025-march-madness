@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313530194,2011-12-19,2,194,home,FALSE,Ohio State,88,Buckeyes,Ohio State Buckeyes,Ohio State
-313530194,2011-12-19,2,2429,away,FALSE,Charlotte,58,49ers,Charlotte 49ers,Charlotte
-313530265,2011-12-19,2,265,home,FALSE,Washington State,71,Cougars,Washington State Cougars,Washington St
-313530265,2011-12-19,2,97,away,FALSE,Louisville,75,Cardinals,Louisville Cardinals,Louisville
-313532507,2011-12-19,2,2507,home,FALSE,Providence,47,Friars,Providence Friars,Providence
-313532507,2011-12-19,2,48,away,FALSE,Delaware,68,Blue Hens,Delaware Blue Hens,Delaware
-313532287,2011-12-19,2,2287,home,FALSE,Illinois State,54,Redbirds,Illinois State Redbirds,Illinois St
-313532287,2011-12-19,2,305,away,FALSE,DePaul,73,Blue Demons,DePaul Blue Demons,DePaul
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313530194,2012,regular-season,2011-12-19,2,194,home,FALSE,Ohio State,88,Buckeyes,Ohio State Buckeyes,Ohio State
+313530194,2012,regular-season,2011-12-19,2,2429,away,FALSE,Charlotte,58,49ers,Charlotte 49ers,Charlotte
+313530265,2012,regular-season,2011-12-19,2,265,home,FALSE,Washington State,71,Cougars,Washington State Cougars,Washington St
+313530265,2012,regular-season,2011-12-19,2,97,away,FALSE,Louisville,75,Cardinals,Louisville Cardinals,Louisville
+313532507,2012,regular-season,2011-12-19,2,2507,home,FALSE,Providence,47,Friars,Providence Friars,Providence
+313532507,2012,regular-season,2011-12-19,2,48,away,FALSE,Delaware,68,Blue Hens,Delaware Blue Hens,Delaware
+313532287,2012,regular-season,2011-12-19,2,2287,home,FALSE,Illinois State,54,Redbirds,Illinois State Redbirds,Illinois St
+313532287,2012,regular-season,2011-12-19,2,305,away,FALSE,DePaul,73,Blue Demons,DePaul Blue Demons,DePaul

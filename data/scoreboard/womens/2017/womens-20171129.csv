@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400987782,2017-11-29,4,344,home,FALSE,Mississippi State,94,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400987782,2017-11-29,4,309,away,FALSE,Louisiana,37,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
-400994381,2017-11-29,4,2539,home,FALSE,San Francisco,66,Dons,San Francisco Dons,San Francisco
-400994381,2017-11-29,4,24,away,FALSE,Stanford,86,Cardinal,Stanford Cardinal,Stanford
-400987888,2017-11-29,4,245,home,FALSE,Texas A&M,82,Aggies,Texas A&M Aggies,Texas A&M
-400987888,2017-11-29,4,242,away,FALSE,Rice,76,Owls,Rice Owls,Rice
-400995928,2017-11-29,4,163,home,FALSE,Princeton,59,Tigers,Princeton Tigers,Princeton
-400995928,2017-11-29,4,222,away,FALSE,Villanova,62,Wildcats,Villanova Wildcats,Villanova
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400987782,2018,regular-season,2017-11-29,4,344,home,FALSE,Mississippi State,94,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400987782,2018,regular-season,2017-11-29,4,309,away,FALSE,Louisiana,37,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+400994381,2018,regular-season,2017-11-29,4,2539,home,FALSE,San Francisco,66,Dons,San Francisco Dons,San Francisco
+400994381,2018,regular-season,2017-11-29,4,24,away,FALSE,Stanford,86,Cardinal,Stanford Cardinal,Stanford
+400987888,2018,regular-season,2017-11-29,4,245,home,FALSE,Texas A&M,82,Aggies,Texas A&M Aggies,Texas A&M
+400987888,2018,regular-season,2017-11-29,4,242,away,FALSE,Rice,76,Owls,Rice Owls,Rice
+400995928,2018,regular-season,2017-11-29,4,163,home,FALSE,Princeton,59,Tigers,Princeton Tigers,Princeton
+400995928,2018,regular-season,2017-11-29,4,222,away,FALSE,Villanova,62,Wildcats,Villanova Wildcats,Villanova

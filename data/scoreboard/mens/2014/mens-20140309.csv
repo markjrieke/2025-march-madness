@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400502899,2014-03-09,3,120,home,FALSE,Maryland,75,Terrapins,Maryland Terrapins,Maryland
-400502899,2014-03-09,3,258,away,FALSE,Virginia,69,Cavaliers,Virginia Cavaliers,Virginia
-400502900,2014-03-09,2,52,home,FALSE,Florida State,58,Seminoles,Florida State Seminoles,Florida St
-400502900,2014-03-09,2,183,away,FALSE,Syracuse,74,Orange,Syracuse Orange,Syracuse
-400510066,2014-03-09,2,158,home,FALSE,Nebraska,77,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400510066,2014-03-09,2,275,away,FALSE,Wisconsin,68,Badgers,Wisconsin Badgers,Wisconsin
-400506282,2014-03-09,2,113,home,FALSE,Massachusetts,62,Minutemen,Massachusetts Minutemen,UMass
-400506282,2014-03-09,2,139,away,FALSE,Saint Louis,64,Billikens,Saint Louis Billikens,Saint Louis
-400510065,2014-03-09,2,194,home,FALSE,Ohio State,69,Buckeyes,Ohio State Buckeyes,Ohio State
-400510065,2014-03-09,2,127,away,FALSE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400502899,2014,regular-season,2014-03-09,3,120,home,FALSE,Maryland,75,Terrapins,Maryland Terrapins,Maryland
+400502899,2014,regular-season,2014-03-09,3,258,away,FALSE,Virginia,69,Cavaliers,Virginia Cavaliers,Virginia
+400502900,2014,regular-season,2014-03-09,2,52,home,FALSE,Florida State,58,Seminoles,Florida State Seminoles,Florida St
+400502900,2014,regular-season,2014-03-09,2,183,away,FALSE,Syracuse,74,Orange,Syracuse Orange,Syracuse
+400510066,2014,regular-season,2014-03-09,2,158,home,FALSE,Nebraska,77,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400510066,2014,regular-season,2014-03-09,2,275,away,FALSE,Wisconsin,68,Badgers,Wisconsin Badgers,Wisconsin
+400506282,2014,regular-season,2014-03-09,2,113,home,FALSE,Massachusetts,62,Minutemen,Massachusetts Minutemen,UMass
+400506282,2014,regular-season,2014-03-09,2,139,away,FALSE,Saint Louis,64,Billikens,Saint Louis Billikens,Saint Louis
+400510065,2014,regular-season,2014-03-09,2,194,home,FALSE,Ohio State,69,Buckeyes,Ohio State Buckeyes,Ohio State
+400510065,2014,regular-season,2014-03-09,2,127,away,FALSE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St

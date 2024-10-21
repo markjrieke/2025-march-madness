@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401498717,2023-02-25,4,254,home,FALSE,Utah,84,Utes,Utah Utes,Utah
-401498717,2023-02-25,4,24,away,FALSE,Stanford,78,Cardinal,Stanford Cardinal,Stanford
-401487254,2023-02-25,4,305,home,FALSE,DePaul,69,Blue Demons,DePaul Blue Demons,DePaul
-401487254,2023-02-25,4,41,away,FALSE,UConn,72,Huskies,UConn Huskies,UConn
-401494207,2023-02-25,4,201,home,FALSE,Oklahoma,45,Sooners,Oklahoma Sooners,Oklahoma
-401494207,2023-02-25,4,251,away,FALSE,Texas,67,Longhorns,Texas Longhorns,Texas
-401498718,2023-02-25,4,204,home,FALSE,Oregon State,78,Beavers,Oregon State Beavers,Oregon St
-401498718,2023-02-25,4,12,away,FALSE,Arizona,70,Wildcats,Arizona Wildcats,Arizona
-401498719,2023-02-25,4,26,home,FALSE,UCLA,70,Bruins,UCLA Bruins,UCLA
-401498719,2023-02-25,4,264,away,FALSE,Washington,62,Huskies,Washington Huskies,Washington
-401474780,2023-02-25,4,252,home,FALSE,BYU,51,Cougars,BYU Cougars,BYU
-401474780,2023-02-25,4,2250,away,FALSE,Gonzaga,58,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401494206,2023-02-25,4,66,home,FALSE,Iowa State,84,Cyclones,Iowa State Cyclones,Iowa State
-401494206,2023-02-25,4,2628,away,FALSE,TCU,56,Horned Frogs,TCU Horned Frogs,TCU
-401498716,2023-02-25,4,38,home,FALSE,Colorado,95,Buffaloes,Colorado Buffaloes,Colorado
-401498716,2023-02-25,4,25,away,FALSE,California,69,Golden Bears,California Golden Bears,California
-401485705,2023-02-25,4,2439,home,FALSE,UNLV,65,Lady Rebels,UNLV Lady Rebels,UNLV
-401485705,2023-02-25,4,21,away,FALSE,San Diego State,59,Aztecs,San Diego State Aztecs,San Diego St
-401492553,2023-02-25,4,2348,home,FALSE,Louisiana Tech,59,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-401492553,2023-02-25,4,2393,away,FALSE,Middle Tennessee,61,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401498717,2023,regular-season,2023-02-25,4,254,home,FALSE,Utah,84,Utes,Utah Utes,Utah
+401498717,2023,regular-season,2023-02-25,4,24,away,FALSE,Stanford,78,Cardinal,Stanford Cardinal,Stanford
+401487254,2023,regular-season,2023-02-25,4,305,home,FALSE,DePaul,69,Blue Demons,DePaul Blue Demons,DePaul
+401487254,2023,regular-season,2023-02-25,4,41,away,FALSE,UConn,72,Huskies,UConn Huskies,UConn
+401494207,2023,regular-season,2023-02-25,4,201,home,FALSE,Oklahoma,45,Sooners,Oklahoma Sooners,Oklahoma
+401494207,2023,regular-season,2023-02-25,4,251,away,FALSE,Texas,67,Longhorns,Texas Longhorns,Texas
+401498718,2023,regular-season,2023-02-25,4,204,home,FALSE,Oregon State,78,Beavers,Oregon State Beavers,Oregon St
+401498718,2023,regular-season,2023-02-25,4,12,away,FALSE,Arizona,70,Wildcats,Arizona Wildcats,Arizona
+401498719,2023,regular-season,2023-02-25,4,26,home,FALSE,UCLA,70,Bruins,UCLA Bruins,UCLA
+401498719,2023,regular-season,2023-02-25,4,264,away,FALSE,Washington,62,Huskies,Washington Huskies,Washington
+401474780,2023,regular-season,2023-02-25,4,252,home,FALSE,BYU,51,Cougars,BYU Cougars,BYU
+401474780,2023,regular-season,2023-02-25,4,2250,away,FALSE,Gonzaga,58,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401494206,2023,regular-season,2023-02-25,4,66,home,FALSE,Iowa State,84,Cyclones,Iowa State Cyclones,Iowa State
+401494206,2023,regular-season,2023-02-25,4,2628,away,FALSE,TCU,56,Horned Frogs,TCU Horned Frogs,TCU
+401498716,2023,regular-season,2023-02-25,4,38,home,FALSE,Colorado,95,Buffaloes,Colorado Buffaloes,Colorado
+401498716,2023,regular-season,2023-02-25,4,25,away,FALSE,California,69,Golden Bears,California Golden Bears,California
+401485705,2023,regular-season,2023-02-25,4,2439,home,FALSE,UNLV,65,Lady Rebels,UNLV Lady Rebels,UNLV
+401485705,2023,regular-season,2023-02-25,4,21,away,FALSE,San Diego State,59,Aztecs,San Diego State Aztecs,San Diego St
+401492553,2023,regular-season,2023-02-25,4,2348,home,FALSE,Louisiana Tech,59,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+401492553,2023,regular-season,2023-02-25,4,2393,away,FALSE,Middle Tennessee,61,Blue Raiders,Middle Tennessee Blue Raiders,MTSU

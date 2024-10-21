@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253310150,2005-11-27,2,150,home,FALSE,Duke,69,Blue Devils,Duke Blue Devils,Duke
-253310150,2005-11-27,2,2,away,FALSE,Auburn,37,Tigers,Auburn Tigers,Auburn
-253310194,2005-11-27,2,194,home,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
-253310194,2005-11-27,2,2710,away,FALSE,Western Illinois,36,Leathernecks,Western Illinois Leathernecks,W Illinois
-253310239,2005-11-27,2,239,home,FALSE,Baylor,74,Bears,Baylor Bears,Baylor
-253310239,2005-11-27,2,276,away,FALSE,Marshall,47,Thundering Herd,Marshall Thundering Herd,Marshall
-253310325,2005-11-27,2,325,home,FALSE,Cleveland State,51,Vikings,Cleveland State Vikings,Cleveland St
-253310325,2005-11-27,2,41,away,FALSE,UConn,85,Huskies,UConn Huskies,UConn
-253310087,2005-11-27,2,87,home,FALSE,Notre Dame,73,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-253310087,2005-11-27,2,30,away,FALSE,USC,62,Trojans,USC Trojans,USC
-253312641,2005-11-27,2,2641,home,FALSE,Texas Tech,63,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-253312641,2005-11-27,2,24,away,FALSE,Stanford,66,Cardinal,Stanford Cardinal,Stanford
-253310305,2005-11-27,2,305,home,FALSE,DePaul,76,Blue Demons,DePaul Blue Demons,DePaul
-253310305,2005-11-27,2,275,away,FALSE,Wisconsin,57,Badgers,Wisconsin Badgers,Wisconsin
-253312261,2005-11-27,2,2261,home,FALSE,Hampton,38,Lady Pirates,Hampton Lady Pirates,Hampton
-253312261,2005-11-27,2,218,away,FALSE,Temple,81,Owls,Temple Owls,Temple
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253310150,2006,regular-season,2005-11-27,2,150,home,FALSE,Duke,69,Blue Devils,Duke Blue Devils,Duke
+253310150,2006,regular-season,2005-11-27,2,2,away,FALSE,Auburn,37,Tigers,Auburn Tigers,Auburn
+253310194,2006,regular-season,2005-11-27,2,194,home,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
+253310194,2006,regular-season,2005-11-27,2,2710,away,FALSE,Western Illinois,36,Leathernecks,Western Illinois Leathernecks,W Illinois
+253310239,2006,regular-season,2005-11-27,2,239,home,FALSE,Baylor,74,Bears,Baylor Bears,Baylor
+253310239,2006,regular-season,2005-11-27,2,276,away,FALSE,Marshall,47,Thundering Herd,Marshall Thundering Herd,Marshall
+253310325,2006,regular-season,2005-11-27,2,325,home,FALSE,Cleveland State,51,Vikings,Cleveland State Vikings,Cleveland St
+253310325,2006,regular-season,2005-11-27,2,41,away,FALSE,UConn,85,Huskies,UConn Huskies,UConn
+253310087,2006,regular-season,2005-11-27,2,87,home,FALSE,Notre Dame,73,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+253310087,2006,regular-season,2005-11-27,2,30,away,FALSE,USC,62,Trojans,USC Trojans,USC
+253312641,2006,regular-season,2005-11-27,2,2641,home,FALSE,Texas Tech,63,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+253312641,2006,regular-season,2005-11-27,2,24,away,FALSE,Stanford,66,Cardinal,Stanford Cardinal,Stanford
+253310305,2006,regular-season,2005-11-27,2,305,home,FALSE,DePaul,76,Blue Demons,DePaul Blue Demons,DePaul
+253310305,2006,regular-season,2005-11-27,2,275,away,FALSE,Wisconsin,57,Badgers,Wisconsin Badgers,Wisconsin
+253312261,2006,regular-season,2005-11-27,2,2261,home,FALSE,Hampton,38,Lady Pirates,Hampton Lady Pirates,Hampton
+253312261,2006,regular-season,2005-11-27,2,218,away,FALSE,Temple,81,Owls,Temple Owls,Temple

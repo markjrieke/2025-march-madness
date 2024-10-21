@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310440238,2011-02-13,2,238,home,FALSE,Vanderbilt,57,Commodores,Vanderbilt Commodores,Vanderbilt
-310440238,2011-02-13,2,2633,away,FALSE,Tennessee,65,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-310440150,2011-02-13,2,150,home,FALSE,Duke,66,Blue Devils,Duke Blue Devils,Duke
-310440150,2011-02-13,2,103,away,FALSE,Boston College,53,Eagles,Boston College Eagles,Boston College
-310440127,2011-02-13,2,127,home,FALSE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
-310440127,2011-02-13,2,130,away,FALSE,Michigan,56,Wolverines,Michigan Wolverines,Michigan
-310440120,2011-02-13,2,120,home,FALSE,Maryland,57,Terrapins,Maryland Terrapins,Maryland
-310440120,2011-02-13,2,258,away,FALSE,Virginia,60,Cavaliers,Virginia Cavaliers,Virginia
-310440153,2011-02-13,2,153,home,FALSE,North Carolina,66,Tar Heels,North Carolina Tar Heels,North Carolina
-310440153,2011-02-13,2,2390,away,FALSE,Miami,78,Hurricanes,Miami Hurricanes,Miami
-310440096,2011-02-13,2,96,home,FALSE,Kentucky,49,Wildcats,Kentucky Wildcats,Kentucky
-310440096,2011-02-13,2,99,away,FALSE,LSU,47,Tigers,LSU Tigers,LSU
-310442599,2011-02-13,3,2599,home,FALSE,St. John's,75,Red Storm,St. John's Red Storm,St John's
-310442599,2011-02-13,3,46,away,FALSE,Georgetown,71,Hoyas,Georgetown Hoyas,Georgetown
-310440097,2011-02-13,2,97,home,FALSE,Louisville,57,Cardinals,Louisville Cardinals,Louisville
-310440097,2011-02-13,2,277,away,FALSE,West Virginia,47,Mountaineers,West Virginia Mountaineers,West Virginia
-310440066,2011-02-13,2,66,home,FALSE,Iowa State,61,Cyclones,Iowa State Cyclones,Iowa State
-310440066,2011-02-13,2,2306,away,FALSE,Kansas State,53,Wildcats,Kansas State Wildcats,Kansas St
-310440084,2011-02-13,2,84,home,FALSE,Indiana,77,Hoosiers,Indiana Hoosiers,Indiana
-310440084,2011-02-13,2,213,away,FALSE,Penn State,80,Lady Lions,Penn State Lady Lions,Penn State
-310440145,2011-02-13,2,145,home,FALSE,Ole Miss,56,Rebels,Ole Miss Rebels,Ole Miss
-310440145,2011-02-13,2,61,away,FALSE,Georgia,61,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310440238,2011,regular-season,2011-02-13,2,238,home,FALSE,Vanderbilt,57,Commodores,Vanderbilt Commodores,Vanderbilt
+310440238,2011,regular-season,2011-02-13,2,2633,away,FALSE,Tennessee,65,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+310440150,2011,regular-season,2011-02-13,2,150,home,FALSE,Duke,66,Blue Devils,Duke Blue Devils,Duke
+310440150,2011,regular-season,2011-02-13,2,103,away,FALSE,Boston College,53,Eagles,Boston College Eagles,Boston College
+310440127,2011,regular-season,2011-02-13,2,127,home,FALSE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
+310440127,2011,regular-season,2011-02-13,2,130,away,FALSE,Michigan,56,Wolverines,Michigan Wolverines,Michigan
+310440120,2011,regular-season,2011-02-13,2,120,home,FALSE,Maryland,57,Terrapins,Maryland Terrapins,Maryland
+310440120,2011,regular-season,2011-02-13,2,258,away,FALSE,Virginia,60,Cavaliers,Virginia Cavaliers,Virginia
+310440153,2011,regular-season,2011-02-13,2,153,home,FALSE,North Carolina,66,Tar Heels,North Carolina Tar Heels,North Carolina
+310440153,2011,regular-season,2011-02-13,2,2390,away,FALSE,Miami,78,Hurricanes,Miami Hurricanes,Miami
+310440096,2011,regular-season,2011-02-13,2,96,home,FALSE,Kentucky,49,Wildcats,Kentucky Wildcats,Kentucky
+310440096,2011,regular-season,2011-02-13,2,99,away,FALSE,LSU,47,Tigers,LSU Tigers,LSU
+310442599,2011,regular-season,2011-02-13,3,2599,home,FALSE,St. John's,75,Red Storm,St. John's Red Storm,St John's
+310442599,2011,regular-season,2011-02-13,3,46,away,FALSE,Georgetown,71,Hoyas,Georgetown Hoyas,Georgetown
+310440097,2011,regular-season,2011-02-13,2,97,home,FALSE,Louisville,57,Cardinals,Louisville Cardinals,Louisville
+310440097,2011,regular-season,2011-02-13,2,277,away,FALSE,West Virginia,47,Mountaineers,West Virginia Mountaineers,West Virginia
+310440066,2011,regular-season,2011-02-13,2,66,home,FALSE,Iowa State,61,Cyclones,Iowa State Cyclones,Iowa State
+310440066,2011,regular-season,2011-02-13,2,2306,away,FALSE,Kansas State,53,Wildcats,Kansas State Wildcats,Kansas St
+310440084,2011,regular-season,2011-02-13,2,84,home,FALSE,Indiana,77,Hoosiers,Indiana Hoosiers,Indiana
+310440084,2011,regular-season,2011-02-13,2,213,away,FALSE,Penn State,80,Lady Lions,Penn State Lady Lions,Penn State
+310440145,2011,regular-season,2011-02-13,2,145,home,FALSE,Ole Miss,56,Rebels,Ole Miss Rebels,Ole Miss
+310440145,2011,regular-season,2011-02-13,2,61,away,FALSE,Georgia,61,Lady Bulldogs,Georgia Lady Bulldogs,Georgia

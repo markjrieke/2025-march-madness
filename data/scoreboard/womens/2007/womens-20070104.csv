@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270040153,2007-01-04,2,153,home,FALSE,North Carolina,102,Tar Heels,North Carolina Tar Heels,North Carolina
-270040153,2007-01-04,2,259,away,FALSE,Virginia Tech,68,Hokies,Virginia Tech Hokies,Virginia Tech
-270040194,2007-01-04,2,194,home,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
-270040194,2007-01-04,2,135,away,FALSE,Minnesota,62,Golden Gophers,Minnesota Golden Gophers,Minnesota
-270040238,2007-01-04,2,238,home,FALSE,Vanderbilt,98,Commodores,Vanderbilt Commodores,Vanderbilt
-270040238,2007-01-04,2,8,away,FALSE,Arkansas,61,Razorbacks,Arkansas Razorbacks,Arkansas
-270040009,2007-01-04,2,9,home,FALSE,Arizona State,89,Sun Devils,Arizona State Sun Devils,Arizona St
-270040009,2007-01-04,2,265,away,FALSE,Washington State,44,Cougars,Washington State Cougars,Washington St
-270040061,2007-01-04,2,61,home,FALSE,Georgia,89,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-270040061,2007-01-04,2,57,away,FALSE,Florida,57,Gators,Florida Gators,Florida
-270040084,2007-01-04,3,84,home,FALSE,Indiana,56,Hoosiers,Indiana Hoosiers,Indiana
-270040084,2007-01-04,3,127,away,FALSE,Michigan State,64,Spartans,Michigan State Spartans,Michigan St
-270042751,2007-01-04,2,2751,home,FALSE,Wyoming,54,Cowgirls,Wyoming Cowgirls,Wyoming
-270042751,2007-01-04,2,167,away,FALSE,New Mexico,51,Lobos,New Mexico Lobos,New Mexico
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270040153,2007,regular-season,2007-01-04,2,153,home,FALSE,North Carolina,102,Tar Heels,North Carolina Tar Heels,North Carolina
+270040153,2007,regular-season,2007-01-04,2,259,away,FALSE,Virginia Tech,68,Hokies,Virginia Tech Hokies,Virginia Tech
+270040194,2007,regular-season,2007-01-04,2,194,home,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
+270040194,2007,regular-season,2007-01-04,2,135,away,FALSE,Minnesota,62,Golden Gophers,Minnesota Golden Gophers,Minnesota
+270040238,2007,regular-season,2007-01-04,2,238,home,FALSE,Vanderbilt,98,Commodores,Vanderbilt Commodores,Vanderbilt
+270040238,2007,regular-season,2007-01-04,2,8,away,FALSE,Arkansas,61,Razorbacks,Arkansas Razorbacks,Arkansas
+270040009,2007,regular-season,2007-01-04,2,9,home,FALSE,Arizona State,89,Sun Devils,Arizona State Sun Devils,Arizona St
+270040009,2007,regular-season,2007-01-04,2,265,away,FALSE,Washington State,44,Cougars,Washington State Cougars,Washington St
+270040061,2007,regular-season,2007-01-04,2,61,home,FALSE,Georgia,89,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+270040061,2007,regular-season,2007-01-04,2,57,away,FALSE,Florida,57,Gators,Florida Gators,Florida
+270040084,2007,regular-season,2007-01-04,3,84,home,FALSE,Indiana,56,Hoosiers,Indiana Hoosiers,Indiana
+270040084,2007,regular-season,2007-01-04,3,127,away,FALSE,Michigan State,64,Spartans,Michigan State Spartans,Michigan St
+270042751,2007,regular-season,2007-01-04,2,2751,home,FALSE,Wyoming,54,Cowgirls,Wyoming Cowgirls,Wyoming
+270042751,2007,regular-season,2007-01-04,2,167,away,FALSE,New Mexico,51,Lobos,New Mexico Lobos,New Mexico

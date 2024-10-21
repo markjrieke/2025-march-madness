@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401258824,2021-02-24,2,8,home,FALSE,Arkansas,81,Razorbacks,Arkansas Razorbacks,Arkansas
-401258824,2021-02-24,2,333,away,FALSE,Alabama,66,Crimson Tide,Alabama Crimson Tide,Alabama
-401265104,2021-02-24,2,2390,home,FALSE,Miami,71,Hurricanes,Miami Hurricanes,Miami
-401265104,2021-02-24,2,52,away,FALSE,Florida State,88,Seminoles,Florida State Seminoles,Florida St
-401269657,2021-02-24,2,156,home,FALSE,Creighton,77,Bluejays,Creighton Bluejays,Creighton
-401269657,2021-02-24,2,305,away,FALSE,DePaul,53,Blue Demons,DePaul Blue Demons,DePaul
-401284855,2021-02-24,2,258,home,FALSE,Virginia,61,Cavaliers,Virginia Cavaliers,Virginia
-401284855,2021-02-24,2,152,away,FALSE,NC State,68,Wolfpack,NC State Wolfpack,NC State
-401258826,2021-02-24,2,238,home,FALSE,Vanderbilt,58,Commodores,Vanderbilt Commodores,Vanderbilt
-401258826,2021-02-24,2,2633,away,FALSE,Tennessee,70,Volunteers,Tennessee Volunteers,Tennessee
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401258824,2021,regular-season,2021-02-24,2,8,home,FALSE,Arkansas,81,Razorbacks,Arkansas Razorbacks,Arkansas
+401258824,2021,regular-season,2021-02-24,2,333,away,FALSE,Alabama,66,Crimson Tide,Alabama Crimson Tide,Alabama
+401265104,2021,regular-season,2021-02-24,2,2390,home,FALSE,Miami,71,Hurricanes,Miami Hurricanes,Miami
+401265104,2021,regular-season,2021-02-24,2,52,away,FALSE,Florida State,88,Seminoles,Florida State Seminoles,Florida St
+401269657,2021,regular-season,2021-02-24,2,156,home,FALSE,Creighton,77,Bluejays,Creighton Bluejays,Creighton
+401269657,2021,regular-season,2021-02-24,2,305,away,FALSE,DePaul,53,Blue Demons,DePaul Blue Demons,DePaul
+401284855,2021,regular-season,2021-02-24,2,258,home,FALSE,Virginia,61,Cavaliers,Virginia Cavaliers,Virginia
+401284855,2021,regular-season,2021-02-24,2,152,away,FALSE,NC State,68,Wolfpack,NC State Wolfpack,NC State
+401258826,2021,regular-season,2021-02-24,2,238,home,FALSE,Vanderbilt,58,Commodores,Vanderbilt Commodores,Vanderbilt
+401258826,2021,regular-season,2021-02-24,2,2633,away,FALSE,Tennessee,70,Volunteers,Tennessee Volunteers,Tennessee

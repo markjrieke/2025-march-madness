@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270222633,2007-01-22,2,2633,home,FALSE,Tennessee,70,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-270222633,2007-01-22,2,150,away,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
-270220201,2007-01-22,4,201,home,FALSE,Oklahoma,86,Sooners,Oklahoma Sooners,Oklahoma
-270220201,2007-01-22,4,2641,away,FALSE,Texas Tech,81,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270222633,2007,regular-season,2007-01-22,2,2633,home,FALSE,Tennessee,70,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+270222633,2007,regular-season,2007-01-22,2,150,away,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
+270220201,2007,regular-season,2007-01-22,4,201,home,FALSE,Oklahoma,86,Sooners,Oklahoma Sooners,Oklahoma
+270220201,2007,regular-season,2007-01-22,4,2641,away,FALSE,Texas Tech,81,Lady Raiders,Texas Tech Lady Raiders,Texas Tech

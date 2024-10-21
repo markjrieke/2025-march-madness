@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313132599,2011-11-09,2,2599,home,FALSE,St. John's,78,Red Storm,St. John's Red Storm,St John's
-313132599,2011-11-09,2,2329,away,FALSE,Lehigh,73,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-313130344,2011-11-09,2,344,home,FALSE,Mississippi State,58,Bulldogs,Mississippi State Bulldogs,Mississippi St
-313130344,2011-11-09,2,2006,away,FALSE,Akron,68,Zips,Akron Zips,Akron
-313130245,2011-11-09,2,245,home,FALSE,Texas A&M,81,Aggies,Texas A&M Aggies,Texas A&M
-313130245,2011-11-09,2,2335,away,FALSE,Liberty,59,Flames,Liberty Flames,Liberty
-313130012,2011-11-09,2,12,home,FALSE,Arizona,67,Wildcats,Arizona Wildcats,Arizona
-313130012,2011-11-09,2,2184,away,FALSE,Duquesne,59,Dukes,Duquesne Dukes,Duquesne
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313132599,2012,regular-season,2011-11-09,2,2599,home,FALSE,St. John's,78,Red Storm,St. John's Red Storm,St John's
+313132599,2012,regular-season,2011-11-09,2,2329,away,FALSE,Lehigh,73,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+313130344,2012,regular-season,2011-11-09,2,344,home,FALSE,Mississippi State,58,Bulldogs,Mississippi State Bulldogs,Mississippi St
+313130344,2012,regular-season,2011-11-09,2,2006,away,FALSE,Akron,68,Zips,Akron Zips,Akron
+313130245,2012,regular-season,2011-11-09,2,245,home,FALSE,Texas A&M,81,Aggies,Texas A&M Aggies,Texas A&M
+313130245,2012,regular-season,2011-11-09,2,2335,away,FALSE,Liberty,59,Flames,Liberty Flames,Liberty
+313130012,2012,regular-season,2011-11-09,2,12,home,FALSE,Arizona,67,Wildcats,Arizona Wildcats,Arizona
+313130012,2012,regular-season,2011-11-09,2,2184,away,FALSE,Duquesne,59,Dukes,Duquesne Dukes,Duquesne

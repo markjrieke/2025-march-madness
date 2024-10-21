@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240510248,2004-02-20,2,248,home,FALSE,Houston,84,Cougars,Houston Cougars,Houston
-240510248,2004-02-20,2,305,away,FALSE,DePaul,75,Blue Demons,DePaul Blue Demons,DePaul
-240512628,2004-02-20,2,2628,home,FALSE,TCU,56,Horned Frogs,TCU Horned Frogs,TCU
-240512628,2004-02-20,2,269,away,FALSE,Marquette,47,Golden Eagles,Marquette Golden Eagles,Marquette
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240510248,2004,regular-season,2004-02-20,2,248,home,FALSE,Houston,84,Cougars,Houston Cougars,Houston
+240510248,2004,regular-season,2004-02-20,2,305,away,FALSE,DePaul,75,Blue Demons,DePaul Blue Demons,DePaul
+240512628,2004,regular-season,2004-02-20,2,2628,home,FALSE,TCU,56,Horned Frogs,TCU Horned Frogs,TCU
+240512628,2004,regular-season,2004-02-20,2,269,away,FALSE,Marquette,47,Golden Eagles,Marquette Golden Eagles,Marquette

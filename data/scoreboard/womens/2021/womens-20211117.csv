@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401369369,2021-11-17,4,2579,home,FALSE,South Carolina,76,Gamecocks,South Carolina Gamecocks,South Carolina
-401369369,2021-11-17,4,228,away,FALSE,Clemson,45,Tigers,Clemson Tigers,Clemson
-401380641,2021-11-17,4,2294,home,FALSE,Iowa,87,Hawkeyes,Iowa Hawkeyes,Iowa
-401380641,2021-11-17,4,2582,away,FALSE,Southern,67,Jaguars,Southern Jaguars,Southern
-401369371,2021-11-17,4,97,home,FALSE,Louisville,62,Cardinals,Louisville Cardinals,Louisville
-401369371,2021-11-17,4,2630,away,FALSE,UT Martin,30,Skyhawks,UT Martin Skyhawks,UT Martin
-401376967,2021-11-17,4,251,home,FALSE,Texas,88,Longhorns,Texas Longhorns,Texas
-401376967,2021-11-17,4,2546,away,FALSE,Southeast Missouri State,47,Redhawks,Southeast Missouri State Redhawks,SE Missouri
-401375646,2021-11-17,4,204,home,FALSE,Oregon State,80,Beavers,Oregon State Beavers,Oregon St
-401375646,2021-11-17,4,2856,away,FALSE,California Baptist,72,Lancers,California Baptist Lancers,CA Baptist
-401369370,2021-11-17,4,2193,home,FALSE,East Tennessee State,42,Bucs,East Tennessee State Bucs,ETSU
-401369370,2021-11-17,4,59,away,FALSE,Georgia Tech,65,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-401380661,2021-11-17,4,194,home,FALSE,Ohio State,94,Buckeyes,Ohio State Buckeyes,Ohio State
-401380661,2021-11-17,4,189,away,FALSE,Bowling Green,63,Falcons,Bowling Green Falcons,Bowling Green
-401369375,2021-11-17,4,259,home,FALSE,Virginia Tech,85,Hokies,Virginia Tech Hokies,Virginia Tech
-401369375,2021-11-17,4,2154,away,FALSE,Coppin State,32,Eagles,Coppin State Eagles,Coppin St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401369369,2022,regular-season,2021-11-17,4,2579,home,FALSE,South Carolina,76,Gamecocks,South Carolina Gamecocks,South Carolina
+401369369,2022,regular-season,2021-11-17,4,228,away,FALSE,Clemson,45,Tigers,Clemson Tigers,Clemson
+401380641,2022,regular-season,2021-11-17,4,2294,home,FALSE,Iowa,87,Hawkeyes,Iowa Hawkeyes,Iowa
+401380641,2022,regular-season,2021-11-17,4,2582,away,FALSE,Southern,67,Jaguars,Southern Jaguars,Southern
+401369371,2022,regular-season,2021-11-17,4,97,home,FALSE,Louisville,62,Cardinals,Louisville Cardinals,Louisville
+401369371,2022,regular-season,2021-11-17,4,2630,away,FALSE,UT Martin,30,Skyhawks,UT Martin Skyhawks,UT Martin
+401376967,2022,regular-season,2021-11-17,4,251,home,FALSE,Texas,88,Longhorns,Texas Longhorns,Texas
+401376967,2022,regular-season,2021-11-17,4,2546,away,FALSE,Southeast Missouri State,47,Redhawks,Southeast Missouri State Redhawks,SE Missouri
+401375646,2022,regular-season,2021-11-17,4,204,home,FALSE,Oregon State,80,Beavers,Oregon State Beavers,Oregon St
+401375646,2022,regular-season,2021-11-17,4,2856,away,FALSE,California Baptist,72,Lancers,California Baptist Lancers,CA Baptist
+401369370,2022,regular-season,2021-11-17,4,2193,home,FALSE,East Tennessee State,42,Bucs,East Tennessee State Bucs,ETSU
+401369370,2022,regular-season,2021-11-17,4,59,away,FALSE,Georgia Tech,65,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+401380661,2022,regular-season,2021-11-17,4,194,home,FALSE,Ohio State,94,Buckeyes,Ohio State Buckeyes,Ohio State
+401380661,2022,regular-season,2021-11-17,4,189,away,FALSE,Bowling Green,63,Falcons,Bowling Green Falcons,Bowling Green
+401369375,2022,regular-season,2021-11-17,4,259,home,FALSE,Virginia Tech,85,Hokies,Virginia Tech Hokies,Virginia Tech
+401369375,2022,regular-season,2021-11-17,4,2154,away,FALSE,Coppin State,32,Eagles,Coppin State Eagles,Coppin St

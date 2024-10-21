@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230060221,2003-01-06,2,221,home,FALSE,Pittsburgh,72,Panthers,Pittsburgh Panthers,Pitt
-230060221,2003-01-06,2,87,away,FALSE,Notre Dame,55,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-230060066,2003-01-06,2,66,home,FALSE,Iowa State,54,Cyclones,Iowa State Cyclones,Iowa State
-230060066,2003-01-06,2,2305,away,FALSE,Kansas,83,Jayhawks,Kansas Jayhawks,Kansas
-230060021,2003-01-06,2,21,home,FALSE,San Diego State,63,Aztecs,San Diego State Aztecs,San Diego St
-230060021,2003-01-06,2,2641,away,FALSE,Texas Tech,75,Red Raiders,Texas Tech Red Raiders,Texas Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230060221,2003,regular-season,2003-01-06,2,221,home,FALSE,Pittsburgh,72,Panthers,Pittsburgh Panthers,Pitt
+230060221,2003,regular-season,2003-01-06,2,87,away,FALSE,Notre Dame,55,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+230060066,2003,regular-season,2003-01-06,2,66,home,FALSE,Iowa State,54,Cyclones,Iowa State Cyclones,Iowa State
+230060066,2003,regular-season,2003-01-06,2,2305,away,FALSE,Kansas,83,Jayhawks,Kansas Jayhawks,Kansas
+230060021,2003,regular-season,2003-01-06,2,21,home,FALSE,San Diego State,63,Aztecs,San Diego State Aztecs,San Diego St
+230060021,2003,regular-season,2003-01-06,2,2641,away,FALSE,Texas Tech,75,Red Raiders,Texas Tech Red Raiders,Texas Tech

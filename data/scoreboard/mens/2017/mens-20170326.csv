@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400948729,2017-03-26,2,57,home,TRUE,Florida,70,Gators,Florida Gators,Florida
-400948729,2017-03-26,2,2579,away,TRUE,South Carolina,77,Gamecocks,South Carolina Gamecocks,South Carolina
-400948726,2017-03-26,2,153,home,TRUE,North Carolina,75,Tar Heels,North Carolina Tar Heels,North Carolina
-400948726,2017-03-26,2,96,away,TRUE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400948729,2017,post-season,2017-03-26,2,57,home,TRUE,Florida,70,Gators,Florida Gators,Florida
+400948729,2017,post-season,2017-03-26,2,2579,away,TRUE,South Carolina,77,Gamecocks,South Carolina Gamecocks,South Carolina
+400948726,2017,post-season,2017-03-26,2,153,home,TRUE,North Carolina,75,Tar Heels,North Carolina Tar Heels,North Carolina
+400948726,2017,post-season,2017-03-26,2,96,away,TRUE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky

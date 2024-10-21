@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330150087,2013-01-15,2,87,home,FALSE,Notre Dame,79,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-330150087,2013-01-15,2,46,away,FALSE,Georgetown,64,Hoyas,Georgetown Hoyas,Georgetown
-330150041,2013-01-15,2,41,home,FALSE,UConn,72,Huskies,UConn Huskies,UConn
-330150041,2013-01-15,2,97,away,FALSE,Louisville,58,Cardinals,Louisville Cardinals,Louisville
-330150066,2013-01-15,2,66,home,FALSE,Iowa State,82,Cyclones,Iowa State Cyclones,Iowa State
-330150066,2013-01-15,2,201,away,FALSE,Oklahoma,61,Sooners,Oklahoma Sooners,Oklahoma
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330150087,2013,regular-season,2013-01-15,2,87,home,FALSE,Notre Dame,79,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+330150087,2013,regular-season,2013-01-15,2,46,away,FALSE,Georgetown,64,Hoyas,Georgetown Hoyas,Georgetown
+330150041,2013,regular-season,2013-01-15,2,41,home,FALSE,UConn,72,Huskies,UConn Huskies,UConn
+330150041,2013,regular-season,2013-01-15,2,97,away,FALSE,Louisville,58,Cardinals,Louisville Cardinals,Louisville
+330150066,2013,regular-season,2013-01-15,2,66,home,FALSE,Iowa State,82,Cyclones,Iowa State Cyclones,Iowa State
+330150066,2013,regular-season,2013-01-15,2,201,away,FALSE,Oklahoma,61,Sooners,Oklahoma Sooners,Oklahoma

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401599531,2024-02-14,2,305,home,FALSE,DePaul,65,Blue Demons,DePaul Blue Demons,DePaul
-401599531,2024-02-14,2,41,away,FALSE,UConn,101,Huskies,UConn Huskies,UConn
-401597186,2024-02-14,2,8,home,FALSE,Arkansas,63,Razorbacks,Arkansas Razorbacks,Arkansas
-401597186,2024-02-14,2,2633,away,FALSE,Tennessee,92,Volunteers,Tennessee Volunteers,Tennessee
-401597185,2024-02-14,2,2,home,FALSE,Auburn,101,Tigers,Auburn Tigers,Auburn
-401597185,2024-02-14,2,2579,away,FALSE,South Carolina,61,Gamecocks,South Carolina Gamecocks,South Carolina
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401599531,2024,regular-season,2024-02-14,2,305,home,FALSE,DePaul,65,Blue Demons,DePaul Blue Demons,DePaul
+401599531,2024,regular-season,2024-02-14,2,41,away,FALSE,UConn,101,Huskies,UConn Huskies,UConn
+401597186,2024,regular-season,2024-02-14,2,8,home,FALSE,Arkansas,63,Razorbacks,Arkansas Razorbacks,Arkansas
+401597186,2024,regular-season,2024-02-14,2,2633,away,FALSE,Tennessee,92,Volunteers,Tennessee Volunteers,Tennessee
+401597185,2024,regular-season,2024-02-14,2,2,home,FALSE,Auburn,101,Tigers,Auburn Tigers,Auburn
+401597185,2024,regular-season,2024-02-14,2,2579,away,FALSE,South Carolina,61,Gamecocks,South Carolina Gamecocks,South Carolina

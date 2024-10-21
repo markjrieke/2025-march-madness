@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400592381,2015-01-24,2,239,home,FALSE,Baylor,68,Bears,Baylor Bears,Baylor
-400592381,2015-01-24,2,2306,away,FALSE,Kansas State,46,Wildcats,Kansas State Wildcats,Kansas St
-400593108,2015-01-24,2,228,home,FALSE,Clemson,36,Tigers,Clemson Tigers,Clemson
-400593108,2015-01-24,2,87,away,FALSE,Notre Dame,74,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400590080,2015-01-24,2,2636,home,FALSE,UTSA,64,Roadrunners,UTSA Roadrunners,UTSA
-400590080,2015-01-24,2,98,away,FALSE,Western Kentucky,63,Lady Toppers,Western Kentucky Lady Toppers,Western KY
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400592381,2015,regular-season,2015-01-24,2,239,home,FALSE,Baylor,68,Bears,Baylor Bears,Baylor
+400592381,2015,regular-season,2015-01-24,2,2306,away,FALSE,Kansas State,46,Wildcats,Kansas State Wildcats,Kansas St
+400593108,2015,regular-season,2015-01-24,2,228,home,FALSE,Clemson,36,Tigers,Clemson Tigers,Clemson
+400593108,2015,regular-season,2015-01-24,2,87,away,FALSE,Notre Dame,74,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400590080,2015,regular-season,2015-01-24,2,2636,home,FALSE,UTSA,64,Roadrunners,UTSA Roadrunners,UTSA
+400590080,2015,regular-season,2015-01-24,2,98,away,FALSE,Western Kentucky,63,Lady Toppers,Western Kentucky Lady Toppers,Western KY

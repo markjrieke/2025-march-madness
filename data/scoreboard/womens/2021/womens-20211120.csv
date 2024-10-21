@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401380637,2021-11-20,4,2514,home,FALSE,Quinnipiac,59,Bobcats,Quinnipiac Bobcats,Quinnipiac
-401380637,2021-11-20,4,84,away,FALSE,Indiana,67,Hoosiers,Indiana Hoosiers,Indiana
-401369382,2021-11-20,4,264,home,FALSE,Washington,53,Huskies,Washington Huskies,Washington
-401369382,2021-11-20,4,97,away,FALSE,Louisville,61,Cardinals,Louisville Cardinals,Louisville
-401380646,2021-11-20,4,2117,home,FALSE,Central Michigan,45,Chippewas,Central Michigan Chippewas,C Michigan
-401380646,2021-11-20,4,130,away,FALSE,Michigan,69,Wolverines,Michigan Wolverines,Michigan
-401376845,2021-11-20,4,204,home,FALSE,Oregon State,82,Beavers,Oregon State Beavers,Oregon St
-401376845,2021-11-20,4,2934,away,FALSE,Cal State Bakersfield,51,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
-401369385,2021-11-20,4,259,home,FALSE,Virginia Tech,84,Hokies,Virginia Tech Hokies,Virginia Tech
-401369385,2021-11-20,4,2097,away,FALSE,Campbell,39,Fighting Camels,Campbell Fighting Camels,Campbell
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401380637,2022,regular-season,2021-11-20,4,2514,home,FALSE,Quinnipiac,59,Bobcats,Quinnipiac Bobcats,Quinnipiac
+401380637,2022,regular-season,2021-11-20,4,84,away,FALSE,Indiana,67,Hoosiers,Indiana Hoosiers,Indiana
+401369382,2022,regular-season,2021-11-20,4,264,home,FALSE,Washington,53,Huskies,Washington Huskies,Washington
+401369382,2022,regular-season,2021-11-20,4,97,away,FALSE,Louisville,61,Cardinals,Louisville Cardinals,Louisville
+401380646,2022,regular-season,2021-11-20,4,2117,home,FALSE,Central Michigan,45,Chippewas,Central Michigan Chippewas,C Michigan
+401380646,2022,regular-season,2021-11-20,4,130,away,FALSE,Michigan,69,Wolverines,Michigan Wolverines,Michigan
+401376845,2022,regular-season,2021-11-20,4,204,home,FALSE,Oregon State,82,Beavers,Oregon State Beavers,Oregon St
+401376845,2022,regular-season,2021-11-20,4,2934,away,FALSE,Cal State Bakersfield,51,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+401369385,2022,regular-season,2021-11-20,4,259,home,FALSE,Virginia Tech,84,Hokies,Virginia Tech Hokies,Virginia Tech
+401369385,2022,regular-season,2021-11-20,4,2097,away,FALSE,Campbell,39,Fighting Camels,Campbell Fighting Camels,Campbell

@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293502633,2009-12-16,2,2633,home,FALSE,Tennessee,86,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-293502633,2009-12-16,2,97,away,FALSE,Louisville,56,Cardinals,Louisville Cardinals,Louisville
-293500099,2009-12-16,2,99,home,FALSE,LSU,75,Tigers,LSU Tigers,LSU
-293500099,2009-12-16,2,2448,away,FALSE,North Carolina A&T,33,Aggies,North Carolina A&T Aggies,NC A&T
-293500239,2009-12-16,2,239,home,FALSE,Baylor,101,Bears,Baylor Bears,Baylor
-293500239,2009-12-16,2,198,away,FALSE,Oral Roberts,76,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-293502116,2009-12-16,2,2116,home,FALSE,UCF,58,Knights,UCF Knights,UCF
-293502116,2009-12-16,2,52,away,FALSE,Florida State,70,Seminoles,Florida State Seminoles,Florida St
-293500251,2009-12-16,2,251,home,FALSE,Texas,64,Longhorns,Texas Longhorns,Texas
-293500251,2009-12-16,2,145,away,FALSE,Ole Miss,58,Rebels,Ole Miss Rebels,Ole Miss
-293500059,2009-12-16,2,59,home,FALSE,Georgia Tech,87,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-293500059,2009-12-16,2,2483,away,FALSE,Oregon,69,Ducks,Oregon Ducks,Oregon
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293502633,2010,regular-season,2009-12-16,2,2633,home,FALSE,Tennessee,86,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+293502633,2010,regular-season,2009-12-16,2,97,away,FALSE,Louisville,56,Cardinals,Louisville Cardinals,Louisville
+293500099,2010,regular-season,2009-12-16,2,99,home,FALSE,LSU,75,Tigers,LSU Tigers,LSU
+293500099,2010,regular-season,2009-12-16,2,2448,away,FALSE,North Carolina A&T,33,Aggies,North Carolina A&T Aggies,NC A&T
+293500239,2010,regular-season,2009-12-16,2,239,home,FALSE,Baylor,101,Bears,Baylor Bears,Baylor
+293500239,2010,regular-season,2009-12-16,2,198,away,FALSE,Oral Roberts,76,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+293502116,2010,regular-season,2009-12-16,2,2116,home,FALSE,UCF,58,Knights,UCF Knights,UCF
+293502116,2010,regular-season,2009-12-16,2,52,away,FALSE,Florida State,70,Seminoles,Florida State Seminoles,Florida St
+293500251,2010,regular-season,2009-12-16,2,251,home,FALSE,Texas,64,Longhorns,Texas Longhorns,Texas
+293500251,2010,regular-season,2009-12-16,2,145,away,FALSE,Ole Miss,58,Rebels,Ole Miss Rebels,Ole Miss
+293500059,2010,regular-season,2009-12-16,2,59,home,FALSE,Georgia Tech,87,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+293500059,2010,regular-season,2009-12-16,2,2483,away,FALSE,Oregon,69,Ducks,Oregon Ducks,Oregon

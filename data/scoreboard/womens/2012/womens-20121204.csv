@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323390061,2012-12-04,2,61,home,FALSE,Georgia,80,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-323390061,2012-12-04,2,2382,away,FALSE,Mercer,38,Bears,Mercer Bears,Mercer
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323390061,2013,regular-season,2012-12-04,2,61,home,FALSE,Georgia,80,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+323390061,2013,regular-season,2012-12-04,2,2382,away,FALSE,Mercer,38,Bears,Mercer Bears,Mercer

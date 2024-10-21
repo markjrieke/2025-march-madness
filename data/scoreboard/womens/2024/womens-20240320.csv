@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401637539,2024-03-20,4,238,home,TRUE,Vanderbilt,72,Commodores,Vanderbilt Commodores,Vanderbilt
-401637539,2024-03-20,4,171,away,TRUE,Columbia,68,Lions,Columbia Lions,Columbia
-401637540,2024-03-20,4,2529,home,TRUE,Sacred Heart,42,Pioneers,Sacred Heart Pioneers,Sacred Heart
-401637540,2024-03-20,4,2506,away,TRUE,Presbyterian,49,Blue Hose,Presbyterian Blue Hose,Presbyterian
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401637539,2024,post-season,2024-03-20,4,238,home,TRUE,Vanderbilt,72,Commodores,Vanderbilt Commodores,Vanderbilt
+401637539,2024,post-season,2024-03-20,4,171,away,TRUE,Columbia,68,Lions,Columbia Lions,Columbia
+401637540,2024,post-season,2024-03-20,4,2529,home,TRUE,Sacred Heart,42,Pioneers,Sacred Heart Pioneers,Sacred Heart
+401637540,2024,post-season,2024-03-20,4,2506,away,TRUE,Presbyterian,49,Blue Hose,Presbyterian Blue Hose,Presbyterian

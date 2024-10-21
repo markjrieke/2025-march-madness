@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401603472,2024-02-12,2,2641,home,FALSE,Texas Tech,79,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401603472,2024-02-12,2,2305,away,FALSE,Kansas,50,Jayhawks,Kansas Jayhawks,Kansas
-401604183,2024-02-12,2,150,home,FALSE,Duke,77,Blue Devils,Duke Blue Devils,Duke
-401604183,2024-02-12,2,154,away,FALSE,Wake Forest,69,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401603472,2024,regular-season,2024-02-12,2,2641,home,FALSE,Texas Tech,79,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401603472,2024,regular-season,2024-02-12,2,2305,away,FALSE,Kansas,50,Jayhawks,Kansas Jayhawks,Kansas
+401604183,2024,regular-season,2024-02-12,2,150,home,FALSE,Duke,77,Blue Devils,Duke Blue Devils,Duke
+401604183,2024,regular-season,2024-02-12,2,154,away,FALSE,Wake Forest,69,Demon Deacons,Wake Forest Demon Deacons,Wake Forest

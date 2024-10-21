@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230660150,2003-03-07,2,150,home,FALSE,Duke,64,Blue Devils,Duke Blue Devils,Duke
-230660150,2003-03-07,2,154,away,FALSE,Wake Forest,59,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-230662633,2003-03-07,2,2633,home,FALSE,Tennessee,66,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-230662633,2003-03-07,2,2,away,FALSE,Auburn,51,Tigers,Auburn Tigers,Auburn
-230660099,2003-03-07,2,99,home,FALSE,LSU,78,Tigers,LSU Tigers,LSU
-230660099,2003-03-07,2,8,away,FALSE,Arkansas,72,Razorbacks,Arkansas Razorbacks,Arkansas
-230660344,2003-03-07,2,344,home,FALSE,Mississippi State,79,Bulldogs,Mississippi State Bulldogs,Mississippi St
-230660344,2003-03-07,2,2579,away,FALSE,South Carolina,75,Gamecocks,South Carolina Gamecocks,South Carolina
-230662509,2003-03-07,2,2509,home,FALSE,Purdue,72,Boilermakers,Purdue Boilermakers,Purdue
-230662509,2003-03-07,2,130,away,FALSE,Michigan,50,Wolverines,Michigan Wolverines,Michigan
-230660135,2003-03-07,2,135,home,FALSE,Minnesota,77,Golden Gophers,Minnesota Golden Gophers,Minnesota
-230660135,2003-03-07,2,2294,away,FALSE,Iowa,80,Hawkeyes,Iowa Hawkeyes,Iowa
-230660213,2003-03-07,2,213,home,FALSE,Penn State,67,Lady Lions,Penn State Lady Lions,Penn State
-230660213,2003-03-07,2,84,away,FALSE,Indiana,64,Hoosiers,Indiana Hoosiers,Indiana
-230660061,2003-03-07,2,61,home,FALSE,Georgia,70,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-230660061,2003-03-07,2,238,away,FALSE,Vanderbilt,74,Commodores,Vanderbilt Commodores,Vanderbilt
-230662739,2003-03-07,2,2739,home,FALSE,Green Bay,70,Phoenix,Green Bay Phoenix,Green Bay
-230662739,2003-03-07,2,2350,away,FALSE,Loyola Chicago,52,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230660150,2003,regular-season,2003-03-07,2,150,home,FALSE,Duke,64,Blue Devils,Duke Blue Devils,Duke
+230660150,2003,regular-season,2003-03-07,2,154,away,FALSE,Wake Forest,59,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+230662633,2003,regular-season,2003-03-07,2,2633,home,FALSE,Tennessee,66,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+230662633,2003,regular-season,2003-03-07,2,2,away,FALSE,Auburn,51,Tigers,Auburn Tigers,Auburn
+230660099,2003,regular-season,2003-03-07,2,99,home,FALSE,LSU,78,Tigers,LSU Tigers,LSU
+230660099,2003,regular-season,2003-03-07,2,8,away,FALSE,Arkansas,72,Razorbacks,Arkansas Razorbacks,Arkansas
+230660344,2003,regular-season,2003-03-07,2,344,home,FALSE,Mississippi State,79,Bulldogs,Mississippi State Bulldogs,Mississippi St
+230660344,2003,regular-season,2003-03-07,2,2579,away,FALSE,South Carolina,75,Gamecocks,South Carolina Gamecocks,South Carolina
+230662509,2003,regular-season,2003-03-07,2,2509,home,FALSE,Purdue,72,Boilermakers,Purdue Boilermakers,Purdue
+230662509,2003,regular-season,2003-03-07,2,130,away,FALSE,Michigan,50,Wolverines,Michigan Wolverines,Michigan
+230660135,2003,regular-season,2003-03-07,2,135,home,FALSE,Minnesota,77,Golden Gophers,Minnesota Golden Gophers,Minnesota
+230660135,2003,regular-season,2003-03-07,2,2294,away,FALSE,Iowa,80,Hawkeyes,Iowa Hawkeyes,Iowa
+230660213,2003,regular-season,2003-03-07,2,213,home,FALSE,Penn State,67,Lady Lions,Penn State Lady Lions,Penn State
+230660213,2003,regular-season,2003-03-07,2,84,away,FALSE,Indiana,64,Hoosiers,Indiana Hoosiers,Indiana
+230660061,2003,regular-season,2003-03-07,2,61,home,FALSE,Georgia,70,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+230660061,2003,regular-season,2003-03-07,2,238,away,FALSE,Vanderbilt,74,Commodores,Vanderbilt Commodores,Vanderbilt
+230662739,2003,regular-season,2003-03-07,2,2739,home,FALSE,Green Bay,70,Phoenix,Green Bay Phoenix,Green Bay
+230662739,2003,regular-season,2003-03-07,2,2350,away,FALSE,Loyola Chicago,52,Ramblers,Loyola Chicago Ramblers,Loyola Chicago

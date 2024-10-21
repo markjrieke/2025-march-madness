@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330360222,2013-02-05,2,222,home,FALSE,Villanova,52,Wildcats,Villanova Wildcats,Villanova
-330360222,2013-02-05,2,87,away,FALSE,Notre Dame,59,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-330360041,2013-02-05,2,41,home,FALSE,UConn,94,Huskies,UConn Huskies,UConn
-330360041,2013-02-05,2,269,away,FALSE,Marquette,37,Golden Eagles,Marquette Golden Eagles,Marquette
-330360197,2013-02-05,2,197,home,FALSE,Oklahoma State,76,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-330360197,2013-02-05,2,2628,away,FALSE,TCU,59,Horned Frogs,TCU Horned Frogs,TCU
-330362132,2013-02-05,2,2132,home,FALSE,Cincinnati,48,Bearcats,Cincinnati Bearcats,Cincinnati
-330362132,2013-02-05,2,183,away,FALSE,Syracuse,72,Orange,Syracuse Orange,Syracuse
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330360222,2013,regular-season,2013-02-05,2,222,home,FALSE,Villanova,52,Wildcats,Villanova Wildcats,Villanova
+330360222,2013,regular-season,2013-02-05,2,87,away,FALSE,Notre Dame,59,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+330360041,2013,regular-season,2013-02-05,2,41,home,FALSE,UConn,94,Huskies,UConn Huskies,UConn
+330360041,2013,regular-season,2013-02-05,2,269,away,FALSE,Marquette,37,Golden Eagles,Marquette Golden Eagles,Marquette
+330360197,2013,regular-season,2013-02-05,2,197,home,FALSE,Oklahoma State,76,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+330360197,2013,regular-season,2013-02-05,2,2628,away,FALSE,TCU,59,Horned Frogs,TCU Horned Frogs,TCU
+330362132,2013,regular-season,2013-02-05,2,2132,home,FALSE,Cincinnati,48,Bearcats,Cincinnati Bearcats,Cincinnati
+330362132,2013,regular-season,2013-02-05,2,183,away,FALSE,Syracuse,72,Orange,Syracuse Orange,Syracuse

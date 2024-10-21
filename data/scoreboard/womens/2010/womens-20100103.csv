@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300032633,2010-01-03,2,2633,home,FALSE,Tennessee,96,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-300032633,2010-01-03,2,201,away,FALSE,Oklahoma,75,Sooners,Oklahoma Sooners,Oklahoma
-300030194,2010-01-03,2,194,home,FALSE,Ohio State,59,Buckeyes,Ohio State Buckeyes,Ohio State
-300030194,2010-01-03,2,130,away,FALSE,Michigan,56,Wolverines,Michigan Wolverines,Michigan
-300030150,2010-01-03,2,150,home,FALSE,Duke,88,Blue Devils,Duke Blue Devils,Duke
-300030150,2010-01-03,2,2507,away,FALSE,Providence,63,Friars,Providence Friars,Providence
-300030333,2010-01-03,2,333,home,FALSE,Alabama,44,Crimson Tide,Alabama Crimson Tide,Alabama
-300030333,2010-01-03,2,61,away,FALSE,Georgia,52,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-300032579,2010-01-03,2,2579,home,FALSE,South Carolina,58,Gamecocks,South Carolina Gamecocks,South Carolina
-300032579,2010-01-03,2,99,away,FALSE,LSU,70,Tigers,LSU Tigers,LSU
-300030052,2010-01-03,2,52,home,FALSE,Florida State,77,Seminoles,Florida State Seminoles,Florida St
-300030052,2010-01-03,2,218,away,FALSE,Temple,64,Owls,Temple Owls,Temple
-300030084,2010-01-03,2,84,home,FALSE,Indiana,44,Hoosiers,Indiana Hoosiers,Indiana
-300030084,2010-01-03,2,127,away,FALSE,Michigan State,53,Spartans,Michigan State Spartans,Michigan St
-300030238,2010-01-03,2,238,home,FALSE,Vanderbilt,86,Commodores,Vanderbilt Commodores,Vanderbilt
-300030238,2010-01-03,2,145,away,FALSE,Ole Miss,72,Rebels,Ole Miss Rebels,Ole Miss
-300030009,2010-01-03,2,9,home,FALSE,Arizona State,56,Sun Devils,Arizona State Sun Devils,Arizona St
-300030009,2010-01-03,2,26,away,FALSE,UCLA,74,Bruins,UCLA Bruins,UCLA
-300030166,2010-01-03,2,166,home,FALSE,New Mexico State,61,Aggies,New Mexico State Aggies,New Mexico St
-300030166,2010-01-03,2,2305,away,FALSE,Kansas,60,Jayhawks,Kansas Jayhawks,Kansas
-300032182,2010-01-03,2,2182,home,FALSE,Drexel,68,Dragons,Drexel Dragons,Drexel
-300032182,2010-01-03,2,256,away,FALSE,James Madison,67,Dukes,James Madison Dukes,James Madison
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300032633,2010,regular-season,2010-01-03,2,2633,home,FALSE,Tennessee,96,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+300032633,2010,regular-season,2010-01-03,2,201,away,FALSE,Oklahoma,75,Sooners,Oklahoma Sooners,Oklahoma
+300030194,2010,regular-season,2010-01-03,2,194,home,FALSE,Ohio State,59,Buckeyes,Ohio State Buckeyes,Ohio State
+300030194,2010,regular-season,2010-01-03,2,130,away,FALSE,Michigan,56,Wolverines,Michigan Wolverines,Michigan
+300030150,2010,regular-season,2010-01-03,2,150,home,FALSE,Duke,88,Blue Devils,Duke Blue Devils,Duke
+300030150,2010,regular-season,2010-01-03,2,2507,away,FALSE,Providence,63,Friars,Providence Friars,Providence
+300030333,2010,regular-season,2010-01-03,2,333,home,FALSE,Alabama,44,Crimson Tide,Alabama Crimson Tide,Alabama
+300030333,2010,regular-season,2010-01-03,2,61,away,FALSE,Georgia,52,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+300032579,2010,regular-season,2010-01-03,2,2579,home,FALSE,South Carolina,58,Gamecocks,South Carolina Gamecocks,South Carolina
+300032579,2010,regular-season,2010-01-03,2,99,away,FALSE,LSU,70,Tigers,LSU Tigers,LSU
+300030052,2010,regular-season,2010-01-03,2,52,home,FALSE,Florida State,77,Seminoles,Florida State Seminoles,Florida St
+300030052,2010,regular-season,2010-01-03,2,218,away,FALSE,Temple,64,Owls,Temple Owls,Temple
+300030084,2010,regular-season,2010-01-03,2,84,home,FALSE,Indiana,44,Hoosiers,Indiana Hoosiers,Indiana
+300030084,2010,regular-season,2010-01-03,2,127,away,FALSE,Michigan State,53,Spartans,Michigan State Spartans,Michigan St
+300030238,2010,regular-season,2010-01-03,2,238,home,FALSE,Vanderbilt,86,Commodores,Vanderbilt Commodores,Vanderbilt
+300030238,2010,regular-season,2010-01-03,2,145,away,FALSE,Ole Miss,72,Rebels,Ole Miss Rebels,Ole Miss
+300030009,2010,regular-season,2010-01-03,2,9,home,FALSE,Arizona State,56,Sun Devils,Arizona State Sun Devils,Arizona St
+300030009,2010,regular-season,2010-01-03,2,26,away,FALSE,UCLA,74,Bruins,UCLA Bruins,UCLA
+300030166,2010,regular-season,2010-01-03,2,166,home,FALSE,New Mexico State,61,Aggies,New Mexico State Aggies,New Mexico St
+300030166,2010,regular-season,2010-01-03,2,2305,away,FALSE,Kansas,60,Jayhawks,Kansas Jayhawks,Kansas
+300032182,2010,regular-season,2010-01-03,2,2182,home,FALSE,Drexel,68,Dragons,Drexel Dragons,Drexel
+300032182,2010,regular-season,2010-01-03,2,256,away,FALSE,James Madison,67,Dukes,James Madison Dukes,James Madison

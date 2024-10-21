@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273152305,2007-11-11,2,2305,home,FALSE,Kansas,85,Jayhawks,Kansas Jayhawks,Kansas
-273152305,2007-11-11,2,140,away,FALSE,Kansas City,62,Roos,Kansas City Roos,Kansas City
-273152483,2007-11-11,2,2483,home,TRUE,Oregon,80,Ducks,Oregon Ducks,Oregon
-273152483,2007-11-11,2,279,away,TRUE,Pacific,64,Tigers,Pacific Tigers,Pacific
-273152250,2007-11-11,2,2250,home,FALSE,Gonzaga,77,Bulldogs,Gonzaga Bulldogs,Gonzaga
-273152250,2007-11-11,2,149,away,FALSE,Montana,54,Grizzlies,Montana Grizzlies,Montana
-273150221,2007-11-11,2,221,home,FALSE,Pittsburgh,69,Panthers,Pittsburgh Panthers,Pitt
-273150221,2007-11-11,2,139,away,FALSE,Saint Louis,58,Billikens,Saint Louis Billikens,Saint Louis
-273150024,2007-11-11,2,24,home,TRUE,Stanford,67,Cardinal,Stanford Cardinal,Stanford
-273150024,2007-11-11,2,2540,away,TRUE,UC Santa Barbara,48,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-273152306,2007-11-11,2,2306,home,FALSE,Kansas State,76,Wildcats,Kansas State Wildcats,Kansas St
-273152306,2007-11-11,2,90,away,FALSE,Pittsburg St,66,Gorillas,Pittsburg St Gorillas,Pitt St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273152305,2008,regular-season,2007-11-11,2,2305,home,FALSE,Kansas,85,Jayhawks,Kansas Jayhawks,Kansas
+273152305,2008,regular-season,2007-11-11,2,140,away,FALSE,Kansas City,62,Roos,Kansas City Roos,Kansas City
+273152483,2008,regular-season,2007-11-11,2,2483,home,TRUE,Oregon,80,Ducks,Oregon Ducks,Oregon
+273152483,2008,regular-season,2007-11-11,2,279,away,TRUE,Pacific,64,Tigers,Pacific Tigers,Pacific
+273152250,2008,regular-season,2007-11-11,2,2250,home,FALSE,Gonzaga,77,Bulldogs,Gonzaga Bulldogs,Gonzaga
+273152250,2008,regular-season,2007-11-11,2,149,away,FALSE,Montana,54,Grizzlies,Montana Grizzlies,Montana
+273150221,2008,regular-season,2007-11-11,2,221,home,FALSE,Pittsburgh,69,Panthers,Pittsburgh Panthers,Pitt
+273150221,2008,regular-season,2007-11-11,2,139,away,FALSE,Saint Louis,58,Billikens,Saint Louis Billikens,Saint Louis
+273150024,2008,regular-season,2007-11-11,2,24,home,TRUE,Stanford,67,Cardinal,Stanford Cardinal,Stanford
+273150024,2008,regular-season,2007-11-11,2,2540,away,TRUE,UC Santa Barbara,48,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+273152306,2008,regular-season,2007-11-11,2,2306,home,FALSE,Kansas State,76,Wildcats,Kansas State Wildcats,Kansas St
+273152306,2008,regular-season,2007-11-11,2,90,away,FALSE,Pittsburg St,66,Gorillas,Pittsburg St Gorillas,Pitt St

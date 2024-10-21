@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240322507,2004-02-01,2,2507,home,FALSE,Providence,46,Friars,Providence Friars,Providence
-240322507,2004-02-01,2,2550,away,FALSE,Seton Hall,55,Pirates,Seton Hall Pirates,Seton Hall
-240320158,2004-02-01,2,158,home,FALSE,Nebraska,50,Cornhuskers,Nebraska Cornhuskers,Nebraska
-240320158,2004-02-01,2,201,away,FALSE,Oklahoma,52,Sooners,Oklahoma Sooners,Oklahoma
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240322507,2004,regular-season,2004-02-01,2,2507,home,FALSE,Providence,46,Friars,Providence Friars,Providence
+240322507,2004,regular-season,2004-02-01,2,2550,away,FALSE,Seton Hall,55,Pirates,Seton Hall Pirates,Seton Hall
+240320158,2004,regular-season,2004-02-01,2,158,home,FALSE,Nebraska,50,Cornhuskers,Nebraska Cornhuskers,Nebraska
+240320158,2004,regular-season,2004-02-01,2,201,away,FALSE,Oklahoma,52,Sooners,Oklahoma Sooners,Oklahoma

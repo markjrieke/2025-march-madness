@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400834774,2016-02-20,4,151,home,FALSE,East Carolina,41,Pirates,East Carolina Pirates,East Carolina
-400834774,2016-02-20,4,41,away,FALSE,UConn,84,Huskies,UConn Huskies,UConn
-400832067,2016-02-20,4,239,home,FALSE,Baylor,78,Bears,Baylor Bears,Baylor
-400832067,2016-02-20,4,66,away,FALSE,Iowa State,41,Cyclones,Iowa State Cyclones,Iowa State
-400832365,2016-02-20,4,2628,home,FALSE,TCU,79,Horned Frogs,TCU Horned Frogs,TCU
-400832365,2016-02-20,4,197,away,FALSE,Oklahoma State,65,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-400832343,2016-02-20,4,2305,home,FALSE,Kansas,66,Jayhawks,Kansas Jayhawks,Kansas
-400832343,2016-02-20,4,201,away,FALSE,Oklahoma,72,Sooners,Oklahoma Sooners,Oklahoma
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400834774,2016,regular-season,2016-02-20,4,151,home,FALSE,East Carolina,41,Pirates,East Carolina Pirates,East Carolina
+400834774,2016,regular-season,2016-02-20,4,41,away,FALSE,UConn,84,Huskies,UConn Huskies,UConn
+400832067,2016,regular-season,2016-02-20,4,239,home,FALSE,Baylor,78,Bears,Baylor Bears,Baylor
+400832067,2016,regular-season,2016-02-20,4,66,away,FALSE,Iowa State,41,Cyclones,Iowa State Cyclones,Iowa State
+400832365,2016,regular-season,2016-02-20,4,2628,home,FALSE,TCU,79,Horned Frogs,TCU Horned Frogs,TCU
+400832365,2016,regular-season,2016-02-20,4,197,away,FALSE,Oklahoma State,65,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+400832343,2016,regular-season,2016-02-20,4,2305,home,FALSE,Kansas,66,Jayhawks,Kansas Jayhawks,Kansas
+400832343,2016,regular-season,2016-02-20,4,201,away,FALSE,Oklahoma,72,Sooners,Oklahoma Sooners,Oklahoma

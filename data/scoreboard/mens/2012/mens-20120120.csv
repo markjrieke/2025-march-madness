@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320200056,2012-01-20,2,56,home,FALSE,Stetson,85,Hatters,Stetson Hatters,Stetson
-320200056,2012-01-20,2,526,away,FALSE,Florida Gulf Coast,92,Eagles,Florida Gulf Coast Eagles,FGCU
-320202754,2012-01-20,2,2754,home,FALSE,Youngstown State,68,Penguins,Youngstown State Penguins,Youngstown St
-320202754,2012-01-20,2,270,away,FALSE,Milwaukee,66,Panthers,Milwaukee Panthers,Milwaukee
-320200325,2012-01-20,2,325,home,FALSE,Cleveland State,78,Vikings,Cleveland State Vikings,Cleveland St
-320200325,2012-01-20,2,2739,away,FALSE,Green Bay,68,Phoenix,Green Bay Phoenix,Green Bay
-320202368,2012-01-20,2,2368,home,FALSE,Marist,44,Red Foxes,Marist Red Foxes,Marist
-320202368,2012-01-20,2,2363,away,FALSE,Manhattan,61,Jaspers,Manhattan Jaspers,Manhattan
-320200314,2012-01-20,2,314,home,FALSE,Iona,91,Gaels,Iona Gaels,Iona
-320200314,2012-01-20,2,2520,away,FALSE,Rider,71,Broncs,Rider Broncs,Rider
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320200056,2012,regular-season,2012-01-20,2,56,home,FALSE,Stetson,85,Hatters,Stetson Hatters,Stetson
+320200056,2012,regular-season,2012-01-20,2,526,away,FALSE,Florida Gulf Coast,92,Eagles,Florida Gulf Coast Eagles,FGCU
+320202754,2012,regular-season,2012-01-20,2,2754,home,FALSE,Youngstown State,68,Penguins,Youngstown State Penguins,Youngstown St
+320202754,2012,regular-season,2012-01-20,2,270,away,FALSE,Milwaukee,66,Panthers,Milwaukee Panthers,Milwaukee
+320200325,2012,regular-season,2012-01-20,2,325,home,FALSE,Cleveland State,78,Vikings,Cleveland State Vikings,Cleveland St
+320200325,2012,regular-season,2012-01-20,2,2739,away,FALSE,Green Bay,68,Phoenix,Green Bay Phoenix,Green Bay
+320202368,2012,regular-season,2012-01-20,2,2368,home,FALSE,Marist,44,Red Foxes,Marist Red Foxes,Marist
+320202368,2012,regular-season,2012-01-20,2,2363,away,FALSE,Manhattan,61,Jaspers,Manhattan Jaspers,Manhattan
+320200314,2012,regular-season,2012-01-20,2,314,home,FALSE,Iona,91,Gaels,Iona Gaels,Iona
+320200314,2012,regular-season,2012-01-20,2,2520,away,FALSE,Rider,71,Broncs,Rider Broncs,Rider

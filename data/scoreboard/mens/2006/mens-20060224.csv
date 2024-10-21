@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260552681,2006-02-24,2,2681,home,FALSE,Wagner,60,Seahawks,Wagner Seahawks,Wagner
-260552681,2006-02-24,2,112358,away,FALSE,Long Island University,75,Sharks,Long Island University Sharks,Long Island
-260552612,2006-02-24,3,2612,home,FALSE,Saint Peter's,84,Peacocks,Saint Peter's Peacocks,Saint Peter's
-260552612,2006-02-24,3,2099,away,FALSE,Canisius,91,Golden Griffins,Canisius Golden Griffins,Canisius
-260550219,2006-02-24,3,219,home,FALSE,Pennsylvania,74,Quakers,Pennsylvania Quakers,Penn
-260550219,2006-02-24,3,108,away,FALSE,Harvard,71,Crimson,Harvard Crimson,Harvard
-260550172,2006-02-24,2,172,home,FALSE,Cornell,68,Big Red,Cornell Big Red,Cornell
-260550172,2006-02-24,2,43,away,FALSE,Yale,64,Bulldogs,Yale Bulldogs,Yale
-260550171,2006-02-24,2,171,home,FALSE,Columbia,68,Lions,Columbia Lions,Columbia
-260550171,2006-02-24,2,225,away,FALSE,Brown,56,Bears,Brown Bears,Brown
-260552520,2006-02-24,2,2520,home,FALSE,Rider,66,Broncs,Rider Broncs,Rider
-260552520,2006-02-24,2,2352,away,FALSE,Loyola Maryland,69,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-260550288,2006-02-24,2,288,home,FALSE,Lipscomb,76,Bisons,Lipscomb Bisons,Lipscomb
-260550288,2006-02-24,2,2193,away,FALSE,East Tennessee State,56,Buccaneers,East Tennessee State Buccaneers,ETSU
-260550163,2006-02-24,2,163,home,FALSE,Princeton,63,Tigers,Princeton Tigers,Princeton
-260550163,2006-02-24,2,159,away,FALSE,Dartmouth,60,Big Green,Dartmouth Big Green,Dartmouth
-260552057,2006-02-24,2,2057,home,FALSE,Belmont,83,Bruins,Belmont Bruins,Belmont
-260552057,2006-02-24,2,338,away,FALSE,Kennesaw State,64,Owls,Kennesaw State Owls,Kennesaw St
-260552569,2006-02-24,2,2569,home,FALSE,South Carolina State,64,Bulldogs,South Carolina State Bulldogs,SC State
-260552569,2006-02-24,2,2261,away,FALSE,Hampton,69,Pirates,Hampton Pirates,Hampton
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260552681,2006,regular-season,2006-02-24,2,2681,home,FALSE,Wagner,60,Seahawks,Wagner Seahawks,Wagner
+260552681,2006,regular-season,2006-02-24,2,112358,away,FALSE,Long Island University,75,Sharks,Long Island University Sharks,Long Island
+260552612,2006,regular-season,2006-02-24,3,2612,home,FALSE,Saint Peter's,84,Peacocks,Saint Peter's Peacocks,Saint Peter's
+260552612,2006,regular-season,2006-02-24,3,2099,away,FALSE,Canisius,91,Golden Griffins,Canisius Golden Griffins,Canisius
+260550219,2006,regular-season,2006-02-24,3,219,home,FALSE,Pennsylvania,74,Quakers,Pennsylvania Quakers,Penn
+260550219,2006,regular-season,2006-02-24,3,108,away,FALSE,Harvard,71,Crimson,Harvard Crimson,Harvard
+260550172,2006,regular-season,2006-02-24,2,172,home,FALSE,Cornell,68,Big Red,Cornell Big Red,Cornell
+260550172,2006,regular-season,2006-02-24,2,43,away,FALSE,Yale,64,Bulldogs,Yale Bulldogs,Yale
+260550171,2006,regular-season,2006-02-24,2,171,home,FALSE,Columbia,68,Lions,Columbia Lions,Columbia
+260550171,2006,regular-season,2006-02-24,2,225,away,FALSE,Brown,56,Bears,Brown Bears,Brown
+260552520,2006,regular-season,2006-02-24,2,2520,home,FALSE,Rider,66,Broncs,Rider Broncs,Rider
+260552520,2006,regular-season,2006-02-24,2,2352,away,FALSE,Loyola Maryland,69,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+260550288,2006,regular-season,2006-02-24,2,288,home,FALSE,Lipscomb,76,Bisons,Lipscomb Bisons,Lipscomb
+260550288,2006,regular-season,2006-02-24,2,2193,away,FALSE,East Tennessee State,56,Buccaneers,East Tennessee State Buccaneers,ETSU
+260550163,2006,regular-season,2006-02-24,2,163,home,FALSE,Princeton,63,Tigers,Princeton Tigers,Princeton
+260550163,2006,regular-season,2006-02-24,2,159,away,FALSE,Dartmouth,60,Big Green,Dartmouth Big Green,Dartmouth
+260552057,2006,regular-season,2006-02-24,2,2057,home,FALSE,Belmont,83,Bruins,Belmont Bruins,Belmont
+260552057,2006,regular-season,2006-02-24,2,338,away,FALSE,Kennesaw State,64,Owls,Kennesaw State Owls,Kennesaw St
+260552569,2006,regular-season,2006-02-24,2,2569,home,FALSE,South Carolina State,64,Bulldogs,South Carolina State Bulldogs,SC State
+260552569,2006,regular-season,2006-02-24,2,2261,away,FALSE,Hampton,69,Pirates,Hampton Pirates,Hampton

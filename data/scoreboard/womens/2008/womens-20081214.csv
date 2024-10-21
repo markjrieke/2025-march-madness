@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-283490041,2008-12-14,2,41,home,TRUE,UConn,77,Huskies,UConn Huskies,UConn
-283490041,2008-12-14,2,213,away,TRUE,Penn State,63,Lady Lions,Penn State Lady Lions,Penn State
-283490251,2008-12-14,2,251,home,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
-283490251,2008-12-14,2,2633,away,FALSE,Tennessee,59,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-283490097,2008-12-14,2,97,home,FALSE,Louisville,75,Cardinals,Louisville Cardinals,Louisville
-283490097,2008-12-14,2,96,away,FALSE,Kentucky,59,Wildcats,Kentucky Wildcats,Kentucky
-283490349,2008-12-14,2,349,home,TRUE,Army,38,Black Knights,Army Black Knights,Army
-283490349,2008-12-14,2,164,away,TRUE,Rutgers,59,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-283490197,2008-12-14,2,197,home,FALSE,Oklahoma State,85,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-283490197,2008-12-14,2,2628,away,FALSE,TCU,80,Horned Frogs,TCU Horned Frogs,TCU
-283490009,2008-12-14,2,9,home,FALSE,Arizona State,68,Sun Devils,Arizona State Sun Devils,Arizona St
-283490009,2008-12-14,2,27,away,FALSE,UC Riverside,45,Highlanders,UC Riverside Highlanders,UC Riverside
-283492306,2008-12-14,2,2306,home,FALSE,Kansas State,73,Wildcats,Kansas State Wildcats,Kansas St
-283492306,2008-12-14,2,250,away,FALSE,UT Arlington,63,Mavericks,UT Arlington Mavericks,UT Arlington
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283490041,2009,regular-season,2008-12-14,2,41,home,TRUE,UConn,77,Huskies,UConn Huskies,UConn
+283490041,2009,regular-season,2008-12-14,2,213,away,TRUE,Penn State,63,Lady Lions,Penn State Lady Lions,Penn State
+283490251,2009,regular-season,2008-12-14,2,251,home,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
+283490251,2009,regular-season,2008-12-14,2,2633,away,FALSE,Tennessee,59,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+283490097,2009,regular-season,2008-12-14,2,97,home,FALSE,Louisville,75,Cardinals,Louisville Cardinals,Louisville
+283490097,2009,regular-season,2008-12-14,2,96,away,FALSE,Kentucky,59,Wildcats,Kentucky Wildcats,Kentucky
+283490349,2009,regular-season,2008-12-14,2,349,home,TRUE,Army,38,Black Knights,Army Black Knights,Army
+283490349,2009,regular-season,2008-12-14,2,164,away,TRUE,Rutgers,59,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+283490197,2009,regular-season,2008-12-14,2,197,home,FALSE,Oklahoma State,85,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+283490197,2009,regular-season,2008-12-14,2,2628,away,FALSE,TCU,80,Horned Frogs,TCU Horned Frogs,TCU
+283490009,2009,regular-season,2008-12-14,2,9,home,FALSE,Arizona State,68,Sun Devils,Arizona State Sun Devils,Arizona St
+283490009,2009,regular-season,2008-12-14,2,27,away,FALSE,UC Riverside,45,Highlanders,UC Riverside Highlanders,UC Riverside
+283492306,2009,regular-season,2008-12-14,2,2306,home,FALSE,Kansas State,73,Wildcats,Kansas State Wildcats,Kansas St
+283492306,2009,regular-season,2008-12-14,2,250,away,FALSE,UT Arlington,63,Mavericks,UT Arlington Mavericks,UT Arlington

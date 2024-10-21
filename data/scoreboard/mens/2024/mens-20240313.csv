@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401625439,2024-03-13,2,2305,home,TRUE,Kansas,52,Jayhawks,Kansas Jayhawks,Kansas
-401625439,2024-03-13,2,2132,away,TRUE,Cincinnati,72,Bearcats,Cincinnati Bearcats,Cincinnati
-401625416,2024-03-13,2,252,home,TRUE,BYU,87,Cougars,BYU Cougars,BYU
-401625416,2024-03-13,2,2116,away,TRUE,UCF,73,Knights,UCF Knights,UCF
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401625439,2024,regular-season,2024-03-13,2,2305,home,TRUE,Kansas,52,Jayhawks,Kansas Jayhawks,Kansas
+401625439,2024,regular-season,2024-03-13,2,2132,away,TRUE,Cincinnati,72,Bearcats,Cincinnati Bearcats,Cincinnati
+401625416,2024,regular-season,2024-03-13,2,252,home,TRUE,BYU,87,Cougars,BYU Cougars,BYU
+401625416,2024,regular-season,2024-03-13,2,2116,away,TRUE,UCF,73,Knights,UCF Knights,UCF

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230740251,2003-03-15,2,251,home,FALSE,Texas,67,Longhorns,Texas Longhorns,Texas
-230740251,2003-03-15,2,2641,away,FALSE,Texas Tech,57,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-230742348,2003-03-15,2,2348,home,FALSE,Louisiana Tech,89,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-230742348,2003-03-15,2,278,away,FALSE,Fresno State,57,Bulldogs,Fresno State Bulldogs,Fresno St
-230742540,2003-03-15,2,2540,home,FALSE,UC Santa Barbara,68,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-230742540,2003-03-15,2,279,away,FALSE,Pacific,50,Tigers,Pacific Tigers,Pacific
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230740251,2003,regular-season,2003-03-15,2,251,home,FALSE,Texas,67,Longhorns,Texas Longhorns,Texas
+230740251,2003,regular-season,2003-03-15,2,2641,away,FALSE,Texas Tech,57,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+230742348,2003,regular-season,2003-03-15,2,2348,home,FALSE,Louisiana Tech,89,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+230742348,2003,regular-season,2003-03-15,2,278,away,FALSE,Fresno State,57,Bulldogs,Fresno State Bulldogs,Fresno St
+230742540,2003,regular-season,2003-03-15,2,2540,home,FALSE,UC Santa Barbara,68,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+230742540,2003,regular-season,2003-03-15,2,279,away,FALSE,Pacific,50,Tigers,Pacific Tigers,Pacific

@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400593309,2015-02-13,2,264,home,FALSE,Washington,62,Huskies,Washington Huskies,Washington
-400593309,2015-02-13,2,12,away,FALSE,Arizona,86,Wildcats,Arizona Wildcats,Arizona
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400593309,2015,regular-season,2015-02-13,2,264,home,FALSE,Washington,62,Huskies,Washington Huskies,Washington
+400593309,2015,regular-season,2015-02-13,2,12,away,FALSE,Arizona,86,Wildcats,Arizona Wildcats,Arizona

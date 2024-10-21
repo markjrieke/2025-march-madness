@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400595041,2014-12-17,2,2261,home,FALSE,Hampton,49,Lady Pirates,Hampton Lady Pirates,Hampton
-400595041,2014-12-17,2,2579,away,FALSE,South Carolina,69,Gamecocks,South Carolina Gamecocks,South Carolina
-400591996,2014-12-17,2,251,home,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
-400591996,2014-12-17,2,2377,away,FALSE,McNeese,59,Cowgirls,McNeese Cowgirls,McNeese
-400590422,2014-12-17,2,236,home,FALSE,Chattanooga,54,Mocs,Chattanooga Mocs,Chattanooga
-400590422,2014-12-17,2,24,away,FALSE,Stanford,46,Cardinal,Stanford Cardinal,Stanford
-400592335,2014-12-17,2,150,home,FALSE,Duke,92,Blue Devils,Duke Blue Devils,Duke
-400592335,2014-12-17,2,201,away,FALSE,Oklahoma,72,Sooners,Oklahoma Sooners,Oklahoma
-400595016,2014-12-17,2,309,home,FALSE,Louisiana,51,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
-400595016,2014-12-17,2,344,away,FALSE,Mississippi State,66,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400588212,2014-12-17,2,2350,home,FALSE,Loyola Chicago,84,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-400588212,2014-12-17,2,305,away,FALSE,DePaul,109,Blue Demons,DePaul Blue Demons,DePaul
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400595041,2015,regular-season,2014-12-17,2,2261,home,FALSE,Hampton,49,Lady Pirates,Hampton Lady Pirates,Hampton
+400595041,2015,regular-season,2014-12-17,2,2579,away,FALSE,South Carolina,69,Gamecocks,South Carolina Gamecocks,South Carolina
+400591996,2015,regular-season,2014-12-17,2,251,home,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
+400591996,2015,regular-season,2014-12-17,2,2377,away,FALSE,McNeese,59,Cowgirls,McNeese Cowgirls,McNeese
+400590422,2015,regular-season,2014-12-17,2,236,home,FALSE,Chattanooga,54,Mocs,Chattanooga Mocs,Chattanooga
+400590422,2015,regular-season,2014-12-17,2,24,away,FALSE,Stanford,46,Cardinal,Stanford Cardinal,Stanford
+400592335,2015,regular-season,2014-12-17,2,150,home,FALSE,Duke,92,Blue Devils,Duke Blue Devils,Duke
+400592335,2015,regular-season,2014-12-17,2,201,away,FALSE,Oklahoma,72,Sooners,Oklahoma Sooners,Oklahoma
+400595016,2015,regular-season,2014-12-17,2,309,home,FALSE,Louisiana,51,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+400595016,2015,regular-season,2014-12-17,2,344,away,FALSE,Mississippi State,66,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400588212,2015,regular-season,2014-12-17,2,2350,home,FALSE,Loyola Chicago,84,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+400588212,2015,regular-season,2014-12-17,2,305,away,FALSE,DePaul,109,Blue Demons,DePaul Blue Demons,DePaul

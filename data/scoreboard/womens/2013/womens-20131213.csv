@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400510749,2013-12-13,2,2016,home,TRUE,Alcorn State,42,Lady Braves,Alcorn State Lady Braves,Alcorn St
-400510749,2013-12-13,2,151,away,TRUE,East Carolina,85,Pirates,East Carolina Pirates,East Carolina
-400511435,2013-12-13,4,2226,home,FALSE,Florida Atlantic,82,Owls,Florida Atlantic Owls,FAU
-400511435,2013-12-13,4,2116,away,FALSE,UCF,69,Knights,UCF Knights,UCF
-400510132,2013-12-13,2,194,home,FALSE,Ohio State,59,Buckeyes,Ohio State Buckeyes,Ohio State
-400510132,2013-12-13,2,349,away,FALSE,Army,56,Black Knights,Army Black Knights,Army
-400512100,2013-12-13,2,2754,home,FALSE,Youngstown State,84,Penguins,Youngstown State Penguins,Youngstown St
-400512100,2013-12-13,2,2479,away,FALSE,Ohio Valley,52,Fighting Scots,Ohio Valley Fighting Scots,Ohio Vall
-400507834,2013-12-13,2,2433,home,FALSE,UL Monroe,72,Warhawks,UL Monroe Warhawks,UL Monroe
-400507834,2013-12-13,2,2253,away,FALSE,Grand Canyon,82,Lopes,Grand Canyon Lopes,Grand Canyon
-400509453,2013-12-13,2,2674,home,FALSE,Valparaiso,50,Beacons,Valparaiso Beacons,Valparaiso
-400509453,2013-12-13,2,2086,away,FALSE,Butler,65,Bulldogs,Butler Bulldogs,Butler
-400505840,2013-12-13,2,204,home,FALSE,Oregon State,76,Beavers,Oregon State Beavers,Oregon St
-400505840,2013-12-13,2,62,away,FALSE,Hawai'i,64,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
-400505839,2013-12-13,2,299,home,FALSE,Long Beach State,51,Beach,Long Beach State Beach,Long Beach St
-400505839,2013-12-13,2,301,away,FALSE,San Diego,68,Toreros,San Diego Toreros,San Diego
-400509776,2013-12-13,2,264,home,FALSE,Washington,80,Huskies,Washington Huskies,Washington
-400509776,2013-12-13,2,275,away,FALSE,Wisconsin,67,Badgers,Wisconsin Badgers,Wisconsin
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400510749,2014,regular-season,2013-12-13,2,2016,home,TRUE,Alcorn State,42,Lady Braves,Alcorn State Lady Braves,Alcorn St
+400510749,2014,regular-season,2013-12-13,2,151,away,TRUE,East Carolina,85,Pirates,East Carolina Pirates,East Carolina
+400511435,2014,regular-season,2013-12-13,4,2226,home,FALSE,Florida Atlantic,82,Owls,Florida Atlantic Owls,FAU
+400511435,2014,regular-season,2013-12-13,4,2116,away,FALSE,UCF,69,Knights,UCF Knights,UCF
+400510132,2014,regular-season,2013-12-13,2,194,home,FALSE,Ohio State,59,Buckeyes,Ohio State Buckeyes,Ohio State
+400510132,2014,regular-season,2013-12-13,2,349,away,FALSE,Army,56,Black Knights,Army Black Knights,Army
+400512100,2014,regular-season,2013-12-13,2,2754,home,FALSE,Youngstown State,84,Penguins,Youngstown State Penguins,Youngstown St
+400512100,2014,regular-season,2013-12-13,2,2479,away,FALSE,Ohio Valley,52,Fighting Scots,Ohio Valley Fighting Scots,Ohio Vall
+400507834,2014,regular-season,2013-12-13,2,2433,home,FALSE,UL Monroe,72,Warhawks,UL Monroe Warhawks,UL Monroe
+400507834,2014,regular-season,2013-12-13,2,2253,away,FALSE,Grand Canyon,82,Lopes,Grand Canyon Lopes,Grand Canyon
+400509453,2014,regular-season,2013-12-13,2,2674,home,FALSE,Valparaiso,50,Beacons,Valparaiso Beacons,Valparaiso
+400509453,2014,regular-season,2013-12-13,2,2086,away,FALSE,Butler,65,Bulldogs,Butler Bulldogs,Butler
+400505840,2014,regular-season,2013-12-13,2,204,home,FALSE,Oregon State,76,Beavers,Oregon State Beavers,Oregon St
+400505840,2014,regular-season,2013-12-13,2,62,away,FALSE,Hawai'i,64,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
+400505839,2014,regular-season,2013-12-13,2,299,home,FALSE,Long Beach State,51,Beach,Long Beach State Beach,Long Beach St
+400505839,2014,regular-season,2013-12-13,2,301,away,FALSE,San Diego,68,Toreros,San Diego Toreros,San Diego
+400509776,2014,regular-season,2013-12-13,2,264,home,FALSE,Washington,80,Huskies,Washington Huskies,Washington
+400509776,2014,regular-season,2013-12-13,2,275,away,FALSE,Wisconsin,67,Badgers,Wisconsin Badgers,Wisconsin

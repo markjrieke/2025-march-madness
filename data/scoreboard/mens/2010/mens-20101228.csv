@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303620183,2010-12-28,2,183,home,FALSE,Syracuse,81,Orange,Syracuse Orange,Syracuse
-303620183,2010-12-28,2,2507,away,FALSE,Providence,74,Friars,Providence Friars,Providence
-303620096,2010-12-28,2,96,home,FALSE,Kentucky,91,Wildcats,Kentucky Wildcats,Kentucky
-303620096,2010-12-28,2,2154,away,FALSE,Coppin State,61,Eagles,Coppin State Eagles,Coppin St
-303620130,2010-12-28,2,130,home,FALSE,Michigan,57,Wolverines,Michigan Wolverines,Michigan
-303620130,2010-12-28,2,2509,away,FALSE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
-303620275,2010-12-28,2,275,home,FALSE,Wisconsin,68,Badgers,Wisconsin Badgers,Wisconsin
-303620275,2010-12-28,2,135,away,FALSE,Minnesota,60,Golden Gophers,Minnesota Golden Gophers,Minnesota
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303620183,2011,regular-season,2010-12-28,2,183,home,FALSE,Syracuse,81,Orange,Syracuse Orange,Syracuse
+303620183,2011,regular-season,2010-12-28,2,2507,away,FALSE,Providence,74,Friars,Providence Friars,Providence
+303620096,2011,regular-season,2010-12-28,2,96,home,FALSE,Kentucky,91,Wildcats,Kentucky Wildcats,Kentucky
+303620096,2011,regular-season,2010-12-28,2,2154,away,FALSE,Coppin State,61,Eagles,Coppin State Eagles,Coppin St
+303620130,2011,regular-season,2010-12-28,2,130,home,FALSE,Michigan,57,Wolverines,Michigan Wolverines,Michigan
+303620130,2011,regular-season,2010-12-28,2,2509,away,FALSE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
+303620275,2011,regular-season,2010-12-28,2,275,home,FALSE,Wisconsin,68,Badgers,Wisconsin Badgers,Wisconsin
+303620275,2011,regular-season,2010-12-28,2,135,away,FALSE,Minnesota,60,Golden Gophers,Minnesota Golden Gophers,Minnesota

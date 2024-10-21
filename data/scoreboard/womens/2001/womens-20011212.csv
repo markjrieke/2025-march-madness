@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213460066,2001-12-12,2,66,home,FALSE,Iowa State,82,Cyclones,Iowa State Cyclones,Iowa State
-213460066,2001-12-12,2,2294,away,FALSE,Iowa,64,Hawkeyes,Iowa Hawkeyes,Iowa
-213460038,2001-12-12,2,38,home,FALSE,Colorado,81,Buffaloes,Colorado Buffaloes,Colorado
-213460038,2001-12-12,2,2751,away,FALSE,Wyoming,57,Cowgirls,Wyoming Cowgirls,Wyoming
-213462649,2001-12-12,2,2649,home,FALSE,Toledo,46,Rockets,Toledo Rockets,Toledo
-213462649,2001-12-12,2,130,away,FALSE,Michigan,74,Wolverines,Michigan Wolverines,Michigan
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213460066,2002,regular-season,2001-12-12,2,66,home,FALSE,Iowa State,82,Cyclones,Iowa State Cyclones,Iowa State
+213460066,2002,regular-season,2001-12-12,2,2294,away,FALSE,Iowa,64,Hawkeyes,Iowa Hawkeyes,Iowa
+213460038,2002,regular-season,2001-12-12,2,38,home,FALSE,Colorado,81,Buffaloes,Colorado Buffaloes,Colorado
+213460038,2002,regular-season,2001-12-12,2,2751,away,FALSE,Wyoming,57,Cowgirls,Wyoming Cowgirls,Wyoming
+213462649,2002,regular-season,2001-12-12,2,2649,home,FALSE,Toledo,46,Rockets,Toledo Rockets,Toledo
+213462649,2002,regular-season,2001-12-12,2,130,away,FALSE,Michigan,74,Wolverines,Michigan Wolverines,Michigan

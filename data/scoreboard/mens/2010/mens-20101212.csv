@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303460194,2010-12-12,2,194,home,FALSE,Ohio State,85,Buckeyes,Ohio State Buckeyes,Ohio State
-303460194,2010-12-12,2,2717,away,FALSE,Western Carolina,60,Catamounts,Western Carolina Catamounts,W Carolina
-303460046,2010-12-12,2,46,home,FALSE,Georgetown,89,Hoyas,Georgetown Hoyas,Georgetown
-303460046,2010-12-12,2,2026,away,FALSE,App State,60,Mountaineers,App State Mountaineers,App State
-303462325,2010-12-12,2,2325,home,FALSE,La Salle,81,Explorers,La Salle Explorers,La Salle
-303462325,2010-12-12,2,222,away,FALSE,Villanova,84,Wildcats,Villanova Wildcats,Villanova
-303460356,2010-12-12,2,356,home,FALSE,Illinois,86,Fighting Illini,Illinois Fighting Illini,Illinois
-303460356,2010-12-12,2,2458,away,FALSE,Northern Colorado,76,Bears,Northern Colorado Bears,N Colorado
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303460194,2011,regular-season,2010-12-12,2,194,home,FALSE,Ohio State,85,Buckeyes,Ohio State Buckeyes,Ohio State
+303460194,2011,regular-season,2010-12-12,2,2717,away,FALSE,Western Carolina,60,Catamounts,Western Carolina Catamounts,W Carolina
+303460046,2011,regular-season,2010-12-12,2,46,home,FALSE,Georgetown,89,Hoyas,Georgetown Hoyas,Georgetown
+303460046,2011,regular-season,2010-12-12,2,2026,away,FALSE,App State,60,Mountaineers,App State Mountaineers,App State
+303462325,2011,regular-season,2010-12-12,2,2325,home,FALSE,La Salle,81,Explorers,La Salle Explorers,La Salle
+303462325,2011,regular-season,2010-12-12,2,222,away,FALSE,Villanova,84,Wildcats,Villanova Wildcats,Villanova
+303460356,2011,regular-season,2010-12-12,2,356,home,FALSE,Illinois,86,Fighting Illini,Illinois Fighting Illini,Illinois
+303460356,2011,regular-season,2010-12-12,2,2458,away,FALSE,Northern Colorado,76,Bears,Northern Colorado Bears,N Colorado

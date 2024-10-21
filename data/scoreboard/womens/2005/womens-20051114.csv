@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253180041,2005-11-14,2,41,home,FALSE,UConn,86,Huskies,UConn Huskies,UConn
-253180041,2005-11-14,2,282,away,FALSE,Indiana State,43,Sycamores,Indiana State Sycamores,Indiana St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253180041,2006,regular-season,2005-11-14,2,41,home,FALSE,UConn,86,Huskies,UConn Huskies,UConn
+253180041,2006,regular-season,2005-11-14,2,282,away,FALSE,Indiana State,43,Sycamores,Indiana State Sycamores,Indiana St

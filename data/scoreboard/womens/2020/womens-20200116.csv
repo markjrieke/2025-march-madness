@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401166665,2020-01-16,4,142,home,FALSE,Missouri,45,Tigers,Missouri Tigers,Missouri
-401166665,2020-01-16,4,2579,away,FALSE,South Carolina,78,Gamecocks,South Carolina Gamecocks,South Carolina
-401169310,2020-01-16,4,2116,home,FALSE,UCF,52,Knights,UCF Knights,UCF
-401169310,2020-01-16,4,41,away,FALSE,UConn,59,Huskies,UConn Huskies,UConn
-401171242,2020-01-16,4,103,home,FALSE,Boston College,70,Eagles,Boston College Eagles,Boston College
-401171242,2020-01-16,4,97,away,FALSE,Louisville,81,Cardinals,Louisville Cardinals,Louisville
-401171239,2020-01-16,4,152,home,FALSE,NC State,68,Wolfpack,NC State Wolfpack,NC State
-401171239,2020-01-16,4,52,away,FALSE,Florida State,51,Seminoles,Florida State Seminoles,Florida St
-401166664,2020-01-16,4,344,home,FALSE,Mississippi State,64,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401166664,2020-01-16,4,99,away,FALSE,LSU,60,Tigers,LSU Tigers,LSU
-401166663,2020-01-16,4,96,home,FALSE,Kentucky,76,Wildcats,Kentucky Wildcats,Kentucky
-401166663,2020-01-16,4,245,away,FALSE,Texas A&M,54,Aggies,Texas A&M Aggies,Texas A&M
-401166835,2020-01-16,5,84,home,FALSE,Indiana,69,Hoosiers,Indiana Hoosiers,Indiana
-401166835,2020-01-16,5,77,away,FALSE,Northwestern,71,Wildcats,Northwestern Wildcats,Northwestern
-401174123,2020-01-16,4,2541,home,FALSE,Santa Clara,52,Broncos,Santa Clara Broncos,Santa Clara
-401174123,2020-01-16,4,2250,away,FALSE,Gonzaga,67,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401166836,2020-01-16,4,120,home,FALSE,Maryland,87,Terrapins,Maryland Terrapins,Maryland
-401166836,2020-01-16,4,158,away,FALSE,Nebraska,69,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401166838,2020-01-16,4,135,home,FALSE,Minnesota,75,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401166838,2020-01-16,4,2294,away,FALSE,Iowa,76,Hawkeyes,Iowa Hawkeyes,Iowa
-401166662,2020-01-16,4,57,home,FALSE,Florida,50,Gators,Florida Gators,Florida
-401166662,2020-01-16,4,2633,away,FALSE,Tennessee,78,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401179987,2020-01-16,4,2449,home,FALSE,North Dakota State,36,Bison,North Dakota State Bison,N Dakota St
-401179987,2020-01-16,4,233,away,FALSE,South Dakota,80,Coyotes,South Dakota Coyotes,South Dakota
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401166665,2020,regular-season,2020-01-16,4,142,home,FALSE,Missouri,45,Tigers,Missouri Tigers,Missouri
+401166665,2020,regular-season,2020-01-16,4,2579,away,FALSE,South Carolina,78,Gamecocks,South Carolina Gamecocks,South Carolina
+401169310,2020,regular-season,2020-01-16,4,2116,home,FALSE,UCF,52,Knights,UCF Knights,UCF
+401169310,2020,regular-season,2020-01-16,4,41,away,FALSE,UConn,59,Huskies,UConn Huskies,UConn
+401171242,2020,regular-season,2020-01-16,4,103,home,FALSE,Boston College,70,Eagles,Boston College Eagles,Boston College
+401171242,2020,regular-season,2020-01-16,4,97,away,FALSE,Louisville,81,Cardinals,Louisville Cardinals,Louisville
+401171239,2020,regular-season,2020-01-16,4,152,home,FALSE,NC State,68,Wolfpack,NC State Wolfpack,NC State
+401171239,2020,regular-season,2020-01-16,4,52,away,FALSE,Florida State,51,Seminoles,Florida State Seminoles,Florida St
+401166664,2020,regular-season,2020-01-16,4,344,home,FALSE,Mississippi State,64,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401166664,2020,regular-season,2020-01-16,4,99,away,FALSE,LSU,60,Tigers,LSU Tigers,LSU
+401166663,2020,regular-season,2020-01-16,4,96,home,FALSE,Kentucky,76,Wildcats,Kentucky Wildcats,Kentucky
+401166663,2020,regular-season,2020-01-16,4,245,away,FALSE,Texas A&M,54,Aggies,Texas A&M Aggies,Texas A&M
+401166835,2020,regular-season,2020-01-16,5,84,home,FALSE,Indiana,69,Hoosiers,Indiana Hoosiers,Indiana
+401166835,2020,regular-season,2020-01-16,5,77,away,FALSE,Northwestern,71,Wildcats,Northwestern Wildcats,Northwestern
+401174123,2020,regular-season,2020-01-16,4,2541,home,FALSE,Santa Clara,52,Broncos,Santa Clara Broncos,Santa Clara
+401174123,2020,regular-season,2020-01-16,4,2250,away,FALSE,Gonzaga,67,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401166836,2020,regular-season,2020-01-16,4,120,home,FALSE,Maryland,87,Terrapins,Maryland Terrapins,Maryland
+401166836,2020,regular-season,2020-01-16,4,158,away,FALSE,Nebraska,69,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401166838,2020,regular-season,2020-01-16,4,135,home,FALSE,Minnesota,75,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401166838,2020,regular-season,2020-01-16,4,2294,away,FALSE,Iowa,76,Hawkeyes,Iowa Hawkeyes,Iowa
+401166662,2020,regular-season,2020-01-16,4,57,home,FALSE,Florida,50,Gators,Florida Gators,Florida
+401166662,2020,regular-season,2020-01-16,4,2633,away,FALSE,Tennessee,78,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401179987,2020,regular-season,2020-01-16,4,2449,home,FALSE,North Dakota State,36,Bison,North Dakota State Bison,N Dakota St
+401179987,2020,regular-season,2020-01-16,4,233,away,FALSE,South Dakota,80,Coyotes,South Dakota Coyotes,South Dakota

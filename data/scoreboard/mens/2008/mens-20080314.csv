@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280740153,2008-03-14,2,153,home,TRUE,North Carolina,82,Tar Heels,North Carolina Tar Heels,North Carolina
-280740153,2008-03-14,2,52,away,TRUE,Florida State,70,Seminoles,Florida State Seminoles,Florida St
-280740235,2008-03-14,2,235,home,TRUE,Memphis,69,Tigers,Memphis Tigers,Memphis
-280740235,2008-03-14,2,2572,away,TRUE,Southern Miss,53,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
-280740026,2008-03-14,2,26,home,TRUE,UCLA,57,Bruins,UCLA Bruins,UCLA
-280740026,2008-03-14,2,30,away,TRUE,USC,54,Trojans,USC Trojans,USC
-280742305,2008-03-14,2,2305,home,TRUE,Kansas,64,Jayhawks,Kansas Jayhawks,Kansas
-280742305,2008-03-14,2,158,away,TRUE,Nebraska,54,Cornhuskers,Nebraska Cornhuskers,Nebraska
-280742633,2008-03-14,2,2633,home,TRUE,Tennessee,89,Volunteers,Tennessee Volunteers,Tennessee
-280742633,2008-03-14,2,2579,away,TRUE,South Carolina,87,Gamecocks,South Carolina Gamecocks,South Carolina
-280740275,2008-03-14,2,275,home,TRUE,Wisconsin,51,Badgers,Wisconsin Badgers,Wisconsin
-280740275,2008-03-14,2,130,away,TRUE,Michigan,34,Wolverines,Michigan Wolverines,Michigan
-280740251,2008-03-14,2,251,home,TRUE,Texas,66,Longhorns,Texas Longhorns,Texas
-280740251,2008-03-14,2,197,away,TRUE,Oklahoma State,59,Cowboys,Oklahoma State Cowboys,Oklahoma St
-280740046,2008-03-14,2,46,home,TRUE,Georgetown,72,Hoyas,Georgetown Hoyas,Georgetown
-280740046,2008-03-14,2,277,away,TRUE,West Virginia,55,Mountaineers,West Virginia Mountaineers,West Virginia
-280740150,2008-03-14,2,150,home,TRUE,Duke,82,Blue Devils,Duke Blue Devils,Duke
-280740150,2008-03-14,2,59,away,TRUE,Georgia Tech,70,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-280740024,2008-03-14,2,24,home,TRUE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
-280740024,2008-03-14,2,265,away,TRUE,Washington State,68,Cougars,Washington State Cougars,Washington St
-280742752,2008-03-14,2,2752,home,TRUE,Xavier,53,Musketeers,Xavier Musketeers,Xavier
-280742752,2008-03-14,2,2603,away,TRUE,Saint Joseph's,61,Hawks,Saint Joseph's Hawks,Saint Joseph's
-280740269,2008-03-14,2,269,home,TRUE,Marquette,61,Golden Eagles,Marquette Golden Eagles,Marquette
-280740269,2008-03-14,2,221,away,TRUE,Pittsburgh,68,Panthers,Pittsburgh Panthers,Pitt
-280740127,2008-03-14,2,127,home,TRUE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
-280740127,2008-03-14,2,194,away,TRUE,Ohio State,60,Buckeyes,Ohio State Buckeyes,Ohio State
-280740008,2008-03-14,2,8,home,TRUE,Arkansas,81,Razorbacks,Arkansas Razorbacks,Arkansas
-280740008,2008-03-14,2,238,away,TRUE,Vanderbilt,75,Commodores,Vanderbilt Commodores,Vanderbilt
-280742509,2008-03-14,3,2509,home,TRUE,Purdue,67,Boilermakers,Purdue Boilermakers,Purdue
-280742509,2008-03-14,3,356,away,TRUE,Illinois,74,Fighting Illini,Illinois Fighting Illini,Illinois
-280740228,2008-03-14,2,228,home,TRUE,Clemson,82,Tigers,Clemson Tigers,Clemson
-280740228,2008-03-14,2,103,away,TRUE,Boston College,48,Eagles,Boston College Eagles,Boston College
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280740153,2008,regular-season,2008-03-14,2,153,home,TRUE,North Carolina,82,Tar Heels,North Carolina Tar Heels,North Carolina
+280740153,2008,regular-season,2008-03-14,2,52,away,TRUE,Florida State,70,Seminoles,Florida State Seminoles,Florida St
+280740235,2008,regular-season,2008-03-14,2,235,home,TRUE,Memphis,69,Tigers,Memphis Tigers,Memphis
+280740235,2008,regular-season,2008-03-14,2,2572,away,TRUE,Southern Miss,53,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
+280740026,2008,regular-season,2008-03-14,2,26,home,TRUE,UCLA,57,Bruins,UCLA Bruins,UCLA
+280740026,2008,regular-season,2008-03-14,2,30,away,TRUE,USC,54,Trojans,USC Trojans,USC
+280742305,2008,regular-season,2008-03-14,2,2305,home,TRUE,Kansas,64,Jayhawks,Kansas Jayhawks,Kansas
+280742305,2008,regular-season,2008-03-14,2,158,away,TRUE,Nebraska,54,Cornhuskers,Nebraska Cornhuskers,Nebraska
+280742633,2008,regular-season,2008-03-14,2,2633,home,TRUE,Tennessee,89,Volunteers,Tennessee Volunteers,Tennessee
+280742633,2008,regular-season,2008-03-14,2,2579,away,TRUE,South Carolina,87,Gamecocks,South Carolina Gamecocks,South Carolina
+280740275,2008,regular-season,2008-03-14,2,275,home,TRUE,Wisconsin,51,Badgers,Wisconsin Badgers,Wisconsin
+280740275,2008,regular-season,2008-03-14,2,130,away,TRUE,Michigan,34,Wolverines,Michigan Wolverines,Michigan
+280740251,2008,regular-season,2008-03-14,2,251,home,TRUE,Texas,66,Longhorns,Texas Longhorns,Texas
+280740251,2008,regular-season,2008-03-14,2,197,away,TRUE,Oklahoma State,59,Cowboys,Oklahoma State Cowboys,Oklahoma St
+280740046,2008,regular-season,2008-03-14,2,46,home,TRUE,Georgetown,72,Hoyas,Georgetown Hoyas,Georgetown
+280740046,2008,regular-season,2008-03-14,2,277,away,TRUE,West Virginia,55,Mountaineers,West Virginia Mountaineers,West Virginia
+280740150,2008,regular-season,2008-03-14,2,150,home,TRUE,Duke,82,Blue Devils,Duke Blue Devils,Duke
+280740150,2008,regular-season,2008-03-14,2,59,away,TRUE,Georgia Tech,70,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+280740024,2008,regular-season,2008-03-14,2,24,home,TRUE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
+280740024,2008,regular-season,2008-03-14,2,265,away,TRUE,Washington State,68,Cougars,Washington State Cougars,Washington St
+280742752,2008,regular-season,2008-03-14,2,2752,home,TRUE,Xavier,53,Musketeers,Xavier Musketeers,Xavier
+280742752,2008,regular-season,2008-03-14,2,2603,away,TRUE,Saint Joseph's,61,Hawks,Saint Joseph's Hawks,Saint Joseph's
+280740269,2008,regular-season,2008-03-14,2,269,home,TRUE,Marquette,61,Golden Eagles,Marquette Golden Eagles,Marquette
+280740269,2008,regular-season,2008-03-14,2,221,away,TRUE,Pittsburgh,68,Panthers,Pittsburgh Panthers,Pitt
+280740127,2008,regular-season,2008-03-14,2,127,home,TRUE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
+280740127,2008,regular-season,2008-03-14,2,194,away,TRUE,Ohio State,60,Buckeyes,Ohio State Buckeyes,Ohio State
+280740008,2008,regular-season,2008-03-14,2,8,home,TRUE,Arkansas,81,Razorbacks,Arkansas Razorbacks,Arkansas
+280740008,2008,regular-season,2008-03-14,2,238,away,TRUE,Vanderbilt,75,Commodores,Vanderbilt Commodores,Vanderbilt
+280742509,2008,regular-season,2008-03-14,3,2509,home,TRUE,Purdue,67,Boilermakers,Purdue Boilermakers,Purdue
+280742509,2008,regular-season,2008-03-14,3,356,away,TRUE,Illinois,74,Fighting Illini,Illinois Fighting Illini,Illinois
+280740228,2008,regular-season,2008-03-14,2,228,home,TRUE,Clemson,82,Tigers,Clemson Tigers,Clemson
+280740228,2008,regular-season,2008-03-14,2,103,away,TRUE,Boston College,48,Eagles,Boston College Eagles,Boston College

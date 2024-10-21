@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303520277,2010-12-18,2,277,home,FALSE,West Virginia,83,Mountaineers,West Virginia Mountaineers,West Virginia
-303520277,2010-12-18,2,2598,away,FALSE,St. Francis (PA),55,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-303520096,2010-12-18,2,96,home,FALSE,Kentucky,84,Wildcats,Kentucky Wildcats,Kentucky
-303520096,2010-12-18,2,2010,away,FALSE,Alabama A&M,58,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
-303520127,2010-12-18,2,127,home,FALSE,Michigan State,88,Spartans,Michigan State Spartans,Michigan St
-303520127,2010-12-18,2,159,away,FALSE,Dartmouth,33,Big Green,Dartmouth Big Green,Dartmouth
-303520043,2010-12-18,2,43,home,FALSE,Yale,91,Bulldogs,Yale Bulldogs,Yale
-303520043,2010-12-18,2,52,away,FALSE,Florida State,85,Seminoles,Florida State Seminoles,Florida St
-303522571,2010-12-18,2,2571,home,FALSE,South Dakota State,54,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-303522571,2010-12-18,2,2294,away,FALSE,Iowa,65,Hawkeyes,Iowa Hawkeyes,Iowa
-303522599,2010-12-18,2,2599,home,FALSE,St. John's,81,Red Storm,St. John's Red Storm,St John's
-303522599,2010-12-18,2,2572,away,FALSE,Southern Miss,50,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-303522567,2010-12-18,2,2567,home,TRUE,SMU,73,Mustangs,SMU Mustangs,SMU
-303522567,2010-12-18,2,251,away,TRUE,Texas,91,Longhorns,Texas Longhorns,Texas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303520277,2011,regular-season,2010-12-18,2,277,home,FALSE,West Virginia,83,Mountaineers,West Virginia Mountaineers,West Virginia
+303520277,2011,regular-season,2010-12-18,2,2598,away,FALSE,St. Francis (PA),55,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+303520096,2011,regular-season,2010-12-18,2,96,home,FALSE,Kentucky,84,Wildcats,Kentucky Wildcats,Kentucky
+303520096,2011,regular-season,2010-12-18,2,2010,away,FALSE,Alabama A&M,58,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+303520127,2011,regular-season,2010-12-18,2,127,home,FALSE,Michigan State,88,Spartans,Michigan State Spartans,Michigan St
+303520127,2011,regular-season,2010-12-18,2,159,away,FALSE,Dartmouth,33,Big Green,Dartmouth Big Green,Dartmouth
+303520043,2011,regular-season,2010-12-18,2,43,home,FALSE,Yale,91,Bulldogs,Yale Bulldogs,Yale
+303520043,2011,regular-season,2010-12-18,2,52,away,FALSE,Florida State,85,Seminoles,Florida State Seminoles,Florida St
+303522571,2011,regular-season,2010-12-18,2,2571,home,FALSE,South Dakota State,54,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+303522571,2011,regular-season,2010-12-18,2,2294,away,FALSE,Iowa,65,Hawkeyes,Iowa Hawkeyes,Iowa
+303522599,2011,regular-season,2010-12-18,2,2599,home,FALSE,St. John's,81,Red Storm,St. John's Red Storm,St John's
+303522599,2011,regular-season,2010-12-18,2,2572,away,FALSE,Southern Miss,50,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+303522567,2011,regular-season,2010-12-18,2,2567,home,TRUE,SMU,73,Mustangs,SMU Mustangs,SMU
+303522567,2011,regular-season,2010-12-18,2,251,away,TRUE,Texas,91,Longhorns,Texas Longhorns,Texas

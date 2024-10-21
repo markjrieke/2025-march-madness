@@ -1,35 +1,35 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273270153,2007-11-23,2,153,home,TRUE,North Carolina,99,Tar Heels,North Carolina Tar Heels,North Carolina
-273270153,2007-11-23,2,295,away,TRUE,Old Dominion,82,Monarchs,Old Dominion Monarchs,Old Dominion
-273270026,2007-11-23,2,26,home,FALSE,UCLA,81,Bruins,UCLA Bruins,UCLA
-273270026,2007-11-23,2,43,away,FALSE,Yale,47,Bulldogs,Yale Bulldogs,Yale
-273270097,2007-11-23,2,97,home,TRUE,Louisville,76,Cardinals,Louisville Cardinals,Louisville
-273270097,2007-11-23,2,252,away,TRUE,BYU,78,Cougars,BYU Cougars,BYU
-273270277,2007-11-23,2,277,home,FALSE,West Virginia,72,Mountaineers,West Virginia Mountaineers,West Virginia
-273270277,2007-11-23,2,2633,away,FALSE,Tennessee,74,Volunteers,Tennessee Volunteers,Tennessee
-273272287,2007-11-23,2,84,home,TRUE,Indiana,70,Hoosiers,Indiana Hoosiers,Indiana
-273272287,2007-11-23,2,2287,away,TRUE,Illinois State,57,Redbirds,Illinois State Redbirds,Illinois St
-273270265,2007-11-23,2,265,home,TRUE,Washington State,66,Cougars,Washington State Cougars,Washington St
-273270265,2007-11-23,2,149,away,TRUE,Montana,55,Grizzlies,Montana Grizzlies,Montana
-273272641,2007-11-23,2,2250,home,TRUE,Gonzaga,63,Bulldogs,Gonzaga Bulldogs,Gonzaga
-273272641,2007-11-23,2,2641,away,TRUE,Texas Tech,73,Red Raiders,Texas Tech Red Raiders,Texas Tech
-273270166,2007-11-23,2,166,home,TRUE,New Mexico State,87,Aggies,New Mexico State Aggies,New Mexico St
-273270166,2007-11-23,2,251,away,TRUE,Texas,102,Longhorns,Texas Longhorns,Texas
-273270194,2007-11-23,2,194,home,TRUE,Ohio State,47,Buckeyes,Ohio State Buckeyes,Ohio State
-273270194,2007-11-23,2,245,away,TRUE,Texas A&M,70,Aggies,Texas A&M Aggies,Texas A&M
-273270221,2007-11-23,2,221,home,FALSE,Pittsburgh,92,Panthers,Pittsburgh Panthers,Pitt
-273270221,2007-11-23,2,2084,away,FALSE,Buffalo,45,Bulls,Buffalo Bulls,Buffalo
-273272116,2007-11-23,3,2306,home,TRUE,Kansas State,73,Wildcats,Kansas State Wildcats,Kansas St
-273272116,2007-11-23,3,2116,away,TRUE,UCF,71,Knights,UCF Knights,UCF
-273270079,2007-11-23,2,79,home,TRUE,Southern Illinois,63,Salukis,Southern Illinois Salukis,S Illinois
-273270079,2007-11-23,2,344,away,TRUE,Mississippi State,49,Bulldogs,Mississippi State Bulldogs,Mississippi St
-273270222,2007-11-23,2,2244,home,TRUE,George Mason,76,Patriots,George Mason Patriots,George Mason
-273270222,2007-11-23,2,222,away,TRUE,Villanova,84,Wildcats,Villanova Wildcats,Villanova
-273270183,2007-11-23,2,183,home,TRUE,Syracuse,91,Orange,Syracuse Orange,Syracuse
-273270183,2007-11-23,2,264,away,TRUE,Washington,85,Huskies,Washington Huskies,Washington
-273272086,2007-11-23,3,259,home,TRUE,Virginia Tech,78,Hokies,Virginia Tech Hokies,Virginia Tech
-273272086,2007-11-23,3,2086,away,TRUE,Butler,84,Bulldogs,Butler Bulldogs,Butler
-273270219,2007-11-23,2,219,home,TRUE,Pennsylvania,85,Quakers,Pennsylvania Quakers,Penn
-273270219,2007-11-23,2,258,away,TRUE,Virginia,100,Cavaliers,Virginia Cavaliers,Virginia
-273270057,2007-11-23,2,57,home,FALSE,Florida,51,Gators,Florida Gators,Florida
-273270057,2007-11-23,2,52,away,FALSE,Florida State,65,Seminoles,Florida State Seminoles,Florida St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273270153,2008,regular-season,2007-11-23,2,153,home,TRUE,North Carolina,99,Tar Heels,North Carolina Tar Heels,North Carolina
+273270153,2008,regular-season,2007-11-23,2,295,away,TRUE,Old Dominion,82,Monarchs,Old Dominion Monarchs,Old Dominion
+273270026,2008,regular-season,2007-11-23,2,26,home,FALSE,UCLA,81,Bruins,UCLA Bruins,UCLA
+273270026,2008,regular-season,2007-11-23,2,43,away,FALSE,Yale,47,Bulldogs,Yale Bulldogs,Yale
+273270097,2008,regular-season,2007-11-23,2,97,home,TRUE,Louisville,76,Cardinals,Louisville Cardinals,Louisville
+273270097,2008,regular-season,2007-11-23,2,252,away,TRUE,BYU,78,Cougars,BYU Cougars,BYU
+273270277,2008,regular-season,2007-11-23,2,277,home,FALSE,West Virginia,72,Mountaineers,West Virginia Mountaineers,West Virginia
+273270277,2008,regular-season,2007-11-23,2,2633,away,FALSE,Tennessee,74,Volunteers,Tennessee Volunteers,Tennessee
+273272287,2008,regular-season,2007-11-23,2,84,home,TRUE,Indiana,70,Hoosiers,Indiana Hoosiers,Indiana
+273272287,2008,regular-season,2007-11-23,2,2287,away,TRUE,Illinois State,57,Redbirds,Illinois State Redbirds,Illinois St
+273270265,2008,regular-season,2007-11-23,2,265,home,TRUE,Washington State,66,Cougars,Washington State Cougars,Washington St
+273270265,2008,regular-season,2007-11-23,2,149,away,TRUE,Montana,55,Grizzlies,Montana Grizzlies,Montana
+273272641,2008,regular-season,2007-11-23,2,2250,home,TRUE,Gonzaga,63,Bulldogs,Gonzaga Bulldogs,Gonzaga
+273272641,2008,regular-season,2007-11-23,2,2641,away,TRUE,Texas Tech,73,Red Raiders,Texas Tech Red Raiders,Texas Tech
+273270166,2008,regular-season,2007-11-23,2,166,home,TRUE,New Mexico State,87,Aggies,New Mexico State Aggies,New Mexico St
+273270166,2008,regular-season,2007-11-23,2,251,away,TRUE,Texas,102,Longhorns,Texas Longhorns,Texas
+273270194,2008,regular-season,2007-11-23,2,194,home,TRUE,Ohio State,47,Buckeyes,Ohio State Buckeyes,Ohio State
+273270194,2008,regular-season,2007-11-23,2,245,away,TRUE,Texas A&M,70,Aggies,Texas A&M Aggies,Texas A&M
+273270221,2008,regular-season,2007-11-23,2,221,home,FALSE,Pittsburgh,92,Panthers,Pittsburgh Panthers,Pitt
+273270221,2008,regular-season,2007-11-23,2,2084,away,FALSE,Buffalo,45,Bulls,Buffalo Bulls,Buffalo
+273272116,2008,regular-season,2007-11-23,3,2306,home,TRUE,Kansas State,73,Wildcats,Kansas State Wildcats,Kansas St
+273272116,2008,regular-season,2007-11-23,3,2116,away,TRUE,UCF,71,Knights,UCF Knights,UCF
+273270079,2008,regular-season,2007-11-23,2,79,home,TRUE,Southern Illinois,63,Salukis,Southern Illinois Salukis,S Illinois
+273270079,2008,regular-season,2007-11-23,2,344,away,TRUE,Mississippi State,49,Bulldogs,Mississippi State Bulldogs,Mississippi St
+273270222,2008,regular-season,2007-11-23,2,2244,home,TRUE,George Mason,76,Patriots,George Mason Patriots,George Mason
+273270222,2008,regular-season,2007-11-23,2,222,away,TRUE,Villanova,84,Wildcats,Villanova Wildcats,Villanova
+273270183,2008,regular-season,2007-11-23,2,183,home,TRUE,Syracuse,91,Orange,Syracuse Orange,Syracuse
+273270183,2008,regular-season,2007-11-23,2,264,away,TRUE,Washington,85,Huskies,Washington Huskies,Washington
+273272086,2008,regular-season,2007-11-23,3,259,home,TRUE,Virginia Tech,78,Hokies,Virginia Tech Hokies,Virginia Tech
+273272086,2008,regular-season,2007-11-23,3,2086,away,TRUE,Butler,84,Bulldogs,Butler Bulldogs,Butler
+273270219,2008,regular-season,2007-11-23,2,219,home,TRUE,Pennsylvania,85,Quakers,Pennsylvania Quakers,Penn
+273270219,2008,regular-season,2007-11-23,2,258,away,TRUE,Virginia,100,Cavaliers,Virginia Cavaliers,Virginia
+273270057,2008,regular-season,2007-11-23,2,57,home,FALSE,Florida,51,Gators,Florida Gators,Florida
+273270057,2008,regular-season,2007-11-23,2,52,away,FALSE,Florida State,65,Seminoles,Florida State Seminoles,Florida St

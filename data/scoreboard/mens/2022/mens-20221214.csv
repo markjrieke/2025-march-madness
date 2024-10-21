@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401483362,2022-12-14,2,120,home,FALSE,Maryland,60,Terrapins,Maryland Terrapins,Maryland
-401483362,2022-12-14,2,26,away,FALSE,UCLA,87,Bruins,UCLA Bruins,UCLA
-401497892,2022-12-14,2,2296,home,TRUE,Jackson State,59,Tigers,Jackson State Tigers,Jackson St
-401497892,2022-12-14,2,344,away,TRUE,Mississippi State,69,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401483047,2022-12-14,2,2,home,FALSE,Auburn,72,Tigers,Auburn Tigers,Auburn
-401483047,2022-12-14,2,2247,away,FALSE,Georgia State,64,Panthers,Georgia State Panthers,Georgia St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401483362,2023,regular-season,2022-12-14,2,120,home,FALSE,Maryland,60,Terrapins,Maryland Terrapins,Maryland
+401483362,2023,regular-season,2022-12-14,2,26,away,FALSE,UCLA,87,Bruins,UCLA Bruins,UCLA
+401497892,2023,regular-season,2022-12-14,2,2296,home,TRUE,Jackson State,59,Tigers,Jackson State Tigers,Jackson St
+401497892,2023,regular-season,2022-12-14,2,344,away,TRUE,Mississippi State,69,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401483047,2023,regular-season,2022-12-14,2,2,home,FALSE,Auburn,72,Tigers,Auburn Tigers,Auburn
+401483047,2023,regular-season,2022-12-14,2,2247,away,FALSE,Georgia State,64,Panthers,Georgia State Panthers,Georgia St

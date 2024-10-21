@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280730235,2008-03-13,2,235,home,TRUE,Memphis,75,Tigers,Memphis Tigers,Memphis
-280730235,2008-03-13,2,2655,away,TRUE,Tulane,56,Green Wave,Tulane Green Wave,Tulane
-280730026,2008-03-13,2,26,home,TRUE,UCLA,88,Bruins,UCLA Bruins,UCLA
-280730026,2008-03-13,2,25,away,TRUE,California,66,Golden Bears,California Golden Bears,California
-280730046,2008-03-13,2,46,home,TRUE,Georgetown,82,Hoyas,Georgetown Hoyas,Georgetown
-280730046,2008-03-13,2,222,away,TRUE,Villanova,63,Wildcats,Villanova Wildcats,Villanova
-280730024,2008-03-13,2,24,home,TRUE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
-280730024,2008-03-13,2,12,away,TRUE,Arizona,64,Wildcats,Arizona Wildcats,Arizona
-280732752,2008-03-13,2,2752,home,TRUE,Xavier,74,Musketeers,Xavier Musketeers,Xavier
-280732752,2008-03-13,2,2168,away,TRUE,Dayton,65,Flyers,Dayton Flyers,Dayton
-280730097,2008-03-13,3,97,home,TRUE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
-280730097,2008-03-13,3,221,away,TRUE,Pittsburgh,76,Panthers,Pittsburgh Panthers,Pitt
-280730087,2008-03-13,2,87,home,TRUE,Notre Dame,79,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-280730087,2008-03-13,2,269,away,TRUE,Marquette,89,Golden Eagles,Marquette Golden Eagles,Marquette
-280730041,2008-03-13,2,41,home,TRUE,UConn,72,Huskies,UConn Huskies,UConn
-280730041,2008-03-13,2,277,away,TRUE,West Virginia,78,Mountaineers,West Virginia Mountaineers,West Virginia
-280730238,2008-03-13,2,238,home,TRUE,Vanderbilt,93,Commodores,Vanderbilt Commodores,Vanderbilt
-280730238,2008-03-13,2,2,away,TRUE,Auburn,82,Tigers,Auburn Tigers,Auburn
-280730265,2008-03-13,2,265,home,TRUE,Washington State,75,Cougars,Washington State Cougars,Washington St
-280730265,2008-03-13,2,2483,away,TRUE,Oregon,70,Ducks,Oregon Ducks,Oregon
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280730235,2008,regular-season,2008-03-13,2,235,home,TRUE,Memphis,75,Tigers,Memphis Tigers,Memphis
+280730235,2008,regular-season,2008-03-13,2,2655,away,TRUE,Tulane,56,Green Wave,Tulane Green Wave,Tulane
+280730026,2008,regular-season,2008-03-13,2,26,home,TRUE,UCLA,88,Bruins,UCLA Bruins,UCLA
+280730026,2008,regular-season,2008-03-13,2,25,away,TRUE,California,66,Golden Bears,California Golden Bears,California
+280730046,2008,regular-season,2008-03-13,2,46,home,TRUE,Georgetown,82,Hoyas,Georgetown Hoyas,Georgetown
+280730046,2008,regular-season,2008-03-13,2,222,away,TRUE,Villanova,63,Wildcats,Villanova Wildcats,Villanova
+280730024,2008,regular-season,2008-03-13,2,24,home,TRUE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
+280730024,2008,regular-season,2008-03-13,2,12,away,TRUE,Arizona,64,Wildcats,Arizona Wildcats,Arizona
+280732752,2008,regular-season,2008-03-13,2,2752,home,TRUE,Xavier,74,Musketeers,Xavier Musketeers,Xavier
+280732752,2008,regular-season,2008-03-13,2,2168,away,TRUE,Dayton,65,Flyers,Dayton Flyers,Dayton
+280730097,2008,regular-season,2008-03-13,3,97,home,TRUE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
+280730097,2008,regular-season,2008-03-13,3,221,away,TRUE,Pittsburgh,76,Panthers,Pittsburgh Panthers,Pitt
+280730087,2008,regular-season,2008-03-13,2,87,home,TRUE,Notre Dame,79,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+280730087,2008,regular-season,2008-03-13,2,269,away,TRUE,Marquette,89,Golden Eagles,Marquette Golden Eagles,Marquette
+280730041,2008,regular-season,2008-03-13,2,41,home,TRUE,UConn,72,Huskies,UConn Huskies,UConn
+280730041,2008,regular-season,2008-03-13,2,277,away,TRUE,West Virginia,78,Mountaineers,West Virginia Mountaineers,West Virginia
+280730238,2008,regular-season,2008-03-13,2,238,home,TRUE,Vanderbilt,93,Commodores,Vanderbilt Commodores,Vanderbilt
+280730238,2008,regular-season,2008-03-13,2,2,away,TRUE,Auburn,82,Tigers,Auburn Tigers,Auburn
+280730265,2008,regular-season,2008-03-13,2,265,home,TRUE,Washington State,75,Cougars,Washington State Cougars,Washington St
+280730265,2008,regular-season,2008-03-13,2,2483,away,TRUE,Oregon,70,Ducks,Oregon Ducks,Oregon

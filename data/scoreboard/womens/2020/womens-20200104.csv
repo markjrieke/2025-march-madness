@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401176897,2020-01-04,4,201,home,FALSE,Oklahoma,56,Sooners,Oklahoma Sooners,Oklahoma
-401176897,2020-01-04,4,239,away,FALSE,Baylor,77,Bears,Baylor Bears,Baylor
-401174120,2020-01-04,4,301,home,FALSE,San Diego,42,Toreros,San Diego Toreros,San Diego
-401174120,2020-01-04,4,2250,away,FALSE,Gonzaga,57,Bulldogs,Gonzaga Bulldogs,Gonzaga
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401176897,2020,regular-season,2020-01-04,4,201,home,FALSE,Oklahoma,56,Sooners,Oklahoma Sooners,Oklahoma
+401176897,2020,regular-season,2020-01-04,4,239,away,FALSE,Baylor,77,Bears,Baylor Bears,Baylor
+401174120,2020,regular-season,2020-01-04,4,301,home,FALSE,San Diego,42,Toreros,San Diego Toreros,San Diego
+401174120,2020,regular-season,2020-01-04,4,2250,away,FALSE,Gonzaga,57,Bulldogs,Gonzaga Bulldogs,Gonzaga

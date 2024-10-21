@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400587861,2014-12-20,2,98,home,FALSE,Western Kentucky,67,Hilltoppers,Western Kentucky Hilltoppers,Western KY
-400587861,2014-12-20,2,97,away,FALSE,Louisville,76,Cardinals,Louisville Cardinals,Louisville
-400587863,2014-12-20,3,222,home,FALSE,Villanova,82,Wildcats,Villanova Wildcats,Villanova
-400587863,2014-12-20,3,183,away,FALSE,Syracuse,77,Orange,Syracuse Orange,Syracuse
-400585757,2014-12-20,2,251,home,FALSE,Texas,78,Longhorns,Texas Longhorns,Texas
-400585757,2014-12-20,2,299,away,FALSE,Long Beach State,68,Beach,Long Beach State Beach,Long Beach St
-400585751,2014-12-20,2,2305,home,FALSE,Kansas,96,Jayhawks,Kansas Jayhawks,Kansas
-400585751,2014-12-20,2,322,away,FALSE,Lafayette,69,Leopards,Lafayette Leopards,Lafayette
-400587461,2014-12-20,2,21,home,FALSE,San Diego State,70,Aztecs,San Diego State Aztecs,San Diego St
-400587461,2014-12-20,2,2050,away,FALSE,Ball State,57,Cardinals,Ball State Cardinals,Ball State
-400595422,2014-12-20,3,127,home,FALSE,Michigan State,64,Spartans,Michigan State Spartans,Michigan St
-400595422,2014-12-20,3,2640,away,FALSE,Texas Southern,71,Tigers,Texas Southern Tigers,Texas Southern
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400587861,2015,regular-season,2014-12-20,2,98,home,FALSE,Western Kentucky,67,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+400587861,2015,regular-season,2014-12-20,2,97,away,FALSE,Louisville,76,Cardinals,Louisville Cardinals,Louisville
+400587863,2015,regular-season,2014-12-20,3,222,home,FALSE,Villanova,82,Wildcats,Villanova Wildcats,Villanova
+400587863,2015,regular-season,2014-12-20,3,183,away,FALSE,Syracuse,77,Orange,Syracuse Orange,Syracuse
+400585757,2015,regular-season,2014-12-20,2,251,home,FALSE,Texas,78,Longhorns,Texas Longhorns,Texas
+400585757,2015,regular-season,2014-12-20,2,299,away,FALSE,Long Beach State,68,Beach,Long Beach State Beach,Long Beach St
+400585751,2015,regular-season,2014-12-20,2,2305,home,FALSE,Kansas,96,Jayhawks,Kansas Jayhawks,Kansas
+400585751,2015,regular-season,2014-12-20,2,322,away,FALSE,Lafayette,69,Leopards,Lafayette Leopards,Lafayette
+400587461,2015,regular-season,2014-12-20,2,21,home,FALSE,San Diego State,70,Aztecs,San Diego State Aztecs,San Diego St
+400587461,2015,regular-season,2014-12-20,2,2050,away,FALSE,Ball State,57,Cardinals,Ball State Cardinals,Ball State
+400595422,2015,regular-season,2014-12-20,3,127,home,FALSE,Michigan State,64,Spartans,Michigan State Spartans,Michigan St
+400595422,2015,regular-season,2014-12-20,3,2640,away,FALSE,Texas Southern,71,Tigers,Texas Southern Tigers,Texas Southern

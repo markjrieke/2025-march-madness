@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401311253,2021-03-21,4,2294,home,TRUE,Iowa,87,Hawkeyes,Iowa Hawkeyes,Iowa
-401311253,2021-03-21,4,2117,away,TRUE,Central Michigan,72,Chippewas,Central Michigan Chippewas,C Michigan
-401311209,2021-03-21,4,259,home,TRUE,Virginia Tech,70,Hokies,Virginia Tech Hokies,Virginia Tech
-401311209,2021-03-21,4,269,away,TRUE,Marquette,63,Golden Eagles,Marquette Golden Eagles,Marquette
-401311210,2021-03-21,4,197,home,TRUE,Oklahoma State,84,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-401311210,2021-03-21,4,154,away,TRUE,Wake Forest,61,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-401311252,2021-03-21,4,96,home,TRUE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
-401311252,2021-03-21,4,304,away,TRUE,Idaho State,63,Bengals,Idaho State Bengals,Idaho St
-401311239,2021-03-21,4,2633,home,TRUE,Tennessee,87,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401311239,2021-03-21,4,2393,away,TRUE,Middle Tennessee,62,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-401311240,2021-03-21,4,130,home,TRUE,Michigan,87,Wolverines,Michigan Wolverines,Michigan
-401311240,2021-03-21,4,526,away,TRUE,Florida Gulf Coast,66,Eagles,Florida Gulf Coast Eagles,FGCU
-401311241,2021-03-21,4,152,home,TRUE,NC State,79,Wolfpack,NC State Wolfpack,NC State
-401311241,2021-03-21,4,2448,away,TRUE,North Carolina A&T,58,Aggies,North Carolina A&T Aggies,NC A&T
-401311208,2021-03-21,4,239,home,TRUE,Baylor,101,Bears,Baylor Bears,Baylor
-401311208,2021-03-21,4,2296,away,TRUE,Jackson State,52,Lady Tigers,Jackson State Lady Tigers,Jackson St
-401311224,2021-03-21,5,59,home,TRUE,Georgia Tech,54,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-401311224,2021-03-21,5,2617,away,TRUE,Stephen F. Austin,52,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
-401311254,2021-03-21,4,183,home,TRUE,Syracuse,72,Orange,Syracuse Orange,Syracuse
-401311254,2021-03-21,4,2571,away,TRUE,South Dakota State,55,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-401311226,2021-03-21,4,2579,home,TRUE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
-401311226,2021-03-21,4,2382,away,TRUE,Mercer,53,Bears,Mercer Bears,Mercer
-401311225,2021-03-21,4,204,home,TRUE,Oregon State,83,Beavers,Oregon State Beavers,Oregon St
-401311225,2021-03-21,4,52,away,TRUE,Florida State,59,Seminoles,Florida State Seminoles,Florida St
-401311255,2021-03-21,4,41,home,TRUE,UConn,102,Huskies,UConn Huskies,UConn
-401311255,2021-03-21,4,2272,away,TRUE,High Point,59,Panthers,High Point Panthers,High Point
-401311223,2021-03-21,4,277,home,TRUE,West Virginia,77,Mountaineers,West Virginia Mountaineers,West Virginia
-401311223,2021-03-21,4,2329,away,TRUE,Lehigh,53,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-401311238,2021-03-21,4,58,home,TRUE,South Florida,57,Bulls,South Florida Bulls,South Florida
-401311238,2021-03-21,4,265,away,TRUE,Washington State,53,Cougars,Washington State Cougars,Washington St
-401311211,2021-03-21,4,24,home,TRUE,Stanford,87,Cardinal,Stanford Cardinal,Stanford
-401311211,2021-03-21,4,3084,away,TRUE,Utah Valley,44,Wolverines,Utah Valley Wolverines,Utah Valley
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401311253,2021,post-season,2021-03-21,4,2294,home,TRUE,Iowa,87,Hawkeyes,Iowa Hawkeyes,Iowa
+401311253,2021,post-season,2021-03-21,4,2117,away,TRUE,Central Michigan,72,Chippewas,Central Michigan Chippewas,C Michigan
+401311209,2021,post-season,2021-03-21,4,259,home,TRUE,Virginia Tech,70,Hokies,Virginia Tech Hokies,Virginia Tech
+401311209,2021,post-season,2021-03-21,4,269,away,TRUE,Marquette,63,Golden Eagles,Marquette Golden Eagles,Marquette
+401311210,2021,post-season,2021-03-21,4,197,home,TRUE,Oklahoma State,84,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+401311210,2021,post-season,2021-03-21,4,154,away,TRUE,Wake Forest,61,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+401311252,2021,post-season,2021-03-21,4,96,home,TRUE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
+401311252,2021,post-season,2021-03-21,4,304,away,TRUE,Idaho State,63,Bengals,Idaho State Bengals,Idaho St
+401311239,2021,post-season,2021-03-21,4,2633,home,TRUE,Tennessee,87,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401311239,2021,post-season,2021-03-21,4,2393,away,TRUE,Middle Tennessee,62,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+401311240,2021,post-season,2021-03-21,4,130,home,TRUE,Michigan,87,Wolverines,Michigan Wolverines,Michigan
+401311240,2021,post-season,2021-03-21,4,526,away,TRUE,Florida Gulf Coast,66,Eagles,Florida Gulf Coast Eagles,FGCU
+401311241,2021,post-season,2021-03-21,4,152,home,TRUE,NC State,79,Wolfpack,NC State Wolfpack,NC State
+401311241,2021,post-season,2021-03-21,4,2448,away,TRUE,North Carolina A&T,58,Aggies,North Carolina A&T Aggies,NC A&T
+401311208,2021,post-season,2021-03-21,4,239,home,TRUE,Baylor,101,Bears,Baylor Bears,Baylor
+401311208,2021,post-season,2021-03-21,4,2296,away,TRUE,Jackson State,52,Lady Tigers,Jackson State Lady Tigers,Jackson St
+401311224,2021,post-season,2021-03-21,5,59,home,TRUE,Georgia Tech,54,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+401311224,2021,post-season,2021-03-21,5,2617,away,TRUE,Stephen F. Austin,52,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
+401311254,2021,post-season,2021-03-21,4,183,home,TRUE,Syracuse,72,Orange,Syracuse Orange,Syracuse
+401311254,2021,post-season,2021-03-21,4,2571,away,TRUE,South Dakota State,55,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+401311226,2021,post-season,2021-03-21,4,2579,home,TRUE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
+401311226,2021,post-season,2021-03-21,4,2382,away,TRUE,Mercer,53,Bears,Mercer Bears,Mercer
+401311225,2021,post-season,2021-03-21,4,204,home,TRUE,Oregon State,83,Beavers,Oregon State Beavers,Oregon St
+401311225,2021,post-season,2021-03-21,4,52,away,TRUE,Florida State,59,Seminoles,Florida State Seminoles,Florida St
+401311255,2021,post-season,2021-03-21,4,41,home,TRUE,UConn,102,Huskies,UConn Huskies,UConn
+401311255,2021,post-season,2021-03-21,4,2272,away,TRUE,High Point,59,Panthers,High Point Panthers,High Point
+401311223,2021,post-season,2021-03-21,4,277,home,TRUE,West Virginia,77,Mountaineers,West Virginia Mountaineers,West Virginia
+401311223,2021,post-season,2021-03-21,4,2329,away,TRUE,Lehigh,53,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+401311238,2021,post-season,2021-03-21,4,58,home,TRUE,South Florida,57,Bulls,South Florida Bulls,South Florida
+401311238,2021,post-season,2021-03-21,4,265,away,TRUE,Washington State,53,Cougars,Washington State Cougars,Washington St
+401311211,2021,post-season,2021-03-21,4,24,home,TRUE,Stanford,87,Cardinal,Stanford Cardinal,Stanford
+401311211,2021,post-season,2021-03-21,4,3084,away,TRUE,Utah Valley,44,Wolverines,Utah Valley Wolverines,Utah Valley

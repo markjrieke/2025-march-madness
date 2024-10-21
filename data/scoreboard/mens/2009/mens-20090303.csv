@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290620150,2009-03-03,2,150,home,FALSE,Duke,84,Blue Devils,Duke Blue Devils,Duke
-290620150,2009-03-03,2,52,away,FALSE,Florida State,81,Seminoles,Florida State Seminoles,Florida St
-290620084,2009-03-03,2,84,home,FALSE,Indiana,59,Hoosiers,Indiana Hoosiers,Indiana
-290620084,2009-03-03,2,127,away,FALSE,Michigan State,64,Spartans,Michigan State Spartans,Michigan St
-290620120,2009-03-03,2,120,home,FALSE,Maryland,63,Terrapins,Maryland Terrapins,Maryland
-290620120,2009-03-03,2,154,away,FALSE,Wake Forest,65,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-290622250,2009-03-03,2,2250,home,FALSE,Gonzaga,90,Bulldogs,Gonzaga Bulldogs,Gonzaga
-290622250,2009-03-03,2,2908,away,FALSE,South Carolina Upstate,40,Spartans,South Carolina Upstate Spartans,SC Upstate
-290620264,2009-03-03,2,264,home,FALSE,Washington,87,Huskies,Washington Huskies,Washington
-290620264,2009-03-03,2,2547,away,FALSE,Seattle U,60,Redhawks,Seattle U Redhawks,Seattle U
-290620228,2009-03-03,2,228,home,FALSE,Clemson,75,Tigers,Clemson Tigers,Clemson
-290620228,2009-03-03,2,258,away,FALSE,Virginia,57,Cavaliers,Virginia Cavaliers,Virginia
-290620183,2009-03-03,2,183,home,FALSE,Syracuse,70,Orange,Syracuse Orange,Syracuse
-290620183,2009-03-03,2,164,away,FALSE,Rutgers,40,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290620150,2009,regular-season,2009-03-03,2,150,home,FALSE,Duke,84,Blue Devils,Duke Blue Devils,Duke
+290620150,2009,regular-season,2009-03-03,2,52,away,FALSE,Florida State,81,Seminoles,Florida State Seminoles,Florida St
+290620084,2009,regular-season,2009-03-03,2,84,home,FALSE,Indiana,59,Hoosiers,Indiana Hoosiers,Indiana
+290620084,2009,regular-season,2009-03-03,2,127,away,FALSE,Michigan State,64,Spartans,Michigan State Spartans,Michigan St
+290620120,2009,regular-season,2009-03-03,2,120,home,FALSE,Maryland,63,Terrapins,Maryland Terrapins,Maryland
+290620120,2009,regular-season,2009-03-03,2,154,away,FALSE,Wake Forest,65,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+290622250,2009,regular-season,2009-03-03,2,2250,home,FALSE,Gonzaga,90,Bulldogs,Gonzaga Bulldogs,Gonzaga
+290622250,2009,regular-season,2009-03-03,2,2908,away,FALSE,South Carolina Upstate,40,Spartans,South Carolina Upstate Spartans,SC Upstate
+290620264,2009,regular-season,2009-03-03,2,264,home,FALSE,Washington,87,Huskies,Washington Huskies,Washington
+290620264,2009,regular-season,2009-03-03,2,2547,away,FALSE,Seattle U,60,Redhawks,Seattle U Redhawks,Seattle U
+290620228,2009,regular-season,2009-03-03,2,228,home,FALSE,Clemson,75,Tigers,Clemson Tigers,Clemson
+290620228,2009,regular-season,2009-03-03,2,258,away,FALSE,Virginia,57,Cavaliers,Virginia Cavaliers,Virginia
+290620183,2009,regular-season,2009-03-03,2,183,home,FALSE,Syracuse,70,Orange,Syracuse Orange,Syracuse
+290620183,2009,regular-season,2009-03-03,2,164,away,FALSE,Rutgers,40,Scarlet Knights,Rutgers Scarlet Knights,Rutgers

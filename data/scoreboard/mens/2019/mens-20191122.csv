@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401166087,2019-11-22,2,120,home,FALSE,Maryland,86,Terrapins,Maryland Terrapins,Maryland
-401166087,2019-11-22,2,2244,away,FALSE,George Mason,63,Patriots,George Mason Patriots,George Mason
-401166091,2019-11-22,2,194,home,FALSE,Ohio State,85,Buckeyes,Ohio State Buckeyes,Ohio State
-401166091,2019-11-22,2,2870,away,FALSE,Purdue Fort Wayne,46,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-401169449,2019-11-22,2,2483,home,FALSE,Oregon,78,Ducks,Oregon Ducks,Oregon
-401169449,2019-11-22,2,248,away,FALSE,Houston,66,Cougars,Houston Cougars,Houston
-401166443,2019-11-22,2,264,home,FALSE,Washington,73,Huskies,Washington Huskies,Washington
-401166443,2019-11-22,2,149,away,FALSE,Montana,56,Grizzlies,Montana Grizzlies,Montana
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401166087,2020,regular-season,2019-11-22,2,120,home,FALSE,Maryland,86,Terrapins,Maryland Terrapins,Maryland
+401166087,2020,regular-season,2019-11-22,2,2244,away,FALSE,George Mason,63,Patriots,George Mason Patriots,George Mason
+401166091,2020,regular-season,2019-11-22,2,194,home,FALSE,Ohio State,85,Buckeyes,Ohio State Buckeyes,Ohio State
+401166091,2020,regular-season,2019-11-22,2,2870,away,FALSE,Purdue Fort Wayne,46,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+401169449,2020,regular-season,2019-11-22,2,2483,home,FALSE,Oregon,78,Ducks,Oregon Ducks,Oregon
+401169449,2020,regular-season,2019-11-22,2,248,away,FALSE,Houston,66,Cougars,Houston Cougars,Houston
+401166443,2020,regular-season,2019-11-22,2,264,home,FALSE,Washington,73,Huskies,Washington Huskies,Washington
+401166443,2020,regular-season,2019-11-22,2,149,away,FALSE,Montana,56,Grizzlies,Montana Grizzlies,Montana

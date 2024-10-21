@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400588017,2015-03-04,2,150,home,FALSE,Duke,94,Blue Devils,Duke Blue Devils,Duke
-400588017,2015-03-04,2,154,away,FALSE,Wake Forest,51,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-400588015,2015-03-04,2,97,home,FALSE,Louisville,59,Cardinals,Louisville Cardinals,Louisville
-400588015,2015-03-04,2,87,away,FALSE,Notre Dame,71,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400595549,2015-03-04,2,213,home,FALSE,Penn State,67,Nittany Lions,Penn State Nittany Lions,Penn State
-400595549,2015-03-04,2,194,away,FALSE,Ohio State,77,Buckeyes,Ohio State Buckeyes,Ohio State
-400588478,2015-03-04,2,2550,home,FALSE,Seton Hall,66,Pirates,Seton Hall Pirates,Seton Hall
-400588478,2015-03-04,2,2507,away,FALSE,Providence,79,Friars,Providence Friars,Providence
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400588017,2015,regular-season,2015-03-04,2,150,home,FALSE,Duke,94,Blue Devils,Duke Blue Devils,Duke
+400588017,2015,regular-season,2015-03-04,2,154,away,FALSE,Wake Forest,51,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+400588015,2015,regular-season,2015-03-04,2,97,home,FALSE,Louisville,59,Cardinals,Louisville Cardinals,Louisville
+400588015,2015,regular-season,2015-03-04,2,87,away,FALSE,Notre Dame,71,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400595549,2015,regular-season,2015-03-04,2,213,home,FALSE,Penn State,67,Nittany Lions,Penn State Nittany Lions,Penn State
+400595549,2015,regular-season,2015-03-04,2,194,away,FALSE,Ohio State,77,Buckeyes,Ohio State Buckeyes,Ohio State
+400588478,2015,regular-season,2015-03-04,2,2550,home,FALSE,Seton Hall,66,Pirates,Seton Hall Pirates,Seton Hall
+400588478,2015,regular-season,2015-03-04,2,2507,away,FALSE,Providence,79,Friars,Providence Friars,Providence

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401263214,2020-12-21,4,26,home,FALSE,UCLA,49,Bruins,UCLA Bruins,UCLA
-401263214,2020-12-21,4,24,away,FALSE,Stanford,61,Cardinal,Stanford Cardinal,Stanford
-401263449,2020-12-21,4,265,home,FALSE,Washington State,65,Cougars,Washington State Cougars,Washington St
-401263449,2020-12-21,4,2483,away,FALSE,Oregon,69,Ducks,Oregon Ducks,Oregon
-401263258,2020-12-21,4,8,home,FALSE,Arkansas,86,Razorbacks,Arkansas Razorbacks,Arkansas
-401263258,2020-12-21,4,2029,away,FALSE,Arkansas-Pine Bluff,52,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-401254124,2020-12-21,4,2306,home,FALSE,Kansas State,52,Wildcats,Kansas State Wildcats,Kansas St
-401254124,2020-12-21,4,251,away,FALSE,Texas,62,Longhorns,Texas Longhorns,Texas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401263214,2021,regular-season,2020-12-21,4,26,home,FALSE,UCLA,49,Bruins,UCLA Bruins,UCLA
+401263214,2021,regular-season,2020-12-21,4,24,away,FALSE,Stanford,61,Cardinal,Stanford Cardinal,Stanford
+401263449,2021,regular-season,2020-12-21,4,265,home,FALSE,Washington State,65,Cougars,Washington State Cougars,Washington St
+401263449,2021,regular-season,2020-12-21,4,2483,away,FALSE,Oregon,69,Ducks,Oregon Ducks,Oregon
+401263258,2021,regular-season,2020-12-21,4,8,home,FALSE,Arkansas,86,Razorbacks,Arkansas Razorbacks,Arkansas
+401263258,2021,regular-season,2020-12-21,4,2029,away,FALSE,Arkansas-Pine Bluff,52,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+401254124,2021,regular-season,2020-12-21,4,2306,home,FALSE,Kansas State,52,Wildcats,Kansas State Wildcats,Kansas St
+401254124,2021,regular-season,2020-12-21,4,251,away,FALSE,Texas,62,Longhorns,Texas Longhorns,Texas

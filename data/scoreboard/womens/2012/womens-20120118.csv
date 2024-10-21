@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320182641,2012-01-18,2,2641,home,FALSE,Texas Tech,64,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-320182641,2012-01-18,2,239,away,FALSE,Baylor,72,Bears,Baylor Bears,Baylor
-320180059,2012-01-18,2,59,home,FALSE,Georgia Tech,62,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-320180059,2012-01-18,2,150,away,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
-320180245,2012-01-18,2,245,home,FALSE,Texas A&M,78,Aggies,Texas A&M Aggies,Texas A&M
-320180245,2012-01-18,2,142,away,FALSE,Missouri,52,Tigers,Missouri Tigers,Missouri
-320180097,2012-01-18,2,97,home,FALSE,Louisville,64,Cardinals,Louisville Cardinals,Louisville
-320180097,2012-01-18,2,2507,away,FALSE,Providence,48,Friars,Providence Friars,Providence
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320182641,2012,regular-season,2012-01-18,2,2641,home,FALSE,Texas Tech,64,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+320182641,2012,regular-season,2012-01-18,2,239,away,FALSE,Baylor,72,Bears,Baylor Bears,Baylor
+320180059,2012,regular-season,2012-01-18,2,59,home,FALSE,Georgia Tech,62,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+320180059,2012,regular-season,2012-01-18,2,150,away,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
+320180245,2012,regular-season,2012-01-18,2,245,home,FALSE,Texas A&M,78,Aggies,Texas A&M Aggies,Texas A&M
+320180245,2012,regular-season,2012-01-18,2,142,away,FALSE,Missouri,52,Tigers,Missouri Tigers,Missouri
+320180097,2012,regular-season,2012-01-18,2,97,home,FALSE,Louisville,64,Cardinals,Louisville Cardinals,Louisville
+320180097,2012,regular-season,2012-01-18,2,2507,away,FALSE,Providence,48,Friars,Providence Friars,Providence

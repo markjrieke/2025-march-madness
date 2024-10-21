@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323360194,2012-12-01,2,194,home,FALSE,Ohio State,78,Buckeyes,Ohio State Buckeyes,Ohio State
-323360194,2012-12-01,2,339,away,FALSE,Evansville,33,Purple Aces,Evansville Purple Aces,Evansville
-323360104,2012-12-01,2,104,home,FALSE,Boston University,66,Terriers,Boston University Terriers,Boston U
-323360104,2012-12-01,2,2599,away,FALSE,St. John's,49,Red Storm,St. John's Red Storm,St John's
-323360197,2012-12-01,2,197,home,FALSE,Oklahoma State,91,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-323360197,2012-12-01,2,2640,away,FALSE,Texas Southern,49,Tigers,Texas Southern Tigers,Texas Southern
-323360158,2012-12-01,2,158,home,FALSE,Nebraska,60,Cornhuskers,Nebraska Cornhuskers,Nebraska
-323360158,2012-12-01,2,304,away,FALSE,Idaho State,51,Bengals,Idaho State Bengals,Idaho St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323360194,2013,regular-season,2012-12-01,2,194,home,FALSE,Ohio State,78,Buckeyes,Ohio State Buckeyes,Ohio State
+323360194,2013,regular-season,2012-12-01,2,339,away,FALSE,Evansville,33,Purple Aces,Evansville Purple Aces,Evansville
+323360104,2013,regular-season,2012-12-01,2,104,home,FALSE,Boston University,66,Terriers,Boston University Terriers,Boston U
+323360104,2013,regular-season,2012-12-01,2,2599,away,FALSE,St. John's,49,Red Storm,St. John's Red Storm,St John's
+323360197,2013,regular-season,2012-12-01,2,197,home,FALSE,Oklahoma State,91,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+323360197,2013,regular-season,2012-12-01,2,2640,away,FALSE,Texas Southern,49,Tigers,Texas Southern Tigers,Texas Southern
+323360158,2013,regular-season,2012-12-01,2,158,home,FALSE,Nebraska,60,Cornhuskers,Nebraska Cornhuskers,Nebraska
+323360158,2013,regular-season,2012-12-01,2,304,away,FALSE,Idaho State,51,Bengals,Idaho State Bengals,Idaho St

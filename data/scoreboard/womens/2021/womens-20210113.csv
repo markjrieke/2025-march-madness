@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401264844,2021-01-13,5,2294,home,FALSE,Iowa,82,Hawkeyes,Iowa Hawkeyes,Iowa
-401264844,2021-01-13,5,194,away,FALSE,Ohio State,84,Buckeyes,Ohio State Buckeyes,Ohio State
-401264168,2021-01-13,4,2655,home,FALSE,Tulane,53,Green Wave,Tulane Green Wave,Tulane
-401264168,2021-01-13,4,58,away,FALSE,South Florida,72,Bulls,South Florida Bulls,South Florida
-401270789,2021-01-13,4,305,home,FALSE,DePaul,101,Blue Demons,DePaul Blue Demons,DePaul
-401270789,2021-01-13,4,2599,away,FALSE,St. John's,84,Red Storm,St. John's Red Storm,St John's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401264844,2021,regular-season,2021-01-13,5,2294,home,FALSE,Iowa,82,Hawkeyes,Iowa Hawkeyes,Iowa
+401264844,2021,regular-season,2021-01-13,5,194,away,FALSE,Ohio State,84,Buckeyes,Ohio State Buckeyes,Ohio State
+401264168,2021,regular-season,2021-01-13,4,2655,home,FALSE,Tulane,53,Green Wave,Tulane Green Wave,Tulane
+401264168,2021,regular-season,2021-01-13,4,58,away,FALSE,South Florida,72,Bulls,South Florida Bulls,South Florida
+401270789,2021,regular-season,2021-01-13,4,305,home,FALSE,DePaul,101,Blue Demons,DePaul Blue Demons,DePaul
+401270789,2021,regular-season,2021-01-13,4,2599,away,FALSE,St. John's,84,Red Storm,St. John's Red Storm,St John's

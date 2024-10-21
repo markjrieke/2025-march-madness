@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-234000007,2003-03-29,2,150,home,FALSE,Duke,66,Blue Devils,Duke Blue Devils,Duke
-234000007,2003-03-29,2,61,away,FALSE,Georgia,63,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-234000053,2003-03-29,2,2633,home,FALSE,Tennessee,86,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-234000053,2003-03-29,2,213,away,FALSE,Penn State,58,Lady Lions,Penn State Lady Lions,Penn State
-234000014,2003-03-29,2,2641,home,FALSE,Texas Tech,71,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-234000014,2003-03-29,2,167,away,FALSE,New Mexico,48,Lobos,New Mexico Lobos,New Mexico
-234000060,2003-03-29,2,222,home,FALSE,Villanova,53,Wildcats,Villanova Wildcats,Villanova
-234000060,2003-03-29,2,38,away,FALSE,Colorado,51,Buffaloes,Colorado Buffaloes,Colorado
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+234000007,2003,post-season,2003-03-29,2,150,home,FALSE,Duke,66,Blue Devils,Duke Blue Devils,Duke
+234000007,2003,post-season,2003-03-29,2,61,away,FALSE,Georgia,63,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+234000053,2003,post-season,2003-03-29,2,2633,home,FALSE,Tennessee,86,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+234000053,2003,post-season,2003-03-29,2,213,away,FALSE,Penn State,58,Lady Lions,Penn State Lady Lions,Penn State
+234000014,2003,post-season,2003-03-29,2,2641,home,FALSE,Texas Tech,71,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+234000014,2003,post-season,2003-03-29,2,167,away,FALSE,New Mexico,48,Lobos,New Mexico Lobos,New Mexico
+234000060,2003,post-season,2003-03-29,2,222,home,FALSE,Villanova,53,Wildcats,Villanova Wildcats,Villanova
+234000060,2003,post-season,2003-03-29,2,38,away,FALSE,Colorado,51,Buffaloes,Colorado Buffaloes,Colorado

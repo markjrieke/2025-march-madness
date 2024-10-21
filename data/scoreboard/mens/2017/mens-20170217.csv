@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400919306,2017-02-17,2,159,home,FALSE,Dartmouth,65,Big Green,Dartmouth Big Green,Dartmouth
-400919306,2017-02-17,2,172,away,FALSE,Cornell,69,Big Red,Cornell Big Red,Cornell
-400919291,2017-02-17,2,108,home,FALSE,Harvard,78,Crimson,Harvard Crimson,Harvard
-400919291,2017-02-17,2,171,away,FALSE,Columbia,72,Lions,Columbia Lions,Columbia
-400918586,2017-02-17,2,2473,home,FALSE,Oakland,82,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-400918586,2017-02-17,2,2674,away,FALSE,Valparaiso,71,Beacons,Valparaiso Beacons,Valparaiso
-400918513,2017-02-17,2,2174,home,FALSE,Detroit Mercy,69,Titans,Detroit Mercy Titans,Detroit Mercy
-400918513,2017-02-17,2,82,away,FALSE,UIC,74,Flames,UIC Flames,UIC
-400917640,2017-02-17,2,2368,home,FALSE,Marist,88,Red Foxes,Marist Red Foxes,Marist
-400917640,2017-02-17,2,314,away,FALSE,Iona,95,Gaels,Iona Gaels,Iona
-400917639,2017-02-17,2,2520,home,FALSE,Rider,77,Broncs,Rider Broncs,Rider
-400917639,2017-02-17,2,2099,away,FALSE,Canisius,85,Golden Griffins,Canisius Golden Griffins,Canisius
-400917179,2017-02-17,2,2006,home,FALSE,Akron,67,Zips,Akron Zips,Akron
-400917179,2017-02-17,2,2309,away,FALSE,Kent State,70,Golden Flashes,Kent State Golden Flashes,Kent State
-400919341,2017-02-17,2,43,home,FALSE,Yale,52,Bulldogs,Yale Bulldogs,Yale
-400919341,2017-02-17,2,163,away,FALSE,Princeton,71,Tigers,Princeton Tigers,Princeton
-400919272,2017-02-17,2,225,home,FALSE,Brown,72,Bears,Brown Bears,Brown
-400919272,2017-02-17,2,219,away,FALSE,Pennsylvania,96,Quakers,Pennsylvania Quakers,Penn
-400916088,2017-02-17,2,2032,home,FALSE,Arkansas State,67,Red Wolves,Arkansas State Red Wolves,Arkansas St
-400916088,2017-02-17,2,2031,away,FALSE,Little Rock,58,Trojans,Little Rock Trojans,Little Rock
-400918452,2017-02-17,2,257,home,FALSE,Richmond,73,Spiders,Richmond Spiders,Richmond
-400918452,2017-02-17,2,2670,away,FALSE,VCU,84,Rams,VCU Rams,VCU
-400917638,2017-02-17,3,2514,home,FALSE,Quinnipiac,86,Bobcats,Quinnipiac Bobcats,Quinnipiac
-400917638,2017-02-17,3,2217,away,FALSE,Fairfield,89,Stags,Fairfield Stags,Fairfield
-400916439,2017-02-17,2,331,home,FALSE,Eastern Washington,77,Eagles,Eastern Washington Eagles,E Washington
-400916439,2017-02-17,2,70,away,FALSE,Idaho,67,Vandals,Idaho Vandals,Idaho
-400915678,2017-02-17,2,24,home,FALSE,Stanford,73,Cardinal,Stanford Cardinal,Stanford
-400915678,2017-02-17,2,25,away,FALSE,California,68,Golden Bears,California Golden Bears,California
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400919306,2017,regular-season,2017-02-17,2,159,home,FALSE,Dartmouth,65,Big Green,Dartmouth Big Green,Dartmouth
+400919306,2017,regular-season,2017-02-17,2,172,away,FALSE,Cornell,69,Big Red,Cornell Big Red,Cornell
+400919291,2017,regular-season,2017-02-17,2,108,home,FALSE,Harvard,78,Crimson,Harvard Crimson,Harvard
+400919291,2017,regular-season,2017-02-17,2,171,away,FALSE,Columbia,72,Lions,Columbia Lions,Columbia
+400918586,2017,regular-season,2017-02-17,2,2473,home,FALSE,Oakland,82,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+400918586,2017,regular-season,2017-02-17,2,2674,away,FALSE,Valparaiso,71,Beacons,Valparaiso Beacons,Valparaiso
+400918513,2017,regular-season,2017-02-17,2,2174,home,FALSE,Detroit Mercy,69,Titans,Detroit Mercy Titans,Detroit Mercy
+400918513,2017,regular-season,2017-02-17,2,82,away,FALSE,UIC,74,Flames,UIC Flames,UIC
+400917640,2017,regular-season,2017-02-17,2,2368,home,FALSE,Marist,88,Red Foxes,Marist Red Foxes,Marist
+400917640,2017,regular-season,2017-02-17,2,314,away,FALSE,Iona,95,Gaels,Iona Gaels,Iona
+400917639,2017,regular-season,2017-02-17,2,2520,home,FALSE,Rider,77,Broncs,Rider Broncs,Rider
+400917639,2017,regular-season,2017-02-17,2,2099,away,FALSE,Canisius,85,Golden Griffins,Canisius Golden Griffins,Canisius
+400917179,2017,regular-season,2017-02-17,2,2006,home,FALSE,Akron,67,Zips,Akron Zips,Akron
+400917179,2017,regular-season,2017-02-17,2,2309,away,FALSE,Kent State,70,Golden Flashes,Kent State Golden Flashes,Kent State
+400919341,2017,regular-season,2017-02-17,2,43,home,FALSE,Yale,52,Bulldogs,Yale Bulldogs,Yale
+400919341,2017,regular-season,2017-02-17,2,163,away,FALSE,Princeton,71,Tigers,Princeton Tigers,Princeton
+400919272,2017,regular-season,2017-02-17,2,225,home,FALSE,Brown,72,Bears,Brown Bears,Brown
+400919272,2017,regular-season,2017-02-17,2,219,away,FALSE,Pennsylvania,96,Quakers,Pennsylvania Quakers,Penn
+400916088,2017,regular-season,2017-02-17,2,2032,home,FALSE,Arkansas State,67,Red Wolves,Arkansas State Red Wolves,Arkansas St
+400916088,2017,regular-season,2017-02-17,2,2031,away,FALSE,Little Rock,58,Trojans,Little Rock Trojans,Little Rock
+400918452,2017,regular-season,2017-02-17,2,257,home,FALSE,Richmond,73,Spiders,Richmond Spiders,Richmond
+400918452,2017,regular-season,2017-02-17,2,2670,away,FALSE,VCU,84,Rams,VCU Rams,VCU
+400917638,2017,regular-season,2017-02-17,3,2514,home,FALSE,Quinnipiac,86,Bobcats,Quinnipiac Bobcats,Quinnipiac
+400917638,2017,regular-season,2017-02-17,3,2217,away,FALSE,Fairfield,89,Stags,Fairfield Stags,Fairfield
+400916439,2017,regular-season,2017-02-17,2,331,home,FALSE,Eastern Washington,77,Eagles,Eastern Washington Eagles,E Washington
+400916439,2017,regular-season,2017-02-17,2,70,away,FALSE,Idaho,67,Vandals,Idaho Vandals,Idaho
+400915678,2017,regular-season,2017-02-17,2,24,home,FALSE,Stanford,73,Cardinal,Stanford Cardinal,Stanford
+400915678,2017,regular-season,2017-02-17,2,25,away,FALSE,California,68,Golden Bears,California Golden Bears,California

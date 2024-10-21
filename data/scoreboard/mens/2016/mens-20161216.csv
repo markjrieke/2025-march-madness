@@ -1,39 +1,39 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400920447,2016-12-16,2,47,home,FALSE,Howard,77,Bison,Howard Bison,Howard
-400920447,2016-12-16,2,2828,away,FALSE,Shenandoah,66,Hornets,Shenandoah Hornets,Shenandoah
-400924203,2016-12-16,2,2335,home,FALSE,Liberty,81,Flames,Liberty Flames,Liberty
-400924203,2016-12-16,2,109636,away,FALSE,Clarks Summit,33,Defenders,Clarks Summit Defenders,Clarks Summit
-400922273,2016-12-16,2,2729,home,FALSE,William & Mary,113,Tribe,William & Mary Tribe,William & Mary
-400922273,2016-12-16,2,2397,away,FALSE,Milligan,59,Buffaloes,Milligan Buffaloes,Milligan
-400917536,2016-12-16,2,2520,home,FALSE,Rider,90,Broncs,Rider Broncs,Rider
-400917536,2016-12-16,2,2182,away,FALSE,Drexel,82,Dragons,Drexel Dragons,Drexel
-400916890,2016-12-16,2,231,home,FALSE,Furman,67,Paladins,Furman Paladins,Furman
-400916890,2016-12-16,2,2569,away,FALSE,South Carolina State,69,Bulldogs,South Carolina State Bulldogs,SC State
-400916734,2016-12-16,2,2272,home,FALSE,High Point,79,Panthers,High Point Panthers,High Point
-400916734,2016-12-16,2,286,away,FALSE,NC Wesleyan,61,Battling Bishops,NC Wesleyan Battling Bishops,NC Weslyn
-400916733,2016-12-16,2,2241,home,FALSE,Gardner-Webb,95,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-400916733,2016-12-16,2,2684,away,FALSE,Warren Wilson,45,Owls,Warren Wilson Owls,Warren Wil
-400915310,2016-12-16,2,2390,home,FALSE,Miami,76,Hurricanes,Miami Hurricanes,Miami
-400915310,2016-12-16,2,2226,away,FALSE,Florida Atlantic,56,Owls,Florida Atlantic Owls,FAU
-400918023,2016-12-16,2,292,home,FALSE,UT Rio Grande Valley,95,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-400918023,2016-12-16,2,2320,away,FALSE,Lamar,81,Cardinals,Lamar Cardinals,Lamar
-400915988,2016-12-16,2,71,home,FALSE,Bradley,51,Braves,Bradley Braves,Bradley
-400915988,2016-12-16,2,250,away,FALSE,UT Arlington,56,Mavericks,UT Arlington Mavericks,UT Arlington
-400915987,2016-12-16,2,2110,home,FALSE,Central Arkansas,77,Bears,Central Arkansas Bears,C Arkansas
-400915987,2016-12-16,2,2032,away,FALSE,Arkansas State,89,Red Wolves,Arkansas State Red Wolves,Arkansas St
-400916340,2016-12-16,2,304,home,FALSE,Idaho State,76,Bengals,Idaho State Bengals,Idaho St
-400916340,2016-12-16,2,148,away,FALSE,Montana Tech,46,Orediggers,Montana Tech Orediggers,Mont Tech
-400915989,2016-12-16,2,6,home,FALSE,South Alabama,79,Jaguars,South Alabama Jaguars,South Alabama
-400915989,2016-12-16,2,2535,away,FALSE,Samford,82,Bulldogs,Samford Bulldogs,Samford
-400915781,2016-12-16,2,2501,home,FALSE,Portland,85,Pilots,Portland Pilots,Portland
-400915781,2016-12-16,2,233,away,FALSE,South Dakota,82,Coyotes,South Dakota Coyotes,South Dakota
-400916339,2016-12-16,2,155,home,FALSE,North Dakota,70,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
-400916339,2016-12-16,2,2449,away,FALSE,North Dakota State,87,Bison,North Dakota State Bison,N Dakota St
-400915569,2016-12-16,2,24,home,FALSE,Stanford,79,Cardinal,Stanford Cardinal,Stanford
-400915569,2016-12-16,2,2093,away,FALSE,Cal State East Bay,55,Pioneers,Cal State East Bay Pioneers,Cal East Bay
-400918907,2016-12-16,2,2463,home,FALSE,Cal State Northridge,95,Matadors,Cal State Northridge Matadors,CSU Northridge
-400918907,2016-12-16,2,3246,away,FALSE,Bethesda University,100,Flames,Bethesda University Flames,Bethesda
-400915782,2016-12-16,2,2539,home,FALSE,San Francisco,78,Dons,San Francisco Dons,San Francisco
-400915782,2016-12-16,2,2502,away,FALSE,Portland State,82,Vikings,Portland State Vikings,Portland St
-400915570,2016-12-16,2,204,home,FALSE,Oregon State,67,Beavers,Oregon State Beavers,Oregon St
-400915570,2016-12-16,2,299,away,FALSE,Long Beach State,71,Beach,Long Beach State Beach,Long Beach St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400920447,2017,regular-season,2016-12-16,2,47,home,FALSE,Howard,77,Bison,Howard Bison,Howard
+400920447,2017,regular-season,2016-12-16,2,2828,away,FALSE,Shenandoah,66,Hornets,Shenandoah Hornets,Shenandoah
+400924203,2017,regular-season,2016-12-16,2,2335,home,FALSE,Liberty,81,Flames,Liberty Flames,Liberty
+400924203,2017,regular-season,2016-12-16,2,109636,away,FALSE,Clarks Summit,33,Defenders,Clarks Summit Defenders,Clarks Summit
+400922273,2017,regular-season,2016-12-16,2,2729,home,FALSE,William & Mary,113,Tribe,William & Mary Tribe,William & Mary
+400922273,2017,regular-season,2016-12-16,2,2397,away,FALSE,Milligan,59,Buffaloes,Milligan Buffaloes,Milligan
+400917536,2017,regular-season,2016-12-16,2,2520,home,FALSE,Rider,90,Broncs,Rider Broncs,Rider
+400917536,2017,regular-season,2016-12-16,2,2182,away,FALSE,Drexel,82,Dragons,Drexel Dragons,Drexel
+400916890,2017,regular-season,2016-12-16,2,231,home,FALSE,Furman,67,Paladins,Furman Paladins,Furman
+400916890,2017,regular-season,2016-12-16,2,2569,away,FALSE,South Carolina State,69,Bulldogs,South Carolina State Bulldogs,SC State
+400916734,2017,regular-season,2016-12-16,2,2272,home,FALSE,High Point,79,Panthers,High Point Panthers,High Point
+400916734,2017,regular-season,2016-12-16,2,286,away,FALSE,NC Wesleyan,61,Battling Bishops,NC Wesleyan Battling Bishops,NC Weslyn
+400916733,2017,regular-season,2016-12-16,2,2241,home,FALSE,Gardner-Webb,95,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+400916733,2017,regular-season,2016-12-16,2,2684,away,FALSE,Warren Wilson,45,Owls,Warren Wilson Owls,Warren Wil
+400915310,2017,regular-season,2016-12-16,2,2390,home,FALSE,Miami,76,Hurricanes,Miami Hurricanes,Miami
+400915310,2017,regular-season,2016-12-16,2,2226,away,FALSE,Florida Atlantic,56,Owls,Florida Atlantic Owls,FAU
+400918023,2017,regular-season,2016-12-16,2,292,home,FALSE,UT Rio Grande Valley,95,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+400918023,2017,regular-season,2016-12-16,2,2320,away,FALSE,Lamar,81,Cardinals,Lamar Cardinals,Lamar
+400915988,2017,regular-season,2016-12-16,2,71,home,FALSE,Bradley,51,Braves,Bradley Braves,Bradley
+400915988,2017,regular-season,2016-12-16,2,250,away,FALSE,UT Arlington,56,Mavericks,UT Arlington Mavericks,UT Arlington
+400915987,2017,regular-season,2016-12-16,2,2110,home,FALSE,Central Arkansas,77,Bears,Central Arkansas Bears,C Arkansas
+400915987,2017,regular-season,2016-12-16,2,2032,away,FALSE,Arkansas State,89,Red Wolves,Arkansas State Red Wolves,Arkansas St
+400916340,2017,regular-season,2016-12-16,2,304,home,FALSE,Idaho State,76,Bengals,Idaho State Bengals,Idaho St
+400916340,2017,regular-season,2016-12-16,2,148,away,FALSE,Montana Tech,46,Orediggers,Montana Tech Orediggers,Mont Tech
+400915989,2017,regular-season,2016-12-16,2,6,home,FALSE,South Alabama,79,Jaguars,South Alabama Jaguars,South Alabama
+400915989,2017,regular-season,2016-12-16,2,2535,away,FALSE,Samford,82,Bulldogs,Samford Bulldogs,Samford
+400915781,2017,regular-season,2016-12-16,2,2501,home,FALSE,Portland,85,Pilots,Portland Pilots,Portland
+400915781,2017,regular-season,2016-12-16,2,233,away,FALSE,South Dakota,82,Coyotes,South Dakota Coyotes,South Dakota
+400916339,2017,regular-season,2016-12-16,2,155,home,FALSE,North Dakota,70,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
+400916339,2017,regular-season,2016-12-16,2,2449,away,FALSE,North Dakota State,87,Bison,North Dakota State Bison,N Dakota St
+400915569,2017,regular-season,2016-12-16,2,24,home,FALSE,Stanford,79,Cardinal,Stanford Cardinal,Stanford
+400915569,2017,regular-season,2016-12-16,2,2093,away,FALSE,Cal State East Bay,55,Pioneers,Cal State East Bay Pioneers,Cal East Bay
+400918907,2017,regular-season,2016-12-16,2,2463,home,FALSE,Cal State Northridge,95,Matadors,Cal State Northridge Matadors,CSU Northridge
+400918907,2017,regular-season,2016-12-16,2,3246,away,FALSE,Bethesda University,100,Flames,Bethesda University Flames,Bethesda
+400915782,2017,regular-season,2016-12-16,2,2539,home,FALSE,San Francisco,78,Dons,San Francisco Dons,San Francisco
+400915782,2017,regular-season,2016-12-16,2,2502,away,FALSE,Portland State,82,Vikings,Portland State Vikings,Portland St
+400915570,2017,regular-season,2016-12-16,2,204,home,FALSE,Oregon State,67,Beavers,Oregon State Beavers,Oregon St
+400915570,2017,regular-season,2016-12-16,2,299,away,FALSE,Long Beach State,71,Beach,Long Beach State Beach,Long Beach St

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400994948,2017-11-26,4,52,home,FALSE,Florida State,87,Seminoles,Florida State Seminoles,Florida St
-400994948,2017-11-26,4,2535,away,FALSE,Samford,62,Bulldogs,Samford Bulldogs,Samford
-400994950,2017-11-26,4,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
-400994950,2017-11-26,4,2506,away,FALSE,Presbyterian,45,Blue Hose,Presbyterian Blue Hose,Presbyterian
-400987886,2017-11-26,4,2641,home,FALSE,Texas Tech,56,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-400987886,2017-11-26,4,245,away,FALSE,Texas A&M,90,Aggies,Texas A&M Aggies,Texas A&M
-400987738,2017-11-26,4,96,home,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
-400987738,2017-11-26,4,276,away,FALSE,Marshall,39,Thundering Herd,Marshall Thundering Herd,Marshall
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400994948,2018,regular-season,2017-11-26,4,52,home,FALSE,Florida State,87,Seminoles,Florida State Seminoles,Florida St
+400994948,2018,regular-season,2017-11-26,4,2535,away,FALSE,Samford,62,Bulldogs,Samford Bulldogs,Samford
+400994950,2018,regular-season,2017-11-26,4,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
+400994950,2018,regular-season,2017-11-26,4,2506,away,FALSE,Presbyterian,45,Blue Hose,Presbyterian Blue Hose,Presbyterian
+400987886,2018,regular-season,2017-11-26,4,2641,home,FALSE,Texas Tech,56,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+400987886,2018,regular-season,2017-11-26,4,245,away,FALSE,Texas A&M,90,Aggies,Texas A&M Aggies,Texas A&M
+400987738,2018,regular-season,2017-11-26,4,96,home,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
+400987738,2018,regular-season,2017-11-26,4,276,away,FALSE,Marshall,39,Thundering Herd,Marshall Thundering Herd,Marshall

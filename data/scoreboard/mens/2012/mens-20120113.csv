@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320132287,2012-01-13,2,2287,home,FALSE,Illinois State,78,Redbirds,Illinois State Redbirds,Illinois St
-320132287,2012-01-13,2,156,away,FALSE,Creighton,87,Bluejays,Creighton Bluejays,Creighton
-320130058,2012-01-13,2,58,home,FALSE,South Florida,56,Bulls,South Florida Bulls,South Florida
-320130058,2012-01-13,2,2550,away,FALSE,Seton Hall,55,Pirates,Seton Hall Pirates,Seton Hall
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320132287,2012,regular-season,2012-01-13,2,2287,home,FALSE,Illinois State,78,Redbirds,Illinois State Redbirds,Illinois St
+320132287,2012,regular-season,2012-01-13,2,156,away,FALSE,Creighton,87,Bluejays,Creighton Bluejays,Creighton
+320130058,2012,regular-season,2012-01-13,2,58,home,FALSE,South Florida,56,Bulls,South Florida Bulls,South Florida
+320130058,2012,regular-season,2012-01-13,2,2550,away,FALSE,Seton Hall,55,Pirates,Seton Hall Pirates,Seton Hall

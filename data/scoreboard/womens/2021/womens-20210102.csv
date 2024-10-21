@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401274396,2021-01-02,4,97,home,FALSE,Louisville,97,Cardinals,Louisville Cardinals,Louisville
-401274396,2021-01-02,4,91,away,FALSE,Bellarmine,46,Knights,Bellarmine Knights,Bellarmine
-401254125,2021-01-02,4,2628,home,FALSE,TCU,50,Horned Frogs,TCU Horned Frogs,TCU
-401254125,2021-01-02,4,239,away,FALSE,Baylor,74,Bears,Baylor Bears,Baylor
-401264150,2021-01-02,4,58,home,FALSE,South Florida,71,Bulls,South Florida Bulls,South Florida
-401264150,2021-01-02,4,151,away,FALSE,East Carolina,58,Pirates,East Carolina Pirates,East Carolina
-401254464,2021-01-02,4,2250,home,FALSE,Gonzaga,69,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401254464,2021-01-02,4,2608,away,FALSE,Saint Mary's,37,Gaels,Saint Mary's Gaels,Saint Mary's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401274396,2021,regular-season,2021-01-02,4,97,home,FALSE,Louisville,97,Cardinals,Louisville Cardinals,Louisville
+401274396,2021,regular-season,2021-01-02,4,91,away,FALSE,Bellarmine,46,Knights,Bellarmine Knights,Bellarmine
+401254125,2021,regular-season,2021-01-02,4,2628,home,FALSE,TCU,50,Horned Frogs,TCU Horned Frogs,TCU
+401254125,2021,regular-season,2021-01-02,4,239,away,FALSE,Baylor,74,Bears,Baylor Bears,Baylor
+401264150,2021,regular-season,2021-01-02,4,58,home,FALSE,South Florida,71,Bulls,South Florida Bulls,South Florida
+401264150,2021,regular-season,2021-01-02,4,151,away,FALSE,East Carolina,58,Pirates,East Carolina Pirates,East Carolina
+401254464,2021,regular-season,2021-01-02,4,2250,home,FALSE,Gonzaga,69,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401254464,2021,regular-season,2021-01-02,4,2608,away,FALSE,Saint Mary's,37,Gaels,Saint Mary's Gaels,Saint Mary's

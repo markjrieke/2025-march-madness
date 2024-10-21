@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313150251,2011-11-11,2,251,home,FALSE,Texas,59,Longhorns,Texas Longhorns,Texas
-313150251,2011-11-11,2,24,away,FALSE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
-313152390,2011-11-11,2,2390,home,FALSE,Miami,83,Hurricanes,Miami Hurricanes,Miami
-313152390,2011-11-11,2,292,away,FALSE,UT Rio Grande Valley,37,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-313150252,2011-11-11,2,252,home,FALSE,BYU,55,Cougars,BYU Cougars,BYU
-313150252,2011-11-11,2,150,away,FALSE,Duke,61,Blue Devils,Duke Blue Devils,Duke
-313150120,2011-11-11,2,120,home,FALSE,Maryland,84,Terrapins,Maryland Terrapins,Maryland
-313150120,2011-11-11,2,2352,away,FALSE,Loyola Maryland,46,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-313150213,2011-11-11,2,213,home,FALSE,Penn State,72,Lady Lions,Penn State Lady Lions,Penn State
-313150213,2011-11-11,2,265,away,FALSE,Washington State,60,Cougars,Washington State Cougars,Washington St
-313150061,2011-11-11,2,61,home,FALSE,Georgia,83,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-313150061,2011-11-11,2,2628,away,FALSE,TCU,60,Horned Frogs,TCU Horned Frogs,TCU
-313150046,2011-11-11,2,46,home,FALSE,Georgetown,56,Hoyas,Georgetown Hoyas,Georgetown
-313150046,2011-11-11,2,2344,away,FALSE,Longwood,45,Lancers,Longwood Lancers,Longwood
-313152413,2011-11-11,2,2413,home,FALSE,Morehead State,60,Eagles,Morehead State Eagles,Morehead St
-313152413,2011-11-11,2,96,away,FALSE,Kentucky,96,Wildcats,Kentucky Wildcats,Kentucky
-313150030,2011-11-11,2,30,home,FALSE,USC,65,Trojans,USC Trojans,USC
-313150030,2011-11-11,2,278,away,FALSE,Fresno State,57,Bulldogs,Fresno State Bulldogs,Fresno St
-313152641,2011-11-11,2,2641,home,FALSE,Texas Tech,69,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-313152641,2011-11-11,2,167,away,FALSE,New Mexico,43,Lobos,New Mexico Lobos,New Mexico
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313150251,2012,regular-season,2011-11-11,2,251,home,FALSE,Texas,59,Longhorns,Texas Longhorns,Texas
+313150251,2012,regular-season,2011-11-11,2,24,away,FALSE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
+313152390,2012,regular-season,2011-11-11,2,2390,home,FALSE,Miami,83,Hurricanes,Miami Hurricanes,Miami
+313152390,2012,regular-season,2011-11-11,2,292,away,FALSE,UT Rio Grande Valley,37,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+313150252,2012,regular-season,2011-11-11,2,252,home,FALSE,BYU,55,Cougars,BYU Cougars,BYU
+313150252,2012,regular-season,2011-11-11,2,150,away,FALSE,Duke,61,Blue Devils,Duke Blue Devils,Duke
+313150120,2012,regular-season,2011-11-11,2,120,home,FALSE,Maryland,84,Terrapins,Maryland Terrapins,Maryland
+313150120,2012,regular-season,2011-11-11,2,2352,away,FALSE,Loyola Maryland,46,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+313150213,2012,regular-season,2011-11-11,2,213,home,FALSE,Penn State,72,Lady Lions,Penn State Lady Lions,Penn State
+313150213,2012,regular-season,2011-11-11,2,265,away,FALSE,Washington State,60,Cougars,Washington State Cougars,Washington St
+313150061,2012,regular-season,2011-11-11,2,61,home,FALSE,Georgia,83,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+313150061,2012,regular-season,2011-11-11,2,2628,away,FALSE,TCU,60,Horned Frogs,TCU Horned Frogs,TCU
+313150046,2012,regular-season,2011-11-11,2,46,home,FALSE,Georgetown,56,Hoyas,Georgetown Hoyas,Georgetown
+313150046,2012,regular-season,2011-11-11,2,2344,away,FALSE,Longwood,45,Lancers,Longwood Lancers,Longwood
+313152413,2012,regular-season,2011-11-11,2,2413,home,FALSE,Morehead State,60,Eagles,Morehead State Eagles,Morehead St
+313152413,2012,regular-season,2011-11-11,2,96,away,FALSE,Kentucky,96,Wildcats,Kentucky Wildcats,Kentucky
+313150030,2012,regular-season,2011-11-11,2,30,home,FALSE,USC,65,Trojans,USC Trojans,USC
+313150030,2012,regular-season,2011-11-11,2,278,away,FALSE,Fresno State,57,Bulldogs,Fresno State Bulldogs,Fresno St
+313152641,2012,regular-season,2011-11-11,2,2641,home,FALSE,Texas Tech,69,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+313152641,2012,regular-season,2011-11-11,2,167,away,FALSE,New Mexico,43,Lobos,New Mexico Lobos,New Mexico

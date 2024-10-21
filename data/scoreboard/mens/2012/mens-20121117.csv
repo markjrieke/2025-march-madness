@@ -1,143 +1,143 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323222352,2012-11-17,2,2352,home,TRUE,Loyola Maryland,63,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-323222352,2012-11-17,2,2450,away,TRUE,Norfolk State,49,Spartans,Norfolk State Spartans,Norfolk St
-323222803,2012-11-17,2,2803,home,FALSE,Bryant,76,Bulldogs,Bryant Bulldogs,Bryant
-323222803,2012-11-17,2,160,away,FALSE,New Hampshire,64,Wildcats,New Hampshire Wildcats,New Hampshire
-323220104,2012-11-17,2,104,home,FALSE,Boston University,59,Terriers,Boston University Terriers,Boston U
-323220104,2012-11-17,2,45,away,FALSE,George Washington,72,Revolutionaries,George Washington Revolutionaries,G Washington
-323220282,2012-11-17,2,282,home,FALSE,Indiana State,70,Sycamores,Indiana State Sycamores,Indiana St
-323220282,2012-11-17,2,2654,away,FALSE,Truman State,57,Bulldogs,Truman State Bulldogs,Truman St
-323222752,2012-11-17,2,2752,home,FALSE,Xavier,61,Musketeers,Xavier Musketeers,Xavier
-323222752,2012-11-17,2,2523,away,FALSE,Robert Morris,59,Colonials,Robert Morris Colonials,Robert Morris
-323222737,2012-11-17,2,2737,home,FALSE,Winthrop,54,Eagles,Winthrop Eagles,Winthrop
-323222737,2012-11-17,2,2670,away,FALSE,VCU,90,Rams,VCU Rams,VCU
-323222460,2012-11-17,2,2460,home,FALSE,Northern Iowa,72,Panthers,Northern Iowa Panthers,Northern Iowa
-323222460,2012-11-17,2,155,away,FALSE,North Dakota,47,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
-323222229,2012-11-17,2,2229,home,FALSE,Florida International,60,Panthers,Florida International Panthers,FIU
-323222229,2012-11-17,2,2617,away,FALSE,Stephen F. Austin,69,Lumberjacks,Stephen F. Austin Lumberjacks,SF Austin
-323222210,2012-11-17,1,2210,home,FALSE,Elon,41,Phoenix,Elon Phoenix,Elon
-323222210,2012-11-17,1,2142,away,FALSE,Colgate,35,Raiders,Colgate Raiders,Colgate
-323220325,2012-11-17,2,325,home,FALSE,Cleveland State,67,Vikings,Cleveland State Vikings,Cleveland St
-323220325,2012-11-17,2,295,away,FALSE,Old Dominion,55,Monarchs,Old Dominion Monarchs,Old Dominion
-323220305,2012-11-17,2,305,home,FALSE,DePaul,98,Blue Demons,DePaul Blue Demons,DePaul
-323220305,2012-11-17,2,2046,away,FALSE,Austin Peay,67,Governors,Austin Peay Governors,Austin Peay
-323222623,2012-11-17,2,2623,home,FALSE,Missouri State,44,Bears,Missouri State Bears,Missouri St
-323222623,2012-11-17,2,21,away,FALSE,San Diego State,60,Aztecs,San Diego State Aztecs,San Diego St
-323220399,2012-11-17,0,399,home,TRUE,UAlbany,0,Great Danes,UAlbany Great Danes,UAlbany
-323220399,2012-11-17,0,140,away,TRUE,Kansas City,0,Roos,Kansas City Roos,Kansas City
-323220276,2012-11-17,2,276,home,TRUE,Marshall,77,Thundering Herd,Marshall Thundering Herd,Marshall
-323220276,2012-11-17,2,2571,away,TRUE,South Dakota State,78,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-323220082,2012-11-17,2,82,home,TRUE,UIC,62,Flames,UIC Flames,UIC
-323220082,2012-11-17,2,2382,away,TRUE,Mercer,36,Bears,Mercer Bears,Mercer
-323222724,2012-11-17,2,2724,home,FALSE,Wichita State,69,Shockers,Wichita State Shockers,Wichita St
-323222724,2012-11-17,2,47,away,FALSE,Howard,50,Bison,Howard Bison,Howard
-323222636,2012-11-17,2,2636,home,FALSE,UTSA,67,Roadrunners,UTSA Roadrunners,UTSA
-323222636,2012-11-17,2,2908,away,FALSE,South Carolina Upstate,59,Spartans,South Carolina Upstate Spartans,SC Upstate
-323222520,2012-11-17,2,2520,home,FALSE,Rider,65,Broncs,Rider Broncs,Rider
-323222520,2012-11-17,2,2405,away,FALSE,Monmouth,62,Hawks,Monmouth Hawks,Monmouth
-323222466,2012-11-17,2,2466,home,FALSE,Northwestern State,92,Demons,Northwestern State Demons,N'Western St
-323222466,2012-11-17,2,533,away,FALSE,Hannibal-Lagrange,43,Trojans,Hannibal-Lagrange Trojans,Hannibal
-323222193,2012-11-17,2,2193,home,FALSE,East Tennessee State,62,Buccaneers,East Tennessee State Buccaneers,ETSU
-323222193,2012-11-17,2,2635,away,FALSE,Tennessee Tech,65,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
-323222099,2012-11-17,2,2099,home,FALSE,Canisius,72,Golden Griffins,Canisius Golden Griffins,Canisius
-323222099,2012-11-17,2,179,away,FALSE,St. Bonaventure,69,Bonnies,St. Bonaventure Bonnies,St Bonaventure
-323220258,2012-11-17,2,258,home,FALSE,Virginia,83,Cavaliers,Virginia Cavaliers,Virginia
-323220258,2012-11-17,2,2547,away,FALSE,Seattle U,43,Redhawks,Seattle U Redhawks,Seattle U
-323220219,2012-11-17,2,219,home,FALSE,Pennsylvania,59,Quakers,Pennsylvania Quakers,Penn
-323220219,2012-11-17,2,2182,away,FALSE,Drexel,61,Dragons,Drexel Dragons,Drexel
-323220027,2012-11-17,2,27,home,FALSE,UC Riverside,89,Highlanders,UC Riverside Highlanders,UC Riverside
-323220027,2012-11-17,2,2720,away,FALSE,Whitman,76,Missionaries,Whitman Missionaries,Whitman
-400418739,2012-11-17,2,2197,home,TRUE,Eastern Illinois,63,Panthers,Eastern Illinois Panthers,E Illinois
-400418739,2012-11-17,2,292,away,TRUE,UT Rio Grande Valley,50,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-323222226,2012-11-17,0,2226,home,TRUE,Florida Atlantic,0,Owls,Florida Atlantic Owls,FAU
-323222226,2012-11-17,0,2154,away,TRUE,Coppin State,0,Eagles,Coppin State Eagles,Coppin St
-323220292,2012-11-17,2,2197,home,TRUE,Eastern Illinois,63,Panthers,Eastern Illinois Panthers,E Illinois
-323220292,2012-11-17,2,292,away,TRUE,UT Rio Grande Valley,50,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-323222711,2012-11-17,2,2711,home,TRUE,Western Michigan,36,Broncos,Western Michigan Broncos,W Michigan
-323222711,2012-11-17,2,2379,away,TRUE,Maryland Eastern Shore,28,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-323222275,2012-11-17,2,2275,home,FALSE,Hofstra,74,Pride,Hofstra Pride,Hofstra
-323222275,2012-11-17,2,2177,away,FALSE,District Of Columbia,59,Dist. Of Columbia,District Of Columbia Dist. Of Columbia,U of DC
-323220314,2012-11-17,2,314,home,TRUE,Iona,94,Gaels,Iona Gaels,Iona
-323220314,2012-11-17,2,154,away,TRUE,Wake Forest,68,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-323220227,2012-11-17,2,227,home,TRUE,Rhode Island,58,Rams,Rhode Island Rams,Rhode Island
-323220227,2012-11-17,2,194,away,TRUE,Ohio State,69,Buckeyes,Ohio State Buckeyes,Ohio State
-323223084,2012-11-17,2,3084,home,FALSE,Utah Valley,96,Wolverines,Utah Valley Wolverines,Utah Valley
-323223084,2012-11-17,2,3188,away,FALSE,Phoenix,70,Firestorm,Phoenix Firestorm,AZ Chrstn
-323220166,2012-11-17,2,166,home,TRUE,New Mexico State,49,Aggies,New Mexico State Aggies,New Mexico St
-323220166,2012-11-17,2,2083,away,TRUE,Bucknell,62,Bison,Bucknell Bison,Bucknell
-323222449,2012-11-17,2,2449,home,FALSE,North Dakota State,73,Bison,North Dakota State Bison,N Dakota St
-323222449,2012-11-17,2,561,away,FALSE,Mayville State,40,Comets,Mayville State Comets,Mayvlle St
-323222198,2012-11-17,3,2198,home,FALSE,Eastern Kentucky,71,Colonels,Eastern Kentucky Colonels,E Kentucky
-323222198,2012-11-17,3,119,away,FALSE,Towson,69,Tigers,Towson Tigers,Towson
-323220043,2012-11-17,0,43,home,TRUE,Yale,0,Bulldogs,Yale Bulldogs,Yale
-323220043,2012-11-17,0,2084,away,TRUE,Buffalo,0,Bulls,Buffalo Bulls,Buffalo
-323222272,2012-11-17,2,2272,home,FALSE,High Point,61,Panthers,High Point Panthers,High Point
-323222272,2012-11-17,2,2729,away,FALSE,William & Mary,83,Tribe,William & Mary Tribe,William & Mary
-323222199,2012-11-17,2,2199,home,FALSE,Eastern Michigan,60,Eagles,Eastern Michigan Eagles,E Michigan
-323222199,2012-11-17,2,2870,away,FALSE,Purdue Fort Wayne,47,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-323222174,2012-11-17,2,2174,home,FALSE,Detroit Mercy,85,Titans,Detroit Mercy Titans,Detroit Mercy
-323222174,2012-11-17,2,2181,away,FALSE,Drake,79,Bulldogs,Drake Bulldogs,Drake
-323220311,2012-11-17,2,311,home,FALSE,Maine,68,Black Bears,Maine Black Bears,Maine
-323220311,2012-11-17,2,225,away,FALSE,Brown,70,Bears,Brown Bears,Brown
-323220221,2012-11-17,3,221,home,FALSE,Pittsburgh,72,Panthers,Pittsburgh Panthers,Pitt
-323220221,2012-11-17,3,2473,away,FALSE,Oakland,62,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-323220171,2012-11-17,2,171,home,FALSE,Columbia,62,Lions,Columbia Lions,Columbia
-323220171,2012-11-17,2,2368,away,FALSE,Marist,67,Red Foxes,Marist Red Foxes,Marist
-323220111,2012-11-17,2,111,home,FALSE,Northeastern,55,Huskies,Northeastern Huskies,Northeastern
-323220111,2012-11-17,2,261,away,FALSE,Vermont,66,Catamounts,Vermont Catamounts,Vermont
-323220087,2012-11-17,2,87,home,TRUE,Notre Dame,78,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-323220087,2012-11-17,2,252,away,TRUE,BYU,68,Cougars,BYU Cougars,BYU
-323220085,2012-11-17,2,85,home,FALSE,IU Indianapolis,72,Jaguars,IU Indianapolis Jaguars,IU Indy
-323220085,2012-11-17,2,71,away,FALSE,Bradley,79,Braves,Bradley Braves,Bradley
-323222643,2012-11-17,2,2643,home,FALSE,The Citadel,92,Bulldogs,The Citadel Bulldogs,The Citadel
-323222643,2012-11-17,2,2841,away,FALSE,Union (KY),50,Bulldogs,Union (KY) Bulldogs,Union KY
-323222550,2012-11-17,3,2550,home,TRUE,Seton Hall,73,Pirates,Seton Hall Pirates,Seton Hall
-323222550,2012-11-17,3,264,away,TRUE,Washington,84,Huskies,Washington Huskies,Washington
-323222429,2012-11-17,2,2429,home,FALSE,Charlotte,70,49ers,Charlotte 49ers,Charlotte
-323222429,2012-11-17,2,2320,away,FALSE,Lamar,49,Cardinals,Lamar Cardinals,Lamar
-323220058,2012-11-17,2,58,home,FALSE,South Florida,68,Bulls,South Florida Bulls,South Florida
-323220058,2012-11-17,2,2350,away,FALSE,Loyola Chicago,50,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-400407900,2012-11-17,2,2463,home,TRUE,Cal State Northridge,92,Matadors,Cal State Northridge Matadors,CSU Northridge
-400407900,2012-11-17,2,202,away,TRUE,Tulsa,76,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-323222294,2012-11-17,2,2294,home,FALSE,Iowa,65,Hawkeyes,Iowa Hawkeyes,Iowa
-323222294,2012-11-17,2,2241,away,FALSE,Gardner-Webb,56,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-323220326,2012-11-17,2,326,home,FALSE,Texas State,75,Bobcats,Texas State Bobcats,Texas St
-323220326,2012-11-17,2,2567,away,FALSE,SMU,78,Mustangs,SMU Mustangs,SMU
-323220270,2012-11-17,2,270,home,FALSE,Milwaukee,73,Panthers,Milwaukee Panthers,Milwaukee
-323220270,2012-11-17,2,2166,away,FALSE,Davidson,68,Wildcats,Davidson Wildcats,Davidson
-323220248,2012-11-17,2,248,home,FALSE,Houston,87,Cougars,Houston Cougars,Houston
-323220248,2012-11-17,2,2755,away,FALSE,Grambling,47,Tigers,Grambling Tigers,Grambling
-323220235,2012-11-17,2,235,home,FALSE,Memphis,65,Tigers,Memphis Tigers,Memphis
-323220235,2012-11-17,2,2535,away,FALSE,Samford,54,Bulldogs,Samford Bulldogs,Samford
-323220218,2012-11-17,2,218,home,FALSE,Temple,77,Owls,Temple Owls,Temple
-323220218,2012-11-17,2,242,away,FALSE,Rice,63,Owls,Rice Owls,Rice
-323220202,2012-11-17,2,2463,home,TRUE,Cal State Northridge,92,Matadors,Cal State Northridge Matadors,CSU Northridge
-323220202,2012-11-17,2,202,away,TRUE,Tulsa,76,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-323222277,2012-11-17,2,2277,home,FALSE,Houston Christian,82,Huskies,Houston Christian Huskies,Hou Christian
-323222277,2012-11-17,2,2937,away,FALSE,Dallas Christian,73,Crusaders,Dallas Christian Crusaders,Dall Christian
-323220079,2012-11-17,2,79,home,FALSE,Southern Illinois,100,Salukis,Southern Illinois Salukis,S Illinois
-323220079,2012-11-17,2,2283,away,FALSE,Benedictine College (KS),62,Ravens,Benedictine College (KS) Ravens,Benedictine KS
-323220098,2012-11-17,2,98,home,FALSE,Western Kentucky,92,Hilltoppers,Western Kentucky Hilltoppers,Western KY
-323220098,2012-11-17,2,2717,away,FALSE,Western Carolina,81,Catamounts,Western Carolina Catamounts,W Carolina
-323220339,2012-11-17,0,339,home,FALSE,Evansville,0,Purple Aces,Evansville Purple Aces,Evansville
-323220339,2012-11-17,0,2710,away,FALSE,Western Illinois,0,Leathernecks,Western Illinois Leathernecks,W Illinois
-323222515,2012-11-17,2,2515,home,TRUE,Radford,67,Highlanders,Radford Highlanders,Radford
-323222515,2012-11-17,2,338,away,TRUE,Kennesaw State,58,Owls,Kennesaw State Owls,Kennesaw St
-323222440,2012-11-17,2,2440,home,FALSE,Nevada,71,Wolf Pack,Nevada Wolf Pack,Nevada
-323222440,2012-11-17,2,2739,away,FALSE,Green Bay,69,Phoenix,Green Bay Phoenix,Green Bay
-323220328,2012-11-17,2,328,home,FALSE,Utah State,77,Aggies,Utah State Aggies,Utah State
-323220328,2012-11-17,2,357,away,FALSE,Texas A&M-Corpus Christi,68,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-323222603,2012-11-17,2,2603,home,TRUE,Saint Joseph's,66,Hawks,Saint Joseph's Hawks,Saint Joseph's
-323222603,2012-11-17,2,52,away,TRUE,Florida State,73,Seminoles,Florida State Seminoles,Florida St
-323222934,2012-11-17,2,2934,home,FALSE,Cal State Bakersfield,73,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
-323222934,2012-11-17,2,2351,away,FALSE,Loyola Marymount,76,Lions,Loyola Marymount Lions,LMU
-323222540,2012-11-17,2,2540,home,FALSE,UC Santa Barbara,80,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-323222540,2012-11-17,2,2375,away,FALSE,Master's University,60,Mustangs,Master's University Mustangs,Masters U
-323222439,2012-11-17,2,2439,home,FALSE,UNLV,77,Rebels,UNLV Rebels,UNLV
-323222439,2012-11-17,2,55,away,FALSE,Jacksonville State,58,Gamecocks,Jacksonville State Gamecocks,Jax State
-323220070,2012-11-17,2,70,home,FALSE,Idaho,63,Vandals,Idaho Vandals,Idaho
-323220070,2012-11-17,2,149,away,FALSE,Montana,66,Grizzlies,Montana Grizzlies,Montana
-323222561,2012-11-17,2,2561,home,TRUE,Siena,56,Saints,Siena Saints,Siena
-323222561,2012-11-17,2,94,away,TRUE,Northern Kentucky,52,Norse,Northern Kentucky Norse,N Kentucky
-323222239,2012-11-17,2,2239,home,TRUE,Cal State Fullerton,112,Titans,Cal State Fullerton Titans,Fullerton
-323222239,2012-11-17,2,253,away,TRUE,Southern Utah,69,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323222352,2013,regular-season,2012-11-17,2,2352,home,TRUE,Loyola Maryland,63,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+323222352,2013,regular-season,2012-11-17,2,2450,away,TRUE,Norfolk State,49,Spartans,Norfolk State Spartans,Norfolk St
+323222803,2013,regular-season,2012-11-17,2,2803,home,FALSE,Bryant,76,Bulldogs,Bryant Bulldogs,Bryant
+323222803,2013,regular-season,2012-11-17,2,160,away,FALSE,New Hampshire,64,Wildcats,New Hampshire Wildcats,New Hampshire
+323220104,2013,regular-season,2012-11-17,2,104,home,FALSE,Boston University,59,Terriers,Boston University Terriers,Boston U
+323220104,2013,regular-season,2012-11-17,2,45,away,FALSE,George Washington,72,Revolutionaries,George Washington Revolutionaries,G Washington
+323220282,2013,regular-season,2012-11-17,2,282,home,FALSE,Indiana State,70,Sycamores,Indiana State Sycamores,Indiana St
+323220282,2013,regular-season,2012-11-17,2,2654,away,FALSE,Truman State,57,Bulldogs,Truman State Bulldogs,Truman St
+323222752,2013,regular-season,2012-11-17,2,2752,home,FALSE,Xavier,61,Musketeers,Xavier Musketeers,Xavier
+323222752,2013,regular-season,2012-11-17,2,2523,away,FALSE,Robert Morris,59,Colonials,Robert Morris Colonials,Robert Morris
+323222737,2013,regular-season,2012-11-17,2,2737,home,FALSE,Winthrop,54,Eagles,Winthrop Eagles,Winthrop
+323222737,2013,regular-season,2012-11-17,2,2670,away,FALSE,VCU,90,Rams,VCU Rams,VCU
+323222460,2013,regular-season,2012-11-17,2,2460,home,FALSE,Northern Iowa,72,Panthers,Northern Iowa Panthers,Northern Iowa
+323222460,2013,regular-season,2012-11-17,2,155,away,FALSE,North Dakota,47,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
+323222229,2013,regular-season,2012-11-17,2,2229,home,FALSE,Florida International,60,Panthers,Florida International Panthers,FIU
+323222229,2013,regular-season,2012-11-17,2,2617,away,FALSE,Stephen F. Austin,69,Lumberjacks,Stephen F. Austin Lumberjacks,SF Austin
+323222210,2013,regular-season,2012-11-17,1,2210,home,FALSE,Elon,41,Phoenix,Elon Phoenix,Elon
+323222210,2013,regular-season,2012-11-17,1,2142,away,FALSE,Colgate,35,Raiders,Colgate Raiders,Colgate
+323220325,2013,regular-season,2012-11-17,2,325,home,FALSE,Cleveland State,67,Vikings,Cleveland State Vikings,Cleveland St
+323220325,2013,regular-season,2012-11-17,2,295,away,FALSE,Old Dominion,55,Monarchs,Old Dominion Monarchs,Old Dominion
+323220305,2013,regular-season,2012-11-17,2,305,home,FALSE,DePaul,98,Blue Demons,DePaul Blue Demons,DePaul
+323220305,2013,regular-season,2012-11-17,2,2046,away,FALSE,Austin Peay,67,Governors,Austin Peay Governors,Austin Peay
+323222623,2013,regular-season,2012-11-17,2,2623,home,FALSE,Missouri State,44,Bears,Missouri State Bears,Missouri St
+323222623,2013,regular-season,2012-11-17,2,21,away,FALSE,San Diego State,60,Aztecs,San Diego State Aztecs,San Diego St
+323220399,2013,regular-season,2012-11-17,0,399,home,TRUE,UAlbany,0,Great Danes,UAlbany Great Danes,UAlbany
+323220399,2013,regular-season,2012-11-17,0,140,away,TRUE,Kansas City,0,Roos,Kansas City Roos,Kansas City
+323220276,2013,regular-season,2012-11-17,2,276,home,TRUE,Marshall,77,Thundering Herd,Marshall Thundering Herd,Marshall
+323220276,2013,regular-season,2012-11-17,2,2571,away,TRUE,South Dakota State,78,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+323220082,2013,regular-season,2012-11-17,2,82,home,TRUE,UIC,62,Flames,UIC Flames,UIC
+323220082,2013,regular-season,2012-11-17,2,2382,away,TRUE,Mercer,36,Bears,Mercer Bears,Mercer
+323222724,2013,regular-season,2012-11-17,2,2724,home,FALSE,Wichita State,69,Shockers,Wichita State Shockers,Wichita St
+323222724,2013,regular-season,2012-11-17,2,47,away,FALSE,Howard,50,Bison,Howard Bison,Howard
+323222636,2013,regular-season,2012-11-17,2,2636,home,FALSE,UTSA,67,Roadrunners,UTSA Roadrunners,UTSA
+323222636,2013,regular-season,2012-11-17,2,2908,away,FALSE,South Carolina Upstate,59,Spartans,South Carolina Upstate Spartans,SC Upstate
+323222520,2013,regular-season,2012-11-17,2,2520,home,FALSE,Rider,65,Broncs,Rider Broncs,Rider
+323222520,2013,regular-season,2012-11-17,2,2405,away,FALSE,Monmouth,62,Hawks,Monmouth Hawks,Monmouth
+323222466,2013,regular-season,2012-11-17,2,2466,home,FALSE,Northwestern State,92,Demons,Northwestern State Demons,N'Western St
+323222466,2013,regular-season,2012-11-17,2,533,away,FALSE,Hannibal-Lagrange,43,Trojans,Hannibal-Lagrange Trojans,Hannibal
+323222193,2013,regular-season,2012-11-17,2,2193,home,FALSE,East Tennessee State,62,Buccaneers,East Tennessee State Buccaneers,ETSU
+323222193,2013,regular-season,2012-11-17,2,2635,away,FALSE,Tennessee Tech,65,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
+323222099,2013,regular-season,2012-11-17,2,2099,home,FALSE,Canisius,72,Golden Griffins,Canisius Golden Griffins,Canisius
+323222099,2013,regular-season,2012-11-17,2,179,away,FALSE,St. Bonaventure,69,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+323220258,2013,regular-season,2012-11-17,2,258,home,FALSE,Virginia,83,Cavaliers,Virginia Cavaliers,Virginia
+323220258,2013,regular-season,2012-11-17,2,2547,away,FALSE,Seattle U,43,Redhawks,Seattle U Redhawks,Seattle U
+323220219,2013,regular-season,2012-11-17,2,219,home,FALSE,Pennsylvania,59,Quakers,Pennsylvania Quakers,Penn
+323220219,2013,regular-season,2012-11-17,2,2182,away,FALSE,Drexel,61,Dragons,Drexel Dragons,Drexel
+323220027,2013,regular-season,2012-11-17,2,27,home,FALSE,UC Riverside,89,Highlanders,UC Riverside Highlanders,UC Riverside
+323220027,2013,regular-season,2012-11-17,2,2720,away,FALSE,Whitman,76,Missionaries,Whitman Missionaries,Whitman
+400418739,2013,regular-season,2012-11-17,2,2197,home,TRUE,Eastern Illinois,63,Panthers,Eastern Illinois Panthers,E Illinois
+400418739,2013,regular-season,2012-11-17,2,292,away,TRUE,UT Rio Grande Valley,50,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+323222226,2013,regular-season,2012-11-17,0,2226,home,TRUE,Florida Atlantic,0,Owls,Florida Atlantic Owls,FAU
+323222226,2013,regular-season,2012-11-17,0,2154,away,TRUE,Coppin State,0,Eagles,Coppin State Eagles,Coppin St
+323220292,2013,regular-season,2012-11-17,2,2197,home,TRUE,Eastern Illinois,63,Panthers,Eastern Illinois Panthers,E Illinois
+323220292,2013,regular-season,2012-11-17,2,292,away,TRUE,UT Rio Grande Valley,50,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+323222711,2013,regular-season,2012-11-17,2,2711,home,TRUE,Western Michigan,36,Broncos,Western Michigan Broncos,W Michigan
+323222711,2013,regular-season,2012-11-17,2,2379,away,TRUE,Maryland Eastern Shore,28,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+323222275,2013,regular-season,2012-11-17,2,2275,home,FALSE,Hofstra,74,Pride,Hofstra Pride,Hofstra
+323222275,2013,regular-season,2012-11-17,2,2177,away,FALSE,District Of Columbia,59,Dist. Of Columbia,District Of Columbia Dist. Of Columbia,U of DC
+323220314,2013,regular-season,2012-11-17,2,314,home,TRUE,Iona,94,Gaels,Iona Gaels,Iona
+323220314,2013,regular-season,2012-11-17,2,154,away,TRUE,Wake Forest,68,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+323220227,2013,regular-season,2012-11-17,2,227,home,TRUE,Rhode Island,58,Rams,Rhode Island Rams,Rhode Island
+323220227,2013,regular-season,2012-11-17,2,194,away,TRUE,Ohio State,69,Buckeyes,Ohio State Buckeyes,Ohio State
+323223084,2013,regular-season,2012-11-17,2,3084,home,FALSE,Utah Valley,96,Wolverines,Utah Valley Wolverines,Utah Valley
+323223084,2013,regular-season,2012-11-17,2,3188,away,FALSE,Phoenix,70,Firestorm,Phoenix Firestorm,AZ Chrstn
+323220166,2013,regular-season,2012-11-17,2,166,home,TRUE,New Mexico State,49,Aggies,New Mexico State Aggies,New Mexico St
+323220166,2013,regular-season,2012-11-17,2,2083,away,TRUE,Bucknell,62,Bison,Bucknell Bison,Bucknell
+323222449,2013,regular-season,2012-11-17,2,2449,home,FALSE,North Dakota State,73,Bison,North Dakota State Bison,N Dakota St
+323222449,2013,regular-season,2012-11-17,2,561,away,FALSE,Mayville State,40,Comets,Mayville State Comets,Mayvlle St
+323222198,2013,regular-season,2012-11-17,3,2198,home,FALSE,Eastern Kentucky,71,Colonels,Eastern Kentucky Colonels,E Kentucky
+323222198,2013,regular-season,2012-11-17,3,119,away,FALSE,Towson,69,Tigers,Towson Tigers,Towson
+323220043,2013,regular-season,2012-11-17,0,43,home,TRUE,Yale,0,Bulldogs,Yale Bulldogs,Yale
+323220043,2013,regular-season,2012-11-17,0,2084,away,TRUE,Buffalo,0,Bulls,Buffalo Bulls,Buffalo
+323222272,2013,regular-season,2012-11-17,2,2272,home,FALSE,High Point,61,Panthers,High Point Panthers,High Point
+323222272,2013,regular-season,2012-11-17,2,2729,away,FALSE,William & Mary,83,Tribe,William & Mary Tribe,William & Mary
+323222199,2013,regular-season,2012-11-17,2,2199,home,FALSE,Eastern Michigan,60,Eagles,Eastern Michigan Eagles,E Michigan
+323222199,2013,regular-season,2012-11-17,2,2870,away,FALSE,Purdue Fort Wayne,47,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+323222174,2013,regular-season,2012-11-17,2,2174,home,FALSE,Detroit Mercy,85,Titans,Detroit Mercy Titans,Detroit Mercy
+323222174,2013,regular-season,2012-11-17,2,2181,away,FALSE,Drake,79,Bulldogs,Drake Bulldogs,Drake
+323220311,2013,regular-season,2012-11-17,2,311,home,FALSE,Maine,68,Black Bears,Maine Black Bears,Maine
+323220311,2013,regular-season,2012-11-17,2,225,away,FALSE,Brown,70,Bears,Brown Bears,Brown
+323220221,2013,regular-season,2012-11-17,3,221,home,FALSE,Pittsburgh,72,Panthers,Pittsburgh Panthers,Pitt
+323220221,2013,regular-season,2012-11-17,3,2473,away,FALSE,Oakland,62,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+323220171,2013,regular-season,2012-11-17,2,171,home,FALSE,Columbia,62,Lions,Columbia Lions,Columbia
+323220171,2013,regular-season,2012-11-17,2,2368,away,FALSE,Marist,67,Red Foxes,Marist Red Foxes,Marist
+323220111,2013,regular-season,2012-11-17,2,111,home,FALSE,Northeastern,55,Huskies,Northeastern Huskies,Northeastern
+323220111,2013,regular-season,2012-11-17,2,261,away,FALSE,Vermont,66,Catamounts,Vermont Catamounts,Vermont
+323220087,2013,regular-season,2012-11-17,2,87,home,TRUE,Notre Dame,78,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+323220087,2013,regular-season,2012-11-17,2,252,away,TRUE,BYU,68,Cougars,BYU Cougars,BYU
+323220085,2013,regular-season,2012-11-17,2,85,home,FALSE,IU Indianapolis,72,Jaguars,IU Indianapolis Jaguars,IU Indy
+323220085,2013,regular-season,2012-11-17,2,71,away,FALSE,Bradley,79,Braves,Bradley Braves,Bradley
+323222643,2013,regular-season,2012-11-17,2,2643,home,FALSE,The Citadel,92,Bulldogs,The Citadel Bulldogs,The Citadel
+323222643,2013,regular-season,2012-11-17,2,2841,away,FALSE,Union (KY),50,Bulldogs,Union (KY) Bulldogs,Union KY
+323222550,2013,regular-season,2012-11-17,3,2550,home,TRUE,Seton Hall,73,Pirates,Seton Hall Pirates,Seton Hall
+323222550,2013,regular-season,2012-11-17,3,264,away,TRUE,Washington,84,Huskies,Washington Huskies,Washington
+323222429,2013,regular-season,2012-11-17,2,2429,home,FALSE,Charlotte,70,49ers,Charlotte 49ers,Charlotte
+323222429,2013,regular-season,2012-11-17,2,2320,away,FALSE,Lamar,49,Cardinals,Lamar Cardinals,Lamar
+323220058,2013,regular-season,2012-11-17,2,58,home,FALSE,South Florida,68,Bulls,South Florida Bulls,South Florida
+323220058,2013,regular-season,2012-11-17,2,2350,away,FALSE,Loyola Chicago,50,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+400407900,2013,regular-season,2012-11-17,2,2463,home,TRUE,Cal State Northridge,92,Matadors,Cal State Northridge Matadors,CSU Northridge
+400407900,2013,regular-season,2012-11-17,2,202,away,TRUE,Tulsa,76,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+323222294,2013,regular-season,2012-11-17,2,2294,home,FALSE,Iowa,65,Hawkeyes,Iowa Hawkeyes,Iowa
+323222294,2013,regular-season,2012-11-17,2,2241,away,FALSE,Gardner-Webb,56,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+323220326,2013,regular-season,2012-11-17,2,326,home,FALSE,Texas State,75,Bobcats,Texas State Bobcats,Texas St
+323220326,2013,regular-season,2012-11-17,2,2567,away,FALSE,SMU,78,Mustangs,SMU Mustangs,SMU
+323220270,2013,regular-season,2012-11-17,2,270,home,FALSE,Milwaukee,73,Panthers,Milwaukee Panthers,Milwaukee
+323220270,2013,regular-season,2012-11-17,2,2166,away,FALSE,Davidson,68,Wildcats,Davidson Wildcats,Davidson
+323220248,2013,regular-season,2012-11-17,2,248,home,FALSE,Houston,87,Cougars,Houston Cougars,Houston
+323220248,2013,regular-season,2012-11-17,2,2755,away,FALSE,Grambling,47,Tigers,Grambling Tigers,Grambling
+323220235,2013,regular-season,2012-11-17,2,235,home,FALSE,Memphis,65,Tigers,Memphis Tigers,Memphis
+323220235,2013,regular-season,2012-11-17,2,2535,away,FALSE,Samford,54,Bulldogs,Samford Bulldogs,Samford
+323220218,2013,regular-season,2012-11-17,2,218,home,FALSE,Temple,77,Owls,Temple Owls,Temple
+323220218,2013,regular-season,2012-11-17,2,242,away,FALSE,Rice,63,Owls,Rice Owls,Rice
+323220202,2013,regular-season,2012-11-17,2,2463,home,TRUE,Cal State Northridge,92,Matadors,Cal State Northridge Matadors,CSU Northridge
+323220202,2013,regular-season,2012-11-17,2,202,away,TRUE,Tulsa,76,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+323222277,2013,regular-season,2012-11-17,2,2277,home,FALSE,Houston Christian,82,Huskies,Houston Christian Huskies,Hou Christian
+323222277,2013,regular-season,2012-11-17,2,2937,away,FALSE,Dallas Christian,73,Crusaders,Dallas Christian Crusaders,Dall Christian
+323220079,2013,regular-season,2012-11-17,2,79,home,FALSE,Southern Illinois,100,Salukis,Southern Illinois Salukis,S Illinois
+323220079,2013,regular-season,2012-11-17,2,2283,away,FALSE,Benedictine College (KS),62,Ravens,Benedictine College (KS) Ravens,Benedictine KS
+323220098,2013,regular-season,2012-11-17,2,98,home,FALSE,Western Kentucky,92,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+323220098,2013,regular-season,2012-11-17,2,2717,away,FALSE,Western Carolina,81,Catamounts,Western Carolina Catamounts,W Carolina
+323220339,2013,regular-season,2012-11-17,0,339,home,FALSE,Evansville,0,Purple Aces,Evansville Purple Aces,Evansville
+323220339,2013,regular-season,2012-11-17,0,2710,away,FALSE,Western Illinois,0,Leathernecks,Western Illinois Leathernecks,W Illinois
+323222515,2013,regular-season,2012-11-17,2,2515,home,TRUE,Radford,67,Highlanders,Radford Highlanders,Radford
+323222515,2013,regular-season,2012-11-17,2,338,away,TRUE,Kennesaw State,58,Owls,Kennesaw State Owls,Kennesaw St
+323222440,2013,regular-season,2012-11-17,2,2440,home,FALSE,Nevada,71,Wolf Pack,Nevada Wolf Pack,Nevada
+323222440,2013,regular-season,2012-11-17,2,2739,away,FALSE,Green Bay,69,Phoenix,Green Bay Phoenix,Green Bay
+323220328,2013,regular-season,2012-11-17,2,328,home,FALSE,Utah State,77,Aggies,Utah State Aggies,Utah State
+323220328,2013,regular-season,2012-11-17,2,357,away,FALSE,Texas A&M-Corpus Christi,68,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+323222603,2013,regular-season,2012-11-17,2,2603,home,TRUE,Saint Joseph's,66,Hawks,Saint Joseph's Hawks,Saint Joseph's
+323222603,2013,regular-season,2012-11-17,2,52,away,TRUE,Florida State,73,Seminoles,Florida State Seminoles,Florida St
+323222934,2013,regular-season,2012-11-17,2,2934,home,FALSE,Cal State Bakersfield,73,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+323222934,2013,regular-season,2012-11-17,2,2351,away,FALSE,Loyola Marymount,76,Lions,Loyola Marymount Lions,LMU
+323222540,2013,regular-season,2012-11-17,2,2540,home,FALSE,UC Santa Barbara,80,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+323222540,2013,regular-season,2012-11-17,2,2375,away,FALSE,Master's University,60,Mustangs,Master's University Mustangs,Masters U
+323222439,2013,regular-season,2012-11-17,2,2439,home,FALSE,UNLV,77,Rebels,UNLV Rebels,UNLV
+323222439,2013,regular-season,2012-11-17,2,55,away,FALSE,Jacksonville State,58,Gamecocks,Jacksonville State Gamecocks,Jax State
+323220070,2013,regular-season,2012-11-17,2,70,home,FALSE,Idaho,63,Vandals,Idaho Vandals,Idaho
+323220070,2013,regular-season,2012-11-17,2,149,away,FALSE,Montana,66,Grizzlies,Montana Grizzlies,Montana
+323222561,2013,regular-season,2012-11-17,2,2561,home,TRUE,Siena,56,Saints,Siena Saints,Siena
+323222561,2013,regular-season,2012-11-17,2,94,away,TRUE,Northern Kentucky,52,Norse,Northern Kentucky Norse,N Kentucky
+323222239,2013,regular-season,2012-11-17,2,2239,home,TRUE,Cal State Fullerton,112,Titans,Cal State Fullerton Titans,Fullerton
+323222239,2013,regular-season,2012-11-17,2,253,away,TRUE,Southern Utah,69,Thunderbirds,Southern Utah Thunderbirds,Southern Utah

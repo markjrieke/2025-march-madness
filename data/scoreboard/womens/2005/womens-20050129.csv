@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250290265,2005-01-29,2,265,home,FALSE,Washington State,56,Cougars,Washington State Cougars,Washington St
-250290265,2005-01-29,2,24,away,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
-250290197,2005-01-29,2,197,home,FALSE,Oklahoma State,65,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-250290197,2005-01-29,2,239,away,FALSE,Baylor,67,Bears,Baylor Bears,Baylor
-250290103,2005-01-29,2,103,home,FALSE,Boston College,72,Eagles,Boston College Eagles,Boston College
-250290103,2005-01-29,2,221,away,FALSE,Pittsburgh,55,Panthers,Pittsburgh Panthers,Pitt
-250290142,2005-01-29,2,142,home,FALSE,Missouri,52,Tigers,Missouri Tigers,Missouri
-250290142,2005-01-29,2,251,away,FALSE,Texas,71,Longhorns,Texas Longhorns,Texas
-250290038,2005-01-29,2,38,home,FALSE,Colorado,70,Buffaloes,Colorado Buffaloes,Colorado
-250290038,2005-01-29,2,2306,away,FALSE,Kansas State,81,Wildcats,Kansas State Wildcats,Kansas St
-250290201,2005-01-29,2,201,home,FALSE,Oklahoma,60,Sooners,Oklahoma Sooners,Oklahoma
-250290201,2005-01-29,2,66,away,FALSE,Iowa State,73,Cyclones,Iowa State Cyclones,Iowa State
-250290012,2005-01-29,3,12,home,FALSE,Arizona,77,Wildcats,Arizona Wildcats,Arizona
-250290012,2005-01-29,3,120,away,FALSE,Maryland,84,Terrapins,Maryland Terrapins,Maryland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250290265,2005,regular-season,2005-01-29,2,265,home,FALSE,Washington State,56,Cougars,Washington State Cougars,Washington St
+250290265,2005,regular-season,2005-01-29,2,24,away,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
+250290197,2005,regular-season,2005-01-29,2,197,home,FALSE,Oklahoma State,65,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+250290197,2005,regular-season,2005-01-29,2,239,away,FALSE,Baylor,67,Bears,Baylor Bears,Baylor
+250290103,2005,regular-season,2005-01-29,2,103,home,FALSE,Boston College,72,Eagles,Boston College Eagles,Boston College
+250290103,2005,regular-season,2005-01-29,2,221,away,FALSE,Pittsburgh,55,Panthers,Pittsburgh Panthers,Pitt
+250290142,2005,regular-season,2005-01-29,2,142,home,FALSE,Missouri,52,Tigers,Missouri Tigers,Missouri
+250290142,2005,regular-season,2005-01-29,2,251,away,FALSE,Texas,71,Longhorns,Texas Longhorns,Texas
+250290038,2005,regular-season,2005-01-29,2,38,home,FALSE,Colorado,70,Buffaloes,Colorado Buffaloes,Colorado
+250290038,2005,regular-season,2005-01-29,2,2306,away,FALSE,Kansas State,81,Wildcats,Kansas State Wildcats,Kansas St
+250290201,2005,regular-season,2005-01-29,2,201,home,FALSE,Oklahoma,60,Sooners,Oklahoma Sooners,Oklahoma
+250290201,2005,regular-season,2005-01-29,2,66,away,FALSE,Iowa State,73,Cyclones,Iowa State Cyclones,Iowa State
+250290012,2005,regular-season,2005-01-29,3,12,home,FALSE,Arizona,77,Wildcats,Arizona Wildcats,Arizona
+250290012,2005,regular-season,2005-01-29,3,120,away,FALSE,Maryland,84,Terrapins,Maryland Terrapins,Maryland

@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401483231,2022-11-13,2,2633,home,TRUE,Tennessee,66,Volunteers,Tennessee Volunteers,Tennessee
-401483231,2022-11-13,2,38,away,TRUE,Colorado,78,Buffaloes,Colorado Buffaloes,Colorado
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401483231,2023,regular-season,2022-11-13,2,2633,home,TRUE,Tennessee,66,Volunteers,Tennessee Volunteers,Tennessee
+401483231,2023,regular-season,2022-11-13,2,38,away,TRUE,Colorado,78,Buffaloes,Colorado Buffaloes,Colorado

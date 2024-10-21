@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250150024,2005-01-15,2,24,home,FALSE,Stanford,76,Cardinal,Stanford Cardinal,Stanford
-250150024,2005-01-15,2,103,away,FALSE,Boston College,66,Eagles,Boston College Eagles,Boston College
-250150251,2005-01-15,2,251,home,FALSE,Texas,63,Longhorns,Texas Longhorns,Texas
-250150251,2005-01-15,2,197,away,FALSE,Oklahoma State,42,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-250150038,2005-01-15,2,38,home,FALSE,Colorado,41,Buffaloes,Colorado Buffaloes,Colorado
-250150038,2005-01-15,2,2641,away,FALSE,Texas Tech,87,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-250150041,2005-01-15,2,41,home,FALSE,UConn,73,Huskies,UConn Huskies,UConn
-250150041,2005-01-15,2,222,away,FALSE,Villanova,57,Wildcats,Villanova Wildcats,Villanova
-250152306,2005-01-15,2,2306,home,FALSE,Kansas State,74,Wildcats,Kansas State Wildcats,Kansas St
-250152306,2005-01-15,2,158,away,FALSE,Nebraska,59,Cornhuskers,Nebraska Cornhuskers,Nebraska
-250150066,2005-01-15,2,66,home,FALSE,Iowa State,65,Cyclones,Iowa State Cyclones,Iowa State
-250150066,2005-01-15,2,142,away,FALSE,Missouri,59,Tigers,Missouri Tigers,Missouri
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250150024,2005,regular-season,2005-01-15,2,24,home,FALSE,Stanford,76,Cardinal,Stanford Cardinal,Stanford
+250150024,2005,regular-season,2005-01-15,2,103,away,FALSE,Boston College,66,Eagles,Boston College Eagles,Boston College
+250150251,2005,regular-season,2005-01-15,2,251,home,FALSE,Texas,63,Longhorns,Texas Longhorns,Texas
+250150251,2005,regular-season,2005-01-15,2,197,away,FALSE,Oklahoma State,42,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+250150038,2005,regular-season,2005-01-15,2,38,home,FALSE,Colorado,41,Buffaloes,Colorado Buffaloes,Colorado
+250150038,2005,regular-season,2005-01-15,2,2641,away,FALSE,Texas Tech,87,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+250150041,2005,regular-season,2005-01-15,2,41,home,FALSE,UConn,73,Huskies,UConn Huskies,UConn
+250150041,2005,regular-season,2005-01-15,2,222,away,FALSE,Villanova,57,Wildcats,Villanova Wildcats,Villanova
+250152306,2005,regular-season,2005-01-15,2,2306,home,FALSE,Kansas State,74,Wildcats,Kansas State Wildcats,Kansas St
+250152306,2005,regular-season,2005-01-15,2,158,away,FALSE,Nebraska,59,Cornhuskers,Nebraska Cornhuskers,Nebraska
+250150066,2005,regular-season,2005-01-15,2,66,home,FALSE,Iowa State,65,Cyclones,Iowa State Cyclones,Iowa State
+250150066,2005,regular-season,2005-01-15,2,142,away,FALSE,Missouri,59,Tigers,Missouri Tigers,Missouri

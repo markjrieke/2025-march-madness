@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401123379,2019-03-20,2,2449,home,TRUE,North Dakota State,78,Bison,North Dakota State Bison,N Dakota St
-401123379,2019-03-20,2,2428,away,TRUE,North Carolina Central,74,Eagles,North Carolina Central Eagles,NC Central
-401123377,2019-03-20,2,9,home,TRUE,Arizona State,74,Sun Devils,Arizona State Sun Devils,Arizona St
-401123377,2019-03-20,2,2599,away,TRUE,St. John's,65,Red Storm,St. John's Red Storm,St John's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401123379,2019,post-season,2019-03-20,2,2449,home,TRUE,North Dakota State,78,Bison,North Dakota State Bison,N Dakota St
+401123379,2019,post-season,2019-03-20,2,2428,away,TRUE,North Carolina Central,74,Eagles,North Carolina Central Eagles,NC Central
+401123377,2019,post-season,2019-03-20,2,9,home,TRUE,Arizona State,74,Sun Devils,Arizona State Sun Devils,Arizona St
+401123377,2019,post-season,2019-03-20,2,2599,away,TRUE,St. John's,65,Red Storm,St. John's Red Storm,St John's

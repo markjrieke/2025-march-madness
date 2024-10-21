@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270560194,2007-02-25,2,194,home,FALSE,Ohio State,49,Buckeyes,Ohio State Buckeyes,Ohio State
-270560194,2007-02-25,2,275,away,FALSE,Wisconsin,48,Badgers,Wisconsin Badgers,Wisconsin
-270560120,2007-02-25,2,120,home,FALSE,Maryland,89,Terrapins,Maryland Terrapins,Maryland
-270560120,2007-02-25,2,153,away,FALSE,North Carolina,87,Tar Heels,North Carolina Tar Heels,North Carolina
-270560235,2007-02-25,2,235,home,FALSE,Memphis,77,Tigers,Memphis Tigers,Memphis
-270560235,2007-02-25,2,248,away,FALSE,Houston,64,Cougars,Houston Cougars,Houston
-270560238,2007-02-25,2,238,home,FALSE,Vanderbilt,67,Commodores,Vanderbilt Commodores,Vanderbilt
-270560238,2007-02-25,2,96,away,FALSE,Kentucky,65,Wildcats,Kentucky Wildcats,Kentucky
-270562599,2007-02-25,2,2599,home,FALSE,St. John's,50,Red Storm,St. John's Red Storm,St John's
-270562599,2007-02-25,2,150,away,FALSE,Duke,67,Blue Devils,Duke Blue Devils,Duke
-270560041,2007-02-25,2,41,home,FALSE,UConn,69,Huskies,UConn Huskies,UConn
-270560041,2007-02-25,2,97,away,FALSE,Louisville,76,Cardinals,Louisville Cardinals,Louisville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270560194,2007,regular-season,2007-02-25,2,194,home,FALSE,Ohio State,49,Buckeyes,Ohio State Buckeyes,Ohio State
+270560194,2007,regular-season,2007-02-25,2,275,away,FALSE,Wisconsin,48,Badgers,Wisconsin Badgers,Wisconsin
+270560120,2007,regular-season,2007-02-25,2,120,home,FALSE,Maryland,89,Terrapins,Maryland Terrapins,Maryland
+270560120,2007,regular-season,2007-02-25,2,153,away,FALSE,North Carolina,87,Tar Heels,North Carolina Tar Heels,North Carolina
+270560235,2007,regular-season,2007-02-25,2,235,home,FALSE,Memphis,77,Tigers,Memphis Tigers,Memphis
+270560235,2007,regular-season,2007-02-25,2,248,away,FALSE,Houston,64,Cougars,Houston Cougars,Houston
+270560238,2007,regular-season,2007-02-25,2,238,home,FALSE,Vanderbilt,67,Commodores,Vanderbilt Commodores,Vanderbilt
+270560238,2007,regular-season,2007-02-25,2,96,away,FALSE,Kentucky,65,Wildcats,Kentucky Wildcats,Kentucky
+270562599,2007,regular-season,2007-02-25,2,2599,home,FALSE,St. John's,50,Red Storm,St. John's Red Storm,St John's
+270562599,2007,regular-season,2007-02-25,2,150,away,FALSE,Duke,67,Blue Devils,Duke Blue Devils,Duke
+270560041,2007,regular-season,2007-02-25,2,41,home,FALSE,UConn,69,Huskies,UConn Huskies,UConn
+270560041,2007,regular-season,2007-02-25,2,97,away,FALSE,Louisville,76,Cardinals,Louisville Cardinals,Louisville

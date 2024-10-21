@@ -1,41 +1,41 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401369749,2022-02-04,2,43,home,FALSE,Yale,72,Bulldogs,Yale Bulldogs,Yale
-401369749,2022-02-04,2,159,away,FALSE,Dartmouth,69,Big Green,Dartmouth Big Green,Dartmouth
-401365823,2022-02-04,2,257,home,FALSE,Richmond,71,Spiders,Richmond Spiders,Richmond
-401365823,2022-02-04,2,179,away,FALSE,St. Bonaventure,61,Bonnies,St. Bonaventure Bonnies,St Bonaventure
-401365552,2022-02-04,2,2678,home,FALSE,VMI,76,Keydets,VMI Keydets,VMI
-401365552,2022-02-04,2,2717,away,FALSE,Western Carolina,69,Catamounts,Western Carolina Catamounts,W Carolina
-401409399,2022-02-04,2,2006,home,FALSE,Akron,66,Zips,Akron Zips,Akron
-401409399,2022-02-04,2,193,away,FALSE,Miami (OH),55,RedHawks,Miami (OH) RedHawks,Miami OH
-401412352,2022-02-04,3,94,home,FALSE,Northern Kentucky,87,Norse,Northern Kentucky Norse,N Kentucky
-401412352,2022-02-04,3,2473,away,FALSE,Oakland,78,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-401412351,2022-02-04,2,2750,home,FALSE,Wright State,90,Raiders,Wright State Raiders,Wright St
-401412351,2022-02-04,2,2174,away,FALSE,Detroit Mercy,59,Titans,Detroit Mercy Titans,Detroit Mercy
-401373576,2022-02-04,2,2550,home,FALSE,Seton Hall,74,Pirates,Seton Hall Pirates,Seton Hall
-401373576,2022-02-04,2,156,away,FALSE,Creighton,55,Bluejays,Creighton Bluejays,Creighton
-401369752,2022-02-04,2,172,home,FALSE,Cornell,88,Big Red,Cornell Big Red,Cornell
-401369752,2022-02-04,2,163,away,FALSE,Princeton,83,Tigers,Princeton Tigers,Princeton
-401369751,2022-02-04,2,171,home,FALSE,Columbia,66,Lions,Columbia Lions,Columbia
-401369751,2022-02-04,2,219,away,FALSE,Pennsylvania,81,Quakers,Pennsylvania Quakers,Penn
-401369750,2022-02-04,2,225,home,FALSE,Brown,50,Bears,Brown Bears,Brown
-401369750,2022-02-04,2,108,away,FALSE,Harvard,65,Crimson,Harvard Crimson,Harvard
-401368303,2022-02-04,2,2870,home,FALSE,Purdue Fort Wayne,70,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-401368303,2022-02-04,2,270,away,FALSE,Milwaukee,60,Panthers,Milwaukee Panthers,Milwaukee
-401368302,2022-02-04,2,325,home,FALSE,Cleveland State,85,Vikings,Cleveland State Vikings,Cleveland St
-401368302,2022-02-04,2,2739,away,FALSE,Green Bay,69,Phoenix,Green Bay Phoenix,Green Bay
-401365362,2022-02-04,2,2612,home,FALSE,Saint Peter's,83,Peacocks,Saint Peter's Peacocks,Saint Peter's
-401365362,2022-02-04,2,2514,away,FALSE,Quinnipiac,74,Bobcats,Quinnipiac Bobcats,Quinnipiac
-401365361,2022-02-04,2,2561,home,FALSE,Siena,60,Saints,Siena Saints,Siena
-401365361,2022-02-04,2,2520,away,FALSE,Rider,74,Broncs,Rider Broncs,Rider
-401365360,2022-02-04,2,2099,home,FALSE,Canisius,62,Golden Griffins,Canisius Golden Griffins,Canisius
-401365360,2022-02-04,2,314,away,FALSE,Iona,70,Gaels,Iona Gaels,Iona
-401365359,2022-02-04,3,315,home,FALSE,Niagara,80,Purple Eagles,Niagara Purple Eagles,Niagara
-401365359,2022-02-04,3,2363,away,FALSE,Manhattan,74,Jaspers,Manhattan Jaspers,Manhattan
-401365358,2022-02-04,2,2405,home,FALSE,Monmouth,59,Hawks,Monmouth Hawks,Monmouth
-401365358,2022-02-04,2,2217,away,FALSE,Fairfield,56,Stags,Fairfield Stags,Fairfield
-401365148,2022-02-04,2,2050,home,FALSE,Ball State,93,Cardinals,Ball State Cardinals,Ball State
-401365148,2022-02-04,2,2649,away,FALSE,Toledo,83,Rockets,Toledo Rockets,Toledo
-401364767,2022-02-04,2,36,home,FALSE,Colorado State,58,Rams,Colorado State Rams,Colorado St
-401364767,2022-02-04,2,21,away,FALSE,San Diego State,57,Aztecs,San Diego State Aztecs,San Diego St
-401364763,2022-02-04,2,278,home,FALSE,Fresno State,73,Bulldogs,Fresno State Bulldogs,Fresno St
-401364763,2022-02-04,2,2440,away,FALSE,Nevada,56,Wolf Pack,Nevada Wolf Pack,Nevada
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401369749,2022,regular-season,2022-02-04,2,43,home,FALSE,Yale,72,Bulldogs,Yale Bulldogs,Yale
+401369749,2022,regular-season,2022-02-04,2,159,away,FALSE,Dartmouth,69,Big Green,Dartmouth Big Green,Dartmouth
+401365823,2022,regular-season,2022-02-04,2,257,home,FALSE,Richmond,71,Spiders,Richmond Spiders,Richmond
+401365823,2022,regular-season,2022-02-04,2,179,away,FALSE,St. Bonaventure,61,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+401365552,2022,regular-season,2022-02-04,2,2678,home,FALSE,VMI,76,Keydets,VMI Keydets,VMI
+401365552,2022,regular-season,2022-02-04,2,2717,away,FALSE,Western Carolina,69,Catamounts,Western Carolina Catamounts,W Carolina
+401409399,2022,regular-season,2022-02-04,2,2006,home,FALSE,Akron,66,Zips,Akron Zips,Akron
+401409399,2022,regular-season,2022-02-04,2,193,away,FALSE,Miami (OH),55,RedHawks,Miami (OH) RedHawks,Miami OH
+401412352,2022,regular-season,2022-02-04,3,94,home,FALSE,Northern Kentucky,87,Norse,Northern Kentucky Norse,N Kentucky
+401412352,2022,regular-season,2022-02-04,3,2473,away,FALSE,Oakland,78,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+401412351,2022,regular-season,2022-02-04,2,2750,home,FALSE,Wright State,90,Raiders,Wright State Raiders,Wright St
+401412351,2022,regular-season,2022-02-04,2,2174,away,FALSE,Detroit Mercy,59,Titans,Detroit Mercy Titans,Detroit Mercy
+401373576,2022,regular-season,2022-02-04,2,2550,home,FALSE,Seton Hall,74,Pirates,Seton Hall Pirates,Seton Hall
+401373576,2022,regular-season,2022-02-04,2,156,away,FALSE,Creighton,55,Bluejays,Creighton Bluejays,Creighton
+401369752,2022,regular-season,2022-02-04,2,172,home,FALSE,Cornell,88,Big Red,Cornell Big Red,Cornell
+401369752,2022,regular-season,2022-02-04,2,163,away,FALSE,Princeton,83,Tigers,Princeton Tigers,Princeton
+401369751,2022,regular-season,2022-02-04,2,171,home,FALSE,Columbia,66,Lions,Columbia Lions,Columbia
+401369751,2022,regular-season,2022-02-04,2,219,away,FALSE,Pennsylvania,81,Quakers,Pennsylvania Quakers,Penn
+401369750,2022,regular-season,2022-02-04,2,225,home,FALSE,Brown,50,Bears,Brown Bears,Brown
+401369750,2022,regular-season,2022-02-04,2,108,away,FALSE,Harvard,65,Crimson,Harvard Crimson,Harvard
+401368303,2022,regular-season,2022-02-04,2,2870,home,FALSE,Purdue Fort Wayne,70,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+401368303,2022,regular-season,2022-02-04,2,270,away,FALSE,Milwaukee,60,Panthers,Milwaukee Panthers,Milwaukee
+401368302,2022,regular-season,2022-02-04,2,325,home,FALSE,Cleveland State,85,Vikings,Cleveland State Vikings,Cleveland St
+401368302,2022,regular-season,2022-02-04,2,2739,away,FALSE,Green Bay,69,Phoenix,Green Bay Phoenix,Green Bay
+401365362,2022,regular-season,2022-02-04,2,2612,home,FALSE,Saint Peter's,83,Peacocks,Saint Peter's Peacocks,Saint Peter's
+401365362,2022,regular-season,2022-02-04,2,2514,away,FALSE,Quinnipiac,74,Bobcats,Quinnipiac Bobcats,Quinnipiac
+401365361,2022,regular-season,2022-02-04,2,2561,home,FALSE,Siena,60,Saints,Siena Saints,Siena
+401365361,2022,regular-season,2022-02-04,2,2520,away,FALSE,Rider,74,Broncs,Rider Broncs,Rider
+401365360,2022,regular-season,2022-02-04,2,2099,home,FALSE,Canisius,62,Golden Griffins,Canisius Golden Griffins,Canisius
+401365360,2022,regular-season,2022-02-04,2,314,away,FALSE,Iona,70,Gaels,Iona Gaels,Iona
+401365359,2022,regular-season,2022-02-04,3,315,home,FALSE,Niagara,80,Purple Eagles,Niagara Purple Eagles,Niagara
+401365359,2022,regular-season,2022-02-04,3,2363,away,FALSE,Manhattan,74,Jaspers,Manhattan Jaspers,Manhattan
+401365358,2022,regular-season,2022-02-04,2,2405,home,FALSE,Monmouth,59,Hawks,Monmouth Hawks,Monmouth
+401365358,2022,regular-season,2022-02-04,2,2217,away,FALSE,Fairfield,56,Stags,Fairfield Stags,Fairfield
+401365148,2022,regular-season,2022-02-04,2,2050,home,FALSE,Ball State,93,Cardinals,Ball State Cardinals,Ball State
+401365148,2022,regular-season,2022-02-04,2,2649,away,FALSE,Toledo,83,Rockets,Toledo Rockets,Toledo
+401364767,2022,regular-season,2022-02-04,2,36,home,FALSE,Colorado State,58,Rams,Colorado State Rams,Colorado St
+401364767,2022,regular-season,2022-02-04,2,21,away,FALSE,San Diego State,57,Aztecs,San Diego State Aztecs,San Diego St
+401364763,2022,regular-season,2022-02-04,2,278,home,FALSE,Fresno State,73,Bulldogs,Fresno State Bulldogs,Fresno St
+401364763,2022,regular-season,2022-02-04,2,2440,away,FALSE,Nevada,56,Wolf Pack,Nevada Wolf Pack,Nevada

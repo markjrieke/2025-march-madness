@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400585784,2015-01-05,2,251,home,FALSE,Texas,49,Longhorns,Texas Longhorns,Texas
-400585784,2015-01-05,2,201,away,FALSE,Oklahoma,70,Sooners,Oklahoma Sooners,Oklahoma
-400587900,2015-01-05,2,153,home,FALSE,North Carolina,70,Tar Heels,North Carolina Tar Heels,North Carolina
-400587900,2015-01-05,2,87,away,FALSE,Notre Dame,71,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400585783,2015-01-05,2,2641,home,FALSE,Texas Tech,67,Red Raiders,Texas Tech Red Raiders,Texas Tech
-400585783,2015-01-05,2,277,away,FALSE,West Virginia,78,Mountaineers,West Virginia Mountaineers,West Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400585784,2015,regular-season,2015-01-05,2,251,home,FALSE,Texas,49,Longhorns,Texas Longhorns,Texas
+400585784,2015,regular-season,2015-01-05,2,201,away,FALSE,Oklahoma,70,Sooners,Oklahoma Sooners,Oklahoma
+400587900,2015,regular-season,2015-01-05,2,153,home,FALSE,North Carolina,70,Tar Heels,North Carolina Tar Heels,North Carolina
+400587900,2015,regular-season,2015-01-05,2,87,away,FALSE,Notre Dame,71,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400585783,2015,regular-season,2015-01-05,2,2641,home,FALSE,Texas Tech,67,Red Raiders,Texas Tech Red Raiders,Texas Tech
+400585783,2015,regular-season,2015-01-05,2,277,away,FALSE,West Virginia,78,Mountaineers,West Virginia Mountaineers,West Virginia

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400994452,2018-01-12,4,2483,home,FALSE,Oregon,62,Ducks,Oregon Ducks,Oregon
-400994452,2018-01-12,4,12,away,FALSE,Arizona,44,Wildcats,Arizona Wildcats,Arizona
-400994451,2018-01-12,4,254,home,FALSE,Utah,74,Utes,Utah Utes,Utah
-400994451,2018-01-12,4,26,away,FALSE,UCLA,81,Bruins,UCLA Bruins,UCLA
-400994449,2018-01-12,4,204,home,FALSE,Oregon State,57,Beavers,Oregon State Beavers,Oregon St
-400994449,2018-01-12,4,9,away,FALSE,Arizona State,54,Sun Devils,Arizona State Sun Devils,Arizona St
-400994453,2018-01-12,4,25,home,FALSE,California,69,Golden Bears,California Golden Bears,California
-400994453,2018-01-12,4,264,away,FALSE,Washington,60,Huskies,Washington Huskies,Washington
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400994452,2018,regular-season,2018-01-12,4,2483,home,FALSE,Oregon,62,Ducks,Oregon Ducks,Oregon
+400994452,2018,regular-season,2018-01-12,4,12,away,FALSE,Arizona,44,Wildcats,Arizona Wildcats,Arizona
+400994451,2018,regular-season,2018-01-12,4,254,home,FALSE,Utah,74,Utes,Utah Utes,Utah
+400994451,2018,regular-season,2018-01-12,4,26,away,FALSE,UCLA,81,Bruins,UCLA Bruins,UCLA
+400994449,2018,regular-season,2018-01-12,4,204,home,FALSE,Oregon State,57,Beavers,Oregon State Beavers,Oregon St
+400994449,2018,regular-season,2018-01-12,4,9,away,FALSE,Arizona State,54,Sun Devils,Arizona State Sun Devils,Arizona St
+400994453,2018,regular-season,2018-01-12,4,25,home,FALSE,California,69,Golden Bears,California Golden Bears,California
+400994453,2018,regular-season,2018-01-12,4,264,away,FALSE,Washington,60,Huskies,Washington Huskies,Washington

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401263325,2021-03-07,2,127,home,FALSE,Michigan State,70,Spartans,Michigan State Spartans,Michigan St
-401263325,2021-03-07,2,130,away,FALSE,Michigan,64,Wolverines,Michigan Wolverines,Michigan
-401263324,2021-03-07,2,2294,home,FALSE,Iowa,77,Hawkeyes,Iowa Hawkeyes,Iowa
-401263324,2021-03-07,2,275,away,FALSE,Wisconsin,73,Badgers,Wisconsin Badgers,Wisconsin
-401282543,2021-03-07,2,248,home,FALSE,Houston,67,Cougars,Houston Cougars,Houston
-401282543,2021-03-07,2,235,away,FALSE,Memphis,64,Tigers,Memphis Tigers,Memphis
-401306853,2021-03-07,2,2628,home,FALSE,TCU,64,Horned Frogs,TCU Horned Frogs,TCU
-401306853,2021-03-07,2,251,away,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401263325,2021,regular-season,2021-03-07,2,127,home,FALSE,Michigan State,70,Spartans,Michigan State Spartans,Michigan St
+401263325,2021,regular-season,2021-03-07,2,130,away,FALSE,Michigan,64,Wolverines,Michigan Wolverines,Michigan
+401263324,2021,regular-season,2021-03-07,2,2294,home,FALSE,Iowa,77,Hawkeyes,Iowa Hawkeyes,Iowa
+401263324,2021,regular-season,2021-03-07,2,275,away,FALSE,Wisconsin,73,Badgers,Wisconsin Badgers,Wisconsin
+401282543,2021,regular-season,2021-03-07,2,248,home,FALSE,Houston,67,Cougars,Houston Cougars,Houston
+401282543,2021,regular-season,2021-03-07,2,235,away,FALSE,Memphis,64,Tigers,Memphis Tigers,Memphis
+401306853,2021,regular-season,2021-03-07,2,2628,home,FALSE,TCU,64,Horned Frogs,TCU Horned Frogs,TCU
+401306853,2021,regular-season,2021-03-07,2,251,away,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas

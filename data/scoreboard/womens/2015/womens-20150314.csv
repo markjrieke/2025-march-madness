@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400785071,2015-03-14,2,195,home,TRUE,Ohio,60,Bobcats,Ohio Bobcats,Ohio
-400785071,2015-03-14,2,2199,away,TRUE,Eastern Michigan,44,Eagles,Eastern Michigan Eagles,E Michigan
-400785070,2015-03-14,2,256,home,TRUE,James Madison,63,Dukes,James Madison Dukes,James Madison
-400785070,2015-03-14,2,2210,away,TRUE,Elon,60,Phoenix,Elon Phoenix,Elon
-400785061,2015-03-14,2,2617,home,TRUE,Stephen F. Austin,81,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
-400785061,2015-03-14,2,2277,away,TRUE,Houston Christian,88,Huskies,Houston Christian Huskies,Hou Christian
-400785094,2015-03-14,2,2724,home,TRUE,Wichita State,56,Shockers,Wichita State Shockers,Wichita St
-400785094,2015-03-14,2,2460,away,TRUE,Northern Iowa,42,Panthers,Northern Iowa Panthers,Northern Iowa
-400785104,2015-03-14,2,2582,home,TRUE,Southern,55,Jaguars,Southern Jaguars,Southern
-400785104,2015-03-14,2,2011,away,TRUE,Alabama State,73,Lady Hornets,Alabama State Lady Hornets,Alabama St
-400785112,2015-03-14,2,2275,home,TRUE,Hofstra,45,Pride,Hofstra Pride,Hofstra
-400785112,2015-03-14,2,48,away,TRUE,Delaware,42,Blue Hens,Delaware Blue Hens,Delaware
-400785073,2015-03-14,2,2542,home,TRUE,Savannah State,65,Tigers,Savannah State Tigers,Savannah St
-400785073,2015-03-14,2,2379,away,TRUE,Maryland Eastern Shore,47,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-400785095,2015-03-14,2,166,home,TRUE,New Mexico State,70,Aggies,New Mexico State Aggies,New Mexico St
-400785095,2015-03-14,2,292,away,TRUE,UT Rio Grande Valley,52,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-400785074,2015-03-14,2,149,home,FALSE,Montana,60,Lady Griz,Montana Lady Griz,Montana
-400785074,2015-03-14,2,2458,away,FALSE,Northern Colorado,49,Bears,Northern Colorado Bears,N Colorado
-400785072,2015-03-14,3,2320,home,TRUE,Lamar,64,Cardinals,Lamar Cardinals,Lamar
-400785072,2015-03-14,3,2466,away,TRUE,Northwestern State,70,Lady Demons,Northwestern State Lady Demons,N'Western St
-400785120,2015-03-14,2,2623,home,TRUE,Missouri State,75,Lady Bears,Missouri State Lady Bears,Missouri St
-400785120,2015-03-14,2,339,away,TRUE,Evansville,66,Purple Aces,Evansville Purple Aces,Evansville
-400785096,2015-03-14,2,62,home,TRUE,Hawai'i,60,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
-400785096,2015-03-14,2,2463,away,TRUE,Cal State Northridge,67,Matadors,Cal State Northridge Matadors,CSU Northridge
-400768028,2015-03-14,2,44,home,FALSE,American University,66,Eagles,American University Eagles,American
-400768028,2015-03-14,2,2329,away,FALSE,Lehigh,50,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-400785069,2015-03-14,2,2031,home,TRUE,Little Rock,78,Trojans,Little Rock Trojans,Little Rock
-400785069,2015-03-14,2,2032,away,TRUE,Arkansas State,72,Red Wolves,Arkansas State Red Wolves,Arkansas St
-400785067,2015-03-14,2,98,home,TRUE,Western Kentucky,60,Lady Toppers,Western Kentucky Lady Toppers,Western KY
-400785067,2015-03-14,2,2572,away,TRUE,Southern Miss,57,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400785071,2015,regular-season,2015-03-14,2,195,home,TRUE,Ohio,60,Bobcats,Ohio Bobcats,Ohio
+400785071,2015,regular-season,2015-03-14,2,2199,away,TRUE,Eastern Michigan,44,Eagles,Eastern Michigan Eagles,E Michigan
+400785070,2015,regular-season,2015-03-14,2,256,home,TRUE,James Madison,63,Dukes,James Madison Dukes,James Madison
+400785070,2015,regular-season,2015-03-14,2,2210,away,TRUE,Elon,60,Phoenix,Elon Phoenix,Elon
+400785061,2015,regular-season,2015-03-14,2,2617,home,TRUE,Stephen F. Austin,81,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
+400785061,2015,regular-season,2015-03-14,2,2277,away,TRUE,Houston Christian,88,Huskies,Houston Christian Huskies,Hou Christian
+400785094,2015,regular-season,2015-03-14,2,2724,home,TRUE,Wichita State,56,Shockers,Wichita State Shockers,Wichita St
+400785094,2015,regular-season,2015-03-14,2,2460,away,TRUE,Northern Iowa,42,Panthers,Northern Iowa Panthers,Northern Iowa
+400785104,2015,regular-season,2015-03-14,2,2582,home,TRUE,Southern,55,Jaguars,Southern Jaguars,Southern
+400785104,2015,regular-season,2015-03-14,2,2011,away,TRUE,Alabama State,73,Lady Hornets,Alabama State Lady Hornets,Alabama St
+400785112,2015,regular-season,2015-03-14,2,2275,home,TRUE,Hofstra,45,Pride,Hofstra Pride,Hofstra
+400785112,2015,regular-season,2015-03-14,2,48,away,TRUE,Delaware,42,Blue Hens,Delaware Blue Hens,Delaware
+400785073,2015,regular-season,2015-03-14,2,2542,home,TRUE,Savannah State,65,Tigers,Savannah State Tigers,Savannah St
+400785073,2015,regular-season,2015-03-14,2,2379,away,TRUE,Maryland Eastern Shore,47,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+400785095,2015,regular-season,2015-03-14,2,166,home,TRUE,New Mexico State,70,Aggies,New Mexico State Aggies,New Mexico St
+400785095,2015,regular-season,2015-03-14,2,292,away,TRUE,UT Rio Grande Valley,52,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+400785074,2015,regular-season,2015-03-14,2,149,home,FALSE,Montana,60,Lady Griz,Montana Lady Griz,Montana
+400785074,2015,regular-season,2015-03-14,2,2458,away,FALSE,Northern Colorado,49,Bears,Northern Colorado Bears,N Colorado
+400785072,2015,regular-season,2015-03-14,3,2320,home,TRUE,Lamar,64,Cardinals,Lamar Cardinals,Lamar
+400785072,2015,regular-season,2015-03-14,3,2466,away,TRUE,Northwestern State,70,Lady Demons,Northwestern State Lady Demons,N'Western St
+400785120,2015,regular-season,2015-03-14,2,2623,home,TRUE,Missouri State,75,Lady Bears,Missouri State Lady Bears,Missouri St
+400785120,2015,regular-season,2015-03-14,2,339,away,TRUE,Evansville,66,Purple Aces,Evansville Purple Aces,Evansville
+400785096,2015,regular-season,2015-03-14,2,62,home,TRUE,Hawai'i,60,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
+400785096,2015,regular-season,2015-03-14,2,2463,away,TRUE,Cal State Northridge,67,Matadors,Cal State Northridge Matadors,CSU Northridge
+400768028,2015,regular-season,2015-03-14,2,44,home,FALSE,American University,66,Eagles,American University Eagles,American
+400768028,2015,regular-season,2015-03-14,2,2329,away,FALSE,Lehigh,50,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+400785069,2015,regular-season,2015-03-14,2,2031,home,TRUE,Little Rock,78,Trojans,Little Rock Trojans,Little Rock
+400785069,2015,regular-season,2015-03-14,2,2032,away,TRUE,Arkansas State,72,Red Wolves,Arkansas State Red Wolves,Arkansas St
+400785067,2015,regular-season,2015-03-14,2,98,home,TRUE,Western Kentucky,60,Lady Toppers,Western Kentucky Lady Toppers,Western KY
+400785067,2015,regular-season,2015-03-14,2,2572,away,TRUE,Southern Miss,57,Lady Eagles,Southern Miss Lady Eagles,Southern Miss

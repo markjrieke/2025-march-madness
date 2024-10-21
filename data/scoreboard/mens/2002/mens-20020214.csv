@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220450150,2002-02-14,2,150,home,FALSE,Duke,108,Blue Devils,Duke Blue Devils,Duke
-220450150,2002-02-14,2,152,away,FALSE,NC State,71,Wolfpack,NC State Wolfpack,NC State
-220452250,2002-02-14,2,2250,home,FALSE,Gonzaga,72,Bulldogs,Gonzaga Bulldogs,Gonzaga
-220452250,2002-02-14,2,2351,away,FALSE,Loyola Marymount,51,Lions,Loyola Marymount Lions,LMU
-220450026,2002-02-14,2,26,home,FALSE,UCLA,77,Bruins,UCLA Bruins,UCLA
-220450026,2002-02-14,2,12,away,FALSE,Arizona,76,Wildcats,Arizona Wildcats,Arizona
-220450264,2002-02-14,2,264,home,FALSE,Washington,65,Huskies,Washington Huskies,Washington
-220450264,2002-02-14,2,24,away,FALSE,Stanford,91,Cardinal,Stanford Cardinal,Stanford
-220450030,2002-02-14,2,30,home,FALSE,USC,83,Trojans,USC Trojans,USC
-220450030,2002-02-14,2,9,away,FALSE,Arizona State,61,Sun Devils,Arizona State Sun Devils,Arizona St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220450150,2002,regular-season,2002-02-14,2,150,home,FALSE,Duke,108,Blue Devils,Duke Blue Devils,Duke
+220450150,2002,regular-season,2002-02-14,2,152,away,FALSE,NC State,71,Wolfpack,NC State Wolfpack,NC State
+220452250,2002,regular-season,2002-02-14,2,2250,home,FALSE,Gonzaga,72,Bulldogs,Gonzaga Bulldogs,Gonzaga
+220452250,2002,regular-season,2002-02-14,2,2351,away,FALSE,Loyola Marymount,51,Lions,Loyola Marymount Lions,LMU
+220450026,2002,regular-season,2002-02-14,2,26,home,FALSE,UCLA,77,Bruins,UCLA Bruins,UCLA
+220450026,2002,regular-season,2002-02-14,2,12,away,FALSE,Arizona,76,Wildcats,Arizona Wildcats,Arizona
+220450264,2002,regular-season,2002-02-14,2,264,home,FALSE,Washington,65,Huskies,Washington Huskies,Washington
+220450264,2002,regular-season,2002-02-14,2,24,away,FALSE,Stanford,91,Cardinal,Stanford Cardinal,Stanford
+220450030,2002,regular-season,2002-02-14,2,30,home,FALSE,USC,83,Trojans,USC Trojans,USC
+220450030,2002,regular-season,2002-02-14,2,9,away,FALSE,Arizona State,61,Sun Devils,Arizona State Sun Devils,Arizona St

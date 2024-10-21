@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401369855,2021-11-22,2,150,home,FALSE,Duke,107,Blue Devils,Duke Blue Devils,Duke
-401369855,2021-11-22,2,2643,away,FALSE,The Citadel,81,Bulldogs,The Citadel Bulldogs,The Citadel
-401370937,2021-11-22,2,96,home,FALSE,Kentucky,86,Wildcats,Kentucky Wildcats,Kentucky
-401370937,2021-11-22,2,399,away,FALSE,UAlbany,61,Great Danes,UAlbany Great Danes,UAlbany
-401371382,2021-11-22,2,30,home,FALSE,USC,98,Trojans,USC Trojans,USC
-401371382,2021-11-22,2,3101,away,FALSE,Utah Tech,71,Trailblazers,Utah Tech Trailblazers,Utah Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401369855,2022,regular-season,2021-11-22,2,150,home,FALSE,Duke,107,Blue Devils,Duke Blue Devils,Duke
+401369855,2022,regular-season,2021-11-22,2,2643,away,FALSE,The Citadel,81,Bulldogs,The Citadel Bulldogs,The Citadel
+401370937,2022,regular-season,2021-11-22,2,96,home,FALSE,Kentucky,86,Wildcats,Kentucky Wildcats,Kentucky
+401370937,2022,regular-season,2021-11-22,2,399,away,FALSE,UAlbany,61,Great Danes,UAlbany Great Danes,UAlbany
+401371382,2022,regular-season,2021-11-22,2,30,home,FALSE,USC,98,Trojans,USC Trojans,USC
+401371382,2022,regular-season,2021-11-22,2,3101,away,FALSE,Utah Tech,71,Trailblazers,Utah Tech Trailblazers,Utah Tech

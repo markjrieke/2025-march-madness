@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400912086,2016-12-27,4,236,home,FALSE,Chattanooga,58,Mocs,Chattanooga Mocs,Chattanooga
-400912086,2016-12-27,4,87,away,FALSE,Notre Dame,79,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400913906,2016-12-27,4,264,home,FALSE,Washington,94,Huskies,Washington Huskies,Washington
-400913906,2016-12-27,4,265,away,FALSE,Washington State,63,Cougars,Washington State Cougars,Washington St
-400913905,2016-12-27,4,204,home,FALSE,Oregon State,73,Beavers,Oregon State Beavers,Oregon St
-400913905,2016-12-27,4,2029,away,FALSE,Arkansas-Pine Bluff,40,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400912086,2017,regular-season,2016-12-27,4,236,home,FALSE,Chattanooga,58,Mocs,Chattanooga Mocs,Chattanooga
+400912086,2017,regular-season,2016-12-27,4,87,away,FALSE,Notre Dame,79,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400913906,2017,regular-season,2016-12-27,4,264,home,FALSE,Washington,94,Huskies,Washington Huskies,Washington
+400913906,2017,regular-season,2016-12-27,4,265,away,FALSE,Washington State,63,Cougars,Washington State Cougars,Washington St
+400913905,2017,regular-season,2016-12-27,4,204,home,FALSE,Oregon State,73,Beavers,Oregon State Beavers,Oregon St
+400913905,2017,regular-season,2016-12-27,4,2029,away,FALSE,Arkansas-Pine Bluff,40,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff

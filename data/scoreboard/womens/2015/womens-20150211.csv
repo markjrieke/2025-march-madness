@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400592408,2015-02-11,2,239,home,FALSE,Baylor,89,Bears,Baylor Bears,Baylor
-400592408,2015-02-11,2,201,away,FALSE,Oklahoma,66,Sooners,Oklahoma Sooners,Oklahoma
-400592875,2015-02-11,2,139,home,FALSE,Saint Louis,79,Billikens,Saint Louis Billikens,Saint Louis
-400592875,2015-02-11,2,45,away,FALSE,George Washington,61,Revolutionaries,George Washington Revolutionaries,G Washington
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400592408,2015,regular-season,2015-02-11,2,239,home,FALSE,Baylor,89,Bears,Baylor Bears,Baylor
+400592408,2015,regular-season,2015-02-11,2,201,away,FALSE,Oklahoma,66,Sooners,Oklahoma Sooners,Oklahoma
+400592875,2015,regular-season,2015-02-11,2,139,home,FALSE,Saint Louis,79,Billikens,Saint Louis Billikens,Saint Louis
+400592875,2015,regular-season,2015-02-11,2,45,away,FALSE,George Washington,61,Revolutionaries,George Washington Revolutionaries,G Washington

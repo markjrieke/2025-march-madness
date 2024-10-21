@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300102633,2010-01-10,2,2633,home,FALSE,Tennessee,76,Volunteers,Tennessee Volunteers,Tennessee
-300102633,2010-01-10,2,2305,away,FALSE,Kansas,68,Jayhawks,Kansas Jayhawks,Kansas
-300110183,2010-01-10,2,183,home,FALSE,Syracuse,82,Orange,Syracuse Orange,Syracuse
-300110183,2010-01-10,2,58,away,FALSE,South Florida,65,Bulls,South Florida Bulls,South Florida
-300100153,2010-01-10,2,153,home,FALSE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
-300100153,2010-01-10,2,259,away,FALSE,Virginia Tech,64,Hokies,Virginia Tech Hokies,Virginia Tech
-300100120,2010-01-10,2,120,home,FALSE,Maryland,77,Terrapins,Maryland Terrapins,Maryland
-300100120,2010-01-10,2,52,away,FALSE,Florida State,68,Seminoles,Florida State Seminoles,Florida St
-300100227,2010-01-10,3,227,home,FALSE,Rhode Island,64,Rams,Rhode Island Rams,Rhode Island
-300100227,2010-01-10,3,218,away,FALSE,Temple,68,Owls,Temple Owls,Temple
-300110012,2010-01-10,2,12,home,FALSE,Arizona,87,Wildcats,Arizona Wildcats,Arizona
-300110012,2010-01-10,2,264,away,FALSE,Washington,70,Huskies,Washington Huskies,Washington
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300102633,2010,regular-season,2010-01-10,2,2633,home,FALSE,Tennessee,76,Volunteers,Tennessee Volunteers,Tennessee
+300102633,2010,regular-season,2010-01-10,2,2305,away,FALSE,Kansas,68,Jayhawks,Kansas Jayhawks,Kansas
+300110183,2010,regular-season,2010-01-10,2,183,home,FALSE,Syracuse,82,Orange,Syracuse Orange,Syracuse
+300110183,2010,regular-season,2010-01-10,2,58,away,FALSE,South Florida,65,Bulls,South Florida Bulls,South Florida
+300100153,2010,regular-season,2010-01-10,2,153,home,FALSE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
+300100153,2010,regular-season,2010-01-10,2,259,away,FALSE,Virginia Tech,64,Hokies,Virginia Tech Hokies,Virginia Tech
+300100120,2010,regular-season,2010-01-10,2,120,home,FALSE,Maryland,77,Terrapins,Maryland Terrapins,Maryland
+300100120,2010,regular-season,2010-01-10,2,52,away,FALSE,Florida State,68,Seminoles,Florida State Seminoles,Florida St
+300100227,2010,regular-season,2010-01-10,3,227,home,FALSE,Rhode Island,64,Rams,Rhode Island Rams,Rhode Island
+300100227,2010,regular-season,2010-01-10,3,218,away,FALSE,Temple,68,Owls,Temple Owls,Temple
+300110012,2010,regular-season,2010-01-10,2,12,home,FALSE,Arizona,87,Wildcats,Arizona Wildcats,Arizona
+300110012,2010,regular-season,2010-01-10,2,264,away,FALSE,Washington,70,Huskies,Washington Huskies,Washington

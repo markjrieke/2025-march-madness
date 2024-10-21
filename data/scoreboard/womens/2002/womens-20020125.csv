@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220250036,2002-01-25,2,36,home,FALSE,Colorado State,57,Rams,Colorado State Rams,Colorado St
-220250036,2002-01-25,2,2751,away,FALSE,Wyoming,49,Cowgirls,Wyoming Cowgirls,Wyoming
-220250194,2002-01-25,2,194,home,FALSE,Ohio State,70,Buckeyes,Ohio State Buckeyes,Ohio State
-220250194,2002-01-25,2,135,away,FALSE,Minnesota,66,Golden Gophers,Minnesota Golden Gophers,Minnesota
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220250036,2002,regular-season,2002-01-25,2,36,home,FALSE,Colorado State,57,Rams,Colorado State Rams,Colorado St
+220250036,2002,regular-season,2002-01-25,2,2751,away,FALSE,Wyoming,49,Cowgirls,Wyoming Cowgirls,Wyoming
+220250194,2002,regular-season,2002-01-25,2,194,home,FALSE,Ohio State,70,Buckeyes,Ohio State Buckeyes,Ohio State
+220250194,2002,regular-season,2002-01-25,2,135,away,FALSE,Minnesota,66,Golden Gophers,Minnesota Golden Gophers,Minnesota

@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401364320,2022-02-17,4,2579,home,FALSE,South Carolina,75,Gamecocks,South Carolina Gamecocks,South Carolina
-401364320,2022-02-17,4,2,away,FALSE,Auburn,38,Tigers,Auburn Tigers,Auburn
-401369599,2022-02-17,4,153,home,FALSE,North Carolina,66,Tar Heels,North Carolina Tar Heels,North Carolina
-401369599,2022-02-17,4,97,away,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
-401369598,2022-02-17,4,152,home,FALSE,NC State,92,Wolfpack,NC State Wolfpack,NC State
-401369598,2022-02-17,4,154,away,FALSE,Wake Forest,61,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-401364584,2022-02-17,4,84,home,FALSE,Indiana,69,Hoosiers,Indiana Hoosiers,Indiana
-401364584,2022-02-17,4,77,away,FALSE,Northwestern,58,Wildcats,Northwestern Wildcats,Northwestern
-401364319,2022-02-17,4,344,home,FALSE,Mississippi State,59,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401364319,2022-02-17,4,99,away,FALSE,LSU,71,Tigers,LSU Tigers,LSU
-401364314,2022-02-17,4,333,home,FALSE,Alabama,74,Crimson Tide,Alabama Crimson Tide,Alabama
-401364314,2022-02-17,4,2633,away,FALSE,Tennessee,64,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401364585,2022-02-17,4,120,home,FALSE,Maryland,77,Terrapins,Maryland Terrapins,Maryland
-401364585,2022-02-17,4,194,away,FALSE,Ohio State,72,Buckeyes,Ohio State Buckeyes,Ohio State
-401369596,2022-02-17,5,59,home,FALSE,Georgia Tech,66,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-401369596,2022-02-17,5,87,away,FALSE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401364315,2022-02-17,4,57,home,FALSE,Florida,76,Gators,Florida Gators,Florida
-401364315,2022-02-17,4,8,away,FALSE,Arkansas,67,Razorbacks,Arkansas Razorbacks,Arkansas
-401367930,2022-02-17,4,252,home,FALSE,BYU,77,Cougars,BYU Cougars,BYU
-401367930,2022-02-17,4,2351,away,FALSE,Loyola Marymount,54,Lions,Loyola Marymount Lions,LMU
-401364316,2022-02-17,4,61,home,FALSE,Georgia,74,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-401364316,2022-02-17,4,142,away,FALSE,Missouri,49,Tigers,Missouri Tigers,Missouri
-401369600,2022-02-17,4,183,home,FALSE,Syracuse,53,Orange,Syracuse Orange,Syracuse
-401369600,2022-02-17,4,259,away,FALSE,Virginia Tech,102,Hokies,Virginia Tech Hokies,Virginia Tech
-401374019,2022-02-17,4,526,home,FALSE,Florida Gulf Coast,64,Eagles,Florida Gulf Coast Eagles,FGCU
-401374019,2022-02-17,4,338,away,FALSE,Kennesaw State,48,Owls,Kennesaw State Owls,Kennesaw St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401364320,2022,regular-season,2022-02-17,4,2579,home,FALSE,South Carolina,75,Gamecocks,South Carolina Gamecocks,South Carolina
+401364320,2022,regular-season,2022-02-17,4,2,away,FALSE,Auburn,38,Tigers,Auburn Tigers,Auburn
+401369599,2022,regular-season,2022-02-17,4,153,home,FALSE,North Carolina,66,Tar Heels,North Carolina Tar Heels,North Carolina
+401369599,2022,regular-season,2022-02-17,4,97,away,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
+401369598,2022,regular-season,2022-02-17,4,152,home,FALSE,NC State,92,Wolfpack,NC State Wolfpack,NC State
+401369598,2022,regular-season,2022-02-17,4,154,away,FALSE,Wake Forest,61,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+401364584,2022,regular-season,2022-02-17,4,84,home,FALSE,Indiana,69,Hoosiers,Indiana Hoosiers,Indiana
+401364584,2022,regular-season,2022-02-17,4,77,away,FALSE,Northwestern,58,Wildcats,Northwestern Wildcats,Northwestern
+401364319,2022,regular-season,2022-02-17,4,344,home,FALSE,Mississippi State,59,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401364319,2022,regular-season,2022-02-17,4,99,away,FALSE,LSU,71,Tigers,LSU Tigers,LSU
+401364314,2022,regular-season,2022-02-17,4,333,home,FALSE,Alabama,74,Crimson Tide,Alabama Crimson Tide,Alabama
+401364314,2022,regular-season,2022-02-17,4,2633,away,FALSE,Tennessee,64,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401364585,2022,regular-season,2022-02-17,4,120,home,FALSE,Maryland,77,Terrapins,Maryland Terrapins,Maryland
+401364585,2022,regular-season,2022-02-17,4,194,away,FALSE,Ohio State,72,Buckeyes,Ohio State Buckeyes,Ohio State
+401369596,2022,regular-season,2022-02-17,5,59,home,FALSE,Georgia Tech,66,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+401369596,2022,regular-season,2022-02-17,5,87,away,FALSE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401364315,2022,regular-season,2022-02-17,4,57,home,FALSE,Florida,76,Gators,Florida Gators,Florida
+401364315,2022,regular-season,2022-02-17,4,8,away,FALSE,Arkansas,67,Razorbacks,Arkansas Razorbacks,Arkansas
+401367930,2022,regular-season,2022-02-17,4,252,home,FALSE,BYU,77,Cougars,BYU Cougars,BYU
+401367930,2022,regular-season,2022-02-17,4,2351,away,FALSE,Loyola Marymount,54,Lions,Loyola Marymount Lions,LMU
+401364316,2022,regular-season,2022-02-17,4,61,home,FALSE,Georgia,74,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+401364316,2022,regular-season,2022-02-17,4,142,away,FALSE,Missouri,49,Tigers,Missouri Tigers,Missouri
+401369600,2022,regular-season,2022-02-17,4,183,home,FALSE,Syracuse,53,Orange,Syracuse Orange,Syracuse
+401369600,2022,regular-season,2022-02-17,4,259,away,FALSE,Virginia Tech,102,Hokies,Virginia Tech Hokies,Virginia Tech
+401374019,2022,regular-season,2022-02-17,4,526,home,FALSE,Florida Gulf Coast,64,Eagles,Florida Gulf Coast Eagles,FGCU
+401374019,2022,regular-season,2022-02-17,4,338,away,FALSE,Kennesaw State,48,Owls,Kennesaw State Owls,Kennesaw St

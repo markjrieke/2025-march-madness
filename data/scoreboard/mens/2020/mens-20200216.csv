@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401173784,2020-02-16,2,68,home,FALSE,Boise State,55,Broncos,Boise State Broncos,Boise St
-401173784,2020-02-16,2,21,away,FALSE,San Diego State,72,Aztecs,San Diego State Aztecs,San Diego St
-401169471,2020-02-16,2,218,home,FALSE,Temple,56,Owls,Temple Owls,Temple
-401169471,2020-02-16,2,222,away,FALSE,Villanova,76,Wildcats,Villanova Wildcats,Villanova
-401170719,2020-02-16,2,2483,home,FALSE,Oregon,80,Ducks,Oregon Ducks,Oregon
-401170719,2020-02-16,2,254,away,FALSE,Utah,62,Utes,Utah Utes,Utah
-401166230,2020-02-16,2,135,home,FALSE,Minnesota,55,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401166230,2020-02-16,2,2294,away,FALSE,Iowa,58,Hawkeyes,Iowa Hawkeyes,Iowa
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401173784,2020,regular-season,2020-02-16,2,68,home,FALSE,Boise State,55,Broncos,Boise State Broncos,Boise St
+401173784,2020,regular-season,2020-02-16,2,21,away,FALSE,San Diego State,72,Aztecs,San Diego State Aztecs,San Diego St
+401169471,2020,regular-season,2020-02-16,2,218,home,FALSE,Temple,56,Owls,Temple Owls,Temple
+401169471,2020,regular-season,2020-02-16,2,222,away,FALSE,Villanova,76,Wildcats,Villanova Wildcats,Villanova
+401170719,2020,regular-season,2020-02-16,2,2483,home,FALSE,Oregon,80,Ducks,Oregon Ducks,Oregon
+401170719,2020,regular-season,2020-02-16,2,254,away,FALSE,Utah,62,Utes,Utah Utes,Utah
+401166230,2020,regular-season,2020-02-16,2,135,home,FALSE,Minnesota,55,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401166230,2020,regular-season,2020-02-16,2,2294,away,FALSE,Iowa,58,Hawkeyes,Iowa Hawkeyes,Iowa

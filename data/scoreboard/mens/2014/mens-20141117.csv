@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400587765,2014-11-17,2,97,home,FALSE,Louisville,88,Cardinals,Louisville Cardinals,Louisville
-400587765,2014-11-17,2,55,away,FALSE,Jacksonville State,39,Gamecocks,Jacksonville State Gamecocks,Jax State
-400587764,2014-11-17,2,57,home,FALSE,Florida,67,Gators,Florida Gators,Florida
-400587764,2014-11-17,2,2390,away,FALSE,Miami,69,Hurricanes,Miami Hurricanes,Miami
-400586672,2014-11-17,2,2250,home,FALSE,Gonzaga,72,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400586672,2014-11-17,2,2567,away,FALSE,SMU,56,Mustangs,SMU Mustangs,SMU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400587765,2015,regular-season,2014-11-17,2,97,home,FALSE,Louisville,88,Cardinals,Louisville Cardinals,Louisville
+400587765,2015,regular-season,2014-11-17,2,55,away,FALSE,Jacksonville State,39,Gamecocks,Jacksonville State Gamecocks,Jax State
+400587764,2015,regular-season,2014-11-17,2,57,home,FALSE,Florida,67,Gators,Florida Gators,Florida
+400587764,2015,regular-season,2014-11-17,2,2390,away,FALSE,Miami,69,Hurricanes,Miami Hurricanes,Miami
+400586672,2015,regular-season,2014-11-17,2,2250,home,FALSE,Gonzaga,72,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400586672,2015,regular-season,2014-11-17,2,2567,away,FALSE,SMU,56,Mustangs,SMU Mustangs,SMU

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213330142,2001-11-29,2,142,home,FALSE,Missouri,106,Tigers,Missouri Tigers,Missouri
-213330142,2001-11-29,2,2296,away,FALSE,Jackson State,68,Tigers,Jackson State Tigers,Jackson St
-213330183,2001-11-29,2,183,home,FALSE,Syracuse,76,Orange,Syracuse Orange,Syracuse
-213330183,2001-11-29,2,172,away,FALSE,Cornell,58,Big Red,Cornell Big Red,Cornell
-213330197,2001-11-29,2,197,home,FALSE,Oklahoma State,95,Cowboys,Oklahoma State Cowboys,Oklahoma St
-213330197,2001-11-29,2,2443,away,FALSE,New Orleans,47,Privateers,New Orleans Privateers,New Orleans
-213330333,2001-11-29,2,333,home,FALSE,Alabama,90,Crimson Tide,Alabama Crimson Tide,Alabama
-213330333,2001-11-29,2,2377,away,FALSE,McNeese,61,Cowboys,McNeese Cowboys,McNeese
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213330142,2002,regular-season,2001-11-29,2,142,home,FALSE,Missouri,106,Tigers,Missouri Tigers,Missouri
+213330142,2002,regular-season,2001-11-29,2,2296,away,FALSE,Jackson State,68,Tigers,Jackson State Tigers,Jackson St
+213330183,2002,regular-season,2001-11-29,2,183,home,FALSE,Syracuse,76,Orange,Syracuse Orange,Syracuse
+213330183,2002,regular-season,2001-11-29,2,172,away,FALSE,Cornell,58,Big Red,Cornell Big Red,Cornell
+213330197,2002,regular-season,2001-11-29,2,197,home,FALSE,Oklahoma State,95,Cowboys,Oklahoma State Cowboys,Oklahoma St
+213330197,2002,regular-season,2001-11-29,2,2443,away,FALSE,New Orleans,47,Privateers,New Orleans Privateers,New Orleans
+213330333,2002,regular-season,2001-11-29,2,333,home,FALSE,Alabama,90,Crimson Tide,Alabama Crimson Tide,Alabama
+213330333,2002,regular-season,2001-11-29,2,2377,away,FALSE,McNeese,61,Cowboys,McNeese Cowboys,McNeese

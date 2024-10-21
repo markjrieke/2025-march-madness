@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400595045,2015-02-09,2,41,home,FALSE,UConn,87,Huskies,UConn Huskies,UConn
-400595045,2015-02-09,2,2579,away,FALSE,South Carolina,62,Gamecocks,South Carolina Gamecocks,South Carolina
-400595862,2015-02-09,2,236,home,FALSE,Chattanooga,68,Mocs,Chattanooga Mocs,Chattanooga
-400595862,2015-02-09,2,2747,away,FALSE,Wofford,41,Terriers,Wofford Terriers,Wofford
-400594916,2015-02-09,2,8,home,FALSE,Arkansas,54,Razorbacks,Arkansas Razorbacks,Arkansas
-400594916,2015-02-09,2,61,away,FALSE,Georgia,48,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400595045,2015,regular-season,2015-02-09,2,41,home,FALSE,UConn,87,Huskies,UConn Huskies,UConn
+400595045,2015,regular-season,2015-02-09,2,2579,away,FALSE,South Carolina,62,Gamecocks,South Carolina Gamecocks,South Carolina
+400595862,2015,regular-season,2015-02-09,2,236,home,FALSE,Chattanooga,68,Mocs,Chattanooga Mocs,Chattanooga
+400595862,2015,regular-season,2015-02-09,2,2747,away,FALSE,Wofford,41,Terriers,Wofford Terriers,Wofford
+400594916,2015,regular-season,2015-02-09,2,8,home,FALSE,Arkansas,54,Razorbacks,Arkansas Razorbacks,Arkansas
+400594916,2015,regular-season,2015-02-09,2,61,away,FALSE,Georgia,48,Lady Bulldogs,Georgia Lady Bulldogs,Georgia

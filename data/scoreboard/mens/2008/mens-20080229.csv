@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280602561,2008-02-29,2,2561,home,FALSE,Siena,94,Saints,Siena Saints,Siena
-280602561,2008-02-29,2,315,away,FALSE,Niagara,78,Purple Eagles,Niagara Purple Eagles,Niagara
-280602520,2008-02-29,2,2520,home,FALSE,Rider,88,Broncs,Rider Broncs,Rider
-280602520,2008-02-29,2,2612,away,FALSE,Saint Peter's,76,Peacocks,Saint Peter's Peacocks,Saint Peter's
-280600225,2008-02-29,2,225,home,FALSE,Brown,64,Bears,Brown Bears,Brown
-280600225,2008-02-29,2,163,away,FALSE,Princeton,57,Tigers,Princeton Tigers,Princeton
-280600172,2008-02-29,2,172,home,FALSE,Cornell,75,Big Red,Cornell Big Red,Cornell
-280600172,2008-02-29,2,159,away,FALSE,Dartmouth,59,Big Green,Dartmouth Big Green,Dartmouth
-280600171,2008-02-29,2,171,home,FALSE,Columbia,61,Lions,Columbia Lions,Columbia
-280600171,2008-02-29,2,108,away,FALSE,Harvard,54,Crimson,Harvard Crimson,Harvard
-280600043,2008-02-29,2,43,home,FALSE,Yale,63,Bulldogs,Yale Bulldogs,Yale
-280600043,2008-02-29,2,219,away,FALSE,Pennsylvania,70,Quakers,Pennsylvania Quakers,Penn
-280602382,2008-02-29,2,2382,home,FALSE,Mercer,61,Bears,Mercer Bears,Mercer
-280602382,2008-02-29,2,338,away,FALSE,Kennesaw State,65,Owls,Kennesaw State Owls,Kennesaw St
-280602368,2008-02-29,2,2368,home,FALSE,Marist,67,Red Foxes,Marist Red Foxes,Marist
-280602368,2008-02-29,2,314,away,FALSE,Iona,60,Gaels,Iona Gaels,Iona
-280602217,2008-02-29,2,2217,home,FALSE,Fairfield,83,Stags,Fairfield Stags,Fairfield
-280602217,2008-02-29,2,2363,away,FALSE,Manhattan,71,Jaspers,Manhattan Jaspers,Manhattan
-280602329,2008-02-29,2,2329,home,FALSE,Lehigh,65,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-280602329,2008-02-29,2,107,away,FALSE,Holy Cross,58,Crusaders,Holy Cross Crusaders,Holy Cross
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280602561,2008,regular-season,2008-02-29,2,2561,home,FALSE,Siena,94,Saints,Siena Saints,Siena
+280602561,2008,regular-season,2008-02-29,2,315,away,FALSE,Niagara,78,Purple Eagles,Niagara Purple Eagles,Niagara
+280602520,2008,regular-season,2008-02-29,2,2520,home,FALSE,Rider,88,Broncs,Rider Broncs,Rider
+280602520,2008,regular-season,2008-02-29,2,2612,away,FALSE,Saint Peter's,76,Peacocks,Saint Peter's Peacocks,Saint Peter's
+280600225,2008,regular-season,2008-02-29,2,225,home,FALSE,Brown,64,Bears,Brown Bears,Brown
+280600225,2008,regular-season,2008-02-29,2,163,away,FALSE,Princeton,57,Tigers,Princeton Tigers,Princeton
+280600172,2008,regular-season,2008-02-29,2,172,home,FALSE,Cornell,75,Big Red,Cornell Big Red,Cornell
+280600172,2008,regular-season,2008-02-29,2,159,away,FALSE,Dartmouth,59,Big Green,Dartmouth Big Green,Dartmouth
+280600171,2008,regular-season,2008-02-29,2,171,home,FALSE,Columbia,61,Lions,Columbia Lions,Columbia
+280600171,2008,regular-season,2008-02-29,2,108,away,FALSE,Harvard,54,Crimson,Harvard Crimson,Harvard
+280600043,2008,regular-season,2008-02-29,2,43,home,FALSE,Yale,63,Bulldogs,Yale Bulldogs,Yale
+280600043,2008,regular-season,2008-02-29,2,219,away,FALSE,Pennsylvania,70,Quakers,Pennsylvania Quakers,Penn
+280602382,2008,regular-season,2008-02-29,2,2382,home,FALSE,Mercer,61,Bears,Mercer Bears,Mercer
+280602382,2008,regular-season,2008-02-29,2,338,away,FALSE,Kennesaw State,65,Owls,Kennesaw State Owls,Kennesaw St
+280602368,2008,regular-season,2008-02-29,2,2368,home,FALSE,Marist,67,Red Foxes,Marist Red Foxes,Marist
+280602368,2008,regular-season,2008-02-29,2,314,away,FALSE,Iona,60,Gaels,Iona Gaels,Iona
+280602217,2008,regular-season,2008-02-29,2,2217,home,FALSE,Fairfield,83,Stags,Fairfield Stags,Fairfield
+280602217,2008,regular-season,2008-02-29,2,2363,away,FALSE,Manhattan,71,Jaspers,Manhattan Jaspers,Manhattan
+280602329,2008,regular-season,2008-02-29,2,2329,home,FALSE,Lehigh,65,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+280602329,2008,regular-season,2008-02-29,2,107,away,FALSE,Holy Cross,58,Crusaders,Holy Cross Crusaders,Holy Cross

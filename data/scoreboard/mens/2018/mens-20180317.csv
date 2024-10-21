@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401025862,2018-03-17,2,222,home,TRUE,Villanova,81,Wildcats,Villanova Wildcats,Villanova
-401025862,2018-03-17,2,333,away,TRUE,Alabama,58,Crimson Tide,Alabama Crimson Tide,Alabama
-401025870,2018-03-17,2,150,home,TRUE,Duke,87,Blue Devils,Duke Blue Devils,Duke
-401025870,2018-03-17,2,227,away,TRUE,Rhode Island,62,Rams,Rhode Island Rams,Rhode Island
-401025858,2018-03-17,2,96,home,TRUE,Kentucky,95,Wildcats,Kentucky Wildcats,Kentucky
-401025858,2018-03-17,2,2084,away,TRUE,Buffalo,75,Bulls,Buffalo Bulls,Buffalo
-401025857,2018-03-17,2,2633,home,TRUE,Tennessee,62,Volunteers,Tennessee Volunteers,Tennessee
-401025857,2018-03-17,2,2350,away,TRUE,Loyola Chicago,63,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-401025871,2018-03-17,2,2305,home,TRUE,Kansas,83,Jayhawks,Kansas Jayhawks,Kansas
-401025871,2018-03-17,2,2550,away,TRUE,Seton Hall,79,Pirates,Seton Hall Pirates,Seton Hall
-401025869,2018-03-17,2,2250,home,TRUE,Gonzaga,90,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401025869,2018-03-17,2,194,away,TRUE,Ohio State,84,Buckeyes,Ohio State Buckeyes,Ohio State
-401025863,2018-03-17,2,2641,home,TRUE,Texas Tech,69,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401025863,2018-03-17,2,57,away,TRUE,Florida,66,Gators,Florida Gators,Florida
-401025868,2018-03-17,2,130,home,TRUE,Michigan,64,Wolverines,Michigan Wolverines,Michigan
-401025868,2018-03-17,2,248,away,TRUE,Houston,63,Cougars,Houston Cougars,Houston
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401025862,2018,post-season,2018-03-17,2,222,home,TRUE,Villanova,81,Wildcats,Villanova Wildcats,Villanova
+401025862,2018,post-season,2018-03-17,2,333,away,TRUE,Alabama,58,Crimson Tide,Alabama Crimson Tide,Alabama
+401025870,2018,post-season,2018-03-17,2,150,home,TRUE,Duke,87,Blue Devils,Duke Blue Devils,Duke
+401025870,2018,post-season,2018-03-17,2,227,away,TRUE,Rhode Island,62,Rams,Rhode Island Rams,Rhode Island
+401025858,2018,post-season,2018-03-17,2,96,home,TRUE,Kentucky,95,Wildcats,Kentucky Wildcats,Kentucky
+401025858,2018,post-season,2018-03-17,2,2084,away,TRUE,Buffalo,75,Bulls,Buffalo Bulls,Buffalo
+401025857,2018,post-season,2018-03-17,2,2633,home,TRUE,Tennessee,62,Volunteers,Tennessee Volunteers,Tennessee
+401025857,2018,post-season,2018-03-17,2,2350,away,TRUE,Loyola Chicago,63,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+401025871,2018,post-season,2018-03-17,2,2305,home,TRUE,Kansas,83,Jayhawks,Kansas Jayhawks,Kansas
+401025871,2018,post-season,2018-03-17,2,2550,away,TRUE,Seton Hall,79,Pirates,Seton Hall Pirates,Seton Hall
+401025869,2018,post-season,2018-03-17,2,2250,home,TRUE,Gonzaga,90,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401025869,2018,post-season,2018-03-17,2,194,away,TRUE,Ohio State,84,Buckeyes,Ohio State Buckeyes,Ohio State
+401025863,2018,post-season,2018-03-17,2,2641,home,TRUE,Texas Tech,69,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401025863,2018,post-season,2018-03-17,2,57,away,TRUE,Florida,66,Gators,Florida Gators,Florida
+401025868,2018,post-season,2018-03-17,2,130,home,TRUE,Michigan,64,Wolverines,Michigan Wolverines,Michigan
+401025868,2018,post-season,2018-03-17,2,248,away,TRUE,Houston,63,Cougars,Houston Cougars,Houston

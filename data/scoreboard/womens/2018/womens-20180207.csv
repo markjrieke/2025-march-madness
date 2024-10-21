@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400995101,2018-02-07,4,97,home,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
-400995101,2018-02-07,4,228,away,FALSE,Clemson,46,Tigers,Clemson Tigers,Clemson
-400995100,2018-02-07,4,150,home,FALSE,Duke,59,Blue Devils,Duke Blue Devils,Duke
-400995100,2018-02-07,4,154,away,FALSE,Wake Forest,51,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-400994110,2018-02-07,4,2628,home,FALSE,TCU,54,Horned Frogs,TCU Horned Frogs,TCU
-400994110,2018-02-07,4,197,away,FALSE,Oklahoma State,71,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400995101,2018,regular-season,2018-02-07,4,97,home,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
+400995101,2018,regular-season,2018-02-07,4,228,away,FALSE,Clemson,46,Tigers,Clemson Tigers,Clemson
+400995100,2018,regular-season,2018-02-07,4,150,home,FALSE,Duke,59,Blue Devils,Duke Blue Devils,Duke
+400995100,2018,regular-season,2018-02-07,4,154,away,FALSE,Wake Forest,51,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+400994110,2018,regular-season,2018-02-07,4,2628,home,FALSE,TCU,54,Horned Frogs,TCU Horned Frogs,TCU
+400994110,2018,regular-season,2018-02-07,4,197,away,FALSE,Oklahoma State,71,Cowgirls,Oklahoma State Cowgirls,Oklahoma St

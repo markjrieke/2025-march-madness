@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401484698,2023-01-14,4,158,home,FALSE,Nebraska,67,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401484698,2023-01-14,4,194,away,FALSE,Ohio State,76,Buckeyes,Ohio State Buckeyes,Ohio State
-401484696,2023-01-14,4,2294,home,FALSE,Iowa,108,Hawkeyes,Iowa Hawkeyes,Iowa
-401484696,2023-01-14,4,213,away,FALSE,Penn State,67,Lady Lions,Penn State Lady Lions,Penn State
-401484697,2023-01-14,4,130,home,FALSE,Michigan,70,Wolverines,Michigan Wolverines,Michigan
-401484697,2023-01-14,4,127,away,FALSE,Michigan State,55,Spartans,Michigan State Spartans,Michigan St
-401494150,2023-01-14,4,201,home,FALSE,Oklahoma,80,Sooners,Oklahoma Sooners,Oklahoma
-401494150,2023-01-14,4,2305,away,FALSE,Kansas,74,Jayhawks,Kansas Jayhawks,Kansas
-401474728,2023-01-14,4,2501,home,FALSE,Portland,66,Pilots,Portland Pilots,Portland
-401474728,2023-01-14,4,2250,away,FALSE,Gonzaga,73,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401487192,2023-01-14,4,222,home,FALSE,Villanova,64,Wildcats,Villanova Wildcats,Villanova
-401487192,2023-01-14,4,2599,away,FALSE,St. John's,61,Red Storm,St. John's Red Storm,St John's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401484698,2023,regular-season,2023-01-14,4,158,home,FALSE,Nebraska,67,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401484698,2023,regular-season,2023-01-14,4,194,away,FALSE,Ohio State,76,Buckeyes,Ohio State Buckeyes,Ohio State
+401484696,2023,regular-season,2023-01-14,4,2294,home,FALSE,Iowa,108,Hawkeyes,Iowa Hawkeyes,Iowa
+401484696,2023,regular-season,2023-01-14,4,213,away,FALSE,Penn State,67,Lady Lions,Penn State Lady Lions,Penn State
+401484697,2023,regular-season,2023-01-14,4,130,home,FALSE,Michigan,70,Wolverines,Michigan Wolverines,Michigan
+401484697,2023,regular-season,2023-01-14,4,127,away,FALSE,Michigan State,55,Spartans,Michigan State Spartans,Michigan St
+401494150,2023,regular-season,2023-01-14,4,201,home,FALSE,Oklahoma,80,Sooners,Oklahoma Sooners,Oklahoma
+401494150,2023,regular-season,2023-01-14,4,2305,away,FALSE,Kansas,74,Jayhawks,Kansas Jayhawks,Kansas
+401474728,2023,regular-season,2023-01-14,4,2501,home,FALSE,Portland,66,Pilots,Portland Pilots,Portland
+401474728,2023,regular-season,2023-01-14,4,2250,away,FALSE,Gonzaga,73,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401487192,2023,regular-season,2023-01-14,4,222,home,FALSE,Villanova,64,Wildcats,Villanova Wildcats,Villanova
+401487192,2023,regular-season,2023-01-14,4,2599,away,FALSE,St. John's,61,Red Storm,St. John's Red Storm,St John's

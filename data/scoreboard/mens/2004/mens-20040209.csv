@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240402550,2004-02-09,4,2550,home,FALSE,Seton Hall,68,Pirates,Seton Hall Pirates,Seton Hall
-240402550,2004-02-09,4,221,away,FALSE,Pittsburgh,67,Panthers,Pittsburgh Panthers,Pitt
-240400087,2004-02-09,2,87,home,FALSE,Notre Dame,80,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-240400087,2004-02-09,2,41,away,FALSE,UConn,74,Huskies,UConn Huskies,UConn
-240400197,2004-02-09,2,197,home,FALSE,Oklahoma State,80,Cowboys,Oklahoma State Cowboys,Oklahoma St
-240400197,2004-02-09,2,2305,away,FALSE,Kansas,60,Jayhawks,Kansas Jayhawks,Kansas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240402550,2004,regular-season,2004-02-09,4,2550,home,FALSE,Seton Hall,68,Pirates,Seton Hall Pirates,Seton Hall
+240402550,2004,regular-season,2004-02-09,4,221,away,FALSE,Pittsburgh,67,Panthers,Pittsburgh Panthers,Pitt
+240400087,2004,regular-season,2004-02-09,2,87,home,FALSE,Notre Dame,80,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+240400087,2004,regular-season,2004-02-09,2,41,away,FALSE,UConn,74,Huskies,UConn Huskies,UConn
+240400197,2004,regular-season,2004-02-09,2,197,home,FALSE,Oklahoma State,80,Cowboys,Oklahoma State Cowboys,Oklahoma St
+240400197,2004,regular-season,2004-02-09,2,2305,away,FALSE,Kansas,60,Jayhawks,Kansas Jayhawks,Kansas

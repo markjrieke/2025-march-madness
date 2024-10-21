@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401177280,2019-11-20,4,120,home,FALSE,Maryland,88,Terrapins,Maryland Terrapins,Maryland
-401177280,2019-11-20,4,45,away,FALSE,George Washington,54,Revolutionaries,George Washington Revolutionaries,G Washington
-401166930,2019-11-20,4,8,home,FALSE,Arkansas,91,Razorbacks,Arkansas Razorbacks,Arkansas
-401166930,2019-11-20,4,2057,away,FALSE,Belmont,60,Bruins,Belmont Bruins,Belmont
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401177280,2020,regular-season,2019-11-20,4,120,home,FALSE,Maryland,88,Terrapins,Maryland Terrapins,Maryland
+401177280,2020,regular-season,2019-11-20,4,45,away,FALSE,George Washington,54,Revolutionaries,George Washington Revolutionaries,G Washington
+401166930,2020,regular-season,2019-11-20,4,8,home,FALSE,Arkansas,91,Razorbacks,Arkansas Razorbacks,Arkansas
+401166930,2020,regular-season,2019-11-20,4,2057,away,FALSE,Belmont,60,Bruins,Belmont Bruins,Belmont

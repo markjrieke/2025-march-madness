@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401092817,2018-11-19,4,68,home,FALSE,Boise State,55,Broncos,Boise State Broncos,Boise St
-401092817,2018-11-19,4,97,away,FALSE,Louisville,74,Cardinals,Louisville Cardinals,Louisville
-401091437,2018-11-19,4,142,home,FALSE,Missouri,59,Tigers,Missouri Tigers,Missouri
-401091437,2018-11-19,4,2565,away,FALSE,SIU Edwardsville,36,Cougars,SIU Edwardsville Cougars,SIUE
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401092817,2019,regular-season,2018-11-19,4,68,home,FALSE,Boise State,55,Broncos,Boise State Broncos,Boise St
+401092817,2019,regular-season,2018-11-19,4,97,away,FALSE,Louisville,74,Cardinals,Louisville Cardinals,Louisville
+401091437,2019,regular-season,2018-11-19,4,142,home,FALSE,Missouri,59,Tigers,Missouri Tigers,Missouri
+401091437,2019,regular-season,2018-11-19,4,2565,away,FALSE,SIU Edwardsville,36,Cougars,SIU Edwardsville Cougars,SIUE

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260512492,2006-02-20,2,2492,home,FALSE,Pepperdine,71,Waves,Pepperdine Waves,Pepperdine
-260512492,2006-02-20,2,2250,away,FALSE,Gonzaga,81,Bulldogs,Gonzaga Bulldogs,Gonzaga
-260510183,2006-02-20,2,183,home,FALSE,Syracuse,60,Orange,Syracuse Orange,Syracuse
-260510183,2006-02-20,2,277,away,FALSE,West Virginia,58,Mountaineers,West Virginia Mountaineers,West Virginia
-260512641,2006-02-20,2,2641,home,FALSE,Texas Tech,70,Red Raiders,Texas Tech Red Raiders,Texas Tech
-260512641,2006-02-20,2,201,away,FALSE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
-260510070,2006-02-20,2,70,home,FALSE,Idaho,68,Vandals,Idaho Vandals,Idaho
-260510070,2006-02-20,2,2440,away,FALSE,Nevada,74,Wolf Pack,Nevada Wolf Pack,Nevada
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260512492,2006,regular-season,2006-02-20,2,2492,home,FALSE,Pepperdine,71,Waves,Pepperdine Waves,Pepperdine
+260512492,2006,regular-season,2006-02-20,2,2250,away,FALSE,Gonzaga,81,Bulldogs,Gonzaga Bulldogs,Gonzaga
+260510183,2006,regular-season,2006-02-20,2,183,home,FALSE,Syracuse,60,Orange,Syracuse Orange,Syracuse
+260510183,2006,regular-season,2006-02-20,2,277,away,FALSE,West Virginia,58,Mountaineers,West Virginia Mountaineers,West Virginia
+260512641,2006,regular-season,2006-02-20,2,2641,home,FALSE,Texas Tech,70,Red Raiders,Texas Tech Red Raiders,Texas Tech
+260512641,2006,regular-season,2006-02-20,2,201,away,FALSE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
+260510070,2006,regular-season,2006-02-20,2,70,home,FALSE,Idaho,68,Vandals,Idaho Vandals,Idaho
+260510070,2006,regular-season,2006-02-20,2,2440,away,FALSE,Nevada,74,Wolf Pack,Nevada Wolf Pack,Nevada

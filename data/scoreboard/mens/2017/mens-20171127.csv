@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400987973,2017-11-27,2,2132,home,FALSE,Cincinnati,83,Bearcats,Cincinnati Bearcats,Cincinnati
-400987973,2017-11-27,2,2011,away,FALSE,Alabama State,51,Hornets,Alabama State Hornets,Alabama St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400987973,2018,regular-season,2017-11-27,2,2132,home,FALSE,Cincinnati,83,Bearcats,Cincinnati Bearcats,Cincinnati
+400987973,2018,regular-season,2017-11-27,2,2011,away,FALSE,Alabama State,51,Hornets,Alabama State Hornets,Alabama St

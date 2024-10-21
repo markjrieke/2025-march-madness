@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290552507,2009-02-24,2,2507,home,FALSE,Providence,81,Friars,Providence Friars,Providence
-290552507,2009-02-24,2,221,away,FALSE,Pittsburgh,73,Panthers,Pittsburgh Panthers,Pitt
-290550099,2009-02-24,2,99,home,FALSE,LSU,81,Tigers,LSU Tigers,LSU
-290550099,2009-02-24,2,57,away,FALSE,Florida,75,Gators,Florida Gators,Florida
-290550103,2009-02-24,2,103,home,FALSE,Boston College,72,Eagles,Boston College Eagles,Boston College
-290550103,2009-02-24,2,52,away,FALSE,Florida State,67,Seminoles,Florida State Seminoles,Florida St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290552507,2009,regular-season,2009-02-24,2,2507,home,FALSE,Providence,81,Friars,Providence Friars,Providence
+290552507,2009,regular-season,2009-02-24,2,221,away,FALSE,Pittsburgh,73,Panthers,Pittsburgh Panthers,Pitt
+290550099,2009,regular-season,2009-02-24,2,99,home,FALSE,LSU,81,Tigers,LSU Tigers,LSU
+290550099,2009,regular-season,2009-02-24,2,57,away,FALSE,Florida,75,Gators,Florida Gators,Florida
+290550103,2009,regular-season,2009-02-24,2,103,home,FALSE,Boston College,72,Eagles,Boston College Eagles,Boston College
+290550103,2009,regular-season,2009-02-24,2,52,away,FALSE,Florida State,67,Seminoles,Florida State Seminoles,Florida St

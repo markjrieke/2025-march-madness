@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220362579,2002-02-05,2,2579,home,FALSE,South Carolina,63,Gamecocks,South Carolina Gamecocks,South Carolina
-220362579,2002-02-05,2,57,away,FALSE,Florida,72,Gators,Florida Gators,Florida
-220360222,2002-02-05,2,222,home,FALSE,Villanova,56,Wildcats,Villanova Wildcats,Villanova
-220360222,2002-02-05,2,2390,away,FALSE,Miami,65,Hurricanes,Miami Hurricanes,Miami
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220362579,2002,regular-season,2002-02-05,2,2579,home,FALSE,South Carolina,63,Gamecocks,South Carolina Gamecocks,South Carolina
+220362579,2002,regular-season,2002-02-05,2,57,away,FALSE,Florida,72,Gators,Florida Gators,Florida
+220360222,2002,regular-season,2002-02-05,2,222,home,FALSE,Villanova,56,Wildcats,Villanova Wildcats,Villanova
+220360222,2002,regular-season,2002-02-05,2,2390,away,FALSE,Miami,65,Hurricanes,Miami Hurricanes,Miami

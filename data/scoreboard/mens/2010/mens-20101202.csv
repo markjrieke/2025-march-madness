@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303362305,2010-12-02,2,2305,home,FALSE,Kansas,77,Jayhawks,Kansas Jayhawks,Kansas
-303362305,2010-12-02,2,26,away,FALSE,UCLA,76,Bruins,UCLA Bruins,UCLA
-303362483,2010-12-02,2,2483,home,FALSE,Oregon,80,Ducks,Oregon Ducks,Oregon
-303362483,2010-12-02,2,142,away,FALSE,Missouri,83,Tigers,Missouri Tigers,Missouri
-303360239,2010-12-02,2,239,home,FALSE,Baylor,68,Bears,Baylor Bears,Baylor
-303360239,2010-12-02,2,9,away,FALSE,Arizona State,54,Sun Devils,Arizona State Sun Devils,Arizona St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303362305,2011,regular-season,2010-12-02,2,2305,home,FALSE,Kansas,77,Jayhawks,Kansas Jayhawks,Kansas
+303362305,2011,regular-season,2010-12-02,2,26,away,FALSE,UCLA,76,Bruins,UCLA Bruins,UCLA
+303362483,2011,regular-season,2010-12-02,2,2483,home,FALSE,Oregon,80,Ducks,Oregon Ducks,Oregon
+303362483,2011,regular-season,2010-12-02,2,142,away,FALSE,Missouri,83,Tigers,Missouri Tigers,Missouri
+303360239,2011,regular-season,2010-12-02,2,239,home,FALSE,Baylor,68,Bears,Baylor Bears,Baylor
+303360239,2011,regular-season,2010-12-02,2,9,away,FALSE,Arizona State,54,Sun Devils,Arizona State Sun Devils,Arizona St

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310270150,2011-01-27,2,150,home,FALSE,Duke,84,Blue Devils,Duke Blue Devils,Duke
-310270150,2011-01-27,2,103,away,FALSE,Boston College,68,Eagles,Boston College Eagles,Boston College
-310270344,2011-01-27,2,344,home,FALSE,Mississippi State,74,Bulldogs,Mississippi State Bulldogs,Mississippi St
-310270344,2011-01-27,2,238,away,FALSE,Vanderbilt,81,Commodores,Vanderbilt Commodores,Vanderbilt
-310270084,2011-01-27,2,84,home,FALSE,Indiana,52,Hoosiers,Indiana Hoosiers,Indiana
-310270084,2011-01-27,2,356,away,FALSE,Illinois,49,Fighting Illini,Illinois Fighting Illini,Illinois
-310270127,2011-01-27,2,127,home,FALSE,Michigan State,57,Spartans,Michigan State Spartans,Michigan St
-310270127,2011-01-27,2,130,away,FALSE,Michigan,61,Wolverines,Michigan Wolverines,Michigan
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310270150,2011,regular-season,2011-01-27,2,150,home,FALSE,Duke,84,Blue Devils,Duke Blue Devils,Duke
+310270150,2011,regular-season,2011-01-27,2,103,away,FALSE,Boston College,68,Eagles,Boston College Eagles,Boston College
+310270344,2011,regular-season,2011-01-27,2,344,home,FALSE,Mississippi State,74,Bulldogs,Mississippi State Bulldogs,Mississippi St
+310270344,2011,regular-season,2011-01-27,2,238,away,FALSE,Vanderbilt,81,Commodores,Vanderbilt Commodores,Vanderbilt
+310270084,2011,regular-season,2011-01-27,2,84,home,FALSE,Indiana,52,Hoosiers,Indiana Hoosiers,Indiana
+310270084,2011,regular-season,2011-01-27,2,356,away,FALSE,Illinois,49,Fighting Illini,Illinois Fighting Illini,Illinois
+310270127,2011,regular-season,2011-01-27,2,127,home,FALSE,Michigan State,57,Spartans,Michigan State Spartans,Michigan St
+310270127,2011,regular-season,2011-01-27,2,130,away,FALSE,Michigan,61,Wolverines,Michigan Wolverines,Michigan

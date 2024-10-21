@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290360258,2009-02-05,2,258,home,FALSE,Virginia,67,Cavaliers,Virginia Cavaliers,Virginia
-290360258,2009-02-05,2,150,away,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
-290360002,2009-02-05,2,2,home,FALSE,Auburn,72,Tigers,Auburn Tigers,Auburn
-290360002,2009-02-05,2,145,away,FALSE,Ole Miss,65,Rebels,Ole Miss Rebels,Ole Miss
-290360153,2009-02-05,2,153,home,FALSE,North Carolina,93,Tar Heels,North Carolina Tar Heels,North Carolina
-290360153,2009-02-05,2,259,away,FALSE,Virginia Tech,77,Hokies,Virginia Tech Hokies,Virginia Tech
-290360333,2009-02-05,2,333,home,FALSE,Alabama,71,Crimson Tide,Alabama Crimson Tide,Alabama
-290360333,2009-02-05,2,57,away,FALSE,Florida,92,Gators,Florida Gators,Florida
-290362633,2009-02-05,2,2633,home,FALSE,Tennessee,73,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-290362633,2009-02-05,2,61,away,FALSE,Georgia,43,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-290360120,2009-02-05,2,120,home,FALSE,Maryland,87,Terrapins,Maryland Terrapins,Maryland
-290360120,2009-02-05,2,152,away,FALSE,NC State,66,Wolfpack,NC State Wolfpack,NC State
-290360194,2009-02-05,2,194,home,FALSE,Ohio State,59,Buckeyes,Ohio State Buckeyes,Ohio State
-290360194,2009-02-05,2,2509,away,FALSE,Purdue,47,Boilermakers,Purdue Boilermakers,Purdue
-290360103,2009-02-05,2,103,home,FALSE,Boston College,53,Eagles,Boston College Eagles,Boston College
-290360103,2009-02-05,2,52,away,FALSE,Florida State,64,Seminoles,Florida State Seminoles,Florida St
-290360197,2009-02-05,2,197,home,FALSE,Oklahoma State,74,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-290360197,2009-02-05,2,251,away,FALSE,Texas,91,Longhorns,Texas Longhorns,Texas
-290360344,2009-02-05,2,344,home,FALSE,Mississippi State,66,Bulldogs,Mississippi State Bulldogs,Mississippi St
-290360344,2009-02-05,2,238,away,FALSE,Vanderbilt,61,Commodores,Vanderbilt Commodores,Vanderbilt
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290360258,2009,regular-season,2009-02-05,2,258,home,FALSE,Virginia,67,Cavaliers,Virginia Cavaliers,Virginia
+290360258,2009,regular-season,2009-02-05,2,150,away,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
+290360002,2009,regular-season,2009-02-05,2,2,home,FALSE,Auburn,72,Tigers,Auburn Tigers,Auburn
+290360002,2009,regular-season,2009-02-05,2,145,away,FALSE,Ole Miss,65,Rebels,Ole Miss Rebels,Ole Miss
+290360153,2009,regular-season,2009-02-05,2,153,home,FALSE,North Carolina,93,Tar Heels,North Carolina Tar Heels,North Carolina
+290360153,2009,regular-season,2009-02-05,2,259,away,FALSE,Virginia Tech,77,Hokies,Virginia Tech Hokies,Virginia Tech
+290360333,2009,regular-season,2009-02-05,2,333,home,FALSE,Alabama,71,Crimson Tide,Alabama Crimson Tide,Alabama
+290360333,2009,regular-season,2009-02-05,2,57,away,FALSE,Florida,92,Gators,Florida Gators,Florida
+290362633,2009,regular-season,2009-02-05,2,2633,home,FALSE,Tennessee,73,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+290362633,2009,regular-season,2009-02-05,2,61,away,FALSE,Georgia,43,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+290360120,2009,regular-season,2009-02-05,2,120,home,FALSE,Maryland,87,Terrapins,Maryland Terrapins,Maryland
+290360120,2009,regular-season,2009-02-05,2,152,away,FALSE,NC State,66,Wolfpack,NC State Wolfpack,NC State
+290360194,2009,regular-season,2009-02-05,2,194,home,FALSE,Ohio State,59,Buckeyes,Ohio State Buckeyes,Ohio State
+290360194,2009,regular-season,2009-02-05,2,2509,away,FALSE,Purdue,47,Boilermakers,Purdue Boilermakers,Purdue
+290360103,2009,regular-season,2009-02-05,2,103,home,FALSE,Boston College,53,Eagles,Boston College Eagles,Boston College
+290360103,2009,regular-season,2009-02-05,2,52,away,FALSE,Florida State,64,Seminoles,Florida State Seminoles,Florida St
+290360197,2009,regular-season,2009-02-05,2,197,home,FALSE,Oklahoma State,74,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+290360197,2009,regular-season,2009-02-05,2,251,away,FALSE,Texas,91,Longhorns,Texas Longhorns,Texas
+290360344,2009,regular-season,2009-02-05,2,344,home,FALSE,Mississippi State,66,Bulldogs,Mississippi State Bulldogs,Mississippi St
+290360344,2009,regular-season,2009-02-05,2,238,away,FALSE,Vanderbilt,61,Commodores,Vanderbilt Commodores,Vanderbilt

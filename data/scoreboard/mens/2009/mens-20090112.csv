@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290120201,2009-01-12,2,201,home,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
-290120201,2009-01-12,2,251,away,FALSE,Texas,63,Longhorns,Texas Longhorns,Texas
-290120097,2009-01-12,3,97,home,FALSE,Louisville,87,Cardinals,Louisville Cardinals,Louisville
-290120097,2009-01-12,3,87,away,FALSE,Notre Dame,73,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290120201,2009,regular-season,2009-01-12,2,201,home,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
+290120201,2009,regular-season,2009-01-12,2,251,away,FALSE,Texas,63,Longhorns,Texas Longhorns,Texas
+290120097,2009,regular-season,2009-01-12,3,97,home,FALSE,Louisville,87,Cardinals,Louisville Cardinals,Louisville
+290120097,2009,regular-season,2009-01-12,3,87,away,FALSE,Notre Dame,73,Fighting Irish,Notre Dame Fighting Irish,Notre Dame

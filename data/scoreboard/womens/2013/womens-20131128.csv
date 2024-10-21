@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400509761,2013-11-28,2,9,home,TRUE,Arizona State,84,Sun Devils,Arizona State Sun Devils,Arizona St
-400509761,2013-11-28,2,356,away,TRUE,Illinois,60,Fighting Illini,Illinois Fighting Illini,Illinois
-400508701,2013-11-28,2,150,home,TRUE,Duke,81,Blue Devils,Duke Blue Devils,Duke
-400508701,2013-11-28,2,2752,away,TRUE,Xavier,54,Musketeers,Xavier Musketeers,Xavier
-400508350,2013-11-28,2,2633,home,TRUE,Tennessee,76,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400508350,2013-11-28,2,258,away,TRUE,Virginia,67,Cavaliers,Virginia Cavaliers,Virginia
-400508702,2013-11-28,2,153,home,TRUE,North Carolina,93,Tar Heels,North Carolina Tar Heels,North Carolina
-400508702,2013-11-28,2,2032,away,TRUE,Arkansas State,60,Red Wolves,Arkansas State Red Wolves,Arkansas St
-400503681,2013-11-28,2,2305,home,TRUE,Kansas,68,Jayhawks,Kansas Jayhawks,Kansas
-400503681,2013-11-28,2,2117,away,TRUE,Central Michigan,63,Chippewas,Central Michigan Chippewas,C Michigan
-400503683,2013-11-28,2,2306,home,TRUE,Kansas State,57,Wildcats,Kansas State Wildcats,Kansas St
-400503683,2013-11-28,2,2567,away,TRUE,SMU,68,Mustangs,SMU Mustangs,SMU
-400518314,2013-11-28,2,2571,home,TRUE,South Dakota State,60,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-400518314,2013-11-28,2,24,away,TRUE,Stanford,80,Cardinal,Stanford Cardinal,Stanford
-400508703,2013-11-28,2,350,home,TRUE,UNC Wilmington,54,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
-400508703,2013-11-28,2,103,away,TRUE,Boston College,75,Eagles,Boston College Eagles,Boston College
-400508351,2013-11-28,2,245,home,TRUE,Texas A&M,69,Aggies,Texas A&M Aggies,Texas A&M
-400508351,2013-11-28,2,235,away,TRUE,Memphis,59,Tigers,Memphis Tigers,Memphis
-400503684,2013-11-28,2,2509,home,TRUE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
-400503684,2013-11-28,2,2628,away,TRUE,TCU,68,Horned Frogs,TCU Horned Frogs,TCU
-400503682,2013-11-28,2,183,home,TRUE,Syracuse,77,Orange,Syracuse Orange,Syracuse
-400503682,2013-11-28,2,251,away,TRUE,Texas,65,Longhorns,Texas Longhorns,Texas
-400510535,2013-11-28,2,30,home,TRUE,USC,65,Trojans,USC Trojans,USC
-400510535,2013-11-28,2,2294,away,TRUE,Iowa,78,Hawkeyes,Iowa Hawkeyes,Iowa
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400509761,2014,regular-season,2013-11-28,2,9,home,TRUE,Arizona State,84,Sun Devils,Arizona State Sun Devils,Arizona St
+400509761,2014,regular-season,2013-11-28,2,356,away,TRUE,Illinois,60,Fighting Illini,Illinois Fighting Illini,Illinois
+400508701,2014,regular-season,2013-11-28,2,150,home,TRUE,Duke,81,Blue Devils,Duke Blue Devils,Duke
+400508701,2014,regular-season,2013-11-28,2,2752,away,TRUE,Xavier,54,Musketeers,Xavier Musketeers,Xavier
+400508350,2014,regular-season,2013-11-28,2,2633,home,TRUE,Tennessee,76,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400508350,2014,regular-season,2013-11-28,2,258,away,TRUE,Virginia,67,Cavaliers,Virginia Cavaliers,Virginia
+400508702,2014,regular-season,2013-11-28,2,153,home,TRUE,North Carolina,93,Tar Heels,North Carolina Tar Heels,North Carolina
+400508702,2014,regular-season,2013-11-28,2,2032,away,TRUE,Arkansas State,60,Red Wolves,Arkansas State Red Wolves,Arkansas St
+400503681,2014,regular-season,2013-11-28,2,2305,home,TRUE,Kansas,68,Jayhawks,Kansas Jayhawks,Kansas
+400503681,2014,regular-season,2013-11-28,2,2117,away,TRUE,Central Michigan,63,Chippewas,Central Michigan Chippewas,C Michigan
+400503683,2014,regular-season,2013-11-28,2,2306,home,TRUE,Kansas State,57,Wildcats,Kansas State Wildcats,Kansas St
+400503683,2014,regular-season,2013-11-28,2,2567,away,TRUE,SMU,68,Mustangs,SMU Mustangs,SMU
+400518314,2014,regular-season,2013-11-28,2,2571,home,TRUE,South Dakota State,60,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+400518314,2014,regular-season,2013-11-28,2,24,away,TRUE,Stanford,80,Cardinal,Stanford Cardinal,Stanford
+400508703,2014,regular-season,2013-11-28,2,350,home,TRUE,UNC Wilmington,54,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+400508703,2014,regular-season,2013-11-28,2,103,away,TRUE,Boston College,75,Eagles,Boston College Eagles,Boston College
+400508351,2014,regular-season,2013-11-28,2,245,home,TRUE,Texas A&M,69,Aggies,Texas A&M Aggies,Texas A&M
+400508351,2014,regular-season,2013-11-28,2,235,away,TRUE,Memphis,59,Tigers,Memphis Tigers,Memphis
+400503684,2014,regular-season,2013-11-28,2,2509,home,TRUE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
+400503684,2014,regular-season,2013-11-28,2,2628,away,TRUE,TCU,68,Horned Frogs,TCU Horned Frogs,TCU
+400503682,2014,regular-season,2013-11-28,2,183,home,TRUE,Syracuse,77,Orange,Syracuse Orange,Syracuse
+400503682,2014,regular-season,2013-11-28,2,251,away,TRUE,Texas,65,Longhorns,Texas Longhorns,Texas
+400510535,2014,regular-season,2013-11-28,2,30,home,TRUE,USC,65,Trojans,USC Trojans,USC
+400510535,2014,regular-season,2013-11-28,2,2294,away,TRUE,Iowa,78,Hawkeyes,Iowa Hawkeyes,Iowa

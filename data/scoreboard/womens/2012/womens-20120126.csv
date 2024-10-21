@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320260201,2012-01-26,2,201,home,FALSE,Oklahoma,58,Sooners,Oklahoma Sooners,Oklahoma
-320260201,2012-01-26,2,239,away,FALSE,Baylor,89,Bears,Baylor Bears,Baylor
-320260002,2012-01-26,2,2,home,FALSE,Auburn,48,Tigers,Auburn Tigers,Auburn
-320260002,2012-01-26,2,96,away,FALSE,Kentucky,66,Wildcats,Kentucky Wildcats,Kentucky
-320260333,2012-01-26,2,333,home,FALSE,Alabama,56,Crimson Tide,Alabama Crimson Tide,Alabama
-320260333,2012-01-26,2,2633,away,FALSE,Tennessee,86,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-320260120,2012-01-26,2,120,home,FALSE,Maryland,69,Terrapins,Maryland Terrapins,Maryland
-320260120,2012-01-26,2,259,away,FALSE,Virginia Tech,75,Hokies,Virginia Tech Hokies,Virginia Tech
-320260084,2012-01-26,2,84,home,FALSE,Indiana,55,Hoosiers,Indiana Hoosiers,Indiana
-320260084,2012-01-26,2,194,away,FALSE,Ohio State,73,Buckeyes,Ohio State Buckeyes,Ohio State
-320262390,2012-01-26,2,2390,home,FALSE,Miami,64,Hurricanes,Miami Hurricanes,Miami
-320262390,2012-01-26,2,154,away,FALSE,Wake Forest,39,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-320262086,2012-01-26,2,2086,home,FALSE,Butler,36,Bulldogs,Butler Bulldogs,Butler
-320262086,2012-01-26,2,2739,away,FALSE,Green Bay,60,Phoenix,Green Bay Phoenix,Green Bay
-320260077,2012-01-26,2,77,home,FALSE,Northwestern,70,Wildcats,Northwestern Wildcats,Northwestern
-320260077,2012-01-26,2,2509,away,FALSE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
-320260048,2012-01-26,2,48,home,FALSE,Delaware,84,Blue Hens,Delaware Blue Hens,Delaware
-320260048,2012-01-26,2,2275,away,FALSE,Hofstra,66,Pride,Hofstra Pride,Hofstra
-320260238,2012-01-26,2,238,home,FALSE,Vanderbilt,68,Commodores,Vanderbilt Commodores,Vanderbilt
-320260238,2012-01-26,2,61,away,FALSE,Georgia,48,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-320260130,2012-01-26,2,130,home,FALSE,Michigan,56,Wolverines,Michigan Wolverines,Michigan
-320260130,2012-01-26,2,213,away,FALSE,Penn State,77,Lady Lions,Penn State Lady Lions,Penn State
-320260158,2012-01-26,2,158,home,FALSE,Nebraska,60,Cornhuskers,Nebraska Cornhuskers,Nebraska
-320260158,2012-01-26,2,2294,away,FALSE,Iowa,53,Hawkeyes,Iowa Hawkeyes,Iowa
-320262250,2012-01-26,2,2250,home,FALSE,Gonzaga,79,Bulldogs,Gonzaga Bulldogs,Gonzaga
-320262250,2012-01-26,2,2351,away,FALSE,Loyola Marymount,61,Lions,Loyola Marymount Lions,LMU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320260201,2012,regular-season,2012-01-26,2,201,home,FALSE,Oklahoma,58,Sooners,Oklahoma Sooners,Oklahoma
+320260201,2012,regular-season,2012-01-26,2,239,away,FALSE,Baylor,89,Bears,Baylor Bears,Baylor
+320260002,2012,regular-season,2012-01-26,2,2,home,FALSE,Auburn,48,Tigers,Auburn Tigers,Auburn
+320260002,2012,regular-season,2012-01-26,2,96,away,FALSE,Kentucky,66,Wildcats,Kentucky Wildcats,Kentucky
+320260333,2012,regular-season,2012-01-26,2,333,home,FALSE,Alabama,56,Crimson Tide,Alabama Crimson Tide,Alabama
+320260333,2012,regular-season,2012-01-26,2,2633,away,FALSE,Tennessee,86,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+320260120,2012,regular-season,2012-01-26,2,120,home,FALSE,Maryland,69,Terrapins,Maryland Terrapins,Maryland
+320260120,2012,regular-season,2012-01-26,2,259,away,FALSE,Virginia Tech,75,Hokies,Virginia Tech Hokies,Virginia Tech
+320260084,2012,regular-season,2012-01-26,2,84,home,FALSE,Indiana,55,Hoosiers,Indiana Hoosiers,Indiana
+320260084,2012,regular-season,2012-01-26,2,194,away,FALSE,Ohio State,73,Buckeyes,Ohio State Buckeyes,Ohio State
+320262390,2012,regular-season,2012-01-26,2,2390,home,FALSE,Miami,64,Hurricanes,Miami Hurricanes,Miami
+320262390,2012,regular-season,2012-01-26,2,154,away,FALSE,Wake Forest,39,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+320262086,2012,regular-season,2012-01-26,2,2086,home,FALSE,Butler,36,Bulldogs,Butler Bulldogs,Butler
+320262086,2012,regular-season,2012-01-26,2,2739,away,FALSE,Green Bay,60,Phoenix,Green Bay Phoenix,Green Bay
+320260077,2012,regular-season,2012-01-26,2,77,home,FALSE,Northwestern,70,Wildcats,Northwestern Wildcats,Northwestern
+320260077,2012,regular-season,2012-01-26,2,2509,away,FALSE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
+320260048,2012,regular-season,2012-01-26,2,48,home,FALSE,Delaware,84,Blue Hens,Delaware Blue Hens,Delaware
+320260048,2012,regular-season,2012-01-26,2,2275,away,FALSE,Hofstra,66,Pride,Hofstra Pride,Hofstra
+320260238,2012,regular-season,2012-01-26,2,238,home,FALSE,Vanderbilt,68,Commodores,Vanderbilt Commodores,Vanderbilt
+320260238,2012,regular-season,2012-01-26,2,61,away,FALSE,Georgia,48,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+320260130,2012,regular-season,2012-01-26,2,130,home,FALSE,Michigan,56,Wolverines,Michigan Wolverines,Michigan
+320260130,2012,regular-season,2012-01-26,2,213,away,FALSE,Penn State,77,Lady Lions,Penn State Lady Lions,Penn State
+320260158,2012,regular-season,2012-01-26,2,158,home,FALSE,Nebraska,60,Cornhuskers,Nebraska Cornhuskers,Nebraska
+320260158,2012,regular-season,2012-01-26,2,2294,away,FALSE,Iowa,53,Hawkeyes,Iowa Hawkeyes,Iowa
+320262250,2012,regular-season,2012-01-26,2,2250,home,FALSE,Gonzaga,79,Bulldogs,Gonzaga Bulldogs,Gonzaga
+320262250,2012,regular-season,2012-01-26,2,2351,away,FALSE,Loyola Marymount,61,Lions,Loyola Marymount Lions,LMU

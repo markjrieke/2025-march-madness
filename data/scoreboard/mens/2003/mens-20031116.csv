@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-233200301,2003-11-16,2,301,home,FALSE,San Diego,60,Toreros,San Diego Toreros,San Diego
-233200301,2003-11-16,2,300,away,FALSE,UC Irvine,65,Anteaters,UC Irvine Anteaters,UC Irvine
-233200160,2003-11-16,2,160,home,FALSE,New Hampshire,94,Wildcats,New Hampshire Wildcats,New Hampshire
-233200160,2003-11-16,2,116,away,FALSE,Mount St. Mary's,68,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-233200195,2003-11-16,2,2154,home,FALSE,Coppin State,47,Eagles,Coppin State Eagles,Coppin St
-233200195,2003-11-16,2,195,away,FALSE,Ohio,51,Bobcats,Ohio Bobcats,Ohio
-233202473,2003-11-16,2,2473,home,FALSE,Oakland,79,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-233202473,2003-11-16,2,82,away,FALSE,UIC,66,Flames,UIC Flames,UIC
-233202752,2003-11-16,2,2752,home,FALSE,Xavier,72,Musketeers,Xavier Musketeers,Xavier
-233202752,2003-11-16,2,2382,away,FALSE,Mercer,58,Bears,Mercer Bears,Mercer
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+233200301,2004,regular-season,2003-11-16,2,301,home,FALSE,San Diego,60,Toreros,San Diego Toreros,San Diego
+233200301,2004,regular-season,2003-11-16,2,300,away,FALSE,UC Irvine,65,Anteaters,UC Irvine Anteaters,UC Irvine
+233200160,2004,regular-season,2003-11-16,2,160,home,FALSE,New Hampshire,94,Wildcats,New Hampshire Wildcats,New Hampshire
+233200160,2004,regular-season,2003-11-16,2,116,away,FALSE,Mount St. Mary's,68,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+233200195,2004,regular-season,2003-11-16,2,2154,home,FALSE,Coppin State,47,Eagles,Coppin State Eagles,Coppin St
+233200195,2004,regular-season,2003-11-16,2,195,away,FALSE,Ohio,51,Bobcats,Ohio Bobcats,Ohio
+233202473,2004,regular-season,2003-11-16,2,2473,home,FALSE,Oakland,79,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+233202473,2004,regular-season,2003-11-16,2,82,away,FALSE,UIC,66,Flames,UIC Flames,UIC
+233202752,2004,regular-season,2003-11-16,2,2752,home,FALSE,Xavier,72,Musketeers,Xavier Musketeers,Xavier
+233202752,2004,regular-season,2003-11-16,2,2382,away,FALSE,Mercer,58,Bears,Mercer Bears,Mercer

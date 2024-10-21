@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300410305,2010-02-10,2,305,home,FALSE,DePaul,62,Blue Demons,DePaul Blue Demons,DePaul
-300410305,2010-02-10,2,41,away,FALSE,UConn,95,Huskies,UConn Huskies,UConn
-300412305,2010-02-10,2,2305,home,FALSE,Kansas,60,Jayhawks,Kansas Jayhawks,Kansas
-300412305,2010-02-10,2,158,away,FALSE,Nebraska,67,Cornhuskers,Nebraska Cornhuskers,Nebraska
-300412752,2010-02-10,2,2752,home,FALSE,Xavier,63,Musketeers,Xavier Musketeers,Xavier
-300412752,2010-02-10,2,2603,away,FALSE,Saint Joseph's,56,Hawks,Saint Joseph's Hawks,Saint Joseph's
-300410201,2010-02-10,3,201,home,FALSE,Oklahoma,62,Sooners,Oklahoma Sooners,Oklahoma
-300410201,2010-02-10,3,239,away,FALSE,Baylor,60,Bears,Baylor Bears,Baylor
-300412641,2010-02-10,2,2641,home,FALSE,Texas Tech,57,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-300412641,2010-02-10,2,245,away,FALSE,Texas A&M,54,Aggies,Texas A&M Aggies,Texas A&M
-300410038,2010-02-10,2,38,home,FALSE,Colorado,50,Buffaloes,Colorado Buffaloes,Colorado
-300410038,2010-02-10,2,251,away,FALSE,Texas,74,Longhorns,Texas Longhorns,Texas
-300410221,2010-02-10,2,221,home,FALSE,Pittsburgh,63,Panthers,Pittsburgh Panthers,Pitt
-300410221,2010-02-10,2,46,away,FALSE,Georgetown,66,Hoyas,Georgetown Hoyas,Georgetown
-300410254,2010-02-10,6,254,home,FALSE,Utah,96,Utes,Utah Utes,Utah
-300410254,2010-02-10,6,2628,away,FALSE,TCU,105,Horned Frogs,TCU Horned Frogs,TCU
-300412599,2010-02-10,2,2599,home,FALSE,St. John's,91,Red Storm,St. John's Red Storm,St John's
-300412599,2010-02-10,2,97,away,FALSE,Louisville,56,Cardinals,Louisville Cardinals,Louisville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300410305,2010,regular-season,2010-02-10,2,305,home,FALSE,DePaul,62,Blue Demons,DePaul Blue Demons,DePaul
+300410305,2010,regular-season,2010-02-10,2,41,away,FALSE,UConn,95,Huskies,UConn Huskies,UConn
+300412305,2010,regular-season,2010-02-10,2,2305,home,FALSE,Kansas,60,Jayhawks,Kansas Jayhawks,Kansas
+300412305,2010,regular-season,2010-02-10,2,158,away,FALSE,Nebraska,67,Cornhuskers,Nebraska Cornhuskers,Nebraska
+300412752,2010,regular-season,2010-02-10,2,2752,home,FALSE,Xavier,63,Musketeers,Xavier Musketeers,Xavier
+300412752,2010,regular-season,2010-02-10,2,2603,away,FALSE,Saint Joseph's,56,Hawks,Saint Joseph's Hawks,Saint Joseph's
+300410201,2010,regular-season,2010-02-10,3,201,home,FALSE,Oklahoma,62,Sooners,Oklahoma Sooners,Oklahoma
+300410201,2010,regular-season,2010-02-10,3,239,away,FALSE,Baylor,60,Bears,Baylor Bears,Baylor
+300412641,2010,regular-season,2010-02-10,2,2641,home,FALSE,Texas Tech,57,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+300412641,2010,regular-season,2010-02-10,2,245,away,FALSE,Texas A&M,54,Aggies,Texas A&M Aggies,Texas A&M
+300410038,2010,regular-season,2010-02-10,2,38,home,FALSE,Colorado,50,Buffaloes,Colorado Buffaloes,Colorado
+300410038,2010,regular-season,2010-02-10,2,251,away,FALSE,Texas,74,Longhorns,Texas Longhorns,Texas
+300410221,2010,regular-season,2010-02-10,2,221,home,FALSE,Pittsburgh,63,Panthers,Pittsburgh Panthers,Pitt
+300410221,2010,regular-season,2010-02-10,2,46,away,FALSE,Georgetown,66,Hoyas,Georgetown Hoyas,Georgetown
+300410254,2010,regular-season,2010-02-10,6,254,home,FALSE,Utah,96,Utes,Utah Utes,Utah
+300410254,2010,regular-season,2010-02-10,6,2628,away,FALSE,TCU,105,Horned Frogs,TCU Horned Frogs,TCU
+300412599,2010,regular-season,2010-02-10,2,2599,home,FALSE,St. John's,91,Red Storm,St. John's Red Storm,St John's
+300412599,2010,regular-season,2010-02-10,2,97,away,FALSE,Louisville,56,Cardinals,Louisville Cardinals,Louisville

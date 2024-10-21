@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400839947,2016-01-15,2,311,home,FALSE,Maine,81,Black Bears,Maine Black Bears,Maine
-400839947,2016-01-15,2,399,away,FALSE,UAlbany,79,Great Danes,UAlbany Great Danes,UAlbany
-400842570,2016-01-15,2,2514,home,FALSE,Quinnipiac,52,Bobcats,Quinnipiac Bobcats,Quinnipiac
-400842570,2016-01-15,2,2561,away,FALSE,Siena,64,Saints,Siena Saints,Siena
-400841974,2016-01-15,2,2217,home,FALSE,Fairfield,73,Stags,Fairfield Stags,Fairfield
-400841974,2016-01-15,2,315,away,FALSE,Niagara,68,Purple Eagles,Niagara Purple Eagles,Niagara
-400841836,2016-01-15,2,2649,home,FALSE,Toledo,78,Rockets,Toledo Rockets,Toledo
-400841836,2016-01-15,2,2006,away,FALSE,Akron,64,Zips,Akron Zips,Akron
-400841818,2016-01-15,2,2363,home,FALSE,Manhattan,62,Jaspers,Manhattan Jaspers,Manhattan
-400841818,2016-01-15,2,2099,away,FALSE,Canisius,65,Golden Griffins,Canisius Golden Griffins,Canisius
-400840946,2016-01-15,2,2168,home,FALSE,Dayton,77,Flyers,Dayton Flyers,Dayton
-400840946,2016-01-15,2,45,away,FALSE,George Washington,70,Revolutionaries,George Washington Revolutionaries,G Washington
-400843844,2016-01-15,2,2287,home,FALSE,Illinois State,55,Redbirds,Illinois State Redbirds,Illinois St
-400843844,2016-01-15,2,339,away,FALSE,Evansville,66,Purple Aces,Evansville Purple Aces,Evansville
-400842014,2016-01-15,2,314,home,FALSE,Iona,102,Gaels,Iona Gaels,Iona
-400842014,2016-01-15,2,2405,away,FALSE,Monmouth,110,Hawks,Monmouth Hawks,Monmouth
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400839947,2016,regular-season,2016-01-15,2,311,home,FALSE,Maine,81,Black Bears,Maine Black Bears,Maine
+400839947,2016,regular-season,2016-01-15,2,399,away,FALSE,UAlbany,79,Great Danes,UAlbany Great Danes,UAlbany
+400842570,2016,regular-season,2016-01-15,2,2514,home,FALSE,Quinnipiac,52,Bobcats,Quinnipiac Bobcats,Quinnipiac
+400842570,2016,regular-season,2016-01-15,2,2561,away,FALSE,Siena,64,Saints,Siena Saints,Siena
+400841974,2016,regular-season,2016-01-15,2,2217,home,FALSE,Fairfield,73,Stags,Fairfield Stags,Fairfield
+400841974,2016,regular-season,2016-01-15,2,315,away,FALSE,Niagara,68,Purple Eagles,Niagara Purple Eagles,Niagara
+400841836,2016,regular-season,2016-01-15,2,2649,home,FALSE,Toledo,78,Rockets,Toledo Rockets,Toledo
+400841836,2016,regular-season,2016-01-15,2,2006,away,FALSE,Akron,64,Zips,Akron Zips,Akron
+400841818,2016,regular-season,2016-01-15,2,2363,home,FALSE,Manhattan,62,Jaspers,Manhattan Jaspers,Manhattan
+400841818,2016,regular-season,2016-01-15,2,2099,away,FALSE,Canisius,65,Golden Griffins,Canisius Golden Griffins,Canisius
+400840946,2016,regular-season,2016-01-15,2,2168,home,FALSE,Dayton,77,Flyers,Dayton Flyers,Dayton
+400840946,2016,regular-season,2016-01-15,2,45,away,FALSE,George Washington,70,Revolutionaries,George Washington Revolutionaries,G Washington
+400843844,2016,regular-season,2016-01-15,2,2287,home,FALSE,Illinois State,55,Redbirds,Illinois State Redbirds,Illinois St
+400843844,2016,regular-season,2016-01-15,2,339,away,FALSE,Evansville,66,Purple Aces,Evansville Purple Aces,Evansville
+400842014,2016,regular-season,2016-01-15,2,314,home,FALSE,Iona,102,Gaels,Iona Gaels,Iona
+400842014,2016,regular-season,2016-01-15,2,2405,away,FALSE,Monmouth,110,Hawks,Monmouth Hawks,Monmouth

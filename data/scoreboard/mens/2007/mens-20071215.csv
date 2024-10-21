@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273490235,2007-12-15,2,2393,home,TRUE,Middle Tennessee,41,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-273490235,2007-12-15,2,235,away,TRUE,Memphis,65,Tigers,Memphis Tigers,Memphis
-273492305,2007-12-15,2,2305,home,TRUE,Kansas,88,Jayhawks,Kansas Jayhawks,Kansas
-273492305,2007-12-15,2,195,away,TRUE,Ohio,51,Bobcats,Ohio Bobcats,Ohio
-273490251,2007-12-15,2,251,home,FALSE,Texas,96,Longhorns,Texas Longhorns,Texas
-273490251,2007-12-15,2,326,away,FALSE,Texas State,81,Bobcats,Texas State Bobcats,Texas St
-273490046,2007-12-15,2,46,home,FALSE,Georgetown,110,Hoyas,Georgetown Hoyas,Georgetown
-273490046,2007-12-15,2,2515,away,FALSE,Radford,51,Highlanders,Radford Highlanders,Radford
-273490026,2007-12-15,2,26,home,FALSE,UCLA,89,Bruins,UCLA Bruins,UCLA
-273490026,2007-12-15,2,304,away,FALSE,Idaho State,49,Bengals,Idaho State Bengals,Idaho St
-273490127,2007-12-15,2,127,home,FALSE,Michigan State,79,Spartans,Michigan State Spartans,Michigan St
-273490127,2007-12-15,2,2870,away,FALSE,Purdue Fort Wayne,57,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-273490269,2007-12-15,2,269,home,FALSE,Marquette,82,Golden Eagles,Marquette Golden Eagles,Marquette
-273490269,2007-12-15,2,16,away,FALSE,Sacramento State,51,Hornets,Sacramento State Hornets,Sacramento St
-273490221,2007-12-15,2,221,home,FALSE,Pittsburgh,85,Panthers,Pittsburgh Panthers,Pitt
-273490221,2007-12-15,2,197,away,FALSE,Oklahoma State,68,Cowboys,Oklahoma State Cowboys,Oklahoma St
-273492633,2007-12-15,2,98,home,TRUE,Western Kentucky,82,Hilltoppers,Western Kentucky Hilltoppers,Western KY
-273492633,2007-12-15,2,2633,away,TRUE,Tennessee,88,Volunteers,Tennessee Volunteers,Tennessee
-273490084,2007-12-15,2,84,home,FALSE,Indiana,100,Hoosiers,Indiana Hoosiers,Indiana
-273490084,2007-12-15,2,2717,away,FALSE,Western Carolina,52,Catamounts,Western Carolina Catamounts,W Carolina
-273490158,2007-12-15,3,158,home,TRUE,Nebraska,88,Cornhuskers,Nebraska Cornhuskers,Nebraska
-273490158,2007-12-15,3,2483,away,TRUE,Oregon,79,Ducks,Oregon Ducks,Oregon
-273490009,2007-12-15,2,9,home,FALSE,Arizona State,77,Sun Devils,Arizona State Sun Devils,Arizona St
-273490009,2007-12-15,2,2752,away,FALSE,Xavier,55,Musketeers,Xavier Musketeers,Xavier
-273492086,2007-12-15,2,2086,home,TRUE,Butler,79,Bulldogs,Butler Bulldogs,Butler
-273492086,2007-12-15,2,52,away,TRUE,Florida State,68,Seminoles,Florida State Seminoles,Florida St
-273492509,2007-12-15,2,2509,home,TRUE,Purdue,67,Boilermakers,Purdue Boilermakers,Purdue
-273492509,2007-12-15,2,97,away,TRUE,Louisville,59,Cardinals,Louisville Cardinals,Louisville
-273490252,2007-12-15,2,252,home,FALSE,BYU,86,Cougars,BYU Cougars,BYU
-273490252,2007-12-15,2,2492,away,FALSE,Pepperdine,67,Waves,Pepperdine Waves,Pepperdine
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273490235,2008,regular-season,2007-12-15,2,2393,home,TRUE,Middle Tennessee,41,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+273490235,2008,regular-season,2007-12-15,2,235,away,TRUE,Memphis,65,Tigers,Memphis Tigers,Memphis
+273492305,2008,regular-season,2007-12-15,2,2305,home,TRUE,Kansas,88,Jayhawks,Kansas Jayhawks,Kansas
+273492305,2008,regular-season,2007-12-15,2,195,away,TRUE,Ohio,51,Bobcats,Ohio Bobcats,Ohio
+273490251,2008,regular-season,2007-12-15,2,251,home,FALSE,Texas,96,Longhorns,Texas Longhorns,Texas
+273490251,2008,regular-season,2007-12-15,2,326,away,FALSE,Texas State,81,Bobcats,Texas State Bobcats,Texas St
+273490046,2008,regular-season,2007-12-15,2,46,home,FALSE,Georgetown,110,Hoyas,Georgetown Hoyas,Georgetown
+273490046,2008,regular-season,2007-12-15,2,2515,away,FALSE,Radford,51,Highlanders,Radford Highlanders,Radford
+273490026,2008,regular-season,2007-12-15,2,26,home,FALSE,UCLA,89,Bruins,UCLA Bruins,UCLA
+273490026,2008,regular-season,2007-12-15,2,304,away,FALSE,Idaho State,49,Bengals,Idaho State Bengals,Idaho St
+273490127,2008,regular-season,2007-12-15,2,127,home,FALSE,Michigan State,79,Spartans,Michigan State Spartans,Michigan St
+273490127,2008,regular-season,2007-12-15,2,2870,away,FALSE,Purdue Fort Wayne,57,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+273490269,2008,regular-season,2007-12-15,2,269,home,FALSE,Marquette,82,Golden Eagles,Marquette Golden Eagles,Marquette
+273490269,2008,regular-season,2007-12-15,2,16,away,FALSE,Sacramento State,51,Hornets,Sacramento State Hornets,Sacramento St
+273490221,2008,regular-season,2007-12-15,2,221,home,FALSE,Pittsburgh,85,Panthers,Pittsburgh Panthers,Pitt
+273490221,2008,regular-season,2007-12-15,2,197,away,FALSE,Oklahoma State,68,Cowboys,Oklahoma State Cowboys,Oklahoma St
+273492633,2008,regular-season,2007-12-15,2,98,home,TRUE,Western Kentucky,82,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+273492633,2008,regular-season,2007-12-15,2,2633,away,TRUE,Tennessee,88,Volunteers,Tennessee Volunteers,Tennessee
+273490084,2008,regular-season,2007-12-15,2,84,home,FALSE,Indiana,100,Hoosiers,Indiana Hoosiers,Indiana
+273490084,2008,regular-season,2007-12-15,2,2717,away,FALSE,Western Carolina,52,Catamounts,Western Carolina Catamounts,W Carolina
+273490158,2008,regular-season,2007-12-15,3,158,home,TRUE,Nebraska,88,Cornhuskers,Nebraska Cornhuskers,Nebraska
+273490158,2008,regular-season,2007-12-15,3,2483,away,TRUE,Oregon,79,Ducks,Oregon Ducks,Oregon
+273490009,2008,regular-season,2007-12-15,2,9,home,FALSE,Arizona State,77,Sun Devils,Arizona State Sun Devils,Arizona St
+273490009,2008,regular-season,2007-12-15,2,2752,away,FALSE,Xavier,55,Musketeers,Xavier Musketeers,Xavier
+273492086,2008,regular-season,2007-12-15,2,2086,home,TRUE,Butler,79,Bulldogs,Butler Bulldogs,Butler
+273492086,2008,regular-season,2007-12-15,2,52,away,TRUE,Florida State,68,Seminoles,Florida State Seminoles,Florida St
+273492509,2008,regular-season,2007-12-15,2,2509,home,TRUE,Purdue,67,Boilermakers,Purdue Boilermakers,Purdue
+273492509,2008,regular-season,2007-12-15,2,97,away,TRUE,Louisville,59,Cardinals,Louisville Cardinals,Louisville
+273490252,2008,regular-season,2007-12-15,2,252,home,FALSE,BYU,86,Cougars,BYU Cougars,BYU
+273490252,2008,regular-season,2007-12-15,2,2492,away,FALSE,Pepperdine,67,Waves,Pepperdine Waves,Pepperdine

@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290162382,2009-01-16,2,2382,home,FALSE,Mercer,88,Bears,Mercer Bears,Mercer
-290162382,2009-01-16,2,526,away,FALSE,Florida Gulf Coast,63,Eagles,Florida Gulf Coast Eagles,FGCU
-290162352,2009-01-16,2,2363,home,FALSE,Manhattan,54,Jaspers,Manhattan Jaspers,Manhattan
-290162352,2009-01-16,2,2352,away,FALSE,Loyola Maryland,58,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-290160338,2009-01-16,2,338,home,FALSE,Kennesaw State,52,Owls,Kennesaw State Owls,Kennesaw St
-290160338,2009-01-16,2,56,away,FALSE,Stetson,69,Hatters,Stetson Hatters,Stetson
-290160225,2009-01-16,2,225,home,FALSE,Brown,62,Bears,Brown Bears,Brown
-290160225,2009-01-16,2,43,away,FALSE,Yale,70,Bulldogs,Yale Bulldogs,Yale
-290162428,2009-01-16,2,2428,home,FALSE,North Carolina Central,74,Eagles,North Carolina Central Eagles,NC Central
-290162428,2009-01-16,2,2119,away,FALSE,Central State (OH),68,Marauders,Central State (OH) Marauders,Cent St OH
-290162174,2009-01-16,2,2174,home,FALSE,Detroit Mercy,51,Titans,Detroit Mercy Titans,Detroit Mercy
-290162174,2009-01-16,2,2750,away,FALSE,Wright State,60,Raiders,Wright State Raiders,Wright St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290162382,2009,regular-season,2009-01-16,2,2382,home,FALSE,Mercer,88,Bears,Mercer Bears,Mercer
+290162382,2009,regular-season,2009-01-16,2,526,away,FALSE,Florida Gulf Coast,63,Eagles,Florida Gulf Coast Eagles,FGCU
+290162352,2009,regular-season,2009-01-16,2,2363,home,FALSE,Manhattan,54,Jaspers,Manhattan Jaspers,Manhattan
+290162352,2009,regular-season,2009-01-16,2,2352,away,FALSE,Loyola Maryland,58,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+290160338,2009,regular-season,2009-01-16,2,338,home,FALSE,Kennesaw State,52,Owls,Kennesaw State Owls,Kennesaw St
+290160338,2009,regular-season,2009-01-16,2,56,away,FALSE,Stetson,69,Hatters,Stetson Hatters,Stetson
+290160225,2009,regular-season,2009-01-16,2,225,home,FALSE,Brown,62,Bears,Brown Bears,Brown
+290160225,2009,regular-season,2009-01-16,2,43,away,FALSE,Yale,70,Bulldogs,Yale Bulldogs,Yale
+290162428,2009,regular-season,2009-01-16,2,2428,home,FALSE,North Carolina Central,74,Eagles,North Carolina Central Eagles,NC Central
+290162428,2009,regular-season,2009-01-16,2,2119,away,FALSE,Central State (OH),68,Marauders,Central State (OH) Marauders,Cent St OH
+290162174,2009,regular-season,2009-01-16,2,2174,home,FALSE,Detroit Mercy,51,Titans,Detroit Mercy Titans,Detroit Mercy
+290162174,2009,regular-season,2009-01-16,2,2750,away,FALSE,Wright State,60,Raiders,Wright State Raiders,Wright St

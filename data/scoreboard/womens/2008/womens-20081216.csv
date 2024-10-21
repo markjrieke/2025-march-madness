@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-283510150,2008-12-16,2,150,home,FALSE,Duke,56,Blue Devils,Duke Blue Devils,Duke
-283510150,2008-12-16,2,24,away,FALSE,Stanford,52,Cardinal,Stanford Cardinal,Stanford
-283510239,2008-12-16,2,239,home,FALSE,Baylor,73,Bears,Baylor Bears,Baylor
-283510239,2008-12-16,2,292,away,FALSE,UT Rio Grande Valley,27,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-283510221,2008-12-16,2,221,home,FALSE,Pittsburgh,98,Panthers,Pittsburgh Panthers,Pitt
-283510221,2008-12-16,2,2681,away,FALSE,Wagner,41,Seahawks,Wagner Seahawks,Wagner
-283510194,2008-12-16,2,194,home,FALSE,Ohio State,68,Buckeyes,Ohio State Buckeyes,Ohio State
-283510194,2008-12-16,2,2169,away,FALSE,Delaware State,35,Hornets,Delaware State Hornets,Delaware St
-283510197,2008-12-16,2,197,home,FALSE,Oklahoma State,58,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-283510197,2008-12-16,2,198,away,FALSE,Oral Roberts,48,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283510150,2009,regular-season,2008-12-16,2,150,home,FALSE,Duke,56,Blue Devils,Duke Blue Devils,Duke
+283510150,2009,regular-season,2008-12-16,2,24,away,FALSE,Stanford,52,Cardinal,Stanford Cardinal,Stanford
+283510239,2009,regular-season,2008-12-16,2,239,home,FALSE,Baylor,73,Bears,Baylor Bears,Baylor
+283510239,2009,regular-season,2008-12-16,2,292,away,FALSE,UT Rio Grande Valley,27,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+283510221,2009,regular-season,2008-12-16,2,221,home,FALSE,Pittsburgh,98,Panthers,Pittsburgh Panthers,Pitt
+283510221,2009,regular-season,2008-12-16,2,2681,away,FALSE,Wagner,41,Seahawks,Wagner Seahawks,Wagner
+283510194,2009,regular-season,2008-12-16,2,194,home,FALSE,Ohio State,68,Buckeyes,Ohio State Buckeyes,Ohio State
+283510194,2009,regular-season,2008-12-16,2,2169,away,FALSE,Delaware State,35,Hornets,Delaware State Hornets,Delaware St
+283510197,2009,regular-season,2008-12-16,2,197,home,FALSE,Oklahoma State,58,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+283510197,2009,regular-season,2008-12-16,2,198,away,FALSE,Oral Roberts,48,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts

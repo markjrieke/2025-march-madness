@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-283410221,2008-12-06,2,221,home,FALSE,Pittsburgh,80,Panthers,Pittsburgh Panthers,Pitt
-283410221,2008-12-06,2,261,away,FALSE,Vermont,51,Catamounts,Vermont Catamounts,Vermont
-283410130,2008-12-06,2,130,home,FALSE,Michigan,81,Wolverines,Michigan Wolverines,Michigan
-283410130,2008-12-06,2,150,away,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
-283410084,2008-12-06,2,84,home,TRUE,Indiana,54,Hoosiers,Indiana Hoosiers,Indiana
-283410084,2008-12-06,2,2250,away,TRUE,Gonzaga,70,Bulldogs,Gonzaga Bulldogs,Gonzaga
-283410087,2008-12-06,2,87,home,TRUE,Notre Dame,62,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-283410087,2008-12-06,2,194,away,TRUE,Ohio State,67,Buckeyes,Ohio State Buckeyes,Ohio State
-283412509,2008-12-06,2,2509,home,FALSE,Purdue,90,Boilermakers,Purdue Boilermakers,Purdue
-283412509,2008-12-06,2,2029,away,FALSE,Arkansas-Pine Bluff,42,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-283410097,2008-12-06,2,97,home,FALSE,Louisville,83,Cardinals,Louisville Cardinals,Louisville
-283410097,2008-12-06,2,282,away,FALSE,Indiana State,43,Sycamores,Indiana State Sycamores,Indiana St
-283410154,2008-12-06,2,154,home,FALSE,Wake Forest,81,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-283410154,2008-12-06,2,2083,away,FALSE,Bucknell,52,Bison,Bucknell Bison,Bucknell
-283410046,2008-12-06,2,46,home,FALSE,Georgetown,73,Hoyas,Georgetown Hoyas,Georgetown
-283410046,2008-12-06,2,44,away,FALSE,American University,49,Eagles,American University Eagles,American
-283410096,2008-12-06,2,96,home,FALSE,Kentucky,67,Wildcats,Kentucky Wildcats,Kentucky
-283410096,2008-12-06,2,2390,away,FALSE,Miami,73,Hurricanes,Miami Hurricanes,Miami
-283412166,2008-12-06,2,2166,home,FALSE,Davidson,72,Wildcats,Davidson Wildcats,Davidson
-283412166,2008-12-06,2,152,away,FALSE,NC State,67,Wolfpack,NC State Wolfpack,NC State
-283410265,2008-12-06,2,265,home,FALSE,Washington State,52,Cougars,Washington State Cougars,Washington St
-283410265,2008-12-06,2,239,away,FALSE,Baylor,58,Bears,Baylor Bears,Baylor
-283410269,2008-12-06,2,269,home,FALSE,Marquette,61,Golden Eagles,Marquette Golden Eagles,Marquette
-283410269,2008-12-06,2,275,away,FALSE,Wisconsin,58,Badgers,Wisconsin Badgers,Wisconsin
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283410221,2009,regular-season,2008-12-06,2,221,home,FALSE,Pittsburgh,80,Panthers,Pittsburgh Panthers,Pitt
+283410221,2009,regular-season,2008-12-06,2,261,away,FALSE,Vermont,51,Catamounts,Vermont Catamounts,Vermont
+283410130,2009,regular-season,2008-12-06,2,130,home,FALSE,Michigan,81,Wolverines,Michigan Wolverines,Michigan
+283410130,2009,regular-season,2008-12-06,2,150,away,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
+283410084,2009,regular-season,2008-12-06,2,84,home,TRUE,Indiana,54,Hoosiers,Indiana Hoosiers,Indiana
+283410084,2009,regular-season,2008-12-06,2,2250,away,TRUE,Gonzaga,70,Bulldogs,Gonzaga Bulldogs,Gonzaga
+283410087,2009,regular-season,2008-12-06,2,87,home,TRUE,Notre Dame,62,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+283410087,2009,regular-season,2008-12-06,2,194,away,TRUE,Ohio State,67,Buckeyes,Ohio State Buckeyes,Ohio State
+283412509,2009,regular-season,2008-12-06,2,2509,home,FALSE,Purdue,90,Boilermakers,Purdue Boilermakers,Purdue
+283412509,2009,regular-season,2008-12-06,2,2029,away,FALSE,Arkansas-Pine Bluff,42,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+283410097,2009,regular-season,2008-12-06,2,97,home,FALSE,Louisville,83,Cardinals,Louisville Cardinals,Louisville
+283410097,2009,regular-season,2008-12-06,2,282,away,FALSE,Indiana State,43,Sycamores,Indiana State Sycamores,Indiana St
+283410154,2009,regular-season,2008-12-06,2,154,home,FALSE,Wake Forest,81,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+283410154,2009,regular-season,2008-12-06,2,2083,away,FALSE,Bucknell,52,Bison,Bucknell Bison,Bucknell
+283410046,2009,regular-season,2008-12-06,2,46,home,FALSE,Georgetown,73,Hoyas,Georgetown Hoyas,Georgetown
+283410046,2009,regular-season,2008-12-06,2,44,away,FALSE,American University,49,Eagles,American University Eagles,American
+283410096,2009,regular-season,2008-12-06,2,96,home,FALSE,Kentucky,67,Wildcats,Kentucky Wildcats,Kentucky
+283410096,2009,regular-season,2008-12-06,2,2390,away,FALSE,Miami,73,Hurricanes,Miami Hurricanes,Miami
+283412166,2009,regular-season,2008-12-06,2,2166,home,FALSE,Davidson,72,Wildcats,Davidson Wildcats,Davidson
+283412166,2009,regular-season,2008-12-06,2,152,away,FALSE,NC State,67,Wolfpack,NC State Wolfpack,NC State
+283410265,2009,regular-season,2008-12-06,2,265,home,FALSE,Washington State,52,Cougars,Washington State Cougars,Washington St
+283410265,2009,regular-season,2008-12-06,2,239,away,FALSE,Baylor,58,Bears,Baylor Bears,Baylor
+283410269,2009,regular-season,2008-12-06,2,269,home,FALSE,Marquette,61,Golden Eagles,Marquette Golden Eagles,Marquette
+283410269,2009,regular-season,2008-12-06,2,275,away,FALSE,Wisconsin,58,Badgers,Wisconsin Badgers,Wisconsin

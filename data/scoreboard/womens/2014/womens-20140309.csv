@@ -1,55 +1,55 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400543734,2014-03-09,2,2168,home,TRUE,Dayton,51,Flyers,Dayton Flyers,Dayton
-400543734,2014-03-09,2,2230,away,TRUE,Fordham,63,Rams,Fordham Rams,Fordham
-400543554,2014-03-09,2,399,home,TRUE,UAlbany,65,Great Danes,UAlbany Great Danes,UAlbany
-400543554,2014-03-09,2,42,away,TRUE,Hartford,51,Hawks,Hartford Hawks,Hartford
-400543134,2014-03-09,2,314,home,TRUE,Iona,68,Gaels,Iona Gaels,Iona
-400543134,2014-03-09,2,2514,away,TRUE,Quinnipiac,79,Bobcats,Quinnipiac Bobcats,Quinnipiac
-400543736,2014-03-09,2,236,home,TRUE,Chattanooga,77,Mocs,Chattanooga Mocs,Chattanooga
-400543736,2014-03-09,2,2210,away,TRUE,Elon,44,Phoenix,Elon Phoenix,Elon
-400543788,2014-03-09,2,158,home,TRUE,Nebraska,72,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400543788,2014-03-09,2,2294,away,TRUE,Iowa,65,Hawkeyes,Iowa Hawkeyes,Iowa
-400543753,2014-03-09,2,2599,home,TRUE,St. John's,66,Red Storm,St. John's Red Storm,St John's
-400543753,2014-03-09,2,2550,away,TRUE,Seton Hall,60,Pirates,Seton Hall Pirates,Seton Hall
-400543737,2014-03-09,2,41,home,TRUE,UConn,83,Huskies,UConn Huskies,UConn
-400543737,2014-03-09,2,164,away,TRUE,Rutgers,57,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400541199,2014-03-09,2,233,home,TRUE,South Dakota,96,Coyotes,South Dakota Coyotes,South Dakota
-400541199,2014-03-09,2,2710,away,TRUE,Western Illinois,94,Leathernecks,Western Illinois Leathernecks,W Illinois
-400543594,2014-03-09,2,2368,home,TRUE,Marist,70,Red Foxes,Marist Red Foxes,Marist
-400543594,2014-03-09,2,2520,away,TRUE,Rider,59,Broncs,Rider Broncs,Rider
-400543274,2014-03-09,2,2619,home,TRUE,Stony Brook,79,Seawolves,Stony Brook Seawolves,Stony Brook
-400543274,2014-03-09,2,160,away,TRUE,New Hampshire,59,Wildcats,New Hampshire Wildcats,New Hampshire
-400541535,2014-03-09,2,116,home,FALSE,Mount St. Mary's,75,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-400541535,2014-03-09,2,2681,away,FALSE,Wagner,66,Seahawks,Wagner Seahawks,Wagner
-400541534,2014-03-09,2,2523,home,FALSE,Robert Morris,65,Colonials,Robert Morris Colonials,Robert Morris
-400541534,2014-03-09,2,2341,away,FALSE,LIU Brooklyn,49,Blackbirds,LIU Brooklyn Blackbirds,LIU Brooklyn
-400543815,2014-03-09,2,2166,home,TRUE,Davidson,74,Wildcats,Davidson Wildcats,Davidson
-400543815,2014-03-09,2,2717,away,TRUE,Western Carolina,67,Catamounts,Western Carolina Catamounts,W Carolina
-400543818,2014-03-09,2,97,home,TRUE,Louisville,60,Cardinals,Louisville Cardinals,Louisville
-400543818,2014-03-09,2,58,away,TRUE,South Florida,56,Bulls,South Florida Bulls,South Florida
-400543738,2014-03-09,2,239,home,TRUE,Baylor,65,Bears,Baylor Bears,Baylor
-400543738,2014-03-09,2,197,away,TRUE,Oklahoma State,61,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-400541536,2014-03-09,4,2598,home,FALSE,St. Francis (PA),132,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-400541536,2014-03-09,4,2529,away,FALSE,Sacred Heart,124,Pioneers,Sacred Heart Pioneers,Sacred Heart
-400505429,2014-03-09,2,2724,home,FALSE,Wichita State,93,Shockers,Wichita State Shockers,Wichita St
-400505429,2014-03-09,2,2623,away,FALSE,Missouri State,56,Lady Bears,Missouri State Lady Bears,Missouri St
-400543739,2014-03-09,2,2633,home,TRUE,Tennessee,71,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400543739,2014-03-09,2,96,away,TRUE,Kentucky,70,Wildcats,Kentucky Wildcats,Kentucky
-400541717,2014-03-09,2,156,home,TRUE,Creighton,61,Bluejays,Creighton Bluejays,Creighton
-400541717,2014-03-09,2,2086,away,TRUE,Butler,52,Bulldogs,Butler Bulldogs,Butler
-400541200,2014-03-09,2,2870,home,TRUE,Purdue Fort Wayne,73,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-400541200,2014-03-09,2,2172,away,TRUE,Denver,79,Pioneers,Denver Pioneers,Denver
-400543823,2014-03-09,2,2272,home,TRUE,High Point,74,Panthers,High Point Panthers,High Point
-400543823,2014-03-09,2,2737,away,TRUE,Winthrop,87,Eagles,Winthrop Eagles,Winthrop
-400544168,2014-03-09,2,277,home,TRUE,West Virginia,67,Mountaineers,West Virginia Mountaineers,West Virginia
-400544168,2014-03-09,2,251,away,TRUE,Texas,60,Longhorns,Texas Longhorns,Texas
-400541537,2014-03-09,2,2803,home,FALSE,Bryant,58,Bulldogs,Bryant Bulldogs,Bryant
-400541537,2014-03-09,2,2597,away,FALSE,St. Francis Brooklyn,53,Terriers,St. Francis Brooklyn Terriers,St Francis BK
-400543817,2014-03-09,2,87,home,TRUE,Notre Dame,69,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400543817,2014-03-09,2,150,away,TRUE,Duke,53,Blue Devils,Duke Blue Devils,Duke
-400543816,2014-03-09,2,305,home,TRUE,DePaul,78,Blue Demons,DePaul Blue Demons,DePaul
-400543816,2014-03-09,2,46,away,TRUE,Georgetown,54,Hoyas,Georgetown Hoyas,Georgetown
-400544182,2014-03-09,2,204,home,TRUE,Oregon State,62,Beavers,Oregon State Beavers,Oregon St
-400544182,2014-03-09,2,30,away,TRUE,USC,71,Trojans,USC Trojans,USC
-400541716,2014-03-09,2,222,home,TRUE,Villanova,53,Wildcats,Villanova Wildcats,Villanova
-400541716,2014-03-09,2,269,away,TRUE,Marquette,56,Golden Eagles,Marquette Golden Eagles,Marquette
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400543734,2014,regular-season,2014-03-09,2,2168,home,TRUE,Dayton,51,Flyers,Dayton Flyers,Dayton
+400543734,2014,regular-season,2014-03-09,2,2230,away,TRUE,Fordham,63,Rams,Fordham Rams,Fordham
+400543554,2014,regular-season,2014-03-09,2,399,home,TRUE,UAlbany,65,Great Danes,UAlbany Great Danes,UAlbany
+400543554,2014,regular-season,2014-03-09,2,42,away,TRUE,Hartford,51,Hawks,Hartford Hawks,Hartford
+400543134,2014,regular-season,2014-03-09,2,314,home,TRUE,Iona,68,Gaels,Iona Gaels,Iona
+400543134,2014,regular-season,2014-03-09,2,2514,away,TRUE,Quinnipiac,79,Bobcats,Quinnipiac Bobcats,Quinnipiac
+400543736,2014,regular-season,2014-03-09,2,236,home,TRUE,Chattanooga,77,Mocs,Chattanooga Mocs,Chattanooga
+400543736,2014,regular-season,2014-03-09,2,2210,away,TRUE,Elon,44,Phoenix,Elon Phoenix,Elon
+400543788,2014,regular-season,2014-03-09,2,158,home,TRUE,Nebraska,72,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400543788,2014,regular-season,2014-03-09,2,2294,away,TRUE,Iowa,65,Hawkeyes,Iowa Hawkeyes,Iowa
+400543753,2014,regular-season,2014-03-09,2,2599,home,TRUE,St. John's,66,Red Storm,St. John's Red Storm,St John's
+400543753,2014,regular-season,2014-03-09,2,2550,away,TRUE,Seton Hall,60,Pirates,Seton Hall Pirates,Seton Hall
+400543737,2014,regular-season,2014-03-09,2,41,home,TRUE,UConn,83,Huskies,UConn Huskies,UConn
+400543737,2014,regular-season,2014-03-09,2,164,away,TRUE,Rutgers,57,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400541199,2014,regular-season,2014-03-09,2,233,home,TRUE,South Dakota,96,Coyotes,South Dakota Coyotes,South Dakota
+400541199,2014,regular-season,2014-03-09,2,2710,away,TRUE,Western Illinois,94,Leathernecks,Western Illinois Leathernecks,W Illinois
+400543594,2014,regular-season,2014-03-09,2,2368,home,TRUE,Marist,70,Red Foxes,Marist Red Foxes,Marist
+400543594,2014,regular-season,2014-03-09,2,2520,away,TRUE,Rider,59,Broncs,Rider Broncs,Rider
+400543274,2014,regular-season,2014-03-09,2,2619,home,TRUE,Stony Brook,79,Seawolves,Stony Brook Seawolves,Stony Brook
+400543274,2014,regular-season,2014-03-09,2,160,away,TRUE,New Hampshire,59,Wildcats,New Hampshire Wildcats,New Hampshire
+400541535,2014,regular-season,2014-03-09,2,116,home,FALSE,Mount St. Mary's,75,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+400541535,2014,regular-season,2014-03-09,2,2681,away,FALSE,Wagner,66,Seahawks,Wagner Seahawks,Wagner
+400541534,2014,regular-season,2014-03-09,2,2523,home,FALSE,Robert Morris,65,Colonials,Robert Morris Colonials,Robert Morris
+400541534,2014,regular-season,2014-03-09,2,2341,away,FALSE,LIU Brooklyn,49,Blackbirds,LIU Brooklyn Blackbirds,LIU Brooklyn
+400543815,2014,regular-season,2014-03-09,2,2166,home,TRUE,Davidson,74,Wildcats,Davidson Wildcats,Davidson
+400543815,2014,regular-season,2014-03-09,2,2717,away,TRUE,Western Carolina,67,Catamounts,Western Carolina Catamounts,W Carolina
+400543818,2014,regular-season,2014-03-09,2,97,home,TRUE,Louisville,60,Cardinals,Louisville Cardinals,Louisville
+400543818,2014,regular-season,2014-03-09,2,58,away,TRUE,South Florida,56,Bulls,South Florida Bulls,South Florida
+400543738,2014,regular-season,2014-03-09,2,239,home,TRUE,Baylor,65,Bears,Baylor Bears,Baylor
+400543738,2014,regular-season,2014-03-09,2,197,away,TRUE,Oklahoma State,61,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+400541536,2014,regular-season,2014-03-09,4,2598,home,FALSE,St. Francis (PA),132,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+400541536,2014,regular-season,2014-03-09,4,2529,away,FALSE,Sacred Heart,124,Pioneers,Sacred Heart Pioneers,Sacred Heart
+400505429,2014,regular-season,2014-03-09,2,2724,home,FALSE,Wichita State,93,Shockers,Wichita State Shockers,Wichita St
+400505429,2014,regular-season,2014-03-09,2,2623,away,FALSE,Missouri State,56,Lady Bears,Missouri State Lady Bears,Missouri St
+400543739,2014,regular-season,2014-03-09,2,2633,home,TRUE,Tennessee,71,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400543739,2014,regular-season,2014-03-09,2,96,away,TRUE,Kentucky,70,Wildcats,Kentucky Wildcats,Kentucky
+400541717,2014,regular-season,2014-03-09,2,156,home,TRUE,Creighton,61,Bluejays,Creighton Bluejays,Creighton
+400541717,2014,regular-season,2014-03-09,2,2086,away,TRUE,Butler,52,Bulldogs,Butler Bulldogs,Butler
+400541200,2014,regular-season,2014-03-09,2,2870,home,TRUE,Purdue Fort Wayne,73,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+400541200,2014,regular-season,2014-03-09,2,2172,away,TRUE,Denver,79,Pioneers,Denver Pioneers,Denver
+400543823,2014,regular-season,2014-03-09,2,2272,home,TRUE,High Point,74,Panthers,High Point Panthers,High Point
+400543823,2014,regular-season,2014-03-09,2,2737,away,TRUE,Winthrop,87,Eagles,Winthrop Eagles,Winthrop
+400544168,2014,regular-season,2014-03-09,2,277,home,TRUE,West Virginia,67,Mountaineers,West Virginia Mountaineers,West Virginia
+400544168,2014,regular-season,2014-03-09,2,251,away,TRUE,Texas,60,Longhorns,Texas Longhorns,Texas
+400541537,2014,regular-season,2014-03-09,2,2803,home,FALSE,Bryant,58,Bulldogs,Bryant Bulldogs,Bryant
+400541537,2014,regular-season,2014-03-09,2,2597,away,FALSE,St. Francis Brooklyn,53,Terriers,St. Francis Brooklyn Terriers,St Francis BK
+400543817,2014,regular-season,2014-03-09,2,87,home,TRUE,Notre Dame,69,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400543817,2014,regular-season,2014-03-09,2,150,away,TRUE,Duke,53,Blue Devils,Duke Blue Devils,Duke
+400543816,2014,regular-season,2014-03-09,2,305,home,TRUE,DePaul,78,Blue Demons,DePaul Blue Demons,DePaul
+400543816,2014,regular-season,2014-03-09,2,46,away,TRUE,Georgetown,54,Hoyas,Georgetown Hoyas,Georgetown
+400544182,2014,regular-season,2014-03-09,2,204,home,TRUE,Oregon State,62,Beavers,Oregon State Beavers,Oregon St
+400544182,2014,regular-season,2014-03-09,2,30,away,TRUE,USC,71,Trojans,USC Trojans,USC
+400541716,2014,regular-season,2014-03-09,2,222,home,TRUE,Villanova,53,Wildcats,Villanova Wildcats,Villanova
+400541716,2014,regular-season,2014-03-09,2,269,away,TRUE,Marquette,56,Golden Eagles,Marquette Golden Eagles,Marquette

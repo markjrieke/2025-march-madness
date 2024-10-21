@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330302641,2013-01-30,2,2641,home,FALSE,Texas Tech,60,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-330302641,2013-01-30,2,239,away,FALSE,Baylor,90,Bears,Baylor Bears,Baylor
-330300058,2013-01-30,2,58,home,FALSE,South Florida,75,Bulls,South Florida Bulls,South Florida
-330300058,2013-01-30,2,97,away,FALSE,Louisville,78,Cardinals,Louisville Cardinals,Louisville
-330302670,2013-01-30,2,2670,home,FALSE,VCU,49,Rams,VCU Rams,VCU
-330302670,2013-01-30,2,2168,away,FALSE,Dayton,60,Flyers,Dayton Flyers,Dayton
-330300201,2013-01-30,2,201,home,FALSE,Oklahoma,74,Sooners,Oklahoma Sooners,Oklahoma
-330300201,2013-01-30,2,2628,away,FALSE,TCU,53,Horned Frogs,TCU Horned Frogs,TCU
-330302305,2013-01-30,3,2305,home,FALSE,Kansas,78,Jayhawks,Kansas Jayhawks,Kansas
-330302305,2013-01-30,3,66,away,FALSE,Iowa State,75,Cyclones,Iowa State Cyclones,Iowa State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330302641,2013,regular-season,2013-01-30,2,2641,home,FALSE,Texas Tech,60,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+330302641,2013,regular-season,2013-01-30,2,239,away,FALSE,Baylor,90,Bears,Baylor Bears,Baylor
+330300058,2013,regular-season,2013-01-30,2,58,home,FALSE,South Florida,75,Bulls,South Florida Bulls,South Florida
+330300058,2013,regular-season,2013-01-30,2,97,away,FALSE,Louisville,78,Cardinals,Louisville Cardinals,Louisville
+330302670,2013,regular-season,2013-01-30,2,2670,home,FALSE,VCU,49,Rams,VCU Rams,VCU
+330302670,2013,regular-season,2013-01-30,2,2168,away,FALSE,Dayton,60,Flyers,Dayton Flyers,Dayton
+330300201,2013,regular-season,2013-01-30,2,201,home,FALSE,Oklahoma,74,Sooners,Oklahoma Sooners,Oklahoma
+330300201,2013,regular-season,2013-01-30,2,2628,away,FALSE,TCU,53,Horned Frogs,TCU Horned Frogs,TCU
+330302305,2013,regular-season,2013-01-30,3,2305,home,FALSE,Kansas,78,Jayhawks,Kansas Jayhawks,Kansas
+330302305,2013,regular-season,2013-01-30,3,66,away,FALSE,Iowa State,75,Cyclones,Iowa State Cyclones,Iowa State

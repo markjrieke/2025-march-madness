@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400819377,2015-12-14,4,150,home,FALSE,Duke,70,Blue Devils,Duke Blue Devils,Duke
-400819377,2015-12-14,4,113,away,FALSE,Massachusetts,46,Minutewomen,Massachusetts Minutewomen,UMass
-400821063,2015-12-14,4,42,home,FALSE,Hartford,29,Hawks,Hartford Hawks,Hartford
-400821063,2015-12-14,4,9,away,FALSE,Arizona State,60,Sun Devils,Arizona State Sun Devils,Arizona St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400819377,2016,regular-season,2015-12-14,4,150,home,FALSE,Duke,70,Blue Devils,Duke Blue Devils,Duke
+400819377,2016,regular-season,2015-12-14,4,113,away,FALSE,Massachusetts,46,Minutewomen,Massachusetts Minutewomen,UMass
+400821063,2016,regular-season,2015-12-14,4,42,home,FALSE,Hartford,29,Hawks,Hartford Hawks,Hartford
+400821063,2016,regular-season,2015-12-14,4,9,away,FALSE,Arizona State,60,Sun Devils,Arizona State Sun Devils,Arizona St

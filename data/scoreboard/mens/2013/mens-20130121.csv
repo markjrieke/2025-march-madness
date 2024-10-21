@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330210183,2013-01-21,2,183,home,FALSE,Syracuse,57,Orange,Syracuse Orange,Syracuse
-330210183,2013-01-21,2,2132,away,FALSE,Cincinnati,55,Bearcats,Cincinnati Bearcats,Cincinnati
-330210087,2013-01-21,2,87,home,FALSE,Notre Dame,47,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-330210087,2013-01-21,2,46,away,FALSE,Georgetown,63,Hoyas,Georgetown Hoyas,Georgetown
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330210183,2013,regular-season,2013-01-21,2,183,home,FALSE,Syracuse,57,Orange,Syracuse Orange,Syracuse
+330210183,2013,regular-season,2013-01-21,2,2132,away,FALSE,Cincinnati,55,Bearcats,Cincinnati Bearcats,Cincinnati
+330210087,2013,regular-season,2013-01-21,2,87,home,FALSE,Notre Dame,47,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+330210087,2013,regular-season,2013-01-21,2,46,away,FALSE,Georgetown,63,Hoyas,Georgetown Hoyas,Georgetown

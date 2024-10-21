@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401172493,2019-12-30,2,2250,home,FALSE,Gonzaga,93,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401172493,2019-12-30,2,2174,away,FALSE,Detroit Mercy,72,Titans,Detroit Mercy Titans,Detroit Mercy
-401169675,2019-12-30,2,239,home,FALSE,Baylor,83,Bears,Baylor Bears,Baylor
-401169675,2019-12-30,2,2296,away,FALSE,Jackson State,57,Tigers,Jackson State Tigers,Jackson St
-401169511,2019-12-30,2,235,home,FALSE,Memphis,84,Tigers,Memphis Tigers,Memphis
-401169511,2019-12-30,2,2655,away,FALSE,Tulane,73,Green Wave,Tulane Green Wave,Tulane
-401169785,2019-12-30,2,222,home,FALSE,Villanova,68,Wildcats,Villanova Wildcats,Villanova
-401169785,2019-12-30,2,2752,away,FALSE,Xavier,62,Musketeers,Xavier Musketeers,Xavier
-401170208,2019-12-30,2,2168,home,FALSE,Dayton,77,Flyers,Dayton Flyers,Dayton
-401170208,2019-12-30,2,2454,away,FALSE,North Florida,59,Ospreys,North Florida Ospreys,North Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401172493,2020,regular-season,2019-12-30,2,2250,home,FALSE,Gonzaga,93,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401172493,2020,regular-season,2019-12-30,2,2174,away,FALSE,Detroit Mercy,72,Titans,Detroit Mercy Titans,Detroit Mercy
+401169675,2020,regular-season,2019-12-30,2,239,home,FALSE,Baylor,83,Bears,Baylor Bears,Baylor
+401169675,2020,regular-season,2019-12-30,2,2296,away,FALSE,Jackson State,57,Tigers,Jackson State Tigers,Jackson St
+401169511,2020,regular-season,2019-12-30,2,235,home,FALSE,Memphis,84,Tigers,Memphis Tigers,Memphis
+401169511,2020,regular-season,2019-12-30,2,2655,away,FALSE,Tulane,73,Green Wave,Tulane Green Wave,Tulane
+401169785,2020,regular-season,2019-12-30,2,222,home,FALSE,Villanova,68,Wildcats,Villanova Wildcats,Villanova
+401169785,2020,regular-season,2019-12-30,2,2752,away,FALSE,Xavier,62,Musketeers,Xavier Musketeers,Xavier
+401170208,2020,regular-season,2019-12-30,2,2168,home,FALSE,Dayton,77,Flyers,Dayton Flyers,Dayton
+401170208,2020,regular-season,2019-12-30,2,2454,away,FALSE,North Florida,59,Ospreys,North Florida Ospreys,North Florida

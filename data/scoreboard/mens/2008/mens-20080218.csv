@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280490251,2008-02-18,2,251,home,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
-280490251,2008-02-18,2,245,away,FALSE,Texas A&M,50,Aggies,Texas A&M Aggies,Texas A&M
-280490227,2008-02-18,2,227,home,FALSE,Rhode Island,77,Rams,Rhode Island Rams,Rhode Island
-280490227,2008-02-18,2,2752,away,FALSE,Xavier,81,Musketeers,Xavier Musketeers,Xavier
-280492507,2008-02-18,2,2507,home,FALSE,Providence,58,Friars,Providence Friars,Providence
-280492507,2008-02-18,2,46,away,FALSE,Georgetown,68,Hoyas,Georgetown Hoyas,Georgetown
-280490097,2008-02-18,2,97,home,FALSE,Louisville,61,Cardinals,Louisville Cardinals,Louisville
-280490097,2008-02-18,2,183,away,FALSE,Syracuse,50,Orange,Syracuse Orange,Syracuse
-280492492,2008-02-18,2,2492,home,FALSE,Pepperdine,64,Waves,Pepperdine Waves,Pepperdine
-280492492,2008-02-18,2,2608,away,FALSE,Saint Mary's,100,Gaels,Saint Mary's Gaels,Saint Mary's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280490251,2008,regular-season,2008-02-18,2,251,home,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
+280490251,2008,regular-season,2008-02-18,2,245,away,FALSE,Texas A&M,50,Aggies,Texas A&M Aggies,Texas A&M
+280490227,2008,regular-season,2008-02-18,2,227,home,FALSE,Rhode Island,77,Rams,Rhode Island Rams,Rhode Island
+280490227,2008,regular-season,2008-02-18,2,2752,away,FALSE,Xavier,81,Musketeers,Xavier Musketeers,Xavier
+280492507,2008,regular-season,2008-02-18,2,2507,home,FALSE,Providence,58,Friars,Providence Friars,Providence
+280492507,2008,regular-season,2008-02-18,2,46,away,FALSE,Georgetown,68,Hoyas,Georgetown Hoyas,Georgetown
+280490097,2008,regular-season,2008-02-18,2,97,home,FALSE,Louisville,61,Cardinals,Louisville Cardinals,Louisville
+280490097,2008,regular-season,2008-02-18,2,183,away,FALSE,Syracuse,50,Orange,Syracuse Orange,Syracuse
+280492492,2008,regular-season,2008-02-18,2,2492,home,FALSE,Pepperdine,64,Waves,Pepperdine Waves,Pepperdine
+280492492,2008,regular-season,2008-02-18,2,2608,away,FALSE,Saint Mary's,100,Gaels,Saint Mary's Gaels,Saint Mary's

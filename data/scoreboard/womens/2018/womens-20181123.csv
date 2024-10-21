@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401091447,2018-11-23,4,245,home,FALSE,Texas A&M,97,Aggies,Texas A&M Aggies,Texas A&M
-401091447,2018-11-23,4,2032,away,FALSE,Arkansas State,56,Red Wolves,Arkansas State Red Wolves,Arkansas St
-401094729,2018-11-23,4,135,home,FALSE,Minnesota,65,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401094729,2018-11-23,4,172,away,FALSE,Cornell,45,Big Red,Cornell Big Red,Cornell
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401091447,2019,regular-season,2018-11-23,4,245,home,FALSE,Texas A&M,97,Aggies,Texas A&M Aggies,Texas A&M
+401091447,2019,regular-season,2018-11-23,4,2032,away,FALSE,Arkansas State,56,Red Wolves,Arkansas State Red Wolves,Arkansas St
+401094729,2019,regular-season,2018-11-23,4,135,home,FALSE,Minnesota,65,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401094729,2019,regular-season,2018-11-23,4,172,away,FALSE,Cornell,45,Big Red,Cornell Big Red,Cornell

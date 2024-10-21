@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280150127,2008-01-15,2,127,home,FALSE,Michigan State,66,Spartans,Michigan State Spartans,Michigan St
-280150127,2008-01-15,2,194,away,FALSE,Ohio State,60,Buckeyes,Ohio State Buckeyes,Ohio State
-280150213,2008-01-15,2,213,home,FALSE,Penn State,55,Nittany Lions,Penn State Nittany Lions,Penn State
-280150213,2008-01-15,2,275,away,FALSE,Wisconsin,80,Badgers,Wisconsin Badgers,Wisconsin
-280150103,2008-01-15,2,103,home,FALSE,Boston College,76,Eagles,Boston College Eagles,Boston College
-280150103,2008-01-15,2,2390,away,FALSE,Miami,66,Hurricanes,Miami Hurricanes,Miami
-280150228,2008-01-15,2,228,home,FALSE,Clemson,70,Tigers,Clemson Tigers,Clemson
-280150228,2008-01-15,2,152,away,FALSE,NC State,54,Wolfpack,NC State Wolfpack,NC State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280150127,2008,regular-season,2008-01-15,2,127,home,FALSE,Michigan State,66,Spartans,Michigan State Spartans,Michigan St
+280150127,2008,regular-season,2008-01-15,2,194,away,FALSE,Ohio State,60,Buckeyes,Ohio State Buckeyes,Ohio State
+280150213,2008,regular-season,2008-01-15,2,213,home,FALSE,Penn State,55,Nittany Lions,Penn State Nittany Lions,Penn State
+280150213,2008,regular-season,2008-01-15,2,275,away,FALSE,Wisconsin,80,Badgers,Wisconsin Badgers,Wisconsin
+280150103,2008,regular-season,2008-01-15,2,103,home,FALSE,Boston College,76,Eagles,Boston College Eagles,Boston College
+280150103,2008,regular-season,2008-01-15,2,2390,away,FALSE,Miami,66,Hurricanes,Miami Hurricanes,Miami
+280150228,2008,regular-season,2008-01-15,2,228,home,FALSE,Clemson,70,Tigers,Clemson Tigers,Clemson
+280150228,2008,regular-season,2008-01-15,2,152,away,FALSE,NC State,54,Wolfpack,NC State Wolfpack,NC State

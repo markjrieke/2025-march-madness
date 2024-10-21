@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310072429,2011-01-07,2,2429,home,FALSE,Charlotte,57,49ers,Charlotte 49ers,Charlotte
-310072429,2011-01-07,2,218,away,FALSE,Temple,60,Owls,Temple Owls,Temple
-310072405,2011-01-07,2,2405,home,FALSE,Monmouth,57,Hawks,Monmouth Hawks,Monmouth
-310072405,2011-01-07,2,2514,away,FALSE,Quinnipiac,60,Bobcats,Quinnipiac Bobcats,Quinnipiac
-310072142,2011-01-07,2,2142,home,FALSE,Colgate,40,Raiders,Colgate Raiders,Colgate
-310072142,2011-01-07,2,349,away,FALSE,Army,54,Black Knights,Army Black Knights,Army
-310070161,2011-01-07,2,161,home,FALSE,Fairleigh Dickinson,39,Knights,Fairleigh Dickinson Knights,Fair Dickinson
-310070161,2011-01-07,2,2529,away,FALSE,Sacred Heart,65,Pioneers,Sacred Heart Pioneers,Sacred Heart
-310072934,2011-01-07,2,2934,home,FALSE,Cal State Bakersfield,90,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
-310072934,2011-01-07,2,506,away,FALSE,Concordia-Irvine,63,Eagles,Concordia-Irvine Eagles,Concordia CA
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310072429,2011,regular-season,2011-01-07,2,2429,home,FALSE,Charlotte,57,49ers,Charlotte 49ers,Charlotte
+310072429,2011,regular-season,2011-01-07,2,218,away,FALSE,Temple,60,Owls,Temple Owls,Temple
+310072405,2011,regular-season,2011-01-07,2,2405,home,FALSE,Monmouth,57,Hawks,Monmouth Hawks,Monmouth
+310072405,2011,regular-season,2011-01-07,2,2514,away,FALSE,Quinnipiac,60,Bobcats,Quinnipiac Bobcats,Quinnipiac
+310072142,2011,regular-season,2011-01-07,2,2142,home,FALSE,Colgate,40,Raiders,Colgate Raiders,Colgate
+310072142,2011,regular-season,2011-01-07,2,349,away,FALSE,Army,54,Black Knights,Army Black Knights,Army
+310070161,2011,regular-season,2011-01-07,2,161,home,FALSE,Fairleigh Dickinson,39,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+310070161,2011,regular-season,2011-01-07,2,2529,away,FALSE,Sacred Heart,65,Pioneers,Sacred Heart Pioneers,Sacred Heart
+310072934,2011,regular-season,2011-01-07,2,2934,home,FALSE,Cal State Bakersfield,90,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+310072934,2011,regular-season,2011-01-07,2,506,away,FALSE,Concordia-Irvine,63,Eagles,Concordia-Irvine Eagles,Concordia CA

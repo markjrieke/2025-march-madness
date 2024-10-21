@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240030041,2004-01-03,2,41,home,FALSE,UConn,67,Huskies,UConn Huskies,UConn
-240030041,2004-01-03,2,150,away,FALSE,Duke,68,Blue Devils,Duke Blue Devils,Duke
-240030251,2004-01-03,2,251,home,FALSE,Texas,92,Longhorns,Texas Longhorns,Texas
-240030251,2004-01-03,2,167,away,FALSE,New Mexico,47,Lobos,New Mexico Lobos,New Mexico
-240030135,2004-01-03,2,135,home,FALSE,Minnesota,63,Golden Gophers,Minnesota Golden Gophers,Minnesota
-240030135,2004-01-03,2,2579,away,FALSE,South Carolina,53,Gamecocks,South Carolina Gamecocks,South Carolina
-240030202,2004-01-03,2,202,home,FALSE,Tulsa,60,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-240030202,2004-01-03,2,2348,away,FALSE,Louisiana Tech,63,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-240030038,2004-01-03,2,38,home,FALSE,Colorado,98,Buffaloes,Colorado Buffaloes,Colorado
-240030038,2004-01-03,2,2084,away,FALSE,Buffalo,47,Bulls,Buffalo Bulls,Buffalo
-240032459,2004-01-03,2,2459,home,FALSE,Northern Illinois,60,Huskies,Northern Illinois Huskies,N Illinois
-240032459,2004-01-03,2,305,away,FALSE,DePaul,70,Blue Demons,DePaul Blue Demons,DePaul
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240030041,2004,regular-season,2004-01-03,2,41,home,FALSE,UConn,67,Huskies,UConn Huskies,UConn
+240030041,2004,regular-season,2004-01-03,2,150,away,FALSE,Duke,68,Blue Devils,Duke Blue Devils,Duke
+240030251,2004,regular-season,2004-01-03,2,251,home,FALSE,Texas,92,Longhorns,Texas Longhorns,Texas
+240030251,2004,regular-season,2004-01-03,2,167,away,FALSE,New Mexico,47,Lobos,New Mexico Lobos,New Mexico
+240030135,2004,regular-season,2004-01-03,2,135,home,FALSE,Minnesota,63,Golden Gophers,Minnesota Golden Gophers,Minnesota
+240030135,2004,regular-season,2004-01-03,2,2579,away,FALSE,South Carolina,53,Gamecocks,South Carolina Gamecocks,South Carolina
+240030202,2004,regular-season,2004-01-03,2,202,home,FALSE,Tulsa,60,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+240030202,2004,regular-season,2004-01-03,2,2348,away,FALSE,Louisiana Tech,63,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+240030038,2004,regular-season,2004-01-03,2,38,home,FALSE,Colorado,98,Buffaloes,Colorado Buffaloes,Colorado
+240030038,2004,regular-season,2004-01-03,2,2084,away,FALSE,Buffalo,47,Bulls,Buffalo Bulls,Buffalo
+240032459,2004,regular-season,2004-01-03,2,2459,home,FALSE,Northern Illinois,60,Huskies,Northern Illinois Huskies,N Illinois
+240032459,2004,regular-season,2004-01-03,2,305,away,FALSE,DePaul,70,Blue Demons,DePaul Blue Demons,DePaul

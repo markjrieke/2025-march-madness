@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401483864,2022-11-10,4,2294,home,FALSE,Iowa,115,Hawkeyes,Iowa Hawkeyes,Iowa
-401483864,2022-11-10,4,339,away,FALSE,Evansville,62,Purple Aces,Evansville Purple Aces,Evansville
-401480176,2022-11-10,4,2633,home,FALSE,Tennessee,74,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401480176,2022-11-10,4,113,away,FALSE,Massachusetts,65,Minutewomen,Massachusetts Minutewomen,UMass
-401484359,2022-11-10,4,41,home,FALSE,UConn,98,Huskies,UConn Huskies,UConn
-401484359,2022-11-10,4,111,away,FALSE,Northeastern,39,Huskies,Northeastern Huskies,Northeastern
-401486275,2022-11-10,4,97,home,FALSE,Louisville,84,Cardinals,Louisville Cardinals,Louisville
-401486275,2022-11-10,4,85,away,FALSE,IU Indianapolis,62,Jaguars,IU Indianapolis Jaguars,IU Indy
-401483553,2022-11-10,4,66,home,FALSE,Iowa State,79,Cyclones,Iowa State Cyclones,Iowa State
-401483553,2022-11-10,4,2582,away,FALSE,Southern,55,Jaguars,Southern Jaguars,Southern
-401480210,2022-11-10,4,152,home,FALSE,NC State,89,Wolfpack,NC State Wolfpack,NC State
-401480210,2022-11-10,4,2210,away,FALSE,Elon,55,Phoenix,Elon Phoenix,Elon
-401480315,2022-11-10,4,239,home,FALSE,Baylor,71,Bears,Baylor Bears,Baylor
-401480315,2022-11-10,4,2916,away,FALSE,Incarnate Word,42,Cardinals,Incarnate Word Cardinals,Incarnate Word
-401483816,2022-11-10,4,12,home,FALSE,Arizona,113,Wildcats,Arizona Wildcats,Arizona
-401483816,2022-11-10,4,2464,away,FALSE,Northern Arizona,56,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
-401485712,2022-11-10,4,233,home,FALSE,South Dakota,51,Coyotes,South Dakota Coyotes,South Dakota
-401485712,2022-11-10,4,156,away,FALSE,Creighton,74,Bluejays,Creighton Bluejays,Creighton
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401483864,2023,regular-season,2022-11-10,4,2294,home,FALSE,Iowa,115,Hawkeyes,Iowa Hawkeyes,Iowa
+401483864,2023,regular-season,2022-11-10,4,339,away,FALSE,Evansville,62,Purple Aces,Evansville Purple Aces,Evansville
+401480176,2023,regular-season,2022-11-10,4,2633,home,FALSE,Tennessee,74,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401480176,2023,regular-season,2022-11-10,4,113,away,FALSE,Massachusetts,65,Minutewomen,Massachusetts Minutewomen,UMass
+401484359,2023,regular-season,2022-11-10,4,41,home,FALSE,UConn,98,Huskies,UConn Huskies,UConn
+401484359,2023,regular-season,2022-11-10,4,111,away,FALSE,Northeastern,39,Huskies,Northeastern Huskies,Northeastern
+401486275,2023,regular-season,2022-11-10,4,97,home,FALSE,Louisville,84,Cardinals,Louisville Cardinals,Louisville
+401486275,2023,regular-season,2022-11-10,4,85,away,FALSE,IU Indianapolis,62,Jaguars,IU Indianapolis Jaguars,IU Indy
+401483553,2023,regular-season,2022-11-10,4,66,home,FALSE,Iowa State,79,Cyclones,Iowa State Cyclones,Iowa State
+401483553,2023,regular-season,2022-11-10,4,2582,away,FALSE,Southern,55,Jaguars,Southern Jaguars,Southern
+401480210,2023,regular-season,2022-11-10,4,152,home,FALSE,NC State,89,Wolfpack,NC State Wolfpack,NC State
+401480210,2023,regular-season,2022-11-10,4,2210,away,FALSE,Elon,55,Phoenix,Elon Phoenix,Elon
+401480315,2023,regular-season,2022-11-10,4,239,home,FALSE,Baylor,71,Bears,Baylor Bears,Baylor
+401480315,2023,regular-season,2022-11-10,4,2916,away,FALSE,Incarnate Word,42,Cardinals,Incarnate Word Cardinals,Incarnate Word
+401483816,2023,regular-season,2022-11-10,4,12,home,FALSE,Arizona,113,Wildcats,Arizona Wildcats,Arizona
+401483816,2023,regular-season,2022-11-10,4,2464,away,FALSE,Northern Arizona,56,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+401485712,2023,regular-season,2022-11-10,4,233,home,FALSE,South Dakota,51,Coyotes,South Dakota Coyotes,South Dakota
+401485712,2023,regular-season,2022-11-10,4,156,away,FALSE,Creighton,74,Bluejays,Creighton Bluejays,Creighton

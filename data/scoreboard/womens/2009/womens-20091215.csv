@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293490024,2009-12-15,2,24,home,FALSE,Stanford,71,Cardinal,Stanford Cardinal,Stanford
-293490024,2009-12-15,2,150,away,FALSE,Duke,55,Blue Devils,Duke Blue Devils,Duke
-293490099,2009-12-15,2,99,home,FALSE,LSU,93,Tigers,LSU Tigers,LSU
-293490099,2009-12-15,2,2277,away,FALSE,Houston Christian,31,Huskies,Houston Christian Huskies,Hou Christian
-293490194,2009-12-15,2,194,home,FALSE,Ohio State,84,Buckeyes,Ohio State Buckeyes,Ohio State
-293490194,2009-12-15,2,2750,away,FALSE,Wright State,47,Raiders,Wright State Raiders,Wright St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293490024,2010,regular-season,2009-12-15,2,24,home,FALSE,Stanford,71,Cardinal,Stanford Cardinal,Stanford
+293490024,2010,regular-season,2009-12-15,2,150,away,FALSE,Duke,55,Blue Devils,Duke Blue Devils,Duke
+293490099,2010,regular-season,2009-12-15,2,99,home,FALSE,LSU,93,Tigers,LSU Tigers,LSU
+293490099,2010,regular-season,2009-12-15,2,2277,away,FALSE,Houston Christian,31,Huskies,Houston Christian Huskies,Hou Christian
+293490194,2010,regular-season,2009-12-15,2,194,home,FALSE,Ohio State,84,Buckeyes,Ohio State Buckeyes,Ohio State
+293490194,2010,regular-season,2009-12-15,2,2750,away,FALSE,Wright State,47,Raiders,Wright State Raiders,Wright St

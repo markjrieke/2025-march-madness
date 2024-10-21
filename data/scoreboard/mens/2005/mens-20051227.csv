@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253610235,2005-12-27,2,235,home,FALSE,Memphis,83,Tigers,Memphis Tigers,Memphis
-253610235,2005-12-27,2,2250,away,FALSE,Gonzaga,72,Bulldogs,Gonzaga Bulldogs,Gonzaga
-253612184,2005-12-27,2,2184,home,FALSE,Duquesne,69,Dukes,Duquesne Dukes,Duquesne
-253612184,2005-12-27,2,103,away,FALSE,Boston College,81,Eagles,Boston College Eagles,Boston College
-253612440,2005-12-27,2,2440,home,FALSE,Nevada,56,Wolf Pack,Nevada Wolf Pack,Nevada
-253612440,2005-12-27,2,2450,away,FALSE,Norfolk State,46,Spartans,Norfolk State Spartans,Norfolk St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253610235,2006,regular-season,2005-12-27,2,235,home,FALSE,Memphis,83,Tigers,Memphis Tigers,Memphis
+253610235,2006,regular-season,2005-12-27,2,2250,away,FALSE,Gonzaga,72,Bulldogs,Gonzaga Bulldogs,Gonzaga
+253612184,2006,regular-season,2005-12-27,2,2184,home,FALSE,Duquesne,69,Dukes,Duquesne Dukes,Duquesne
+253612184,2006,regular-season,2005-12-27,2,103,away,FALSE,Boston College,81,Eagles,Boston College Eagles,Boston College
+253612440,2006,regular-season,2005-12-27,2,2440,home,FALSE,Nevada,56,Wolf Pack,Nevada Wolf Pack,Nevada
+253612440,2006,regular-season,2005-12-27,2,2450,away,FALSE,Norfolk State,46,Spartans,Norfolk State Spartans,Norfolk St

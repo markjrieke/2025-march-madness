@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213442603,2001-12-10,2,2603,home,FALSE,Saint Joseph's,85,Hawks,Saint Joseph's Hawks,Saint Joseph's
-213442603,2001-12-10,2,2182,away,FALSE,Drexel,64,Dragons,Drexel Dragons,Drexel
-213440046,2001-12-10,2,46,home,FALSE,Georgetown,91,Hoyas,Georgetown Hoyas,Georgetown
-213440046,2001-12-10,2,2415,away,FALSE,Morgan State,65,Bears,Morgan State Bears,Morgan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213442603,2002,regular-season,2001-12-10,2,2603,home,FALSE,Saint Joseph's,85,Hawks,Saint Joseph's Hawks,Saint Joseph's
+213442603,2002,regular-season,2001-12-10,2,2182,away,FALSE,Drexel,64,Dragons,Drexel Dragons,Drexel
+213440046,2002,regular-season,2001-12-10,2,46,home,FALSE,Georgetown,91,Hoyas,Georgetown Hoyas,Georgetown
+213440046,2002,regular-season,2001-12-10,2,2415,away,FALSE,Morgan State,65,Bears,Morgan State Bears,Morgan St

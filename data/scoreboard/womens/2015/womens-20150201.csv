@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400595044,2015-02-01,2,145,home,FALSE,Ole Miss,59,Rebels,Ole Miss Rebels,Ole Miss
-400595044,2015-02-01,2,2579,away,FALSE,South Carolina,77,Gamecocks,South Carolina Gamecocks,South Carolina
-400597520,2015-02-01,2,218,home,FALSE,Temple,49,Owls,Temple Owls,Temple
-400597520,2015-02-01,2,41,away,FALSE,UConn,83,Huskies,UConn Huskies,UConn
-400592395,2015-02-01,2,239,home,FALSE,Baylor,66,Bears,Baylor Bears,Baylor
-400592395,2015-02-01,2,2305,away,FALSE,Kansas,58,Jayhawks,Kansas Jayhawks,Kansas
-400593120,2015-02-01,2,87,home,FALSE,Notre Dame,92,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400593120,2015-02-01,2,154,away,FALSE,Wake Forest,63,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-400596713,2015-02-01,2,120,home,FALSE,Maryland,93,Terrapins,Maryland Terrapins,Maryland
-400596713,2015-02-01,2,2294,away,FALSE,Iowa,88,Hawkeyes,Iowa Hawkeyes,Iowa
-400595023,2015-02-01,2,2633,home,FALSE,Tennessee,79,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400595023,2015-02-01,2,344,away,FALSE,Mississippi State,67,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400594974,2015-02-01,2,96,home,FALSE,Kentucky,80,Wildcats,Kentucky Wildcats,Kentucky
-400594974,2015-02-01,2,61,away,FALSE,Georgia,72,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-400590504,2015-02-01,2,254,home,FALSE,Utah,48,Utes,Utah Utes,Utah
-400590504,2015-02-01,2,9,away,FALSE,Arizona State,58,Sun Devils,Arizona State Sun Devils,Arizona St
-400594934,2015-02-01,2,245,home,FALSE,Texas A&M,78,Aggies,Texas A&M Aggies,Texas A&M
-400594934,2015-02-01,2,2,away,FALSE,Auburn,45,Tigers,Auburn Tigers,Auburn
-400592394,2015-02-01,2,2628,home,FALSE,TCU,64,Horned Frogs,TCU Horned Frogs,TCU
-400592394,2015-02-01,2,251,away,FALSE,Texas,59,Longhorns,Texas Longhorns,Texas
-400596711,2015-02-01,2,158,home,FALSE,Nebraska,75,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400596711,2015-02-01,2,130,away,FALSE,Michigan,60,Wolverines,Michigan Wolverines,Michigan
-400593122,2015-02-01,2,153,home,FALSE,North Carolina,72,Tar Heels,North Carolina Tar Heels,North Carolina
-400593122,2015-02-01,2,103,away,FALSE,Boston College,60,Eagles,Boston College Eagles,Boston College
-400596714,2015-02-01,2,164,home,FALSE,Rutgers,76,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400596714,2015-02-01,2,213,away,FALSE,Penn State,65,Lady Lions,Penn State Lady Lions,Penn State
-400592393,2015-02-01,2,277,home,FALSE,West Virginia,78,Mountaineers,West Virginia Mountaineers,West Virginia
-400592393,2015-02-01,2,201,away,FALSE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400595044,2015,regular-season,2015-02-01,2,145,home,FALSE,Ole Miss,59,Rebels,Ole Miss Rebels,Ole Miss
+400595044,2015,regular-season,2015-02-01,2,2579,away,FALSE,South Carolina,77,Gamecocks,South Carolina Gamecocks,South Carolina
+400597520,2015,regular-season,2015-02-01,2,218,home,FALSE,Temple,49,Owls,Temple Owls,Temple
+400597520,2015,regular-season,2015-02-01,2,41,away,FALSE,UConn,83,Huskies,UConn Huskies,UConn
+400592395,2015,regular-season,2015-02-01,2,239,home,FALSE,Baylor,66,Bears,Baylor Bears,Baylor
+400592395,2015,regular-season,2015-02-01,2,2305,away,FALSE,Kansas,58,Jayhawks,Kansas Jayhawks,Kansas
+400593120,2015,regular-season,2015-02-01,2,87,home,FALSE,Notre Dame,92,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400593120,2015,regular-season,2015-02-01,2,154,away,FALSE,Wake Forest,63,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+400596713,2015,regular-season,2015-02-01,2,120,home,FALSE,Maryland,93,Terrapins,Maryland Terrapins,Maryland
+400596713,2015,regular-season,2015-02-01,2,2294,away,FALSE,Iowa,88,Hawkeyes,Iowa Hawkeyes,Iowa
+400595023,2015,regular-season,2015-02-01,2,2633,home,FALSE,Tennessee,79,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400595023,2015,regular-season,2015-02-01,2,344,away,FALSE,Mississippi State,67,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400594974,2015,regular-season,2015-02-01,2,96,home,FALSE,Kentucky,80,Wildcats,Kentucky Wildcats,Kentucky
+400594974,2015,regular-season,2015-02-01,2,61,away,FALSE,Georgia,72,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+400590504,2015,regular-season,2015-02-01,2,254,home,FALSE,Utah,48,Utes,Utah Utes,Utah
+400590504,2015,regular-season,2015-02-01,2,9,away,FALSE,Arizona State,58,Sun Devils,Arizona State Sun Devils,Arizona St
+400594934,2015,regular-season,2015-02-01,2,245,home,FALSE,Texas A&M,78,Aggies,Texas A&M Aggies,Texas A&M
+400594934,2015,regular-season,2015-02-01,2,2,away,FALSE,Auburn,45,Tigers,Auburn Tigers,Auburn
+400592394,2015,regular-season,2015-02-01,2,2628,home,FALSE,TCU,64,Horned Frogs,TCU Horned Frogs,TCU
+400592394,2015,regular-season,2015-02-01,2,251,away,FALSE,Texas,59,Longhorns,Texas Longhorns,Texas
+400596711,2015,regular-season,2015-02-01,2,158,home,FALSE,Nebraska,75,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400596711,2015,regular-season,2015-02-01,2,130,away,FALSE,Michigan,60,Wolverines,Michigan Wolverines,Michigan
+400593122,2015,regular-season,2015-02-01,2,153,home,FALSE,North Carolina,72,Tar Heels,North Carolina Tar Heels,North Carolina
+400593122,2015,regular-season,2015-02-01,2,103,away,FALSE,Boston College,60,Eagles,Boston College Eagles,Boston College
+400596714,2015,regular-season,2015-02-01,2,164,home,FALSE,Rutgers,76,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400596714,2015,regular-season,2015-02-01,2,213,away,FALSE,Penn State,65,Lady Lions,Penn State Lady Lions,Penn State
+400592393,2015,regular-season,2015-02-01,2,277,home,FALSE,West Virginia,78,Mountaineers,West Virginia Mountaineers,West Virginia
+400592393,2015,regular-season,2015-02-01,2,201,away,FALSE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma

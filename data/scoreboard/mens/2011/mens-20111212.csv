@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313462885,2011-12-12,2,2885,home,FALSE,NJIT,78,Highlanders,NJIT Highlanders,NJIT
-313462885,2011-12-12,2,2990,away,FALSE,St. Joseph's (NY),50,Bears,St. Joseph's (NY) Bears,St Josephs NY
-313462561,2011-12-12,2,2561,home,FALSE,Siena,59,Saints,Siena Saints,Siena
-313462561,2011-12-12,2,2230,away,FALSE,Fordham,74,Rams,Fordham Rams,Fordham
-313462542,2011-12-12,2,2542,home,FALSE,Savannah State,80,Tigers,Savannah State Tigers,Savannah St
-313462542,2011-12-12,2,3189,away,FALSE,Coastal Georgia,42,Mariner,Coastal Georgia Mariner,Coastalga
-313462344,2011-12-12,2,2344,home,FALSE,Longwood,110,Lancers,Longwood Lancers,Longwood
-313462344,2011-12-12,2,2678,away,FALSE,VMI,89,Keydets,VMI Keydets,VMI
-313462329,2011-12-12,2,2329,home,FALSE,Lehigh,95,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-313462329,2011-12-12,2,407,away,FALSE,Arcadia,55,Arcadia,Arcadia,Arcadia
-313460047,2011-12-12,2,47,home,FALSE,Howard,71,Bison,Howard Bison,Howard
-313460047,2011-12-12,2,2597,away,FALSE,St. Francis Brooklyn,73,Terriers,St. Francis Brooklyn Terriers,St Francis BK
-313460164,2011-12-12,2,164,home,FALSE,Rutgers,81,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-313460164,2011-12-12,2,2405,away,FALSE,Monmouth,66,Hawks,Monmouth Hawks,Monmouth
-313462571,2011-12-12,2,2571,home,FALSE,South Dakota State,93,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-313462571,2011-12-12,2,512,away,FALSE,Dakota State,60,Trojans,Dakota State Trojans,Dakota St
-313462545,2011-12-12,3,2545,home,FALSE,SE Louisiana,65,Lions,SE Louisiana Lions,SE Louisiana
-313462545,2011-12-12,3,2582,away,FALSE,Southern,61,Jaguars,Southern Jaguars,Southern
-313462433,2011-12-12,2,2433,home,FALSE,UL Monroe,70,Warhawks,UL Monroe Warhawks,UL Monroe
-313462433,2011-12-12,2,2447,away,FALSE,Nicholls,82,Colonels,Nicholls Colonels,Nicholls
-313462031,2011-12-12,2,2031,home,FALSE,Little Rock,55,Trojans,Little Rock Trojans,Little Rock
-313462031,2011-12-12,2,198,away,FALSE,Oral Roberts,58,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-313460309,2011-12-12,2,309,home,FALSE,Louisiana,102,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
-313460309,2011-12-12,2,2176,away,FALSE,Dillard,38,Blue Devils,Dillard Blue Devils,Dillard
-313462483,2011-12-12,2,2483,home,FALSE,Oregon,79,Ducks,Oregon Ducks,Oregon
-313462483,2011-12-12,2,2502,away,FALSE,Portland State,70,Vikings,Portland State Vikings,Portland St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313462885,2012,regular-season,2011-12-12,2,2885,home,FALSE,NJIT,78,Highlanders,NJIT Highlanders,NJIT
+313462885,2012,regular-season,2011-12-12,2,2990,away,FALSE,St. Joseph's (NY),50,Bears,St. Joseph's (NY) Bears,St Josephs NY
+313462561,2012,regular-season,2011-12-12,2,2561,home,FALSE,Siena,59,Saints,Siena Saints,Siena
+313462561,2012,regular-season,2011-12-12,2,2230,away,FALSE,Fordham,74,Rams,Fordham Rams,Fordham
+313462542,2012,regular-season,2011-12-12,2,2542,home,FALSE,Savannah State,80,Tigers,Savannah State Tigers,Savannah St
+313462542,2012,regular-season,2011-12-12,2,3189,away,FALSE,Coastal Georgia,42,Mariner,Coastal Georgia Mariner,Coastalga
+313462344,2012,regular-season,2011-12-12,2,2344,home,FALSE,Longwood,110,Lancers,Longwood Lancers,Longwood
+313462344,2012,regular-season,2011-12-12,2,2678,away,FALSE,VMI,89,Keydets,VMI Keydets,VMI
+313462329,2012,regular-season,2011-12-12,2,2329,home,FALSE,Lehigh,95,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+313462329,2012,regular-season,2011-12-12,2,407,away,FALSE,Arcadia,55,Arcadia,Arcadia,Arcadia
+313460047,2012,regular-season,2011-12-12,2,47,home,FALSE,Howard,71,Bison,Howard Bison,Howard
+313460047,2012,regular-season,2011-12-12,2,2597,away,FALSE,St. Francis Brooklyn,73,Terriers,St. Francis Brooklyn Terriers,St Francis BK
+313460164,2012,regular-season,2011-12-12,2,164,home,FALSE,Rutgers,81,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+313460164,2012,regular-season,2011-12-12,2,2405,away,FALSE,Monmouth,66,Hawks,Monmouth Hawks,Monmouth
+313462571,2012,regular-season,2011-12-12,2,2571,home,FALSE,South Dakota State,93,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+313462571,2012,regular-season,2011-12-12,2,512,away,FALSE,Dakota State,60,Trojans,Dakota State Trojans,Dakota St
+313462545,2012,regular-season,2011-12-12,3,2545,home,FALSE,SE Louisiana,65,Lions,SE Louisiana Lions,SE Louisiana
+313462545,2012,regular-season,2011-12-12,3,2582,away,FALSE,Southern,61,Jaguars,Southern Jaguars,Southern
+313462433,2012,regular-season,2011-12-12,2,2433,home,FALSE,UL Monroe,70,Warhawks,UL Monroe Warhawks,UL Monroe
+313462433,2012,regular-season,2011-12-12,2,2447,away,FALSE,Nicholls,82,Colonels,Nicholls Colonels,Nicholls
+313462031,2012,regular-season,2011-12-12,2,2031,home,FALSE,Little Rock,55,Trojans,Little Rock Trojans,Little Rock
+313462031,2012,regular-season,2011-12-12,2,198,away,FALSE,Oral Roberts,58,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+313460309,2012,regular-season,2011-12-12,2,309,home,FALSE,Louisiana,102,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+313460309,2012,regular-season,2011-12-12,2,2176,away,FALSE,Dillard,38,Blue Devils,Dillard Blue Devils,Dillard
+313462483,2012,regular-season,2011-12-12,2,2483,home,FALSE,Oregon,79,Ducks,Oregon Ducks,Oregon
+313462483,2012,regular-season,2011-12-12,2,2502,away,FALSE,Portland State,70,Vikings,Portland State Vikings,Portland St

@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400508688,2013-11-24,2,269,home,FALSE,Marquette,61,Golden Eagles,Marquette Golden Eagles,Marquette
-400508688,2013-11-24,2,150,away,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
-400508340,2013-11-24,2,2633,home,FALSE,Tennessee,84,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400508340,2013-11-24,2,2473,away,FALSE,Oakland,50,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-400508692,2013-11-24,3,97,home,FALSE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
-400508692,2013-11-24,3,52,away,FALSE,Florida State,59,Seminoles,Florida State Seminoles,Florida St
-400508341,2013-11-24,2,2393,home,FALSE,Middle Tennessee,72,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-400508341,2013-11-24,2,96,away,FALSE,Kentucky,84,Wildcats,Kentucky Wildcats,Kentucky
-400503676,2013-11-24,2,26,home,FALSE,UCLA,82,Bruins,UCLA Bruins,UCLA
-400503676,2013-11-24,2,201,away,FALSE,Oklahoma,76,Sooners,Oklahoma Sooners,Oklahoma
-400510740,2013-11-24,2,158,home,FALSE,Nebraska,87,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400510740,2013-11-24,2,2582,away,FALSE,Southern,64,Jaguars,Southern Jaguars,Southern
-400508691,2013-11-24,2,153,home,FALSE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
-400508691,2013-11-24,2,2154,away,FALSE,Coppin State,51,Eagles,Coppin State Eagles,Coppin St
-400509756,2013-11-24,2,25,home,FALSE,California,65,Golden Bears,California Golden Bears,California
-400509756,2013-11-24,2,77,away,FALSE,Northwestern,51,Wildcats,Northwestern Wildcats,Northwestern
-400503675,2013-11-24,2,2181,home,FALSE,Drake,47,Bulldogs,Drake Bulldogs,Drake
-400503675,2013-11-24,2,66,away,FALSE,Iowa State,89,Cyclones,Iowa State Cyclones,Iowa State
-400508339,2013-11-24,2,61,home,FALSE,Georgia,63,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-400508339,2013-11-24,2,59,away,FALSE,Georgia Tech,56,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400508688,2014,regular-season,2013-11-24,2,269,home,FALSE,Marquette,61,Golden Eagles,Marquette Golden Eagles,Marquette
+400508688,2014,regular-season,2013-11-24,2,150,away,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
+400508340,2014,regular-season,2013-11-24,2,2633,home,FALSE,Tennessee,84,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400508340,2014,regular-season,2013-11-24,2,2473,away,FALSE,Oakland,50,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+400508692,2014,regular-season,2013-11-24,3,97,home,FALSE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
+400508692,2014,regular-season,2013-11-24,3,52,away,FALSE,Florida State,59,Seminoles,Florida State Seminoles,Florida St
+400508341,2014,regular-season,2013-11-24,2,2393,home,FALSE,Middle Tennessee,72,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+400508341,2014,regular-season,2013-11-24,2,96,away,FALSE,Kentucky,84,Wildcats,Kentucky Wildcats,Kentucky
+400503676,2014,regular-season,2013-11-24,2,26,home,FALSE,UCLA,82,Bruins,UCLA Bruins,UCLA
+400503676,2014,regular-season,2013-11-24,2,201,away,FALSE,Oklahoma,76,Sooners,Oklahoma Sooners,Oklahoma
+400510740,2014,regular-season,2013-11-24,2,158,home,FALSE,Nebraska,87,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400510740,2014,regular-season,2013-11-24,2,2582,away,FALSE,Southern,64,Jaguars,Southern Jaguars,Southern
+400508691,2014,regular-season,2013-11-24,2,153,home,FALSE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
+400508691,2014,regular-season,2013-11-24,2,2154,away,FALSE,Coppin State,51,Eagles,Coppin State Eagles,Coppin St
+400509756,2014,regular-season,2013-11-24,2,25,home,FALSE,California,65,Golden Bears,California Golden Bears,California
+400509756,2014,regular-season,2013-11-24,2,77,away,FALSE,Northwestern,51,Wildcats,Northwestern Wildcats,Northwestern
+400503675,2014,regular-season,2013-11-24,2,2181,home,FALSE,Drake,47,Bulldogs,Drake Bulldogs,Drake
+400503675,2014,regular-season,2013-11-24,2,66,away,FALSE,Iowa State,89,Cyclones,Iowa State Cyclones,Iowa State
+400508339,2014,regular-season,2013-11-24,2,61,home,FALSE,Georgia,63,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+400508339,2014,regular-season,2013-11-24,2,59,away,FALSE,Georgia Tech,56,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech

@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400910996,2017-02-16,4,344,home,FALSE,Mississippi State,58,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400910996,2017-02-16,4,61,away,FALSE,Georgia,49,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-400912195,2017-02-16,4,258,home,FALSE,Virginia,60,Cavaliers,Virginia Cavaliers,Virginia
-400912195,2017-02-16,4,52,away,FALSE,Florida State,51,Seminoles,Florida State Seminoles,Florida St
-400910998,2017-02-16,4,2579,home,FALSE,South Carolina,82,Gamecocks,South Carolina Gamecocks,South Carolina
-400910998,2017-02-16,4,238,away,FALSE,Vanderbilt,51,Commodores,Vanderbilt Commodores,Vanderbilt
-400912192,2017-02-16,4,228,home,FALSE,Clemson,80,Tigers,Clemson Tigers,Clemson
-400912192,2017-02-16,4,87,away,FALSE,Notre Dame,84,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400913991,2017-02-16,4,25,home,FALSE,California,66,Golden Bears,California Golden Bears,California
-400913991,2017-02-16,4,24,away,FALSE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
-400917229,2017-02-16,4,158,home,FALSE,Nebraska,69,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400917229,2017-02-16,4,194,away,FALSE,Ohio State,87,Buckeyes,Ohio State Buckeyes,Ohio State
-400912196,2017-02-16,4,154,home,FALSE,Wake Forest,53,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-400912196,2017-02-16,4,150,away,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
-400912191,2017-02-16,4,103,home,FALSE,Boston College,58,Eagles,Boston College Eagles,Boston College
-400912191,2017-02-16,4,152,away,FALSE,NC State,70,Wolfpack,NC State Wolfpack,NC State
-400914365,2017-02-16,4,84,home,FALSE,Indiana,72,Hoosiers,Indiana Hoosiers,Indiana
-400914365,2017-02-16,4,130,away,FALSE,Michigan,61,Wolverines,Michigan Wolverines,Michigan
-400910997,2017-02-16,4,99,home,FALSE,LSU,67,Tigers,LSU Tigers,LSU
-400910997,2017-02-16,4,245,away,FALSE,Texas A&M,63,Aggies,Texas A&M Aggies,Texas A&M
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400910996,2017,regular-season,2017-02-16,4,344,home,FALSE,Mississippi State,58,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400910996,2017,regular-season,2017-02-16,4,61,away,FALSE,Georgia,49,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+400912195,2017,regular-season,2017-02-16,4,258,home,FALSE,Virginia,60,Cavaliers,Virginia Cavaliers,Virginia
+400912195,2017,regular-season,2017-02-16,4,52,away,FALSE,Florida State,51,Seminoles,Florida State Seminoles,Florida St
+400910998,2017,regular-season,2017-02-16,4,2579,home,FALSE,South Carolina,82,Gamecocks,South Carolina Gamecocks,South Carolina
+400910998,2017,regular-season,2017-02-16,4,238,away,FALSE,Vanderbilt,51,Commodores,Vanderbilt Commodores,Vanderbilt
+400912192,2017,regular-season,2017-02-16,4,228,home,FALSE,Clemson,80,Tigers,Clemson Tigers,Clemson
+400912192,2017,regular-season,2017-02-16,4,87,away,FALSE,Notre Dame,84,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400913991,2017,regular-season,2017-02-16,4,25,home,FALSE,California,66,Golden Bears,California Golden Bears,California
+400913991,2017,regular-season,2017-02-16,4,24,away,FALSE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
+400917229,2017,regular-season,2017-02-16,4,158,home,FALSE,Nebraska,69,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400917229,2017,regular-season,2017-02-16,4,194,away,FALSE,Ohio State,87,Buckeyes,Ohio State Buckeyes,Ohio State
+400912196,2017,regular-season,2017-02-16,4,154,home,FALSE,Wake Forest,53,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+400912196,2017,regular-season,2017-02-16,4,150,away,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
+400912191,2017,regular-season,2017-02-16,4,103,home,FALSE,Boston College,58,Eagles,Boston College Eagles,Boston College
+400912191,2017,regular-season,2017-02-16,4,152,away,FALSE,NC State,70,Wolfpack,NC State Wolfpack,NC State
+400914365,2017,regular-season,2017-02-16,4,84,home,FALSE,Indiana,72,Hoosiers,Indiana Hoosiers,Indiana
+400914365,2017,regular-season,2017-02-16,4,130,away,FALSE,Michigan,61,Wolverines,Michigan Wolverines,Michigan
+400910997,2017,regular-season,2017-02-16,4,99,home,FALSE,LSU,67,Tigers,LSU Tigers,LSU
+400910997,2017,regular-season,2017-02-16,4,245,away,FALSE,Texas A&M,63,Aggies,Texas A&M Aggies,Texas A&M

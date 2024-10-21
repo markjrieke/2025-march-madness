@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330100150,2013-01-10,2,150,home,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
-330100150,2013-01-10,2,228,away,FALSE,Clemson,45,Tigers,Clemson Tigers,Clemson
-330100096,2013-01-10,2,96,home,FALSE,Kentucky,65,Wildcats,Kentucky Wildcats,Kentucky
-330100096,2013-01-10,2,245,away,FALSE,Texas A&M,62,Aggies,Texas A&M Aggies,Texas A&M
-330102633,2013-01-10,2,2633,home,FALSE,Tennessee,84,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-330102633,2013-01-10,2,142,away,FALSE,Missouri,39,Tigers,Missouri Tigers,Missouri
-330100120,2013-01-10,2,120,home,FALSE,Maryland,84,Terrapins,Maryland Terrapins,Maryland
-330100120,2013-01-10,2,2390,away,FALSE,Miami,62,Hurricanes,Miami Hurricanes,Miami
-330100152,2013-01-10,2,152,home,FALSE,NC State,66,Wolfpack,NC State Wolfpack,NC State
-330100152,2013-01-10,2,153,away,FALSE,North Carolina,70,Tar Heels,North Carolina Tar Heels,North Carolina
-330100333,2013-01-10,2,333,home,FALSE,Alabama,83,Crimson Tide,Alabama Crimson Tide,Alabama
-330100333,2013-01-10,2,61,away,FALSE,Georgia,95,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-330102579,2013-01-10,2,2579,home,FALSE,South Carolina,64,Gamecocks,South Carolina Gamecocks,South Carolina
-330102579,2013-01-10,2,238,away,FALSE,Vanderbilt,48,Commodores,Vanderbilt Commodores,Vanderbilt
-330100052,2013-01-10,2,52,home,FALSE,Florida State,72,Seminoles,Florida State Seminoles,Florida St
-330100052,2013-01-10,2,154,away,FALSE,Wake Forest,80,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330100150,2013,regular-season,2013-01-10,2,150,home,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
+330100150,2013,regular-season,2013-01-10,2,228,away,FALSE,Clemson,45,Tigers,Clemson Tigers,Clemson
+330100096,2013,regular-season,2013-01-10,2,96,home,FALSE,Kentucky,65,Wildcats,Kentucky Wildcats,Kentucky
+330100096,2013,regular-season,2013-01-10,2,245,away,FALSE,Texas A&M,62,Aggies,Texas A&M Aggies,Texas A&M
+330102633,2013,regular-season,2013-01-10,2,2633,home,FALSE,Tennessee,84,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+330102633,2013,regular-season,2013-01-10,2,142,away,FALSE,Missouri,39,Tigers,Missouri Tigers,Missouri
+330100120,2013,regular-season,2013-01-10,2,120,home,FALSE,Maryland,84,Terrapins,Maryland Terrapins,Maryland
+330100120,2013,regular-season,2013-01-10,2,2390,away,FALSE,Miami,62,Hurricanes,Miami Hurricanes,Miami
+330100152,2013,regular-season,2013-01-10,2,152,home,FALSE,NC State,66,Wolfpack,NC State Wolfpack,NC State
+330100152,2013,regular-season,2013-01-10,2,153,away,FALSE,North Carolina,70,Tar Heels,North Carolina Tar Heels,North Carolina
+330100333,2013,regular-season,2013-01-10,2,333,home,FALSE,Alabama,83,Crimson Tide,Alabama Crimson Tide,Alabama
+330100333,2013,regular-season,2013-01-10,2,61,away,FALSE,Georgia,95,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+330102579,2013,regular-season,2013-01-10,2,2579,home,FALSE,South Carolina,64,Gamecocks,South Carolina Gamecocks,South Carolina
+330102579,2013,regular-season,2013-01-10,2,238,away,FALSE,Vanderbilt,48,Commodores,Vanderbilt Commodores,Vanderbilt
+330100052,2013,regular-season,2013-01-10,2,52,home,FALSE,Florida State,72,Seminoles,Florida State Seminoles,Florida St
+330100052,2013,regular-season,2013-01-10,2,154,away,FALSE,Wake Forest,80,Demon Deacons,Wake Forest Demon Deacons,Wake Forest

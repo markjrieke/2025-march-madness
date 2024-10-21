@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-284000034,2008-03-25,2,2633,home,FALSE,Tennessee,78,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-284000034,2008-03-25,2,2509,away,FALSE,Purdue,52,Boilermakers,Purdue Boilermakers,Purdue
-284000052,2008-03-25,3,258,home,FALSE,Virginia,85,Cavaliers,Virginia Cavaliers,Virginia
-284000052,2008-03-25,3,295,away,FALSE,Old Dominion,88,Monarchs,Old Dominion Monarchs,Old Dominion
-284000021,2008-03-25,2,97,home,FALSE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
-284000021,2008-03-25,2,2306,away,FALSE,Kansas State,63,Wildcats,Kansas State Wildcats,Kansas St
-284000041,2008-03-25,2,150,home,FALSE,Duke,67,Blue Devils,Duke Blue Devils,Duke
-284000041,2008-03-25,2,9,away,FALSE,Arizona State,59,Sun Devils,Arizona State Sun Devils,Arizona St
-284000049,2008-03-25,2,41,home,FALSE,UConn,89,Huskies,UConn Huskies,UConn
-284000049,2008-03-25,2,251,away,FALSE,Texas,55,Longhorns,Texas Longhorns,Texas
-284000037,2008-03-25,3,201,home,FALSE,Oklahoma,75,Sooners,Oklahoma Sooners,Oklahoma
-284000037,2008-03-25,3,87,away,FALSE,Notre Dame,79,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-284000003,2008-03-25,2,120,home,FALSE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
-284000003,2008-03-25,2,158,away,FALSE,Nebraska,64,Cornhuskers,Nebraska Cornhuskers,Nebraska
-284000018,2008-03-25,2,153,home,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
-284000018,2008-03-25,2,61,away,FALSE,Georgia,66,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+284000034,2008,post-season,2008-03-25,2,2633,home,FALSE,Tennessee,78,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+284000034,2008,post-season,2008-03-25,2,2509,away,FALSE,Purdue,52,Boilermakers,Purdue Boilermakers,Purdue
+284000052,2008,post-season,2008-03-25,3,258,home,FALSE,Virginia,85,Cavaliers,Virginia Cavaliers,Virginia
+284000052,2008,post-season,2008-03-25,3,295,away,FALSE,Old Dominion,88,Monarchs,Old Dominion Monarchs,Old Dominion
+284000021,2008,post-season,2008-03-25,2,97,home,FALSE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
+284000021,2008,post-season,2008-03-25,2,2306,away,FALSE,Kansas State,63,Wildcats,Kansas State Wildcats,Kansas St
+284000041,2008,post-season,2008-03-25,2,150,home,FALSE,Duke,67,Blue Devils,Duke Blue Devils,Duke
+284000041,2008,post-season,2008-03-25,2,9,away,FALSE,Arizona State,59,Sun Devils,Arizona State Sun Devils,Arizona St
+284000049,2008,post-season,2008-03-25,2,41,home,FALSE,UConn,89,Huskies,UConn Huskies,UConn
+284000049,2008,post-season,2008-03-25,2,251,away,FALSE,Texas,55,Longhorns,Texas Longhorns,Texas
+284000037,2008,post-season,2008-03-25,3,201,home,FALSE,Oklahoma,75,Sooners,Oklahoma Sooners,Oklahoma
+284000037,2008,post-season,2008-03-25,3,87,away,FALSE,Notre Dame,79,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+284000003,2008,post-season,2008-03-25,2,120,home,FALSE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
+284000003,2008,post-season,2008-03-25,2,158,away,FALSE,Nebraska,64,Cornhuskers,Nebraska Cornhuskers,Nebraska
+284000018,2008,post-season,2008-03-25,2,153,home,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
+284000018,2008,post-season,2008-03-25,2,61,away,FALSE,Georgia,66,Lady Bulldogs,Georgia Lady Bulldogs,Georgia

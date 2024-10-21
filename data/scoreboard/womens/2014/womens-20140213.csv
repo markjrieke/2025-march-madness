@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400508865,2014-02-13,2,103,home,FALSE,Boston College,61,Eagles,Boston College Eagles,Boston College
-400508865,2014-02-13,2,87,away,FALSE,Notre Dame,82,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400508863,2014-02-13,2,2390,home,FALSE,Miami,52,Hurricanes,Miami Hurricanes,Miami
-400508863,2014-02-13,2,120,away,FALSE,Maryland,67,Terrapins,Maryland Terrapins,Maryland
-400508867,2014-02-13,3,228,home,FALSE,Clemson,63,Tigers,Clemson Tigers,Clemson
-400508867,2014-02-13,3,152,away,FALSE,NC State,69,Wolfpack,NC State Wolfpack,NC State
-400510527,2014-02-13,2,84,home,FALSE,Indiana,63,Hoosiers,Indiana Hoosiers,Indiana
-400510527,2014-02-13,2,213,away,FALSE,Penn State,71,Lady Lions,Penn State Lady Lions,Penn State
-400503805,2014-02-13,2,201,home,FALSE,Oklahoma,75,Sooners,Oklahoma Sooners,Oklahoma
-400503805,2014-02-13,2,277,away,FALSE,West Virginia,76,Mountaineers,West Virginia Mountaineers,West Virginia
-400508492,2014-02-13,3,245,home,FALSE,Texas A&M,78,Aggies,Texas A&M Aggies,Texas A&M
-400508492,2014-02-13,3,61,away,FALSE,Georgia,73,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-400508489,2014-02-13,2,238,home,FALSE,Vanderbilt,62,Commodores,Vanderbilt Commodores,Vanderbilt
-400508489,2014-02-13,2,2,away,FALSE,Auburn,68,Tigers,Auburn Tigers,Auburn
-400508866,2014-02-13,2,153,home,FALSE,North Carolina,86,Tar Heels,North Carolina Tar Heels,North Carolina
-400508866,2014-02-13,2,221,away,FALSE,Pittsburgh,50,Panthers,Pittsburgh Panthers,Pitt
-400508490,2014-02-13,2,96,home,FALSE,Kentucky,108,Wildcats,Kentucky Wildcats,Kentucky
-400508490,2014-02-13,2,145,away,FALSE,Ole Miss,78,Rebels,Ole Miss Rebels,Ole Miss
-400511195,2014-02-13,2,301,home,FALSE,San Diego,48,Toreros,San Diego Toreros,San Diego
-400511195,2014-02-13,2,2250,away,FALSE,Gonzaga,66,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400510565,2014-02-13,2,130,home,FALSE,Michigan,68,Wolverines,Michigan Wolverines,Michigan
-400510565,2014-02-13,2,158,away,FALSE,Nebraska,76,Cornhuskers,Nebraska Cornhuskers,Nebraska
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400508865,2014,regular-season,2014-02-13,2,103,home,FALSE,Boston College,61,Eagles,Boston College Eagles,Boston College
+400508865,2014,regular-season,2014-02-13,2,87,away,FALSE,Notre Dame,82,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400508863,2014,regular-season,2014-02-13,2,2390,home,FALSE,Miami,52,Hurricanes,Miami Hurricanes,Miami
+400508863,2014,regular-season,2014-02-13,2,120,away,FALSE,Maryland,67,Terrapins,Maryland Terrapins,Maryland
+400508867,2014,regular-season,2014-02-13,3,228,home,FALSE,Clemson,63,Tigers,Clemson Tigers,Clemson
+400508867,2014,regular-season,2014-02-13,3,152,away,FALSE,NC State,69,Wolfpack,NC State Wolfpack,NC State
+400510527,2014,regular-season,2014-02-13,2,84,home,FALSE,Indiana,63,Hoosiers,Indiana Hoosiers,Indiana
+400510527,2014,regular-season,2014-02-13,2,213,away,FALSE,Penn State,71,Lady Lions,Penn State Lady Lions,Penn State
+400503805,2014,regular-season,2014-02-13,2,201,home,FALSE,Oklahoma,75,Sooners,Oklahoma Sooners,Oklahoma
+400503805,2014,regular-season,2014-02-13,2,277,away,FALSE,West Virginia,76,Mountaineers,West Virginia Mountaineers,West Virginia
+400508492,2014,regular-season,2014-02-13,3,245,home,FALSE,Texas A&M,78,Aggies,Texas A&M Aggies,Texas A&M
+400508492,2014,regular-season,2014-02-13,3,61,away,FALSE,Georgia,73,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+400508489,2014,regular-season,2014-02-13,2,238,home,FALSE,Vanderbilt,62,Commodores,Vanderbilt Commodores,Vanderbilt
+400508489,2014,regular-season,2014-02-13,2,2,away,FALSE,Auburn,68,Tigers,Auburn Tigers,Auburn
+400508866,2014,regular-season,2014-02-13,2,153,home,FALSE,North Carolina,86,Tar Heels,North Carolina Tar Heels,North Carolina
+400508866,2014,regular-season,2014-02-13,2,221,away,FALSE,Pittsburgh,50,Panthers,Pittsburgh Panthers,Pitt
+400508490,2014,regular-season,2014-02-13,2,96,home,FALSE,Kentucky,108,Wildcats,Kentucky Wildcats,Kentucky
+400508490,2014,regular-season,2014-02-13,2,145,away,FALSE,Ole Miss,78,Rebels,Ole Miss Rebels,Ole Miss
+400511195,2014,regular-season,2014-02-13,2,301,home,FALSE,San Diego,48,Toreros,San Diego Toreros,San Diego
+400511195,2014,regular-season,2014-02-13,2,2250,away,FALSE,Gonzaga,66,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400510565,2014,regular-season,2014-02-13,2,130,home,FALSE,Michigan,68,Wolverines,Michigan Wolverines,Michigan
+400510565,2014,regular-season,2014-02-13,2,158,away,FALSE,Nebraska,76,Cornhuskers,Nebraska Cornhuskers,Nebraska

@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230520225,2003-02-21,2,225,home,FALSE,Brown,83,Bears,Brown Bears,Brown
-230520225,2003-02-21,2,171,away,FALSE,Columbia,70,Lions,Columbia Lions,Columbia
-230520159,2003-02-21,2,159,home,FALSE,Dartmouth,60,Big Green,Dartmouth Big Green,Dartmouth
-230520159,2003-02-21,2,163,away,FALSE,Princeton,70,Tigers,Princeton Tigers,Princeton
-230520108,2003-02-21,2,108,home,FALSE,Harvard,66,Crimson,Harvard Crimson,Harvard
-230520108,2003-02-21,2,219,away,FALSE,Pennsylvania,82,Quakers,Pennsylvania Quakers,Penn
-230520043,2003-02-21,2,43,home,FALSE,Yale,70,Bulldogs,Yale Bulldogs,Yale
-230520043,2003-02-21,2,172,away,FALSE,Cornell,52,Big Red,Cornell Big Red,Cornell
-230520349,2003-02-21,2,349,home,FALSE,Army,52,Black Knights,Army Black Knights,Army
-230520349,2003-02-21,2,2329,away,FALSE,Lehigh,59,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-230520322,2003-02-21,2,322,home,FALSE,Lafayette,53,Leopards,Lafayette Leopards,Lafayette
-230520322,2003-02-21,2,2083,away,FALSE,Bucknell,70,Bison,Bucknell Bison,Bucknell
-230520314,2003-02-21,2,314,home,FALSE,Iona,98,Gaels,Iona Gaels,Iona
-230520314,2003-02-21,2,2612,away,FALSE,Saint Peter's,89,Peacocks,Saint Peter's Peacocks,Saint Peter's
-230522520,2003-02-21,2,2520,home,FALSE,Rider,50,Broncs,Rider Broncs,Rider
-230522520,2003-02-21,2,2352,away,FALSE,Loyola Maryland,44,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-230522247,2003-02-21,3,2247,home,FALSE,Georgia State,76,Panthers,Georgia State Panthers,Georgia St
-230522247,2003-02-21,3,55,away,FALSE,Jacksonville State,78,Gamecocks,Jacksonville State Gamecocks,Jax State
-230522142,2003-02-21,2,2142,home,FALSE,Colgate,73,Raiders,Colgate Raiders,Colgate
-230522142,2003-02-21,2,2426,away,FALSE,Navy,52,Midshipmen,Navy Midshipmen,Navy
-230520107,2003-02-21,2,107,home,FALSE,Holy Cross,68,Crusaders,Holy Cross Crusaders,Holy Cross
-230520107,2003-02-21,2,44,away,FALSE,American University,66,Eagles,American University Eagles,American
-230522539,2003-02-21,2,2539,home,FALSE,San Francisco,78,Dons,San Francisco Dons,San Francisco
-230522539,2003-02-21,2,2541,away,FALSE,Santa Clara,65,Broncos,Santa Clara Broncos,Santa Clara
-230522608,2003-02-21,2,2608,home,FALSE,Saint Mary's,57,Gaels,Saint Mary's Gaels,Saint Mary's
-230522608,2003-02-21,2,301,away,FALSE,San Diego,75,Toreros,San Diego Toreros,San Diego
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230520225,2003,regular-season,2003-02-21,2,225,home,FALSE,Brown,83,Bears,Brown Bears,Brown
+230520225,2003,regular-season,2003-02-21,2,171,away,FALSE,Columbia,70,Lions,Columbia Lions,Columbia
+230520159,2003,regular-season,2003-02-21,2,159,home,FALSE,Dartmouth,60,Big Green,Dartmouth Big Green,Dartmouth
+230520159,2003,regular-season,2003-02-21,2,163,away,FALSE,Princeton,70,Tigers,Princeton Tigers,Princeton
+230520108,2003,regular-season,2003-02-21,2,108,home,FALSE,Harvard,66,Crimson,Harvard Crimson,Harvard
+230520108,2003,regular-season,2003-02-21,2,219,away,FALSE,Pennsylvania,82,Quakers,Pennsylvania Quakers,Penn
+230520043,2003,regular-season,2003-02-21,2,43,home,FALSE,Yale,70,Bulldogs,Yale Bulldogs,Yale
+230520043,2003,regular-season,2003-02-21,2,172,away,FALSE,Cornell,52,Big Red,Cornell Big Red,Cornell
+230520349,2003,regular-season,2003-02-21,2,349,home,FALSE,Army,52,Black Knights,Army Black Knights,Army
+230520349,2003,regular-season,2003-02-21,2,2329,away,FALSE,Lehigh,59,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+230520322,2003,regular-season,2003-02-21,2,322,home,FALSE,Lafayette,53,Leopards,Lafayette Leopards,Lafayette
+230520322,2003,regular-season,2003-02-21,2,2083,away,FALSE,Bucknell,70,Bison,Bucknell Bison,Bucknell
+230520314,2003,regular-season,2003-02-21,2,314,home,FALSE,Iona,98,Gaels,Iona Gaels,Iona
+230520314,2003,regular-season,2003-02-21,2,2612,away,FALSE,Saint Peter's,89,Peacocks,Saint Peter's Peacocks,Saint Peter's
+230522520,2003,regular-season,2003-02-21,2,2520,home,FALSE,Rider,50,Broncs,Rider Broncs,Rider
+230522520,2003,regular-season,2003-02-21,2,2352,away,FALSE,Loyola Maryland,44,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+230522247,2003,regular-season,2003-02-21,3,2247,home,FALSE,Georgia State,76,Panthers,Georgia State Panthers,Georgia St
+230522247,2003,regular-season,2003-02-21,3,55,away,FALSE,Jacksonville State,78,Gamecocks,Jacksonville State Gamecocks,Jax State
+230522142,2003,regular-season,2003-02-21,2,2142,home,FALSE,Colgate,73,Raiders,Colgate Raiders,Colgate
+230522142,2003,regular-season,2003-02-21,2,2426,away,FALSE,Navy,52,Midshipmen,Navy Midshipmen,Navy
+230520107,2003,regular-season,2003-02-21,2,107,home,FALSE,Holy Cross,68,Crusaders,Holy Cross Crusaders,Holy Cross
+230520107,2003,regular-season,2003-02-21,2,44,away,FALSE,American University,66,Eagles,American University Eagles,American
+230522539,2003,regular-season,2003-02-21,2,2539,home,FALSE,San Francisco,78,Dons,San Francisco Dons,San Francisco
+230522539,2003,regular-season,2003-02-21,2,2541,away,FALSE,Santa Clara,65,Broncos,Santa Clara Broncos,Santa Clara
+230522608,2003,regular-season,2003-02-21,2,2608,home,FALSE,Saint Mary's,57,Gaels,Saint Mary's Gaels,Saint Mary's
+230522608,2003,regular-season,2003-02-21,2,301,away,FALSE,San Diego,75,Toreros,San Diego Toreros,San Diego

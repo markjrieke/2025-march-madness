@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401528020,2023-03-25,4,120,home,TRUE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
-401528020,2023-03-25,4,87,away,TRUE,Notre Dame,59,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401528021,2023-03-25,4,2579,home,TRUE,South Carolina,59,Gamecocks,South Carolina Gamecocks,South Carolina
-401528021,2023-03-25,4,26,away,TRUE,UCLA,43,Bruins,UCLA Bruins,UCLA
-401528018,2023-03-25,4,41,home,TRUE,UConn,61,Huskies,UConn Huskies,UConn
-401528018,2023-03-25,4,194,away,TRUE,Ohio State,73,Buckeyes,Ohio State Buckeyes,Ohio State
-401528019,2023-03-25,4,259,home,TRUE,Virginia Tech,73,Hokies,Virginia Tech Hokies,Virginia Tech
-401528019,2023-03-25,4,2633,away,TRUE,Tennessee,64,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401528020,2023,post-season,2023-03-25,4,120,home,TRUE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
+401528020,2023,post-season,2023-03-25,4,87,away,TRUE,Notre Dame,59,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401528021,2023,post-season,2023-03-25,4,2579,home,TRUE,South Carolina,59,Gamecocks,South Carolina Gamecocks,South Carolina
+401528021,2023,post-season,2023-03-25,4,26,away,TRUE,UCLA,43,Bruins,UCLA Bruins,UCLA
+401528018,2023,post-season,2023-03-25,4,41,home,TRUE,UConn,61,Huskies,UConn Huskies,UConn
+401528018,2023,post-season,2023-03-25,4,194,away,TRUE,Ohio State,73,Buckeyes,Ohio State Buckeyes,Ohio State
+401528019,2023,post-season,2023-03-25,4,259,home,TRUE,Virginia Tech,73,Hokies,Virginia Tech Hokies,Virginia Tech
+401528019,2023,post-season,2023-03-25,4,2633,away,TRUE,Tennessee,64,Lady Volunteers,Tennessee Lady Volunteers,Tennessee

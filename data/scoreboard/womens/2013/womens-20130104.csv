@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330040038,2013-01-04,2,38,home,FALSE,Colorado,40,Buffaloes,Colorado Buffaloes,Colorado
-330040038,2013-01-04,2,24,away,FALSE,Stanford,57,Cardinal,Stanford Cardinal,Stanford
-330040254,2013-01-04,2,254,home,FALSE,Utah,50,Utes,Utah Utes,Utah
-330040254,2013-01-04,2,25,away,FALSE,California,55,Golden Bears,California Golden Bears,California
-330042483,2013-01-04,2,2483,home,FALSE,Oregon,80,Ducks,Oregon Ducks,Oregon
-330042483,2013-01-04,2,26,away,FALSE,UCLA,89,Bruins,UCLA Bruins,UCLA
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330040038,2013,regular-season,2013-01-04,2,38,home,FALSE,Colorado,40,Buffaloes,Colorado Buffaloes,Colorado
+330040038,2013,regular-season,2013-01-04,2,24,away,FALSE,Stanford,57,Cardinal,Stanford Cardinal,Stanford
+330040254,2013,regular-season,2013-01-04,2,254,home,FALSE,Utah,50,Utes,Utah Utes,Utah
+330040254,2013,regular-season,2013-01-04,2,25,away,FALSE,California,55,Golden Bears,California Golden Bears,California
+330042483,2013,regular-season,2013-01-04,2,2483,home,FALSE,Oregon,80,Ducks,Oregon Ducks,Oregon
+330042483,2013,regular-season,2013-01-04,2,26,away,FALSE,UCLA,89,Bruins,UCLA Bruins,UCLA

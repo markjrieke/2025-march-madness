@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400911173,2017-02-11,4,251,home,FALSE,Texas,75,Longhorns,Texas Longhorns,Texas
-400911173,2017-02-11,4,2305,away,FALSE,Kansas,42,Jayhawks,Kansas Jayhawks,Kansas
-400911174,2017-02-11,4,2641,home,FALSE,Texas Tech,56,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-400911174,2017-02-11,4,201,away,FALSE,Oklahoma,64,Sooners,Oklahoma Sooners,Oklahoma
-400905230,2017-02-11,4,2306,home,FALSE,Kansas State,80,Wildcats,Kansas State Wildcats,Kansas St
-400905230,2017-02-11,4,66,away,FALSE,Iowa State,68,Cyclones,Iowa State Cyclones,Iowa State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400911173,2017,regular-season,2017-02-11,4,251,home,FALSE,Texas,75,Longhorns,Texas Longhorns,Texas
+400911173,2017,regular-season,2017-02-11,4,2305,away,FALSE,Kansas,42,Jayhawks,Kansas Jayhawks,Kansas
+400911174,2017,regular-season,2017-02-11,4,2641,home,FALSE,Texas Tech,56,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+400911174,2017,regular-season,2017-02-11,4,201,away,FALSE,Oklahoma,64,Sooners,Oklahoma Sooners,Oklahoma
+400905230,2017,regular-season,2017-02-11,4,2306,home,FALSE,Kansas State,80,Wildcats,Kansas State Wildcats,Kansas St
+400905230,2017,regular-season,2017-02-11,4,66,away,FALSE,Iowa State,68,Cyclones,Iowa State Cyclones,Iowa State

@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240792603,2004-03-19,2,2603,home,FALSE,Saint Joseph's,61,Hawks,Saint Joseph's Hawks,Saint Joseph's
-240792603,2004-03-19,2,2309,away,FALSE,Kent State,51,Golden Flashes,Kent State Golden Flashes,Kent State
-240790098,2004-03-19,3,98,home,FALSE,Western Kentucky,80,Lady Toppers,Western Kentucky Lady Toppers,Western KY
-240790098,2004-03-19,3,2132,away,FALSE,Cincinnati,78,Bearcats,Cincinnati Bearcats,Cincinnati
-240790066,2004-03-19,2,66,home,FALSE,Iowa State,71,Cyclones,Iowa State Cyclones,Iowa State
-240790066,2004-03-19,2,193,away,FALSE,Miami (OH),57,RedHawks,Miami (OH) RedHawks,Miami OH
-240790036,2004-03-19,2,36,home,FALSE,Colorado State,68,Rams,Colorado State Rams,Colorado St
-240790036,2004-03-19,2,156,away,FALSE,Creighton,79,Bluejays,Creighton Bluejays,Creighton
-240790204,2004-03-19,2,204,home,FALSE,Oregon State,69,Beavers,Oregon State Beavers,Oregon St
-240790204,2004-03-19,2,2250,away,FALSE,Gonzaga,64,Bulldogs,Gonzaga Bulldogs,Gonzaga
-240790264,2004-03-19,2,264,home,FALSE,Washington,71,Huskies,Washington Huskies,Washington
-240790264,2004-03-19,2,2492,away,FALSE,Pepperdine,59,Waves,Pepperdine Waves,Pepperdine
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240792603,2004,regular-season,2004-03-19,2,2603,home,FALSE,Saint Joseph's,61,Hawks,Saint Joseph's Hawks,Saint Joseph's
+240792603,2004,regular-season,2004-03-19,2,2309,away,FALSE,Kent State,51,Golden Flashes,Kent State Golden Flashes,Kent State
+240790098,2004,regular-season,2004-03-19,3,98,home,FALSE,Western Kentucky,80,Lady Toppers,Western Kentucky Lady Toppers,Western KY
+240790098,2004,regular-season,2004-03-19,3,2132,away,FALSE,Cincinnati,78,Bearcats,Cincinnati Bearcats,Cincinnati
+240790066,2004,regular-season,2004-03-19,2,66,home,FALSE,Iowa State,71,Cyclones,Iowa State Cyclones,Iowa State
+240790066,2004,regular-season,2004-03-19,2,193,away,FALSE,Miami (OH),57,RedHawks,Miami (OH) RedHawks,Miami OH
+240790036,2004,regular-season,2004-03-19,2,36,home,FALSE,Colorado State,68,Rams,Colorado State Rams,Colorado St
+240790036,2004,regular-season,2004-03-19,2,156,away,FALSE,Creighton,79,Bluejays,Creighton Bluejays,Creighton
+240790204,2004,regular-season,2004-03-19,2,204,home,FALSE,Oregon State,69,Beavers,Oregon State Beavers,Oregon St
+240790204,2004,regular-season,2004-03-19,2,2250,away,FALSE,Gonzaga,64,Bulldogs,Gonzaga Bulldogs,Gonzaga
+240790264,2004,regular-season,2004-03-19,2,264,home,FALSE,Washington,71,Huskies,Washington Huskies,Washington
+240790264,2004,regular-season,2004-03-19,2,2492,away,FALSE,Pepperdine,59,Waves,Pepperdine Waves,Pepperdine

@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401172154,2020-01-31,4,264,home,FALSE,Washington,41,Huskies,Washington Huskies,Washington
-401172154,2020-01-31,4,24,away,FALSE,Stanford,58,Cardinal,Stanford Cardinal,Stanford
-401172152,2020-01-31,4,12,home,FALSE,Arizona,92,Wildcats,Arizona Wildcats,Arizona
-401172152,2020-01-31,4,26,away,FALSE,UCLA,66,Bruins,UCLA Bruins,UCLA
-401177484,2020-01-31,4,305,home,FALSE,DePaul,61,Blue Demons,DePaul Blue Demons,DePaul
-401177484,2020-01-31,4,156,away,FALSE,Creighton,63,Bluejays,Creighton Bluejays,Creighton
-401172151,2020-01-31,7,9,home,FALSE,Arizona State,76,Sun Devils,Arizona State Sun Devils,Arizona St
-401172151,2020-01-31,7,30,away,FALSE,USC,75,Trojans,USC Trojans,USC
-401179909,2020-01-31,4,2623,home,FALSE,Missouri State,90,Lady Bears,Missouri State Lady Bears,Missouri St
-401179909,2020-01-31,4,71,away,FALSE,Bradley,56,Braves,Bradley Braves,Bradley
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401172154,2020,regular-season,2020-01-31,4,264,home,FALSE,Washington,41,Huskies,Washington Huskies,Washington
+401172154,2020,regular-season,2020-01-31,4,24,away,FALSE,Stanford,58,Cardinal,Stanford Cardinal,Stanford
+401172152,2020,regular-season,2020-01-31,4,12,home,FALSE,Arizona,92,Wildcats,Arizona Wildcats,Arizona
+401172152,2020,regular-season,2020-01-31,4,26,away,FALSE,UCLA,66,Bruins,UCLA Bruins,UCLA
+401177484,2020,regular-season,2020-01-31,4,305,home,FALSE,DePaul,61,Blue Demons,DePaul Blue Demons,DePaul
+401177484,2020,regular-season,2020-01-31,4,156,away,FALSE,Creighton,63,Bluejays,Creighton Bluejays,Creighton
+401172151,2020,regular-season,2020-01-31,7,9,home,FALSE,Arizona State,76,Sun Devils,Arizona State Sun Devils,Arizona St
+401172151,2020,regular-season,2020-01-31,7,30,away,FALSE,USC,75,Trojans,USC Trojans,USC
+401179909,2020,regular-season,2020-01-31,4,2623,home,FALSE,Missouri State,90,Lady Bears,Missouri State Lady Bears,Missouri St
+401179909,2020,regular-season,2020-01-31,4,71,away,FALSE,Bradley,56,Braves,Bradley Braves,Bradley

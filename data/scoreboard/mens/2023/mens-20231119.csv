@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401600257,2023-11-19,2,12,home,FALSE,Arizona,101,Wildcats,Arizona Wildcats,Arizona
-401600257,2023-11-19,2,250,away,FALSE,UT Arlington,56,Mavericks,UT Arlington Mavericks,UT Arlington
-401591374,2023-11-19,2,84,home,TRUE,Indiana,57,Hoosiers,Indiana Hoosiers,Indiana
-401591374,2023-11-19,2,41,away,TRUE,UConn,77,Huskies,UConn Huskies,UConn
-401581549,2023-11-19,2,248,home,TRUE,Houston,69,Cougars,Houston Cougars,Houston
-401581549,2023-11-19,2,2168,away,TRUE,Dayton,55,Flyers,Dayton Flyers,Dayton
-401581517,2023-11-19,2,2390,home,TRUE,Miami,91,Hurricanes,Miami Hurricanes,Miami
-401581517,2023-11-19,2,2306,away,TRUE,Kansas State,83,Wildcats,Kansas State Wildcats,Kansas St
-401577659,2023-11-19,2,30,home,FALSE,USC,81,Trojans,USC Trojans,USC
-401577659,2023-11-19,2,225,away,FALSE,Brown,70,Bears,Brown Bears,Brown
-401592370,2023-11-19,2,127,home,FALSE,Michigan State,81,Spartans,Michigan State Spartans,Michigan St
-401592370,2023-11-19,2,2016,away,FALSE,Alcorn State,49,Braves,Alcorn State Braves,Alcorn St
-401591375,2023-11-19,2,97,home,TRUE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
-401591375,2023-11-19,2,251,away,TRUE,Texas,81,Longhorns,Texas Longhorns,Texas
-401584513,2023-11-19,2,356,home,FALSE,Illinois,88,Fighting Illini,Illinois Fighting Illini,Illinois
-401584513,2023-11-19,2,2582,away,FALSE,Southern,60,Jaguars,Southern Jaguars,Southern
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401600257,2024,regular-season,2023-11-19,2,12,home,FALSE,Arizona,101,Wildcats,Arizona Wildcats,Arizona
+401600257,2024,regular-season,2023-11-19,2,250,away,FALSE,UT Arlington,56,Mavericks,UT Arlington Mavericks,UT Arlington
+401591374,2024,regular-season,2023-11-19,2,84,home,TRUE,Indiana,57,Hoosiers,Indiana Hoosiers,Indiana
+401591374,2024,regular-season,2023-11-19,2,41,away,TRUE,UConn,77,Huskies,UConn Huskies,UConn
+401581549,2024,regular-season,2023-11-19,2,248,home,TRUE,Houston,69,Cougars,Houston Cougars,Houston
+401581549,2024,regular-season,2023-11-19,2,2168,away,TRUE,Dayton,55,Flyers,Dayton Flyers,Dayton
+401581517,2024,regular-season,2023-11-19,2,2390,home,TRUE,Miami,91,Hurricanes,Miami Hurricanes,Miami
+401581517,2024,regular-season,2023-11-19,2,2306,away,TRUE,Kansas State,83,Wildcats,Kansas State Wildcats,Kansas St
+401577659,2024,regular-season,2023-11-19,2,30,home,FALSE,USC,81,Trojans,USC Trojans,USC
+401577659,2024,regular-season,2023-11-19,2,225,away,FALSE,Brown,70,Bears,Brown Bears,Brown
+401592370,2024,regular-season,2023-11-19,2,127,home,FALSE,Michigan State,81,Spartans,Michigan State Spartans,Michigan St
+401592370,2024,regular-season,2023-11-19,2,2016,away,FALSE,Alcorn State,49,Braves,Alcorn State Braves,Alcorn St
+401591375,2024,regular-season,2023-11-19,2,97,home,TRUE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
+401591375,2024,regular-season,2023-11-19,2,251,away,TRUE,Texas,81,Longhorns,Texas Longhorns,Texas
+401584513,2024,regular-season,2023-11-19,2,356,home,FALSE,Illinois,88,Fighting Illini,Illinois Fighting Illini,Illinois
+401584513,2024,regular-season,2023-11-19,2,2582,away,FALSE,Southern,60,Jaguars,Southern Jaguars,Southern

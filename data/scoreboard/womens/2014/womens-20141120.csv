@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400592949,2014-11-20,2,2579,home,FALSE,South Carolina,99,Gamecocks,South Carolina Gamecocks,South Carolina
-400592949,2014-11-20,2,228,away,FALSE,Clemson,41,Tigers,Clemson Tigers,Clemson
-400590361,2014-11-20,3,24,home,FALSE,Stanford,81,Cardinal,Stanford Cardinal,Stanford
-400590361,2014-11-20,3,251,away,FALSE,Texas,87,Longhorns,Texas Longhorns,Texas
-400589931,2014-11-20,2,295,home,FALSE,Old Dominion,66,Monarchs,Old Dominion Monarchs,Old Dominion
-400589931,2014-11-20,2,150,away,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
-400592952,2014-11-20,2,97,home,FALSE,Louisville,95,Cardinals,Louisville Cardinals,Louisville
-400592952,2014-11-20,2,2057,away,FALSE,Belmont,35,Bruins,Belmont Bruins,Belmont
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400592949,2015,regular-season,2014-11-20,2,2579,home,FALSE,South Carolina,99,Gamecocks,South Carolina Gamecocks,South Carolina
+400592949,2015,regular-season,2014-11-20,2,228,away,FALSE,Clemson,41,Tigers,Clemson Tigers,Clemson
+400590361,2015,regular-season,2014-11-20,3,24,home,FALSE,Stanford,81,Cardinal,Stanford Cardinal,Stanford
+400590361,2015,regular-season,2014-11-20,3,251,away,FALSE,Texas,87,Longhorns,Texas Longhorns,Texas
+400589931,2015,regular-season,2014-11-20,2,295,home,FALSE,Old Dominion,66,Monarchs,Old Dominion Monarchs,Old Dominion
+400589931,2015,regular-season,2014-11-20,2,150,away,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
+400592952,2015,regular-season,2014-11-20,2,97,home,FALSE,Louisville,95,Cardinals,Louisville Cardinals,Louisville
+400592952,2015,regular-season,2014-11-20,2,2057,away,FALSE,Belmont,35,Bruins,Belmont Bruins,Belmont

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310830021,2011-03-24,2,21,home,TRUE,San Diego State,67,Aztecs,San Diego State Aztecs,San Diego St
-310830021,2011-03-24,2,41,away,TRUE,UConn,74,Huskies,UConn Huskies,UConn
-310830057,2011-03-24,3,57,home,TRUE,Florida,83,Gators,Florida Gators,Florida
-310830057,2011-03-24,3,252,away,TRUE,BYU,74,Cougars,BYU Cougars,BYU
-310830150,2011-03-24,2,150,home,TRUE,Duke,77,Blue Devils,Duke Blue Devils,Duke
-310830150,2011-03-24,2,12,away,TRUE,Arizona,93,Wildcats,Arizona Wildcats,Arizona
-310830275,2011-03-24,2,275,home,TRUE,Wisconsin,54,Badgers,Wisconsin Badgers,Wisconsin
-310830275,2011-03-24,2,2086,away,TRUE,Butler,61,Bulldogs,Butler Bulldogs,Butler
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310830021,2011,post-season,2011-03-24,2,21,home,TRUE,San Diego State,67,Aztecs,San Diego State Aztecs,San Diego St
+310830021,2011,post-season,2011-03-24,2,41,away,TRUE,UConn,74,Huskies,UConn Huskies,UConn
+310830057,2011,post-season,2011-03-24,3,57,home,TRUE,Florida,83,Gators,Florida Gators,Florida
+310830057,2011,post-season,2011-03-24,3,252,away,TRUE,BYU,74,Cougars,BYU Cougars,BYU
+310830150,2011,post-season,2011-03-24,2,150,home,TRUE,Duke,77,Blue Devils,Duke Blue Devils,Duke
+310830150,2011,post-season,2011-03-24,2,12,away,TRUE,Arizona,93,Wildcats,Arizona Wildcats,Arizona
+310830275,2011,post-season,2011-03-24,2,275,home,TRUE,Wisconsin,54,Badgers,Wisconsin Badgers,Wisconsin
+310830275,2011,post-season,2011-03-24,2,2086,away,TRUE,Butler,61,Bulldogs,Butler Bulldogs,Butler

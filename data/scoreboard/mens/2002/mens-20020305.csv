@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220642065,2002-03-05,2,2065,home,FALSE,Bethune-Cookman,82,Wildcats,Bethune-Cookman Wildcats,Bethune
-220642065,2002-03-05,2,2379,away,FALSE,Maryland Eastern Shore,70,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-220642350,2002-03-05,3,2350,home,FALSE,Loyola Chicago,75,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-220642350,2002-03-05,3,82,away,FALSE,UIC,76,Flames,UIC Flames,UIC
-220640242,2002-03-05,2,242,home,FALSE,Rice,57,Owls,Rice Owls,Rice
-220640242,2002-03-05,2,23,away,FALSE,San José State,58,Spartans,San José State Spartans,San José St
-220642640,2002-03-05,2,2640,home,FALSE,Texas Southern,68,Tigers,Texas Southern Tigers,Texas Southern
-220642640,2002-03-05,2,2400,away,FALSE,Mississippi Valley State,61,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
-220642016,2002-03-05,2,2016,home,FALSE,Alcorn State,108,Braves,Alcorn State Braves,Alcorn St
-220642016,2002-03-05,2,2755,away,FALSE,Grambling,84,Tigers,Grambling Tigers,Grambling
-220642010,2002-03-05,2,2010,home,FALSE,Alabama A&M,114,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
-220642010,2002-03-05,2,2504,away,FALSE,Prairie View A&M,82,Panthers,Prairie View A&M Panthers,Prairie View
-220640219,2002-03-05,2,219,home,FALSE,Pennsylvania,64,Quakers,Pennsylvania Quakers,Penn
-220640219,2002-03-05,2,163,away,FALSE,Princeton,48,Tigers,Princeton Tigers,Princeton
-220642011,2002-03-05,2,2011,home,FALSE,Alabama State,60,Hornets,Alabama State Hornets,Alabama St
-220642011,2002-03-05,2,2296,away,FALSE,Jackson State,56,Tigers,Jackson State Tigers,Jackson St
-220642674,2002-03-05,2,2674,home,FALSE,Valparaiso,88,Beacons,Valparaiso Beacons,Valparaiso
-220642674,2002-03-05,2,85,away,FALSE,IU Indianapolis,55,Jaguars,IU Indianapolis Jaguars,IU Indy
-220640068,2002-03-05,3,68,home,FALSE,Boise State,73,Broncos,Boise State Broncos,Boise St
-220640068,2002-03-05,3,2638,away,FALSE,UTEP,72,Miners,UTEP Miners,UTEP
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220642065,2002,regular-season,2002-03-05,2,2065,home,FALSE,Bethune-Cookman,82,Wildcats,Bethune-Cookman Wildcats,Bethune
+220642065,2002,regular-season,2002-03-05,2,2379,away,FALSE,Maryland Eastern Shore,70,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+220642350,2002,regular-season,2002-03-05,3,2350,home,FALSE,Loyola Chicago,75,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+220642350,2002,regular-season,2002-03-05,3,82,away,FALSE,UIC,76,Flames,UIC Flames,UIC
+220640242,2002,regular-season,2002-03-05,2,242,home,FALSE,Rice,57,Owls,Rice Owls,Rice
+220640242,2002,regular-season,2002-03-05,2,23,away,FALSE,San José State,58,Spartans,San José State Spartans,San José St
+220642640,2002,regular-season,2002-03-05,2,2640,home,FALSE,Texas Southern,68,Tigers,Texas Southern Tigers,Texas Southern
+220642640,2002,regular-season,2002-03-05,2,2400,away,FALSE,Mississippi Valley State,61,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
+220642016,2002,regular-season,2002-03-05,2,2016,home,FALSE,Alcorn State,108,Braves,Alcorn State Braves,Alcorn St
+220642016,2002,regular-season,2002-03-05,2,2755,away,FALSE,Grambling,84,Tigers,Grambling Tigers,Grambling
+220642010,2002,regular-season,2002-03-05,2,2010,home,FALSE,Alabama A&M,114,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+220642010,2002,regular-season,2002-03-05,2,2504,away,FALSE,Prairie View A&M,82,Panthers,Prairie View A&M Panthers,Prairie View
+220640219,2002,regular-season,2002-03-05,2,219,home,FALSE,Pennsylvania,64,Quakers,Pennsylvania Quakers,Penn
+220640219,2002,regular-season,2002-03-05,2,163,away,FALSE,Princeton,48,Tigers,Princeton Tigers,Princeton
+220642011,2002,regular-season,2002-03-05,2,2011,home,FALSE,Alabama State,60,Hornets,Alabama State Hornets,Alabama St
+220642011,2002,regular-season,2002-03-05,2,2296,away,FALSE,Jackson State,56,Tigers,Jackson State Tigers,Jackson St
+220642674,2002,regular-season,2002-03-05,2,2674,home,FALSE,Valparaiso,88,Beacons,Valparaiso Beacons,Valparaiso
+220642674,2002,regular-season,2002-03-05,2,85,away,FALSE,IU Indianapolis,55,Jaguars,IU Indianapolis Jaguars,IU Indy
+220640068,2002,regular-season,2002-03-05,3,68,home,FALSE,Boise State,73,Broncos,Boise State Broncos,Boise St
+220640068,2002,regular-season,2002-03-05,3,2638,away,FALSE,UTEP,72,Miners,UTEP Miners,UTEP

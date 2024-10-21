@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330560066,2013-02-25,3,66,home,FALSE,Iowa State,96,Cyclones,Iowa State Cyclones,Iowa State
-330560066,2013-02-25,3,2305,away,FALSE,Kansas,108,Jayhawks,Kansas Jayhawks,Kansas
-330560269,2013-02-25,2,269,home,FALSE,Marquette,74,Golden Eagles,Marquette Golden Eagles,Marquette
-330560269,2013-02-25,2,183,away,FALSE,Syracuse,71,Orange,Syracuse Orange,Syracuse
-330562306,2013-02-25,2,2306,home,FALSE,Kansas State,75,Wildcats,Kansas State Wildcats,Kansas St
-330562306,2013-02-25,2,2641,away,FALSE,Texas Tech,55,Red Raiders,Texas Tech Red Raiders,Texas Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330560066,2013,regular-season,2013-02-25,3,66,home,FALSE,Iowa State,96,Cyclones,Iowa State Cyclones,Iowa State
+330560066,2013,regular-season,2013-02-25,3,2305,away,FALSE,Kansas,108,Jayhawks,Kansas Jayhawks,Kansas
+330560269,2013,regular-season,2013-02-25,2,269,home,FALSE,Marquette,74,Golden Eagles,Marquette Golden Eagles,Marquette
+330560269,2013,regular-season,2013-02-25,2,183,away,FALSE,Syracuse,71,Orange,Syracuse Orange,Syracuse
+330562306,2013,regular-season,2013-02-25,2,2306,home,FALSE,Kansas State,75,Wildcats,Kansas State Wildcats,Kansas St
+330562306,2013,regular-season,2013-02-25,2,2641,away,FALSE,Texas Tech,55,Red Raiders,Texas Tech Red Raiders,Texas Tech

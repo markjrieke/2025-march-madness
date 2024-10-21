@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270570201,2007-02-26,2,201,home,FALSE,Oklahoma,65,Sooners,Oklahoma Sooners,Oklahoma
-270570201,2007-02-26,2,2305,away,FALSE,Kansas,67,Jayhawks,Kansas Jayhawks,Kansas
-270570183,2007-02-26,2,183,home,FALSE,Syracuse,72,Orange,Syracuse Orange,Syracuse
-270570183,2007-02-26,2,46,away,FALSE,Georgetown,58,Hoyas,Georgetown Hoyas,Georgetown
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270570201,2007,regular-season,2007-02-26,2,201,home,FALSE,Oklahoma,65,Sooners,Oklahoma Sooners,Oklahoma
+270570201,2007,regular-season,2007-02-26,2,2305,away,FALSE,Kansas,67,Jayhawks,Kansas Jayhawks,Kansas
+270570183,2007,regular-season,2007-02-26,2,183,home,FALSE,Syracuse,72,Orange,Syracuse Orange,Syracuse
+270570183,2007,regular-season,2007-02-26,2,46,away,FALSE,Georgetown,58,Hoyas,Georgetown Hoyas,Georgetown

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260710150,2006-03-12,2,150,home,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
-260710150,2006-03-12,2,103,away,FALSE,Boston College,76,Eagles,Boston College Eagles,Boston College
-260710194,2006-03-12,2,194,home,FALSE,Ohio State,60,Buckeyes,Ohio State Buckeyes,Ohio State
-260710194,2006-03-12,2,2294,away,FALSE,Iowa,67,Hawkeyes,Iowa Hawkeyes,Iowa
-260710251,2006-03-12,2,251,home,FALSE,Texas,68,Longhorns,Texas Longhorns,Texas
-260710251,2006-03-12,2,2305,away,FALSE,Kansas,80,Jayhawks,Kansas Jayhawks,Kansas
-260710057,2006-03-12,2,57,home,FALSE,Florida,49,Gators,Florida Gators,Florida
-260710057,2006-03-12,2,2579,away,FALSE,South Carolina,47,Gamecocks,South Carolina Gamecocks,South Carolina
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260710150,2006,regular-season,2006-03-12,2,150,home,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
+260710150,2006,regular-season,2006-03-12,2,103,away,FALSE,Boston College,76,Eagles,Boston College Eagles,Boston College
+260710194,2006,regular-season,2006-03-12,2,194,home,FALSE,Ohio State,60,Buckeyes,Ohio State Buckeyes,Ohio State
+260710194,2006,regular-season,2006-03-12,2,2294,away,FALSE,Iowa,67,Hawkeyes,Iowa Hawkeyes,Iowa
+260710251,2006,regular-season,2006-03-12,2,251,home,FALSE,Texas,68,Longhorns,Texas Longhorns,Texas
+260710251,2006,regular-season,2006-03-12,2,2305,away,FALSE,Kansas,80,Jayhawks,Kansas Jayhawks,Kansas
+260710057,2006,regular-season,2006-03-12,2,57,home,FALSE,Florida,49,Gators,Florida Gators,Florida
+260710057,2006,regular-season,2006-03-12,2,2579,away,FALSE,South Carolina,47,Gamecocks,South Carolina Gamecocks,South Carolina

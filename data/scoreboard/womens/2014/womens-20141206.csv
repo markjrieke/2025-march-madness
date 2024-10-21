@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400593004,2014-12-06,2,87,home,FALSE,Notre Dame,58,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400593004,2014-12-06,2,41,away,FALSE,UConn,76,Huskies,UConn Huskies,UConn
-400590401,2014-12-06,2,204,home,FALSE,Oregon State,109,Beavers,Oregon State Beavers,Oregon St
-400590401,2014-12-06,2,16,away,FALSE,Sacramento State,61,Hornets,Sacramento State Hornets,Sacramento St
-400592322,2014-12-06,2,277,home,FALSE,West Virginia,83,Mountaineers,West Virginia Mountaineers,West Virginia
-400592322,2014-12-06,2,2154,away,FALSE,Coppin State,43,Eagles,Coppin State Eagles,Coppin St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400593004,2015,regular-season,2014-12-06,2,87,home,FALSE,Notre Dame,58,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400593004,2015,regular-season,2014-12-06,2,41,away,FALSE,UConn,76,Huskies,UConn Huskies,UConn
+400590401,2015,regular-season,2014-12-06,2,204,home,FALSE,Oregon State,109,Beavers,Oregon State Beavers,Oregon St
+400590401,2015,regular-season,2014-12-06,2,16,away,FALSE,Sacramento State,61,Hornets,Sacramento State Hornets,Sacramento St
+400592322,2015,regular-season,2014-12-06,2,277,home,FALSE,West Virginia,83,Mountaineers,West Virginia Mountaineers,West Virginia
+400592322,2015,regular-season,2014-12-06,2,2154,away,FALSE,Coppin State,43,Eagles,Coppin State Eagles,Coppin St

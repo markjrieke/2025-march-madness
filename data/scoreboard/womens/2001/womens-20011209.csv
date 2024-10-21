@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213432229,2001-12-09,2,2229,home,FALSE,Florida International,75,Panthers,Florida International Panthers,FIU
-213432229,2001-12-09,2,36,away,FALSE,Colorado State,72,Rams,Colorado State Rams,Colorado St
-213430041,2001-12-09,2,41,home,FALSE,UConn,74,Huskies,UConn Huskies,UConn
-213430041,2001-12-09,2,2348,away,FALSE,Louisiana Tech,50,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-213430218,2001-12-09,2,218,home,FALSE,Temple,74,Owls,Temple Owls,Temple
-213430218,2001-12-09,2,238,away,FALSE,Vanderbilt,84,Commodores,Vanderbilt Commodores,Vanderbilt
-213430264,2001-12-09,2,264,home,FALSE,Washington,70,Huskies,Washington Huskies,Washington
-213430264,2001-12-09,2,130,away,FALSE,Michigan,71,Wolverines,Michigan Wolverines,Michigan
-213432390,2001-12-09,2,2390,home,FALSE,Miami,57,Hurricanes,Miami Hurricanes,Miami
-213432390,2001-12-09,2,251,away,FALSE,Texas,55,Longhorns,Texas Longhorns,Texas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213432229,2002,regular-season,2001-12-09,2,2229,home,FALSE,Florida International,75,Panthers,Florida International Panthers,FIU
+213432229,2002,regular-season,2001-12-09,2,36,away,FALSE,Colorado State,72,Rams,Colorado State Rams,Colorado St
+213430041,2002,regular-season,2001-12-09,2,41,home,FALSE,UConn,74,Huskies,UConn Huskies,UConn
+213430041,2002,regular-season,2001-12-09,2,2348,away,FALSE,Louisiana Tech,50,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+213430218,2002,regular-season,2001-12-09,2,218,home,FALSE,Temple,74,Owls,Temple Owls,Temple
+213430218,2002,regular-season,2001-12-09,2,238,away,FALSE,Vanderbilt,84,Commodores,Vanderbilt Commodores,Vanderbilt
+213430264,2002,regular-season,2001-12-09,2,264,home,FALSE,Washington,70,Huskies,Washington Huskies,Washington
+213430264,2002,regular-season,2001-12-09,2,130,away,FALSE,Michigan,71,Wolverines,Michigan Wolverines,Michigan
+213432390,2002,regular-season,2001-12-09,2,2390,home,FALSE,Miami,57,Hurricanes,Miami Hurricanes,Miami
+213432390,2002,regular-season,2001-12-09,2,251,away,FALSE,Texas,55,Longhorns,Texas Longhorns,Texas

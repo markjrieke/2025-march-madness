@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-223562483,2002-12-22,2,2483,home,FALSE,Oregon,90,Ducks,Oregon Ducks,Oregon
-223562483,2002-12-22,2,135,away,FALSE,Minnesota,81,Golden Gophers,Minnesota Golden Gophers,Minnesota
-223560087,2002-12-22,2,87,home,FALSE,Notre Dame,93,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-223560087,2002-12-22,2,2099,away,FALSE,Canisius,75,Golden Griffins,Canisius Golden Griffins,Canisius
-223560251,2002-12-22,2,251,home,FALSE,Texas,57,Longhorns,Texas Longhorns,Texas
-223560251,2002-12-22,2,163,away,FALSE,Princeton,54,Tigers,Princeton Tigers,Princeton
-223560052,2002-12-22,2,52,home,FALSE,Florida State,48,Seminoles,Florida State Seminoles,Florida St
-223560052,2002-12-22,2,153,away,FALSE,North Carolina,69,Tar Heels,North Carolina Tar Heels,North Carolina
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+223562483,2003,regular-season,2002-12-22,2,2483,home,FALSE,Oregon,90,Ducks,Oregon Ducks,Oregon
+223562483,2003,regular-season,2002-12-22,2,135,away,FALSE,Minnesota,81,Golden Gophers,Minnesota Golden Gophers,Minnesota
+223560087,2003,regular-season,2002-12-22,2,87,home,FALSE,Notre Dame,93,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+223560087,2003,regular-season,2002-12-22,2,2099,away,FALSE,Canisius,75,Golden Griffins,Canisius Golden Griffins,Canisius
+223560251,2003,regular-season,2002-12-22,2,251,home,FALSE,Texas,57,Longhorns,Texas Longhorns,Texas
+223560251,2003,regular-season,2002-12-22,2,163,away,FALSE,Princeton,54,Tigers,Princeton Tigers,Princeton
+223560052,2003,regular-season,2002-12-22,2,52,home,FALSE,Florida State,48,Seminoles,Florida State Seminoles,Florida St
+223560052,2003,regular-season,2002-12-22,2,153,away,FALSE,North Carolina,69,Tar Heels,North Carolina Tar Heels,North Carolina

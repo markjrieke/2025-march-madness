@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293260302,2009-11-22,2,302,home,FALSE,UC Davis,51,Aggies,UC Davis Aggies,UC Davis
-293260302,2009-11-22,2,24,away,FALSE,Stanford,76,Cardinal,Stanford Cardinal,Stanford
-293260194,2009-11-22,2,194,home,FALSE,Ohio State,93,Buckeyes,Ohio State Buckeyes,Ohio State
-293260194,2009-11-22,2,197,away,FALSE,Oklahoma State,72,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-293262439,2009-11-22,2,2439,home,FALSE,UNLV,68,Lady Rebels,UNLV Lady Rebels,UNLV
-293262439,2009-11-22,2,153,away,FALSE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
-293260087,2009-11-22,2,87,home,FALSE,Notre Dame,80,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-293260087,2009-11-22,2,314,away,FALSE,Iona,45,Gaels,Iona Gaels,Iona
-293260258,2009-11-22,2,258,home,FALSE,Virginia,63,Cavaliers,Virginia Cavaliers,Virginia
-293260258,2009-11-22,2,2633,away,FALSE,Tennessee,77,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-293260099,2009-11-22,2,99,home,FALSE,LSU,86,Tigers,LSU Tigers,LSU
-293260099,2009-11-22,2,2447,away,FALSE,Nicholls,49,Colonels,Nicholls Colonels,Nicholls
-293260025,2009-11-22,2,25,home,FALSE,California,49,Golden Bears,California Golden Bears,California
-293260025,2009-11-22,2,239,away,FALSE,Baylor,69,Bears,Baylor Bears,Baylor
-293262247,2009-11-22,2,2247,home,FALSE,Georgia State,53,Panthers,Georgia State Panthers,Georgia St
-293262247,2009-11-22,2,52,away,FALSE,Florida State,66,Seminoles,Florida State Seminoles,Florida St
-293260002,2009-11-22,2,2,home,FALSE,Auburn,59,Tigers,Auburn Tigers,Auburn
-293260002,2009-11-22,2,245,away,FALSE,Texas A&M,79,Aggies,Texas A&M Aggies,Texas A&M
-293260061,2009-11-22,2,61,home,FALSE,Georgia,49,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-293260061,2009-11-22,2,164,away,FALSE,Rutgers,48,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-293262305,2009-11-22,2,2305,home,FALSE,Kansas,77,Jayhawks,Kansas Jayhawks,Kansas
-293262305,2009-11-22,2,130,away,FALSE,Michigan,66,Wolverines,Michigan Wolverines,Michigan
-293260127,2009-11-22,2,127,home,FALSE,Michigan State,74,Spartans,Michigan State Spartans,Michigan St
-293260127,2009-11-22,2,2711,away,FALSE,Western Michigan,51,Broncos,Western Michigan Broncos,W Michigan
-293260097,2009-11-22,2,97,home,FALSE,Louisville,84,Cardinals,Louisville Cardinals,Louisville
-293260097,2009-11-22,2,2635,away,FALSE,Tennessee Tech,54,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
-293260344,2009-11-22,2,344,home,FALSE,Mississippi State,84,Bulldogs,Mississippi State Bulldogs,Mississippi St
-293260344,2009-11-22,2,120,away,FALSE,Maryland,55,Terrapins,Maryland Terrapins,Maryland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293260302,2010,regular-season,2009-11-22,2,302,home,FALSE,UC Davis,51,Aggies,UC Davis Aggies,UC Davis
+293260302,2010,regular-season,2009-11-22,2,24,away,FALSE,Stanford,76,Cardinal,Stanford Cardinal,Stanford
+293260194,2010,regular-season,2009-11-22,2,194,home,FALSE,Ohio State,93,Buckeyes,Ohio State Buckeyes,Ohio State
+293260194,2010,regular-season,2009-11-22,2,197,away,FALSE,Oklahoma State,72,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+293262439,2010,regular-season,2009-11-22,2,2439,home,FALSE,UNLV,68,Lady Rebels,UNLV Lady Rebels,UNLV
+293262439,2010,regular-season,2009-11-22,2,153,away,FALSE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
+293260087,2010,regular-season,2009-11-22,2,87,home,FALSE,Notre Dame,80,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+293260087,2010,regular-season,2009-11-22,2,314,away,FALSE,Iona,45,Gaels,Iona Gaels,Iona
+293260258,2010,regular-season,2009-11-22,2,258,home,FALSE,Virginia,63,Cavaliers,Virginia Cavaliers,Virginia
+293260258,2010,regular-season,2009-11-22,2,2633,away,FALSE,Tennessee,77,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+293260099,2010,regular-season,2009-11-22,2,99,home,FALSE,LSU,86,Tigers,LSU Tigers,LSU
+293260099,2010,regular-season,2009-11-22,2,2447,away,FALSE,Nicholls,49,Colonels,Nicholls Colonels,Nicholls
+293260025,2010,regular-season,2009-11-22,2,25,home,FALSE,California,49,Golden Bears,California Golden Bears,California
+293260025,2010,regular-season,2009-11-22,2,239,away,FALSE,Baylor,69,Bears,Baylor Bears,Baylor
+293262247,2010,regular-season,2009-11-22,2,2247,home,FALSE,Georgia State,53,Panthers,Georgia State Panthers,Georgia St
+293262247,2010,regular-season,2009-11-22,2,52,away,FALSE,Florida State,66,Seminoles,Florida State Seminoles,Florida St
+293260002,2010,regular-season,2009-11-22,2,2,home,FALSE,Auburn,59,Tigers,Auburn Tigers,Auburn
+293260002,2010,regular-season,2009-11-22,2,245,away,FALSE,Texas A&M,79,Aggies,Texas A&M Aggies,Texas A&M
+293260061,2010,regular-season,2009-11-22,2,61,home,FALSE,Georgia,49,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+293260061,2010,regular-season,2009-11-22,2,164,away,FALSE,Rutgers,48,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+293262305,2010,regular-season,2009-11-22,2,2305,home,FALSE,Kansas,77,Jayhawks,Kansas Jayhawks,Kansas
+293262305,2010,regular-season,2009-11-22,2,130,away,FALSE,Michigan,66,Wolverines,Michigan Wolverines,Michigan
+293260127,2010,regular-season,2009-11-22,2,127,home,FALSE,Michigan State,74,Spartans,Michigan State Spartans,Michigan St
+293260127,2010,regular-season,2009-11-22,2,2711,away,FALSE,Western Michigan,51,Broncos,Western Michigan Broncos,W Michigan
+293260097,2010,regular-season,2009-11-22,2,97,home,FALSE,Louisville,84,Cardinals,Louisville Cardinals,Louisville
+293260097,2010,regular-season,2009-11-22,2,2635,away,FALSE,Tennessee Tech,54,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
+293260344,2010,regular-season,2009-11-22,2,344,home,FALSE,Mississippi State,84,Bulldogs,Mississippi State Bulldogs,Mississippi St
+293260344,2010,regular-season,2009-11-22,2,120,away,FALSE,Maryland,55,Terrapins,Maryland Terrapins,Maryland

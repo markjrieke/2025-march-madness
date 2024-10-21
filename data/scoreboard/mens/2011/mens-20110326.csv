@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310850057,2011-03-26,3,57,home,TRUE,Florida,71,Gators,Florida Gators,Florida
-310850057,2011-03-26,3,2086,away,TRUE,Butler,74,Bulldogs,Butler Bulldogs,Butler
-310850041,2011-03-26,2,41,home,TRUE,UConn,65,Huskies,UConn Huskies,UConn
-310850041,2011-03-26,2,12,away,TRUE,Arizona,63,Wildcats,Arizona Wildcats,Arizona
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310850057,2011,post-season,2011-03-26,3,57,home,TRUE,Florida,71,Gators,Florida Gators,Florida
+310850057,2011,post-season,2011-03-26,3,2086,away,TRUE,Butler,74,Bulldogs,Butler Bulldogs,Butler
+310850041,2011,post-season,2011-03-26,2,41,home,TRUE,UConn,65,Huskies,UConn Huskies,UConn
+310850041,2011,post-season,2011-03-26,2,12,away,TRUE,Arizona,63,Wildcats,Arizona Wildcats,Arizona

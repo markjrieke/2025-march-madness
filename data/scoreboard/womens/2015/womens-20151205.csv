@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400834847,2015-12-05,4,120,home,FALSE,Maryland,86,Terrapins,Maryland Terrapins,Maryland
-400834847,2015-12-05,4,2115,away,FALSE,Central Connecticut,43,Blue Devils,Central Connecticut Blue Devils,C Connecticut
-400841360,2015-12-05,4,305,home,FALSE,DePaul,89,Blue Demons,DePaul Blue Demons,DePaul
-400841360,2015-12-05,4,2287,away,FALSE,Illinois State,41,Redbirds,Illinois State Redbirds,Illinois St
-400821070,2015-12-05,4,26,home,FALSE,UCLA,82,Bruins,UCLA Bruins,UCLA
-400821070,2015-12-05,4,2934,away,FALSE,Cal State Bakersfield,68,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400834847,2016,regular-season,2015-12-05,4,120,home,FALSE,Maryland,86,Terrapins,Maryland Terrapins,Maryland
+400834847,2016,regular-season,2015-12-05,4,2115,away,FALSE,Central Connecticut,43,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+400841360,2016,regular-season,2015-12-05,4,305,home,FALSE,DePaul,89,Blue Demons,DePaul Blue Demons,DePaul
+400841360,2016,regular-season,2015-12-05,4,2287,away,FALSE,Illinois State,41,Redbirds,Illinois State Redbirds,Illinois St
+400821070,2016,regular-season,2015-12-05,4,26,home,FALSE,UCLA,82,Bruins,UCLA Bruins,UCLA
+400821070,2016,regular-season,2015-12-05,4,2934,away,FALSE,Cal State Bakersfield,68,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield

@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240080059,2004-01-08,2,59,home,FALSE,Georgia Tech,45,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-240080059,2004-01-08,2,150,away,FALSE,Duke,77,Blue Devils,Duke Blue Devils,Duke
-240082633,2004-01-08,2,2633,home,FALSE,Tennessee,83,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-240082633,2004-01-08,2,8,away,FALSE,Arkansas,44,Razorbacks,Arkansas Razorbacks,Arkansas
-240080077,2004-01-08,2,77,home,FALSE,Northwestern,40,Wildcats,Northwestern Wildcats,Northwestern
-240080077,2004-01-08,2,135,away,FALSE,Minnesota,72,Golden Gophers,Minnesota Golden Gophers,Minnesota
-240080024,2004-01-08,2,24,home,FALSE,Stanford,60,Cardinal,Stanford Cardinal,Stanford
-240080024,2004-01-08,2,9,away,FALSE,Arizona State,46,Sun Devils,Arizona State Sun Devils,Arizona St
-240082348,2004-01-08,2,2348,home,FALSE,Louisiana Tech,110,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-240082348,2004-01-08,2,2440,away,FALSE,Nevada,47,Wolf Pack,Nevada Wolf Pack,Nevada
-240080213,2004-01-08,2,213,home,FALSE,Penn State,92,Lady Lions,Penn State Lady Lions,Penn State
-240080213,2004-01-08,2,2294,away,FALSE,Iowa,64,Hawkeyes,Iowa Hawkeyes,Iowa
-240080127,2004-01-08,2,127,home,FALSE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
-240080127,2004-01-08,2,2509,away,FALSE,Purdue,77,Boilermakers,Purdue Boilermakers,Purdue
-240080061,2004-01-08,2,61,home,FALSE,Georgia,88,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-240080061,2004-01-08,2,344,away,FALSE,Mississippi State,70,Bulldogs,Mississippi State Bulldogs,Mississippi St
-240080152,2004-01-08,2,152,home,FALSE,NC State,57,Wolfpack,NC State Wolfpack,NC State
-240080152,2004-01-08,2,153,away,FALSE,North Carolina,58,Tar Heels,North Carolina Tar Heels,North Carolina
-240080356,2004-01-08,2,356,home,FALSE,Illinois,52,Fighting Illini,Illinois Fighting Illini,Illinois
-240080356,2004-01-08,2,194,away,FALSE,Ohio State,51,Buckeyes,Ohio State Buckeyes,Ohio State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240080059,2004,regular-season,2004-01-08,2,59,home,FALSE,Georgia Tech,45,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+240080059,2004,regular-season,2004-01-08,2,150,away,FALSE,Duke,77,Blue Devils,Duke Blue Devils,Duke
+240082633,2004,regular-season,2004-01-08,2,2633,home,FALSE,Tennessee,83,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+240082633,2004,regular-season,2004-01-08,2,8,away,FALSE,Arkansas,44,Razorbacks,Arkansas Razorbacks,Arkansas
+240080077,2004,regular-season,2004-01-08,2,77,home,FALSE,Northwestern,40,Wildcats,Northwestern Wildcats,Northwestern
+240080077,2004,regular-season,2004-01-08,2,135,away,FALSE,Minnesota,72,Golden Gophers,Minnesota Golden Gophers,Minnesota
+240080024,2004,regular-season,2004-01-08,2,24,home,FALSE,Stanford,60,Cardinal,Stanford Cardinal,Stanford
+240080024,2004,regular-season,2004-01-08,2,9,away,FALSE,Arizona State,46,Sun Devils,Arizona State Sun Devils,Arizona St
+240082348,2004,regular-season,2004-01-08,2,2348,home,FALSE,Louisiana Tech,110,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+240082348,2004,regular-season,2004-01-08,2,2440,away,FALSE,Nevada,47,Wolf Pack,Nevada Wolf Pack,Nevada
+240080213,2004,regular-season,2004-01-08,2,213,home,FALSE,Penn State,92,Lady Lions,Penn State Lady Lions,Penn State
+240080213,2004,regular-season,2004-01-08,2,2294,away,FALSE,Iowa,64,Hawkeyes,Iowa Hawkeyes,Iowa
+240080127,2004,regular-season,2004-01-08,2,127,home,FALSE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
+240080127,2004,regular-season,2004-01-08,2,2509,away,FALSE,Purdue,77,Boilermakers,Purdue Boilermakers,Purdue
+240080061,2004,regular-season,2004-01-08,2,61,home,FALSE,Georgia,88,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+240080061,2004,regular-season,2004-01-08,2,344,away,FALSE,Mississippi State,70,Bulldogs,Mississippi State Bulldogs,Mississippi St
+240080152,2004,regular-season,2004-01-08,2,152,home,FALSE,NC State,57,Wolfpack,NC State Wolfpack,NC State
+240080152,2004,regular-season,2004-01-08,2,153,away,FALSE,North Carolina,58,Tar Heels,North Carolina Tar Heels,North Carolina
+240080356,2004,regular-season,2004-01-08,2,356,home,FALSE,Illinois,52,Fighting Illini,Illinois Fighting Illini,Illinois
+240080356,2004,regular-season,2004-01-08,2,194,away,FALSE,Ohio State,51,Buckeyes,Ohio State Buckeyes,Ohio State

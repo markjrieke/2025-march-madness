@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270210221,2007-01-21,3,221,home,FALSE,Pittsburgh,74,Panthers,Pittsburgh Panthers,Pitt
-270210221,2007-01-21,3,269,away,FALSE,Marquette,77,Golden Eagles,Marquette Golden Eagles,Marquette
-270210087,2007-01-21,2,87,home,FALSE,Notre Dame,82,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-270210087,2007-01-21,2,58,away,FALSE,South Florida,58,Bulls,South Florida Bulls,South Florida
-270210259,2007-01-21,3,259,home,FALSE,Virginia Tech,67,Hokies,Virginia Tech Hokies,Virginia Tech
-270210259,2007-01-21,3,120,away,FALSE,Maryland,64,Terrapins,Maryland Terrapins,Maryland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270210221,2007,regular-season,2007-01-21,3,221,home,FALSE,Pittsburgh,74,Panthers,Pittsburgh Panthers,Pitt
+270210221,2007,regular-season,2007-01-21,3,269,away,FALSE,Marquette,77,Golden Eagles,Marquette Golden Eagles,Marquette
+270210087,2007,regular-season,2007-01-21,2,87,home,FALSE,Notre Dame,82,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+270210087,2007,regular-season,2007-01-21,2,58,away,FALSE,South Florida,58,Bulls,South Florida Bulls,South Florida
+270210259,2007,regular-season,2007-01-21,3,259,home,FALSE,Virginia Tech,67,Hokies,Virginia Tech Hokies,Virginia Tech
+270210259,2007,regular-season,2007-01-21,3,120,away,FALSE,Maryland,64,Terrapins,Maryland Terrapins,Maryland

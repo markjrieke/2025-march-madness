@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323170288,2012-11-12,2,288,home,FALSE,Lipscomb,45,Bisons,Lipscomb Bisons,Lipscomb
-323170288,2012-11-12,2,238,away,FALSE,Vanderbilt,62,Commodores,Vanderbilt Commodores,Vanderbilt
-323170104,2012-11-12,2,104,home,FALSE,Boston University,57,Terriers,Boston University Terriers,Boston U
-323170104,2012-11-12,2,277,away,FALSE,West Virginia,60,Mountaineers,West Virginia Mountaineers,West Virginia
-323170257,2012-11-12,2,257,home,FALSE,Richmond,63,Spiders,Richmond Spiders,Richmond
-323170257,2012-11-12,2,2390,away,FALSE,Miami,69,Hurricanes,Miami Hurricanes,Miami
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323170288,2013,regular-season,2012-11-12,2,288,home,FALSE,Lipscomb,45,Bisons,Lipscomb Bisons,Lipscomb
+323170288,2013,regular-season,2012-11-12,2,238,away,FALSE,Vanderbilt,62,Commodores,Vanderbilt Commodores,Vanderbilt
+323170104,2013,regular-season,2012-11-12,2,104,home,FALSE,Boston University,57,Terriers,Boston University Terriers,Boston U
+323170104,2013,regular-season,2012-11-12,2,277,away,FALSE,West Virginia,60,Mountaineers,West Virginia Mountaineers,West Virginia
+323170257,2013,regular-season,2012-11-12,2,257,home,FALSE,Richmond,63,Spiders,Richmond Spiders,Richmond
+323170257,2013,regular-season,2012-11-12,2,2390,away,FALSE,Miami,69,Hurricanes,Miami Hurricanes,Miami

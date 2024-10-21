@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401176836,2019-11-14,4,239,home,FALSE,Baylor,112,Bears,Baylor Bears,Baylor
-401176836,2019-11-14,4,2277,away,FALSE,Houston Christian,42,Huskies,Houston Christian Huskies,Hou Christian
-401174532,2019-11-14,4,24,home,FALSE,Stanford,90,Cardinal,Stanford Cardinal,Stanford
-401174532,2019-11-14,4,2458,away,FALSE,Northern Colorado,36,Bears,Northern Colorado Bears,N Colorado
-401171103,2019-11-14,4,97,home,FALSE,Louisville,76,Cardinals,Louisville Cardinals,Louisville
-401171103,2019-11-14,4,2117,away,FALSE,Central Michigan,63,Chippewas,Central Michigan Chippewas,C Michigan
-401177496,2019-11-14,4,26,home,FALSE,UCLA,86,Bruins,UCLA Bruins,UCLA
-401177496,2019-11-14,4,299,away,FALSE,Long Beach State,51,Beach,Long Beach State Beach,Long Beach St
-401171104,2019-11-14,4,152,home,FALSE,NC State,81,Wolfpack,NC State Wolfpack,NC State
-401171104,2019-11-14,4,2320,away,FALSE,Lamar,40,Cardinals,Lamar Cardinals,Lamar
-401171105,2019-11-14,4,87,home,FALSE,Notre Dame,69,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401171105,2019-11-14,4,127,away,FALSE,Michigan State,72,Spartans,Michigan State Spartans,Michigan St
-401176838,2019-11-14,4,251,home,FALSE,Texas,84,Longhorns,Texas Longhorns,Texas
-401176838,2019-11-14,4,2636,away,FALSE,UTSA,53,Roadrunners,UTSA Roadrunners,UTSA
-401166928,2019-11-14,4,8,home,FALSE,Arkansas,96,Razorbacks,Arkansas Razorbacks,Arkansas
-401166928,2019-11-14,4,198,away,FALSE,Oral Roberts,64,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401176836,2020,regular-season,2019-11-14,4,239,home,FALSE,Baylor,112,Bears,Baylor Bears,Baylor
+401176836,2020,regular-season,2019-11-14,4,2277,away,FALSE,Houston Christian,42,Huskies,Houston Christian Huskies,Hou Christian
+401174532,2020,regular-season,2019-11-14,4,24,home,FALSE,Stanford,90,Cardinal,Stanford Cardinal,Stanford
+401174532,2020,regular-season,2019-11-14,4,2458,away,FALSE,Northern Colorado,36,Bears,Northern Colorado Bears,N Colorado
+401171103,2020,regular-season,2019-11-14,4,97,home,FALSE,Louisville,76,Cardinals,Louisville Cardinals,Louisville
+401171103,2020,regular-season,2019-11-14,4,2117,away,FALSE,Central Michigan,63,Chippewas,Central Michigan Chippewas,C Michigan
+401177496,2020,regular-season,2019-11-14,4,26,home,FALSE,UCLA,86,Bruins,UCLA Bruins,UCLA
+401177496,2020,regular-season,2019-11-14,4,299,away,FALSE,Long Beach State,51,Beach,Long Beach State Beach,Long Beach St
+401171104,2020,regular-season,2019-11-14,4,152,home,FALSE,NC State,81,Wolfpack,NC State Wolfpack,NC State
+401171104,2020,regular-season,2019-11-14,4,2320,away,FALSE,Lamar,40,Cardinals,Lamar Cardinals,Lamar
+401171105,2020,regular-season,2019-11-14,4,87,home,FALSE,Notre Dame,69,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401171105,2020,regular-season,2019-11-14,4,127,away,FALSE,Michigan State,72,Spartans,Michigan State Spartans,Michigan St
+401176838,2020,regular-season,2019-11-14,4,251,home,FALSE,Texas,84,Longhorns,Texas Longhorns,Texas
+401176838,2020,regular-season,2019-11-14,4,2636,away,FALSE,UTSA,53,Roadrunners,UTSA Roadrunners,UTSA
+401166928,2020,regular-season,2019-11-14,4,8,home,FALSE,Arkansas,96,Razorbacks,Arkansas Razorbacks,Arkansas
+401166928,2020,regular-season,2019-11-14,4,198,away,FALSE,Oral Roberts,64,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts

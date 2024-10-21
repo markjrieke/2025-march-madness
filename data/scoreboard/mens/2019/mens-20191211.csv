@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401166111,2019-12-11,2,356,home,FALSE,Illinois,71,Fighting Illini,Illinois Fighting Illini,Illinois
-401166111,2019-12-11,2,130,away,FALSE,Michigan,62,Wolverines,Michigan Wolverines,Michigan
-401170619,2019-12-11,2,12,home,FALSE,Arizona,99,Wildcats,Arizona Wildcats,Arizona
-401170619,2019-12-11,2,2437,away,FALSE,Omaha,49,Mavericks,Omaha Mavericks,Omaha
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401166111,2020,regular-season,2019-12-11,2,356,home,FALSE,Illinois,71,Fighting Illini,Illinois Fighting Illini,Illinois
+401166111,2020,regular-season,2019-12-11,2,130,away,FALSE,Michigan,62,Wolverines,Michigan Wolverines,Michigan
+401170619,2020,regular-season,2019-12-11,2,12,home,FALSE,Arizona,99,Wildcats,Arizona Wildcats,Arizona
+401170619,2020,regular-season,2019-12-11,2,2437,away,FALSE,Omaha,49,Mavericks,Omaha Mavericks,Omaha

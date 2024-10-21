@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313320012,2011-11-28,2,12,home,FALSE,Arizona,69,Wildcats,Arizona Wildcats,Arizona
-313320012,2011-11-28,2,249,away,FALSE,North Texas,62,Mean Green,North Texas Mean Green,North Texas
-313322450,2011-11-28,3,2450,home,FALSE,Norfolk State,76,Spartans,Norfolk State Spartans,Norfolk St
-313322450,2011-11-28,3,2729,away,FALSE,William & Mary,79,Tribe,William & Mary Tribe,William & Mary
-313320233,2011-11-28,2,233,home,FALSE,South Dakota,94,Coyotes,South Dakota Coyotes,South Dakota
-313320233,2011-11-28,2,619,away,FALSE,Tabor,16,Tabor,Tabor,Tabor
-313322454,2011-11-28,2,2454,home,FALSE,North Florida,67,Ospreys,North Florida Ospreys,North Florida
-313322454,2011-11-28,2,324,away,FALSE,Coastal Carolina,37,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
-313322426,2011-11-28,2,2426,home,FALSE,Navy,71,Midshipmen,Navy Midshipmen,Navy
-313322426,2011-11-28,2,2005,away,FALSE,Air Force,59,Falcons,Air Force Falcons,Air Force
-313322154,2011-11-28,2,2154,home,FALSE,Coppin State,94,Eagles,Coppin State Eagles,Coppin St
-313322154,2011-11-28,2,2129,away,FALSE,Cheyney (PA),39,Wolves,Cheyney (PA) Wolves,Cheyney (PA)
-313320257,2011-11-28,2,257,home,FALSE,Richmond,66,Spiders,Richmond Spiders,Richmond
-313320257,2011-11-28,2,2193,away,FALSE,East Tennessee State,39,Bucs,East Tennessee State Bucs,ETSU
-313320231,2011-11-28,2,231,home,FALSE,Furman,67,Paladins,Furman Paladins,Furman
-313320231,2011-11-28,2,228,away,FALSE,Clemson,68,Tigers,Clemson Tigers,Clemson
-313320058,2011-11-28,2,58,home,FALSE,South Florida,77,Bulls,South Florida Bulls,South Florida
-313320058,2011-11-28,2,56,away,FALSE,Stetson,62,Hatters,Stetson Hatters,Stetson
-313320526,2011-11-28,2,526,home,FALSE,Florida Gulf Coast,106,Eagles,Florida Gulf Coast Eagles,FGCU
-313320526,2011-11-28,2,2691,away,FALSE,Webber International,27,Warriors,Webber International Warriors,Webber Int
-313322130,2011-11-28,2,2130,home,FALSE,Chicago State,39,Cougars,Chicago State Cougars,Chicago St
-313322130,2011-11-28,2,2261,away,FALSE,Hampton,66,Lady Pirates,Hampton Lady Pirates,Hampton
-313320071,2011-11-28,2,71,home,FALSE,Bradley,67,Braves,Bradley Braves,Bradley
-313320071,2011-11-28,2,270,away,FALSE,Milwaukee,71,Panthers,Milwaukee Panthers,Milwaukee
-313322287,2011-11-28,2,2287,home,FALSE,Illinois State,77,Redbirds,Illinois State Redbirds,Illinois St
-313322287,2011-11-28,2,82,away,FALSE,UIC,56,Flames,UIC Flames,UIC
-313320301,2011-11-28,3,301,home,FALSE,San Diego,75,Toreros,San Diego Toreros,San Diego
-313320301,2011-11-28,3,2142,away,FALSE,Colgate,73,Raiders,Colgate Raiders,Colgate
-313322541,2011-11-28,2,2541,home,FALSE,Santa Clara,81,Broncos,Santa Clara Broncos,Santa Clara
-313322541,2011-11-28,2,302,away,FALSE,UC Davis,78,Aggies,UC Davis Aggies,UC Davis
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313320012,2012,regular-season,2011-11-28,2,12,home,FALSE,Arizona,69,Wildcats,Arizona Wildcats,Arizona
+313320012,2012,regular-season,2011-11-28,2,249,away,FALSE,North Texas,62,Mean Green,North Texas Mean Green,North Texas
+313322450,2012,regular-season,2011-11-28,3,2450,home,FALSE,Norfolk State,76,Spartans,Norfolk State Spartans,Norfolk St
+313322450,2012,regular-season,2011-11-28,3,2729,away,FALSE,William & Mary,79,Tribe,William & Mary Tribe,William & Mary
+313320233,2012,regular-season,2011-11-28,2,233,home,FALSE,South Dakota,94,Coyotes,South Dakota Coyotes,South Dakota
+313320233,2012,regular-season,2011-11-28,2,619,away,FALSE,Tabor,16,Tabor,Tabor,Tabor
+313322454,2012,regular-season,2011-11-28,2,2454,home,FALSE,North Florida,67,Ospreys,North Florida Ospreys,North Florida
+313322454,2012,regular-season,2011-11-28,2,324,away,FALSE,Coastal Carolina,37,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+313322426,2012,regular-season,2011-11-28,2,2426,home,FALSE,Navy,71,Midshipmen,Navy Midshipmen,Navy
+313322426,2012,regular-season,2011-11-28,2,2005,away,FALSE,Air Force,59,Falcons,Air Force Falcons,Air Force
+313322154,2012,regular-season,2011-11-28,2,2154,home,FALSE,Coppin State,94,Eagles,Coppin State Eagles,Coppin St
+313322154,2012,regular-season,2011-11-28,2,2129,away,FALSE,Cheyney (PA),39,Wolves,Cheyney (PA) Wolves,Cheyney (PA)
+313320257,2012,regular-season,2011-11-28,2,257,home,FALSE,Richmond,66,Spiders,Richmond Spiders,Richmond
+313320257,2012,regular-season,2011-11-28,2,2193,away,FALSE,East Tennessee State,39,Bucs,East Tennessee State Bucs,ETSU
+313320231,2012,regular-season,2011-11-28,2,231,home,FALSE,Furman,67,Paladins,Furman Paladins,Furman
+313320231,2012,regular-season,2011-11-28,2,228,away,FALSE,Clemson,68,Tigers,Clemson Tigers,Clemson
+313320058,2012,regular-season,2011-11-28,2,58,home,FALSE,South Florida,77,Bulls,South Florida Bulls,South Florida
+313320058,2012,regular-season,2011-11-28,2,56,away,FALSE,Stetson,62,Hatters,Stetson Hatters,Stetson
+313320526,2012,regular-season,2011-11-28,2,526,home,FALSE,Florida Gulf Coast,106,Eagles,Florida Gulf Coast Eagles,FGCU
+313320526,2012,regular-season,2011-11-28,2,2691,away,FALSE,Webber International,27,Warriors,Webber International Warriors,Webber Int
+313322130,2012,regular-season,2011-11-28,2,2130,home,FALSE,Chicago State,39,Cougars,Chicago State Cougars,Chicago St
+313322130,2012,regular-season,2011-11-28,2,2261,away,FALSE,Hampton,66,Lady Pirates,Hampton Lady Pirates,Hampton
+313320071,2012,regular-season,2011-11-28,2,71,home,FALSE,Bradley,67,Braves,Bradley Braves,Bradley
+313320071,2012,regular-season,2011-11-28,2,270,away,FALSE,Milwaukee,71,Panthers,Milwaukee Panthers,Milwaukee
+313322287,2012,regular-season,2011-11-28,2,2287,home,FALSE,Illinois State,77,Redbirds,Illinois State Redbirds,Illinois St
+313322287,2012,regular-season,2011-11-28,2,82,away,FALSE,UIC,56,Flames,UIC Flames,UIC
+313320301,2012,regular-season,2011-11-28,3,301,home,FALSE,San Diego,75,Toreros,San Diego Toreros,San Diego
+313320301,2012,regular-season,2011-11-28,3,2142,away,FALSE,Colgate,73,Raiders,Colgate Raiders,Colgate
+313322541,2012,regular-season,2011-11-28,2,2541,home,FALSE,Santa Clara,81,Broncos,Santa Clara Broncos,Santa Clara
+313322541,2012,regular-season,2011-11-28,2,302,away,FALSE,UC Davis,78,Aggies,UC Davis Aggies,UC Davis

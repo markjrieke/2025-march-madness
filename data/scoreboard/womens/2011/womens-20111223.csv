@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313570275,2011-12-23,2,275,home,FALSE,Wisconsin,49,Badgers,Wisconsin Badgers,Wisconsin
-313570275,2011-12-23,2,2739,away,FALSE,Green Bay,65,Phoenix,Green Bay Phoenix,Green Bay
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313570275,2012,regular-season,2011-12-23,2,275,home,FALSE,Wisconsin,49,Badgers,Wisconsin Badgers,Wisconsin
+313570275,2012,regular-season,2011-12-23,2,2739,away,FALSE,Green Bay,65,Phoenix,Green Bay Phoenix,Green Bay

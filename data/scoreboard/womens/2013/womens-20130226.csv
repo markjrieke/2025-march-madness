@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330570087,2013-02-26,2,87,home,FALSE,Notre Dame,79,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-330570087,2013-02-26,2,183,away,FALSE,Syracuse,68,Orange,Syracuse Orange,Syracuse
-330570041,2013-02-26,2,41,home,FALSE,UConn,76,Huskies,UConn Huskies,UConn
-330570041,2013-02-26,2,221,away,FALSE,Pittsburgh,36,Panthers,Pittsburgh Panthers,Pitt
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330570087,2013,regular-season,2013-02-26,2,87,home,FALSE,Notre Dame,79,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+330570087,2013,regular-season,2013-02-26,2,183,away,FALSE,Syracuse,68,Orange,Syracuse Orange,Syracuse
+330570041,2013,regular-season,2013-02-26,2,41,home,FALSE,UConn,76,Huskies,UConn Huskies,UConn
+330570041,2013,regular-season,2013-02-26,2,221,away,FALSE,Pittsburgh,36,Panthers,Pittsburgh Panthers,Pitt

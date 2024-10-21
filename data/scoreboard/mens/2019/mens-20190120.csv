@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401082628,2019-01-20,2,103,home,FALSE,Boston College,87,Eagles,Boston College Eagles,Boston College
-401082628,2019-01-20,2,52,away,FALSE,Florida State,82,Seminoles,Florida State Seminoles,Florida St
-401083258,2019-01-20,2,269,home,FALSE,Marquette,79,Golden Eagles,Marquette Golden Eagles,Marquette
-401083258,2019-01-20,2,2507,away,FALSE,Providence,68,Friars,Providence Friars,Providence
-401082348,2019-01-20,2,2294,home,FALSE,Iowa,95,Hawkeyes,Iowa Hawkeyes,Iowa
-401082348,2019-01-20,2,356,away,FALSE,Illinois,71,Fighting Illini,Illinois Fighting Illini,Illinois
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401082628,2019,regular-season,2019-01-20,2,103,home,FALSE,Boston College,87,Eagles,Boston College Eagles,Boston College
+401082628,2019,regular-season,2019-01-20,2,52,away,FALSE,Florida State,82,Seminoles,Florida State Seminoles,Florida St
+401083258,2019,regular-season,2019-01-20,2,269,home,FALSE,Marquette,79,Golden Eagles,Marquette Golden Eagles,Marquette
+401083258,2019,regular-season,2019-01-20,2,2507,away,FALSE,Providence,68,Friars,Providence Friars,Providence
+401082348,2019,regular-season,2019-01-20,2,2294,home,FALSE,Iowa,95,Hawkeyes,Iowa Hawkeyes,Iowa
+401082348,2019,regular-season,2019-01-20,2,356,away,FALSE,Illinois,71,Fighting Illini,Illinois Fighting Illini,Illinois

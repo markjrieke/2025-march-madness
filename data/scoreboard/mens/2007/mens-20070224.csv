@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270550099,2007-02-24,2,99,home,FALSE,LSU,66,Tigers,LSU Tigers,LSU
-270550099,2007-02-24,2,57,away,FALSE,Florida,56,Gators,Florida Gators,Florida
-270550026,2007-02-24,2,26,home,FALSE,UCLA,75,Bruins,UCLA Bruins,UCLA
-270550026,2007-02-24,2,24,away,FALSE,Stanford,61,Cardinal,Stanford Cardinal,Stanford
-270552305,2007-02-24,2,2305,home,FALSE,Kansas,89,Jayhawks,Kansas Jayhawks,Kansas
-270552305,2007-02-24,2,66,away,FALSE,Iowa State,52,Cyclones,Iowa State Cyclones,Iowa State
-270550245,2007-02-24,2,245,home,FALSE,Texas A&M,97,Aggies,Texas A&M Aggies,Texas A&M
-270550245,2007-02-24,2,239,away,FALSE,Baylor,87,Bears,Baylor Bears,Baylor
-270550204,2007-02-24,2,204,home,FALSE,Oregon State,54,Beavers,Oregon State Beavers,Oregon St
-270550204,2007-02-24,2,265,away,FALSE,Washington State,58,Cougars,Washington State Cougars,Washington St
-270550046,2007-02-24,2,46,home,FALSE,Georgetown,61,Hoyas,Georgetown Hoyas,Georgetown
-270550046,2007-02-24,2,221,away,FALSE,Pittsburgh,53,Panthers,Pittsburgh Panthers,Pitt
-270550068,2007-02-24,2,68,home,FALSE,Boise State,81,Broncos,Boise State Broncos,Boise St
-270550068,2007-02-24,2,2440,away,FALSE,Nevada,95,Wolf Pack,Nevada Wolf Pack,Nevada
-270550079,2007-02-24,2,79,home,FALSE,Southern Illinois,76,Salukis,Southern Illinois Salukis,S Illinois
-270550079,2007-02-24,2,339,away,FALSE,Evansville,69,Purple Aces,Evansville Purple Aces,Evansville
-270552628,2007-02-24,2,2628,home,FALSE,TCU,71,Horned Frogs,TCU Horned Frogs,TCU
-270552628,2007-02-24,2,2005,away,FALSE,Air Force,66,Falcons,Air Force Falcons,Air Force
-270552086,2007-02-24,2,2086,home,FALSE,Butler,56,Bulldogs,Butler Bulldogs,Butler
-270552086,2007-02-24,2,2174,away,FALSE,Detroit Mercy,36,Titans,Detroit Mercy Titans,Detroit Mercy
-270550087,2007-02-24,2,87,home,FALSE,Notre Dame,85,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-270550087,2007-02-24,2,269,away,FALSE,Marquette,73,Golden Eagles,Marquette Golden Eagles,Marquette
-270550201,2007-02-24,2,201,home,FALSE,Oklahoma,58,Sooners,Oklahoma Sooners,Oklahoma
-270550201,2007-02-24,2,251,away,FALSE,Texas,68,Longhorns,Texas Longhorns,Texas
-270550021,2007-02-24,2,21,home,FALSE,San Diego State,86,Aztecs,San Diego State Aztecs,San Diego St
-270550021,2007-02-24,2,252,away,FALSE,BYU,74,Cougars,BYU Cougars,BYU
-270552483,2007-02-24,2,2483,home,FALSE,Oregon,93,Ducks,Oregon Ducks,Oregon
-270552483,2007-02-24,2,264,away,FALSE,Washington,85,Huskies,Washington Huskies,Washington
-270550258,2007-02-24,2,258,home,FALSE,Virginia,75,Cavaliers,Virginia Cavaliers,Virginia
-270550258,2007-02-24,2,59,away,FALSE,Georgia Tech,69,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-270550333,2007-02-24,2,333,home,FALSE,Alabama,77,Crimson Tide,Alabama Crimson Tide,Alabama
-270550333,2007-02-24,2,2,away,FALSE,Auburn,86,Tigers,Auburn Tigers,Auburn
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270550099,2007,regular-season,2007-02-24,2,99,home,FALSE,LSU,66,Tigers,LSU Tigers,LSU
+270550099,2007,regular-season,2007-02-24,2,57,away,FALSE,Florida,56,Gators,Florida Gators,Florida
+270550026,2007,regular-season,2007-02-24,2,26,home,FALSE,UCLA,75,Bruins,UCLA Bruins,UCLA
+270550026,2007,regular-season,2007-02-24,2,24,away,FALSE,Stanford,61,Cardinal,Stanford Cardinal,Stanford
+270552305,2007,regular-season,2007-02-24,2,2305,home,FALSE,Kansas,89,Jayhawks,Kansas Jayhawks,Kansas
+270552305,2007,regular-season,2007-02-24,2,66,away,FALSE,Iowa State,52,Cyclones,Iowa State Cyclones,Iowa State
+270550245,2007,regular-season,2007-02-24,2,245,home,FALSE,Texas A&M,97,Aggies,Texas A&M Aggies,Texas A&M
+270550245,2007,regular-season,2007-02-24,2,239,away,FALSE,Baylor,87,Bears,Baylor Bears,Baylor
+270550204,2007,regular-season,2007-02-24,2,204,home,FALSE,Oregon State,54,Beavers,Oregon State Beavers,Oregon St
+270550204,2007,regular-season,2007-02-24,2,265,away,FALSE,Washington State,58,Cougars,Washington State Cougars,Washington St
+270550046,2007,regular-season,2007-02-24,2,46,home,FALSE,Georgetown,61,Hoyas,Georgetown Hoyas,Georgetown
+270550046,2007,regular-season,2007-02-24,2,221,away,FALSE,Pittsburgh,53,Panthers,Pittsburgh Panthers,Pitt
+270550068,2007,regular-season,2007-02-24,2,68,home,FALSE,Boise State,81,Broncos,Boise State Broncos,Boise St
+270550068,2007,regular-season,2007-02-24,2,2440,away,FALSE,Nevada,95,Wolf Pack,Nevada Wolf Pack,Nevada
+270550079,2007,regular-season,2007-02-24,2,79,home,FALSE,Southern Illinois,76,Salukis,Southern Illinois Salukis,S Illinois
+270550079,2007,regular-season,2007-02-24,2,339,away,FALSE,Evansville,69,Purple Aces,Evansville Purple Aces,Evansville
+270552628,2007,regular-season,2007-02-24,2,2628,home,FALSE,TCU,71,Horned Frogs,TCU Horned Frogs,TCU
+270552628,2007,regular-season,2007-02-24,2,2005,away,FALSE,Air Force,66,Falcons,Air Force Falcons,Air Force
+270552086,2007,regular-season,2007-02-24,2,2086,home,FALSE,Butler,56,Bulldogs,Butler Bulldogs,Butler
+270552086,2007,regular-season,2007-02-24,2,2174,away,FALSE,Detroit Mercy,36,Titans,Detroit Mercy Titans,Detroit Mercy
+270550087,2007,regular-season,2007-02-24,2,87,home,FALSE,Notre Dame,85,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+270550087,2007,regular-season,2007-02-24,2,269,away,FALSE,Marquette,73,Golden Eagles,Marquette Golden Eagles,Marquette
+270550201,2007,regular-season,2007-02-24,2,201,home,FALSE,Oklahoma,58,Sooners,Oklahoma Sooners,Oklahoma
+270550201,2007,regular-season,2007-02-24,2,251,away,FALSE,Texas,68,Longhorns,Texas Longhorns,Texas
+270550021,2007,regular-season,2007-02-24,2,21,home,FALSE,San Diego State,86,Aztecs,San Diego State Aztecs,San Diego St
+270550021,2007,regular-season,2007-02-24,2,252,away,FALSE,BYU,74,Cougars,BYU Cougars,BYU
+270552483,2007,regular-season,2007-02-24,2,2483,home,FALSE,Oregon,93,Ducks,Oregon Ducks,Oregon
+270552483,2007,regular-season,2007-02-24,2,264,away,FALSE,Washington,85,Huskies,Washington Huskies,Washington
+270550258,2007,regular-season,2007-02-24,2,258,home,FALSE,Virginia,75,Cavaliers,Virginia Cavaliers,Virginia
+270550258,2007,regular-season,2007-02-24,2,59,away,FALSE,Georgia Tech,69,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+270550333,2007,regular-season,2007-02-24,2,333,home,FALSE,Alabama,77,Crimson Tide,Alabama Crimson Tide,Alabama
+270550333,2007,regular-season,2007-02-24,2,2,away,FALSE,Auburn,86,Tigers,Auburn Tigers,Auburn

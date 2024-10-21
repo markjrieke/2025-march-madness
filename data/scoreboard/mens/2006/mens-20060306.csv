@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260652250,2006-03-06,2,2250,home,FALSE,Gonzaga,68,Bulldogs,Gonzaga Bulldogs,Gonzaga
-260652250,2006-03-06,2,2351,away,FALSE,Loyola Marymount,67,Lions,Loyola Marymount Lions,LMU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260652250,2006,regular-season,2006-03-06,2,2250,home,FALSE,Gonzaga,68,Bulldogs,Gonzaga Bulldogs,Gonzaga
+260652250,2006,regular-season,2006-03-06,2,2351,away,FALSE,Loyola Marymount,67,Lions,Loyola Marymount Lions,LMU

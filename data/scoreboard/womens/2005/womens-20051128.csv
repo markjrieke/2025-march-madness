@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253322413,2005-11-28,2,2413,home,FALSE,Morehead State,103,Eagles,Morehead State Eagles,Morehead St
-253322413,2005-11-28,2,3077,away,FALSE,Kentucky Christian,46,Knights,Kentucky Christian Knights,KY Christian
-253322329,2005-11-28,2,2329,home,FALSE,Lehigh,64,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-253322329,2005-11-28,2,2405,away,FALSE,Monmouth,45,Hawks,Monmouth Hawks,Monmouth
-253320107,2005-11-28,2,107,home,FALSE,Holy Cross,65,Crusaders,Holy Cross Crusaders,Holy Cross
-253320107,2005-11-28,2,2612,away,FALSE,Saint Peter's,56,Peacocks,Saint Peter's Peacocks,Saint Peter's
-253322010,2005-11-28,2,2010,home,FALSE,Alabama A&M,76,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
-253322010,2005-11-28,2,2542,away,FALSE,Savannah State,49,Tigers,Savannah State Tigers,Savannah St
-253320082,2005-11-28,2,82,home,FALSE,UIC,86,Flames,UIC Flames,UIC
-253320082,2005-11-28,2,2197,away,FALSE,Eastern Illinois,77,Panthers,Eastern Illinois Panthers,E Illinois
-253320005,2005-11-28,2,5,home,FALSE,UAB,73,Blazers,UAB Blazers,UAB
-253320005,2005-11-28,2,2296,away,FALSE,Jackson State,62,Lady Tigers,Jackson State Lady Tigers,Jackson St
-253322287,2005-11-28,2,2287,home,FALSE,Illinois State,57,Redbirds,Illinois State Redbirds,Illinois St
-253322287,2005-11-28,2,6,away,FALSE,South Alabama,50,Jaguars,South Alabama Jaguars,South Alabama
-253322751,2005-11-28,2,2751,home,FALSE,Wyoming,55,Cowgirls,Wyoming Cowgirls,Wyoming
-253322751,2005-11-28,2,2306,away,FALSE,Kansas State,65,Wildcats,Kansas State Wildcats,Kansas St
-253322692,2005-11-28,2,2692,home,FALSE,Weber State,72,Wildcats,Weber State Wildcats,Weber St
-253322692,2005-11-28,2,2540,away,FALSE,UC Santa Barbara,63,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-253322541,2005-11-28,2,2541,home,FALSE,Santa Clara,80,Broncos,Santa Clara Broncos,Santa Clara
-253322541,2005-11-28,2,2116,away,FALSE,UCF,63,Knights,UCF Knights,UCF
-253322483,2005-11-28,2,2483,home,FALSE,Oregon,70,Ducks,Oregon Ducks,Oregon
-253322483,2005-11-28,2,2181,away,FALSE,Drake,40,Bulldogs,Drake Bulldogs,Drake
-253320279,2005-11-28,2,279,home,FALSE,Pacific,64,Tigers,Pacific Tigers,Pacific
-253320279,2005-11-28,2,253,away,FALSE,Southern Utah,65,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253322413,2006,regular-season,2005-11-28,2,2413,home,FALSE,Morehead State,103,Eagles,Morehead State Eagles,Morehead St
+253322413,2006,regular-season,2005-11-28,2,3077,away,FALSE,Kentucky Christian,46,Knights,Kentucky Christian Knights,KY Christian
+253322329,2006,regular-season,2005-11-28,2,2329,home,FALSE,Lehigh,64,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+253322329,2006,regular-season,2005-11-28,2,2405,away,FALSE,Monmouth,45,Hawks,Monmouth Hawks,Monmouth
+253320107,2006,regular-season,2005-11-28,2,107,home,FALSE,Holy Cross,65,Crusaders,Holy Cross Crusaders,Holy Cross
+253320107,2006,regular-season,2005-11-28,2,2612,away,FALSE,Saint Peter's,56,Peacocks,Saint Peter's Peacocks,Saint Peter's
+253322010,2006,regular-season,2005-11-28,2,2010,home,FALSE,Alabama A&M,76,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+253322010,2006,regular-season,2005-11-28,2,2542,away,FALSE,Savannah State,49,Tigers,Savannah State Tigers,Savannah St
+253320082,2006,regular-season,2005-11-28,2,82,home,FALSE,UIC,86,Flames,UIC Flames,UIC
+253320082,2006,regular-season,2005-11-28,2,2197,away,FALSE,Eastern Illinois,77,Panthers,Eastern Illinois Panthers,E Illinois
+253320005,2006,regular-season,2005-11-28,2,5,home,FALSE,UAB,73,Blazers,UAB Blazers,UAB
+253320005,2006,regular-season,2005-11-28,2,2296,away,FALSE,Jackson State,62,Lady Tigers,Jackson State Lady Tigers,Jackson St
+253322287,2006,regular-season,2005-11-28,2,2287,home,FALSE,Illinois State,57,Redbirds,Illinois State Redbirds,Illinois St
+253322287,2006,regular-season,2005-11-28,2,6,away,FALSE,South Alabama,50,Jaguars,South Alabama Jaguars,South Alabama
+253322751,2006,regular-season,2005-11-28,2,2751,home,FALSE,Wyoming,55,Cowgirls,Wyoming Cowgirls,Wyoming
+253322751,2006,regular-season,2005-11-28,2,2306,away,FALSE,Kansas State,65,Wildcats,Kansas State Wildcats,Kansas St
+253322692,2006,regular-season,2005-11-28,2,2692,home,FALSE,Weber State,72,Wildcats,Weber State Wildcats,Weber St
+253322692,2006,regular-season,2005-11-28,2,2540,away,FALSE,UC Santa Barbara,63,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+253322541,2006,regular-season,2005-11-28,2,2541,home,FALSE,Santa Clara,80,Broncos,Santa Clara Broncos,Santa Clara
+253322541,2006,regular-season,2005-11-28,2,2116,away,FALSE,UCF,63,Knights,UCF Knights,UCF
+253322483,2006,regular-season,2005-11-28,2,2483,home,FALSE,Oregon,70,Ducks,Oregon Ducks,Oregon
+253322483,2006,regular-season,2005-11-28,2,2181,away,FALSE,Drake,40,Bulldogs,Drake Bulldogs,Drake
+253320279,2006,regular-season,2005-11-28,2,279,home,FALSE,Pacific,64,Tigers,Pacific Tigers,Pacific
+253320279,2006,regular-season,2005-11-28,2,253,away,FALSE,Southern Utah,65,Thunderbirds,Southern Utah Thunderbirds,Southern Utah

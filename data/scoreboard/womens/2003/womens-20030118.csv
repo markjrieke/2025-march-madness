@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230180041,2003-01-18,2,41,home,FALSE,UConn,72,Huskies,UConn Huskies,UConn
-230180041,2003-01-18,2,46,away,FALSE,Georgetown,49,Hoyas,Georgetown Hoyas,Georgetown
-230180024,2003-01-18,2,24,home,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
-230180024,2003-01-18,2,264,away,FALSE,Washington,63,Huskies,Washington Huskies,Washington
-230182641,2003-01-18,2,2641,home,FALSE,Texas Tech,95,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-230182641,2003-01-18,2,197,away,FALSE,Oklahoma State,45,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-230180278,2003-01-18,2,278,home,FALSE,Fresno State,53,Bulldogs,Fresno State Bulldogs,Fresno St
-230180278,2003-01-18,2,2348,away,FALSE,Louisiana Tech,63,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-230180270,2003-01-18,2,270,home,FALSE,Milwaukee,60,Panthers,Milwaukee Panthers,Milwaukee
-230180270,2003-01-18,2,2739,away,FALSE,Green Bay,61,Phoenix,Green Bay Phoenix,Green Bay
-230180279,2003-01-18,2,279,home,FALSE,Pacific,74,Tigers,Pacific Tigers,Pacific
-230180279,2003-01-18,2,2540,away,FALSE,UC Santa Barbara,65,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-230180222,2003-01-18,2,222,home,FALSE,Villanova,58,Wildcats,Villanova Wildcats,Villanova
-230180222,2003-01-18,2,2550,away,FALSE,Seton Hall,52,Pirates,Seton Hall Pirates,Seton Hall
-230180251,2003-01-18,2,251,home,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas
-230180251,2003-01-18,2,239,away,FALSE,Baylor,50,Bears,Baylor Bears,Baylor
-230180087,2003-01-18,2,87,home,FALSE,Notre Dame,61,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-230180087,2003-01-18,2,164,away,FALSE,Rutgers,64,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-230180012,2003-01-18,2,12,home,FALSE,Arizona,80,Wildcats,Arizona Wildcats,Arizona
-230180012,2003-01-18,2,26,away,FALSE,UCLA,61,Bruins,UCLA Bruins,UCLA
-230180201,2003-01-18,2,201,home,FALSE,Oklahoma,77,Sooners,Oklahoma Sooners,Oklahoma
-230180201,2003-01-18,2,245,away,FALSE,Texas A&M,39,Aggies,Texas A&M Aggies,Texas A&M
-230180103,2003-01-18,2,103,home,FALSE,Boston College,71,Eagles,Boston College Eagles,Boston College
-230180103,2003-01-18,2,183,away,FALSE,Syracuse,76,Orange,Syracuse Orange,Syracuse
-230182305,2003-01-18,2,2305,home,FALSE,Kansas,50,Jayhawks,Kansas Jayhawks,Kansas
-230182305,2003-01-18,2,38,away,FALSE,Colorado,71,Buffaloes,Colorado Buffaloes,Colorado
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230180041,2003,regular-season,2003-01-18,2,41,home,FALSE,UConn,72,Huskies,UConn Huskies,UConn
+230180041,2003,regular-season,2003-01-18,2,46,away,FALSE,Georgetown,49,Hoyas,Georgetown Hoyas,Georgetown
+230180024,2003,regular-season,2003-01-18,2,24,home,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
+230180024,2003,regular-season,2003-01-18,2,264,away,FALSE,Washington,63,Huskies,Washington Huskies,Washington
+230182641,2003,regular-season,2003-01-18,2,2641,home,FALSE,Texas Tech,95,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+230182641,2003,regular-season,2003-01-18,2,197,away,FALSE,Oklahoma State,45,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+230180278,2003,regular-season,2003-01-18,2,278,home,FALSE,Fresno State,53,Bulldogs,Fresno State Bulldogs,Fresno St
+230180278,2003,regular-season,2003-01-18,2,2348,away,FALSE,Louisiana Tech,63,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+230180270,2003,regular-season,2003-01-18,2,270,home,FALSE,Milwaukee,60,Panthers,Milwaukee Panthers,Milwaukee
+230180270,2003,regular-season,2003-01-18,2,2739,away,FALSE,Green Bay,61,Phoenix,Green Bay Phoenix,Green Bay
+230180279,2003,regular-season,2003-01-18,2,279,home,FALSE,Pacific,74,Tigers,Pacific Tigers,Pacific
+230180279,2003,regular-season,2003-01-18,2,2540,away,FALSE,UC Santa Barbara,65,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+230180222,2003,regular-season,2003-01-18,2,222,home,FALSE,Villanova,58,Wildcats,Villanova Wildcats,Villanova
+230180222,2003,regular-season,2003-01-18,2,2550,away,FALSE,Seton Hall,52,Pirates,Seton Hall Pirates,Seton Hall
+230180251,2003,regular-season,2003-01-18,2,251,home,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas
+230180251,2003,regular-season,2003-01-18,2,239,away,FALSE,Baylor,50,Bears,Baylor Bears,Baylor
+230180087,2003,regular-season,2003-01-18,2,87,home,FALSE,Notre Dame,61,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+230180087,2003,regular-season,2003-01-18,2,164,away,FALSE,Rutgers,64,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+230180012,2003,regular-season,2003-01-18,2,12,home,FALSE,Arizona,80,Wildcats,Arizona Wildcats,Arizona
+230180012,2003,regular-season,2003-01-18,2,26,away,FALSE,UCLA,61,Bruins,UCLA Bruins,UCLA
+230180201,2003,regular-season,2003-01-18,2,201,home,FALSE,Oklahoma,77,Sooners,Oklahoma Sooners,Oklahoma
+230180201,2003,regular-season,2003-01-18,2,245,away,FALSE,Texas A&M,39,Aggies,Texas A&M Aggies,Texas A&M
+230180103,2003,regular-season,2003-01-18,2,103,home,FALSE,Boston College,71,Eagles,Boston College Eagles,Boston College
+230180103,2003,regular-season,2003-01-18,2,183,away,FALSE,Syracuse,76,Orange,Syracuse Orange,Syracuse
+230182305,2003,regular-season,2003-01-18,2,2305,home,FALSE,Kansas,50,Jayhawks,Kansas Jayhawks,Kansas
+230182305,2003,regular-season,2003-01-18,2,38,away,FALSE,Colorado,71,Buffaloes,Colorado Buffaloes,Colorado

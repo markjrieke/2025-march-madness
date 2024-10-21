@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240440305,2004-02-13,2,305,home,FALSE,DePaul,73,Blue Demons,DePaul Blue Demons,DePaul
-240440305,2004-02-13,2,139,away,FALSE,Saint Louis,65,Billikens,Saint Louis Billikens,Saint Louis
-240440151,2004-02-13,6,151,home,FALSE,East Carolina,119,Pirates,East Carolina Pirates,East Carolina
-240440151,2004-02-13,6,2628,away,FALSE,TCU,125,Horned Frogs,TCU Horned Frogs,TCU
-240442181,2004-02-13,2,2181,home,FALSE,Drake,73,Bulldogs,Drake Bulldogs,Drake
-240442181,2004-02-13,2,2623,away,FALSE,Missouri State,67,Lady Bears,Missouri State Lady Bears,Missouri St
-240442429,2004-02-13,2,2429,home,FALSE,Charlotte,58,49ers,Charlotte 49ers,Charlotte
-240442429,2004-02-13,2,248,away,FALSE,Houston,62,Cougars,Houston Cougars,Houston
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240440305,2004,regular-season,2004-02-13,2,305,home,FALSE,DePaul,73,Blue Demons,DePaul Blue Demons,DePaul
+240440305,2004,regular-season,2004-02-13,2,139,away,FALSE,Saint Louis,65,Billikens,Saint Louis Billikens,Saint Louis
+240440151,2004,regular-season,2004-02-13,6,151,home,FALSE,East Carolina,119,Pirates,East Carolina Pirates,East Carolina
+240440151,2004,regular-season,2004-02-13,6,2628,away,FALSE,TCU,125,Horned Frogs,TCU Horned Frogs,TCU
+240442181,2004,regular-season,2004-02-13,2,2181,home,FALSE,Drake,73,Bulldogs,Drake Bulldogs,Drake
+240442181,2004,regular-season,2004-02-13,2,2623,away,FALSE,Missouri State,67,Lady Bears,Missouri State Lady Bears,Missouri St
+240442429,2004,regular-season,2004-02-13,2,2429,home,FALSE,Charlotte,58,49ers,Charlotte 49ers,Charlotte
+240442429,2004,regular-season,2004-02-13,2,248,away,FALSE,Houston,62,Cougars,Houston Cougars,Houston

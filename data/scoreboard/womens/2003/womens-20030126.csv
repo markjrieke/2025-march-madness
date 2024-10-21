@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230260150,2003-01-26,2,150,home,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
-230260150,2003-01-26,2,52,away,FALSE,Florida State,63,Seminoles,Florida State Seminoles,Florida St
-230262633,2003-01-26,2,2633,home,FALSE,Tennessee,82,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-230262633,2003-01-26,2,344,away,FALSE,Mississippi State,68,Bulldogs,Mississippi State Bulldogs,Mississippi St
-230260030,2003-01-26,2,30,home,FALSE,USC,75,Trojans,USC Trojans,USC
-230260030,2003-01-26,2,24,away,FALSE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
-230260099,2003-01-26,2,99,home,FALSE,LSU,70,Tigers,LSU Tigers,LSU
-230260099,2003-01-26,2,238,away,FALSE,Vanderbilt,59,Commodores,Vanderbilt Commodores,Vanderbilt
-230260038,2003-01-26,2,38,home,FALSE,Colorado,58,Buffaloes,Colorado Buffaloes,Colorado
-230260038,2003-01-26,2,2641,away,FALSE,Texas Tech,80,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-230260002,2003-01-26,2,2,home,FALSE,Auburn,64,Tigers,Auburn Tigers,Auburn
-230260002,2003-01-26,2,8,away,FALSE,Arkansas,36,Razorbacks,Arkansas Razorbacks,Arkansas
-230260356,2003-01-26,2,356,home,FALSE,Illinois,94,Fighting Illini,Illinois Fighting Illini,Illinois
-230260356,2003-01-26,2,135,away,FALSE,Minnesota,80,Golden Gophers,Minnesota Golden Gophers,Minnesota
-230260077,2003-01-26,2,77,home,FALSE,Northwestern,60,Wildcats,Northwestern Wildcats,Northwestern
-230260077,2003-01-26,2,2509,away,FALSE,Purdue,76,Boilermakers,Purdue Boilermakers,Purdue
-230260130,2003-01-26,2,130,home,FALSE,Michigan,70,Wolverines,Michigan Wolverines,Michigan
-230260130,2003-01-26,2,213,away,FALSE,Penn State,72,Lady Lions,Penn State Lady Lions,Penn State
-230260275,2003-01-26,2,275,home,FALSE,Wisconsin,55,Badgers,Wisconsin Badgers,Wisconsin
-230260275,2003-01-26,2,12,away,FALSE,Arizona,62,Wildcats,Arizona Wildcats,Arizona
-230260239,2003-01-26,2,239,home,FALSE,Baylor,64,Bears,Baylor Bears,Baylor
-230260239,2003-01-26,2,201,away,FALSE,Oklahoma,65,Sooners,Oklahoma Sooners,Oklahoma
-230260061,2003-01-26,2,61,home,FALSE,Georgia,71,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-230260061,2003-01-26,2,96,away,FALSE,Kentucky,59,Wildcats,Kentucky Wildcats,Kentucky
-230260235,2003-01-26,2,235,home,FALSE,Memphis,64,Tigers,Memphis Tigers,Memphis
-230260235,2003-01-26,2,305,away,FALSE,DePaul,58,Blue Demons,DePaul Blue Demons,DePaul
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230260150,2003,regular-season,2003-01-26,2,150,home,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
+230260150,2003,regular-season,2003-01-26,2,52,away,FALSE,Florida State,63,Seminoles,Florida State Seminoles,Florida St
+230262633,2003,regular-season,2003-01-26,2,2633,home,FALSE,Tennessee,82,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+230262633,2003,regular-season,2003-01-26,2,344,away,FALSE,Mississippi State,68,Bulldogs,Mississippi State Bulldogs,Mississippi St
+230260030,2003,regular-season,2003-01-26,2,30,home,FALSE,USC,75,Trojans,USC Trojans,USC
+230260030,2003,regular-season,2003-01-26,2,24,away,FALSE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
+230260099,2003,regular-season,2003-01-26,2,99,home,FALSE,LSU,70,Tigers,LSU Tigers,LSU
+230260099,2003,regular-season,2003-01-26,2,238,away,FALSE,Vanderbilt,59,Commodores,Vanderbilt Commodores,Vanderbilt
+230260038,2003,regular-season,2003-01-26,2,38,home,FALSE,Colorado,58,Buffaloes,Colorado Buffaloes,Colorado
+230260038,2003,regular-season,2003-01-26,2,2641,away,FALSE,Texas Tech,80,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+230260002,2003,regular-season,2003-01-26,2,2,home,FALSE,Auburn,64,Tigers,Auburn Tigers,Auburn
+230260002,2003,regular-season,2003-01-26,2,8,away,FALSE,Arkansas,36,Razorbacks,Arkansas Razorbacks,Arkansas
+230260356,2003,regular-season,2003-01-26,2,356,home,FALSE,Illinois,94,Fighting Illini,Illinois Fighting Illini,Illinois
+230260356,2003,regular-season,2003-01-26,2,135,away,FALSE,Minnesota,80,Golden Gophers,Minnesota Golden Gophers,Minnesota
+230260077,2003,regular-season,2003-01-26,2,77,home,FALSE,Northwestern,60,Wildcats,Northwestern Wildcats,Northwestern
+230260077,2003,regular-season,2003-01-26,2,2509,away,FALSE,Purdue,76,Boilermakers,Purdue Boilermakers,Purdue
+230260130,2003,regular-season,2003-01-26,2,130,home,FALSE,Michigan,70,Wolverines,Michigan Wolverines,Michigan
+230260130,2003,regular-season,2003-01-26,2,213,away,FALSE,Penn State,72,Lady Lions,Penn State Lady Lions,Penn State
+230260275,2003,regular-season,2003-01-26,2,275,home,FALSE,Wisconsin,55,Badgers,Wisconsin Badgers,Wisconsin
+230260275,2003,regular-season,2003-01-26,2,12,away,FALSE,Arizona,62,Wildcats,Arizona Wildcats,Arizona
+230260239,2003,regular-season,2003-01-26,2,239,home,FALSE,Baylor,64,Bears,Baylor Bears,Baylor
+230260239,2003,regular-season,2003-01-26,2,201,away,FALSE,Oklahoma,65,Sooners,Oklahoma Sooners,Oklahoma
+230260061,2003,regular-season,2003-01-26,2,61,home,FALSE,Georgia,71,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+230260061,2003,regular-season,2003-01-26,2,96,away,FALSE,Kentucky,59,Wildcats,Kentucky Wildcats,Kentucky
+230260235,2003,regular-season,2003-01-26,2,235,home,FALSE,Memphis,64,Tigers,Memphis Tigers,Memphis
+230260235,2003,regular-season,2003-01-26,2,305,away,FALSE,DePaul,58,Blue Demons,DePaul Blue Demons,DePaul

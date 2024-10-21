@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400592317,2014-11-30,2,251,home,FALSE,Texas,72,Longhorns,Texas Longhorns,Texas
-400592317,2014-11-30,2,2633,away,FALSE,Tennessee,59,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400592982,2014-11-30,2,245,home,FALSE,Texas A&M,63,Aggies,Texas A&M Aggies,Texas A&M
-400592982,2014-11-30,2,150,away,FALSE,Duke,59,Blue Devils,Duke Blue Devils,Duke
-400592983,2014-11-30,2,2674,home,FALSE,Valparaiso,59,Beacons,Valparaiso Beacons,Valparaiso
-400592983,2014-11-30,2,97,away,FALSE,Louisville,86,Cardinals,Louisville Cardinals,Louisville
-400596621,2014-11-30,2,158,home,FALSE,Nebraska,63,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400596621,2014-11-30,2,2458,away,FALSE,Northern Colorado,56,Bears,Northern Colorado Bears,N Colorado
-400594702,2014-11-30,2,127,home,FALSE,Michigan State,85,Spartans,Michigan State Spartans,Michigan St
-400594702,2014-11-30,2,193,away,FALSE,Miami (OH),39,RedHawks,Miami (OH) RedHawks,Miami OH
-400592729,2014-11-30,2,164,home,FALSE,Rutgers,100,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400592729,2014-11-30,2,2166,away,FALSE,Davidson,44,Wildcats,Davidson Wildcats,Davidson
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400592317,2015,regular-season,2014-11-30,2,251,home,FALSE,Texas,72,Longhorns,Texas Longhorns,Texas
+400592317,2015,regular-season,2014-11-30,2,2633,away,FALSE,Tennessee,59,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400592982,2015,regular-season,2014-11-30,2,245,home,FALSE,Texas A&M,63,Aggies,Texas A&M Aggies,Texas A&M
+400592982,2015,regular-season,2014-11-30,2,150,away,FALSE,Duke,59,Blue Devils,Duke Blue Devils,Duke
+400592983,2015,regular-season,2014-11-30,2,2674,home,FALSE,Valparaiso,59,Beacons,Valparaiso Beacons,Valparaiso
+400592983,2015,regular-season,2014-11-30,2,97,away,FALSE,Louisville,86,Cardinals,Louisville Cardinals,Louisville
+400596621,2015,regular-season,2014-11-30,2,158,home,FALSE,Nebraska,63,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400596621,2015,regular-season,2014-11-30,2,2458,away,FALSE,Northern Colorado,56,Bears,Northern Colorado Bears,N Colorado
+400594702,2015,regular-season,2014-11-30,2,127,home,FALSE,Michigan State,85,Spartans,Michigan State Spartans,Michigan St
+400594702,2015,regular-season,2014-11-30,2,193,away,FALSE,Miami (OH),39,RedHawks,Miami (OH) RedHawks,Miami OH
+400592729,2015,regular-season,2014-11-30,2,164,home,FALSE,Rutgers,100,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400592729,2015,regular-season,2014-11-30,2,2166,away,FALSE,Davidson,44,Wildcats,Davidson Wildcats,Davidson

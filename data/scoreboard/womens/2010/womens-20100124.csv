@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300240099,2010-01-24,2,99,home,FALSE,LSU,43,Tigers,LSU Tigers,LSU
-300240099,2010-01-24,2,2633,away,FALSE,Tennessee,55,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-300240087,2010-01-24,2,87,home,FALSE,Notre Dame,74,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-300240087,2010-01-24,2,277,away,FALSE,West Virginia,66,Mountaineers,West Virginia Mountaineers,West Virginia
-300240120,2010-01-24,2,120,home,FALSE,Maryland,57,Terrapins,Maryland Terrapins,Maryland
-300240120,2010-01-24,2,150,away,FALSE,Duke,58,Blue Devils,Duke Blue Devils,Duke
-300240061,2010-01-24,2,61,home,FALSE,Georgia,65,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-300240061,2010-01-24,2,145,away,FALSE,Ole Miss,66,Rebels,Ole Miss Rebels,Ole Miss
-300240038,2010-01-24,2,38,home,FALSE,Colorado,63,Buffaloes,Colorado Buffaloes,Colorado
-300240038,2010-01-24,2,197,away,FALSE,Oklahoma State,74,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-300240052,2010-01-24,2,52,home,FALSE,Florida State,85,Seminoles,Florida State Seminoles,Florida St
-300240052,2010-01-24,2,103,away,FALSE,Boston College,64,Eagles,Boston College Eagles,Boston College
-300240238,2010-01-24,2,238,home,FALSE,Vanderbilt,56,Commodores,Vanderbilt Commodores,Vanderbilt
-300240238,2010-01-24,2,344,away,FALSE,Mississippi State,65,Bulldogs,Mississippi State Bulldogs,Mississippi St
-300240258,2010-01-24,2,258,home,FALSE,Virginia,57,Cavaliers,Virginia Cavaliers,Virginia
-300240258,2010-01-24,2,59,away,FALSE,Georgia Tech,55,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-300240261,2010-01-24,2,261,home,FALSE,Vermont,67,Catamounts,Vermont Catamounts,Vermont
-300240261,2010-01-24,2,2619,away,FALSE,Stony Brook,45,Seawolves,Stony Brook Seawolves,Stony Brook
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300240099,2010,regular-season,2010-01-24,2,99,home,FALSE,LSU,43,Tigers,LSU Tigers,LSU
+300240099,2010,regular-season,2010-01-24,2,2633,away,FALSE,Tennessee,55,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+300240087,2010,regular-season,2010-01-24,2,87,home,FALSE,Notre Dame,74,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+300240087,2010,regular-season,2010-01-24,2,277,away,FALSE,West Virginia,66,Mountaineers,West Virginia Mountaineers,West Virginia
+300240120,2010,regular-season,2010-01-24,2,120,home,FALSE,Maryland,57,Terrapins,Maryland Terrapins,Maryland
+300240120,2010,regular-season,2010-01-24,2,150,away,FALSE,Duke,58,Blue Devils,Duke Blue Devils,Duke
+300240061,2010,regular-season,2010-01-24,2,61,home,FALSE,Georgia,65,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+300240061,2010,regular-season,2010-01-24,2,145,away,FALSE,Ole Miss,66,Rebels,Ole Miss Rebels,Ole Miss
+300240038,2010,regular-season,2010-01-24,2,38,home,FALSE,Colorado,63,Buffaloes,Colorado Buffaloes,Colorado
+300240038,2010,regular-season,2010-01-24,2,197,away,FALSE,Oklahoma State,74,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+300240052,2010,regular-season,2010-01-24,2,52,home,FALSE,Florida State,85,Seminoles,Florida State Seminoles,Florida St
+300240052,2010,regular-season,2010-01-24,2,103,away,FALSE,Boston College,64,Eagles,Boston College Eagles,Boston College
+300240238,2010,regular-season,2010-01-24,2,238,home,FALSE,Vanderbilt,56,Commodores,Vanderbilt Commodores,Vanderbilt
+300240238,2010,regular-season,2010-01-24,2,344,away,FALSE,Mississippi State,65,Bulldogs,Mississippi State Bulldogs,Mississippi St
+300240258,2010,regular-season,2010-01-24,2,258,home,FALSE,Virginia,57,Cavaliers,Virginia Cavaliers,Virginia
+300240258,2010,regular-season,2010-01-24,2,59,away,FALSE,Georgia Tech,55,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+300240261,2010,regular-season,2010-01-24,2,261,home,FALSE,Vermont,67,Catamounts,Vermont Catamounts,Vermont
+300240261,2010,regular-season,2010-01-24,2,2619,away,FALSE,Stony Brook,45,Seawolves,Stony Brook Seawolves,Stony Brook

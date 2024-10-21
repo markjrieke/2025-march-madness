@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401364247,2022-01-06,4,99,home,FALSE,LSU,60,Tigers,LSU Tigers,LSU
-401364247,2022-01-06,4,2579,away,FALSE,South Carolina,66,Gamecocks,South Carolina Gamecocks,South Carolina
-401369515,2022-01-06,4,97,home,FALSE,Louisville,81,Cardinals,Louisville Cardinals,Louisville
-401369515,2022-01-06,4,221,away,FALSE,Pittsburgh,39,Panthers,Pittsburgh Panthers,Pitt
-401369511,2022-01-06,4,152,home,FALSE,NC State,72,Wolfpack,NC State Wolfpack,NC State
-401369511,2022-01-06,4,153,away,FALSE,North Carolina,45,Tar Heels,North Carolina Tar Heels,North Carolina
-401364249,2022-01-06,4,2633,home,FALSE,Tennessee,73,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401364249,2022-01-06,4,245,away,FALSE,Texas A&M,45,Aggies,Texas A&M Aggies,Texas A&M
-401364509,2022-01-06,4,120,home,FALSE,Maryland,106,Terrapins,Maryland Terrapins,Maryland
-401364509,2022-01-06,4,213,away,FALSE,Penn State,78,Lady Lions,Penn State Lady Lions,Penn State
-401364246,2022-01-06,4,96,home,FALSE,Kentucky,84,Wildcats,Kentucky Wildcats,Kentucky
-401364246,2022-01-06,4,61,away,FALSE,Georgia,76,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-401367869,2022-01-06,4,2539,home,FALSE,San Francisco,64,Dons,San Francisco Dons,San Francisco
-401367869,2022-01-06,4,252,away,FALSE,BYU,76,Cougars,BYU Cougars,BYU
-401364508,2022-01-06,4,2294,home,FALSE,Iowa,69,Hawkeyes,Iowa Hawkeyes,Iowa
-401364508,2022-01-06,4,77,away,FALSE,Northwestern,77,Wildcats,Northwestern Wildcats,Northwestern
-401369513,2022-01-06,0,150,home,FALSE,Duke,0,Blue Devils,Duke Blue Devils,Duke
-401369513,2022-01-06,0,59,away,FALSE,Georgia Tech,0,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401364247,2022,regular-season,2022-01-06,4,99,home,FALSE,LSU,60,Tigers,LSU Tigers,LSU
+401364247,2022,regular-season,2022-01-06,4,2579,away,FALSE,South Carolina,66,Gamecocks,South Carolina Gamecocks,South Carolina
+401369515,2022,regular-season,2022-01-06,4,97,home,FALSE,Louisville,81,Cardinals,Louisville Cardinals,Louisville
+401369515,2022,regular-season,2022-01-06,4,221,away,FALSE,Pittsburgh,39,Panthers,Pittsburgh Panthers,Pitt
+401369511,2022,regular-season,2022-01-06,4,152,home,FALSE,NC State,72,Wolfpack,NC State Wolfpack,NC State
+401369511,2022,regular-season,2022-01-06,4,153,away,FALSE,North Carolina,45,Tar Heels,North Carolina Tar Heels,North Carolina
+401364249,2022,regular-season,2022-01-06,4,2633,home,FALSE,Tennessee,73,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401364249,2022,regular-season,2022-01-06,4,245,away,FALSE,Texas A&M,45,Aggies,Texas A&M Aggies,Texas A&M
+401364509,2022,regular-season,2022-01-06,4,120,home,FALSE,Maryland,106,Terrapins,Maryland Terrapins,Maryland
+401364509,2022,regular-season,2022-01-06,4,213,away,FALSE,Penn State,78,Lady Lions,Penn State Lady Lions,Penn State
+401364246,2022,regular-season,2022-01-06,4,96,home,FALSE,Kentucky,84,Wildcats,Kentucky Wildcats,Kentucky
+401364246,2022,regular-season,2022-01-06,4,61,away,FALSE,Georgia,76,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+401367869,2022,regular-season,2022-01-06,4,2539,home,FALSE,San Francisco,64,Dons,San Francisco Dons,San Francisco
+401367869,2022,regular-season,2022-01-06,4,252,away,FALSE,BYU,76,Cougars,BYU Cougars,BYU
+401364508,2022,regular-season,2022-01-06,4,2294,home,FALSE,Iowa,69,Hawkeyes,Iowa Hawkeyes,Iowa
+401364508,2022,regular-season,2022-01-06,4,77,away,FALSE,Northwestern,77,Wildcats,Northwestern Wildcats,Northwestern
+401369513,2022,regular-season,2022-01-06,0,150,home,FALSE,Duke,0,Blue Devils,Duke Blue Devils,Duke
+401369513,2022,regular-season,2022-01-06,0,59,away,FALSE,Georgia Tech,0,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech

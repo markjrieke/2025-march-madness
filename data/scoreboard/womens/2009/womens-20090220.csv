@@ -1,37 +1,37 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290510315,2009-02-20,2,315,home,FALSE,Niagara,52,Purple Eagles,Niagara Purple Eagles,Niagara
-290510315,2009-02-20,2,314,away,FALSE,Iona,73,Gaels,Iona Gaels,Iona
-290512561,2009-02-20,2,2561,home,FALSE,Siena,57,Saints,Siena Saints,Siena
-290512561,2009-02-20,2,2217,away,FALSE,Fairfield,68,Stags,Fairfield Stags,Fairfield
-290512344,2009-02-20,2,2344,home,FALSE,Longwood,66,Lancers,Longwood Lancers,Longwood
-290512344,2009-02-20,2,2428,away,FALSE,North Carolina Central,71,Eagles,North Carolina Central Eagles,NC Central
-290512099,2009-02-20,2,2099,home,FALSE,Canisius,61,Golden Griffins,Canisius Golden Griffins,Canisius
-290512099,2009-02-20,2,2352,away,FALSE,Loyola Maryland,44,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-290510172,2009-02-20,2,172,home,FALSE,Cornell,80,Big Red,Cornell Big Red,Cornell
-290510172,2009-02-20,2,43,away,FALSE,Yale,62,Bulldogs,Yale Bulldogs,Yale
-290510171,2009-02-20,2,171,home,FALSE,Columbia,88,Lions,Columbia Lions,Columbia
-290510171,2009-02-20,2,225,away,FALSE,Brown,57,Bears,Brown Bears,Brown
-290510159,2009-02-20,2,159,home,FALSE,Dartmouth,55,Big Green,Dartmouth Big Green,Dartmouth
-290510159,2009-02-20,2,219,away,FALSE,Pennsylvania,36,Quakers,Pennsylvania Quakers,Penn
-290510108,2009-02-20,2,108,home,FALSE,Harvard,54,Crimson,Harvard Crimson,Harvard
-290510108,2009-02-20,2,163,away,FALSE,Princeton,50,Tigers,Princeton Tigers,Princeton
-290510248,2009-02-20,2,248,home,FALSE,Houston,75,Cougars,Houston Cougars,Houston
-290510248,2009-02-20,2,2567,away,FALSE,SMU,73,Mustangs,SMU Mustangs,SMU
-290510242,2009-02-20,2,242,home,FALSE,Rice,62,Owls,Rice Owls,Rice
-290510242,2009-02-20,2,202,away,FALSE,Tulsa,56,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-290510235,2009-02-20,2,235,home,FALSE,Memphis,74,Tigers,Memphis Tigers,Memphis
-290510235,2009-02-20,2,151,away,FALSE,East Carolina,68,Pirates,East Carolina Pirates,East Carolina
-290510005,2009-02-20,2,5,home,FALSE,UAB,50,Blazers,UAB Blazers,UAB
-290510005,2009-02-20,2,276,away,FALSE,Marshall,67,Thundering Herd,Marshall Thundering Herd,Marshall
-290510068,2009-02-20,2,68,home,FALSE,Boise State,61,Broncos,Boise State Broncos,Boise St
-290510068,2009-02-20,2,328,away,FALSE,Utah State,65,Aggies,Utah State Aggies,Utah State
-290510299,2009-02-20,2,299,home,FALSE,Long Beach State,48,Beach,Long Beach State Beach,Long Beach St
-290510299,2009-02-20,2,27,away,FALSE,UC Riverside,64,Highlanders,UC Riverside Highlanders,UC Riverside
-290510265,2009-02-20,2,265,home,FALSE,Washington State,57,Cougars,Washington State Cougars,Washington St
-290510265,2009-02-20,2,30,away,FALSE,USC,68,Trojans,USC Trojans,USC
-290510264,2009-02-20,2,264,home,FALSE,Washington,59,Huskies,Washington Huskies,Washington
-290510264,2009-02-20,2,26,away,FALSE,UCLA,49,Bruins,UCLA Bruins,UCLA
-290510023,2009-02-20,2,23,home,FALSE,San José State,69,Spartans,San José State Spartans,San José St
-290510023,2009-02-20,2,2348,away,FALSE,Louisiana Tech,87,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-290510062,2009-02-20,2,62,home,FALSE,Hawai'i,54,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
-290510062,2009-02-20,2,166,away,FALSE,New Mexico State,51,Aggies,New Mexico State Aggies,New Mexico St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290510315,2009,regular-season,2009-02-20,2,315,home,FALSE,Niagara,52,Purple Eagles,Niagara Purple Eagles,Niagara
+290510315,2009,regular-season,2009-02-20,2,314,away,FALSE,Iona,73,Gaels,Iona Gaels,Iona
+290512561,2009,regular-season,2009-02-20,2,2561,home,FALSE,Siena,57,Saints,Siena Saints,Siena
+290512561,2009,regular-season,2009-02-20,2,2217,away,FALSE,Fairfield,68,Stags,Fairfield Stags,Fairfield
+290512344,2009,regular-season,2009-02-20,2,2344,home,FALSE,Longwood,66,Lancers,Longwood Lancers,Longwood
+290512344,2009,regular-season,2009-02-20,2,2428,away,FALSE,North Carolina Central,71,Eagles,North Carolina Central Eagles,NC Central
+290512099,2009,regular-season,2009-02-20,2,2099,home,FALSE,Canisius,61,Golden Griffins,Canisius Golden Griffins,Canisius
+290512099,2009,regular-season,2009-02-20,2,2352,away,FALSE,Loyola Maryland,44,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+290510172,2009,regular-season,2009-02-20,2,172,home,FALSE,Cornell,80,Big Red,Cornell Big Red,Cornell
+290510172,2009,regular-season,2009-02-20,2,43,away,FALSE,Yale,62,Bulldogs,Yale Bulldogs,Yale
+290510171,2009,regular-season,2009-02-20,2,171,home,FALSE,Columbia,88,Lions,Columbia Lions,Columbia
+290510171,2009,regular-season,2009-02-20,2,225,away,FALSE,Brown,57,Bears,Brown Bears,Brown
+290510159,2009,regular-season,2009-02-20,2,159,home,FALSE,Dartmouth,55,Big Green,Dartmouth Big Green,Dartmouth
+290510159,2009,regular-season,2009-02-20,2,219,away,FALSE,Pennsylvania,36,Quakers,Pennsylvania Quakers,Penn
+290510108,2009,regular-season,2009-02-20,2,108,home,FALSE,Harvard,54,Crimson,Harvard Crimson,Harvard
+290510108,2009,regular-season,2009-02-20,2,163,away,FALSE,Princeton,50,Tigers,Princeton Tigers,Princeton
+290510248,2009,regular-season,2009-02-20,2,248,home,FALSE,Houston,75,Cougars,Houston Cougars,Houston
+290510248,2009,regular-season,2009-02-20,2,2567,away,FALSE,SMU,73,Mustangs,SMU Mustangs,SMU
+290510242,2009,regular-season,2009-02-20,2,242,home,FALSE,Rice,62,Owls,Rice Owls,Rice
+290510242,2009,regular-season,2009-02-20,2,202,away,FALSE,Tulsa,56,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+290510235,2009,regular-season,2009-02-20,2,235,home,FALSE,Memphis,74,Tigers,Memphis Tigers,Memphis
+290510235,2009,regular-season,2009-02-20,2,151,away,FALSE,East Carolina,68,Pirates,East Carolina Pirates,East Carolina
+290510005,2009,regular-season,2009-02-20,2,5,home,FALSE,UAB,50,Blazers,UAB Blazers,UAB
+290510005,2009,regular-season,2009-02-20,2,276,away,FALSE,Marshall,67,Thundering Herd,Marshall Thundering Herd,Marshall
+290510068,2009,regular-season,2009-02-20,2,68,home,FALSE,Boise State,61,Broncos,Boise State Broncos,Boise St
+290510068,2009,regular-season,2009-02-20,2,328,away,FALSE,Utah State,65,Aggies,Utah State Aggies,Utah State
+290510299,2009,regular-season,2009-02-20,2,299,home,FALSE,Long Beach State,48,Beach,Long Beach State Beach,Long Beach St
+290510299,2009,regular-season,2009-02-20,2,27,away,FALSE,UC Riverside,64,Highlanders,UC Riverside Highlanders,UC Riverside
+290510265,2009,regular-season,2009-02-20,2,265,home,FALSE,Washington State,57,Cougars,Washington State Cougars,Washington St
+290510265,2009,regular-season,2009-02-20,2,30,away,FALSE,USC,68,Trojans,USC Trojans,USC
+290510264,2009,regular-season,2009-02-20,2,264,home,FALSE,Washington,59,Huskies,Washington Huskies,Washington
+290510264,2009,regular-season,2009-02-20,2,26,away,FALSE,UCLA,49,Bruins,UCLA Bruins,UCLA
+290510023,2009,regular-season,2009-02-20,2,23,home,FALSE,San José State,69,Spartans,San José State Spartans,San José St
+290510023,2009,regular-season,2009-02-20,2,2348,away,FALSE,Louisiana Tech,87,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+290510062,2009,regular-season,2009-02-20,2,62,home,FALSE,Hawai'i,54,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
+290510062,2009,regular-season,2009-02-20,2,166,away,FALSE,New Mexico State,51,Aggies,New Mexico State Aggies,New Mexico St

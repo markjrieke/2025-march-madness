@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400820658,2015-12-21,2,153,home,FALSE,North Carolina,94,Tar Heels,North Carolina Tar Heels,North Carolina
-400820658,2015-12-21,2,2026,away,FALSE,App State,70,Mountaineers,App State Mountaineers,App State
-400827768,2015-12-21,2,113,home,FALSE,Massachusetts,66,Minutemen,Massachusetts Minutemen,UMass
-400827768,2015-12-21,2,2507,away,FALSE,Providence,90,Friars,Providence Friars,Providence
-400813816,2015-12-21,2,277,home,FALSE,West Virginia,84,Mountaineers,West Virginia Mountaineers,West Virginia
-400813816,2015-12-21,2,2198,away,FALSE,Eastern Kentucky,59,Colonels,Eastern Kentucky Colonels,E Kentucky
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400820658,2016,regular-season,2015-12-21,2,153,home,FALSE,North Carolina,94,Tar Heels,North Carolina Tar Heels,North Carolina
+400820658,2016,regular-season,2015-12-21,2,2026,away,FALSE,App State,70,Mountaineers,App State Mountaineers,App State
+400827768,2016,regular-season,2015-12-21,2,113,home,FALSE,Massachusetts,66,Minutemen,Massachusetts Minutemen,UMass
+400827768,2016,regular-season,2015-12-21,2,2507,away,FALSE,Providence,90,Friars,Providence Friars,Providence
+400813816,2016,regular-season,2015-12-21,2,277,home,FALSE,West Virginia,84,Mountaineers,West Virginia Mountaineers,West Virginia
+400813816,2016,regular-season,2015-12-21,2,2198,away,FALSE,Eastern Kentucky,59,Colonels,Eastern Kentucky Colonels,E Kentucky

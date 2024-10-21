@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401166913,2020-02-25,4,120,home,FALSE,Maryland,88,Terrapins,Maryland Terrapins,Maryland
-401166913,2020-02-25,4,2509,away,FALSE,Purdue,45,Boilermakers,Purdue Boilermakers,Purdue
-401166914,2020-02-25,4,194,home,FALSE,Ohio State,55,Buckeyes,Ohio State Buckeyes,Ohio State
-401166914,2020-02-25,4,77,away,FALSE,Northwestern,69,Wildcats,Northwestern Wildcats,Northwestern
-401180097,2020-02-25,4,163,home,FALSE,Princeton,80,Tigers,Princeton Tigers,Princeton
-401180097,2020-02-25,4,219,away,FALSE,Pennsylvania,44,Quakers,Pennsylvania Quakers,Penn
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401166913,2020,regular-season,2020-02-25,4,120,home,FALSE,Maryland,88,Terrapins,Maryland Terrapins,Maryland
+401166913,2020,regular-season,2020-02-25,4,2509,away,FALSE,Purdue,45,Boilermakers,Purdue Boilermakers,Purdue
+401166914,2020,regular-season,2020-02-25,4,194,home,FALSE,Ohio State,55,Buckeyes,Ohio State Buckeyes,Ohio State
+401166914,2020,regular-season,2020-02-25,4,77,away,FALSE,Northwestern,69,Wildcats,Northwestern Wildcats,Northwestern
+401180097,2020,regular-season,2020-02-25,4,163,home,FALSE,Princeton,80,Tigers,Princeton Tigers,Princeton
+401180097,2020,regular-season,2020-02-25,4,219,away,FALSE,Pennsylvania,44,Quakers,Pennsylvania Quakers,Penn

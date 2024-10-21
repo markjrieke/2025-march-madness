@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220632492,2002-03-04,2,2492,home,FALSE,Pepperdine,90,Waves,Pepperdine Waves,Pepperdine
-220632492,2002-03-04,2,2250,away,FALSE,Gonzaga,96,Bulldogs,Gonzaga Bulldogs,Gonzaga
-220630098,2002-03-04,2,98,home,FALSE,Western Kentucky,73,Hilltoppers,Western Kentucky Hilltoppers,Western KY
-220630098,2002-03-04,2,166,away,FALSE,New Mexico State,72,Aggies,New Mexico State Aggies,New Mexico St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220632492,2002,regular-season,2002-03-04,2,2492,home,FALSE,Pepperdine,90,Waves,Pepperdine Waves,Pepperdine
+220632492,2002,regular-season,2002-03-04,2,2250,away,FALSE,Gonzaga,96,Bulldogs,Gonzaga Bulldogs,Gonzaga
+220630098,2002,regular-season,2002-03-04,2,98,home,FALSE,Western Kentucky,73,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+220630098,2002,regular-season,2002-03-04,2,166,away,FALSE,New Mexico State,72,Aggies,New Mexico State Aggies,New Mexico St

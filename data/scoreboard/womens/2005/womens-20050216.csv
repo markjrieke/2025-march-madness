@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250470239,2005-02-16,2,239,home,FALSE,Baylor,74,Bears,Baylor Bears,Baylor
-250470239,2005-02-16,2,142,away,FALSE,Missouri,57,Tigers,Missouri Tigers,Missouri
-250470154,2005-02-16,2,154,home,FALSE,Wake Forest,69,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-250470154,2005-02-16,2,153,away,FALSE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
-250470183,2005-02-16,2,183,home,FALSE,Syracuse,54,Orange,Syracuse Orange,Syracuse
-250470183,2005-02-16,2,164,away,FALSE,Rutgers,64,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-250470046,2005-02-16,2,46,home,FALSE,Georgetown,49,Hoyas,Georgetown Hoyas,Georgetown
-250470046,2005-02-16,2,41,away,FALSE,UConn,67,Huskies,UConn Huskies,UConn
-250472306,2005-02-16,2,2306,home,FALSE,Kansas State,60,Wildcats,Kansas State Wildcats,Kansas St
-250472306,2005-02-16,2,251,away,FALSE,Texas,64,Longhorns,Texas Longhorns,Texas
-250472305,2005-02-16,2,2305,home,FALSE,Kansas,53,Jayhawks,Kansas Jayhawks,Kansas
-250472305,2005-02-16,2,2641,away,FALSE,Texas Tech,66,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-250470066,2005-02-16,2,66,home,FALSE,Iowa State,90,Cyclones,Iowa State Cyclones,Iowa State
-250470066,2005-02-16,2,197,away,FALSE,Oklahoma State,65,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250470239,2005,regular-season,2005-02-16,2,239,home,FALSE,Baylor,74,Bears,Baylor Bears,Baylor
+250470239,2005,regular-season,2005-02-16,2,142,away,FALSE,Missouri,57,Tigers,Missouri Tigers,Missouri
+250470154,2005,regular-season,2005-02-16,2,154,home,FALSE,Wake Forest,69,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+250470154,2005,regular-season,2005-02-16,2,153,away,FALSE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
+250470183,2005,regular-season,2005-02-16,2,183,home,FALSE,Syracuse,54,Orange,Syracuse Orange,Syracuse
+250470183,2005,regular-season,2005-02-16,2,164,away,FALSE,Rutgers,64,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+250470046,2005,regular-season,2005-02-16,2,46,home,FALSE,Georgetown,49,Hoyas,Georgetown Hoyas,Georgetown
+250470046,2005,regular-season,2005-02-16,2,41,away,FALSE,UConn,67,Huskies,UConn Huskies,UConn
+250472306,2005,regular-season,2005-02-16,2,2306,home,FALSE,Kansas State,60,Wildcats,Kansas State Wildcats,Kansas St
+250472306,2005,regular-season,2005-02-16,2,251,away,FALSE,Texas,64,Longhorns,Texas Longhorns,Texas
+250472305,2005,regular-season,2005-02-16,2,2305,home,FALSE,Kansas,53,Jayhawks,Kansas Jayhawks,Kansas
+250472305,2005,regular-season,2005-02-16,2,2641,away,FALSE,Texas Tech,66,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+250470066,2005,regular-season,2005-02-16,2,66,home,FALSE,Iowa State,90,Cyclones,Iowa State Cyclones,Iowa State
+250470066,2005,regular-season,2005-02-16,2,197,away,FALSE,Oklahoma State,65,Cowgirls,Oklahoma State Cowgirls,Oklahoma St

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-233312623,2003-11-27,2,2623,home,FALSE,Missouri State,82,Lady Bears,Missouri State Lady Bears,Missouri St
-233312623,2003-11-27,2,277,away,FALSE,West Virginia,64,Mountaineers,West Virginia Mountaineers,West Virginia
-233310059,2003-11-27,2,59,home,FALSE,Georgia Tech,60,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-233310059,2003-11-27,2,256,away,FALSE,James Madison,53,Dukes,James Madison Dukes,James Madison
-233322031,2003-11-27,2,2870,home,FALSE,Purdue Fort Wayne,70,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-233322031,2003-11-27,2,2031,away,FALSE,Little Rock,64,Trojans,Little Rock Trojans,Little Rock
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+233312623,2004,regular-season,2003-11-27,2,2623,home,FALSE,Missouri State,82,Lady Bears,Missouri State Lady Bears,Missouri St
+233312623,2004,regular-season,2003-11-27,2,277,away,FALSE,West Virginia,64,Mountaineers,West Virginia Mountaineers,West Virginia
+233310059,2004,regular-season,2003-11-27,2,59,home,FALSE,Georgia Tech,60,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+233310059,2004,regular-season,2003-11-27,2,256,away,FALSE,James Madison,53,Dukes,James Madison Dukes,James Madison
+233322031,2004,regular-season,2003-11-27,2,2870,home,FALSE,Purdue Fort Wayne,70,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+233322031,2004,regular-season,2003-11-27,2,2031,away,FALSE,Little Rock,64,Trojans,Little Rock Trojans,Little Rock

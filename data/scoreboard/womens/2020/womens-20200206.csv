@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401171285,2020-02-06,4,259,home,FALSE,Virginia Tech,59,Hokies,Virginia Tech Hokies,Virginia Tech
-401171285,2020-02-06,4,152,away,FALSE,NC State,71,Wolfpack,NC State Wolfpack,NC State
-401166701,2020-02-06,4,2633,home,FALSE,Tennessee,55,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401166701,2020-02-06,4,344,away,FALSE,Mississippi State,72,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401174128,2020-02-06,4,279,home,FALSE,Pacific,65,Tigers,Pacific Tigers,Pacific
-401174128,2020-02-06,4,2250,away,FALSE,Gonzaga,83,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401166876,2020-02-06,4,84,home,FALSE,Indiana,69,Hoosiers,Indiana Hoosiers,Indiana
-401166876,2020-02-06,4,120,away,FALSE,Maryland,79,Terrapins,Maryland Terrapins,Maryland
-401166700,2020-02-06,4,96,home,FALSE,Kentucky,66,Wildcats,Kentucky Wildcats,Kentucky
-401166700,2020-02-06,4,333,away,FALSE,Alabama,62,Crimson Tide,Alabama Crimson Tide,Alabama
-401166877,2020-02-06,4,2294,home,FALSE,Iowa,76,Hawkeyes,Iowa Hawkeyes,Iowa
-401166877,2020-02-06,4,158,away,FALSE,Nebraska,60,Cornhuskers,Nebraska Cornhuskers,Nebraska
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401171285,2020,regular-season,2020-02-06,4,259,home,FALSE,Virginia Tech,59,Hokies,Virginia Tech Hokies,Virginia Tech
+401171285,2020,regular-season,2020-02-06,4,152,away,FALSE,NC State,71,Wolfpack,NC State Wolfpack,NC State
+401166701,2020,regular-season,2020-02-06,4,2633,home,FALSE,Tennessee,55,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401166701,2020,regular-season,2020-02-06,4,344,away,FALSE,Mississippi State,72,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401174128,2020,regular-season,2020-02-06,4,279,home,FALSE,Pacific,65,Tigers,Pacific Tigers,Pacific
+401174128,2020,regular-season,2020-02-06,4,2250,away,FALSE,Gonzaga,83,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401166876,2020,regular-season,2020-02-06,4,84,home,FALSE,Indiana,69,Hoosiers,Indiana Hoosiers,Indiana
+401166876,2020,regular-season,2020-02-06,4,120,away,FALSE,Maryland,79,Terrapins,Maryland Terrapins,Maryland
+401166700,2020,regular-season,2020-02-06,4,96,home,FALSE,Kentucky,66,Wildcats,Kentucky Wildcats,Kentucky
+401166700,2020,regular-season,2020-02-06,4,333,away,FALSE,Alabama,62,Crimson Tide,Alabama Crimson Tide,Alabama
+401166877,2020,regular-season,2020-02-06,4,2294,home,FALSE,Iowa,76,Hawkeyes,Iowa Hawkeyes,Iowa
+401166877,2020,regular-season,2020-02-06,4,158,away,FALSE,Nebraska,60,Cornhuskers,Nebraska Cornhuskers,Nebraska

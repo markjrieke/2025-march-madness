@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280172633,2008-01-17,2,2633,home,FALSE,Tennessee,80,Volunteers,Tennessee Volunteers,Tennessee
-280172633,2008-01-17,2,238,away,FALSE,Vanderbilt,60,Commodores,Vanderbilt Commodores,Vanderbilt
-280170265,2008-01-17,2,265,home,FALSE,Washington State,69,Cougars,Washington State Cougars,Washington St
-280170265,2008-01-17,2,204,away,FALSE,Oregon State,46,Beavers,Oregon State Beavers,Oregon St
-280170135,2008-01-17,2,135,home,FALSE,Minnesota,60,Golden Gophers,Minnesota Golden Gophers,Minnesota
-280170135,2008-01-17,2,84,away,FALSE,Indiana,65,Hoosiers,Indiana Hoosiers,Indiana
-280170325,2008-01-17,2,325,home,FALSE,Cleveland State,56,Vikings,Cleveland State Vikings,Cleveland St
-280170325,2008-01-17,2,2086,away,FALSE,Butler,52,Bulldogs,Butler Bulldogs,Butler
-280170097,2008-01-17,2,97,home,FALSE,Louisville,71,Cardinals,Louisville Cardinals,Louisville
-280170097,2008-01-17,2,269,away,FALSE,Marquette,51,Golden Eagles,Marquette Golden Eagles,Marquette
-280170025,2008-01-17,4,25,home,FALSE,California,90,Golden Bears,California Golden Bears,California
-280170025,2008-01-17,4,9,away,FALSE,Arizona State,99,Sun Devils,Arizona State Sun Devils,Arizona St
-280170139,2008-01-17,2,139,home,FALSE,Saint Louis,68,Billikens,Saint Louis Billikens,Saint Louis
-280170139,2008-01-17,2,227,away,FALSE,Rhode Island,61,Rams,Rhode Island Rams,Rhode Island
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280172633,2008,regular-season,2008-01-17,2,2633,home,FALSE,Tennessee,80,Volunteers,Tennessee Volunteers,Tennessee
+280172633,2008,regular-season,2008-01-17,2,238,away,FALSE,Vanderbilt,60,Commodores,Vanderbilt Commodores,Vanderbilt
+280170265,2008,regular-season,2008-01-17,2,265,home,FALSE,Washington State,69,Cougars,Washington State Cougars,Washington St
+280170265,2008,regular-season,2008-01-17,2,204,away,FALSE,Oregon State,46,Beavers,Oregon State Beavers,Oregon St
+280170135,2008,regular-season,2008-01-17,2,135,home,FALSE,Minnesota,60,Golden Gophers,Minnesota Golden Gophers,Minnesota
+280170135,2008,regular-season,2008-01-17,2,84,away,FALSE,Indiana,65,Hoosiers,Indiana Hoosiers,Indiana
+280170325,2008,regular-season,2008-01-17,2,325,home,FALSE,Cleveland State,56,Vikings,Cleveland State Vikings,Cleveland St
+280170325,2008,regular-season,2008-01-17,2,2086,away,FALSE,Butler,52,Bulldogs,Butler Bulldogs,Butler
+280170097,2008,regular-season,2008-01-17,2,97,home,FALSE,Louisville,71,Cardinals,Louisville Cardinals,Louisville
+280170097,2008,regular-season,2008-01-17,2,269,away,FALSE,Marquette,51,Golden Eagles,Marquette Golden Eagles,Marquette
+280170025,2008,regular-season,2008-01-17,4,25,home,FALSE,California,90,Golden Bears,California Golden Bears,California
+280170025,2008,regular-season,2008-01-17,4,9,away,FALSE,Arizona State,99,Sun Devils,Arizona State Sun Devils,Arizona St
+280170139,2008,regular-season,2008-01-17,2,139,home,FALSE,Saint Louis,68,Billikens,Saint Louis Billikens,Saint Louis
+280170139,2008,regular-season,2008-01-17,2,227,away,FALSE,Rhode Island,61,Rams,Rhode Island Rams,Rhode Island

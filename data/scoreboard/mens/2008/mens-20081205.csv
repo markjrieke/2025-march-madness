@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-283402579,2008-12-05,2,2579,home,FALSE,South Carolina,72,Gamecocks,South Carolina Gamecocks,South Carolina
-283402579,2008-12-05,2,231,away,FALSE,Furman,48,Paladins,Furman Paladins,Furman
-283402619,2008-12-05,2,2619,home,FALSE,Stony Brook,71,Seawolves,Stony Brook Seawolves,Stony Brook
-283402619,2008-12-05,2,2329,away,FALSE,Lehigh,50,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-283402363,2008-12-05,2,2363,home,FALSE,Manhattan,81,Jaspers,Manhattan Jaspers,Manhattan
-283402363,2008-12-05,2,2099,away,FALSE,Canisius,63,Golden Griffins,Canisius Golden Griffins,Canisius
-283400219,2008-12-05,2,219,home,FALSE,Pennsylvania,65,Quakers,Pennsylvania Quakers,Penn
-283400219,2008-12-05,2,2426,away,FALSE,Navy,76,Midshipmen,Navy Midshipmen,Navy
-283402382,2008-12-05,2,2382,home,FALSE,Mercer,61,Bears,Mercer Bears,Mercer
-283402382,2008-12-05,2,2193,away,FALSE,East Tennessee State,81,Buccaneers,East Tennessee State Buccaneers,ETSU
-283402368,2008-12-05,2,2368,home,FALSE,Marist,51,Red Foxes,Marist Red Foxes,Marist
-283402368,2008-12-05,2,314,away,FALSE,Iona,50,Gaels,Iona Gaels,Iona
-283402217,2008-12-05,2,2217,home,FALSE,Fairfield,76,Stags,Fairfield Stags,Fairfield
-283402217,2008-12-05,2,2612,away,FALSE,Saint Peter's,56,Peacocks,Saint Peter's Peacocks,Saint Peter's
-283402567,2008-12-05,2,2567,home,FALSE,SMU,92,Mustangs,SMU Mustangs,SMU
-283402567,2008-12-05,2,3082,away,FALSE,Texas A&M-International,52,Dustdevils,Texas A&M-International Dustdevils,Tx A&M-Int
-283402181,2008-12-05,2,2181,home,FALSE,Drake,59,Bulldogs,Drake Bulldogs,Drake
-283402181,2008-12-05,2,292,away,FALSE,UT Rio Grande Valley,57,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-283402016,2008-12-05,4,2016,home,FALSE,Alcorn State,97,Braves,Alcorn State Braves,Alcorn St
-283402016,2008-12-05,4,2730,away,FALSE,William Carey,92,Crusaders,William Carey Crusaders,Will Carey
-283402294,2008-12-05,2,2294,home,FALSE,Iowa,61,Hawkeyes,Iowa Hawkeyes,Iowa
-283402294,2008-12-05,2,2803,away,FALSE,Bryant,36,Bulldogs,Bryant Bulldogs,Bryant
-283400250,2008-12-05,2,250,home,TRUE,UT Arlington,65,Mavericks,UT Arlington Mavericks,UT Arlington
-283400250,2008-12-05,2,2172,away,TRUE,Denver,67,Pioneers,Denver Pioneers,Denver
-283400245,2008-12-05,2,245,home,FALSE,Texas A&M,67,Aggies,Texas A&M Aggies,Texas A&M
-283400245,2008-12-05,2,12,away,FALSE,Arizona,66,Wildcats,Arizona Wildcats,Arizona
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283402579,2009,regular-season,2008-12-05,2,2579,home,FALSE,South Carolina,72,Gamecocks,South Carolina Gamecocks,South Carolina
+283402579,2009,regular-season,2008-12-05,2,231,away,FALSE,Furman,48,Paladins,Furman Paladins,Furman
+283402619,2009,regular-season,2008-12-05,2,2619,home,FALSE,Stony Brook,71,Seawolves,Stony Brook Seawolves,Stony Brook
+283402619,2009,regular-season,2008-12-05,2,2329,away,FALSE,Lehigh,50,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+283402363,2009,regular-season,2008-12-05,2,2363,home,FALSE,Manhattan,81,Jaspers,Manhattan Jaspers,Manhattan
+283402363,2009,regular-season,2008-12-05,2,2099,away,FALSE,Canisius,63,Golden Griffins,Canisius Golden Griffins,Canisius
+283400219,2009,regular-season,2008-12-05,2,219,home,FALSE,Pennsylvania,65,Quakers,Pennsylvania Quakers,Penn
+283400219,2009,regular-season,2008-12-05,2,2426,away,FALSE,Navy,76,Midshipmen,Navy Midshipmen,Navy
+283402382,2009,regular-season,2008-12-05,2,2382,home,FALSE,Mercer,61,Bears,Mercer Bears,Mercer
+283402382,2009,regular-season,2008-12-05,2,2193,away,FALSE,East Tennessee State,81,Buccaneers,East Tennessee State Buccaneers,ETSU
+283402368,2009,regular-season,2008-12-05,2,2368,home,FALSE,Marist,51,Red Foxes,Marist Red Foxes,Marist
+283402368,2009,regular-season,2008-12-05,2,314,away,FALSE,Iona,50,Gaels,Iona Gaels,Iona
+283402217,2009,regular-season,2008-12-05,2,2217,home,FALSE,Fairfield,76,Stags,Fairfield Stags,Fairfield
+283402217,2009,regular-season,2008-12-05,2,2612,away,FALSE,Saint Peter's,56,Peacocks,Saint Peter's Peacocks,Saint Peter's
+283402567,2009,regular-season,2008-12-05,2,2567,home,FALSE,SMU,92,Mustangs,SMU Mustangs,SMU
+283402567,2009,regular-season,2008-12-05,2,3082,away,FALSE,Texas A&M-International,52,Dustdevils,Texas A&M-International Dustdevils,Tx A&M-Int
+283402181,2009,regular-season,2008-12-05,2,2181,home,FALSE,Drake,59,Bulldogs,Drake Bulldogs,Drake
+283402181,2009,regular-season,2008-12-05,2,292,away,FALSE,UT Rio Grande Valley,57,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+283402016,2009,regular-season,2008-12-05,4,2016,home,FALSE,Alcorn State,97,Braves,Alcorn State Braves,Alcorn St
+283402016,2009,regular-season,2008-12-05,4,2730,away,FALSE,William Carey,92,Crusaders,William Carey Crusaders,Will Carey
+283402294,2009,regular-season,2008-12-05,2,2294,home,FALSE,Iowa,61,Hawkeyes,Iowa Hawkeyes,Iowa
+283402294,2009,regular-season,2008-12-05,2,2803,away,FALSE,Bryant,36,Bulldogs,Bryant Bulldogs,Bryant
+283400250,2009,regular-season,2008-12-05,2,250,home,TRUE,UT Arlington,65,Mavericks,UT Arlington Mavericks,UT Arlington
+283400250,2009,regular-season,2008-12-05,2,2172,away,TRUE,Denver,67,Pioneers,Denver Pioneers,Denver
+283400245,2009,regular-season,2008-12-05,2,245,home,FALSE,Texas A&M,67,Aggies,Texas A&M Aggies,Texas A&M
+283400245,2009,regular-season,2008-12-05,2,12,away,FALSE,Arizona,66,Wildcats,Arizona Wildcats,Arizona

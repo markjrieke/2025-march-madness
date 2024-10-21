@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213620002,2001-12-28,3,2,home,FALSE,Auburn,75,Tigers,Auburn Tigers,Auburn
-213620002,2001-12-28,3,66,away,FALSE,Iowa State,80,Cyclones,Iowa State Cyclones,Iowa State
-213620024,2001-12-28,2,24,home,FALSE,Stanford,81,Cardinal,Stanford Cardinal,Stanford
-213620024,2001-12-28,2,26,away,FALSE,UCLA,50,Bruins,UCLA Bruins,UCLA
-213620275,2001-12-28,2,275,home,FALSE,Wisconsin,71,Badgers,Wisconsin Badgers,Wisconsin
-213620275,2001-12-28,2,2509,away,FALSE,Purdue,59,Boilermakers,Purdue Boilermakers,Purdue
-213622440,2001-12-28,2,2440,home,FALSE,Nevada,58,Wolf Pack,Nevada Wolf Pack,Nevada
-213622440,2001-12-28,2,2348,away,FALSE,Louisiana Tech,102,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-213620130,2001-12-28,2,130,home,FALSE,Michigan,81,Wolverines,Michigan Wolverines,Michigan
-213620130,2001-12-28,2,356,away,FALSE,Illinois,85,Fighting Illini,Illinois Fighting Illini,Illinois
-213622199,2001-12-28,2,2199,home,FALSE,Eastern Michigan,56,Eagles,Eastern Michigan Eagles,E Michigan
-213622199,2001-12-28,2,36,away,FALSE,Colorado State,66,Rams,Colorado State Rams,Colorado St
-213620057,2001-12-28,2,57,home,FALSE,Florida,80,Gators,Florida Gators,Florida
-213620057,2001-12-28,2,2184,away,FALSE,Duquesne,51,Dukes,Duquesne Dukes,Duquesne
-213622579,2001-12-28,2,2579,home,FALSE,South Carolina,72,Gamecocks,South Carolina Gamecocks,South Carolina
-213622579,2001-12-28,2,2429,away,FALSE,Charlotte,53,49ers,Charlotte 49ers,Charlotte
-213620135,2001-12-28,2,135,home,FALSE,Minnesota,83,Golden Gophers,Minnesota Golden Gophers,Minnesota
-213620135,2001-12-28,2,213,away,FALSE,Penn State,88,Lady Lions,Penn State Lady Lions,Penn State
-213622655,2001-12-28,2,2655,home,FALSE,Tulane,76,Green Wave,Tulane Green Wave,Tulane
-213622655,2001-12-28,2,2084,away,FALSE,Buffalo,29,Bulls,Buffalo Bulls,Buffalo
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213620002,2002,regular-season,2001-12-28,3,2,home,FALSE,Auburn,75,Tigers,Auburn Tigers,Auburn
+213620002,2002,regular-season,2001-12-28,3,66,away,FALSE,Iowa State,80,Cyclones,Iowa State Cyclones,Iowa State
+213620024,2002,regular-season,2001-12-28,2,24,home,FALSE,Stanford,81,Cardinal,Stanford Cardinal,Stanford
+213620024,2002,regular-season,2001-12-28,2,26,away,FALSE,UCLA,50,Bruins,UCLA Bruins,UCLA
+213620275,2002,regular-season,2001-12-28,2,275,home,FALSE,Wisconsin,71,Badgers,Wisconsin Badgers,Wisconsin
+213620275,2002,regular-season,2001-12-28,2,2509,away,FALSE,Purdue,59,Boilermakers,Purdue Boilermakers,Purdue
+213622440,2002,regular-season,2001-12-28,2,2440,home,FALSE,Nevada,58,Wolf Pack,Nevada Wolf Pack,Nevada
+213622440,2002,regular-season,2001-12-28,2,2348,away,FALSE,Louisiana Tech,102,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+213620130,2002,regular-season,2001-12-28,2,130,home,FALSE,Michigan,81,Wolverines,Michigan Wolverines,Michigan
+213620130,2002,regular-season,2001-12-28,2,356,away,FALSE,Illinois,85,Fighting Illini,Illinois Fighting Illini,Illinois
+213622199,2002,regular-season,2001-12-28,2,2199,home,FALSE,Eastern Michigan,56,Eagles,Eastern Michigan Eagles,E Michigan
+213622199,2002,regular-season,2001-12-28,2,36,away,FALSE,Colorado State,66,Rams,Colorado State Rams,Colorado St
+213620057,2002,regular-season,2001-12-28,2,57,home,FALSE,Florida,80,Gators,Florida Gators,Florida
+213620057,2002,regular-season,2001-12-28,2,2184,away,FALSE,Duquesne,51,Dukes,Duquesne Dukes,Duquesne
+213622579,2002,regular-season,2001-12-28,2,2579,home,FALSE,South Carolina,72,Gamecocks,South Carolina Gamecocks,South Carolina
+213622579,2002,regular-season,2001-12-28,2,2429,away,FALSE,Charlotte,53,49ers,Charlotte 49ers,Charlotte
+213620135,2002,regular-season,2001-12-28,2,135,home,FALSE,Minnesota,83,Golden Gophers,Minnesota Golden Gophers,Minnesota
+213620135,2002,regular-season,2001-12-28,2,213,away,FALSE,Penn State,88,Lady Lions,Penn State Lady Lions,Penn State
+213622655,2002,regular-season,2001-12-28,2,2655,home,FALSE,Tulane,76,Green Wave,Tulane Green Wave,Tulane
+213622655,2002,regular-season,2001-12-28,2,2084,away,FALSE,Buffalo,29,Bulls,Buffalo Bulls,Buffalo

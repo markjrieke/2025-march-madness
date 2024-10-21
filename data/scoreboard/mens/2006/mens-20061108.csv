@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263122443,2006-11-08,2,2443,home,FALSE,New Orleans,73,Privateers,New Orleans Privateers,New Orleans
-263122443,2006-11-08,2,2261,away,FALSE,Hampton,74,Pirates,Hampton Pirates,Hampton
-263122117,2006-11-08,2,2117,home,FALSE,Central Michigan,50,Chippewas,Central Michigan Chippewas,C Michigan
-263122117,2006-11-08,2,2754,away,FALSE,Youngstown State,74,Penguins,Youngstown State Penguins,Youngstown St
-263120127,2006-11-08,2,127,home,FALSE,Michigan State,45,Spartans,Michigan State Spartans,Michigan St
-263120127,2006-11-08,2,225,away,FALSE,Brown,34,Bears,Brown Bears,Brown
-263120120,2006-11-08,2,120,home,FALSE,Maryland,81,Terrapins,Maryland Terrapins,Maryland
-263120120,2006-11-08,2,261,away,FALSE,Vermont,63,Catamounts,Vermont Catamounts,Vermont
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263122443,2007,regular-season,2006-11-08,2,2443,home,FALSE,New Orleans,73,Privateers,New Orleans Privateers,New Orleans
+263122443,2007,regular-season,2006-11-08,2,2261,away,FALSE,Hampton,74,Pirates,Hampton Pirates,Hampton
+263122117,2007,regular-season,2006-11-08,2,2117,home,FALSE,Central Michigan,50,Chippewas,Central Michigan Chippewas,C Michigan
+263122117,2007,regular-season,2006-11-08,2,2754,away,FALSE,Youngstown State,74,Penguins,Youngstown State Penguins,Youngstown St
+263120127,2007,regular-season,2006-11-08,2,127,home,FALSE,Michigan State,45,Spartans,Michigan State Spartans,Michigan St
+263120127,2007,regular-season,2006-11-08,2,225,away,FALSE,Brown,34,Bears,Brown Bears,Brown
+263120120,2007,regular-season,2006-11-08,2,120,home,FALSE,Maryland,81,Terrapins,Maryland Terrapins,Maryland
+263120120,2007,regular-season,2006-11-08,2,261,away,FALSE,Vermont,63,Catamounts,Vermont Catamounts,Vermont

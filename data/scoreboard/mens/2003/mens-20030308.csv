@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230670012,2003-03-08,2,12,home,FALSE,Arizona,88,Wildcats,Arizona Wildcats,Arizona
-230670012,2003-03-08,2,2483,away,FALSE,Oregon,80,Ducks,Oregon Ducks,Oregon
-230670057,2003-03-08,2,57,home,FALSE,Florida,67,Gators,Florida Gators,Florida
-230670057,2003-03-08,2,96,away,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
-230670201,2003-03-08,2,201,home,FALSE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
-230670201,2003-03-08,2,251,away,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
-230670269,2003-03-08,2,269,home,FALSE,Marquette,70,Golden Eagles,Marquette Golden Eagles,Marquette
-230670269,2003-03-08,2,2132,away,FALSE,Cincinnati,61,Bearcats,Cincinnati Bearcats,Cincinnati
-230670152,2003-03-08,2,152,home,FALSE,NC State,72,Wolfpack,NC State Wolfpack,NC State
-230670152,2003-03-08,2,154,away,FALSE,Wake Forest,78,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-230672752,2003-03-08,2,2752,home,FALSE,Xavier,96,Musketeers,Xavier Musketeers,Xavier
-230672752,2003-03-08,2,218,away,FALSE,Temple,65,Owls,Temple Owls,Temple
-230670097,2003-03-08,2,97,home,FALSE,Louisville,100,Cardinals,Louisville Cardinals,Louisville
-230670097,2003-03-08,2,2429,away,FALSE,Charlotte,59,49ers,Charlotte 49ers,Charlotte
-230670046,2003-03-08,2,46,home,FALSE,Georgetown,80,Hoyas,Georgetown Hoyas,Georgetown
-230670046,2003-03-08,2,87,away,FALSE,Notre Dame,86,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-230670024,2003-03-08,2,24,home,FALSE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
-230670024,2003-03-08,2,25,away,FALSE,California,60,Golden Bears,California Golden Bears,California
-230670005,2003-03-08,2,5,home,FALSE,UAB,79,Blazers,UAB Blazers,UAB
-230670005,2003-03-08,2,235,away,FALSE,Memphis,90,Tigers,Memphis Tigers,Memphis
-230670156,2003-03-08,2,156,home,FALSE,Creighton,57,Bluejays,Creighton Bluejays,Creighton
-230670156,2003-03-08,2,282,away,FALSE,Indiana State,56,Sycamores,Indiana State Sycamores,Indiana St
-230670197,2003-03-08,2,197,home,FALSE,Oklahoma State,77,Cowboys,Oklahoma State Cowboys,Oklahoma St
-230670197,2003-03-08,2,245,away,FALSE,Texas A&M,52,Aggies,Texas A&M Aggies,Texas A&M
-230670179,2003-03-08,0,179,home,FALSE,St. Bonaventure,0,Bonnies,St. Bonaventure Bonnies,St Bonaventure
-230670179,2003-03-08,0,2168,away,FALSE,Dayton,1,Flyers,Dayton Flyers,Dayton
-230670344,2003-03-08,2,344,home,FALSE,Mississippi State,67,Bulldogs,Mississippi State Bulldogs,Mississippi St
-230670344,2003-03-08,2,2,away,FALSE,Auburn,45,Tigers,Auburn Tigers,Auburn
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230670012,2003,regular-season,2003-03-08,2,12,home,FALSE,Arizona,88,Wildcats,Arizona Wildcats,Arizona
+230670012,2003,regular-season,2003-03-08,2,2483,away,FALSE,Oregon,80,Ducks,Oregon Ducks,Oregon
+230670057,2003,regular-season,2003-03-08,2,57,home,FALSE,Florida,67,Gators,Florida Gators,Florida
+230670057,2003,regular-season,2003-03-08,2,96,away,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
+230670201,2003,regular-season,2003-03-08,2,201,home,FALSE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
+230670201,2003,regular-season,2003-03-08,2,251,away,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
+230670269,2003,regular-season,2003-03-08,2,269,home,FALSE,Marquette,70,Golden Eagles,Marquette Golden Eagles,Marquette
+230670269,2003,regular-season,2003-03-08,2,2132,away,FALSE,Cincinnati,61,Bearcats,Cincinnati Bearcats,Cincinnati
+230670152,2003,regular-season,2003-03-08,2,152,home,FALSE,NC State,72,Wolfpack,NC State Wolfpack,NC State
+230670152,2003,regular-season,2003-03-08,2,154,away,FALSE,Wake Forest,78,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+230672752,2003,regular-season,2003-03-08,2,2752,home,FALSE,Xavier,96,Musketeers,Xavier Musketeers,Xavier
+230672752,2003,regular-season,2003-03-08,2,218,away,FALSE,Temple,65,Owls,Temple Owls,Temple
+230670097,2003,regular-season,2003-03-08,2,97,home,FALSE,Louisville,100,Cardinals,Louisville Cardinals,Louisville
+230670097,2003,regular-season,2003-03-08,2,2429,away,FALSE,Charlotte,59,49ers,Charlotte 49ers,Charlotte
+230670046,2003,regular-season,2003-03-08,2,46,home,FALSE,Georgetown,80,Hoyas,Georgetown Hoyas,Georgetown
+230670046,2003,regular-season,2003-03-08,2,87,away,FALSE,Notre Dame,86,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+230670024,2003,regular-season,2003-03-08,2,24,home,FALSE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
+230670024,2003,regular-season,2003-03-08,2,25,away,FALSE,California,60,Golden Bears,California Golden Bears,California
+230670005,2003,regular-season,2003-03-08,2,5,home,FALSE,UAB,79,Blazers,UAB Blazers,UAB
+230670005,2003,regular-season,2003-03-08,2,235,away,FALSE,Memphis,90,Tigers,Memphis Tigers,Memphis
+230670156,2003,regular-season,2003-03-08,2,156,home,FALSE,Creighton,57,Bluejays,Creighton Bluejays,Creighton
+230670156,2003,regular-season,2003-03-08,2,282,away,FALSE,Indiana State,56,Sycamores,Indiana State Sycamores,Indiana St
+230670197,2003,regular-season,2003-03-08,2,197,home,FALSE,Oklahoma State,77,Cowboys,Oklahoma State Cowboys,Oklahoma St
+230670197,2003,regular-season,2003-03-08,2,245,away,FALSE,Texas A&M,52,Aggies,Texas A&M Aggies,Texas A&M
+230670179,2003,regular-season,2003-03-08,0,179,home,FALSE,St. Bonaventure,0,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+230670179,2003,regular-season,2003-03-08,0,2168,away,FALSE,Dayton,1,Flyers,Dayton Flyers,Dayton
+230670344,2003,regular-season,2003-03-08,2,344,home,FALSE,Mississippi State,67,Bulldogs,Mississippi State Bulldogs,Mississippi St
+230670344,2003,regular-season,2003-03-08,2,2,away,FALSE,Auburn,45,Tigers,Auburn Tigers,Auburn

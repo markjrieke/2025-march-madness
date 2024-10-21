@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320520344,2012-02-21,2,344,home,FALSE,Mississippi State,64,Bulldogs,Mississippi State Bulldogs,Mississippi St
-320520344,2012-02-21,2,96,away,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
-320520142,2012-02-21,2,142,home,FALSE,Missouri,68,Tigers,Missouri Tigers,Missouri
-320520142,2012-02-21,2,2306,away,FALSE,Kansas State,78,Wildcats,Kansas State Wildcats,Kansas St
-320520152,2012-02-21,2,152,home,FALSE,NC State,74,Wolfpack,NC State Wolfpack,NC State
-320520152,2012-02-21,2,153,away,FALSE,North Carolina,86,Tar Heels,North Carolina Tar Heels,North Carolina
-320520194,2012-02-21,2,194,home,FALSE,Ohio State,83,Buckeyes,Ohio State Buckeyes,Ohio State
-320520194,2012-02-21,2,356,away,FALSE,Illinois,67,Fighting Illini,Illinois Fighting Illini,Illinois
-320522550,2012-02-21,2,2550,home,FALSE,Seton Hall,73,Pirates,Seton Hall Pirates,Seton Hall
-320522550,2012-02-21,2,46,away,FALSE,Georgetown,55,Hoyas,Georgetown Hoyas,Georgetown
-320520077,2012-02-21,3,77,home,FALSE,Northwestern,55,Wildcats,Northwestern Wildcats,Northwestern
-320520077,2012-02-21,3,130,away,FALSE,Michigan,67,Wolverines,Michigan Wolverines,Michigan
-320520057,2012-02-21,2,57,home,FALSE,Florida,63,Gators,Florida Gators,Florida
-320520057,2012-02-21,2,2,away,FALSE,Auburn,47,Tigers,Auburn Tigers,Auburn
-320520036,2012-02-21,2,36,home,FALSE,Colorado State,71,Rams,Colorado State Rams,Colorado St
-320520036,2012-02-21,2,167,away,FALSE,New Mexico,63,Lobos,New Mexico Lobos,New Mexico
-320520259,2012-02-21,2,259,home,FALSE,Virginia Tech,59,Hokies,Virginia Tech Hokies,Virginia Tech
-320520259,2012-02-21,2,258,away,FALSE,Virginia,61,Cavaliers,Virginia Cavaliers,Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320520344,2012,regular-season,2012-02-21,2,344,home,FALSE,Mississippi State,64,Bulldogs,Mississippi State Bulldogs,Mississippi St
+320520344,2012,regular-season,2012-02-21,2,96,away,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
+320520142,2012,regular-season,2012-02-21,2,142,home,FALSE,Missouri,68,Tigers,Missouri Tigers,Missouri
+320520142,2012,regular-season,2012-02-21,2,2306,away,FALSE,Kansas State,78,Wildcats,Kansas State Wildcats,Kansas St
+320520152,2012,regular-season,2012-02-21,2,152,home,FALSE,NC State,74,Wolfpack,NC State Wolfpack,NC State
+320520152,2012,regular-season,2012-02-21,2,153,away,FALSE,North Carolina,86,Tar Heels,North Carolina Tar Heels,North Carolina
+320520194,2012,regular-season,2012-02-21,2,194,home,FALSE,Ohio State,83,Buckeyes,Ohio State Buckeyes,Ohio State
+320520194,2012,regular-season,2012-02-21,2,356,away,FALSE,Illinois,67,Fighting Illini,Illinois Fighting Illini,Illinois
+320522550,2012,regular-season,2012-02-21,2,2550,home,FALSE,Seton Hall,73,Pirates,Seton Hall Pirates,Seton Hall
+320522550,2012,regular-season,2012-02-21,2,46,away,FALSE,Georgetown,55,Hoyas,Georgetown Hoyas,Georgetown
+320520077,2012,regular-season,2012-02-21,3,77,home,FALSE,Northwestern,55,Wildcats,Northwestern Wildcats,Northwestern
+320520077,2012,regular-season,2012-02-21,3,130,away,FALSE,Michigan,67,Wolverines,Michigan Wolverines,Michigan
+320520057,2012,regular-season,2012-02-21,2,57,home,FALSE,Florida,63,Gators,Florida Gators,Florida
+320520057,2012,regular-season,2012-02-21,2,2,away,FALSE,Auburn,47,Tigers,Auburn Tigers,Auburn
+320520036,2012,regular-season,2012-02-21,2,36,home,FALSE,Colorado State,71,Rams,Colorado State Rams,Colorado St
+320520036,2012,regular-season,2012-02-21,2,167,away,FALSE,New Mexico,63,Lobos,New Mexico Lobos,New Mexico
+320520259,2012,regular-season,2012-02-21,2,259,home,FALSE,Virginia Tech,59,Hokies,Virginia Tech Hokies,Virginia Tech
+320520259,2012,regular-season,2012-02-21,2,258,away,FALSE,Virginia,61,Cavaliers,Virginia Cavaliers,Virginia

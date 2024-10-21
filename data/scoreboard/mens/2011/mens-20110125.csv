@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310250194,2011-01-25,2,194,home,FALSE,Ohio State,87,Buckeyes,Ohio State Buckeyes,Ohio State
-310250194,2011-01-25,2,2509,away,FALSE,Purdue,64,Boilermakers,Purdue Boilermakers,Purdue
-310250269,2011-01-25,2,269,home,FALSE,Marquette,68,Golden Eagles,Marquette Golden Eagles,Marquette
-310250269,2011-01-25,2,41,away,FALSE,UConn,76,Huskies,UConn Huskies,UConn
-310250038,2011-01-25,2,38,home,FALSE,Colorado,78,Buffaloes,Colorado Buffaloes,Colorado
-310250038,2011-01-25,2,2305,away,FALSE,Kansas,82,Jayhawks,Kansas Jayhawks,Kansas
-310250183,2011-01-25,2,183,home,FALSE,Syracuse,68,Orange,Syracuse Orange,Syracuse
-310250183,2011-01-25,2,2550,away,FALSE,Seton Hall,90,Pirates,Seton Hall Pirates,Seton Hall
-310250061,2011-01-25,4,61,home,FALSE,Georgia,91,Bulldogs,Georgia Bulldogs,Georgia
-310250061,2011-01-25,4,57,away,FALSE,Florida,104,Gators,Florida Gators,Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310250194,2011,regular-season,2011-01-25,2,194,home,FALSE,Ohio State,87,Buckeyes,Ohio State Buckeyes,Ohio State
+310250194,2011,regular-season,2011-01-25,2,2509,away,FALSE,Purdue,64,Boilermakers,Purdue Boilermakers,Purdue
+310250269,2011,regular-season,2011-01-25,2,269,home,FALSE,Marquette,68,Golden Eagles,Marquette Golden Eagles,Marquette
+310250269,2011,regular-season,2011-01-25,2,41,away,FALSE,UConn,76,Huskies,UConn Huskies,UConn
+310250038,2011,regular-season,2011-01-25,2,38,home,FALSE,Colorado,78,Buffaloes,Colorado Buffaloes,Colorado
+310250038,2011,regular-season,2011-01-25,2,2305,away,FALSE,Kansas,82,Jayhawks,Kansas Jayhawks,Kansas
+310250183,2011,regular-season,2011-01-25,2,183,home,FALSE,Syracuse,68,Orange,Syracuse Orange,Syracuse
+310250183,2011,regular-season,2011-01-25,2,2550,away,FALSE,Seton Hall,90,Pirates,Seton Hall Pirates,Seton Hall
+310250061,2011,regular-season,2011-01-25,4,61,home,FALSE,Georgia,91,Bulldogs,Georgia Bulldogs,Georgia
+310250061,2011,regular-season,2011-01-25,4,57,away,FALSE,Florida,104,Gators,Florida Gators,Florida

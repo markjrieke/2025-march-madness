@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330590252,2013-02-28,2,252,home,FALSE,BYU,65,Cougars,BYU Cougars,BYU
-330590252,2013-02-28,2,2250,away,FALSE,Gonzaga,70,Bulldogs,Gonzaga Bulldogs,Gonzaga
-330590258,2013-02-28,2,258,home,FALSE,Virginia,73,Cavaliers,Virginia Cavaliers,Virginia
-330590258,2013-02-28,2,150,away,FALSE,Duke,68,Blue Devils,Duke Blue Devils,Duke
-330590077,2013-02-28,2,77,home,FALSE,Northwestern,53,Wildcats,Northwestern Wildcats,Northwestern
-330590077,2013-02-28,2,194,away,FALSE,Ohio State,63,Buckeyes,Ohio State Buckeyes,Ohio State
-330592483,2013-02-28,2,2483,home,FALSE,Oregon,85,Ducks,Oregon Ducks,Oregon
-330592483,2013-02-28,2,204,away,FALSE,Oregon State,75,Beavers,Oregon State Beavers,Oregon St
-330592348,2013-02-28,2,2348,home,FALSE,Louisiana Tech,84,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
-330592348,2013-02-28,2,328,away,FALSE,Utah State,61,Aggies,Utah State Aggies,Utah State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330590252,2013,regular-season,2013-02-28,2,252,home,FALSE,BYU,65,Cougars,BYU Cougars,BYU
+330590252,2013,regular-season,2013-02-28,2,2250,away,FALSE,Gonzaga,70,Bulldogs,Gonzaga Bulldogs,Gonzaga
+330590258,2013,regular-season,2013-02-28,2,258,home,FALSE,Virginia,73,Cavaliers,Virginia Cavaliers,Virginia
+330590258,2013,regular-season,2013-02-28,2,150,away,FALSE,Duke,68,Blue Devils,Duke Blue Devils,Duke
+330590077,2013,regular-season,2013-02-28,2,77,home,FALSE,Northwestern,53,Wildcats,Northwestern Wildcats,Northwestern
+330590077,2013,regular-season,2013-02-28,2,194,away,FALSE,Ohio State,63,Buckeyes,Ohio State Buckeyes,Ohio State
+330592483,2013,regular-season,2013-02-28,2,2483,home,FALSE,Oregon,85,Ducks,Oregon Ducks,Oregon
+330592483,2013,regular-season,2013-02-28,2,204,away,FALSE,Oregon State,75,Beavers,Oregon State Beavers,Oregon St
+330592348,2013,regular-season,2013-02-28,2,2348,home,FALSE,Louisiana Tech,84,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
+330592348,2013,regular-season,2013-02-28,2,328,away,FALSE,Utah State,61,Aggies,Utah State Aggies,Utah State

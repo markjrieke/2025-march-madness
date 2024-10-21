@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320610096,2012-03-01,2,96,home,FALSE,Kentucky,79,Wildcats,Kentucky Wildcats,Kentucky
-320610096,2012-03-01,2,61,away,FALSE,Georgia,49,Bulldogs,Georgia Bulldogs,Georgia
-320610356,2012-03-01,2,356,home,FALSE,Illinois,61,Fighting Illini,Illinois Fighting Illini,Illinois
-320610356,2012-03-01,2,130,away,FALSE,Michigan,72,Wolverines,Michigan Wolverines,Michigan
-320610258,2012-03-01,2,258,home,FALSE,Virginia,60,Cavaliers,Virginia Cavaliers,Virginia
-320610258,2012-03-01,2,52,away,FALSE,Florida State,63,Seminoles,Florida State Seminoles,Florida St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320610096,2012,regular-season,2012-03-01,2,96,home,FALSE,Kentucky,79,Wildcats,Kentucky Wildcats,Kentucky
+320610096,2012,regular-season,2012-03-01,2,61,away,FALSE,Georgia,49,Bulldogs,Georgia Bulldogs,Georgia
+320610356,2012,regular-season,2012-03-01,2,356,home,FALSE,Illinois,61,Fighting Illini,Illinois Fighting Illini,Illinois
+320610356,2012,regular-season,2012-03-01,2,130,away,FALSE,Michigan,72,Wolverines,Michigan Wolverines,Michigan
+320610258,2012,regular-season,2012-03-01,2,258,home,FALSE,Virginia,60,Cavaliers,Virginia Cavaliers,Virginia
+320610258,2012,regular-season,2012-03-01,2,52,away,FALSE,Florida State,63,Seminoles,Florida State Seminoles,Florida St

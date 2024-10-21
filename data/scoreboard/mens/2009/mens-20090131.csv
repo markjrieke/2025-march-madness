@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290310041,2009-01-31,2,41,home,FALSE,UConn,94,Huskies,UConn Huskies,UConn
-290310041,2009-01-31,2,2507,away,FALSE,Providence,61,Friars,Providence Friars,Providence
-290310221,2009-01-31,2,221,home,FALSE,Pittsburgh,93,Panthers,Pittsburgh Panthers,Pitt
-290310221,2009-01-31,2,87,away,FALSE,Notre Dame,80,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-290310066,2009-01-31,2,66,home,FALSE,Iowa State,68,Cyclones,Iowa State Cyclones,Iowa State
-290310066,2009-01-31,2,201,away,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
-290310152,2009-01-31,2,152,home,FALSE,NC State,76,Wolfpack,NC State Wolfpack,NC State
-290310152,2009-01-31,2,153,away,FALSE,North Carolina,93,Tar Heels,North Carolina Tar Heels,North Carolina
-290310059,2009-01-31,2,59,home,FALSE,Georgia Tech,76,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-290310059,2009-01-31,2,154,away,FALSE,Wake Forest,74,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-290310097,2009-01-31,2,97,home,FALSE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
-290310097,2009-01-31,2,277,away,FALSE,West Virginia,63,Mountaineers,West Virginia Mountaineers,West Virginia
-290310269,2009-01-31,2,269,home,FALSE,Marquette,94,Golden Eagles,Marquette Golden Eagles,Marquette
-290310269,2009-01-31,2,46,away,FALSE,Georgetown,82,Hoyas,Georgetown Hoyas,Georgetown
-290312752,2009-01-31,2,2752,home,FALSE,Xavier,82,Musketeers,Xavier Musketeers,Xavier
-290312752,2009-01-31,2,113,away,FALSE,Massachusetts,80,Minutemen,Massachusetts Minutemen,UMass
-290310251,2009-01-31,3,251,home,FALSE,Texas,81,Longhorns,Texas Longhorns,Texas
-290310251,2009-01-31,3,2306,away,FALSE,Kansas State,85,Wildcats,Kansas State Wildcats,Kansas St
-290310009,2009-01-31,2,9,home,FALSE,Arizona State,71,Sun Devils,Arizona State Sun Devils,Arizona St
-290310009,2009-01-31,2,264,away,FALSE,Washington,84,Huskies,Washington Huskies,Washington
-290312509,2009-01-31,2,2509,home,FALSE,Purdue,67,Boilermakers,Purdue Boilermakers,Purdue
-290312509,2009-01-31,2,130,away,FALSE,Michigan,49,Wolverines,Michigan Wolverines,Michigan
-290310026,2009-01-31,2,26,home,FALSE,UCLA,97,Bruins,UCLA Bruins,UCLA
-290310026,2009-01-31,2,24,away,FALSE,Stanford,63,Cardinal,Stanford Cardinal,Stanford
-290310235,2009-01-31,2,235,home,FALSE,Memphis,83,Tigers,Memphis Tigers,Memphis
-290310235,2009-01-31,2,248,away,FALSE,Houston,68,Cougars,Houston Cougars,Houston
-290312250,2009-01-31,2,2250,home,FALSE,Gonzaga,64,Bulldogs,Gonzaga Bulldogs,Gonzaga
-290312250,2009-01-31,2,301,away,FALSE,San Diego,47,Toreros,San Diego Toreros,San Diego
-290312501,2009-01-31,2,2501,home,FALSE,Portland,84,Pilots,Portland Pilots,Portland
-290312501,2009-01-31,2,2608,away,FALSE,Saint Mary's,66,Gaels,Saint Mary's Gaels,Saint Mary's
-290310096,2009-01-31,2,96,home,FALSE,Kentucky,77,Wildcats,Kentucky Wildcats,Kentucky
-290310096,2009-01-31,2,2579,away,FALSE,South Carolina,78,Gamecocks,South Carolina Gamecocks,South Carolina
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290310041,2009,regular-season,2009-01-31,2,41,home,FALSE,UConn,94,Huskies,UConn Huskies,UConn
+290310041,2009,regular-season,2009-01-31,2,2507,away,FALSE,Providence,61,Friars,Providence Friars,Providence
+290310221,2009,regular-season,2009-01-31,2,221,home,FALSE,Pittsburgh,93,Panthers,Pittsburgh Panthers,Pitt
+290310221,2009,regular-season,2009-01-31,2,87,away,FALSE,Notre Dame,80,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+290310066,2009,regular-season,2009-01-31,2,66,home,FALSE,Iowa State,68,Cyclones,Iowa State Cyclones,Iowa State
+290310066,2009,regular-season,2009-01-31,2,201,away,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
+290310152,2009,regular-season,2009-01-31,2,152,home,FALSE,NC State,76,Wolfpack,NC State Wolfpack,NC State
+290310152,2009,regular-season,2009-01-31,2,153,away,FALSE,North Carolina,93,Tar Heels,North Carolina Tar Heels,North Carolina
+290310059,2009,regular-season,2009-01-31,2,59,home,FALSE,Georgia Tech,76,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+290310059,2009,regular-season,2009-01-31,2,154,away,FALSE,Wake Forest,74,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+290310097,2009,regular-season,2009-01-31,2,97,home,FALSE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
+290310097,2009,regular-season,2009-01-31,2,277,away,FALSE,West Virginia,63,Mountaineers,West Virginia Mountaineers,West Virginia
+290310269,2009,regular-season,2009-01-31,2,269,home,FALSE,Marquette,94,Golden Eagles,Marquette Golden Eagles,Marquette
+290310269,2009,regular-season,2009-01-31,2,46,away,FALSE,Georgetown,82,Hoyas,Georgetown Hoyas,Georgetown
+290312752,2009,regular-season,2009-01-31,2,2752,home,FALSE,Xavier,82,Musketeers,Xavier Musketeers,Xavier
+290312752,2009,regular-season,2009-01-31,2,113,away,FALSE,Massachusetts,80,Minutemen,Massachusetts Minutemen,UMass
+290310251,2009,regular-season,2009-01-31,3,251,home,FALSE,Texas,81,Longhorns,Texas Longhorns,Texas
+290310251,2009,regular-season,2009-01-31,3,2306,away,FALSE,Kansas State,85,Wildcats,Kansas State Wildcats,Kansas St
+290310009,2009,regular-season,2009-01-31,2,9,home,FALSE,Arizona State,71,Sun Devils,Arizona State Sun Devils,Arizona St
+290310009,2009,regular-season,2009-01-31,2,264,away,FALSE,Washington,84,Huskies,Washington Huskies,Washington
+290312509,2009,regular-season,2009-01-31,2,2509,home,FALSE,Purdue,67,Boilermakers,Purdue Boilermakers,Purdue
+290312509,2009,regular-season,2009-01-31,2,130,away,FALSE,Michigan,49,Wolverines,Michigan Wolverines,Michigan
+290310026,2009,regular-season,2009-01-31,2,26,home,FALSE,UCLA,97,Bruins,UCLA Bruins,UCLA
+290310026,2009,regular-season,2009-01-31,2,24,away,FALSE,Stanford,63,Cardinal,Stanford Cardinal,Stanford
+290310235,2009,regular-season,2009-01-31,2,235,home,FALSE,Memphis,83,Tigers,Memphis Tigers,Memphis
+290310235,2009,regular-season,2009-01-31,2,248,away,FALSE,Houston,68,Cougars,Houston Cougars,Houston
+290312250,2009,regular-season,2009-01-31,2,2250,home,FALSE,Gonzaga,64,Bulldogs,Gonzaga Bulldogs,Gonzaga
+290312250,2009,regular-season,2009-01-31,2,301,away,FALSE,San Diego,47,Toreros,San Diego Toreros,San Diego
+290312501,2009,regular-season,2009-01-31,2,2501,home,FALSE,Portland,84,Pilots,Portland Pilots,Portland
+290312501,2009,regular-season,2009-01-31,2,2608,away,FALSE,Saint Mary's,66,Gaels,Saint Mary's Gaels,Saint Mary's
+290310096,2009,regular-season,2009-01-31,2,96,home,FALSE,Kentucky,77,Wildcats,Kentucky Wildcats,Kentucky
+290310096,2009,regular-season,2009-01-31,2,2579,away,FALSE,South Carolina,78,Gamecocks,South Carolina Gamecocks,South Carolina

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400988526,2017-12-12,2,2550,home,FALSE,Seton Hall,84,Pirates,Seton Hall Pirates,Seton Hall
-400988526,2017-12-12,2,2612,away,FALSE,Saint Peter's,61,Peacocks,Saint Peter's Peacocks,Saint Peter's
-400987241,2017-12-12,2,2132,home,FALSE,Cincinnati,65,Bearcats,Cincinnati Bearcats,Cincinnati
-400987241,2017-12-12,2,344,away,FALSE,Mississippi State,50,Bulldogs,Mississippi State Bulldogs,Mississippi St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400988526,2018,regular-season,2017-12-12,2,2550,home,FALSE,Seton Hall,84,Pirates,Seton Hall Pirates,Seton Hall
+400988526,2018,regular-season,2017-12-12,2,2612,away,FALSE,Saint Peter's,61,Peacocks,Saint Peter's Peacocks,Saint Peter's
+400987241,2018,regular-season,2017-12-12,2,2132,home,FALSE,Cincinnati,65,Bearcats,Cincinnati Bearcats,Cincinnati
+400987241,2018,regular-season,2017-12-12,2,344,away,FALSE,Mississippi State,50,Bulldogs,Mississippi State Bulldogs,Mississippi St

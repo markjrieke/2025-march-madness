@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401369458,2021-12-10,4,221,home,FALSE,Pittsburgh,54,Panthers,Pittsburgh Panthers,Pitt
-401369458,2021-12-10,4,152,away,FALSE,NC State,89,Wolfpack,NC State Wolfpack,NC State
-401376908,2021-12-10,5,201,home,FALSE,Oklahoma,99,Sooners,Oklahoma Sooners,Oklahoma
-401376908,2021-12-10,5,252,away,FALSE,BYU,91,Cougars,BYU Cougars,BYU
-401376855,2021-12-10,4,2405,home,FALSE,Monmouth,58,Hawks,Monmouth Hawks,Monmouth
-401376855,2021-12-10,4,204,away,FALSE,Oregon State,72,Beavers,Oregon State Beavers,Oregon St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401369458,2022,regular-season,2021-12-10,4,221,home,FALSE,Pittsburgh,54,Panthers,Pittsburgh Panthers,Pitt
+401369458,2022,regular-season,2021-12-10,4,152,away,FALSE,NC State,89,Wolfpack,NC State Wolfpack,NC State
+401376908,2022,regular-season,2021-12-10,5,201,home,FALSE,Oklahoma,99,Sooners,Oklahoma Sooners,Oklahoma
+401376908,2022,regular-season,2021-12-10,5,252,away,FALSE,BYU,91,Cougars,BYU Cougars,BYU
+401376855,2022,regular-season,2021-12-10,4,2405,home,FALSE,Monmouth,58,Hawks,Monmouth Hawks,Monmouth
+401376855,2022,regular-season,2021-12-10,4,204,away,FALSE,Oregon State,72,Beavers,Oregon State Beavers,Oregon St

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253550201,2005-12-21,2,201,home,FALSE,Oklahoma,60,Sooners,Oklahoma Sooners,Oklahoma
-253550201,2005-12-21,2,127,away,FALSE,Michigan State,80,Spartans,Michigan State Spartans,Michigan St
-253550166,2005-12-21,5,166,home,FALSE,New Mexico State,77,Aggies,New Mexico State Aggies,New Mexico St
-253550166,2005-12-21,5,167,away,FALSE,New Mexico,79,Lobos,New Mexico Lobos,New Mexico
-253550251,2005-12-21,2,251,home,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
-253550251,2005-12-21,2,357,away,FALSE,Texas A&M-Corpus Christi,65,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-253552199,2005-12-21,2,2199,home,FALSE,Eastern Michigan,67,Eagles,Eastern Michigan Eagles,E Michigan
-253552199,2005-12-21,2,254,away,FALSE,Utah,72,Utes,Utah Utes,Utah
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253550201,2006,regular-season,2005-12-21,2,201,home,FALSE,Oklahoma,60,Sooners,Oklahoma Sooners,Oklahoma
+253550201,2006,regular-season,2005-12-21,2,127,away,FALSE,Michigan State,80,Spartans,Michigan State Spartans,Michigan St
+253550166,2006,regular-season,2005-12-21,5,166,home,FALSE,New Mexico State,77,Aggies,New Mexico State Aggies,New Mexico St
+253550166,2006,regular-season,2005-12-21,5,167,away,FALSE,New Mexico,79,Lobos,New Mexico Lobos,New Mexico
+253550251,2006,regular-season,2005-12-21,2,251,home,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
+253550251,2006,regular-season,2005-12-21,2,357,away,FALSE,Texas A&M-Corpus Christi,65,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+253552199,2006,regular-season,2005-12-21,2,2199,home,FALSE,Eastern Michigan,67,Eagles,Eastern Michigan Eagles,E Michigan
+253552199,2006,regular-season,2005-12-21,2,254,away,FALSE,Utah,72,Utes,Utah Utes,Utah

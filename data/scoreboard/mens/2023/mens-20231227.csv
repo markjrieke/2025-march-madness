@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401622999,2023-12-27,2,3246,home,TRUE,Bethesda University,74,Flames,Bethesda University Flames,Bethesda
-401622999,2023-12-27,2,2253,away,TRUE,Grand Canyon,124,Lopes,Grand Canyon Lopes,Grand Canyon
-401575433,2023-12-27,2,258,home,FALSE,Virginia,79,Cavaliers,Virginia Cavaliers,Virginia
-401575433,2023-12-27,2,2415,away,FALSE,Morgan State,44,Bears,Morgan State Bears,Morgan St
-401594651,2023-12-27,2,2856,home,FALSE,California Baptist,74,Lancers,California Baptist Lancers,CA Baptist
-401594651,2023-12-27,2,2130,away,FALSE,Chicago State,62,Cougars,Chicago State Cougars,Chicago St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401622999,2024,regular-season,2023-12-27,2,3246,home,TRUE,Bethesda University,74,Flames,Bethesda University Flames,Bethesda
+401622999,2024,regular-season,2023-12-27,2,2253,away,TRUE,Grand Canyon,124,Lopes,Grand Canyon Lopes,Grand Canyon
+401575433,2024,regular-season,2023-12-27,2,258,home,FALSE,Virginia,79,Cavaliers,Virginia Cavaliers,Virginia
+401575433,2024,regular-season,2023-12-27,2,2415,away,FALSE,Morgan State,44,Bears,Morgan State Bears,Morgan St
+401594651,2024,regular-season,2023-12-27,2,2856,home,FALSE,California Baptist,74,Lancers,California Baptist Lancers,CA Baptist
+401594651,2024,regular-season,2023-12-27,2,2130,away,FALSE,Chicago State,62,Cougars,Chicago State Cougars,Chicago St

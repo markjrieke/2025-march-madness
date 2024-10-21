@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250012305,2005-01-01,3,2305,home,FALSE,Kansas,70,Jayhawks,Kansas Jayhawks,Kansas
-250012305,2005-01-01,3,59,away,FALSE,Georgia Tech,68,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-250010333,2005-01-01,2,333,home,FALSE,Alabama,68,Crimson Tide,Alabama Crimson Tide,Alabama
-250010333,2005-01-01,2,2443,away,FALSE,New Orleans,57,Privateers,New Orleans Privateers,New Orleans
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250012305,2005,regular-season,2005-01-01,3,2305,home,FALSE,Kansas,70,Jayhawks,Kansas Jayhawks,Kansas
+250012305,2005,regular-season,2005-01-01,3,59,away,FALSE,Georgia Tech,68,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+250010333,2005,regular-season,2005-01-01,2,333,home,FALSE,Alabama,68,Crimson Tide,Alabama Crimson Tide,Alabama
+250010333,2005,regular-season,2005-01-01,2,2443,away,FALSE,New Orleans,57,Privateers,New Orleans Privateers,New Orleans

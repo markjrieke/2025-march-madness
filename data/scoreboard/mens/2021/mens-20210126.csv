@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401253878,2021-01-26,2,251,home,FALSE,Texas,79,Longhorns,Texas Longhorns,Texas
-401253878,2021-01-26,2,201,away,FALSE,Oklahoma,80,Sooners,Oklahoma Sooners,Oklahoma
-401258769,2021-01-26,2,333,home,FALSE,Alabama,70,Crimson Tide,Alabama Crimson Tide,Alabama
-401258769,2021-01-26,2,96,away,FALSE,Kentucky,59,Wildcats,Kentucky Wildcats,Kentucky
-401258770,2021-01-26,2,2,home,FALSE,Auburn,88,Tigers,Auburn Tigers,Auburn
-401258770,2021-01-26,2,142,away,FALSE,Missouri,82,Tigers,Missouri Tigers,Missouri
-401258772,2021-01-26,2,2633,home,FALSE,Tennessee,56,Volunteers,Tennessee Volunteers,Tennessee
-401258772,2021-01-26,2,344,away,FALSE,Mississippi State,53,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401260627,2021-01-26,2,139,home,FALSE,Saint Louis,71,Billikens,Saint Louis Billikens,Saint Louis
-401260627,2021-01-26,2,2168,away,FALSE,Dayton,76,Flyers,Dayton Flyers,Dayton
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401253878,2021,regular-season,2021-01-26,2,251,home,FALSE,Texas,79,Longhorns,Texas Longhorns,Texas
+401253878,2021,regular-season,2021-01-26,2,201,away,FALSE,Oklahoma,80,Sooners,Oklahoma Sooners,Oklahoma
+401258769,2021,regular-season,2021-01-26,2,333,home,FALSE,Alabama,70,Crimson Tide,Alabama Crimson Tide,Alabama
+401258769,2021,regular-season,2021-01-26,2,96,away,FALSE,Kentucky,59,Wildcats,Kentucky Wildcats,Kentucky
+401258770,2021,regular-season,2021-01-26,2,2,home,FALSE,Auburn,88,Tigers,Auburn Tigers,Auburn
+401258770,2021,regular-season,2021-01-26,2,142,away,FALSE,Missouri,82,Tigers,Missouri Tigers,Missouri
+401258772,2021,regular-season,2021-01-26,2,2633,home,FALSE,Tennessee,56,Volunteers,Tennessee Volunteers,Tennessee
+401258772,2021,regular-season,2021-01-26,2,344,away,FALSE,Mississippi State,53,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401260627,2021,regular-season,2021-01-26,2,139,home,FALSE,Saint Louis,71,Billikens,Saint Louis Billikens,Saint Louis
+401260627,2021,regular-season,2021-01-26,2,2168,away,FALSE,Dayton,76,Flyers,Dayton Flyers,Dayton

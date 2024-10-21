@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401603353,2024-02-10,4,2628,home,FALSE,TCU,43,Horned Frogs,TCU Horned Frogs,TCU
-401603353,2024-02-10,4,251,away,FALSE,Texas,65,Longhorns,Texas Longhorns,Texas
-401603352,2024-02-10,4,2306,home,FALSE,Kansas State,69,Wildcats,Kansas State Wildcats,Kansas St
-401603352,2024-02-10,4,197,away,FALSE,Oklahoma State,68,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-401603355,2024-02-10,4,239,home,FALSE,Baylor,65,Bears,Baylor Bears,Baylor
-401603355,2024-02-10,4,277,away,FALSE,West Virginia,58,Mountaineers,West Virginia Mountaineers,West Virginia
-401589575,2024-02-10,4,2250,home,FALSE,Gonzaga,71,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401589575,2024-02-10,4,2351,away,FALSE,Loyola Marymount,47,Lions,Loyola Marymount Lions,LMU
-401604657,2024-02-10,4,156,home,FALSE,Creighton,88,Bluejays,Creighton Bluejays,Creighton
-401604657,2024-02-10,4,305,away,FALSE,DePaul,59,Blue Demons,DePaul Blue Demons,DePaul
-401603351,2024-02-10,4,66,home,FALSE,Iowa State,72,Cyclones,Iowa State Cyclones,Iowa State
-401603351,2024-02-10,4,201,away,FALSE,Oklahoma,86,Sooners,Oklahoma Sooners,Oklahoma
-401595167,2024-02-10,4,219,home,FALSE,Pennsylvania,54,Quakers,Pennsylvania Quakers,Penn
-401595167,2024-02-10,4,163,away,FALSE,Princeton,67,Tigers,Princeton Tigers,Princeton
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401603353,2024,regular-season,2024-02-10,4,2628,home,FALSE,TCU,43,Horned Frogs,TCU Horned Frogs,TCU
+401603353,2024,regular-season,2024-02-10,4,251,away,FALSE,Texas,65,Longhorns,Texas Longhorns,Texas
+401603352,2024,regular-season,2024-02-10,4,2306,home,FALSE,Kansas State,69,Wildcats,Kansas State Wildcats,Kansas St
+401603352,2024,regular-season,2024-02-10,4,197,away,FALSE,Oklahoma State,68,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+401603355,2024,regular-season,2024-02-10,4,239,home,FALSE,Baylor,65,Bears,Baylor Bears,Baylor
+401603355,2024,regular-season,2024-02-10,4,277,away,FALSE,West Virginia,58,Mountaineers,West Virginia Mountaineers,West Virginia
+401589575,2024,regular-season,2024-02-10,4,2250,home,FALSE,Gonzaga,71,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401589575,2024,regular-season,2024-02-10,4,2351,away,FALSE,Loyola Marymount,47,Lions,Loyola Marymount Lions,LMU
+401604657,2024,regular-season,2024-02-10,4,156,home,FALSE,Creighton,88,Bluejays,Creighton Bluejays,Creighton
+401604657,2024,regular-season,2024-02-10,4,305,away,FALSE,DePaul,59,Blue Demons,DePaul Blue Demons,DePaul
+401603351,2024,regular-season,2024-02-10,4,66,home,FALSE,Iowa State,72,Cyclones,Iowa State Cyclones,Iowa State
+401603351,2024,regular-season,2024-02-10,4,201,away,FALSE,Oklahoma,86,Sooners,Oklahoma Sooners,Oklahoma
+401595167,2024,regular-season,2024-02-10,4,219,home,FALSE,Pennsylvania,54,Quakers,Pennsylvania Quakers,Penn
+401595167,2024,regular-season,2024-02-10,4,163,away,FALSE,Princeton,67,Tigers,Princeton Tigers,Princeton

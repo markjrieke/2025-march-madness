@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401522199,2023-03-26,2,21,home,TRUE,San Diego State,57,Aztecs,San Diego State Aztecs,San Diego St
-401522199,2023-03-26,2,156,away,TRUE,Creighton,56,Bluejays,Creighton Bluejays,Creighton
-401522196,2023-03-26,2,251,home,TRUE,Texas,81,Longhorns,Texas Longhorns,Texas
-401522196,2023-03-26,2,2390,away,TRUE,Miami,88,Hurricanes,Miami Hurricanes,Miami
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401522199,2023,post-season,2023-03-26,2,21,home,TRUE,San Diego State,57,Aztecs,San Diego State Aztecs,San Diego St
+401522199,2023,post-season,2023-03-26,2,156,away,TRUE,Creighton,56,Bluejays,Creighton Bluejays,Creighton
+401522196,2023,post-season,2023-03-26,2,251,home,TRUE,Texas,81,Longhorns,Texas Longhorns,Texas
+401522196,2023,post-season,2023-03-26,2,2390,away,TRUE,Miami,88,Hurricanes,Miami Hurricanes,Miami

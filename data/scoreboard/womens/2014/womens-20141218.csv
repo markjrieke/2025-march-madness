@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400593029,2014-12-18,2,2253,home,FALSE,Grand Canyon,51,Lopes,Grand Canyon Lopes,Grand Canyon
-400593029,2014-12-18,2,97,away,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
-400592336,2014-12-18,2,2692,home,FALSE,Weber State,49,Wildcats,Weber State Wildcats,Weber St
-400592336,2014-12-18,2,197,away,FALSE,Oklahoma State,55,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400593029,2015,regular-season,2014-12-18,2,2253,home,FALSE,Grand Canyon,51,Lopes,Grand Canyon Lopes,Grand Canyon
+400593029,2015,regular-season,2014-12-18,2,97,away,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
+400592336,2015,regular-season,2014-12-18,2,2692,home,FALSE,Weber State,49,Wildcats,Weber State Wildcats,Weber St
+400592336,2015,regular-season,2014-12-18,2,197,away,FALSE,Oklahoma State,55,Cowgirls,Oklahoma State Cowgirls,Oklahoma St

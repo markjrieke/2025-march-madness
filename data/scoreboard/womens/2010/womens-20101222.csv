@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303562633,2010-12-22,2,2633,home,FALSE,Tennessee,102,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-303562633,2010-12-22,2,2193,away,FALSE,East Tennessee State,53,Bucs,East Tennessee State Bucs,ETSU
-303562539,2010-12-22,2,2539,home,FALSE,San Francisco,45,Dons,San Francisco Dons,San Francisco
-303562539,2010-12-22,2,24,away,FALSE,Stanford,100,Cardinal,Stanford Cardinal,Stanford
-303562294,2010-12-22,2,2294,home,FALSE,Iowa,75,Hawkeyes,Iowa Hawkeyes,Iowa
-303562294,2010-12-22,2,2460,away,FALSE,Northern Iowa,64,Panthers,Northern Iowa Panthers,Northern Iowa
-303560046,2010-12-22,2,46,home,FALSE,Georgetown,73,Hoyas,Georgetown Hoyas,Georgetown
-303560046,2010-12-22,2,2154,away,FALSE,Coppin State,52,Eagles,Coppin State Eagles,Coppin St
-303560228,2010-12-22,2,228,home,TRUE,Clemson,58,Tigers,Clemson Tigers,Clemson
-303560228,2010-12-22,2,183,away,TRUE,Syracuse,77,Orange,Syracuse Orange,Syracuse
-303560130,2010-12-22,2,130,home,FALSE,Michigan,68,Wolverines,Michigan Wolverines,Michigan
-303560130,2010-12-22,2,103,away,FALSE,Boston College,55,Eagles,Boston College Eagles,Boston College
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303562633,2011,regular-season,2010-12-22,2,2633,home,FALSE,Tennessee,102,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+303562633,2011,regular-season,2010-12-22,2,2193,away,FALSE,East Tennessee State,53,Bucs,East Tennessee State Bucs,ETSU
+303562539,2011,regular-season,2010-12-22,2,2539,home,FALSE,San Francisco,45,Dons,San Francisco Dons,San Francisco
+303562539,2011,regular-season,2010-12-22,2,24,away,FALSE,Stanford,100,Cardinal,Stanford Cardinal,Stanford
+303562294,2011,regular-season,2010-12-22,2,2294,home,FALSE,Iowa,75,Hawkeyes,Iowa Hawkeyes,Iowa
+303562294,2011,regular-season,2010-12-22,2,2460,away,FALSE,Northern Iowa,64,Panthers,Northern Iowa Panthers,Northern Iowa
+303560046,2011,regular-season,2010-12-22,2,46,home,FALSE,Georgetown,73,Hoyas,Georgetown Hoyas,Georgetown
+303560046,2011,regular-season,2010-12-22,2,2154,away,FALSE,Coppin State,52,Eagles,Coppin State Eagles,Coppin St
+303560228,2011,regular-season,2010-12-22,2,228,home,TRUE,Clemson,58,Tigers,Clemson Tigers,Clemson
+303560228,2011,regular-season,2010-12-22,2,183,away,TRUE,Syracuse,77,Orange,Syracuse Orange,Syracuse
+303560130,2011,regular-season,2010-12-22,2,130,home,FALSE,Michigan,68,Wolverines,Michigan Wolverines,Michigan
+303560130,2011,regular-season,2010-12-22,2,103,away,FALSE,Boston College,55,Eagles,Boston College Eagles,Boston College

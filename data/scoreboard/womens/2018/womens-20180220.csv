@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400998509,2018-02-20,4,2515,home,FALSE,Radford,81,Highlanders,Radford Highlanders,Radford
-400998509,2018-02-20,4,2344,away,FALSE,Longwood,39,Lancers,Longwood Lancers,Longwood
-400998497,2018-02-20,4,2737,home,FALSE,Winthrop,53,Eagles,Winthrop Eagles,Winthrop
-400998497,2018-02-20,4,2335,away,FALSE,Liberty,73,Flames,Liberty Flames,Liberty
-400998313,2018-02-20,4,2241,home,FALSE,Gardner-Webb,50,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-400998313,2018-02-20,4,2506,away,FALSE,Presbyterian,60,Blue Hose,Presbyterian Blue Hose,Presbyterian
-400998191,2018-02-20,4,2272,home,FALSE,High Point,52,Panthers,High Point Panthers,High Point
-400998191,2018-02-20,4,2127,away,FALSE,Charleston Southern,49,Buccaneers,Charleston Southern Buccaneers,Charleston So
-400997930,2018-02-20,4,2427,home,FALSE,UNC Asheville,38,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-400997930,2018-02-20,4,2097,away,FALSE,Campbell,33,Fighting Camels,Campbell Fighting Camels,Campbell
-400996291,2018-02-20,4,2603,home,FALSE,Saint Joseph's,46,Hawks,Saint Joseph's Hawks,Saint Joseph's
-400996291,2018-02-20,4,45,away,FALSE,George Washington,49,Revolutionaries,George Washington Revolutionaries,G Washington
-400994794,2018-02-20,4,315,home,FALSE,Niagara,66,Purple Eagles,Niagara Purple Eagles,Niagara
-400994794,2018-02-20,4,2099,away,FALSE,Canisius,72,Golden Griffins,Canisius Golden Griffins,Canisius
-400994793,2018-02-20,4,314,home,FALSE,Iona,45,Gaels,Iona Gaels,Iona
-400994793,2018-02-20,4,2368,away,FALSE,Marist,55,Red Foxes,Marist Red Foxes,Marist
-400995625,2018-02-20,4,202,home,FALSE,Tulsa,57,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-400995625,2018-02-20,4,151,away,FALSE,East Carolina,59,Pirates,East Carolina Pirates,East Carolina
-400994072,2018-02-20,4,2306,home,FALSE,Kansas State,66,Wildcats,Kansas State Wildcats,Kansas St
-400994072,2018-02-20,4,277,away,FALSE,West Virginia,75,Mountaineers,West Virginia Mountaineers,West Virginia
-400993615,2018-02-20,4,135,home,FALSE,Minnesota,70,Golden Gophers,Minnesota Golden Gophers,Minnesota
-400993615,2018-02-20,4,84,away,FALSE,Indiana,82,Hoosiers,Indiana Hoosiers,Indiana
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400998509,2018,regular-season,2018-02-20,4,2515,home,FALSE,Radford,81,Highlanders,Radford Highlanders,Radford
+400998509,2018,regular-season,2018-02-20,4,2344,away,FALSE,Longwood,39,Lancers,Longwood Lancers,Longwood
+400998497,2018,regular-season,2018-02-20,4,2737,home,FALSE,Winthrop,53,Eagles,Winthrop Eagles,Winthrop
+400998497,2018,regular-season,2018-02-20,4,2335,away,FALSE,Liberty,73,Flames,Liberty Flames,Liberty
+400998313,2018,regular-season,2018-02-20,4,2241,home,FALSE,Gardner-Webb,50,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+400998313,2018,regular-season,2018-02-20,4,2506,away,FALSE,Presbyterian,60,Blue Hose,Presbyterian Blue Hose,Presbyterian
+400998191,2018,regular-season,2018-02-20,4,2272,home,FALSE,High Point,52,Panthers,High Point Panthers,High Point
+400998191,2018,regular-season,2018-02-20,4,2127,away,FALSE,Charleston Southern,49,Buccaneers,Charleston Southern Buccaneers,Charleston So
+400997930,2018,regular-season,2018-02-20,4,2427,home,FALSE,UNC Asheville,38,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+400997930,2018,regular-season,2018-02-20,4,2097,away,FALSE,Campbell,33,Fighting Camels,Campbell Fighting Camels,Campbell
+400996291,2018,regular-season,2018-02-20,4,2603,home,FALSE,Saint Joseph's,46,Hawks,Saint Joseph's Hawks,Saint Joseph's
+400996291,2018,regular-season,2018-02-20,4,45,away,FALSE,George Washington,49,Revolutionaries,George Washington Revolutionaries,G Washington
+400994794,2018,regular-season,2018-02-20,4,315,home,FALSE,Niagara,66,Purple Eagles,Niagara Purple Eagles,Niagara
+400994794,2018,regular-season,2018-02-20,4,2099,away,FALSE,Canisius,72,Golden Griffins,Canisius Golden Griffins,Canisius
+400994793,2018,regular-season,2018-02-20,4,314,home,FALSE,Iona,45,Gaels,Iona Gaels,Iona
+400994793,2018,regular-season,2018-02-20,4,2368,away,FALSE,Marist,55,Red Foxes,Marist Red Foxes,Marist
+400995625,2018,regular-season,2018-02-20,4,202,home,FALSE,Tulsa,57,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+400995625,2018,regular-season,2018-02-20,4,151,away,FALSE,East Carolina,59,Pirates,East Carolina Pirates,East Carolina
+400994072,2018,regular-season,2018-02-20,4,2306,home,FALSE,Kansas State,66,Wildcats,Kansas State Wildcats,Kansas St
+400994072,2018,regular-season,2018-02-20,4,277,away,FALSE,West Virginia,75,Mountaineers,West Virginia Mountaineers,West Virginia
+400993615,2018,regular-season,2018-02-20,4,135,home,FALSE,Minnesota,70,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400993615,2018,regular-season,2018-02-20,4,84,away,FALSE,Indiana,82,Hoosiers,Indiana Hoosiers,Indiana

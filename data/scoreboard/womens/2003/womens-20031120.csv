@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-233242641,2003-11-20,2,2641,home,FALSE,Texas Tech,68,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-233242641,2003-11-20,2,2540,away,FALSE,UC Santa Barbara,41,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-233250204,2003-11-20,2,204,home,FALSE,Oregon State,72,Beavers,Oregon State Beavers,Oregon St
-233250204,2003-11-20,2,3084,away,FALSE,Utah Valley,38,Wolverines,Utah Valley Wolverines,Utah Valley
-233250096,2003-11-20,2,96,home,FALSE,Kentucky,79,Wildcats,Kentucky Wildcats,Kentucky
-233250096,2003-11-20,2,2870,away,FALSE,Purdue Fort Wayne,59,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-233250077,2003-11-20,2,2466,home,FALSE,Northwestern State,41,Lady Demons,Northwestern State Lady Demons,N'Western St
-233250077,2003-11-20,2,2050,away,FALSE,Ball State,59,Cardinals,Ball State Cardinals,Ball State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+233242641,2004,regular-season,2003-11-20,2,2641,home,FALSE,Texas Tech,68,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+233242641,2004,regular-season,2003-11-20,2,2540,away,FALSE,UC Santa Barbara,41,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+233250204,2004,regular-season,2003-11-20,2,204,home,FALSE,Oregon State,72,Beavers,Oregon State Beavers,Oregon St
+233250204,2004,regular-season,2003-11-20,2,3084,away,FALSE,Utah Valley,38,Wolverines,Utah Valley Wolverines,Utah Valley
+233250096,2004,regular-season,2003-11-20,2,96,home,FALSE,Kentucky,79,Wildcats,Kentucky Wildcats,Kentucky
+233250096,2004,regular-season,2003-11-20,2,2870,away,FALSE,Purdue Fort Wayne,59,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+233250077,2004,regular-season,2003-11-20,2,2466,home,FALSE,Northwestern State,41,Lady Demons,Northwestern State Lady Demons,N'Western St
+233250077,2004,regular-season,2003-11-20,2,2050,away,FALSE,Ball State,59,Cardinals,Ball State Cardinals,Ball State

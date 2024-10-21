@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401480035,2022-12-15,4,2571,home,TRUE,South Dakota State,44,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-401480035,2022-12-15,4,2579,away,TRUE,South Carolina,62,Gamecocks,South Carolina Gamecocks,South Carolina
-401480217,2022-12-15,4,152,home,FALSE,NC State,81,Wolfpack,NC State Wolfpack,NC State
-401480217,2022-12-15,4,2166,away,FALSE,Davidson,47,Wildcats,Davidson Wildcats,Davidson
-401488835,2022-12-15,4,30,home,FALSE,USC,56,Trojans,USC Trojans,USC
-401488835,2022-12-15,4,26,away,FALSE,UCLA,59,Bruins,UCLA Bruins,UCLA
-401483580,2022-12-15,4,2483,home,FALSE,Oregon,88,Ducks,Oregon Ducks,Oregon
-401483580,2022-12-15,4,331,away,FALSE,Eastern Washington,38,Eagles,Eastern Washington Eagles,E Washington
-401480320,2022-12-15,4,239,home,FALSE,Baylor,93,Bears,Baylor Bears,Baylor
-401480320,2022-12-15,4,2634,away,FALSE,Tennessee State,27,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401480035,2023,regular-season,2022-12-15,4,2571,home,TRUE,South Dakota State,44,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+401480035,2023,regular-season,2022-12-15,4,2579,away,TRUE,South Carolina,62,Gamecocks,South Carolina Gamecocks,South Carolina
+401480217,2023,regular-season,2022-12-15,4,152,home,FALSE,NC State,81,Wolfpack,NC State Wolfpack,NC State
+401480217,2023,regular-season,2022-12-15,4,2166,away,FALSE,Davidson,47,Wildcats,Davidson Wildcats,Davidson
+401488835,2023,regular-season,2022-12-15,4,30,home,FALSE,USC,56,Trojans,USC Trojans,USC
+401488835,2023,regular-season,2022-12-15,4,26,away,FALSE,UCLA,59,Bruins,UCLA Bruins,UCLA
+401483580,2023,regular-season,2022-12-15,4,2483,home,FALSE,Oregon,88,Ducks,Oregon Ducks,Oregon
+401483580,2023,regular-season,2022-12-15,4,331,away,FALSE,Eastern Washington,38,Eagles,Eastern Washington Eagles,E Washington
+401480320,2023,regular-season,2022-12-15,4,239,home,FALSE,Baylor,93,Bears,Baylor Bears,Baylor
+401480320,2023,regular-season,2022-12-15,4,2634,away,FALSE,Tennessee State,27,Lady Tigers,Tennessee State Lady Tigers,Tennessee St

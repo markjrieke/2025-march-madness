@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401168280,2019-12-28,3,96,home,FALSE,Kentucky,78,Wildcats,Kentucky Wildcats,Kentucky
-401168280,2019-12-28,3,97,away,FALSE,Louisville,70,Cardinals,Louisville Cardinals,Louisville
-401168277,2019-12-28,2,150,home,FALSE,Duke,75,Blue Devils,Duke Blue Devils,Duke
-401168277,2019-12-28,2,225,away,FALSE,Brown,50,Bears,Brown Bears,Brown
-401169467,2019-12-28,2,235,home,FALSE,Memphis,97,Tigers,Memphis Tigers,Memphis
-401169467,2019-12-28,2,2443,away,FALSE,New Orleans,55,Privateers,New Orleans Privateers,New Orleans
-401168296,2019-12-28,2,2086,home,FALSE,Butler,67,Bulldogs,Butler Bulldogs,Butler
-401168296,2019-12-28,2,2433,away,FALSE,UL Monroe,36,Warhawks,UL Monroe Warhawks,UL Monroe
-401171566,2019-12-28,2,21,home,FALSE,San Diego State,73,Aztecs,San Diego State Aztecs,San Diego St
-401171566,2019-12-28,2,13,away,FALSE,Cal Poly,57,Mustangs,Cal Poly Mustangs,Cal Poly
-401168278,2019-12-28,2,52,home,FALSE,Florida State,88,Seminoles,Florida State Seminoles,Florida St
-401168278,2019-12-28,2,2453,away,FALSE,North Alabama,71,Lions,North Alabama Lions,North Alabama
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401168280,2020,regular-season,2019-12-28,3,96,home,FALSE,Kentucky,78,Wildcats,Kentucky Wildcats,Kentucky
+401168280,2020,regular-season,2019-12-28,3,97,away,FALSE,Louisville,70,Cardinals,Louisville Cardinals,Louisville
+401168277,2020,regular-season,2019-12-28,2,150,home,FALSE,Duke,75,Blue Devils,Duke Blue Devils,Duke
+401168277,2020,regular-season,2019-12-28,2,225,away,FALSE,Brown,50,Bears,Brown Bears,Brown
+401169467,2020,regular-season,2019-12-28,2,235,home,FALSE,Memphis,97,Tigers,Memphis Tigers,Memphis
+401169467,2020,regular-season,2019-12-28,2,2443,away,FALSE,New Orleans,55,Privateers,New Orleans Privateers,New Orleans
+401168296,2020,regular-season,2019-12-28,2,2086,home,FALSE,Butler,67,Bulldogs,Butler Bulldogs,Butler
+401168296,2020,regular-season,2019-12-28,2,2433,away,FALSE,UL Monroe,36,Warhawks,UL Monroe Warhawks,UL Monroe
+401171566,2020,regular-season,2019-12-28,2,21,home,FALSE,San Diego State,73,Aztecs,San Diego State Aztecs,San Diego St
+401171566,2020,regular-season,2019-12-28,2,13,away,FALSE,Cal Poly,57,Mustangs,Cal Poly Mustangs,Cal Poly
+401168278,2020,regular-season,2019-12-28,2,52,home,FALSE,Florida State,88,Seminoles,Florida State Seminoles,Florida St
+401168278,2020,regular-season,2019-12-28,2,2453,away,FALSE,North Alabama,71,Lions,North Alabama Lions,North Alabama

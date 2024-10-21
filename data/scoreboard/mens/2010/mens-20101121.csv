@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303250153,2010-11-21,2,153,home,TRUE,North Carolina,65,Tar Heels,North Carolina Tar Heels,North Carolina
-303250153,2010-11-21,2,238,away,TRUE,Vanderbilt,72,Commodores,Vanderbilt Commodores,Vanderbilt
-303250057,2010-11-21,2,57,home,FALSE,Florida,61,Gators,Florida Gators,Florida
-303250057,2010-11-21,2,2413,away,FALSE,Morehead State,55,Eagles,Morehead State Eagles,Morehead St
-303250183,2010-11-21,2,183,home,FALSE,Syracuse,63,Orange,Syracuse Orange,Syracuse
-303250183,2010-11-21,2,2729,away,FALSE,William & Mary,60,Tribe,William & Mary Tribe,William & Mary
-303252509,2010-11-21,2,2509,home,FALSE,Purdue,82,Boilermakers,Purdue Boilermakers,Purdue
-303252509,2010-11-21,2,2473,away,FALSE,Oakland,67,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-303250099,2010-11-21,2,235,home,TRUE,Memphis,70,Tigers,Memphis Tigers,Memphis
-303250099,2010-11-21,2,99,away,TRUE,LSU,61,Tigers,LSU Tigers,LSU
-303250152,2010-11-21,2,152,home,TRUE,NC State,67,Wolfpack,NC State Wolfpack,NC State
-303250152,2010-11-21,2,46,away,TRUE,Georgetown,82,Hoyas,Georgetown Hoyas,Georgetown
-303252430,2010-11-21,2,2430,home,FALSE,UNC Greensboro,70,Spartans,UNC Greensboro Spartans,UNC Greensboro
-303252430,2010-11-21,2,259,away,FALSE,Virginia Tech,92,Hokies,Virginia Tech Hokies,Virginia Tech
-303250085,2010-11-21,2,85,home,TRUE,IU Indianapolis,46,Jaguars,IU Indianapolis Jaguars,IU Indy
-303250085,2010-11-21,2,21,away,TRUE,San Diego State,61,Aztecs,San Diego State Aztecs,San Diego St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303250153,2011,regular-season,2010-11-21,2,153,home,TRUE,North Carolina,65,Tar Heels,North Carolina Tar Heels,North Carolina
+303250153,2011,regular-season,2010-11-21,2,238,away,TRUE,Vanderbilt,72,Commodores,Vanderbilt Commodores,Vanderbilt
+303250057,2011,regular-season,2010-11-21,2,57,home,FALSE,Florida,61,Gators,Florida Gators,Florida
+303250057,2011,regular-season,2010-11-21,2,2413,away,FALSE,Morehead State,55,Eagles,Morehead State Eagles,Morehead St
+303250183,2011,regular-season,2010-11-21,2,183,home,FALSE,Syracuse,63,Orange,Syracuse Orange,Syracuse
+303250183,2011,regular-season,2010-11-21,2,2729,away,FALSE,William & Mary,60,Tribe,William & Mary Tribe,William & Mary
+303252509,2011,regular-season,2010-11-21,2,2509,home,FALSE,Purdue,82,Boilermakers,Purdue Boilermakers,Purdue
+303252509,2011,regular-season,2010-11-21,2,2473,away,FALSE,Oakland,67,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+303250099,2011,regular-season,2010-11-21,2,235,home,TRUE,Memphis,70,Tigers,Memphis Tigers,Memphis
+303250099,2011,regular-season,2010-11-21,2,99,away,TRUE,LSU,61,Tigers,LSU Tigers,LSU
+303250152,2011,regular-season,2010-11-21,2,152,home,TRUE,NC State,67,Wolfpack,NC State Wolfpack,NC State
+303250152,2011,regular-season,2010-11-21,2,46,away,TRUE,Georgetown,82,Hoyas,Georgetown Hoyas,Georgetown
+303252430,2011,regular-season,2010-11-21,2,2430,home,FALSE,UNC Greensboro,70,Spartans,UNC Greensboro Spartans,UNC Greensboro
+303252430,2011,regular-season,2010-11-21,2,259,away,FALSE,Virginia Tech,92,Hokies,Virginia Tech Hokies,Virginia Tech
+303250085,2011,regular-season,2010-11-21,2,85,home,TRUE,IU Indianapolis,46,Jaguars,IU Indianapolis Jaguars,IU Indy
+303250085,2011,regular-season,2010-11-21,2,21,away,TRUE,San Diego State,61,Aztecs,San Diego State Aztecs,San Diego St

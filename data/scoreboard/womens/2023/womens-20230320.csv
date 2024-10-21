@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401528009,2023-03-20,4,194,home,FALSE,Ohio State,71,Buckeyes,Ohio State Buckeyes,Ohio State
-401528009,2023-03-20,4,153,away,FALSE,North Carolina,69,Tar Heels,North Carolina Tar Heels,North Carolina
-401528010,2023-03-20,4,2633,home,FALSE,Tennessee,94,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401528010,2023-03-20,4,2649,away,FALSE,Toledo,47,Rockets,Toledo Rockets,Toledo
-401528011,2023-03-20,4,222,home,FALSE,Villanova,76,Wildcats,Villanova Wildcats,Villanova
-401528011,2023-03-20,4,526,away,FALSE,Florida Gulf Coast,57,Eagles,Florida Gulf Coast Eagles,FGCU
-401528007,2023-03-20,4,251,home,FALSE,Texas,51,Longhorns,Texas Longhorns,Texas
-401528007,2023-03-20,4,97,away,FALSE,Louisville,73,Cardinals,Louisville Cardinals,Louisville
-401528012,2023-03-20,4,84,home,FALSE,Indiana,68,Hoosiers,Indiana Hoosiers,Indiana
-401528012,2023-03-20,4,2390,away,FALSE,Miami,70,Hurricanes,Miami Hurricanes,Miami
-401528008,2023-03-20,4,41,home,FALSE,UConn,77,Huskies,UConn Huskies,UConn
-401528008,2023-03-20,4,239,away,FALSE,Baylor,58,Bears,Baylor Bears,Baylor
-401528006,2023-03-20,5,150,home,FALSE,Duke,53,Blue Devils,Duke Blue Devils,Duke
-401528006,2023-03-20,5,38,away,FALSE,Colorado,61,Buffaloes,Colorado Buffaloes,Colorado
-401528013,2023-03-20,4,26,home,FALSE,UCLA,82,Bruins,UCLA Bruins,UCLA
-401528013,2023-03-20,4,201,away,FALSE,Oklahoma,73,Sooners,Oklahoma Sooners,Oklahoma
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401528009,2023,post-season,2023-03-20,4,194,home,FALSE,Ohio State,71,Buckeyes,Ohio State Buckeyes,Ohio State
+401528009,2023,post-season,2023-03-20,4,153,away,FALSE,North Carolina,69,Tar Heels,North Carolina Tar Heels,North Carolina
+401528010,2023,post-season,2023-03-20,4,2633,home,FALSE,Tennessee,94,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401528010,2023,post-season,2023-03-20,4,2649,away,FALSE,Toledo,47,Rockets,Toledo Rockets,Toledo
+401528011,2023,post-season,2023-03-20,4,222,home,FALSE,Villanova,76,Wildcats,Villanova Wildcats,Villanova
+401528011,2023,post-season,2023-03-20,4,526,away,FALSE,Florida Gulf Coast,57,Eagles,Florida Gulf Coast Eagles,FGCU
+401528007,2023,post-season,2023-03-20,4,251,home,FALSE,Texas,51,Longhorns,Texas Longhorns,Texas
+401528007,2023,post-season,2023-03-20,4,97,away,FALSE,Louisville,73,Cardinals,Louisville Cardinals,Louisville
+401528012,2023,post-season,2023-03-20,4,84,home,FALSE,Indiana,68,Hoosiers,Indiana Hoosiers,Indiana
+401528012,2023,post-season,2023-03-20,4,2390,away,FALSE,Miami,70,Hurricanes,Miami Hurricanes,Miami
+401528008,2023,post-season,2023-03-20,4,41,home,FALSE,UConn,77,Huskies,UConn Huskies,UConn
+401528008,2023,post-season,2023-03-20,4,239,away,FALSE,Baylor,58,Bears,Baylor Bears,Baylor
+401528006,2023,post-season,2023-03-20,5,150,home,FALSE,Duke,53,Blue Devils,Duke Blue Devils,Duke
+401528006,2023,post-season,2023-03-20,5,38,away,FALSE,Colorado,61,Buffaloes,Colorado Buffaloes,Colorado
+401528013,2023,post-season,2023-03-20,4,26,home,FALSE,UCLA,82,Bruins,UCLA Bruins,UCLA
+401528013,2023,post-season,2023-03-20,4,201,away,FALSE,Oklahoma,73,Sooners,Oklahoma Sooners,Oklahoma

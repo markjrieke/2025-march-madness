@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401092348,2018-11-13,4,98,home,FALSE,Western Kentucky,67,Lady Toppers,Western Kentucky Lady Toppers,Western KY
-401092348,2018-11-13,4,2294,away,FALSE,Iowa,104,Hawkeyes,Iowa Hawkeyes,Iowa
-401091417,2018-11-13,4,142,home,FALSE,Missouri,65,Tigers,Missouri Tigers,Missouri
-401091417,2018-11-13,4,2623,away,FALSE,Missouri State,61,Lady Bears,Missouri State Lady Bears,Missouri St
-401093921,2018-11-13,4,252,home,FALSE,BYU,52,Cougars,BYU Cougars,BYU
-401093921,2018-11-13,4,25,away,FALSE,California,70,Golden Bears,California Golden Bears,California
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401092348,2019,regular-season,2018-11-13,4,98,home,FALSE,Western Kentucky,67,Lady Toppers,Western Kentucky Lady Toppers,Western KY
+401092348,2019,regular-season,2018-11-13,4,2294,away,FALSE,Iowa,104,Hawkeyes,Iowa Hawkeyes,Iowa
+401091417,2019,regular-season,2018-11-13,4,142,home,FALSE,Missouri,65,Tigers,Missouri Tigers,Missouri
+401091417,2019,regular-season,2018-11-13,4,2623,away,FALSE,Missouri State,61,Lady Bears,Missouri State Lady Bears,Missouri St
+401093921,2019,regular-season,2018-11-13,4,252,home,FALSE,BYU,52,Cougars,BYU Cougars,BYU
+401093921,2019,regular-season,2018-11-13,4,25,away,FALSE,California,70,Golden Bears,California Golden Bears,California

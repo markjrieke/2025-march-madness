@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401172116,2020-01-05,4,24,home,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
-401172116,2020-01-05,4,264,away,FALSE,Washington,56,Huskies,Washington Huskies,Washington
-401172114,2020-01-05,4,2483,home,FALSE,Oregon,88,Ducks,Oregon Ducks,Oregon
-401172114,2020-01-05,4,254,away,FALSE,Utah,51,Utes,Utah Utes,Utah
-401166622,2020-01-05,4,333,home,FALSE,Alabama,78,Crimson Tide,Alabama Crimson Tide,Alabama
-401166622,2020-01-05,4,2579,away,FALSE,South Carolina,93,Gamecocks,South Carolina Gamecocks,South Carolina
-401171220,2020-01-05,4,97,home,FALSE,Louisville,60,Cardinals,Louisville Cardinals,Louisville
-401171220,2020-01-05,4,150,away,FALSE,Duke,55,Blue Devils,Duke Blue Devils,Duke
-401171219,2020-01-05,4,152,home,FALSE,NC State,80,Wolfpack,NC State Wolfpack,NC State
-401171219,2020-01-05,4,258,away,FALSE,Virginia,60,Cavaliers,Virginia Cavaliers,Virginia
-401172111,2020-01-05,4,26,home,FALSE,UCLA,70,Bruins,UCLA Bruins,UCLA
-401172111,2020-01-05,4,12,away,FALSE,Arizona,58,Wildcats,Arizona Wildcats,Arizona
-401166625,2020-01-05,4,61,home,FALSE,Georgia,66,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-401166625,2020-01-05,4,344,away,FALSE,Mississippi State,73,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401177479,2020-01-05,4,156,home,FALSE,Creighton,71,Bluejays,Creighton Bluejays,Creighton
-401177479,2020-01-05,4,305,away,FALSE,DePaul,74,Blue Demons,DePaul Blue Demons,DePaul
-401166816,2020-01-05,4,130,home,FALSE,Michigan,89,Wolverines,Michigan Wolverines,Michigan
-401166816,2020-01-05,4,127,away,FALSE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
-401179844,2020-01-05,4,2674,home,FALSE,Valparaiso,68,Beacons,Valparaiso Beacons,Valparaiso
-401179844,2020-01-05,4,2623,away,FALSE,Missouri State,81,Lady Bears,Missouri State Lady Bears,Missouri St
-401166623,2020-01-05,4,2,home,FALSE,Auburn,70,Tigers,Auburn Tigers,Auburn
-401166623,2020-01-05,4,8,away,FALSE,Arkansas,86,Razorbacks,Arkansas Razorbacks,Arkansas
-401176899,2020-01-05,4,2306,home,FALSE,Kansas State,63,Wildcats,Kansas State Wildcats,Kansas St
-401176899,2020-01-05,4,277,away,FALSE,West Virginia,74,Mountaineers,West Virginia Mountaineers,West Virginia
-401179937,2020-01-05,4,233,home,FALSE,South Dakota,104,Coyotes,South Dakota Coyotes,South Dakota
-401179937,2020-01-05,4,2172,away,FALSE,Denver,61,Pioneers,Denver Pioneers,Denver
-401172113,2020-01-05,4,204,home,FALSE,Oregon State,72,Beavers,Oregon State Beavers,Oregon St
-401172113,2020-01-05,4,38,away,FALSE,Colorado,60,Buffaloes,Colorado Buffaloes,Colorado
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401172116,2020,regular-season,2020-01-05,4,24,home,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
+401172116,2020,regular-season,2020-01-05,4,264,away,FALSE,Washington,56,Huskies,Washington Huskies,Washington
+401172114,2020,regular-season,2020-01-05,4,2483,home,FALSE,Oregon,88,Ducks,Oregon Ducks,Oregon
+401172114,2020,regular-season,2020-01-05,4,254,away,FALSE,Utah,51,Utes,Utah Utes,Utah
+401166622,2020,regular-season,2020-01-05,4,333,home,FALSE,Alabama,78,Crimson Tide,Alabama Crimson Tide,Alabama
+401166622,2020,regular-season,2020-01-05,4,2579,away,FALSE,South Carolina,93,Gamecocks,South Carolina Gamecocks,South Carolina
+401171220,2020,regular-season,2020-01-05,4,97,home,FALSE,Louisville,60,Cardinals,Louisville Cardinals,Louisville
+401171220,2020,regular-season,2020-01-05,4,150,away,FALSE,Duke,55,Blue Devils,Duke Blue Devils,Duke
+401171219,2020,regular-season,2020-01-05,4,152,home,FALSE,NC State,80,Wolfpack,NC State Wolfpack,NC State
+401171219,2020,regular-season,2020-01-05,4,258,away,FALSE,Virginia,60,Cavaliers,Virginia Cavaliers,Virginia
+401172111,2020,regular-season,2020-01-05,4,26,home,FALSE,UCLA,70,Bruins,UCLA Bruins,UCLA
+401172111,2020,regular-season,2020-01-05,4,12,away,FALSE,Arizona,58,Wildcats,Arizona Wildcats,Arizona
+401166625,2020,regular-season,2020-01-05,4,61,home,FALSE,Georgia,66,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+401166625,2020,regular-season,2020-01-05,4,344,away,FALSE,Mississippi State,73,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401177479,2020,regular-season,2020-01-05,4,156,home,FALSE,Creighton,71,Bluejays,Creighton Bluejays,Creighton
+401177479,2020,regular-season,2020-01-05,4,305,away,FALSE,DePaul,74,Blue Demons,DePaul Blue Demons,DePaul
+401166816,2020,regular-season,2020-01-05,4,130,home,FALSE,Michigan,89,Wolverines,Michigan Wolverines,Michigan
+401166816,2020,regular-season,2020-01-05,4,127,away,FALSE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
+401179844,2020,regular-season,2020-01-05,4,2674,home,FALSE,Valparaiso,68,Beacons,Valparaiso Beacons,Valparaiso
+401179844,2020,regular-season,2020-01-05,4,2623,away,FALSE,Missouri State,81,Lady Bears,Missouri State Lady Bears,Missouri St
+401166623,2020,regular-season,2020-01-05,4,2,home,FALSE,Auburn,70,Tigers,Auburn Tigers,Auburn
+401166623,2020,regular-season,2020-01-05,4,8,away,FALSE,Arkansas,86,Razorbacks,Arkansas Razorbacks,Arkansas
+401176899,2020,regular-season,2020-01-05,4,2306,home,FALSE,Kansas State,63,Wildcats,Kansas State Wildcats,Kansas St
+401176899,2020,regular-season,2020-01-05,4,277,away,FALSE,West Virginia,74,Mountaineers,West Virginia Mountaineers,West Virginia
+401179937,2020,regular-season,2020-01-05,4,233,home,FALSE,South Dakota,104,Coyotes,South Dakota Coyotes,South Dakota
+401179937,2020,regular-season,2020-01-05,4,2172,away,FALSE,Denver,61,Pioneers,Denver Pioneers,Denver
+401172113,2020,regular-season,2020-01-05,4,204,home,FALSE,Oregon State,72,Beavers,Oregon State Beavers,Oregon St
+401172113,2020,regular-season,2020-01-05,4,38,away,FALSE,Colorado,60,Buffaloes,Colorado Buffaloes,Colorado

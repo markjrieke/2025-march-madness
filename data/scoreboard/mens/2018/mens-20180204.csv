@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400988599,2018-02-04,2,222,home,FALSE,Villanova,92,Wildcats,Villanova Wildcats,Villanova
-400988599,2018-02-04,2,2550,away,FALSE,Seton Hall,76,Pirates,Seton Hall Pirates,Seton Hall
-400986549,2018-02-04,2,194,home,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
-400986549,2018-02-04,2,356,away,FALSE,Illinois,67,Fighting Illini,Illinois Fighting Illini,Illinois
-400988351,2018-02-04,2,265,home,FALSE,Washington State,78,Cougars,Washington State Cougars,Washington St
-400988351,2018-02-04,2,9,away,FALSE,Arizona State,88,Sun Devils,Arizona State Sun Devils,Arizona St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400988599,2018,regular-season,2018-02-04,2,222,home,FALSE,Villanova,92,Wildcats,Villanova Wildcats,Villanova
+400988599,2018,regular-season,2018-02-04,2,2550,away,FALSE,Seton Hall,76,Pirates,Seton Hall Pirates,Seton Hall
+400986549,2018,regular-season,2018-02-04,2,194,home,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
+400986549,2018,regular-season,2018-02-04,2,356,away,FALSE,Illinois,67,Fighting Illini,Illinois Fighting Illini,Illinois
+400988351,2018,regular-season,2018-02-04,2,265,home,FALSE,Washington State,78,Cougars,Washington State Cougars,Washington St
+400988351,2018,regular-season,2018-02-04,2,9,away,FALSE,Arizona State,88,Sun Devils,Arizona State Sun Devils,Arizona St

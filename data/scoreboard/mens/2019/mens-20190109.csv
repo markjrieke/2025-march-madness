@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401082625,2019-01-09,2,103,home,FALSE,Boston College,56,Eagles,Boston College Eagles,Boston College
-401082625,2019-01-09,2,258,away,FALSE,Virginia,83,Cavaliers,Virginia Cavaliers,Virginia
-401083520,2019-01-09,2,2305,home,FALSE,Kansas,77,Jayhawks,Kansas Jayhawks,Kansas
-401083520,2019-01-09,2,2628,away,FALSE,TCU,68,Horned Frogs,TCU Horned Frogs,TCU
-401082750,2019-01-09,2,59,home,FALSE,Georgia Tech,49,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-401082750,2019-01-09,2,259,away,FALSE,Virginia Tech,52,Hokies,Virginia Tech Hokies,Virginia Tech
-401089697,2019-01-09,2,2440,home,FALSE,Nevada,92,Wolf Pack,Nevada Wolf Pack,Nevada
-401089697,2019-01-09,2,23,away,FALSE,San José State,53,Spartans,San José State Spartans,San José St
-401082705,2019-01-09,2,52,home,FALSE,Florida State,68,Seminoles,Florida State Seminoles,Florida St
-401082705,2019-01-09,2,2390,away,FALSE,Miami,62,Hurricanes,Miami Hurricanes,Miami
-401082558,2019-01-09,2,164,home,FALSE,Rutgers,64,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-401082558,2019-01-09,2,194,away,FALSE,Ohio State,61,Buckeyes,Ohio State Buckeyes,Ohio State
-401084757,2019-01-09,2,218,home,FALSE,Temple,73,Owls,Temple Owls,Temple
-401084757,2019-01-09,2,248,away,FALSE,Houston,69,Cougars,Houston Cougars,Houston
-401083229,2019-01-09,3,156,home,FALSE,Creighton,104,Bluejays,Creighton Bluejays,Creighton
-401083229,2019-01-09,3,269,away,FALSE,Marquette,106,Golden Eagles,Marquette Golden Eagles,Marquette
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401082625,2019,regular-season,2019-01-09,2,103,home,FALSE,Boston College,56,Eagles,Boston College Eagles,Boston College
+401082625,2019,regular-season,2019-01-09,2,258,away,FALSE,Virginia,83,Cavaliers,Virginia Cavaliers,Virginia
+401083520,2019,regular-season,2019-01-09,2,2305,home,FALSE,Kansas,77,Jayhawks,Kansas Jayhawks,Kansas
+401083520,2019,regular-season,2019-01-09,2,2628,away,FALSE,TCU,68,Horned Frogs,TCU Horned Frogs,TCU
+401082750,2019,regular-season,2019-01-09,2,59,home,FALSE,Georgia Tech,49,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+401082750,2019,regular-season,2019-01-09,2,259,away,FALSE,Virginia Tech,52,Hokies,Virginia Tech Hokies,Virginia Tech
+401089697,2019,regular-season,2019-01-09,2,2440,home,FALSE,Nevada,92,Wolf Pack,Nevada Wolf Pack,Nevada
+401089697,2019,regular-season,2019-01-09,2,23,away,FALSE,San José State,53,Spartans,San José State Spartans,San José St
+401082705,2019,regular-season,2019-01-09,2,52,home,FALSE,Florida State,68,Seminoles,Florida State Seminoles,Florida St
+401082705,2019,regular-season,2019-01-09,2,2390,away,FALSE,Miami,62,Hurricanes,Miami Hurricanes,Miami
+401082558,2019,regular-season,2019-01-09,2,164,home,FALSE,Rutgers,64,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401082558,2019,regular-season,2019-01-09,2,194,away,FALSE,Ohio State,61,Buckeyes,Ohio State Buckeyes,Ohio State
+401084757,2019,regular-season,2019-01-09,2,218,home,FALSE,Temple,73,Owls,Temple Owls,Temple
+401084757,2019,regular-season,2019-01-09,2,248,away,FALSE,Houston,69,Cougars,Houston Cougars,Houston
+401083229,2019,regular-season,2019-01-09,3,156,home,FALSE,Creighton,104,Bluejays,Creighton Bluejays,Creighton
+401083229,2019,regular-season,2019-01-09,3,269,away,FALSE,Marquette,106,Golden Eagles,Marquette Golden Eagles,Marquette

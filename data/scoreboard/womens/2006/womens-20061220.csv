@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263542599,2006-12-20,2,2599,home,FALSE,St. John's,43,Red Storm,St. John's Red Storm,St John's
-263542599,2006-12-20,2,153,away,FALSE,North Carolina,87,Tar Heels,North Carolina Tar Heels,North Carolina
-263540201,2006-12-20,2,201,home,FALSE,Oklahoma,67,Sooners,Oklahoma Sooners,Oklahoma
-263540201,2006-12-20,2,194,away,FALSE,Ohio State,74,Buckeyes,Ohio State Buckeyes,Ohio State
-263540150,2006-12-20,2,2567,home,FALSE,SMU,45,Mustangs,SMU Mustangs,SMU
-263540150,2006-12-20,2,150,away,FALSE,Duke,75,Blue Devils,Duke Blue Devils,Duke
-263542633,2006-12-20,2,2633,home,FALSE,Tennessee,66,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-263542633,2006-12-20,2,277,away,FALSE,West Virginia,51,Mountaineers,West Virginia Mountaineers,West Virginia
-263540099,2006-12-20,2,99,home,FALSE,LSU,83,Tigers,LSU Tigers,LSU
-263540099,2006-12-20,2,2377,away,FALSE,McNeese,28,Cowgirls,McNeese Cowgirls,McNeese
-263542244,2006-12-20,2,2244,home,FALSE,George Mason,51,Patriots,George Mason Patriots,George Mason
-263542244,2006-12-20,2,61,away,FALSE,Georgia,76,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-263540238,2006-12-20,2,238,home,FALSE,Vanderbilt,109,Commodores,Vanderbilt Commodores,Vanderbilt
-263540238,2006-12-20,2,288,away,FALSE,Lipscomb,40,Bisons,Lipscomb Bisons,Lipscomb
-263542509,2006-12-20,2,2509,home,FALSE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
-263542509,2006-12-20,2,2636,away,FALSE,UTSA,50,Roadrunners,UTSA Roadrunners,UTSA
-263540030,2006-12-20,2,30,home,FALSE,USC,46,Trojans,USC Trojans,USC
-263540030,2006-12-20,2,24,away,FALSE,Stanford,62,Cardinal,Stanford Cardinal,Stanford
-263540026,2006-12-20,3,26,home,FALSE,UCLA,77,Bruins,UCLA Bruins,UCLA
-263540026,2006-12-20,3,25,away,FALSE,California,68,Golden Bears,California Golden Bears,California
-263542350,2006-12-20,2,2350,home,FALSE,Loyola Chicago,70,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-263542350,2006-12-20,2,305,away,FALSE,DePaul,97,Blue Demons,DePaul Blue Demons,DePaul
-263540245,2006-12-20,2,245,home,FALSE,Texas A&M,70,Aggies,Texas A&M Aggies,Texas A&M
-263540245,2006-12-20,2,2169,away,FALSE,Delaware State,43,Hornets,Delaware State Hornets,Delaware St
-263542540,2006-12-20,2,2540,home,FALSE,UC Santa Barbara,45,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-263542540,2006-12-20,2,127,away,FALSE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
-263540221,2006-12-20,2,2335,home,FALSE,Liberty,47,Flames,Liberty Flames,Liberty
-263540221,2006-12-20,2,221,away,FALSE,Pittsburgh,54,Panthers,Pittsburgh Panthers,Pitt
-263540008,2006-12-20,2,8,home,FALSE,Arkansas,75,Razorbacks,Arkansas Razorbacks,Arkansas
-263540008,2006-12-20,2,2617,away,FALSE,Stephen F. Austin,54,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
-263540189,2006-12-20,2,189,home,FALSE,Bowling Green,59,Falcons,Bowling Green Falcons,Bowling Green
-263540189,2006-12-20,2,250,away,FALSE,UT Arlington,48,Mavericks,UT Arlington Mavericks,UT Arlington
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263542599,2007,regular-season,2006-12-20,2,2599,home,FALSE,St. John's,43,Red Storm,St. John's Red Storm,St John's
+263542599,2007,regular-season,2006-12-20,2,153,away,FALSE,North Carolina,87,Tar Heels,North Carolina Tar Heels,North Carolina
+263540201,2007,regular-season,2006-12-20,2,201,home,FALSE,Oklahoma,67,Sooners,Oklahoma Sooners,Oklahoma
+263540201,2007,regular-season,2006-12-20,2,194,away,FALSE,Ohio State,74,Buckeyes,Ohio State Buckeyes,Ohio State
+263540150,2007,regular-season,2006-12-20,2,2567,home,FALSE,SMU,45,Mustangs,SMU Mustangs,SMU
+263540150,2007,regular-season,2006-12-20,2,150,away,FALSE,Duke,75,Blue Devils,Duke Blue Devils,Duke
+263542633,2007,regular-season,2006-12-20,2,2633,home,FALSE,Tennessee,66,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+263542633,2007,regular-season,2006-12-20,2,277,away,FALSE,West Virginia,51,Mountaineers,West Virginia Mountaineers,West Virginia
+263540099,2007,regular-season,2006-12-20,2,99,home,FALSE,LSU,83,Tigers,LSU Tigers,LSU
+263540099,2007,regular-season,2006-12-20,2,2377,away,FALSE,McNeese,28,Cowgirls,McNeese Cowgirls,McNeese
+263542244,2007,regular-season,2006-12-20,2,2244,home,FALSE,George Mason,51,Patriots,George Mason Patriots,George Mason
+263542244,2007,regular-season,2006-12-20,2,61,away,FALSE,Georgia,76,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+263540238,2007,regular-season,2006-12-20,2,238,home,FALSE,Vanderbilt,109,Commodores,Vanderbilt Commodores,Vanderbilt
+263540238,2007,regular-season,2006-12-20,2,288,away,FALSE,Lipscomb,40,Bisons,Lipscomb Bisons,Lipscomb
+263542509,2007,regular-season,2006-12-20,2,2509,home,FALSE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
+263542509,2007,regular-season,2006-12-20,2,2636,away,FALSE,UTSA,50,Roadrunners,UTSA Roadrunners,UTSA
+263540030,2007,regular-season,2006-12-20,2,30,home,FALSE,USC,46,Trojans,USC Trojans,USC
+263540030,2007,regular-season,2006-12-20,2,24,away,FALSE,Stanford,62,Cardinal,Stanford Cardinal,Stanford
+263540026,2007,regular-season,2006-12-20,3,26,home,FALSE,UCLA,77,Bruins,UCLA Bruins,UCLA
+263540026,2007,regular-season,2006-12-20,3,25,away,FALSE,California,68,Golden Bears,California Golden Bears,California
+263542350,2007,regular-season,2006-12-20,2,2350,home,FALSE,Loyola Chicago,70,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+263542350,2007,regular-season,2006-12-20,2,305,away,FALSE,DePaul,97,Blue Demons,DePaul Blue Demons,DePaul
+263540245,2007,regular-season,2006-12-20,2,245,home,FALSE,Texas A&M,70,Aggies,Texas A&M Aggies,Texas A&M
+263540245,2007,regular-season,2006-12-20,2,2169,away,FALSE,Delaware State,43,Hornets,Delaware State Hornets,Delaware St
+263542540,2007,regular-season,2006-12-20,2,2540,home,FALSE,UC Santa Barbara,45,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+263542540,2007,regular-season,2006-12-20,2,127,away,FALSE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
+263540221,2007,regular-season,2006-12-20,2,2335,home,FALSE,Liberty,47,Flames,Liberty Flames,Liberty
+263540221,2007,regular-season,2006-12-20,2,221,away,FALSE,Pittsburgh,54,Panthers,Pittsburgh Panthers,Pitt
+263540008,2007,regular-season,2006-12-20,2,8,home,FALSE,Arkansas,75,Razorbacks,Arkansas Razorbacks,Arkansas
+263540008,2007,regular-season,2006-12-20,2,2617,away,FALSE,Stephen F. Austin,54,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
+263540189,2007,regular-season,2006-12-20,2,189,home,FALSE,Bowling Green,59,Falcons,Bowling Green Falcons,Bowling Green
+263540189,2007,regular-season,2006-12-20,2,250,away,FALSE,UT Arlington,48,Mavericks,UT Arlington Mavericks,UT Arlington

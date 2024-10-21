@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401364587,2022-02-19,4,84,home,FALSE,Indiana,91,Hoosiers,Indiana Hoosiers,Indiana
-401364587,2022-02-19,4,2294,away,FALSE,Iowa,96,Hawkeyes,Iowa Hawkeyes,Iowa
-401368100,2022-02-19,4,66,home,FALSE,Iowa State,89,Cyclones,Iowa State Cyclones,Iowa State
-401368100,2022-02-19,4,201,away,FALSE,Oklahoma,67,Sooners,Oklahoma Sooners,Oklahoma
-401368098,2022-02-19,4,2628,home,FALSE,TCU,59,Horned Frogs,TCU Horned Frogs,TCU
-401368098,2022-02-19,4,239,away,FALSE,Baylor,78,Bears,Baylor Bears,Baylor
-401367935,2022-02-19,4,252,home,FALSE,BYU,63,Cougars,BYU Cougars,BYU
-401367935,2022-02-19,4,2250,away,FALSE,Gonzaga,39,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401374024,2022-02-19,4,2454,home,FALSE,North Florida,52,Ospreys,North Florida Ospreys,North Florida
-401374024,2022-02-19,4,526,away,FALSE,Florida Gulf Coast,63,Eagles,Florida Gulf Coast Eagles,FGCU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401364587,2022,regular-season,2022-02-19,4,84,home,FALSE,Indiana,91,Hoosiers,Indiana Hoosiers,Indiana
+401364587,2022,regular-season,2022-02-19,4,2294,away,FALSE,Iowa,96,Hawkeyes,Iowa Hawkeyes,Iowa
+401368100,2022,regular-season,2022-02-19,4,66,home,FALSE,Iowa State,89,Cyclones,Iowa State Cyclones,Iowa State
+401368100,2022,regular-season,2022-02-19,4,201,away,FALSE,Oklahoma,67,Sooners,Oklahoma Sooners,Oklahoma
+401368098,2022,regular-season,2022-02-19,4,2628,home,FALSE,TCU,59,Horned Frogs,TCU Horned Frogs,TCU
+401368098,2022,regular-season,2022-02-19,4,239,away,FALSE,Baylor,78,Bears,Baylor Bears,Baylor
+401367935,2022,regular-season,2022-02-19,4,252,home,FALSE,BYU,63,Cougars,BYU Cougars,BYU
+401367935,2022,regular-season,2022-02-19,4,2250,away,FALSE,Gonzaga,39,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401374024,2022,regular-season,2022-02-19,4,2454,home,FALSE,North Florida,52,Ospreys,North Florida Ospreys,North Florida
+401374024,2022,regular-season,2022-02-19,4,526,away,FALSE,Florida Gulf Coast,63,Eagles,Florida Gulf Coast Eagles,FGCU

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401166847,2020-01-20,4,120,home,FALSE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
-401166847,2020-01-20,4,84,away,FALSE,Indiana,62,Hoosiers,Indiana Hoosiers,Indiana
-401166672,2020-01-20,4,2633,home,FALSE,Tennessee,65,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401166672,2020-01-20,4,333,away,FALSE,Alabama,63,Crimson Tide,Alabama Crimson Tide,Alabama
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401166847,2020,regular-season,2020-01-20,4,120,home,FALSE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
+401166847,2020,regular-season,2020-01-20,4,84,away,FALSE,Indiana,62,Hoosiers,Indiana Hoosiers,Indiana
+401166672,2020,regular-season,2020-01-20,4,2633,home,FALSE,Tennessee,65,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401166672,2020,regular-season,2020-01-20,4,333,away,FALSE,Alabama,63,Crimson Tide,Alabama Crimson Tide,Alabama

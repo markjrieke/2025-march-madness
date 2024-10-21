@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401589287,2024-01-01,4,2747,home,FALSE,Wofford,74,Terriers,Wofford Terriers,Wofford
-401589287,2024-01-01,4,2822,away,FALSE,North Greenville,43,Crusaders,North Greenville Crusaders,N Greenvl
-401587775,2024-01-01,4,2174,home,FALSE,Detroit Mercy,67,Titans,Detroit Mercy Titans,Detroit Mercy
-401587775,2024-01-01,4,94,away,FALSE,Northern Kentucky,55,Norse,Northern Kentucky Norse,N Kentucky
-401588146,2024-01-01,4,2405,home,FALSE,Monmouth,91,Hawks,Monmouth Hawks,Monmouth
-401588146,2024-01-01,4,110419,away,FALSE,Georgian Court University,51,GEORGIAN COURT UNIVERSITY,Georgian Court University GEORGIAN COURT UNIVERSITY,Georgian Ct.
-401587774,2024-01-01,4,2739,home,FALSE,Green Bay,72,Phoenix,Green Bay Phoenix,Green Bay
-401587774,2024-01-01,4,2870,away,FALSE,Purdue Fort Wayne,46,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-401587773,2024-01-01,4,270,home,FALSE,Milwaukee,59,Panthers,Milwaukee Panthers,Milwaukee
-401587773,2024-01-01,4,325,away,FALSE,Cleveland State,64,Vikings,Cleveland State Vikings,Cleveland St
-401598774,2024-01-01,4,2539,home,FALSE,San Francisco,75,Dons,San Francisco Dons,San Francisco
-401598774,2024-01-01,4,225,away,FALSE,Brown,70,Bears,Brown Bears,Brown
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401589287,2024,regular-season,2024-01-01,4,2747,home,FALSE,Wofford,74,Terriers,Wofford Terriers,Wofford
+401589287,2024,regular-season,2024-01-01,4,2822,away,FALSE,North Greenville,43,Crusaders,North Greenville Crusaders,N Greenvl
+401587775,2024,regular-season,2024-01-01,4,2174,home,FALSE,Detroit Mercy,67,Titans,Detroit Mercy Titans,Detroit Mercy
+401587775,2024,regular-season,2024-01-01,4,94,away,FALSE,Northern Kentucky,55,Norse,Northern Kentucky Norse,N Kentucky
+401588146,2024,regular-season,2024-01-01,4,2405,home,FALSE,Monmouth,91,Hawks,Monmouth Hawks,Monmouth
+401588146,2024,regular-season,2024-01-01,4,110419,away,FALSE,Georgian Court University,51,GEORGIAN COURT UNIVERSITY,Georgian Court University GEORGIAN COURT UNIVERSITY,Georgian Ct.
+401587774,2024,regular-season,2024-01-01,4,2739,home,FALSE,Green Bay,72,Phoenix,Green Bay Phoenix,Green Bay
+401587774,2024,regular-season,2024-01-01,4,2870,away,FALSE,Purdue Fort Wayne,46,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+401587773,2024,regular-season,2024-01-01,4,270,home,FALSE,Milwaukee,59,Panthers,Milwaukee Panthers,Milwaukee
+401587773,2024,regular-season,2024-01-01,4,325,away,FALSE,Cleveland State,64,Vikings,Cleveland State Vikings,Cleveland St
+401598774,2024,regular-season,2024-01-01,4,2539,home,FALSE,San Francisco,75,Dons,San Francisco Dons,San Francisco
+401598774,2024,regular-season,2024-01-01,4,225,away,FALSE,Brown,70,Bears,Brown Bears,Brown

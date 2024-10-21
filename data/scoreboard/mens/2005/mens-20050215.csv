@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250462579,2005-02-15,2,2579,home,FALSE,South Carolina,73,Gamecocks,South Carolina Gamecocks,South Carolina
-250462579,2005-02-15,2,96,away,FALSE,Kentucky,61,Wildcats,Kentucky Wildcats,Kentucky
-250462390,2005-02-15,2,2390,home,FALSE,Miami,63,Hurricanes,Miami Hurricanes,Miami
-250462390,2005-02-15,2,154,away,FALSE,Wake Forest,68,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-250462507,2005-02-15,4,2507,home,FALSE,Providence,89,Friars,Providence Friars,Providence
-250462507,2005-02-15,4,41,away,FALSE,UConn,94,Huskies,UConn Huskies,UConn
-250460222,2005-02-15,2,222,home,FALSE,Villanova,89,Wildcats,Villanova Wildcats,Villanova
-250460222,2005-02-15,2,2083,away,FALSE,Bucknell,51,Bison,Bucknell Bison,Bucknell
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250462579,2005,regular-season,2005-02-15,2,2579,home,FALSE,South Carolina,73,Gamecocks,South Carolina Gamecocks,South Carolina
+250462579,2005,regular-season,2005-02-15,2,96,away,FALSE,Kentucky,61,Wildcats,Kentucky Wildcats,Kentucky
+250462390,2005,regular-season,2005-02-15,2,2390,home,FALSE,Miami,63,Hurricanes,Miami Hurricanes,Miami
+250462390,2005,regular-season,2005-02-15,2,154,away,FALSE,Wake Forest,68,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+250462507,2005,regular-season,2005-02-15,4,2507,home,FALSE,Providence,89,Friars,Providence Friars,Providence
+250462507,2005,regular-season,2005-02-15,4,41,away,FALSE,UConn,94,Huskies,UConn Huskies,UConn
+250460222,2005,regular-season,2005-02-15,2,222,home,FALSE,Villanova,89,Wildcats,Villanova Wildcats,Villanova
+250460222,2005,regular-season,2005-02-15,2,2083,away,FALSE,Bucknell,51,Bison,Bucknell Bison,Bucknell

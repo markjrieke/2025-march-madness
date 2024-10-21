@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293612250,2009-12-27,2,2250,home,FALSE,Gonzaga,96,Bulldogs,Gonzaga Bulldogs,Gonzaga
-293612250,2009-12-27,2,300,away,FALSE,UC Irvine,57,Anteaters,UC Irvine Anteaters,UC Irvine
-293610120,2009-12-27,2,120,home,FALSE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
-293610120,2009-12-27,2,2619,away,FALSE,Stony Brook,44,Seawolves,Stony Brook Seawolves,Stony Brook
-293610147,2009-12-27,2,147,home,FALSE,Montana State,82,Bobcats,Montana State Bobcats,Montana St
-293610147,2009-12-27,2,27,away,FALSE,UC Riverside,74,Highlanders,UC Riverside Highlanders,UC Riverside
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293612250,2010,regular-season,2009-12-27,2,2250,home,FALSE,Gonzaga,96,Bulldogs,Gonzaga Bulldogs,Gonzaga
+293612250,2010,regular-season,2009-12-27,2,300,away,FALSE,UC Irvine,57,Anteaters,UC Irvine Anteaters,UC Irvine
+293610120,2010,regular-season,2009-12-27,2,120,home,FALSE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
+293610120,2010,regular-season,2009-12-27,2,2619,away,FALSE,Stony Brook,44,Seawolves,Stony Brook Seawolves,Stony Brook
+293610147,2010,regular-season,2009-12-27,2,147,home,FALSE,Montana State,82,Bobcats,Montana State Bobcats,Montana St
+293610147,2010,regular-season,2009-12-27,2,27,away,FALSE,UC Riverside,74,Highlanders,UC Riverside Highlanders,UC Riverside

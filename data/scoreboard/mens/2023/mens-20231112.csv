@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401583597,2023-11-12,2,153,home,FALSE,North Carolina,90,Tar Heels,North Carolina Tar Heels,North Carolina
-401583597,2023-11-12,2,2329,away,FALSE,Lehigh,68,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-401602630,2023-11-12,2,239,home,FALSE,Baylor,77,Bears,Baylor Bears,Baylor
-401602630,2023-11-12,2,2241,away,FALSE,Gardner-Webb,62,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-401598039,2023-11-12,2,2608,home,FALSE,Saint Mary's,57,Gaels,Saint Mary's Gaels,Saint Mary's
-401598039,2023-11-12,2,2692,away,FALSE,Weber State,61,Wildcats,Weber State Wildcats,Weber St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401583597,2024,regular-season,2023-11-12,2,153,home,FALSE,North Carolina,90,Tar Heels,North Carolina Tar Heels,North Carolina
+401583597,2024,regular-season,2023-11-12,2,2329,away,FALSE,Lehigh,68,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+401602630,2024,regular-season,2023-11-12,2,239,home,FALSE,Baylor,77,Bears,Baylor Bears,Baylor
+401602630,2024,regular-season,2023-11-12,2,2241,away,FALSE,Gardner-Webb,62,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+401598039,2024,regular-season,2023-11-12,2,2608,home,FALSE,Saint Mary's,57,Gaels,Saint Mary's Gaels,Saint Mary's
+401598039,2024,regular-season,2023-11-12,2,2692,away,FALSE,Weber State,61,Wildcats,Weber State Wildcats,Weber St

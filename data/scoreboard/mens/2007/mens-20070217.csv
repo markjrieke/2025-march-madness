@@ -1,37 +1,37 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270480238,2007-02-17,2,238,home,FALSE,Vanderbilt,83,Commodores,Vanderbilt Commodores,Vanderbilt
-270480238,2007-02-17,2,57,away,FALSE,Florida,70,Gators,Florida Gators,Florida
-270480275,2007-02-17,2,275,home,FALSE,Wisconsin,75,Badgers,Wisconsin Badgers,Wisconsin
-270480275,2007-02-17,2,213,away,FALSE,Penn State,49,Nittany Lions,Penn State Nittany Lions,Penn State
-270480103,2007-02-17,2,103,home,FALSE,Boston College,72,Eagles,Boston College Eagles,Boston College
-270480103,2007-02-17,2,153,away,FALSE,North Carolina,77,Tar Heels,North Carolina Tar Heels,North Carolina
-270480012,2007-02-17,2,12,home,FALSE,Arizona,66,Wildcats,Arizona Wildcats,Arizona
-270480012,2007-02-17,2,26,away,FALSE,UCLA,81,Bruins,UCLA Bruins,UCLA
-270480201,2007-02-17,2,201,home,FALSE,Oklahoma,49,Sooners,Oklahoma Sooners,Oklahoma
-270480201,2007-02-17,2,245,away,FALSE,Texas A&M,56,Aggies,Texas A&M Aggies,Texas A&M
-270480221,2007-02-17,2,221,home,FALSE,Pittsburgh,65,Panthers,Pittsburgh Panthers,Pitt
-270480221,2007-02-17,2,264,away,FALSE,Washington,61,Huskies,Washington Huskies,Washington
-270482250,2007-02-17,3,2250,home,FALSE,Gonzaga,77,Bulldogs,Gonzaga Bulldogs,Gonzaga
-270482250,2007-02-17,3,235,away,FALSE,Memphis,78,Tigers,Memphis Tigers,Memphis
-270482305,2007-02-17,2,2305,home,FALSE,Kansas,92,Jayhawks,Kansas Jayhawks,Kansas
-270482305,2007-02-17,2,158,away,FALSE,Nebraska,39,Cornhuskers,Nebraska Cornhuskers,Nebraska
-270482440,2007-02-17,2,2440,home,FALSE,Nevada,79,Wolf Pack,Nevada Wolf Pack,Nevada
-270482440,2007-02-17,2,2460,away,FALSE,Northern Iowa,64,Panthers,Northern Iowa Panthers,Northern Iowa
-270480269,2007-02-17,2,269,home,FALSE,Marquette,59,Golden Eagles,Marquette Golden Eagles,Marquette
-270480269,2007-02-17,2,97,away,FALSE,Louisville,61,Cardinals,Louisville Cardinals,Louisville
-270482086,2007-02-17,2,2086,home,FALSE,Butler,64,Bulldogs,Butler Bulldogs,Butler
-270482086,2007-02-17,2,79,away,FALSE,Southern Illinois,68,Salukis,Southern Illinois Salukis,S Illinois
-270480222,2007-02-17,2,222,home,FALSE,Villanova,55,Wildcats,Villanova Wildcats,Villanova
-270480222,2007-02-17,2,46,away,FALSE,Georgetown,58,Hoyas,Georgetown Hoyas,Georgetown
-270480024,2007-02-17,2,24,home,FALSE,Stanford,88,Cardinal,Stanford Cardinal,Stanford
-270480024,2007-02-17,2,2483,away,FALSE,Oregon,69,Ducks,Oregon Ducks,Oregon
-270482005,2007-02-17,2,2005,home,FALSE,Air Force,67,Falcons,Air Force Falcons,Air Force
-270482005,2007-02-17,2,36,away,FALSE,Colorado State,58,Rams,Colorado State Rams,Colorado St
-270480197,2007-02-17,2,197,home,FALSE,Oklahoma State,64,Cowboys,Oklahoma State Cowboys,Oklahoma St
-270480197,2007-02-17,2,142,away,FALSE,Missouri,75,Tigers,Missouri Tigers,Missouri
-270480333,2007-02-17,2,333,home,FALSE,Alabama,72,Crimson Tide,Alabama Crimson Tide,Alabama
-270480333,2007-02-17,2,96,away,FALSE,Kentucky,61,Wildcats,Kentucky Wildcats,Kentucky
-270480277,2007-02-17,2,277,home,FALSE,West Virginia,81,Mountaineers,West Virginia Mountaineers,West Virginia
-270480277,2007-02-17,2,2550,away,FALSE,Seton Hall,71,Pirates,Seton Hall Pirates,Seton Hall
-270480130,2007-02-17,2,130,home,FALSE,Michigan,58,Wolverines,Michigan Wolverines,Michigan
-270480130,2007-02-17,2,84,away,FALSE,Indiana,55,Hoosiers,Indiana Hoosiers,Indiana
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270480238,2007,regular-season,2007-02-17,2,238,home,FALSE,Vanderbilt,83,Commodores,Vanderbilt Commodores,Vanderbilt
+270480238,2007,regular-season,2007-02-17,2,57,away,FALSE,Florida,70,Gators,Florida Gators,Florida
+270480275,2007,regular-season,2007-02-17,2,275,home,FALSE,Wisconsin,75,Badgers,Wisconsin Badgers,Wisconsin
+270480275,2007,regular-season,2007-02-17,2,213,away,FALSE,Penn State,49,Nittany Lions,Penn State Nittany Lions,Penn State
+270480103,2007,regular-season,2007-02-17,2,103,home,FALSE,Boston College,72,Eagles,Boston College Eagles,Boston College
+270480103,2007,regular-season,2007-02-17,2,153,away,FALSE,North Carolina,77,Tar Heels,North Carolina Tar Heels,North Carolina
+270480012,2007,regular-season,2007-02-17,2,12,home,FALSE,Arizona,66,Wildcats,Arizona Wildcats,Arizona
+270480012,2007,regular-season,2007-02-17,2,26,away,FALSE,UCLA,81,Bruins,UCLA Bruins,UCLA
+270480201,2007,regular-season,2007-02-17,2,201,home,FALSE,Oklahoma,49,Sooners,Oklahoma Sooners,Oklahoma
+270480201,2007,regular-season,2007-02-17,2,245,away,FALSE,Texas A&M,56,Aggies,Texas A&M Aggies,Texas A&M
+270480221,2007,regular-season,2007-02-17,2,221,home,FALSE,Pittsburgh,65,Panthers,Pittsburgh Panthers,Pitt
+270480221,2007,regular-season,2007-02-17,2,264,away,FALSE,Washington,61,Huskies,Washington Huskies,Washington
+270482250,2007,regular-season,2007-02-17,3,2250,home,FALSE,Gonzaga,77,Bulldogs,Gonzaga Bulldogs,Gonzaga
+270482250,2007,regular-season,2007-02-17,3,235,away,FALSE,Memphis,78,Tigers,Memphis Tigers,Memphis
+270482305,2007,regular-season,2007-02-17,2,2305,home,FALSE,Kansas,92,Jayhawks,Kansas Jayhawks,Kansas
+270482305,2007,regular-season,2007-02-17,2,158,away,FALSE,Nebraska,39,Cornhuskers,Nebraska Cornhuskers,Nebraska
+270482440,2007,regular-season,2007-02-17,2,2440,home,FALSE,Nevada,79,Wolf Pack,Nevada Wolf Pack,Nevada
+270482440,2007,regular-season,2007-02-17,2,2460,away,FALSE,Northern Iowa,64,Panthers,Northern Iowa Panthers,Northern Iowa
+270480269,2007,regular-season,2007-02-17,2,269,home,FALSE,Marquette,59,Golden Eagles,Marquette Golden Eagles,Marquette
+270480269,2007,regular-season,2007-02-17,2,97,away,FALSE,Louisville,61,Cardinals,Louisville Cardinals,Louisville
+270482086,2007,regular-season,2007-02-17,2,2086,home,FALSE,Butler,64,Bulldogs,Butler Bulldogs,Butler
+270482086,2007,regular-season,2007-02-17,2,79,away,FALSE,Southern Illinois,68,Salukis,Southern Illinois Salukis,S Illinois
+270480222,2007,regular-season,2007-02-17,2,222,home,FALSE,Villanova,55,Wildcats,Villanova Wildcats,Villanova
+270480222,2007,regular-season,2007-02-17,2,46,away,FALSE,Georgetown,58,Hoyas,Georgetown Hoyas,Georgetown
+270480024,2007,regular-season,2007-02-17,2,24,home,FALSE,Stanford,88,Cardinal,Stanford Cardinal,Stanford
+270480024,2007,regular-season,2007-02-17,2,2483,away,FALSE,Oregon,69,Ducks,Oregon Ducks,Oregon
+270482005,2007,regular-season,2007-02-17,2,2005,home,FALSE,Air Force,67,Falcons,Air Force Falcons,Air Force
+270482005,2007,regular-season,2007-02-17,2,36,away,FALSE,Colorado State,58,Rams,Colorado State Rams,Colorado St
+270480197,2007,regular-season,2007-02-17,2,197,home,FALSE,Oklahoma State,64,Cowboys,Oklahoma State Cowboys,Oklahoma St
+270480197,2007,regular-season,2007-02-17,2,142,away,FALSE,Missouri,75,Tigers,Missouri Tigers,Missouri
+270480333,2007,regular-season,2007-02-17,2,333,home,FALSE,Alabama,72,Crimson Tide,Alabama Crimson Tide,Alabama
+270480333,2007,regular-season,2007-02-17,2,96,away,FALSE,Kentucky,61,Wildcats,Kentucky Wildcats,Kentucky
+270480277,2007,regular-season,2007-02-17,2,277,home,FALSE,West Virginia,81,Mountaineers,West Virginia Mountaineers,West Virginia
+270480277,2007,regular-season,2007-02-17,2,2550,away,FALSE,Seton Hall,71,Pirates,Seton Hall Pirates,Seton Hall
+270480130,2007,regular-season,2007-02-17,2,130,home,FALSE,Michigan,58,Wolverines,Michigan Wolverines,Michigan
+270480130,2007,regular-season,2007-02-17,2,84,away,FALSE,Indiana,55,Hoosiers,Indiana Hoosiers,Indiana

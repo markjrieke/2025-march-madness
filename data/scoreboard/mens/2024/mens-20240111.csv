@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401600325,2024-01-11,2,356,home,FALSE,Illinois,71,Fighting Illini,Illinois Fighting Illini,Illinois
-401600325,2024-01-11,2,127,away,FALSE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St
-401589671,2024-01-11,2,2541,home,FALSE,Santa Clara,77,Broncos,Santa Clara Broncos,Santa Clara
-401589671,2024-01-11,2,2250,away,FALSE,Gonzaga,76,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401602072,2024-01-11,2,2655,home,FALSE,Tulane,84,Green Wave,Tulane Green Wave,Tulane
-401602072,2024-01-11,2,2226,away,FALSE,Florida Atlantic,85,Owls,Florida Atlantic Owls,FAU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401600325,2024,regular-season,2024-01-11,2,356,home,FALSE,Illinois,71,Fighting Illini,Illinois Fighting Illini,Illinois
+401600325,2024,regular-season,2024-01-11,2,127,away,FALSE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St
+401589671,2024,regular-season,2024-01-11,2,2541,home,FALSE,Santa Clara,77,Broncos,Santa Clara Broncos,Santa Clara
+401589671,2024,regular-season,2024-01-11,2,2250,away,FALSE,Gonzaga,76,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401602072,2024,regular-season,2024-01-11,2,2655,home,FALSE,Tulane,84,Green Wave,Tulane Green Wave,Tulane
+401602072,2024,regular-season,2024-01-11,2,2226,away,FALSE,Florida Atlantic,85,Owls,Florida Atlantic Owls,FAU

@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401253742,2021-01-28,2,301,home,FALSE,San Diego,62,Toreros,San Diego Toreros,San Diego
-401253742,2021-01-28,2,2250,away,FALSE,Gonzaga,90,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401264294,2021-01-28,2,2655,home,FALSE,Tulane,60,Green Wave,Tulane Green Wave,Tulane
-401264294,2021-01-28,2,248,away,FALSE,Houston,83,Cougars,Houston Cougars,Houston
-401253877,2021-01-28,2,2305,home,FALSE,Kansas,59,Jayhawks,Kansas Jayhawks,Kansas
-401253877,2021-01-28,2,2628,away,FALSE,TCU,51,Horned Frogs,TCU Horned Frogs,TCU
-401278373,2021-01-28,0,41,home,FALSE,UConn,0,Huskies,UConn Huskies,UConn
-401278373,2021-01-28,0,222,away,FALSE,Villanova,0,Wildcats,Villanova Wildcats,Villanova
-401265395,2021-01-28,0,26,home,FALSE,UCLA,0,Bruins,UCLA Bruins,UCLA
-401265395,2021-01-28,0,2483,away,FALSE,Oregon,0,Ducks,Oregon Ducks,Oregon
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401253742,2021,regular-season,2021-01-28,2,301,home,FALSE,San Diego,62,Toreros,San Diego Toreros,San Diego
+401253742,2021,regular-season,2021-01-28,2,2250,away,FALSE,Gonzaga,90,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401264294,2021,regular-season,2021-01-28,2,2655,home,FALSE,Tulane,60,Green Wave,Tulane Green Wave,Tulane
+401264294,2021,regular-season,2021-01-28,2,248,away,FALSE,Houston,83,Cougars,Houston Cougars,Houston
+401253877,2021,regular-season,2021-01-28,2,2305,home,FALSE,Kansas,59,Jayhawks,Kansas Jayhawks,Kansas
+401253877,2021,regular-season,2021-01-28,2,2628,away,FALSE,TCU,51,Horned Frogs,TCU Horned Frogs,TCU
+401278373,2021,regular-season,2021-01-28,0,41,home,FALSE,UConn,0,Huskies,UConn Huskies,UConn
+401278373,2021,regular-season,2021-01-28,0,222,away,FALSE,Villanova,0,Wildcats,Villanova Wildcats,Villanova
+401265395,2021,regular-season,2021-01-28,0,26,home,FALSE,UCLA,0,Bruins,UCLA Bruins,UCLA
+401265395,2021,regular-season,2021-01-28,0,2483,away,FALSE,Oregon,0,Ducks,Oregon Ducks,Oregon

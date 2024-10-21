@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220570277,2002-02-26,2,277,home,FALSE,West Virginia,60,Mountaineers,West Virginia Mountaineers,West Virginia
-220570277,2002-02-26,2,41,away,FALSE,UConn,89,Huskies,UConn Huskies,UConn
-220570158,2002-02-26,2,158,home,FALSE,Nebraska,60,Cornhuskers,Nebraska Cornhuskers,Nebraska
-220570158,2002-02-26,2,38,away,FALSE,Colorado,84,Buffaloes,Colorado Buffaloes,Colorado
-220572305,2002-02-26,2,2305,home,FALSE,Kansas,46,Jayhawks,Kansas Jayhawks,Kansas
-220572305,2002-02-26,2,251,away,FALSE,Texas,61,Longhorns,Texas Longhorns,Texas
-220572390,2002-02-26,2,2390,home,FALSE,Miami,60,Hurricanes,Miami Hurricanes,Miami
-220572390,2002-02-26,2,103,away,FALSE,Boston College,57,Eagles,Boston College Eagles,Boston College
-220570087,2002-02-26,2,87,home,FALSE,Notre Dame,45,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-220570087,2002-02-26,2,222,away,FALSE,Villanova,48,Wildcats,Villanova Wildcats,Villanova
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220570277,2002,regular-season,2002-02-26,2,277,home,FALSE,West Virginia,60,Mountaineers,West Virginia Mountaineers,West Virginia
+220570277,2002,regular-season,2002-02-26,2,41,away,FALSE,UConn,89,Huskies,UConn Huskies,UConn
+220570158,2002,regular-season,2002-02-26,2,158,home,FALSE,Nebraska,60,Cornhuskers,Nebraska Cornhuskers,Nebraska
+220570158,2002,regular-season,2002-02-26,2,38,away,FALSE,Colorado,84,Buffaloes,Colorado Buffaloes,Colorado
+220572305,2002,regular-season,2002-02-26,2,2305,home,FALSE,Kansas,46,Jayhawks,Kansas Jayhawks,Kansas
+220572305,2002,regular-season,2002-02-26,2,251,away,FALSE,Texas,61,Longhorns,Texas Longhorns,Texas
+220572390,2002,regular-season,2002-02-26,2,2390,home,FALSE,Miami,60,Hurricanes,Miami Hurricanes,Miami
+220572390,2002,regular-season,2002-02-26,2,103,away,FALSE,Boston College,57,Eagles,Boston College Eagles,Boston College
+220570087,2002,regular-season,2002-02-26,2,87,home,FALSE,Notre Dame,45,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+220570087,2002,regular-season,2002-02-26,2,222,away,FALSE,Villanova,48,Wildcats,Villanova Wildcats,Villanova

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401166381,2020-03-03,2,96,home,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
-401166381,2020-03-03,2,2633,away,FALSE,Tennessee,81,Volunteers,Tennessee Volunteers,Tennessee
-401166259,2020-03-03,2,164,home,FALSE,Rutgers,78,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-401166259,2020-03-03,2,120,away,FALSE,Maryland,67,Terrapins,Maryland Terrapins,Maryland
-401166258,2020-03-03,2,213,home,FALSE,Penn State,71,Nittany Lions,Penn State Nittany Lions,Penn State
-401166258,2020-03-03,2,127,away,FALSE,Michigan State,79,Spartans,Michigan State Spartans,Michigan St
-401166257,2020-03-03,2,2294,home,FALSE,Iowa,68,Hawkeyes,Iowa Hawkeyes,Iowa
-401166257,2020-03-03,2,2509,away,FALSE,Purdue,77,Boilermakers,Purdue Boilermakers,Purdue
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401166381,2020,regular-season,2020-03-03,2,96,home,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
+401166381,2020,regular-season,2020-03-03,2,2633,away,FALSE,Tennessee,81,Volunteers,Tennessee Volunteers,Tennessee
+401166259,2020,regular-season,2020-03-03,2,164,home,FALSE,Rutgers,78,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401166259,2020,regular-season,2020-03-03,2,120,away,FALSE,Maryland,67,Terrapins,Maryland Terrapins,Maryland
+401166258,2020,regular-season,2020-03-03,2,213,home,FALSE,Penn State,71,Nittany Lions,Penn State Nittany Lions,Penn State
+401166258,2020,regular-season,2020-03-03,2,127,away,FALSE,Michigan State,79,Spartans,Michigan State Spartans,Michigan St
+401166257,2020,regular-season,2020-03-03,2,2294,home,FALSE,Iowa,68,Hawkeyes,Iowa Hawkeyes,Iowa
+401166257,2020,regular-season,2020-03-03,2,2509,away,FALSE,Purdue,77,Boilermakers,Purdue Boilermakers,Purdue

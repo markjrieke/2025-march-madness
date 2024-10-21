@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300050008,2010-01-05,2,8,home,FALSE,Arkansas,85,Razorbacks,Arkansas Razorbacks,Arkansas
-300050008,2010-01-05,2,251,away,FALSE,Texas,96,Longhorns,Texas Longhorns,Texas
-300052509,2010-01-05,2,2509,home,FALSE,Purdue,79,Boilermakers,Purdue Boilermakers,Purdue
-300052509,2010-01-05,2,135,away,FALSE,Minnesota,60,Golden Gophers,Minnesota Golden Gophers,Minnesota
-300050145,2010-01-05,2,145,home,FALSE,Ole Miss,84,Rebels,Ole Miss Rebels,Ole Miss
-300050145,2010-01-05,2,2116,away,FALSE,UCF,56,Knights,UCF Knights,UCF
-300050021,2010-01-05,2,21,home,FALSE,San Diego State,74,Aztecs,San Diego State Aztecs,San Diego St
-300050021,2010-01-05,2,167,away,FALSE,New Mexico,64,Lobos,New Mexico Lobos,New Mexico
-300050061,2010-01-05,2,61,home,FALSE,Georgia,73,Bulldogs,Georgia Bulldogs,Georgia
-300050061,2010-01-05,2,59,away,FALSE,Georgia Tech,66,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300050008,2010,regular-season,2010-01-05,2,8,home,FALSE,Arkansas,85,Razorbacks,Arkansas Razorbacks,Arkansas
+300050008,2010,regular-season,2010-01-05,2,251,away,FALSE,Texas,96,Longhorns,Texas Longhorns,Texas
+300052509,2010,regular-season,2010-01-05,2,2509,home,FALSE,Purdue,79,Boilermakers,Purdue Boilermakers,Purdue
+300052509,2010,regular-season,2010-01-05,2,135,away,FALSE,Minnesota,60,Golden Gophers,Minnesota Golden Gophers,Minnesota
+300050145,2010,regular-season,2010-01-05,2,145,home,FALSE,Ole Miss,84,Rebels,Ole Miss Rebels,Ole Miss
+300050145,2010,regular-season,2010-01-05,2,2116,away,FALSE,UCF,56,Knights,UCF Knights,UCF
+300050021,2010,regular-season,2010-01-05,2,21,home,FALSE,San Diego State,74,Aztecs,San Diego State Aztecs,San Diego St
+300050021,2010,regular-season,2010-01-05,2,167,away,FALSE,New Mexico,64,Lobos,New Mexico Lobos,New Mexico
+300050061,2010,regular-season,2010-01-05,2,61,home,FALSE,Georgia,73,Bulldogs,Georgia Bulldogs,Georgia
+300050061,2010,regular-season,2010-01-05,2,59,away,FALSE,Georgia Tech,66,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech

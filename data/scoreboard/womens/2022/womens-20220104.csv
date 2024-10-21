@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401364504,2022-01-04,4,158,home,FALSE,Nebraska,79,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401364504,2022-01-04,4,130,away,FALSE,Michigan,58,Wolverines,Michigan Wolverines,Michigan
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401364504,2022,regular-season,2022-01-04,4,158,home,FALSE,Nebraska,79,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401364504,2022,regular-season,2022-01-04,4,130,away,FALSE,Michigan,58,Wolverines,Michigan Wolverines,Michigan

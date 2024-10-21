@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401172189,2020-02-21,4,265,home,FALSE,Washington State,62,Cougars,Washington State Cougars,Washington St
-401172189,2020-02-21,4,26,away,FALSE,UCLA,70,Bruins,UCLA Bruins,UCLA
-401172185,2020-02-21,4,254,home,FALSE,Utah,69,Utes,Utah Utes,Utah
-401172185,2020-02-21,4,12,away,FALSE,Arizona,85,Wildcats,Arizona Wildcats,Arizona
-401177619,2020-02-21,4,46,home,FALSE,Georgetown,69,Hoyas,Georgetown Hoyas,Georgetown
-401177619,2020-02-21,4,305,away,FALSE,DePaul,87,Blue Demons,DePaul Blue Demons,DePaul
-401172186,2020-02-21,4,38,home,FALSE,Colorado,59,Buffaloes,Colorado Buffaloes,Colorado
-401172186,2020-02-21,4,9,away,FALSE,Arizona State,65,Sun Devils,Arizona State Sun Devils,Arizona St
-401179542,2020-02-21,4,2623,home,FALSE,Missouri State,76,Lady Bears,Missouri State Lady Bears,Missouri St
-401179542,2020-02-21,4,339,away,FALSE,Evansville,62,Purple Aces,Evansville Purple Aces,Evansville
-401179757,2020-02-21,4,163,home,FALSE,Princeton,66,Tigers,Princeton Tigers,Princeton
-401179757,2020-02-21,4,108,away,FALSE,Harvard,45,Crimson,Harvard Crimson,Harvard
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401172189,2020,regular-season,2020-02-21,4,265,home,FALSE,Washington State,62,Cougars,Washington State Cougars,Washington St
+401172189,2020,regular-season,2020-02-21,4,26,away,FALSE,UCLA,70,Bruins,UCLA Bruins,UCLA
+401172185,2020,regular-season,2020-02-21,4,254,home,FALSE,Utah,69,Utes,Utah Utes,Utah
+401172185,2020,regular-season,2020-02-21,4,12,away,FALSE,Arizona,85,Wildcats,Arizona Wildcats,Arizona
+401177619,2020,regular-season,2020-02-21,4,46,home,FALSE,Georgetown,69,Hoyas,Georgetown Hoyas,Georgetown
+401177619,2020,regular-season,2020-02-21,4,305,away,FALSE,DePaul,87,Blue Demons,DePaul Blue Demons,DePaul
+401172186,2020,regular-season,2020-02-21,4,38,home,FALSE,Colorado,59,Buffaloes,Colorado Buffaloes,Colorado
+401172186,2020,regular-season,2020-02-21,4,9,away,FALSE,Arizona State,65,Sun Devils,Arizona State Sun Devils,Arizona St
+401179542,2020,regular-season,2020-02-21,4,2623,home,FALSE,Missouri State,76,Lady Bears,Missouri State Lady Bears,Missouri St
+401179542,2020,regular-season,2020-02-21,4,339,away,FALSE,Evansville,62,Purple Aces,Evansville Purple Aces,Evansville
+401179757,2020,regular-season,2020-02-21,4,163,home,FALSE,Princeton,66,Tigers,Princeton Tigers,Princeton
+401179757,2020,regular-season,2020-02-21,4,108,away,FALSE,Harvard,45,Crimson,Harvard Crimson,Harvard

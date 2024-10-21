@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280720221,2008-03-12,2,221,home,TRUE,Pittsburgh,70,Panthers,Pittsburgh Panthers,Pitt
-280720221,2008-03-12,2,2132,away,TRUE,Cincinnati,64,Bearcats,Cincinnati Bearcats,Cincinnati
-280720269,2008-03-12,2,269,home,TRUE,Marquette,67,Golden Eagles,Marquette Golden Eagles,Marquette
-280720269,2008-03-12,2,2550,away,TRUE,Seton Hall,54,Pirates,Seton Hall Pirates,Seton Hall
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280720221,2008,regular-season,2008-03-12,2,221,home,TRUE,Pittsburgh,70,Panthers,Pittsburgh Panthers,Pitt
+280720221,2008,regular-season,2008-03-12,2,2132,away,TRUE,Cincinnati,64,Bearcats,Cincinnati Bearcats,Cincinnati
+280720269,2008,regular-season,2008-03-12,2,269,home,TRUE,Marquette,67,Golden Eagles,Marquette Golden Eagles,Marquette
+280720269,2008,regular-season,2008-03-12,2,2550,away,TRUE,Seton Hall,54,Pirates,Seton Hall Pirates,Seton Hall

@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300490046,2010-02-18,2,46,home,FALSE,Georgetown,71,Hoyas,Georgetown Hoyas,Georgetown
-300490046,2010-02-18,2,183,away,FALSE,Syracuse,75,Orange,Syracuse Orange,Syracuse
-300492351,2010-02-18,2,2351,home,FALSE,Loyola Marymount,74,Lions,Loyola Marymount Lions,LMU
-300492351,2010-02-18,2,2250,away,FALSE,Gonzaga,66,Bulldogs,Gonzaga Bulldogs,Gonzaga
-300490135,2010-02-18,2,135,home,FALSE,Minnesota,68,Golden Gophers,Minnesota Golden Gophers,Minnesota
-300490135,2010-02-18,2,275,away,FALSE,Wisconsin,52,Badgers,Wisconsin Badgers,Wisconsin
-300490145,2010-02-18,2,145,home,FALSE,Ole Miss,78,Rebels,Ole Miss Rebels,Ole Miss
-300490145,2010-02-18,2,238,away,FALSE,Vanderbilt,82,Commodores,Vanderbilt Commodores,Vanderbilt
-300490269,2010-02-18,2,269,home,FALSE,Marquette,51,Golden Eagles,Marquette Golden Eagles,Marquette
-300490269,2010-02-18,2,221,away,FALSE,Pittsburgh,58,Panthers,Pittsburgh Panthers,Pitt
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300490046,2010,regular-season,2010-02-18,2,46,home,FALSE,Georgetown,71,Hoyas,Georgetown Hoyas,Georgetown
+300490046,2010,regular-season,2010-02-18,2,183,away,FALSE,Syracuse,75,Orange,Syracuse Orange,Syracuse
+300492351,2010,regular-season,2010-02-18,2,2351,home,FALSE,Loyola Marymount,74,Lions,Loyola Marymount Lions,LMU
+300492351,2010,regular-season,2010-02-18,2,2250,away,FALSE,Gonzaga,66,Bulldogs,Gonzaga Bulldogs,Gonzaga
+300490135,2010,regular-season,2010-02-18,2,135,home,FALSE,Minnesota,68,Golden Gophers,Minnesota Golden Gophers,Minnesota
+300490135,2010,regular-season,2010-02-18,2,275,away,FALSE,Wisconsin,52,Badgers,Wisconsin Badgers,Wisconsin
+300490145,2010,regular-season,2010-02-18,2,145,home,FALSE,Ole Miss,78,Rebels,Ole Miss Rebels,Ole Miss
+300490145,2010,regular-season,2010-02-18,2,238,away,FALSE,Vanderbilt,82,Commodores,Vanderbilt Commodores,Vanderbilt
+300490269,2010,regular-season,2010-02-18,2,269,home,FALSE,Marquette,51,Golden Eagles,Marquette Golden Eagles,Marquette
+300490269,2010,regular-season,2010-02-18,2,221,away,FALSE,Pittsburgh,58,Panthers,Pittsburgh Panthers,Pitt

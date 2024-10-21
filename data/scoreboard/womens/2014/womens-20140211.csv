@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400512598,2014-02-11,4,257,home,FALSE,Richmond,78,Spiders,Richmond Spiders,Richmond
-400512598,2014-02-11,4,2230,away,FALSE,Fordham,77,Rams,Fordham Rams,Fordham
-400511409,2014-02-11,2,2116,home,FALSE,UCF,59,Knights,UCF Knights,UCF
-400511409,2014-02-11,2,2567,away,FALSE,SMU,54,Mustangs,SMU Mustangs,SMU
-400510393,2014-02-11,2,2612,home,FALSE,Saint Peter's,49,Peacocks,Saint Peter's Peacocks,Saint Peter's
-400510393,2014-02-11,2,2368,away,FALSE,Marist,64,Red Foxes,Marist Red Foxes,Marist
-400509533,2014-02-11,2,2507,home,FALSE,Providence,62,Friars,Providence Friars,Providence
-400509533,2014-02-11,2,269,away,FALSE,Marquette,71,Golden Eagles,Marquette Golden Eagles,Marquette
-400509381,2014-02-11,2,2378,home,FALSE,UMBC,46,Retrievers,UMBC Retrievers,UMBC
-400509381,2014-02-11,2,399,away,FALSE,UAlbany,56,Great Danes,UAlbany Great Danes,UAlbany
-400511048,2014-02-11,2,248,home,FALSE,Houston,42,Cougars,Houston Cougars,Houston
-400511048,2014-02-11,2,164,away,FALSE,Rutgers,74,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400512598,2014,regular-season,2014-02-11,4,257,home,FALSE,Richmond,78,Spiders,Richmond Spiders,Richmond
+400512598,2014,regular-season,2014-02-11,4,2230,away,FALSE,Fordham,77,Rams,Fordham Rams,Fordham
+400511409,2014,regular-season,2014-02-11,2,2116,home,FALSE,UCF,59,Knights,UCF Knights,UCF
+400511409,2014,regular-season,2014-02-11,2,2567,away,FALSE,SMU,54,Mustangs,SMU Mustangs,SMU
+400510393,2014,regular-season,2014-02-11,2,2612,home,FALSE,Saint Peter's,49,Peacocks,Saint Peter's Peacocks,Saint Peter's
+400510393,2014,regular-season,2014-02-11,2,2368,away,FALSE,Marist,64,Red Foxes,Marist Red Foxes,Marist
+400509533,2014,regular-season,2014-02-11,2,2507,home,FALSE,Providence,62,Friars,Providence Friars,Providence
+400509533,2014,regular-season,2014-02-11,2,269,away,FALSE,Marquette,71,Golden Eagles,Marquette Golden Eagles,Marquette
+400509381,2014,regular-season,2014-02-11,2,2378,home,FALSE,UMBC,46,Retrievers,UMBC Retrievers,UMBC
+400509381,2014,regular-season,2014-02-11,2,399,away,FALSE,UAlbany,56,Great Danes,UAlbany Great Danes,UAlbany
+400511048,2014,regular-season,2014-02-11,2,248,home,FALSE,Houston,42,Cougars,Houston Cougars,Houston
+400511048,2014,regular-season,2014-02-11,2,164,away,FALSE,Rutgers,74,Scarlet Knights,Rutgers Scarlet Knights,Rutgers

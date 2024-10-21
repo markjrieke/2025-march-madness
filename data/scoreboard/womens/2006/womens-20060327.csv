@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-264000015,2006-03-27,3,120,home,FALSE,Maryland,75,Terrapins,Maryland Terrapins,Maryland
-264000015,2006-03-27,3,254,away,FALSE,Utah,65,Utes,Utah Utes,Utah
-264000046,2006-03-27,2,99,home,FALSE,LSU,62,Tigers,LSU Tigers,LSU
-264000046,2006-03-27,2,24,away,FALSE,Stanford,59,Cardinal,Stanford Cardinal,Stanford
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+264000015,2006,post-season,2006-03-27,3,120,home,FALSE,Maryland,75,Terrapins,Maryland Terrapins,Maryland
+264000015,2006,post-season,2006-03-27,3,254,away,FALSE,Utah,65,Utes,Utah Utes,Utah
+264000046,2006,post-season,2006-03-27,2,99,home,FALSE,LSU,62,Tigers,LSU Tigers,LSU
+264000046,2006,post-season,2006-03-27,2,24,away,FALSE,Stanford,59,Cardinal,Stanford Cardinal,Stanford

@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400995049,2018-01-11,4,97,home,FALSE,Louisville,100,Cardinals,Louisville Cardinals,Louisville
-400995049,2018-01-11,4,87,away,FALSE,Notre Dame,67,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400987791,2018-01-11,4,344,home,FALSE,Mississippi State,76,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400987791,2018-01-11,4,145,away,FALSE,Ole Miss,45,Rebels,Ole Miss Rebels,Ole Miss
-400987880,2018-01-11,5,245,home,FALSE,Texas A&M,79,Aggies,Texas A&M Aggies,Texas A&M
-400987880,2018-01-11,5,2633,away,FALSE,Tennessee,76,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400987671,2018-01-11,4,2579,home,FALSE,South Carolina,71,Gamecocks,South Carolina Gamecocks,South Carolina
-400987671,2018-01-11,4,2,away,FALSE,Auburn,63,Tigers,Auburn Tigers,Auburn
-400993655,2018-01-11,4,120,home,FALSE,Maryland,68,Terrapins,Maryland Terrapins,Maryland
-400993655,2018-01-11,4,127,away,FALSE,Michigan State,82,Spartans,Michigan State Spartans,Michigan St
-400987830,2018-01-11,4,238,home,FALSE,Vanderbilt,70,Commodores,Vanderbilt Commodores,Vanderbilt
-400987830,2018-01-11,4,142,away,FALSE,Missouri,81,Tigers,Missouri Tigers,Missouri
-400995048,2018-01-11,4,52,home,FALSE,Florida State,105,Seminoles,Florida State Seminoles,Florida St
-400995048,2018-01-11,4,2390,away,FALSE,Miami,67,Hurricanes,Miami Hurricanes,Miami
-400995052,2018-01-11,4,154,home,FALSE,Wake Forest,67,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-400995052,2018-01-11,4,150,away,FALSE,Duke,80,Blue Devils,Duke Blue Devils,Duke
-400998384,2018-01-11,4,2739,home,FALSE,Green Bay,65,Phoenix,Green Bay Phoenix,Green Bay
-400998384,2018-01-11,4,2754,away,FALSE,Youngstown State,56,Penguins,Youngstown State Penguins,Youngstown St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400995049,2018,regular-season,2018-01-11,4,97,home,FALSE,Louisville,100,Cardinals,Louisville Cardinals,Louisville
+400995049,2018,regular-season,2018-01-11,4,87,away,FALSE,Notre Dame,67,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400987791,2018,regular-season,2018-01-11,4,344,home,FALSE,Mississippi State,76,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400987791,2018,regular-season,2018-01-11,4,145,away,FALSE,Ole Miss,45,Rebels,Ole Miss Rebels,Ole Miss
+400987880,2018,regular-season,2018-01-11,5,245,home,FALSE,Texas A&M,79,Aggies,Texas A&M Aggies,Texas A&M
+400987880,2018,regular-season,2018-01-11,5,2633,away,FALSE,Tennessee,76,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400987671,2018,regular-season,2018-01-11,4,2579,home,FALSE,South Carolina,71,Gamecocks,South Carolina Gamecocks,South Carolina
+400987671,2018,regular-season,2018-01-11,4,2,away,FALSE,Auburn,63,Tigers,Auburn Tigers,Auburn
+400993655,2018,regular-season,2018-01-11,4,120,home,FALSE,Maryland,68,Terrapins,Maryland Terrapins,Maryland
+400993655,2018,regular-season,2018-01-11,4,127,away,FALSE,Michigan State,82,Spartans,Michigan State Spartans,Michigan St
+400987830,2018,regular-season,2018-01-11,4,238,home,FALSE,Vanderbilt,70,Commodores,Vanderbilt Commodores,Vanderbilt
+400987830,2018,regular-season,2018-01-11,4,142,away,FALSE,Missouri,81,Tigers,Missouri Tigers,Missouri
+400995048,2018,regular-season,2018-01-11,4,52,home,FALSE,Florida State,105,Seminoles,Florida State Seminoles,Florida St
+400995048,2018,regular-season,2018-01-11,4,2390,away,FALSE,Miami,67,Hurricanes,Miami Hurricanes,Miami
+400995052,2018,regular-season,2018-01-11,4,154,home,FALSE,Wake Forest,67,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+400995052,2018,regular-season,2018-01-11,4,150,away,FALSE,Duke,80,Blue Devils,Duke Blue Devils,Duke
+400998384,2018,regular-season,2018-01-11,4,2739,home,FALSE,Green Bay,65,Phoenix,Green Bay Phoenix,Green Bay
+400998384,2018,regular-season,2018-01-11,4,2754,away,FALSE,Youngstown State,56,Penguins,Youngstown State Penguins,Youngstown St

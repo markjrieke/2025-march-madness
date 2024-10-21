@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260700150,2006-03-11,2,150,home,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
-260700150,2006-03-11,2,154,away,FALSE,Wake Forest,66,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-260700235,2006-03-11,2,235,home,FALSE,Memphis,57,Tigers,Memphis Tigers,Memphis
-260700235,2006-03-11,2,5,away,FALSE,UAB,46,Blazers,UAB Blazers,UAB
-260700194,2006-03-11,2,194,home,FALSE,Ohio State,52,Buckeyes,Ohio State Buckeyes,Ohio State
-260700194,2006-03-11,2,84,away,FALSE,Indiana,51,Hoosiers,Indiana Hoosiers,Indiana
-260700153,2006-03-11,2,153,home,FALSE,North Carolina,82,Tar Heels,North Carolina Tar Heels,North Carolina
-260700153,2006-03-11,2,103,away,FALSE,Boston College,85,Eagles,Boston College Eagles,Boston College
-260700026,2006-03-11,2,26,home,FALSE,UCLA,71,Bruins,UCLA Bruins,UCLA
-260700026,2006-03-11,2,25,away,FALSE,California,52,Golden Bears,California Golden Bears,California
-260700251,2006-03-11,2,251,home,FALSE,Texas,74,Longhorns,Texas Longhorns,Texas
-260700251,2006-03-11,2,245,away,FALSE,Texas A&M,70,Aggies,Texas A&M Aggies,Texas A&M
-260700099,2006-03-11,2,99,home,FALSE,LSU,65,Tigers,LSU Tigers,LSU
-260700099,2006-03-11,2,57,away,FALSE,Florida,81,Gators,Florida Gators,Florida
-260702305,2006-03-11,2,2305,home,FALSE,Kansas,79,Jayhawks,Kansas Jayhawks,Kansas
-260702305,2006-03-11,2,158,away,FALSE,Nebraska,65,Cornhuskers,Nebraska Cornhuskers,Nebraska
-260702294,2006-03-11,2,2294,home,FALSE,Iowa,53,Hawkeyes,Iowa Hawkeyes,Iowa
-260702294,2006-03-11,2,127,away,FALSE,Michigan State,48,Spartans,Michigan State Spartans,Michigan St
-260700221,2006-03-11,2,221,home,FALSE,Pittsburgh,61,Panthers,Pittsburgh Panthers,Pitt
-260700221,2006-03-11,2,183,away,FALSE,Syracuse,65,Orange,Syracuse Orange,Syracuse
-260702440,2006-03-11,3,2440,home,FALSE,Nevada,70,Wolf Pack,Nevada Wolf Pack,Nevada
-260702440,2006-03-11,3,328,away,FALSE,Utah State,63,Aggies,Utah State Aggies,Utah State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260700150,2006,regular-season,2006-03-11,2,150,home,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
+260700150,2006,regular-season,2006-03-11,2,154,away,FALSE,Wake Forest,66,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+260700235,2006,regular-season,2006-03-11,2,235,home,FALSE,Memphis,57,Tigers,Memphis Tigers,Memphis
+260700235,2006,regular-season,2006-03-11,2,5,away,FALSE,UAB,46,Blazers,UAB Blazers,UAB
+260700194,2006,regular-season,2006-03-11,2,194,home,FALSE,Ohio State,52,Buckeyes,Ohio State Buckeyes,Ohio State
+260700194,2006,regular-season,2006-03-11,2,84,away,FALSE,Indiana,51,Hoosiers,Indiana Hoosiers,Indiana
+260700153,2006,regular-season,2006-03-11,2,153,home,FALSE,North Carolina,82,Tar Heels,North Carolina Tar Heels,North Carolina
+260700153,2006,regular-season,2006-03-11,2,103,away,FALSE,Boston College,85,Eagles,Boston College Eagles,Boston College
+260700026,2006,regular-season,2006-03-11,2,26,home,FALSE,UCLA,71,Bruins,UCLA Bruins,UCLA
+260700026,2006,regular-season,2006-03-11,2,25,away,FALSE,California,52,Golden Bears,California Golden Bears,California
+260700251,2006,regular-season,2006-03-11,2,251,home,FALSE,Texas,74,Longhorns,Texas Longhorns,Texas
+260700251,2006,regular-season,2006-03-11,2,245,away,FALSE,Texas A&M,70,Aggies,Texas A&M Aggies,Texas A&M
+260700099,2006,regular-season,2006-03-11,2,99,home,FALSE,LSU,65,Tigers,LSU Tigers,LSU
+260700099,2006,regular-season,2006-03-11,2,57,away,FALSE,Florida,81,Gators,Florida Gators,Florida
+260702305,2006,regular-season,2006-03-11,2,2305,home,FALSE,Kansas,79,Jayhawks,Kansas Jayhawks,Kansas
+260702305,2006,regular-season,2006-03-11,2,158,away,FALSE,Nebraska,65,Cornhuskers,Nebraska Cornhuskers,Nebraska
+260702294,2006,regular-season,2006-03-11,2,2294,home,FALSE,Iowa,53,Hawkeyes,Iowa Hawkeyes,Iowa
+260702294,2006,regular-season,2006-03-11,2,127,away,FALSE,Michigan State,48,Spartans,Michigan State Spartans,Michigan St
+260700221,2006,regular-season,2006-03-11,2,221,home,FALSE,Pittsburgh,61,Panthers,Pittsburgh Panthers,Pitt
+260700221,2006,regular-season,2006-03-11,2,183,away,FALSE,Syracuse,65,Orange,Syracuse Orange,Syracuse
+260702440,2006,regular-season,2006-03-11,3,2440,home,FALSE,Nevada,70,Wolf Pack,Nevada Wolf Pack,Nevada
+260702440,2006,regular-season,2006-03-11,3,328,away,FALSE,Utah State,63,Aggies,Utah State Aggies,Utah State

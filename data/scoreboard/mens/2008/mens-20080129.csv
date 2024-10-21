@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280290333,2008-01-29,2,333,home,FALSE,Alabama,86,Crimson Tide,Alabama Crimson Tide,Alabama
-280290333,2008-01-29,2,2633,away,FALSE,Tennessee,93,Volunteers,Tennessee Volunteers,Tennessee
-280290269,2008-01-29,2,269,home,FALSE,Marquette,62,Golden Eagles,Marquette Golden Eagles,Marquette
-280290269,2008-01-29,2,58,away,FALSE,South Florida,54,Bulls,South Florida Bulls,South Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280290333,2008,regular-season,2008-01-29,2,333,home,FALSE,Alabama,86,Crimson Tide,Alabama Crimson Tide,Alabama
+280290333,2008,regular-season,2008-01-29,2,2633,away,FALSE,Tennessee,93,Volunteers,Tennessee Volunteers,Tennessee
+280290269,2008,regular-season,2008-01-29,2,269,home,FALSE,Marquette,62,Golden Eagles,Marquette Golden Eagles,Marquette
+280290269,2008,regular-season,2008-01-29,2,58,away,FALSE,South Florida,54,Bulls,South Florida Bulls,South Florida

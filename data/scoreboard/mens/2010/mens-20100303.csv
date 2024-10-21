@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300622305,2010-03-03,2,2305,home,FALSE,Kansas,82,Jayhawks,Kansas Jayhawks,Kansas
-300622305,2010-03-03,2,2306,away,FALSE,Kansas State,65,Wildcats,Kansas State Wildcats,Kansas St
-300620061,2010-03-03,2,61,home,FALSE,Georgia,68,Bulldogs,Georgia Bulldogs,Georgia
-300620061,2010-03-03,2,96,away,FALSE,Kentucky,80,Wildcats,Kentucky Wildcats,Kentucky
-300620120,2010-03-03,2,120,home,FALSE,Maryland,79,Terrapins,Maryland Terrapins,Maryland
-300620120,2010-03-03,2,150,away,FALSE,Duke,72,Blue Devils,Duke Blue Devils,Duke
-300622509,2010-03-03,2,2509,home,FALSE,Purdue,74,Boilermakers,Purdue Boilermakers,Purdue
-300622509,2010-03-03,2,84,away,FALSE,Indiana,55,Hoosiers,Indiana Hoosiers,Indiana
-300620167,2010-03-03,2,167,home,FALSE,New Mexico,73,Lobos,New Mexico Lobos,New Mexico
-300620167,2010-03-03,2,2628,away,FALSE,TCU,66,Horned Frogs,TCU Horned Frogs,TCU
-300620254,2010-03-03,2,254,home,FALSE,Utah,51,Utes,Utah Utes,Utah
-300620254,2010-03-03,2,252,away,FALSE,BYU,71,Cougars,BYU Cougars,BYU
-300620275,2010-03-03,2,275,home,FALSE,Wisconsin,67,Badgers,Wisconsin Badgers,Wisconsin
-300620275,2010-03-03,2,2294,away,FALSE,Iowa,40,Hawkeyes,Iowa Hawkeyes,Iowa
-300622633,2010-03-03,2,2633,home,FALSE,Tennessee,80,Volunteers,Tennessee Volunteers,Tennessee
-300622633,2010-03-03,2,8,away,FALSE,Arkansas,73,Razorbacks,Arkansas Razorbacks,Arkansas
-300620139,2010-03-03,2,139,home,FALSE,Saint Louis,51,Billikens,Saint Louis Billikens,Saint Louis
-300620139,2010-03-03,2,218,away,FALSE,Temple,57,Owls,Temple Owls,Temple
-300620245,2010-03-03,2,245,home,FALSE,Texas A&M,76,Aggies,Texas A&M Aggies,Texas A&M
-300620245,2010-03-03,2,197,away,FALSE,Oklahoma State,61,Cowboys,Oklahoma State Cowboys,Oklahoma St
-300622230,2010-03-03,2,2230,home,FALSE,Fordham,56,Rams,Fordham Rams,Fordham
-300622230,2010-03-03,2,2752,away,FALSE,Xavier,82,Musketeers,Xavier Musketeers,Xavier
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300622305,2010,regular-season,2010-03-03,2,2305,home,FALSE,Kansas,82,Jayhawks,Kansas Jayhawks,Kansas
+300622305,2010,regular-season,2010-03-03,2,2306,away,FALSE,Kansas State,65,Wildcats,Kansas State Wildcats,Kansas St
+300620061,2010,regular-season,2010-03-03,2,61,home,FALSE,Georgia,68,Bulldogs,Georgia Bulldogs,Georgia
+300620061,2010,regular-season,2010-03-03,2,96,away,FALSE,Kentucky,80,Wildcats,Kentucky Wildcats,Kentucky
+300620120,2010,regular-season,2010-03-03,2,120,home,FALSE,Maryland,79,Terrapins,Maryland Terrapins,Maryland
+300620120,2010,regular-season,2010-03-03,2,150,away,FALSE,Duke,72,Blue Devils,Duke Blue Devils,Duke
+300622509,2010,regular-season,2010-03-03,2,2509,home,FALSE,Purdue,74,Boilermakers,Purdue Boilermakers,Purdue
+300622509,2010,regular-season,2010-03-03,2,84,away,FALSE,Indiana,55,Hoosiers,Indiana Hoosiers,Indiana
+300620167,2010,regular-season,2010-03-03,2,167,home,FALSE,New Mexico,73,Lobos,New Mexico Lobos,New Mexico
+300620167,2010,regular-season,2010-03-03,2,2628,away,FALSE,TCU,66,Horned Frogs,TCU Horned Frogs,TCU
+300620254,2010,regular-season,2010-03-03,2,254,home,FALSE,Utah,51,Utes,Utah Utes,Utah
+300620254,2010,regular-season,2010-03-03,2,252,away,FALSE,BYU,71,Cougars,BYU Cougars,BYU
+300620275,2010,regular-season,2010-03-03,2,275,home,FALSE,Wisconsin,67,Badgers,Wisconsin Badgers,Wisconsin
+300620275,2010,regular-season,2010-03-03,2,2294,away,FALSE,Iowa,40,Hawkeyes,Iowa Hawkeyes,Iowa
+300622633,2010,regular-season,2010-03-03,2,2633,home,FALSE,Tennessee,80,Volunteers,Tennessee Volunteers,Tennessee
+300622633,2010,regular-season,2010-03-03,2,8,away,FALSE,Arkansas,73,Razorbacks,Arkansas Razorbacks,Arkansas
+300620139,2010,regular-season,2010-03-03,2,139,home,FALSE,Saint Louis,51,Billikens,Saint Louis Billikens,Saint Louis
+300620139,2010,regular-season,2010-03-03,2,218,away,FALSE,Temple,57,Owls,Temple Owls,Temple
+300620245,2010,regular-season,2010-03-03,2,245,home,FALSE,Texas A&M,76,Aggies,Texas A&M Aggies,Texas A&M
+300620245,2010,regular-season,2010-03-03,2,197,away,FALSE,Oklahoma State,61,Cowboys,Oklahoma State Cowboys,Oklahoma St
+300622230,2010,regular-season,2010-03-03,2,2230,home,FALSE,Fordham,56,Rams,Fordham Rams,Fordham
+300622230,2010,regular-season,2010-03-03,2,2752,away,FALSE,Xavier,82,Musketeers,Xavier Musketeers,Xavier

@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263560139,2006-12-22,2,139,home,FALSE,Saint Louis,48,Billikens,Saint Louis Billikens,Saint Louis
-263560139,2006-12-22,2,153,away,FALSE,North Carolina,69,Tar Heels,North Carolina Tar Heels,North Carolina
-263560167,2006-12-22,2,167,home,FALSE,New Mexico,71,Lobos,New Mexico Lobos,New Mexico
-263560167,2006-12-22,2,2724,away,FALSE,Wichita State,68,Shockers,Wichita State Shockers,Wichita St
-263560002,2006-12-22,2,2,home,FALSE,Auburn,58,Tigers,Auburn Tigers,Auburn
-263560002,2006-12-22,2,245,away,FALSE,Texas A&M,87,Aggies,Texas A&M Aggies,Texas A&M
-263562086,2006-12-22,2,2086,home,FALSE,Butler,76,Bulldogs,Butler Bulldogs,Butler
-263562086,2006-12-22,2,339,away,FALSE,Evansville,65,Purple Aces,Evansville Purple Aces,Evansville
-263560264,2006-12-22,2,264,home,FALSE,Washington,80,Huskies,Washington Huskies,Washington
-263560264,2006-12-22,2,2692,away,FALSE,Weber State,51,Wildcats,Weber State Wildcats,Weber St
-263560269,2006-12-22,2,269,home,FALSE,Marquette,77,Golden Eagles,Marquette Golden Eagles,Marquette
-263560269,2006-12-22,2,2415,away,FALSE,Morgan State,57,Bears,Morgan State Bears,Morgan St
-263560183,2006-12-22,2,183,home,FALSE,Syracuse,85,Orange,Syracuse Orange,Syracuse
-263560183,2006-12-22,2,2275,away,FALSE,Hofstra,60,Pride,Hofstra Pride,Hofstra
-263562006,2006-12-22,2,2006,home,FALSE,Akron,71,Zips,Akron Zips,Akron
-263562006,2006-12-22,2,2440,away,FALSE,Nevada,73,Wolf Pack,Nevada Wolf Pack,Nevada
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263560139,2007,regular-season,2006-12-22,2,139,home,FALSE,Saint Louis,48,Billikens,Saint Louis Billikens,Saint Louis
+263560139,2007,regular-season,2006-12-22,2,153,away,FALSE,North Carolina,69,Tar Heels,North Carolina Tar Heels,North Carolina
+263560167,2007,regular-season,2006-12-22,2,167,home,FALSE,New Mexico,71,Lobos,New Mexico Lobos,New Mexico
+263560167,2007,regular-season,2006-12-22,2,2724,away,FALSE,Wichita State,68,Shockers,Wichita State Shockers,Wichita St
+263560002,2007,regular-season,2006-12-22,2,2,home,FALSE,Auburn,58,Tigers,Auburn Tigers,Auburn
+263560002,2007,regular-season,2006-12-22,2,245,away,FALSE,Texas A&M,87,Aggies,Texas A&M Aggies,Texas A&M
+263562086,2007,regular-season,2006-12-22,2,2086,home,FALSE,Butler,76,Bulldogs,Butler Bulldogs,Butler
+263562086,2007,regular-season,2006-12-22,2,339,away,FALSE,Evansville,65,Purple Aces,Evansville Purple Aces,Evansville
+263560264,2007,regular-season,2006-12-22,2,264,home,FALSE,Washington,80,Huskies,Washington Huskies,Washington
+263560264,2007,regular-season,2006-12-22,2,2692,away,FALSE,Weber State,51,Wildcats,Weber State Wildcats,Weber St
+263560269,2007,regular-season,2006-12-22,2,269,home,FALSE,Marquette,77,Golden Eagles,Marquette Golden Eagles,Marquette
+263560269,2007,regular-season,2006-12-22,2,2415,away,FALSE,Morgan State,57,Bears,Morgan State Bears,Morgan St
+263560183,2007,regular-season,2006-12-22,2,183,home,FALSE,Syracuse,85,Orange,Syracuse Orange,Syracuse
+263560183,2007,regular-season,2006-12-22,2,2275,away,FALSE,Hofstra,60,Pride,Hofstra Pride,Hofstra
+263562006,2007,regular-season,2006-12-22,2,2006,home,FALSE,Akron,71,Zips,Akron Zips,Akron
+263562006,2007,regular-season,2006-12-22,2,2440,away,FALSE,Nevada,73,Wolf Pack,Nevada Wolf Pack,Nevada

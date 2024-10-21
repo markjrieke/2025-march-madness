@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260460041,2006-02-15,2,41,home,FALSE,UConn,84,Huskies,UConn Huskies,UConn
-260460041,2006-02-15,2,2507,away,FALSE,Providence,58,Friars,Providence Friars,Providence
-260460251,2006-02-15,2,251,home,FALSE,Texas,54,Longhorns,Texas Longhorns,Texas
-260460251,2006-02-15,2,201,away,FALSE,Oklahoma,61,Sooners,Oklahoma Sooners,Oklahoma
-260460245,2006-02-15,2,245,home,FALSE,Texas A&M,59,Aggies,Texas A&M Aggies,Texas A&M
-260460245,2006-02-15,2,239,away,FALSE,Baylor,84,Bears,Baylor Bears,Baylor
-260460046,2006-02-15,2,46,home,FALSE,Georgetown,58,Hoyas,Georgetown Hoyas,Georgetown
-260460046,2006-02-15,2,305,away,FALSE,DePaul,64,Blue Demons,DePaul Blue Demons,DePaul
-260462751,2006-02-15,2,2751,home,FALSE,Wyoming,59,Cowgirls,Wyoming Cowgirls,Wyoming
-260462751,2006-02-15,2,167,away,FALSE,New Mexico,52,Lobos,New Mexico Lobos,New Mexico
-260460036,2006-02-15,2,36,home,FALSE,Colorado State,56,Rams,Colorado State Rams,Colorado St
-260460036,2006-02-15,2,254,away,FALSE,Utah,80,Utes,Utah Utes,Utah
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260460041,2006,regular-season,2006-02-15,2,41,home,FALSE,UConn,84,Huskies,UConn Huskies,UConn
+260460041,2006,regular-season,2006-02-15,2,2507,away,FALSE,Providence,58,Friars,Providence Friars,Providence
+260460251,2006,regular-season,2006-02-15,2,251,home,FALSE,Texas,54,Longhorns,Texas Longhorns,Texas
+260460251,2006,regular-season,2006-02-15,2,201,away,FALSE,Oklahoma,61,Sooners,Oklahoma Sooners,Oklahoma
+260460245,2006,regular-season,2006-02-15,2,245,home,FALSE,Texas A&M,59,Aggies,Texas A&M Aggies,Texas A&M
+260460245,2006,regular-season,2006-02-15,2,239,away,FALSE,Baylor,84,Bears,Baylor Bears,Baylor
+260460046,2006,regular-season,2006-02-15,2,46,home,FALSE,Georgetown,58,Hoyas,Georgetown Hoyas,Georgetown
+260460046,2006,regular-season,2006-02-15,2,305,away,FALSE,DePaul,64,Blue Demons,DePaul Blue Demons,DePaul
+260462751,2006,regular-season,2006-02-15,2,2751,home,FALSE,Wyoming,59,Cowgirls,Wyoming Cowgirls,Wyoming
+260462751,2006,regular-season,2006-02-15,2,167,away,FALSE,New Mexico,52,Lobos,New Mexico Lobos,New Mexico
+260460036,2006,regular-season,2006-02-15,2,36,home,FALSE,Colorado State,56,Rams,Colorado State Rams,Colorado St
+260460036,2006,regular-season,2006-02-15,2,254,away,FALSE,Utah,80,Utes,Utah Utes,Utah

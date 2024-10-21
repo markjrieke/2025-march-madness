@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400587979,2015-02-11,2,152,home,FALSE,NC State,47,Wolfpack,NC State Wolfpack,NC State
-400587979,2015-02-11,2,258,away,FALSE,Virginia,51,Cavaliers,Virginia Cavaliers,Virginia
-400588453,2015-02-11,2,2507,home,FALSE,Providence,68,Friars,Providence Friars,Providence
-400588453,2015-02-11,2,222,away,FALSE,Villanova,74,Wildcats,Villanova Wildcats,Villanova
-400587978,2015-02-11,2,97,home,FALSE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
-400587978,2015-02-11,2,221,away,FALSE,Pittsburgh,56,Panthers,Pittsburgh Panthers,Pitt
-400586452,2015-02-11,2,2460,home,FALSE,Northern Iowa,83,Panthers,Northern Iowa Panthers,Northern Iowa
-400586452,2015-02-11,2,2287,away,FALSE,Illinois State,64,Redbirds,Illinois State Redbirds,Illinois St
-400586454,2015-02-11,2,2724,home,FALSE,Wichita State,74,Shockers,Wichita State Shockers,Wichita St
-400586454,2015-02-11,2,282,away,FALSE,Indiana State,57,Sycamores,Indiana State Sycamores,Indiana St
-400595513,2015-02-11,2,120,home,FALSE,Maryland,68,Terrapins,Maryland Terrapins,Maryland
-400595513,2015-02-11,2,84,away,FALSE,Indiana,66,Hoosiers,Indiana Hoosiers,Indiana
-400599772,2015-02-11,4,2670,home,FALSE,VCU,69,Rams,VCU Rams,VCU
-400599772,2015-02-11,4,2325,away,FALSE,La Salle,74,Explorers,La Salle Explorers,La Salle
-400585835,2015-02-11,2,277,home,FALSE,West Virginia,76,Mountaineers,West Virginia Mountaineers,West Virginia
-400585835,2015-02-11,2,2306,away,FALSE,Kansas State,72,Wildcats,Kansas State Wildcats,Kansas St
-400595512,2015-02-11,2,194,home,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
-400595512,2015-02-11,2,213,away,FALSE,Penn State,55,Nittany Lions,Penn State Nittany Lions,Penn State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400587979,2015,regular-season,2015-02-11,2,152,home,FALSE,NC State,47,Wolfpack,NC State Wolfpack,NC State
+400587979,2015,regular-season,2015-02-11,2,258,away,FALSE,Virginia,51,Cavaliers,Virginia Cavaliers,Virginia
+400588453,2015,regular-season,2015-02-11,2,2507,home,FALSE,Providence,68,Friars,Providence Friars,Providence
+400588453,2015,regular-season,2015-02-11,2,222,away,FALSE,Villanova,74,Wildcats,Villanova Wildcats,Villanova
+400587978,2015,regular-season,2015-02-11,2,97,home,FALSE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
+400587978,2015,regular-season,2015-02-11,2,221,away,FALSE,Pittsburgh,56,Panthers,Pittsburgh Panthers,Pitt
+400586452,2015,regular-season,2015-02-11,2,2460,home,FALSE,Northern Iowa,83,Panthers,Northern Iowa Panthers,Northern Iowa
+400586452,2015,regular-season,2015-02-11,2,2287,away,FALSE,Illinois State,64,Redbirds,Illinois State Redbirds,Illinois St
+400586454,2015,regular-season,2015-02-11,2,2724,home,FALSE,Wichita State,74,Shockers,Wichita State Shockers,Wichita St
+400586454,2015,regular-season,2015-02-11,2,282,away,FALSE,Indiana State,57,Sycamores,Indiana State Sycamores,Indiana St
+400595513,2015,regular-season,2015-02-11,2,120,home,FALSE,Maryland,68,Terrapins,Maryland Terrapins,Maryland
+400595513,2015,regular-season,2015-02-11,2,84,away,FALSE,Indiana,66,Hoosiers,Indiana Hoosiers,Indiana
+400599772,2015,regular-season,2015-02-11,4,2670,home,FALSE,VCU,69,Rams,VCU Rams,VCU
+400599772,2015,regular-season,2015-02-11,4,2325,away,FALSE,La Salle,74,Explorers,La Salle Explorers,La Salle
+400585835,2015,regular-season,2015-02-11,2,277,home,FALSE,West Virginia,76,Mountaineers,West Virginia Mountaineers,West Virginia
+400585835,2015,regular-season,2015-02-11,2,2306,away,FALSE,Kansas State,72,Wildcats,Kansas State Wildcats,Kansas St
+400595512,2015,regular-season,2015-02-11,2,194,home,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
+400595512,2015,regular-season,2015-02-11,2,213,away,FALSE,Penn State,55,Nittany Lions,Penn State Nittany Lions,Penn State

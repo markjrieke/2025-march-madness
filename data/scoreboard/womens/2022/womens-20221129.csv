@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401480032,2022-11-29,4,2579,home,FALSE,South Carolina,73,Gamecocks,South Carolina Gamecocks,South Carolina
-401480032,2022-11-29,4,26,away,FALSE,UCLA,64,Bruins,UCLA Bruins,UCLA
-401483557,2022-11-29,4,66,home,FALSE,Iowa State,93,Cyclones,Iowa State Cyclones,Iowa State
-401483557,2022-11-29,4,2565,away,FALSE,SIU Edwardsville,43,Cougars,SIU Edwardsville Cougars,SIUE
-401480095,2022-11-29,4,99,home,FALSE,LSU,63,Tigers,LSU Tigers,LSU
-401480095,2022-11-29,4,2545,away,FALSE,SE Louisiana,55,Lady Lions,SE Louisiana Lady Lions,SE Louisiana
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401480032,2023,regular-season,2022-11-29,4,2579,home,FALSE,South Carolina,73,Gamecocks,South Carolina Gamecocks,South Carolina
+401480032,2023,regular-season,2022-11-29,4,26,away,FALSE,UCLA,64,Bruins,UCLA Bruins,UCLA
+401483557,2023,regular-season,2022-11-29,4,66,home,FALSE,Iowa State,93,Cyclones,Iowa State Cyclones,Iowa State
+401483557,2023,regular-season,2022-11-29,4,2565,away,FALSE,SIU Edwardsville,43,Cougars,SIU Edwardsville Cougars,SIUE
+401480095,2023,regular-season,2022-11-29,4,99,home,FALSE,LSU,63,Tigers,LSU Tigers,LSU
+401480095,2023,regular-season,2022-11-29,4,2545,away,FALSE,SE Louisiana,55,Lady Lions,SE Louisiana Lady Lions,SE Louisiana

@@ -48,10 +48,20 @@ espn_api_scoreboard <- function(date_str,
   # parse game data
   out <- 
     resp_tibble %>%
+      
+    # extract nested cols from season
     unchop(competitions) %>%
-    select(competitions) %>%
+    unnest_wider(season, names_sep = "_") %>%
+    unnest(starts_with("season")) %>%
+    mutate(season = map_int(season_year, ~.x[1]),
+           game_type = map_chr(season_slug, ~.x[1])) %>%
+    select(season,
+           game_type,
+           competitions) %>%
     unnest_wider(competitions) %>%
     select(id,
+           season,
+           game_type,
            status,
            neutral_site = neutralSite,
            competitors) %>%
@@ -61,17 +71,23 @@ espn_api_scoreboard <- function(date_str,
     unnest(c(id, period, neutral_site)) %>%
     mutate(id = map_chr(id, ~.x[1]),
            neutral_site = map_lgl(neutral_site, ~.x[1]),
-           periods = map_int(period, ~.x[1])) %>%
+           periods = map_int(period, ~.x[1]),
+           season = map(season, as.character),
+           season = map_chr(season, ~.x[1])) %>%
     rename(game_id = id) %>%
     
     # get competitors into a tibble format
     unnest(competitors) %>%
     select(game_id,
+           season,
+           game_type,
            periods,
            neutral_site,
            competitors) %>%
     unnest_wider(competitors) %>%
     select(game_id,
+           season,
+           game_type,
            team_id = id,
            home_away = homeAway,
            neutral_site,
@@ -88,6 +104,8 @@ espn_api_scoreboard <- function(date_str,
     # add in game date, get table into final format
     mutate(date = game_date) %>%
     select(game_id,
+           season,
+           game_type,
            date,
            periods,
            team_id,

@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310192305,2011-01-19,2,2305,home,FALSE,Kansas,37,Jayhawks,Kansas Jayhawks,Kansas
-310192305,2011-01-19,2,239,away,FALSE,Baylor,76,Bears,Baylor Bears,Baylor
-310190245,2011-01-19,2,245,home,FALSE,Texas A&M,80,Aggies,Texas A&M Aggies,Texas A&M
-310190245,2011-01-19,2,251,away,FALSE,Texas,65,Longhorns,Texas Longhorns,Texas
-310192752,2011-01-19,2,2752,home,FALSE,Xavier,76,Musketeers,Xavier Musketeers,Xavier
-310192752,2011-01-19,2,179,away,FALSE,St. Bonaventure,56,Bonnies,St. Bonaventure Bonnies,St Bonaventure
-310190277,2011-01-19,2,277,home,FALSE,West Virginia,78,Mountaineers,West Virginia Mountaineers,West Virginia
-310190277,2011-01-19,2,276,away,FALSE,Marshall,21,Thundering Herd,Marshall Thundering Herd,Marshall
-310190201,2011-01-19,2,201,home,FALSE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
-310190201,2011-01-19,2,2641,away,FALSE,Texas Tech,61,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310192305,2011,regular-season,2011-01-19,2,2305,home,FALSE,Kansas,37,Jayhawks,Kansas Jayhawks,Kansas
+310192305,2011,regular-season,2011-01-19,2,239,away,FALSE,Baylor,76,Bears,Baylor Bears,Baylor
+310190245,2011,regular-season,2011-01-19,2,245,home,FALSE,Texas A&M,80,Aggies,Texas A&M Aggies,Texas A&M
+310190245,2011,regular-season,2011-01-19,2,251,away,FALSE,Texas,65,Longhorns,Texas Longhorns,Texas
+310192752,2011,regular-season,2011-01-19,2,2752,home,FALSE,Xavier,76,Musketeers,Xavier Musketeers,Xavier
+310192752,2011,regular-season,2011-01-19,2,179,away,FALSE,St. Bonaventure,56,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+310190277,2011,regular-season,2011-01-19,2,277,home,FALSE,West Virginia,78,Mountaineers,West Virginia Mountaineers,West Virginia
+310190277,2011,regular-season,2011-01-19,2,276,away,FALSE,Marshall,21,Thundering Herd,Marshall Thundering Herd,Marshall
+310190201,2011,regular-season,2011-01-19,2,201,home,FALSE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
+310190201,2011,regular-season,2011-01-19,2,2641,away,FALSE,Texas Tech,61,Lady Raiders,Texas Tech Lady Raiders,Texas Tech

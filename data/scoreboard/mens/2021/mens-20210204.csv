@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401284857,2021-02-04,2,279,home,FALSE,Pacific,58,Tigers,Pacific Tigers,Pacific
-401284857,2021-02-04,2,2250,away,FALSE,Gonzaga,76,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401263384,2021-02-04,2,2294,home,FALSE,Iowa,85,Hawkeyes,Iowa Hawkeyes,Iowa
-401263384,2021-02-04,2,194,away,FALSE,Ohio State,89,Buckeyes,Ohio State Buckeyes,Ohio State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401284857,2021,regular-season,2021-02-04,2,279,home,FALSE,Pacific,58,Tigers,Pacific Tigers,Pacific
+401284857,2021,regular-season,2021-02-04,2,2250,away,FALSE,Gonzaga,76,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401263384,2021,regular-season,2021-02-04,2,2294,home,FALSE,Iowa,85,Hawkeyes,Iowa Hawkeyes,Iowa
+401263384,2021,regular-season,2021-02-04,2,194,away,FALSE,Ohio State,89,Buckeyes,Ohio State Buckeyes,Ohio State

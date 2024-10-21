@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280590009,2008-02-28,2,9,home,FALSE,Arizona State,49,Sun Devils,Arizona State Sun Devils,Arizona St
-280590009,2008-02-28,2,26,away,FALSE,UCLA,70,Bruins,UCLA Bruins,UCLA
-280590024,2008-02-28,2,24,home,FALSE,Stanford,82,Cardinal,Stanford Cardinal,Stanford
-280590024,2008-02-28,2,264,away,FALSE,Washington,79,Huskies,Washington Huskies,Washington
-280590275,2008-02-28,2,275,home,FALSE,Wisconsin,57,Badgers,Wisconsin Badgers,Wisconsin
-280590275,2008-02-28,2,127,away,FALSE,Michigan State,42,Spartans,Michigan State Spartans,Michigan St
-280590097,2008-02-28,2,97,home,FALSE,Louisville,90,Cardinals,Louisville Cardinals,Louisville
-280590097,2008-02-28,2,87,away,FALSE,Notre Dame,85,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-280592086,2008-02-28,2,2086,home,FALSE,Butler,66,Bulldogs,Butler Bulldogs,Butler
-280592086,2008-02-28,2,2750,away,FALSE,Wright State,61,Raiders,Wright State Raiders,Wright St
-280590025,2008-02-28,2,25,home,FALSE,California,49,Golden Bears,California Golden Bears,California
-280590025,2008-02-28,2,265,away,FALSE,Washington State,70,Cougars,Washington State Cougars,Washington St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280590009,2008,regular-season,2008-02-28,2,9,home,FALSE,Arizona State,49,Sun Devils,Arizona State Sun Devils,Arizona St
+280590009,2008,regular-season,2008-02-28,2,26,away,FALSE,UCLA,70,Bruins,UCLA Bruins,UCLA
+280590024,2008,regular-season,2008-02-28,2,24,home,FALSE,Stanford,82,Cardinal,Stanford Cardinal,Stanford
+280590024,2008,regular-season,2008-02-28,2,264,away,FALSE,Washington,79,Huskies,Washington Huskies,Washington
+280590275,2008,regular-season,2008-02-28,2,275,home,FALSE,Wisconsin,57,Badgers,Wisconsin Badgers,Wisconsin
+280590275,2008,regular-season,2008-02-28,2,127,away,FALSE,Michigan State,42,Spartans,Michigan State Spartans,Michigan St
+280590097,2008,regular-season,2008-02-28,2,97,home,FALSE,Louisville,90,Cardinals,Louisville Cardinals,Louisville
+280590097,2008,regular-season,2008-02-28,2,87,away,FALSE,Notre Dame,85,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+280592086,2008,regular-season,2008-02-28,2,2086,home,FALSE,Butler,66,Bulldogs,Butler Bulldogs,Butler
+280592086,2008,regular-season,2008-02-28,2,2750,away,FALSE,Wright State,61,Raiders,Wright State Raiders,Wright St
+280590025,2008,regular-season,2008-02-28,2,25,home,FALSE,California,49,Golden Bears,California Golden Bears,California
+280590025,2008,regular-season,2008-02-28,2,265,away,FALSE,Washington State,70,Cougars,Washington State Cougars,Washington St

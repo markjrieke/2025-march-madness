@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401092684,2018-12-02,4,2483,home,FALSE,Oregon,110,Ducks,Oregon Ducks,Oregon
-401092684,2018-12-02,4,299,away,FALSE,Long Beach State,48,Beach,Long Beach State Beach,Long Beach St
-401091968,2018-12-02,4,97,home,FALSE,Louisville,107,Cardinals,Louisville Cardinals,Louisville
-401091968,2018-12-02,4,2634,away,FALSE,Tennessee State,52,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
-401093850,2018-12-02,4,120,home,FALSE,Maryland,92,Terrapins,Maryland Terrapins,Maryland
-401093850,2018-12-02,4,2378,away,FALSE,UMBC,61,Retrievers,UMBC Retrievers,UMBC
-401093955,2018-12-02,4,2250,home,FALSE,Gonzaga,79,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401093955,2018-12-02,4,24,away,FALSE,Stanford,73,Cardinal,Stanford Cardinal,Stanford
-401091972,2018-12-02,4,183,home,FALSE,Syracuse,98,Orange,Syracuse Orange,Syracuse
-401091972,2018-12-02,4,119,away,FALSE,Towson,55,Tigers,Towson Tigers,Towson
-401091970,2018-12-02,4,152,home,FALSE,NC State,85,Wolfpack,NC State Wolfpack,NC State
-401091970,2018-12-02,4,295,away,FALSE,Old Dominion,56,Monarchs,Old Dominion Monarchs,Old Dominion
-401094663,2018-12-02,4,2294,home,FALSE,Iowa,92,Hawkeyes,Iowa Hawkeyes,Iowa
-401094663,2018-12-02,4,2523,away,FALSE,Robert Morris,63,Colonials,Robert Morris Colonials,Robert Morris
-401092685,2018-12-02,4,25,home,FALSE,California,67,Golden Bears,California Golden Bears,California
-401092685,2018-12-02,4,2463,away,FALSE,Cal State Northridge,42,Matadors,Cal State Northridge Matadors,CSU Northridge
-401094411,2018-12-02,4,135,home,FALSE,Minnesota,67,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401094411,2018-12-02,4,2005,away,FALSE,Air Force,50,Falcons,Air Force Falcons,Air Force
-401091969,2018-12-02,4,2390,home,FALSE,Miami,73,Hurricanes,Miami Hurricanes,Miami
-401091969,2018-12-02,4,38,away,FALSE,Colorado,58,Buffaloes,Colorado Buffaloes,Colorado
-401091049,2018-12-02,4,269,home,FALSE,Marquette,85,Golden Eagles,Marquette Golden Eagles,Marquette
-401091049,2018-12-02,4,130,away,FALSE,Michigan,74,Wolverines,Michigan Wolverines,Michigan
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401092684,2019,regular-season,2018-12-02,4,2483,home,FALSE,Oregon,110,Ducks,Oregon Ducks,Oregon
+401092684,2019,regular-season,2018-12-02,4,299,away,FALSE,Long Beach State,48,Beach,Long Beach State Beach,Long Beach St
+401091968,2019,regular-season,2018-12-02,4,97,home,FALSE,Louisville,107,Cardinals,Louisville Cardinals,Louisville
+401091968,2019,regular-season,2018-12-02,4,2634,away,FALSE,Tennessee State,52,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
+401093850,2019,regular-season,2018-12-02,4,120,home,FALSE,Maryland,92,Terrapins,Maryland Terrapins,Maryland
+401093850,2019,regular-season,2018-12-02,4,2378,away,FALSE,UMBC,61,Retrievers,UMBC Retrievers,UMBC
+401093955,2019,regular-season,2018-12-02,4,2250,home,FALSE,Gonzaga,79,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401093955,2019,regular-season,2018-12-02,4,24,away,FALSE,Stanford,73,Cardinal,Stanford Cardinal,Stanford
+401091972,2019,regular-season,2018-12-02,4,183,home,FALSE,Syracuse,98,Orange,Syracuse Orange,Syracuse
+401091972,2019,regular-season,2018-12-02,4,119,away,FALSE,Towson,55,Tigers,Towson Tigers,Towson
+401091970,2019,regular-season,2018-12-02,4,152,home,FALSE,NC State,85,Wolfpack,NC State Wolfpack,NC State
+401091970,2019,regular-season,2018-12-02,4,295,away,FALSE,Old Dominion,56,Monarchs,Old Dominion Monarchs,Old Dominion
+401094663,2019,regular-season,2018-12-02,4,2294,home,FALSE,Iowa,92,Hawkeyes,Iowa Hawkeyes,Iowa
+401094663,2019,regular-season,2018-12-02,4,2523,away,FALSE,Robert Morris,63,Colonials,Robert Morris Colonials,Robert Morris
+401092685,2019,regular-season,2018-12-02,4,25,home,FALSE,California,67,Golden Bears,California Golden Bears,California
+401092685,2019,regular-season,2018-12-02,4,2463,away,FALSE,Cal State Northridge,42,Matadors,Cal State Northridge Matadors,CSU Northridge
+401094411,2019,regular-season,2018-12-02,4,135,home,FALSE,Minnesota,67,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401094411,2019,regular-season,2018-12-02,4,2005,away,FALSE,Air Force,50,Falcons,Air Force Falcons,Air Force
+401091969,2019,regular-season,2018-12-02,4,2390,home,FALSE,Miami,73,Hurricanes,Miami Hurricanes,Miami
+401091969,2019,regular-season,2018-12-02,4,38,away,FALSE,Colorado,58,Buffaloes,Colorado Buffaloes,Colorado
+401091049,2019,regular-season,2018-12-02,4,269,home,FALSE,Marquette,85,Golden Eagles,Marquette Golden Eagles,Marquette
+401091049,2019,regular-season,2018-12-02,4,130,away,FALSE,Michigan,74,Wolverines,Michigan Wolverines,Michigan

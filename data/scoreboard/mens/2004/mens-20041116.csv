@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243210012,2004-11-16,2,12,home,FALSE,Arizona,80,Wildcats,Arizona Wildcats,Arizona
-243210012,2004-11-16,2,301,away,FALSE,San Diego,69,Toreros,San Diego Toreros,San Diego
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243210012,2005,regular-season,2004-11-16,2,12,home,FALSE,Arizona,80,Wildcats,Arizona Wildcats,Arizona
+243210012,2005,regular-season,2004-11-16,2,301,away,FALSE,San Diego,69,Toreros,San Diego Toreros,San Diego

@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330050041,2013-01-05,2,41,home,FALSE,UConn,72,Huskies,UConn Huskies,UConn
-330050041,2013-01-05,2,87,away,FALSE,Notre Dame,73,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-330050305,2013-01-05,2,305,home,FALSE,DePaul,86,Blue Demons,DePaul Blue Demons,DePaul
-330050305,2013-01-05,2,97,away,FALSE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
-330050158,2013-01-05,3,158,home,FALSE,Nebraska,66,Cornhuskers,Nebraska Cornhuskers,Nebraska
-330050158,2013-01-05,3,2509,away,FALSE,Purdue,69,Boilermakers,Purdue Boilermakers,Purdue
-330050251,2013-01-05,2,251,home,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas
-330050251,2013-01-05,2,201,away,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
-330050277,2013-01-05,2,277,home,FALSE,West Virginia,59,Mountaineers,West Virginia Mountaineers,West Virginia
-330050277,2013-01-05,2,2305,away,FALSE,Kansas,60,Jayhawks,Kansas Jayhawks,Kansas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330050041,2013,regular-season,2013-01-05,2,41,home,FALSE,UConn,72,Huskies,UConn Huskies,UConn
+330050041,2013,regular-season,2013-01-05,2,87,away,FALSE,Notre Dame,73,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+330050305,2013,regular-season,2013-01-05,2,305,home,FALSE,DePaul,86,Blue Demons,DePaul Blue Demons,DePaul
+330050305,2013,regular-season,2013-01-05,2,97,away,FALSE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
+330050158,2013,regular-season,2013-01-05,3,158,home,FALSE,Nebraska,66,Cornhuskers,Nebraska Cornhuskers,Nebraska
+330050158,2013,regular-season,2013-01-05,3,2509,away,FALSE,Purdue,69,Boilermakers,Purdue Boilermakers,Purdue
+330050251,2013,regular-season,2013-01-05,2,251,home,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas
+330050251,2013,regular-season,2013-01-05,2,201,away,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
+330050277,2013,regular-season,2013-01-05,2,277,home,FALSE,West Virginia,59,Mountaineers,West Virginia Mountaineers,West Virginia
+330050277,2013,regular-season,2013-01-05,2,2305,away,FALSE,Kansas,60,Jayhawks,Kansas Jayhawks,Kansas

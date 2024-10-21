@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401092583,2019-02-09,4,239,home,FALSE,Baylor,89,Bears,Baylor Bears,Baylor
-401092583,2019-02-09,4,2628,away,FALSE,TCU,71,Horned Frogs,TCU Horned Frogs,TCU
-401090624,2019-02-09,4,41,home,FALSE,UConn,109,Huskies,UConn Huskies,UConn
-401090624,2019-02-09,4,218,away,FALSE,Temple,74,Owls,Temple Owls,Temple
-401094041,2019-02-09,4,2501,home,FALSE,Portland,62,Pilots,Portland Pilots,Portland
-401094041,2019-02-09,4,2250,away,FALSE,Gonzaga,93,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401092606,2019-02-09,4,2305,home,FALSE,Kansas,73,Jayhawks,Kansas Jayhawks,Kansas
-401092606,2019-02-09,4,251,away,FALSE,Texas,91,Longhorns,Texas Longhorns,Texas
-401092631,2019-02-09,4,66,home,FALSE,Iowa State,77,Cyclones,Iowa State Cyclones,Iowa State
-401092631,2019-02-09,4,277,away,FALSE,West Virginia,61,Mountaineers,West Virginia Mountaineers,West Virginia
-401094290,2019-02-09,0,264,home,FALSE,Washington,0,Huskies,Washington Huskies,Washington
-401094290,2019-02-09,0,9,away,FALSE,Arizona State,0,Sun Devils,Arizona State Sun Devils,Arizona St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401092583,2019,regular-season,2019-02-09,4,239,home,FALSE,Baylor,89,Bears,Baylor Bears,Baylor
+401092583,2019,regular-season,2019-02-09,4,2628,away,FALSE,TCU,71,Horned Frogs,TCU Horned Frogs,TCU
+401090624,2019,regular-season,2019-02-09,4,41,home,FALSE,UConn,109,Huskies,UConn Huskies,UConn
+401090624,2019,regular-season,2019-02-09,4,218,away,FALSE,Temple,74,Owls,Temple Owls,Temple
+401094041,2019,regular-season,2019-02-09,4,2501,home,FALSE,Portland,62,Pilots,Portland Pilots,Portland
+401094041,2019,regular-season,2019-02-09,4,2250,away,FALSE,Gonzaga,93,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401092606,2019,regular-season,2019-02-09,4,2305,home,FALSE,Kansas,73,Jayhawks,Kansas Jayhawks,Kansas
+401092606,2019,regular-season,2019-02-09,4,251,away,FALSE,Texas,91,Longhorns,Texas Longhorns,Texas
+401092631,2019,regular-season,2019-02-09,4,66,home,FALSE,Iowa State,77,Cyclones,Iowa State Cyclones,Iowa State
+401092631,2019,regular-season,2019-02-09,4,277,away,FALSE,West Virginia,61,Mountaineers,West Virginia Mountaineers,West Virginia
+401094290,2019,regular-season,2019-02-09,0,264,home,FALSE,Washington,0,Huskies,Washington Huskies,Washington
+401094290,2019,regular-season,2019-02-09,0,9,away,FALSE,Arizona State,0,Sun Devils,Arizona State Sun Devils,Arizona St

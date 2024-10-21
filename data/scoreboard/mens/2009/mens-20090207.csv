@@ -1,35 +1,35 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290380041,2009-02-07,2,41,home,FALSE,UConn,69,Huskies,UConn Huskies,UConn
-290380041,2009-02-07,2,130,away,FALSE,Michigan,61,Wolverines,Michigan Wolverines,Michigan
-290380201,2009-02-07,2,201,home,FALSE,Oklahoma,77,Sooners,Oklahoma Sooners,Oklahoma
-290380201,2009-02-07,2,38,away,FALSE,Colorado,72,Buffaloes,Colorado Buffaloes,Colorado
-290380153,2009-02-07,2,153,home,FALSE,North Carolina,76,Tar Heels,North Carolina Tar Heels,North Carolina
-290380153,2009-02-07,2,258,away,FALSE,Virginia,61,Cavaliers,Virginia Cavaliers,Virginia
-290380150,2009-02-07,3,150,home,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
-290380150,2009-02-07,3,2390,away,FALSE,Miami,75,Hurricanes,Miami Hurricanes,Miami
-290380305,2009-02-07,2,305,home,FALSE,DePaul,69,Blue Demons,DePaul Blue Demons,DePaul
-290380305,2009-02-07,2,221,away,FALSE,Pittsburgh,92,Panthers,Pittsburgh Panthers,Pitt
-290382184,2009-02-07,2,2184,home,FALSE,Duquesne,72,Dukes,Duquesne Dukes,Duquesne
-290382184,2009-02-07,2,2752,away,FALSE,Xavier,68,Musketeers,Xavier Musketeers,Xavier
-290380228,2009-02-07,2,228,home,FALSE,Clemson,61,Tigers,Clemson Tigers,Clemson
-290380228,2009-02-07,2,52,away,FALSE,Florida State,65,Seminoles,Florida State Seminoles,Florida St
-290382750,2009-02-07,2,2750,home,FALSE,Wright State,51,Raiders,Wright State Raiders,Wright St
-290382750,2009-02-07,2,2086,away,FALSE,Butler,69,Bulldogs,Butler Bulldogs,Butler
-290380127,2009-02-07,2,127,home,FALSE,Michigan State,75,Spartans,Michigan State Spartans,Michigan St
-290380127,2009-02-07,2,84,away,FALSE,Indiana,47,Hoosiers,Indiana Hoosiers,Indiana
-290382250,2009-02-07,2,2250,home,FALSE,Gonzaga,50,Bulldogs,Gonzaga Bulldogs,Gonzaga
-290382250,2009-02-07,2,235,away,FALSE,Memphis,68,Tigers,Memphis Tigers,Memphis
-290380026,2009-02-07,2,26,home,FALSE,UCLA,89,Bruins,UCLA Bruins,UCLA
-290380026,2009-02-07,2,87,away,FALSE,Notre Dame,63,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-290380158,2009-02-07,2,158,home,FALSE,Nebraska,58,Cornhuskers,Nebraska Cornhuskers,Nebraska
-290380158,2009-02-07,2,251,away,FALSE,Texas,55,Longhorns,Texas Longhorns,Texas
-290380222,2009-02-07,2,222,home,TRUE,Villanova,102,Wildcats,Villanova Wildcats,Villanova
-290380222,2009-02-07,2,183,away,TRUE,Syracuse,85,Orange,Syracuse Orange,Syracuse
-290380194,2009-02-07,2,194,home,FALSE,Ohio State,64,Buckeyes,Ohio State Buckeyes,Ohio State
-290380194,2009-02-07,2,135,away,FALSE,Minnesota,58,Golden Gophers,Minnesota Golden Gophers,Minnesota
-290382305,2009-02-07,2,2305,home,FALSE,Kansas,78,Jayhawks,Kansas Jayhawks,Kansas
-290382305,2009-02-07,2,197,away,FALSE,Oklahoma State,67,Cowboys,Oklahoma State Cowboys,Oklahoma St
-290380204,2009-02-07,2,204,home,FALSE,Oregon State,38,Beavers,Oregon State Beavers,Oregon St
-290380204,2009-02-07,2,9,away,FALSE,Arizona State,49,Sun Devils,Arizona State Sun Devils,Arizona St
-290380328,2009-02-07,2,328,home,FALSE,Utah State,60,Aggies,Utah State Aggies,Utah State
-290380328,2009-02-07,2,2348,away,FALSE,Louisiana Tech,52,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290380041,2009,regular-season,2009-02-07,2,41,home,FALSE,UConn,69,Huskies,UConn Huskies,UConn
+290380041,2009,regular-season,2009-02-07,2,130,away,FALSE,Michigan,61,Wolverines,Michigan Wolverines,Michigan
+290380201,2009,regular-season,2009-02-07,2,201,home,FALSE,Oklahoma,77,Sooners,Oklahoma Sooners,Oklahoma
+290380201,2009,regular-season,2009-02-07,2,38,away,FALSE,Colorado,72,Buffaloes,Colorado Buffaloes,Colorado
+290380153,2009,regular-season,2009-02-07,2,153,home,FALSE,North Carolina,76,Tar Heels,North Carolina Tar Heels,North Carolina
+290380153,2009,regular-season,2009-02-07,2,258,away,FALSE,Virginia,61,Cavaliers,Virginia Cavaliers,Virginia
+290380150,2009,regular-season,2009-02-07,3,150,home,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
+290380150,2009,regular-season,2009-02-07,3,2390,away,FALSE,Miami,75,Hurricanes,Miami Hurricanes,Miami
+290380305,2009,regular-season,2009-02-07,2,305,home,FALSE,DePaul,69,Blue Demons,DePaul Blue Demons,DePaul
+290380305,2009,regular-season,2009-02-07,2,221,away,FALSE,Pittsburgh,92,Panthers,Pittsburgh Panthers,Pitt
+290382184,2009,regular-season,2009-02-07,2,2184,home,FALSE,Duquesne,72,Dukes,Duquesne Dukes,Duquesne
+290382184,2009,regular-season,2009-02-07,2,2752,away,FALSE,Xavier,68,Musketeers,Xavier Musketeers,Xavier
+290380228,2009,regular-season,2009-02-07,2,228,home,FALSE,Clemson,61,Tigers,Clemson Tigers,Clemson
+290380228,2009,regular-season,2009-02-07,2,52,away,FALSE,Florida State,65,Seminoles,Florida State Seminoles,Florida St
+290382750,2009,regular-season,2009-02-07,2,2750,home,FALSE,Wright State,51,Raiders,Wright State Raiders,Wright St
+290382750,2009,regular-season,2009-02-07,2,2086,away,FALSE,Butler,69,Bulldogs,Butler Bulldogs,Butler
+290380127,2009,regular-season,2009-02-07,2,127,home,FALSE,Michigan State,75,Spartans,Michigan State Spartans,Michigan St
+290380127,2009,regular-season,2009-02-07,2,84,away,FALSE,Indiana,47,Hoosiers,Indiana Hoosiers,Indiana
+290382250,2009,regular-season,2009-02-07,2,2250,home,FALSE,Gonzaga,50,Bulldogs,Gonzaga Bulldogs,Gonzaga
+290382250,2009,regular-season,2009-02-07,2,235,away,FALSE,Memphis,68,Tigers,Memphis Tigers,Memphis
+290380026,2009,regular-season,2009-02-07,2,26,home,FALSE,UCLA,89,Bruins,UCLA Bruins,UCLA
+290380026,2009,regular-season,2009-02-07,2,87,away,FALSE,Notre Dame,63,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+290380158,2009,regular-season,2009-02-07,2,158,home,FALSE,Nebraska,58,Cornhuskers,Nebraska Cornhuskers,Nebraska
+290380158,2009,regular-season,2009-02-07,2,251,away,FALSE,Texas,55,Longhorns,Texas Longhorns,Texas
+290380222,2009,regular-season,2009-02-07,2,222,home,TRUE,Villanova,102,Wildcats,Villanova Wildcats,Villanova
+290380222,2009,regular-season,2009-02-07,2,183,away,TRUE,Syracuse,85,Orange,Syracuse Orange,Syracuse
+290380194,2009,regular-season,2009-02-07,2,194,home,FALSE,Ohio State,64,Buckeyes,Ohio State Buckeyes,Ohio State
+290380194,2009,regular-season,2009-02-07,2,135,away,FALSE,Minnesota,58,Golden Gophers,Minnesota Golden Gophers,Minnesota
+290382305,2009,regular-season,2009-02-07,2,2305,home,FALSE,Kansas,78,Jayhawks,Kansas Jayhawks,Kansas
+290382305,2009,regular-season,2009-02-07,2,197,away,FALSE,Oklahoma State,67,Cowboys,Oklahoma State Cowboys,Oklahoma St
+290380204,2009,regular-season,2009-02-07,2,204,home,FALSE,Oregon State,38,Beavers,Oregon State Beavers,Oregon St
+290380204,2009,regular-season,2009-02-07,2,9,away,FALSE,Arizona State,49,Sun Devils,Arizona State Sun Devils,Arizona St
+290380328,2009,regular-season,2009-02-07,2,328,home,FALSE,Utah State,60,Aggies,Utah State Aggies,Utah State
+290380328,2009,regular-season,2009-02-07,2,2348,away,FALSE,Louisiana Tech,52,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech

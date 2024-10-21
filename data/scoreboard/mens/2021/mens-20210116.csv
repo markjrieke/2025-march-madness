@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401253731,2021-01-16,2,2608,home,FALSE,Saint Mary's,59,Gaels,Saint Mary's Gaels,Saint Mary's
-401253731,2021-01-16,2,2250,away,FALSE,Gonzaga,73,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401253863,2021-01-16,2,2641,home,FALSE,Texas Tech,60,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401253863,2021-01-16,2,239,away,FALSE,Baylor,68,Bears,Baylor Bears,Baylor
-401253862,2021-01-16,2,251,home,FALSE,Texas,82,Longhorns,Texas Longhorns,Texas
-401253862,2021-01-16,2,2306,away,FALSE,Kansas State,67,Wildcats,Kansas State Wildcats,Kansas St
-401263400,2021-01-16,2,135,home,FALSE,Minnesota,75,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401263400,2021-01-16,2,130,away,FALSE,Michigan,57,Wolverines,Michigan Wolverines,Michigan
-401269612,2021-01-16,3,2086,home,FALSE,Butler,70,Bulldogs,Butler Bulldogs,Butler
-401269612,2021-01-16,3,156,away,FALSE,Creighton,66,Bluejays,Creighton Bluejays,Creighton
-401258754,2021-01-16,2,2633,home,FALSE,Tennessee,81,Volunteers,Tennessee Volunteers,Tennessee
-401258754,2021-01-16,2,238,away,FALSE,Vanderbilt,61,Commodores,Vanderbilt Commodores,Vanderbilt
-401260219,2021-01-16,2,228,home,FALSE,Clemson,50,Tigers,Clemson Tigers,Clemson
-401260219,2021-01-16,2,258,away,FALSE,Virginia,85,Cavaliers,Virginia Cavaliers,Virginia
-401263398,2021-01-16,2,356,home,FALSE,Illinois,81,Fighting Illini,Illinois Fighting Illini,Illinois
-401263398,2021-01-16,2,194,away,FALSE,Ohio State,87,Buckeyes,Ohio State Buckeyes,Ohio State
-401260222,2021-01-16,2,2390,home,FALSE,Miami,78,Hurricanes,Miami Hurricanes,Miami
-401260222,2021-01-16,2,97,away,FALSE,Louisville,72,Cardinals,Louisville Cardinals,Louisville
-401258753,2021-01-16,2,245,home,FALSE,Texas A&M,52,Aggies,Texas A&M Aggies,Texas A&M
-401258753,2021-01-16,2,142,away,FALSE,Missouri,68,Tigers,Missouri Tigers,Missouri
-401253860,2021-01-16,0,2305,home,FALSE,Kansas,0,Jayhawks,Kansas Jayhawks,Kansas
-401253860,2021-01-16,0,66,away,FALSE,Iowa State,0,Cyclones,Iowa State Cyclones,Iowa State
-401253864,2021-01-16,0,277,home,FALSE,West Virginia,0,Mountaineers,West Virginia Mountaineers,West Virginia
-401253864,2021-01-16,0,2628,away,FALSE,TCU,0,Horned Frogs,TCU Horned Frogs,TCU
-401265377,2021-01-16,0,2483,home,FALSE,Oregon,0,Ducks,Oregon Ducks,Oregon
-401265377,2021-01-16,0,12,away,FALSE,Arizona,0,Wildcats,Arizona Wildcats,Arizona
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401253731,2021,regular-season,2021-01-16,2,2608,home,FALSE,Saint Mary's,59,Gaels,Saint Mary's Gaels,Saint Mary's
+401253731,2021,regular-season,2021-01-16,2,2250,away,FALSE,Gonzaga,73,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401253863,2021,regular-season,2021-01-16,2,2641,home,FALSE,Texas Tech,60,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401253863,2021,regular-season,2021-01-16,2,239,away,FALSE,Baylor,68,Bears,Baylor Bears,Baylor
+401253862,2021,regular-season,2021-01-16,2,251,home,FALSE,Texas,82,Longhorns,Texas Longhorns,Texas
+401253862,2021,regular-season,2021-01-16,2,2306,away,FALSE,Kansas State,67,Wildcats,Kansas State Wildcats,Kansas St
+401263400,2021,regular-season,2021-01-16,2,135,home,FALSE,Minnesota,75,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401263400,2021,regular-season,2021-01-16,2,130,away,FALSE,Michigan,57,Wolverines,Michigan Wolverines,Michigan
+401269612,2021,regular-season,2021-01-16,3,2086,home,FALSE,Butler,70,Bulldogs,Butler Bulldogs,Butler
+401269612,2021,regular-season,2021-01-16,3,156,away,FALSE,Creighton,66,Bluejays,Creighton Bluejays,Creighton
+401258754,2021,regular-season,2021-01-16,2,2633,home,FALSE,Tennessee,81,Volunteers,Tennessee Volunteers,Tennessee
+401258754,2021,regular-season,2021-01-16,2,238,away,FALSE,Vanderbilt,61,Commodores,Vanderbilt Commodores,Vanderbilt
+401260219,2021,regular-season,2021-01-16,2,228,home,FALSE,Clemson,50,Tigers,Clemson Tigers,Clemson
+401260219,2021,regular-season,2021-01-16,2,258,away,FALSE,Virginia,85,Cavaliers,Virginia Cavaliers,Virginia
+401263398,2021,regular-season,2021-01-16,2,356,home,FALSE,Illinois,81,Fighting Illini,Illinois Fighting Illini,Illinois
+401263398,2021,regular-season,2021-01-16,2,194,away,FALSE,Ohio State,87,Buckeyes,Ohio State Buckeyes,Ohio State
+401260222,2021,regular-season,2021-01-16,2,2390,home,FALSE,Miami,78,Hurricanes,Miami Hurricanes,Miami
+401260222,2021,regular-season,2021-01-16,2,97,away,FALSE,Louisville,72,Cardinals,Louisville Cardinals,Louisville
+401258753,2021,regular-season,2021-01-16,2,245,home,FALSE,Texas A&M,52,Aggies,Texas A&M Aggies,Texas A&M
+401258753,2021,regular-season,2021-01-16,2,142,away,FALSE,Missouri,68,Tigers,Missouri Tigers,Missouri
+401253860,2021,regular-season,2021-01-16,0,2305,home,FALSE,Kansas,0,Jayhawks,Kansas Jayhawks,Kansas
+401253860,2021,regular-season,2021-01-16,0,66,away,FALSE,Iowa State,0,Cyclones,Iowa State Cyclones,Iowa State
+401253864,2021,regular-season,2021-01-16,0,277,home,FALSE,West Virginia,0,Mountaineers,West Virginia Mountaineers,West Virginia
+401253864,2021,regular-season,2021-01-16,0,2628,away,FALSE,TCU,0,Horned Frogs,TCU Horned Frogs,TCU
+401265377,2021,regular-season,2021-01-16,0,2483,home,FALSE,Oregon,0,Ducks,Oregon Ducks,Oregon
+401265377,2021,regular-season,2021-01-16,0,12,away,FALSE,Arizona,0,Wildcats,Arizona Wildcats,Arizona

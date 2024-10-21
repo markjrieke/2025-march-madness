@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401524232,2023-03-06,2,2447,home,TRUE,Nicholls,71,Colonels,Nicholls Colonels,Nicholls
-401524232,2023-03-06,2,2377,away,TRUE,McNeese,77,Cowboys,McNeese Cowboys,McNeese
-401514281,2023-03-06,3,2275,home,TRUE,Hofstra,73,Pride,Hofstra Pride,Hofstra
-401514281,2023-03-06,3,350,away,TRUE,UNC Wilmington,79,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
-401514382,2023-03-06,2,309,home,TRUE,Louisiana,71,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
-401514382,2023-03-06,2,6,away,TRUE,South Alabama,66,Jaguars,South Alabama Jaguars,South Alabama
-401514367,2023-03-06,2,198,home,TRUE,Oral Roberts,70,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-401514367,2023-03-06,2,2900,away,TRUE,St. Thomas-Minnesota,65,Tommies,St. Thomas-Minnesota Tommies,St Thomas (MN)
-401514360,2023-03-06,2,231,home,TRUE,Furman,88,Paladins,Furman Paladins,Furman
-401514360,2023-03-06,2,236,away,TRUE,Chattanooga,79,Mocs,Chattanooga Mocs,Chattanooga
-401514290,2023-03-06,2,2754,home,TRUE,Youngstown State,63,Penguins,Youngstown State Penguins,Youngstown St
-401514290,2023-03-06,2,94,away,TRUE,Northern Kentucky,75,Norse,Northern Kentucky Norse,N Kentucky
-401523956,2023-03-06,2,149,home,TRUE,Montana,83,Grizzlies,Montana Grizzlies,Montana
-401523956,2023-03-06,2,304,away,TRUE,Idaho State,74,Bengals,Idaho State Bengals,Idaho St
-401524233,2023-03-06,2,2545,home,TRUE,SE Louisiana,78,Lions,SE Louisiana Lions,SE Louisiana
-401524233,2023-03-06,2,2443,away,TRUE,New Orleans,82,Privateers,New Orleans Privateers,New Orleans
-401514400,2023-03-06,2,2608,home,TRUE,Saint Mary's,76,Gaels,Saint Mary's Gaels,Saint Mary's
-401514400,2023-03-06,2,252,away,TRUE,BYU,69,Cougars,BYU Cougars,BYU
-401514282,2023-03-06,2,232,home,TRUE,Charleston,77,Cougars,Charleston Cougars,Charleston
-401514282,2023-03-06,2,119,away,TRUE,Towson,72,Tigers,Towson Tigers,Towson
-401514368,2023-03-06,2,2571,home,TRUE,South Dakota State,79,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-401514368,2023-03-06,2,2449,away,TRUE,North Dakota State,89,Bison,North Dakota State Bison,N Dakota St
-401514291,2023-03-06,2,270,home,TRUE,Milwaukee,80,Panthers,Milwaukee Panthers,Milwaukee
-401514291,2023-03-06,2,325,away,TRUE,Cleveland State,93,Vikings,Cleveland State Vikings,Cleveland St
-401523957,2023-03-06,2,2692,home,TRUE,Weber State,70,Wildcats,Weber State Wildcats,Weber St
-401523957,2023-03-06,2,16,away,TRUE,Sacramento State,64,Hornets,Sacramento State Hornets,Sacramento St
-401514401,2023-03-06,2,2250,home,TRUE,Gonzaga,84,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401514401,2023-03-06,2,2539,away,TRUE,San Francisco,73,Dons,San Francisco Dons,San Francisco
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401524232,2023,regular-season,2023-03-06,2,2447,home,TRUE,Nicholls,71,Colonels,Nicholls Colonels,Nicholls
+401524232,2023,regular-season,2023-03-06,2,2377,away,TRUE,McNeese,77,Cowboys,McNeese Cowboys,McNeese
+401514281,2023,regular-season,2023-03-06,3,2275,home,TRUE,Hofstra,73,Pride,Hofstra Pride,Hofstra
+401514281,2023,regular-season,2023-03-06,3,350,away,TRUE,UNC Wilmington,79,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+401514382,2023,regular-season,2023-03-06,2,309,home,TRUE,Louisiana,71,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+401514382,2023,regular-season,2023-03-06,2,6,away,TRUE,South Alabama,66,Jaguars,South Alabama Jaguars,South Alabama
+401514367,2023,regular-season,2023-03-06,2,198,home,TRUE,Oral Roberts,70,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+401514367,2023,regular-season,2023-03-06,2,2900,away,TRUE,St. Thomas-Minnesota,65,Tommies,St. Thomas-Minnesota Tommies,St Thomas (MN)
+401514360,2023,regular-season,2023-03-06,2,231,home,TRUE,Furman,88,Paladins,Furman Paladins,Furman
+401514360,2023,regular-season,2023-03-06,2,236,away,TRUE,Chattanooga,79,Mocs,Chattanooga Mocs,Chattanooga
+401514290,2023,regular-season,2023-03-06,2,2754,home,TRUE,Youngstown State,63,Penguins,Youngstown State Penguins,Youngstown St
+401514290,2023,regular-season,2023-03-06,2,94,away,TRUE,Northern Kentucky,75,Norse,Northern Kentucky Norse,N Kentucky
+401523956,2023,regular-season,2023-03-06,2,149,home,TRUE,Montana,83,Grizzlies,Montana Grizzlies,Montana
+401523956,2023,regular-season,2023-03-06,2,304,away,TRUE,Idaho State,74,Bengals,Idaho State Bengals,Idaho St
+401524233,2023,regular-season,2023-03-06,2,2545,home,TRUE,SE Louisiana,78,Lions,SE Louisiana Lions,SE Louisiana
+401524233,2023,regular-season,2023-03-06,2,2443,away,TRUE,New Orleans,82,Privateers,New Orleans Privateers,New Orleans
+401514400,2023,regular-season,2023-03-06,2,2608,home,TRUE,Saint Mary's,76,Gaels,Saint Mary's Gaels,Saint Mary's
+401514400,2023,regular-season,2023-03-06,2,252,away,TRUE,BYU,69,Cougars,BYU Cougars,BYU
+401514282,2023,regular-season,2023-03-06,2,232,home,TRUE,Charleston,77,Cougars,Charleston Cougars,Charleston
+401514282,2023,regular-season,2023-03-06,2,119,away,TRUE,Towson,72,Tigers,Towson Tigers,Towson
+401514368,2023,regular-season,2023-03-06,2,2571,home,TRUE,South Dakota State,79,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+401514368,2023,regular-season,2023-03-06,2,2449,away,TRUE,North Dakota State,89,Bison,North Dakota State Bison,N Dakota St
+401514291,2023,regular-season,2023-03-06,2,270,home,TRUE,Milwaukee,80,Panthers,Milwaukee Panthers,Milwaukee
+401514291,2023,regular-season,2023-03-06,2,325,away,TRUE,Cleveland State,93,Vikings,Cleveland State Vikings,Cleveland St
+401523957,2023,regular-season,2023-03-06,2,2692,home,TRUE,Weber State,70,Wildcats,Weber State Wildcats,Weber St
+401523957,2023,regular-season,2023-03-06,2,16,away,TRUE,Sacramento State,64,Hornets,Sacramento State Hornets,Sacramento St
+401514401,2023,regular-season,2023-03-06,2,2250,home,TRUE,Gonzaga,84,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401514401,2023,regular-season,2023-03-06,2,2539,away,TRUE,San Francisco,73,Dons,San Francisco Dons,San Francisco

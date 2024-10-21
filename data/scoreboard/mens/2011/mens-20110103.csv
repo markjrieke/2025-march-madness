@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310030096,2011-01-03,2,96,home,FALSE,Kentucky,86,Wildcats,Kentucky Wildcats,Kentucky
-310030096,2011-01-03,2,219,away,FALSE,Pennsylvania,62,Quakers,Pennsylvania Quakers,Penn
-310032599,2011-01-03,2,2599,home,FALSE,St. John's,61,Red Storm,St. John's Red Storm,St John's
-310032599,2011-01-03,2,46,away,FALSE,Georgetown,58,Hoyas,Georgetown Hoyas,Georgetown
-310030245,2011-01-03,2,245,home,FALSE,Texas A&M,66,Aggies,Texas A&M Aggies,Texas A&M
-310030245,2011-01-03,2,2447,away,FALSE,Nicholls,55,Colonels,Nicholls Colonels,Nicholls
-310032306,2011-01-03,2,2306,home,FALSE,Kansas State,92,Wildcats,Kansas State Wildcats,Kansas St
-310032306,2011-01-03,2,2542,away,FALSE,Savannah State,61,Tigers,Savannah State Tigers,Savannah St
-310030077,2011-01-03,2,77,home,FALSE,Northwestern,62,Wildcats,Northwestern Wildcats,Northwestern
-310030077,2011-01-03,2,127,away,FALSE,Michigan State,65,Spartans,Michigan State Spartans,Michigan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310030096,2011,regular-season,2011-01-03,2,96,home,FALSE,Kentucky,86,Wildcats,Kentucky Wildcats,Kentucky
+310030096,2011,regular-season,2011-01-03,2,219,away,FALSE,Pennsylvania,62,Quakers,Pennsylvania Quakers,Penn
+310032599,2011,regular-season,2011-01-03,2,2599,home,FALSE,St. John's,61,Red Storm,St. John's Red Storm,St John's
+310032599,2011,regular-season,2011-01-03,2,46,away,FALSE,Georgetown,58,Hoyas,Georgetown Hoyas,Georgetown
+310030245,2011,regular-season,2011-01-03,2,245,home,FALSE,Texas A&M,66,Aggies,Texas A&M Aggies,Texas A&M
+310030245,2011,regular-season,2011-01-03,2,2447,away,FALSE,Nicholls,55,Colonels,Nicholls Colonels,Nicholls
+310032306,2011,regular-season,2011-01-03,2,2306,home,FALSE,Kansas State,92,Wildcats,Kansas State Wildcats,Kansas St
+310032306,2011,regular-season,2011-01-03,2,2542,away,FALSE,Savannah State,61,Tigers,Savannah State Tigers,Savannah St
+310030077,2011,regular-season,2011-01-03,2,77,home,FALSE,Northwestern,62,Wildcats,Northwestern Wildcats,Northwestern
+310030077,2011,regular-season,2011-01-03,2,127,away,FALSE,Michigan State,65,Spartans,Michigan State Spartans,Michigan St

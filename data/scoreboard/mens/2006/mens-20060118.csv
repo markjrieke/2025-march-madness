@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260180150,2006-01-18,2,150,home,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
-260180150,2006-01-18,2,152,away,FALSE,NC State,68,Wolfpack,NC State Wolfpack,NC State
-260180057,2006-01-18,2,57,home,FALSE,Florida,113,Gators,Florida Gators,Florida
-260180057,2006-01-18,2,2542,away,FALSE,Savannah State,62,Tigers,Savannah State Tigers,Savannah St
-260180235,2006-01-18,2,235,home,FALSE,Memphis,88,Tigers,Memphis Tigers,Memphis
-260180235,2006-01-18,2,2633,away,FALSE,Tennessee,79,Volunteers,Tennessee Volunteers,Tennessee
-260180164,2006-01-18,2,164,home,FALSE,Rutgers,68,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-260180164,2006-01-18,2,221,away,FALSE,Pittsburgh,76,Panthers,Pittsburgh Panthers,Pitt
-260180194,2006-01-18,2,194,home,FALSE,Ohio State,77,Buckeyes,Ohio State Buckeyes,Ohio State
-260180194,2006-01-18,2,275,away,FALSE,Wisconsin,67,Badgers,Wisconsin Badgers,Wisconsin
-260180026,2006-01-18,2,26,home,FALSE,UCLA,66,Bruins,UCLA Bruins,UCLA
-260180026,2006-01-18,2,30,away,FALSE,USC,45,Trojans,USC Trojans,USC
-260182294,2006-01-18,5,2294,home,FALSE,Iowa,76,Hawkeyes,Iowa Hawkeyes,Iowa
-260182294,2006-01-18,5,135,away,FALSE,Minnesota,72,Golden Gophers,Minnesota Golden Gophers,Minnesota
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260180150,2006,regular-season,2006-01-18,2,150,home,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
+260180150,2006,regular-season,2006-01-18,2,152,away,FALSE,NC State,68,Wolfpack,NC State Wolfpack,NC State
+260180057,2006,regular-season,2006-01-18,2,57,home,FALSE,Florida,113,Gators,Florida Gators,Florida
+260180057,2006,regular-season,2006-01-18,2,2542,away,FALSE,Savannah State,62,Tigers,Savannah State Tigers,Savannah St
+260180235,2006,regular-season,2006-01-18,2,235,home,FALSE,Memphis,88,Tigers,Memphis Tigers,Memphis
+260180235,2006,regular-season,2006-01-18,2,2633,away,FALSE,Tennessee,79,Volunteers,Tennessee Volunteers,Tennessee
+260180164,2006,regular-season,2006-01-18,2,164,home,FALSE,Rutgers,68,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+260180164,2006,regular-season,2006-01-18,2,221,away,FALSE,Pittsburgh,76,Panthers,Pittsburgh Panthers,Pitt
+260180194,2006,regular-season,2006-01-18,2,194,home,FALSE,Ohio State,77,Buckeyes,Ohio State Buckeyes,Ohio State
+260180194,2006,regular-season,2006-01-18,2,275,away,FALSE,Wisconsin,67,Badgers,Wisconsin Badgers,Wisconsin
+260180026,2006,regular-season,2006-01-18,2,26,home,FALSE,UCLA,66,Bruins,UCLA Bruins,UCLA
+260180026,2006,regular-season,2006-01-18,2,30,away,FALSE,USC,45,Trojans,USC Trojans,USC
+260182294,2006,regular-season,2006-01-18,5,2294,home,FALSE,Iowa,76,Hawkeyes,Iowa Hawkeyes,Iowa
+260182294,2006,regular-season,2006-01-18,5,135,away,FALSE,Minnesota,72,Golden Gophers,Minnesota Golden Gophers,Minnesota

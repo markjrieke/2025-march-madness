@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401371213,2021-12-30,0,301,home,FALSE,San Diego,0,Toreros,San Diego Toreros,San Diego
-401371213,2021-12-30,0,2250,away,FALSE,Gonzaga,0,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401377369,2021-12-30,0,26,home,FALSE,UCLA,0,Bruins,UCLA Bruins,UCLA
-401377369,2021-12-30,0,12,away,FALSE,Arizona,0,Wildcats,Arizona Wildcats,Arizona
-401377391,2021-12-30,0,30,home,FALSE,USC,0,Trojans,USC Trojans,USC
-401377391,2021-12-30,0,9,away,FALSE,Arizona State,0,Sun Devils,Arizona State Sun Devils,Arizona St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401371213,2022,regular-season,2021-12-30,0,301,home,FALSE,San Diego,0,Toreros,San Diego Toreros,San Diego
+401371213,2022,regular-season,2021-12-30,0,2250,away,FALSE,Gonzaga,0,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401377369,2022,regular-season,2021-12-30,0,26,home,FALSE,UCLA,0,Bruins,UCLA Bruins,UCLA
+401377369,2022,regular-season,2021-12-30,0,12,away,FALSE,Arizona,0,Wildcats,Arizona Wildcats,Arizona
+401377391,2022,regular-season,2021-12-30,0,30,home,FALSE,USC,0,Trojans,USC Trojans,USC
+401377391,2022,regular-season,2021-12-30,0,9,away,FALSE,Arizona State,0,Sun Devils,Arizona State Sun Devils,Arizona St

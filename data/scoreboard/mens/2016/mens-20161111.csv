@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400918290,2016-11-11,2,222,home,FALSE,Villanova,88,Wildcats,Villanova Wildcats,Villanova
-400918290,2016-11-11,2,322,away,FALSE,Lafayette,48,Leopards,Lafayette Leopards,Lafayette
-400918291,2016-11-11,2,2752,home,FALSE,Xavier,84,Musketeers,Xavier Musketeers,Xavier
-400918291,2016-11-11,2,2329,away,FALSE,Lehigh,81,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-400915217,2016-11-11,2,2430,home,FALSE,UNC Greensboro,51,Spartans,UNC Greensboro Spartans,UNC Greensboro
-400915217,2016-11-11,2,258,away,FALSE,Virginia,76,Cavaliers,Virginia Cavaliers,Virginia
-400915215,2016-11-11,2,97,home,FALSE,Louisville,78,Cardinals,Louisville Cardinals,Louisville
-400915215,2016-11-11,2,339,away,FALSE,Evansville,47,Purple Aces,Evansville Purple Aces,Evansville
-400915705,2016-11-11,2,2250,home,FALSE,Gonzaga,92,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400915705,2016-11-11,2,3084,away,FALSE,Utah Valley,69,Wolverines,Utah Valley Wolverines,Utah Valley
-400915182,2016-11-11,2,2509,home,FALSE,Purdue,109,Boilermakers,Purdue Boilermakers,Purdue
-400915182,2016-11-11,2,2377,away,FALSE,McNeese,65,Cowboys,McNeese Cowboys,McNeese
-400915485,2016-11-11,2,26,home,FALSE,UCLA,119,Bruins,UCLA Bruins,UCLA
-400915485,2016-11-11,2,279,away,FALSE,Pacific,80,Tigers,Pacific Tigers,Pacific
-400915704,2016-11-11,2,2608,home,FALSE,Saint Mary's,81,Gaels,Saint Mary's Gaels,Saint Mary's
-400915704,2016-11-11,2,2440,away,FALSE,Nevada,63,Wolf Pack,Nevada Wolf Pack,Nevada
-400916467,2016-11-11,2,41,home,FALSE,UConn,58,Huskies,UConn Huskies,UConn
-400916467,2016-11-11,2,2681,away,FALSE,Wagner,67,Seahawks,Wagner Seahawks,Wagner
-400915212,2016-11-11,2,183,home,FALSE,Syracuse,83,Orange,Syracuse Orange,Syracuse
-400915212,2016-11-11,2,2142,away,FALSE,Colgate,55,Raiders,Colgate Raiders,Colgate
-400916117,2016-11-11,2,277,home,FALSE,West Virginia,87,Mountaineers,West Virginia Mountaineers,West Virginia
-400916117,2016-11-11,2,116,away,FALSE,Mount St. Mary's,59,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-400917464,2016-11-11,2,156,home,FALSE,Creighton,89,Bluejays,Creighton Bluejays,Creighton
-400917464,2016-11-11,2,140,away,FALSE,Kansas City,82,Roos,Kansas City Roos,Kansas City
-400918430,2016-11-11,2,227,home,FALSE,Rhode Island,84,Rams,Rhode Island Rams,Rhode Island
-400918430,2016-11-11,2,159,away,FALSE,Dartmouth,61,Big Green,Dartmouth Big Green,Dartmouth
-400916122,2016-11-11,2,66,home,FALSE,Iowa State,113,Cyclones,Iowa State Cyclones,Iowa State
-400916122,2016-11-11,2,2542,away,FALSE,Savannah State,71,Tigers,Savannah State Tigers,Savannah St
-400915018,2016-11-11,2,120,home,FALSE,Maryland,62,Terrapins,Maryland Terrapins,Maryland
-400915018,2016-11-11,2,44,away,FALSE,American University,56,Eagles,American University Eagles,American
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400918290,2017,regular-season,2016-11-11,2,222,home,FALSE,Villanova,88,Wildcats,Villanova Wildcats,Villanova
+400918290,2017,regular-season,2016-11-11,2,322,away,FALSE,Lafayette,48,Leopards,Lafayette Leopards,Lafayette
+400918291,2017,regular-season,2016-11-11,2,2752,home,FALSE,Xavier,84,Musketeers,Xavier Musketeers,Xavier
+400918291,2017,regular-season,2016-11-11,2,2329,away,FALSE,Lehigh,81,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+400915217,2017,regular-season,2016-11-11,2,2430,home,FALSE,UNC Greensboro,51,Spartans,UNC Greensboro Spartans,UNC Greensboro
+400915217,2017,regular-season,2016-11-11,2,258,away,FALSE,Virginia,76,Cavaliers,Virginia Cavaliers,Virginia
+400915215,2017,regular-season,2016-11-11,2,97,home,FALSE,Louisville,78,Cardinals,Louisville Cardinals,Louisville
+400915215,2017,regular-season,2016-11-11,2,339,away,FALSE,Evansville,47,Purple Aces,Evansville Purple Aces,Evansville
+400915705,2017,regular-season,2016-11-11,2,2250,home,FALSE,Gonzaga,92,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400915705,2017,regular-season,2016-11-11,2,3084,away,FALSE,Utah Valley,69,Wolverines,Utah Valley Wolverines,Utah Valley
+400915182,2017,regular-season,2016-11-11,2,2509,home,FALSE,Purdue,109,Boilermakers,Purdue Boilermakers,Purdue
+400915182,2017,regular-season,2016-11-11,2,2377,away,FALSE,McNeese,65,Cowboys,McNeese Cowboys,McNeese
+400915485,2017,regular-season,2016-11-11,2,26,home,FALSE,UCLA,119,Bruins,UCLA Bruins,UCLA
+400915485,2017,regular-season,2016-11-11,2,279,away,FALSE,Pacific,80,Tigers,Pacific Tigers,Pacific
+400915704,2017,regular-season,2016-11-11,2,2608,home,FALSE,Saint Mary's,81,Gaels,Saint Mary's Gaels,Saint Mary's
+400915704,2017,regular-season,2016-11-11,2,2440,away,FALSE,Nevada,63,Wolf Pack,Nevada Wolf Pack,Nevada
+400916467,2017,regular-season,2016-11-11,2,41,home,FALSE,UConn,58,Huskies,UConn Huskies,UConn
+400916467,2017,regular-season,2016-11-11,2,2681,away,FALSE,Wagner,67,Seahawks,Wagner Seahawks,Wagner
+400915212,2017,regular-season,2016-11-11,2,183,home,FALSE,Syracuse,83,Orange,Syracuse Orange,Syracuse
+400915212,2017,regular-season,2016-11-11,2,2142,away,FALSE,Colgate,55,Raiders,Colgate Raiders,Colgate
+400916117,2017,regular-season,2016-11-11,2,277,home,FALSE,West Virginia,87,Mountaineers,West Virginia Mountaineers,West Virginia
+400916117,2017,regular-season,2016-11-11,2,116,away,FALSE,Mount St. Mary's,59,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+400917464,2017,regular-season,2016-11-11,2,156,home,FALSE,Creighton,89,Bluejays,Creighton Bluejays,Creighton
+400917464,2017,regular-season,2016-11-11,2,140,away,FALSE,Kansas City,82,Roos,Kansas City Roos,Kansas City
+400918430,2017,regular-season,2016-11-11,2,227,home,FALSE,Rhode Island,84,Rams,Rhode Island Rams,Rhode Island
+400918430,2017,regular-season,2016-11-11,2,159,away,FALSE,Dartmouth,61,Big Green,Dartmouth Big Green,Dartmouth
+400916122,2017,regular-season,2016-11-11,2,66,home,FALSE,Iowa State,113,Cyclones,Iowa State Cyclones,Iowa State
+400916122,2017,regular-season,2016-11-11,2,2542,away,FALSE,Savannah State,71,Tigers,Savannah State Tigers,Savannah St
+400915018,2017,regular-season,2016-11-11,2,120,home,FALSE,Maryland,62,Terrapins,Maryland Terrapins,Maryland
+400915018,2017,regular-season,2016-11-11,2,44,away,FALSE,American University,56,Eagles,American University Eagles,American

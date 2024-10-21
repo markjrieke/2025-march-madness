@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401270827,2021-02-10,4,41,home,FALSE,UConn,70,Huskies,UConn Huskies,UConn
-401270827,2021-02-10,4,2550,away,FALSE,Seton Hall,49,Pirates,Seton Hall Pirates,Seton Hall
-401254182,2021-02-10,4,2641,home,FALSE,Texas Tech,50,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-401254182,2021-02-10,4,239,away,FALSE,Baylor,82,Bears,Baylor Bears,Baylor
-401264897,2021-02-10,4,275,home,FALSE,Wisconsin,75,Badgers,Wisconsin Badgers,Wisconsin
-401264897,2021-02-10,4,194,away,FALSE,Ohio State,70,Buckeyes,Ohio State Buckeyes,Ohio State
-401264898,2021-02-10,4,84,home,FALSE,Indiana,90,Hoosiers,Indiana Hoosiers,Indiana
-401264898,2021-02-10,4,213,away,FALSE,Penn State,65,Lady Lions,Penn State Lady Lions,Penn State
-401254183,2021-02-10,4,277,home,FALSE,West Virginia,69,Mountaineers,West Virginia Mountaineers,West Virginia
-401254183,2021-02-10,4,2305,away,FALSE,Kansas,61,Jayhawks,Kansas Jayhawks,Kansas
-401270825,2021-02-10,4,2599,home,FALSE,St. John's,73,Red Storm,St. John's Red Storm,St John's
-401270825,2021-02-10,4,305,away,FALSE,DePaul,81,Blue Demons,DePaul Blue Demons,DePaul
-401264896,2021-02-10,0,120,home,FALSE,Maryland,0,Terrapins,Maryland Terrapins,Maryland
-401264896,2021-02-10,0,127,away,FALSE,Michigan State,0,Spartans,Michigan State Spartans,Michigan St
-401285302,2021-02-10,0,151,home,FALSE,East Carolina,0,Pirates,East Carolina Pirates,East Carolina
-401285302,2021-02-10,0,58,away,FALSE,South Florida,0,Bulls,South Florida Bulls,South Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401270827,2021,regular-season,2021-02-10,4,41,home,FALSE,UConn,70,Huskies,UConn Huskies,UConn
+401270827,2021,regular-season,2021-02-10,4,2550,away,FALSE,Seton Hall,49,Pirates,Seton Hall Pirates,Seton Hall
+401254182,2021,regular-season,2021-02-10,4,2641,home,FALSE,Texas Tech,50,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+401254182,2021,regular-season,2021-02-10,4,239,away,FALSE,Baylor,82,Bears,Baylor Bears,Baylor
+401264897,2021,regular-season,2021-02-10,4,275,home,FALSE,Wisconsin,75,Badgers,Wisconsin Badgers,Wisconsin
+401264897,2021,regular-season,2021-02-10,4,194,away,FALSE,Ohio State,70,Buckeyes,Ohio State Buckeyes,Ohio State
+401264898,2021,regular-season,2021-02-10,4,84,home,FALSE,Indiana,90,Hoosiers,Indiana Hoosiers,Indiana
+401264898,2021,regular-season,2021-02-10,4,213,away,FALSE,Penn State,65,Lady Lions,Penn State Lady Lions,Penn State
+401254183,2021,regular-season,2021-02-10,4,277,home,FALSE,West Virginia,69,Mountaineers,West Virginia Mountaineers,West Virginia
+401254183,2021,regular-season,2021-02-10,4,2305,away,FALSE,Kansas,61,Jayhawks,Kansas Jayhawks,Kansas
+401270825,2021,regular-season,2021-02-10,4,2599,home,FALSE,St. John's,73,Red Storm,St. John's Red Storm,St John's
+401270825,2021,regular-season,2021-02-10,4,305,away,FALSE,DePaul,81,Blue Demons,DePaul Blue Demons,DePaul
+401264896,2021,regular-season,2021-02-10,0,120,home,FALSE,Maryland,0,Terrapins,Maryland Terrapins,Maryland
+401264896,2021,regular-season,2021-02-10,0,127,away,FALSE,Michigan State,0,Spartans,Michigan State Spartans,Michigan St
+401285302,2021,regular-season,2021-02-10,0,151,home,FALSE,East Carolina,0,Pirates,East Carolina Pirates,East Carolina
+401285302,2021,regular-season,2021-02-10,0,58,away,FALSE,South Florida,0,Bulls,South Florida Bulls,South Florida

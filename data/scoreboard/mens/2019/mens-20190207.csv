@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401083643,2019-02-07,2,2250,home,FALSE,Gonzaga,92,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401083643,2019-02-07,2,2539,away,FALSE,San Francisco,62,Dons,San Francisco Dons,San Francisco
-401084793,2019-02-07,2,2116,home,FALSE,UCF,68,Knights,UCF Knights,UCF
-401084793,2019-02-07,2,248,away,FALSE,Houston,77,Cougars,Houston Cougars,Houston
-401082383,2019-02-07,2,84,home,FALSE,Indiana,72,Hoosiers,Indiana Hoosiers,Indiana
-401082383,2019-02-07,2,2294,away,FALSE,Iowa,77,Hawkeyes,Iowa Hawkeyes,Iowa
-401084792,2019-02-07,2,235,home,FALSE,Memphis,64,Tigers,Memphis Tigers,Memphis
-401084792,2019-02-07,2,2132,away,FALSE,Cincinnati,69,Bearcats,Cincinnati Bearcats,Cincinnati
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401083643,2019,regular-season,2019-02-07,2,2250,home,FALSE,Gonzaga,92,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401083643,2019,regular-season,2019-02-07,2,2539,away,FALSE,San Francisco,62,Dons,San Francisco Dons,San Francisco
+401084793,2019,regular-season,2019-02-07,2,2116,home,FALSE,UCF,68,Knights,UCF Knights,UCF
+401084793,2019,regular-season,2019-02-07,2,248,away,FALSE,Houston,77,Cougars,Houston Cougars,Houston
+401082383,2019,regular-season,2019-02-07,2,84,home,FALSE,Indiana,72,Hoosiers,Indiana Hoosiers,Indiana
+401082383,2019,regular-season,2019-02-07,2,2294,away,FALSE,Iowa,77,Hawkeyes,Iowa Hawkeyes,Iowa
+401084792,2019,regular-season,2019-02-07,2,235,home,FALSE,Memphis,64,Tigers,Memphis Tigers,Memphis
+401084792,2019,regular-season,2019-02-07,2,2132,away,FALSE,Cincinnati,69,Bearcats,Cincinnati Bearcats,Cincinnati

@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401090433,2018-11-11,4,41,home,FALSE,UConn,85,Huskies,UConn Huskies,UConn
-401090433,2018-11-11,4,194,away,FALSE,Ohio State,53,Buckeyes,Ohio State Buckeyes,Ohio State
-401092567,2018-11-11,4,9,home,TRUE,Arizona State,59,Sun Devils,Arizona State Sun Devils,Arizona St
-401092567,2018-11-11,4,239,away,TRUE,Baylor,65,Bears,Baylor Bears,Baylor
-401094806,2018-11-11,4,24,home,FALSE,Stanford,115,Cardinal,Stanford Cardinal,Stanford
-401094806,2018-11-11,4,70,away,FALSE,Idaho,71,Vandals,Idaho Vandals,Idaho
-401090697,2018-11-11,4,120,home,FALSE,Maryland,82,Terrapins,Maryland Terrapins,Maryland
-401090697,2018-11-11,4,2168,away,FALSE,Dayton,71,Flyers,Dayton Flyers,Dayton
-401091414,2018-11-11,4,2011,home,FALSE,Alabama State,38,Lady Hornets,Alabama State Lady Hornets,Alabama St
-401091414,2018-11-11,4,2579,away,FALSE,South Carolina,94,Gamecocks,South Carolina Gamecocks,South Carolina
-401091408,2018-11-11,4,2633,home,FALSE,Tennessee,97,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401091408,2018-11-11,4,2506,away,FALSE,Presbyterian,49,Blue Hose,Presbyterian Blue Hose,Presbyterian
-401091409,2018-11-11,4,61,home,FALSE,Georgia,85,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-401091409,2018-11-11,4,2737,away,FALSE,Winthrop,39,Eagles,Winthrop Eagles,Winthrop
-401091940,2018-11-11,4,152,home,FALSE,NC State,78,Wolfpack,NC State Wolfpack,NC State
-401091940,2018-11-11,4,2309,away,FALSE,Kent State,61,Golden Flashes,Kent State Golden Flashes,Kent State
-401091412,2018-11-11,4,245,home,FALSE,Texas A&M,73,Aggies,Texas A&M Aggies,Texas A&M
-401091412,2018-11-11,4,294,away,FALSE,Jacksonville,53,Dolphins,Jacksonville Dolphins,Jacksonville
-401091941,2018-11-11,4,77,home,FALSE,Northwestern,84,Wildcats,Northwestern Wildcats,Northwestern
-401091941,2018-11-11,4,150,away,FALSE,Duke,58,Blue Devils,Duke Blue Devils,Duke
-401094776,2018-11-11,4,213,home,FALSE,Penn State,58,Lady Lions,Penn State Lady Lions,Penn State
-401094776,2018-11-11,4,25,away,FALSE,California,75,Golden Bears,California Golden Bears,California
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401090433,2019,regular-season,2018-11-11,4,41,home,FALSE,UConn,85,Huskies,UConn Huskies,UConn
+401090433,2019,regular-season,2018-11-11,4,194,away,FALSE,Ohio State,53,Buckeyes,Ohio State Buckeyes,Ohio State
+401092567,2019,regular-season,2018-11-11,4,9,home,TRUE,Arizona State,59,Sun Devils,Arizona State Sun Devils,Arizona St
+401092567,2019,regular-season,2018-11-11,4,239,away,TRUE,Baylor,65,Bears,Baylor Bears,Baylor
+401094806,2019,regular-season,2018-11-11,4,24,home,FALSE,Stanford,115,Cardinal,Stanford Cardinal,Stanford
+401094806,2019,regular-season,2018-11-11,4,70,away,FALSE,Idaho,71,Vandals,Idaho Vandals,Idaho
+401090697,2019,regular-season,2018-11-11,4,120,home,FALSE,Maryland,82,Terrapins,Maryland Terrapins,Maryland
+401090697,2019,regular-season,2018-11-11,4,2168,away,FALSE,Dayton,71,Flyers,Dayton Flyers,Dayton
+401091414,2019,regular-season,2018-11-11,4,2011,home,FALSE,Alabama State,38,Lady Hornets,Alabama State Lady Hornets,Alabama St
+401091414,2019,regular-season,2018-11-11,4,2579,away,FALSE,South Carolina,94,Gamecocks,South Carolina Gamecocks,South Carolina
+401091408,2019,regular-season,2018-11-11,4,2633,home,FALSE,Tennessee,97,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401091408,2019,regular-season,2018-11-11,4,2506,away,FALSE,Presbyterian,49,Blue Hose,Presbyterian Blue Hose,Presbyterian
+401091409,2019,regular-season,2018-11-11,4,61,home,FALSE,Georgia,85,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+401091409,2019,regular-season,2018-11-11,4,2737,away,FALSE,Winthrop,39,Eagles,Winthrop Eagles,Winthrop
+401091940,2019,regular-season,2018-11-11,4,152,home,FALSE,NC State,78,Wolfpack,NC State Wolfpack,NC State
+401091940,2019,regular-season,2018-11-11,4,2309,away,FALSE,Kent State,61,Golden Flashes,Kent State Golden Flashes,Kent State
+401091412,2019,regular-season,2018-11-11,4,245,home,FALSE,Texas A&M,73,Aggies,Texas A&M Aggies,Texas A&M
+401091412,2019,regular-season,2018-11-11,4,294,away,FALSE,Jacksonville,53,Dolphins,Jacksonville Dolphins,Jacksonville
+401091941,2019,regular-season,2018-11-11,4,77,home,FALSE,Northwestern,84,Wildcats,Northwestern Wildcats,Northwestern
+401091941,2019,regular-season,2018-11-11,4,150,away,FALSE,Duke,58,Blue Devils,Duke Blue Devils,Duke
+401094776,2019,regular-season,2018-11-11,4,213,home,FALSE,Penn State,58,Lady Lions,Penn State Lady Lions,Penn State
+401094776,2019,regular-season,2018-11-11,4,25,away,FALSE,California,75,Golden Bears,California Golden Bears,California

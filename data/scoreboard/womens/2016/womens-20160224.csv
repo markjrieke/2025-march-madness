@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400834775,2016-02-24,4,41,home,FALSE,UConn,88,Huskies,UConn Huskies,UConn
-400834775,2016-02-24,4,2567,away,FALSE,SMU,41,Mustangs,SMU Mustangs,SMU
-400834902,2016-02-24,5,135,home,FALSE,Minnesota,90,Golden Gophers,Minnesota Golden Gophers,Minnesota
-400834902,2016-02-24,5,194,away,FALSE,Ohio State,88,Buckeyes,Ohio State Buckeyes,Ohio State
-400832085,2016-02-24,4,2641,home,FALSE,Texas Tech,55,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-400832085,2016-02-24,4,251,away,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
-400834794,2016-02-24,4,356,home,FALSE,Illinois,43,Fighting Illini,Illinois Fighting Illini,Illinois
-400834794,2016-02-24,4,127,away,FALSE,Michigan State,71,Spartans,Michigan State Spartans,Michigan St
-400835057,2016-02-24,4,202,home,FALSE,Tulsa,66,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-400835057,2016-02-24,4,58,away,FALSE,South Florida,72,Bulls,South Florida Bulls,South Florida
-400832344,2016-02-24,4,197,home,FALSE,Oklahoma State,71,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-400832344,2016-02-24,4,2305,away,FALSE,Kansas,49,Jayhawks,Kansas Jayhawks,Kansas
-400819205,2016-02-24,4,167,home,FALSE,New Mexico,48,Lobos,New Mexico Lobos,New Mexico
-400819205,2016-02-24,4,36,away,FALSE,Colorado State,49,Rams,Colorado State Rams,Colorado St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400834775,2016,regular-season,2016-02-24,4,41,home,FALSE,UConn,88,Huskies,UConn Huskies,UConn
+400834775,2016,regular-season,2016-02-24,4,2567,away,FALSE,SMU,41,Mustangs,SMU Mustangs,SMU
+400834902,2016,regular-season,2016-02-24,5,135,home,FALSE,Minnesota,90,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400834902,2016,regular-season,2016-02-24,5,194,away,FALSE,Ohio State,88,Buckeyes,Ohio State Buckeyes,Ohio State
+400832085,2016,regular-season,2016-02-24,4,2641,home,FALSE,Texas Tech,55,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+400832085,2016,regular-season,2016-02-24,4,251,away,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
+400834794,2016,regular-season,2016-02-24,4,356,home,FALSE,Illinois,43,Fighting Illini,Illinois Fighting Illini,Illinois
+400834794,2016,regular-season,2016-02-24,4,127,away,FALSE,Michigan State,71,Spartans,Michigan State Spartans,Michigan St
+400835057,2016,regular-season,2016-02-24,4,202,home,FALSE,Tulsa,66,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+400835057,2016,regular-season,2016-02-24,4,58,away,FALSE,South Florida,72,Bulls,South Florida Bulls,South Florida
+400832344,2016,regular-season,2016-02-24,4,197,home,FALSE,Oklahoma State,71,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+400832344,2016,regular-season,2016-02-24,4,2305,away,FALSE,Kansas,49,Jayhawks,Kansas Jayhawks,Kansas
+400819205,2016,regular-season,2016-02-24,4,167,home,FALSE,New Mexico,48,Lobos,New Mexico Lobos,New Mexico
+400819205,2016,regular-season,2016-02-24,4,36,away,FALSE,Colorado State,49,Rams,Colorado State Rams,Colorado St

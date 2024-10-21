@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213480333,2001-12-14,2,333,home,FALSE,Alabama,99,Crimson Tide,Alabama Crimson Tide,Alabama
-213480333,2001-12-14,2,55,away,FALSE,Jacksonville State,57,Gamecocks,Jacksonville State Gamecocks,Jax State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213480333,2002,regular-season,2001-12-14,2,333,home,FALSE,Alabama,99,Crimson Tide,Alabama Crimson Tide,Alabama
+213480333,2002,regular-season,2001-12-14,2,55,away,FALSE,Jacksonville State,57,Gamecocks,Jacksonville State Gamecocks,Jax State

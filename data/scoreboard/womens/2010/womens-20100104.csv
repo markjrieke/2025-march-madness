@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300040041,2010-01-04,2,41,home,FALSE,UConn,84,Huskies,UConn Huskies,UConn
-300040041,2010-01-04,2,58,away,FALSE,South Florida,42,Bulls,South Florida Bulls,South Florida
-300042509,2010-01-04,2,2509,home,FALSE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
-300042509,2010-01-04,2,87,away,FALSE,Notre Dame,79,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-300040245,2010-01-04,2,245,home,FALSE,Texas A&M,90,Aggies,Texas A&M Aggies,Texas A&M
-300040245,2010-01-04,2,2320,away,FALSE,Lamar,57,Cardinals,Lamar Cardinals,Lamar
-300040261,2010-01-04,2,261,home,FALSE,Vermont,50,Catamounts,Vermont Catamounts,Vermont
-300040261,2010-01-04,2,158,away,FALSE,Nebraska,94,Cornhuskers,Nebraska Cornhuskers,Nebraska
-300042754,2010-01-04,2,2754,home,FALSE,Youngstown State,60,Penguins,Youngstown State Penguins,Youngstown St
-300042754,2010-01-04,2,2739,away,FALSE,Green Bay,76,Phoenix,Green Bay Phoenix,Green Bay
-300040258,2010-01-04,2,258,home,FALSE,Virginia,72,Cavaliers,Virginia Cavaliers,Virginia
-300040258,2010-01-04,2,179,away,FALSE,St. Bonaventure,64,Bonnies,St. Bonaventure Bonnies,St Bonaventure
-300040197,2010-01-04,2,197,home,FALSE,Oklahoma State,98,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-300040197,2010-01-04,2,2534,away,FALSE,Sam Houston,60,Bearkats,Sam Houston Bearkats,Sam Houston
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300040041,2010,regular-season,2010-01-04,2,41,home,FALSE,UConn,84,Huskies,UConn Huskies,UConn
+300040041,2010,regular-season,2010-01-04,2,58,away,FALSE,South Florida,42,Bulls,South Florida Bulls,South Florida
+300042509,2010,regular-season,2010-01-04,2,2509,home,FALSE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
+300042509,2010,regular-season,2010-01-04,2,87,away,FALSE,Notre Dame,79,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+300040245,2010,regular-season,2010-01-04,2,245,home,FALSE,Texas A&M,90,Aggies,Texas A&M Aggies,Texas A&M
+300040245,2010,regular-season,2010-01-04,2,2320,away,FALSE,Lamar,57,Cardinals,Lamar Cardinals,Lamar
+300040261,2010,regular-season,2010-01-04,2,261,home,FALSE,Vermont,50,Catamounts,Vermont Catamounts,Vermont
+300040261,2010,regular-season,2010-01-04,2,158,away,FALSE,Nebraska,94,Cornhuskers,Nebraska Cornhuskers,Nebraska
+300042754,2010,regular-season,2010-01-04,2,2754,home,FALSE,Youngstown State,60,Penguins,Youngstown State Penguins,Youngstown St
+300042754,2010,regular-season,2010-01-04,2,2739,away,FALSE,Green Bay,76,Phoenix,Green Bay Phoenix,Green Bay
+300040258,2010,regular-season,2010-01-04,2,258,home,FALSE,Virginia,72,Cavaliers,Virginia Cavaliers,Virginia
+300040258,2010,regular-season,2010-01-04,2,179,away,FALSE,St. Bonaventure,64,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+300040197,2010,regular-season,2010-01-04,2,197,home,FALSE,Oklahoma State,98,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+300040197,2010,regular-season,2010-01-04,2,2534,away,FALSE,Sam Houston,60,Bearkats,Sam Houston Bearkats,Sam Houston

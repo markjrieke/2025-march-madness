@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290012226,2009-01-01,2,2226,home,FALSE,Florida Atlantic,67,Owls,Florida Atlantic Owls,FAU
-290012226,2009-01-01,2,6,away,FALSE,South Alabama,66,Jaguars,South Alabama Jaguars,South Alabama
-290010282,2009-01-01,2,282,home,FALSE,Indiana State,50,Sycamores,Indiana State Sycamores,Indiana St
-290010282,2009-01-01,2,2181,away,FALSE,Drake,38,Bulldogs,Drake Bulldogs,Drake
-290012509,2009-01-01,3,2509,home,FALSE,Purdue,62,Boilermakers,Purdue Boilermakers,Purdue
-290012509,2009-01-01,3,127,away,FALSE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St
-290012443,2009-01-01,2,2443,home,FALSE,New Orleans,63,Privateers,New Orleans Privateers,New Orleans
-290012443,2009-01-01,2,2172,away,FALSE,Denver,46,Pioneers,Denver Pioneers,Denver
-290010154,2009-01-01,2,154,home,FALSE,Wake Forest,72,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-290010154,2009-01-01,2,350,away,FALSE,UNC Wilmington,58,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
-290010099,2009-01-01,2,99,home,FALSE,LSU,64,Tigers,LSU Tigers,LSU
-290010099,2009-01-01,2,158,away,FALSE,Nebraska,50,Cornhuskers,Nebraska Cornhuskers,Nebraska
-290010135,2009-01-01,2,135,home,FALSE,Minnesota,69,Golden Gophers,Minnesota Golden Gophers,Minnesota
-290010135,2009-01-01,2,213,away,FALSE,Penn State,55,Lady Lions,Penn State Lady Lions,Penn State
-290012287,2009-01-01,2,2287,home,FALSE,Illinois State,63,Redbirds,Illinois State Redbirds,Illinois St
-290012287,2009-01-01,2,156,away,FALSE,Creighton,43,Bluejays,Creighton Bluejays,Creighton
-290012241,2009-01-01,2,2241,home,FALSE,Gardner-Webb,85,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-290012241,2009-01-01,2,2410,away,FALSE,Montreat,57,Cavaliers,Montreat Cavaliers,Montreat
-290010096,2009-01-01,2,96,home,FALSE,Kentucky,72,Wildcats,Kentucky Wildcats,Kentucky
-290010096,2009-01-01,2,2448,away,FALSE,North Carolina A&T,63,Aggies,North Carolina A&T Aggies,NC A&T
-290010356,2009-01-01,2,356,home,FALSE,Illinois,38,Fighting Illini,Illinois Fighting Illini,Illinois
-290010356,2009-01-01,2,275,away,FALSE,Wisconsin,53,Badgers,Wisconsin Badgers,Wisconsin
-290010253,2009-01-01,2,253,home,FALSE,Southern Utah,85,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
-290010253,2009-01-01,2,224,away,FALSE,Westminster (UT),67,Griffins,Westminster (UT) Griffins,Westmnster
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290012226,2009,regular-season,2009-01-01,2,2226,home,FALSE,Florida Atlantic,67,Owls,Florida Atlantic Owls,FAU
+290012226,2009,regular-season,2009-01-01,2,6,away,FALSE,South Alabama,66,Jaguars,South Alabama Jaguars,South Alabama
+290010282,2009,regular-season,2009-01-01,2,282,home,FALSE,Indiana State,50,Sycamores,Indiana State Sycamores,Indiana St
+290010282,2009,regular-season,2009-01-01,2,2181,away,FALSE,Drake,38,Bulldogs,Drake Bulldogs,Drake
+290012509,2009,regular-season,2009-01-01,3,2509,home,FALSE,Purdue,62,Boilermakers,Purdue Boilermakers,Purdue
+290012509,2009,regular-season,2009-01-01,3,127,away,FALSE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St
+290012443,2009,regular-season,2009-01-01,2,2443,home,FALSE,New Orleans,63,Privateers,New Orleans Privateers,New Orleans
+290012443,2009,regular-season,2009-01-01,2,2172,away,FALSE,Denver,46,Pioneers,Denver Pioneers,Denver
+290010154,2009,regular-season,2009-01-01,2,154,home,FALSE,Wake Forest,72,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+290010154,2009,regular-season,2009-01-01,2,350,away,FALSE,UNC Wilmington,58,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+290010099,2009,regular-season,2009-01-01,2,99,home,FALSE,LSU,64,Tigers,LSU Tigers,LSU
+290010099,2009,regular-season,2009-01-01,2,158,away,FALSE,Nebraska,50,Cornhuskers,Nebraska Cornhuskers,Nebraska
+290010135,2009,regular-season,2009-01-01,2,135,home,FALSE,Minnesota,69,Golden Gophers,Minnesota Golden Gophers,Minnesota
+290010135,2009,regular-season,2009-01-01,2,213,away,FALSE,Penn State,55,Lady Lions,Penn State Lady Lions,Penn State
+290012287,2009,regular-season,2009-01-01,2,2287,home,FALSE,Illinois State,63,Redbirds,Illinois State Redbirds,Illinois St
+290012287,2009,regular-season,2009-01-01,2,156,away,FALSE,Creighton,43,Bluejays,Creighton Bluejays,Creighton
+290012241,2009,regular-season,2009-01-01,2,2241,home,FALSE,Gardner-Webb,85,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+290012241,2009,regular-season,2009-01-01,2,2410,away,FALSE,Montreat,57,Cavaliers,Montreat Cavaliers,Montreat
+290010096,2009,regular-season,2009-01-01,2,96,home,FALSE,Kentucky,72,Wildcats,Kentucky Wildcats,Kentucky
+290010096,2009,regular-season,2009-01-01,2,2448,away,FALSE,North Carolina A&T,63,Aggies,North Carolina A&T Aggies,NC A&T
+290010356,2009,regular-season,2009-01-01,2,356,home,FALSE,Illinois,38,Fighting Illini,Illinois Fighting Illini,Illinois
+290010356,2009,regular-season,2009-01-01,2,275,away,FALSE,Wisconsin,53,Badgers,Wisconsin Badgers,Wisconsin
+290010253,2009,regular-season,2009-01-01,2,253,home,FALSE,Southern Utah,85,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+290010253,2009,regular-season,2009-01-01,2,224,away,FALSE,Westminster (UT),67,Griffins,Westminster (UT) Griffins,Westmnster

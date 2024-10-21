@@ -1,47 +1,47 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230312142,2003-01-31,2,2142,home,FALSE,Colgate,62,Raiders,Colgate Raiders,Colgate
-230312142,2003-01-31,2,2083,away,FALSE,Bucknell,70,Bison,Bucknell Bison,Bucknell
-230310322,2003-01-31,2,322,home,FALSE,Lafayette,57,Leopards,Lafayette Leopards,Lafayette
-230310322,2003-01-31,2,44,away,FALSE,American University,69,Eagles,American University Eagles,American
-230310107,2003-01-31,2,107,home,FALSE,Holy Cross,56,Crusaders,Holy Cross Crusaders,Holy Cross
-230310107,2003-01-31,2,2329,away,FALSE,Lehigh,58,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-230310349,2003-01-31,2,349,home,FALSE,Army,48,Black Knights,Army Black Knights,Army
-230310349,2003-01-31,2,2426,away,FALSE,Navy,60,Midshipmen,Navy Midshipmen,Navy
-230310108,2003-01-31,2,108,home,FALSE,Harvard,78,Crimson,Harvard Crimson,Harvard
-230310108,2003-01-31,2,163,away,FALSE,Princeton,42,Tigers,Princeton Tigers,Princeton
-230312603,2003-01-31,2,2603,home,FALSE,Saint Joseph's,67,Hawks,Saint Joseph's Hawks,Saint Joseph's
-230312603,2003-01-31,2,2752,away,FALSE,Xavier,64,Musketeers,Xavier Musketeers,Xavier
-230312429,2003-01-31,3,2429,home,FALSE,Charlotte,73,49ers,Charlotte 49ers,Charlotte
-230312429,2003-01-31,3,235,away,FALSE,Memphis,68,Tigers,Memphis Tigers,Memphis
-230312368,2003-01-31,2,2368,home,FALSE,Marist,68,Red Foxes,Marist Red Foxes,Marist
-230312368,2003-01-31,2,314,away,FALSE,Iona,56,Gaels,Iona Gaels,Iona
-230312230,2003-01-31,2,2230,home,FALSE,Fordham,67,Rams,Fordham Rams,Fordham
-230312230,2003-01-31,2,2168,away,FALSE,Dayton,78,Flyers,Dayton Flyers,Dayton
-230312132,2003-01-31,2,2132,home,FALSE,Cincinnati,63,Bearcats,Cincinnati Bearcats,Cincinnati
-230312132,2003-01-31,2,2572,away,FALSE,Southern Miss,51,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-230310295,2003-01-31,2,295,home,FALSE,Old Dominion,59,Monarchs,Old Dominion Monarchs,Old Dominion
-230310295,2003-01-31,2,164,away,FALSE,Rutgers,67,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-230310225,2003-01-31,2,225,home,FALSE,Brown,73,Bears,Brown Bears,Brown
-230310225,2003-01-31,2,172,away,FALSE,Cornell,63,Big Red,Cornell Big Red,Cornell
-230310159,2003-01-31,2,159,home,FALSE,Dartmouth,65,Big Green,Dartmouth Big Green,Dartmouth
-230310159,2003-01-31,2,219,away,FALSE,Pennsylvania,74,Quakers,Pennsylvania Quakers,Penn
-230310154,2003-01-31,2,154,home,FALSE,Wake Forest,70,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-230310154,2003-01-31,2,59,away,FALSE,Georgia Tech,74,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-230310151,2003-01-31,2,151,home,FALSE,East Carolina,63,Pirates,East Carolina Pirates,East Carolina
-230310151,2003-01-31,2,139,away,FALSE,Saint Louis,76,Billikens,Saint Louis Billikens,Saint Louis
-230310097,2003-01-31,2,97,home,FALSE,Louisville,77,Cardinals,Louisville Cardinals,Louisville
-230310097,2003-01-31,2,2655,away,FALSE,Tulane,70,Green Wave,Tulane Green Wave,Tulane
-230310043,2003-01-31,2,43,home,FALSE,Yale,61,Bulldogs,Yale Bulldogs,Yale
-230310043,2003-01-31,2,171,away,FALSE,Columbia,58,Lions,Columbia Lions,Columbia
-230310305,2003-01-31,2,305,home,FALSE,DePaul,101,Blue Demons,DePaul Blue Demons,DePaul
-230310305,2003-01-31,2,248,away,FALSE,Houston,52,Cougars,Houston Cougars,Houston
-230310269,2003-01-31,2,269,home,FALSE,Marquette,54,Golden Eagles,Marquette Golden Eagles,Marquette
-230310269,2003-01-31,2,2628,away,FALSE,TCU,79,Horned Frogs,TCU Horned Frogs,TCU
-230312460,2003-01-31,2,2460,home,FALSE,Northern Iowa,74,Panthers,Northern Iowa Panthers,Northern Iowa
-230312460,2003-01-31,2,339,away,FALSE,Evansville,55,Purple Aces,Evansville Purple Aces,Evansville
-230310071,2003-01-31,2,71,home,FALSE,Bradley,66,Braves,Bradley Braves,Bradley
-230310071,2003-01-31,2,79,away,FALSE,Southern Illinois,45,Salukis,Southern Illinois Salukis,S Illinois
-230312492,2003-01-31,2,2492,home,FALSE,Pepperdine,61,Waves,Pepperdine Waves,Pepperdine
-230312492,2003-01-31,2,2539,away,FALSE,San Francisco,71,Dons,San Francisco Dons,San Francisco
-230312351,2003-01-31,2,2351,home,FALSE,Loyola Marymount,54,Lions,Loyola Marymount Lions,LMU
-230312351,2003-01-31,2,2608,away,FALSE,Saint Mary's,45,Gaels,Saint Mary's Gaels,Saint Mary's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230312142,2003,regular-season,2003-01-31,2,2142,home,FALSE,Colgate,62,Raiders,Colgate Raiders,Colgate
+230312142,2003,regular-season,2003-01-31,2,2083,away,FALSE,Bucknell,70,Bison,Bucknell Bison,Bucknell
+230310322,2003,regular-season,2003-01-31,2,322,home,FALSE,Lafayette,57,Leopards,Lafayette Leopards,Lafayette
+230310322,2003,regular-season,2003-01-31,2,44,away,FALSE,American University,69,Eagles,American University Eagles,American
+230310107,2003,regular-season,2003-01-31,2,107,home,FALSE,Holy Cross,56,Crusaders,Holy Cross Crusaders,Holy Cross
+230310107,2003,regular-season,2003-01-31,2,2329,away,FALSE,Lehigh,58,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+230310349,2003,regular-season,2003-01-31,2,349,home,FALSE,Army,48,Black Knights,Army Black Knights,Army
+230310349,2003,regular-season,2003-01-31,2,2426,away,FALSE,Navy,60,Midshipmen,Navy Midshipmen,Navy
+230310108,2003,regular-season,2003-01-31,2,108,home,FALSE,Harvard,78,Crimson,Harvard Crimson,Harvard
+230310108,2003,regular-season,2003-01-31,2,163,away,FALSE,Princeton,42,Tigers,Princeton Tigers,Princeton
+230312603,2003,regular-season,2003-01-31,2,2603,home,FALSE,Saint Joseph's,67,Hawks,Saint Joseph's Hawks,Saint Joseph's
+230312603,2003,regular-season,2003-01-31,2,2752,away,FALSE,Xavier,64,Musketeers,Xavier Musketeers,Xavier
+230312429,2003,regular-season,2003-01-31,3,2429,home,FALSE,Charlotte,73,49ers,Charlotte 49ers,Charlotte
+230312429,2003,regular-season,2003-01-31,3,235,away,FALSE,Memphis,68,Tigers,Memphis Tigers,Memphis
+230312368,2003,regular-season,2003-01-31,2,2368,home,FALSE,Marist,68,Red Foxes,Marist Red Foxes,Marist
+230312368,2003,regular-season,2003-01-31,2,314,away,FALSE,Iona,56,Gaels,Iona Gaels,Iona
+230312230,2003,regular-season,2003-01-31,2,2230,home,FALSE,Fordham,67,Rams,Fordham Rams,Fordham
+230312230,2003,regular-season,2003-01-31,2,2168,away,FALSE,Dayton,78,Flyers,Dayton Flyers,Dayton
+230312132,2003,regular-season,2003-01-31,2,2132,home,FALSE,Cincinnati,63,Bearcats,Cincinnati Bearcats,Cincinnati
+230312132,2003,regular-season,2003-01-31,2,2572,away,FALSE,Southern Miss,51,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+230310295,2003,regular-season,2003-01-31,2,295,home,FALSE,Old Dominion,59,Monarchs,Old Dominion Monarchs,Old Dominion
+230310295,2003,regular-season,2003-01-31,2,164,away,FALSE,Rutgers,67,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+230310225,2003,regular-season,2003-01-31,2,225,home,FALSE,Brown,73,Bears,Brown Bears,Brown
+230310225,2003,regular-season,2003-01-31,2,172,away,FALSE,Cornell,63,Big Red,Cornell Big Red,Cornell
+230310159,2003,regular-season,2003-01-31,2,159,home,FALSE,Dartmouth,65,Big Green,Dartmouth Big Green,Dartmouth
+230310159,2003,regular-season,2003-01-31,2,219,away,FALSE,Pennsylvania,74,Quakers,Pennsylvania Quakers,Penn
+230310154,2003,regular-season,2003-01-31,2,154,home,FALSE,Wake Forest,70,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+230310154,2003,regular-season,2003-01-31,2,59,away,FALSE,Georgia Tech,74,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+230310151,2003,regular-season,2003-01-31,2,151,home,FALSE,East Carolina,63,Pirates,East Carolina Pirates,East Carolina
+230310151,2003,regular-season,2003-01-31,2,139,away,FALSE,Saint Louis,76,Billikens,Saint Louis Billikens,Saint Louis
+230310097,2003,regular-season,2003-01-31,2,97,home,FALSE,Louisville,77,Cardinals,Louisville Cardinals,Louisville
+230310097,2003,regular-season,2003-01-31,2,2655,away,FALSE,Tulane,70,Green Wave,Tulane Green Wave,Tulane
+230310043,2003,regular-season,2003-01-31,2,43,home,FALSE,Yale,61,Bulldogs,Yale Bulldogs,Yale
+230310043,2003,regular-season,2003-01-31,2,171,away,FALSE,Columbia,58,Lions,Columbia Lions,Columbia
+230310305,2003,regular-season,2003-01-31,2,305,home,FALSE,DePaul,101,Blue Demons,DePaul Blue Demons,DePaul
+230310305,2003,regular-season,2003-01-31,2,248,away,FALSE,Houston,52,Cougars,Houston Cougars,Houston
+230310269,2003,regular-season,2003-01-31,2,269,home,FALSE,Marquette,54,Golden Eagles,Marquette Golden Eagles,Marquette
+230310269,2003,regular-season,2003-01-31,2,2628,away,FALSE,TCU,79,Horned Frogs,TCU Horned Frogs,TCU
+230312460,2003,regular-season,2003-01-31,2,2460,home,FALSE,Northern Iowa,74,Panthers,Northern Iowa Panthers,Northern Iowa
+230312460,2003,regular-season,2003-01-31,2,339,away,FALSE,Evansville,55,Purple Aces,Evansville Purple Aces,Evansville
+230310071,2003,regular-season,2003-01-31,2,71,home,FALSE,Bradley,66,Braves,Bradley Braves,Bradley
+230310071,2003,regular-season,2003-01-31,2,79,away,FALSE,Southern Illinois,45,Salukis,Southern Illinois Salukis,S Illinois
+230312492,2003,regular-season,2003-01-31,2,2492,home,FALSE,Pepperdine,61,Waves,Pepperdine Waves,Pepperdine
+230312492,2003,regular-season,2003-01-31,2,2539,away,FALSE,San Francisco,71,Dons,San Francisco Dons,San Francisco
+230312351,2003,regular-season,2003-01-31,2,2351,home,FALSE,Loyola Marymount,54,Lions,Loyola Marymount Lions,LMU
+230312351,2003,regular-season,2003-01-31,2,2608,away,FALSE,Saint Mary's,45,Gaels,Saint Mary's Gaels,Saint Mary's

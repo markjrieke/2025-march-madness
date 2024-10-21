@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400831617,2016-01-24,4,344,home,FALSE,Mississippi State,51,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400831617,2016-01-24,4,2579,away,FALSE,South Carolina,57,Gamecocks,South Carolina Gamecocks,South Carolina
-400842276,2016-01-24,4,87,home,FALSE,Notre Dame,80,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400842276,2016-01-24,4,259,away,FALSE,Virginia Tech,41,Hokies,Virginia Tech Hokies,Virginia Tech
-400834931,2016-01-24,4,164,home,FALSE,Rutgers,58,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400834931,2016-01-24,4,194,away,FALSE,Ohio State,67,Buckeyes,Ohio State Buckeyes,Ohio State
-400845162,2016-01-24,4,12,home,FALSE,Arizona,47,Wildcats,Arizona Wildcats,Arizona
-400845162,2016-01-24,4,9,away,FALSE,Arizona State,62,Sun Devils,Arizona State Sun Devils,Arizona St
-400845206,2016-01-24,4,38,home,FALSE,Colorado,47,Buffaloes,Colorado Buffaloes,Colorado
-400845206,2016-01-24,4,204,away,FALSE,Oregon State,61,Beavers,Oregon State Beavers,Oregon St
-400845609,2016-01-24,4,26,home,FALSE,UCLA,56,Bruins,UCLA Bruins,UCLA
-400845609,2016-01-24,4,24,away,FALSE,Stanford,36,Cardinal,Stanford Cardinal,Stanford
-400842628,2016-01-24,4,2390,home,FALSE,Miami,58,Hurricanes,Miami Hurricanes,Miami
-400842628,2016-01-24,4,52,away,FALSE,Florida State,69,Seminoles,Florida State Seminoles,Florida St
-400835054,2016-01-24,4,2116,home,FALSE,UCF,49,Knights,UCF Knights,UCF
-400835054,2016-01-24,4,58,away,FALSE,South Florida,88,Bulls,South Florida Bulls,South Florida
-400831614,2016-01-24,4,142,home,FALSE,Missouri,79,Tigers,Missouri Tigers,Missouri
-400831614,2016-01-24,4,57,away,FALSE,Florida,64,Gators,Florida Gators,Florida
-400842359,2016-01-24,4,305,home,FALSE,DePaul,96,Blue Demons,DePaul Blue Demons,DePaul
-400842359,2016-01-24,4,2507,away,FALSE,Providence,50,Friars,Providence Friars,Providence
-400832091,2016-01-24,4,2628,home,FALSE,TCU,84,Horned Frogs,TCU Horned Frogs,TCU
-400832091,2016-01-24,4,277,away,FALSE,West Virginia,97,Mountaineers,West Virginia Mountaineers,West Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400831617,2016,regular-season,2016-01-24,4,344,home,FALSE,Mississippi State,51,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400831617,2016,regular-season,2016-01-24,4,2579,away,FALSE,South Carolina,57,Gamecocks,South Carolina Gamecocks,South Carolina
+400842276,2016,regular-season,2016-01-24,4,87,home,FALSE,Notre Dame,80,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400842276,2016,regular-season,2016-01-24,4,259,away,FALSE,Virginia Tech,41,Hokies,Virginia Tech Hokies,Virginia Tech
+400834931,2016,regular-season,2016-01-24,4,164,home,FALSE,Rutgers,58,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400834931,2016,regular-season,2016-01-24,4,194,away,FALSE,Ohio State,67,Buckeyes,Ohio State Buckeyes,Ohio State
+400845162,2016,regular-season,2016-01-24,4,12,home,FALSE,Arizona,47,Wildcats,Arizona Wildcats,Arizona
+400845162,2016,regular-season,2016-01-24,4,9,away,FALSE,Arizona State,62,Sun Devils,Arizona State Sun Devils,Arizona St
+400845206,2016,regular-season,2016-01-24,4,38,home,FALSE,Colorado,47,Buffaloes,Colorado Buffaloes,Colorado
+400845206,2016,regular-season,2016-01-24,4,204,away,FALSE,Oregon State,61,Beavers,Oregon State Beavers,Oregon St
+400845609,2016,regular-season,2016-01-24,4,26,home,FALSE,UCLA,56,Bruins,UCLA Bruins,UCLA
+400845609,2016,regular-season,2016-01-24,4,24,away,FALSE,Stanford,36,Cardinal,Stanford Cardinal,Stanford
+400842628,2016,regular-season,2016-01-24,4,2390,home,FALSE,Miami,58,Hurricanes,Miami Hurricanes,Miami
+400842628,2016,regular-season,2016-01-24,4,52,away,FALSE,Florida State,69,Seminoles,Florida State Seminoles,Florida St
+400835054,2016,regular-season,2016-01-24,4,2116,home,FALSE,UCF,49,Knights,UCF Knights,UCF
+400835054,2016,regular-season,2016-01-24,4,58,away,FALSE,South Florida,88,Bulls,South Florida Bulls,South Florida
+400831614,2016,regular-season,2016-01-24,4,142,home,FALSE,Missouri,79,Tigers,Missouri Tigers,Missouri
+400831614,2016,regular-season,2016-01-24,4,57,away,FALSE,Florida,64,Gators,Florida Gators,Florida
+400842359,2016,regular-season,2016-01-24,4,305,home,FALSE,DePaul,96,Blue Demons,DePaul Blue Demons,DePaul
+400842359,2016,regular-season,2016-01-24,4,2507,away,FALSE,Providence,50,Friars,Providence Friars,Providence
+400832091,2016,regular-season,2016-01-24,4,2628,home,FALSE,TCU,84,Horned Frogs,TCU Horned Frogs,TCU
+400832091,2016,regular-season,2016-01-24,4,277,away,FALSE,West Virginia,97,Mountaineers,West Virginia Mountaineers,West Virginia

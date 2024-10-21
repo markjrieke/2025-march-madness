@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303332306,2010-11-29,2,2306,home,FALSE,Kansas State,85,Wildcats,Kansas State Wildcats,Kansas St
-303332306,2010-11-29,2,2214,away,FALSE,Emporia St,61,Hornets,Emporia St Hornets,Emporia St
-303330239,2010-11-29,2,239,home,FALSE,Baylor,90,Bears,Baylor Bears,Baylor
-303330239,2010-11-29,2,2504,away,FALSE,Prairie View A&M,45,Panthers,Prairie View A&M Panthers,Prairie View
-303330135,2010-11-29,2,135,home,FALSE,Minnesota,79,Golden Gophers,Minnesota Golden Gophers,Minnesota
-303330135,2010-11-29,2,258,away,FALSE,Virginia,87,Cavaliers,Virginia Cavaliers,Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303332306,2011,regular-season,2010-11-29,2,2306,home,FALSE,Kansas State,85,Wildcats,Kansas State Wildcats,Kansas St
+303332306,2011,regular-season,2010-11-29,2,2214,away,FALSE,Emporia St,61,Hornets,Emporia St Hornets,Emporia St
+303330239,2011,regular-season,2010-11-29,2,239,home,FALSE,Baylor,90,Bears,Baylor Bears,Baylor
+303330239,2011,regular-season,2010-11-29,2,2504,away,FALSE,Prairie View A&M,45,Panthers,Prairie View A&M Panthers,Prairie View
+303330135,2011,regular-season,2010-11-29,2,135,home,FALSE,Minnesota,79,Golden Gophers,Minnesota Golden Gophers,Minnesota
+303330135,2011,regular-season,2010-11-29,2,258,away,FALSE,Virginia,87,Cavaliers,Virginia Cavaliers,Virginia

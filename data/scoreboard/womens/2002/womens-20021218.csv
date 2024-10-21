@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-223520150,2002-12-18,2,150,home,FALSE,Duke,106,Blue Devils,Duke Blue Devils,Duke
-223520150,2002-12-18,2,2229,away,FALSE,Florida International,58,Panthers,Florida International Panthers,FIU
-223520099,2002-12-18,2,99,home,FALSE,LSU,85,Tigers,LSU Tigers,LSU
-223520099,2002-12-18,2,195,away,FALSE,Ohio,57,Bobcats,Ohio Bobcats,Ohio
-223522633,2002-12-18,2,2633,home,FALSE,Tennessee,71,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-223522633,2002-12-18,2,24,away,FALSE,Stanford,56,Cardinal,Stanford Cardinal,Stanford
-223522579,2002-12-18,2,2579,home,FALSE,South Carolina,70,Gamecocks,South Carolina Gamecocks,South Carolina
-223522579,2002-12-18,2,309,away,FALSE,Louisiana,41,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
-223520251,2002-12-18,2,251,home,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
-223520251,2002-12-18,2,250,away,FALSE,UT Arlington,44,Mavericks,UT Arlington Mavericks,UT Arlington
-223520012,2002-12-18,2,12,home,FALSE,Arizona,70,Wildcats,Arizona Wildcats,Arizona
-223520012,2002-12-18,2,167,away,FALSE,New Mexico,61,Lobos,New Mexico Lobos,New Mexico
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+223520150,2003,regular-season,2002-12-18,2,150,home,FALSE,Duke,106,Blue Devils,Duke Blue Devils,Duke
+223520150,2003,regular-season,2002-12-18,2,2229,away,FALSE,Florida International,58,Panthers,Florida International Panthers,FIU
+223520099,2003,regular-season,2002-12-18,2,99,home,FALSE,LSU,85,Tigers,LSU Tigers,LSU
+223520099,2003,regular-season,2002-12-18,2,195,away,FALSE,Ohio,57,Bobcats,Ohio Bobcats,Ohio
+223522633,2003,regular-season,2002-12-18,2,2633,home,FALSE,Tennessee,71,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+223522633,2003,regular-season,2002-12-18,2,24,away,FALSE,Stanford,56,Cardinal,Stanford Cardinal,Stanford
+223522579,2003,regular-season,2002-12-18,2,2579,home,FALSE,South Carolina,70,Gamecocks,South Carolina Gamecocks,South Carolina
+223522579,2003,regular-season,2002-12-18,2,309,away,FALSE,Louisiana,41,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+223520251,2003,regular-season,2002-12-18,2,251,home,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
+223520251,2003,regular-season,2002-12-18,2,250,away,FALSE,UT Arlington,44,Mavericks,UT Arlington Mavericks,UT Arlington
+223520012,2003,regular-season,2002-12-18,2,12,home,FALSE,Arizona,70,Wildcats,Arizona Wildcats,Arizona
+223520012,2003,regular-season,2002-12-18,2,167,away,FALSE,New Mexico,61,Lobos,New Mexico Lobos,New Mexico

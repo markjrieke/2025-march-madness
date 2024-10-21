@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401374603,2021-12-17,4,2464,home,FALSE,Northern Arizona,55,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
-401374603,2021-12-17,4,12,away,FALSE,Arizona,82,Wildcats,Arizona Wildcats,Arizona
-401376631,2021-12-17,4,58,home,FALSE,South Florida,62,Bulls,South Florida Bulls,South Florida
-401376631,2021-12-17,4,2272,away,FALSE,High Point,46,Panthers,High Point Panthers,High Point
-401375877,2021-12-17,0,96,home,FALSE,Kentucky,0,Wildcats,Kentucky Wildcats,Kentucky
-401375877,2021-12-17,0,2415,away,FALSE,Morgan State,0,Lady Bears,Morgan State Lady Bears,Morgan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401374603,2022,regular-season,2021-12-17,4,2464,home,FALSE,Northern Arizona,55,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+401374603,2022,regular-season,2021-12-17,4,12,away,FALSE,Arizona,82,Wildcats,Arizona Wildcats,Arizona
+401376631,2022,regular-season,2021-12-17,4,58,home,FALSE,South Florida,62,Bulls,South Florida Bulls,South Florida
+401376631,2022,regular-season,2021-12-17,4,2272,away,FALSE,High Point,46,Panthers,High Point Panthers,High Point
+401375877,2022,regular-season,2021-12-17,0,96,home,FALSE,Kentucky,0,Wildcats,Kentucky Wildcats,Kentucky
+401375877,2022,regular-season,2021-12-17,0,2415,away,FALSE,Morgan State,0,Lady Bears,Morgan State Lady Bears,Morgan St

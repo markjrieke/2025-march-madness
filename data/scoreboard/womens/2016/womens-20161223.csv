@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400914317,2016-12-23,4,45,home,FALSE,George Washington,74,Revolutionaries,George Washington Revolutionaries,G Washington
-400914317,2016-12-23,4,2352,away,FALSE,Loyola Maryland,64,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-400912393,2016-12-23,4,2565,home,FALSE,SIU Edwardsville,92,Cougars,SIU Edwardsville Cougars,SIUE
-400912393,2016-12-23,4,2287,away,FALSE,Illinois State,80,Redbirds,Illinois State Redbirds,Illinois St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400914317,2017,regular-season,2016-12-23,4,45,home,FALSE,George Washington,74,Revolutionaries,George Washington Revolutionaries,G Washington
+400914317,2017,regular-season,2016-12-23,4,2352,away,FALSE,Loyola Maryland,64,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+400912393,2017,regular-season,2016-12-23,4,2565,home,FALSE,SIU Edwardsville,92,Cougars,SIU Edwardsville Cougars,SIUE
+400912393,2017,regular-season,2016-12-23,4,2287,away,FALSE,Illinois State,80,Redbirds,Illinois State Redbirds,Illinois St

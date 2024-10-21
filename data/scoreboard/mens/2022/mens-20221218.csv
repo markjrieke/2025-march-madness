@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401483048,2022-12-18,2,30,home,FALSE,USC,74,Trojans,USC Trojans,USC
-401483048,2022-12-18,2,2,away,FALSE,Auburn,71,Tigers,Auburn Tigers,Auburn
-401483305,2022-12-18,2,2628,home,FALSE,TCU,88,Horned Frogs,TCU Horned Frogs,TCU
-401483305,2022-12-18,2,2400,away,FALSE,Mississippi Valley State,43,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401483048,2023,regular-season,2022-12-18,2,30,home,FALSE,USC,74,Trojans,USC Trojans,USC
+401483048,2023,regular-season,2022-12-18,2,2,away,FALSE,Auburn,71,Tigers,Auburn Tigers,Auburn
+401483305,2023,regular-season,2022-12-18,2,2628,home,FALSE,TCU,88,Horned Frogs,TCU Horned Frogs,TCU
+401483305,2023,regular-season,2022-12-18,2,2400,away,FALSE,Mississippi Valley State,43,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St

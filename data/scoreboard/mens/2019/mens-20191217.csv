@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401166121,2019-12-17,2,194,home,FALSE,Ohio State,80,Buckeyes,Ohio State Buckeyes,Ohio State
-401166121,2019-12-17,2,2546,away,FALSE,Southeast Missouri State,48,Redhawks,Southeast Missouri State Redhawks,SE Missouri
-401170181,2019-12-17,2,2168,home,FALSE,Dayton,71,Flyers,Dayton Flyers,Dayton
-401170181,2019-12-17,2,249,away,FALSE,North Texas,58,Mean Green,North Texas Mean Green,North Texas
-401168258,2019-12-17,2,52,home,FALSE,Florida State,98,Seminoles,Florida State Seminoles,Florida St
-401168258,2019-12-17,2,2454,away,FALSE,North Florida,81,Ospreys,North Florida Ospreys,North Florida
-401170630,2019-12-17,2,264,home,FALSE,Washington,81,Huskies,Washington Huskies,Washington
-401170630,2019-12-17,2,2547,away,FALSE,Seattle U,59,Redhawks,Seattle U Redhawks,Seattle U
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401166121,2020,regular-season,2019-12-17,2,194,home,FALSE,Ohio State,80,Buckeyes,Ohio State Buckeyes,Ohio State
+401166121,2020,regular-season,2019-12-17,2,2546,away,FALSE,Southeast Missouri State,48,Redhawks,Southeast Missouri State Redhawks,SE Missouri
+401170181,2020,regular-season,2019-12-17,2,2168,home,FALSE,Dayton,71,Flyers,Dayton Flyers,Dayton
+401170181,2020,regular-season,2019-12-17,2,249,away,FALSE,North Texas,58,Mean Green,North Texas Mean Green,North Texas
+401168258,2020,regular-season,2019-12-17,2,52,home,FALSE,Florida State,98,Seminoles,Florida State Seminoles,Florida St
+401168258,2020,regular-season,2019-12-17,2,2454,away,FALSE,North Florida,81,Ospreys,North Florida Ospreys,North Florida
+401170630,2020,regular-season,2019-12-17,2,264,home,FALSE,Washington,81,Huskies,Washington Huskies,Washington
+401170630,2020,regular-season,2019-12-17,2,2547,away,FALSE,Seattle U,59,Redhawks,Seattle U Redhawks,Seattle U

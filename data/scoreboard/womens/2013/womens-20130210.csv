@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330410041,2013-02-10,2,41,home,FALSE,UConn,91,Huskies,UConn Huskies,UConn
-330410041,2013-02-10,2,305,away,FALSE,DePaul,44,Blue Demons,DePaul Blue Demons,DePaul
-330410024,2013-02-10,2,24,home,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
-330410024,2013-02-10,2,9,away,FALSE,Arizona State,45,Sun Devils,Arizona State Sun Devils,Arizona St
-330410025,2013-02-10,2,25,home,FALSE,California,91,Golden Bears,California Golden Bears,California
-330410025,2013-02-10,2,12,away,FALSE,Arizona,86,Wildcats,Arizona Wildcats,Arizona
-330410213,2013-02-10,2,213,home,FALSE,Penn State,71,Lady Lions,Penn State Lady Lions,Penn State
-330410213,2013-02-10,2,127,away,FALSE,Michigan State,56,Spartans,Michigan State Spartans,Michigan St
-330410099,2013-02-10,2,99,home,FALSE,LSU,62,Tigers,LSU Tigers,LSU
-330410099,2013-02-10,2,61,away,FALSE,Georgia,54,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-330410238,2013-02-10,2,238,home,FALSE,Vanderbilt,53,Commodores,Vanderbilt Commodores,Vanderbilt
-330410238,2013-02-10,2,96,away,FALSE,Kentucky,75,Wildcats,Kentucky Wildcats,Kentucky
-330412633,2013-02-10,2,2633,home,FALSE,Tennessee,97,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-330412633,2013-02-10,2,145,away,FALSE,Ole Miss,68,Rebels,Ole Miss Rebels,Ole Miss
-330412509,2013-02-10,2,2509,home,FALSE,Purdue,56,Boilermakers,Purdue Boilermakers,Purdue
-330412509,2013-02-10,2,130,away,FALSE,Michigan,67,Wolverines,Michigan Wolverines,Michigan
-330412579,2013-02-10,2,2579,home,FALSE,South Carolina,48,Gamecocks,South Carolina Gamecocks,South Carolina
-330412579,2013-02-10,2,245,away,FALSE,Texas A&M,50,Aggies,Texas A&M Aggies,Texas A&M
-330410059,2013-02-10,2,59,home,FALSE,Georgia Tech,58,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-330410059,2013-02-10,2,153,away,FALSE,North Carolina,60,Tar Heels,North Carolina Tar Heels,North Carolina
-330410265,2013-02-10,2,265,home,FALSE,Washington State,65,Cougars,Washington State Cougars,Washington St
-330410265,2013-02-10,2,26,away,FALSE,UCLA,80,Bruins,UCLA Bruins,UCLA
-330412230,2013-02-10,2,2230,home,FALSE,Fordham,57,Rams,Fordham Rams,Fordham
-330412230,2013-02-10,2,2168,away,FALSE,Dayton,68,Flyers,Dayton Flyers,Dayton
-330412390,2013-02-10,2,2390,home,FALSE,Miami,78,Hurricanes,Miami Hurricanes,Miami
-330412390,2013-02-10,2,52,away,FALSE,Florida State,93,Seminoles,Florida State Seminoles,Florida St
-330410256,2013-02-10,2,256,home,FALSE,James Madison,64,Dukes,James Madison Dukes,James Madison
-330410256,2013-02-10,2,48,away,FALSE,Delaware,71,Blue Hens,Delaware Blue Hens,Delaware
-330410038,2013-02-10,2,38,home,FALSE,Colorado,84,Buffaloes,Colorado Buffaloes,Colorado
-330410038,2013-02-10,2,2483,away,FALSE,Oregon,59,Ducks,Oregon Ducks,Oregon
-330410201,2013-02-10,2,201,home,FALSE,Oklahoma,80,Sooners,Oklahoma Sooners,Oklahoma
-330410201,2013-02-10,2,197,away,FALSE,Oklahoma State,61,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330410041,2013,regular-season,2013-02-10,2,41,home,FALSE,UConn,91,Huskies,UConn Huskies,UConn
+330410041,2013,regular-season,2013-02-10,2,305,away,FALSE,DePaul,44,Blue Demons,DePaul Blue Demons,DePaul
+330410024,2013,regular-season,2013-02-10,2,24,home,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
+330410024,2013,regular-season,2013-02-10,2,9,away,FALSE,Arizona State,45,Sun Devils,Arizona State Sun Devils,Arizona St
+330410025,2013,regular-season,2013-02-10,2,25,home,FALSE,California,91,Golden Bears,California Golden Bears,California
+330410025,2013,regular-season,2013-02-10,2,12,away,FALSE,Arizona,86,Wildcats,Arizona Wildcats,Arizona
+330410213,2013,regular-season,2013-02-10,2,213,home,FALSE,Penn State,71,Lady Lions,Penn State Lady Lions,Penn State
+330410213,2013,regular-season,2013-02-10,2,127,away,FALSE,Michigan State,56,Spartans,Michigan State Spartans,Michigan St
+330410099,2013,regular-season,2013-02-10,2,99,home,FALSE,LSU,62,Tigers,LSU Tigers,LSU
+330410099,2013,regular-season,2013-02-10,2,61,away,FALSE,Georgia,54,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+330410238,2013,regular-season,2013-02-10,2,238,home,FALSE,Vanderbilt,53,Commodores,Vanderbilt Commodores,Vanderbilt
+330410238,2013,regular-season,2013-02-10,2,96,away,FALSE,Kentucky,75,Wildcats,Kentucky Wildcats,Kentucky
+330412633,2013,regular-season,2013-02-10,2,2633,home,FALSE,Tennessee,97,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+330412633,2013,regular-season,2013-02-10,2,145,away,FALSE,Ole Miss,68,Rebels,Ole Miss Rebels,Ole Miss
+330412509,2013,regular-season,2013-02-10,2,2509,home,FALSE,Purdue,56,Boilermakers,Purdue Boilermakers,Purdue
+330412509,2013,regular-season,2013-02-10,2,130,away,FALSE,Michigan,67,Wolverines,Michigan Wolverines,Michigan
+330412579,2013,regular-season,2013-02-10,2,2579,home,FALSE,South Carolina,48,Gamecocks,South Carolina Gamecocks,South Carolina
+330412579,2013,regular-season,2013-02-10,2,245,away,FALSE,Texas A&M,50,Aggies,Texas A&M Aggies,Texas A&M
+330410059,2013,regular-season,2013-02-10,2,59,home,FALSE,Georgia Tech,58,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+330410059,2013,regular-season,2013-02-10,2,153,away,FALSE,North Carolina,60,Tar Heels,North Carolina Tar Heels,North Carolina
+330410265,2013,regular-season,2013-02-10,2,265,home,FALSE,Washington State,65,Cougars,Washington State Cougars,Washington St
+330410265,2013,regular-season,2013-02-10,2,26,away,FALSE,UCLA,80,Bruins,UCLA Bruins,UCLA
+330412230,2013,regular-season,2013-02-10,2,2230,home,FALSE,Fordham,57,Rams,Fordham Rams,Fordham
+330412230,2013,regular-season,2013-02-10,2,2168,away,FALSE,Dayton,68,Flyers,Dayton Flyers,Dayton
+330412390,2013,regular-season,2013-02-10,2,2390,home,FALSE,Miami,78,Hurricanes,Miami Hurricanes,Miami
+330412390,2013,regular-season,2013-02-10,2,52,away,FALSE,Florida State,93,Seminoles,Florida State Seminoles,Florida St
+330410256,2013,regular-season,2013-02-10,2,256,home,FALSE,James Madison,64,Dukes,James Madison Dukes,James Madison
+330410256,2013,regular-season,2013-02-10,2,48,away,FALSE,Delaware,71,Blue Hens,Delaware Blue Hens,Delaware
+330410038,2013,regular-season,2013-02-10,2,38,home,FALSE,Colorado,84,Buffaloes,Colorado Buffaloes,Colorado
+330410038,2013,regular-season,2013-02-10,2,2483,away,FALSE,Oregon,59,Ducks,Oregon Ducks,Oregon
+330410201,2013,regular-season,2013-02-10,2,201,home,FALSE,Oklahoma,80,Sooners,Oklahoma Sooners,Oklahoma
+330410201,2013,regular-season,2013-02-10,2,197,away,FALSE,Oklahoma State,61,Cowgirls,Oklahoma State Cowgirls,Oklahoma St

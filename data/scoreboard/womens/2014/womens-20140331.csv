@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400549894,2014-03-31,2,87,home,TRUE,Notre Dame,88,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400549894,2014-03-31,2,239,away,TRUE,Baylor,69,Bears,Baylor Bears,Baylor
-400549914,2014-03-31,2,41,home,TRUE,UConn,69,Huskies,UConn Huskies,UConn
-400549914,2014-03-31,2,245,away,TRUE,Texas A&M,54,Aggies,Texas A&M Aggies,Texas A&M
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400549894,2014,post-season,2014-03-31,2,87,home,TRUE,Notre Dame,88,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400549894,2014,post-season,2014-03-31,2,239,away,TRUE,Baylor,69,Bears,Baylor Bears,Baylor
+400549914,2014,post-season,2014-03-31,2,41,home,TRUE,UConn,69,Huskies,UConn Huskies,UConn
+400549914,2014,post-season,2014-03-31,2,245,away,TRUE,Texas A&M,54,Aggies,Texas A&M Aggies,Texas A&M

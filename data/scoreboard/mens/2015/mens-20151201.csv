@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400813780,2015-12-01,2,2305,home,FALSE,Kansas,94,Jayhawks,Kansas Jayhawks,Kansas
-400813780,2015-12-01,2,2352,away,FALSE,Loyola Maryland,61,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-400816964,2015-12-01,2,66,home,FALSE,Iowa State,84,Cyclones,Iowa State Cyclones,Iowa State
-400816964,2015-12-01,2,2449,away,FALSE,North Dakota State,64,Bison,North Dakota State Bison,N Dakota St
-400821330,2015-12-01,2,2603,home,FALSE,Saint Joseph's,72,Hawks,Saint Joseph's Hawks,Saint Joseph's
-400821330,2015-12-01,2,222,away,FALSE,Villanova,86,Wildcats,Villanova Wildcats,Villanova
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400813780,2016,regular-season,2015-12-01,2,2305,home,FALSE,Kansas,94,Jayhawks,Kansas Jayhawks,Kansas
+400813780,2016,regular-season,2015-12-01,2,2352,away,FALSE,Loyola Maryland,61,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+400816964,2016,regular-season,2015-12-01,2,66,home,FALSE,Iowa State,84,Cyclones,Iowa State Cyclones,Iowa State
+400816964,2016,regular-season,2015-12-01,2,2449,away,FALSE,North Dakota State,64,Bison,North Dakota State Bison,N Dakota St
+400821330,2016,regular-season,2015-12-01,2,2603,home,FALSE,Saint Joseph's,72,Hawks,Saint Joseph's Hawks,Saint Joseph's
+400821330,2016,regular-season,2015-12-01,2,222,away,FALSE,Villanova,86,Wildcats,Villanova Wildcats,Villanova

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401487176,2023-01-03,4,2086,home,FALSE,Butler,47,Bulldogs,Butler Bulldogs,Butler
-401487176,2023-01-03,4,41,away,FALSE,UConn,80,Huskies,UConn Huskies,UConn
-401484680,2023-01-03,4,130,home,FALSE,Michigan,82,Wolverines,Michigan Wolverines,Michigan
-401484680,2023-01-03,4,213,away,FALSE,Penn State,72,Lady Lions,Penn State Lady Lions,Penn State
-401494135,2023-01-03,4,201,home,FALSE,Oklahoma,70,Sooners,Oklahoma Sooners,Oklahoma
-401494135,2023-01-03,4,239,away,FALSE,Baylor,81,Bears,Baylor Bears,Baylor
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401487176,2023,regular-season,2023-01-03,4,2086,home,FALSE,Butler,47,Bulldogs,Butler Bulldogs,Butler
+401487176,2023,regular-season,2023-01-03,4,41,away,FALSE,UConn,80,Huskies,UConn Huskies,UConn
+401484680,2023,regular-season,2023-01-03,4,130,home,FALSE,Michigan,82,Wolverines,Michigan Wolverines,Michigan
+401484680,2023,regular-season,2023-01-03,4,213,away,FALSE,Penn State,72,Lady Lions,Penn State Lady Lions,Penn State
+401494135,2023,regular-season,2023-01-03,4,201,home,FALSE,Oklahoma,70,Sooners,Oklahoma Sooners,Oklahoma
+401494135,2023,regular-season,2023-01-03,4,239,away,FALSE,Baylor,81,Bears,Baylor Bears,Baylor

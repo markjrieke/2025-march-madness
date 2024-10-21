@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303550194,2010-12-21,2,194,home,FALSE,Ohio State,96,Buckeyes,Ohio State Buckeyes,Ohio State
-303550194,2010-12-21,2,2427,away,FALSE,UNC Asheville,49,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-303550021,2010-12-21,2,21,home,TRUE,San Diego State,62,Aztecs,San Diego State Aztecs,San Diego St
-303550021,2010-12-21,2,2539,away,TRUE,San Francisco,56,Dons,San Francisco Dons,San Francisco
-303552306,2010-12-21,2,2306,home,FALSE,Kansas State,59,Wildcats,Kansas State Wildcats,Kansas St
-303552306,2010-12-21,2,2439,away,FALSE,UNLV,63,Rebels,UNLV Rebels,UNLV
-303552509,2010-12-21,2,2509,home,FALSE,Purdue,77,Boilermakers,Purdue Boilermakers,Purdue
-303552509,2010-12-21,2,2870,away,FALSE,Purdue Fort Wayne,52,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-303552633,2010-12-21,2,2633,home,FALSE,Tennessee,64,Volunteers,Tennessee Volunteers,Tennessee
-303552633,2010-12-21,2,30,away,FALSE,USC,65,Trojans,USC Trojans,USC
-303552692,2010-12-21,2,2692,home,FALSE,Weber State,66,Wildcats,Weber State Wildcats,Weber St
-303552692,2010-12-21,2,252,away,FALSE,BYU,72,Cougars,BYU Cougars,BYU
-303550245,2010-12-21,2,245,home,FALSE,Texas A&M,86,Aggies,Texas A&M Aggies,Texas A&M
-303550245,2010-12-21,2,2681,away,FALSE,Wagner,51,Seahawks,Wagner Seahawks,Wagner
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303550194,2011,regular-season,2010-12-21,2,194,home,FALSE,Ohio State,96,Buckeyes,Ohio State Buckeyes,Ohio State
+303550194,2011,regular-season,2010-12-21,2,2427,away,FALSE,UNC Asheville,49,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+303550021,2011,regular-season,2010-12-21,2,21,home,TRUE,San Diego State,62,Aztecs,San Diego State Aztecs,San Diego St
+303550021,2011,regular-season,2010-12-21,2,2539,away,TRUE,San Francisco,56,Dons,San Francisco Dons,San Francisco
+303552306,2011,regular-season,2010-12-21,2,2306,home,FALSE,Kansas State,59,Wildcats,Kansas State Wildcats,Kansas St
+303552306,2011,regular-season,2010-12-21,2,2439,away,FALSE,UNLV,63,Rebels,UNLV Rebels,UNLV
+303552509,2011,regular-season,2010-12-21,2,2509,home,FALSE,Purdue,77,Boilermakers,Purdue Boilermakers,Purdue
+303552509,2011,regular-season,2010-12-21,2,2870,away,FALSE,Purdue Fort Wayne,52,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+303552633,2011,regular-season,2010-12-21,2,2633,home,FALSE,Tennessee,64,Volunteers,Tennessee Volunteers,Tennessee
+303552633,2011,regular-season,2010-12-21,2,30,away,FALSE,USC,65,Trojans,USC Trojans,USC
+303552692,2011,regular-season,2010-12-21,2,2692,home,FALSE,Weber State,66,Wildcats,Weber State Wildcats,Weber St
+303552692,2011,regular-season,2010-12-21,2,252,away,FALSE,BYU,72,Cougars,BYU Cougars,BYU
+303550245,2011,regular-season,2010-12-21,2,245,home,FALSE,Texas A&M,86,Aggies,Texas A&M Aggies,Texas A&M
+303550245,2011,regular-season,2010-12-21,2,2681,away,FALSE,Wagner,51,Seahawks,Wagner Seahawks,Wagner

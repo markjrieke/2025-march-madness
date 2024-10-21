@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400915139,2016-12-27,2,213,home,FALSE,Penn State,77,Nittany Lions,Penn State Nittany Lions,Penn State
-400915139,2016-12-27,2,77,away,FALSE,Northwestern,87,Wildcats,Northwestern Wildcats,Northwestern
-400914957,2016-12-27,2,120,home,FALSE,Maryland,84,Terrapins,Maryland Terrapins,Maryland
-400914957,2016-12-27,2,356,away,FALSE,Illinois,59,Fighting Illini,Illinois Fighting Illini,Illinois
-400918477,2016-12-27,2,2670,home,FALSE,VCU,85,Rams,VCU Rams,VCU
-400918477,2016-12-27,2,47,away,FALSE,Howard,51,Bison,Howard Bison,Howard
-400915336,2016-12-27,2,183,home,FALSE,Syracuse,80,Orange,Syracuse Orange,Syracuse
-400915336,2016-12-27,2,172,away,FALSE,Cornell,56,Big Red,Cornell Big Red,Cornell
-400914931,2016-12-27,2,275,home,FALSE,Wisconsin,72,Badgers,Wisconsin Badgers,Wisconsin
-400914931,2016-12-27,2,164,away,FALSE,Rutgers,52,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400911028,2016-12-27,2,251,home,FALSE,Texas,58,Longhorns,Texas Longhorns,Texas
-400911028,2016-12-27,2,2309,away,FALSE,Kent State,63,Golden Flashes,Kent State Golden Flashes,Kent State
-400910786,2016-12-27,2,2579,home,FALSE,South Carolina,90,Gamecocks,South Carolina Gamecocks,South Carolina
-400910786,2016-12-27,2,2322,away,FALSE,Lander,62,Senators,Lander Senators,Lander
-400917762,2016-12-27,2,2634,home,FALSE,Tennessee State,81,Tigers,Tennessee State Tigers,Tennessee St
-400917762,2016-12-27,2,2157,away,FALSE,Covenant,50,Fighting Scots,Covenant Fighting Scots,Covenant
-400918034,2016-12-27,2,166,home,FALSE,New Mexico State,84,Aggies,New Mexico State Aggies,New Mexico St
-400918034,2016-12-27,2,2201,away,FALSE,E. New Mexico,50,Greyhounds,E. New Mexico Greyhounds,E New Mex
-400916557,2016-12-27,2,235,home,FALSE,Memphis,54,Tigers,Memphis Tigers,Memphis
-400916557,2016-12-27,2,2567,away,FALSE,SMU,58,Mustangs,SMU Mustangs,SMU
-400915072,2016-12-27,3,135,home,FALSE,Minnesota,74,Golden Gophers,Minnesota Golden Gophers,Minnesota
-400915072,2016-12-27,3,127,away,FALSE,Michigan State,75,Spartans,Michigan State Spartans,Michigan St
-400918033,2016-12-27,3,2540,home,FALSE,UC Santa Barbara,62,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-400918033,2016-12-27,3,2934,away,FALSE,Cal State Bakersfield,60,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400915139,2017,regular-season,2016-12-27,2,213,home,FALSE,Penn State,77,Nittany Lions,Penn State Nittany Lions,Penn State
+400915139,2017,regular-season,2016-12-27,2,77,away,FALSE,Northwestern,87,Wildcats,Northwestern Wildcats,Northwestern
+400914957,2017,regular-season,2016-12-27,2,120,home,FALSE,Maryland,84,Terrapins,Maryland Terrapins,Maryland
+400914957,2017,regular-season,2016-12-27,2,356,away,FALSE,Illinois,59,Fighting Illini,Illinois Fighting Illini,Illinois
+400918477,2017,regular-season,2016-12-27,2,2670,home,FALSE,VCU,85,Rams,VCU Rams,VCU
+400918477,2017,regular-season,2016-12-27,2,47,away,FALSE,Howard,51,Bison,Howard Bison,Howard
+400915336,2017,regular-season,2016-12-27,2,183,home,FALSE,Syracuse,80,Orange,Syracuse Orange,Syracuse
+400915336,2017,regular-season,2016-12-27,2,172,away,FALSE,Cornell,56,Big Red,Cornell Big Red,Cornell
+400914931,2017,regular-season,2016-12-27,2,275,home,FALSE,Wisconsin,72,Badgers,Wisconsin Badgers,Wisconsin
+400914931,2017,regular-season,2016-12-27,2,164,away,FALSE,Rutgers,52,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400911028,2017,regular-season,2016-12-27,2,251,home,FALSE,Texas,58,Longhorns,Texas Longhorns,Texas
+400911028,2017,regular-season,2016-12-27,2,2309,away,FALSE,Kent State,63,Golden Flashes,Kent State Golden Flashes,Kent State
+400910786,2017,regular-season,2016-12-27,2,2579,home,FALSE,South Carolina,90,Gamecocks,South Carolina Gamecocks,South Carolina
+400910786,2017,regular-season,2016-12-27,2,2322,away,FALSE,Lander,62,Senators,Lander Senators,Lander
+400917762,2017,regular-season,2016-12-27,2,2634,home,FALSE,Tennessee State,81,Tigers,Tennessee State Tigers,Tennessee St
+400917762,2017,regular-season,2016-12-27,2,2157,away,FALSE,Covenant,50,Fighting Scots,Covenant Fighting Scots,Covenant
+400918034,2017,regular-season,2016-12-27,2,166,home,FALSE,New Mexico State,84,Aggies,New Mexico State Aggies,New Mexico St
+400918034,2017,regular-season,2016-12-27,2,2201,away,FALSE,E. New Mexico,50,Greyhounds,E. New Mexico Greyhounds,E New Mex
+400916557,2017,regular-season,2016-12-27,2,235,home,FALSE,Memphis,54,Tigers,Memphis Tigers,Memphis
+400916557,2017,regular-season,2016-12-27,2,2567,away,FALSE,SMU,58,Mustangs,SMU Mustangs,SMU
+400915072,2017,regular-season,2016-12-27,3,135,home,FALSE,Minnesota,74,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400915072,2017,regular-season,2016-12-27,3,127,away,FALSE,Michigan State,75,Spartans,Michigan State Spartans,Michigan St
+400918033,2017,regular-season,2016-12-27,3,2540,home,FALSE,UC Santa Barbara,62,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+400918033,2017,regular-season,2016-12-27,3,2934,away,FALSE,Cal State Bakersfield,60,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield

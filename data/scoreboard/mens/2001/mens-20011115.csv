@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213190096,2001-11-15,2,96,home,FALSE,Kentucky,52,Wildcats,Kentucky Wildcats,Kentucky
-213190096,2001-11-15,2,98,away,FALSE,Western Kentucky,64,Hilltoppers,Western Kentucky Hilltoppers,Western KY
-213192603,2001-11-15,2,2603,home,FALSE,Saint Joseph's,67,Hawks,Saint Joseph's Hawks,Saint Joseph's
-213192603,2001-11-15,2,331,away,FALSE,Eastern Washington,68,Eagles,Eastern Washington Eagles,E Washington
-213190278,2001-11-15,2,278,home,FALSE,Fresno State,65,Bulldogs,Fresno State Bulldogs,Fresno St
-213190278,2001-11-15,2,30,away,FALSE,USC,58,Trojans,USC Trojans,USC
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213190096,2002,regular-season,2001-11-15,2,96,home,FALSE,Kentucky,52,Wildcats,Kentucky Wildcats,Kentucky
+213190096,2002,regular-season,2001-11-15,2,98,away,FALSE,Western Kentucky,64,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+213192603,2002,regular-season,2001-11-15,2,2603,home,FALSE,Saint Joseph's,67,Hawks,Saint Joseph's Hawks,Saint Joseph's
+213192603,2002,regular-season,2001-11-15,2,331,away,FALSE,Eastern Washington,68,Eagles,Eastern Washington Eagles,E Washington
+213190278,2002,regular-season,2001-11-15,2,278,home,FALSE,Fresno State,65,Bulldogs,Fresno State Bulldogs,Fresno St
+213190278,2002,regular-season,2001-11-15,2,30,away,FALSE,USC,58,Trojans,USC Trojans,USC

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-274000062,2007-04-01,2,99,home,FALSE,LSU,35,Tigers,LSU Tigers,LSU
-274000062,2007-04-01,2,164,away,FALSE,Rutgers,59,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-274000031,2007-04-01,2,2633,home,FALSE,Tennessee,56,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-274000031,2007-04-01,2,153,away,FALSE,North Carolina,50,Tar Heels,North Carolina Tar Heels,North Carolina
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+274000062,2007,post-season,2007-04-01,2,99,home,FALSE,LSU,35,Tigers,LSU Tigers,LSU
+274000062,2007,post-season,2007-04-01,2,164,away,FALSE,Rutgers,59,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+274000031,2007,post-season,2007-04-01,2,2633,home,FALSE,Tennessee,56,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+274000031,2007,post-season,2007-04-01,2,153,away,FALSE,North Carolina,50,Tar Heels,North Carolina Tar Heels,North Carolina

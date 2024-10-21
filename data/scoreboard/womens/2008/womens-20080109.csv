@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280090041,2008-01-09,2,41,home,FALSE,UConn,84,Huskies,UConn Huskies,UConn
-280090041,2008-01-09,2,277,away,FALSE,West Virginia,48,Mountaineers,West Virginia Mountaineers,West Virginia
-280090066,2008-01-09,2,66,home,FALSE,Iowa State,64,Cyclones,Iowa State Cyclones,Iowa State
-280090066,2008-01-09,2,201,away,FALSE,Oklahoma,67,Sooners,Oklahoma Sooners,Oklahoma
-280092641,2008-01-09,2,2641,home,FALSE,Texas Tech,67,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-280092641,2008-01-09,2,239,away,FALSE,Baylor,72,Bears,Baylor Bears,Baylor
-280090245,2008-01-09,2,245,home,FALSE,Texas A&M,54,Aggies,Texas A&M Aggies,Texas A&M
-280090245,2008-01-09,2,2306,away,FALSE,Kansas State,67,Wildcats,Kansas State Wildcats,Kansas St
-280090158,2008-01-09,2,158,home,FALSE,Nebraska,56,Cornhuskers,Nebraska Cornhuskers,Nebraska
-280090158,2008-01-09,2,251,away,FALSE,Texas,45,Longhorns,Texas Longhorns,Texas
-280090350,2008-01-09,2,350,home,FALSE,UNC Wilmington,55,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
-280090350,2008-01-09,2,295,away,FALSE,Old Dominion,67,Monarchs,Old Dominion Monarchs,Old Dominion
-280090167,2008-01-09,2,167,home,FALSE,New Mexico,52,Lobos,New Mexico Lobos,New Mexico
-280090167,2008-01-09,2,2751,away,FALSE,Wyoming,58,Cowgirls,Wyoming Cowgirls,Wyoming
-280090142,2008-01-09,2,142,home,FALSE,Missouri,58,Tigers,Missouri Tigers,Missouri
-280090142,2008-01-09,2,38,away,FALSE,Colorado,70,Buffaloes,Colorado Buffaloes,Colorado
-280092305,2008-01-09,2,2305,home,FALSE,Kansas,54,Jayhawks,Kansas Jayhawks,Kansas
-280092305,2008-01-09,2,197,away,FALSE,Oklahoma State,59,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280090041,2008,regular-season,2008-01-09,2,41,home,FALSE,UConn,84,Huskies,UConn Huskies,UConn
+280090041,2008,regular-season,2008-01-09,2,277,away,FALSE,West Virginia,48,Mountaineers,West Virginia Mountaineers,West Virginia
+280090066,2008,regular-season,2008-01-09,2,66,home,FALSE,Iowa State,64,Cyclones,Iowa State Cyclones,Iowa State
+280090066,2008,regular-season,2008-01-09,2,201,away,FALSE,Oklahoma,67,Sooners,Oklahoma Sooners,Oklahoma
+280092641,2008,regular-season,2008-01-09,2,2641,home,FALSE,Texas Tech,67,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+280092641,2008,regular-season,2008-01-09,2,239,away,FALSE,Baylor,72,Bears,Baylor Bears,Baylor
+280090245,2008,regular-season,2008-01-09,2,245,home,FALSE,Texas A&M,54,Aggies,Texas A&M Aggies,Texas A&M
+280090245,2008,regular-season,2008-01-09,2,2306,away,FALSE,Kansas State,67,Wildcats,Kansas State Wildcats,Kansas St
+280090158,2008,regular-season,2008-01-09,2,158,home,FALSE,Nebraska,56,Cornhuskers,Nebraska Cornhuskers,Nebraska
+280090158,2008,regular-season,2008-01-09,2,251,away,FALSE,Texas,45,Longhorns,Texas Longhorns,Texas
+280090350,2008,regular-season,2008-01-09,2,350,home,FALSE,UNC Wilmington,55,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+280090350,2008,regular-season,2008-01-09,2,295,away,FALSE,Old Dominion,67,Monarchs,Old Dominion Monarchs,Old Dominion
+280090167,2008,regular-season,2008-01-09,2,167,home,FALSE,New Mexico,52,Lobos,New Mexico Lobos,New Mexico
+280090167,2008,regular-season,2008-01-09,2,2751,away,FALSE,Wyoming,58,Cowgirls,Wyoming Cowgirls,Wyoming
+280090142,2008,regular-season,2008-01-09,2,142,home,FALSE,Missouri,58,Tigers,Missouri Tigers,Missouri
+280090142,2008,regular-season,2008-01-09,2,38,away,FALSE,Colorado,70,Buffaloes,Colorado Buffaloes,Colorado
+280092305,2008,regular-season,2008-01-09,2,2305,home,FALSE,Kansas,54,Jayhawks,Kansas Jayhawks,Kansas
+280092305,2008,regular-season,2008-01-09,2,197,away,FALSE,Oklahoma State,59,Cowgirls,Oklahoma State Cowgirls,Oklahoma St

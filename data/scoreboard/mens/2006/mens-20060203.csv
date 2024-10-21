@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260340058,2006-02-03,2,58,home,FALSE,South Florida,66,Bulls,South Florida Bulls,South Florida
-260340058,2006-02-03,2,305,away,FALSE,DePaul,80,Blue Demons,DePaul Blue Demons,DePaul
-260342454,2006-02-03,2,2454,home,FALSE,North Florida,72,Ospreys,North Florida Ospreys,North Florida
-260342454,2006-02-03,2,338,away,FALSE,Kennesaw State,68,Owls,Kennesaw State Owls,Kennesaw St
-260342363,2006-02-03,2,2363,home,FALSE,Manhattan,51,Jaspers,Manhattan Jaspers,Manhattan
-260342363,2006-02-03,2,315,away,FALSE,Niagara,67,Purple Eagles,Niagara Purple Eagles,Niagara
-260342217,2006-02-03,3,2217,home,FALSE,Fairfield,77,Stags,Fairfield Stags,Fairfield
-260342217,2006-02-03,3,2520,away,FALSE,Rider,69,Broncs,Rider Broncs,Rider
-260340219,2006-02-03,2,219,home,FALSE,Pennsylvania,68,Quakers,Pennsylvania Quakers,Penn
-260340219,2006-02-03,2,225,away,FALSE,Brown,51,Bears,Brown Bears,Brown
-260340171,2006-02-03,2,171,home,FALSE,Columbia,59,Lions,Columbia Lions,Columbia
-260340171,2006-02-03,2,108,away,FALSE,Harvard,69,Crimson,Harvard Crimson,Harvard
-260340314,2006-02-03,2,314,home,FALSE,Iona,95,Gaels,Iona Gaels,Iona
-260340314,2006-02-03,2,2099,away,FALSE,Canisius,58,Golden Griffins,Canisius Golden Griffins,Canisius
-260340294,2006-02-03,2,294,home,FALSE,Jacksonville,73,Dolphins,Jacksonville Dolphins,Jacksonville
-260340294,2006-02-03,2,2193,away,FALSE,East Tennessee State,88,Buccaneers,East Tennessee State Buccaneers,ETSU
-260340163,2006-02-03,2,163,home,FALSE,Princeton,66,Tigers,Princeton Tigers,Princeton
-260340163,2006-02-03,2,43,away,FALSE,Yale,49,Bulldogs,Yale Bulldogs,Yale
-260340172,2006-02-03,2,172,home,FALSE,Cornell,63,Big Red,Cornell Big Red,Cornell
-260340172,2006-02-03,2,159,away,FALSE,Dartmouth,47,Big Green,Dartmouth Big Green,Dartmouth
-260342569,2006-02-03,2,2569,home,FALSE,South Carolina State,63,Bulldogs,South Carolina State Bulldogs,SC State
-260342569,2006-02-03,2,2169,away,FALSE,Delaware State,51,Hornets,Delaware State Hornets,Delaware St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260340058,2006,regular-season,2006-02-03,2,58,home,FALSE,South Florida,66,Bulls,South Florida Bulls,South Florida
+260340058,2006,regular-season,2006-02-03,2,305,away,FALSE,DePaul,80,Blue Demons,DePaul Blue Demons,DePaul
+260342454,2006,regular-season,2006-02-03,2,2454,home,FALSE,North Florida,72,Ospreys,North Florida Ospreys,North Florida
+260342454,2006,regular-season,2006-02-03,2,338,away,FALSE,Kennesaw State,68,Owls,Kennesaw State Owls,Kennesaw St
+260342363,2006,regular-season,2006-02-03,2,2363,home,FALSE,Manhattan,51,Jaspers,Manhattan Jaspers,Manhattan
+260342363,2006,regular-season,2006-02-03,2,315,away,FALSE,Niagara,67,Purple Eagles,Niagara Purple Eagles,Niagara
+260342217,2006,regular-season,2006-02-03,3,2217,home,FALSE,Fairfield,77,Stags,Fairfield Stags,Fairfield
+260342217,2006,regular-season,2006-02-03,3,2520,away,FALSE,Rider,69,Broncs,Rider Broncs,Rider
+260340219,2006,regular-season,2006-02-03,2,219,home,FALSE,Pennsylvania,68,Quakers,Pennsylvania Quakers,Penn
+260340219,2006,regular-season,2006-02-03,2,225,away,FALSE,Brown,51,Bears,Brown Bears,Brown
+260340171,2006,regular-season,2006-02-03,2,171,home,FALSE,Columbia,59,Lions,Columbia Lions,Columbia
+260340171,2006,regular-season,2006-02-03,2,108,away,FALSE,Harvard,69,Crimson,Harvard Crimson,Harvard
+260340314,2006,regular-season,2006-02-03,2,314,home,FALSE,Iona,95,Gaels,Iona Gaels,Iona
+260340314,2006,regular-season,2006-02-03,2,2099,away,FALSE,Canisius,58,Golden Griffins,Canisius Golden Griffins,Canisius
+260340294,2006,regular-season,2006-02-03,2,294,home,FALSE,Jacksonville,73,Dolphins,Jacksonville Dolphins,Jacksonville
+260340294,2006,regular-season,2006-02-03,2,2193,away,FALSE,East Tennessee State,88,Buccaneers,East Tennessee State Buccaneers,ETSU
+260340163,2006,regular-season,2006-02-03,2,163,home,FALSE,Princeton,66,Tigers,Princeton Tigers,Princeton
+260340163,2006,regular-season,2006-02-03,2,43,away,FALSE,Yale,49,Bulldogs,Yale Bulldogs,Yale
+260340172,2006,regular-season,2006-02-03,2,172,home,FALSE,Cornell,63,Big Red,Cornell Big Red,Cornell
+260340172,2006,regular-season,2006-02-03,2,159,away,FALSE,Dartmouth,47,Big Green,Dartmouth Big Green,Dartmouth
+260342569,2006,regular-season,2006-02-03,2,2569,home,FALSE,South Carolina State,63,Bulldogs,South Carolina State Bulldogs,SC State
+260342569,2006,regular-season,2006-02-03,2,2169,away,FALSE,Delaware State,51,Hornets,Delaware State Hornets,Delaware St

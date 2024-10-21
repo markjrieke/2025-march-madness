@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400511010,2014-02-16,2,58,home,FALSE,South Florida,38,Bulls,South Florida Bulls,South Florida
-400511010,2014-02-16,2,41,away,FALSE,UConn,63,Huskies,UConn Huskies,UConn
-400511387,2014-02-16,2,235,home,FALSE,Memphis,66,Tigers,Memphis Tigers,Memphis
-400511387,2014-02-16,2,97,away,FALSE,Louisville,82,Cardinals,Louisville Cardinals,Louisville
-400508498,2014-02-16,2,99,home,FALSE,LSU,57,Tigers,LSU Tigers,LSU
-400508498,2014-02-16,2,2579,away,FALSE,South Carolina,73,Gamecocks,South Carolina Gamecocks,South Carolina
-400509873,2014-02-16,2,24,home,FALSE,Stanford,74,Cardinal,Stanford Cardinal,Stanford
-400509873,2014-02-16,2,12,away,FALSE,Arizona,48,Wildcats,Arizona Wildcats,Arizona
-400503809,2014-02-16,2,251,home,FALSE,Texas,56,Longhorns,Texas Longhorns,Texas
-400503809,2014-02-16,2,239,away,FALSE,Baylor,72,Bears,Baylor Bears,Baylor
-400508494,2014-02-16,2,2633,home,FALSE,Tennessee,71,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400508494,2014-02-16,2,96,away,FALSE,Kentucky,75,Wildcats,Kentucky Wildcats,Kentucky
-400508873,2014-02-16,2,152,home,FALSE,NC State,82,Wolfpack,NC State Wolfpack,NC State
-400508873,2014-02-16,2,153,away,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
-400511019,2014-02-16,2,213,home,FALSE,Penn State,78,Lady Lions,Penn State Lady Lions,Penn State
-400511019,2014-02-16,2,275,away,FALSE,Wisconsin,68,Badgers,Wisconsin Badgers,Wisconsin
-400503808,2014-02-16,2,197,home,FALSE,Oklahoma State,73,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-400503808,2014-02-16,2,201,away,FALSE,Oklahoma,57,Sooners,Oklahoma Sooners,Oklahoma
-400503810,2014-02-16,2,277,home,FALSE,West Virginia,61,Mountaineers,West Virginia Mountaineers,West Virginia
-400503810,2014-02-16,2,2628,away,FALSE,TCU,57,Horned Frogs,TCU Horned Frogs,TCU
-400508493,2014-02-16,2,333,home,FALSE,Alabama,46,Crimson Tide,Alabama Crimson Tide,Alabama
-400508493,2014-02-16,2,245,away,FALSE,Texas A&M,71,Aggies,Texas A&M Aggies,Texas A&M
-400509875,2014-02-16,2,25,home,FALSE,California,74,Golden Bears,California Golden Bears,California
-400509875,2014-02-16,2,9,away,FALSE,Arizona State,63,Sun Devils,Arizona State Sun Devils,Arizona St
-400508496,2014-02-16,2,344,home,FALSE,Mississippi State,64,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400508496,2014-02-16,2,238,away,FALSE,Vanderbilt,62,Commodores,Vanderbilt Commodores,Vanderbilt
-400510528,2014-02-16,2,158,home,FALSE,Nebraska,76,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400510528,2014-02-16,2,84,away,FALSE,Indiana,61,Hoosiers,Indiana Hoosiers,Indiana
-400510546,2014-02-16,2,2509,home,FALSE,Purdue,74,Boilermakers,Purdue Boilermakers,Purdue
-400510546,2014-02-16,2,2294,away,FALSE,Iowa,73,Hawkeyes,Iowa Hawkeyes,Iowa
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400511010,2014,regular-season,2014-02-16,2,58,home,FALSE,South Florida,38,Bulls,South Florida Bulls,South Florida
+400511010,2014,regular-season,2014-02-16,2,41,away,FALSE,UConn,63,Huskies,UConn Huskies,UConn
+400511387,2014,regular-season,2014-02-16,2,235,home,FALSE,Memphis,66,Tigers,Memphis Tigers,Memphis
+400511387,2014,regular-season,2014-02-16,2,97,away,FALSE,Louisville,82,Cardinals,Louisville Cardinals,Louisville
+400508498,2014,regular-season,2014-02-16,2,99,home,FALSE,LSU,57,Tigers,LSU Tigers,LSU
+400508498,2014,regular-season,2014-02-16,2,2579,away,FALSE,South Carolina,73,Gamecocks,South Carolina Gamecocks,South Carolina
+400509873,2014,regular-season,2014-02-16,2,24,home,FALSE,Stanford,74,Cardinal,Stanford Cardinal,Stanford
+400509873,2014,regular-season,2014-02-16,2,12,away,FALSE,Arizona,48,Wildcats,Arizona Wildcats,Arizona
+400503809,2014,regular-season,2014-02-16,2,251,home,FALSE,Texas,56,Longhorns,Texas Longhorns,Texas
+400503809,2014,regular-season,2014-02-16,2,239,away,FALSE,Baylor,72,Bears,Baylor Bears,Baylor
+400508494,2014,regular-season,2014-02-16,2,2633,home,FALSE,Tennessee,71,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400508494,2014,regular-season,2014-02-16,2,96,away,FALSE,Kentucky,75,Wildcats,Kentucky Wildcats,Kentucky
+400508873,2014,regular-season,2014-02-16,2,152,home,FALSE,NC State,82,Wolfpack,NC State Wolfpack,NC State
+400508873,2014,regular-season,2014-02-16,2,153,away,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
+400511019,2014,regular-season,2014-02-16,2,213,home,FALSE,Penn State,78,Lady Lions,Penn State Lady Lions,Penn State
+400511019,2014,regular-season,2014-02-16,2,275,away,FALSE,Wisconsin,68,Badgers,Wisconsin Badgers,Wisconsin
+400503808,2014,regular-season,2014-02-16,2,197,home,FALSE,Oklahoma State,73,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+400503808,2014,regular-season,2014-02-16,2,201,away,FALSE,Oklahoma,57,Sooners,Oklahoma Sooners,Oklahoma
+400503810,2014,regular-season,2014-02-16,2,277,home,FALSE,West Virginia,61,Mountaineers,West Virginia Mountaineers,West Virginia
+400503810,2014,regular-season,2014-02-16,2,2628,away,FALSE,TCU,57,Horned Frogs,TCU Horned Frogs,TCU
+400508493,2014,regular-season,2014-02-16,2,333,home,FALSE,Alabama,46,Crimson Tide,Alabama Crimson Tide,Alabama
+400508493,2014,regular-season,2014-02-16,2,245,away,FALSE,Texas A&M,71,Aggies,Texas A&M Aggies,Texas A&M
+400509875,2014,regular-season,2014-02-16,2,25,home,FALSE,California,74,Golden Bears,California Golden Bears,California
+400509875,2014,regular-season,2014-02-16,2,9,away,FALSE,Arizona State,63,Sun Devils,Arizona State Sun Devils,Arizona St
+400508496,2014,regular-season,2014-02-16,2,344,home,FALSE,Mississippi State,64,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400508496,2014,regular-season,2014-02-16,2,238,away,FALSE,Vanderbilt,62,Commodores,Vanderbilt Commodores,Vanderbilt
+400510528,2014,regular-season,2014-02-16,2,158,home,FALSE,Nebraska,76,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400510528,2014,regular-season,2014-02-16,2,84,away,FALSE,Indiana,61,Hoosiers,Indiana Hoosiers,Indiana
+400510546,2014,regular-season,2014-02-16,2,2509,home,FALSE,Purdue,74,Boilermakers,Purdue Boilermakers,Purdue
+400510546,2014,regular-season,2014-02-16,2,2294,away,FALSE,Iowa,73,Hawkeyes,Iowa Hawkeyes,Iowa

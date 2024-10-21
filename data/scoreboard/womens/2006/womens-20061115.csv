@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263190061,2006-11-15,2,61,home,FALSE,Georgia,89,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-263190061,2006-11-15,2,2448,away,FALSE,North Carolina A&T,35,Aggies,North Carolina A&T Aggies,NC A&T
-263192509,2006-11-15,2,2509,home,FALSE,Purdue,68,Boilermakers,Purdue Boilermakers,Purdue
-263192509,2006-11-15,2,152,away,FALSE,NC State,38,Wolfpack,NC State Wolfpack,NC State
-263190009,2006-11-15,2,9,home,FALSE,Arizona State,91,Sun Devils,Arizona State Sun Devils,Arizona St
-263190009,2006-11-15,2,2447,away,FALSE,Nicholls,46,Colonels,Nicholls Colonels,Nicholls
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263190061,2007,regular-season,2006-11-15,2,61,home,FALSE,Georgia,89,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+263190061,2007,regular-season,2006-11-15,2,2448,away,FALSE,North Carolina A&T,35,Aggies,North Carolina A&T Aggies,NC A&T
+263192509,2007,regular-season,2006-11-15,2,2509,home,FALSE,Purdue,68,Boilermakers,Purdue Boilermakers,Purdue
+263192509,2007,regular-season,2006-11-15,2,152,away,FALSE,NC State,38,Wolfpack,NC State Wolfpack,NC State
+263190009,2007,regular-season,2006-11-15,2,9,home,FALSE,Arizona State,91,Sun Devils,Arizona State Sun Devils,Arizona St
+263190009,2007,regular-season,2006-11-15,2,2447,away,FALSE,Nicholls,46,Colonels,Nicholls Colonels,Nicholls

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401169728,2020-02-03,2,2306,home,FALSE,Kansas State,67,Wildcats,Kansas State Wildcats,Kansas St
-401169728,2020-02-03,2,239,away,FALSE,Baylor,73,Bears,Baylor Bears,Baylor
-401169729,2020-02-03,2,2305,home,FALSE,Kansas,69,Jayhawks,Kansas Jayhawks,Kansas
-401169729,2020-02-03,2,251,away,FALSE,Texas,58,Longhorns,Texas Longhorns,Texas
-401168498,2020-02-03,2,52,home,FALSE,Florida State,65,Seminoles,Florida State Seminoles,Florida St
-401168498,2020-02-03,2,153,away,FALSE,North Carolina,59,Tar Heels,North Carolina Tar Heels,North Carolina
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401169728,2020,regular-season,2020-02-03,2,2306,home,FALSE,Kansas State,67,Wildcats,Kansas State Wildcats,Kansas St
+401169728,2020,regular-season,2020-02-03,2,239,away,FALSE,Baylor,73,Bears,Baylor Bears,Baylor
+401169729,2020,regular-season,2020-02-03,2,2305,home,FALSE,Kansas,69,Jayhawks,Kansas Jayhawks,Kansas
+401169729,2020,regular-season,2020-02-03,2,251,away,FALSE,Texas,58,Longhorns,Texas Longhorns,Texas
+401168498,2020,regular-season,2020-02-03,2,52,home,FALSE,Florida State,65,Seminoles,Florida State Seminoles,Florida St
+401168498,2020,regular-season,2020-02-03,2,153,away,FALSE,North Carolina,59,Tar Heels,North Carolina Tar Heels,North Carolina

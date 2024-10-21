@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270620150,2007-03-03,2,150,home,FALSE,Duke,65,Blue Devils,Duke Blue Devils,Duke
-270620150,2007-03-03,2,152,away,FALSE,NC State,70,Wolfpack,NC State Wolfpack,NC State
-270622633,2007-03-03,2,2633,home,FALSE,Tennessee,54,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-270622633,2007-03-03,2,99,away,FALSE,LSU,63,Tigers,LSU Tigers,LSU
-270620153,2007-03-03,2,153,home,FALSE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
-270620153,2007-03-03,2,120,away,FALSE,Maryland,72,Terrapins,Maryland Terrapins,Maryland
-270620024,2007-03-03,2,24,home,FALSE,Stanford,65,Cardinal,Stanford Cardinal,Stanford
-270620024,2007-03-03,2,12,away,FALSE,Arizona,55,Wildcats,Arizona Wildcats,Arizona
-270620045,2007-03-03,2,45,home,FALSE,George Washington,61,Revolutionaries,George Washington Revolutionaries,G Washington
-270620045,2007-03-03,2,2168,away,FALSE,Dayton,45,Flyers,Dayton Flyers,Dayton
-270620009,2007-03-03,2,9,home,FALSE,Arizona State,74,Sun Devils,Arizona State Sun Devils,Arizona St
-270620009,2007-03-03,2,26,away,FALSE,UCLA,64,Bruins,UCLA Bruins,UCLA
-270620061,2007-03-03,2,61,home,FALSE,Georgia,56,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-270620061,2007-03-03,2,238,away,FALSE,Vanderbilt,81,Commodores,Vanderbilt Commodores,Vanderbilt
-270622393,2007-03-03,2,2393,home,FALSE,Middle Tennessee,79,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-270622393,2007-03-03,2,6,away,FALSE,South Alabama,52,Jaguars,South Alabama Jaguars,South Alabama
-270620097,2007-03-03,2,97,home,FALSE,Louisville,68,Cardinals,Louisville Cardinals,Louisville
-270620097,2007-03-03,2,2599,away,FALSE,St. John's,54,Red Storm,St. John's Red Storm,St John's
-270620082,2007-03-03,2,82,home,FALSE,UIC,45,Flames,UIC Flames,UIC
-270620082,2007-03-03,2,2739,away,FALSE,Green Bay,58,Phoenix,Green Bay Phoenix,Green Bay
-270620025,2007-03-03,2,25,home,FALSE,California,63,Golden Bears,California Golden Bears,California
-270620025,2007-03-03,2,2483,away,FALSE,Oregon,51,Ducks,Oregon Ducks,Oregon
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270620150,2007,regular-season,2007-03-03,2,150,home,FALSE,Duke,65,Blue Devils,Duke Blue Devils,Duke
+270620150,2007,regular-season,2007-03-03,2,152,away,FALSE,NC State,70,Wolfpack,NC State Wolfpack,NC State
+270622633,2007,regular-season,2007-03-03,2,2633,home,FALSE,Tennessee,54,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+270622633,2007,regular-season,2007-03-03,2,99,away,FALSE,LSU,63,Tigers,LSU Tigers,LSU
+270620153,2007,regular-season,2007-03-03,2,153,home,FALSE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
+270620153,2007,regular-season,2007-03-03,2,120,away,FALSE,Maryland,72,Terrapins,Maryland Terrapins,Maryland
+270620024,2007,regular-season,2007-03-03,2,24,home,FALSE,Stanford,65,Cardinal,Stanford Cardinal,Stanford
+270620024,2007,regular-season,2007-03-03,2,12,away,FALSE,Arizona,55,Wildcats,Arizona Wildcats,Arizona
+270620045,2007,regular-season,2007-03-03,2,45,home,FALSE,George Washington,61,Revolutionaries,George Washington Revolutionaries,G Washington
+270620045,2007,regular-season,2007-03-03,2,2168,away,FALSE,Dayton,45,Flyers,Dayton Flyers,Dayton
+270620009,2007,regular-season,2007-03-03,2,9,home,FALSE,Arizona State,74,Sun Devils,Arizona State Sun Devils,Arizona St
+270620009,2007,regular-season,2007-03-03,2,26,away,FALSE,UCLA,64,Bruins,UCLA Bruins,UCLA
+270620061,2007,regular-season,2007-03-03,2,61,home,FALSE,Georgia,56,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+270620061,2007,regular-season,2007-03-03,2,238,away,FALSE,Vanderbilt,81,Commodores,Vanderbilt Commodores,Vanderbilt
+270622393,2007,regular-season,2007-03-03,2,2393,home,FALSE,Middle Tennessee,79,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+270622393,2007,regular-season,2007-03-03,2,6,away,FALSE,South Alabama,52,Jaguars,South Alabama Jaguars,South Alabama
+270620097,2007,regular-season,2007-03-03,2,97,home,FALSE,Louisville,68,Cardinals,Louisville Cardinals,Louisville
+270620097,2007,regular-season,2007-03-03,2,2599,away,FALSE,St. John's,54,Red Storm,St. John's Red Storm,St John's
+270620082,2007,regular-season,2007-03-03,2,82,home,FALSE,UIC,45,Flames,UIC Flames,UIC
+270620082,2007,regular-season,2007-03-03,2,2739,away,FALSE,Green Bay,58,Phoenix,Green Bay Phoenix,Green Bay
+270620025,2007,regular-season,2007-03-03,2,25,home,FALSE,California,63,Golden Bears,California Golden Bears,California
+270620025,2007,regular-season,2007-03-03,2,2483,away,FALSE,Oregon,51,Ducks,Oregon Ducks,Oregon

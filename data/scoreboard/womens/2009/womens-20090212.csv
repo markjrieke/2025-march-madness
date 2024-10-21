@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290430002,2009-02-12,2,2,home,FALSE,Auburn,81,Tigers,Auburn Tigers,Auburn
-290430002,2009-02-12,2,96,away,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
-290430238,2009-02-12,2,238,home,FALSE,Vanderbilt,84,Commodores,Vanderbilt Commodores,Vanderbilt
-290430238,2009-02-12,2,57,away,FALSE,Florida,68,Gators,Florida Gators,Florida
-290430120,2009-02-12,2,120,home,FALSE,Maryland,94,Terrapins,Maryland Terrapins,Maryland
-290430120,2009-02-12,2,258,away,FALSE,Virginia,78,Cavaliers,Virginia Cavaliers,Virginia
-290432633,2009-02-12,2,2633,home,FALSE,Tennessee,80,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-290432633,2009-02-12,2,333,away,FALSE,Alabama,61,Crimson Tide,Alabama Crimson Tide,Alabama
-290432294,2009-02-12,2,2294,home,FALSE,Iowa,85,Hawkeyes,Iowa Hawkeyes,Iowa
-290432294,2009-02-12,2,194,away,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290430002,2009,regular-season,2009-02-12,2,2,home,FALSE,Auburn,81,Tigers,Auburn Tigers,Auburn
+290430002,2009,regular-season,2009-02-12,2,96,away,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
+290430238,2009,regular-season,2009-02-12,2,238,home,FALSE,Vanderbilt,84,Commodores,Vanderbilt Commodores,Vanderbilt
+290430238,2009,regular-season,2009-02-12,2,57,away,FALSE,Florida,68,Gators,Florida Gators,Florida
+290430120,2009,regular-season,2009-02-12,2,120,home,FALSE,Maryland,94,Terrapins,Maryland Terrapins,Maryland
+290430120,2009,regular-season,2009-02-12,2,258,away,FALSE,Virginia,78,Cavaliers,Virginia Cavaliers,Virginia
+290432633,2009,regular-season,2009-02-12,2,2633,home,FALSE,Tennessee,80,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+290432633,2009,regular-season,2009-02-12,2,333,away,FALSE,Alabama,61,Crimson Tide,Alabama Crimson Tide,Alabama
+290432294,2009,regular-season,2009-02-12,2,2294,home,FALSE,Iowa,85,Hawkeyes,Iowa Hawkeyes,Iowa
+290432294,2009,regular-season,2009-02-12,2,194,away,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State

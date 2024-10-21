@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400509983,2014-01-15,2,77,home,FALSE,Northwestern,40,Wildcats,Northwestern Wildcats,Northwestern
-400509983,2014-01-15,2,127,away,FALSE,Michigan State,54,Spartans,Michigan State Spartans,Michigan St
-400498354,2014-01-15,2,197,home,FALSE,Oklahoma State,82,Cowboys,Oklahoma State Cowboys,Oklahoma St
-400498354,2014-01-15,2,2628,away,FALSE,TCU,50,Horned Frogs,TCU Horned Frogs,TCU
-400505562,2014-01-15,2,21,home,FALSE,San Diego State,68,Aztecs,San Diego State Aztecs,San Diego St
-400505562,2014-01-15,2,278,away,FALSE,Fresno State,60,Bulldogs,Fresno State Bulldogs,Fresno St
-400507017,2014-01-15,2,2641,home,FALSE,Texas Tech,82,Red Raiders,Texas Tech Red Raiders,Texas Tech
-400507017,2014-01-15,2,239,away,FALSE,Baylor,72,Bears,Baylor Bears,Baylor
-400506098,2014-01-15,2,2244,home,FALSE,George Mason,87,Patriots,George Mason Patriots,George Mason
-400506098,2014-01-15,2,113,away,FALSE,Massachusetts,88,Minutemen,Massachusetts Minutemen,UMass
-400506247,2014-01-15,2,139,home,FALSE,Saint Louis,66,Billikens,Saint Louis Billikens,Saint Louis
-400506247,2014-01-15,2,179,away,FALSE,St. Bonaventure,60,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400509983,2014,regular-season,2014-01-15,2,77,home,FALSE,Northwestern,40,Wildcats,Northwestern Wildcats,Northwestern
+400509983,2014,regular-season,2014-01-15,2,127,away,FALSE,Michigan State,54,Spartans,Michigan State Spartans,Michigan St
+400498354,2014,regular-season,2014-01-15,2,197,home,FALSE,Oklahoma State,82,Cowboys,Oklahoma State Cowboys,Oklahoma St
+400498354,2014,regular-season,2014-01-15,2,2628,away,FALSE,TCU,50,Horned Frogs,TCU Horned Frogs,TCU
+400505562,2014,regular-season,2014-01-15,2,21,home,FALSE,San Diego State,68,Aztecs,San Diego State Aztecs,San Diego St
+400505562,2014,regular-season,2014-01-15,2,278,away,FALSE,Fresno State,60,Bulldogs,Fresno State Bulldogs,Fresno St
+400507017,2014,regular-season,2014-01-15,2,2641,home,FALSE,Texas Tech,82,Red Raiders,Texas Tech Red Raiders,Texas Tech
+400507017,2014,regular-season,2014-01-15,2,239,away,FALSE,Baylor,72,Bears,Baylor Bears,Baylor
+400506098,2014,regular-season,2014-01-15,2,2244,home,FALSE,George Mason,87,Patriots,George Mason Patriots,George Mason
+400506098,2014,regular-season,2014-01-15,2,113,away,FALSE,Massachusetts,88,Minutemen,Massachusetts Minutemen,UMass
+400506247,2014,regular-season,2014-01-15,2,139,home,FALSE,Saint Louis,66,Billikens,Saint Louis Billikens,Saint Louis
+400506247,2014,regular-season,2014-01-15,2,179,away,FALSE,St. Bonaventure,60,Bonnies,St. Bonaventure Bonnies,St Bonaventure

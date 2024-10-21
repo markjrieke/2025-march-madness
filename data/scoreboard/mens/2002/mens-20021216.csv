@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-223500024,2002-12-16,2,24,home,FALSE,Stanford,68,Cardinal,Stanford Cardinal,Stanford
-223500024,2002-12-16,2,149,away,FALSE,Montana,70,Grizzlies,Montana Grizzlies,Montana
-223500156,2002-12-16,2,156,home,FALSE,Creighton,68,Bluejays,Creighton Bluejays,Creighton
-223500156,2002-12-16,2,2169,away,FALSE,Delaware State,48,Hornets,Delaware State Hornets,Delaware St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+223500024,2003,regular-season,2002-12-16,2,24,home,FALSE,Stanford,68,Cardinal,Stanford Cardinal,Stanford
+223500024,2003,regular-season,2002-12-16,2,149,away,FALSE,Montana,70,Grizzlies,Montana Grizzlies,Montana
+223500156,2003,regular-season,2002-12-16,2,156,home,FALSE,Creighton,68,Bluejays,Creighton Bluejays,Creighton
+223500156,2003,regular-season,2002-12-16,2,2169,away,FALSE,Delaware State,48,Hornets,Delaware State Hornets,Delaware St

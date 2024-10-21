@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400508875,2014-02-17,2,87,home,FALSE,Notre Dame,87,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400508875,2014-02-17,2,59,away,FALSE,Georgia Tech,72,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-400508874,2014-02-17,2,150,home,FALSE,Duke,84,Blue Devils,Duke Blue Devils,Duke
-400508874,2014-02-17,2,120,away,FALSE,Maryland,63,Terrapins,Maryland Terrapins,Maryland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400508875,2014,regular-season,2014-02-17,2,87,home,FALSE,Notre Dame,87,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400508875,2014,regular-season,2014-02-17,2,59,away,FALSE,Georgia Tech,72,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+400508874,2014,regular-season,2014-02-17,2,150,home,FALSE,Duke,84,Blue Devils,Duke Blue Devils,Duke
+400508874,2014,regular-season,2014-02-17,2,120,away,FALSE,Maryland,63,Terrapins,Maryland Terrapins,Maryland

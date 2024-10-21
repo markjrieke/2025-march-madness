@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401166072,2019-11-16,2,120,home,FALSE,Maryland,80,Terrapins,Maryland Terrapins,Maryland
-401166072,2019-11-16,2,2473,away,FALSE,Oakland,50,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-401169834,2019-11-16,2,99,home,FALSE,LSU,75,Tigers,LSU Tigers,LSU
-401169834,2019-11-16,2,2447,away,FALSE,Nicholls,65,Colonels,Nicholls Colonels,Nicholls
-401170576,2019-11-16,2,38,home,FALSE,Colorado,71,Buffaloes,Colorado Buffaloes,Colorado
-401170576,2019-11-16,2,301,away,FALSE,San Diego,53,Toreros,San Diego Toreros,San Diego
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401166072,2020,regular-season,2019-11-16,2,120,home,FALSE,Maryland,80,Terrapins,Maryland Terrapins,Maryland
+401166072,2020,regular-season,2019-11-16,2,2473,away,FALSE,Oakland,50,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+401169834,2020,regular-season,2019-11-16,2,99,home,FALSE,LSU,75,Tigers,LSU Tigers,LSU
+401169834,2020,regular-season,2019-11-16,2,2447,away,FALSE,Nicholls,65,Colonels,Nicholls Colonels,Nicholls
+401170576,2020,regular-season,2019-11-16,2,38,home,FALSE,Colorado,71,Buffaloes,Colorado Buffaloes,Colorado
+401170576,2020,regular-season,2019-11-16,2,301,away,FALSE,San Diego,53,Toreros,San Diego Toreros,San Diego

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401602086,2024-01-18,2,235,home,FALSE,Memphis,73,Tigers,Memphis Tigers,Memphis
-401602086,2024-01-18,2,58,away,FALSE,South Florida,74,Bulls,South Florida Bulls,South Florida
-401600338,2024-01-18,2,130,home,FALSE,Michigan,73,Wolverines,Michigan Wolverines,Michigan
-401600338,2024-01-18,2,356,away,FALSE,Illinois,88,Fighting Illini,Illinois Fighting Illini,Illinois
-401602085,2024-01-18,2,2226,home,FALSE,Florida Atlantic,86,Owls,Florida Atlantic Owls,FAU
-401602085,2024-01-18,2,2724,away,FALSE,Wichita State,77,Shockers,Wichita State Shockers,Wichita St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401602086,2024,regular-season,2024-01-18,2,235,home,FALSE,Memphis,73,Tigers,Memphis Tigers,Memphis
+401602086,2024,regular-season,2024-01-18,2,58,away,FALSE,South Florida,74,Bulls,South Florida Bulls,South Florida
+401600338,2024,regular-season,2024-01-18,2,130,home,FALSE,Michigan,73,Wolverines,Michigan Wolverines,Michigan
+401600338,2024,regular-season,2024-01-18,2,356,away,FALSE,Illinois,88,Fighting Illini,Illinois Fighting Illini,Illinois
+401602085,2024,regular-season,2024-01-18,2,2226,home,FALSE,Florida Atlantic,86,Owls,Florida Atlantic Owls,FAU
+401602085,2024,regular-season,2024-01-18,2,2724,away,FALSE,Wichita State,77,Shockers,Wichita State Shockers,Wichita St

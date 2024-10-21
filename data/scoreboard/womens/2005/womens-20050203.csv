@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250340145,2005-02-03,2,145,home,FALSE,Ole Miss,58,Rebels,Ole Miss Rebels,Ole Miss
-250340145,2005-02-03,2,99,away,FALSE,LSU,82,Tigers,LSU Tigers,LSU
-250342390,2005-02-03,2,2390,home,FALSE,Miami,63,Hurricanes,Miami Hurricanes,Miami
-250342390,2005-02-03,2,150,away,FALSE,Duke,72,Blue Devils,Duke Blue Devils,Duke
-250340024,2005-02-03,2,24,home,FALSE,Stanford,91,Cardinal,Stanford Cardinal,Stanford
-250340024,2005-02-03,2,12,away,FALSE,Arizona,74,Wildcats,Arizona Wildcats,Arizona
-250340057,2005-02-03,3,57,home,FALSE,Florida,82,Gators,Florida Gators,Florida
-250340057,2005-02-03,3,2633,away,FALSE,Tennessee,91,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-250340041,2005-02-03,2,41,home,FALSE,UConn,57,Huskies,UConn Huskies,UConn
-250340041,2005-02-03,2,164,away,FALSE,Rutgers,44,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-250340127,2005-02-03,2,127,home,FALSE,Michigan State,101,Spartans,Michigan State Spartans,Michigan St
-250340127,2005-02-03,2,77,away,FALSE,Northwestern,40,Wildcats,Northwestern Wildcats,Northwestern
-250340135,2005-02-03,2,135,home,FALSE,Minnesota,81,Golden Gophers,Minnesota Golden Gophers,Minnesota
-250340135,2005-02-03,2,2294,away,FALSE,Iowa,50,Hawkeyes,Iowa Hawkeyes,Iowa
-250340333,2005-02-03,2,333,home,FALSE,Alabama,63,Crimson Tide,Alabama Crimson Tide,Alabama
-250340333,2005-02-03,2,61,away,FALSE,Georgia,72,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-250340120,2005-02-03,2,120,home,FALSE,Maryland,84,Terrapins,Maryland Terrapins,Maryland
-250340120,2005-02-03,2,59,away,FALSE,Georgia Tech,67,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-250340344,2005-02-03,4,344,home,FALSE,Mississippi State,98,Bulldogs,Mississippi State Bulldogs,Mississippi St
-250340344,2005-02-03,4,238,away,FALSE,Vanderbilt,106,Commodores,Vanderbilt Commodores,Vanderbilt
-250340130,2005-02-03,2,130,home,FALSE,Michigan,61,Wolverines,Michigan Wolverines,Michigan
-250340130,2005-02-03,2,213,away,FALSE,Penn State,76,Lady Lions,Penn State Lady Lions,Penn State
-250340288,2005-02-03,2,288,home,FALSE,Lipscomb,49,Bisons,Lipscomb Bisons,Lipscomb
-250340288,2005-02-03,2,52,away,FALSE,Florida State,73,Seminoles,Florida State Seminoles,Florida St
-250340152,2005-02-03,2,152,home,FALSE,NC State,62,Wolfpack,NC State Wolfpack,NC State
-250340152,2005-02-03,2,258,away,FALSE,Virginia,56,Cavaliers,Virginia Cavaliers,Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250340145,2005,regular-season,2005-02-03,2,145,home,FALSE,Ole Miss,58,Rebels,Ole Miss Rebels,Ole Miss
+250340145,2005,regular-season,2005-02-03,2,99,away,FALSE,LSU,82,Tigers,LSU Tigers,LSU
+250342390,2005,regular-season,2005-02-03,2,2390,home,FALSE,Miami,63,Hurricanes,Miami Hurricanes,Miami
+250342390,2005,regular-season,2005-02-03,2,150,away,FALSE,Duke,72,Blue Devils,Duke Blue Devils,Duke
+250340024,2005,regular-season,2005-02-03,2,24,home,FALSE,Stanford,91,Cardinal,Stanford Cardinal,Stanford
+250340024,2005,regular-season,2005-02-03,2,12,away,FALSE,Arizona,74,Wildcats,Arizona Wildcats,Arizona
+250340057,2005,regular-season,2005-02-03,3,57,home,FALSE,Florida,82,Gators,Florida Gators,Florida
+250340057,2005,regular-season,2005-02-03,3,2633,away,FALSE,Tennessee,91,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+250340041,2005,regular-season,2005-02-03,2,41,home,FALSE,UConn,57,Huskies,UConn Huskies,UConn
+250340041,2005,regular-season,2005-02-03,2,164,away,FALSE,Rutgers,44,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+250340127,2005,regular-season,2005-02-03,2,127,home,FALSE,Michigan State,101,Spartans,Michigan State Spartans,Michigan St
+250340127,2005,regular-season,2005-02-03,2,77,away,FALSE,Northwestern,40,Wildcats,Northwestern Wildcats,Northwestern
+250340135,2005,regular-season,2005-02-03,2,135,home,FALSE,Minnesota,81,Golden Gophers,Minnesota Golden Gophers,Minnesota
+250340135,2005,regular-season,2005-02-03,2,2294,away,FALSE,Iowa,50,Hawkeyes,Iowa Hawkeyes,Iowa
+250340333,2005,regular-season,2005-02-03,2,333,home,FALSE,Alabama,63,Crimson Tide,Alabama Crimson Tide,Alabama
+250340333,2005,regular-season,2005-02-03,2,61,away,FALSE,Georgia,72,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+250340120,2005,regular-season,2005-02-03,2,120,home,FALSE,Maryland,84,Terrapins,Maryland Terrapins,Maryland
+250340120,2005,regular-season,2005-02-03,2,59,away,FALSE,Georgia Tech,67,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+250340344,2005,regular-season,2005-02-03,4,344,home,FALSE,Mississippi State,98,Bulldogs,Mississippi State Bulldogs,Mississippi St
+250340344,2005,regular-season,2005-02-03,4,238,away,FALSE,Vanderbilt,106,Commodores,Vanderbilt Commodores,Vanderbilt
+250340130,2005,regular-season,2005-02-03,2,130,home,FALSE,Michigan,61,Wolverines,Michigan Wolverines,Michigan
+250340130,2005,regular-season,2005-02-03,2,213,away,FALSE,Penn State,76,Lady Lions,Penn State Lady Lions,Penn State
+250340288,2005,regular-season,2005-02-03,2,288,home,FALSE,Lipscomb,49,Bisons,Lipscomb Bisons,Lipscomb
+250340288,2005,regular-season,2005-02-03,2,52,away,FALSE,Florida State,73,Seminoles,Florida State Seminoles,Florida St
+250340152,2005,regular-season,2005-02-03,2,152,home,FALSE,NC State,62,Wolfpack,NC State Wolfpack,NC State
+250340152,2005,regular-season,2005-02-03,2,258,away,FALSE,Virginia,56,Cavaliers,Virginia Cavaliers,Virginia

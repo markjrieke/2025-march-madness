@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250490030,2005-02-18,2,30,home,FALSE,USC,62,Trojans,USC Trojans,USC
-250490030,2005-02-18,2,24,away,FALSE,Stanford,88,Cardinal,Stanford Cardinal,Stanford
-250490139,2005-02-18,2,139,home,FALSE,Saint Louis,64,Billikens,Saint Louis Billikens,Saint Louis
-250490139,2005-02-18,2,305,away,FALSE,DePaul,82,Blue Demons,DePaul Blue Demons,DePaul
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250490030,2005,regular-season,2005-02-18,2,30,home,FALSE,USC,62,Trojans,USC Trojans,USC
+250490030,2005,regular-season,2005-02-18,2,24,away,FALSE,Stanford,88,Cardinal,Stanford Cardinal,Stanford
+250490139,2005,regular-season,2005-02-18,2,139,home,FALSE,Saint Louis,64,Billikens,Saint Louis Billikens,Saint Louis
+250490139,2005,regular-season,2005-02-18,2,305,away,FALSE,DePaul,82,Blue Demons,DePaul Blue Demons,DePaul

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400842372,2015-11-20,4,2633,home,FALSE,Tennessee,57,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400842372,2015-11-20,4,183,away,FALSE,Syracuse,55,Orange,Syracuse Orange,Syracuse
-400830349,2015-11-20,4,120,home,FALSE,Maryland,97,Terrapins,Maryland Terrapins,Maryland
-400830349,2015-11-20,4,2174,away,FALSE,Detroit Mercy,41,Titans,Detroit Mercy Titans,Detroit Mercy
-400823610,2015-11-20,4,25,home,FALSE,California,64,Golden Bears,California Golden Bears,California
-400823610,2015-11-20,4,27,away,FALSE,UC Riverside,58,Highlanders,UC Riverside Highlanders,UC Riverside
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400842372,2016,regular-season,2015-11-20,4,2633,home,FALSE,Tennessee,57,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400842372,2016,regular-season,2015-11-20,4,183,away,FALSE,Syracuse,55,Orange,Syracuse Orange,Syracuse
+400830349,2016,regular-season,2015-11-20,4,120,home,FALSE,Maryland,97,Terrapins,Maryland Terrapins,Maryland
+400830349,2016,regular-season,2015-11-20,4,2174,away,FALSE,Detroit Mercy,41,Titans,Detroit Mercy Titans,Detroit Mercy
+400823610,2016,regular-season,2015-11-20,4,25,home,FALSE,California,64,Golden Bears,California Golden Bears,California
+400823610,2016,regular-season,2015-11-20,4,27,away,FALSE,UC Riverside,58,Highlanders,UC Riverside Highlanders,UC Riverside

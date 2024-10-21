@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400498550,2013-12-20,2,183,home,FALSE,Syracuse,75,Orange,Syracuse Orange,Syracuse
-400498550,2013-12-20,2,2272,away,FALSE,High Point,54,Panthers,High Point Panthers,High Point
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400498550,2014,regular-season,2013-12-20,2,183,home,FALSE,Syracuse,75,Orange,Syracuse Orange,Syracuse
+400498550,2014,regular-season,2013-12-20,2,2272,away,FALSE,High Point,54,Panthers,High Point Panthers,High Point

@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260250041,2006-01-25,2,41,home,FALSE,UConn,66,Huskies,UConn Huskies,UConn
-260250041,2006-01-25,2,2599,away,FALSE,St. John's,50,Red Storm,St. John's Red Storm,St John's
-260252579,2006-01-25,2,2579,home,FALSE,South Carolina,68,Gamecocks,South Carolina Gamecocks,South Carolina
-260252579,2006-01-25,2,57,away,FALSE,Florida,62,Gators,Florida Gators,Florida
-260250356,2006-01-25,2,356,home,FALSE,Illinois,77,Fighting Illini,Illinois Fighting Illini,Illinois
-260250356,2006-01-25,2,135,away,FALSE,Minnesota,53,Golden Gophers,Minnesota Golden Gophers,Minnesota
-260250277,2006-01-25,2,277,home,FALSE,West Virginia,52,Mountaineers,West Virginia Mountaineers,West Virginia
-260250277,2006-01-25,2,276,away,FALSE,Marshall,58,Thundering Herd,Marshall Thundering Herd,Marshall
-260250130,2006-01-25,2,130,home,FALSE,Michigan,72,Wolverines,Michigan Wolverines,Michigan
-260250130,2006-01-25,2,127,away,FALSE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
-260252184,2006-01-25,2,2184,home,FALSE,Duquesne,78,Dukes,Duquesne Dukes,Duquesne
-260252184,2006-01-25,2,45,away,FALSE,George Washington,94,Revolutionaries,George Washington Revolutionaries,G Washington
-260250152,2006-01-25,2,152,home,FALSE,NC State,65,Wolfpack,NC State Wolfpack,NC State
-260250152,2006-01-25,2,2550,away,FALSE,Seton Hall,83,Pirates,Seton Hall Pirates,Seton Hall
-260250059,2006-01-25,2,59,home,FALSE,Georgia Tech,74,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-260250059,2006-01-25,2,120,away,FALSE,Maryland,86,Terrapins,Maryland Terrapins,Maryland
-260250344,2006-01-25,2,344,home,FALSE,Mississippi State,65,Bulldogs,Mississippi State Bulldogs,Mississippi St
-260250344,2006-01-25,2,2633,away,FALSE,Tennessee,88,Volunteers,Tennessee Volunteers,Tennessee
-260250153,2006-01-25,2,153,home,FALSE,North Carolina,74,Tar Heels,North Carolina Tar Heels,North Carolina
-260250153,2006-01-25,2,103,away,FALSE,Boston College,81,Eagles,Boston College Eagles,Boston College
-260250097,2006-01-25,2,97,home,FALSE,Louisville,67,Cardinals,Louisville Cardinals,Louisville
-260250097,2006-01-25,2,2132,away,FALSE,Cincinnati,50,Bearcats,Cincinnati Bearcats,Cincinnati
-260250275,2006-01-25,2,275,home,FALSE,Wisconsin,72,Badgers,Wisconsin Badgers,Wisconsin
-260250275,2006-01-25,2,213,away,FALSE,Penn State,43,Nittany Lions,Penn State Nittany Lions,Penn State
-260250239,2006-01-25,2,239,home,FALSE,Baylor,52,Bears,Baylor Bears,Baylor
-260250239,2006-01-25,2,201,away,FALSE,Oklahoma,82,Sooners,Oklahoma Sooners,Oklahoma
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260250041,2006,regular-season,2006-01-25,2,41,home,FALSE,UConn,66,Huskies,UConn Huskies,UConn
+260250041,2006,regular-season,2006-01-25,2,2599,away,FALSE,St. John's,50,Red Storm,St. John's Red Storm,St John's
+260252579,2006,regular-season,2006-01-25,2,2579,home,FALSE,South Carolina,68,Gamecocks,South Carolina Gamecocks,South Carolina
+260252579,2006,regular-season,2006-01-25,2,57,away,FALSE,Florida,62,Gators,Florida Gators,Florida
+260250356,2006,regular-season,2006-01-25,2,356,home,FALSE,Illinois,77,Fighting Illini,Illinois Fighting Illini,Illinois
+260250356,2006,regular-season,2006-01-25,2,135,away,FALSE,Minnesota,53,Golden Gophers,Minnesota Golden Gophers,Minnesota
+260250277,2006,regular-season,2006-01-25,2,277,home,FALSE,West Virginia,52,Mountaineers,West Virginia Mountaineers,West Virginia
+260250277,2006,regular-season,2006-01-25,2,276,away,FALSE,Marshall,58,Thundering Herd,Marshall Thundering Herd,Marshall
+260250130,2006,regular-season,2006-01-25,2,130,home,FALSE,Michigan,72,Wolverines,Michigan Wolverines,Michigan
+260250130,2006,regular-season,2006-01-25,2,127,away,FALSE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
+260252184,2006,regular-season,2006-01-25,2,2184,home,FALSE,Duquesne,78,Dukes,Duquesne Dukes,Duquesne
+260252184,2006,regular-season,2006-01-25,2,45,away,FALSE,George Washington,94,Revolutionaries,George Washington Revolutionaries,G Washington
+260250152,2006,regular-season,2006-01-25,2,152,home,FALSE,NC State,65,Wolfpack,NC State Wolfpack,NC State
+260250152,2006,regular-season,2006-01-25,2,2550,away,FALSE,Seton Hall,83,Pirates,Seton Hall Pirates,Seton Hall
+260250059,2006,regular-season,2006-01-25,2,59,home,FALSE,Georgia Tech,74,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+260250059,2006,regular-season,2006-01-25,2,120,away,FALSE,Maryland,86,Terrapins,Maryland Terrapins,Maryland
+260250344,2006,regular-season,2006-01-25,2,344,home,FALSE,Mississippi State,65,Bulldogs,Mississippi State Bulldogs,Mississippi St
+260250344,2006,regular-season,2006-01-25,2,2633,away,FALSE,Tennessee,88,Volunteers,Tennessee Volunteers,Tennessee
+260250153,2006,regular-season,2006-01-25,2,153,home,FALSE,North Carolina,74,Tar Heels,North Carolina Tar Heels,North Carolina
+260250153,2006,regular-season,2006-01-25,2,103,away,FALSE,Boston College,81,Eagles,Boston College Eagles,Boston College
+260250097,2006,regular-season,2006-01-25,2,97,home,FALSE,Louisville,67,Cardinals,Louisville Cardinals,Louisville
+260250097,2006,regular-season,2006-01-25,2,2132,away,FALSE,Cincinnati,50,Bearcats,Cincinnati Bearcats,Cincinnati
+260250275,2006,regular-season,2006-01-25,2,275,home,FALSE,Wisconsin,72,Badgers,Wisconsin Badgers,Wisconsin
+260250275,2006,regular-season,2006-01-25,2,213,away,FALSE,Penn State,43,Nittany Lions,Penn State Nittany Lions,Penn State
+260250239,2006,regular-season,2006-01-25,2,239,home,FALSE,Baylor,52,Bears,Baylor Bears,Baylor
+260250239,2006,regular-season,2006-01-25,2,201,away,FALSE,Oklahoma,82,Sooners,Oklahoma Sooners,Oklahoma

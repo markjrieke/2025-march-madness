@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400595557,2015-03-08,2,194,home,FALSE,Ohio State,48,Buckeyes,Ohio State Buckeyes,Ohio State
-400595557,2015-03-08,2,275,away,FALSE,Wisconsin,72,Badgers,Wisconsin Badgers,Wisconsin
-400595558,2015-03-08,2,158,home,FALSE,Nebraska,61,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400595558,2015-03-08,2,120,away,FALSE,Maryland,64,Terrapins,Maryland Terrapins,Maryland
-400586862,2015-03-08,2,2567,home,FALSE,SMU,67,Mustangs,SMU Mustangs,SMU
-400586862,2015-03-08,2,202,away,FALSE,Tulsa,62,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400595557,2015,regular-season,2015-03-08,2,194,home,FALSE,Ohio State,48,Buckeyes,Ohio State Buckeyes,Ohio State
+400595557,2015,regular-season,2015-03-08,2,275,away,FALSE,Wisconsin,72,Badgers,Wisconsin Badgers,Wisconsin
+400595558,2015,regular-season,2015-03-08,2,158,home,FALSE,Nebraska,61,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400595558,2015,regular-season,2015-03-08,2,120,away,FALSE,Maryland,64,Terrapins,Maryland Terrapins,Maryland
+400586862,2015,regular-season,2015-03-08,2,2567,home,FALSE,SMU,67,Mustangs,SMU Mustangs,SMU
+400586862,2015,regular-season,2015-03-08,2,202,away,FALSE,Tulsa,62,Golden Hurricane,Tulsa Golden Hurricane,Tulsa

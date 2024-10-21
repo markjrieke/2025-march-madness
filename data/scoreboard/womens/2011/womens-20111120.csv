@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313240258,2011-11-20,3,258,home,FALSE,Virginia,69,Cavaliers,Virginia Cavaliers,Virginia
-313240258,2011-11-20,3,2633,away,FALSE,Tennessee,64,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-313240245,2011-11-20,2,245,home,FALSE,Texas A&M,93,Aggies,Texas A&M Aggies,Texas A&M
-313240245,2011-11-20,2,344,away,FALSE,Mississippi State,47,Bulldogs,Mississippi State Bulldogs,Mississippi St
-313240098,2011-11-20,2,98,home,FALSE,Western Kentucky,54,Lady Toppers,Western Kentucky Lady Toppers,Western KY
-313240098,2011-11-20,2,150,away,FALSE,Duke,80,Blue Devils,Duke Blue Devils,Duke
-313240097,2011-11-20,2,97,home,FALSE,Louisville,62,Cardinals,Louisville Cardinals,Louisville
-313240097,2011-11-20,2,2752,away,FALSE,Xavier,44,Musketeers,Xavier Musketeers,Xavier
-313242579,2011-11-20,2,2579,home,FALSE,South Carolina,50,Gamecocks,South Carolina Gamecocks,South Carolina
-313242579,2011-11-20,2,213,away,FALSE,Penn State,55,Lady Lions,Penn State Lady Lions,Penn State
-313240061,2011-11-20,2,61,home,FALSE,Georgia,67,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-313240061,2011-11-20,2,30,away,FALSE,USC,60,Trojans,USC Trojans,USC
-313242509,2011-11-20,2,2509,home,FALSE,Purdue,65,Boilermakers,Purdue Boilermakers,Purdue
-313242509,2011-11-20,2,2630,away,FALSE,UT Martin,39,Skyhawks,UT Martin Skyhawks,UT Martin
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313240258,2012,regular-season,2011-11-20,3,258,home,FALSE,Virginia,69,Cavaliers,Virginia Cavaliers,Virginia
+313240258,2012,regular-season,2011-11-20,3,2633,away,FALSE,Tennessee,64,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+313240245,2012,regular-season,2011-11-20,2,245,home,FALSE,Texas A&M,93,Aggies,Texas A&M Aggies,Texas A&M
+313240245,2012,regular-season,2011-11-20,2,344,away,FALSE,Mississippi State,47,Bulldogs,Mississippi State Bulldogs,Mississippi St
+313240098,2012,regular-season,2011-11-20,2,98,home,FALSE,Western Kentucky,54,Lady Toppers,Western Kentucky Lady Toppers,Western KY
+313240098,2012,regular-season,2011-11-20,2,150,away,FALSE,Duke,80,Blue Devils,Duke Blue Devils,Duke
+313240097,2012,regular-season,2011-11-20,2,97,home,FALSE,Louisville,62,Cardinals,Louisville Cardinals,Louisville
+313240097,2012,regular-season,2011-11-20,2,2752,away,FALSE,Xavier,44,Musketeers,Xavier Musketeers,Xavier
+313242579,2012,regular-season,2011-11-20,2,2579,home,FALSE,South Carolina,50,Gamecocks,South Carolina Gamecocks,South Carolina
+313242579,2012,regular-season,2011-11-20,2,213,away,FALSE,Penn State,55,Lady Lions,Penn State Lady Lions,Penn State
+313240061,2012,regular-season,2011-11-20,2,61,home,FALSE,Georgia,67,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+313240061,2012,regular-season,2011-11-20,2,30,away,FALSE,USC,60,Trojans,USC Trojans,USC
+313242509,2012,regular-season,2011-11-20,2,2509,home,FALSE,Purdue,65,Boilermakers,Purdue Boilermakers,Purdue
+313242509,2012,regular-season,2011-11-20,2,2630,away,FALSE,UT Martin,39,Skyhawks,UT Martin Skyhawks,UT Martin

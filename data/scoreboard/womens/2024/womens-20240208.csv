@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401596730,2024-02-08,4,2579,home,FALSE,South Carolina,83,Gamecocks,South Carolina Gamecocks,South Carolina
-401596730,2024-02-08,4,142,away,FALSE,Missouri,45,Tigers,Missouri Tigers,Missouri
-401601580,2024-02-08,4,2294,home,FALSE,Iowa,111,Hawkeyes,Iowa Hawkeyes,Iowa
-401601580,2024-02-08,4,213,away,FALSE,Penn State,93,Lady Lions,Penn State Lady Lions,Penn State
-401604015,2024-02-08,4,152,home,FALSE,NC State,61,Wolfpack,NC State Wolfpack,NC State
-401604015,2024-02-08,4,259,away,FALSE,Virginia Tech,72,Hokies,Virginia Tech Hokies,Virginia Tech
-401601581,2024-02-08,4,135,home,FALSE,Minnesota,47,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401601581,2024-02-08,4,194,away,FALSE,Ohio State,71,Buckeyes,Ohio State Buckeyes,Ohio State
-401604011,2024-02-08,4,97,home,FALSE,Louisville,73,Cardinals,Louisville Cardinals,Louisville
-401604011,2024-02-08,4,87,away,FALSE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401596731,2024-02-08,4,238,home,FALSE,Vanderbilt,62,Commodores,Vanderbilt Commodores,Vanderbilt
-401596731,2024-02-08,4,99,away,FALSE,LSU,85,Tigers,LSU Tigers,LSU
-401601579,2024-02-08,4,84,home,FALSE,Indiana,94,Hoosiers,Indiana Hoosiers,Indiana
-401601579,2024-02-08,4,127,away,FALSE,Michigan State,91,Spartans,Michigan State Spartans,Michigan St
-401589534,2024-02-08,4,2250,home,FALSE,Gonzaga,83,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401589534,2024-02-08,4,2492,away,FALSE,Pepperdine,46,Waves,Pepperdine Waves,Pepperdine
-401604014,2024-02-08,4,183,home,FALSE,Syracuse,62,Orange,Syracuse Orange,Syracuse
-401604014,2024-02-08,4,59,away,FALSE,Georgia Tech,59,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401596730,2024,regular-season,2024-02-08,4,2579,home,FALSE,South Carolina,83,Gamecocks,South Carolina Gamecocks,South Carolina
+401596730,2024,regular-season,2024-02-08,4,142,away,FALSE,Missouri,45,Tigers,Missouri Tigers,Missouri
+401601580,2024,regular-season,2024-02-08,4,2294,home,FALSE,Iowa,111,Hawkeyes,Iowa Hawkeyes,Iowa
+401601580,2024,regular-season,2024-02-08,4,213,away,FALSE,Penn State,93,Lady Lions,Penn State Lady Lions,Penn State
+401604015,2024,regular-season,2024-02-08,4,152,home,FALSE,NC State,61,Wolfpack,NC State Wolfpack,NC State
+401604015,2024,regular-season,2024-02-08,4,259,away,FALSE,Virginia Tech,72,Hokies,Virginia Tech Hokies,Virginia Tech
+401601581,2024,regular-season,2024-02-08,4,135,home,FALSE,Minnesota,47,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401601581,2024,regular-season,2024-02-08,4,194,away,FALSE,Ohio State,71,Buckeyes,Ohio State Buckeyes,Ohio State
+401604011,2024,regular-season,2024-02-08,4,97,home,FALSE,Louisville,73,Cardinals,Louisville Cardinals,Louisville
+401604011,2024,regular-season,2024-02-08,4,87,away,FALSE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401596731,2024,regular-season,2024-02-08,4,238,home,FALSE,Vanderbilt,62,Commodores,Vanderbilt Commodores,Vanderbilt
+401596731,2024,regular-season,2024-02-08,4,99,away,FALSE,LSU,85,Tigers,LSU Tigers,LSU
+401601579,2024,regular-season,2024-02-08,4,84,home,FALSE,Indiana,94,Hoosiers,Indiana Hoosiers,Indiana
+401601579,2024,regular-season,2024-02-08,4,127,away,FALSE,Michigan State,91,Spartans,Michigan State Spartans,Michigan St
+401589534,2024,regular-season,2024-02-08,4,2250,home,FALSE,Gonzaga,83,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401589534,2024,regular-season,2024-02-08,4,2492,away,FALSE,Pepperdine,46,Waves,Pepperdine Waves,Pepperdine
+401604014,2024,regular-season,2024-02-08,4,183,home,FALSE,Syracuse,62,Orange,Syracuse Orange,Syracuse
+401604014,2024,regular-season,2024-02-08,4,59,away,FALSE,Georgia Tech,59,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech

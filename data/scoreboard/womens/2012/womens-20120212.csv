@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320430087,2012-02-12,2,87,home,FALSE,Notre Dame,63,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-320430087,2012-02-12,2,277,away,FALSE,West Virginia,65,Mountaineers,West Virginia Mountaineers,West Virginia
-320430024,2012-02-12,2,24,home,FALSE,Stanford,82,Cardinal,Stanford Cardinal,Stanford
-320430024,2012-02-12,2,26,away,FALSE,UCLA,59,Bruins,UCLA Bruins,UCLA
-320430052,2012-02-12,2,52,home,FALSE,Florida State,57,Seminoles,Florida State Seminoles,Florida St
-320430052,2012-02-12,2,150,away,FALSE,Duke,67,Blue Devils,Duke Blue Devils,Duke
-320430120,2012-02-12,2,120,home,FALSE,Maryland,74,Terrapins,Maryland Terrapins,Maryland
-320430120,2012-02-12,2,2390,away,FALSE,Miami,76,Hurricanes,Miami Hurricanes,Miami
-320430194,2012-02-12,2,194,home,FALSE,Ohio State,80,Buckeyes,Ohio State Buckeyes,Ohio State
-320430194,2012-02-12,2,2509,away,FALSE,Purdue,71,Boilermakers,Purdue Boilermakers,Purdue
-320432247,2012-02-12,2,2247,home,FALSE,Georgia State,56,Panthers,Georgia State Panthers,Georgia St
-320432247,2012-02-12,2,48,away,FALSE,Delaware,94,Blue Hens,Delaware Blue Hens,Delaware
-320430164,2012-02-12,2,164,home,FALSE,Rutgers,52,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-320430164,2012-02-12,2,2599,away,FALSE,St. John's,61,Red Storm,St. John's Red Storm,St John's
-320430077,2012-02-12,2,77,home,FALSE,Northwestern,63,Wildcats,Northwestern Wildcats,Northwestern
-320430077,2012-02-12,2,213,away,FALSE,Penn State,77,Lady Lions,Penn State Lady Lions,Penn State
-320430061,2012-02-12,2,61,home,FALSE,Georgia,76,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-320430061,2012-02-12,2,238,away,FALSE,Vanderbilt,63,Commodores,Vanderbilt Commodores,Vanderbilt
-320430153,2012-02-12,2,153,home,FALSE,North Carolina,54,Tar Heels,North Carolina Tar Heels,North Carolina
-320430153,2012-02-12,2,59,away,FALSE,Georgia Tech,56,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-320432579,2012-02-12,2,2579,home,FALSE,South Carolina,62,Gamecocks,South Carolina Gamecocks,South Carolina
-320432579,2012-02-12,2,57,away,FALSE,Florida,58,Gators,Florida Gators,Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320430087,2012,regular-season,2012-02-12,2,87,home,FALSE,Notre Dame,63,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+320430087,2012,regular-season,2012-02-12,2,277,away,FALSE,West Virginia,65,Mountaineers,West Virginia Mountaineers,West Virginia
+320430024,2012,regular-season,2012-02-12,2,24,home,FALSE,Stanford,82,Cardinal,Stanford Cardinal,Stanford
+320430024,2012,regular-season,2012-02-12,2,26,away,FALSE,UCLA,59,Bruins,UCLA Bruins,UCLA
+320430052,2012,regular-season,2012-02-12,2,52,home,FALSE,Florida State,57,Seminoles,Florida State Seminoles,Florida St
+320430052,2012,regular-season,2012-02-12,2,150,away,FALSE,Duke,67,Blue Devils,Duke Blue Devils,Duke
+320430120,2012,regular-season,2012-02-12,2,120,home,FALSE,Maryland,74,Terrapins,Maryland Terrapins,Maryland
+320430120,2012,regular-season,2012-02-12,2,2390,away,FALSE,Miami,76,Hurricanes,Miami Hurricanes,Miami
+320430194,2012,regular-season,2012-02-12,2,194,home,FALSE,Ohio State,80,Buckeyes,Ohio State Buckeyes,Ohio State
+320430194,2012,regular-season,2012-02-12,2,2509,away,FALSE,Purdue,71,Boilermakers,Purdue Boilermakers,Purdue
+320432247,2012,regular-season,2012-02-12,2,2247,home,FALSE,Georgia State,56,Panthers,Georgia State Panthers,Georgia St
+320432247,2012,regular-season,2012-02-12,2,48,away,FALSE,Delaware,94,Blue Hens,Delaware Blue Hens,Delaware
+320430164,2012,regular-season,2012-02-12,2,164,home,FALSE,Rutgers,52,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+320430164,2012,regular-season,2012-02-12,2,2599,away,FALSE,St. John's,61,Red Storm,St. John's Red Storm,St John's
+320430077,2012,regular-season,2012-02-12,2,77,home,FALSE,Northwestern,63,Wildcats,Northwestern Wildcats,Northwestern
+320430077,2012,regular-season,2012-02-12,2,213,away,FALSE,Penn State,77,Lady Lions,Penn State Lady Lions,Penn State
+320430061,2012,regular-season,2012-02-12,2,61,home,FALSE,Georgia,76,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+320430061,2012,regular-season,2012-02-12,2,238,away,FALSE,Vanderbilt,63,Commodores,Vanderbilt Commodores,Vanderbilt
+320430153,2012,regular-season,2012-02-12,2,153,home,FALSE,North Carolina,54,Tar Heels,North Carolina Tar Heels,North Carolina
+320430153,2012,regular-season,2012-02-12,2,59,away,FALSE,Georgia Tech,56,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+320432579,2012,regular-season,2012-02-12,2,2579,home,FALSE,South Carolina,62,Gamecocks,South Carolina Gamecocks,South Carolina
+320432579,2012,regular-season,2012-02-12,2,57,away,FALSE,Florida,58,Gators,Florida Gators,Florida

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240280158,2004-01-28,2,158,home,FALSE,Nebraska,59,Cornhuskers,Nebraska Cornhuskers,Nebraska
-240280158,2004-01-28,2,251,away,FALSE,Texas,82,Longhorns,Texas Longhorns,Texas
-240282641,2004-01-28,2,2641,home,FALSE,Texas Tech,65,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-240282641,2004-01-28,2,245,away,FALSE,Texas A&M,56,Aggies,Texas A&M Aggies,Texas A&M
-240282390,2004-01-28,2,2390,home,FALSE,Miami,50,Hurricanes,Miami Hurricanes,Miami
-240282390,2004-01-28,2,87,away,FALSE,Notre Dame,59,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-240280142,2004-01-28,2,142,home,FALSE,Missouri,77,Tigers,Missouri Tigers,Missouri
-240280142,2004-01-28,2,201,away,FALSE,Oklahoma,65,Sooners,Oklahoma Sooners,Oklahoma
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240280158,2004,regular-season,2004-01-28,2,158,home,FALSE,Nebraska,59,Cornhuskers,Nebraska Cornhuskers,Nebraska
+240280158,2004,regular-season,2004-01-28,2,251,away,FALSE,Texas,82,Longhorns,Texas Longhorns,Texas
+240282641,2004,regular-season,2004-01-28,2,2641,home,FALSE,Texas Tech,65,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+240282641,2004,regular-season,2004-01-28,2,245,away,FALSE,Texas A&M,56,Aggies,Texas A&M Aggies,Texas A&M
+240282390,2004,regular-season,2004-01-28,2,2390,home,FALSE,Miami,50,Hurricanes,Miami Hurricanes,Miami
+240282390,2004,regular-season,2004-01-28,2,87,away,FALSE,Notre Dame,59,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+240280142,2004,regular-season,2004-01-28,2,142,home,FALSE,Missouri,77,Tigers,Missouri Tigers,Missouri
+240280142,2004,regular-season,2004-01-28,2,201,away,FALSE,Oklahoma,65,Sooners,Oklahoma Sooners,Oklahoma

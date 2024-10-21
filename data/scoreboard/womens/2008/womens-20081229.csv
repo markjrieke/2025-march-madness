@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-283640002,2008-12-29,2,2,home,TRUE,Auburn,87,Tigers,Auburn Tigers,Auburn
-283640002,2008-12-29,2,2184,away,TRUE,Duquesne,67,Dukes,Duquesne Dukes,Duquesne
-283640097,2008-12-29,2,97,home,FALSE,Louisville,95,Cardinals,Louisville Cardinals,Louisville
-283640097,2008-12-29,2,2117,away,FALSE,Central Michigan,72,Chippewas,Central Michigan Chippewas,C Michigan
-283640025,2008-12-29,2,25,home,FALSE,California,85,Golden Bears,California Golden Bears,California
-283640025,2008-12-29,2,2608,away,FALSE,Saint Mary's,44,Gaels,Saint Mary's Gaels,Saint Mary's
-283640120,2008-12-29,2,120,home,FALSE,Maryland,90,Terrapins,Maryland Terrapins,Maryland
-283640120,2008-12-29,2,2427,away,FALSE,UNC Asheville,57,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-283640164,2008-12-29,2,164,home,FALSE,Rutgers,57,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-283640164,2008-12-29,2,45,away,FALSE,George Washington,47,Revolutionaries,George Washington Revolutionaries,G Washington
-283640258,2008-12-29,2,258,home,FALSE,Virginia,68,Cavaliers,Virginia Cavaliers,Virginia
-283640258,2008-12-29,2,2348,away,FALSE,Louisiana Tech,52,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-283640057,2008-12-29,2,57,home,FALSE,Florida,85,Gators,Florida Gators,Florida
-283640057,2008-12-29,2,261,away,FALSE,Vermont,76,Catamounts,Vermont Catamounts,Vermont
-283642460,2008-12-29,2,2460,home,FALSE,Northern Iowa,69,Panthers,Northern Iowa Panthers,Northern Iowa
-283642460,2008-12-29,2,2571,away,FALSE,South Dakota State,82,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283640002,2009,regular-season,2008-12-29,2,2,home,TRUE,Auburn,87,Tigers,Auburn Tigers,Auburn
+283640002,2009,regular-season,2008-12-29,2,2184,away,TRUE,Duquesne,67,Dukes,Duquesne Dukes,Duquesne
+283640097,2009,regular-season,2008-12-29,2,97,home,FALSE,Louisville,95,Cardinals,Louisville Cardinals,Louisville
+283640097,2009,regular-season,2008-12-29,2,2117,away,FALSE,Central Michigan,72,Chippewas,Central Michigan Chippewas,C Michigan
+283640025,2009,regular-season,2008-12-29,2,25,home,FALSE,California,85,Golden Bears,California Golden Bears,California
+283640025,2009,regular-season,2008-12-29,2,2608,away,FALSE,Saint Mary's,44,Gaels,Saint Mary's Gaels,Saint Mary's
+283640120,2009,regular-season,2008-12-29,2,120,home,FALSE,Maryland,90,Terrapins,Maryland Terrapins,Maryland
+283640120,2009,regular-season,2008-12-29,2,2427,away,FALSE,UNC Asheville,57,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+283640164,2009,regular-season,2008-12-29,2,164,home,FALSE,Rutgers,57,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+283640164,2009,regular-season,2008-12-29,2,45,away,FALSE,George Washington,47,Revolutionaries,George Washington Revolutionaries,G Washington
+283640258,2009,regular-season,2008-12-29,2,258,home,FALSE,Virginia,68,Cavaliers,Virginia Cavaliers,Virginia
+283640258,2009,regular-season,2008-12-29,2,2348,away,FALSE,Louisiana Tech,52,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+283640057,2009,regular-season,2008-12-29,2,57,home,FALSE,Florida,85,Gators,Florida Gators,Florida
+283640057,2009,regular-season,2008-12-29,2,261,away,FALSE,Vermont,76,Catamounts,Vermont Catamounts,Vermont
+283642460,2009,regular-season,2008-12-29,2,2460,home,FALSE,Northern Iowa,69,Panthers,Northern Iowa Panthers,Northern Iowa
+283642460,2009,regular-season,2008-12-29,2,2571,away,FALSE,South Dakota State,82,Jackrabbits,South Dakota State Jackrabbits,S Dakota St

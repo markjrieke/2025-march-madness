@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401166789,2019-12-22,4,2579,home,FALSE,South Carolina,73,Gamecocks,South Carolina Gamecocks,South Carolina
-401166789,2019-12-22,4,233,away,FALSE,South Dakota,60,Coyotes,South Dakota Coyotes,South Dakota
-401177269,2019-12-22,4,84,home,FALSE,Indiana,58,Hoosiers,Indiana Hoosiers,Indiana
-401177269,2019-12-22,4,26,away,FALSE,UCLA,68,Bruins,UCLA Bruins,UCLA
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401166789,2020,regular-season,2019-12-22,4,2579,home,FALSE,South Carolina,73,Gamecocks,South Carolina Gamecocks,South Carolina
+401166789,2020,regular-season,2019-12-22,4,233,away,FALSE,South Dakota,60,Coyotes,South Dakota Coyotes,South Dakota
+401177269,2020,regular-season,2019-12-22,4,84,home,FALSE,Indiana,58,Hoosiers,Indiana Hoosiers,Indiana
+401177269,2020,regular-season,2019-12-22,4,26,away,FALSE,UCLA,68,Bruins,UCLA Bruins,UCLA

@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401522167,2023-03-18,2,21,home,TRUE,San Diego State,75,Aztecs,San Diego State Aztecs,San Diego St
-401522167,2023-03-18,2,231,away,TRUE,Furman,52,Paladins,Furman Paladins,Furman
-401522166,2023-03-18,2,2633,home,TRUE,Tennessee,65,Volunteers,Tennessee Volunteers,Tennessee
-401522166,2023-03-18,2,150,away,TRUE,Duke,52,Blue Devils,Duke Blue Devils,Duke
-401522162,2023-03-18,2,2305,home,TRUE,Kansas,71,Jayhawks,Kansas Jayhawks,Kansas
-401522162,2023-03-18,2,8,away,TRUE,Arkansas,72,Razorbacks,Arkansas Razorbacks,Arkansas
-401522170,2023-03-18,2,142,home,TRUE,Missouri,63,Tigers,Missouri Tigers,Missouri
-401522170,2023-03-18,2,163,away,TRUE,Princeton,78,Tigers,Princeton Tigers,Princeton
-401522161,2023-03-18,2,248,home,TRUE,Houston,81,Cougars,Houston Cougars,Houston
-401522161,2023-03-18,2,2,away,TRUE,Auburn,64,Tigers,Auburn Tigers,Auburn
-401522165,2023-03-18,2,251,home,TRUE,Texas,71,Longhorns,Texas Longhorns,Texas
-401522165,2023-03-18,2,213,away,TRUE,Penn State,66,Nittany Lions,Penn State Nittany Lions,Penn State
-401522169,2023-03-18,2,26,home,TRUE,UCLA,68,Bruins,UCLA Bruins,UCLA
-401522169,2023-03-18,2,77,away,TRUE,Northwestern,63,Wildcats,Northwestern Wildcats,Northwestern
-401522159,2023-03-18,2,333,home,TRUE,Alabama,73,Crimson Tide,Alabama Crimson Tide,Alabama
-401522159,2023-03-18,2,120,away,TRUE,Maryland,51,Terrapins,Maryland Terrapins,Maryland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401522167,2023,post-season,2023-03-18,2,21,home,TRUE,San Diego State,75,Aztecs,San Diego State Aztecs,San Diego St
+401522167,2023,post-season,2023-03-18,2,231,away,TRUE,Furman,52,Paladins,Furman Paladins,Furman
+401522166,2023,post-season,2023-03-18,2,2633,home,TRUE,Tennessee,65,Volunteers,Tennessee Volunteers,Tennessee
+401522166,2023,post-season,2023-03-18,2,150,away,TRUE,Duke,52,Blue Devils,Duke Blue Devils,Duke
+401522162,2023,post-season,2023-03-18,2,2305,home,TRUE,Kansas,71,Jayhawks,Kansas Jayhawks,Kansas
+401522162,2023,post-season,2023-03-18,2,8,away,TRUE,Arkansas,72,Razorbacks,Arkansas Razorbacks,Arkansas
+401522170,2023,post-season,2023-03-18,2,142,home,TRUE,Missouri,63,Tigers,Missouri Tigers,Missouri
+401522170,2023,post-season,2023-03-18,2,163,away,TRUE,Princeton,78,Tigers,Princeton Tigers,Princeton
+401522161,2023,post-season,2023-03-18,2,248,home,TRUE,Houston,81,Cougars,Houston Cougars,Houston
+401522161,2023,post-season,2023-03-18,2,2,away,TRUE,Auburn,64,Tigers,Auburn Tigers,Auburn
+401522165,2023,post-season,2023-03-18,2,251,home,TRUE,Texas,71,Longhorns,Texas Longhorns,Texas
+401522165,2023,post-season,2023-03-18,2,213,away,TRUE,Penn State,66,Nittany Lions,Penn State Nittany Lions,Penn State
+401522169,2023,post-season,2023-03-18,2,26,home,TRUE,UCLA,68,Bruins,UCLA Bruins,UCLA
+401522169,2023,post-season,2023-03-18,2,77,away,TRUE,Northwestern,63,Wildcats,Northwestern Wildcats,Northwestern
+401522159,2023,post-season,2023-03-18,2,333,home,TRUE,Alabama,73,Crimson Tide,Alabama Crimson Tide,Alabama
+401522159,2023,post-season,2023-03-18,2,120,away,TRUE,Maryland,51,Terrapins,Maryland Terrapins,Maryland

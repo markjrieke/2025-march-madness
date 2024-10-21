@@ -1,37 +1,37 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243390154,2004-12-04,2,154,home,FALSE,Wake Forest,90,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-243390154,2004-12-04,2,257,away,FALSE,Richmond,73,Spiders,Richmond Spiders,Richmond
-243392305,2004-12-04,2,2305,home,FALSE,Kansas,81,Jayhawks,Kansas Jayhawks,Kansas
-243392305,2004-12-04,2,279,away,FALSE,Pacific,70,Tigers,Pacific Tigers,Pacific
-243390183,2004-12-04,2,183,home,FALSE,Syracuse,68,Orange,Syracuse Orange,Syracuse
-243390183,2004-12-04,2,2142,away,FALSE,Colgate,55,Raiders,Colgate Raiders,Colgate
-243390008,2004-12-04,2,8,home,FALSE,Arkansas,60,Razorbacks,Arkansas Razorbacks,Arkansas
-243390008,2004-12-04,2,356,away,FALSE,Illinois,72,Fighting Illini,Illinois Fighting Illini,Illinois
-243390197,2004-12-04,2,197,home,FALSE,Oklahoma State,81,Cowboys,Oklahoma State Cowboys,Oklahoma St
-243390197,2004-12-04,2,265,away,FALSE,Washington State,29,Cougars,Washington State Cougars,Washington St
-243390041,2004-12-04,2,41,home,FALSE,UConn,74,Huskies,UConn Huskies,UConn
-243390041,2004-12-04,2,84,away,FALSE,Indiana,69,Hoosiers,Indiana Hoosiers,Indiana
-243390153,2004-12-04,2,153,home,FALSE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
-243390153,2004-12-04,2,96,away,FALSE,Kentucky,78,Wildcats,Kentucky Wildcats,Kentucky
-243392674,2004-12-04,2,2674,home,FALSE,Valparaiso,61,Beacons,Valparaiso Beacons,Valparaiso
-243392674,2004-12-04,2,150,away,FALSE,Duke,93,Blue Devils,Duke Blue Devils,Duke
-243390045,2004-12-04,2,45,home,FALSE,George Washington,96,Revolutionaries,George Washington Revolutionaries,G Washington
-243390045,2004-12-04,2,127,away,FALSE,Michigan State,83,Spartans,Michigan State Spartans,Michigan St
-243390120,2004-12-04,2,120,home,FALSE,Maryland,78,Terrapins,Maryland Terrapins,Maryland
-243390120,2004-12-04,2,2244,away,FALSE,George Mason,54,Patriots,George Mason Patriots,George Mason
-243390221,2004-12-04,2,221,home,FALSE,Pittsburgh,87,Panthers,Pittsburgh Panthers,Pitt
-243390221,2004-12-04,2,2184,away,FALSE,Duquesne,57,Dukes,Duquesne Dukes,Duquesne
-243390097,2004-12-04,2,97,home,FALSE,Louisville,98,Cardinals,Louisville Cardinals,Louisville
-243390097,2004-12-04,2,322,away,FALSE,Lafayette,57,Leopards,Lafayette Leopards,Lafayette
-243392550,2004-12-04,2,2550,home,FALSE,Seton Hall,62,Pirates,Seton Hall Pirates,Seton Hall
-243392550,2004-12-04,2,251,away,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas
-243390057,2004-12-04,2,57,home,FALSE,Florida,65,Gators,Florida Gators,Florida
-243390057,2004-12-04,2,2390,away,FALSE,Miami,72,Hurricanes,Miami Hurricanes,Miami
-243390130,2004-12-04,2,130,home,FALSE,Michigan,61,Wolverines,Michigan Wolverines,Michigan
-243390130,2004-12-04,2,87,away,FALSE,Notre Dame,60,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-243392429,2004-12-04,5,2429,home,FALSE,Charlotte,101,49ers,Charlotte 49ers,Charlotte
-243392429,2004-12-04,5,333,away,FALSE,Alabama,102,Crimson Tide,Alabama Crimson Tide,Alabama
-243392294,2004-12-04,2,2294,home,FALSE,Iowa,83,Hawkeyes,Iowa Hawkeyes,Iowa
-243392294,2004-12-04,2,2430,away,FALSE,UNC Greensboro,58,Spartans,UNC Greensboro Spartans,UNC Greensboro
-243390164,2004-12-04,2,164,home,FALSE,Rutgers,62,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-243390164,2004-12-04,2,275,away,FALSE,Wisconsin,70,Badgers,Wisconsin Badgers,Wisconsin
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243390154,2005,regular-season,2004-12-04,2,154,home,FALSE,Wake Forest,90,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+243390154,2005,regular-season,2004-12-04,2,257,away,FALSE,Richmond,73,Spiders,Richmond Spiders,Richmond
+243392305,2005,regular-season,2004-12-04,2,2305,home,FALSE,Kansas,81,Jayhawks,Kansas Jayhawks,Kansas
+243392305,2005,regular-season,2004-12-04,2,279,away,FALSE,Pacific,70,Tigers,Pacific Tigers,Pacific
+243390183,2005,regular-season,2004-12-04,2,183,home,FALSE,Syracuse,68,Orange,Syracuse Orange,Syracuse
+243390183,2005,regular-season,2004-12-04,2,2142,away,FALSE,Colgate,55,Raiders,Colgate Raiders,Colgate
+243390008,2005,regular-season,2004-12-04,2,8,home,FALSE,Arkansas,60,Razorbacks,Arkansas Razorbacks,Arkansas
+243390008,2005,regular-season,2004-12-04,2,356,away,FALSE,Illinois,72,Fighting Illini,Illinois Fighting Illini,Illinois
+243390197,2005,regular-season,2004-12-04,2,197,home,FALSE,Oklahoma State,81,Cowboys,Oklahoma State Cowboys,Oklahoma St
+243390197,2005,regular-season,2004-12-04,2,265,away,FALSE,Washington State,29,Cougars,Washington State Cougars,Washington St
+243390041,2005,regular-season,2004-12-04,2,41,home,FALSE,UConn,74,Huskies,UConn Huskies,UConn
+243390041,2005,regular-season,2004-12-04,2,84,away,FALSE,Indiana,69,Hoosiers,Indiana Hoosiers,Indiana
+243390153,2005,regular-season,2004-12-04,2,153,home,FALSE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
+243390153,2005,regular-season,2004-12-04,2,96,away,FALSE,Kentucky,78,Wildcats,Kentucky Wildcats,Kentucky
+243392674,2005,regular-season,2004-12-04,2,2674,home,FALSE,Valparaiso,61,Beacons,Valparaiso Beacons,Valparaiso
+243392674,2005,regular-season,2004-12-04,2,150,away,FALSE,Duke,93,Blue Devils,Duke Blue Devils,Duke
+243390045,2005,regular-season,2004-12-04,2,45,home,FALSE,George Washington,96,Revolutionaries,George Washington Revolutionaries,G Washington
+243390045,2005,regular-season,2004-12-04,2,127,away,FALSE,Michigan State,83,Spartans,Michigan State Spartans,Michigan St
+243390120,2005,regular-season,2004-12-04,2,120,home,FALSE,Maryland,78,Terrapins,Maryland Terrapins,Maryland
+243390120,2005,regular-season,2004-12-04,2,2244,away,FALSE,George Mason,54,Patriots,George Mason Patriots,George Mason
+243390221,2005,regular-season,2004-12-04,2,221,home,FALSE,Pittsburgh,87,Panthers,Pittsburgh Panthers,Pitt
+243390221,2005,regular-season,2004-12-04,2,2184,away,FALSE,Duquesne,57,Dukes,Duquesne Dukes,Duquesne
+243390097,2005,regular-season,2004-12-04,2,97,home,FALSE,Louisville,98,Cardinals,Louisville Cardinals,Louisville
+243390097,2005,regular-season,2004-12-04,2,322,away,FALSE,Lafayette,57,Leopards,Lafayette Leopards,Lafayette
+243392550,2005,regular-season,2004-12-04,2,2550,home,FALSE,Seton Hall,62,Pirates,Seton Hall Pirates,Seton Hall
+243392550,2005,regular-season,2004-12-04,2,251,away,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas
+243390057,2005,regular-season,2004-12-04,2,57,home,FALSE,Florida,65,Gators,Florida Gators,Florida
+243390057,2005,regular-season,2004-12-04,2,2390,away,FALSE,Miami,72,Hurricanes,Miami Hurricanes,Miami
+243390130,2005,regular-season,2004-12-04,2,130,home,FALSE,Michigan,61,Wolverines,Michigan Wolverines,Michigan
+243390130,2005,regular-season,2004-12-04,2,87,away,FALSE,Notre Dame,60,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+243392429,2005,regular-season,2004-12-04,5,2429,home,FALSE,Charlotte,101,49ers,Charlotte 49ers,Charlotte
+243392429,2005,regular-season,2004-12-04,5,333,away,FALSE,Alabama,102,Crimson Tide,Alabama Crimson Tide,Alabama
+243392294,2005,regular-season,2004-12-04,2,2294,home,FALSE,Iowa,83,Hawkeyes,Iowa Hawkeyes,Iowa
+243392294,2005,regular-season,2004-12-04,2,2430,away,FALSE,UNC Greensboro,58,Spartans,UNC Greensboro Spartans,UNC Greensboro
+243390164,2005,regular-season,2004-12-04,2,164,home,FALSE,Rutgers,62,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+243390164,2005,regular-season,2004-12-04,2,275,away,FALSE,Wisconsin,70,Badgers,Wisconsin Badgers,Wisconsin

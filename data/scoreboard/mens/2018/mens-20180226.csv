@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400986283,2018-02-26,2,259,home,FALSE,Virginia Tech,64,Hokies,Virginia Tech Hokies,Virginia Tech
-400986283,2018-02-26,2,150,away,FALSE,Duke,63,Blue Devils,Duke Blue Devils,Duke
-400989192,2018-02-26,2,2305,home,FALSE,Kansas,80,Jayhawks,Kansas Jayhawks,Kansas
-400989192,2018-02-26,2,251,away,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas
-400989274,2018-02-26,2,277,home,FALSE,West Virginia,84,Mountaineers,West Virginia Mountaineers,West Virginia
-400989274,2018-02-26,2,2641,away,FALSE,Texas Tech,74,Red Raiders,Texas Tech Red Raiders,Texas Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400986283,2018,regular-season,2018-02-26,2,259,home,FALSE,Virginia Tech,64,Hokies,Virginia Tech Hokies,Virginia Tech
+400986283,2018,regular-season,2018-02-26,2,150,away,FALSE,Duke,63,Blue Devils,Duke Blue Devils,Duke
+400989192,2018,regular-season,2018-02-26,2,2305,home,FALSE,Kansas,80,Jayhawks,Kansas Jayhawks,Kansas
+400989192,2018,regular-season,2018-02-26,2,251,away,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas
+400989274,2018,regular-season,2018-02-26,2,277,home,FALSE,West Virginia,84,Mountaineers,West Virginia Mountaineers,West Virginia
+400989274,2018,regular-season,2018-02-26,2,2641,away,FALSE,Texas Tech,74,Red Raiders,Texas Tech Red Raiders,Texas Tech

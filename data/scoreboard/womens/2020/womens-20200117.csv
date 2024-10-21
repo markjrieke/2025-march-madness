@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401172133,2020-01-17,6,30,home,FALSE,USC,70,Trojans,USC Trojans,USC
-401172133,2020-01-17,6,26,away,FALSE,UCLA,68,Bruins,UCLA Bruins,UCLA
-401172132,2020-01-17,4,204,home,FALSE,Oregon State,81,Beavers,Oregon State Beavers,Oregon St
-401172132,2020-01-17,4,25,away,FALSE,California,44,Golden Bears,California Golden Bears,California
-401177612,2020-01-17,4,2752,home,FALSE,Xavier,68,Musketeers,Xavier Musketeers,Xavier
-401177612,2020-01-17,4,305,away,FALSE,DePaul,91,Blue Demons,DePaul Blue Demons,DePaul
-401172131,2020-01-17,4,264,home,FALSE,Washington,50,Huskies,Washington Huskies,Washington
-401172131,2020-01-17,4,9,away,FALSE,Arizona State,67,Sun Devils,Arizona State Sun Devils,Arizona St
-401179850,2020-01-17,4,79,home,FALSE,Southern Illinois,70,Salukis,Southern Illinois Salukis,S Illinois
-401179850,2020-01-17,4,2623,away,FALSE,Missouri State,68,Lady Bears,Missouri State Lady Bears,Missouri St
-401172130,2020-01-17,4,265,home,FALSE,Washington State,67,Cougars,Washington State Cougars,Washington St
-401172130,2020-01-17,4,12,away,FALSE,Arizona,74,Wildcats,Arizona Wildcats,Arizona
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401172133,2020,regular-season,2020-01-17,6,30,home,FALSE,USC,70,Trojans,USC Trojans,USC
+401172133,2020,regular-season,2020-01-17,6,26,away,FALSE,UCLA,68,Bruins,UCLA Bruins,UCLA
+401172132,2020,regular-season,2020-01-17,4,204,home,FALSE,Oregon State,81,Beavers,Oregon State Beavers,Oregon St
+401172132,2020,regular-season,2020-01-17,4,25,away,FALSE,California,44,Golden Bears,California Golden Bears,California
+401177612,2020,regular-season,2020-01-17,4,2752,home,FALSE,Xavier,68,Musketeers,Xavier Musketeers,Xavier
+401177612,2020,regular-season,2020-01-17,4,305,away,FALSE,DePaul,91,Blue Demons,DePaul Blue Demons,DePaul
+401172131,2020,regular-season,2020-01-17,4,264,home,FALSE,Washington,50,Huskies,Washington Huskies,Washington
+401172131,2020,regular-season,2020-01-17,4,9,away,FALSE,Arizona State,67,Sun Devils,Arizona State Sun Devils,Arizona St
+401179850,2020,regular-season,2020-01-17,4,79,home,FALSE,Southern Illinois,70,Salukis,Southern Illinois Salukis,S Illinois
+401179850,2020,regular-season,2020-01-17,4,2623,away,FALSE,Missouri State,68,Lady Bears,Missouri State Lady Bears,Missouri St
+401172130,2020,regular-season,2020-01-17,4,265,home,FALSE,Washington State,67,Cougars,Washington State Cougars,Washington St
+401172130,2020,regular-season,2020-01-17,4,12,away,FALSE,Arizona,74,Wildcats,Arizona Wildcats,Arizona

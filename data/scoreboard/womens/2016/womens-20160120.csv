@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400834765,2016-01-20,4,41,home,FALSE,UConn,106,Huskies,UConn Huskies,UConn
-400834765,2016-01-20,4,2116,away,FALSE,UCF,51,Knights,UCF Knights,UCF
-400834854,2016-01-20,4,275,home,FALSE,Wisconsin,65,Badgers,Wisconsin Badgers,Wisconsin
-400834854,2016-01-20,4,120,away,FALSE,Maryland,90,Terrapins,Maryland Terrapins,Maryland
-400832076,2016-01-20,4,2628,home,FALSE,TCU,58,Horned Frogs,TCU Horned Frogs,TCU
-400832076,2016-01-20,4,251,away,FALSE,Texas,65,Longhorns,Texas Longhorns,Texas
-400835027,2016-01-20,5,235,home,FALSE,Memphis,88,Tigers,Memphis Tigers,Memphis
-400835027,2016-01-20,5,58,away,FALSE,South Florida,87,Bulls,South Florida Bulls,South Florida
-400832358,2016-01-20,4,201,home,FALSE,Oklahoma,92,Sooners,Oklahoma Sooners,Oklahoma
-400832358,2016-01-20,4,2641,away,FALSE,Texas Tech,53,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400834765,2016,regular-season,2016-01-20,4,41,home,FALSE,UConn,106,Huskies,UConn Huskies,UConn
+400834765,2016,regular-season,2016-01-20,4,2116,away,FALSE,UCF,51,Knights,UCF Knights,UCF
+400834854,2016,regular-season,2016-01-20,4,275,home,FALSE,Wisconsin,65,Badgers,Wisconsin Badgers,Wisconsin
+400834854,2016,regular-season,2016-01-20,4,120,away,FALSE,Maryland,90,Terrapins,Maryland Terrapins,Maryland
+400832076,2016,regular-season,2016-01-20,4,2628,home,FALSE,TCU,58,Horned Frogs,TCU Horned Frogs,TCU
+400832076,2016,regular-season,2016-01-20,4,251,away,FALSE,Texas,65,Longhorns,Texas Longhorns,Texas
+400835027,2016,regular-season,2016-01-20,5,235,home,FALSE,Memphis,88,Tigers,Memphis Tigers,Memphis
+400835027,2016,regular-season,2016-01-20,5,58,away,FALSE,South Florida,87,Bulls,South Florida Bulls,South Florida
+400832358,2016,regular-season,2016-01-20,4,201,home,FALSE,Oklahoma,92,Sooners,Oklahoma Sooners,Oklahoma
+400832358,2016,regular-season,2016-01-20,4,2641,away,FALSE,Texas Tech,53,Lady Raiders,Texas Tech Lady Raiders,Texas Tech

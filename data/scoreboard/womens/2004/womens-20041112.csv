@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243170150,2004-11-12,2,150,home,FALSE,Duke,89,Blue Devils,Duke Blue Devils,Duke
-243170150,2004-11-12,2,2166,away,FALSE,Davidson,69,Wildcats,Davidson Wildcats,Davidson
-243170194,2004-11-12,2,194,home,FALSE,Ohio State,89,Buckeyes,Ohio State Buckeyes,Ohio State
-243170194,2004-11-12,2,189,away,FALSE,Bowling Green,41,Falcons,Bowling Green Falcons,Bowling Green
-243170087,2004-11-12,2,87,home,FALSE,Notre Dame,92,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-243170087,2004-11-12,2,2287,away,FALSE,Illinois State,73,Redbirds,Illinois State Redbirds,Illinois St
-243170012,2004-11-12,2,12,home,FALSE,Arizona,87,Wildcats,Arizona Wildcats,Arizona
-243170012,2004-11-12,2,2608,away,FALSE,Saint Mary's,72,Gaels,Saint Mary's Gaels,Saint Mary's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243170150,2005,regular-season,2004-11-12,2,150,home,FALSE,Duke,89,Blue Devils,Duke Blue Devils,Duke
+243170150,2005,regular-season,2004-11-12,2,2166,away,FALSE,Davidson,69,Wildcats,Davidson Wildcats,Davidson
+243170194,2005,regular-season,2004-11-12,2,194,home,FALSE,Ohio State,89,Buckeyes,Ohio State Buckeyes,Ohio State
+243170194,2005,regular-season,2004-11-12,2,189,away,FALSE,Bowling Green,41,Falcons,Bowling Green Falcons,Bowling Green
+243170087,2005,regular-season,2004-11-12,2,87,home,FALSE,Notre Dame,92,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+243170087,2005,regular-season,2004-11-12,2,2287,away,FALSE,Illinois State,73,Redbirds,Illinois State Redbirds,Illinois St
+243170012,2005,regular-season,2004-11-12,2,12,home,FALSE,Arizona,87,Wildcats,Arizona Wildcats,Arizona
+243170012,2005,regular-season,2004-11-12,2,2608,away,FALSE,Saint Mary's,72,Gaels,Saint Mary's Gaels,Saint Mary's

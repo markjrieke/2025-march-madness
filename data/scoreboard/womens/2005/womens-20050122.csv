@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250220251,2005-01-22,2,251,home,FALSE,Texas,69,Longhorns,Texas Longhorns,Texas
-250220251,2005-01-22,2,239,away,FALSE,Baylor,55,Bears,Baylor Bears,Baylor
-250220024,2005-01-22,2,24,home,FALSE,Stanford,94,Cardinal,Stanford Cardinal,Stanford
-250220024,2005-01-22,2,30,away,FALSE,USC,58,Trojans,USC Trojans,USC
-250222641,2005-01-22,2,2641,home,FALSE,Texas Tech,53,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-250222641,2005-01-22,2,2306,away,FALSE,Kansas State,55,Wildcats,Kansas State Wildcats,Kansas St
-250220041,2005-01-22,2,41,home,FALSE,UConn,64,Huskies,UConn Huskies,UConn
-250220041,2005-01-22,2,2550,away,FALSE,Seton Hall,47,Pirates,Seton Hall Pirates,Seton Hall
-250220066,2005-01-22,2,66,home,FALSE,Iowa State,74,Cyclones,Iowa State Cyclones,Iowa State
-250220066,2005-01-22,2,158,away,FALSE,Nebraska,54,Cornhuskers,Nebraska Cornhuskers,Nebraska
-250220025,2005-01-22,2,25,home,FALSE,California,70,Golden Bears,California Golden Bears,California
-250220025,2005-01-22,2,26,away,FALSE,UCLA,85,Bruins,UCLA Bruins,UCLA
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250220251,2005,regular-season,2005-01-22,2,251,home,FALSE,Texas,69,Longhorns,Texas Longhorns,Texas
+250220251,2005,regular-season,2005-01-22,2,239,away,FALSE,Baylor,55,Bears,Baylor Bears,Baylor
+250220024,2005,regular-season,2005-01-22,2,24,home,FALSE,Stanford,94,Cardinal,Stanford Cardinal,Stanford
+250220024,2005,regular-season,2005-01-22,2,30,away,FALSE,USC,58,Trojans,USC Trojans,USC
+250222641,2005,regular-season,2005-01-22,2,2641,home,FALSE,Texas Tech,53,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+250222641,2005,regular-season,2005-01-22,2,2306,away,FALSE,Kansas State,55,Wildcats,Kansas State Wildcats,Kansas St
+250220041,2005,regular-season,2005-01-22,2,41,home,FALSE,UConn,64,Huskies,UConn Huskies,UConn
+250220041,2005,regular-season,2005-01-22,2,2550,away,FALSE,Seton Hall,47,Pirates,Seton Hall Pirates,Seton Hall
+250220066,2005,regular-season,2005-01-22,2,66,home,FALSE,Iowa State,74,Cyclones,Iowa State Cyclones,Iowa State
+250220066,2005,regular-season,2005-01-22,2,158,away,FALSE,Nebraska,54,Cornhuskers,Nebraska Cornhuskers,Nebraska
+250220025,2005,regular-season,2005-01-22,2,25,home,FALSE,California,70,Golden Bears,California Golden Bears,California
+250220025,2005,regular-season,2005-01-22,2,26,away,FALSE,UCLA,85,Bruins,UCLA Bruins,UCLA

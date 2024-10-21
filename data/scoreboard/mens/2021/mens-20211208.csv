@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401372550,2021-12-08,2,12,home,FALSE,Arizona,94,Wildcats,Arizona Wildcats,Arizona
-401372550,2021-12-08,2,2751,away,FALSE,Wyoming,65,Cowboys,Wyoming Cowboys,Wyoming
-401364350,2021-12-08,2,135,home,FALSE,Minnesota,67,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401364350,2021-12-08,2,127,away,FALSE,Michigan State,75,Spartans,Michigan State Spartans,Michigan St
-401369193,2021-12-08,2,57,home,FALSE,Florida,85,Gators,Florida Gators,Florida
-401369193,2021-12-08,2,2454,away,FALSE,North Florida,55,Ospreys,North Florida Ospreys,North Florida
-401372157,2021-12-08,2,194,home,FALSE,Ohio State,85,Buckeyes,Ohio State Buckeyes,Ohio State
-401372157,2021-12-08,2,119,away,FALSE,Towson,74,Tigers,Towson Tigers,Towson
-401364349,2021-12-08,2,275,home,FALSE,Wisconsin,64,Badgers,Wisconsin Badgers,Wisconsin
-401364349,2021-12-08,2,84,away,FALSE,Indiana,59,Hoosiers,Indiana Hoosiers,Indiana
-401371286,2021-12-08,2,252,home,FALSE,BYU,82,Cougars,BYU Cougars,BYU
-401371286,2021-12-08,2,328,away,FALSE,Utah State,71,Aggies,Utah State Aggies,Utah State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401372550,2022,regular-season,2021-12-08,2,12,home,FALSE,Arizona,94,Wildcats,Arizona Wildcats,Arizona
+401372550,2022,regular-season,2021-12-08,2,2751,away,FALSE,Wyoming,65,Cowboys,Wyoming Cowboys,Wyoming
+401364350,2022,regular-season,2021-12-08,2,135,home,FALSE,Minnesota,67,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401364350,2022,regular-season,2021-12-08,2,127,away,FALSE,Michigan State,75,Spartans,Michigan State Spartans,Michigan St
+401369193,2022,regular-season,2021-12-08,2,57,home,FALSE,Florida,85,Gators,Florida Gators,Florida
+401369193,2022,regular-season,2021-12-08,2,2454,away,FALSE,North Florida,55,Ospreys,North Florida Ospreys,North Florida
+401372157,2022,regular-season,2021-12-08,2,194,home,FALSE,Ohio State,85,Buckeyes,Ohio State Buckeyes,Ohio State
+401372157,2022,regular-season,2021-12-08,2,119,away,FALSE,Towson,74,Tigers,Towson Tigers,Towson
+401364349,2022,regular-season,2021-12-08,2,275,home,FALSE,Wisconsin,64,Badgers,Wisconsin Badgers,Wisconsin
+401364349,2022,regular-season,2021-12-08,2,84,away,FALSE,Indiana,59,Hoosiers,Indiana Hoosiers,Indiana
+401371286,2022,regular-season,2021-12-08,2,252,home,FALSE,BYU,82,Cougars,BYU Cougars,BYU
+401371286,2022,regular-season,2021-12-08,2,328,away,FALSE,Utah State,71,Aggies,Utah State Aggies,Utah State

@@ -1,61 +1,61 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400987193,2017-11-23,2,299,home,TRUE,Long Beach State,58,Beach,Long Beach State Beach,Long Beach St
-400987193,2017-11-23,2,142,away,TRUE,Missouri,95,Tigers,Missouri Tigers,Missouri
-400990602,2017-11-23,2,2378,home,FALSE,UMBC,84,Retrievers,UMBC Retrievers,UMBC
-400990602,2017-11-23,2,2130,away,FALSE,Chicago State,73,Cougars,Chicago State Cougars,Chicago St
-401000100,2017-11-23,2,222,home,TRUE,Villanova,85,Wildcats,Villanova Wildcats,Villanova
-401000100,2017-11-23,2,2633,away,TRUE,Tennessee,76,Volunteers,Tennessee Volunteers,Tennessee
-400991242,2017-11-23,2,2261,home,TRUE,Hampton,76,Pirates,Hampton Pirates,Hampton
-400991242,2017-11-23,2,2464,away,TRUE,Northern Arizona,66,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
-400988225,2017-11-23,2,204,home,TRUE,Oregon State,77,Beavers,Oregon State Beavers,Oregon St
-400988225,2017-11-23,2,2599,away,TRUE,St. John's,82,Red Storm,St. John's Red Storm,St John's
-400988921,2017-11-23,2,2506,home,TRUE,Presbyterian,64,Blue Hose,Presbyterian Blue Hose,Presbyterian
-400988921,2017-11-23,2,2447,away,TRUE,Nicholls,76,Colonels,Nicholls Colonels,Nicholls
-400986086,2017-11-23,2,153,home,TRUE,North Carolina,102,Tar Heels,North Carolina Tar Heels,North Carolina
-400986086,2017-11-23,2,2501,away,TRUE,Portland,78,Pilots,Portland Pilots,Portland
-401000101,2017-11-23,2,2460,home,TRUE,Northern Iowa,64,Panthers,Northern Iowa Panthers,Northern Iowa
-401000101,2017-11-23,2,152,away,TRUE,NC State,60,Wolfpack,NC State Wolfpack,NC State
-400991654,2017-11-23,2,108,home,TRUE,Harvard,71,Crimson,Harvard Crimson,Harvard
-400991654,2017-11-23,2,2608,away,TRUE,Saint Mary's,89,Gaels,Saint Mary's Gaels,Saint Mary's
-400986087,2017-11-23,2,238,home,TRUE,Vanderbilt,42,Commodores,Vanderbilt Commodores,Vanderbilt
-400986087,2017-11-23,2,258,away,TRUE,Virginia,68,Cavaliers,Virginia Cavaliers,Virginia
-400986088,2017-11-23,2,150,home,TRUE,Duke,99,Blue Devils,Duke Blue Devils,Duke
-400986088,2017-11-23,2,2502,away,TRUE,Portland State,81,Vikings,Portland State Vikings,Portland St
-400988494,2017-11-23,2,2752,home,TRUE,Xavier,83,Musketeers,Xavier Musketeers,Xavier
-400988494,2017-11-23,2,45,away,TRUE,George Washington,64,Revolutionaries,George Washington Revolutionaries,G Washington
-400987195,2017-11-23,2,201,home,TRUE,Oklahoma,83,Sooners,Oklahoma Sooners,Oklahoma
-400987195,2017-11-23,2,8,away,TRUE,Arkansas,92,Razorbacks,Arkansas Razorbacks,Arkansas
-400988495,2017-11-23,2,2550,home,TRUE,Seton Hall,74,Pirates,Seton Hall Pirates,Seton Hall
-400988495,2017-11-23,2,227,away,TRUE,Rhode Island,75,Rams,Rhode Island Rams,Rhode Island
-400986382,2017-11-23,2,158,home,TRUE,Nebraska,59,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400986382,2017-11-23,2,2116,away,TRUE,UCF,68,Knights,UCF Knights,UCF
-400988226,2017-11-23,2,265,home,TRUE,Washington State,75,Cougars,Washington State Cougars,Washington St
-400988226,2017-11-23,2,2603,away,TRUE,Saint Joseph's,71,Hawks,Saint Joseph's Hawks,Saint Joseph's
-401000102,2017-11-23,2,98,home,TRUE,Western Kentucky,77,Hilltoppers,Western Kentucky Hilltoppers,Western KY
-401000102,2017-11-23,2,2509,away,TRUE,Purdue,73,Boilermakers,Purdue Boilermakers,Purdue
-400988496,2017-11-23,2,251,home,TRUE,Texas,61,Longhorns,Texas Longhorns,Texas
-400988496,2017-11-23,2,2086,away,TRUE,Butler,48,Bulldogs,Butler Bulldogs,Butler
-400988227,2017-11-23,2,2306,home,TRUE,Kansas State,90,Wildcats,Kansas State Wildcats,Kansas St
-400988227,2017-11-23,2,9,away,TRUE,Arizona State,92,Sun Devils,Arizona State Sun Devils,Arizona St
-400989278,2017-11-23,2,2368,home,TRUE,Marist,78,Red Foxes,Marist Red Foxes,Marist
-400989278,2017-11-23,2,277,away,TRUE,West Virginia,84,Mountaineers,West Virginia Mountaineers,West Virginia
-400987964,2017-11-23,2,2483,home,TRUE,Oregon,63,Ducks,Oregon Ducks,Oregon
-400987964,2017-11-23,2,41,away,TRUE,UConn,71,Huskies,UConn Huskies,UConn
-401002121,2017-11-23,2,2534,home,TRUE,Sam Houston,49,Bearkats,Sam Houston Bearkats,Sam Houston
-401002121,2017-11-23,2,232,away,TRUE,Charleston,59,Cougars,Charleston Cougars,Charleston
-401000103,2017-11-23,2,2567,home,TRUE,SMU,66,Mustangs,SMU Mustangs,SMU
-401000103,2017-11-23,2,12,away,TRUE,Arizona,60,Wildcats,Arizona Wildcats,Arizona
-400991073,2017-11-23,2,2520,home,TRUE,Rider,90,Broncs,Rider Broncs,Rider
-400991073,2017-11-23,2,300,away,TRUE,UC Irvine,82,Anteaters,UC Irvine Anteaters,UC Irvine
-400987196,2017-11-23,2,24,home,TRUE,Stanford,87,Cardinal,Stanford Cardinal,Stanford
-400987196,2017-11-23,2,57,away,TRUE,Florida,108,Gators,Florida Gators,Florida
-400987194,2017-11-23,2,2239,home,FALSE,Cal State Fullerton,57,Titans,Cal State Fullerton Titans,Fullerton
-400987194,2017-11-23,2,61,away,FALSE,Georgia,64,Bulldogs,Georgia Bulldogs,Georgia
-400986381,2017-11-23,2,305,home,TRUE,DePaul,51,Blue Demons,DePaul Blue Demons,DePaul
-400986381,2017-11-23,2,127,away,TRUE,Michigan State,73,Spartans,Michigan State Spartans,Michigan St
-401002122,2017-11-23,3,1,home,FALSE,Alaska Anchorage,78,Seawolves,Alaska Anchorage Seawolves,AK-Anchorage
-401002122,2017-11-23,3,2541,away,FALSE,Santa Clara,73,Broncos,Santa Clara Broncos,Santa Clara
-400986383,2017-11-23,2,2250,home,TRUE,Gonzaga,86,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400986383,2017-11-23,2,194,away,TRUE,Ohio State,59,Buckeyes,Ohio State Buckeyes,Ohio State
-400992969,2017-11-23,2,16,home,TRUE,Sacramento State,52,Hornets,Sacramento State Hornets,Sacramento St
-400992969,2017-11-23,2,21,away,TRUE,San Diego State,89,Aztecs,San Diego State Aztecs,San Diego St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400987193,2018,regular-season,2017-11-23,2,299,home,TRUE,Long Beach State,58,Beach,Long Beach State Beach,Long Beach St
+400987193,2018,regular-season,2017-11-23,2,142,away,TRUE,Missouri,95,Tigers,Missouri Tigers,Missouri
+400990602,2018,regular-season,2017-11-23,2,2378,home,FALSE,UMBC,84,Retrievers,UMBC Retrievers,UMBC
+400990602,2018,regular-season,2017-11-23,2,2130,away,FALSE,Chicago State,73,Cougars,Chicago State Cougars,Chicago St
+401000100,2018,regular-season,2017-11-23,2,222,home,TRUE,Villanova,85,Wildcats,Villanova Wildcats,Villanova
+401000100,2018,regular-season,2017-11-23,2,2633,away,TRUE,Tennessee,76,Volunteers,Tennessee Volunteers,Tennessee
+400991242,2018,regular-season,2017-11-23,2,2261,home,TRUE,Hampton,76,Pirates,Hampton Pirates,Hampton
+400991242,2018,regular-season,2017-11-23,2,2464,away,TRUE,Northern Arizona,66,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+400988225,2018,regular-season,2017-11-23,2,204,home,TRUE,Oregon State,77,Beavers,Oregon State Beavers,Oregon St
+400988225,2018,regular-season,2017-11-23,2,2599,away,TRUE,St. John's,82,Red Storm,St. John's Red Storm,St John's
+400988921,2018,regular-season,2017-11-23,2,2506,home,TRUE,Presbyterian,64,Blue Hose,Presbyterian Blue Hose,Presbyterian
+400988921,2018,regular-season,2017-11-23,2,2447,away,TRUE,Nicholls,76,Colonels,Nicholls Colonels,Nicholls
+400986086,2018,regular-season,2017-11-23,2,153,home,TRUE,North Carolina,102,Tar Heels,North Carolina Tar Heels,North Carolina
+400986086,2018,regular-season,2017-11-23,2,2501,away,TRUE,Portland,78,Pilots,Portland Pilots,Portland
+401000101,2018,regular-season,2017-11-23,2,2460,home,TRUE,Northern Iowa,64,Panthers,Northern Iowa Panthers,Northern Iowa
+401000101,2018,regular-season,2017-11-23,2,152,away,TRUE,NC State,60,Wolfpack,NC State Wolfpack,NC State
+400991654,2018,regular-season,2017-11-23,2,108,home,TRUE,Harvard,71,Crimson,Harvard Crimson,Harvard
+400991654,2018,regular-season,2017-11-23,2,2608,away,TRUE,Saint Mary's,89,Gaels,Saint Mary's Gaels,Saint Mary's
+400986087,2018,regular-season,2017-11-23,2,238,home,TRUE,Vanderbilt,42,Commodores,Vanderbilt Commodores,Vanderbilt
+400986087,2018,regular-season,2017-11-23,2,258,away,TRUE,Virginia,68,Cavaliers,Virginia Cavaliers,Virginia
+400986088,2018,regular-season,2017-11-23,2,150,home,TRUE,Duke,99,Blue Devils,Duke Blue Devils,Duke
+400986088,2018,regular-season,2017-11-23,2,2502,away,TRUE,Portland State,81,Vikings,Portland State Vikings,Portland St
+400988494,2018,regular-season,2017-11-23,2,2752,home,TRUE,Xavier,83,Musketeers,Xavier Musketeers,Xavier
+400988494,2018,regular-season,2017-11-23,2,45,away,TRUE,George Washington,64,Revolutionaries,George Washington Revolutionaries,G Washington
+400987195,2018,regular-season,2017-11-23,2,201,home,TRUE,Oklahoma,83,Sooners,Oklahoma Sooners,Oklahoma
+400987195,2018,regular-season,2017-11-23,2,8,away,TRUE,Arkansas,92,Razorbacks,Arkansas Razorbacks,Arkansas
+400988495,2018,regular-season,2017-11-23,2,2550,home,TRUE,Seton Hall,74,Pirates,Seton Hall Pirates,Seton Hall
+400988495,2018,regular-season,2017-11-23,2,227,away,TRUE,Rhode Island,75,Rams,Rhode Island Rams,Rhode Island
+400986382,2018,regular-season,2017-11-23,2,158,home,TRUE,Nebraska,59,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400986382,2018,regular-season,2017-11-23,2,2116,away,TRUE,UCF,68,Knights,UCF Knights,UCF
+400988226,2018,regular-season,2017-11-23,2,265,home,TRUE,Washington State,75,Cougars,Washington State Cougars,Washington St
+400988226,2018,regular-season,2017-11-23,2,2603,away,TRUE,Saint Joseph's,71,Hawks,Saint Joseph's Hawks,Saint Joseph's
+401000102,2018,regular-season,2017-11-23,2,98,home,TRUE,Western Kentucky,77,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+401000102,2018,regular-season,2017-11-23,2,2509,away,TRUE,Purdue,73,Boilermakers,Purdue Boilermakers,Purdue
+400988496,2018,regular-season,2017-11-23,2,251,home,TRUE,Texas,61,Longhorns,Texas Longhorns,Texas
+400988496,2018,regular-season,2017-11-23,2,2086,away,TRUE,Butler,48,Bulldogs,Butler Bulldogs,Butler
+400988227,2018,regular-season,2017-11-23,2,2306,home,TRUE,Kansas State,90,Wildcats,Kansas State Wildcats,Kansas St
+400988227,2018,regular-season,2017-11-23,2,9,away,TRUE,Arizona State,92,Sun Devils,Arizona State Sun Devils,Arizona St
+400989278,2018,regular-season,2017-11-23,2,2368,home,TRUE,Marist,78,Red Foxes,Marist Red Foxes,Marist
+400989278,2018,regular-season,2017-11-23,2,277,away,TRUE,West Virginia,84,Mountaineers,West Virginia Mountaineers,West Virginia
+400987964,2018,regular-season,2017-11-23,2,2483,home,TRUE,Oregon,63,Ducks,Oregon Ducks,Oregon
+400987964,2018,regular-season,2017-11-23,2,41,away,TRUE,UConn,71,Huskies,UConn Huskies,UConn
+401002121,2018,regular-season,2017-11-23,2,2534,home,TRUE,Sam Houston,49,Bearkats,Sam Houston Bearkats,Sam Houston
+401002121,2018,regular-season,2017-11-23,2,232,away,TRUE,Charleston,59,Cougars,Charleston Cougars,Charleston
+401000103,2018,regular-season,2017-11-23,2,2567,home,TRUE,SMU,66,Mustangs,SMU Mustangs,SMU
+401000103,2018,regular-season,2017-11-23,2,12,away,TRUE,Arizona,60,Wildcats,Arizona Wildcats,Arizona
+400991073,2018,regular-season,2017-11-23,2,2520,home,TRUE,Rider,90,Broncs,Rider Broncs,Rider
+400991073,2018,regular-season,2017-11-23,2,300,away,TRUE,UC Irvine,82,Anteaters,UC Irvine Anteaters,UC Irvine
+400987196,2018,regular-season,2017-11-23,2,24,home,TRUE,Stanford,87,Cardinal,Stanford Cardinal,Stanford
+400987196,2018,regular-season,2017-11-23,2,57,away,TRUE,Florida,108,Gators,Florida Gators,Florida
+400987194,2018,regular-season,2017-11-23,2,2239,home,FALSE,Cal State Fullerton,57,Titans,Cal State Fullerton Titans,Fullerton
+400987194,2018,regular-season,2017-11-23,2,61,away,FALSE,Georgia,64,Bulldogs,Georgia Bulldogs,Georgia
+400986381,2018,regular-season,2017-11-23,2,305,home,TRUE,DePaul,51,Blue Demons,DePaul Blue Demons,DePaul
+400986381,2018,regular-season,2017-11-23,2,127,away,TRUE,Michigan State,73,Spartans,Michigan State Spartans,Michigan St
+401002122,2018,regular-season,2017-11-23,3,1,home,FALSE,Alaska Anchorage,78,Seawolves,Alaska Anchorage Seawolves,AK-Anchorage
+401002122,2018,regular-season,2017-11-23,3,2541,away,FALSE,Santa Clara,73,Broncos,Santa Clara Broncos,Santa Clara
+400986383,2018,regular-season,2017-11-23,2,2250,home,TRUE,Gonzaga,86,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400986383,2018,regular-season,2017-11-23,2,194,away,TRUE,Ohio State,59,Buckeyes,Ohio State Buckeyes,Ohio State
+400992969,2018,regular-season,2017-11-23,2,16,home,TRUE,Sacramento State,52,Hornets,Sacramento State Hornets,Sacramento St
+400992969,2018,regular-season,2017-11-23,2,21,away,TRUE,San Diego State,89,Aztecs,San Diego State Aztecs,San Diego St

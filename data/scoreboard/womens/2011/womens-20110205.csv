@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310360041,2011-02-05,2,41,home,FALSE,UConn,89,Huskies,UConn Huskies,UConn
-310360041,2011-02-05,2,305,away,FALSE,DePaul,66,Blue Demons,DePaul Blue Demons,DePaul
-310360012,2011-02-05,2,12,home,FALSE,Arizona,61,Wildcats,Arizona Wildcats,Arizona
-310360012,2011-02-05,2,24,away,FALSE,Stanford,91,Cardinal,Stanford Cardinal,Stanford
-310360245,2011-02-05,2,2641,home,FALSE,Texas Tech,65,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-310360245,2011-02-05,2,245,away,FALSE,Texas A&M,79,Aggies,Texas A&M Aggies,Texas A&M
-310362168,2011-02-05,3,2168,home,FALSE,Dayton,66,Flyers,Dayton Flyers,Dayton
-310362168,2011-02-05,3,2752,away,FALSE,Xavier,70,Musketeers,Xavier Musketeers,Xavier
-310360058,2011-02-05,2,58,home,FALSE,South Florida,68,Bulls,South Florida Bulls,South Florida
-310360058,2011-02-05,2,87,away,FALSE,Notre Dame,76,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-310360201,2011-02-05,2,201,home,FALSE,Oklahoma,65,Sooners,Oklahoma Sooners,Oklahoma
-310360201,2011-02-05,2,66,away,FALSE,Iowa State,62,Cyclones,Iowa State Cyclones,Iowa State
-310360277,2011-02-05,2,277,home,FALSE,West Virginia,53,Mountaineers,West Virginia Mountaineers,West Virginia
-310360277,2011-02-05,2,221,away,FALSE,Pittsburgh,60,Panthers,Pittsburgh Panthers,Pitt
-310360046,2011-02-05,2,46,home,FALSE,Georgetown,55,Hoyas,Georgetown Hoyas,Georgetown
-310360046,2011-02-05,2,2132,away,FALSE,Cincinnati,38,Bearcats,Cincinnati Bearcats,Cincinnati
-310362739,2011-02-05,2,2739,home,FALSE,Green Bay,84,Phoenix,Green Bay Phoenix,Green Bay
-310362739,2011-02-05,2,2754,away,FALSE,Youngstown State,25,Penguins,Youngstown State Penguins,Youngstown St
-310360269,2011-02-05,2,269,home,FALSE,Marquette,55,Golden Eagles,Marquette Golden Eagles,Marquette
-310360269,2011-02-05,2,2599,away,FALSE,St. John's,52,Red Storm,St. John's Red Storm,St John's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310360041,2011,regular-season,2011-02-05,2,41,home,FALSE,UConn,89,Huskies,UConn Huskies,UConn
+310360041,2011,regular-season,2011-02-05,2,305,away,FALSE,DePaul,66,Blue Demons,DePaul Blue Demons,DePaul
+310360012,2011,regular-season,2011-02-05,2,12,home,FALSE,Arizona,61,Wildcats,Arizona Wildcats,Arizona
+310360012,2011,regular-season,2011-02-05,2,24,away,FALSE,Stanford,91,Cardinal,Stanford Cardinal,Stanford
+310360245,2011,regular-season,2011-02-05,2,2641,home,FALSE,Texas Tech,65,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+310360245,2011,regular-season,2011-02-05,2,245,away,FALSE,Texas A&M,79,Aggies,Texas A&M Aggies,Texas A&M
+310362168,2011,regular-season,2011-02-05,3,2168,home,FALSE,Dayton,66,Flyers,Dayton Flyers,Dayton
+310362168,2011,regular-season,2011-02-05,3,2752,away,FALSE,Xavier,70,Musketeers,Xavier Musketeers,Xavier
+310360058,2011,regular-season,2011-02-05,2,58,home,FALSE,South Florida,68,Bulls,South Florida Bulls,South Florida
+310360058,2011,regular-season,2011-02-05,2,87,away,FALSE,Notre Dame,76,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+310360201,2011,regular-season,2011-02-05,2,201,home,FALSE,Oklahoma,65,Sooners,Oklahoma Sooners,Oklahoma
+310360201,2011,regular-season,2011-02-05,2,66,away,FALSE,Iowa State,62,Cyclones,Iowa State Cyclones,Iowa State
+310360277,2011,regular-season,2011-02-05,2,277,home,FALSE,West Virginia,53,Mountaineers,West Virginia Mountaineers,West Virginia
+310360277,2011,regular-season,2011-02-05,2,221,away,FALSE,Pittsburgh,60,Panthers,Pittsburgh Panthers,Pitt
+310360046,2011,regular-season,2011-02-05,2,46,home,FALSE,Georgetown,55,Hoyas,Georgetown Hoyas,Georgetown
+310360046,2011,regular-season,2011-02-05,2,2132,away,FALSE,Cincinnati,38,Bearcats,Cincinnati Bearcats,Cincinnati
+310362739,2011,regular-season,2011-02-05,2,2739,home,FALSE,Green Bay,84,Phoenix,Green Bay Phoenix,Green Bay
+310362739,2011,regular-season,2011-02-05,2,2754,away,FALSE,Youngstown State,25,Penguins,Youngstown State Penguins,Youngstown St
+310360269,2011,regular-season,2011-02-05,2,269,home,FALSE,Marquette,55,Golden Eagles,Marquette Golden Eagles,Marquette
+310360269,2011,regular-season,2011-02-05,2,2599,away,FALSE,St. John's,52,Red Storm,St. John's Red Storm,St John's

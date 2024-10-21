@@ -1,35 +1,35 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293190164,2009-11-15,2,164,home,FALSE,Rutgers,66,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-293190164,2009-11-15,2,24,away,FALSE,Stanford,81,Cardinal,Stanford Cardinal,Stanford
-293190194,2009-11-15,2,194,home,FALSE,Ohio State,91,Buckeyes,Ohio State Buckeyes,Ohio State
-293190194,2009-11-15,2,189,away,FALSE,Bowling Green,72,Falcons,Bowling Green Falcons,Bowling Green
-293190087,2009-11-15,2,87,home,FALSE,Notre Dame,102,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-293190087,2009-11-15,2,2029,away,FALSE,Arkansas-Pine Bluff,57,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-293192633,2009-11-15,2,2633,home,FALSE,Tennessee,74,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-293192633,2009-11-15,2,239,away,FALSE,Baylor,65,Bears,Baylor Bears,Baylor
-293190099,2009-11-15,2,99,home,FALSE,LSU,92,Tigers,LSU Tigers,LSU
-293190099,2009-11-15,2,2113,away,FALSE,Centenary (LA),19,Gentlemen,Centenary (LA) Gentlemen,Centenary (LA)
-293190245,2009-11-15,2,245,home,FALSE,Texas A&M,95,Aggies,Texas A&M Aggies,Texas A&M
-293190245,2009-11-15,2,150,away,FALSE,Duke,77,Blue Devils,Duke Blue Devils,Duke
-293190258,2009-11-15,2,258,home,FALSE,Virginia,86,Cavaliers,Virginia Cavaliers,Virginia
-293190258,2009-11-15,2,2363,away,FALSE,Manhattan,68,Jaspers,Manhattan Jaspers,Manhattan
-293190009,2009-11-15,2,9,home,FALSE,Arizona State,73,Sun Devils,Arizona State Sun Devils,Arizona St
-293190009,2009-11-15,2,2571,away,FALSE,South Dakota State,64,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-293190061,2009-11-15,2,61,home,FALSE,Georgia,62,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-293190061,2009-11-15,2,201,away,FALSE,Oklahoma,51,Sooners,Oklahoma Sooners,Oklahoma
-293190305,2009-11-15,2,305,home,FALSE,DePaul,77,Blue Demons,DePaul Blue Demons,DePaul
-293190305,2009-11-15,2,2449,away,FALSE,North Dakota State,65,Bison,North Dakota State Bison,N Dakota St
-293190025,2009-11-15,2,25,home,FALSE,California,100,Golden Bears,California Golden Bears,California
-293190025,2009-11-15,2,304,away,FALSE,Idaho State,43,Bengals,Idaho State Bengals,Idaho St
-293192305,2009-11-15,2,2305,home,FALSE,Kansas,106,Jayhawks,Kansas Jayhawks,Kansas
-293192305,2009-11-15,2,198,away,FALSE,Oral Roberts,80,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-293192174,2009-11-15,2,2174,home,FALSE,Detroit Mercy,62,Titans,Detroit Mercy Titans,Detroit Mercy
-293192174,2009-11-15,2,127,away,FALSE,Michigan State,71,Spartans,Michigan State Spartans,Michigan St
-293190238,2009-11-15,2,238,home,FALSE,Vanderbilt,90,Commodores,Vanderbilt Commodores,Vanderbilt
-293190238,2009-11-15,2,2329,away,FALSE,Lehigh,54,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-293192168,2009-11-15,2,2168,home,FALSE,Dayton,63,Flyers,Dayton Flyers,Dayton
-293192168,2009-11-15,2,97,away,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
-293192393,2009-11-15,2,2393,home,FALSE,Middle Tennessee,78,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-293192393,2009-11-15,2,2116,away,FALSE,UCF,53,Knights,UCF Knights,UCF
-293190344,2009-11-15,2,344,home,FALSE,Mississippi State,80,Bulldogs,Mississippi State Bulldogs,Mississippi St
-293190344,2009-11-15,2,2193,away,FALSE,East Tennessee State,50,Bucs,East Tennessee State Bucs,ETSU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293190164,2010,regular-season,2009-11-15,2,164,home,FALSE,Rutgers,66,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+293190164,2010,regular-season,2009-11-15,2,24,away,FALSE,Stanford,81,Cardinal,Stanford Cardinal,Stanford
+293190194,2010,regular-season,2009-11-15,2,194,home,FALSE,Ohio State,91,Buckeyes,Ohio State Buckeyes,Ohio State
+293190194,2010,regular-season,2009-11-15,2,189,away,FALSE,Bowling Green,72,Falcons,Bowling Green Falcons,Bowling Green
+293190087,2010,regular-season,2009-11-15,2,87,home,FALSE,Notre Dame,102,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+293190087,2010,regular-season,2009-11-15,2,2029,away,FALSE,Arkansas-Pine Bluff,57,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+293192633,2010,regular-season,2009-11-15,2,2633,home,FALSE,Tennessee,74,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+293192633,2010,regular-season,2009-11-15,2,239,away,FALSE,Baylor,65,Bears,Baylor Bears,Baylor
+293190099,2010,regular-season,2009-11-15,2,99,home,FALSE,LSU,92,Tigers,LSU Tigers,LSU
+293190099,2010,regular-season,2009-11-15,2,2113,away,FALSE,Centenary (LA),19,Gentlemen,Centenary (LA) Gentlemen,Centenary (LA)
+293190245,2010,regular-season,2009-11-15,2,245,home,FALSE,Texas A&M,95,Aggies,Texas A&M Aggies,Texas A&M
+293190245,2010,regular-season,2009-11-15,2,150,away,FALSE,Duke,77,Blue Devils,Duke Blue Devils,Duke
+293190258,2010,regular-season,2009-11-15,2,258,home,FALSE,Virginia,86,Cavaliers,Virginia Cavaliers,Virginia
+293190258,2010,regular-season,2009-11-15,2,2363,away,FALSE,Manhattan,68,Jaspers,Manhattan Jaspers,Manhattan
+293190009,2010,regular-season,2009-11-15,2,9,home,FALSE,Arizona State,73,Sun Devils,Arizona State Sun Devils,Arizona St
+293190009,2010,regular-season,2009-11-15,2,2571,away,FALSE,South Dakota State,64,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+293190061,2010,regular-season,2009-11-15,2,61,home,FALSE,Georgia,62,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+293190061,2010,regular-season,2009-11-15,2,201,away,FALSE,Oklahoma,51,Sooners,Oklahoma Sooners,Oklahoma
+293190305,2010,regular-season,2009-11-15,2,305,home,FALSE,DePaul,77,Blue Demons,DePaul Blue Demons,DePaul
+293190305,2010,regular-season,2009-11-15,2,2449,away,FALSE,North Dakota State,65,Bison,North Dakota State Bison,N Dakota St
+293190025,2010,regular-season,2009-11-15,2,25,home,FALSE,California,100,Golden Bears,California Golden Bears,California
+293190025,2010,regular-season,2009-11-15,2,304,away,FALSE,Idaho State,43,Bengals,Idaho State Bengals,Idaho St
+293192305,2010,regular-season,2009-11-15,2,2305,home,FALSE,Kansas,106,Jayhawks,Kansas Jayhawks,Kansas
+293192305,2010,regular-season,2009-11-15,2,198,away,FALSE,Oral Roberts,80,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+293192174,2010,regular-season,2009-11-15,2,2174,home,FALSE,Detroit Mercy,62,Titans,Detroit Mercy Titans,Detroit Mercy
+293192174,2010,regular-season,2009-11-15,2,127,away,FALSE,Michigan State,71,Spartans,Michigan State Spartans,Michigan St
+293190238,2010,regular-season,2009-11-15,2,238,home,FALSE,Vanderbilt,90,Commodores,Vanderbilt Commodores,Vanderbilt
+293190238,2010,regular-season,2009-11-15,2,2329,away,FALSE,Lehigh,54,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+293192168,2010,regular-season,2009-11-15,2,2168,home,FALSE,Dayton,63,Flyers,Dayton Flyers,Dayton
+293192168,2010,regular-season,2009-11-15,2,97,away,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
+293192393,2010,regular-season,2009-11-15,2,2393,home,FALSE,Middle Tennessee,78,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+293192393,2010,regular-season,2009-11-15,2,2116,away,FALSE,UCF,53,Knights,UCF Knights,UCF
+293190344,2010,regular-season,2009-11-15,2,344,home,FALSE,Mississippi State,80,Bulldogs,Mississippi State Bulldogs,Mississippi St
+293190344,2010,regular-season,2009-11-15,2,2193,away,FALSE,East Tennessee State,50,Bucs,East Tennessee State Bucs,ETSU

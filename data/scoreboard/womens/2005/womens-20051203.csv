@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253370103,2005-12-03,3,103,home,FALSE,Boston College,61,Eagles,Boston College Eagles,Boston College
-253370103,2005-12-03,3,194,away,FALSE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
-253370023,2005-12-03,2,164,home,FALSE,Rutgers,76,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-253370023,2005-12-03,2,23,away,FALSE,San José State,64,Spartans,San José State Spartans,San José St
-253370135,2005-12-03,2,135,home,FALSE,Minnesota,78,Golden Gophers,Minnesota Golden Gophers,Minnesota
-253370135,2005-12-03,2,158,away,FALSE,Nebraska,70,Cornhuskers,Nebraska Cornhuskers,Nebraska
-253370305,2005-12-03,2,305,home,FALSE,DePaul,65,Blue Demons,DePaul Blue Demons,DePaul
-253370305,2005-12-03,2,2509,away,FALSE,Purdue,54,Boilermakers,Purdue Boilermakers,Purdue
-253370009,2005-12-03,2,9,home,FALSE,Arizona State,78,Sun Devils,Arizona State Sun Devils,Arizona St
-253370009,2005-12-03,2,98,away,FALSE,Western Kentucky,64,Lady Toppers,Western Kentucky Lady Toppers,Western KY
-253370218,2005-12-03,2,218,home,FALSE,Temple,55,Owls,Temple Owls,Temple
-253370218,2005-12-03,2,57,away,FALSE,Florida,58,Gators,Florida Gators,Florida
-253370198,2005-12-03,2,201,home,FALSE,Oklahoma,107,Sooners,Oklahoma Sooners,Oklahoma
-253370198,2005-12-03,2,198,away,FALSE,Oral Roberts,76,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-253370228,2005-12-03,2,228,home,FALSE,Clemson,63,Tigers,Clemson Tigers,Clemson
-253370228,2005-12-03,2,26,away,FALSE,UCLA,76,Bruins,UCLA Bruins,UCLA
-253370254,2005-12-03,2,254,home,FALSE,Utah,63,Utes,Utah Utes,Utah
-253370254,2005-12-03,2,2351,away,FALSE,Loyola Marymount,47,Lions,Loyola Marymount Lions,LMU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253370103,2006,regular-season,2005-12-03,3,103,home,FALSE,Boston College,61,Eagles,Boston College Eagles,Boston College
+253370103,2006,regular-season,2005-12-03,3,194,away,FALSE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
+253370023,2006,regular-season,2005-12-03,2,164,home,FALSE,Rutgers,76,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+253370023,2006,regular-season,2005-12-03,2,23,away,FALSE,San José State,64,Spartans,San José State Spartans,San José St
+253370135,2006,regular-season,2005-12-03,2,135,home,FALSE,Minnesota,78,Golden Gophers,Minnesota Golden Gophers,Minnesota
+253370135,2006,regular-season,2005-12-03,2,158,away,FALSE,Nebraska,70,Cornhuskers,Nebraska Cornhuskers,Nebraska
+253370305,2006,regular-season,2005-12-03,2,305,home,FALSE,DePaul,65,Blue Demons,DePaul Blue Demons,DePaul
+253370305,2006,regular-season,2005-12-03,2,2509,away,FALSE,Purdue,54,Boilermakers,Purdue Boilermakers,Purdue
+253370009,2006,regular-season,2005-12-03,2,9,home,FALSE,Arizona State,78,Sun Devils,Arizona State Sun Devils,Arizona St
+253370009,2006,regular-season,2005-12-03,2,98,away,FALSE,Western Kentucky,64,Lady Toppers,Western Kentucky Lady Toppers,Western KY
+253370218,2006,regular-season,2005-12-03,2,218,home,FALSE,Temple,55,Owls,Temple Owls,Temple
+253370218,2006,regular-season,2005-12-03,2,57,away,FALSE,Florida,58,Gators,Florida Gators,Florida
+253370198,2006,regular-season,2005-12-03,2,201,home,FALSE,Oklahoma,107,Sooners,Oklahoma Sooners,Oklahoma
+253370198,2006,regular-season,2005-12-03,2,198,away,FALSE,Oral Roberts,76,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+253370228,2006,regular-season,2005-12-03,2,228,home,FALSE,Clemson,63,Tigers,Clemson Tigers,Clemson
+253370228,2006,regular-season,2005-12-03,2,26,away,FALSE,UCLA,76,Bruins,UCLA Bruins,UCLA
+253370254,2006,regular-season,2005-12-03,2,254,home,FALSE,Utah,63,Utes,Utah Utes,Utah
+253370254,2006,regular-season,2005-12-03,2,2351,away,FALSE,Loyola Marymount,47,Lions,Loyola Marymount Lions,LMU

@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310050150,2011-01-05,2,150,home,FALSE,Duke,85,Blue Devils,Duke Blue Devils,Duke
-310050150,2011-01-05,2,5,away,FALSE,UAB,64,Blazers,UAB Blazers,UAB
-310052305,2011-01-05,2,2305,home,FALSE,Kansas,99,Jayhawks,Kansas Jayhawks,Kansas
-310052305,2011-01-05,2,140,away,FALSE,Kansas City,52,Roos,Kansas City Roos,Kansas City
-310052628,2011-01-05,2,2628,home,FALSE,TCU,53,Horned Frogs,TCU Horned Frogs,TCU
-310052628,2011-01-05,2,21,away,FALSE,San Diego State,66,Aztecs,San Diego State Aztecs,San Diego St
-310050142,2011-01-05,2,142,home,FALSE,Missouri,98,Tigers,Missouri Tigers,Missouri
-310050142,2011-01-05,2,2453,away,FALSE,North Alabama,58,Lions,North Alabama Lions,North Alabama
-310050213,2011-01-05,2,213,home,FALSE,Penn State,68,Nittany Lions,Penn State Nittany Lions,Penn State
-310050213,2011-01-05,2,2509,away,FALSE,Purdue,83,Boilermakers,Purdue Boilermakers,Purdue
-310052439,2011-01-05,2,2439,home,FALSE,UNLV,77,Rebels,UNLV Rebels,UNLV
-310052439,2011-01-05,2,252,away,FALSE,BYU,89,Cougars,BYU Cougars,BYU
-310052116,2011-01-05,2,2116,home,FALSE,UCF,65,Knights,UCF Knights,UCF
-310052116,2011-01-05,2,276,away,FALSE,Marshall,58,Thundering Herd,Marshall Thundering Herd,Marshall
-310052633,2011-01-05,2,2633,home,FALSE,Tennessee,104,Volunteers,Tennessee Volunteers,Tennessee
-310052633,2011-01-05,2,235,away,FALSE,Memphis,84,Tigers,Memphis Tigers,Memphis
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310050150,2011,regular-season,2011-01-05,2,150,home,FALSE,Duke,85,Blue Devils,Duke Blue Devils,Duke
+310050150,2011,regular-season,2011-01-05,2,5,away,FALSE,UAB,64,Blazers,UAB Blazers,UAB
+310052305,2011,regular-season,2011-01-05,2,2305,home,FALSE,Kansas,99,Jayhawks,Kansas Jayhawks,Kansas
+310052305,2011,regular-season,2011-01-05,2,140,away,FALSE,Kansas City,52,Roos,Kansas City Roos,Kansas City
+310052628,2011,regular-season,2011-01-05,2,2628,home,FALSE,TCU,53,Horned Frogs,TCU Horned Frogs,TCU
+310052628,2011,regular-season,2011-01-05,2,21,away,FALSE,San Diego State,66,Aztecs,San Diego State Aztecs,San Diego St
+310050142,2011,regular-season,2011-01-05,2,142,home,FALSE,Missouri,98,Tigers,Missouri Tigers,Missouri
+310050142,2011,regular-season,2011-01-05,2,2453,away,FALSE,North Alabama,58,Lions,North Alabama Lions,North Alabama
+310050213,2011,regular-season,2011-01-05,2,213,home,FALSE,Penn State,68,Nittany Lions,Penn State Nittany Lions,Penn State
+310050213,2011,regular-season,2011-01-05,2,2509,away,FALSE,Purdue,83,Boilermakers,Purdue Boilermakers,Purdue
+310052439,2011,regular-season,2011-01-05,2,2439,home,FALSE,UNLV,77,Rebels,UNLV Rebels,UNLV
+310052439,2011,regular-season,2011-01-05,2,252,away,FALSE,BYU,89,Cougars,BYU Cougars,BYU
+310052116,2011,regular-season,2011-01-05,2,2116,home,FALSE,UCF,65,Knights,UCF Knights,UCF
+310052116,2011,regular-season,2011-01-05,2,276,away,FALSE,Marshall,58,Thundering Herd,Marshall Thundering Herd,Marshall
+310052633,2011,regular-season,2011-01-05,2,2633,home,FALSE,Tennessee,104,Volunteers,Tennessee Volunteers,Tennessee
+310052633,2011,regular-season,2011-01-05,2,235,away,FALSE,Memphis,84,Tigers,Memphis Tigers,Memphis

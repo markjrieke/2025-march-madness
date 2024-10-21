@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300290150,2010-01-29,2,150,home,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
-300290150,2010-01-29,2,52,away,FALSE,Florida State,43,Seminoles,Florida State Seminoles,Florida St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300290150,2010,regular-season,2010-01-29,2,150,home,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
+300290150,2010,regular-season,2010-01-29,2,52,away,FALSE,Florida State,43,Seminoles,Florida State Seminoles,Florida St

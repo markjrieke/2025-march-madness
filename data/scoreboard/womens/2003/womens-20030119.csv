@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230190008,2003-01-19,2,8,home,FALSE,Arkansas,82,Razorbacks,Arkansas Razorbacks,Arkansas
-230190008,2003-01-19,2,99,away,FALSE,LSU,72,Tigers,LSU Tigers,LSU
-230190158,2003-01-19,2,158,home,FALSE,Nebraska,54,Cornhuskers,Nebraska Cornhuskers,Nebraska
-230190158,2003-01-19,2,2306,away,FALSE,Kansas State,88,Wildcats,Kansas State Wildcats,Kansas St
-230190057,2003-01-19,2,57,home,FALSE,Florida,53,Gators,Florida Gators,Florida
-230190057,2003-01-19,2,2633,away,FALSE,Tennessee,94,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-230190135,2003-01-19,2,135,home,FALSE,Minnesota,90,Golden Gophers,Minnesota Golden Gophers,Minnesota
-230190135,2003-01-19,2,2509,away,FALSE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
-230190213,2003-01-19,2,213,home,FALSE,Penn State,75,Lady Lions,Penn State Lady Lions,Penn State
-230190213,2003-01-19,2,127,away,FALSE,Michigan State,70,Spartans,Michigan State Spartans,Michigan St
-230192579,2003-01-19,2,2579,home,FALSE,South Carolina,59,Gamecocks,South Carolina Gamecocks,South Carolina
-230192579,2003-01-19,2,61,away,FALSE,Georgia,67,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-230190145,2003-01-19,2,145,home,FALSE,Ole Miss,60,Rebels,Ole Miss Rebels,Ole Miss
-230190145,2003-01-19,2,344,away,FALSE,Mississippi State,69,Bulldogs,Mississippi State Bulldogs,Mississippi St
-230190238,2003-01-19,2,238,home,FALSE,Vanderbilt,84,Commodores,Vanderbilt Commodores,Vanderbilt
-230190238,2003-01-19,2,96,away,FALSE,Kentucky,50,Wildcats,Kentucky Wildcats,Kentucky
-230190077,2003-01-19,2,77,home,FALSE,Northwestern,42,Wildcats,Northwestern Wildcats,Northwestern
-230190077,2003-01-19,2,194,away,FALSE,Ohio State,63,Buckeyes,Ohio State Buckeyes,Ohio State
-230190305,2003-01-19,2,305,home,FALSE,DePaul,63,Blue Demons,DePaul Blue Demons,DePaul
-230190305,2003-01-19,2,58,away,FALSE,South Florida,57,Bulls,South Florida Bulls,South Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230190008,2003,regular-season,2003-01-19,2,8,home,FALSE,Arkansas,82,Razorbacks,Arkansas Razorbacks,Arkansas
+230190008,2003,regular-season,2003-01-19,2,99,away,FALSE,LSU,72,Tigers,LSU Tigers,LSU
+230190158,2003,regular-season,2003-01-19,2,158,home,FALSE,Nebraska,54,Cornhuskers,Nebraska Cornhuskers,Nebraska
+230190158,2003,regular-season,2003-01-19,2,2306,away,FALSE,Kansas State,88,Wildcats,Kansas State Wildcats,Kansas St
+230190057,2003,regular-season,2003-01-19,2,57,home,FALSE,Florida,53,Gators,Florida Gators,Florida
+230190057,2003,regular-season,2003-01-19,2,2633,away,FALSE,Tennessee,94,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+230190135,2003,regular-season,2003-01-19,2,135,home,FALSE,Minnesota,90,Golden Gophers,Minnesota Golden Gophers,Minnesota
+230190135,2003,regular-season,2003-01-19,2,2509,away,FALSE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
+230190213,2003,regular-season,2003-01-19,2,213,home,FALSE,Penn State,75,Lady Lions,Penn State Lady Lions,Penn State
+230190213,2003,regular-season,2003-01-19,2,127,away,FALSE,Michigan State,70,Spartans,Michigan State Spartans,Michigan St
+230192579,2003,regular-season,2003-01-19,2,2579,home,FALSE,South Carolina,59,Gamecocks,South Carolina Gamecocks,South Carolina
+230192579,2003,regular-season,2003-01-19,2,61,away,FALSE,Georgia,67,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+230190145,2003,regular-season,2003-01-19,2,145,home,FALSE,Ole Miss,60,Rebels,Ole Miss Rebels,Ole Miss
+230190145,2003,regular-season,2003-01-19,2,344,away,FALSE,Mississippi State,69,Bulldogs,Mississippi State Bulldogs,Mississippi St
+230190238,2003,regular-season,2003-01-19,2,238,home,FALSE,Vanderbilt,84,Commodores,Vanderbilt Commodores,Vanderbilt
+230190238,2003,regular-season,2003-01-19,2,96,away,FALSE,Kentucky,50,Wildcats,Kentucky Wildcats,Kentucky
+230190077,2003,regular-season,2003-01-19,2,77,home,FALSE,Northwestern,42,Wildcats,Northwestern Wildcats,Northwestern
+230190077,2003,regular-season,2003-01-19,2,194,away,FALSE,Ohio State,63,Buckeyes,Ohio State Buckeyes,Ohio State
+230190305,2003,regular-season,2003-01-19,2,305,home,FALSE,DePaul,63,Blue Demons,DePaul Blue Demons,DePaul
+230190305,2003,regular-season,2003-01-19,2,58,away,FALSE,South Florida,57,Bulls,South Florida Bulls,South Florida

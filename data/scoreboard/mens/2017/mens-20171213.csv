@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400988008,2017-12-13,2,218,home,FALSE,Temple,67,Owls,Temple Owls,Temple
-400988008,2017-12-13,2,222,away,FALSE,Villanova,87,Wildcats,Villanova Wildcats,Villanova
-400987242,2017-12-13,2,245,home,FALSE,Texas A&M,113,Aggies,Texas A&M Aggies,Texas A&M
-400987242,2017-12-13,2,2542,away,FALSE,Savannah State,66,Tigers,Savannah State Tigers,Savannah St
-400989270,2017-12-13,2,2641,home,FALSE,Texas Tech,82,Red Raiders,Texas Tech Red Raiders,Texas Tech
-400989270,2017-12-13,2,338,away,FALSE,Kennesaw State,53,Owls,Kennesaw State Owls,Kennesaw St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400988008,2018,regular-season,2017-12-13,2,218,home,FALSE,Temple,67,Owls,Temple Owls,Temple
+400988008,2018,regular-season,2017-12-13,2,222,away,FALSE,Villanova,87,Wildcats,Villanova Wildcats,Villanova
+400987242,2018,regular-season,2017-12-13,2,245,home,FALSE,Texas A&M,113,Aggies,Texas A&M Aggies,Texas A&M
+400987242,2018,regular-season,2017-12-13,2,2542,away,FALSE,Savannah State,66,Tigers,Savannah State Tigers,Savannah St
+400989270,2018,regular-season,2017-12-13,2,2641,home,FALSE,Texas Tech,82,Red Raiders,Texas Tech Red Raiders,Texas Tech
+400989270,2018,regular-season,2017-12-13,2,338,away,FALSE,Kennesaw State,53,Owls,Kennesaw State Owls,Kennesaw St

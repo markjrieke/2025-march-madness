@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263470239,2006-12-13,2,239,home,FALSE,Baylor,100,Bears,Baylor Bears,Baylor
-263470239,2006-12-13,2,2029,away,FALSE,Arkansas-Pine Bluff,48,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-263470305,2006-12-13,2,305,home,FALSE,DePaul,74,Blue Demons,DePaul Blue Demons,DePaul
-263470305,2006-12-13,2,77,away,FALSE,Northwestern,66,Wildcats,Northwestern Wildcats,Northwestern
-263470008,2006-12-13,2,8,home,FALSE,Arkansas,70,Razorbacks,Arkansas Razorbacks,Arkansas
-263470008,2006-12-13,2,2567,away,FALSE,SMU,58,Mustangs,SMU Mustangs,SMU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263470239,2007,regular-season,2006-12-13,2,239,home,FALSE,Baylor,100,Bears,Baylor Bears,Baylor
+263470239,2007,regular-season,2006-12-13,2,2029,away,FALSE,Arkansas-Pine Bluff,48,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+263470305,2007,regular-season,2006-12-13,2,305,home,FALSE,DePaul,74,Blue Demons,DePaul Blue Demons,DePaul
+263470305,2007,regular-season,2006-12-13,2,77,away,FALSE,Northwestern,66,Wildcats,Northwestern Wildcats,Northwestern
+263470008,2007,regular-season,2006-12-13,2,8,home,FALSE,Arkansas,70,Razorbacks,Arkansas Razorbacks,Arkansas
+263470008,2007,regular-season,2006-12-13,2,2567,away,FALSE,SMU,58,Mustangs,SMU Mustangs,SMU

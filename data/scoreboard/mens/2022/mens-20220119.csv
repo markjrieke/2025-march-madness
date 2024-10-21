@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401364878,2022-01-19,2,2,home,FALSE,Auburn,83,Tigers,Auburn Tigers,Auburn
-401364878,2022-01-19,2,61,away,FALSE,Georgia,60,Bulldogs,Georgia Bulldogs,Georgia
-401373554,2022-01-19,2,222,home,FALSE,Villanova,54,Wildcats,Villanova Wildcats,Villanova
-401373554,2022-01-19,2,269,away,FALSE,Marquette,57,Golden Eagles,Marquette Golden Eagles,Marquette
-401364877,2022-01-19,2,245,home,FALSE,Texas A&M,58,Aggies,Texas A&M Aggies,Texas A&M
-401364877,2022-01-19,2,96,away,FALSE,Kentucky,64,Wildcats,Kentucky Wildcats,Kentucky
-401364876,2022-01-19,2,333,home,FALSE,Alabama,70,Crimson Tide,Alabama Crimson Tide,Alabama
-401364876,2022-01-19,2,99,away,FALSE,LSU,67,Tigers,LSU Tigers,LSU
-401373553,2022-01-19,2,305,home,FALSE,DePaul,67,Blue Demons,DePaul Blue Demons,DePaul
-401373553,2022-01-19,2,2752,away,FALSE,Xavier,68,Musketeers,Xavier Musketeers,Xavier
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401364878,2022,regular-season,2022-01-19,2,2,home,FALSE,Auburn,83,Tigers,Auburn Tigers,Auburn
+401364878,2022,regular-season,2022-01-19,2,61,away,FALSE,Georgia,60,Bulldogs,Georgia Bulldogs,Georgia
+401373554,2022,regular-season,2022-01-19,2,222,home,FALSE,Villanova,54,Wildcats,Villanova Wildcats,Villanova
+401373554,2022,regular-season,2022-01-19,2,269,away,FALSE,Marquette,57,Golden Eagles,Marquette Golden Eagles,Marquette
+401364877,2022,regular-season,2022-01-19,2,245,home,FALSE,Texas A&M,58,Aggies,Texas A&M Aggies,Texas A&M
+401364877,2022,regular-season,2022-01-19,2,96,away,FALSE,Kentucky,64,Wildcats,Kentucky Wildcats,Kentucky
+401364876,2022,regular-season,2022-01-19,2,333,home,FALSE,Alabama,70,Crimson Tide,Alabama Crimson Tide,Alabama
+401364876,2022,regular-season,2022-01-19,2,99,away,FALSE,LSU,67,Tigers,LSU Tigers,LSU
+401373553,2022,regular-season,2022-01-19,2,305,home,FALSE,DePaul,67,Blue Demons,DePaul Blue Demons,DePaul
+401373553,2022,regular-season,2022-01-19,2,2752,away,FALSE,Xavier,68,Musketeers,Xavier Musketeers,Xavier

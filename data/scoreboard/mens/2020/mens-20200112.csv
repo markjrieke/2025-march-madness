@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401166167,2020-01-12,2,2509,home,FALSE,Purdue,71,Boilermakers,Purdue Boilermakers,Purdue
-401166167,2020-01-12,2,127,away,FALSE,Michigan State,42,Spartans,Michigan State Spartans,Michigan St
-401166166,2020-01-12,2,135,home,FALSE,Minnesota,75,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401166166,2020-01-12,2,130,away,FALSE,Michigan,67,Wolverines,Michigan Wolverines,Michigan
-401169531,2020-01-12,2,58,home,FALSE,South Florida,64,Bulls,South Florida Bulls,South Florida
-401169531,2020-01-12,2,235,away,FALSE,Memphis,68,Tigers,Memphis Tigers,Memphis
-401169530,2020-01-12,4,41,home,FALSE,UConn,86,Huskies,UConn Huskies,UConn
-401169530,2020-01-12,4,2724,away,FALSE,Wichita State,89,Shockers,Wichita State Shockers,Wichita St
-401170663,2020-01-12,2,204,home,FALSE,Oregon State,82,Beavers,Oregon State Beavers,Oregon St
-401170663,2020-01-12,2,12,away,FALSE,Arizona,65,Wildcats,Arizona Wildcats,Arizona
-401170662,2020-01-12,2,38,home,FALSE,Colorado,91,Buffaloes,Colorado Buffaloes,Colorado
-401170662,2020-01-12,2,254,away,FALSE,Utah,52,Utes,Utah Utes,Utah
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401166167,2020,regular-season,2020-01-12,2,2509,home,FALSE,Purdue,71,Boilermakers,Purdue Boilermakers,Purdue
+401166167,2020,regular-season,2020-01-12,2,127,away,FALSE,Michigan State,42,Spartans,Michigan State Spartans,Michigan St
+401166166,2020,regular-season,2020-01-12,2,135,home,FALSE,Minnesota,75,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401166166,2020,regular-season,2020-01-12,2,130,away,FALSE,Michigan,67,Wolverines,Michigan Wolverines,Michigan
+401169531,2020,regular-season,2020-01-12,2,58,home,FALSE,South Florida,64,Bulls,South Florida Bulls,South Florida
+401169531,2020,regular-season,2020-01-12,2,235,away,FALSE,Memphis,68,Tigers,Memphis Tigers,Memphis
+401169530,2020,regular-season,2020-01-12,4,41,home,FALSE,UConn,86,Huskies,UConn Huskies,UConn
+401169530,2020,regular-season,2020-01-12,4,2724,away,FALSE,Wichita State,89,Shockers,Wichita State Shockers,Wichita St
+401170663,2020,regular-season,2020-01-12,2,204,home,FALSE,Oregon State,82,Beavers,Oregon State Beavers,Oregon St
+401170663,2020,regular-season,2020-01-12,2,12,away,FALSE,Arizona,65,Wildcats,Arizona Wildcats,Arizona
+401170662,2020,regular-season,2020-01-12,2,38,home,FALSE,Colorado,91,Buffaloes,Colorado Buffaloes,Colorado
+401170662,2020,regular-season,2020-01-12,2,254,away,FALSE,Utah,52,Utes,Utah Utes,Utah

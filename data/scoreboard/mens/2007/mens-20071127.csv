@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273310235,2007-11-27,2,235,home,FALSE,Memphis,104,Tigers,Memphis Tigers,Memphis
-273310235,2007-11-27,2,2046,away,FALSE,Austin Peay,82,Governors,Austin Peay Governors,Austin Peay
-273310150,2007-11-27,2,150,home,TRUE,Duke,82,Blue Devils,Duke Blue Devils,Duke
-273310150,2007-11-27,2,275,away,TRUE,Wisconsin,58,Badgers,Wisconsin Badgers,Wisconsin
-273312633,2007-11-27,2,2633,home,FALSE,Tennessee,93,Volunteers,Tennessee Volunteers,Tennessee
-273312633,2007-11-27,2,2448,away,FALSE,North Carolina A&T,59,Aggies,North Carolina A&T Aggies,NC A&T
-273310221,2007-11-27,2,221,home,FALSE,Pittsburgh,80,Panthers,Pittsburgh Panthers,Pitt
-273310221,2007-11-27,2,104,away,FALSE,Boston University,53,Terriers,Boston University Terriers,Boston U
-273310084,2007-11-27,2,84,home,TRUE,Indiana,83,Hoosiers,Indiana Hoosiers,Indiana
-273310084,2007-11-27,2,59,away,TRUE,Georgia Tech,79,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-273310228,2007-11-27,2,228,home,TRUE,Clemson,61,Tigers,Clemson Tigers,Clemson
-273310228,2007-11-27,2,2509,away,TRUE,Purdue,58,Boilermakers,Purdue Boilermakers,Purdue
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273310235,2008,regular-season,2007-11-27,2,235,home,FALSE,Memphis,104,Tigers,Memphis Tigers,Memphis
+273310235,2008,regular-season,2007-11-27,2,2046,away,FALSE,Austin Peay,82,Governors,Austin Peay Governors,Austin Peay
+273310150,2008,regular-season,2007-11-27,2,150,home,TRUE,Duke,82,Blue Devils,Duke Blue Devils,Duke
+273310150,2008,regular-season,2007-11-27,2,275,away,TRUE,Wisconsin,58,Badgers,Wisconsin Badgers,Wisconsin
+273312633,2008,regular-season,2007-11-27,2,2633,home,FALSE,Tennessee,93,Volunteers,Tennessee Volunteers,Tennessee
+273312633,2008,regular-season,2007-11-27,2,2448,away,FALSE,North Carolina A&T,59,Aggies,North Carolina A&T Aggies,NC A&T
+273310221,2008,regular-season,2007-11-27,2,221,home,FALSE,Pittsburgh,80,Panthers,Pittsburgh Panthers,Pitt
+273310221,2008,regular-season,2007-11-27,2,104,away,FALSE,Boston University,53,Terriers,Boston University Terriers,Boston U
+273310084,2008,regular-season,2007-11-27,2,84,home,TRUE,Indiana,83,Hoosiers,Indiana Hoosiers,Indiana
+273310084,2008,regular-season,2007-11-27,2,59,away,TRUE,Georgia Tech,79,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+273310228,2008,regular-season,2007-11-27,2,228,home,TRUE,Clemson,61,Tigers,Clemson Tigers,Clemson
+273310228,2008,regular-season,2007-11-27,2,2509,away,TRUE,Purdue,58,Boilermakers,Purdue Boilermakers,Purdue

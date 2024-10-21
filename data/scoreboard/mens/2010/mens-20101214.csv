@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303482633,2010-12-14,2,2633,home,FALSE,Tennessee,82,Volunteers,Tennessee Volunteers,Tennessee
-303482633,2010-12-14,2,2473,away,FALSE,Oakland,89,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-303480097,2010-12-14,2,97,home,FALSE,Louisville,46,Cardinals,Louisville Cardinals,Louisville
-303480097,2010-12-14,2,2182,away,FALSE,Drexel,52,Dragons,Drexel Dragons,Drexel
-303480251,2010-12-14,2,251,home,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas
-303480251,2010-12-14,2,2454,away,FALSE,North Florida,48,Ospreys,North Florida Ospreys,North Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303482633,2011,regular-season,2010-12-14,2,2633,home,FALSE,Tennessee,82,Volunteers,Tennessee Volunteers,Tennessee
+303482633,2011,regular-season,2010-12-14,2,2473,away,FALSE,Oakland,89,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+303480097,2011,regular-season,2010-12-14,2,97,home,FALSE,Louisville,46,Cardinals,Louisville Cardinals,Louisville
+303480097,2011,regular-season,2010-12-14,2,2182,away,FALSE,Drexel,52,Dragons,Drexel Dragons,Drexel
+303480251,2011,regular-season,2010-12-14,2,251,home,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas
+303480251,2011,regular-season,2010-12-14,2,2454,away,FALSE,North Florida,48,Ospreys,North Florida Ospreys,North Florida

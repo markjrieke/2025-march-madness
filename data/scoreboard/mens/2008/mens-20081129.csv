@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-283340041,2008-11-29,2,41,home,FALSE,UConn,88,Huskies,UConn Huskies,UConn
-283340041,2008-11-29,2,2803,away,FALSE,Bryant,58,Bulldogs,Bryant Bulldogs,Bryant
-283340265,2008-11-29,2,265,home,TRUE,Washington State,43,Cougars,Washington State Cougars,Washington St
-283340265,2008-11-29,2,221,away,TRUE,Pittsburgh,57,Panthers,Pittsburgh Panthers,Pitt
-283340026,2008-11-29,2,26,home,FALSE,UCLA,89,Bruins,UCLA Bruins,UCLA
-283340026,2008-11-29,2,2229,away,FALSE,Florida International,54,Panthers,Florida International Panthers,FIU
-283340269,2008-11-29,2,269,home,TRUE,Marquette,75,Golden Eagles,Marquette Golden Eagles,Marquette
-283340269,2008-11-29,2,2168,away,TRUE,Dayton,89,Flyers,Dayton Flyers,Dayton
-283342752,2008-11-29,2,2752,home,FALSE,Xavier,60,Musketeers,Xavier Musketeers,Xavier
-283342752,2008-11-29,2,193,away,FALSE,Miami (OH),53,RedHawks,Miami (OH) RedHawks,Miami OH
-283340222,2008-11-29,2,222,home,TRUE,Villanova,78,Wildcats,Villanova Wildcats,Villanova
-283340222,2008-11-29,2,227,away,TRUE,Rhode Island,65,Rams,Rhode Island Rams,Rhode Island
-283342390,2008-11-29,2,2390,home,FALSE,Miami,79,Hurricanes,Miami Hurricanes,Miami
-283342390,2008-11-29,2,56,away,FALSE,Stetson,65,Hatters,Stetson Hatters,Stetson
-283340275,2008-11-29,2,275,home,FALSE,Wisconsin,67,Badgers,Wisconsin Badgers,Wisconsin
-283340275,2008-11-29,2,270,away,FALSE,Milwaukee,46,Panthers,Milwaukee Panthers,Milwaukee
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283340041,2009,regular-season,2008-11-29,2,41,home,FALSE,UConn,88,Huskies,UConn Huskies,UConn
+283340041,2009,regular-season,2008-11-29,2,2803,away,FALSE,Bryant,58,Bulldogs,Bryant Bulldogs,Bryant
+283340265,2009,regular-season,2008-11-29,2,265,home,TRUE,Washington State,43,Cougars,Washington State Cougars,Washington St
+283340265,2009,regular-season,2008-11-29,2,221,away,TRUE,Pittsburgh,57,Panthers,Pittsburgh Panthers,Pitt
+283340026,2009,regular-season,2008-11-29,2,26,home,FALSE,UCLA,89,Bruins,UCLA Bruins,UCLA
+283340026,2009,regular-season,2008-11-29,2,2229,away,FALSE,Florida International,54,Panthers,Florida International Panthers,FIU
+283340269,2009,regular-season,2008-11-29,2,269,home,TRUE,Marquette,75,Golden Eagles,Marquette Golden Eagles,Marquette
+283340269,2009,regular-season,2008-11-29,2,2168,away,TRUE,Dayton,89,Flyers,Dayton Flyers,Dayton
+283342752,2009,regular-season,2008-11-29,2,2752,home,FALSE,Xavier,60,Musketeers,Xavier Musketeers,Xavier
+283342752,2009,regular-season,2008-11-29,2,193,away,FALSE,Miami (OH),53,RedHawks,Miami (OH) RedHawks,Miami OH
+283340222,2009,regular-season,2008-11-29,2,222,home,TRUE,Villanova,78,Wildcats,Villanova Wildcats,Villanova
+283340222,2009,regular-season,2008-11-29,2,227,away,TRUE,Rhode Island,65,Rams,Rhode Island Rams,Rhode Island
+283342390,2009,regular-season,2008-11-29,2,2390,home,FALSE,Miami,79,Hurricanes,Miami Hurricanes,Miami
+283342390,2009,regular-season,2008-11-29,2,56,away,FALSE,Stetson,65,Hatters,Stetson Hatters,Stetson
+283340275,2009,regular-season,2008-11-29,2,275,home,FALSE,Wisconsin,67,Badgers,Wisconsin Badgers,Wisconsin
+283340275,2009,regular-season,2008-11-29,2,270,away,FALSE,Milwaukee,46,Panthers,Milwaukee Panthers,Milwaukee

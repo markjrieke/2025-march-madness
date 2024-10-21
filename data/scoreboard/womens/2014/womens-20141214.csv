@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400595040,2014-12-14,2,2579,home,FALSE,South Carolina,111,Gamecocks,South Carolina Gamecocks,South Carolina
-400595040,2014-12-14,2,2542,away,FALSE,Savannah State,49,Tigers,Savannah State Tigers,Savannah St
-400592331,2014-12-14,2,251,home,FALSE,Texas,74,Longhorns,Texas Longhorns,Texas
-400592331,2014-12-14,2,2466,away,FALSE,Northwestern State,34,Lady Demons,Northwestern State Lady Demons,N'Western St
-400593020,2014-12-14,2,153,home,FALSE,North Carolina,84,Tar Heels,North Carolina Tar Heels,North Carolina
-400593020,2014-12-14,2,2026,away,FALSE,App State,52,Mountaineers,App State Mountaineers,App State
-400590419,2014-12-14,2,24,home,FALSE,Stanford,82,Cardinal,Stanford Cardinal,Stanford
-400590419,2014-12-14,2,2541,away,FALSE,Santa Clara,43,Broncos,Santa Clara Broncos,Santa Clara
-400594982,2014-12-14,2,96,home,FALSE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
-400594982,2014-12-14,2,2057,away,FALSE,Belmont,55,Bruins,Belmont Bruins,Belmont
-400591990,2014-12-14,2,239,home,FALSE,Baylor,96,Bears,Baylor Bears,Baylor
-400591990,2014-12-14,2,2617,away,FALSE,Stephen F. Austin,57,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
-400595053,2014-12-14,2,164,home,FALSE,Rutgers,45,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400595053,2014-12-14,2,2633,away,FALSE,Tennessee,55,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400589786,2014-12-14,2,2350,home,FALSE,Loyola Chicago,38,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-400589786,2014-12-14,2,127,away,FALSE,Michigan State,90,Spartans,Michigan State Spartans,Michigan St
-400593018,2014-12-14,2,183,home,FALSE,Syracuse,70,Orange,Syracuse Orange,Syracuse
-400593018,2014-12-14,2,2428,away,FALSE,North Carolina Central,25,Eagles,North Carolina Central Eagles,NC Central
-400595014,2014-12-14,2,2572,home,FALSE,Southern Miss,46,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-400595014,2014-12-14,2,344,away,FALSE,Mississippi State,73,Bulldogs,Mississippi State Bulldogs,Mississippi St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400595040,2015,regular-season,2014-12-14,2,2579,home,FALSE,South Carolina,111,Gamecocks,South Carolina Gamecocks,South Carolina
+400595040,2015,regular-season,2014-12-14,2,2542,away,FALSE,Savannah State,49,Tigers,Savannah State Tigers,Savannah St
+400592331,2015,regular-season,2014-12-14,2,251,home,FALSE,Texas,74,Longhorns,Texas Longhorns,Texas
+400592331,2015,regular-season,2014-12-14,2,2466,away,FALSE,Northwestern State,34,Lady Demons,Northwestern State Lady Demons,N'Western St
+400593020,2015,regular-season,2014-12-14,2,153,home,FALSE,North Carolina,84,Tar Heels,North Carolina Tar Heels,North Carolina
+400593020,2015,regular-season,2014-12-14,2,2026,away,FALSE,App State,52,Mountaineers,App State Mountaineers,App State
+400590419,2015,regular-season,2014-12-14,2,24,home,FALSE,Stanford,82,Cardinal,Stanford Cardinal,Stanford
+400590419,2015,regular-season,2014-12-14,2,2541,away,FALSE,Santa Clara,43,Broncos,Santa Clara Broncos,Santa Clara
+400594982,2015,regular-season,2014-12-14,2,96,home,FALSE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
+400594982,2015,regular-season,2014-12-14,2,2057,away,FALSE,Belmont,55,Bruins,Belmont Bruins,Belmont
+400591990,2015,regular-season,2014-12-14,2,239,home,FALSE,Baylor,96,Bears,Baylor Bears,Baylor
+400591990,2015,regular-season,2014-12-14,2,2617,away,FALSE,Stephen F. Austin,57,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
+400595053,2015,regular-season,2014-12-14,2,164,home,FALSE,Rutgers,45,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400595053,2015,regular-season,2014-12-14,2,2633,away,FALSE,Tennessee,55,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400589786,2015,regular-season,2014-12-14,2,2350,home,FALSE,Loyola Chicago,38,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+400589786,2015,regular-season,2014-12-14,2,127,away,FALSE,Michigan State,90,Spartans,Michigan State Spartans,Michigan St
+400593018,2015,regular-season,2014-12-14,2,183,home,FALSE,Syracuse,70,Orange,Syracuse Orange,Syracuse
+400593018,2015,regular-season,2014-12-14,2,2428,away,FALSE,North Carolina Central,25,Eagles,North Carolina Central Eagles,NC Central
+400595014,2015,regular-season,2014-12-14,2,2572,home,FALSE,Southern Miss,46,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+400595014,2015,regular-season,2014-12-14,2,344,away,FALSE,Mississippi State,73,Bulldogs,Mississippi State Bulldogs,Mississippi St

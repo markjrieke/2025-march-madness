@@ -1,41 +1,41 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400988073,2018-01-20,2,41,home,FALSE,UConn,61,Huskies,UConn Huskies,UConn
-400988073,2018-01-20,2,222,away,FALSE,Villanova,81,Wildcats,Villanova Wildcats,Villanova
-400986518,2018-01-20,2,2294,home,FALSE,Iowa,64,Hawkeyes,Iowa Hawkeyes,Iowa
-400986518,2018-01-20,2,2509,away,FALSE,Purdue,87,Boilermakers,Purdue Boilermakers,Purdue
-400989222,2018-01-20,3,197,home,FALSE,Oklahoma State,83,Cowboys,Oklahoma State Cowboys,Oklahoma St
-400989222,2018-01-20,3,201,away,FALSE,Oklahoma,81,Sooners,Oklahoma Sooners,Oklahoma
-400986214,2018-01-20,2,150,home,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
-400986214,2018-01-20,2,221,away,FALSE,Pittsburgh,54,Panthers,Pittsburgh Panthers,Pitt
-400989263,2018-01-20,2,277,home,FALSE,West Virginia,86,Mountaineers,West Virginia Mountaineers,West Virginia
-400989263,2018-01-20,2,251,away,FALSE,Texas,51,Longhorns,Texas Longhorns,Texas
-400988074,2018-01-20,2,248,home,FALSE,Houston,73,Cougars,Houston Cougars,Houston
-400988074,2018-01-20,2,2724,away,FALSE,Wichita State,59,Shockers,Wichita State Shockers,Wichita St
-400989163,2018-01-20,2,66,home,FALSE,Iowa State,70,Cyclones,Iowa State Cyclones,Iowa State
-400989163,2018-01-20,2,2641,away,FALSE,Texas Tech,52,Red Raiders,Texas Tech Red Raiders,Texas Tech
-400989139,2018-01-20,2,2305,home,FALSE,Kansas,70,Jayhawks,Kansas Jayhawks,Kansas
-400989139,2018-01-20,2,239,away,FALSE,Baylor,67,Bears,Baylor Bears,Baylor
-400988582,2018-01-20,2,2550,home,FALSE,Seton Hall,64,Pirates,Seton Hall Pirates,Seton Hall
-400988582,2018-01-20,2,2752,away,FALSE,Xavier,73,Musketeers,Xavier Musketeers,Xavier
-400988075,2018-01-20,2,2132,home,FALSE,Cincinnati,86,Bearcats,Cincinnati Bearcats,Cincinnati
-400988075,2018-01-20,2,151,away,FALSE,East Carolina,60,Pirates,East Carolina Pirates,East Carolina
-400986894,2018-01-20,2,2541,home,FALSE,Santa Clara,60,Broncos,Santa Clara Broncos,Santa Clara
-400986894,2018-01-20,2,2250,away,FALSE,Gonzaga,75,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400988326,2018-01-20,2,24,home,FALSE,Stanford,71,Cardinal,Stanford Cardinal,Stanford
-400988326,2018-01-20,2,12,away,FALSE,Arizona,73,Wildcats,Arizona Wildcats,Arizona
-400986212,2018-01-20,2,153,home,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
-400986212,2018-01-20,2,59,away,FALSE,Georgia Tech,66,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-400988330,2018-01-20,2,25,home,FALSE,California,73,Golden Bears,California Golden Bears,California
-400988330,2018-01-20,2,9,away,FALSE,Arizona State,81,Sun Devils,Arizona State Sun Devils,Arizona St
-400987322,2018-01-20,2,2,home,FALSE,Auburn,79,Tigers,Auburn Tigers,Auburn
-400987322,2018-01-20,2,61,away,FALSE,Georgia,65,Bulldogs,Georgia Bulldogs,Georgia
-400987324,2018-01-20,2,96,home,FALSE,Kentucky,64,Wildcats,Kentucky Wildcats,Kentucky
-400987324,2018-01-20,2,57,away,FALSE,Florida,66,Gators,Florida Gators,Florida
-400986213,2018-01-20,2,228,home,FALSE,Clemson,67,Tigers,Clemson Tigers,Clemson
-400986213,2018-01-20,2,87,away,FALSE,Notre Dame,58,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400987320,2018-01-20,2,2579,home,FALSE,South Carolina,63,Gamecocks,South Carolina Gamecocks,South Carolina
-400987320,2018-01-20,2,2633,away,FALSE,Tennessee,70,Volunteers,Tennessee Volunteers,Tennessee
-400986520,2018-01-20,2,135,home,TRUE,Minnesota,49,Golden Gophers,Minnesota Golden Gophers,Minnesota
-400986520,2018-01-20,2,194,away,TRUE,Ohio State,67,Buckeyes,Ohio State Buckeyes,Ohio State
-400989205,2018-01-20,2,2306,home,FALSE,Kansas State,73,Wildcats,Kansas State Wildcats,Kansas St
-400989205,2018-01-20,2,2628,away,FALSE,TCU,68,Horned Frogs,TCU Horned Frogs,TCU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400988073,2018,regular-season,2018-01-20,2,41,home,FALSE,UConn,61,Huskies,UConn Huskies,UConn
+400988073,2018,regular-season,2018-01-20,2,222,away,FALSE,Villanova,81,Wildcats,Villanova Wildcats,Villanova
+400986518,2018,regular-season,2018-01-20,2,2294,home,FALSE,Iowa,64,Hawkeyes,Iowa Hawkeyes,Iowa
+400986518,2018,regular-season,2018-01-20,2,2509,away,FALSE,Purdue,87,Boilermakers,Purdue Boilermakers,Purdue
+400989222,2018,regular-season,2018-01-20,3,197,home,FALSE,Oklahoma State,83,Cowboys,Oklahoma State Cowboys,Oklahoma St
+400989222,2018,regular-season,2018-01-20,3,201,away,FALSE,Oklahoma,81,Sooners,Oklahoma Sooners,Oklahoma
+400986214,2018,regular-season,2018-01-20,2,150,home,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
+400986214,2018,regular-season,2018-01-20,2,221,away,FALSE,Pittsburgh,54,Panthers,Pittsburgh Panthers,Pitt
+400989263,2018,regular-season,2018-01-20,2,277,home,FALSE,West Virginia,86,Mountaineers,West Virginia Mountaineers,West Virginia
+400989263,2018,regular-season,2018-01-20,2,251,away,FALSE,Texas,51,Longhorns,Texas Longhorns,Texas
+400988074,2018,regular-season,2018-01-20,2,248,home,FALSE,Houston,73,Cougars,Houston Cougars,Houston
+400988074,2018,regular-season,2018-01-20,2,2724,away,FALSE,Wichita State,59,Shockers,Wichita State Shockers,Wichita St
+400989163,2018,regular-season,2018-01-20,2,66,home,FALSE,Iowa State,70,Cyclones,Iowa State Cyclones,Iowa State
+400989163,2018,regular-season,2018-01-20,2,2641,away,FALSE,Texas Tech,52,Red Raiders,Texas Tech Red Raiders,Texas Tech
+400989139,2018,regular-season,2018-01-20,2,2305,home,FALSE,Kansas,70,Jayhawks,Kansas Jayhawks,Kansas
+400989139,2018,regular-season,2018-01-20,2,239,away,FALSE,Baylor,67,Bears,Baylor Bears,Baylor
+400988582,2018,regular-season,2018-01-20,2,2550,home,FALSE,Seton Hall,64,Pirates,Seton Hall Pirates,Seton Hall
+400988582,2018,regular-season,2018-01-20,2,2752,away,FALSE,Xavier,73,Musketeers,Xavier Musketeers,Xavier
+400988075,2018,regular-season,2018-01-20,2,2132,home,FALSE,Cincinnati,86,Bearcats,Cincinnati Bearcats,Cincinnati
+400988075,2018,regular-season,2018-01-20,2,151,away,FALSE,East Carolina,60,Pirates,East Carolina Pirates,East Carolina
+400986894,2018,regular-season,2018-01-20,2,2541,home,FALSE,Santa Clara,60,Broncos,Santa Clara Broncos,Santa Clara
+400986894,2018,regular-season,2018-01-20,2,2250,away,FALSE,Gonzaga,75,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400988326,2018,regular-season,2018-01-20,2,24,home,FALSE,Stanford,71,Cardinal,Stanford Cardinal,Stanford
+400988326,2018,regular-season,2018-01-20,2,12,away,FALSE,Arizona,73,Wildcats,Arizona Wildcats,Arizona
+400986212,2018,regular-season,2018-01-20,2,153,home,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
+400986212,2018,regular-season,2018-01-20,2,59,away,FALSE,Georgia Tech,66,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+400988330,2018,regular-season,2018-01-20,2,25,home,FALSE,California,73,Golden Bears,California Golden Bears,California
+400988330,2018,regular-season,2018-01-20,2,9,away,FALSE,Arizona State,81,Sun Devils,Arizona State Sun Devils,Arizona St
+400987322,2018,regular-season,2018-01-20,2,2,home,FALSE,Auburn,79,Tigers,Auburn Tigers,Auburn
+400987322,2018,regular-season,2018-01-20,2,61,away,FALSE,Georgia,65,Bulldogs,Georgia Bulldogs,Georgia
+400987324,2018,regular-season,2018-01-20,2,96,home,FALSE,Kentucky,64,Wildcats,Kentucky Wildcats,Kentucky
+400987324,2018,regular-season,2018-01-20,2,57,away,FALSE,Florida,66,Gators,Florida Gators,Florida
+400986213,2018,regular-season,2018-01-20,2,228,home,FALSE,Clemson,67,Tigers,Clemson Tigers,Clemson
+400986213,2018,regular-season,2018-01-20,2,87,away,FALSE,Notre Dame,58,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400987320,2018,regular-season,2018-01-20,2,2579,home,FALSE,South Carolina,63,Gamecocks,South Carolina Gamecocks,South Carolina
+400987320,2018,regular-season,2018-01-20,2,2633,away,FALSE,Tennessee,70,Volunteers,Tennessee Volunteers,Tennessee
+400986520,2018,regular-season,2018-01-20,2,135,home,TRUE,Minnesota,49,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400986520,2018,regular-season,2018-01-20,2,194,away,TRUE,Ohio State,67,Buckeyes,Ohio State Buckeyes,Ohio State
+400989205,2018,regular-season,2018-01-20,2,2306,home,FALSE,Kansas State,73,Wildcats,Kansas State Wildcats,Kansas St
+400989205,2018,regular-season,2018-01-20,2,2628,away,FALSE,TCU,68,Horned Frogs,TCU Horned Frogs,TCU

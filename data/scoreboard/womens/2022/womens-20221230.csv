@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401498562,2022-12-30,4,2483,home,FALSE,Oregon,74,Ducks,Oregon Ducks,Oregon
-401498562,2022-12-30,4,26,away,FALSE,UCLA,82,Bruins,UCLA Bruins,UCLA
-401498561,2022-12-30,4,265,home,FALSE,Washington State,66,Cougars,Washington State Cougars,Washington St
-401498561,2022-12-30,4,254,away,FALSE,Utah,71,Utes,Utah Utes,Utah
-401484672,2022-12-30,4,120,home,FALSE,Maryland,107,Terrapins,Maryland Terrapins,Maryland
-401484672,2022-12-30,4,135,away,FALSE,Minnesota,85,Golden Gophers,Minnesota Golden Gophers,Minnesota
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401498562,2023,regular-season,2022-12-30,4,2483,home,FALSE,Oregon,74,Ducks,Oregon Ducks,Oregon
+401498562,2023,regular-season,2022-12-30,4,26,away,FALSE,UCLA,82,Bruins,UCLA Bruins,UCLA
+401498561,2023,regular-season,2022-12-30,4,265,home,FALSE,Washington State,66,Cougars,Washington State Cougars,Washington St
+401498561,2023,regular-season,2022-12-30,4,254,away,FALSE,Utah,71,Utes,Utah Utes,Utah
+401484672,2023,regular-season,2022-12-30,4,120,home,FALSE,Maryland,107,Terrapins,Maryland Terrapins,Maryland
+401484672,2023,regular-season,2022-12-30,4,135,away,FALSE,Minnesota,85,Golden Gophers,Minnesota Golden Gophers,Minnesota

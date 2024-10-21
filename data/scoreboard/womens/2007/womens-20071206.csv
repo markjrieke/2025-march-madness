@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273400150,2007-12-06,2,150,home,FALSE,Duke,49,Blue Devils,Duke Blue Devils,Duke
-273400150,2007-12-06,2,164,away,FALSE,Rutgers,44,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-273400245,2007-12-06,2,245,home,FALSE,Texas A&M,81,Aggies,Texas A&M Aggies,Texas A&M
-273400245,2007-12-06,2,52,away,FALSE,Florida State,67,Seminoles,Florida State Seminoles,Florida St
-273400238,2007-12-06,2,238,home,FALSE,Vanderbilt,75,Commodores,Vanderbilt Commodores,Vanderbilt
-273400238,2007-12-06,2,98,away,FALSE,Western Kentucky,54,Lady Toppers,Western Kentucky Lady Toppers,Western KY
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273400150,2008,regular-season,2007-12-06,2,150,home,FALSE,Duke,49,Blue Devils,Duke Blue Devils,Duke
+273400150,2008,regular-season,2007-12-06,2,164,away,FALSE,Rutgers,44,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+273400245,2008,regular-season,2007-12-06,2,245,home,FALSE,Texas A&M,81,Aggies,Texas A&M Aggies,Texas A&M
+273400245,2008,regular-season,2007-12-06,2,52,away,FALSE,Florida State,67,Seminoles,Florida State Seminoles,Florida St
+273400238,2008,regular-season,2007-12-06,2,238,home,FALSE,Vanderbilt,75,Commodores,Vanderbilt Commodores,Vanderbilt
+273400238,2008,regular-season,2007-12-06,2,98,away,FALSE,Western Kentucky,54,Lady Toppers,Western Kentucky Lady Toppers,Western KY

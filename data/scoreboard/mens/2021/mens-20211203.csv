@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401364342,2021-12-03,2,2509,home,FALSE,Purdue,77,Boilermakers,Purdue Boilermakers,Purdue
-401364342,2021-12-03,2,2294,away,FALSE,Iowa,70,Hawkeyes,Iowa Hawkeyes,Iowa
-401371404,2021-12-03,2,251,home,FALSE,Texas,88,Longhorns,Texas Longhorns,Texas
-401371404,2021-12-03,2,292,away,FALSE,UT Rio Grande Valley,58,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-401371813,2021-12-03,2,248,home,FALSE,Houston,111,Cougars,Houston Cougars,Houston
-401371813,2021-12-03,2,2803,away,FALSE,Bryant,44,Bulldogs,Bryant Bulldogs,Bryant
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401364342,2022,regular-season,2021-12-03,2,2509,home,FALSE,Purdue,77,Boilermakers,Purdue Boilermakers,Purdue
+401364342,2022,regular-season,2021-12-03,2,2294,away,FALSE,Iowa,70,Hawkeyes,Iowa Hawkeyes,Iowa
+401371404,2022,regular-season,2021-12-03,2,251,home,FALSE,Texas,88,Longhorns,Texas Longhorns,Texas
+401371404,2022,regular-season,2021-12-03,2,292,away,FALSE,UT Rio Grande Valley,58,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+401371813,2022,regular-season,2021-12-03,2,248,home,FALSE,Houston,111,Cougars,Houston Cougars,Houston
+401371813,2022,regular-season,2021-12-03,2,2803,away,FALSE,Bryant,44,Bulldogs,Bryant Bulldogs,Bryant

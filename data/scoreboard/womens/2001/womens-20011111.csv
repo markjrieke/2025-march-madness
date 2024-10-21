@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213150041,2001-11-11,2,41,home,FALSE,UConn,91,Huskies,UConn Huskies,UConn
-213150041,2001-11-11,2,2229,away,FALSE,Florida International,47,Panthers,Florida International Panthers,FIU
-213150238,2001-11-11,2,238,home,FALSE,Vanderbilt,81,Commodores,Vanderbilt Commodores,Vanderbilt
-213150238,2001-11-11,2,204,away,FALSE,Oregon State,55,Beavers,Oregon State Beavers,Oregon St
-213152509,2001-11-11,2,2509,home,FALSE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
-213152509,2001-11-11,2,201,away,FALSE,Oklahoma,80,Sooners,Oklahoma Sooners,Oklahoma
-213150150,2001-11-11,2,150,home,FALSE,Duke,85,Blue Devils,Duke Blue Devils,Duke
-213150150,2001-11-11,2,2641,away,FALSE,Texas Tech,69,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-213150167,2001-11-11,2,167,home,FALSE,New Mexico,63,Lobos,New Mexico Lobos,New Mexico
-213150167,2001-11-11,2,38,away,FALSE,Colorado,78,Buffaloes,Colorado Buffaloes,Colorado
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213150041,2002,regular-season,2001-11-11,2,41,home,FALSE,UConn,91,Huskies,UConn Huskies,UConn
+213150041,2002,regular-season,2001-11-11,2,2229,away,FALSE,Florida International,47,Panthers,Florida International Panthers,FIU
+213150238,2002,regular-season,2001-11-11,2,238,home,FALSE,Vanderbilt,81,Commodores,Vanderbilt Commodores,Vanderbilt
+213150238,2002,regular-season,2001-11-11,2,204,away,FALSE,Oregon State,55,Beavers,Oregon State Beavers,Oregon St
+213152509,2002,regular-season,2001-11-11,2,2509,home,FALSE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
+213152509,2002,regular-season,2001-11-11,2,201,away,FALSE,Oklahoma,80,Sooners,Oklahoma Sooners,Oklahoma
+213150150,2002,regular-season,2001-11-11,2,150,home,FALSE,Duke,85,Blue Devils,Duke Blue Devils,Duke
+213150150,2002,regular-season,2001-11-11,2,2641,away,FALSE,Texas Tech,69,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+213150167,2002,regular-season,2001-11-11,2,167,home,FALSE,New Mexico,63,Lobos,New Mexico Lobos,New Mexico
+213150167,2002,regular-season,2001-11-11,2,38,away,FALSE,Colorado,78,Buffaloes,Colorado Buffaloes,Colorado

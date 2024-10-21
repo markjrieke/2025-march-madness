@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401083123,2018-11-09,2,96,home,FALSE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
-401083123,2018-11-09,2,79,away,FALSE,Southern Illinois,59,Salukis,Southern Illinois Salukis,S Illinois
-401083652,2018-11-09,2,2440,home,FALSE,Nevada,83,Wolf Pack,Nevada Wolf Pack,Nevada
-401083652,2018-11-09,2,279,away,FALSE,Pacific,61,Tigers,Pacific Tigers,Pacific
-401082854,2018-11-09,2,2210,home,FALSE,Elon,67,Phoenix,Elon Phoenix,Elon
-401082854,2018-11-09,2,153,away,FALSE,North Carolina,116,Tar Heels,North Carolina Tar Heels,North Carolina
-401083164,2018-11-09,2,2,home,FALSE,Auburn,88,Tigers,Auburn Tigers,Auburn
-401083164,2018-11-09,2,264,away,FALSE,Washington,66,Huskies,Washington Huskies,Washington
-401083454,2018-11-09,3,277,home,FALSE,West Virginia,94,Mountaineers,West Virginia Mountaineers,West Virginia
-401083454,2018-11-09,3,2084,away,FALSE,Buffalo,99,Bulls,Buffalo Bulls,Buffalo
-401082740,2018-11-09,2,259,home,FALSE,Virginia Tech,87,Hokies,Virginia Tech Hokies,Virginia Tech
-401082740,2018-11-09,2,2241,away,FALSE,Gardner-Webb,59,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-401083063,2018-11-09,2,344,home,FALSE,Mississippi State,95,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401083063,2018-11-09,2,2046,away,FALSE,Austin Peay,67,Governors,Austin Peay Governors,Austin Peay
-401087148,2018-11-09,2,26,home,FALSE,UCLA,91,Bruins,UCLA Bruins,UCLA
-401087148,2018-11-09,2,299,away,FALSE,Long Beach State,80,Beach,Long Beach State Beach,Long Beach St
-401082643,2018-11-09,2,228,home,FALSE,Clemson,71,Tigers,Clemson Tigers,Clemson
-401082643,2018-11-09,2,2428,away,FALSE,North Carolina Central,51,Eagles,North Carolina Central Eagles,NC Central
-401083105,2018-11-09,2,99,home,FALSE,LSU,97,Tigers,LSU Tigers,LSU
-401083105,2018-11-09,2,2430,away,FALSE,UNC Greensboro,91,Spartans,UNC Greensboro Spartans,UNC Greensboro
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401083123,2019,regular-season,2018-11-09,2,96,home,FALSE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
+401083123,2019,regular-season,2018-11-09,2,79,away,FALSE,Southern Illinois,59,Salukis,Southern Illinois Salukis,S Illinois
+401083652,2019,regular-season,2018-11-09,2,2440,home,FALSE,Nevada,83,Wolf Pack,Nevada Wolf Pack,Nevada
+401083652,2019,regular-season,2018-11-09,2,279,away,FALSE,Pacific,61,Tigers,Pacific Tigers,Pacific
+401082854,2019,regular-season,2018-11-09,2,2210,home,FALSE,Elon,67,Phoenix,Elon Phoenix,Elon
+401082854,2019,regular-season,2018-11-09,2,153,away,FALSE,North Carolina,116,Tar Heels,North Carolina Tar Heels,North Carolina
+401083164,2019,regular-season,2018-11-09,2,2,home,FALSE,Auburn,88,Tigers,Auburn Tigers,Auburn
+401083164,2019,regular-season,2018-11-09,2,264,away,FALSE,Washington,66,Huskies,Washington Huskies,Washington
+401083454,2019,regular-season,2018-11-09,3,277,home,FALSE,West Virginia,94,Mountaineers,West Virginia Mountaineers,West Virginia
+401083454,2019,regular-season,2018-11-09,3,2084,away,FALSE,Buffalo,99,Bulls,Buffalo Bulls,Buffalo
+401082740,2019,regular-season,2018-11-09,2,259,home,FALSE,Virginia Tech,87,Hokies,Virginia Tech Hokies,Virginia Tech
+401082740,2019,regular-season,2018-11-09,2,2241,away,FALSE,Gardner-Webb,59,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+401083063,2019,regular-season,2018-11-09,2,344,home,FALSE,Mississippi State,95,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401083063,2019,regular-season,2018-11-09,2,2046,away,FALSE,Austin Peay,67,Governors,Austin Peay Governors,Austin Peay
+401087148,2019,regular-season,2018-11-09,2,26,home,FALSE,UCLA,91,Bruins,UCLA Bruins,UCLA
+401087148,2019,regular-season,2018-11-09,2,299,away,FALSE,Long Beach State,80,Beach,Long Beach State Beach,Long Beach St
+401082643,2019,regular-season,2018-11-09,2,228,home,FALSE,Clemson,71,Tigers,Clemson Tigers,Clemson
+401082643,2019,regular-season,2018-11-09,2,2428,away,FALSE,North Carolina Central,51,Eagles,North Carolina Central Eagles,NC Central
+401083105,2019,regular-season,2018-11-09,2,99,home,FALSE,LSU,97,Tigers,LSU Tigers,LSU
+401083105,2019,regular-season,2018-11-09,2,2430,away,FALSE,UNC Greensboro,91,Spartans,UNC Greensboro Spartans,UNC Greensboro

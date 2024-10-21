@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280580235,2008-02-27,2,235,home,FALSE,Memphis,82,Tigers,Memphis Tigers,Memphis
-280580235,2008-02-27,2,202,away,FALSE,Tulsa,67,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-280580066,2008-02-27,2,66,home,FALSE,Iowa State,64,Cyclones,Iowa State Cyclones,Iowa State
-280580066,2008-02-27,2,2305,away,FALSE,Kansas,75,Jayhawks,Kansas Jayhawks,Kansas
-280580150,2008-02-27,2,150,home,FALSE,Duke,71,Blue Devils,Duke Blue Devils,Duke
-280580150,2008-02-27,2,59,away,FALSE,Georgia Tech,58,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-280580046,2008-02-27,2,46,home,FALSE,Georgetown,64,Hoyas,Georgetown Hoyas,Georgetown
-280580046,2008-02-27,2,2599,away,FALSE,St. John's,52,Red Storm,St. John's Red Storm,St John's
-280582509,2008-02-27,2,2509,home,FALSE,Purdue,65,Boilermakers,Purdue Boilermakers,Purdue
-280582509,2008-02-27,2,135,away,FALSE,Minnesota,53,Golden Gophers,Minnesota Golden Gophers,Minnesota
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280580235,2008,regular-season,2008-02-27,2,235,home,FALSE,Memphis,82,Tigers,Memphis Tigers,Memphis
+280580235,2008,regular-season,2008-02-27,2,202,away,FALSE,Tulsa,67,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+280580066,2008,regular-season,2008-02-27,2,66,home,FALSE,Iowa State,64,Cyclones,Iowa State Cyclones,Iowa State
+280580066,2008,regular-season,2008-02-27,2,2305,away,FALSE,Kansas,75,Jayhawks,Kansas Jayhawks,Kansas
+280580150,2008,regular-season,2008-02-27,2,150,home,FALSE,Duke,71,Blue Devils,Duke Blue Devils,Duke
+280580150,2008,regular-season,2008-02-27,2,59,away,FALSE,Georgia Tech,58,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+280580046,2008,regular-season,2008-02-27,2,46,home,FALSE,Georgetown,64,Hoyas,Georgetown Hoyas,Georgetown
+280580046,2008,regular-season,2008-02-27,2,2599,away,FALSE,St. John's,52,Red Storm,St. John's Red Storm,St John's
+280582509,2008,regular-season,2008-02-27,2,2509,home,FALSE,Purdue,65,Boilermakers,Purdue Boilermakers,Purdue
+280582509,2008,regular-season,2008-02-27,2,135,away,FALSE,Minnesota,53,Golden Gophers,Minnesota Golden Gophers,Minnesota

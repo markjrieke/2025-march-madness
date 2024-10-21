@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400917341,2016-11-19,4,194,home,FALSE,Ohio State,113,Buckeyes,Ohio State Buckeyes,Ohio State
-400917341,2016-11-19,4,2341,away,FALSE,LIU Brooklyn,54,Blackbirds,LIU Brooklyn Blackbirds,LIU Brooklyn
-400912533,2016-11-19,4,38,home,FALSE,Colorado,79,Buffaloes,Colorado Buffaloes,Colorado
-400912533,2016-11-19,4,96,away,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
-400911069,2016-11-19,4,252,home,FALSE,BYU,61,Cougars,BYU Cougars,BYU
-400911069,2016-11-19,4,201,away,FALSE,Oklahoma,68,Sooners,Oklahoma Sooners,Oklahoma
-400911280,2016-11-19,4,269,home,FALSE,Marquette,75,Golden Eagles,Marquette Golden Eagles,Marquette
-400911280,2016-11-19,4,9,away,FALSE,Arizona State,63,Sun Devils,Arizona State Sun Devils,Arizona St
-400911649,2016-11-19,4,57,home,TRUE,Florida,83,Gators,Florida Gators,Florida
-400911649,2016-11-19,4,218,away,TRUE,Temple,76,Owls,Temple Owls,Temple
-400911281,2016-11-19,4,305,home,FALSE,DePaul,89,Blue Demons,DePaul Blue Demons,DePaul
-400911281,2016-11-19,4,77,away,FALSE,Northwestern,66,Wildcats,Northwestern Wildcats,Northwestern
-400911067,2016-11-19,4,277,home,FALSE,West Virginia,69,Mountaineers,West Virginia Mountaineers,West Virginia
-400911067,2016-11-19,4,2154,away,FALSE,Coppin State,39,Eagles,Coppin State Eagles,Coppin St
-400912939,2016-11-19,4,98,home,FALSE,Western Kentucky,85,Lady Toppers,Western Kentucky Lady Toppers,Western KY
-400912939,2016-11-19,4,84,away,FALSE,Indiana,74,Hoosiers,Indiana Hoosiers,Indiana
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400917341,2017,regular-season,2016-11-19,4,194,home,FALSE,Ohio State,113,Buckeyes,Ohio State Buckeyes,Ohio State
+400917341,2017,regular-season,2016-11-19,4,2341,away,FALSE,LIU Brooklyn,54,Blackbirds,LIU Brooklyn Blackbirds,LIU Brooklyn
+400912533,2017,regular-season,2016-11-19,4,38,home,FALSE,Colorado,79,Buffaloes,Colorado Buffaloes,Colorado
+400912533,2017,regular-season,2016-11-19,4,96,away,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
+400911069,2017,regular-season,2016-11-19,4,252,home,FALSE,BYU,61,Cougars,BYU Cougars,BYU
+400911069,2017,regular-season,2016-11-19,4,201,away,FALSE,Oklahoma,68,Sooners,Oklahoma Sooners,Oklahoma
+400911280,2017,regular-season,2016-11-19,4,269,home,FALSE,Marquette,75,Golden Eagles,Marquette Golden Eagles,Marquette
+400911280,2017,regular-season,2016-11-19,4,9,away,FALSE,Arizona State,63,Sun Devils,Arizona State Sun Devils,Arizona St
+400911649,2017,regular-season,2016-11-19,4,57,home,TRUE,Florida,83,Gators,Florida Gators,Florida
+400911649,2017,regular-season,2016-11-19,4,218,away,TRUE,Temple,76,Owls,Temple Owls,Temple
+400911281,2017,regular-season,2016-11-19,4,305,home,FALSE,DePaul,89,Blue Demons,DePaul Blue Demons,DePaul
+400911281,2017,regular-season,2016-11-19,4,77,away,FALSE,Northwestern,66,Wildcats,Northwestern Wildcats,Northwestern
+400911067,2017,regular-season,2016-11-19,4,277,home,FALSE,West Virginia,69,Mountaineers,West Virginia Mountaineers,West Virginia
+400911067,2017,regular-season,2016-11-19,4,2154,away,FALSE,Coppin State,39,Eagles,Coppin State Eagles,Coppin St
+400912939,2017,regular-season,2016-11-19,4,98,home,FALSE,Western Kentucky,85,Lady Toppers,Western Kentucky Lady Toppers,Western KY
+400912939,2017,regular-season,2016-11-19,4,84,away,FALSE,Indiana,74,Hoosiers,Indiana Hoosiers,Indiana

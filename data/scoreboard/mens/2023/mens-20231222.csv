@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401575458,2023-12-22,2,2305,home,FALSE,Kansas,75,Jayhawks,Kansas Jayhawks,Kansas
-401575458,2023-12-22,2,43,away,FALSE,Yale,60,Bulldogs,Yale Bulldogs,Yale
-401599443,2023-12-22,2,269,home,FALSE,Marquette,81,Golden Eagles,Marquette Golden Eagles,Marquette
-401599443,2023-12-22,2,46,away,FALSE,Georgetown,51,Hoyas,Georgetown Hoyas,Georgetown
-401604912,2023-12-22,2,239,home,FALSE,Baylor,107,Bears,Baylor Bears,Baylor
-401604912,2023-12-22,2,2400,away,FALSE,Mississippi Valley State,48,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
-401584516,2023-12-22,2,356,home,TRUE,Illinois,97,Fighting Illini,Illinois Fighting Illini,Illinois
-401584516,2023-12-22,2,142,away,TRUE,Missouri,73,Tigers,Missouri Tigers,Missouri
-401590983,2023-12-22,2,2351,home,FALSE,Loyola Marymount,67,Lions,Loyola Marymount Lions,LMU
-401590983,2023-12-22,2,36,away,FALSE,Colorado State,76,Rams,Colorado State Rams,Colorado St
-401593957,2023-12-22,2,252,home,FALSE,BYU,101,Cougars,BYU Cougars,BYU
-401593957,2023-12-22,2,91,away,FALSE,Bellarmine,59,Knights,Bellarmine Knights,Bellarmine
-401583723,2023-12-22,2,228,home,FALSE,Clemson,109,Tigers,Clemson Tigers,Clemson
-401583723,2023-12-22,2,2511,away,FALSE,Queens University,79,Royals,Queens University Royals,Queens
-401583731,2023-12-22,2,251,home,FALSE,Texas,71,Longhorns,Texas Longhorns,Texas
-401583731,2023-12-22,2,357,away,FALSE,Texas A&M-Corpus Christi,55,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-401581844,2023-12-22,2,2415,home,FALSE,Morgan State,75,Bears,Morgan State Bears,Morgan St
-401581844,2023-12-22,2,256,away,FALSE,James Madison,89,Dukes,James Madison Dukes,James Madison
-401584416,2023-12-22,2,275,home,FALSE,Wisconsin,80,Badgers,Wisconsin Badgers,Wisconsin
-401584416,2023-12-22,2,2130,away,FALSE,Chicago State,53,Cougars,Chicago State Cougars,Chicago St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401575458,2024,regular-season,2023-12-22,2,2305,home,FALSE,Kansas,75,Jayhawks,Kansas Jayhawks,Kansas
+401575458,2024,regular-season,2023-12-22,2,43,away,FALSE,Yale,60,Bulldogs,Yale Bulldogs,Yale
+401599443,2024,regular-season,2023-12-22,2,269,home,FALSE,Marquette,81,Golden Eagles,Marquette Golden Eagles,Marquette
+401599443,2024,regular-season,2023-12-22,2,46,away,FALSE,Georgetown,51,Hoyas,Georgetown Hoyas,Georgetown
+401604912,2024,regular-season,2023-12-22,2,239,home,FALSE,Baylor,107,Bears,Baylor Bears,Baylor
+401604912,2024,regular-season,2023-12-22,2,2400,away,FALSE,Mississippi Valley State,48,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
+401584516,2024,regular-season,2023-12-22,2,356,home,TRUE,Illinois,97,Fighting Illini,Illinois Fighting Illini,Illinois
+401584516,2024,regular-season,2023-12-22,2,142,away,TRUE,Missouri,73,Tigers,Missouri Tigers,Missouri
+401590983,2024,regular-season,2023-12-22,2,2351,home,FALSE,Loyola Marymount,67,Lions,Loyola Marymount Lions,LMU
+401590983,2024,regular-season,2023-12-22,2,36,away,FALSE,Colorado State,76,Rams,Colorado State Rams,Colorado St
+401593957,2024,regular-season,2023-12-22,2,252,home,FALSE,BYU,101,Cougars,BYU Cougars,BYU
+401593957,2024,regular-season,2023-12-22,2,91,away,FALSE,Bellarmine,59,Knights,Bellarmine Knights,Bellarmine
+401583723,2024,regular-season,2023-12-22,2,228,home,FALSE,Clemson,109,Tigers,Clemson Tigers,Clemson
+401583723,2024,regular-season,2023-12-22,2,2511,away,FALSE,Queens University,79,Royals,Queens University Royals,Queens
+401583731,2024,regular-season,2023-12-22,2,251,home,FALSE,Texas,71,Longhorns,Texas Longhorns,Texas
+401583731,2024,regular-season,2023-12-22,2,357,away,FALSE,Texas A&M-Corpus Christi,55,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+401581844,2024,regular-season,2023-12-22,2,2415,home,FALSE,Morgan State,75,Bears,Morgan State Bears,Morgan St
+401581844,2024,regular-season,2023-12-22,2,256,away,FALSE,James Madison,89,Dukes,James Madison Dukes,James Madison
+401584416,2024,regular-season,2023-12-22,2,275,home,FALSE,Wisconsin,80,Badgers,Wisconsin Badgers,Wisconsin
+401584416,2024,regular-season,2023-12-22,2,2130,away,FALSE,Chicago State,53,Cougars,Chicago State Cougars,Chicago St

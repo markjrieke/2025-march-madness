@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400831616,2016-01-25,4,96,home,FALSE,Kentucky,64,Wildcats,Kentucky Wildcats,Kentucky
-400831616,2016-01-25,4,2633,away,FALSE,Tennessee,63,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400842520,2016-01-25,4,183,home,FALSE,Syracuse,53,Orange,Syracuse Orange,Syracuse
-400842520,2016-01-25,4,97,away,FALSE,Louisville,71,Cardinals,Louisville Cardinals,Louisville
-400861754,2016-01-25,0,120,home,FALSE,Maryland,0,Terrapins,Maryland Terrapins,Maryland
-400861754,2016-01-25,0,127,away,FALSE,Michigan State,0,Spartans,Michigan State Spartans,Michigan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400831616,2016,regular-season,2016-01-25,4,96,home,FALSE,Kentucky,64,Wildcats,Kentucky Wildcats,Kentucky
+400831616,2016,regular-season,2016-01-25,4,2633,away,FALSE,Tennessee,63,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400842520,2016,regular-season,2016-01-25,4,183,home,FALSE,Syracuse,53,Orange,Syracuse Orange,Syracuse
+400842520,2016,regular-season,2016-01-25,4,97,away,FALSE,Louisville,71,Cardinals,Louisville Cardinals,Louisville
+400861754,2016,regular-season,2016-01-25,0,120,home,FALSE,Maryland,0,Terrapins,Maryland Terrapins,Maryland
+400861754,2016,regular-season,2016-01-25,0,127,away,FALSE,Michigan State,0,Spartans,Michigan State Spartans,Michigan St

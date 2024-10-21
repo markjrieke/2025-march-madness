@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400844169,2016-01-01,3,24,home,FALSE,Stanford,70,Cardinal,Stanford Cardinal,Stanford
-400844169,2016-01-01,3,254,away,FALSE,Utah,68,Utes,Utah Utes,Utah
-400841288,2016-01-01,4,264,home,FALSE,Washington,96,Huskies,Washington Huskies,Washington
-400841288,2016-01-01,4,26,away,FALSE,UCLA,93,Bruins,UCLA Bruins,UCLA
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400844169,2016,regular-season,2016-01-01,3,24,home,FALSE,Stanford,70,Cardinal,Stanford Cardinal,Stanford
+400844169,2016,regular-season,2016-01-01,3,254,away,FALSE,Utah,68,Utes,Utah Utes,Utah
+400841288,2016,regular-season,2016-01-01,4,264,home,FALSE,Washington,96,Huskies,Washington Huskies,Washington
+400841288,2016,regular-season,2016-01-01,4,26,away,FALSE,UCLA,93,Bruins,UCLA Bruins,UCLA

@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400834757,2015-12-21,4,41,home,FALSE,UConn,86,Huskies,UConn Huskies,UConn
-400834757,2015-12-21,4,99,away,FALSE,LSU,40,Tigers,LSU Tigers,LSU
-400842270,2015-12-21,4,2603,home,FALSE,Saint Joseph's,55,Hawks,Saint Joseph's Hawks,Saint Joseph's
-400842270,2015-12-21,4,87,away,FALSE,Notre Dame,91,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400819181,2015-12-21,4,194,home,FALSE,Ohio State,93,Buckeyes,Ohio State Buckeyes,Ohio State
-400819181,2015-12-21,4,258,away,FALSE,Virginia,73,Cavaliers,Virginia Cavaliers,Virginia
-400821065,2015-12-21,4,9,home,FALSE,Arizona State,68,Sun Devils,Arizona State Sun Devils,Arizona St
-400821065,2015-12-21,4,52,away,FALSE,Florida State,56,Seminoles,Florida State Seminoles,Florida St
-400835428,2015-12-21,4,204,home,FALSE,Oregon State,80,Beavers,Oregon State Beavers,Oregon St
-400835428,2015-12-21,4,13,away,FALSE,Cal Poly,43,Mustangs,Cal Poly Mustangs,Cal Poly
-400841397,2015-12-21,4,305,home,FALSE,DePaul,75,Blue Demons,DePaul Blue Demons,DePaul
-400841397,2015-12-21,4,2350,away,FALSE,Loyola Chicago,88,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-400821074,2015-12-21,6,25,home,FALSE,California,108,Golden Bears,California Golden Bears,California
-400821074,2015-12-21,6,26,away,FALSE,UCLA,104,Bruins,UCLA Bruins,UCLA
-400830355,2015-12-21,4,127,home,FALSE,Michigan State,81,Spartans,Michigan State Spartans,Michigan St
-400830355,2015-12-21,4,2174,away,FALSE,Detroit Mercy,42,Titans,Detroit Mercy Titans,Detroit Mercy
-400842371,2015-12-21,4,142,home,FALSE,Missouri,82,Tigers,Missouri Tigers,Missouri
-400842371,2015-12-21,4,326,away,FALSE,Texas State,56,Bobcats,Texas State Bobcats,Texas St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400834757,2016,regular-season,2015-12-21,4,41,home,FALSE,UConn,86,Huskies,UConn Huskies,UConn
+400834757,2016,regular-season,2015-12-21,4,99,away,FALSE,LSU,40,Tigers,LSU Tigers,LSU
+400842270,2016,regular-season,2015-12-21,4,2603,home,FALSE,Saint Joseph's,55,Hawks,Saint Joseph's Hawks,Saint Joseph's
+400842270,2016,regular-season,2015-12-21,4,87,away,FALSE,Notre Dame,91,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400819181,2016,regular-season,2015-12-21,4,194,home,FALSE,Ohio State,93,Buckeyes,Ohio State Buckeyes,Ohio State
+400819181,2016,regular-season,2015-12-21,4,258,away,FALSE,Virginia,73,Cavaliers,Virginia Cavaliers,Virginia
+400821065,2016,regular-season,2015-12-21,4,9,home,FALSE,Arizona State,68,Sun Devils,Arizona State Sun Devils,Arizona St
+400821065,2016,regular-season,2015-12-21,4,52,away,FALSE,Florida State,56,Seminoles,Florida State Seminoles,Florida St
+400835428,2016,regular-season,2015-12-21,4,204,home,FALSE,Oregon State,80,Beavers,Oregon State Beavers,Oregon St
+400835428,2016,regular-season,2015-12-21,4,13,away,FALSE,Cal Poly,43,Mustangs,Cal Poly Mustangs,Cal Poly
+400841397,2016,regular-season,2015-12-21,4,305,home,FALSE,DePaul,75,Blue Demons,DePaul Blue Demons,DePaul
+400841397,2016,regular-season,2015-12-21,4,2350,away,FALSE,Loyola Chicago,88,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+400821074,2016,regular-season,2015-12-21,6,25,home,FALSE,California,108,Golden Bears,California Golden Bears,California
+400821074,2016,regular-season,2015-12-21,6,26,away,FALSE,UCLA,104,Bruins,UCLA Bruins,UCLA
+400830355,2016,regular-season,2015-12-21,4,127,home,FALSE,Michigan State,81,Spartans,Michigan State Spartans,Michigan St
+400830355,2016,regular-season,2015-12-21,4,2174,away,FALSE,Detroit Mercy,42,Titans,Detroit Mercy Titans,Detroit Mercy
+400842371,2016,regular-season,2015-12-21,4,142,home,FALSE,Missouri,82,Tigers,Missouri Tigers,Missouri
+400842371,2016,regular-season,2015-12-21,4,326,away,FALSE,Texas State,56,Bobcats,Texas State Bobcats,Texas St

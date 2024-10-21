@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293210251,2009-11-17,2,251,home,TRUE,Texas,58,Longhorns,Texas Longhorns,Texas
-293210251,2009-11-17,2,41,away,TRUE,UConn,83,Huskies,UConn Huskies,UConn
-293210194,2009-11-17,2,194,home,FALSE,Ohio State,88,Buckeyes,Ohio State Buckeyes,Ohio State
-293210194,2009-11-17,2,5,away,FALSE,UAB,55,Blazers,UAB Blazers,UAB
-293212633,2009-11-17,2,2641,home,TRUE,Texas Tech,53,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-293212633,2009-11-17,2,2633,away,TRUE,Tennessee,91,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-293210239,2009-11-17,2,239,home,FALSE,Baylor,100,Bears,Baylor Bears,Baylor
-293210239,2009-11-17,2,2635,away,FALSE,Tennessee Tech,55,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
-293210057,2009-11-17,2,57,home,FALSE,Florida,62,Gators,Florida Gators,Florida
-293210057,2009-11-17,2,52,away,FALSE,Florida State,66,Seminoles,Florida State Seminoles,Florida St
-293210025,2009-11-17,2,25,home,FALSE,California,68,Golden Bears,California Golden Bears,California
-293210025,2009-11-17,2,2608,away,FALSE,Saint Mary's,65,Gaels,Saint Mary's Gaels,Saint Mary's
-293210042,2009-11-17,2,42,home,FALSE,Hartford,62,Hawks,Hartford Hawks,Hartford
-293210042,2009-11-17,2,97,away,FALSE,Louisville,50,Cardinals,Louisville Cardinals,Louisville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293210251,2010,regular-season,2009-11-17,2,251,home,TRUE,Texas,58,Longhorns,Texas Longhorns,Texas
+293210251,2010,regular-season,2009-11-17,2,41,away,TRUE,UConn,83,Huskies,UConn Huskies,UConn
+293210194,2010,regular-season,2009-11-17,2,194,home,FALSE,Ohio State,88,Buckeyes,Ohio State Buckeyes,Ohio State
+293210194,2010,regular-season,2009-11-17,2,5,away,FALSE,UAB,55,Blazers,UAB Blazers,UAB
+293212633,2010,regular-season,2009-11-17,2,2641,home,TRUE,Texas Tech,53,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+293212633,2010,regular-season,2009-11-17,2,2633,away,TRUE,Tennessee,91,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+293210239,2010,regular-season,2009-11-17,2,239,home,FALSE,Baylor,100,Bears,Baylor Bears,Baylor
+293210239,2010,regular-season,2009-11-17,2,2635,away,FALSE,Tennessee Tech,55,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
+293210057,2010,regular-season,2009-11-17,2,57,home,FALSE,Florida,62,Gators,Florida Gators,Florida
+293210057,2010,regular-season,2009-11-17,2,52,away,FALSE,Florida State,66,Seminoles,Florida State Seminoles,Florida St
+293210025,2010,regular-season,2009-11-17,2,25,home,FALSE,California,68,Golden Bears,California Golden Bears,California
+293210025,2010,regular-season,2009-11-17,2,2608,away,FALSE,Saint Mary's,65,Gaels,Saint Mary's Gaels,Saint Mary's
+293210042,2010,regular-season,2009-11-17,2,42,home,FALSE,Hartford,62,Hawks,Hartford Hawks,Hartford
+293210042,2010,regular-season,2009-11-17,2,97,away,FALSE,Louisville,50,Cardinals,Louisville Cardinals,Louisville

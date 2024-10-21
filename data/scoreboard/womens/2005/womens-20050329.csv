@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-254000046,2005-03-29,2,127,home,FALSE,Michigan State,76,Spartans,Michigan State Spartans,Michigan St
-254000046,2005-03-29,2,24,away,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
-254000030,2005-03-29,2,2633,home,FALSE,Tennessee,59,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-254000030,2005-03-29,2,164,away,FALSE,Rutgers,49,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+254000046,2005,post-season,2005-03-29,2,127,home,FALSE,Michigan State,76,Spartans,Michigan State Spartans,Michigan St
+254000046,2005,post-season,2005-03-29,2,24,away,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
+254000030,2005,post-season,2005-03-29,2,2633,home,FALSE,Tennessee,59,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+254000030,2005,post-season,2005-03-29,2,164,away,FALSE,Rutgers,49,Scarlet Knights,Rutgers Scarlet Knights,Rutgers

@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253542633,2005-12-20,2,2633,home,FALSE,Tennessee,107,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-253542633,2005-12-20,2,163,away,FALSE,Princeton,39,Tigers,Princeton Tigers,Princeton
-253540099,2005-12-20,2,99,home,FALSE,LSU,89,Tigers,LSU Tigers,LSU
-253540099,2005-12-20,2,2655,away,FALSE,Tulane,60,Green Wave,Tulane Green Wave,Tulane
-253540153,2005-12-20,2,153,home,FALSE,North Carolina,87,Tar Heels,North Carolina Tar Heels,North Carolina
-253540153,2005-12-20,2,238,away,FALSE,Vanderbilt,67,Commodores,Vanderbilt Commodores,Vanderbilt
-253540194,2005-12-20,2,194,home,FALSE,Ohio State,84,Buckeyes,Ohio State Buckeyes,Ohio State
-253540194,2005-12-20,2,2529,away,FALSE,Sacred Heart,40,Pioneers,Sacred Heart Pioneers,Sacred Heart
-253540265,2005-12-20,2,265,home,FALSE,Washington State,56,Cougars,Washington State Cougars,Washington St
-253540265,2005-12-20,2,24,away,FALSE,Stanford,76,Cardinal,Stanford Cardinal,Stanford
-253542350,2005-12-20,2,2350,home,FALSE,Loyola Chicago,48,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-253542350,2005-12-20,2,305,away,FALSE,DePaul,96,Blue Demons,DePaul Blue Demons,DePaul
-253540344,2005-12-20,2,344,home,FALSE,Mississippi State,42,Bulldogs,Mississippi State Bulldogs,Mississippi St
-253540344,2005-12-20,2,2509,away,FALSE,Purdue,61,Boilermakers,Purdue Boilermakers,Purdue
-253540021,2005-12-20,2,21,home,FALSE,San Diego State,54,Aztecs,San Diego State Aztecs,San Diego St
-253540021,2005-12-20,2,68,away,FALSE,Boise State,51,Broncos,Boise State Broncos,Boise St
-253542348,2005-12-20,2,2348,home,FALSE,Louisiana Tech,84,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-253542348,2005-12-20,2,145,away,FALSE,Ole Miss,71,Rebels,Ole Miss Rebels,Ole Miss
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253542633,2006,regular-season,2005-12-20,2,2633,home,FALSE,Tennessee,107,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+253542633,2006,regular-season,2005-12-20,2,163,away,FALSE,Princeton,39,Tigers,Princeton Tigers,Princeton
+253540099,2006,regular-season,2005-12-20,2,99,home,FALSE,LSU,89,Tigers,LSU Tigers,LSU
+253540099,2006,regular-season,2005-12-20,2,2655,away,FALSE,Tulane,60,Green Wave,Tulane Green Wave,Tulane
+253540153,2006,regular-season,2005-12-20,2,153,home,FALSE,North Carolina,87,Tar Heels,North Carolina Tar Heels,North Carolina
+253540153,2006,regular-season,2005-12-20,2,238,away,FALSE,Vanderbilt,67,Commodores,Vanderbilt Commodores,Vanderbilt
+253540194,2006,regular-season,2005-12-20,2,194,home,FALSE,Ohio State,84,Buckeyes,Ohio State Buckeyes,Ohio State
+253540194,2006,regular-season,2005-12-20,2,2529,away,FALSE,Sacred Heart,40,Pioneers,Sacred Heart Pioneers,Sacred Heart
+253540265,2006,regular-season,2005-12-20,2,265,home,FALSE,Washington State,56,Cougars,Washington State Cougars,Washington St
+253540265,2006,regular-season,2005-12-20,2,24,away,FALSE,Stanford,76,Cardinal,Stanford Cardinal,Stanford
+253542350,2006,regular-season,2005-12-20,2,2350,home,FALSE,Loyola Chicago,48,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+253542350,2006,regular-season,2005-12-20,2,305,away,FALSE,DePaul,96,Blue Demons,DePaul Blue Demons,DePaul
+253540344,2006,regular-season,2005-12-20,2,344,home,FALSE,Mississippi State,42,Bulldogs,Mississippi State Bulldogs,Mississippi St
+253540344,2006,regular-season,2005-12-20,2,2509,away,FALSE,Purdue,61,Boilermakers,Purdue Boilermakers,Purdue
+253540021,2006,regular-season,2005-12-20,2,21,home,FALSE,San Diego State,54,Aztecs,San Diego State Aztecs,San Diego St
+253540021,2006,regular-season,2005-12-20,2,68,away,FALSE,Boise State,51,Broncos,Boise State Broncos,Boise St
+253542348,2006,regular-season,2005-12-20,2,2348,home,FALSE,Louisiana Tech,84,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+253542348,2006,regular-season,2005-12-20,2,145,away,FALSE,Ole Miss,71,Rebels,Ole Miss Rebels,Ole Miss

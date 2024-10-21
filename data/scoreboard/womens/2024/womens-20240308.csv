@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401629629,2024-03-08,4,2579,home,TRUE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
-401629629,2024-03-08,4,245,away,TRUE,Texas A&M,68,Aggies,Texas A&M Aggies,Texas A&M
-401629611,2024-03-08,4,24,home,TRUE,Stanford,66,Cardinal,Stanford Cardinal,Stanford
-401629611,2024-03-08,4,204,away,TRUE,Oregon State,57,Beavers,Oregon State Beavers,Oregon St
-401629349,2024-03-08,4,2294,home,TRUE,Iowa,95,Hawkeyes,Iowa Hawkeyes,Iowa
-401629349,2024-03-08,4,213,away,TRUE,Penn State,62,Lady Lions,Penn State Lady Lions,Penn State
-401629347,2024-03-08,4,194,home,TRUE,Ohio State,61,Buckeyes,Ohio State Buckeyes,Ohio State
-401629347,2024-03-08,4,120,away,TRUE,Maryland,82,Terrapins,Maryland Terrapins,Maryland
-401629612,2024-03-08,6,30,home,TRUE,USC,80,Trojans,USC Trojans,USC
-401629612,2024-03-08,6,26,away,TRUE,UCLA,70,Bruins,UCLA Bruins,UCLA
-401629631,2024-03-08,4,99,home,TRUE,LSU,78,Tigers,LSU Tigers,LSU
-401629631,2024-03-08,4,2,away,TRUE,Auburn,48,Tigers,Auburn Tigers,Auburn
-401629141,2024-03-08,4,152,home,TRUE,NC State,54,Wolfpack,NC State Wolfpack,NC State
-401629141,2024-03-08,4,150,away,TRUE,Duke,51,Blue Devils,Duke Blue Devils,Duke
-401629140,2024-03-08,4,259,home,TRUE,Virginia Tech,55,Hokies,Virginia Tech Hokies,Virginia Tech
-401629140,2024-03-08,4,2390,away,TRUE,Miami,47,Hurricanes,Miami Hurricanes,Miami
-401629350,2024-03-08,4,84,home,TRUE,Indiana,56,Hoosiers,Indiana Hoosiers,Indiana
-401629350,2024-03-08,4,130,away,TRUE,Michigan,69,Wolverines,Michigan Wolverines,Michigan
-401629139,2024-03-08,4,87,home,TRUE,Notre Dame,77,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401629139,2024-03-08,4,97,away,TRUE,Louisville,68,Cardinals,Louisville Cardinals,Louisville
-401629268,2024-03-08,4,239,home,TRUE,Baylor,71,Bears,Baylor Bears,Baylor
-401629268,2024-03-08,4,2641,away,TRUE,Texas Tech,60,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-401629142,2024-03-08,4,183,home,TRUE,Syracuse,65,Orange,Syracuse Orange,Syracuse
-401629142,2024-03-08,4,52,away,TRUE,Florida State,78,Seminoles,Florida State Seminoles,Florida St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401629629,2024,regular-season,2024-03-08,4,2579,home,TRUE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
+401629629,2024,regular-season,2024-03-08,4,245,away,TRUE,Texas A&M,68,Aggies,Texas A&M Aggies,Texas A&M
+401629611,2024,regular-season,2024-03-08,4,24,home,TRUE,Stanford,66,Cardinal,Stanford Cardinal,Stanford
+401629611,2024,regular-season,2024-03-08,4,204,away,TRUE,Oregon State,57,Beavers,Oregon State Beavers,Oregon St
+401629349,2024,regular-season,2024-03-08,4,2294,home,TRUE,Iowa,95,Hawkeyes,Iowa Hawkeyes,Iowa
+401629349,2024,regular-season,2024-03-08,4,213,away,TRUE,Penn State,62,Lady Lions,Penn State Lady Lions,Penn State
+401629347,2024,regular-season,2024-03-08,4,194,home,TRUE,Ohio State,61,Buckeyes,Ohio State Buckeyes,Ohio State
+401629347,2024,regular-season,2024-03-08,4,120,away,TRUE,Maryland,82,Terrapins,Maryland Terrapins,Maryland
+401629612,2024,regular-season,2024-03-08,6,30,home,TRUE,USC,80,Trojans,USC Trojans,USC
+401629612,2024,regular-season,2024-03-08,6,26,away,TRUE,UCLA,70,Bruins,UCLA Bruins,UCLA
+401629631,2024,regular-season,2024-03-08,4,99,home,TRUE,LSU,78,Tigers,LSU Tigers,LSU
+401629631,2024,regular-season,2024-03-08,4,2,away,TRUE,Auburn,48,Tigers,Auburn Tigers,Auburn
+401629141,2024,regular-season,2024-03-08,4,152,home,TRUE,NC State,54,Wolfpack,NC State Wolfpack,NC State
+401629141,2024,regular-season,2024-03-08,4,150,away,TRUE,Duke,51,Blue Devils,Duke Blue Devils,Duke
+401629140,2024,regular-season,2024-03-08,4,259,home,TRUE,Virginia Tech,55,Hokies,Virginia Tech Hokies,Virginia Tech
+401629140,2024,regular-season,2024-03-08,4,2390,away,TRUE,Miami,47,Hurricanes,Miami Hurricanes,Miami
+401629350,2024,regular-season,2024-03-08,4,84,home,TRUE,Indiana,56,Hoosiers,Indiana Hoosiers,Indiana
+401629350,2024,regular-season,2024-03-08,4,130,away,TRUE,Michigan,69,Wolverines,Michigan Wolverines,Michigan
+401629139,2024,regular-season,2024-03-08,4,87,home,TRUE,Notre Dame,77,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401629139,2024,regular-season,2024-03-08,4,97,away,TRUE,Louisville,68,Cardinals,Louisville Cardinals,Louisville
+401629268,2024,regular-season,2024-03-08,4,239,home,TRUE,Baylor,71,Bears,Baylor Bears,Baylor
+401629268,2024,regular-season,2024-03-08,4,2641,away,TRUE,Texas Tech,60,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+401629142,2024,regular-season,2024-03-08,4,183,home,TRUE,Syracuse,65,Orange,Syracuse Orange,Syracuse
+401629142,2024,regular-season,2024-03-08,4,52,away,TRUE,Florida State,78,Seminoles,Florida State Seminoles,Florida St

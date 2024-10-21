@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400587472,2014-12-29,2,150,home,FALSE,Duke,86,Blue Devils,Duke Blue Devils,Duke
-400587472,2014-12-29,2,2649,away,FALSE,Toledo,69,Rockets,Toledo Rockets,Toledo
-400587280,2014-12-29,2,301,home,FALSE,San Diego,48,Toreros,San Diego Toreros,San Diego
-400587280,2014-12-29,2,2250,away,FALSE,Gonzaga,60,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400585769,2014-12-29,2,251,home,FALSE,Texas,66,Longhorns,Texas Longhorns,Texas
-400585769,2014-12-29,2,242,away,FALSE,Rice,55,Owls,Rice Owls,Rice
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400587472,2015,regular-season,2014-12-29,2,150,home,FALSE,Duke,86,Blue Devils,Duke Blue Devils,Duke
+400587472,2015,regular-season,2014-12-29,2,2649,away,FALSE,Toledo,69,Rockets,Toledo Rockets,Toledo
+400587280,2015,regular-season,2014-12-29,2,301,home,FALSE,San Diego,48,Toreros,San Diego Toreros,San Diego
+400587280,2015,regular-season,2014-12-29,2,2250,away,FALSE,Gonzaga,60,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400585769,2015,regular-season,2014-12-29,2,251,home,FALSE,Texas,66,Longhorns,Texas Longhorns,Texas
+400585769,2015,regular-season,2014-12-29,2,242,away,FALSE,Rice,55,Owls,Rice Owls,Rice

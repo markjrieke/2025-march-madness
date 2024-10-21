@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250130057,2005-01-13,2,57,home,FALSE,Florida,47,Gators,Florida Gators,Florida
-250130057,2005-01-13,2,99,away,FALSE,LSU,64,Tigers,LSU Tigers,LSU
-250130164,2005-01-13,2,164,home,FALSE,Rutgers,69,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-250130164,2005-01-13,2,46,away,FALSE,Georgetown,33,Hoyas,Georgetown Hoyas,Georgetown
-250130194,2005-01-13,2,194,home,FALSE,Ohio State,80,Buckeyes,Ohio State Buckeyes,Ohio State
-250130194,2005-01-13,2,2294,away,FALSE,Iowa,57,Hawkeyes,Iowa Hawkeyes,Iowa
-250130024,2005-01-13,2,24,home,FALSE,Stanford,88,Cardinal,Stanford Cardinal,Stanford
-250130024,2005-01-13,2,25,away,FALSE,California,53,Golden Bears,California Golden Bears,California
-250132633,2005-01-13,2,2633,home,FALSE,Tennessee,72,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-250132633,2005-01-13,2,8,away,FALSE,Arkansas,54,Razorbacks,Arkansas Razorbacks,Arkansas
-250130127,2005-01-13,2,127,home,FALSE,Michigan State,74,Spartans,Michigan State Spartans,Michigan St
-250130127,2005-01-13,2,275,away,FALSE,Wisconsin,66,Badgers,Wisconsin Badgers,Wisconsin
-250132509,2005-01-13,2,2509,home,FALSE,Purdue,38,Boilermakers,Purdue Boilermakers,Purdue
-250132509,2005-01-13,2,135,away,FALSE,Minnesota,58,Golden Gophers,Minnesota Golden Gophers,Minnesota
-250130059,2005-01-13,2,59,home,FALSE,Georgia Tech,65,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-250130059,2005-01-13,2,120,away,FALSE,Maryland,72,Terrapins,Maryland Terrapins,Maryland
-250130002,2005-01-13,2,2,home,FALSE,Auburn,67,Tigers,Auburn Tigers,Auburn
-250130002,2005-01-13,2,238,away,FALSE,Vanderbilt,73,Commodores,Vanderbilt Commodores,Vanderbilt
-250130096,2005-01-13,2,96,home,FALSE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
-250130096,2005-01-13,2,61,away,FALSE,Georgia,63,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250130057,2005,regular-season,2005-01-13,2,57,home,FALSE,Florida,47,Gators,Florida Gators,Florida
+250130057,2005,regular-season,2005-01-13,2,99,away,FALSE,LSU,64,Tigers,LSU Tigers,LSU
+250130164,2005,regular-season,2005-01-13,2,164,home,FALSE,Rutgers,69,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+250130164,2005,regular-season,2005-01-13,2,46,away,FALSE,Georgetown,33,Hoyas,Georgetown Hoyas,Georgetown
+250130194,2005,regular-season,2005-01-13,2,194,home,FALSE,Ohio State,80,Buckeyes,Ohio State Buckeyes,Ohio State
+250130194,2005,regular-season,2005-01-13,2,2294,away,FALSE,Iowa,57,Hawkeyes,Iowa Hawkeyes,Iowa
+250130024,2005,regular-season,2005-01-13,2,24,home,FALSE,Stanford,88,Cardinal,Stanford Cardinal,Stanford
+250130024,2005,regular-season,2005-01-13,2,25,away,FALSE,California,53,Golden Bears,California Golden Bears,California
+250132633,2005,regular-season,2005-01-13,2,2633,home,FALSE,Tennessee,72,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+250132633,2005,regular-season,2005-01-13,2,8,away,FALSE,Arkansas,54,Razorbacks,Arkansas Razorbacks,Arkansas
+250130127,2005,regular-season,2005-01-13,2,127,home,FALSE,Michigan State,74,Spartans,Michigan State Spartans,Michigan St
+250130127,2005,regular-season,2005-01-13,2,275,away,FALSE,Wisconsin,66,Badgers,Wisconsin Badgers,Wisconsin
+250132509,2005,regular-season,2005-01-13,2,2509,home,FALSE,Purdue,38,Boilermakers,Purdue Boilermakers,Purdue
+250132509,2005,regular-season,2005-01-13,2,135,away,FALSE,Minnesota,58,Golden Gophers,Minnesota Golden Gophers,Minnesota
+250130059,2005,regular-season,2005-01-13,2,59,home,FALSE,Georgia Tech,65,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+250130059,2005,regular-season,2005-01-13,2,120,away,FALSE,Maryland,72,Terrapins,Maryland Terrapins,Maryland
+250130002,2005,regular-season,2005-01-13,2,2,home,FALSE,Auburn,67,Tigers,Auburn Tigers,Auburn
+250130002,2005,regular-season,2005-01-13,2,238,away,FALSE,Vanderbilt,73,Commodores,Vanderbilt Commodores,Vanderbilt
+250130096,2005,regular-season,2005-01-13,2,96,home,FALSE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
+250130096,2005,regular-season,2005-01-13,2,61,away,FALSE,Georgia,63,Lady Bulldogs,Georgia Lady Bulldogs,Georgia

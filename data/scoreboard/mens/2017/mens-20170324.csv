@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400947324,2017-03-24,2,153,home,TRUE,North Carolina,92,Tar Heels,North Carolina Tar Heels,North Carolina
-400947324,2017-03-24,2,2086,away,TRUE,Butler,80,Bulldogs,Butler Bulldogs,Butler
-400947327,2017-03-24,2,239,home,TRUE,Baylor,50,Bears,Baylor Bears,Baylor
-400947327,2017-03-24,2,2579,away,TRUE,South Carolina,70,Gamecocks,South Carolina Gamecocks,South Carolina
-400947330,2017-03-24,2,96,home,TRUE,Kentucky,86,Wildcats,Kentucky Wildcats,Kentucky
-400947330,2017-03-24,2,26,away,TRUE,UCLA,75,Bruins,UCLA Bruins,UCLA
-400947266,2017-03-24,3,57,home,TRUE,Florida,84,Gators,Florida Gators,Florida
-400947266,2017-03-24,3,275,away,TRUE,Wisconsin,83,Badgers,Wisconsin Badgers,Wisconsin
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400947324,2017,post-season,2017-03-24,2,153,home,TRUE,North Carolina,92,Tar Heels,North Carolina Tar Heels,North Carolina
+400947324,2017,post-season,2017-03-24,2,2086,away,TRUE,Butler,80,Bulldogs,Butler Bulldogs,Butler
+400947327,2017,post-season,2017-03-24,2,239,home,TRUE,Baylor,50,Bears,Baylor Bears,Baylor
+400947327,2017,post-season,2017-03-24,2,2579,away,TRUE,South Carolina,70,Gamecocks,South Carolina Gamecocks,South Carolina
+400947330,2017,post-season,2017-03-24,2,96,home,TRUE,Kentucky,86,Wildcats,Kentucky Wildcats,Kentucky
+400947330,2017,post-season,2017-03-24,2,26,away,TRUE,UCLA,75,Bruins,UCLA Bruins,UCLA
+400947266,2017,post-season,2017-03-24,3,57,home,TRUE,Florida,84,Gators,Florida Gators,Florida
+400947266,2017,post-season,2017-03-24,3,275,away,TRUE,Wisconsin,83,Badgers,Wisconsin Badgers,Wisconsin

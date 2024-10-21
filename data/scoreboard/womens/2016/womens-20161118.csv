@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400914404,2016-11-18,4,120,home,FALSE,Maryland,106,Terrapins,Maryland Terrapins,Maryland
-400914404,2016-11-18,4,116,away,FALSE,Mount St. Mary's,42,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-400913876,2016-11-18,4,26,home,FALSE,UCLA,95,Bruins,UCLA Bruins,UCLA
-400913876,2016-11-18,4,2582,away,FALSE,Southern,47,Jaguars,Southern Jaguars,Southern
-400913874,2016-11-18,4,24,home,FALSE,Stanford,63,Cardinal,Stanford Cardinal,Stanford
-400913874,2016-11-18,4,2250,away,FALSE,Gonzaga,68,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400911969,2016-11-18,4,2619,home,FALSE,Stony Brook,60,Seawolves,Stony Brook Seawolves,Stony Brook
-400911969,2016-11-18,4,183,away,FALSE,Syracuse,78,Orange,Syracuse Orange,Syracuse
-400913871,2016-11-18,4,204,home,FALSE,Oregon State,62,Beavers,Oregon State Beavers,Oregon St
-400913871,2016-11-18,4,2501,away,FALSE,Portland,45,Pilots,Portland Pilots,Portland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400914404,2017,regular-season,2016-11-18,4,120,home,FALSE,Maryland,106,Terrapins,Maryland Terrapins,Maryland
+400914404,2017,regular-season,2016-11-18,4,116,away,FALSE,Mount St. Mary's,42,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+400913876,2017,regular-season,2016-11-18,4,26,home,FALSE,UCLA,95,Bruins,UCLA Bruins,UCLA
+400913876,2017,regular-season,2016-11-18,4,2582,away,FALSE,Southern,47,Jaguars,Southern Jaguars,Southern
+400913874,2017,regular-season,2016-11-18,4,24,home,FALSE,Stanford,63,Cardinal,Stanford Cardinal,Stanford
+400913874,2017,regular-season,2016-11-18,4,2250,away,FALSE,Gonzaga,68,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400911969,2017,regular-season,2016-11-18,4,2619,home,FALSE,Stony Brook,60,Seawolves,Stony Brook Seawolves,Stony Brook
+400911969,2017,regular-season,2016-11-18,4,183,away,FALSE,Syracuse,78,Orange,Syracuse Orange,Syracuse
+400913871,2017,regular-season,2016-11-18,4,204,home,FALSE,Oregon State,62,Beavers,Oregon State Beavers,Oregon St
+400913871,2017,regular-season,2016-11-18,4,2501,away,FALSE,Portland,45,Pilots,Portland Pilots,Portland

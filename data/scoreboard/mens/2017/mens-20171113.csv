@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400987940,2017-11-13,2,2724,home,FALSE,Wichita State,81,Shockers,Wichita State Shockers,Wichita St
-400987940,2017-11-13,2,232,away,FALSE,Charleston,63,Cougars,Charleston Cougars,Charleston
-400987164,2017-11-13,2,57,home,FALSE,Florida,116,Gators,Florida Gators,Florida
-400987164,2017-11-13,2,2241,away,FALSE,Gardner-Webb,74,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-400988204,2017-11-13,2,30,home,FALSE,USC,75,Trojans,USC Trojans,USC
-400988204,2017-11-13,2,2449,away,FALSE,North Dakota State,65,Bison,North Dakota State Bison,N Dakota St
-400987936,2017-11-13,2,2132,home,FALSE,Cincinnati,102,Bearcats,Cincinnati Bearcats,Cincinnati
-400987936,2017-11-13,2,2717,away,FALSE,Western Carolina,51,Catamounts,Western Carolina Catamounts,W Carolina
-400997653,2017-11-13,2,2608,home,FALSE,Saint Mary's,92,Gaels,Saint Mary's Gaels,Saint Mary's
-400997653,2017-11-13,2,166,away,FALSE,New Mexico State,74,Aggies,New Mexico State Aggies,New Mexico St
-400988893,2017-11-13,2,239,home,FALSE,Baylor,70,Bears,Baylor Bears,Baylor
-400988893,2017-11-13,2,357,away,FALSE,Texas A&M-Corpus Christi,46,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400987940,2018,regular-season,2017-11-13,2,2724,home,FALSE,Wichita State,81,Shockers,Wichita State Shockers,Wichita St
+400987940,2018,regular-season,2017-11-13,2,232,away,FALSE,Charleston,63,Cougars,Charleston Cougars,Charleston
+400987164,2018,regular-season,2017-11-13,2,57,home,FALSE,Florida,116,Gators,Florida Gators,Florida
+400987164,2018,regular-season,2017-11-13,2,2241,away,FALSE,Gardner-Webb,74,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+400988204,2018,regular-season,2017-11-13,2,30,home,FALSE,USC,75,Trojans,USC Trojans,USC
+400988204,2018,regular-season,2017-11-13,2,2449,away,FALSE,North Dakota State,65,Bison,North Dakota State Bison,N Dakota St
+400987936,2018,regular-season,2017-11-13,2,2132,home,FALSE,Cincinnati,102,Bearcats,Cincinnati Bearcats,Cincinnati
+400987936,2018,regular-season,2017-11-13,2,2717,away,FALSE,Western Carolina,51,Catamounts,Western Carolina Catamounts,W Carolina
+400997653,2018,regular-season,2017-11-13,2,2608,home,FALSE,Saint Mary's,92,Gaels,Saint Mary's Gaels,Saint Mary's
+400997653,2018,regular-season,2017-11-13,2,166,away,FALSE,New Mexico State,74,Aggies,New Mexico State Aggies,New Mexico St
+400988893,2018,regular-season,2017-11-13,2,239,home,FALSE,Baylor,70,Bears,Baylor Bears,Baylor
+400988893,2018,regular-season,2017-11-13,2,357,away,FALSE,Texas A&M-Corpus Christi,46,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC

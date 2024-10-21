@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293150153,2009-11-11,2,153,home,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
-293150153,2009-11-11,2,2428,away,FALSE,North Carolina Central,42,Eagles,North Carolina Central Eagles,NC Central
-293150025,2009-11-11,2,25,home,FALSE,California,95,Golden Bears,California Golden Bears,California
-293150025,2009-11-11,2,2174,away,FALSE,Detroit Mercy,61,Titans,Detroit Mercy Titans,Detroit Mercy
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293150153,2010,regular-season,2009-11-11,2,153,home,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
+293150153,2010,regular-season,2009-11-11,2,2428,away,FALSE,North Carolina Central,42,Eagles,North Carolina Central Eagles,NC Central
+293150025,2010,regular-season,2009-11-11,2,25,home,FALSE,California,95,Golden Bears,California Golden Bears,California
+293150025,2010,regular-season,2009-11-11,2,2174,away,FALSE,Detroit Mercy,61,Titans,Detroit Mercy Titans,Detroit Mercy

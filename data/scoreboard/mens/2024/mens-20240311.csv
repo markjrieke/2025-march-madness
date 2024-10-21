@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401625648,2024-03-11,2,2250,home,TRUE,Gonzaga,89,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401625648,2024-03-11,2,2539,away,TRUE,San Francisco,77,Dons,San Francisco Dons,San Francisco
-401625647,2024-03-11,2,2608,home,TRUE,Saint Mary's,79,Gaels,Saint Mary's Gaels,Saint Mary's
-401625647,2024-03-11,2,2541,away,TRUE,Santa Clara,65,Broncos,Santa Clara Broncos,Santa Clara
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401625648,2024,regular-season,2024-03-11,2,2250,home,TRUE,Gonzaga,89,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401625648,2024,regular-season,2024-03-11,2,2539,away,TRUE,San Francisco,77,Dons,San Francisco Dons,San Francisco
+401625647,2024,regular-season,2024-03-11,2,2608,home,TRUE,Saint Mary's,79,Gaels,Saint Mary's Gaels,Saint Mary's
+401625647,2024,regular-season,2024-03-11,2,2541,away,TRUE,Santa Clara,65,Broncos,Santa Clara Broncos,Santa Clara

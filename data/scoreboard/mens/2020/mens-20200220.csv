@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401175281,2020-02-20,2,2250,home,FALSE,Gonzaga,71,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401175281,2020-02-20,2,2539,away,FALSE,San Francisco,54,Dons,San Francisco Dons,San Francisco
-401170722,2020-02-20,2,9,home,FALSE,Arizona State,77,Sun Devils,Arizona State Sun Devils,Arizona St
-401170722,2020-02-20,2,2483,away,FALSE,Oregon,72,Ducks,Oregon Ducks,Oregon
-401170723,2020-02-20,2,38,home,FALSE,Colorado,70,Buffaloes,Colorado Buffaloes,Colorado
-401170723,2020-02-20,2,30,away,FALSE,USC,66,Trojans,USC Trojans,USC
-401166236,2020-02-20,2,2294,home,FALSE,Iowa,85,Hawkeyes,Iowa Hawkeyes,Iowa
-401166236,2020-02-20,2,194,away,FALSE,Ohio State,76,Buckeyes,Ohio State Buckeyes,Ohio State
-401175188,2020-02-20,2,252,home,FALSE,BYU,85,Cougars,BYU Cougars,BYU
-401175188,2020-02-20,2,2541,away,FALSE,Santa Clara,75,Broncos,Santa Clara Broncos,Santa Clara
-401170721,2020-02-20,2,12,home,FALSE,Arizona,89,Wildcats,Arizona Wildcats,Arizona
-401170721,2020-02-20,2,204,away,FALSE,Oregon State,63,Beavers,Oregon State Beavers,Oregon St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401175281,2020,regular-season,2020-02-20,2,2250,home,FALSE,Gonzaga,71,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401175281,2020,regular-season,2020-02-20,2,2539,away,FALSE,San Francisco,54,Dons,San Francisco Dons,San Francisco
+401170722,2020,regular-season,2020-02-20,2,9,home,FALSE,Arizona State,77,Sun Devils,Arizona State Sun Devils,Arizona St
+401170722,2020,regular-season,2020-02-20,2,2483,away,FALSE,Oregon,72,Ducks,Oregon Ducks,Oregon
+401170723,2020,regular-season,2020-02-20,2,38,home,FALSE,Colorado,70,Buffaloes,Colorado Buffaloes,Colorado
+401170723,2020,regular-season,2020-02-20,2,30,away,FALSE,USC,66,Trojans,USC Trojans,USC
+401166236,2020,regular-season,2020-02-20,2,2294,home,FALSE,Iowa,85,Hawkeyes,Iowa Hawkeyes,Iowa
+401166236,2020,regular-season,2020-02-20,2,194,away,FALSE,Ohio State,76,Buckeyes,Ohio State Buckeyes,Ohio State
+401175188,2020,regular-season,2020-02-20,2,252,home,FALSE,BYU,85,Cougars,BYU Cougars,BYU
+401175188,2020,regular-season,2020-02-20,2,2541,away,FALSE,Santa Clara,75,Broncos,Santa Clara Broncos,Santa Clara
+401170721,2020,regular-season,2020-02-20,2,12,home,FALSE,Arizona,89,Wildcats,Arizona Wildcats,Arizona
+401170721,2020,regular-season,2020-02-20,2,204,away,FALSE,Oregon State,63,Beavers,Oregon State Beavers,Oregon St

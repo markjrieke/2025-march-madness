@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303340052,2010-11-30,2,52,home,FALSE,Florida State,44,Seminoles,Florida State Seminoles,Florida St
-303340052,2010-11-30,2,194,away,FALSE,Ohio State,58,Buckeyes,Ohio State Buckeyes,Ohio State
-303340041,2010-11-30,2,41,home,FALSE,UConn,62,Huskies,UConn Huskies,UConn
-303340041,2010-11-30,2,160,away,FALSE,New Hampshire,55,Wildcats,New Hampshire Wildcats,New Hampshire
-303340183,2010-11-30,2,183,home,FALSE,Syracuse,78,Orange,Syracuse Orange,Syracuse
-303340183,2010-11-30,2,172,away,FALSE,Cornell,58,Big Red,Cornell Big Red,Cornell
-303340142,2010-11-30,3,142,home,TRUE,Missouri,102,Tigers,Missouri Tigers,Missouri
-303340142,2010-11-30,3,46,away,TRUE,Georgetown,111,Hoyas,Georgetown Hoyas,Georgetown
-303340096,2010-11-30,2,96,home,FALSE,Kentucky,91,Wildcats,Kentucky Wildcats,Kentucky
-303340096,2010-11-30,2,104,away,FALSE,Boston University,57,Terriers,Boston University Terriers,Boston U
-303342633,2010-11-30,2,2633,home,FALSE,Tennessee,86,Volunteers,Tennessee Volunteers,Tennessee
-303342633,2010-11-30,2,2393,away,FALSE,Middle Tennessee,56,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-303340356,2010-11-30,2,356,home,FALSE,Illinois,79,Fighting Illini,Illinois Fighting Illini,Illinois
-303340356,2010-11-30,2,153,away,FALSE,North Carolina,67,Tar Heels,North Carolina Tar Heels,North Carolina
-303340264,2010-11-30,2,264,home,FALSE,Washington,102,Huskies,Washington Huskies,Washington
-303340264,2010-11-30,2,299,away,FALSE,Long Beach State,75,Beach,Long Beach State Beach,Long Beach St
-303340087,2010-11-30,2,87,home,FALSE,Notre Dame,81,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-303340087,2010-11-30,2,282,away,FALSE,Indiana State,72,Sycamores,Indiana State Sycamores,Indiana St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303340052,2011,regular-season,2010-11-30,2,52,home,FALSE,Florida State,44,Seminoles,Florida State Seminoles,Florida St
+303340052,2011,regular-season,2010-11-30,2,194,away,FALSE,Ohio State,58,Buckeyes,Ohio State Buckeyes,Ohio State
+303340041,2011,regular-season,2010-11-30,2,41,home,FALSE,UConn,62,Huskies,UConn Huskies,UConn
+303340041,2011,regular-season,2010-11-30,2,160,away,FALSE,New Hampshire,55,Wildcats,New Hampshire Wildcats,New Hampshire
+303340183,2011,regular-season,2010-11-30,2,183,home,FALSE,Syracuse,78,Orange,Syracuse Orange,Syracuse
+303340183,2011,regular-season,2010-11-30,2,172,away,FALSE,Cornell,58,Big Red,Cornell Big Red,Cornell
+303340142,2011,regular-season,2010-11-30,3,142,home,TRUE,Missouri,102,Tigers,Missouri Tigers,Missouri
+303340142,2011,regular-season,2010-11-30,3,46,away,TRUE,Georgetown,111,Hoyas,Georgetown Hoyas,Georgetown
+303340096,2011,regular-season,2010-11-30,2,96,home,FALSE,Kentucky,91,Wildcats,Kentucky Wildcats,Kentucky
+303340096,2011,regular-season,2010-11-30,2,104,away,FALSE,Boston University,57,Terriers,Boston University Terriers,Boston U
+303342633,2011,regular-season,2010-11-30,2,2633,home,FALSE,Tennessee,86,Volunteers,Tennessee Volunteers,Tennessee
+303342633,2011,regular-season,2010-11-30,2,2393,away,FALSE,Middle Tennessee,56,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+303340356,2011,regular-season,2010-11-30,2,356,home,FALSE,Illinois,79,Fighting Illini,Illinois Fighting Illini,Illinois
+303340356,2011,regular-season,2010-11-30,2,153,away,FALSE,North Carolina,67,Tar Heels,North Carolina Tar Heels,North Carolina
+303340264,2011,regular-season,2010-11-30,2,264,home,FALSE,Washington,102,Huskies,Washington Huskies,Washington
+303340264,2011,regular-season,2010-11-30,2,299,away,FALSE,Long Beach State,75,Beach,Long Beach State Beach,Long Beach St
+303340087,2011,regular-season,2010-11-30,2,87,home,FALSE,Notre Dame,81,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+303340087,2011,regular-season,2010-11-30,2,282,away,FALSE,Indiana State,72,Sycamores,Indiana State Sycamores,Indiana St

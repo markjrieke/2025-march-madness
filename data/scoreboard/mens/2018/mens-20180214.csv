@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400988612,2018-02-14,2,2507,home,FALSE,Providence,76,Friars,Providence Friars,Providence
-400988612,2018-02-14,2,222,away,FALSE,Villanova,71,Wildcats,Villanova Wildcats,Villanova
-400988614,2018-02-14,2,2752,home,FALSE,Xavier,102,Musketeers,Xavier Musketeers,Xavier
-400988614,2018-02-14,2,2550,away,FALSE,Seton Hall,90,Pirates,Seton Hall Pirates,Seton Hall
-400987379,2018-02-14,2,2,home,FALSE,Auburn,76,Tigers,Auburn Tigers,Auburn
-400987379,2018-02-14,2,96,away,FALSE,Kentucky,66,Wildcats,Kentucky Wildcats,Kentucky
-400986318,2018-02-14,3,52,home,FALSE,Florida State,81,Seminoles,Florida State Seminoles,Florida St
-400986318,2018-02-14,3,228,away,FALSE,Clemson,79,Tigers,Clemson Tigers,Clemson
-400986261,2018-02-14,2,150,home,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
-400986261,2018-02-14,2,259,away,FALSE,Virginia Tech,52,Hokies,Virginia Tech Hokies,Virginia Tech
-400986567,2018-02-14,2,130,home,FALSE,Michigan,74,Wolverines,Michigan Wolverines,Michigan
-400986567,2018-02-14,2,2294,away,FALSE,Iowa,59,Hawkeyes,Iowa Hawkeyes,Iowa
-400991721,2018-02-14,2,68,home,FALSE,Boise State,72,Broncos,Boise State Broncos,Boise St
-400991721,2018-02-14,2,2440,away,FALSE,Nevada,77,Wolf Pack,Nevada Wolf Pack,Nevada
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400988612,2018,regular-season,2018-02-14,2,2507,home,FALSE,Providence,76,Friars,Providence Friars,Providence
+400988612,2018,regular-season,2018-02-14,2,222,away,FALSE,Villanova,71,Wildcats,Villanova Wildcats,Villanova
+400988614,2018,regular-season,2018-02-14,2,2752,home,FALSE,Xavier,102,Musketeers,Xavier Musketeers,Xavier
+400988614,2018,regular-season,2018-02-14,2,2550,away,FALSE,Seton Hall,90,Pirates,Seton Hall Pirates,Seton Hall
+400987379,2018,regular-season,2018-02-14,2,2,home,FALSE,Auburn,76,Tigers,Auburn Tigers,Auburn
+400987379,2018,regular-season,2018-02-14,2,96,away,FALSE,Kentucky,66,Wildcats,Kentucky Wildcats,Kentucky
+400986318,2018,regular-season,2018-02-14,3,52,home,FALSE,Florida State,81,Seminoles,Florida State Seminoles,Florida St
+400986318,2018,regular-season,2018-02-14,3,228,away,FALSE,Clemson,79,Tigers,Clemson Tigers,Clemson
+400986261,2018,regular-season,2018-02-14,2,150,home,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
+400986261,2018,regular-season,2018-02-14,2,259,away,FALSE,Virginia Tech,52,Hokies,Virginia Tech Hokies,Virginia Tech
+400986567,2018,regular-season,2018-02-14,2,130,home,FALSE,Michigan,74,Wolverines,Michigan Wolverines,Michigan
+400986567,2018,regular-season,2018-02-14,2,2294,away,FALSE,Iowa,59,Hawkeyes,Iowa Hawkeyes,Iowa
+400991721,2018,regular-season,2018-02-14,2,68,home,FALSE,Boise State,72,Broncos,Boise State Broncos,Boise St
+400991721,2018,regular-season,2018-02-14,2,2440,away,FALSE,Nevada,77,Wolf Pack,Nevada Wolf Pack,Nevada

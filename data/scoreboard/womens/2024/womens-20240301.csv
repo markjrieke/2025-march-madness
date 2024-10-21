@@ -1,39 +1,39 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401595162,2024-03-01,4,43,home,FALSE,Yale,79,Bulldogs,Yale Bulldogs,Yale
-401595162,2024-03-01,4,172,away,FALSE,Cornell,72,Big Red,Cornell Big Red,Cornell
-401595145,2024-03-01,4,225,home,FALSE,Brown,62,Bears,Brown Bears,Brown
-401595145,2024-03-01,4,171,away,FALSE,Columbia,77,Lions,Columbia Lions,Columbia
-401595170,2024-03-01,4,219,home,FALSE,Pennsylvania,79,Quakers,Pennsylvania Quakers,Penn
-401595170,2024-03-01,4,159,away,FALSE,Dartmouth,41,Big Green,Dartmouth Big Green,Dartmouth
-401582337,2024-03-01,4,163,home,FALSE,Princeton,60,Tigers,Princeton Tigers,Princeton
-401582337,2024-03-01,4,108,away,FALSE,Harvard,49,Crimson,Harvard Crimson,Harvard
-401581018,2024-03-01,4,324,home,FALSE,Coastal Carolina,74,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
-401581018,2024-03-01,4,2247,away,FALSE,Georgia State,62,Panthers,Georgia State Panthers,Georgia St
-401603645,2024-03-01,4,2182,home,FALSE,Drexel,58,Dragons,Drexel Dragons,Drexel
-401603645,2024-03-01,4,2619,away,FALSE,Stony Brook,60,Seawolves,Stony Brook Seawolves,Stony Brook
-401581062,2024-03-01,4,326,home,FALSE,Texas State,76,Bobcats,Texas State Bobcats,Texas St
-401581062,2024-03-01,4,2433,away,FALSE,UL Monroe,73,Warhawks,UL Monroe Warhawks,UL Monroe
-401581047,2024-03-01,5,309,home,FALSE,Louisiana,58,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
-401581047,2024-03-01,5,2572,away,FALSE,Southern Miss,57,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-401581029,2024-03-01,4,276,home,FALSE,Marshall,90,Thundering Herd,Marshall Thundering Herd,Marshall
-401581029,2024-03-01,4,290,away,FALSE,Georgia Southern,43,Eagles,Georgia Southern Eagles,GA Southern
-401580960,2024-03-01,4,295,home,FALSE,Old Dominion,58,Monarchs,Old Dominion Monarchs,Old Dominion
-401580960,2024-03-01,4,256,away,FALSE,James Madison,70,Dukes,James Madison Dukes,James Madison
-401608431,2024-03-01,4,93,home,FALSE,Murray State,85,Racers,Murray State Racers,Murray St
-401608431,2024-03-01,4,339,away,FALSE,Evansville,59,Purple Aces,Evansville Purple Aces,Evansville
-401603648,2024-03-01,4,111,home,FALSE,Northeastern,55,Huskies,Northeastern Huskies,Northeastern
-401603648,2024-03-01,4,2448,away,FALSE,North Carolina A&T,69,Aggies,North Carolina A&T Aggies,NC A&T
-401603647,2024-03-01,4,350,home,FALSE,UNC Wilmington,50,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
-401603647,2024-03-01,4,2729,away,FALSE,William & Mary,68,Tribe,William & Mary Tribe,William & Mary
-401603646,2024-03-01,4,2275,home,FALSE,Hofstra,42,Pride,Hofstra Pride,Hofstra
-401603646,2024-03-01,4,2261,away,FALSE,Hampton,48,Lady Pirates,Hampton Lady Pirates,Hampton
-401603644,2024-03-01,4,48,home,FALSE,Delaware,65,Blue Hens,Delaware Blue Hens,Delaware
-401603644,2024-03-01,4,2097,away,FALSE,Campbell,66,Fighting Camels,Campbell Fighting Camels,Campbell
-401603643,2024-03-01,4,232,home,FALSE,Charleston,55,Cougars,Charleston Cougars,Charleston
-401603643,2024-03-01,4,119,away,FALSE,Towson,67,Tigers,Towson Tigers,Towson
-401580977,2024-03-01,4,2653,home,FALSE,Troy,108,Trojans,Troy Trojans,Troy
-401580977,2024-03-01,4,6,away,FALSE,South Alabama,71,Jaguars,South Alabama Jaguars,South Alabama
-401608432,2024-03-01,4,2057,home,FALSE,Belmont,87,Bruins,Belmont Bruins,Belmont
-401608432,2024-03-01,4,282,away,FALSE,Indiana State,62,Sycamores,Indiana State Sycamores,Indiana St
-401580992,2024-03-01,4,2032,home,FALSE,Arkansas State,57,Red Wolves,Arkansas State Red Wolves,Arkansas St
-401580992,2024-03-01,4,2026,away,FALSE,App State,64,Mountaineers,App State Mountaineers,App State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401595162,2024,regular-season,2024-03-01,4,43,home,FALSE,Yale,79,Bulldogs,Yale Bulldogs,Yale
+401595162,2024,regular-season,2024-03-01,4,172,away,FALSE,Cornell,72,Big Red,Cornell Big Red,Cornell
+401595145,2024,regular-season,2024-03-01,4,225,home,FALSE,Brown,62,Bears,Brown Bears,Brown
+401595145,2024,regular-season,2024-03-01,4,171,away,FALSE,Columbia,77,Lions,Columbia Lions,Columbia
+401595170,2024,regular-season,2024-03-01,4,219,home,FALSE,Pennsylvania,79,Quakers,Pennsylvania Quakers,Penn
+401595170,2024,regular-season,2024-03-01,4,159,away,FALSE,Dartmouth,41,Big Green,Dartmouth Big Green,Dartmouth
+401582337,2024,regular-season,2024-03-01,4,163,home,FALSE,Princeton,60,Tigers,Princeton Tigers,Princeton
+401582337,2024,regular-season,2024-03-01,4,108,away,FALSE,Harvard,49,Crimson,Harvard Crimson,Harvard
+401581018,2024,regular-season,2024-03-01,4,324,home,FALSE,Coastal Carolina,74,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+401581018,2024,regular-season,2024-03-01,4,2247,away,FALSE,Georgia State,62,Panthers,Georgia State Panthers,Georgia St
+401603645,2024,regular-season,2024-03-01,4,2182,home,FALSE,Drexel,58,Dragons,Drexel Dragons,Drexel
+401603645,2024,regular-season,2024-03-01,4,2619,away,FALSE,Stony Brook,60,Seawolves,Stony Brook Seawolves,Stony Brook
+401581062,2024,regular-season,2024-03-01,4,326,home,FALSE,Texas State,76,Bobcats,Texas State Bobcats,Texas St
+401581062,2024,regular-season,2024-03-01,4,2433,away,FALSE,UL Monroe,73,Warhawks,UL Monroe Warhawks,UL Monroe
+401581047,2024,regular-season,2024-03-01,5,309,home,FALSE,Louisiana,58,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+401581047,2024,regular-season,2024-03-01,5,2572,away,FALSE,Southern Miss,57,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+401581029,2024,regular-season,2024-03-01,4,276,home,FALSE,Marshall,90,Thundering Herd,Marshall Thundering Herd,Marshall
+401581029,2024,regular-season,2024-03-01,4,290,away,FALSE,Georgia Southern,43,Eagles,Georgia Southern Eagles,GA Southern
+401580960,2024,regular-season,2024-03-01,4,295,home,FALSE,Old Dominion,58,Monarchs,Old Dominion Monarchs,Old Dominion
+401580960,2024,regular-season,2024-03-01,4,256,away,FALSE,James Madison,70,Dukes,James Madison Dukes,James Madison
+401608431,2024,regular-season,2024-03-01,4,93,home,FALSE,Murray State,85,Racers,Murray State Racers,Murray St
+401608431,2024,regular-season,2024-03-01,4,339,away,FALSE,Evansville,59,Purple Aces,Evansville Purple Aces,Evansville
+401603648,2024,regular-season,2024-03-01,4,111,home,FALSE,Northeastern,55,Huskies,Northeastern Huskies,Northeastern
+401603648,2024,regular-season,2024-03-01,4,2448,away,FALSE,North Carolina A&T,69,Aggies,North Carolina A&T Aggies,NC A&T
+401603647,2024,regular-season,2024-03-01,4,350,home,FALSE,UNC Wilmington,50,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+401603647,2024,regular-season,2024-03-01,4,2729,away,FALSE,William & Mary,68,Tribe,William & Mary Tribe,William & Mary
+401603646,2024,regular-season,2024-03-01,4,2275,home,FALSE,Hofstra,42,Pride,Hofstra Pride,Hofstra
+401603646,2024,regular-season,2024-03-01,4,2261,away,FALSE,Hampton,48,Lady Pirates,Hampton Lady Pirates,Hampton
+401603644,2024,regular-season,2024-03-01,4,48,home,FALSE,Delaware,65,Blue Hens,Delaware Blue Hens,Delaware
+401603644,2024,regular-season,2024-03-01,4,2097,away,FALSE,Campbell,66,Fighting Camels,Campbell Fighting Camels,Campbell
+401603643,2024,regular-season,2024-03-01,4,232,home,FALSE,Charleston,55,Cougars,Charleston Cougars,Charleston
+401603643,2024,regular-season,2024-03-01,4,119,away,FALSE,Towson,67,Tigers,Towson Tigers,Towson
+401580977,2024,regular-season,2024-03-01,4,2653,home,FALSE,Troy,108,Trojans,Troy Trojans,Troy
+401580977,2024,regular-season,2024-03-01,4,6,away,FALSE,South Alabama,71,Jaguars,South Alabama Jaguars,South Alabama
+401608432,2024,regular-season,2024-03-01,4,2057,home,FALSE,Belmont,87,Bruins,Belmont Bruins,Belmont
+401608432,2024,regular-season,2024-03-01,4,282,away,FALSE,Indiana State,62,Sycamores,Indiana State Sycamores,Indiana St
+401580992,2024,regular-season,2024-03-01,4,2032,home,FALSE,Arkansas State,57,Red Wolves,Arkansas State Red Wolves,Arkansas St
+401580992,2024,regular-season,2024-03-01,4,2026,away,FALSE,App State,64,Mountaineers,App State Mountaineers,App State

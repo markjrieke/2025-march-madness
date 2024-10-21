@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-274000007,2007-03-25,2,2633,home,FALSE,Tennessee,65,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-274000007,2007-03-25,2,2368,away,FALSE,Marist,46,Red Foxes,Marist Red Foxes,Marist
-274000014,2007-03-25,2,201,home,FALSE,Oklahoma,82,Sooners,Oklahoma Sooners,Oklahoma
-274000014,2007-03-25,2,145,away,FALSE,Ole Miss,90,Rebels,Ole Miss Rebels,Ole Miss
-274000060,2007-03-25,2,2509,home,FALSE,Purdue,78,Boilermakers,Purdue Boilermakers,Purdue
-274000060,2007-03-25,2,61,away,FALSE,Georgia,65,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-274000053,2007-03-25,2,153,home,FALSE,North Carolina,70,Tar Heels,North Carolina Tar Heels,North Carolina
-274000053,2007-03-25,2,45,away,FALSE,George Washington,56,Revolutionaries,George Washington Revolutionaries,G Washington
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+274000007,2007,post-season,2007-03-25,2,2633,home,FALSE,Tennessee,65,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+274000007,2007,post-season,2007-03-25,2,2368,away,FALSE,Marist,46,Red Foxes,Marist Red Foxes,Marist
+274000014,2007,post-season,2007-03-25,2,201,home,FALSE,Oklahoma,82,Sooners,Oklahoma Sooners,Oklahoma
+274000014,2007,post-season,2007-03-25,2,145,away,FALSE,Ole Miss,90,Rebels,Ole Miss Rebels,Ole Miss
+274000060,2007,post-season,2007-03-25,2,2509,home,FALSE,Purdue,78,Boilermakers,Purdue Boilermakers,Purdue
+274000060,2007,post-season,2007-03-25,2,61,away,FALSE,Georgia,65,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+274000053,2007,post-season,2007-03-25,2,153,home,FALSE,North Carolina,70,Tar Heels,North Carolina Tar Heels,North Carolina
+274000053,2007,post-season,2007-03-25,2,45,away,FALSE,George Washington,56,Revolutionaries,George Washington Revolutionaries,G Washington

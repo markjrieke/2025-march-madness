@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401169739,2020-02-10,2,251,home,FALSE,Texas,45,Longhorns,Texas Longhorns,Texas
-401169739,2020-02-10,2,239,away,FALSE,Baylor,52,Bears,Baylor Bears,Baylor
-401168365,2020-02-10,2,150,home,FALSE,Duke,70,Blue Devils,Duke Blue Devils,Duke
-401168365,2020-02-10,2,52,away,FALSE,Florida State,65,Seminoles,Florida State Seminoles,Florida St
-401169738,2020-02-10,2,2641,home,FALSE,Texas Tech,88,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401169738,2020-02-10,2,2628,away,FALSE,TCU,42,Horned Frogs,TCU Horned Frogs,TCU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401169739,2020,regular-season,2020-02-10,2,251,home,FALSE,Texas,45,Longhorns,Texas Longhorns,Texas
+401169739,2020,regular-season,2020-02-10,2,239,away,FALSE,Baylor,52,Bears,Baylor Bears,Baylor
+401168365,2020,regular-season,2020-02-10,2,150,home,FALSE,Duke,70,Blue Devils,Duke Blue Devils,Duke
+401168365,2020,regular-season,2020-02-10,2,52,away,FALSE,Florida State,65,Seminoles,Florida State Seminoles,Florida St
+401169738,2020,regular-season,2020-02-10,2,2641,home,FALSE,Texas Tech,88,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401169738,2020,regular-season,2020-02-10,2,2628,away,FALSE,TCU,42,Horned Frogs,TCU Horned Frogs,TCU

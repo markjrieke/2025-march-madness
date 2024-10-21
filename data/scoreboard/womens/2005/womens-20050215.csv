@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250460103,2005-02-15,2,103,home,FALSE,Boston College,47,Eagles,Boston College Eagles,Boston College
-250460103,2005-02-15,2,87,away,FALSE,Notre Dame,54,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250460103,2005,regular-season,2005-02-15,2,103,home,FALSE,Boston College,47,Eagles,Boston College Eagles,Boston College
+250460103,2005,regular-season,2005-02-15,2,87,away,FALSE,Notre Dame,54,Fighting Irish,Notre Dame Fighting Irish,Notre Dame

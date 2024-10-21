@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260470057,2006-02-16,3,57,home,FALSE,Florida,79,Gators,Florida Gators,Florida
-260470057,2006-02-16,3,99,away,FALSE,LSU,78,Tigers,LSU Tigers,LSU
-260470120,2006-02-16,2,120,home,FALSE,Maryland,86,Terrapins,Maryland Terrapins,Maryland
-260470120,2006-02-16,2,103,away,FALSE,Boston College,59,Eagles,Boston College Eagles,Boston College
-260470061,2006-02-16,2,61,home,FALSE,Georgia,55,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-260470061,2006-02-16,2,2633,away,FALSE,Tennessee,58,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-260470135,2006-02-16,2,135,home,FALSE,Minnesota,55,Golden Gophers,Minnesota Golden Gophers,Minnesota
-260470135,2006-02-16,2,194,away,FALSE,Ohio State,76,Buckeyes,Ohio State Buckeyes,Ohio State
-260472509,2006-02-16,2,2509,home,FALSE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
-260472509,2006-02-16,2,130,away,FALSE,Michigan,50,Wolverines,Michigan Wolverines,Michigan
-260470009,2006-02-16,2,9,home,FALSE,Arizona State,62,Sun Devils,Arizona State Sun Devils,Arizona St
-260470009,2006-02-16,2,24,away,FALSE,Stanford,59,Cardinal,Stanford Cardinal,Stanford
-260470127,2006-02-16,2,127,home,FALSE,Michigan State,73,Spartans,Michigan State Spartans,Michigan St
-260470127,2006-02-16,2,2294,away,FALSE,Iowa,71,Hawkeyes,Iowa Hawkeyes,Iowa
-260470023,2006-02-16,2,23,home,FALSE,San José State,48,Spartans,San José State Spartans,San José St
-260470023,2006-02-16,2,2348,away,FALSE,Louisiana Tech,78,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260470057,2006,regular-season,2006-02-16,3,57,home,FALSE,Florida,79,Gators,Florida Gators,Florida
+260470057,2006,regular-season,2006-02-16,3,99,away,FALSE,LSU,78,Tigers,LSU Tigers,LSU
+260470120,2006,regular-season,2006-02-16,2,120,home,FALSE,Maryland,86,Terrapins,Maryland Terrapins,Maryland
+260470120,2006,regular-season,2006-02-16,2,103,away,FALSE,Boston College,59,Eagles,Boston College Eagles,Boston College
+260470061,2006,regular-season,2006-02-16,2,61,home,FALSE,Georgia,55,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+260470061,2006,regular-season,2006-02-16,2,2633,away,FALSE,Tennessee,58,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+260470135,2006,regular-season,2006-02-16,2,135,home,FALSE,Minnesota,55,Golden Gophers,Minnesota Golden Gophers,Minnesota
+260470135,2006,regular-season,2006-02-16,2,194,away,FALSE,Ohio State,76,Buckeyes,Ohio State Buckeyes,Ohio State
+260472509,2006,regular-season,2006-02-16,2,2509,home,FALSE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
+260472509,2006,regular-season,2006-02-16,2,130,away,FALSE,Michigan,50,Wolverines,Michigan Wolverines,Michigan
+260470009,2006,regular-season,2006-02-16,2,9,home,FALSE,Arizona State,62,Sun Devils,Arizona State Sun Devils,Arizona St
+260470009,2006,regular-season,2006-02-16,2,24,away,FALSE,Stanford,59,Cardinal,Stanford Cardinal,Stanford
+260470127,2006,regular-season,2006-02-16,2,127,home,FALSE,Michigan State,73,Spartans,Michigan State Spartans,Michigan St
+260470127,2006,regular-season,2006-02-16,2,2294,away,FALSE,Iowa,71,Hawkeyes,Iowa Hawkeyes,Iowa
+260470023,2006,regular-season,2006-02-16,2,23,home,FALSE,San José State,48,Spartans,San José State Spartans,San José St
+260470023,2006,regular-season,2006-02-16,2,2348,away,FALSE,Louisiana Tech,78,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech

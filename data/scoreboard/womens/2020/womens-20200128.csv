@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401176930,2020-01-28,4,239,home,FALSE,Baylor,83,Bears,Baylor Bears,Baylor
-401176930,2020-01-28,4,66,away,FALSE,Iowa State,62,Cyclones,Iowa State Cyclones,Iowa State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401176930,2020,regular-season,2020-01-28,4,239,home,FALSE,Baylor,83,Bears,Baylor Bears,Baylor
+401176930,2020,regular-season,2020-01-28,4,66,away,FALSE,Iowa State,62,Cyclones,Iowa State Cyclones,Iowa State

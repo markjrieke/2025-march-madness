@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401413411,2022-03-01,2,30,home,FALSE,USC,71,Trojans,USC Trojans,USC
-401413411,2022-03-01,2,12,away,FALSE,Arizona,91,Wildcats,Arizona Wildcats,Arizona
-401369997,2022-03-01,2,221,home,FALSE,Pittsburgh,56,Panthers,Pittsburgh Panthers,Pitt
-401369997,2022-03-01,2,150,away,FALSE,Duke,86,Blue Devils,Duke Blue Devils,Duke
-401368434,2022-03-01,2,2628,home,FALSE,TCU,74,Horned Frogs,TCU Horned Frogs,TCU
-401368434,2022-03-01,2,2305,away,FALSE,Kansas,64,Jayhawks,Kansas Jayhawks,Kansas
-401364960,2022-03-01,2,96,home,FALSE,Kentucky,83,Wildcats,Kentucky Wildcats,Kentucky
-401364960,2022-03-01,2,145,away,FALSE,Ole Miss,72,Rebels,Ole Miss Rebels,Ole Miss
-401364469,2022-03-01,2,275,home,FALSE,Wisconsin,70,Badgers,Wisconsin Badgers,Wisconsin
-401364469,2022-03-01,2,2509,away,FALSE,Purdue,67,Boilermakers,Purdue Boilermakers,Purdue
-401373611,2022-03-01,2,222,home,FALSE,Villanova,76,Wildcats,Villanova Wildcats,Villanova
-401373611,2022-03-01,2,2507,away,FALSE,Providence,74,Friars,Providence Friars,Providence
-401364959,2022-03-01,2,61,home,FALSE,Georgia,68,Bulldogs,Georgia Bulldogs,Georgia
-401364959,2022-03-01,2,2633,away,FALSE,Tennessee,75,Volunteers,Tennessee Volunteers,Tennessee
-401407948,2022-03-01,2,248,home,FALSE,Houston,71,Cougars,Houston Cougars,Houston
-401407948,2022-03-01,2,2132,away,FALSE,Cincinnati,53,Bearcats,Cincinnati Bearcats,Cincinnati
-401413556,2022-03-01,2,194,home,FALSE,Ohio State,70,Buckeyes,Ohio State Buckeyes,Ohio State
-401413556,2022-03-01,2,158,away,FALSE,Nebraska,78,Cornhuskers,Nebraska Cornhuskers,Nebraska
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401413411,2022,regular-season,2022-03-01,2,30,home,FALSE,USC,71,Trojans,USC Trojans,USC
+401413411,2022,regular-season,2022-03-01,2,12,away,FALSE,Arizona,91,Wildcats,Arizona Wildcats,Arizona
+401369997,2022,regular-season,2022-03-01,2,221,home,FALSE,Pittsburgh,56,Panthers,Pittsburgh Panthers,Pitt
+401369997,2022,regular-season,2022-03-01,2,150,away,FALSE,Duke,86,Blue Devils,Duke Blue Devils,Duke
+401368434,2022,regular-season,2022-03-01,2,2628,home,FALSE,TCU,74,Horned Frogs,TCU Horned Frogs,TCU
+401368434,2022,regular-season,2022-03-01,2,2305,away,FALSE,Kansas,64,Jayhawks,Kansas Jayhawks,Kansas
+401364960,2022,regular-season,2022-03-01,2,96,home,FALSE,Kentucky,83,Wildcats,Kentucky Wildcats,Kentucky
+401364960,2022,regular-season,2022-03-01,2,145,away,FALSE,Ole Miss,72,Rebels,Ole Miss Rebels,Ole Miss
+401364469,2022,regular-season,2022-03-01,2,275,home,FALSE,Wisconsin,70,Badgers,Wisconsin Badgers,Wisconsin
+401364469,2022,regular-season,2022-03-01,2,2509,away,FALSE,Purdue,67,Boilermakers,Purdue Boilermakers,Purdue
+401373611,2022,regular-season,2022-03-01,2,222,home,FALSE,Villanova,76,Wildcats,Villanova Wildcats,Villanova
+401373611,2022,regular-season,2022-03-01,2,2507,away,FALSE,Providence,74,Friars,Providence Friars,Providence
+401364959,2022,regular-season,2022-03-01,2,61,home,FALSE,Georgia,68,Bulldogs,Georgia Bulldogs,Georgia
+401364959,2022,regular-season,2022-03-01,2,2633,away,FALSE,Tennessee,75,Volunteers,Tennessee Volunteers,Tennessee
+401407948,2022,regular-season,2022-03-01,2,248,home,FALSE,Houston,71,Cougars,Houston Cougars,Houston
+401407948,2022,regular-season,2022-03-01,2,2132,away,FALSE,Cincinnati,53,Bearcats,Cincinnati Bearcats,Cincinnati
+401413556,2022,regular-season,2022-03-01,2,194,home,FALSE,Ohio State,70,Buckeyes,Ohio State Buckeyes,Ohio State
+401413556,2022,regular-season,2022-03-01,2,158,away,FALSE,Nebraska,78,Cornhuskers,Nebraska Cornhuskers,Nebraska

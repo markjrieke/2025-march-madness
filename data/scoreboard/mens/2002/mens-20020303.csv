@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220620142,2002-03-03,2,142,home,FALSE,Missouri,92,Tigers,Missouri Tigers,Missouri
-220620142,2002-03-03,2,2305,away,FALSE,Kansas,95,Jayhawks,Kansas Jayhawks,Kansas
-220620120,2002-03-03,2,120,home,FALSE,Maryland,111,Terrapins,Maryland Terrapins,Maryland
-220620120,2002-03-03,2,258,away,FALSE,Virginia,92,Cavaliers,Virginia Cavaliers,Virginia
-220620150,2002-03-03,2,150,home,FALSE,Duke,93,Blue Devils,Duke Blue Devils,Duke
-220620150,2002-03-03,2,153,away,FALSE,North Carolina,68,Tar Heels,North Carolina Tar Heels,North Carolina
-220622132,2002-03-03,3,2132,home,FALSE,Cincinnati,80,Bearcats,Cincinnati Bearcats,Cincinnati
-220622132,2002-03-03,3,235,away,FALSE,Memphis,75,Tigers,Memphis Tigers,Memphis
-220620145,2002-03-03,2,145,home,FALSE,Ole Miss,84,Rebels,Ole Miss Rebels,Ole Miss
-220620145,2002-03-03,2,333,away,FALSE,Alabama,56,Crimson Tide,Alabama Crimson Tide,Alabama
-220622250,2002-03-03,2,2250,home,FALSE,Gonzaga,87,Bulldogs,Gonzaga Bulldogs,Gonzaga
-220622250,2002-03-03,2,301,away,FALSE,San Diego,79,Toreros,San Diego Toreros,San Diego
-220620135,2002-03-03,2,135,home,FALSE,Minnesota,66,Golden Gophers,Minnesota Golden Gophers,Minnesota
-220620135,2002-03-03,2,356,away,FALSE,Illinois,67,Fighting Illini,Illinois Fighting Illini,Illinois
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220620142,2002,regular-season,2002-03-03,2,142,home,FALSE,Missouri,92,Tigers,Missouri Tigers,Missouri
+220620142,2002,regular-season,2002-03-03,2,2305,away,FALSE,Kansas,95,Jayhawks,Kansas Jayhawks,Kansas
+220620120,2002,regular-season,2002-03-03,2,120,home,FALSE,Maryland,111,Terrapins,Maryland Terrapins,Maryland
+220620120,2002,regular-season,2002-03-03,2,258,away,FALSE,Virginia,92,Cavaliers,Virginia Cavaliers,Virginia
+220620150,2002,regular-season,2002-03-03,2,150,home,FALSE,Duke,93,Blue Devils,Duke Blue Devils,Duke
+220620150,2002,regular-season,2002-03-03,2,153,away,FALSE,North Carolina,68,Tar Heels,North Carolina Tar Heels,North Carolina
+220622132,2002,regular-season,2002-03-03,3,2132,home,FALSE,Cincinnati,80,Bearcats,Cincinnati Bearcats,Cincinnati
+220622132,2002,regular-season,2002-03-03,3,235,away,FALSE,Memphis,75,Tigers,Memphis Tigers,Memphis
+220620145,2002,regular-season,2002-03-03,2,145,home,FALSE,Ole Miss,84,Rebels,Ole Miss Rebels,Ole Miss
+220620145,2002,regular-season,2002-03-03,2,333,away,FALSE,Alabama,56,Crimson Tide,Alabama Crimson Tide,Alabama
+220622250,2002,regular-season,2002-03-03,2,2250,home,FALSE,Gonzaga,87,Bulldogs,Gonzaga Bulldogs,Gonzaga
+220622250,2002,regular-season,2002-03-03,2,301,away,FALSE,San Diego,79,Toreros,San Diego Toreros,San Diego
+220620135,2002,regular-season,2002-03-03,2,135,home,FALSE,Minnesota,66,Golden Gophers,Minnesota Golden Gophers,Minnesota
+220620135,2002,regular-season,2002-03-03,2,356,away,FALSE,Illinois,67,Fighting Illini,Illinois Fighting Illini,Illinois

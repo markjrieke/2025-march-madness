@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400831536,2016-02-08,2,201,home,FALSE,Oklahoma,63,Sooners,Oklahoma Sooners,Oklahoma
-400831536,2016-02-08,2,251,away,FALSE,Texas,60,Longhorns,Texas Longhorns,Texas
-400839771,2016-02-08,2,150,home,FALSE,Duke,72,Blue Devils,Duke Blue Devils,Duke
-400839771,2016-02-08,2,97,away,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400831536,2016,regular-season,2016-02-08,2,201,home,FALSE,Oklahoma,63,Sooners,Oklahoma Sooners,Oklahoma
+400831536,2016,regular-season,2016-02-08,2,251,away,FALSE,Texas,60,Longhorns,Texas Longhorns,Texas
+400839771,2016,regular-season,2016-02-08,2,150,home,FALSE,Duke,72,Blue Devils,Duke Blue Devils,Duke
+400839771,2016,regular-season,2016-02-08,2,97,away,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville

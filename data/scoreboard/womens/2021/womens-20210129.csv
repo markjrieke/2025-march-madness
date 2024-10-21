@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401263143,2021-01-29,4,26,home,FALSE,UCLA,60,Bruins,UCLA Bruins,UCLA
-401263143,2021-01-29,4,9,away,FALSE,Arizona State,57,Sun Devils,Arizona State Sun Devils,Arizona St
-401263220,2021-01-29,4,265,home,FALSE,Washington State,49,Cougars,Washington State Cougars,Washington St
-401263220,2021-01-29,4,24,away,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
-401263202,2021-01-29,0,30,home,FALSE,USC,0,Trojans,USC Trojans,USC
-401263202,2021-01-29,0,12,away,FALSE,Arizona,0,Wildcats,Arizona Wildcats,Arizona
-401263243,2021-01-29,0,254,home,FALSE,Utah,0,Utes,Utah Utes,Utah
-401263243,2021-01-29,0,2483,away,FALSE,Oregon,0,Ducks,Oregon Ducks,Oregon
-401259110,2021-01-29,0,2172,home,FALSE,Denver,0,Pioneers,Denver Pioneers,Denver
-401259110,2021-01-29,0,2571,away,FALSE,South Dakota State,0,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401263143,2021,regular-season,2021-01-29,4,26,home,FALSE,UCLA,60,Bruins,UCLA Bruins,UCLA
+401263143,2021,regular-season,2021-01-29,4,9,away,FALSE,Arizona State,57,Sun Devils,Arizona State Sun Devils,Arizona St
+401263220,2021,regular-season,2021-01-29,4,265,home,FALSE,Washington State,49,Cougars,Washington State Cougars,Washington St
+401263220,2021,regular-season,2021-01-29,4,24,away,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
+401263202,2021,regular-season,2021-01-29,0,30,home,FALSE,USC,0,Trojans,USC Trojans,USC
+401263202,2021,regular-season,2021-01-29,0,12,away,FALSE,Arizona,0,Wildcats,Arizona Wildcats,Arizona
+401263243,2021,regular-season,2021-01-29,0,254,home,FALSE,Utah,0,Utes,Utah Utes,Utah
+401263243,2021,regular-season,2021-01-29,0,2483,away,FALSE,Oregon,0,Ducks,Oregon Ducks,Oregon
+401259110,2021,regular-season,2021-01-29,0,2172,home,FALSE,Denver,0,Pioneers,Denver Pioneers,Denver
+401259110,2021,regular-season,2021-01-29,0,2571,away,FALSE,South Dakota State,0,Jackrabbits,South Dakota State Jackrabbits,S Dakota St

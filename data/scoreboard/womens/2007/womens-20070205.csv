@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270360150,2007-02-05,2,150,home,FALSE,Duke,105,Blue Devils,Duke Blue Devils,Duke
-270360150,2007-02-05,2,228,away,FALSE,Clemson,53,Tigers,Clemson Tigers,Clemson
-270362633,2007-02-05,2,2633,home,FALSE,Tennessee,73,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-270362633,2007-02-05,2,61,away,FALSE,Georgia,57,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270360150,2007,regular-season,2007-02-05,2,150,home,FALSE,Duke,105,Blue Devils,Duke Blue Devils,Duke
+270360150,2007,regular-season,2007-02-05,2,228,away,FALSE,Clemson,53,Tigers,Clemson Tigers,Clemson
+270362633,2007,regular-season,2007-02-05,2,2633,home,FALSE,Tennessee,73,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+270362633,2007,regular-season,2007-02-05,2,61,away,FALSE,Georgia,57,Lady Bulldogs,Georgia Lady Bulldogs,Georgia

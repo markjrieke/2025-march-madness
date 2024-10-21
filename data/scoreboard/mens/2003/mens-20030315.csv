@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230740096,2003-03-15,2,96,home,FALSE,Kentucky,78,Wildcats,Kentucky Wildcats,Kentucky
-230740096,2003-03-15,2,2,away,FALSE,Auburn,58,Tigers,Auburn Tigers,Auburn
-230742305,2003-03-15,2,2305,home,FALSE,Kansas,63,Jayhawks,Kansas Jayhawks,Kansas
-230742305,2003-03-15,2,142,away,FALSE,Missouri,68,Tigers,Missouri Tigers,Missouri
-230740041,2003-03-15,2,41,home,FALSE,UConn,56,Huskies,UConn Huskies,UConn
-230740041,2003-03-15,2,221,away,FALSE,Pittsburgh,74,Panthers,Pittsburgh Panthers,Pitt
-230740201,2003-03-15,3,201,home,FALSE,Oklahoma,67,Sooners,Oklahoma Sooners,Oklahoma
-230740201,2003-03-15,3,2641,away,FALSE,Texas Tech,60,Red Raiders,Texas Tech Red Raiders,Texas Tech
-230740154,2003-03-15,2,154,home,FALSE,Wake Forest,83,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-230740154,2003-03-15,2,152,away,FALSE,NC State,87,Wolfpack,NC State Wolfpack,NC State
-230740150,2003-03-15,2,150,home,FALSE,Duke,75,Blue Devils,Duke Blue Devils,Duke
-230740150,2003-03-15,2,153,away,FALSE,North Carolina,63,Tar Heels,North Carolina Tar Heels,North Carolina
-230740356,2003-03-15,2,356,home,FALSE,Illinois,73,Fighting Illini,Illinois Fighting Illini,Illinois
-230740356,2003-03-15,2,84,away,FALSE,Indiana,72,Hoosiers,Indiana Hoosiers,Indiana
-230740097,2003-03-15,2,97,home,FALSE,Louisville,83,Cardinals,Louisville Cardinals,Louisville
-230740097,2003-03-15,2,5,away,FALSE,UAB,78,Blazers,UAB Blazers,UAB
-230742168,2003-03-15,2,2168,home,FALSE,Dayton,79,Flyers,Dayton Flyers,Dayton
-230742168,2003-03-15,2,218,away,FALSE,Temple,72,Owls,Temple Owls,Temple
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230740096,2003,regular-season,2003-03-15,2,96,home,FALSE,Kentucky,78,Wildcats,Kentucky Wildcats,Kentucky
+230740096,2003,regular-season,2003-03-15,2,2,away,FALSE,Auburn,58,Tigers,Auburn Tigers,Auburn
+230742305,2003,regular-season,2003-03-15,2,2305,home,FALSE,Kansas,63,Jayhawks,Kansas Jayhawks,Kansas
+230742305,2003,regular-season,2003-03-15,2,142,away,FALSE,Missouri,68,Tigers,Missouri Tigers,Missouri
+230740041,2003,regular-season,2003-03-15,2,41,home,FALSE,UConn,56,Huskies,UConn Huskies,UConn
+230740041,2003,regular-season,2003-03-15,2,221,away,FALSE,Pittsburgh,74,Panthers,Pittsburgh Panthers,Pitt
+230740201,2003,regular-season,2003-03-15,3,201,home,FALSE,Oklahoma,67,Sooners,Oklahoma Sooners,Oklahoma
+230740201,2003,regular-season,2003-03-15,3,2641,away,FALSE,Texas Tech,60,Red Raiders,Texas Tech Red Raiders,Texas Tech
+230740154,2003,regular-season,2003-03-15,2,154,home,FALSE,Wake Forest,83,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+230740154,2003,regular-season,2003-03-15,2,152,away,FALSE,NC State,87,Wolfpack,NC State Wolfpack,NC State
+230740150,2003,regular-season,2003-03-15,2,150,home,FALSE,Duke,75,Blue Devils,Duke Blue Devils,Duke
+230740150,2003,regular-season,2003-03-15,2,153,away,FALSE,North Carolina,63,Tar Heels,North Carolina Tar Heels,North Carolina
+230740356,2003,regular-season,2003-03-15,2,356,home,FALSE,Illinois,73,Fighting Illini,Illinois Fighting Illini,Illinois
+230740356,2003,regular-season,2003-03-15,2,84,away,FALSE,Indiana,72,Hoosiers,Indiana Hoosiers,Indiana
+230740097,2003,regular-season,2003-03-15,2,97,home,FALSE,Louisville,83,Cardinals,Louisville Cardinals,Louisville
+230740097,2003,regular-season,2003-03-15,2,5,away,FALSE,UAB,78,Blazers,UAB Blazers,UAB
+230742168,2003,regular-season,2003-03-15,2,2168,home,FALSE,Dayton,79,Flyers,Dayton Flyers,Dayton
+230742168,2003,regular-season,2003-03-15,2,218,away,FALSE,Temple,72,Owls,Temple Owls,Temple

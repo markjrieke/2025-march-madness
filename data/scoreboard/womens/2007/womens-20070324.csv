@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-274000045,2007-03-24,2,9,home,FALSE,Arizona State,67,Sun Devils,Arizona State Sun Devils,Arizona St
-274000045,2007-03-24,2,189,away,FALSE,Bowling Green,49,Falcons,Bowling Green Falcons,Bowling Green
-274000038,2007-03-24,2,150,home,FALSE,Duke,52,Blue Devils,Duke Blue Devils,Duke
-274000038,2007-03-24,2,164,away,FALSE,Rutgers,53,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-274000022,2007-03-24,2,41,home,FALSE,UConn,78,Huskies,UConn Huskies,UConn
-274000022,2007-03-24,2,152,away,FALSE,NC State,71,Wolfpack,NC State Wolfpack,NC State
-274000029,2007-03-24,2,99,home,FALSE,LSU,55,Tigers,LSU Tigers,LSU
-274000029,2007-03-24,2,52,away,FALSE,Florida State,43,Seminoles,Florida State Seminoles,Florida St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+274000045,2007,post-season,2007-03-24,2,9,home,FALSE,Arizona State,67,Sun Devils,Arizona State Sun Devils,Arizona St
+274000045,2007,post-season,2007-03-24,2,189,away,FALSE,Bowling Green,49,Falcons,Bowling Green Falcons,Bowling Green
+274000038,2007,post-season,2007-03-24,2,150,home,FALSE,Duke,52,Blue Devils,Duke Blue Devils,Duke
+274000038,2007,post-season,2007-03-24,2,164,away,FALSE,Rutgers,53,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+274000022,2007,post-season,2007-03-24,2,41,home,FALSE,UConn,78,Huskies,UConn Huskies,UConn
+274000022,2007,post-season,2007-03-24,2,152,away,FALSE,NC State,71,Wolfpack,NC State Wolfpack,NC State
+274000029,2007,post-season,2007-03-24,2,99,home,FALSE,LSU,55,Tigers,LSU Tigers,LSU
+274000029,2007,post-season,2007-03-24,2,52,away,FALSE,Florida State,43,Seminoles,Florida State Seminoles,Florida St

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273410120,2007-12-07,2,120,home,FALSE,Maryland,91,Terrapins,Maryland Terrapins,Maryland
-273410120,2007-12-07,2,2460,away,FALSE,Northern Iowa,37,Panthers,Northern Iowa Panthers,Northern Iowa
-273412184,2007-12-07,2,2184,home,FALSE,Duquesne,64,Dukes,Duquesne Dukes,Duquesne
-273412184,2007-12-07,2,277,away,FALSE,West Virginia,91,Mountaineers,West Virginia Mountaineers,West Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273410120,2008,regular-season,2007-12-07,2,120,home,FALSE,Maryland,91,Terrapins,Maryland Terrapins,Maryland
+273410120,2008,regular-season,2007-12-07,2,2460,away,FALSE,Northern Iowa,37,Panthers,Northern Iowa Panthers,Northern Iowa
+273412184,2008,regular-season,2007-12-07,2,2184,home,FALSE,Duquesne,64,Dukes,Duquesne Dukes,Duquesne
+273412184,2008,regular-season,2007-12-07,2,277,away,FALSE,West Virginia,91,Mountaineers,West Virginia Mountaineers,West Virginia

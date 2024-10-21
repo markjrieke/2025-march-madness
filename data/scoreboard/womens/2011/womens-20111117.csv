@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313210024,2011-11-17,2,24,home,FALSE,Stanford,97,Cardinal,Stanford Cardinal,Stanford
-313210024,2011-11-17,2,295,away,FALSE,Old Dominion,48,Monarchs,Old Dominion Monarchs,Old Dominion
-313212031,2011-11-17,2,2031,home,FALSE,Little Rock,54,Trojans,Little Rock Trojans,Little Rock
-313212031,2011-11-17,2,245,away,FALSE,Texas A&M,83,Aggies,Texas A&M Aggies,Texas A&M
-313212390,2011-11-17,2,2390,home,FALSE,Miami,107,Hurricanes,Miami Hurricanes,Miami
-313212390,2011-11-17,2,2504,away,FALSE,Prairie View A&M,26,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
-313212198,2011-11-17,2,2198,home,FALSE,Eastern Kentucky,53,Colonels,Eastern Kentucky Colonels,E Kentucky
-313212198,2011-11-17,2,97,away,FALSE,Louisville,77,Cardinals,Louisville Cardinals,Louisville
-313210048,2011-11-17,2,48,home,FALSE,Delaware,80,Blue Hens,Delaware Blue Hens,Delaware
-313210048,2011-11-17,2,213,away,FALSE,Penn State,71,Lady Lions,Penn State Lady Lions,Penn State
-313210061,2011-11-17,2,61,home,FALSE,Georgia,73,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-313210061,2011-11-17,2,232,away,FALSE,Charleston,48,Cougars,Charleston Cougars,Charleston
-313210189,2011-11-17,2,189,home,FALSE,Bowling Green,53,Falcons,Bowling Green Falcons,Bowling Green
-313210189,2011-11-17,2,2509,away,FALSE,Purdue,54,Boilermakers,Purdue Boilermakers,Purdue
-313210096,2011-11-17,2,96,home,FALSE,Kentucky,81,Wildcats,Kentucky Wildcats,Kentucky
-313210096,2011-11-17,2,111,away,FALSE,Northeastern,47,Huskies,Northeastern Huskies,Northeastern
-313210057,2011-11-17,2,57,home,FALSE,Florida,72,Gators,Florida Gators,Florida
-313210057,2011-11-17,2,52,away,FALSE,Florida State,58,Seminoles,Florida State Seminoles,Florida St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313210024,2012,regular-season,2011-11-17,2,24,home,FALSE,Stanford,97,Cardinal,Stanford Cardinal,Stanford
+313210024,2012,regular-season,2011-11-17,2,295,away,FALSE,Old Dominion,48,Monarchs,Old Dominion Monarchs,Old Dominion
+313212031,2012,regular-season,2011-11-17,2,2031,home,FALSE,Little Rock,54,Trojans,Little Rock Trojans,Little Rock
+313212031,2012,regular-season,2011-11-17,2,245,away,FALSE,Texas A&M,83,Aggies,Texas A&M Aggies,Texas A&M
+313212390,2012,regular-season,2011-11-17,2,2390,home,FALSE,Miami,107,Hurricanes,Miami Hurricanes,Miami
+313212390,2012,regular-season,2011-11-17,2,2504,away,FALSE,Prairie View A&M,26,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
+313212198,2012,regular-season,2011-11-17,2,2198,home,FALSE,Eastern Kentucky,53,Colonels,Eastern Kentucky Colonels,E Kentucky
+313212198,2012,regular-season,2011-11-17,2,97,away,FALSE,Louisville,77,Cardinals,Louisville Cardinals,Louisville
+313210048,2012,regular-season,2011-11-17,2,48,home,FALSE,Delaware,80,Blue Hens,Delaware Blue Hens,Delaware
+313210048,2012,regular-season,2011-11-17,2,213,away,FALSE,Penn State,71,Lady Lions,Penn State Lady Lions,Penn State
+313210061,2012,regular-season,2011-11-17,2,61,home,FALSE,Georgia,73,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+313210061,2012,regular-season,2011-11-17,2,232,away,FALSE,Charleston,48,Cougars,Charleston Cougars,Charleston
+313210189,2012,regular-season,2011-11-17,2,189,home,FALSE,Bowling Green,53,Falcons,Bowling Green Falcons,Bowling Green
+313210189,2012,regular-season,2011-11-17,2,2509,away,FALSE,Purdue,54,Boilermakers,Purdue Boilermakers,Purdue
+313210096,2012,regular-season,2011-11-17,2,96,home,FALSE,Kentucky,81,Wildcats,Kentucky Wildcats,Kentucky
+313210096,2012,regular-season,2011-11-17,2,111,away,FALSE,Northeastern,47,Huskies,Northeastern Huskies,Northeastern
+313210057,2012,regular-season,2011-11-17,2,57,home,FALSE,Florida,72,Gators,Florida Gators,Florida
+313210057,2012,regular-season,2011-11-17,2,52,away,FALSE,Florida State,58,Seminoles,Florida State Seminoles,Florida St

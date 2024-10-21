@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-223650061,2002-12-31,2,61,home,FALSE,Georgia,79,Bulldogs,Georgia Bulldogs,Georgia
-223650061,2002-12-31,2,221,away,FALSE,Pittsburgh,67,Panthers,Pittsburgh Panthers,Pitt
-223652752,2002-12-31,2,2752,home,FALSE,Xavier,75,Musketeers,Xavier Musketeers,Xavier
-223652752,2002-12-31,2,156,away,FALSE,Creighton,73,Bluejays,Creighton Bluejays,Creighton
-223652050,2002-12-31,2,2050,home,FALSE,Ball State,62,Cardinals,Ball State Cardinals,Ball State
-223652050,2002-12-31,2,84,away,FALSE,Indiana,76,Hoosiers,Indiana Hoosiers,Indiana
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+223650061,2003,regular-season,2002-12-31,2,61,home,FALSE,Georgia,79,Bulldogs,Georgia Bulldogs,Georgia
+223650061,2003,regular-season,2002-12-31,2,221,away,FALSE,Pittsburgh,67,Panthers,Pittsburgh Panthers,Pitt
+223652752,2003,regular-season,2002-12-31,2,2752,home,FALSE,Xavier,75,Musketeers,Xavier Musketeers,Xavier
+223652752,2003,regular-season,2002-12-31,2,156,away,FALSE,Creighton,73,Bluejays,Creighton Bluejays,Creighton
+223652050,2003,regular-season,2002-12-31,2,2050,home,FALSE,Ball State,62,Cardinals,Ball State Cardinals,Ball State
+223652050,2003,regular-season,2002-12-31,2,84,away,FALSE,Indiana,76,Hoosiers,Indiana Hoosiers,Indiana

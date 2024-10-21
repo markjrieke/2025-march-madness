@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320840097,2012-03-24,2,97,home,TRUE,Louisville,72,Cardinals,Louisville Cardinals,Louisville
-320840097,2012-03-24,2,57,away,TRUE,Florida,68,Gators,Florida Gators,Florida
-320840183,2012-03-24,2,183,home,TRUE,Syracuse,70,Orange,Syracuse Orange,Syracuse
-320840183,2012-03-24,2,194,away,TRUE,Ohio State,77,Buckeyes,Ohio State Buckeyes,Ohio State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320840097,2012,post-season,2012-03-24,2,97,home,TRUE,Louisville,72,Cardinals,Louisville Cardinals,Louisville
+320840097,2012,post-season,2012-03-24,2,57,away,TRUE,Florida,68,Gators,Florida Gators,Florida
+320840183,2012,post-season,2012-03-24,2,183,home,TRUE,Syracuse,70,Orange,Syracuse Orange,Syracuse
+320840183,2012,post-season,2012-03-24,2,194,away,TRUE,Ohio State,77,Buckeyes,Ohio State Buckeyes,Ohio State

@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230530009,2003-02-22,2,9,home,FALSE,Arizona State,72,Sun Devils,Arizona State Sun Devils,Arizona St
-230530009,2003-02-22,2,12,away,FALSE,Arizona,92,Wildcats,Arizona Wildcats,Arizona
-230530197,2003-02-22,2,197,home,FALSE,Oklahoma State,82,Cowboys,Oklahoma State Cowboys,Oklahoma St
-230530197,2003-02-22,2,251,away,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
-230532132,2003-02-22,2,2132,home,FALSE,Cincinnati,101,Bearcats,Cincinnati Bearcats,Cincinnati
-230532132,2003-02-22,2,97,away,FALSE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
-230530238,2003-02-22,3,238,home,FALSE,Vanderbilt,74,Commodores,Vanderbilt Commodores,Vanderbilt
-230530238,2003-02-22,3,57,away,FALSE,Florida,77,Gators,Florida Gators,Florida
-230530150,2003-02-22,2,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
-230530150,2003-02-22,2,152,away,FALSE,NC State,68,Wolfpack,NC State Wolfpack,NC State
-230530221,2003-02-22,2,221,home,FALSE,Pittsburgh,86,Panthers,Pittsburgh Panthers,Pitt
-230530221,2003-02-22,2,164,away,FALSE,Rutgers,65,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-230532628,2003-02-22,2,2628,home,FALSE,TCU,68,Horned Frogs,TCU Horned Frogs,TCU
-230532628,2003-02-22,2,269,away,FALSE,Marquette,79,Golden Eagles,Marquette Golden Eagles,Marquette
-230530087,2003-02-22,2,87,home,FALSE,Notre Dame,98,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-230530087,2003-02-22,2,259,away,FALSE,Virginia Tech,76,Hokies,Virginia Tech Hokies,Virginia Tech
-230530120,2003-02-22,2,120,home,FALSE,Maryland,96,Terrapins,Maryland Terrapins,Maryland
-230530120,2003-02-22,2,153,away,FALSE,North Carolina,56,Tar Heels,North Carolina Tar Heels,North Carolina
-230532168,2003-02-22,2,2168,home,FALSE,Dayton,72,Flyers,Dayton Flyers,Dayton
-230532168,2003-02-22,2,2752,away,FALSE,Xavier,73,Musketeers,Xavier Musketeers,Xavier
-230530156,2003-02-22,2,156,home,FALSE,Creighton,67,Bluejays,Creighton Bluejays,Creighton
-230530156,2003-02-22,2,278,away,FALSE,Fresno State,66,Bulldogs,Fresno State Bulldogs,Fresno St
-230530030,2003-02-22,2,30,home,FALSE,USC,82,Trojans,USC Trojans,USC
-230530030,2003-02-22,2,25,away,FALSE,California,84,Golden Bears,California Golden Bears,California
-230530356,2003-02-22,2,356,home,FALSE,Illinois,73,Fighting Illini,Illinois Fighting Illini,Illinois
-230530356,2003-02-22,2,77,away,FALSE,Northwestern,61,Wildcats,Northwestern Wildcats,Northwestern
-230530026,2003-02-22,2,26,home,FALSE,UCLA,84,Bruins,UCLA Bruins,UCLA
-230530026,2003-02-22,2,24,away,FALSE,Stanford,93,Cardinal,Stanford Cardinal,Stanford
-230530061,2003-02-22,2,61,home,FALSE,Georgia,79,Bulldogs,Georgia Bulldogs,Georgia
-230530061,2003-02-22,2,2579,away,FALSE,South Carolina,66,Gamecocks,South Carolina Gamecocks,South Carolina
-230530194,2003-02-22,2,194,home,FALSE,Ohio State,52,Buckeyes,Ohio State Buckeyes,Ohio State
-230530194,2003-02-22,2,2509,away,FALSE,Purdue,44,Boilermakers,Purdue Boilermakers,Purdue
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230530009,2003,regular-season,2003-02-22,2,9,home,FALSE,Arizona State,72,Sun Devils,Arizona State Sun Devils,Arizona St
+230530009,2003,regular-season,2003-02-22,2,12,away,FALSE,Arizona,92,Wildcats,Arizona Wildcats,Arizona
+230530197,2003,regular-season,2003-02-22,2,197,home,FALSE,Oklahoma State,82,Cowboys,Oklahoma State Cowboys,Oklahoma St
+230530197,2003,regular-season,2003-02-22,2,251,away,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
+230532132,2003,regular-season,2003-02-22,2,2132,home,FALSE,Cincinnati,101,Bearcats,Cincinnati Bearcats,Cincinnati
+230532132,2003,regular-season,2003-02-22,2,97,away,FALSE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
+230530238,2003,regular-season,2003-02-22,3,238,home,FALSE,Vanderbilt,74,Commodores,Vanderbilt Commodores,Vanderbilt
+230530238,2003,regular-season,2003-02-22,3,57,away,FALSE,Florida,77,Gators,Florida Gators,Florida
+230530150,2003,regular-season,2003-02-22,2,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
+230530150,2003,regular-season,2003-02-22,2,152,away,FALSE,NC State,68,Wolfpack,NC State Wolfpack,NC State
+230530221,2003,regular-season,2003-02-22,2,221,home,FALSE,Pittsburgh,86,Panthers,Pittsburgh Panthers,Pitt
+230530221,2003,regular-season,2003-02-22,2,164,away,FALSE,Rutgers,65,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+230532628,2003,regular-season,2003-02-22,2,2628,home,FALSE,TCU,68,Horned Frogs,TCU Horned Frogs,TCU
+230532628,2003,regular-season,2003-02-22,2,269,away,FALSE,Marquette,79,Golden Eagles,Marquette Golden Eagles,Marquette
+230530087,2003,regular-season,2003-02-22,2,87,home,FALSE,Notre Dame,98,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+230530087,2003,regular-season,2003-02-22,2,259,away,FALSE,Virginia Tech,76,Hokies,Virginia Tech Hokies,Virginia Tech
+230530120,2003,regular-season,2003-02-22,2,120,home,FALSE,Maryland,96,Terrapins,Maryland Terrapins,Maryland
+230530120,2003,regular-season,2003-02-22,2,153,away,FALSE,North Carolina,56,Tar Heels,North Carolina Tar Heels,North Carolina
+230532168,2003,regular-season,2003-02-22,2,2168,home,FALSE,Dayton,72,Flyers,Dayton Flyers,Dayton
+230532168,2003,regular-season,2003-02-22,2,2752,away,FALSE,Xavier,73,Musketeers,Xavier Musketeers,Xavier
+230530156,2003,regular-season,2003-02-22,2,156,home,FALSE,Creighton,67,Bluejays,Creighton Bluejays,Creighton
+230530156,2003,regular-season,2003-02-22,2,278,away,FALSE,Fresno State,66,Bulldogs,Fresno State Bulldogs,Fresno St
+230530030,2003,regular-season,2003-02-22,2,30,home,FALSE,USC,82,Trojans,USC Trojans,USC
+230530030,2003,regular-season,2003-02-22,2,25,away,FALSE,California,84,Golden Bears,California Golden Bears,California
+230530356,2003,regular-season,2003-02-22,2,356,home,FALSE,Illinois,73,Fighting Illini,Illinois Fighting Illini,Illinois
+230530356,2003,regular-season,2003-02-22,2,77,away,FALSE,Northwestern,61,Wildcats,Northwestern Wildcats,Northwestern
+230530026,2003,regular-season,2003-02-22,2,26,home,FALSE,UCLA,84,Bruins,UCLA Bruins,UCLA
+230530026,2003,regular-season,2003-02-22,2,24,away,FALSE,Stanford,93,Cardinal,Stanford Cardinal,Stanford
+230530061,2003,regular-season,2003-02-22,2,61,home,FALSE,Georgia,79,Bulldogs,Georgia Bulldogs,Georgia
+230530061,2003,regular-season,2003-02-22,2,2579,away,FALSE,South Carolina,66,Gamecocks,South Carolina Gamecocks,South Carolina
+230530194,2003,regular-season,2003-02-22,2,194,home,FALSE,Ohio State,52,Buckeyes,Ohio State Buckeyes,Ohio State
+230530194,2003,regular-season,2003-02-22,2,2509,away,FALSE,Purdue,44,Boilermakers,Purdue Boilermakers,Purdue

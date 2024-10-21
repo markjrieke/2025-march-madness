@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401092602,2019-01-23,4,251,home,FALSE,Texas,62,Longhorns,Texas Longhorns,Texas
-401092602,2019-01-23,4,2305,away,FALSE,Kansas,43,Jayhawks,Kansas Jayhawks,Kansas
-401092059,2019-01-23,4,183,home,FALSE,Syracuse,71,Orange,Syracuse Orange,Syracuse
-401092059,2019-01-23,4,2390,away,FALSE,Miami,84,Hurricanes,Miami Hurricanes,Miami
-401094671,2019-01-23,4,2294,home,FALSE,Iowa,72,Hawkeyes,Iowa Hawkeyes,Iowa
-401094671,2019-01-23,4,164,away,FALSE,Rutgers,66,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401092602,2019,regular-season,2019-01-23,4,251,home,FALSE,Texas,62,Longhorns,Texas Longhorns,Texas
+401092602,2019,regular-season,2019-01-23,4,2305,away,FALSE,Kansas,43,Jayhawks,Kansas Jayhawks,Kansas
+401092059,2019,regular-season,2019-01-23,4,183,home,FALSE,Syracuse,71,Orange,Syracuse Orange,Syracuse
+401092059,2019,regular-season,2019-01-23,4,2390,away,FALSE,Miami,84,Hurricanes,Miami Hurricanes,Miami
+401094671,2019,regular-season,2019-01-23,4,2294,home,FALSE,Iowa,72,Hawkeyes,Iowa Hawkeyes,Iowa
+401094671,2019,regular-season,2019-01-23,4,164,away,FALSE,Rutgers,66,Scarlet Knights,Rutgers Scarlet Knights,Rutgers

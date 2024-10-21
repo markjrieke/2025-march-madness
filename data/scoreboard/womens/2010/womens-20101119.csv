@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303230239,2010-11-19,2,239,home,FALSE,Baylor,78,Bears,Baylor Bears,Baylor
-303230239,2010-11-19,2,127,away,FALSE,Michigan State,52,Spartans,Michigan State Spartans,Michigan St
-303230254,2010-11-19,2,254,home,FALSE,Utah,53,Utes,Utah Utes,Utah
-303230254,2010-11-19,2,24,away,FALSE,Stanford,62,Cardinal,Stanford Cardinal,Stanford
-303230277,2010-11-19,2,277,home,FALSE,West Virginia,66,Mountaineers,West Virginia Mountaineers,West Virginia
-303230277,2010-11-19,2,2169,away,FALSE,Delaware State,31,Hornets,Delaware State Hornets,Delaware St
-303230201,2010-11-19,2,201,home,FALSE,Oklahoma,84,Sooners,Oklahoma Sooners,Oklahoma
-303230201,2010-11-19,2,2710,away,FALSE,Western Illinois,43,Leathernecks,Western Illinois Leathernecks,W Illinois
-303230046,2010-11-19,2,46,home,FALSE,Georgetown,50,Hoyas,Georgetown Hoyas,Georgetown
-303230046,2010-11-19,2,2325,away,FALSE,La Salle,46,Explorers,La Salle Explorers,La Salle
-303230153,2010-11-19,2,153,home,FALSE,North Carolina,93,Tar Heels,North Carolina Tar Heels,North Carolina
-303230153,2010-11-19,2,324,away,FALSE,Coastal Carolina,37,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
-303230061,2010-11-19,2,61,home,FALSE,Georgia,79,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-303230061,2010-11-19,2,236,away,FALSE,Chattanooga,69,Mocs,Chattanooga Mocs,Chattanooga
-303232599,2010-11-19,2,2599,home,FALSE,St. John's,65,Red Storm,St. John's Red Storm,St John's
-303232599,2010-11-19,2,171,away,FALSE,Columbia,41,Lions,Columbia Lions,Columbia
-303232636,2010-11-19,2,2636,home,FALSE,UTSA,59,Roadrunners,UTSA Roadrunners,UTSA
-303232636,2010-11-19,2,2628,away,FALSE,TCU,83,Horned Frogs,TCU Horned Frogs,TCU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303230239,2011,regular-season,2010-11-19,2,239,home,FALSE,Baylor,78,Bears,Baylor Bears,Baylor
+303230239,2011,regular-season,2010-11-19,2,127,away,FALSE,Michigan State,52,Spartans,Michigan State Spartans,Michigan St
+303230254,2011,regular-season,2010-11-19,2,254,home,FALSE,Utah,53,Utes,Utah Utes,Utah
+303230254,2011,regular-season,2010-11-19,2,24,away,FALSE,Stanford,62,Cardinal,Stanford Cardinal,Stanford
+303230277,2011,regular-season,2010-11-19,2,277,home,FALSE,West Virginia,66,Mountaineers,West Virginia Mountaineers,West Virginia
+303230277,2011,regular-season,2010-11-19,2,2169,away,FALSE,Delaware State,31,Hornets,Delaware State Hornets,Delaware St
+303230201,2011,regular-season,2010-11-19,2,201,home,FALSE,Oklahoma,84,Sooners,Oklahoma Sooners,Oklahoma
+303230201,2011,regular-season,2010-11-19,2,2710,away,FALSE,Western Illinois,43,Leathernecks,Western Illinois Leathernecks,W Illinois
+303230046,2011,regular-season,2010-11-19,2,46,home,FALSE,Georgetown,50,Hoyas,Georgetown Hoyas,Georgetown
+303230046,2011,regular-season,2010-11-19,2,2325,away,FALSE,La Salle,46,Explorers,La Salle Explorers,La Salle
+303230153,2011,regular-season,2010-11-19,2,153,home,FALSE,North Carolina,93,Tar Heels,North Carolina Tar Heels,North Carolina
+303230153,2011,regular-season,2010-11-19,2,324,away,FALSE,Coastal Carolina,37,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+303230061,2011,regular-season,2010-11-19,2,61,home,FALSE,Georgia,79,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+303230061,2011,regular-season,2010-11-19,2,236,away,FALSE,Chattanooga,69,Mocs,Chattanooga Mocs,Chattanooga
+303232599,2011,regular-season,2010-11-19,2,2599,home,FALSE,St. John's,65,Red Storm,St. John's Red Storm,St John's
+303232599,2011,regular-season,2010-11-19,2,171,away,FALSE,Columbia,41,Lions,Columbia Lions,Columbia
+303232636,2011,regular-season,2010-11-19,2,2636,home,FALSE,UTSA,59,Roadrunners,UTSA Roadrunners,UTSA
+303232636,2011,regular-season,2010-11-19,2,2628,away,FALSE,TCU,83,Horned Frogs,TCU Horned Frogs,TCU

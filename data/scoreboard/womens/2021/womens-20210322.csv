@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401311256,2021-03-22,4,61,home,TRUE,Georgia,67,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-401311256,2021-03-22,4,2182,away,TRUE,Drexel,53,Dragons,Drexel Dragons,Drexel
-401311243,2021-03-22,4,164,home,TRUE,Rutgers,66,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-401311243,2021-03-22,4,252,away,TRUE,BYU,69,Cougars,BYU Cougars,BYU
-401311229,2021-03-22,4,333,home,TRUE,Alabama,80,Crimson Tide,Alabama Crimson Tide,Alabama
-401311229,2021-03-22,4,153,away,TRUE,North Carolina,71,Tar Heels,North Carolina Tar Heels,North Carolina
-401311244,2021-03-22,4,84,home,TRUE,Indiana,63,Hoosiers,Indiana Hoosiers,Indiana
-401311244,2021-03-22,4,2670,away,TRUE,VCU,32,Rams,VCU Rams,VCU
-401311242,2021-03-22,4,12,home,TRUE,Arizona,79,Wildcats,Arizona Wildcats,Arizona
-401311242,2021-03-22,4,2619,away,TRUE,Stony Brook,44,Seawolves,Stony Brook Seawolves,Stony Brook
-401311214,2021-03-22,4,8,home,TRUE,Arkansas,62,Razorbacks,Arkansas Razorbacks,Arkansas
-401311214,2021-03-22,4,2750,away,TRUE,Wright State,66,Raiders,Wright State Raiders,Wright St
-401311245,2021-03-22,4,2250,home,TRUE,Gonzaga,59,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401311245,2021-03-22,4,2057,away,TRUE,Belmont,64,Bruins,Belmont Bruins,Belmont
-401311230,2021-03-22,4,120,home,TRUE,Maryland,98,Terrapins,Maryland Terrapins,Maryland
-401311230,2021-03-22,4,116,away,TRUE,Mount St. Mary's,45,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-401311213,2021-03-22,4,77,home,TRUE,Northwestern,62,Wildcats,Northwestern Wildcats,Northwestern
-401311213,2021-03-22,4,2116,away,TRUE,UCF,51,Knights,UCF Knights,UCF
-401311259,2021-03-22,4,66,home,TRUE,Iowa State,79,Cyclones,Iowa State Cyclones,Iowa State
-401311259,2021-03-22,4,127,away,TRUE,Michigan State,75,Spartans,Michigan State Spartans,Michigan St
-401311258,2021-03-22,4,245,home,TRUE,Texas A&M,84,Aggies,Texas A&M Aggies,Texas A&M
-401311258,2021-03-22,4,2653,away,TRUE,Troy,80,Trojans,Troy Trojans,Troy
-401311215,2021-03-22,4,2623,home,TRUE,Missouri State,70,Lady Bears,Missouri State Lady Bears,Missouri St
-401311215,2021-03-22,4,302,away,TRUE,UC Davis,51,Aggies,UC Davis Aggies,UC Davis
-401311227,2021-03-22,4,251,home,TRUE,Texas,81,Longhorns,Texas Longhorns,Texas
-401311227,2021-03-22,4,71,away,TRUE,Bradley,62,Braves,Bradley Braves,Bradley
-401311212,2021-03-22,4,97,home,TRUE,Louisville,74,Cardinals,Louisville Cardinals,Louisville
-401311212,2021-03-22,4,2368,away,TRUE,Marist,43,Red Foxes,Marist Red Foxes,Marist
-401311257,2021-03-22,4,2483,home,TRUE,Oregon,67,Ducks,Oregon Ducks,Oregon
-401311257,2021-03-22,4,233,away,TRUE,South Dakota,47,Coyotes,South Dakota Coyotes,South Dakota
-401311228,2021-03-22,4,26,home,TRUE,UCLA,69,Bruins,UCLA Bruins,UCLA
-401311228,2021-03-22,4,2751,away,TRUE,Wyoming,48,Cowgirls,Wyoming Cowgirls,Wyoming
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401311256,2021,post-season,2021-03-22,4,61,home,TRUE,Georgia,67,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+401311256,2021,post-season,2021-03-22,4,2182,away,TRUE,Drexel,53,Dragons,Drexel Dragons,Drexel
+401311243,2021,post-season,2021-03-22,4,164,home,TRUE,Rutgers,66,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401311243,2021,post-season,2021-03-22,4,252,away,TRUE,BYU,69,Cougars,BYU Cougars,BYU
+401311229,2021,post-season,2021-03-22,4,333,home,TRUE,Alabama,80,Crimson Tide,Alabama Crimson Tide,Alabama
+401311229,2021,post-season,2021-03-22,4,153,away,TRUE,North Carolina,71,Tar Heels,North Carolina Tar Heels,North Carolina
+401311244,2021,post-season,2021-03-22,4,84,home,TRUE,Indiana,63,Hoosiers,Indiana Hoosiers,Indiana
+401311244,2021,post-season,2021-03-22,4,2670,away,TRUE,VCU,32,Rams,VCU Rams,VCU
+401311242,2021,post-season,2021-03-22,4,12,home,TRUE,Arizona,79,Wildcats,Arizona Wildcats,Arizona
+401311242,2021,post-season,2021-03-22,4,2619,away,TRUE,Stony Brook,44,Seawolves,Stony Brook Seawolves,Stony Brook
+401311214,2021,post-season,2021-03-22,4,8,home,TRUE,Arkansas,62,Razorbacks,Arkansas Razorbacks,Arkansas
+401311214,2021,post-season,2021-03-22,4,2750,away,TRUE,Wright State,66,Raiders,Wright State Raiders,Wright St
+401311245,2021,post-season,2021-03-22,4,2250,home,TRUE,Gonzaga,59,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401311245,2021,post-season,2021-03-22,4,2057,away,TRUE,Belmont,64,Bruins,Belmont Bruins,Belmont
+401311230,2021,post-season,2021-03-22,4,120,home,TRUE,Maryland,98,Terrapins,Maryland Terrapins,Maryland
+401311230,2021,post-season,2021-03-22,4,116,away,TRUE,Mount St. Mary's,45,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+401311213,2021,post-season,2021-03-22,4,77,home,TRUE,Northwestern,62,Wildcats,Northwestern Wildcats,Northwestern
+401311213,2021,post-season,2021-03-22,4,2116,away,TRUE,UCF,51,Knights,UCF Knights,UCF
+401311259,2021,post-season,2021-03-22,4,66,home,TRUE,Iowa State,79,Cyclones,Iowa State Cyclones,Iowa State
+401311259,2021,post-season,2021-03-22,4,127,away,TRUE,Michigan State,75,Spartans,Michigan State Spartans,Michigan St
+401311258,2021,post-season,2021-03-22,4,245,home,TRUE,Texas A&M,84,Aggies,Texas A&M Aggies,Texas A&M
+401311258,2021,post-season,2021-03-22,4,2653,away,TRUE,Troy,80,Trojans,Troy Trojans,Troy
+401311215,2021,post-season,2021-03-22,4,2623,home,TRUE,Missouri State,70,Lady Bears,Missouri State Lady Bears,Missouri St
+401311215,2021,post-season,2021-03-22,4,302,away,TRUE,UC Davis,51,Aggies,UC Davis Aggies,UC Davis
+401311227,2021,post-season,2021-03-22,4,251,home,TRUE,Texas,81,Longhorns,Texas Longhorns,Texas
+401311227,2021,post-season,2021-03-22,4,71,away,TRUE,Bradley,62,Braves,Bradley Braves,Bradley
+401311212,2021,post-season,2021-03-22,4,97,home,TRUE,Louisville,74,Cardinals,Louisville Cardinals,Louisville
+401311212,2021,post-season,2021-03-22,4,2368,away,TRUE,Marist,43,Red Foxes,Marist Red Foxes,Marist
+401311257,2021,post-season,2021-03-22,4,2483,home,TRUE,Oregon,67,Ducks,Oregon Ducks,Oregon
+401311257,2021,post-season,2021-03-22,4,233,away,TRUE,South Dakota,47,Coyotes,South Dakota Coyotes,South Dakota
+401311228,2021,post-season,2021-03-22,4,26,home,TRUE,UCLA,69,Bruins,UCLA Bruins,UCLA
+401311228,2021,post-season,2021-03-22,4,2751,away,TRUE,Wyoming,48,Cowgirls,Wyoming Cowgirls,Wyoming

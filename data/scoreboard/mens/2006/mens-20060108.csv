@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260080154,2006-01-08,2,154,home,FALSE,Wake Forest,64,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-260080154,2006-01-08,2,150,away,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
-260080222,2006-01-08,2,222,home,FALSE,Villanova,87,Wildcats,Villanova Wildcats,Villanova
-260080222,2006-01-08,2,277,away,FALSE,West Virginia,91,Mountaineers,West Virginia Mountaineers,West Virginia
-260080235,2006-01-08,2,235,home,FALSE,Memphis,73,Tigers,Memphis Tigers,Memphis
-260080235,2006-01-08,2,2737,away,FALSE,Winthrop,63,Eagles,Winthrop Eagles,Winthrop
-260080275,2006-01-08,2,275,home,FALSE,Wisconsin,82,Badgers,Wisconsin Badgers,Wisconsin
-260080275,2006-01-08,2,127,away,FALSE,Michigan State,63,Spartans,Michigan State Spartans,Michigan St
-260080059,2006-01-08,2,59,home,FALSE,Georgia Tech,60,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-260080059,2006-01-08,2,103,away,FALSE,Boston College,58,Eagles,Boston College Eagles,Boston College
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260080154,2006,regular-season,2006-01-08,2,154,home,FALSE,Wake Forest,64,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+260080154,2006,regular-season,2006-01-08,2,150,away,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
+260080222,2006,regular-season,2006-01-08,2,222,home,FALSE,Villanova,87,Wildcats,Villanova Wildcats,Villanova
+260080222,2006,regular-season,2006-01-08,2,277,away,FALSE,West Virginia,91,Mountaineers,West Virginia Mountaineers,West Virginia
+260080235,2006,regular-season,2006-01-08,2,235,home,FALSE,Memphis,73,Tigers,Memphis Tigers,Memphis
+260080235,2006,regular-season,2006-01-08,2,2737,away,FALSE,Winthrop,63,Eagles,Winthrop Eagles,Winthrop
+260080275,2006,regular-season,2006-01-08,2,275,home,FALSE,Wisconsin,82,Badgers,Wisconsin Badgers,Wisconsin
+260080275,2006,regular-season,2006-01-08,2,127,away,FALSE,Michigan State,63,Spartans,Michigan State Spartans,Michigan St
+260080059,2006,regular-season,2006-01-08,2,59,home,FALSE,Georgia Tech,60,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+260080059,2006,regular-season,2006-01-08,2,103,away,FALSE,Boston College,58,Eagles,Boston College Eagles,Boston College

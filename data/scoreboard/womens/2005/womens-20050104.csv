@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250040150,2005-01-04,2,150,home,FALSE,Duke,101,Blue Devils,Duke Blue Devils,Duke
-250040150,2005-01-04,2,107,away,FALSE,Holy Cross,42,Crusaders,Holy Cross Crusaders,Holy Cross
-250040024,2005-01-04,2,24,home,FALSE,Stanford,74,Cardinal,Stanford Cardinal,Stanford
-250040024,2005-01-04,2,264,away,FALSE,Washington,61,Huskies,Washington Huskies,Washington
-250040041,2005-01-04,2,41,home,FALSE,UConn,83,Huskies,UConn Huskies,UConn
-250040041,2005-01-04,2,2507,away,FALSE,Providence,33,Friars,Providence Friars,Providence
-250040026,2005-01-04,2,26,home,FALSE,UCLA,70,Bruins,UCLA Bruins,UCLA
-250040026,2005-01-04,2,2483,away,FALSE,Oregon,54,Ducks,Oregon Ducks,Oregon
-250040167,2005-01-04,2,167,home,FALSE,New Mexico,101,Lobos,New Mexico Lobos,New Mexico
-250040167,2005-01-04,2,2415,away,FALSE,Morgan State,22,Lady Bears,Morgan State Lady Bears,Morgan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250040150,2005,regular-season,2005-01-04,2,150,home,FALSE,Duke,101,Blue Devils,Duke Blue Devils,Duke
+250040150,2005,regular-season,2005-01-04,2,107,away,FALSE,Holy Cross,42,Crusaders,Holy Cross Crusaders,Holy Cross
+250040024,2005,regular-season,2005-01-04,2,24,home,FALSE,Stanford,74,Cardinal,Stanford Cardinal,Stanford
+250040024,2005,regular-season,2005-01-04,2,264,away,FALSE,Washington,61,Huskies,Washington Huskies,Washington
+250040041,2005,regular-season,2005-01-04,2,41,home,FALSE,UConn,83,Huskies,UConn Huskies,UConn
+250040041,2005,regular-season,2005-01-04,2,2507,away,FALSE,Providence,33,Friars,Providence Friars,Providence
+250040026,2005,regular-season,2005-01-04,2,26,home,FALSE,UCLA,70,Bruins,UCLA Bruins,UCLA
+250040026,2005,regular-season,2005-01-04,2,2483,away,FALSE,Oregon,54,Ducks,Oregon Ducks,Oregon
+250040167,2005,regular-season,2005-01-04,2,167,home,FALSE,New Mexico,101,Lobos,New Mexico Lobos,New Mexico
+250040167,2005,regular-season,2005-01-04,2,2415,away,FALSE,Morgan State,22,Lady Bears,Morgan State Lady Bears,Morgan St

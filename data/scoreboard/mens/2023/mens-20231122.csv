@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401581599,2023-11-22,2,2305,home,TRUE,Kansas,69,Jayhawks,Kansas Jayhawks,Kansas
-401581599,2023-11-22,2,2633,away,TRUE,Tennessee,60,Volunteers,Tennessee Volunteers,Tennessee
-401581598,2023-11-22,2,269,home,TRUE,Marquette,75,Golden Eagles,Marquette Golden Eagles,Marquette
-401581598,2023-11-22,2,2509,away,TRUE,Purdue,78,Boilermakers,Purdue Boilermakers,Purdue
-401577594,2023-11-22,2,156,home,TRUE,Creighton,88,Bluejays,Creighton Bluejays,Creighton
-401577594,2023-11-22,2,2350,away,TRUE,Loyola Chicago,65,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-401581600,2023-11-22,2,26,home,TRUE,UCLA,65,Bruins,UCLA Bruins,UCLA
-401581600,2023-11-22,2,2250,away,TRUE,Gonzaga,69,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401581799,2023-11-22,2,204,home,TRUE,Oregon State,72,Beavers,Oregon State Beavers,Oregon St
-401581799,2023-11-22,2,239,away,TRUE,Baylor,88,Bears,Baylor Bears,Baylor
-401580922,2023-11-22,2,153,home,TRUE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
-401580922,2023-11-22,2,2460,away,TRUE,Northern Iowa,69,Panthers,Northern Iowa Panthers,Northern Iowa
-401580925,2023-11-22,4,8,home,TRUE,Arkansas,77,Razorbacks,Arkansas Razorbacks,Arkansas
-401580925,2023-11-22,4,24,away,TRUE,Stanford,74,Cardinal,Stanford Cardinal,Stanford
-401601497,2023-11-22,2,278,home,TRUE,Fresno State,64,Bulldogs,Fresno State Bulldogs,Fresno St
-401601497,2023-11-22,2,256,away,TRUE,James Madison,95,Dukes,James Madison Dukes,James Madison
-401603134,2023-11-22,2,258,home,TRUE,Virginia,56,Cavaliers,Virginia Cavaliers,Virginia
-401603134,2023-11-22,2,277,away,TRUE,West Virginia,54,Mountaineers,West Virginia Mountaineers,West Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401581599,2024,regular-season,2023-11-22,2,2305,home,TRUE,Kansas,69,Jayhawks,Kansas Jayhawks,Kansas
+401581599,2024,regular-season,2023-11-22,2,2633,away,TRUE,Tennessee,60,Volunteers,Tennessee Volunteers,Tennessee
+401581598,2024,regular-season,2023-11-22,2,269,home,TRUE,Marquette,75,Golden Eagles,Marquette Golden Eagles,Marquette
+401581598,2024,regular-season,2023-11-22,2,2509,away,TRUE,Purdue,78,Boilermakers,Purdue Boilermakers,Purdue
+401577594,2024,regular-season,2023-11-22,2,156,home,TRUE,Creighton,88,Bluejays,Creighton Bluejays,Creighton
+401577594,2024,regular-season,2023-11-22,2,2350,away,TRUE,Loyola Chicago,65,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+401581600,2024,regular-season,2023-11-22,2,26,home,TRUE,UCLA,65,Bruins,UCLA Bruins,UCLA
+401581600,2024,regular-season,2023-11-22,2,2250,away,TRUE,Gonzaga,69,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401581799,2024,regular-season,2023-11-22,2,204,home,TRUE,Oregon State,72,Beavers,Oregon State Beavers,Oregon St
+401581799,2024,regular-season,2023-11-22,2,239,away,TRUE,Baylor,88,Bears,Baylor Bears,Baylor
+401580922,2024,regular-season,2023-11-22,2,153,home,TRUE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
+401580922,2024,regular-season,2023-11-22,2,2460,away,TRUE,Northern Iowa,69,Panthers,Northern Iowa Panthers,Northern Iowa
+401580925,2024,regular-season,2023-11-22,4,8,home,TRUE,Arkansas,77,Razorbacks,Arkansas Razorbacks,Arkansas
+401580925,2024,regular-season,2023-11-22,4,24,away,TRUE,Stanford,74,Cardinal,Stanford Cardinal,Stanford
+401601497,2024,regular-season,2023-11-22,2,278,home,TRUE,Fresno State,64,Bulldogs,Fresno State Bulldogs,Fresno St
+401601497,2024,regular-season,2023-11-22,2,256,away,TRUE,James Madison,95,Dukes,James Madison Dukes,James Madison
+401603134,2024,regular-season,2023-11-22,2,258,home,TRUE,Virginia,56,Cavaliers,Virginia Cavaliers,Virginia
+401603134,2024,regular-season,2023-11-22,2,277,away,TRUE,West Virginia,54,Mountaineers,West Virginia Mountaineers,West Virginia

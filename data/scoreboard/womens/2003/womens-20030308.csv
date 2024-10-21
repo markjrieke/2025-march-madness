@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230672633,2003-03-08,2,2633,home,FALSE,Tennessee,76,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-230672633,2003-03-08,2,344,away,FALSE,Mississippi State,75,Bulldogs,Mississippi State Bulldogs,Mississippi St
-230670099,2003-03-08,2,99,home,FALSE,LSU,78,Tigers,LSU Tigers,LSU
-230670099,2003-03-08,2,238,away,FALSE,Vanderbilt,69,Commodores,Vanderbilt Commodores,Vanderbilt
-230670024,2003-03-08,2,24,home,FALSE,Stanford,60,Cardinal,Stanford Cardinal,Stanford
-230670024,2003-03-08,2,25,away,FALSE,California,35,Golden Bears,California Golden Bears,California
-230670153,2003-03-08,2,153,home,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
-230670153,2003-03-08,2,228,away,FALSE,Clemson,71,Tigers,Clemson Tigers,Clemson
-230672540,2003-03-08,2,2540,home,FALSE,UC Santa Barbara,76,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-230672540,2003-03-08,2,27,away,FALSE,UC Riverside,36,Highlanders,UC Riverside Highlanders,UC Riverside
-230670012,2003-03-08,2,12,home,FALSE,Arizona,70,Wildcats,Arizona Wildcats,Arizona
-230670012,2003-03-08,2,204,away,FALSE,Oregon State,56,Beavers,Oregon State Beavers,Oregon St
-230670264,2003-03-08,2,264,home,FALSE,Washington,64,Huskies,Washington Huskies,Washington
-230670264,2003-03-08,2,30,away,FALSE,USC,63,Trojans,USC Trojans,USC
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230672633,2003,regular-season,2003-03-08,2,2633,home,FALSE,Tennessee,76,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+230672633,2003,regular-season,2003-03-08,2,344,away,FALSE,Mississippi State,75,Bulldogs,Mississippi State Bulldogs,Mississippi St
+230670099,2003,regular-season,2003-03-08,2,99,home,FALSE,LSU,78,Tigers,LSU Tigers,LSU
+230670099,2003,regular-season,2003-03-08,2,238,away,FALSE,Vanderbilt,69,Commodores,Vanderbilt Commodores,Vanderbilt
+230670024,2003,regular-season,2003-03-08,2,24,home,FALSE,Stanford,60,Cardinal,Stanford Cardinal,Stanford
+230670024,2003,regular-season,2003-03-08,2,25,away,FALSE,California,35,Golden Bears,California Golden Bears,California
+230670153,2003,regular-season,2003-03-08,2,153,home,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
+230670153,2003,regular-season,2003-03-08,2,228,away,FALSE,Clemson,71,Tigers,Clemson Tigers,Clemson
+230672540,2003,regular-season,2003-03-08,2,2540,home,FALSE,UC Santa Barbara,76,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+230672540,2003,regular-season,2003-03-08,2,27,away,FALSE,UC Riverside,36,Highlanders,UC Riverside Highlanders,UC Riverside
+230670012,2003,regular-season,2003-03-08,2,12,home,FALSE,Arizona,70,Wildcats,Arizona Wildcats,Arizona
+230670012,2003,regular-season,2003-03-08,2,204,away,FALSE,Oregon State,56,Beavers,Oregon State Beavers,Oregon St
+230670264,2003,regular-season,2003-03-08,2,264,home,FALSE,Washington,64,Huskies,Washington Huskies,Washington
+230670264,2003,regular-season,2003-03-08,2,30,away,FALSE,USC,63,Trojans,USC Trojans,USC

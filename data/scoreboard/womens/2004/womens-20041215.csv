@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243500150,2004-12-15,2,150,home,FALSE,Duke,99,Blue Devils,Duke Blue Devils,Duke
-243500150,2004-12-15,2,55,away,FALSE,Jacksonville State,36,Gamecocks,Jacksonville State Gamecocks,Jax State
-243500264,2004-12-15,2,264,home,FALSE,Washington,58,Huskies,Washington Huskies,Washington
-243500264,2004-12-15,2,239,away,FALSE,Baylor,74,Bears,Baylor Bears,Baylor
-243502348,2004-12-15,2,2348,home,FALSE,Louisiana Tech,59,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-243502348,2004-12-15,2,2633,away,FALSE,Tennessee,70,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-243510062,2004-12-15,2,62,home,FALSE,Hawai'i,55,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
-243510062,2004-12-15,2,248,away,FALSE,Houston,66,Cougars,Houston Cougars,Houston
-243502459,2004-12-15,2,2459,home,FALSE,Northern Illinois,59,Huskies,Northern Illinois Huskies,N Illinois
-243502459,2004-12-15,2,305,away,FALSE,DePaul,73,Blue Demons,DePaul Blue Demons,DePaul
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243500150,2005,regular-season,2004-12-15,2,150,home,FALSE,Duke,99,Blue Devils,Duke Blue Devils,Duke
+243500150,2005,regular-season,2004-12-15,2,55,away,FALSE,Jacksonville State,36,Gamecocks,Jacksonville State Gamecocks,Jax State
+243500264,2005,regular-season,2004-12-15,2,264,home,FALSE,Washington,58,Huskies,Washington Huskies,Washington
+243500264,2005,regular-season,2004-12-15,2,239,away,FALSE,Baylor,74,Bears,Baylor Bears,Baylor
+243502348,2005,regular-season,2004-12-15,2,2348,home,FALSE,Louisiana Tech,59,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+243502348,2005,regular-season,2004-12-15,2,2633,away,FALSE,Tennessee,70,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+243510062,2005,regular-season,2004-12-15,2,62,home,FALSE,Hawai'i,55,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
+243510062,2005,regular-season,2004-12-15,2,248,away,FALSE,Houston,66,Cougars,Houston Cougars,Houston
+243502459,2005,regular-season,2004-12-15,2,2459,home,FALSE,Northern Illinois,59,Huskies,Northern Illinois Huskies,N Illinois
+243502459,2005,regular-season,2004-12-15,2,305,away,FALSE,DePaul,73,Blue Demons,DePaul Blue Demons,DePaul

@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273292305,2007-11-25,3,2305,home,TRUE,Kansas,76,Jayhawks,Kansas Jayhawks,Kansas
-273292305,2007-11-25,3,12,away,TRUE,Arizona,72,Wildcats,Arizona Wildcats,Arizona
-273290265,2007-11-25,2,265,home,TRUE,Washington State,71,Cougars,Washington State Cougars,Washington St
-273290265,2007-11-25,2,2005,away,TRUE,Air Force,62,Falcons,Air Force Falcons,Air Force
-273290150,2007-11-25,2,150,home,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
-273290150,2007-11-25,2,2198,away,FALSE,Eastern Kentucky,43,Colonels,Eastern Kentucky Colonels,E Kentucky
-273292520,2007-11-25,2,2520,home,TRUE,Rider,69,Broncs,Rider Broncs,Rider
-273292520,2007-11-25,2,2306,away,TRUE,Kansas State,82,Wildcats,Kansas State Wildcats,Kansas St
-273290079,2007-11-25,2,30,home,TRUE,USC,70,Trojans,USC Trojans,USC
-273290079,2007-11-25,2,79,away,TRUE,Southern Illinois,45,Salukis,Southern Illinois Salukis,S Illinois
-273290152,2007-11-25,2,222,home,TRUE,Villanova,68,Wildcats,Villanova Wildcats,Villanova
-273290152,2007-11-25,2,152,away,TRUE,NC State,69,Wolfpack,NC State Wolfpack,NC State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273292305,2008,regular-season,2007-11-25,3,2305,home,TRUE,Kansas,76,Jayhawks,Kansas Jayhawks,Kansas
+273292305,2008,regular-season,2007-11-25,3,12,away,TRUE,Arizona,72,Wildcats,Arizona Wildcats,Arizona
+273290265,2008,regular-season,2007-11-25,2,265,home,TRUE,Washington State,71,Cougars,Washington State Cougars,Washington St
+273290265,2008,regular-season,2007-11-25,2,2005,away,TRUE,Air Force,62,Falcons,Air Force Falcons,Air Force
+273290150,2008,regular-season,2007-11-25,2,150,home,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
+273290150,2008,regular-season,2007-11-25,2,2198,away,FALSE,Eastern Kentucky,43,Colonels,Eastern Kentucky Colonels,E Kentucky
+273292520,2008,regular-season,2007-11-25,2,2520,home,TRUE,Rider,69,Broncs,Rider Broncs,Rider
+273292520,2008,regular-season,2007-11-25,2,2306,away,TRUE,Kansas State,82,Wildcats,Kansas State Wildcats,Kansas St
+273290079,2008,regular-season,2007-11-25,2,30,home,TRUE,USC,70,Trojans,USC Trojans,USC
+273290079,2008,regular-season,2007-11-25,2,79,away,TRUE,Southern Illinois,45,Salukis,Southern Illinois Salukis,S Illinois
+273290152,2008,regular-season,2007-11-25,2,222,home,TRUE,Villanova,68,Wildcats,Villanova Wildcats,Villanova
+273290152,2008,regular-season,2007-11-25,2,152,away,TRUE,NC State,69,Wolfpack,NC State Wolfpack,NC State

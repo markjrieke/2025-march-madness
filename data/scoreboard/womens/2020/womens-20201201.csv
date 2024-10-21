@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401254720,2020-12-01,4,58,home,FALSE,South Florida,62,Bulls,South Florida Bulls,South Florida
-401254720,2020-12-01,4,239,away,FALSE,Baylor,67,Bears,Baylor Bears,Baylor
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401254720,2021,regular-season,2020-12-01,4,58,home,FALSE,South Florida,62,Bulls,South Florida Bulls,South Florida
+401254720,2021,regular-season,2020-12-01,4,239,away,FALSE,Baylor,67,Bears,Baylor Bears,Baylor

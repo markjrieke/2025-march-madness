@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243240236,2004-11-19,2,236,home,FALSE,Chattanooga,34,Mocs,Chattanooga Mocs,Chattanooga
-243240236,2004-11-19,2,2633,away,FALSE,Tennessee,68,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-243240041,2004-11-19,2,41,home,FALSE,UConn,107,Huskies,UConn Huskies,UConn
-243240041,2004-11-19,2,2084,away,FALSE,Buffalo,40,Bulls,Buffalo Bulls,Buffalo
-243240061,2004-11-19,2,61,home,FALSE,Georgia,98,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-243240061,2004-11-19,2,231,away,FALSE,Furman,76,Paladins,Furman Paladins,Furman
-243240150,2004-11-19,2,150,home,FALSE,Duke,66,Blue Devils,Duke Blue Devils,Duke
-243240150,2004-11-19,2,213,away,FALSE,Penn State,58,Lady Lions,Penn State Lady Lions,Penn State
-243240254,2004-11-19,2,254,home,FALSE,Utah,57,Utes,Utah Utes,Utah
-243240254,2004-11-19,2,24,away,FALSE,Stanford,63,Cardinal,Stanford Cardinal,Stanford
-243240239,2004-11-19,2,239,home,FALSE,Baylor,60,Bears,Baylor Bears,Baylor
-243240239,2004-11-19,2,84,away,FALSE,Indiana,47,Hoosiers,Indiana Hoosiers,Indiana
-243240153,2004-11-19,2,153,home,FALSE,North Carolina,86,Tar Heels,North Carolina Tar Heels,North Carolina
-243240153,2004-11-19,2,2210,away,FALSE,Elon,40,Phoenix,Elon Phoenix,Elon
-243240238,2004-11-19,2,238,home,FALSE,Vanderbilt,102,Commodores,Vanderbilt Commodores,Vanderbilt
-243240238,2004-11-19,2,2598,away,FALSE,St. Francis (PA),47,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-243240135,2004-11-19,2,135,home,FALSE,Minnesota,82,Golden Gophers,Minnesota Golden Gophers,Minnesota
-243240135,2004-11-19,2,2032,away,FALSE,Arkansas State,45,Red Wolves,Arkansas State Red Wolves,Arkansas St
-243242306,2004-11-19,2,2306,home,FALSE,Kansas State,85,Wildcats,Kansas State Wildcats,Kansas St
-243242306,2004-11-19,2,2751,away,FALSE,Wyoming,42,Cowgirls,Wyoming Cowgirls,Wyoming
-243240093,2004-11-19,2,305,home,FALSE,DePaul,96,Blue Demons,DePaul Blue Demons,DePaul
-243240093,2004-11-19,2,93,away,FALSE,Murray State,58,Racers,Murray State Racers,Murray St
-243240201,2004-11-19,2,201,home,FALSE,Oklahoma,84,Sooners,Oklahoma Sooners,Oklahoma
-243240201,2004-11-19,2,2546,away,FALSE,Southeast Missouri State,62,Redhawks,Southeast Missouri State Redhawks,SE Missouri
-243242026,2004-11-19,2,2026,home,FALSE,App State,74,Mountaineers,App State Mountaineers,App State
-243242026,2004-11-19,2,120,away,FALSE,Maryland,94,Terrapins,Maryland Terrapins,Maryland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243240236,2005,regular-season,2004-11-19,2,236,home,FALSE,Chattanooga,34,Mocs,Chattanooga Mocs,Chattanooga
+243240236,2005,regular-season,2004-11-19,2,2633,away,FALSE,Tennessee,68,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+243240041,2005,regular-season,2004-11-19,2,41,home,FALSE,UConn,107,Huskies,UConn Huskies,UConn
+243240041,2005,regular-season,2004-11-19,2,2084,away,FALSE,Buffalo,40,Bulls,Buffalo Bulls,Buffalo
+243240061,2005,regular-season,2004-11-19,2,61,home,FALSE,Georgia,98,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+243240061,2005,regular-season,2004-11-19,2,231,away,FALSE,Furman,76,Paladins,Furman Paladins,Furman
+243240150,2005,regular-season,2004-11-19,2,150,home,FALSE,Duke,66,Blue Devils,Duke Blue Devils,Duke
+243240150,2005,regular-season,2004-11-19,2,213,away,FALSE,Penn State,58,Lady Lions,Penn State Lady Lions,Penn State
+243240254,2005,regular-season,2004-11-19,2,254,home,FALSE,Utah,57,Utes,Utah Utes,Utah
+243240254,2005,regular-season,2004-11-19,2,24,away,FALSE,Stanford,63,Cardinal,Stanford Cardinal,Stanford
+243240239,2005,regular-season,2004-11-19,2,239,home,FALSE,Baylor,60,Bears,Baylor Bears,Baylor
+243240239,2005,regular-season,2004-11-19,2,84,away,FALSE,Indiana,47,Hoosiers,Indiana Hoosiers,Indiana
+243240153,2005,regular-season,2004-11-19,2,153,home,FALSE,North Carolina,86,Tar Heels,North Carolina Tar Heels,North Carolina
+243240153,2005,regular-season,2004-11-19,2,2210,away,FALSE,Elon,40,Phoenix,Elon Phoenix,Elon
+243240238,2005,regular-season,2004-11-19,2,238,home,FALSE,Vanderbilt,102,Commodores,Vanderbilt Commodores,Vanderbilt
+243240238,2005,regular-season,2004-11-19,2,2598,away,FALSE,St. Francis (PA),47,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+243240135,2005,regular-season,2004-11-19,2,135,home,FALSE,Minnesota,82,Golden Gophers,Minnesota Golden Gophers,Minnesota
+243240135,2005,regular-season,2004-11-19,2,2032,away,FALSE,Arkansas State,45,Red Wolves,Arkansas State Red Wolves,Arkansas St
+243242306,2005,regular-season,2004-11-19,2,2306,home,FALSE,Kansas State,85,Wildcats,Kansas State Wildcats,Kansas St
+243242306,2005,regular-season,2004-11-19,2,2751,away,FALSE,Wyoming,42,Cowgirls,Wyoming Cowgirls,Wyoming
+243240093,2005,regular-season,2004-11-19,2,305,home,FALSE,DePaul,96,Blue Demons,DePaul Blue Demons,DePaul
+243240093,2005,regular-season,2004-11-19,2,93,away,FALSE,Murray State,58,Racers,Murray State Racers,Murray St
+243240201,2005,regular-season,2004-11-19,2,201,home,FALSE,Oklahoma,84,Sooners,Oklahoma Sooners,Oklahoma
+243240201,2005,regular-season,2004-11-19,2,2546,away,FALSE,Southeast Missouri State,62,Redhawks,Southeast Missouri State Redhawks,SE Missouri
+243242026,2005,regular-season,2004-11-19,2,2026,home,FALSE,App State,74,Mountaineers,App State Mountaineers,App State
+243242026,2005,regular-season,2004-11-19,2,120,away,FALSE,Maryland,94,Terrapins,Maryland Terrapins,Maryland

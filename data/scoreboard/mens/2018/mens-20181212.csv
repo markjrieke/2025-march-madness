@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401083481,2018-12-12,2,2641,home,FALSE,Texas Tech,79,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401083481,2018-12-12,2,2466,away,FALSE,Northwestern State,44,Demons,Northwestern State Demons,N'Western St
-401083111,2018-12-12,2,248,home,FALSE,Houston,82,Cougars,Houston Cougars,Houston
-401083111,2018-12-12,2,99,away,FALSE,LSU,76,Tigers,LSU Tigers,LSU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401083481,2019,regular-season,2018-12-12,2,2641,home,FALSE,Texas Tech,79,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401083481,2019,regular-season,2018-12-12,2,2466,away,FALSE,Northwestern State,44,Demons,Northwestern State Demons,N'Western St
+401083111,2019,regular-season,2018-12-12,2,248,home,FALSE,Houston,82,Cougars,Houston Cougars,Houston
+401083111,2019,regular-season,2018-12-12,2,99,away,FALSE,LSU,76,Tigers,LSU Tigers,LSU

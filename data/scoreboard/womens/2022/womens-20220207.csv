@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401364302,2022-02-07,4,145,home,FALSE,Ole Miss,64,Rebels,Ole Miss Rebels,Ole Miss
-401364302,2022-02-07,4,99,away,FALSE,LSU,68,Tigers,LSU Tigers,LSU
-401364568,2022-02-07,4,194,home,FALSE,Ohio State,61,Buckeyes,Ohio State Buckeyes,Ohio State
-401364568,2022-02-07,4,164,away,FALSE,Rutgers,57,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401364302,2022,regular-season,2022-02-07,4,145,home,FALSE,Ole Miss,64,Rebels,Ole Miss Rebels,Ole Miss
+401364302,2022,regular-season,2022-02-07,4,99,away,FALSE,LSU,68,Tigers,LSU Tigers,LSU
+401364568,2022,regular-season,2022-02-07,4,194,home,FALSE,Ohio State,61,Buckeyes,Ohio State Buckeyes,Ohio State
+401364568,2022,regular-season,2022-02-07,4,164,away,FALSE,Rutgers,57,Scarlet Knights,Rutgers Scarlet Knights,Rutgers

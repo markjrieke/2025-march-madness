@@ -1,43 +1,43 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400919692,2017-01-22,2,2550,home,FALSE,Seton Hall,86,Pirates,Seton Hall Pirates,Seton Hall
-400919692,2017-01-22,2,2599,away,FALSE,St. John's,73,Red Storm,St. John's Red Storm,St John's
-400918711,2017-01-22,2,2349,home,FALSE,UMass Lowell,86,River Hawks,UMass Lowell River Hawks,UMass Lowell
-400918711,2017-01-22,2,2378,away,FALSE,UMBC,102,Retrievers,UMBC Retrievers,UMBC
-400918671,2017-01-22,2,42,home,FALSE,Hartford,56,Hawks,Hartford Hawks,Hartford
-400918671,2017-01-22,2,160,away,FALSE,New Hampshire,81,Wildcats,New Hampshire Wildcats,New Hampshire
-400918541,2017-01-22,3,270,home,FALSE,Milwaukee,94,Panthers,Milwaukee Panthers,Milwaukee
-400918541,2017-01-22,3,2754,away,FALSE,Youngstown State,85,Penguins,Youngstown State Penguins,Youngstown St
-400918508,2017-01-22,2,94,home,FALSE,Northern Kentucky,101,Norse,Northern Kentucky Norse,N Kentucky
-400918508,2017-01-22,2,2174,away,FALSE,Detroit Mercy,87,Titans,Detroit Mercy Titans,Detroit Mercy
-400918387,2017-01-22,2,257,home,FALSE,Richmond,77,Spiders,Richmond Spiders,Richmond
-400918387,2017-01-22,2,2244,away,FALSE,George Mason,82,Patriots,George Mason Patriots,George Mason
-400915141,2017-01-22,2,194,home,FALSE,Ohio State,72,Buckeyes,Ohio State Buckeyes,Ohio State
-400915141,2017-01-22,2,77,away,FALSE,Northwestern,74,Wildcats,Northwestern Wildcats,Northwestern
-400919693,2017-01-22,2,2752,home,FALSE,Xavier,86,Musketeers,Xavier Musketeers,Xavier
-400919693,2017-01-22,2,46,away,FALSE,Georgetown,75,Hoyas,Georgetown Hoyas,Georgetown
-400918648,2017-01-22,2,2066,home,FALSE,Binghamton,71,Bearcats,Binghamton Bearcats,Binghamton
-400918648,2017-01-22,2,2619,away,FALSE,Stony Brook,67,Seawolves,Stony Brook Seawolves,Stony Brook
-400918618,2017-01-22,2,399,home,FALSE,UAlbany,81,Great Danes,UAlbany Great Danes,UAlbany
-400918618,2017-01-22,2,311,away,FALSE,Maine,63,Black Bears,Maine Black Bears,Maine
-400918584,2017-01-22,2,2750,home,FALSE,Wright State,88,Raiders,Wright State Raiders,Wright St
-400918584,2017-01-22,2,2473,away,FALSE,Oakland,67,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-400918404,2017-01-22,2,2670,home,FALSE,VCU,90,Rams,VCU Rams,VCU
-400918404,2017-01-22,2,2325,away,FALSE,La Salle,52,Explorers,La Salle Explorers,La Salle
-400918308,2017-01-22,2,2168,home,FALSE,Dayton,67,Flyers,Dayton Flyers,Dayton
-400918308,2017-01-22,2,139,away,FALSE,Saint Louis,46,Billikens,Saint Louis Billikens,Saint Louis
-400917598,2017-01-22,2,2405,home,FALSE,Monmouth,91,Hawks,Monmouth Hawks,Monmouth
-400917598,2017-01-22,2,2217,away,FALSE,Fairfield,49,Stags,Fairfield Stags,Fairfield
-400917597,2017-01-22,2,2363,home,FALSE,Manhattan,68,Jaspers,Manhattan Jaspers,Manhattan
-400917597,2017-01-22,2,2561,away,FALSE,Siena,81,Saints,Siena Saints,Siena
-400916940,2017-01-22,2,2193,home,FALSE,East Tennessee State,79,Buccaneers,East Tennessee State Buccaneers,ETSU
-400916940,2017-01-22,2,2747,away,FALSE,Wofford,72,Terriers,Wofford Terriers,Wofford
-400918557,2017-01-22,2,2674,home,FALSE,Valparaiso,96,Beacons,Valparaiso Beacons,Valparaiso
-400918557,2017-01-22,2,82,away,FALSE,UIC,65,Flames,UIC Flames,UIC
-400916595,2017-01-22,2,235,home,FALSE,Memphis,70,Tigers,Memphis Tigers,Memphis
-400916595,2017-01-22,2,2116,away,FALSE,UCF,65,Knights,UCF Knights,UCF
-400916596,2017-01-22,2,41,home,FALSE,UConn,72,Huskies,UConn Huskies,UConn
-400916596,2017-01-22,2,151,away,FALSE,East Carolina,65,Pirates,East Carolina Pirates,East Carolina
-400915395,2017-01-22,2,228,home,FALSE,Clemson,81,Tigers,Clemson Tigers,Clemson
-400915395,2017-01-22,2,259,away,FALSE,Virginia Tech,82,Hokies,Virginia Tech Hokies,Virginia Tech
-400915639,2017-01-22,2,30,home,FALSE,USC,82,Trojans,USC Trojans,USC
-400915639,2017-01-22,2,9,away,FALSE,Arizona State,79,Sun Devils,Arizona State Sun Devils,Arizona St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400919692,2017,regular-season,2017-01-22,2,2550,home,FALSE,Seton Hall,86,Pirates,Seton Hall Pirates,Seton Hall
+400919692,2017,regular-season,2017-01-22,2,2599,away,FALSE,St. John's,73,Red Storm,St. John's Red Storm,St John's
+400918711,2017,regular-season,2017-01-22,2,2349,home,FALSE,UMass Lowell,86,River Hawks,UMass Lowell River Hawks,UMass Lowell
+400918711,2017,regular-season,2017-01-22,2,2378,away,FALSE,UMBC,102,Retrievers,UMBC Retrievers,UMBC
+400918671,2017,regular-season,2017-01-22,2,42,home,FALSE,Hartford,56,Hawks,Hartford Hawks,Hartford
+400918671,2017,regular-season,2017-01-22,2,160,away,FALSE,New Hampshire,81,Wildcats,New Hampshire Wildcats,New Hampshire
+400918541,2017,regular-season,2017-01-22,3,270,home,FALSE,Milwaukee,94,Panthers,Milwaukee Panthers,Milwaukee
+400918541,2017,regular-season,2017-01-22,3,2754,away,FALSE,Youngstown State,85,Penguins,Youngstown State Penguins,Youngstown St
+400918508,2017,regular-season,2017-01-22,2,94,home,FALSE,Northern Kentucky,101,Norse,Northern Kentucky Norse,N Kentucky
+400918508,2017,regular-season,2017-01-22,2,2174,away,FALSE,Detroit Mercy,87,Titans,Detroit Mercy Titans,Detroit Mercy
+400918387,2017,regular-season,2017-01-22,2,257,home,FALSE,Richmond,77,Spiders,Richmond Spiders,Richmond
+400918387,2017,regular-season,2017-01-22,2,2244,away,FALSE,George Mason,82,Patriots,George Mason Patriots,George Mason
+400915141,2017,regular-season,2017-01-22,2,194,home,FALSE,Ohio State,72,Buckeyes,Ohio State Buckeyes,Ohio State
+400915141,2017,regular-season,2017-01-22,2,77,away,FALSE,Northwestern,74,Wildcats,Northwestern Wildcats,Northwestern
+400919693,2017,regular-season,2017-01-22,2,2752,home,FALSE,Xavier,86,Musketeers,Xavier Musketeers,Xavier
+400919693,2017,regular-season,2017-01-22,2,46,away,FALSE,Georgetown,75,Hoyas,Georgetown Hoyas,Georgetown
+400918648,2017,regular-season,2017-01-22,2,2066,home,FALSE,Binghamton,71,Bearcats,Binghamton Bearcats,Binghamton
+400918648,2017,regular-season,2017-01-22,2,2619,away,FALSE,Stony Brook,67,Seawolves,Stony Brook Seawolves,Stony Brook
+400918618,2017,regular-season,2017-01-22,2,399,home,FALSE,UAlbany,81,Great Danes,UAlbany Great Danes,UAlbany
+400918618,2017,regular-season,2017-01-22,2,311,away,FALSE,Maine,63,Black Bears,Maine Black Bears,Maine
+400918584,2017,regular-season,2017-01-22,2,2750,home,FALSE,Wright State,88,Raiders,Wright State Raiders,Wright St
+400918584,2017,regular-season,2017-01-22,2,2473,away,FALSE,Oakland,67,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+400918404,2017,regular-season,2017-01-22,2,2670,home,FALSE,VCU,90,Rams,VCU Rams,VCU
+400918404,2017,regular-season,2017-01-22,2,2325,away,FALSE,La Salle,52,Explorers,La Salle Explorers,La Salle
+400918308,2017,regular-season,2017-01-22,2,2168,home,FALSE,Dayton,67,Flyers,Dayton Flyers,Dayton
+400918308,2017,regular-season,2017-01-22,2,139,away,FALSE,Saint Louis,46,Billikens,Saint Louis Billikens,Saint Louis
+400917598,2017,regular-season,2017-01-22,2,2405,home,FALSE,Monmouth,91,Hawks,Monmouth Hawks,Monmouth
+400917598,2017,regular-season,2017-01-22,2,2217,away,FALSE,Fairfield,49,Stags,Fairfield Stags,Fairfield
+400917597,2017,regular-season,2017-01-22,2,2363,home,FALSE,Manhattan,68,Jaspers,Manhattan Jaspers,Manhattan
+400917597,2017,regular-season,2017-01-22,2,2561,away,FALSE,Siena,81,Saints,Siena Saints,Siena
+400916940,2017,regular-season,2017-01-22,2,2193,home,FALSE,East Tennessee State,79,Buccaneers,East Tennessee State Buccaneers,ETSU
+400916940,2017,regular-season,2017-01-22,2,2747,away,FALSE,Wofford,72,Terriers,Wofford Terriers,Wofford
+400918557,2017,regular-season,2017-01-22,2,2674,home,FALSE,Valparaiso,96,Beacons,Valparaiso Beacons,Valparaiso
+400918557,2017,regular-season,2017-01-22,2,82,away,FALSE,UIC,65,Flames,UIC Flames,UIC
+400916595,2017,regular-season,2017-01-22,2,235,home,FALSE,Memphis,70,Tigers,Memphis Tigers,Memphis
+400916595,2017,regular-season,2017-01-22,2,2116,away,FALSE,UCF,65,Knights,UCF Knights,UCF
+400916596,2017,regular-season,2017-01-22,2,41,home,FALSE,UConn,72,Huskies,UConn Huskies,UConn
+400916596,2017,regular-season,2017-01-22,2,151,away,FALSE,East Carolina,65,Pirates,East Carolina Pirates,East Carolina
+400915395,2017,regular-season,2017-01-22,2,228,home,FALSE,Clemson,81,Tigers,Clemson Tigers,Clemson
+400915395,2017,regular-season,2017-01-22,2,259,away,FALSE,Virginia Tech,82,Hokies,Virginia Tech Hokies,Virginia Tech
+400915639,2017,regular-season,2017-01-22,2,30,home,FALSE,USC,82,Trojans,USC Trojans,USC
+400915639,2017,regular-season,2017-01-22,2,9,away,FALSE,Arizona State,79,Sun Devils,Arizona State Sun Devils,Arizona St

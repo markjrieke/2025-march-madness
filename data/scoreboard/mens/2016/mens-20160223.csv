@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400831549,2016-02-23,2,239,home,FALSE,Baylor,60,Bears,Baylor Bears,Baylor
-400831549,2016-02-23,2,2305,away,FALSE,Kansas,66,Jayhawks,Kansas Jayhawks,Kansas
-400839331,2016-02-23,2,194,home,FALSE,Ohio State,62,Buckeyes,Ohio State Buckeyes,Ohio State
-400839331,2016-02-23,2,127,away,FALSE,Michigan State,81,Spartans,Michigan State Spartans,Michigan St
-400830468,2016-02-23,2,96,home,FALSE,Kentucky,78,Wildcats,Kentucky Wildcats,Kentucky
-400830468,2016-02-23,2,333,away,FALSE,Alabama,53,Crimson Tide,Alabama Crimson Tide,Alabama
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400831549,2016,regular-season,2016-02-23,2,239,home,FALSE,Baylor,60,Bears,Baylor Bears,Baylor
+400831549,2016,regular-season,2016-02-23,2,2305,away,FALSE,Kansas,66,Jayhawks,Kansas Jayhawks,Kansas
+400839331,2016,regular-season,2016-02-23,2,194,home,FALSE,Ohio State,62,Buckeyes,Ohio State Buckeyes,Ohio State
+400839331,2016,regular-season,2016-02-23,2,127,away,FALSE,Michigan State,81,Spartans,Michigan State Spartans,Michigan St
+400830468,2016,regular-season,2016-02-23,2,96,home,FALSE,Kentucky,78,Wildcats,Kentucky Wildcats,Kentucky
+400830468,2016,regular-season,2016-02-23,2,333,away,FALSE,Alabama,53,Crimson Tide,Alabama Crimson Tide,Alabama

@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330550194,2013-02-24,2,194,home,FALSE,Ohio State,68,Buckeyes,Ohio State Buckeyes,Ohio State
-330550194,2013-02-24,2,127,away,FALSE,Michigan State,60,Spartans,Michigan State Spartans,Michigan St
-330550150,2013-02-24,2,150,home,FALSE,Duke,89,Blue Devils,Duke Blue Devils,Duke
-330550150,2013-02-24,2,103,away,FALSE,Boston College,68,Eagles,Boston College Eagles,Boston College
-330550130,2013-02-24,2,130,home,FALSE,Michigan,71,Wolverines,Michigan Wolverines,Michigan
-330550130,2013-02-24,2,356,away,FALSE,Illinois,58,Fighting Illini,Illinois Fighting Illini,Illinois
-330552599,2013-02-24,2,2599,home,FALSE,St. John's,47,Red Storm,St. John's Red Storm,St John's
-330552599,2013-02-24,2,221,away,FALSE,Pittsburgh,63,Panthers,Pittsburgh Panthers,Pitt
-330550087,2013-02-24,2,87,home,FALSE,Notre Dame,62,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-330550087,2013-02-24,2,2132,away,FALSE,Cincinnati,41,Bearcats,Cincinnati Bearcats,Cincinnati
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330550194,2013,regular-season,2013-02-24,2,194,home,FALSE,Ohio State,68,Buckeyes,Ohio State Buckeyes,Ohio State
+330550194,2013,regular-season,2013-02-24,2,127,away,FALSE,Michigan State,60,Spartans,Michigan State Spartans,Michigan St
+330550150,2013,regular-season,2013-02-24,2,150,home,FALSE,Duke,89,Blue Devils,Duke Blue Devils,Duke
+330550150,2013,regular-season,2013-02-24,2,103,away,FALSE,Boston College,68,Eagles,Boston College Eagles,Boston College
+330550130,2013,regular-season,2013-02-24,2,130,home,FALSE,Michigan,71,Wolverines,Michigan Wolverines,Michigan
+330550130,2013,regular-season,2013-02-24,2,356,away,FALSE,Illinois,58,Fighting Illini,Illinois Fighting Illini,Illinois
+330552599,2013,regular-season,2013-02-24,2,2599,home,FALSE,St. John's,47,Red Storm,St. John's Red Storm,St John's
+330552599,2013,regular-season,2013-02-24,2,221,away,FALSE,Pittsburgh,63,Panthers,Pittsburgh Panthers,Pitt
+330550087,2013,regular-season,2013-02-24,2,87,home,FALSE,Notre Dame,62,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+330550087,2013,regular-season,2013-02-24,2,2132,away,FALSE,Cincinnati,41,Bearcats,Cincinnati Bearcats,Cincinnati

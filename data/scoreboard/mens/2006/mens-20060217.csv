@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260482670,2006-02-17,2,2670,home,FALSE,VCU,70,Rams,VCU Rams,VCU
-260482670,2006-02-17,2,399,away,FALSE,UAlbany,67,Great Danes,UAlbany Great Danes,UAlbany
-260482454,2006-02-17,3,2454,home,FALSE,North Florida,77,Ospreys,North Florida Ospreys,North Florida
-260482454,2006-02-17,3,56,away,FALSE,Stetson,81,Hatters,Stetson Hatters,Stetson
-260482352,2006-02-17,2,2352,home,FALSE,Loyola Maryland,77,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-260482352,2006-02-17,2,2272,away,FALSE,High Point,71,Panthers,High Point Panthers,High Point
-260480172,2006-02-17,4,172,home,FALSE,Cornell,68,Big Red,Cornell Big Red,Cornell
-260480172,2006-02-17,4,163,away,FALSE,Princeton,76,Tigers,Princeton Tigers,Princeton
-260480171,2006-02-17,2,171,home,FALSE,Columbia,59,Lions,Columbia Lions,Columbia
-260480171,2006-02-17,2,219,away,FALSE,Pennsylvania,57,Quakers,Pennsylvania Quakers,Penn
-260480159,2006-02-17,2,159,home,FALSE,Dartmouth,72,Big Green,Dartmouth Big Green,Dartmouth
-260480159,2006-02-17,2,43,away,FALSE,Yale,64,Bulldogs,Yale Bulldogs,Yale
-260480108,2006-02-17,2,108,home,FALSE,Harvard,66,Crimson,Harvard Crimson,Harvard
-260480108,2006-02-17,2,225,away,FALSE,Brown,79,Bears,Brown Bears,Brown
-260480294,2006-02-17,3,294,home,FALSE,Jacksonville,90,Dolphins,Jacksonville Dolphins,Jacksonville
-260480294,2006-02-17,3,2382,away,FALSE,Mercer,93,Bears,Mercer Bears,Mercer
-260482132,2006-02-17,2,2132,home,FALSE,Cincinnati,66,Bearcats,Cincinnati Bearcats,Cincinnati
-260482132,2006-02-17,2,2507,away,FALSE,Providence,64,Friars,Providence Friars,Providence
-260482440,2006-02-17,2,2440,home,FALSE,Nevada,88,Wolf Pack,Nevada Wolf Pack,Nevada
-260482440,2006-02-17,2,2006,away,FALSE,Akron,61,Zips,Akron Zips,Akron
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260482670,2006,regular-season,2006-02-17,2,2670,home,FALSE,VCU,70,Rams,VCU Rams,VCU
+260482670,2006,regular-season,2006-02-17,2,399,away,FALSE,UAlbany,67,Great Danes,UAlbany Great Danes,UAlbany
+260482454,2006,regular-season,2006-02-17,3,2454,home,FALSE,North Florida,77,Ospreys,North Florida Ospreys,North Florida
+260482454,2006,regular-season,2006-02-17,3,56,away,FALSE,Stetson,81,Hatters,Stetson Hatters,Stetson
+260482352,2006,regular-season,2006-02-17,2,2352,home,FALSE,Loyola Maryland,77,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+260482352,2006,regular-season,2006-02-17,2,2272,away,FALSE,High Point,71,Panthers,High Point Panthers,High Point
+260480172,2006,regular-season,2006-02-17,4,172,home,FALSE,Cornell,68,Big Red,Cornell Big Red,Cornell
+260480172,2006,regular-season,2006-02-17,4,163,away,FALSE,Princeton,76,Tigers,Princeton Tigers,Princeton
+260480171,2006,regular-season,2006-02-17,2,171,home,FALSE,Columbia,59,Lions,Columbia Lions,Columbia
+260480171,2006,regular-season,2006-02-17,2,219,away,FALSE,Pennsylvania,57,Quakers,Pennsylvania Quakers,Penn
+260480159,2006,regular-season,2006-02-17,2,159,home,FALSE,Dartmouth,72,Big Green,Dartmouth Big Green,Dartmouth
+260480159,2006,regular-season,2006-02-17,2,43,away,FALSE,Yale,64,Bulldogs,Yale Bulldogs,Yale
+260480108,2006,regular-season,2006-02-17,2,108,home,FALSE,Harvard,66,Crimson,Harvard Crimson,Harvard
+260480108,2006,regular-season,2006-02-17,2,225,away,FALSE,Brown,79,Bears,Brown Bears,Brown
+260480294,2006,regular-season,2006-02-17,3,294,home,FALSE,Jacksonville,90,Dolphins,Jacksonville Dolphins,Jacksonville
+260480294,2006,regular-season,2006-02-17,3,2382,away,FALSE,Mercer,93,Bears,Mercer Bears,Mercer
+260482132,2006,regular-season,2006-02-17,2,2132,home,FALSE,Cincinnati,66,Bearcats,Cincinnati Bearcats,Cincinnati
+260482132,2006,regular-season,2006-02-17,2,2507,away,FALSE,Providence,64,Friars,Providence Friars,Providence
+260482440,2006,regular-season,2006-02-17,2,2440,home,FALSE,Nevada,88,Wolf Pack,Nevada Wolf Pack,Nevada
+260482440,2006,regular-season,2006-02-17,2,2006,away,FALSE,Akron,61,Zips,Akron Zips,Akron

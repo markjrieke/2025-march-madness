@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401527963,2023-03-15,4,356,home,TRUE,Illinois,56,Fighting Illini,Illinois Fighting Illini,Illinois
-401527963,2023-03-15,4,344,away,TRUE,Mississippi State,70,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401527965,2023-03-15,4,2582,home,TRUE,Southern,47,Jaguars,Southern Jaguars,Southern
-401527965,2023-03-15,4,2529,away,TRUE,Sacred Heart,57,Pioneers,Sacred Heart Pioneers,Sacred Heart
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401527963,2023,post-season,2023-03-15,4,356,home,TRUE,Illinois,56,Fighting Illini,Illinois Fighting Illini,Illinois
+401527963,2023,post-season,2023-03-15,4,344,away,TRUE,Mississippi State,70,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401527965,2023,post-season,2023-03-15,4,2582,home,TRUE,Southern,47,Jaguars,Southern Jaguars,Southern
+401527965,2023,post-season,2023-03-15,4,2529,away,TRUE,Sacred Heart,57,Pioneers,Sacred Heart Pioneers,Sacred Heart

@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323360084,2012-12-01,2,84,home,FALSE,Indiana,87,Hoosiers,Indiana Hoosiers,Indiana
-323360084,2012-12-01,2,2154,away,FALSE,Coppin State,51,Eagles,Coppin State Eagles,Coppin St
-323360150,2012-12-01,2,150,home,FALSE,Duke,88,Blue Devils,Duke Blue Devils,Duke
-323360150,2012-12-01,2,48,away,FALSE,Delaware,50,Blue Hens,Delaware Blue Hens,Delaware
-323360071,2012-12-01,2,71,home,FALSE,Bradley,66,Braves,Bradley Braves,Bradley
-323360071,2012-12-01,2,130,away,FALSE,Michigan,74,Wolverines,Michigan Wolverines,Michigan
-323360194,2012-12-01,2,194,home,FALSE,Ohio State,70,Buckeyes,Ohio State Buckeyes,Ohio State
-323360194,2012-12-01,2,94,away,FALSE,Northern Kentucky,43,Norse,Northern Kentucky Norse,N Kentucky
-323360097,2012-12-01,2,97,home,FALSE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
-323360097,2012-12-01,2,2287,away,FALSE,Illinois State,66,Redbirds,Illinois State Redbirds,Illinois St
-323360096,2012-12-01,2,96,home,FALSE,Kentucky,55,Wildcats,Kentucky Wildcats,Kentucky
-323360096,2012-12-01,2,239,away,FALSE,Baylor,64,Bears,Baylor Bears,Baylor
-323362641,2012-12-01,2,2641,home,FALSE,Texas Tech,57,Red Raiders,Texas Tech Red Raiders,Texas Tech
-323362641,2012-12-01,2,12,away,FALSE,Arizona,85,Wildcats,Arizona Wildcats,Arizona
-323360156,2012-12-01,2,156,home,FALSE,Creighton,80,Bluejays,Creighton Bluejays,Creighton
-323360156,2012-12-01,2,2603,away,FALSE,Saint Joseph's,51,Hawks,Saint Joseph's Hawks,Saint Joseph's
-323362250,2012-12-01,2,2250,home,FALSE,Gonzaga,85,Bulldogs,Gonzaga Bulldogs,Gonzaga
-323362250,2012-12-01,2,279,away,FALSE,Pacific,67,Tigers,Pacific Tigers,Pacific
-323360127,2012-12-01,2,127,home,FALSE,Michigan State,84,Spartans,Michigan State Spartans,Michigan St
-323360127,2012-12-01,2,2447,away,FALSE,Nicholls,39,Colonels,Nicholls Colonels,Nicholls
-323360153,2012-12-01,2,153,home,FALSE,North Carolina,102,Tar Heels,North Carolina Tar Heels,North Carolina
-323360153,2012-12-01,2,5,away,FALSE,UAB,84,Blazers,UAB Blazers,UAB
-323360259,2012-12-01,2,259,home,FALSE,Virginia Tech,81,Hokies,Virginia Tech Hokies,Virginia Tech
-323360259,2012-12-01,2,197,away,FALSE,Oklahoma State,71,Cowboys,Oklahoma State Cowboys,Oklahoma St
-323360142,2012-12-01,2,142,home,FALSE,Missouri,72,Tigers,Missouri Tigers,Missouri
-323360142,2012-12-01,2,2026,away,FALSE,App State,56,Mountaineers,App State Mountaineers,App State
-323362751,2012-12-01,2,2751,home,FALSE,Wyoming,76,Cowboys,Wyoming Cowboys,Wyoming
-323362751,2012-12-01,2,38,away,FALSE,Colorado,69,Buffaloes,Colorado Buffaloes,Colorado
-323360135,2012-12-01,2,135,home,FALSE,Minnesota,87,Golden Gophers,Minnesota Golden Gophers,Minnesota
-323360135,2012-12-01,2,2454,away,FALSE,North Florida,59,Ospreys,North Florida Ospreys,North Florida
-323362439,2012-12-01,2,2439,home,FALSE,UNLV,77,Rebels,UNLV Rebels,UNLV
-323362439,2012-12-01,2,62,away,FALSE,Hawai'i,63,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323360084,2013,regular-season,2012-12-01,2,84,home,FALSE,Indiana,87,Hoosiers,Indiana Hoosiers,Indiana
+323360084,2013,regular-season,2012-12-01,2,2154,away,FALSE,Coppin State,51,Eagles,Coppin State Eagles,Coppin St
+323360150,2013,regular-season,2012-12-01,2,150,home,FALSE,Duke,88,Blue Devils,Duke Blue Devils,Duke
+323360150,2013,regular-season,2012-12-01,2,48,away,FALSE,Delaware,50,Blue Hens,Delaware Blue Hens,Delaware
+323360071,2013,regular-season,2012-12-01,2,71,home,FALSE,Bradley,66,Braves,Bradley Braves,Bradley
+323360071,2013,regular-season,2012-12-01,2,130,away,FALSE,Michigan,74,Wolverines,Michigan Wolverines,Michigan
+323360194,2013,regular-season,2012-12-01,2,194,home,FALSE,Ohio State,70,Buckeyes,Ohio State Buckeyes,Ohio State
+323360194,2013,regular-season,2012-12-01,2,94,away,FALSE,Northern Kentucky,43,Norse,Northern Kentucky Norse,N Kentucky
+323360097,2013,regular-season,2012-12-01,2,97,home,FALSE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
+323360097,2013,regular-season,2012-12-01,2,2287,away,FALSE,Illinois State,66,Redbirds,Illinois State Redbirds,Illinois St
+323360096,2013,regular-season,2012-12-01,2,96,home,FALSE,Kentucky,55,Wildcats,Kentucky Wildcats,Kentucky
+323360096,2013,regular-season,2012-12-01,2,239,away,FALSE,Baylor,64,Bears,Baylor Bears,Baylor
+323362641,2013,regular-season,2012-12-01,2,2641,home,FALSE,Texas Tech,57,Red Raiders,Texas Tech Red Raiders,Texas Tech
+323362641,2013,regular-season,2012-12-01,2,12,away,FALSE,Arizona,85,Wildcats,Arizona Wildcats,Arizona
+323360156,2013,regular-season,2012-12-01,2,156,home,FALSE,Creighton,80,Bluejays,Creighton Bluejays,Creighton
+323360156,2013,regular-season,2012-12-01,2,2603,away,FALSE,Saint Joseph's,51,Hawks,Saint Joseph's Hawks,Saint Joseph's
+323362250,2013,regular-season,2012-12-01,2,2250,home,FALSE,Gonzaga,85,Bulldogs,Gonzaga Bulldogs,Gonzaga
+323362250,2013,regular-season,2012-12-01,2,279,away,FALSE,Pacific,67,Tigers,Pacific Tigers,Pacific
+323360127,2013,regular-season,2012-12-01,2,127,home,FALSE,Michigan State,84,Spartans,Michigan State Spartans,Michigan St
+323360127,2013,regular-season,2012-12-01,2,2447,away,FALSE,Nicholls,39,Colonels,Nicholls Colonels,Nicholls
+323360153,2013,regular-season,2012-12-01,2,153,home,FALSE,North Carolina,102,Tar Heels,North Carolina Tar Heels,North Carolina
+323360153,2013,regular-season,2012-12-01,2,5,away,FALSE,UAB,84,Blazers,UAB Blazers,UAB
+323360259,2013,regular-season,2012-12-01,2,259,home,FALSE,Virginia Tech,81,Hokies,Virginia Tech Hokies,Virginia Tech
+323360259,2013,regular-season,2012-12-01,2,197,away,FALSE,Oklahoma State,71,Cowboys,Oklahoma State Cowboys,Oklahoma St
+323360142,2013,regular-season,2012-12-01,2,142,home,FALSE,Missouri,72,Tigers,Missouri Tigers,Missouri
+323360142,2013,regular-season,2012-12-01,2,2026,away,FALSE,App State,56,Mountaineers,App State Mountaineers,App State
+323362751,2013,regular-season,2012-12-01,2,2751,home,FALSE,Wyoming,76,Cowboys,Wyoming Cowboys,Wyoming
+323362751,2013,regular-season,2012-12-01,2,38,away,FALSE,Colorado,69,Buffaloes,Colorado Buffaloes,Colorado
+323360135,2013,regular-season,2012-12-01,2,135,home,FALSE,Minnesota,87,Golden Gophers,Minnesota Golden Gophers,Minnesota
+323360135,2013,regular-season,2012-12-01,2,2454,away,FALSE,North Florida,59,Ospreys,North Florida Ospreys,North Florida
+323362439,2013,regular-season,2012-12-01,2,2439,home,FALSE,UNLV,77,Rebels,UNLV Rebels,UNLV
+323362439,2013,regular-season,2012-12-01,2,62,away,FALSE,Hawai'i,63,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i

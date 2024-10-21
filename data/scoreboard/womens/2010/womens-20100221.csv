@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300520194,2010-02-21,3,194,home,FALSE,Ohio State,68,Buckeyes,Ohio State Buckeyes,Ohio State
-300520194,2010-02-21,3,127,away,FALSE,Michigan State,71,Spartans,Michigan State Spartans,Michigan St
-300520150,2010-02-21,2,150,home,FALSE,Duke,71,Blue Devils,Duke Blue Devils,Duke
-300520150,2010-02-21,2,120,away,FALSE,Maryland,59,Terrapins,Maryland Terrapins,Maryland
-300522306,2010-02-21,2,2306,home,FALSE,Kansas State,58,Wildcats,Kansas State Wildcats,Kansas St
-300522306,2010-02-21,2,201,away,FALSE,Oklahoma,64,Sooners,Oklahoma Sooners,Oklahoma
-300520096,2010-02-21,2,96,home,FALSE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
-300520096,2010-02-21,2,2579,away,FALSE,South Carolina,50,Gamecocks,South Carolina Gamecocks,South Carolina
-300522390,2010-02-21,2,2390,home,FALSE,Miami,73,Hurricanes,Miami Hurricanes,Miami
-300522390,2010-02-21,2,59,away,FALSE,Georgia Tech,77,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-300520057,2010-02-21,2,57,home,FALSE,Florida,64,Gators,Florida Gators,Florida
-300520057,2010-02-21,2,61,away,FALSE,Georgia,57,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-300520145,2010-02-21,2,145,home,FALSE,Ole Miss,59,Rebels,Ole Miss Rebels,Ole Miss
-300520145,2010-02-21,2,238,away,FALSE,Vanderbilt,68,Commodores,Vanderbilt Commodores,Vanderbilt
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300520194,2010,regular-season,2010-02-21,3,194,home,FALSE,Ohio State,68,Buckeyes,Ohio State Buckeyes,Ohio State
+300520194,2010,regular-season,2010-02-21,3,127,away,FALSE,Michigan State,71,Spartans,Michigan State Spartans,Michigan St
+300520150,2010,regular-season,2010-02-21,2,150,home,FALSE,Duke,71,Blue Devils,Duke Blue Devils,Duke
+300520150,2010,regular-season,2010-02-21,2,120,away,FALSE,Maryland,59,Terrapins,Maryland Terrapins,Maryland
+300522306,2010,regular-season,2010-02-21,2,2306,home,FALSE,Kansas State,58,Wildcats,Kansas State Wildcats,Kansas St
+300522306,2010,regular-season,2010-02-21,2,201,away,FALSE,Oklahoma,64,Sooners,Oklahoma Sooners,Oklahoma
+300520096,2010,regular-season,2010-02-21,2,96,home,FALSE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
+300520096,2010,regular-season,2010-02-21,2,2579,away,FALSE,South Carolina,50,Gamecocks,South Carolina Gamecocks,South Carolina
+300522390,2010,regular-season,2010-02-21,2,2390,home,FALSE,Miami,73,Hurricanes,Miami Hurricanes,Miami
+300522390,2010,regular-season,2010-02-21,2,59,away,FALSE,Georgia Tech,77,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+300520057,2010,regular-season,2010-02-21,2,57,home,FALSE,Florida,64,Gators,Florida Gators,Florida
+300520057,2010,regular-season,2010-02-21,2,61,away,FALSE,Georgia,57,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+300520145,2010,regular-season,2010-02-21,2,145,home,FALSE,Ole Miss,59,Rebels,Ole Miss Rebels,Ole Miss
+300520145,2010,regular-season,2010-02-21,2,238,away,FALSE,Vanderbilt,68,Commodores,Vanderbilt Commodores,Vanderbilt

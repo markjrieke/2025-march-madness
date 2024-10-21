@@ -1,37 +1,37 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401175236,2020-01-04,2,2250,home,FALSE,Gonzaga,75,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401175236,2020-01-04,2,2492,away,FALSE,Pepperdine,70,Waves,Pepperdine Waves,Pepperdine
-401168355,2020-01-04,2,2390,home,FALSE,Miami,62,Hurricanes,Miami Hurricanes,Miami
-401168355,2020-01-04,2,150,away,FALSE,Duke,95,Blue Devils,Duke Blue Devils,Duke
-401169679,2020-01-04,2,2305,home,FALSE,Kansas,60,Jayhawks,Kansas Jayhawks,Kansas
-401169679,2020-01-04,2,277,away,FALSE,West Virginia,53,Mountaineers,West Virginia Mountaineers,West Virginia
-401170650,2020-01-04,2,254,home,FALSE,Utah,64,Utes,Utah Utes,Utah
-401170650,2020-01-04,2,2483,away,FALSE,Oregon,69,Ducks,Oregon Ducks,Oregon
-401169681,2020-01-04,2,239,home,FALSE,Baylor,59,Bears,Baylor Bears,Baylor
-401169681,2020-01-04,2,251,away,FALSE,Texas,44,Longhorns,Texas Longhorns,Texas
-401168506,2020-01-04,2,97,home,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
-401168506,2020-01-04,2,52,away,FALSE,Florida State,78,Seminoles,Florida State Seminoles,Florida St
-401166273,2020-01-04,2,344,home,FALSE,Mississippi State,68,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401166273,2020-01-04,2,2,away,FALSE,Auburn,80,Tigers,Auburn Tigers,Auburn
-401169468,2020-01-04,2,235,home,FALSE,Memphis,62,Tigers,Memphis Tigers,Memphis
-401169468,2020-01-04,2,61,away,FALSE,Georgia,65,Bulldogs,Georgia Bulldogs,Georgia
-401168413,2020-01-04,2,269,home,FALSE,Marquette,71,Golden Eagles,Marquette Golden Eagles,Marquette
-401168413,2020-01-04,2,222,away,FALSE,Villanova,60,Wildcats,Villanova Wildcats,Villanova
-401168298,2020-01-04,2,2086,home,FALSE,Butler,71,Bulldogs,Butler Bulldogs,Butler
-401168298,2020-01-04,2,156,away,FALSE,Creighton,57,Bluejays,Creighton Bluejays,Creighton
-401173725,2020-01-04,2,328,home,FALSE,Utah State,68,Aggies,Utah State Aggies,Utah State
-401173725,2020-01-04,2,21,away,FALSE,San Diego State,77,Aztecs,San Diego State Aztecs,San Diego St
-401166149,2020-01-04,2,120,home,FALSE,Maryland,75,Terrapins,Maryland Terrapins,Maryland
-401166149,2020-01-04,2,84,away,FALSE,Indiana,59,Hoosiers,Indiana Hoosiers,Indiana
-401166272,2020-01-04,2,96,home,FALSE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
-401166272,2020-01-04,2,142,away,FALSE,Missouri,59,Tigers,Missouri Tigers,Missouri
-401168473,2020-01-04,2,258,home,FALSE,Virginia,65,Cavaliers,Virginia Cavaliers,Virginia
-401168473,2020-01-04,2,259,away,FALSE,Virginia Tech,39,Hokies,Virginia Tech Hokies,Virginia Tech
-401166150,2020-01-04,2,213,home,TRUE,Penn State,89,Nittany Lions,Penn State Nittany Lions,Penn State
-401166150,2020-01-04,2,2294,away,TRUE,Iowa,86,Hawkeyes,Iowa Hawkeyes,Iowa
-401169678,2020-01-04,2,2641,home,FALSE,Texas Tech,85,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401169678,2020-01-04,2,197,away,FALSE,Oklahoma State,50,Cowboys,Oklahoma State Cowboys,Oklahoma St
-401169469,2020-01-04,2,2724,home,FALSE,Wichita State,74,Shockers,Wichita State Shockers,Wichita St
-401169469,2020-01-04,2,145,away,FALSE,Ole Miss,54,Rebels,Ole Miss Rebels,Ole Miss
-401170649,2020-01-04,2,12,home,FALSE,Arizona,75,Wildcats,Arizona Wildcats,Arizona
-401170649,2020-01-04,2,9,away,FALSE,Arizona State,47,Sun Devils,Arizona State Sun Devils,Arizona St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401175236,2020,regular-season,2020-01-04,2,2250,home,FALSE,Gonzaga,75,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401175236,2020,regular-season,2020-01-04,2,2492,away,FALSE,Pepperdine,70,Waves,Pepperdine Waves,Pepperdine
+401168355,2020,regular-season,2020-01-04,2,2390,home,FALSE,Miami,62,Hurricanes,Miami Hurricanes,Miami
+401168355,2020,regular-season,2020-01-04,2,150,away,FALSE,Duke,95,Blue Devils,Duke Blue Devils,Duke
+401169679,2020,regular-season,2020-01-04,2,2305,home,FALSE,Kansas,60,Jayhawks,Kansas Jayhawks,Kansas
+401169679,2020,regular-season,2020-01-04,2,277,away,FALSE,West Virginia,53,Mountaineers,West Virginia Mountaineers,West Virginia
+401170650,2020,regular-season,2020-01-04,2,254,home,FALSE,Utah,64,Utes,Utah Utes,Utah
+401170650,2020,regular-season,2020-01-04,2,2483,away,FALSE,Oregon,69,Ducks,Oregon Ducks,Oregon
+401169681,2020,regular-season,2020-01-04,2,239,home,FALSE,Baylor,59,Bears,Baylor Bears,Baylor
+401169681,2020,regular-season,2020-01-04,2,251,away,FALSE,Texas,44,Longhorns,Texas Longhorns,Texas
+401168506,2020,regular-season,2020-01-04,2,97,home,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
+401168506,2020,regular-season,2020-01-04,2,52,away,FALSE,Florida State,78,Seminoles,Florida State Seminoles,Florida St
+401166273,2020,regular-season,2020-01-04,2,344,home,FALSE,Mississippi State,68,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401166273,2020,regular-season,2020-01-04,2,2,away,FALSE,Auburn,80,Tigers,Auburn Tigers,Auburn
+401169468,2020,regular-season,2020-01-04,2,235,home,FALSE,Memphis,62,Tigers,Memphis Tigers,Memphis
+401169468,2020,regular-season,2020-01-04,2,61,away,FALSE,Georgia,65,Bulldogs,Georgia Bulldogs,Georgia
+401168413,2020,regular-season,2020-01-04,2,269,home,FALSE,Marquette,71,Golden Eagles,Marquette Golden Eagles,Marquette
+401168413,2020,regular-season,2020-01-04,2,222,away,FALSE,Villanova,60,Wildcats,Villanova Wildcats,Villanova
+401168298,2020,regular-season,2020-01-04,2,2086,home,FALSE,Butler,71,Bulldogs,Butler Bulldogs,Butler
+401168298,2020,regular-season,2020-01-04,2,156,away,FALSE,Creighton,57,Bluejays,Creighton Bluejays,Creighton
+401173725,2020,regular-season,2020-01-04,2,328,home,FALSE,Utah State,68,Aggies,Utah State Aggies,Utah State
+401173725,2020,regular-season,2020-01-04,2,21,away,FALSE,San Diego State,77,Aztecs,San Diego State Aztecs,San Diego St
+401166149,2020,regular-season,2020-01-04,2,120,home,FALSE,Maryland,75,Terrapins,Maryland Terrapins,Maryland
+401166149,2020,regular-season,2020-01-04,2,84,away,FALSE,Indiana,59,Hoosiers,Indiana Hoosiers,Indiana
+401166272,2020,regular-season,2020-01-04,2,96,home,FALSE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
+401166272,2020,regular-season,2020-01-04,2,142,away,FALSE,Missouri,59,Tigers,Missouri Tigers,Missouri
+401168473,2020,regular-season,2020-01-04,2,258,home,FALSE,Virginia,65,Cavaliers,Virginia Cavaliers,Virginia
+401168473,2020,regular-season,2020-01-04,2,259,away,FALSE,Virginia Tech,39,Hokies,Virginia Tech Hokies,Virginia Tech
+401166150,2020,regular-season,2020-01-04,2,213,home,TRUE,Penn State,89,Nittany Lions,Penn State Nittany Lions,Penn State
+401166150,2020,regular-season,2020-01-04,2,2294,away,TRUE,Iowa,86,Hawkeyes,Iowa Hawkeyes,Iowa
+401169678,2020,regular-season,2020-01-04,2,2641,home,FALSE,Texas Tech,85,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401169678,2020,regular-season,2020-01-04,2,197,away,FALSE,Oklahoma State,50,Cowboys,Oklahoma State Cowboys,Oklahoma St
+401169469,2020,regular-season,2020-01-04,2,2724,home,FALSE,Wichita State,74,Shockers,Wichita State Shockers,Wichita St
+401169469,2020,regular-season,2020-01-04,2,145,away,FALSE,Ole Miss,54,Rebels,Ole Miss Rebels,Ole Miss
+401170649,2020,regular-season,2020-01-04,2,12,home,FALSE,Arizona,75,Wildcats,Arizona Wildcats,Arizona
+401170649,2020,regular-season,2020-01-04,2,9,away,FALSE,Arizona State,47,Sun Devils,Arizona State Sun Devils,Arizona St

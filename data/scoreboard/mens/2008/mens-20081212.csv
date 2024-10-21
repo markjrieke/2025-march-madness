@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-283472617,2008-12-12,5,2449,home,TRUE,North Dakota State,111,Bison,North Dakota State Bison,N Dakota St
-283472617,2008-12-12,5,2617,away,TRUE,Stephen F. Austin,112,Lumberjacks,Stephen F. Austin Lumberjacks,SF Austin
-283472116,2008-12-12,2,2116,home,FALSE,UCF,110,Knights,UCF Knights,UCF
-283472116,2008-12-12,2,53,away,FALSE,Florida Tech,68,Panthers,Florida Tech Panthers,Fla Tech
-283472390,2008-12-12,2,2390,home,FALSE,Miami,76,Hurricanes,Miami Hurricanes,Miami
-283472390,2008-12-12,2,2229,away,FALSE,Florida International,50,Panthers,Florida International Panthers,FIU
-283472031,2008-12-12,2,2031,home,FALSE,Little Rock,55,Trojans,Little Rock Trojans,Little Rock
-283472031,2008-12-12,2,2750,away,FALSE,Wright State,62,Raiders,Wright State Raiders,Wright St
-283470120,2008-12-12,2,120,home,FALSE,Maryland,86,Terrapins,Maryland Terrapins,Maryland
-283470120,2008-12-12,2,2169,away,FALSE,Delaware State,58,Hornets,Delaware State Hornets,Delaware St
-283472724,2008-12-12,2,2724,home,FALSE,Wichita State,76,Shockers,Wichita State Shockers,Wichita St
-283472724,2008-12-12,2,2241,away,FALSE,Gardner-Webb,64,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-283472294,2008-12-12,2,2294,home,FALSE,Iowa,73,Hawkeyes,Iowa Hawkeyes,Iowa
-283472294,2008-12-12,2,66,away,FALSE,Iowa State,57,Cyclones,Iowa State Cyclones,Iowa State
-283472181,2008-12-12,2,2181,home,FALSE,Drake,84,Bulldogs,Drake Bulldogs,Drake
-283472181,2008-12-12,2,290,away,FALSE,Georgia Southern,73,Eagles,Georgia Southern Eagles,GA Southern
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283472617,2009,regular-season,2008-12-12,5,2449,home,TRUE,North Dakota State,111,Bison,North Dakota State Bison,N Dakota St
+283472617,2009,regular-season,2008-12-12,5,2617,away,TRUE,Stephen F. Austin,112,Lumberjacks,Stephen F. Austin Lumberjacks,SF Austin
+283472116,2009,regular-season,2008-12-12,2,2116,home,FALSE,UCF,110,Knights,UCF Knights,UCF
+283472116,2009,regular-season,2008-12-12,2,53,away,FALSE,Florida Tech,68,Panthers,Florida Tech Panthers,Fla Tech
+283472390,2009,regular-season,2008-12-12,2,2390,home,FALSE,Miami,76,Hurricanes,Miami Hurricanes,Miami
+283472390,2009,regular-season,2008-12-12,2,2229,away,FALSE,Florida International,50,Panthers,Florida International Panthers,FIU
+283472031,2009,regular-season,2008-12-12,2,2031,home,FALSE,Little Rock,55,Trojans,Little Rock Trojans,Little Rock
+283472031,2009,regular-season,2008-12-12,2,2750,away,FALSE,Wright State,62,Raiders,Wright State Raiders,Wright St
+283470120,2009,regular-season,2008-12-12,2,120,home,FALSE,Maryland,86,Terrapins,Maryland Terrapins,Maryland
+283470120,2009,regular-season,2008-12-12,2,2169,away,FALSE,Delaware State,58,Hornets,Delaware State Hornets,Delaware St
+283472724,2009,regular-season,2008-12-12,2,2724,home,FALSE,Wichita State,76,Shockers,Wichita State Shockers,Wichita St
+283472724,2009,regular-season,2008-12-12,2,2241,away,FALSE,Gardner-Webb,64,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+283472294,2009,regular-season,2008-12-12,2,2294,home,FALSE,Iowa,73,Hawkeyes,Iowa Hawkeyes,Iowa
+283472294,2009,regular-season,2008-12-12,2,66,away,FALSE,Iowa State,57,Cyclones,Iowa State Cyclones,Iowa State
+283472181,2009,regular-season,2008-12-12,2,2181,home,FALSE,Drake,84,Bulldogs,Drake Bulldogs,Drake
+283472181,2009,regular-season,2008-12-12,2,290,away,FALSE,Georgia Southern,73,Eagles,Georgia Southern Eagles,GA Southern

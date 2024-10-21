@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220480130,2002-02-17,2,130,home,FALSE,Michigan,73,Wolverines,Michigan Wolverines,Michigan
-220480130,2002-02-17,2,2509,away,FALSE,Purdue,84,Boilermakers,Purdue Boilermakers,Purdue
-220480099,2002-02-17,2,99,home,FALSE,LSU,72,Tigers,LSU Tigers,LSU
-220480099,2002-02-17,2,2579,away,FALSE,South Carolina,62,Gamecocks,South Carolina Gamecocks,South Carolina
-220480197,2002-02-17,2,197,home,FALSE,Oklahoma State,64,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-220480197,2002-02-17,2,66,away,FALSE,Iowa State,63,Cyclones,Iowa State Cyclones,Iowa State
-220482305,2002-02-17,2,2305,home,FALSE,Kansas,40,Jayhawks,Kansas Jayhawks,Kansas
-220482305,2002-02-17,2,2306,away,FALSE,Kansas State,65,Wildcats,Kansas State Wildcats,Kansas St
-220480061,2002-02-17,2,61,home,FALSE,Georgia,73,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-220480061,2002-02-17,2,57,away,FALSE,Florida,62,Gators,Florida Gators,Florida
-220480084,2002-02-17,2,84,home,FALSE,Indiana,73,Hoosiers,Indiana Hoosiers,Indiana
-220480084,2002-02-17,2,135,away,FALSE,Minnesota,63,Golden Gophers,Minnesota Golden Gophers,Minnesota
-220482641,2002-02-17,2,2641,home,FALSE,Texas Tech,78,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-220482641,2002-02-17,2,275,away,FALSE,Wisconsin,62,Badgers,Wisconsin Badgers,Wisconsin
-220480295,2002-02-17,2,295,home,FALSE,Old Dominion,67,Monarchs,Old Dominion Monarchs,Old Dominion
-220480295,2002-02-17,2,256,away,FALSE,James Madison,43,Dukes,James Madison Dukes,James Madison
-220480059,2002-02-17,2,59,home,FALSE,Georgia Tech,62,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-220480059,2002-02-17,2,153,away,FALSE,North Carolina,71,Tar Heels,North Carolina Tar Heels,North Carolina
-220480259,2002-02-17,2,259,home,FALSE,Virginia Tech,74,Hokies,Virginia Tech Hokies,Virginia Tech
-220480259,2002-02-17,2,2550,away,FALSE,Seton Hall,52,Pirates,Seton Hall Pirates,Seton Hall
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220480130,2002,regular-season,2002-02-17,2,130,home,FALSE,Michigan,73,Wolverines,Michigan Wolverines,Michigan
+220480130,2002,regular-season,2002-02-17,2,2509,away,FALSE,Purdue,84,Boilermakers,Purdue Boilermakers,Purdue
+220480099,2002,regular-season,2002-02-17,2,99,home,FALSE,LSU,72,Tigers,LSU Tigers,LSU
+220480099,2002,regular-season,2002-02-17,2,2579,away,FALSE,South Carolina,62,Gamecocks,South Carolina Gamecocks,South Carolina
+220480197,2002,regular-season,2002-02-17,2,197,home,FALSE,Oklahoma State,64,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+220480197,2002,regular-season,2002-02-17,2,66,away,FALSE,Iowa State,63,Cyclones,Iowa State Cyclones,Iowa State
+220482305,2002,regular-season,2002-02-17,2,2305,home,FALSE,Kansas,40,Jayhawks,Kansas Jayhawks,Kansas
+220482305,2002,regular-season,2002-02-17,2,2306,away,FALSE,Kansas State,65,Wildcats,Kansas State Wildcats,Kansas St
+220480061,2002,regular-season,2002-02-17,2,61,home,FALSE,Georgia,73,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+220480061,2002,regular-season,2002-02-17,2,57,away,FALSE,Florida,62,Gators,Florida Gators,Florida
+220480084,2002,regular-season,2002-02-17,2,84,home,FALSE,Indiana,73,Hoosiers,Indiana Hoosiers,Indiana
+220480084,2002,regular-season,2002-02-17,2,135,away,FALSE,Minnesota,63,Golden Gophers,Minnesota Golden Gophers,Minnesota
+220482641,2002,regular-season,2002-02-17,2,2641,home,FALSE,Texas Tech,78,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+220482641,2002,regular-season,2002-02-17,2,275,away,FALSE,Wisconsin,62,Badgers,Wisconsin Badgers,Wisconsin
+220480295,2002,regular-season,2002-02-17,2,295,home,FALSE,Old Dominion,67,Monarchs,Old Dominion Monarchs,Old Dominion
+220480295,2002,regular-season,2002-02-17,2,256,away,FALSE,James Madison,43,Dukes,James Madison Dukes,James Madison
+220480059,2002,regular-season,2002-02-17,2,59,home,FALSE,Georgia Tech,62,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+220480059,2002,regular-season,2002-02-17,2,153,away,FALSE,North Carolina,71,Tar Heels,North Carolina Tar Heels,North Carolina
+220480259,2002,regular-season,2002-02-17,2,259,home,FALSE,Virginia Tech,74,Hokies,Virginia Tech Hokies,Virginia Tech
+220480259,2002,regular-season,2002-02-17,2,2550,away,FALSE,Seton Hall,52,Pirates,Seton Hall Pirates,Seton Hall

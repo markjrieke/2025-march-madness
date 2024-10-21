@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401092585,2019-02-16,4,239,home,FALSE,Baylor,87,Bears,Baylor Bears,Baylor
-401092585,2019-02-16,4,201,away,FALSE,Oklahoma,53,Sooners,Oklahoma Sooners,Oklahoma
-401094048,2019-02-16,4,2250,home,FALSE,Gonzaga,64,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401094048,2019-02-16,4,252,away,FALSE,BYU,66,Cougars,BYU Cougars,BYU
-401092813,2019-02-16,4,66,home,FALSE,Iowa State,89,Cyclones,Iowa State Cyclones,Iowa State
-401092813,2019-02-16,4,197,away,FALSE,Oklahoma State,67,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-401095678,2019-02-16,4,2710,home,FALSE,Western Illinois,61,Leathernecks,Western Illinois Leathernecks,W Illinois
-401095678,2019-02-16,4,233,away,FALSE,South Dakota,83,Coyotes,South Dakota Coyotes,South Dakota
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401092585,2019,regular-season,2019-02-16,4,239,home,FALSE,Baylor,87,Bears,Baylor Bears,Baylor
+401092585,2019,regular-season,2019-02-16,4,201,away,FALSE,Oklahoma,53,Sooners,Oklahoma Sooners,Oklahoma
+401094048,2019,regular-season,2019-02-16,4,2250,home,FALSE,Gonzaga,64,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401094048,2019,regular-season,2019-02-16,4,252,away,FALSE,BYU,66,Cougars,BYU Cougars,BYU
+401092813,2019,regular-season,2019-02-16,4,66,home,FALSE,Iowa State,89,Cyclones,Iowa State Cyclones,Iowa State
+401092813,2019,regular-season,2019-02-16,4,197,away,FALSE,Oklahoma State,67,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+401095678,2019,regular-season,2019-02-16,4,2710,home,FALSE,Western Illinois,61,Leathernecks,Western Illinois Leathernecks,W Illinois
+401095678,2019,regular-season,2019-02-16,4,233,away,FALSE,South Dakota,83,Coyotes,South Dakota Coyotes,South Dakota

@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240072305,2004-01-07,2,2305,home,FALSE,Kansas,54,Jayhawks,Kansas Jayhawks,Kansas
-240072305,2004-01-07,2,251,away,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
-240070277,2004-01-07,2,277,home,FALSE,West Virginia,57,Mountaineers,West Virginia Mountaineers,West Virginia
-240070277,2004-01-07,2,41,away,FALSE,UConn,82,Huskies,UConn Huskies,UConn
-240072306,2004-01-07,2,2306,home,FALSE,Kansas State,95,Wildcats,Kansas State Wildcats,Kansas St
-240072306,2004-01-07,2,142,away,FALSE,Missouri,59,Tigers,Missouri Tigers,Missouri
-240070239,2004-01-07,2,239,home,FALSE,Baylor,59,Bears,Baylor Bears,Baylor
-240070239,2004-01-07,2,38,away,FALSE,Colorado,69,Buffaloes,Colorado Buffaloes,Colorado
-240070201,2004-01-07,2,201,home,FALSE,Oklahoma,70,Sooners,Oklahoma Sooners,Oklahoma
-240070201,2004-01-07,2,158,away,FALSE,Nebraska,51,Cornhuskers,Nebraska Cornhuskers,Nebraska
-240070164,2004-01-07,2,164,home,FALSE,Rutgers,56,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-240070164,2004-01-07,2,259,away,FALSE,Virginia Tech,43,Hokies,Virginia Tech Hokies,Virginia Tech
-240072507,2004-01-07,2,2507,home,FALSE,Providence,53,Friars,Providence Friars,Providence
-240072507,2004-01-07,2,103,away,FALSE,Boston College,73,Eagles,Boston College Eagles,Boston College
-240070222,2004-01-07,2,222,home,FALSE,Villanova,58,Wildcats,Villanova Wildcats,Villanova
-240070222,2004-01-07,2,2390,away,FALSE,Miami,55,Hurricanes,Miami Hurricanes,Miami
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240072305,2004,regular-season,2004-01-07,2,2305,home,FALSE,Kansas,54,Jayhawks,Kansas Jayhawks,Kansas
+240072305,2004,regular-season,2004-01-07,2,251,away,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
+240070277,2004,regular-season,2004-01-07,2,277,home,FALSE,West Virginia,57,Mountaineers,West Virginia Mountaineers,West Virginia
+240070277,2004,regular-season,2004-01-07,2,41,away,FALSE,UConn,82,Huskies,UConn Huskies,UConn
+240072306,2004,regular-season,2004-01-07,2,2306,home,FALSE,Kansas State,95,Wildcats,Kansas State Wildcats,Kansas St
+240072306,2004,regular-season,2004-01-07,2,142,away,FALSE,Missouri,59,Tigers,Missouri Tigers,Missouri
+240070239,2004,regular-season,2004-01-07,2,239,home,FALSE,Baylor,59,Bears,Baylor Bears,Baylor
+240070239,2004,regular-season,2004-01-07,2,38,away,FALSE,Colorado,69,Buffaloes,Colorado Buffaloes,Colorado
+240070201,2004,regular-season,2004-01-07,2,201,home,FALSE,Oklahoma,70,Sooners,Oklahoma Sooners,Oklahoma
+240070201,2004,regular-season,2004-01-07,2,158,away,FALSE,Nebraska,51,Cornhuskers,Nebraska Cornhuskers,Nebraska
+240070164,2004,regular-season,2004-01-07,2,164,home,FALSE,Rutgers,56,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+240070164,2004,regular-season,2004-01-07,2,259,away,FALSE,Virginia Tech,43,Hokies,Virginia Tech Hokies,Virginia Tech
+240072507,2004,regular-season,2004-01-07,2,2507,home,FALSE,Providence,53,Friars,Providence Friars,Providence
+240072507,2004,regular-season,2004-01-07,2,103,away,FALSE,Boston College,73,Eagles,Boston College Eagles,Boston College
+240070222,2004,regular-season,2004-01-07,2,222,home,FALSE,Villanova,58,Wildcats,Villanova Wildcats,Villanova
+240070222,2004,regular-season,2004-01-07,2,2390,away,FALSE,Miami,55,Hurricanes,Miami Hurricanes,Miami

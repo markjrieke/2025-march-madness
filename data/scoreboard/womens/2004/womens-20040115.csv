@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240152579,2004-01-15,2,2579,home,FALSE,South Carolina,58,Gamecocks,South Carolina Gamecocks,South Carolina
-240152579,2004-01-15,2,2633,away,FALSE,Tennessee,86,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-240150135,2004-01-15,2,135,home,FALSE,Minnesota,74,Golden Gophers,Minnesota Golden Gophers,Minnesota
-240150135,2004-01-15,2,356,away,FALSE,Illinois,59,Fighting Illini,Illinois Fighting Illini,Illinois
-240150130,2004-01-15,2,130,home,FALSE,Michigan,56,Wolverines,Michigan Wolverines,Michigan
-240150130,2004-01-15,2,213,away,FALSE,Penn State,68,Lady Lions,Penn State Lady Lions,Penn State
-240152509,2004-01-15,2,2509,home,FALSE,Purdue,71,Boilermakers,Purdue Boilermakers,Purdue
-240152509,2004-01-15,2,77,away,FALSE,Northwestern,41,Wildcats,Northwestern Wildcats,Northwestern
-240150002,2004-01-15,2,2,home,FALSE,Auburn,72,Tigers,Auburn Tigers,Auburn
-240150002,2004-01-15,2,61,away,FALSE,Georgia,54,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-240150023,2004-01-15,2,23,home,FALSE,San José State,71,Spartans,San José State Spartans,San José St
-240150023,2004-01-15,2,2348,away,FALSE,Louisiana Tech,84,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-240150099,2004-01-15,2,99,home,FALSE,LSU,74,Tigers,LSU Tigers,LSU
-240150099,2004-01-15,2,57,away,FALSE,Florida,59,Gators,Florida Gators,Florida
-240150194,2004-01-15,2,194,home,FALSE,Ohio State,47,Buckeyes,Ohio State Buckeyes,Ohio State
-240150194,2004-01-15,2,127,away,FALSE,Michigan State,55,Spartans,Michigan State Spartans,Michigan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240152579,2004,regular-season,2004-01-15,2,2579,home,FALSE,South Carolina,58,Gamecocks,South Carolina Gamecocks,South Carolina
+240152579,2004,regular-season,2004-01-15,2,2633,away,FALSE,Tennessee,86,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+240150135,2004,regular-season,2004-01-15,2,135,home,FALSE,Minnesota,74,Golden Gophers,Minnesota Golden Gophers,Minnesota
+240150135,2004,regular-season,2004-01-15,2,356,away,FALSE,Illinois,59,Fighting Illini,Illinois Fighting Illini,Illinois
+240150130,2004,regular-season,2004-01-15,2,130,home,FALSE,Michigan,56,Wolverines,Michigan Wolverines,Michigan
+240150130,2004,regular-season,2004-01-15,2,213,away,FALSE,Penn State,68,Lady Lions,Penn State Lady Lions,Penn State
+240152509,2004,regular-season,2004-01-15,2,2509,home,FALSE,Purdue,71,Boilermakers,Purdue Boilermakers,Purdue
+240152509,2004,regular-season,2004-01-15,2,77,away,FALSE,Northwestern,41,Wildcats,Northwestern Wildcats,Northwestern
+240150002,2004,regular-season,2004-01-15,2,2,home,FALSE,Auburn,72,Tigers,Auburn Tigers,Auburn
+240150002,2004,regular-season,2004-01-15,2,61,away,FALSE,Georgia,54,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+240150023,2004,regular-season,2004-01-15,2,23,home,FALSE,San José State,71,Spartans,San José State Spartans,San José St
+240150023,2004,regular-season,2004-01-15,2,2348,away,FALSE,Louisiana Tech,84,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+240150099,2004,regular-season,2004-01-15,2,99,home,FALSE,LSU,74,Tigers,LSU Tigers,LSU
+240150099,2004,regular-season,2004-01-15,2,57,away,FALSE,Florida,59,Gators,Florida Gators,Florida
+240150194,2004,regular-season,2004-01-15,2,194,home,FALSE,Ohio State,47,Buckeyes,Ohio State Buckeyes,Ohio State
+240150194,2004,regular-season,2004-01-15,2,127,away,FALSE,Michigan State,55,Spartans,Michigan State Spartans,Michigan St

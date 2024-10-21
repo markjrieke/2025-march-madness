@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401093030,2019-03-09,4,2181,home,FALSE,Drake,95,Bulldogs,Drake Bulldogs,Drake
-401093030,2019-03-09,4,71,away,FALSE,Bradley,63,Braves,Bradley Braves,Bradley
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401093030,2019,regular-season,2019-03-09,4,2181,home,FALSE,Drake,95,Bulldogs,Drake Bulldogs,Drake
+401093030,2019,regular-season,2019-03-09,4,71,away,FALSE,Bradley,63,Braves,Bradley Braves,Bradley

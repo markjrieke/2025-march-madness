@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213540046,2001-12-20,2,46,home,FALSE,Georgetown,55,Hoyas,Georgetown Hoyas,Georgetown
-213540046,2001-12-20,2,258,away,FALSE,Virginia,61,Cavaliers,Virginia Cavaliers,Virginia
-213540193,2001-12-20,2,193,home,FALSE,Miami (OH),73,RedHawks,Miami (OH) RedHawks,Miami OH
-213540193,2001-12-20,2,103,away,FALSE,Boston College,67,Eagles,Boston College Eagles,Boston College
-213540204,2001-12-20,2,204,home,FALSE,Oregon State,73,Beavers,Oregon State Beavers,Oregon St
-213540204,2001-12-20,2,12,away,FALSE,Arizona,76,Wildcats,Arizona Wildcats,Arizona
-213540183,2001-12-20,2,183,home,FALSE,Syracuse,80,Orange,Syracuse Orange,Syracuse
-213540183,2001-12-20,2,58,away,FALSE,South Florida,68,Bulls,South Florida Bulls,South Florida
-213540264,2001-12-20,2,264,home,FALSE,Washington,79,Huskies,Washington Huskies,Washington
-213540264,2001-12-20,2,26,away,FALSE,UCLA,85,Bruins,UCLA Bruins,UCLA
-213542433,2001-12-20,2,2433,home,FALSE,UL Monroe,66,Warhawks,UL Monroe Warhawks,UL Monroe
-213542433,2001-12-20,2,2132,away,FALSE,Cincinnati,102,Bearcats,Cincinnati Bearcats,Cincinnati
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213540046,2002,regular-season,2001-12-20,2,46,home,FALSE,Georgetown,55,Hoyas,Georgetown Hoyas,Georgetown
+213540046,2002,regular-season,2001-12-20,2,258,away,FALSE,Virginia,61,Cavaliers,Virginia Cavaliers,Virginia
+213540193,2002,regular-season,2001-12-20,2,193,home,FALSE,Miami (OH),73,RedHawks,Miami (OH) RedHawks,Miami OH
+213540193,2002,regular-season,2001-12-20,2,103,away,FALSE,Boston College,67,Eagles,Boston College Eagles,Boston College
+213540204,2002,regular-season,2001-12-20,2,204,home,FALSE,Oregon State,73,Beavers,Oregon State Beavers,Oregon St
+213540204,2002,regular-season,2001-12-20,2,12,away,FALSE,Arizona,76,Wildcats,Arizona Wildcats,Arizona
+213540183,2002,regular-season,2001-12-20,2,183,home,FALSE,Syracuse,80,Orange,Syracuse Orange,Syracuse
+213540183,2002,regular-season,2001-12-20,2,58,away,FALSE,South Florida,68,Bulls,South Florida Bulls,South Florida
+213540264,2002,regular-season,2001-12-20,2,264,home,FALSE,Washington,79,Huskies,Washington Huskies,Washington
+213540264,2002,regular-season,2001-12-20,2,26,away,FALSE,UCLA,85,Bruins,UCLA Bruins,UCLA
+213542433,2002,regular-season,2001-12-20,2,2433,home,FALSE,UL Monroe,66,Warhawks,UL Monroe Warhawks,UL Monroe
+213542433,2002,regular-season,2001-12-20,2,2132,away,FALSE,Cincinnati,102,Bearcats,Cincinnati Bearcats,Cincinnati

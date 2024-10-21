@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401595073,2023-12-08,4,2181,home,FALSE,Drake,77,Bulldogs,Drake Bulldogs,Drake
-401595073,2023-12-08,4,2449,away,FALSE,North Dakota State,67,Bison,North Dakota State Bison,N Dakota St
-401594846,2023-12-08,4,9,home,FALSE,Arizona State,59,Sun Devils,Arizona State Sun Devils,Arizona St
-401594846,2023-12-08,4,2253,away,FALSE,Grand Canyon,66,Lopes,Grand Canyon Lopes,Grand Canyon
-401598604,2023-12-08,4,159,home,FALSE,Dartmouth,65,Big Green,Dartmouth Big Green,Dartmouth
-401598604,2023-12-08,4,2426,away,FALSE,Navy,52,Midshipmen,Navy Midshipmen,Navy
-401600447,2023-12-08,4,50,home,FALSE,Florida A&M,65,Rattlers,Florida A&M Rattlers,Florida A&M
-401600447,2023-12-08,4,6,away,FALSE,South Alabama,68,Jaguars,South Alabama Jaguars,South Alabama
-401598645,2023-12-08,4,2142,home,FALSE,Colgate,65,Raiders,Colgate Raiders,Colgate
-401598645,2023-12-08,4,2330,away,FALSE,Le Moyne,57,Dolphins,Le Moyne Dolphins,Le Moyne
-401574679,2023-12-08,4,2066,home,FALSE,Binghamton,64,Bearcats,Binghamton Bearcats,Binghamton
-401574679,2023-12-08,4,2099,away,FALSE,Canisius,71,Golden Griffins,Canisius Golden Griffins,Canisius
-401598120,2023-12-08,4,2166,home,FALSE,Davidson,77,Wildcats,Davidson Wildcats,Davidson
-401598120,2023-12-08,4,2272,away,FALSE,High Point,40,Panthers,High Point Panthers,High Point
-401595054,2023-12-08,4,2550,home,FALSE,Seton Hall,77,Pirates,Seton Hall Pirates,Seton Hall
-401595054,2023-12-08,4,2115,away,FALSE,Central Connecticut,46,Blue Devils,Central Connecticut Blue Devils,C Connecticut
-401582450,2023-12-08,4,2771,home,FALSE,Merrimack,62,Warriors,Merrimack Warriors,Merrimack
-401582450,2023-12-08,4,219,away,FALSE,Pennsylvania,71,Quakers,Pennsylvania Quakers,Penn
-401582240,2023-12-08,4,2390,home,FALSE,Miami,75,Hurricanes,Miami Hurricanes,Miami
-401582240,2023-12-08,4,305,away,FALSE,DePaul,70,Blue Demons,DePaul Blue Demons,DePaul
-401594911,2023-12-08,4,2837,home,FALSE,Texas A&M-Commerce,53,Lions,Texas A&M-Commerce Lions,Texas A&M-Comm
-401594911,2023-12-08,4,248,away,FALSE,Houston,86,Cougars,Houston Cougars,Houston
-401587035,2023-12-08,4,2483,home,FALSE,Oregon,59,Ducks,Oregon Ducks,Oregon
-401587035,2023-12-08,4,70,away,FALSE,Idaho,51,Vandals,Idaho Vandals,Idaho
-401583991,2023-12-08,4,279,home,FALSE,Pacific,72,Tigers,Pacific Tigers,Pacific
-401583991,2023-12-08,4,2540,away,FALSE,UC Santa Barbara,61,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-401594837,2023-12-08,4,2608,home,FALSE,Saint Mary's,59,Gaels,Saint Mary's Gaels,Saint Mary's
-401594837,2023-12-08,4,147,away,FALSE,Montana State,53,Bobcats,Montana State Bobcats,Montana St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401595073,2024,regular-season,2023-12-08,4,2181,home,FALSE,Drake,77,Bulldogs,Drake Bulldogs,Drake
+401595073,2024,regular-season,2023-12-08,4,2449,away,FALSE,North Dakota State,67,Bison,North Dakota State Bison,N Dakota St
+401594846,2024,regular-season,2023-12-08,4,9,home,FALSE,Arizona State,59,Sun Devils,Arizona State Sun Devils,Arizona St
+401594846,2024,regular-season,2023-12-08,4,2253,away,FALSE,Grand Canyon,66,Lopes,Grand Canyon Lopes,Grand Canyon
+401598604,2024,regular-season,2023-12-08,4,159,home,FALSE,Dartmouth,65,Big Green,Dartmouth Big Green,Dartmouth
+401598604,2024,regular-season,2023-12-08,4,2426,away,FALSE,Navy,52,Midshipmen,Navy Midshipmen,Navy
+401600447,2024,regular-season,2023-12-08,4,50,home,FALSE,Florida A&M,65,Rattlers,Florida A&M Rattlers,Florida A&M
+401600447,2024,regular-season,2023-12-08,4,6,away,FALSE,South Alabama,68,Jaguars,South Alabama Jaguars,South Alabama
+401598645,2024,regular-season,2023-12-08,4,2142,home,FALSE,Colgate,65,Raiders,Colgate Raiders,Colgate
+401598645,2024,regular-season,2023-12-08,4,2330,away,FALSE,Le Moyne,57,Dolphins,Le Moyne Dolphins,Le Moyne
+401574679,2024,regular-season,2023-12-08,4,2066,home,FALSE,Binghamton,64,Bearcats,Binghamton Bearcats,Binghamton
+401574679,2024,regular-season,2023-12-08,4,2099,away,FALSE,Canisius,71,Golden Griffins,Canisius Golden Griffins,Canisius
+401598120,2024,regular-season,2023-12-08,4,2166,home,FALSE,Davidson,77,Wildcats,Davidson Wildcats,Davidson
+401598120,2024,regular-season,2023-12-08,4,2272,away,FALSE,High Point,40,Panthers,High Point Panthers,High Point
+401595054,2024,regular-season,2023-12-08,4,2550,home,FALSE,Seton Hall,77,Pirates,Seton Hall Pirates,Seton Hall
+401595054,2024,regular-season,2023-12-08,4,2115,away,FALSE,Central Connecticut,46,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+401582450,2024,regular-season,2023-12-08,4,2771,home,FALSE,Merrimack,62,Warriors,Merrimack Warriors,Merrimack
+401582450,2024,regular-season,2023-12-08,4,219,away,FALSE,Pennsylvania,71,Quakers,Pennsylvania Quakers,Penn
+401582240,2024,regular-season,2023-12-08,4,2390,home,FALSE,Miami,75,Hurricanes,Miami Hurricanes,Miami
+401582240,2024,regular-season,2023-12-08,4,305,away,FALSE,DePaul,70,Blue Demons,DePaul Blue Demons,DePaul
+401594911,2024,regular-season,2023-12-08,4,2837,home,FALSE,Texas A&M-Commerce,53,Lions,Texas A&M-Commerce Lions,Texas A&M-Comm
+401594911,2024,regular-season,2023-12-08,4,248,away,FALSE,Houston,86,Cougars,Houston Cougars,Houston
+401587035,2024,regular-season,2023-12-08,4,2483,home,FALSE,Oregon,59,Ducks,Oregon Ducks,Oregon
+401587035,2024,regular-season,2023-12-08,4,70,away,FALSE,Idaho,51,Vandals,Idaho Vandals,Idaho
+401583991,2024,regular-season,2023-12-08,4,279,home,FALSE,Pacific,72,Tigers,Pacific Tigers,Pacific
+401583991,2024,regular-season,2023-12-08,4,2540,away,FALSE,UC Santa Barbara,61,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+401594837,2024,regular-season,2023-12-08,4,2608,home,FALSE,Saint Mary's,59,Gaels,Saint Mary's Gaels,Saint Mary's
+401594837,2024,regular-season,2023-12-08,4,147,away,FALSE,Montana State,53,Bobcats,Montana State Bobcats,Montana St

@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401263112,2020-12-10,4,12,home,FALSE,Arizona,65,Wildcats,Arizona Wildcats,Arizona
-401263112,2020-12-10,4,9,away,FALSE,Arizona State,37,Sun Devils,Arizona State Sun Devils,Arizona St
-401254116,2020-12-10,4,277,home,FALSE,West Virginia,45,Mountaineers,West Virginia Mountaineers,West Virginia
-401254116,2020-12-10,4,239,away,FALSE,Baylor,65,Bears,Baylor Bears,Baylor
-401257197,2020-12-10,4,2031,home,FALSE,Little Rock,56,Trojans,Little Rock Trojans,Little Rock
-401257197,2020-12-10,4,245,away,FALSE,Texas A&M,79,Aggies,Texas A&M Aggies,Texas A&M
-401257682,2020-12-10,4,77,home,FALSE,Northwestern,93,Wildcats,Northwestern Wildcats,Northwestern
-401257682,2020-12-10,4,2197,away,FALSE,Eastern Illinois,57,Panthers,Eastern Illinois Panthers,E Illinois
-401268038,2020-12-10,4,194,home,FALSE,Ohio State,104,Buckeyes,Ohio State Buckeyes,Ohio State
-401268038,2020-12-10,4,193,away,FALSE,Miami (OH),65,RedHawks,Miami (OH) RedHawks,Miami OH
-401260383,2020-12-10,4,2390,home,FALSE,Miami,58,Hurricanes,Miami Hurricanes,Miami
-401260383,2020-12-10,4,183,away,FALSE,Syracuse,69,Orange,Syracuse Orange,Syracuse
-401254996,2020-12-10,4,2306,home,FALSE,Kansas State,62,Wildcats,Kansas State Wildcats,Kansas St
-401254996,2020-12-10,4,2571,away,FALSE,South Dakota State,53,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401263112,2021,regular-season,2020-12-10,4,12,home,FALSE,Arizona,65,Wildcats,Arizona Wildcats,Arizona
+401263112,2021,regular-season,2020-12-10,4,9,away,FALSE,Arizona State,37,Sun Devils,Arizona State Sun Devils,Arizona St
+401254116,2021,regular-season,2020-12-10,4,277,home,FALSE,West Virginia,45,Mountaineers,West Virginia Mountaineers,West Virginia
+401254116,2021,regular-season,2020-12-10,4,239,away,FALSE,Baylor,65,Bears,Baylor Bears,Baylor
+401257197,2021,regular-season,2020-12-10,4,2031,home,FALSE,Little Rock,56,Trojans,Little Rock Trojans,Little Rock
+401257197,2021,regular-season,2020-12-10,4,245,away,FALSE,Texas A&M,79,Aggies,Texas A&M Aggies,Texas A&M
+401257682,2021,regular-season,2020-12-10,4,77,home,FALSE,Northwestern,93,Wildcats,Northwestern Wildcats,Northwestern
+401257682,2021,regular-season,2020-12-10,4,2197,away,FALSE,Eastern Illinois,57,Panthers,Eastern Illinois Panthers,E Illinois
+401268038,2021,regular-season,2020-12-10,4,194,home,FALSE,Ohio State,104,Buckeyes,Ohio State Buckeyes,Ohio State
+401268038,2021,regular-season,2020-12-10,4,193,away,FALSE,Miami (OH),65,RedHawks,Miami (OH) RedHawks,Miami OH
+401260383,2021,regular-season,2020-12-10,4,2390,home,FALSE,Miami,58,Hurricanes,Miami Hurricanes,Miami
+401260383,2021,regular-season,2020-12-10,4,183,away,FALSE,Syracuse,69,Orange,Syracuse Orange,Syracuse
+401254996,2021,regular-season,2020-12-10,4,2306,home,FALSE,Kansas State,62,Wildcats,Kansas State Wildcats,Kansas St
+401254996,2021,regular-season,2020-12-10,4,2571,away,FALSE,South Dakota State,53,Jackrabbits,South Dakota State Jackrabbits,S Dakota St

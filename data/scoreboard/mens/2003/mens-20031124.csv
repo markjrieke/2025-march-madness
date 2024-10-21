@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-233280012,2003-11-24,2,12,home,FALSE,Arizona,107,Wildcats,Arizona Wildcats,Arizona
-233280012,2003-11-24,2,2464,away,FALSE,Northern Arizona,73,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
-233280153,2003-11-24,2,153,home,FALSE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
-233280153,2003-11-24,2,2166,away,FALSE,Davidson,68,Wildcats,Davidson Wildcats,Davidson
-233280251,2003-11-24,2,251,home,FALSE,Texas,122,Longhorns,Texas Longhorns,Texas
-233280251,2003-11-24,2,2534,away,FALSE,Sam Houston,71,Bearkats,Sam Houston Bearkats,Sam Houston
-233282250,2003-11-24,2,2250,home,FALSE,Gonzaga,90,Bulldogs,Gonzaga Bulldogs,Gonzaga
-233282250,2003-11-24,2,2172,away,FALSE,Denver,58,Pioneers,Denver Pioneers,Denver
-233282132,2003-11-24,2,2132,home,FALSE,Cincinnati,89,Bearcats,Cincinnati Bearcats,Cincinnati
-233282132,2003-11-24,2,2473,away,FALSE,Oakland,60,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-233280087,2003-11-24,2,87,home,FALSE,Notre Dame,74,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-233280087,2003-11-24,2,2459,away,FALSE,Northern Illinois,65,Huskies,Northern Illinois Huskies,N Illinois
-233280269,2003-11-24,2,269,home,FALSE,Marquette,70,Golden Eagles,Marquette Golden Eagles,Marquette
-233280269,2003-11-24,2,128,away,FALSE,Northern Michigan,58,Wildcats,Northern Michigan Wildcats,N Michigan
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+233280012,2004,regular-season,2003-11-24,2,12,home,FALSE,Arizona,107,Wildcats,Arizona Wildcats,Arizona
+233280012,2004,regular-season,2003-11-24,2,2464,away,FALSE,Northern Arizona,73,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+233280153,2004,regular-season,2003-11-24,2,153,home,FALSE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
+233280153,2004,regular-season,2003-11-24,2,2166,away,FALSE,Davidson,68,Wildcats,Davidson Wildcats,Davidson
+233280251,2004,regular-season,2003-11-24,2,251,home,FALSE,Texas,122,Longhorns,Texas Longhorns,Texas
+233280251,2004,regular-season,2003-11-24,2,2534,away,FALSE,Sam Houston,71,Bearkats,Sam Houston Bearkats,Sam Houston
+233282250,2004,regular-season,2003-11-24,2,2250,home,FALSE,Gonzaga,90,Bulldogs,Gonzaga Bulldogs,Gonzaga
+233282250,2004,regular-season,2003-11-24,2,2172,away,FALSE,Denver,58,Pioneers,Denver Pioneers,Denver
+233282132,2004,regular-season,2003-11-24,2,2132,home,FALSE,Cincinnati,89,Bearcats,Cincinnati Bearcats,Cincinnati
+233282132,2004,regular-season,2003-11-24,2,2473,away,FALSE,Oakland,60,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+233280087,2004,regular-season,2003-11-24,2,87,home,FALSE,Notre Dame,74,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+233280087,2004,regular-season,2003-11-24,2,2459,away,FALSE,Northern Illinois,65,Huskies,Northern Illinois Huskies,N Illinois
+233280269,2004,regular-season,2003-11-24,2,269,home,FALSE,Marquette,70,Golden Eagles,Marquette Golden Eagles,Marquette
+233280269,2004,regular-season,2003-11-24,2,128,away,FALSE,Northern Michigan,58,Wildcats,Northern Michigan Wildcats,N Michigan

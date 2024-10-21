@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400946307,2017-03-12,2,163,home,TRUE,Princeton,71,Tigers,Princeton Tigers,Princeton
-400946307,2017-03-12,2,43,away,TRUE,Yale,59,Bulldogs,Yale Bulldogs,Yale
-400946285,2017-03-12,2,2670,home,TRUE,VCU,63,Rams,VCU Rams,VCU
-400946285,2017-03-12,2,227,away,TRUE,Rhode Island,70,Rams,Rhode Island Rams,Rhode Island
-400946306,2017-03-12,2,96,home,TRUE,Kentucky,82,Wildcats,Kentucky Wildcats,Kentucky
-400946306,2017-03-12,2,8,away,TRUE,Arkansas,65,Razorbacks,Arkansas Razorbacks,Arkansas
-400946313,2017-03-12,2,326,home,TRUE,Texas State,53,Bobcats,Texas State Bobcats,Texas St
-400946313,2017-03-12,2,2653,away,TRUE,Troy,59,Trojans,Troy Trojans,Troy
-400946284,2017-03-12,2,275,home,TRUE,Wisconsin,56,Badgers,Wisconsin Badgers,Wisconsin
-400946284,2017-03-12,2,130,away,TRUE,Michigan,71,Wolverines,Michigan Wolverines,Michigan
-400946312,2017-03-12,2,2567,home,TRUE,SMU,71,Mustangs,SMU Mustangs,SMU
-400946312,2017-03-12,2,2132,away,TRUE,Cincinnati,56,Bearcats,Cincinnati Bearcats,Cincinnati
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400946307,2017,regular-season,2017-03-12,2,163,home,TRUE,Princeton,71,Tigers,Princeton Tigers,Princeton
+400946307,2017,regular-season,2017-03-12,2,43,away,TRUE,Yale,59,Bulldogs,Yale Bulldogs,Yale
+400946285,2017,regular-season,2017-03-12,2,2670,home,TRUE,VCU,63,Rams,VCU Rams,VCU
+400946285,2017,regular-season,2017-03-12,2,227,away,TRUE,Rhode Island,70,Rams,Rhode Island Rams,Rhode Island
+400946306,2017,regular-season,2017-03-12,2,96,home,TRUE,Kentucky,82,Wildcats,Kentucky Wildcats,Kentucky
+400946306,2017,regular-season,2017-03-12,2,8,away,TRUE,Arkansas,65,Razorbacks,Arkansas Razorbacks,Arkansas
+400946313,2017,regular-season,2017-03-12,2,326,home,TRUE,Texas State,53,Bobcats,Texas State Bobcats,Texas St
+400946313,2017,regular-season,2017-03-12,2,2653,away,TRUE,Troy,59,Trojans,Troy Trojans,Troy
+400946284,2017,regular-season,2017-03-12,2,275,home,TRUE,Wisconsin,56,Badgers,Wisconsin Badgers,Wisconsin
+400946284,2017,regular-season,2017-03-12,2,130,away,TRUE,Michigan,71,Wolverines,Michigan Wolverines,Michigan
+400946312,2017,regular-season,2017-03-12,2,2567,home,TRUE,SMU,71,Mustangs,SMU Mustangs,SMU
+400946312,2017,regular-season,2017-03-12,2,2132,away,TRUE,Cincinnati,56,Bearcats,Cincinnati Bearcats,Cincinnati

@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320560024,2012-02-25,2,24,home,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
-320560024,2012-02-25,2,254,away,FALSE,Utah,42,Utes,Utah Utes,Utah
-320560087,2012-02-25,2,87,home,FALSE,Notre Dame,80,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-320560087,2012-02-25,2,58,away,FALSE,South Florida,68,Bulls,South Florida Bulls,South Florida
-320560269,2012-02-25,2,269,home,FALSE,Marquette,45,Golden Eagles,Marquette Golden Eagles,Marquette
-320560269,2012-02-25,2,41,away,FALSE,UConn,85,Huskies,UConn Huskies,UConn
-320562739,2012-02-25,2,2739,home,FALSE,Green Bay,78,Phoenix,Green Bay Phoenix,Green Bay
-320562739,2012-02-25,2,2086,away,FALSE,Butler,53,Bulldogs,Butler Bulldogs,Butler
-320560245,2012-02-25,2,245,home,FALSE,Texas A&M,79,Aggies,Texas A&M Aggies,Texas A&M
-320560245,2012-02-25,2,2641,away,FALSE,Texas Tech,51,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-320560183,2012-02-25,2,183,home,FALSE,Syracuse,62,Orange,Syracuse Orange,Syracuse
-320560183,2012-02-25,2,46,away,FALSE,Georgetown,65,Hoyas,Georgetown Hoyas,Georgetown
-320560097,2012-02-25,2,97,home,FALSE,Louisville,75,Cardinals,Louisville Cardinals,Louisville
-320560097,2012-02-25,2,305,away,FALSE,DePaul,62,Blue Demons,DePaul Blue Demons,DePaul
-320560227,2012-02-25,2,227,home,FALSE,Rhode Island,32,Rams,Rhode Island Rams,Rhode Island
-320560227,2012-02-25,2,179,away,FALSE,St. Bonaventure,58,Bonnies,St. Bonaventure Bonnies,St Bonaventure
-320562599,2012-02-25,2,2599,home,FALSE,St. John's,69,Red Storm,St. John's Red Storm,St John's
-320562599,2012-02-25,2,222,away,FALSE,Villanova,49,Wildcats,Villanova Wildcats,Villanova
-320562507,2012-02-25,2,2507,home,FALSE,Providence,47,Friars,Providence Friars,Providence
-320562507,2012-02-25,2,164,away,FALSE,Rutgers,68,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-320562250,2012-02-25,2,2250,home,FALSE,Gonzaga,77,Bulldogs,Gonzaga Bulldogs,Gonzaga
-320562250,2012-02-25,2,252,away,FALSE,BYU,60,Cougars,BYU Cougars,BYU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320560024,2012,regular-season,2012-02-25,2,24,home,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
+320560024,2012,regular-season,2012-02-25,2,254,away,FALSE,Utah,42,Utes,Utah Utes,Utah
+320560087,2012,regular-season,2012-02-25,2,87,home,FALSE,Notre Dame,80,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+320560087,2012,regular-season,2012-02-25,2,58,away,FALSE,South Florida,68,Bulls,South Florida Bulls,South Florida
+320560269,2012,regular-season,2012-02-25,2,269,home,FALSE,Marquette,45,Golden Eagles,Marquette Golden Eagles,Marquette
+320560269,2012,regular-season,2012-02-25,2,41,away,FALSE,UConn,85,Huskies,UConn Huskies,UConn
+320562739,2012,regular-season,2012-02-25,2,2739,home,FALSE,Green Bay,78,Phoenix,Green Bay Phoenix,Green Bay
+320562739,2012,regular-season,2012-02-25,2,2086,away,FALSE,Butler,53,Bulldogs,Butler Bulldogs,Butler
+320560245,2012,regular-season,2012-02-25,2,245,home,FALSE,Texas A&M,79,Aggies,Texas A&M Aggies,Texas A&M
+320560245,2012,regular-season,2012-02-25,2,2641,away,FALSE,Texas Tech,51,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+320560183,2012,regular-season,2012-02-25,2,183,home,FALSE,Syracuse,62,Orange,Syracuse Orange,Syracuse
+320560183,2012,regular-season,2012-02-25,2,46,away,FALSE,Georgetown,65,Hoyas,Georgetown Hoyas,Georgetown
+320560097,2012,regular-season,2012-02-25,2,97,home,FALSE,Louisville,75,Cardinals,Louisville Cardinals,Louisville
+320560097,2012,regular-season,2012-02-25,2,305,away,FALSE,DePaul,62,Blue Demons,DePaul Blue Demons,DePaul
+320560227,2012,regular-season,2012-02-25,2,227,home,FALSE,Rhode Island,32,Rams,Rhode Island Rams,Rhode Island
+320560227,2012,regular-season,2012-02-25,2,179,away,FALSE,St. Bonaventure,58,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+320562599,2012,regular-season,2012-02-25,2,2599,home,FALSE,St. John's,69,Red Storm,St. John's Red Storm,St John's
+320562599,2012,regular-season,2012-02-25,2,222,away,FALSE,Villanova,49,Wildcats,Villanova Wildcats,Villanova
+320562507,2012,regular-season,2012-02-25,2,2507,home,FALSE,Providence,47,Friars,Providence Friars,Providence
+320562507,2012,regular-season,2012-02-25,2,164,away,FALSE,Rutgers,68,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+320562250,2012,regular-season,2012-02-25,2,2250,home,FALSE,Gonzaga,77,Bulldogs,Gonzaga Bulldogs,Gonzaga
+320562250,2012,regular-season,2012-02-25,2,252,away,FALSE,BYU,60,Cougars,BYU Cougars,BYU

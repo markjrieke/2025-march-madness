@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401364887,2022-01-25,2,142,home,FALSE,Missouri,54,Tigers,Missouri Tigers,Missouri
-401364887,2022-01-25,2,2,away,FALSE,Auburn,55,Tigers,Auburn Tigers,Auburn
-401405170,2022-01-25,2,26,home,FALSE,UCLA,75,Bruins,UCLA Bruins,UCLA
-401405170,2022-01-25,2,12,away,FALSE,Arizona,59,Wildcats,Arizona Wildcats,Arizona
-401368388,2022-01-25,2,239,home,FALSE,Baylor,74,Bears,Baylor Bears,Baylor
-401368388,2022-01-25,2,2306,away,FALSE,Kansas State,49,Wildcats,Kansas State Wildcats,Kansas St
-401369865,2022-01-25,2,150,home,FALSE,Duke,71,Blue Devils,Duke Blue Devils,Duke
-401369865,2022-01-25,2,228,away,FALSE,Clemson,69,Tigers,Clemson Tigers,Clemson
-401364401,2022-01-25,2,356,home,FALSE,Illinois,56,Fighting Illini,Illinois Fighting Illini,Illinois
-401364401,2022-01-25,2,127,away,FALSE,Michigan State,55,Spartans,Michigan State Spartans,Michigan St
-401364888,2022-01-25,3,96,home,FALSE,Kentucky,82,Wildcats,Kentucky Wildcats,Kentucky
-401364888,2022-01-25,3,344,away,FALSE,Mississippi State,74,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401373561,2022-01-25,2,222,home,FALSE,Villanova,67,Wildcats,Villanova Wildcats,Villanova
-401373561,2022-01-25,2,305,away,FALSE,DePaul,43,Blue Demons,DePaul Blue Demons,DePaul
-401373562,2022-01-25,2,41,home,FALSE,UConn,96,Huskies,UConn Huskies,UConn
-401373562,2022-01-25,2,46,away,FALSE,Georgetown,73,Hoyas,Georgetown Hoyas,Georgetown
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401364887,2022,regular-season,2022-01-25,2,142,home,FALSE,Missouri,54,Tigers,Missouri Tigers,Missouri
+401364887,2022,regular-season,2022-01-25,2,2,away,FALSE,Auburn,55,Tigers,Auburn Tigers,Auburn
+401405170,2022,regular-season,2022-01-25,2,26,home,FALSE,UCLA,75,Bruins,UCLA Bruins,UCLA
+401405170,2022,regular-season,2022-01-25,2,12,away,FALSE,Arizona,59,Wildcats,Arizona Wildcats,Arizona
+401368388,2022,regular-season,2022-01-25,2,239,home,FALSE,Baylor,74,Bears,Baylor Bears,Baylor
+401368388,2022,regular-season,2022-01-25,2,2306,away,FALSE,Kansas State,49,Wildcats,Kansas State Wildcats,Kansas St
+401369865,2022,regular-season,2022-01-25,2,150,home,FALSE,Duke,71,Blue Devils,Duke Blue Devils,Duke
+401369865,2022,regular-season,2022-01-25,2,228,away,FALSE,Clemson,69,Tigers,Clemson Tigers,Clemson
+401364401,2022,regular-season,2022-01-25,2,356,home,FALSE,Illinois,56,Fighting Illini,Illinois Fighting Illini,Illinois
+401364401,2022,regular-season,2022-01-25,2,127,away,FALSE,Michigan State,55,Spartans,Michigan State Spartans,Michigan St
+401364888,2022,regular-season,2022-01-25,3,96,home,FALSE,Kentucky,82,Wildcats,Kentucky Wildcats,Kentucky
+401364888,2022,regular-season,2022-01-25,3,344,away,FALSE,Mississippi State,74,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401373561,2022,regular-season,2022-01-25,2,222,home,FALSE,Villanova,67,Wildcats,Villanova Wildcats,Villanova
+401373561,2022,regular-season,2022-01-25,2,305,away,FALSE,DePaul,43,Blue Demons,DePaul Blue Demons,DePaul
+401373562,2022,regular-season,2022-01-25,2,41,home,FALSE,UConn,96,Huskies,UConn Huskies,UConn
+401373562,2022,regular-season,2022-01-25,2,46,away,FALSE,Georgetown,73,Hoyas,Georgetown Hoyas,Georgetown

@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220382483,2002-02-07,2,2483,home,FALSE,Oregon,72,Ducks,Oregon Ducks,Oregon
-220382483,2002-02-07,2,24,away,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
-220382633,2002-02-07,2,2633,home,FALSE,Tennessee,93,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-220382633,2002-02-07,2,8,away,FALSE,Arkansas,65,Razorbacks,Arkansas Razorbacks,Arkansas
-220380154,2002-02-07,2,154,home,FALSE,Wake Forest,60,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-220380154,2002-02-07,2,150,away,FALSE,Duke,83,Blue Devils,Duke Blue Devils,Duke
-220380356,2002-02-07,2,356,home,FALSE,Illinois,69,Fighting Illini,Illinois Fighting Illini,Illinois
-220380356,2002-02-07,2,2509,away,FALSE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
-220382348,2002-02-07,2,2348,home,FALSE,Louisiana Tech,82,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-220382348,2002-02-07,2,62,away,FALSE,Hawai'i,53,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
-220382579,2002-02-07,2,2579,home,FALSE,South Carolina,64,Gamecocks,South Carolina Gamecocks,South Carolina
-220382579,2002-02-07,2,61,away,FALSE,Georgia,59,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-220380135,2002-02-07,2,135,home,FALSE,Minnesota,79,Golden Gophers,Minnesota Golden Gophers,Minnesota
-220380135,2002-02-07,2,194,away,FALSE,Ohio State,64,Buckeyes,Ohio State Buckeyes,Ohio State
-220380036,2002-02-07,2,36,home,FALSE,Colorado State,58,Rams,Colorado State Rams,Colorado St
-220380036,2002-02-07,2,254,away,FALSE,Utah,53,Utes,Utah Utes,Utah
-220380275,2002-02-07,2,275,home,FALSE,Wisconsin,64,Badgers,Wisconsin Badgers,Wisconsin
-220380275,2002-02-07,2,2294,away,FALSE,Iowa,76,Hawkeyes,Iowa Hawkeyes,Iowa
-220380333,2002-02-07,2,333,home,FALSE,Alabama,92,Crimson Tide,Alabama Crimson Tide,Alabama
-220380333,2002-02-07,2,344,away,FALSE,Mississippi State,86,Bulldogs,Mississippi State Bulldogs,Mississippi St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220382483,2002,regular-season,2002-02-07,2,2483,home,FALSE,Oregon,72,Ducks,Oregon Ducks,Oregon
+220382483,2002,regular-season,2002-02-07,2,24,away,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
+220382633,2002,regular-season,2002-02-07,2,2633,home,FALSE,Tennessee,93,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+220382633,2002,regular-season,2002-02-07,2,8,away,FALSE,Arkansas,65,Razorbacks,Arkansas Razorbacks,Arkansas
+220380154,2002,regular-season,2002-02-07,2,154,home,FALSE,Wake Forest,60,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+220380154,2002,regular-season,2002-02-07,2,150,away,FALSE,Duke,83,Blue Devils,Duke Blue Devils,Duke
+220380356,2002,regular-season,2002-02-07,2,356,home,FALSE,Illinois,69,Fighting Illini,Illinois Fighting Illini,Illinois
+220380356,2002,regular-season,2002-02-07,2,2509,away,FALSE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
+220382348,2002,regular-season,2002-02-07,2,2348,home,FALSE,Louisiana Tech,82,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+220382348,2002,regular-season,2002-02-07,2,62,away,FALSE,Hawai'i,53,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
+220382579,2002,regular-season,2002-02-07,2,2579,home,FALSE,South Carolina,64,Gamecocks,South Carolina Gamecocks,South Carolina
+220382579,2002,regular-season,2002-02-07,2,61,away,FALSE,Georgia,59,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+220380135,2002,regular-season,2002-02-07,2,135,home,FALSE,Minnesota,79,Golden Gophers,Minnesota Golden Gophers,Minnesota
+220380135,2002,regular-season,2002-02-07,2,194,away,FALSE,Ohio State,64,Buckeyes,Ohio State Buckeyes,Ohio State
+220380036,2002,regular-season,2002-02-07,2,36,home,FALSE,Colorado State,58,Rams,Colorado State Rams,Colorado St
+220380036,2002,regular-season,2002-02-07,2,254,away,FALSE,Utah,53,Utes,Utah Utes,Utah
+220380275,2002,regular-season,2002-02-07,2,275,home,FALSE,Wisconsin,64,Badgers,Wisconsin Badgers,Wisconsin
+220380275,2002,regular-season,2002-02-07,2,2294,away,FALSE,Iowa,76,Hawkeyes,Iowa Hawkeyes,Iowa
+220380333,2002,regular-season,2002-02-07,2,333,home,FALSE,Alabama,92,Crimson Tide,Alabama Crimson Tide,Alabama
+220380333,2002,regular-season,2002-02-07,2,344,away,FALSE,Mississippi State,86,Bulldogs,Mississippi State Bulldogs,Mississippi St

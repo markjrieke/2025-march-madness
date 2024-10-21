@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330630239,2013-03-04,2,239,home,FALSE,Baylor,90,Bears,Baylor Bears,Baylor
-330630239,2013-03-04,2,2306,away,FALSE,Kansas State,68,Wildcats,Kansas State Wildcats,Kansas St
-330630087,2013-03-04,5,87,home,FALSE,Notre Dame,96,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-330630087,2013-03-04,5,41,away,FALSE,UConn,87,Huskies,UConn Huskies,UConn
-330630183,2013-03-04,2,183,home,FALSE,Syracuse,68,Orange,Syracuse Orange,Syracuse
-330630183,2013-03-04,2,97,away,FALSE,Louisville,57,Cardinals,Louisville Cardinals,Louisville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330630239,2013,regular-season,2013-03-04,2,239,home,FALSE,Baylor,90,Bears,Baylor Bears,Baylor
+330630239,2013,regular-season,2013-03-04,2,2306,away,FALSE,Kansas State,68,Wildcats,Kansas State Wildcats,Kansas St
+330630087,2013,regular-season,2013-03-04,5,87,home,FALSE,Notre Dame,96,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+330630087,2013,regular-season,2013-03-04,5,41,away,FALSE,UConn,87,Huskies,UConn Huskies,UConn
+330630183,2013,regular-season,2013-03-04,2,183,home,FALSE,Syracuse,68,Orange,Syracuse Orange,Syracuse
+330630183,2013,regular-season,2013-03-04,2,97,away,FALSE,Louisville,57,Cardinals,Louisville Cardinals,Louisville

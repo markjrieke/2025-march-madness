@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290340041,2009-02-03,2,41,home,FALSE,UConn,75,Huskies,UConn Huskies,UConn
-290340041,2009-02-03,2,164,away,FALSE,Rutgers,56,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-290340097,2009-02-03,2,97,home,FALSE,Louisville,78,Cardinals,Louisville Cardinals,Louisville
-290340097,2009-02-03,2,183,away,FALSE,Syracuse,57,Orange,Syracuse Orange,Syracuse
-290340221,2009-02-03,2,221,home,FALSE,Pittsburgh,82,Panthers,Pittsburgh Panthers,Pitt
-290340221,2009-02-03,2,87,away,FALSE,Notre Dame,70,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290340041,2009,regular-season,2009-02-03,2,41,home,FALSE,UConn,75,Huskies,UConn Huskies,UConn
+290340041,2009,regular-season,2009-02-03,2,164,away,FALSE,Rutgers,56,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+290340097,2009,regular-season,2009-02-03,2,97,home,FALSE,Louisville,78,Cardinals,Louisville Cardinals,Louisville
+290340097,2009,regular-season,2009-02-03,2,183,away,FALSE,Syracuse,57,Orange,Syracuse Orange,Syracuse
+290340221,2009,regular-season,2009-02-03,2,221,home,FALSE,Pittsburgh,82,Panthers,Pittsburgh Panthers,Pitt
+290340221,2009,regular-season,2009-02-03,2,87,away,FALSE,Notre Dame,70,Fighting Irish,Notre Dame Fighting Irish,Notre Dame

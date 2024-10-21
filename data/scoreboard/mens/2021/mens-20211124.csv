@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401371268,2021-11-24,2,252,home,FALSE,BYU,81,Cougars,BYU Cougars,BYU
-401371268,2021-11-24,2,2640,away,FALSE,Texas Southern,64,Tigers,Texas Southern Tigers,Texas Southern
-401372134,2021-11-24,2,130,home,FALSE,Michigan,65,Wolverines,Michigan Wolverines,Michigan
-401372134,2021-11-24,2,2627,away,FALSE,Tarleton State,54,Texans,Tarleton State Texans,Tarleton St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401371268,2022,regular-season,2021-11-24,2,252,home,FALSE,BYU,81,Cougars,BYU Cougars,BYU
+401371268,2022,regular-season,2021-11-24,2,2640,away,FALSE,Texas Southern,64,Tigers,Texas Southern Tigers,Texas Southern
+401372134,2022,regular-season,2021-11-24,2,130,home,FALSE,Michigan,65,Wolverines,Michigan Wolverines,Michigan
+401372134,2022,regular-season,2021-11-24,2,2627,away,FALSE,Tarleton State,54,Texans,Tarleton State Texans,Tarleton St

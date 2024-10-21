@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280200265,2008-01-20,2,265,home,FALSE,Washington State,69,Cougars,Washington State Cougars,Washington St
-280200265,2008-01-20,2,2483,away,FALSE,Oregon,60,Ducks,Oregon Ducks,Oregon
-280200084,2008-01-20,2,84,home,FALSE,Indiana,81,Hoosiers,Indiana Hoosiers,Indiana
-280200084,2008-01-20,2,213,away,FALSE,Penn State,65,Nittany Lions,Penn State Nittany Lions,Penn State
-280200135,2008-01-20,2,135,home,FALSE,Minnesota,73,Golden Gophers,Minnesota Golden Gophers,Minnesota
-280200135,2008-01-20,2,127,away,FALSE,Michigan State,78,Spartans,Michigan State Spartans,Michigan St
-280200041,2008-01-20,2,41,home,FALSE,UConn,89,Huskies,UConn Huskies,UConn
-280200041,2008-01-20,2,269,away,FALSE,Marquette,73,Golden Eagles,Marquette Golden Eagles,Marquette
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280200265,2008,regular-season,2008-01-20,2,265,home,FALSE,Washington State,69,Cougars,Washington State Cougars,Washington St
+280200265,2008,regular-season,2008-01-20,2,2483,away,FALSE,Oregon,60,Ducks,Oregon Ducks,Oregon
+280200084,2008,regular-season,2008-01-20,2,84,home,FALSE,Indiana,81,Hoosiers,Indiana Hoosiers,Indiana
+280200084,2008,regular-season,2008-01-20,2,213,away,FALSE,Penn State,65,Nittany Lions,Penn State Nittany Lions,Penn State
+280200135,2008,regular-season,2008-01-20,2,135,home,FALSE,Minnesota,73,Golden Gophers,Minnesota Golden Gophers,Minnesota
+280200135,2008,regular-season,2008-01-20,2,127,away,FALSE,Michigan State,78,Spartans,Michigan State Spartans,Michigan St
+280200041,2008,regular-season,2008-01-20,2,41,home,FALSE,UConn,89,Huskies,UConn Huskies,UConn
+280200041,2008,regular-season,2008-01-20,2,269,away,FALSE,Marquette,73,Golden Eagles,Marquette Golden Eagles,Marquette

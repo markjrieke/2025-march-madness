@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293580096,2009-12-23,2,96,home,FALSE,Kentucky,86,Wildcats,Kentucky Wildcats,Kentucky
-293580096,2009-12-23,2,299,away,FALSE,Long Beach State,73,Beach,Long Beach State Beach,Long Beach St
-293570277,2009-12-23,2,277,home,FALSE,West Virginia,76,Mountaineers,West Virginia Mountaineers,West Virginia
-293570277,2009-12-23,2,145,away,FALSE,Ole Miss,66,Rebels,Ole Miss Rebels,Ole Miss
-293570222,2009-12-23,2,222,home,FALSE,Villanova,97,Wildcats,Villanova Wildcats,Villanova
-293570222,2009-12-23,2,48,away,FALSE,Delaware,63,Blue Hens,Delaware Blue Hens,Delaware
-293570198,2009-12-23,2,198,home,FALSE,Oral Roberts,75,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-293570198,2009-12-23,2,167,away,FALSE,New Mexico,66,Lobos,New Mexico Lobos,New Mexico
-293580046,2009-12-23,2,46,home,FALSE,Georgetown,86,Hoyas,Georgetown Hoyas,Georgetown
-293580046,2009-12-23,2,108,away,FALSE,Harvard,70,Crimson,Harvard Crimson,Harvard
-293572633,2009-12-23,2,2633,home,FALSE,Tennessee,99,Volunteers,Tennessee Volunteers,Tennessee
-293572633,2009-12-23,2,2448,away,FALSE,North Carolina A&T,78,Aggies,North Carolina A&T Aggies,NC A&T
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293580096,2010,regular-season,2009-12-23,2,96,home,FALSE,Kentucky,86,Wildcats,Kentucky Wildcats,Kentucky
+293580096,2010,regular-season,2009-12-23,2,299,away,FALSE,Long Beach State,73,Beach,Long Beach State Beach,Long Beach St
+293570277,2010,regular-season,2009-12-23,2,277,home,FALSE,West Virginia,76,Mountaineers,West Virginia Mountaineers,West Virginia
+293570277,2010,regular-season,2009-12-23,2,145,away,FALSE,Ole Miss,66,Rebels,Ole Miss Rebels,Ole Miss
+293570222,2010,regular-season,2009-12-23,2,222,home,FALSE,Villanova,97,Wildcats,Villanova Wildcats,Villanova
+293570222,2010,regular-season,2009-12-23,2,48,away,FALSE,Delaware,63,Blue Hens,Delaware Blue Hens,Delaware
+293570198,2010,regular-season,2009-12-23,2,198,home,FALSE,Oral Roberts,75,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+293570198,2010,regular-season,2009-12-23,2,167,away,FALSE,New Mexico,66,Lobos,New Mexico Lobos,New Mexico
+293580046,2010,regular-season,2009-12-23,2,46,home,FALSE,Georgetown,86,Hoyas,Georgetown Hoyas,Georgetown
+293580046,2010,regular-season,2009-12-23,2,108,away,FALSE,Harvard,70,Crimson,Harvard Crimson,Harvard
+293572633,2010,regular-season,2009-12-23,2,2633,home,FALSE,Tennessee,99,Volunteers,Tennessee Volunteers,Tennessee
+293572633,2010,regular-season,2009-12-23,2,2448,away,FALSE,North Carolina A&T,78,Aggies,North Carolina A&T Aggies,NC A&T

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400914942,2017-02-12,2,275,home,FALSE,Wisconsin,59,Badgers,Wisconsin Badgers,Wisconsin
-400914942,2017-02-12,2,77,away,FALSE,Northwestern,66,Wildcats,Northwestern Wildcats,Northwestern
-400915672,2017-02-12,2,26,home,FALSE,UCLA,78,Bruins,UCLA Bruins,UCLA
-400915672,2017-02-12,2,204,away,FALSE,Oregon State,60,Beavers,Oregon State Beavers,Oregon St
-400916626,2017-02-12,2,2567,home,FALSE,SMU,60,Mustangs,SMU Mustangs,SMU
-400916626,2017-02-12,2,2132,away,FALSE,Cincinnati,51,Bearcats,Cincinnati Bearcats,Cincinnati
-400915438,2017-02-12,4,259,home,FALSE,Virginia Tech,80,Hokies,Virginia Tech Hokies,Virginia Tech
-400915438,2017-02-12,4,258,away,FALSE,Virginia,78,Cavaliers,Virginia Cavaliers,Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400914942,2017,regular-season,2017-02-12,2,275,home,FALSE,Wisconsin,59,Badgers,Wisconsin Badgers,Wisconsin
+400914942,2017,regular-season,2017-02-12,2,77,away,FALSE,Northwestern,66,Wildcats,Northwestern Wildcats,Northwestern
+400915672,2017,regular-season,2017-02-12,2,26,home,FALSE,UCLA,78,Bruins,UCLA Bruins,UCLA
+400915672,2017,regular-season,2017-02-12,2,204,away,FALSE,Oregon State,60,Beavers,Oregon State Beavers,Oregon St
+400916626,2017,regular-season,2017-02-12,2,2567,home,FALSE,SMU,60,Mustangs,SMU Mustangs,SMU
+400916626,2017,regular-season,2017-02-12,2,2132,away,FALSE,Cincinnati,51,Bearcats,Cincinnati Bearcats,Cincinnati
+400915438,2017,regular-season,2017-02-12,4,259,home,FALSE,Virginia Tech,80,Hokies,Virginia Tech Hokies,Virginia Tech
+400915438,2017,regular-season,2017-02-12,4,258,away,FALSE,Virginia,78,Cavaliers,Virginia Cavaliers,Virginia

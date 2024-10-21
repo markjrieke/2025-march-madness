@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400588423,2015-01-19,2,46,home,FALSE,Georgetown,78,Hoyas,Georgetown Hoyas,Georgetown
-400588423,2015-01-19,2,222,away,FALSE,Villanova,58,Wildcats,Villanova Wildcats,Villanova
-400587929,2015-01-19,2,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
-400587929,2015-01-19,2,221,away,FALSE,Pittsburgh,65,Panthers,Pittsburgh Panthers,Pitt
-400585803,2015-01-19,2,2305,home,FALSE,Kansas,85,Jayhawks,Kansas Jayhawks,Kansas
-400585803,2015-01-19,2,201,away,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
-400585802,2015-01-19,2,2628,home,FALSE,TCU,48,Horned Frogs,TCU Horned Frogs,TCU
-400585802,2015-01-19,2,251,away,FALSE,Texas,66,Longhorns,Texas Longhorns,Texas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400588423,2015,regular-season,2015-01-19,2,46,home,FALSE,Georgetown,78,Hoyas,Georgetown Hoyas,Georgetown
+400588423,2015,regular-season,2015-01-19,2,222,away,FALSE,Villanova,58,Wildcats,Villanova Wildcats,Villanova
+400587929,2015,regular-season,2015-01-19,2,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
+400587929,2015,regular-season,2015-01-19,2,221,away,FALSE,Pittsburgh,65,Panthers,Pittsburgh Panthers,Pitt
+400585803,2015,regular-season,2015-01-19,2,2305,home,FALSE,Kansas,85,Jayhawks,Kansas Jayhawks,Kansas
+400585803,2015,regular-season,2015-01-19,2,201,away,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
+400585802,2015,regular-season,2015-01-19,2,2628,home,FALSE,TCU,48,Horned Frogs,TCU Horned Frogs,TCU
+400585802,2015,regular-season,2015-01-19,2,251,away,FALSE,Texas,66,Longhorns,Texas Longhorns,Texas

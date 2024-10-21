@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400509833,2014-01-24,2,24,home,FALSE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
-400509833,2014-01-24,2,26,away,FALSE,UCLA,55,Bruins,UCLA Bruins,UCLA
-400509834,2014-01-24,2,254,home,FALSE,Utah,62,Utes,Utah Utes,Utah
-400509834,2014-01-24,2,9,away,FALSE,Arizona State,65,Sun Devils,Arizona State Sun Devils,Arizona St
-400509831,2014-01-24,2,25,home,FALSE,California,70,Golden Bears,California Golden Bears,California
-400509831,2014-01-24,2,30,away,FALSE,USC,77,Trojans,USC Trojans,USC
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400509833,2014,regular-season,2014-01-24,2,24,home,FALSE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
+400509833,2014,regular-season,2014-01-24,2,26,away,FALSE,UCLA,55,Bruins,UCLA Bruins,UCLA
+400509834,2014,regular-season,2014-01-24,2,254,home,FALSE,Utah,62,Utes,Utah Utes,Utah
+400509834,2014,regular-season,2014-01-24,2,9,away,FALSE,Arizona State,65,Sun Devils,Arizona State Sun Devils,Arizona St
+400509831,2014,regular-season,2014-01-24,2,25,home,FALSE,California,70,Golden Bears,California Golden Bears,California
+400509831,2014,regular-season,2014-01-24,2,30,away,FALSE,USC,77,Trojans,USC Trojans,USC

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400916585,2017-01-15,2,151,home,FALSE,East Carolina,46,Pirates,East Carolina Pirates,East Carolina
-400916585,2017-01-15,2,2132,away,FALSE,Cincinnati,55,Bearcats,Cincinnati Bearcats,Cincinnati
-400915627,2017-01-15,2,38,home,FALSE,Colorado,68,Buffaloes,Colorado Buffaloes,Colorado
-400915627,2017-01-15,2,30,away,FALSE,USC,71,Trojans,USC Trojans,USC
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400916585,2017,regular-season,2017-01-15,2,151,home,FALSE,East Carolina,46,Pirates,East Carolina Pirates,East Carolina
+400916585,2017,regular-season,2017-01-15,2,2132,away,FALSE,Cincinnati,55,Bearcats,Cincinnati Bearcats,Cincinnati
+400915627,2017,regular-season,2017-01-15,2,38,home,FALSE,Colorado,68,Buffaloes,Colorado Buffaloes,Colorado
+400915627,2017,regular-season,2017-01-15,2,30,away,FALSE,USC,71,Trojans,USC Trojans,USC

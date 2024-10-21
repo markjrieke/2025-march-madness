@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293270251,2009-11-23,2,2294,home,TRUE,Iowa,60,Hawkeyes,Iowa Hawkeyes,Iowa
-293270251,2009-11-23,2,251,away,TRUE,Texas,85,Longhorns,Texas Longhorns,Texas
-293272509,2009-11-23,2,2509,home,TRUE,Purdue,73,Boilermakers,Purdue Boilermakers,Purdue
-293272509,2009-11-23,2,2633,away,TRUE,Tennessee,72,Volunteers,Tennessee Volunteers,Tennessee
-293270153,2009-11-23,2,153,home,FALSE,North Carolina,93,Tar Heels,North Carolina Tar Heels,North Carolina
-293270153,2009-11-23,2,2241,away,FALSE,Gardner-Webb,72,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-293270097,2009-11-23,2,97,home,FALSE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
-293270097,2009-11-23,2,2026,away,FALSE,App State,53,Mountaineers,App State Mountaineers,App State
-293270228,2009-11-23,2,228,home,FALSE,Clemson,102,Tigers,Clemson Tigers,Clemson
-293270228,2009-11-23,2,2737,away,FALSE,Winthrop,66,Eagles,Winthrop Eagles,Winthrop
-293272124,2009-11-23,2,2124,home,FALSE,Chaminade,51,Silverswords,Chaminade Silverswords,Chaminade
-293272124,2009-11-23,2,120,away,FALSE,Maryland,79,Terrapins,Maryland Terrapins,Maryland
-293270238,2009-11-23,2,238,home,TRUE,Vanderbilt,58,Commodores,Vanderbilt Commodores,Vanderbilt
-293270238,2009-11-23,2,2132,away,TRUE,Cincinnati,67,Bearcats,Cincinnati Bearcats,Cincinnati
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293270251,2010,regular-season,2009-11-23,2,2294,home,TRUE,Iowa,60,Hawkeyes,Iowa Hawkeyes,Iowa
+293270251,2010,regular-season,2009-11-23,2,251,away,TRUE,Texas,85,Longhorns,Texas Longhorns,Texas
+293272509,2010,regular-season,2009-11-23,2,2509,home,TRUE,Purdue,73,Boilermakers,Purdue Boilermakers,Purdue
+293272509,2010,regular-season,2009-11-23,2,2633,away,TRUE,Tennessee,72,Volunteers,Tennessee Volunteers,Tennessee
+293270153,2010,regular-season,2009-11-23,2,153,home,FALSE,North Carolina,93,Tar Heels,North Carolina Tar Heels,North Carolina
+293270153,2010,regular-season,2009-11-23,2,2241,away,FALSE,Gardner-Webb,72,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+293270097,2010,regular-season,2009-11-23,2,97,home,FALSE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
+293270097,2010,regular-season,2009-11-23,2,2026,away,FALSE,App State,53,Mountaineers,App State Mountaineers,App State
+293270228,2010,regular-season,2009-11-23,2,228,home,FALSE,Clemson,102,Tigers,Clemson Tigers,Clemson
+293270228,2010,regular-season,2009-11-23,2,2737,away,FALSE,Winthrop,66,Eagles,Winthrop Eagles,Winthrop
+293272124,2010,regular-season,2009-11-23,2,2124,home,FALSE,Chaminade,51,Silverswords,Chaminade Silverswords,Chaminade
+293272124,2010,regular-season,2009-11-23,2,120,away,FALSE,Maryland,79,Terrapins,Maryland Terrapins,Maryland
+293270238,2010,regular-season,2009-11-23,2,238,home,TRUE,Vanderbilt,58,Commodores,Vanderbilt Commodores,Vanderbilt
+293270238,2010,regular-season,2009-11-23,2,2132,away,TRUE,Cincinnati,67,Bearcats,Cincinnati Bearcats,Cincinnati

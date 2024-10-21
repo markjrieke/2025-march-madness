@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400503794,2014-02-05,2,197,home,FALSE,Oklahoma State,76,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-400503794,2014-02-05,2,2305,away,FALSE,Kansas,74,Jayhawks,Kansas Jayhawks,Kansas
-400532114,2014-02-05,2,2572,home,FALSE,Southern Miss,68,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-400532114,2014-02-05,2,2393,away,FALSE,Middle Tennessee,56,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-400511296,2014-02-05,3,275,home,FALSE,Wisconsin,70,Badgers,Wisconsin Badgers,Wisconsin
-400511296,2014-02-05,3,158,away,FALSE,Nebraska,71,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400509927,2014-02-05,2,356,home,FALSE,Illinois,53,Fighting Illini,Illinois Fighting Illini,Illinois
-400509927,2014-02-05,2,127,away,FALSE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400503794,2014,regular-season,2014-02-05,2,197,home,FALSE,Oklahoma State,76,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+400503794,2014,regular-season,2014-02-05,2,2305,away,FALSE,Kansas,74,Jayhawks,Kansas Jayhawks,Kansas
+400532114,2014,regular-season,2014-02-05,2,2572,home,FALSE,Southern Miss,68,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+400532114,2014,regular-season,2014-02-05,2,2393,away,FALSE,Middle Tennessee,56,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+400511296,2014,regular-season,2014-02-05,3,275,home,FALSE,Wisconsin,70,Badgers,Wisconsin Badgers,Wisconsin
+400511296,2014,regular-season,2014-02-05,3,158,away,FALSE,Nebraska,71,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400509927,2014,regular-season,2014-02-05,2,356,home,FALSE,Illinois,53,Fighting Illini,Illinois Fighting Illini,Illinois
+400509927,2014,regular-season,2014-02-05,2,127,away,FALSE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St

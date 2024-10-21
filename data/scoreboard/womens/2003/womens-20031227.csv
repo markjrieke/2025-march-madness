@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-233610024,2003-12-27,2,24,home,FALSE,Stanford,88,Cardinal,Stanford Cardinal,Stanford
-233610024,2003-12-27,2,204,away,FALSE,Oregon State,65,Beavers,Oregon State Beavers,Oregon St
-233610059,2003-12-27,2,59,home,FALSE,Georgia Tech,62,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-233610059,2003-12-27,2,61,away,FALSE,Georgia,78,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-233610052,2003-12-27,2,52,home,FALSE,Florida State,68,Seminoles,Florida State Seminoles,Florida St
-233610052,2003-12-27,2,99,away,FALSE,LSU,75,Tigers,LSU Tigers,LSU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+233610024,2004,regular-season,2003-12-27,2,24,home,FALSE,Stanford,88,Cardinal,Stanford Cardinal,Stanford
+233610024,2004,regular-season,2003-12-27,2,204,away,FALSE,Oregon State,65,Beavers,Oregon State Beavers,Oregon St
+233610059,2004,regular-season,2003-12-27,2,59,home,FALSE,Georgia Tech,62,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+233610059,2004,regular-season,2003-12-27,2,61,away,FALSE,Georgia,78,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+233610052,2004,regular-season,2003-12-27,2,52,home,FALSE,Florida State,68,Seminoles,Florida State Seminoles,Florida St
+233610052,2004,regular-season,2003-12-27,2,99,away,FALSE,LSU,75,Tigers,LSU Tigers,LSU

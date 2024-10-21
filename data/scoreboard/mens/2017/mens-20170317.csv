@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400946433,2017-03-17,2,130,home,TRUE,Michigan,92,Wolverines,Michigan Wolverines,Michigan
-400946433,2017-03-17,2,197,away,TRUE,Oklahoma State,91,Cowboys,Oklahoma State Cowboys,Oklahoma St
-400946430,2017-03-17,2,239,home,TRUE,Baylor,91,Bears,Baylor Bears,Baylor
-400946430,2017-03-17,2,166,away,TRUE,New Mexico State,73,Aggies,New Mexico State Aggies,New Mexico St
-400946435,2017-03-17,2,8,home,TRUE,Arkansas,77,Razorbacks,Arkansas Razorbacks,Arkansas
-400946435,2017-03-17,2,2550,away,TRUE,Seton Hall,71,Pirates,Seton Hall Pirates,Seton Hall
-400946434,2017-03-17,2,2483,home,TRUE,Oregon,93,Ducks,Oregon Ducks,Oregon
-400946434,2017-03-17,2,314,away,TRUE,Iona,77,Gaels,Iona Gaels,Iona
-400946423,2017-03-17,2,97,home,TRUE,Louisville,78,Cardinals,Louisville Cardinals,Louisville
-400946423,2017-03-17,2,55,away,TRUE,Jacksonville State,63,Gamecocks,Jacksonville State Gamecocks,Jax State
-400946420,2017-03-17,2,2567,home,TRUE,SMU,65,Mustangs,SMU Mustangs,SMU
-400946420,2017-03-17,2,30,away,TRUE,USC,66,Trojans,USC Trojans,USC
-400946425,2017-03-17,2,153,home,TRUE,North Carolina,103,Tar Heels,North Carolina Tar Heels,North Carolina
-400946425,2017-03-17,2,2640,away,TRUE,Texas Southern,64,Tigers,Texas Southern Tigers,Texas Southern
-400946424,2017-03-17,2,156,home,TRUE,Creighton,72,Bluejays,Creighton Bluejays,Creighton
-400946424,2017-03-17,2,227,away,TRUE,Rhode Island,84,Rams,Rhode Island Rams,Rhode Island
-400946421,2017-03-17,2,2305,home,TRUE,Kansas,100,Jayhawks,Kansas Jayhawks,Kansas
-400946421,2017-03-17,2,302,away,TRUE,UC Davis,62,Aggies,UC Davis Aggies,UC Davis
-400946437,2017-03-17,2,2168,home,TRUE,Dayton,58,Flyers,Dayton Flyers,Dayton
-400946437,2017-03-17,2,2724,away,TRUE,Wichita State,64,Shockers,Wichita State Shockers,Wichita St
-400946419,2017-03-17,2,150,home,TRUE,Duke,87,Blue Devils,Duke Blue Devils,Duke
-400946419,2017-03-17,2,2653,away,TRUE,Troy,65,Trojans,Troy Trojans,Troy
-400946448,2017-03-17,2,2132,home,TRUE,Cincinnati,75,Bearcats,Cincinnati Bearcats,Cincinnati
-400946448,2017-03-17,2,2306,away,TRUE,Kansas State,61,Wildcats,Kansas State Wildcats,Kansas St
-400946431,2017-03-17,2,2390,home,TRUE,Miami,58,Hurricanes,Miami Hurricanes,Miami
-400946431,2017-03-17,2,127,away,TRUE,Michigan State,78,Spartans,Michigan State Spartans,Michigan St
-400946429,2017-03-17,2,2579,home,TRUE,South Carolina,93,Gamecocks,South Carolina Gamecocks,South Carolina
-400946429,2017-03-17,2,269,away,TRUE,Marquette,73,Golden Eagles,Marquette Golden Eagles,Marquette
-400946447,2017-03-17,2,96,home,TRUE,Kentucky,79,Wildcats,Kentucky Wildcats,Kentucky
-400946447,2017-03-17,2,94,away,TRUE,Northern Kentucky,70,Norse,Northern Kentucky Norse,N Kentucky
-400946438,2017-03-17,2,26,home,TRUE,UCLA,97,Bruins,UCLA Bruins,UCLA
-400946438,2017-03-17,2,2309,away,TRUE,Kent State,80,Golden Flashes,Kent State Golden Flashes,Kent State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400946433,2017,post-season,2017-03-17,2,130,home,TRUE,Michigan,92,Wolverines,Michigan Wolverines,Michigan
+400946433,2017,post-season,2017-03-17,2,197,away,TRUE,Oklahoma State,91,Cowboys,Oklahoma State Cowboys,Oklahoma St
+400946430,2017,post-season,2017-03-17,2,239,home,TRUE,Baylor,91,Bears,Baylor Bears,Baylor
+400946430,2017,post-season,2017-03-17,2,166,away,TRUE,New Mexico State,73,Aggies,New Mexico State Aggies,New Mexico St
+400946435,2017,post-season,2017-03-17,2,8,home,TRUE,Arkansas,77,Razorbacks,Arkansas Razorbacks,Arkansas
+400946435,2017,post-season,2017-03-17,2,2550,away,TRUE,Seton Hall,71,Pirates,Seton Hall Pirates,Seton Hall
+400946434,2017,post-season,2017-03-17,2,2483,home,TRUE,Oregon,93,Ducks,Oregon Ducks,Oregon
+400946434,2017,post-season,2017-03-17,2,314,away,TRUE,Iona,77,Gaels,Iona Gaels,Iona
+400946423,2017,post-season,2017-03-17,2,97,home,TRUE,Louisville,78,Cardinals,Louisville Cardinals,Louisville
+400946423,2017,post-season,2017-03-17,2,55,away,TRUE,Jacksonville State,63,Gamecocks,Jacksonville State Gamecocks,Jax State
+400946420,2017,post-season,2017-03-17,2,2567,home,TRUE,SMU,65,Mustangs,SMU Mustangs,SMU
+400946420,2017,post-season,2017-03-17,2,30,away,TRUE,USC,66,Trojans,USC Trojans,USC
+400946425,2017,post-season,2017-03-17,2,153,home,TRUE,North Carolina,103,Tar Heels,North Carolina Tar Heels,North Carolina
+400946425,2017,post-season,2017-03-17,2,2640,away,TRUE,Texas Southern,64,Tigers,Texas Southern Tigers,Texas Southern
+400946424,2017,post-season,2017-03-17,2,156,home,TRUE,Creighton,72,Bluejays,Creighton Bluejays,Creighton
+400946424,2017,post-season,2017-03-17,2,227,away,TRUE,Rhode Island,84,Rams,Rhode Island Rams,Rhode Island
+400946421,2017,post-season,2017-03-17,2,2305,home,TRUE,Kansas,100,Jayhawks,Kansas Jayhawks,Kansas
+400946421,2017,post-season,2017-03-17,2,302,away,TRUE,UC Davis,62,Aggies,UC Davis Aggies,UC Davis
+400946437,2017,post-season,2017-03-17,2,2168,home,TRUE,Dayton,58,Flyers,Dayton Flyers,Dayton
+400946437,2017,post-season,2017-03-17,2,2724,away,TRUE,Wichita State,64,Shockers,Wichita State Shockers,Wichita St
+400946419,2017,post-season,2017-03-17,2,150,home,TRUE,Duke,87,Blue Devils,Duke Blue Devils,Duke
+400946419,2017,post-season,2017-03-17,2,2653,away,TRUE,Troy,65,Trojans,Troy Trojans,Troy
+400946448,2017,post-season,2017-03-17,2,2132,home,TRUE,Cincinnati,75,Bearcats,Cincinnati Bearcats,Cincinnati
+400946448,2017,post-season,2017-03-17,2,2306,away,TRUE,Kansas State,61,Wildcats,Kansas State Wildcats,Kansas St
+400946431,2017,post-season,2017-03-17,2,2390,home,TRUE,Miami,58,Hurricanes,Miami Hurricanes,Miami
+400946431,2017,post-season,2017-03-17,2,127,away,TRUE,Michigan State,78,Spartans,Michigan State Spartans,Michigan St
+400946429,2017,post-season,2017-03-17,2,2579,home,TRUE,South Carolina,93,Gamecocks,South Carolina Gamecocks,South Carolina
+400946429,2017,post-season,2017-03-17,2,269,away,TRUE,Marquette,73,Golden Eagles,Marquette Golden Eagles,Marquette
+400946447,2017,post-season,2017-03-17,2,96,home,TRUE,Kentucky,79,Wildcats,Kentucky Wildcats,Kentucky
+400946447,2017,post-season,2017-03-17,2,94,away,TRUE,Northern Kentucky,70,Norse,Northern Kentucky Norse,N Kentucky
+400946438,2017,post-season,2017-03-17,2,26,home,TRUE,UCLA,97,Bruins,UCLA Bruins,UCLA
+400946438,2017,post-season,2017-03-17,2,2309,away,TRUE,Kent State,80,Golden Flashes,Kent State Golden Flashes,Kent State

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323240025,2012-11-19,2,25,home,FALSE,California,87,Golden Bears,California Golden Bears,California
-323240025,2012-11-19,2,13,away,FALSE,Cal Poly,61,Mustangs,Cal Poly Mustangs,Cal Poly
-323242509,2012-11-19,2,2509,home,FALSE,Purdue,59,Boilermakers,Purdue Boilermakers,Purdue
-323242509,2012-11-19,2,189,away,FALSE,Bowling Green,45,Falcons,Bowling Green Falcons,Bowling Green
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323240025,2013,regular-season,2012-11-19,2,25,home,FALSE,California,87,Golden Bears,California Golden Bears,California
+323240025,2013,regular-season,2012-11-19,2,13,away,FALSE,Cal Poly,61,Mustangs,Cal Poly Mustangs,Cal Poly
+323242509,2013,regular-season,2012-11-19,2,2509,home,FALSE,Purdue,59,Boilermakers,Purdue Boilermakers,Purdue
+323242509,2013,regular-season,2012-11-19,2,189,away,FALSE,Bowling Green,45,Falcons,Bowling Green Falcons,Bowling Green

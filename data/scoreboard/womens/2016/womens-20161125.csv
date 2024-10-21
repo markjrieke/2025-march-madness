@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400911853,2016-11-25,4,77,home,FALSE,Northwestern,73,Wildcats,Northwestern Wildcats,Northwestern
-400911853,2016-11-25,4,57,away,FALSE,Florida,68,Gators,Florida Gators,Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400911853,2017,regular-season,2016-11-25,4,77,home,FALSE,Northwestern,73,Wildcats,Northwestern Wildcats,Northwestern
+400911853,2017,regular-season,2016-11-25,4,57,away,FALSE,Florida,68,Gators,Florida Gators,Florida

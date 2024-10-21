@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400994522,2018-02-23,4,9,home,FALSE,Arizona State,44,Sun Devils,Arizona State Sun Devils,Arizona St
-400994522,2018-02-23,4,2483,away,FALSE,Oregon,57,Ducks,Oregon Ducks,Oregon
-400994524,2018-02-23,4,12,home,FALSE,Arizona,40,Wildcats,Arizona Wildcats,Arizona
-400994524,2018-02-23,4,204,away,FALSE,Oregon State,65,Beavers,Oregon State Beavers,Oregon St
-400994525,2018-02-23,4,264,home,FALSE,Washington,79,Huskies,Washington Huskies,Washington
-400994525,2018-02-23,4,24,away,FALSE,Stanford,86,Cardinal,Stanford Cardinal,Stanford
-400998394,2018-02-23,4,2739,home,FALSE,Green Bay,78,Phoenix,Green Bay Phoenix,Green Bay
-400998394,2018-02-23,4,2473,away,FALSE,Oakland,48,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400994522,2018,regular-season,2018-02-23,4,9,home,FALSE,Arizona State,44,Sun Devils,Arizona State Sun Devils,Arizona St
+400994522,2018,regular-season,2018-02-23,4,2483,away,FALSE,Oregon,57,Ducks,Oregon Ducks,Oregon
+400994524,2018,regular-season,2018-02-23,4,12,home,FALSE,Arizona,40,Wildcats,Arizona Wildcats,Arizona
+400994524,2018,regular-season,2018-02-23,4,204,away,FALSE,Oregon State,65,Beavers,Oregon State Beavers,Oregon St
+400994525,2018,regular-season,2018-02-23,4,264,home,FALSE,Washington,79,Huskies,Washington Huskies,Washington
+400994525,2018,regular-season,2018-02-23,4,24,away,FALSE,Stanford,86,Cardinal,Stanford Cardinal,Stanford
+400998394,2018,regular-season,2018-02-23,4,2739,home,FALSE,Green Bay,78,Phoenix,Green Bay Phoenix,Green Bay
+400998394,2018,regular-season,2018-02-23,4,2473,away,FALSE,Oakland,48,Golden Grizzlies,Oakland Golden Grizzlies,Oakland

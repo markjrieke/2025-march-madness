@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400507118,2014-01-17,2,2750,home,FALSE,Wright State,69,Raiders,Wright State Raiders,Wright St
-400507118,2014-01-17,2,2739,away,FALSE,Green Bay,79,Phoenix,Green Bay Phoenix,Green Bay
-400499154,2014-01-17,2,2454,home,FALSE,North Florida,86,Ospreys,North Florida Ospreys,North Florida
-400499154,2014-01-17,2,294,away,FALSE,Jacksonville,82,Dolphins,Jacksonville Dolphins,Jacksonville
-400500077,2014-01-17,2,71,home,FALSE,Bradley,66,Braves,Bradley Braves,Bradley
-400500077,2014-01-17,2,79,away,FALSE,Southern Illinois,60,Salukis,Southern Illinois Salukis,S Illinois
-400502587,2014-01-17,2,314,home,FALSE,Iona,83,Gaels,Iona Gaels,Iona
-400502587,2014-01-17,2,2099,away,FALSE,Canisius,85,Golden Griffins,Canisius Golden Griffins,Canisius
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400507118,2014,regular-season,2014-01-17,2,2750,home,FALSE,Wright State,69,Raiders,Wright State Raiders,Wright St
+400507118,2014,regular-season,2014-01-17,2,2739,away,FALSE,Green Bay,79,Phoenix,Green Bay Phoenix,Green Bay
+400499154,2014,regular-season,2014-01-17,2,2454,home,FALSE,North Florida,86,Ospreys,North Florida Ospreys,North Florida
+400499154,2014,regular-season,2014-01-17,2,294,away,FALSE,Jacksonville,82,Dolphins,Jacksonville Dolphins,Jacksonville
+400500077,2014,regular-season,2014-01-17,2,71,home,FALSE,Bradley,66,Braves,Bradley Braves,Bradley
+400500077,2014,regular-season,2014-01-17,2,79,away,FALSE,Southern Illinois,60,Salukis,Southern Illinois Salukis,S Illinois
+400502587,2014,regular-season,2014-01-17,2,314,home,FALSE,Iona,83,Gaels,Iona Gaels,Iona
+400502587,2014,regular-season,2014-01-17,2,2099,away,FALSE,Canisius,85,Golden Griffins,Canisius Golden Griffins,Canisius

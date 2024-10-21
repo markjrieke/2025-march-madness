@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401492702,2023-01-17,2,2655,home,FALSE,Tulane,60,Green Wave,Tulane Green Wave,Tulane
-401492702,2023-01-17,2,248,away,FALSE,Houston,80,Cougars,Houston Cougars,Houston
-401493400,2023-01-17,3,2306,home,FALSE,Kansas State,83,Wildcats,Kansas State Wildcats,Kansas St
-401493400,2023-01-17,3,2305,away,FALSE,Kansas,82,Jayhawks,Kansas Jayhawks,Kansas
-401484561,2023-01-17,2,238,home,FALSE,Vanderbilt,66,Commodores,Vanderbilt Commodores,Vanderbilt
-401484561,2023-01-17,2,333,away,FALSE,Alabama,78,Crimson Tide,Alabama Crimson Tide,Alabama
-401493401,2023-01-17,2,66,home,FALSE,Iowa State,78,Cyclones,Iowa State Cyclones,Iowa State
-401493401,2023-01-17,2,251,away,FALSE,Texas,67,Longhorns,Texas Longhorns,Texas
-401484564,2023-01-17,2,344,home,FALSE,Mississippi State,59,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401484564,2023-01-17,2,2633,away,FALSE,Tennessee,70,Volunteers,Tennessee Volunteers,Tennessee
-401488437,2023-01-17,2,154,home,FALSE,Wake Forest,87,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-401488437,2023-01-17,2,228,away,FALSE,Clemson,77,Tigers,Clemson Tigers,Clemson
-401493402,2023-01-17,2,2641,home,FALSE,Texas Tech,74,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401493402,2023-01-17,2,239,away,FALSE,Baylor,81,Bears,Baylor Bears,Baylor
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401492702,2023,regular-season,2023-01-17,2,2655,home,FALSE,Tulane,60,Green Wave,Tulane Green Wave,Tulane
+401492702,2023,regular-season,2023-01-17,2,248,away,FALSE,Houston,80,Cougars,Houston Cougars,Houston
+401493400,2023,regular-season,2023-01-17,3,2306,home,FALSE,Kansas State,83,Wildcats,Kansas State Wildcats,Kansas St
+401493400,2023,regular-season,2023-01-17,3,2305,away,FALSE,Kansas,82,Jayhawks,Kansas Jayhawks,Kansas
+401484561,2023,regular-season,2023-01-17,2,238,home,FALSE,Vanderbilt,66,Commodores,Vanderbilt Commodores,Vanderbilt
+401484561,2023,regular-season,2023-01-17,2,333,away,FALSE,Alabama,78,Crimson Tide,Alabama Crimson Tide,Alabama
+401493401,2023,regular-season,2023-01-17,2,66,home,FALSE,Iowa State,78,Cyclones,Iowa State Cyclones,Iowa State
+401493401,2023,regular-season,2023-01-17,2,251,away,FALSE,Texas,67,Longhorns,Texas Longhorns,Texas
+401484564,2023,regular-season,2023-01-17,2,344,home,FALSE,Mississippi State,59,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401484564,2023,regular-season,2023-01-17,2,2633,away,FALSE,Tennessee,70,Volunteers,Tennessee Volunteers,Tennessee
+401488437,2023,regular-season,2023-01-17,2,154,home,FALSE,Wake Forest,87,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+401488437,2023,regular-season,2023-01-17,2,228,away,FALSE,Clemson,77,Tigers,Clemson Tigers,Clemson
+401493402,2023,regular-season,2023-01-17,2,2641,home,FALSE,Texas Tech,74,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401493402,2023,regular-season,2023-01-17,2,239,away,FALSE,Baylor,81,Bears,Baylor Bears,Baylor

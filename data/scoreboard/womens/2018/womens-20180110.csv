@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400994142,2018-01-10,4,2628,home,FALSE,TCU,79,Horned Frogs,TCU Horned Frogs,TCU
-400994142,2018-01-10,4,251,away,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
-400994086,2018-01-10,4,2305,home,FALSE,Kansas,54,Jayhawks,Kansas Jayhawks,Kansas
-400994086,2018-01-10,4,277,away,FALSE,West Virginia,74,Mountaineers,West Virginia Mountaineers,West Virginia
-400993817,2018-01-10,4,2509,home,FALSE,Purdue,47,Boilermakers,Purdue Boilermakers,Purdue
-400993817,2018-01-10,4,164,away,FALSE,Rutgers,33,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400993606,2018-01-10,4,130,home,FALSE,Michigan,84,Wolverines,Michigan Wolverines,Michigan
-400993606,2018-01-10,4,84,away,FALSE,Indiana,79,Hoosiers,Indiana Hoosiers,Indiana
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400994142,2018,regular-season,2018-01-10,4,2628,home,FALSE,TCU,79,Horned Frogs,TCU Horned Frogs,TCU
+400994142,2018,regular-season,2018-01-10,4,251,away,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
+400994086,2018,regular-season,2018-01-10,4,2305,home,FALSE,Kansas,54,Jayhawks,Kansas Jayhawks,Kansas
+400994086,2018,regular-season,2018-01-10,4,277,away,FALSE,West Virginia,74,Mountaineers,West Virginia Mountaineers,West Virginia
+400993817,2018,regular-season,2018-01-10,4,2509,home,FALSE,Purdue,47,Boilermakers,Purdue Boilermakers,Purdue
+400993817,2018,regular-season,2018-01-10,4,164,away,FALSE,Rutgers,33,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400993606,2018,regular-season,2018-01-10,4,130,home,FALSE,Michigan,84,Wolverines,Michigan Wolverines,Michigan
+400993606,2018,regular-season,2018-01-10,4,84,away,FALSE,Indiana,79,Hoosiers,Indiana Hoosiers,Indiana

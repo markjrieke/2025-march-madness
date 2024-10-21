@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213420201,2001-12-08,2,201,home,FALSE,Oklahoma,86,Sooners,Oklahoma Sooners,Oklahoma
-213420201,2001-12-08,2,147,away,FALSE,Montana State,62,Bobcats,Montana State Bobcats,Montana St
-213420077,2001-12-08,2,77,home,FALSE,Northwestern,61,Wildcats,Northwestern Wildcats,Northwestern
-213420077,2001-12-08,2,66,away,FALSE,Iowa State,71,Cyclones,Iowa State Cyclones,Iowa State
-213422509,2001-12-08,2,2509,home,FALSE,Purdue,82,Boilermakers,Purdue Boilermakers,Purdue
-213422509,2001-12-08,2,249,away,FALSE,North Texas,50,Mean Green,North Texas Mean Green,North Texas
-213420275,2001-12-08,2,275,home,FALSE,Wisconsin,65,Badgers,Wisconsin Badgers,Wisconsin
-213420275,2001-12-08,2,152,away,FALSE,NC State,48,Wolfpack,NC State Wolfpack,NC State
-213420046,2001-12-08,2,46,home,FALSE,Georgetown,54,Hoyas,Georgetown Hoyas,Georgetown
-213420046,2001-12-08,2,150,away,FALSE,Duke,89,Blue Devils,Duke Blue Devils,Duke
-213420026,2001-12-08,2,26,home,FALSE,UCLA,48,Bruins,UCLA Bruins,UCLA
-213420026,2001-12-08,2,38,away,FALSE,Colorado,79,Buffaloes,Colorado Buffaloes,Colorado
-213420153,2001-12-08,2,153,home,FALSE,North Carolina,99,Tar Heels,North Carolina Tar Heels,North Carolina
-213420153,2001-12-08,2,257,away,FALSE,Richmond,69,Spiders,Richmond Spiders,Richmond
-213420058,2001-12-08,2,58,home,FALSE,South Florida,66,Bulls,South Florida Bulls,South Florida
-213420058,2001-12-08,2,57,away,FALSE,Florida,90,Gators,Florida Gators,Florida
-213420120,2001-12-08,2,120,home,FALSE,Maryland,65,Terrapins,Maryland Terrapins,Maryland
-213420120,2001-12-08,2,213,away,FALSE,Penn State,67,Lady Lions,Penn State Lady Lions,Penn State
-213422579,2001-12-08,2,2579,home,FALSE,South Carolina,77,Gamecocks,South Carolina Gamecocks,South Carolina
-213422579,2001-12-08,2,2747,away,FALSE,Wofford,53,Terriers,Wofford Terriers,Wofford
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213420201,2002,regular-season,2001-12-08,2,201,home,FALSE,Oklahoma,86,Sooners,Oklahoma Sooners,Oklahoma
+213420201,2002,regular-season,2001-12-08,2,147,away,FALSE,Montana State,62,Bobcats,Montana State Bobcats,Montana St
+213420077,2002,regular-season,2001-12-08,2,77,home,FALSE,Northwestern,61,Wildcats,Northwestern Wildcats,Northwestern
+213420077,2002,regular-season,2001-12-08,2,66,away,FALSE,Iowa State,71,Cyclones,Iowa State Cyclones,Iowa State
+213422509,2002,regular-season,2001-12-08,2,2509,home,FALSE,Purdue,82,Boilermakers,Purdue Boilermakers,Purdue
+213422509,2002,regular-season,2001-12-08,2,249,away,FALSE,North Texas,50,Mean Green,North Texas Mean Green,North Texas
+213420275,2002,regular-season,2001-12-08,2,275,home,FALSE,Wisconsin,65,Badgers,Wisconsin Badgers,Wisconsin
+213420275,2002,regular-season,2001-12-08,2,152,away,FALSE,NC State,48,Wolfpack,NC State Wolfpack,NC State
+213420046,2002,regular-season,2001-12-08,2,46,home,FALSE,Georgetown,54,Hoyas,Georgetown Hoyas,Georgetown
+213420046,2002,regular-season,2001-12-08,2,150,away,FALSE,Duke,89,Blue Devils,Duke Blue Devils,Duke
+213420026,2002,regular-season,2001-12-08,2,26,home,FALSE,UCLA,48,Bruins,UCLA Bruins,UCLA
+213420026,2002,regular-season,2001-12-08,2,38,away,FALSE,Colorado,79,Buffaloes,Colorado Buffaloes,Colorado
+213420153,2002,regular-season,2001-12-08,2,153,home,FALSE,North Carolina,99,Tar Heels,North Carolina Tar Heels,North Carolina
+213420153,2002,regular-season,2001-12-08,2,257,away,FALSE,Richmond,69,Spiders,Richmond Spiders,Richmond
+213420058,2002,regular-season,2001-12-08,2,58,home,FALSE,South Florida,66,Bulls,South Florida Bulls,South Florida
+213420058,2002,regular-season,2001-12-08,2,57,away,FALSE,Florida,90,Gators,Florida Gators,Florida
+213420120,2002,regular-season,2001-12-08,2,120,home,FALSE,Maryland,65,Terrapins,Maryland Terrapins,Maryland
+213420120,2002,regular-season,2001-12-08,2,213,away,FALSE,Penn State,67,Lady Lions,Penn State Lady Lions,Penn State
+213422579,2002,regular-season,2001-12-08,2,2579,home,FALSE,South Carolina,77,Gamecocks,South Carolina Gamecocks,South Carolina
+213422579,2002,regular-season,2001-12-08,2,2747,away,FALSE,Wofford,53,Terriers,Wofford Terriers,Wofford

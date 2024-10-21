@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401253849,2021-01-06,2,239,home,FALSE,Baylor,76,Bears,Baylor Bears,Baylor
-401253849,2021-01-06,2,201,away,FALSE,Oklahoma,61,Sooners,Oklahoma Sooners,Oklahoma
-401269601,2021-01-06,2,156,home,FALSE,Creighton,89,Bluejays,Creighton Bluejays,Creighton
-401269601,2021-01-06,2,2550,away,FALSE,Seton Hall,53,Pirates,Seton Hall Pirates,Seton Hall
-401258730,2021-01-06,2,2633,home,FALSE,Tennessee,79,Volunteers,Tennessee Volunteers,Tennessee
-401258730,2021-01-06,2,8,away,FALSE,Arkansas,74,Razorbacks,Arkansas Razorbacks,Arkansas
-401263426,2021-01-06,2,130,home,FALSE,Michigan,82,Wolverines,Michigan Wolverines,Michigan
-401263426,2021-01-06,2,135,away,FALSE,Minnesota,57,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401264261,2021-01-06,2,248,home,FALSE,Houston,70,Cougars,Houston Cougars,Houston
-401264261,2021-01-06,2,2724,away,FALSE,Wichita State,63,Shockers,Wichita State Shockers,Wichita St
-401265061,2021-01-06,2,97,home,FALSE,Louisville,73,Cardinals,Louisville Cardinals,Louisville
-401265061,2021-01-06,2,259,away,FALSE,Virginia Tech,71,Hokies,Virginia Tech Hokies,Virginia Tech
-401265062,2021-01-06,2,258,home,FALSE,Virginia,70,Cavaliers,Virginia Cavaliers,Virginia
-401265062,2021-01-06,2,154,away,FALSE,Wake Forest,61,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-401260595,2021-01-06,0,2325,home,FALSE,La Salle,0,Explorers,La Salle Explorers,La Salle
-401260595,2021-01-06,0,139,away,FALSE,Saint Louis,0,Billikens,Saint Louis Billikens,Saint Louis
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401253849,2021,regular-season,2021-01-06,2,239,home,FALSE,Baylor,76,Bears,Baylor Bears,Baylor
+401253849,2021,regular-season,2021-01-06,2,201,away,FALSE,Oklahoma,61,Sooners,Oklahoma Sooners,Oklahoma
+401269601,2021,regular-season,2021-01-06,2,156,home,FALSE,Creighton,89,Bluejays,Creighton Bluejays,Creighton
+401269601,2021,regular-season,2021-01-06,2,2550,away,FALSE,Seton Hall,53,Pirates,Seton Hall Pirates,Seton Hall
+401258730,2021,regular-season,2021-01-06,2,2633,home,FALSE,Tennessee,79,Volunteers,Tennessee Volunteers,Tennessee
+401258730,2021,regular-season,2021-01-06,2,8,away,FALSE,Arkansas,74,Razorbacks,Arkansas Razorbacks,Arkansas
+401263426,2021,regular-season,2021-01-06,2,130,home,FALSE,Michigan,82,Wolverines,Michigan Wolverines,Michigan
+401263426,2021,regular-season,2021-01-06,2,135,away,FALSE,Minnesota,57,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401264261,2021,regular-season,2021-01-06,2,248,home,FALSE,Houston,70,Cougars,Houston Cougars,Houston
+401264261,2021,regular-season,2021-01-06,2,2724,away,FALSE,Wichita State,63,Shockers,Wichita State Shockers,Wichita St
+401265061,2021,regular-season,2021-01-06,2,97,home,FALSE,Louisville,73,Cardinals,Louisville Cardinals,Louisville
+401265061,2021,regular-season,2021-01-06,2,259,away,FALSE,Virginia Tech,71,Hokies,Virginia Tech Hokies,Virginia Tech
+401265062,2021,regular-season,2021-01-06,2,258,home,FALSE,Virginia,70,Cavaliers,Virginia Cavaliers,Virginia
+401265062,2021,regular-season,2021-01-06,2,154,away,FALSE,Wake Forest,61,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+401260595,2021,regular-season,2021-01-06,0,2325,home,FALSE,La Salle,0,Explorers,La Salle Explorers,La Salle
+401260595,2021,regular-season,2021-01-06,0,139,away,FALSE,Saint Louis,0,Billikens,Saint Louis Billikens,Saint Louis

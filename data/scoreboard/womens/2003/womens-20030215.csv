@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230460099,2003-02-15,5,99,home,FALSE,LSU,94,Tigers,LSU Tigers,LSU
-230460099,2003-02-15,5,2540,away,FALSE,UC Santa Barbara,90,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-230462306,2003-02-15,2,2306,home,FALSE,Kansas State,64,Wildcats,Kansas State Wildcats,Kansas St
-230462306,2003-02-15,2,197,away,FALSE,Oklahoma State,46,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-230460265,2003-02-15,2,265,home,FALSE,Washington State,41,Cougars,Washington State Cougars,Washington St
-230460265,2003-02-15,2,24,away,FALSE,Stanford,84,Cardinal,Stanford Cardinal,Stanford
-230460239,2003-02-15,3,239,home,FALSE,Baylor,86,Bears,Baylor Bears,Baylor
-230460239,2003-02-15,3,2641,away,FALSE,Texas Tech,72,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-230462348,2003-02-15,2,2348,home,FALSE,Louisiana Tech,79,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-230462348,2003-02-15,2,2440,away,FALSE,Nevada,67,Wolf Pack,Nevada Wolf Pack,Nevada
-230460066,2003-02-15,2,66,home,FALSE,Iowa State,55,Cyclones,Iowa State Cyclones,Iowa State
-230460066,2003-02-15,2,251,away,FALSE,Texas,65,Longhorns,Texas Longhorns,Texas
-230462739,2003-02-15,2,2739,home,FALSE,Green Bay,98,Phoenix,Green Bay Phoenix,Green Bay
-230462739,2003-02-15,2,2350,away,FALSE,Loyola Chicago,61,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230460099,2003,regular-season,2003-02-15,5,99,home,FALSE,LSU,94,Tigers,LSU Tigers,LSU
+230460099,2003,regular-season,2003-02-15,5,2540,away,FALSE,UC Santa Barbara,90,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+230462306,2003,regular-season,2003-02-15,2,2306,home,FALSE,Kansas State,64,Wildcats,Kansas State Wildcats,Kansas St
+230462306,2003,regular-season,2003-02-15,2,197,away,FALSE,Oklahoma State,46,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+230460265,2003,regular-season,2003-02-15,2,265,home,FALSE,Washington State,41,Cougars,Washington State Cougars,Washington St
+230460265,2003,regular-season,2003-02-15,2,24,away,FALSE,Stanford,84,Cardinal,Stanford Cardinal,Stanford
+230460239,2003,regular-season,2003-02-15,3,239,home,FALSE,Baylor,86,Bears,Baylor Bears,Baylor
+230460239,2003,regular-season,2003-02-15,3,2641,away,FALSE,Texas Tech,72,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+230462348,2003,regular-season,2003-02-15,2,2348,home,FALSE,Louisiana Tech,79,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+230462348,2003,regular-season,2003-02-15,2,2440,away,FALSE,Nevada,67,Wolf Pack,Nevada Wolf Pack,Nevada
+230460066,2003,regular-season,2003-02-15,2,66,home,FALSE,Iowa State,55,Cyclones,Iowa State Cyclones,Iowa State
+230460066,2003,regular-season,2003-02-15,2,251,away,FALSE,Texas,65,Longhorns,Texas Longhorns,Texas
+230462739,2003,regular-season,2003-02-15,2,2739,home,FALSE,Green Bay,98,Phoenix,Green Bay Phoenix,Green Bay
+230462739,2003,regular-season,2003-02-15,2,2350,away,FALSE,Loyola Chicago,61,Ramblers,Loyola Chicago Ramblers,Loyola Chicago

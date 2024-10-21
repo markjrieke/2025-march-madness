@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300800194,2010-03-21,2,194,home,TRUE,Ohio State,93,Buckeyes,Ohio State Buckeyes,Ohio State
-300800194,2010-03-21,2,2598,away,TRUE,St. Francis (PA),59,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-300800238,2010-03-21,3,238,home,TRUE,Vanderbilt,83,Commodores,Vanderbilt Commodores,Vanderbilt
-300800238,2010-03-21,3,305,away,TRUE,DePaul,76,Blue Demons,DePaul Blue Demons,DePaul
-300800041,2010-03-21,2,41,home,TRUE,UConn,95,Huskies,UConn Huskies,UConn
-300800041,2010-03-21,2,2582,away,TRUE,Southern,39,Jaguars,Southern Jaguars,Southern
-300800275,2010-03-21,2,275,home,TRUE,Wisconsin,55,Badgers,Wisconsin Badgers,Wisconsin
-300800275,2010-03-21,2,261,away,TRUE,Vermont,64,Catamounts,Vermont Catamounts,Vermont
-300800344,2010-03-21,2,344,home,TRUE,Mississippi State,68,Bulldogs,Mississippi State Bulldogs,Mississippi St
-300800344,2010-03-21,2,2393,away,TRUE,Middle Tennessee,64,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-300800218,2010-03-21,2,218,home,TRUE,Temple,65,Owls,Temple Owls,Temple
-300800218,2010-03-21,2,256,away,TRUE,James Madison,53,Dukes,James Madison Dukes,James Madison
-300800087,2010-03-21,2,87,home,FALSE,Notre Dame,86,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-300800087,2010-03-21,2,325,away,FALSE,Cleveland State,58,Vikings,Cleveland State Vikings,Cleveland St
-300802752,2010-03-21,2,2752,home,TRUE,Xavier,94,Musketeers,Xavier Musketeers,Xavier
-300802752,2010-03-21,2,2193,away,TRUE,East Tennessee State,82,Bucs,East Tennessee State Bucs,ETSU
-300800158,2010-03-21,2,158,home,FALSE,Nebraska,83,Cornhuskers,Nebraska Cornhuskers,Nebraska
-300800158,2010-03-21,2,2460,away,FALSE,Northern Iowa,44,Panthers,Northern Iowa Panthers,Northern Iowa
-300800251,2010-03-21,2,251,home,TRUE,Texas,63,Longhorns,Texas Longhorns,Texas
-300800251,2010-03-21,2,21,away,TRUE,San Diego State,74,Aztecs,San Diego State Aztecs,San Diego St
-300800059,2010-03-21,2,59,home,TRUE,Georgia Tech,53,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-300800059,2010-03-21,2,2031,away,TRUE,Little Rock,63,Trojans,Little Rock Trojans,Little Rock
-300800258,2010-03-21,2,258,home,TRUE,Virginia,67,Cavaliers,Virginia Cavaliers,Virginia
-300800258,2010-03-21,2,2739,away,TRUE,Green Bay,69,Phoenix,Green Bay Phoenix,Green Bay
-300800026,2010-03-21,2,26,home,TRUE,UCLA,74,Bruins,UCLA Bruins,UCLA
-300800026,2010-03-21,2,152,away,TRUE,NC State,54,Wolfpack,NC State Wolfpack,NC State
-300800201,2010-03-21,2,201,home,TRUE,Oklahoma,68,Sooners,Oklahoma Sooners,Oklahoma
-300800201,2010-03-21,2,2571,away,TRUE,South Dakota State,57,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-300800277,2010-03-21,2,277,home,TRUE,West Virginia,58,Mountaineers,West Virginia Mountaineers,West Virginia
-300800277,2010-03-21,2,2320,away,TRUE,Lamar,43,Cardinals,Lamar Cardinals,Lamar
-300800066,2010-03-21,2,66,home,FALSE,Iowa State,79,Cyclones,Iowa State Cyclones,Iowa State
-300800066,2010-03-21,2,2329,away,FALSE,Lehigh,42,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300800194,2010,post-season,2010-03-21,2,194,home,TRUE,Ohio State,93,Buckeyes,Ohio State Buckeyes,Ohio State
+300800194,2010,post-season,2010-03-21,2,2598,away,TRUE,St. Francis (PA),59,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+300800238,2010,post-season,2010-03-21,3,238,home,TRUE,Vanderbilt,83,Commodores,Vanderbilt Commodores,Vanderbilt
+300800238,2010,post-season,2010-03-21,3,305,away,TRUE,DePaul,76,Blue Demons,DePaul Blue Demons,DePaul
+300800041,2010,post-season,2010-03-21,2,41,home,TRUE,UConn,95,Huskies,UConn Huskies,UConn
+300800041,2010,post-season,2010-03-21,2,2582,away,TRUE,Southern,39,Jaguars,Southern Jaguars,Southern
+300800275,2010,post-season,2010-03-21,2,275,home,TRUE,Wisconsin,55,Badgers,Wisconsin Badgers,Wisconsin
+300800275,2010,post-season,2010-03-21,2,261,away,TRUE,Vermont,64,Catamounts,Vermont Catamounts,Vermont
+300800344,2010,post-season,2010-03-21,2,344,home,TRUE,Mississippi State,68,Bulldogs,Mississippi State Bulldogs,Mississippi St
+300800344,2010,post-season,2010-03-21,2,2393,away,TRUE,Middle Tennessee,64,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+300800218,2010,post-season,2010-03-21,2,218,home,TRUE,Temple,65,Owls,Temple Owls,Temple
+300800218,2010,post-season,2010-03-21,2,256,away,TRUE,James Madison,53,Dukes,James Madison Dukes,James Madison
+300800087,2010,post-season,2010-03-21,2,87,home,FALSE,Notre Dame,86,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+300800087,2010,post-season,2010-03-21,2,325,away,FALSE,Cleveland State,58,Vikings,Cleveland State Vikings,Cleveland St
+300802752,2010,post-season,2010-03-21,2,2752,home,TRUE,Xavier,94,Musketeers,Xavier Musketeers,Xavier
+300802752,2010,post-season,2010-03-21,2,2193,away,TRUE,East Tennessee State,82,Bucs,East Tennessee State Bucs,ETSU
+300800158,2010,post-season,2010-03-21,2,158,home,FALSE,Nebraska,83,Cornhuskers,Nebraska Cornhuskers,Nebraska
+300800158,2010,post-season,2010-03-21,2,2460,away,FALSE,Northern Iowa,44,Panthers,Northern Iowa Panthers,Northern Iowa
+300800251,2010,post-season,2010-03-21,2,251,home,TRUE,Texas,63,Longhorns,Texas Longhorns,Texas
+300800251,2010,post-season,2010-03-21,2,21,away,TRUE,San Diego State,74,Aztecs,San Diego State Aztecs,San Diego St
+300800059,2010,post-season,2010-03-21,2,59,home,TRUE,Georgia Tech,53,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+300800059,2010,post-season,2010-03-21,2,2031,away,TRUE,Little Rock,63,Trojans,Little Rock Trojans,Little Rock
+300800258,2010,post-season,2010-03-21,2,258,home,TRUE,Virginia,67,Cavaliers,Virginia Cavaliers,Virginia
+300800258,2010,post-season,2010-03-21,2,2739,away,TRUE,Green Bay,69,Phoenix,Green Bay Phoenix,Green Bay
+300800026,2010,post-season,2010-03-21,2,26,home,TRUE,UCLA,74,Bruins,UCLA Bruins,UCLA
+300800026,2010,post-season,2010-03-21,2,152,away,TRUE,NC State,54,Wolfpack,NC State Wolfpack,NC State
+300800201,2010,post-season,2010-03-21,2,201,home,TRUE,Oklahoma,68,Sooners,Oklahoma Sooners,Oklahoma
+300800201,2010,post-season,2010-03-21,2,2571,away,TRUE,South Dakota State,57,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+300800277,2010,post-season,2010-03-21,2,277,home,TRUE,West Virginia,58,Mountaineers,West Virginia Mountaineers,West Virginia
+300800277,2010,post-season,2010-03-21,2,2320,away,TRUE,Lamar,43,Cardinals,Lamar Cardinals,Lamar
+300800066,2010,post-season,2010-03-21,2,66,home,FALSE,Iowa State,79,Cyclones,Iowa State Cyclones,Iowa State
+300800066,2010,post-season,2010-03-21,2,2329,away,FALSE,Lehigh,42,Mountain Hawks,Lehigh Mountain Hawks,Lehigh

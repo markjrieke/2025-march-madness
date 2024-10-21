@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400912094,2016-12-29,4,152,home,FALSE,NC State,70,Wolfpack,NC State Wolfpack,NC State
-400912094,2016-12-29,4,87,away,FALSE,Notre Dame,62,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400905160,2016-12-29,4,239,home,FALSE,Baylor,87,Bears,Baylor Bears,Baylor
-400905160,2016-12-29,4,2306,away,FALSE,Kansas State,57,Wildcats,Kansas State Wildcats,Kansas St
-400912093,2016-12-29,4,2390,home,FALSE,Miami,66,Hurricanes,Miami Hurricanes,Miami
-400912093,2016-12-29,4,52,away,FALSE,Florida State,81,Seminoles,Florida State Seminoles,Florida St
-400912092,2016-12-29,4,97,home,FALSE,Louisville,91,Cardinals,Louisville Cardinals,Louisville
-400912092,2016-12-29,4,183,away,FALSE,Syracuse,76,Orange,Syracuse Orange,Syracuse
-400911135,2016-12-29,4,2628,home,FALSE,TCU,61,Horned Frogs,TCU Horned Frogs,TCU
-400911135,2016-12-29,4,277,away,FALSE,West Virginia,83,Mountaineers,West Virginia Mountaineers,West Virginia
-400912090,2016-12-29,4,150,home,FALSE,Duke,69,Blue Devils,Duke Blue Devils,Duke
-400912090,2016-12-29,4,96,away,FALSE,Kentucky,54,Wildcats,Kentucky Wildcats,Kentucky
-400911137,2016-12-29,4,251,home,FALSE,Texas,67,Longhorns,Texas Longhorns,Texas
-400911137,2016-12-29,4,2641,away,FALSE,Texas Tech,47,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-400913908,2016-12-29,4,12,home,FALSE,Arizona,64,Wildcats,Arizona Wildcats,Arizona
-400913908,2016-12-29,4,25,away,FALSE,California,74,Golden Bears,California Golden Bears,California
-400911136,2016-12-29,4,2305,home,FALSE,Kansas,54,Jayhawks,Kansas Jayhawks,Kansas
-400911136,2016-12-29,4,201,away,FALSE,Oklahoma,84,Sooners,Oklahoma Sooners,Oklahoma
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400912094,2017,regular-season,2016-12-29,4,152,home,FALSE,NC State,70,Wolfpack,NC State Wolfpack,NC State
+400912094,2017,regular-season,2016-12-29,4,87,away,FALSE,Notre Dame,62,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400905160,2017,regular-season,2016-12-29,4,239,home,FALSE,Baylor,87,Bears,Baylor Bears,Baylor
+400905160,2017,regular-season,2016-12-29,4,2306,away,FALSE,Kansas State,57,Wildcats,Kansas State Wildcats,Kansas St
+400912093,2017,regular-season,2016-12-29,4,2390,home,FALSE,Miami,66,Hurricanes,Miami Hurricanes,Miami
+400912093,2017,regular-season,2016-12-29,4,52,away,FALSE,Florida State,81,Seminoles,Florida State Seminoles,Florida St
+400912092,2017,regular-season,2016-12-29,4,97,home,FALSE,Louisville,91,Cardinals,Louisville Cardinals,Louisville
+400912092,2017,regular-season,2016-12-29,4,183,away,FALSE,Syracuse,76,Orange,Syracuse Orange,Syracuse
+400911135,2017,regular-season,2016-12-29,4,2628,home,FALSE,TCU,61,Horned Frogs,TCU Horned Frogs,TCU
+400911135,2017,regular-season,2016-12-29,4,277,away,FALSE,West Virginia,83,Mountaineers,West Virginia Mountaineers,West Virginia
+400912090,2017,regular-season,2016-12-29,4,150,home,FALSE,Duke,69,Blue Devils,Duke Blue Devils,Duke
+400912090,2017,regular-season,2016-12-29,4,96,away,FALSE,Kentucky,54,Wildcats,Kentucky Wildcats,Kentucky
+400911137,2017,regular-season,2016-12-29,4,251,home,FALSE,Texas,67,Longhorns,Texas Longhorns,Texas
+400911137,2017,regular-season,2016-12-29,4,2641,away,FALSE,Texas Tech,47,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+400913908,2017,regular-season,2016-12-29,4,12,home,FALSE,Arizona,64,Wildcats,Arizona Wildcats,Arizona
+400913908,2017,regular-season,2016-12-29,4,25,away,FALSE,California,74,Golden Bears,California Golden Bears,California
+400911136,2017,regular-season,2016-12-29,4,2305,home,FALSE,Kansas,54,Jayhawks,Kansas Jayhawks,Kansas
+400911136,2017,regular-season,2016-12-29,4,201,away,FALSE,Oklahoma,84,Sooners,Oklahoma Sooners,Oklahoma

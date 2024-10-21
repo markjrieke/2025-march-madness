@@ -1,35 +1,35 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400597390,2015-02-14,2,96,home,FALSE,Kentucky,77,Wildcats,Kentucky Wildcats,Kentucky
-400597390,2015-02-14,2,2579,away,FALSE,South Carolina,43,Gamecocks,South Carolina Gamecocks,South Carolina
-400599490,2015-02-14,2,258,home,FALSE,Virginia,61,Cavaliers,Virginia Cavaliers,Virginia
-400599490,2015-02-14,2,154,away,FALSE,Wake Forest,60,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-400587345,2015-02-14,2,2250,home,FALSE,Gonzaga,56,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400587345,2015-02-14,2,2492,away,FALSE,Pepperdine,48,Waves,Pepperdine Waves,Pepperdine
-400599487,2015-02-14,2,183,home,FALSE,Syracuse,72,Orange,Syracuse Orange,Syracuse
-400599487,2015-02-14,2,150,away,FALSE,Duke,80,Blue Devils,Duke Blue Devils,Duke
-400588458,2015-02-14,2,2086,home,FALSE,Butler,65,Bulldogs,Butler Bulldogs,Butler
-400588458,2015-02-14,2,222,away,FALSE,Villanova,68,Wildcats,Villanova Wildcats,Villanova
-400585837,2015-02-14,2,2305,home,FALSE,Kansas,74,Jayhawks,Kansas Jayhawks,Kansas
-400585837,2015-02-14,2,239,away,FALSE,Baylor,64,Bears,Baylor Bears,Baylor
-400599488,2015-02-14,2,97,home,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
-400599488,2015-02-14,2,152,away,FALSE,NC State,74,Wolfpack,NC State Wolfpack,NC State
-400599489,2015-02-14,2,221,home,FALSE,Pittsburgh,89,Panthers,Pittsburgh Panthers,Pitt
-400599489,2015-02-14,2,153,away,FALSE,North Carolina,76,Tar Heels,North Carolina Tar Heels,North Carolina
-400585838,2015-02-14,2,66,home,FALSE,Iowa State,79,Cyclones,Iowa State Cyclones,Iowa State
-400585838,2015-02-14,2,277,away,FALSE,West Virginia,59,Mountaineers,West Virginia Mountaineers,West Virginia
-400586457,2015-02-14,2,2287,home,FALSE,Illinois State,62,Redbirds,Illinois State Redbirds,Illinois St
-400586457,2015-02-14,2,2724,away,FALSE,Wichita State,68,Shockers,Wichita State Shockers,Wichita St
-400585841,2015-02-14,2,2306,home,FALSE,Kansas State,59,Wildcats,Kansas State Wildcats,Kansas St
-400585841,2015-02-14,2,201,away,FALSE,Oklahoma,56,Sooners,Oklahoma Sooners,Oklahoma
-400595518,2015-02-14,2,213,home,FALSE,Penn State,73,Nittany Lions,Penn State Nittany Lions,Penn State
-400595518,2015-02-14,2,120,away,FALSE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
-400599722,2015-02-14,2,45,home,FALSE,George Washington,66,Revolutionaries,George Washington Revolutionaries,G Washington
-400599722,2015-02-14,2,2670,away,FALSE,VCU,79,Rams,VCU Rams,VCU
-400585839,2015-02-14,2,2628,home,FALSE,TCU,70,Horned Frogs,TCU Horned Frogs,TCU
-400585839,2015-02-14,2,197,away,FALSE,Oklahoma State,55,Cowboys,Oklahoma State Cowboys,Oklahoma St
-400595517,2015-02-14,2,127,home,FALSE,Michigan State,59,Spartans,Michigan State Spartans,Michigan St
-400595517,2015-02-14,2,194,away,FALSE,Ohio State,56,Buckeyes,Ohio State Buckeyes,Ohio State
-400597395,2015-02-14,2,145,home,FALSE,Ole Miss,70,Rebels,Ole Miss Rebels,Ole Miss
-400597395,2015-02-14,2,8,away,FALSE,Arkansas,71,Razorbacks,Arkansas Razorbacks,Arkansas
-400586830,2015-02-14,2,2567,home,FALSE,SMU,73,Mustangs,SMU Mustangs,SMU
-400586830,2015-02-14,2,41,away,FALSE,UConn,55,Huskies,UConn Huskies,UConn
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400597390,2015,regular-season,2015-02-14,2,96,home,FALSE,Kentucky,77,Wildcats,Kentucky Wildcats,Kentucky
+400597390,2015,regular-season,2015-02-14,2,2579,away,FALSE,South Carolina,43,Gamecocks,South Carolina Gamecocks,South Carolina
+400599490,2015,regular-season,2015-02-14,2,258,home,FALSE,Virginia,61,Cavaliers,Virginia Cavaliers,Virginia
+400599490,2015,regular-season,2015-02-14,2,154,away,FALSE,Wake Forest,60,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+400587345,2015,regular-season,2015-02-14,2,2250,home,FALSE,Gonzaga,56,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400587345,2015,regular-season,2015-02-14,2,2492,away,FALSE,Pepperdine,48,Waves,Pepperdine Waves,Pepperdine
+400599487,2015,regular-season,2015-02-14,2,183,home,FALSE,Syracuse,72,Orange,Syracuse Orange,Syracuse
+400599487,2015,regular-season,2015-02-14,2,150,away,FALSE,Duke,80,Blue Devils,Duke Blue Devils,Duke
+400588458,2015,regular-season,2015-02-14,2,2086,home,FALSE,Butler,65,Bulldogs,Butler Bulldogs,Butler
+400588458,2015,regular-season,2015-02-14,2,222,away,FALSE,Villanova,68,Wildcats,Villanova Wildcats,Villanova
+400585837,2015,regular-season,2015-02-14,2,2305,home,FALSE,Kansas,74,Jayhawks,Kansas Jayhawks,Kansas
+400585837,2015,regular-season,2015-02-14,2,239,away,FALSE,Baylor,64,Bears,Baylor Bears,Baylor
+400599488,2015,regular-season,2015-02-14,2,97,home,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
+400599488,2015,regular-season,2015-02-14,2,152,away,FALSE,NC State,74,Wolfpack,NC State Wolfpack,NC State
+400599489,2015,regular-season,2015-02-14,2,221,home,FALSE,Pittsburgh,89,Panthers,Pittsburgh Panthers,Pitt
+400599489,2015,regular-season,2015-02-14,2,153,away,FALSE,North Carolina,76,Tar Heels,North Carolina Tar Heels,North Carolina
+400585838,2015,regular-season,2015-02-14,2,66,home,FALSE,Iowa State,79,Cyclones,Iowa State Cyclones,Iowa State
+400585838,2015,regular-season,2015-02-14,2,277,away,FALSE,West Virginia,59,Mountaineers,West Virginia Mountaineers,West Virginia
+400586457,2015,regular-season,2015-02-14,2,2287,home,FALSE,Illinois State,62,Redbirds,Illinois State Redbirds,Illinois St
+400586457,2015,regular-season,2015-02-14,2,2724,away,FALSE,Wichita State,68,Shockers,Wichita State Shockers,Wichita St
+400585841,2015,regular-season,2015-02-14,2,2306,home,FALSE,Kansas State,59,Wildcats,Kansas State Wildcats,Kansas St
+400585841,2015,regular-season,2015-02-14,2,201,away,FALSE,Oklahoma,56,Sooners,Oklahoma Sooners,Oklahoma
+400595518,2015,regular-season,2015-02-14,2,213,home,FALSE,Penn State,73,Nittany Lions,Penn State Nittany Lions,Penn State
+400595518,2015,regular-season,2015-02-14,2,120,away,FALSE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
+400599722,2015,regular-season,2015-02-14,2,45,home,FALSE,George Washington,66,Revolutionaries,George Washington Revolutionaries,G Washington
+400599722,2015,regular-season,2015-02-14,2,2670,away,FALSE,VCU,79,Rams,VCU Rams,VCU
+400585839,2015,regular-season,2015-02-14,2,2628,home,FALSE,TCU,70,Horned Frogs,TCU Horned Frogs,TCU
+400585839,2015,regular-season,2015-02-14,2,197,away,FALSE,Oklahoma State,55,Cowboys,Oklahoma State Cowboys,Oklahoma St
+400595517,2015,regular-season,2015-02-14,2,127,home,FALSE,Michigan State,59,Spartans,Michigan State Spartans,Michigan St
+400595517,2015,regular-season,2015-02-14,2,194,away,FALSE,Ohio State,56,Buckeyes,Ohio State Buckeyes,Ohio State
+400597395,2015,regular-season,2015-02-14,2,145,home,FALSE,Ole Miss,70,Rebels,Ole Miss Rebels,Ole Miss
+400597395,2015,regular-season,2015-02-14,2,8,away,FALSE,Arkansas,71,Razorbacks,Arkansas Razorbacks,Arkansas
+400586830,2015,regular-season,2015-02-14,2,2567,home,FALSE,SMU,73,Mustangs,SMU Mustangs,SMU
+400586830,2015,regular-season,2015-02-14,2,41,away,FALSE,UConn,55,Huskies,UConn Huskies,UConn

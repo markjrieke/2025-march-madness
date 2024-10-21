@@ -1,37 +1,37 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330330084,2013-02-02,2,84,home,FALSE,Indiana,81,Hoosiers,Indiana Hoosiers,Indiana
-330330084,2013-02-02,2,130,away,FALSE,Michigan,73,Wolverines,Michigan Wolverines,Michigan
-330332305,2013-02-02,2,2305,home,FALSE,Kansas,80,Jayhawks,Kansas Jayhawks,Kansas
-330332305,2013-02-02,2,197,away,FALSE,Oklahoma State,85,Cowboys,Oklahoma State Cowboys,Oklahoma St
-330330057,2013-02-02,2,57,home,FALSE,Florida,78,Gators,Florida Gators,Florida
-330330057,2013-02-02,2,145,away,FALSE,Ole Miss,64,Rebels,Ole Miss Rebels,Ole Miss
-330330052,2013-02-02,2,52,home,FALSE,Florida State,60,Seminoles,Florida State Seminoles,Florida St
-330330052,2013-02-02,2,150,away,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
-330330221,2013-02-02,2,221,home,FALSE,Pittsburgh,65,Panthers,Pittsburgh Panthers,Pitt
-330330221,2013-02-02,2,183,away,FALSE,Syracuse,55,Orange,Syracuse Orange,Syracuse
-330330301,2013-02-02,2,301,home,FALSE,San Diego,63,Toreros,San Diego Toreros,San Diego
-330330301,2013-02-02,2,2250,away,FALSE,Gonzaga,65,Bulldogs,Gonzaga Bulldogs,Gonzaga
-330330265,2013-02-02,2,265,home,FALSE,Washington State,65,Cougars,Washington State Cougars,Washington St
-330330265,2013-02-02,2,12,away,FALSE,Arizona,79,Wildcats,Arizona Wildcats,Arizona
-330332086,2013-02-02,2,2086,home,FALSE,Butler,75,Bulldogs,Butler Bulldogs,Butler
-330332086,2013-02-02,2,227,away,FALSE,Rhode Island,68,Rams,Rhode Island Rams,Rhode Island
-330330025,2013-02-02,2,25,home,FALSE,California,58,Golden Bears,California Golden Bears,California
-330330025,2013-02-02,2,2483,away,FALSE,Oregon,54,Ducks,Oregon Ducks,Oregon
-330330158,2013-02-02,2,158,home,FALSE,Nebraska,56,Cornhuskers,Nebraska Cornhuskers,Nebraska
-330330158,2013-02-02,2,194,away,FALSE,Ohio State,63,Buckeyes,Ohio State Buckeyes,Ohio State
-330330152,2013-02-02,2,152,home,FALSE,NC State,78,Wolfpack,NC State Wolfpack,NC State
-330330152,2013-02-02,2,2390,away,FALSE,Miami,79,Hurricanes,Miami Hurricanes,Miami
-330332460,2013-02-02,2,2460,home,FALSE,Northern Iowa,57,Panthers,Northern Iowa Panthers,Northern Iowa
-330332460,2013-02-02,2,2724,away,FALSE,Wichita State,52,Shockers,Wichita State Shockers,Wichita St
-330330142,2013-02-02,2,142,home,FALSE,Missouri,91,Tigers,Missouri Tigers,Missouri
-330330142,2013-02-02,2,2,away,FALSE,Auburn,77,Tigers,Auburn Tigers,Auburn
-330330201,2013-02-02,2,201,home,FALSE,Oklahoma,50,Sooners,Oklahoma Sooners,Oklahoma
-330330201,2013-02-02,2,2306,away,FALSE,Kansas State,52,Wildcats,Kansas State Wildcats,Kansas St
-330330167,2013-02-02,2,167,home,FALSE,New Mexico,75,Lobos,New Mexico Lobos,New Mexico
-330330167,2013-02-02,2,2440,away,FALSE,Nevada,62,Wolf Pack,Nevada Wolf Pack,Nevada
-330330156,2013-02-02,2,156,home,FALSE,Creighton,75,Bluejays,Creighton Bluejays,Creighton
-330330156,2013-02-02,2,71,away,FALSE,Bradley,58,Braves,Bradley Braves,Bradley
-330332005,2013-02-02,2,2005,home,FALSE,Air Force,70,Falcons,Air Force Falcons,Air Force
-330332005,2013-02-02,2,21,away,FALSE,San Diego State,67,Aztecs,San Diego State Aztecs,San Diego St
-330332550,2013-02-02,2,2550,home,FALSE,Seton Hall,59,Pirates,Seton Hall Pirates,Seton Hall
-330332550,2013-02-02,2,2132,away,FALSE,Cincinnati,65,Bearcats,Cincinnati Bearcats,Cincinnati
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330330084,2013,regular-season,2013-02-02,2,84,home,FALSE,Indiana,81,Hoosiers,Indiana Hoosiers,Indiana
+330330084,2013,regular-season,2013-02-02,2,130,away,FALSE,Michigan,73,Wolverines,Michigan Wolverines,Michigan
+330332305,2013,regular-season,2013-02-02,2,2305,home,FALSE,Kansas,80,Jayhawks,Kansas Jayhawks,Kansas
+330332305,2013,regular-season,2013-02-02,2,197,away,FALSE,Oklahoma State,85,Cowboys,Oklahoma State Cowboys,Oklahoma St
+330330057,2013,regular-season,2013-02-02,2,57,home,FALSE,Florida,78,Gators,Florida Gators,Florida
+330330057,2013,regular-season,2013-02-02,2,145,away,FALSE,Ole Miss,64,Rebels,Ole Miss Rebels,Ole Miss
+330330052,2013,regular-season,2013-02-02,2,52,home,FALSE,Florida State,60,Seminoles,Florida State Seminoles,Florida St
+330330052,2013,regular-season,2013-02-02,2,150,away,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
+330330221,2013,regular-season,2013-02-02,2,221,home,FALSE,Pittsburgh,65,Panthers,Pittsburgh Panthers,Pitt
+330330221,2013,regular-season,2013-02-02,2,183,away,FALSE,Syracuse,55,Orange,Syracuse Orange,Syracuse
+330330301,2013,regular-season,2013-02-02,2,301,home,FALSE,San Diego,63,Toreros,San Diego Toreros,San Diego
+330330301,2013,regular-season,2013-02-02,2,2250,away,FALSE,Gonzaga,65,Bulldogs,Gonzaga Bulldogs,Gonzaga
+330330265,2013,regular-season,2013-02-02,2,265,home,FALSE,Washington State,65,Cougars,Washington State Cougars,Washington St
+330330265,2013,regular-season,2013-02-02,2,12,away,FALSE,Arizona,79,Wildcats,Arizona Wildcats,Arizona
+330332086,2013,regular-season,2013-02-02,2,2086,home,FALSE,Butler,75,Bulldogs,Butler Bulldogs,Butler
+330332086,2013,regular-season,2013-02-02,2,227,away,FALSE,Rhode Island,68,Rams,Rhode Island Rams,Rhode Island
+330330025,2013,regular-season,2013-02-02,2,25,home,FALSE,California,58,Golden Bears,California Golden Bears,California
+330330025,2013,regular-season,2013-02-02,2,2483,away,FALSE,Oregon,54,Ducks,Oregon Ducks,Oregon
+330330158,2013,regular-season,2013-02-02,2,158,home,FALSE,Nebraska,56,Cornhuskers,Nebraska Cornhuskers,Nebraska
+330330158,2013,regular-season,2013-02-02,2,194,away,FALSE,Ohio State,63,Buckeyes,Ohio State Buckeyes,Ohio State
+330330152,2013,regular-season,2013-02-02,2,152,home,FALSE,NC State,78,Wolfpack,NC State Wolfpack,NC State
+330330152,2013,regular-season,2013-02-02,2,2390,away,FALSE,Miami,79,Hurricanes,Miami Hurricanes,Miami
+330332460,2013,regular-season,2013-02-02,2,2460,home,FALSE,Northern Iowa,57,Panthers,Northern Iowa Panthers,Northern Iowa
+330332460,2013,regular-season,2013-02-02,2,2724,away,FALSE,Wichita State,52,Shockers,Wichita State Shockers,Wichita St
+330330142,2013,regular-season,2013-02-02,2,142,home,FALSE,Missouri,91,Tigers,Missouri Tigers,Missouri
+330330142,2013,regular-season,2013-02-02,2,2,away,FALSE,Auburn,77,Tigers,Auburn Tigers,Auburn
+330330201,2013,regular-season,2013-02-02,2,201,home,FALSE,Oklahoma,50,Sooners,Oklahoma Sooners,Oklahoma
+330330201,2013,regular-season,2013-02-02,2,2306,away,FALSE,Kansas State,52,Wildcats,Kansas State Wildcats,Kansas St
+330330167,2013,regular-season,2013-02-02,2,167,home,FALSE,New Mexico,75,Lobos,New Mexico Lobos,New Mexico
+330330167,2013,regular-season,2013-02-02,2,2440,away,FALSE,Nevada,62,Wolf Pack,Nevada Wolf Pack,Nevada
+330330156,2013,regular-season,2013-02-02,2,156,home,FALSE,Creighton,75,Bluejays,Creighton Bluejays,Creighton
+330330156,2013,regular-season,2013-02-02,2,71,away,FALSE,Bradley,58,Braves,Bradley Braves,Bradley
+330332005,2013,regular-season,2013-02-02,2,2005,home,FALSE,Air Force,70,Falcons,Air Force Falcons,Air Force
+330332005,2013,regular-season,2013-02-02,2,21,away,FALSE,San Diego State,67,Aztecs,San Diego State Aztecs,San Diego St
+330332550,2013,regular-season,2013-02-02,2,2550,home,FALSE,Seton Hall,59,Pirates,Seton Hall Pirates,Seton Hall
+330332550,2013,regular-season,2013-02-02,2,2132,away,FALSE,Cincinnati,65,Bearcats,Cincinnati Bearcats,Cincinnati

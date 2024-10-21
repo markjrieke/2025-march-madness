@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280130150,2008-01-13,2,150,home,FALSE,Duke,87,Blue Devils,Duke Blue Devils,Duke
-280130150,2008-01-13,2,258,away,FALSE,Virginia,65,Cavaliers,Virginia Cavaliers,Virginia
-280130084,2008-01-13,2,84,home,FALSE,Indiana,62,Hoosiers,Indiana Hoosiers,Indiana
-280130084,2008-01-13,2,356,away,FALSE,Illinois,58,Fighting Illini,Illinois Fighting Illini,Illinois
-280130227,2008-01-13,2,227,home,FALSE,Rhode Island,80,Rams,Rhode Island Rams,Rhode Island
-280130227,2008-01-13,2,2184,away,FALSE,Duquesne,78,Dukes,Duquesne Dukes,Duquesne
-280132483,2008-01-13,2,2483,home,FALSE,Oregon,71,Ducks,Oregon Ducks,Oregon
-280132483,2008-01-13,2,24,away,FALSE,Stanford,66,Cardinal,Stanford Cardinal,Stanford
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280130150,2008,regular-season,2008-01-13,2,150,home,FALSE,Duke,87,Blue Devils,Duke Blue Devils,Duke
+280130150,2008,regular-season,2008-01-13,2,258,away,FALSE,Virginia,65,Cavaliers,Virginia Cavaliers,Virginia
+280130084,2008,regular-season,2008-01-13,2,84,home,FALSE,Indiana,62,Hoosiers,Indiana Hoosiers,Indiana
+280130084,2008,regular-season,2008-01-13,2,356,away,FALSE,Illinois,58,Fighting Illini,Illinois Fighting Illini,Illinois
+280130227,2008,regular-season,2008-01-13,2,227,home,FALSE,Rhode Island,80,Rams,Rhode Island Rams,Rhode Island
+280130227,2008,regular-season,2008-01-13,2,2184,away,FALSE,Duquesne,78,Dukes,Duquesne Dukes,Duquesne
+280132483,2008,regular-season,2008-01-13,2,2483,home,FALSE,Oregon,71,Ducks,Oregon Ducks,Oregon
+280132483,2008,regular-season,2008-01-13,2,24,away,FALSE,Stanford,66,Cardinal,Stanford Cardinal,Stanford

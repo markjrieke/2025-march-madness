@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280480238,2008-02-17,2,238,home,FALSE,Vanderbilt,68,Commodores,Vanderbilt Commodores,Vanderbilt
-280480238,2008-02-17,2,2633,away,FALSE,Tennessee,81,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-280480221,2008-02-17,2,221,home,FALSE,Pittsburgh,64,Panthers,Pittsburgh Panthers,Pitt
-280480221,2008-02-17,2,41,away,FALSE,UConn,90,Huskies,UConn Huskies,UConn
-280480153,2008-02-17,2,153,home,FALSE,North Carolina,97,Tar Heels,North Carolina Tar Heels,North Carolina
-280480153,2008-02-17,2,52,away,FALSE,Florida State,77,Seminoles,Florida State Seminoles,Florida St
-280480150,2008-02-17,2,150,home,FALSE,Duke,69,Blue Devils,Duke Blue Devils,Duke
-280480150,2008-02-17,2,120,away,FALSE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
-280480099,2008-02-17,2,99,home,FALSE,LSU,78,Tigers,LSU Tigers,LSU
-280480099,2008-02-17,2,145,away,FALSE,Ole Miss,48,Rebels,Ole Miss Rebels,Ole Miss
-280480239,2008-02-17,2,239,home,FALSE,Baylor,79,Bears,Baylor Bears,Baylor
-280480239,2008-02-17,2,201,away,FALSE,Oklahoma,59,Sooners,Oklahoma Sooners,Oklahoma
-280480119,2008-02-17,2,119,home,FALSE,Towson,61,Tigers,Towson Tigers,Towson
-280480119,2008-02-17,2,295,away,FALSE,Old Dominion,73,Monarchs,Old Dominion Monarchs,Old Dominion
-280480197,2008-02-17,2,197,home,FALSE,Oklahoma State,57,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-280480197,2008-02-17,2,66,away,FALSE,Iowa State,62,Cyclones,Iowa State Cyclones,Iowa State
-280480142,2008-02-17,2,142,home,FALSE,Missouri,40,Tigers,Missouri Tigers,Missouri
-280480142,2008-02-17,2,2306,away,FALSE,Kansas State,56,Wildcats,Kansas State Wildcats,Kansas St
-280480245,2008-02-17,2,245,home,FALSE,Texas A&M,70,Aggies,Texas A&M Aggies,Texas A&M
-280480245,2008-02-17,2,2641,away,FALSE,Texas Tech,56,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280480238,2008,regular-season,2008-02-17,2,238,home,FALSE,Vanderbilt,68,Commodores,Vanderbilt Commodores,Vanderbilt
+280480238,2008,regular-season,2008-02-17,2,2633,away,FALSE,Tennessee,81,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+280480221,2008,regular-season,2008-02-17,2,221,home,FALSE,Pittsburgh,64,Panthers,Pittsburgh Panthers,Pitt
+280480221,2008,regular-season,2008-02-17,2,41,away,FALSE,UConn,90,Huskies,UConn Huskies,UConn
+280480153,2008,regular-season,2008-02-17,2,153,home,FALSE,North Carolina,97,Tar Heels,North Carolina Tar Heels,North Carolina
+280480153,2008,regular-season,2008-02-17,2,52,away,FALSE,Florida State,77,Seminoles,Florida State Seminoles,Florida St
+280480150,2008,regular-season,2008-02-17,2,150,home,FALSE,Duke,69,Blue Devils,Duke Blue Devils,Duke
+280480150,2008,regular-season,2008-02-17,2,120,away,FALSE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
+280480099,2008,regular-season,2008-02-17,2,99,home,FALSE,LSU,78,Tigers,LSU Tigers,LSU
+280480099,2008,regular-season,2008-02-17,2,145,away,FALSE,Ole Miss,48,Rebels,Ole Miss Rebels,Ole Miss
+280480239,2008,regular-season,2008-02-17,2,239,home,FALSE,Baylor,79,Bears,Baylor Bears,Baylor
+280480239,2008,regular-season,2008-02-17,2,201,away,FALSE,Oklahoma,59,Sooners,Oklahoma Sooners,Oklahoma
+280480119,2008,regular-season,2008-02-17,2,119,home,FALSE,Towson,61,Tigers,Towson Tigers,Towson
+280480119,2008,regular-season,2008-02-17,2,295,away,FALSE,Old Dominion,73,Monarchs,Old Dominion Monarchs,Old Dominion
+280480197,2008,regular-season,2008-02-17,2,197,home,FALSE,Oklahoma State,57,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+280480197,2008,regular-season,2008-02-17,2,66,away,FALSE,Iowa State,62,Cyclones,Iowa State Cyclones,Iowa State
+280480142,2008,regular-season,2008-02-17,2,142,home,FALSE,Missouri,40,Tigers,Missouri Tigers,Missouri
+280480142,2008,regular-season,2008-02-17,2,2306,away,FALSE,Kansas State,56,Wildcats,Kansas State Wildcats,Kansas St
+280480245,2008,regular-season,2008-02-17,2,245,home,FALSE,Texas A&M,70,Aggies,Texas A&M Aggies,Texas A&M
+280480245,2008,regular-season,2008-02-17,2,2641,away,FALSE,Texas Tech,56,Lady Raiders,Texas Tech Lady Raiders,Texas Tech

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401372482,2021-11-27,2,2439,home,FALSE,UNLV,51,Rebels,UNLV Rebels,UNLV
-401372482,2021-11-27,2,26,away,FALSE,UCLA,73,Bruins,UCLA Bruins,UCLA
-401371783,2021-11-27,2,179,home,FALSE,St. Bonaventure,80,Bonnies,St. Bonaventure Bonnies,St Bonaventure
-401371783,2021-11-27,2,2460,away,FALSE,Northern Iowa,90,Panthers,Northern Iowa Panthers,Northern Iowa
-401372607,2021-11-27,2,12,home,FALSE,Arizona,105,Wildcats,Arizona Wildcats,Arizona
-401372607,2021-11-27,2,16,away,FALSE,Sacramento State,59,Hornets,Sacramento State Hornets,Sacramento St
-401371273,2021-11-27,2,254,home,FALSE,Utah,64,Utes,Utah Utes,Utah
-401371273,2021-11-27,2,252,away,FALSE,BYU,75,Cougars,BYU Cougars,BYU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401372482,2022,regular-season,2021-11-27,2,2439,home,FALSE,UNLV,51,Rebels,UNLV Rebels,UNLV
+401372482,2022,regular-season,2021-11-27,2,26,away,FALSE,UCLA,73,Bruins,UCLA Bruins,UCLA
+401371783,2022,regular-season,2021-11-27,2,179,home,FALSE,St. Bonaventure,80,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+401371783,2022,regular-season,2021-11-27,2,2460,away,FALSE,Northern Iowa,90,Panthers,Northern Iowa Panthers,Northern Iowa
+401372607,2022,regular-season,2021-11-27,2,12,home,FALSE,Arizona,105,Wildcats,Arizona Wildcats,Arizona
+401372607,2022,regular-season,2021-11-27,2,16,away,FALSE,Sacramento State,59,Hornets,Sacramento State Hornets,Sacramento St
+401371273,2022,regular-season,2021-11-27,2,254,home,FALSE,Utah,64,Utes,Utah Utes,Utah
+401371273,2022,regular-season,2021-11-27,2,252,away,FALSE,BYU,75,Cougars,BYU Cougars,BYU

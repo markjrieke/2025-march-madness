@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213342294,2001-11-30,2,2294,home,FALSE,Iowa,73,Hawkeyes,Iowa Hawkeyes,Iowa
-213342294,2001-11-30,2,2011,away,FALSE,Alabama State,64,Hornets,Alabama State Hornets,Alabama St
-213342050,2001-11-30,2,2050,home,FALSE,Ball State,106,Cardinals,Ball State Cardinals,Ball State
-213342050,2001-11-30,2,2210,away,FALSE,Elon,65,Phoenix,Elon Phoenix,Elon
-213340269,2001-11-30,2,269,home,FALSE,Marquette,76,Golden Eagles,Marquette Golden Eagles,Marquette
-213340269,2001-11-30,2,2640,away,FALSE,Texas Southern,40,Tigers,Texas Southern Tigers,Texas Southern
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213342294,2002,regular-season,2001-11-30,2,2294,home,FALSE,Iowa,73,Hawkeyes,Iowa Hawkeyes,Iowa
+213342294,2002,regular-season,2001-11-30,2,2011,away,FALSE,Alabama State,64,Hornets,Alabama State Hornets,Alabama St
+213342050,2002,regular-season,2001-11-30,2,2050,home,FALSE,Ball State,106,Cardinals,Ball State Cardinals,Ball State
+213342050,2002,regular-season,2001-11-30,2,2210,away,FALSE,Elon,65,Phoenix,Elon Phoenix,Elon
+213340269,2002,regular-season,2001-11-30,2,269,home,FALSE,Marquette,76,Golden Eagles,Marquette Golden Eagles,Marquette
+213340269,2002,regular-season,2001-11-30,2,2640,away,FALSE,Texas Southern,40,Tigers,Texas Southern Tigers,Texas Southern

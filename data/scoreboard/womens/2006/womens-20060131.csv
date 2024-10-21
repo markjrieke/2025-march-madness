@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260310097,2006-01-31,2,97,home,FALSE,Louisville,68,Cardinals,Louisville Cardinals,Louisville
-260310097,2006-01-31,2,41,away,FALSE,UConn,75,Huskies,UConn Huskies,UConn
-260310201,2006-01-31,2,201,home,FALSE,Oklahoma,70,Sooners,Oklahoma Sooners,Oklahoma
-260310201,2006-01-31,2,197,away,FALSE,Oklahoma State,54,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-260310277,2006-01-31,2,277,home,FALSE,West Virginia,82,Mountaineers,West Virginia Mountaineers,West Virginia
-260310277,2006-01-31,2,305,away,FALSE,DePaul,70,Blue Demons,DePaul Blue Demons,DePaul
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260310097,2006,regular-season,2006-01-31,2,97,home,FALSE,Louisville,68,Cardinals,Louisville Cardinals,Louisville
+260310097,2006,regular-season,2006-01-31,2,41,away,FALSE,UConn,75,Huskies,UConn Huskies,UConn
+260310201,2006,regular-season,2006-01-31,2,201,home,FALSE,Oklahoma,70,Sooners,Oklahoma Sooners,Oklahoma
+260310201,2006,regular-season,2006-01-31,2,197,away,FALSE,Oklahoma State,54,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+260310277,2006,regular-season,2006-01-31,2,277,home,FALSE,West Virginia,82,Mountaineers,West Virginia Mountaineers,West Virginia
+260310277,2006,regular-season,2006-01-31,2,305,away,FALSE,DePaul,70,Blue Demons,DePaul Blue Demons,DePaul

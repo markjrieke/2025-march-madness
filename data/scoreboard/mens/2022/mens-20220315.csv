@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401408572,2022-03-15,2,2640,home,TRUE,Texas Southern,76,Tigers,Texas Southern Tigers,Texas Southern
-401408572,2022-03-15,2,357,away,TRUE,Texas A&M-Corpus Christi,67,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-401408571,2022-03-15,2,2751,home,TRUE,Wyoming,58,Cowboys,Wyoming Cowboys,Wyoming
-401408571,2022-03-15,2,84,away,TRUE,Indiana,66,Hoosiers,Indiana Hoosiers,Indiana
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401408572,2022,post-season,2022-03-15,2,2640,home,TRUE,Texas Southern,76,Tigers,Texas Southern Tigers,Texas Southern
+401408572,2022,post-season,2022-03-15,2,357,away,TRUE,Texas A&M-Corpus Christi,67,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+401408571,2022,post-season,2022-03-15,2,2751,home,TRUE,Wyoming,58,Cowboys,Wyoming Cowboys,Wyoming
+401408571,2022,post-season,2022-03-15,2,84,away,TRUE,Indiana,66,Hoosiers,Indiana Hoosiers,Indiana

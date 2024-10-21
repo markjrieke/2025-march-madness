@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400787891,2015-04-05,2,87,home,TRUE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400787891,2015-04-05,2,2579,away,TRUE,South Carolina,65,Gamecocks,South Carolina Gamecocks,South Carolina
-400788020,2015-04-05,2,41,home,TRUE,UConn,81,Huskies,UConn Huskies,UConn
-400788020,2015-04-05,2,120,away,TRUE,Maryland,58,Terrapins,Maryland Terrapins,Maryland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400787891,2015,post-season,2015-04-05,2,87,home,TRUE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400787891,2015,post-season,2015-04-05,2,2579,away,TRUE,South Carolina,65,Gamecocks,South Carolina Gamecocks,South Carolina
+400788020,2015,post-season,2015-04-05,2,41,home,TRUE,UConn,81,Huskies,UConn Huskies,UConn
+400788020,2015,post-season,2015-04-05,2,120,away,TRUE,Maryland,58,Terrapins,Maryland Terrapins,Maryland

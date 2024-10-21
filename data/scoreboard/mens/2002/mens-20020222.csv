@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220532132,2002-02-22,2,2132,home,FALSE,Cincinnati,63,Bearcats,Cincinnati Bearcats,Cincinnati
-220532132,2002-02-22,2,269,away,FALSE,Marquette,62,Golden Eagles,Marquette Golden Eagles,Marquette
-220532539,2002-02-22,2,2539,home,FALSE,San Francisco,54,Dons,San Francisco Dons,San Francisco
-220532539,2002-02-22,2,2250,away,FALSE,Gonzaga,70,Bulldogs,Gonzaga Bulldogs,Gonzaga
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220532132,2002,regular-season,2002-02-22,2,2132,home,FALSE,Cincinnati,63,Bearcats,Cincinnati Bearcats,Cincinnati
+220532132,2002,regular-season,2002-02-22,2,269,away,FALSE,Marquette,62,Golden Eagles,Marquette Golden Eagles,Marquette
+220532539,2002,regular-season,2002-02-22,2,2539,home,FALSE,San Francisco,54,Dons,San Francisco Dons,San Francisco
+220532539,2002,regular-season,2002-02-22,2,2250,away,FALSE,Gonzaga,70,Bulldogs,Gonzaga Bulldogs,Gonzaga

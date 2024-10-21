@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323460130,2012-12-11,2,130,home,FALSE,Michigan,67,Wolverines,Michigan Wolverines,Michigan
-323460130,2012-12-11,2,2066,away,FALSE,Binghamton,39,Bearcats,Binghamton Bearcats,Binghamton
-323460356,2012-12-11,2,356,home,FALSE,Illinois,64,Fighting Illini,Illinois Fighting Illini,Illinois
-323460356,2012-12-11,2,2450,away,FALSE,Norfolk State,54,Spartans,Norfolk State Spartans,Norfolk St
-323460135,2012-12-11,2,135,home,FALSE,Minnesota,70,Golden Gophers,Minnesota Golden Gophers,Minnesota
-323460135,2012-12-11,2,2449,away,FALSE,North Dakota State,57,Bison,North Dakota State Bison,N Dakota St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323460130,2013,regular-season,2012-12-11,2,130,home,FALSE,Michigan,67,Wolverines,Michigan Wolverines,Michigan
+323460130,2013,regular-season,2012-12-11,2,2066,away,FALSE,Binghamton,39,Bearcats,Binghamton Bearcats,Binghamton
+323460356,2013,regular-season,2012-12-11,2,356,home,FALSE,Illinois,64,Fighting Illini,Illinois Fighting Illini,Illinois
+323460356,2013,regular-season,2012-12-11,2,2450,away,FALSE,Norfolk State,54,Spartans,Norfolk State Spartans,Norfolk St
+323460135,2013,regular-season,2012-12-11,2,135,home,FALSE,Minnesota,70,Golden Gophers,Minnesota Golden Gophers,Minnesota
+323460135,2013,regular-season,2012-12-11,2,2449,away,FALSE,North Dakota State,57,Bison,North Dakota State Bison,N Dakota St

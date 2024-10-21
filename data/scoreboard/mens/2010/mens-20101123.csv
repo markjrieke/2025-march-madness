@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303272306,2010-11-23,2,2306,home,TRUE,Kansas State,68,Wildcats,Kansas State Wildcats,Kansas St
-303272306,2010-11-23,2,150,away,TRUE,Duke,82,Blue Devils,Duke Blue Devils,Duke
-303270127,2010-11-23,2,127,home,TRUE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
-303270127,2010-11-23,2,41,away,TRUE,UConn,70,Huskies,UConn Huskies,UConn
-303270194,2010-11-23,2,194,home,FALSE,Ohio State,64,Buckeyes,Ohio State Buckeyes,Ohio State
-303270194,2010-11-23,2,2413,away,FALSE,Morehead State,45,Eagles,Morehead State Eagles,Morehead St
-303270221,2010-11-23,2,221,home,FALSE,Pittsburgh,74,Panthers,Pittsburgh Panthers,Pitt
-303270221,2010-11-23,2,2523,away,FALSE,Robert Morris,53,Colonials,Robert Morris Colonials,Robert Morris
-303272305,2010-11-23,2,2305,home,FALSE,Kansas,82,Jayhawks,Kansas Jayhawks,Kansas
-303272305,2010-11-23,2,357,away,FALSE,Texas A&M-Corpus Christi,41,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-303270264,2010-11-23,2,264,home,TRUE,Washington,67,Huskies,Washington Huskies,Washington
-303270264,2010-11-23,2,96,away,TRUE,Kentucky,74,Wildcats,Kentucky Wildcats,Kentucky
-303272509,2010-11-23,2,2509,home,FALSE,Purdue,87,Boilermakers,Purdue Boilermakers,Purdue
-303272509,2010-11-23,2,2046,away,FALSE,Austin Peay,65,Governors,Austin Peay Governors,Austin Peay
-303270142,2010-11-23,2,142,home,TRUE,Missouri,72,Tigers,Missouri Tigers,Missouri
-303270142,2010-11-23,2,2751,away,TRUE,Wyoming,62,Cowboys,Wyoming Cowboys,Wyoming
-303270235,2010-11-23,2,235,home,FALSE,Memphis,102,Tigers,Memphis Tigers,Memphis
-303270235,2010-11-23,2,2630,away,FALSE,UT Martin,80,Skyhawks,UT Martin Skyhawks,UT Martin
-303270057,2010-11-23,2,57,home,FALSE,Florida,79,Gators,Florida Gators,Florida
-303270057,2010-11-23,2,2226,away,FALSE,Florida Atlantic,66,Owls,Florida Atlantic Owls,FAU
-303270356,2010-11-23,2,356,home,FALSE,Illinois,73,Fighting Illini,Illinois Fighting Illini,Illinois
-303270356,2010-11-23,2,43,away,FALSE,Yale,47,Bulldogs,Yale Bulldogs,Yale
-303270251,2010-11-23,2,251,home,FALSE,Texas,84,Longhorns,Texas Longhorns,Texas
-303270251,2010-11-23,2,2534,away,FALSE,Sam Houston,50,Bearkats,Sam Houston Bearkats,Sam Houston
-303270269,2010-11-23,2,269,home,TRUE,Marquette,63,Golden Eagles,Marquette Golden Eagles,Marquette
-303270269,2010-11-23,2,2250,away,TRUE,Gonzaga,66,Bulldogs,Gonzaga Bulldogs,Gonzaga
-303270252,2010-11-23,2,252,home,FALSE,BYU,86,Cougars,BYU Cougars,BYU
-303270252,2010-11-23,2,2400,away,FALSE,Mississippi Valley State,36,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
-303270153,2010-11-23,2,153,home,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
-303270153,2010-11-23,2,2427,away,FALSE,UNC Asheville,69,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303272306,2011,regular-season,2010-11-23,2,2306,home,TRUE,Kansas State,68,Wildcats,Kansas State Wildcats,Kansas St
+303272306,2011,regular-season,2010-11-23,2,150,away,TRUE,Duke,82,Blue Devils,Duke Blue Devils,Duke
+303270127,2011,regular-season,2010-11-23,2,127,home,TRUE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
+303270127,2011,regular-season,2010-11-23,2,41,away,TRUE,UConn,70,Huskies,UConn Huskies,UConn
+303270194,2011,regular-season,2010-11-23,2,194,home,FALSE,Ohio State,64,Buckeyes,Ohio State Buckeyes,Ohio State
+303270194,2011,regular-season,2010-11-23,2,2413,away,FALSE,Morehead State,45,Eagles,Morehead State Eagles,Morehead St
+303270221,2011,regular-season,2010-11-23,2,221,home,FALSE,Pittsburgh,74,Panthers,Pittsburgh Panthers,Pitt
+303270221,2011,regular-season,2010-11-23,2,2523,away,FALSE,Robert Morris,53,Colonials,Robert Morris Colonials,Robert Morris
+303272305,2011,regular-season,2010-11-23,2,2305,home,FALSE,Kansas,82,Jayhawks,Kansas Jayhawks,Kansas
+303272305,2011,regular-season,2010-11-23,2,357,away,FALSE,Texas A&M-Corpus Christi,41,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+303270264,2011,regular-season,2010-11-23,2,264,home,TRUE,Washington,67,Huskies,Washington Huskies,Washington
+303270264,2011,regular-season,2010-11-23,2,96,away,TRUE,Kentucky,74,Wildcats,Kentucky Wildcats,Kentucky
+303272509,2011,regular-season,2010-11-23,2,2509,home,FALSE,Purdue,87,Boilermakers,Purdue Boilermakers,Purdue
+303272509,2011,regular-season,2010-11-23,2,2046,away,FALSE,Austin Peay,65,Governors,Austin Peay Governors,Austin Peay
+303270142,2011,regular-season,2010-11-23,2,142,home,TRUE,Missouri,72,Tigers,Missouri Tigers,Missouri
+303270142,2011,regular-season,2010-11-23,2,2751,away,TRUE,Wyoming,62,Cowboys,Wyoming Cowboys,Wyoming
+303270235,2011,regular-season,2010-11-23,2,235,home,FALSE,Memphis,102,Tigers,Memphis Tigers,Memphis
+303270235,2011,regular-season,2010-11-23,2,2630,away,FALSE,UT Martin,80,Skyhawks,UT Martin Skyhawks,UT Martin
+303270057,2011,regular-season,2010-11-23,2,57,home,FALSE,Florida,79,Gators,Florida Gators,Florida
+303270057,2011,regular-season,2010-11-23,2,2226,away,FALSE,Florida Atlantic,66,Owls,Florida Atlantic Owls,FAU
+303270356,2011,regular-season,2010-11-23,2,356,home,FALSE,Illinois,73,Fighting Illini,Illinois Fighting Illini,Illinois
+303270356,2011,regular-season,2010-11-23,2,43,away,FALSE,Yale,47,Bulldogs,Yale Bulldogs,Yale
+303270251,2011,regular-season,2010-11-23,2,251,home,FALSE,Texas,84,Longhorns,Texas Longhorns,Texas
+303270251,2011,regular-season,2010-11-23,2,2534,away,FALSE,Sam Houston,50,Bearkats,Sam Houston Bearkats,Sam Houston
+303270269,2011,regular-season,2010-11-23,2,269,home,TRUE,Marquette,63,Golden Eagles,Marquette Golden Eagles,Marquette
+303270269,2011,regular-season,2010-11-23,2,2250,away,TRUE,Gonzaga,66,Bulldogs,Gonzaga Bulldogs,Gonzaga
+303270252,2011,regular-season,2010-11-23,2,252,home,FALSE,BYU,86,Cougars,BYU Cougars,BYU
+303270252,2011,regular-season,2010-11-23,2,2400,away,FALSE,Mississippi Valley State,36,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
+303270153,2011,regular-season,2010-11-23,2,153,home,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
+303270153,2011,regular-season,2010-11-23,2,2427,away,FALSE,UNC Asheville,69,Bulldogs,UNC Asheville Bulldogs,UNC Asheville

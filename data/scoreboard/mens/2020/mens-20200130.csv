@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401175260,2020-01-30,2,2541,home,FALSE,Santa Clara,72,Broncos,Santa Clara Broncos,Santa Clara
-401175260,2020-01-30,2,2250,away,FALSE,Gonzaga,87,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401170687,2020-01-30,2,25,home,FALSE,California,72,Golden Bears,California Golden Bears,California
-401170687,2020-01-30,2,2483,away,FALSE,Oregon,77,Ducks,Oregon Ducks,Oregon
-401166199,2020-01-30,2,120,home,FALSE,Maryland,82,Terrapins,Maryland Terrapins,Maryland
-401166199,2020-01-30,2,2294,away,FALSE,Iowa,72,Hawkeyes,Iowa Hawkeyes,Iowa
-401166198,2020-01-30,2,356,home,FALSE,Illinois,59,Fighting Illini,Illinois Fighting Illini,Illinois
-401166198,2020-01-30,2,135,away,FALSE,Minnesota,51,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401170689,2020-01-30,2,26,home,FALSE,UCLA,72,Bruins,UCLA Bruins,UCLA
-401170689,2020-01-30,2,38,away,FALSE,Colorado,68,Buffaloes,Colorado Buffaloes,Colorado
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401175260,2020,regular-season,2020-01-30,2,2541,home,FALSE,Santa Clara,72,Broncos,Santa Clara Broncos,Santa Clara
+401175260,2020,regular-season,2020-01-30,2,2250,away,FALSE,Gonzaga,87,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401170687,2020,regular-season,2020-01-30,2,25,home,FALSE,California,72,Golden Bears,California Golden Bears,California
+401170687,2020,regular-season,2020-01-30,2,2483,away,FALSE,Oregon,77,Ducks,Oregon Ducks,Oregon
+401166199,2020,regular-season,2020-01-30,2,120,home,FALSE,Maryland,82,Terrapins,Maryland Terrapins,Maryland
+401166199,2020,regular-season,2020-01-30,2,2294,away,FALSE,Iowa,72,Hawkeyes,Iowa Hawkeyes,Iowa
+401166198,2020,regular-season,2020-01-30,2,356,home,FALSE,Illinois,59,Fighting Illini,Illinois Fighting Illini,Illinois
+401166198,2020,regular-season,2020-01-30,2,135,away,FALSE,Minnesota,51,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401170689,2020,regular-season,2020-01-30,2,26,home,FALSE,UCLA,72,Bruins,UCLA Bruins,UCLA
+401170689,2020,regular-season,2020-01-30,2,38,away,FALSE,Colorado,68,Buffaloes,Colorado Buffaloes,Colorado

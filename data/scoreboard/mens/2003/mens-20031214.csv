@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-233480150,2003-12-14,2,150,home,FALSE,Duke,84,Blue Devils,Duke Blue Devils,Duke
-233480150,2003-12-14,2,2501,away,FALSE,Portland,43,Pilots,Portland Pilots,Portland
-233480251,2003-12-14,2,251,home,FALSE,Texas,89,Longhorns,Texas Longhorns,Texas
-233480251,2003-12-14,2,2443,away,FALSE,New Orleans,55,Privateers,New Orleans Privateers,New Orleans
-233480153,2003-12-14,2,153,home,FALSE,North Carolina,64,Tar Heels,North Carolina Tar Heels,North Carolina
-233480153,2003-12-14,2,2006,away,FALSE,Akron,53,Zips,Akron Zips,Akron
-233482182,2003-12-14,2,2182,home,FALSE,Drexel,70,Dragons,Drexel Dragons,Drexel
-233482182,2003-12-14,2,2603,away,FALSE,Saint Joseph's,92,Hawks,Saint Joseph's Hawks,Saint Joseph's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+233480150,2004,regular-season,2003-12-14,2,150,home,FALSE,Duke,84,Blue Devils,Duke Blue Devils,Duke
+233480150,2004,regular-season,2003-12-14,2,2501,away,FALSE,Portland,43,Pilots,Portland Pilots,Portland
+233480251,2004,regular-season,2003-12-14,2,251,home,FALSE,Texas,89,Longhorns,Texas Longhorns,Texas
+233480251,2004,regular-season,2003-12-14,2,2443,away,FALSE,New Orleans,55,Privateers,New Orleans Privateers,New Orleans
+233480153,2004,regular-season,2003-12-14,2,153,home,FALSE,North Carolina,64,Tar Heels,North Carolina Tar Heels,North Carolina
+233480153,2004,regular-season,2003-12-14,2,2006,away,FALSE,Akron,53,Zips,Akron Zips,Akron
+233482182,2004,regular-season,2003-12-14,2,2182,home,FALSE,Drexel,70,Dragons,Drexel Dragons,Drexel
+233482182,2004,regular-season,2003-12-14,2,2603,away,FALSE,Saint Joseph's,92,Hawks,Saint Joseph's Hawks,Saint Joseph's

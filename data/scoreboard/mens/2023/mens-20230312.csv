@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401515352,2023-03-12,2,43,home,TRUE,Yale,65,Bulldogs,Yale Bulldogs,Yale
-401515352,2023-03-12,2,163,away,TRUE,Princeton,74,Tigers,Princeton Tigers,Princeton
-401519358,2023-03-12,2,333,home,TRUE,Alabama,82,Crimson Tide,Alabama Crimson Tide,Alabama
-401519358,2023-03-12,2,245,away,TRUE,Texas A&M,63,Aggies,Texas A&M Aggies,Texas A&M
-401514234,2023-03-12,2,2670,home,TRUE,VCU,68,Rams,VCU Rams,VCU
-401514234,2023-03-12,2,2168,away,TRUE,Dayton,56,Flyers,Dayton Flyers,Dayton
-401515339,2023-03-12,2,248,home,TRUE,Houston,65,Cougars,Houston Cougars,Houston
-401515339,2023-03-12,2,235,away,TRUE,Memphis,75,Tigers,Memphis Tigers,Memphis
-401514426,2023-03-12,2,2509,home,TRUE,Purdue,67,Boilermakers,Purdue Boilermakers,Purdue
-401514426,2023-03-12,2,213,away,TRUE,Penn State,65,Nittany Lions,Penn State Nittany Lions,Penn State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401515352,2023,regular-season,2023-03-12,2,43,home,TRUE,Yale,65,Bulldogs,Yale Bulldogs,Yale
+401515352,2023,regular-season,2023-03-12,2,163,away,TRUE,Princeton,74,Tigers,Princeton Tigers,Princeton
+401519358,2023,regular-season,2023-03-12,2,333,home,TRUE,Alabama,82,Crimson Tide,Alabama Crimson Tide,Alabama
+401519358,2023,regular-season,2023-03-12,2,245,away,TRUE,Texas A&M,63,Aggies,Texas A&M Aggies,Texas A&M
+401514234,2023,regular-season,2023-03-12,2,2670,home,TRUE,VCU,68,Rams,VCU Rams,VCU
+401514234,2023,regular-season,2023-03-12,2,2168,away,TRUE,Dayton,56,Flyers,Dayton Flyers,Dayton
+401515339,2023,regular-season,2023-03-12,2,248,home,TRUE,Houston,65,Cougars,Houston Cougars,Houston
+401515339,2023,regular-season,2023-03-12,2,235,away,TRUE,Memphis,75,Tigers,Memphis Tigers,Memphis
+401514426,2023,regular-season,2023-03-12,2,2509,home,TRUE,Purdue,67,Boilermakers,Purdue Boilermakers,Purdue
+401514426,2023,regular-season,2023-03-12,2,213,away,TRUE,Penn State,65,Nittany Lions,Penn State Nittany Lions,Penn State

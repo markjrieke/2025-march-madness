@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253250251,2005-11-21,2,251,home,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
-253250251,2005-11-21,2,277,away,FALSE,West Virginia,75,Mountaineers,West Virginia Mountaineers,West Virginia
-253250041,2005-11-21,2,41,home,FALSE,UConn,77,Huskies,UConn Huskies,UConn
-253250041,2005-11-21,2,8,away,FALSE,Arkansas,68,Razorbacks,Arkansas Razorbacks,Arkansas
-253250096,2005-11-21,2,96,home,FALSE,Kentucky,63,Wildcats,Kentucky Wildcats,Kentucky
-253250096,2005-11-21,2,2294,away,FALSE,Iowa,67,Hawkeyes,Iowa Hawkeyes,Iowa
-253250120,2005-11-21,2,120,home,FALSE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
-253250120,2005-11-21,2,2250,away,FALSE,Gonzaga,88,Bulldogs,Gonzaga Bulldogs,Gonzaga
-253252305,2005-11-21,2,2305,home,FALSE,Kansas,49,Jayhawks,Kansas Jayhawks,Kansas
-253252305,2005-11-21,2,12,away,FALSE,Arizona,61,Wildcats,Arizona Wildcats,Arizona
-253252124,2005-11-21,2,2124,home,FALSE,Chaminade,67,Silverswords,Chaminade Silverswords,Chaminade
-253252124,2005-11-21,2,127,away,FALSE,Michigan State,89,Spartans,Michigan State Spartans,Michigan St
-253250084,2005-11-21,2,84,home,FALSE,Indiana,100,Hoosiers,Indiana Hoosiers,Indiana
-253250084,2005-11-21,2,50,away,FALSE,Florida A&M,63,Rattlers,Florida A&M Rattlers,Florida A&M
-253250154,2005-11-21,2,154,home,FALSE,Wake Forest,79,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-253250154,2005-11-21,2,2427,away,FALSE,UNC Asheville,63,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253250251,2006,regular-season,2005-11-21,2,251,home,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
+253250251,2006,regular-season,2005-11-21,2,277,away,FALSE,West Virginia,75,Mountaineers,West Virginia Mountaineers,West Virginia
+253250041,2006,regular-season,2005-11-21,2,41,home,FALSE,UConn,77,Huskies,UConn Huskies,UConn
+253250041,2006,regular-season,2005-11-21,2,8,away,FALSE,Arkansas,68,Razorbacks,Arkansas Razorbacks,Arkansas
+253250096,2006,regular-season,2005-11-21,2,96,home,FALSE,Kentucky,63,Wildcats,Kentucky Wildcats,Kentucky
+253250096,2006,regular-season,2005-11-21,2,2294,away,FALSE,Iowa,67,Hawkeyes,Iowa Hawkeyes,Iowa
+253250120,2006,regular-season,2005-11-21,2,120,home,FALSE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
+253250120,2006,regular-season,2005-11-21,2,2250,away,FALSE,Gonzaga,88,Bulldogs,Gonzaga Bulldogs,Gonzaga
+253252305,2006,regular-season,2005-11-21,2,2305,home,FALSE,Kansas,49,Jayhawks,Kansas Jayhawks,Kansas
+253252305,2006,regular-season,2005-11-21,2,12,away,FALSE,Arizona,61,Wildcats,Arizona Wildcats,Arizona
+253252124,2006,regular-season,2005-11-21,2,2124,home,FALSE,Chaminade,67,Silverswords,Chaminade Silverswords,Chaminade
+253252124,2006,regular-season,2005-11-21,2,127,away,FALSE,Michigan State,89,Spartans,Michigan State Spartans,Michigan St
+253250084,2006,regular-season,2005-11-21,2,84,home,FALSE,Indiana,100,Hoosiers,Indiana Hoosiers,Indiana
+253250084,2006,regular-season,2005-11-21,2,50,away,FALSE,Florida A&M,63,Rattlers,Florida A&M Rattlers,Florida A&M
+253250154,2006,regular-season,2005-11-21,2,154,home,FALSE,Wake Forest,79,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+253250154,2006,regular-season,2005-11-21,2,2427,away,FALSE,UNC Asheville,63,Bulldogs,UNC Asheville Bulldogs,UNC Asheville

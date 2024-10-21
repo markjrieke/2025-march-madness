@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401082670,2018-11-11,2,150,home,FALSE,Duke,94,Blue Devils,Duke Blue Devils,Duke
-401082670,2018-11-11,2,349,away,FALSE,Army,72,Black Knights,Army Black Knights,Army
-401082763,2018-11-11,2,258,home,FALSE,Virginia,76,Cavaliers,Virginia Cavaliers,Virginia
-401082763,2018-11-11,2,45,away,FALSE,George Washington,57,Revolutionaries,George Washington Revolutionaries,G Washington
-401082471,2018-11-11,2,127,home,FALSE,Michigan State,106,Spartans,Michigan State Spartans,Michigan St
-401082471,2018-11-11,2,526,away,FALSE,Florida Gulf Coast,82,Eagles,Florida Gulf Coast Eagles,FGCU
-401082696,2018-11-11,2,2655,home,FALSE,Tulane,69,Green Wave,Tulane Green Wave,Tulane
-401082696,2018-11-11,2,52,away,FALSE,Florida State,80,Seminoles,Florida State Seminoles,Florida St
-401083510,2018-11-11,2,2628,home,FALSE,TCU,79,Horned Frogs,TCU Horned Frogs,TCU
-401083510,2018-11-11,2,198,away,FALSE,Oral Roberts,62,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401082670,2019,regular-season,2018-11-11,2,150,home,FALSE,Duke,94,Blue Devils,Duke Blue Devils,Duke
+401082670,2019,regular-season,2018-11-11,2,349,away,FALSE,Army,72,Black Knights,Army Black Knights,Army
+401082763,2019,regular-season,2018-11-11,2,258,home,FALSE,Virginia,76,Cavaliers,Virginia Cavaliers,Virginia
+401082763,2019,regular-season,2018-11-11,2,45,away,FALSE,George Washington,57,Revolutionaries,George Washington Revolutionaries,G Washington
+401082471,2019,regular-season,2018-11-11,2,127,home,FALSE,Michigan State,106,Spartans,Michigan State Spartans,Michigan St
+401082471,2019,regular-season,2018-11-11,2,526,away,FALSE,Florida Gulf Coast,82,Eagles,Florida Gulf Coast Eagles,FGCU
+401082696,2019,regular-season,2018-11-11,2,2655,home,FALSE,Tulane,69,Green Wave,Tulane Green Wave,Tulane
+401082696,2019,regular-season,2018-11-11,2,52,away,FALSE,Florida State,80,Seminoles,Florida State Seminoles,Florida St
+401083510,2019,regular-season,2018-11-11,2,2628,home,FALSE,TCU,79,Horned Frogs,TCU Horned Frogs,TCU
+401083510,2019,regular-season,2018-11-11,2,198,away,FALSE,Oral Roberts,62,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts

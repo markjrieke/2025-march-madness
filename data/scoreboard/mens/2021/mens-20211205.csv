@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401370908,2021-12-05,2,204,home,FALSE,Oregon State,65,Beavers,Oregon State Beavers,Oregon St
-401370908,2021-12-05,2,12,away,FALSE,Arizona,90,Wildcats,Arizona Wildcats,Arizona
-401370931,2021-12-05,0,264,home,FALSE,Washington,0,Huskies,Washington Huskies,Washington
-401370931,2021-12-05,0,26,away,FALSE,UCLA,0,Bruins,UCLA Bruins,UCLA
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401370908,2022,regular-season,2021-12-05,2,204,home,FALSE,Oregon State,65,Beavers,Oregon State Beavers,Oregon St
+401370908,2022,regular-season,2021-12-05,2,12,away,FALSE,Arizona,90,Wildcats,Arizona Wildcats,Arizona
+401370931,2022,regular-season,2021-12-05,0,264,home,FALSE,Washington,0,Huskies,Washington Huskies,Washington
+401370931,2022,regular-season,2021-12-05,0,26,away,FALSE,UCLA,0,Bruins,UCLA Bruins,UCLA

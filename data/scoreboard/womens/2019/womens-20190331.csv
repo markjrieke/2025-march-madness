@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401124223,2019-03-31,4,97,home,TRUE,Louisville,73,Cardinals,Louisville Cardinals,Louisville
-401124223,2019-03-31,4,41,away,TRUE,UConn,80,Huskies,UConn Huskies,UConn
-401124209,2019-03-31,4,344,home,TRUE,Mississippi State,84,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401124209,2019-03-31,4,2483,away,TRUE,Oregon,88,Ducks,Oregon Ducks,Oregon
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401124223,2019,post-season,2019-03-31,4,97,home,TRUE,Louisville,73,Cardinals,Louisville Cardinals,Louisville
+401124223,2019,post-season,2019-03-31,4,41,away,TRUE,UConn,80,Huskies,UConn Huskies,UConn
+401124209,2019,post-season,2019-03-31,4,344,home,TRUE,Mississippi State,84,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401124209,2019,post-season,2019-03-31,4,2483,away,TRUE,Oregon,88,Ducks,Oregon Ducks,Oregon

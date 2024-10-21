@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-223490012,2002-12-15,2,12,home,FALSE,Arizona,73,Wildcats,Arizona Wildcats,Arizona
-223490012,2002-12-15,2,251,away,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas
-223490056,2002-12-15,2,56,home,FALSE,Stetson,64,Hatters,Stetson Hatters,Stetson
-223490056,2002-12-15,2,232,away,FALSE,Charleston,66,Cougars,Charleston Cougars,Charleston
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+223490012,2003,regular-season,2002-12-15,2,12,home,FALSE,Arizona,73,Wildcats,Arizona Wildcats,Arizona
+223490012,2003,regular-season,2002-12-15,2,251,away,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas
+223490056,2003,regular-season,2002-12-15,2,56,home,FALSE,Stetson,64,Hatters,Stetson Hatters,Stetson
+223490056,2003,regular-season,2002-12-15,2,232,away,FALSE,Charleston,66,Cougars,Charleston Cougars,Charleston

@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401579042,2024-01-08,2,2443,home,FALSE,New Orleans,88,Privateers,New Orleans Privateers,New Orleans
-401579042,2024-01-08,2,2837,away,FALSE,Texas A&M-Commerce,85,Lions,Texas A&M-Commerce Lions,Texas A&M-Comm
-401600652,2024-01-08,2,2405,home,FALSE,Monmouth,81,Hawks,Monmouth Hawks,Monmouth
-401600652,2024-01-08,2,111,away,FALSE,Northeastern,62,Huskies,Northeastern Huskies,Northeastern
-401606728,2024-01-08,2,2569,home,FALSE,South Carolina State,78,Bulldogs,South Carolina State Bulldogs,SC State
-401606728,2024-01-08,2,47,away,FALSE,Howard,82,Bison,Howard Bison,Howard
-401604425,2024-01-08,2,2415,home,FALSE,Morgan State,66,Bears,Morgan State Bears,Morgan St
-401604425,2024-01-08,2,2169,away,FALSE,Delaware State,78,Hornets,Delaware State Hornets,Delaware St
-401598023,2024-01-08,2,2582,home,FALSE,Southern,79,Jaguars,Southern Jaguars,Southern
-401598023,2024-01-08,2,2504,away,FALSE,Prairie View A&M,58,Panthers,Prairie View A&M Panthers,Prairie View
-401594406,2024-01-08,2,2428,home,FALSE,North Carolina Central,60,Eagles,North Carolina Central Eagles,NC Central
-401594406,2024-01-08,2,2450,away,FALSE,Norfolk State,58,Spartans,Norfolk State Spartans,Norfolk St
-401589740,2024-01-08,3,2154,home,FALSE,Coppin State,58,Eagles,Coppin State Eagles,Coppin St
-401589740,2024-01-08,3,2379,away,FALSE,Maryland Eastern Shore,55,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-401579014,2024-01-08,2,2466,home,FALSE,Northwestern State,59,Demons,Northwestern State Demons,N'Western St
-401579014,2024-01-08,2,2377,away,FALSE,McNeese,68,Cowboys,McNeese Cowboys,McNeese
-401581794,2024-01-08,2,2320,home,FALSE,Lamar,75,Cardinals,Lamar Cardinals,Lamar
-401581794,2024-01-08,2,2916,away,FALSE,Incarnate Word,59,Cardinals,Incarnate Word Cardinals,Incarnate Word
-401578965,2024-01-08,2,357,home,FALSE,Texas A&M-Corpus Christi,81,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-401578965,2024-01-08,2,2277,away,FALSE,Houston Christian,59,Huskies,Houston Christian Huskies,Hou Christian
-401603001,2024-01-08,2,2755,home,FALSE,Grambling,52,Tigers,Grambling Tigers,Grambling
-401603001,2024-01-08,2,2640,away,FALSE,Texas Southern,54,Tigers,Texas Southern Tigers,Texas Southern
-401600126,2024-01-08,2,2029,home,FALSE,Arkansas-Pine Bluff,72,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-401600126,2024-01-08,2,2011,away,FALSE,Alabama State,83,Hornets,Alabama State Hornets,Alabama St
-401600102,2024-01-08,2,2400,home,FALSE,Mississippi Valley State,70,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
-401600102,2024-01-08,2,2010,away,FALSE,Alabama A&M,78,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401579042,2024,regular-season,2024-01-08,2,2443,home,FALSE,New Orleans,88,Privateers,New Orleans Privateers,New Orleans
+401579042,2024,regular-season,2024-01-08,2,2837,away,FALSE,Texas A&M-Commerce,85,Lions,Texas A&M-Commerce Lions,Texas A&M-Comm
+401600652,2024,regular-season,2024-01-08,2,2405,home,FALSE,Monmouth,81,Hawks,Monmouth Hawks,Monmouth
+401600652,2024,regular-season,2024-01-08,2,111,away,FALSE,Northeastern,62,Huskies,Northeastern Huskies,Northeastern
+401606728,2024,regular-season,2024-01-08,2,2569,home,FALSE,South Carolina State,78,Bulldogs,South Carolina State Bulldogs,SC State
+401606728,2024,regular-season,2024-01-08,2,47,away,FALSE,Howard,82,Bison,Howard Bison,Howard
+401604425,2024,regular-season,2024-01-08,2,2415,home,FALSE,Morgan State,66,Bears,Morgan State Bears,Morgan St
+401604425,2024,regular-season,2024-01-08,2,2169,away,FALSE,Delaware State,78,Hornets,Delaware State Hornets,Delaware St
+401598023,2024,regular-season,2024-01-08,2,2582,home,FALSE,Southern,79,Jaguars,Southern Jaguars,Southern
+401598023,2024,regular-season,2024-01-08,2,2504,away,FALSE,Prairie View A&M,58,Panthers,Prairie View A&M Panthers,Prairie View
+401594406,2024,regular-season,2024-01-08,2,2428,home,FALSE,North Carolina Central,60,Eagles,North Carolina Central Eagles,NC Central
+401594406,2024,regular-season,2024-01-08,2,2450,away,FALSE,Norfolk State,58,Spartans,Norfolk State Spartans,Norfolk St
+401589740,2024,regular-season,2024-01-08,3,2154,home,FALSE,Coppin State,58,Eagles,Coppin State Eagles,Coppin St
+401589740,2024,regular-season,2024-01-08,3,2379,away,FALSE,Maryland Eastern Shore,55,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+401579014,2024,regular-season,2024-01-08,2,2466,home,FALSE,Northwestern State,59,Demons,Northwestern State Demons,N'Western St
+401579014,2024,regular-season,2024-01-08,2,2377,away,FALSE,McNeese,68,Cowboys,McNeese Cowboys,McNeese
+401581794,2024,regular-season,2024-01-08,2,2320,home,FALSE,Lamar,75,Cardinals,Lamar Cardinals,Lamar
+401581794,2024,regular-season,2024-01-08,2,2916,away,FALSE,Incarnate Word,59,Cardinals,Incarnate Word Cardinals,Incarnate Word
+401578965,2024,regular-season,2024-01-08,2,357,home,FALSE,Texas A&M-Corpus Christi,81,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+401578965,2024,regular-season,2024-01-08,2,2277,away,FALSE,Houston Christian,59,Huskies,Houston Christian Huskies,Hou Christian
+401603001,2024,regular-season,2024-01-08,2,2755,home,FALSE,Grambling,52,Tigers,Grambling Tigers,Grambling
+401603001,2024,regular-season,2024-01-08,2,2640,away,FALSE,Texas Southern,54,Tigers,Texas Southern Tigers,Texas Southern
+401600126,2024,regular-season,2024-01-08,2,2029,home,FALSE,Arkansas-Pine Bluff,72,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+401600126,2024,regular-season,2024-01-08,2,2011,away,FALSE,Alabama State,83,Hornets,Alabama State Hornets,Alabama St
+401600102,2024,regular-season,2024-01-08,2,2400,home,FALSE,Mississippi Valley State,70,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
+401600102,2024,regular-season,2024-01-08,2,2010,away,FALSE,Alabama A&M,78,Bulldogs,Alabama A&M Bulldogs,Alabama A&M

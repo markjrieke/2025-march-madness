@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310840153,2011-03-25,2,153,home,TRUE,North Carolina,81,Tar Heels,North Carolina Tar Heels,North Carolina
-310840153,2011-03-25,2,269,away,TRUE,Marquette,63,Golden Eagles,Marquette Golden Eagles,Marquette
-310842305,2011-03-25,2,2305,home,TRUE,Kansas,77,Jayhawks,Kansas Jayhawks,Kansas
-310842305,2011-03-25,2,257,away,TRUE,Richmond,57,Spiders,Richmond Spiders,Richmond
-310840194,2011-03-25,2,194,home,TRUE,Ohio State,60,Buckeyes,Ohio State Buckeyes,Ohio State
-310840194,2011-03-25,2,96,away,TRUE,Kentucky,62,Wildcats,Kentucky Wildcats,Kentucky
-310840052,2011-03-25,3,52,home,TRUE,Florida State,71,Seminoles,Florida State Seminoles,Florida St
-310840052,2011-03-25,3,2670,away,TRUE,VCU,72,Rams,VCU Rams,VCU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310840153,2011,post-season,2011-03-25,2,153,home,TRUE,North Carolina,81,Tar Heels,North Carolina Tar Heels,North Carolina
+310840153,2011,post-season,2011-03-25,2,269,away,TRUE,Marquette,63,Golden Eagles,Marquette Golden Eagles,Marquette
+310842305,2011,post-season,2011-03-25,2,2305,home,TRUE,Kansas,77,Jayhawks,Kansas Jayhawks,Kansas
+310842305,2011,post-season,2011-03-25,2,257,away,TRUE,Richmond,57,Spiders,Richmond Spiders,Richmond
+310840194,2011,post-season,2011-03-25,2,194,home,TRUE,Ohio State,60,Buckeyes,Ohio State Buckeyes,Ohio State
+310840194,2011,post-season,2011-03-25,2,96,away,TRUE,Kentucky,62,Wildcats,Kentucky Wildcats,Kentucky
+310840052,2011,post-season,2011-03-25,3,52,home,TRUE,Florida State,71,Seminoles,Florida State Seminoles,Florida St
+310840052,2011,post-season,2011-03-25,3,2670,away,TRUE,VCU,72,Rams,VCU Rams,VCU

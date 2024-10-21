@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-294000031,2009-04-04,2,41,home,TRUE,UConn,73,Huskies,UConn Huskies,UConn
-294000031,2009-04-04,2,127,away,TRUE,Michigan State,82,Spartans,Michigan State Spartans,Michigan St
-294000062,2009-04-04,2,153,home,TRUE,North Carolina,83,Tar Heels,North Carolina Tar Heels,North Carolina
-294000062,2009-04-04,2,222,away,TRUE,Villanova,69,Wildcats,Villanova Wildcats,Villanova
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+294000031,2009,post-season,2009-04-04,2,41,home,TRUE,UConn,73,Huskies,UConn Huskies,UConn
+294000031,2009,post-season,2009-04-04,2,127,away,TRUE,Michigan State,82,Spartans,Michigan State Spartans,Michigan St
+294000062,2009,post-season,2009-04-04,2,153,home,TRUE,North Carolina,83,Tar Heels,North Carolina Tar Heels,North Carolina
+294000062,2009,post-season,2009-04-04,2,222,away,TRUE,Villanova,69,Wildcats,Villanova Wildcats,Villanova

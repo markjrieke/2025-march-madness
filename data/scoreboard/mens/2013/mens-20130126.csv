@@ -1,39 +1,39 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330260150,2013-01-26,2,150,home,FALSE,Duke,84,Blue Devils,Duke Blue Devils,Duke
-330260150,2013-01-26,2,120,away,FALSE,Maryland,64,Terrapins,Maryland Terrapins,Maryland
-330260222,2013-01-26,3,222,home,FALSE,Villanova,75,Wildcats,Villanova Wildcats,Villanova
-330260222,2013-01-26,3,183,away,FALSE,Syracuse,71,Orange,Syracuse Orange,Syracuse
-330262305,2013-01-26,2,2305,home,FALSE,Kansas,67,Jayhawks,Kansas Jayhawks,Kansas
-330262305,2013-01-26,2,201,away,FALSE,Oklahoma,54,Sooners,Oklahoma Sooners,Oklahoma
-330260046,2013-01-26,2,46,home,FALSE,Georgetown,53,Hoyas,Georgetown Hoyas,Georgetown
-330260046,2013-01-26,2,97,away,FALSE,Louisville,51,Cardinals,Louisville Cardinals,Louisville
-330260012,2013-01-26,2,12,home,FALSE,Arizona,74,Wildcats,Arizona Wildcats,Arizona
-330260012,2013-01-26,2,30,away,FALSE,USC,50,Trojans,USC Trojans,USC
-330260344,2013-01-26,2,344,home,FALSE,Mississippi State,47,Bulldogs,Mississippi State Bulldogs,Mississippi St
-330260344,2013-01-26,2,57,away,FALSE,Florida,82,Gators,Florida Gators,Florida
-330262086,2013-01-26,2,2086,home,FALSE,Butler,83,Bulldogs,Butler Bulldogs,Butler
-330262086,2013-01-26,2,218,away,FALSE,Temple,71,Owls,Temple Owls,Temple
-330262250,2013-01-26,2,2250,home,FALSE,Gonzaga,66,Bulldogs,Gonzaga Bulldogs,Gonzaga
-330262250,2013-01-26,2,2539,away,FALSE,San Francisco,52,Dons,San Francisco Dons,San Francisco
-330260066,2013-01-26,2,66,home,FALSE,Iowa State,73,Cyclones,Iowa State Cyclones,Iowa State
-330260066,2013-01-26,2,2306,away,FALSE,Kansas State,67,Wildcats,Kansas State Wildcats,Kansas St
-330260275,2013-01-26,2,275,home,FALSE,Wisconsin,45,Badgers,Wisconsin Badgers,Wisconsin
-330260275,2013-01-26,2,135,away,FALSE,Minnesota,44,Golden Gophers,Minnesota Golden Gophers,Minnesota
-330260213,2013-01-26,2,213,home,FALSE,Penn State,51,Nittany Lions,Penn State Nittany Lions,Penn State
-330260213,2013-01-26,2,194,away,FALSE,Ohio State,65,Buckeyes,Ohio State Buckeyes,Ohio State
-330260021,2013-01-26,2,21,home,FALSE,San Diego State,55,Aztecs,San Diego State Aztecs,San Diego St
-330260021,2013-01-26,2,167,away,FALSE,New Mexico,34,Lobos,New Mexico Lobos,New Mexico
-330262483,2013-01-26,2,2483,home,FALSE,Oregon,81,Ducks,Oregon Ducks,Oregon
-330262483,2013-01-26,2,264,away,FALSE,Washington,76,Huskies,Washington Huskies,Washington
-330260152,2013-01-26,2,152,home,FALSE,NC State,91,Wolfpack,NC State Wolfpack,NC State
-330260152,2013-01-26,2,153,away,FALSE,North Carolina,83,Tar Heels,North Carolina Tar Heels,North Carolina
-330262670,2013-01-26,2,2670,home,FALSE,VCU,61,Rams,VCU Rams,VCU
-330262670,2013-01-26,2,2325,away,FALSE,La Salle,69,Explorers,La Salle Explorers,La Salle
-330262724,2013-01-26,2,2724,home,FALSE,Wichita State,73,Shockers,Wichita State Shockers,Wichita St
-330262724,2013-01-26,2,71,away,FALSE,Bradley,39,Braves,Bradley Braves,Bradley
-330260142,2013-01-26,2,142,home,FALSE,Missouri,81,Tigers,Missouri Tigers,Missouri
-330260142,2013-01-26,2,238,away,FALSE,Vanderbilt,59,Commodores,Vanderbilt Commodores,Vanderbilt
-330260002,2013-01-26,2,2,home,FALSE,Auburn,61,Tigers,Auburn Tigers,Auburn
-330260002,2013-01-26,2,145,away,FALSE,Ole Miss,63,Rebels,Ole Miss Rebels,Ole Miss
-330260058,2013-01-26,2,58,home,FALSE,South Florida,65,Bulls,South Florida Bulls,South Florida
-330260058,2013-01-26,2,87,away,FALSE,Notre Dame,73,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330260150,2013,regular-season,2013-01-26,2,150,home,FALSE,Duke,84,Blue Devils,Duke Blue Devils,Duke
+330260150,2013,regular-season,2013-01-26,2,120,away,FALSE,Maryland,64,Terrapins,Maryland Terrapins,Maryland
+330260222,2013,regular-season,2013-01-26,3,222,home,FALSE,Villanova,75,Wildcats,Villanova Wildcats,Villanova
+330260222,2013,regular-season,2013-01-26,3,183,away,FALSE,Syracuse,71,Orange,Syracuse Orange,Syracuse
+330262305,2013,regular-season,2013-01-26,2,2305,home,FALSE,Kansas,67,Jayhawks,Kansas Jayhawks,Kansas
+330262305,2013,regular-season,2013-01-26,2,201,away,FALSE,Oklahoma,54,Sooners,Oklahoma Sooners,Oklahoma
+330260046,2013,regular-season,2013-01-26,2,46,home,FALSE,Georgetown,53,Hoyas,Georgetown Hoyas,Georgetown
+330260046,2013,regular-season,2013-01-26,2,97,away,FALSE,Louisville,51,Cardinals,Louisville Cardinals,Louisville
+330260012,2013,regular-season,2013-01-26,2,12,home,FALSE,Arizona,74,Wildcats,Arizona Wildcats,Arizona
+330260012,2013,regular-season,2013-01-26,2,30,away,FALSE,USC,50,Trojans,USC Trojans,USC
+330260344,2013,regular-season,2013-01-26,2,344,home,FALSE,Mississippi State,47,Bulldogs,Mississippi State Bulldogs,Mississippi St
+330260344,2013,regular-season,2013-01-26,2,57,away,FALSE,Florida,82,Gators,Florida Gators,Florida
+330262086,2013,regular-season,2013-01-26,2,2086,home,FALSE,Butler,83,Bulldogs,Butler Bulldogs,Butler
+330262086,2013,regular-season,2013-01-26,2,218,away,FALSE,Temple,71,Owls,Temple Owls,Temple
+330262250,2013,regular-season,2013-01-26,2,2250,home,FALSE,Gonzaga,66,Bulldogs,Gonzaga Bulldogs,Gonzaga
+330262250,2013,regular-season,2013-01-26,2,2539,away,FALSE,San Francisco,52,Dons,San Francisco Dons,San Francisco
+330260066,2013,regular-season,2013-01-26,2,66,home,FALSE,Iowa State,73,Cyclones,Iowa State Cyclones,Iowa State
+330260066,2013,regular-season,2013-01-26,2,2306,away,FALSE,Kansas State,67,Wildcats,Kansas State Wildcats,Kansas St
+330260275,2013,regular-season,2013-01-26,2,275,home,FALSE,Wisconsin,45,Badgers,Wisconsin Badgers,Wisconsin
+330260275,2013,regular-season,2013-01-26,2,135,away,FALSE,Minnesota,44,Golden Gophers,Minnesota Golden Gophers,Minnesota
+330260213,2013,regular-season,2013-01-26,2,213,home,FALSE,Penn State,51,Nittany Lions,Penn State Nittany Lions,Penn State
+330260213,2013,regular-season,2013-01-26,2,194,away,FALSE,Ohio State,65,Buckeyes,Ohio State Buckeyes,Ohio State
+330260021,2013,regular-season,2013-01-26,2,21,home,FALSE,San Diego State,55,Aztecs,San Diego State Aztecs,San Diego St
+330260021,2013,regular-season,2013-01-26,2,167,away,FALSE,New Mexico,34,Lobos,New Mexico Lobos,New Mexico
+330262483,2013,regular-season,2013-01-26,2,2483,home,FALSE,Oregon,81,Ducks,Oregon Ducks,Oregon
+330262483,2013,regular-season,2013-01-26,2,264,away,FALSE,Washington,76,Huskies,Washington Huskies,Washington
+330260152,2013,regular-season,2013-01-26,2,152,home,FALSE,NC State,91,Wolfpack,NC State Wolfpack,NC State
+330260152,2013,regular-season,2013-01-26,2,153,away,FALSE,North Carolina,83,Tar Heels,North Carolina Tar Heels,North Carolina
+330262670,2013,regular-season,2013-01-26,2,2670,home,FALSE,VCU,61,Rams,VCU Rams,VCU
+330262670,2013,regular-season,2013-01-26,2,2325,away,FALSE,La Salle,69,Explorers,La Salle Explorers,La Salle
+330262724,2013,regular-season,2013-01-26,2,2724,home,FALSE,Wichita State,73,Shockers,Wichita State Shockers,Wichita St
+330262724,2013,regular-season,2013-01-26,2,71,away,FALSE,Bradley,39,Braves,Bradley Braves,Bradley
+330260142,2013,regular-season,2013-01-26,2,142,home,FALSE,Missouri,81,Tigers,Missouri Tigers,Missouri
+330260142,2013,regular-season,2013-01-26,2,238,away,FALSE,Vanderbilt,59,Commodores,Vanderbilt Commodores,Vanderbilt
+330260002,2013,regular-season,2013-01-26,2,2,home,FALSE,Auburn,61,Tigers,Auburn Tigers,Auburn
+330260002,2013,regular-season,2013-01-26,2,145,away,FALSE,Ole Miss,63,Rebels,Ole Miss Rebels,Ole Miss
+330260058,2013,regular-season,2013-01-26,2,58,home,FALSE,South Florida,65,Bulls,South Florida Bulls,South Florida
+330260058,2013,regular-season,2013-01-26,2,87,away,FALSE,Notre Dame,73,Fighting Irish,Notre Dame Fighting Irish,Notre Dame

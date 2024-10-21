@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400987771,2018-01-22,4,245,home,FALSE,Texas A&M,69,Aggies,Texas A&M Aggies,Texas A&M
-400987771,2018-01-22,4,99,away,FALSE,LSU,59,Tigers,LSU Tigers,LSU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400987771,2018,regular-season,2018-01-22,4,245,home,FALSE,Texas A&M,69,Aggies,Texas A&M Aggies,Texas A&M
+400987771,2018,regular-season,2018-01-22,4,99,away,FALSE,LSU,59,Tigers,LSU Tigers,LSU

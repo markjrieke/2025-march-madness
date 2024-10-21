@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323300084,2012-11-25,2,84,home,FALSE,Indiana,101,Hoosiers,Indiana Hoosiers,Indiana
-323300084,2012-11-25,2,2050,away,FALSE,Ball State,53,Cardinals,Ball State Cardinals,Ball State
-323300183,2012-11-25,2,183,home,FALSE,Syracuse,87,Orange,Syracuse Orange,Syracuse
-323300183,2012-11-25,2,2142,away,FALSE,Colgate,51,Raiders,Colgate Raiders,Colgate
-323300026,2012-11-25,2,26,home,FALSE,UCLA,68,Bruins,UCLA Bruins,UCLA
-323300026,2012-11-25,2,13,away,FALSE,Cal Poly,70,Mustangs,Cal Poly Mustangs,Cal Poly
-323300127,2012-11-25,2,127,home,FALSE,Michigan State,63,Spartans,Michigan State Spartans,Michigan St
-323300127,2012-11-25,2,309,away,FALSE,Louisiana,60,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
-323300197,2012-11-25,2,197,home,FALSE,Oklahoma State,81,Cowboys,Oklahoma State Cowboys,Oklahoma St
-323300197,2012-11-25,2,2502,away,FALSE,Portland State,58,Vikings,Portland State Vikings,Portland St
-323300041,2012-11-25,2,41,home,FALSE,UConn,73,Huskies,UConn Huskies,UConn
-323300041,2012-11-25,2,2619,away,FALSE,Stony Brook,62,Seawolves,Stony Brook Seawolves,Stony Brook
-323300038,2012-11-25,2,38,home,FALSE,Colorado,89,Buffaloes,Colorado Buffaloes,Colorado
-323300038,2012-11-25,2,2005,away,FALSE,Air Force,74,Falcons,Air Force Falcons,Air Force
-323300030,2012-11-25,2,30,home,FALSE,USC,60,Trojans,USC Trojans,USC
-323300030,2012-11-25,2,21,away,FALSE,San Diego State,66,Aztecs,San Diego State Aztecs,San Diego St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323300084,2013,regular-season,2012-11-25,2,84,home,FALSE,Indiana,101,Hoosiers,Indiana Hoosiers,Indiana
+323300084,2013,regular-season,2012-11-25,2,2050,away,FALSE,Ball State,53,Cardinals,Ball State Cardinals,Ball State
+323300183,2013,regular-season,2012-11-25,2,183,home,FALSE,Syracuse,87,Orange,Syracuse Orange,Syracuse
+323300183,2013,regular-season,2012-11-25,2,2142,away,FALSE,Colgate,51,Raiders,Colgate Raiders,Colgate
+323300026,2013,regular-season,2012-11-25,2,26,home,FALSE,UCLA,68,Bruins,UCLA Bruins,UCLA
+323300026,2013,regular-season,2012-11-25,2,13,away,FALSE,Cal Poly,70,Mustangs,Cal Poly Mustangs,Cal Poly
+323300127,2013,regular-season,2012-11-25,2,127,home,FALSE,Michigan State,63,Spartans,Michigan State Spartans,Michigan St
+323300127,2013,regular-season,2012-11-25,2,309,away,FALSE,Louisiana,60,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+323300197,2013,regular-season,2012-11-25,2,197,home,FALSE,Oklahoma State,81,Cowboys,Oklahoma State Cowboys,Oklahoma St
+323300197,2013,regular-season,2012-11-25,2,2502,away,FALSE,Portland State,58,Vikings,Portland State Vikings,Portland St
+323300041,2013,regular-season,2012-11-25,2,41,home,FALSE,UConn,73,Huskies,UConn Huskies,UConn
+323300041,2013,regular-season,2012-11-25,2,2619,away,FALSE,Stony Brook,62,Seawolves,Stony Brook Seawolves,Stony Brook
+323300038,2013,regular-season,2012-11-25,2,38,home,FALSE,Colorado,89,Buffaloes,Colorado Buffaloes,Colorado
+323300038,2013,regular-season,2012-11-25,2,2005,away,FALSE,Air Force,74,Falcons,Air Force Falcons,Air Force
+323300030,2013,regular-season,2012-11-25,2,30,home,FALSE,USC,60,Trojans,USC Trojans,USC
+323300030,2013,regular-season,2012-11-25,2,21,away,FALSE,San Diego State,66,Aztecs,San Diego State Aztecs,San Diego St

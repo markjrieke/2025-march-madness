@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400988584,2018-01-23,2,222,home,FALSE,Villanova,89,Wildcats,Villanova Wildcats,Villanova
-400988584,2018-01-23,2,2507,away,FALSE,Providence,69,Friars,Providence Friars,Providence
-400986219,2018-01-23,2,258,home,FALSE,Virginia,61,Cavaliers,Virginia Cavaliers,Virginia
-400986219,2018-01-23,2,228,away,FALSE,Clemson,36,Tigers,Clemson Tigers,Clemson
-400986220,2018-01-23,2,154,home,FALSE,Wake Forest,70,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-400986220,2018-01-23,2,150,away,FALSE,Duke,84,Blue Devils,Duke Blue Devils,Duke
-400989185,2018-01-23,2,201,home,FALSE,Oklahoma,85,Sooners,Oklahoma Sooners,Oklahoma
-400989185,2018-01-23,2,2305,away,FALSE,Kansas,80,Jayhawks,Kansas Jayhawks,Kansas
-400989234,2018-01-23,2,2641,home,FALSE,Texas Tech,75,Red Raiders,Texas Tech Red Raiders,Texas Tech
-400989234,2018-01-23,2,197,away,FALSE,Oklahoma State,70,Cowboys,Oklahoma State Cowboys,Oklahoma St
-400987331,2018-01-23,2,2633,home,FALSE,Tennessee,67,Volunteers,Tennessee Volunteers,Tennessee
-400987331,2018-01-23,2,238,away,FALSE,Vanderbilt,62,Commodores,Vanderbilt Commodores,Vanderbilt
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400988584,2018,regular-season,2018-01-23,2,222,home,FALSE,Villanova,89,Wildcats,Villanova Wildcats,Villanova
+400988584,2018,regular-season,2018-01-23,2,2507,away,FALSE,Providence,69,Friars,Providence Friars,Providence
+400986219,2018,regular-season,2018-01-23,2,258,home,FALSE,Virginia,61,Cavaliers,Virginia Cavaliers,Virginia
+400986219,2018,regular-season,2018-01-23,2,228,away,FALSE,Clemson,36,Tigers,Clemson Tigers,Clemson
+400986220,2018,regular-season,2018-01-23,2,154,home,FALSE,Wake Forest,70,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+400986220,2018,regular-season,2018-01-23,2,150,away,FALSE,Duke,84,Blue Devils,Duke Blue Devils,Duke
+400989185,2018,regular-season,2018-01-23,2,201,home,FALSE,Oklahoma,85,Sooners,Oklahoma Sooners,Oklahoma
+400989185,2018,regular-season,2018-01-23,2,2305,away,FALSE,Kansas,80,Jayhawks,Kansas Jayhawks,Kansas
+400989234,2018,regular-season,2018-01-23,2,2641,home,FALSE,Texas Tech,75,Red Raiders,Texas Tech Red Raiders,Texas Tech
+400989234,2018,regular-season,2018-01-23,2,197,away,FALSE,Oklahoma State,70,Cowboys,Oklahoma State Cowboys,Oklahoma St
+400987331,2018,regular-season,2018-01-23,2,2633,home,FALSE,Tennessee,67,Volunteers,Tennessee Volunteers,Tennessee
+400987331,2018,regular-season,2018-01-23,2,238,away,FALSE,Vanderbilt,62,Commodores,Vanderbilt Commodores,Vanderbilt

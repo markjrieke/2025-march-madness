@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310302599,2011-01-30,2,2599,home,FALSE,St. John's,93,Red Storm,St. John's Red Storm,St John's
-310302599,2011-01-30,2,150,away,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
-310300265,2011-01-30,2,265,home,FALSE,Washington State,87,Cougars,Washington State Cougars,Washington St
-310300265,2011-01-30,2,264,away,FALSE,Washington,80,Huskies,Washington Huskies,Washington
-310300127,2011-01-30,3,127,home,FALSE,Michigan State,84,Spartans,Michigan State Spartans,Michigan St
-310300127,2011-01-30,3,84,away,FALSE,Indiana,83,Hoosiers,Indiana Hoosiers,Indiana
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310302599,2011,regular-season,2011-01-30,2,2599,home,FALSE,St. John's,93,Red Storm,St. John's Red Storm,St John's
+310302599,2011,regular-season,2011-01-30,2,150,away,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
+310300265,2011,regular-season,2011-01-30,2,265,home,FALSE,Washington State,87,Cougars,Washington State Cougars,Washington St
+310300265,2011,regular-season,2011-01-30,2,264,away,FALSE,Washington,80,Huskies,Washington Huskies,Washington
+310300127,2011,regular-season,2011-01-30,3,127,home,FALSE,Michigan State,84,Spartans,Michigan State Spartans,Michigan St
+310300127,2011,regular-season,2011-01-30,3,84,away,FALSE,Indiana,83,Hoosiers,Indiana Hoosiers,Indiana

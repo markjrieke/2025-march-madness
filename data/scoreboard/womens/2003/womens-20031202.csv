@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-233360041,2003-12-02,2,41,home,FALSE,UConn,69,Huskies,UConn Huskies,UConn
-233360041,2003-12-02,2,2561,away,FALSE,Siena,45,Saints,Siena Saints,Siena
-233362348,2003-12-02,2,2348,home,FALSE,Louisiana Tech,96,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-233362348,2003-12-02,2,2655,away,FALSE,Tulane,37,Green Wave,Tulane Green Wave,Tulane
-233362306,2003-12-02,2,2306,home,FALSE,Kansas State,60,Wildcats,Kansas State Wildcats,Kansas St
-233362306,2003-12-02,2,2459,away,FALSE,Northern Illinois,41,Huskies,Northern Illinois Huskies,N Illinois
-233360099,2003-12-02,2,99,home,FALSE,LSU,78,Tigers,LSU Tigers,LSU
-233360099,2003-12-02,2,164,away,FALSE,Rutgers,68,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-233360254,2003-12-02,2,254,home,FALSE,Utah,69,Utes,Utah Utes,Utah
-233360254,2003-12-02,2,2608,away,FALSE,Saint Mary's,40,Gaels,Saint Mary's Gaels,Saint Mary's
-233362628,2003-12-02,2,2628,home,FALSE,TCU,73,Horned Frogs,TCU Horned Frogs,TCU
-233362628,2003-12-02,2,250,away,FALSE,UT Arlington,43,Mavericks,UT Arlington Mavericks,UT Arlington
-233360197,2003-12-02,2,197,home,FALSE,Oklahoma State,62,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-233360197,2003-12-02,2,127,away,FALSE,Michigan State,60,Spartans,Michigan State Spartans,Michigan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+233360041,2004,regular-season,2003-12-02,2,41,home,FALSE,UConn,69,Huskies,UConn Huskies,UConn
+233360041,2004,regular-season,2003-12-02,2,2561,away,FALSE,Siena,45,Saints,Siena Saints,Siena
+233362348,2004,regular-season,2003-12-02,2,2348,home,FALSE,Louisiana Tech,96,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+233362348,2004,regular-season,2003-12-02,2,2655,away,FALSE,Tulane,37,Green Wave,Tulane Green Wave,Tulane
+233362306,2004,regular-season,2003-12-02,2,2306,home,FALSE,Kansas State,60,Wildcats,Kansas State Wildcats,Kansas St
+233362306,2004,regular-season,2003-12-02,2,2459,away,FALSE,Northern Illinois,41,Huskies,Northern Illinois Huskies,N Illinois
+233360099,2004,regular-season,2003-12-02,2,99,home,FALSE,LSU,78,Tigers,LSU Tigers,LSU
+233360099,2004,regular-season,2003-12-02,2,164,away,FALSE,Rutgers,68,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+233360254,2004,regular-season,2003-12-02,2,254,home,FALSE,Utah,69,Utes,Utah Utes,Utah
+233360254,2004,regular-season,2003-12-02,2,2608,away,FALSE,Saint Mary's,40,Gaels,Saint Mary's Gaels,Saint Mary's
+233362628,2004,regular-season,2003-12-02,2,2628,home,FALSE,TCU,73,Horned Frogs,TCU Horned Frogs,TCU
+233362628,2004,regular-season,2003-12-02,2,250,away,FALSE,UT Arlington,43,Mavericks,UT Arlington Mavericks,UT Arlington
+233360197,2004,regular-season,2003-12-02,2,197,home,FALSE,Oklahoma State,62,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+233360197,2004,regular-season,2003-12-02,2,127,away,FALSE,Michigan State,60,Spartans,Michigan State Spartans,Michigan St

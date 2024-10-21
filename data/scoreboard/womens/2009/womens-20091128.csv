@@ -1,35 +1,35 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293320041,2009-11-28,2,41,home,FALSE,UConn,86,Huskies,UConn Huskies,UConn
-293320041,2009-11-28,2,257,away,FALSE,Richmond,37,Spiders,Richmond Spiders,Richmond
-293320194,2009-11-28,2,194,home,FALSE,Ohio State,88,Buckeyes,Ohio State Buckeyes,Ohio State
-293320194,2009-11-28,2,85,away,FALSE,IU Indianapolis,33,Jaguars,IU Indianapolis Jaguars,IU Indy
-293320087,2009-11-28,2,87,home,TRUE,Notre Dame,81,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-293320087,2009-11-28,2,201,away,TRUE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
-293322633,2009-11-28,2,2633,home,FALSE,Tennessee,61,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-293322633,2009-11-28,2,26,away,FALSE,UCLA,47,Bruins,UCLA Bruins,UCLA
-293320239,2009-11-28,2,239,home,FALSE,Baylor,89,Bears,Baylor Bears,Baylor
-293320239,2009-11-28,2,309,away,FALSE,Louisiana,42,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
-293320135,2009-11-28,2,135,home,FALSE,Minnesota,56,Golden Gophers,Minnesota Golden Gophers,Minnesota
-293320135,2009-11-28,2,2752,away,FALSE,Xavier,71,Musketeers,Xavier Musketeers,Xavier
-293320164,2009-11-28,2,164,home,TRUE,Rutgers,67,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-293320164,2009-11-28,2,251,away,TRUE,Texas,70,Longhorns,Texas Longhorns,Texas
-293322572,2009-11-28,2,2572,home,FALSE,Southern Miss,55,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-293322572,2009-11-28,2,61,away,FALSE,Georgia,84,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-293322459,2009-11-28,2,2459,home,FALSE,Northern Illinois,67,Huskies,Northern Illinois Huskies,N Illinois
-293322459,2009-11-28,2,305,away,FALSE,DePaul,78,Blue Demons,DePaul Blue Demons,DePaul
-293322193,2009-11-28,2,2193,home,TRUE,East Tennessee State,67,Bucs,East Tennessee State Bucs,ETSU
-293322193,2009-11-28,2,9,away,TRUE,Arizona State,80,Sun Devils,Arizona State Sun Devils,Arizona St
-293322628,2009-11-28,2,2628,home,TRUE,TCU,74,Horned Frogs,TCU Horned Frogs,TCU
-293322628,2009-11-28,2,2305,away,TRUE,Kansas,69,Jayhawks,Kansas Jayhawks,Kansas
-293320344,2009-11-28,2,344,home,TRUE,Mississippi State,60,Bulldogs,Mississippi State Bulldogs,Mississippi St
-293320344,2009-11-28,2,30,away,TRUE,USC,64,Trojans,USC Trojans,USC
-293320238,2009-11-28,2,238,home,FALSE,Vanderbilt,77,Commodores,Vanderbilt Commodores,Vanderbilt
-293320238,2009-11-28,2,152,away,FALSE,NC State,71,Wolfpack,NC State Wolfpack,NC State
-293320025,2009-11-28,2,25,home,TRUE,California,78,Golden Bears,California Golden Bears,California
-293320025,2009-11-28,2,2582,away,TRUE,Southern,47,Jaguars,Southern Jaguars,Southern
-293322579,2009-11-28,2,2579,home,TRUE,South Carolina,58,Gamecocks,South Carolina Gamecocks,South Carolina
-293322579,2009-11-28,2,21,away,TRUE,San Diego State,55,Aztecs,San Diego State Aztecs,San Diego St
-293320221,2009-11-28,2,221,home,FALSE,Pittsburgh,80,Panthers,Pittsburgh Panthers,Pitt
-293320221,2009-11-28,2,276,away,FALSE,Marshall,58,Thundering Herd,Marshall Thundering Herd,Marshall
-293320197,2009-11-28,4,197,home,TRUE,Oklahoma State,90,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-293320197,2009-11-28,4,127,away,TRUE,Michigan State,93,Spartans,Michigan State Spartans,Michigan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293320041,2010,regular-season,2009-11-28,2,41,home,FALSE,UConn,86,Huskies,UConn Huskies,UConn
+293320041,2010,regular-season,2009-11-28,2,257,away,FALSE,Richmond,37,Spiders,Richmond Spiders,Richmond
+293320194,2010,regular-season,2009-11-28,2,194,home,FALSE,Ohio State,88,Buckeyes,Ohio State Buckeyes,Ohio State
+293320194,2010,regular-season,2009-11-28,2,85,away,FALSE,IU Indianapolis,33,Jaguars,IU Indianapolis Jaguars,IU Indy
+293320087,2010,regular-season,2009-11-28,2,87,home,TRUE,Notre Dame,81,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+293320087,2010,regular-season,2009-11-28,2,201,away,TRUE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
+293322633,2010,regular-season,2009-11-28,2,2633,home,FALSE,Tennessee,61,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+293322633,2010,regular-season,2009-11-28,2,26,away,FALSE,UCLA,47,Bruins,UCLA Bruins,UCLA
+293320239,2010,regular-season,2009-11-28,2,239,home,FALSE,Baylor,89,Bears,Baylor Bears,Baylor
+293320239,2010,regular-season,2009-11-28,2,309,away,FALSE,Louisiana,42,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+293320135,2010,regular-season,2009-11-28,2,135,home,FALSE,Minnesota,56,Golden Gophers,Minnesota Golden Gophers,Minnesota
+293320135,2010,regular-season,2009-11-28,2,2752,away,FALSE,Xavier,71,Musketeers,Xavier Musketeers,Xavier
+293320164,2010,regular-season,2009-11-28,2,164,home,TRUE,Rutgers,67,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+293320164,2010,regular-season,2009-11-28,2,251,away,TRUE,Texas,70,Longhorns,Texas Longhorns,Texas
+293322572,2010,regular-season,2009-11-28,2,2572,home,FALSE,Southern Miss,55,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+293322572,2010,regular-season,2009-11-28,2,61,away,FALSE,Georgia,84,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+293322459,2010,regular-season,2009-11-28,2,2459,home,FALSE,Northern Illinois,67,Huskies,Northern Illinois Huskies,N Illinois
+293322459,2010,regular-season,2009-11-28,2,305,away,FALSE,DePaul,78,Blue Demons,DePaul Blue Demons,DePaul
+293322193,2010,regular-season,2009-11-28,2,2193,home,TRUE,East Tennessee State,67,Bucs,East Tennessee State Bucs,ETSU
+293322193,2010,regular-season,2009-11-28,2,9,away,TRUE,Arizona State,80,Sun Devils,Arizona State Sun Devils,Arizona St
+293322628,2010,regular-season,2009-11-28,2,2628,home,TRUE,TCU,74,Horned Frogs,TCU Horned Frogs,TCU
+293322628,2010,regular-season,2009-11-28,2,2305,away,TRUE,Kansas,69,Jayhawks,Kansas Jayhawks,Kansas
+293320344,2010,regular-season,2009-11-28,2,344,home,TRUE,Mississippi State,60,Bulldogs,Mississippi State Bulldogs,Mississippi St
+293320344,2010,regular-season,2009-11-28,2,30,away,TRUE,USC,64,Trojans,USC Trojans,USC
+293320238,2010,regular-season,2009-11-28,2,238,home,FALSE,Vanderbilt,77,Commodores,Vanderbilt Commodores,Vanderbilt
+293320238,2010,regular-season,2009-11-28,2,152,away,FALSE,NC State,71,Wolfpack,NC State Wolfpack,NC State
+293320025,2010,regular-season,2009-11-28,2,25,home,TRUE,California,78,Golden Bears,California Golden Bears,California
+293320025,2010,regular-season,2009-11-28,2,2582,away,TRUE,Southern,47,Jaguars,Southern Jaguars,Southern
+293322579,2010,regular-season,2009-11-28,2,2579,home,TRUE,South Carolina,58,Gamecocks,South Carolina Gamecocks,South Carolina
+293322579,2010,regular-season,2009-11-28,2,21,away,TRUE,San Diego State,55,Aztecs,San Diego State Aztecs,San Diego St
+293320221,2010,regular-season,2009-11-28,2,221,home,FALSE,Pittsburgh,80,Panthers,Pittsburgh Panthers,Pitt
+293320221,2010,regular-season,2009-11-28,2,276,away,FALSE,Marshall,58,Thundering Herd,Marshall Thundering Herd,Marshall
+293320197,2010,regular-season,2009-11-28,4,197,home,TRUE,Oklahoma State,90,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+293320197,2010,regular-season,2009-11-28,4,127,away,TRUE,Michigan State,93,Spartans,Michigan State Spartans,Michigan St

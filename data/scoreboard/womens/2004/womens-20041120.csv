@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243250087,2004-11-20,2,87,home,FALSE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-243250087,2004-11-20,2,194,away,FALSE,Ohio State,62,Buckeyes,Ohio State Buckeyes,Ohio State
-243250135,2004-11-20,2,135,home,FALSE,Minnesota,70,Golden Gophers,Minnesota Golden Gophers,Minnesota
-243250135,2004-11-20,2,259,away,FALSE,Virginia Tech,56,Hokies,Virginia Tech Hokies,Virginia Tech
-243250127,2004-11-20,2,127,home,FALSE,Michigan State,77,Spartans,Michigan State Spartans,Michigan St
-243250127,2004-11-20,2,2115,away,FALSE,Central Connecticut,42,Blue Devils,Central Connecticut Blue Devils,C Connecticut
-243250164,2004-11-20,2,164,home,FALSE,Rutgers,90,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-243250164,2004-11-20,2,2520,away,FALSE,Rider,42,Broncs,Rider Broncs,Rider
-243252711,2004-11-20,2,2711,home,FALSE,Western Michigan,50,Broncos,Western Michigan Broncos,W Michigan
-243252711,2004-11-20,2,103,away,FALSE,Boston College,71,Eagles,Boston College Eagles,Boston College
-243250305,2004-11-20,2,305,home,FALSE,DePaul,99,Blue Demons,DePaul Blue Demons,DePaul
-243250305,2004-11-20,2,30,away,FALSE,USC,77,Trojans,USC Trojans,USC
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243250087,2005,regular-season,2004-11-20,2,87,home,FALSE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+243250087,2005,regular-season,2004-11-20,2,194,away,FALSE,Ohio State,62,Buckeyes,Ohio State Buckeyes,Ohio State
+243250135,2005,regular-season,2004-11-20,2,135,home,FALSE,Minnesota,70,Golden Gophers,Minnesota Golden Gophers,Minnesota
+243250135,2005,regular-season,2004-11-20,2,259,away,FALSE,Virginia Tech,56,Hokies,Virginia Tech Hokies,Virginia Tech
+243250127,2005,regular-season,2004-11-20,2,127,home,FALSE,Michigan State,77,Spartans,Michigan State Spartans,Michigan St
+243250127,2005,regular-season,2004-11-20,2,2115,away,FALSE,Central Connecticut,42,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+243250164,2005,regular-season,2004-11-20,2,164,home,FALSE,Rutgers,90,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+243250164,2005,regular-season,2004-11-20,2,2520,away,FALSE,Rider,42,Broncs,Rider Broncs,Rider
+243252711,2005,regular-season,2004-11-20,2,2711,home,FALSE,Western Michigan,50,Broncos,Western Michigan Broncos,W Michigan
+243252711,2005,regular-season,2004-11-20,2,103,away,FALSE,Boston College,71,Eagles,Boston College Eagles,Boston College
+243250305,2005,regular-season,2004-11-20,2,305,home,FALSE,DePaul,99,Blue Demons,DePaul Blue Demons,DePaul
+243250305,2005,regular-season,2004-11-20,2,30,away,FALSE,USC,77,Trojans,USC Trojans,USC

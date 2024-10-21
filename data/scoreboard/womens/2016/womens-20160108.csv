@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400834761,2016-01-08,4,248,home,FALSE,Houston,37,Cougars,Houston Cougars,Houston
-400834761,2016-01-08,4,41,away,FALSE,UConn,76,Huskies,UConn Huskies,UConn
-400845608,2016-01-08,4,24,home,FALSE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
-400845608,2016-01-08,4,254,away,FALSE,Utah,52,Utes,Utah Utes,Utah
-400845218,2016-01-08,4,204,home,FALSE,Oregon State,60,Beavers,Oregon State Beavers,Oregon St
-400845218,2016-01-08,4,2483,away,FALSE,Oregon,33,Ducks,Oregon Ducks,Oregon
-400845175,2016-01-08,4,264,home,FALSE,Washington,61,Huskies,Washington Huskies,Washington
-400845175,2016-01-08,4,9,away,FALSE,Arizona State,68,Sun Devils,Arizona State Sun Devils,Arizona St
-400845188,2016-01-08,4,25,home,FALSE,California,64,Golden Bears,California Golden Bears,California
-400845188,2016-01-08,4,38,away,FALSE,Colorado,35,Buffaloes,Colorado Buffaloes,Colorado
-400842356,2016-01-08,4,305,home,FALSE,DePaul,75,Blue Demons,DePaul Blue Demons,DePaul
-400842356,2016-01-08,4,46,away,FALSE,Georgetown,53,Hoyas,Georgetown Hoyas,Georgetown
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400834761,2016,regular-season,2016-01-08,4,248,home,FALSE,Houston,37,Cougars,Houston Cougars,Houston
+400834761,2016,regular-season,2016-01-08,4,41,away,FALSE,UConn,76,Huskies,UConn Huskies,UConn
+400845608,2016,regular-season,2016-01-08,4,24,home,FALSE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
+400845608,2016,regular-season,2016-01-08,4,254,away,FALSE,Utah,52,Utes,Utah Utes,Utah
+400845218,2016,regular-season,2016-01-08,4,204,home,FALSE,Oregon State,60,Beavers,Oregon State Beavers,Oregon St
+400845218,2016,regular-season,2016-01-08,4,2483,away,FALSE,Oregon,33,Ducks,Oregon Ducks,Oregon
+400845175,2016,regular-season,2016-01-08,4,264,home,FALSE,Washington,61,Huskies,Washington Huskies,Washington
+400845175,2016,regular-season,2016-01-08,4,9,away,FALSE,Arizona State,68,Sun Devils,Arizona State Sun Devils,Arizona St
+400845188,2016,regular-season,2016-01-08,4,25,home,FALSE,California,64,Golden Bears,California Golden Bears,California
+400845188,2016,regular-season,2016-01-08,4,38,away,FALSE,Colorado,35,Buffaloes,Colorado Buffaloes,Colorado
+400842356,2016,regular-season,2016-01-08,4,305,home,FALSE,DePaul,75,Blue Demons,DePaul Blue Demons,DePaul
+400842356,2016,regular-season,2016-01-08,4,46,away,FALSE,Georgetown,53,Hoyas,Georgetown Hoyas,Georgetown

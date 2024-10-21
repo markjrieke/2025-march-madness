@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273520059,2007-12-18,2,59,home,FALSE,Georgia Tech,66,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-273520059,2007-12-18,2,2305,away,FALSE,Kansas,71,Jayhawks,Kansas Jayhawks,Kansas
-273520251,2007-12-18,2,251,home,FALSE,Texas,66,Longhorns,Texas Longhorns,Texas
-273520251,2007-12-18,2,198,away,FALSE,Oral Roberts,56,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-273520026,2007-12-18,2,26,home,FALSE,UCLA,77,Bruins,UCLA Bruins,UCLA
-273520026,2007-12-18,2,2710,away,FALSE,Western Illinois,52,Leathernecks,Western Illinois Leathernecks,W Illinois
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273520059,2008,regular-season,2007-12-18,2,59,home,FALSE,Georgia Tech,66,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+273520059,2008,regular-season,2007-12-18,2,2305,away,FALSE,Kansas,71,Jayhawks,Kansas Jayhawks,Kansas
+273520251,2008,regular-season,2007-12-18,2,251,home,FALSE,Texas,66,Longhorns,Texas Longhorns,Texas
+273520251,2008,regular-season,2007-12-18,2,198,away,FALSE,Oral Roberts,56,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+273520026,2008,regular-season,2007-12-18,2,26,home,FALSE,UCLA,77,Bruins,UCLA Bruins,UCLA
+273520026,2008,regular-season,2007-12-18,2,2710,away,FALSE,Western Illinois,52,Leathernecks,Western Illinois Leathernecks,W Illinois

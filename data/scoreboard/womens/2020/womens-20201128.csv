@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401263604,2020-11-28,4,2483,home,FALSE,Oregon,116,Ducks,Oregon Ducks,Oregon
-401263604,2020-11-28,4,2547,away,FALSE,Seattle U,51,Redhawks,Seattle U Redhawks,Seattle U
-401263264,2020-11-28,4,305,home,FALSE,DePaul,91,Blue Demons,DePaul Blue Demons,DePaul
-401263264,2020-11-28,4,245,away,FALSE,Texas A&M,93,Aggies,Texas A&M Aggies,Texas A&M
-401263467,2020-11-28,4,2571,home,FALSE,South Dakota State,76,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-401263467,2020-11-28,4,66,away,FALSE,Iowa State,69,Cyclones,Iowa State Cyclones,Iowa State
-401265936,2020-11-28,4,204,home,FALSE,Oregon State,88,Beavers,Oregon State Beavers,Oregon St
-401265936,2020-11-28,4,2701,away,FALSE,Montana Western,54,Bulldogs,Montana Western Bulldogs,W Montana
-401257642,2020-11-28,0,2132,home,FALSE,Cincinnati,0,Bearcats,Cincinnati Bearcats,Cincinnati
-401257642,2020-11-28,0,97,away,FALSE,Louisville,0,Cardinals,Louisville Cardinals,Louisville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401263604,2021,regular-season,2020-11-28,4,2483,home,FALSE,Oregon,116,Ducks,Oregon Ducks,Oregon
+401263604,2021,regular-season,2020-11-28,4,2547,away,FALSE,Seattle U,51,Redhawks,Seattle U Redhawks,Seattle U
+401263264,2021,regular-season,2020-11-28,4,305,home,FALSE,DePaul,91,Blue Demons,DePaul Blue Demons,DePaul
+401263264,2021,regular-season,2020-11-28,4,245,away,FALSE,Texas A&M,93,Aggies,Texas A&M Aggies,Texas A&M
+401263467,2021,regular-season,2020-11-28,4,2571,home,FALSE,South Dakota State,76,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+401263467,2021,regular-season,2020-11-28,4,66,away,FALSE,Iowa State,69,Cyclones,Iowa State Cyclones,Iowa State
+401265936,2021,regular-season,2020-11-28,4,204,home,FALSE,Oregon State,88,Beavers,Oregon State Beavers,Oregon St
+401265936,2021,regular-season,2020-11-28,4,2701,away,FALSE,Montana Western,54,Bulldogs,Montana Western Bulldogs,W Montana
+401257642,2021,regular-season,2020-11-28,0,2132,home,FALSE,Cincinnati,0,Bearcats,Cincinnati Bearcats,Cincinnati
+401257642,2021,regular-season,2020-11-28,0,97,away,FALSE,Louisville,0,Cardinals,Louisville Cardinals,Louisville

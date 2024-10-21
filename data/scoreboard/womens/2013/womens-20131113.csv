@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400508311,2013-11-13,2,96,home,FALSE,Kentucky,103,Wildcats,Kentucky Wildcats,Kentucky
-400508311,2013-11-13,2,290,away,FALSE,Georgia Southern,38,Eagles,Georgia Southern Eagles,GA Southern
-400508313,2013-11-13,2,245,home,FALSE,Texas A&M,76,Aggies,Texas A&M Aggies,Texas A&M
-400508313,2013-11-13,2,2504,away,FALSE,Prairie View A&M,27,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
-400505126,2013-11-13,2,85,home,FALSE,IU Indianapolis,56,Jaguars,IU Indianapolis Jaguars,IU Indy
-400505126,2013-11-13,2,2509,away,FALSE,Purdue,76,Boilermakers,Purdue Boilermakers,Purdue
-400503647,2013-11-13,2,66,home,FALSE,Iowa State,88,Cyclones,Iowa State Cyclones,Iowa State
-400503647,2013-11-13,2,233,away,FALSE,South Dakota,72,Coyotes,South Dakota Coyotes,South Dakota
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400508311,2014,regular-season,2013-11-13,2,96,home,FALSE,Kentucky,103,Wildcats,Kentucky Wildcats,Kentucky
+400508311,2014,regular-season,2013-11-13,2,290,away,FALSE,Georgia Southern,38,Eagles,Georgia Southern Eagles,GA Southern
+400508313,2014,regular-season,2013-11-13,2,245,home,FALSE,Texas A&M,76,Aggies,Texas A&M Aggies,Texas A&M
+400508313,2014,regular-season,2013-11-13,2,2504,away,FALSE,Prairie View A&M,27,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
+400505126,2014,regular-season,2013-11-13,2,85,home,FALSE,IU Indianapolis,56,Jaguars,IU Indianapolis Jaguars,IU Indy
+400505126,2014,regular-season,2013-11-13,2,2509,away,FALSE,Purdue,76,Boilermakers,Purdue Boilermakers,Purdue
+400503647,2014,regular-season,2013-11-13,2,66,home,FALSE,Iowa State,88,Cyclones,Iowa State Cyclones,Iowa State
+400503647,2014,regular-season,2013-11-13,2,233,away,FALSE,South Dakota,72,Coyotes,South Dakota Coyotes,South Dakota

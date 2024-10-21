@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400831526,2016-01-25,2,66,home,FALSE,Iowa State,85,Cyclones,Iowa State Cyclones,Iowa State
-400831526,2016-01-25,2,2305,away,FALSE,Kansas,72,Jayhawks,Kansas Jayhawks,Kansas
-400839768,2016-01-25,2,2390,home,FALSE,Miami,80,Hurricanes,Miami Hurricanes,Miami
-400839768,2016-01-25,2,150,away,FALSE,Duke,69,Blue Devils,Duke Blue Devils,Duke
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400831526,2016,regular-season,2016-01-25,2,66,home,FALSE,Iowa State,85,Cyclones,Iowa State Cyclones,Iowa State
+400831526,2016,regular-season,2016-01-25,2,2305,away,FALSE,Kansas,72,Jayhawks,Kansas Jayhawks,Kansas
+400839768,2016,regular-season,2016-01-25,2,2390,home,FALSE,Miami,80,Hurricanes,Miami Hurricanes,Miami
+400839768,2016,regular-season,2016-01-25,2,150,away,FALSE,Duke,69,Blue Devils,Duke Blue Devils,Duke

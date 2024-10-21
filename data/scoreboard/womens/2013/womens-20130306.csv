@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330650048,2013-03-06,2,48,home,FALSE,Delaware,86,Blue Hens,Delaware Blue Hens,Delaware
-330650048,2013-03-06,2,2247,away,FALSE,Georgia State,58,Panthers,Georgia State Panthers,Georgia St
-330652649,2013-03-06,2,2649,home,FALSE,Toledo,63,Rockets,Toledo Rockets,Toledo
-330652649,2013-03-06,2,2050,away,FALSE,Ball State,39,Cardinals,Ball State Cardinals,Ball State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330650048,2013,regular-season,2013-03-06,2,48,home,FALSE,Delaware,86,Blue Hens,Delaware Blue Hens,Delaware
+330650048,2013,regular-season,2013-03-06,2,2247,away,FALSE,Georgia State,58,Panthers,Georgia State Panthers,Georgia St
+330652649,2013,regular-season,2013-03-06,2,2649,home,FALSE,Toledo,63,Rockets,Toledo Rockets,Toledo
+330652649,2013,regular-season,2013-03-06,2,2050,away,FALSE,Ball State,39,Cardinals,Ball State Cardinals,Ball State

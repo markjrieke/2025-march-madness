@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400916227,2017-01-31,2,66,home,FALSE,Iowa State,72,Cyclones,Iowa State Cyclones,Iowa State
-400916227,2017-01-31,2,277,away,FALSE,West Virginia,85,Mountaineers,West Virginia Mountaineers,West Virginia
-400910673,2017-01-31,3,96,home,FALSE,Kentucky,90,Wildcats,Kentucky Wildcats,Kentucky
-400910673,2017-01-31,3,61,away,FALSE,Georgia,81,Bulldogs,Georgia Bulldogs,Georgia
-400914939,2017-01-31,2,356,home,FALSE,Illinois,43,Fighting Illini,Illinois Fighting Illini,Illinois
-400914939,2017-01-31,2,275,away,FALSE,Wisconsin,57,Badgers,Wisconsin Badgers,Wisconsin
-400915412,2017-01-31,2,153,home,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
-400915412,2017-01-31,2,221,away,FALSE,Pittsburgh,78,Panthers,Pittsburgh Panthers,Pitt
-400919702,2017-01-31,2,2086,home,FALSE,Butler,67,Bulldogs,Butler Bulldogs,Butler
-400919702,2017-01-31,2,156,away,FALSE,Creighton,76,Bluejays,Creighton Bluejays,Creighton
-400915034,2017-01-31,2,194,home,FALSE,Ohio State,71,Buckeyes,Ohio State Buckeyes,Ohio State
-400915034,2017-01-31,2,120,away,FALSE,Maryland,77,Terrapins,Maryland Terrapins,Maryland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400916227,2017,regular-season,2017-01-31,2,66,home,FALSE,Iowa State,72,Cyclones,Iowa State Cyclones,Iowa State
+400916227,2017,regular-season,2017-01-31,2,277,away,FALSE,West Virginia,85,Mountaineers,West Virginia Mountaineers,West Virginia
+400910673,2017,regular-season,2017-01-31,3,96,home,FALSE,Kentucky,90,Wildcats,Kentucky Wildcats,Kentucky
+400910673,2017,regular-season,2017-01-31,3,61,away,FALSE,Georgia,81,Bulldogs,Georgia Bulldogs,Georgia
+400914939,2017,regular-season,2017-01-31,2,356,home,FALSE,Illinois,43,Fighting Illini,Illinois Fighting Illini,Illinois
+400914939,2017,regular-season,2017-01-31,2,275,away,FALSE,Wisconsin,57,Badgers,Wisconsin Badgers,Wisconsin
+400915412,2017,regular-season,2017-01-31,2,153,home,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
+400915412,2017,regular-season,2017-01-31,2,221,away,FALSE,Pittsburgh,78,Panthers,Pittsburgh Panthers,Pitt
+400919702,2017,regular-season,2017-01-31,2,2086,home,FALSE,Butler,67,Bulldogs,Butler Bulldogs,Butler
+400919702,2017,regular-season,2017-01-31,2,156,away,FALSE,Creighton,76,Bluejays,Creighton Bluejays,Creighton
+400915034,2017,regular-season,2017-01-31,2,194,home,FALSE,Ohio State,71,Buckeyes,Ohio State Buckeyes,Ohio State
+400915034,2017,regular-season,2017-01-31,2,120,away,FALSE,Maryland,77,Terrapins,Maryland Terrapins,Maryland

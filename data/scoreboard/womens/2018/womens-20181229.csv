@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401092727,2018-12-29,4,24,home,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
-401092727,2018-12-29,4,2463,away,FALSE,Cal State Northridge,43,Matadors,Cal State Northridge Matadors,CSU Northridge
-401093099,2018-12-29,4,204,home,FALSE,Oregon State,92,Beavers,Oregon State Beavers,Oregon St
-401093099,2018-12-29,4,2934,away,FALSE,Cal State Bakersfield,52,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
-401092595,2018-12-29,4,251,home,FALSE,Texas,104,Longhorns,Texas Longhorns,Texas
-401092595,2018-12-29,4,2466,away,FALSE,Northwestern State,66,Lady Demons,Northwestern State Lady Demons,N'Western St
-401091539,2018-12-29,4,96,home,FALSE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
-401091539,2018-12-29,4,2529,away,FALSE,Sacred Heart,43,Pioneers,Sacred Heart Pioneers,Sacred Heart
-401091085,2018-12-29,4,305,home,FALSE,DePaul,82,Blue Demons,DePaul Blue Demons,DePaul
-401091085,2018-12-29,4,156,away,FALSE,Creighton,85,Bluejays,Creighton Bluejays,Creighton
-401093982,2018-12-29,4,2351,home,FALSE,Loyola Marymount,53,Lions,Loyola Marymount Lions,LMU
-401093982,2018-12-29,4,2250,away,FALSE,Gonzaga,78,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401091082,2018-12-29,4,269,home,FALSE,Marquette,85,Golden Eagles,Marquette Golden Eagles,Marquette
-401091082,2018-12-29,4,2507,away,FALSE,Providence,46,Friars,Providence Friars,Providence
-401091540,2018-12-29,4,245,home,FALSE,Texas A&M,84,Aggies,Texas A&M Aggies,Texas A&M
-401091540,2018-12-29,4,292,away,FALSE,UT Rio Grande Valley,61,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401092727,2019,regular-season,2018-12-29,4,24,home,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
+401092727,2019,regular-season,2018-12-29,4,2463,away,FALSE,Cal State Northridge,43,Matadors,Cal State Northridge Matadors,CSU Northridge
+401093099,2019,regular-season,2018-12-29,4,204,home,FALSE,Oregon State,92,Beavers,Oregon State Beavers,Oregon St
+401093099,2019,regular-season,2018-12-29,4,2934,away,FALSE,Cal State Bakersfield,52,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+401092595,2019,regular-season,2018-12-29,4,251,home,FALSE,Texas,104,Longhorns,Texas Longhorns,Texas
+401092595,2019,regular-season,2018-12-29,4,2466,away,FALSE,Northwestern State,66,Lady Demons,Northwestern State Lady Demons,N'Western St
+401091539,2019,regular-season,2018-12-29,4,96,home,FALSE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
+401091539,2019,regular-season,2018-12-29,4,2529,away,FALSE,Sacred Heart,43,Pioneers,Sacred Heart Pioneers,Sacred Heart
+401091085,2019,regular-season,2018-12-29,4,305,home,FALSE,DePaul,82,Blue Demons,DePaul Blue Demons,DePaul
+401091085,2019,regular-season,2018-12-29,4,156,away,FALSE,Creighton,85,Bluejays,Creighton Bluejays,Creighton
+401093982,2019,regular-season,2018-12-29,4,2351,home,FALSE,Loyola Marymount,53,Lions,Loyola Marymount Lions,LMU
+401093982,2019,regular-season,2018-12-29,4,2250,away,FALSE,Gonzaga,78,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401091082,2019,regular-season,2018-12-29,4,269,home,FALSE,Marquette,85,Golden Eagles,Marquette Golden Eagles,Marquette
+401091082,2019,regular-season,2018-12-29,4,2507,away,FALSE,Providence,46,Friars,Providence Friars,Providence
+401091540,2019,regular-season,2018-12-29,4,245,home,FALSE,Texas A&M,84,Aggies,Texas A&M Aggies,Texas A&M
+401091540,2019,regular-season,2018-12-29,4,292,away,FALSE,UT Rio Grande Valley,61,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande

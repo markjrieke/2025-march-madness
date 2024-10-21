@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400496857,2013-11-15,2,97,home,FALSE,Louisville,99,Cardinals,Louisville Cardinals,Louisville
-400496857,2013-11-15,2,172,away,FALSE,Cornell,54,Big Red,Cornell Big Red,Cornell
-400499243,2013-11-15,2,150,home,FALSE,Duke,97,Blue Devils,Duke Blue Devils,Duke
-400499243,2013-11-15,2,2226,away,FALSE,Florida Atlantic,64,Owls,Florida Atlantic Owls,FAU
-400498252,2013-11-15,2,197,home,FALSE,Oklahoma State,97,Cowboys,Oklahoma State Cowboys,Oklahoma St
-400498252,2013-11-15,2,2029,away,FALSE,Arkansas-Pine Bluff,63,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400496857,2014,regular-season,2013-11-15,2,97,home,FALSE,Louisville,99,Cardinals,Louisville Cardinals,Louisville
+400496857,2014,regular-season,2013-11-15,2,172,away,FALSE,Cornell,54,Big Red,Cornell Big Red,Cornell
+400499243,2014,regular-season,2013-11-15,2,150,home,FALSE,Duke,97,Blue Devils,Duke Blue Devils,Duke
+400499243,2014,regular-season,2013-11-15,2,2226,away,FALSE,Florida Atlantic,64,Owls,Florida Atlantic Owls,FAU
+400498252,2014,regular-season,2013-11-15,2,197,home,FALSE,Oklahoma State,97,Cowboys,Oklahoma State Cowboys,Oklahoma St
+400498252,2014,regular-season,2013-11-15,2,2029,away,FALSE,Arkansas-Pine Bluff,63,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff

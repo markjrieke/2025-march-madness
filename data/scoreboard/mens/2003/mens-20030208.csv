@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230390057,2003-02-08,2,57,home,FALSE,Florida,75,Gators,Florida Gators,Florida
-230390057,2003-02-08,2,333,away,FALSE,Alabama,56,Crimson Tide,Alabama Crimson Tide,Alabama
-230390265,2003-02-08,2,265,home,FALSE,Washington State,62,Cougars,Washington State Cougars,Washington St
-230390265,2003-02-08,2,12,away,FALSE,Arizona,75,Wildcats,Arizona Wildcats,Arizona
-230390245,2003-02-08,2,245,home,FALSE,Texas A&M,87,Aggies,Texas A&M Aggies,Texas A&M
-230390245,2003-02-08,2,251,away,FALSE,Texas,95,Longhorns,Texas Longhorns,Texas
-230390248,2003-02-08,2,248,home,FALSE,Houston,55,Cougars,Houston Cougars,Houston
-230390248,2003-02-08,2,97,away,FALSE,Louisville,81,Cardinals,Louisville Cardinals,Louisville
-230390145,2003-02-08,2,145,home,FALSE,Ole Miss,62,Rebels,Ole Miss Rebels,Ole Miss
-230390145,2003-02-08,2,96,away,FALSE,Kentucky,80,Wildcats,Kentucky Wildcats,Kentucky
-230390201,2003-02-08,2,201,home,FALSE,Oklahoma,91,Sooners,Oklahoma Sooners,Oklahoma
-230390201,2003-02-08,2,239,away,FALSE,Baylor,42,Bears,Baylor Bears,Baylor
-230392306,2003-02-08,2,2306,home,FALSE,Kansas State,64,Wildcats,Kansas State Wildcats,Kansas St
-230392306,2003-02-08,2,2305,away,FALSE,Kansas,82,Jayhawks,Kansas Jayhawks,Kansas
-230390156,2003-02-08,2,156,home,FALSE,Creighton,88,Bluejays,Creighton Bluejays,Creighton
-230390156,2003-02-08,2,71,away,FALSE,Bradley,65,Braves,Bradley Braves,Bradley
-230392633,2003-02-08,2,2633,home,FALSE,Tennessee,78,Volunteers,Tennessee Volunteers,Tennessee
-230392633,2003-02-08,2,61,away,FALSE,Georgia,72,Bulldogs,Georgia Bulldogs,Georgia
-230392507,2003-02-08,2,2507,home,FALSE,Providence,68,Friars,Providence Friars,Providence
-230392507,2003-02-08,2,41,away,FALSE,UConn,84,Huskies,UConn Huskies,UConn
-230390277,2003-02-08,2,277,home,FALSE,West Virginia,80,Mountaineers,West Virginia Mountaineers,West Virginia
-230390277,2003-02-08,2,183,away,FALSE,Syracuse,94,Orange,Syracuse Orange,Syracuse
-230392752,2003-02-08,2,2752,home,FALSE,Xavier,85,Musketeers,Xavier Musketeers,Xavier
-230392752,2003-02-08,2,2168,away,FALSE,Dayton,77,Flyers,Dayton Flyers,Dayton
-230390344,2003-02-08,2,344,home,FALSE,Mississippi State,84,Bulldogs,Mississippi State Bulldogs,Mississippi St
-230390344,2003-02-08,2,8,away,FALSE,Arkansas,54,Razorbacks,Arkansas Razorbacks,Arkansas
-230390135,2003-02-08,2,135,home,FALSE,Minnesota,90,Golden Gophers,Minnesota Golden Gophers,Minnesota
-230390135,2003-02-08,2,2509,away,FALSE,Purdue,68,Boilermakers,Purdue Boilermakers,Purdue
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230390057,2003,regular-season,2003-02-08,2,57,home,FALSE,Florida,75,Gators,Florida Gators,Florida
+230390057,2003,regular-season,2003-02-08,2,333,away,FALSE,Alabama,56,Crimson Tide,Alabama Crimson Tide,Alabama
+230390265,2003,regular-season,2003-02-08,2,265,home,FALSE,Washington State,62,Cougars,Washington State Cougars,Washington St
+230390265,2003,regular-season,2003-02-08,2,12,away,FALSE,Arizona,75,Wildcats,Arizona Wildcats,Arizona
+230390245,2003,regular-season,2003-02-08,2,245,home,FALSE,Texas A&M,87,Aggies,Texas A&M Aggies,Texas A&M
+230390245,2003,regular-season,2003-02-08,2,251,away,FALSE,Texas,95,Longhorns,Texas Longhorns,Texas
+230390248,2003,regular-season,2003-02-08,2,248,home,FALSE,Houston,55,Cougars,Houston Cougars,Houston
+230390248,2003,regular-season,2003-02-08,2,97,away,FALSE,Louisville,81,Cardinals,Louisville Cardinals,Louisville
+230390145,2003,regular-season,2003-02-08,2,145,home,FALSE,Ole Miss,62,Rebels,Ole Miss Rebels,Ole Miss
+230390145,2003,regular-season,2003-02-08,2,96,away,FALSE,Kentucky,80,Wildcats,Kentucky Wildcats,Kentucky
+230390201,2003,regular-season,2003-02-08,2,201,home,FALSE,Oklahoma,91,Sooners,Oklahoma Sooners,Oklahoma
+230390201,2003,regular-season,2003-02-08,2,239,away,FALSE,Baylor,42,Bears,Baylor Bears,Baylor
+230392306,2003,regular-season,2003-02-08,2,2306,home,FALSE,Kansas State,64,Wildcats,Kansas State Wildcats,Kansas St
+230392306,2003,regular-season,2003-02-08,2,2305,away,FALSE,Kansas,82,Jayhawks,Kansas Jayhawks,Kansas
+230390156,2003,regular-season,2003-02-08,2,156,home,FALSE,Creighton,88,Bluejays,Creighton Bluejays,Creighton
+230390156,2003,regular-season,2003-02-08,2,71,away,FALSE,Bradley,65,Braves,Bradley Braves,Bradley
+230392633,2003,regular-season,2003-02-08,2,2633,home,FALSE,Tennessee,78,Volunteers,Tennessee Volunteers,Tennessee
+230392633,2003,regular-season,2003-02-08,2,61,away,FALSE,Georgia,72,Bulldogs,Georgia Bulldogs,Georgia
+230392507,2003,regular-season,2003-02-08,2,2507,home,FALSE,Providence,68,Friars,Providence Friars,Providence
+230392507,2003,regular-season,2003-02-08,2,41,away,FALSE,UConn,84,Huskies,UConn Huskies,UConn
+230390277,2003,regular-season,2003-02-08,2,277,home,FALSE,West Virginia,80,Mountaineers,West Virginia Mountaineers,West Virginia
+230390277,2003,regular-season,2003-02-08,2,183,away,FALSE,Syracuse,94,Orange,Syracuse Orange,Syracuse
+230392752,2003,regular-season,2003-02-08,2,2752,home,FALSE,Xavier,85,Musketeers,Xavier Musketeers,Xavier
+230392752,2003,regular-season,2003-02-08,2,2168,away,FALSE,Dayton,77,Flyers,Dayton Flyers,Dayton
+230390344,2003,regular-season,2003-02-08,2,344,home,FALSE,Mississippi State,84,Bulldogs,Mississippi State Bulldogs,Mississippi St
+230390344,2003,regular-season,2003-02-08,2,8,away,FALSE,Arkansas,54,Razorbacks,Arkansas Razorbacks,Arkansas
+230390135,2003,regular-season,2003-02-08,2,135,home,FALSE,Minnesota,90,Golden Gophers,Minnesota Golden Gophers,Minnesota
+230390135,2003,regular-season,2003-02-08,2,2509,away,FALSE,Purdue,68,Boilermakers,Purdue Boilermakers,Purdue

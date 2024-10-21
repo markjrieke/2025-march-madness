@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280242633,2008-01-24,2,2633,home,FALSE,Tennessee,98,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-280242633,2008-01-24,2,8,away,FALSE,Arkansas,55,Razorbacks,Arkansas Razorbacks,Arkansas
-280240002,2008-01-24,2,2,home,FALSE,Auburn,59,Tigers,Auburn Tigers,Auburn
-280240002,2008-01-24,2,99,away,FALSE,LSU,79,Tigers,LSU Tigers,LSU
-280240059,2008-01-24,2,59,home,FALSE,Georgia Tech,47,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-280240059,2008-01-24,2,150,away,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
-280240111,2008-01-24,2,111,home,FALSE,Northeastern,51,Huskies,Northeastern Huskies,Northeastern
-280240111,2008-01-24,2,295,away,FALSE,Old Dominion,85,Monarchs,Old Dominion Monarchs,Old Dominion
-280240135,2008-01-24,2,135,home,FALSE,Minnesota,79,Golden Gophers,Minnesota Golden Gophers,Minnesota
-280240135,2008-01-24,2,194,away,FALSE,Ohio State,70,Buckeyes,Ohio State Buckeyes,Ohio State
-280240057,2008-01-24,2,57,home,FALSE,Florida,55,Gators,Florida Gators,Florida
-280240057,2008-01-24,2,61,away,FALSE,Georgia,82,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280242633,2008,regular-season,2008-01-24,2,2633,home,FALSE,Tennessee,98,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+280242633,2008,regular-season,2008-01-24,2,8,away,FALSE,Arkansas,55,Razorbacks,Arkansas Razorbacks,Arkansas
+280240002,2008,regular-season,2008-01-24,2,2,home,FALSE,Auburn,59,Tigers,Auburn Tigers,Auburn
+280240002,2008,regular-season,2008-01-24,2,99,away,FALSE,LSU,79,Tigers,LSU Tigers,LSU
+280240059,2008,regular-season,2008-01-24,2,59,home,FALSE,Georgia Tech,47,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+280240059,2008,regular-season,2008-01-24,2,150,away,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
+280240111,2008,regular-season,2008-01-24,2,111,home,FALSE,Northeastern,51,Huskies,Northeastern Huskies,Northeastern
+280240111,2008,regular-season,2008-01-24,2,295,away,FALSE,Old Dominion,85,Monarchs,Old Dominion Monarchs,Old Dominion
+280240135,2008,regular-season,2008-01-24,2,135,home,FALSE,Minnesota,79,Golden Gophers,Minnesota Golden Gophers,Minnesota
+280240135,2008,regular-season,2008-01-24,2,194,away,FALSE,Ohio State,70,Buckeyes,Ohio State Buckeyes,Ohio State
+280240057,2008,regular-season,2008-01-24,2,57,home,FALSE,Florida,55,Gators,Florida Gators,Florida
+280240057,2008,regular-season,2008-01-24,2,61,away,FALSE,Georgia,82,Lady Bulldogs,Georgia Lady Bulldogs,Georgia

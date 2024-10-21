@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401166118,2019-12-15,2,135,home,FALSE,Minnesota,84,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401166118,2019-12-15,2,194,away,FALSE,Ohio State,71,Buckeyes,Ohio State Buckeyes,Ohio State
-401168255,2019-12-15,2,153,home,FALSE,North Carolina,64,Tar Heels,North Carolina Tar Heels,North Carolina
-401168255,2019-12-15,2,2747,away,FALSE,Wofford,68,Terriers,Wofford Terriers,Wofford
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401166118,2020,regular-season,2019-12-15,2,135,home,FALSE,Minnesota,84,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401166118,2020,regular-season,2019-12-15,2,194,away,FALSE,Ohio State,71,Buckeyes,Ohio State Buckeyes,Ohio State
+401168255,2020,regular-season,2019-12-15,2,153,home,FALSE,North Carolina,64,Tar Heels,North Carolina Tar Heels,North Carolina
+401168255,2020,regular-season,2019-12-15,2,2747,away,FALSE,Wofford,68,Terriers,Wofford Terriers,Wofford

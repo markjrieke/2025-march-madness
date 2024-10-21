@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280660026,2008-03-06,3,26,home,FALSE,UCLA,77,Bruins,UCLA Bruins,UCLA
-280660026,2008-03-06,3,24,away,FALSE,Stanford,67,Cardinal,Stanford Cardinal,Stanford
-280662603,2008-03-06,2,2603,home,FALSE,Saint Joseph's,71,Hawks,Saint Joseph's Hawks,Saint Joseph's
-280662603,2008-03-06,2,2752,away,FALSE,Xavier,66,Musketeers,Xavier Musketeers,Xavier
-280662507,2008-03-06,2,2507,home,FALSE,Providence,85,Friars,Providence Friars,Providence
-280662507,2008-03-06,2,41,away,FALSE,UConn,76,Huskies,UConn Huskies,UConn
-280660356,2008-03-06,2,356,home,FALSE,Illinois,51,Fighting Illini,Illinois Fighting Illini,Illinois
-280660356,2008-03-06,2,127,away,FALSE,Michigan State,59,Spartans,Michigan State Spartans,Michigan St
-280660059,2008-03-06,2,59,home,FALSE,Georgia Tech,80,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-280660059,2008-03-06,2,228,away,FALSE,Clemson,75,Tigers,Clemson Tigers,Clemson
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280660026,2008,regular-season,2008-03-06,3,26,home,FALSE,UCLA,77,Bruins,UCLA Bruins,UCLA
+280660026,2008,regular-season,2008-03-06,3,24,away,FALSE,Stanford,67,Cardinal,Stanford Cardinal,Stanford
+280662603,2008,regular-season,2008-03-06,2,2603,home,FALSE,Saint Joseph's,71,Hawks,Saint Joseph's Hawks,Saint Joseph's
+280662603,2008,regular-season,2008-03-06,2,2752,away,FALSE,Xavier,66,Musketeers,Xavier Musketeers,Xavier
+280662507,2008,regular-season,2008-03-06,2,2507,home,FALSE,Providence,85,Friars,Providence Friars,Providence
+280662507,2008,regular-season,2008-03-06,2,41,away,FALSE,UConn,76,Huskies,UConn Huskies,UConn
+280660356,2008,regular-season,2008-03-06,2,356,home,FALSE,Illinois,51,Fighting Illini,Illinois Fighting Illini,Illinois
+280660356,2008,regular-season,2008-03-06,2,127,away,FALSE,Michigan State,59,Spartans,Michigan State Spartans,Michigan St
+280660059,2008,regular-season,2008-03-06,2,59,home,FALSE,Georgia Tech,80,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+280660059,2008,regular-season,2008-03-06,2,228,away,FALSE,Clemson,75,Tigers,Clemson Tigers,Clemson

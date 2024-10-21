@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401082394,2018-11-21,2,2294,home,FALSE,Iowa,105,Hawkeyes,Iowa Hawkeyes,Iowa
-401082394,2018-11-21,2,2011,away,FALSE,Alabama State,78,Hornets,Alabama State Hornets,Alabama St
-401088051,2018-11-21,2,2084,home,FALSE,Buffalo,110,Bulls,Buffalo Bulls,Buffalo
-401088051,2018-11-21,2,159,away,FALSE,Dartmouth,71,Big Green,Dartmouth Big Green,Dartmouth
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401082394,2019,regular-season,2018-11-21,2,2294,home,FALSE,Iowa,105,Hawkeyes,Iowa Hawkeyes,Iowa
+401082394,2019,regular-season,2018-11-21,2,2011,away,FALSE,Alabama State,78,Hornets,Alabama State Hornets,Alabama St
+401088051,2019,regular-season,2018-11-21,2,2084,home,FALSE,Buffalo,110,Bulls,Buffalo Bulls,Buffalo
+401088051,2019,regular-season,2018-11-21,2,159,away,FALSE,Dartmouth,71,Big Green,Dartmouth Big Green,Dartmouth

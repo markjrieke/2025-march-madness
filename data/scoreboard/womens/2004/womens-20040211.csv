@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240420251,2004-02-11,2,251,home,FALSE,Texas,66,Longhorns,Texas Longhorns,Texas
-240420251,2004-02-11,2,245,away,FALSE,Texas A&M,55,Aggies,Texas A&M Aggies,Texas A&M
-240420183,2004-02-11,2,183,home,FALSE,Syracuse,38,Orange,Syracuse Orange,Syracuse
-240420183,2004-02-11,2,41,away,FALSE,UConn,82,Huskies,UConn Huskies,UConn
-240422305,2004-02-11,2,2305,home,FALSE,Kansas,51,Jayhawks,Kansas Jayhawks,Kansas
-240422305,2004-02-11,2,2306,away,FALSE,Kansas State,81,Wildcats,Kansas State Wildcats,Kansas St
-240420038,2004-02-11,2,38,home,FALSE,Colorado,72,Buffaloes,Colorado Buffaloes,Colorado
-240420038,2004-02-11,2,66,away,FALSE,Iowa State,67,Cyclones,Iowa State Cyclones,Iowa State
-240420142,2004-02-11,2,142,home,FALSE,Missouri,59,Tigers,Missouri Tigers,Missouri
-240420142,2004-02-11,2,239,away,FALSE,Baylor,83,Bears,Baylor Bears,Baylor
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240420251,2004,regular-season,2004-02-11,2,251,home,FALSE,Texas,66,Longhorns,Texas Longhorns,Texas
+240420251,2004,regular-season,2004-02-11,2,245,away,FALSE,Texas A&M,55,Aggies,Texas A&M Aggies,Texas A&M
+240420183,2004,regular-season,2004-02-11,2,183,home,FALSE,Syracuse,38,Orange,Syracuse Orange,Syracuse
+240420183,2004,regular-season,2004-02-11,2,41,away,FALSE,UConn,82,Huskies,UConn Huskies,UConn
+240422305,2004,regular-season,2004-02-11,2,2305,home,FALSE,Kansas,51,Jayhawks,Kansas Jayhawks,Kansas
+240422305,2004,regular-season,2004-02-11,2,2306,away,FALSE,Kansas State,81,Wildcats,Kansas State Wildcats,Kansas St
+240420038,2004,regular-season,2004-02-11,2,38,home,FALSE,Colorado,72,Buffaloes,Colorado Buffaloes,Colorado
+240420038,2004,regular-season,2004-02-11,2,66,away,FALSE,Iowa State,67,Cyclones,Iowa State Cyclones,Iowa State
+240420142,2004,regular-season,2004-02-11,2,142,home,FALSE,Missouri,59,Tigers,Missouri Tigers,Missouri
+240420142,2004,regular-season,2004-02-11,2,239,away,FALSE,Baylor,83,Bears,Baylor Bears,Baylor

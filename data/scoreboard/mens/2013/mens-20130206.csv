@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330372628,2013-02-06,2,2628,home,FALSE,TCU,62,Horned Frogs,TCU Horned Frogs,TCU
-330372628,2013-02-06,2,2305,away,FALSE,Kansas,55,Jayhawks,Kansas Jayhawks,Kansas
-330370012,2013-02-06,2,12,home,FALSE,Arizona,73,Wildcats,Arizona Wildcats,Arizona
-330370012,2013-02-06,2,24,away,FALSE,Stanford,66,Cardinal,Stanford Cardinal,Stanford
-330370164,2013-02-06,2,164,home,FALSE,Rutgers,48,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-330370164,2013-02-06,2,97,away,FALSE,Louisville,68,Cardinals,Louisville Cardinals,Louisville
-330370127,2013-02-06,2,127,home,FALSE,Michigan State,61,Spartans,Michigan State Spartans,Michigan St
-330370127,2013-02-06,2,135,away,FALSE,Minnesota,50,Golden Gophers,Minnesota Golden Gophers,Minnesota
-330372086,2013-02-06,2,2086,home,FALSE,Butler,77,Bulldogs,Butler Bulldogs,Butler
-330372086,2013-02-06,2,179,away,FALSE,St. Bonaventure,58,Bonnies,St. Bonaventure Bonnies,St Bonaventure
-330370167,2013-02-06,2,167,home,FALSE,New Mexico,81,Lobos,New Mexico Lobos,New Mexico
-330370167,2013-02-06,2,2005,away,FALSE,Air Force,58,Falcons,Air Force Falcons,Air Force
-330370282,2013-02-06,2,282,home,FALSE,Indiana State,76,Sycamores,Indiana State Sycamores,Indiana St
-330370282,2013-02-06,2,156,away,FALSE,Creighton,57,Bluejays,Creighton Bluejays,Creighton
-330372507,2013-02-06,2,2507,home,FALSE,Providence,54,Friars,Providence Friars,Providence
-330372507,2013-02-06,2,2132,away,FALSE,Cincinnati,50,Bearcats,Cincinnati Bearcats,Cincinnati
-330370197,2013-02-06,3,197,home,FALSE,Oklahoma State,69,Cowboys,Oklahoma State Cowboys,Oklahoma St
-330370197,2013-02-06,3,239,away,FALSE,Baylor,67,Bears,Baylor Bears,Baylor
-330370058,2013-02-06,2,58,home,FALSE,South Florida,47,Bulls,South Florida Bulls,South Florida
-330370058,2013-02-06,2,269,away,FALSE,Marquette,70,Golden Eagles,Marquette Golden Eagles,Marquette
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330372628,2013,regular-season,2013-02-06,2,2628,home,FALSE,TCU,62,Horned Frogs,TCU Horned Frogs,TCU
+330372628,2013,regular-season,2013-02-06,2,2305,away,FALSE,Kansas,55,Jayhawks,Kansas Jayhawks,Kansas
+330370012,2013,regular-season,2013-02-06,2,12,home,FALSE,Arizona,73,Wildcats,Arizona Wildcats,Arizona
+330370012,2013,regular-season,2013-02-06,2,24,away,FALSE,Stanford,66,Cardinal,Stanford Cardinal,Stanford
+330370164,2013,regular-season,2013-02-06,2,164,home,FALSE,Rutgers,48,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+330370164,2013,regular-season,2013-02-06,2,97,away,FALSE,Louisville,68,Cardinals,Louisville Cardinals,Louisville
+330370127,2013,regular-season,2013-02-06,2,127,home,FALSE,Michigan State,61,Spartans,Michigan State Spartans,Michigan St
+330370127,2013,regular-season,2013-02-06,2,135,away,FALSE,Minnesota,50,Golden Gophers,Minnesota Golden Gophers,Minnesota
+330372086,2013,regular-season,2013-02-06,2,2086,home,FALSE,Butler,77,Bulldogs,Butler Bulldogs,Butler
+330372086,2013,regular-season,2013-02-06,2,179,away,FALSE,St. Bonaventure,58,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+330370167,2013,regular-season,2013-02-06,2,167,home,FALSE,New Mexico,81,Lobos,New Mexico Lobos,New Mexico
+330370167,2013,regular-season,2013-02-06,2,2005,away,FALSE,Air Force,58,Falcons,Air Force Falcons,Air Force
+330370282,2013,regular-season,2013-02-06,2,282,home,FALSE,Indiana State,76,Sycamores,Indiana State Sycamores,Indiana St
+330370282,2013,regular-season,2013-02-06,2,156,away,FALSE,Creighton,57,Bluejays,Creighton Bluejays,Creighton
+330372507,2013,regular-season,2013-02-06,2,2507,home,FALSE,Providence,54,Friars,Providence Friars,Providence
+330372507,2013,regular-season,2013-02-06,2,2132,away,FALSE,Cincinnati,50,Bearcats,Cincinnati Bearcats,Cincinnati
+330370197,2013,regular-season,2013-02-06,3,197,home,FALSE,Oklahoma State,69,Cowboys,Oklahoma State Cowboys,Oklahoma St
+330370197,2013,regular-season,2013-02-06,3,239,away,FALSE,Baylor,67,Bears,Baylor Bears,Baylor
+330370058,2013,regular-season,2013-02-06,2,58,home,FALSE,South Florida,47,Bulls,South Florida Bulls,South Florida
+330370058,2013,regular-season,2013-02-06,2,269,away,FALSE,Marquette,70,Golden Eagles,Marquette Golden Eagles,Marquette

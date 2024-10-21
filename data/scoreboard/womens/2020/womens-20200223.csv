@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401171319,2020-02-23,4,221,home,FALSE,Pittsburgh,47,Panthers,Pittsburgh Panthers,Pitt
-401171319,2020-02-23,4,97,away,FALSE,Louisville,79,Cardinals,Louisville Cardinals,Louisville
-401172194,2020-02-23,4,264,home,FALSE,Washington,74,Huskies,Washington Huskies,Washington
-401172194,2020-02-23,4,26,away,FALSE,UCLA,68,Bruins,UCLA Bruins,UCLA
-401166728,2020-02-23,4,344,home,FALSE,Mississippi State,64,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401166728,2020-02-23,4,333,away,FALSE,Alabama,66,Crimson Tide,Alabama Crimson Tide,Alabama
-401172191,2020-02-23,4,38,home,FALSE,Colorado,50,Buffaloes,Colorado Buffaloes,Colorado
-401172191,2020-02-23,4,12,away,FALSE,Arizona,38,Wildcats,Arizona Wildcats,Arizona
-401177620,2020-02-23,4,222,home,FALSE,Villanova,76,Wildcats,Villanova Wildcats,Villanova
-401177620,2020-02-23,4,305,away,FALSE,DePaul,58,Blue Demons,DePaul Blue Demons,DePaul
-401172195,2020-02-23,4,25,home,FALSE,California,63,Golden Bears,California Golden Bears,California
-401172195,2020-02-23,4,204,away,FALSE,Oregon State,76,Beavers,Oregon State Beavers,Oregon St
-401166731,2020-02-23,4,245,home,FALSE,Texas A&M,84,Aggies,Texas A&M Aggies,Texas A&M
-401166731,2020-02-23,4,2,away,FALSE,Auburn,54,Tigers,Auburn Tigers,Auburn
-401171320,2020-02-23,4,59,home,FALSE,Georgia Tech,65,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-401171320,2020-02-23,4,52,away,FALSE,Florida State,62,Seminoles,Florida State Seminoles,Florida St
-401172192,2020-02-23,4,254,home,FALSE,Utah,75,Utes,Utah Utes,Utah
-401172192,2020-02-23,4,9,away,FALSE,Arizona State,71,Sun Devils,Arizona State Sun Devils,Arizona St
-401166732,2020-02-23,4,57,home,FALSE,Florida,83,Gators,Florida Gators,Florida
-401166732,2020-02-23,4,8,away,FALSE,Arkansas,80,Razorbacks,Arkansas Razorbacks,Arkansas
-401179885,2020-02-23,4,2623,home,FALSE,Missouri State,82,Lady Bears,Missouri State Lady Bears,Missouri St
-401179885,2020-02-23,4,282,away,FALSE,Indiana State,58,Sycamores,Indiana State Sycamores,Indiana St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401171319,2020,regular-season,2020-02-23,4,221,home,FALSE,Pittsburgh,47,Panthers,Pittsburgh Panthers,Pitt
+401171319,2020,regular-season,2020-02-23,4,97,away,FALSE,Louisville,79,Cardinals,Louisville Cardinals,Louisville
+401172194,2020,regular-season,2020-02-23,4,264,home,FALSE,Washington,74,Huskies,Washington Huskies,Washington
+401172194,2020,regular-season,2020-02-23,4,26,away,FALSE,UCLA,68,Bruins,UCLA Bruins,UCLA
+401166728,2020,regular-season,2020-02-23,4,344,home,FALSE,Mississippi State,64,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401166728,2020,regular-season,2020-02-23,4,333,away,FALSE,Alabama,66,Crimson Tide,Alabama Crimson Tide,Alabama
+401172191,2020,regular-season,2020-02-23,4,38,home,FALSE,Colorado,50,Buffaloes,Colorado Buffaloes,Colorado
+401172191,2020,regular-season,2020-02-23,4,12,away,FALSE,Arizona,38,Wildcats,Arizona Wildcats,Arizona
+401177620,2020,regular-season,2020-02-23,4,222,home,FALSE,Villanova,76,Wildcats,Villanova Wildcats,Villanova
+401177620,2020,regular-season,2020-02-23,4,305,away,FALSE,DePaul,58,Blue Demons,DePaul Blue Demons,DePaul
+401172195,2020,regular-season,2020-02-23,4,25,home,FALSE,California,63,Golden Bears,California Golden Bears,California
+401172195,2020,regular-season,2020-02-23,4,204,away,FALSE,Oregon State,76,Beavers,Oregon State Beavers,Oregon St
+401166731,2020,regular-season,2020-02-23,4,245,home,FALSE,Texas A&M,84,Aggies,Texas A&M Aggies,Texas A&M
+401166731,2020,regular-season,2020-02-23,4,2,away,FALSE,Auburn,54,Tigers,Auburn Tigers,Auburn
+401171320,2020,regular-season,2020-02-23,4,59,home,FALSE,Georgia Tech,65,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+401171320,2020,regular-season,2020-02-23,4,52,away,FALSE,Florida State,62,Seminoles,Florida State Seminoles,Florida St
+401172192,2020,regular-season,2020-02-23,4,254,home,FALSE,Utah,75,Utes,Utah Utes,Utah
+401172192,2020,regular-season,2020-02-23,4,9,away,FALSE,Arizona State,71,Sun Devils,Arizona State Sun Devils,Arizona St
+401166732,2020,regular-season,2020-02-23,4,57,home,FALSE,Florida,83,Gators,Florida Gators,Florida
+401166732,2020,regular-season,2020-02-23,4,8,away,FALSE,Arkansas,80,Razorbacks,Arkansas Razorbacks,Arkansas
+401179885,2020,regular-season,2020-02-23,4,2623,home,FALSE,Missouri State,82,Lady Bears,Missouri State Lady Bears,Missouri St
+401179885,2020,regular-season,2020-02-23,4,282,away,FALSE,Indiana State,58,Sycamores,Indiana State Sycamores,Indiana St

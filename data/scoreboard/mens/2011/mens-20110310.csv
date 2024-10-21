@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310692305,2011-03-10,2,2305,home,TRUE,Kansas,63,Jayhawks,Kansas Jayhawks,Kansas
-310692305,2011-03-10,2,197,away,TRUE,Oklahoma State,62,Cowboys,Oklahoma State Cowboys,Oklahoma St
-310690221,2011-03-10,2,221,home,TRUE,Pittsburgh,74,Panthers,Pittsburgh Panthers,Pitt
-310690221,2011-03-10,2,41,away,TRUE,UConn,76,Huskies,UConn Huskies,UConn
-310690087,2011-03-10,2,87,home,TRUE,Notre Dame,89,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-310690087,2011-03-10,2,2132,away,TRUE,Cincinnati,51,Bearcats,Cincinnati Bearcats,Cincinnati
-310690021,2011-03-10,2,21,home,TRUE,San Diego State,64,Aztecs,San Diego State Aztecs,San Diego St
-310690021,2011-03-10,2,254,away,TRUE,Utah,50,Utes,Utah Utes,Utah
-310690252,2011-03-10,2,252,home,TRUE,BYU,64,Cougars,BYU Cougars,BYU
-310690252,2011-03-10,2,2628,away,TRUE,TCU,58,Horned Frogs,TCU Horned Frogs,TCU
-310690251,2011-03-10,2,251,home,TRUE,Texas,74,Longhorns,Texas Longhorns,Texas
-310690251,2011-03-10,2,201,away,TRUE,Oklahoma,54,Sooners,Oklahoma Sooners,Oklahoma
-310690183,2011-03-10,2,183,home,TRUE,Syracuse,79,Orange,Syracuse Orange,Syracuse
-310690183,2011-03-10,2,2599,away,TRUE,St. John's,73,Red Storm,St. John's Red Storm,St John's
-310690097,2011-03-10,2,97,home,TRUE,Louisville,81,Cardinals,Louisville Cardinals,Louisville
-310690097,2011-03-10,2,269,away,TRUE,Marquette,56,Golden Eagles,Marquette Golden Eagles,Marquette
-310690012,2011-03-10,2,12,home,TRUE,Arizona,78,Wildcats,Arizona Wildcats,Arizona
-310690012,2011-03-10,2,204,away,TRUE,Oregon State,69,Beavers,Oregon State Beavers,Oregon St
-310692306,2011-03-10,2,2306,home,TRUE,Kansas State,75,Wildcats,Kansas State Wildcats,Kansas St
-310692306,2011-03-10,2,38,away,TRUE,Colorado,87,Buffaloes,Colorado Buffaloes,Colorado
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310692305,2011,regular-season,2011-03-10,2,2305,home,TRUE,Kansas,63,Jayhawks,Kansas Jayhawks,Kansas
+310692305,2011,regular-season,2011-03-10,2,197,away,TRUE,Oklahoma State,62,Cowboys,Oklahoma State Cowboys,Oklahoma St
+310690221,2011,regular-season,2011-03-10,2,221,home,TRUE,Pittsburgh,74,Panthers,Pittsburgh Panthers,Pitt
+310690221,2011,regular-season,2011-03-10,2,41,away,TRUE,UConn,76,Huskies,UConn Huskies,UConn
+310690087,2011,regular-season,2011-03-10,2,87,home,TRUE,Notre Dame,89,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+310690087,2011,regular-season,2011-03-10,2,2132,away,TRUE,Cincinnati,51,Bearcats,Cincinnati Bearcats,Cincinnati
+310690021,2011,regular-season,2011-03-10,2,21,home,TRUE,San Diego State,64,Aztecs,San Diego State Aztecs,San Diego St
+310690021,2011,regular-season,2011-03-10,2,254,away,TRUE,Utah,50,Utes,Utah Utes,Utah
+310690252,2011,regular-season,2011-03-10,2,252,home,TRUE,BYU,64,Cougars,BYU Cougars,BYU
+310690252,2011,regular-season,2011-03-10,2,2628,away,TRUE,TCU,58,Horned Frogs,TCU Horned Frogs,TCU
+310690251,2011,regular-season,2011-03-10,2,251,home,TRUE,Texas,74,Longhorns,Texas Longhorns,Texas
+310690251,2011,regular-season,2011-03-10,2,201,away,TRUE,Oklahoma,54,Sooners,Oklahoma Sooners,Oklahoma
+310690183,2011,regular-season,2011-03-10,2,183,home,TRUE,Syracuse,79,Orange,Syracuse Orange,Syracuse
+310690183,2011,regular-season,2011-03-10,2,2599,away,TRUE,St. John's,73,Red Storm,St. John's Red Storm,St John's
+310690097,2011,regular-season,2011-03-10,2,97,home,TRUE,Louisville,81,Cardinals,Louisville Cardinals,Louisville
+310690097,2011,regular-season,2011-03-10,2,269,away,TRUE,Marquette,56,Golden Eagles,Marquette Golden Eagles,Marquette
+310690012,2011,regular-season,2011-03-10,2,12,home,TRUE,Arizona,78,Wildcats,Arizona Wildcats,Arizona
+310690012,2011,regular-season,2011-03-10,2,204,away,TRUE,Oregon State,69,Beavers,Oregon State Beavers,Oregon St
+310692306,2011,regular-season,2011-03-10,2,2306,home,TRUE,Kansas State,75,Wildcats,Kansas State Wildcats,Kansas St
+310692306,2011,regular-season,2011-03-10,2,38,away,TRUE,Colorado,87,Buffaloes,Colorado Buffaloes,Colorado

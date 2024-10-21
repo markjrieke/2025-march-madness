@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401601614,2024-02-28,4,194,home,FALSE,Ohio State,67,Buckeyes,Ohio State Buckeyes,Ohio State
-401601614,2024-02-28,4,130,away,FALSE,Michigan,51,Wolverines,Michigan Wolverines,Michigan
-401603389,2024-02-28,4,201,home,FALSE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
-401603389,2024-02-28,4,251,away,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas
-401601613,2024-02-28,4,135,home,FALSE,Minnesota,60,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401601613,2024-02-28,4,2294,away,FALSE,Iowa,108,Hawkeyes,Iowa Hawkeyes,Iowa
-401604685,2024-02-28,4,41,home,FALSE,UConn,67,Huskies,UConn Huskies,UConn
-401604685,2024-02-28,4,222,away,FALSE,Villanova,46,Wildcats,Villanova Wildcats,Villanova
-401603387,2024-02-28,4,2306,home,FALSE,Kansas State,76,Wildcats,Kansas State Wildcats,Kansas St
-401603387,2024-02-28,4,66,away,FALSE,Iowa State,82,Cyclones,Iowa State Cyclones,Iowa State
-401589591,2024-02-28,4,2250,home,FALSE,Gonzaga,90,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401589591,2024-02-28,4,2501,away,FALSE,Portland,40,Pilots,Portland Pilots,Portland
-401608158,2024-02-28,4,2439,home,FALSE,UNLV,63,Lady Rebels,UNLV Lady Rebels,UNLV
-401608158,2024-02-28,4,68,away,FALSE,Boise State,57,Broncos,Boise State Broncos,Boise St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401601614,2024,regular-season,2024-02-28,4,194,home,FALSE,Ohio State,67,Buckeyes,Ohio State Buckeyes,Ohio State
+401601614,2024,regular-season,2024-02-28,4,130,away,FALSE,Michigan,51,Wolverines,Michigan Wolverines,Michigan
+401603389,2024,regular-season,2024-02-28,4,201,home,FALSE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
+401603389,2024,regular-season,2024-02-28,4,251,away,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas
+401601613,2024,regular-season,2024-02-28,4,135,home,FALSE,Minnesota,60,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401601613,2024,regular-season,2024-02-28,4,2294,away,FALSE,Iowa,108,Hawkeyes,Iowa Hawkeyes,Iowa
+401604685,2024,regular-season,2024-02-28,4,41,home,FALSE,UConn,67,Huskies,UConn Huskies,UConn
+401604685,2024,regular-season,2024-02-28,4,222,away,FALSE,Villanova,46,Wildcats,Villanova Wildcats,Villanova
+401603387,2024,regular-season,2024-02-28,4,2306,home,FALSE,Kansas State,76,Wildcats,Kansas State Wildcats,Kansas St
+401603387,2024,regular-season,2024-02-28,4,66,away,FALSE,Iowa State,82,Cyclones,Iowa State Cyclones,Iowa State
+401589591,2024,regular-season,2024-02-28,4,2250,home,FALSE,Gonzaga,90,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401589591,2024,regular-season,2024-02-28,4,2501,away,FALSE,Portland,40,Pilots,Portland Pilots,Portland
+401608158,2024,regular-season,2024-02-28,4,2439,home,FALSE,UNLV,63,Lady Rebels,UNLV Lady Rebels,UNLV
+401608158,2024,regular-season,2024-02-28,4,68,away,FALSE,Boise State,57,Broncos,Boise State Broncos,Boise St

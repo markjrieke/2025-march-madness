@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400595519,2015-02-15,2,275,home,FALSE,Wisconsin,68,Badgers,Wisconsin Badgers,Wisconsin
-400595519,2015-02-15,2,356,away,FALSE,Illinois,49,Fighting Illini,Illinois Fighting Illini,Illinois
-400593315,2015-02-15,2,265,home,FALSE,Washington State,59,Cougars,Washington State Cougars,Washington St
-400593315,2015-02-15,2,12,away,FALSE,Arizona,86,Wildcats,Arizona Wildcats,Arizona
-400593316,2015-02-15,2,254,home,FALSE,Utah,76,Utes,Utah Utes,Utah
-400593316,2015-02-15,2,25,away,FALSE,California,61,Golden Bears,California Golden Bears,California
-400586460,2015-02-15,2,2623,home,FALSE,Missouri State,57,Bears,Missouri State Bears,Missouri St
-400586460,2015-02-15,2,2460,away,FALSE,Northern Iowa,68,Panthers,Northern Iowa Panthers,Northern Iowa
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400595519,2015,regular-season,2015-02-15,2,275,home,FALSE,Wisconsin,68,Badgers,Wisconsin Badgers,Wisconsin
+400595519,2015,regular-season,2015-02-15,2,356,away,FALSE,Illinois,49,Fighting Illini,Illinois Fighting Illini,Illinois
+400593315,2015,regular-season,2015-02-15,2,265,home,FALSE,Washington State,59,Cougars,Washington State Cougars,Washington St
+400593315,2015,regular-season,2015-02-15,2,12,away,FALSE,Arizona,86,Wildcats,Arizona Wildcats,Arizona
+400593316,2015,regular-season,2015-02-15,2,254,home,FALSE,Utah,76,Utes,Utah Utes,Utah
+400593316,2015,regular-season,2015-02-15,2,25,away,FALSE,California,61,Golden Bears,California Golden Bears,California
+400586460,2015,regular-season,2015-02-15,2,2623,home,FALSE,Missouri State,57,Bears,Missouri State Bears,Missouri St
+400586460,2015,regular-season,2015-02-15,2,2460,away,FALSE,Northern Iowa,68,Panthers,Northern Iowa Panthers,Northern Iowa

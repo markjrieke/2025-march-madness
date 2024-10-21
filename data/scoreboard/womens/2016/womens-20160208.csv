@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400834771,2016-02-08,4,2579,home,FALSE,South Carolina,54,Gamecocks,South Carolina Gamecocks,South Carolina
-400834771,2016-02-08,4,41,away,FALSE,UConn,66,Huskies,UConn Huskies,UConn
-400834858,2016-02-08,4,194,home,FALSE,Ohio State,94,Buckeyes,Ohio State Buckeyes,Ohio State
-400834858,2016-02-08,4,120,away,FALSE,Maryland,86,Terrapins,Maryland Terrapins,Maryland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400834771,2016,regular-season,2016-02-08,4,2579,home,FALSE,South Carolina,54,Gamecocks,South Carolina Gamecocks,South Carolina
+400834771,2016,regular-season,2016-02-08,4,41,away,FALSE,UConn,66,Huskies,UConn Huskies,UConn
+400834858,2016,regular-season,2016-02-08,4,194,home,FALSE,Ohio State,94,Buckeyes,Ohio State Buckeyes,Ohio State
+400834858,2016,regular-season,2016-02-08,4,120,away,FALSE,Maryland,86,Terrapins,Maryland Terrapins,Maryland

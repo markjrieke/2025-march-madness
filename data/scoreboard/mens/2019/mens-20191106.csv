@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401168159,2019-11-06,2,153,home,FALSE,North Carolina,76,Tar Heels,North Carolina Tar Heels,North Carolina
-401168159,2019-11-06,2,87,away,FALSE,Notre Dame,65,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401168161,2019-11-06,2,183,home,FALSE,Syracuse,34,Orange,Syracuse Orange,Syracuse
-401168161,2019-11-06,2,258,away,FALSE,Virginia,48,Cavaliers,Virginia Cavaliers,Virginia
-401166022,2019-11-06,2,194,home,FALSE,Ohio State,64,Buckeyes,Ohio State Buckeyes,Ohio State
-401166022,2019-11-06,2,2132,away,FALSE,Cincinnati,56,Bearcats,Cincinnati Bearcats,Cincinnati
-401166414,2019-11-06,2,12,home,FALSE,Arizona,91,Wildcats,Arizona Wildcats,Arizona
-401166414,2019-11-06,2,2464,away,FALSE,Northern Arizona,52,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
-401166023,2019-11-06,2,2509,home,FALSE,Purdue,79,Boilermakers,Purdue Boilermakers,Purdue
-401166023,2019-11-06,2,2739,away,FALSE,Green Bay,57,Phoenix,Green Bay Phoenix,Green Bay
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401168159,2020,regular-season,2019-11-06,2,153,home,FALSE,North Carolina,76,Tar Heels,North Carolina Tar Heels,North Carolina
+401168159,2020,regular-season,2019-11-06,2,87,away,FALSE,Notre Dame,65,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401168161,2020,regular-season,2019-11-06,2,183,home,FALSE,Syracuse,34,Orange,Syracuse Orange,Syracuse
+401168161,2020,regular-season,2019-11-06,2,258,away,FALSE,Virginia,48,Cavaliers,Virginia Cavaliers,Virginia
+401166022,2020,regular-season,2019-11-06,2,194,home,FALSE,Ohio State,64,Buckeyes,Ohio State Buckeyes,Ohio State
+401166022,2020,regular-season,2019-11-06,2,2132,away,FALSE,Cincinnati,56,Bearcats,Cincinnati Bearcats,Cincinnati
+401166414,2020,regular-season,2019-11-06,2,12,home,FALSE,Arizona,91,Wildcats,Arizona Wildcats,Arizona
+401166414,2020,regular-season,2019-11-06,2,2464,away,FALSE,Northern Arizona,52,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+401166023,2020,regular-season,2019-11-06,2,2509,home,FALSE,Purdue,79,Boilermakers,Purdue Boilermakers,Purdue
+401166023,2020,regular-season,2019-11-06,2,2739,away,FALSE,Green Bay,57,Phoenix,Green Bay Phoenix,Green Bay

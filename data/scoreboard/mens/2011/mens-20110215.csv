@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310460194,2011-02-15,2,194,home,FALSE,Ohio State,71,Buckeyes,Ohio State Buckeyes,Ohio State
-310460194,2011-02-15,2,127,away,FALSE,Michigan State,61,Spartans,Michigan State Spartans,Michigan St
-310462550,2011-02-15,2,2550,home,FALSE,Seton Hall,57,Pirates,Seton Hall Pirates,Seton Hall
-310462550,2011-02-15,2,222,away,FALSE,Villanova,60,Wildcats,Villanova Wildcats,Villanova
-310460153,2011-02-15,2,153,home,FALSE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
-310460153,2011-02-15,2,154,away,FALSE,Wake Forest,64,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-310460142,2011-02-15,2,142,home,FALSE,Missouri,92,Tigers,Missouri Tigers,Missouri
-310460142,2011-02-15,2,2641,away,FALSE,Texas Tech,84,Red Raiders,Texas Tech Red Raiders,Texas Tech
-310460096,2011-02-15,2,96,home,FALSE,Kentucky,85,Wildcats,Kentucky Wildcats,Kentucky
-310460096,2011-02-15,2,344,away,FALSE,Mississippi State,79,Bulldogs,Mississippi State Bulldogs,Mississippi St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310460194,2011,regular-season,2011-02-15,2,194,home,FALSE,Ohio State,71,Buckeyes,Ohio State Buckeyes,Ohio State
+310460194,2011,regular-season,2011-02-15,2,127,away,FALSE,Michigan State,61,Spartans,Michigan State Spartans,Michigan St
+310462550,2011,regular-season,2011-02-15,2,2550,home,FALSE,Seton Hall,57,Pirates,Seton Hall Pirates,Seton Hall
+310462550,2011,regular-season,2011-02-15,2,222,away,FALSE,Villanova,60,Wildcats,Villanova Wildcats,Villanova
+310460153,2011,regular-season,2011-02-15,2,153,home,FALSE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
+310460153,2011,regular-season,2011-02-15,2,154,away,FALSE,Wake Forest,64,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+310460142,2011,regular-season,2011-02-15,2,142,home,FALSE,Missouri,92,Tigers,Missouri Tigers,Missouri
+310460142,2011,regular-season,2011-02-15,2,2641,away,FALSE,Texas Tech,84,Red Raiders,Texas Tech Red Raiders,Texas Tech
+310460096,2011,regular-season,2011-02-15,2,96,home,FALSE,Kentucky,85,Wildcats,Kentucky Wildcats,Kentucky
+310460096,2011,regular-season,2011-02-15,2,344,away,FALSE,Mississippi State,79,Bulldogs,Mississippi State Bulldogs,Mississippi St

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290200097,2009-01-20,2,97,home,FALSE,Louisville,66,Cardinals,Louisville Cardinals,Louisville
-290200097,2009-01-20,2,2132,away,FALSE,Cincinnati,50,Bearcats,Cincinnati Bearcats,Cincinnati
-290200164,2009-01-20,2,164,home,FALSE,Rutgers,60,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-290200164,2009-01-20,2,277,away,FALSE,West Virginia,44,Mountaineers,West Virginia Mountaineers,West Virginia
-290202550,2009-01-20,2,2550,home,FALSE,Seton Hall,40,Pirates,Seton Hall Pirates,Seton Hall
-290202550,2009-01-20,2,221,away,FALSE,Pittsburgh,76,Panthers,Pittsburgh Panthers,Pitt
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290200097,2009,regular-season,2009-01-20,2,97,home,FALSE,Louisville,66,Cardinals,Louisville Cardinals,Louisville
+290200097,2009,regular-season,2009-01-20,2,2132,away,FALSE,Cincinnati,50,Bearcats,Cincinnati Bearcats,Cincinnati
+290200164,2009,regular-season,2009-01-20,2,164,home,FALSE,Rutgers,60,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+290200164,2009,regular-season,2009-01-20,2,277,away,FALSE,West Virginia,44,Mountaineers,West Virginia Mountaineers,West Virginia
+290202550,2009,regular-season,2009-01-20,2,2550,home,FALSE,Seton Hall,40,Pirates,Seton Hall Pirates,Seton Hall
+290202550,2009,regular-season,2009-01-20,2,221,away,FALSE,Pittsburgh,76,Panthers,Pittsburgh Panthers,Pitt

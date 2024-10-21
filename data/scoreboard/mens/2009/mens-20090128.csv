@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290280154,2009-01-28,2,154,home,FALSE,Wake Forest,70,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-290280154,2009-01-28,2,150,away,FALSE,Duke,68,Blue Devils,Duke Blue Devils,Duke
-290280305,2009-01-28,2,305,home,FALSE,DePaul,49,Blue Demons,DePaul Blue Demons,DePaul
-290280305,2009-01-28,2,41,away,FALSE,UConn,71,Huskies,UConn Huskies,UConn
-290280222,2009-01-28,2,222,home,FALSE,Villanova,67,Wildcats,Villanova Wildcats,Villanova
-290280222,2009-01-28,2,221,away,FALSE,Pittsburgh,57,Panthers,Pittsburgh Panthers,Pitt
-290280052,2009-01-28,2,52,home,FALSE,Florida State,77,Seminoles,Florida State Seminoles,Florida St
-290280052,2009-01-28,2,153,away,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
-290280097,2009-01-28,2,97,home,FALSE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
-290280097,2009-01-28,2,58,away,FALSE,South Florida,54,Bulls,South Florida Bulls,South Florida
-290282752,2009-01-28,2,2752,home,FALSE,Xavier,69,Musketeers,Xavier Musketeers,Xavier
-290282752,2009-01-28,2,2429,away,FALSE,Charlotte,47,49ers,Charlotte 49ers,Charlotte
-290282507,2009-01-28,2,2507,home,FALSE,Providence,100,Friars,Providence Friars,Providence
-290282507,2009-01-28,2,183,away,FALSE,Syracuse,94,Orange,Syracuse Orange,Syracuse
-290280151,2009-01-28,2,151,home,FALSE,East Carolina,64,Pirates,East Carolina Pirates,East Carolina
-290280151,2009-01-28,2,235,away,FALSE,Memphis,85,Tigers,Memphis Tigers,Memphis
-290282132,2009-01-28,2,2132,home,FALSE,Cincinnati,65,Bearcats,Cincinnati Bearcats,Cincinnati
-290282132,2009-01-28,2,46,away,FALSE,Georgetown,57,Hoyas,Georgetown Hoyas,Georgetown
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290280154,2009,regular-season,2009-01-28,2,154,home,FALSE,Wake Forest,70,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+290280154,2009,regular-season,2009-01-28,2,150,away,FALSE,Duke,68,Blue Devils,Duke Blue Devils,Duke
+290280305,2009,regular-season,2009-01-28,2,305,home,FALSE,DePaul,49,Blue Demons,DePaul Blue Demons,DePaul
+290280305,2009,regular-season,2009-01-28,2,41,away,FALSE,UConn,71,Huskies,UConn Huskies,UConn
+290280222,2009,regular-season,2009-01-28,2,222,home,FALSE,Villanova,67,Wildcats,Villanova Wildcats,Villanova
+290280222,2009,regular-season,2009-01-28,2,221,away,FALSE,Pittsburgh,57,Panthers,Pittsburgh Panthers,Pitt
+290280052,2009,regular-season,2009-01-28,2,52,home,FALSE,Florida State,77,Seminoles,Florida State Seminoles,Florida St
+290280052,2009,regular-season,2009-01-28,2,153,away,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
+290280097,2009,regular-season,2009-01-28,2,97,home,FALSE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
+290280097,2009,regular-season,2009-01-28,2,58,away,FALSE,South Florida,54,Bulls,South Florida Bulls,South Florida
+290282752,2009,regular-season,2009-01-28,2,2752,home,FALSE,Xavier,69,Musketeers,Xavier Musketeers,Xavier
+290282752,2009,regular-season,2009-01-28,2,2429,away,FALSE,Charlotte,47,49ers,Charlotte 49ers,Charlotte
+290282507,2009,regular-season,2009-01-28,2,2507,home,FALSE,Providence,100,Friars,Providence Friars,Providence
+290282507,2009,regular-season,2009-01-28,2,183,away,FALSE,Syracuse,94,Orange,Syracuse Orange,Syracuse
+290280151,2009,regular-season,2009-01-28,2,151,home,FALSE,East Carolina,64,Pirates,East Carolina Pirates,East Carolina
+290280151,2009,regular-season,2009-01-28,2,235,away,FALSE,Memphis,85,Tigers,Memphis Tigers,Memphis
+290282132,2009,regular-season,2009-01-28,2,2132,home,FALSE,Cincinnati,65,Bearcats,Cincinnati Bearcats,Cincinnati
+290282132,2009,regular-season,2009-01-28,2,46,away,FALSE,Georgetown,57,Hoyas,Georgetown Hoyas,Georgetown

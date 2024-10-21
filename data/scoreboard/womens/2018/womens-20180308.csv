@@ -1,49 +1,49 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401021407,2018-03-08,4,357,home,TRUE,Texas A&M-Corpus Christi,75,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-401021407,2018-03-08,4,2377,away,TRUE,McNeese,52,Cowgirls,McNeese Cowgirls,McNeese
-401021077,2018-03-08,4,2261,home,TRUE,Hampton,66,Lady Pirates,Hampton Lady Pirates,Hampton
-401021077,2018-03-08,4,2415,away,TRUE,Morgan State,57,Lady Bears,Morgan State Lady Bears,Morgan St
-401020857,2018-03-08,4,5,home,TRUE,UAB,75,Blazers,UAB Blazers,UAB
-401020857,2018-03-08,4,2638,away,TRUE,UTEP,66,Miners,UTEP Miners,UTEP
-401020842,2018-03-08,4,2182,home,TRUE,Drexel,71,Dragons,Drexel Dragons,Drexel
-401020842,2018-03-08,4,350,away,TRUE,UNC Wilmington,41,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
-401021420,2018-03-08,4,2031,home,TRUE,Little Rock,66,Trojans,Little Rock Trojans,Little Rock
-401021420,2018-03-08,4,2026,away,TRUE,App State,34,Mountaineers,App State Mountaineers,App State
-401020856,2018-03-08,4,2393,home,TRUE,Middle Tennessee,53,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-401020856,2018-03-08,4,242,away,TRUE,Rice,61,Owls,Rice Owls,Rice
-401021406,2018-03-08,4,2443,home,TRUE,New Orleans,66,Privateers,New Orleans Privateers,New Orleans
-401021406,2018-03-08,4,2000,away,TRUE,Abilene Christian,88,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
-401021078,2018-03-08,4,50,home,TRUE,Florida A&M,66,Rattlers,Florida A&M Rattlers,Florida A&M
-401021078,2018-03-08,4,2542,away,TRUE,Savannah State,64,Tigers,Savannah State Tigers,Savannah St
-401020855,2018-03-08,4,98,home,TRUE,Western Kentucky,78,Lady Toppers,Western Kentucky Lady Toppers,Western KY
-401020855,2018-03-08,4,2636,away,TRUE,UTSA,50,Roadrunners,UTSA Roadrunners,UTSA
-401020843,2018-03-08,4,111,home,TRUE,Northeastern,50,Huskies,Northeastern Huskies,Northeastern
-401020843,2018-03-08,4,48,away,TRUE,Delaware,61,Blue Hens,Delaware Blue Hens,Delaware
-401021419,2018-03-08,4,2653,home,TRUE,Troy,82,Trojans,Troy Trojans,Troy
-401021419,2018-03-08,4,6,away,TRUE,South Alabama,79,Jaguars,South Alabama Jaguars,South Alabama
-401020854,2018-03-08,4,2348,home,TRUE,Louisiana Tech,69,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-401020854,2018-03-08,4,249,away,TRUE,North Texas,76,Mean Green,North Texas Mean Green,North Texas
-401021397,2018-03-08,4,2674,home,TRUE,Valparaiso,63,Beacons,Valparaiso Beacons,Valparaiso
-401021397,2018-03-08,4,2350,away,TRUE,Loyola Chicago,46,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-401020844,2018-03-08,4,256,home,TRUE,James Madison,81,Dukes,James Madison Dukes,James Madison
-401020844,2018-03-08,4,232,away,TRUE,Charleston,66,Cougars,Charleston Cougars,Charleston
-401021710,2018-03-08,4,2083,home,FALSE,Bucknell,62,Bison,Bucknell Bison,Bucknell
-401021710,2018-03-08,4,2426,away,FALSE,Navy,68,Midshipmen,Navy Midshipmen,Navy
-401021418,2018-03-08,4,326,home,TRUE,Texas State,78,Bobcats,Texas State Bobcats,Texas St
-401021418,2018-03-08,4,324,away,TRUE,Coastal Carolina,69,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
-401020824,2018-03-08,4,2127,home,TRUE,Charleston Southern,72,Buccaneers,Charleston Southern Buccaneers,Charleston So
-401020824,2018-03-08,4,2344,away,TRUE,Longwood,62,Lancers,Longwood Lancers,Longwood
-401021709,2018-03-08,4,44,home,FALSE,American University,60,Eagles,American University Eagles,American
-401021709,2018-03-08,4,349,away,FALSE,Army,49,Black Knights,Army Black Knights,Army
-401021395,2018-03-08,4,2598,home,FALSE,St. Francis (PA),78,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-401021395,2018-03-08,4,2529,away,FALSE,Sacred Heart,47,Pioneers,Sacred Heart Pioneers,Sacred Heart
-401021394,2018-03-08,4,2523,home,FALSE,Robert Morris,74,Colonials,Robert Morris Colonials,Robert Morris
-401021394,2018-03-08,4,2341,away,FALSE,LIU Brooklyn,44,Blackbirds,LIU Brooklyn Blackbirds,LIU Brooklyn
-401020845,2018-03-08,4,2210,home,TRUE,Elon,67,Phoenix,Elon Phoenix,Elon
-401020845,2018-03-08,4,2729,away,TRUE,William & Mary,50,Tribe,William & Mary Tribe,William & Mary
-401021398,2018-03-08,4,71,home,TRUE,Bradley,77,Braves,Bradley Braves,Bradley
-401021398,2018-03-08,4,339,away,TRUE,Evansville,49,Purple Aces,Evansville Purple Aces,Evansville
-401021417,2018-03-08,4,250,home,TRUE,UT Arlington,48,Mavericks,UT Arlington Mavericks,UT Arlington
-401021417,2018-03-08,4,309,away,TRUE,Louisiana,54,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
-401020825,2018-03-08,4,2241,home,TRUE,Gardner-Webb,68,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-401020825,2018-03-08,4,2737,away,TRUE,Winthrop,57,Eagles,Winthrop Eagles,Winthrop
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401021407,2018,regular-season,2018-03-08,4,357,home,TRUE,Texas A&M-Corpus Christi,75,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+401021407,2018,regular-season,2018-03-08,4,2377,away,TRUE,McNeese,52,Cowgirls,McNeese Cowgirls,McNeese
+401021077,2018,regular-season,2018-03-08,4,2261,home,TRUE,Hampton,66,Lady Pirates,Hampton Lady Pirates,Hampton
+401021077,2018,regular-season,2018-03-08,4,2415,away,TRUE,Morgan State,57,Lady Bears,Morgan State Lady Bears,Morgan St
+401020857,2018,regular-season,2018-03-08,4,5,home,TRUE,UAB,75,Blazers,UAB Blazers,UAB
+401020857,2018,regular-season,2018-03-08,4,2638,away,TRUE,UTEP,66,Miners,UTEP Miners,UTEP
+401020842,2018,regular-season,2018-03-08,4,2182,home,TRUE,Drexel,71,Dragons,Drexel Dragons,Drexel
+401020842,2018,regular-season,2018-03-08,4,350,away,TRUE,UNC Wilmington,41,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+401021420,2018,regular-season,2018-03-08,4,2031,home,TRUE,Little Rock,66,Trojans,Little Rock Trojans,Little Rock
+401021420,2018,regular-season,2018-03-08,4,2026,away,TRUE,App State,34,Mountaineers,App State Mountaineers,App State
+401020856,2018,regular-season,2018-03-08,4,2393,home,TRUE,Middle Tennessee,53,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+401020856,2018,regular-season,2018-03-08,4,242,away,TRUE,Rice,61,Owls,Rice Owls,Rice
+401021406,2018,regular-season,2018-03-08,4,2443,home,TRUE,New Orleans,66,Privateers,New Orleans Privateers,New Orleans
+401021406,2018,regular-season,2018-03-08,4,2000,away,TRUE,Abilene Christian,88,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
+401021078,2018,regular-season,2018-03-08,4,50,home,TRUE,Florida A&M,66,Rattlers,Florida A&M Rattlers,Florida A&M
+401021078,2018,regular-season,2018-03-08,4,2542,away,TRUE,Savannah State,64,Tigers,Savannah State Tigers,Savannah St
+401020855,2018,regular-season,2018-03-08,4,98,home,TRUE,Western Kentucky,78,Lady Toppers,Western Kentucky Lady Toppers,Western KY
+401020855,2018,regular-season,2018-03-08,4,2636,away,TRUE,UTSA,50,Roadrunners,UTSA Roadrunners,UTSA
+401020843,2018,regular-season,2018-03-08,4,111,home,TRUE,Northeastern,50,Huskies,Northeastern Huskies,Northeastern
+401020843,2018,regular-season,2018-03-08,4,48,away,TRUE,Delaware,61,Blue Hens,Delaware Blue Hens,Delaware
+401021419,2018,regular-season,2018-03-08,4,2653,home,TRUE,Troy,82,Trojans,Troy Trojans,Troy
+401021419,2018,regular-season,2018-03-08,4,6,away,TRUE,South Alabama,79,Jaguars,South Alabama Jaguars,South Alabama
+401020854,2018,regular-season,2018-03-08,4,2348,home,TRUE,Louisiana Tech,69,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+401020854,2018,regular-season,2018-03-08,4,249,away,TRUE,North Texas,76,Mean Green,North Texas Mean Green,North Texas
+401021397,2018,regular-season,2018-03-08,4,2674,home,TRUE,Valparaiso,63,Beacons,Valparaiso Beacons,Valparaiso
+401021397,2018,regular-season,2018-03-08,4,2350,away,TRUE,Loyola Chicago,46,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+401020844,2018,regular-season,2018-03-08,4,256,home,TRUE,James Madison,81,Dukes,James Madison Dukes,James Madison
+401020844,2018,regular-season,2018-03-08,4,232,away,TRUE,Charleston,66,Cougars,Charleston Cougars,Charleston
+401021710,2018,regular-season,2018-03-08,4,2083,home,FALSE,Bucknell,62,Bison,Bucknell Bison,Bucknell
+401021710,2018,regular-season,2018-03-08,4,2426,away,FALSE,Navy,68,Midshipmen,Navy Midshipmen,Navy
+401021418,2018,regular-season,2018-03-08,4,326,home,TRUE,Texas State,78,Bobcats,Texas State Bobcats,Texas St
+401021418,2018,regular-season,2018-03-08,4,324,away,TRUE,Coastal Carolina,69,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+401020824,2018,regular-season,2018-03-08,4,2127,home,TRUE,Charleston Southern,72,Buccaneers,Charleston Southern Buccaneers,Charleston So
+401020824,2018,regular-season,2018-03-08,4,2344,away,TRUE,Longwood,62,Lancers,Longwood Lancers,Longwood
+401021709,2018,regular-season,2018-03-08,4,44,home,FALSE,American University,60,Eagles,American University Eagles,American
+401021709,2018,regular-season,2018-03-08,4,349,away,FALSE,Army,49,Black Knights,Army Black Knights,Army
+401021395,2018,regular-season,2018-03-08,4,2598,home,FALSE,St. Francis (PA),78,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+401021395,2018,regular-season,2018-03-08,4,2529,away,FALSE,Sacred Heart,47,Pioneers,Sacred Heart Pioneers,Sacred Heart
+401021394,2018,regular-season,2018-03-08,4,2523,home,FALSE,Robert Morris,74,Colonials,Robert Morris Colonials,Robert Morris
+401021394,2018,regular-season,2018-03-08,4,2341,away,FALSE,LIU Brooklyn,44,Blackbirds,LIU Brooklyn Blackbirds,LIU Brooklyn
+401020845,2018,regular-season,2018-03-08,4,2210,home,TRUE,Elon,67,Phoenix,Elon Phoenix,Elon
+401020845,2018,regular-season,2018-03-08,4,2729,away,TRUE,William & Mary,50,Tribe,William & Mary Tribe,William & Mary
+401021398,2018,regular-season,2018-03-08,4,71,home,TRUE,Bradley,77,Braves,Bradley Braves,Bradley
+401021398,2018,regular-season,2018-03-08,4,339,away,TRUE,Evansville,49,Purple Aces,Evansville Purple Aces,Evansville
+401021417,2018,regular-season,2018-03-08,4,250,home,TRUE,UT Arlington,48,Mavericks,UT Arlington Mavericks,UT Arlington
+401021417,2018,regular-season,2018-03-08,4,309,away,TRUE,Louisiana,54,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+401020825,2018,regular-season,2018-03-08,4,2241,home,TRUE,Gardner-Webb,68,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+401020825,2018,regular-season,2018-03-08,4,2737,away,TRUE,Winthrop,57,Eagles,Winthrop Eagles,Winthrop

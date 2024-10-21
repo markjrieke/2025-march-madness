@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401483280,2022-12-22,2,2305,home,FALSE,Kansas,68,Jayhawks,Kansas Jayhawks,Kansas
-401483280,2022-12-22,2,108,away,FALSE,Harvard,54,Crimson,Harvard Crimson,Harvard
-401494934,2022-12-22,2,12,home,FALSE,Arizona,93,Wildcats,Arizona Wildcats,Arizona
-401494934,2022-12-22,2,2415,away,FALSE,Morgan State,68,Bears,Morgan State Bears,Morgan St
-401483205,2022-12-22,2,142,home,TRUE,Missouri,93,Tigers,Missouri Tigers,Missouri
-401483205,2022-12-22,2,356,away,TRUE,Illinois,71,Fighting Illini,Illinois Fighting Illini,Illinois
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401483280,2023,regular-season,2022-12-22,2,2305,home,FALSE,Kansas,68,Jayhawks,Kansas Jayhawks,Kansas
+401483280,2023,regular-season,2022-12-22,2,108,away,FALSE,Harvard,54,Crimson,Harvard Crimson,Harvard
+401494934,2023,regular-season,2022-12-22,2,12,home,FALSE,Arizona,93,Wildcats,Arizona Wildcats,Arizona
+401494934,2023,regular-season,2022-12-22,2,2415,away,FALSE,Morgan State,68,Bears,Morgan State Bears,Morgan St
+401483205,2023,regular-season,2022-12-22,2,142,home,TRUE,Missouri,93,Tigers,Missouri Tigers,Missouri
+401483205,2023,regular-season,2022-12-22,2,356,away,TRUE,Illinois,71,Fighting Illini,Illinois Fighting Illini,Illinois

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310610084,2011-03-03,2,84,home,FALSE,Indiana,67,Hoosiers,Indiana Hoosiers,Indiana
-310610084,2011-03-03,2,275,away,FALSE,Wisconsin,77,Badgers,Wisconsin Badgers,Wisconsin
-310622550,2011-03-03,2,2550,home,FALSE,Seton Hall,84,Pirates,Seton Hall Pirates,Seton Hall
-310622550,2011-03-03,2,2599,away,FALSE,St. John's,70,Red Storm,St. John's Red Storm,St John's
-310620012,2011-03-03,2,12,home,FALSE,Arizona,70,Wildcats,Arizona Wildcats,Arizona
-310620012,2011-03-03,2,204,away,FALSE,Oregon State,59,Beavers,Oregon State Beavers,Oregon St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310610084,2011,regular-season,2011-03-03,2,84,home,FALSE,Indiana,67,Hoosiers,Indiana Hoosiers,Indiana
+310610084,2011,regular-season,2011-03-03,2,275,away,FALSE,Wisconsin,77,Badgers,Wisconsin Badgers,Wisconsin
+310622550,2011,regular-season,2011-03-03,2,2550,home,FALSE,Seton Hall,84,Pirates,Seton Hall Pirates,Seton Hall
+310622550,2011,regular-season,2011-03-03,2,2599,away,FALSE,St. John's,70,Red Storm,St. John's Red Storm,St John's
+310620012,2011,regular-season,2011-03-03,2,12,home,FALSE,Arizona,70,Wildcats,Arizona Wildcats,Arizona
+310620012,2011,regular-season,2011-03-03,2,204,away,FALSE,Oregon State,59,Beavers,Oregon State Beavers,Oregon St

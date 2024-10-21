@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280470058,2008-02-16,2,58,home,FALSE,South Florida,50,Bulls,South Florida Bulls,South Florida
-280470058,2008-02-16,2,164,away,FALSE,Rutgers,71,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-280470024,2008-02-16,2,24,home,FALSE,Stanford,79,Cardinal,Stanford Cardinal,Stanford
-280470024,2008-02-16,2,9,away,FALSE,Arizona State,57,Sun Devils,Arizona State Sun Devils,Arizona St
-280470025,2008-02-16,2,25,home,FALSE,California,66,Golden Bears,California Golden Bears,California
-280470025,2008-02-16,2,12,away,FALSE,Arizona,45,Wildcats,Arizona Wildcats,Arizona
-280470277,2008-02-16,2,277,home,FALSE,West Virginia,80,Mountaineers,West Virginia Mountaineers,West Virginia
-280470277,2008-02-16,2,305,away,FALSE,DePaul,81,Blue Demons,DePaul Blue Demons,DePaul
-280470179,2008-02-16,2,179,home,FALSE,St. Bonaventure,63,Bonnies,St. Bonaventure Bonnies,St Bonaventure
-280470179,2008-02-16,2,45,away,FALSE,George Washington,60,Revolutionaries,George Washington Revolutionaries,G Washington
-280470183,2008-02-16,2,183,home,FALSE,Syracuse,67,Orange,Syracuse Orange,Syracuse
-280470183,2008-02-16,2,87,away,FALSE,Notre Dame,79,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-280470021,2008-02-16,2,21,home,FALSE,San Diego State,51,Aztecs,San Diego State Aztecs,San Diego St
-280470021,2008-02-16,2,254,away,FALSE,Utah,63,Utes,Utah Utes,Utah
-280472751,2008-02-16,2,2751,home,FALSE,Wyoming,60,Cowgirls,Wyoming Cowgirls,Wyoming
-280472751,2008-02-16,2,2005,away,FALSE,Air Force,32,Falcons,Air Force Falcons,Air Force
-280472638,2008-02-16,2,2638,home,FALSE,UTEP,65,Miners,UTEP Miners,UTEP
-280472638,2008-02-16,2,242,away,FALSE,Rice,53,Owls,Rice Owls,Rice
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280470058,2008,regular-season,2008-02-16,2,58,home,FALSE,South Florida,50,Bulls,South Florida Bulls,South Florida
+280470058,2008,regular-season,2008-02-16,2,164,away,FALSE,Rutgers,71,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+280470024,2008,regular-season,2008-02-16,2,24,home,FALSE,Stanford,79,Cardinal,Stanford Cardinal,Stanford
+280470024,2008,regular-season,2008-02-16,2,9,away,FALSE,Arizona State,57,Sun Devils,Arizona State Sun Devils,Arizona St
+280470025,2008,regular-season,2008-02-16,2,25,home,FALSE,California,66,Golden Bears,California Golden Bears,California
+280470025,2008,regular-season,2008-02-16,2,12,away,FALSE,Arizona,45,Wildcats,Arizona Wildcats,Arizona
+280470277,2008,regular-season,2008-02-16,2,277,home,FALSE,West Virginia,80,Mountaineers,West Virginia Mountaineers,West Virginia
+280470277,2008,regular-season,2008-02-16,2,305,away,FALSE,DePaul,81,Blue Demons,DePaul Blue Demons,DePaul
+280470179,2008,regular-season,2008-02-16,2,179,home,FALSE,St. Bonaventure,63,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+280470179,2008,regular-season,2008-02-16,2,45,away,FALSE,George Washington,60,Revolutionaries,George Washington Revolutionaries,G Washington
+280470183,2008,regular-season,2008-02-16,2,183,home,FALSE,Syracuse,67,Orange,Syracuse Orange,Syracuse
+280470183,2008,regular-season,2008-02-16,2,87,away,FALSE,Notre Dame,79,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+280470021,2008,regular-season,2008-02-16,2,21,home,FALSE,San Diego State,51,Aztecs,San Diego State Aztecs,San Diego St
+280470021,2008,regular-season,2008-02-16,2,254,away,FALSE,Utah,63,Utes,Utah Utes,Utah
+280472751,2008,regular-season,2008-02-16,2,2751,home,FALSE,Wyoming,60,Cowgirls,Wyoming Cowgirls,Wyoming
+280472751,2008,regular-season,2008-02-16,2,2005,away,FALSE,Air Force,32,Falcons,Air Force Falcons,Air Force
+280472638,2008,regular-season,2008-02-16,2,2638,home,FALSE,UTEP,65,Miners,UTEP Miners,UTEP
+280472638,2008,regular-season,2008-02-16,2,242,away,FALSE,Rice,53,Owls,Rice Owls,Rice

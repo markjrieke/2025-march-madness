@@ -1,57 +1,57 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320672582,2012-03-07,2,2582,home,TRUE,Southern,44,Jaguars,Southern Jaguars,Southern
-320672582,2012-03-07,2,2016,away,TRUE,Alcorn State,54,Lady Braves,Alcorn State Lady Braves,Alcorn St
-320672261,2012-03-07,2,2261,home,TRUE,Hampton,61,Lady Pirates,Hampton Lady Pirates,Hampton
-320672261,2012-03-07,2,2450,away,TRUE,Norfolk State,40,Spartans,Norfolk State Spartans,Norfolk St
-320672117,2012-03-07,2,2117,home,TRUE,Central Michigan,58,Chippewas,Central Michigan Chippewas,C Michigan
-320672117,2012-03-07,2,195,away,TRUE,Ohio,55,Bobcats,Ohio Bobcats,Ohio
-320670202,2012-03-07,2,202,home,TRUE,Tulsa,49,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-320670202,2012-03-07,2,151,away,TRUE,East Carolina,59,Pirates,East Carolina Pirates,East Carolina
-320672006,2012-03-07,2,2006,home,TRUE,Akron,60,Zips,Akron Zips,Akron
-320672006,2012-03-07,2,2459,away,TRUE,Northern Illinois,61,Huskies,Northern Illinois Huskies,N Illinois
-320670276,2012-03-07,2,276,home,TRUE,Marshall,52,Thundering Herd,Marshall Thundering Herd,Marshall
-320670276,2012-03-07,2,2567,away,TRUE,SMU,53,Mustangs,SMU Mustangs,SMU
-320670047,2012-03-07,2,47,home,TRUE,Howard,57,Bison,Howard Bison,Howard
-320670047,2012-03-07,2,2569,away,TRUE,South Carolina State,42,Lady Bulldogs,South Carolina State Lady Bulldogs,SC State
-320672348,2012-03-07,2,2348,home,TRUE,Louisiana Tech,63,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-320672348,2012-03-07,2,62,away,TRUE,Hawai'i,54,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
-320670264,2012-03-07,2,264,home,TRUE,Washington,72,Huskies,Washington Huskies,Washington
-320670264,2012-03-07,2,2483,away,TRUE,Oregon,56,Ducks,Oregon Ducks,Oregon
-320670021,2012-03-07,2,21,home,TRUE,San Diego State,68,Aztecs,San Diego State Aztecs,San Diego St
-320670021,2012-03-07,2,2005,away,TRUE,Air Force,58,Falcons,Air Force Falcons,Air Force
-320670026,2012-03-07,2,26,home,TRUE,UCLA,57,Bruins,UCLA Bruins,UCLA
-320670026,2012-03-07,2,12,away,TRUE,Arizona,61,Wildcats,Arizona Wildcats,Arizona
-320672628,2012-03-07,2,2628,home,TRUE,TCU,44,Horned Frogs,TCU Horned Frogs,TCU
-320672628,2012-03-07,2,2751,away,TRUE,Wyoming,61,Cowgirls,Wyoming Cowgirls,Wyoming
-320670328,2012-03-07,2,328,home,TRUE,Utah State,75,Aggies,Utah State Aggies,Utah State
-320670328,2012-03-07,2,2440,away,TRUE,Nevada,66,Wolf Pack,Nevada Wolf Pack,Nevada
-320672116,2012-03-07,2,2116,home,TRUE,UCF,49,Knights,UCF Knights,UCF
-320672116,2012-03-07,2,2572,away,TRUE,Southern Miss,71,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-320670251,2012-03-07,2,251,home,TRUE,Texas,58,Longhorns,Texas Longhorns,Texas
-320670251,2012-03-07,2,2641,away,TRUE,Texas Tech,81,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-320672400,2012-03-07,2,2400,home,TRUE,Mississippi Valley State,70,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
-320672400,2012-03-07,2,2640,away,TRUE,Texas Southern,47,Tigers,Texas Southern Tigers,Texas Southern
-320672750,2012-03-07,0,2750,home,FALSE,Wright State,0,Raiders,Wright State Raiders,Wright St
-320672750,2012-03-07,0,2350,away,FALSE,Loyola Chicago,0,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-320672174,2012-03-07,0,2174,home,FALSE,Detroit Mercy,0,Titans,Detroit Mercy Titans,Detroit Mercy
-320672174,2012-03-07,0,325,away,FALSE,Cleveland State,0,Vikings,Cleveland State Vikings,Cleveland St
-320672739,2012-03-07,2,2739,home,FALSE,Green Bay,77,Phoenix,Green Bay Phoenix,Green Bay
-320672739,2012-03-07,2,2674,away,FALSE,Valparaiso,53,Beacons,Valparaiso Beacons,Valparaiso
-320670254,2012-03-07,2,254,home,TRUE,Utah,41,Utes,Utah Utes,Utah
-320670254,2012-03-07,2,38,away,TRUE,Colorado,55,Buffaloes,Colorado Buffaloes,Colorado
-320670082,2012-03-07,0,82,home,FALSE,UIC,0,Flames,UIC Flames,UIC
-320670082,2012-03-07,0,2086,away,FALSE,Butler,0,Bulldogs,Butler Bulldogs,Butler
-320670242,2012-03-07,2,242,home,TRUE,Rice,64,Owls,Rice Owls,Rice
-320670242,2012-03-07,2,248,away,TRUE,Houston,50,Cougars,Houston Cougars,Houston
-320670197,2012-03-07,2,197,home,TRUE,Oklahoma State,68,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-320670197,2012-03-07,2,142,away,TRUE,Missouri,72,Tigers,Missouri Tigers,Missouri
-320672439,2012-03-07,2,2439,home,TRUE,UNLV,58,Lady Rebels,UNLV Lady Rebels,UNLV
-320672439,2012-03-07,2,167,away,TRUE,New Mexico,61,Lobos,New Mexico Lobos,New Mexico
-320670278,2012-03-07,2,278,home,TRUE,Fresno State,66,Bulldogs,Fresno State Bulldogs,Fresno St
-320670278,2012-03-07,2,166,away,TRUE,New Mexico State,58,Aggies,New Mexico State Aggies,New Mexico St
-320670204,2012-03-07,2,204,home,TRUE,Oregon State,56,Beavers,Oregon State Beavers,Oregon St
-320670204,2012-03-07,2,265,away,TRUE,Washington State,65,Cougars,Washington State Cougars,Washington St
-320670070,2012-03-07,2,70,home,TRUE,Idaho,67,Vandals,Idaho Vandals,Idaho
-320670070,2012-03-07,2,23,away,TRUE,San José State,63,Spartans,San José State Spartans,San José St
-320670036,2012-03-07,2,36,home,TRUE,Colorado State,63,Rams,Colorado State Rams,Colorado St
-320670036,2012-03-07,2,68,away,TRUE,Boise State,68,Broncos,Boise State Broncos,Boise St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320672582,2012,regular-season,2012-03-07,2,2582,home,TRUE,Southern,44,Jaguars,Southern Jaguars,Southern
+320672582,2012,regular-season,2012-03-07,2,2016,away,TRUE,Alcorn State,54,Lady Braves,Alcorn State Lady Braves,Alcorn St
+320672261,2012,regular-season,2012-03-07,2,2261,home,TRUE,Hampton,61,Lady Pirates,Hampton Lady Pirates,Hampton
+320672261,2012,regular-season,2012-03-07,2,2450,away,TRUE,Norfolk State,40,Spartans,Norfolk State Spartans,Norfolk St
+320672117,2012,regular-season,2012-03-07,2,2117,home,TRUE,Central Michigan,58,Chippewas,Central Michigan Chippewas,C Michigan
+320672117,2012,regular-season,2012-03-07,2,195,away,TRUE,Ohio,55,Bobcats,Ohio Bobcats,Ohio
+320670202,2012,regular-season,2012-03-07,2,202,home,TRUE,Tulsa,49,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+320670202,2012,regular-season,2012-03-07,2,151,away,TRUE,East Carolina,59,Pirates,East Carolina Pirates,East Carolina
+320672006,2012,regular-season,2012-03-07,2,2006,home,TRUE,Akron,60,Zips,Akron Zips,Akron
+320672006,2012,regular-season,2012-03-07,2,2459,away,TRUE,Northern Illinois,61,Huskies,Northern Illinois Huskies,N Illinois
+320670276,2012,regular-season,2012-03-07,2,276,home,TRUE,Marshall,52,Thundering Herd,Marshall Thundering Herd,Marshall
+320670276,2012,regular-season,2012-03-07,2,2567,away,TRUE,SMU,53,Mustangs,SMU Mustangs,SMU
+320670047,2012,regular-season,2012-03-07,2,47,home,TRUE,Howard,57,Bison,Howard Bison,Howard
+320670047,2012,regular-season,2012-03-07,2,2569,away,TRUE,South Carolina State,42,Lady Bulldogs,South Carolina State Lady Bulldogs,SC State
+320672348,2012,regular-season,2012-03-07,2,2348,home,TRUE,Louisiana Tech,63,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+320672348,2012,regular-season,2012-03-07,2,62,away,TRUE,Hawai'i,54,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
+320670264,2012,regular-season,2012-03-07,2,264,home,TRUE,Washington,72,Huskies,Washington Huskies,Washington
+320670264,2012,regular-season,2012-03-07,2,2483,away,TRUE,Oregon,56,Ducks,Oregon Ducks,Oregon
+320670021,2012,regular-season,2012-03-07,2,21,home,TRUE,San Diego State,68,Aztecs,San Diego State Aztecs,San Diego St
+320670021,2012,regular-season,2012-03-07,2,2005,away,TRUE,Air Force,58,Falcons,Air Force Falcons,Air Force
+320670026,2012,regular-season,2012-03-07,2,26,home,TRUE,UCLA,57,Bruins,UCLA Bruins,UCLA
+320670026,2012,regular-season,2012-03-07,2,12,away,TRUE,Arizona,61,Wildcats,Arizona Wildcats,Arizona
+320672628,2012,regular-season,2012-03-07,2,2628,home,TRUE,TCU,44,Horned Frogs,TCU Horned Frogs,TCU
+320672628,2012,regular-season,2012-03-07,2,2751,away,TRUE,Wyoming,61,Cowgirls,Wyoming Cowgirls,Wyoming
+320670328,2012,regular-season,2012-03-07,2,328,home,TRUE,Utah State,75,Aggies,Utah State Aggies,Utah State
+320670328,2012,regular-season,2012-03-07,2,2440,away,TRUE,Nevada,66,Wolf Pack,Nevada Wolf Pack,Nevada
+320672116,2012,regular-season,2012-03-07,2,2116,home,TRUE,UCF,49,Knights,UCF Knights,UCF
+320672116,2012,regular-season,2012-03-07,2,2572,away,TRUE,Southern Miss,71,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+320670251,2012,regular-season,2012-03-07,2,251,home,TRUE,Texas,58,Longhorns,Texas Longhorns,Texas
+320670251,2012,regular-season,2012-03-07,2,2641,away,TRUE,Texas Tech,81,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+320672400,2012,regular-season,2012-03-07,2,2400,home,TRUE,Mississippi Valley State,70,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
+320672400,2012,regular-season,2012-03-07,2,2640,away,TRUE,Texas Southern,47,Tigers,Texas Southern Tigers,Texas Southern
+320672750,2012,regular-season,2012-03-07,0,2750,home,FALSE,Wright State,0,Raiders,Wright State Raiders,Wright St
+320672750,2012,regular-season,2012-03-07,0,2350,away,FALSE,Loyola Chicago,0,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+320672174,2012,regular-season,2012-03-07,0,2174,home,FALSE,Detroit Mercy,0,Titans,Detroit Mercy Titans,Detroit Mercy
+320672174,2012,regular-season,2012-03-07,0,325,away,FALSE,Cleveland State,0,Vikings,Cleveland State Vikings,Cleveland St
+320672739,2012,regular-season,2012-03-07,2,2739,home,FALSE,Green Bay,77,Phoenix,Green Bay Phoenix,Green Bay
+320672739,2012,regular-season,2012-03-07,2,2674,away,FALSE,Valparaiso,53,Beacons,Valparaiso Beacons,Valparaiso
+320670254,2012,regular-season,2012-03-07,2,254,home,TRUE,Utah,41,Utes,Utah Utes,Utah
+320670254,2012,regular-season,2012-03-07,2,38,away,TRUE,Colorado,55,Buffaloes,Colorado Buffaloes,Colorado
+320670082,2012,regular-season,2012-03-07,0,82,home,FALSE,UIC,0,Flames,UIC Flames,UIC
+320670082,2012,regular-season,2012-03-07,0,2086,away,FALSE,Butler,0,Bulldogs,Butler Bulldogs,Butler
+320670242,2012,regular-season,2012-03-07,2,242,home,TRUE,Rice,64,Owls,Rice Owls,Rice
+320670242,2012,regular-season,2012-03-07,2,248,away,TRUE,Houston,50,Cougars,Houston Cougars,Houston
+320670197,2012,regular-season,2012-03-07,2,197,home,TRUE,Oklahoma State,68,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+320670197,2012,regular-season,2012-03-07,2,142,away,TRUE,Missouri,72,Tigers,Missouri Tigers,Missouri
+320672439,2012,regular-season,2012-03-07,2,2439,home,TRUE,UNLV,58,Lady Rebels,UNLV Lady Rebels,UNLV
+320672439,2012,regular-season,2012-03-07,2,167,away,TRUE,New Mexico,61,Lobos,New Mexico Lobos,New Mexico
+320670278,2012,regular-season,2012-03-07,2,278,home,TRUE,Fresno State,66,Bulldogs,Fresno State Bulldogs,Fresno St
+320670278,2012,regular-season,2012-03-07,2,166,away,TRUE,New Mexico State,58,Aggies,New Mexico State Aggies,New Mexico St
+320670204,2012,regular-season,2012-03-07,2,204,home,TRUE,Oregon State,56,Beavers,Oregon State Beavers,Oregon St
+320670204,2012,regular-season,2012-03-07,2,265,away,TRUE,Washington State,65,Cougars,Washington State Cougars,Washington St
+320670070,2012,regular-season,2012-03-07,2,70,home,TRUE,Idaho,67,Vandals,Idaho Vandals,Idaho
+320670070,2012,regular-season,2012-03-07,2,23,away,TRUE,San José State,63,Spartans,San José State Spartans,San José St
+320670036,2012,regular-season,2012-03-07,2,36,home,TRUE,Colorado State,63,Rams,Colorado State Rams,Colorado St
+320670036,2012,regular-season,2012-03-07,2,68,away,TRUE,Boise State,68,Broncos,Boise State Broncos,Boise St

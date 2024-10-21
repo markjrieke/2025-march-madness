@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400590421,2014-12-16,2,153,home,FALSE,North Carolina,55,Tar Heels,North Carolina Tar Heels,North Carolina
-400590421,2014-12-16,2,204,away,FALSE,Oregon State,70,Beavers,Oregon State Beavers,Oregon St
-400589789,2014-12-16,2,2633,home,FALSE,Tennessee,54,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400589789,2014-12-16,2,2724,away,FALSE,Wichita State,51,Shockers,Wichita State Shockers,Wichita St
-400596635,2014-12-16,2,127,home,FALSE,Michigan State,77,Spartans,Michigan State Spartans,Michigan St
-400596635,2014-12-16,2,2016,away,FALSE,Alcorn State,41,Lady Braves,Alcorn State Lady Braves,Alcorn St
-400592505,2014-12-16,2,183,home,FALSE,Syracuse,70,Orange,Syracuse Orange,Syracuse
-400592505,2014-12-16,2,2099,away,FALSE,Canisius,37,Golden Griffins,Canisius Golden Griffins,Canisius
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400590421,2015,regular-season,2014-12-16,2,153,home,FALSE,North Carolina,55,Tar Heels,North Carolina Tar Heels,North Carolina
+400590421,2015,regular-season,2014-12-16,2,204,away,FALSE,Oregon State,70,Beavers,Oregon State Beavers,Oregon St
+400589789,2015,regular-season,2014-12-16,2,2633,home,FALSE,Tennessee,54,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400589789,2015,regular-season,2014-12-16,2,2724,away,FALSE,Wichita State,51,Shockers,Wichita State Shockers,Wichita St
+400596635,2015,regular-season,2014-12-16,2,127,home,FALSE,Michigan State,77,Spartans,Michigan State Spartans,Michigan St
+400596635,2015,regular-season,2014-12-16,2,2016,away,FALSE,Alcorn State,41,Lady Braves,Alcorn State Lady Braves,Alcorn St
+400592505,2015,regular-season,2014-12-16,2,183,home,FALSE,Syracuse,70,Orange,Syracuse Orange,Syracuse
+400592505,2015,regular-season,2014-12-16,2,2099,away,FALSE,Canisius,37,Golden Griffins,Canisius Golden Griffins,Canisius

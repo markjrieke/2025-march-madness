@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290260041,2009-01-26,2,41,home,FALSE,UConn,93,Huskies,UConn Huskies,UConn
-290260041,2009-01-26,2,97,away,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
-290260228,2009-01-26,2,228,home,FALSE,Clemson,67,Tigers,Clemson Tigers,Clemson
-290260228,2009-01-26,2,258,away,FALSE,Virginia,75,Cavaliers,Virginia Cavaliers,Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290260041,2009,regular-season,2009-01-26,2,41,home,FALSE,UConn,93,Huskies,UConn Huskies,UConn
+290260041,2009,regular-season,2009-01-26,2,97,away,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
+290260228,2009,regular-season,2009-01-26,2,228,home,FALSE,Clemson,67,Tigers,Clemson Tigers,Clemson
+290260228,2009,regular-season,2009-01-26,2,258,away,FALSE,Virginia,75,Cavaliers,Virginia Cavaliers,Virginia

@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400872163,2016-03-19,2,2390,home,TRUE,Miami,65,Hurricanes,Miami Hurricanes,Miami
-400872163,2016-03-19,2,2724,away,TRUE,Wichita State,57,Shockers,Wichita State Shockers,Wichita St
-400872082,2016-03-19,2,150,home,TRUE,Duke,71,Blue Devils,Duke Blue Devils,Duke
-400872082,2016-03-19,2,43,away,TRUE,Yale,64,Bulldogs,Yale Bulldogs,Yale
-400872166,2016-03-19,2,96,home,TRUE,Kentucky,67,Wildcats,Kentucky Wildcats,Kentucky
-400872166,2016-03-19,2,84,away,TRUE,Indiana,73,Hoosiers,Indiana Hoosiers,Indiana
-400872132,2016-03-19,2,66,home,TRUE,Iowa State,78,Cyclones,Iowa State Cyclones,Iowa State
-400872132,2016-03-19,2,2031,away,TRUE,Little Rock,61,Trojans,Little Rock Trojans,Little Rock
-400872129,2016-03-19,2,258,home,TRUE,Virginia,77,Cavaliers,Virginia Cavaliers,Virginia
-400872129,2016-03-19,2,2086,away,TRUE,Butler,69,Bulldogs,Butler Bulldogs,Butler
-400872131,2016-03-19,2,2305,home,TRUE,Kansas,73,Jayhawks,Kansas Jayhawks,Kansas
-400872131,2016-03-19,2,41,away,TRUE,UConn,61,Huskies,UConn Huskies,UConn
-400872167,2016-03-19,2,254,home,TRUE,Utah,59,Utes,Utah Utes,Utah
-400872167,2016-03-19,2,2250,away,TRUE,Gonzaga,82,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400872165,2016-03-19,2,153,home,TRUE,North Carolina,85,Tar Heels,North Carolina Tar Heels,North Carolina
-400872165,2016-03-19,2,2507,away,TRUE,Providence,66,Friars,Providence Friars,Providence
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400872163,2016,post-season,2016-03-19,2,2390,home,TRUE,Miami,65,Hurricanes,Miami Hurricanes,Miami
+400872163,2016,post-season,2016-03-19,2,2724,away,TRUE,Wichita State,57,Shockers,Wichita State Shockers,Wichita St
+400872082,2016,post-season,2016-03-19,2,150,home,TRUE,Duke,71,Blue Devils,Duke Blue Devils,Duke
+400872082,2016,post-season,2016-03-19,2,43,away,TRUE,Yale,64,Bulldogs,Yale Bulldogs,Yale
+400872166,2016,post-season,2016-03-19,2,96,home,TRUE,Kentucky,67,Wildcats,Kentucky Wildcats,Kentucky
+400872166,2016,post-season,2016-03-19,2,84,away,TRUE,Indiana,73,Hoosiers,Indiana Hoosiers,Indiana
+400872132,2016,post-season,2016-03-19,2,66,home,TRUE,Iowa State,78,Cyclones,Iowa State Cyclones,Iowa State
+400872132,2016,post-season,2016-03-19,2,2031,away,TRUE,Little Rock,61,Trojans,Little Rock Trojans,Little Rock
+400872129,2016,post-season,2016-03-19,2,258,home,TRUE,Virginia,77,Cavaliers,Virginia Cavaliers,Virginia
+400872129,2016,post-season,2016-03-19,2,2086,away,TRUE,Butler,69,Bulldogs,Butler Bulldogs,Butler
+400872131,2016,post-season,2016-03-19,2,2305,home,TRUE,Kansas,73,Jayhawks,Kansas Jayhawks,Kansas
+400872131,2016,post-season,2016-03-19,2,41,away,TRUE,UConn,61,Huskies,UConn Huskies,UConn
+400872167,2016,post-season,2016-03-19,2,254,home,TRUE,Utah,59,Utes,Utah Utes,Utah
+400872167,2016,post-season,2016-03-19,2,2250,away,TRUE,Gonzaga,82,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400872165,2016,post-season,2016-03-19,2,153,home,TRUE,North Carolina,85,Tar Heels,North Carolina Tar Heels,North Carolina
+400872165,2016,post-season,2016-03-19,2,2507,away,TRUE,Providence,66,Friars,Providence Friars,Providence

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400595050,2014-11-24,2,2633,home,FALSE,Tennessee,97,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400595050,2014-11-24,2,2634,away,FALSE,Tennessee State,46,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
-400590373,2014-11-24,2,167,home,FALSE,New Mexico,65,Lobos,New Mexico Lobos,New Mexico
-400590373,2014-11-24,2,24,away,FALSE,Stanford,70,Cardinal,Stanford Cardinal,Stanford
-400595060,2014-11-24,2,245,home,FALSE,Texas A&M,59,Aggies,Texas A&M Aggies,Texas A&M
-400595060,2014-11-24,2,2504,away,FALSE,Prairie View A&M,41,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
-400596609,2014-11-24,2,120,home,FALSE,Maryland,65,Terrapins,Maryland Terrapins,Maryland
-400596609,2014-11-24,2,2352,away,FALSE,Loyola Maryland,43,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400595050,2015,regular-season,2014-11-24,2,2633,home,FALSE,Tennessee,97,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400595050,2015,regular-season,2014-11-24,2,2634,away,FALSE,Tennessee State,46,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
+400590373,2015,regular-season,2014-11-24,2,167,home,FALSE,New Mexico,65,Lobos,New Mexico Lobos,New Mexico
+400590373,2015,regular-season,2014-11-24,2,24,away,FALSE,Stanford,70,Cardinal,Stanford Cardinal,Stanford
+400595060,2015,regular-season,2014-11-24,2,245,home,FALSE,Texas A&M,59,Aggies,Texas A&M Aggies,Texas A&M
+400595060,2015,regular-season,2014-11-24,2,2504,away,FALSE,Prairie View A&M,41,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
+400596609,2015,regular-season,2014-11-24,2,120,home,FALSE,Maryland,65,Terrapins,Maryland Terrapins,Maryland
+400596609,2015,regular-season,2014-11-24,2,2352,away,FALSE,Loyola Maryland,43,Greyhounds,Loyola Maryland Greyhounds,Loyola MD

@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270630057,2007-03-04,2,57,home,FALSE,Florida,85,Gators,Florida Gators,Florida
-270630057,2007-03-04,2,96,away,FALSE,Kentucky,72,Wildcats,Kentucky Wildcats,Kentucky
-270630153,2007-03-04,2,153,home,FALSE,North Carolina,86,Tar Heels,North Carolina Tar Heels,North Carolina
-270630153,2007-03-04,2,150,away,FALSE,Duke,72,Blue Devils,Duke Blue Devils,Duke
-270630156,2007-03-04,2,79,home,FALSE,Southern Illinois,61,Salukis,Southern Illinois Salukis,S Illinois
-270630156,2007-03-04,2,156,away,FALSE,Creighton,67,Bluejays,Creighton Bluejays,Creighton
-270630097,2007-03-04,2,97,home,FALSE,Louisville,86,Cardinals,Louisville Cardinals,Louisville
-270630097,2007-03-04,2,2550,away,FALSE,Seton Hall,71,Pirates,Seton Hall Pirates,Seton Hall
-270630259,2007-03-04,2,259,home,FALSE,Virginia Tech,74,Hokies,Virginia Tech Hokies,Virginia Tech
-270630259,2007-03-04,2,228,away,FALSE,Clemson,75,Tigers,Clemson Tigers,Clemson
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270630057,2007,regular-season,2007-03-04,2,57,home,FALSE,Florida,85,Gators,Florida Gators,Florida
+270630057,2007,regular-season,2007-03-04,2,96,away,FALSE,Kentucky,72,Wildcats,Kentucky Wildcats,Kentucky
+270630153,2007,regular-season,2007-03-04,2,153,home,FALSE,North Carolina,86,Tar Heels,North Carolina Tar Heels,North Carolina
+270630153,2007,regular-season,2007-03-04,2,150,away,FALSE,Duke,72,Blue Devils,Duke Blue Devils,Duke
+270630156,2007,regular-season,2007-03-04,2,79,home,FALSE,Southern Illinois,61,Salukis,Southern Illinois Salukis,S Illinois
+270630156,2007,regular-season,2007-03-04,2,156,away,FALSE,Creighton,67,Bluejays,Creighton Bluejays,Creighton
+270630097,2007,regular-season,2007-03-04,2,97,home,FALSE,Louisville,86,Cardinals,Louisville Cardinals,Louisville
+270630097,2007,regular-season,2007-03-04,2,2550,away,FALSE,Seton Hall,71,Pirates,Seton Hall Pirates,Seton Hall
+270630259,2007,regular-season,2007-03-04,2,259,home,FALSE,Virginia Tech,74,Hokies,Virginia Tech Hokies,Virginia Tech
+270630259,2007,regular-season,2007-03-04,2,228,away,FALSE,Clemson,75,Tigers,Clemson Tigers,Clemson

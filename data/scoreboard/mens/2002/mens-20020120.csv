@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220200120,2002-01-20,2,120,home,FALSE,Maryland,99,Terrapins,Maryland Terrapins,Maryland
-220200120,2002-01-20,2,228,away,FALSE,Clemson,90,Tigers,Clemson Tigers,Clemson
-220200258,2002-01-20,2,258,home,FALSE,Virginia,91,Cavaliers,Virginia Cavaliers,Virginia
-220200258,2002-01-20,2,52,away,FALSE,Florida State,74,Seminoles,Florida State Seminoles,Florida St
-220200103,2002-01-20,2,103,home,FALSE,Boston College,77,Eagles,Boston College Eagles,Boston College
-220200103,2002-01-20,2,259,away,FALSE,Virginia Tech,68,Hokies,Virginia Tech Hokies,Virginia Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220200120,2002,regular-season,2002-01-20,2,120,home,FALSE,Maryland,99,Terrapins,Maryland Terrapins,Maryland
+220200120,2002,regular-season,2002-01-20,2,228,away,FALSE,Clemson,90,Tigers,Clemson Tigers,Clemson
+220200258,2002,regular-season,2002-01-20,2,258,home,FALSE,Virginia,91,Cavaliers,Virginia Cavaliers,Virginia
+220200258,2002,regular-season,2002-01-20,2,52,away,FALSE,Florida State,74,Seminoles,Florida State Seminoles,Florida St
+220200103,2002,regular-season,2002-01-20,2,103,home,FALSE,Boston College,77,Eagles,Boston College Eagles,Boston College
+220200103,2002,regular-season,2002-01-20,2,259,away,FALSE,Virginia Tech,68,Hokies,Virginia Tech Hokies,Virginia Tech

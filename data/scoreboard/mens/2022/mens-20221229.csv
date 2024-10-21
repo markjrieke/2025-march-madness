@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401483410,2022-12-29,2,2509,home,FALSE,Purdue,82,Boilermakers,Purdue Boilermakers,Purdue
-401483410,2022-12-29,2,50,away,FALSE,Florida A&M,49,Rattlers,Florida A&M Rattlers,Florida A&M
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401483410,2023,regular-season,2022-12-29,2,2509,home,FALSE,Purdue,82,Boilermakers,Purdue Boilermakers,Purdue
+401483410,2023,regular-season,2022-12-29,2,50,away,FALSE,Florida A&M,49,Rattlers,Florida A&M Rattlers,Florida A&M

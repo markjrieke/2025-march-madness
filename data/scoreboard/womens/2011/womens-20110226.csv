@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310570046,2011-02-26,2,46,home,FALSE,Georgetown,42,Hoyas,Georgetown Hoyas,Georgetown
-310570046,2011-02-26,2,41,away,FALSE,UConn,52,Huskies,UConn Huskies,UConn
-310570024,2011-02-26,2,24,home,FALSE,Stanford,99,Cardinal,Stanford Cardinal,Stanford
-310570024,2011-02-26,2,2483,away,FALSE,Oregon,60,Ducks,Oregon Ducks,Oregon
-310570269,2011-02-26,2,269,home,FALSE,Marquette,60,Golden Eagles,Marquette Golden Eagles,Marquette
-310570269,2011-02-26,2,305,away,FALSE,DePaul,53,Blue Demons,DePaul Blue Demons,DePaul
-310570087,2011-02-26,2,87,home,FALSE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-310570087,2011-02-26,2,2132,away,FALSE,Cincinnati,48,Bearcats,Cincinnati Bearcats,Cincinnati
-310570009,2011-02-26,2,9,home,FALSE,Arizona State,45,Sun Devils,Arizona State Sun Devils,Arizona St
-310570009,2011-02-26,2,26,away,FALSE,UCLA,61,Bruins,UCLA Bruins,UCLA
-310572739,2011-02-26,2,2739,home,FALSE,Green Bay,93,Phoenix,Green Bay Phoenix,Green Bay
-310572739,2011-02-26,2,2086,away,FALSE,Butler,57,Bulldogs,Butler Bulldogs,Butler
-310570164,2011-02-26,2,164,home,FALSE,Rutgers,67,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-310570164,2011-02-26,2,277,away,FALSE,West Virginia,58,Mountaineers,West Virginia Mountaineers,West Virginia
-310572250,2011-02-26,2,2250,home,FALSE,Gonzaga,80,Bulldogs,Gonzaga Bulldogs,Gonzaga
-310572250,2011-02-26,2,301,away,FALSE,San Diego,58,Toreros,San Diego Toreros,San Diego
-310572306,2011-02-26,2,2306,home,FALSE,Kansas State,51,Wildcats,Kansas State Wildcats,Kansas St
-310572306,2011-02-26,2,66,away,FALSE,Iowa State,58,Cyclones,Iowa State Cyclones,Iowa State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310570046,2011,regular-season,2011-02-26,2,46,home,FALSE,Georgetown,42,Hoyas,Georgetown Hoyas,Georgetown
+310570046,2011,regular-season,2011-02-26,2,41,away,FALSE,UConn,52,Huskies,UConn Huskies,UConn
+310570024,2011,regular-season,2011-02-26,2,24,home,FALSE,Stanford,99,Cardinal,Stanford Cardinal,Stanford
+310570024,2011,regular-season,2011-02-26,2,2483,away,FALSE,Oregon,60,Ducks,Oregon Ducks,Oregon
+310570269,2011,regular-season,2011-02-26,2,269,home,FALSE,Marquette,60,Golden Eagles,Marquette Golden Eagles,Marquette
+310570269,2011,regular-season,2011-02-26,2,305,away,FALSE,DePaul,53,Blue Demons,DePaul Blue Demons,DePaul
+310570087,2011,regular-season,2011-02-26,2,87,home,FALSE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+310570087,2011,regular-season,2011-02-26,2,2132,away,FALSE,Cincinnati,48,Bearcats,Cincinnati Bearcats,Cincinnati
+310570009,2011,regular-season,2011-02-26,2,9,home,FALSE,Arizona State,45,Sun Devils,Arizona State Sun Devils,Arizona St
+310570009,2011,regular-season,2011-02-26,2,26,away,FALSE,UCLA,61,Bruins,UCLA Bruins,UCLA
+310572739,2011,regular-season,2011-02-26,2,2739,home,FALSE,Green Bay,93,Phoenix,Green Bay Phoenix,Green Bay
+310572739,2011,regular-season,2011-02-26,2,2086,away,FALSE,Butler,57,Bulldogs,Butler Bulldogs,Butler
+310570164,2011,regular-season,2011-02-26,2,164,home,FALSE,Rutgers,67,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+310570164,2011,regular-season,2011-02-26,2,277,away,FALSE,West Virginia,58,Mountaineers,West Virginia Mountaineers,West Virginia
+310572250,2011,regular-season,2011-02-26,2,2250,home,FALSE,Gonzaga,80,Bulldogs,Gonzaga Bulldogs,Gonzaga
+310572250,2011,regular-season,2011-02-26,2,301,away,FALSE,San Diego,58,Toreros,San Diego Toreros,San Diego
+310572306,2011,regular-season,2011-02-26,2,2306,home,FALSE,Kansas State,51,Wildcats,Kansas State Wildcats,Kansas St
+310572306,2011,regular-season,2011-02-26,2,66,away,FALSE,Iowa State,58,Cyclones,Iowa State Cyclones,Iowa State

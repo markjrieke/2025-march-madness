@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290170097,2009-01-17,2,97,home,FALSE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
-290170097,2009-01-17,2,221,away,FALSE,Pittsburgh,63,Panthers,Pittsburgh Panthers,Pitt
-290170228,2009-01-17,2,228,home,FALSE,Clemson,68,Tigers,Clemson Tigers,Clemson
-290170228,2009-01-17,2,154,away,FALSE,Wake Forest,78,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-290170150,2009-01-17,2,150,home,FALSE,Duke,76,Blue Devils,Duke Blue Devils,Duke
-290170150,2009-01-17,2,46,away,FALSE,Georgetown,67,Hoyas,Georgetown Hoyas,Georgetown
-290170153,2009-01-17,2,153,home,FALSE,North Carolina,82,Tar Heels,North Carolina Tar Heels,North Carolina
-290170153,2009-01-17,2,2390,away,FALSE,Miami,65,Hurricanes,Miami Hurricanes,Miami
-290170245,2009-01-17,2,245,home,FALSE,Texas A&M,63,Aggies,Texas A&M Aggies,Texas A&M
-290170245,2009-01-17,2,201,away,FALSE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma
-290170127,2009-01-17,2,127,home,FALSE,Michigan State,63,Spartans,Michigan State Spartans,Michigan St
-290170127,2009-01-17,2,356,away,FALSE,Illinois,57,Fighting Illini,Illinois Fighting Illini,Illinois
-290170183,2009-01-17,2,183,home,FALSE,Syracuse,93,Orange,Syracuse Orange,Syracuse
-290170183,2009-01-17,2,87,away,FALSE,Notre Dame,74,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-290170026,2009-01-17,3,26,home,FALSE,UCLA,58,Bruins,UCLA Bruins,UCLA
-290170026,2009-01-17,3,9,away,FALSE,Arizona State,61,Sun Devils,Arizona State Sun Devils,Arizona St
-290172641,2009-01-17,2,2641,home,FALSE,Texas Tech,49,Red Raiders,Texas Tech Red Raiders,Texas Tech
-290172641,2009-01-17,2,251,away,FALSE,Texas,71,Longhorns,Texas Longhorns,Texas
-290172507,2009-01-17,2,2507,home,FALSE,Providence,82,Friars,Providence Friars,Providence
-290172507,2009-01-17,2,269,away,FALSE,Marquette,91,Golden Eagles,Marquette Golden Eagles,Marquette
-290170082,2009-01-17,2,82,home,FALSE,UIC,52,Flames,UIC Flames,UIC
-290170082,2009-01-17,2,2086,away,FALSE,Butler,59,Bulldogs,Butler Bulldogs,Butler
-290170239,2009-01-17,3,239,home,FALSE,Baylor,98,Bears,Baylor Bears,Baylor
-290170239,2009-01-17,3,197,away,FALSE,Oklahoma State,92,Cowboys,Oklahoma State Cowboys,Oklahoma St
-290170024,2009-01-17,2,24,home,FALSE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
-290170024,2009-01-17,2,25,away,FALSE,California,69,Golden Bears,California Golden Bears,California
-290172633,2009-01-17,2,2633,home,FALSE,Tennessee,82,Volunteers,Tennessee Volunteers,Tennessee
-290172633,2009-01-17,2,2579,away,FALSE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
-290170130,2009-01-17,2,130,home,FALSE,Michigan,58,Wolverines,Michigan Wolverines,Michigan
-290170130,2009-01-17,2,194,away,FALSE,Ohio State,65,Buckeyes,Ohio State Buckeyes,Ohio State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290170097,2009,regular-season,2009-01-17,2,97,home,FALSE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
+290170097,2009,regular-season,2009-01-17,2,221,away,FALSE,Pittsburgh,63,Panthers,Pittsburgh Panthers,Pitt
+290170228,2009,regular-season,2009-01-17,2,228,home,FALSE,Clemson,68,Tigers,Clemson Tigers,Clemson
+290170228,2009,regular-season,2009-01-17,2,154,away,FALSE,Wake Forest,78,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+290170150,2009,regular-season,2009-01-17,2,150,home,FALSE,Duke,76,Blue Devils,Duke Blue Devils,Duke
+290170150,2009,regular-season,2009-01-17,2,46,away,FALSE,Georgetown,67,Hoyas,Georgetown Hoyas,Georgetown
+290170153,2009,regular-season,2009-01-17,2,153,home,FALSE,North Carolina,82,Tar Heels,North Carolina Tar Heels,North Carolina
+290170153,2009,regular-season,2009-01-17,2,2390,away,FALSE,Miami,65,Hurricanes,Miami Hurricanes,Miami
+290170245,2009,regular-season,2009-01-17,2,245,home,FALSE,Texas A&M,63,Aggies,Texas A&M Aggies,Texas A&M
+290170245,2009,regular-season,2009-01-17,2,201,away,FALSE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma
+290170127,2009,regular-season,2009-01-17,2,127,home,FALSE,Michigan State,63,Spartans,Michigan State Spartans,Michigan St
+290170127,2009,regular-season,2009-01-17,2,356,away,FALSE,Illinois,57,Fighting Illini,Illinois Fighting Illini,Illinois
+290170183,2009,regular-season,2009-01-17,2,183,home,FALSE,Syracuse,93,Orange,Syracuse Orange,Syracuse
+290170183,2009,regular-season,2009-01-17,2,87,away,FALSE,Notre Dame,74,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+290170026,2009,regular-season,2009-01-17,3,26,home,FALSE,UCLA,58,Bruins,UCLA Bruins,UCLA
+290170026,2009,regular-season,2009-01-17,3,9,away,FALSE,Arizona State,61,Sun Devils,Arizona State Sun Devils,Arizona St
+290172641,2009,regular-season,2009-01-17,2,2641,home,FALSE,Texas Tech,49,Red Raiders,Texas Tech Red Raiders,Texas Tech
+290172641,2009,regular-season,2009-01-17,2,251,away,FALSE,Texas,71,Longhorns,Texas Longhorns,Texas
+290172507,2009,regular-season,2009-01-17,2,2507,home,FALSE,Providence,82,Friars,Providence Friars,Providence
+290172507,2009,regular-season,2009-01-17,2,269,away,FALSE,Marquette,91,Golden Eagles,Marquette Golden Eagles,Marquette
+290170082,2009,regular-season,2009-01-17,2,82,home,FALSE,UIC,52,Flames,UIC Flames,UIC
+290170082,2009,regular-season,2009-01-17,2,2086,away,FALSE,Butler,59,Bulldogs,Butler Bulldogs,Butler
+290170239,2009,regular-season,2009-01-17,3,239,home,FALSE,Baylor,98,Bears,Baylor Bears,Baylor
+290170239,2009,regular-season,2009-01-17,3,197,away,FALSE,Oklahoma State,92,Cowboys,Oklahoma State Cowboys,Oklahoma St
+290170024,2009,regular-season,2009-01-17,2,24,home,FALSE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
+290170024,2009,regular-season,2009-01-17,2,25,away,FALSE,California,69,Golden Bears,California Golden Bears,California
+290172633,2009,regular-season,2009-01-17,2,2633,home,FALSE,Tennessee,82,Volunteers,Tennessee Volunteers,Tennessee
+290172633,2009,regular-season,2009-01-17,2,2579,away,FALSE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
+290170130,2009,regular-season,2009-01-17,2,130,home,FALSE,Michigan,58,Wolverines,Michigan Wolverines,Michigan
+290170130,2009,regular-season,2009-01-17,2,194,away,FALSE,Ohio State,65,Buckeyes,Ohio State Buckeyes,Ohio State

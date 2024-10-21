@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303572199,2010-12-23,2,2199,home,FALSE,Eastern Michigan,74,Eagles,Eastern Michigan Eagles,E Michigan
-303572199,2010-12-23,2,82,away,FALSE,UIC,54,Flames,UIC Flames,UIC
-303572515,2010-12-23,2,2515,home,FALSE,Radford,49,Highlanders,Radford Highlanders,Radford
-303572515,2010-12-23,2,2670,away,FALSE,VCU,79,Rams,VCU Rams,VCU
-303572250,2010-12-23,2,2250,home,FALSE,Gonzaga,101,Bulldogs,Gonzaga Bulldogs,Gonzaga
-303572250,2010-12-23,2,2239,away,FALSE,Cal State Fullerton,52,Titans,Cal State Fullerton Titans,Fullerton
-303572608,2010-12-23,2,2608,home,FALSE,Saint Mary's,85,Gaels,Saint Mary's Gaels,Saint Mary's
-303572608,2010-12-23,2,70,away,FALSE,Idaho,71,Vandals,Idaho Vandals,Idaho
-303570328,2010-12-23,2,328,home,FALSE,Utah State,50,Aggies,Utah State Aggies,Utah State
-303570328,2010-12-23,2,2751,away,FALSE,Wyoming,80,Cowgirls,Wyoming Cowgirls,Wyoming
-303570264,2010-12-23,2,264,home,FALSE,Washington,27,Huskies,Washington Huskies,Washington
-303570264,2010-12-23,2,59,away,FALSE,Georgia Tech,60,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303572199,2011,regular-season,2010-12-23,2,2199,home,FALSE,Eastern Michigan,74,Eagles,Eastern Michigan Eagles,E Michigan
+303572199,2011,regular-season,2010-12-23,2,82,away,FALSE,UIC,54,Flames,UIC Flames,UIC
+303572515,2011,regular-season,2010-12-23,2,2515,home,FALSE,Radford,49,Highlanders,Radford Highlanders,Radford
+303572515,2011,regular-season,2010-12-23,2,2670,away,FALSE,VCU,79,Rams,VCU Rams,VCU
+303572250,2011,regular-season,2010-12-23,2,2250,home,FALSE,Gonzaga,101,Bulldogs,Gonzaga Bulldogs,Gonzaga
+303572250,2011,regular-season,2010-12-23,2,2239,away,FALSE,Cal State Fullerton,52,Titans,Cal State Fullerton Titans,Fullerton
+303572608,2011,regular-season,2010-12-23,2,2608,home,FALSE,Saint Mary's,85,Gaels,Saint Mary's Gaels,Saint Mary's
+303572608,2011,regular-season,2010-12-23,2,70,away,FALSE,Idaho,71,Vandals,Idaho Vandals,Idaho
+303570328,2011,regular-season,2010-12-23,2,328,home,FALSE,Utah State,50,Aggies,Utah State Aggies,Utah State
+303570328,2011,regular-season,2010-12-23,2,2751,away,FALSE,Wyoming,80,Cowgirls,Wyoming Cowgirls,Wyoming
+303570264,2011,regular-season,2010-12-23,2,264,home,FALSE,Washington,27,Huskies,Washington Huskies,Washington
+303570264,2011,regular-season,2010-12-23,2,59,away,FALSE,Georgia Tech,60,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech

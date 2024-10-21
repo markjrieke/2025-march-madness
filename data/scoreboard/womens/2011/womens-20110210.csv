@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310410024,2011-02-10,2,24,home,FALSE,Stanford,100,Cardinal,Stanford Cardinal,Stanford
-310410024,2011-02-10,2,265,away,FALSE,Washington State,59,Cougars,Washington State Cougars,Washington St
-310412633,2011-02-10,2,2633,home,FALSE,Tennessee,61,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-310412633,2011-02-10,2,57,away,FALSE,Florida,39,Gators,Florida Gators,Florida
-310412483,2011-02-10,2,2483,home,FALSE,Oregon,48,Ducks,Oregon Ducks,Oregon
-310412483,2011-02-10,2,26,away,FALSE,UCLA,75,Bruins,UCLA Bruins,UCLA
-310410213,2011-02-10,2,213,home,FALSE,Penn State,49,Lady Lions,Penn State Lady Lions,Penn State
-310410213,2011-02-10,2,127,away,FALSE,Michigan State,60,Spartans,Michigan State Spartans,Michigan St
-310412390,2011-02-10,2,2390,home,FALSE,Miami,83,Hurricanes,Miami Hurricanes,Miami
-310412390,2011-02-10,2,120,away,FALSE,Maryland,75,Terrapins,Maryland Terrapins,Maryland
-310410228,2011-02-10,2,228,home,FALSE,Clemson,47,Tigers,Clemson Tigers,Clemson
-310410228,2011-02-10,2,153,away,FALSE,North Carolina,60,Tar Heels,North Carolina Tar Heels,North Carolina
-310412579,2011-02-10,2,2579,home,FALSE,South Carolina,66,Gamecocks,South Carolina Gamecocks,South Carolina
-310412579,2011-02-10,2,96,away,FALSE,Kentucky,61,Wildcats,Kentucky Wildcats,Kentucky
-310410082,2011-02-10,2,82,home,FALSE,UIC,50,Flames,UIC Flames,UIC
-310410082,2011-02-10,2,2739,away,FALSE,Green Bay,81,Phoenix,Green Bay Phoenix,Green Bay
-310410061,2011-02-10,2,61,home,FALSE,Georgia,59,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-310410061,2011-02-10,2,238,away,FALSE,Vanderbilt,69,Commodores,Vanderbilt Commodores,Vanderbilt
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310410024,2011,regular-season,2011-02-10,2,24,home,FALSE,Stanford,100,Cardinal,Stanford Cardinal,Stanford
+310410024,2011,regular-season,2011-02-10,2,265,away,FALSE,Washington State,59,Cougars,Washington State Cougars,Washington St
+310412633,2011,regular-season,2011-02-10,2,2633,home,FALSE,Tennessee,61,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+310412633,2011,regular-season,2011-02-10,2,57,away,FALSE,Florida,39,Gators,Florida Gators,Florida
+310412483,2011,regular-season,2011-02-10,2,2483,home,FALSE,Oregon,48,Ducks,Oregon Ducks,Oregon
+310412483,2011,regular-season,2011-02-10,2,26,away,FALSE,UCLA,75,Bruins,UCLA Bruins,UCLA
+310410213,2011,regular-season,2011-02-10,2,213,home,FALSE,Penn State,49,Lady Lions,Penn State Lady Lions,Penn State
+310410213,2011,regular-season,2011-02-10,2,127,away,FALSE,Michigan State,60,Spartans,Michigan State Spartans,Michigan St
+310412390,2011,regular-season,2011-02-10,2,2390,home,FALSE,Miami,83,Hurricanes,Miami Hurricanes,Miami
+310412390,2011,regular-season,2011-02-10,2,120,away,FALSE,Maryland,75,Terrapins,Maryland Terrapins,Maryland
+310410228,2011,regular-season,2011-02-10,2,228,home,FALSE,Clemson,47,Tigers,Clemson Tigers,Clemson
+310410228,2011,regular-season,2011-02-10,2,153,away,FALSE,North Carolina,60,Tar Heels,North Carolina Tar Heels,North Carolina
+310412579,2011,regular-season,2011-02-10,2,2579,home,FALSE,South Carolina,66,Gamecocks,South Carolina Gamecocks,South Carolina
+310412579,2011,regular-season,2011-02-10,2,96,away,FALSE,Kentucky,61,Wildcats,Kentucky Wildcats,Kentucky
+310410082,2011,regular-season,2011-02-10,2,82,home,FALSE,UIC,50,Flames,UIC Flames,UIC
+310410082,2011,regular-season,2011-02-10,2,2739,away,FALSE,Green Bay,81,Phoenix,Green Bay Phoenix,Green Bay
+310410061,2011,regular-season,2011-02-10,2,61,home,FALSE,Georgia,59,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+310410061,2011,regular-season,2011-02-10,2,238,away,FALSE,Vanderbilt,69,Commodores,Vanderbilt Commodores,Vanderbilt

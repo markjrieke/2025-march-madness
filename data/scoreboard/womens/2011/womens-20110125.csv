@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310250046,2011-01-25,2,46,home,FALSE,Georgetown,65,Hoyas,Georgetown Hoyas,Georgetown
-310250046,2011-01-25,2,277,away,FALSE,West Virginia,60,Mountaineers,West Virginia Mountaineers,West Virginia
-310252132,2011-01-25,2,2132,home,FALSE,Cincinnati,48,Bearcats,Cincinnati Bearcats,Cincinnati
-310252132,2011-01-25,2,305,away,FALSE,DePaul,67,Blue Demons,DePaul Blue Demons,DePaul
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310250046,2011,regular-season,2011-01-25,2,46,home,FALSE,Georgetown,65,Hoyas,Georgetown Hoyas,Georgetown
+310250046,2011,regular-season,2011-01-25,2,277,away,FALSE,West Virginia,60,Mountaineers,West Virginia Mountaineers,West Virginia
+310252132,2011,regular-season,2011-01-25,2,2132,home,FALSE,Cincinnati,48,Bearcats,Cincinnati Bearcats,Cincinnati
+310252132,2011,regular-season,2011-01-25,2,305,away,FALSE,DePaul,67,Blue Demons,DePaul Blue Demons,DePaul

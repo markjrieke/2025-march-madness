@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401176182,2019-12-09,2,2016,home,FALSE,Alcorn State,108,Braves,Alcorn State Braves,Alcorn St
-401176182,2019-12-09,2,2892,away,FALSE,Rust,62,Bearcats,Rust Bearcats,Rust
-401170170,2019-12-09,2,2184,home,FALSE,Duquesne,90,Dukes,Duquesne Dukes,Duquesne
-401170170,2019-12-09,2,171,away,FALSE,Columbia,54,Lions,Columbia Lions,Columbia
-401177955,2019-12-09,2,233,home,FALSE,South Dakota,73,Coyotes,South Dakota Coyotes,South Dakota
-401177955,2019-12-09,2,2011,away,FALSE,Alabama State,59,Hornets,Alabama State Hornets,Alabama St
-401166109,2019-12-09,2,2294,home,FALSE,Iowa,72,Hawkeyes,Iowa Hawkeyes,Iowa
-401166109,2019-12-09,2,135,away,FALSE,Minnesota,52,Golden Gophers,Minnesota Golden Gophers,Minnesota
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401176182,2020,regular-season,2019-12-09,2,2016,home,FALSE,Alcorn State,108,Braves,Alcorn State Braves,Alcorn St
+401176182,2020,regular-season,2019-12-09,2,2892,away,FALSE,Rust,62,Bearcats,Rust Bearcats,Rust
+401170170,2020,regular-season,2019-12-09,2,2184,home,FALSE,Duquesne,90,Dukes,Duquesne Dukes,Duquesne
+401170170,2020,regular-season,2019-12-09,2,171,away,FALSE,Columbia,54,Lions,Columbia Lions,Columbia
+401177955,2020,regular-season,2019-12-09,2,233,home,FALSE,South Dakota,73,Coyotes,South Dakota Coyotes,South Dakota
+401177955,2020,regular-season,2019-12-09,2,2011,away,FALSE,Alabama State,59,Hornets,Alabama State Hornets,Alabama St
+401166109,2020,regular-season,2019-12-09,2,2294,home,FALSE,Iowa,72,Hawkeyes,Iowa Hawkeyes,Iowa
+401166109,2020,regular-season,2019-12-09,2,135,away,FALSE,Minnesota,52,Golden Gophers,Minnesota Golden Gophers,Minnesota

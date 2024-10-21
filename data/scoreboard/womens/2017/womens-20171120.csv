@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400987869,2017-11-20,4,2633,home,FALSE,Tennessee,68,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400987869,2017-11-20,4,2724,away,FALSE,Wichita State,56,Shockers,Wichita State Shockers,Wichita St
-400995472,2017-11-20,4,58,home,FALSE,South Florida,71,Bulls,South Florida Bulls,South Florida
-400995472,2017-11-20,4,2086,away,FALSE,Butler,55,Bulldogs,Butler Bulldogs,Butler
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400987869,2018,regular-season,2017-11-20,4,2633,home,FALSE,Tennessee,68,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400987869,2018,regular-season,2017-11-20,4,2724,away,FALSE,Wichita State,56,Shockers,Wichita State Shockers,Wichita St
+400995472,2018,regular-season,2017-11-20,4,58,home,FALSE,South Florida,71,Bulls,South Florida Bulls,South Florida
+400995472,2018,regular-season,2017-11-20,4,2086,away,FALSE,Butler,55,Bulldogs,Butler Bulldogs,Butler

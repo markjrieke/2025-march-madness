@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243580036,2004-12-23,2,36,home,FALSE,Colorado State,44,Rams,Colorado State Rams,Colorado St
-243580036,2004-12-23,2,41,away,FALSE,UConn,63,Huskies,UConn Huskies,UConn
-243580135,2004-12-23,2,135,home,FALSE,Minnesota,74,Golden Gophers,Minnesota Golden Gophers,Minnesota
-243580135,2004-12-23,2,2181,away,FALSE,Drake,57,Bulldogs,Drake Bulldogs,Drake
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243580036,2005,regular-season,2004-12-23,2,36,home,FALSE,Colorado State,44,Rams,Colorado State Rams,Colorado St
+243580036,2005,regular-season,2004-12-23,2,41,away,FALSE,UConn,63,Huskies,UConn Huskies,UConn
+243580135,2005,regular-season,2004-12-23,2,135,home,FALSE,Minnesota,74,Golden Gophers,Minnesota Golden Gophers,Minnesota
+243580135,2005,regular-season,2004-12-23,2,2181,away,FALSE,Drake,57,Bulldogs,Drake Bulldogs,Drake

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401169768,2020-03-02,3,239,home,FALSE,Baylor,71,Bears,Baylor Bears,Baylor
-401169768,2020-03-02,3,2641,away,FALSE,Texas Tech,68,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401168371,2020-03-02,2,150,home,FALSE,Duke,88,Blue Devils,Duke Blue Devils,Duke
-401168371,2020-03-02,2,152,away,FALSE,NC State,69,Wolfpack,NC State Wolfpack,NC State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401169768,2020,regular-season,2020-03-02,3,239,home,FALSE,Baylor,71,Bears,Baylor Bears,Baylor
+401169768,2020,regular-season,2020-03-02,3,2641,away,FALSE,Texas Tech,68,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401168371,2020,regular-season,2020-03-02,2,150,home,FALSE,Duke,88,Blue Devils,Duke Blue Devils,Duke
+401168371,2020,regular-season,2020-03-02,2,152,away,FALSE,NC State,69,Wolfpack,NC State Wolfpack,NC State

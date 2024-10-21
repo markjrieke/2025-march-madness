@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400845211,2016-02-12,4,204,home,FALSE,Oregon State,73,Beavers,Oregon State Beavers,Oregon St
-400845211,2016-02-12,4,38,away,FALSE,Colorado,50,Buffaloes,Colorado Buffaloes,Colorado
-400845182,2016-02-12,4,25,home,FALSE,California,49,Golden Bears,California Golden Bears,California
-400845182,2016-02-12,4,9,away,FALSE,Arizona State,64,Sun Devils,Arizona State Sun Devils,Arizona St
-400845167,2016-02-12,4,24,home,FALSE,Stanford,82,Cardinal,Stanford Cardinal,Stanford
-400845167,2016-02-12,4,12,away,FALSE,Arizona,58,Wildcats,Arizona Wildcats,Arizona
-400845616,2016-02-12,4,26,home,FALSE,UCLA,73,Bruins,UCLA Bruins,UCLA
-400845616,2016-02-12,4,265,away,FALSE,Washington State,61,Cougars,Washington State Cougars,Washington St
-400834966,2016-02-12,4,2132,home,FALSE,Cincinnati,51,Bearcats,Cincinnati Bearcats,Cincinnati
-400834966,2016-02-12,4,58,away,FALSE,South Florida,78,Bulls,South Florida Bulls,South Florida
-400842364,2016-02-12,4,305,home,FALSE,DePaul,82,Blue Demons,DePaul Blue Demons,DePaul
-400842364,2016-02-12,4,2752,away,FALSE,Xavier,52,Musketeers,Xavier Musketeers,Xavier
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400845211,2016,regular-season,2016-02-12,4,204,home,FALSE,Oregon State,73,Beavers,Oregon State Beavers,Oregon St
+400845211,2016,regular-season,2016-02-12,4,38,away,FALSE,Colorado,50,Buffaloes,Colorado Buffaloes,Colorado
+400845182,2016,regular-season,2016-02-12,4,25,home,FALSE,California,49,Golden Bears,California Golden Bears,California
+400845182,2016,regular-season,2016-02-12,4,9,away,FALSE,Arizona State,64,Sun Devils,Arizona State Sun Devils,Arizona St
+400845167,2016,regular-season,2016-02-12,4,24,home,FALSE,Stanford,82,Cardinal,Stanford Cardinal,Stanford
+400845167,2016,regular-season,2016-02-12,4,12,away,FALSE,Arizona,58,Wildcats,Arizona Wildcats,Arizona
+400845616,2016,regular-season,2016-02-12,4,26,home,FALSE,UCLA,73,Bruins,UCLA Bruins,UCLA
+400845616,2016,regular-season,2016-02-12,4,265,away,FALSE,Washington State,61,Cougars,Washington State Cougars,Washington St
+400834966,2016,regular-season,2016-02-12,4,2132,home,FALSE,Cincinnati,51,Bearcats,Cincinnati Bearcats,Cincinnati
+400834966,2016,regular-season,2016-02-12,4,58,away,FALSE,South Florida,78,Bulls,South Florida Bulls,South Florida
+400842364,2016,regular-season,2016-02-12,4,305,home,FALSE,DePaul,82,Blue Demons,DePaul Blue Demons,DePaul
+400842364,2016,regular-season,2016-02-12,4,2752,away,FALSE,Xavier,52,Musketeers,Xavier Musketeers,Xavier

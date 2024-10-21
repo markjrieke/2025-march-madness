@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253430057,2005-12-09,2,57,home,FALSE,Florida,88,Gators,Florida Gators,Florida
-253430057,2005-12-09,2,2065,away,FALSE,Bethune-Cookman,58,Wildcats,Bethune-Cookman Wildcats,Bethune
-253430066,2005-12-09,2,66,home,FALSE,Iowa State,72,Cyclones,Iowa State Cyclones,Iowa State
-253430066,2005-12-09,2,2294,away,FALSE,Iowa,60,Hawkeyes,Iowa Hawkeyes,Iowa
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253430057,2006,regular-season,2005-12-09,2,57,home,FALSE,Florida,88,Gators,Florida Gators,Florida
+253430057,2006,regular-season,2005-12-09,2,2065,away,FALSE,Bethune-Cookman,58,Wildcats,Bethune-Cookman Wildcats,Bethune
+253430066,2006,regular-season,2005-12-09,2,66,home,FALSE,Iowa State,72,Cyclones,Iowa State Cyclones,Iowa State
+253430066,2006,regular-season,2005-12-09,2,2294,away,FALSE,Iowa,60,Hawkeyes,Iowa Hawkeyes,Iowa

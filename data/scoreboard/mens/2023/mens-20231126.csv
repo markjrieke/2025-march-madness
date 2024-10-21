@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401581570,2023-11-26,2,66,home,TRUE,Iowa State,69,Cyclones,Iowa State Cyclones,Iowa State
-401581570,2023-11-26,2,245,away,TRUE,Texas A&M,73,Aggies,Texas A&M Aggies,Texas A&M
-401583727,2023-11-26,2,251,home,FALSE,Texas,86,Longhorns,Texas Longhorns,Texas
-401583727,2023-11-26,2,2751,away,FALSE,Wyoming,63,Cowboys,Wyoming Cowboys,Wyoming
-401581759,2023-11-26,2,38,home,FALSE,Colorado,85,Buffaloes,Colorado Buffaloes,Colorado
-401581759,2023-11-26,2,314,away,FALSE,Iona,68,Gaels,Iona Gaels,Iona
-401581569,2023-11-26,2,259,home,TRUE,Virginia Tech,50,Hokies,Virginia Tech Hokies,Virginia Tech
-401581569,2023-11-26,2,2226,away,TRUE,Florida Atlantic,84,Owls,Florida Atlantic Owls,FAU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401581570,2024,regular-season,2023-11-26,2,66,home,TRUE,Iowa State,69,Cyclones,Iowa State Cyclones,Iowa State
+401581570,2024,regular-season,2023-11-26,2,245,away,TRUE,Texas A&M,73,Aggies,Texas A&M Aggies,Texas A&M
+401583727,2024,regular-season,2023-11-26,2,251,home,FALSE,Texas,86,Longhorns,Texas Longhorns,Texas
+401583727,2024,regular-season,2023-11-26,2,2751,away,FALSE,Wyoming,63,Cowboys,Wyoming Cowboys,Wyoming
+401581759,2024,regular-season,2023-11-26,2,38,home,FALSE,Colorado,85,Buffaloes,Colorado Buffaloes,Colorado
+401581759,2024,regular-season,2023-11-26,2,314,away,FALSE,Iona,68,Gaels,Iona Gaels,Iona
+401581569,2024,regular-season,2023-11-26,2,259,home,TRUE,Virginia Tech,50,Hokies,Virginia Tech Hokies,Virginia Tech
+401581569,2024,regular-season,2023-11-26,2,2226,away,TRUE,Florida Atlantic,84,Owls,Florida Atlantic Owls,FAU

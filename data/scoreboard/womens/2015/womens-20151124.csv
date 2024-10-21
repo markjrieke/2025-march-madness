@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400842343,2015-11-24,4,344,home,FALSE,Mississippi State,109,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400842343,2015-11-24,4,2400,away,FALSE,Mississippi Valley State,37,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
-400832367,2015-11-24,4,52,home,FALSE,Florida State,80,Seminoles,Florida State Seminoles,Florida St
-400832367,2015-11-24,4,2454,away,FALSE,North Florida,28,Ospreys,North Florida Ospreys,North Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400842343,2016,regular-season,2015-11-24,4,344,home,FALSE,Mississippi State,109,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400842343,2016,regular-season,2015-11-24,4,2400,away,FALSE,Mississippi Valley State,37,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
+400832367,2016,regular-season,2015-11-24,4,52,home,FALSE,Florida State,80,Seminoles,Florida State Seminoles,Florida St
+400832367,2016,regular-season,2015-11-24,4,2454,away,FALSE,North Florida,28,Ospreys,North Florida Ospreys,North Florida

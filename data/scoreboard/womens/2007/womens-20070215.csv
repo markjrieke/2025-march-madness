@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270460150,2007-02-15,2,150,home,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
-270460150,2007-02-15,2,103,away,FALSE,Boston College,52,Eagles,Boston College Eagles,Boston College
-270462633,2007-02-15,2,2633,home,FALSE,Tennessee,81,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-270462633,2007-02-15,2,145,away,FALSE,Ole Miss,69,Rebels,Ole Miss Rebels,Ole Miss
-270460194,2007-02-15,2,194,home,FALSE,Ohio State,83,Buckeyes,Ohio State Buckeyes,Ohio State
-270460194,2007-02-15,2,275,away,FALSE,Wisconsin,57,Badgers,Wisconsin Badgers,Wisconsin
-270460052,2007-02-15,2,52,home,FALSE,Florida State,60,Seminoles,Florida State Seminoles,Florida St
-270460052,2007-02-15,2,120,away,FALSE,Maryland,74,Terrapins,Maryland Terrapins,Maryland
-270460008,2007-02-15,2,8,home,FALSE,Arkansas,65,Razorbacks,Arkansas Razorbacks,Arkansas
-270460008,2007-02-15,2,99,away,FALSE,LSU,86,Tigers,LSU Tigers,LSU
-270462429,2007-02-15,2,2429,home,FALSE,Charlotte,59,49ers,Charlotte 49ers,Charlotte
-270462429,2007-02-15,2,45,away,FALSE,George Washington,64,Revolutionaries,George Washington Revolutionaries,G Washington
-270460204,2007-02-15,2,204,home,FALSE,Oregon State,55,Beavers,Oregon State Beavers,Oregon St
-270460204,2007-02-15,2,24,away,FALSE,Stanford,70,Cardinal,Stanford Cardinal,Stanford
-270460030,2007-02-15,2,30,home,FALSE,USC,57,Trojans,USC Trojans,USC
-270460030,2007-02-15,2,9,away,FALSE,Arizona State,68,Sun Devils,Arizona State Sun Devils,Arizona St
-270460096,2007-02-15,3,96,home,FALSE,Kentucky,72,Wildcats,Kentucky Wildcats,Kentucky
-270460096,2007-02-15,3,61,away,FALSE,Georgia,82,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-270460344,2007-02-15,2,344,home,FALSE,Mississippi State,64,Bulldogs,Mississippi State Bulldogs,Mississippi St
-270460344,2007-02-15,2,238,away,FALSE,Vanderbilt,84,Commodores,Vanderbilt Commodores,Vanderbilt
-270460130,2007-02-15,2,130,home,FALSE,Michigan,54,Wolverines,Michigan Wolverines,Michigan
-270460130,2007-02-15,2,2509,away,FALSE,Purdue,59,Boilermakers,Purdue Boilermakers,Purdue
-270462393,2007-02-15,2,2393,home,FALSE,Middle Tennessee,66,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-270462393,2007-02-15,2,2229,away,FALSE,Florida International,59,Panthers,Florida International Panthers,FIU
-270462483,2007-02-15,2,2483,home,FALSE,Oregon,62,Ducks,Oregon Ducks,Oregon
-270462483,2007-02-15,2,25,away,FALSE,California,42,Golden Bears,California Golden Bears,California
-270460127,2007-02-15,2,127,home,FALSE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St
-270460127,2007-02-15,2,77,away,FALSE,Northwestern,63,Wildcats,Northwestern Wildcats,Northwestern
-270460256,2007-02-15,2,256,home,FALSE,James Madison,88,Dukes,James Madison Dukes,James Madison
-270460256,2007-02-15,2,2244,away,FALSE,George Mason,60,Patriots,George Mason Patriots,George Mason
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270460150,2007,regular-season,2007-02-15,2,150,home,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
+270460150,2007,regular-season,2007-02-15,2,103,away,FALSE,Boston College,52,Eagles,Boston College Eagles,Boston College
+270462633,2007,regular-season,2007-02-15,2,2633,home,FALSE,Tennessee,81,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+270462633,2007,regular-season,2007-02-15,2,145,away,FALSE,Ole Miss,69,Rebels,Ole Miss Rebels,Ole Miss
+270460194,2007,regular-season,2007-02-15,2,194,home,FALSE,Ohio State,83,Buckeyes,Ohio State Buckeyes,Ohio State
+270460194,2007,regular-season,2007-02-15,2,275,away,FALSE,Wisconsin,57,Badgers,Wisconsin Badgers,Wisconsin
+270460052,2007,regular-season,2007-02-15,2,52,home,FALSE,Florida State,60,Seminoles,Florida State Seminoles,Florida St
+270460052,2007,regular-season,2007-02-15,2,120,away,FALSE,Maryland,74,Terrapins,Maryland Terrapins,Maryland
+270460008,2007,regular-season,2007-02-15,2,8,home,FALSE,Arkansas,65,Razorbacks,Arkansas Razorbacks,Arkansas
+270460008,2007,regular-season,2007-02-15,2,99,away,FALSE,LSU,86,Tigers,LSU Tigers,LSU
+270462429,2007,regular-season,2007-02-15,2,2429,home,FALSE,Charlotte,59,49ers,Charlotte 49ers,Charlotte
+270462429,2007,regular-season,2007-02-15,2,45,away,FALSE,George Washington,64,Revolutionaries,George Washington Revolutionaries,G Washington
+270460204,2007,regular-season,2007-02-15,2,204,home,FALSE,Oregon State,55,Beavers,Oregon State Beavers,Oregon St
+270460204,2007,regular-season,2007-02-15,2,24,away,FALSE,Stanford,70,Cardinal,Stanford Cardinal,Stanford
+270460030,2007,regular-season,2007-02-15,2,30,home,FALSE,USC,57,Trojans,USC Trojans,USC
+270460030,2007,regular-season,2007-02-15,2,9,away,FALSE,Arizona State,68,Sun Devils,Arizona State Sun Devils,Arizona St
+270460096,2007,regular-season,2007-02-15,3,96,home,FALSE,Kentucky,72,Wildcats,Kentucky Wildcats,Kentucky
+270460096,2007,regular-season,2007-02-15,3,61,away,FALSE,Georgia,82,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+270460344,2007,regular-season,2007-02-15,2,344,home,FALSE,Mississippi State,64,Bulldogs,Mississippi State Bulldogs,Mississippi St
+270460344,2007,regular-season,2007-02-15,2,238,away,FALSE,Vanderbilt,84,Commodores,Vanderbilt Commodores,Vanderbilt
+270460130,2007,regular-season,2007-02-15,2,130,home,FALSE,Michigan,54,Wolverines,Michigan Wolverines,Michigan
+270460130,2007,regular-season,2007-02-15,2,2509,away,FALSE,Purdue,59,Boilermakers,Purdue Boilermakers,Purdue
+270462393,2007,regular-season,2007-02-15,2,2393,home,FALSE,Middle Tennessee,66,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+270462393,2007,regular-season,2007-02-15,2,2229,away,FALSE,Florida International,59,Panthers,Florida International Panthers,FIU
+270462483,2007,regular-season,2007-02-15,2,2483,home,FALSE,Oregon,62,Ducks,Oregon Ducks,Oregon
+270462483,2007,regular-season,2007-02-15,2,25,away,FALSE,California,42,Golden Bears,California Golden Bears,California
+270460127,2007,regular-season,2007-02-15,2,127,home,FALSE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St
+270460127,2007,regular-season,2007-02-15,2,77,away,FALSE,Northwestern,63,Wildcats,Northwestern Wildcats,Northwestern
+270460256,2007,regular-season,2007-02-15,2,256,home,FALSE,James Madison,88,Dukes,James Madison Dukes,James Madison
+270460256,2007,regular-season,2007-02-15,2,2244,away,FALSE,George Mason,60,Patriots,George Mason Patriots,George Mason

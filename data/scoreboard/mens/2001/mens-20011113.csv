@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213170142,2001-11-13,2,142,home,FALSE,Missouri,89,Tigers,Missouri Tigers,Missouri
-213170142,2001-11-13,2,2630,away,FALSE,UT Martin,63,Skyhawks,UT Martin Skyhawks,UT Martin
-213172294,2001-11-13,2,2294,home,FALSE,Iowa,89,Hawkeyes,Iowa Hawkeyes,Iowa
-213172294,2001-11-13,2,2379,away,FALSE,Maryland Eastern Shore,59,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-213170235,2001-11-13,2,235,home,FALSE,Memphis,88,Tigers,Memphis Tigers,Memphis
-213170235,2001-11-13,2,2747,away,FALSE,Wofford,61,Terriers,Wofford Terriers,Wofford
-213170030,2001-11-13,2,30,home,FALSE,USC,68,Trojans,USC Trojans,USC
-213170030,2001-11-13,2,2751,away,FALSE,Wyoming,55,Cowboys,Wyoming Cowboys,Wyoming
-213170333,2001-11-13,2,333,home,FALSE,Alabama,107,Crimson Tide,Alabama Crimson Tide,Alabama
-213170333,2001-11-13,2,2400,away,FALSE,Mississippi Valley State,67,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213170142,2002,regular-season,2001-11-13,2,142,home,FALSE,Missouri,89,Tigers,Missouri Tigers,Missouri
+213170142,2002,regular-season,2001-11-13,2,2630,away,FALSE,UT Martin,63,Skyhawks,UT Martin Skyhawks,UT Martin
+213172294,2002,regular-season,2001-11-13,2,2294,home,FALSE,Iowa,89,Hawkeyes,Iowa Hawkeyes,Iowa
+213172294,2002,regular-season,2001-11-13,2,2379,away,FALSE,Maryland Eastern Shore,59,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+213170235,2002,regular-season,2001-11-13,2,235,home,FALSE,Memphis,88,Tigers,Memphis Tigers,Memphis
+213170235,2002,regular-season,2001-11-13,2,2747,away,FALSE,Wofford,61,Terriers,Wofford Terriers,Wofford
+213170030,2002,regular-season,2001-11-13,2,30,home,FALSE,USC,68,Trojans,USC Trojans,USC
+213170030,2002,regular-season,2001-11-13,2,2751,away,FALSE,Wyoming,55,Cowboys,Wyoming Cowboys,Wyoming
+213170333,2002,regular-season,2001-11-13,2,333,home,FALSE,Alabama,107,Crimson Tide,Alabama Crimson Tide,Alabama
+213170333,2002,regular-season,2001-11-13,2,2400,away,FALSE,Mississippi Valley State,67,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250430087,2005-02-12,2,87,home,FALSE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-250430087,2005-02-12,2,46,away,FALSE,Georgetown,58,Hoyas,Georgetown Hoyas,Georgetown
-250430239,2005-02-12,2,239,home,FALSE,Baylor,87,Bears,Baylor Bears,Baylor
-250430239,2005-02-12,2,197,away,FALSE,Oklahoma State,51,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-250430158,2005-02-12,2,158,home,FALSE,Nebraska,88,Cornhuskers,Nebraska Cornhuskers,Nebraska
-250430158,2005-02-12,2,66,away,FALSE,Iowa State,59,Cyclones,Iowa State Cyclones,Iowa State
-250430183,2005-02-12,2,183,home,FALSE,Syracuse,50,Orange,Syracuse Orange,Syracuse
-250430183,2005-02-12,2,103,away,FALSE,Boston College,75,Eagles,Boston College Eagles,Boston College
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250430087,2005,regular-season,2005-02-12,2,87,home,FALSE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+250430087,2005,regular-season,2005-02-12,2,46,away,FALSE,Georgetown,58,Hoyas,Georgetown Hoyas,Georgetown
+250430239,2005,regular-season,2005-02-12,2,239,home,FALSE,Baylor,87,Bears,Baylor Bears,Baylor
+250430239,2005,regular-season,2005-02-12,2,197,away,FALSE,Oklahoma State,51,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+250430158,2005,regular-season,2005-02-12,2,158,home,FALSE,Nebraska,88,Cornhuskers,Nebraska Cornhuskers,Nebraska
+250430158,2005,regular-season,2005-02-12,2,66,away,FALSE,Iowa State,59,Cyclones,Iowa State Cyclones,Iowa State
+250430183,2005,regular-season,2005-02-12,2,183,home,FALSE,Syracuse,50,Orange,Syracuse Orange,Syracuse
+250430183,2005,regular-season,2005-02-12,2,103,away,FALSE,Boston College,75,Eagles,Boston College Eagles,Boston College

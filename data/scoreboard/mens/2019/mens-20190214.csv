@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401083645,2019-02-14,2,2351,home,FALSE,Loyola Marymount,60,Lions,Loyola Marymount Lions,LMU
-401083645,2019-02-14,2,2250,away,FALSE,Gonzaga,73,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401084632,2019-02-14,2,41,home,FALSE,UConn,63,Huskies,UConn Huskies,UConn
-401084632,2019-02-14,2,248,away,FALSE,Houston,71,Cougars,Houston Cougars,Houston
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401083645,2019,regular-season,2019-02-14,2,2351,home,FALSE,Loyola Marymount,60,Lions,Loyola Marymount Lions,LMU
+401083645,2019,regular-season,2019-02-14,2,2250,away,FALSE,Gonzaga,73,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401084632,2019,regular-season,2019-02-14,2,41,home,FALSE,UConn,63,Huskies,UConn Huskies,UConn
+401084632,2019,regular-season,2019-02-14,2,248,away,FALSE,Houston,71,Cougars,Houston Cougars,Houston

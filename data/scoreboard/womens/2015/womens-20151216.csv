@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400838948,2015-12-16,4,2579,home,FALSE,South Carolina,86,Gamecocks,South Carolina Gamecocks,South Carolina
-400838948,2015-12-16,4,2261,away,FALSE,Hampton,48,Lady Pirates,Hampton Lady Pirates,Hampton
-400820976,2015-12-16,4,251,home,FALSE,Texas,92,Longhorns,Texas Longhorns,Texas
-400820976,2015-12-16,4,2099,away,FALSE,Canisius,62,Golden Griffins,Canisius Golden Griffins,Canisius
-400842347,2015-12-16,4,344,home,FALSE,Mississippi State,78,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400842347,2015-12-16,4,2572,away,FALSE,Southern Miss,65,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-400842260,2015-12-16,4,24,home,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
-400842260,2015-12-16,4,2633,away,FALSE,Tennessee,55,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400821072,2015-12-16,4,26,home,FALSE,UCLA,83,Bruins,UCLA Bruins,UCLA
-400821072,2015-12-16,4,300,away,FALSE,UC Irvine,48,Anteaters,UC Irvine Anteaters,UC Irvine
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400838948,2016,regular-season,2015-12-16,4,2579,home,FALSE,South Carolina,86,Gamecocks,South Carolina Gamecocks,South Carolina
+400838948,2016,regular-season,2015-12-16,4,2261,away,FALSE,Hampton,48,Lady Pirates,Hampton Lady Pirates,Hampton
+400820976,2016,regular-season,2015-12-16,4,251,home,FALSE,Texas,92,Longhorns,Texas Longhorns,Texas
+400820976,2016,regular-season,2015-12-16,4,2099,away,FALSE,Canisius,62,Golden Griffins,Canisius Golden Griffins,Canisius
+400842347,2016,regular-season,2015-12-16,4,344,home,FALSE,Mississippi State,78,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400842347,2016,regular-season,2015-12-16,4,2572,away,FALSE,Southern Miss,65,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+400842260,2016,regular-season,2015-12-16,4,24,home,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
+400842260,2016,regular-season,2015-12-16,4,2633,away,FALSE,Tennessee,55,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400821072,2016,regular-season,2015-12-16,4,26,home,FALSE,UCLA,83,Bruins,UCLA Bruins,UCLA
+400821072,2016,regular-season,2015-12-16,4,300,away,FALSE,UC Irvine,48,Anteaters,UC Irvine Anteaters,UC Irvine

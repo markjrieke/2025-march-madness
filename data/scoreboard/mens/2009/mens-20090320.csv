@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-294000047,2009-03-20,2,97,home,TRUE,Louisville,74,Cardinals,Louisville Cardinals,Louisville
-294000047,2009-03-20,2,2413,away,TRUE,Morehead State,54,Eagles,Morehead State Eagles,Morehead St
-294000016,2009-03-20,2,221,home,TRUE,Pittsburgh,72,Panthers,Pittsburgh Panthers,Pitt
-294000016,2009-03-20,2,2193,away,TRUE,East Tennessee State,62,Buccaneers,East Tennessee State Buccaneers,ETSU
-294000058,2009-03-20,2,127,home,TRUE,Michigan State,77,Spartans,Michigan State Spartans,Michigan St
-294000058,2009-03-20,2,2523,away,TRUE,Robert Morris,62,Colonials,Robert Morris Colonials,Robert Morris
-294000009,2009-03-20,2,142,home,TRUE,Missouri,78,Tigers,Missouri Tigers,Missouri
-294000009,2009-03-20,2,172,away,TRUE,Cornell,59,Big Red,Cornell Big Red,Cornell
-294000051,2009-03-20,2,154,home,TRUE,Wake Forest,69,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-294000051,2009-03-20,2,325,away,TRUE,Cleveland State,84,Vikings,Cleveland State Vikings,Cleveland St
-294000040,2009-03-20,2,183,home,TRUE,Syracuse,59,Orange,Syracuse Orange,Syracuse
-294000040,2009-03-20,2,2617,away,TRUE,Stephen F. Austin,44,Lumberjacks,Stephen F. Austin Lumberjacks,SF Austin
-294000055,2009-03-20,2,2305,home,TRUE,Kansas,84,Jayhawks,Kansas Jayhawks,Kansas
-294000055,2009-03-20,2,2449,away,TRUE,North Dakota State,74,Bison,North Dakota State Bison,N Dakota St
-294000019,2009-03-20,3,52,home,TRUE,Florida State,59,Seminoles,Florida State Seminoles,Florida St
-294000019,2009-03-20,3,275,away,TRUE,Wisconsin,61,Badgers,Wisconsin Badgers,Wisconsin
-294000039,2009-03-20,2,9,home,TRUE,Arizona State,66,Sun Devils,Arizona State Sun Devils,Arizona St
-294000039,2009-03-20,2,218,away,TRUE,Temple,57,Owls,Temple Owls,Temple
-294000020,2009-03-20,2,2752,home,TRUE,Xavier,77,Musketeers,Xavier Musketeers,Xavier
-294000020,2009-03-20,2,2502,away,TRUE,Portland State,59,Vikings,Portland State Vikings,Portland St
-294000008,2009-03-20,2,269,home,TRUE,Marquette,58,Golden Eagles,Marquette Golden Eagles,Marquette
-294000008,2009-03-20,2,328,away,TRUE,Utah State,57,Aggies,Utah State Aggies,Utah State
-294000050,2009-03-20,2,254,home,TRUE,Utah,71,Utes,Utah Utes,Utah
-294000050,2009-03-20,2,12,away,TRUE,Arizona,84,Wildcats,Arizona Wildcats,Arizona
-294000017,2009-03-20,2,197,home,TRUE,Oklahoma State,77,Cowboys,Oklahoma State Cowboys,Oklahoma St
-294000017,2009-03-20,2,2633,away,TRUE,Tennessee,75,Volunteers,Tennessee Volunteers,Tennessee
-294000054,2009-03-20,2,277,home,TRUE,West Virginia,60,Mountaineers,West Virginia Mountaineers,West Virginia
-294000054,2009-03-20,2,2168,away,TRUE,Dayton,68,Flyers,Dayton Flyers,Dayton
-294000057,2009-03-20,2,103,home,TRUE,Boston College,55,Eagles,Boston College Eagles,Boston College
-294000057,2009-03-20,2,30,away,TRUE,USC,72,Trojans,USC Trojans,USC
-294000048,2009-03-20,4,194,home,TRUE,Ohio State,72,Buckeyes,Ohio State Buckeyes,Ohio State
-294000048,2009-03-20,4,2561,away,TRUE,Siena,74,Saints,Siena Saints,Siena
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+294000047,2009,post-season,2009-03-20,2,97,home,TRUE,Louisville,74,Cardinals,Louisville Cardinals,Louisville
+294000047,2009,post-season,2009-03-20,2,2413,away,TRUE,Morehead State,54,Eagles,Morehead State Eagles,Morehead St
+294000016,2009,post-season,2009-03-20,2,221,home,TRUE,Pittsburgh,72,Panthers,Pittsburgh Panthers,Pitt
+294000016,2009,post-season,2009-03-20,2,2193,away,TRUE,East Tennessee State,62,Buccaneers,East Tennessee State Buccaneers,ETSU
+294000058,2009,post-season,2009-03-20,2,127,home,TRUE,Michigan State,77,Spartans,Michigan State Spartans,Michigan St
+294000058,2009,post-season,2009-03-20,2,2523,away,TRUE,Robert Morris,62,Colonials,Robert Morris Colonials,Robert Morris
+294000009,2009,post-season,2009-03-20,2,142,home,TRUE,Missouri,78,Tigers,Missouri Tigers,Missouri
+294000009,2009,post-season,2009-03-20,2,172,away,TRUE,Cornell,59,Big Red,Cornell Big Red,Cornell
+294000051,2009,post-season,2009-03-20,2,154,home,TRUE,Wake Forest,69,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+294000051,2009,post-season,2009-03-20,2,325,away,TRUE,Cleveland State,84,Vikings,Cleveland State Vikings,Cleveland St
+294000040,2009,post-season,2009-03-20,2,183,home,TRUE,Syracuse,59,Orange,Syracuse Orange,Syracuse
+294000040,2009,post-season,2009-03-20,2,2617,away,TRUE,Stephen F. Austin,44,Lumberjacks,Stephen F. Austin Lumberjacks,SF Austin
+294000055,2009,post-season,2009-03-20,2,2305,home,TRUE,Kansas,84,Jayhawks,Kansas Jayhawks,Kansas
+294000055,2009,post-season,2009-03-20,2,2449,away,TRUE,North Dakota State,74,Bison,North Dakota State Bison,N Dakota St
+294000019,2009,post-season,2009-03-20,3,52,home,TRUE,Florida State,59,Seminoles,Florida State Seminoles,Florida St
+294000019,2009,post-season,2009-03-20,3,275,away,TRUE,Wisconsin,61,Badgers,Wisconsin Badgers,Wisconsin
+294000039,2009,post-season,2009-03-20,2,9,home,TRUE,Arizona State,66,Sun Devils,Arizona State Sun Devils,Arizona St
+294000039,2009,post-season,2009-03-20,2,218,away,TRUE,Temple,57,Owls,Temple Owls,Temple
+294000020,2009,post-season,2009-03-20,2,2752,home,TRUE,Xavier,77,Musketeers,Xavier Musketeers,Xavier
+294000020,2009,post-season,2009-03-20,2,2502,away,TRUE,Portland State,59,Vikings,Portland State Vikings,Portland St
+294000008,2009,post-season,2009-03-20,2,269,home,TRUE,Marquette,58,Golden Eagles,Marquette Golden Eagles,Marquette
+294000008,2009,post-season,2009-03-20,2,328,away,TRUE,Utah State,57,Aggies,Utah State Aggies,Utah State
+294000050,2009,post-season,2009-03-20,2,254,home,TRUE,Utah,71,Utes,Utah Utes,Utah
+294000050,2009,post-season,2009-03-20,2,12,away,TRUE,Arizona,84,Wildcats,Arizona Wildcats,Arizona
+294000017,2009,post-season,2009-03-20,2,197,home,TRUE,Oklahoma State,77,Cowboys,Oklahoma State Cowboys,Oklahoma St
+294000017,2009,post-season,2009-03-20,2,2633,away,TRUE,Tennessee,75,Volunteers,Tennessee Volunteers,Tennessee
+294000054,2009,post-season,2009-03-20,2,277,home,TRUE,West Virginia,60,Mountaineers,West Virginia Mountaineers,West Virginia
+294000054,2009,post-season,2009-03-20,2,2168,away,TRUE,Dayton,68,Flyers,Dayton Flyers,Dayton
+294000057,2009,post-season,2009-03-20,2,103,home,TRUE,Boston College,55,Eagles,Boston College Eagles,Boston College
+294000057,2009,post-season,2009-03-20,2,30,away,TRUE,USC,72,Trojans,USC Trojans,USC
+294000048,2009,post-season,2009-03-20,4,194,home,TRUE,Ohio State,72,Buckeyes,Ohio State Buckeyes,Ohio State
+294000048,2009,post-season,2009-03-20,4,2561,away,TRUE,Siena,74,Saints,Siena Saints,Siena

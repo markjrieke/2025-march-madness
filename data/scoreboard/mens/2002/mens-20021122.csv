@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-223262305,2002-11-22,2,2305,home,FALSE,Kansas,105,Jayhawks,Kansas Jayhawks,Kansas
-223262305,2002-11-22,2,2430,away,FALSE,UNC Greensboro,66,Spartans,UNC Greensboro Spartans,UNC Greensboro
-223260333,2002-11-22,2,333,home,FALSE,Alabama,82,Crimson Tide,Alabama Crimson Tide,Alabama
-223260333,2002-11-22,2,2011,away,FALSE,Alabama State,56,Hornets,Alabama State Hornets,Alabama St
-223260201,2002-11-22,2,201,home,FALSE,Oklahoma,87,Sooners,Oklahoma Sooners,Oklahoma
-223260201,2002-11-22,2,300,away,FALSE,UC Irvine,65,Anteaters,UC Irvine Anteaters,UC Irvine
-223260127,2002-11-22,2,127,home,FALSE,Michigan State,66,Spartans,Michigan State Spartans,Michigan St
-223260127,2002-11-22,2,2427,away,FALSE,UNC Asheville,52,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-223260269,2002-11-22,2,269,home,FALSE,Marquette,64,Golden Eagles,Marquette Golden Eagles,Marquette
-223260269,2002-11-22,2,2154,away,FALSE,Coppin State,46,Eagles,Coppin State Eagles,Coppin St
-223260142,2002-11-22,2,142,home,FALSE,Missouri,72,Tigers,Missouri Tigers,Missouri
-223260142,2002-11-22,2,44,away,FALSE,American University,57,Eagles,American University Eagles,American
-223262250,2002-11-22,2,2250,home,FALSE,Gonzaga,69,Bulldogs,Gonzaga Bulldogs,Gonzaga
-223262250,2002-11-22,2,2275,away,FALSE,Hofstra,61,Pride,Hofstra Pride,Hofstra
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+223262305,2003,regular-season,2002-11-22,2,2305,home,FALSE,Kansas,105,Jayhawks,Kansas Jayhawks,Kansas
+223262305,2003,regular-season,2002-11-22,2,2430,away,FALSE,UNC Greensboro,66,Spartans,UNC Greensboro Spartans,UNC Greensboro
+223260333,2003,regular-season,2002-11-22,2,333,home,FALSE,Alabama,82,Crimson Tide,Alabama Crimson Tide,Alabama
+223260333,2003,regular-season,2002-11-22,2,2011,away,FALSE,Alabama State,56,Hornets,Alabama State Hornets,Alabama St
+223260201,2003,regular-season,2002-11-22,2,201,home,FALSE,Oklahoma,87,Sooners,Oklahoma Sooners,Oklahoma
+223260201,2003,regular-season,2002-11-22,2,300,away,FALSE,UC Irvine,65,Anteaters,UC Irvine Anteaters,UC Irvine
+223260127,2003,regular-season,2002-11-22,2,127,home,FALSE,Michigan State,66,Spartans,Michigan State Spartans,Michigan St
+223260127,2003,regular-season,2002-11-22,2,2427,away,FALSE,UNC Asheville,52,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+223260269,2003,regular-season,2002-11-22,2,269,home,FALSE,Marquette,64,Golden Eagles,Marquette Golden Eagles,Marquette
+223260269,2003,regular-season,2002-11-22,2,2154,away,FALSE,Coppin State,46,Eagles,Coppin State Eagles,Coppin St
+223260142,2003,regular-season,2002-11-22,2,142,home,FALSE,Missouri,72,Tigers,Missouri Tigers,Missouri
+223260142,2003,regular-season,2002-11-22,2,44,away,FALSE,American University,57,Eagles,American University Eagles,American
+223262250,2003,regular-season,2002-11-22,2,2250,home,FALSE,Gonzaga,69,Bulldogs,Gonzaga Bulldogs,Gonzaga
+223262250,2003,regular-season,2002-11-22,2,2275,away,FALSE,Hofstra,61,Pride,Hofstra Pride,Hofstra

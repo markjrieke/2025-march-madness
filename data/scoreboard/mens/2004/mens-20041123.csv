@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243282305,2004-11-23,2,2305,home,FALSE,Kansas,91,Jayhawks,Kansas Jayhawks,Kansas
-243282305,2004-11-23,2,2603,away,FALSE,Saint Joseph's,51,Hawks,Saint Joseph's Hawks,Saint Joseph's
-243280197,2004-11-23,2,197,home,FALSE,Oklahoma State,90,Cowboys,Oklahoma State Cowboys,Oklahoma St
-243280197,2004-11-23,2,2031,away,FALSE,Little Rock,65,Trojans,Little Rock Trojans,Little Rock
-243280096,2004-11-23,2,96,home,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
-243280096,2004-11-23,2,2050,away,FALSE,Ball State,53,Cardinals,Ball State Cardinals,Ball State
-243280127,2004-11-23,2,127,home,FALSE,Michigan State,104,Spartans,Michigan State Spartans,Michigan St
-243280127,2004-11-23,2,2739,away,FALSE,Green Bay,46,Phoenix,Green Bay Phoenix,Green Bay
-243282633,2004-11-23,2,2633,home,FALSE,Tennessee,81,Volunteers,Tennessee Volunteers,Tennessee
-243282633,2004-11-23,2,153,away,FALSE,North Carolina,94,Tar Heels,North Carolina Tar Heels,North Carolina
-243282124,2004-11-23,2,2124,home,FALSE,Chaminade,63,Silverswords,Chaminade Silverswords,Chaminade
-243282124,2004-11-23,2,97,away,FALSE,Louisville,93,Cardinals,Louisville Cardinals,Louisville
-243280120,2004-11-23,2,120,home,FALSE,Maryland,93,Terrapins,Maryland Terrapins,Maryland
-243280120,2004-11-23,2,2382,away,FALSE,Mercer,67,Bears,Mercer Bears,Mercer
-243280344,2004-11-23,2,344,home,FALSE,Mississippi State,82,Bulldogs,Mississippi State Bulldogs,Mississippi St
-243280344,2004-11-23,2,140,away,FALSE,Kansas City,64,Roos,Kansas City Roos,Kansas City
-243282294,2004-11-23,2,2294,home,FALSE,Iowa,82,Hawkeyes,Iowa Hawkeyes,Iowa
-243282294,2004-11-23,2,251,away,FALSE,Texas,80,Longhorns,Texas Longhorns,Texas
-243280275,2004-11-23,2,275,home,FALSE,Wisconsin,72,Badgers,Wisconsin Badgers,Wisconsin
-243280275,2004-11-23,2,2540,away,FALSE,UC Santa Barbara,61,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-243280087,2004-11-23,2,87,home,FALSE,Notre Dame,73,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-243280087,2004-11-23,2,2870,away,FALSE,Purdue Fort Wayne,45,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-243280057,2004-11-23,2,57,home,FALSE,Florida,90,Gators,Florida Gators,Florida
-243280057,2004-11-23,2,2226,away,FALSE,Florida Atlantic,45,Owls,Florida Atlantic Owls,FAU
-243280235,2004-11-23,2,235,home,FALSE,Memphis,79,Tigers,Memphis Tigers,Memphis
-243280235,2004-11-23,2,2032,away,FALSE,Arkansas State,75,Red Wolves,Arkansas State Red Wolves,Arkansas St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243282305,2005,regular-season,2004-11-23,2,2305,home,FALSE,Kansas,91,Jayhawks,Kansas Jayhawks,Kansas
+243282305,2005,regular-season,2004-11-23,2,2603,away,FALSE,Saint Joseph's,51,Hawks,Saint Joseph's Hawks,Saint Joseph's
+243280197,2005,regular-season,2004-11-23,2,197,home,FALSE,Oklahoma State,90,Cowboys,Oklahoma State Cowboys,Oklahoma St
+243280197,2005,regular-season,2004-11-23,2,2031,away,FALSE,Little Rock,65,Trojans,Little Rock Trojans,Little Rock
+243280096,2005,regular-season,2004-11-23,2,96,home,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
+243280096,2005,regular-season,2004-11-23,2,2050,away,FALSE,Ball State,53,Cardinals,Ball State Cardinals,Ball State
+243280127,2005,regular-season,2004-11-23,2,127,home,FALSE,Michigan State,104,Spartans,Michigan State Spartans,Michigan St
+243280127,2005,regular-season,2004-11-23,2,2739,away,FALSE,Green Bay,46,Phoenix,Green Bay Phoenix,Green Bay
+243282633,2005,regular-season,2004-11-23,2,2633,home,FALSE,Tennessee,81,Volunteers,Tennessee Volunteers,Tennessee
+243282633,2005,regular-season,2004-11-23,2,153,away,FALSE,North Carolina,94,Tar Heels,North Carolina Tar Heels,North Carolina
+243282124,2005,regular-season,2004-11-23,2,2124,home,FALSE,Chaminade,63,Silverswords,Chaminade Silverswords,Chaminade
+243282124,2005,regular-season,2004-11-23,2,97,away,FALSE,Louisville,93,Cardinals,Louisville Cardinals,Louisville
+243280120,2005,regular-season,2004-11-23,2,120,home,FALSE,Maryland,93,Terrapins,Maryland Terrapins,Maryland
+243280120,2005,regular-season,2004-11-23,2,2382,away,FALSE,Mercer,67,Bears,Mercer Bears,Mercer
+243280344,2005,regular-season,2004-11-23,2,344,home,FALSE,Mississippi State,82,Bulldogs,Mississippi State Bulldogs,Mississippi St
+243280344,2005,regular-season,2004-11-23,2,140,away,FALSE,Kansas City,64,Roos,Kansas City Roos,Kansas City
+243282294,2005,regular-season,2004-11-23,2,2294,home,FALSE,Iowa,82,Hawkeyes,Iowa Hawkeyes,Iowa
+243282294,2005,regular-season,2004-11-23,2,251,away,FALSE,Texas,80,Longhorns,Texas Longhorns,Texas
+243280275,2005,regular-season,2004-11-23,2,275,home,FALSE,Wisconsin,72,Badgers,Wisconsin Badgers,Wisconsin
+243280275,2005,regular-season,2004-11-23,2,2540,away,FALSE,UC Santa Barbara,61,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+243280087,2005,regular-season,2004-11-23,2,87,home,FALSE,Notre Dame,73,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+243280087,2005,regular-season,2004-11-23,2,2870,away,FALSE,Purdue Fort Wayne,45,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+243280057,2005,regular-season,2004-11-23,2,57,home,FALSE,Florida,90,Gators,Florida Gators,Florida
+243280057,2005,regular-season,2004-11-23,2,2226,away,FALSE,Florida Atlantic,45,Owls,Florida Atlantic Owls,FAU
+243280235,2005,regular-season,2004-11-23,2,235,home,FALSE,Memphis,79,Tigers,Memphis Tigers,Memphis
+243280235,2005,regular-season,2004-11-23,2,2032,away,FALSE,Arkansas State,75,Red Wolves,Arkansas State Red Wolves,Arkansas St

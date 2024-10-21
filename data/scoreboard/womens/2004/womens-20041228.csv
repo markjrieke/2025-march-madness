@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243630251,2004-12-28,2,251,home,FALSE,Texas,83,Longhorns,Texas Longhorns,Texas
-243630251,2004-12-28,2,2534,away,FALSE,Sam Houston,33,Bearkats,Sam Houston Bearkats,Sam Houston
-243630153,2004-12-28,2,153,home,FALSE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
-243630153,2004-12-28,2,288,away,FALSE,Lipscomb,45,Bisons,Lipscomb Bisons,Lipscomb
-243632641,2004-12-28,2,2641,home,FALSE,Texas Tech,83,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-243632641,2004-12-28,2,16,away,FALSE,Sacramento State,37,Hornets,Sacramento State Hornets,Sacramento St
-243630270,2004-12-28,2,270,home,FALSE,Milwaukee,51,Panthers,Milwaukee Panthers,Milwaukee
-243630270,2004-12-28,2,2294,away,FALSE,Iowa,59,Hawkeyes,Iowa Hawkeyes,Iowa
-243632509,2004-12-28,2,2509,home,FALSE,Purdue,57,Boilermakers,Purdue Boilermakers,Purdue
-243632509,2004-12-28,2,2571,away,FALSE,South Dakota State,50,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-243630222,2004-12-28,2,222,home,FALSE,Villanova,63,Wildcats,Villanova Wildcats,Villanova
-243630222,2004-12-28,2,2306,away,FALSE,Kansas State,75,Wildcats,Kansas State Wildcats,Kansas St
-243630026,2004-12-28,2,26,home,FALSE,UCLA,62,Bruins,UCLA Bruins,UCLA
-243630026,2004-12-28,2,30,away,FALSE,USC,61,Trojans,USC Trojans,USC
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243630251,2005,regular-season,2004-12-28,2,251,home,FALSE,Texas,83,Longhorns,Texas Longhorns,Texas
+243630251,2005,regular-season,2004-12-28,2,2534,away,FALSE,Sam Houston,33,Bearkats,Sam Houston Bearkats,Sam Houston
+243630153,2005,regular-season,2004-12-28,2,153,home,FALSE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
+243630153,2005,regular-season,2004-12-28,2,288,away,FALSE,Lipscomb,45,Bisons,Lipscomb Bisons,Lipscomb
+243632641,2005,regular-season,2004-12-28,2,2641,home,FALSE,Texas Tech,83,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+243632641,2005,regular-season,2004-12-28,2,16,away,FALSE,Sacramento State,37,Hornets,Sacramento State Hornets,Sacramento St
+243630270,2005,regular-season,2004-12-28,2,270,home,FALSE,Milwaukee,51,Panthers,Milwaukee Panthers,Milwaukee
+243630270,2005,regular-season,2004-12-28,2,2294,away,FALSE,Iowa,59,Hawkeyes,Iowa Hawkeyes,Iowa
+243632509,2005,regular-season,2004-12-28,2,2509,home,FALSE,Purdue,57,Boilermakers,Purdue Boilermakers,Purdue
+243632509,2005,regular-season,2004-12-28,2,2571,away,FALSE,South Dakota State,50,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+243630222,2005,regular-season,2004-12-28,2,222,home,FALSE,Villanova,63,Wildcats,Villanova Wildcats,Villanova
+243630222,2005,regular-season,2004-12-28,2,2306,away,FALSE,Kansas State,75,Wildcats,Kansas State Wildcats,Kansas St
+243630026,2005,regular-season,2004-12-28,2,26,home,FALSE,UCLA,62,Bruins,UCLA Bruins,UCLA
+243630026,2005,regular-season,2004-12-28,2,30,away,FALSE,USC,61,Trojans,USC Trojans,USC

@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230510150,2003-02-20,2,150,home,FALSE,Duke,97,Blue Devils,Duke Blue Devils,Duke
-230510150,2003-02-20,2,153,away,FALSE,North Carolina,63,Tar Heels,North Carolina Tar Heels,North Carolina
-230512633,2003-02-20,2,2633,home,FALSE,Tennessee,87,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-230512633,2003-02-20,2,61,away,FALSE,Georgia,60,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-230510145,2003-02-20,2,145,home,FALSE,Ole Miss,67,Rebels,Ole Miss Rebels,Ole Miss
-230510145,2003-02-20,2,99,away,FALSE,LSU,83,Tigers,LSU Tigers,LSU
-230510242,2003-02-20,2,242,home,FALSE,Rice,63,Owls,Rice Owls,Rice
-230510242,2003-02-20,2,2348,away,FALSE,Louisiana Tech,80,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-230510024,2003-02-20,2,24,home,FALSE,Stanford,63,Cardinal,Stanford Cardinal,Stanford
-230510024,2003-02-20,2,30,away,FALSE,USC,55,Trojans,USC Trojans,USC
-230512509,2003-02-20,2,2509,home,FALSE,Purdue,65,Boilermakers,Purdue Boilermakers,Purdue
-230512509,2003-02-20,2,127,away,FALSE,Michigan State,60,Spartans,Michigan State Spartans,Michigan St
-230510213,2003-02-20,2,213,home,FALSE,Penn State,75,Lady Lions,Penn State Lady Lions,Penn State
-230510213,2003-02-20,2,130,away,FALSE,Michigan,61,Wolverines,Michigan Wolverines,Michigan
-230510008,2003-02-20,2,8,home,FALSE,Arkansas,59,Razorbacks,Arkansas Razorbacks,Arkansas
-230510008,2003-02-20,2,344,away,FALSE,Mississippi State,72,Bulldogs,Mississippi State Bulldogs,Mississippi St
-230512294,2003-02-20,2,2294,home,FALSE,Iowa,60,Hawkeyes,Iowa Hawkeyes,Iowa
-230512294,2003-02-20,2,135,away,FALSE,Minnesota,77,Golden Gophers,Minnesota Golden Gophers,Minnesota
-230512540,2003-02-20,2,2540,home,FALSE,UC Santa Barbara,82,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-230512540,2003-02-20,2,13,away,FALSE,Cal Poly,43,Mustangs,Cal Poly Mustangs,Cal Poly
-230510204,2003-02-20,2,204,home,FALSE,Oregon State,100,Beavers,Oregon State Beavers,Oregon St
-230510204,2003-02-20,2,264,away,FALSE,Washington,86,Huskies,Washington Huskies,Washington
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230510150,2003,regular-season,2003-02-20,2,150,home,FALSE,Duke,97,Blue Devils,Duke Blue Devils,Duke
+230510150,2003,regular-season,2003-02-20,2,153,away,FALSE,North Carolina,63,Tar Heels,North Carolina Tar Heels,North Carolina
+230512633,2003,regular-season,2003-02-20,2,2633,home,FALSE,Tennessee,87,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+230512633,2003,regular-season,2003-02-20,2,61,away,FALSE,Georgia,60,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+230510145,2003,regular-season,2003-02-20,2,145,home,FALSE,Ole Miss,67,Rebels,Ole Miss Rebels,Ole Miss
+230510145,2003,regular-season,2003-02-20,2,99,away,FALSE,LSU,83,Tigers,LSU Tigers,LSU
+230510242,2003,regular-season,2003-02-20,2,242,home,FALSE,Rice,63,Owls,Rice Owls,Rice
+230510242,2003,regular-season,2003-02-20,2,2348,away,FALSE,Louisiana Tech,80,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+230510024,2003,regular-season,2003-02-20,2,24,home,FALSE,Stanford,63,Cardinal,Stanford Cardinal,Stanford
+230510024,2003,regular-season,2003-02-20,2,30,away,FALSE,USC,55,Trojans,USC Trojans,USC
+230512509,2003,regular-season,2003-02-20,2,2509,home,FALSE,Purdue,65,Boilermakers,Purdue Boilermakers,Purdue
+230512509,2003,regular-season,2003-02-20,2,127,away,FALSE,Michigan State,60,Spartans,Michigan State Spartans,Michigan St
+230510213,2003,regular-season,2003-02-20,2,213,home,FALSE,Penn State,75,Lady Lions,Penn State Lady Lions,Penn State
+230510213,2003,regular-season,2003-02-20,2,130,away,FALSE,Michigan,61,Wolverines,Michigan Wolverines,Michigan
+230510008,2003,regular-season,2003-02-20,2,8,home,FALSE,Arkansas,59,Razorbacks,Arkansas Razorbacks,Arkansas
+230510008,2003,regular-season,2003-02-20,2,344,away,FALSE,Mississippi State,72,Bulldogs,Mississippi State Bulldogs,Mississippi St
+230512294,2003,regular-season,2003-02-20,2,2294,home,FALSE,Iowa,60,Hawkeyes,Iowa Hawkeyes,Iowa
+230512294,2003,regular-season,2003-02-20,2,135,away,FALSE,Minnesota,77,Golden Gophers,Minnesota Golden Gophers,Minnesota
+230512540,2003,regular-season,2003-02-20,2,2540,home,FALSE,UC Santa Barbara,82,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+230512540,2003,regular-season,2003-02-20,2,13,away,FALSE,Cal Poly,43,Mustangs,Cal Poly Mustangs,Cal Poly
+230510204,2003,regular-season,2003-02-20,2,204,home,FALSE,Oregon State,100,Beavers,Oregon State Beavers,Oregon St
+230510204,2003,regular-season,2003-02-20,2,264,away,FALSE,Washington,86,Huskies,Washington Huskies,Washington

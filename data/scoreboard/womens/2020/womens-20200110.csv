@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401172117,2020-01-10,4,9,home,FALSE,Arizona State,72,Sun Devils,Arizona State Sun Devils,Arizona St
-401172117,2020-01-10,4,2483,away,FALSE,Oregon,66,Ducks,Oregon Ducks,Oregon
-401172120,2020-01-10,4,12,home,FALSE,Arizona,61,Wildcats,Arizona Wildcats,Arizona
-401172120,2020-01-10,4,204,away,FALSE,Oregon State,63,Beavers,Oregon State Beavers,Oregon St
-401172121,2020-01-10,4,24,home,FALSE,Stanford,73,Cardinal,Stanford Cardinal,Stanford
-401172121,2020-01-10,4,25,away,FALSE,California,40,Golden Bears,California Golden Bears,California
-401172119,2020-01-10,4,254,home,FALSE,Utah,54,Utes,Utah Utes,Utah
-401172119,2020-01-10,4,26,away,FALSE,UCLA,84,Bruins,UCLA Bruins,UCLA
-401177610,2020-01-10,4,305,home,FALSE,DePaul,85,Blue Demons,DePaul Blue Demons,DePaul
-401177610,2020-01-10,4,2550,away,FALSE,Seton Hall,68,Pirates,Seton Hall Pirates,Seton Hall
-401179928,2020-01-10,4,2623,home,FALSE,Missouri State,69,Lady Bears,Missouri State Lady Bears,Missouri St
-401179928,2020-01-10,4,2181,away,FALSE,Drake,67,Bulldogs,Drake Bulldogs,Drake
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401172117,2020,regular-season,2020-01-10,4,9,home,FALSE,Arizona State,72,Sun Devils,Arizona State Sun Devils,Arizona St
+401172117,2020,regular-season,2020-01-10,4,2483,away,FALSE,Oregon,66,Ducks,Oregon Ducks,Oregon
+401172120,2020,regular-season,2020-01-10,4,12,home,FALSE,Arizona,61,Wildcats,Arizona Wildcats,Arizona
+401172120,2020,regular-season,2020-01-10,4,204,away,FALSE,Oregon State,63,Beavers,Oregon State Beavers,Oregon St
+401172121,2020,regular-season,2020-01-10,4,24,home,FALSE,Stanford,73,Cardinal,Stanford Cardinal,Stanford
+401172121,2020,regular-season,2020-01-10,4,25,away,FALSE,California,40,Golden Bears,California Golden Bears,California
+401172119,2020,regular-season,2020-01-10,4,254,home,FALSE,Utah,54,Utes,Utah Utes,Utah
+401172119,2020,regular-season,2020-01-10,4,26,away,FALSE,UCLA,84,Bruins,UCLA Bruins,UCLA
+401177610,2020,regular-season,2020-01-10,4,305,home,FALSE,DePaul,85,Blue Demons,DePaul Blue Demons,DePaul
+401177610,2020,regular-season,2020-01-10,4,2550,away,FALSE,Seton Hall,68,Pirates,Seton Hall Pirates,Seton Hall
+401179928,2020,regular-season,2020-01-10,4,2623,home,FALSE,Missouri State,69,Lady Bears,Missouri State Lady Bears,Missouri St
+401179928,2020,regular-season,2020-01-10,4,2181,away,FALSE,Drake,67,Bulldogs,Drake Bulldogs,Drake

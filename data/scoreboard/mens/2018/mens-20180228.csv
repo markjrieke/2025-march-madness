@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400988630,2018-02-28,2,2752,home,FALSE,Xavier,84,Musketeers,Xavier Musketeers,Xavier
-400988630,2018-02-28,2,2507,away,FALSE,Providence,74,Friars,Providence Friars,Providence
-400988631,2018-02-28,3,2550,home,FALSE,Seton Hall,68,Pirates,Seton Hall Pirates,Seton Hall
-400988631,2018-02-28,3,222,away,FALSE,Villanova,69,Wildcats,Villanova Wildcats,Villanova
-400986285,2018-02-28,2,228,home,FALSE,Clemson,76,Tigers,Clemson Tigers,Clemson
-400986285,2018-02-28,2,52,away,FALSE,Florida State,63,Seminoles,Florida State Seminoles,Florida St
-400991777,2018-02-28,2,2439,home,FALSE,UNLV,75,Rebels,UNLV Rebels,UNLV
-400991777,2018-02-28,2,2440,away,FALSE,Nevada,101,Wolf Pack,Nevada Wolf Pack,Nevada
-400987407,2018-02-28,2,96,home,FALSE,Kentucky,96,Wildcats,Kentucky Wildcats,Kentucky
-400987407,2018-02-28,2,145,away,FALSE,Ole Miss,78,Rebels,Ole Miss Rebels,Ole Miss
-400988135,2018-02-28,2,2567,home,FALSE,SMU,56,Mustangs,SMU Mustangs,SMU
-400988135,2018-02-28,2,248,away,FALSE,Houston,69,Cougars,Houston Cougars,Houston
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400988630,2018,regular-season,2018-02-28,2,2752,home,FALSE,Xavier,84,Musketeers,Xavier Musketeers,Xavier
+400988630,2018,regular-season,2018-02-28,2,2507,away,FALSE,Providence,74,Friars,Providence Friars,Providence
+400988631,2018,regular-season,2018-02-28,3,2550,home,FALSE,Seton Hall,68,Pirates,Seton Hall Pirates,Seton Hall
+400988631,2018,regular-season,2018-02-28,3,222,away,FALSE,Villanova,69,Wildcats,Villanova Wildcats,Villanova
+400986285,2018,regular-season,2018-02-28,2,228,home,FALSE,Clemson,76,Tigers,Clemson Tigers,Clemson
+400986285,2018,regular-season,2018-02-28,2,52,away,FALSE,Florida State,63,Seminoles,Florida State Seminoles,Florida St
+400991777,2018,regular-season,2018-02-28,2,2439,home,FALSE,UNLV,75,Rebels,UNLV Rebels,UNLV
+400991777,2018,regular-season,2018-02-28,2,2440,away,FALSE,Nevada,101,Wolf Pack,Nevada Wolf Pack,Nevada
+400987407,2018,regular-season,2018-02-28,2,96,home,FALSE,Kentucky,96,Wildcats,Kentucky Wildcats,Kentucky
+400987407,2018,regular-season,2018-02-28,2,145,away,FALSE,Ole Miss,78,Rebels,Ole Miss Rebels,Ole Miss
+400988135,2018,regular-season,2018-02-28,2,2567,home,FALSE,SMU,56,Mustangs,SMU Mustangs,SMU
+400988135,2018,regular-season,2018-02-28,2,248,away,FALSE,Houston,69,Cougars,Houston Cougars,Houston

@@ -1,41 +1,41 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320700239,2012-03-10,2,239,home,TRUE,Baylor,73,Bears,Baylor Bears,Baylor
-320700239,2012-03-10,2,245,away,TRUE,Texas A&M,50,Aggies,Texas A&M Aggies,Texas A&M
-320700048,2012-03-10,2,48,home,TRUE,Delaware,66,Blue Hens,Delaware Blue Hens,Delaware
-320700048,2012-03-10,2,350,away,TRUE,UNC Wilmington,39,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
-320702199,2012-03-10,2,2199,home,TRUE,Eastern Michigan,72,Eagles,Eastern Michigan Eagles,E Michigan
-320702199,2012-03-10,2,2117,away,TRUE,Central Michigan,71,Chippewas,Central Michigan Chippewas,C Michigan
-320702335,2012-03-10,2,2335,home,TRUE,Liberty,72,Flames,Liberty Flames,Liberty
-320702335,2012-03-10,2,2127,away,TRUE,Charleston Southern,52,Buccaneers,Charleston Southern Buccaneers,Charleston So
-320702623,2012-03-10,2,2623,home,TRUE,Missouri State,47,Lady Bears,Missouri State Lady Bears,Missouri St
-320702623,2012-03-10,2,156,away,TRUE,Creighton,56,Bluejays,Creighton Bluejays,Creighton
-320700256,2012-03-10,2,256,home,TRUE,James Madison,50,Dukes,James Madison Dukes,James Madison
-320700256,2012-03-10,2,2182,away,TRUE,Drexel,67,Dragons,Drexel Dragons,Drexel
-320700024,2012-03-10,2,24,home,TRUE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
-320700024,2012-03-10,2,25,away,TRUE,California,62,Golden Bears,California Golden Bears,California
-320702272,2012-03-10,2,2272,home,FALSE,High Point,85,Panthers,High Point Panthers,High Point
-320702272,2012-03-10,2,2515,away,FALSE,Radford,70,Highlanders,Radford Highlanders,Radford
-320702261,2012-03-10,2,2261,home,TRUE,Hampton,54,Lady Pirates,Hampton Lady Pirates,Hampton
-320702261,2012-03-10,2,47,away,TRUE,Howard,53,Bison,Howard Bison,Howard
-320700021,2012-03-10,2,21,home,TRUE,San Diego State,57,Aztecs,San Diego State Aztecs,San Diego St
-320700021,2012-03-10,2,167,away,TRUE,New Mexico,43,Lobos,New Mexico Lobos,New Mexico
-320702724,2012-03-10,2,2724,home,TRUE,Wichita State,52,Shockers,Wichita State Shockers,Wichita St
-320702724,2012-03-10,2,2181,away,TRUE,Drake,56,Bulldogs,Drake Bulldogs,Drake
-320702540,2012-03-10,0,2540,home,TRUE,UC Santa Barbara,0,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-320702540,2012-03-10,0,299,away,TRUE,Long Beach State,0,Beach,Long Beach State Beach,Long Beach St
-320702504,2012-03-10,2,2504,home,TRUE,Prairie View A&M,63,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
-320702504,2012-03-10,2,2016,away,TRUE,Alcorn State,50,Lady Braves,Alcorn State Lady Braves,Alcorn St
-320702426,2012-03-10,2,2426,home,FALSE,Navy,57,Midshipmen,Navy Midshipmen,Navy
-320702426,2012-03-10,2,107,away,FALSE,Holy Cross,48,Crusaders,Holy Cross Crusaders,Holy Cross
-320700278,2012-03-10,2,278,home,TRUE,Fresno State,89,Bulldogs,Fresno State Bulldogs,Fresno St
-320700278,2012-03-10,2,2348,away,TRUE,Louisiana Tech,61,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-320700304,2012-03-10,2,304,home,FALSE,Idaho State,49,Bengals,Idaho State Bengals,Idaho St
-320700304,2012-03-10,2,2458,away,FALSE,Northern Colorado,46,Bears,Northern Colorado Bears,N Colorado
-320702638,2012-03-10,2,2638,home,TRUE,UTEP,69,Miners,UTEP Miners,UTEP
-320702638,2012-03-10,2,2655,away,TRUE,Tulane,65,Green Wave,Tulane Green Wave,Tulane
-320700399,2012-03-10,2,399,home,FALSE,UAlbany,69,Great Danes,UAlbany Great Danes,UAlbany
-320700399,2012-03-10,2,2378,away,FALSE,UMBC,61,Retrievers,UMBC Retrievers,UMBC
-320700155,2012-03-10,0,155,home,TRUE,North Dakota,0,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
-320700155,2012-03-10,0,3084,away,TRUE,Utah Valley,0,Wolverines,Utah Valley Wolverines,Utah Valley
-320702934,2012-03-10,2,2934,home,FALSE,Cal State Bakersfield,89,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
-320702934,2012-03-10,2,2547,away,FALSE,Seattle U,87,Redhawks,Seattle U Redhawks,Seattle U
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320700239,2012,regular-season,2012-03-10,2,239,home,TRUE,Baylor,73,Bears,Baylor Bears,Baylor
+320700239,2012,regular-season,2012-03-10,2,245,away,TRUE,Texas A&M,50,Aggies,Texas A&M Aggies,Texas A&M
+320700048,2012,regular-season,2012-03-10,2,48,home,TRUE,Delaware,66,Blue Hens,Delaware Blue Hens,Delaware
+320700048,2012,regular-season,2012-03-10,2,350,away,TRUE,UNC Wilmington,39,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+320702199,2012,regular-season,2012-03-10,2,2199,home,TRUE,Eastern Michigan,72,Eagles,Eastern Michigan Eagles,E Michigan
+320702199,2012,regular-season,2012-03-10,2,2117,away,TRUE,Central Michigan,71,Chippewas,Central Michigan Chippewas,C Michigan
+320702335,2012,regular-season,2012-03-10,2,2335,home,TRUE,Liberty,72,Flames,Liberty Flames,Liberty
+320702335,2012,regular-season,2012-03-10,2,2127,away,TRUE,Charleston Southern,52,Buccaneers,Charleston Southern Buccaneers,Charleston So
+320702623,2012,regular-season,2012-03-10,2,2623,home,TRUE,Missouri State,47,Lady Bears,Missouri State Lady Bears,Missouri St
+320702623,2012,regular-season,2012-03-10,2,156,away,TRUE,Creighton,56,Bluejays,Creighton Bluejays,Creighton
+320700256,2012,regular-season,2012-03-10,2,256,home,TRUE,James Madison,50,Dukes,James Madison Dukes,James Madison
+320700256,2012,regular-season,2012-03-10,2,2182,away,TRUE,Drexel,67,Dragons,Drexel Dragons,Drexel
+320700024,2012,regular-season,2012-03-10,2,24,home,TRUE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
+320700024,2012,regular-season,2012-03-10,2,25,away,TRUE,California,62,Golden Bears,California Golden Bears,California
+320702272,2012,regular-season,2012-03-10,2,2272,home,FALSE,High Point,85,Panthers,High Point Panthers,High Point
+320702272,2012,regular-season,2012-03-10,2,2515,away,FALSE,Radford,70,Highlanders,Radford Highlanders,Radford
+320702261,2012,regular-season,2012-03-10,2,2261,home,TRUE,Hampton,54,Lady Pirates,Hampton Lady Pirates,Hampton
+320702261,2012,regular-season,2012-03-10,2,47,away,TRUE,Howard,53,Bison,Howard Bison,Howard
+320700021,2012,regular-season,2012-03-10,2,21,home,TRUE,San Diego State,57,Aztecs,San Diego State Aztecs,San Diego St
+320700021,2012,regular-season,2012-03-10,2,167,away,TRUE,New Mexico,43,Lobos,New Mexico Lobos,New Mexico
+320702724,2012,regular-season,2012-03-10,2,2724,home,TRUE,Wichita State,52,Shockers,Wichita State Shockers,Wichita St
+320702724,2012,regular-season,2012-03-10,2,2181,away,TRUE,Drake,56,Bulldogs,Drake Bulldogs,Drake
+320702540,2012,regular-season,2012-03-10,0,2540,home,TRUE,UC Santa Barbara,0,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+320702540,2012,regular-season,2012-03-10,0,299,away,TRUE,Long Beach State,0,Beach,Long Beach State Beach,Long Beach St
+320702504,2012,regular-season,2012-03-10,2,2504,home,TRUE,Prairie View A&M,63,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
+320702504,2012,regular-season,2012-03-10,2,2016,away,TRUE,Alcorn State,50,Lady Braves,Alcorn State Lady Braves,Alcorn St
+320702426,2012,regular-season,2012-03-10,2,2426,home,FALSE,Navy,57,Midshipmen,Navy Midshipmen,Navy
+320702426,2012,regular-season,2012-03-10,2,107,away,FALSE,Holy Cross,48,Crusaders,Holy Cross Crusaders,Holy Cross
+320700278,2012,regular-season,2012-03-10,2,278,home,TRUE,Fresno State,89,Bulldogs,Fresno State Bulldogs,Fresno St
+320700278,2012,regular-season,2012-03-10,2,2348,away,TRUE,Louisiana Tech,61,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+320700304,2012,regular-season,2012-03-10,2,304,home,FALSE,Idaho State,49,Bengals,Idaho State Bengals,Idaho St
+320700304,2012,regular-season,2012-03-10,2,2458,away,FALSE,Northern Colorado,46,Bears,Northern Colorado Bears,N Colorado
+320702638,2012,regular-season,2012-03-10,2,2638,home,TRUE,UTEP,69,Miners,UTEP Miners,UTEP
+320702638,2012,regular-season,2012-03-10,2,2655,away,TRUE,Tulane,65,Green Wave,Tulane Green Wave,Tulane
+320700399,2012,regular-season,2012-03-10,2,399,home,FALSE,UAlbany,69,Great Danes,UAlbany Great Danes,UAlbany
+320700399,2012,regular-season,2012-03-10,2,2378,away,FALSE,UMBC,61,Retrievers,UMBC Retrievers,UMBC
+320700155,2012,regular-season,2012-03-10,0,155,home,TRUE,North Dakota,0,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
+320700155,2012,regular-season,2012-03-10,0,3084,away,TRUE,Utah Valley,0,Wolverines,Utah Valley Wolverines,Utah Valley
+320702934,2012,regular-season,2012-03-10,2,2934,home,FALSE,Cal State Bakersfield,89,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+320702934,2012,regular-season,2012-03-10,2,2547,away,FALSE,Seattle U,87,Redhawks,Seattle U Redhawks,Seattle U

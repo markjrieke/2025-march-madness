@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240642348,2004-03-04,2,2348,home,FALSE,Louisiana Tech,82,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-240642348,2004-03-04,2,242,away,FALSE,Rice,70,Owls,Rice Owls,Rice
-240640135,2004-03-04,2,135,home,FALSE,Minnesota,68,Golden Gophers,Minnesota Golden Gophers,Minnesota
-240640135,2004-03-04,2,77,away,FALSE,Northwestern,47,Wildcats,Northwestern Wildcats,Northwestern
-240640061,2004-03-04,2,61,home,FALSE,Georgia,73,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-240640061,2004-03-04,2,2579,away,FALSE,South Carolina,42,Gamecocks,South Carolina Gamecocks,South Carolina
-240640238,2004-03-04,2,238,home,FALSE,Vanderbilt,60,Commodores,Vanderbilt Commodores,Vanderbilt
-240640238,2004-03-04,2,96,away,FALSE,Kentucky,41,Wildcats,Kentucky Wildcats,Kentucky
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240642348,2004,regular-season,2004-03-04,2,2348,home,FALSE,Louisiana Tech,82,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+240642348,2004,regular-season,2004-03-04,2,242,away,FALSE,Rice,70,Owls,Rice Owls,Rice
+240640135,2004,regular-season,2004-03-04,2,135,home,FALSE,Minnesota,68,Golden Gophers,Minnesota Golden Gophers,Minnesota
+240640135,2004,regular-season,2004-03-04,2,77,away,FALSE,Northwestern,47,Wildcats,Northwestern Wildcats,Northwestern
+240640061,2004,regular-season,2004-03-04,2,61,home,FALSE,Georgia,73,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+240640061,2004,regular-season,2004-03-04,2,2579,away,FALSE,South Carolina,42,Gamecocks,South Carolina Gamecocks,South Carolina
+240640238,2004,regular-season,2004-03-04,2,238,home,FALSE,Vanderbilt,60,Commodores,Vanderbilt Commodores,Vanderbilt
+240640238,2004,regular-season,2004-03-04,2,96,away,FALSE,Kentucky,41,Wildcats,Kentucky Wildcats,Kentucky

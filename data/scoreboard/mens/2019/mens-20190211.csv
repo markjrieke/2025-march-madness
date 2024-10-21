@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401082774,2019-02-11,2,153,home,FALSE,North Carolina,61,Tar Heels,North Carolina Tar Heels,North Carolina
-401082774,2019-02-11,2,258,away,FALSE,Virginia,69,Cavaliers,Virginia Cavaliers,Virginia
-401083523,2019-02-11,3,2628,home,FALSE,TCU,77,Horned Frogs,TCU Horned Frogs,TCU
-401083523,2019-02-11,3,2305,away,FALSE,Kansas,82,Jayhawks,Kansas Jayhawks,Kansas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401082774,2019,regular-season,2019-02-11,2,153,home,FALSE,North Carolina,61,Tar Heels,North Carolina Tar Heels,North Carolina
+401082774,2019,regular-season,2019-02-11,2,258,away,FALSE,Virginia,69,Cavaliers,Virginia Cavaliers,Virginia
+401083523,2019,regular-season,2019-02-11,3,2628,home,FALSE,TCU,77,Horned Frogs,TCU Horned Frogs,TCU
+401083523,2019,regular-season,2019-02-11,3,2305,away,FALSE,Kansas,82,Jayhawks,Kansas Jayhawks,Kansas

@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293260127,2009-11-22,2,127,home,FALSE,Michigan State,90,Spartans,Michigan State Spartans,Michigan St
-293260127,2009-11-22,2,2674,away,FALSE,Valparaiso,60,Beacons,Valparaiso Beacons,Valparaiso
-293260145,2009-11-22,2,145,home,TRUE,Ole Miss,67,Rebels,Ole Miss Rebels,Ole Miss
-293260145,2009-11-22,2,222,away,TRUE,Villanova,79,Wildcats,Villanova Wildcats,Villanova
-293262603,2009-11-22,2,2509,home,TRUE,Purdue,85,Boilermakers,Purdue Boilermakers,Purdue
-293262603,2009-11-22,2,2603,away,TRUE,Saint Joseph's,60,Hawks,Saint Joseph's Hawks,Saint Joseph's
-293260305,2009-11-22,2,2633,home,TRUE,Tennessee,57,Volunteers,Tennessee Volunteers,Tennessee
-293260305,2009-11-22,2,305,away,TRUE,DePaul,53,Blue Demons,DePaul Blue Demons,DePaul
-293262306,2009-11-22,2,2306,home,TRUE,Kansas State,83,Wildcats,Kansas State Wildcats,Kansas St
-293262306,2009-11-22,2,2168,away,TRUE,Dayton,75,Flyers,Dayton Flyers,Dayton
-293260097,2009-11-22,2,97,home,FALSE,Louisville,90,Cardinals,Louisville Cardinals,Louisville
-293260097,2009-11-22,2,2415,away,FALSE,Morgan State,81,Bears,Morgan State Bears,Morgan St
-293260104,2009-11-22,2,104,home,TRUE,Boston University,67,Terriers,Boston University Terriers,Boston U
-293260104,2009-11-22,2,59,away,TRUE,Georgia Tech,85,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293260127,2010,regular-season,2009-11-22,2,127,home,FALSE,Michigan State,90,Spartans,Michigan State Spartans,Michigan St
+293260127,2010,regular-season,2009-11-22,2,2674,away,FALSE,Valparaiso,60,Beacons,Valparaiso Beacons,Valparaiso
+293260145,2010,regular-season,2009-11-22,2,145,home,TRUE,Ole Miss,67,Rebels,Ole Miss Rebels,Ole Miss
+293260145,2010,regular-season,2009-11-22,2,222,away,TRUE,Villanova,79,Wildcats,Villanova Wildcats,Villanova
+293262603,2010,regular-season,2009-11-22,2,2509,home,TRUE,Purdue,85,Boilermakers,Purdue Boilermakers,Purdue
+293262603,2010,regular-season,2009-11-22,2,2603,away,TRUE,Saint Joseph's,60,Hawks,Saint Joseph's Hawks,Saint Joseph's
+293260305,2010,regular-season,2009-11-22,2,2633,home,TRUE,Tennessee,57,Volunteers,Tennessee Volunteers,Tennessee
+293260305,2010,regular-season,2009-11-22,2,305,away,TRUE,DePaul,53,Blue Demons,DePaul Blue Demons,DePaul
+293262306,2010,regular-season,2009-11-22,2,2306,home,TRUE,Kansas State,83,Wildcats,Kansas State Wildcats,Kansas St
+293262306,2010,regular-season,2009-11-22,2,2168,away,TRUE,Dayton,75,Flyers,Dayton Flyers,Dayton
+293260097,2010,regular-season,2009-11-22,2,97,home,FALSE,Louisville,90,Cardinals,Louisville Cardinals,Louisville
+293260097,2010,regular-season,2009-11-22,2,2415,away,FALSE,Morgan State,81,Bears,Morgan State Bears,Morgan St
+293260104,2010,regular-season,2009-11-22,2,104,home,TRUE,Boston University,67,Terriers,Boston University Terriers,Boston U
+293260104,2010,regular-season,2009-11-22,2,59,away,TRUE,Georgia Tech,85,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech

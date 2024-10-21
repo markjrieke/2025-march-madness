@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330620150,2013-03-03,2,150,home,FALSE,Duke,65,Blue Devils,Duke Blue Devils,Duke
-330620150,2013-03-03,2,153,away,FALSE,North Carolina,58,Tar Heels,North Carolina Tar Heels,North Carolina
-330620158,2013-03-03,2,158,home,FALSE,Nebraska,67,Cornhuskers,Nebraska Cornhuskers,Nebraska
-330620158,2013-03-03,2,213,away,FALSE,Penn State,82,Lady Lions,Penn State Lady Lions,Penn State
-330620096,2013-03-03,2,96,home,FALSE,Kentucky,78,Wildcats,Kentucky Wildcats,Kentucky
-330620096,2013-03-03,2,2633,away,FALSE,Tennessee,65,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-330620120,2013-03-03,2,120,home,FALSE,Maryland,88,Terrapins,Maryland Terrapins,Maryland
-330620120,2013-03-03,2,154,away,FALSE,Wake Forest,61,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-330620061,2013-03-03,2,61,home,FALSE,Georgia,55,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-330620061,2013-03-03,2,238,away,FALSE,Vanderbilt,50,Commodores,Vanderbilt Commodores,Vanderbilt
-330622168,2013-03-03,2,2168,home,FALSE,Dayton,73,Flyers,Dayton Flyers,Dayton
-330622168,2013-03-03,2,2603,away,FALSE,Saint Joseph's,66,Hawks,Saint Joseph's Hawks,Saint Joseph's
-330620245,2013-03-03,2,245,home,FALSE,Texas A&M,52,Aggies,Texas A&M Aggies,Texas A&M
-330620245,2013-03-03,2,99,away,FALSE,LSU,67,Tigers,LSU Tigers,LSU
-330622579,2013-03-03,2,2579,home,FALSE,South Carolina,67,Gamecocks,South Carolina Gamecocks,South Carolina
-330622579,2013-03-03,2,57,away,FALSE,Florida,56,Gators,Florida Gators,Florida
-330620012,2013-03-03,2,12,home,FALSE,Arizona,57,Wildcats,Arizona Wildcats,Arizona
-330620012,2013-03-03,2,26,away,FALSE,UCLA,68,Bruins,UCLA Bruins,UCLA
-330620048,2013-03-03,2,48,home,FALSE,Delaware,62,Blue Hens,Delaware Blue Hens,Delaware
-330620048,2013-03-03,2,2182,away,FALSE,Drexel,57,Dragons,Drexel Dragons,Drexel
-330620204,2013-03-03,3,204,home,FALSE,Oregon State,63,Beavers,Oregon State Beavers,Oregon St
-330620204,2013-03-03,3,38,away,FALSE,Colorado,66,Buffaloes,Colorado Buffaloes,Colorado
-330620258,2013-03-03,2,258,home,FALSE,Virginia,72,Cavaliers,Virginia Cavaliers,Virginia
-330620258,2013-03-03,2,52,away,FALSE,Florida State,60,Seminoles,Florida State Seminoles,Florida St
-330622509,2013-03-03,2,2509,home,FALSE,Purdue,76,Boilermakers,Purdue Boilermakers,Purdue
-330622509,2013-03-03,2,356,away,FALSE,Illinois,65,Fighting Illini,Illinois Fighting Illini,Illinois
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330620150,2013,regular-season,2013-03-03,2,150,home,FALSE,Duke,65,Blue Devils,Duke Blue Devils,Duke
+330620150,2013,regular-season,2013-03-03,2,153,away,FALSE,North Carolina,58,Tar Heels,North Carolina Tar Heels,North Carolina
+330620158,2013,regular-season,2013-03-03,2,158,home,FALSE,Nebraska,67,Cornhuskers,Nebraska Cornhuskers,Nebraska
+330620158,2013,regular-season,2013-03-03,2,213,away,FALSE,Penn State,82,Lady Lions,Penn State Lady Lions,Penn State
+330620096,2013,regular-season,2013-03-03,2,96,home,FALSE,Kentucky,78,Wildcats,Kentucky Wildcats,Kentucky
+330620096,2013,regular-season,2013-03-03,2,2633,away,FALSE,Tennessee,65,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+330620120,2013,regular-season,2013-03-03,2,120,home,FALSE,Maryland,88,Terrapins,Maryland Terrapins,Maryland
+330620120,2013,regular-season,2013-03-03,2,154,away,FALSE,Wake Forest,61,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+330620061,2013,regular-season,2013-03-03,2,61,home,FALSE,Georgia,55,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+330620061,2013,regular-season,2013-03-03,2,238,away,FALSE,Vanderbilt,50,Commodores,Vanderbilt Commodores,Vanderbilt
+330622168,2013,regular-season,2013-03-03,2,2168,home,FALSE,Dayton,73,Flyers,Dayton Flyers,Dayton
+330622168,2013,regular-season,2013-03-03,2,2603,away,FALSE,Saint Joseph's,66,Hawks,Saint Joseph's Hawks,Saint Joseph's
+330620245,2013,regular-season,2013-03-03,2,245,home,FALSE,Texas A&M,52,Aggies,Texas A&M Aggies,Texas A&M
+330620245,2013,regular-season,2013-03-03,2,99,away,FALSE,LSU,67,Tigers,LSU Tigers,LSU
+330622579,2013,regular-season,2013-03-03,2,2579,home,FALSE,South Carolina,67,Gamecocks,South Carolina Gamecocks,South Carolina
+330622579,2013,regular-season,2013-03-03,2,57,away,FALSE,Florida,56,Gators,Florida Gators,Florida
+330620012,2013,regular-season,2013-03-03,2,12,home,FALSE,Arizona,57,Wildcats,Arizona Wildcats,Arizona
+330620012,2013,regular-season,2013-03-03,2,26,away,FALSE,UCLA,68,Bruins,UCLA Bruins,UCLA
+330620048,2013,regular-season,2013-03-03,2,48,home,FALSE,Delaware,62,Blue Hens,Delaware Blue Hens,Delaware
+330620048,2013,regular-season,2013-03-03,2,2182,away,FALSE,Drexel,57,Dragons,Drexel Dragons,Drexel
+330620204,2013,regular-season,2013-03-03,3,204,home,FALSE,Oregon State,63,Beavers,Oregon State Beavers,Oregon St
+330620204,2013,regular-season,2013-03-03,3,38,away,FALSE,Colorado,66,Buffaloes,Colorado Buffaloes,Colorado
+330620258,2013,regular-season,2013-03-03,2,258,home,FALSE,Virginia,72,Cavaliers,Virginia Cavaliers,Virginia
+330620258,2013,regular-season,2013-03-03,2,52,away,FALSE,Florida State,60,Seminoles,Florida State Seminoles,Florida St
+330622509,2013,regular-season,2013-03-03,2,2509,home,FALSE,Purdue,76,Boilermakers,Purdue Boilermakers,Purdue
+330622509,2013,regular-season,2013-03-03,2,356,away,FALSE,Illinois,65,Fighting Illini,Illinois Fighting Illini,Illinois

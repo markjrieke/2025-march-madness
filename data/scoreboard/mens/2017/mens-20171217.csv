@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400987252,2017-12-17,2,9,home,FALSE,Arizona State,76,Sun Devils,Arizona State Sun Devils,Arizona St
-400987252,2017-12-17,2,238,away,FALSE,Vanderbilt,64,Commodores,Vanderbilt Commodores,Vanderbilt
-400986147,2017-12-17,2,2633,home,FALSE,Tennessee,73,Volunteers,Tennessee Volunteers,Tennessee
-400986147,2017-12-17,2,153,away,FALSE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
-400989131,2017-12-17,2,239,home,FALSE,Baylor,118,Bears,Baylor Bears,Baylor
-400989131,2017-12-17,2,2542,away,FALSE,Savannah State,86,Tigers,Savannah State Tigers,Savannah St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400987252,2018,regular-season,2017-12-17,2,9,home,FALSE,Arizona State,76,Sun Devils,Arizona State Sun Devils,Arizona St
+400987252,2018,regular-season,2017-12-17,2,238,away,FALSE,Vanderbilt,64,Commodores,Vanderbilt Commodores,Vanderbilt
+400986147,2018,regular-season,2017-12-17,2,2633,home,FALSE,Tennessee,73,Volunteers,Tennessee Volunteers,Tennessee
+400986147,2018,regular-season,2017-12-17,2,153,away,FALSE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
+400989131,2018,regular-season,2017-12-17,2,239,home,FALSE,Baylor,118,Bears,Baylor Bears,Baylor
+400989131,2018,regular-season,2017-12-17,2,2542,away,FALSE,Savannah State,86,Tigers,Savannah State Tigers,Savannah St

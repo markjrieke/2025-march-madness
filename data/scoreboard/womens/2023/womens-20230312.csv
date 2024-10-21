@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401519461,2023-03-12,4,104,home,FALSE,Boston University,61,Terriers,Boston University Terriers,Boston U
-401519461,2023-03-12,4,107,away,FALSE,Holy Cross,66,Crusaders,Holy Cross Crusaders,Holy Cross
-401513663,2023-03-12,4,161,home,FALSE,Fairleigh Dickinson,60,Knights,Fairleigh Dickinson Knights,Fair Dickinson
-401513663,2023-03-12,4,2529,away,FALSE,Sacred Heart,72,Pioneers,Sacred Heart Pioneers,Sacred Heart
-401519429,2023-03-12,4,119,home,FALSE,Towson,55,Tigers,Towson Tigers,Towson
-401519429,2023-03-12,4,2405,away,FALSE,Monmouth,80,Hawks,Monmouth Hawks,Monmouth
-401513656,2023-03-12,4,2057,home,TRUE,Belmont,71,Bruins,Belmont Bruins,Belmont
-401513656,2023-03-12,4,2181,away,TRUE,Drake,89,Bulldogs,Drake Bulldogs,Drake
-401513482,2023-03-12,4,251,home,TRUE,Texas,51,Longhorns,Texas Longhorns,Texas
-401513482,2023-03-12,4,66,away,TRUE,Iowa State,61,Cyclones,Iowa State Cyclones,Iowa State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401519461,2023,regular-season,2023-03-12,4,104,home,FALSE,Boston University,61,Terriers,Boston University Terriers,Boston U
+401519461,2023,regular-season,2023-03-12,4,107,away,FALSE,Holy Cross,66,Crusaders,Holy Cross Crusaders,Holy Cross
+401513663,2023,regular-season,2023-03-12,4,161,home,FALSE,Fairleigh Dickinson,60,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+401513663,2023,regular-season,2023-03-12,4,2529,away,FALSE,Sacred Heart,72,Pioneers,Sacred Heart Pioneers,Sacred Heart
+401519429,2023,regular-season,2023-03-12,4,119,home,FALSE,Towson,55,Tigers,Towson Tigers,Towson
+401519429,2023,regular-season,2023-03-12,4,2405,away,FALSE,Monmouth,80,Hawks,Monmouth Hawks,Monmouth
+401513656,2023,regular-season,2023-03-12,4,2057,home,TRUE,Belmont,71,Bruins,Belmont Bruins,Belmont
+401513656,2023,regular-season,2023-03-12,4,2181,away,TRUE,Drake,89,Bulldogs,Drake Bulldogs,Drake
+401513482,2023,regular-season,2023-03-12,4,251,home,TRUE,Texas,51,Longhorns,Texas Longhorns,Texas
+401513482,2023,regular-season,2023-03-12,4,66,away,TRUE,Iowa State,61,Cyclones,Iowa State Cyclones,Iowa State

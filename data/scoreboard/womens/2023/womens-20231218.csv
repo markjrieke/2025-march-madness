@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401606634,2023-12-18,4,194,home,FALSE,Ohio State,71,Buckeyes,Ohio State Buckeyes,Ohio State
-401606634,2023-12-18,4,26,away,FALSE,UCLA,77,Bruins,UCLA Bruins,UCLA
-401598400,2023-12-18,4,30,home,FALSE,USC,93,Trojans,USC Trojans,USC
-401598400,2023-12-18,4,2239,away,FALSE,Cal State Fullerton,44,Titans,Cal State Fullerton Titans,Fullerton
-401582221,2023-12-18,4,2306,home,FALSE,Kansas State,102,Wildcats,Kansas State Wildcats,Kansas St
-401582221,2023-12-18,4,198,away,FALSE,Oral Roberts,59,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-401595083,2023-12-18,4,84,home,FALSE,Indiana,109,Hoosiers,Indiana Hoosiers,Indiana
-401595083,2023-12-18,4,339,away,FALSE,Evansville,56,Purple Aces,Evansville Purple Aces,Evansville
-401604594,2023-12-18,4,41,home,FALSE,UConn,88,Huskies,UConn Huskies,UConn
-401604594,2023-12-18,4,2086,away,FALSE,Butler,62,Bulldogs,Butler Bulldogs,Butler
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401606634,2024,regular-season,2023-12-18,4,194,home,FALSE,Ohio State,71,Buckeyes,Ohio State Buckeyes,Ohio State
+401606634,2024,regular-season,2023-12-18,4,26,away,FALSE,UCLA,77,Bruins,UCLA Bruins,UCLA
+401598400,2024,regular-season,2023-12-18,4,30,home,FALSE,USC,93,Trojans,USC Trojans,USC
+401598400,2024,regular-season,2023-12-18,4,2239,away,FALSE,Cal State Fullerton,44,Titans,Cal State Fullerton Titans,Fullerton
+401582221,2024,regular-season,2023-12-18,4,2306,home,FALSE,Kansas State,102,Wildcats,Kansas State Wildcats,Kansas St
+401582221,2024,regular-season,2023-12-18,4,198,away,FALSE,Oral Roberts,59,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+401595083,2024,regular-season,2023-12-18,4,84,home,FALSE,Indiana,109,Hoosiers,Indiana Hoosiers,Indiana
+401595083,2024,regular-season,2023-12-18,4,339,away,FALSE,Evansville,56,Purple Aces,Evansville Purple Aces,Evansville
+401604594,2024,regular-season,2023-12-18,4,41,home,FALSE,UConn,88,Huskies,UConn Huskies,UConn
+401604594,2024,regular-season,2023-12-18,4,2086,away,FALSE,Butler,62,Bulldogs,Butler Bulldogs,Butler

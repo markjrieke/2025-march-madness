@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401169817,2019-11-12,2,96,home,FALSE,Kentucky,64,Wildcats,Kentucky Wildcats,Kentucky
-401169817,2019-11-12,2,339,away,FALSE,Evansville,67,Purple Aces,Evansville Purple Aces,Evansville
-401175210,2019-11-12,2,2250,home,FALSE,Gonzaga,97,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401175210,2019-11-12,2,155,away,FALSE,North Dakota,66,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
-401173654,2019-11-12,2,328,home,FALSE,Utah State,97,Aggies,Utah State Aggies,Utah State
-401173654,2019-11-12,2,2172,away,FALSE,Denver,56,Pioneers,Denver Pioneers,Denver
-401170570,2019-11-12,2,264,home,FALSE,Washington,56,Huskies,Washington Huskies,Washington
-401170570,2019-11-12,2,116,away,FALSE,Mount St. Mary's,46,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-401169789,2019-11-12,3,2752,home,FALSE,Xavier,63,Musketeers,Xavier Musketeers,Xavier
-401169789,2019-11-12,3,142,away,FALSE,Missouri,58,Tigers,Missouri Tigers,Missouri
-401169820,2019-11-12,2,6,home,FALSE,South Alabama,69,Jaguars,South Alabama Jaguars,South Alabama
-401169820,2019-11-12,2,2,away,FALSE,Auburn,70,Tigers,Auburn Tigers,Auburn
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401169817,2020,regular-season,2019-11-12,2,96,home,FALSE,Kentucky,64,Wildcats,Kentucky Wildcats,Kentucky
+401169817,2020,regular-season,2019-11-12,2,339,away,FALSE,Evansville,67,Purple Aces,Evansville Purple Aces,Evansville
+401175210,2020,regular-season,2019-11-12,2,2250,home,FALSE,Gonzaga,97,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401175210,2020,regular-season,2019-11-12,2,155,away,FALSE,North Dakota,66,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
+401173654,2020,regular-season,2019-11-12,2,328,home,FALSE,Utah State,97,Aggies,Utah State Aggies,Utah State
+401173654,2020,regular-season,2019-11-12,2,2172,away,FALSE,Denver,56,Pioneers,Denver Pioneers,Denver
+401170570,2020,regular-season,2019-11-12,2,264,home,FALSE,Washington,56,Huskies,Washington Huskies,Washington
+401170570,2020,regular-season,2019-11-12,2,116,away,FALSE,Mount St. Mary's,46,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+401169789,2020,regular-season,2019-11-12,3,2752,home,FALSE,Xavier,63,Musketeers,Xavier Musketeers,Xavier
+401169789,2020,regular-season,2019-11-12,3,142,away,FALSE,Missouri,58,Tigers,Missouri Tigers,Missouri
+401169820,2020,regular-season,2019-11-12,2,6,home,FALSE,South Alabama,69,Jaguars,South Alabama Jaguars,South Alabama
+401169820,2020,regular-season,2019-11-12,2,2,away,FALSE,Auburn,70,Tigers,Auburn Tigers,Auburn

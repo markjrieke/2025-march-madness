@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260190238,2006-01-19,2,238,home,FALSE,Vanderbilt,68,Commodores,Vanderbilt Commodores,Vanderbilt
-260190238,2006-01-19,2,2633,away,FALSE,Tennessee,80,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-260190150,2006-01-19,2,150,home,FALSE,Duke,77,Blue Devils,Duke Blue Devils,Duke
-260190150,2006-01-19,2,152,away,FALSE,NC State,57,Wolfpack,NC State Wolfpack,NC State
-260190099,2006-01-19,2,99,home,FALSE,LSU,79,Tigers,LSU Tigers,LSU
-260190099,2006-01-19,2,333,away,FALSE,Alabama,43,Crimson Tide,Alabama Crimson Tide,Alabama
-260190194,2006-01-19,2,194,home,FALSE,Ohio State,60,Buckeyes,Ohio State Buckeyes,Ohio State
-260190194,2006-01-19,2,84,away,FALSE,Indiana,50,Hoosiers,Indiana Hoosiers,Indiana
-260190164,2006-01-19,2,164,home,FALSE,Rutgers,47,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-260190164,2006-01-19,2,218,away,FALSE,Temple,48,Owls,Temple Owls,Temple
-260192509,2006-01-19,2,2509,home,FALSE,Purdue,70,Boilermakers,Purdue Boilermakers,Purdue
-260192509,2006-01-19,2,213,away,FALSE,Penn State,56,Lady Lions,Penn State Lady Lions,Penn State
-260190127,2006-01-19,2,127,home,FALSE,Michigan State,72,Spartans,Michigan State Spartans,Michigan St
-260190127,2006-01-19,2,356,away,FALSE,Illinois,61,Fighting Illini,Illinois Fighting Illini,Illinois
-260190061,2006-01-19,2,61,home,FALSE,Georgia,81,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-260190061,2006-01-19,2,344,away,FALSE,Mississippi State,42,Bulldogs,Mississippi State Bulldogs,Mississippi St
-260190024,2006-01-19,2,24,home,FALSE,Stanford,82,Cardinal,Stanford Cardinal,Stanford
-260190024,2006-01-19,2,12,away,FALSE,Arizona,51,Wildcats,Arizona Wildcats,Arizona
-260190025,2006-01-19,2,25,home,FALSE,California,66,Golden Bears,California Golden Bears,California
-260190025,2006-01-19,2,9,away,FALSE,Arizona State,64,Sun Devils,Arizona State Sun Devils,Arizona St
-260190130,2006-01-19,2,130,home,FALSE,Michigan,57,Wolverines,Michigan Wolverines,Michigan
-260190130,2006-01-19,2,135,away,FALSE,Minnesota,85,Golden Gophers,Minnesota Golden Gophers,Minnesota
-260190154,2006-01-19,3,154,home,FALSE,Wake Forest,77,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-260190154,2006-01-19,3,259,away,FALSE,Virginia Tech,71,Hokies,Virginia Tech Hokies,Virginia Tech
-260192390,2006-01-19,2,2390,home,FALSE,Miami,82,Hurricanes,Miami Hurricanes,Miami
-260192390,2006-01-19,2,103,away,FALSE,Boston College,68,Eagles,Boston College Eagles,Boston College
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260190238,2006,regular-season,2006-01-19,2,238,home,FALSE,Vanderbilt,68,Commodores,Vanderbilt Commodores,Vanderbilt
+260190238,2006,regular-season,2006-01-19,2,2633,away,FALSE,Tennessee,80,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+260190150,2006,regular-season,2006-01-19,2,150,home,FALSE,Duke,77,Blue Devils,Duke Blue Devils,Duke
+260190150,2006,regular-season,2006-01-19,2,152,away,FALSE,NC State,57,Wolfpack,NC State Wolfpack,NC State
+260190099,2006,regular-season,2006-01-19,2,99,home,FALSE,LSU,79,Tigers,LSU Tigers,LSU
+260190099,2006,regular-season,2006-01-19,2,333,away,FALSE,Alabama,43,Crimson Tide,Alabama Crimson Tide,Alabama
+260190194,2006,regular-season,2006-01-19,2,194,home,FALSE,Ohio State,60,Buckeyes,Ohio State Buckeyes,Ohio State
+260190194,2006,regular-season,2006-01-19,2,84,away,FALSE,Indiana,50,Hoosiers,Indiana Hoosiers,Indiana
+260190164,2006,regular-season,2006-01-19,2,164,home,FALSE,Rutgers,47,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+260190164,2006,regular-season,2006-01-19,2,218,away,FALSE,Temple,48,Owls,Temple Owls,Temple
+260192509,2006,regular-season,2006-01-19,2,2509,home,FALSE,Purdue,70,Boilermakers,Purdue Boilermakers,Purdue
+260192509,2006,regular-season,2006-01-19,2,213,away,FALSE,Penn State,56,Lady Lions,Penn State Lady Lions,Penn State
+260190127,2006,regular-season,2006-01-19,2,127,home,FALSE,Michigan State,72,Spartans,Michigan State Spartans,Michigan St
+260190127,2006,regular-season,2006-01-19,2,356,away,FALSE,Illinois,61,Fighting Illini,Illinois Fighting Illini,Illinois
+260190061,2006,regular-season,2006-01-19,2,61,home,FALSE,Georgia,81,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+260190061,2006,regular-season,2006-01-19,2,344,away,FALSE,Mississippi State,42,Bulldogs,Mississippi State Bulldogs,Mississippi St
+260190024,2006,regular-season,2006-01-19,2,24,home,FALSE,Stanford,82,Cardinal,Stanford Cardinal,Stanford
+260190024,2006,regular-season,2006-01-19,2,12,away,FALSE,Arizona,51,Wildcats,Arizona Wildcats,Arizona
+260190025,2006,regular-season,2006-01-19,2,25,home,FALSE,California,66,Golden Bears,California Golden Bears,California
+260190025,2006,regular-season,2006-01-19,2,9,away,FALSE,Arizona State,64,Sun Devils,Arizona State Sun Devils,Arizona St
+260190130,2006,regular-season,2006-01-19,2,130,home,FALSE,Michigan,57,Wolverines,Michigan Wolverines,Michigan
+260190130,2006,regular-season,2006-01-19,2,135,away,FALSE,Minnesota,85,Golden Gophers,Minnesota Golden Gophers,Minnesota
+260190154,2006,regular-season,2006-01-19,3,154,home,FALSE,Wake Forest,77,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+260190154,2006,regular-season,2006-01-19,3,259,away,FALSE,Virginia Tech,71,Hokies,Virginia Tech Hokies,Virginia Tech
+260192390,2006,regular-season,2006-01-19,2,2390,home,FALSE,Miami,82,Hurricanes,Miami Hurricanes,Miami
+260192390,2006,regular-season,2006-01-19,2,103,away,FALSE,Boston College,68,Eagles,Boston College Eagles,Boston College

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400919660,2016-12-29,2,2599,home,FALSE,St. John's,76,Red Storm,St. John's Red Storm,St John's
-400919660,2016-12-29,2,2086,away,FALSE,Butler,73,Bulldogs,Butler Bulldogs,Butler
-400915808,2016-12-29,2,2351,home,FALSE,Loyola Marymount,60,Lions,Loyola Marymount Lions,LMU
-400915808,2016-12-29,2,2608,away,FALSE,Saint Mary's,72,Gaels,Saint Mary's Gaels,Saint Mary's
-400910587,2016-12-29,2,8,home,FALSE,Arkansas,72,Razorbacks,Arkansas Razorbacks,Arkansas
-400910587,2016-12-29,2,57,away,FALSE,Florida,81,Gators,Florida Gators,Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400919660,2017,regular-season,2016-12-29,2,2599,home,FALSE,St. John's,76,Red Storm,St. John's Red Storm,St John's
+400919660,2017,regular-season,2016-12-29,2,2086,away,FALSE,Butler,73,Bulldogs,Butler Bulldogs,Butler
+400915808,2017,regular-season,2016-12-29,2,2351,home,FALSE,Loyola Marymount,60,Lions,Loyola Marymount Lions,LMU
+400915808,2017,regular-season,2016-12-29,2,2608,away,FALSE,Saint Mary's,72,Gaels,Saint Mary's Gaels,Saint Mary's
+400910587,2017,regular-season,2016-12-29,2,8,home,FALSE,Arkansas,72,Razorbacks,Arkansas Razorbacks,Arkansas
+400910587,2017,regular-season,2016-12-29,2,57,away,FALSE,Florida,81,Gators,Florida Gators,Florida

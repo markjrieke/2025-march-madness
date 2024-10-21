@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401369330,2021-11-09,4,152,home,FALSE,NC State,57,Wolfpack,NC State Wolfpack,NC State
-401369330,2021-11-09,4,2579,away,FALSE,South Carolina,66,Gamecocks,South Carolina Gamecocks,South Carolina
-401380643,2021-11-09,4,120,home,FALSE,Maryland,97,Terrapins,Maryland Terrapins,Maryland
-401380643,2021-11-09,4,2344,away,FALSE,Longwood,67,Lancers,Longwood Lancers,Longwood
-401376923,2021-11-09,4,239,home,FALSE,Baylor,77,Bears,Baylor Bears,Baylor
-401376923,2021-11-09,4,326,away,FALSE,Texas State,70,Bobcats,Texas State Bobcats,Texas St
-401374042,2021-11-09,4,2294,home,FALSE,Iowa,93,Hawkeyes,Iowa Hawkeyes,Iowa
-401374042,2021-11-09,4,160,away,FALSE,New Hampshire,50,Wildcats,New Hampshire Wildcats,New Hampshire
-401374534,2021-11-09,4,2483,home,FALSE,Oregon,91,Ducks,Oregon Ducks,Oregon
-401374534,2021-11-09,4,304,away,FALSE,Idaho State,34,Bengals,Idaho State Bengals,Idaho St
-401375950,2021-11-09,5,130,home,FALSE,Michigan,67,Wolverines,Michigan Wolverines,Michigan
-401375950,2021-11-09,5,85,away,FALSE,IU Indianapolis,62,Jaguars,IU Indianapolis Jaguars,IU Indy
-401375466,2021-11-09,4,66,home,FALSE,Iowa State,65,Cyclones,Iowa State Cyclones,Iowa State
-401375466,2021-11-09,4,2437,away,FALSE,Omaha,38,Mavericks,Omaha Mavericks,Omaha
-401375870,2021-11-09,4,96,home,FALSE,Kentucky,81,Wildcats,Kentucky Wildcats,Kentucky
-401375870,2021-11-09,4,2506,away,FALSE,Presbyterian,53,Blue Hose,Presbyterian Blue Hose,Presbyterian
-401369334,2021-11-09,4,52,home,FALSE,Florida State,78,Seminoles,Florida State Seminoles,Florida St
-401369334,2021-11-09,4,2454,away,FALSE,North Florida,50,Ospreys,North Florida Ospreys,North Florida
-401369335,2021-11-09,4,2117,home,FALSE,Central Michigan,40,Chippewas,Central Michigan Chippewas,C Michigan
-401369335,2021-11-09,4,59,away,FALSE,Georgia Tech,74,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-401375633,2021-11-09,4,58,home,FALSE,South Florida,63,Bulls,South Florida Bulls,South Florida
-401375633,2021-11-09,4,292,away,FALSE,UT Rio Grande Valley,56,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-401384238,2021-11-09,4,12,home,FALSE,Arizona,87,Wildcats,Arizona Wildcats,Arizona
-401384238,2021-11-09,4,2463,away,FALSE,Cal State Northridge,44,Matadors,Cal State Northridge Matadors,CSU Northridge
-401365970,2021-11-09,4,245,home,FALSE,Texas A&M,87,Aggies,Texas A&M Aggies,Texas A&M
-401365970,2021-11-09,4,357,away,FALSE,Texas A&M-Corpus Christi,54,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-401369339,2021-11-09,4,259,home,FALSE,Virginia Tech,76,Hokies,Virginia Tech Hokies,Virginia Tech
-401369339,2021-11-09,4,2166,away,FALSE,Davidson,57,Wildcats,Davidson Wildcats,Davidson
-401375344,2021-11-09,4,251,home,FALSE,Texas,131,Longhorns,Texas Longhorns,Texas
-401375344,2021-11-09,4,2443,away,FALSE,New Orleans,36,Privateers,New Orleans Privateers,New Orleans
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401369330,2022,regular-season,2021-11-09,4,152,home,FALSE,NC State,57,Wolfpack,NC State Wolfpack,NC State
+401369330,2022,regular-season,2021-11-09,4,2579,away,FALSE,South Carolina,66,Gamecocks,South Carolina Gamecocks,South Carolina
+401380643,2022,regular-season,2021-11-09,4,120,home,FALSE,Maryland,97,Terrapins,Maryland Terrapins,Maryland
+401380643,2022,regular-season,2021-11-09,4,2344,away,FALSE,Longwood,67,Lancers,Longwood Lancers,Longwood
+401376923,2022,regular-season,2021-11-09,4,239,home,FALSE,Baylor,77,Bears,Baylor Bears,Baylor
+401376923,2022,regular-season,2021-11-09,4,326,away,FALSE,Texas State,70,Bobcats,Texas State Bobcats,Texas St
+401374042,2022,regular-season,2021-11-09,4,2294,home,FALSE,Iowa,93,Hawkeyes,Iowa Hawkeyes,Iowa
+401374042,2022,regular-season,2021-11-09,4,160,away,FALSE,New Hampshire,50,Wildcats,New Hampshire Wildcats,New Hampshire
+401374534,2022,regular-season,2021-11-09,4,2483,home,FALSE,Oregon,91,Ducks,Oregon Ducks,Oregon
+401374534,2022,regular-season,2021-11-09,4,304,away,FALSE,Idaho State,34,Bengals,Idaho State Bengals,Idaho St
+401375950,2022,regular-season,2021-11-09,5,130,home,FALSE,Michigan,67,Wolverines,Michigan Wolverines,Michigan
+401375950,2022,regular-season,2021-11-09,5,85,away,FALSE,IU Indianapolis,62,Jaguars,IU Indianapolis Jaguars,IU Indy
+401375466,2022,regular-season,2021-11-09,4,66,home,FALSE,Iowa State,65,Cyclones,Iowa State Cyclones,Iowa State
+401375466,2022,regular-season,2021-11-09,4,2437,away,FALSE,Omaha,38,Mavericks,Omaha Mavericks,Omaha
+401375870,2022,regular-season,2021-11-09,4,96,home,FALSE,Kentucky,81,Wildcats,Kentucky Wildcats,Kentucky
+401375870,2022,regular-season,2021-11-09,4,2506,away,FALSE,Presbyterian,53,Blue Hose,Presbyterian Blue Hose,Presbyterian
+401369334,2022,regular-season,2021-11-09,4,52,home,FALSE,Florida State,78,Seminoles,Florida State Seminoles,Florida St
+401369334,2022,regular-season,2021-11-09,4,2454,away,FALSE,North Florida,50,Ospreys,North Florida Ospreys,North Florida
+401369335,2022,regular-season,2021-11-09,4,2117,home,FALSE,Central Michigan,40,Chippewas,Central Michigan Chippewas,C Michigan
+401369335,2022,regular-season,2021-11-09,4,59,away,FALSE,Georgia Tech,74,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+401375633,2022,regular-season,2021-11-09,4,58,home,FALSE,South Florida,63,Bulls,South Florida Bulls,South Florida
+401375633,2022,regular-season,2021-11-09,4,292,away,FALSE,UT Rio Grande Valley,56,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+401384238,2022,regular-season,2021-11-09,4,12,home,FALSE,Arizona,87,Wildcats,Arizona Wildcats,Arizona
+401384238,2022,regular-season,2021-11-09,4,2463,away,FALSE,Cal State Northridge,44,Matadors,Cal State Northridge Matadors,CSU Northridge
+401365970,2022,regular-season,2021-11-09,4,245,home,FALSE,Texas A&M,87,Aggies,Texas A&M Aggies,Texas A&M
+401365970,2022,regular-season,2021-11-09,4,357,away,FALSE,Texas A&M-Corpus Christi,54,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+401369339,2022,regular-season,2021-11-09,4,259,home,FALSE,Virginia Tech,76,Hokies,Virginia Tech Hokies,Virginia Tech
+401369339,2022,regular-season,2021-11-09,4,2166,away,FALSE,Davidson,57,Wildcats,Davidson Wildcats,Davidson
+401375344,2022,regular-season,2021-11-09,4,251,home,FALSE,Texas,131,Longhorns,Texas Longhorns,Texas
+401375344,2022,regular-season,2021-11-09,4,2443,away,FALSE,New Orleans,36,Privateers,New Orleans Privateers,New Orleans

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400505525,2013-12-10,2,96,home,FALSE,Kentucky,70,Wildcats,Kentucky Wildcats,Kentucky
-400505525,2013-12-10,2,68,away,FALSE,Boise State,55,Broncos,Boise State Broncos,Boise St
-400498299,2013-12-10,2,57,home,FALSE,Florida,67,Gators,Florida Gators,Florida
-400498299,2013-12-10,2,2305,away,FALSE,Kansas,61,Jayhawks,Kansas Jayhawks,Kansas
-400498297,2013-12-10,2,277,home,FALSE,West Virginia,76,Mountaineers,West Virginia Mountaineers,West Virginia
-400498297,2013-12-10,2,2250,away,FALSE,Gonzaga,80,Bulldogs,Gonzaga Bulldogs,Gonzaga
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400505525,2014,regular-season,2013-12-10,2,96,home,FALSE,Kentucky,70,Wildcats,Kentucky Wildcats,Kentucky
+400505525,2014,regular-season,2013-12-10,2,68,away,FALSE,Boise State,55,Broncos,Boise State Broncos,Boise St
+400498299,2014,regular-season,2013-12-10,2,57,home,FALSE,Florida,67,Gators,Florida Gators,Florida
+400498299,2014,regular-season,2013-12-10,2,2305,away,FALSE,Kansas,61,Jayhawks,Kansas Jayhawks,Kansas
+400498297,2014,regular-season,2013-12-10,2,277,home,FALSE,West Virginia,76,Mountaineers,West Virginia Mountaineers,West Virginia
+400498297,2014,regular-season,2013-12-10,2,2250,away,FALSE,Gonzaga,80,Bulldogs,Gonzaga Bulldogs,Gonzaga

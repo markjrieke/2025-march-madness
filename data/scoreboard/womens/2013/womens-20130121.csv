@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330210041,2013-01-21,2,41,home,FALSE,UConn,79,Huskies,UConn Huskies,UConn
-330210041,2013-01-21,2,150,away,FALSE,Duke,49,Blue Devils,Duke Blue Devils,Duke
-330210130,2013-01-21,2,130,home,FALSE,Michigan,49,Wolverines,Michigan Wolverines,Michigan
-330210130,2013-01-21,2,213,away,FALSE,Penn State,59,Lady Lions,Penn State Lady Lions,Penn State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330210041,2013,regular-season,2013-01-21,2,41,home,FALSE,UConn,79,Huskies,UConn Huskies,UConn
+330210041,2013,regular-season,2013-01-21,2,150,away,FALSE,Duke,49,Blue Devils,Duke Blue Devils,Duke
+330210130,2013,regular-season,2013-01-21,2,130,home,FALSE,Michigan,49,Wolverines,Michigan Wolverines,Michigan
+330210130,2013,regular-season,2013-01-21,2,213,away,FALSE,Penn State,59,Lady Lions,Penn State Lady Lions,Penn State

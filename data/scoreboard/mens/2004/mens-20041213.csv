@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243480218,2004-12-13,2,218,home,FALSE,Temple,64,Owls,Temple Owls,Temple
-243480218,2004-12-13,2,154,away,FALSE,Wake Forest,67,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-243482443,2004-12-13,2,2443,home,FALSE,New Orleans,59,Privateers,New Orleans Privateers,New Orleans
-243482443,2004-12-13,2,344,away,FALSE,Mississippi State,74,Bulldogs,Mississippi State Bulldogs,Mississippi St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243480218,2005,regular-season,2004-12-13,2,218,home,FALSE,Temple,64,Owls,Temple Owls,Temple
+243480218,2005,regular-season,2004-12-13,2,154,away,FALSE,Wake Forest,67,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+243482443,2005,regular-season,2004-12-13,2,2443,home,FALSE,New Orleans,59,Privateers,New Orleans Privateers,New Orleans
+243482443,2005,regular-season,2004-12-13,2,344,away,FALSE,Mississippi State,74,Bulldogs,Mississippi State Bulldogs,Mississippi St

@@ -1,39 +1,39 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303520194,2010-12-18,2,194,home,FALSE,Ohio State,79,Buckeyes,Ohio State Buckeyes,Ohio State
-303520194,2010-12-18,2,2579,away,FALSE,South Carolina,57,Gamecocks,South Carolina Gamecocks,South Carolina
-303522305,2010-12-18,2,2305,home,FALSE,Kansas,70,Jayhawks,Kansas Jayhawks,Kansas
-303522305,2010-12-18,2,30,away,FALSE,USC,68,Trojans,USC Trojans,USC
-303520183,2010-12-18,2,183,home,FALSE,Syracuse,83,Orange,Syracuse Orange,Syracuse
-303520183,2010-12-18,2,314,away,FALSE,Iona,77,Gaels,Iona Gaels,Iona
-303520057,2010-12-18,2,57,home,TRUE,Florida,57,Gators,Florida Gators,Florida
-303520057,2010-12-18,2,2306,away,TRUE,Kansas State,44,Wildcats,Kansas State Wildcats,Kansas St
-303520221,2010-12-18,2,221,home,FALSE,Pittsburgh,97,Panthers,Pittsburgh Panthers,Pitt
-303520221,2010-12-18,2,2379,away,FALSE,Maryland Eastern Shore,64,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-303520239,2010-12-18,2,239,home,TRUE,Baylor,64,Bears,Baylor Bears,Baylor
-303520239,2010-12-18,2,2250,away,TRUE,Gonzaga,68,Bulldogs,Gonzaga Bulldogs,Gonzaga
-303520222,2010-12-18,2,222,home,FALSE,Villanova,78,Wildcats,Villanova Wildcats,Villanova
-303520222,2010-12-18,2,48,away,FALSE,Delaware,59,Blue Hens,Delaware Blue Hens,Delaware
-303520021,2010-12-18,2,21,home,FALSE,San Diego State,90,Aztecs,San Diego State Aztecs,San Diego St
-303520021,2010-12-18,2,2540,away,FALSE,UC Santa Barbara,64,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-303520082,2010-12-18,2,82,home,TRUE,UIC,57,Flames,UIC Flames,UIC
-303520082,2010-12-18,2,356,away,TRUE,Illinois,54,Fighting Illini,Illinois Fighting Illini,Illinois
-303520142,2010-12-18,2,142,home,FALSE,Missouri,116,Tigers,Missouri Tigers,Missouri
-303520142,2010-12-18,2,2110,away,FALSE,Central Arkansas,63,Bears,Central Arkansas Bears,C Arkansas
-303520127,2010-12-18,2,127,home,FALSE,Michigan State,90,Spartans,Michigan State Spartans,Michigan St
-303520127,2010-12-18,2,2504,away,FALSE,Prairie View A&M,51,Panthers,Prairie View A&M Panthers,Prairie View
-303520046,2010-12-18,2,46,home,FALSE,Georgetown,99,Hoyas,Georgetown Hoyas,Georgetown
-303520046,2010-12-18,2,2352,away,FALSE,Loyola Maryland,75,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-303520026,2010-12-18,2,26,home,TRUE,UCLA,86,Bruins,UCLA Bruins,UCLA
-303520026,2010-12-18,2,252,away,TRUE,BYU,79,Cougars,BYU Cougars,BYU
-303520096,2010-12-18,2,96,home,FALSE,Kentucky,85,Wildcats,Kentucky Wildcats,Kentucky
-303520096,2010-12-18,2,2400,away,FALSE,Mississippi Valley State,60,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
-303522509,2010-12-18,2,2509,home,TRUE,Purdue,65,Boilermakers,Purdue Boilermakers,Purdue
-303522509,2010-12-18,2,282,away,TRUE,Indiana State,52,Sycamores,Indiana State Sycamores,Indiana St
-303520097,2010-12-18,2,97,home,FALSE,Louisville,78,Cardinals,Louisville Cardinals,Louisville
-303520097,2010-12-18,2,2241,away,FALSE,Gardner-Webb,49,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-303520153,2010-12-18,2,153,home,TRUE,North Carolina,76,Tar Heels,North Carolina Tar Heels,North Carolina
-303520153,2010-12-18,2,251,away,TRUE,Texas,78,Longhorns,Texas Longhorns,Texas
-303522439,2010-12-18,2,2439,home,FALSE,UNLV,72,Rebels,UNLV Rebels,UNLV
-303522439,2010-12-18,2,253,away,FALSE,Southern Utah,50,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
-303520245,2010-12-18,3,245,home,TRUE,Texas A&M,71,Aggies,Texas A&M Aggies,Texas A&M
-303520245,2010-12-18,3,8,away,TRUE,Arkansas,62,Razorbacks,Arkansas Razorbacks,Arkansas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303520194,2011,regular-season,2010-12-18,2,194,home,FALSE,Ohio State,79,Buckeyes,Ohio State Buckeyes,Ohio State
+303520194,2011,regular-season,2010-12-18,2,2579,away,FALSE,South Carolina,57,Gamecocks,South Carolina Gamecocks,South Carolina
+303522305,2011,regular-season,2010-12-18,2,2305,home,FALSE,Kansas,70,Jayhawks,Kansas Jayhawks,Kansas
+303522305,2011,regular-season,2010-12-18,2,30,away,FALSE,USC,68,Trojans,USC Trojans,USC
+303520183,2011,regular-season,2010-12-18,2,183,home,FALSE,Syracuse,83,Orange,Syracuse Orange,Syracuse
+303520183,2011,regular-season,2010-12-18,2,314,away,FALSE,Iona,77,Gaels,Iona Gaels,Iona
+303520057,2011,regular-season,2010-12-18,2,57,home,TRUE,Florida,57,Gators,Florida Gators,Florida
+303520057,2011,regular-season,2010-12-18,2,2306,away,TRUE,Kansas State,44,Wildcats,Kansas State Wildcats,Kansas St
+303520221,2011,regular-season,2010-12-18,2,221,home,FALSE,Pittsburgh,97,Panthers,Pittsburgh Panthers,Pitt
+303520221,2011,regular-season,2010-12-18,2,2379,away,FALSE,Maryland Eastern Shore,64,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+303520239,2011,regular-season,2010-12-18,2,239,home,TRUE,Baylor,64,Bears,Baylor Bears,Baylor
+303520239,2011,regular-season,2010-12-18,2,2250,away,TRUE,Gonzaga,68,Bulldogs,Gonzaga Bulldogs,Gonzaga
+303520222,2011,regular-season,2010-12-18,2,222,home,FALSE,Villanova,78,Wildcats,Villanova Wildcats,Villanova
+303520222,2011,regular-season,2010-12-18,2,48,away,FALSE,Delaware,59,Blue Hens,Delaware Blue Hens,Delaware
+303520021,2011,regular-season,2010-12-18,2,21,home,FALSE,San Diego State,90,Aztecs,San Diego State Aztecs,San Diego St
+303520021,2011,regular-season,2010-12-18,2,2540,away,FALSE,UC Santa Barbara,64,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+303520082,2011,regular-season,2010-12-18,2,82,home,TRUE,UIC,57,Flames,UIC Flames,UIC
+303520082,2011,regular-season,2010-12-18,2,356,away,TRUE,Illinois,54,Fighting Illini,Illinois Fighting Illini,Illinois
+303520142,2011,regular-season,2010-12-18,2,142,home,FALSE,Missouri,116,Tigers,Missouri Tigers,Missouri
+303520142,2011,regular-season,2010-12-18,2,2110,away,FALSE,Central Arkansas,63,Bears,Central Arkansas Bears,C Arkansas
+303520127,2011,regular-season,2010-12-18,2,127,home,FALSE,Michigan State,90,Spartans,Michigan State Spartans,Michigan St
+303520127,2011,regular-season,2010-12-18,2,2504,away,FALSE,Prairie View A&M,51,Panthers,Prairie View A&M Panthers,Prairie View
+303520046,2011,regular-season,2010-12-18,2,46,home,FALSE,Georgetown,99,Hoyas,Georgetown Hoyas,Georgetown
+303520046,2011,regular-season,2010-12-18,2,2352,away,FALSE,Loyola Maryland,75,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+303520026,2011,regular-season,2010-12-18,2,26,home,TRUE,UCLA,86,Bruins,UCLA Bruins,UCLA
+303520026,2011,regular-season,2010-12-18,2,252,away,TRUE,BYU,79,Cougars,BYU Cougars,BYU
+303520096,2011,regular-season,2010-12-18,2,96,home,FALSE,Kentucky,85,Wildcats,Kentucky Wildcats,Kentucky
+303520096,2011,regular-season,2010-12-18,2,2400,away,FALSE,Mississippi Valley State,60,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
+303522509,2011,regular-season,2010-12-18,2,2509,home,TRUE,Purdue,65,Boilermakers,Purdue Boilermakers,Purdue
+303522509,2011,regular-season,2010-12-18,2,282,away,TRUE,Indiana State,52,Sycamores,Indiana State Sycamores,Indiana St
+303520097,2011,regular-season,2010-12-18,2,97,home,FALSE,Louisville,78,Cardinals,Louisville Cardinals,Louisville
+303520097,2011,regular-season,2010-12-18,2,2241,away,FALSE,Gardner-Webb,49,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+303520153,2011,regular-season,2010-12-18,2,153,home,TRUE,North Carolina,76,Tar Heels,North Carolina Tar Heels,North Carolina
+303520153,2011,regular-season,2010-12-18,2,251,away,TRUE,Texas,78,Longhorns,Texas Longhorns,Texas
+303522439,2011,regular-season,2010-12-18,2,2439,home,FALSE,UNLV,72,Rebels,UNLV Rebels,UNLV
+303522439,2011,regular-season,2010-12-18,2,253,away,FALSE,Southern Utah,50,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+303520245,2011,regular-season,2010-12-18,3,245,home,TRUE,Texas A&M,71,Aggies,Texas A&M Aggies,Texas A&M
+303520245,2011,regular-season,2010-12-18,3,8,away,TRUE,Arkansas,62,Razorbacks,Arkansas Razorbacks,Arkansas

@@ -1,35 +1,35 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310082550,2011-01-08,2,2550,home,FALSE,Seton Hall,56,Pirates,Seton Hall Pirates,Seton Hall
-310082550,2011-01-08,2,183,away,FALSE,Syracuse,61,Orange,Syracuse Orange,Syracuse
-310080221,2011-01-08,2,221,home,FALSE,Pittsburgh,89,Panthers,Pittsburgh Panthers,Pitt
-310080221,2011-01-08,2,269,away,FALSE,Marquette,81,Golden Eagles,Marquette Golden Eagles,Marquette
-310080254,2011-01-08,2,254,home,FALSE,Utah,62,Utes,Utah Utes,Utah
-310080254,2011-01-08,2,21,away,FALSE,San Diego State,71,Aztecs,San Diego State Aztecs,San Diego St
-310080251,2011-01-08,3,251,home,FALSE,Texas,81,Longhorns,Texas Longhorns,Texas
-310080251,2011-01-08,3,41,away,FALSE,UConn,82,Huskies,UConn Huskies,UConn
-310080038,2011-01-08,2,38,home,FALSE,Colorado,89,Buffaloes,Colorado Buffaloes,Colorado
-310080038,2011-01-08,2,142,away,FALSE,Missouri,76,Tigers,Missouri Tigers,Missouri
-310080061,2011-01-08,2,61,home,FALSE,Georgia,77,Bulldogs,Georgia Bulldogs,Georgia
-310080061,2011-01-08,2,96,away,FALSE,Kentucky,70,Wildcats,Kentucky Wildcats,Kentucky
-310080046,2011-01-08,2,46,home,FALSE,Georgetown,59,Hoyas,Georgetown Hoyas,Georgetown
-310080046,2011-01-08,2,277,away,FALSE,West Virginia,65,Mountaineers,West Virginia Mountaineers,West Virginia
-310080087,2011-01-08,2,87,home,FALSE,Notre Dame,76,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-310080087,2011-01-08,2,2599,away,FALSE,St. John's,61,Red Storm,St. John's Red Storm,St John's
-310080252,2011-01-08,2,252,home,FALSE,BYU,76,Cougars,BYU Cougars,BYU
-310080252,2011-01-08,2,2005,away,FALSE,Air Force,66,Falcons,Air Force Falcons,Air Force
-310080201,2011-01-08,2,201,home,FALSE,Oklahoma,51,Sooners,Oklahoma Sooners,Oklahoma
-310080201,2011-01-08,2,245,away,FALSE,Texas A&M,69,Aggies,Texas A&M Aggies,Texas A&M
-310080197,2011-01-08,2,197,home,FALSE,Oklahoma State,76,Cowboys,Oklahoma State Cowboys,Oklahoma St
-310080197,2011-01-08,2,2306,away,FALSE,Kansas State,62,Wildcats,Kansas State Wildcats,Kansas St
-310080213,2011-01-08,2,213,home,FALSE,Penn State,66,Nittany Lions,Penn State Nittany Lions,Penn State
-310080213,2011-01-08,2,127,away,FALSE,Michigan State,62,Spartans,Michigan State Spartans,Michigan St
-310080248,2011-01-08,2,248,home,FALSE,Houston,76,Cougars,Houston Cougars,Houston
-310080248,2011-01-08,2,2116,away,FALSE,UCF,71,Knights,UCF Knights,UCF
-310080235,2011-01-08,2,235,home,FALSE,Memphis,61,Tigers,Memphis Tigers,Memphis
-310080235,2011-01-08,2,151,away,FALSE,East Carolina,58,Pirates,East Carolina Pirates,East Carolina
-310082579,2011-01-08,3,2579,home,FALSE,South Carolina,83,Gamecocks,South Carolina Gamecocks,South Carolina
-310082579,2011-01-08,3,238,away,FALSE,Vanderbilt,75,Commodores,Vanderbilt Commodores,Vanderbilt
-310080264,2011-01-08,2,264,home,FALSE,Washington,103,Huskies,Washington Huskies,Washington
-310080264,2011-01-08,2,204,away,FALSE,Oregon State,72,Beavers,Oregon State Beavers,Oregon St
-310082439,2011-01-08,2,2439,home,FALSE,UNLV,83,Rebels,UNLV Rebels,UNLV
-310082439,2011-01-08,2,2628,away,FALSE,TCU,49,Horned Frogs,TCU Horned Frogs,TCU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310082550,2011,regular-season,2011-01-08,2,2550,home,FALSE,Seton Hall,56,Pirates,Seton Hall Pirates,Seton Hall
+310082550,2011,regular-season,2011-01-08,2,183,away,FALSE,Syracuse,61,Orange,Syracuse Orange,Syracuse
+310080221,2011,regular-season,2011-01-08,2,221,home,FALSE,Pittsburgh,89,Panthers,Pittsburgh Panthers,Pitt
+310080221,2011,regular-season,2011-01-08,2,269,away,FALSE,Marquette,81,Golden Eagles,Marquette Golden Eagles,Marquette
+310080254,2011,regular-season,2011-01-08,2,254,home,FALSE,Utah,62,Utes,Utah Utes,Utah
+310080254,2011,regular-season,2011-01-08,2,21,away,FALSE,San Diego State,71,Aztecs,San Diego State Aztecs,San Diego St
+310080251,2011,regular-season,2011-01-08,3,251,home,FALSE,Texas,81,Longhorns,Texas Longhorns,Texas
+310080251,2011,regular-season,2011-01-08,3,41,away,FALSE,UConn,82,Huskies,UConn Huskies,UConn
+310080038,2011,regular-season,2011-01-08,2,38,home,FALSE,Colorado,89,Buffaloes,Colorado Buffaloes,Colorado
+310080038,2011,regular-season,2011-01-08,2,142,away,FALSE,Missouri,76,Tigers,Missouri Tigers,Missouri
+310080061,2011,regular-season,2011-01-08,2,61,home,FALSE,Georgia,77,Bulldogs,Georgia Bulldogs,Georgia
+310080061,2011,regular-season,2011-01-08,2,96,away,FALSE,Kentucky,70,Wildcats,Kentucky Wildcats,Kentucky
+310080046,2011,regular-season,2011-01-08,2,46,home,FALSE,Georgetown,59,Hoyas,Georgetown Hoyas,Georgetown
+310080046,2011,regular-season,2011-01-08,2,277,away,FALSE,West Virginia,65,Mountaineers,West Virginia Mountaineers,West Virginia
+310080087,2011,regular-season,2011-01-08,2,87,home,FALSE,Notre Dame,76,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+310080087,2011,regular-season,2011-01-08,2,2599,away,FALSE,St. John's,61,Red Storm,St. John's Red Storm,St John's
+310080252,2011,regular-season,2011-01-08,2,252,home,FALSE,BYU,76,Cougars,BYU Cougars,BYU
+310080252,2011,regular-season,2011-01-08,2,2005,away,FALSE,Air Force,66,Falcons,Air Force Falcons,Air Force
+310080201,2011,regular-season,2011-01-08,2,201,home,FALSE,Oklahoma,51,Sooners,Oklahoma Sooners,Oklahoma
+310080201,2011,regular-season,2011-01-08,2,245,away,FALSE,Texas A&M,69,Aggies,Texas A&M Aggies,Texas A&M
+310080197,2011,regular-season,2011-01-08,2,197,home,FALSE,Oklahoma State,76,Cowboys,Oklahoma State Cowboys,Oklahoma St
+310080197,2011,regular-season,2011-01-08,2,2306,away,FALSE,Kansas State,62,Wildcats,Kansas State Wildcats,Kansas St
+310080213,2011,regular-season,2011-01-08,2,213,home,FALSE,Penn State,66,Nittany Lions,Penn State Nittany Lions,Penn State
+310080213,2011,regular-season,2011-01-08,2,127,away,FALSE,Michigan State,62,Spartans,Michigan State Spartans,Michigan St
+310080248,2011,regular-season,2011-01-08,2,248,home,FALSE,Houston,76,Cougars,Houston Cougars,Houston
+310080248,2011,regular-season,2011-01-08,2,2116,away,FALSE,UCF,71,Knights,UCF Knights,UCF
+310080235,2011,regular-season,2011-01-08,2,235,home,FALSE,Memphis,61,Tigers,Memphis Tigers,Memphis
+310080235,2011,regular-season,2011-01-08,2,151,away,FALSE,East Carolina,58,Pirates,East Carolina Pirates,East Carolina
+310082579,2011,regular-season,2011-01-08,3,2579,home,FALSE,South Carolina,83,Gamecocks,South Carolina Gamecocks,South Carolina
+310082579,2011,regular-season,2011-01-08,3,238,away,FALSE,Vanderbilt,75,Commodores,Vanderbilt Commodores,Vanderbilt
+310080264,2011,regular-season,2011-01-08,2,264,home,FALSE,Washington,103,Huskies,Washington Huskies,Washington
+310080264,2011,regular-season,2011-01-08,2,204,away,FALSE,Oregon State,72,Beavers,Oregon State Beavers,Oregon St
+310082439,2011,regular-season,2011-01-08,2,2439,home,FALSE,UNLV,83,Rebels,UNLV Rebels,UNLV
+310082439,2011,regular-season,2011-01-08,2,2628,away,FALSE,TCU,49,Horned Frogs,TCU Horned Frogs,TCU

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330290041,2013-01-29,2,41,home,FALSE,UConn,76,Huskies,UConn Huskies,UConn
-330290041,2013-01-29,2,222,away,FALSE,Villanova,43,Wildcats,Villanova Wildcats,Villanova
-330290197,2013-01-29,2,197,home,FALSE,Oklahoma State,61,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-330290197,2013-01-29,2,277,away,FALSE,West Virginia,67,Mountaineers,West Virginia Mountaineers,West Virginia
-330290048,2013-01-29,2,48,home,FALSE,Delaware,77,Blue Hens,Delaware Blue Hens,Delaware
-330290048,2013-01-29,2,111,away,FALSE,Northeastern,50,Huskies,Northeastern Huskies,Northeastern
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330290041,2013,regular-season,2013-01-29,2,41,home,FALSE,UConn,76,Huskies,UConn Huskies,UConn
+330290041,2013,regular-season,2013-01-29,2,222,away,FALSE,Villanova,43,Wildcats,Villanova Wildcats,Villanova
+330290197,2013,regular-season,2013-01-29,2,197,home,FALSE,Oklahoma State,61,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+330290197,2013,regular-season,2013-01-29,2,277,away,FALSE,West Virginia,67,Mountaineers,West Virginia Mountaineers,West Virginia
+330290048,2013,regular-season,2013-01-29,2,48,home,FALSE,Delaware,77,Blue Hens,Delaware Blue Hens,Delaware
+330290048,2013,regular-season,2013-01-29,2,111,away,FALSE,Northeastern,50,Huskies,Northeastern Huskies,Northeastern

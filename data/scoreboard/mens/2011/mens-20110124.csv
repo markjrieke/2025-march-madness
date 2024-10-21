@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310240221,2011-01-24,2,221,home,FALSE,Pittsburgh,51,Panthers,Pittsburgh Panthers,Pitt
-310240221,2011-01-24,2,87,away,FALSE,Notre Dame,56,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310240221,2011,regular-season,2011-01-24,2,221,home,FALSE,Pittsburgh,51,Panthers,Pittsburgh Panthers,Pitt
+310240221,2011,regular-season,2011-01-24,2,87,away,FALSE,Notre Dame,56,Fighting Irish,Notre Dame Fighting Irish,Notre Dame

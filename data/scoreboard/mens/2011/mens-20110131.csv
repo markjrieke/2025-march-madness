@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310310245,2011-01-31,2,245,home,FALSE,Texas A&M,49,Aggies,Texas A&M Aggies,Texas A&M
-310310245,2011-01-31,2,251,away,FALSE,Texas,69,Longhorns,Texas Longhorns,Texas
-310310046,2011-01-31,2,46,home,FALSE,Georgetown,62,Hoyas,Georgetown Hoyas,Georgetown
-310310046,2011-01-31,2,97,away,FALSE,Louisville,59,Cardinals,Louisville Cardinals,Louisville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310310245,2011,regular-season,2011-01-31,2,245,home,FALSE,Texas A&M,49,Aggies,Texas A&M Aggies,Texas A&M
+310310245,2011,regular-season,2011-01-31,2,251,away,FALSE,Texas,69,Longhorns,Texas Longhorns,Texas
+310310046,2011,regular-season,2011-01-31,2,46,home,FALSE,Georgetown,62,Hoyas,Georgetown Hoyas,Georgetown
+310310046,2011,regular-season,2011-01-31,2,97,away,FALSE,Louisville,59,Cardinals,Louisville Cardinals,Louisville

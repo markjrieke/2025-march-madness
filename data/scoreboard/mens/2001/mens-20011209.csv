@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213430120,2001-12-09,2,120,home,FALSE,Maryland,79,Terrapins,Maryland Terrapins,Maryland
-213430120,2001-12-09,2,2174,away,FALSE,Detroit Mercy,54,Titans,Detroit Mercy Titans,Detroit Mercy
-213430127,2001-12-09,2,127,home,FALSE,Michigan State,92,Spartans,Michigan State Spartans,Michigan St
-213430127,2001-12-09,2,2447,away,FALSE,Nicholls,38,Colonels,Nicholls Colonels,Nicholls
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213430120,2002,regular-season,2001-12-09,2,120,home,FALSE,Maryland,79,Terrapins,Maryland Terrapins,Maryland
+213430120,2002,regular-season,2001-12-09,2,2174,away,FALSE,Detroit Mercy,54,Titans,Detroit Mercy Titans,Detroit Mercy
+213430127,2002,regular-season,2001-12-09,2,127,home,FALSE,Michigan State,92,Spartans,Michigan State Spartans,Michigan St
+213430127,2002,regular-season,2001-12-09,2,2447,away,FALSE,Nicholls,38,Colonels,Nicholls Colonels,Nicholls

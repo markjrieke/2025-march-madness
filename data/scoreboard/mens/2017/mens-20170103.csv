@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400916199,2017-01-03,2,2305,home,FALSE,Kansas,90,Jayhawks,Kansas Jayhawks,Kansas
-400916199,2017-01-03,2,2306,away,FALSE,Kansas State,88,Wildcats,Kansas State Wildcats,Kansas St
-400910692,2017-01-03,2,96,home,FALSE,Kentucky,100,Wildcats,Kentucky Wildcats,Kentucky
-400910692,2017-01-03,2,245,away,FALSE,Texas A&M,58,Aggies,Texas A&M Aggies,Texas A&M
-400916200,2017-01-03,3,2641,home,FALSE,Texas Tech,77,Red Raiders,Texas Tech Red Raiders,Texas Tech
-400916200,2017-01-03,3,277,away,FALSE,West Virginia,76,Mountaineers,West Virginia Mountaineers,West Virginia
-400914932,2017-01-03,2,84,home,FALSE,Indiana,68,Hoosiers,Indiana Hoosiers,Indiana
-400914932,2017-01-03,2,275,away,FALSE,Wisconsin,75,Badgers,Wisconsin Badgers,Wisconsin
-400915354,2017-01-03,3,228,home,FALSE,Clemson,86,Tigers,Clemson Tigers,Clemson
-400915354,2017-01-03,3,153,away,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
-400910642,2017-01-03,2,57,home,FALSE,Florida,70,Gators,Florida Gators,Florida
-400910642,2017-01-03,2,145,away,FALSE,Ole Miss,63,Rebels,Ole Miss Rebels,Ole Miss
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400916199,2017,regular-season,2017-01-03,2,2305,home,FALSE,Kansas,90,Jayhawks,Kansas Jayhawks,Kansas
+400916199,2017,regular-season,2017-01-03,2,2306,away,FALSE,Kansas State,88,Wildcats,Kansas State Wildcats,Kansas St
+400910692,2017,regular-season,2017-01-03,2,96,home,FALSE,Kentucky,100,Wildcats,Kentucky Wildcats,Kentucky
+400910692,2017,regular-season,2017-01-03,2,245,away,FALSE,Texas A&M,58,Aggies,Texas A&M Aggies,Texas A&M
+400916200,2017,regular-season,2017-01-03,3,2641,home,FALSE,Texas Tech,77,Red Raiders,Texas Tech Red Raiders,Texas Tech
+400916200,2017,regular-season,2017-01-03,3,277,away,FALSE,West Virginia,76,Mountaineers,West Virginia Mountaineers,West Virginia
+400914932,2017,regular-season,2017-01-03,2,84,home,FALSE,Indiana,68,Hoosiers,Indiana Hoosiers,Indiana
+400914932,2017,regular-season,2017-01-03,2,275,away,FALSE,Wisconsin,75,Badgers,Wisconsin Badgers,Wisconsin
+400915354,2017,regular-season,2017-01-03,3,228,home,FALSE,Clemson,86,Tigers,Clemson Tigers,Clemson
+400915354,2017,regular-season,2017-01-03,3,153,away,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
+400910642,2017,regular-season,2017-01-03,2,57,home,FALSE,Florida,70,Gators,Florida Gators,Florida
+400910642,2017,regular-season,2017-01-03,2,145,away,FALSE,Ole Miss,63,Rebels,Ole Miss Rebels,Ole Miss

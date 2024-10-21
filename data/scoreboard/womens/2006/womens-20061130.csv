@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263340153,2006-11-30,2,153,home,FALSE,North Carolina,103,Tar Heels,North Carolina Tar Heels,North Carolina
-263340153,2006-11-30,2,2430,away,FALSE,UNC Greensboro,48,Spartans,UNC Greensboro Spartans,UNC Greensboro
-263340194,2006-11-30,2,194,home,FALSE,Ohio State,68,Buckeyes,Ohio State Buckeyes,Ohio State
-263340194,2006-11-30,2,2344,away,FALSE,Longwood,33,Lancers,Longwood Lancers,Longwood
-263340041,2006-11-30,2,41,home,FALSE,UConn,66,Huskies,UConn Huskies,UConn
-263340041,2006-11-30,2,2509,away,FALSE,Purdue,55,Boilermakers,Purdue Boilermakers,Purdue
-263340005,2006-11-30,2,5,home,FALSE,UAB,63,Blazers,UAB Blazers,UAB
-263340005,2006-11-30,2,238,away,FALSE,Vanderbilt,85,Commodores,Vanderbilt Commodores,Vanderbilt
-263340239,2006-11-30,2,239,home,FALSE,Baylor,64,Bears,Baylor Bears,Baylor
-263340239,2006-11-30,2,357,away,FALSE,Texas A&M-Corpus Christi,62,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-263342752,2006-11-30,2,2752,home,FALSE,Xavier,59,Musketeers,Xavier Musketeers,Xavier
-263342752,2006-11-30,2,97,away,FALSE,Louisville,63,Cardinals,Louisville Cardinals,Louisville
-263340251,2006-11-30,2,251,home,FALSE,Texas,71,Longhorns,Texas Longhorns,Texas
-263340251,2006-11-30,2,2582,away,FALSE,Southern,23,Jaguars,Southern Jaguars,Southern
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263340153,2007,regular-season,2006-11-30,2,153,home,FALSE,North Carolina,103,Tar Heels,North Carolina Tar Heels,North Carolina
+263340153,2007,regular-season,2006-11-30,2,2430,away,FALSE,UNC Greensboro,48,Spartans,UNC Greensboro Spartans,UNC Greensboro
+263340194,2007,regular-season,2006-11-30,2,194,home,FALSE,Ohio State,68,Buckeyes,Ohio State Buckeyes,Ohio State
+263340194,2007,regular-season,2006-11-30,2,2344,away,FALSE,Longwood,33,Lancers,Longwood Lancers,Longwood
+263340041,2007,regular-season,2006-11-30,2,41,home,FALSE,UConn,66,Huskies,UConn Huskies,UConn
+263340041,2007,regular-season,2006-11-30,2,2509,away,FALSE,Purdue,55,Boilermakers,Purdue Boilermakers,Purdue
+263340005,2007,regular-season,2006-11-30,2,5,home,FALSE,UAB,63,Blazers,UAB Blazers,UAB
+263340005,2007,regular-season,2006-11-30,2,238,away,FALSE,Vanderbilt,85,Commodores,Vanderbilt Commodores,Vanderbilt
+263340239,2007,regular-season,2006-11-30,2,239,home,FALSE,Baylor,64,Bears,Baylor Bears,Baylor
+263340239,2007,regular-season,2006-11-30,2,357,away,FALSE,Texas A&M-Corpus Christi,62,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+263342752,2007,regular-season,2006-11-30,2,2752,home,FALSE,Xavier,59,Musketeers,Xavier Musketeers,Xavier
+263342752,2007,regular-season,2006-11-30,2,97,away,FALSE,Louisville,63,Cardinals,Louisville Cardinals,Louisville
+263340251,2007,regular-season,2006-11-30,2,251,home,FALSE,Texas,71,Longhorns,Texas Longhorns,Texas
+263340251,2007,regular-season,2006-11-30,2,2582,away,FALSE,Southern,23,Jaguars,Southern Jaguars,Southern

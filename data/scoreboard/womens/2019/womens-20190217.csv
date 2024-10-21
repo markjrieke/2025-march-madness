@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401091624,2019-02-17,4,245,home,FALSE,Texas A&M,64,Aggies,Texas A&M Aggies,Texas A&M
-401091624,2019-02-17,4,344,away,FALSE,Mississippi State,92,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401091151,2019-02-17,4,2550,home,FALSE,Seton Hall,63,Pirates,Seton Hall Pirates,Seton Hall
-401091151,2019-02-17,4,269,away,FALSE,Marquette,109,Golden Eagles,Marquette Golden Eagles,Marquette
-401095380,2019-02-17,4,30,home,FALSE,USC,67,Trojans,USC Trojans,USC
-401095380,2019-02-17,4,24,away,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
-401091629,2019-02-17,4,57,home,FALSE,Florida,77,Gators,Florida Gators,Florida
-401091629,2019-02-17,4,2579,away,FALSE,South Carolina,96,Gamecocks,South Carolina Gamecocks,South Carolina
-401092608,2019-02-17,4,251,home,FALSE,Texas,60,Longhorns,Texas Longhorns,Texas
-401092608,2019-02-17,4,2306,away,FALSE,Kansas State,69,Wildcats,Kansas State Wildcats,Kansas St
-401092108,2019-02-17,4,183,home,FALSE,Syracuse,77,Orange,Syracuse Orange,Syracuse
-401092108,2019-02-17,4,154,away,FALSE,Wake Forest,57,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-401091628,2019-02-17,4,96,home,FALSE,Kentucky,61,Wildcats,Kentucky Wildcats,Kentucky
-401091628,2019-02-17,4,8,away,FALSE,Arkansas,59,Razorbacks,Arkansas Razorbacks,Arkansas
-401094292,2019-02-17,4,9,home,FALSE,Arizona State,60,Sun Devils,Arizona State Sun Devils,Arizona St
-401094292,2019-02-17,4,254,away,FALSE,Utah,58,Utes,Utah Utes,Utah
-401092104,2019-02-17,4,52,home,FALSE,Florida State,78,Seminoles,Florida State Seminoles,Florida St
-401092104,2019-02-17,4,221,away,FALSE,Pittsburgh,46,Panthers,Pittsburgh Panthers,Pitt
-401094709,2019-02-17,4,158,home,FALSE,Nebraska,82,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401094709,2019-02-17,4,127,away,FALSE,Michigan State,71,Spartans,Michigan State Spartans,Michigan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401091624,2019,regular-season,2019-02-17,4,245,home,FALSE,Texas A&M,64,Aggies,Texas A&M Aggies,Texas A&M
+401091624,2019,regular-season,2019-02-17,4,344,away,FALSE,Mississippi State,92,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401091151,2019,regular-season,2019-02-17,4,2550,home,FALSE,Seton Hall,63,Pirates,Seton Hall Pirates,Seton Hall
+401091151,2019,regular-season,2019-02-17,4,269,away,FALSE,Marquette,109,Golden Eagles,Marquette Golden Eagles,Marquette
+401095380,2019,regular-season,2019-02-17,4,30,home,FALSE,USC,67,Trojans,USC Trojans,USC
+401095380,2019,regular-season,2019-02-17,4,24,away,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
+401091629,2019,regular-season,2019-02-17,4,57,home,FALSE,Florida,77,Gators,Florida Gators,Florida
+401091629,2019,regular-season,2019-02-17,4,2579,away,FALSE,South Carolina,96,Gamecocks,South Carolina Gamecocks,South Carolina
+401092608,2019,regular-season,2019-02-17,4,251,home,FALSE,Texas,60,Longhorns,Texas Longhorns,Texas
+401092608,2019,regular-season,2019-02-17,4,2306,away,FALSE,Kansas State,69,Wildcats,Kansas State Wildcats,Kansas St
+401092108,2019,regular-season,2019-02-17,4,183,home,FALSE,Syracuse,77,Orange,Syracuse Orange,Syracuse
+401092108,2019,regular-season,2019-02-17,4,154,away,FALSE,Wake Forest,57,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+401091628,2019,regular-season,2019-02-17,4,96,home,FALSE,Kentucky,61,Wildcats,Kentucky Wildcats,Kentucky
+401091628,2019,regular-season,2019-02-17,4,8,away,FALSE,Arkansas,59,Razorbacks,Arkansas Razorbacks,Arkansas
+401094292,2019,regular-season,2019-02-17,4,9,home,FALSE,Arizona State,60,Sun Devils,Arizona State Sun Devils,Arizona St
+401094292,2019,regular-season,2019-02-17,4,254,away,FALSE,Utah,58,Utes,Utah Utes,Utah
+401092104,2019,regular-season,2019-02-17,4,52,home,FALSE,Florida State,78,Seminoles,Florida State Seminoles,Florida St
+401092104,2019,regular-season,2019-02-17,4,221,away,FALSE,Pittsburgh,46,Panthers,Pittsburgh Panthers,Pitt
+401094709,2019,regular-season,2019-02-17,4,158,home,FALSE,Nebraska,82,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401094709,2019,regular-season,2019-02-17,4,127,away,FALSE,Michigan State,71,Spartans,Michigan State Spartans,Michigan St

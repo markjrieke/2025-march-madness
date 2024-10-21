@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401488463,2023-01-30,2,183,home,FALSE,Syracuse,62,Orange,Syracuse Orange,Syracuse
-401488463,2023-01-30,2,258,away,FALSE,Virginia,67,Cavaliers,Virginia Cavaliers,Virginia
-401493415,2023-01-30,2,251,home,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
-401493415,2023-01-30,2,239,away,FALSE,Baylor,71,Bears,Baylor Bears,Baylor
-401493416,2023-01-30,3,2641,home,FALSE,Texas Tech,80,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401493416,2023-01-30,3,66,away,FALSE,Iowa State,77,Cyclones,Iowa State Cyclones,Iowa State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401488463,2023,regular-season,2023-01-30,2,183,home,FALSE,Syracuse,62,Orange,Syracuse Orange,Syracuse
+401488463,2023,regular-season,2023-01-30,2,258,away,FALSE,Virginia,67,Cavaliers,Virginia Cavaliers,Virginia
+401493415,2023,regular-season,2023-01-30,2,251,home,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
+401493415,2023,regular-season,2023-01-30,2,239,away,FALSE,Baylor,71,Bears,Baylor Bears,Baylor
+401493416,2023,regular-season,2023-01-30,3,2641,home,FALSE,Texas Tech,80,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401493416,2023,regular-season,2023-01-30,3,66,away,FALSE,Iowa State,77,Cyclones,Iowa State Cyclones,Iowa State

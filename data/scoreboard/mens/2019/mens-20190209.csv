@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401082686,2019-02-09,2,258,home,FALSE,Virginia,71,Cavaliers,Virginia Cavaliers,Virginia
-401082686,2019-02-09,2,150,away,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
-401083644,2019-02-09,2,2250,home,FALSE,Gonzaga,94,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401083644,2019-02-09,2,2608,away,FALSE,Saint Mary's,46,Gaels,Saint Mary's Gaels,Saint Mary's
-401083080,2019-02-09,2,344,home,FALSE,Mississippi State,67,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401083080,2019-02-09,2,96,away,FALSE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
-401089699,2019-02-09,2,2440,home,FALSE,Nevada,91,Wolf Pack,Nevada Wolf Pack,Nevada
-401089699,2019-02-09,2,167,away,FALSE,New Mexico,62,Lobos,New Mexico Lobos,New Mexico
-401082464,2019-02-09,2,130,home,FALSE,Michigan,61,Wolverines,Michigan Wolverines,Michigan
-401082464,2019-02-09,2,275,away,FALSE,Wisconsin,52,Badgers,Wisconsin Badgers,Wisconsin
-401082867,2019-02-09,3,153,home,FALSE,North Carolina,88,Tar Heels,North Carolina Tar Heels,North Carolina
-401082867,2019-02-09,3,2390,away,FALSE,Miami,85,Hurricanes,Miami Hurricanes,Miami
-401082487,2019-02-09,2,127,home,FALSE,Michigan State,79,Spartans,Michigan State Spartans,Michigan St
-401082487,2019-02-09,2,135,away,FALSE,Minnesota,55,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401083262,2019-02-09,2,269,home,FALSE,Marquette,66,Golden Eagles,Marquette Golden Eagles,Marquette
-401083262,2019-02-09,2,222,away,FALSE,Villanova,65,Wildcats,Villanova Wildcats,Villanova
-401082661,2019-02-09,2,228,home,FALSE,Clemson,59,Tigers,Clemson Tigers,Clemson
-401082661,2019-02-09,2,259,away,FALSE,Virginia Tech,51,Hokies,Virginia Tech Hokies,Virginia Tech
-401083536,2019-02-09,2,2305,home,FALSE,Kansas,84,Jayhawks,Kansas Jayhawks,Kansas
-401083536,2019-02-09,2,197,away,FALSE,Oklahoma State,72,Cowboys,Oklahoma State Cowboys,Oklahoma St
-401082526,2019-02-09,2,2509,home,FALSE,Purdue,81,Boilermakers,Purdue Boilermakers,Purdue
-401082526,2019-02-09,2,158,away,FALSE,Nebraska,62,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401082710,2019-02-09,3,52,home,FALSE,Florida State,80,Seminoles,Florida State Seminoles,Florida St
-401082710,2019-02-09,3,97,away,FALSE,Louisville,75,Cardinals,Louisville Cardinals,Louisville
-401083419,2019-02-09,2,66,home,FALSE,Iowa State,83,Cyclones,Iowa State Cyclones,Iowa State
-401083419,2019-02-09,2,2628,away,FALSE,TCU,92,Horned Frogs,TCU Horned Frogs,TCU
-401083488,2019-02-09,2,201,home,FALSE,Oklahoma,54,Sooners,Oklahoma Sooners,Oklahoma
-401083488,2019-02-09,2,2641,away,FALSE,Texas Tech,66,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401088518,2019-02-09,2,2084,home,FALSE,Buffalo,90,Bulls,Buffalo Bulls,Buffalo
-401088518,2019-02-09,2,2117,away,FALSE,Central Michigan,76,Chippewas,Central Michigan Chippewas,C Michigan
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401082686,2019,regular-season,2019-02-09,2,258,home,FALSE,Virginia,71,Cavaliers,Virginia Cavaliers,Virginia
+401082686,2019,regular-season,2019-02-09,2,150,away,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
+401083644,2019,regular-season,2019-02-09,2,2250,home,FALSE,Gonzaga,94,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401083644,2019,regular-season,2019-02-09,2,2608,away,FALSE,Saint Mary's,46,Gaels,Saint Mary's Gaels,Saint Mary's
+401083080,2019,regular-season,2019-02-09,2,344,home,FALSE,Mississippi State,67,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401083080,2019,regular-season,2019-02-09,2,96,away,FALSE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
+401089699,2019,regular-season,2019-02-09,2,2440,home,FALSE,Nevada,91,Wolf Pack,Nevada Wolf Pack,Nevada
+401089699,2019,regular-season,2019-02-09,2,167,away,FALSE,New Mexico,62,Lobos,New Mexico Lobos,New Mexico
+401082464,2019,regular-season,2019-02-09,2,130,home,FALSE,Michigan,61,Wolverines,Michigan Wolverines,Michigan
+401082464,2019,regular-season,2019-02-09,2,275,away,FALSE,Wisconsin,52,Badgers,Wisconsin Badgers,Wisconsin
+401082867,2019,regular-season,2019-02-09,3,153,home,FALSE,North Carolina,88,Tar Heels,North Carolina Tar Heels,North Carolina
+401082867,2019,regular-season,2019-02-09,3,2390,away,FALSE,Miami,85,Hurricanes,Miami Hurricanes,Miami
+401082487,2019,regular-season,2019-02-09,2,127,home,FALSE,Michigan State,79,Spartans,Michigan State Spartans,Michigan St
+401082487,2019,regular-season,2019-02-09,2,135,away,FALSE,Minnesota,55,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401083262,2019,regular-season,2019-02-09,2,269,home,FALSE,Marquette,66,Golden Eagles,Marquette Golden Eagles,Marquette
+401083262,2019,regular-season,2019-02-09,2,222,away,FALSE,Villanova,65,Wildcats,Villanova Wildcats,Villanova
+401082661,2019,regular-season,2019-02-09,2,228,home,FALSE,Clemson,59,Tigers,Clemson Tigers,Clemson
+401082661,2019,regular-season,2019-02-09,2,259,away,FALSE,Virginia Tech,51,Hokies,Virginia Tech Hokies,Virginia Tech
+401083536,2019,regular-season,2019-02-09,2,2305,home,FALSE,Kansas,84,Jayhawks,Kansas Jayhawks,Kansas
+401083536,2019,regular-season,2019-02-09,2,197,away,FALSE,Oklahoma State,72,Cowboys,Oklahoma State Cowboys,Oklahoma St
+401082526,2019,regular-season,2019-02-09,2,2509,home,FALSE,Purdue,81,Boilermakers,Purdue Boilermakers,Purdue
+401082526,2019,regular-season,2019-02-09,2,158,away,FALSE,Nebraska,62,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401082710,2019,regular-season,2019-02-09,3,52,home,FALSE,Florida State,80,Seminoles,Florida State Seminoles,Florida St
+401082710,2019,regular-season,2019-02-09,3,97,away,FALSE,Louisville,75,Cardinals,Louisville Cardinals,Louisville
+401083419,2019,regular-season,2019-02-09,2,66,home,FALSE,Iowa State,83,Cyclones,Iowa State Cyclones,Iowa State
+401083419,2019,regular-season,2019-02-09,2,2628,away,FALSE,TCU,92,Horned Frogs,TCU Horned Frogs,TCU
+401083488,2019,regular-season,2019-02-09,2,201,home,FALSE,Oklahoma,54,Sooners,Oklahoma Sooners,Oklahoma
+401083488,2019,regular-season,2019-02-09,2,2641,away,FALSE,Texas Tech,66,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401088518,2019,regular-season,2019-02-09,2,2084,home,FALSE,Buffalo,90,Bulls,Buffalo Bulls,Buffalo
+401088518,2019,regular-season,2019-02-09,2,2117,away,FALSE,Central Michigan,76,Chippewas,Central Michigan Chippewas,C Michigan

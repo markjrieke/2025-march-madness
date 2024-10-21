@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401259598,2021-02-08,5,41,home,FALSE,UConn,63,Huskies,UConn Huskies,UConn
-401259598,2021-02-08,5,2579,away,FALSE,South Carolina,59,Gamecocks,South Carolina Gamecocks,South Carolina
-401263204,2021-02-08,4,2483,home,FALSE,Oregon,59,Ducks,Oregon Ducks,Oregon
-401263204,2021-02-08,4,12,away,FALSE,Arizona,79,Wildcats,Arizona Wildcats,Arizona
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401259598,2021,regular-season,2021-02-08,5,41,home,FALSE,UConn,63,Huskies,UConn Huskies,UConn
+401259598,2021,regular-season,2021-02-08,5,2579,away,FALSE,South Carolina,59,Gamecocks,South Carolina Gamecocks,South Carolina
+401263204,2021,regular-season,2021-02-08,4,2483,home,FALSE,Oregon,59,Ducks,Oregon Ducks,Oregon
+401263204,2021,regular-season,2021-02-08,4,12,away,FALSE,Arizona,79,Wildcats,Arizona Wildcats,Arizona

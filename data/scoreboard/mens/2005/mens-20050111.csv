@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250110154,2005-01-11,2,154,home,FALSE,Wake Forest,81,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-250110154,2005-01-11,2,120,away,FALSE,Maryland,66,Terrapins,Maryland Terrapins,Maryland
-250110197,2005-01-11,2,197,home,FALSE,Oklahoma State,78,Cowboys,Oklahoma State Cowboys,Oklahoma St
-250110197,2005-01-11,2,142,away,FALSE,Missouri,68,Tigers,Missouri Tigers,Missouri
-250112572,2005-01-11,2,2572,home,FALSE,Southern Miss,62,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
-250112572,2005-01-11,2,97,away,FALSE,Louisville,107,Cardinals,Louisville Cardinals,Louisville
-250110008,2005-01-11,2,8,home,FALSE,Arkansas,61,Razorbacks,Arkansas Razorbacks,Arkansas
-250110008,2005-01-11,2,333,away,FALSE,Alabama,64,Crimson Tide,Alabama Crimson Tide,Alabama
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250110154,2005,regular-season,2005-01-11,2,154,home,FALSE,Wake Forest,81,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+250110154,2005,regular-season,2005-01-11,2,120,away,FALSE,Maryland,66,Terrapins,Maryland Terrapins,Maryland
+250110197,2005,regular-season,2005-01-11,2,197,home,FALSE,Oklahoma State,78,Cowboys,Oklahoma State Cowboys,Oklahoma St
+250110197,2005,regular-season,2005-01-11,2,142,away,FALSE,Missouri,68,Tigers,Missouri Tigers,Missouri
+250112572,2005,regular-season,2005-01-11,2,2572,home,FALSE,Southern Miss,62,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
+250112572,2005,regular-season,2005-01-11,2,97,away,FALSE,Louisville,107,Cardinals,Louisville Cardinals,Louisville
+250110008,2005,regular-season,2005-01-11,2,8,home,FALSE,Arkansas,61,Razorbacks,Arkansas Razorbacks,Arkansas
+250110008,2005,regular-season,2005-01-11,2,333,away,FALSE,Alabama,64,Crimson Tide,Alabama Crimson Tide,Alabama

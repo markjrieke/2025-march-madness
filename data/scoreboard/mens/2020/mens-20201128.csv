@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401259835,2020-11-28,2,150,home,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
-401259835,2020-11-28,2,2154,away,FALSE,Coppin State,71,Eagles,Coppin State Eagles,Coppin St
-401260037,2020-11-28,2,127,home,FALSE,Michigan State,80,Spartans,Michigan State Spartans,Michigan St
-401260037,2020-11-28,2,87,away,FALSE,Notre Dame,70,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401259835,2021,regular-season,2020-11-28,2,150,home,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
+401259835,2021,regular-season,2020-11-28,2,2154,away,FALSE,Coppin State,71,Eagles,Coppin State Eagles,Coppin St
+401260037,2021,regular-season,2020-11-28,2,127,home,FALSE,Michigan State,80,Spartans,Michigan State Spartans,Michigan St
+401260037,2021,regular-season,2020-11-28,2,87,away,FALSE,Notre Dame,70,Fighting Irish,Notre Dame Fighting Irish,Notre Dame

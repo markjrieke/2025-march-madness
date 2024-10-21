@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253470219,2005-12-13,2,219,home,FALSE,Pennsylvania,55,Quakers,Pennsylvania Quakers,Penn
-253470219,2005-12-13,2,222,away,FALSE,Villanova,62,Wildcats,Villanova Wildcats,Villanova
-253470097,2005-12-13,2,97,home,FALSE,Louisville,78,Cardinals,Louisville Cardinals,Louisville
-253470097,2005-12-13,2,2130,away,FALSE,Chicago State,54,Cougars,Chicago State Cougars,Chicago St
-253470154,2005-12-13,2,154,home,FALSE,Wake Forest,81,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-253470154,2005-12-13,2,305,away,FALSE,DePaul,84,Blue Demons,DePaul Blue Demons,DePaul
-253472440,2005-12-13,2,2440,home,FALSE,Nevada,83,Wolf Pack,Nevada Wolf Pack,Nevada
-253472440,2005-12-13,2,2548,away,FALSE,Seattle Pacific,57,Falcons,Seattle Pacific Falcons,Seatle Pac
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253470219,2006,regular-season,2005-12-13,2,219,home,FALSE,Pennsylvania,55,Quakers,Pennsylvania Quakers,Penn
+253470219,2006,regular-season,2005-12-13,2,222,away,FALSE,Villanova,62,Wildcats,Villanova Wildcats,Villanova
+253470097,2006,regular-season,2005-12-13,2,97,home,FALSE,Louisville,78,Cardinals,Louisville Cardinals,Louisville
+253470097,2006,regular-season,2005-12-13,2,2130,away,FALSE,Chicago State,54,Cougars,Chicago State Cougars,Chicago St
+253470154,2006,regular-season,2005-12-13,2,154,home,FALSE,Wake Forest,81,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+253470154,2006,regular-season,2005-12-13,2,305,away,FALSE,DePaul,84,Blue Demons,DePaul Blue Demons,DePaul
+253472440,2006,regular-season,2005-12-13,2,2440,home,FALSE,Nevada,83,Wolf Pack,Nevada Wolf Pack,Nevada
+253472440,2006,regular-season,2005-12-13,2,2548,away,FALSE,Seattle Pacific,57,Falcons,Seattle Pacific Falcons,Seatle Pac

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230272305,2003-01-27,2,2305,home,FALSE,Kansas,90,Jayhawks,Kansas Jayhawks,Kansas
-230272305,2003-01-27,2,251,away,FALSE,Texas,87,Longhorns,Texas Longhorns,Texas
-230272599,2003-01-27,2,2599,home,FALSE,St. John's,68,Red Storm,St. John's Red Storm,St John's
-230272599,2003-01-27,2,41,away,FALSE,UConn,74,Huskies,UConn Huskies,UConn
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230272305,2003,regular-season,2003-01-27,2,2305,home,FALSE,Kansas,90,Jayhawks,Kansas Jayhawks,Kansas
+230272305,2003,regular-season,2003-01-27,2,251,away,FALSE,Texas,87,Longhorns,Texas Longhorns,Texas
+230272599,2003,regular-season,2003-01-27,2,2599,home,FALSE,St. John's,68,Red Storm,St. John's Red Storm,St John's
+230272599,2003,regular-season,2003-01-27,2,41,away,FALSE,UConn,74,Huskies,UConn Huskies,UConn

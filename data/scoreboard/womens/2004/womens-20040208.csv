@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240392633,2004-02-08,2,2633,home,FALSE,Tennessee,72,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-240392633,2004-02-08,2,2579,away,FALSE,South Carolina,58,Gamecocks,South Carolina Gamecocks,South Carolina
-240390041,2004-02-08,2,41,home,FALSE,UConn,83,Huskies,UConn Huskies,UConn
-240390041,2004-02-08,2,2390,away,FALSE,Miami,65,Hurricanes,Miami Hurricanes,Miami
-240390135,2004-02-08,2,135,home,FALSE,Minnesota,74,Golden Gophers,Minnesota Golden Gophers,Minnesota
-240390135,2004-02-08,2,213,away,FALSE,Penn State,56,Lady Lions,Penn State Lady Lions,Penn State
-240392509,2004-02-08,2,2509,home,FALSE,Purdue,57,Boilermakers,Purdue Boilermakers,Purdue
-240392509,2004-02-08,2,194,away,FALSE,Ohio State,54,Buckeyes,Ohio State Buckeyes,Ohio State
-240390239,2004-02-08,2,239,home,FALSE,Baylor,59,Bears,Baylor Bears,Baylor
-240390239,2004-02-08,2,2641,away,FALSE,Texas Tech,62,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-240392306,2004-02-08,2,2306,home,FALSE,Kansas State,79,Wildcats,Kansas State Wildcats,Kansas St
-240392306,2004-02-08,2,38,away,FALSE,Colorado,53,Buffaloes,Colorado Buffaloes,Colorado
-240390153,2004-02-08,2,153,home,FALSE,North Carolina,54,Tar Heels,North Carolina Tar Heels,North Carolina
-240390153,2004-02-08,2,152,away,FALSE,NC State,62,Wolfpack,NC State Wolfpack,NC State
-240390002,2004-02-08,2,2,home,FALSE,Auburn,68,Tigers,Auburn Tigers,Auburn
-240390002,2004-02-08,2,99,away,FALSE,LSU,50,Tigers,LSU Tigers,LSU
-240390305,2004-02-08,2,305,home,FALSE,DePaul,61,Blue Demons,DePaul Blue Demons,DePaul
-240390305,2004-02-08,2,269,away,FALSE,Marquette,59,Golden Eagles,Marquette Golden Eagles,Marquette
-240390008,2004-02-08,2,8,home,FALSE,Arkansas,71,Razorbacks,Arkansas Razorbacks,Arkansas
-240390008,2004-02-08,2,61,away,FALSE,Georgia,63,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-240392628,2004-02-08,2,2628,home,FALSE,TCU,76,Horned Frogs,TCU Horned Frogs,TCU
-240392628,2004-02-08,2,2572,away,FALSE,Southern Miss,45,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-240390127,2004-02-08,2,127,home,FALSE,Michigan State,70,Spartans,Michigan State Spartans,Michigan St
-240390127,2004-02-08,2,77,away,FALSE,Northwestern,46,Wildcats,Northwestern Wildcats,Northwestern
-240392550,2004-02-08,2,2550,home,FALSE,Seton Hall,51,Pirates,Seton Hall Pirates,Seton Hall
-240392550,2004-02-08,2,87,away,FALSE,Notre Dame,45,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-240390057,2004-02-08,2,57,home,FALSE,Florida,76,Gators,Florida Gators,Florida
-240390057,2004-02-08,2,96,away,FALSE,Kentucky,56,Wildcats,Kentucky Wildcats,Kentucky
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240392633,2004,regular-season,2004-02-08,2,2633,home,FALSE,Tennessee,72,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+240392633,2004,regular-season,2004-02-08,2,2579,away,FALSE,South Carolina,58,Gamecocks,South Carolina Gamecocks,South Carolina
+240390041,2004,regular-season,2004-02-08,2,41,home,FALSE,UConn,83,Huskies,UConn Huskies,UConn
+240390041,2004,regular-season,2004-02-08,2,2390,away,FALSE,Miami,65,Hurricanes,Miami Hurricanes,Miami
+240390135,2004,regular-season,2004-02-08,2,135,home,FALSE,Minnesota,74,Golden Gophers,Minnesota Golden Gophers,Minnesota
+240390135,2004,regular-season,2004-02-08,2,213,away,FALSE,Penn State,56,Lady Lions,Penn State Lady Lions,Penn State
+240392509,2004,regular-season,2004-02-08,2,2509,home,FALSE,Purdue,57,Boilermakers,Purdue Boilermakers,Purdue
+240392509,2004,regular-season,2004-02-08,2,194,away,FALSE,Ohio State,54,Buckeyes,Ohio State Buckeyes,Ohio State
+240390239,2004,regular-season,2004-02-08,2,239,home,FALSE,Baylor,59,Bears,Baylor Bears,Baylor
+240390239,2004,regular-season,2004-02-08,2,2641,away,FALSE,Texas Tech,62,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+240392306,2004,regular-season,2004-02-08,2,2306,home,FALSE,Kansas State,79,Wildcats,Kansas State Wildcats,Kansas St
+240392306,2004,regular-season,2004-02-08,2,38,away,FALSE,Colorado,53,Buffaloes,Colorado Buffaloes,Colorado
+240390153,2004,regular-season,2004-02-08,2,153,home,FALSE,North Carolina,54,Tar Heels,North Carolina Tar Heels,North Carolina
+240390153,2004,regular-season,2004-02-08,2,152,away,FALSE,NC State,62,Wolfpack,NC State Wolfpack,NC State
+240390002,2004,regular-season,2004-02-08,2,2,home,FALSE,Auburn,68,Tigers,Auburn Tigers,Auburn
+240390002,2004,regular-season,2004-02-08,2,99,away,FALSE,LSU,50,Tigers,LSU Tigers,LSU
+240390305,2004,regular-season,2004-02-08,2,305,home,FALSE,DePaul,61,Blue Demons,DePaul Blue Demons,DePaul
+240390305,2004,regular-season,2004-02-08,2,269,away,FALSE,Marquette,59,Golden Eagles,Marquette Golden Eagles,Marquette
+240390008,2004,regular-season,2004-02-08,2,8,home,FALSE,Arkansas,71,Razorbacks,Arkansas Razorbacks,Arkansas
+240390008,2004,regular-season,2004-02-08,2,61,away,FALSE,Georgia,63,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+240392628,2004,regular-season,2004-02-08,2,2628,home,FALSE,TCU,76,Horned Frogs,TCU Horned Frogs,TCU
+240392628,2004,regular-season,2004-02-08,2,2572,away,FALSE,Southern Miss,45,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+240390127,2004,regular-season,2004-02-08,2,127,home,FALSE,Michigan State,70,Spartans,Michigan State Spartans,Michigan St
+240390127,2004,regular-season,2004-02-08,2,77,away,FALSE,Northwestern,46,Wildcats,Northwestern Wildcats,Northwestern
+240392550,2004,regular-season,2004-02-08,2,2550,home,FALSE,Seton Hall,51,Pirates,Seton Hall Pirates,Seton Hall
+240392550,2004,regular-season,2004-02-08,2,87,away,FALSE,Notre Dame,45,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+240390057,2004,regular-season,2004-02-08,2,57,home,FALSE,Florida,76,Gators,Florida Gators,Florida
+240390057,2004,regular-season,2004-02-08,2,96,away,FALSE,Kentucky,56,Wildcats,Kentucky Wildcats,Kentucky

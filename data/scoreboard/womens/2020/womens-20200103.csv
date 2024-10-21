@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401172109,2020-01-03,4,2483,home,FALSE,Oregon,104,Ducks,Oregon Ducks,Oregon
-401172109,2020-01-03,4,38,away,FALSE,Colorado,46,Buffaloes,Colorado Buffaloes,Colorado
-401172105,2020-01-03,4,204,home,FALSE,Oregon State,77,Beavers,Oregon State Beavers,Oregon St
-401172105,2020-01-03,4,254,away,FALSE,Utah,48,Utes,Utah Utes,Utah
-401172108,2020-01-03,4,24,home,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
-401172108,2020-01-03,4,265,away,FALSE,Washington State,58,Cougars,Washington State Cougars,Washington St
-401172110,2020-01-03,4,26,home,FALSE,UCLA,68,Bruins,UCLA Bruins,UCLA
-401172110,2020-01-03,4,9,away,FALSE,Arizona State,66,Sun Devils,Arizona State Sun Devils,Arizona St
-401177609,2020-01-03,4,2507,home,FALSE,Providence,67,Friars,Providence Friars,Providence
-401177609,2020-01-03,4,305,away,FALSE,DePaul,80,Blue Demons,DePaul Blue Demons,DePaul
-401172106,2020-01-03,4,30,home,FALSE,USC,57,Trojans,USC Trojans,USC
-401172106,2020-01-03,4,12,away,FALSE,Arizona,65,Wildcats,Arizona Wildcats,Arizona
-401179839,2020-01-03,5,2350,home,FALSE,Loyola Chicago,72,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-401179839,2020-01-03,5,2623,away,FALSE,Missouri State,74,Lady Bears,Missouri State Lady Bears,Missouri St
-401176896,2020-01-03,4,251,home,FALSE,Texas,63,Longhorns,Texas Longhorns,Texas
-401176896,2020-01-03,4,2628,away,FALSE,TCU,65,Horned Frogs,TCU Horned Frogs,TCU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401172109,2020,regular-season,2020-01-03,4,2483,home,FALSE,Oregon,104,Ducks,Oregon Ducks,Oregon
+401172109,2020,regular-season,2020-01-03,4,38,away,FALSE,Colorado,46,Buffaloes,Colorado Buffaloes,Colorado
+401172105,2020,regular-season,2020-01-03,4,204,home,FALSE,Oregon State,77,Beavers,Oregon State Beavers,Oregon St
+401172105,2020,regular-season,2020-01-03,4,254,away,FALSE,Utah,48,Utes,Utah Utes,Utah
+401172108,2020,regular-season,2020-01-03,4,24,home,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
+401172108,2020,regular-season,2020-01-03,4,265,away,FALSE,Washington State,58,Cougars,Washington State Cougars,Washington St
+401172110,2020,regular-season,2020-01-03,4,26,home,FALSE,UCLA,68,Bruins,UCLA Bruins,UCLA
+401172110,2020,regular-season,2020-01-03,4,9,away,FALSE,Arizona State,66,Sun Devils,Arizona State Sun Devils,Arizona St
+401177609,2020,regular-season,2020-01-03,4,2507,home,FALSE,Providence,67,Friars,Providence Friars,Providence
+401177609,2020,regular-season,2020-01-03,4,305,away,FALSE,DePaul,80,Blue Demons,DePaul Blue Demons,DePaul
+401172106,2020,regular-season,2020-01-03,4,30,home,FALSE,USC,57,Trojans,USC Trojans,USC
+401172106,2020,regular-season,2020-01-03,4,12,away,FALSE,Arizona,65,Wildcats,Arizona Wildcats,Arizona
+401179839,2020,regular-season,2020-01-03,5,2350,home,FALSE,Loyola Chicago,72,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+401179839,2020,regular-season,2020-01-03,5,2623,away,FALSE,Missouri State,74,Lady Bears,Missouri State Lady Bears,Missouri St
+401176896,2020,regular-season,2020-01-03,4,251,home,FALSE,Texas,63,Longhorns,Texas Longhorns,Texas
+401176896,2020,regular-season,2020-01-03,4,2628,away,FALSE,TCU,65,Horned Frogs,TCU Horned Frogs,TCU

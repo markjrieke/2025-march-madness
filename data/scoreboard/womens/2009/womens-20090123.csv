@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290230258,2009-01-23,2,258,home,FALSE,Virginia,75,Cavaliers,Virginia Cavaliers,Virginia
-290230258,2009-01-23,2,52,away,FALSE,Florida State,80,Seminoles,Florida State Seminoles,Florida St
-290232368,2009-01-23,3,2368,home,FALSE,Marist,65,Red Foxes,Marist Red Foxes,Marist
-290232368,2009-01-23,3,2217,away,FALSE,Fairfield,73,Stags,Fairfield Stags,Fairfield
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290230258,2009,regular-season,2009-01-23,2,258,home,FALSE,Virginia,75,Cavaliers,Virginia Cavaliers,Virginia
+290230258,2009,regular-season,2009-01-23,2,52,away,FALSE,Florida State,80,Seminoles,Florida State Seminoles,Florida St
+290232368,2009,regular-season,2009-01-23,3,2368,home,FALSE,Marist,65,Red Foxes,Marist Red Foxes,Marist
+290232368,2009,regular-season,2009-01-23,3,2217,away,FALSE,Fairfield,73,Stags,Fairfield Stags,Fairfield

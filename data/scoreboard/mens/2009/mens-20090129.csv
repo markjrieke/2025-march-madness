@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290292294,2009-01-29,2,2294,home,FALSE,Iowa,56,Hawkeyes,Iowa Hawkeyes,Iowa
-290292294,2009-01-29,2,127,away,FALSE,Michigan State,71,Spartans,Michigan State Spartans,Michigan St
-290290259,2009-01-29,2,259,home,FALSE,Virginia Tech,82,Hokies,Virginia Tech Hokies,Virginia Tech
-290290259,2009-01-29,2,228,away,FALSE,Clemson,86,Tigers,Clemson Tigers,Clemson
-290290009,2009-01-29,2,9,home,FALSE,Arizona State,55,Sun Devils,Arizona State Sun Devils,Arizona St
-290290009,2009-01-29,2,265,away,FALSE,Washington State,65,Cougars,Washington State Cougars,Washington St
-290290026,2009-01-29,2,26,home,FALSE,UCLA,81,Bruins,UCLA Bruins,UCLA
-290290026,2009-01-29,2,25,away,FALSE,California,66,Golden Bears,California Golden Bears,California
-290290135,2009-01-29,2,135,home,FALSE,Minnesota,59,Golden Gophers,Minnesota Golden Gophers,Minnesota
-290290135,2009-01-29,2,356,away,FALSE,Illinois,36,Fighting Illini,Illinois Fighting Illini,Illinois
-290292250,2009-01-29,2,2250,home,FALSE,Gonzaga,69,Bulldogs,Gonzaga Bulldogs,Gonzaga
-290292250,2009-01-29,2,2608,away,FALSE,Saint Mary's,62,Gaels,Saint Mary's Gaels,Saint Mary's
-290290012,2009-01-29,2,12,home,FALSE,Arizona,106,Wildcats,Arizona Wildcats,Arizona
-290290012,2009-01-29,2,264,away,FALSE,Washington,97,Huskies,Washington Huskies,Washington
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290292294,2009,regular-season,2009-01-29,2,2294,home,FALSE,Iowa,56,Hawkeyes,Iowa Hawkeyes,Iowa
+290292294,2009,regular-season,2009-01-29,2,127,away,FALSE,Michigan State,71,Spartans,Michigan State Spartans,Michigan St
+290290259,2009,regular-season,2009-01-29,2,259,home,FALSE,Virginia Tech,82,Hokies,Virginia Tech Hokies,Virginia Tech
+290290259,2009,regular-season,2009-01-29,2,228,away,FALSE,Clemson,86,Tigers,Clemson Tigers,Clemson
+290290009,2009,regular-season,2009-01-29,2,9,home,FALSE,Arizona State,55,Sun Devils,Arizona State Sun Devils,Arizona St
+290290009,2009,regular-season,2009-01-29,2,265,away,FALSE,Washington State,65,Cougars,Washington State Cougars,Washington St
+290290026,2009,regular-season,2009-01-29,2,26,home,FALSE,UCLA,81,Bruins,UCLA Bruins,UCLA
+290290026,2009,regular-season,2009-01-29,2,25,away,FALSE,California,66,Golden Bears,California Golden Bears,California
+290290135,2009,regular-season,2009-01-29,2,135,home,FALSE,Minnesota,59,Golden Gophers,Minnesota Golden Gophers,Minnesota
+290290135,2009,regular-season,2009-01-29,2,356,away,FALSE,Illinois,36,Fighting Illini,Illinois Fighting Illini,Illinois
+290292250,2009,regular-season,2009-01-29,2,2250,home,FALSE,Gonzaga,69,Bulldogs,Gonzaga Bulldogs,Gonzaga
+290292250,2009,regular-season,2009-01-29,2,2608,away,FALSE,Saint Mary's,62,Gaels,Saint Mary's Gaels,Saint Mary's
+290290012,2009,regular-season,2009-01-29,2,12,home,FALSE,Arizona,106,Wildcats,Arizona Wildcats,Arizona
+290290012,2009,regular-season,2009-01-29,2,264,away,FALSE,Washington,97,Huskies,Washington Huskies,Washington

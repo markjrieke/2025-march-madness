@@ -1,35 +1,35 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401409264,2022-03-12,4,2084,home,TRUE,Buffalo,79,Bulls,Buffalo Bulls,Buffalo
-401409264,2022-03-12,4,2050,away,TRUE,Ball State,75,Cardinals,Ball State Cardinals,Ball State
-401402604,2022-03-12,4,2217,home,TRUE,Fairfield,73,Stags,Fairfield Stags,Fairfield
-401402604,2022-03-12,4,2363,away,TRUE,Manhattan,68,Jaspers,Manhattan Jaspers,Manhattan
-401408522,2022-03-12,4,2182,home,FALSE,Drexel,71,Dragons,Drexel Dragons,Drexel
-401408522,2022-03-12,4,232,away,FALSE,Charleston,65,Cougars,Charleston Cougars,Charleston
-401402522,2022-03-12,4,239,home,TRUE,Baylor,91,Bears,Baylor Bears,Baylor
-401402522,2022-03-12,4,201,away,TRUE,Oklahoma,76,Sooners,Oklahoma Sooners,Oklahoma
-401404434,2022-03-12,4,2277,home,TRUE,Houston Christian,33,Huskies,Houston Christian Huskies,Hou Christian
-401404434,2022-03-12,4,2916,away,TRUE,Incarnate Word,54,Cardinals,Incarnate Word Cardinals,Incarnate Word
-401409418,2022-03-12,4,2296,home,TRUE,Jackson State,101,Lady Tigers,Jackson State Lady Tigers,Jackson St
-401409418,2022-03-12,4,2011,away,TRUE,Alabama State,80,Lady Hornets,Alabama State Lady Hornets,Alabama St
-401402639,2022-03-12,4,79,home,TRUE,Southern Illinois,42,Salukis,Southern Illinois Salukis,S Illinois
-401402639,2022-03-12,4,2287,away,TRUE,Illinois State,50,Redbirds,Illinois State Redbirds,Illinois St
-401408523,2022-03-12,4,48,home,TRUE,Delaware,56,Blue Hens,Delaware Blue Hens,Delaware
-401408523,2022-03-12,4,119,away,TRUE,Towson,55,Tigers,Towson Tigers,Towson
-401402523,2022-03-12,5,66,home,TRUE,Iowa State,73,Cyclones,Iowa State Cyclones,Iowa State
-401402523,2022-03-12,5,251,away,TRUE,Texas,82,Longhorns,Texas Longhorns,Texas
-401404435,2022-03-12,5,357,home,TRUE,Texas A&M-Corpus Christi,54,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-401404435,2022-03-12,5,2545,away,TRUE,SE Louisiana,59,Lady Lions,SE Louisiana Lady Lions,SE Louisiana
-401402631,2022-03-12,4,47,home,TRUE,Howard,61,Bison,Howard Bison,Howard
-401402631,2022-03-12,4,2450,away,TRUE,Norfolk State,44,Spartans,Norfolk State Spartans,Norfolk St
-401404456,2022-03-12,4,2617,home,TRUE,Stephen F. Austin,74,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
-401404456,2022-03-12,4,2253,away,TRUE,Grand Canyon,57,Lopes,Grand Canyon Lopes,Grand Canyon
-401402640,2022-03-12,4,2623,home,TRUE,Missouri State,57,Lady Bears,Missouri State Lady Bears,Missouri St
-401402640,2022-03-12,4,2460,away,TRUE,Northern Iowa,63,Panthers,Northern Iowa Panthers,Northern Iowa
-401402594,2022-03-12,4,163,home,TRUE,Princeton,77,Tigers,Princeton Tigers,Princeton
-401402594,2022-03-12,4,171,away,TRUE,Columbia,59,Lions,Columbia Lions,Columbia
-401409257,2022-03-12,4,2429,home,TRUE,Charlotte,68,49ers,Charlotte 49ers,Charlotte
-401409257,2022-03-12,4,2348,away,TRUE,Louisiana Tech,63,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-401402492,2022-03-12,4,526,home,FALSE,Florida Gulf Coast,69,Eagles,Florida Gulf Coast Eagles,FGCU
-401402492,2022-03-12,4,55,away,FALSE,Jacksonville State,54,Gamecocks,Jacksonville State Gamecocks,Jax State
-401402580,2022-03-12,4,62,home,TRUE,Hawai'i,59,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
-401402580,2022-03-12,4,300,away,TRUE,UC Irvine,48,Anteaters,UC Irvine Anteaters,UC Irvine
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401409264,2022,regular-season,2022-03-12,4,2084,home,TRUE,Buffalo,79,Bulls,Buffalo Bulls,Buffalo
+401409264,2022,regular-season,2022-03-12,4,2050,away,TRUE,Ball State,75,Cardinals,Ball State Cardinals,Ball State
+401402604,2022,regular-season,2022-03-12,4,2217,home,TRUE,Fairfield,73,Stags,Fairfield Stags,Fairfield
+401402604,2022,regular-season,2022-03-12,4,2363,away,TRUE,Manhattan,68,Jaspers,Manhattan Jaspers,Manhattan
+401408522,2022,regular-season,2022-03-12,4,2182,home,FALSE,Drexel,71,Dragons,Drexel Dragons,Drexel
+401408522,2022,regular-season,2022-03-12,4,232,away,FALSE,Charleston,65,Cougars,Charleston Cougars,Charleston
+401402522,2022,regular-season,2022-03-12,4,239,home,TRUE,Baylor,91,Bears,Baylor Bears,Baylor
+401402522,2022,regular-season,2022-03-12,4,201,away,TRUE,Oklahoma,76,Sooners,Oklahoma Sooners,Oklahoma
+401404434,2022,regular-season,2022-03-12,4,2277,home,TRUE,Houston Christian,33,Huskies,Houston Christian Huskies,Hou Christian
+401404434,2022,regular-season,2022-03-12,4,2916,away,TRUE,Incarnate Word,54,Cardinals,Incarnate Word Cardinals,Incarnate Word
+401409418,2022,regular-season,2022-03-12,4,2296,home,TRUE,Jackson State,101,Lady Tigers,Jackson State Lady Tigers,Jackson St
+401409418,2022,regular-season,2022-03-12,4,2011,away,TRUE,Alabama State,80,Lady Hornets,Alabama State Lady Hornets,Alabama St
+401402639,2022,regular-season,2022-03-12,4,79,home,TRUE,Southern Illinois,42,Salukis,Southern Illinois Salukis,S Illinois
+401402639,2022,regular-season,2022-03-12,4,2287,away,TRUE,Illinois State,50,Redbirds,Illinois State Redbirds,Illinois St
+401408523,2022,regular-season,2022-03-12,4,48,home,TRUE,Delaware,56,Blue Hens,Delaware Blue Hens,Delaware
+401408523,2022,regular-season,2022-03-12,4,119,away,TRUE,Towson,55,Tigers,Towson Tigers,Towson
+401402523,2022,regular-season,2022-03-12,5,66,home,TRUE,Iowa State,73,Cyclones,Iowa State Cyclones,Iowa State
+401402523,2022,regular-season,2022-03-12,5,251,away,TRUE,Texas,82,Longhorns,Texas Longhorns,Texas
+401404435,2022,regular-season,2022-03-12,5,357,home,TRUE,Texas A&M-Corpus Christi,54,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+401404435,2022,regular-season,2022-03-12,5,2545,away,TRUE,SE Louisiana,59,Lady Lions,SE Louisiana Lady Lions,SE Louisiana
+401402631,2022,regular-season,2022-03-12,4,47,home,TRUE,Howard,61,Bison,Howard Bison,Howard
+401402631,2022,regular-season,2022-03-12,4,2450,away,TRUE,Norfolk State,44,Spartans,Norfolk State Spartans,Norfolk St
+401404456,2022,regular-season,2022-03-12,4,2617,home,TRUE,Stephen F. Austin,74,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
+401404456,2022,regular-season,2022-03-12,4,2253,away,TRUE,Grand Canyon,57,Lopes,Grand Canyon Lopes,Grand Canyon
+401402640,2022,regular-season,2022-03-12,4,2623,home,TRUE,Missouri State,57,Lady Bears,Missouri State Lady Bears,Missouri St
+401402640,2022,regular-season,2022-03-12,4,2460,away,TRUE,Northern Iowa,63,Panthers,Northern Iowa Panthers,Northern Iowa
+401402594,2022,regular-season,2022-03-12,4,163,home,TRUE,Princeton,77,Tigers,Princeton Tigers,Princeton
+401402594,2022,regular-season,2022-03-12,4,171,away,TRUE,Columbia,59,Lions,Columbia Lions,Columbia
+401409257,2022,regular-season,2022-03-12,4,2429,home,TRUE,Charlotte,68,49ers,Charlotte 49ers,Charlotte
+401409257,2022,regular-season,2022-03-12,4,2348,away,TRUE,Louisiana Tech,63,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+401402492,2022,regular-season,2022-03-12,4,526,home,FALSE,Florida Gulf Coast,69,Eagles,Florida Gulf Coast Eagles,FGCU
+401402492,2022,regular-season,2022-03-12,4,55,away,FALSE,Jacksonville State,54,Gamecocks,Jacksonville State Gamecocks,Jax State
+401402580,2022,regular-season,2022-03-12,4,62,home,TRUE,Hawai'i,59,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
+401402580,2022,regular-season,2022-03-12,4,300,away,TRUE,UC Irvine,48,Anteaters,UC Irvine Anteaters,UC Irvine

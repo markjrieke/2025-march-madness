@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303170239,2010-11-13,2,239,home,FALSE,Baylor,93,Bears,Baylor Bears,Baylor
-303170239,2010-11-13,2,147,away,FALSE,Montana State,56,Bobcats,Montana State Bobcats,Montana St
-303170150,2010-11-13,2,150,home,FALSE,Duke,69,Blue Devils,Duke Blue Devils,Duke
-303170150,2010-11-13,2,252,away,FALSE,BYU,54,Cougars,BYU Cougars,BYU
-303170270,2010-11-13,2,270,home,FALSE,Milwaukee,59,Panthers,Milwaukee Panthers,Milwaukee
-303170270,2010-11-13,2,201,away,FALSE,Oklahoma,76,Sooners,Oklahoma Sooners,Oklahoma
-303170046,2010-11-13,2,46,home,FALSE,Georgetown,79,Hoyas,Georgetown Hoyas,Georgetown
-303170046,2010-11-13,2,2041,away,FALSE,Augusta,41,Jaguars,Augusta Jaguars,Augusta
-303172306,2010-11-13,2,2306,home,FALSE,Kansas State,64,Wildcats,Kansas State Wildcats,Kansas St
-303172306,2010-11-13,2,2599,away,FALSE,St. John's,53,Red Storm,St. John's Red Storm,St John's
-303170066,2010-11-13,2,66,home,FALSE,Iowa State,58,Cyclones,Iowa State Cyclones,Iowa State
-303170066,2010-11-13,2,2710,away,FALSE,Western Illinois,32,Leathernecks,Western Illinois Leathernecks,W Illinois
-303170120,2010-11-13,2,120,home,FALSE,Maryland,73,Terrapins,Maryland Terrapins,Maryland
-303170120,2010-11-13,2,2405,away,FALSE,Monmouth,40,Hawks,Monmouth Hawks,Monmouth
-303172032,2010-11-13,2,2032,home,TRUE,Arkansas State,47,Red Wolves,Arkansas State Red Wolves,Arkansas St
-303172032,2010-11-13,2,2294,away,TRUE,Iowa,50,Hawkeyes,Iowa Hawkeyes,Iowa
-303170127,2010-11-13,2,127,home,FALSE,Michigan State,90,Spartans,Michigan State Spartans,Michigan St
-303170127,2010-11-13,2,2870,away,FALSE,Purdue Fort Wayne,62,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303170239,2011,regular-season,2010-11-13,2,239,home,FALSE,Baylor,93,Bears,Baylor Bears,Baylor
+303170239,2011,regular-season,2010-11-13,2,147,away,FALSE,Montana State,56,Bobcats,Montana State Bobcats,Montana St
+303170150,2011,regular-season,2010-11-13,2,150,home,FALSE,Duke,69,Blue Devils,Duke Blue Devils,Duke
+303170150,2011,regular-season,2010-11-13,2,252,away,FALSE,BYU,54,Cougars,BYU Cougars,BYU
+303170270,2011,regular-season,2010-11-13,2,270,home,FALSE,Milwaukee,59,Panthers,Milwaukee Panthers,Milwaukee
+303170270,2011,regular-season,2010-11-13,2,201,away,FALSE,Oklahoma,76,Sooners,Oklahoma Sooners,Oklahoma
+303170046,2011,regular-season,2010-11-13,2,46,home,FALSE,Georgetown,79,Hoyas,Georgetown Hoyas,Georgetown
+303170046,2011,regular-season,2010-11-13,2,2041,away,FALSE,Augusta,41,Jaguars,Augusta Jaguars,Augusta
+303172306,2011,regular-season,2010-11-13,2,2306,home,FALSE,Kansas State,64,Wildcats,Kansas State Wildcats,Kansas St
+303172306,2011,regular-season,2010-11-13,2,2599,away,FALSE,St. John's,53,Red Storm,St. John's Red Storm,St John's
+303170066,2011,regular-season,2010-11-13,2,66,home,FALSE,Iowa State,58,Cyclones,Iowa State Cyclones,Iowa State
+303170066,2011,regular-season,2010-11-13,2,2710,away,FALSE,Western Illinois,32,Leathernecks,Western Illinois Leathernecks,W Illinois
+303170120,2011,regular-season,2010-11-13,2,120,home,FALSE,Maryland,73,Terrapins,Maryland Terrapins,Maryland
+303170120,2011,regular-season,2010-11-13,2,2405,away,FALSE,Monmouth,40,Hawks,Monmouth Hawks,Monmouth
+303172032,2011,regular-season,2010-11-13,2,2032,home,TRUE,Arkansas State,47,Red Wolves,Arkansas State Red Wolves,Arkansas St
+303172032,2011,regular-season,2010-11-13,2,2294,away,TRUE,Iowa,50,Hawkeyes,Iowa Hawkeyes,Iowa
+303170127,2011,regular-season,2010-11-13,2,127,home,FALSE,Michigan State,90,Spartans,Michigan State Spartans,Michigan St
+303170127,2011,regular-season,2010-11-13,2,2870,away,FALSE,Purdue Fort Wayne,62,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW

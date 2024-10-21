@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-223512448,2002-12-17,2,2448,home,FALSE,North Carolina A&T,57,Aggies,North Carolina A&T Aggies,NC A&T
-223512448,2002-12-17,2,150,away,FALSE,Duke,91,Blue Devils,Duke Blue Devils,Duke
-223512132,2002-12-17,2,2132,home,FALSE,Cincinnati,77,Bearcats,Cincinnati Bearcats,Cincinnati
-223512132,2002-12-17,2,2483,away,FALSE,Oregon,52,Ducks,Oregon Ducks,Oregon
-223510127,2002-12-17,2,127,home,FALSE,Michigan State,80,Spartans,Michigan State Spartans,Michigan St
-223510127,2002-12-17,2,2350,away,FALSE,Loyola Chicago,54,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-223510024,2002-12-17,2,24,home,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
-223510024,2002-12-17,2,257,away,FALSE,Richmond,83,Spiders,Richmond Spiders,Richmond
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+223512448,2003,regular-season,2002-12-17,2,2448,home,FALSE,North Carolina A&T,57,Aggies,North Carolina A&T Aggies,NC A&T
+223512448,2003,regular-season,2002-12-17,2,150,away,FALSE,Duke,91,Blue Devils,Duke Blue Devils,Duke
+223512132,2003,regular-season,2002-12-17,2,2132,home,FALSE,Cincinnati,77,Bearcats,Cincinnati Bearcats,Cincinnati
+223512132,2003,regular-season,2002-12-17,2,2483,away,FALSE,Oregon,52,Ducks,Oregon Ducks,Oregon
+223510127,2003,regular-season,2002-12-17,2,127,home,FALSE,Michigan State,80,Spartans,Michigan State Spartans,Michigan St
+223510127,2003,regular-season,2002-12-17,2,2350,away,FALSE,Loyola Chicago,54,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+223510024,2003,regular-season,2002-12-17,2,24,home,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
+223510024,2003,regular-season,2002-12-17,2,257,away,FALSE,Richmond,83,Spiders,Richmond Spiders,Richmond

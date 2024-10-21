@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401255666,2020-12-19,2,2250,home,TRUE,Gonzaga,99,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401255666,2020-12-19,2,2294,away,TRUE,Iowa,88,Hawkeyes,Iowa Hawkeyes,Iowa
-401253836,2020-12-19,2,2306,home,FALSE,Kansas State,69,Wildcats,Kansas State Wildcats,Kansas St
-401253836,2020-12-19,2,239,away,FALSE,Baylor,100,Bears,Baylor Bears,Baylor
-401270594,2020-12-19,2,222,home,FALSE,Villanova,88,Wildcats,Villanova Wildcats,Villanova
-401270594,2020-12-19,2,2603,away,FALSE,Saint Joseph's,68,Hawks,Saint Joseph's Hawks,Saint Joseph's
-401260333,2020-12-19,2,52,home,FALSE,Florida State,74,Seminoles,Florida State Seminoles,Florida St
-401260333,2020-12-19,2,2116,away,FALSE,UCF,86,Knights,UCF Knights,UCF
-401266886,2020-12-19,0,150,home,FALSE,Duke,0,Blue Devils,Duke Blue Devils,Duke
-401266886,2020-12-19,0,2241,away,FALSE,Gardner-Webb,0,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-401269874,2020-12-19,0,2579,home,FALSE,South Carolina,0,Gamecocks,South Carolina Gamecocks,South Carolina
-401269874,2020-12-19,0,228,away,FALSE,Clemson,0,Tigers,Clemson Tigers,Clemson
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401255666,2021,regular-season,2020-12-19,2,2250,home,TRUE,Gonzaga,99,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401255666,2021,regular-season,2020-12-19,2,2294,away,TRUE,Iowa,88,Hawkeyes,Iowa Hawkeyes,Iowa
+401253836,2021,regular-season,2020-12-19,2,2306,home,FALSE,Kansas State,69,Wildcats,Kansas State Wildcats,Kansas St
+401253836,2021,regular-season,2020-12-19,2,239,away,FALSE,Baylor,100,Bears,Baylor Bears,Baylor
+401270594,2021,regular-season,2020-12-19,2,222,home,FALSE,Villanova,88,Wildcats,Villanova Wildcats,Villanova
+401270594,2021,regular-season,2020-12-19,2,2603,away,FALSE,Saint Joseph's,68,Hawks,Saint Joseph's Hawks,Saint Joseph's
+401260333,2021,regular-season,2020-12-19,2,52,home,FALSE,Florida State,74,Seminoles,Florida State Seminoles,Florida St
+401260333,2021,regular-season,2020-12-19,2,2116,away,FALSE,UCF,86,Knights,UCF Knights,UCF
+401266886,2021,regular-season,2020-12-19,0,150,home,FALSE,Duke,0,Blue Devils,Duke Blue Devils,Duke
+401266886,2021,regular-season,2020-12-19,0,2241,away,FALSE,Gardner-Webb,0,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+401269874,2021,regular-season,2020-12-19,0,2579,home,FALSE,South Carolina,0,Gamecocks,South Carolina Gamecocks,South Carolina
+401269874,2021,regular-season,2020-12-19,0,228,away,FALSE,Clemson,0,Tigers,Clemson Tigers,Clemson

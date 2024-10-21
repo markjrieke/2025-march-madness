@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250312633,2005-01-31,2,2633,home,FALSE,Tennessee,77,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-250312633,2005-01-31,2,61,away,FALSE,Georgia,70,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-250310052,2005-01-31,2,52,home,FALSE,Florida State,62,Seminoles,Florida State Seminoles,Florida St
-250310052,2005-01-31,2,258,away,FALSE,Virginia,77,Cavaliers,Virginia Cavaliers,Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250312633,2005,regular-season,2005-01-31,2,2633,home,FALSE,Tennessee,77,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+250312633,2005,regular-season,2005-01-31,2,61,away,FALSE,Georgia,70,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+250310052,2005,regular-season,2005-01-31,2,52,home,FALSE,Florida State,62,Seminoles,Florida State Seminoles,Florida St
+250310052,2005,regular-season,2005-01-31,2,258,away,FALSE,Virginia,77,Cavaliers,Virginia Cavaliers,Virginia

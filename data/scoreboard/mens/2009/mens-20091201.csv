@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293352509,2009-12-01,2,2509,home,FALSE,Purdue,69,Boilermakers,Purdue Boilermakers,Purdue
-293352509,2009-12-01,2,154,away,FALSE,Wake Forest,58,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-293350153,2009-12-01,2,153,home,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
-293350153,2009-12-01,2,127,away,FALSE,Michigan State,82,Spartans,Michigan State Spartans,Michigan St
-293350057,2009-12-01,2,57,home,FALSE,Florida,80,Gators,Florida Gators,Florida
-293350057,2009-12-01,2,50,away,FALSE,Florida A&M,59,Rattlers,Florida A&M Rattlers,Florida A&M
-293362132,2009-12-01,2,2132,home,FALSE,Cincinnati,94,Bearcats,Cincinnati Bearcats,Cincinnati
-293362132,2009-12-01,2,2640,away,FALSE,Texas Southern,57,Tigers,Texas Southern Tigers,Texas Southern
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293352509,2010,regular-season,2009-12-01,2,2509,home,FALSE,Purdue,69,Boilermakers,Purdue Boilermakers,Purdue
+293352509,2010,regular-season,2009-12-01,2,154,away,FALSE,Wake Forest,58,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+293350153,2010,regular-season,2009-12-01,2,153,home,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
+293350153,2010,regular-season,2009-12-01,2,127,away,FALSE,Michigan State,82,Spartans,Michigan State Spartans,Michigan St
+293350057,2010,regular-season,2009-12-01,2,57,home,FALSE,Florida,80,Gators,Florida Gators,Florida
+293350057,2010,regular-season,2009-12-01,2,50,away,FALSE,Florida A&M,59,Rattlers,Florida A&M Rattlers,Florida A&M
+293362132,2010,regular-season,2009-12-01,2,2132,home,FALSE,Cincinnati,94,Bearcats,Cincinnati Bearcats,Cincinnati
+293362132,2010,regular-season,2009-12-01,2,2640,away,FALSE,Texas Southern,57,Tigers,Texas Southern Tigers,Texas Southern

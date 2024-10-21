@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260270154,2006-01-27,2,154,home,FALSE,Wake Forest,57,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-260270154,2006-01-27,2,153,away,FALSE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
-260270026,2006-01-27,2,26,home,FALSE,UCLA,90,Bruins,UCLA Bruins,UCLA
-260270026,2006-01-27,2,24,away,FALSE,Stanford,80,Cardinal,Stanford Cardinal,Stanford
-260272603,2006-01-27,2,2603,home,FALSE,Saint Joseph's,65,Hawks,Saint Joseph's Hawks,Saint Joseph's
-260272603,2006-01-27,2,218,away,FALSE,Temple,64,Owls,Temple Owls,Temple
-260270030,2006-01-27,2,30,home,FALSE,USC,67,Trojans,USC Trojans,USC
-260270030,2006-01-27,2,25,away,FALSE,California,72,Golden Bears,California Golden Bears,California
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260270154,2006,regular-season,2006-01-27,2,154,home,FALSE,Wake Forest,57,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+260270154,2006,regular-season,2006-01-27,2,153,away,FALSE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
+260270026,2006,regular-season,2006-01-27,2,26,home,FALSE,UCLA,90,Bruins,UCLA Bruins,UCLA
+260270026,2006,regular-season,2006-01-27,2,24,away,FALSE,Stanford,80,Cardinal,Stanford Cardinal,Stanford
+260272603,2006,regular-season,2006-01-27,2,2603,home,FALSE,Saint Joseph's,65,Hawks,Saint Joseph's Hawks,Saint Joseph's
+260272603,2006,regular-season,2006-01-27,2,218,away,FALSE,Temple,64,Owls,Temple Owls,Temple
+260270030,2006,regular-season,2006-01-27,2,30,home,FALSE,USC,67,Trojans,USC Trojans,USC
+260270030,2006,regular-season,2006-01-27,2,25,away,FALSE,California,72,Golden Bears,California Golden Bears,California

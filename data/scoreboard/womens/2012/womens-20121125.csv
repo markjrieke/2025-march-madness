@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323300024,2012-11-25,2,24,home,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
-323300024,2012-11-25,2,299,away,FALSE,Long Beach State,41,Beach,Long Beach State Beach,Long Beach St
-323302752,2012-11-25,2,2752,home,FALSE,Xavier,59,Musketeers,Xavier Musketeers,Xavier
-323302752,2012-11-25,2,150,away,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
-323300096,2012-11-25,2,96,home,FALSE,Kentucky,100,Wildcats,Kentucky Wildcats,Kentucky
-323300096,2012-11-25,2,2908,away,FALSE,South Carolina Upstate,34,Spartans,South Carolina Upstate Spartans,SC Upstate
-323300194,2012-11-25,2,194,home,FALSE,Ohio State,82,Buckeyes,Ohio State Buckeyes,Ohio State
-323300194,2012-11-25,2,2750,away,FALSE,Wright State,52,Raiders,Wright State Raiders,Wright St
-323300042,2012-11-25,2,42,home,FALSE,Hartford,54,Hawks,Hartford Hawks,Hartford
-323300042,2012-11-25,2,2599,away,FALSE,St. John's,66,Red Storm,St. John's Red Storm,St John's
-323300026,2012-11-25,2,26,home,FALSE,UCLA,65,Bruins,UCLA Bruins,UCLA
-323300026,2012-11-25,2,163,away,FALSE,Princeton,52,Tigers,Princeton Tigers,Princeton
-323302633,2012-11-25,2,2633,home,FALSE,Tennessee,90,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-323302633,2012-11-25,2,2016,away,FALSE,Alcorn State,37,Lady Braves,Alcorn State Lady Braves,Alcorn St
-323300156,2012-11-25,2,156,home,FALSE,Creighton,48,Bluejays,Creighton Bluejays,Creighton
-323300156,2012-11-25,2,2305,away,FALSE,Kansas,58,Jayhawks,Kansas Jayhawks,Kansas
-323300153,2012-11-25,2,153,home,FALSE,North Carolina,101,Tar Heels,North Carolina Tar Heels,North Carolina
-323300153,2012-11-25,2,2427,away,FALSE,UNC Asheville,42,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323300024,2013,regular-season,2012-11-25,2,24,home,FALSE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
+323300024,2013,regular-season,2012-11-25,2,299,away,FALSE,Long Beach State,41,Beach,Long Beach State Beach,Long Beach St
+323302752,2013,regular-season,2012-11-25,2,2752,home,FALSE,Xavier,59,Musketeers,Xavier Musketeers,Xavier
+323302752,2013,regular-season,2012-11-25,2,150,away,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
+323300096,2013,regular-season,2012-11-25,2,96,home,FALSE,Kentucky,100,Wildcats,Kentucky Wildcats,Kentucky
+323300096,2013,regular-season,2012-11-25,2,2908,away,FALSE,South Carolina Upstate,34,Spartans,South Carolina Upstate Spartans,SC Upstate
+323300194,2013,regular-season,2012-11-25,2,194,home,FALSE,Ohio State,82,Buckeyes,Ohio State Buckeyes,Ohio State
+323300194,2013,regular-season,2012-11-25,2,2750,away,FALSE,Wright State,52,Raiders,Wright State Raiders,Wright St
+323300042,2013,regular-season,2012-11-25,2,42,home,FALSE,Hartford,54,Hawks,Hartford Hawks,Hartford
+323300042,2013,regular-season,2012-11-25,2,2599,away,FALSE,St. John's,66,Red Storm,St. John's Red Storm,St John's
+323300026,2013,regular-season,2012-11-25,2,26,home,FALSE,UCLA,65,Bruins,UCLA Bruins,UCLA
+323300026,2013,regular-season,2012-11-25,2,163,away,FALSE,Princeton,52,Tigers,Princeton Tigers,Princeton
+323302633,2013,regular-season,2012-11-25,2,2633,home,FALSE,Tennessee,90,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+323302633,2013,regular-season,2012-11-25,2,2016,away,FALSE,Alcorn State,37,Lady Braves,Alcorn State Lady Braves,Alcorn St
+323300156,2013,regular-season,2012-11-25,2,156,home,FALSE,Creighton,48,Bluejays,Creighton Bluejays,Creighton
+323300156,2013,regular-season,2012-11-25,2,2305,away,FALSE,Kansas,58,Jayhawks,Kansas Jayhawks,Kansas
+323300153,2013,regular-season,2012-11-25,2,153,home,FALSE,North Carolina,101,Tar Heels,North Carolina Tar Heels,North Carolina
+323300153,2013,regular-season,2012-11-25,2,2427,away,FALSE,UNC Asheville,42,Bulldogs,UNC Asheville Bulldogs,UNC Asheville

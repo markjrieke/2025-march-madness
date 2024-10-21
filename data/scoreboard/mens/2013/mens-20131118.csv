@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400498038,2013-11-18,2,26,home,FALSE,UCLA,86,Bruins,UCLA Bruins,UCLA
-400498038,2013-11-18,2,16,away,FALSE,Sacramento State,50,Hornets,Sacramento State Hornets,Sacramento St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400498038,2014,regular-season,2013-11-18,2,26,home,FALSE,UCLA,86,Bruins,UCLA Bruins,UCLA
+400498038,2014,regular-season,2013-11-18,2,16,away,FALSE,Sacramento State,50,Hornets,Sacramento State Hornets,Sacramento St

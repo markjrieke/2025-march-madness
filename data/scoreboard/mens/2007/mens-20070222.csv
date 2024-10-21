@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270530026,2007-02-22,2,26,home,FALSE,UCLA,85,Bruins,UCLA Bruins,UCLA
-270530026,2007-02-22,2,25,away,FALSE,California,75,Golden Bears,California Golden Bears,California
-270530235,2007-02-22,2,235,home,FALSE,Memphis,99,Tigers,Memphis Tigers,Memphis
-270530235,2007-02-22,2,242,away,FALSE,Rice,63,Owls,Rice Owls,Rice
-270532483,2007-02-22,2,2483,home,FALSE,Oregon,64,Ducks,Oregon Ducks,Oregon
-270532483,2007-02-22,2,265,away,FALSE,Washington State,59,Cougars,Washington State Cougars,Washington St
-270530070,2007-02-22,2,70,home,FALSE,Idaho,68,Vandals,Idaho Vandals,Idaho
-270530070,2007-02-22,2,2440,away,FALSE,Nevada,84,Wolf Pack,Nevada Wolf Pack,Nevada
-270532086,2007-02-22,2,2086,home,FALSE,Butler,71,Bulldogs,Butler Bulldogs,Butler
-270532086,2007-02-22,2,2350,away,FALSE,Loyola Chicago,75,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-270530228,2007-02-22,2,228,home,FALSE,Clemson,66,Tigers,Clemson Tigers,Clemson
-270530228,2007-02-22,2,150,away,FALSE,Duke,71,Blue Devils,Duke Blue Devils,Duke
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270530026,2007,regular-season,2007-02-22,2,26,home,FALSE,UCLA,85,Bruins,UCLA Bruins,UCLA
+270530026,2007,regular-season,2007-02-22,2,25,away,FALSE,California,75,Golden Bears,California Golden Bears,California
+270530235,2007,regular-season,2007-02-22,2,235,home,FALSE,Memphis,99,Tigers,Memphis Tigers,Memphis
+270530235,2007,regular-season,2007-02-22,2,242,away,FALSE,Rice,63,Owls,Rice Owls,Rice
+270532483,2007,regular-season,2007-02-22,2,2483,home,FALSE,Oregon,64,Ducks,Oregon Ducks,Oregon
+270532483,2007,regular-season,2007-02-22,2,265,away,FALSE,Washington State,59,Cougars,Washington State Cougars,Washington St
+270530070,2007,regular-season,2007-02-22,2,70,home,FALSE,Idaho,68,Vandals,Idaho Vandals,Idaho
+270530070,2007,regular-season,2007-02-22,2,2440,away,FALSE,Nevada,84,Wolf Pack,Nevada Wolf Pack,Nevada
+270532086,2007,regular-season,2007-02-22,2,2086,home,FALSE,Butler,71,Bulldogs,Butler Bulldogs,Butler
+270532086,2007,regular-season,2007-02-22,2,2350,away,FALSE,Loyola Chicago,75,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+270530228,2007,regular-season,2007-02-22,2,228,home,FALSE,Clemson,66,Tigers,Clemson Tigers,Clemson
+270530228,2007,regular-season,2007-02-22,2,150,away,FALSE,Duke,71,Blue Devils,Duke Blue Devils,Duke

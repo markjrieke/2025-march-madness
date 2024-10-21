@@ -1,37 +1,37 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250020099,2005-01-02,2,99,home,FALSE,LSU,79,Tigers,LSU Tigers,LSU
-250020099,2005-01-02,2,2655,away,FALSE,Tulane,45,Green Wave,Tulane Green Wave,Tulane
-250020251,2005-01-02,2,251,home,FALSE,Texas,47,Longhorns,Texas Longhorns,Texas
-250020251,2005-01-02,2,164,away,FALSE,Rutgers,51,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-250020024,2005-01-02,2,24,home,FALSE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
-250020024,2005-01-02,2,265,away,FALSE,Washington State,39,Cougars,Washington State Cougars,Washington St
-250020087,2005-01-02,2,87,home,FALSE,Notre Dame,54,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-250020087,2005-01-02,2,2550,away,FALSE,Seton Hall,33,Pirates,Seton Hall Pirates,Seton Hall
-250020295,2005-01-02,2,295,home,FALSE,Old Dominion,58,Monarchs,Old Dominion Monarchs,Old Dominion
-250020295,2005-01-02,2,2633,away,FALSE,Tennessee,68,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-250020194,2005-01-02,2,194,home,FALSE,Ohio State,63,Buckeyes,Ohio State Buckeyes,Ohio State
-250020194,2005-01-02,2,2509,away,FALSE,Purdue,50,Boilermakers,Purdue Boilermakers,Purdue
-250020130,2005-01-02,2,130,home,FALSE,Michigan,60,Wolverines,Michigan Wolverines,Michigan
-250020130,2005-01-02,2,127,away,FALSE,Michigan State,70,Spartans,Michigan State Spartans,Michigan St
-250022599,2005-01-02,2,2599,home,FALSE,St. John's,32,Red Storm,St. John's Red Storm,St John's
-250022599,2005-01-02,2,41,away,FALSE,UConn,60,Huskies,UConn Huskies,UConn
-250020135,2005-01-02,2,135,home,FALSE,Minnesota,61,Golden Gophers,Minnesota Golden Gophers,Minnesota
-250020135,2005-01-02,2,84,away,FALSE,Indiana,47,Hoosiers,Indiana Hoosiers,Indiana
-250022641,2005-01-02,2,2641,home,FALSE,Texas Tech,86,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-250022641,2005-01-02,2,304,away,FALSE,Idaho State,52,Bengals,Idaho State Bengals,Idaho St
-250020277,2005-01-02,2,277,home,FALSE,West Virginia,56,Mountaineers,West Virginia Mountaineers,West Virginia
-250020277,2005-01-02,2,103,away,FALSE,Boston College,69,Eagles,Boston College Eagles,Boston College
-250020238,2005-01-02,2,238,home,FALSE,Vanderbilt,78,Commodores,Vanderbilt Commodores,Vanderbilt
-250020238,2005-01-02,2,2653,away,FALSE,Troy,50,Trojans,Troy Trojans,Troy
-250020061,2005-01-02,2,61,home,FALSE,Georgia,68,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-250020061,2005-01-02,2,2630,away,FALSE,UT Martin,52,Skyhawks,UT Martin Skyhawks,UT Martin
-250020259,2005-01-02,2,259,home,FALSE,Virginia Tech,77,Hokies,Virginia Tech Hokies,Virginia Tech
-250020259,2005-01-02,2,120,away,FALSE,Maryland,67,Terrapins,Maryland Terrapins,Maryland
-250020356,2005-01-02,2,356,home,FALSE,Illinois,58,Fighting Illini,Illinois Fighting Illini,Illinois
-250020356,2005-01-02,2,2294,away,FALSE,Iowa,72,Hawkeyes,Iowa Hawkeyes,Iowa
-250020305,2005-01-02,2,305,home,FALSE,DePaul,92,Blue Demons,DePaul Blue Demons,DePaul
-250020305,2005-01-02,2,107,away,FALSE,Holy Cross,49,Crusaders,Holy Cross Crusaders,Holy Cross
-250022306,2005-01-02,2,2306,home,FALSE,Kansas State,77,Wildcats,Kansas State Wildcats,Kansas St
-250022306,2005-01-02,2,2115,away,FALSE,Central Connecticut,23,Blue Devils,Central Connecticut Blue Devils,C Connecticut
-250020026,2005-01-02,2,26,home,FALSE,UCLA,73,Bruins,UCLA Bruins,UCLA
-250020026,2005-01-02,2,204,away,FALSE,Oregon State,45,Beavers,Oregon State Beavers,Oregon St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250020099,2005,regular-season,2005-01-02,2,99,home,FALSE,LSU,79,Tigers,LSU Tigers,LSU
+250020099,2005,regular-season,2005-01-02,2,2655,away,FALSE,Tulane,45,Green Wave,Tulane Green Wave,Tulane
+250020251,2005,regular-season,2005-01-02,2,251,home,FALSE,Texas,47,Longhorns,Texas Longhorns,Texas
+250020251,2005,regular-season,2005-01-02,2,164,away,FALSE,Rutgers,51,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+250020024,2005,regular-season,2005-01-02,2,24,home,FALSE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
+250020024,2005,regular-season,2005-01-02,2,265,away,FALSE,Washington State,39,Cougars,Washington State Cougars,Washington St
+250020087,2005,regular-season,2005-01-02,2,87,home,FALSE,Notre Dame,54,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+250020087,2005,regular-season,2005-01-02,2,2550,away,FALSE,Seton Hall,33,Pirates,Seton Hall Pirates,Seton Hall
+250020295,2005,regular-season,2005-01-02,2,295,home,FALSE,Old Dominion,58,Monarchs,Old Dominion Monarchs,Old Dominion
+250020295,2005,regular-season,2005-01-02,2,2633,away,FALSE,Tennessee,68,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+250020194,2005,regular-season,2005-01-02,2,194,home,FALSE,Ohio State,63,Buckeyes,Ohio State Buckeyes,Ohio State
+250020194,2005,regular-season,2005-01-02,2,2509,away,FALSE,Purdue,50,Boilermakers,Purdue Boilermakers,Purdue
+250020130,2005,regular-season,2005-01-02,2,130,home,FALSE,Michigan,60,Wolverines,Michigan Wolverines,Michigan
+250020130,2005,regular-season,2005-01-02,2,127,away,FALSE,Michigan State,70,Spartans,Michigan State Spartans,Michigan St
+250022599,2005,regular-season,2005-01-02,2,2599,home,FALSE,St. John's,32,Red Storm,St. John's Red Storm,St John's
+250022599,2005,regular-season,2005-01-02,2,41,away,FALSE,UConn,60,Huskies,UConn Huskies,UConn
+250020135,2005,regular-season,2005-01-02,2,135,home,FALSE,Minnesota,61,Golden Gophers,Minnesota Golden Gophers,Minnesota
+250020135,2005,regular-season,2005-01-02,2,84,away,FALSE,Indiana,47,Hoosiers,Indiana Hoosiers,Indiana
+250022641,2005,regular-season,2005-01-02,2,2641,home,FALSE,Texas Tech,86,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+250022641,2005,regular-season,2005-01-02,2,304,away,FALSE,Idaho State,52,Bengals,Idaho State Bengals,Idaho St
+250020277,2005,regular-season,2005-01-02,2,277,home,FALSE,West Virginia,56,Mountaineers,West Virginia Mountaineers,West Virginia
+250020277,2005,regular-season,2005-01-02,2,103,away,FALSE,Boston College,69,Eagles,Boston College Eagles,Boston College
+250020238,2005,regular-season,2005-01-02,2,238,home,FALSE,Vanderbilt,78,Commodores,Vanderbilt Commodores,Vanderbilt
+250020238,2005,regular-season,2005-01-02,2,2653,away,FALSE,Troy,50,Trojans,Troy Trojans,Troy
+250020061,2005,regular-season,2005-01-02,2,61,home,FALSE,Georgia,68,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+250020061,2005,regular-season,2005-01-02,2,2630,away,FALSE,UT Martin,52,Skyhawks,UT Martin Skyhawks,UT Martin
+250020259,2005,regular-season,2005-01-02,2,259,home,FALSE,Virginia Tech,77,Hokies,Virginia Tech Hokies,Virginia Tech
+250020259,2005,regular-season,2005-01-02,2,120,away,FALSE,Maryland,67,Terrapins,Maryland Terrapins,Maryland
+250020356,2005,regular-season,2005-01-02,2,356,home,FALSE,Illinois,58,Fighting Illini,Illinois Fighting Illini,Illinois
+250020356,2005,regular-season,2005-01-02,2,2294,away,FALSE,Iowa,72,Hawkeyes,Iowa Hawkeyes,Iowa
+250020305,2005,regular-season,2005-01-02,2,305,home,FALSE,DePaul,92,Blue Demons,DePaul Blue Demons,DePaul
+250020305,2005,regular-season,2005-01-02,2,107,away,FALSE,Holy Cross,49,Crusaders,Holy Cross Crusaders,Holy Cross
+250022306,2005,regular-season,2005-01-02,2,2306,home,FALSE,Kansas State,77,Wildcats,Kansas State Wildcats,Kansas St
+250022306,2005,regular-season,2005-01-02,2,2115,away,FALSE,Central Connecticut,23,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+250020026,2005,regular-season,2005-01-02,2,26,home,FALSE,UCLA,73,Bruins,UCLA Bruins,UCLA
+250020026,2005,regular-season,2005-01-02,2,204,away,FALSE,Oregon State,45,Beavers,Oregon State Beavers,Oregon St

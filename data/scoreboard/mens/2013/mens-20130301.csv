@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330602561,2013-03-01,2,2561,home,FALSE,Siena,74,Saints,Siena Saints,Siena
-330602561,2013-03-01,2,2368,away,FALSE,Marist,76,Red Foxes,Marist Red Foxes,Marist
-330602193,2013-03-01,2,2193,home,FALSE,East Tennessee State,56,Buccaneers,East Tennessee State Buccaneers,ETSU
-330602193,2013-03-01,2,2908,away,FALSE,South Carolina Upstate,88,Spartans,South Carolina Upstate Spartans,SC Upstate
-330600314,2013-03-01,2,314,home,FALSE,Iona,90,Gaels,Iona Gaels,Iona
-330600314,2013-03-01,2,2352,away,FALSE,Loyola Maryland,86,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-330600219,2013-03-01,2,219,home,FALSE,Pennsylvania,64,Quakers,Pennsylvania Quakers,Penn
-330600219,2013-03-01,2,159,away,FALSE,Dartmouth,69,Big Green,Dartmouth Big Green,Dartmouth
-330600172,2013-03-01,2,172,home,FALSE,Cornell,65,Big Red,Cornell Big Red,Cornell
-330600172,2013-03-01,2,225,away,FALSE,Brown,84,Bears,Brown Bears,Brown
-330600171,2013-03-01,2,171,home,FALSE,Columbia,59,Lions,Columbia Lions,Columbia
-330600171,2013-03-01,2,43,away,FALSE,Yale,46,Bulldogs,Yale Bulldogs,Yale
-330600163,2013-03-01,2,163,home,FALSE,Princeton,58,Tigers,Princeton Tigers,Princeton
-330600163,2013-03-01,2,108,away,FALSE,Harvard,53,Crimson,Harvard Crimson,Harvard
-330602363,2013-03-01,2,2363,home,FALSE,Manhattan,34,Jaspers,Manhattan Jaspers,Manhattan
-330602363,2013-03-01,2,2217,away,FALSE,Fairfield,31,Stags,Fairfield Stags,Fairfield
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330602561,2013,regular-season,2013-03-01,2,2561,home,FALSE,Siena,74,Saints,Siena Saints,Siena
+330602561,2013,regular-season,2013-03-01,2,2368,away,FALSE,Marist,76,Red Foxes,Marist Red Foxes,Marist
+330602193,2013,regular-season,2013-03-01,2,2193,home,FALSE,East Tennessee State,56,Buccaneers,East Tennessee State Buccaneers,ETSU
+330602193,2013,regular-season,2013-03-01,2,2908,away,FALSE,South Carolina Upstate,88,Spartans,South Carolina Upstate Spartans,SC Upstate
+330600314,2013,regular-season,2013-03-01,2,314,home,FALSE,Iona,90,Gaels,Iona Gaels,Iona
+330600314,2013,regular-season,2013-03-01,2,2352,away,FALSE,Loyola Maryland,86,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+330600219,2013,regular-season,2013-03-01,2,219,home,FALSE,Pennsylvania,64,Quakers,Pennsylvania Quakers,Penn
+330600219,2013,regular-season,2013-03-01,2,159,away,FALSE,Dartmouth,69,Big Green,Dartmouth Big Green,Dartmouth
+330600172,2013,regular-season,2013-03-01,2,172,home,FALSE,Cornell,65,Big Red,Cornell Big Red,Cornell
+330600172,2013,regular-season,2013-03-01,2,225,away,FALSE,Brown,84,Bears,Brown Bears,Brown
+330600171,2013,regular-season,2013-03-01,2,171,home,FALSE,Columbia,59,Lions,Columbia Lions,Columbia
+330600171,2013,regular-season,2013-03-01,2,43,away,FALSE,Yale,46,Bulldogs,Yale Bulldogs,Yale
+330600163,2013,regular-season,2013-03-01,2,163,home,FALSE,Princeton,58,Tigers,Princeton Tigers,Princeton
+330600163,2013,regular-season,2013-03-01,2,108,away,FALSE,Harvard,53,Crimson,Harvard Crimson,Harvard
+330602363,2013,regular-season,2013-03-01,2,2363,home,FALSE,Manhattan,34,Jaspers,Manhattan Jaspers,Manhattan
+330602363,2013,regular-season,2013-03-01,2,2217,away,FALSE,Fairfield,31,Stags,Fairfield Stags,Fairfield

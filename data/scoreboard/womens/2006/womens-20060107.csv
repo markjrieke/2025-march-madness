@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260072633,2006-01-07,2,2633,home,FALSE,Tennessee,89,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-260072633,2006-01-07,2,41,away,FALSE,UConn,80,Huskies,UConn Huskies,UConn
-260060099,2006-01-07,2,99,home,FALSE,LSU,66,Tigers,LSU Tigers,LSU
-260060099,2006-01-07,2,135,away,FALSE,Minnesota,45,Golden Gophers,Minnesota Golden Gophers,Minnesota
-260070239,2006-01-07,2,239,home,FALSE,Baylor,61,Bears,Baylor Bears,Baylor
-260070239,2006-01-07,2,251,away,FALSE,Texas,48,Longhorns,Texas Longhorns,Texas
-260070127,2006-01-07,2,127,home,FALSE,Michigan State,73,Spartans,Michigan State Spartans,Michigan St
-260070127,2006-01-07,2,164,away,FALSE,Rutgers,71,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-260070087,2006-01-07,2,87,home,FALSE,Notre Dame,61,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-260070087,2006-01-07,2,2550,away,FALSE,Seton Hall,74,Pirates,Seton Hall Pirates,Seton Hall
-260070269,2006-01-07,2,269,home,FALSE,Marquette,52,Golden Eagles,Marquette Golden Eagles,Marquette
-260070269,2006-01-07,2,305,away,FALSE,DePaul,67,Blue Demons,DePaul Blue Demons,DePaul
-260072483,2006-01-07,2,2483,home,FALSE,Oregon,64,Ducks,Oregon Ducks,Oregon
-260072483,2006-01-07,2,24,away,FALSE,Stanford,76,Cardinal,Stanford Cardinal,Stanford
-260070201,2006-01-07,2,201,home,FALSE,Oklahoma,84,Sooners,Oklahoma Sooners,Oklahoma
-260070201,2006-01-07,2,38,away,FALSE,Colorado,61,Buffaloes,Colorado Buffaloes,Colorado
-260070036,2006-01-07,2,36,home,FALSE,Colorado State,57,Rams,Colorado State Rams,Colorado St
-260070036,2006-01-07,2,167,away,FALSE,New Mexico,73,Lobos,New Mexico Lobos,New Mexico
-260070254,2006-01-07,2,254,home,FALSE,Utah,60,Utes,Utah Utes,Utah
-260070254,2006-01-07,2,252,away,FALSE,BYU,61,Cougars,BYU Cougars,BYU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260072633,2006,regular-season,2006-01-07,2,2633,home,FALSE,Tennessee,89,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+260072633,2006,regular-season,2006-01-07,2,41,away,FALSE,UConn,80,Huskies,UConn Huskies,UConn
+260060099,2006,regular-season,2006-01-07,2,99,home,FALSE,LSU,66,Tigers,LSU Tigers,LSU
+260060099,2006,regular-season,2006-01-07,2,135,away,FALSE,Minnesota,45,Golden Gophers,Minnesota Golden Gophers,Minnesota
+260070239,2006,regular-season,2006-01-07,2,239,home,FALSE,Baylor,61,Bears,Baylor Bears,Baylor
+260070239,2006,regular-season,2006-01-07,2,251,away,FALSE,Texas,48,Longhorns,Texas Longhorns,Texas
+260070127,2006,regular-season,2006-01-07,2,127,home,FALSE,Michigan State,73,Spartans,Michigan State Spartans,Michigan St
+260070127,2006,regular-season,2006-01-07,2,164,away,FALSE,Rutgers,71,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+260070087,2006,regular-season,2006-01-07,2,87,home,FALSE,Notre Dame,61,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+260070087,2006,regular-season,2006-01-07,2,2550,away,FALSE,Seton Hall,74,Pirates,Seton Hall Pirates,Seton Hall
+260070269,2006,regular-season,2006-01-07,2,269,home,FALSE,Marquette,52,Golden Eagles,Marquette Golden Eagles,Marquette
+260070269,2006,regular-season,2006-01-07,2,305,away,FALSE,DePaul,67,Blue Demons,DePaul Blue Demons,DePaul
+260072483,2006,regular-season,2006-01-07,2,2483,home,FALSE,Oregon,64,Ducks,Oregon Ducks,Oregon
+260072483,2006,regular-season,2006-01-07,2,24,away,FALSE,Stanford,76,Cardinal,Stanford Cardinal,Stanford
+260070201,2006,regular-season,2006-01-07,2,201,home,FALSE,Oklahoma,84,Sooners,Oklahoma Sooners,Oklahoma
+260070201,2006,regular-season,2006-01-07,2,38,away,FALSE,Colorado,61,Buffaloes,Colorado Buffaloes,Colorado
+260070036,2006,regular-season,2006-01-07,2,36,home,FALSE,Colorado State,57,Rams,Colorado State Rams,Colorado St
+260070036,2006,regular-season,2006-01-07,2,167,away,FALSE,New Mexico,73,Lobos,New Mexico Lobos,New Mexico
+260070254,2006,regular-season,2006-01-07,2,254,home,FALSE,Utah,60,Utes,Utah Utes,Utah
+260070254,2006,regular-season,2006-01-07,2,252,away,FALSE,BYU,61,Cougars,BYU Cougars,BYU

@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-233490154,2003-12-15,2,154,home,FALSE,Wake Forest,87,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-233490154,2003-12-15,2,50,away,FALSE,Florida A&M,57,Rattlers,Florida A&M Rattlers,Florida A&M
-233490228,2003-12-15,2,228,home,FALSE,Clemson,82,Tigers,Clemson Tigers,Clemson
-233490228,2003-12-15,2,2193,away,FALSE,East Tennessee State,45,Bucs,East Tennessee State Bucs,ETSU
-233492065,2003-12-15,2,2065,home,FALSE,Bethune-Cookman,80,Wildcats,Bethune-Cookman Wildcats,Bethune
-233492065,2003-12-15,2,2755,away,FALSE,Grambling,52,Lady Tigers,Grambling Lady Tigers,Grambling
-233490295,2003-12-15,2,295,home,FALSE,Old Dominion,77,Monarchs,Old Dominion Monarchs,Old Dominion
-233490295,2003-12-15,2,2229,away,FALSE,Florida International,66,Panthers,Florida International Panthers,FIU
-233490276,2003-12-15,2,276,home,FALSE,Marshall,50,Thundering Herd,Marshall Thundering Herd,Marshall
-233490276,2003-12-15,2,2046,away,FALSE,Austin Peay,53,Governors,Austin Peay Governors,Austin Peay
-233490232,2003-12-15,2,232,home,FALSE,Charleston,43,Cougars,Charleston Cougars,Charleston
-233490232,2003-12-15,2,236,away,FALSE,Chattanooga,71,Mocs,Chattanooga Mocs,Chattanooga
-233492634,2003-12-15,2,2634,home,FALSE,Tennessee State,63,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
-233492634,2003-12-15,2,2393,away,FALSE,Middle Tennessee,82,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-233492433,2003-12-15,2,2433,home,FALSE,UL Monroe,80,Warhawks,UL Monroe Warhawks,UL Monroe
-233492433,2003-12-15,2,2443,away,FALSE,New Orleans,58,Privateers,New Orleans Privateers,New Orleans
-233490333,2003-12-15,2,333,home,FALSE,Alabama,83,Crimson Tide,Alabama Crimson Tide,Alabama
-233490333,2003-12-15,2,2635,away,FALSE,Tennessee Tech,61,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
-233490250,2003-12-15,2,250,home,FALSE,UT Arlington,66,Mavericks,UT Arlington Mavericks,UT Arlington
-233490250,2003-12-15,2,2608,away,FALSE,Saint Mary's,73,Gaels,Saint Mary's Gaels,Saint Mary's
-233490239,2003-12-15,2,239,home,FALSE,Baylor,79,Bears,Baylor Bears,Baylor
-233490239,2003-12-15,2,2545,away,FALSE,SE Louisiana,46,Lady Lions,SE Louisiana Lady Lions,SE Louisiana
-233490099,2003-12-15,2,99,home,FALSE,LSU,74,Tigers,LSU Tigers,LSU
-233490099,2003-12-15,2,2534,away,FALSE,Sam Houston,38,Bearkats,Sam Houston Bearkats,Sam Houston
-233492546,2003-12-15,2,2546,home,FALSE,Southeast Missouri State,59,Redhawks,Southeast Missouri State Redhawks,SE Missouri
-233492546,2003-12-15,2,2459,away,FALSE,Northern Illinois,57,Huskies,Northern Illinois Huskies,N Illinois
-233492464,2003-12-15,2,2464,home,FALSE,Northern Arizona,68,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
-233492464,2003-12-15,2,2463,away,FALSE,Cal State Northridge,55,Matadors,Cal State Northridge Matadors,CSU Northridge
-233492351,2003-12-15,2,2351,home,FALSE,Loyola Marymount,76,Lions,Loyola Marymount Lions,LMU
-233492351,2003-12-15,2,2439,away,FALSE,UNLV,64,Lady Rebels,UNLV Lady Rebels,UNLV
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+233490154,2004,regular-season,2003-12-15,2,154,home,FALSE,Wake Forest,87,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+233490154,2004,regular-season,2003-12-15,2,50,away,FALSE,Florida A&M,57,Rattlers,Florida A&M Rattlers,Florida A&M
+233490228,2004,regular-season,2003-12-15,2,228,home,FALSE,Clemson,82,Tigers,Clemson Tigers,Clemson
+233490228,2004,regular-season,2003-12-15,2,2193,away,FALSE,East Tennessee State,45,Bucs,East Tennessee State Bucs,ETSU
+233492065,2004,regular-season,2003-12-15,2,2065,home,FALSE,Bethune-Cookman,80,Wildcats,Bethune-Cookman Wildcats,Bethune
+233492065,2004,regular-season,2003-12-15,2,2755,away,FALSE,Grambling,52,Lady Tigers,Grambling Lady Tigers,Grambling
+233490295,2004,regular-season,2003-12-15,2,295,home,FALSE,Old Dominion,77,Monarchs,Old Dominion Monarchs,Old Dominion
+233490295,2004,regular-season,2003-12-15,2,2229,away,FALSE,Florida International,66,Panthers,Florida International Panthers,FIU
+233490276,2004,regular-season,2003-12-15,2,276,home,FALSE,Marshall,50,Thundering Herd,Marshall Thundering Herd,Marshall
+233490276,2004,regular-season,2003-12-15,2,2046,away,FALSE,Austin Peay,53,Governors,Austin Peay Governors,Austin Peay
+233490232,2004,regular-season,2003-12-15,2,232,home,FALSE,Charleston,43,Cougars,Charleston Cougars,Charleston
+233490232,2004,regular-season,2003-12-15,2,236,away,FALSE,Chattanooga,71,Mocs,Chattanooga Mocs,Chattanooga
+233492634,2004,regular-season,2003-12-15,2,2634,home,FALSE,Tennessee State,63,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
+233492634,2004,regular-season,2003-12-15,2,2393,away,FALSE,Middle Tennessee,82,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+233492433,2004,regular-season,2003-12-15,2,2433,home,FALSE,UL Monroe,80,Warhawks,UL Monroe Warhawks,UL Monroe
+233492433,2004,regular-season,2003-12-15,2,2443,away,FALSE,New Orleans,58,Privateers,New Orleans Privateers,New Orleans
+233490333,2004,regular-season,2003-12-15,2,333,home,FALSE,Alabama,83,Crimson Tide,Alabama Crimson Tide,Alabama
+233490333,2004,regular-season,2003-12-15,2,2635,away,FALSE,Tennessee Tech,61,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
+233490250,2004,regular-season,2003-12-15,2,250,home,FALSE,UT Arlington,66,Mavericks,UT Arlington Mavericks,UT Arlington
+233490250,2004,regular-season,2003-12-15,2,2608,away,FALSE,Saint Mary's,73,Gaels,Saint Mary's Gaels,Saint Mary's
+233490239,2004,regular-season,2003-12-15,2,239,home,FALSE,Baylor,79,Bears,Baylor Bears,Baylor
+233490239,2004,regular-season,2003-12-15,2,2545,away,FALSE,SE Louisiana,46,Lady Lions,SE Louisiana Lady Lions,SE Louisiana
+233490099,2004,regular-season,2003-12-15,2,99,home,FALSE,LSU,74,Tigers,LSU Tigers,LSU
+233490099,2004,regular-season,2003-12-15,2,2534,away,FALSE,Sam Houston,38,Bearkats,Sam Houston Bearkats,Sam Houston
+233492546,2004,regular-season,2003-12-15,2,2546,home,FALSE,Southeast Missouri State,59,Redhawks,Southeast Missouri State Redhawks,SE Missouri
+233492546,2004,regular-season,2003-12-15,2,2459,away,FALSE,Northern Illinois,57,Huskies,Northern Illinois Huskies,N Illinois
+233492464,2004,regular-season,2003-12-15,2,2464,home,FALSE,Northern Arizona,68,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+233492464,2004,regular-season,2003-12-15,2,2463,away,FALSE,Cal State Northridge,55,Matadors,Cal State Northridge Matadors,CSU Northridge
+233492351,2004,regular-season,2003-12-15,2,2351,home,FALSE,Loyola Marymount,76,Lions,Loyola Marymount Lions,LMU
+233492351,2004,regular-season,2003-12-15,2,2439,away,FALSE,UNLV,64,Lady Rebels,UNLV Lady Rebels,UNLV

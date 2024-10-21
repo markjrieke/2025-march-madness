@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400839320,2015-12-19,2,111,home,FALSE,Northeastern,58,Huskies,Northeastern Huskies,Northeastern
-400839320,2015-12-19,2,127,away,FALSE,Michigan State,78,Spartans,Michigan State Spartans,Michigan St
-400813803,2015-12-19,2,2305,home,FALSE,Kansas,88,Jayhawks,Kansas Jayhawks,Kansas
-400813803,2015-12-19,2,149,away,FALSE,Montana,46,Grizzlies,Montana Grizzlies,Montana
-400816975,2015-12-19,2,201,home,FALSE,Oklahoma,87,Sooners,Oklahoma Sooners,Oklahoma
-400816975,2015-12-19,2,156,away,FALSE,Creighton,74,Bluejays,Creighton Bluejays,Creighton
-400820714,2015-12-19,2,120,home,TRUE,Maryland,82,Terrapins,Maryland Terrapins,Maryland
-400820714,2015-12-19,2,163,away,TRUE,Princeton,61,Tigers,Princeton Tigers,Princeton
-400830367,2015-12-19,2,258,home,FALSE,Virginia,86,Cavaliers,Virginia Cavaliers,Virginia
-400830367,2015-12-19,2,222,away,FALSE,Villanova,75,Wildcats,Villanova Wildcats,Villanova
-400814246,2015-12-19,2,2752,home,FALSE,Xavier,85,Musketeers,Xavier Musketeers,Xavier
-400814246,2015-12-19,2,2,away,FALSE,Auburn,61,Tigers,Auburn Tigers,Auburn
-400813825,2015-12-19,2,12,home,FALSE,Arizona,82,Wildcats,Arizona Wildcats,Arizona
-400813825,2015-12-19,2,2439,away,FALSE,UNLV,70,Rebels,UNLV Rebels,UNLV
-400827767,2015-12-19,2,2507,home,FALSE,Providence,73,Friars,Providence Friars,Providence
-400827767,2015-12-19,2,2520,away,FALSE,Rider,65,Broncs,Rider Broncs,Rider
-400827485,2015-12-19,2,2390,home,FALSE,Miami,85,Hurricanes,Miami Hurricanes,Miami
-400827485,2015-12-19,2,232,away,FALSE,Charleston,63,Cougars,Charleston Cougars,Charleston
-400830798,2015-12-19,2,245,home,FALSE,Texas A&M,80,Aggies,Texas A&M Aggies,Texas A&M
-400830798,2015-12-19,2,239,away,FALSE,Baylor,61,Bears,Baylor Bears,Baylor
-400839800,2015-12-19,2,97,home,FALSE,Louisville,78,Cardinals,Louisville Cardinals,Louisville
-400839800,2015-12-19,2,98,away,FALSE,Western Kentucky,56,Hilltoppers,Western Kentucky Hilltoppers,Western KY
-400820683,2015-12-19,2,45,home,FALSE,George Washington,87,Revolutionaries,George Washington Revolutionaries,G Washington
-400820683,2015-12-19,2,2612,away,FALSE,Saint Peter's,74,Peacocks,Saint Peter's Peacocks,Saint Peter's
-400820614,2015-12-19,2,2670,home,FALSE,VCU,63,Rams,VCU Rams,VCU
-400820614,2015-12-19,2,2132,away,FALSE,Cincinnati,69,Bearcats,Cincinnati Bearcats,Cincinnati
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400839320,2016,regular-season,2015-12-19,2,111,home,FALSE,Northeastern,58,Huskies,Northeastern Huskies,Northeastern
+400839320,2016,regular-season,2015-12-19,2,127,away,FALSE,Michigan State,78,Spartans,Michigan State Spartans,Michigan St
+400813803,2016,regular-season,2015-12-19,2,2305,home,FALSE,Kansas,88,Jayhawks,Kansas Jayhawks,Kansas
+400813803,2016,regular-season,2015-12-19,2,149,away,FALSE,Montana,46,Grizzlies,Montana Grizzlies,Montana
+400816975,2016,regular-season,2015-12-19,2,201,home,FALSE,Oklahoma,87,Sooners,Oklahoma Sooners,Oklahoma
+400816975,2016,regular-season,2015-12-19,2,156,away,FALSE,Creighton,74,Bluejays,Creighton Bluejays,Creighton
+400820714,2016,regular-season,2015-12-19,2,120,home,TRUE,Maryland,82,Terrapins,Maryland Terrapins,Maryland
+400820714,2016,regular-season,2015-12-19,2,163,away,TRUE,Princeton,61,Tigers,Princeton Tigers,Princeton
+400830367,2016,regular-season,2015-12-19,2,258,home,FALSE,Virginia,86,Cavaliers,Virginia Cavaliers,Virginia
+400830367,2016,regular-season,2015-12-19,2,222,away,FALSE,Villanova,75,Wildcats,Villanova Wildcats,Villanova
+400814246,2016,regular-season,2015-12-19,2,2752,home,FALSE,Xavier,85,Musketeers,Xavier Musketeers,Xavier
+400814246,2016,regular-season,2015-12-19,2,2,away,FALSE,Auburn,61,Tigers,Auburn Tigers,Auburn
+400813825,2016,regular-season,2015-12-19,2,12,home,FALSE,Arizona,82,Wildcats,Arizona Wildcats,Arizona
+400813825,2016,regular-season,2015-12-19,2,2439,away,FALSE,UNLV,70,Rebels,UNLV Rebels,UNLV
+400827767,2016,regular-season,2015-12-19,2,2507,home,FALSE,Providence,73,Friars,Providence Friars,Providence
+400827767,2016,regular-season,2015-12-19,2,2520,away,FALSE,Rider,65,Broncs,Rider Broncs,Rider
+400827485,2016,regular-season,2015-12-19,2,2390,home,FALSE,Miami,85,Hurricanes,Miami Hurricanes,Miami
+400827485,2016,regular-season,2015-12-19,2,232,away,FALSE,Charleston,63,Cougars,Charleston Cougars,Charleston
+400830798,2016,regular-season,2015-12-19,2,245,home,FALSE,Texas A&M,80,Aggies,Texas A&M Aggies,Texas A&M
+400830798,2016,regular-season,2015-12-19,2,239,away,FALSE,Baylor,61,Bears,Baylor Bears,Baylor
+400839800,2016,regular-season,2015-12-19,2,97,home,FALSE,Louisville,78,Cardinals,Louisville Cardinals,Louisville
+400839800,2016,regular-season,2015-12-19,2,98,away,FALSE,Western Kentucky,56,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+400820683,2016,regular-season,2015-12-19,2,45,home,FALSE,George Washington,87,Revolutionaries,George Washington Revolutionaries,G Washington
+400820683,2016,regular-season,2015-12-19,2,2612,away,FALSE,Saint Peter's,74,Peacocks,Saint Peter's Peacocks,Saint Peter's
+400820614,2016,regular-season,2015-12-19,2,2670,home,FALSE,VCU,63,Rams,VCU Rams,VCU
+400820614,2016,regular-season,2015-12-19,2,2132,away,FALSE,Cincinnati,69,Bearcats,Cincinnati Bearcats,Cincinnati

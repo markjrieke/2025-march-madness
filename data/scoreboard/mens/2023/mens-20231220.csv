@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401591434,2023-12-20,2,12,home,TRUE,Arizona,87,Wildcats,Arizona Wildcats,Arizona
-401591434,2023-12-20,2,333,away,TRUE,Alabama,74,Crimson Tide,Alabama Crimson Tide,Alabama
-401599441,2023-12-20,2,2550,home,FALSE,Seton Hall,75,Pirates,Seton Hall Pirates,Seton Hall
-401599441,2023-12-20,2,41,away,FALSE,UConn,60,Huskies,UConn Huskies,UConn
-401578668,2023-12-20,2,201,home,TRUE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma
-401578668,2023-12-20,2,153,away,TRUE,North Carolina,81,Tar Heels,North Carolina Tar Heels,North Carolina
-401576155,2023-12-20,2,150,home,TRUE,Duke,78,Blue Devils,Duke Blue Devils,Duke
-401576155,2023-12-20,2,239,away,TRUE,Baylor,70,Bears,Baylor Bears,Baylor
-401599440,2023-12-20,3,156,home,FALSE,Creighton,66,Bluejays,Creighton Bluejays,Creighton
-401599440,2023-12-20,3,222,away,FALSE,Villanova,68,Wildcats,Villanova Wildcats,Villanova
-401583819,2023-12-20,2,2250,home,FALSE,Gonzaga,100,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401583819,2023-12-20,2,2296,away,FALSE,Jackson State,76,Tigers,Jackson State Tigers,Jackson St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401591434,2024,regular-season,2023-12-20,2,12,home,TRUE,Arizona,87,Wildcats,Arizona Wildcats,Arizona
+401591434,2024,regular-season,2023-12-20,2,333,away,TRUE,Alabama,74,Crimson Tide,Alabama Crimson Tide,Alabama
+401599441,2024,regular-season,2023-12-20,2,2550,home,FALSE,Seton Hall,75,Pirates,Seton Hall Pirates,Seton Hall
+401599441,2024,regular-season,2023-12-20,2,41,away,FALSE,UConn,60,Huskies,UConn Huskies,UConn
+401578668,2024,regular-season,2023-12-20,2,201,home,TRUE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma
+401578668,2024,regular-season,2023-12-20,2,153,away,TRUE,North Carolina,81,Tar Heels,North Carolina Tar Heels,North Carolina
+401576155,2024,regular-season,2023-12-20,2,150,home,TRUE,Duke,78,Blue Devils,Duke Blue Devils,Duke
+401576155,2024,regular-season,2023-12-20,2,239,away,TRUE,Baylor,70,Bears,Baylor Bears,Baylor
+401599440,2024,regular-season,2023-12-20,3,156,home,FALSE,Creighton,66,Bluejays,Creighton Bluejays,Creighton
+401599440,2024,regular-season,2023-12-20,3,222,away,FALSE,Villanova,68,Wildcats,Villanova Wildcats,Villanova
+401583819,2024,regular-season,2023-12-20,2,2250,home,FALSE,Gonzaga,100,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401583819,2024,regular-season,2023-12-20,2,2296,away,FALSE,Jackson State,76,Tigers,Jackson State Tigers,Jackson St

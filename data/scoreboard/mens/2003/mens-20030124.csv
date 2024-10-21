@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230242612,2003-01-24,2,2612,home,FALSE,Saint Peter's,70,Peacocks,Saint Peter's Peacocks,Saint Peter's
-230242612,2003-01-24,2,315,away,FALSE,Niagara,77,Purple Eagles,Niagara Purple Eagles,Niagara
-230240225,2003-01-24,2,225,home,FALSE,Brown,94,Bears,Brown Bears,Brown
-230240225,2003-01-24,2,43,away,FALSE,Yale,84,Bulldogs,Yale Bulldogs,Yale
-230242678,2003-01-24,2,2678,home,FALSE,VMI,68,Keydets,VMI Keydets,VMI
-230242678,2003-01-24,2,2026,away,FALSE,App State,85,Mountaineers,App State Mountaineers,App State
-230242520,2003-01-24,2,2520,home,FALSE,Rider,65,Broncs,Rider Broncs,Rider
-230242520,2003-01-24,2,2099,away,FALSE,Canisius,63,Golden Griffins,Canisius Golden Griffins,Canisius
-230242426,2003-01-24,2,2426,home,FALSE,Navy,61,Midshipmen,Navy Midshipmen,Navy
-230242426,2003-01-24,2,107,away,FALSE,Holy Cross,76,Crusaders,Holy Cross Crusaders,Holy Cross
-230240314,2003-01-24,2,314,home,FALSE,Iona,88,Gaels,Iona Gaels,Iona
-230240314,2003-01-24,2,2368,away,FALSE,Marist,74,Red Foxes,Marist Red Foxes,Marist
-230240044,2003-01-24,2,44,home,FALSE,American University,58,Eagles,American University Eagles,American
-230240044,2003-01-24,2,2142,away,FALSE,Colgate,55,Raiders,Colgate Raiders,Colgate
-230242083,2003-01-24,2,2083,home,FALSE,Bucknell,53,Bison,Bucknell Bison,Bucknell
-230242083,2003-01-24,2,349,away,FALSE,Army,38,Black Knights,Army Black Knights,Army
-230242057,2003-01-24,2,2057,home,FALSE,Belmont,64,Bruins,Belmont Bruins,Belmont
-230242057,2003-01-24,2,2653,away,FALSE,Troy,67,Trojans,Troy Trojans,Troy
-230242329,2003-01-24,2,2329,home,FALSE,Lehigh,85,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-230242329,2003-01-24,2,322,away,FALSE,Lafayette,73,Leopards,Lafayette Leopards,Lafayette
-230242501,2003-01-24,2,2501,home,FALSE,Portland,67,Pilots,Portland Pilots,Portland
-230242501,2003-01-24,2,2250,away,FALSE,Gonzaga,70,Bulldogs,Gonzaga Bulldogs,Gonzaga
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230242612,2003,regular-season,2003-01-24,2,2612,home,FALSE,Saint Peter's,70,Peacocks,Saint Peter's Peacocks,Saint Peter's
+230242612,2003,regular-season,2003-01-24,2,315,away,FALSE,Niagara,77,Purple Eagles,Niagara Purple Eagles,Niagara
+230240225,2003,regular-season,2003-01-24,2,225,home,FALSE,Brown,94,Bears,Brown Bears,Brown
+230240225,2003,regular-season,2003-01-24,2,43,away,FALSE,Yale,84,Bulldogs,Yale Bulldogs,Yale
+230242678,2003,regular-season,2003-01-24,2,2678,home,FALSE,VMI,68,Keydets,VMI Keydets,VMI
+230242678,2003,regular-season,2003-01-24,2,2026,away,FALSE,App State,85,Mountaineers,App State Mountaineers,App State
+230242520,2003,regular-season,2003-01-24,2,2520,home,FALSE,Rider,65,Broncs,Rider Broncs,Rider
+230242520,2003,regular-season,2003-01-24,2,2099,away,FALSE,Canisius,63,Golden Griffins,Canisius Golden Griffins,Canisius
+230242426,2003,regular-season,2003-01-24,2,2426,home,FALSE,Navy,61,Midshipmen,Navy Midshipmen,Navy
+230242426,2003,regular-season,2003-01-24,2,107,away,FALSE,Holy Cross,76,Crusaders,Holy Cross Crusaders,Holy Cross
+230240314,2003,regular-season,2003-01-24,2,314,home,FALSE,Iona,88,Gaels,Iona Gaels,Iona
+230240314,2003,regular-season,2003-01-24,2,2368,away,FALSE,Marist,74,Red Foxes,Marist Red Foxes,Marist
+230240044,2003,regular-season,2003-01-24,2,44,home,FALSE,American University,58,Eagles,American University Eagles,American
+230240044,2003,regular-season,2003-01-24,2,2142,away,FALSE,Colgate,55,Raiders,Colgate Raiders,Colgate
+230242083,2003,regular-season,2003-01-24,2,2083,home,FALSE,Bucknell,53,Bison,Bucknell Bison,Bucknell
+230242083,2003,regular-season,2003-01-24,2,349,away,FALSE,Army,38,Black Knights,Army Black Knights,Army
+230242057,2003,regular-season,2003-01-24,2,2057,home,FALSE,Belmont,64,Bruins,Belmont Bruins,Belmont
+230242057,2003,regular-season,2003-01-24,2,2653,away,FALSE,Troy,67,Trojans,Troy Trojans,Troy
+230242329,2003,regular-season,2003-01-24,2,2329,home,FALSE,Lehigh,85,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+230242329,2003,regular-season,2003-01-24,2,322,away,FALSE,Lafayette,73,Leopards,Lafayette Leopards,Lafayette
+230242501,2003,regular-season,2003-01-24,2,2501,home,FALSE,Portland,67,Pilots,Portland Pilots,Portland
+230242501,2003,regular-season,2003-01-24,2,2250,away,FALSE,Gonzaga,70,Bulldogs,Gonzaga Bulldogs,Gonzaga

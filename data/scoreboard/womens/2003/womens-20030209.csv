@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230402633,2003-02-09,2,2633,home,FALSE,Tennessee,79,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-230402633,2003-02-09,2,57,away,FALSE,Florida,40,Gators,Florida Gators,Florida
-230400344,2003-02-09,2,344,home,FALSE,Mississippi State,72,Bulldogs,Mississippi State Bulldogs,Mississippi St
-230400344,2003-02-09,2,99,away,FALSE,LSU,77,Tigers,LSU Tigers,LSU
-230400154,2003-02-09,2,154,home,FALSE,Wake Forest,57,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-230400154,2003-02-09,2,153,away,FALSE,North Carolina,67,Tar Heels,North Carolina Tar Heels,North Carolina
-230402641,2003-02-09,2,2641,home,FALSE,Texas Tech,70,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-230402641,2003-02-09,2,66,away,FALSE,Iowa State,48,Cyclones,Iowa State Cyclones,Iowa State
-230400127,2003-02-09,2,127,home,FALSE,Michigan State,60,Spartans,Michigan State Spartans,Michigan St
-230400127,2003-02-09,2,213,away,FALSE,Penn State,64,Lady Lions,Penn State Lady Lions,Penn State
-230400008,2003-02-09,2,8,home,FALSE,Arkansas,62,Razorbacks,Arkansas Razorbacks,Arkansas
-230400008,2003-02-09,2,145,away,FALSE,Ole Miss,60,Rebels,Ole Miss Rebels,Ole Miss
-230400084,2003-02-09,2,84,home,FALSE,Indiana,56,Hoosiers,Indiana Hoosiers,Indiana
-230400084,2003-02-09,2,135,away,FALSE,Minnesota,59,Golden Gophers,Minnesota Golden Gophers,Minnesota
-230400333,2003-02-09,2,333,home,FALSE,Alabama,34,Crimson Tide,Alabama Crimson Tide,Alabama
-230400333,2003-02-09,2,2579,away,FALSE,South Carolina,48,Gamecocks,South Carolina Gamecocks,South Carolina
-230400061,2003-02-09,2,61,home,FALSE,Georgia,78,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-230400061,2003-02-09,2,2,away,FALSE,Auburn,67,Tigers,Auburn Tigers,Auburn
-230400096,2003-02-09,2,96,home,FALSE,Kentucky,63,Wildcats,Kentucky Wildcats,Kentucky
-230400096,2003-02-09,2,238,away,FALSE,Vanderbilt,85,Commodores,Vanderbilt Commodores,Vanderbilt
-230400201,2003-02-09,2,201,home,FALSE,Oklahoma,87,Sooners,Oklahoma Sooners,Oklahoma
-230400201,2003-02-09,2,197,away,FALSE,Oklahoma State,71,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-230400194,2003-02-09,2,194,home,FALSE,Ohio State,63,Buckeyes,Ohio State Buckeyes,Ohio State
-230400194,2003-02-09,2,275,away,FALSE,Wisconsin,40,Badgers,Wisconsin Badgers,Wisconsin
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230402633,2003,regular-season,2003-02-09,2,2633,home,FALSE,Tennessee,79,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+230402633,2003,regular-season,2003-02-09,2,57,away,FALSE,Florida,40,Gators,Florida Gators,Florida
+230400344,2003,regular-season,2003-02-09,2,344,home,FALSE,Mississippi State,72,Bulldogs,Mississippi State Bulldogs,Mississippi St
+230400344,2003,regular-season,2003-02-09,2,99,away,FALSE,LSU,77,Tigers,LSU Tigers,LSU
+230400154,2003,regular-season,2003-02-09,2,154,home,FALSE,Wake Forest,57,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+230400154,2003,regular-season,2003-02-09,2,153,away,FALSE,North Carolina,67,Tar Heels,North Carolina Tar Heels,North Carolina
+230402641,2003,regular-season,2003-02-09,2,2641,home,FALSE,Texas Tech,70,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+230402641,2003,regular-season,2003-02-09,2,66,away,FALSE,Iowa State,48,Cyclones,Iowa State Cyclones,Iowa State
+230400127,2003,regular-season,2003-02-09,2,127,home,FALSE,Michigan State,60,Spartans,Michigan State Spartans,Michigan St
+230400127,2003,regular-season,2003-02-09,2,213,away,FALSE,Penn State,64,Lady Lions,Penn State Lady Lions,Penn State
+230400008,2003,regular-season,2003-02-09,2,8,home,FALSE,Arkansas,62,Razorbacks,Arkansas Razorbacks,Arkansas
+230400008,2003,regular-season,2003-02-09,2,145,away,FALSE,Ole Miss,60,Rebels,Ole Miss Rebels,Ole Miss
+230400084,2003,regular-season,2003-02-09,2,84,home,FALSE,Indiana,56,Hoosiers,Indiana Hoosiers,Indiana
+230400084,2003,regular-season,2003-02-09,2,135,away,FALSE,Minnesota,59,Golden Gophers,Minnesota Golden Gophers,Minnesota
+230400333,2003,regular-season,2003-02-09,2,333,home,FALSE,Alabama,34,Crimson Tide,Alabama Crimson Tide,Alabama
+230400333,2003,regular-season,2003-02-09,2,2579,away,FALSE,South Carolina,48,Gamecocks,South Carolina Gamecocks,South Carolina
+230400061,2003,regular-season,2003-02-09,2,61,home,FALSE,Georgia,78,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+230400061,2003,regular-season,2003-02-09,2,2,away,FALSE,Auburn,67,Tigers,Auburn Tigers,Auburn
+230400096,2003,regular-season,2003-02-09,2,96,home,FALSE,Kentucky,63,Wildcats,Kentucky Wildcats,Kentucky
+230400096,2003,regular-season,2003-02-09,2,238,away,FALSE,Vanderbilt,85,Commodores,Vanderbilt Commodores,Vanderbilt
+230400201,2003,regular-season,2003-02-09,2,201,home,FALSE,Oklahoma,87,Sooners,Oklahoma Sooners,Oklahoma
+230400201,2003,regular-season,2003-02-09,2,197,away,FALSE,Oklahoma State,71,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+230400194,2003,regular-season,2003-02-09,2,194,home,FALSE,Ohio State,63,Buckeyes,Ohio State Buckeyes,Ohio State
+230400194,2003,regular-season,2003-02-09,2,275,away,FALSE,Wisconsin,40,Badgers,Wisconsin Badgers,Wisconsin

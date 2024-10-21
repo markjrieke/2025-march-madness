@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400508392,2013-12-20,2,2579,home,FALSE,South Carolina,69,Gamecocks,South Carolina Gamecocks,South Carolina
-400508392,2013-12-20,2,2737,away,FALSE,Winthrop,61,Eagles,Winthrop Eagles,Winthrop
-400508389,2013-12-20,2,152,home,FALSE,NC State,89,Wolfpack,NC State Wolfpack,NC State
-400508389,2013-12-20,2,99,away,FALSE,LSU,79,Tigers,LSU Tigers,LSU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400508392,2014,regular-season,2013-12-20,2,2579,home,FALSE,South Carolina,69,Gamecocks,South Carolina Gamecocks,South Carolina
+400508392,2014,regular-season,2013-12-20,2,2737,away,FALSE,Winthrop,61,Eagles,Winthrop Eagles,Winthrop
+400508389,2014,regular-season,2013-12-20,2,152,home,FALSE,NC State,89,Wolfpack,NC State Wolfpack,NC State
+400508389,2014,regular-season,2013-12-20,2,99,away,FALSE,LSU,79,Tigers,LSU Tigers,LSU

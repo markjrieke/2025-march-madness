@@ -1,67 +1,67 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400911918,2016-12-02,4,171,home,FALSE,Columbia,76,Lions,Columbia Lions,Columbia
-400911918,2016-12-02,4,2349,away,FALSE,UMass Lowell,57,River Hawks,UMass Lowell River Hawks,UMass Lowell
-400921883,2016-12-02,4,2057,home,FALSE,Belmont,87,Bruins,Belmont Bruins,Belmont
-400921883,2016-12-02,4,2906,away,FALSE,Trevecca Nazarene,56,Trojans,Trevecca Nazarene Trojans,Trevecca
-400912356,2016-12-02,4,2724,home,FALSE,Wichita State,69,Shockers,Wichita State Shockers,Wichita St
-400912356,2016-12-02,4,2032,away,FALSE,Arkansas State,51,Red Wolves,Arkansas State Red Wolves,Arkansas St
-400912022,2016-12-02,4,228,home,FALSE,Clemson,69,Tigers,Clemson Tigers,Clemson
-400912022,2016-12-02,4,311,away,FALSE,Maine,61,Black Bears,Maine Black Bears,Maine
-400914061,2016-12-02,5,50,home,FALSE,Florida A&M,61,Rattlers,Florida A&M Rattlers,Florida A&M
-400914061,2016-12-02,5,2717,away,FALSE,Western Carolina,62,Catamounts,Western Carolina Catamounts,W Carolina
-400912595,2016-12-02,4,2565,home,TRUE,SIU Edwardsville,71,Cougars,SIU Edwardsville Cougars,SIUE
-400912595,2016-12-02,4,3084,away,TRUE,Utah Valley,64,Wolverines,Utah Valley Wolverines,Utah Valley
-400921422,2016-12-02,4,324,home,FALSE,Coastal Carolina,91,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
-400921422,2016-12-02,4,2945,away,FALSE,Pfeiffer,49,Falcons,Pfeiffer Falcons,Pfeiffer
-400920966,2016-12-02,4,2110,home,FALSE,Central Arkansas,102,Sugar Bears,Central Arkansas Sugar Bears,C Arkansas
-400920966,2016-12-02,4,108824,away,FALSE,Crowley's Ridge,31,Pioneers,Crowley's Ridge Pioneers,CRIDGE
-400917421,2016-12-02,4,161,home,FALSE,Fairleigh Dickinson,69,Knights,Fairleigh Dickinson Knights,Fair Dickinson
-400917421,2016-12-02,4,2066,away,FALSE,Binghamton,80,Bearcats,Binghamton Bearcats,Binghamton
-400914456,2016-12-02,4,127,home,FALSE,Michigan State,81,Spartans,Michigan State Spartans,Michigan St
-400914456,2016-12-02,4,2473,away,FALSE,Oakland,74,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-400914196,2016-12-02,4,2168,home,FALSE,Dayton,61,Flyers,Dayton Flyers,Dayton
-400914196,2016-12-02,4,2415,away,FALSE,Morgan State,42,Lady Bears,Morgan State Lady Bears,Morgan St
-400914062,2016-12-02,4,2430,home,FALSE,UNC Greensboro,54,Spartans,UNC Greensboro Spartans,UNC Greensboro
-400914062,2016-12-02,4,2515,away,FALSE,Radford,70,Highlanders,Radford Highlanders,Radford
-400913725,2016-12-02,4,315,home,FALSE,Niagara,66,Purple Eagles,Niagara Purple Eagles,Niagara
-400913725,2016-12-02,4,2405,away,FALSE,Monmouth,45,Hawks,Monmouth Hawks,Monmouth
-400913724,2016-12-02,4,2099,home,FALSE,Canisius,70,Golden Griffins,Canisius Golden Griffins,Canisius
-400913724,2016-12-02,4,2520,away,FALSE,Rider,71,Broncs,Rider Broncs,Rider
-400913723,2016-12-02,4,314,home,FALSE,Iona,70,Gaels,Iona Gaels,Iona
-400913723,2016-12-02,4,2363,away,FALSE,Manhattan,53,Jaspers,Manhattan Jaspers,Manhattan
-400913595,2016-12-02,4,256,home,FALSE,James Madison,71,Dukes,James Madison Dukes,James Madison
-400913595,2016-12-02,4,2261,away,FALSE,Hampton,50,Lady Pirates,Hampton Lady Pirates,Hampton
-400912619,2016-12-02,4,45,home,FALSE,George Washington,81,Revolutionaries,George Washington Revolutionaries,G Washington
-400912619,2016-12-02,4,2670,away,FALSE,VCU,67,Rams,VCU Rams,VCU
-400911682,2016-12-02,4,2132,home,FALSE,Cincinnati,60,Bearcats,Cincinnati Bearcats,Cincinnati
-400911682,2016-12-02,4,2635,away,FALSE,Tennessee Tech,38,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
-400911307,2016-12-02,4,2086,home,FALSE,Butler,59,Bulldogs,Butler Bulldogs,Butler
-400911307,2016-12-02,4,58,away,FALSE,South Florida,74,Bulls,South Florida Bulls,South Florida
-400914288,2016-12-02,4,356,home,FALSE,Illinois,56,Fighting Illini,Illinois Fighting Illini,Illinois
-400914288,2016-12-02,4,2870,away,FALSE,Purdue Fort Wayne,33,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-400912358,2016-12-02,4,142,home,FALSE,Missouri,73,Tigers,Missouri Tigers,Missouri
-400912358,2016-12-02,4,2623,away,FALSE,Missouri State,49,Lady Bears,Missouri State Lady Bears,Missouri St
-400912357,2016-12-02,4,71,home,FALSE,Bradley,51,Braves,Bradley Braves,Bradley
-400912357,2016-12-02,4,2459,away,FALSE,Northern Illinois,81,Huskies,Northern Illinois Huskies,N Illinois
-400911308,2016-12-02,4,269,home,FALSE,Marquette,77,Golden Eagles,Marquette Golden Eagles,Marquette
-400911308,2016-12-02,4,2710,away,FALSE,Western Illinois,61,Leathernecks,Western Illinois Leathernecks,W Illinois
-400912768,2016-12-02,4,2751,home,FALSE,Wyoming,68,Cowgirls,Wyoming Cowgirls,Wyoming
-400912768,2016-12-02,4,253,away,FALSE,Southern Utah,48,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
-400913410,2016-12-02,4,147,home,FALSE,Montana State,75,Bobcats,Montana State Bobcats,Montana St
-400913410,2016-12-02,4,2104,away,FALSE,Carroll (MT),44,Fighting Saints,Carroll (MT) Fighting Saints,Carroll MT
-400912769,2016-12-02,4,36,home,FALSE,Colorado State,77,Rams,Colorado State Rams,Colorado St
-400912769,2016-12-02,4,2545,away,FALSE,SE Louisiana,31,Lady Lions,SE Louisiana Lady Lions,SE Louisiana
-400912594,2016-12-02,4,2005,home,FALSE,Air Force,49,Falcons,Air Force Falcons,Air Force
-400912594,2016-12-02,4,238,away,FALSE,Vanderbilt,75,Commodores,Vanderbilt Commodores,Vanderbilt
-400912770,2016-12-02,4,252,home,TRUE,BYU,63,Cougars,BYU Cougars,BYU
-400912770,2016-12-02,4,2439,away,TRUE,UNLV,54,Lady Rebels,UNLV Lady Rebels,UNLV
-400913886,2016-12-02,4,265,home,FALSE,Washington State,83,Cougars,Washington State Cougars,Washington St
-400913886,2016-12-02,4,301,away,FALSE,San Diego,73,Toreros,San Diego Toreros,San Diego
-400913411,2016-12-02,4,2547,home,FALSE,Seattle U,60,Redhawks,Seattle U Redhawks,Seattle U
-400913411,2016-12-02,4,149,away,FALSE,Montana,44,Lady Griz,Montana Lady Griz,Montana
-400911472,2016-12-02,4,2351,home,FALSE,Loyola Marymount,57,Lions,Loyola Marymount Lions,LMU
-400911472,2016-12-02,4,2540,away,FALSE,UC Santa Barbara,55,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-400911471,2016-12-02,4,302,home,FALSE,UC Davis,75,Aggies,UC Davis Aggies,UC Davis
-400911471,2016-12-02,4,21,away,FALSE,San Diego State,55,Aztecs,San Diego State Aztecs,San Diego St
-400912894,2016-12-02,4,204,home,TRUE,Oregon State,60,Beavers,Oregon State Beavers,Oregon St
-400912894,2016-12-02,4,70,away,TRUE,Idaho,49,Vandals,Idaho Vandals,Idaho
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400911918,2017,regular-season,2016-12-02,4,171,home,FALSE,Columbia,76,Lions,Columbia Lions,Columbia
+400911918,2017,regular-season,2016-12-02,4,2349,away,FALSE,UMass Lowell,57,River Hawks,UMass Lowell River Hawks,UMass Lowell
+400921883,2017,regular-season,2016-12-02,4,2057,home,FALSE,Belmont,87,Bruins,Belmont Bruins,Belmont
+400921883,2017,regular-season,2016-12-02,4,2906,away,FALSE,Trevecca Nazarene,56,Trojans,Trevecca Nazarene Trojans,Trevecca
+400912356,2017,regular-season,2016-12-02,4,2724,home,FALSE,Wichita State,69,Shockers,Wichita State Shockers,Wichita St
+400912356,2017,regular-season,2016-12-02,4,2032,away,FALSE,Arkansas State,51,Red Wolves,Arkansas State Red Wolves,Arkansas St
+400912022,2017,regular-season,2016-12-02,4,228,home,FALSE,Clemson,69,Tigers,Clemson Tigers,Clemson
+400912022,2017,regular-season,2016-12-02,4,311,away,FALSE,Maine,61,Black Bears,Maine Black Bears,Maine
+400914061,2017,regular-season,2016-12-02,5,50,home,FALSE,Florida A&M,61,Rattlers,Florida A&M Rattlers,Florida A&M
+400914061,2017,regular-season,2016-12-02,5,2717,away,FALSE,Western Carolina,62,Catamounts,Western Carolina Catamounts,W Carolina
+400912595,2017,regular-season,2016-12-02,4,2565,home,TRUE,SIU Edwardsville,71,Cougars,SIU Edwardsville Cougars,SIUE
+400912595,2017,regular-season,2016-12-02,4,3084,away,TRUE,Utah Valley,64,Wolverines,Utah Valley Wolverines,Utah Valley
+400921422,2017,regular-season,2016-12-02,4,324,home,FALSE,Coastal Carolina,91,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+400921422,2017,regular-season,2016-12-02,4,2945,away,FALSE,Pfeiffer,49,Falcons,Pfeiffer Falcons,Pfeiffer
+400920966,2017,regular-season,2016-12-02,4,2110,home,FALSE,Central Arkansas,102,Sugar Bears,Central Arkansas Sugar Bears,C Arkansas
+400920966,2017,regular-season,2016-12-02,4,108824,away,FALSE,Crowley's Ridge,31,Pioneers,Crowley's Ridge Pioneers,CRIDGE
+400917421,2017,regular-season,2016-12-02,4,161,home,FALSE,Fairleigh Dickinson,69,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+400917421,2017,regular-season,2016-12-02,4,2066,away,FALSE,Binghamton,80,Bearcats,Binghamton Bearcats,Binghamton
+400914456,2017,regular-season,2016-12-02,4,127,home,FALSE,Michigan State,81,Spartans,Michigan State Spartans,Michigan St
+400914456,2017,regular-season,2016-12-02,4,2473,away,FALSE,Oakland,74,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+400914196,2017,regular-season,2016-12-02,4,2168,home,FALSE,Dayton,61,Flyers,Dayton Flyers,Dayton
+400914196,2017,regular-season,2016-12-02,4,2415,away,FALSE,Morgan State,42,Lady Bears,Morgan State Lady Bears,Morgan St
+400914062,2017,regular-season,2016-12-02,4,2430,home,FALSE,UNC Greensboro,54,Spartans,UNC Greensboro Spartans,UNC Greensboro
+400914062,2017,regular-season,2016-12-02,4,2515,away,FALSE,Radford,70,Highlanders,Radford Highlanders,Radford
+400913725,2017,regular-season,2016-12-02,4,315,home,FALSE,Niagara,66,Purple Eagles,Niagara Purple Eagles,Niagara
+400913725,2017,regular-season,2016-12-02,4,2405,away,FALSE,Monmouth,45,Hawks,Monmouth Hawks,Monmouth
+400913724,2017,regular-season,2016-12-02,4,2099,home,FALSE,Canisius,70,Golden Griffins,Canisius Golden Griffins,Canisius
+400913724,2017,regular-season,2016-12-02,4,2520,away,FALSE,Rider,71,Broncs,Rider Broncs,Rider
+400913723,2017,regular-season,2016-12-02,4,314,home,FALSE,Iona,70,Gaels,Iona Gaels,Iona
+400913723,2017,regular-season,2016-12-02,4,2363,away,FALSE,Manhattan,53,Jaspers,Manhattan Jaspers,Manhattan
+400913595,2017,regular-season,2016-12-02,4,256,home,FALSE,James Madison,71,Dukes,James Madison Dukes,James Madison
+400913595,2017,regular-season,2016-12-02,4,2261,away,FALSE,Hampton,50,Lady Pirates,Hampton Lady Pirates,Hampton
+400912619,2017,regular-season,2016-12-02,4,45,home,FALSE,George Washington,81,Revolutionaries,George Washington Revolutionaries,G Washington
+400912619,2017,regular-season,2016-12-02,4,2670,away,FALSE,VCU,67,Rams,VCU Rams,VCU
+400911682,2017,regular-season,2016-12-02,4,2132,home,FALSE,Cincinnati,60,Bearcats,Cincinnati Bearcats,Cincinnati
+400911682,2017,regular-season,2016-12-02,4,2635,away,FALSE,Tennessee Tech,38,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
+400911307,2017,regular-season,2016-12-02,4,2086,home,FALSE,Butler,59,Bulldogs,Butler Bulldogs,Butler
+400911307,2017,regular-season,2016-12-02,4,58,away,FALSE,South Florida,74,Bulls,South Florida Bulls,South Florida
+400914288,2017,regular-season,2016-12-02,4,356,home,FALSE,Illinois,56,Fighting Illini,Illinois Fighting Illini,Illinois
+400914288,2017,regular-season,2016-12-02,4,2870,away,FALSE,Purdue Fort Wayne,33,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+400912358,2017,regular-season,2016-12-02,4,142,home,FALSE,Missouri,73,Tigers,Missouri Tigers,Missouri
+400912358,2017,regular-season,2016-12-02,4,2623,away,FALSE,Missouri State,49,Lady Bears,Missouri State Lady Bears,Missouri St
+400912357,2017,regular-season,2016-12-02,4,71,home,FALSE,Bradley,51,Braves,Bradley Braves,Bradley
+400912357,2017,regular-season,2016-12-02,4,2459,away,FALSE,Northern Illinois,81,Huskies,Northern Illinois Huskies,N Illinois
+400911308,2017,regular-season,2016-12-02,4,269,home,FALSE,Marquette,77,Golden Eagles,Marquette Golden Eagles,Marquette
+400911308,2017,regular-season,2016-12-02,4,2710,away,FALSE,Western Illinois,61,Leathernecks,Western Illinois Leathernecks,W Illinois
+400912768,2017,regular-season,2016-12-02,4,2751,home,FALSE,Wyoming,68,Cowgirls,Wyoming Cowgirls,Wyoming
+400912768,2017,regular-season,2016-12-02,4,253,away,FALSE,Southern Utah,48,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+400913410,2017,regular-season,2016-12-02,4,147,home,FALSE,Montana State,75,Bobcats,Montana State Bobcats,Montana St
+400913410,2017,regular-season,2016-12-02,4,2104,away,FALSE,Carroll (MT),44,Fighting Saints,Carroll (MT) Fighting Saints,Carroll MT
+400912769,2017,regular-season,2016-12-02,4,36,home,FALSE,Colorado State,77,Rams,Colorado State Rams,Colorado St
+400912769,2017,regular-season,2016-12-02,4,2545,away,FALSE,SE Louisiana,31,Lady Lions,SE Louisiana Lady Lions,SE Louisiana
+400912594,2017,regular-season,2016-12-02,4,2005,home,FALSE,Air Force,49,Falcons,Air Force Falcons,Air Force
+400912594,2017,regular-season,2016-12-02,4,238,away,FALSE,Vanderbilt,75,Commodores,Vanderbilt Commodores,Vanderbilt
+400912770,2017,regular-season,2016-12-02,4,252,home,TRUE,BYU,63,Cougars,BYU Cougars,BYU
+400912770,2017,regular-season,2016-12-02,4,2439,away,TRUE,UNLV,54,Lady Rebels,UNLV Lady Rebels,UNLV
+400913886,2017,regular-season,2016-12-02,4,265,home,FALSE,Washington State,83,Cougars,Washington State Cougars,Washington St
+400913886,2017,regular-season,2016-12-02,4,301,away,FALSE,San Diego,73,Toreros,San Diego Toreros,San Diego
+400913411,2017,regular-season,2016-12-02,4,2547,home,FALSE,Seattle U,60,Redhawks,Seattle U Redhawks,Seattle U
+400913411,2017,regular-season,2016-12-02,4,149,away,FALSE,Montana,44,Lady Griz,Montana Lady Griz,Montana
+400911472,2017,regular-season,2016-12-02,4,2351,home,FALSE,Loyola Marymount,57,Lions,Loyola Marymount Lions,LMU
+400911472,2017,regular-season,2016-12-02,4,2540,away,FALSE,UC Santa Barbara,55,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+400911471,2017,regular-season,2016-12-02,4,302,home,FALSE,UC Davis,75,Aggies,UC Davis Aggies,UC Davis
+400911471,2017,regular-season,2016-12-02,4,21,away,FALSE,San Diego State,55,Aztecs,San Diego State Aztecs,San Diego St
+400912894,2017,regular-season,2016-12-02,4,204,home,TRUE,Oregon State,60,Beavers,Oregon State Beavers,Oregon St
+400912894,2017,regular-season,2016-12-02,4,70,away,TRUE,Idaho,49,Vandals,Idaho Vandals,Idaho

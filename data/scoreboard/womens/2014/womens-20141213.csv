@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400595062,2014-12-13,2,245,home,FALSE,Texas A&M,94,Aggies,Texas A&M Aggies,Texas A&M
-400595062,2014-12-13,2,248,away,FALSE,Houston,55,Cougars,Houston Cougars,Houston
-400593013,2014-12-13,2,87,home,FALSE,Notre Dame,70,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400593013,2014-12-13,2,130,away,FALSE,Michigan,50,Wolverines,Michigan Wolverines,Michigan
-400590630,2014-12-13,2,158,home,FALSE,Nebraska,54,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400590630,2014-12-13,2,2934,away,FALSE,Cal State Bakersfield,45,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
-400590415,2014-12-13,3,299,home,FALSE,Long Beach State,58,Beach,Long Beach State Beach,Long Beach St
-400590415,2014-12-13,3,25,away,FALSE,California,56,Golden Bears,California Golden Bears,California
-400586546,2014-12-13,2,277,home,FALSE,West Virginia,82,Mountaineers,West Virginia Mountaineers,West Virginia
-400586546,2014-12-13,2,2870,away,FALSE,Purdue Fort Wayne,48,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400595062,2015,regular-season,2014-12-13,2,245,home,FALSE,Texas A&M,94,Aggies,Texas A&M Aggies,Texas A&M
+400595062,2015,regular-season,2014-12-13,2,248,away,FALSE,Houston,55,Cougars,Houston Cougars,Houston
+400593013,2015,regular-season,2014-12-13,2,87,home,FALSE,Notre Dame,70,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400593013,2015,regular-season,2014-12-13,2,130,away,FALSE,Michigan,50,Wolverines,Michigan Wolverines,Michigan
+400590630,2015,regular-season,2014-12-13,2,158,home,FALSE,Nebraska,54,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400590630,2015,regular-season,2014-12-13,2,2934,away,FALSE,Cal State Bakersfield,45,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+400590415,2015,regular-season,2014-12-13,3,299,home,FALSE,Long Beach State,58,Beach,Long Beach State Beach,Long Beach St
+400590415,2015,regular-season,2014-12-13,3,25,away,FALSE,California,56,Golden Bears,California Golden Bears,California
+400586546,2015,regular-season,2014-12-13,2,277,home,FALSE,West Virginia,82,Mountaineers,West Virginia Mountaineers,West Virginia
+400586546,2015,regular-season,2014-12-13,2,2870,away,FALSE,Purdue Fort Wayne,48,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW

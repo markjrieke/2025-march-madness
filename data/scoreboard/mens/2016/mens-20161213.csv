@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400916534,2016-12-13,2,222,home,FALSE,Villanova,78,Wildcats,Villanova Wildcats,Villanova
-400916534,2016-12-13,2,218,away,FALSE,Temple,57,Owls,Temple Owls,Temple
-400915566,2016-12-13,2,2483,home,FALSE,Oregon,81,Ducks,Oregon Ducks,Oregon
-400915566,2016-12-13,2,149,away,FALSE,Montana,67,Grizzlies,Montana Grizzlies,Montana
-400916536,2016-12-13,2,2132,home,FALSE,Cincinnati,96,Bearcats,Cincinnati Bearcats,Cincinnati
-400916536,2016-12-13,2,2640,away,FALSE,Texas Southern,58,Tigers,Texas Southern Tigers,Texas Southern
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400916534,2017,regular-season,2016-12-13,2,222,home,FALSE,Villanova,78,Wildcats,Villanova Wildcats,Villanova
+400916534,2017,regular-season,2016-12-13,2,218,away,FALSE,Temple,57,Owls,Temple Owls,Temple
+400915566,2017,regular-season,2016-12-13,2,2483,home,FALSE,Oregon,81,Ducks,Oregon Ducks,Oregon
+400915566,2017,regular-season,2016-12-13,2,149,away,FALSE,Montana,67,Grizzlies,Montana Grizzlies,Montana
+400916536,2017,regular-season,2016-12-13,2,2132,home,FALSE,Cincinnati,96,Bearcats,Cincinnati Bearcats,Cincinnati
+400916536,2017,regular-season,2016-12-13,2,2640,away,FALSE,Texas Southern,58,Tigers,Texas Southern Tigers,Texas Southern

@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293362305,2009-12-02,2,2305,home,FALSE,Kansas,98,Jayhawks,Kansas Jayhawks,Kansas
-293362305,2009-12-02,2,2016,away,FALSE,Alcorn State,31,Braves,Alcorn State Braves,Alcorn St
-293360222,2009-12-02,2,222,home,FALSE,Villanova,77,Wildcats,Villanova Wildcats,Villanova
-293360222,2009-12-02,2,2182,away,FALSE,Drexel,58,Dragons,Drexel Dragons,Drexel
-293360275,2009-12-02,2,275,home,FALSE,Wisconsin,73,Badgers,Wisconsin Badgers,Wisconsin
-293360275,2009-12-02,2,150,away,FALSE,Duke,69,Blue Devils,Duke Blue Devils,Duke
-293362633,2009-12-02,2,2633,home,FALSE,Tennessee,78,Volunteers,Tennessee Volunteers,Tennessee
-293362633,2009-12-02,2,2193,away,FALSE,East Tennessee State,66,Buccaneers,East Tennessee State Buccaneers,ETSU
-293370041,2009-12-02,2,41,home,FALSE,UConn,92,Huskies,UConn Huskies,UConn
-293370041,2009-12-02,2,104,away,FALSE,Boston University,64,Terriers,Boston University Terriers,Boston U
-293360194,2009-12-02,2,194,home,FALSE,Ohio State,77,Buckeyes,Ohio State Buckeyes,Ohio State
-293360194,2009-12-02,2,52,away,FALSE,Florida State,64,Seminoles,Florida State Seminoles,Florida St
-293372250,2009-12-02,2,2250,home,FALSE,Gonzaga,74,Bulldogs,Gonzaga Bulldogs,Gonzaga
-293372250,2009-12-02,2,265,away,FALSE,Washington State,69,Cougars,Washington State Cougars,Washington St
-293360228,2009-12-02,2,228,home,FALSE,Clemson,74,Tigers,Clemson Tigers,Clemson
-293360228,2009-12-02,2,356,away,FALSE,Illinois,76,Fighting Illini,Illinois Fighting Illini,Illinois
-293360245,2009-12-02,2,245,home,FALSE,Texas A&M,84,Aggies,Texas A&M Aggies,Texas A&M
-293360245,2009-12-02,2,2504,away,FALSE,Prairie View A&M,59,Panthers,Prairie View A&M Panthers,Prairie View
-293360097,2009-12-02,2,97,home,FALSE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
-293360097,2009-12-02,2,56,away,FALSE,Stetson,48,Hatters,Stetson Hatters,Stetson
-293362050,2009-12-02,2,2050,home,FALSE,Ball State,38,Cardinals,Ball State Cardinals,Ball State
-293362050,2009-12-02,2,2086,away,FALSE,Butler,59,Bulldogs,Butler Bulldogs,Butler
-293360012,2009-12-02,4,12,home,FALSE,Arizona,72,Wildcats,Arizona Wildcats,Arizona
-293360012,2009-12-02,4,2439,away,FALSE,UNLV,74,Rebels,UNLV Rebels,UNLV
-293372501,2009-12-02,2,2501,home,FALSE,Portland,82,Pilots,Portland Pilots,Portland
-293372501,2009-12-02,2,2502,away,FALSE,Portland State,86,Vikings,Portland State Vikings,Portland St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293362305,2010,regular-season,2009-12-02,2,2305,home,FALSE,Kansas,98,Jayhawks,Kansas Jayhawks,Kansas
+293362305,2010,regular-season,2009-12-02,2,2016,away,FALSE,Alcorn State,31,Braves,Alcorn State Braves,Alcorn St
+293360222,2010,regular-season,2009-12-02,2,222,home,FALSE,Villanova,77,Wildcats,Villanova Wildcats,Villanova
+293360222,2010,regular-season,2009-12-02,2,2182,away,FALSE,Drexel,58,Dragons,Drexel Dragons,Drexel
+293360275,2010,regular-season,2009-12-02,2,275,home,FALSE,Wisconsin,73,Badgers,Wisconsin Badgers,Wisconsin
+293360275,2010,regular-season,2009-12-02,2,150,away,FALSE,Duke,69,Blue Devils,Duke Blue Devils,Duke
+293362633,2010,regular-season,2009-12-02,2,2633,home,FALSE,Tennessee,78,Volunteers,Tennessee Volunteers,Tennessee
+293362633,2010,regular-season,2009-12-02,2,2193,away,FALSE,East Tennessee State,66,Buccaneers,East Tennessee State Buccaneers,ETSU
+293370041,2010,regular-season,2009-12-02,2,41,home,FALSE,UConn,92,Huskies,UConn Huskies,UConn
+293370041,2010,regular-season,2009-12-02,2,104,away,FALSE,Boston University,64,Terriers,Boston University Terriers,Boston U
+293360194,2010,regular-season,2009-12-02,2,194,home,FALSE,Ohio State,77,Buckeyes,Ohio State Buckeyes,Ohio State
+293360194,2010,regular-season,2009-12-02,2,52,away,FALSE,Florida State,64,Seminoles,Florida State Seminoles,Florida St
+293372250,2010,regular-season,2009-12-02,2,2250,home,FALSE,Gonzaga,74,Bulldogs,Gonzaga Bulldogs,Gonzaga
+293372250,2010,regular-season,2009-12-02,2,265,away,FALSE,Washington State,69,Cougars,Washington State Cougars,Washington St
+293360228,2010,regular-season,2009-12-02,2,228,home,FALSE,Clemson,74,Tigers,Clemson Tigers,Clemson
+293360228,2010,regular-season,2009-12-02,2,356,away,FALSE,Illinois,76,Fighting Illini,Illinois Fighting Illini,Illinois
+293360245,2010,regular-season,2009-12-02,2,245,home,FALSE,Texas A&M,84,Aggies,Texas A&M Aggies,Texas A&M
+293360245,2010,regular-season,2009-12-02,2,2504,away,FALSE,Prairie View A&M,59,Panthers,Prairie View A&M Panthers,Prairie View
+293360097,2010,regular-season,2009-12-02,2,97,home,FALSE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
+293360097,2010,regular-season,2009-12-02,2,56,away,FALSE,Stetson,48,Hatters,Stetson Hatters,Stetson
+293362050,2010,regular-season,2009-12-02,2,2050,home,FALSE,Ball State,38,Cardinals,Ball State Cardinals,Ball State
+293362050,2010,regular-season,2009-12-02,2,2086,away,FALSE,Butler,59,Bulldogs,Butler Bulldogs,Butler
+293360012,2010,regular-season,2009-12-02,4,12,home,FALSE,Arizona,72,Wildcats,Arizona Wildcats,Arizona
+293360012,2010,regular-season,2009-12-02,4,2439,away,FALSE,UNLV,74,Rebels,UNLV Rebels,UNLV
+293372501,2010,regular-season,2009-12-02,2,2501,home,FALSE,Portland,82,Pilots,Portland Pilots,Portland
+293372501,2010,regular-season,2009-12-02,2,2502,away,FALSE,Portland State,86,Vikings,Portland State Vikings,Portland St

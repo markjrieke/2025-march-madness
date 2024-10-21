@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400832100,2016-03-01,4,66,home,FALSE,Iowa State,57,Cyclones,Iowa State Cyclones,Iowa State
-400832100,2016-03-01,4,277,away,FALSE,West Virginia,82,Mountaineers,West Virginia Mountaineers,West Virginia
-400819296,2016-03-01,4,36,home,FALSE,Colorado State,68,Rams,Colorado State Rams,Colorado St
-400819296,2016-03-01,4,278,away,FALSE,Fresno State,55,Bulldogs,Fresno State Bulldogs,Fresno St
-400832361,2016-03-01,4,2641,home,FALSE,Texas Tech,60,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-400832361,2016-03-01,4,201,away,FALSE,Oklahoma,70,Sooners,Oklahoma Sooners,Oklahoma
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400832100,2016,regular-season,2016-03-01,4,66,home,FALSE,Iowa State,57,Cyclones,Iowa State Cyclones,Iowa State
+400832100,2016,regular-season,2016-03-01,4,277,away,FALSE,West Virginia,82,Mountaineers,West Virginia Mountaineers,West Virginia
+400819296,2016,regular-season,2016-03-01,4,36,home,FALSE,Colorado State,68,Rams,Colorado State Rams,Colorado St
+400819296,2016,regular-season,2016-03-01,4,278,away,FALSE,Fresno State,55,Bulldogs,Fresno State Bulldogs,Fresno St
+400832361,2016,regular-season,2016-03-01,4,2641,home,FALSE,Texas Tech,60,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+400832361,2016,regular-season,2016-03-01,4,201,away,FALSE,Oklahoma,70,Sooners,Oklahoma Sooners,Oklahoma

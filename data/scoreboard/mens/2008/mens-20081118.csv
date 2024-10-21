@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-283230153,2008-11-18,2,153,home,FALSE,North Carolina,77,Tar Heels,North Carolina Tar Heels,North Carolina
-283230153,2008-11-18,2,96,away,FALSE,Kentucky,58,Wildcats,Kentucky Wildcats,Kentucky
-283230251,2008-11-18,2,251,home,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
-283230251,2008-11-18,2,2655,away,FALSE,Tulane,51,Green Wave,Tulane Green Wave,Tulane
-283232250,2008-11-18,2,2250,home,FALSE,Gonzaga,80,Bulldogs,Gonzaga Bulldogs,Gonzaga
-283232250,2008-11-18,2,70,away,FALSE,Idaho,46,Vandals,Idaho Vandals,Idaho
-283232509,2008-11-18,2,2509,home,FALSE,Purdue,78,Boilermakers,Purdue Boilermakers,Purdue
-283232509,2008-11-18,2,2350,away,FALSE,Loyola Chicago,46,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-283230201,2008-11-18,2,201,home,FALSE,Oklahoma,82,Sooners,Oklahoma Sooners,Oklahoma
-283230201,2008-11-18,2,2166,away,FALSE,Davidson,78,Wildcats,Davidson Wildcats,Davidson
-283232633,2008-11-18,2,2633,home,FALSE,Tennessee,91,Volunteers,Tennessee Volunteers,Tennessee
-283232633,2008-11-18,2,2630,away,FALSE,UT Martin,64,Skyhawks,UT Martin Skyhawks,UT Martin
-283230021,2008-11-18,2,21,home,FALSE,San Diego State,52,Aztecs,San Diego State Aztecs,San Diego St
-283230021,2008-11-18,2,9,away,FALSE,Arizona State,59,Sun Devils,Arizona State Sun Devils,Arizona St
-283230030,2008-11-18,2,30,home,FALSE,USC,73,Trojans,USC Trojans,USC
-283230030,2008-11-18,2,166,away,FALSE,New Mexico State,60,Aggies,New Mexico State Aggies,New Mexico St
-283232305,2008-11-18,2,2305,home,FALSE,Kansas,85,Jayhawks,Kansas Jayhawks,Kansas
-283232305,2008-11-18,2,526,away,FALSE,Florida Gulf Coast,45,Eagles,Florida Gulf Coast Eagles,FGCU
-283230275,2008-11-18,2,275,home,FALSE,Wisconsin,88,Badgers,Wisconsin Badgers,Wisconsin
-283230275,2008-11-18,2,2565,away,FALSE,SIU Edwardsville,58,Cougars,SIU Edwardsville Cougars,SIUE
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283230153,2009,regular-season,2008-11-18,2,153,home,FALSE,North Carolina,77,Tar Heels,North Carolina Tar Heels,North Carolina
+283230153,2009,regular-season,2008-11-18,2,96,away,FALSE,Kentucky,58,Wildcats,Kentucky Wildcats,Kentucky
+283230251,2009,regular-season,2008-11-18,2,251,home,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
+283230251,2009,regular-season,2008-11-18,2,2655,away,FALSE,Tulane,51,Green Wave,Tulane Green Wave,Tulane
+283232250,2009,regular-season,2008-11-18,2,2250,home,FALSE,Gonzaga,80,Bulldogs,Gonzaga Bulldogs,Gonzaga
+283232250,2009,regular-season,2008-11-18,2,70,away,FALSE,Idaho,46,Vandals,Idaho Vandals,Idaho
+283232509,2009,regular-season,2008-11-18,2,2509,home,FALSE,Purdue,78,Boilermakers,Purdue Boilermakers,Purdue
+283232509,2009,regular-season,2008-11-18,2,2350,away,FALSE,Loyola Chicago,46,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+283230201,2009,regular-season,2008-11-18,2,201,home,FALSE,Oklahoma,82,Sooners,Oklahoma Sooners,Oklahoma
+283230201,2009,regular-season,2008-11-18,2,2166,away,FALSE,Davidson,78,Wildcats,Davidson Wildcats,Davidson
+283232633,2009,regular-season,2008-11-18,2,2633,home,FALSE,Tennessee,91,Volunteers,Tennessee Volunteers,Tennessee
+283232633,2009,regular-season,2008-11-18,2,2630,away,FALSE,UT Martin,64,Skyhawks,UT Martin Skyhawks,UT Martin
+283230021,2009,regular-season,2008-11-18,2,21,home,FALSE,San Diego State,52,Aztecs,San Diego State Aztecs,San Diego St
+283230021,2009,regular-season,2008-11-18,2,9,away,FALSE,Arizona State,59,Sun Devils,Arizona State Sun Devils,Arizona St
+283230030,2009,regular-season,2008-11-18,2,30,home,FALSE,USC,73,Trojans,USC Trojans,USC
+283230030,2009,regular-season,2008-11-18,2,166,away,FALSE,New Mexico State,60,Aggies,New Mexico State Aggies,New Mexico St
+283232305,2009,regular-season,2008-11-18,2,2305,home,FALSE,Kansas,85,Jayhawks,Kansas Jayhawks,Kansas
+283232305,2009,regular-season,2008-11-18,2,526,away,FALSE,Florida Gulf Coast,45,Eagles,Florida Gulf Coast Eagles,FGCU
+283230275,2009,regular-season,2008-11-18,2,275,home,FALSE,Wisconsin,88,Badgers,Wisconsin Badgers,Wisconsin
+283230275,2009,regular-season,2008-11-18,2,2565,away,FALSE,SIU Edwardsville,58,Cougars,SIU Edwardsville Cougars,SIUE

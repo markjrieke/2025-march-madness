@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401376841,2021-12-04,4,2501,home,FALSE,Portland,59,Pilots,Portland Pilots,Portland
-401376841,2021-12-04,4,2483,away,FALSE,Oregon,62,Ducks,Oregon Ducks,Oregon
-401376890,2021-12-04,4,254,home,FALSE,Utah,80,Utes,Utah Utes,Utah
-401376890,2021-12-04,4,252,away,FALSE,BYU,85,Cougars,BYU Cougars,BYU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401376841,2022,regular-season,2021-12-04,4,2501,home,FALSE,Portland,59,Pilots,Portland Pilots,Portland
+401376841,2022,regular-season,2021-12-04,4,2483,away,FALSE,Oregon,62,Ducks,Oregon Ducks,Oregon
+401376890,2022,regular-season,2021-12-04,4,254,home,FALSE,Utah,80,Utes,Utah Utes,Utah
+401376890,2022,regular-season,2021-12-04,4,252,away,FALSE,BYU,85,Cougars,BYU Cougars,BYU

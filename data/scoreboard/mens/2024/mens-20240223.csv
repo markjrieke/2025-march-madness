@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401588694,2024-02-23,2,2006,home,FALSE,Akron,83,Zips,Akron Zips,Akron
-401588694,2024-02-23,2,2309,away,FALSE,Kent State,70,Golden Flashes,Kent State Golden Flashes,Kent State
-401599993,2024-02-23,2,294,home,FALSE,Jacksonville,62,Dolphins,Jacksonville Dolphins,Jacksonville
-401599993,2024-02-23,2,2454,away,FALSE,North Florida,50,Ospreys,North Florida Ospreys,North Florida
-401594359,2024-02-23,2,116,home,FALSE,Mount St. Mary's,65,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-401594359,2024-02-23,2,2612,away,FALSE,Saint Peter's,70,Peacocks,Saint Peter's Peacocks,Saint Peter's
-401594339,2024-02-23,2,2363,home,FALSE,Manhattan,50,Jaspers,Manhattan Jaspers,Manhattan
-401594339,2024-02-23,2,2368,away,FALSE,Marist,57,Red Foxes,Marist Red Foxes,Marist
-401594319,2024-02-23,2,2520,home,FALSE,Rider,78,Broncs,Rider Broncs,Rider
-401594319,2024-02-23,2,314,away,FALSE,Iona,75,Gaels,Iona Gaels,Iona
-401594270,2024-02-23,2,2099,home,FALSE,Canisius,69,Golden Griffins,Canisius Golden Griffins,Canisius
-401594270,2024-02-23,2,315,away,FALSE,Niagara,59,Purple Eagles,Niagara Purple Eagles,Niagara
-401589369,2024-02-23,2,159,home,FALSE,Dartmouth,69,Big Green,Dartmouth Big Green,Dartmouth
-401589369,2024-02-23,2,219,away,FALSE,Pennsylvania,82,Quakers,Pennsylvania Quakers,Penn
-401588696,2024-02-23,2,189,home,FALSE,Bowling Green,76,Falcons,Bowling Green Falcons,Bowling Green
-401588696,2024-02-23,2,2649,away,FALSE,Toledo,68,Rockets,Toledo Rockets,Toledo
-401587748,2024-02-23,2,2739,home,FALSE,Green Bay,59,Phoenix,Green Bay Phoenix,Green Bay
-401587748,2024-02-23,2,2870,away,FALSE,Purdue Fort Wayne,85,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-401587196,2024-02-23,2,172,home,FALSE,Cornell,65,Big Red,Cornell Big Red,Cornell
-401587196,2024-02-23,2,43,away,FALSE,Yale,62,Bulldogs,Yale Bulldogs,Yale
-401581755,2024-02-23,2,108,home,FALSE,Harvard,53,Crimson,Harvard Crimson,Harvard
-401581755,2024-02-23,2,163,away,FALSE,Princeton,66,Tigers,Princeton Tigers,Princeton
-401577676,2024-02-23,2,171,home,FALSE,Columbia,64,Lions,Columbia Lions,Columbia
-401577676,2024-02-23,2,225,away,FALSE,Brown,66,Bears,Brown Bears,Brown
-401587749,2024-02-23,3,270,home,FALSE,Milwaukee,80,Panthers,Milwaukee Panthers,Milwaukee
-401587749,2024-02-23,3,2754,away,FALSE,Youngstown State,84,Penguins,Youngstown State Penguins,Youngstown St
-401596915,2024-02-23,2,2230,home,FALSE,Fordham,79,Rams,Fordham Rams,Fordham
-401596915,2024-02-23,2,2184,away,FALSE,Duquesne,67,Dukes,Duquesne Dukes,Duquesne
-401594303,2024-02-23,2,2514,home,FALSE,Quinnipiac,81,Bobcats,Quinnipiac Bobcats,Quinnipiac
-401594303,2024-02-23,2,2217,away,FALSE,Fairfield,85,Stags,Fairfield Stags,Fairfield
-401602986,2024-02-23,2,23,home,FALSE,San José State,63,Spartans,San José State Spartans,San José St
-401602986,2024-02-23,2,2440,away,FALSE,Nevada,84,Wolf Pack,Nevada Wolf Pack,Nevada
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401588694,2024,regular-season,2024-02-23,2,2006,home,FALSE,Akron,83,Zips,Akron Zips,Akron
+401588694,2024,regular-season,2024-02-23,2,2309,away,FALSE,Kent State,70,Golden Flashes,Kent State Golden Flashes,Kent State
+401599993,2024,regular-season,2024-02-23,2,294,home,FALSE,Jacksonville,62,Dolphins,Jacksonville Dolphins,Jacksonville
+401599993,2024,regular-season,2024-02-23,2,2454,away,FALSE,North Florida,50,Ospreys,North Florida Ospreys,North Florida
+401594359,2024,regular-season,2024-02-23,2,116,home,FALSE,Mount St. Mary's,65,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+401594359,2024,regular-season,2024-02-23,2,2612,away,FALSE,Saint Peter's,70,Peacocks,Saint Peter's Peacocks,Saint Peter's
+401594339,2024,regular-season,2024-02-23,2,2363,home,FALSE,Manhattan,50,Jaspers,Manhattan Jaspers,Manhattan
+401594339,2024,regular-season,2024-02-23,2,2368,away,FALSE,Marist,57,Red Foxes,Marist Red Foxes,Marist
+401594319,2024,regular-season,2024-02-23,2,2520,home,FALSE,Rider,78,Broncs,Rider Broncs,Rider
+401594319,2024,regular-season,2024-02-23,2,314,away,FALSE,Iona,75,Gaels,Iona Gaels,Iona
+401594270,2024,regular-season,2024-02-23,2,2099,home,FALSE,Canisius,69,Golden Griffins,Canisius Golden Griffins,Canisius
+401594270,2024,regular-season,2024-02-23,2,315,away,FALSE,Niagara,59,Purple Eagles,Niagara Purple Eagles,Niagara
+401589369,2024,regular-season,2024-02-23,2,159,home,FALSE,Dartmouth,69,Big Green,Dartmouth Big Green,Dartmouth
+401589369,2024,regular-season,2024-02-23,2,219,away,FALSE,Pennsylvania,82,Quakers,Pennsylvania Quakers,Penn
+401588696,2024,regular-season,2024-02-23,2,189,home,FALSE,Bowling Green,76,Falcons,Bowling Green Falcons,Bowling Green
+401588696,2024,regular-season,2024-02-23,2,2649,away,FALSE,Toledo,68,Rockets,Toledo Rockets,Toledo
+401587748,2024,regular-season,2024-02-23,2,2739,home,FALSE,Green Bay,59,Phoenix,Green Bay Phoenix,Green Bay
+401587748,2024,regular-season,2024-02-23,2,2870,away,FALSE,Purdue Fort Wayne,85,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+401587196,2024,regular-season,2024-02-23,2,172,home,FALSE,Cornell,65,Big Red,Cornell Big Red,Cornell
+401587196,2024,regular-season,2024-02-23,2,43,away,FALSE,Yale,62,Bulldogs,Yale Bulldogs,Yale
+401581755,2024,regular-season,2024-02-23,2,108,home,FALSE,Harvard,53,Crimson,Harvard Crimson,Harvard
+401581755,2024,regular-season,2024-02-23,2,163,away,FALSE,Princeton,66,Tigers,Princeton Tigers,Princeton
+401577676,2024,regular-season,2024-02-23,2,171,home,FALSE,Columbia,64,Lions,Columbia Lions,Columbia
+401577676,2024,regular-season,2024-02-23,2,225,away,FALSE,Brown,66,Bears,Brown Bears,Brown
+401587749,2024,regular-season,2024-02-23,3,270,home,FALSE,Milwaukee,80,Panthers,Milwaukee Panthers,Milwaukee
+401587749,2024,regular-season,2024-02-23,3,2754,away,FALSE,Youngstown State,84,Penguins,Youngstown State Penguins,Youngstown St
+401596915,2024,regular-season,2024-02-23,2,2230,home,FALSE,Fordham,79,Rams,Fordham Rams,Fordham
+401596915,2024,regular-season,2024-02-23,2,2184,away,FALSE,Duquesne,67,Dukes,Duquesne Dukes,Duquesne
+401594303,2024,regular-season,2024-02-23,2,2514,home,FALSE,Quinnipiac,81,Bobcats,Quinnipiac Bobcats,Quinnipiac
+401594303,2024,regular-season,2024-02-23,2,2217,away,FALSE,Fairfield,85,Stags,Fairfield Stags,Fairfield
+401602986,2024,regular-season,2024-02-23,2,23,home,FALSE,San José State,63,Spartans,San José State Spartans,San José St
+401602986,2024,regular-season,2024-02-23,2,2440,away,FALSE,Nevada,84,Wolf Pack,Nevada Wolf Pack,Nevada

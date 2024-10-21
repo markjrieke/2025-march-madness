@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213570009,2001-12-23,2,9,home,FALSE,Arizona State,63,Sun Devils,Arizona State Sun Devils,Arizona St
-213570009,2001-12-23,2,25,away,FALSE,California,49,Golden Bears,California Golden Bears,California
-213572752,2001-12-23,2,2752,home,FALSE,Xavier,60,Musketeers,Xavier Musketeers,Xavier
-213572752,2001-12-23,2,2393,away,FALSE,Middle Tennessee,68,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-213572670,2001-12-23,2,2670,home,FALSE,VCU,73,Rams,VCU Rams,VCU
-213572670,2001-12-23,2,256,away,FALSE,James Madison,76,Dukes,James Madison Dukes,James Madison
-213572006,2001-12-23,2,2006,home,FALSE,Akron,50,Zips,Akron Zips,Akron
-213572006,2001-12-23,2,82,away,FALSE,UIC,60,Flames,UIC Flames,UIC
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213570009,2002,regular-season,2001-12-23,2,9,home,FALSE,Arizona State,63,Sun Devils,Arizona State Sun Devils,Arizona St
+213570009,2002,regular-season,2001-12-23,2,25,away,FALSE,California,49,Golden Bears,California Golden Bears,California
+213572752,2002,regular-season,2001-12-23,2,2752,home,FALSE,Xavier,60,Musketeers,Xavier Musketeers,Xavier
+213572752,2002,regular-season,2001-12-23,2,2393,away,FALSE,Middle Tennessee,68,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+213572670,2002,regular-season,2001-12-23,2,2670,home,FALSE,VCU,73,Rams,VCU Rams,VCU
+213572670,2002,regular-season,2001-12-23,2,256,away,FALSE,James Madison,76,Dukes,James Madison Dukes,James Madison
+213572006,2002,regular-season,2001-12-23,2,2006,home,FALSE,Akron,50,Zips,Akron Zips,Akron
+213572006,2002,regular-season,2001-12-23,2,82,away,FALSE,UIC,60,Flames,UIC Flames,UIC

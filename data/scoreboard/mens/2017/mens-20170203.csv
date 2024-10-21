@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400917158,2017-02-03,2,2117,home,FALSE,Central Michigan,86,Chippewas,Central Michigan Chippewas,C Michigan
-400917158,2017-02-03,2,2711,away,FALSE,Western Michigan,82,Broncos,Western Michigan Broncos,W Michigan
-400919325,2017-02-03,2,108,home,FALSE,Harvard,69,Crimson,Harvard Crimson,Harvard
-400919325,2017-02-03,2,219,away,FALSE,Pennsylvania,59,Quakers,Pennsylvania Quakers,Penn
-400919315,2017-02-03,2,159,home,FALSE,Dartmouth,64,Big Green,Dartmouth Big Green,Dartmouth
-400919315,2017-02-03,2,163,away,FALSE,Princeton,69,Tigers,Princeton Tigers,Princeton
-400919288,2017-02-03,2,171,home,FALSE,Columbia,78,Lions,Columbia Lions,Columbia
-400919288,2017-02-03,2,43,away,FALSE,Yale,87,Bulldogs,Yale Bulldogs,Yale
-400919268,2017-02-03,2,172,home,FALSE,Cornell,70,Big Red,Cornell Big Red,Cornell
-400919268,2017-02-03,2,225,away,FALSE,Brown,81,Bears,Brown Bears,Brown
-400918274,2017-02-03,2,2166,home,FALSE,Davidson,59,Wildcats,Davidson Wildcats,Davidson
-400918274,2017-02-03,2,227,away,FALSE,Rhode Island,70,Rams,Rhode Island Rams,Rhode Island
-400917616,2017-02-03,3,2405,home,FALSE,Monmouth,71,Hawks,Monmouth Hawks,Monmouth
-400917616,2017-02-03,3,2612,away,FALSE,Saint Peter's,70,Peacocks,Saint Peter's Peacocks,Saint Peter's
-400917615,2017-02-03,2,2520,home,FALSE,Rider,76,Broncs,Rider Broncs,Rider
-400917615,2017-02-03,2,314,away,FALSE,Iona,95,Gaels,Iona Gaels,Iona
-400917155,2017-02-03,2,2050,home,FALSE,Ball State,69,Cardinals,Ball State Cardinals,Ball State
-400917155,2017-02-03,2,2084,away,FALSE,Buffalo,96,Bulls,Buffalo Bulls,Buffalo
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400917158,2017,regular-season,2017-02-03,2,2117,home,FALSE,Central Michigan,86,Chippewas,Central Michigan Chippewas,C Michigan
+400917158,2017,regular-season,2017-02-03,2,2711,away,FALSE,Western Michigan,82,Broncos,Western Michigan Broncos,W Michigan
+400919325,2017,regular-season,2017-02-03,2,108,home,FALSE,Harvard,69,Crimson,Harvard Crimson,Harvard
+400919325,2017,regular-season,2017-02-03,2,219,away,FALSE,Pennsylvania,59,Quakers,Pennsylvania Quakers,Penn
+400919315,2017,regular-season,2017-02-03,2,159,home,FALSE,Dartmouth,64,Big Green,Dartmouth Big Green,Dartmouth
+400919315,2017,regular-season,2017-02-03,2,163,away,FALSE,Princeton,69,Tigers,Princeton Tigers,Princeton
+400919288,2017,regular-season,2017-02-03,2,171,home,FALSE,Columbia,78,Lions,Columbia Lions,Columbia
+400919288,2017,regular-season,2017-02-03,2,43,away,FALSE,Yale,87,Bulldogs,Yale Bulldogs,Yale
+400919268,2017,regular-season,2017-02-03,2,172,home,FALSE,Cornell,70,Big Red,Cornell Big Red,Cornell
+400919268,2017,regular-season,2017-02-03,2,225,away,FALSE,Brown,81,Bears,Brown Bears,Brown
+400918274,2017,regular-season,2017-02-03,2,2166,home,FALSE,Davidson,59,Wildcats,Davidson Wildcats,Davidson
+400918274,2017,regular-season,2017-02-03,2,227,away,FALSE,Rhode Island,70,Rams,Rhode Island Rams,Rhode Island
+400917616,2017,regular-season,2017-02-03,3,2405,home,FALSE,Monmouth,71,Hawks,Monmouth Hawks,Monmouth
+400917616,2017,regular-season,2017-02-03,3,2612,away,FALSE,Saint Peter's,70,Peacocks,Saint Peter's Peacocks,Saint Peter's
+400917615,2017,regular-season,2017-02-03,2,2520,home,FALSE,Rider,76,Broncs,Rider Broncs,Rider
+400917615,2017,regular-season,2017-02-03,2,314,away,FALSE,Iona,95,Gaels,Iona Gaels,Iona
+400917155,2017,regular-season,2017-02-03,2,2050,home,FALSE,Ball State,69,Cardinals,Ball State Cardinals,Ball State
+400917155,2017,regular-season,2017-02-03,2,2084,away,FALSE,Buffalo,96,Bulls,Buffalo Bulls,Buffalo

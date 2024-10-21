@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300430221,2010-02-12,5,221,home,FALSE,Pittsburgh,98,Panthers,Pittsburgh Panthers,Pitt
-300430221,2010-02-12,5,277,away,FALSE,West Virginia,95,Mountaineers,West Virginia Mountaineers,West Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300430221,2010,regular-season,2010-02-12,5,221,home,FALSE,Pittsburgh,98,Panthers,Pittsburgh Panthers,Pitt
+300430221,2010,regular-season,2010-02-12,5,277,away,FALSE,West Virginia,95,Mountaineers,West Virginia Mountaineers,West Virginia

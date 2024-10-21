@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330102483,2013-01-10,2,2483,home,FALSE,Oregon,70,Ducks,Oregon Ducks,Oregon
-330102483,2013-01-10,2,12,away,FALSE,Arizona,66,Wildcats,Arizona Wildcats,Arizona
-330102250,2013-01-10,2,2250,home,FALSE,Gonzaga,83,Bulldogs,Gonzaga Bulldogs,Gonzaga
-330102250,2013-01-10,2,2608,away,FALSE,Saint Mary's,78,Gaels,Saint Mary's Gaels,Saint Mary's
-330102294,2013-01-10,2,2294,home,FALSE,Iowa,59,Hawkeyes,Iowa Hawkeyes,Iowa
-330102294,2013-01-10,2,127,away,FALSE,Michigan State,62,Spartans,Michigan State Spartans,Michigan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330102483,2013,regular-season,2013-01-10,2,2483,home,FALSE,Oregon,70,Ducks,Oregon Ducks,Oregon
+330102483,2013,regular-season,2013-01-10,2,12,away,FALSE,Arizona,66,Wildcats,Arizona Wildcats,Arizona
+330102250,2013,regular-season,2013-01-10,2,2250,home,FALSE,Gonzaga,83,Bulldogs,Gonzaga Bulldogs,Gonzaga
+330102250,2013,regular-season,2013-01-10,2,2608,away,FALSE,Saint Mary's,78,Gaels,Saint Mary's Gaels,Saint Mary's
+330102294,2013,regular-season,2013-01-10,2,2294,home,FALSE,Iowa,59,Hawkeyes,Iowa Hawkeyes,Iowa
+330102294,2013,regular-season,2013-01-10,2,127,away,FALSE,Michigan State,62,Spartans,Michigan State Spartans,Michigan St

@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313640239,2011-12-30,2,239,home,FALSE,Baylor,93,Bears,Baylor Bears,Baylor
-313640239,2011-12-30,2,2400,away,FALSE,Mississippi Valley State,55,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
-313642382,2011-12-30,2,2382,home,FALSE,Mercer,42,Bears,Mercer Bears,Mercer
-313642382,2011-12-30,2,87,away,FALSE,Notre Dame,128,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-313640218,2011-12-30,2,218,home,FALSE,Temple,54,Owls,Temple Owls,Temple
-313640218,2011-12-30,2,150,away,FALSE,Duke,65,Blue Devils,Duke Blue Devils,Duke
-313640275,2011-12-30,2,275,home,FALSE,Wisconsin,61,Badgers,Wisconsin Badgers,Wisconsin
-313640275,2011-12-30,2,194,away,FALSE,Ohio State,77,Buckeyes,Ohio State Buckeyes,Ohio State
-313640245,2011-12-30,2,245,home,FALSE,Texas A&M,72,Aggies,Texas A&M Aggies,Texas A&M
-313640245,2011-12-30,2,2377,away,FALSE,McNeese,62,Cowgirls,McNeese Cowgirls,McNeese
-313640045,2011-12-30,2,45,home,FALSE,George Washington,54,Revolutionaries,George Washington Revolutionaries,G Washington
-313640045,2011-12-30,2,164,away,FALSE,Rutgers,75,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-313640213,2011-12-30,2,213,home,FALSE,Penn State,63,Lady Lions,Penn State Lady Lions,Penn State
-313640213,2011-12-30,2,158,away,FALSE,Nebraska,71,Cornhuskers,Nebraska Cornhuskers,Nebraska
-313642509,2011-12-30,2,2509,home,FALSE,Purdue,57,Boilermakers,Purdue Boilermakers,Purdue
-313642509,2011-12-30,2,135,away,FALSE,Minnesota,53,Golden Gophers,Minnesota Golden Gophers,Minnesota
-313640153,2011-12-30,2,153,home,FALSE,North Carolina,79,Tar Heels,North Carolina Tar Heels,North Carolina
-313640153,2011-12-30,2,2428,away,FALSE,North Carolina Central,42,Eagles,North Carolina Central Eagles,NC Central
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313640239,2012,regular-season,2011-12-30,2,239,home,FALSE,Baylor,93,Bears,Baylor Bears,Baylor
+313640239,2012,regular-season,2011-12-30,2,2400,away,FALSE,Mississippi Valley State,55,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
+313642382,2012,regular-season,2011-12-30,2,2382,home,FALSE,Mercer,42,Bears,Mercer Bears,Mercer
+313642382,2012,regular-season,2011-12-30,2,87,away,FALSE,Notre Dame,128,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+313640218,2012,regular-season,2011-12-30,2,218,home,FALSE,Temple,54,Owls,Temple Owls,Temple
+313640218,2012,regular-season,2011-12-30,2,150,away,FALSE,Duke,65,Blue Devils,Duke Blue Devils,Duke
+313640275,2012,regular-season,2011-12-30,2,275,home,FALSE,Wisconsin,61,Badgers,Wisconsin Badgers,Wisconsin
+313640275,2012,regular-season,2011-12-30,2,194,away,FALSE,Ohio State,77,Buckeyes,Ohio State Buckeyes,Ohio State
+313640245,2012,regular-season,2011-12-30,2,245,home,FALSE,Texas A&M,72,Aggies,Texas A&M Aggies,Texas A&M
+313640245,2012,regular-season,2011-12-30,2,2377,away,FALSE,McNeese,62,Cowgirls,McNeese Cowgirls,McNeese
+313640045,2012,regular-season,2011-12-30,2,45,home,FALSE,George Washington,54,Revolutionaries,George Washington Revolutionaries,G Washington
+313640045,2012,regular-season,2011-12-30,2,164,away,FALSE,Rutgers,75,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+313640213,2012,regular-season,2011-12-30,2,213,home,FALSE,Penn State,63,Lady Lions,Penn State Lady Lions,Penn State
+313640213,2012,regular-season,2011-12-30,2,158,away,FALSE,Nebraska,71,Cornhuskers,Nebraska Cornhuskers,Nebraska
+313642509,2012,regular-season,2011-12-30,2,2509,home,FALSE,Purdue,57,Boilermakers,Purdue Boilermakers,Purdue
+313642509,2012,regular-season,2011-12-30,2,135,away,FALSE,Minnesota,53,Golden Gophers,Minnesota Golden Gophers,Minnesota
+313640153,2012,regular-season,2011-12-30,2,153,home,FALSE,North Carolina,79,Tar Heels,North Carolina Tar Heels,North Carolina
+313640153,2012,regular-season,2011-12-30,2,2428,away,FALSE,North Carolina Central,42,Eagles,North Carolina Central Eagles,NC Central

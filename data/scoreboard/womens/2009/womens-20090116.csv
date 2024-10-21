@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290160153,2009-01-16,2,153,home,FALSE,North Carolina,103,Tar Heels,North Carolina Tar Heels,North Carolina
-290160153,2009-01-16,2,258,away,FALSE,Virginia,74,Cavaliers,Virginia Cavaliers,Virginia
-290160259,2009-01-16,2,259,home,FALSE,Virginia Tech,52,Hokies,Virginia Tech Hokies,Virginia Tech
-290160259,2009-01-16,2,150,away,FALSE,Duke,57,Blue Devils,Duke Blue Devils,Duke
-290162368,2009-01-16,2,2368,home,FALSE,Marist,78,Red Foxes,Marist Red Foxes,Marist
-290162368,2009-01-16,2,2612,away,FALSE,Saint Peter's,58,Peacocks,Saint Peter's Peacocks,Saint Peter's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290160153,2009,regular-season,2009-01-16,2,153,home,FALSE,North Carolina,103,Tar Heels,North Carolina Tar Heels,North Carolina
+290160153,2009,regular-season,2009-01-16,2,258,away,FALSE,Virginia,74,Cavaliers,Virginia Cavaliers,Virginia
+290160259,2009,regular-season,2009-01-16,2,259,home,FALSE,Virginia Tech,52,Hokies,Virginia Tech Hokies,Virginia Tech
+290160259,2009,regular-season,2009-01-16,2,150,away,FALSE,Duke,57,Blue Devils,Duke Blue Devils,Duke
+290162368,2009,regular-season,2009-01-16,2,2368,home,FALSE,Marist,78,Red Foxes,Marist Red Foxes,Marist
+290162368,2009,regular-season,2009-01-16,2,2612,away,FALSE,Saint Peter's,58,Peacocks,Saint Peter's Peacocks,Saint Peter's

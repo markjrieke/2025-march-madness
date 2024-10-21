@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240672250,2004-03-07,2,2250,home,FALSE,Gonzaga,63,Bulldogs,Gonzaga Bulldogs,Gonzaga
-240672250,2004-03-07,2,2541,away,FALSE,Santa Clara,62,Broncos,Santa Clara Broncos,Santa Clara
-240670183,2004-03-07,2,183,home,FALSE,Syracuse,67,Orange,Syracuse Orange,Syracuse
-240670183,2004-03-07,2,41,away,FALSE,UConn,56,Huskies,UConn Huskies,UConn
-240670096,2004-03-07,2,96,home,FALSE,Kentucky,82,Wildcats,Kentucky Wildcats,Kentucky
-240670096,2004-03-07,2,57,away,FALSE,Florida,62,Gators,Florida Gators,Florida
-240670079,2004-03-07,2,79,home,FALSE,Southern Illinois,74,Salukis,Southern Illinois Salukis,S Illinois
-240670079,2004-03-07,2,2623,away,FALSE,Missouri State,80,Bears,Missouri State Bears,Missouri St
-240670194,2004-03-07,2,194,home,FALSE,Ohio State,63,Buckeyes,Ohio State Buckeyes,Ohio State
-240670194,2004-03-07,2,356,away,FALSE,Illinois,64,Fighting Illini,Illinois Fighting Illini,Illinois
-240670142,2004-03-07,2,142,home,FALSE,Missouri,82,Tigers,Missouri Tigers,Missouri
-240670142,2004-03-07,2,2305,away,FALSE,Kansas,84,Jayhawks,Kansas Jayhawks,Kansas
-240670012,2004-03-07,2,12,home,FALSE,Arizona,106,Wildcats,Arizona Wildcats,Arizona
-240670012,2004-03-07,2,9,away,FALSE,Arizona State,81,Sun Devils,Arizona State Sun Devils,Arizona St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240672250,2004,regular-season,2004-03-07,2,2250,home,FALSE,Gonzaga,63,Bulldogs,Gonzaga Bulldogs,Gonzaga
+240672250,2004,regular-season,2004-03-07,2,2541,away,FALSE,Santa Clara,62,Broncos,Santa Clara Broncos,Santa Clara
+240670183,2004,regular-season,2004-03-07,2,183,home,FALSE,Syracuse,67,Orange,Syracuse Orange,Syracuse
+240670183,2004,regular-season,2004-03-07,2,41,away,FALSE,UConn,56,Huskies,UConn Huskies,UConn
+240670096,2004,regular-season,2004-03-07,2,96,home,FALSE,Kentucky,82,Wildcats,Kentucky Wildcats,Kentucky
+240670096,2004,regular-season,2004-03-07,2,57,away,FALSE,Florida,62,Gators,Florida Gators,Florida
+240670079,2004,regular-season,2004-03-07,2,79,home,FALSE,Southern Illinois,74,Salukis,Southern Illinois Salukis,S Illinois
+240670079,2004,regular-season,2004-03-07,2,2623,away,FALSE,Missouri State,80,Bears,Missouri State Bears,Missouri St
+240670194,2004,regular-season,2004-03-07,2,194,home,FALSE,Ohio State,63,Buckeyes,Ohio State Buckeyes,Ohio State
+240670194,2004,regular-season,2004-03-07,2,356,away,FALSE,Illinois,64,Fighting Illini,Illinois Fighting Illini,Illinois
+240670142,2004,regular-season,2004-03-07,2,142,home,FALSE,Missouri,82,Tigers,Missouri Tigers,Missouri
+240670142,2004,regular-season,2004-03-07,2,2305,away,FALSE,Kansas,84,Jayhawks,Kansas Jayhawks,Kansas
+240670012,2004,regular-season,2004-03-07,2,12,home,FALSE,Arizona,106,Wildcats,Arizona Wildcats,Arizona
+240670012,2004,regular-season,2004-03-07,2,9,away,FALSE,Arizona State,81,Sun Devils,Arizona State Sun Devils,Arizona St

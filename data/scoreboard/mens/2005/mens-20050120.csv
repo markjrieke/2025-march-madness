@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250200356,2005-01-20,3,356,home,FALSE,Illinois,73,Fighting Illini,Illinois Fighting Illini,Illinois
-250200356,2005-01-20,3,2294,away,FALSE,Iowa,68,Hawkeyes,Iowa Hawkeyes,Iowa
-250202539,2005-01-20,2,2539,home,FALSE,San Francisco,73,Dons,San Francisco Dons,San Francisco
-250202539,2005-01-20,2,2250,away,FALSE,Gonzaga,70,Bulldogs,Gonzaga Bulldogs,Gonzaga
-250202483,2005-01-20,2,2483,home,FALSE,Oregon,66,Ducks,Oregon Ducks,Oregon
-250202483,2005-01-20,2,12,away,FALSE,Arizona,74,Wildcats,Arizona Wildcats,Arizona
-250200305,2005-01-20,2,305,home,FALSE,DePaul,85,Blue Demons,DePaul Blue Demons,DePaul
-250200305,2005-01-20,2,269,away,FALSE,Marquette,72,Golden Eagles,Marquette Golden Eagles,Marquette
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250200356,2005,regular-season,2005-01-20,3,356,home,FALSE,Illinois,73,Fighting Illini,Illinois Fighting Illini,Illinois
+250200356,2005,regular-season,2005-01-20,3,2294,away,FALSE,Iowa,68,Hawkeyes,Iowa Hawkeyes,Iowa
+250202539,2005,regular-season,2005-01-20,2,2539,home,FALSE,San Francisco,73,Dons,San Francisco Dons,San Francisco
+250202539,2005,regular-season,2005-01-20,2,2250,away,FALSE,Gonzaga,70,Bulldogs,Gonzaga Bulldogs,Gonzaga
+250202483,2005,regular-season,2005-01-20,2,2483,home,FALSE,Oregon,66,Ducks,Oregon Ducks,Oregon
+250202483,2005,regular-season,2005-01-20,2,12,away,FALSE,Arizona,74,Wildcats,Arizona Wildcats,Arizona
+250200305,2005,regular-season,2005-01-20,2,305,home,FALSE,DePaul,85,Blue Demons,DePaul Blue Demons,DePaul
+250200305,2005,regular-season,2005-01-20,2,269,away,FALSE,Marquette,72,Golden Eagles,Marquette Golden Eagles,Marquette

@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400839259,2016-01-07,2,127,home,FALSE,Michigan State,79,Spartans,Michigan State Spartans,Michigan St
-400839259,2016-01-07,2,356,away,FALSE,Illinois,54,Fighting Illini,Illinois Fighting Illini,Illinois
-400841591,2016-01-07,2,26,home,FALSE,UCLA,87,Bruins,UCLA Bruins,UCLA
-400841591,2016-01-07,2,12,away,FALSE,Arizona,84,Wildcats,Arizona Wildcats,Arizona
-400835255,2016-01-07,2,2567,home,FALSE,SMU,59,Mustangs,SMU Mustangs,SMU
-400835255,2016-01-07,2,2132,away,FALSE,Cincinnati,57,Bearcats,Cincinnati Bearcats,Cincinnati
-400839803,2016-01-07,2,152,home,FALSE,NC State,72,Wolfpack,NC State Wolfpack,NC State
-400839803,2016-01-07,2,97,away,FALSE,Louisville,77,Cardinals,Louisville Cardinals,Louisville
-400839377,2016-01-07,2,2509,home,FALSE,Purdue,87,Boilermakers,Purdue Boilermakers,Purdue
-400839377,2016-01-07,2,130,away,FALSE,Michigan,70,Wolverines,Michigan Wolverines,Michigan
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400839259,2016,regular-season,2016-01-07,2,127,home,FALSE,Michigan State,79,Spartans,Michigan State Spartans,Michigan St
+400839259,2016,regular-season,2016-01-07,2,356,away,FALSE,Illinois,54,Fighting Illini,Illinois Fighting Illini,Illinois
+400841591,2016,regular-season,2016-01-07,2,26,home,FALSE,UCLA,87,Bruins,UCLA Bruins,UCLA
+400841591,2016,regular-season,2016-01-07,2,12,away,FALSE,Arizona,84,Wildcats,Arizona Wildcats,Arizona
+400835255,2016,regular-season,2016-01-07,2,2567,home,FALSE,SMU,59,Mustangs,SMU Mustangs,SMU
+400835255,2016,regular-season,2016-01-07,2,2132,away,FALSE,Cincinnati,57,Bearcats,Cincinnati Bearcats,Cincinnati
+400839803,2016,regular-season,2016-01-07,2,152,home,FALSE,NC State,72,Wolfpack,NC State Wolfpack,NC State
+400839803,2016,regular-season,2016-01-07,2,97,away,FALSE,Louisville,77,Cardinals,Louisville Cardinals,Louisville
+400839377,2016,regular-season,2016-01-07,2,2509,home,FALSE,Purdue,87,Boilermakers,Purdue Boilermakers,Purdue
+400839377,2016,regular-season,2016-01-07,2,130,away,FALSE,Michigan,70,Wolverines,Michigan Wolverines,Michigan

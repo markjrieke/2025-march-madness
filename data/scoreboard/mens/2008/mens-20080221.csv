@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280520026,2008-02-21,2,26,home,FALSE,UCLA,84,Bruins,UCLA Bruins,UCLA
-280520026,2008-02-21,2,204,away,FALSE,Oregon State,49,Beavers,Oregon State Beavers,Oregon St
-280522752,2008-02-21,2,2752,home,FALSE,Xavier,75,Musketeers,Xavier Musketeers,Xavier
-280522752,2008-02-21,2,2184,away,FALSE,Duquesne,48,Dukes,Duquesne Dukes,Duquesne
-280520265,2008-02-21,2,265,home,FALSE,Washington State,59,Cougars,Washington State Cougars,Washington St
-280520265,2008-02-21,2,9,away,FALSE,Arizona State,47,Sun Devils,Arizona State Sun Devils,Arizona St
-280520087,2008-02-21,2,87,home,FALSE,Notre Dame,82,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-280520087,2008-02-21,2,221,away,FALSE,Pittsburgh,70,Panthers,Pittsburgh Panthers,Pitt
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280520026,2008,regular-season,2008-02-21,2,26,home,FALSE,UCLA,84,Bruins,UCLA Bruins,UCLA
+280520026,2008,regular-season,2008-02-21,2,204,away,FALSE,Oregon State,49,Beavers,Oregon State Beavers,Oregon St
+280522752,2008,regular-season,2008-02-21,2,2752,home,FALSE,Xavier,75,Musketeers,Xavier Musketeers,Xavier
+280522752,2008,regular-season,2008-02-21,2,2184,away,FALSE,Duquesne,48,Dukes,Duquesne Dukes,Duquesne
+280520265,2008,regular-season,2008-02-21,2,265,home,FALSE,Washington State,59,Cougars,Washington State Cougars,Washington St
+280520265,2008,regular-season,2008-02-21,2,9,away,FALSE,Arizona State,47,Sun Devils,Arizona State Sun Devils,Arizona St
+280520087,2008,regular-season,2008-02-21,2,87,home,FALSE,Notre Dame,82,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+280520087,2008,regular-season,2008-02-21,2,221,away,FALSE,Pittsburgh,70,Panthers,Pittsburgh Panthers,Pitt

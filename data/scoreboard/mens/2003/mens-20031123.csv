@@ -1,57 +1,57 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-233272390,2003-11-23,2,2390,home,FALSE,Miami,78,Hurricanes,Miami Hurricanes,Miami
-233272390,2003-11-23,2,2433,away,FALSE,UL Monroe,60,Warhawks,UL Monroe Warhawks,UL Monroe
-233272229,2003-11-23,2,2229,home,FALSE,Florida International,66,Panthers,Florida International Panthers,FIU
-233272229,2003-11-23,2,2514,away,FALSE,Quinnipiac,65,Bobcats,Quinnipiac Bobcats,Quinnipiac
-233272729,2003-11-23,2,2729,home,FALSE,William & Mary,91,Tribe,William & Mary Tribe,William & Mary
-233272729,2003-11-23,2,2335,away,FALSE,Liberty,64,Flames,Liberty Flames,Liberty
-233272509,2003-11-23,2,2509,home,FALSE,Purdue,66,Boilermakers,Purdue Boilermakers,Purdue
-233272509,2003-11-23,2,2535,away,FALSE,Samford,50,Bulldogs,Samford Bulldogs,Samford
-233270227,2003-11-23,2,227,home,FALSE,Rhode Island,68,Rams,Rhode Island Rams,Rhode Island
-233270227,2003-11-23,2,2878,away,FALSE,Lubbock Christian,74,Chaparrals,Lubbock Christian Chaparrals,Lubbock Ch
-233270071,2003-11-23,2,71,home,FALSE,Bradley,92,Braves,Bradley Braves,Bradley
-233270071,2003-11-23,2,111,away,FALSE,Northeastern,86,Huskies,Northeastern Huskies,Northeastern
-233272678,2003-11-23,2,2678,home,FALSE,VMI,63,Keydets,VMI Keydets,VMI
-233272678,2003-11-23,2,2066,away,FALSE,Binghamton,72,Bearcats,Binghamton Bearcats,Binghamton
-233272450,2003-11-23,2,2450,home,FALSE,Norfolk State,74,Spartans,Norfolk State Spartans,Norfolk St
-233272450,2003-11-23,2,2676,away,FALSE,Virginia Union,87,Panthers,Virginia Union Panthers,Va Union
-233272368,2003-11-23,2,2368,home,FALSE,Marist,62,Red Foxes,Marist Red Foxes,Marist
-233272368,2003-11-23,2,2199,away,FALSE,Eastern Michigan,82,Eagles,Eastern Michigan Eagles,E Michigan
-233270213,2003-11-23,2,213,home,FALSE,Penn State,78,Nittany Lions,Penn State Nittany Lions,Penn State
-233270213,2003-11-23,2,46,away,FALSE,Georgetown,79,Hoyas,Georgetown Hoyas,Georgetown
-233270172,2003-11-23,2,172,home,FALSE,Cornell,69,Big Red,Cornell Big Red,Cornell
-233270172,2003-11-23,2,59,away,FALSE,Georgia Tech,90,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-233270047,2003-11-23,2,47,home,FALSE,Howard,54,Bison,Howard Bison,Howard
-233270047,2003-11-23,2,147,away,FALSE,Montana State,57,Bobcats,Montana State Bobcats,Montana St
-233270002,2003-11-23,2,2,home,FALSE,Auburn,85,Tigers,Auburn Tigers,Auburn
-233270002,2003-11-23,2,2379,away,FALSE,Maryland Eastern Shore,61,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-233272287,2003-11-23,2,2287,home,FALSE,Illinois State,87,Redbirds,Illinois State Redbirds,Illinois St
-233272287,2003-11-23,2,50,away,FALSE,Florida A&M,70,Rattlers,Florida A&M Rattlers,Florida A&M
-233270349,2003-11-23,2,349,home,FALSE,Army,67,Black Knights,Army Black Knights,Army
-233270349,2003-11-23,2,2557,away,FALSE,Coast Guard,53,Bears,Coast Guard Bears,Coast Guard
-233272619,2003-11-23,2,2619,home,FALSE,Stony Brook,48,Seawolves,Stony Brook Seawolves,Stony Brook
-233272619,2003-11-23,2,254,away,FALSE,Utah,51,Utes,Utah Utes,Utah
-233270282,2003-11-23,2,282,home,FALSE,Indiana State,67,Sycamores,Indiana State Sycamores,Indiana St
-233270282,2003-11-23,2,2241,away,FALSE,Gardner-Webb,53,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-233270043,2003-11-23,2,324,home,FALSE,Coastal Carolina,65,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
-233270043,2003-11-23,2,43,away,FALSE,Yale,70,Bulldogs,Yale Bulldogs,Yale
-233272294,2003-11-23,2,2294,home,FALSE,Iowa,107,Hawkeyes,Iowa Hawkeyes,Iowa
-233272294,2003-11-23,2,2427,away,FALSE,UNC Asheville,80,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-233272405,2003-11-23,2,2405,home,FALSE,Monmouth,50,Hawks,Monmouth Hawks,Monmouth
-233272405,2003-11-23,2,103,away,FALSE,Boston College,60,Eagles,Boston College Eagles,Boston College
-233270304,2003-11-23,2,2636,home,FALSE,UTSA,65,Roadrunners,UTSA Roadrunners,UTSA
-233270304,2003-11-23,2,304,away,FALSE,Idaho State,59,Bengals,Idaho State Bengals,Idaho St
-233272086,2003-11-23,2,2086,home,FALSE,Butler,68,Bulldogs,Butler Bulldogs,Butler
-233272086,2003-11-23,2,2825,away,FALSE,Quincy,54,Hawks,Quincy Hawks,Quincy
-233270258,2003-11-23,2,258,home,FALSE,Virginia,80,Cavaliers,Virginia Cavaliers,Virginia
-233270258,2003-11-23,2,116,away,FALSE,Mount St. Mary's,71,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-233272641,2003-11-23,2,2641,home,FALSE,Texas Tech,64,Red Raiders,Texas Tech Red Raiders,Texas Tech
-233272641,2003-11-23,2,2193,away,FALSE,East Tennessee State,53,Buccaneers,East Tennessee State Buccaneers,ETSU
-233272724,2003-11-23,2,2724,home,FALSE,Wichita State,68,Shockers,Wichita State Shockers,Wichita St
-233272724,2003-11-23,2,2261,away,FALSE,Hampton,65,Pirates,Hampton Pirates,Hampton
-233270077,2003-11-23,2,77,home,FALSE,Northwestern,76,Wildcats,Northwestern Wildcats,Northwestern
-233270077,2003-11-23,2,2130,away,FALSE,Chicago State,60,Cougars,Chicago State Cougars,Chicago St
-233270298,2003-11-23,2,2608,home,FALSE,Saint Mary's,71,Gaels,Saint Mary's Gaels,Saint Mary's
-233270298,2003-11-23,2,298,away,FALSE,Alaska,47,Nanooks,Alaska Nanooks,Alaska
-233270242,2003-11-23,2,242,home,FALSE,Rice,64,Owls,Rice Owls,Rice
-233270242,2003-11-23,2,265,away,FALSE,Washington State,49,Cougars,Washington State Cougars,Washington St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+233272390,2004,regular-season,2003-11-23,2,2390,home,FALSE,Miami,78,Hurricanes,Miami Hurricanes,Miami
+233272390,2004,regular-season,2003-11-23,2,2433,away,FALSE,UL Monroe,60,Warhawks,UL Monroe Warhawks,UL Monroe
+233272229,2004,regular-season,2003-11-23,2,2229,home,FALSE,Florida International,66,Panthers,Florida International Panthers,FIU
+233272229,2004,regular-season,2003-11-23,2,2514,away,FALSE,Quinnipiac,65,Bobcats,Quinnipiac Bobcats,Quinnipiac
+233272729,2004,regular-season,2003-11-23,2,2729,home,FALSE,William & Mary,91,Tribe,William & Mary Tribe,William & Mary
+233272729,2004,regular-season,2003-11-23,2,2335,away,FALSE,Liberty,64,Flames,Liberty Flames,Liberty
+233272509,2004,regular-season,2003-11-23,2,2509,home,FALSE,Purdue,66,Boilermakers,Purdue Boilermakers,Purdue
+233272509,2004,regular-season,2003-11-23,2,2535,away,FALSE,Samford,50,Bulldogs,Samford Bulldogs,Samford
+233270227,2004,regular-season,2003-11-23,2,227,home,FALSE,Rhode Island,68,Rams,Rhode Island Rams,Rhode Island
+233270227,2004,regular-season,2003-11-23,2,2878,away,FALSE,Lubbock Christian,74,Chaparrals,Lubbock Christian Chaparrals,Lubbock Ch
+233270071,2004,regular-season,2003-11-23,2,71,home,FALSE,Bradley,92,Braves,Bradley Braves,Bradley
+233270071,2004,regular-season,2003-11-23,2,111,away,FALSE,Northeastern,86,Huskies,Northeastern Huskies,Northeastern
+233272678,2004,regular-season,2003-11-23,2,2678,home,FALSE,VMI,63,Keydets,VMI Keydets,VMI
+233272678,2004,regular-season,2003-11-23,2,2066,away,FALSE,Binghamton,72,Bearcats,Binghamton Bearcats,Binghamton
+233272450,2004,regular-season,2003-11-23,2,2450,home,FALSE,Norfolk State,74,Spartans,Norfolk State Spartans,Norfolk St
+233272450,2004,regular-season,2003-11-23,2,2676,away,FALSE,Virginia Union,87,Panthers,Virginia Union Panthers,Va Union
+233272368,2004,regular-season,2003-11-23,2,2368,home,FALSE,Marist,62,Red Foxes,Marist Red Foxes,Marist
+233272368,2004,regular-season,2003-11-23,2,2199,away,FALSE,Eastern Michigan,82,Eagles,Eastern Michigan Eagles,E Michigan
+233270213,2004,regular-season,2003-11-23,2,213,home,FALSE,Penn State,78,Nittany Lions,Penn State Nittany Lions,Penn State
+233270213,2004,regular-season,2003-11-23,2,46,away,FALSE,Georgetown,79,Hoyas,Georgetown Hoyas,Georgetown
+233270172,2004,regular-season,2003-11-23,2,172,home,FALSE,Cornell,69,Big Red,Cornell Big Red,Cornell
+233270172,2004,regular-season,2003-11-23,2,59,away,FALSE,Georgia Tech,90,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+233270047,2004,regular-season,2003-11-23,2,47,home,FALSE,Howard,54,Bison,Howard Bison,Howard
+233270047,2004,regular-season,2003-11-23,2,147,away,FALSE,Montana State,57,Bobcats,Montana State Bobcats,Montana St
+233270002,2004,regular-season,2003-11-23,2,2,home,FALSE,Auburn,85,Tigers,Auburn Tigers,Auburn
+233270002,2004,regular-season,2003-11-23,2,2379,away,FALSE,Maryland Eastern Shore,61,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+233272287,2004,regular-season,2003-11-23,2,2287,home,FALSE,Illinois State,87,Redbirds,Illinois State Redbirds,Illinois St
+233272287,2004,regular-season,2003-11-23,2,50,away,FALSE,Florida A&M,70,Rattlers,Florida A&M Rattlers,Florida A&M
+233270349,2004,regular-season,2003-11-23,2,349,home,FALSE,Army,67,Black Knights,Army Black Knights,Army
+233270349,2004,regular-season,2003-11-23,2,2557,away,FALSE,Coast Guard,53,Bears,Coast Guard Bears,Coast Guard
+233272619,2004,regular-season,2003-11-23,2,2619,home,FALSE,Stony Brook,48,Seawolves,Stony Brook Seawolves,Stony Brook
+233272619,2004,regular-season,2003-11-23,2,254,away,FALSE,Utah,51,Utes,Utah Utes,Utah
+233270282,2004,regular-season,2003-11-23,2,282,home,FALSE,Indiana State,67,Sycamores,Indiana State Sycamores,Indiana St
+233270282,2004,regular-season,2003-11-23,2,2241,away,FALSE,Gardner-Webb,53,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+233270043,2004,regular-season,2003-11-23,2,324,home,FALSE,Coastal Carolina,65,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+233270043,2004,regular-season,2003-11-23,2,43,away,FALSE,Yale,70,Bulldogs,Yale Bulldogs,Yale
+233272294,2004,regular-season,2003-11-23,2,2294,home,FALSE,Iowa,107,Hawkeyes,Iowa Hawkeyes,Iowa
+233272294,2004,regular-season,2003-11-23,2,2427,away,FALSE,UNC Asheville,80,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+233272405,2004,regular-season,2003-11-23,2,2405,home,FALSE,Monmouth,50,Hawks,Monmouth Hawks,Monmouth
+233272405,2004,regular-season,2003-11-23,2,103,away,FALSE,Boston College,60,Eagles,Boston College Eagles,Boston College
+233270304,2004,regular-season,2003-11-23,2,2636,home,FALSE,UTSA,65,Roadrunners,UTSA Roadrunners,UTSA
+233270304,2004,regular-season,2003-11-23,2,304,away,FALSE,Idaho State,59,Bengals,Idaho State Bengals,Idaho St
+233272086,2004,regular-season,2003-11-23,2,2086,home,FALSE,Butler,68,Bulldogs,Butler Bulldogs,Butler
+233272086,2004,regular-season,2003-11-23,2,2825,away,FALSE,Quincy,54,Hawks,Quincy Hawks,Quincy
+233270258,2004,regular-season,2003-11-23,2,258,home,FALSE,Virginia,80,Cavaliers,Virginia Cavaliers,Virginia
+233270258,2004,regular-season,2003-11-23,2,116,away,FALSE,Mount St. Mary's,71,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+233272641,2004,regular-season,2003-11-23,2,2641,home,FALSE,Texas Tech,64,Red Raiders,Texas Tech Red Raiders,Texas Tech
+233272641,2004,regular-season,2003-11-23,2,2193,away,FALSE,East Tennessee State,53,Buccaneers,East Tennessee State Buccaneers,ETSU
+233272724,2004,regular-season,2003-11-23,2,2724,home,FALSE,Wichita State,68,Shockers,Wichita State Shockers,Wichita St
+233272724,2004,regular-season,2003-11-23,2,2261,away,FALSE,Hampton,65,Pirates,Hampton Pirates,Hampton
+233270077,2004,regular-season,2003-11-23,2,77,home,FALSE,Northwestern,76,Wildcats,Northwestern Wildcats,Northwestern
+233270077,2004,regular-season,2003-11-23,2,2130,away,FALSE,Chicago State,60,Cougars,Chicago State Cougars,Chicago St
+233270298,2004,regular-season,2003-11-23,2,2608,home,FALSE,Saint Mary's,71,Gaels,Saint Mary's Gaels,Saint Mary's
+233270298,2004,regular-season,2003-11-23,2,298,away,FALSE,Alaska,47,Nanooks,Alaska Nanooks,Alaska
+233270242,2004,regular-season,2003-11-23,2,242,home,FALSE,Rice,64,Owls,Rice Owls,Rice
+233270242,2004,regular-season,2003-11-23,2,265,away,FALSE,Washington State,49,Cougars,Washington State Cougars,Washington St

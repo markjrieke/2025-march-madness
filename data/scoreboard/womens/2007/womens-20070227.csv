@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270580338,2007-02-27,2,338,home,FALSE,Kennesaw State,80,Owls,Kennesaw State Owls,Kennesaw St
-270580338,2007-02-27,2,2344,away,FALSE,Longwood,63,Lancers,Longwood Lancers,Longwood
-270580093,2007-02-27,2,93,home,FALSE,Murray State,68,Racers,Murray State Racers,Murray St
-270580093,2007-02-27,2,2198,away,FALSE,Eastern Kentucky,66,Colonels,Eastern Kentucky Colonels,E Kentucky
-270582514,2007-02-27,2,2514,home,FALSE,Quinnipiac,63,Bobcats,Quinnipiac Bobcats,Quinnipiac
-270582514,2007-02-27,2,2529,away,FALSE,Sacred Heart,73,Pioneers,Sacred Heart Pioneers,Sacred Heart
-270582413,2007-02-27,2,2413,home,FALSE,Morehead State,57,Eagles,Morehead State Eagles,Morehead St
-270582413,2007-02-27,2,2630,away,FALSE,UT Martin,61,Skyhawks,UT Martin Skyhawks,UT Martin
-270582115,2007-02-27,2,2115,home,FALSE,Central Connecticut,59,Blue Devils,Central Connecticut Blue Devils,C Connecticut
-270582115,2007-02-27,2,2597,away,FALSE,St. Francis Brooklyn,68,Terriers,St. Francis Brooklyn Terriers,St Francis BK
-270582026,2007-02-27,2,2026,home,FALSE,App State,64,Mountaineers,App State Mountaineers,App State
-270582026,2007-02-27,2,2210,away,FALSE,Elon,50,Phoenix,Elon Phoenix,Elon
-270580161,2007-02-27,2,161,home,FALSE,Fairleigh Dickinson,74,Knights,Fairleigh Dickinson Knights,Fair Dickinson
-270580161,2007-02-27,2,2405,away,FALSE,Monmouth,59,Hawks,Monmouth Hawks,Monmouth
-270580116,2007-02-27,2,116,home,FALSE,Mount St. Mary's,58,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-270580116,2007-02-27,2,2523,away,FALSE,Robert Morris,71,Colonials,Robert Morris Colonials,Robert Morris
-270580042,2007-02-27,2,42,home,FALSE,Hartford,58,Hawks,Hartford Hawks,Hartford
-270580042,2007-02-27,2,311,away,FALSE,Maine,40,Black Bears,Maine Black Bears,Maine
-270582546,2007-02-27,2,2546,home,FALSE,Southeast Missouri State,58,Redhawks,Southeast Missouri State Redhawks,SE Missouri
-270582546,2007-02-27,2,2046,away,FALSE,Austin Peay,54,Governors,Austin Peay Governors,Austin Peay
-270582535,2007-02-27,2,2535,home,FALSE,Samford,63,Bulldogs,Samford Bulldogs,Samford
-270582535,2007-02-27,2,2635,away,FALSE,Tennessee Tech,60,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
-270580158,2007-02-27,2,158,home,FALSE,Nebraska,90,Cornhuskers,Nebraska Cornhuskers,Nebraska
-270580158,2007-02-27,2,38,away,FALSE,Colorado,70,Buffaloes,Colorado Buffaloes,Colorado
-270580232,2007-02-27,2,232,home,FALSE,Charleston,59,Cougars,Charleston Cougars,Charleston
-270580232,2007-02-27,2,231,away,FALSE,Furman,64,Paladins,Furman Paladins,Furman
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270580338,2007,regular-season,2007-02-27,2,338,home,FALSE,Kennesaw State,80,Owls,Kennesaw State Owls,Kennesaw St
+270580338,2007,regular-season,2007-02-27,2,2344,away,FALSE,Longwood,63,Lancers,Longwood Lancers,Longwood
+270580093,2007,regular-season,2007-02-27,2,93,home,FALSE,Murray State,68,Racers,Murray State Racers,Murray St
+270580093,2007,regular-season,2007-02-27,2,2198,away,FALSE,Eastern Kentucky,66,Colonels,Eastern Kentucky Colonels,E Kentucky
+270582514,2007,regular-season,2007-02-27,2,2514,home,FALSE,Quinnipiac,63,Bobcats,Quinnipiac Bobcats,Quinnipiac
+270582514,2007,regular-season,2007-02-27,2,2529,away,FALSE,Sacred Heart,73,Pioneers,Sacred Heart Pioneers,Sacred Heart
+270582413,2007,regular-season,2007-02-27,2,2413,home,FALSE,Morehead State,57,Eagles,Morehead State Eagles,Morehead St
+270582413,2007,regular-season,2007-02-27,2,2630,away,FALSE,UT Martin,61,Skyhawks,UT Martin Skyhawks,UT Martin
+270582115,2007,regular-season,2007-02-27,2,2115,home,FALSE,Central Connecticut,59,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+270582115,2007,regular-season,2007-02-27,2,2597,away,FALSE,St. Francis Brooklyn,68,Terriers,St. Francis Brooklyn Terriers,St Francis BK
+270582026,2007,regular-season,2007-02-27,2,2026,home,FALSE,App State,64,Mountaineers,App State Mountaineers,App State
+270582026,2007,regular-season,2007-02-27,2,2210,away,FALSE,Elon,50,Phoenix,Elon Phoenix,Elon
+270580161,2007,regular-season,2007-02-27,2,161,home,FALSE,Fairleigh Dickinson,74,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+270580161,2007,regular-season,2007-02-27,2,2405,away,FALSE,Monmouth,59,Hawks,Monmouth Hawks,Monmouth
+270580116,2007,regular-season,2007-02-27,2,116,home,FALSE,Mount St. Mary's,58,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+270580116,2007,regular-season,2007-02-27,2,2523,away,FALSE,Robert Morris,71,Colonials,Robert Morris Colonials,Robert Morris
+270580042,2007,regular-season,2007-02-27,2,42,home,FALSE,Hartford,58,Hawks,Hartford Hawks,Hartford
+270580042,2007,regular-season,2007-02-27,2,311,away,FALSE,Maine,40,Black Bears,Maine Black Bears,Maine
+270582546,2007,regular-season,2007-02-27,2,2546,home,FALSE,Southeast Missouri State,58,Redhawks,Southeast Missouri State Redhawks,SE Missouri
+270582546,2007,regular-season,2007-02-27,2,2046,away,FALSE,Austin Peay,54,Governors,Austin Peay Governors,Austin Peay
+270582535,2007,regular-season,2007-02-27,2,2535,home,FALSE,Samford,63,Bulldogs,Samford Bulldogs,Samford
+270582535,2007,regular-season,2007-02-27,2,2635,away,FALSE,Tennessee Tech,60,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
+270580158,2007,regular-season,2007-02-27,2,158,home,FALSE,Nebraska,90,Cornhuskers,Nebraska Cornhuskers,Nebraska
+270580158,2007,regular-season,2007-02-27,2,38,away,FALSE,Colorado,70,Buffaloes,Colorado Buffaloes,Colorado
+270580232,2007,regular-season,2007-02-27,2,232,home,FALSE,Charleston,59,Cougars,Charleston Cougars,Charleston
+270580232,2007,regular-season,2007-02-27,2,231,away,FALSE,Furman,64,Paladins,Furman Paladins,Furman

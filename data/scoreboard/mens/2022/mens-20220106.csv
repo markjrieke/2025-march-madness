@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401402090,2022-01-06,2,26,home,FALSE,UCLA,96,Bruins,UCLA Bruins,UCLA
-401402090,2022-01-06,2,299,away,FALSE,Long Beach State,78,Beach,Long Beach State Beach,Long Beach St
-401377400,2022-01-06,2,25,home,FALSE,California,63,Golden Bears,California Golden Bears,California
-401377400,2022-01-06,2,30,away,FALSE,USC,77,Trojans,USC Trojans,USC
-401364366,2022-01-06,2,84,home,FALSE,Indiana,67,Hoosiers,Indiana Hoosiers,Indiana
-401364366,2022-01-06,2,194,away,FALSE,Ohio State,51,Buckeyes,Ohio State Buckeyes,Ohio State
-401364364,2022-01-06,2,275,home,FALSE,Wisconsin,87,Badgers,Wisconsin Badgers,Wisconsin
-401364364,2022-01-06,2,2294,away,FALSE,Iowa,78,Hawkeyes,Iowa Hawkeyes,Iowa
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401402090,2022,regular-season,2022-01-06,2,26,home,FALSE,UCLA,96,Bruins,UCLA Bruins,UCLA
+401402090,2022,regular-season,2022-01-06,2,299,away,FALSE,Long Beach State,78,Beach,Long Beach State Beach,Long Beach St
+401377400,2022,regular-season,2022-01-06,2,25,home,FALSE,California,63,Golden Bears,California Golden Bears,California
+401377400,2022,regular-season,2022-01-06,2,30,away,FALSE,USC,77,Trojans,USC Trojans,USC
+401364366,2022,regular-season,2022-01-06,2,84,home,FALSE,Indiana,67,Hoosiers,Indiana Hoosiers,Indiana
+401364366,2022,regular-season,2022-01-06,2,194,away,FALSE,Ohio State,51,Buckeyes,Ohio State Buckeyes,Ohio State
+401364364,2022,regular-season,2022-01-06,2,275,home,FALSE,Wisconsin,87,Badgers,Wisconsin Badgers,Wisconsin
+401364364,2022,regular-season,2022-01-06,2,2294,away,FALSE,Iowa,78,Hawkeyes,Iowa Hawkeyes,Iowa

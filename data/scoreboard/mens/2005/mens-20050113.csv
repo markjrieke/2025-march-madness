@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250130152,2005-01-13,2,152,home,FALSE,NC State,74,Wolfpack,NC State Wolfpack,NC State
-250130152,2005-01-13,2,150,away,FALSE,Duke,86,Blue Devils,Duke Blue Devils,Duke
-250130264,2005-01-13,2,264,home,FALSE,Washington,77,Huskies,Washington Huskies,Washington
-250130264,2005-01-13,2,2483,away,FALSE,Oregon,56,Ducks,Oregon Ducks,Oregon
-250132250,2005-01-13,2,2250,home,FALSE,Gonzaga,76,Bulldogs,Gonzaga Bulldogs,Gonzaga
-250132250,2005-01-13,2,2351,away,FALSE,Loyola Marymount,65,Lions,Loyola Marymount Lions,LMU
-250130012,2005-01-13,2,12,home,FALSE,Arizona,77,Wildcats,Arizona Wildcats,Arizona
-250130012,2005-01-13,2,30,away,FALSE,USC,68,Trojans,USC Trojans,USC
-250130235,2005-01-13,2,235,home,FALSE,Memphis,78,Tigers,Memphis Tigers,Memphis
-250130235,2005-01-13,2,269,away,FALSE,Marquette,68,Golden Eagles,Marquette Golden Eagles,Marquette
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250130152,2005,regular-season,2005-01-13,2,152,home,FALSE,NC State,74,Wolfpack,NC State Wolfpack,NC State
+250130152,2005,regular-season,2005-01-13,2,150,away,FALSE,Duke,86,Blue Devils,Duke Blue Devils,Duke
+250130264,2005,regular-season,2005-01-13,2,264,home,FALSE,Washington,77,Huskies,Washington Huskies,Washington
+250130264,2005,regular-season,2005-01-13,2,2483,away,FALSE,Oregon,56,Ducks,Oregon Ducks,Oregon
+250132250,2005,regular-season,2005-01-13,2,2250,home,FALSE,Gonzaga,76,Bulldogs,Gonzaga Bulldogs,Gonzaga
+250132250,2005,regular-season,2005-01-13,2,2351,away,FALSE,Loyola Marymount,65,Lions,Loyola Marymount Lions,LMU
+250130012,2005,regular-season,2005-01-13,2,12,home,FALSE,Arizona,77,Wildcats,Arizona Wildcats,Arizona
+250130012,2005,regular-season,2005-01-13,2,30,away,FALSE,USC,68,Trojans,USC Trojans,USC
+250130235,2005,regular-season,2005-01-13,2,235,home,FALSE,Memphis,78,Tigers,Memphis Tigers,Memphis
+250130235,2005,regular-season,2005-01-13,2,269,away,FALSE,Marquette,68,Golden Eagles,Marquette Golden Eagles,Marquette

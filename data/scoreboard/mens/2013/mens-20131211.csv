@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400499817,2013-12-11,2,12,home,FALSE,Arizona,74,Wildcats,Arizona Wildcats,Arizona
-400499817,2013-12-11,2,166,away,FALSE,New Mexico State,48,Aggies,New Mexico State Aggies,New Mexico St
-400507093,2013-12-11,2,275,home,FALSE,Wisconsin,78,Badgers,Wisconsin Badgers,Wisconsin
-400507093,2013-12-11,2,270,away,FALSE,Milwaukee,52,Panthers,Milwaukee Panthers,Milwaukee
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400499817,2014,regular-season,2013-12-11,2,12,home,FALSE,Arizona,74,Wildcats,Arizona Wildcats,Arizona
+400499817,2014,regular-season,2013-12-11,2,166,away,FALSE,New Mexico State,48,Aggies,New Mexico State Aggies,New Mexico St
+400507093,2014,regular-season,2013-12-11,2,275,home,FALSE,Wisconsin,78,Badgers,Wisconsin Badgers,Wisconsin
+400507093,2014,regular-season,2013-12-11,2,270,away,FALSE,Milwaukee,52,Panthers,Milwaukee Panthers,Milwaukee

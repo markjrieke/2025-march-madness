@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243342305,2004-11-29,2,2305,home,FALSE,Kansas,85,Jayhawks,Kansas Jayhawks,Kansas
-243342305,2004-11-29,2,2440,away,FALSE,Nevada,52,Wolf Pack,Nevada Wolf Pack,Nevada
-243342567,2004-11-29,2,2567,home,FALSE,SMU,57,Mustangs,SMU Mustangs,SMU
-243342567,2004-11-29,2,197,away,FALSE,Oklahoma State,76,Cowboys,Oklahoma State Cowboys,Oklahoma St
-243340152,2004-11-29,2,152,home,FALSE,NC State,60,Wolfpack,NC State Wolfpack,NC State
-243340152,2004-11-29,2,2509,away,FALSE,Purdue,53,Boilermakers,Purdue Boilermakers,Purdue
-243340251,2004-11-29,2,251,home,FALSE,Texas,86,Longhorns,Texas Longhorns,Texas
-243340251,2004-11-29,2,2154,away,FALSE,Coppin State,50,Eagles,Coppin State Eagles,Coppin St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243342305,2005,regular-season,2004-11-29,2,2305,home,FALSE,Kansas,85,Jayhawks,Kansas Jayhawks,Kansas
+243342305,2005,regular-season,2004-11-29,2,2440,away,FALSE,Nevada,52,Wolf Pack,Nevada Wolf Pack,Nevada
+243342567,2005,regular-season,2004-11-29,2,2567,home,FALSE,SMU,57,Mustangs,SMU Mustangs,SMU
+243342567,2005,regular-season,2004-11-29,2,197,away,FALSE,Oklahoma State,76,Cowboys,Oklahoma State Cowboys,Oklahoma St
+243340152,2005,regular-season,2004-11-29,2,152,home,FALSE,NC State,60,Wolfpack,NC State Wolfpack,NC State
+243340152,2005,regular-season,2004-11-29,2,2509,away,FALSE,Purdue,53,Boilermakers,Purdue Boilermakers,Purdue
+243340251,2005,regular-season,2004-11-29,2,251,home,FALSE,Texas,86,Longhorns,Texas Longhorns,Texas
+243340251,2005,regular-season,2004-11-29,2,2154,away,FALSE,Coppin State,50,Eagles,Coppin State Eagles,Coppin St

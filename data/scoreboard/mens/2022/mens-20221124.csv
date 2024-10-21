@@ -1,45 +1,45 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401486728,2022-11-24,2,2561,home,TRUE,Siena,80,Saints,Siena Saints,Siena
-401486728,2022-11-24,2,52,away,TRUE,Florida State,63,Seminoles,Florida State Seminoles,Florida St
-401486720,2022-11-24,3,2305,home,TRUE,Kansas,69,Jayhawks,Kansas Jayhawks,Kansas
-401486720,2022-11-24,3,275,away,TRUE,Wisconsin,68,Badgers,Wisconsin Badgers,Wisconsin
-401487581,2022-11-24,3,111,home,TRUE,Northeastern,69,Huskies,Northeastern Huskies,Northeastern
-401487581,2022-11-24,3,2363,away,TRUE,Manhattan,67,Jaspers,Manhattan Jaspers,Manhattan
-401482951,2022-11-24,2,2501,home,TRUE,Portland,81,Pilots,Portland Pilots,Portland
-401482951,2022-11-24,2,153,away,TRUE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
-401483210,2022-11-24,2,24,home,TRUE,Stanford,68,Cardinal,Stanford Cardinal,Stanford
-401483210,2022-11-24,2,145,away,TRUE,Ole Miss,72,Rebels,Ole Miss Rebels,Ole Miss
-401486719,2022-11-24,3,30,home,TRUE,USC,66,Trojans,USC Trojans,USC
-401486719,2022-11-24,3,2633,away,TRUE,Tennessee,73,Volunteers,Tennessee Volunteers,Tennessee
-401487582,2022-11-24,2,349,home,TRUE,Army,66,Black Knights,Army Black Knights,Army
-401487582,2022-11-24,2,163,away,TRUE,Princeton,74,Tigers,Princeton Tigers,Princeton
-401488636,2022-11-24,2,2443,home,FALSE,New Orleans,87,Privateers,New Orleans Privateers,New Orleans
-401488636,2022-11-24,2,85,away,FALSE,IU Indianapolis,84,Jaguars,IU Indianapolis Jaguars,IU Indy
-401482911,2022-11-24,2,204,home,TRUE,Oregon State,51,Beavers,Oregon State Beavers,Oregon St
-401482911,2022-11-24,2,150,away,TRUE,Duke,54,Blue Devils,Duke Blue Devils,Duke
-401483269,2022-11-24,3,222,home,TRUE,Villanova,79,Wildcats,Villanova Wildcats,Villanova
-401483269,2022-11-24,3,66,away,TRUE,Iowa State,81,Cyclones,Iowa State Cyclones,Iowa State
-401486718,2022-11-24,2,152,home,TRUE,NC State,76,Wolfpack,NC State Wolfpack,NC State
-401486718,2022-11-24,2,2168,away,TRUE,Dayton,64,Flyers,Dayton Flyers,Dayton
-401483294,2022-11-24,2,158,home,TRUE,Nebraska,56,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401483294,2022-11-24,2,201,away,TRUE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma
-401483033,2022-11-24,2,2752,home,TRUE,Xavier,90,Musketeers,Xavier Musketeers,Xavier
-401483033,2022-11-24,2,57,away,TRUE,Florida,83,Gators,Florida Gators,Florida
-401488639,2022-11-24,2,2172,home,TRUE,Denver,74,Pioneers,Denver Pioneers,Denver
-401488639,2022-11-24,2,2643,away,TRUE,The Citadel,71,Bulldogs,The Citadel Bulldogs,The Citadel
-401486717,2022-11-24,2,252,home,TRUE,BYU,70,Cougars,BYU Cougars,BYU
-401486717,2022-11-24,2,2086,away,TRUE,Butler,75,Bulldogs,Butler Bulldogs,Butler
-401485154,2022-11-24,2,2550,home,TRUE,Seton Hall,70,Pirates,Seton Hall Pirates,Seton Hall
-401485154,2022-11-24,2,235,away,TRUE,Memphis,69,Tigers,Memphis Tigers,Memphis
-401484355,2022-11-24,2,2483,home,TRUE,Oregon,59,Ducks,Oregon Ducks,Oregon
-401484355,2022-11-24,2,41,away,TRUE,UConn,83,Huskies,UConn Huskies,UConn
-401486726,2022-11-24,2,238,home,TRUE,Vanderbilt,67,Commodores,Vanderbilt Commodores,Vanderbilt
-401486726,2022-11-24,2,278,away,TRUE,Fresno State,59,Bulldogs,Fresno State Bulldogs,Fresno St
-401483331,2022-11-24,2,277,home,TRUE,West Virginia,68,Mountaineers,West Virginia Mountaineers,West Virginia
-401483331,2022-11-24,2,2509,away,TRUE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
-401484356,2022-11-24,2,127,home,TRUE,Michigan State,70,Spartans,Michigan State Spartans,Michigan St
-401484356,2022-11-24,2,333,away,TRUE,Alabama,81,Crimson Tide,Alabama Crimson Tide,Alabama
-401486727,2022-11-24,3,2608,home,TRUE,Saint Mary's,64,Gaels,Saint Mary's Gaels,Saint Mary's
-401486727,2022-11-24,3,264,away,TRUE,Washington,68,Huskies,Washington Huskies,Washington
-401484367,2022-11-24,2,2250,home,TRUE,Gonzaga,102,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401484367,2022-11-24,2,2502,away,TRUE,Portland State,78,Vikings,Portland State Vikings,Portland St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401486728,2023,regular-season,2022-11-24,2,2561,home,TRUE,Siena,80,Saints,Siena Saints,Siena
+401486728,2023,regular-season,2022-11-24,2,52,away,TRUE,Florida State,63,Seminoles,Florida State Seminoles,Florida St
+401486720,2023,regular-season,2022-11-24,3,2305,home,TRUE,Kansas,69,Jayhawks,Kansas Jayhawks,Kansas
+401486720,2023,regular-season,2022-11-24,3,275,away,TRUE,Wisconsin,68,Badgers,Wisconsin Badgers,Wisconsin
+401487581,2023,regular-season,2022-11-24,3,111,home,TRUE,Northeastern,69,Huskies,Northeastern Huskies,Northeastern
+401487581,2023,regular-season,2022-11-24,3,2363,away,TRUE,Manhattan,67,Jaspers,Manhattan Jaspers,Manhattan
+401482951,2023,regular-season,2022-11-24,2,2501,home,TRUE,Portland,81,Pilots,Portland Pilots,Portland
+401482951,2023,regular-season,2022-11-24,2,153,away,TRUE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
+401483210,2023,regular-season,2022-11-24,2,24,home,TRUE,Stanford,68,Cardinal,Stanford Cardinal,Stanford
+401483210,2023,regular-season,2022-11-24,2,145,away,TRUE,Ole Miss,72,Rebels,Ole Miss Rebels,Ole Miss
+401486719,2023,regular-season,2022-11-24,3,30,home,TRUE,USC,66,Trojans,USC Trojans,USC
+401486719,2023,regular-season,2022-11-24,3,2633,away,TRUE,Tennessee,73,Volunteers,Tennessee Volunteers,Tennessee
+401487582,2023,regular-season,2022-11-24,2,349,home,TRUE,Army,66,Black Knights,Army Black Knights,Army
+401487582,2023,regular-season,2022-11-24,2,163,away,TRUE,Princeton,74,Tigers,Princeton Tigers,Princeton
+401488636,2023,regular-season,2022-11-24,2,2443,home,FALSE,New Orleans,87,Privateers,New Orleans Privateers,New Orleans
+401488636,2023,regular-season,2022-11-24,2,85,away,FALSE,IU Indianapolis,84,Jaguars,IU Indianapolis Jaguars,IU Indy
+401482911,2023,regular-season,2022-11-24,2,204,home,TRUE,Oregon State,51,Beavers,Oregon State Beavers,Oregon St
+401482911,2023,regular-season,2022-11-24,2,150,away,TRUE,Duke,54,Blue Devils,Duke Blue Devils,Duke
+401483269,2023,regular-season,2022-11-24,3,222,home,TRUE,Villanova,79,Wildcats,Villanova Wildcats,Villanova
+401483269,2023,regular-season,2022-11-24,3,66,away,TRUE,Iowa State,81,Cyclones,Iowa State Cyclones,Iowa State
+401486718,2023,regular-season,2022-11-24,2,152,home,TRUE,NC State,76,Wolfpack,NC State Wolfpack,NC State
+401486718,2023,regular-season,2022-11-24,2,2168,away,TRUE,Dayton,64,Flyers,Dayton Flyers,Dayton
+401483294,2023,regular-season,2022-11-24,2,158,home,TRUE,Nebraska,56,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401483294,2023,regular-season,2022-11-24,2,201,away,TRUE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma
+401483033,2023,regular-season,2022-11-24,2,2752,home,TRUE,Xavier,90,Musketeers,Xavier Musketeers,Xavier
+401483033,2023,regular-season,2022-11-24,2,57,away,TRUE,Florida,83,Gators,Florida Gators,Florida
+401488639,2023,regular-season,2022-11-24,2,2172,home,TRUE,Denver,74,Pioneers,Denver Pioneers,Denver
+401488639,2023,regular-season,2022-11-24,2,2643,away,TRUE,The Citadel,71,Bulldogs,The Citadel Bulldogs,The Citadel
+401486717,2023,regular-season,2022-11-24,2,252,home,TRUE,BYU,70,Cougars,BYU Cougars,BYU
+401486717,2023,regular-season,2022-11-24,2,2086,away,TRUE,Butler,75,Bulldogs,Butler Bulldogs,Butler
+401485154,2023,regular-season,2022-11-24,2,2550,home,TRUE,Seton Hall,70,Pirates,Seton Hall Pirates,Seton Hall
+401485154,2023,regular-season,2022-11-24,2,235,away,TRUE,Memphis,69,Tigers,Memphis Tigers,Memphis
+401484355,2023,regular-season,2022-11-24,2,2483,home,TRUE,Oregon,59,Ducks,Oregon Ducks,Oregon
+401484355,2023,regular-season,2022-11-24,2,41,away,TRUE,UConn,83,Huskies,UConn Huskies,UConn
+401486726,2023,regular-season,2022-11-24,2,238,home,TRUE,Vanderbilt,67,Commodores,Vanderbilt Commodores,Vanderbilt
+401486726,2023,regular-season,2022-11-24,2,278,away,TRUE,Fresno State,59,Bulldogs,Fresno State Bulldogs,Fresno St
+401483331,2023,regular-season,2022-11-24,2,277,home,TRUE,West Virginia,68,Mountaineers,West Virginia Mountaineers,West Virginia
+401483331,2023,regular-season,2022-11-24,2,2509,away,TRUE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
+401484356,2023,regular-season,2022-11-24,2,127,home,TRUE,Michigan State,70,Spartans,Michigan State Spartans,Michigan St
+401484356,2023,regular-season,2022-11-24,2,333,away,TRUE,Alabama,81,Crimson Tide,Alabama Crimson Tide,Alabama
+401486727,2023,regular-season,2022-11-24,3,2608,home,TRUE,Saint Mary's,64,Gaels,Saint Mary's Gaels,Saint Mary's
+401486727,2023,regular-season,2022-11-24,3,264,away,TRUE,Washington,68,Huskies,Washington Huskies,Washington
+401484367,2023,regular-season,2022-11-24,2,2250,home,TRUE,Gonzaga,102,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401484367,2023,regular-season,2022-11-24,2,2502,away,TRUE,Portland State,78,Vikings,Portland State Vikings,Portland St

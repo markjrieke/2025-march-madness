@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401528023,2023-03-26,4,99,home,TRUE,LSU,54,Tigers,LSU Tigers,LSU
-401528023,2023-03-26,4,2390,away,TRUE,Miami,42,Hurricanes,Miami Hurricanes,Miami
-401528022,2023-03-26,4,2294,home,TRUE,Iowa,97,Hawkeyes,Iowa Hawkeyes,Iowa
-401528022,2023-03-26,4,97,away,TRUE,Louisville,83,Cardinals,Louisville Cardinals,Louisville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401528023,2023,post-season,2023-03-26,4,99,home,TRUE,LSU,54,Tigers,LSU Tigers,LSU
+401528023,2023,post-season,2023-03-26,4,2390,away,TRUE,Miami,42,Hurricanes,Miami Hurricanes,Miami
+401528022,2023,post-season,2023-03-26,4,2294,home,TRUE,Iowa,97,Hawkeyes,Iowa Hawkeyes,Iowa
+401528022,2023,post-season,2023-03-26,4,97,away,TRUE,Louisville,83,Cardinals,Louisville Cardinals,Louisville

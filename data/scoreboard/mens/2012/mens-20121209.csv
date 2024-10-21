@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323440156,2012-12-09,2,156,home,FALSE,Creighton,77,Bluejays,Creighton Bluejays,Creighton
-323440156,2012-12-09,2,2006,away,FALSE,Akron,61,Zips,Akron Zips,Akron
-323440025,2012-12-09,2,25,home,FALSE,California,75,Golden Bears,California Golden Bears,California
-323440025,2012-12-09,2,2439,away,FALSE,UNLV,76,Rebels,UNLV Rebels,UNLV
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323440156,2013,regular-season,2012-12-09,2,156,home,FALSE,Creighton,77,Bluejays,Creighton Bluejays,Creighton
+323440156,2013,regular-season,2012-12-09,2,2006,away,FALSE,Akron,61,Zips,Akron Zips,Akron
+323440025,2013,regular-season,2012-12-09,2,25,home,FALSE,California,75,Golden Bears,California Golden Bears,California
+323440025,2013,regular-season,2012-12-09,2,2439,away,FALSE,UNLV,76,Rebels,UNLV Rebels,UNLV

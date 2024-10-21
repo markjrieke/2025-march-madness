@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-234000030,2003-04-01,2,41,home,FALSE,UConn,73,Huskies,UConn Huskies,UConn
-234000030,2003-04-01,2,2509,away,FALSE,Purdue,64,Boilermakers,Purdue Boilermakers,Purdue
-234000046,2003-04-01,2,99,home,FALSE,LSU,60,Tigers,LSU Tigers,LSU
-234000046,2003-04-01,2,251,away,FALSE,Texas,78,Longhorns,Texas Longhorns,Texas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+234000030,2003,post-season,2003-04-01,2,41,home,FALSE,UConn,73,Huskies,UConn Huskies,UConn
+234000030,2003,post-season,2003-04-01,2,2509,away,FALSE,Purdue,64,Boilermakers,Purdue Boilermakers,Purdue
+234000046,2003,post-season,2003-04-01,2,99,home,FALSE,LSU,60,Tigers,LSU Tigers,LSU
+234000046,2003,post-season,2003-04-01,2,251,away,FALSE,Texas,78,Longhorns,Texas Longhorns,Texas

@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230052306,2003-01-05,2,2306,home,FALSE,Kansas State,103,Wildcats,Kansas State Wildcats,Kansas St
-230052306,2003-01-05,2,2294,away,FALSE,Iowa,60,Hawkeyes,Iowa Hawkeyes,Iowa
-230050024,2003-01-05,2,24,home,FALSE,Stanford,91,Cardinal,Stanford Cardinal,Stanford
-230050024,2003-01-05,2,2492,away,FALSE,Pepperdine,58,Waves,Pepperdine Waves,Pepperdine
-230052641,2003-01-05,2,2641,home,FALSE,Texas Tech,76,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-230052641,2003-01-05,2,279,away,FALSE,Pacific,45,Tigers,Pacific Tigers,Pacific
-230050008,2003-01-05,2,8,home,FALSE,Arkansas,85,Razorbacks,Arkansas Razorbacks,Arkansas
-230050008,2003-01-05,2,147,away,FALSE,Montana State,37,Bobcats,Montana State Bobcats,Montana St
-230050153,2003-01-05,2,153,home,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
-230050153,2003-01-05,2,152,away,FALSE,NC State,59,Wolfpack,NC State Wolfpack,NC State
-230050194,2003-01-05,2,194,home,FALSE,Ohio State,70,Buckeyes,Ohio State Buckeyes,Ohio State
-230050194,2003-01-05,2,251,away,FALSE,Texas,66,Longhorns,Texas Longhorns,Texas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230052306,2003,regular-season,2003-01-05,2,2306,home,FALSE,Kansas State,103,Wildcats,Kansas State Wildcats,Kansas St
+230052306,2003,regular-season,2003-01-05,2,2294,away,FALSE,Iowa,60,Hawkeyes,Iowa Hawkeyes,Iowa
+230050024,2003,regular-season,2003-01-05,2,24,home,FALSE,Stanford,91,Cardinal,Stanford Cardinal,Stanford
+230050024,2003,regular-season,2003-01-05,2,2492,away,FALSE,Pepperdine,58,Waves,Pepperdine Waves,Pepperdine
+230052641,2003,regular-season,2003-01-05,2,2641,home,FALSE,Texas Tech,76,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+230052641,2003,regular-season,2003-01-05,2,279,away,FALSE,Pacific,45,Tigers,Pacific Tigers,Pacific
+230050008,2003,regular-season,2003-01-05,2,8,home,FALSE,Arkansas,85,Razorbacks,Arkansas Razorbacks,Arkansas
+230050008,2003,regular-season,2003-01-05,2,147,away,FALSE,Montana State,37,Bobcats,Montana State Bobcats,Montana St
+230050153,2003,regular-season,2003-01-05,2,153,home,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
+230050153,2003,regular-season,2003-01-05,2,152,away,FALSE,NC State,59,Wolfpack,NC State Wolfpack,NC State
+230050194,2003,regular-season,2003-01-05,2,194,home,FALSE,Ohio State,70,Buckeyes,Ohio State Buckeyes,Ohio State
+230050194,2003,regular-season,2003-01-05,2,251,away,FALSE,Texas,66,Longhorns,Texas Longhorns,Texas

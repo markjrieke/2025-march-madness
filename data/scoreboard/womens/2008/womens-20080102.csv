@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280020305,2008-01-02,2,305,home,FALSE,DePaul,68,Blue Demons,DePaul Blue Demons,DePaul
-280020305,2008-01-02,2,2633,away,FALSE,Tennessee,102,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-280020164,2008-01-02,2,164,home,FALSE,Rutgers,55,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-280020164,2008-01-02,2,2492,away,FALSE,Pepperdine,45,Waves,Pepperdine Waves,Pepperdine
-280020061,2008-01-02,2,61,home,FALSE,Georgia,93,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-280020061,2008-01-02,2,2506,away,FALSE,Presbyterian,49,Blue Hose,Presbyterian Blue Hose,Presbyterian
-280020239,2008-01-02,2,239,home,FALSE,Baylor,89,Bears,Baylor Bears,Baylor
-280020239,2008-01-02,2,2448,away,FALSE,North Carolina A&T,48,Aggies,North Carolina A&T Aggies,NC A&T
-280020257,2008-01-02,2,257,home,FALSE,Richmond,59,Spiders,Richmond Spiders,Richmond
-280020257,2008-01-02,2,87,away,FALSE,Notre Dame,84,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280020305,2008,regular-season,2008-01-02,2,305,home,FALSE,DePaul,68,Blue Demons,DePaul Blue Demons,DePaul
+280020305,2008,regular-season,2008-01-02,2,2633,away,FALSE,Tennessee,102,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+280020164,2008,regular-season,2008-01-02,2,164,home,FALSE,Rutgers,55,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+280020164,2008,regular-season,2008-01-02,2,2492,away,FALSE,Pepperdine,45,Waves,Pepperdine Waves,Pepperdine
+280020061,2008,regular-season,2008-01-02,2,61,home,FALSE,Georgia,93,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+280020061,2008,regular-season,2008-01-02,2,2506,away,FALSE,Presbyterian,49,Blue Hose,Presbyterian Blue Hose,Presbyterian
+280020239,2008,regular-season,2008-01-02,2,239,home,FALSE,Baylor,89,Bears,Baylor Bears,Baylor
+280020239,2008,regular-season,2008-01-02,2,2448,away,FALSE,North Carolina A&T,48,Aggies,North Carolina A&T Aggies,NC A&T
+280020257,2008,regular-season,2008-01-02,2,257,home,FALSE,Richmond,59,Spiders,Richmond Spiders,Richmond
+280020257,2008,regular-season,2008-01-02,2,87,away,FALSE,Notre Dame,84,Fighting Irish,Notre Dame Fighting Irish,Notre Dame

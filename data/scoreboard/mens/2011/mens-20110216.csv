@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310470251,2011-02-16,2,251,home,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
-310470251,2011-02-16,2,197,away,FALSE,Oklahoma State,55,Cowboys,Oklahoma State Cowboys,Oklahoma St
-310470221,2011-02-16,2,221,home,FALSE,Pittsburgh,67,Panthers,Pittsburgh Panthers,Pitt
-310470221,2011-02-16,2,58,away,FALSE,South Florida,55,Bulls,South Florida Bulls,South Florida
-310470258,2011-02-16,2,258,home,FALSE,Virginia,41,Cavaliers,Virginia Cavaliers,Virginia
-310470258,2011-02-16,2,150,away,FALSE,Duke,56,Blue Devils,Duke Blue Devils,Duke
-310470021,2011-02-16,2,21,home,FALSE,San Diego State,68,Aztecs,San Diego State Aztecs,San Diego St
-310470021,2011-02-16,2,167,away,FALSE,New Mexico,62,Lobos,New Mexico Lobos,New Mexico
-310470041,2011-02-16,2,41,home,FALSE,UConn,78,Huskies,UConn Huskies,UConn
-310470041,2011-02-16,2,46,away,FALSE,Georgetown,70,Hoyas,Georgetown Hoyas,Georgetown
-310472509,2011-02-16,2,2509,home,FALSE,Purdue,70,Boilermakers,Purdue Boilermakers,Purdue
-310472509,2011-02-16,2,275,away,FALSE,Wisconsin,62,Badgers,Wisconsin Badgers,Wisconsin
-310472132,2011-02-16,2,2132,home,FALSE,Cincinnati,63,Bearcats,Cincinnati Bearcats,Cincinnati
-310472132,2011-02-16,2,97,away,FALSE,Louisville,54,Cardinals,Louisville Cardinals,Louisville
-310470061,2011-02-16,2,61,home,FALSE,Georgia,56,Bulldogs,Georgia Bulldogs,Georgia
-310470061,2011-02-16,2,238,away,FALSE,Vanderbilt,64,Commodores,Vanderbilt Commodores,Vanderbilt
-310470245,2011-02-16,2,245,home,FALSE,Texas A&M,71,Aggies,Texas A&M Aggies,Texas A&M
-310470245,2011-02-16,2,66,away,FALSE,Iowa State,66,Cyclones,Iowa State Cyclones,Iowa State
-310472603,2011-02-16,2,2603,home,FALSE,Saint Joseph's,54,Hawks,Saint Joseph's Hawks,Saint Joseph's
-310472603,2011-02-16,2,2752,away,FALSE,Xavier,74,Musketeers,Xavier Musketeers,Xavier
-310470328,2011-02-16,2,328,home,FALSE,Utah State,100,Aggies,Utah State Aggies,Utah State
-310470328,2011-02-16,2,2701,away,FALSE,Montana-Western,66,Bulldogs,Montana-Western Bulldogs,W Montana
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310470251,2011,regular-season,2011-02-16,2,251,home,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
+310470251,2011,regular-season,2011-02-16,2,197,away,FALSE,Oklahoma State,55,Cowboys,Oklahoma State Cowboys,Oklahoma St
+310470221,2011,regular-season,2011-02-16,2,221,home,FALSE,Pittsburgh,67,Panthers,Pittsburgh Panthers,Pitt
+310470221,2011,regular-season,2011-02-16,2,58,away,FALSE,South Florida,55,Bulls,South Florida Bulls,South Florida
+310470258,2011,regular-season,2011-02-16,2,258,home,FALSE,Virginia,41,Cavaliers,Virginia Cavaliers,Virginia
+310470258,2011,regular-season,2011-02-16,2,150,away,FALSE,Duke,56,Blue Devils,Duke Blue Devils,Duke
+310470021,2011,regular-season,2011-02-16,2,21,home,FALSE,San Diego State,68,Aztecs,San Diego State Aztecs,San Diego St
+310470021,2011,regular-season,2011-02-16,2,167,away,FALSE,New Mexico,62,Lobos,New Mexico Lobos,New Mexico
+310470041,2011,regular-season,2011-02-16,2,41,home,FALSE,UConn,78,Huskies,UConn Huskies,UConn
+310470041,2011,regular-season,2011-02-16,2,46,away,FALSE,Georgetown,70,Hoyas,Georgetown Hoyas,Georgetown
+310472509,2011,regular-season,2011-02-16,2,2509,home,FALSE,Purdue,70,Boilermakers,Purdue Boilermakers,Purdue
+310472509,2011,regular-season,2011-02-16,2,275,away,FALSE,Wisconsin,62,Badgers,Wisconsin Badgers,Wisconsin
+310472132,2011,regular-season,2011-02-16,2,2132,home,FALSE,Cincinnati,63,Bearcats,Cincinnati Bearcats,Cincinnati
+310472132,2011,regular-season,2011-02-16,2,97,away,FALSE,Louisville,54,Cardinals,Louisville Cardinals,Louisville
+310470061,2011,regular-season,2011-02-16,2,61,home,FALSE,Georgia,56,Bulldogs,Georgia Bulldogs,Georgia
+310470061,2011,regular-season,2011-02-16,2,238,away,FALSE,Vanderbilt,64,Commodores,Vanderbilt Commodores,Vanderbilt
+310470245,2011,regular-season,2011-02-16,2,245,home,FALSE,Texas A&M,71,Aggies,Texas A&M Aggies,Texas A&M
+310470245,2011,regular-season,2011-02-16,2,66,away,FALSE,Iowa State,66,Cyclones,Iowa State Cyclones,Iowa State
+310472603,2011,regular-season,2011-02-16,2,2603,home,FALSE,Saint Joseph's,54,Hawks,Saint Joseph's Hawks,Saint Joseph's
+310472603,2011,regular-season,2011-02-16,2,2752,away,FALSE,Xavier,74,Musketeers,Xavier Musketeers,Xavier
+310470328,2011,regular-season,2011-02-16,2,328,home,FALSE,Utah State,100,Aggies,Utah State Aggies,Utah State
+310470328,2011,regular-season,2011-02-16,2,2701,away,FALSE,Montana-Western,66,Bulldogs,Montana-Western Bulldogs,W Montana

@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401175131,2019-12-12,2,2750,home,FALSE,Wright State,85,Raiders,Wright State Raiders,Wright St
-401175131,2019-12-12,2,2582,away,FALSE,Southern,62,Jaguars,Southern Jaguars,Southern
-401172940,2019-12-12,2,2000,home,FALSE,Abilene Christian,105,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
-401172940,2019-12-12,2,2758,away,FALSE,Howard Payne,36,Yellow Jackets,Howard Payne Yellow Jackets,Hwrd Payne
-401169652,2019-12-12,2,277,home,FALSE,West Virginia,84,Mountaineers,West Virginia Mountaineers,West Virginia
-401169652,2019-12-12,2,2046,away,FALSE,Austin Peay,53,Governors,Austin Peay Governors,Austin Peay
-401169653,2019-12-12,2,66,home,FALSE,Iowa State,68,Cyclones,Iowa State Cyclones,Iowa State
-401169653,2019-12-12,2,2294,away,FALSE,Iowa,84,Hawkeyes,Iowa Hawkeyes,Iowa
-401173623,2019-12-12,2,2253,home,FALSE,Grand Canyon,58,Lopes,Grand Canyon Lopes,Grand Canyon
-401173623,2019-12-12,2,2460,away,FALSE,Northern Iowa,82,Panthers,Northern Iowa Panthers,Northern Iowa
-401166481,2019-12-12,2,2502,home,FALSE,Portland State,101,Vikings,Portland State Vikings,Portland St
-401166481,2019-12-12,2,3217,away,FALSE,Portland Bible,48,Arrows,Portland Bible Arrows,Portland Bible
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401175131,2020,regular-season,2019-12-12,2,2750,home,FALSE,Wright State,85,Raiders,Wright State Raiders,Wright St
+401175131,2020,regular-season,2019-12-12,2,2582,away,FALSE,Southern,62,Jaguars,Southern Jaguars,Southern
+401172940,2020,regular-season,2019-12-12,2,2000,home,FALSE,Abilene Christian,105,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
+401172940,2020,regular-season,2019-12-12,2,2758,away,FALSE,Howard Payne,36,Yellow Jackets,Howard Payne Yellow Jackets,Hwrd Payne
+401169652,2020,regular-season,2019-12-12,2,277,home,FALSE,West Virginia,84,Mountaineers,West Virginia Mountaineers,West Virginia
+401169652,2020,regular-season,2019-12-12,2,2046,away,FALSE,Austin Peay,53,Governors,Austin Peay Governors,Austin Peay
+401169653,2020,regular-season,2019-12-12,2,66,home,FALSE,Iowa State,68,Cyclones,Iowa State Cyclones,Iowa State
+401169653,2020,regular-season,2019-12-12,2,2294,away,FALSE,Iowa,84,Hawkeyes,Iowa Hawkeyes,Iowa
+401173623,2020,regular-season,2019-12-12,2,2253,home,FALSE,Grand Canyon,58,Lopes,Grand Canyon Lopes,Grand Canyon
+401173623,2020,regular-season,2019-12-12,2,2460,away,FALSE,Northern Iowa,82,Panthers,Northern Iowa Panthers,Northern Iowa
+401166481,2020,regular-season,2019-12-12,2,2502,home,FALSE,Portland State,101,Vikings,Portland State Vikings,Portland St
+401166481,2020,regular-season,2019-12-12,2,3217,away,FALSE,Portland Bible,48,Arrows,Portland Bible Arrows,Portland Bible

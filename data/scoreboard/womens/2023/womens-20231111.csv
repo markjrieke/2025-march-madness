@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401598987,2023-11-11,4,269,home,FALSE,Marquette,71,Golden Eagles,Marquette Golden Eagles,Marquette
-401598987,2023-11-11,4,356,away,FALSE,Illinois,67,Fighting Illini,Illinois Fighting Illini,Illinois
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401598987,2024,regular-season,2023-11-11,4,269,home,FALSE,Marquette,71,Golden Eagles,Marquette Golden Eagles,Marquette
+401598987,2024,regular-season,2023-11-11,4,356,away,FALSE,Illinois,67,Fighting Illini,Illinois Fighting Illini,Illinois

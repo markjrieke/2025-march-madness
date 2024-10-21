@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401369860,2021-12-22,2,150,home,FALSE,Duke,76,Blue Devils,Duke Blue Devils,Duke
-401369860,2021-12-22,2,259,away,FALSE,Virginia Tech,65,Hokies,Virginia Tech Hokies,Virginia Tech
-401371901,2021-12-22,2,2633,home,FALSE,Tennessee,77,Volunteers,Tennessee Volunteers,Tennessee
-401371901,2021-12-22,2,12,away,FALSE,Arizona,73,Wildcats,Arizona Wildcats,Arizona
-401371838,2021-12-22,2,2,home,FALSE,Auburn,71,Tigers,Auburn Tigers,Auburn
-401371838,2021-12-22,2,93,away,FALSE,Murray State,58,Racers,Murray State Racers,Murray St
-401371818,2021-12-22,2,248,home,FALSE,Houston,80,Cougars,Houston Cougars,Houston
-401371818,2021-12-22,2,326,away,FALSE,Texas State,47,Bobcats,Texas State Bobcats,Texas St
-401396269,2021-12-22,2,251,home,FALSE,Texas,68,Longhorns,Texas Longhorns,Texas
-401396269,2021-12-22,2,2011,away,FALSE,Alabama State,48,Hornets,Alabama State Hornets,Alabama St
-401371863,2021-12-22,2,99,home,FALSE,LSU,95,Tigers,LSU Tigers,LSU
-401371863,2021-12-22,2,288,away,FALSE,Lipscomb,60,Bisons,Lipscomb Bisons,Lipscomb
-401396290,2021-12-22,2,96,home,FALSE,Kentucky,95,Wildcats,Kentucky Wildcats,Kentucky
-401396290,2021-12-22,2,98,away,FALSE,Western Kentucky,60,Hilltoppers,Western Kentucky Hilltoppers,Western KY
-401372317,2021-12-22,2,2641,home,FALSE,Texas Tech,78,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401372317,2021-12-22,2,331,away,FALSE,Eastern Washington,46,Eagles,Eastern Washington Eagles,E Washington
-401373880,2021-12-22,0,26,home,FALSE,UCLA,0,Bruins,UCLA Bruins,UCLA
-401373880,2021-12-22,0,13,away,FALSE,Cal Poly,0,Mustangs,Cal Poly Mustangs,Cal Poly
-401373518,2021-12-22,0,2507,home,FALSE,Providence,0,Friars,Providence Friars,Providence
-401373518,2021-12-22,0,46,away,FALSE,Georgetown,0,Hoyas,Georgetown Hoyas,Georgetown
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401369860,2022,regular-season,2021-12-22,2,150,home,FALSE,Duke,76,Blue Devils,Duke Blue Devils,Duke
+401369860,2022,regular-season,2021-12-22,2,259,away,FALSE,Virginia Tech,65,Hokies,Virginia Tech Hokies,Virginia Tech
+401371901,2022,regular-season,2021-12-22,2,2633,home,FALSE,Tennessee,77,Volunteers,Tennessee Volunteers,Tennessee
+401371901,2022,regular-season,2021-12-22,2,12,away,FALSE,Arizona,73,Wildcats,Arizona Wildcats,Arizona
+401371838,2022,regular-season,2021-12-22,2,2,home,FALSE,Auburn,71,Tigers,Auburn Tigers,Auburn
+401371838,2022,regular-season,2021-12-22,2,93,away,FALSE,Murray State,58,Racers,Murray State Racers,Murray St
+401371818,2022,regular-season,2021-12-22,2,248,home,FALSE,Houston,80,Cougars,Houston Cougars,Houston
+401371818,2022,regular-season,2021-12-22,2,326,away,FALSE,Texas State,47,Bobcats,Texas State Bobcats,Texas St
+401396269,2022,regular-season,2021-12-22,2,251,home,FALSE,Texas,68,Longhorns,Texas Longhorns,Texas
+401396269,2022,regular-season,2021-12-22,2,2011,away,FALSE,Alabama State,48,Hornets,Alabama State Hornets,Alabama St
+401371863,2022,regular-season,2021-12-22,2,99,home,FALSE,LSU,95,Tigers,LSU Tigers,LSU
+401371863,2022,regular-season,2021-12-22,2,288,away,FALSE,Lipscomb,60,Bisons,Lipscomb Bisons,Lipscomb
+401396290,2022,regular-season,2021-12-22,2,96,home,FALSE,Kentucky,95,Wildcats,Kentucky Wildcats,Kentucky
+401396290,2022,regular-season,2021-12-22,2,98,away,FALSE,Western Kentucky,60,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+401372317,2022,regular-season,2021-12-22,2,2641,home,FALSE,Texas Tech,78,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401372317,2022,regular-season,2021-12-22,2,331,away,FALSE,Eastern Washington,46,Eagles,Eastern Washington Eagles,E Washington
+401373880,2022,regular-season,2021-12-22,0,26,home,FALSE,UCLA,0,Bruins,UCLA Bruins,UCLA
+401373880,2022,regular-season,2021-12-22,0,13,away,FALSE,Cal Poly,0,Mustangs,Cal Poly Mustangs,Cal Poly
+401373518,2022,regular-season,2021-12-22,0,2507,home,FALSE,Providence,0,Friars,Providence Friars,Providence
+401373518,2022,regular-season,2021-12-22,0,46,away,FALSE,Georgetown,0,Hoyas,Georgetown Hoyas,Georgetown

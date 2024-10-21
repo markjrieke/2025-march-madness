@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213270356,2001-11-23,2,356,home,FALSE,Illinois,105,Fighting Illini,Illinois Fighting Illini,Illinois
-213270356,2001-11-23,2,59,away,FALSE,Georgia Tech,66,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-213270127,2001-11-23,2,127,home,FALSE,Michigan State,58,Spartans,Michigan State Spartans,Michigan St
-213270127,2001-11-23,2,278,away,FALSE,Fresno State,63,Bulldogs,Fresno State Bulldogs,Fresno St
-213270183,2001-11-23,2,183,home,FALSE,Syracuse,74,Orange,Syracuse Orange,Syracuse
-213270183,2001-11-23,2,154,away,FALSE,Wake Forest,67,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-213270269,2001-11-23,2,269,home,FALSE,Marquette,50,Golden Eagles,Marquette Golden Eagles,Marquette
-213270269,2001-11-23,2,84,away,FALSE,Indiana,49,Hoosiers,Indiana Hoosiers,Indiana
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213270356,2002,regular-season,2001-11-23,2,356,home,FALSE,Illinois,105,Fighting Illini,Illinois Fighting Illini,Illinois
+213270356,2002,regular-season,2001-11-23,2,59,away,FALSE,Georgia Tech,66,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+213270127,2002,regular-season,2001-11-23,2,127,home,FALSE,Michigan State,58,Spartans,Michigan State Spartans,Michigan St
+213270127,2002,regular-season,2001-11-23,2,278,away,FALSE,Fresno State,63,Bulldogs,Fresno State Bulldogs,Fresno St
+213270183,2002,regular-season,2001-11-23,2,183,home,FALSE,Syracuse,74,Orange,Syracuse Orange,Syracuse
+213270183,2002,regular-season,2001-11-23,2,154,away,FALSE,Wake Forest,67,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+213270269,2002,regular-season,2001-11-23,2,269,home,FALSE,Marquette,50,Golden Eagles,Marquette Golden Eagles,Marquette
+213270269,2002,regular-season,2001-11-23,2,84,away,FALSE,Indiana,49,Hoosiers,Indiana Hoosiers,Indiana

@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400986123,2017-12-05,2,150,home,FALSE,Duke,124,Blue Devils,Duke Blue Devils,Duke
-400986123,2017-12-05,2,2598,away,FALSE,St. Francis (PA),67,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-400986406,2017-12-05,2,164,home,FALSE,Rutgers,52,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400986406,2017-12-05,2,127,away,FALSE,Michigan State,62,Spartans,Michigan State Spartans,Michigan St
-400987994,2017-12-05,2,2724,home,FALSE,Wichita State,95,Shockers,Wichita State Shockers,Wichita St
-400987994,2017-12-05,2,2571,away,FALSE,South Dakota State,85,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-400986125,2017-12-05,2,87,home,FALSE,Notre Dame,77,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400986125,2017-12-05,2,2050,away,FALSE,Ball State,80,Cardinals,Ball State Cardinals,Ball State
-400986407,2017-12-05,2,158,home,FALSE,Nebraska,78,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400986407,2017-12-05,2,135,away,FALSE,Minnesota,68,Golden Gophers,Minnesota Golden Gophers,Minnesota
-400986122,2017-12-05,2,277,home,FALSE,West Virginia,68,Mountaineers,West Virginia Mountaineers,West Virginia
-400986122,2017-12-05,2,258,away,FALSE,Virginia,61,Cavaliers,Virginia Cavaliers,Virginia
-400987995,2017-12-05,2,2628,home,FALSE,TCU,94,Horned Frogs,TCU Horned Frogs,TCU
-400987995,2017-12-05,2,2567,away,FALSE,SMU,83,Mustangs,SMU Mustangs,SMU
-400989269,2017-12-05,3,2641,home,FALSE,Texas Tech,82,Red Raiders,Texas Tech Red Raiders,Texas Tech
-400989269,2017-12-05,3,2440,away,FALSE,Nevada,76,Wolf Pack,Nevada Wolf Pack,Nevada
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400986123,2018,regular-season,2017-12-05,2,150,home,FALSE,Duke,124,Blue Devils,Duke Blue Devils,Duke
+400986123,2018,regular-season,2017-12-05,2,2598,away,FALSE,St. Francis (PA),67,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+400986406,2018,regular-season,2017-12-05,2,164,home,FALSE,Rutgers,52,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400986406,2018,regular-season,2017-12-05,2,127,away,FALSE,Michigan State,62,Spartans,Michigan State Spartans,Michigan St
+400987994,2018,regular-season,2017-12-05,2,2724,home,FALSE,Wichita State,95,Shockers,Wichita State Shockers,Wichita St
+400987994,2018,regular-season,2017-12-05,2,2571,away,FALSE,South Dakota State,85,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+400986125,2018,regular-season,2017-12-05,2,87,home,FALSE,Notre Dame,77,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400986125,2018,regular-season,2017-12-05,2,2050,away,FALSE,Ball State,80,Cardinals,Ball State Cardinals,Ball State
+400986407,2018,regular-season,2017-12-05,2,158,home,FALSE,Nebraska,78,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400986407,2018,regular-season,2017-12-05,2,135,away,FALSE,Minnesota,68,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400986122,2018,regular-season,2017-12-05,2,277,home,FALSE,West Virginia,68,Mountaineers,West Virginia Mountaineers,West Virginia
+400986122,2018,regular-season,2017-12-05,2,258,away,FALSE,Virginia,61,Cavaliers,Virginia Cavaliers,Virginia
+400987995,2018,regular-season,2017-12-05,2,2628,home,FALSE,TCU,94,Horned Frogs,TCU Horned Frogs,TCU
+400987995,2018,regular-season,2017-12-05,2,2567,away,FALSE,SMU,83,Mustangs,SMU Mustangs,SMU
+400989269,2018,regular-season,2017-12-05,3,2641,home,FALSE,Texas Tech,82,Red Raiders,Texas Tech Red Raiders,Texas Tech
+400989269,2018,regular-season,2017-12-05,3,2440,away,FALSE,Nevada,76,Wolf Pack,Nevada Wolf Pack,Nevada

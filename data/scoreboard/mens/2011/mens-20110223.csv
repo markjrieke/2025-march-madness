@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310540150,2011-02-23,2,150,home,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
-310540150,2011-02-23,2,218,away,FALSE,Temple,61,Owls,Temple Owls,Temple
-310540252,2011-02-23,2,252,home,FALSE,BYU,84,Cougars,BYU Cougars,BYU
-310540252,2011-02-23,2,36,away,FALSE,Colorado State,76,Rams,Colorado State Rams,Colorado St
-310540084,2011-02-23,2,84,home,FALSE,Indiana,61,Hoosiers,Indiana Hoosiers,Indiana
-310540084,2011-02-23,2,2509,away,FALSE,Purdue,72,Boilermakers,Purdue Boilermakers,Purdue
-310542507,2011-02-23,2,2507,home,FALSE,Providence,93,Friars,Providence Friars,Providence
-310542507,2011-02-23,2,87,away,FALSE,Notre Dame,94,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-310540046,2011-02-23,2,46,home,FALSE,Georgetown,46,Hoyas,Georgetown Hoyas,Georgetown
-310540046,2011-02-23,2,2132,away,FALSE,Cincinnati,58,Bearcats,Cincinnati Bearcats,Cincinnati
-310540130,2011-02-23,2,130,home,FALSE,Michigan,52,Wolverines,Michigan Wolverines,Michigan
-310540130,2011-02-23,2,275,away,FALSE,Wisconsin,53,Badgers,Wisconsin Badgers,Wisconsin
-310540152,2011-02-23,2,152,home,FALSE,NC State,63,Wolfpack,NC State Wolfpack,NC State
-310540152,2011-02-23,2,153,away,FALSE,North Carolina,75,Tar Heels,North Carolina Tar Heels,North Carolina
-310540142,2011-02-23,2,142,home,FALSE,Missouri,77,Tigers,Missouri Tigers,Missouri
-310540142,2011-02-23,2,239,away,FALSE,Baylor,59,Bears,Baylor Bears,Baylor
-310540245,2011-02-23,2,245,home,FALSE,Texas A&M,61,Aggies,Texas A&M Aggies,Texas A&M
-310540245,2011-02-23,2,201,away,FALSE,Oklahoma,47,Sooners,Oklahoma Sooners,Oklahoma
-310540008,2011-02-23,3,8,home,FALSE,Arkansas,77,Razorbacks,Arkansas Razorbacks,Arkansas
-310540008,2011-02-23,3,96,away,FALSE,Kentucky,76,Wildcats,Kentucky Wildcats,Kentucky
-310542599,2011-02-23,2,2599,home,FALSE,St. John's,76,Red Storm,St. John's Red Storm,St John's
-310542599,2011-02-23,2,305,away,FALSE,DePaul,51,Blue Demons,DePaul Blue Demons,DePaul
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310540150,2011,regular-season,2011-02-23,2,150,home,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
+310540150,2011,regular-season,2011-02-23,2,218,away,FALSE,Temple,61,Owls,Temple Owls,Temple
+310540252,2011,regular-season,2011-02-23,2,252,home,FALSE,BYU,84,Cougars,BYU Cougars,BYU
+310540252,2011,regular-season,2011-02-23,2,36,away,FALSE,Colorado State,76,Rams,Colorado State Rams,Colorado St
+310540084,2011,regular-season,2011-02-23,2,84,home,FALSE,Indiana,61,Hoosiers,Indiana Hoosiers,Indiana
+310540084,2011,regular-season,2011-02-23,2,2509,away,FALSE,Purdue,72,Boilermakers,Purdue Boilermakers,Purdue
+310542507,2011,regular-season,2011-02-23,2,2507,home,FALSE,Providence,93,Friars,Providence Friars,Providence
+310542507,2011,regular-season,2011-02-23,2,87,away,FALSE,Notre Dame,94,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+310540046,2011,regular-season,2011-02-23,2,46,home,FALSE,Georgetown,46,Hoyas,Georgetown Hoyas,Georgetown
+310540046,2011,regular-season,2011-02-23,2,2132,away,FALSE,Cincinnati,58,Bearcats,Cincinnati Bearcats,Cincinnati
+310540130,2011,regular-season,2011-02-23,2,130,home,FALSE,Michigan,52,Wolverines,Michigan Wolverines,Michigan
+310540130,2011,regular-season,2011-02-23,2,275,away,FALSE,Wisconsin,53,Badgers,Wisconsin Badgers,Wisconsin
+310540152,2011,regular-season,2011-02-23,2,152,home,FALSE,NC State,63,Wolfpack,NC State Wolfpack,NC State
+310540152,2011,regular-season,2011-02-23,2,153,away,FALSE,North Carolina,75,Tar Heels,North Carolina Tar Heels,North Carolina
+310540142,2011,regular-season,2011-02-23,2,142,home,FALSE,Missouri,77,Tigers,Missouri Tigers,Missouri
+310540142,2011,regular-season,2011-02-23,2,239,away,FALSE,Baylor,59,Bears,Baylor Bears,Baylor
+310540245,2011,regular-season,2011-02-23,2,245,home,FALSE,Texas A&M,61,Aggies,Texas A&M Aggies,Texas A&M
+310540245,2011,regular-season,2011-02-23,2,201,away,FALSE,Oklahoma,47,Sooners,Oklahoma Sooners,Oklahoma
+310540008,2011,regular-season,2011-02-23,3,8,home,FALSE,Arkansas,77,Razorbacks,Arkansas Razorbacks,Arkansas
+310540008,2011,regular-season,2011-02-23,3,96,away,FALSE,Kentucky,76,Wildcats,Kentucky Wildcats,Kentucky
+310542599,2011,regular-season,2011-02-23,2,2599,home,FALSE,St. John's,76,Red Storm,St. John's Red Storm,St John's
+310542599,2011,regular-season,2011-02-23,2,305,away,FALSE,DePaul,51,Blue Demons,DePaul Blue Demons,DePaul

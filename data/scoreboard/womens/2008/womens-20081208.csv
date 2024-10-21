@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-283430239,2008-12-08,2,239,home,FALSE,Baylor,83,Bears,Baylor Bears,Baylor
-283430239,2008-12-08,2,2320,away,FALSE,Lamar,36,Cardinals,Lamar Cardinals,Lamar
-283430164,2008-12-08,2,164,home,FALSE,Rutgers,45,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-283430164,2008-12-08,2,61,away,FALSE,Georgia,34,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283430239,2009,regular-season,2008-12-08,2,239,home,FALSE,Baylor,83,Bears,Baylor Bears,Baylor
+283430239,2009,regular-season,2008-12-08,2,2320,away,FALSE,Lamar,36,Cardinals,Lamar Cardinals,Lamar
+283430164,2009,regular-season,2008-12-08,2,164,home,FALSE,Rutgers,45,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+283430164,2009,regular-season,2008-12-08,2,61,away,FALSE,Georgia,34,Lady Bulldogs,Georgia Lady Bulldogs,Georgia

@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401581595,2023-11-21,2,269,home,TRUE,Marquette,73,Golden Eagles,Marquette Golden Eagles,Marquette
-401581595,2023-11-21,2,2305,away,TRUE,Kansas,59,Jayhawks,Kansas Jayhawks,Kansas
-401581594,2023-11-21,2,2509,home,TRUE,Purdue,71,Boilermakers,Purdue Boilermakers,Purdue
-401581594,2023-11-21,2,2633,away,TRUE,Tennessee,67,Volunteers,Tennessee Volunteers,Tennessee
-401576151,2023-11-21,2,150,home,FALSE,Duke,95,Blue Devils,Duke Blue Devils,Duke
-401576151,2023-11-21,2,2325,away,FALSE,La Salle,66,Explorers,La Salle Explorers,La Salle
-401581596,2023-11-21,2,2250,home,TRUE,Gonzaga,76,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401581596,2023-11-21,2,183,away,TRUE,Syracuse,57,Orange,Syracuse Orange,Syracuse
-401603138,2023-11-21,3,38,home,TRUE,Colorado,71,Buffaloes,Colorado Buffaloes,Colorado
-401603138,2023-11-21,3,52,away,TRUE,Florida State,77,Seminoles,Florida State Seminoles,Florida St
-401581838,2023-11-21,2,79,home,TRUE,Southern Illinois,76,Salukis,Southern Illinois Salukis,S Illinois
-401581838,2023-11-21,2,256,away,TRUE,James Madison,82,Dukes,James Madison Dukes,James Madison
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401581595,2024,regular-season,2023-11-21,2,269,home,TRUE,Marquette,73,Golden Eagles,Marquette Golden Eagles,Marquette
+401581595,2024,regular-season,2023-11-21,2,2305,away,TRUE,Kansas,59,Jayhawks,Kansas Jayhawks,Kansas
+401581594,2024,regular-season,2023-11-21,2,2509,home,TRUE,Purdue,71,Boilermakers,Purdue Boilermakers,Purdue
+401581594,2024,regular-season,2023-11-21,2,2633,away,TRUE,Tennessee,67,Volunteers,Tennessee Volunteers,Tennessee
+401576151,2024,regular-season,2023-11-21,2,150,home,FALSE,Duke,95,Blue Devils,Duke Blue Devils,Duke
+401576151,2024,regular-season,2023-11-21,2,2325,away,FALSE,La Salle,66,Explorers,La Salle Explorers,La Salle
+401581596,2024,regular-season,2023-11-21,2,2250,home,TRUE,Gonzaga,76,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401581596,2024,regular-season,2023-11-21,2,183,away,TRUE,Syracuse,57,Orange,Syracuse Orange,Syracuse
+401603138,2024,regular-season,2023-11-21,3,38,home,TRUE,Colorado,71,Buffaloes,Colorado Buffaloes,Colorado
+401603138,2024,regular-season,2023-11-21,3,52,away,TRUE,Florida State,77,Seminoles,Florida State Seminoles,Florida St
+401581838,2024,regular-season,2023-11-21,2,79,home,TRUE,Southern Illinois,76,Salukis,Southern Illinois Salukis,S Illinois
+401581838,2024,regular-season,2023-11-21,2,256,away,TRUE,James Madison,82,Dukes,James Madison Dukes,James Madison

@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270052415,2007-01-05,2,2415,home,FALSE,Morgan State,60,Lady Bears,Morgan State Lady Bears,Morgan St
-270052415,2007-01-05,2,2230,away,FALSE,Fordham,52,Rams,Fordham Rams,Fordham
-270052429,2007-01-05,2,2429,home,FALSE,Charlotte,65,49ers,Charlotte 49ers,Charlotte
-270052429,2007-01-05,2,2737,away,FALSE,Winthrop,45,Eagles,Winthrop Eagles,Winthrop
-270052335,2007-01-05,2,2335,home,FALSE,Liberty,82,Flames,Liberty Flames,Liberty
-270052335,2007-01-05,2,2344,away,FALSE,Longwood,48,Lancers,Longwood Lancers,Longwood
-270050276,2007-01-05,2,276,home,FALSE,Marshall,62,Thundering Herd,Marshall Thundering Herd,Marshall
-270050276,2007-01-05,2,2116,away,FALSE,UCF,58,Knights,UCF Knights,UCF
-270050218,2007-01-05,2,218,home,FALSE,Temple,71,Owls,Temple Owls,Temple
-270050218,2007-01-05,2,225,away,FALSE,Brown,37,Bears,Brown Bears,Brown
-270050154,2007-01-05,2,154,home,FALSE,Wake Forest,57,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-270050154,2007-01-05,2,228,away,FALSE,Clemson,73,Tigers,Clemson Tigers,Clemson
-270050151,2007-01-05,2,151,home,FALSE,East Carolina,59,Pirates,East Carolina Pirates,East Carolina
-270050151,2007-01-05,2,2572,away,FALSE,Southern Miss,65,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-270052655,2007-01-05,2,2655,home,FALSE,Tulane,83,Green Wave,Tulane Green Wave,Tulane
-270052655,2007-01-05,2,248,away,FALSE,Houston,61,Cougars,Houston Cougars,Houston
-270050235,2007-01-05,2,235,home,FALSE,Memphis,65,Tigers,Memphis Tigers,Memphis
-270050235,2007-01-05,2,2567,away,FALSE,SMU,97,Mustangs,SMU Mustangs,SMU
-270050005,2007-01-05,2,5,home,FALSE,UAB,76,Blazers,UAB Blazers,UAB
-270050005,2007-01-05,2,202,away,FALSE,Tulsa,60,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-270052638,2007-01-05,2,2638,home,FALSE,UTEP,65,Miners,UTEP Miners,UTEP
-270052638,2007-01-05,2,242,away,FALSE,Rice,52,Owls,Rice Owls,Rice
-270052492,2007-01-05,2,2492,home,FALSE,Pepperdine,59,Waves,Pepperdine Waves,Pepperdine
-270052492,2007-01-05,2,2501,away,FALSE,Portland,54,Pilots,Portland Pilots,Portland
-270052351,2007-01-05,2,2351,home,FALSE,Loyola Marymount,56,Lions,Loyola Marymount Lions,LMU
-270052351,2007-01-05,2,2250,away,FALSE,Gonzaga,60,Bulldogs,Gonzaga Bulldogs,Gonzaga
-270050302,2007-01-05,2,302,home,FALSE,UC Davis,61,Aggies,UC Davis Aggies,UC Davis
-270050302,2007-01-05,2,2571,away,FALSE,South Dakota State,78,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-270050030,2007-01-05,4,30,home,FALSE,USC,79,Trojans,USC Trojans,USC
-270050030,2007-01-05,4,2483,away,FALSE,Oregon,71,Ducks,Oregon Ducks,Oregon
-270050026,2007-01-05,2,26,home,FALSE,UCLA,52,Bruins,UCLA Bruins,UCLA
-270050026,2007-01-05,2,204,away,FALSE,Oregon State,56,Beavers,Oregon State Beavers,Oregon St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270052415,2007,regular-season,2007-01-05,2,2415,home,FALSE,Morgan State,60,Lady Bears,Morgan State Lady Bears,Morgan St
+270052415,2007,regular-season,2007-01-05,2,2230,away,FALSE,Fordham,52,Rams,Fordham Rams,Fordham
+270052429,2007,regular-season,2007-01-05,2,2429,home,FALSE,Charlotte,65,49ers,Charlotte 49ers,Charlotte
+270052429,2007,regular-season,2007-01-05,2,2737,away,FALSE,Winthrop,45,Eagles,Winthrop Eagles,Winthrop
+270052335,2007,regular-season,2007-01-05,2,2335,home,FALSE,Liberty,82,Flames,Liberty Flames,Liberty
+270052335,2007,regular-season,2007-01-05,2,2344,away,FALSE,Longwood,48,Lancers,Longwood Lancers,Longwood
+270050276,2007,regular-season,2007-01-05,2,276,home,FALSE,Marshall,62,Thundering Herd,Marshall Thundering Herd,Marshall
+270050276,2007,regular-season,2007-01-05,2,2116,away,FALSE,UCF,58,Knights,UCF Knights,UCF
+270050218,2007,regular-season,2007-01-05,2,218,home,FALSE,Temple,71,Owls,Temple Owls,Temple
+270050218,2007,regular-season,2007-01-05,2,225,away,FALSE,Brown,37,Bears,Brown Bears,Brown
+270050154,2007,regular-season,2007-01-05,2,154,home,FALSE,Wake Forest,57,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+270050154,2007,regular-season,2007-01-05,2,228,away,FALSE,Clemson,73,Tigers,Clemson Tigers,Clemson
+270050151,2007,regular-season,2007-01-05,2,151,home,FALSE,East Carolina,59,Pirates,East Carolina Pirates,East Carolina
+270050151,2007,regular-season,2007-01-05,2,2572,away,FALSE,Southern Miss,65,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+270052655,2007,regular-season,2007-01-05,2,2655,home,FALSE,Tulane,83,Green Wave,Tulane Green Wave,Tulane
+270052655,2007,regular-season,2007-01-05,2,248,away,FALSE,Houston,61,Cougars,Houston Cougars,Houston
+270050235,2007,regular-season,2007-01-05,2,235,home,FALSE,Memphis,65,Tigers,Memphis Tigers,Memphis
+270050235,2007,regular-season,2007-01-05,2,2567,away,FALSE,SMU,97,Mustangs,SMU Mustangs,SMU
+270050005,2007,regular-season,2007-01-05,2,5,home,FALSE,UAB,76,Blazers,UAB Blazers,UAB
+270050005,2007,regular-season,2007-01-05,2,202,away,FALSE,Tulsa,60,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+270052638,2007,regular-season,2007-01-05,2,2638,home,FALSE,UTEP,65,Miners,UTEP Miners,UTEP
+270052638,2007,regular-season,2007-01-05,2,242,away,FALSE,Rice,52,Owls,Rice Owls,Rice
+270052492,2007,regular-season,2007-01-05,2,2492,home,FALSE,Pepperdine,59,Waves,Pepperdine Waves,Pepperdine
+270052492,2007,regular-season,2007-01-05,2,2501,away,FALSE,Portland,54,Pilots,Portland Pilots,Portland
+270052351,2007,regular-season,2007-01-05,2,2351,home,FALSE,Loyola Marymount,56,Lions,Loyola Marymount Lions,LMU
+270052351,2007,regular-season,2007-01-05,2,2250,away,FALSE,Gonzaga,60,Bulldogs,Gonzaga Bulldogs,Gonzaga
+270050302,2007,regular-season,2007-01-05,2,302,home,FALSE,UC Davis,61,Aggies,UC Davis Aggies,UC Davis
+270050302,2007,regular-season,2007-01-05,2,2571,away,FALSE,South Dakota State,78,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+270050030,2007,regular-season,2007-01-05,4,30,home,FALSE,USC,79,Trojans,USC Trojans,USC
+270050030,2007,regular-season,2007-01-05,4,2483,away,FALSE,Oregon,71,Ducks,Oregon Ducks,Oregon
+270050026,2007,regular-season,2007-01-05,2,26,home,FALSE,UCLA,52,Bruins,UCLA Bruins,UCLA
+270050026,2007,regular-season,2007-01-05,2,204,away,FALSE,Oregon State,56,Beavers,Oregon State Beavers,Oregon St

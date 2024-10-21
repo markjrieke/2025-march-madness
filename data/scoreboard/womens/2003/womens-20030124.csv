@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230240026,2003-01-24,2,26,home,FALSE,UCLA,78,Bruins,UCLA Bruins,UCLA
-230240026,2003-01-24,2,24,away,FALSE,Stanford,80,Cardinal,Stanford Cardinal,Stanford
-230240139,2003-01-24,3,139,home,FALSE,Saint Louis,73,Billikens,Saint Louis Billikens,Saint Louis
-230240139,2003-01-24,3,305,away,FALSE,DePaul,71,Blue Demons,DePaul Blue Demons,DePaul
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230240026,2003,regular-season,2003-01-24,2,26,home,FALSE,UCLA,78,Bruins,UCLA Bruins,UCLA
+230240026,2003,regular-season,2003-01-24,2,24,away,FALSE,Stanford,80,Cardinal,Stanford Cardinal,Stanford
+230240139,2003,regular-season,2003-01-24,3,139,home,FALSE,Saint Louis,73,Billikens,Saint Louis Billikens,Saint Louis
+230240139,2003,regular-season,2003-01-24,3,305,away,FALSE,DePaul,71,Blue Demons,DePaul Blue Demons,DePaul

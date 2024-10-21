@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240782550,2004-03-18,3,2550,home,FALSE,Seton Hall,61,Pirates,Seton Hall Pirates,Seton Hall
-240782550,2004-03-18,3,2244,away,FALSE,George Mason,56,Patriots,George Mason Patriots,George Mason
-240780257,2004-03-18,2,257,home,FALSE,Richmond,63,Spiders,Richmond Spiders,Richmond
-240780257,2004-03-18,2,58,away,FALSE,South Florida,55,Bulls,South Florida Bulls,South Florida
-240780097,2004-03-18,2,97,home,FALSE,Louisville,61,Cardinals,Louisville Cardinals,Louisville
-240780097,2004-03-18,2,2711,away,FALSE,Western Michigan,63,Broncos,Western Michigan Broncos,W Michigan
-240782032,2004-03-18,2,2032,home,FALSE,Arkansas State,52,Red Wolves,Arkansas State Red Wolves,Arkansas St
-240782032,2004-03-18,2,242,away,FALSE,Rice,59,Owls,Rice Owls,Rice
-240780235,2004-03-18,2,235,home,FALSE,Memphis,66,Tigers,Memphis Tigers,Memphis
-240780235,2004-03-18,2,202,away,FALSE,Tulsa,64,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-240780158,2004-03-18,2,158,home,FALSE,Nebraska,73,Cornhuskers,Nebraska Cornhuskers,Nebraska
-240780158,2004-03-18,2,2181,away,FALSE,Drake,60,Bulldogs,Drake Bulldogs,Drake
-240782439,2004-03-18,2,2439,home,FALSE,UNLV,50,Lady Rebels,UNLV Lady Rebels,UNLV
-240782439,2004-03-18,2,9,away,FALSE,Arizona State,47,Sun Devils,Arizona State Sun Devils,Arizona St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240782550,2004,regular-season,2004-03-18,3,2550,home,FALSE,Seton Hall,61,Pirates,Seton Hall Pirates,Seton Hall
+240782550,2004,regular-season,2004-03-18,3,2244,away,FALSE,George Mason,56,Patriots,George Mason Patriots,George Mason
+240780257,2004,regular-season,2004-03-18,2,257,home,FALSE,Richmond,63,Spiders,Richmond Spiders,Richmond
+240780257,2004,regular-season,2004-03-18,2,58,away,FALSE,South Florida,55,Bulls,South Florida Bulls,South Florida
+240780097,2004,regular-season,2004-03-18,2,97,home,FALSE,Louisville,61,Cardinals,Louisville Cardinals,Louisville
+240780097,2004,regular-season,2004-03-18,2,2711,away,FALSE,Western Michigan,63,Broncos,Western Michigan Broncos,W Michigan
+240782032,2004,regular-season,2004-03-18,2,2032,home,FALSE,Arkansas State,52,Red Wolves,Arkansas State Red Wolves,Arkansas St
+240782032,2004,regular-season,2004-03-18,2,242,away,FALSE,Rice,59,Owls,Rice Owls,Rice
+240780235,2004,regular-season,2004-03-18,2,235,home,FALSE,Memphis,66,Tigers,Memphis Tigers,Memphis
+240780235,2004,regular-season,2004-03-18,2,202,away,FALSE,Tulsa,64,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+240780158,2004,regular-season,2004-03-18,2,158,home,FALSE,Nebraska,73,Cornhuskers,Nebraska Cornhuskers,Nebraska
+240780158,2004,regular-season,2004-03-18,2,2181,away,FALSE,Drake,60,Bulldogs,Drake Bulldogs,Drake
+240782439,2004,regular-season,2004-03-18,2,2439,home,FALSE,UNLV,50,Lady Rebels,UNLV Lady Rebels,UNLV
+240782439,2004,regular-season,2004-03-18,2,9,away,FALSE,Arizona State,47,Sun Devils,Arizona State Sun Devils,Arizona St

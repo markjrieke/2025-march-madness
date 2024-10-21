@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400911080,2016-11-23,4,201,home,FALSE,Oklahoma,74,Sooners,Oklahoma Sooners,Oklahoma
-400911080,2016-11-23,4,2571,away,FALSE,South Dakota State,60,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-400911078,2016-11-23,4,251,home,FALSE,Texas,86,Longhorns,Texas Longhorns,Texas
-400911078,2016-11-23,4,2466,away,FALSE,Northwestern State,39,Lady Demons,Northwestern State Lady Demons,N'Western St
-400912534,2016-11-23,4,96,home,FALSE,Kentucky,74,Wildcats,Kentucky Wildcats,Kentucky
-400912534,2016-11-23,4,2413,away,FALSE,Morehead State,47,Eagles,Morehead State Eagles,Morehead St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400911080,2017,regular-season,2016-11-23,4,201,home,FALSE,Oklahoma,74,Sooners,Oklahoma Sooners,Oklahoma
+400911080,2017,regular-season,2016-11-23,4,2571,away,FALSE,South Dakota State,60,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+400911078,2017,regular-season,2016-11-23,4,251,home,FALSE,Texas,86,Longhorns,Texas Longhorns,Texas
+400911078,2017,regular-season,2016-11-23,4,2466,away,FALSE,Northwestern State,39,Lady Demons,Northwestern State Lady Demons,N'Western St
+400912534,2017,regular-season,2016-11-23,4,96,home,FALSE,Kentucky,74,Wildcats,Kentucky Wildcats,Kentucky
+400912534,2017,regular-season,2016-11-23,4,2413,away,FALSE,Morehead State,47,Eagles,Morehead State Eagles,Morehead St

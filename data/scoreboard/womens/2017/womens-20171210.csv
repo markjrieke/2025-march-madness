@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400987784,2017-12-10,4,344,home,FALSE,Mississippi State,86,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400987784,2017-12-10,4,2031,away,FALSE,Little Rock,48,Trojans,Little Rock Trojans,Little Rock
-400994174,2017-12-10,4,277,home,FALSE,West Virginia,101,Mountaineers,West Virginia Mountaineers,West Virginia
-400994174,2017-12-10,4,2154,away,FALSE,Coppin State,43,Eagles,Coppin State Eagles,Coppin St
-400994404,2017-12-10,4,52,home,FALSE,Florida State,77,Seminoles,Florida State Seminoles,Florida St
-400994404,2017-12-10,4,9,away,FALSE,Arizona State,66,Sun Devils,Arizona State Sun Devils,Arizona St
-400994984,2017-12-10,4,150,home,FALSE,Duke,101,Blue Devils,Duke Blue Devils,Duke
-400994984,2017-12-10,4,2737,away,FALSE,Winthrop,30,Eagles,Winthrop Eagles,Winthrop
-400987805,2017-12-10,4,142,home,FALSE,Missouri,78,Tigers,Missouri Tigers,Missouri
-400987805,2017-12-10,4,2565,away,FALSE,SIU Edwardsville,48,Cougars,SIU Edwardsville Cougars,SIUE
-400994406,2017-12-10,4,204,home,FALSE,Oregon State,110,Beavers,Oregon State Beavers,Oregon St
-400994406,2017-12-10,4,23,away,FALSE,San José State,62,Spartans,San José State Spartans,San José St
-400987743,2017-12-10,4,2390,home,FALSE,Miami,65,Hurricanes,Miami Hurricanes,Miami
-400987743,2017-12-10,4,96,away,FALSE,Kentucky,54,Wildcats,Kentucky Wildcats,Kentucky
-400995514,2017-12-10,4,218,home,FALSE,Temple,65,Owls,Temple Owls,Temple
-400995514,2017-12-10,4,222,away,FALSE,Villanova,69,Wildcats,Villanova Wildcats,Villanova
-400998379,2017-12-10,4,2350,home,FALSE,Loyola Chicago,39,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-400998379,2017-12-10,4,2739,away,FALSE,Green Bay,76,Phoenix,Green Bay Phoenix,Green Bay
-400993696,2017-12-10,4,130,home,FALSE,Michigan,54,Wolverines,Michigan Wolverines,Michigan
-400993696,2017-12-10,4,2309,away,FALSE,Kent State,41,Golden Flashes,Kent State Golden Flashes,Kent State
-400994407,2017-12-10,4,279,home,FALSE,Pacific,85,Tigers,Pacific Tigers,Pacific
-400994407,2017-12-10,4,25,away,FALSE,California,92,Golden Bears,California Golden Bears,California
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400987784,2018,regular-season,2017-12-10,4,344,home,FALSE,Mississippi State,86,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400987784,2018,regular-season,2017-12-10,4,2031,away,FALSE,Little Rock,48,Trojans,Little Rock Trojans,Little Rock
+400994174,2018,regular-season,2017-12-10,4,277,home,FALSE,West Virginia,101,Mountaineers,West Virginia Mountaineers,West Virginia
+400994174,2018,regular-season,2017-12-10,4,2154,away,FALSE,Coppin State,43,Eagles,Coppin State Eagles,Coppin St
+400994404,2018,regular-season,2017-12-10,4,52,home,FALSE,Florida State,77,Seminoles,Florida State Seminoles,Florida St
+400994404,2018,regular-season,2017-12-10,4,9,away,FALSE,Arizona State,66,Sun Devils,Arizona State Sun Devils,Arizona St
+400994984,2018,regular-season,2017-12-10,4,150,home,FALSE,Duke,101,Blue Devils,Duke Blue Devils,Duke
+400994984,2018,regular-season,2017-12-10,4,2737,away,FALSE,Winthrop,30,Eagles,Winthrop Eagles,Winthrop
+400987805,2018,regular-season,2017-12-10,4,142,home,FALSE,Missouri,78,Tigers,Missouri Tigers,Missouri
+400987805,2018,regular-season,2017-12-10,4,2565,away,FALSE,SIU Edwardsville,48,Cougars,SIU Edwardsville Cougars,SIUE
+400994406,2018,regular-season,2017-12-10,4,204,home,FALSE,Oregon State,110,Beavers,Oregon State Beavers,Oregon St
+400994406,2018,regular-season,2017-12-10,4,23,away,FALSE,San José State,62,Spartans,San José State Spartans,San José St
+400987743,2018,regular-season,2017-12-10,4,2390,home,FALSE,Miami,65,Hurricanes,Miami Hurricanes,Miami
+400987743,2018,regular-season,2017-12-10,4,96,away,FALSE,Kentucky,54,Wildcats,Kentucky Wildcats,Kentucky
+400995514,2018,regular-season,2017-12-10,4,218,home,FALSE,Temple,65,Owls,Temple Owls,Temple
+400995514,2018,regular-season,2017-12-10,4,222,away,FALSE,Villanova,69,Wildcats,Villanova Wildcats,Villanova
+400998379,2018,regular-season,2017-12-10,4,2350,home,FALSE,Loyola Chicago,39,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+400998379,2018,regular-season,2017-12-10,4,2739,away,FALSE,Green Bay,76,Phoenix,Green Bay Phoenix,Green Bay
+400993696,2018,regular-season,2017-12-10,4,130,home,FALSE,Michigan,54,Wolverines,Michigan Wolverines,Michigan
+400993696,2018,regular-season,2017-12-10,4,2309,away,FALSE,Kent State,41,Golden Flashes,Kent State Golden Flashes,Kent State
+400994407,2018,regular-season,2017-12-10,4,279,home,FALSE,Pacific,85,Tigers,Pacific Tigers,Pacific
+400994407,2018,regular-season,2017-12-10,4,25,away,FALSE,California,92,Golden Bears,California Golden Bears,California

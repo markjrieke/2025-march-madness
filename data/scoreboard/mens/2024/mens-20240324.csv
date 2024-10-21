@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401638628,2024-03-24,2,2509,home,TRUE,Purdue,106,Boilermakers,Purdue Boilermakers,Purdue
-401638628,2024-03-24,2,328,away,TRUE,Utah State,67,Aggies,Utah State Aggies,Utah State
-401638630,2024-03-24,2,41,home,TRUE,UConn,75,Huskies,UConn Huskies,UConn
-401638630,2024-03-24,2,77,away,TRUE,Northwestern,58,Wildcats,Northwestern Wildcats,Northwestern
-401638626,2024-03-24,3,248,home,TRUE,Houston,100,Cougars,Houston Cougars,Houston
-401638626,2024-03-24,3,245,away,TRUE,Texas A&M,95,Aggies,Texas A&M Aggies,Texas A&M
-401638625,2024-03-24,2,269,home,TRUE,Marquette,81,Golden Eagles,Marquette Golden Eagles,Marquette
-401638625,2024-03-24,2,38,away,TRUE,Colorado,77,Buffaloes,Colorado Buffaloes,Colorado
-401638624,2024-03-24,2,239,home,TRUE,Baylor,64,Bears,Baylor Bears,Baylor
-401638624,2024-03-24,2,228,away,TRUE,Clemson,72,Tigers,Clemson Tigers,Clemson
-401638627,2024-03-24,2,150,home,TRUE,Duke,93,Blue Devils,Duke Blue Devils,Duke
-401638627,2024-03-24,2,256,away,TRUE,James Madison,55,Dukes,James Madison Dukes,James Madison
-401638623,2024-03-24,2,333,home,TRUE,Alabama,72,Crimson Tide,Alabama Crimson Tide,Alabama
-401638623,2024-03-24,2,2253,away,TRUE,Grand Canyon,61,Lopes,Grand Canyon Lopes,Grand Canyon
-401638629,2024-03-24,2,21,home,TRUE,San Diego State,85,Aztecs,San Diego State Aztecs,San Diego St
-401638629,2024-03-24,2,43,away,TRUE,Yale,57,Bulldogs,Yale Bulldogs,Yale
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401638628,2024,post-season,2024-03-24,2,2509,home,TRUE,Purdue,106,Boilermakers,Purdue Boilermakers,Purdue
+401638628,2024,post-season,2024-03-24,2,328,away,TRUE,Utah State,67,Aggies,Utah State Aggies,Utah State
+401638630,2024,post-season,2024-03-24,2,41,home,TRUE,UConn,75,Huskies,UConn Huskies,UConn
+401638630,2024,post-season,2024-03-24,2,77,away,TRUE,Northwestern,58,Wildcats,Northwestern Wildcats,Northwestern
+401638626,2024,post-season,2024-03-24,3,248,home,TRUE,Houston,100,Cougars,Houston Cougars,Houston
+401638626,2024,post-season,2024-03-24,3,245,away,TRUE,Texas A&M,95,Aggies,Texas A&M Aggies,Texas A&M
+401638625,2024,post-season,2024-03-24,2,269,home,TRUE,Marquette,81,Golden Eagles,Marquette Golden Eagles,Marquette
+401638625,2024,post-season,2024-03-24,2,38,away,TRUE,Colorado,77,Buffaloes,Colorado Buffaloes,Colorado
+401638624,2024,post-season,2024-03-24,2,239,home,TRUE,Baylor,64,Bears,Baylor Bears,Baylor
+401638624,2024,post-season,2024-03-24,2,228,away,TRUE,Clemson,72,Tigers,Clemson Tigers,Clemson
+401638627,2024,post-season,2024-03-24,2,150,home,TRUE,Duke,93,Blue Devils,Duke Blue Devils,Duke
+401638627,2024,post-season,2024-03-24,2,256,away,TRUE,James Madison,55,Dukes,James Madison Dukes,James Madison
+401638623,2024,post-season,2024-03-24,2,333,home,TRUE,Alabama,72,Crimson Tide,Alabama Crimson Tide,Alabama
+401638623,2024,post-season,2024-03-24,2,2253,away,TRUE,Grand Canyon,61,Lopes,Grand Canyon Lopes,Grand Canyon
+401638629,2024,post-season,2024-03-24,2,21,home,TRUE,San Diego State,85,Aztecs,San Diego State Aztecs,San Diego St
+401638629,2024,post-season,2024-03-24,2,43,away,TRUE,Yale,57,Bulldogs,Yale Bulldogs,Yale

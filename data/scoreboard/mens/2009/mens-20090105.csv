@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290050201,2009-01-05,2,201,home,FALSE,Oklahoma,100,Sooners,Oklahoma Sooners,Oklahoma
-290050201,2009-01-05,2,2379,away,FALSE,Maryland Eastern Shore,64,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-290050087,2009-01-05,2,87,home,FALSE,Notre Dame,73,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-290050087,2009-01-05,2,46,away,FALSE,Georgetown,67,Hoyas,Georgetown Hoyas,Georgetown
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290050201,2009,regular-season,2009-01-05,2,201,home,FALSE,Oklahoma,100,Sooners,Oklahoma Sooners,Oklahoma
+290050201,2009,regular-season,2009-01-05,2,2379,away,FALSE,Maryland Eastern Shore,64,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+290050087,2009,regular-season,2009-01-05,2,87,home,FALSE,Notre Dame,73,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+290050087,2009,regular-season,2009-01-05,2,46,away,FALSE,Georgetown,67,Hoyas,Georgetown Hoyas,Georgetown

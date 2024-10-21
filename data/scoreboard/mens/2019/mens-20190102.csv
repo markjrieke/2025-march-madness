@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401083544,2019-01-02,2,2305,home,FALSE,Kansas,70,Jayhawks,Kansas Jayhawks,Kansas
-401083544,2019-01-02,2,201,away,FALSE,Oklahoma,63,Sooners,Oklahoma Sooners,Oklahoma
-401089695,2019-01-02,2,2440,home,FALSE,Nevada,72,Wolf Pack,Nevada Wolf Pack,Nevada
-401089695,2019-01-02,2,328,away,FALSE,Utah State,49,Aggies,Utah State Aggies,Utah State
-401082481,2019-01-02,2,127,home,FALSE,Michigan State,81,Spartans,Michigan State Spartans,Michigan St
-401082481,2019-01-02,2,77,away,FALSE,Northwestern,55,Wildcats,Northwestern Wildcats,Northwestern
-401083462,2019-01-02,2,277,home,FALSE,West Virginia,59,Mountaineers,West Virginia Mountaineers,West Virginia
-401083462,2019-01-02,2,2641,away,FALSE,Texas Tech,62,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401082862,2019-01-02,2,153,home,FALSE,North Carolina,77,Tar Heels,North Carolina Tar Heels,North Carolina
-401082862,2019-01-02,2,108,away,FALSE,Harvard,57,Crimson,Harvard Crimson,Harvard
-401084749,2019-01-02,2,248,home,FALSE,Houston,74,Cougars,Houston Cougars,Houston
-401084749,2019-01-02,2,202,away,FALSE,Tulsa,56,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-401082431,2019-01-02,2,120,home,FALSE,Maryland,74,Terrapins,Maryland Terrapins,Maryland
-401082431,2019-01-02,2,158,away,FALSE,Nebraska,72,Cornhuskers,Nebraska Cornhuskers,Nebraska
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401083544,2019,regular-season,2019-01-02,2,2305,home,FALSE,Kansas,70,Jayhawks,Kansas Jayhawks,Kansas
+401083544,2019,regular-season,2019-01-02,2,201,away,FALSE,Oklahoma,63,Sooners,Oklahoma Sooners,Oklahoma
+401089695,2019,regular-season,2019-01-02,2,2440,home,FALSE,Nevada,72,Wolf Pack,Nevada Wolf Pack,Nevada
+401089695,2019,regular-season,2019-01-02,2,328,away,FALSE,Utah State,49,Aggies,Utah State Aggies,Utah State
+401082481,2019,regular-season,2019-01-02,2,127,home,FALSE,Michigan State,81,Spartans,Michigan State Spartans,Michigan St
+401082481,2019,regular-season,2019-01-02,2,77,away,FALSE,Northwestern,55,Wildcats,Northwestern Wildcats,Northwestern
+401083462,2019,regular-season,2019-01-02,2,277,home,FALSE,West Virginia,59,Mountaineers,West Virginia Mountaineers,West Virginia
+401083462,2019,regular-season,2019-01-02,2,2641,away,FALSE,Texas Tech,62,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401082862,2019,regular-season,2019-01-02,2,153,home,FALSE,North Carolina,77,Tar Heels,North Carolina Tar Heels,North Carolina
+401082862,2019,regular-season,2019-01-02,2,108,away,FALSE,Harvard,57,Crimson,Harvard Crimson,Harvard
+401084749,2019,regular-season,2019-01-02,2,248,home,FALSE,Houston,74,Cougars,Houston Cougars,Houston
+401084749,2019,regular-season,2019-01-02,2,202,away,FALSE,Tulsa,56,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+401082431,2019,regular-season,2019-01-02,2,120,home,FALSE,Maryland,74,Terrapins,Maryland Terrapins,Maryland
+401082431,2019,regular-season,2019-01-02,2,158,away,FALSE,Nebraska,72,Cornhuskers,Nebraska Cornhuskers,Nebraska

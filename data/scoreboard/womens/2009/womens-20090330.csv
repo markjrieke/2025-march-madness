@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-294000030,2009-03-30,2,120,home,TRUE,Maryland,60,Terrapins,Maryland Terrapins,Maryland
-294000030,2009-03-30,2,97,away,TRUE,Louisville,77,Cardinals,Louisville Cardinals,Louisville
-294000015,2009-03-30,2,24,home,TRUE,Stanford,74,Cardinal,Stanford Cardinal,Stanford
-294000015,2009-03-30,2,66,away,TRUE,Iowa State,53,Cyclones,Iowa State Cyclones,Iowa State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+294000030,2009,post-season,2009-03-30,2,120,home,TRUE,Maryland,60,Terrapins,Maryland Terrapins,Maryland
+294000030,2009,post-season,2009-03-30,2,97,away,TRUE,Louisville,77,Cardinals,Louisville Cardinals,Louisville
+294000015,2009,post-season,2009-03-30,2,24,home,TRUE,Stanford,74,Cardinal,Stanford Cardinal,Stanford
+294000015,2009,post-season,2009-03-30,2,66,away,TRUE,Iowa State,53,Cyclones,Iowa State Cyclones,Iowa State

@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-223330295,2002-11-29,2,295,home,FALSE,Old Dominion,52,Monarchs,Old Dominion Monarchs,Old Dominion
-223330295,2002-11-29,2,150,away,FALSE,Duke,65,Blue Devils,Duke Blue Devils,Duke
-223332306,2002-11-29,2,2306,home,FALSE,Kansas State,72,Wildcats,Kansas State Wildcats,Kansas St
-223332306,2002-11-29,2,218,away,FALSE,Temple,65,Owls,Temple Owls,Temple
-223330099,2002-11-29,2,99,home,FALSE,LSU,87,Tigers,LSU Tigers,LSU
-223330099,2002-11-29,2,265,away,FALSE,Washington State,50,Cougars,Washington State Cougars,Washington St
-223332503,2002-11-29,2,2503,home,FALSE,Puerto Rico-Mayaguez,26,Bulldogs,Puerto Rico-Mayaguez Bulldogs,PR-Mayaguez
-223332503,2002-11-29,2,2633,away,FALSE,Tennessee,136,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-223340041,2002-11-29,2,41,home,FALSE,UConn,85,Huskies,UConn Huskies,UConn
-223340041,2002-11-29,2,2172,away,FALSE,Denver,29,Pioneers,Denver Pioneers,Denver
-223332509,2002-11-29,2,2509,home,FALSE,Purdue,93,Boilermakers,Purdue Boilermakers,Purdue
-223332509,2002-11-29,2,2628,away,FALSE,TCU,74,Horned Frogs,TCU Horned Frogs,TCU
-223330024,2002-11-29,2,24,home,FALSE,Stanford,95,Cardinal,Stanford Cardinal,Stanford
-223330024,2002-11-29,2,163,away,FALSE,Princeton,39,Tigers,Princeton Tigers,Princeton
-223330030,2002-11-29,2,30,home,FALSE,USC,57,Trojans,USC Trojans,USC
-223330030,2002-11-29,2,87,away,FALSE,Notre Dame,69,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-223330305,2002-11-29,2,305,home,FALSE,DePaul,66,Blue Demons,DePaul Blue Demons,DePaul
-223330305,2002-11-29,2,153,away,FALSE,North Carolina,82,Tar Heels,North Carolina Tar Heels,North Carolina
-223332443,2002-11-29,2,2443,home,FALSE,New Orleans,75,Privateers,New Orleans Privateers,New Orleans
-223332443,2002-11-29,2,135,away,FALSE,Minnesota,85,Golden Gophers,Minnesota Golden Gophers,Minnesota
-223332261,2002-11-29,2,2261,home,FALSE,Hampton,41,Lady Pirates,Hampton Lady Pirates,Hampton
-223332261,2002-11-29,2,8,away,FALSE,Arkansas,78,Razorbacks,Arkansas Razorbacks,Arkansas
-223332483,2002-11-29,2,2483,home,FALSE,Oregon,47,Ducks,Oregon Ducks,Oregon
-223332483,2002-11-29,2,103,away,FALSE,Boston College,64,Eagles,Boston College Eagles,Boston College
-223332230,2002-11-29,2,2230,home,FALSE,Fordham,62,Rams,Fordham Rams,Fordham
-223332230,2002-11-29,2,201,away,FALSE,Oklahoma,90,Sooners,Oklahoma Sooners,Oklahoma
-223332540,2002-11-29,3,2540,home,FALSE,UC Santa Barbara,73,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-223332540,2002-11-29,3,57,away,FALSE,Florida,70,Gators,Florida Gators,Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+223330295,2003,regular-season,2002-11-29,2,295,home,FALSE,Old Dominion,52,Monarchs,Old Dominion Monarchs,Old Dominion
+223330295,2003,regular-season,2002-11-29,2,150,away,FALSE,Duke,65,Blue Devils,Duke Blue Devils,Duke
+223332306,2003,regular-season,2002-11-29,2,2306,home,FALSE,Kansas State,72,Wildcats,Kansas State Wildcats,Kansas St
+223332306,2003,regular-season,2002-11-29,2,218,away,FALSE,Temple,65,Owls,Temple Owls,Temple
+223330099,2003,regular-season,2002-11-29,2,99,home,FALSE,LSU,87,Tigers,LSU Tigers,LSU
+223330099,2003,regular-season,2002-11-29,2,265,away,FALSE,Washington State,50,Cougars,Washington State Cougars,Washington St
+223332503,2003,regular-season,2002-11-29,2,2503,home,FALSE,Puerto Rico-Mayaguez,26,Bulldogs,Puerto Rico-Mayaguez Bulldogs,PR-Mayaguez
+223332503,2003,regular-season,2002-11-29,2,2633,away,FALSE,Tennessee,136,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+223340041,2003,regular-season,2002-11-29,2,41,home,FALSE,UConn,85,Huskies,UConn Huskies,UConn
+223340041,2003,regular-season,2002-11-29,2,2172,away,FALSE,Denver,29,Pioneers,Denver Pioneers,Denver
+223332509,2003,regular-season,2002-11-29,2,2509,home,FALSE,Purdue,93,Boilermakers,Purdue Boilermakers,Purdue
+223332509,2003,regular-season,2002-11-29,2,2628,away,FALSE,TCU,74,Horned Frogs,TCU Horned Frogs,TCU
+223330024,2003,regular-season,2002-11-29,2,24,home,FALSE,Stanford,95,Cardinal,Stanford Cardinal,Stanford
+223330024,2003,regular-season,2002-11-29,2,163,away,FALSE,Princeton,39,Tigers,Princeton Tigers,Princeton
+223330030,2003,regular-season,2002-11-29,2,30,home,FALSE,USC,57,Trojans,USC Trojans,USC
+223330030,2003,regular-season,2002-11-29,2,87,away,FALSE,Notre Dame,69,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+223330305,2003,regular-season,2002-11-29,2,305,home,FALSE,DePaul,66,Blue Demons,DePaul Blue Demons,DePaul
+223330305,2003,regular-season,2002-11-29,2,153,away,FALSE,North Carolina,82,Tar Heels,North Carolina Tar Heels,North Carolina
+223332443,2003,regular-season,2002-11-29,2,2443,home,FALSE,New Orleans,75,Privateers,New Orleans Privateers,New Orleans
+223332443,2003,regular-season,2002-11-29,2,135,away,FALSE,Minnesota,85,Golden Gophers,Minnesota Golden Gophers,Minnesota
+223332261,2003,regular-season,2002-11-29,2,2261,home,FALSE,Hampton,41,Lady Pirates,Hampton Lady Pirates,Hampton
+223332261,2003,regular-season,2002-11-29,2,8,away,FALSE,Arkansas,78,Razorbacks,Arkansas Razorbacks,Arkansas
+223332483,2003,regular-season,2002-11-29,2,2483,home,FALSE,Oregon,47,Ducks,Oregon Ducks,Oregon
+223332483,2003,regular-season,2002-11-29,2,103,away,FALSE,Boston College,64,Eagles,Boston College Eagles,Boston College
+223332230,2003,regular-season,2002-11-29,2,2230,home,FALSE,Fordham,62,Rams,Fordham Rams,Fordham
+223332230,2003,regular-season,2002-11-29,2,201,away,FALSE,Oklahoma,90,Sooners,Oklahoma Sooners,Oklahoma
+223332540,2003,regular-season,2002-11-29,3,2540,home,FALSE,UC Santa Barbara,73,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+223332540,2003,regular-season,2002-11-29,3,57,away,FALSE,Florida,70,Gators,Florida Gators,Florida

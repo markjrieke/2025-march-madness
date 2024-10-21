@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-223232305,2002-11-19,2,2305,home,FALSE,Kansas,81,Jayhawks,Kansas Jayhawks,Kansas
-223232305,2002-11-19,2,107,away,FALSE,Holy Cross,57,Crusaders,Holy Cross Crusaders,Holy Cross
-223230057,2002-11-19,2,57,home,FALSE,Florida,76,Gators,Florida Gators,Florida
-223230057,2002-11-19,2,2348,away,FALSE,Louisiana Tech,55,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+223232305,2003,regular-season,2002-11-19,2,2305,home,FALSE,Kansas,81,Jayhawks,Kansas Jayhawks,Kansas
+223232305,2003,regular-season,2002-11-19,2,107,away,FALSE,Holy Cross,57,Crusaders,Holy Cross Crusaders,Holy Cross
+223230057,2003,regular-season,2002-11-19,2,57,home,FALSE,Florida,76,Gators,Florida Gators,Florida
+223230057,2003,regular-season,2002-11-19,2,2348,away,FALSE,Louisiana Tech,55,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech

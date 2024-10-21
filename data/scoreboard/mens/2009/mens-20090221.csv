@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290520041,2009-02-21,2,41,home,FALSE,UConn,64,Huskies,UConn Huskies,UConn
-290520041,2009-02-21,2,58,away,FALSE,South Florida,50,Bulls,South Florida Bulls,South Florida
-290520251,2009-02-21,2,251,home,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
-290520251,2009-02-21,2,201,away,FALSE,Oklahoma,68,Sooners,Oklahoma Sooners,Oklahoma
-290520120,2009-02-21,3,120,home,FALSE,Maryland,88,Terrapins,Maryland Terrapins,Maryland
-290520120,2009-02-21,3,153,away,FALSE,North Carolina,85,Tar Heels,North Carolina Tar Heels,North Carolina
-290520221,2009-02-21,2,221,home,FALSE,Pittsburgh,80,Panthers,Pittsburgh Panthers,Pitt
-290520221,2009-02-21,2,305,away,FALSE,DePaul,61,Blue Demons,DePaul Blue Demons,DePaul
-290522638,2009-02-21,2,2638,home,FALSE,UTEP,63,Miners,UTEP Miners,UTEP
-290522638,2009-02-21,2,235,away,FALSE,Memphis,70,Tigers,Memphis Tigers,Memphis
-290522132,2009-02-21,2,2132,home,FALSE,Cincinnati,63,Bearcats,Cincinnati Bearcats,Cincinnati
-290522132,2009-02-21,2,97,away,FALSE,Louisville,72,Cardinals,Louisville Cardinals,Louisville
-290520046,2009-02-21,2,46,home,FALSE,Georgetown,72,Hoyas,Georgetown Hoyas,Georgetown
-290520046,2009-02-21,2,269,away,FALSE,Marquette,78,Golden Eagles,Marquette Golden Eagles,Marquette
-290520038,2009-02-21,2,38,home,FALSE,Colorado,53,Buffaloes,Colorado Buffaloes,Colorado
-290520038,2009-02-21,2,142,away,FALSE,Missouri,66,Tigers,Missouri Tigers,Missouri
-290522305,2009-02-21,2,2305,home,FALSE,Kansas,70,Jayhawks,Kansas Jayhawks,Kansas
-290522305,2009-02-21,2,158,away,FALSE,Nebraska,53,Cornhuskers,Nebraska Cornhuskers,Nebraska
-290522250,2009-02-21,2,2250,home,FALSE,Gonzaga,92,Bulldogs,Gonzaga Bulldogs,Gonzaga
-290522250,2009-02-21,2,2492,away,FALSE,Pepperdine,58,Waves,Pepperdine Waves,Pepperdine
-290522509,2009-02-21,2,2509,home,FALSE,Purdue,81,Boilermakers,Purdue Boilermakers,Purdue
-290522509,2009-02-21,2,84,away,FALSE,Indiana,67,Hoosiers,Indiana Hoosiers,Indiana
-290520026,2009-02-21,2,26,home,FALSE,UCLA,81,Bruins,UCLA Bruins,UCLA
-290520026,2009-02-21,2,265,away,FALSE,Washington State,82,Cougars,Washington State Cougars,Washington St
-290532166,2009-02-21,2,2166,home,FALSE,Davidson,63,Wildcats,Davidson Wildcats,Davidson
-290532166,2009-02-21,2,2086,away,FALSE,Butler,75,Bulldogs,Butler Bulldogs,Butler
-290520030,2009-02-21,2,30,home,FALSE,USC,51,Trojans,USC Trojans,USC
-290520030,2009-02-21,2,264,away,FALSE,Washington,60,Huskies,Washington Huskies,Washington
-290520099,2009-02-21,2,99,home,FALSE,LSU,79,Tigers,LSU Tigers,LSU
-290520099,2009-02-21,2,2,away,FALSE,Auburn,72,Tigers,Auburn Tigers,Auburn
-290520139,2009-02-21,2,139,home,FALSE,Saint Louis,57,Billikens,Saint Louis Billikens,Saint Louis
-290520139,2009-02-21,2,2168,away,FALSE,Dayton,49,Flyers,Dayton Flyers,Dayton
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290520041,2009,regular-season,2009-02-21,2,41,home,FALSE,UConn,64,Huskies,UConn Huskies,UConn
+290520041,2009,regular-season,2009-02-21,2,58,away,FALSE,South Florida,50,Bulls,South Florida Bulls,South Florida
+290520251,2009,regular-season,2009-02-21,2,251,home,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
+290520251,2009,regular-season,2009-02-21,2,201,away,FALSE,Oklahoma,68,Sooners,Oklahoma Sooners,Oklahoma
+290520120,2009,regular-season,2009-02-21,3,120,home,FALSE,Maryland,88,Terrapins,Maryland Terrapins,Maryland
+290520120,2009,regular-season,2009-02-21,3,153,away,FALSE,North Carolina,85,Tar Heels,North Carolina Tar Heels,North Carolina
+290520221,2009,regular-season,2009-02-21,2,221,home,FALSE,Pittsburgh,80,Panthers,Pittsburgh Panthers,Pitt
+290520221,2009,regular-season,2009-02-21,2,305,away,FALSE,DePaul,61,Blue Demons,DePaul Blue Demons,DePaul
+290522638,2009,regular-season,2009-02-21,2,2638,home,FALSE,UTEP,63,Miners,UTEP Miners,UTEP
+290522638,2009,regular-season,2009-02-21,2,235,away,FALSE,Memphis,70,Tigers,Memphis Tigers,Memphis
+290522132,2009,regular-season,2009-02-21,2,2132,home,FALSE,Cincinnati,63,Bearcats,Cincinnati Bearcats,Cincinnati
+290522132,2009,regular-season,2009-02-21,2,97,away,FALSE,Louisville,72,Cardinals,Louisville Cardinals,Louisville
+290520046,2009,regular-season,2009-02-21,2,46,home,FALSE,Georgetown,72,Hoyas,Georgetown Hoyas,Georgetown
+290520046,2009,regular-season,2009-02-21,2,269,away,FALSE,Marquette,78,Golden Eagles,Marquette Golden Eagles,Marquette
+290520038,2009,regular-season,2009-02-21,2,38,home,FALSE,Colorado,53,Buffaloes,Colorado Buffaloes,Colorado
+290520038,2009,regular-season,2009-02-21,2,142,away,FALSE,Missouri,66,Tigers,Missouri Tigers,Missouri
+290522305,2009,regular-season,2009-02-21,2,2305,home,FALSE,Kansas,70,Jayhawks,Kansas Jayhawks,Kansas
+290522305,2009,regular-season,2009-02-21,2,158,away,FALSE,Nebraska,53,Cornhuskers,Nebraska Cornhuskers,Nebraska
+290522250,2009,regular-season,2009-02-21,2,2250,home,FALSE,Gonzaga,92,Bulldogs,Gonzaga Bulldogs,Gonzaga
+290522250,2009,regular-season,2009-02-21,2,2492,away,FALSE,Pepperdine,58,Waves,Pepperdine Waves,Pepperdine
+290522509,2009,regular-season,2009-02-21,2,2509,home,FALSE,Purdue,81,Boilermakers,Purdue Boilermakers,Purdue
+290522509,2009,regular-season,2009-02-21,2,84,away,FALSE,Indiana,67,Hoosiers,Indiana Hoosiers,Indiana
+290520026,2009,regular-season,2009-02-21,2,26,home,FALSE,UCLA,81,Bruins,UCLA Bruins,UCLA
+290520026,2009,regular-season,2009-02-21,2,265,away,FALSE,Washington State,82,Cougars,Washington State Cougars,Washington St
+290532166,2009,regular-season,2009-02-21,2,2166,home,FALSE,Davidson,63,Wildcats,Davidson Wildcats,Davidson
+290532166,2009,regular-season,2009-02-21,2,2086,away,FALSE,Butler,75,Bulldogs,Butler Bulldogs,Butler
+290520030,2009,regular-season,2009-02-21,2,30,home,FALSE,USC,51,Trojans,USC Trojans,USC
+290520030,2009,regular-season,2009-02-21,2,264,away,FALSE,Washington,60,Huskies,Washington Huskies,Washington
+290520099,2009,regular-season,2009-02-21,2,99,home,FALSE,LSU,79,Tigers,LSU Tigers,LSU
+290520099,2009,regular-season,2009-02-21,2,2,away,FALSE,Auburn,72,Tigers,Auburn Tigers,Auburn
+290520139,2009,regular-season,2009-02-21,2,139,home,FALSE,Saint Louis,57,Billikens,Saint Louis Billikens,Saint Louis
+290520139,2009,regular-season,2009-02-21,2,2168,away,FALSE,Dayton,49,Flyers,Dayton Flyers,Dayton

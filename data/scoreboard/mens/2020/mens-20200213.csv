@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401170709,2020-02-13,2,2483,home,FALSE,Oregon,68,Ducks,Oregon Ducks,Oregon
-401170709,2020-02-13,2,38,away,FALSE,Colorado,60,Buffaloes,Colorado Buffaloes,Colorado
-401166223,2020-02-13,2,84,home,FALSE,Indiana,89,Hoosiers,Indiana Hoosiers,Indiana
-401166223,2020-02-13,2,2294,away,FALSE,Iowa,77,Hawkeyes,Iowa Hawkeyes,Iowa
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401170709,2020,regular-season,2020-02-13,2,2483,home,FALSE,Oregon,68,Ducks,Oregon Ducks,Oregon
+401170709,2020,regular-season,2020-02-13,2,38,away,FALSE,Colorado,60,Buffaloes,Colorado Buffaloes,Colorado
+401166223,2020,regular-season,2020-02-13,2,84,home,FALSE,Indiana,89,Hoosiers,Indiana Hoosiers,Indiana
+401166223,2020,regular-season,2020-02-13,2,2294,away,FALSE,Iowa,77,Hawkeyes,Iowa Hawkeyes,Iowa

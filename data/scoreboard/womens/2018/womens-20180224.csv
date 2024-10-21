@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400994026,2018-02-24,4,2628,home,FALSE,TCU,53,Horned Frogs,TCU Horned Frogs,TCU
-400994026,2018-02-24,4,239,away,FALSE,Baylor,85,Bears,Baylor Bears,Baylor
-400994050,2018-02-24,4,66,home,FALSE,Iowa State,59,Cyclones,Iowa State Cyclones,Iowa State
-400994050,2018-02-24,4,251,away,FALSE,Texas,72,Longhorns,Texas Longhorns,Texas
-400994527,2018-02-24,5,26,home,FALSE,UCLA,78,Bruins,UCLA Bruins,UCLA
-400994527,2018-02-24,5,254,away,FALSE,Utah,71,Utes,Utah Utes,Utah
-400995634,2018-02-24,4,58,home,FALSE,South Florida,84,Bulls,South Florida Bulls,South Florida
-400995634,2018-02-24,4,2132,away,FALSE,Cincinnati,65,Bearcats,Cincinnati Bearcats,Cincinnati
-400998732,2018-02-24,4,2057,home,FALSE,Belmont,84,Bruins,Belmont Bruins,Belmont
-400998732,2018-02-24,4,2634,away,FALSE,Tennessee State,42,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
-400994112,2018-02-24,4,277,home,FALSE,West Virginia,69,Mountaineers,West Virginia Mountaineers,West Virginia
-400994112,2018-02-24,4,197,away,FALSE,Oklahoma State,79,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400994026,2018,regular-season,2018-02-24,4,2628,home,FALSE,TCU,53,Horned Frogs,TCU Horned Frogs,TCU
+400994026,2018,regular-season,2018-02-24,4,239,away,FALSE,Baylor,85,Bears,Baylor Bears,Baylor
+400994050,2018,regular-season,2018-02-24,4,66,home,FALSE,Iowa State,59,Cyclones,Iowa State Cyclones,Iowa State
+400994050,2018,regular-season,2018-02-24,4,251,away,FALSE,Texas,72,Longhorns,Texas Longhorns,Texas
+400994527,2018,regular-season,2018-02-24,5,26,home,FALSE,UCLA,78,Bruins,UCLA Bruins,UCLA
+400994527,2018,regular-season,2018-02-24,5,254,away,FALSE,Utah,71,Utes,Utah Utes,Utah
+400995634,2018,regular-season,2018-02-24,4,58,home,FALSE,South Florida,84,Bulls,South Florida Bulls,South Florida
+400995634,2018,regular-season,2018-02-24,4,2132,away,FALSE,Cincinnati,65,Bearcats,Cincinnati Bearcats,Cincinnati
+400998732,2018,regular-season,2018-02-24,4,2057,home,FALSE,Belmont,84,Bruins,Belmont Bruins,Belmont
+400998732,2018,regular-season,2018-02-24,4,2634,away,FALSE,Tennessee State,42,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
+400994112,2018,regular-season,2018-02-24,4,277,home,FALSE,West Virginia,69,Mountaineers,West Virginia Mountaineers,West Virginia
+400994112,2018,regular-season,2018-02-24,4,197,away,FALSE,Oklahoma State,79,Cowgirls,Oklahoma State Cowgirls,Oklahoma St

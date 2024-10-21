@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401625446,2024-03-16,2,248,home,TRUE,Houston,41,Cougars,Houston Cougars,Houston
-401625446,2024-03-16,2,66,away,TRUE,Iowa State,69,Cyclones,Iowa State Cyclones,Iowa State
-401625565,2024-03-16,2,41,home,TRUE,UConn,73,Huskies,UConn Huskies,UConn
-401625565,2024-03-16,2,269,away,TRUE,Marquette,57,Golden Eagles,Marquette Golden Eagles,Marquette
-401625688,2024-03-16,3,2509,home,TRUE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
-401625688,2024-03-16,3,275,away,TRUE,Wisconsin,76,Badgers,Wisconsin Badgers,Wisconsin
-401625413,2024-03-16,2,153,home,TRUE,North Carolina,76,Tar Heels,North Carolina Tar Heels,North Carolina
-401625413,2024-03-16,2,152,away,TRUE,NC State,84,Wolfpack,NC State Wolfpack,NC State
-401625457,2024-03-16,2,2,home,TRUE,Auburn,73,Tigers,Auburn Tigers,Auburn
-401625457,2024-03-16,2,344,away,TRUE,Mississippi State,66,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401625689,2024-03-16,2,356,home,TRUE,Illinois,98,Fighting Illini,Illinois Fighting Illini,Illinois
-401625689,2024-03-16,2,158,away,TRUE,Nebraska,87,Cornhuskers,Nebraska Cornhuskers,Nebraska
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401625446,2024,regular-season,2024-03-16,2,248,home,TRUE,Houston,41,Cougars,Houston Cougars,Houston
+401625446,2024,regular-season,2024-03-16,2,66,away,TRUE,Iowa State,69,Cyclones,Iowa State Cyclones,Iowa State
+401625565,2024,regular-season,2024-03-16,2,41,home,TRUE,UConn,73,Huskies,UConn Huskies,UConn
+401625565,2024,regular-season,2024-03-16,2,269,away,TRUE,Marquette,57,Golden Eagles,Marquette Golden Eagles,Marquette
+401625688,2024,regular-season,2024-03-16,3,2509,home,TRUE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
+401625688,2024,regular-season,2024-03-16,3,275,away,TRUE,Wisconsin,76,Badgers,Wisconsin Badgers,Wisconsin
+401625413,2024,regular-season,2024-03-16,2,153,home,TRUE,North Carolina,76,Tar Heels,North Carolina Tar Heels,North Carolina
+401625413,2024,regular-season,2024-03-16,2,152,away,TRUE,NC State,84,Wolfpack,NC State Wolfpack,NC State
+401625457,2024,regular-season,2024-03-16,2,2,home,TRUE,Auburn,73,Tigers,Auburn Tigers,Auburn
+401625457,2024,regular-season,2024-03-16,2,344,away,TRUE,Mississippi State,66,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401625689,2024,regular-season,2024-03-16,2,356,home,TRUE,Illinois,98,Fighting Illini,Illinois Fighting Illini,Illinois
+401625689,2024,regular-season,2024-03-16,2,158,away,TRUE,Nebraska,87,Cornhuskers,Nebraska Cornhuskers,Nebraska

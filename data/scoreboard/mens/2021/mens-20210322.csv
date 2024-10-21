@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401310893,2021-03-22,2,2294,home,TRUE,Iowa,80,Hawkeyes,Iowa Hawkeyes,Iowa
-401310893,2021-03-22,2,2483,away,TRUE,Oregon,95,Ducks,Oregon Ducks,Oregon
-401310889,2021-03-22,2,2250,home,TRUE,Gonzaga,87,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401310889,2021-03-22,2,201,away,TRUE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
-401310891,2021-03-22,2,26,home,TRUE,UCLA,67,Bruins,UCLA Bruins,UCLA
-401310891,2021-03-22,2,2000,away,TRUE,Abilene Christian,47,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
-401310890,2021-03-22,2,156,home,TRUE,Creighton,72,Bluejays,Creighton Bluejays,Creighton
-401310890,2021-03-22,2,195,away,TRUE,Ohio,58,Bobcats,Ohio Bobcats,Ohio
-401310894,2021-03-22,2,130,home,TRUE,Michigan,86,Wolverines,Michigan Wolverines,Michigan
-401310894,2021-03-22,2,99,away,TRUE,LSU,78,Tigers,LSU Tigers,LSU
-401310896,2021-03-22,2,52,home,TRUE,Florida State,71,Seminoles,Florida State Seminoles,Florida St
-401310896,2021-03-22,2,38,away,TRUE,Colorado,53,Buffaloes,Colorado Buffaloes,Colorado
-401310892,2021-03-22,2,333,home,TRUE,Alabama,96,Crimson Tide,Alabama Crimson Tide,Alabama
-401310892,2021-03-22,2,120,away,TRUE,Maryland,77,Terrapins,Maryland Terrapins,Maryland
-401310895,2021-03-22,2,2305,home,TRUE,Kansas,51,Jayhawks,Kansas Jayhawks,Kansas
-401310895,2021-03-22,2,30,away,TRUE,USC,85,Trojans,USC Trojans,USC
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401310893,2021,post-season,2021-03-22,2,2294,home,TRUE,Iowa,80,Hawkeyes,Iowa Hawkeyes,Iowa
+401310893,2021,post-season,2021-03-22,2,2483,away,TRUE,Oregon,95,Ducks,Oregon Ducks,Oregon
+401310889,2021,post-season,2021-03-22,2,2250,home,TRUE,Gonzaga,87,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401310889,2021,post-season,2021-03-22,2,201,away,TRUE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
+401310891,2021,post-season,2021-03-22,2,26,home,TRUE,UCLA,67,Bruins,UCLA Bruins,UCLA
+401310891,2021,post-season,2021-03-22,2,2000,away,TRUE,Abilene Christian,47,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
+401310890,2021,post-season,2021-03-22,2,156,home,TRUE,Creighton,72,Bluejays,Creighton Bluejays,Creighton
+401310890,2021,post-season,2021-03-22,2,195,away,TRUE,Ohio,58,Bobcats,Ohio Bobcats,Ohio
+401310894,2021,post-season,2021-03-22,2,130,home,TRUE,Michigan,86,Wolverines,Michigan Wolverines,Michigan
+401310894,2021,post-season,2021-03-22,2,99,away,TRUE,LSU,78,Tigers,LSU Tigers,LSU
+401310896,2021,post-season,2021-03-22,2,52,home,TRUE,Florida State,71,Seminoles,Florida State Seminoles,Florida St
+401310896,2021,post-season,2021-03-22,2,38,away,TRUE,Colorado,53,Buffaloes,Colorado Buffaloes,Colorado
+401310892,2021,post-season,2021-03-22,2,333,home,TRUE,Alabama,96,Crimson Tide,Alabama Crimson Tide,Alabama
+401310892,2021,post-season,2021-03-22,2,120,away,TRUE,Maryland,77,Terrapins,Maryland Terrapins,Maryland
+401310895,2021,post-season,2021-03-22,2,2305,home,TRUE,Kansas,51,Jayhawks,Kansas Jayhawks,Kansas
+401310895,2021,post-season,2021-03-22,2,30,away,TRUE,USC,85,Trojans,USC Trojans,USC

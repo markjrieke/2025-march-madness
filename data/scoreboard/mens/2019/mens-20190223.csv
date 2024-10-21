@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401082690,2019-02-23,2,183,home,FALSE,Syracuse,65,Orange,Syracuse Orange,Syracuse
-401082690,2019-02-23,2,150,away,FALSE,Duke,75,Blue Devils,Duke Blue Devils,Duke
-401083625,2019-02-23,2,2250,home,FALSE,Gonzaga,102,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401083625,2019-02-23,2,252,away,FALSE,BYU,68,Cougars,BYU Cougars,BYU
-401082776,2019-02-23,2,97,home,FALSE,Louisville,52,Cardinals,Louisville Cardinals,Louisville
-401082776,2019-02-23,2,258,away,FALSE,Virginia,64,Cavaliers,Virginia Cavaliers,Virginia
-401083137,2019-02-23,2,96,home,FALSE,Kentucky,80,Wildcats,Kentucky Wildcats,Kentucky
-401083137,2019-02-23,2,2,away,FALSE,Auburn,53,Tigers,Auburn Tigers,Auburn
-401082992,2019-02-23,3,99,home,FALSE,LSU,82,Tigers,LSU Tigers,LSU
-401082992,2019-02-23,3,2633,away,FALSE,Tennessee,80,Volunteers,Tennessee Volunteers,Tennessee
-401089673,2019-02-23,2,2440,home,FALSE,Nevada,74,Wolf Pack,Nevada Wolf Pack,Nevada
-401089673,2019-02-23,2,278,away,FALSE,Fresno State,68,Bulldogs,Fresno State Bulldogs,Fresno St
-401082713,2019-02-23,2,153,home,FALSE,North Carolina,77,Tar Heels,North Carolina Tar Heels,North Carolina
-401082713,2019-02-23,2,52,away,FALSE,Florida State,59,Seminoles,Florida State Seminoles,Florida St
-401084813,2019-02-23,2,248,home,FALSE,Houston,71,Cougars,Houston Cougars,Houston
-401084813,2019-02-23,2,58,away,FALSE,South Florida,59,Bulls,South Florida Bulls,South Florida
-401083264,2019-02-23,2,2507,home,FALSE,Providence,58,Friars,Providence Friars,Providence
-401083264,2019-02-23,2,269,away,FALSE,Marquette,76,Golden Eagles,Marquette Golden Eagles,Marquette
-401083490,2019-02-23,2,2641,home,FALSE,Texas Tech,91,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401083490,2019-02-23,2,2305,away,FALSE,Kansas,62,Jayhawks,Kansas Jayhawks,Kansas
-401082529,2019-02-23,2,158,home,FALSE,Nebraska,72,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401082529,2019-02-23,2,2509,away,FALSE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
-401083421,2019-02-23,2,2628,home,FALSE,TCU,75,Horned Frogs,TCU Horned Frogs,TCU
-401083421,2019-02-23,2,66,away,FALSE,Iowa State,72,Cyclones,Iowa State Cyclones,Iowa State
-401082760,2019-02-23,2,87,home,FALSE,Notre Dame,59,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401082760,2019-02-23,2,259,away,FALSE,Virginia Tech,67,Hokies,Virginia Tech Hokies,Virginia Tech
-401082544,2019-02-23,2,77,home,FALSE,Northwestern,64,Wildcats,Northwestern Wildcats,Northwestern
-401082544,2019-02-23,2,275,away,FALSE,Wisconsin,69,Badgers,Wisconsin Badgers,Wisconsin
-401083445,2019-02-23,2,2306,home,FALSE,Kansas State,85,Wildcats,Kansas State Wildcats,Kansas St
-401083445,2019-02-23,2,197,away,FALSE,Oklahoma State,46,Cowboys,Oklahoma State Cowboys,Oklahoma St
-401082442,2019-02-23,2,120,home,FALSE,Maryland,72,Terrapins,Maryland Terrapins,Maryland
-401082442,2019-02-23,2,194,away,FALSE,Ohio State,62,Buckeyes,Ohio State Buckeyes,Ohio State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401082690,2019,regular-season,2019-02-23,2,183,home,FALSE,Syracuse,65,Orange,Syracuse Orange,Syracuse
+401082690,2019,regular-season,2019-02-23,2,150,away,FALSE,Duke,75,Blue Devils,Duke Blue Devils,Duke
+401083625,2019,regular-season,2019-02-23,2,2250,home,FALSE,Gonzaga,102,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401083625,2019,regular-season,2019-02-23,2,252,away,FALSE,BYU,68,Cougars,BYU Cougars,BYU
+401082776,2019,regular-season,2019-02-23,2,97,home,FALSE,Louisville,52,Cardinals,Louisville Cardinals,Louisville
+401082776,2019,regular-season,2019-02-23,2,258,away,FALSE,Virginia,64,Cavaliers,Virginia Cavaliers,Virginia
+401083137,2019,regular-season,2019-02-23,2,96,home,FALSE,Kentucky,80,Wildcats,Kentucky Wildcats,Kentucky
+401083137,2019,regular-season,2019-02-23,2,2,away,FALSE,Auburn,53,Tigers,Auburn Tigers,Auburn
+401082992,2019,regular-season,2019-02-23,3,99,home,FALSE,LSU,82,Tigers,LSU Tigers,LSU
+401082992,2019,regular-season,2019-02-23,3,2633,away,FALSE,Tennessee,80,Volunteers,Tennessee Volunteers,Tennessee
+401089673,2019,regular-season,2019-02-23,2,2440,home,FALSE,Nevada,74,Wolf Pack,Nevada Wolf Pack,Nevada
+401089673,2019,regular-season,2019-02-23,2,278,away,FALSE,Fresno State,68,Bulldogs,Fresno State Bulldogs,Fresno St
+401082713,2019,regular-season,2019-02-23,2,153,home,FALSE,North Carolina,77,Tar Heels,North Carolina Tar Heels,North Carolina
+401082713,2019,regular-season,2019-02-23,2,52,away,FALSE,Florida State,59,Seminoles,Florida State Seminoles,Florida St
+401084813,2019,regular-season,2019-02-23,2,248,home,FALSE,Houston,71,Cougars,Houston Cougars,Houston
+401084813,2019,regular-season,2019-02-23,2,58,away,FALSE,South Florida,59,Bulls,South Florida Bulls,South Florida
+401083264,2019,regular-season,2019-02-23,2,2507,home,FALSE,Providence,58,Friars,Providence Friars,Providence
+401083264,2019,regular-season,2019-02-23,2,269,away,FALSE,Marquette,76,Golden Eagles,Marquette Golden Eagles,Marquette
+401083490,2019,regular-season,2019-02-23,2,2641,home,FALSE,Texas Tech,91,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401083490,2019,regular-season,2019-02-23,2,2305,away,FALSE,Kansas,62,Jayhawks,Kansas Jayhawks,Kansas
+401082529,2019,regular-season,2019-02-23,2,158,home,FALSE,Nebraska,72,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401082529,2019,regular-season,2019-02-23,2,2509,away,FALSE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
+401083421,2019,regular-season,2019-02-23,2,2628,home,FALSE,TCU,75,Horned Frogs,TCU Horned Frogs,TCU
+401083421,2019,regular-season,2019-02-23,2,66,away,FALSE,Iowa State,72,Cyclones,Iowa State Cyclones,Iowa State
+401082760,2019,regular-season,2019-02-23,2,87,home,FALSE,Notre Dame,59,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401082760,2019,regular-season,2019-02-23,2,259,away,FALSE,Virginia Tech,67,Hokies,Virginia Tech Hokies,Virginia Tech
+401082544,2019,regular-season,2019-02-23,2,77,home,FALSE,Northwestern,64,Wildcats,Northwestern Wildcats,Northwestern
+401082544,2019,regular-season,2019-02-23,2,275,away,FALSE,Wisconsin,69,Badgers,Wisconsin Badgers,Wisconsin
+401083445,2019,regular-season,2019-02-23,2,2306,home,FALSE,Kansas State,85,Wildcats,Kansas State Wildcats,Kansas St
+401083445,2019,regular-season,2019-02-23,2,197,away,FALSE,Oklahoma State,46,Cowboys,Oklahoma State Cowboys,Oklahoma St
+401082442,2019,regular-season,2019-02-23,2,120,home,FALSE,Maryland,72,Terrapins,Maryland Terrapins,Maryland
+401082442,2019,regular-season,2019-02-23,2,194,away,FALSE,Ohio State,62,Buckeyes,Ohio State Buckeyes,Ohio State

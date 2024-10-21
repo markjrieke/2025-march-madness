@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401638580,2024-03-19,2,258,home,TRUE,Virginia,42,Cavaliers,Virginia Cavaliers,Virginia
-401638580,2024-03-19,2,36,away,TRUE,Colorado State,67,Rams,Colorado State Rams,Colorado St
-401638579,2024-03-19,2,47,home,TRUE,Howard,68,Bison,Howard Bison,Howard
-401638579,2024-03-19,2,2681,away,TRUE,Wagner,71,Seahawks,Wagner Seahawks,Wagner
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401638580,2024,post-season,2024-03-19,2,258,home,TRUE,Virginia,42,Cavaliers,Virginia Cavaliers,Virginia
+401638580,2024,post-season,2024-03-19,2,36,away,TRUE,Colorado State,67,Rams,Colorado State Rams,Colorado St
+401638579,2024,post-season,2024-03-19,2,47,home,TRUE,Howard,68,Bison,Howard Bison,Howard
+401638579,2024,post-season,2024-03-19,2,2681,away,TRUE,Wagner,71,Seahawks,Wagner Seahawks,Wagner

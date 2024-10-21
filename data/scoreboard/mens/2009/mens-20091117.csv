@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293210235,2009-11-17,2,2305,home,TRUE,Kansas,57,Jayhawks,Kansas Jayhawks,Kansas
-293210235,2009-11-17,2,235,away,TRUE,Memphis,55,Tigers,Memphis Tigers,Memphis
-293210127,2009-11-17,2,127,home,FALSE,Michigan State,75,Spartans,Michigan State Spartans,Michigan St
-293210127,2009-11-17,2,2250,away,FALSE,Gonzaga,71,Bulldogs,Gonzaga Bulldogs,Gonzaga
-293210150,2009-11-17,2,150,home,FALSE,Duke,101,Blue Devils,Duke Blue Devils,Duke
-293210150,2009-11-17,2,2429,away,FALSE,Charlotte,59,49ers,Charlotte 49ers,Charlotte
-293212633,2009-11-17,2,2633,home,FALSE,Tennessee,124,Volunteers,Tennessee Volunteers,Tennessee
-293212633,2009-11-17,2,2427,away,FALSE,UNC Asheville,49,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-293210041,2009-11-17,2,41,home,FALSE,UConn,76,Huskies,UConn Huskies,UConn
-293210041,2009-11-17,2,2275,away,FALSE,Hofstra,67,Pride,Hofstra Pride,Hofstra
-293210201,2009-11-17,2,201,home,FALSE,Oklahoma,72,Sooners,Oklahoma Sooners,Oklahoma
-293210201,2009-11-17,2,2433,away,FALSE,UL Monroe,61,Warhawks,UL Monroe Warhawks,UL Monroe
-293210046,2009-11-17,2,46,home,FALSE,Georgetown,46,Hoyas,Georgetown Hoyas,Georgetown
-293210046,2009-11-17,2,218,away,FALSE,Temple,45,Owls,Temple Owls,Temple
-293210097,2009-11-17,2,97,home,TRUE,Louisville,96,Cardinals,Louisville Cardinals,Louisville
-293210097,2009-11-17,2,8,away,TRUE,Arkansas,66,Razorbacks,Arkansas Razorbacks,Arkansas
-293212335,2009-11-17,2,2335,home,FALSE,Liberty,39,Flames,Liberty Flames,Liberty
-293212335,2009-11-17,2,228,away,FALSE,Clemson,79,Tigers,Clemson Tigers,Clemson
-293210356,2009-11-17,2,356,home,FALSE,Illinois,80,Fighting Illini,Illinois Fighting Illini,Illinois
-293210356,2009-11-17,2,2459,away,FALSE,Northern Illinois,61,Huskies,Northern Illinois Huskies,N Illinois
-293210120,2009-11-17,2,120,home,FALSE,Maryland,71,Terrapins,Maryland Terrapins,Maryland
-293210120,2009-11-17,2,2217,away,FALSE,Fairfield,42,Stags,Fairfield Stags,Fairfield
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293210235,2010,regular-season,2009-11-17,2,2305,home,TRUE,Kansas,57,Jayhawks,Kansas Jayhawks,Kansas
+293210235,2010,regular-season,2009-11-17,2,235,away,TRUE,Memphis,55,Tigers,Memphis Tigers,Memphis
+293210127,2010,regular-season,2009-11-17,2,127,home,FALSE,Michigan State,75,Spartans,Michigan State Spartans,Michigan St
+293210127,2010,regular-season,2009-11-17,2,2250,away,FALSE,Gonzaga,71,Bulldogs,Gonzaga Bulldogs,Gonzaga
+293210150,2010,regular-season,2009-11-17,2,150,home,FALSE,Duke,101,Blue Devils,Duke Blue Devils,Duke
+293210150,2010,regular-season,2009-11-17,2,2429,away,FALSE,Charlotte,59,49ers,Charlotte 49ers,Charlotte
+293212633,2010,regular-season,2009-11-17,2,2633,home,FALSE,Tennessee,124,Volunteers,Tennessee Volunteers,Tennessee
+293212633,2010,regular-season,2009-11-17,2,2427,away,FALSE,UNC Asheville,49,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+293210041,2010,regular-season,2009-11-17,2,41,home,FALSE,UConn,76,Huskies,UConn Huskies,UConn
+293210041,2010,regular-season,2009-11-17,2,2275,away,FALSE,Hofstra,67,Pride,Hofstra Pride,Hofstra
+293210201,2010,regular-season,2009-11-17,2,201,home,FALSE,Oklahoma,72,Sooners,Oklahoma Sooners,Oklahoma
+293210201,2010,regular-season,2009-11-17,2,2433,away,FALSE,UL Monroe,61,Warhawks,UL Monroe Warhawks,UL Monroe
+293210046,2010,regular-season,2009-11-17,2,46,home,FALSE,Georgetown,46,Hoyas,Georgetown Hoyas,Georgetown
+293210046,2010,regular-season,2009-11-17,2,218,away,FALSE,Temple,45,Owls,Temple Owls,Temple
+293210097,2010,regular-season,2009-11-17,2,97,home,TRUE,Louisville,96,Cardinals,Louisville Cardinals,Louisville
+293210097,2010,regular-season,2009-11-17,2,8,away,TRUE,Arkansas,66,Razorbacks,Arkansas Razorbacks,Arkansas
+293212335,2010,regular-season,2009-11-17,2,2335,home,FALSE,Liberty,39,Flames,Liberty Flames,Liberty
+293212335,2010,regular-season,2009-11-17,2,228,away,FALSE,Clemson,79,Tigers,Clemson Tigers,Clemson
+293210356,2010,regular-season,2009-11-17,2,356,home,FALSE,Illinois,80,Fighting Illini,Illinois Fighting Illini,Illinois
+293210356,2010,regular-season,2009-11-17,2,2459,away,FALSE,Northern Illinois,61,Huskies,Northern Illinois Huskies,N Illinois
+293210120,2010,regular-season,2009-11-17,2,120,home,FALSE,Maryland,71,Terrapins,Maryland Terrapins,Maryland
+293210120,2010,regular-season,2009-11-17,2,2217,away,FALSE,Fairfield,42,Stags,Fairfield Stags,Fairfield

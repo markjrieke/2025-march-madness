@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400831655,2016-02-15,4,2633,home,FALSE,Tennessee,56,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400831655,2016-02-15,4,2579,away,FALSE,South Carolina,62,Gamecocks,South Carolina Gamecocks,South Carolina
-400825120,2016-02-15,4,97,home,FALSE,Louisville,67,Cardinals,Louisville Cardinals,Louisville
-400825120,2016-02-15,4,58,away,FALSE,South Florida,50,Bulls,South Florida Bulls,South Florida
-400831654,2016-02-15,4,145,home,FALSE,Ole Miss,48,Rebels,Ole Miss Rebels,Ole Miss
-400831654,2016-02-15,4,245,away,FALSE,Texas A&M,62,Aggies,Texas A&M Aggies,Texas A&M
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400831655,2016,regular-season,2016-02-15,4,2633,home,FALSE,Tennessee,56,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400831655,2016,regular-season,2016-02-15,4,2579,away,FALSE,South Carolina,62,Gamecocks,South Carolina Gamecocks,South Carolina
+400825120,2016,regular-season,2016-02-15,4,97,home,FALSE,Louisville,67,Cardinals,Louisville Cardinals,Louisville
+400825120,2016,regular-season,2016-02-15,4,58,away,FALSE,South Florida,50,Bulls,South Florida Bulls,South Florida
+400831654,2016,regular-season,2016-02-15,4,145,home,FALSE,Ole Miss,48,Rebels,Ole Miss Rebels,Ole Miss
+400831654,2016,regular-season,2016-02-15,4,245,away,FALSE,Texas A&M,62,Aggies,Texas A&M Aggies,Texas A&M

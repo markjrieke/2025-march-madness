@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313592752,2011-12-25,2,2752,home,TRUE,Xavier,87,Musketeers,Xavier Musketeers,Xavier
-313592752,2011-12-25,2,79,away,TRUE,Southern Illinois,77,Salukis,Southern Illinois Salukis,S Illinois
-313590062,2011-12-25,2,62,home,FALSE,Hawai'i,75,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
-313590062,2011-12-25,2,228,away,FALSE,Clemson,68,Tigers,Clemson Tigers,Clemson
-313590002,2011-12-25,2,2,home,TRUE,Auburn,76,Tigers,Auburn Tigers,Auburn
-313590002,2011-12-25,2,2638,away,TRUE,UTEP,83,Miners,UTEP Miners,UTEP
-313590299,2011-12-25,2,299,home,TRUE,Long Beach State,60,Beach,Long Beach State Beach,Long Beach St
-313590299,2011-12-25,2,2306,away,TRUE,Kansas State,77,Wildcats,Kansas State Wildcats,Kansas St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313592752,2012,regular-season,2011-12-25,2,2752,home,TRUE,Xavier,87,Musketeers,Xavier Musketeers,Xavier
+313592752,2012,regular-season,2011-12-25,2,79,away,TRUE,Southern Illinois,77,Salukis,Southern Illinois Salukis,S Illinois
+313590062,2012,regular-season,2011-12-25,2,62,home,FALSE,Hawai'i,75,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
+313590062,2012,regular-season,2011-12-25,2,228,away,FALSE,Clemson,68,Tigers,Clemson Tigers,Clemson
+313590002,2012,regular-season,2011-12-25,2,2,home,TRUE,Auburn,76,Tigers,Auburn Tigers,Auburn
+313590002,2012,regular-season,2011-12-25,2,2638,away,TRUE,UTEP,83,Miners,UTEP Miners,UTEP
+313590299,2012,regular-season,2011-12-25,2,299,home,TRUE,Long Beach State,60,Beach,Long Beach State Beach,Long Beach St
+313590299,2012,regular-season,2011-12-25,2,2306,away,TRUE,Kansas State,77,Wildcats,Kansas State Wildcats,Kansas St

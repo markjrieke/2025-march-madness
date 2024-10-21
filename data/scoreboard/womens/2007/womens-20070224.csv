@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270550041,2007-02-24,2,41,home,FALSE,UConn,92,Huskies,UConn Huskies,UConn
-270550041,2007-02-24,2,222,away,FALSE,Villanova,49,Wildcats,Villanova Wildcats,Villanova
-270550012,2007-02-24,2,12,home,FALSE,Arizona,54,Wildcats,Arizona Wildcats,Arizona
-270550012,2007-02-24,2,9,away,FALSE,Arizona State,59,Sun Devils,Arizona State Sun Devils,Arizona St
-270552393,2007-02-24,2,2393,home,FALSE,Middle Tennessee,76,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-270552393,2007-02-24,2,2226,away,FALSE,Florida Atlantic,63,Owls,Florida Atlantic Owls,FAU
-270550189,2007-02-24,2,189,home,FALSE,Bowling Green,67,Falcons,Bowling Green Falcons,Bowling Green
-270550189,2007-02-24,2,195,away,FALSE,Ohio,70,Bobcats,Ohio Bobcats,Ohio
-270550269,2007-02-24,2,269,home,FALSE,Marquette,75,Golden Eagles,Marquette Golden Eagles,Marquette
-270550269,2007-02-24,2,58,away,FALSE,South Florida,63,Bulls,South Florida Bulls,South Florida
-270550087,2007-02-24,2,87,home,FALSE,Notre Dame,60,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-270550087,2007-02-24,2,164,away,FALSE,Rutgers,76,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-270550183,2007-02-24,2,183,home,FALSE,Syracuse,56,Orange,Syracuse Orange,Syracuse
-270550183,2007-02-24,2,97,away,FALSE,Louisville,68,Cardinals,Louisville Cardinals,Louisville
-270552739,2007-02-24,2,2739,home,FALSE,Green Bay,84,Phoenix,Green Bay Phoenix,Green Bay
-270552739,2007-02-24,2,2086,away,FALSE,Butler,70,Bulldogs,Butler Bulldogs,Butler
-270550197,2007-02-24,2,197,home,FALSE,Oklahoma State,63,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-270550197,2007-02-24,2,158,away,FALSE,Nebraska,60,Cornhuskers,Nebraska Cornhuskers,Nebraska
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270550041,2007,regular-season,2007-02-24,2,41,home,FALSE,UConn,92,Huskies,UConn Huskies,UConn
+270550041,2007,regular-season,2007-02-24,2,222,away,FALSE,Villanova,49,Wildcats,Villanova Wildcats,Villanova
+270550012,2007,regular-season,2007-02-24,2,12,home,FALSE,Arizona,54,Wildcats,Arizona Wildcats,Arizona
+270550012,2007,regular-season,2007-02-24,2,9,away,FALSE,Arizona State,59,Sun Devils,Arizona State Sun Devils,Arizona St
+270552393,2007,regular-season,2007-02-24,2,2393,home,FALSE,Middle Tennessee,76,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+270552393,2007,regular-season,2007-02-24,2,2226,away,FALSE,Florida Atlantic,63,Owls,Florida Atlantic Owls,FAU
+270550189,2007,regular-season,2007-02-24,2,189,home,FALSE,Bowling Green,67,Falcons,Bowling Green Falcons,Bowling Green
+270550189,2007,regular-season,2007-02-24,2,195,away,FALSE,Ohio,70,Bobcats,Ohio Bobcats,Ohio
+270550269,2007,regular-season,2007-02-24,2,269,home,FALSE,Marquette,75,Golden Eagles,Marquette Golden Eagles,Marquette
+270550269,2007,regular-season,2007-02-24,2,58,away,FALSE,South Florida,63,Bulls,South Florida Bulls,South Florida
+270550087,2007,regular-season,2007-02-24,2,87,home,FALSE,Notre Dame,60,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+270550087,2007,regular-season,2007-02-24,2,164,away,FALSE,Rutgers,76,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+270550183,2007,regular-season,2007-02-24,2,183,home,FALSE,Syracuse,56,Orange,Syracuse Orange,Syracuse
+270550183,2007,regular-season,2007-02-24,2,97,away,FALSE,Louisville,68,Cardinals,Louisville Cardinals,Louisville
+270552739,2007,regular-season,2007-02-24,2,2739,home,FALSE,Green Bay,84,Phoenix,Green Bay Phoenix,Green Bay
+270552739,2007,regular-season,2007-02-24,2,2086,away,FALSE,Butler,70,Bulldogs,Butler Bulldogs,Butler
+270550197,2007,regular-season,2007-02-24,2,197,home,FALSE,Oklahoma State,63,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+270550197,2007,regular-season,2007-02-24,2,158,away,FALSE,Nebraska,60,Cornhuskers,Nebraska Cornhuskers,Nebraska

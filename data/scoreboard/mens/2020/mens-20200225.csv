@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401169761,2020-02-25,2,239,home,FALSE,Baylor,85,Bears,Baylor Bears,Baylor
-401169761,2020-02-25,2,2306,away,FALSE,Kansas State,66,Wildcats,Kansas State Wildcats,Kansas St
-401170312,2020-02-25,2,2244,home,FALSE,George Mason,55,Patriots,George Mason Patriots,George Mason
-401170312,2020-02-25,2,2168,away,FALSE,Dayton,62,Flyers,Dayton Flyers,Dayton
-401173796,2020-02-25,2,21,home,FALSE,San Diego State,66,Aztecs,San Diego State Aztecs,San Diego St
-401173796,2020-02-25,2,36,away,FALSE,Colorado State,60,Rams,Colorado State Rams,Colorado St
-401168369,2020-02-25,4,154,home,FALSE,Wake Forest,113,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-401168369,2020-02-25,4,150,away,FALSE,Duke,101,Blue Devils,Duke Blue Devils,Duke
-401166368,2020-02-25,2,245,home,FALSE,Texas A&M,60,Aggies,Texas A&M Aggies,Texas A&M
-401166368,2020-02-25,2,96,away,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
-401166367,2020-02-25,2,2,home,FALSE,Auburn,67,Tigers,Auburn Tigers,Auburn
-401166367,2020-02-25,2,145,away,FALSE,Ole Miss,58,Rebels,Ole Miss Rebels,Ole Miss
-401166244,2020-02-25,2,127,home,FALSE,Michigan State,78,Spartans,Michigan State Spartans,Michigan St
-401166244,2020-02-25,2,2294,away,FALSE,Iowa,70,Hawkeyes,Iowa Hawkeyes,Iowa
-401169762,2020-02-25,2,201,home,FALSE,Oklahoma,65,Sooners,Oklahoma Sooners,Oklahoma
-401169762,2020-02-25,2,2641,away,FALSE,Texas Tech,51,Red Raiders,Texas Tech Red Raiders,Texas Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401169761,2020,regular-season,2020-02-25,2,239,home,FALSE,Baylor,85,Bears,Baylor Bears,Baylor
+401169761,2020,regular-season,2020-02-25,2,2306,away,FALSE,Kansas State,66,Wildcats,Kansas State Wildcats,Kansas St
+401170312,2020,regular-season,2020-02-25,2,2244,home,FALSE,George Mason,55,Patriots,George Mason Patriots,George Mason
+401170312,2020,regular-season,2020-02-25,2,2168,away,FALSE,Dayton,62,Flyers,Dayton Flyers,Dayton
+401173796,2020,regular-season,2020-02-25,2,21,home,FALSE,San Diego State,66,Aztecs,San Diego State Aztecs,San Diego St
+401173796,2020,regular-season,2020-02-25,2,36,away,FALSE,Colorado State,60,Rams,Colorado State Rams,Colorado St
+401168369,2020,regular-season,2020-02-25,4,154,home,FALSE,Wake Forest,113,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+401168369,2020,regular-season,2020-02-25,4,150,away,FALSE,Duke,101,Blue Devils,Duke Blue Devils,Duke
+401166368,2020,regular-season,2020-02-25,2,245,home,FALSE,Texas A&M,60,Aggies,Texas A&M Aggies,Texas A&M
+401166368,2020,regular-season,2020-02-25,2,96,away,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
+401166367,2020,regular-season,2020-02-25,2,2,home,FALSE,Auburn,67,Tigers,Auburn Tigers,Auburn
+401166367,2020,regular-season,2020-02-25,2,145,away,FALSE,Ole Miss,58,Rebels,Ole Miss Rebels,Ole Miss
+401166244,2020,regular-season,2020-02-25,2,127,home,FALSE,Michigan State,78,Spartans,Michigan State Spartans,Michigan St
+401166244,2020,regular-season,2020-02-25,2,2294,away,FALSE,Iowa,70,Hawkeyes,Iowa Hawkeyes,Iowa
+401169762,2020,regular-season,2020-02-25,2,201,home,FALSE,Oklahoma,65,Sooners,Oklahoma Sooners,Oklahoma
+401169762,2020,regular-season,2020-02-25,2,2641,away,FALSE,Texas Tech,51,Red Raiders,Texas Tech Red Raiders,Texas Tech

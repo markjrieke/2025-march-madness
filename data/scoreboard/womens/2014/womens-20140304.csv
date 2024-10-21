@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400503833,2014-03-04,2,277,home,FALSE,West Virginia,67,Mountaineers,West Virginia Mountaineers,West Virginia
-400503833,2014-03-04,2,2305,away,FALSE,Kansas,60,Jayhawks,Kansas Jayhawks,Kansas
-400503834,2014-03-04,2,66,home,FALSE,Iowa State,54,Cyclones,Iowa State Cyclones,Iowa State
-400503834,2014-03-04,2,239,away,FALSE,Baylor,70,Bears,Baylor Bears,Baylor
-400509562,2014-03-04,2,305,home,FALSE,DePaul,91,Blue Demons,DePaul Blue Demons,DePaul
-400509562,2014-03-04,2,46,away,FALSE,Georgetown,74,Hoyas,Georgetown Hoyas,Georgetown
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400503833,2014,regular-season,2014-03-04,2,277,home,FALSE,West Virginia,67,Mountaineers,West Virginia Mountaineers,West Virginia
+400503833,2014,regular-season,2014-03-04,2,2305,away,FALSE,Kansas,60,Jayhawks,Kansas Jayhawks,Kansas
+400503834,2014,regular-season,2014-03-04,2,66,home,FALSE,Iowa State,54,Cyclones,Iowa State Cyclones,Iowa State
+400503834,2014,regular-season,2014-03-04,2,239,away,FALSE,Baylor,70,Bears,Baylor Bears,Baylor
+400509562,2014,regular-season,2014-03-04,2,305,home,FALSE,DePaul,91,Blue Demons,DePaul Blue Demons,DePaul
+400509562,2014,regular-season,2014-03-04,2,46,away,FALSE,Georgetown,74,Hoyas,Georgetown Hoyas,Georgetown

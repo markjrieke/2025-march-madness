@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400834753,2015-11-30,4,236,home,FALSE,Chattanooga,31,Mocs,Chattanooga Mocs,Chattanooga
-400834753,2015-11-30,4,41,away,FALSE,UConn,79,Huskies,UConn Huskies,UConn
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400834753,2016,regular-season,2015-11-30,4,236,home,FALSE,Chattanooga,31,Mocs,Chattanooga Mocs,Chattanooga
+400834753,2016,regular-season,2015-11-30,4,41,away,FALSE,UConn,79,Huskies,UConn Huskies,UConn

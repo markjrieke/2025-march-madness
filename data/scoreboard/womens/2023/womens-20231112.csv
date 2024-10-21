@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401594926,2023-11-12,4,99,home,FALSE,LSU,109,Tigers,LSU Tigers,LSU
-401594926,2023-11-12,4,2400,away,FALSE,Mississippi Valley State,47,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
-401574646,2023-11-12,4,152,home,FALSE,NC State,92,Wolfpack,NC State Wolfpack,NC State
-401574646,2023-11-12,4,41,away,FALSE,UConn,81,Huskies,UConn Huskies,UConn
-401577048,2023-11-12,4,2460,home,FALSE,Northern Iowa,53,Panthers,Northern Iowa Panthers,Northern Iowa
-401577048,2023-11-12,4,2294,away,FALSE,Iowa,94,Hawkeyes,Iowa Hawkeyes,Iowa
-401598965,2023-11-12,4,26,home,FALSE,UCLA,113,Bruins,UCLA Bruins,UCLA
-401598965,2023-11-12,4,91,away,FALSE,Bellarmine,64,Knights,Bellarmine Knights,Bellarmine
-401584608,2023-11-12,4,2579,home,FALSE,South Carolina,114,Gamecocks,South Carolina Gamecocks,South Carolina
-401584608,2023-11-12,4,120,away,FALSE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
-401595172,2023-11-12,4,194,home,FALSE,Ohio State,108,Buckeyes,Ohio State Buckeyes,Ohio State
-401595172,2023-11-12,4,85,away,FALSE,IU Indianapolis,58,Jaguars,IU Indianapolis Jaguars,IU Indy
-401598917,2023-11-12,4,24,home,FALSE,Stanford,96,Cardinal,Stanford Cardinal,Stanford
-401598917,2023-11-12,4,84,away,FALSE,Indiana,64,Hoosiers,Indiana Hoosiers,Indiana
-401588166,2023-11-12,4,2885,home,FALSE,NJIT,57,Highlanders,NJIT Highlanders,NJIT
-401588166,2023-11-12,4,87,away,FALSE,Notre Dame,104,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401585902,2023-11-12,4,251,home,FALSE,Texas,75,Longhorns,Texas Longhorns,Texas
-401585902,2023-11-12,4,2335,away,FALSE,Liberty,57,Flames,Liberty Flames,Liberty
-401581372,2023-11-12,4,153,home,FALSE,North Carolina,74,Tar Heels,North Carolina Tar Heels,North Carolina
-401581372,2023-11-12,4,2166,away,FALSE,Davidson,70,Wildcats,Davidson Wildcats,Davidson
-401582236,2023-11-12,4,97,home,FALSE,Louisville,81,Cardinals,Louisville Cardinals,Louisville
-401582236,2023-11-12,4,305,away,FALSE,DePaul,74,Blue Demons,DePaul Blue Demons,DePaul
-401597290,2023-11-12,4,38,home,FALSE,Colorado,86,Buffaloes,Colorado Buffaloes,Colorado
-401597290,2023-11-12,4,197,away,FALSE,Oklahoma State,75,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-401601120,2023-11-12,4,265,home,FALSE,Washington State,64,Cougars,Washington State Cougars,Washington St
-401601120,2023-11-12,4,304,away,FALSE,Idaho State,47,Bengals,Idaho State Bengals,Idaho St
-401596776,2023-11-12,4,344,home,FALSE,Mississippi State,84,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401596776,2023-11-12,4,55,away,FALSE,Jacksonville State,45,Gamecocks,Jacksonville State Gamecocks,Jax State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401594926,2024,regular-season,2023-11-12,4,99,home,FALSE,LSU,109,Tigers,LSU Tigers,LSU
+401594926,2024,regular-season,2023-11-12,4,2400,away,FALSE,Mississippi Valley State,47,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
+401574646,2024,regular-season,2023-11-12,4,152,home,FALSE,NC State,92,Wolfpack,NC State Wolfpack,NC State
+401574646,2024,regular-season,2023-11-12,4,41,away,FALSE,UConn,81,Huskies,UConn Huskies,UConn
+401577048,2024,regular-season,2023-11-12,4,2460,home,FALSE,Northern Iowa,53,Panthers,Northern Iowa Panthers,Northern Iowa
+401577048,2024,regular-season,2023-11-12,4,2294,away,FALSE,Iowa,94,Hawkeyes,Iowa Hawkeyes,Iowa
+401598965,2024,regular-season,2023-11-12,4,26,home,FALSE,UCLA,113,Bruins,UCLA Bruins,UCLA
+401598965,2024,regular-season,2023-11-12,4,91,away,FALSE,Bellarmine,64,Knights,Bellarmine Knights,Bellarmine
+401584608,2024,regular-season,2023-11-12,4,2579,home,FALSE,South Carolina,114,Gamecocks,South Carolina Gamecocks,South Carolina
+401584608,2024,regular-season,2023-11-12,4,120,away,FALSE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
+401595172,2024,regular-season,2023-11-12,4,194,home,FALSE,Ohio State,108,Buckeyes,Ohio State Buckeyes,Ohio State
+401595172,2024,regular-season,2023-11-12,4,85,away,FALSE,IU Indianapolis,58,Jaguars,IU Indianapolis Jaguars,IU Indy
+401598917,2024,regular-season,2023-11-12,4,24,home,FALSE,Stanford,96,Cardinal,Stanford Cardinal,Stanford
+401598917,2024,regular-season,2023-11-12,4,84,away,FALSE,Indiana,64,Hoosiers,Indiana Hoosiers,Indiana
+401588166,2024,regular-season,2023-11-12,4,2885,home,FALSE,NJIT,57,Highlanders,NJIT Highlanders,NJIT
+401588166,2024,regular-season,2023-11-12,4,87,away,FALSE,Notre Dame,104,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401585902,2024,regular-season,2023-11-12,4,251,home,FALSE,Texas,75,Longhorns,Texas Longhorns,Texas
+401585902,2024,regular-season,2023-11-12,4,2335,away,FALSE,Liberty,57,Flames,Liberty Flames,Liberty
+401581372,2024,regular-season,2023-11-12,4,153,home,FALSE,North Carolina,74,Tar Heels,North Carolina Tar Heels,North Carolina
+401581372,2024,regular-season,2023-11-12,4,2166,away,FALSE,Davidson,70,Wildcats,Davidson Wildcats,Davidson
+401582236,2024,regular-season,2023-11-12,4,97,home,FALSE,Louisville,81,Cardinals,Louisville Cardinals,Louisville
+401582236,2024,regular-season,2023-11-12,4,305,away,FALSE,DePaul,74,Blue Demons,DePaul Blue Demons,DePaul
+401597290,2024,regular-season,2023-11-12,4,38,home,FALSE,Colorado,86,Buffaloes,Colorado Buffaloes,Colorado
+401597290,2024,regular-season,2023-11-12,4,197,away,FALSE,Oklahoma State,75,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+401601120,2024,regular-season,2023-11-12,4,265,home,FALSE,Washington State,64,Cougars,Washington State Cougars,Washington St
+401601120,2024,regular-season,2023-11-12,4,304,away,FALSE,Idaho State,47,Bengals,Idaho State Bengals,Idaho St
+401596776,2024,regular-season,2023-11-12,4,344,home,FALSE,Mississippi State,84,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401596776,2024,regular-season,2023-11-12,4,55,away,FALSE,Jacksonville State,45,Gamecocks,Jacksonville State Gamecocks,Jax State

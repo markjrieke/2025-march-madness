@@ -1,39 +1,39 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401598328,2023-12-28,4,2390,home,FALSE,Miami,81,Hurricanes,Miami Hurricanes,Miami
-401598328,2023-12-28,4,2011,away,FALSE,Alabama State,36,Lady Hornets,Alabama State Lady Hornets,Alabama St
-401595224,2023-12-28,4,2450,home,FALSE,Norfolk State,96,Spartans,Norfolk State Spartans,Norfolk St
-401595224,2023-12-28,4,350,away,FALSE,UNC Wilmington,55,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
-401603813,2023-12-28,4,204,home,FALSE,Oregon State,80,Beavers,Oregon State Beavers,Oregon St
-401603813,2023-12-28,4,2415,away,FALSE,Morgan State,51,Lady Bears,Morgan State Lady Bears,Morgan St
-401587349,2023-12-28,4,2634,home,FALSE,Tennessee State,69,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
-401587349,2023-12-28,4,2630,away,FALSE,UT Martin,75,Skyhawks,UT Martin Skyhawks,UT Martin
-401582324,2023-12-28,4,227,home,FALSE,Rhode Island,59,Rams,Rhode Island Rams,Rhode Island
-401582324,2023-12-28,4,108,away,FALSE,Harvard,56,Crimson,Harvard Crimson,Harvard
-401587350,2023-12-28,4,2635,home,FALSE,Tennessee Tech,57,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
-401587350,2023-12-28,4,2031,away,FALSE,Little Rock,59,Trojans,Little Rock Trojans,Little Rock
-401598333,2023-12-28,4,221,home,FALSE,Pittsburgh,56,Panthers,Pittsburgh Panthers,Pitt
-401598333,2023-12-28,4,2330,away,FALSE,Le Moyne,39,Dolphins,Le Moyne Dolphins,Le Moyne
-401598233,2023-12-28,4,526,home,FALSE,Florida Gulf Coast,106,Eagles,Florida Gulf Coast Eagles,FGCU
-401598233,2023-12-28,4,2691,away,FALSE,Webber International,42,Warriors,Webber International Warriors,Webber Int
-401598167,2023-12-28,4,338,home,FALSE,Kennesaw State,55,Owls,Kennesaw State Owls,Kennesaw St
-401598167,2023-12-28,4,46,away,FALSE,Georgetown,57,Hoyas,Georgetown Hoyas,Georgetown
-401584537,2023-12-28,4,150,home,FALSE,Duke,68,Blue Devils,Duke Blue Devils,Duke
-401584537,2023-12-28,4,2154,away,FALSE,Coppin State,34,Eagles,Coppin State Eagles,Coppin St
-401582243,2023-12-28,4,305,home,FALSE,DePaul,77,Blue Demons,DePaul Blue Demons,DePaul
-401582243,2023-12-28,4,2016,away,FALSE,Alcorn State,39,Lady Braves,Alcorn State Lady Braves,Alcorn St
-401595135,2023-12-28,4,2539,home,FALSE,San Francisco,67,Dons,San Francisco Dons,San Francisco
-401595135,2023-12-28,4,171,away,FALSE,Columbia,74,Lions,Columbia Lions,Columbia
-401573741,2023-12-28,4,2463,home,FALSE,Cal State Northridge,43,Matadors,Cal State Northridge Matadors,CSU Northridge
-401573741,2023-12-28,4,13,away,FALSE,Cal Poly,68,Mustangs,Cal Poly Mustangs,Cal Poly
-401573737,2023-12-28,4,27,home,FALSE,UC Riverside,52,Highlanders,UC Riverside Highlanders,UC Riverside
-401573737,2023-12-28,4,300,away,FALSE,UC Irvine,67,Anteaters,UC Irvine Anteaters,UC Irvine
-401573651,2023-12-28,4,2502,home,FALSE,Portland State,58,Vikings,Portland State Vikings,Portland St
-401573651,2023-12-28,4,331,away,FALSE,Eastern Washington,68,Eagles,Eastern Washington Eagles,E Washington
-401573652,2023-12-28,4,16,home,FALSE,Sacramento State,51,Hornets,Sacramento State Hornets,Sacramento St
-401573652,2023-12-28,4,70,away,FALSE,Idaho,88,Vandals,Idaho Vandals,Idaho
-401573740,2023-12-28,4,2934,home,FALSE,Cal State Bakersfield,52,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
-401573740,2023-12-28,4,28,away,FALSE,UC San Diego,48,Tritons,UC San Diego Tritons,UC San Diego
-401573739,2023-12-28,4,2540,home,FALSE,UC Santa Barbara,60,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-401573739,2023-12-28,4,302,away,FALSE,UC Davis,49,Aggies,UC Davis Aggies,UC Davis
-401573738,2023-12-28,4,299,home,FALSE,Long Beach State,61,Beach,Long Beach State Beach,Long Beach St
-401573738,2023-12-28,4,2239,away,FALSE,Cal State Fullerton,67,Titans,Cal State Fullerton Titans,Fullerton
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401598328,2024,regular-season,2023-12-28,4,2390,home,FALSE,Miami,81,Hurricanes,Miami Hurricanes,Miami
+401598328,2024,regular-season,2023-12-28,4,2011,away,FALSE,Alabama State,36,Lady Hornets,Alabama State Lady Hornets,Alabama St
+401595224,2024,regular-season,2023-12-28,4,2450,home,FALSE,Norfolk State,96,Spartans,Norfolk State Spartans,Norfolk St
+401595224,2024,regular-season,2023-12-28,4,350,away,FALSE,UNC Wilmington,55,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+401603813,2024,regular-season,2023-12-28,4,204,home,FALSE,Oregon State,80,Beavers,Oregon State Beavers,Oregon St
+401603813,2024,regular-season,2023-12-28,4,2415,away,FALSE,Morgan State,51,Lady Bears,Morgan State Lady Bears,Morgan St
+401587349,2024,regular-season,2023-12-28,4,2634,home,FALSE,Tennessee State,69,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
+401587349,2024,regular-season,2023-12-28,4,2630,away,FALSE,UT Martin,75,Skyhawks,UT Martin Skyhawks,UT Martin
+401582324,2024,regular-season,2023-12-28,4,227,home,FALSE,Rhode Island,59,Rams,Rhode Island Rams,Rhode Island
+401582324,2024,regular-season,2023-12-28,4,108,away,FALSE,Harvard,56,Crimson,Harvard Crimson,Harvard
+401587350,2024,regular-season,2023-12-28,4,2635,home,FALSE,Tennessee Tech,57,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
+401587350,2024,regular-season,2023-12-28,4,2031,away,FALSE,Little Rock,59,Trojans,Little Rock Trojans,Little Rock
+401598333,2024,regular-season,2023-12-28,4,221,home,FALSE,Pittsburgh,56,Panthers,Pittsburgh Panthers,Pitt
+401598333,2024,regular-season,2023-12-28,4,2330,away,FALSE,Le Moyne,39,Dolphins,Le Moyne Dolphins,Le Moyne
+401598233,2024,regular-season,2023-12-28,4,526,home,FALSE,Florida Gulf Coast,106,Eagles,Florida Gulf Coast Eagles,FGCU
+401598233,2024,regular-season,2023-12-28,4,2691,away,FALSE,Webber International,42,Warriors,Webber International Warriors,Webber Int
+401598167,2024,regular-season,2023-12-28,4,338,home,FALSE,Kennesaw State,55,Owls,Kennesaw State Owls,Kennesaw St
+401598167,2024,regular-season,2023-12-28,4,46,away,FALSE,Georgetown,57,Hoyas,Georgetown Hoyas,Georgetown
+401584537,2024,regular-season,2023-12-28,4,150,home,FALSE,Duke,68,Blue Devils,Duke Blue Devils,Duke
+401584537,2024,regular-season,2023-12-28,4,2154,away,FALSE,Coppin State,34,Eagles,Coppin State Eagles,Coppin St
+401582243,2024,regular-season,2023-12-28,4,305,home,FALSE,DePaul,77,Blue Demons,DePaul Blue Demons,DePaul
+401582243,2024,regular-season,2023-12-28,4,2016,away,FALSE,Alcorn State,39,Lady Braves,Alcorn State Lady Braves,Alcorn St
+401595135,2024,regular-season,2023-12-28,4,2539,home,FALSE,San Francisco,67,Dons,San Francisco Dons,San Francisco
+401595135,2024,regular-season,2023-12-28,4,171,away,FALSE,Columbia,74,Lions,Columbia Lions,Columbia
+401573741,2024,regular-season,2023-12-28,4,2463,home,FALSE,Cal State Northridge,43,Matadors,Cal State Northridge Matadors,CSU Northridge
+401573741,2024,regular-season,2023-12-28,4,13,away,FALSE,Cal Poly,68,Mustangs,Cal Poly Mustangs,Cal Poly
+401573737,2024,regular-season,2023-12-28,4,27,home,FALSE,UC Riverside,52,Highlanders,UC Riverside Highlanders,UC Riverside
+401573737,2024,regular-season,2023-12-28,4,300,away,FALSE,UC Irvine,67,Anteaters,UC Irvine Anteaters,UC Irvine
+401573651,2024,regular-season,2023-12-28,4,2502,home,FALSE,Portland State,58,Vikings,Portland State Vikings,Portland St
+401573651,2024,regular-season,2023-12-28,4,331,away,FALSE,Eastern Washington,68,Eagles,Eastern Washington Eagles,E Washington
+401573652,2024,regular-season,2023-12-28,4,16,home,FALSE,Sacramento State,51,Hornets,Sacramento State Hornets,Sacramento St
+401573652,2024,regular-season,2023-12-28,4,70,away,FALSE,Idaho,88,Vandals,Idaho Vandals,Idaho
+401573740,2024,regular-season,2023-12-28,4,2934,home,FALSE,Cal State Bakersfield,52,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+401573740,2024,regular-season,2023-12-28,4,28,away,FALSE,UC San Diego,48,Tritons,UC San Diego Tritons,UC San Diego
+401573739,2024,regular-season,2023-12-28,4,2540,home,FALSE,UC Santa Barbara,60,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+401573739,2024,regular-season,2023-12-28,4,302,away,FALSE,UC Davis,49,Aggies,UC Davis Aggies,UC Davis
+401573738,2024,regular-season,2023-12-28,4,299,home,FALSE,Long Beach State,61,Beach,Long Beach State Beach,Long Beach St
+401573738,2024,regular-season,2023-12-28,4,2239,away,FALSE,Cal State Fullerton,67,Titans,Cal State Fullerton Titans,Fullerton

@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400594919,2015-02-19,2,8,home,FALSE,Arkansas,56,Razorbacks,Arkansas Razorbacks,Arkansas
-400594919,2015-02-19,2,2579,away,FALSE,South Carolina,73,Gamecocks,South Carolina Gamecocks,South Carolina
-400593154,2015-02-19,2,59,home,FALSE,Georgia Tech,61,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-400593154,2015-02-19,2,87,away,FALSE,Notre Dame,71,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400596745,2015-02-19,2,275,home,FALSE,Wisconsin,70,Badgers,Wisconsin Badgers,Wisconsin
-400596745,2015-02-19,2,120,away,FALSE,Maryland,81,Terrapins,Maryland Terrapins,Maryland
-400594898,2015-02-19,2,2633,home,FALSE,Tennessee,77,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400594898,2015-02-19,2,333,away,FALSE,Alabama,56,Crimson Tide,Alabama Crimson Tide,Alabama
-400593156,2015-02-19,2,259,home,FALSE,Virginia Tech,49,Hokies,Virginia Tech Hokies,Virginia Tech
-400593156,2015-02-19,2,97,away,FALSE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
-400593160,2015-02-19,2,52,home,FALSE,Florida State,81,Seminoles,Florida State Seminoles,Florida St
-400593160,2015-02-19,2,228,away,FALSE,Clemson,38,Tigers,Clemson Tigers,Clemson
-400594992,2015-02-19,2,96,home,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
-400594992,2015-02-19,2,245,away,FALSE,Texas A&M,81,Aggies,Texas A&M Aggies,Texas A&M
-400593155,2015-02-19,2,153,home,FALSE,North Carolina,83,Tar Heels,North Carolina Tar Heels,North Carolina
-400593155,2015-02-19,2,154,away,FALSE,Wake Forest,45,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-400588936,2015-02-19,2,338,home,FALSE,Kennesaw State,60,Owls,Kennesaw State Owls,Kennesaw St
-400588936,2015-02-19,2,526,away,FALSE,Florida Gulf Coast,71,Eagles,Florida Gulf Coast Eagles,FGCU
-400598972,2015-02-19,2,350,home,FALSE,UNC Wilmington,49,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
-400598972,2015-02-19,2,256,away,FALSE,James Madison,85,Dukes,James Madison Dukes,James Madison
-400593157,2015-02-19,2,183,home,FALSE,Syracuse,73,Orange,Syracuse Orange,Syracuse
-400593157,2015-02-19,2,103,away,FALSE,Boston College,51,Eagles,Boston College Eagles,Boston College
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400594919,2015,regular-season,2015-02-19,2,8,home,FALSE,Arkansas,56,Razorbacks,Arkansas Razorbacks,Arkansas
+400594919,2015,regular-season,2015-02-19,2,2579,away,FALSE,South Carolina,73,Gamecocks,South Carolina Gamecocks,South Carolina
+400593154,2015,regular-season,2015-02-19,2,59,home,FALSE,Georgia Tech,61,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+400593154,2015,regular-season,2015-02-19,2,87,away,FALSE,Notre Dame,71,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400596745,2015,regular-season,2015-02-19,2,275,home,FALSE,Wisconsin,70,Badgers,Wisconsin Badgers,Wisconsin
+400596745,2015,regular-season,2015-02-19,2,120,away,FALSE,Maryland,81,Terrapins,Maryland Terrapins,Maryland
+400594898,2015,regular-season,2015-02-19,2,2633,home,FALSE,Tennessee,77,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400594898,2015,regular-season,2015-02-19,2,333,away,FALSE,Alabama,56,Crimson Tide,Alabama Crimson Tide,Alabama
+400593156,2015,regular-season,2015-02-19,2,259,home,FALSE,Virginia Tech,49,Hokies,Virginia Tech Hokies,Virginia Tech
+400593156,2015,regular-season,2015-02-19,2,97,away,FALSE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
+400593160,2015,regular-season,2015-02-19,2,52,home,FALSE,Florida State,81,Seminoles,Florida State Seminoles,Florida St
+400593160,2015,regular-season,2015-02-19,2,228,away,FALSE,Clemson,38,Tigers,Clemson Tigers,Clemson
+400594992,2015,regular-season,2015-02-19,2,96,home,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
+400594992,2015,regular-season,2015-02-19,2,245,away,FALSE,Texas A&M,81,Aggies,Texas A&M Aggies,Texas A&M
+400593155,2015,regular-season,2015-02-19,2,153,home,FALSE,North Carolina,83,Tar Heels,North Carolina Tar Heels,North Carolina
+400593155,2015,regular-season,2015-02-19,2,154,away,FALSE,Wake Forest,45,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+400588936,2015,regular-season,2015-02-19,2,338,home,FALSE,Kennesaw State,60,Owls,Kennesaw State Owls,Kennesaw St
+400588936,2015,regular-season,2015-02-19,2,526,away,FALSE,Florida Gulf Coast,71,Eagles,Florida Gulf Coast Eagles,FGCU
+400598972,2015,regular-season,2015-02-19,2,350,home,FALSE,UNC Wilmington,49,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+400598972,2015,regular-season,2015-02-19,2,256,away,FALSE,James Madison,85,Dukes,James Madison Dukes,James Madison
+400593157,2015,regular-season,2015-02-19,2,183,home,FALSE,Syracuse,73,Orange,Syracuse Orange,Syracuse
+400593157,2015,regular-season,2015-02-19,2,103,away,FALSE,Boston College,51,Eagles,Boston College Eagles,Boston College

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330430127,2013-02-12,2,127,home,FALSE,Michigan State,75,Spartans,Michigan State Spartans,Michigan St
-330430127,2013-02-12,2,130,away,FALSE,Michigan,52,Wolverines,Michigan Wolverines,Michigan
-330430057,2013-02-12,2,57,home,FALSE,Florida,69,Gators,Florida Gators,Florida
-330430057,2013-02-12,2,96,away,FALSE,Kentucky,52,Wildcats,Kentucky Wildcats,Kentucky
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330430127,2013,regular-season,2013-02-12,2,127,home,FALSE,Michigan State,75,Spartans,Michigan State Spartans,Michigan St
+330430127,2013,regular-season,2013-02-12,2,130,away,FALSE,Michigan,52,Wolverines,Michigan Wolverines,Michigan
+330430057,2013,regular-season,2013-02-12,2,57,home,FALSE,Florida,69,Gators,Florida Gators,Florida
+330430057,2013,regular-season,2013-02-12,2,96,away,FALSE,Kentucky,52,Wildcats,Kentucky Wildcats,Kentucky

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401408370,2022-02-03,2,301,home,FALSE,San Diego,62,Toreros,San Diego Toreros,San Diego
-401408370,2022-02-03,2,2250,away,FALSE,Gonzaga,92,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401377441,2022-02-03,2,12,home,FALSE,Arizona,76,Wildcats,Arizona Wildcats,Arizona
-401377441,2022-02-03,2,26,away,FALSE,UCLA,66,Bruins,UCLA Bruins,UCLA
-401377442,2022-02-03,2,9,home,FALSE,Arizona State,53,Sun Devils,Arizona State Sun Devils,Arizona St
-401377442,2022-02-03,2,30,away,FALSE,USC,58,Trojans,USC Trojans,USC
-401364419,2022-02-03,0,194,home,FALSE,Ohio State,0,Buckeyes,Ohio State Buckeyes,Ohio State
-401364419,2022-02-03,0,2294,away,FALSE,Iowa,0,Hawkeyes,Iowa Hawkeyes,Iowa
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401408370,2022,regular-season,2022-02-03,2,301,home,FALSE,San Diego,62,Toreros,San Diego Toreros,San Diego
+401408370,2022,regular-season,2022-02-03,2,2250,away,FALSE,Gonzaga,92,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401377441,2022,regular-season,2022-02-03,2,12,home,FALSE,Arizona,76,Wildcats,Arizona Wildcats,Arizona
+401377441,2022,regular-season,2022-02-03,2,26,away,FALSE,UCLA,66,Bruins,UCLA Bruins,UCLA
+401377442,2022,regular-season,2022-02-03,2,9,home,FALSE,Arizona State,53,Sun Devils,Arizona State Sun Devils,Arizona St
+401377442,2022,regular-season,2022-02-03,2,30,away,FALSE,USC,58,Trojans,USC Trojans,USC
+401364419,2022,regular-season,2022-02-03,0,194,home,FALSE,Ohio State,0,Buckeyes,Ohio State Buckeyes,Ohio State
+401364419,2022,regular-season,2022-02-03,0,2294,away,FALSE,Iowa,0,Hawkeyes,Iowa Hawkeyes,Iowa

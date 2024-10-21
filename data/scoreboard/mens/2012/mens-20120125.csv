@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320250197,2012-01-25,2,197,home,FALSE,Oklahoma State,79,Cowboys,Oklahoma State Cowboys,Oklahoma St
-320250197,2012-01-25,2,142,away,FALSE,Missouri,72,Tigers,Missouri Tigers,Missouri
-320250194,2012-01-25,2,194,home,FALSE,Ohio State,78,Buckeyes,Ohio State Buckeyes,Ohio State
-320250194,2012-01-25,2,213,away,FALSE,Penn State,54,Nittany Lions,Penn State Nittany Lions,Penn State
-320250120,2012-01-25,2,120,home,FALSE,Maryland,61,Terrapins,Maryland Terrapins,Maryland
-320250120,2012-01-25,2,150,away,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
-320250127,2012-01-25,2,127,home,FALSE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St
-320250127,2012-01-25,2,135,away,FALSE,Minnesota,52,Golden Gophers,Minnesota Golden Gophers,Minnesota
-320250068,2012-01-25,3,68,home,FALSE,Boise State,72,Broncos,Boise State Broncos,Boise St
-320250068,2012-01-25,3,2439,away,FALSE,UNLV,77,Rebels,UNLV Rebels,UNLV
-320252181,2012-01-25,2,2181,home,FALSE,Drake,69,Bulldogs,Drake Bulldogs,Drake
-320252181,2012-01-25,2,156,away,FALSE,Creighton,77,Bluejays,Creighton Bluejays,Creighton
-320250344,2012-01-25,2,344,home,FALSE,Mississippi State,76,Bulldogs,Mississippi State Bulldogs,Mississippi St
-320250344,2012-01-25,2,99,away,FALSE,LSU,71,Tigers,LSU Tigers,LSU
-320252641,2012-01-25,2,2641,home,FALSE,Texas Tech,47,Red Raiders,Texas Tech Red Raiders,Texas Tech
-320252641,2012-01-25,2,2306,away,FALSE,Kansas State,69,Wildcats,Kansas State Wildcats,Kansas St
-320250154,2012-01-25,2,154,home,FALSE,Wake Forest,52,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-320250154,2012-01-25,2,52,away,FALSE,Florida State,75,Seminoles,Florida State Seminoles,Florida St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320250197,2012,regular-season,2012-01-25,2,197,home,FALSE,Oklahoma State,79,Cowboys,Oklahoma State Cowboys,Oklahoma St
+320250197,2012,regular-season,2012-01-25,2,142,away,FALSE,Missouri,72,Tigers,Missouri Tigers,Missouri
+320250194,2012,regular-season,2012-01-25,2,194,home,FALSE,Ohio State,78,Buckeyes,Ohio State Buckeyes,Ohio State
+320250194,2012,regular-season,2012-01-25,2,213,away,FALSE,Penn State,54,Nittany Lions,Penn State Nittany Lions,Penn State
+320250120,2012,regular-season,2012-01-25,2,120,home,FALSE,Maryland,61,Terrapins,Maryland Terrapins,Maryland
+320250120,2012,regular-season,2012-01-25,2,150,away,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
+320250127,2012,regular-season,2012-01-25,2,127,home,FALSE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St
+320250127,2012,regular-season,2012-01-25,2,135,away,FALSE,Minnesota,52,Golden Gophers,Minnesota Golden Gophers,Minnesota
+320250068,2012,regular-season,2012-01-25,3,68,home,FALSE,Boise State,72,Broncos,Boise State Broncos,Boise St
+320250068,2012,regular-season,2012-01-25,3,2439,away,FALSE,UNLV,77,Rebels,UNLV Rebels,UNLV
+320252181,2012,regular-season,2012-01-25,2,2181,home,FALSE,Drake,69,Bulldogs,Drake Bulldogs,Drake
+320252181,2012,regular-season,2012-01-25,2,156,away,FALSE,Creighton,77,Bluejays,Creighton Bluejays,Creighton
+320250344,2012,regular-season,2012-01-25,2,344,home,FALSE,Mississippi State,76,Bulldogs,Mississippi State Bulldogs,Mississippi St
+320250344,2012,regular-season,2012-01-25,2,99,away,FALSE,LSU,71,Tigers,LSU Tigers,LSU
+320252641,2012,regular-season,2012-01-25,2,2641,home,FALSE,Texas Tech,47,Red Raiders,Texas Tech Red Raiders,Texas Tech
+320252641,2012,regular-season,2012-01-25,2,2306,away,FALSE,Kansas State,69,Wildcats,Kansas State Wildcats,Kansas St
+320250154,2012,regular-season,2012-01-25,2,154,home,FALSE,Wake Forest,52,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+320250154,2012,regular-season,2012-01-25,2,52,away,FALSE,Florida State,75,Seminoles,Florida State Seminoles,Florida St

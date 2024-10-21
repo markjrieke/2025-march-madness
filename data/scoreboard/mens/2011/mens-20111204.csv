@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313380077,2011-12-04,2,77,home,FALSE,Northwestern,41,Wildcats,Northwestern Wildcats,Northwestern
-313380077,2011-12-04,2,239,away,FALSE,Baylor,69,Bears,Baylor Bears,Baylor
-313382724,2011-12-04,2,2724,home,FALSE,Wichita State,89,Shockers,Wichita State Shockers,Wichita St
-313382724,2011-12-04,2,2439,away,FALSE,UNLV,70,Rebels,UNLV Rebels,UNLV
-313380021,2011-12-04,2,21,home,FALSE,San Diego State,64,Aztecs,San Diego State Aztecs,San Diego St
-313380021,2011-12-04,2,25,away,FALSE,California,63,Golden Bears,California Golden Bears,California
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313380077,2012,regular-season,2011-12-04,2,77,home,FALSE,Northwestern,41,Wildcats,Northwestern Wildcats,Northwestern
+313380077,2012,regular-season,2011-12-04,2,239,away,FALSE,Baylor,69,Bears,Baylor Bears,Baylor
+313382724,2012,regular-season,2011-12-04,2,2724,home,FALSE,Wichita State,89,Shockers,Wichita State Shockers,Wichita St
+313382724,2012,regular-season,2011-12-04,2,2439,away,FALSE,UNLV,70,Rebels,UNLV Rebels,UNLV
+313380021,2012,regular-season,2011-12-04,2,21,home,FALSE,San Diego State,64,Aztecs,San Diego State Aztecs,San Diego St
+313380021,2012,regular-season,2011-12-04,2,25,away,FALSE,California,63,Golden Bears,California Golden Bears,California

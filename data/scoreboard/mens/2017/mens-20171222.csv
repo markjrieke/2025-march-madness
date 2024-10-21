@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400988543,2017-12-22,2,222,home,TRUE,Villanova,95,Wildcats,Villanova Wildcats,Villanova
-400988543,2017-12-22,2,2275,away,TRUE,Hofstra,71,Pride,Hofstra Pride,Hofstra
-400986939,2017-12-22,2,9,home,FALSE,Arizona State,104,Sun Devils,Arizona State Sun Devils,Arizona St
-400986939,2017-12-22,2,279,away,FALSE,Pacific,65,Tigers,Pacific Tigers,Pacific
-400988544,2017-12-22,2,2460,home,FALSE,Northern Iowa,67,Panthers,Northern Iowa Panthers,Northern Iowa
-400988544,2017-12-22,2,2752,away,FALSE,Xavier,77,Musketeers,Xavier Musketeers,Xavier
-400988034,2017-12-22,2,2724,home,FALSE,Wichita State,75,Shockers,Wichita State Shockers,Wichita St
-400988034,2017-12-22,2,526,away,FALSE,Florida Gulf Coast,65,Eagles,Florida Gulf Coast Eagles,FGCU
-400986651,2017-12-22,2,258,home,FALSE,Virginia,82,Cavaliers,Virginia Cavaliers,Virginia
-400986651,2017-12-22,2,2261,away,FALSE,Hampton,48,Pirates,Hampton Pirates,Hampton
-400989249,2017-12-22,2,2628,home,FALSE,TCU,86,Horned Frogs,TCU Horned Frogs,TCU
-400989249,2017-12-22,2,2729,away,FALSE,William & Mary,75,Tribe,William & Mary Tribe,William & Mary
-400986459,2017-12-22,2,201,home,FALSE,Oklahoma,104,Sooners,Oklahoma Sooners,Oklahoma
-400986459,2017-12-22,2,77,away,FALSE,Northwestern,78,Wildcats,Northwestern Wildcats,Northwestern
-400988992,2017-12-22,2,2641,home,FALSE,Texas Tech,74,Red Raiders,Texas Tech Red Raiders,Texas Tech
-400988992,2017-12-22,2,2000,away,FALSE,Abilene Christian,47,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400988543,2018,regular-season,2017-12-22,2,222,home,TRUE,Villanova,95,Wildcats,Villanova Wildcats,Villanova
+400988543,2018,regular-season,2017-12-22,2,2275,away,TRUE,Hofstra,71,Pride,Hofstra Pride,Hofstra
+400986939,2018,regular-season,2017-12-22,2,9,home,FALSE,Arizona State,104,Sun Devils,Arizona State Sun Devils,Arizona St
+400986939,2018,regular-season,2017-12-22,2,279,away,FALSE,Pacific,65,Tigers,Pacific Tigers,Pacific
+400988544,2018,regular-season,2017-12-22,2,2460,home,FALSE,Northern Iowa,67,Panthers,Northern Iowa Panthers,Northern Iowa
+400988544,2018,regular-season,2017-12-22,2,2752,away,FALSE,Xavier,77,Musketeers,Xavier Musketeers,Xavier
+400988034,2018,regular-season,2017-12-22,2,2724,home,FALSE,Wichita State,75,Shockers,Wichita State Shockers,Wichita St
+400988034,2018,regular-season,2017-12-22,2,526,away,FALSE,Florida Gulf Coast,65,Eagles,Florida Gulf Coast Eagles,FGCU
+400986651,2018,regular-season,2017-12-22,2,258,home,FALSE,Virginia,82,Cavaliers,Virginia Cavaliers,Virginia
+400986651,2018,regular-season,2017-12-22,2,2261,away,FALSE,Hampton,48,Pirates,Hampton Pirates,Hampton
+400989249,2018,regular-season,2017-12-22,2,2628,home,FALSE,TCU,86,Horned Frogs,TCU Horned Frogs,TCU
+400989249,2018,regular-season,2017-12-22,2,2729,away,FALSE,William & Mary,75,Tribe,William & Mary Tribe,William & Mary
+400986459,2018,regular-season,2017-12-22,2,201,home,FALSE,Oklahoma,104,Sooners,Oklahoma Sooners,Oklahoma
+400986459,2018,regular-season,2017-12-22,2,77,away,FALSE,Northwestern,78,Wildcats,Northwestern Wildcats,Northwestern
+400988992,2018,regular-season,2017-12-22,2,2641,home,FALSE,Texas Tech,74,Red Raiders,Texas Tech Red Raiders,Texas Tech
+400988992,2018,regular-season,2017-12-22,2,2000,away,FALSE,Abilene Christian,47,Wildcats,Abilene Christian Wildcats,Abilene Chrstn

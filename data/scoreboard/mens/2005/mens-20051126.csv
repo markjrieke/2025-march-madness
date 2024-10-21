@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253300251,2005-11-26,2,251,home,FALSE,Texas,90,Longhorns,Texas Longhorns,Texas
-253300251,2005-11-26,2,2433,away,FALSE,UL Monroe,55,Warhawks,UL Monroe Warhawks,UL Monroe
-253300201,2005-11-26,2,201,home,FALSE,Oklahoma,81,Sooners,Oklahoma Sooners,Oklahoma
-253300201,2005-11-26,2,2057,away,FALSE,Belmont,59,Bruins,Belmont Bruins,Belmont
-253300197,2005-11-26,2,197,home,FALSE,Oklahoma State,68,Cowboys,Oklahoma State Cowboys,Oklahoma St
-253300197,2005-11-26,2,103,away,FALSE,Boston College,76,Eagles,Boston College Eagles,Boston College
-253300277,2005-11-26,3,277,home,FALSE,West Virginia,68,Mountaineers,West Virginia Mountaineers,West Virginia
-253300277,2005-11-26,3,99,away,FALSE,LSU,71,Tigers,LSU Tigers,LSU
-253300356,2005-11-26,2,356,home,FALSE,Illinois,77,Fighting Illini,Illinois Fighting Illini,Illinois
-253300356,2005-11-26,2,164,away,FALSE,Rutgers,57,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-253302294,2005-11-26,2,2294,home,FALSE,Iowa,79,Hawkeyes,Iowa Hawkeyes,Iowa
-253302294,2005-11-26,2,2636,away,FALSE,UTSA,46,Roadrunners,UTSA Roadrunners,UTSA
-253302710,2005-11-26,2,2710,home,FALSE,Western Illinois,79,Leathernecks,Western Illinois Leathernecks,W Illinois
-253302710,2005-11-26,2,84,away,FALSE,Indiana,102,Hoosiers,Indiana Hoosiers,Indiana
-253300045,2005-11-26,2,45,home,FALSE,George Washington,80,Revolutionaries,George Washington Revolutionaries,G Washington
-253300045,2005-11-26,2,2450,away,FALSE,Norfolk State,69,Spartans,Norfolk State Spartans,Norfolk St
-253302439,2005-11-26,2,2439,home,FALSE,UNLV,61,Rebels,UNLV Rebels,UNLV
-253302439,2005-11-26,2,2440,away,FALSE,Nevada,68,Wolf Pack,Nevada Wolf Pack,Nevada
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253300251,2006,regular-season,2005-11-26,2,251,home,FALSE,Texas,90,Longhorns,Texas Longhorns,Texas
+253300251,2006,regular-season,2005-11-26,2,2433,away,FALSE,UL Monroe,55,Warhawks,UL Monroe Warhawks,UL Monroe
+253300201,2006,regular-season,2005-11-26,2,201,home,FALSE,Oklahoma,81,Sooners,Oklahoma Sooners,Oklahoma
+253300201,2006,regular-season,2005-11-26,2,2057,away,FALSE,Belmont,59,Bruins,Belmont Bruins,Belmont
+253300197,2006,regular-season,2005-11-26,2,197,home,FALSE,Oklahoma State,68,Cowboys,Oklahoma State Cowboys,Oklahoma St
+253300197,2006,regular-season,2005-11-26,2,103,away,FALSE,Boston College,76,Eagles,Boston College Eagles,Boston College
+253300277,2006,regular-season,2005-11-26,3,277,home,FALSE,West Virginia,68,Mountaineers,West Virginia Mountaineers,West Virginia
+253300277,2006,regular-season,2005-11-26,3,99,away,FALSE,LSU,71,Tigers,LSU Tigers,LSU
+253300356,2006,regular-season,2005-11-26,2,356,home,FALSE,Illinois,77,Fighting Illini,Illinois Fighting Illini,Illinois
+253300356,2006,regular-season,2005-11-26,2,164,away,FALSE,Rutgers,57,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+253302294,2006,regular-season,2005-11-26,2,2294,home,FALSE,Iowa,79,Hawkeyes,Iowa Hawkeyes,Iowa
+253302294,2006,regular-season,2005-11-26,2,2636,away,FALSE,UTSA,46,Roadrunners,UTSA Roadrunners,UTSA
+253302710,2006,regular-season,2005-11-26,2,2710,home,FALSE,Western Illinois,79,Leathernecks,Western Illinois Leathernecks,W Illinois
+253302710,2006,regular-season,2005-11-26,2,84,away,FALSE,Indiana,102,Hoosiers,Indiana Hoosiers,Indiana
+253300045,2006,regular-season,2005-11-26,2,45,home,FALSE,George Washington,80,Revolutionaries,George Washington Revolutionaries,G Washington
+253300045,2006,regular-season,2005-11-26,2,2450,away,FALSE,Norfolk State,69,Spartans,Norfolk State Spartans,Norfolk St
+253302439,2006,regular-season,2005-11-26,2,2439,home,FALSE,UNLV,61,Rebels,UNLV Rebels,UNLV
+253302439,2006,regular-season,2005-11-26,2,2440,away,FALSE,Nevada,68,Wolf Pack,Nevada Wolf Pack,Nevada

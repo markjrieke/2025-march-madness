@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400590502,2015-01-31,2,204,home,FALSE,Oregon State,68,Beavers,Oregon State Beavers,Oregon St
-400590502,2015-01-31,2,30,away,FALSE,USC,35,Trojans,USC Trojans,USC
-400590500,2015-01-31,2,24,home,FALSE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
-400590500,2015-01-31,2,265,away,FALSE,Washington State,56,Cougars,Washington State Cougars,Washington St
-400602868,2015-01-31,2,159,home,FALSE,Dartmouth,65,Big Green,Dartmouth Big Green,Dartmouth
-400602868,2015-01-31,2,163,away,FALSE,Princeton,83,Tigers,Princeton Tigers,Princeton
-400595854,2015-01-31,2,236,home,FALSE,Chattanooga,71,Mocs,Chattanooga Mocs,Chattanooga
-400595854,2015-01-31,2,2382,away,FALSE,Mercer,59,Bears,Mercer Bears,Mercer
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400590502,2015,regular-season,2015-01-31,2,204,home,FALSE,Oregon State,68,Beavers,Oregon State Beavers,Oregon St
+400590502,2015,regular-season,2015-01-31,2,30,away,FALSE,USC,35,Trojans,USC Trojans,USC
+400590500,2015,regular-season,2015-01-31,2,24,home,FALSE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
+400590500,2015,regular-season,2015-01-31,2,265,away,FALSE,Washington State,56,Cougars,Washington State Cougars,Washington St
+400602868,2015,regular-season,2015-01-31,2,159,home,FALSE,Dartmouth,65,Big Green,Dartmouth Big Green,Dartmouth
+400602868,2015,regular-season,2015-01-31,2,163,away,FALSE,Princeton,83,Tigers,Princeton Tigers,Princeton
+400595854,2015,regular-season,2015-01-31,2,236,home,FALSE,Chattanooga,71,Mocs,Chattanooga Mocs,Chattanooga
+400595854,2015,regular-season,2015-01-31,2,2382,away,FALSE,Mercer,59,Bears,Mercer Bears,Mercer

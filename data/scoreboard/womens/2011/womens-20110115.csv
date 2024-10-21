@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310150239,2011-01-15,2,239,home,FALSE,Baylor,70,Bears,Baylor Bears,Baylor
-310150239,2011-01-15,2,197,away,FALSE,Oklahoma State,39,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-310150041,2011-01-15,2,41,home,FALSE,UConn,78,Huskies,UConn Huskies,UConn
-310150041,2011-01-15,2,97,away,FALSE,Louisville,55,Cardinals,Louisville Cardinals,Louisville
-310152633,2011-01-15,2,2633,home,FALSE,Tennessee,68,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-310152633,2011-01-15,2,238,away,FALSE,Vanderbilt,56,Commodores,Vanderbilt Commodores,Vanderbilt
-310150277,2011-01-15,2,277,home,FALSE,West Virginia,70,Mountaineers,West Virginia Mountaineers,West Virginia
-310150277,2011-01-15,2,183,away,FALSE,Syracuse,61,Orange,Syracuse Orange,Syracuse
-310150142,2011-01-15,2,142,home,FALSE,Missouri,40,Tigers,Missouri Tigers,Missouri
-310150142,2011-01-15,2,245,away,FALSE,Texas A&M,85,Aggies,Texas A&M Aggies,Texas A&M
-310150026,2011-01-15,2,26,home,FALSE,UCLA,87,Bruins,UCLA Bruins,UCLA
-310150026,2011-01-15,2,2483,away,FALSE,Oregon,57,Ducks,Oregon Ducks,Oregon
-310150221,2011-01-15,2,221,home,FALSE,Pittsburgh,50,Panthers,Pittsburgh Panthers,Pitt
-310150221,2011-01-15,2,87,away,FALSE,Notre Dame,82,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-310150038,2011-01-15,3,38,home,FALSE,Colorado,66,Buffaloes,Colorado Buffaloes,Colorado
-310150038,2011-01-15,3,66,away,FALSE,Iowa State,60,Cyclones,Iowa State Cyclones,Iowa State
-310152507,2011-01-15,2,2507,home,FALSE,Providence,45,Friars,Providence Friars,Providence
-310152507,2011-01-15,2,46,away,FALSE,Georgetown,49,Hoyas,Georgetown Hoyas,Georgetown
-310152739,2011-01-15,2,2739,home,FALSE,Green Bay,60,Phoenix,Green Bay Phoenix,Green Bay
-310152739,2011-01-15,2,82,away,FALSE,UIC,51,Flames,UIC Flames,UIC
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310150239,2011,regular-season,2011-01-15,2,239,home,FALSE,Baylor,70,Bears,Baylor Bears,Baylor
+310150239,2011,regular-season,2011-01-15,2,197,away,FALSE,Oklahoma State,39,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+310150041,2011,regular-season,2011-01-15,2,41,home,FALSE,UConn,78,Huskies,UConn Huskies,UConn
+310150041,2011,regular-season,2011-01-15,2,97,away,FALSE,Louisville,55,Cardinals,Louisville Cardinals,Louisville
+310152633,2011,regular-season,2011-01-15,2,2633,home,FALSE,Tennessee,68,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+310152633,2011,regular-season,2011-01-15,2,238,away,FALSE,Vanderbilt,56,Commodores,Vanderbilt Commodores,Vanderbilt
+310150277,2011,regular-season,2011-01-15,2,277,home,FALSE,West Virginia,70,Mountaineers,West Virginia Mountaineers,West Virginia
+310150277,2011,regular-season,2011-01-15,2,183,away,FALSE,Syracuse,61,Orange,Syracuse Orange,Syracuse
+310150142,2011,regular-season,2011-01-15,2,142,home,FALSE,Missouri,40,Tigers,Missouri Tigers,Missouri
+310150142,2011,regular-season,2011-01-15,2,245,away,FALSE,Texas A&M,85,Aggies,Texas A&M Aggies,Texas A&M
+310150026,2011,regular-season,2011-01-15,2,26,home,FALSE,UCLA,87,Bruins,UCLA Bruins,UCLA
+310150026,2011,regular-season,2011-01-15,2,2483,away,FALSE,Oregon,57,Ducks,Oregon Ducks,Oregon
+310150221,2011,regular-season,2011-01-15,2,221,home,FALSE,Pittsburgh,50,Panthers,Pittsburgh Panthers,Pitt
+310150221,2011,regular-season,2011-01-15,2,87,away,FALSE,Notre Dame,82,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+310150038,2011,regular-season,2011-01-15,3,38,home,FALSE,Colorado,66,Buffaloes,Colorado Buffaloes,Colorado
+310150038,2011,regular-season,2011-01-15,3,66,away,FALSE,Iowa State,60,Cyclones,Iowa State Cyclones,Iowa State
+310152507,2011,regular-season,2011-01-15,2,2507,home,FALSE,Providence,45,Friars,Providence Friars,Providence
+310152507,2011,regular-season,2011-01-15,2,46,away,FALSE,Georgetown,49,Hoyas,Georgetown Hoyas,Georgetown
+310152739,2011,regular-season,2011-01-15,2,2739,home,FALSE,Green Bay,60,Phoenix,Green Bay Phoenix,Green Bay
+310152739,2011,regular-season,2011-01-15,2,82,away,FALSE,UIC,51,Flames,UIC Flames,UIC

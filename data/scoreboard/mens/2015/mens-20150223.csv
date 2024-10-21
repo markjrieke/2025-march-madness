@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400585852,2015-02-23,2,2306,home,FALSE,Kansas State,70,Wildcats,Kansas State Wildcats,Kansas St
-400585852,2015-02-23,2,2305,away,FALSE,Kansas,63,Jayhawks,Kansas Jayhawks,Kansas
-400587997,2015-02-23,2,59,home,FALSE,Georgia Tech,51,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-400587997,2015-02-23,2,97,away,FALSE,Louisville,52,Cardinals,Louisville Cardinals,Louisville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400585852,2015,regular-season,2015-02-23,2,2306,home,FALSE,Kansas State,70,Wildcats,Kansas State Wildcats,Kansas St
+400585852,2015,regular-season,2015-02-23,2,2305,away,FALSE,Kansas,63,Jayhawks,Kansas Jayhawks,Kansas
+400587997,2015,regular-season,2015-02-23,2,59,home,FALSE,Georgia Tech,51,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+400587997,2015,regular-season,2015-02-23,2,97,away,FALSE,Louisville,52,Cardinals,Louisville Cardinals,Louisville

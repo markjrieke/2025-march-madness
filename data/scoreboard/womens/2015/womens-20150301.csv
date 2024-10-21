@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400594994,2015-03-01,2,96,home,FALSE,Kentucky,67,Wildcats,Kentucky Wildcats,Kentucky
-400594994,2015-03-01,2,2579,away,FALSE,South Carolina,56,Gamecocks,South Carolina Gamecocks,South Carolina
-400593178,2015-03-01,2,152,home,FALSE,NC State,60,Wolfpack,NC State Wolfpack,NC State
-400593178,2015-03-01,2,87,away,FALSE,Notre Dame,67,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400596766,2015-03-01,2,77,home,FALSE,Northwestern,48,Wildcats,Northwestern Wildcats,Northwestern
-400596766,2015-03-01,2,120,away,FALSE,Maryland,69,Terrapins,Maryland Terrapins,Maryland
-400595057,2015-03-01,2,2633,home,FALSE,Tennessee,79,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400595057,2015-03-01,2,238,away,FALSE,Vanderbilt,49,Commodores,Vanderbilt Commodores,Vanderbilt
-400593176,2015-03-01,2,258,home,FALSE,Virginia,75,Cavaliers,Virginia Cavaliers,Virginia
-400593176,2015-03-01,2,97,away,FALSE,Louisville,59,Cardinals,Louisville Cardinals,Louisville
-400593181,2015-03-01,2,2390,home,FALSE,Miami,55,Hurricanes,Miami Hurricanes,Miami
-400593181,2015-03-01,2,52,away,FALSE,Florida State,69,Seminoles,Florida State Seminoles,Florida St
-400590556,2015-03-01,2,9,home,FALSE,Arizona State,59,Sun Devils,Arizona State Sun Devils,Arizona St
-400590556,2015-03-01,2,38,away,FALSE,Colorado,46,Buffaloes,Colorado Buffaloes,Colorado
-400595026,2015-03-01,2,344,home,FALSE,Mississippi State,55,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400595026,2015-03-01,2,145,away,FALSE,Ole Miss,47,Rebels,Ole Miss Rebels,Ole Miss
-400595011,2015-03-01,2,99,home,FALSE,LSU,80,Tigers,LSU Tigers,LSU
-400595011,2015-03-01,2,245,away,FALSE,Texas A&M,63,Aggies,Texas A&M Aggies,Texas A&M
-400593180,2015-03-01,2,150,home,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
-400593180,2015-03-01,2,153,away,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
-400596765,2015-03-01,2,2294,home,FALSE,Iowa,92,Hawkeyes,Iowa Hawkeyes,Iowa
-400596765,2015-03-01,2,135,away,FALSE,Minnesota,76,Golden Gophers,Minnesota Golden Gophers,Minnesota
-400590554,2015-03-01,2,2483,home,FALSE,Oregon,62,Ducks,Oregon Ducks,Oregon
-400590554,2015-03-01,2,24,away,FALSE,Stanford,55,Cardinal,Stanford Cardinal,Stanford
-400596764,2015-03-01,2,164,home,FALSE,Rutgers,71,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400596764,2015-03-01,2,84,away,FALSE,Indiana,60,Hoosiers,Indiana Hoosiers,Indiana
-400592909,2015-03-01,2,45,home,FALSE,George Washington,80,Revolutionaries,George Washington Revolutionaries,G Washington
-400592909,2015-03-01,2,2244,away,FALSE,George Mason,45,Patriots,George Mason Patriots,George Mason
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400594994,2015,regular-season,2015-03-01,2,96,home,FALSE,Kentucky,67,Wildcats,Kentucky Wildcats,Kentucky
+400594994,2015,regular-season,2015-03-01,2,2579,away,FALSE,South Carolina,56,Gamecocks,South Carolina Gamecocks,South Carolina
+400593178,2015,regular-season,2015-03-01,2,152,home,FALSE,NC State,60,Wolfpack,NC State Wolfpack,NC State
+400593178,2015,regular-season,2015-03-01,2,87,away,FALSE,Notre Dame,67,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400596766,2015,regular-season,2015-03-01,2,77,home,FALSE,Northwestern,48,Wildcats,Northwestern Wildcats,Northwestern
+400596766,2015,regular-season,2015-03-01,2,120,away,FALSE,Maryland,69,Terrapins,Maryland Terrapins,Maryland
+400595057,2015,regular-season,2015-03-01,2,2633,home,FALSE,Tennessee,79,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400595057,2015,regular-season,2015-03-01,2,238,away,FALSE,Vanderbilt,49,Commodores,Vanderbilt Commodores,Vanderbilt
+400593176,2015,regular-season,2015-03-01,2,258,home,FALSE,Virginia,75,Cavaliers,Virginia Cavaliers,Virginia
+400593176,2015,regular-season,2015-03-01,2,97,away,FALSE,Louisville,59,Cardinals,Louisville Cardinals,Louisville
+400593181,2015,regular-season,2015-03-01,2,2390,home,FALSE,Miami,55,Hurricanes,Miami Hurricanes,Miami
+400593181,2015,regular-season,2015-03-01,2,52,away,FALSE,Florida State,69,Seminoles,Florida State Seminoles,Florida St
+400590556,2015,regular-season,2015-03-01,2,9,home,FALSE,Arizona State,59,Sun Devils,Arizona State Sun Devils,Arizona St
+400590556,2015,regular-season,2015-03-01,2,38,away,FALSE,Colorado,46,Buffaloes,Colorado Buffaloes,Colorado
+400595026,2015,regular-season,2015-03-01,2,344,home,FALSE,Mississippi State,55,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400595026,2015,regular-season,2015-03-01,2,145,away,FALSE,Ole Miss,47,Rebels,Ole Miss Rebels,Ole Miss
+400595011,2015,regular-season,2015-03-01,2,99,home,FALSE,LSU,80,Tigers,LSU Tigers,LSU
+400595011,2015,regular-season,2015-03-01,2,245,away,FALSE,Texas A&M,63,Aggies,Texas A&M Aggies,Texas A&M
+400593180,2015,regular-season,2015-03-01,2,150,home,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
+400593180,2015,regular-season,2015-03-01,2,153,away,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
+400596765,2015,regular-season,2015-03-01,2,2294,home,FALSE,Iowa,92,Hawkeyes,Iowa Hawkeyes,Iowa
+400596765,2015,regular-season,2015-03-01,2,135,away,FALSE,Minnesota,76,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400590554,2015,regular-season,2015-03-01,2,2483,home,FALSE,Oregon,62,Ducks,Oregon Ducks,Oregon
+400590554,2015,regular-season,2015-03-01,2,24,away,FALSE,Stanford,55,Cardinal,Stanford Cardinal,Stanford
+400596764,2015,regular-season,2015-03-01,2,164,home,FALSE,Rutgers,71,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400596764,2015,regular-season,2015-03-01,2,84,away,FALSE,Indiana,60,Hoosiers,Indiana Hoosiers,Indiana
+400592909,2015,regular-season,2015-03-01,2,45,home,FALSE,George Washington,80,Revolutionaries,George Washington Revolutionaries,G Washington
+400592909,2015,regular-season,2015-03-01,2,2244,away,FALSE,George Mason,45,Patriots,George Mason Patriots,George Mason

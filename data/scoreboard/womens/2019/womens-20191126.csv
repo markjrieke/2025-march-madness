@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401169210,2019-11-26,4,2168,home,FALSE,Dayton,37,Flyers,Dayton Flyers,Dayton
-401169210,2019-11-26,4,41,away,FALSE,UConn,75,Huskies,UConn Huskies,UConn
-401172094,2019-11-26,4,26,home,FALSE,UCLA,100,Bruins,UCLA Bruins,UCLA
-401172094,2019-11-26,4,43,away,FALSE,Yale,65,Bulldogs,Yale Bulldogs,Yale
-401166944,2019-11-26,4,57,home,FALSE,Florida,55,Gators,Florida Gators,Florida
-401166944,2019-11-26,4,52,away,FALSE,Florida State,66,Seminoles,Florida State Seminoles,Florida St
-401166970,2019-11-26,4,96,home,FALSE,Kentucky,81,Wildcats,Kentucky Wildcats,Kentucky
-401166970,2019-11-26,4,2755,away,FALSE,Grambling,35,Lady Tigers,Grambling Lady Tigers,Grambling
-401177604,2019-11-26,4,305,home,FALSE,DePaul,94,Blue Demons,DePaul Blue Demons,DePaul
-401177604,2019-11-26,4,270,away,FALSE,Milwaukee,65,Panthers,Milwaukee Panthers,Milwaukee
-401167019,2019-11-26,4,2633,home,FALSE,Tennessee,92,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401167019,2019-11-26,4,2029,away,FALSE,Arkansas-Pine Bluff,51,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401169210,2020,regular-season,2019-11-26,4,2168,home,FALSE,Dayton,37,Flyers,Dayton Flyers,Dayton
+401169210,2020,regular-season,2019-11-26,4,41,away,FALSE,UConn,75,Huskies,UConn Huskies,UConn
+401172094,2020,regular-season,2019-11-26,4,26,home,FALSE,UCLA,100,Bruins,UCLA Bruins,UCLA
+401172094,2020,regular-season,2019-11-26,4,43,away,FALSE,Yale,65,Bulldogs,Yale Bulldogs,Yale
+401166944,2020,regular-season,2019-11-26,4,57,home,FALSE,Florida,55,Gators,Florida Gators,Florida
+401166944,2020,regular-season,2019-11-26,4,52,away,FALSE,Florida State,66,Seminoles,Florida State Seminoles,Florida St
+401166970,2020,regular-season,2019-11-26,4,96,home,FALSE,Kentucky,81,Wildcats,Kentucky Wildcats,Kentucky
+401166970,2020,regular-season,2019-11-26,4,2755,away,FALSE,Grambling,35,Lady Tigers,Grambling Lady Tigers,Grambling
+401177604,2020,regular-season,2019-11-26,4,305,home,FALSE,DePaul,94,Blue Demons,DePaul Blue Demons,DePaul
+401177604,2020,regular-season,2019-11-26,4,270,away,FALSE,Milwaukee,65,Panthers,Milwaukee Panthers,Milwaukee
+401167019,2020,regular-season,2019-11-26,4,2633,home,FALSE,Tennessee,92,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401167019,2020,regular-season,2019-11-26,4,2029,away,FALSE,Arkansas-Pine Bluff,51,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff

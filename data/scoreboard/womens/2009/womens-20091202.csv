@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293360087,2009-12-02,2,87,home,FALSE,Notre Dame,69,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-293360087,2009-12-02,2,2199,away,FALSE,Eastern Michigan,59,Eagles,Eastern Michigan Eagles,E Michigan
-293360245,2009-12-02,2,245,home,FALSE,Texas A&M,106,Aggies,Texas A&M Aggies,Texas A&M
-293360245,2009-12-02,2,2617,away,FALSE,Stephen F. Austin,56,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
-293362750,2009-12-02,2,2750,home,FALSE,Wright State,46,Raiders,Wright State Raiders,Wright St
-293362750,2009-12-02,2,238,away,FALSE,Vanderbilt,63,Commodores,Vanderbilt Commodores,Vanderbilt
-293362754,2009-12-02,2,2754,home,FALSE,Youngstown State,37,Penguins,Youngstown State Penguins,Youngstown St
-293362754,2009-12-02,2,221,away,FALSE,Pittsburgh,89,Panthers,Pittsburgh Panthers,Pitt
-293362739,2009-12-02,2,2739,home,FALSE,Green Bay,79,Phoenix,Green Bay Phoenix,Green Bay
-293362739,2009-12-02,2,305,away,FALSE,DePaul,68,Blue Demons,DePaul Blue Demons,DePaul
-293360213,2009-12-02,2,213,home,FALSE,Penn State,60,Lady Lions,Penn State Lady Lions,Penn State
-293360213,2009-12-02,2,59,away,FALSE,Georgia Tech,64,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293360087,2010,regular-season,2009-12-02,2,87,home,FALSE,Notre Dame,69,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+293360087,2010,regular-season,2009-12-02,2,2199,away,FALSE,Eastern Michigan,59,Eagles,Eastern Michigan Eagles,E Michigan
+293360245,2010,regular-season,2009-12-02,2,245,home,FALSE,Texas A&M,106,Aggies,Texas A&M Aggies,Texas A&M
+293360245,2010,regular-season,2009-12-02,2,2617,away,FALSE,Stephen F. Austin,56,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
+293362750,2010,regular-season,2009-12-02,2,2750,home,FALSE,Wright State,46,Raiders,Wright State Raiders,Wright St
+293362750,2010,regular-season,2009-12-02,2,238,away,FALSE,Vanderbilt,63,Commodores,Vanderbilt Commodores,Vanderbilt
+293362754,2010,regular-season,2009-12-02,2,2754,home,FALSE,Youngstown State,37,Penguins,Youngstown State Penguins,Youngstown St
+293362754,2010,regular-season,2009-12-02,2,221,away,FALSE,Pittsburgh,89,Panthers,Pittsburgh Panthers,Pitt
+293362739,2010,regular-season,2009-12-02,2,2739,home,FALSE,Green Bay,79,Phoenix,Green Bay Phoenix,Green Bay
+293362739,2010,regular-season,2009-12-02,2,305,away,FALSE,DePaul,68,Blue Demons,DePaul Blue Demons,DePaul
+293360213,2010,regular-season,2009-12-02,2,213,home,FALSE,Penn State,60,Lady Lions,Penn State Lady Lions,Penn State
+293360213,2010,regular-season,2009-12-02,2,59,away,FALSE,Georgia Tech,64,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech

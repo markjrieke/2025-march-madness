@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310802633,2011-03-21,2,2633,home,FALSE,Tennessee,79,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-310802633,2011-03-21,2,269,away,FALSE,Marquette,70,Golden Eagles,Marquette Golden Eagles,Marquette
-310800305,2011-03-21,2,305,home,TRUE,DePaul,75,Blue Demons,DePaul Blue Demons,DePaul
-310800305,2011-03-21,2,213,away,TRUE,Penn State,73,Lady Lions,Penn State Lady Lions,Penn State
-310800150,2011-03-21,2,150,home,TRUE,Duke,71,Blue Devils,Duke Blue Devils,Duke
-310800150,2011-03-21,2,2368,away,TRUE,Marist,66,Red Foxes,Marist Red Foxes,Marist
-310800194,2011-03-21,2,194,home,TRUE,Ohio State,67,Buckeyes,Ohio State Buckeyes,Ohio State
-310800194,2011-03-21,2,59,away,TRUE,Georgia Tech,60,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-310800026,2011-03-21,2,26,home,TRUE,UCLA,75,Bruins,UCLA Bruins,UCLA
-310800026,2011-03-21,2,2250,away,TRUE,Gonzaga,89,Bulldogs,Gonzaga Bulldogs,Gonzaga
-310800087,2011-03-21,2,87,home,TRUE,Notre Dame,77,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-310800087,2011-03-21,2,218,away,TRUE,Temple,64,Owls,Temple Owls,Temple
-310800024,2011-03-21,2,24,home,TRUE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
-310800024,2011-03-21,2,2599,away,TRUE,St. John's,49,Red Storm,St. John's Red Storm,St John's
-310800096,2011-03-21,2,96,home,TRUE,Kentucky,74,Wildcats,Kentucky Wildcats,Kentucky
-310800096,2011-03-21,2,153,away,TRUE,North Carolina,86,Tar Heels,North Carolina Tar Heels,North Carolina
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310802633,2011,post-season,2011-03-21,2,2633,home,FALSE,Tennessee,79,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+310802633,2011,post-season,2011-03-21,2,269,away,FALSE,Marquette,70,Golden Eagles,Marquette Golden Eagles,Marquette
+310800305,2011,post-season,2011-03-21,2,305,home,TRUE,DePaul,75,Blue Demons,DePaul Blue Demons,DePaul
+310800305,2011,post-season,2011-03-21,2,213,away,TRUE,Penn State,73,Lady Lions,Penn State Lady Lions,Penn State
+310800150,2011,post-season,2011-03-21,2,150,home,TRUE,Duke,71,Blue Devils,Duke Blue Devils,Duke
+310800150,2011,post-season,2011-03-21,2,2368,away,TRUE,Marist,66,Red Foxes,Marist Red Foxes,Marist
+310800194,2011,post-season,2011-03-21,2,194,home,TRUE,Ohio State,67,Buckeyes,Ohio State Buckeyes,Ohio State
+310800194,2011,post-season,2011-03-21,2,59,away,TRUE,Georgia Tech,60,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+310800026,2011,post-season,2011-03-21,2,26,home,TRUE,UCLA,75,Bruins,UCLA Bruins,UCLA
+310800026,2011,post-season,2011-03-21,2,2250,away,TRUE,Gonzaga,89,Bulldogs,Gonzaga Bulldogs,Gonzaga
+310800087,2011,post-season,2011-03-21,2,87,home,TRUE,Notre Dame,77,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+310800087,2011,post-season,2011-03-21,2,218,away,TRUE,Temple,64,Owls,Temple Owls,Temple
+310800024,2011,post-season,2011-03-21,2,24,home,TRUE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
+310800024,2011,post-season,2011-03-21,2,2599,away,TRUE,St. John's,49,Red Storm,St. John's Red Storm,St John's
+310800096,2011,post-season,2011-03-21,2,96,home,TRUE,Kentucky,74,Wildcats,Kentucky Wildcats,Kentucky
+310800096,2011,post-season,2011-03-21,2,153,away,TRUE,North Carolina,86,Tar Heels,North Carolina Tar Heels,North Carolina

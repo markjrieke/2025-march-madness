@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293430127,2009-12-09,2,127,home,FALSE,Michigan State,66,Spartans,Michigan State Spartans,Michigan St
-293430127,2009-12-09,2,2752,away,FALSE,Xavier,53,Musketeers,Xavier Musketeers,Xavier
-293430009,2009-12-09,2,9,home,FALSE,Arizona State,67,Sun Devils,Arizona State Sun Devils,Arizona St
-293430009,2009-12-09,2,155,away,FALSE,North Dakota,43,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
-293432368,2009-12-09,3,2368,home,FALSE,Marist,71,Red Foxes,Marist Red Foxes,Marist
-293432368,2009-12-09,3,201,away,FALSE,Oklahoma,80,Sooners,Oklahoma Sooners,Oklahoma
-293432649,2009-12-09,2,2649,home,FALSE,Toledo,68,Rockets,Toledo Rockets,Toledo
-293432649,2009-12-09,2,2168,away,FALSE,Dayton,65,Flyers,Dayton Flyers,Dayton
-293430025,2009-12-09,2,25,home,FALSE,California,66,Golden Bears,California Golden Bears,California
-293430025,2009-12-09,2,23,away,FALSE,San José State,68,Spartans,San José State Spartans,San José St
-293430158,2009-12-09,2,158,home,FALSE,Nebraska,69,Cornhuskers,Nebraska Cornhuskers,Nebraska
-293430158,2009-12-09,2,156,away,FALSE,Creighton,56,Bluejays,Creighton Bluejays,Creighton
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293430127,2010,regular-season,2009-12-09,2,127,home,FALSE,Michigan State,66,Spartans,Michigan State Spartans,Michigan St
+293430127,2010,regular-season,2009-12-09,2,2752,away,FALSE,Xavier,53,Musketeers,Xavier Musketeers,Xavier
+293430009,2010,regular-season,2009-12-09,2,9,home,FALSE,Arizona State,67,Sun Devils,Arizona State Sun Devils,Arizona St
+293430009,2010,regular-season,2009-12-09,2,155,away,FALSE,North Dakota,43,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
+293432368,2010,regular-season,2009-12-09,3,2368,home,FALSE,Marist,71,Red Foxes,Marist Red Foxes,Marist
+293432368,2010,regular-season,2009-12-09,3,201,away,FALSE,Oklahoma,80,Sooners,Oklahoma Sooners,Oklahoma
+293432649,2010,regular-season,2009-12-09,2,2649,home,FALSE,Toledo,68,Rockets,Toledo Rockets,Toledo
+293432649,2010,regular-season,2009-12-09,2,2168,away,FALSE,Dayton,65,Flyers,Dayton Flyers,Dayton
+293430025,2010,regular-season,2009-12-09,2,25,home,FALSE,California,66,Golden Bears,California Golden Bears,California
+293430025,2010,regular-season,2009-12-09,2,23,away,FALSE,San José State,68,Spartans,San José State Spartans,San José St
+293430158,2010,regular-season,2009-12-09,2,158,home,FALSE,Nebraska,69,Cornhuskers,Nebraska Cornhuskers,Nebraska
+293430158,2010,regular-season,2009-12-09,2,156,away,FALSE,Creighton,56,Bluejays,Creighton Bluejays,Creighton

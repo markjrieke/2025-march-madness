@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273140278,2007-11-10,2,278,home,FALSE,Fresno State,79,Bulldogs,Fresno State Bulldogs,Fresno St
-273140278,2007-11-10,2,25,away,FALSE,California,83,Golden Bears,California Golden Bears,California
-273140239,2007-11-10,2,239,home,FALSE,Baylor,101,Bears,Baylor Bears,Baylor
-273140239,2007-11-10,2,2608,away,FALSE,Saint Mary's,47,Gaels,Saint Mary's Gaels,Saint Mary's
-273140012,2007-11-10,2,12,home,FALSE,Arizona,58,Wildcats,Arizona Wildcats,Arizona
-273140012,2007-11-10,2,221,away,FALSE,Pittsburgh,81,Panthers,Pittsburgh Panthers,Pitt
-273142050,2007-11-10,2,2050,home,FALSE,Ball State,62,Cardinals,Ball State Cardinals,Ball State
-273142050,2007-11-10,2,97,away,FALSE,Louisville,81,Cardinals,Louisville Cardinals,Louisville
-273140079,2007-11-10,2,79,home,FALSE,Southern Illinois,63,Salukis,Southern Illinois Salukis,S Illinois
-273140079,2007-11-10,2,305,away,FALSE,DePaul,78,Blue Demons,DePaul Blue Demons,DePaul
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273140278,2008,regular-season,2007-11-10,2,278,home,FALSE,Fresno State,79,Bulldogs,Fresno State Bulldogs,Fresno St
+273140278,2008,regular-season,2007-11-10,2,25,away,FALSE,California,83,Golden Bears,California Golden Bears,California
+273140239,2008,regular-season,2007-11-10,2,239,home,FALSE,Baylor,101,Bears,Baylor Bears,Baylor
+273140239,2008,regular-season,2007-11-10,2,2608,away,FALSE,Saint Mary's,47,Gaels,Saint Mary's Gaels,Saint Mary's
+273140012,2008,regular-season,2007-11-10,2,12,home,FALSE,Arizona,58,Wildcats,Arizona Wildcats,Arizona
+273140012,2008,regular-season,2007-11-10,2,221,away,FALSE,Pittsburgh,81,Panthers,Pittsburgh Panthers,Pitt
+273142050,2008,regular-season,2007-11-10,2,2050,home,FALSE,Ball State,62,Cardinals,Ball State Cardinals,Ball State
+273142050,2008,regular-season,2007-11-10,2,97,away,FALSE,Louisville,81,Cardinals,Louisville Cardinals,Louisville
+273140079,2008,regular-season,2007-11-10,2,79,home,FALSE,Southern Illinois,63,Salukis,Southern Illinois Salukis,S Illinois
+273140079,2008,regular-season,2007-11-10,2,305,away,FALSE,DePaul,78,Blue Demons,DePaul Blue Demons,DePaul

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401371983,2021-12-20,2,239,home,FALSE,Baylor,94,Bears,Baylor Bears,Baylor
-401371983,2021-12-20,2,2016,away,FALSE,Alcorn State,57,Braves,Alcorn State Braves,Alcorn St
-401372166,2021-12-20,2,2509,home,FALSE,Purdue,79,Boilermakers,Purdue Boilermakers,Purdue
-401372166,2021-12-20,2,2916,away,FALSE,Incarnate Word,59,Cardinals,Incarnate Word Cardinals,Incarnate Word
-401371299,2021-12-20,2,2250,home,FALSE,Gonzaga,95,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401371299,2021-12-20,2,2464,away,FALSE,Northern Arizona,49,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
-401373514,2021-12-20,0,2550,home,FALSE,Seton Hall,0,Pirates,Seton Hall Pirates,Seton Hall
-401373514,2021-12-20,0,2599,away,FALSE,St. John's,0,Red Storm,St. John's Red Storm,St John's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401371983,2022,regular-season,2021-12-20,2,239,home,FALSE,Baylor,94,Bears,Baylor Bears,Baylor
+401371983,2022,regular-season,2021-12-20,2,2016,away,FALSE,Alcorn State,57,Braves,Alcorn State Braves,Alcorn St
+401372166,2022,regular-season,2021-12-20,2,2509,home,FALSE,Purdue,79,Boilermakers,Purdue Boilermakers,Purdue
+401372166,2022,regular-season,2021-12-20,2,2916,away,FALSE,Incarnate Word,59,Cardinals,Incarnate Word Cardinals,Incarnate Word
+401371299,2022,regular-season,2021-12-20,2,2250,home,FALSE,Gonzaga,95,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401371299,2022,regular-season,2021-12-20,2,2464,away,FALSE,Northern Arizona,49,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+401373514,2022,regular-season,2021-12-20,0,2550,home,FALSE,Seton Hall,0,Pirates,Seton Hall Pirates,Seton Hall
+401373514,2022,regular-season,2021-12-20,0,2599,away,FALSE,St. John's,0,Red Storm,St. John's Red Storm,St John's

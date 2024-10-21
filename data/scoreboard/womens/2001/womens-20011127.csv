@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213310045,2001-11-27,2,45,home,FALSE,George Washington,57,Revolutionaries,George Washington Revolutionaries,G Washington
-213310045,2001-11-27,2,2633,away,FALSE,Tennessee,88,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-213310201,2001-11-27,2,201,home,FALSE,Oklahoma,76,Sooners,Oklahoma Sooners,Oklahoma
-213310201,2001-11-27,2,2628,away,FALSE,TCU,60,Horned Frogs,TCU Horned Frogs,TCU
-213310156,2001-11-27,3,156,home,FALSE,Creighton,74,Bluejays,Creighton Bluejays,Creighton
-213310156,2001-11-27,3,66,away,FALSE,Iowa State,75,Cyclones,Iowa State Cyclones,Iowa State
-213310239,2001-11-27,2,239,home,FALSE,Baylor,87,Bears,Baylor Bears,Baylor
-213310239,2001-11-27,2,2534,away,FALSE,Sam Houston,42,Bearkats,Sam Houston Bearkats,Sam Houston
-213310061,2001-11-27,2,61,home,FALSE,Georgia,77,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-213310061,2001-11-27,2,2247,away,FALSE,Georgia State,67,Panthers,Georgia State Panthers,Georgia St
-213310275,2001-11-27,2,275,home,FALSE,Wisconsin,97,Badgers,Wisconsin Badgers,Wisconsin
-213310275,2001-11-27,2,325,away,FALSE,Cleveland State,55,Vikings,Cleveland State Vikings,Cleveland St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213310045,2002,regular-season,2001-11-27,2,45,home,FALSE,George Washington,57,Revolutionaries,George Washington Revolutionaries,G Washington
+213310045,2002,regular-season,2001-11-27,2,2633,away,FALSE,Tennessee,88,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+213310201,2002,regular-season,2001-11-27,2,201,home,FALSE,Oklahoma,76,Sooners,Oklahoma Sooners,Oklahoma
+213310201,2002,regular-season,2001-11-27,2,2628,away,FALSE,TCU,60,Horned Frogs,TCU Horned Frogs,TCU
+213310156,2002,regular-season,2001-11-27,3,156,home,FALSE,Creighton,74,Bluejays,Creighton Bluejays,Creighton
+213310156,2002,regular-season,2001-11-27,3,66,away,FALSE,Iowa State,75,Cyclones,Iowa State Cyclones,Iowa State
+213310239,2002,regular-season,2001-11-27,2,239,home,FALSE,Baylor,87,Bears,Baylor Bears,Baylor
+213310239,2002,regular-season,2001-11-27,2,2534,away,FALSE,Sam Houston,42,Bearkats,Sam Houston Bearkats,Sam Houston
+213310061,2002,regular-season,2001-11-27,2,61,home,FALSE,Georgia,77,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+213310061,2002,regular-season,2001-11-27,2,2247,away,FALSE,Georgia State,67,Panthers,Georgia State Panthers,Georgia St
+213310275,2002,regular-season,2001-11-27,2,275,home,FALSE,Wisconsin,97,Badgers,Wisconsin Badgers,Wisconsin
+213310275,2002,regular-season,2001-11-27,2,325,away,FALSE,Cleveland State,55,Vikings,Cleveland State Vikings,Cleveland St

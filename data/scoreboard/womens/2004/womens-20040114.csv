@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240140066,2004-01-14,2,66,home,FALSE,Iowa State,64,Cyclones,Iowa State Cyclones,Iowa State
-240140066,2004-01-14,2,2641,away,FALSE,Texas Tech,63,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-240140239,2004-01-14,2,239,home,FALSE,Baylor,78,Bears,Baylor Bears,Baylor
-240140239,2004-01-14,2,251,away,FALSE,Texas,64,Longhorns,Texas Longhorns,Texas
-240140245,2004-01-14,3,245,home,FALSE,Texas A&M,56,Aggies,Texas A&M Aggies,Texas A&M
-240140245,2004-01-14,3,201,away,FALSE,Oklahoma,65,Sooners,Oklahoma Sooners,Oklahoma
-240140259,2004-01-14,2,259,home,FALSE,Virginia Tech,63,Hokies,Virginia Tech Hokies,Virginia Tech
-240140259,2004-01-14,2,222,away,FALSE,Villanova,50,Wildcats,Villanova Wildcats,Villanova
-240142390,2004-01-14,4,2390,home,FALSE,Miami,57,Hurricanes,Miami Hurricanes,Miami
-240142390,2004-01-14,4,46,away,FALSE,Georgetown,55,Hoyas,Georgetown Hoyas,Georgetown
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240140066,2004,regular-season,2004-01-14,2,66,home,FALSE,Iowa State,64,Cyclones,Iowa State Cyclones,Iowa State
+240140066,2004,regular-season,2004-01-14,2,2641,away,FALSE,Texas Tech,63,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+240140239,2004,regular-season,2004-01-14,2,239,home,FALSE,Baylor,78,Bears,Baylor Bears,Baylor
+240140239,2004,regular-season,2004-01-14,2,251,away,FALSE,Texas,64,Longhorns,Texas Longhorns,Texas
+240140245,2004,regular-season,2004-01-14,3,245,home,FALSE,Texas A&M,56,Aggies,Texas A&M Aggies,Texas A&M
+240140245,2004,regular-season,2004-01-14,3,201,away,FALSE,Oklahoma,65,Sooners,Oklahoma Sooners,Oklahoma
+240140259,2004,regular-season,2004-01-14,2,259,home,FALSE,Virginia Tech,63,Hokies,Virginia Tech Hokies,Virginia Tech
+240140259,2004,regular-season,2004-01-14,2,222,away,FALSE,Villanova,50,Wildcats,Villanova Wildcats,Villanova
+240142390,2004,regular-season,2004-01-14,4,2390,home,FALSE,Miami,57,Hurricanes,Miami Hurricanes,Miami
+240142390,2004,regular-season,2004-01-14,4,46,away,FALSE,Georgetown,55,Hoyas,Georgetown Hoyas,Georgetown

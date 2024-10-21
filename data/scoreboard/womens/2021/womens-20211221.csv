@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401372870,2021-12-21,4,2579,home,FALSE,South Carolina,65,Gamecocks,South Carolina Gamecocks,South Carolina
-401372870,2021-12-21,4,24,away,FALSE,Stanford,61,Cardinal,Stanford Cardinal,Stanford
-401378965,2021-12-21,4,2154,home,FALSE,Coppin State,52,Eagles,Coppin State Eagles,Coppin St
-401378965,2021-12-21,4,120,away,FALSE,Maryland,98,Terrapins,Maryland Terrapins,Maryland
-401375862,2021-12-21,4,61,home,FALSE,Georgia,89,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-401375862,2021-12-21,4,6,away,FALSE,South Alabama,50,Jaguars,South Alabama Jaguars,South Alabama
-401376034,2021-12-21,4,2294,home,FALSE,Iowa,73,Hawkeyes,Iowa Hawkeyes,Iowa
-401376034,2021-12-21,4,85,away,FALSE,IU Indianapolis,74,Jaguars,IU Indianapolis Jaguars,IU Indy
-401369487,2021-12-21,4,2127,home,FALSE,Charleston Southern,35,Buccaneers,Charleston Southern Buccaneers,Charleston So
-401369487,2021-12-21,4,150,away,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
-401369490,2021-12-21,4,59,home,FALSE,Georgia Tech,78,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-401369490,2021-12-21,4,104,away,FALSE,Boston University,49,Terriers,Boston University Terriers,Boston U
-401374613,2021-12-21,4,147,home,FALSE,Montana State,67,Bobcats,Montana State Bobcats,Montana St
-401374613,2021-12-21,4,252,away,FALSE,BYU,89,Cougars,BYU Cougars,BYU
-401380664,2021-12-21,4,21,home,FALSE,San Diego State,54,Aztecs,San Diego State Aztecs,San Diego St
-401380664,2021-12-21,4,194,away,FALSE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
-401369492,2021-12-21,4,153,home,FALSE,North Carolina,83,Tar Heels,North Carolina Tar Heels,North Carolina
-401369492,2021-12-21,4,2011,away,FALSE,Alabama State,47,Lady Hornets,Alabama State Lady Hornets,Alabama St
-401376036,2021-12-21,0,84,home,FALSE,Indiana,0,Hoosiers,Indiana Hoosiers,Indiana
-401376036,2021-12-21,0,2750,away,FALSE,Wright State,0,Raiders,Wright State Raiders,Wright St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401372870,2022,regular-season,2021-12-21,4,2579,home,FALSE,South Carolina,65,Gamecocks,South Carolina Gamecocks,South Carolina
+401372870,2022,regular-season,2021-12-21,4,24,away,FALSE,Stanford,61,Cardinal,Stanford Cardinal,Stanford
+401378965,2022,regular-season,2021-12-21,4,2154,home,FALSE,Coppin State,52,Eagles,Coppin State Eagles,Coppin St
+401378965,2022,regular-season,2021-12-21,4,120,away,FALSE,Maryland,98,Terrapins,Maryland Terrapins,Maryland
+401375862,2022,regular-season,2021-12-21,4,61,home,FALSE,Georgia,89,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+401375862,2022,regular-season,2021-12-21,4,6,away,FALSE,South Alabama,50,Jaguars,South Alabama Jaguars,South Alabama
+401376034,2022,regular-season,2021-12-21,4,2294,home,FALSE,Iowa,73,Hawkeyes,Iowa Hawkeyes,Iowa
+401376034,2022,regular-season,2021-12-21,4,85,away,FALSE,IU Indianapolis,74,Jaguars,IU Indianapolis Jaguars,IU Indy
+401369487,2022,regular-season,2021-12-21,4,2127,home,FALSE,Charleston Southern,35,Buccaneers,Charleston Southern Buccaneers,Charleston So
+401369487,2022,regular-season,2021-12-21,4,150,away,FALSE,Duke,78,Blue Devils,Duke Blue Devils,Duke
+401369490,2022,regular-season,2021-12-21,4,59,home,FALSE,Georgia Tech,78,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+401369490,2022,regular-season,2021-12-21,4,104,away,FALSE,Boston University,49,Terriers,Boston University Terriers,Boston U
+401374613,2022,regular-season,2021-12-21,4,147,home,FALSE,Montana State,67,Bobcats,Montana State Bobcats,Montana St
+401374613,2022,regular-season,2021-12-21,4,252,away,FALSE,BYU,89,Cougars,BYU Cougars,BYU
+401380664,2022,regular-season,2021-12-21,4,21,home,FALSE,San Diego State,54,Aztecs,San Diego State Aztecs,San Diego St
+401380664,2022,regular-season,2021-12-21,4,194,away,FALSE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
+401369492,2022,regular-season,2021-12-21,4,153,home,FALSE,North Carolina,83,Tar Heels,North Carolina Tar Heels,North Carolina
+401369492,2022,regular-season,2021-12-21,4,2011,away,FALSE,Alabama State,47,Lady Hornets,Alabama State Lady Hornets,Alabama St
+401376036,2022,regular-season,2021-12-21,0,84,home,FALSE,Indiana,0,Hoosiers,Indiana Hoosiers,Indiana
+401376036,2022,regular-season,2021-12-21,0,2750,away,FALSE,Wright State,0,Raiders,Wright State Raiders,Wright St

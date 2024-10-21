@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401284858,2021-02-08,2,252,home,FALSE,BYU,71,Cougars,BYU Cougars,BYU
-401284858,2021-02-08,2,2250,away,FALSE,Gonzaga,82,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401267862,2021-02-08,2,120,home,FALSE,Maryland,65,Terrapins,Maryland Terrapins,Maryland
-401267862,2021-02-08,2,194,away,FALSE,Ohio State,73,Buckeyes,Ohio State Buckeyes,Ohio State
-401254039,2021-02-08,2,2305,home,FALSE,Kansas,78,Jayhawks,Kansas Jayhawks,Kansas
-401254039,2021-02-08,2,197,away,FALSE,Oklahoma State,66,Cowboys,Oklahoma State Cowboys,Oklahoma St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401284858,2021,regular-season,2021-02-08,2,252,home,FALSE,BYU,71,Cougars,BYU Cougars,BYU
+401284858,2021,regular-season,2021-02-08,2,2250,away,FALSE,Gonzaga,82,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401267862,2021,regular-season,2021-02-08,2,120,home,FALSE,Maryland,65,Terrapins,Maryland Terrapins,Maryland
+401267862,2021,regular-season,2021-02-08,2,194,away,FALSE,Ohio State,73,Buckeyes,Ohio State Buckeyes,Ohio State
+401254039,2021,regular-season,2021-02-08,2,2305,home,FALSE,Kansas,78,Jayhawks,Kansas Jayhawks,Kansas
+401254039,2021,regular-season,2021-02-08,2,197,away,FALSE,Oklahoma State,66,Cowboys,Oklahoma State Cowboys,Oklahoma St

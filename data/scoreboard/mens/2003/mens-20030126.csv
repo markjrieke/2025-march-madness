@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230260156,2003-01-26,2,156,home,FALSE,Creighton,89,Bluejays,Creighton Bluejays,Creighton
-230260156,2003-01-26,2,2628,away,FALSE,TCU,79,Horned Frogs,TCU Horned Frogs,TCU
-230262641,2003-01-26,2,2641,home,FALSE,Texas Tech,70,Red Raiders,Texas Tech Red Raiders,Texas Tech
-230262641,2003-01-26,2,197,away,FALSE,Oklahoma State,79,Cowboys,Oklahoma State Cowboys,Oklahoma St
-230260154,2003-01-26,2,154,home,FALSE,Wake Forest,71,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-230260154,2003-01-26,2,52,away,FALSE,Florida State,60,Seminoles,Florida State Seminoles,Florida St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230260156,2003,regular-season,2003-01-26,2,156,home,FALSE,Creighton,89,Bluejays,Creighton Bluejays,Creighton
+230260156,2003,regular-season,2003-01-26,2,2628,away,FALSE,TCU,79,Horned Frogs,TCU Horned Frogs,TCU
+230262641,2003,regular-season,2003-01-26,2,2641,home,FALSE,Texas Tech,70,Red Raiders,Texas Tech Red Raiders,Texas Tech
+230262641,2003,regular-season,2003-01-26,2,197,away,FALSE,Oklahoma State,79,Cowboys,Oklahoma State Cowboys,Oklahoma St
+230260154,2003,regular-season,2003-01-26,2,154,home,FALSE,Wake Forest,71,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+230260154,2003,regular-season,2003-01-26,2,52,away,FALSE,Florida State,60,Seminoles,Florida State Seminoles,Florida St

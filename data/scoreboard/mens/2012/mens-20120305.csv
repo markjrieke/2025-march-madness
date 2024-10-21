@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320652711,2012-03-05,2,2711,home,FALSE,Western Michigan,69,Broncos,Western Michigan Broncos,W Michigan
-320652711,2012-03-05,2,2050,away,FALSE,Ball State,63,Cardinals,Ball State Cardinals,Ball State
-320652649,2012-03-05,2,2649,home,FALSE,Toledo,60,Rockets,Toledo Rockets,Toledo
-320652649,2012-03-05,2,193,away,FALSE,Miami (OH),53,RedHawks,Miami (OH) RedHawks,Miami OH
-320652352,2012-03-05,2,2352,home,TRUE,Loyola Maryland,48,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-320652352,2012-03-05,2,2217,away,TRUE,Fairfield,44,Stags,Fairfield Stags,Fairfield
-320652199,2012-03-05,2,2199,home,FALSE,Eastern Michigan,52,Eagles,Eastern Michigan Eagles,E Michigan
-320652199,2012-03-05,2,2459,away,FALSE,Northern Illinois,55,Huskies,Northern Illinois Huskies,N Illinois
-320652182,2012-03-05,2,2182,home,TRUE,Drexel,56,Dragons,Drexel Dragons,Drexel
-320652182,2012-03-05,2,2670,away,TRUE,VCU,59,Rams,VCU Rams,VCU
-320650249,2012-03-05,2,249,home,TRUE,North Texas,76,Mean Green,North Texas Mean Green,North Texas
-320650249,2012-03-05,2,2032,away,TRUE,Arkansas State,72,Red Wolves,Arkansas State Red Wolves,Arkansas St
-320650198,2012-03-05,2,198,home,TRUE,Oral Roberts,53,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-320650198,2012-03-05,2,2710,away,TRUE,Western Illinois,54,Leathernecks,Western Illinois Leathernecks,W Illinois
-320650189,2012-03-05,2,189,home,FALSE,Bowling Green,53,Falcons,Bowling Green Falcons,Bowling Green
-320650189,2012-03-05,2,2117,away,FALSE,Central Michigan,54,Chippewas,Central Michigan Chippewas,C Michigan
-320652608,2012-03-05,3,2608,home,TRUE,Saint Mary's,78,Gaels,Saint Mary's Gaels,Saint Mary's
-320652608,2012-03-05,3,2250,away,TRUE,Gonzaga,74,Bulldogs,Gonzaga Bulldogs,Gonzaga
-320652166,2012-03-05,4,2166,home,TRUE,Davidson,93,Wildcats,Davidson Wildcats,Davidson
-320652166,2012-03-05,4,2717,away,TRUE,Western Carolina,91,Catamounts,Western Carolina Catamounts,W Carolina
-320652571,2012-03-05,2,2571,home,TRUE,South Dakota State,63,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-320652571,2012-03-05,2,253,away,TRUE,Southern Utah,47,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
-320652172,2012-03-05,2,2172,home,TRUE,Denver,63,Pioneers,Denver Pioneers,Denver
-320652172,2012-03-05,2,98,away,TRUE,Western Kentucky,67,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320652711,2012,regular-season,2012-03-05,2,2711,home,FALSE,Western Michigan,69,Broncos,Western Michigan Broncos,W Michigan
+320652711,2012,regular-season,2012-03-05,2,2050,away,FALSE,Ball State,63,Cardinals,Ball State Cardinals,Ball State
+320652649,2012,regular-season,2012-03-05,2,2649,home,FALSE,Toledo,60,Rockets,Toledo Rockets,Toledo
+320652649,2012,regular-season,2012-03-05,2,193,away,FALSE,Miami (OH),53,RedHawks,Miami (OH) RedHawks,Miami OH
+320652352,2012,regular-season,2012-03-05,2,2352,home,TRUE,Loyola Maryland,48,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+320652352,2012,regular-season,2012-03-05,2,2217,away,TRUE,Fairfield,44,Stags,Fairfield Stags,Fairfield
+320652199,2012,regular-season,2012-03-05,2,2199,home,FALSE,Eastern Michigan,52,Eagles,Eastern Michigan Eagles,E Michigan
+320652199,2012,regular-season,2012-03-05,2,2459,away,FALSE,Northern Illinois,55,Huskies,Northern Illinois Huskies,N Illinois
+320652182,2012,regular-season,2012-03-05,2,2182,home,TRUE,Drexel,56,Dragons,Drexel Dragons,Drexel
+320652182,2012,regular-season,2012-03-05,2,2670,away,TRUE,VCU,59,Rams,VCU Rams,VCU
+320650249,2012,regular-season,2012-03-05,2,249,home,TRUE,North Texas,76,Mean Green,North Texas Mean Green,North Texas
+320650249,2012,regular-season,2012-03-05,2,2032,away,TRUE,Arkansas State,72,Red Wolves,Arkansas State Red Wolves,Arkansas St
+320650198,2012,regular-season,2012-03-05,2,198,home,TRUE,Oral Roberts,53,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+320650198,2012,regular-season,2012-03-05,2,2710,away,TRUE,Western Illinois,54,Leathernecks,Western Illinois Leathernecks,W Illinois
+320650189,2012,regular-season,2012-03-05,2,189,home,FALSE,Bowling Green,53,Falcons,Bowling Green Falcons,Bowling Green
+320650189,2012,regular-season,2012-03-05,2,2117,away,FALSE,Central Michigan,54,Chippewas,Central Michigan Chippewas,C Michigan
+320652608,2012,regular-season,2012-03-05,3,2608,home,TRUE,Saint Mary's,78,Gaels,Saint Mary's Gaels,Saint Mary's
+320652608,2012,regular-season,2012-03-05,3,2250,away,TRUE,Gonzaga,74,Bulldogs,Gonzaga Bulldogs,Gonzaga
+320652166,2012,regular-season,2012-03-05,4,2166,home,TRUE,Davidson,93,Wildcats,Davidson Wildcats,Davidson
+320652166,2012,regular-season,2012-03-05,4,2717,away,TRUE,Western Carolina,91,Catamounts,Western Carolina Catamounts,W Carolina
+320652571,2012,regular-season,2012-03-05,2,2571,home,TRUE,South Dakota State,63,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+320652571,2012,regular-season,2012-03-05,2,253,away,TRUE,Southern Utah,47,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+320652172,2012,regular-season,2012-03-05,2,2172,home,TRUE,Denver,63,Pioneers,Denver Pioneers,Denver
+320652172,2012,regular-season,2012-03-05,2,98,away,TRUE,Western Kentucky,67,Hilltoppers,Western Kentucky Hilltoppers,Western KY

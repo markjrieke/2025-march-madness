@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330580097,2013-02-27,2,97,home,FALSE,Louisville,72,Cardinals,Louisville Cardinals,Louisville
-330580097,2013-02-27,2,2550,away,FALSE,Seton Hall,62,Pirates,Seton Hall Pirates,Seton Hall
-330580066,2013-02-27,2,66,home,FALSE,Iowa State,83,Cyclones,Iowa State Cyclones,Iowa State
-330580066,2013-02-27,2,2305,away,FALSE,Kansas,68,Jayhawks,Kansas Jayhawks,Kansas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330580097,2013,regular-season,2013-02-27,2,97,home,FALSE,Louisville,72,Cardinals,Louisville Cardinals,Louisville
+330580097,2013,regular-season,2013-02-27,2,2550,away,FALSE,Seton Hall,62,Pirates,Seton Hall Pirates,Seton Hall
+330580066,2013,regular-season,2013-02-27,2,66,home,FALSE,Iowa State,83,Cyclones,Iowa State Cyclones,Iowa State
+330580066,2013,regular-season,2013-02-27,2,2305,away,FALSE,Kansas,68,Jayhawks,Kansas Jayhawks,Kansas

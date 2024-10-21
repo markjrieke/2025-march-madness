@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310020099,2011-01-02,2,99,home,FALSE,LSU,65,Tigers,LSU Tigers,LSU
-310020099,2011-01-02,2,2633,away,FALSE,Tennessee,73,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-310020277,2011-01-02,2,277,home,FALSE,West Virginia,63,Mountaineers,West Virginia Mountaineers,West Virginia
-310020277,2011-01-02,2,2115,away,FALSE,Central Connecticut,37,Blue Devils,Central Connecticut Blue Devils,C Connecticut
-310020265,2011-01-02,2,265,home,FALSE,Washington State,55,Cougars,Washington State Cougars,Washington St
-310020265,2011-01-02,2,26,away,FALSE,UCLA,80,Bruins,UCLA Bruins,UCLA
-310020025,2011-01-02,2,25,home,FALSE,California,45,Golden Bears,California Golden Bears,California
-310020025,2011-01-02,2,24,away,FALSE,Stanford,78,Cardinal,Stanford Cardinal,Stanford
-310020127,2011-01-02,2,127,home,FALSE,Michigan State,70,Spartans,Michigan State Spartans,Michigan St
-310020127,2011-01-02,2,356,away,FALSE,Illinois,57,Fighting Illini,Illinois Fighting Illini,Illinois
-310020194,2011-01-02,2,194,home,FALSE,Ohio State,86,Buckeyes,Ohio State Buckeyes,Ohio State
-310020194,2011-01-02,2,2065,away,FALSE,Bethune-Cookman,38,Wildcats,Bethune-Cookman Wildcats,Bethune
-310022294,2011-01-02,2,2294,home,FALSE,Iowa,53,Hawkeyes,Iowa Hawkeyes,Iowa
-310022294,2011-01-02,2,130,away,FALSE,Michigan,60,Wolverines,Michigan Wolverines,Michigan
-310022628,2011-01-02,2,2628,home,FALSE,TCU,76,Horned Frogs,TCU Horned Frogs,TCU
-310022628,2011-01-02,2,201,away,FALSE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma
-310020087,2011-01-02,2,87,home,FALSE,Notre Dame,97,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-310020087,2011-01-02,2,2546,away,FALSE,Southeast Missouri State,21,Redhawks,Southeast Missouri State Redhawks,SE Missouri
-310022603,2011-01-02,2,2603,home,FALSE,Saint Joseph's,60,Hawks,Saint Joseph's Hawks,Saint Joseph's
-310022603,2011-01-02,2,120,away,FALSE,Maryland,74,Terrapins,Maryland Terrapins,Maryland
-310020066,2011-01-02,2,66,home,FALSE,Iowa State,62,Cyclones,Iowa State Cyclones,Iowa State
-310020066,2011-01-02,2,2130,away,FALSE,Chicago State,48,Cougars,Chicago State Cougars,Chicago St
-310020057,2011-01-02,2,57,home,FALSE,Florida,64,Gators,Florida Gators,Florida
-310020057,2011-01-02,2,8,away,FALSE,Arkansas,53,Razorbacks,Arkansas Razorbacks,Arkansas
-310020251,2011-01-02,2,251,home,FALSE,Texas,94,Longhorns,Texas Longhorns,Texas
-310020251,2011-01-02,2,2534,away,FALSE,Sam Houston,50,Bearkats,Sam Houston Bearkats,Sam Houston
-310020142,2011-01-02,2,142,home,FALSE,Missouri,43,Tigers,Missouri Tigers,Missouri
-310020142,2011-01-02,2,52,away,FALSE,Florida State,75,Seminoles,Florida State Seminoles,Florida St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310020099,2011,regular-season,2011-01-02,2,99,home,FALSE,LSU,65,Tigers,LSU Tigers,LSU
+310020099,2011,regular-season,2011-01-02,2,2633,away,FALSE,Tennessee,73,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+310020277,2011,regular-season,2011-01-02,2,277,home,FALSE,West Virginia,63,Mountaineers,West Virginia Mountaineers,West Virginia
+310020277,2011,regular-season,2011-01-02,2,2115,away,FALSE,Central Connecticut,37,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+310020265,2011,regular-season,2011-01-02,2,265,home,FALSE,Washington State,55,Cougars,Washington State Cougars,Washington St
+310020265,2011,regular-season,2011-01-02,2,26,away,FALSE,UCLA,80,Bruins,UCLA Bruins,UCLA
+310020025,2011,regular-season,2011-01-02,2,25,home,FALSE,California,45,Golden Bears,California Golden Bears,California
+310020025,2011,regular-season,2011-01-02,2,24,away,FALSE,Stanford,78,Cardinal,Stanford Cardinal,Stanford
+310020127,2011,regular-season,2011-01-02,2,127,home,FALSE,Michigan State,70,Spartans,Michigan State Spartans,Michigan St
+310020127,2011,regular-season,2011-01-02,2,356,away,FALSE,Illinois,57,Fighting Illini,Illinois Fighting Illini,Illinois
+310020194,2011,regular-season,2011-01-02,2,194,home,FALSE,Ohio State,86,Buckeyes,Ohio State Buckeyes,Ohio State
+310020194,2011,regular-season,2011-01-02,2,2065,away,FALSE,Bethune-Cookman,38,Wildcats,Bethune-Cookman Wildcats,Bethune
+310022294,2011,regular-season,2011-01-02,2,2294,home,FALSE,Iowa,53,Hawkeyes,Iowa Hawkeyes,Iowa
+310022294,2011,regular-season,2011-01-02,2,130,away,FALSE,Michigan,60,Wolverines,Michigan Wolverines,Michigan
+310022628,2011,regular-season,2011-01-02,2,2628,home,FALSE,TCU,76,Horned Frogs,TCU Horned Frogs,TCU
+310022628,2011,regular-season,2011-01-02,2,201,away,FALSE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma
+310020087,2011,regular-season,2011-01-02,2,87,home,FALSE,Notre Dame,97,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+310020087,2011,regular-season,2011-01-02,2,2546,away,FALSE,Southeast Missouri State,21,Redhawks,Southeast Missouri State Redhawks,SE Missouri
+310022603,2011,regular-season,2011-01-02,2,2603,home,FALSE,Saint Joseph's,60,Hawks,Saint Joseph's Hawks,Saint Joseph's
+310022603,2011,regular-season,2011-01-02,2,120,away,FALSE,Maryland,74,Terrapins,Maryland Terrapins,Maryland
+310020066,2011,regular-season,2011-01-02,2,66,home,FALSE,Iowa State,62,Cyclones,Iowa State Cyclones,Iowa State
+310020066,2011,regular-season,2011-01-02,2,2130,away,FALSE,Chicago State,48,Cougars,Chicago State Cougars,Chicago St
+310020057,2011,regular-season,2011-01-02,2,57,home,FALSE,Florida,64,Gators,Florida Gators,Florida
+310020057,2011,regular-season,2011-01-02,2,8,away,FALSE,Arkansas,53,Razorbacks,Arkansas Razorbacks,Arkansas
+310020251,2011,regular-season,2011-01-02,2,251,home,FALSE,Texas,94,Longhorns,Texas Longhorns,Texas
+310020251,2011,regular-season,2011-01-02,2,2534,away,FALSE,Sam Houston,50,Bearkats,Sam Houston Bearkats,Sam Houston
+310020142,2011,regular-season,2011-01-02,2,142,home,FALSE,Missouri,43,Tigers,Missouri Tigers,Missouri
+310020142,2011,regular-season,2011-01-02,2,52,away,FALSE,Florida State,75,Seminoles,Florida State Seminoles,Florida St

@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303380150,2010-12-04,2,150,home,TRUE,Duke,82,Blue Devils,Duke Blue Devils,Duke
-303380150,2010-12-04,2,2086,away,TRUE,Butler,70,Bulldogs,Butler Bulldogs,Butler
-303380221,2010-12-04,2,221,home,FALSE,Pittsburgh,87,Panthers,Pittsburgh Panthers,Pitt
-303380221,2010-12-04,2,2520,away,FALSE,Rider,68,Broncs,Rider Broncs,Rider
-303380127,2010-12-04,2,127,home,FALSE,Michigan State,74,Spartans,Michigan State Spartans,Michigan St
-303380127,2010-12-04,2,189,away,FALSE,Bowling Green,39,Falcons,Bowling Green Falcons,Bowling Green
-303380183,2010-12-04,2,183,home,FALSE,Syracuse,65,Orange,Syracuse Orange,Syracuse
-303380183,2010-12-04,2,152,away,FALSE,NC State,59,Wolfpack,NC State Wolfpack,NC State
-303380153,2010-12-04,2,153,home,FALSE,North Carolina,75,Tar Heels,North Carolina Tar Heels,North Carolina
-303380153,2010-12-04,2,96,away,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
-303380235,2010-12-04,2,235,home,FALSE,Memphis,77,Tigers,Memphis Tigers,Memphis
-303380235,2010-12-04,2,98,away,FALSE,Western Kentucky,61,Hilltoppers,Western Kentucky Hilltoppers,Western KY
-303380135,2010-12-04,2,135,home,FALSE,Minnesota,71,Golden Gophers,Minnesota Golden Gophers,Minnesota
-303380135,2010-12-04,2,172,away,FALSE,Cornell,66,Big Red,Cornell Big Red,Cornell
-303380046,2010-12-04,2,46,home,FALSE,Georgetown,68,Hoyas,Georgetown Hoyas,Georgetown
-303380046,2010-12-04,2,328,away,FALSE,Utah State,51,Aggies,Utah State Aggies,Utah State
-303380021,2010-12-04,2,21,home,FALSE,San Diego State,83,Aztecs,San Diego State Aztecs,San Diego St
-303380021,2010-12-04,2,2724,away,FALSE,Wichita State,69,Shockers,Wichita State Shockers,Wichita St
-303382250,2010-12-04,2,2250,home,TRUE,Gonzaga,61,Bulldogs,Gonzaga Bulldogs,Gonzaga
-303382250,2010-12-04,2,356,away,TRUE,Illinois,73,Fighting Illini,Illinois Fighting Illini,Illinois
-303380252,2010-12-04,2,252,home,TRUE,BYU,78,Cougars,BYU Cougars,BYU
-303380252,2010-12-04,2,62,away,TRUE,Hawai'i,57,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
-303382509,2010-12-04,2,2509,home,FALSE,Purdue,66,Boilermakers,Purdue Boilermakers,Purdue
-303382509,2010-12-04,2,333,away,FALSE,Alabama,47,Crimson Tide,Alabama Crimson Tide,Alabama
-303380264,2010-12-04,2,264,home,FALSE,Washington,108,Huskies,Washington Huskies,Washington
-303380264,2010-12-04,2,2641,away,FALSE,Texas Tech,79,Red Raiders,Texas Tech Red Raiders,Texas Tech
-303382440,2010-12-04,2,2440,home,FALSE,Nevada,70,Wolf Pack,Nevada Wolf Pack,Nevada
-303382440,2010-12-04,2,2439,away,FALSE,UNLV,82,Rebels,UNLV Rebels,UNLV
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303380150,2011,regular-season,2010-12-04,2,150,home,TRUE,Duke,82,Blue Devils,Duke Blue Devils,Duke
+303380150,2011,regular-season,2010-12-04,2,2086,away,TRUE,Butler,70,Bulldogs,Butler Bulldogs,Butler
+303380221,2011,regular-season,2010-12-04,2,221,home,FALSE,Pittsburgh,87,Panthers,Pittsburgh Panthers,Pitt
+303380221,2011,regular-season,2010-12-04,2,2520,away,FALSE,Rider,68,Broncs,Rider Broncs,Rider
+303380127,2011,regular-season,2010-12-04,2,127,home,FALSE,Michigan State,74,Spartans,Michigan State Spartans,Michigan St
+303380127,2011,regular-season,2010-12-04,2,189,away,FALSE,Bowling Green,39,Falcons,Bowling Green Falcons,Bowling Green
+303380183,2011,regular-season,2010-12-04,2,183,home,FALSE,Syracuse,65,Orange,Syracuse Orange,Syracuse
+303380183,2011,regular-season,2010-12-04,2,152,away,FALSE,NC State,59,Wolfpack,NC State Wolfpack,NC State
+303380153,2011,regular-season,2010-12-04,2,153,home,FALSE,North Carolina,75,Tar Heels,North Carolina Tar Heels,North Carolina
+303380153,2011,regular-season,2010-12-04,2,96,away,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
+303380235,2011,regular-season,2010-12-04,2,235,home,FALSE,Memphis,77,Tigers,Memphis Tigers,Memphis
+303380235,2011,regular-season,2010-12-04,2,98,away,FALSE,Western Kentucky,61,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+303380135,2011,regular-season,2010-12-04,2,135,home,FALSE,Minnesota,71,Golden Gophers,Minnesota Golden Gophers,Minnesota
+303380135,2011,regular-season,2010-12-04,2,172,away,FALSE,Cornell,66,Big Red,Cornell Big Red,Cornell
+303380046,2011,regular-season,2010-12-04,2,46,home,FALSE,Georgetown,68,Hoyas,Georgetown Hoyas,Georgetown
+303380046,2011,regular-season,2010-12-04,2,328,away,FALSE,Utah State,51,Aggies,Utah State Aggies,Utah State
+303380021,2011,regular-season,2010-12-04,2,21,home,FALSE,San Diego State,83,Aztecs,San Diego State Aztecs,San Diego St
+303380021,2011,regular-season,2010-12-04,2,2724,away,FALSE,Wichita State,69,Shockers,Wichita State Shockers,Wichita St
+303382250,2011,regular-season,2010-12-04,2,2250,home,TRUE,Gonzaga,61,Bulldogs,Gonzaga Bulldogs,Gonzaga
+303382250,2011,regular-season,2010-12-04,2,356,away,TRUE,Illinois,73,Fighting Illini,Illinois Fighting Illini,Illinois
+303380252,2011,regular-season,2010-12-04,2,252,home,TRUE,BYU,78,Cougars,BYU Cougars,BYU
+303380252,2011,regular-season,2010-12-04,2,62,away,TRUE,Hawai'i,57,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
+303382509,2011,regular-season,2010-12-04,2,2509,home,FALSE,Purdue,66,Boilermakers,Purdue Boilermakers,Purdue
+303382509,2011,regular-season,2010-12-04,2,333,away,FALSE,Alabama,47,Crimson Tide,Alabama Crimson Tide,Alabama
+303380264,2011,regular-season,2010-12-04,2,264,home,FALSE,Washington,108,Huskies,Washington Huskies,Washington
+303380264,2011,regular-season,2010-12-04,2,2641,away,FALSE,Texas Tech,79,Red Raiders,Texas Tech Red Raiders,Texas Tech
+303382440,2011,regular-season,2010-12-04,2,2440,home,FALSE,Nevada,70,Wolf Pack,Nevada Wolf Pack,Nevada
+303382440,2011,regular-season,2010-12-04,2,2439,away,FALSE,UNLV,82,Rebels,UNLV Rebels,UNLV

@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243260152,2004-11-21,2,152,home,FALSE,NC State,54,Wolfpack,NC State Wolfpack,NC State
-243260152,2004-11-21,2,2633,away,FALSE,Tennessee,64,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-243260061,2004-11-21,2,61,home,FALSE,Georgia,78,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-243260061,2004-11-21,2,251,away,FALSE,Texas,64,Longhorns,Texas Longhorns,Texas
-243260099,2004-11-21,2,99,home,FALSE,LSU,80,Tigers,LSU Tigers,LSU
-243260099,2004-11-21,2,2572,away,FALSE,Southern Miss,35,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-243260153,2004-11-21,2,153,home,FALSE,North Carolina,71,Tar Heels,North Carolina Tar Heels,North Carolina
-243260153,2004-11-21,2,41,away,FALSE,UConn,65,Huskies,UConn Huskies,UConn
-243260024,2004-11-21,2,24,home,FALSE,Stanford,82,Cardinal,Stanford Cardinal,Stanford
-243260024,2004-11-21,2,279,away,FALSE,Pacific,26,Tigers,Pacific Tigers,Pacific
-243260127,2004-11-21,3,127,home,FALSE,Michigan State,82,Spartans,Michigan State Spartans,Michigan St
-243260127,2004-11-21,3,103,away,FALSE,Boston College,78,Eagles,Boston College Eagles,Boston College
-243262509,2004-11-21,2,2509,home,FALSE,Purdue,107,Boilermakers,Purdue Boilermakers,Purdue
-243262509,2004-11-21,2,2870,away,FALSE,Purdue Fort Wayne,39,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-243262306,2004-11-21,2,2306,home,FALSE,Kansas State,85,Wildcats,Kansas State Wildcats,Kansas St
-243262306,2004-11-21,2,2492,away,FALSE,Pepperdine,53,Waves,Pepperdine Waves,Pepperdine
-243260222,2004-11-21,2,222,home,FALSE,Villanova,73,Wildcats,Villanova Wildcats,Villanova
-243260222,2004-11-21,2,213,away,FALSE,Penn State,65,Lady Lions,Penn State Lady Lions,Penn State
-243260201,2004-11-21,2,201,home,FALSE,Oklahoma,76,Sooners,Oklahoma Sooners,Oklahoma
-243260201,2004-11-21,2,326,away,FALSE,Texas State,57,Bobcats,Texas State Bobcats,Texas St
-243260120,2004-11-21,2,120,home,FALSE,Maryland,73,Terrapins,Maryland Terrapins,Maryland
-243260120,2004-11-21,2,2561,away,FALSE,Siena,52,Saints,Siena Saints,Siena
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243260152,2005,regular-season,2004-11-21,2,152,home,FALSE,NC State,54,Wolfpack,NC State Wolfpack,NC State
+243260152,2005,regular-season,2004-11-21,2,2633,away,FALSE,Tennessee,64,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+243260061,2005,regular-season,2004-11-21,2,61,home,FALSE,Georgia,78,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+243260061,2005,regular-season,2004-11-21,2,251,away,FALSE,Texas,64,Longhorns,Texas Longhorns,Texas
+243260099,2005,regular-season,2004-11-21,2,99,home,FALSE,LSU,80,Tigers,LSU Tigers,LSU
+243260099,2005,regular-season,2004-11-21,2,2572,away,FALSE,Southern Miss,35,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+243260153,2005,regular-season,2004-11-21,2,153,home,FALSE,North Carolina,71,Tar Heels,North Carolina Tar Heels,North Carolina
+243260153,2005,regular-season,2004-11-21,2,41,away,FALSE,UConn,65,Huskies,UConn Huskies,UConn
+243260024,2005,regular-season,2004-11-21,2,24,home,FALSE,Stanford,82,Cardinal,Stanford Cardinal,Stanford
+243260024,2005,regular-season,2004-11-21,2,279,away,FALSE,Pacific,26,Tigers,Pacific Tigers,Pacific
+243260127,2005,regular-season,2004-11-21,3,127,home,FALSE,Michigan State,82,Spartans,Michigan State Spartans,Michigan St
+243260127,2005,regular-season,2004-11-21,3,103,away,FALSE,Boston College,78,Eagles,Boston College Eagles,Boston College
+243262509,2005,regular-season,2004-11-21,2,2509,home,FALSE,Purdue,107,Boilermakers,Purdue Boilermakers,Purdue
+243262509,2005,regular-season,2004-11-21,2,2870,away,FALSE,Purdue Fort Wayne,39,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+243262306,2005,regular-season,2004-11-21,2,2306,home,FALSE,Kansas State,85,Wildcats,Kansas State Wildcats,Kansas St
+243262306,2005,regular-season,2004-11-21,2,2492,away,FALSE,Pepperdine,53,Waves,Pepperdine Waves,Pepperdine
+243260222,2005,regular-season,2004-11-21,2,222,home,FALSE,Villanova,73,Wildcats,Villanova Wildcats,Villanova
+243260222,2005,regular-season,2004-11-21,2,213,away,FALSE,Penn State,65,Lady Lions,Penn State Lady Lions,Penn State
+243260201,2005,regular-season,2004-11-21,2,201,home,FALSE,Oklahoma,76,Sooners,Oklahoma Sooners,Oklahoma
+243260201,2005,regular-season,2004-11-21,2,326,away,FALSE,Texas State,57,Bobcats,Texas State Bobcats,Texas St
+243260120,2005,regular-season,2004-11-21,2,120,home,FALSE,Maryland,73,Terrapins,Maryland Terrapins,Maryland
+243260120,2005,regular-season,2004-11-21,2,2561,away,FALSE,Siena,52,Saints,Siena Saints,Siena

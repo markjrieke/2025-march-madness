@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401368115,2022-03-02,4,2305,home,FALSE,Kansas,60,Jayhawks,Kansas Jayhawks,Kansas
-401368115,2022-03-02,4,251,away,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas
-401368114,2022-03-02,4,197,home,FALSE,Oklahoma State,76,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-401368114,2022-03-02,4,201,away,FALSE,Oklahoma,79,Sooners,Oklahoma Sooners,Oklahoma
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401368115,2022,regular-season,2022-03-02,4,2305,home,FALSE,Kansas,60,Jayhawks,Kansas Jayhawks,Kansas
+401368115,2022,regular-season,2022-03-02,4,251,away,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas
+401368114,2022,regular-season,2022-03-02,4,197,home,FALSE,Oklahoma State,76,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+401368114,2022,regular-season,2022-03-02,4,201,away,FALSE,Oklahoma,79,Sooners,Oklahoma Sooners,Oklahoma

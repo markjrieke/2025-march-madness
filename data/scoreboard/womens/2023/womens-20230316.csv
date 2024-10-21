@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401527962,2023-03-16,4,2509,home,TRUE,Purdue,64,Boilermakers,Purdue Boilermakers,Purdue
-401527962,2023-03-16,4,2599,away,TRUE,St. John's,66,Red Storm,St. John's Red Storm,St John's
-401527964,2023-03-16,4,2635,home,TRUE,Tennessee Tech,79,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
-401527964,2023-03-16,4,2405,away,TRUE,Monmouth,69,Hawks,Monmouth Hawks,Monmouth
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401527962,2023,post-season,2023-03-16,4,2509,home,TRUE,Purdue,64,Boilermakers,Purdue Boilermakers,Purdue
+401527962,2023,post-season,2023-03-16,4,2599,away,TRUE,St. John's,66,Red Storm,St. John's Red Storm,St John's
+401527964,2023,post-season,2023-03-16,4,2635,home,TRUE,Tennessee Tech,79,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
+401527964,2023,post-season,2023-03-16,4,2405,away,TRUE,Monmouth,69,Hawks,Monmouth Hawks,Monmouth

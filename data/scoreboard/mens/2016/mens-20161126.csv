@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400915273,2016-11-26,2,150,home,FALSE,Duke,93,Blue Devils,Duke Blue Devils,Duke
-400915273,2016-11-26,2,2026,away,FALSE,App State,58,Mountaineers,App State Mountaineers,App State
-400918156,2016-11-26,2,2752,home,FALSE,Xavier,64,Musketeers,Xavier Musketeers,Xavier
-400918156,2016-11-26,2,2460,away,FALSE,Northern Iowa,42,Panthers,Northern Iowa Panthers,Northern Iowa
-400918995,2016-11-26,2,156,home,FALSE,Creighton,82,Bluejays,Creighton Bluejays,Creighton
-400918995,2016-11-26,2,2352,away,FALSE,Loyola Maryland,52,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-400915045,2016-11-26,2,130,home,FALSE,Michigan,64,Wolverines,Michigan Wolverines,Michigan
-400915045,2016-11-26,2,116,away,FALSE,Mount St. Mary's,47,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400915273,2017,regular-season,2016-11-26,2,150,home,FALSE,Duke,93,Blue Devils,Duke Blue Devils,Duke
+400915273,2017,regular-season,2016-11-26,2,2026,away,FALSE,App State,58,Mountaineers,App State Mountaineers,App State
+400918156,2017,regular-season,2016-11-26,2,2752,home,FALSE,Xavier,64,Musketeers,Xavier Musketeers,Xavier
+400918156,2017,regular-season,2016-11-26,2,2460,away,FALSE,Northern Iowa,42,Panthers,Northern Iowa Panthers,Northern Iowa
+400918995,2017,regular-season,2016-11-26,2,156,home,FALSE,Creighton,82,Bluejays,Creighton Bluejays,Creighton
+400918995,2017,regular-season,2016-11-26,2,2352,away,FALSE,Loyola Maryland,52,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+400915045,2017,regular-season,2016-11-26,2,130,home,FALSE,Michigan,64,Wolverines,Michigan Wolverines,Michigan
+400915045,2017,regular-season,2016-11-26,2,116,away,FALSE,Mount St. Mary's,47,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys

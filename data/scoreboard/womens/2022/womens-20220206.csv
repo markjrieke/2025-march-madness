@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401382159,2022-02-06,4,30,home,FALSE,USC,57,Trojans,USC Trojans,USC
-401382159,2022-02-06,4,24,away,FALSE,Stanford,83,Cardinal,Stanford Cardinal,Stanford
-401369578,2022-02-06,4,183,home,FALSE,Syracuse,64,Orange,Syracuse Orange,Syracuse
-401369578,2022-02-06,4,97,away,FALSE,Louisville,100,Cardinals,Louisville Cardinals,Louisville
-401364567,2022-02-06,4,84,home,FALSE,Indiana,64,Hoosiers,Indiana Hoosiers,Indiana
-401364567,2022-02-06,4,2509,away,FALSE,Purdue,57,Boilermakers,Purdue Boilermakers,Purdue
-401364563,2022-02-06,4,130,home,FALSE,Michigan,98,Wolverines,Michigan Wolverines,Michigan
-401364563,2022-02-06,4,2294,away,FALSE,Iowa,90,Hawkeyes,Iowa Hawkeyes,Iowa
-401373089,2022-02-06,4,41,home,FALSE,UConn,75,Huskies,UConn Huskies,UConn
-401373089,2022-02-06,4,2633,away,FALSE,Tennessee,56,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401382154,2022-02-06,4,12,home,FALSE,Arizona,73,Wildcats,Arizona Wildcats,Arizona
-401382154,2022-02-06,4,204,away,FALSE,Oregon State,61,Beavers,Oregon State Beavers,Oregon St
-401368084,2022-02-06,4,251,home,FALSE,Texas,55,Longhorns,Texas Longhorns,Texas
-401368084,2022-02-06,4,239,away,FALSE,Baylor,63,Bears,Baylor Bears,Baylor
-401364298,2022-02-06,4,61,home,FALSE,Georgia,51,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-401364298,2022-02-06,4,57,away,FALSE,Florida,54,Gators,Florida Gators,Florida
-401364565,2022-02-06,4,120,home,FALSE,Maryland,80,Terrapins,Maryland Terrapins,Maryland
-401364565,2022-02-06,4,158,away,FALSE,Nebraska,65,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401382158,2022-02-06,4,9,home,FALSE,Arizona State,55,Sun Devils,Arizona State Sun Devils,Arizona St
-401382158,2022-02-06,4,2483,away,FALSE,Oregon,49,Ducks,Oregon Ducks,Oregon
-401369575,2022-02-06,4,52,home,FALSE,Florida State,70,Seminoles,Florida State Seminoles,Florida St
-401369575,2022-02-06,4,87,away,FALSE,Notre Dame,65,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401369574,2022-02-06,4,153,home,FALSE,North Carolina,85,Tar Heels,North Carolina Tar Heels,North Carolina
-401369574,2022-02-06,4,2390,away,FALSE,Miami,38,Hurricanes,Miami Hurricanes,Miami
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401382159,2022,regular-season,2022-02-06,4,30,home,FALSE,USC,57,Trojans,USC Trojans,USC
+401382159,2022,regular-season,2022-02-06,4,24,away,FALSE,Stanford,83,Cardinal,Stanford Cardinal,Stanford
+401369578,2022,regular-season,2022-02-06,4,183,home,FALSE,Syracuse,64,Orange,Syracuse Orange,Syracuse
+401369578,2022,regular-season,2022-02-06,4,97,away,FALSE,Louisville,100,Cardinals,Louisville Cardinals,Louisville
+401364567,2022,regular-season,2022-02-06,4,84,home,FALSE,Indiana,64,Hoosiers,Indiana Hoosiers,Indiana
+401364567,2022,regular-season,2022-02-06,4,2509,away,FALSE,Purdue,57,Boilermakers,Purdue Boilermakers,Purdue
+401364563,2022,regular-season,2022-02-06,4,130,home,FALSE,Michigan,98,Wolverines,Michigan Wolverines,Michigan
+401364563,2022,regular-season,2022-02-06,4,2294,away,FALSE,Iowa,90,Hawkeyes,Iowa Hawkeyes,Iowa
+401373089,2022,regular-season,2022-02-06,4,41,home,FALSE,UConn,75,Huskies,UConn Huskies,UConn
+401373089,2022,regular-season,2022-02-06,4,2633,away,FALSE,Tennessee,56,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401382154,2022,regular-season,2022-02-06,4,12,home,FALSE,Arizona,73,Wildcats,Arizona Wildcats,Arizona
+401382154,2022,regular-season,2022-02-06,4,204,away,FALSE,Oregon State,61,Beavers,Oregon State Beavers,Oregon St
+401368084,2022,regular-season,2022-02-06,4,251,home,FALSE,Texas,55,Longhorns,Texas Longhorns,Texas
+401368084,2022,regular-season,2022-02-06,4,239,away,FALSE,Baylor,63,Bears,Baylor Bears,Baylor
+401364298,2022,regular-season,2022-02-06,4,61,home,FALSE,Georgia,51,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+401364298,2022,regular-season,2022-02-06,4,57,away,FALSE,Florida,54,Gators,Florida Gators,Florida
+401364565,2022,regular-season,2022-02-06,4,120,home,FALSE,Maryland,80,Terrapins,Maryland Terrapins,Maryland
+401364565,2022,regular-season,2022-02-06,4,158,away,FALSE,Nebraska,65,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401382158,2022,regular-season,2022-02-06,4,9,home,FALSE,Arizona State,55,Sun Devils,Arizona State Sun Devils,Arizona St
+401382158,2022,regular-season,2022-02-06,4,2483,away,FALSE,Oregon,49,Ducks,Oregon Ducks,Oregon
+401369575,2022,regular-season,2022-02-06,4,52,home,FALSE,Florida State,70,Seminoles,Florida State Seminoles,Florida St
+401369575,2022,regular-season,2022-02-06,4,87,away,FALSE,Notre Dame,65,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401369574,2022,regular-season,2022-02-06,4,153,home,FALSE,North Carolina,85,Tar Heels,North Carolina Tar Heels,North Carolina
+401369574,2022,regular-season,2022-02-06,4,2390,away,FALSE,Miami,38,Hurricanes,Miami Hurricanes,Miami

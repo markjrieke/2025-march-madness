@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270430052,2007-02-12,2,52,home,FALSE,Florida State,59,Seminoles,Florida State Seminoles,Florida St
-270430052,2007-02-12,2,153,away,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
-270430201,2007-02-12,2,201,home,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
-270430201,2007-02-12,2,251,away,FALSE,Texas,58,Longhorns,Texas Longhorns,Texas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270430052,2007,regular-season,2007-02-12,2,52,home,FALSE,Florida State,59,Seminoles,Florida State Seminoles,Florida St
+270430052,2007,regular-season,2007-02-12,2,153,away,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
+270430201,2007,regular-season,2007-02-12,2,201,home,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
+270430201,2007,regular-season,2007-02-12,2,251,away,FALSE,Texas,58,Longhorns,Texas Longhorns,Texas

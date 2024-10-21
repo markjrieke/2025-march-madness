@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401600295,2023-12-01,3,77,home,FALSE,Northwestern,92,Wildcats,Northwestern Wildcats,Northwestern
-401600295,2023-12-01,3,2509,away,FALSE,Purdue,88,Boilermakers,Purdue Boilermakers,Purdue
-401574563,2023-12-01,2,2305,home,FALSE,Kansas,69,Jayhawks,Kansas Jayhawks,Kansas
-401574563,2023-12-01,2,41,away,FALSE,UConn,65,Huskies,UConn Huskies,UConn
-401574562,2023-12-01,2,2752,home,FALSE,Xavier,60,Musketeers,Xavier Musketeers,Xavier
-401574562,2023-12-01,2,248,away,FALSE,Houston,66,Cougars,Houston Cougars,Houston
-401593953,2023-12-01,2,252,home,TRUE,BYU,85,Cougars,BYU Cougars,BYU
-401593953,2023-12-01,2,278,away,TRUE,Fresno State,56,Bulldogs,Fresno State Bulldogs,Fresno St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401600295,2024,regular-season,2023-12-01,3,77,home,FALSE,Northwestern,92,Wildcats,Northwestern Wildcats,Northwestern
+401600295,2024,regular-season,2023-12-01,3,2509,away,FALSE,Purdue,88,Boilermakers,Purdue Boilermakers,Purdue
+401574563,2024,regular-season,2023-12-01,2,2305,home,FALSE,Kansas,69,Jayhawks,Kansas Jayhawks,Kansas
+401574563,2024,regular-season,2023-12-01,2,41,away,FALSE,UConn,65,Huskies,UConn Huskies,UConn
+401574562,2024,regular-season,2023-12-01,2,2752,home,FALSE,Xavier,60,Musketeers,Xavier Musketeers,Xavier
+401574562,2024,regular-season,2023-12-01,2,248,away,FALSE,Houston,66,Cougars,Houston Cougars,Houston
+401593953,2024,regular-season,2023-12-01,2,252,home,TRUE,BYU,85,Cougars,BYU Cougars,BYU
+401593953,2024,regular-season,2023-12-01,2,278,away,TRUE,Fresno State,56,Bulldogs,Fresno State Bulldogs,Fresno St

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401171099,2019-11-12,4,183,home,FALSE,Syracuse,65,Orange,Syracuse Orange,Syracuse
-401171099,2019-11-12,4,2379,away,FALSE,Maryland Eastern Shore,50,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-401169178,2019-11-12,4,58,home,FALSE,South Florida,82,Bulls,South Florida Bulls,South Florida
-401169178,2019-11-12,4,47,away,FALSE,Howard,53,Bison,Howard Bison,Howard
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401171099,2020,regular-season,2019-11-12,4,183,home,FALSE,Syracuse,65,Orange,Syracuse Orange,Syracuse
+401171099,2020,regular-season,2019-11-12,4,2379,away,FALSE,Maryland Eastern Shore,50,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+401169178,2020,regular-season,2019-11-12,4,58,home,FALSE,South Florida,82,Bulls,South Florida Bulls,South Florida
+401169178,2020,regular-season,2019-11-12,4,47,away,FALSE,Howard,53,Bison,Howard Bison,Howard

@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400987861,2017-12-21,4,218,home,FALSE,Temple,60,Owls,Temple Owls,Temple
-400987861,2017-12-21,4,2579,away,FALSE,South Carolina,87,Gamecocks,South Carolina Gamecocks,South Carolina
-400987878,2017-12-21,4,24,home,FALSE,Stanford,71,Cardinal,Stanford Cardinal,Stanford
-400987878,2017-12-21,4,2633,away,FALSE,Tennessee,83,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400994177,2017-12-21,4,277,home,FALSE,West Virginia,66,Mountaineers,West Virginia Mountaineers,West Virginia
-400994177,2017-12-21,4,2413,away,FALSE,Morehead State,56,Eagles,Morehead State Eagles,Morehead St
-400995008,2017-12-21,4,156,home,FALSE,Creighton,82,Bluejays,Creighton Bluejays,Creighton
-400995008,2017-12-21,4,52,away,FALSE,Florida State,92,Seminoles,Florida State Seminoles,Florida St
-400995007,2017-12-21,4,150,home,FALSE,Duke,63,Blue Devils,Duke Blue Devils,Duke
-400995007,2017-12-21,4,2751,away,FALSE,Wyoming,40,Cowgirls,Wyoming Cowgirls,Wyoming
-400993699,2017-12-21,4,130,home,FALSE,Michigan,105,Wolverines,Michigan Wolverines,Michigan
-400993699,2017-12-21,4,2169,away,FALSE,Delaware State,36,Hornets,Delaware State Hornets,Delaware St
-400987745,2017-12-21,4,96,home,FALSE,Kentucky,52,Wildcats,Kentucky Wildcats,Kentucky
-400987745,2017-12-21,4,25,away,FALSE,California,62,Golden Bears,California Golden Bears,California
-400993628,2017-12-21,4,2294,home,FALSE,Iowa,79,Hawkeyes,Iowa Hawkeyes,Iowa
-400993628,2017-12-21,4,2181,away,FALSE,Drake,66,Bulldogs,Drake Bulldogs,Drake
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400987861,2018,regular-season,2017-12-21,4,218,home,FALSE,Temple,60,Owls,Temple Owls,Temple
+400987861,2018,regular-season,2017-12-21,4,2579,away,FALSE,South Carolina,87,Gamecocks,South Carolina Gamecocks,South Carolina
+400987878,2018,regular-season,2017-12-21,4,24,home,FALSE,Stanford,71,Cardinal,Stanford Cardinal,Stanford
+400987878,2018,regular-season,2017-12-21,4,2633,away,FALSE,Tennessee,83,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400994177,2018,regular-season,2017-12-21,4,277,home,FALSE,West Virginia,66,Mountaineers,West Virginia Mountaineers,West Virginia
+400994177,2018,regular-season,2017-12-21,4,2413,away,FALSE,Morehead State,56,Eagles,Morehead State Eagles,Morehead St
+400995008,2018,regular-season,2017-12-21,4,156,home,FALSE,Creighton,82,Bluejays,Creighton Bluejays,Creighton
+400995008,2018,regular-season,2017-12-21,4,52,away,FALSE,Florida State,92,Seminoles,Florida State Seminoles,Florida St
+400995007,2018,regular-season,2017-12-21,4,150,home,FALSE,Duke,63,Blue Devils,Duke Blue Devils,Duke
+400995007,2018,regular-season,2017-12-21,4,2751,away,FALSE,Wyoming,40,Cowgirls,Wyoming Cowgirls,Wyoming
+400993699,2018,regular-season,2017-12-21,4,130,home,FALSE,Michigan,105,Wolverines,Michigan Wolverines,Michigan
+400993699,2018,regular-season,2017-12-21,4,2169,away,FALSE,Delaware State,36,Hornets,Delaware State Hornets,Delaware St
+400987745,2018,regular-season,2017-12-21,4,96,home,FALSE,Kentucky,52,Wildcats,Kentucky Wildcats,Kentucky
+400987745,2018,regular-season,2017-12-21,4,25,away,FALSE,California,62,Golden Bears,California Golden Bears,California
+400993628,2018,regular-season,2017-12-21,4,2294,home,FALSE,Iowa,79,Hawkeyes,Iowa Hawkeyes,Iowa
+400993628,2018,regular-season,2017-12-21,4,2181,away,FALSE,Drake,66,Bulldogs,Drake Bulldogs,Drake

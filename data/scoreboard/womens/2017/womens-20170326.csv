@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400948703,2017-03-26,4,87,home,TRUE,Notre Dame,75,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400948703,2017-03-26,4,24,away,TRUE,Stanford,76,Cardinal,Stanford Cardinal,Stanford
-400948727,2017-03-26,5,239,home,TRUE,Baylor,85,Bears,Baylor Bears,Baylor
-400948727,2017-03-26,5,344,away,TRUE,Mississippi State,94,Bulldogs,Mississippi State Bulldogs,Mississippi St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400948703,2017,post-season,2017-03-26,4,87,home,TRUE,Notre Dame,75,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400948703,2017,post-season,2017-03-26,4,24,away,TRUE,Stanford,76,Cardinal,Stanford Cardinal,Stanford
+400948727,2017,post-season,2017-03-26,5,239,home,TRUE,Baylor,85,Bears,Baylor Bears,Baylor
+400948727,2017,post-season,2017-03-26,5,344,away,TRUE,Mississippi State,94,Bulldogs,Mississippi State Bulldogs,Mississippi St

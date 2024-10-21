@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220660201,2002-03-07,2,201,home,FALSE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma
-220660201,2002-03-07,2,2306,away,FALSE,Kansas State,49,Wildcats,Kansas State Wildcats,Kansas St
-220660239,2002-03-07,2,239,home,FALSE,Baylor,91,Bears,Baylor Bears,Baylor
-220660239,2002-03-07,2,66,away,FALSE,Iowa State,83,Cyclones,Iowa State Cyclones,Iowa State
-220660295,2002-03-07,2,295,home,FALSE,Old Dominion,73,Monarchs,Old Dominion Monarchs,Old Dominion
-220660295,2002-03-07,2,2729,away,FALSE,William & Mary,52,Tribe,William & Mary Tribe,William & Mary
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220660201,2002,regular-season,2002-03-07,2,201,home,FALSE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma
+220660201,2002,regular-season,2002-03-07,2,2306,away,FALSE,Kansas State,49,Wildcats,Kansas State Wildcats,Kansas St
+220660239,2002,regular-season,2002-03-07,2,239,home,FALSE,Baylor,91,Bears,Baylor Bears,Baylor
+220660239,2002,regular-season,2002-03-07,2,66,away,FALSE,Iowa State,83,Cyclones,Iowa State Cyclones,Iowa State
+220660295,2002,regular-season,2002-03-07,2,295,home,FALSE,Old Dominion,73,Monarchs,Old Dominion Monarchs,Old Dominion
+220660295,2002,regular-season,2002-03-07,2,2729,away,FALSE,William & Mary,52,Tribe,William & Mary Tribe,William & Mary

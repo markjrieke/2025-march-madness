@@ -1,35 +1,35 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401364256,2022-01-09,4,2579,home,FALSE,South Carolina,74,Gamecocks,South Carolina Gamecocks,South Carolina
-401364256,2022-01-09,4,96,away,FALSE,Kentucky,54,Wildcats,Kentucky Wildcats,Kentucky
-401402972,2022-01-09,4,24,home,FALSE,Stanford,66,Cardinal,Stanford Cardinal,Stanford
-401402972,2022-01-09,4,2250,away,FALSE,Gonzaga,50,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401402157,2022-01-09,4,30,home,FALSE,USC,76,Trojans,USC Trojans,USC
-401402157,2022-01-09,4,12,away,FALSE,Arizona,67,Wildcats,Arizona Wildcats,Arizona
-401369558,2022-01-09,4,2390,home,FALSE,Miami,64,Hurricanes,Miami Hurricanes,Miami
-401369558,2022-01-09,4,152,away,FALSE,NC State,76,Wolfpack,NC State Wolfpack,NC State
-401364254,2022-01-09,4,145,home,FALSE,Ole Miss,58,Rebels,Ole Miss Rebels,Ole Miss
-401364254,2022-01-09,4,2633,away,FALSE,Tennessee,70,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401364513,2022-01-09,4,130,home,FALSE,Michigan,76,Wolverines,Michigan Wolverines,Michigan
-401364513,2022-01-09,4,164,away,FALSE,Rutgers,47,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-401402808,2022-01-09,4,251,home,FALSE,Texas,93,Longhorns,Texas Longhorns,Texas
-401402808,2022-01-09,4,292,away,FALSE,UT Rio Grande Valley,58,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-401364510,2022-01-09,4,135,home,FALSE,Minnesota,73,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401364510,2022-01-09,4,120,away,FALSE,Maryland,87,Terrapins,Maryland Terrapins,Maryland
-401378378,2022-01-09,4,41,home,FALSE,UConn,63,Huskies,UConn Huskies,UConn
-401378378,2022-01-09,4,156,away,FALSE,Creighton,55,Bluejays,Creighton Bluejays,Creighton
-401364252,2022-01-09,4,2,home,FALSE,Auburn,48,Tigers,Auburn Tigers,Auburn
-401364252,2022-01-09,4,99,away,FALSE,LSU,76,Tigers,LSU Tigers,LSU
-401364253,2022-01-09,4,61,home,FALSE,Georgia,72,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-401364253,2022-01-09,4,333,away,FALSE,Alabama,68,Crimson Tide,Alabama Crimson Tide,Alabama
-401369520,2022-01-09,4,59,home,FALSE,Georgia Tech,67,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-401369520,2022-01-09,4,258,away,FALSE,Virginia,31,Cavaliers,Virginia Cavaliers,Virginia
-401369524,2022-01-09,4,183,home,FALSE,Syracuse,65,Orange,Syracuse Orange,Syracuse
-401369524,2022-01-09,4,150,away,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
-401369521,2022-01-09,4,153,home,FALSE,North Carolina,71,Tar Heels,North Carolina Tar Heels,North Carolina
-401369521,2022-01-09,4,259,away,FALSE,Virginia Tech,46,Hokies,Virginia Tech Hokies,Virginia Tech
-401364604,2022-01-09,4,158,home,FALSE,Nebraska,86,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401364604,2022-01-09,4,2294,away,FALSE,Iowa,95,Hawkeyes,Iowa Hawkeyes,Iowa
-401364257,2022-01-09,6,245,home,FALSE,Texas A&M,89,Aggies,Texas A&M Aggies,Texas A&M
-401364257,2022-01-09,6,57,away,FALSE,Florida,97,Gators,Florida Gators,Florida
-401377803,2022-01-09,0,58,home,FALSE,South Florida,0,Bulls,South Florida Bulls,South Florida
-401377803,2022-01-09,0,2724,away,FALSE,Wichita State,0,Shockers,Wichita State Shockers,Wichita St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401364256,2022,regular-season,2022-01-09,4,2579,home,FALSE,South Carolina,74,Gamecocks,South Carolina Gamecocks,South Carolina
+401364256,2022,regular-season,2022-01-09,4,96,away,FALSE,Kentucky,54,Wildcats,Kentucky Wildcats,Kentucky
+401402972,2022,regular-season,2022-01-09,4,24,home,FALSE,Stanford,66,Cardinal,Stanford Cardinal,Stanford
+401402972,2022,regular-season,2022-01-09,4,2250,away,FALSE,Gonzaga,50,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401402157,2022,regular-season,2022-01-09,4,30,home,FALSE,USC,76,Trojans,USC Trojans,USC
+401402157,2022,regular-season,2022-01-09,4,12,away,FALSE,Arizona,67,Wildcats,Arizona Wildcats,Arizona
+401369558,2022,regular-season,2022-01-09,4,2390,home,FALSE,Miami,64,Hurricanes,Miami Hurricanes,Miami
+401369558,2022,regular-season,2022-01-09,4,152,away,FALSE,NC State,76,Wolfpack,NC State Wolfpack,NC State
+401364254,2022,regular-season,2022-01-09,4,145,home,FALSE,Ole Miss,58,Rebels,Ole Miss Rebels,Ole Miss
+401364254,2022,regular-season,2022-01-09,4,2633,away,FALSE,Tennessee,70,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401364513,2022,regular-season,2022-01-09,4,130,home,FALSE,Michigan,76,Wolverines,Michigan Wolverines,Michigan
+401364513,2022,regular-season,2022-01-09,4,164,away,FALSE,Rutgers,47,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401402808,2022,regular-season,2022-01-09,4,251,home,FALSE,Texas,93,Longhorns,Texas Longhorns,Texas
+401402808,2022,regular-season,2022-01-09,4,292,away,FALSE,UT Rio Grande Valley,58,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+401364510,2022,regular-season,2022-01-09,4,135,home,FALSE,Minnesota,73,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401364510,2022,regular-season,2022-01-09,4,120,away,FALSE,Maryland,87,Terrapins,Maryland Terrapins,Maryland
+401378378,2022,regular-season,2022-01-09,4,41,home,FALSE,UConn,63,Huskies,UConn Huskies,UConn
+401378378,2022,regular-season,2022-01-09,4,156,away,FALSE,Creighton,55,Bluejays,Creighton Bluejays,Creighton
+401364252,2022,regular-season,2022-01-09,4,2,home,FALSE,Auburn,48,Tigers,Auburn Tigers,Auburn
+401364252,2022,regular-season,2022-01-09,4,99,away,FALSE,LSU,76,Tigers,LSU Tigers,LSU
+401364253,2022,regular-season,2022-01-09,4,61,home,FALSE,Georgia,72,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+401364253,2022,regular-season,2022-01-09,4,333,away,FALSE,Alabama,68,Crimson Tide,Alabama Crimson Tide,Alabama
+401369520,2022,regular-season,2022-01-09,4,59,home,FALSE,Georgia Tech,67,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+401369520,2022,regular-season,2022-01-09,4,258,away,FALSE,Virginia,31,Cavaliers,Virginia Cavaliers,Virginia
+401369524,2022,regular-season,2022-01-09,4,183,home,FALSE,Syracuse,65,Orange,Syracuse Orange,Syracuse
+401369524,2022,regular-season,2022-01-09,4,150,away,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
+401369521,2022,regular-season,2022-01-09,4,153,home,FALSE,North Carolina,71,Tar Heels,North Carolina Tar Heels,North Carolina
+401369521,2022,regular-season,2022-01-09,4,259,away,FALSE,Virginia Tech,46,Hokies,Virginia Tech Hokies,Virginia Tech
+401364604,2022,regular-season,2022-01-09,4,158,home,FALSE,Nebraska,86,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401364604,2022,regular-season,2022-01-09,4,2294,away,FALSE,Iowa,95,Hawkeyes,Iowa Hawkeyes,Iowa
+401364257,2022,regular-season,2022-01-09,6,245,home,FALSE,Texas A&M,89,Aggies,Texas A&M Aggies,Texas A&M
+401364257,2022,regular-season,2022-01-09,6,57,away,FALSE,Florida,97,Gators,Florida Gators,Florida
+401377803,2022,regular-season,2022-01-09,0,58,home,FALSE,South Florida,0,Bulls,South Florida Bulls,South Florida
+401377803,2022,regular-season,2022-01-09,0,2724,away,FALSE,Wichita State,0,Shockers,Wichita State Shockers,Wichita St

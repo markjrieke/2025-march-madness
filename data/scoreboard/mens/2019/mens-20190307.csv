@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401084830,2019-03-07,2,248,home,FALSE,Houston,90,Cougars,Houston Cougars,Houston
-401084830,2019-03-07,2,2567,away,FALSE,SMU,79,Mustangs,SMU Mustangs,SMU
-401084829,2019-03-07,2,2116,home,FALSE,UCF,58,Knights,UCF Knights,UCF
-401084829,2019-03-07,2,2132,away,FALSE,Cincinnati,55,Bearcats,Cincinnati Bearcats,Cincinnati
-401082416,2019-03-07,2,275,home,FALSE,Wisconsin,65,Badgers,Wisconsin Badgers,Wisconsin
-401082416,2019-03-07,2,2294,away,FALSE,Iowa,45,Hawkeyes,Iowa Hawkeyes,Iowa
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401084830,2019,regular-season,2019-03-07,2,248,home,FALSE,Houston,90,Cougars,Houston Cougars,Houston
+401084830,2019,regular-season,2019-03-07,2,2567,away,FALSE,SMU,79,Mustangs,SMU Mustangs,SMU
+401084829,2019,regular-season,2019-03-07,2,2116,home,FALSE,UCF,58,Knights,UCF Knights,UCF
+401084829,2019,regular-season,2019-03-07,2,2132,away,FALSE,Cincinnati,55,Bearcats,Cincinnati Bearcats,Cincinnati
+401082416,2019,regular-season,2019-03-07,2,275,home,FALSE,Wisconsin,65,Badgers,Wisconsin Badgers,Wisconsin
+401082416,2019,regular-season,2019-03-07,2,2294,away,FALSE,Iowa,45,Hawkeyes,Iowa Hawkeyes,Iowa

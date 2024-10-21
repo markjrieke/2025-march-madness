@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260320120,2006-02-01,2,120,home,FALSE,Maryland,88,Terrapins,Maryland Terrapins,Maryland
-260320120,2006-02-01,2,2390,away,FALSE,Miami,77,Hurricanes,Miami Hurricanes,Miami
-260320164,2006-02-01,2,164,home,FALSE,Rutgers,61,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-260320164,2006-02-01,2,2599,away,FALSE,St. John's,51,Red Storm,St. John's Red Storm,St John's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260320120,2006,regular-season,2006-02-01,2,120,home,FALSE,Maryland,88,Terrapins,Maryland Terrapins,Maryland
+260320120,2006,regular-season,2006-02-01,2,2390,away,FALSE,Miami,77,Hurricanes,Miami Hurricanes,Miami
+260320164,2006,regular-season,2006-02-01,2,164,home,FALSE,Rutgers,61,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+260320164,2006,regular-season,2006-02-01,2,2599,away,FALSE,St. John's,51,Red Storm,St. John's Red Storm,St John's

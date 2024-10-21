@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220300024,2002-01-30,2,24,home,FALSE,Stanford,79,Cardinal,Stanford Cardinal,Stanford
-220300024,2002-01-30,2,25,away,FALSE,California,52,Golden Bears,California Golden Bears,California
-220300251,2002-01-30,4,251,home,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
-220300251,2002-01-30,4,2306,away,FALSE,Kansas State,80,Wildcats,Kansas State Wildcats,Kansas St
-220300239,2002-01-30,2,239,home,FALSE,Baylor,74,Bears,Baylor Bears,Baylor
-220300239,2002-01-30,2,158,away,FALSE,Nebraska,62,Cornhuskers,Nebraska Cornhuskers,Nebraska
-220300245,2002-01-30,2,245,home,FALSE,Texas A&M,55,Aggies,Texas A&M Aggies,Texas A&M
-220300245,2002-01-30,2,2641,away,FALSE,Texas Tech,77,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-220300275,2002-01-30,2,275,home,FALSE,Wisconsin,57,Badgers,Wisconsin Badgers,Wisconsin
-220300275,2002-01-30,2,127,away,FALSE,Michigan State,58,Spartans,Michigan State Spartans,Michigan St
-220300066,2002-01-30,2,66,home,FALSE,Iowa State,87,Cyclones,Iowa State Cyclones,Iowa State
-220300066,2002-01-30,2,142,away,FALSE,Missouri,61,Tigers,Missouri Tigers,Missouri
-220300103,2002-01-30,2,103,home,FALSE,Boston College,76,Eagles,Boston College Eagles,Boston College
-220300103,2002-01-30,2,277,away,FALSE,West Virginia,51,Mountaineers,West Virginia Mountaineers,West Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220300024,2002,regular-season,2002-01-30,2,24,home,FALSE,Stanford,79,Cardinal,Stanford Cardinal,Stanford
+220300024,2002,regular-season,2002-01-30,2,25,away,FALSE,California,52,Golden Bears,California Golden Bears,California
+220300251,2002,regular-season,2002-01-30,4,251,home,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
+220300251,2002,regular-season,2002-01-30,4,2306,away,FALSE,Kansas State,80,Wildcats,Kansas State Wildcats,Kansas St
+220300239,2002,regular-season,2002-01-30,2,239,home,FALSE,Baylor,74,Bears,Baylor Bears,Baylor
+220300239,2002,regular-season,2002-01-30,2,158,away,FALSE,Nebraska,62,Cornhuskers,Nebraska Cornhuskers,Nebraska
+220300245,2002,regular-season,2002-01-30,2,245,home,FALSE,Texas A&M,55,Aggies,Texas A&M Aggies,Texas A&M
+220300245,2002,regular-season,2002-01-30,2,2641,away,FALSE,Texas Tech,77,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+220300275,2002,regular-season,2002-01-30,2,275,home,FALSE,Wisconsin,57,Badgers,Wisconsin Badgers,Wisconsin
+220300275,2002,regular-season,2002-01-30,2,127,away,FALSE,Michigan State,58,Spartans,Michigan State Spartans,Michigan St
+220300066,2002,regular-season,2002-01-30,2,66,home,FALSE,Iowa State,87,Cyclones,Iowa State Cyclones,Iowa State
+220300066,2002,regular-season,2002-01-30,2,142,away,FALSE,Missouri,61,Tigers,Missouri Tigers,Missouri
+220300103,2002,regular-season,2002-01-30,2,103,home,FALSE,Boston College,76,Eagles,Boston College Eagles,Boston College
+220300103,2002,regular-season,2002-01-30,2,277,away,FALSE,West Virginia,51,Mountaineers,West Virginia Mountaineers,West Virginia

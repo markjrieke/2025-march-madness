@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250170150,2005-01-17,2,150,home,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
-250170150,2005-01-17,2,59,away,FALSE,Georgia Tech,59,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-250170153,2005-01-17,2,153,home,FALSE,North Carolina,83,Tar Heels,North Carolina Tar Heels,North Carolina
-250170153,2005-01-17,2,2390,away,FALSE,Miami,52,Hurricanes,Miami Hurricanes,Miami
-250170041,2005-01-17,2,41,home,FALSE,UConn,73,Huskies,UConn Huskies,UConn
-250170041,2005-01-17,2,251,away,FALSE,Texas,57,Longhorns,Texas Longhorns,Texas
-250170259,2005-01-17,3,259,home,FALSE,Virginia Tech,75,Hokies,Virginia Tech Hokies,Virginia Tech
-250170259,2005-01-17,3,152,away,FALSE,NC State,76,Wolfpack,NC State Wolfpack,NC State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250170150,2005,regular-season,2005-01-17,2,150,home,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
+250170150,2005,regular-season,2005-01-17,2,59,away,FALSE,Georgia Tech,59,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+250170153,2005,regular-season,2005-01-17,2,153,home,FALSE,North Carolina,83,Tar Heels,North Carolina Tar Heels,North Carolina
+250170153,2005,regular-season,2005-01-17,2,2390,away,FALSE,Miami,52,Hurricanes,Miami Hurricanes,Miami
+250170041,2005,regular-season,2005-01-17,2,41,home,FALSE,UConn,73,Huskies,UConn Huskies,UConn
+250170041,2005,regular-season,2005-01-17,2,251,away,FALSE,Texas,57,Longhorns,Texas Longhorns,Texas
+250170259,2005,regular-season,2005-01-17,3,259,home,FALSE,Virginia Tech,75,Hokies,Virginia Tech Hokies,Virginia Tech
+250170259,2005,regular-season,2005-01-17,3,152,away,FALSE,NC State,76,Wolfpack,NC State Wolfpack,NC State

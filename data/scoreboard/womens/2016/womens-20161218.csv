@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400912066,2016-12-18,4,2649,home,FALSE,Toledo,68,Rockets,Toledo Rockets,Toledo
-400912066,2016-12-18,4,87,away,FALSE,Notre Dame,85,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400912570,2016-12-18,4,2579,home,FALSE,South Carolina,66,Gamecocks,South Carolina Gamecocks,South Carolina
-400912570,2016-12-18,4,26,away,FALSE,UCLA,57,Bruins,UCLA Bruins,UCLA
-400912062,2016-12-18,4,97,home,FALSE,Louisville,89,Cardinals,Louisville Cardinals,Louisville
-400912062,2016-12-18,4,339,away,FALSE,Evansville,47,Purple Aces,Evansville Purple Aces,Evansville
-400912578,2016-12-18,4,2633,home,FALSE,Tennessee,59,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400912578,2016-12-18,4,24,away,FALSE,Stanford,51,Cardinal,Stanford Cardinal,Stanford
-400913900,2016-12-18,4,264,home,FALSE,Washington,87,Huskies,Washington Huskies,Washington
-400913900,2016-12-18,4,2542,away,FALSE,Savannah State,36,Tigers,Savannah State Tigers,Savannah St
-400911338,2016-12-18,4,2350,home,FALSE,Loyola Chicago,46,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-400911338,2016-12-18,4,305,away,FALSE,DePaul,107,Blue Demons,DePaul Blue Demons,DePaul
-400912537,2016-12-18,4,96,home,FALSE,Kentucky,59,Wildcats,Kentucky Wildcats,Kentucky
-400912537,2016-12-18,4,2515,away,FALSE,Radford,36,Highlanders,Radford Highlanders,Radford
-400911848,2016-12-18,5,2,home,FALSE,Auburn,87,Tigers,Auburn Tigers,Auburn
-400911848,2016-12-18,5,259,away,FALSE,Virginia Tech,92,Hokies,Virginia Tech Hokies,Virginia Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400912066,2017,regular-season,2016-12-18,4,2649,home,FALSE,Toledo,68,Rockets,Toledo Rockets,Toledo
+400912066,2017,regular-season,2016-12-18,4,87,away,FALSE,Notre Dame,85,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400912570,2017,regular-season,2016-12-18,4,2579,home,FALSE,South Carolina,66,Gamecocks,South Carolina Gamecocks,South Carolina
+400912570,2017,regular-season,2016-12-18,4,26,away,FALSE,UCLA,57,Bruins,UCLA Bruins,UCLA
+400912062,2017,regular-season,2016-12-18,4,97,home,FALSE,Louisville,89,Cardinals,Louisville Cardinals,Louisville
+400912062,2017,regular-season,2016-12-18,4,339,away,FALSE,Evansville,47,Purple Aces,Evansville Purple Aces,Evansville
+400912578,2017,regular-season,2016-12-18,4,2633,home,FALSE,Tennessee,59,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400912578,2017,regular-season,2016-12-18,4,24,away,FALSE,Stanford,51,Cardinal,Stanford Cardinal,Stanford
+400913900,2017,regular-season,2016-12-18,4,264,home,FALSE,Washington,87,Huskies,Washington Huskies,Washington
+400913900,2017,regular-season,2016-12-18,4,2542,away,FALSE,Savannah State,36,Tigers,Savannah State Tigers,Savannah St
+400911338,2017,regular-season,2016-12-18,4,2350,home,FALSE,Loyola Chicago,46,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+400911338,2017,regular-season,2016-12-18,4,305,away,FALSE,DePaul,107,Blue Demons,DePaul Blue Demons,DePaul
+400912537,2017,regular-season,2016-12-18,4,96,home,FALSE,Kentucky,59,Wildcats,Kentucky Wildcats,Kentucky
+400912537,2017,regular-season,2016-12-18,4,2515,away,FALSE,Radford,36,Highlanders,Radford Highlanders,Radford
+400911848,2017,regular-season,2016-12-18,5,2,home,FALSE,Auburn,87,Tigers,Auburn Tigers,Auburn
+400911848,2017,regular-season,2016-12-18,5,259,away,FALSE,Virginia Tech,92,Hokies,Virginia Tech Hokies,Virginia Tech

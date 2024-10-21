@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401091562,2019-01-10,4,344,home,FALSE,Mississippi State,80,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401091562,2019-01-10,4,61,away,FALSE,Georgia,71,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-401092036,2019-01-10,4,152,home,FALSE,NC State,63,Wolfpack,NC State Wolfpack,NC State
-401092036,2019-01-10,4,221,away,FALSE,Pittsburgh,34,Panthers,Pittsburgh Panthers,Pitt
-401091561,2019-01-10,4,2633,home,FALSE,Tennessee,71,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401091561,2019-01-10,4,96,away,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
-401094668,2019-01-10,4,2509,home,FALSE,Purdue,62,Boilermakers,Purdue Boilermakers,Purdue
-401094668,2019-01-10,4,2294,away,FALSE,Iowa,57,Hawkeyes,Iowa Hawkeyes,Iowa
-401091564,2019-01-10,4,2579,home,FALSE,South Carolina,71,Gamecocks,South Carolina Gamecocks,South Carolina
-401091564,2019-01-10,4,57,away,FALSE,Florida,40,Gators,Florida Gators,Florida
-401094644,2019-01-10,4,194,home,FALSE,Ohio State,55,Buckeyes,Ohio State Buckeyes,Ohio State
-401094644,2019-01-10,4,84,away,FALSE,Indiana,50,Hoosiers,Indiana Hoosiers,Indiana
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401091562,2019,regular-season,2019-01-10,4,344,home,FALSE,Mississippi State,80,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401091562,2019,regular-season,2019-01-10,4,61,away,FALSE,Georgia,71,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+401092036,2019,regular-season,2019-01-10,4,152,home,FALSE,NC State,63,Wolfpack,NC State Wolfpack,NC State
+401092036,2019,regular-season,2019-01-10,4,221,away,FALSE,Pittsburgh,34,Panthers,Pittsburgh Panthers,Pitt
+401091561,2019,regular-season,2019-01-10,4,2633,home,FALSE,Tennessee,71,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401091561,2019,regular-season,2019-01-10,4,96,away,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
+401094668,2019,regular-season,2019-01-10,4,2509,home,FALSE,Purdue,62,Boilermakers,Purdue Boilermakers,Purdue
+401094668,2019,regular-season,2019-01-10,4,2294,away,FALSE,Iowa,57,Hawkeyes,Iowa Hawkeyes,Iowa
+401091564,2019,regular-season,2019-01-10,4,2579,home,FALSE,South Carolina,71,Gamecocks,South Carolina Gamecocks,South Carolina
+401091564,2019,regular-season,2019-01-10,4,57,away,FALSE,Florida,40,Gators,Florida Gators,Florida
+401094644,2019,regular-season,2019-01-10,4,194,home,FALSE,Ohio State,55,Buckeyes,Ohio State Buckeyes,Ohio State
+401094644,2019,regular-season,2019-01-10,4,84,away,FALSE,Indiana,50,Hoosiers,Indiana Hoosiers,Indiana

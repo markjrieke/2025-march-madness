@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400986445,2017-12-18,2,127,home,FALSE,Michigan State,107,Spartans,Michigan State Spartans,Michigan St
-400986445,2017-12-18,2,2277,away,FALSE,Houston Christian,62,Huskies,Houston Christian Huskies,Hou Christian
-400986885,2017-12-18,2,2250,home,FALSE,Gonzaga,101,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400986885,2017-12-18,2,85,away,FALSE,IU Indianapolis,71,Jaguars,IU Indianapolis Jaguars,IU Indy
-400989179,2017-12-18,2,2305,home,FALSE,Kansas,109,Jayhawks,Kansas Jayhawks,Kansas
-400989179,2017-12-18,2,2437,away,FALSE,Omaha,64,Mavericks,Omaha Mavericks,Omaha
-400989248,2017-12-18,2,2628,home,FALSE,TCU,91,Horned Frogs,TCU Horned Frogs,TCU
-400989248,2017-12-18,2,2640,away,FALSE,Texas Southern,72,Tigers,Texas Southern Tigers,Texas Southern
-400988274,2017-12-18,2,12,home,FALSE,Arizona,83,Wildcats,Arizona Wildcats,Arizona
-400988274,2017-12-18,2,2449,away,FALSE,North Dakota State,53,Bison,North Dakota State Bison,N Dakota St
-400986149,2017-12-18,2,52,home,FALSE,Florida State,69,Seminoles,Florida State Seminoles,Florida St
-400986149,2017-12-18,2,2127,away,FALSE,Charleston Southern,58,Buccaneers,Charleston Southern Buccaneers,Charleston So
-400988532,2017-12-18,2,156,home,FALSE,Creighton,90,Bluejays,Creighton Bluejays,Creighton
-400988532,2017-12-18,2,250,away,FALSE,UT Arlington,81,Mavericks,UT Arlington Mavericks,UT Arlington
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400986445,2018,regular-season,2017-12-18,2,127,home,FALSE,Michigan State,107,Spartans,Michigan State Spartans,Michigan St
+400986445,2018,regular-season,2017-12-18,2,2277,away,FALSE,Houston Christian,62,Huskies,Houston Christian Huskies,Hou Christian
+400986885,2018,regular-season,2017-12-18,2,2250,home,FALSE,Gonzaga,101,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400986885,2018,regular-season,2017-12-18,2,85,away,FALSE,IU Indianapolis,71,Jaguars,IU Indianapolis Jaguars,IU Indy
+400989179,2018,regular-season,2017-12-18,2,2305,home,FALSE,Kansas,109,Jayhawks,Kansas Jayhawks,Kansas
+400989179,2018,regular-season,2017-12-18,2,2437,away,FALSE,Omaha,64,Mavericks,Omaha Mavericks,Omaha
+400989248,2018,regular-season,2017-12-18,2,2628,home,FALSE,TCU,91,Horned Frogs,TCU Horned Frogs,TCU
+400989248,2018,regular-season,2017-12-18,2,2640,away,FALSE,Texas Southern,72,Tigers,Texas Southern Tigers,Texas Southern
+400988274,2018,regular-season,2017-12-18,2,12,home,FALSE,Arizona,83,Wildcats,Arizona Wildcats,Arizona
+400988274,2018,regular-season,2017-12-18,2,2449,away,FALSE,North Dakota State,53,Bison,North Dakota State Bison,N Dakota St
+400986149,2018,regular-season,2017-12-18,2,52,home,FALSE,Florida State,69,Seminoles,Florida State Seminoles,Florida St
+400986149,2018,regular-season,2017-12-18,2,2127,away,FALSE,Charleston Southern,58,Buccaneers,Charleston Southern Buccaneers,Charleston So
+400988532,2018,regular-season,2017-12-18,2,156,home,FALSE,Creighton,90,Bluejays,Creighton Bluejays,Creighton
+400988532,2018,regular-season,2017-12-18,2,250,away,FALSE,UT Arlington,81,Mavericks,UT Arlington Mavericks,UT Arlington

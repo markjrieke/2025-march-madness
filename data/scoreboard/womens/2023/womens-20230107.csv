@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401484684,2023-01-07,4,120,home,FALSE,Maryland,94,Terrapins,Maryland Terrapins,Maryland
-401484684,2023-01-07,4,127,away,FALSE,Michigan State,85,Spartans,Michigan State Spartans,Michigan St
-401484683,2023-01-07,4,130,home,FALSE,Michigan,85,Wolverines,Michigan Wolverines,Michigan
-401484683,2023-01-07,4,2294,away,FALSE,Iowa,94,Hawkeyes,Iowa Hawkeyes,Iowa
-401474718,2023-01-07,4,2250,home,FALSE,Gonzaga,78,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401474718,2023-01-07,4,2541,away,FALSE,Santa Clara,61,Broncos,Santa Clara Broncos,Santa Clara
-401494140,2023-01-07,4,2305,home,FALSE,Kansas,62,Jayhawks,Kansas Jayhawks,Kansas
-401494140,2023-01-07,4,239,away,FALSE,Baylor,75,Bears,Baylor Bears,Baylor
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401484684,2023,regular-season,2023-01-07,4,120,home,FALSE,Maryland,94,Terrapins,Maryland Terrapins,Maryland
+401484684,2023,regular-season,2023-01-07,4,127,away,FALSE,Michigan State,85,Spartans,Michigan State Spartans,Michigan St
+401484683,2023,regular-season,2023-01-07,4,130,home,FALSE,Michigan,85,Wolverines,Michigan Wolverines,Michigan
+401484683,2023,regular-season,2023-01-07,4,2294,away,FALSE,Iowa,94,Hawkeyes,Iowa Hawkeyes,Iowa
+401474718,2023,regular-season,2023-01-07,4,2250,home,FALSE,Gonzaga,78,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401474718,2023,regular-season,2023-01-07,4,2541,away,FALSE,Santa Clara,61,Broncos,Santa Clara Broncos,Santa Clara
+401494140,2023,regular-season,2023-01-07,4,2305,home,FALSE,Kansas,62,Jayhawks,Kansas Jayhawks,Kansas
+401494140,2023,regular-season,2023-01-07,4,239,away,FALSE,Baylor,75,Bears,Baylor Bears,Baylor

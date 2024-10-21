@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401083037,2019-02-13,2,2633,home,FALSE,Tennessee,85,Volunteers,Tennessee Volunteers,Tennessee
-401083037,2019-02-13,2,2579,away,FALSE,South Carolina,73,Gamecocks,South Carolina Gamecocks,South Carolina
-401083323,2019-02-13,2,222,home,FALSE,Villanova,85,Wildcats,Villanova Wildcats,Villanova
-401083323,2019-02-13,2,2507,away,FALSE,Providence,67,Friars,Providence Friars,Providence
-401083489,2019-02-13,2,197,home,FALSE,Oklahoma State,50,Cowboys,Oklahoma State Cowboys,Oklahoma St
-401083489,2019-02-13,2,2641,away,FALSE,Texas Tech,78,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401082711,2019-02-13,2,52,home,FALSE,Florida State,88,Seminoles,Florida State Seminoles,Florida St
-401082711,2019-02-13,2,154,away,FALSE,Wake Forest,66,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-401082757,2019-02-13,2,259,home,FALSE,Virginia Tech,76,Hokies,Virginia Tech Hokies,Virginia Tech
-401082757,2019-02-13,2,59,away,FALSE,Georgia Tech,68,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401083037,2019,regular-season,2019-02-13,2,2633,home,FALSE,Tennessee,85,Volunteers,Tennessee Volunteers,Tennessee
+401083037,2019,regular-season,2019-02-13,2,2579,away,FALSE,South Carolina,73,Gamecocks,South Carolina Gamecocks,South Carolina
+401083323,2019,regular-season,2019-02-13,2,222,home,FALSE,Villanova,85,Wildcats,Villanova Wildcats,Villanova
+401083323,2019,regular-season,2019-02-13,2,2507,away,FALSE,Providence,67,Friars,Providence Friars,Providence
+401083489,2019,regular-season,2019-02-13,2,197,home,FALSE,Oklahoma State,50,Cowboys,Oklahoma State Cowboys,Oklahoma St
+401083489,2019,regular-season,2019-02-13,2,2641,away,FALSE,Texas Tech,78,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401082711,2019,regular-season,2019-02-13,2,52,home,FALSE,Florida State,88,Seminoles,Florida State Seminoles,Florida St
+401082711,2019,regular-season,2019-02-13,2,154,away,FALSE,Wake Forest,66,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+401082757,2019,regular-season,2019-02-13,2,259,home,FALSE,Virginia Tech,76,Hokies,Virginia Tech Hokies,Virginia Tech
+401082757,2019,regular-season,2019-02-13,2,59,away,FALSE,Georgia Tech,68,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech

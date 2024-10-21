@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253282571,2005-11-24,2,2571,home,FALSE,South Dakota State,68,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-253282571,2005-11-24,2,2546,away,FALSE,Southeast Missouri State,75,Redhawks,Southeast Missouri State Redhawks,SE Missouri
-253280001,2005-11-24,2,1,home,FALSE,Alaska Anchorage,60,Seawolves,Alaska Anchorage Seawolves,AK-Anchorage
-253280001,2005-11-24,2,2579,away,FALSE,South Carolina,65,Gamecocks,South Carolina Gamecocks,South Carolina
-253280079,2005-11-24,2,79,home,FALSE,Southern Illinois,68,Salukis,Southern Illinois Salukis,S Illinois
-253280079,2005-11-24,2,2405,away,FALSE,Monmouth,80,Hawks,Monmouth Hawks,Monmouth
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253282571,2006,regular-season,2005-11-24,2,2571,home,FALSE,South Dakota State,68,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+253282571,2006,regular-season,2005-11-24,2,2546,away,FALSE,Southeast Missouri State,75,Redhawks,Southeast Missouri State Redhawks,SE Missouri
+253280001,2006,regular-season,2005-11-24,2,1,home,FALSE,Alaska Anchorage,60,Seawolves,Alaska Anchorage Seawolves,AK-Anchorage
+253280001,2006,regular-season,2005-11-24,2,2579,away,FALSE,South Carolina,65,Gamecocks,South Carolina Gamecocks,South Carolina
+253280079,2006,regular-season,2005-11-24,2,79,home,FALSE,Southern Illinois,68,Salukis,Southern Illinois Salukis,S Illinois
+253280079,2006,regular-season,2005-11-24,2,2405,away,FALSE,Monmouth,80,Hawks,Monmouth Hawks,Monmouth

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310862305,2011-03-27,2,2305,home,TRUE,Kansas,61,Jayhawks,Kansas Jayhawks,Kansas
-310862305,2011-03-27,2,2670,away,TRUE,VCU,71,Rams,VCU Rams,VCU
-310860153,2011-03-27,2,153,home,TRUE,North Carolina,69,Tar Heels,North Carolina Tar Heels,North Carolina
-310860153,2011-03-27,2,96,away,TRUE,Kentucky,76,Wildcats,Kentucky Wildcats,Kentucky
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310862305,2011,post-season,2011-03-27,2,2305,home,TRUE,Kansas,61,Jayhawks,Kansas Jayhawks,Kansas
+310862305,2011,post-season,2011-03-27,2,2670,away,TRUE,VCU,71,Rams,VCU Rams,VCU
+310860153,2011,post-season,2011-03-27,2,153,home,TRUE,North Carolina,69,Tar Heels,North Carolina Tar Heels,North Carolina
+310860153,2011,post-season,2011-03-27,2,96,away,TRUE,Kentucky,76,Wildcats,Kentucky Wildcats,Kentucky

@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400916161,2016-12-05,2,66,home,FALSE,Iowa State,91,Cyclones,Iowa State Cyclones,Iowa State
-400916161,2016-12-05,2,2437,away,FALSE,Omaha,47,Mavericks,Omaha Mavericks,Omaha
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400916161,2017,regular-season,2016-12-05,2,66,home,FALSE,Iowa State,91,Cyclones,Iowa State Cyclones,Iowa State
+400916161,2017,regular-season,2016-12-05,2,2437,away,FALSE,Omaha,47,Mavericks,Omaha Mavericks,Omaha

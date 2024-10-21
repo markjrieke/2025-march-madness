@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401168265,2019-12-19,2,150,home,FALSE,Duke,86,Blue Devils,Duke Blue Devils,Duke
-401168265,2019-12-19,2,2747,away,FALSE,Wofford,57,Terriers,Wofford Terriers,Wofford
-401168447,2019-12-19,2,2550,home,FALSE,Seton Hall,52,Pirates,Seton Hall Pirates,Seton Hall
-401168447,2019-12-19,2,120,away,FALSE,Maryland,48,Terrapins,Maryland Terrapins,Maryland
-401168621,2019-12-19,2,2,home,FALSE,Auburn,79,Tigers,Auburn Tigers,Auburn
-401168621,2019-12-19,2,152,away,FALSE,NC State,73,Wolfpack,NC State Wolfpack,NC State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401168265,2020,regular-season,2019-12-19,2,150,home,FALSE,Duke,86,Blue Devils,Duke Blue Devils,Duke
+401168265,2020,regular-season,2019-12-19,2,2747,away,FALSE,Wofford,57,Terriers,Wofford Terriers,Wofford
+401168447,2020,regular-season,2019-12-19,2,2550,home,FALSE,Seton Hall,52,Pirates,Seton Hall Pirates,Seton Hall
+401168447,2020,regular-season,2019-12-19,2,120,away,FALSE,Maryland,48,Terrapins,Maryland Terrapins,Maryland
+401168621,2020,regular-season,2019-12-19,2,2,home,FALSE,Auburn,79,Tigers,Auburn Tigers,Auburn
+401168621,2020,regular-season,2019-12-19,2,152,away,FALSE,NC State,73,Wolfpack,NC State Wolfpack,NC State

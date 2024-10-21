@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313332633,2011-11-29,2,2633,home,FALSE,Tennessee,82,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-313332633,2011-11-29,2,2393,away,FALSE,Middle Tennessee,43,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-313330097,2011-11-29,2,97,home,FALSE,Louisville,105,Cardinals,Louisville Cardinals,Louisville
-313330097,2011-11-29,2,93,away,FALSE,Murray State,62,Racers,Murray State Racers,Murray St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313332633,2012,regular-season,2011-11-29,2,2633,home,FALSE,Tennessee,82,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+313332633,2012,regular-season,2011-11-29,2,2393,away,FALSE,Middle Tennessee,43,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+313330097,2012,regular-season,2011-11-29,2,97,home,FALSE,Louisville,105,Cardinals,Louisville Cardinals,Louisville
+313330097,2012,regular-season,2011-11-29,2,93,away,FALSE,Murray State,62,Racers,Murray State Racers,Murray St

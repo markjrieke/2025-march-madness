@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400840383,2015-11-27,4,2633,home,FALSE,Tennessee,63,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400840383,2015-11-27,4,399,away,FALSE,UAlbany,55,Great Danes,UAlbany Great Danes,UAlbany
-400842344,2015-11-27,4,344,home,FALSE,Mississippi State,92,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400842344,2015-11-27,4,2450,away,FALSE,Norfolk State,34,Spartans,Norfolk State Spartans,Norfolk St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400840383,2016,regular-season,2015-11-27,4,2633,home,FALSE,Tennessee,63,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400840383,2016,regular-season,2015-11-27,4,399,away,FALSE,UAlbany,55,Great Danes,UAlbany Great Danes,UAlbany
+400842344,2016,regular-season,2015-11-27,4,344,home,FALSE,Mississippi State,92,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400842344,2016,regular-season,2015-11-27,4,2450,away,FALSE,Norfolk State,34,Spartans,Norfolk State Spartans,Norfolk St

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243300251,2004-11-25,2,251,home,FALSE,Texas,74,Longhorns,Texas Longhorns,Texas
-243300251,2004-11-25,2,2633,away,FALSE,Tennessee,59,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-243302509,2004-11-25,2,2509,home,FALSE,Purdue,55,Boilermakers,Purdue Boilermakers,Purdue
-243302509,2004-11-25,2,8,away,FALSE,Arkansas,51,Razorbacks,Arkansas Razorbacks,Arkansas
-243300164,2004-11-25,2,164,home,FALSE,Rutgers,68,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-243300164,2004-11-25,2,2571,away,FALSE,South Dakota State,50,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243300251,2005,regular-season,2004-11-25,2,251,home,FALSE,Texas,74,Longhorns,Texas Longhorns,Texas
+243300251,2005,regular-season,2004-11-25,2,2633,away,FALSE,Tennessee,59,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+243302509,2005,regular-season,2004-11-25,2,2509,home,FALSE,Purdue,55,Boilermakers,Purdue Boilermakers,Purdue
+243302509,2005,regular-season,2004-11-25,2,8,away,FALSE,Arkansas,51,Razorbacks,Arkansas Razorbacks,Arkansas
+243300164,2005,regular-season,2004-11-25,2,164,home,FALSE,Rutgers,68,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+243300164,2005,regular-season,2004-11-25,2,2571,away,FALSE,South Dakota State,50,Jackrabbits,South Dakota State Jackrabbits,S Dakota St

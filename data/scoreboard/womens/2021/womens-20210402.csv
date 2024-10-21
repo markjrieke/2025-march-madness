@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401311267,2021-04-02,4,24,home,TRUE,Stanford,66,Cardinal,Stanford Cardinal,Stanford
-401311267,2021-04-02,4,2579,away,TRUE,South Carolina,65,Gamecocks,South Carolina Gamecocks,South Carolina
-401311268,2021-04-02,4,41,home,TRUE,UConn,59,Huskies,UConn Huskies,UConn
-401311268,2021-04-02,4,12,away,TRUE,Arizona,69,Wildcats,Arizona Wildcats,Arizona
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401311267,2021,post-season,2021-04-02,4,24,home,TRUE,Stanford,66,Cardinal,Stanford Cardinal,Stanford
+401311267,2021,post-season,2021-04-02,4,2579,away,TRUE,South Carolina,65,Gamecocks,South Carolina Gamecocks,South Carolina
+401311268,2021,post-season,2021-04-02,4,41,home,TRUE,UConn,59,Huskies,UConn Huskies,UConn
+401311268,2021,post-season,2021-04-02,4,12,away,TRUE,Arizona,69,Wildcats,Arizona Wildcats,Arizona

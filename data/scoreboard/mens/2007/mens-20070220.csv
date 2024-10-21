@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270510127,2007-02-20,2,127,home,FALSE,Michigan State,64,Spartans,Michigan State Spartans,Michigan St
-270510127,2007-02-20,2,275,away,FALSE,Wisconsin,55,Badgers,Wisconsin Badgers,Wisconsin
-270512439,2007-02-20,2,2439,home,FALSE,UNLV,60,Rebels,UNLV Rebels,UNLV
-270512439,2007-02-20,2,2005,away,FALSE,Air Force,50,Falcons,Air Force Falcons,Air Force
-270510251,2007-02-20,2,251,home,FALSE,Texas,80,Longhorns,Texas Longhorns,Texas
-270510251,2007-02-20,2,2641,away,FALSE,Texas Tech,51,Red Raiders,Texas Tech Red Raiders,Texas Tech
-270512507,2007-02-20,2,2507,home,FALSE,Providence,64,Friars,Providence Friars,Providence
-270512507,2007-02-20,2,277,away,FALSE,West Virginia,61,Mountaineers,West Virginia Mountaineers,West Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270510127,2007,regular-season,2007-02-20,2,127,home,FALSE,Michigan State,64,Spartans,Michigan State Spartans,Michigan St
+270510127,2007,regular-season,2007-02-20,2,275,away,FALSE,Wisconsin,55,Badgers,Wisconsin Badgers,Wisconsin
+270512439,2007,regular-season,2007-02-20,2,2439,home,FALSE,UNLV,60,Rebels,UNLV Rebels,UNLV
+270512439,2007,regular-season,2007-02-20,2,2005,away,FALSE,Air Force,50,Falcons,Air Force Falcons,Air Force
+270510251,2007,regular-season,2007-02-20,2,251,home,FALSE,Texas,80,Longhorns,Texas Longhorns,Texas
+270510251,2007,regular-season,2007-02-20,2,2641,away,FALSE,Texas Tech,51,Red Raiders,Texas Tech Red Raiders,Texas Tech
+270512507,2007,regular-season,2007-02-20,2,2507,home,FALSE,Providence,64,Friars,Providence Friars,Providence
+270512507,2007,regular-season,2007-02-20,2,277,away,FALSE,West Virginia,61,Mountaineers,West Virginia Mountaineers,West Virginia

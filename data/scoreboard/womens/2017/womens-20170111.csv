@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400905164,2017-01-11,4,239,home,FALSE,Baylor,77,Bears,Baylor Bears,Baylor
-400905164,2017-01-11,4,2628,away,FALSE,TCU,54,Horned Frogs,TCU Horned Frogs,TCU
-400914432,2017-01-11,4,120,home,FALSE,Maryland,89,Terrapins,Maryland Terrapins,Maryland
-400914432,2017-01-11,4,213,away,FALSE,Penn State,83,Lady Lions,Penn State Lady Lions,Penn State
-400912122,2017-01-11,4,2390,home,FALSE,Miami,82,Hurricanes,Miami Hurricanes,Miami
-400912122,2017-01-11,4,259,away,FALSE,Virginia Tech,75,Hokies,Virginia Tech Hokies,Virginia Tech
-400911147,2017-01-11,4,2641,home,FALSE,Texas Tech,75,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-400911147,2017-01-11,4,277,away,FALSE,West Virginia,66,Mountaineers,West Virginia Mountaineers,West Virginia
-400905224,2017-01-11,4,66,home,FALSE,Iowa State,57,Cyclones,Iowa State Cyclones,Iowa State
-400905224,2017-01-11,4,201,away,FALSE,Oklahoma,67,Sooners,Oklahoma Sooners,Oklahoma
-400911146,2017-01-11,4,2306,home,FALSE,Kansas State,73,Wildcats,Kansas State Wildcats,Kansas St
-400911146,2017-01-11,4,2305,away,FALSE,Kansas,60,Jayhawks,Kansas Jayhawks,Kansas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400905164,2017,regular-season,2017-01-11,4,239,home,FALSE,Baylor,77,Bears,Baylor Bears,Baylor
+400905164,2017,regular-season,2017-01-11,4,2628,away,FALSE,TCU,54,Horned Frogs,TCU Horned Frogs,TCU
+400914432,2017,regular-season,2017-01-11,4,120,home,FALSE,Maryland,89,Terrapins,Maryland Terrapins,Maryland
+400914432,2017,regular-season,2017-01-11,4,213,away,FALSE,Penn State,83,Lady Lions,Penn State Lady Lions,Penn State
+400912122,2017,regular-season,2017-01-11,4,2390,home,FALSE,Miami,82,Hurricanes,Miami Hurricanes,Miami
+400912122,2017,regular-season,2017-01-11,4,259,away,FALSE,Virginia Tech,75,Hokies,Virginia Tech Hokies,Virginia Tech
+400911147,2017,regular-season,2017-01-11,4,2641,home,FALSE,Texas Tech,75,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+400911147,2017,regular-season,2017-01-11,4,277,away,FALSE,West Virginia,66,Mountaineers,West Virginia Mountaineers,West Virginia
+400905224,2017,regular-season,2017-01-11,4,66,home,FALSE,Iowa State,57,Cyclones,Iowa State Cyclones,Iowa State
+400905224,2017,regular-season,2017-01-11,4,201,away,FALSE,Oklahoma,67,Sooners,Oklahoma Sooners,Oklahoma
+400911146,2017,regular-season,2017-01-11,4,2306,home,FALSE,Kansas State,73,Wildcats,Kansas State Wildcats,Kansas St
+400911146,2017,regular-season,2017-01-11,4,2305,away,FALSE,Kansas,60,Jayhawks,Kansas Jayhawks,Kansas

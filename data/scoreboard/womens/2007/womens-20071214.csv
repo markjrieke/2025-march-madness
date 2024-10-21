@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273480195,2007-12-14,2,195,home,FALSE,Ohio,74,Bobcats,Ohio Bobcats,Ohio
-273480195,2007-12-14,2,276,away,FALSE,Marshall,78,Thundering Herd,Marshall Thundering Herd,Marshall
-273482229,2007-12-14,2,2229,home,FALSE,Florida International,68,Panthers,Florida International Panthers,FIU
-273482229,2007-12-14,2,2636,away,FALSE,UTSA,57,Roadrunners,UTSA Roadrunners,UTSA
-273482619,2007-12-14,2,2619,home,FALSE,Stony Brook,65,Seawolves,Stony Brook Seawolves,Stony Brook
-273482619,2007-12-14,2,159,away,FALSE,Dartmouth,48,Big Green,Dartmouth Big Green,Dartmouth
-273482599,2007-12-14,2,2599,home,FALSE,St. John's,80,Red Storm,St. John's Red Storm,St John's
-273482599,2007-12-14,2,311,away,FALSE,Maine,50,Black Bears,Maine Black Bears,Maine
-273482127,2007-12-14,2,2127,home,FALSE,Charleston Southern,46,Buccaneers,Charleston Southern Buccaneers,Charleston So
-273482127,2007-12-14,2,338,away,FALSE,Kennesaw State,73,Owls,Kennesaw State Owls,Kennesaw St
-273480232,2007-12-14,2,232,home,FALSE,Charleston,81,Cougars,Charleston Cougars,Charleston
-273480232,2007-12-14,2,2026,away,FALSE,App State,49,Mountaineers,App State Mountaineers,App State
-273480275,2007-12-14,2,275,home,FALSE,Wisconsin,66,Badgers,Wisconsin Badgers,Wisconsin
-273480275,2007-12-14,2,2571,away,FALSE,South Dakota State,62,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-273480235,2007-12-14,2,235,home,FALSE,Memphis,66,Tigers,Memphis Tigers,Memphis
-273480235,2007-12-14,2,2057,away,FALSE,Belmont,78,Bruins,Belmont Bruins,Belmont
-273480038,2007-12-14,2,38,home,FALSE,Colorado,64,Buffaloes,Colorado Buffaloes,Colorado
-273480038,2007-12-14,2,2640,away,FALSE,Texas Southern,29,Tigers,Texas Southern Tigers,Texas Southern
-273480304,2007-12-14,2,304,home,FALSE,Idaho State,74,Bengals,Idaho State Bengals,Idaho St
-273480304,2007-12-14,2,2334,away,FALSE,Lewis-Clark St,58,Warriors,Lewis-Clark St Warriors,Lew-Clk St
-273482717,2007-12-14,2,204,home,FALSE,Oregon State,78,Beavers,Oregon State Beavers,Oregon St
-273482717,2007-12-14,2,2635,away,FALSE,Tennessee Tech,55,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
-273480062,2007-12-14,2,62,home,FALSE,Hawai'i,70,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
-273480062,2007-12-14,2,2717,away,FALSE,Western Carolina,82,Catamounts,Western Carolina Catamounts,W Carolina
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273480195,2008,regular-season,2007-12-14,2,195,home,FALSE,Ohio,74,Bobcats,Ohio Bobcats,Ohio
+273480195,2008,regular-season,2007-12-14,2,276,away,FALSE,Marshall,78,Thundering Herd,Marshall Thundering Herd,Marshall
+273482229,2008,regular-season,2007-12-14,2,2229,home,FALSE,Florida International,68,Panthers,Florida International Panthers,FIU
+273482229,2008,regular-season,2007-12-14,2,2636,away,FALSE,UTSA,57,Roadrunners,UTSA Roadrunners,UTSA
+273482619,2008,regular-season,2007-12-14,2,2619,home,FALSE,Stony Brook,65,Seawolves,Stony Brook Seawolves,Stony Brook
+273482619,2008,regular-season,2007-12-14,2,159,away,FALSE,Dartmouth,48,Big Green,Dartmouth Big Green,Dartmouth
+273482599,2008,regular-season,2007-12-14,2,2599,home,FALSE,St. John's,80,Red Storm,St. John's Red Storm,St John's
+273482599,2008,regular-season,2007-12-14,2,311,away,FALSE,Maine,50,Black Bears,Maine Black Bears,Maine
+273482127,2008,regular-season,2007-12-14,2,2127,home,FALSE,Charleston Southern,46,Buccaneers,Charleston Southern Buccaneers,Charleston So
+273482127,2008,regular-season,2007-12-14,2,338,away,FALSE,Kennesaw State,73,Owls,Kennesaw State Owls,Kennesaw St
+273480232,2008,regular-season,2007-12-14,2,232,home,FALSE,Charleston,81,Cougars,Charleston Cougars,Charleston
+273480232,2008,regular-season,2007-12-14,2,2026,away,FALSE,App State,49,Mountaineers,App State Mountaineers,App State
+273480275,2008,regular-season,2007-12-14,2,275,home,FALSE,Wisconsin,66,Badgers,Wisconsin Badgers,Wisconsin
+273480275,2008,regular-season,2007-12-14,2,2571,away,FALSE,South Dakota State,62,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+273480235,2008,regular-season,2007-12-14,2,235,home,FALSE,Memphis,66,Tigers,Memphis Tigers,Memphis
+273480235,2008,regular-season,2007-12-14,2,2057,away,FALSE,Belmont,78,Bruins,Belmont Bruins,Belmont
+273480038,2008,regular-season,2007-12-14,2,38,home,FALSE,Colorado,64,Buffaloes,Colorado Buffaloes,Colorado
+273480038,2008,regular-season,2007-12-14,2,2640,away,FALSE,Texas Southern,29,Tigers,Texas Southern Tigers,Texas Southern
+273480304,2008,regular-season,2007-12-14,2,304,home,FALSE,Idaho State,74,Bengals,Idaho State Bengals,Idaho St
+273480304,2008,regular-season,2007-12-14,2,2334,away,FALSE,Lewis-Clark St,58,Warriors,Lewis-Clark St Warriors,Lew-Clk St
+273482717,2008,regular-season,2007-12-14,2,204,home,FALSE,Oregon State,78,Beavers,Oregon State Beavers,Oregon St
+273482717,2008,regular-season,2007-12-14,2,2635,away,FALSE,Tennessee Tech,55,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
+273480062,2008,regular-season,2007-12-14,2,62,home,FALSE,Hawai'i,70,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
+273480062,2008,regular-season,2007-12-14,2,2717,away,FALSE,Western Carolina,82,Catamounts,Western Carolina Catamounts,W Carolina

@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400988586,2018-01-24,2,2752,home,FALSE,Xavier,89,Musketeers,Xavier Musketeers,Xavier
-400988586,2018-01-24,2,269,away,FALSE,Marquette,70,Golden Eagles,Marquette Golden Eagles,Marquette
-400988080,2018-01-24,2,2132,home,FALSE,Cincinnati,75,Bearcats,Cincinnati Bearcats,Cincinnati
-400988080,2018-01-24,2,218,away,FALSE,Temple,42,Owls,Temple Owls,Temple
-400987333,2018-01-24,2,142,home,FALSE,Missouri,73,Tigers,Missouri Tigers,Missouri
-400987333,2018-01-24,2,2,away,FALSE,Auburn,91,Tigers,Auburn Tigers,Auburn
-400987332,2018-01-24,2,57,home,FALSE,Florida,72,Gators,Florida Gators,Florida
-400987332,2018-01-24,2,2579,away,FALSE,South Carolina,77,Gamecocks,South Carolina Gamecocks,South Carolina
-400991772,2018-01-24,4,2751,home,FALSE,Wyoming,104,Cowboys,Wyoming Cowboys,Wyoming
-400991772,2018-01-24,4,2440,away,FALSE,Nevada,103,Wolf Pack,Nevada Wolf Pack,Nevada
-400989870,2018-01-24,2,2230,home,FALSE,Fordham,58,Rams,Fordham Rams,Fordham
-400989870,2018-01-24,2,227,away,FALSE,Rhode Island,78,Rams,Rhode Island Rams,Rhode Island
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400988586,2018,regular-season,2018-01-24,2,2752,home,FALSE,Xavier,89,Musketeers,Xavier Musketeers,Xavier
+400988586,2018,regular-season,2018-01-24,2,269,away,FALSE,Marquette,70,Golden Eagles,Marquette Golden Eagles,Marquette
+400988080,2018,regular-season,2018-01-24,2,2132,home,FALSE,Cincinnati,75,Bearcats,Cincinnati Bearcats,Cincinnati
+400988080,2018,regular-season,2018-01-24,2,218,away,FALSE,Temple,42,Owls,Temple Owls,Temple
+400987333,2018,regular-season,2018-01-24,2,142,home,FALSE,Missouri,73,Tigers,Missouri Tigers,Missouri
+400987333,2018,regular-season,2018-01-24,2,2,away,FALSE,Auburn,91,Tigers,Auburn Tigers,Auburn
+400987332,2018,regular-season,2018-01-24,2,57,home,FALSE,Florida,72,Gators,Florida Gators,Florida
+400987332,2018,regular-season,2018-01-24,2,2579,away,FALSE,South Carolina,77,Gamecocks,South Carolina Gamecocks,South Carolina
+400991772,2018,regular-season,2018-01-24,4,2751,home,FALSE,Wyoming,104,Cowboys,Wyoming Cowboys,Wyoming
+400991772,2018,regular-season,2018-01-24,4,2440,away,FALSE,Nevada,103,Wolf Pack,Nevada Wolf Pack,Nevada
+400989870,2018,regular-season,2018-01-24,2,2230,home,FALSE,Fordham,58,Rams,Fordham Rams,Fordham
+400989870,2018,regular-season,2018-01-24,2,227,away,FALSE,Rhode Island,78,Rams,Rhode Island Rams,Rhode Island

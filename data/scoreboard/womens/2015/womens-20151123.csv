@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400820983,2015-11-23,4,41,home,FALSE,UConn,97,Huskies,UConn Huskies,UConn
-400820983,2015-11-23,4,2306,away,FALSE,Kansas State,57,Wildcats,Kansas State Wildcats,Kansas St
-400842269,2015-11-23,4,2674,home,FALSE,Valparaiso,54,Beacons,Valparaiso Beacons,Valparaiso
-400842269,2015-11-23,4,87,away,FALSE,Notre Dame,110,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400838818,2015-11-23,4,2633,home,FALSE,Tennessee,59,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400838818,2015-11-23,4,236,away,FALSE,Chattanooga,57,Mocs,Chattanooga Mocs,Chattanooga
-400831460,2015-11-23,4,24,home,FALSE,Stanford,58,Cardinal,Stanford Cardinal,Stanford
-400831460,2015-11-23,4,2541,away,FALSE,Santa Clara,61,Broncos,Santa Clara Broncos,Santa Clara
-400842514,2015-11-23,4,183,home,FALSE,Syracuse,90,Orange,Syracuse Orange,Syracuse
-400842514,2015-11-23,4,2415,away,FALSE,Morgan State,61,Lady Bears,Morgan State Lady Bears,Morgan St
-400819279,2015-11-23,4,278,home,FALSE,Fresno State,53,Bulldogs,Fresno State Bulldogs,Fresno St
-400819279,2015-11-23,4,45,away,FALSE,George Washington,61,Revolutionaries,George Washington Revolutionaries,G Washington
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400820983,2016,regular-season,2015-11-23,4,41,home,FALSE,UConn,97,Huskies,UConn Huskies,UConn
+400820983,2016,regular-season,2015-11-23,4,2306,away,FALSE,Kansas State,57,Wildcats,Kansas State Wildcats,Kansas St
+400842269,2016,regular-season,2015-11-23,4,2674,home,FALSE,Valparaiso,54,Beacons,Valparaiso Beacons,Valparaiso
+400842269,2016,regular-season,2015-11-23,4,87,away,FALSE,Notre Dame,110,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400838818,2016,regular-season,2015-11-23,4,2633,home,FALSE,Tennessee,59,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400838818,2016,regular-season,2015-11-23,4,236,away,FALSE,Chattanooga,57,Mocs,Chattanooga Mocs,Chattanooga
+400831460,2016,regular-season,2015-11-23,4,24,home,FALSE,Stanford,58,Cardinal,Stanford Cardinal,Stanford
+400831460,2016,regular-season,2015-11-23,4,2541,away,FALSE,Santa Clara,61,Broncos,Santa Clara Broncos,Santa Clara
+400842514,2016,regular-season,2015-11-23,4,183,home,FALSE,Syracuse,90,Orange,Syracuse Orange,Syracuse
+400842514,2016,regular-season,2015-11-23,4,2415,away,FALSE,Morgan State,61,Lady Bears,Morgan State Lady Bears,Morgan St
+400819279,2016,regular-season,2015-11-23,4,278,home,FALSE,Fresno State,53,Bulldogs,Fresno State Bulldogs,Fresno St
+400819279,2016,regular-season,2015-11-23,4,45,away,FALSE,George Washington,61,Revolutionaries,George Washington Revolutionaries,G Washington

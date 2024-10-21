@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260670201,2006-03-08,2,201,home,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
-260670201,2006-03-08,2,66,away,FALSE,Iowa State,74,Cyclones,Iowa State Cyclones,Iowa State
-260670239,2006-03-08,3,239,home,FALSE,Baylor,79,Bears,Baylor Bears,Baylor
-260670239,2006-03-08,3,2306,away,FALSE,Kansas State,74,Wildcats,Kansas State Wildcats,Kansas St
-260672348,2006-03-08,2,2348,home,FALSE,Louisiana Tech,80,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-260672348,2006-03-08,2,70,away,FALSE,Idaho,57,Vandals,Idaho Vandals,Idaho
-260670254,2006-03-08,2,254,home,FALSE,Utah,67,Utes,Utah Utes,Utah
-260670254,2006-03-08,2,2005,away,FALSE,Air Force,47,Falcons,Air Force Falcons,Air Force
-260670245,2006-03-08,2,245,home,FALSE,Texas A&M,73,Aggies,Texas A&M Aggies,Texas A&M
-260670245,2006-03-08,2,158,away,FALSE,Nebraska,64,Cornhuskers,Nebraska Cornhuskers,Nebraska
-260670252,2006-03-08,2,252,home,FALSE,BYU,65,Cougars,BYU Cougars,BYU
-260670252,2006-03-08,2,36,away,FALSE,Colorado State,45,Rams,Colorado State Rams,Colorado St
-260670189,2006-03-08,2,189,home,FALSE,Bowling Green,73,Falcons,Bowling Green Falcons,Bowling Green
-260670189,2006-03-08,2,2459,away,FALSE,Northern Illinois,61,Huskies,Northern Illinois Huskies,N Illinois
-260670167,2006-03-08,2,167,home,FALSE,New Mexico,45,Lobos,New Mexico Lobos,New Mexico
-260670167,2006-03-08,2,2439,away,FALSE,UNLV,57,Lady Rebels,UNLV Lady Rebels,UNLV
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260670201,2006,regular-season,2006-03-08,2,201,home,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
+260670201,2006,regular-season,2006-03-08,2,66,away,FALSE,Iowa State,74,Cyclones,Iowa State Cyclones,Iowa State
+260670239,2006,regular-season,2006-03-08,3,239,home,FALSE,Baylor,79,Bears,Baylor Bears,Baylor
+260670239,2006,regular-season,2006-03-08,3,2306,away,FALSE,Kansas State,74,Wildcats,Kansas State Wildcats,Kansas St
+260672348,2006,regular-season,2006-03-08,2,2348,home,FALSE,Louisiana Tech,80,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+260672348,2006,regular-season,2006-03-08,2,70,away,FALSE,Idaho,57,Vandals,Idaho Vandals,Idaho
+260670254,2006,regular-season,2006-03-08,2,254,home,FALSE,Utah,67,Utes,Utah Utes,Utah
+260670254,2006,regular-season,2006-03-08,2,2005,away,FALSE,Air Force,47,Falcons,Air Force Falcons,Air Force
+260670245,2006,regular-season,2006-03-08,2,245,home,FALSE,Texas A&M,73,Aggies,Texas A&M Aggies,Texas A&M
+260670245,2006,regular-season,2006-03-08,2,158,away,FALSE,Nebraska,64,Cornhuskers,Nebraska Cornhuskers,Nebraska
+260670252,2006,regular-season,2006-03-08,2,252,home,FALSE,BYU,65,Cougars,BYU Cougars,BYU
+260670252,2006,regular-season,2006-03-08,2,36,away,FALSE,Colorado State,45,Rams,Colorado State Rams,Colorado St
+260670189,2006,regular-season,2006-03-08,2,189,home,FALSE,Bowling Green,73,Falcons,Bowling Green Falcons,Bowling Green
+260670189,2006,regular-season,2006-03-08,2,2459,away,FALSE,Northern Illinois,61,Huskies,Northern Illinois Huskies,N Illinois
+260670167,2006,regular-season,2006-03-08,2,167,home,FALSE,New Mexico,45,Lobos,New Mexico Lobos,New Mexico
+260670167,2006,regular-season,2006-03-08,2,2439,away,FALSE,UNLV,57,Lady Rebels,UNLV Lady Rebels,UNLV

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401637606,2024-03-30,4,2294,home,TRUE,Iowa,89,Hawkeyes,Iowa Hawkeyes,Iowa
-401637606,2024-03-30,4,38,away,TRUE,Colorado,68,Buffaloes,Colorado Buffaloes,Colorado
-401637603,2024-03-30,4,30,home,TRUE,USC,74,Trojans,USC Trojans,USC
-401637603,2024-03-30,4,239,away,TRUE,Baylor,70,Bears,Baylor Bears,Baylor
-401637605,2024-03-30,4,26,home,TRUE,UCLA,69,Bruins,UCLA Bruins,UCLA
-401637605,2024-03-30,4,99,away,TRUE,LSU,78,Tigers,LSU Tigers,LSU
-401637604,2024-03-30,4,41,home,TRUE,UConn,53,Huskies,UConn Huskies,UConn
-401637604,2024-03-30,4,150,away,TRUE,Duke,45,Blue Devils,Duke Blue Devils,Duke
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401637606,2024,post-season,2024-03-30,4,2294,home,TRUE,Iowa,89,Hawkeyes,Iowa Hawkeyes,Iowa
+401637606,2024,post-season,2024-03-30,4,38,away,TRUE,Colorado,68,Buffaloes,Colorado Buffaloes,Colorado
+401637603,2024,post-season,2024-03-30,4,30,home,TRUE,USC,74,Trojans,USC Trojans,USC
+401637603,2024,post-season,2024-03-30,4,239,away,TRUE,Baylor,70,Bears,Baylor Bears,Baylor
+401637605,2024,post-season,2024-03-30,4,26,home,TRUE,UCLA,69,Bruins,UCLA Bruins,UCLA
+401637605,2024,post-season,2024-03-30,4,99,away,TRUE,LSU,78,Tigers,LSU Tigers,LSU
+401637604,2024,post-season,2024-03-30,4,41,home,TRUE,UConn,53,Huskies,UConn Huskies,UConn
+401637604,2024,post-season,2024-03-30,4,150,away,TRUE,Duke,45,Blue Devils,Duke Blue Devils,Duke

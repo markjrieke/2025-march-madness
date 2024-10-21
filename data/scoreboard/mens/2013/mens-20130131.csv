@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330312351,2013-01-31,2,2351,home,FALSE,Loyola Marymount,43,Lions,Loyola Marymount Lions,LMU
-330312351,2013-01-31,2,2250,away,FALSE,Gonzaga,88,Bulldogs,Gonzaga Bulldogs,Gonzaga
-330310264,2013-01-31,2,264,home,FALSE,Washington,53,Huskies,Washington Huskies,Washington
-330310264,2013-01-31,2,12,away,FALSE,Arizona,57,Wildcats,Arizona Wildcats,Arizona
-330310139,2013-01-31,2,139,home,FALSE,Saint Louis,75,Billikens,Saint Louis Billikens,Saint Louis
-330310139,2013-01-31,2,2086,away,FALSE,Butler,58,Bulldogs,Butler Bulldogs,Butler
-330310127,2013-01-31,2,127,home,FALSE,Michigan State,80,Spartans,Michigan State Spartans,Michigan St
-330310127,2013-01-31,2,356,away,FALSE,Illinois,75,Fighting Illini,Illinois Fighting Illini,Illinois
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330312351,2013,regular-season,2013-01-31,2,2351,home,FALSE,Loyola Marymount,43,Lions,Loyola Marymount Lions,LMU
+330312351,2013,regular-season,2013-01-31,2,2250,away,FALSE,Gonzaga,88,Bulldogs,Gonzaga Bulldogs,Gonzaga
+330310264,2013,regular-season,2013-01-31,2,264,home,FALSE,Washington,53,Huskies,Washington Huskies,Washington
+330310264,2013,regular-season,2013-01-31,2,12,away,FALSE,Arizona,57,Wildcats,Arizona Wildcats,Arizona
+330310139,2013,regular-season,2013-01-31,2,139,home,FALSE,Saint Louis,75,Billikens,Saint Louis Billikens,Saint Louis
+330310139,2013,regular-season,2013-01-31,2,2086,away,FALSE,Butler,58,Bulldogs,Butler Bulldogs,Butler
+330310127,2013,regular-season,2013-01-31,2,127,home,FALSE,Michigan State,80,Spartans,Michigan State Spartans,Michigan St
+330310127,2013,regular-season,2013-01-31,2,356,away,FALSE,Illinois,75,Fighting Illini,Illinois Fighting Illini,Illinois

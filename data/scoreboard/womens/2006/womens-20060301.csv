@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260602641,2006-03-01,2,2641,home,FALSE,Texas Tech,59,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-260602641,2006-03-01,2,201,away,FALSE,Oklahoma,60,Sooners,Oklahoma Sooners,Oklahoma
-260600251,2006-03-01,2,251,home,FALSE,Texas,64,Longhorns,Texas Longhorns,Texas
-260600251,2006-03-01,2,239,away,FALSE,Baylor,72,Bears,Baylor Bears,Baylor
-260600197,2006-03-01,2,197,home,FALSE,Oklahoma State,47,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-260600197,2006-03-01,2,245,away,FALSE,Texas A&M,65,Aggies,Texas A&M Aggies,Texas A&M
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260602641,2006,regular-season,2006-03-01,2,2641,home,FALSE,Texas Tech,59,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+260602641,2006,regular-season,2006-03-01,2,201,away,FALSE,Oklahoma,60,Sooners,Oklahoma Sooners,Oklahoma
+260600251,2006,regular-season,2006-03-01,2,251,home,FALSE,Texas,64,Longhorns,Texas Longhorns,Texas
+260600251,2006,regular-season,2006-03-01,2,239,away,FALSE,Baylor,72,Bears,Baylor Bears,Baylor
+260600197,2006,regular-season,2006-03-01,2,197,home,FALSE,Oklahoma State,47,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+260600197,2006,regular-season,2006-03-01,2,245,away,FALSE,Texas A&M,65,Aggies,Texas A&M Aggies,Texas A&M

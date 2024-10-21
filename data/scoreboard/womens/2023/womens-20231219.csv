@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401588151,2023-12-19,4,189,home,FALSE,Bowling Green,62,Falcons,Bowling Green Falcons,Bowling Green
-401588151,2023-12-19,4,2579,away,FALSE,South Carolina,93,Gamecocks,South Carolina Gamecocks,South Carolina
-401578667,2023-12-19,4,201,home,TRUE,Oklahoma,52,Sooners,Oklahoma Sooners,Oklahoma
-401578667,2023-12-19,4,153,away,TRUE,North Carolina,61,Tar Heels,North Carolina Tar Heels,North Carolina
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401588151,2024,regular-season,2023-12-19,4,189,home,FALSE,Bowling Green,62,Falcons,Bowling Green Falcons,Bowling Green
+401588151,2024,regular-season,2023-12-19,4,2579,away,FALSE,South Carolina,93,Gamecocks,South Carolina Gamecocks,South Carolina
+401578667,2024,regular-season,2023-12-19,4,201,home,TRUE,Oklahoma,52,Sooners,Oklahoma Sooners,Oklahoma
+401578667,2024,regular-season,2023-12-19,4,153,away,TRUE,North Carolina,61,Tar Heels,North Carolina Tar Heels,North Carolina

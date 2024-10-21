@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310580201,2011-02-27,2,201,home,FALSE,Oklahoma,81,Sooners,Oklahoma Sooners,Oklahoma
-310580201,2011-02-27,2,239,away,FALSE,Baylor,82,Bears,Baylor Bears,Baylor
-310582633,2011-02-27,2,2633,home,FALSE,Tennessee,80,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-310582633,2011-02-27,2,99,away,FALSE,LSU,60,Tigers,LSU Tigers,LSU
-310580251,2011-02-27,2,251,home,FALSE,Texas,65,Longhorns,Texas Longhorns,Texas
-310580251,2011-02-27,2,245,away,FALSE,Texas A&M,68,Aggies,Texas A&M Aggies,Texas A&M
-310580218,2011-02-27,2,218,home,FALSE,Temple,66,Owls,Temple Owls,Temple
-310580218,2011-02-27,2,2752,away,FALSE,Xavier,73,Musketeers,Xavier Musketeers,Xavier
-310580150,2011-02-27,2,150,home,FALSE,Duke,66,Blue Devils,Duke Blue Devils,Duke
-310580150,2011-02-27,2,153,away,FALSE,North Carolina,58,Tar Heels,North Carolina Tar Heels,North Carolina
-310580135,2011-02-27,2,135,home,FALSE,Minnesota,51,Golden Gophers,Minnesota Golden Gophers,Minnesota
-310580135,2011-02-27,2,127,away,FALSE,Michigan State,65,Spartans,Michigan State Spartans,Michigan St
-310580059,2011-02-27,2,59,home,FALSE,Georgia Tech,59,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-310580059,2011-02-27,2,2390,away,FALSE,Miami,70,Hurricanes,Miami Hurricanes,Miami
-310580052,2011-02-27,2,52,home,FALSE,Florida State,67,Seminoles,Florida State Seminoles,Florida St
-310580052,2011-02-27,2,228,away,FALSE,Clemson,50,Tigers,Clemson Tigers,Clemson
-310580103,2011-02-27,2,103,home,FALSE,Boston College,69,Eagles,Boston College Eagles,Boston College
-310580103,2011-02-27,2,120,away,FALSE,Maryland,78,Terrapins,Maryland Terrapins,Maryland
-310580002,2011-02-27,2,2,home,FALSE,Auburn,62,Tigers,Auburn Tigers,Auburn
-310580002,2011-02-27,2,96,away,FALSE,Kentucky,76,Wildcats,Kentucky Wildcats,Kentucky
-310582368,2011-02-27,2,2368,home,FALSE,Marist,60,Red Foxes,Marist Red Foxes,Marist
-310582368,2011-02-27,2,2217,away,FALSE,Fairfield,45,Stags,Fairfield Stags,Fairfield
-310580057,2011-02-27,2,57,home,FALSE,Florida,74,Gators,Florida Gators,Florida
-310580057,2011-02-27,2,61,away,FALSE,Georgia,71,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310580201,2011,regular-season,2011-02-27,2,201,home,FALSE,Oklahoma,81,Sooners,Oklahoma Sooners,Oklahoma
+310580201,2011,regular-season,2011-02-27,2,239,away,FALSE,Baylor,82,Bears,Baylor Bears,Baylor
+310582633,2011,regular-season,2011-02-27,2,2633,home,FALSE,Tennessee,80,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+310582633,2011,regular-season,2011-02-27,2,99,away,FALSE,LSU,60,Tigers,LSU Tigers,LSU
+310580251,2011,regular-season,2011-02-27,2,251,home,FALSE,Texas,65,Longhorns,Texas Longhorns,Texas
+310580251,2011,regular-season,2011-02-27,2,245,away,FALSE,Texas A&M,68,Aggies,Texas A&M Aggies,Texas A&M
+310580218,2011,regular-season,2011-02-27,2,218,home,FALSE,Temple,66,Owls,Temple Owls,Temple
+310580218,2011,regular-season,2011-02-27,2,2752,away,FALSE,Xavier,73,Musketeers,Xavier Musketeers,Xavier
+310580150,2011,regular-season,2011-02-27,2,150,home,FALSE,Duke,66,Blue Devils,Duke Blue Devils,Duke
+310580150,2011,regular-season,2011-02-27,2,153,away,FALSE,North Carolina,58,Tar Heels,North Carolina Tar Heels,North Carolina
+310580135,2011,regular-season,2011-02-27,2,135,home,FALSE,Minnesota,51,Golden Gophers,Minnesota Golden Gophers,Minnesota
+310580135,2011,regular-season,2011-02-27,2,127,away,FALSE,Michigan State,65,Spartans,Michigan State Spartans,Michigan St
+310580059,2011,regular-season,2011-02-27,2,59,home,FALSE,Georgia Tech,59,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+310580059,2011,regular-season,2011-02-27,2,2390,away,FALSE,Miami,70,Hurricanes,Miami Hurricanes,Miami
+310580052,2011,regular-season,2011-02-27,2,52,home,FALSE,Florida State,67,Seminoles,Florida State Seminoles,Florida St
+310580052,2011,regular-season,2011-02-27,2,228,away,FALSE,Clemson,50,Tigers,Clemson Tigers,Clemson
+310580103,2011,regular-season,2011-02-27,2,103,home,FALSE,Boston College,69,Eagles,Boston College Eagles,Boston College
+310580103,2011,regular-season,2011-02-27,2,120,away,FALSE,Maryland,78,Terrapins,Maryland Terrapins,Maryland
+310580002,2011,regular-season,2011-02-27,2,2,home,FALSE,Auburn,62,Tigers,Auburn Tigers,Auburn
+310580002,2011,regular-season,2011-02-27,2,96,away,FALSE,Kentucky,76,Wildcats,Kentucky Wildcats,Kentucky
+310582368,2011,regular-season,2011-02-27,2,2368,home,FALSE,Marist,60,Red Foxes,Marist Red Foxes,Marist
+310582368,2011,regular-season,2011-02-27,2,2217,away,FALSE,Fairfield,45,Stags,Fairfield Stags,Fairfield
+310580057,2011,regular-season,2011-02-27,2,57,home,FALSE,Florida,74,Gators,Florida Gators,Florida
+310580057,2011,regular-season,2011-02-27,2,61,away,FALSE,Georgia,71,Lady Bulldogs,Georgia Lady Bulldogs,Georgia

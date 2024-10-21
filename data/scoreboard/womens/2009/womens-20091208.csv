@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293420087,2009-12-08,2,87,home,FALSE,Notre Dame,96,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-293420087,2009-12-08,2,2870,away,FALSE,Purdue Fort Wayne,60,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-293420245,2009-12-08,2,245,home,FALSE,Texas A&M,108,Aggies,Texas A&M Aggies,Texas A&M
-293420245,2009-12-08,2,249,away,FALSE,North Texas,49,Mean Green,North Texas Mean Green,North Texas
-293420153,2009-12-08,2,153,home,FALSE,North Carolina,74,Tar Heels,North Carolina Tar Heels,North Carolina
-293420153,2009-12-08,2,2515,away,FALSE,Radford,48,Highlanders,Radford Highlanders,Radford
-293420061,2009-12-08,2,61,home,FALSE,Georgia,71,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-293420061,2009-12-08,2,2634,away,FALSE,Tennessee State,50,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
-293420221,2009-12-08,2,221,home,FALSE,Pittsburgh,77,Panthers,Pittsburgh Panthers,Pitt
-293420221,2009-12-08,2,2674,away,FALSE,Valparaiso,52,Beacons,Valparaiso Beacons,Valparaiso
-293420258,2009-12-08,2,258,home,FALSE,Virginia,74,Cavaliers,Virginia Cavaliers,Virginia
-293420258,2009-12-08,2,231,away,FALSE,Furman,43,Paladins,Furman Paladins,Furman
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293420087,2010,regular-season,2009-12-08,2,87,home,FALSE,Notre Dame,96,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+293420087,2010,regular-season,2009-12-08,2,2870,away,FALSE,Purdue Fort Wayne,60,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+293420245,2010,regular-season,2009-12-08,2,245,home,FALSE,Texas A&M,108,Aggies,Texas A&M Aggies,Texas A&M
+293420245,2010,regular-season,2009-12-08,2,249,away,FALSE,North Texas,49,Mean Green,North Texas Mean Green,North Texas
+293420153,2010,regular-season,2009-12-08,2,153,home,FALSE,North Carolina,74,Tar Heels,North Carolina Tar Heels,North Carolina
+293420153,2010,regular-season,2009-12-08,2,2515,away,FALSE,Radford,48,Highlanders,Radford Highlanders,Radford
+293420061,2010,regular-season,2009-12-08,2,61,home,FALSE,Georgia,71,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+293420061,2010,regular-season,2009-12-08,2,2634,away,FALSE,Tennessee State,50,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
+293420221,2010,regular-season,2009-12-08,2,221,home,FALSE,Pittsburgh,77,Panthers,Pittsburgh Panthers,Pitt
+293420221,2010,regular-season,2009-12-08,2,2674,away,FALSE,Valparaiso,52,Beacons,Valparaiso Beacons,Valparaiso
+293420258,2010,regular-season,2009-12-08,2,258,home,FALSE,Virginia,74,Cavaliers,Virginia Cavaliers,Virginia
+293420258,2010,regular-season,2009-12-08,2,231,away,FALSE,Furman,43,Paladins,Furman Paladins,Furman

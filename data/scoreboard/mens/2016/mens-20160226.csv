@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400843591,2016-02-26,2,163,home,FALSE,Princeton,88,Tigers,Princeton Tigers,Princeton
-400843591,2016-02-26,2,171,away,FALSE,Columbia,83,Lions,Columbia Lions,Columbia
-400847204,2016-02-26,3,270,home,FALSE,Milwaukee,76,Panthers,Milwaukee Panthers,Milwaukee
-400847204,2016-02-26,3,2674,away,FALSE,Valparaiso,80,Beacons,Valparaiso Beacons,Valparaiso
-400843612,2016-02-26,2,43,home,FALSE,Yale,59,Bulldogs,Yale Bulldogs,Yale
-400843612,2016-02-26,2,108,away,FALSE,Harvard,50,Crimson,Harvard Crimson,Harvard
-400843601,2016-02-26,2,219,home,FALSE,Pennsylvania,79,Quakers,Pennsylvania Quakers,Penn
-400843601,2016-02-26,2,172,away,FALSE,Cornell,67,Big Red,Cornell Big Red,Cornell
-400842055,2016-02-26,2,2368,home,FALSE,Marist,91,Red Foxes,Marist Red Foxes,Marist
-400842055,2016-02-26,2,2514,away,FALSE,Quinnipiac,77,Bobcats,Quinnipiac Bobcats,Quinnipiac
-400842024,2016-02-26,2,2363,home,FALSE,Manhattan,73,Jaspers,Manhattan Jaspers,Manhattan
-400842024,2016-02-26,2,314,away,FALSE,Iona,86,Gaels,Iona Gaels,Iona
-400841847,2016-02-26,2,2006,home,FALSE,Akron,89,Zips,Akron Zips,Akron
-400841847,2016-02-26,2,189,away,FALSE,Bowling Green,54,Falcons,Bowling Green Falcons,Bowling Green
-400817384,2016-02-26,3,225,home,FALSE,Brown,84,Bears,Brown Bears,Brown
-400817384,2016-02-26,3,159,away,FALSE,Dartmouth,83,Big Green,Dartmouth Big Green,Dartmouth
-400843534,2016-02-26,2,2739,home,FALSE,Green Bay,85,Phoenix,Green Bay Phoenix,Green Bay
-400843534,2016-02-26,2,82,away,FALSE,UIC,69,Flames,UIC Flames,UIC
-400842095,2016-02-26,2,2405,home,FALSE,Monmouth,79,Hawks,Monmouth Hawks,Monmouth
-400842095,2016-02-26,2,2520,away,FALSE,Rider,58,Broncs,Rider Broncs,Rider
-400835654,2016-02-26,2,2473,home,FALSE,Oakland,108,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-400835654,2016-02-26,2,2174,away,FALSE,Detroit Mercy,97,Titans,Detroit Mercy Titans,Detroit Mercy
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400843591,2016,regular-season,2016-02-26,2,163,home,FALSE,Princeton,88,Tigers,Princeton Tigers,Princeton
+400843591,2016,regular-season,2016-02-26,2,171,away,FALSE,Columbia,83,Lions,Columbia Lions,Columbia
+400847204,2016,regular-season,2016-02-26,3,270,home,FALSE,Milwaukee,76,Panthers,Milwaukee Panthers,Milwaukee
+400847204,2016,regular-season,2016-02-26,3,2674,away,FALSE,Valparaiso,80,Beacons,Valparaiso Beacons,Valparaiso
+400843612,2016,regular-season,2016-02-26,2,43,home,FALSE,Yale,59,Bulldogs,Yale Bulldogs,Yale
+400843612,2016,regular-season,2016-02-26,2,108,away,FALSE,Harvard,50,Crimson,Harvard Crimson,Harvard
+400843601,2016,regular-season,2016-02-26,2,219,home,FALSE,Pennsylvania,79,Quakers,Pennsylvania Quakers,Penn
+400843601,2016,regular-season,2016-02-26,2,172,away,FALSE,Cornell,67,Big Red,Cornell Big Red,Cornell
+400842055,2016,regular-season,2016-02-26,2,2368,home,FALSE,Marist,91,Red Foxes,Marist Red Foxes,Marist
+400842055,2016,regular-season,2016-02-26,2,2514,away,FALSE,Quinnipiac,77,Bobcats,Quinnipiac Bobcats,Quinnipiac
+400842024,2016,regular-season,2016-02-26,2,2363,home,FALSE,Manhattan,73,Jaspers,Manhattan Jaspers,Manhattan
+400842024,2016,regular-season,2016-02-26,2,314,away,FALSE,Iona,86,Gaels,Iona Gaels,Iona
+400841847,2016,regular-season,2016-02-26,2,2006,home,FALSE,Akron,89,Zips,Akron Zips,Akron
+400841847,2016,regular-season,2016-02-26,2,189,away,FALSE,Bowling Green,54,Falcons,Bowling Green Falcons,Bowling Green
+400817384,2016,regular-season,2016-02-26,3,225,home,FALSE,Brown,84,Bears,Brown Bears,Brown
+400817384,2016,regular-season,2016-02-26,3,159,away,FALSE,Dartmouth,83,Big Green,Dartmouth Big Green,Dartmouth
+400843534,2016,regular-season,2016-02-26,2,2739,home,FALSE,Green Bay,85,Phoenix,Green Bay Phoenix,Green Bay
+400843534,2016,regular-season,2016-02-26,2,82,away,FALSE,UIC,69,Flames,UIC Flames,UIC
+400842095,2016,regular-season,2016-02-26,2,2405,home,FALSE,Monmouth,79,Hawks,Monmouth Hawks,Monmouth
+400842095,2016,regular-season,2016-02-26,2,2520,away,FALSE,Rider,58,Broncs,Rider Broncs,Rider
+400835654,2016,regular-season,2016-02-26,2,2473,home,FALSE,Oakland,108,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+400835654,2016,regular-season,2016-02-26,2,2174,away,FALSE,Detroit Mercy,97,Titans,Detroit Mercy Titans,Detroit Mercy

@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320540024,2012-02-23,2,24,home,FALSE,Stanford,68,Cardinal,Stanford Cardinal,Stanford
-320540024,2012-02-23,2,38,away,FALSE,Colorado,46,Buffaloes,Colorado Buffaloes,Colorado
-320540194,2012-02-23,2,194,home,FALSE,Ohio State,81,Buckeyes,Ohio State Buckeyes,Ohio State
-320540194,2012-02-23,2,135,away,FALSE,Minnesota,56,Golden Gophers,Minnesota Golden Gophers,Minnesota
-320540048,2012-02-23,2,48,home,FALSE,Delaware,71,Blue Hens,Delaware Blue Hens,Delaware
-320540048,2012-02-23,2,2244,away,FALSE,George Mason,53,Patriots,George Mason Patriots,George Mason
-320542633,2012-02-23,3,2633,home,FALSE,Tennessee,71,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-320542633,2012-02-23,3,8,away,FALSE,Arkansas,72,Razorbacks,Arkansas Razorbacks,Arkansas
-320542739,2012-02-23,2,2739,home,FALSE,Green Bay,72,Phoenix,Green Bay Phoenix,Green Bay
-320542739,2012-02-23,2,2674,away,FALSE,Valparaiso,36,Beacons,Valparaiso Beacons,Valparaiso
-320540096,2012-02-23,2,96,home,FALSE,Kentucky,53,Wildcats,Kentucky Wildcats,Kentucky
-320540096,2012-02-23,2,2579,away,FALSE,South Carolina,50,Gamecocks,South Carolina Gamecocks,South Carolina
-320540259,2012-02-23,2,259,home,FALSE,Virginia Tech,66,Hokies,Virginia Tech Hokies,Virginia Tech
-320540259,2012-02-23,2,59,away,FALSE,Georgia Tech,76,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-320540061,2012-02-23,2,61,home,FALSE,Georgia,87,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-320540061,2012-02-23,2,145,away,FALSE,Ole Miss,52,Rebels,Ole Miss Rebels,Ole Miss
-320540130,2012-02-23,2,130,home,FALSE,Michigan,49,Wolverines,Michigan Wolverines,Michigan
-320540130,2012-02-23,2,2509,away,FALSE,Purdue,60,Boilermakers,Purdue Boilermakers,Purdue
-320540127,2012-02-23,2,127,home,FALSE,Michigan State,73,Spartans,Michigan State Spartans,Michigan St
-320540127,2012-02-23,2,158,away,FALSE,Nebraska,53,Cornhuskers,Nebraska Cornhuskers,Nebraska
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320540024,2012,regular-season,2012-02-23,2,24,home,FALSE,Stanford,68,Cardinal,Stanford Cardinal,Stanford
+320540024,2012,regular-season,2012-02-23,2,38,away,FALSE,Colorado,46,Buffaloes,Colorado Buffaloes,Colorado
+320540194,2012,regular-season,2012-02-23,2,194,home,FALSE,Ohio State,81,Buckeyes,Ohio State Buckeyes,Ohio State
+320540194,2012,regular-season,2012-02-23,2,135,away,FALSE,Minnesota,56,Golden Gophers,Minnesota Golden Gophers,Minnesota
+320540048,2012,regular-season,2012-02-23,2,48,home,FALSE,Delaware,71,Blue Hens,Delaware Blue Hens,Delaware
+320540048,2012,regular-season,2012-02-23,2,2244,away,FALSE,George Mason,53,Patriots,George Mason Patriots,George Mason
+320542633,2012,regular-season,2012-02-23,3,2633,home,FALSE,Tennessee,71,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+320542633,2012,regular-season,2012-02-23,3,8,away,FALSE,Arkansas,72,Razorbacks,Arkansas Razorbacks,Arkansas
+320542739,2012,regular-season,2012-02-23,2,2739,home,FALSE,Green Bay,72,Phoenix,Green Bay Phoenix,Green Bay
+320542739,2012,regular-season,2012-02-23,2,2674,away,FALSE,Valparaiso,36,Beacons,Valparaiso Beacons,Valparaiso
+320540096,2012,regular-season,2012-02-23,2,96,home,FALSE,Kentucky,53,Wildcats,Kentucky Wildcats,Kentucky
+320540096,2012,regular-season,2012-02-23,2,2579,away,FALSE,South Carolina,50,Gamecocks,South Carolina Gamecocks,South Carolina
+320540259,2012,regular-season,2012-02-23,2,259,home,FALSE,Virginia Tech,66,Hokies,Virginia Tech Hokies,Virginia Tech
+320540259,2012,regular-season,2012-02-23,2,59,away,FALSE,Georgia Tech,76,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+320540061,2012,regular-season,2012-02-23,2,61,home,FALSE,Georgia,87,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+320540061,2012,regular-season,2012-02-23,2,145,away,FALSE,Ole Miss,52,Rebels,Ole Miss Rebels,Ole Miss
+320540130,2012,regular-season,2012-02-23,2,130,home,FALSE,Michigan,49,Wolverines,Michigan Wolverines,Michigan
+320540130,2012,regular-season,2012-02-23,2,2509,away,FALSE,Purdue,60,Boilermakers,Purdue Boilermakers,Purdue
+320540127,2012,regular-season,2012-02-23,2,127,home,FALSE,Michigan State,73,Spartans,Michigan State Spartans,Michigan St
+320540127,2012,regular-season,2012-02-23,2,158,away,FALSE,Nebraska,53,Cornhuskers,Nebraska Cornhuskers,Nebraska

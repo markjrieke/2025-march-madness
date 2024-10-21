@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270160221,2007-01-16,2,221,home,FALSE,Pittsburgh,63,Panthers,Pittsburgh Panthers,Pitt
-270160221,2007-01-16,2,41,away,FALSE,UConn,54,Huskies,UConn Huskies,UConn
-270160197,2007-01-16,5,197,home,FALSE,Oklahoma State,105,Cowboys,Oklahoma State Cowboys,Oklahoma St
-270160197,2007-01-16,5,251,away,FALSE,Texas,103,Longhorns,Texas Longhorns,Texas
-270160254,2007-01-16,2,254,home,FALSE,Utah,85,Utes,Utah Utes,Utah
-270160254,2007-01-16,2,2005,away,FALSE,Air Force,79,Falcons,Air Force Falcons,Air Force
-270160235,2007-01-16,2,235,home,FALSE,Memphis,79,Tigers,Memphis Tigers,Memphis
-270160235,2007-01-16,2,5,away,FALSE,UAB,54,Blazers,UAB Blazers,UAB
-270162579,2007-01-16,2,2579,home,FALSE,South Carolina,49,Gamecocks,South Carolina Gamecocks,South Carolina
-270162579,2007-01-16,2,96,away,FALSE,Kentucky,87,Wildcats,Kentucky Wildcats,Kentucky
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270160221,2007,regular-season,2007-01-16,2,221,home,FALSE,Pittsburgh,63,Panthers,Pittsburgh Panthers,Pitt
+270160221,2007,regular-season,2007-01-16,2,41,away,FALSE,UConn,54,Huskies,UConn Huskies,UConn
+270160197,2007,regular-season,2007-01-16,5,197,home,FALSE,Oklahoma State,105,Cowboys,Oklahoma State Cowboys,Oklahoma St
+270160197,2007,regular-season,2007-01-16,5,251,away,FALSE,Texas,103,Longhorns,Texas Longhorns,Texas
+270160254,2007,regular-season,2007-01-16,2,254,home,FALSE,Utah,85,Utes,Utah Utes,Utah
+270160254,2007,regular-season,2007-01-16,2,2005,away,FALSE,Air Force,79,Falcons,Air Force Falcons,Air Force
+270160235,2007,regular-season,2007-01-16,2,235,home,FALSE,Memphis,79,Tigers,Memphis Tigers,Memphis
+270160235,2007,regular-season,2007-01-16,2,5,away,FALSE,UAB,54,Blazers,UAB Blazers,UAB
+270162579,2007,regular-season,2007-01-16,2,2579,home,FALSE,South Carolina,49,Gamecocks,South Carolina Gamecocks,South Carolina
+270162579,2007,regular-season,2007-01-16,2,96,away,FALSE,Kentucky,87,Wildcats,Kentucky Wildcats,Kentucky

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310680239,2011-03-09,2,239,home,TRUE,Baylor,86,Bears,Baylor Bears,Baylor
-310680239,2011-03-09,2,2305,away,TRUE,Kansas,51,Jayhawks,Kansas Jayhawks,Kansas
-310680245,2011-03-09,2,245,home,TRUE,Texas A&M,77,Aggies,Texas A&M Aggies,Texas A&M
-310680245,2011-03-09,2,251,away,TRUE,Texas,50,Longhorns,Texas Longhorns,Texas
-310682739,2011-03-09,2,2739,home,FALSE,Green Bay,89,Phoenix,Green Bay Phoenix,Green Bay
-310682739,2011-03-09,2,2350,away,FALSE,Loyola Chicago,41,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-310680201,2011-03-09,2,201,home,TRUE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
-310680201,2011-03-09,2,2641,away,TRUE,Texas Tech,69,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310680239,2011,regular-season,2011-03-09,2,239,home,TRUE,Baylor,86,Bears,Baylor Bears,Baylor
+310680239,2011,regular-season,2011-03-09,2,2305,away,TRUE,Kansas,51,Jayhawks,Kansas Jayhawks,Kansas
+310680245,2011,regular-season,2011-03-09,2,245,home,TRUE,Texas A&M,77,Aggies,Texas A&M Aggies,Texas A&M
+310680245,2011,regular-season,2011-03-09,2,251,away,TRUE,Texas,50,Longhorns,Texas Longhorns,Texas
+310682739,2011,regular-season,2011-03-09,2,2739,home,FALSE,Green Bay,89,Phoenix,Green Bay Phoenix,Green Bay
+310682739,2011,regular-season,2011-03-09,2,2350,away,FALSE,Loyola Chicago,41,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+310680201,2011,regular-season,2011-03-09,2,201,home,TRUE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
+310680201,2011,regular-season,2011-03-09,2,2641,away,TRUE,Texas Tech,69,Lady Raiders,Texas Tech Lady Raiders,Texas Tech

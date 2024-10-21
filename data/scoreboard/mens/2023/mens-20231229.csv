@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401577646,2023-12-29,2,2509,home,FALSE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
-401577646,2023-12-29,2,2198,away,FALSE,Eastern Kentucky,53,Colonels,Eastern Kentucky Colonels,E Kentucky
-401607355,2023-12-29,2,25,home,FALSE,California,81,Golden Bears,California Golden Bears,California
-401607355,2023-12-29,2,12,away,FALSE,Arizona,100,Wildcats,Arizona Wildcats,Arizona
-401580112,2023-12-29,2,96,home,FALSE,Kentucky,96,Wildcats,Kentucky Wildcats,Kentucky
-401580112,2023-12-29,2,2287,away,FALSE,Illinois State,70,Redbirds,Illinois State Redbirds,Illinois St
-401583599,2023-12-29,2,153,home,FALSE,North Carolina,105,Tar Heels,North Carolina Tar Heels,North Carolina
-401583599,2023-12-29,2,2127,away,FALSE,Charleston Southern,60,Buccaneers,Charleston Southern Buccaneers,Charleston So
-401584517,2023-12-29,2,356,home,FALSE,Illinois,104,Fighting Illini,Illinois Fighting Illini,Illinois
-401584517,2023-12-29,2,161,away,FALSE,Fairleigh Dickinson,71,Knights,Fairleigh Dickinson Knights,Fair Dickinson
-401594653,2023-12-29,2,2250,home,FALSE,Gonzaga,74,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401594653,2023-12-29,2,21,away,FALSE,San Diego State,84,Aztecs,San Diego State Aztecs,San Diego St
-401609946,2023-12-29,2,36,home,FALSE,Colorado State,106,Rams,Colorado State Rams,Colorado St
-401609946,2023-12-29,2,2001,away,FALSE,Adams State,61,Grizzlies,Adams State Grizzlies,Adams St
-401583764,2023-12-29,2,228,home,FALSE,Clemson,93,Tigers,Clemson Tigers,Clemson
-401583764,2023-12-29,2,2515,away,FALSE,Radford,58,Highlanders,Radford Highlanders,Radford
-401583732,2023-12-29,2,251,home,FALSE,Texas,72,Longhorns,Texas Longhorns,Texas
-401583732,2023-12-29,2,2430,away,FALSE,UNC Greensboro,37,Spartans,UNC Greensboro Spartans,UNC Greensboro
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401577646,2024,regular-season,2023-12-29,2,2509,home,FALSE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
+401577646,2024,regular-season,2023-12-29,2,2198,away,FALSE,Eastern Kentucky,53,Colonels,Eastern Kentucky Colonels,E Kentucky
+401607355,2024,regular-season,2023-12-29,2,25,home,FALSE,California,81,Golden Bears,California Golden Bears,California
+401607355,2024,regular-season,2023-12-29,2,12,away,FALSE,Arizona,100,Wildcats,Arizona Wildcats,Arizona
+401580112,2024,regular-season,2023-12-29,2,96,home,FALSE,Kentucky,96,Wildcats,Kentucky Wildcats,Kentucky
+401580112,2024,regular-season,2023-12-29,2,2287,away,FALSE,Illinois State,70,Redbirds,Illinois State Redbirds,Illinois St
+401583599,2024,regular-season,2023-12-29,2,153,home,FALSE,North Carolina,105,Tar Heels,North Carolina Tar Heels,North Carolina
+401583599,2024,regular-season,2023-12-29,2,2127,away,FALSE,Charleston Southern,60,Buccaneers,Charleston Southern Buccaneers,Charleston So
+401584517,2024,regular-season,2023-12-29,2,356,home,FALSE,Illinois,104,Fighting Illini,Illinois Fighting Illini,Illinois
+401584517,2024,regular-season,2023-12-29,2,161,away,FALSE,Fairleigh Dickinson,71,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+401594653,2024,regular-season,2023-12-29,2,2250,home,FALSE,Gonzaga,74,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401594653,2024,regular-season,2023-12-29,2,21,away,FALSE,San Diego State,84,Aztecs,San Diego State Aztecs,San Diego St
+401609946,2024,regular-season,2023-12-29,2,36,home,FALSE,Colorado State,106,Rams,Colorado State Rams,Colorado St
+401609946,2024,regular-season,2023-12-29,2,2001,away,FALSE,Adams State,61,Grizzlies,Adams State Grizzlies,Adams St
+401583764,2024,regular-season,2023-12-29,2,228,home,FALSE,Clemson,93,Tigers,Clemson Tigers,Clemson
+401583764,2024,regular-season,2023-12-29,2,2515,away,FALSE,Radford,58,Highlanders,Radford Highlanders,Radford
+401583732,2024,regular-season,2023-12-29,2,251,home,FALSE,Texas,72,Longhorns,Texas Longhorns,Texas
+401583732,2024,regular-season,2023-12-29,2,2430,away,FALSE,UNC Greensboro,37,Spartans,UNC Greensboro Spartans,UNC Greensboro

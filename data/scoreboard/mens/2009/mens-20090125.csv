@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290250277,2009-01-25,2,277,home,FALSE,West Virginia,67,Mountaineers,West Virginia Mountaineers,West Virginia
-290250277,2009-01-25,2,221,away,FALSE,Pittsburgh,79,Panthers,Pittsburgh Panthers,Pitt
-290250194,2009-01-25,2,194,home,FALSE,Ohio State,67,Buckeyes,Ohio State Buckeyes,Ohio State
-290250194,2009-01-25,2,127,away,FALSE,Michigan State,78,Spartans,Michigan State Spartans,Michigan St
-290250183,2009-01-25,2,183,home,FALSE,Syracuse,57,Orange,Syracuse Orange,Syracuse
-290250183,2009-01-25,2,97,away,FALSE,Louisville,67,Cardinals,Louisville Cardinals,Louisville
-290250228,2009-01-25,2,228,home,FALSE,Clemson,73,Tigers,Clemson Tigers,Clemson
-290250228,2009-01-25,2,59,away,FALSE,Georgia Tech,59,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-290252550,2009-01-25,2,2550,home,FALSE,Seton Hall,65,Pirates,Seton Hall Pirates,Seton Hall
-290252550,2009-01-25,2,46,away,FALSE,Georgetown,60,Hoyas,Georgetown Hoyas,Georgetown
-290250084,2009-01-25,2,84,home,FALSE,Indiana,63,Hoosiers,Indiana Hoosiers,Indiana
-290250084,2009-01-25,2,135,away,FALSE,Minnesota,67,Golden Gophers,Minnesota Golden Gophers,Minnesota
-290250238,2009-01-25,2,238,home,FALSE,Vanderbilt,69,Commodores,Vanderbilt Commodores,Vanderbilt
-290250238,2009-01-25,2,57,away,FALSE,Florida,94,Gators,Florida Gators,Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290250277,2009,regular-season,2009-01-25,2,277,home,FALSE,West Virginia,67,Mountaineers,West Virginia Mountaineers,West Virginia
+290250277,2009,regular-season,2009-01-25,2,221,away,FALSE,Pittsburgh,79,Panthers,Pittsburgh Panthers,Pitt
+290250194,2009,regular-season,2009-01-25,2,194,home,FALSE,Ohio State,67,Buckeyes,Ohio State Buckeyes,Ohio State
+290250194,2009,regular-season,2009-01-25,2,127,away,FALSE,Michigan State,78,Spartans,Michigan State Spartans,Michigan St
+290250183,2009,regular-season,2009-01-25,2,183,home,FALSE,Syracuse,57,Orange,Syracuse Orange,Syracuse
+290250183,2009,regular-season,2009-01-25,2,97,away,FALSE,Louisville,67,Cardinals,Louisville Cardinals,Louisville
+290250228,2009,regular-season,2009-01-25,2,228,home,FALSE,Clemson,73,Tigers,Clemson Tigers,Clemson
+290250228,2009,regular-season,2009-01-25,2,59,away,FALSE,Georgia Tech,59,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+290252550,2009,regular-season,2009-01-25,2,2550,home,FALSE,Seton Hall,65,Pirates,Seton Hall Pirates,Seton Hall
+290252550,2009,regular-season,2009-01-25,2,46,away,FALSE,Georgetown,60,Hoyas,Georgetown Hoyas,Georgetown
+290250084,2009,regular-season,2009-01-25,2,84,home,FALSE,Indiana,63,Hoosiers,Indiana Hoosiers,Indiana
+290250084,2009,regular-season,2009-01-25,2,135,away,FALSE,Minnesota,67,Golden Gophers,Minnesota Golden Gophers,Minnesota
+290250238,2009,regular-season,2009-01-25,2,238,home,FALSE,Vanderbilt,69,Commodores,Vanderbilt Commodores,Vanderbilt
+290250238,2009,regular-season,2009-01-25,2,57,away,FALSE,Florida,94,Gators,Florida Gators,Florida

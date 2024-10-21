@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400987651,2018-02-12,4,8,home,FALSE,Arkansas,58,Razorbacks,Arkansas Razorbacks,Arkansas
-400987651,2018-02-12,4,142,away,FALSE,Missouri,84,Tigers,Missouri Tigers,Missouri
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400987651,2018,regular-season,2018-02-12,4,8,home,FALSE,Arkansas,58,Razorbacks,Arkansas Razorbacks,Arkansas
+400987651,2018,regular-season,2018-02-12,4,142,away,FALSE,Missouri,84,Tigers,Missouri Tigers,Missouri

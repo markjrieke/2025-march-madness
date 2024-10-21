@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270030153,2007-01-03,2,153,home,FALSE,North Carolina,102,Tar Heels,North Carolina Tar Heels,North Carolina
-270030153,2007-01-03,2,219,away,FALSE,Pennsylvania,64,Quakers,Pennsylvania Quakers,Penn
-270030087,2007-01-03,2,87,home,FALSE,Notre Dame,78,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-270030087,2007-01-03,2,97,away,FALSE,Louisville,62,Cardinals,Louisville Cardinals,Louisville
-270030036,2007-01-03,2,36,home,FALSE,Colorado State,75,Rams,Colorado State Rams,Colorado St
-270030036,2007-01-03,2,2005,away,FALSE,Air Force,81,Falcons,Air Force Falcons,Air Force
-270030052,2007-01-03,2,52,home,FALSE,Florida State,66,Seminoles,Florida State Seminoles,Florida St
-270030052,2007-01-03,2,228,away,FALSE,Clemson,68,Tigers,Clemson Tigers,Clemson
-270030277,2007-01-03,2,277,home,FALSE,West Virginia,67,Mountaineers,West Virginia Mountaineers,West Virginia
-270030277,2007-01-03,2,222,away,FALSE,Villanova,56,Wildcats,Villanova Wildcats,Villanova
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270030153,2007,regular-season,2007-01-03,2,153,home,FALSE,North Carolina,102,Tar Heels,North Carolina Tar Heels,North Carolina
+270030153,2007,regular-season,2007-01-03,2,219,away,FALSE,Pennsylvania,64,Quakers,Pennsylvania Quakers,Penn
+270030087,2007,regular-season,2007-01-03,2,87,home,FALSE,Notre Dame,78,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+270030087,2007,regular-season,2007-01-03,2,97,away,FALSE,Louisville,62,Cardinals,Louisville Cardinals,Louisville
+270030036,2007,regular-season,2007-01-03,2,36,home,FALSE,Colorado State,75,Rams,Colorado State Rams,Colorado St
+270030036,2007,regular-season,2007-01-03,2,2005,away,FALSE,Air Force,81,Falcons,Air Force Falcons,Air Force
+270030052,2007,regular-season,2007-01-03,2,52,home,FALSE,Florida State,66,Seminoles,Florida State Seminoles,Florida St
+270030052,2007,regular-season,2007-01-03,2,228,away,FALSE,Clemson,68,Tigers,Clemson Tigers,Clemson
+270030277,2007,regular-season,2007-01-03,2,277,home,FALSE,West Virginia,67,Mountaineers,West Virginia Mountaineers,West Virginia
+270030277,2007,regular-season,2007-01-03,2,222,away,FALSE,Villanova,56,Wildcats,Villanova Wildcats,Villanova

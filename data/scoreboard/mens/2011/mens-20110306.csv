@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310650194,2011-03-06,2,194,home,FALSE,Ohio State,93,Buckeyes,Ohio State Buckeyes,Ohio State
-310650194,2011-03-06,2,275,away,FALSE,Wisconsin,65,Badgers,Wisconsin Badgers,Wisconsin
-310652633,2011-03-06,2,2633,home,FALSE,Tennessee,58,Volunteers,Tennessee Volunteers,Tennessee
-310652633,2011-03-06,2,96,away,FALSE,Kentucky,64,Wildcats,Kentucky Wildcats,Kentucky
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310650194,2011,regular-season,2011-03-06,2,194,home,FALSE,Ohio State,93,Buckeyes,Ohio State Buckeyes,Ohio State
+310650194,2011,regular-season,2011-03-06,2,275,away,FALSE,Wisconsin,65,Badgers,Wisconsin Badgers,Wisconsin
+310652633,2011,regular-season,2011-03-06,2,2633,home,FALSE,Tennessee,58,Volunteers,Tennessee Volunteers,Tennessee
+310652633,2011,regular-season,2011-03-06,2,96,away,FALSE,Kentucky,64,Wildcats,Kentucky Wildcats,Kentucky

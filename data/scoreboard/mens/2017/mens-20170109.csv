@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400920483,2017-01-09,2,2448,home,FALSE,North Carolina A&T,88,Aggies,North Carolina A&T Aggies,NC A&T
-400920483,2017-01-09,2,2379,away,FALSE,Maryland Eastern Shore,99,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-400919674,2017-01-09,2,46,home,FALSE,Georgetown,83,Hoyas,Georgetown Hoyas,Georgetown
-400919674,2017-01-09,2,2599,away,FALSE,St. John's,55,Red Storm,St. John's Red Storm,St John's
-400920438,2017-01-09,2,2261,home,FALSE,Hampton,84,Pirates,Hampton Pirates,Hampton
-400920438,2017-01-09,2,2542,away,FALSE,Savannah State,80,Tigers,Savannah State Tigers,Savannah St
-400917939,2017-01-09,2,2870,home,FALSE,Purdue Fort Wayne,115,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-400917939,2017-01-09,2,354,away,FALSE,Olivet,60,Comets,Olivet Comets,Olivet
-400917576,2017-01-09,2,2612,home,FALSE,Saint Peter's,58,Peacocks,Saint Peter's Peacocks,Saint Peter's
-400917576,2017-01-09,2,2514,away,FALSE,Quinnipiac,54,Bobcats,Quinnipiac Bobcats,Quinnipiac
-400916029,2017-01-09,3,290,home,FALSE,Georgia Southern,84,Eagles,Georgia Southern Eagles,GA Southern
-400916029,2017-01-09,3,6,away,FALSE,South Alabama,79,Jaguars,South Alabama Jaguars,South Alabama
-400916028,2017-01-09,2,2026,home,FALSE,App State,70,Mountaineers,App State Mountaineers,App State
-400916028,2017-01-09,2,2032,away,FALSE,Arkansas State,57,Red Wolves,Arkansas State Red Wolves,Arkansas St
-400916027,2017-01-09,2,324,home,FALSE,Coastal Carolina,66,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
-400916027,2017-01-09,2,2031,away,FALSE,Little Rock,63,Trojans,Little Rock Trojans,Little Rock
-400916026,2017-01-09,2,2247,home,FALSE,Georgia State,77,Panthers,Georgia State Panthers,Georgia St
-400916026,2017-01-09,2,2653,away,FALSE,Troy,80,Trojans,Troy Trojans,Troy
-400920366,2017-01-09,2,2065,home,FALSE,Bethune-Cookman,73,Wildcats,Bethune-Cookman Wildcats,Bethune
-400920366,2017-01-09,2,2154,away,FALSE,Coppin State,76,Eagles,Coppin State Eagles,Coppin St
-400922387,2017-01-09,2,2296,home,FALSE,Jackson State,65,Tigers,Jackson State Tigers,Jackson St
-400922387,2017-01-09,2,2582,away,FALSE,Southern,61,Jaguars,Southern Jaguars,Southern
-400922248,2017-01-09,2,2400,home,FALSE,Mississippi Valley State,73,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
-400922248,2017-01-09,2,2011,away,FALSE,Alabama State,70,Hornets,Alabama State Hornets,Alabama St
-400922217,2017-01-09,2,2029,home,FALSE,Arkansas-Pine Bluff,81,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-400922217,2017-01-09,2,2010,away,FALSE,Alabama A&M,65,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
-400922199,2017-01-09,2,2755,home,FALSE,Grambling,67,Tigers,Grambling Tigers,Grambling
-400922199,2017-01-09,2,2016,away,FALSE,Alcorn State,62,Braves,Alcorn State Braves,Alcorn St
-400920420,2017-01-09,0,2428,home,FALSE,North Carolina Central,0,Eagles,North Carolina Central Eagles,NC Central
-400920420,2017-01-09,0,2169,away,FALSE,Delaware State,0,Hornets,Delaware State Hornets,Delaware St
-400920523,2017-01-09,0,2450,home,FALSE,Norfolk State,0,Spartans,Norfolk State Spartans,Norfolk St
-400920523,2017-01-09,0,2569,away,FALSE,South Carolina State,0,Bulldogs,South Carolina State Bulldogs,SC State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400920483,2017,regular-season,2017-01-09,2,2448,home,FALSE,North Carolina A&T,88,Aggies,North Carolina A&T Aggies,NC A&T
+400920483,2017,regular-season,2017-01-09,2,2379,away,FALSE,Maryland Eastern Shore,99,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+400919674,2017,regular-season,2017-01-09,2,46,home,FALSE,Georgetown,83,Hoyas,Georgetown Hoyas,Georgetown
+400919674,2017,regular-season,2017-01-09,2,2599,away,FALSE,St. John's,55,Red Storm,St. John's Red Storm,St John's
+400920438,2017,regular-season,2017-01-09,2,2261,home,FALSE,Hampton,84,Pirates,Hampton Pirates,Hampton
+400920438,2017,regular-season,2017-01-09,2,2542,away,FALSE,Savannah State,80,Tigers,Savannah State Tigers,Savannah St
+400917939,2017,regular-season,2017-01-09,2,2870,home,FALSE,Purdue Fort Wayne,115,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+400917939,2017,regular-season,2017-01-09,2,354,away,FALSE,Olivet,60,Comets,Olivet Comets,Olivet
+400917576,2017,regular-season,2017-01-09,2,2612,home,FALSE,Saint Peter's,58,Peacocks,Saint Peter's Peacocks,Saint Peter's
+400917576,2017,regular-season,2017-01-09,2,2514,away,FALSE,Quinnipiac,54,Bobcats,Quinnipiac Bobcats,Quinnipiac
+400916029,2017,regular-season,2017-01-09,3,290,home,FALSE,Georgia Southern,84,Eagles,Georgia Southern Eagles,GA Southern
+400916029,2017,regular-season,2017-01-09,3,6,away,FALSE,South Alabama,79,Jaguars,South Alabama Jaguars,South Alabama
+400916028,2017,regular-season,2017-01-09,2,2026,home,FALSE,App State,70,Mountaineers,App State Mountaineers,App State
+400916028,2017,regular-season,2017-01-09,2,2032,away,FALSE,Arkansas State,57,Red Wolves,Arkansas State Red Wolves,Arkansas St
+400916027,2017,regular-season,2017-01-09,2,324,home,FALSE,Coastal Carolina,66,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+400916027,2017,regular-season,2017-01-09,2,2031,away,FALSE,Little Rock,63,Trojans,Little Rock Trojans,Little Rock
+400916026,2017,regular-season,2017-01-09,2,2247,home,FALSE,Georgia State,77,Panthers,Georgia State Panthers,Georgia St
+400916026,2017,regular-season,2017-01-09,2,2653,away,FALSE,Troy,80,Trojans,Troy Trojans,Troy
+400920366,2017,regular-season,2017-01-09,2,2065,home,FALSE,Bethune-Cookman,73,Wildcats,Bethune-Cookman Wildcats,Bethune
+400920366,2017,regular-season,2017-01-09,2,2154,away,FALSE,Coppin State,76,Eagles,Coppin State Eagles,Coppin St
+400922387,2017,regular-season,2017-01-09,2,2296,home,FALSE,Jackson State,65,Tigers,Jackson State Tigers,Jackson St
+400922387,2017,regular-season,2017-01-09,2,2582,away,FALSE,Southern,61,Jaguars,Southern Jaguars,Southern
+400922248,2017,regular-season,2017-01-09,2,2400,home,FALSE,Mississippi Valley State,73,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
+400922248,2017,regular-season,2017-01-09,2,2011,away,FALSE,Alabama State,70,Hornets,Alabama State Hornets,Alabama St
+400922217,2017,regular-season,2017-01-09,2,2029,home,FALSE,Arkansas-Pine Bluff,81,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+400922217,2017,regular-season,2017-01-09,2,2010,away,FALSE,Alabama A&M,65,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+400922199,2017,regular-season,2017-01-09,2,2755,home,FALSE,Grambling,67,Tigers,Grambling Tigers,Grambling
+400922199,2017,regular-season,2017-01-09,2,2016,away,FALSE,Alcorn State,62,Braves,Alcorn State Braves,Alcorn St
+400920420,2017,regular-season,2017-01-09,0,2428,home,FALSE,North Carolina Central,0,Eagles,North Carolina Central Eagles,NC Central
+400920420,2017,regular-season,2017-01-09,0,2169,away,FALSE,Delaware State,0,Hornets,Delaware State Hornets,Delaware St
+400920523,2017,regular-season,2017-01-09,0,2450,home,FALSE,Norfolk State,0,Spartans,Norfolk State Spartans,Norfolk St
+400920523,2017,regular-season,2017-01-09,0,2569,away,FALSE,South Carolina State,0,Bulldogs,South Carolina State Bulldogs,SC State

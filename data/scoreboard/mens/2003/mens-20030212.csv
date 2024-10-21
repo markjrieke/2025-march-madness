@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230430139,2003-02-12,2,139,home,FALSE,Saint Louis,59,Billikens,Saint Louis Billikens,Saint Louis
-230430139,2003-02-12,2,97,away,FALSE,Louisville,58,Cardinals,Louisville Cardinals,Louisville
-230430057,2003-02-12,2,57,home,FALSE,Florida,74,Gators,Florida Gators,Florida
-230430057,2003-02-12,2,145,away,FALSE,Ole Miss,55,Rebels,Ole Miss Rebels,Ole Miss
-230430221,2003-02-12,2,221,home,FALSE,Pittsburgh,82,Panthers,Pittsburgh Panthers,Pitt
-230430221,2003-02-12,2,277,away,FALSE,West Virginia,46,Mountaineers,West Virginia Mountaineers,West Virginia
-230430305,2003-02-12,2,305,home,FALSE,DePaul,60,Blue Demons,DePaul Blue Demons,DePaul
-230430305,2003-02-12,2,269,away,FALSE,Marquette,73,Golden Eagles,Marquette Golden Eagles,Marquette
-230430156,2003-02-12,2,156,home,FALSE,Creighton,70,Bluejays,Creighton Bluejays,Creighton
-230430156,2003-02-12,2,2623,away,FALSE,Missouri State,67,Bears,Missouri State Bears,Missouri St
-230430158,2003-02-12,2,158,home,FALSE,Nebraska,70,Cornhuskers,Nebraska Cornhuskers,Nebraska
-230430158,2003-02-12,2,197,away,FALSE,Oklahoma State,77,Cowboys,Oklahoma State Cowboys,Oklahoma St
-230430052,2003-02-12,2,52,home,FALSE,Florida State,72,Seminoles,Florida State Seminoles,Florida St
-230430052,2003-02-12,2,120,away,FALSE,Maryland,74,Terrapins,Maryland Terrapins,Maryland
-230430245,2003-02-12,2,245,home,FALSE,Texas A&M,73,Aggies,Texas A&M Aggies,Texas A&M
-230430245,2003-02-12,2,142,away,FALSE,Missouri,71,Tigers,Missouri Tigers,Missouri
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230430139,2003,regular-season,2003-02-12,2,139,home,FALSE,Saint Louis,59,Billikens,Saint Louis Billikens,Saint Louis
+230430139,2003,regular-season,2003-02-12,2,97,away,FALSE,Louisville,58,Cardinals,Louisville Cardinals,Louisville
+230430057,2003,regular-season,2003-02-12,2,57,home,FALSE,Florida,74,Gators,Florida Gators,Florida
+230430057,2003,regular-season,2003-02-12,2,145,away,FALSE,Ole Miss,55,Rebels,Ole Miss Rebels,Ole Miss
+230430221,2003,regular-season,2003-02-12,2,221,home,FALSE,Pittsburgh,82,Panthers,Pittsburgh Panthers,Pitt
+230430221,2003,regular-season,2003-02-12,2,277,away,FALSE,West Virginia,46,Mountaineers,West Virginia Mountaineers,West Virginia
+230430305,2003,regular-season,2003-02-12,2,305,home,FALSE,DePaul,60,Blue Demons,DePaul Blue Demons,DePaul
+230430305,2003,regular-season,2003-02-12,2,269,away,FALSE,Marquette,73,Golden Eagles,Marquette Golden Eagles,Marquette
+230430156,2003,regular-season,2003-02-12,2,156,home,FALSE,Creighton,70,Bluejays,Creighton Bluejays,Creighton
+230430156,2003,regular-season,2003-02-12,2,2623,away,FALSE,Missouri State,67,Bears,Missouri State Bears,Missouri St
+230430158,2003,regular-season,2003-02-12,2,158,home,FALSE,Nebraska,70,Cornhuskers,Nebraska Cornhuskers,Nebraska
+230430158,2003,regular-season,2003-02-12,2,197,away,FALSE,Oklahoma State,77,Cowboys,Oklahoma State Cowboys,Oklahoma St
+230430052,2003,regular-season,2003-02-12,2,52,home,FALSE,Florida State,72,Seminoles,Florida State Seminoles,Florida St
+230430052,2003,regular-season,2003-02-12,2,120,away,FALSE,Maryland,74,Terrapins,Maryland Terrapins,Maryland
+230430245,2003,regular-season,2003-02-12,2,245,home,FALSE,Texas A&M,73,Aggies,Texas A&M Aggies,Texas A&M
+230430245,2003,regular-season,2003-02-12,2,142,away,FALSE,Missouri,71,Tigers,Missouri Tigers,Missouri

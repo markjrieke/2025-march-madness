@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243220152,2004-11-17,2,152,home,FALSE,NC State,92,Wolfpack,NC State Wolfpack,NC State
-243220152,2004-11-17,2,2443,away,FALSE,New Orleans,58,Privateers,New Orleans Privateers,New Orleans
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243220152,2005,regular-season,2004-11-17,2,152,home,FALSE,NC State,92,Wolfpack,NC State Wolfpack,NC State
+243220152,2005,regular-season,2004-11-17,2,2443,away,FALSE,New Orleans,58,Privateers,New Orleans Privateers,New Orleans

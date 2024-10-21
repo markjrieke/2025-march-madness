@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400913904,2016-12-22,4,252,home,FALSE,BYU,70,Cougars,BYU Cougars,BYU
-400913904,2016-12-22,4,264,away,FALSE,Washington,82,Huskies,Washington Huskies,Washington
-400911134,2016-12-22,4,2460,home,FALSE,Northern Iowa,67,Panthers,Northern Iowa Panthers,Northern Iowa
-400911134,2016-12-22,4,2306,away,FALSE,Kansas State,59,Wildcats,Kansas State Wildcats,Kansas St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400913904,2017,regular-season,2016-12-22,4,252,home,FALSE,BYU,70,Cougars,BYU Cougars,BYU
+400913904,2017,regular-season,2016-12-22,4,264,away,FALSE,Washington,82,Huskies,Washington Huskies,Washington
+400911134,2017,regular-season,2016-12-22,4,2460,home,FALSE,Northern Iowa,67,Panthers,Northern Iowa Panthers,Northern Iowa
+400911134,2017,regular-season,2016-12-22,4,2306,away,FALSE,Kansas State,59,Wildcats,Kansas State Wildcats,Kansas St

@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243400059,2004-12-05,2,59,home,FALSE,Georgia Tech,87,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-243400059,2004-12-05,2,61,away,FALSE,Georgia,49,Bulldogs,Georgia Bulldogs,Georgia
-243400127,2004-12-05,2,127,home,FALSE,Michigan State,66,Spartans,Michigan State Spartans,Michigan St
-243400127,2004-12-05,2,2244,away,FALSE,George Mason,60,Patriots,George Mason Patriots,George Mason
-243400045,2004-12-05,2,45,home,FALSE,George Washington,101,Revolutionaries,George Washington Revolutionaries,G Washington
-243400045,2004-12-05,2,120,away,FALSE,Maryland,92,Terrapins,Maryland Terrapins,Maryland
-243400264,2004-12-05,2,264,home,FALSE,Washington,89,Huskies,Washington Huskies,Washington
-243400264,2004-12-05,2,331,away,FALSE,Eastern Washington,56,Eagles,Eastern Washington Eagles,E Washington
-243400012,2004-12-05,2,12,home,FALSE,Arizona,68,Wildcats,Arizona Wildcats,Arizona
-243400012,2004-12-05,2,344,away,FALSE,Mississippi State,64,Bulldogs,Mississippi State Bulldogs,Mississippi St
-243400152,2004-12-05,2,152,home,FALSE,NC State,76,Wolfpack,NC State Wolfpack,NC State
-243400152,2004-12-05,2,2363,away,FALSE,Manhattan,60,Jaspers,Manhattan Jaspers,Manhattan
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243400059,2005,regular-season,2004-12-05,2,59,home,FALSE,Georgia Tech,87,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+243400059,2005,regular-season,2004-12-05,2,61,away,FALSE,Georgia,49,Bulldogs,Georgia Bulldogs,Georgia
+243400127,2005,regular-season,2004-12-05,2,127,home,FALSE,Michigan State,66,Spartans,Michigan State Spartans,Michigan St
+243400127,2005,regular-season,2004-12-05,2,2244,away,FALSE,George Mason,60,Patriots,George Mason Patriots,George Mason
+243400045,2005,regular-season,2004-12-05,2,45,home,FALSE,George Washington,101,Revolutionaries,George Washington Revolutionaries,G Washington
+243400045,2005,regular-season,2004-12-05,2,120,away,FALSE,Maryland,92,Terrapins,Maryland Terrapins,Maryland
+243400264,2005,regular-season,2004-12-05,2,264,home,FALSE,Washington,89,Huskies,Washington Huskies,Washington
+243400264,2005,regular-season,2004-12-05,2,331,away,FALSE,Eastern Washington,56,Eagles,Eastern Washington Eagles,E Washington
+243400012,2005,regular-season,2004-12-05,2,12,home,FALSE,Arizona,68,Wildcats,Arizona Wildcats,Arizona
+243400012,2005,regular-season,2004-12-05,2,344,away,FALSE,Mississippi State,64,Bulldogs,Mississippi State Bulldogs,Mississippi St
+243400152,2005,regular-season,2004-12-05,2,152,home,FALSE,NC State,76,Wolfpack,NC State Wolfpack,NC State
+243400152,2005,regular-season,2004-12-05,2,2363,away,FALSE,Manhattan,60,Jaspers,Manhattan Jaspers,Manhattan

@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400593050,2014-12-29,2,41,home,FALSE,UConn,83,Huskies,UConn Huskies,UConn
-400593050,2014-12-29,2,150,away,FALSE,Duke,52,Blue Devils,Duke Blue Devils,Duke
-400590446,2014-12-29,2,264,home,FALSE,Washington,70,Huskies,Washington Huskies,Washington
-400590446,2014-12-29,2,245,away,FALSE,Texas A&M,49,Aggies,Texas A&M Aggies,Texas A&M
-400592346,2014-12-29,2,239,home,FALSE,Baylor,108,Bears,Baylor Bears,Baylor
-400592346,2014-12-29,2,2504,away,FALSE,Prairie View A&M,64,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
-400589804,2014-12-29,2,97,home,FALSE,Louisville,73,Cardinals,Louisville Cardinals,Louisville
-400589804,2014-12-29,2,339,away,FALSE,Evansville,51,Purple Aces,Evansville Purple Aces,Evansville
-400596651,2014-12-29,2,135,home,FALSE,Minnesota,72,Golden Gophers,Minnesota Golden Gophers,Minnesota
-400596651,2014-12-29,2,158,away,FALSE,Nebraska,69,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400596650,2014-12-29,2,120,home,FALSE,Maryland,87,Terrapins,Maryland Terrapins,Maryland
-400596650,2014-12-29,2,194,away,FALSE,Ohio State,78,Buckeyes,Ohio State Buckeyes,Ohio State
-400595018,2014-12-29,2,344,home,FALSE,Mississippi State,83,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400595018,2014-12-29,2,2029,away,FALSE,Arkansas-Pine Bluff,26,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-400592019,2014-12-29,2,197,home,FALSE,Oklahoma State,89,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-400592019,2014-12-29,2,2466,away,FALSE,Northwestern State,44,Lady Demons,Northwestern State Lady Demons,N'Western St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400593050,2015,regular-season,2014-12-29,2,41,home,FALSE,UConn,83,Huskies,UConn Huskies,UConn
+400593050,2015,regular-season,2014-12-29,2,150,away,FALSE,Duke,52,Blue Devils,Duke Blue Devils,Duke
+400590446,2015,regular-season,2014-12-29,2,264,home,FALSE,Washington,70,Huskies,Washington Huskies,Washington
+400590446,2015,regular-season,2014-12-29,2,245,away,FALSE,Texas A&M,49,Aggies,Texas A&M Aggies,Texas A&M
+400592346,2015,regular-season,2014-12-29,2,239,home,FALSE,Baylor,108,Bears,Baylor Bears,Baylor
+400592346,2015,regular-season,2014-12-29,2,2504,away,FALSE,Prairie View A&M,64,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
+400589804,2015,regular-season,2014-12-29,2,97,home,FALSE,Louisville,73,Cardinals,Louisville Cardinals,Louisville
+400589804,2015,regular-season,2014-12-29,2,339,away,FALSE,Evansville,51,Purple Aces,Evansville Purple Aces,Evansville
+400596651,2015,regular-season,2014-12-29,2,135,home,FALSE,Minnesota,72,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400596651,2015,regular-season,2014-12-29,2,158,away,FALSE,Nebraska,69,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400596650,2015,regular-season,2014-12-29,2,120,home,FALSE,Maryland,87,Terrapins,Maryland Terrapins,Maryland
+400596650,2015,regular-season,2014-12-29,2,194,away,FALSE,Ohio State,78,Buckeyes,Ohio State Buckeyes,Ohio State
+400595018,2015,regular-season,2014-12-29,2,344,home,FALSE,Mississippi State,83,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400595018,2015,regular-season,2014-12-29,2,2029,away,FALSE,Arkansas-Pine Bluff,26,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+400592019,2015,regular-season,2014-12-29,2,197,home,FALSE,Oklahoma State,89,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+400592019,2015,regular-season,2014-12-29,2,2466,away,FALSE,Northwestern State,44,Lady Demons,Northwestern State Lady Demons,N'Western St

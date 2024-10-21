@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313610158,2011-12-27,2,158,home,FALSE,Nebraska,40,Cornhuskers,Nebraska Cornhuskers,Nebraska
-313610158,2011-12-27,2,275,away,FALSE,Wisconsin,64,Badgers,Wisconsin Badgers,Wisconsin
-313610087,2011-12-27,2,87,home,FALSE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-313610087,2011-12-27,2,221,away,FALSE,Pittsburgh,59,Panthers,Pittsburgh Panthers,Pitt
-313610258,2011-12-27,2,258,home,FALSE,Virginia,69,Cavaliers,Virginia Cavaliers,Virginia
-313610258,2011-12-27,2,2379,away,FALSE,Maryland Eastern Shore,42,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313610158,2012,regular-season,2011-12-27,2,158,home,FALSE,Nebraska,40,Cornhuskers,Nebraska Cornhuskers,Nebraska
+313610158,2012,regular-season,2011-12-27,2,275,away,FALSE,Wisconsin,64,Badgers,Wisconsin Badgers,Wisconsin
+313610087,2012,regular-season,2011-12-27,2,87,home,FALSE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+313610087,2012,regular-season,2011-12-27,2,221,away,FALSE,Pittsburgh,59,Panthers,Pittsburgh Panthers,Pitt
+313610258,2012,regular-season,2011-12-27,2,258,home,FALSE,Virginia,69,Cavaliers,Virginia Cavaliers,Virginia
+313610258,2012,regular-season,2011-12-27,2,2379,away,FALSE,Maryland Eastern Shore,42,Hawks,Maryland Eastern Shore Hawks,MD Eastern

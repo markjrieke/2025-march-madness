@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400994994,2017-12-17,4,87,home,FALSE,Notre Dame,91,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400994994,2017-12-17,4,305,away,FALSE,DePaul,82,Blue Demons,DePaul Blue Demons,DePaul
-400987744,2017-12-17,4,96,home,FALSE,Kentucky,63,Wildcats,Kentucky Wildcats,Kentucky
-400987744,2017-12-17,4,97,away,FALSE,Louisville,87,Cardinals,Louisville Cardinals,Louisville
-400987860,2017-12-17,4,2579,home,FALSE,South Carolina,99,Gamecocks,South Carolina Gamecocks,South Carolina
-400987860,2017-12-17,4,2542,away,FALSE,Savannah State,38,Tigers,Savannah State Tigers,Savannah St
-400987786,2017-12-17,4,344,home,FALSE,Mississippi State,83,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400987786,2017-12-17,4,311,away,FALSE,Maine,43,Black Bears,Maine Black Bears,Maine
-400987877,2017-12-17,4,299,home,FALSE,Long Beach State,61,Beach,Long Beach State Beach,Long Beach St
-400987877,2017-12-17,4,2633,away,FALSE,Tennessee,90,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400987845,2017-12-17,4,2483,home,FALSE,Oregon,90,Ducks,Oregon Ducks,Oregon
-400987845,2017-12-17,4,145,away,FALSE,Ole Miss,46,Rebels,Ole Miss Rebels,Ole Miss
-400994415,2017-12-17,4,2550,home,FALSE,Seton Hall,68,Pirates,Seton Hall Pirates,Seton Hall
-400994415,2017-12-17,4,26,away,FALSE,UCLA,77,Bruins,UCLA Bruins,UCLA
-400999899,2017-12-17,4,2229,home,FALSE,Florida International,52,Panthers,Florida International Panthers,FIU
-400999899,2017-12-17,4,58,away,FALSE,South Florida,82,Bulls,South Florida Bulls,South Florida
-400993627,2017-12-17,4,2460,home,FALSE,Northern Iowa,47,Panthers,Northern Iowa Panthers,Northern Iowa
-400993627,2017-12-17,4,2294,away,FALSE,Iowa,71,Hawkeyes,Iowa Hawkeyes,Iowa
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400994994,2018,regular-season,2017-12-17,4,87,home,FALSE,Notre Dame,91,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400994994,2018,regular-season,2017-12-17,4,305,away,FALSE,DePaul,82,Blue Demons,DePaul Blue Demons,DePaul
+400987744,2018,regular-season,2017-12-17,4,96,home,FALSE,Kentucky,63,Wildcats,Kentucky Wildcats,Kentucky
+400987744,2018,regular-season,2017-12-17,4,97,away,FALSE,Louisville,87,Cardinals,Louisville Cardinals,Louisville
+400987860,2018,regular-season,2017-12-17,4,2579,home,FALSE,South Carolina,99,Gamecocks,South Carolina Gamecocks,South Carolina
+400987860,2018,regular-season,2017-12-17,4,2542,away,FALSE,Savannah State,38,Tigers,Savannah State Tigers,Savannah St
+400987786,2018,regular-season,2017-12-17,4,344,home,FALSE,Mississippi State,83,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400987786,2018,regular-season,2017-12-17,4,311,away,FALSE,Maine,43,Black Bears,Maine Black Bears,Maine
+400987877,2018,regular-season,2017-12-17,4,299,home,FALSE,Long Beach State,61,Beach,Long Beach State Beach,Long Beach St
+400987877,2018,regular-season,2017-12-17,4,2633,away,FALSE,Tennessee,90,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400987845,2018,regular-season,2017-12-17,4,2483,home,FALSE,Oregon,90,Ducks,Oregon Ducks,Oregon
+400987845,2018,regular-season,2017-12-17,4,145,away,FALSE,Ole Miss,46,Rebels,Ole Miss Rebels,Ole Miss
+400994415,2018,regular-season,2017-12-17,4,2550,home,FALSE,Seton Hall,68,Pirates,Seton Hall Pirates,Seton Hall
+400994415,2018,regular-season,2017-12-17,4,26,away,FALSE,UCLA,77,Bruins,UCLA Bruins,UCLA
+400999899,2018,regular-season,2017-12-17,4,2229,home,FALSE,Florida International,52,Panthers,Florida International Panthers,FIU
+400999899,2018,regular-season,2017-12-17,4,58,away,FALSE,South Florida,82,Bulls,South Florida Bulls,South Florida
+400993627,2018,regular-season,2017-12-17,4,2460,home,FALSE,Northern Iowa,47,Panthers,Northern Iowa Panthers,Northern Iowa
+400993627,2018,regular-season,2017-12-17,4,2294,away,FALSE,Iowa,71,Hawkeyes,Iowa Hawkeyes,Iowa

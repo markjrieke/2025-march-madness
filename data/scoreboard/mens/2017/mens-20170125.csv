@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400916225,2017-01-25,2,239,home,FALSE,Baylor,65,Bears,Baylor Bears,Baylor
-400916225,2017-01-25,2,2641,away,FALSE,Texas Tech,61,Red Raiders,Texas Tech Red Raiders,Texas Tech
-400915400,2017-01-25,2,59,home,FALSE,Georgia Tech,78,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-400915400,2017-01-25,2,52,away,FALSE,Florida State,56,Seminoles,Florida State Seminoles,Florida St
-400915640,2017-01-25,2,30,home,FALSE,USC,84,Trojans,USC Trojans,USC
-400915640,2017-01-25,2,26,away,FALSE,UCLA,76,Bruins,UCLA Bruins,UCLA
-400919697,2017-01-25,2,2550,home,FALSE,Seton Hall,54,Pirates,Seton Hall Pirates,Seton Hall
-400919697,2017-01-25,2,2086,away,FALSE,Butler,61,Bulldogs,Butler Bulldogs,Butler
-400919696,2017-01-25,2,46,home,FALSE,Georgetown,71,Hoyas,Georgetown Hoyas,Georgetown
-400919696,2017-01-25,2,156,away,FALSE,Creighton,51,Bluejays,Creighton Bluejays,Creighton
-400910647,2017-01-25,2,99,home,FALSE,LSU,71,Tigers,LSU Tigers,LSU
-400910647,2017-01-25,2,57,away,FALSE,Florida,106,Gators,Florida Gators,Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400916225,2017,regular-season,2017-01-25,2,239,home,FALSE,Baylor,65,Bears,Baylor Bears,Baylor
+400916225,2017,regular-season,2017-01-25,2,2641,away,FALSE,Texas Tech,61,Red Raiders,Texas Tech Red Raiders,Texas Tech
+400915400,2017,regular-season,2017-01-25,2,59,home,FALSE,Georgia Tech,78,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+400915400,2017,regular-season,2017-01-25,2,52,away,FALSE,Florida State,56,Seminoles,Florida State Seminoles,Florida St
+400915640,2017,regular-season,2017-01-25,2,30,home,FALSE,USC,84,Trojans,USC Trojans,USC
+400915640,2017,regular-season,2017-01-25,2,26,away,FALSE,UCLA,76,Bruins,UCLA Bruins,UCLA
+400919697,2017,regular-season,2017-01-25,2,2550,home,FALSE,Seton Hall,54,Pirates,Seton Hall Pirates,Seton Hall
+400919697,2017,regular-season,2017-01-25,2,2086,away,FALSE,Butler,61,Bulldogs,Butler Bulldogs,Butler
+400919696,2017,regular-season,2017-01-25,2,46,home,FALSE,Georgetown,71,Hoyas,Georgetown Hoyas,Georgetown
+400919696,2017,regular-season,2017-01-25,2,156,away,FALSE,Creighton,51,Bluejays,Creighton Bluejays,Creighton
+400910647,2017,regular-season,2017-01-25,2,99,home,FALSE,LSU,71,Tigers,LSU Tigers,LSU
+400910647,2017,regular-season,2017-01-25,2,57,away,FALSE,Florida,106,Gators,Florida Gators,Florida

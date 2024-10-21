@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220410041,2002-02-10,2,41,home,FALSE,UConn,77,Huskies,UConn Huskies,UConn
-220410041,2002-02-10,2,259,away,FALSE,Virginia Tech,42,Hokies,Virginia Tech Hokies,Virginia Tech
-220410061,2002-02-10,2,61,home,FALSE,Georgia,50,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-220410061,2002-02-10,2,2633,away,FALSE,Tennessee,52,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-220410150,2002-02-10,2,150,home,FALSE,Duke,77,Blue Devils,Duke Blue Devils,Duke
-220410150,2002-02-10,2,228,away,FALSE,Clemson,69,Tigers,Clemson Tigers,Clemson
-220410238,2002-02-10,2,238,home,FALSE,Vanderbilt,72,Commodores,Vanderbilt Commodores,Vanderbilt
-220410238,2002-02-10,2,344,away,FALSE,Mississippi State,53,Bulldogs,Mississippi State Bulldogs,Mississippi St
-220412509,2002-02-10,2,2509,home,FALSE,Purdue,79,Boilermakers,Purdue Boilermakers,Purdue
-220412509,2002-02-10,2,84,away,FALSE,Indiana,55,Hoosiers,Indiana Hoosiers,Indiana
-220410096,2002-02-10,2,96,home,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
-220410096,2002-02-10,2,2579,away,FALSE,South Carolina,74,Gamecocks,South Carolina Gamecocks,South Carolina
-220410158,2002-02-10,2,158,home,FALSE,Nebraska,67,Cornhuskers,Nebraska Cornhuskers,Nebraska
-220410158,2002-02-10,2,2306,away,FALSE,Kansas State,52,Wildcats,Kansas State Wildcats,Kansas St
-220410145,2002-02-10,2,145,home,FALSE,Ole Miss,73,Rebels,Ole Miss Rebels,Ole Miss
-220410145,2002-02-10,2,57,away,FALSE,Florida,74,Gators,Florida Gators,Florida
-220410087,2002-02-10,2,87,home,FALSE,Notre Dame,60,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-220410087,2002-02-10,2,103,away,FALSE,Boston College,44,Eagles,Boston College Eagles,Boston College
-220410077,2002-02-10,2,77,home,FALSE,Northwestern,78,Wildcats,Northwestern Wildcats,Northwestern
-220410077,2002-02-10,2,135,away,FALSE,Minnesota,86,Golden Gophers,Minnesota Golden Gophers,Minnesota
-220410295,2002-02-10,2,295,home,FALSE,Old Dominion,72,Monarchs,Old Dominion Monarchs,Old Dominion
-220410295,2002-02-10,2,48,away,FALSE,Delaware,45,Blue Hens,Delaware Blue Hens,Delaware
-220410152,2002-02-10,2,152,home,FALSE,NC State,71,Wolfpack,NC State Wolfpack,NC State
-220410152,2002-02-10,2,153,away,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220410041,2002,regular-season,2002-02-10,2,41,home,FALSE,UConn,77,Huskies,UConn Huskies,UConn
+220410041,2002,regular-season,2002-02-10,2,259,away,FALSE,Virginia Tech,42,Hokies,Virginia Tech Hokies,Virginia Tech
+220410061,2002,regular-season,2002-02-10,2,61,home,FALSE,Georgia,50,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+220410061,2002,regular-season,2002-02-10,2,2633,away,FALSE,Tennessee,52,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+220410150,2002,regular-season,2002-02-10,2,150,home,FALSE,Duke,77,Blue Devils,Duke Blue Devils,Duke
+220410150,2002,regular-season,2002-02-10,2,228,away,FALSE,Clemson,69,Tigers,Clemson Tigers,Clemson
+220410238,2002,regular-season,2002-02-10,2,238,home,FALSE,Vanderbilt,72,Commodores,Vanderbilt Commodores,Vanderbilt
+220410238,2002,regular-season,2002-02-10,2,344,away,FALSE,Mississippi State,53,Bulldogs,Mississippi State Bulldogs,Mississippi St
+220412509,2002,regular-season,2002-02-10,2,2509,home,FALSE,Purdue,79,Boilermakers,Purdue Boilermakers,Purdue
+220412509,2002,regular-season,2002-02-10,2,84,away,FALSE,Indiana,55,Hoosiers,Indiana Hoosiers,Indiana
+220410096,2002,regular-season,2002-02-10,2,96,home,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
+220410096,2002,regular-season,2002-02-10,2,2579,away,FALSE,South Carolina,74,Gamecocks,South Carolina Gamecocks,South Carolina
+220410158,2002,regular-season,2002-02-10,2,158,home,FALSE,Nebraska,67,Cornhuskers,Nebraska Cornhuskers,Nebraska
+220410158,2002,regular-season,2002-02-10,2,2306,away,FALSE,Kansas State,52,Wildcats,Kansas State Wildcats,Kansas St
+220410145,2002,regular-season,2002-02-10,2,145,home,FALSE,Ole Miss,73,Rebels,Ole Miss Rebels,Ole Miss
+220410145,2002,regular-season,2002-02-10,2,57,away,FALSE,Florida,74,Gators,Florida Gators,Florida
+220410087,2002,regular-season,2002-02-10,2,87,home,FALSE,Notre Dame,60,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+220410087,2002,regular-season,2002-02-10,2,103,away,FALSE,Boston College,44,Eagles,Boston College Eagles,Boston College
+220410077,2002,regular-season,2002-02-10,2,77,home,FALSE,Northwestern,78,Wildcats,Northwestern Wildcats,Northwestern
+220410077,2002,regular-season,2002-02-10,2,135,away,FALSE,Minnesota,86,Golden Gophers,Minnesota Golden Gophers,Minnesota
+220410295,2002,regular-season,2002-02-10,2,295,home,FALSE,Old Dominion,72,Monarchs,Old Dominion Monarchs,Old Dominion
+220410295,2002,regular-season,2002-02-10,2,48,away,FALSE,Delaware,45,Blue Hens,Delaware Blue Hens,Delaware
+220410152,2002,regular-season,2002-02-10,2,152,home,FALSE,NC State,71,Wolfpack,NC State Wolfpack,NC State
+220410152,2002,regular-season,2002-02-10,2,153,away,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina

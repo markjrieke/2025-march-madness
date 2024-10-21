@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400588175,2014-11-29,4,305,home,FALSE,DePaul,91,Blue Demons,DePaul Blue Demons,DePaul
-400588175,2014-11-29,4,77,away,FALSE,Northwestern,97,Wildcats,Northwestern Wildcats,Northwestern
-400592314,2014-11-29,2,197,home,FALSE,Oklahoma State,64,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-400592314,2014-11-29,2,326,away,FALSE,Texas State,37,Bobcats,Texas State Bobcats,Texas St
-400592311,2014-11-29,2,277,home,FALSE,West Virginia,67,Mountaineers,West Virginia Mountaineers,West Virginia
-400592311,2014-11-29,2,2217,away,FALSE,Fairfield,53,Stags,Fairfield Stags,Fairfield
-400594962,2014-11-29,2,2635,home,FALSE,Tennessee Tech,51,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
-400594962,2014-11-29,2,61,away,FALSE,Georgia,74,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-400591952,2014-11-29,2,2443,home,FALSE,New Orleans,45,Privateers,New Orleans Privateers,New Orleans
-400591952,2014-11-29,2,344,away,FALSE,Mississippi State,85,Bulldogs,Mississippi State Bulldogs,Mississippi St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400588175,2015,regular-season,2014-11-29,4,305,home,FALSE,DePaul,91,Blue Demons,DePaul Blue Demons,DePaul
+400588175,2015,regular-season,2014-11-29,4,77,away,FALSE,Northwestern,97,Wildcats,Northwestern Wildcats,Northwestern
+400592314,2015,regular-season,2014-11-29,2,197,home,FALSE,Oklahoma State,64,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+400592314,2015,regular-season,2014-11-29,2,326,away,FALSE,Texas State,37,Bobcats,Texas State Bobcats,Texas St
+400592311,2015,regular-season,2014-11-29,2,277,home,FALSE,West Virginia,67,Mountaineers,West Virginia Mountaineers,West Virginia
+400592311,2015,regular-season,2014-11-29,2,2217,away,FALSE,Fairfield,53,Stags,Fairfield Stags,Fairfield
+400594962,2015,regular-season,2014-11-29,2,2635,home,FALSE,Tennessee Tech,51,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
+400594962,2015,regular-season,2014-11-29,2,61,away,FALSE,Georgia,74,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+400591952,2015,regular-season,2014-11-29,2,2443,home,FALSE,New Orleans,45,Privateers,New Orleans Privateers,New Orleans
+400591952,2015,regular-season,2014-11-29,2,344,away,FALSE,Mississippi State,85,Bulldogs,Mississippi State Bulldogs,Mississippi St

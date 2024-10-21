@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401172205,2020-03-01,4,2483,home,FALSE,Oregon,92,Ducks,Oregon Ducks,Oregon
-401172205,2020-03-01,4,264,away,FALSE,Washington,56,Huskies,Washington Huskies,Washington
-401171330,2020-03-01,4,97,home,FALSE,Louisville,70,Cardinals,Louisville Cardinals,Louisville
-401171330,2020-03-01,4,259,away,FALSE,Virginia Tech,53,Hokies,Virginia Tech Hokies,Virginia Tech
-401171334,2020-03-01,4,258,home,FALSE,Virginia,64,Cavaliers,Virginia Cavaliers,Virginia
-401171334,2020-03-01,4,152,away,FALSE,NC State,75,Wolfpack,NC State Wolfpack,NC State
-401172208,2020-03-01,4,26,home,FALSE,UCLA,77,Bruins,UCLA Bruins,UCLA
-401172208,2020-03-01,4,254,away,FALSE,Utah,54,Utes,Utah Utes,Utah
-401166744,2020-03-01,4,145,home,FALSE,Ole Miss,59,Rebels,Ole Miss Rebels,Ole Miss
-401166744,2020-03-01,4,344,away,FALSE,Mississippi State,84,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401172203,2020-03-01,4,12,home,FALSE,Arizona,54,Wildcats,Arizona Wildcats,Arizona
-401172203,2020-03-01,4,25,away,FALSE,California,55,Golden Bears,California Golden Bears,California
-401166746,2020-03-01,4,238,home,FALSE,Vanderbilt,70,Commodores,Vanderbilt Commodores,Vanderbilt
-401166746,2020-03-01,4,96,away,FALSE,Kentucky,64,Wildcats,Kentucky Wildcats,Kentucky
-401177621,2020-03-01,4,269,home,FALSE,Marquette,90,Golden Eagles,Marquette Golden Eagles,Marquette
-401177621,2020-03-01,4,305,away,FALSE,DePaul,83,Blue Demons,DePaul Blue Demons,DePaul
-401172206,2020-03-01,4,204,home,FALSE,Oregon State,73,Beavers,Oregon State Beavers,Oregon St
-401172206,2020-03-01,4,265,away,FALSE,Washington State,58,Cougars,Washington State Cougars,Washington St
-401166925,2020-03-01,5,164,home,FALSE,Rutgers,78,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-401166925,2020-03-01,5,2294,away,FALSE,Iowa,74,Hawkeyes,Iowa Hawkeyes,Iowa
-401171332,2020-03-01,4,52,home,FALSE,Florida State,67,Seminoles,Florida State Seminoles,Florida St
-401171332,2020-03-01,4,87,away,FALSE,Notre Dame,70,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401179892,2020-03-01,4,71,home,FALSE,Bradley,66,Braves,Bradley Braves,Bradley
-401179892,2020-03-01,4,2623,away,FALSE,Missouri State,69,Lady Bears,Missouri State Lady Bears,Missouri St
-401166922,2020-03-01,4,130,home,FALSE,Michigan,60,Wolverines,Michigan Wolverines,Michigan
-401166922,2020-03-01,4,84,away,FALSE,Indiana,78,Hoosiers,Indiana Hoosiers,Indiana
-401176974,2020-03-01,4,2641,home,FALSE,Texas Tech,87,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-401176974,2020-03-01,4,2628,away,FALSE,TCU,83,Horned Frogs,TCU Horned Frogs,TCU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401172205,2020,regular-season,2020-03-01,4,2483,home,FALSE,Oregon,92,Ducks,Oregon Ducks,Oregon
+401172205,2020,regular-season,2020-03-01,4,264,away,FALSE,Washington,56,Huskies,Washington Huskies,Washington
+401171330,2020,regular-season,2020-03-01,4,97,home,FALSE,Louisville,70,Cardinals,Louisville Cardinals,Louisville
+401171330,2020,regular-season,2020-03-01,4,259,away,FALSE,Virginia Tech,53,Hokies,Virginia Tech Hokies,Virginia Tech
+401171334,2020,regular-season,2020-03-01,4,258,home,FALSE,Virginia,64,Cavaliers,Virginia Cavaliers,Virginia
+401171334,2020,regular-season,2020-03-01,4,152,away,FALSE,NC State,75,Wolfpack,NC State Wolfpack,NC State
+401172208,2020,regular-season,2020-03-01,4,26,home,FALSE,UCLA,77,Bruins,UCLA Bruins,UCLA
+401172208,2020,regular-season,2020-03-01,4,254,away,FALSE,Utah,54,Utes,Utah Utes,Utah
+401166744,2020,regular-season,2020-03-01,4,145,home,FALSE,Ole Miss,59,Rebels,Ole Miss Rebels,Ole Miss
+401166744,2020,regular-season,2020-03-01,4,344,away,FALSE,Mississippi State,84,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401172203,2020,regular-season,2020-03-01,4,12,home,FALSE,Arizona,54,Wildcats,Arizona Wildcats,Arizona
+401172203,2020,regular-season,2020-03-01,4,25,away,FALSE,California,55,Golden Bears,California Golden Bears,California
+401166746,2020,regular-season,2020-03-01,4,238,home,FALSE,Vanderbilt,70,Commodores,Vanderbilt Commodores,Vanderbilt
+401166746,2020,regular-season,2020-03-01,4,96,away,FALSE,Kentucky,64,Wildcats,Kentucky Wildcats,Kentucky
+401177621,2020,regular-season,2020-03-01,4,269,home,FALSE,Marquette,90,Golden Eagles,Marquette Golden Eagles,Marquette
+401177621,2020,regular-season,2020-03-01,4,305,away,FALSE,DePaul,83,Blue Demons,DePaul Blue Demons,DePaul
+401172206,2020,regular-season,2020-03-01,4,204,home,FALSE,Oregon State,73,Beavers,Oregon State Beavers,Oregon St
+401172206,2020,regular-season,2020-03-01,4,265,away,FALSE,Washington State,58,Cougars,Washington State Cougars,Washington St
+401166925,2020,regular-season,2020-03-01,5,164,home,FALSE,Rutgers,78,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401166925,2020,regular-season,2020-03-01,5,2294,away,FALSE,Iowa,74,Hawkeyes,Iowa Hawkeyes,Iowa
+401171332,2020,regular-season,2020-03-01,4,52,home,FALSE,Florida State,67,Seminoles,Florida State Seminoles,Florida St
+401171332,2020,regular-season,2020-03-01,4,87,away,FALSE,Notre Dame,70,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401179892,2020,regular-season,2020-03-01,4,71,home,FALSE,Bradley,66,Braves,Bradley Braves,Bradley
+401179892,2020,regular-season,2020-03-01,4,2623,away,FALSE,Missouri State,69,Lady Bears,Missouri State Lady Bears,Missouri St
+401166922,2020,regular-season,2020-03-01,4,130,home,FALSE,Michigan,60,Wolverines,Michigan Wolverines,Michigan
+401166922,2020,regular-season,2020-03-01,4,84,away,FALSE,Indiana,78,Hoosiers,Indiana Hoosiers,Indiana
+401176974,2020,regular-season,2020-03-01,4,2641,home,FALSE,Texas Tech,87,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+401176974,2020,regular-season,2020-03-01,4,2628,away,FALSE,TCU,83,Horned Frogs,TCU Horned Frogs,TCU

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401364371,2022-01-09,2,194,home,FALSE,Ohio State,95,Buckeyes,Ohio State Buckeyes,Ohio State
-401364371,2022-01-09,2,77,away,FALSE,Northwestern,87,Wildcats,Northwestern Wildcats,Northwestern
-401364372,2022-01-09,2,120,home,FALSE,Maryland,69,Terrapins,Maryland Terrapins,Maryland
-401364372,2022-01-09,2,275,away,FALSE,Wisconsin,70,Badgers,Wisconsin Badgers,Wisconsin
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401364371,2022,regular-season,2022-01-09,2,194,home,FALSE,Ohio State,95,Buckeyes,Ohio State Buckeyes,Ohio State
+401364371,2022,regular-season,2022-01-09,2,77,away,FALSE,Northwestern,87,Wildcats,Northwestern Wildcats,Northwestern
+401364372,2022,regular-season,2022-01-09,2,120,home,FALSE,Maryland,69,Terrapins,Maryland Terrapins,Maryland
+401364372,2022,regular-season,2022-01-09,2,275,away,FALSE,Wisconsin,70,Badgers,Wisconsin Badgers,Wisconsin

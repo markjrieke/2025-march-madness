@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300580041,2010-02-27,2,41,home,FALSE,UConn,84,Huskies,UConn Huskies,UConn
-300580041,2010-02-27,2,46,away,FALSE,Georgetown,62,Hoyas,Georgetown Hoyas,Georgetown
-300580012,2010-02-27,2,12,home,FALSE,Arizona,48,Wildcats,Arizona Wildcats,Arizona
-300580012,2010-02-27,2,24,away,FALSE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
-300580158,2010-02-27,2,158,home,FALSE,Nebraska,67,Cornhuskers,Nebraska Cornhuskers,Nebraska
-300580158,2010-02-27,2,142,away,FALSE,Missouri,51,Tigers,Missouri Tigers,Missouri
-300582550,2010-02-27,2,2550,home,FALSE,Seton Hall,47,Pirates,Seton Hall Pirates,Seton Hall
-300582550,2010-02-27,2,87,away,FALSE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-300580277,2010-02-27,2,277,home,FALSE,West Virginia,69,Mountaineers,West Virginia Mountaineers,West Virginia
-300580277,2010-02-27,2,269,away,FALSE,Marquette,56,Golden Eagles,Marquette Golden Eagles,Marquette
-300580251,2010-02-27,2,251,home,FALSE,Texas,60,Longhorns,Texas Longhorns,Texas
-300580251,2010-02-27,2,201,away,FALSE,Oklahoma,75,Sooners,Oklahoma Sooners,Oklahoma
-300580038,2010-02-27,2,38,home,FALSE,Colorado,61,Buffaloes,Colorado Buffaloes,Colorado
-300580038,2010-02-27,2,245,away,FALSE,Texas A&M,95,Aggies,Texas A&M Aggies,Texas A&M
-300580066,2010-02-27,2,66,home,FALSE,Iowa State,48,Cyclones,Iowa State Cyclones,Iowa State
-300580066,2010-02-27,2,2306,away,FALSE,Kansas State,39,Wildcats,Kansas State Wildcats,Kansas St
-300582599,2010-02-27,2,2599,home,FALSE,St. John's,69,Red Storm,St. John's Red Storm,St John's
-300582599,2010-02-27,2,222,away,FALSE,Villanova,42,Wildcats,Villanova Wildcats,Villanova
-300582539,2010-02-27,2,2539,home,FALSE,San Francisco,35,Dons,San Francisco Dons,San Francisco
-300582539,2010-02-27,2,2250,away,FALSE,Gonzaga,83,Bulldogs,Gonzaga Bulldogs,Gonzaga
-300580042,2010-02-27,2,42,home,FALSE,Hartford,61,Hawks,Hartford Hawks,Hartford
-300580042,2010-02-27,2,261,away,FALSE,Vermont,51,Catamounts,Vermont Catamounts,Vermont
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300580041,2010,regular-season,2010-02-27,2,41,home,FALSE,UConn,84,Huskies,UConn Huskies,UConn
+300580041,2010,regular-season,2010-02-27,2,46,away,FALSE,Georgetown,62,Hoyas,Georgetown Hoyas,Georgetown
+300580012,2010,regular-season,2010-02-27,2,12,home,FALSE,Arizona,48,Wildcats,Arizona Wildcats,Arizona
+300580012,2010,regular-season,2010-02-27,2,24,away,FALSE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
+300580158,2010,regular-season,2010-02-27,2,158,home,FALSE,Nebraska,67,Cornhuskers,Nebraska Cornhuskers,Nebraska
+300580158,2010,regular-season,2010-02-27,2,142,away,FALSE,Missouri,51,Tigers,Missouri Tigers,Missouri
+300582550,2010,regular-season,2010-02-27,2,2550,home,FALSE,Seton Hall,47,Pirates,Seton Hall Pirates,Seton Hall
+300582550,2010,regular-season,2010-02-27,2,87,away,FALSE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+300580277,2010,regular-season,2010-02-27,2,277,home,FALSE,West Virginia,69,Mountaineers,West Virginia Mountaineers,West Virginia
+300580277,2010,regular-season,2010-02-27,2,269,away,FALSE,Marquette,56,Golden Eagles,Marquette Golden Eagles,Marquette
+300580251,2010,regular-season,2010-02-27,2,251,home,FALSE,Texas,60,Longhorns,Texas Longhorns,Texas
+300580251,2010,regular-season,2010-02-27,2,201,away,FALSE,Oklahoma,75,Sooners,Oklahoma Sooners,Oklahoma
+300580038,2010,regular-season,2010-02-27,2,38,home,FALSE,Colorado,61,Buffaloes,Colorado Buffaloes,Colorado
+300580038,2010,regular-season,2010-02-27,2,245,away,FALSE,Texas A&M,95,Aggies,Texas A&M Aggies,Texas A&M
+300580066,2010,regular-season,2010-02-27,2,66,home,FALSE,Iowa State,48,Cyclones,Iowa State Cyclones,Iowa State
+300580066,2010,regular-season,2010-02-27,2,2306,away,FALSE,Kansas State,39,Wildcats,Kansas State Wildcats,Kansas St
+300582599,2010,regular-season,2010-02-27,2,2599,home,FALSE,St. John's,69,Red Storm,St. John's Red Storm,St John's
+300582599,2010,regular-season,2010-02-27,2,222,away,FALSE,Villanova,42,Wildcats,Villanova Wildcats,Villanova
+300582539,2010,regular-season,2010-02-27,2,2539,home,FALSE,San Francisco,35,Dons,San Francisco Dons,San Francisco
+300582539,2010,regular-season,2010-02-27,2,2250,away,FALSE,Gonzaga,83,Bulldogs,Gonzaga Bulldogs,Gonzaga
+300580042,2010,regular-season,2010-02-27,2,42,home,FALSE,Hartford,61,Hawks,Hartford Hawks,Hartford
+300580042,2010,regular-season,2010-02-27,2,261,away,FALSE,Vermont,51,Catamounts,Vermont Catamounts,Vermont

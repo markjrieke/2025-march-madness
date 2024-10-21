@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401602066,2024-01-07,2,235,home,FALSE,Memphis,62,Tigers,Memphis Tigers,Memphis
-401602066,2024-01-07,2,2567,away,FALSE,SMU,59,Mustangs,SMU Mustangs,SMU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401602066,2024,regular-season,2024-01-07,2,235,home,FALSE,Memphis,62,Tigers,Memphis Tigers,Memphis
+401602066,2024,regular-season,2024-01-07,2,2567,away,FALSE,SMU,59,Mustangs,SMU Mustangs,SMU

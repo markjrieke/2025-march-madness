@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303442711,2010-12-10,2,2711,home,FALSE,Western Michigan,50,Broncos,Western Michigan Broncos,W Michigan
-303442711,2010-12-10,2,127,away,FALSE,Michigan State,62,Spartans,Michigan State Spartans,Michigan St
-303440120,2010-12-10,2,120,home,FALSE,Maryland,71,Terrapins,Maryland Terrapins,Maryland
-303440120,2010-12-10,2,2378,away,FALSE,UMBC,45,Retrievers,UMBC Retrievers,UMBC
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303442711,2011,regular-season,2010-12-10,2,2711,home,FALSE,Western Michigan,50,Broncos,Western Michigan Broncos,W Michigan
+303442711,2011,regular-season,2010-12-10,2,127,away,FALSE,Michigan State,62,Spartans,Michigan State Spartans,Michigan St
+303440120,2011,regular-season,2010-12-10,2,120,home,FALSE,Maryland,71,Terrapins,Maryland Terrapins,Maryland
+303440120,2011,regular-season,2010-12-10,2,2378,away,FALSE,UMBC,45,Retrievers,UMBC Retrievers,UMBC

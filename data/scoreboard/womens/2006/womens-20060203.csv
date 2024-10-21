@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260340218,2006-02-03,2,218,home,FALSE,Temple,65,Owls,Temple Owls,Temple
-260340218,2006-02-03,2,257,away,FALSE,Richmond,46,Spiders,Richmond Spiders,Richmond
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260340218,2006,regular-season,2006-02-03,2,218,home,FALSE,Temple,65,Owls,Temple Owls,Temple
+260340218,2006,regular-season,2006-02-03,2,257,away,FALSE,Richmond,46,Spiders,Richmond Spiders,Richmond

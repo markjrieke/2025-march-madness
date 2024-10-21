@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320500164,2012-02-19,2,164,home,FALSE,Rutgers,64,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-320500164,2012-02-19,2,183,away,FALSE,Syracuse,74,Orange,Syracuse Orange,Syracuse
-320500103,2012-02-19,2,103,home,FALSE,Boston College,50,Eagles,Boston College Eagles,Boston College
-320500103,2012-02-19,2,150,away,FALSE,Duke,75,Blue Devils,Duke Blue Devils,Duke
-320502509,2012-02-19,2,2509,home,FALSE,Purdue,62,Boilermakers,Purdue Boilermakers,Purdue
-320502509,2012-02-19,2,127,away,FALSE,Michigan State,76,Spartans,Michigan State Spartans,Michigan St
-320500275,2012-02-19,2,275,home,FALSE,Wisconsin,65,Badgers,Wisconsin Badgers,Wisconsin
-320500275,2012-02-19,2,213,away,FALSE,Penn State,55,Nittany Lions,Penn State Nittany Lions,Penn State
-320502294,2012-02-19,2,2294,home,FALSE,Iowa,78,Hawkeyes,Iowa Hawkeyes,Iowa
-320502294,2012-02-19,2,84,away,FALSE,Indiana,66,Hoosiers,Indiana Hoosiers,Indiana
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320500164,2012,regular-season,2012-02-19,2,164,home,FALSE,Rutgers,64,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+320500164,2012,regular-season,2012-02-19,2,183,away,FALSE,Syracuse,74,Orange,Syracuse Orange,Syracuse
+320500103,2012,regular-season,2012-02-19,2,103,home,FALSE,Boston College,50,Eagles,Boston College Eagles,Boston College
+320500103,2012,regular-season,2012-02-19,2,150,away,FALSE,Duke,75,Blue Devils,Duke Blue Devils,Duke
+320502509,2012,regular-season,2012-02-19,2,2509,home,FALSE,Purdue,62,Boilermakers,Purdue Boilermakers,Purdue
+320502509,2012,regular-season,2012-02-19,2,127,away,FALSE,Michigan State,76,Spartans,Michigan State Spartans,Michigan St
+320500275,2012,regular-season,2012-02-19,2,275,home,FALSE,Wisconsin,65,Badgers,Wisconsin Badgers,Wisconsin
+320500275,2012,regular-season,2012-02-19,2,213,away,FALSE,Penn State,55,Nittany Lions,Penn State Nittany Lions,Penn State
+320502294,2012,regular-season,2012-02-19,2,2294,home,FALSE,Iowa,78,Hawkeyes,Iowa Hawkeyes,Iowa
+320502294,2012,regular-season,2012-02-19,2,84,away,FALSE,Indiana,66,Hoosiers,Indiana Hoosiers,Indiana

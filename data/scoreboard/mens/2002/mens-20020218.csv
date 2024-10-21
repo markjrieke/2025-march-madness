@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220492305,2002-02-18,2,2305,home,FALSE,Kansas,102,Jayhawks,Kansas Jayhawks,Kansas
-220492305,2002-02-18,2,66,away,FALSE,Iowa State,66,Cyclones,Iowa State Cyclones,Iowa State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220492305,2002,regular-season,2002-02-18,2,2305,home,FALSE,Kansas,102,Jayhawks,Kansas Jayhawks,Kansas
+220492305,2002,regular-season,2002-02-18,2,66,away,FALSE,Iowa State,66,Cyclones,Iowa State Cyclones,Iowa State

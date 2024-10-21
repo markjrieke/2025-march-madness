@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400499025,2013-11-10,2,96,home,FALSE,Kentucky,93,Wildcats,Kentucky Wildcats,Kentucky
-400499025,2013-11-10,2,94,away,FALSE,Northern Kentucky,63,Norse,Northern Kentucky Norse,N Kentucky
-400499026,2013-11-10,2,87,home,FALSE,Notre Dame,80,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400499026,2013-11-10,2,56,away,FALSE,Stetson,49,Hatters,Stetson Hatters,Stetson
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400499025,2014,regular-season,2013-11-10,2,96,home,FALSE,Kentucky,93,Wildcats,Kentucky Wildcats,Kentucky
+400499025,2014,regular-season,2013-11-10,2,94,away,FALSE,Northern Kentucky,63,Norse,Northern Kentucky Norse,N Kentucky
+400499026,2014,regular-season,2013-11-10,2,87,home,FALSE,Notre Dame,80,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400499026,2014,regular-season,2013-11-10,2,56,away,FALSE,Stetson,49,Hatters,Stetson Hatters,Stetson

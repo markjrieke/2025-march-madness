@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400592937,2014-11-16,2,333,home,FALSE,Alabama,40,Crimson Tide,Alabama Crimson Tide,Alabama
-400592937,2014-11-16,2,150,away,FALSE,Duke,90,Blue Devils,Duke Blue Devils,Duke
-400596594,2014-11-16,2,120,home,FALSE,Maryland,97,Terrapins,Maryland Terrapins,Maryland
-400596594,2014-11-16,2,2681,away,FALSE,Wagner,24,Seahawks,Wagner Seahawks,Wagner
-400592943,2014-11-16,2,97,home,FALSE,Louisville,77,Cardinals,Louisville Cardinals,Louisville
-400592943,2014-11-16,2,2630,away,FALSE,UT Martin,43,Skyhawks,UT Martin Skyhawks,UT Martin
-400590355,2014-11-16,2,153,home,FALSE,North Carolina,84,Tar Heels,North Carolina Tar Heels,North Carolina
-400590355,2014-11-16,2,26,away,FALSE,UCLA,68,Bruins,UCLA Bruins,UCLA
-400594676,2014-11-16,2,127,home,FALSE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
-400594676,2014-11-16,2,2199,away,FALSE,Eastern Michigan,61,Eagles,Eastern Michigan Eagles,E Michigan
-400590354,2014-11-16,2,279,home,FALSE,Pacific,64,Tigers,Pacific Tigers,Pacific
-400590354,2014-11-16,2,25,away,FALSE,California,84,Golden Bears,California Golden Bears,California
-400596596,2014-11-16,2,158,home,FALSE,Nebraska,83,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400596596,2014-11-16,2,2016,away,FALSE,Alcorn State,49,Lady Braves,Alcorn State Lady Braves,Alcorn St
-400596593,2014-11-16,2,2294,home,FALSE,Iowa,85,Hawkeyes,Iowa Hawkeyes,Iowa
-400596593,2014-11-16,2,2523,away,FALSE,Robert Morris,67,Colonials,Robert Morris Colonials,Robert Morris
-400590353,2014-11-16,2,204,home,FALSE,Oregon State,85,Beavers,Oregon State Beavers,Oregon St
-400590353,2014-11-16,2,328,away,FALSE,Utah State,62,Aggies,Utah State Aggies,Utah State
-400592291,2014-11-16,2,197,home,FALSE,Oklahoma State,77,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-400592291,2014-11-16,2,2640,away,FALSE,Texas Southern,58,Tigers,Texas Southern Tigers,Texas Southern
-400592679,2014-11-16,2,2250,home,FALSE,Gonzaga,75,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400592679,2014-11-16,2,2168,away,FALSE,Dayton,65,Flyers,Dayton Flyers,Dayton
-400592676,2014-11-16,2,183,home,FALSE,Syracuse,59,Orange,Syracuse Orange,Syracuse
-400592676,2014-11-16,2,2230,away,FALSE,Fordham,42,Rams,Fordham Rams,Fordham
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400592937,2015,regular-season,2014-11-16,2,333,home,FALSE,Alabama,40,Crimson Tide,Alabama Crimson Tide,Alabama
+400592937,2015,regular-season,2014-11-16,2,150,away,FALSE,Duke,90,Blue Devils,Duke Blue Devils,Duke
+400596594,2015,regular-season,2014-11-16,2,120,home,FALSE,Maryland,97,Terrapins,Maryland Terrapins,Maryland
+400596594,2015,regular-season,2014-11-16,2,2681,away,FALSE,Wagner,24,Seahawks,Wagner Seahawks,Wagner
+400592943,2015,regular-season,2014-11-16,2,97,home,FALSE,Louisville,77,Cardinals,Louisville Cardinals,Louisville
+400592943,2015,regular-season,2014-11-16,2,2630,away,FALSE,UT Martin,43,Skyhawks,UT Martin Skyhawks,UT Martin
+400590355,2015,regular-season,2014-11-16,2,153,home,FALSE,North Carolina,84,Tar Heels,North Carolina Tar Heels,North Carolina
+400590355,2015,regular-season,2014-11-16,2,26,away,FALSE,UCLA,68,Bruins,UCLA Bruins,UCLA
+400594676,2015,regular-season,2014-11-16,2,127,home,FALSE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
+400594676,2015,regular-season,2014-11-16,2,2199,away,FALSE,Eastern Michigan,61,Eagles,Eastern Michigan Eagles,E Michigan
+400590354,2015,regular-season,2014-11-16,2,279,home,FALSE,Pacific,64,Tigers,Pacific Tigers,Pacific
+400590354,2015,regular-season,2014-11-16,2,25,away,FALSE,California,84,Golden Bears,California Golden Bears,California
+400596596,2015,regular-season,2014-11-16,2,158,home,FALSE,Nebraska,83,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400596596,2015,regular-season,2014-11-16,2,2016,away,FALSE,Alcorn State,49,Lady Braves,Alcorn State Lady Braves,Alcorn St
+400596593,2015,regular-season,2014-11-16,2,2294,home,FALSE,Iowa,85,Hawkeyes,Iowa Hawkeyes,Iowa
+400596593,2015,regular-season,2014-11-16,2,2523,away,FALSE,Robert Morris,67,Colonials,Robert Morris Colonials,Robert Morris
+400590353,2015,regular-season,2014-11-16,2,204,home,FALSE,Oregon State,85,Beavers,Oregon State Beavers,Oregon St
+400590353,2015,regular-season,2014-11-16,2,328,away,FALSE,Utah State,62,Aggies,Utah State Aggies,Utah State
+400592291,2015,regular-season,2014-11-16,2,197,home,FALSE,Oklahoma State,77,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+400592291,2015,regular-season,2014-11-16,2,2640,away,FALSE,Texas Southern,58,Tigers,Texas Southern Tigers,Texas Southern
+400592679,2015,regular-season,2014-11-16,2,2250,home,FALSE,Gonzaga,75,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400592679,2015,regular-season,2014-11-16,2,2168,away,FALSE,Dayton,65,Flyers,Dayton Flyers,Dayton
+400592676,2015,regular-season,2014-11-16,2,183,home,FALSE,Syracuse,59,Orange,Syracuse Orange,Syracuse
+400592676,2015,regular-season,2014-11-16,2,2230,away,FALSE,Fordham,42,Rams,Fordham Rams,Fordham

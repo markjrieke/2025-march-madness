@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-294000015,2009-03-28,2,41,home,TRUE,UConn,82,Huskies,UConn Huskies,UConn
-294000015,2009-03-28,2,142,away,TRUE,Missouri,75,Tigers,Missouri Tigers,Missouri
-294000030,2009-03-28,2,221,home,TRUE,Pittsburgh,76,Panthers,Pittsburgh Panthers,Pitt
-294000030,2009-03-28,2,222,away,TRUE,Villanova,78,Wildcats,Villanova Wildcats,Villanova
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+294000015,2009,post-season,2009-03-28,2,41,home,TRUE,UConn,82,Huskies,UConn Huskies,UConn
+294000015,2009,post-season,2009-03-28,2,142,away,TRUE,Missouri,75,Tigers,Missouri Tigers,Missouri
+294000030,2009,post-season,2009-03-28,2,221,home,TRUE,Pittsburgh,76,Panthers,Pittsburgh Panthers,Pitt
+294000030,2009,post-season,2009-03-28,2,222,away,TRUE,Villanova,78,Wildcats,Villanova Wildcats,Villanova

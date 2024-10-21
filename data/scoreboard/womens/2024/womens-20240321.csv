@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401637542,2024-03-21,4,2,home,TRUE,Auburn,59,Tigers,Auburn Tigers,Auburn
-401637542,2024-03-21,4,12,away,TRUE,Arizona,69,Wildcats,Arizona Wildcats,Arizona
-401637541,2024-03-21,4,107,home,TRUE,Holy Cross,72,Crusaders,Holy Cross Crusaders,Holy Cross
-401637541,2024-03-21,4,2630,away,TRUE,UT Martin,45,Skyhawks,UT Martin Skyhawks,UT Martin
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401637542,2024,post-season,2024-03-21,4,2,home,TRUE,Auburn,59,Tigers,Auburn Tigers,Auburn
+401637542,2024,post-season,2024-03-21,4,12,away,TRUE,Arizona,69,Wildcats,Arizona Wildcats,Arizona
+401637541,2024,post-season,2024-03-21,4,107,home,TRUE,Holy Cross,72,Crusaders,Holy Cross Crusaders,Holy Cross
+401637541,2024,post-season,2024-03-21,4,2630,away,TRUE,UT Martin,45,Skyhawks,UT Martin Skyhawks,UT Martin

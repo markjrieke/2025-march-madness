@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400946486,2017-03-14,2,2097,home,FALSE,Campbell,98,Fighting Camels,Campbell Fighting Camels,Campbell
-400946486,2017-03-14,2,2277,away,FALSE,Houston Christian,79,Huskies,Houston Christian Huskies,Hou Christian
-400946465,2017-03-14,2,294,home,FALSE,Jacksonville,76,Dolphins,Jacksonville Dolphins,Jacksonville
-400946465,2017-03-14,2,2598,away,FALSE,St. Francis (PA),78,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-400946487,2017-03-14,2,2535,home,FALSE,Samford,78,Bulldogs,Samford Bulldogs,Samford
-400946487,2017-03-14,2,2099,away,FALSE,Canisius,74,Golden Griffins,Canisius Golden Griffins,Canisius
-400946456,2017-03-14,0,183,home,FALSE,Syracuse,0,Orange,Syracuse Orange,Syracuse
-400946456,2017-03-14,0,2430,away,FALSE,UNC Greensboro,0,Spartans,UNC Greensboro Spartans,UNC Greensboro
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400946486,2017,regular-season,2017-03-14,2,2097,home,FALSE,Campbell,98,Fighting Camels,Campbell Fighting Camels,Campbell
+400946486,2017,regular-season,2017-03-14,2,2277,away,FALSE,Houston Christian,79,Huskies,Houston Christian Huskies,Hou Christian
+400946465,2017,regular-season,2017-03-14,2,294,home,FALSE,Jacksonville,76,Dolphins,Jacksonville Dolphins,Jacksonville
+400946465,2017,regular-season,2017-03-14,2,2598,away,FALSE,St. Francis (PA),78,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+400946487,2017,regular-season,2017-03-14,2,2535,home,FALSE,Samford,78,Bulldogs,Samford Bulldogs,Samford
+400946487,2017,regular-season,2017-03-14,2,2099,away,FALSE,Canisius,74,Golden Griffins,Canisius Golden Griffins,Canisius
+400946456,2017,regular-season,2017-03-14,0,183,home,FALSE,Syracuse,0,Orange,Syracuse Orange,Syracuse
+400946456,2017,regular-season,2017-03-14,0,2430,away,FALSE,UNC Greensboro,0,Spartans,UNC Greensboro Spartans,UNC Greensboro

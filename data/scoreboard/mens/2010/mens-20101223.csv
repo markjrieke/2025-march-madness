@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303570194,2010-12-23,2,194,home,FALSE,Ohio State,92,Buckeyes,Ohio State Buckeyes,Ohio State
-303570194,2010-12-23,2,2473,away,FALSE,Oakland,63,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-303570235,2010-12-23,2,235,home,FALSE,Memphis,69,Tigers,Memphis Tigers,Memphis
-303570235,2010-12-23,2,46,away,FALSE,Georgetown,86,Hoyas,Georgetown Hoyas,Georgetown
-303572306,2010-12-23,2,2306,home,FALSE,Kansas State,80,Wildcats,Kansas State Wildcats,Kansas St
-303572306,2010-12-23,2,140,away,FALSE,Kansas City,64,Roos,Kansas City Roos,Kansas City
-303570239,2010-12-23,2,239,home,TRUE,Baylor,71,Bears,Baylor Bears,Baylor
-303570239,2010-12-23,2,265,away,TRUE,Washington State,77,Cougars,Washington State Cougars,Washington St
-303570135,2010-12-23,2,135,home,FALSE,Minnesota,85,Golden Gophers,Minnesota Golden Gophers,Minnesota
-303570135,2010-12-23,2,2571,away,FALSE,South Dakota State,73,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-303572633,2010-12-23,2,2633,home,FALSE,Tennessee,66,Volunteers,Tennessee Volunteers,Tennessee
-303572633,2010-12-23,2,2057,away,FALSE,Belmont,65,Bruins,Belmont Bruins,Belmont
-303570252,2010-12-23,2,252,home,FALSE,BYU,89,Cougars,BYU Cougars,BYU
-303570252,2010-12-23,2,2638,away,FALSE,UTEP,68,Miners,UTEP Miners,UTEP
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303570194,2011,regular-season,2010-12-23,2,194,home,FALSE,Ohio State,92,Buckeyes,Ohio State Buckeyes,Ohio State
+303570194,2011,regular-season,2010-12-23,2,2473,away,FALSE,Oakland,63,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+303570235,2011,regular-season,2010-12-23,2,235,home,FALSE,Memphis,69,Tigers,Memphis Tigers,Memphis
+303570235,2011,regular-season,2010-12-23,2,46,away,FALSE,Georgetown,86,Hoyas,Georgetown Hoyas,Georgetown
+303572306,2011,regular-season,2010-12-23,2,2306,home,FALSE,Kansas State,80,Wildcats,Kansas State Wildcats,Kansas St
+303572306,2011,regular-season,2010-12-23,2,140,away,FALSE,Kansas City,64,Roos,Kansas City Roos,Kansas City
+303570239,2011,regular-season,2010-12-23,2,239,home,TRUE,Baylor,71,Bears,Baylor Bears,Baylor
+303570239,2011,regular-season,2010-12-23,2,265,away,TRUE,Washington State,77,Cougars,Washington State Cougars,Washington St
+303570135,2011,regular-season,2010-12-23,2,135,home,FALSE,Minnesota,85,Golden Gophers,Minnesota Golden Gophers,Minnesota
+303570135,2011,regular-season,2010-12-23,2,2571,away,FALSE,South Dakota State,73,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+303572633,2011,regular-season,2010-12-23,2,2633,home,FALSE,Tennessee,66,Volunteers,Tennessee Volunteers,Tennessee
+303572633,2011,regular-season,2010-12-23,2,2057,away,FALSE,Belmont,65,Bruins,Belmont Bruins,Belmont
+303570252,2011,regular-season,2010-12-23,2,252,home,FALSE,BYU,89,Cougars,BYU Cougars,BYU
+303570252,2011,regular-season,2010-12-23,2,2638,away,FALSE,UTEP,68,Miners,UTEP Miners,UTEP

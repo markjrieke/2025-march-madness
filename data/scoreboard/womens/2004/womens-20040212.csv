@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240430061,2004-02-12,2,61,home,FALSE,Georgia,67,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-240430061,2004-02-12,2,2633,away,FALSE,Tennessee,70,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-240430150,2004-02-12,2,150,home,FALSE,Duke,80,Blue Devils,Duke Blue Devils,Duke
-240430150,2004-02-12,2,154,away,FALSE,Wake Forest,55,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-240432348,2004-02-12,2,2348,home,FALSE,Louisiana Tech,83,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-240432348,2004-02-12,2,62,away,FALSE,Hawai'i,45,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
-240430194,2004-02-12,2,194,home,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
-240430194,2004-02-12,2,135,away,FALSE,Minnesota,57,Golden Gophers,Minnesota Golden Gophers,Minnesota
-240430145,2004-02-12,2,145,home,FALSE,Ole Miss,70,Rebels,Ole Miss Rebels,Ole Miss
-240430145,2004-02-12,2,2,away,FALSE,Auburn,82,Tigers,Auburn Tigers,Auburn
-240430099,2004-02-12,2,99,home,FALSE,LSU,92,Tigers,LSU Tigers,LSU
-240430099,2004-02-12,2,8,away,FALSE,Arkansas,65,Razorbacks,Arkansas Razorbacks,Arkansas
-240430130,2004-02-12,2,130,home,FALSE,Michigan,54,Wolverines,Michigan Wolverines,Michigan
-240430130,2004-02-12,2,127,away,FALSE,Michigan State,59,Spartans,Michigan State Spartans,Michigan St
-240430344,2004-02-12,2,344,home,FALSE,Mississippi State,88,Bulldogs,Mississippi State Bulldogs,Mississippi St
-240430344,2004-02-12,2,57,away,FALSE,Florida,76,Gators,Florida Gators,Florida
-240430026,2004-02-12,2,26,home,FALSE,UCLA,87,Bruins,UCLA Bruins,UCLA
-240430026,2004-02-12,2,12,away,FALSE,Arizona,68,Wildcats,Arizona Wildcats,Arizona
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240430061,2004,regular-season,2004-02-12,2,61,home,FALSE,Georgia,67,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+240430061,2004,regular-season,2004-02-12,2,2633,away,FALSE,Tennessee,70,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+240430150,2004,regular-season,2004-02-12,2,150,home,FALSE,Duke,80,Blue Devils,Duke Blue Devils,Duke
+240430150,2004,regular-season,2004-02-12,2,154,away,FALSE,Wake Forest,55,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+240432348,2004,regular-season,2004-02-12,2,2348,home,FALSE,Louisiana Tech,83,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+240432348,2004,regular-season,2004-02-12,2,62,away,FALSE,Hawai'i,45,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
+240430194,2004,regular-season,2004-02-12,2,194,home,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
+240430194,2004,regular-season,2004-02-12,2,135,away,FALSE,Minnesota,57,Golden Gophers,Minnesota Golden Gophers,Minnesota
+240430145,2004,regular-season,2004-02-12,2,145,home,FALSE,Ole Miss,70,Rebels,Ole Miss Rebels,Ole Miss
+240430145,2004,regular-season,2004-02-12,2,2,away,FALSE,Auburn,82,Tigers,Auburn Tigers,Auburn
+240430099,2004,regular-season,2004-02-12,2,99,home,FALSE,LSU,92,Tigers,LSU Tigers,LSU
+240430099,2004,regular-season,2004-02-12,2,8,away,FALSE,Arkansas,65,Razorbacks,Arkansas Razorbacks,Arkansas
+240430130,2004,regular-season,2004-02-12,2,130,home,FALSE,Michigan,54,Wolverines,Michigan Wolverines,Michigan
+240430130,2004,regular-season,2004-02-12,2,127,away,FALSE,Michigan State,59,Spartans,Michigan State Spartans,Michigan St
+240430344,2004,regular-season,2004-02-12,2,344,home,FALSE,Mississippi State,88,Bulldogs,Mississippi State Bulldogs,Mississippi St
+240430344,2004,regular-season,2004-02-12,2,57,away,FALSE,Florida,76,Gators,Florida Gators,Florida
+240430026,2004,regular-season,2004-02-12,2,26,home,FALSE,UCLA,87,Bruins,UCLA Bruins,UCLA
+240430026,2004,regular-season,2004-02-12,2,12,away,FALSE,Arizona,68,Wildcats,Arizona Wildcats,Arizona

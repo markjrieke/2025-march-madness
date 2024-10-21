@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401082436,2019-01-21,2,127,home,FALSE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
-401082436,2019-01-21,2,120,away,FALSE,Maryland,55,Terrapins,Maryland Terrapins,Maryland
-401083415,2019-01-21,2,2305,home,FALSE,Kansas,80,Jayhawks,Kansas Jayhawks,Kansas
-401083415,2019-01-21,2,66,away,FALSE,Iowa State,76,Cyclones,Iowa State Cyclones,Iowa State
-401082752,2019-01-21,2,153,home,FALSE,North Carolina,103,Tar Heels,North Carolina Tar Heels,North Carolina
-401082752,2019-01-21,2,259,away,FALSE,Virginia Tech,82,Hokies,Virginia Tech Hokies,Virginia Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401082436,2019,regular-season,2019-01-21,2,127,home,FALSE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
+401082436,2019,regular-season,2019-01-21,2,120,away,FALSE,Maryland,55,Terrapins,Maryland Terrapins,Maryland
+401083415,2019,regular-season,2019-01-21,2,2305,home,FALSE,Kansas,80,Jayhawks,Kansas Jayhawks,Kansas
+401083415,2019,regular-season,2019-01-21,2,66,away,FALSE,Iowa State,76,Cyclones,Iowa State Cyclones,Iowa State
+401082752,2019,regular-season,2019-01-21,2,153,home,FALSE,North Carolina,103,Tar Heels,North Carolina Tar Heels,North Carolina
+401082752,2019,regular-season,2019-01-21,2,259,away,FALSE,Virginia Tech,82,Hokies,Virginia Tech Hokies,Virginia Tech

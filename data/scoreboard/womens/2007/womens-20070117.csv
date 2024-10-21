@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270172507,2007-01-17,2,2507,home,FALSE,Providence,53,Friars,Providence Friars,Providence
-270172507,2007-01-17,2,41,away,FALSE,UConn,96,Huskies,UConn Huskies,UConn
-270170197,2007-01-17,2,197,home,FALSE,Oklahoma State,60,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-270170197,2007-01-17,2,201,away,FALSE,Oklahoma,76,Sooners,Oklahoma Sooners,Oklahoma
-270170158,2007-01-17,2,158,home,FALSE,Nebraska,70,Cornhuskers,Nebraska Cornhuskers,Nebraska
-270170158,2007-01-17,2,2306,away,FALSE,Kansas State,63,Wildcats,Kansas State Wildcats,Kansas St
-270170245,2007-01-17,0,245,home,FALSE,Texas A&M,0,Aggies,Texas A&M Aggies,Texas A&M
-270170245,2007-01-17,0,38,away,FALSE,Colorado,0,Buffaloes,Colorado Buffaloes,Colorado
-270170066,2007-01-17,0,66,home,FALSE,Iowa State,0,Cyclones,Iowa State Cyclones,Iowa State
-270170066,2007-01-17,0,251,away,FALSE,Texas,0,Longhorns,Texas Longhorns,Texas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270172507,2007,regular-season,2007-01-17,2,2507,home,FALSE,Providence,53,Friars,Providence Friars,Providence
+270172507,2007,regular-season,2007-01-17,2,41,away,FALSE,UConn,96,Huskies,UConn Huskies,UConn
+270170197,2007,regular-season,2007-01-17,2,197,home,FALSE,Oklahoma State,60,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+270170197,2007,regular-season,2007-01-17,2,201,away,FALSE,Oklahoma,76,Sooners,Oklahoma Sooners,Oklahoma
+270170158,2007,regular-season,2007-01-17,2,158,home,FALSE,Nebraska,70,Cornhuskers,Nebraska Cornhuskers,Nebraska
+270170158,2007,regular-season,2007-01-17,2,2306,away,FALSE,Kansas State,63,Wildcats,Kansas State Wildcats,Kansas St
+270170245,2007,regular-season,2007-01-17,0,245,home,FALSE,Texas A&M,0,Aggies,Texas A&M Aggies,Texas A&M
+270170245,2007,regular-season,2007-01-17,0,38,away,FALSE,Colorado,0,Buffaloes,Colorado Buffaloes,Colorado
+270170066,2007,regular-season,2007-01-17,0,66,home,FALSE,Iowa State,0,Cyclones,Iowa State Cyclones,Iowa State
+270170066,2007,regular-season,2007-01-17,0,251,away,FALSE,Texas,0,Longhorns,Texas Longhorns,Texas

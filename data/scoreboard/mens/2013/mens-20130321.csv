@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330802250,2013-03-21,2,2250,home,TRUE,Gonzaga,64,Bulldogs,Gonzaga Bulldogs,Gonzaga
-330802250,2013-03-21,2,2582,away,TRUE,Southern,58,Jaguars,Southern Jaguars,Southern
-330800097,2013-03-21,2,97,home,TRUE,Louisville,79,Cardinals,Louisville Cardinals,Louisville
-330800097,2013-03-21,2,2448,away,TRUE,North Carolina A&T,48,Aggies,North Carolina A&T Aggies,NC A&T
-330800127,2013-03-21,2,127,home,TRUE,Michigan State,65,Spartans,Michigan State Spartans,Michigan St
-330800127,2013-03-21,2,2674,away,TRUE,Valparaiso,54,Beacons,Valparaiso Beacons,Valparaiso
-330800130,2013-03-21,2,130,home,TRUE,Michigan,71,Wolverines,Michigan Wolverines,Michigan
-330800130,2013-03-21,2,2571,away,TRUE,South Dakota State,56,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-330800167,2013-03-21,2,167,home,TRUE,New Mexico,62,Lobos,New Mexico Lobos,New Mexico
-330800167,2013-03-21,2,108,away,TRUE,Harvard,68,Crimson,Harvard Crimson,Harvard
-330800139,2013-03-21,2,139,home,TRUE,Saint Louis,64,Billikens,Saint Louis Billikens,Saint Louis
-330800139,2013-03-21,2,166,away,TRUE,New Mexico State,44,Aggies,New Mexico State Aggies,New Mexico St
-330800269,2013-03-21,2,269,home,TRUE,Marquette,59,Golden Eagles,Marquette Golden Eagles,Marquette
-330800269,2013-03-21,2,2166,away,TRUE,Davidson,58,Wildcats,Davidson Wildcats,Davidson
-330800183,2013-03-21,2,183,home,TRUE,Syracuse,81,Orange,Syracuse Orange,Syracuse
-330800183,2013-03-21,2,149,away,TRUE,Montana,34,Grizzlies,Montana Grizzlies,Montana
-330800197,2013-03-21,2,197,home,TRUE,Oklahoma State,55,Cowboys,Oklahoma State Cowboys,Oklahoma St
-330800197,2013-03-21,2,2483,away,TRUE,Oregon,68,Ducks,Oregon Ducks,Oregon
-330800235,2013-03-21,2,235,home,TRUE,Memphis,54,Tigers,Memphis Tigers,Memphis
-330800235,2013-03-21,2,2608,away,TRUE,Saint Mary's,52,Gaels,Saint Mary's Gaels,Saint Mary's
-330800221,2013-03-21,2,221,home,TRUE,Pittsburgh,55,Panthers,Pittsburgh Panthers,Pitt
-330800221,2013-03-21,2,2724,away,TRUE,Wichita State,73,Shockers,Wichita State Shockers,Wichita St
-330800012,2013-03-21,2,12,home,TRUE,Arizona,81,Wildcats,Arizona Wildcats,Arizona
-330800012,2013-03-21,2,2057,away,TRUE,Belmont,64,Bruins,Belmont Bruins,Belmont
-330802086,2013-03-21,2,2086,home,TRUE,Butler,68,Bulldogs,Butler Bulldogs,Butler
-330802086,2013-03-21,2,2083,away,TRUE,Bucknell,56,Bison,Bucknell Bison,Bucknell
-330802439,2013-03-21,2,2439,home,TRUE,UNLV,61,Rebels,UNLV Rebels,UNLV
-330802439,2013-03-21,2,25,away,TRUE,California,64,Golden Bears,California Golden Bears,California
-330800036,2013-03-21,2,36,home,TRUE,Colorado State,84,Rams,Colorado State Rams,Colorado St
-330800036,2013-03-21,2,142,away,TRUE,Missouri,72,Tigers,Missouri Tigers,Missouri
-330802670,2013-03-21,2,2670,home,TRUE,VCU,88,Rams,VCU Rams,VCU
-330802670,2013-03-21,2,2006,away,TRUE,Akron,42,Zips,Akron Zips,Akron
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330802250,2013,post-season,2013-03-21,2,2250,home,TRUE,Gonzaga,64,Bulldogs,Gonzaga Bulldogs,Gonzaga
+330802250,2013,post-season,2013-03-21,2,2582,away,TRUE,Southern,58,Jaguars,Southern Jaguars,Southern
+330800097,2013,post-season,2013-03-21,2,97,home,TRUE,Louisville,79,Cardinals,Louisville Cardinals,Louisville
+330800097,2013,post-season,2013-03-21,2,2448,away,TRUE,North Carolina A&T,48,Aggies,North Carolina A&T Aggies,NC A&T
+330800127,2013,post-season,2013-03-21,2,127,home,TRUE,Michigan State,65,Spartans,Michigan State Spartans,Michigan St
+330800127,2013,post-season,2013-03-21,2,2674,away,TRUE,Valparaiso,54,Beacons,Valparaiso Beacons,Valparaiso
+330800130,2013,post-season,2013-03-21,2,130,home,TRUE,Michigan,71,Wolverines,Michigan Wolverines,Michigan
+330800130,2013,post-season,2013-03-21,2,2571,away,TRUE,South Dakota State,56,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+330800167,2013,post-season,2013-03-21,2,167,home,TRUE,New Mexico,62,Lobos,New Mexico Lobos,New Mexico
+330800167,2013,post-season,2013-03-21,2,108,away,TRUE,Harvard,68,Crimson,Harvard Crimson,Harvard
+330800139,2013,post-season,2013-03-21,2,139,home,TRUE,Saint Louis,64,Billikens,Saint Louis Billikens,Saint Louis
+330800139,2013,post-season,2013-03-21,2,166,away,TRUE,New Mexico State,44,Aggies,New Mexico State Aggies,New Mexico St
+330800269,2013,post-season,2013-03-21,2,269,home,TRUE,Marquette,59,Golden Eagles,Marquette Golden Eagles,Marquette
+330800269,2013,post-season,2013-03-21,2,2166,away,TRUE,Davidson,58,Wildcats,Davidson Wildcats,Davidson
+330800183,2013,post-season,2013-03-21,2,183,home,TRUE,Syracuse,81,Orange,Syracuse Orange,Syracuse
+330800183,2013,post-season,2013-03-21,2,149,away,TRUE,Montana,34,Grizzlies,Montana Grizzlies,Montana
+330800197,2013,post-season,2013-03-21,2,197,home,TRUE,Oklahoma State,55,Cowboys,Oklahoma State Cowboys,Oklahoma St
+330800197,2013,post-season,2013-03-21,2,2483,away,TRUE,Oregon,68,Ducks,Oregon Ducks,Oregon
+330800235,2013,post-season,2013-03-21,2,235,home,TRUE,Memphis,54,Tigers,Memphis Tigers,Memphis
+330800235,2013,post-season,2013-03-21,2,2608,away,TRUE,Saint Mary's,52,Gaels,Saint Mary's Gaels,Saint Mary's
+330800221,2013,post-season,2013-03-21,2,221,home,TRUE,Pittsburgh,55,Panthers,Pittsburgh Panthers,Pitt
+330800221,2013,post-season,2013-03-21,2,2724,away,TRUE,Wichita State,73,Shockers,Wichita State Shockers,Wichita St
+330800012,2013,post-season,2013-03-21,2,12,home,TRUE,Arizona,81,Wildcats,Arizona Wildcats,Arizona
+330800012,2013,post-season,2013-03-21,2,2057,away,TRUE,Belmont,64,Bruins,Belmont Bruins,Belmont
+330802086,2013,post-season,2013-03-21,2,2086,home,TRUE,Butler,68,Bulldogs,Butler Bulldogs,Butler
+330802086,2013,post-season,2013-03-21,2,2083,away,TRUE,Bucknell,56,Bison,Bucknell Bison,Bucknell
+330802439,2013,post-season,2013-03-21,2,2439,home,TRUE,UNLV,61,Rebels,UNLV Rebels,UNLV
+330802439,2013,post-season,2013-03-21,2,25,away,TRUE,California,64,Golden Bears,California Golden Bears,California
+330800036,2013,post-season,2013-03-21,2,36,home,TRUE,Colorado State,84,Rams,Colorado State Rams,Colorado St
+330800036,2013,post-season,2013-03-21,2,142,away,TRUE,Missouri,72,Tigers,Missouri Tigers,Missouri
+330802670,2013,post-season,2013-03-21,2,2670,home,TRUE,VCU,88,Rams,VCU Rams,VCU
+330802670,2013,post-season,2013-03-21,2,2006,away,TRUE,Akron,42,Zips,Akron Zips,Akron

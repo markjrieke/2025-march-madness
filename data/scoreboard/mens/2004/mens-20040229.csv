@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240600221,2004-02-29,3,221,home,FALSE,Pittsburgh,46,Panthers,Pittsburgh Panthers,Pitt
-240600221,2004-02-29,3,183,away,FALSE,Syracuse,49,Orange,Syracuse Orange,Syracuse
-240600052,2004-02-29,2,52,home,FALSE,Florida State,65,Seminoles,Florida State Seminoles,Florida St
-240600052,2004-02-29,2,150,away,FALSE,Duke,70,Blue Devils,Duke Blue Devils,Duke
-240600099,2004-02-29,2,99,home,FALSE,LSU,64,Tigers,LSU Tigers,LSU
-240600099,2004-02-29,2,96,away,FALSE,Kentucky,70,Wildcats,Kentucky Wildcats,Kentucky
-240600152,2004-02-29,2,152,home,FALSE,NC State,64,Wolfpack,NC State Wolfpack,NC State
-240600152,2004-02-29,2,153,away,FALSE,North Carolina,71,Tar Heels,North Carolina Tar Heels,North Carolina
-240602599,2004-02-29,2,2599,home,FALSE,St. John's,78,Red Storm,St. John's Red Storm,St John's
-240602599,2004-02-29,2,2507,away,FALSE,Providence,103,Friars,Providence Friars,Providence
-240602305,2004-02-29,2,2305,home,FALSE,Kansas,79,Jayhawks,Kansas Jayhawks,Kansas
-240602305,2004-02-29,2,201,away,FALSE,Oklahoma,58,Sooners,Oklahoma Sooners,Oklahoma
-240600275,2004-02-29,2,275,home,FALSE,Wisconsin,82,Badgers,Wisconsin Badgers,Wisconsin
-240600275,2004-02-29,2,2509,away,FALSE,Purdue,46,Boilermakers,Purdue Boilermakers,Purdue
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240600221,2004,regular-season,2004-02-29,3,221,home,FALSE,Pittsburgh,46,Panthers,Pittsburgh Panthers,Pitt
+240600221,2004,regular-season,2004-02-29,3,183,away,FALSE,Syracuse,49,Orange,Syracuse Orange,Syracuse
+240600052,2004,regular-season,2004-02-29,2,52,home,FALSE,Florida State,65,Seminoles,Florida State Seminoles,Florida St
+240600052,2004,regular-season,2004-02-29,2,150,away,FALSE,Duke,70,Blue Devils,Duke Blue Devils,Duke
+240600099,2004,regular-season,2004-02-29,2,99,home,FALSE,LSU,64,Tigers,LSU Tigers,LSU
+240600099,2004,regular-season,2004-02-29,2,96,away,FALSE,Kentucky,70,Wildcats,Kentucky Wildcats,Kentucky
+240600152,2004,regular-season,2004-02-29,2,152,home,FALSE,NC State,64,Wolfpack,NC State Wolfpack,NC State
+240600152,2004,regular-season,2004-02-29,2,153,away,FALSE,North Carolina,71,Tar Heels,North Carolina Tar Heels,North Carolina
+240602599,2004,regular-season,2004-02-29,2,2599,home,FALSE,St. John's,78,Red Storm,St. John's Red Storm,St John's
+240602599,2004,regular-season,2004-02-29,2,2507,away,FALSE,Providence,103,Friars,Providence Friars,Providence
+240602305,2004,regular-season,2004-02-29,2,2305,home,FALSE,Kansas,79,Jayhawks,Kansas Jayhawks,Kansas
+240602305,2004,regular-season,2004-02-29,2,201,away,FALSE,Oklahoma,58,Sooners,Oklahoma Sooners,Oklahoma
+240600275,2004,regular-season,2004-02-29,2,275,home,FALSE,Wisconsin,82,Badgers,Wisconsin Badgers,Wisconsin
+240600275,2004,regular-season,2004-02-29,2,2509,away,FALSE,Purdue,46,Boilermakers,Purdue Boilermakers,Purdue

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400504583,2014-02-23,2,156,home,FALSE,Creighton,72,Bluejays,Creighton Bluejays,Creighton
-400504583,2014-02-23,2,2550,away,FALSE,Seton Hall,71,Pirates,Seton Hall Pirates,Seton Hall
-400510043,2014-02-23,2,130,home,FALSE,Michigan,79,Wolverines,Michigan Wolverines,Michigan
-400510043,2014-02-23,2,127,away,FALSE,Michigan State,70,Spartans,Michigan State Spartans,Michigan St
-400497015,2014-02-23,2,41,home,FALSE,UConn,55,Huskies,UConn Huskies,UConn
-400497015,2014-02-23,2,2567,away,FALSE,SMU,64,Mustangs,SMU Mustangs,SMU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400504583,2014,regular-season,2014-02-23,2,156,home,FALSE,Creighton,72,Bluejays,Creighton Bluejays,Creighton
+400504583,2014,regular-season,2014-02-23,2,2550,away,FALSE,Seton Hall,71,Pirates,Seton Hall Pirates,Seton Hall
+400510043,2014,regular-season,2014-02-23,2,130,home,FALSE,Michigan,79,Wolverines,Michigan Wolverines,Michigan
+400510043,2014,regular-season,2014-02-23,2,127,away,FALSE,Michigan State,70,Spartans,Michigan State Spartans,Michigan St
+400497015,2014,regular-season,2014-02-23,2,41,home,FALSE,UConn,55,Huskies,UConn Huskies,UConn
+400497015,2014,regular-season,2014-02-23,2,2567,away,FALSE,SMU,64,Mustangs,SMU Mustangs,SMU

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320540052,2012-02-23,2,52,home,FALSE,Florida State,66,Seminoles,Florida State Seminoles,Florida St
-320540052,2012-02-23,2,150,away,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
-320542634,2012-02-23,2,2634,home,FALSE,Tennessee State,62,Tigers,Tennessee State Tigers,Tennessee St
-320542634,2012-02-23,2,93,away,FALSE,Murray State,80,Racers,Murray State Racers,Murray St
-320542294,2012-02-23,2,2294,home,FALSE,Iowa,67,Hawkeyes,Iowa Hawkeyes,Iowa
-320542294,2012-02-23,2,275,away,FALSE,Wisconsin,66,Badgers,Wisconsin Badgers,Wisconsin
-320542132,2012-02-23,2,2132,home,FALSE,Cincinnati,60,Bearcats,Cincinnati Bearcats,Cincinnati
-320542132,2012-02-23,2,97,away,FALSE,Louisville,56,Cardinals,Louisville Cardinals,Louisville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320540052,2012,regular-season,2012-02-23,2,52,home,FALSE,Florida State,66,Seminoles,Florida State Seminoles,Florida St
+320540052,2012,regular-season,2012-02-23,2,150,away,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
+320542634,2012,regular-season,2012-02-23,2,2634,home,FALSE,Tennessee State,62,Tigers,Tennessee State Tigers,Tennessee St
+320542634,2012,regular-season,2012-02-23,2,93,away,FALSE,Murray State,80,Racers,Murray State Racers,Murray St
+320542294,2012,regular-season,2012-02-23,2,2294,home,FALSE,Iowa,67,Hawkeyes,Iowa Hawkeyes,Iowa
+320542294,2012,regular-season,2012-02-23,2,275,away,FALSE,Wisconsin,66,Badgers,Wisconsin Badgers,Wisconsin
+320542132,2012,regular-season,2012-02-23,2,2132,home,FALSE,Cincinnati,60,Bearcats,Cincinnati Bearcats,Cincinnati
+320542132,2012,regular-season,2012-02-23,2,97,away,FALSE,Louisville,56,Cardinals,Louisville Cardinals,Louisville

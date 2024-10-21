@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323650150,2012-12-30,2,150,home,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
-323650150,2012-12-30,2,2405,away,FALSE,Monmouth,32,Hawks,Monmouth Hawks,Monmouth
-323650096,2012-12-30,2,96,home,FALSE,Kentucky,78,Wildcats,Kentucky Wildcats,Kentucky
-323650096,2012-12-30,2,2368,away,FALSE,Marist,56,Red Foxes,Marist Red Foxes,Marist
-323652633,2012-12-30,2,2633,home,FALSE,Tennessee,66,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-323652633,2012-12-30,2,164,away,FALSE,Rutgers,47,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-323650189,2012-12-30,2,189,home,FALSE,Bowling Green,65,Falcons,Bowling Green Falcons,Bowling Green
-323650189,2012-12-30,2,2168,away,FALSE,Dayton,40,Flyers,Dayton Flyers,Dayton
-323650228,2012-12-30,2,228,home,FALSE,Clemson,58,Tigers,Clemson Tigers,Clemson
-323650228,2012-12-30,2,153,away,FALSE,North Carolina,65,Tar Heels,North Carolina Tar Heels,North Carolina
-323650052,2012-12-30,2,52,home,FALSE,Florida State,76,Seminoles,Florida State Seminoles,Florida St
-323650052,2012-12-30,2,103,away,FALSE,Boston College,70,Eagles,Boston College Eagles,Boston College
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323650150,2013,regular-season,2012-12-30,2,150,home,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
+323650150,2013,regular-season,2012-12-30,2,2405,away,FALSE,Monmouth,32,Hawks,Monmouth Hawks,Monmouth
+323650096,2013,regular-season,2012-12-30,2,96,home,FALSE,Kentucky,78,Wildcats,Kentucky Wildcats,Kentucky
+323650096,2013,regular-season,2012-12-30,2,2368,away,FALSE,Marist,56,Red Foxes,Marist Red Foxes,Marist
+323652633,2013,regular-season,2012-12-30,2,2633,home,FALSE,Tennessee,66,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+323652633,2013,regular-season,2012-12-30,2,164,away,FALSE,Rutgers,47,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+323650189,2013,regular-season,2012-12-30,2,189,home,FALSE,Bowling Green,65,Falcons,Bowling Green Falcons,Bowling Green
+323650189,2013,regular-season,2012-12-30,2,2168,away,FALSE,Dayton,40,Flyers,Dayton Flyers,Dayton
+323650228,2013,regular-season,2012-12-30,2,228,home,FALSE,Clemson,58,Tigers,Clemson Tigers,Clemson
+323650228,2013,regular-season,2012-12-30,2,153,away,FALSE,North Carolina,65,Tar Heels,North Carolina Tar Heels,North Carolina
+323650052,2013,regular-season,2012-12-30,2,52,home,FALSE,Florida State,76,Seminoles,Florida State Seminoles,Florida St
+323650052,2013,regular-season,2012-12-30,2,103,away,FALSE,Boston College,70,Eagles,Boston College Eagles,Boston College

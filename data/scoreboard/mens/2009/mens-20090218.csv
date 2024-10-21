@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290490153,2009-02-18,2,153,home,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
-290490153,2009-02-18,2,152,away,FALSE,NC State,80,Wolfpack,NC State Wolfpack,NC State
-290490235,2009-02-18,2,235,home,FALSE,Memphis,90,Tigers,Memphis Tigers,Memphis
-290490235,2009-02-18,2,2567,away,FALSE,SMU,47,Mustangs,SMU Mustangs,SMU
-290490097,2009-02-18,2,97,home,FALSE,Louisville,94,Cardinals,Louisville Cardinals,Louisville
-290490097,2009-02-18,2,2507,away,FALSE,Providence,76,Friars,Providence Friars,Providence
-290490154,2009-02-18,2,154,home,FALSE,Wake Forest,87,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-290490154,2009-02-18,2,59,away,FALSE,Georgia Tech,69,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-290492305,2009-02-18,2,2305,home,FALSE,Kansas,72,Jayhawks,Kansas Jayhawks,Kansas
-290492305,2009-02-18,2,66,away,FALSE,Iowa State,55,Cyclones,Iowa State Cyclones,Iowa State
-290490356,2009-02-18,2,356,home,FALSE,Illinois,33,Fighting Illini,Illinois Fighting Illini,Illinois
-290490356,2009-02-18,2,213,away,FALSE,Penn State,38,Nittany Lions,Penn State Nittany Lions,Penn State
-290490270,2009-02-18,2,270,home,FALSE,Milwaukee,63,Panthers,Milwaukee Panthers,Milwaukee
-290490270,2009-02-18,2,2086,away,FALSE,Butler,60,Bulldogs,Butler Bulldogs,Butler
-290490008,2009-02-18,2,8,home,FALSE,Arkansas,69,Razorbacks,Arkansas Razorbacks,Arkansas
-290490008,2009-02-18,2,99,away,FALSE,LSU,72,Tigers,LSU Tigers,LSU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290490153,2009,regular-season,2009-02-18,2,153,home,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
+290490153,2009,regular-season,2009-02-18,2,152,away,FALSE,NC State,80,Wolfpack,NC State Wolfpack,NC State
+290490235,2009,regular-season,2009-02-18,2,235,home,FALSE,Memphis,90,Tigers,Memphis Tigers,Memphis
+290490235,2009,regular-season,2009-02-18,2,2567,away,FALSE,SMU,47,Mustangs,SMU Mustangs,SMU
+290490097,2009,regular-season,2009-02-18,2,97,home,FALSE,Louisville,94,Cardinals,Louisville Cardinals,Louisville
+290490097,2009,regular-season,2009-02-18,2,2507,away,FALSE,Providence,76,Friars,Providence Friars,Providence
+290490154,2009,regular-season,2009-02-18,2,154,home,FALSE,Wake Forest,87,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+290490154,2009,regular-season,2009-02-18,2,59,away,FALSE,Georgia Tech,69,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+290492305,2009,regular-season,2009-02-18,2,2305,home,FALSE,Kansas,72,Jayhawks,Kansas Jayhawks,Kansas
+290492305,2009,regular-season,2009-02-18,2,66,away,FALSE,Iowa State,55,Cyclones,Iowa State Cyclones,Iowa State
+290490356,2009,regular-season,2009-02-18,2,356,home,FALSE,Illinois,33,Fighting Illini,Illinois Fighting Illini,Illinois
+290490356,2009,regular-season,2009-02-18,2,213,away,FALSE,Penn State,38,Nittany Lions,Penn State Nittany Lions,Penn State
+290490270,2009,regular-season,2009-02-18,2,270,home,FALSE,Milwaukee,63,Panthers,Milwaukee Panthers,Milwaukee
+290490270,2009,regular-season,2009-02-18,2,2086,away,FALSE,Butler,60,Bulldogs,Butler Bulldogs,Butler
+290490008,2009,regular-season,2009-02-18,2,8,home,FALSE,Arkansas,69,Razorbacks,Arkansas Razorbacks,Arkansas
+290490008,2009,regular-season,2009-02-18,2,99,away,FALSE,LSU,72,Tigers,LSU Tigers,LSU

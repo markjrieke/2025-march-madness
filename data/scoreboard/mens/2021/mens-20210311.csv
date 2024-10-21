@@ -1,115 +1,115 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401287067,2021-03-11,3,2649,home,TRUE,Toledo,91,Rockets,Toledo Rockets,Toledo
-401287067,2021-03-11,3,2050,away,TRUE,Ball State,89,Cardinals,Ball State Cardinals,Ball State
-401301729,2021-03-11,2,277,home,TRUE,West Virginia,69,Mountaineers,West Virginia Mountaineers,West Virginia
-401301729,2021-03-11,2,197,away,TRUE,Oklahoma State,72,Cowboys,Oklahoma State Cowboys,Oklahoma St
-401296473,2021-03-11,2,120,home,TRUE,Maryland,68,Terrapins,Maryland Terrapins,Maryland
-401296473,2021-03-11,2,127,away,TRUE,Michigan State,57,Spartans,Michigan State Spartans,Michigan St
-401308797,2021-03-11,2,222,home,TRUE,Villanova,71,Wildcats,Villanova Wildcats,Villanova
-401308797,2021-03-11,2,46,away,TRUE,Georgetown,72,Hoyas,Georgetown Hoyas,Georgetown
-401301771,2021-03-11,2,58,home,TRUE,South Florida,73,Bulls,South Florida Bulls,South Florida
-401301771,2021-03-11,2,218,away,TRUE,Temple,71,Owls,Temple Owls,Temple
-401300971,2021-03-11,2,258,home,TRUE,Virginia,72,Cavaliers,Virginia Cavaliers,Virginia
-401300971,2021-03-11,2,183,away,TRUE,Syracuse,69,Orange,Syracuse Orange,Syracuse
-401287131,2021-03-11,2,96,home,TRUE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
-401287131,2021-03-11,2,344,away,TRUE,Mississippi State,74,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401296573,2021-03-11,2,253,home,TRUE,Southern Utah,91,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
-401296573,2021-03-11,2,2458,away,TRUE,Northern Colorado,83,Bears,Northern Colorado Bears,N Colorado
-401287068,2021-03-11,2,2309,home,TRUE,Kent State,63,Golden Flashes,Kent State Golden Flashes,Kent State
-401287068,2021-03-11,2,195,away,TRUE,Ohio,85,Bobcats,Ohio Bobcats,Ohio
-401286956,2021-03-11,2,2540,home,TRUE,UC Santa Barbara,95,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-401286956,2021-03-11,2,299,away,TRUE,Long Beach State,87,Beach,Long Beach State Beach,Long Beach St
-401296453,2021-03-11,2,194,home,TRUE,Ohio State,79,Buckeyes,Ohio State Buckeyes,Ohio State
-401296453,2021-03-11,2,135,away,TRUE,Minnesota,75,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401303925,2021-03-11,2,2483,home,TRUE,Oregon,91,Ducks,Oregon Ducks,Oregon
-401303925,2021-03-11,2,9,away,TRUE,Arizona State,73,Sun Devils,Arizona State Sun Devils,Arizona St
-401287132,2021-03-11,2,57,home,TRUE,Florida,69,Gators,Florida Gators,Florida
-401287132,2021-03-11,2,238,away,TRUE,Vanderbilt,63,Commodores,Vanderbilt Commodores,Vanderbilt
-401301730,2021-03-11,2,239,home,TRUE,Baylor,74,Bears,Baylor Bears,Baylor
-401301730,2021-03-11,2,2306,away,TRUE,Kansas State,68,Wildcats,Kansas State Wildcats,Kansas St
-401300972,2021-03-11,2,59,home,TRUE,Georgia Tech,70,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-401300972,2021-03-11,2,2390,away,TRUE,Miami,66,Hurricanes,Miami Hurricanes,Miami
-401308798,2021-03-11,3,2599,home,TRUE,St. John's,69,Red Storm,St. John's Red Storm,St John's
-401308798,2021-03-11,3,2550,away,TRUE,Seton Hall,77,Pirates,Seton Hall Pirates,Seton Hall
-401301772,2021-03-11,2,202,home,TRUE,Tulsa,70,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-401301772,2021-03-11,2,2655,away,TRUE,Tulane,77,Green Wave,Tulane Green Wave,Tulane
-401287744,2021-03-11,2,2640,home,TRUE,Texas Southern,78,Tigers,Texas Southern Tigers,Texas Southern
-401287744,2021-03-11,2,2016,away,TRUE,Alcorn State,55,Braves,Alcorn State Braves,Alcorn St
-401286916,2021-03-11,2,21,home,TRUE,San Diego State,69,Aztecs,San Diego State Aztecs,San Diego St
-401286916,2021-03-11,2,2751,away,TRUE,Wyoming,66,Cowboys,Wyoming Cowboys,Wyoming
-401296593,2021-03-11,2,304,home,TRUE,Idaho State,63,Bengals,Idaho State Bengals,Idaho St
-401296593,2021-03-11,2,147,away,TRUE,Montana State,71,Bobcats,Montana State Bobcats,Montana St
-401287069,2021-03-11,2,2084,home,TRUE,Buffalo,74,Bulls,Buffalo Bulls,Buffalo
-401287069,2021-03-11,2,193,away,TRUE,Miami (OH),63,RedHawks,Miami (OH) RedHawks,Miami OH
-401287060,2021-03-11,2,2612,home,TRUE,Saint Peter's,75,Peacocks,Saint Peter's Peacocks,Saint Peter's
-401287060,2021-03-11,2,2520,away,TRUE,Rider,60,Broncs,Rider Broncs,Rider
-401286957,2021-03-11,2,302,home,TRUE,UC Davis,58,Aggies,UC Davis Aggies,UC Davis
-401286957,2021-03-11,2,2934,away,TRUE,Cal State Bakersfield,56,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
-401303926,2021-03-11,3,26,home,TRUE,UCLA,79,Bruins,UCLA Bruins,UCLA
-401303926,2021-03-11,3,204,away,TRUE,Oregon State,83,Beavers,Oregon State Beavers,Oregon St
-401286915,2021-03-11,2,68,home,TRUE,Boise State,82,Broncos,Boise State Broncos,Boise St
-401286915,2021-03-11,2,2440,away,TRUE,Nevada,89,Wolf Pack,Nevada Wolf Pack,Nevada
-401308855,2021-03-11,2,156,home,TRUE,Creighton,87,Bluejays,Creighton Bluejays,Creighton
-401308855,2021-03-11,2,2086,away,TRUE,Butler,56,Bulldogs,Butler Bulldogs,Butler
-401296113,2021-03-11,2,50,home,TRUE,Florida A&M,75,Rattlers,Florida A&M Rattlers,Florida A&M
-401296113,2021-03-11,2,2415,away,TRUE,Morgan State,77,Bears,Morgan State Bears,Morgan St
-401287038,2021-03-11,2,2466,home,TRUE,Northwestern State,82,Demons,Northwestern State Demons,N'Western St
-401287038,2021-03-11,2,2443,away,TRUE,New Orleans,79,Privateers,New Orleans Privateers,New Orleans
-401301731,2021-03-11,2,2305,home,FALSE,Kansas,69,Jayhawks,Kansas Jayhawks,Kansas
-401301731,2021-03-11,2,201,away,FALSE,Oklahoma,62,Sooners,Oklahoma Sooners,Oklahoma
-401301265,2021-03-11,2,98,home,TRUE,Western Kentucky,80,Hilltoppers,Western Kentucky Hilltoppers,Western KY
-401301265,2021-03-11,2,2636,away,TRUE,UTSA,67,Roadrunners,UTSA Roadrunners,UTSA
-401301253,2021-03-11,0,52,home,TRUE,Florida State,1,Seminoles,Florida State Seminoles,Florida St
-401301253,2021-03-11,0,150,away,TRUE,Duke,0,Blue Devils,Duke Blue Devils,Duke
-401296433,2021-03-11,2,164,home,TRUE,Rutgers,61,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-401296433,2021-03-11,2,84,away,TRUE,Indiana,50,Hoosiers,Indiana Hoosiers,Indiana
-401301773,2021-03-11,2,2116,home,TRUE,UCF,72,Knights,UCF Knights,UCF
-401301773,2021-03-11,2,151,away,TRUE,East Carolina,62,Pirates,East Carolina Pirates,East Carolina
-401301266,2021-03-11,2,5,home,TRUE,UAB,73,Blazers,UAB Blazers,UAB
-401301266,2021-03-11,2,242,away,TRUE,Rice,60,Owls,Rice Owls,Rice
-401287153,2021-03-11,2,142,home,TRUE,Missouri,73,Tigers,Missouri Tigers,Missouri
-401287153,2021-03-11,2,61,away,TRUE,Georgia,70,Bulldogs,Georgia Bulldogs,Georgia
-401287070,2021-03-11,2,2006,home,TRUE,Akron,74,Zips,Akron Zips,Akron
-401287070,2021-03-11,2,189,away,TRUE,Bowling Green,67,Falcons,Bowling Green Falcons,Bowling Green
-401301859,2021-03-11,2,2856,home,TRUE,California Baptist,66,Lancers,California Baptist Lancers,CA Baptist
-401301859,2021-03-11,2,2547,away,TRUE,Seattle U,83,Redhawks,Seattle U Redhawks,Seattle U
-401287059,2021-03-11,2,2368,home,TRUE,Marist,62,Red Foxes,Marist Red Foxes,Marist
-401287059,2021-03-11,2,315,away,TRUE,Niagara,67,Purple Eagles,Niagara Purple Eagles,Niagara
-401296613,2021-03-11,2,331,home,TRUE,Eastern Washington,66,Eagles,Eastern Washington Eagles,E Washington
-401296613,2021-03-11,2,2464,away,TRUE,Northern Arizona,60,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
-401286959,2021-03-11,2,300,home,TRUE,UC Irvine,58,Anteaters,UC Irvine Anteaters,UC Irvine
-401286959,2021-03-11,2,13,away,TRUE,Cal Poly,51,Mustangs,Cal Poly Mustangs,Cal Poly
-401303927,2021-03-11,4,30,home,TRUE,USC,91,Trojans,USC Trojans,USC
-401303927,2021-03-11,4,254,away,TRUE,Utah,85,Utes,Utah Utes,Utah
-401301254,2021-03-11,2,259,home,TRUE,Virginia Tech,73,Hokies,Virginia Tech Hokies,Virginia Tech
-401301254,2021-03-11,2,153,away,TRUE,North Carolina,81,Tar Heels,North Carolina Tar Heels,North Carolina
-401308856,2021-03-11,2,41,home,TRUE,UConn,94,Huskies,UConn Huskies,UConn
-401308856,2021-03-11,2,305,away,TRUE,DePaul,60,Blue Demons,DePaul Blue Demons,DePaul
-401296413,2021-03-11,2,275,home,TRUE,Wisconsin,75,Badgers,Wisconsin Badgers,Wisconsin
-401296413,2021-03-11,2,213,away,TRUE,Penn State,74,Nittany Lions,Penn State Nittany Lions,Penn State
-401287039,2021-03-11,2,2534,home,TRUE,Sam Houston,69,Bearkats,Sam Houston Bearkats,Sam Houston
-401287039,2021-03-11,2,2320,away,TRUE,Lamar,70,Cardinals,Lamar Cardinals,Lamar
-401286999,2021-03-11,2,328,home,TRUE,Utah State,74,Aggies,Utah State Aggies,Utah State
-401286999,2021-03-11,2,2439,away,TRUE,UNLV,53,Rebels,UNLV Rebels,UNLV
-401296133,2021-03-11,2,2450,home,TRUE,Norfolk State,87,Spartans,Norfolk State Spartans,Norfolk St
-401296133,2021-03-11,2,2428,away,TRUE,North Carolina Central,58,Eagles,North Carolina Central Eagles,NC Central
-401301733,2021-03-11,2,251,home,TRUE,Texas,67,Longhorns,Texas Longhorns,Texas
-401301733,2021-03-11,2,2641,away,TRUE,Texas Tech,66,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401301267,2021-03-11,2,2348,home,TRUE,Louisiana Tech,75,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
-401301267,2021-03-11,2,2226,away,TRUE,Florida Atlantic,69,Owls,Florida Atlantic Owls,FAU
-401287745,2021-03-11,3,2755,home,TRUE,Grambling,72,Tigers,Grambling Tigers,Grambling
-401287745,2021-03-11,3,2582,away,TRUE,Southern,67,Jaguars,Southern Jaguars,Southern
-401287154,2021-03-11,2,145,home,TRUE,Ole Miss,76,Rebels,Ole Miss Rebels,Ole Miss
-401287154,2021-03-11,2,2579,away,TRUE,South Carolina,59,Gamecocks,South Carolina Gamecocks,South Carolina
-401301268,2021-03-11,2,295,home,TRUE,Old Dominion,55,Monarchs,Old Dominion Monarchs,Old Dominion
-401301268,2021-03-11,2,249,away,TRUE,North Texas,61,Mean Green,North Texas Mean Green,North Texas
-401301861,2021-03-11,2,166,home,TRUE,New Mexico State,77,Aggies,New Mexico State Aggies,New Mexico St
-401301861,2021-03-11,2,292,away,TRUE,UT Rio Grande Valley,61,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-401296633,2021-03-11,2,2692,home,TRUE,Weber State,75,Wildcats,Weber State Wildcats,Weber St
-401296633,2021-03-11,2,149,away,TRUE,Montana,80,Grizzlies,Montana Grizzlies,Montana
-401286958,2021-03-11,2,27,home,TRUE,UC Riverside,62,Highlanders,UC Riverside Highlanders,UC Riverside
-401286958,2021-03-11,2,62,away,TRUE,Hawai'i,52,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
-401303928,2021-03-11,2,38,home,TRUE,Colorado,61,Buffaloes,Colorado Buffaloes,Colorado
-401303928,2021-03-11,2,25,away,TRUE,California,58,Golden Bears,California Golden Bears,California
-401286998,2021-03-11,2,36,home,TRUE,Colorado State,72,Rams,Colorado State Rams,Colorado St
-401286998,2021-03-11,2,278,away,TRUE,Fresno State,62,Bulldogs,Fresno State Bulldogs,Fresno St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401287067,2021,regular-season,2021-03-11,3,2649,home,TRUE,Toledo,91,Rockets,Toledo Rockets,Toledo
+401287067,2021,regular-season,2021-03-11,3,2050,away,TRUE,Ball State,89,Cardinals,Ball State Cardinals,Ball State
+401301729,2021,regular-season,2021-03-11,2,277,home,TRUE,West Virginia,69,Mountaineers,West Virginia Mountaineers,West Virginia
+401301729,2021,regular-season,2021-03-11,2,197,away,TRUE,Oklahoma State,72,Cowboys,Oklahoma State Cowboys,Oklahoma St
+401296473,2021,regular-season,2021-03-11,2,120,home,TRUE,Maryland,68,Terrapins,Maryland Terrapins,Maryland
+401296473,2021,regular-season,2021-03-11,2,127,away,TRUE,Michigan State,57,Spartans,Michigan State Spartans,Michigan St
+401308797,2021,regular-season,2021-03-11,2,222,home,TRUE,Villanova,71,Wildcats,Villanova Wildcats,Villanova
+401308797,2021,regular-season,2021-03-11,2,46,away,TRUE,Georgetown,72,Hoyas,Georgetown Hoyas,Georgetown
+401301771,2021,regular-season,2021-03-11,2,58,home,TRUE,South Florida,73,Bulls,South Florida Bulls,South Florida
+401301771,2021,regular-season,2021-03-11,2,218,away,TRUE,Temple,71,Owls,Temple Owls,Temple
+401300971,2021,regular-season,2021-03-11,2,258,home,TRUE,Virginia,72,Cavaliers,Virginia Cavaliers,Virginia
+401300971,2021,regular-season,2021-03-11,2,183,away,TRUE,Syracuse,69,Orange,Syracuse Orange,Syracuse
+401287131,2021,regular-season,2021-03-11,2,96,home,TRUE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
+401287131,2021,regular-season,2021-03-11,2,344,away,TRUE,Mississippi State,74,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401296573,2021,regular-season,2021-03-11,2,253,home,TRUE,Southern Utah,91,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+401296573,2021,regular-season,2021-03-11,2,2458,away,TRUE,Northern Colorado,83,Bears,Northern Colorado Bears,N Colorado
+401287068,2021,regular-season,2021-03-11,2,2309,home,TRUE,Kent State,63,Golden Flashes,Kent State Golden Flashes,Kent State
+401287068,2021,regular-season,2021-03-11,2,195,away,TRUE,Ohio,85,Bobcats,Ohio Bobcats,Ohio
+401286956,2021,regular-season,2021-03-11,2,2540,home,TRUE,UC Santa Barbara,95,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+401286956,2021,regular-season,2021-03-11,2,299,away,TRUE,Long Beach State,87,Beach,Long Beach State Beach,Long Beach St
+401296453,2021,regular-season,2021-03-11,2,194,home,TRUE,Ohio State,79,Buckeyes,Ohio State Buckeyes,Ohio State
+401296453,2021,regular-season,2021-03-11,2,135,away,TRUE,Minnesota,75,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401303925,2021,regular-season,2021-03-11,2,2483,home,TRUE,Oregon,91,Ducks,Oregon Ducks,Oregon
+401303925,2021,regular-season,2021-03-11,2,9,away,TRUE,Arizona State,73,Sun Devils,Arizona State Sun Devils,Arizona St
+401287132,2021,regular-season,2021-03-11,2,57,home,TRUE,Florida,69,Gators,Florida Gators,Florida
+401287132,2021,regular-season,2021-03-11,2,238,away,TRUE,Vanderbilt,63,Commodores,Vanderbilt Commodores,Vanderbilt
+401301730,2021,regular-season,2021-03-11,2,239,home,TRUE,Baylor,74,Bears,Baylor Bears,Baylor
+401301730,2021,regular-season,2021-03-11,2,2306,away,TRUE,Kansas State,68,Wildcats,Kansas State Wildcats,Kansas St
+401300972,2021,regular-season,2021-03-11,2,59,home,TRUE,Georgia Tech,70,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+401300972,2021,regular-season,2021-03-11,2,2390,away,TRUE,Miami,66,Hurricanes,Miami Hurricanes,Miami
+401308798,2021,regular-season,2021-03-11,3,2599,home,TRUE,St. John's,69,Red Storm,St. John's Red Storm,St John's
+401308798,2021,regular-season,2021-03-11,3,2550,away,TRUE,Seton Hall,77,Pirates,Seton Hall Pirates,Seton Hall
+401301772,2021,regular-season,2021-03-11,2,202,home,TRUE,Tulsa,70,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+401301772,2021,regular-season,2021-03-11,2,2655,away,TRUE,Tulane,77,Green Wave,Tulane Green Wave,Tulane
+401287744,2021,regular-season,2021-03-11,2,2640,home,TRUE,Texas Southern,78,Tigers,Texas Southern Tigers,Texas Southern
+401287744,2021,regular-season,2021-03-11,2,2016,away,TRUE,Alcorn State,55,Braves,Alcorn State Braves,Alcorn St
+401286916,2021,regular-season,2021-03-11,2,21,home,TRUE,San Diego State,69,Aztecs,San Diego State Aztecs,San Diego St
+401286916,2021,regular-season,2021-03-11,2,2751,away,TRUE,Wyoming,66,Cowboys,Wyoming Cowboys,Wyoming
+401296593,2021,regular-season,2021-03-11,2,304,home,TRUE,Idaho State,63,Bengals,Idaho State Bengals,Idaho St
+401296593,2021,regular-season,2021-03-11,2,147,away,TRUE,Montana State,71,Bobcats,Montana State Bobcats,Montana St
+401287069,2021,regular-season,2021-03-11,2,2084,home,TRUE,Buffalo,74,Bulls,Buffalo Bulls,Buffalo
+401287069,2021,regular-season,2021-03-11,2,193,away,TRUE,Miami (OH),63,RedHawks,Miami (OH) RedHawks,Miami OH
+401287060,2021,regular-season,2021-03-11,2,2612,home,TRUE,Saint Peter's,75,Peacocks,Saint Peter's Peacocks,Saint Peter's
+401287060,2021,regular-season,2021-03-11,2,2520,away,TRUE,Rider,60,Broncs,Rider Broncs,Rider
+401286957,2021,regular-season,2021-03-11,2,302,home,TRUE,UC Davis,58,Aggies,UC Davis Aggies,UC Davis
+401286957,2021,regular-season,2021-03-11,2,2934,away,TRUE,Cal State Bakersfield,56,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+401303926,2021,regular-season,2021-03-11,3,26,home,TRUE,UCLA,79,Bruins,UCLA Bruins,UCLA
+401303926,2021,regular-season,2021-03-11,3,204,away,TRUE,Oregon State,83,Beavers,Oregon State Beavers,Oregon St
+401286915,2021,regular-season,2021-03-11,2,68,home,TRUE,Boise State,82,Broncos,Boise State Broncos,Boise St
+401286915,2021,regular-season,2021-03-11,2,2440,away,TRUE,Nevada,89,Wolf Pack,Nevada Wolf Pack,Nevada
+401308855,2021,regular-season,2021-03-11,2,156,home,TRUE,Creighton,87,Bluejays,Creighton Bluejays,Creighton
+401308855,2021,regular-season,2021-03-11,2,2086,away,TRUE,Butler,56,Bulldogs,Butler Bulldogs,Butler
+401296113,2021,regular-season,2021-03-11,2,50,home,TRUE,Florida A&M,75,Rattlers,Florida A&M Rattlers,Florida A&M
+401296113,2021,regular-season,2021-03-11,2,2415,away,TRUE,Morgan State,77,Bears,Morgan State Bears,Morgan St
+401287038,2021,regular-season,2021-03-11,2,2466,home,TRUE,Northwestern State,82,Demons,Northwestern State Demons,N'Western St
+401287038,2021,regular-season,2021-03-11,2,2443,away,TRUE,New Orleans,79,Privateers,New Orleans Privateers,New Orleans
+401301731,2021,regular-season,2021-03-11,2,2305,home,FALSE,Kansas,69,Jayhawks,Kansas Jayhawks,Kansas
+401301731,2021,regular-season,2021-03-11,2,201,away,FALSE,Oklahoma,62,Sooners,Oklahoma Sooners,Oklahoma
+401301265,2021,regular-season,2021-03-11,2,98,home,TRUE,Western Kentucky,80,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+401301265,2021,regular-season,2021-03-11,2,2636,away,TRUE,UTSA,67,Roadrunners,UTSA Roadrunners,UTSA
+401301253,2021,regular-season,2021-03-11,0,52,home,TRUE,Florida State,1,Seminoles,Florida State Seminoles,Florida St
+401301253,2021,regular-season,2021-03-11,0,150,away,TRUE,Duke,0,Blue Devils,Duke Blue Devils,Duke
+401296433,2021,regular-season,2021-03-11,2,164,home,TRUE,Rutgers,61,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401296433,2021,regular-season,2021-03-11,2,84,away,TRUE,Indiana,50,Hoosiers,Indiana Hoosiers,Indiana
+401301773,2021,regular-season,2021-03-11,2,2116,home,TRUE,UCF,72,Knights,UCF Knights,UCF
+401301773,2021,regular-season,2021-03-11,2,151,away,TRUE,East Carolina,62,Pirates,East Carolina Pirates,East Carolina
+401301266,2021,regular-season,2021-03-11,2,5,home,TRUE,UAB,73,Blazers,UAB Blazers,UAB
+401301266,2021,regular-season,2021-03-11,2,242,away,TRUE,Rice,60,Owls,Rice Owls,Rice
+401287153,2021,regular-season,2021-03-11,2,142,home,TRUE,Missouri,73,Tigers,Missouri Tigers,Missouri
+401287153,2021,regular-season,2021-03-11,2,61,away,TRUE,Georgia,70,Bulldogs,Georgia Bulldogs,Georgia
+401287070,2021,regular-season,2021-03-11,2,2006,home,TRUE,Akron,74,Zips,Akron Zips,Akron
+401287070,2021,regular-season,2021-03-11,2,189,away,TRUE,Bowling Green,67,Falcons,Bowling Green Falcons,Bowling Green
+401301859,2021,regular-season,2021-03-11,2,2856,home,TRUE,California Baptist,66,Lancers,California Baptist Lancers,CA Baptist
+401301859,2021,regular-season,2021-03-11,2,2547,away,TRUE,Seattle U,83,Redhawks,Seattle U Redhawks,Seattle U
+401287059,2021,regular-season,2021-03-11,2,2368,home,TRUE,Marist,62,Red Foxes,Marist Red Foxes,Marist
+401287059,2021,regular-season,2021-03-11,2,315,away,TRUE,Niagara,67,Purple Eagles,Niagara Purple Eagles,Niagara
+401296613,2021,regular-season,2021-03-11,2,331,home,TRUE,Eastern Washington,66,Eagles,Eastern Washington Eagles,E Washington
+401296613,2021,regular-season,2021-03-11,2,2464,away,TRUE,Northern Arizona,60,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+401286959,2021,regular-season,2021-03-11,2,300,home,TRUE,UC Irvine,58,Anteaters,UC Irvine Anteaters,UC Irvine
+401286959,2021,regular-season,2021-03-11,2,13,away,TRUE,Cal Poly,51,Mustangs,Cal Poly Mustangs,Cal Poly
+401303927,2021,regular-season,2021-03-11,4,30,home,TRUE,USC,91,Trojans,USC Trojans,USC
+401303927,2021,regular-season,2021-03-11,4,254,away,TRUE,Utah,85,Utes,Utah Utes,Utah
+401301254,2021,regular-season,2021-03-11,2,259,home,TRUE,Virginia Tech,73,Hokies,Virginia Tech Hokies,Virginia Tech
+401301254,2021,regular-season,2021-03-11,2,153,away,TRUE,North Carolina,81,Tar Heels,North Carolina Tar Heels,North Carolina
+401308856,2021,regular-season,2021-03-11,2,41,home,TRUE,UConn,94,Huskies,UConn Huskies,UConn
+401308856,2021,regular-season,2021-03-11,2,305,away,TRUE,DePaul,60,Blue Demons,DePaul Blue Demons,DePaul
+401296413,2021,regular-season,2021-03-11,2,275,home,TRUE,Wisconsin,75,Badgers,Wisconsin Badgers,Wisconsin
+401296413,2021,regular-season,2021-03-11,2,213,away,TRUE,Penn State,74,Nittany Lions,Penn State Nittany Lions,Penn State
+401287039,2021,regular-season,2021-03-11,2,2534,home,TRUE,Sam Houston,69,Bearkats,Sam Houston Bearkats,Sam Houston
+401287039,2021,regular-season,2021-03-11,2,2320,away,TRUE,Lamar,70,Cardinals,Lamar Cardinals,Lamar
+401286999,2021,regular-season,2021-03-11,2,328,home,TRUE,Utah State,74,Aggies,Utah State Aggies,Utah State
+401286999,2021,regular-season,2021-03-11,2,2439,away,TRUE,UNLV,53,Rebels,UNLV Rebels,UNLV
+401296133,2021,regular-season,2021-03-11,2,2450,home,TRUE,Norfolk State,87,Spartans,Norfolk State Spartans,Norfolk St
+401296133,2021,regular-season,2021-03-11,2,2428,away,TRUE,North Carolina Central,58,Eagles,North Carolina Central Eagles,NC Central
+401301733,2021,regular-season,2021-03-11,2,251,home,TRUE,Texas,67,Longhorns,Texas Longhorns,Texas
+401301733,2021,regular-season,2021-03-11,2,2641,away,TRUE,Texas Tech,66,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401301267,2021,regular-season,2021-03-11,2,2348,home,TRUE,Louisiana Tech,75,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
+401301267,2021,regular-season,2021-03-11,2,2226,away,TRUE,Florida Atlantic,69,Owls,Florida Atlantic Owls,FAU
+401287745,2021,regular-season,2021-03-11,3,2755,home,TRUE,Grambling,72,Tigers,Grambling Tigers,Grambling
+401287745,2021,regular-season,2021-03-11,3,2582,away,TRUE,Southern,67,Jaguars,Southern Jaguars,Southern
+401287154,2021,regular-season,2021-03-11,2,145,home,TRUE,Ole Miss,76,Rebels,Ole Miss Rebels,Ole Miss
+401287154,2021,regular-season,2021-03-11,2,2579,away,TRUE,South Carolina,59,Gamecocks,South Carolina Gamecocks,South Carolina
+401301268,2021,regular-season,2021-03-11,2,295,home,TRUE,Old Dominion,55,Monarchs,Old Dominion Monarchs,Old Dominion
+401301268,2021,regular-season,2021-03-11,2,249,away,TRUE,North Texas,61,Mean Green,North Texas Mean Green,North Texas
+401301861,2021,regular-season,2021-03-11,2,166,home,TRUE,New Mexico State,77,Aggies,New Mexico State Aggies,New Mexico St
+401301861,2021,regular-season,2021-03-11,2,292,away,TRUE,UT Rio Grande Valley,61,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+401296633,2021,regular-season,2021-03-11,2,2692,home,TRUE,Weber State,75,Wildcats,Weber State Wildcats,Weber St
+401296633,2021,regular-season,2021-03-11,2,149,away,TRUE,Montana,80,Grizzlies,Montana Grizzlies,Montana
+401286958,2021,regular-season,2021-03-11,2,27,home,TRUE,UC Riverside,62,Highlanders,UC Riverside Highlanders,UC Riverside
+401286958,2021,regular-season,2021-03-11,2,62,away,TRUE,Hawai'i,52,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
+401303928,2021,regular-season,2021-03-11,2,38,home,TRUE,Colorado,61,Buffaloes,Colorado Buffaloes,Colorado
+401303928,2021,regular-season,2021-03-11,2,25,away,TRUE,California,58,Golden Bears,California Golden Bears,California
+401286998,2021,regular-season,2021-03-11,2,36,home,TRUE,Colorado State,72,Rams,Colorado State Rams,Colorado St
+401286998,2021,regular-season,2021-03-11,2,278,away,TRUE,Fresno State,62,Bulldogs,Fresno State Bulldogs,Fresno St

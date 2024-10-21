@@ -1,35 +1,35 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401095877,2018-12-11,4,2127,home,FALSE,Charleston Southern,74,Buccaneers,Charleston Southern Buccaneers,Charleston So
-401095877,2018-12-11,4,2215,away,FALSE,Erskine,50,Flying Fleet,Erskine Flying Fleet,Erskine
-401091495,2018-12-11,4,99,home,FALSE,LSU,86,Tigers,LSU Tigers,LSU
-401091495,2018-12-11,4,2377,away,FALSE,McNeese,36,Cowgirls,McNeese Cowgirls,McNeese
-401090522,2018-12-11,4,2724,home,FALSE,Wichita State,70,Shockers,Wichita State Shockers,Wichita St
-401090522,2018-12-11,4,2755,away,FALSE,Grambling,61,Lady Tigers,Grambling Lady Tigers,Grambling
-401096215,2018-12-11,4,2448,home,FALSE,North Carolina A&T,50,Aggies,North Carolina A&T Aggies,NC A&T
-401096215,2018-12-11,4,2304,away,FALSE,Johnson C Smith,53,Golden Bulls,Johnson C Smith Golden Bulls,J C Smith
-401094422,2018-12-11,4,2440,home,FALSE,Nevada,75,Wolf Pack,Nevada Wolf Pack,Nevada
-401094422,2018-12-11,4,2616,away,FALSE,Stanislaus State,52,Warriors,Stanislaus State Warriors,Stanislaus St
-401090792,2018-12-11,4,2230,home,FALSE,Fordham,68,Rams,Fordham Rams,Fordham
-401090792,2018-12-11,4,171,away,FALSE,Columbia,49,Lions,Columbia Lions,Columbia
-401096367,2018-12-11,4,2296,home,FALSE,Jackson State,105,Lady Tigers,Jackson State Lady Tigers,Jackson St
-401096367,2018-12-11,4,2590,away,FALSE,Spring Hill,57,Badgers,Spring Hill Badgers,Spring Hill
-401093444,2018-12-11,4,349,home,FALSE,Army,51,Black Knights,Army Black Knights,Army
-401093444,2018-12-11,4,43,away,FALSE,Yale,62,Bulldogs,Yale Bulldogs,Yale
-401093240,2018-12-11,4,314,home,FALSE,Iona,51,Gaels,Iona Gaels,Iona
-401093240,2018-12-11,4,2619,away,FALSE,Stony Brook,53,Seawolves,Stony Brook Seawolves,Stony Brook
-401093239,2018-12-11,4,2405,home,FALSE,Monmouth,47,Hawks,Monmouth Hawks,Monmouth
-401093239,2018-12-11,4,163,away,FALSE,Princeton,79,Tigers,Princeton Tigers,Princeton
-401092418,2018-12-11,4,2454,home,FALSE,North Florida,62,Ospreys,North Florida Ospreys,North Florida
-401092418,2018-12-11,4,2229,away,FALSE,Florida International,53,Panthers,Florida International Panthers,FIU
-401092417,2018-12-11,4,2572,home,FALSE,Southern Miss,66,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-401092417,2018-12-11,4,2016,away,FALSE,Alcorn State,47,Lady Braves,Alcorn State Lady Braves,Alcorn St
-401092232,2018-12-11,4,2427,home,FALSE,UNC Asheville,56,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-401092232,2018-12-11,4,2193,away,FALSE,East Tennessee State,55,Bucs,East Tennessee State Bucs,ETSU
-401090793,2018-12-11,4,227,home,FALSE,Rhode Island,51,Rams,Rhode Island Rams,Rhode Island
-401090793,2018-12-11,4,42,away,FALSE,Hartford,65,Hawks,Hartford Hawks,Hartford
-401094616,2018-12-11,4,356,home,FALSE,Illinois,84,Fighting Illini,Illinois Fighting Illini,Illinois
-401094616,2018-12-11,4,93,away,FALSE,Murray State,52,Racers,Murray State Racers,Murray St
-401093084,2018-12-11,4,166,home,FALSE,New Mexico State,66,Aggies,New Mexico State Aggies,New Mexico St
-401093084,2018-12-11,4,2172,away,FALSE,Denver,64,Pioneers,Denver Pioneers,Denver
-401093083,2018-12-11,4,2253,home,FALSE,Grand Canyon,55,Lopes,Grand Canyon Lopes,Grand Canyon
-401093083,2018-12-11,4,2502,away,FALSE,Portland State,60,Vikings,Portland State Vikings,Portland St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401095877,2019,regular-season,2018-12-11,4,2127,home,FALSE,Charleston Southern,74,Buccaneers,Charleston Southern Buccaneers,Charleston So
+401095877,2019,regular-season,2018-12-11,4,2215,away,FALSE,Erskine,50,Flying Fleet,Erskine Flying Fleet,Erskine
+401091495,2019,regular-season,2018-12-11,4,99,home,FALSE,LSU,86,Tigers,LSU Tigers,LSU
+401091495,2019,regular-season,2018-12-11,4,2377,away,FALSE,McNeese,36,Cowgirls,McNeese Cowgirls,McNeese
+401090522,2019,regular-season,2018-12-11,4,2724,home,FALSE,Wichita State,70,Shockers,Wichita State Shockers,Wichita St
+401090522,2019,regular-season,2018-12-11,4,2755,away,FALSE,Grambling,61,Lady Tigers,Grambling Lady Tigers,Grambling
+401096215,2019,regular-season,2018-12-11,4,2448,home,FALSE,North Carolina A&T,50,Aggies,North Carolina A&T Aggies,NC A&T
+401096215,2019,regular-season,2018-12-11,4,2304,away,FALSE,Johnson C Smith,53,Golden Bulls,Johnson C Smith Golden Bulls,J C Smith
+401094422,2019,regular-season,2018-12-11,4,2440,home,FALSE,Nevada,75,Wolf Pack,Nevada Wolf Pack,Nevada
+401094422,2019,regular-season,2018-12-11,4,2616,away,FALSE,Stanislaus State,52,Warriors,Stanislaus State Warriors,Stanislaus St
+401090792,2019,regular-season,2018-12-11,4,2230,home,FALSE,Fordham,68,Rams,Fordham Rams,Fordham
+401090792,2019,regular-season,2018-12-11,4,171,away,FALSE,Columbia,49,Lions,Columbia Lions,Columbia
+401096367,2019,regular-season,2018-12-11,4,2296,home,FALSE,Jackson State,105,Lady Tigers,Jackson State Lady Tigers,Jackson St
+401096367,2019,regular-season,2018-12-11,4,2590,away,FALSE,Spring Hill,57,Badgers,Spring Hill Badgers,Spring Hill
+401093444,2019,regular-season,2018-12-11,4,349,home,FALSE,Army,51,Black Knights,Army Black Knights,Army
+401093444,2019,regular-season,2018-12-11,4,43,away,FALSE,Yale,62,Bulldogs,Yale Bulldogs,Yale
+401093240,2019,regular-season,2018-12-11,4,314,home,FALSE,Iona,51,Gaels,Iona Gaels,Iona
+401093240,2019,regular-season,2018-12-11,4,2619,away,FALSE,Stony Brook,53,Seawolves,Stony Brook Seawolves,Stony Brook
+401093239,2019,regular-season,2018-12-11,4,2405,home,FALSE,Monmouth,47,Hawks,Monmouth Hawks,Monmouth
+401093239,2019,regular-season,2018-12-11,4,163,away,FALSE,Princeton,79,Tigers,Princeton Tigers,Princeton
+401092418,2019,regular-season,2018-12-11,4,2454,home,FALSE,North Florida,62,Ospreys,North Florida Ospreys,North Florida
+401092418,2019,regular-season,2018-12-11,4,2229,away,FALSE,Florida International,53,Panthers,Florida International Panthers,FIU
+401092417,2019,regular-season,2018-12-11,4,2572,home,FALSE,Southern Miss,66,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+401092417,2019,regular-season,2018-12-11,4,2016,away,FALSE,Alcorn State,47,Lady Braves,Alcorn State Lady Braves,Alcorn St
+401092232,2019,regular-season,2018-12-11,4,2427,home,FALSE,UNC Asheville,56,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+401092232,2019,regular-season,2018-12-11,4,2193,away,FALSE,East Tennessee State,55,Bucs,East Tennessee State Bucs,ETSU
+401090793,2019,regular-season,2018-12-11,4,227,home,FALSE,Rhode Island,51,Rams,Rhode Island Rams,Rhode Island
+401090793,2019,regular-season,2018-12-11,4,42,away,FALSE,Hartford,65,Hawks,Hartford Hawks,Hartford
+401094616,2019,regular-season,2018-12-11,4,356,home,FALSE,Illinois,84,Fighting Illini,Illinois Fighting Illini,Illinois
+401094616,2019,regular-season,2018-12-11,4,93,away,FALSE,Murray State,52,Racers,Murray State Racers,Murray St
+401093084,2019,regular-season,2018-12-11,4,166,home,FALSE,New Mexico State,66,Aggies,New Mexico State Aggies,New Mexico St
+401093084,2019,regular-season,2018-12-11,4,2172,away,FALSE,Denver,64,Pioneers,Denver Pioneers,Denver
+401093083,2019,regular-season,2018-12-11,4,2253,home,FALSE,Grand Canyon,55,Lopes,Grand Canyon Lopes,Grand Canyon
+401093083,2019,regular-season,2018-12-11,4,2502,away,FALSE,Portland State,60,Vikings,Portland State Vikings,Portland St

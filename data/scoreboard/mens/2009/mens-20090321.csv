@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-294000034,2009-03-21,2,153,home,TRUE,North Carolina,84,Tar Heels,North Carolina Tar Heels,North Carolina
-294000034,2009-03-21,2,99,away,TRUE,LSU,70,Tigers,LSU Tigers,LSU
-294000013,2009-03-21,2,235,home,TRUE,Memphis,89,Tigers,Memphis Tigers,Memphis
-294000013,2009-03-21,2,120,away,TRUE,Maryland,70,Terrapins,Maryland Terrapins,Maryland
-294000003,2009-03-21,2,41,home,TRUE,UConn,92,Huskies,UConn Huskies,UConn
-294000003,2009-03-21,2,245,away,TRUE,Texas A&M,66,Aggies,Texas A&M Aggies,Texas A&M
-294000028,2009-03-21,2,150,home,TRUE,Duke,74,Blue Devils,Duke Blue Devils,Duke
-294000028,2009-03-21,2,251,away,TRUE,Texas,69,Longhorns,Texas Longhorns,Texas
-294000044,2009-03-21,2,201,home,TRUE,Oklahoma,73,Sooners,Oklahoma Sooners,Oklahoma
-294000044,2009-03-21,2,130,away,TRUE,Michigan,63,Wolverines,Michigan Wolverines,Michigan
-294000037,2009-03-21,2,2250,home,TRUE,Gonzaga,83,Bulldogs,Gonzaga Bulldogs,Gonzaga
-294000037,2009-03-21,2,98,away,TRUE,Western Kentucky,81,Hilltoppers,Western Kentucky Hilltoppers,Western KY
-294000025,2009-03-21,2,222,home,TRUE,Villanova,89,Wildcats,Villanova Wildcats,Villanova
-294000025,2009-03-21,2,26,away,TRUE,UCLA,69,Bruins,UCLA Bruins,UCLA
-294000006,2009-03-21,2,264,home,TRUE,Washington,74,Huskies,Washington Huskies,Washington
-294000006,2009-03-21,2,2509,away,TRUE,Purdue,76,Boilermakers,Purdue Boilermakers,Purdue
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+294000034,2009,post-season,2009-03-21,2,153,home,TRUE,North Carolina,84,Tar Heels,North Carolina Tar Heels,North Carolina
+294000034,2009,post-season,2009-03-21,2,99,away,TRUE,LSU,70,Tigers,LSU Tigers,LSU
+294000013,2009,post-season,2009-03-21,2,235,home,TRUE,Memphis,89,Tigers,Memphis Tigers,Memphis
+294000013,2009,post-season,2009-03-21,2,120,away,TRUE,Maryland,70,Terrapins,Maryland Terrapins,Maryland
+294000003,2009,post-season,2009-03-21,2,41,home,TRUE,UConn,92,Huskies,UConn Huskies,UConn
+294000003,2009,post-season,2009-03-21,2,245,away,TRUE,Texas A&M,66,Aggies,Texas A&M Aggies,Texas A&M
+294000028,2009,post-season,2009-03-21,2,150,home,TRUE,Duke,74,Blue Devils,Duke Blue Devils,Duke
+294000028,2009,post-season,2009-03-21,2,251,away,TRUE,Texas,69,Longhorns,Texas Longhorns,Texas
+294000044,2009,post-season,2009-03-21,2,201,home,TRUE,Oklahoma,73,Sooners,Oklahoma Sooners,Oklahoma
+294000044,2009,post-season,2009-03-21,2,130,away,TRUE,Michigan,63,Wolverines,Michigan Wolverines,Michigan
+294000037,2009,post-season,2009-03-21,2,2250,home,TRUE,Gonzaga,83,Bulldogs,Gonzaga Bulldogs,Gonzaga
+294000037,2009,post-season,2009-03-21,2,98,away,TRUE,Western Kentucky,81,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+294000025,2009,post-season,2009-03-21,2,222,home,TRUE,Villanova,89,Wildcats,Villanova Wildcats,Villanova
+294000025,2009,post-season,2009-03-21,2,26,away,TRUE,UCLA,69,Bruins,UCLA Bruins,UCLA
+294000006,2009,post-season,2009-03-21,2,264,home,TRUE,Washington,74,Huskies,Washington Huskies,Washington
+294000006,2009,post-season,2009-03-21,2,2509,away,TRUE,Purdue,76,Boilermakers,Purdue Boilermakers,Purdue

@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313460159,2011-12-12,2,159,home,FALSE,Dartmouth,42,Big Green,Dartmouth Big Green,Dartmouth
-313460159,2011-12-12,2,42,away,FALSE,Hartford,60,Hawks,Hartford Hawks,Hartford
-313462550,2011-12-12,2,2550,home,FALSE,Seton Hall,77,Pirates,Seton Hall Pirates,Seton Hall
-313462550,2011-12-12,2,2182,away,FALSE,Drexel,64,Dragons,Drexel Dragons,Drexel
-313462448,2011-12-12,2,2448,home,FALSE,North Carolina A&T,71,Aggies,North Carolina A&T Aggies,NC A&T
-313462448,2011-12-12,2,2304,away,FALSE,Johnson C Smith,61,Golden Bulls,Johnson C Smith Golden Bulls,J C Smith
-313460236,2011-12-12,2,236,home,FALSE,Chattanooga,76,Mocs,Chattanooga Mocs,Chattanooga
-313460236,2011-12-12,2,338,away,FALSE,Kennesaw State,39,Owls,Kennesaw State Owls,Kennesaw St
-313460331,2011-12-12,2,331,home,FALSE,Eastern Washington,68,Eagles,Eastern Washington Eagles,E Washington
-313460331,2011-12-12,2,2202,away,FALSE,Eastern Oregon,55,Mountaineers,Eastern Oregon Mountaineers,E Oregon
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313460159,2012,regular-season,2011-12-12,2,159,home,FALSE,Dartmouth,42,Big Green,Dartmouth Big Green,Dartmouth
+313460159,2012,regular-season,2011-12-12,2,42,away,FALSE,Hartford,60,Hawks,Hartford Hawks,Hartford
+313462550,2012,regular-season,2011-12-12,2,2550,home,FALSE,Seton Hall,77,Pirates,Seton Hall Pirates,Seton Hall
+313462550,2012,regular-season,2011-12-12,2,2182,away,FALSE,Drexel,64,Dragons,Drexel Dragons,Drexel
+313462448,2012,regular-season,2011-12-12,2,2448,home,FALSE,North Carolina A&T,71,Aggies,North Carolina A&T Aggies,NC A&T
+313462448,2012,regular-season,2011-12-12,2,2304,away,FALSE,Johnson C Smith,61,Golden Bulls,Johnson C Smith Golden Bulls,J C Smith
+313460236,2012,regular-season,2011-12-12,2,236,home,FALSE,Chattanooga,76,Mocs,Chattanooga Mocs,Chattanooga
+313460236,2012,regular-season,2011-12-12,2,338,away,FALSE,Kennesaw State,39,Owls,Kennesaw State Owls,Kennesaw St
+313460331,2012,regular-season,2011-12-12,2,331,home,FALSE,Eastern Washington,68,Eagles,Eastern Washington Eagles,E Washington
+313460331,2012,regular-season,2011-12-12,2,2202,away,FALSE,Eastern Oregon,55,Mountaineers,Eastern Oregon Mountaineers,E Oregon

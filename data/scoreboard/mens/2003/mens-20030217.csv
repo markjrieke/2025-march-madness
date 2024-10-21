@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230480251,2003-02-17,2,251,home,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
-230480251,2003-02-17,2,2641,away,FALSE,Texas Tech,65,Red Raiders,Texas Tech Red Raiders,Texas Tech
-230480057,2003-02-17,2,57,home,FALSE,Florida,77,Gators,Florida Gators,Florida
-230480057,2003-02-17,2,2443,away,FALSE,New Orleans,48,Privateers,New Orleans Privateers,New Orleans
-230480120,2003-02-17,2,120,home,FALSE,Maryland,90,Terrapins,Maryland Terrapins,Maryland
-230480120,2003-02-17,2,154,away,FALSE,Wake Forest,67,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-230480254,2003-02-17,3,254,home,FALSE,Utah,86,Utes,Utah Utes,Utah
-230480254,2003-02-17,3,2439,away,FALSE,UNLV,80,Rebels,UNLV Rebels,UNLV
-230480046,2003-02-17,0,46,home,FALSE,Georgetown,0,Hoyas,Georgetown Hoyas,Georgetown
-230480046,2003-02-17,0,221,away,FALSE,Pittsburgh,0,Panthers,Pittsburgh Panthers,Pitt
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230480251,2003,regular-season,2003-02-17,2,251,home,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
+230480251,2003,regular-season,2003-02-17,2,2641,away,FALSE,Texas Tech,65,Red Raiders,Texas Tech Red Raiders,Texas Tech
+230480057,2003,regular-season,2003-02-17,2,57,home,FALSE,Florida,77,Gators,Florida Gators,Florida
+230480057,2003,regular-season,2003-02-17,2,2443,away,FALSE,New Orleans,48,Privateers,New Orleans Privateers,New Orleans
+230480120,2003,regular-season,2003-02-17,2,120,home,FALSE,Maryland,90,Terrapins,Maryland Terrapins,Maryland
+230480120,2003,regular-season,2003-02-17,2,154,away,FALSE,Wake Forest,67,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+230480254,2003,regular-season,2003-02-17,3,254,home,FALSE,Utah,86,Utes,Utah Utes,Utah
+230480254,2003,regular-season,2003-02-17,3,2439,away,FALSE,UNLV,80,Rebels,UNLV Rebels,UNLV
+230480046,2003,regular-season,2003-02-17,0,46,home,FALSE,Georgetown,0,Hoyas,Georgetown Hoyas,Georgetown
+230480046,2003,regular-season,2003-02-17,0,221,away,FALSE,Pittsburgh,0,Panthers,Pittsburgh Panthers,Pitt

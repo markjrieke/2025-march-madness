@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401364486,2021-12-06,4,84,home,FALSE,Indiana,70,Hoosiers,Indiana Hoosiers,Indiana
-401364486,2021-12-06,4,213,away,FALSE,Penn State,40,Lady Lions,Penn State Lady Lions,Penn State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401364486,2022,regular-season,2021-12-06,4,84,home,FALSE,Indiana,70,Hoosiers,Indiana Hoosiers,Indiana
+401364486,2022,regular-season,2021-12-06,4,213,away,FALSE,Penn State,40,Lady Lions,Penn State Lady Lions,Penn State

@@ -1,85 +1,85 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303182550,2010-11-14,2,2550,home,FALSE,Seton Hall,92,Pirates,Seton Hall Pirates,Seton Hall
-303182550,2010-11-14,2,172,away,FALSE,Cornell,68,Big Red,Cornell Big Red,Cornell
-303182542,2010-11-14,2,2542,home,FALSE,Savannah State,52,Tigers,Savannah State Tigers,Savannah St
-303182542,2010-11-14,2,2710,away,FALSE,Western Illinois,59,Leathernecks,Western Illinois Leathernecks,W Illinois
-303182638,2010-11-14,2,2638,home,FALSE,UTEP,87,Miners,UTEP Miners,UTEP
-303182638,2010-11-14,2,2382,away,FALSE,Mercer,74,Bears,Mercer Bears,Mercer
-303182619,2010-11-14,2,2619,home,FALSE,Stony Brook,80,Seawolves,Stony Brook Seawolves,Stony Brook
-303182619,2010-11-14,2,481,away,FALSE,Mount Ida,43,Mount Ida,Mount Ida,Mount Ida
-303182413,2010-11-14,2,2413,home,FALSE,Morehead State,84,Eagles,Morehead State Eagles,Morehead St
-303182413,2010-11-14,2,2448,away,FALSE,North Carolina A&T,61,Aggies,North Carolina A&T Aggies,NC A&T
-303180269,2010-11-14,2,269,home,FALSE,Marquette,72,Golden Eagles,Marquette Golden Eagles,Marquette
-303180269,2010-11-14,2,2083,away,FALSE,Bucknell,61,Bison,Bucknell Bison,Bucknell
-303180179,2010-11-14,2,179,home,FALSE,St. Bonaventure,77,Bonnies,St. Bonaventure Bonnies,St Bonaventure
-303180179,2010-11-14,2,2031,away,FALSE,Little Rock,64,Trojans,Little Rock Trojans,Little Rock
-303180120,2010-11-14,2,120,home,FALSE,Maryland,89,Terrapins,Maryland Terrapins,Maryland
-303180120,2010-11-14,2,311,away,FALSE,Maine,59,Black Bears,Maine Black Bears,Maine
-303180087,2010-11-14,2,87,home,FALSE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-303180087,2010-11-14,2,2335,away,FALSE,Liberty,51,Flames,Liberty Flames,Liberty
-303180066,2010-11-14,2,66,home,FALSE,Iowa State,74,Cyclones,Iowa State Cyclones,Iowa State
-303180066,2010-11-14,2,2011,away,FALSE,Alabama State,47,Hornets,Alabama State Hornets,Alabama St
-303180156,2010-11-14,2,156,home,FALSE,Creighton,74,Bluejays,Creighton Bluejays,Creighton
-303180156,2010-11-14,2,2464,away,FALSE,Northern Arizona,70,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
-303182378,2010-11-14,2,2378,home,FALSE,UMBC,77,Retrievers,UMBC Retrievers,UMBC
-303182378,2010-11-14,2,2678,away,FALSE,VMI,94,Keydets,VMI Keydets,VMI
-303182294,2010-11-14,2,2294,home,FALSE,Iowa,69,Hawkeyes,Iowa Hawkeyes,Iowa
-303182294,2010-11-14,2,2571,away,FALSE,South Dakota State,79,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-303182050,2010-11-14,2,2050,home,FALSE,Ball State,77,Cardinals,Ball State Cardinals,Ball State
-303182050,2010-11-14,2,2197,away,FALSE,Eastern Illinois,46,Panthers,Eastern Illinois Panthers,E Illinois
-303180248,2010-11-14,2,248,home,FALSE,Houston,88,Cougars,Houston Cougars,Houston
-303180248,2010-11-14,2,2016,away,FALSE,Alcorn State,68,Braves,Alcorn State Braves,Alcorn St
-303180218,2010-11-14,2,218,home,FALSE,Temple,82,Owls,Temple Owls,Temple
-303180218,2010-11-14,2,2649,away,FALSE,Toledo,49,Rockets,Toledo Rockets,Toledo
-303180183,2010-11-14,2,183,home,FALSE,Syracuse,86,Orange,Syracuse Orange,Syracuse
-303180183,2010-11-14,2,2099,away,FALSE,Canisius,67,Golden Griffins,Canisius Golden Griffins,Canisius
-303182287,2010-11-14,2,2287,home,FALSE,Illinois State,92,Redbirds,Illinois State Redbirds,Illinois St
-303182287,2010-11-14,2,2565,away,FALSE,SIU Edwardsville,64,Cougars,SIU Edwardsville Cougars,SIUE
-303182430,2010-11-14,2,2430,home,FALSE,UNC Greensboro,73,Spartans,UNC Greensboro Spartans,UNC Greensboro
-303182430,2010-11-14,2,52,away,FALSE,Florida State,97,Seminoles,Florida State Seminoles,Florida St
-303180314,2010-11-14,2,314,home,TRUE,Iona,72,Gaels,Iona Gaels,Iona
-303180314,2010-11-14,2,2803,away,TRUE,Bryant,74,Bulldogs,Bryant Bulldogs,Bryant
-303182520,2010-11-14,2,2520,home,FALSE,Rider,80,Broncs,Rider Broncs,Rider
-303182520,2010-11-14,2,322,away,FALSE,Lafayette,73,Leopards,Lafayette Leopards,Lafayette
-303182515,2010-11-14,2,2515,home,FALSE,Radford,83,Highlanders,Radford Highlanders,Radford
-303182515,2010-11-14,2,291,away,FALSE,Methodist,74,Monarchs,Methodist Monarchs,Methodist
-303182250,2010-11-14,2,2250,home,FALSE,Gonzaga,86,Bulldogs,Gonzaga Bulldogs,Gonzaga
-303182250,2010-11-14,2,85,away,FALSE,IU Indianapolis,56,Jaguars,IU Indianapolis Jaguars,IU Indy
-303182005,2010-11-14,2,2005,home,FALSE,Air Force,66,Falcons,Air Force Falcons,Air Force
-303182005,2010-11-14,2,2145,away,FALSE,Colorado-Colorado Springs,53,Mountain Lions,Colorado-Colorado Springs Mountain Lions,Col-ColSprings
-303180282,2010-11-14,3,282,home,TRUE,Indiana State,59,Sycamores,Indiana State Sycamores,Indiana St
-303180282,2010-11-14,3,2198,away,TRUE,Eastern Kentucky,64,Colonels,Eastern Kentucky Colonels,E Kentucky
-303180242,2010-11-14,2,242,home,FALSE,Rice,86,Owls,Rice Owls,Rice
-303180242,2010-11-14,2,2755,away,FALSE,Grambling,57,Tigers,Grambling Tigers,Grambling
-303180204,2010-11-14,2,204,home,FALSE,Oregon State,71,Beavers,Oregon State Beavers,Oregon St
-303180204,2010-11-14,2,250,away,FALSE,UT Arlington,56,Mavericks,UT Arlington Mavericks,UT Arlington
-303182509,2010-11-14,2,2509,home,FALSE,Purdue,76,Boilermakers,Purdue Boilermakers,Purdue
-303182509,2010-11-14,2,47,away,FALSE,Howard,40,Bison,Howard Bison,Howard
-303180150,2010-11-14,2,150,home,FALSE,Duke,97,Blue Devils,Duke Blue Devils,Duke
-303180150,2010-11-14,2,163,away,FALSE,Princeton,60,Tigers,Princeton Tigers,Princeton
-303180012,2010-11-14,2,12,home,FALSE,Arizona,90,Wildcats,Arizona Wildcats,Arizona
-303180012,2010-11-14,2,304,away,FALSE,Idaho State,42,Bengals,Idaho State Bengals,Idaho St
-303182351,2010-11-14,2,2351,home,FALSE,Loyola Marymount,100,Lions,Loyola Marymount Lions,LMU
-303182351,2010-11-14,2,3167,away,FALSE,La Sierra,62,Golden Eagles,La Sierra Golden Eagles,La Sierra
-303182309,2010-11-14,2,325,home,FALSE,Cleveland State,69,Vikings,Cleveland State Vikings,Cleveland St
-303182309,2010-11-14,2,2309,away,FALSE,Kent State,66,Golden Flashes,Kent State Golden Flashes,Kent State
-303180305,2010-11-14,2,305,home,FALSE,DePaul,114,Blue Demons,DePaul Blue Demons,DePaul
-303180305,2010-11-14,2,2130,away,FALSE,Chicago State,81,Cougars,Chicago State Cougars,Chicago St
-303180302,2010-11-14,2,270,home,TRUE,Milwaukee,73,Panthers,Milwaukee Panthers,Milwaukee
-303180302,2010-11-14,2,302,away,TRUE,UC Davis,62,Aggies,UC Davis Aggies,UC Davis
-303180275,2010-11-14,2,275,home,FALSE,Wisconsin,99,Badgers,Wisconsin Badgers,Wisconsin
-303180275,2010-11-14,2,2504,away,FALSE,Prairie View A&M,55,Panthers,Prairie View A&M Panthers,Prairie View
-303182449,2010-11-14,2,2172,home,TRUE,Denver,54,Pioneers,Denver Pioneers,Denver
-303182449,2010-11-14,2,2449,away,TRUE,North Dakota State,65,Bison,North Dakota State Bison,N Dakota St
-303182350,2010-11-14,2,2350,home,FALSE,Loyola Chicago,79,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-303182350,2010-11-14,2,292,away,FALSE,UT Rio Grande Valley,57,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-303180084,2010-11-14,2,84,home,FALSE,Indiana,67,Hoosiers,Indiana Hoosiers,Indiana
-303180084,2010-11-14,2,2750,away,FALSE,Wright State,44,Raiders,Wright State Raiders,Wright St
-303180016,2010-11-14,3,16,home,FALSE,Sacramento State,78,Hornets,Sacramento State Hornets,Sacramento St
-303180016,2010-11-14,3,2934,away,FALSE,Cal State Bakersfield,80,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
-303182547,2010-11-14,2,2547,home,FALSE,Seattle U,60,Redhawks,Seattle U Redhawks,Seattle U
-303182547,2010-11-14,2,13,away,FALSE,Cal Poly,76,Mustangs,Cal Poly Mustangs,Cal Poly
-303182501,2010-11-14,2,2501,home,FALSE,Portland,89,Pilots,Portland Pilots,Portland
-303182501,2010-11-14,2,2226,away,FALSE,Florida Atlantic,75,Owls,Florida Atlantic Owls,FAU
-303182483,2010-11-14,2,2483,home,FALSE,Oregon,72,Ducks,Oregon Ducks,Oregon
-303182483,2010-11-14,2,2540,away,FALSE,UC Santa Barbara,70,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303182550,2011,regular-season,2010-11-14,2,2550,home,FALSE,Seton Hall,92,Pirates,Seton Hall Pirates,Seton Hall
+303182550,2011,regular-season,2010-11-14,2,172,away,FALSE,Cornell,68,Big Red,Cornell Big Red,Cornell
+303182542,2011,regular-season,2010-11-14,2,2542,home,FALSE,Savannah State,52,Tigers,Savannah State Tigers,Savannah St
+303182542,2011,regular-season,2010-11-14,2,2710,away,FALSE,Western Illinois,59,Leathernecks,Western Illinois Leathernecks,W Illinois
+303182638,2011,regular-season,2010-11-14,2,2638,home,FALSE,UTEP,87,Miners,UTEP Miners,UTEP
+303182638,2011,regular-season,2010-11-14,2,2382,away,FALSE,Mercer,74,Bears,Mercer Bears,Mercer
+303182619,2011,regular-season,2010-11-14,2,2619,home,FALSE,Stony Brook,80,Seawolves,Stony Brook Seawolves,Stony Brook
+303182619,2011,regular-season,2010-11-14,2,481,away,FALSE,Mount Ida,43,Mount Ida,Mount Ida,Mount Ida
+303182413,2011,regular-season,2010-11-14,2,2413,home,FALSE,Morehead State,84,Eagles,Morehead State Eagles,Morehead St
+303182413,2011,regular-season,2010-11-14,2,2448,away,FALSE,North Carolina A&T,61,Aggies,North Carolina A&T Aggies,NC A&T
+303180269,2011,regular-season,2010-11-14,2,269,home,FALSE,Marquette,72,Golden Eagles,Marquette Golden Eagles,Marquette
+303180269,2011,regular-season,2010-11-14,2,2083,away,FALSE,Bucknell,61,Bison,Bucknell Bison,Bucknell
+303180179,2011,regular-season,2010-11-14,2,179,home,FALSE,St. Bonaventure,77,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+303180179,2011,regular-season,2010-11-14,2,2031,away,FALSE,Little Rock,64,Trojans,Little Rock Trojans,Little Rock
+303180120,2011,regular-season,2010-11-14,2,120,home,FALSE,Maryland,89,Terrapins,Maryland Terrapins,Maryland
+303180120,2011,regular-season,2010-11-14,2,311,away,FALSE,Maine,59,Black Bears,Maine Black Bears,Maine
+303180087,2011,regular-season,2010-11-14,2,87,home,FALSE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+303180087,2011,regular-season,2010-11-14,2,2335,away,FALSE,Liberty,51,Flames,Liberty Flames,Liberty
+303180066,2011,regular-season,2010-11-14,2,66,home,FALSE,Iowa State,74,Cyclones,Iowa State Cyclones,Iowa State
+303180066,2011,regular-season,2010-11-14,2,2011,away,FALSE,Alabama State,47,Hornets,Alabama State Hornets,Alabama St
+303180156,2011,regular-season,2010-11-14,2,156,home,FALSE,Creighton,74,Bluejays,Creighton Bluejays,Creighton
+303180156,2011,regular-season,2010-11-14,2,2464,away,FALSE,Northern Arizona,70,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+303182378,2011,regular-season,2010-11-14,2,2378,home,FALSE,UMBC,77,Retrievers,UMBC Retrievers,UMBC
+303182378,2011,regular-season,2010-11-14,2,2678,away,FALSE,VMI,94,Keydets,VMI Keydets,VMI
+303182294,2011,regular-season,2010-11-14,2,2294,home,FALSE,Iowa,69,Hawkeyes,Iowa Hawkeyes,Iowa
+303182294,2011,regular-season,2010-11-14,2,2571,away,FALSE,South Dakota State,79,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+303182050,2011,regular-season,2010-11-14,2,2050,home,FALSE,Ball State,77,Cardinals,Ball State Cardinals,Ball State
+303182050,2011,regular-season,2010-11-14,2,2197,away,FALSE,Eastern Illinois,46,Panthers,Eastern Illinois Panthers,E Illinois
+303180248,2011,regular-season,2010-11-14,2,248,home,FALSE,Houston,88,Cougars,Houston Cougars,Houston
+303180248,2011,regular-season,2010-11-14,2,2016,away,FALSE,Alcorn State,68,Braves,Alcorn State Braves,Alcorn St
+303180218,2011,regular-season,2010-11-14,2,218,home,FALSE,Temple,82,Owls,Temple Owls,Temple
+303180218,2011,regular-season,2010-11-14,2,2649,away,FALSE,Toledo,49,Rockets,Toledo Rockets,Toledo
+303180183,2011,regular-season,2010-11-14,2,183,home,FALSE,Syracuse,86,Orange,Syracuse Orange,Syracuse
+303180183,2011,regular-season,2010-11-14,2,2099,away,FALSE,Canisius,67,Golden Griffins,Canisius Golden Griffins,Canisius
+303182287,2011,regular-season,2010-11-14,2,2287,home,FALSE,Illinois State,92,Redbirds,Illinois State Redbirds,Illinois St
+303182287,2011,regular-season,2010-11-14,2,2565,away,FALSE,SIU Edwardsville,64,Cougars,SIU Edwardsville Cougars,SIUE
+303182430,2011,regular-season,2010-11-14,2,2430,home,FALSE,UNC Greensboro,73,Spartans,UNC Greensboro Spartans,UNC Greensboro
+303182430,2011,regular-season,2010-11-14,2,52,away,FALSE,Florida State,97,Seminoles,Florida State Seminoles,Florida St
+303180314,2011,regular-season,2010-11-14,2,314,home,TRUE,Iona,72,Gaels,Iona Gaels,Iona
+303180314,2011,regular-season,2010-11-14,2,2803,away,TRUE,Bryant,74,Bulldogs,Bryant Bulldogs,Bryant
+303182520,2011,regular-season,2010-11-14,2,2520,home,FALSE,Rider,80,Broncs,Rider Broncs,Rider
+303182520,2011,regular-season,2010-11-14,2,322,away,FALSE,Lafayette,73,Leopards,Lafayette Leopards,Lafayette
+303182515,2011,regular-season,2010-11-14,2,2515,home,FALSE,Radford,83,Highlanders,Radford Highlanders,Radford
+303182515,2011,regular-season,2010-11-14,2,291,away,FALSE,Methodist,74,Monarchs,Methodist Monarchs,Methodist
+303182250,2011,regular-season,2010-11-14,2,2250,home,FALSE,Gonzaga,86,Bulldogs,Gonzaga Bulldogs,Gonzaga
+303182250,2011,regular-season,2010-11-14,2,85,away,FALSE,IU Indianapolis,56,Jaguars,IU Indianapolis Jaguars,IU Indy
+303182005,2011,regular-season,2010-11-14,2,2005,home,FALSE,Air Force,66,Falcons,Air Force Falcons,Air Force
+303182005,2011,regular-season,2010-11-14,2,2145,away,FALSE,Colorado-Colorado Springs,53,Mountain Lions,Colorado-Colorado Springs Mountain Lions,Col-ColSprings
+303180282,2011,regular-season,2010-11-14,3,282,home,TRUE,Indiana State,59,Sycamores,Indiana State Sycamores,Indiana St
+303180282,2011,regular-season,2010-11-14,3,2198,away,TRUE,Eastern Kentucky,64,Colonels,Eastern Kentucky Colonels,E Kentucky
+303180242,2011,regular-season,2010-11-14,2,242,home,FALSE,Rice,86,Owls,Rice Owls,Rice
+303180242,2011,regular-season,2010-11-14,2,2755,away,FALSE,Grambling,57,Tigers,Grambling Tigers,Grambling
+303180204,2011,regular-season,2010-11-14,2,204,home,FALSE,Oregon State,71,Beavers,Oregon State Beavers,Oregon St
+303180204,2011,regular-season,2010-11-14,2,250,away,FALSE,UT Arlington,56,Mavericks,UT Arlington Mavericks,UT Arlington
+303182509,2011,regular-season,2010-11-14,2,2509,home,FALSE,Purdue,76,Boilermakers,Purdue Boilermakers,Purdue
+303182509,2011,regular-season,2010-11-14,2,47,away,FALSE,Howard,40,Bison,Howard Bison,Howard
+303180150,2011,regular-season,2010-11-14,2,150,home,FALSE,Duke,97,Blue Devils,Duke Blue Devils,Duke
+303180150,2011,regular-season,2010-11-14,2,163,away,FALSE,Princeton,60,Tigers,Princeton Tigers,Princeton
+303180012,2011,regular-season,2010-11-14,2,12,home,FALSE,Arizona,90,Wildcats,Arizona Wildcats,Arizona
+303180012,2011,regular-season,2010-11-14,2,304,away,FALSE,Idaho State,42,Bengals,Idaho State Bengals,Idaho St
+303182351,2011,regular-season,2010-11-14,2,2351,home,FALSE,Loyola Marymount,100,Lions,Loyola Marymount Lions,LMU
+303182351,2011,regular-season,2010-11-14,2,3167,away,FALSE,La Sierra,62,Golden Eagles,La Sierra Golden Eagles,La Sierra
+303182309,2011,regular-season,2010-11-14,2,325,home,FALSE,Cleveland State,69,Vikings,Cleveland State Vikings,Cleveland St
+303182309,2011,regular-season,2010-11-14,2,2309,away,FALSE,Kent State,66,Golden Flashes,Kent State Golden Flashes,Kent State
+303180305,2011,regular-season,2010-11-14,2,305,home,FALSE,DePaul,114,Blue Demons,DePaul Blue Demons,DePaul
+303180305,2011,regular-season,2010-11-14,2,2130,away,FALSE,Chicago State,81,Cougars,Chicago State Cougars,Chicago St
+303180302,2011,regular-season,2010-11-14,2,270,home,TRUE,Milwaukee,73,Panthers,Milwaukee Panthers,Milwaukee
+303180302,2011,regular-season,2010-11-14,2,302,away,TRUE,UC Davis,62,Aggies,UC Davis Aggies,UC Davis
+303180275,2011,regular-season,2010-11-14,2,275,home,FALSE,Wisconsin,99,Badgers,Wisconsin Badgers,Wisconsin
+303180275,2011,regular-season,2010-11-14,2,2504,away,FALSE,Prairie View A&M,55,Panthers,Prairie View A&M Panthers,Prairie View
+303182449,2011,regular-season,2010-11-14,2,2172,home,TRUE,Denver,54,Pioneers,Denver Pioneers,Denver
+303182449,2011,regular-season,2010-11-14,2,2449,away,TRUE,North Dakota State,65,Bison,North Dakota State Bison,N Dakota St
+303182350,2011,regular-season,2010-11-14,2,2350,home,FALSE,Loyola Chicago,79,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+303182350,2011,regular-season,2010-11-14,2,292,away,FALSE,UT Rio Grande Valley,57,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+303180084,2011,regular-season,2010-11-14,2,84,home,FALSE,Indiana,67,Hoosiers,Indiana Hoosiers,Indiana
+303180084,2011,regular-season,2010-11-14,2,2750,away,FALSE,Wright State,44,Raiders,Wright State Raiders,Wright St
+303180016,2011,regular-season,2010-11-14,3,16,home,FALSE,Sacramento State,78,Hornets,Sacramento State Hornets,Sacramento St
+303180016,2011,regular-season,2010-11-14,3,2934,away,FALSE,Cal State Bakersfield,80,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+303182547,2011,regular-season,2010-11-14,2,2547,home,FALSE,Seattle U,60,Redhawks,Seattle U Redhawks,Seattle U
+303182547,2011,regular-season,2010-11-14,2,13,away,FALSE,Cal Poly,76,Mustangs,Cal Poly Mustangs,Cal Poly
+303182501,2011,regular-season,2010-11-14,2,2501,home,FALSE,Portland,89,Pilots,Portland Pilots,Portland
+303182501,2011,regular-season,2010-11-14,2,2226,away,FALSE,Florida Atlantic,75,Owls,Florida Atlantic Owls,FAU
+303182483,2011,regular-season,2010-11-14,2,2483,home,FALSE,Oregon,72,Ducks,Oregon Ducks,Oregon
+303182483,2011,regular-season,2010-11-14,2,2540,away,FALSE,UC Santa Barbara,70,Gauchos,UC Santa Barbara Gauchos,Santa Barbara

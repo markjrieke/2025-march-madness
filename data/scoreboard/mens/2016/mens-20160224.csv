@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400840334,2016-02-24,2,2752,home,FALSE,Xavier,90,Musketeers,Xavier Musketeers,Xavier
-400840334,2016-02-24,2,222,away,FALSE,Villanova,83,Wildcats,Villanova Wildcats,Villanova
-400831344,2016-02-24,2,201,home,FALSE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
-400831344,2016-02-24,2,197,away,FALSE,Oklahoma State,49,Cowboys,Oklahoma State Cowboys,Oklahoma St
-400839812,2016-02-24,2,152,home,FALSE,NC State,68,Wolfpack,NC State Wolfpack,NC State
-400839812,2016-02-24,2,153,away,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
-400839312,2016-02-24,2,2294,home,FALSE,Iowa,59,Hawkeyes,Iowa Hawkeyes,Iowa
-400839312,2016-02-24,2,275,away,FALSE,Wisconsin,67,Badgers,Wisconsin Badgers,Wisconsin
-400841601,2016-02-24,2,38,home,FALSE,Colorado,75,Buffaloes,Colorado Buffaloes,Colorado
-400841601,2016-02-24,2,12,away,FALSE,Arizona,72,Wildcats,Arizona Wildcats,Arizona
-400839228,2016-02-24,2,221,home,FALSE,Pittsburgh,60,Panthers,Pittsburgh Panthers,Pitt
-400839228,2016-02-24,2,97,away,FALSE,Louisville,67,Cardinals,Louisville Cardinals,Louisville
-400844194,2016-02-24,2,2483,home,FALSE,Oregon,76,Ducks,Oregon Ducks,Oregon
-400844194,2016-02-24,2,265,away,FALSE,Washington State,62,Cougars,Washington State Cougars,Washington St
-400830471,2016-02-24,2,245,home,FALSE,Texas A&M,68,Aggies,Texas A&M Aggies,Texas A&M
-400830471,2016-02-24,2,344,away,FALSE,Mississippi State,66,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400839248,2016-02-24,2,154,home,FALSE,Wake Forest,58,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-400839248,2016-02-24,2,87,away,FALSE,Notre Dame,69,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400840334,2016,regular-season,2016-02-24,2,2752,home,FALSE,Xavier,90,Musketeers,Xavier Musketeers,Xavier
+400840334,2016,regular-season,2016-02-24,2,222,away,FALSE,Villanova,83,Wildcats,Villanova Wildcats,Villanova
+400831344,2016,regular-season,2016-02-24,2,201,home,FALSE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
+400831344,2016,regular-season,2016-02-24,2,197,away,FALSE,Oklahoma State,49,Cowboys,Oklahoma State Cowboys,Oklahoma St
+400839812,2016,regular-season,2016-02-24,2,152,home,FALSE,NC State,68,Wolfpack,NC State Wolfpack,NC State
+400839812,2016,regular-season,2016-02-24,2,153,away,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
+400839312,2016,regular-season,2016-02-24,2,2294,home,FALSE,Iowa,59,Hawkeyes,Iowa Hawkeyes,Iowa
+400839312,2016,regular-season,2016-02-24,2,275,away,FALSE,Wisconsin,67,Badgers,Wisconsin Badgers,Wisconsin
+400841601,2016,regular-season,2016-02-24,2,38,home,FALSE,Colorado,75,Buffaloes,Colorado Buffaloes,Colorado
+400841601,2016,regular-season,2016-02-24,2,12,away,FALSE,Arizona,72,Wildcats,Arizona Wildcats,Arizona
+400839228,2016,regular-season,2016-02-24,2,221,home,FALSE,Pittsburgh,60,Panthers,Pittsburgh Panthers,Pitt
+400839228,2016,regular-season,2016-02-24,2,97,away,FALSE,Louisville,67,Cardinals,Louisville Cardinals,Louisville
+400844194,2016,regular-season,2016-02-24,2,2483,home,FALSE,Oregon,76,Ducks,Oregon Ducks,Oregon
+400844194,2016,regular-season,2016-02-24,2,265,away,FALSE,Washington State,62,Cougars,Washington State Cougars,Washington St
+400830471,2016,regular-season,2016-02-24,2,245,home,FALSE,Texas A&M,68,Aggies,Texas A&M Aggies,Texas A&M
+400830471,2016,regular-season,2016-02-24,2,344,away,FALSE,Mississippi State,66,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400839248,2016,regular-season,2016-02-24,2,154,home,FALSE,Wake Forest,58,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+400839248,2016,regular-season,2016-02-24,2,87,away,FALSE,Notre Dame,69,Fighting Irish,Notre Dame Fighting Irish,Notre Dame

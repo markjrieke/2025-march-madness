@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320860239,2012-03-26,2,239,home,TRUE,Baylor,77,Bears,Baylor Bears,Baylor
-320860239,2012-03-26,2,2633,away,TRUE,Tennessee,58,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-320860024,2012-03-26,2,24,home,TRUE,Stanford,81,Cardinal,Stanford Cardinal,Stanford
-320860024,2012-03-26,2,150,away,TRUE,Duke,69,Blue Devils,Duke Blue Devils,Duke
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320860239,2012,post-season,2012-03-26,2,239,home,TRUE,Baylor,77,Bears,Baylor Bears,Baylor
+320860239,2012,post-season,2012-03-26,2,2633,away,TRUE,Tennessee,58,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+320860024,2012,post-season,2012-03-26,2,24,home,TRUE,Stanford,81,Cardinal,Stanford Cardinal,Stanford
+320860024,2012,post-season,2012-03-26,2,150,away,TRUE,Duke,69,Blue Devils,Duke Blue Devils,Duke

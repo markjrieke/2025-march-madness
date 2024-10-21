@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401371311,2022-01-13,2,2250,home,FALSE,Gonzaga,110,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401371311,2022-01-13,2,252,away,FALSE,BYU,84,Cougars,BYU Cougars,BYU
-401377410,2022-01-13,3,26,home,FALSE,UCLA,81,Bruins,UCLA Bruins,UCLA
-401377410,2022-01-13,3,2483,away,FALSE,Oregon,84,Ducks,Oregon Ducks,Oregon
-401377412,2022-01-13,2,30,home,FALSE,USC,81,Trojans,USC Trojans,USC
-401377412,2022-01-13,2,204,away,FALSE,Oregon State,71,Beavers,Oregon State Beavers,Oregon St
-401377411,2022-01-13,2,12,home,FALSE,Arizona,76,Wildcats,Arizona Wildcats,Arizona
-401377411,2022-01-13,2,38,away,FALSE,Colorado,55,Buffaloes,Colorado Buffaloes,Colorado
-401364379,2022-01-13,2,275,home,FALSE,Wisconsin,78,Badgers,Wisconsin Badgers,Wisconsin
-401364379,2022-01-13,2,194,away,FALSE,Ohio State,68,Buckeyes,Ohio State Buckeyes,Ohio State
-401398458,2022-01-13,2,2641,home,FALSE,Texas Tech,78,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401398458,2022-01-13,2,197,away,FALSE,Oklahoma State,57,Cowboys,Oklahoma State Cowboys,Oklahoma St
-401398907,2022-01-13,2,305,home,FALSE,DePaul,96,Blue Demons,DePaul Blue Demons,DePaul
-401398907,2022-01-13,2,2550,away,FALSE,Seton Hall,92,Pirates,Seton Hall Pirates,Seton Hall
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401371311,2022,regular-season,2022-01-13,2,2250,home,FALSE,Gonzaga,110,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401371311,2022,regular-season,2022-01-13,2,252,away,FALSE,BYU,84,Cougars,BYU Cougars,BYU
+401377410,2022,regular-season,2022-01-13,3,26,home,FALSE,UCLA,81,Bruins,UCLA Bruins,UCLA
+401377410,2022,regular-season,2022-01-13,3,2483,away,FALSE,Oregon,84,Ducks,Oregon Ducks,Oregon
+401377412,2022,regular-season,2022-01-13,2,30,home,FALSE,USC,81,Trojans,USC Trojans,USC
+401377412,2022,regular-season,2022-01-13,2,204,away,FALSE,Oregon State,71,Beavers,Oregon State Beavers,Oregon St
+401377411,2022,regular-season,2022-01-13,2,12,home,FALSE,Arizona,76,Wildcats,Arizona Wildcats,Arizona
+401377411,2022,regular-season,2022-01-13,2,38,away,FALSE,Colorado,55,Buffaloes,Colorado Buffaloes,Colorado
+401364379,2022,regular-season,2022-01-13,2,275,home,FALSE,Wisconsin,78,Badgers,Wisconsin Badgers,Wisconsin
+401364379,2022,regular-season,2022-01-13,2,194,away,FALSE,Ohio State,68,Buckeyes,Ohio State Buckeyes,Ohio State
+401398458,2022,regular-season,2022-01-13,2,2641,home,FALSE,Texas Tech,78,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401398458,2022,regular-season,2022-01-13,2,197,away,FALSE,Oklahoma State,57,Cowboys,Oklahoma State Cowboys,Oklahoma St
+401398907,2022,regular-season,2022-01-13,2,305,home,FALSE,DePaul,96,Blue Demons,DePaul Blue Demons,DePaul
+401398907,2022,regular-season,2022-01-13,2,2550,away,FALSE,Seton Hall,92,Pirates,Seton Hall Pirates,Seton Hall

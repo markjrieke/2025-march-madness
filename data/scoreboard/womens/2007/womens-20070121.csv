@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270210153,2007-01-21,2,153,home,FALSE,North Carolina,86,Tar Heels,North Carolina Tar Heels,North Carolina
-270210153,2007-01-21,2,152,away,FALSE,NC State,65,Wolfpack,NC State Wolfpack,NC State
-270210120,2007-01-21,2,120,home,FALSE,Maryland,83,Terrapins,Maryland Terrapins,Maryland
-270210120,2007-01-21,2,154,away,FALSE,Wake Forest,60,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-270210194,2007-01-21,2,194,home,FALSE,Ohio State,62,Buckeyes,Ohio State Buckeyes,Ohio State
-270210194,2007-01-21,2,356,away,FALSE,Illinois,52,Fighting Illini,Illinois Fighting Illini,Illinois
-270212599,2007-01-21,2,2599,home,FALSE,St. John's,63,Red Storm,St. John's Red Storm,St John's
-270212599,2007-01-21,2,41,away,FALSE,UConn,84,Huskies,UConn Huskies,UConn
-270210333,2007-01-21,2,333,home,FALSE,Alabama,45,Crimson Tide,Alabama Crimson Tide,Alabama
-270210333,2007-01-21,2,99,away,FALSE,LSU,61,Tigers,LSU Tigers,LSU
-270210009,2007-01-21,2,9,home,FALSE,Arizona State,62,Sun Devils,Arizona State Sun Devils,Arizona St
-270210009,2007-01-21,2,30,away,FALSE,USC,54,Trojans,USC Trojans,USC
-270212752,2007-01-21,2,2752,home,FALSE,Xavier,55,Musketeers,Xavier Musketeers,Xavier
-270212752,2007-01-21,2,45,away,FALSE,George Washington,67,Revolutionaries,George Washington Revolutionaries,G Washington
-270210084,2007-01-21,2,84,home,FALSE,Indiana,58,Hoosiers,Indiana Hoosiers,Indiana
-270210084,2007-01-21,2,2509,away,FALSE,Purdue,81,Boilermakers,Purdue Boilermakers,Purdue
-270210059,2007-01-21,2,59,home,FALSE,Georgia Tech,55,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-270210059,2007-01-21,2,238,away,FALSE,Vanderbilt,72,Commodores,Vanderbilt Commodores,Vanderbilt
-270210097,2007-01-21,2,97,home,FALSE,Louisville,53,Cardinals,Louisville Cardinals,Louisville
-270210097,2007-01-21,2,164,away,FALSE,Rutgers,50,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-270210061,2007-01-21,2,61,home,FALSE,Georgia,70,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-270210061,2007-01-21,2,52,away,FALSE,Florida State,65,Seminoles,Florida State Seminoles,Florida St
-270210251,2007-01-21,2,251,home,FALSE,Texas,64,Longhorns,Texas Longhorns,Texas
-270210251,2007-01-21,2,245,away,FALSE,Texas A&M,45,Aggies,Texas A&M Aggies,Texas A&M
-270210127,2007-01-21,2,127,home,FALSE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
-270210127,2007-01-21,2,2294,away,FALSE,Iowa,57,Hawkeyes,Iowa Hawkeyes,Iowa
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270210153,2007,regular-season,2007-01-21,2,153,home,FALSE,North Carolina,86,Tar Heels,North Carolina Tar Heels,North Carolina
+270210153,2007,regular-season,2007-01-21,2,152,away,FALSE,NC State,65,Wolfpack,NC State Wolfpack,NC State
+270210120,2007,regular-season,2007-01-21,2,120,home,FALSE,Maryland,83,Terrapins,Maryland Terrapins,Maryland
+270210120,2007,regular-season,2007-01-21,2,154,away,FALSE,Wake Forest,60,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+270210194,2007,regular-season,2007-01-21,2,194,home,FALSE,Ohio State,62,Buckeyes,Ohio State Buckeyes,Ohio State
+270210194,2007,regular-season,2007-01-21,2,356,away,FALSE,Illinois,52,Fighting Illini,Illinois Fighting Illini,Illinois
+270212599,2007,regular-season,2007-01-21,2,2599,home,FALSE,St. John's,63,Red Storm,St. John's Red Storm,St John's
+270212599,2007,regular-season,2007-01-21,2,41,away,FALSE,UConn,84,Huskies,UConn Huskies,UConn
+270210333,2007,regular-season,2007-01-21,2,333,home,FALSE,Alabama,45,Crimson Tide,Alabama Crimson Tide,Alabama
+270210333,2007,regular-season,2007-01-21,2,99,away,FALSE,LSU,61,Tigers,LSU Tigers,LSU
+270210009,2007,regular-season,2007-01-21,2,9,home,FALSE,Arizona State,62,Sun Devils,Arizona State Sun Devils,Arizona St
+270210009,2007,regular-season,2007-01-21,2,30,away,FALSE,USC,54,Trojans,USC Trojans,USC
+270212752,2007,regular-season,2007-01-21,2,2752,home,FALSE,Xavier,55,Musketeers,Xavier Musketeers,Xavier
+270212752,2007,regular-season,2007-01-21,2,45,away,FALSE,George Washington,67,Revolutionaries,George Washington Revolutionaries,G Washington
+270210084,2007,regular-season,2007-01-21,2,84,home,FALSE,Indiana,58,Hoosiers,Indiana Hoosiers,Indiana
+270210084,2007,regular-season,2007-01-21,2,2509,away,FALSE,Purdue,81,Boilermakers,Purdue Boilermakers,Purdue
+270210059,2007,regular-season,2007-01-21,2,59,home,FALSE,Georgia Tech,55,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+270210059,2007,regular-season,2007-01-21,2,238,away,FALSE,Vanderbilt,72,Commodores,Vanderbilt Commodores,Vanderbilt
+270210097,2007,regular-season,2007-01-21,2,97,home,FALSE,Louisville,53,Cardinals,Louisville Cardinals,Louisville
+270210097,2007,regular-season,2007-01-21,2,164,away,FALSE,Rutgers,50,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+270210061,2007,regular-season,2007-01-21,2,61,home,FALSE,Georgia,70,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+270210061,2007,regular-season,2007-01-21,2,52,away,FALSE,Florida State,65,Seminoles,Florida State Seminoles,Florida St
+270210251,2007,regular-season,2007-01-21,2,251,home,FALSE,Texas,64,Longhorns,Texas Longhorns,Texas
+270210251,2007,regular-season,2007-01-21,2,245,away,FALSE,Texas A&M,45,Aggies,Texas A&M Aggies,Texas A&M
+270210127,2007,regular-season,2007-01-21,2,127,home,FALSE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
+270210127,2007,regular-season,2007-01-21,2,2294,away,FALSE,Iowa,57,Hawkeyes,Iowa Hawkeyes,Iowa

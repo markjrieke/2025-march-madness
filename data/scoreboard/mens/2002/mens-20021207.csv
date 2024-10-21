@@ -1,35 +1,35 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-223410021,2002-12-07,2,21,home,FALSE,San Diego State,81,Aztecs,San Diego State Aztecs,San Diego St
-223410021,2002-12-07,2,12,away,FALSE,Arizona,89,Wildcats,Arizona Wildcats,Arizona
-223410045,2002-12-07,2,45,home,FALSE,George Washington,92,Revolutionaries,George Washington Revolutionaries,G Washington
-223410045,2002-12-07,2,251,away,FALSE,Texas,100,Longhorns,Texas Longhorns,Texas
-223410333,2002-12-07,2,333,home,FALSE,Alabama,77,Crimson Tide,Alabama Crimson Tide,Alabama
-223410333,2002-12-07,2,179,away,FALSE,St. Bonaventure,68,Bonnies,St. Bonaventure Bonnies,St Bonaventure
-223410150,2002-12-07,2,150,home,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
-223410150,2002-12-07,2,130,away,FALSE,Michigan,59,Wolverines,Michigan Wolverines,Michigan
-223410213,2002-12-07,2,213,home,FALSE,Penn State,60,Nittany Lions,Penn State Nittany Lions,Penn State
-223410213,2002-12-07,2,221,away,FALSE,Pittsburgh,82,Panthers,Pittsburgh Panthers,Pitt
-223410201,2002-12-07,2,201,home,FALSE,Oklahoma,92,Sooners,Oklahoma Sooners,Oklahoma
-223410201,2002-12-07,2,42,away,FALSE,Hartford,52,Hawks,Hartford Hawks,Hartford
-223412483,2002-12-07,2,2483,home,FALSE,Oregon,84,Ducks,Oregon Ducks,Oregon
-223412483,2002-12-07,2,2305,away,FALSE,Kansas,78,Jayhawks,Kansas Jayhawks,Kansas
-223410120,2002-12-07,2,120,home,FALSE,Maryland,67,Terrapins,Maryland Terrapins,Maryland
-223410120,2002-12-07,2,87,away,FALSE,Notre Dame,79,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-223410084,2002-12-07,2,84,home,FALSE,Indiana,91,Hoosiers,Indiana Hoosiers,Indiana
-223410084,2002-12-07,2,82,away,FALSE,UIC,62,Flames,UIC Flames,UIC
-223410041,2002-12-07,2,41,home,FALSE,UConn,97,Huskies,UConn Huskies,UConn
-223410041,2002-12-07,2,2681,away,FALSE,Wagner,85,Seahawks,Wagner Seahawks,Wagner
-223410153,2002-12-07,2,153,home,FALSE,North Carolina,81,Tar Heels,North Carolina Tar Heels,North Carolina
-223410153,2002-12-07,2,96,away,FALSE,Kentucky,98,Wildcats,Kentucky Wildcats,Kentucky
-223410269,2002-12-07,2,269,home,FALSE,Marquette,101,Golden Eagles,Marquette Golden Eagles,Marquette
-223410269,2002-12-07,2,2026,away,FALSE,App State,78,Mountaineers,App State Mountaineers,App State
-223410030,2002-12-07,2,30,home,FALSE,USC,72,Trojans,USC Trojans,USC
-223410030,2002-12-07,2,142,away,FALSE,Missouri,78,Tigers,Missouri Tigers,Missouri
-223412132,2002-12-07,2,2132,home,FALSE,Cincinnati,44,Bearcats,Cincinnati Bearcats,Cincinnati
-223412132,2002-12-07,2,2752,away,FALSE,Xavier,50,Musketeers,Xavier Musketeers,Xavier
-223410275,2002-12-07,2,275,home,FALSE,Wisconsin,91,Badgers,Wisconsin Badgers,Wisconsin
-223410275,2002-12-07,2,2439,away,FALSE,UNLV,74,Rebels,UNLV Rebels,UNLV
-223410344,2002-12-07,2,344,home,FALSE,Mississippi State,78,Bulldogs,Mississippi State Bulldogs,Mississippi St
-223410344,2002-12-07,2,2348,away,FALSE,Louisiana Tech,38,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
-223410008,2002-12-07,2,8,home,FALSE,Arkansas,58,Razorbacks,Arkansas Razorbacks,Arkansas
-223410008,2002-12-07,2,356,away,FALSE,Illinois,62,Fighting Illini,Illinois Fighting Illini,Illinois
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+223410021,2003,regular-season,2002-12-07,2,21,home,FALSE,San Diego State,81,Aztecs,San Diego State Aztecs,San Diego St
+223410021,2003,regular-season,2002-12-07,2,12,away,FALSE,Arizona,89,Wildcats,Arizona Wildcats,Arizona
+223410045,2003,regular-season,2002-12-07,2,45,home,FALSE,George Washington,92,Revolutionaries,George Washington Revolutionaries,G Washington
+223410045,2003,regular-season,2002-12-07,2,251,away,FALSE,Texas,100,Longhorns,Texas Longhorns,Texas
+223410333,2003,regular-season,2002-12-07,2,333,home,FALSE,Alabama,77,Crimson Tide,Alabama Crimson Tide,Alabama
+223410333,2003,regular-season,2002-12-07,2,179,away,FALSE,St. Bonaventure,68,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+223410150,2003,regular-season,2002-12-07,2,150,home,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
+223410150,2003,regular-season,2002-12-07,2,130,away,FALSE,Michigan,59,Wolverines,Michigan Wolverines,Michigan
+223410213,2003,regular-season,2002-12-07,2,213,home,FALSE,Penn State,60,Nittany Lions,Penn State Nittany Lions,Penn State
+223410213,2003,regular-season,2002-12-07,2,221,away,FALSE,Pittsburgh,82,Panthers,Pittsburgh Panthers,Pitt
+223410201,2003,regular-season,2002-12-07,2,201,home,FALSE,Oklahoma,92,Sooners,Oklahoma Sooners,Oklahoma
+223410201,2003,regular-season,2002-12-07,2,42,away,FALSE,Hartford,52,Hawks,Hartford Hawks,Hartford
+223412483,2003,regular-season,2002-12-07,2,2483,home,FALSE,Oregon,84,Ducks,Oregon Ducks,Oregon
+223412483,2003,regular-season,2002-12-07,2,2305,away,FALSE,Kansas,78,Jayhawks,Kansas Jayhawks,Kansas
+223410120,2003,regular-season,2002-12-07,2,120,home,FALSE,Maryland,67,Terrapins,Maryland Terrapins,Maryland
+223410120,2003,regular-season,2002-12-07,2,87,away,FALSE,Notre Dame,79,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+223410084,2003,regular-season,2002-12-07,2,84,home,FALSE,Indiana,91,Hoosiers,Indiana Hoosiers,Indiana
+223410084,2003,regular-season,2002-12-07,2,82,away,FALSE,UIC,62,Flames,UIC Flames,UIC
+223410041,2003,regular-season,2002-12-07,2,41,home,FALSE,UConn,97,Huskies,UConn Huskies,UConn
+223410041,2003,regular-season,2002-12-07,2,2681,away,FALSE,Wagner,85,Seahawks,Wagner Seahawks,Wagner
+223410153,2003,regular-season,2002-12-07,2,153,home,FALSE,North Carolina,81,Tar Heels,North Carolina Tar Heels,North Carolina
+223410153,2003,regular-season,2002-12-07,2,96,away,FALSE,Kentucky,98,Wildcats,Kentucky Wildcats,Kentucky
+223410269,2003,regular-season,2002-12-07,2,269,home,FALSE,Marquette,101,Golden Eagles,Marquette Golden Eagles,Marquette
+223410269,2003,regular-season,2002-12-07,2,2026,away,FALSE,App State,78,Mountaineers,App State Mountaineers,App State
+223410030,2003,regular-season,2002-12-07,2,30,home,FALSE,USC,72,Trojans,USC Trojans,USC
+223410030,2003,regular-season,2002-12-07,2,142,away,FALSE,Missouri,78,Tigers,Missouri Tigers,Missouri
+223412132,2003,regular-season,2002-12-07,2,2132,home,FALSE,Cincinnati,44,Bearcats,Cincinnati Bearcats,Cincinnati
+223412132,2003,regular-season,2002-12-07,2,2752,away,FALSE,Xavier,50,Musketeers,Xavier Musketeers,Xavier
+223410275,2003,regular-season,2002-12-07,2,275,home,FALSE,Wisconsin,91,Badgers,Wisconsin Badgers,Wisconsin
+223410275,2003,regular-season,2002-12-07,2,2439,away,FALSE,UNLV,74,Rebels,UNLV Rebels,UNLV
+223410344,2003,regular-season,2002-12-07,2,344,home,FALSE,Mississippi State,78,Bulldogs,Mississippi State Bulldogs,Mississippi St
+223410344,2003,regular-season,2002-12-07,2,2348,away,FALSE,Louisiana Tech,38,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
+223410008,2003,regular-season,2002-12-07,2,8,home,FALSE,Arkansas,58,Razorbacks,Arkansas Razorbacks,Arkansas
+223410008,2003,regular-season,2002-12-07,2,356,away,FALSE,Illinois,62,Fighting Illini,Illinois Fighting Illini,Illinois

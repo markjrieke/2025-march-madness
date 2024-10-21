@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303200150,2010-11-16,2,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
-303200150,2010-11-16,2,193,away,FALSE,Miami (OH),45,RedHawks,Miami (OH) RedHawks,Miami OH
-303200127,2010-11-16,2,127,home,FALSE,Michigan State,82,Spartans,Michigan State Spartans,Michigan St
-303200127,2010-11-16,2,2579,away,FALSE,South Carolina,73,Gamecocks,South Carolina Gamecocks,South Carolina
-303202306,2010-11-16,2,2306,home,FALSE,Kansas State,73,Wildcats,Kansas State Wildcats,Kansas St
-303202306,2010-11-16,2,259,away,FALSE,Virginia Tech,57,Hokies,Virginia Tech Hokies,Virginia Tech
-303200057,2010-11-16,2,57,home,FALSE,Florida,75,Gators,Florida Gators,Florida
-303200057,2010-11-16,2,194,away,FALSE,Ohio State,93,Buckeyes,Ohio State Buckeyes,Ohio State
-303200222,2010-11-16,2,222,home,FALSE,Villanova,84,Wildcats,Villanova Wildcats,Villanova
-303200222,2010-11-16,2,2368,away,FALSE,Marist,47,Red Foxes,Marist Red Foxes,Marist
-303200183,2010-11-16,2,183,home,FALSE,Syracuse,66,Orange,Syracuse Orange,Syracuse
-303200183,2010-11-16,2,2174,away,FALSE,Detroit Mercy,55,Titans,Detroit Mercy Titans,Detroit Mercy
-303202250,2010-11-16,2,2250,home,FALSE,Gonzaga,76,Bulldogs,Gonzaga Bulldogs,Gonzaga
-303202250,2010-11-16,2,21,away,FALSE,San Diego State,79,Aztecs,San Diego State Aztecs,San Diego St
-303200097,2010-11-16,2,97,home,FALSE,Louisville,88,Cardinals,Louisville Cardinals,Louisville
-303200097,2010-11-16,2,2086,away,FALSE,Butler,73,Bulldogs,Butler Bulldogs,Butler
-303200239,2010-11-16,2,239,home,FALSE,Baylor,74,Bears,Baylor Bears,Baylor
-303200239,2010-11-16,2,2325,away,FALSE,La Salle,64,Explorers,La Salle Explorers,La Salle
-303200264,2010-11-16,2,264,home,FALSE,Washington,98,Huskies,Washington Huskies,Washington
-303200264,2010-11-16,2,331,away,FALSE,Eastern Washington,72,Eagles,Eastern Washington Eagles,E Washington
-303202633,2010-11-16,2,2633,home,FALSE,Tennessee,85,Volunteers,Tennessee Volunteers,Tennessee
-303202633,2010-11-16,2,2057,away,FALSE,Belmont,76,Bruins,Belmont Bruins,Belmont
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303200150,2011,regular-season,2010-11-16,2,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
+303200150,2011,regular-season,2010-11-16,2,193,away,FALSE,Miami (OH),45,RedHawks,Miami (OH) RedHawks,Miami OH
+303200127,2011,regular-season,2010-11-16,2,127,home,FALSE,Michigan State,82,Spartans,Michigan State Spartans,Michigan St
+303200127,2011,regular-season,2010-11-16,2,2579,away,FALSE,South Carolina,73,Gamecocks,South Carolina Gamecocks,South Carolina
+303202306,2011,regular-season,2010-11-16,2,2306,home,FALSE,Kansas State,73,Wildcats,Kansas State Wildcats,Kansas St
+303202306,2011,regular-season,2010-11-16,2,259,away,FALSE,Virginia Tech,57,Hokies,Virginia Tech Hokies,Virginia Tech
+303200057,2011,regular-season,2010-11-16,2,57,home,FALSE,Florida,75,Gators,Florida Gators,Florida
+303200057,2011,regular-season,2010-11-16,2,194,away,FALSE,Ohio State,93,Buckeyes,Ohio State Buckeyes,Ohio State
+303200222,2011,regular-season,2010-11-16,2,222,home,FALSE,Villanova,84,Wildcats,Villanova Wildcats,Villanova
+303200222,2011,regular-season,2010-11-16,2,2368,away,FALSE,Marist,47,Red Foxes,Marist Red Foxes,Marist
+303200183,2011,regular-season,2010-11-16,2,183,home,FALSE,Syracuse,66,Orange,Syracuse Orange,Syracuse
+303200183,2011,regular-season,2010-11-16,2,2174,away,FALSE,Detroit Mercy,55,Titans,Detroit Mercy Titans,Detroit Mercy
+303202250,2011,regular-season,2010-11-16,2,2250,home,FALSE,Gonzaga,76,Bulldogs,Gonzaga Bulldogs,Gonzaga
+303202250,2011,regular-season,2010-11-16,2,21,away,FALSE,San Diego State,79,Aztecs,San Diego State Aztecs,San Diego St
+303200097,2011,regular-season,2010-11-16,2,97,home,FALSE,Louisville,88,Cardinals,Louisville Cardinals,Louisville
+303200097,2011,regular-season,2010-11-16,2,2086,away,FALSE,Butler,73,Bulldogs,Butler Bulldogs,Butler
+303200239,2011,regular-season,2010-11-16,2,239,home,FALSE,Baylor,74,Bears,Baylor Bears,Baylor
+303200239,2011,regular-season,2010-11-16,2,2325,away,FALSE,La Salle,64,Explorers,La Salle Explorers,La Salle
+303200264,2011,regular-season,2010-11-16,2,264,home,FALSE,Washington,98,Huskies,Washington Huskies,Washington
+303200264,2011,regular-season,2010-11-16,2,331,away,FALSE,Eastern Washington,72,Eagles,Eastern Washington Eagles,E Washington
+303202633,2011,regular-season,2010-11-16,2,2633,home,FALSE,Tennessee,85,Volunteers,Tennessee Volunteers,Tennessee
+303202633,2011,regular-season,2010-11-16,2,2057,away,FALSE,Belmont,76,Bruins,Belmont Bruins,Belmont

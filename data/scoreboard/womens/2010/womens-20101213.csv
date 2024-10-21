@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303470305,2010-12-13,2,305,home,FALSE,DePaul,76,Blue Demons,DePaul Blue Demons,DePaul
-303470305,2010-12-13,2,77,away,FALSE,Northwestern,72,Wildcats,Northwestern Wildcats,Northwestern
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303470305,2011,regular-season,2010-12-13,2,305,home,FALSE,DePaul,76,Blue Demons,DePaul Blue Demons,DePaul
+303470305,2011,regular-season,2010-12-13,2,77,away,FALSE,Northwestern,72,Wildcats,Northwestern Wildcats,Northwestern

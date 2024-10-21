@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401599283,2023-11-14,4,239,home,FALSE,Baylor,84,Bears,Baylor Bears,Baylor
-401599283,2023-11-14,4,254,away,FALSE,Utah,77,Utes,Utah Utes,Utah
-401588176,2023-11-14,4,99,home,FALSE,LSU,109,Tigers,LSU Tigers,LSU
-401588176,2023-11-14,4,2309,away,FALSE,Kent State,79,Golden Flashes,Kent State Golden Flashes,Kent State
-401593650,2023-11-14,4,251,home,FALSE,Texas,110,Longhorns,Texas Longhorns,Texas
-401593650,2023-11-14,4,250,away,FALSE,UT Arlington,64,Mavericks,UT Arlington Mavericks,UT Arlington
-401601165,2023-11-14,4,149,home,FALSE,Montana,49,Lady Griz,Montana Lady Griz,Montana
-401601165,2023-11-14,4,265,away,FALSE,Washington State,61,Cougars,Washington State Cougars,Washington St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401599283,2024,regular-season,2023-11-14,4,239,home,FALSE,Baylor,84,Bears,Baylor Bears,Baylor
+401599283,2024,regular-season,2023-11-14,4,254,away,FALSE,Utah,77,Utes,Utah Utes,Utah
+401588176,2024,regular-season,2023-11-14,4,99,home,FALSE,LSU,109,Tigers,LSU Tigers,LSU
+401588176,2024,regular-season,2023-11-14,4,2309,away,FALSE,Kent State,79,Golden Flashes,Kent State Golden Flashes,Kent State
+401593650,2024,regular-season,2023-11-14,4,251,home,FALSE,Texas,110,Longhorns,Texas Longhorns,Texas
+401593650,2024,regular-season,2023-11-14,4,250,away,FALSE,UT Arlington,64,Mavericks,UT Arlington Mavericks,UT Arlington
+401601165,2024,regular-season,2023-11-14,4,149,home,FALSE,Montana,49,Lady Griz,Montana Lady Griz,Montana
+401601165,2024,regular-season,2023-11-14,4,265,away,FALSE,Washington State,61,Cougars,Washington State Cougars,Washington St

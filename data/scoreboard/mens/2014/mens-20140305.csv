@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400506091,2014-03-05,2,204,home,FALSE,Oregon State,69,Beavers,Oregon State Beavers,Oregon St
-400506091,2014-03-05,2,12,away,FALSE,Arizona,74,Wildcats,Arizona Wildcats,Arizona
-400502894,2014-03-05,2,154,home,FALSE,Wake Forest,82,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-400502894,2014-03-05,2,150,away,FALSE,Duke,72,Blue Devils,Duke Blue Devils,Duke
-400498419,2014-03-05,2,2305,home,FALSE,Kansas,82,Jayhawks,Kansas Jayhawks,Kansas
-400498419,2014-03-05,2,2641,away,FALSE,Texas Tech,57,Red Raiders,Texas Tech Red Raiders,Texas Tech
-400510058,2014-03-05,2,275,home,FALSE,Wisconsin,76,Badgers,Wisconsin Badgers,Wisconsin
-400510058,2014-03-05,2,2509,away,FALSE,Purdue,70,Boilermakers,Purdue Boilermakers,Purdue
-400505630,2014-03-05,2,2439,home,FALSE,UNLV,64,Rebels,UNLV Rebels,UNLV
-400505630,2014-03-05,2,21,away,FALSE,San Diego State,73,Aztecs,San Diego State Aztecs,San Diego St
-400497028,2014-03-05,2,2567,home,FALSE,SMU,71,Mustangs,SMU Mustangs,SMU
-400497028,2014-03-05,2,97,away,FALSE,Louisville,84,Cardinals,Louisville Cardinals,Louisville
-400506021,2014-03-05,2,139,home,FALSE,Saint Louis,67,Billikens,Saint Louis Billikens,Saint Louis
-400506021,2014-03-05,2,2168,away,FALSE,Dayton,72,Flyers,Dayton Flyers,Dayton
-400497027,2014-03-05,2,41,home,FALSE,UConn,69,Huskies,UConn Huskies,UConn
-400497027,2014-03-05,2,164,away,FALSE,Rutgers,63,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400498420,2014-03-05,2,201,home,FALSE,Oklahoma,72,Sooners,Oklahoma Sooners,Oklahoma
-400498420,2014-03-05,2,277,away,FALSE,West Virginia,62,Mountaineers,West Virginia Mountaineers,West Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400506091,2014,regular-season,2014-03-05,2,204,home,FALSE,Oregon State,69,Beavers,Oregon State Beavers,Oregon St
+400506091,2014,regular-season,2014-03-05,2,12,away,FALSE,Arizona,74,Wildcats,Arizona Wildcats,Arizona
+400502894,2014,regular-season,2014-03-05,2,154,home,FALSE,Wake Forest,82,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+400502894,2014,regular-season,2014-03-05,2,150,away,FALSE,Duke,72,Blue Devils,Duke Blue Devils,Duke
+400498419,2014,regular-season,2014-03-05,2,2305,home,FALSE,Kansas,82,Jayhawks,Kansas Jayhawks,Kansas
+400498419,2014,regular-season,2014-03-05,2,2641,away,FALSE,Texas Tech,57,Red Raiders,Texas Tech Red Raiders,Texas Tech
+400510058,2014,regular-season,2014-03-05,2,275,home,FALSE,Wisconsin,76,Badgers,Wisconsin Badgers,Wisconsin
+400510058,2014,regular-season,2014-03-05,2,2509,away,FALSE,Purdue,70,Boilermakers,Purdue Boilermakers,Purdue
+400505630,2014,regular-season,2014-03-05,2,2439,home,FALSE,UNLV,64,Rebels,UNLV Rebels,UNLV
+400505630,2014,regular-season,2014-03-05,2,21,away,FALSE,San Diego State,73,Aztecs,San Diego State Aztecs,San Diego St
+400497028,2014,regular-season,2014-03-05,2,2567,home,FALSE,SMU,71,Mustangs,SMU Mustangs,SMU
+400497028,2014,regular-season,2014-03-05,2,97,away,FALSE,Louisville,84,Cardinals,Louisville Cardinals,Louisville
+400506021,2014,regular-season,2014-03-05,2,139,home,FALSE,Saint Louis,67,Billikens,Saint Louis Billikens,Saint Louis
+400506021,2014,regular-season,2014-03-05,2,2168,away,FALSE,Dayton,72,Flyers,Dayton Flyers,Dayton
+400497027,2014,regular-season,2014-03-05,2,41,home,FALSE,UConn,69,Huskies,UConn Huskies,UConn
+400497027,2014,regular-season,2014-03-05,2,164,away,FALSE,Rutgers,63,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400498420,2014,regular-season,2014-03-05,2,201,home,FALSE,Oklahoma,72,Sooners,Oklahoma Sooners,Oklahoma
+400498420,2014,regular-season,2014-03-05,2,277,away,FALSE,West Virginia,62,Mountaineers,West Virginia Mountaineers,West Virginia

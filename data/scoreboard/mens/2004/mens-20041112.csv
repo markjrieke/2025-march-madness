@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243170183,2004-11-12,2,183,home,FALSE,Syracuse,56,Orange,Syracuse Orange,Syracuse
-243170183,2004-11-12,2,163,away,FALSE,Princeton,45,Tigers,Princeton Tigers,Princeton
-243170003,2004-11-12,2,3,home,FALSE,Birmingham-Southern,48,Panthers,Birmingham-Southern Panthers,Birm-Southern
-243170003,2004-11-12,2,344,away,FALSE,Mississippi State,55,Bulldogs,Mississippi State Bulldogs,Mississippi St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243170183,2005,regular-season,2004-11-12,2,183,home,FALSE,Syracuse,56,Orange,Syracuse Orange,Syracuse
+243170183,2005,regular-season,2004-11-12,2,163,away,FALSE,Princeton,45,Tigers,Princeton Tigers,Princeton
+243170003,2005,regular-season,2004-11-12,2,3,home,FALSE,Birmingham-Southern,48,Panthers,Birmingham-Southern Panthers,Birm-Southern
+243170003,2005,regular-season,2004-11-12,2,344,away,FALSE,Mississippi State,55,Bulldogs,Mississippi State Bulldogs,Mississippi St

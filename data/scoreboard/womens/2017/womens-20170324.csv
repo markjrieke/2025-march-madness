@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400947329,2017-03-24,4,87,home,TRUE,Notre Dame,99,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400947329,2017-03-24,4,194,away,TRUE,Ohio State,76,Buckeyes,Ohio State Buckeyes,Ohio State
-400947447,2017-03-24,4,344,home,TRUE,Mississippi State,75,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400947447,2017-03-24,4,264,away,TRUE,Washington,64,Huskies,Washington Huskies,Washington
-400947448,2017-03-24,4,239,home,TRUE,Baylor,97,Bears,Baylor Bears,Baylor
-400947448,2017-03-24,4,97,away,TRUE,Louisville,63,Cardinals,Louisville Cardinals,Louisville
-400947382,2017-03-24,4,24,home,TRUE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
-400947382,2017-03-24,4,251,away,TRUE,Texas,66,Longhorns,Texas Longhorns,Texas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400947329,2017,post-season,2017-03-24,4,87,home,TRUE,Notre Dame,99,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400947329,2017,post-season,2017-03-24,4,194,away,TRUE,Ohio State,76,Buckeyes,Ohio State Buckeyes,Ohio State
+400947447,2017,post-season,2017-03-24,4,344,home,TRUE,Mississippi State,75,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400947447,2017,post-season,2017-03-24,4,264,away,TRUE,Washington,64,Huskies,Washington Huskies,Washington
+400947448,2017,post-season,2017-03-24,4,239,home,TRUE,Baylor,97,Bears,Baylor Bears,Baylor
+400947448,2017,post-season,2017-03-24,4,97,away,TRUE,Louisville,63,Cardinals,Louisville Cardinals,Louisville
+400947382,2017,post-season,2017-03-24,4,24,home,TRUE,Stanford,77,Cardinal,Stanford Cardinal,Stanford
+400947382,2017,post-season,2017-03-24,4,251,away,TRUE,Texas,66,Longhorns,Texas Longhorns,Texas

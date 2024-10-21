@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401270792,2021-02-20,4,2752,home,FALSE,Xavier,32,Musketeers,Xavier Musketeers,Xavier
-401270792,2021-02-20,4,41,away,FALSE,UConn,83,Huskies,UConn Huskies,UConn
-401264914,2021-02-20,4,120,home,FALSE,Maryland,94,Terrapins,Maryland Terrapins,Maryland
-401264914,2021-02-20,4,135,away,FALSE,Minnesota,62,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401264223,2021-02-20,4,58,home,FALSE,South Florida,78,Bulls,South Florida Bulls,South Florida
-401264223,2021-02-20,4,2655,away,FALSE,Tulane,69,Green Wave,Tulane Green Wave,Tulane
-401254528,2021-02-20,4,301,home,FALSE,San Diego,47,Toreros,San Diego Toreros,San Diego
-401254528,2021-02-20,4,2250,away,FALSE,Gonzaga,69,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401270786,2021-02-20,4,305,home,FALSE,DePaul,72,Blue Demons,DePaul Blue Demons,DePaul
-401270786,2021-02-20,4,156,away,FALSE,Creighton,83,Bluejays,Creighton Bluejays,Creighton
-401254197,2021-02-20,4,277,home,FALSE,West Virginia,81,Mountaineers,West Virginia Mountaineers,West Virginia
-401254197,2021-02-20,4,2628,away,FALSE,TCU,78,Horned Frogs,TCU Horned Frogs,TCU
-401259134,2021-02-20,4,2449,home,FALSE,North Dakota State,60,Bison,North Dakota State Bison,N Dakota St
-401259134,2021-02-20,4,2571,away,FALSE,South Dakota State,69,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-401264915,2021-02-20,4,77,home,FALSE,Northwestern,67,Wildcats,Northwestern Wildcats,Northwestern
-401264915,2021-02-20,4,275,away,FALSE,Wisconsin,54,Badgers,Wisconsin Badgers,Wisconsin
-401267127,2021-02-20,4,2623,home,FALSE,Missouri State,75,Lady Bears,Missouri State Lady Bears,Missouri St
-401267127,2021-02-20,4,71,away,FALSE,Bradley,62,Braves,Bradley Braves,Bradley
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401270792,2021,regular-season,2021-02-20,4,2752,home,FALSE,Xavier,32,Musketeers,Xavier Musketeers,Xavier
+401270792,2021,regular-season,2021-02-20,4,41,away,FALSE,UConn,83,Huskies,UConn Huskies,UConn
+401264914,2021,regular-season,2021-02-20,4,120,home,FALSE,Maryland,94,Terrapins,Maryland Terrapins,Maryland
+401264914,2021,regular-season,2021-02-20,4,135,away,FALSE,Minnesota,62,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401264223,2021,regular-season,2021-02-20,4,58,home,FALSE,South Florida,78,Bulls,South Florida Bulls,South Florida
+401264223,2021,regular-season,2021-02-20,4,2655,away,FALSE,Tulane,69,Green Wave,Tulane Green Wave,Tulane
+401254528,2021,regular-season,2021-02-20,4,301,home,FALSE,San Diego,47,Toreros,San Diego Toreros,San Diego
+401254528,2021,regular-season,2021-02-20,4,2250,away,FALSE,Gonzaga,69,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401270786,2021,regular-season,2021-02-20,4,305,home,FALSE,DePaul,72,Blue Demons,DePaul Blue Demons,DePaul
+401270786,2021,regular-season,2021-02-20,4,156,away,FALSE,Creighton,83,Bluejays,Creighton Bluejays,Creighton
+401254197,2021,regular-season,2021-02-20,4,277,home,FALSE,West Virginia,81,Mountaineers,West Virginia Mountaineers,West Virginia
+401254197,2021,regular-season,2021-02-20,4,2628,away,FALSE,TCU,78,Horned Frogs,TCU Horned Frogs,TCU
+401259134,2021,regular-season,2021-02-20,4,2449,home,FALSE,North Dakota State,60,Bison,North Dakota State Bison,N Dakota St
+401259134,2021,regular-season,2021-02-20,4,2571,away,FALSE,South Dakota State,69,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+401264915,2021,regular-season,2021-02-20,4,77,home,FALSE,Northwestern,67,Wildcats,Northwestern Wildcats,Northwestern
+401264915,2021,regular-season,2021-02-20,4,275,away,FALSE,Wisconsin,54,Badgers,Wisconsin Badgers,Wisconsin
+401267127,2021,regular-season,2021-02-20,4,2623,home,FALSE,Missouri State,75,Lady Bears,Missouri State Lady Bears,Missouri St
+401267127,2021,regular-season,2021-02-20,4,71,away,FALSE,Bradley,62,Braves,Bradley Braves,Bradley

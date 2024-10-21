@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230490046,2003-02-18,2,46,home,FALSE,Georgetown,67,Hoyas,Georgetown Hoyas,Georgetown
-230490046,2003-02-18,2,221,away,FALSE,Pittsburgh,82,Panthers,Pittsburgh Panthers,Pitt
-230490277,2003-02-18,2,277,home,FALSE,West Virginia,55,Mountaineers,West Virginia Mountaineers,West Virginia
-230490277,2003-02-18,2,87,away,FALSE,Notre Dame,56,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-230490183,2003-02-18,2,183,home,FALSE,Syracuse,66,Orange,Syracuse Orange,Syracuse
-230490183,2003-02-18,2,2599,away,FALSE,St. John's,60,Red Storm,St. John's Red Storm,St John's
-230490356,2003-02-18,2,356,home,FALSE,Illinois,70,Fighting Illini,Illinois Fighting Illini,Illinois
-230490356,2003-02-18,2,127,away,FALSE,Michigan State,40,Spartans,Michigan State Spartans,Michigan St
-230490333,2003-02-18,2,333,home,FALSE,Alabama,69,Crimson Tide,Alabama Crimson Tide,Alabama
-230490333,2003-02-18,2,61,away,FALSE,Georgia,74,Bulldogs,Georgia Bulldogs,Georgia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230490046,2003,regular-season,2003-02-18,2,46,home,FALSE,Georgetown,67,Hoyas,Georgetown Hoyas,Georgetown
+230490046,2003,regular-season,2003-02-18,2,221,away,FALSE,Pittsburgh,82,Panthers,Pittsburgh Panthers,Pitt
+230490277,2003,regular-season,2003-02-18,2,277,home,FALSE,West Virginia,55,Mountaineers,West Virginia Mountaineers,West Virginia
+230490277,2003,regular-season,2003-02-18,2,87,away,FALSE,Notre Dame,56,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+230490183,2003,regular-season,2003-02-18,2,183,home,FALSE,Syracuse,66,Orange,Syracuse Orange,Syracuse
+230490183,2003,regular-season,2003-02-18,2,2599,away,FALSE,St. John's,60,Red Storm,St. John's Red Storm,St John's
+230490356,2003,regular-season,2003-02-18,2,356,home,FALSE,Illinois,70,Fighting Illini,Illinois Fighting Illini,Illinois
+230490356,2003,regular-season,2003-02-18,2,127,away,FALSE,Michigan State,40,Spartans,Michigan State Spartans,Michigan St
+230490333,2003,regular-season,2003-02-18,2,333,home,FALSE,Alabama,69,Crimson Tide,Alabama Crimson Tide,Alabama
+230490333,2003,regular-season,2003-02-18,2,61,away,FALSE,Georgia,74,Bulldogs,Georgia Bulldogs,Georgia

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-223440238,2002-12-10,2,238,home,FALSE,Vanderbilt,98,Commodores,Vanderbilt Commodores,Vanderbilt
-223440238,2002-12-10,2,270,away,FALSE,Milwaukee,51,Panthers,Milwaukee Panthers,Milwaukee
-223440213,2002-12-10,2,213,home,FALSE,Penn State,82,Lady Lions,Penn State Lady Lions,Penn State
-223440213,2002-12-10,2,2603,away,FALSE,Saint Joseph's,56,Hawks,Saint Joseph's Hawks,Saint Joseph's
-223440251,2002-12-10,2,251,home,FALSE,Texas,86,Longhorns,Texas Longhorns,Texas
-223440251,2002-12-10,2,2628,away,FALSE,TCU,54,Horned Frogs,TCU Horned Frogs,TCU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+223440238,2003,regular-season,2002-12-10,2,238,home,FALSE,Vanderbilt,98,Commodores,Vanderbilt Commodores,Vanderbilt
+223440238,2003,regular-season,2002-12-10,2,270,away,FALSE,Milwaukee,51,Panthers,Milwaukee Panthers,Milwaukee
+223440213,2003,regular-season,2002-12-10,2,213,home,FALSE,Penn State,82,Lady Lions,Penn State Lady Lions,Penn State
+223440213,2003,regular-season,2002-12-10,2,2603,away,FALSE,Saint Joseph's,56,Hawks,Saint Joseph's Hawks,Saint Joseph's
+223440251,2003,regular-season,2002-12-10,2,251,home,FALSE,Texas,86,Longhorns,Texas Longhorns,Texas
+223440251,2003,regular-season,2002-12-10,2,2628,away,FALSE,TCU,54,Horned Frogs,TCU Horned Frogs,TCU

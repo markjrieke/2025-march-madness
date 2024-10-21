@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401528026,2023-03-31,4,259,home,TRUE,Virginia Tech,72,Hokies,Virginia Tech Hokies,Virginia Tech
-401528026,2023-03-31,4,99,away,TRUE,LSU,79,Tigers,LSU Tigers,LSU
-401528027,2023-03-31,4,2579,home,TRUE,South Carolina,73,Gamecocks,South Carolina Gamecocks,South Carolina
-401528027,2023-03-31,4,2294,away,TRUE,Iowa,77,Hawkeyes,Iowa Hawkeyes,Iowa
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401528026,2023,post-season,2023-03-31,4,259,home,TRUE,Virginia Tech,72,Hokies,Virginia Tech Hokies,Virginia Tech
+401528026,2023,post-season,2023-03-31,4,99,away,TRUE,LSU,79,Tigers,LSU Tigers,LSU
+401528027,2023,post-season,2023-03-31,4,2579,home,TRUE,South Carolina,73,Gamecocks,South Carolina Gamecocks,South Carolina
+401528027,2023,post-season,2023-03-31,4,2294,away,TRUE,Iowa,77,Hawkeyes,Iowa Hawkeyes,Iowa

@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330712065,2013-03-12,2,2065,home,TRUE,Bethune-Cookman,89,Wildcats,Bethune-Cookman Wildcats,Bethune
-330712065,2013-03-12,2,2154,away,TRUE,Coppin State,78,Eagles,Coppin State Eagles,Coppin St
-330712448,2013-03-12,2,2448,home,TRUE,North Carolina A&T,65,Aggies,North Carolina A&T Aggies,NC A&T
-330712448,2013-03-12,2,50,away,TRUE,Florida A&M,54,Rattlers,Florida A&M Rattlers,Florida A&M
-400449922,2013-03-12,2,6446,home,FALSE,LIU Brooklyn,91,Liu Brooklyn,LIU Brooklyn Liu Brooklyn,Liu Brooklyn
-400449922,2013-03-12,2,116,away,FALSE,Mount St. Mary's,70,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-330712550,2013-03-12,3,2550,home,TRUE,Seton Hall,46,Pirates,Seton Hall Pirates,Seton Hall
-330712550,2013-03-12,3,58,away,TRUE,South Florida,42,Bulls,South Florida Bulls,South Florida
-330712341,2013-03-12,2,112358,home,FALSE,Long Island University,91,Sharks,Long Island University Sharks,Long Island
-330712341,2013-03-12,2,116,away,FALSE,Mount St. Mary's,70,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-330710219,2013-03-12,2,219,home,FALSE,Pennsylvania,58,Quakers,Pennsylvania Quakers,Penn
-330710219,2013-03-12,2,163,away,FALSE,Princeton,71,Tigers,Princeton Tigers,Princeton
-330712751,2013-03-12,2,2751,home,TRUE,Wyoming,85,Cowboys,Wyoming Cowboys,Wyoming
-330712751,2013-03-12,2,2440,away,TRUE,Nevada,81,Wolf Pack,Nevada Wolf Pack,Nevada
-330712674,2013-03-12,2,2674,home,TRUE,Valparaiso,62,Beacons,Valparaiso Beacons,Valparaiso
-330712674,2013-03-12,2,2750,away,TRUE,Wright State,54,Raiders,Wright State Raiders,Wright St
-330712571,2013-03-12,2,2571,home,TRUE,South Dakota State,73,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-330712571,2013-03-12,2,2449,away,TRUE,North Dakota State,67,Bison,North Dakota State Bison,N Dakota St
-330712169,2013-03-12,2,2169,home,TRUE,Delaware State,73,Hornets,Delaware State Hornets,Delaware St
-330712169,2013-03-12,2,47,away,TRUE,Howard,61,Bison,Howard Bison,Howard
-330710326,2013-03-12,2,326,home,TRUE,Texas State,68,Bobcats,Texas State Bobcats,Texas St
-330710326,2013-03-12,2,2547,away,TRUE,Seattle U,56,Redhawks,Seattle U Redhawks,Seattle U
-330710164,2013-03-12,2,164,home,TRUE,Rutgers,76,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-330710164,2013-03-12,2,305,away,TRUE,DePaul,57,Blue Demons,DePaul Blue Demons,DePaul
-330710023,2013-03-12,2,23,home,TRUE,San José State,49,Spartans,San José State Spartans,San José St
-330710023,2013-03-12,2,2636,away,TRUE,UTSA,67,Roadrunners,UTSA Roadrunners,UTSA
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330712065,2013,regular-season,2013-03-12,2,2065,home,TRUE,Bethune-Cookman,89,Wildcats,Bethune-Cookman Wildcats,Bethune
+330712065,2013,regular-season,2013-03-12,2,2154,away,TRUE,Coppin State,78,Eagles,Coppin State Eagles,Coppin St
+330712448,2013,regular-season,2013-03-12,2,2448,home,TRUE,North Carolina A&T,65,Aggies,North Carolina A&T Aggies,NC A&T
+330712448,2013,regular-season,2013-03-12,2,50,away,TRUE,Florida A&M,54,Rattlers,Florida A&M Rattlers,Florida A&M
+400449922,2013,regular-season,2013-03-12,2,6446,home,FALSE,LIU Brooklyn,91,Liu Brooklyn,LIU Brooklyn Liu Brooklyn,Liu Brooklyn
+400449922,2013,regular-season,2013-03-12,2,116,away,FALSE,Mount St. Mary's,70,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+330712550,2013,regular-season,2013-03-12,3,2550,home,TRUE,Seton Hall,46,Pirates,Seton Hall Pirates,Seton Hall
+330712550,2013,regular-season,2013-03-12,3,58,away,TRUE,South Florida,42,Bulls,South Florida Bulls,South Florida
+330712341,2013,regular-season,2013-03-12,2,112358,home,FALSE,Long Island University,91,Sharks,Long Island University Sharks,Long Island
+330712341,2013,regular-season,2013-03-12,2,116,away,FALSE,Mount St. Mary's,70,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+330710219,2013,regular-season,2013-03-12,2,219,home,FALSE,Pennsylvania,58,Quakers,Pennsylvania Quakers,Penn
+330710219,2013,regular-season,2013-03-12,2,163,away,FALSE,Princeton,71,Tigers,Princeton Tigers,Princeton
+330712751,2013,regular-season,2013-03-12,2,2751,home,TRUE,Wyoming,85,Cowboys,Wyoming Cowboys,Wyoming
+330712751,2013,regular-season,2013-03-12,2,2440,away,TRUE,Nevada,81,Wolf Pack,Nevada Wolf Pack,Nevada
+330712674,2013,regular-season,2013-03-12,2,2674,home,TRUE,Valparaiso,62,Beacons,Valparaiso Beacons,Valparaiso
+330712674,2013,regular-season,2013-03-12,2,2750,away,TRUE,Wright State,54,Raiders,Wright State Raiders,Wright St
+330712571,2013,regular-season,2013-03-12,2,2571,home,TRUE,South Dakota State,73,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+330712571,2013,regular-season,2013-03-12,2,2449,away,TRUE,North Dakota State,67,Bison,North Dakota State Bison,N Dakota St
+330712169,2013,regular-season,2013-03-12,2,2169,home,TRUE,Delaware State,73,Hornets,Delaware State Hornets,Delaware St
+330712169,2013,regular-season,2013-03-12,2,47,away,TRUE,Howard,61,Bison,Howard Bison,Howard
+330710326,2013,regular-season,2013-03-12,2,326,home,TRUE,Texas State,68,Bobcats,Texas State Bobcats,Texas St
+330710326,2013,regular-season,2013-03-12,2,2547,away,TRUE,Seattle U,56,Redhawks,Seattle U Redhawks,Seattle U
+330710164,2013,regular-season,2013-03-12,2,164,home,TRUE,Rutgers,76,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+330710164,2013,regular-season,2013-03-12,2,305,away,TRUE,DePaul,57,Blue Demons,DePaul Blue Demons,DePaul
+330710023,2013,regular-season,2013-03-12,2,23,home,TRUE,San José State,49,Spartans,San José State Spartans,San José St
+330710023,2013,regular-season,2013-03-12,2,2636,away,TRUE,UTSA,67,Roadrunners,UTSA Roadrunners,UTSA

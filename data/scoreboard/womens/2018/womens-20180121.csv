@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400994471,2018-01-21,4,2483,home,FALSE,Oregon,75,Ducks,Oregon Ducks,Oregon
-400994471,2018-01-21,4,204,away,FALSE,Oregon State,63,Beavers,Oregon State Beavers,Oregon St
-400987647,2018-01-21,4,142,home,FALSE,Missouri,88,Tigers,Missouri Tigers,Missouri
-400987647,2018-01-21,4,8,away,FALSE,Arkansas,54,Razorbacks,Arkansas Razorbacks,Arkansas
-400994470,2018-01-21,4,26,home,FALSE,UCLA,64,Bruins,UCLA Bruins,UCLA
-400994470,2018-01-21,4,24,away,FALSE,Stanford,53,Cardinal,Stanford Cardinal,Stanford
-400995071,2018-01-21,5,153,home,FALSE,North Carolina,92,Tar Heels,North Carolina Tar Heels,North Carolina
-400995071,2018-01-21,5,150,away,FALSE,Duke,86,Blue Devils,Duke Blue Devils,Duke
-400993634,2018-01-21,4,135,home,FALSE,Minnesota,77,Golden Gophers,Minnesota Golden Gophers,Minnesota
-400993634,2018-01-21,4,2294,away,FALSE,Iowa,72,Hawkeyes,Iowa Hawkeyes,Iowa
-400994468,2018-01-21,4,30,home,FALSE,USC,59,Trojans,USC Trojans,USC
-400994468,2018-01-21,4,25,away,FALSE,California,62,Golden Bears,California Golden Bears,California
-400994469,2018-01-21,4,9,home,FALSE,Arizona State,73,Sun Devils,Arizona State Sun Devils,Arizona St
-400994469,2018-01-21,4,38,away,FALSE,Colorado,59,Buffaloes,Colorado Buffaloes,Colorado
-400993745,2018-01-21,4,164,home,FALSE,Rutgers,42,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400993745,2018-01-21,4,158,away,FALSE,Nebraska,52,Cornhuskers,Nebraska Cornhuskers,Nebraska
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400994471,2018,regular-season,2018-01-21,4,2483,home,FALSE,Oregon,75,Ducks,Oregon Ducks,Oregon
+400994471,2018,regular-season,2018-01-21,4,204,away,FALSE,Oregon State,63,Beavers,Oregon State Beavers,Oregon St
+400987647,2018,regular-season,2018-01-21,4,142,home,FALSE,Missouri,88,Tigers,Missouri Tigers,Missouri
+400987647,2018,regular-season,2018-01-21,4,8,away,FALSE,Arkansas,54,Razorbacks,Arkansas Razorbacks,Arkansas
+400994470,2018,regular-season,2018-01-21,4,26,home,FALSE,UCLA,64,Bruins,UCLA Bruins,UCLA
+400994470,2018,regular-season,2018-01-21,4,24,away,FALSE,Stanford,53,Cardinal,Stanford Cardinal,Stanford
+400995071,2018,regular-season,2018-01-21,5,153,home,FALSE,North Carolina,92,Tar Heels,North Carolina Tar Heels,North Carolina
+400995071,2018,regular-season,2018-01-21,5,150,away,FALSE,Duke,86,Blue Devils,Duke Blue Devils,Duke
+400993634,2018,regular-season,2018-01-21,4,135,home,FALSE,Minnesota,77,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400993634,2018,regular-season,2018-01-21,4,2294,away,FALSE,Iowa,72,Hawkeyes,Iowa Hawkeyes,Iowa
+400994468,2018,regular-season,2018-01-21,4,30,home,FALSE,USC,59,Trojans,USC Trojans,USC
+400994468,2018,regular-season,2018-01-21,4,25,away,FALSE,California,62,Golden Bears,California Golden Bears,California
+400994469,2018,regular-season,2018-01-21,4,9,home,FALSE,Arizona State,73,Sun Devils,Arizona State Sun Devils,Arizona St
+400994469,2018,regular-season,2018-01-21,4,38,away,FALSE,Colorado,59,Buffaloes,Colorado Buffaloes,Colorado
+400993745,2018,regular-season,2018-01-21,4,164,home,FALSE,Rutgers,42,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400993745,2018,regular-season,2018-01-21,4,158,away,FALSE,Nebraska,52,Cornhuskers,Nebraska Cornhuskers,Nebraska

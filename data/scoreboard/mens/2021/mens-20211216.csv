@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401369858,2021-12-16,2,150,home,FALSE,Duke,92,Blue Devils,Duke Blue Devils,Duke
-401369858,2021-12-16,2,2026,away,FALSE,App State,67,Mountaineers,App State Mountaineers,App State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401369858,2022,regular-season,2021-12-16,2,150,home,FALSE,Duke,92,Blue Devils,Duke Blue Devils,Duke
+401369858,2022,regular-season,2021-12-16,2,2026,away,FALSE,App State,67,Mountaineers,App State Mountaineers,App State

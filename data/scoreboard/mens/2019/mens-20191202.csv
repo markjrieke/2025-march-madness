@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401170606,2019-12-02,2,264,home,FALSE,Washington,75,Huskies,Washington Huskies,Washington
-401170606,2019-12-02,2,233,away,FALSE,South Dakota,55,Coyotes,South Dakota Coyotes,South Dakota
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401170606,2020,regular-season,2019-12-02,2,264,home,FALSE,Washington,75,Huskies,Washington Huskies,Washington
+401170606,2020,regular-season,2019-12-02,2,233,away,FALSE,South Dakota,55,Coyotes,South Dakota Coyotes,South Dakota

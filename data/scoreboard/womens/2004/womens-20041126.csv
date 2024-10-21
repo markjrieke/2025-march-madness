@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243310120,2004-11-26,2,120,home,FALSE,Maryland,51,Terrapins,Maryland Terrapins,Maryland
-243310120,2004-11-26,2,99,away,FALSE,LSU,64,Tigers,LSU Tigers,LSU
-243310070,2004-11-26,2,70,home,FALSE,Idaho,55,Vandals,Idaho Vandals,Idaho
-243310070,2004-11-26,2,61,away,FALSE,Georgia,77,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-243310030,2004-11-26,2,30,home,FALSE,USC,56,Trojans,USC Trojans,USC
-243310030,2004-11-26,2,87,away,FALSE,Notre Dame,60,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-243310239,2004-11-26,2,239,home,FALSE,Baylor,84,Bears,Baylor Bears,Baylor
-243310239,2004-11-26,2,2534,away,FALSE,Sam Houston,53,Bearkats,Sam Houston Bearkats,Sam Houston
-243310150,2004-11-26,2,150,home,FALSE,Duke,84,Blue Devils,Duke Blue Devils,Duke
-243310150,2004-11-26,2,2617,away,FALSE,Stephen F. Austin,29,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
-243310127,2004-11-26,2,127,home,FALSE,Michigan State,56,Spartans,Michigan State Spartans,Michigan St
-243310127,2004-11-26,2,254,away,FALSE,Utah,54,Utes,Utah Utes,Utah
-243310238,2004-11-26,2,238,home,FALSE,Vanderbilt,108,Commodores,Vanderbilt Commodores,Vanderbilt
-243310238,2004-11-26,2,227,away,FALSE,Rhode Island,53,Rams,Rhode Island Rams,Rhode Island
-243310357,2004-11-26,2,357,home,FALSE,Texas A&M-Corpus Christi,44,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-243310357,2004-11-26,2,2509,away,FALSE,Purdue,73,Boilermakers,Purdue Boilermakers,Purdue
-243312306,2004-11-26,2,2306,home,FALSE,Kansas State,105,Wildcats,Kansas State Wildcats,Kansas St
-243312306,2004-11-26,2,2287,away,FALSE,Illinois State,61,Redbirds,Illinois State Redbirds,Illinois St
-243310164,2004-11-26,2,204,home,FALSE,Oregon State,53,Beavers,Oregon State Beavers,Oregon St
-243310164,2004-11-26,2,164,away,FALSE,Rutgers,77,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-243310201,2004-11-26,2,201,home,FALSE,Oklahoma,88,Sooners,Oklahoma Sooners,Oklahoma
-243310201,2004-11-26,2,2006,away,FALSE,Akron,40,Zips,Akron Zips,Akron
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243310120,2005,regular-season,2004-11-26,2,120,home,FALSE,Maryland,51,Terrapins,Maryland Terrapins,Maryland
+243310120,2005,regular-season,2004-11-26,2,99,away,FALSE,LSU,64,Tigers,LSU Tigers,LSU
+243310070,2005,regular-season,2004-11-26,2,70,home,FALSE,Idaho,55,Vandals,Idaho Vandals,Idaho
+243310070,2005,regular-season,2004-11-26,2,61,away,FALSE,Georgia,77,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+243310030,2005,regular-season,2004-11-26,2,30,home,FALSE,USC,56,Trojans,USC Trojans,USC
+243310030,2005,regular-season,2004-11-26,2,87,away,FALSE,Notre Dame,60,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+243310239,2005,regular-season,2004-11-26,2,239,home,FALSE,Baylor,84,Bears,Baylor Bears,Baylor
+243310239,2005,regular-season,2004-11-26,2,2534,away,FALSE,Sam Houston,53,Bearkats,Sam Houston Bearkats,Sam Houston
+243310150,2005,regular-season,2004-11-26,2,150,home,FALSE,Duke,84,Blue Devils,Duke Blue Devils,Duke
+243310150,2005,regular-season,2004-11-26,2,2617,away,FALSE,Stephen F. Austin,29,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
+243310127,2005,regular-season,2004-11-26,2,127,home,FALSE,Michigan State,56,Spartans,Michigan State Spartans,Michigan St
+243310127,2005,regular-season,2004-11-26,2,254,away,FALSE,Utah,54,Utes,Utah Utes,Utah
+243310238,2005,regular-season,2004-11-26,2,238,home,FALSE,Vanderbilt,108,Commodores,Vanderbilt Commodores,Vanderbilt
+243310238,2005,regular-season,2004-11-26,2,227,away,FALSE,Rhode Island,53,Rams,Rhode Island Rams,Rhode Island
+243310357,2005,regular-season,2004-11-26,2,357,home,FALSE,Texas A&M-Corpus Christi,44,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+243310357,2005,regular-season,2004-11-26,2,2509,away,FALSE,Purdue,73,Boilermakers,Purdue Boilermakers,Purdue
+243312306,2005,regular-season,2004-11-26,2,2306,home,FALSE,Kansas State,105,Wildcats,Kansas State Wildcats,Kansas St
+243312306,2005,regular-season,2004-11-26,2,2287,away,FALSE,Illinois State,61,Redbirds,Illinois State Redbirds,Illinois St
+243310164,2005,regular-season,2004-11-26,2,204,home,FALSE,Oregon State,53,Beavers,Oregon State Beavers,Oregon St
+243310164,2005,regular-season,2004-11-26,2,164,away,FALSE,Rutgers,77,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+243310201,2005,regular-season,2004-11-26,2,201,home,FALSE,Oklahoma,88,Sooners,Oklahoma Sooners,Oklahoma
+243310201,2005,regular-season,2004-11-26,2,2006,away,FALSE,Akron,40,Zips,Akron Zips,Akron

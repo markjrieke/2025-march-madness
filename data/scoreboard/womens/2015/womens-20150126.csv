@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400595043,2015-01-26,2,2579,home,FALSE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
-400595043,2015-01-26,2,245,away,FALSE,Texas A&M,61,Aggies,Texas A&M Aggies,Texas A&M
-400596702,2015-01-26,3,2294,home,FALSE,Iowa,78,Hawkeyes,Iowa Hawkeyes,Iowa
-400596702,2015-01-26,3,158,away,FALSE,Nebraska,72,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400594933,2015-01-26,2,2,home,FALSE,Auburn,48,Tigers,Auburn Tigers,Auburn
-400594933,2015-01-26,2,344,away,FALSE,Mississippi State,59,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400595848,2015-01-26,2,236,home,FALSE,Chattanooga,49,Mocs,Chattanooga Mocs,Chattanooga
-400595848,2015-01-26,2,2535,away,FALSE,Samford,32,Bulldogs,Samford Bulldogs,Samford
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400595043,2015,regular-season,2015-01-26,2,2579,home,FALSE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
+400595043,2015,regular-season,2015-01-26,2,245,away,FALSE,Texas A&M,61,Aggies,Texas A&M Aggies,Texas A&M
+400596702,2015,regular-season,2015-01-26,3,2294,home,FALSE,Iowa,78,Hawkeyes,Iowa Hawkeyes,Iowa
+400596702,2015,regular-season,2015-01-26,3,158,away,FALSE,Nebraska,72,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400594933,2015,regular-season,2015-01-26,2,2,home,FALSE,Auburn,48,Tigers,Auburn Tigers,Auburn
+400594933,2015,regular-season,2015-01-26,2,344,away,FALSE,Mississippi State,59,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400595848,2015,regular-season,2015-01-26,2,236,home,FALSE,Chattanooga,49,Mocs,Chattanooga Mocs,Chattanooga
+400595848,2015,regular-season,2015-01-26,2,2535,away,FALSE,Samford,32,Bulldogs,Samford Bulldogs,Samford

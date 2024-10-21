@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401263460,2020-12-01,2,275,home,FALSE,Wisconsin,82,Badgers,Wisconsin Badgers,Wisconsin
-401263460,2020-12-01,2,2739,away,FALSE,Green Bay,42,Phoenix,Green Bay Phoenix,Green Bay
-401265819,2020-12-01,2,156,home,FALSE,Creighton,94,Bluejays,Creighton Bluejays,Creighton
-401265819,2020-12-01,2,2437,away,FALSE,Omaha,67,Mavericks,Omaha Mavericks,Omaha
-401260337,2020-12-01,2,258,home,FALSE,Virginia,76,Cavaliers,Virginia Cavaliers,Virginia
-401260337,2020-12-01,2,2598,away,FALSE,St. Francis (PA),51,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401263460,2021,regular-season,2020-12-01,2,275,home,FALSE,Wisconsin,82,Badgers,Wisconsin Badgers,Wisconsin
+401263460,2021,regular-season,2020-12-01,2,2739,away,FALSE,Green Bay,42,Phoenix,Green Bay Phoenix,Green Bay
+401265819,2021,regular-season,2020-12-01,2,156,home,FALSE,Creighton,94,Bluejays,Creighton Bluejays,Creighton
+401265819,2021,regular-season,2020-12-01,2,2437,away,FALSE,Omaha,67,Mavericks,Omaha Mavericks,Omaha
+401260337,2021,regular-season,2020-12-01,2,258,home,FALSE,Virginia,76,Cavaliers,Virginia Cavaliers,Virginia
+401260337,2021,regular-season,2020-12-01,2,2598,away,FALSE,St. Francis (PA),51,Red Flash,St. Francis (PA) Red Flash,St Francis PA

@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263400221,2006-12-06,2,221,home,FALSE,Pittsburgh,73,Panthers,Pittsburgh Panthers,Pitt
-263400221,2006-12-06,2,2184,away,FALSE,Duquesne,56,Dukes,Duquesne Dukes,Duquesne
-263400150,2006-12-06,2,150,home,FALSE,Duke,57,Blue Devils,Duke Blue Devils,Duke
-263400150,2006-12-06,2,107,away,FALSE,Holy Cross,45,Crusaders,Holy Cross Crusaders,Holy Cross
-263400057,2006-12-06,2,57,home,FALSE,Florida,85,Gators,Florida Gators,Florida
-263400057,2006-12-06,2,2507,away,FALSE,Providence,67,Friars,Providence Friars,Providence
-263402086,2006-12-06,2,2086,home,FALSE,Butler,65,Bulldogs,Butler Bulldogs,Butler
-263402086,2006-12-06,2,2050,away,FALSE,Ball State,41,Cardinals,Ball State Cardinals,Ball State
-263402633,2006-12-06,2,2633,home,FALSE,Tennessee,76,Volunteers,Tennessee Volunteers,Tennessee
-263402633,2006-12-06,2,235,away,FALSE,Memphis,58,Tigers,Memphis Tigers,Memphis
-263400041,2006-12-06,2,41,home,FALSE,UConn,81,Huskies,UConn Huskies,UConn
-263400041,2006-12-06,2,111,away,FALSE,Northeastern,53,Huskies,Northeastern Huskies,Northeastern
-263400120,2006-12-06,2,120,home,FALSE,Maryland,79,Terrapins,Maryland Terrapins,Maryland
-263400120,2006-12-06,2,2230,away,FALSE,Fordham,59,Rams,Fordham Rams,Fordham
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263400221,2007,regular-season,2006-12-06,2,221,home,FALSE,Pittsburgh,73,Panthers,Pittsburgh Panthers,Pitt
+263400221,2007,regular-season,2006-12-06,2,2184,away,FALSE,Duquesne,56,Dukes,Duquesne Dukes,Duquesne
+263400150,2007,regular-season,2006-12-06,2,150,home,FALSE,Duke,57,Blue Devils,Duke Blue Devils,Duke
+263400150,2007,regular-season,2006-12-06,2,107,away,FALSE,Holy Cross,45,Crusaders,Holy Cross Crusaders,Holy Cross
+263400057,2007,regular-season,2006-12-06,2,57,home,FALSE,Florida,85,Gators,Florida Gators,Florida
+263400057,2007,regular-season,2006-12-06,2,2507,away,FALSE,Providence,67,Friars,Providence Friars,Providence
+263402086,2007,regular-season,2006-12-06,2,2086,home,FALSE,Butler,65,Bulldogs,Butler Bulldogs,Butler
+263402086,2007,regular-season,2006-12-06,2,2050,away,FALSE,Ball State,41,Cardinals,Ball State Cardinals,Ball State
+263402633,2007,regular-season,2006-12-06,2,2633,home,FALSE,Tennessee,76,Volunteers,Tennessee Volunteers,Tennessee
+263402633,2007,regular-season,2006-12-06,2,235,away,FALSE,Memphis,58,Tigers,Memphis Tigers,Memphis
+263400041,2007,regular-season,2006-12-06,2,41,home,FALSE,UConn,81,Huskies,UConn Huskies,UConn
+263400041,2007,regular-season,2006-12-06,2,111,away,FALSE,Northeastern,53,Huskies,Northeastern Huskies,Northeastern
+263400120,2007,regular-season,2006-12-06,2,120,home,FALSE,Maryland,79,Terrapins,Maryland Terrapins,Maryland
+263400120,2007,regular-season,2006-12-06,2,2230,away,FALSE,Fordham,59,Rams,Fordham Rams,Fordham

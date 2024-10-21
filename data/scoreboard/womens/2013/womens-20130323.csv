@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330820041,2013-03-23,2,41,home,TRUE,UConn,105,Huskies,UConn Huskies,UConn
-330820041,2013-03-23,2,70,away,TRUE,Idaho,37,Vandals,Idaho Vandals,Idaho
-330820025,2013-03-23,2,25,home,TRUE,California,90,Golden Bears,California Golden Bears,California
-330820025,2013-03-23,2,278,away,TRUE,Fresno State,76,Bulldogs,Fresno State Bulldogs,Fresno St
-330820245,2013-03-23,2,245,home,TRUE,Texas A&M,71,Aggies,Texas A&M Aggies,Texas A&M
-330820245,2013-03-23,2,2724,away,TRUE,Wichita State,45,Shockers,Wichita State Shockers,Wichita St
-330822633,2013-03-23,2,2633,home,TRUE,Tennessee,83,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-330822633,2013-03-23,2,198,away,TRUE,Oral Roberts,62,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-330820026,2013-03-23,2,26,home,TRUE,UCLA,66,Bruins,UCLA Bruins,UCLA
-330820026,2013-03-23,2,56,away,TRUE,Stetson,49,Hatters,Stetson Hatters,Stetson
-330820120,2013-03-23,2,120,home,TRUE,Maryland,72,Terrapins,Maryland Terrapins,Maryland
-330820120,2013-03-23,2,2514,away,TRUE,Quinnipiac,52,Bobcats,Quinnipiac Bobcats,Quinnipiac
-330820061,2013-03-23,2,61,home,TRUE,Georgia,70,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-330820061,2013-03-23,2,149,away,TRUE,Montana,50,Lady Griz,Montana Lady Griz,Montana
-330822579,2013-03-23,2,2579,home,TRUE,South Carolina,74,Gamecocks,South Carolina Gamecocks,South Carolina
-330822579,2013-03-23,2,2571,away,TRUE,South Dakota State,52,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-330820038,2013-03-23,2,38,home,TRUE,Colorado,52,Buffaloes,Colorado Buffaloes,Colorado
-330820038,2013-03-23,2,2305,away,TRUE,Kansas,67,Jayhawks,Kansas Jayhawks,Kansas
-330820183,2013-03-23,2,183,home,TRUE,Syracuse,56,Orange,Syracuse Orange,Syracuse
-330820183,2013-03-23,2,156,away,TRUE,Creighton,61,Bluejays,Creighton Bluejays,Creighton
-330820066,2013-03-23,2,66,home,TRUE,Iowa State,72,Cyclones,Iowa State Cyclones,Iowa State
-330820066,2013-03-23,2,2250,away,TRUE,Gonzaga,60,Bulldogs,Gonzaga Bulldogs,Gonzaga
-330820158,2013-03-23,2,158,home,TRUE,Nebraska,73,Cornhuskers,Nebraska Cornhuskers,Nebraska
-330820158,2013-03-23,2,236,away,TRUE,Chattanooga,59,Mocs,Chattanooga Mocs,Chattanooga
-330820238,2013-03-23,2,238,home,TRUE,Vanderbilt,60,Commodores,Vanderbilt Commodores,Vanderbilt
-330820238,2013-03-23,2,2603,away,TRUE,Saint Joseph's,54,Hawks,Saint Joseph's Hawks,Saint Joseph's
-330820201,2013-03-23,2,201,home,TRUE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
-330820201,2013-03-23,2,2117,away,TRUE,Central Michigan,73,Chippewas,Central Michigan Chippewas,C Michigan
-330820127,2013-03-23,2,127,home,TRUE,Michigan State,55,Spartans,Michigan State Spartans,Michigan St
-330820127,2013-03-23,2,2368,away,TRUE,Marist,47,Red Foxes,Marist Red Foxes,Marist
-330822641,2013-03-23,2,2641,home,TRUE,Texas Tech,70,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-330822641,2013-03-23,2,58,away,TRUE,South Florida,71,Bulls,South Florida Bulls,South Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330820041,2013,post-season,2013-03-23,2,41,home,TRUE,UConn,105,Huskies,UConn Huskies,UConn
+330820041,2013,post-season,2013-03-23,2,70,away,TRUE,Idaho,37,Vandals,Idaho Vandals,Idaho
+330820025,2013,post-season,2013-03-23,2,25,home,TRUE,California,90,Golden Bears,California Golden Bears,California
+330820025,2013,post-season,2013-03-23,2,278,away,TRUE,Fresno State,76,Bulldogs,Fresno State Bulldogs,Fresno St
+330820245,2013,post-season,2013-03-23,2,245,home,TRUE,Texas A&M,71,Aggies,Texas A&M Aggies,Texas A&M
+330820245,2013,post-season,2013-03-23,2,2724,away,TRUE,Wichita State,45,Shockers,Wichita State Shockers,Wichita St
+330822633,2013,post-season,2013-03-23,2,2633,home,TRUE,Tennessee,83,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+330822633,2013,post-season,2013-03-23,2,198,away,TRUE,Oral Roberts,62,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+330820026,2013,post-season,2013-03-23,2,26,home,TRUE,UCLA,66,Bruins,UCLA Bruins,UCLA
+330820026,2013,post-season,2013-03-23,2,56,away,TRUE,Stetson,49,Hatters,Stetson Hatters,Stetson
+330820120,2013,post-season,2013-03-23,2,120,home,TRUE,Maryland,72,Terrapins,Maryland Terrapins,Maryland
+330820120,2013,post-season,2013-03-23,2,2514,away,TRUE,Quinnipiac,52,Bobcats,Quinnipiac Bobcats,Quinnipiac
+330820061,2013,post-season,2013-03-23,2,61,home,TRUE,Georgia,70,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+330820061,2013,post-season,2013-03-23,2,149,away,TRUE,Montana,50,Lady Griz,Montana Lady Griz,Montana
+330822579,2013,post-season,2013-03-23,2,2579,home,TRUE,South Carolina,74,Gamecocks,South Carolina Gamecocks,South Carolina
+330822579,2013,post-season,2013-03-23,2,2571,away,TRUE,South Dakota State,52,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+330820038,2013,post-season,2013-03-23,2,38,home,TRUE,Colorado,52,Buffaloes,Colorado Buffaloes,Colorado
+330820038,2013,post-season,2013-03-23,2,2305,away,TRUE,Kansas,67,Jayhawks,Kansas Jayhawks,Kansas
+330820183,2013,post-season,2013-03-23,2,183,home,TRUE,Syracuse,56,Orange,Syracuse Orange,Syracuse
+330820183,2013,post-season,2013-03-23,2,156,away,TRUE,Creighton,61,Bluejays,Creighton Bluejays,Creighton
+330820066,2013,post-season,2013-03-23,2,66,home,TRUE,Iowa State,72,Cyclones,Iowa State Cyclones,Iowa State
+330820066,2013,post-season,2013-03-23,2,2250,away,TRUE,Gonzaga,60,Bulldogs,Gonzaga Bulldogs,Gonzaga
+330820158,2013,post-season,2013-03-23,2,158,home,TRUE,Nebraska,73,Cornhuskers,Nebraska Cornhuskers,Nebraska
+330820158,2013,post-season,2013-03-23,2,236,away,TRUE,Chattanooga,59,Mocs,Chattanooga Mocs,Chattanooga
+330820238,2013,post-season,2013-03-23,2,238,home,TRUE,Vanderbilt,60,Commodores,Vanderbilt Commodores,Vanderbilt
+330820238,2013,post-season,2013-03-23,2,2603,away,TRUE,Saint Joseph's,54,Hawks,Saint Joseph's Hawks,Saint Joseph's
+330820201,2013,post-season,2013-03-23,2,201,home,TRUE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
+330820201,2013,post-season,2013-03-23,2,2117,away,TRUE,Central Michigan,73,Chippewas,Central Michigan Chippewas,C Michigan
+330820127,2013,post-season,2013-03-23,2,127,home,TRUE,Michigan State,55,Spartans,Michigan State Spartans,Michigan St
+330820127,2013,post-season,2013-03-23,2,2368,away,TRUE,Marist,47,Red Foxes,Marist Red Foxes,Marist
+330822641,2013,post-season,2013-03-23,2,2641,home,TRUE,Texas Tech,70,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+330822641,2013,post-season,2013-03-23,2,58,away,TRUE,South Florida,71,Bulls,South Florida Bulls,South Florida

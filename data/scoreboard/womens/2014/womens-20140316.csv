@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400546815,2014-03-16,2,256,home,TRUE,James Madison,70,Dukes,James Madison Dukes,James Madison
-400546815,2014-03-16,2,48,away,TRUE,Delaware,45,Blue Hens,Delaware Blue Hens,Delaware
-400546816,2014-03-16,2,2617,home,TRUE,Stephen F. Austin,44,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
-400546816,2014-03-16,2,2466,away,TRUE,Northwestern State,62,Lady Demons,Northwestern State Lady Demons,N'Western St
-400546619,2014-03-16,2,2739,home,FALSE,Green Bay,69,Phoenix,Green Bay Phoenix,Green Bay
-400546619,2014-03-16,2,2750,away,FALSE,Wright State,88,Raiders,Wright State Raiders,Wright St
-400546814,2014-03-16,3,526,home,FALSE,Florida Gulf Coast,72,Eagles,Florida Gulf Coast Eagles,FGCU
-400546814,2014-03-16,3,56,away,FALSE,Stetson,70,Hatters,Stetson Hatters,Stetson
-400545814,2014-03-16,2,2523,home,FALSE,Robert Morris,78,Colonials,Robert Morris Colonials,Robert Morris
-400545814,2014-03-16,2,2598,away,FALSE,St. Francis (PA),64,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-400546821,2014-03-16,2,2724,home,TRUE,Wichita State,73,Shockers,Wichita State Shockers,Wichita St
-400546821,2014-03-16,2,2181,away,TRUE,Drake,49,Bulldogs,Drake Bulldogs,Drake
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400546815,2014,regular-season,2014-03-16,2,256,home,TRUE,James Madison,70,Dukes,James Madison Dukes,James Madison
+400546815,2014,regular-season,2014-03-16,2,48,away,TRUE,Delaware,45,Blue Hens,Delaware Blue Hens,Delaware
+400546816,2014,regular-season,2014-03-16,2,2617,home,TRUE,Stephen F. Austin,44,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
+400546816,2014,regular-season,2014-03-16,2,2466,away,TRUE,Northwestern State,62,Lady Demons,Northwestern State Lady Demons,N'Western St
+400546619,2014,regular-season,2014-03-16,2,2739,home,FALSE,Green Bay,69,Phoenix,Green Bay Phoenix,Green Bay
+400546619,2014,regular-season,2014-03-16,2,2750,away,FALSE,Wright State,88,Raiders,Wright State Raiders,Wright St
+400546814,2014,regular-season,2014-03-16,3,526,home,FALSE,Florida Gulf Coast,72,Eagles,Florida Gulf Coast Eagles,FGCU
+400546814,2014,regular-season,2014-03-16,3,56,away,FALSE,Stetson,70,Hatters,Stetson Hatters,Stetson
+400545814,2014,regular-season,2014-03-16,2,2523,home,FALSE,Robert Morris,78,Colonials,Robert Morris Colonials,Robert Morris
+400545814,2014,regular-season,2014-03-16,2,2598,away,FALSE,St. Francis (PA),64,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+400546821,2014,regular-season,2014-03-16,2,2724,home,TRUE,Wichita State,73,Shockers,Wichita State Shockers,Wichita St
+400546821,2014,regular-season,2014-03-16,2,2181,away,TRUE,Drake,49,Bulldogs,Drake Bulldogs,Drake

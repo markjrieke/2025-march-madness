@@ -1,63 +1,63 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401524195,2023-03-06,4,2837,home,TRUE,Texas A&M-Commerce,79,Lions,Texas A&M-Commerce Lions,Texas A&M-Comm
-401524195,2023-03-06,4,2466,away,TRUE,Northwestern State,66,Lady Demons,Northwestern State Lady Demons,N'Western St
-401513570,2023-03-06,4,2739,home,TRUE,Green Bay,69,Phoenix,Green Bay Phoenix,Green Bay
-401513570,2023-03-06,4,2870,away,TRUE,Purdue Fort Wayne,65,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-401513708,2023-03-06,4,2571,home,TRUE,South Dakota State,87,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-401513708,2023-03-06,4,198,away,TRUE,Oral Roberts,60,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-401524088,2023-03-06,4,331,home,TRUE,Eastern Washington,72,Eagles,Eastern Washington Eagles,E Washington
-401524088,2023-03-06,4,149,away,TRUE,Montana,64,Lady Griz,Montana Lady Griz,Montana
-401516410,2023-03-06,4,2724,home,TRUE,Wichita State,71,Shockers,Wichita State Shockers,Wichita St
-401516410,2023-03-06,4,218,away,TRUE,Temple,61,Owls,Temple Owls,Temple
-401513723,2023-03-06,4,256,home,TRUE,James Madison,81,Dukes,James Madison Dukes,James Madison
-401513723,2023-03-06,4,326,away,TRUE,Texas State,51,Bobcats,Texas State Bobcats,Texas St
-401524196,2023-03-06,5,2377,home,FALSE,McNeese,87,Cowgirls,McNeese Cowgirls,McNeese
-401524196,2023-03-06,5,2443,away,FALSE,New Orleans,82,Privateers,New Orleans Privateers,New Orleans
-401513571,2023-03-06,5,325,home,TRUE,Cleveland State,63,Vikings,Cleveland State Vikings,Cleveland St
-401513571,2023-03-06,5,94,away,TRUE,Northern Kentucky,60,Norse,Northern Kentucky Norse,N Kentucky
-401516458,2023-03-06,4,2439,home,FALSE,UNLV,84,Lady Rebels,UNLV Lady Rebels,UNLV
-401516458,2023-03-06,4,2440,away,FALSE,Nevada,47,Wolf Pack,Nevada Wolf Pack,Nevada
-401513741,2023-03-06,4,2250,home,TRUE,Gonzaga,79,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401513741,2023-03-06,4,252,away,TRUE,BYU,64,Cougars,BYU Cougars,BYU
-401513724,2023-03-06,4,2000,home,TRUE,Abilene Christian,81,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
-401513724,2023-03-06,4,2534,away,TRUE,Sam Houston,82,Bearkats,Sam Houston Bearkats,Sam Houston
-401513709,2023-03-06,4,2437,home,TRUE,Omaha,69,Mavericks,Omaha Mavericks,Omaha
-401513709,2023-03-06,4,140,away,TRUE,Kansas City,60,Roos,Kansas City Roos,Kansas City
-401516411,2023-03-06,4,202,home,TRUE,Tulsa,53,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-401516411,2023-03-06,4,2116,away,TRUE,UCF,69,Knights,UCF Knights,UCF
-401524089,2023-03-06,4,16,home,TRUE,Sacramento State,73,Hornets,Sacramento State Hornets,Sacramento St
-401524089,2023-03-06,4,70,away,TRUE,Idaho,58,Vandals,Idaho Vandals,Idaho
-401516459,2023-03-06,4,167,home,TRUE,New Mexico,68,Lobos,New Mexico Lobos,New Mexico
-401516459,2023-03-06,4,21,away,TRUE,San Diego State,69,Aztecs,San Diego State Aztecs,San Diego St
-401513747,2023-03-06,4,2501,home,TRUE,Portland,75,Pilots,Portland Pilots,Portland
-401513747,2023-03-06,4,279,away,TRUE,Pacific,72,Tigers,Pacific Tigers,Pacific
-401513725,2023-03-06,4,3101,home,TRUE,Utah Tech,72,Trailblazers,Utah Tech Trailblazers,Utah Tech
-401513725,2023-03-06,4,3084,away,TRUE,Utah Valley,68,Wolverines,Utah Valley Wolverines,Utah Valley
-401519458,2023-03-06,4,104,home,FALSE,Boston University,66,Terriers,Boston University Terriers,Boston U
-401519458,2023-03-06,4,2352,away,FALSE,Loyola Maryland,52,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-401519455,2023-03-06,4,2329,home,FALSE,Lehigh,63,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-401519455,2023-03-06,4,2083,away,FALSE,Bucknell,55,Bison,Bucknell Bison,Bucknell
-401516412,2023-03-06,4,2655,home,TRUE,Tulane,61,Green Wave,Tulane Green Wave,Tulane
-401516412,2023-03-06,4,2132,away,TRUE,Cincinnati,52,Bearcats,Cincinnati Bearcats,Cincinnati
-401519456,2023-03-06,4,2142,home,FALSE,Colgate,50,Raiders,Colgate Raiders,Colgate
-401519456,2023-03-06,4,349,away,FALSE,Army,55,Black Knights,Army Black Knights,Army
-401519454,2023-03-06,4,107,home,FALSE,Holy Cross,73,Crusaders,Holy Cross Crusaders,Holy Cross
-401519454,2023-03-06,4,44,away,FALSE,American University,44,Eagles,American University Eagles,American
-401513660,2023-03-06,4,161,home,FALSE,Fairleigh Dickinson,74,Knights,Fairleigh Dickinson Knights,Fair Dickinson
-401513660,2023-03-06,4,2115,away,FALSE,Central Connecticut,48,Blue Devils,Central Connecticut Blue Devils,C Connecticut
-401513659,2023-03-06,4,2529,home,FALSE,Sacred Heart,63,Pioneers,Sacred Heart Pioneers,Sacred Heart
-401513659,2023-03-06,4,112358,away,FALSE,Long Island University,44,Sharks,Long Island University Sharks,Long Island
-401513658,2023-03-06,4,2771,home,FALSE,Merrimack,66,Warriors,Merrimack Warriors,Merrimack
-401513658,2023-03-06,4,2598,away,FALSE,St. Francis (PA),60,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-401513657,2023-03-06,4,2597,home,FALSE,St. Francis Brooklyn,58,Terriers,St. Francis Brooklyn Terriers,St Francis BK
-401513657,2023-03-06,4,2681,away,FALSE,Wagner,51,Seahawks,Wagner Seahawks,Wagner
-401513492,2023-03-06,4,41,home,TRUE,UConn,67,Huskies,UConn Huskies,UConn
-401513492,2023-03-06,4,222,away,TRUE,Villanova,56,Wildcats,Villanova Wildcats,Villanova
-401516460,2023-03-06,4,2751,home,TRUE,Wyoming,72,Cowgirls,Wyoming Cowgirls,Wyoming
-401516460,2023-03-06,4,23,away,TRUE,San José State,57,Spartans,San José State Spartans,San José St
-401513727,2023-03-06,4,166,home,TRUE,New Mexico State,65,Aggies,New Mexico State Aggies,New Mexico St
-401513727,2023-03-06,4,292,away,TRUE,UT Rio Grande Valley,49,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-401516461,2023-03-06,4,36,home,TRUE,Colorado State,59,Rams,Colorado State Rams,Colorado St
-401516461,2023-03-06,4,68,away,TRUE,Boise State,52,Broncos,Boise State Broncos,Boise St
-401513726,2023-03-06,4,250,home,TRUE,UT Arlington,78,Mavericks,UT Arlington Mavericks,UT Arlington
-401513726,2023-03-06,4,2547,away,TRUE,Seattle U,80,Redhawks,Seattle U Redhawks,Seattle U
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401524195,2023,regular-season,2023-03-06,4,2837,home,TRUE,Texas A&M-Commerce,79,Lions,Texas A&M-Commerce Lions,Texas A&M-Comm
+401524195,2023,regular-season,2023-03-06,4,2466,away,TRUE,Northwestern State,66,Lady Demons,Northwestern State Lady Demons,N'Western St
+401513570,2023,regular-season,2023-03-06,4,2739,home,TRUE,Green Bay,69,Phoenix,Green Bay Phoenix,Green Bay
+401513570,2023,regular-season,2023-03-06,4,2870,away,TRUE,Purdue Fort Wayne,65,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+401513708,2023,regular-season,2023-03-06,4,2571,home,TRUE,South Dakota State,87,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+401513708,2023,regular-season,2023-03-06,4,198,away,TRUE,Oral Roberts,60,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+401524088,2023,regular-season,2023-03-06,4,331,home,TRUE,Eastern Washington,72,Eagles,Eastern Washington Eagles,E Washington
+401524088,2023,regular-season,2023-03-06,4,149,away,TRUE,Montana,64,Lady Griz,Montana Lady Griz,Montana
+401516410,2023,regular-season,2023-03-06,4,2724,home,TRUE,Wichita State,71,Shockers,Wichita State Shockers,Wichita St
+401516410,2023,regular-season,2023-03-06,4,218,away,TRUE,Temple,61,Owls,Temple Owls,Temple
+401513723,2023,regular-season,2023-03-06,4,256,home,TRUE,James Madison,81,Dukes,James Madison Dukes,James Madison
+401513723,2023,regular-season,2023-03-06,4,326,away,TRUE,Texas State,51,Bobcats,Texas State Bobcats,Texas St
+401524196,2023,regular-season,2023-03-06,5,2377,home,FALSE,McNeese,87,Cowgirls,McNeese Cowgirls,McNeese
+401524196,2023,regular-season,2023-03-06,5,2443,away,FALSE,New Orleans,82,Privateers,New Orleans Privateers,New Orleans
+401513571,2023,regular-season,2023-03-06,5,325,home,TRUE,Cleveland State,63,Vikings,Cleveland State Vikings,Cleveland St
+401513571,2023,regular-season,2023-03-06,5,94,away,TRUE,Northern Kentucky,60,Norse,Northern Kentucky Norse,N Kentucky
+401516458,2023,regular-season,2023-03-06,4,2439,home,FALSE,UNLV,84,Lady Rebels,UNLV Lady Rebels,UNLV
+401516458,2023,regular-season,2023-03-06,4,2440,away,FALSE,Nevada,47,Wolf Pack,Nevada Wolf Pack,Nevada
+401513741,2023,regular-season,2023-03-06,4,2250,home,TRUE,Gonzaga,79,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401513741,2023,regular-season,2023-03-06,4,252,away,TRUE,BYU,64,Cougars,BYU Cougars,BYU
+401513724,2023,regular-season,2023-03-06,4,2000,home,TRUE,Abilene Christian,81,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
+401513724,2023,regular-season,2023-03-06,4,2534,away,TRUE,Sam Houston,82,Bearkats,Sam Houston Bearkats,Sam Houston
+401513709,2023,regular-season,2023-03-06,4,2437,home,TRUE,Omaha,69,Mavericks,Omaha Mavericks,Omaha
+401513709,2023,regular-season,2023-03-06,4,140,away,TRUE,Kansas City,60,Roos,Kansas City Roos,Kansas City
+401516411,2023,regular-season,2023-03-06,4,202,home,TRUE,Tulsa,53,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+401516411,2023,regular-season,2023-03-06,4,2116,away,TRUE,UCF,69,Knights,UCF Knights,UCF
+401524089,2023,regular-season,2023-03-06,4,16,home,TRUE,Sacramento State,73,Hornets,Sacramento State Hornets,Sacramento St
+401524089,2023,regular-season,2023-03-06,4,70,away,TRUE,Idaho,58,Vandals,Idaho Vandals,Idaho
+401516459,2023,regular-season,2023-03-06,4,167,home,TRUE,New Mexico,68,Lobos,New Mexico Lobos,New Mexico
+401516459,2023,regular-season,2023-03-06,4,21,away,TRUE,San Diego State,69,Aztecs,San Diego State Aztecs,San Diego St
+401513747,2023,regular-season,2023-03-06,4,2501,home,TRUE,Portland,75,Pilots,Portland Pilots,Portland
+401513747,2023,regular-season,2023-03-06,4,279,away,TRUE,Pacific,72,Tigers,Pacific Tigers,Pacific
+401513725,2023,regular-season,2023-03-06,4,3101,home,TRUE,Utah Tech,72,Trailblazers,Utah Tech Trailblazers,Utah Tech
+401513725,2023,regular-season,2023-03-06,4,3084,away,TRUE,Utah Valley,68,Wolverines,Utah Valley Wolverines,Utah Valley
+401519458,2023,regular-season,2023-03-06,4,104,home,FALSE,Boston University,66,Terriers,Boston University Terriers,Boston U
+401519458,2023,regular-season,2023-03-06,4,2352,away,FALSE,Loyola Maryland,52,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+401519455,2023,regular-season,2023-03-06,4,2329,home,FALSE,Lehigh,63,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+401519455,2023,regular-season,2023-03-06,4,2083,away,FALSE,Bucknell,55,Bison,Bucknell Bison,Bucknell
+401516412,2023,regular-season,2023-03-06,4,2655,home,TRUE,Tulane,61,Green Wave,Tulane Green Wave,Tulane
+401516412,2023,regular-season,2023-03-06,4,2132,away,TRUE,Cincinnati,52,Bearcats,Cincinnati Bearcats,Cincinnati
+401519456,2023,regular-season,2023-03-06,4,2142,home,FALSE,Colgate,50,Raiders,Colgate Raiders,Colgate
+401519456,2023,regular-season,2023-03-06,4,349,away,FALSE,Army,55,Black Knights,Army Black Knights,Army
+401519454,2023,regular-season,2023-03-06,4,107,home,FALSE,Holy Cross,73,Crusaders,Holy Cross Crusaders,Holy Cross
+401519454,2023,regular-season,2023-03-06,4,44,away,FALSE,American University,44,Eagles,American University Eagles,American
+401513660,2023,regular-season,2023-03-06,4,161,home,FALSE,Fairleigh Dickinson,74,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+401513660,2023,regular-season,2023-03-06,4,2115,away,FALSE,Central Connecticut,48,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+401513659,2023,regular-season,2023-03-06,4,2529,home,FALSE,Sacred Heart,63,Pioneers,Sacred Heart Pioneers,Sacred Heart
+401513659,2023,regular-season,2023-03-06,4,112358,away,FALSE,Long Island University,44,Sharks,Long Island University Sharks,Long Island
+401513658,2023,regular-season,2023-03-06,4,2771,home,FALSE,Merrimack,66,Warriors,Merrimack Warriors,Merrimack
+401513658,2023,regular-season,2023-03-06,4,2598,away,FALSE,St. Francis (PA),60,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+401513657,2023,regular-season,2023-03-06,4,2597,home,FALSE,St. Francis Brooklyn,58,Terriers,St. Francis Brooklyn Terriers,St Francis BK
+401513657,2023,regular-season,2023-03-06,4,2681,away,FALSE,Wagner,51,Seahawks,Wagner Seahawks,Wagner
+401513492,2023,regular-season,2023-03-06,4,41,home,TRUE,UConn,67,Huskies,UConn Huskies,UConn
+401513492,2023,regular-season,2023-03-06,4,222,away,TRUE,Villanova,56,Wildcats,Villanova Wildcats,Villanova
+401516460,2023,regular-season,2023-03-06,4,2751,home,TRUE,Wyoming,72,Cowgirls,Wyoming Cowgirls,Wyoming
+401516460,2023,regular-season,2023-03-06,4,23,away,TRUE,San José State,57,Spartans,San José State Spartans,San José St
+401513727,2023,regular-season,2023-03-06,4,166,home,TRUE,New Mexico State,65,Aggies,New Mexico State Aggies,New Mexico St
+401513727,2023,regular-season,2023-03-06,4,292,away,TRUE,UT Rio Grande Valley,49,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+401516461,2023,regular-season,2023-03-06,4,36,home,TRUE,Colorado State,59,Rams,Colorado State Rams,Colorado St
+401516461,2023,regular-season,2023-03-06,4,68,away,TRUE,Boise State,52,Broncos,Boise State Broncos,Boise St
+401513726,2023,regular-season,2023-03-06,4,250,home,TRUE,UT Arlington,78,Mavericks,UT Arlington Mavericks,UT Arlington
+401513726,2023,regular-season,2023-03-06,4,2547,away,TRUE,Seattle U,80,Redhawks,Seattle U Redhawks,Seattle U

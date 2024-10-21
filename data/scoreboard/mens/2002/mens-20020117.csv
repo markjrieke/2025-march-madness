@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220170150,2002-01-17,2,150,home,FALSE,Duke,99,Blue Devils,Duke Blue Devils,Duke
-220170150,2002-01-17,2,120,away,FALSE,Maryland,78,Terrapins,Maryland Terrapins,Maryland
-220170009,2002-01-17,2,9,home,FALSE,Arizona State,79,Sun Devils,Arizona State Sun Devils,Arizona St
-220170009,2002-01-17,2,26,away,FALSE,UCLA,82,Bruins,UCLA Bruins,UCLA
-220170012,2002-01-17,2,12,home,FALSE,Arizona,97,Wildcats,Arizona Wildcats,Arizona
-220170012,2002-01-17,2,30,away,FALSE,USC,80,Trojans,USC Trojans,USC
-220170024,2002-01-17,2,24,home,FALSE,Stanford,83,Cardinal,Stanford Cardinal,Stanford
-220170024,2002-01-17,2,265,away,FALSE,Washington State,50,Cougars,Washington State Cougars,Washington St
-220170103,2002-01-17,2,103,home,FALSE,Boston College,57,Eagles,Boston College Eagles,Boston College
-220170103,2002-01-17,2,2599,away,FALSE,St. John's,64,Red Storm,St. John's Red Storm,St John's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220170150,2002,regular-season,2002-01-17,2,150,home,FALSE,Duke,99,Blue Devils,Duke Blue Devils,Duke
+220170150,2002,regular-season,2002-01-17,2,120,away,FALSE,Maryland,78,Terrapins,Maryland Terrapins,Maryland
+220170009,2002,regular-season,2002-01-17,2,9,home,FALSE,Arizona State,79,Sun Devils,Arizona State Sun Devils,Arizona St
+220170009,2002,regular-season,2002-01-17,2,26,away,FALSE,UCLA,82,Bruins,UCLA Bruins,UCLA
+220170012,2002,regular-season,2002-01-17,2,12,home,FALSE,Arizona,97,Wildcats,Arizona Wildcats,Arizona
+220170012,2002,regular-season,2002-01-17,2,30,away,FALSE,USC,80,Trojans,USC Trojans,USC
+220170024,2002,regular-season,2002-01-17,2,24,home,FALSE,Stanford,83,Cardinal,Stanford Cardinal,Stanford
+220170024,2002,regular-season,2002-01-17,2,265,away,FALSE,Washington State,50,Cougars,Washington State Cougars,Washington St
+220170103,2002,regular-season,2002-01-17,2,103,home,FALSE,Boston College,57,Eagles,Boston College Eagles,Boston College
+220170103,2002,regular-season,2002-01-17,2,2599,away,FALSE,St. John's,64,Red Storm,St. John's Red Storm,St John's

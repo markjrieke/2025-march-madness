@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400947148,2017-03-19,4,96,home,TRUE,Kentucky,68,Wildcats,Kentucky Wildcats,Kentucky
-400947148,2017-03-19,4,194,away,TRUE,Ohio State,82,Buckeyes,Ohio State Buckeyes,Ohio State
-400947180,2017-03-19,4,120,home,TRUE,Maryland,83,Terrapins,Maryland Terrapins,Maryland
-400947180,2017-03-19,4,277,away,TRUE,West Virginia,56,Mountaineers,West Virginia Mountaineers,West Virginia
-400947149,2017-03-19,4,344,home,TRUE,Mississippi State,92,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400947149,2017-03-19,4,305,away,TRUE,DePaul,71,Blue Demons,DePaul Blue Demons,DePaul
-400947181,2017-03-19,4,251,home,TRUE,Texas,84,Longhorns,Texas Longhorns,Texas
-400947181,2017-03-19,4,152,away,TRUE,NC State,80,Wolfpack,NC State Wolfpack,NC State
-400947212,2017-03-19,4,2579,home,TRUE,South Carolina,71,Gamecocks,South Carolina Gamecocks,South Carolina
-400947212,2017-03-19,4,9,away,TRUE,Arizona State,68,Sun Devils,Arizona State Sun Devils,Arizona St
-400947214,2017-03-19,4,52,home,TRUE,Florida State,77,Seminoles,Florida State Seminoles,Florida St
-400947214,2017-03-19,4,142,away,TRUE,Missouri,55,Tigers,Missouri Tigers,Missouri
-400947215,2017-03-19,5,87,home,TRUE,Notre Dame,88,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400947215,2017-03-19,5,2509,away,TRUE,Purdue,82,Boilermakers,Purdue Boilermakers,Purdue
-400947213,2017-03-19,4,204,home,TRUE,Oregon State,64,Beavers,Oregon State Beavers,Oregon St
-400947213,2017-03-19,4,156,away,TRUE,Creighton,52,Bluejays,Creighton Bluejays,Creighton
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400947148,2017,post-season,2017-03-19,4,96,home,TRUE,Kentucky,68,Wildcats,Kentucky Wildcats,Kentucky
+400947148,2017,post-season,2017-03-19,4,194,away,TRUE,Ohio State,82,Buckeyes,Ohio State Buckeyes,Ohio State
+400947180,2017,post-season,2017-03-19,4,120,home,TRUE,Maryland,83,Terrapins,Maryland Terrapins,Maryland
+400947180,2017,post-season,2017-03-19,4,277,away,TRUE,West Virginia,56,Mountaineers,West Virginia Mountaineers,West Virginia
+400947149,2017,post-season,2017-03-19,4,344,home,TRUE,Mississippi State,92,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400947149,2017,post-season,2017-03-19,4,305,away,TRUE,DePaul,71,Blue Demons,DePaul Blue Demons,DePaul
+400947181,2017,post-season,2017-03-19,4,251,home,TRUE,Texas,84,Longhorns,Texas Longhorns,Texas
+400947181,2017,post-season,2017-03-19,4,152,away,TRUE,NC State,80,Wolfpack,NC State Wolfpack,NC State
+400947212,2017,post-season,2017-03-19,4,2579,home,TRUE,South Carolina,71,Gamecocks,South Carolina Gamecocks,South Carolina
+400947212,2017,post-season,2017-03-19,4,9,away,TRUE,Arizona State,68,Sun Devils,Arizona State Sun Devils,Arizona St
+400947214,2017,post-season,2017-03-19,4,52,home,TRUE,Florida State,77,Seminoles,Florida State Seminoles,Florida St
+400947214,2017,post-season,2017-03-19,4,142,away,TRUE,Missouri,55,Tigers,Missouri Tigers,Missouri
+400947215,2017,post-season,2017-03-19,5,87,home,TRUE,Notre Dame,88,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400947215,2017,post-season,2017-03-19,5,2509,away,TRUE,Purdue,82,Boilermakers,Purdue Boilermakers,Purdue
+400947213,2017,post-season,2017-03-19,4,204,home,TRUE,Oregon State,64,Beavers,Oregon State Beavers,Oregon St
+400947213,2017,post-season,2017-03-19,4,156,away,TRUE,Creighton,52,Bluejays,Creighton Bluejays,Creighton

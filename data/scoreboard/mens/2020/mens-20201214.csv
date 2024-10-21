@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401254985,2020-12-14,2,156,home,FALSE,Creighton,84,Bluejays,Creighton Bluejays,Creighton
-401254985,2020-12-14,2,269,away,FALSE,Marquette,89,Golden Eagles,Marquette Golden Eagles,Marquette
-401263327,2020-12-14,2,120,home,FALSE,Maryland,60,Terrapins,Maryland Terrapins,Maryland
-401263327,2020-12-14,2,164,away,FALSE,Rutgers,74,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-401254984,2020-12-14,0,222,home,FALSE,Villanova,0,Wildcats,Villanova Wildcats,Villanova
-401254984,2020-12-14,0,305,away,FALSE,DePaul,0,Blue Demons,DePaul Blue Demons,DePaul
-401261644,2020-12-14,0,2250,home,FALSE,Gonzaga,0,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401261644,2020-12-14,0,70,away,FALSE,Idaho,0,Vandals,Idaho Vandals,Idaho
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401254985,2021,regular-season,2020-12-14,2,156,home,FALSE,Creighton,84,Bluejays,Creighton Bluejays,Creighton
+401254985,2021,regular-season,2020-12-14,2,269,away,FALSE,Marquette,89,Golden Eagles,Marquette Golden Eagles,Marquette
+401263327,2021,regular-season,2020-12-14,2,120,home,FALSE,Maryland,60,Terrapins,Maryland Terrapins,Maryland
+401263327,2021,regular-season,2020-12-14,2,164,away,FALSE,Rutgers,74,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401254984,2021,regular-season,2020-12-14,0,222,home,FALSE,Villanova,0,Wildcats,Villanova Wildcats,Villanova
+401254984,2021,regular-season,2020-12-14,0,305,away,FALSE,DePaul,0,Blue Demons,DePaul Blue Demons,DePaul
+401261644,2021,regular-season,2020-12-14,0,2250,home,FALSE,Gonzaga,0,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401261644,2021,regular-season,2020-12-14,0,70,away,FALSE,Idaho,0,Vandals,Idaho Vandals,Idaho

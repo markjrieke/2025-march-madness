@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330390024,2013-02-08,2,24,home,FALSE,Stanford,73,Cardinal,Stanford Cardinal,Stanford
-330390024,2013-02-08,2,12,away,FALSE,Arizona,43,Wildcats,Arizona Wildcats,Arizona
-330390258,2013-02-08,2,258,home,FALSE,Virginia,41,Cavaliers,Virginia Cavaliers,Virginia
-330390258,2013-02-08,2,150,away,FALSE,Duke,62,Blue Devils,Duke Blue Devils,Duke
-330390025,2013-02-08,2,25,home,FALSE,California,66,Golden Bears,California Golden Bears,California
-330390025,2013-02-08,2,9,away,FALSE,Arizona State,53,Sun Devils,Arizona State Sun Devils,Arizona St
-330390154,2013-02-08,2,154,home,FALSE,Wake Forest,63,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-330390154,2013-02-08,2,120,away,FALSE,Maryland,73,Terrapins,Maryland Terrapins,Maryland
-330390264,2013-02-08,2,264,home,FALSE,Washington,61,Huskies,Washington Huskies,Washington
-330390264,2013-02-08,2,26,away,FALSE,UCLA,65,Bruins,UCLA Bruins,UCLA
-330390038,2013-02-08,2,38,home,FALSE,Colorado,61,Buffaloes,Colorado Buffaloes,Colorado
-330390038,2013-02-08,2,204,away,FALSE,Oregon State,47,Beavers,Oregon State Beavers,Oregon St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330390024,2013,regular-season,2013-02-08,2,24,home,FALSE,Stanford,73,Cardinal,Stanford Cardinal,Stanford
+330390024,2013,regular-season,2013-02-08,2,12,away,FALSE,Arizona,43,Wildcats,Arizona Wildcats,Arizona
+330390258,2013,regular-season,2013-02-08,2,258,home,FALSE,Virginia,41,Cavaliers,Virginia Cavaliers,Virginia
+330390258,2013,regular-season,2013-02-08,2,150,away,FALSE,Duke,62,Blue Devils,Duke Blue Devils,Duke
+330390025,2013,regular-season,2013-02-08,2,25,home,FALSE,California,66,Golden Bears,California Golden Bears,California
+330390025,2013,regular-season,2013-02-08,2,9,away,FALSE,Arizona State,53,Sun Devils,Arizona State Sun Devils,Arizona St
+330390154,2013,regular-season,2013-02-08,2,154,home,FALSE,Wake Forest,63,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+330390154,2013,regular-season,2013-02-08,2,120,away,FALSE,Maryland,73,Terrapins,Maryland Terrapins,Maryland
+330390264,2013,regular-season,2013-02-08,2,264,home,FALSE,Washington,61,Huskies,Washington Huskies,Washington
+330390264,2013,regular-season,2013-02-08,2,26,away,FALSE,UCLA,65,Bruins,UCLA Bruins,UCLA
+330390038,2013,regular-season,2013-02-08,2,38,home,FALSE,Colorado,61,Buffaloes,Colorado Buffaloes,Colorado
+330390038,2013,regular-season,2013-02-08,2,204,away,FALSE,Oregon State,47,Beavers,Oregon State Beavers,Oregon St

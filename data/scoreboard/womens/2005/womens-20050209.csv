@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250402507,2005-02-09,2,2507,home,FALSE,Providence,57,Friars,Providence Friars,Providence
-250402507,2005-02-09,2,87,away,FALSE,Notre Dame,75,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-250400201,2005-02-09,2,201,home,FALSE,Oklahoma,72,Sooners,Oklahoma Sooners,Oklahoma
-250400201,2005-02-09,2,239,away,FALSE,Baylor,73,Bears,Baylor Bears,Baylor
-250400041,2005-02-09,2,41,home,FALSE,UConn,80,Huskies,UConn Huskies,UConn
-250400041,2005-02-09,2,103,away,FALSE,Boston College,55,Eagles,Boston College Eagles,Boston College
-250402550,2005-02-09,2,2550,home,FALSE,Seton Hall,40,Pirates,Seton Hall Pirates,Seton Hall
-250402550,2005-02-09,2,164,away,FALSE,Rutgers,67,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-250400251,2005-02-09,2,251,home,FALSE,Texas,83,Longhorns,Texas Longhorns,Texas
-250400251,2005-02-09,2,158,away,FALSE,Nebraska,53,Cornhuskers,Nebraska Cornhuskers,Nebraska
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250402507,2005,regular-season,2005-02-09,2,2507,home,FALSE,Providence,57,Friars,Providence Friars,Providence
+250402507,2005,regular-season,2005-02-09,2,87,away,FALSE,Notre Dame,75,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+250400201,2005,regular-season,2005-02-09,2,201,home,FALSE,Oklahoma,72,Sooners,Oklahoma Sooners,Oklahoma
+250400201,2005,regular-season,2005-02-09,2,239,away,FALSE,Baylor,73,Bears,Baylor Bears,Baylor
+250400041,2005,regular-season,2005-02-09,2,41,home,FALSE,UConn,80,Huskies,UConn Huskies,UConn
+250400041,2005,regular-season,2005-02-09,2,103,away,FALSE,Boston College,55,Eagles,Boston College Eagles,Boston College
+250402550,2005,regular-season,2005-02-09,2,2550,home,FALSE,Seton Hall,40,Pirates,Seton Hall Pirates,Seton Hall
+250402550,2005,regular-season,2005-02-09,2,164,away,FALSE,Rutgers,67,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+250400251,2005,regular-season,2005-02-09,2,251,home,FALSE,Texas,83,Longhorns,Texas Longhorns,Texas
+250400251,2005,regular-season,2005-02-09,2,158,away,FALSE,Nebraska,53,Cornhuskers,Nebraska Cornhuskers,Nebraska

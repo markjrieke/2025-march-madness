@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401575875,2023-11-20,2,2124,home,TRUE,Chaminade,56,Silverswords,Chaminade Silverswords,Chaminade
-401575875,2023-11-20,2,2305,away,TRUE,Kansas,83,Jayhawks,Kansas Jayhawks,Kansas
-401575874,2023-11-20,2,2250,home,TRUE,Gonzaga,63,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401575874,2023-11-20,2,2509,away,TRUE,Purdue,73,Boilermakers,Purdue Boilermakers,Purdue
-401575876,2023-11-20,2,269,home,TRUE,Marquette,71,Golden Eagles,Marquette Golden Eagles,Marquette
-401575876,2023-11-20,2,26,away,TRUE,UCLA,69,Bruins,UCLA Bruins,UCLA
-401601491,2023-11-20,2,251,home,TRUE,Texas,71,Longhorns,Texas Longhorns,Texas
-401601491,2023-11-20,2,41,away,TRUE,UConn,81,Huskies,UConn Huskies,UConn
-401575873,2023-11-20,2,183,home,TRUE,Syracuse,56,Orange,Syracuse Orange,Syracuse
-401575873,2023-11-20,2,2633,away,TRUE,Tennessee,73,Volunteers,Tennessee Volunteers,Tennessee
-401577544,2023-11-20,3,96,home,FALSE,Kentucky,96,Wildcats,Kentucky Wildcats,Kentucky
-401577544,2023-11-20,3,2603,away,FALSE,Saint Joseph's,88,Hawks,Saint Joseph's Hawks,Saint Joseph's
-401593791,2023-11-20,2,257,home,TRUE,Richmond,59,Spiders,Richmond Spiders,Richmond
-401593791,2023-11-20,2,38,away,TRUE,Colorado,64,Buffaloes,Colorado Buffaloes,Colorado
-401575429,2023-11-20,2,258,home,TRUE,Virginia,41,Cavaliers,Virginia Cavaliers,Virginia
-401575429,2023-11-20,2,275,away,TRUE,Wisconsin,65,Badgers,Wisconsin Badgers,Wisconsin
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401575875,2024,regular-season,2023-11-20,2,2124,home,TRUE,Chaminade,56,Silverswords,Chaminade Silverswords,Chaminade
+401575875,2024,regular-season,2023-11-20,2,2305,away,TRUE,Kansas,83,Jayhawks,Kansas Jayhawks,Kansas
+401575874,2024,regular-season,2023-11-20,2,2250,home,TRUE,Gonzaga,63,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401575874,2024,regular-season,2023-11-20,2,2509,away,TRUE,Purdue,73,Boilermakers,Purdue Boilermakers,Purdue
+401575876,2024,regular-season,2023-11-20,2,269,home,TRUE,Marquette,71,Golden Eagles,Marquette Golden Eagles,Marquette
+401575876,2024,regular-season,2023-11-20,2,26,away,TRUE,UCLA,69,Bruins,UCLA Bruins,UCLA
+401601491,2024,regular-season,2023-11-20,2,251,home,TRUE,Texas,71,Longhorns,Texas Longhorns,Texas
+401601491,2024,regular-season,2023-11-20,2,41,away,TRUE,UConn,81,Huskies,UConn Huskies,UConn
+401575873,2024,regular-season,2023-11-20,2,183,home,TRUE,Syracuse,56,Orange,Syracuse Orange,Syracuse
+401575873,2024,regular-season,2023-11-20,2,2633,away,TRUE,Tennessee,73,Volunteers,Tennessee Volunteers,Tennessee
+401577544,2024,regular-season,2023-11-20,3,96,home,FALSE,Kentucky,96,Wildcats,Kentucky Wildcats,Kentucky
+401577544,2024,regular-season,2023-11-20,3,2603,away,FALSE,Saint Joseph's,88,Hawks,Saint Joseph's Hawks,Saint Joseph's
+401593791,2024,regular-season,2023-11-20,2,257,home,TRUE,Richmond,59,Spiders,Richmond Spiders,Richmond
+401593791,2024,regular-season,2023-11-20,2,38,away,TRUE,Colorado,64,Buffaloes,Colorado Buffaloes,Colorado
+401575429,2024,regular-season,2023-11-20,2,258,home,TRUE,Virginia,41,Cavaliers,Virginia Cavaliers,Virginia
+401575429,2024,regular-season,2023-11-20,2,275,away,TRUE,Wisconsin,65,Badgers,Wisconsin Badgers,Wisconsin

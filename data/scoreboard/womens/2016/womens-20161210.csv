@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400911326,2016-12-10,4,305,home,FALSE,DePaul,61,Blue Demons,DePaul Blue Demons,DePaul
-400911326,2016-12-10,4,87,away,FALSE,Notre Dame,75,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400912559,2016-12-10,4,2572,home,FALSE,Southern Miss,50,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-400912559,2016-12-10,4,344,away,FALSE,Mississippi State,72,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400912049,2016-12-10,4,5,home,FALSE,UAB,47,Blazers,UAB Blazers,UAB
-400912049,2016-12-10,4,52,away,FALSE,Florida State,93,Seminoles,Florida State Seminoles,Florida St
-400911112,2016-12-10,4,277,home,FALSE,West Virginia,91,Mountaineers,West Virginia Mountaineers,West Virginia
-400911112,2016-12-10,4,2908,away,FALSE,South Carolina Upstate,33,Spartans,South Carolina Upstate Spartans,SC Upstate
-400912046,2016-12-10,4,183,home,FALSE,Syracuse,109,Orange,Syracuse Orange,Syracuse
-400912046,2016-12-10,4,315,away,FALSE,Niagara,60,Purple Eagles,Niagara Purple Eagles,Niagara
-400913425,2016-12-10,4,204,home,FALSE,Oregon State,77,Beavers,Oregon State Beavers,Oregon St
-400913425,2016-12-10,4,253,away,FALSE,Southern Utah,38,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400911326,2017,regular-season,2016-12-10,4,305,home,FALSE,DePaul,61,Blue Demons,DePaul Blue Demons,DePaul
+400911326,2017,regular-season,2016-12-10,4,87,away,FALSE,Notre Dame,75,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400912559,2017,regular-season,2016-12-10,4,2572,home,FALSE,Southern Miss,50,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+400912559,2017,regular-season,2016-12-10,4,344,away,FALSE,Mississippi State,72,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400912049,2017,regular-season,2016-12-10,4,5,home,FALSE,UAB,47,Blazers,UAB Blazers,UAB
+400912049,2017,regular-season,2016-12-10,4,52,away,FALSE,Florida State,93,Seminoles,Florida State Seminoles,Florida St
+400911112,2017,regular-season,2016-12-10,4,277,home,FALSE,West Virginia,91,Mountaineers,West Virginia Mountaineers,West Virginia
+400911112,2017,regular-season,2016-12-10,4,2908,away,FALSE,South Carolina Upstate,33,Spartans,South Carolina Upstate Spartans,SC Upstate
+400912046,2017,regular-season,2016-12-10,4,183,home,FALSE,Syracuse,109,Orange,Syracuse Orange,Syracuse
+400912046,2017,regular-season,2016-12-10,4,315,away,FALSE,Niagara,60,Purple Eagles,Niagara Purple Eagles,Niagara
+400913425,2017,regular-season,2016-12-10,4,204,home,FALSE,Oregon State,77,Beavers,Oregon State Beavers,Oregon St
+400913425,2017,regular-season,2016-12-10,4,253,away,FALSE,Southern Utah,38,Thunderbirds,Southern Utah Thunderbirds,Southern Utah

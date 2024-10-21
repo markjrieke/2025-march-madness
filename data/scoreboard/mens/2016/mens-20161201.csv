@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400916157,2016-12-01,3,66,home,FALSE,Iowa State,54,Cyclones,Iowa State Cyclones,Iowa State
-400916157,2016-12-01,3,2132,away,FALSE,Cincinnati,55,Bearcats,Cincinnati Bearcats,Cincinnati
-400910781,2016-12-01,2,2579,home,FALSE,South Carolina,68,Gamecocks,South Carolina Gamecocks,South Carolina
-400910781,2016-12-01,2,261,away,FALSE,Vermont,50,Catamounts,Vermont Catamounts,Vermont
-400910637,2016-12-01,2,2454,home,FALSE,North Florida,60,Ospreys,North Florida Ospreys,North Florida
-400910637,2016-12-01,2,57,away,FALSE,Florida,91,Gators,Florida Gators,Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400916157,2017,regular-season,2016-12-01,3,66,home,FALSE,Iowa State,54,Cyclones,Iowa State Cyclones,Iowa State
+400916157,2017,regular-season,2016-12-01,3,2132,away,FALSE,Cincinnati,55,Bearcats,Cincinnati Bearcats,Cincinnati
+400910781,2017,regular-season,2016-12-01,2,2579,home,FALSE,South Carolina,68,Gamecocks,South Carolina Gamecocks,South Carolina
+400910781,2017,regular-season,2016-12-01,2,261,away,FALSE,Vermont,50,Catamounts,Vermont Catamounts,Vermont
+400910637,2017,regular-season,2016-12-01,2,2454,home,FALSE,North Florida,60,Ospreys,North Florida Ospreys,North Florida
+400910637,2017,regular-season,2016-12-01,2,57,away,FALSE,Florida,91,Gators,Florida Gators,Florida

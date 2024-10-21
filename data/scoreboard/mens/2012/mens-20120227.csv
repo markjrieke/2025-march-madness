@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320580197,2012-02-27,2,197,home,FALSE,Oklahoma State,58,Cowboys,Oklahoma State Cowboys,Oklahoma St
-320580197,2012-02-27,2,2305,away,FALSE,Kansas,70,Jayhawks,Kansas Jayhawks,Kansas
-320580239,2012-02-27,2,239,home,FALSE,Baylor,77,Bears,Baylor Bears,Baylor
-320580239,2012-02-27,2,2641,away,FALSE,Texas Tech,48,Red Raiders,Texas Tech Red Raiders,Texas Tech
-320580046,2012-02-27,2,46,home,FALSE,Georgetown,59,Hoyas,Georgetown Hoyas,Georgetown
-320580046,2012-02-27,2,87,away,FALSE,Notre Dame,41,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320580197,2012,regular-season,2012-02-27,2,197,home,FALSE,Oklahoma State,58,Cowboys,Oklahoma State Cowboys,Oklahoma St
+320580197,2012,regular-season,2012-02-27,2,2305,away,FALSE,Kansas,70,Jayhawks,Kansas Jayhawks,Kansas
+320580239,2012,regular-season,2012-02-27,2,239,home,FALSE,Baylor,77,Bears,Baylor Bears,Baylor
+320580239,2012,regular-season,2012-02-27,2,2641,away,FALSE,Texas Tech,48,Red Raiders,Texas Tech Red Raiders,Texas Tech
+320580046,2012,regular-season,2012-02-27,2,46,home,FALSE,Georgetown,59,Hoyas,Georgetown Hoyas,Georgetown
+320580046,2012,regular-season,2012-02-27,2,87,away,FALSE,Notre Dame,41,Fighting Irish,Notre Dame Fighting Irish,Notre Dame

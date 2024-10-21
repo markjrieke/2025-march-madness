@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401263222,2021-02-15,4,2483,home,FALSE,Oregon,61,Ducks,Oregon Ducks,Oregon
-401263222,2021-02-15,4,24,away,FALSE,Stanford,63,Cardinal,Stanford Cardinal,Stanford
-401261378,2021-02-15,4,57,home,FALSE,Florida,80,Gators,Florida Gators,Florida
-401261378,2021-02-15,4,96,away,FALSE,Kentucky,88,Wildcats,Kentucky Wildcats,Kentucky
-401270834,2021-02-15,4,305,home,FALSE,DePaul,82,Blue Demons,DePaul Blue Demons,DePaul
-401270834,2021-02-15,4,2550,away,FALSE,Seton Hall,76,Pirates,Seton Hall Pirates,Seton Hall
-401260541,2021-02-15,0,152,home,FALSE,NC State,0,Wolfpack,NC State Wolfpack,NC State
-401260541,2021-02-15,0,87,away,FALSE,Notre Dame,0,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401263222,2021,regular-season,2021-02-15,4,2483,home,FALSE,Oregon,61,Ducks,Oregon Ducks,Oregon
+401263222,2021,regular-season,2021-02-15,4,24,away,FALSE,Stanford,63,Cardinal,Stanford Cardinal,Stanford
+401261378,2021,regular-season,2021-02-15,4,57,home,FALSE,Florida,80,Gators,Florida Gators,Florida
+401261378,2021,regular-season,2021-02-15,4,96,away,FALSE,Kentucky,88,Wildcats,Kentucky Wildcats,Kentucky
+401270834,2021,regular-season,2021-02-15,4,305,home,FALSE,DePaul,82,Blue Demons,DePaul Blue Demons,DePaul
+401270834,2021,regular-season,2021-02-15,4,2550,away,FALSE,Seton Hall,76,Pirates,Seton Hall Pirates,Seton Hall
+401260541,2021,regular-season,2021-02-15,0,152,home,FALSE,NC State,0,Wolfpack,NC State Wolfpack,NC State
+401260541,2021,regular-season,2021-02-15,0,87,away,FALSE,Notre Dame,0,Fighting Irish,Notre Dame Fighting Irish,Notre Dame

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401091147,2019-02-15,4,2599,home,FALSE,St. John's,81,Red Storm,St. John's Red Storm,St John's
-401091147,2019-02-15,4,269,away,FALSE,Marquette,74,Golden Eagles,Marquette Golden Eagles,Marquette
-401095387,2019-02-15,4,26,home,FALSE,UCLA,51,Bruins,UCLA Bruins,UCLA
-401095387,2019-02-15,4,24,away,FALSE,Stanford,65,Cardinal,Stanford Cardinal,Stanford
-401094291,2019-02-15,4,9,home,FALSE,Arizona State,66,Sun Devils,Arizona State Sun Devils,Arizona St
-401094291,2019-02-15,4,38,away,FALSE,Colorado,49,Buffaloes,Colorado Buffaloes,Colorado
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401091147,2019,regular-season,2019-02-15,4,2599,home,FALSE,St. John's,81,Red Storm,St. John's Red Storm,St John's
+401091147,2019,regular-season,2019-02-15,4,269,away,FALSE,Marquette,74,Golden Eagles,Marquette Golden Eagles,Marquette
+401095387,2019,regular-season,2019-02-15,4,26,home,FALSE,UCLA,51,Bruins,UCLA Bruins,UCLA
+401095387,2019,regular-season,2019-02-15,4,24,away,FALSE,Stanford,65,Cardinal,Stanford Cardinal,Stanford
+401094291,2019,regular-season,2019-02-15,4,9,home,FALSE,Arizona State,66,Sun Devils,Arizona State Sun Devils,Arizona St
+401094291,2019,regular-season,2019-02-15,4,38,away,FALSE,Colorado,49,Buffaloes,Colorado Buffaloes,Colorado

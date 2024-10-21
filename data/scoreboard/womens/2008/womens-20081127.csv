@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-283320025,2008-11-27,2,25,home,TRUE,California,85,Golden Bears,California Golden Bears,California
-283320025,2008-11-27,2,58,away,TRUE,South Florida,55,Bulls,South Florida Bulls,South Florida
-283320239,2008-11-27,2,239,home,TRUE,Baylor,79,Bears,Baylor Bears,Baylor
-283320239,2008-11-27,2,2116,away,TRUE,UCF,67,Knights,UCF Knights,UCF
-283320149,2008-11-27,2,149,home,TRUE,Montana,58,Lady Griz,Montana Lady Griz,Montana
-283320149,2008-11-27,2,120,away,TRUE,Maryland,71,Terrapins,Maryland Terrapins,Maryland
-283320103,2008-11-27,2,103,home,TRUE,Boston College,77,Eagles,Boston College Eagles,Boston College
-283320103,2008-11-27,2,2628,away,TRUE,TCU,68,Horned Frogs,TCU Horned Frogs,TCU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283320025,2009,regular-season,2008-11-27,2,25,home,TRUE,California,85,Golden Bears,California Golden Bears,California
+283320025,2009,regular-season,2008-11-27,2,58,away,TRUE,South Florida,55,Bulls,South Florida Bulls,South Florida
+283320239,2009,regular-season,2008-11-27,2,239,home,TRUE,Baylor,79,Bears,Baylor Bears,Baylor
+283320239,2009,regular-season,2008-11-27,2,2116,away,TRUE,UCF,67,Knights,UCF Knights,UCF
+283320149,2009,regular-season,2008-11-27,2,149,home,TRUE,Montana,58,Lady Griz,Montana Lady Griz,Montana
+283320149,2009,regular-season,2008-11-27,2,120,away,TRUE,Maryland,71,Terrapins,Maryland Terrapins,Maryland
+283320103,2009,regular-season,2008-11-27,2,103,home,TRUE,Boston College,77,Eagles,Boston College Eagles,Boston College
+283320103,2009,regular-season,2008-11-27,2,2628,away,TRUE,TCU,68,Horned Frogs,TCU Horned Frogs,TCU

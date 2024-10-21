@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400834760,2016-01-06,4,41,home,FALSE,UConn,95,Huskies,UConn Huskies,UConn
-400834760,2016-01-06,4,202,away,FALSE,Tulsa,35,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-400832073,2016-01-06,4,251,home,FALSE,Texas,75,Longhorns,Texas Longhorns,Texas
-400832073,2016-01-06,4,66,away,FALSE,Iowa State,54,Cyclones,Iowa State Cyclones,Iowa State
-400832055,2016-01-06,4,2305,home,FALSE,Kansas,40,Jayhawks,Kansas Jayhawks,Kansas
-400832055,2016-01-06,4,239,away,FALSE,Baylor,58,Bears,Baylor Bears,Baylor
-400832356,2016-01-06,4,2628,home,FALSE,TCU,65,Horned Frogs,TCU Horned Frogs,TCU
-400832356,2016-01-06,4,201,away,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400834760,2016,regular-season,2016-01-06,4,41,home,FALSE,UConn,95,Huskies,UConn Huskies,UConn
+400834760,2016,regular-season,2016-01-06,4,202,away,FALSE,Tulsa,35,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+400832073,2016,regular-season,2016-01-06,4,251,home,FALSE,Texas,75,Longhorns,Texas Longhorns,Texas
+400832073,2016,regular-season,2016-01-06,4,66,away,FALSE,Iowa State,54,Cyclones,Iowa State Cyclones,Iowa State
+400832055,2016,regular-season,2016-01-06,4,2305,home,FALSE,Kansas,40,Jayhawks,Kansas Jayhawks,Kansas
+400832055,2016,regular-season,2016-01-06,4,239,away,FALSE,Baylor,58,Bears,Baylor Bears,Baylor
+400832356,2016,regular-season,2016-01-06,4,2628,home,FALSE,TCU,65,Horned Frogs,TCU Horned Frogs,TCU
+400832356,2016,regular-season,2016-01-06,4,201,away,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma

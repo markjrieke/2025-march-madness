@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220360201,2002-02-05,2,201,home,FALSE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma
-220360201,2002-02-05,2,239,away,FALSE,Baylor,60,Bears,Baylor Bears,Baylor
-220360142,2002-02-05,2,142,home,FALSE,Missouri,61,Tigers,Missouri Tigers,Missouri
-220360142,2002-02-05,2,2306,away,FALSE,Kansas State,79,Wildcats,Kansas State Wildcats,Kansas St
-220360259,2002-02-05,2,259,home,FALSE,Virginia Tech,72,Hokies,Virginia Tech Hokies,Virginia Tech
-220360259,2002-02-05,2,2390,away,FALSE,Miami,60,Hurricanes,Miami Hurricanes,Miami
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220360201,2002,regular-season,2002-02-05,2,201,home,FALSE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma
+220360201,2002,regular-season,2002-02-05,2,239,away,FALSE,Baylor,60,Bears,Baylor Bears,Baylor
+220360142,2002,regular-season,2002-02-05,2,142,home,FALSE,Missouri,61,Tigers,Missouri Tigers,Missouri
+220360142,2002,regular-season,2002-02-05,2,2306,away,FALSE,Kansas State,79,Wildcats,Kansas State Wildcats,Kansas St
+220360259,2002,regular-season,2002-02-05,2,259,home,FALSE,Virginia Tech,72,Hokies,Virginia Tech Hokies,Virginia Tech
+220360259,2002,regular-season,2002-02-05,2,2390,away,FALSE,Miami,60,Hurricanes,Miami Hurricanes,Miami

@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313370096,2011-12-03,2,96,home,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
-313370096,2011-12-03,2,153,away,FALSE,North Carolina,72,Tar Heels,North Carolina Tar Heels,North Carolina
-313370194,2011-12-03,2,194,home,FALSE,Ohio State,64,Buckeyes,Ohio State Buckeyes,Ohio State
-313370194,2011-12-03,2,292,away,FALSE,UT Rio Grande Valley,35,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-313370041,2011-12-03,2,41,home,FALSE,UConn,75,Huskies,UConn Huskies,UConn
-313370041,2011-12-03,2,8,away,FALSE,Arkansas,62,Razorbacks,Arkansas Razorbacks,Arkansas
-313370275,2011-12-03,2,275,home,FALSE,Wisconsin,54,Badgers,Wisconsin Badgers,Wisconsin
-313370275,2011-12-03,2,269,away,FALSE,Marquette,61,Golden Eagles,Marquette Golden Eagles,Marquette
-313372752,2011-12-03,2,2752,home,FALSE,Xavier,66,Musketeers,Xavier Musketeers,Xavier
-313372752,2011-12-03,2,2509,away,FALSE,Purdue,63,Boilermakers,Purdue Boilermakers,Purdue
-313370130,2011-12-03,2,130,home,FALSE,Michigan,76,Wolverines,Michigan Wolverines,Michigan
-313370130,2011-12-03,2,66,away,FALSE,Iowa State,66,Cyclones,Iowa State Cyclones,Iowa State
-313372305,2011-12-03,2,2305,home,FALSE,Kansas,70,Jayhawks,Kansas Jayhawks,Kansas
-313372305,2011-12-03,2,58,away,FALSE,South Florida,42,Bulls,South Florida Bulls,South Florida
-313372633,2011-12-03,2,2633,home,FALSE,Tennessee,56,Volunteers,Tennessee Volunteers,Tennessee
-313372633,2011-12-03,2,221,away,FALSE,Pittsburgh,61,Panthers,Pittsburgh Panthers,Pitt
-313370356,2011-12-03,2,356,home,FALSE,Illinois,82,Fighting Illini,Illinois Fighting Illini,Illinois
-313370356,2011-12-03,2,2250,away,FALSE,Gonzaga,75,Bulldogs,Gonzaga Bulldogs,Gonzaga
-313370344,2011-12-03,2,344,home,FALSE,Mississippi State,75,Bulldogs,Mississippi State Bulldogs,Mississippi St
-313370344,2011-12-03,2,277,away,FALSE,West Virginia,62,Mountaineers,West Virginia Mountaineers,West Virginia
-313370235,2011-12-03,2,235,home,FALSE,Memphis,91,Tigers,Memphis Tigers,Memphis
-313370235,2011-12-03,2,2046,away,FALSE,Austin Peay,60,Governors,Austin Peay Governors,Austin Peay
-313370139,2011-12-03,2,139,home,FALSE,Saint Louis,73,Billikens,Saint Louis Billikens,Saint Louis
-313370139,2011-12-03,2,2501,away,FALSE,Portland,53,Pilots,Portland Pilots,Portland
-313370245,2011-12-03,2,245,home,FALSE,Texas A&M,55,Aggies,Texas A&M Aggies,Texas A&M
-313370245,2011-12-03,2,2617,away,FALSE,Stephen F. Austin,42,Lumberjacks,Stephen F. Austin Lumberjacks,SF Austin
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313370096,2012,regular-season,2011-12-03,2,96,home,FALSE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
+313370096,2012,regular-season,2011-12-03,2,153,away,FALSE,North Carolina,72,Tar Heels,North Carolina Tar Heels,North Carolina
+313370194,2012,regular-season,2011-12-03,2,194,home,FALSE,Ohio State,64,Buckeyes,Ohio State Buckeyes,Ohio State
+313370194,2012,regular-season,2011-12-03,2,292,away,FALSE,UT Rio Grande Valley,35,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+313370041,2012,regular-season,2011-12-03,2,41,home,FALSE,UConn,75,Huskies,UConn Huskies,UConn
+313370041,2012,regular-season,2011-12-03,2,8,away,FALSE,Arkansas,62,Razorbacks,Arkansas Razorbacks,Arkansas
+313370275,2012,regular-season,2011-12-03,2,275,home,FALSE,Wisconsin,54,Badgers,Wisconsin Badgers,Wisconsin
+313370275,2012,regular-season,2011-12-03,2,269,away,FALSE,Marquette,61,Golden Eagles,Marquette Golden Eagles,Marquette
+313372752,2012,regular-season,2011-12-03,2,2752,home,FALSE,Xavier,66,Musketeers,Xavier Musketeers,Xavier
+313372752,2012,regular-season,2011-12-03,2,2509,away,FALSE,Purdue,63,Boilermakers,Purdue Boilermakers,Purdue
+313370130,2012,regular-season,2011-12-03,2,130,home,FALSE,Michigan,76,Wolverines,Michigan Wolverines,Michigan
+313370130,2012,regular-season,2011-12-03,2,66,away,FALSE,Iowa State,66,Cyclones,Iowa State Cyclones,Iowa State
+313372305,2012,regular-season,2011-12-03,2,2305,home,FALSE,Kansas,70,Jayhawks,Kansas Jayhawks,Kansas
+313372305,2012,regular-season,2011-12-03,2,58,away,FALSE,South Florida,42,Bulls,South Florida Bulls,South Florida
+313372633,2012,regular-season,2011-12-03,2,2633,home,FALSE,Tennessee,56,Volunteers,Tennessee Volunteers,Tennessee
+313372633,2012,regular-season,2011-12-03,2,221,away,FALSE,Pittsburgh,61,Panthers,Pittsburgh Panthers,Pitt
+313370356,2012,regular-season,2011-12-03,2,356,home,FALSE,Illinois,82,Fighting Illini,Illinois Fighting Illini,Illinois
+313370356,2012,regular-season,2011-12-03,2,2250,away,FALSE,Gonzaga,75,Bulldogs,Gonzaga Bulldogs,Gonzaga
+313370344,2012,regular-season,2011-12-03,2,344,home,FALSE,Mississippi State,75,Bulldogs,Mississippi State Bulldogs,Mississippi St
+313370344,2012,regular-season,2011-12-03,2,277,away,FALSE,West Virginia,62,Mountaineers,West Virginia Mountaineers,West Virginia
+313370235,2012,regular-season,2011-12-03,2,235,home,FALSE,Memphis,91,Tigers,Memphis Tigers,Memphis
+313370235,2012,regular-season,2011-12-03,2,2046,away,FALSE,Austin Peay,60,Governors,Austin Peay Governors,Austin Peay
+313370139,2012,regular-season,2011-12-03,2,139,home,FALSE,Saint Louis,73,Billikens,Saint Louis Billikens,Saint Louis
+313370139,2012,regular-season,2011-12-03,2,2501,away,FALSE,Portland,53,Pilots,Portland Pilots,Portland
+313370245,2012,regular-season,2011-12-03,2,245,home,FALSE,Texas A&M,55,Aggies,Texas A&M Aggies,Texas A&M
+313370245,2012,regular-season,2011-12-03,2,2617,away,FALSE,Stephen F. Austin,42,Lumberjacks,Stephen F. Austin Lumberjacks,SF Austin

@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400546931,2014-03-21,2,150,home,TRUE,Duke,71,Blue Devils,Duke Blue Devils,Duke
-400546931,2014-03-21,2,2382,away,TRUE,Mercer,78,Bears,Mercer Bears,Mercer
-400546902,2014-03-21,2,239,home,TRUE,Baylor,74,Bears,Baylor Bears,Baylor
-400546902,2014-03-21,2,158,away,TRUE,Nebraska,60,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400546919,2014-03-21,2,167,home,TRUE,New Mexico,53,Lobos,New Mexico Lobos,New Mexico
-400546919,2014-03-21,2,24,away,TRUE,Stanford,58,Cardinal,Stanford Cardinal,Stanford
-400546921,2014-03-21,2,12,home,TRUE,Arizona,68,Wildcats,Arizona Wildcats,Arizona
-400546921,2014-03-21,2,2692,away,TRUE,Weber State,59,Wildcats,Weber State Wildcats,Weber St
-400546950,2014-03-21,2,113,home,TRUE,Massachusetts,67,Minutemen,Massachusetts Minutemen,UMass
-400546950,2014-03-21,2,2633,away,TRUE,Tennessee,86,Volunteers,Tennessee Volunteers,Tennessee
-400546926,2014-03-21,2,156,home,TRUE,Creighton,76,Bluejays,Creighton Bluejays,Creighton
-400546926,2014-03-21,2,309,away,TRUE,Louisiana,66,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
-400546918,2014-03-21,2,2305,home,TRUE,Kansas,80,Jayhawks,Kansas Jayhawks,Kansas
-400546918,2014-03-21,2,2198,away,TRUE,Eastern Kentucky,69,Colonels,Eastern Kentucky Colonels,E Kentucky
-400546922,2014-03-21,2,2250,home,TRUE,Gonzaga,85,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400546922,2014-03-21,2,197,away,TRUE,Oklahoma State,77,Cowboys,Oklahoma State Cowboys,Oklahoma St
-400546933,2014-03-21,2,235,home,TRUE,Memphis,71,Tigers,Memphis Tigers,Memphis
-400546933,2014-03-21,2,45,away,TRUE,George Washington,66,Revolutionaries,George Washington Revolutionaries,G Washington
-400546909,2014-03-21,2,153,home,TRUE,North Carolina,79,Tar Heels,North Carolina Tar Heels,North Carolina
-400546909,2014-03-21,2,2507,away,TRUE,Providence,77,Friars,Providence Friars,Providence
-400546948,2014-03-21,2,2724,home,TRUE,Wichita State,64,Shockers,Wichita State Shockers,Wichita St
-400546948,2014-03-21,2,13,away,TRUE,Cal Poly,37,Mustangs,Cal Poly Mustangs,Cal Poly
-400546917,2014-03-21,3,2670,home,TRUE,VCU,75,Rams,VCU Rams,VCU
-400546917,2014-03-21,3,2617,away,TRUE,Stephen F. Austin,77,Lumberjacks,Stephen F. Austin Lumberjacks,SF Austin
-400546932,2014-03-21,2,258,home,TRUE,Virginia,70,Cavaliers,Virginia Cavaliers,Virginia
-400546932,2014-03-21,2,324,away,TRUE,Coastal Carolina,59,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
-400546928,2014-03-21,2,96,home,TRUE,Kentucky,56,Wildcats,Kentucky Wildcats,Kentucky
-400546928,2014-03-21,2,2306,away,TRUE,Kansas State,49,Wildcats,Kansas State Wildcats,Kansas St
-400546937,2014-03-21,2,66,home,TRUE,Iowa State,93,Cyclones,Iowa State Cyclones,Iowa State
-400546937,2014-03-21,2,2428,away,TRUE,North Carolina Central,75,Eagles,North Carolina Central Eagles,NC Central
-400546899,2014-03-21,2,26,home,TRUE,UCLA,76,Bruins,UCLA Bruins,UCLA
-400546899,2014-03-21,2,202,away,TRUE,Tulsa,59,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400546931,2014,post-season,2014-03-21,2,150,home,TRUE,Duke,71,Blue Devils,Duke Blue Devils,Duke
+400546931,2014,post-season,2014-03-21,2,2382,away,TRUE,Mercer,78,Bears,Mercer Bears,Mercer
+400546902,2014,post-season,2014-03-21,2,239,home,TRUE,Baylor,74,Bears,Baylor Bears,Baylor
+400546902,2014,post-season,2014-03-21,2,158,away,TRUE,Nebraska,60,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400546919,2014,post-season,2014-03-21,2,167,home,TRUE,New Mexico,53,Lobos,New Mexico Lobos,New Mexico
+400546919,2014,post-season,2014-03-21,2,24,away,TRUE,Stanford,58,Cardinal,Stanford Cardinal,Stanford
+400546921,2014,post-season,2014-03-21,2,12,home,TRUE,Arizona,68,Wildcats,Arizona Wildcats,Arizona
+400546921,2014,post-season,2014-03-21,2,2692,away,TRUE,Weber State,59,Wildcats,Weber State Wildcats,Weber St
+400546950,2014,post-season,2014-03-21,2,113,home,TRUE,Massachusetts,67,Minutemen,Massachusetts Minutemen,UMass
+400546950,2014,post-season,2014-03-21,2,2633,away,TRUE,Tennessee,86,Volunteers,Tennessee Volunteers,Tennessee
+400546926,2014,post-season,2014-03-21,2,156,home,TRUE,Creighton,76,Bluejays,Creighton Bluejays,Creighton
+400546926,2014,post-season,2014-03-21,2,309,away,TRUE,Louisiana,66,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+400546918,2014,post-season,2014-03-21,2,2305,home,TRUE,Kansas,80,Jayhawks,Kansas Jayhawks,Kansas
+400546918,2014,post-season,2014-03-21,2,2198,away,TRUE,Eastern Kentucky,69,Colonels,Eastern Kentucky Colonels,E Kentucky
+400546922,2014,post-season,2014-03-21,2,2250,home,TRUE,Gonzaga,85,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400546922,2014,post-season,2014-03-21,2,197,away,TRUE,Oklahoma State,77,Cowboys,Oklahoma State Cowboys,Oklahoma St
+400546933,2014,post-season,2014-03-21,2,235,home,TRUE,Memphis,71,Tigers,Memphis Tigers,Memphis
+400546933,2014,post-season,2014-03-21,2,45,away,TRUE,George Washington,66,Revolutionaries,George Washington Revolutionaries,G Washington
+400546909,2014,post-season,2014-03-21,2,153,home,TRUE,North Carolina,79,Tar Heels,North Carolina Tar Heels,North Carolina
+400546909,2014,post-season,2014-03-21,2,2507,away,TRUE,Providence,77,Friars,Providence Friars,Providence
+400546948,2014,post-season,2014-03-21,2,2724,home,TRUE,Wichita State,64,Shockers,Wichita State Shockers,Wichita St
+400546948,2014,post-season,2014-03-21,2,13,away,TRUE,Cal Poly,37,Mustangs,Cal Poly Mustangs,Cal Poly
+400546917,2014,post-season,2014-03-21,3,2670,home,TRUE,VCU,75,Rams,VCU Rams,VCU
+400546917,2014,post-season,2014-03-21,3,2617,away,TRUE,Stephen F. Austin,77,Lumberjacks,Stephen F. Austin Lumberjacks,SF Austin
+400546932,2014,post-season,2014-03-21,2,258,home,TRUE,Virginia,70,Cavaliers,Virginia Cavaliers,Virginia
+400546932,2014,post-season,2014-03-21,2,324,away,TRUE,Coastal Carolina,59,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+400546928,2014,post-season,2014-03-21,2,96,home,TRUE,Kentucky,56,Wildcats,Kentucky Wildcats,Kentucky
+400546928,2014,post-season,2014-03-21,2,2306,away,TRUE,Kansas State,49,Wildcats,Kansas State Wildcats,Kansas St
+400546937,2014,post-season,2014-03-21,2,66,home,TRUE,Iowa State,93,Cyclones,Iowa State Cyclones,Iowa State
+400546937,2014,post-season,2014-03-21,2,2428,away,TRUE,North Carolina Central,75,Eagles,North Carolina Central Eagles,NC Central
+400546899,2014,post-season,2014-03-21,2,26,home,TRUE,UCLA,76,Bruins,UCLA Bruins,UCLA
+400546899,2014,post-season,2014-03-21,2,202,away,TRUE,Tulsa,59,Golden Hurricane,Tulsa Golden Hurricane,Tulsa

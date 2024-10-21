@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300070041,2010-01-07,2,41,home,FALSE,UConn,83,Huskies,UConn Huskies,UConn
-300070041,2010-01-07,2,2132,away,FALSE,Cincinnati,51,Bearcats,Cincinnati Bearcats,Cincinnati
-300072633,2010-01-07,2,2633,home,FALSE,Tennessee,79,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-300072633,2010-01-07,2,2579,away,FALSE,South Carolina,62,Gamecocks,South Carolina Gamecocks,South Carolina
-300070061,2010-01-07,3,61,home,FALSE,Georgia,61,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-300070061,2010-01-07,3,96,away,FALSE,Kentucky,60,Wildcats,Kentucky Wildcats,Kentucky
-300070228,2010-01-07,2,228,home,FALSE,Clemson,41,Tigers,Clemson Tigers,Clemson
-300070228,2010-01-07,2,150,away,FALSE,Duke,67,Blue Devils,Duke Blue Devils,Duke
-300070008,2010-01-07,2,8,home,FALSE,Arkansas,38,Razorbacks,Arkansas Razorbacks,Arkansas
-300070008,2010-01-07,2,99,away,FALSE,LSU,65,Tigers,LSU Tigers,LSU
-300070052,2010-01-07,2,52,home,FALSE,Florida State,68,Seminoles,Florida State Seminoles,Florida St
-300070052,2010-01-07,2,258,away,FALSE,Virginia,50,Cavaliers,Virginia Cavaliers,Virginia
-300070344,2010-01-07,2,344,home,FALSE,Mississippi State,90,Bulldogs,Mississippi State Bulldogs,Mississippi St
-300070344,2010-01-07,2,238,away,FALSE,Vanderbilt,76,Commodores,Vanderbilt Commodores,Vanderbilt
-300072739,2010-01-07,2,2739,home,FALSE,Green Bay,68,Phoenix,Green Bay Phoenix,Green Bay
-300072739,2010-01-07,2,2750,away,FALSE,Wright State,41,Raiders,Wright State Raiders,Wright St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300070041,2010,regular-season,2010-01-07,2,41,home,FALSE,UConn,83,Huskies,UConn Huskies,UConn
+300070041,2010,regular-season,2010-01-07,2,2132,away,FALSE,Cincinnati,51,Bearcats,Cincinnati Bearcats,Cincinnati
+300072633,2010,regular-season,2010-01-07,2,2633,home,FALSE,Tennessee,79,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+300072633,2010,regular-season,2010-01-07,2,2579,away,FALSE,South Carolina,62,Gamecocks,South Carolina Gamecocks,South Carolina
+300070061,2010,regular-season,2010-01-07,3,61,home,FALSE,Georgia,61,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+300070061,2010,regular-season,2010-01-07,3,96,away,FALSE,Kentucky,60,Wildcats,Kentucky Wildcats,Kentucky
+300070228,2010,regular-season,2010-01-07,2,228,home,FALSE,Clemson,41,Tigers,Clemson Tigers,Clemson
+300070228,2010,regular-season,2010-01-07,2,150,away,FALSE,Duke,67,Blue Devils,Duke Blue Devils,Duke
+300070008,2010,regular-season,2010-01-07,2,8,home,FALSE,Arkansas,38,Razorbacks,Arkansas Razorbacks,Arkansas
+300070008,2010,regular-season,2010-01-07,2,99,away,FALSE,LSU,65,Tigers,LSU Tigers,LSU
+300070052,2010,regular-season,2010-01-07,2,52,home,FALSE,Florida State,68,Seminoles,Florida State Seminoles,Florida St
+300070052,2010,regular-season,2010-01-07,2,258,away,FALSE,Virginia,50,Cavaliers,Virginia Cavaliers,Virginia
+300070344,2010,regular-season,2010-01-07,2,344,home,FALSE,Mississippi State,90,Bulldogs,Mississippi State Bulldogs,Mississippi St
+300070344,2010,regular-season,2010-01-07,2,238,away,FALSE,Vanderbilt,76,Commodores,Vanderbilt Commodores,Vanderbilt
+300072739,2010,regular-season,2010-01-07,2,2739,home,FALSE,Green Bay,68,Phoenix,Green Bay Phoenix,Green Bay
+300072739,2010,regular-season,2010-01-07,2,2750,away,FALSE,Wright State,41,Raiders,Wright State Raiders,Wright St

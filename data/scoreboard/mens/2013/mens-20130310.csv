@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330690130,2013-03-10,2,130,home,FALSE,Michigan,71,Wolverines,Michigan Wolverines,Michigan
-330690130,2013-03-10,2,84,away,FALSE,Indiana,72,Hoosiers,Indiana Hoosiers,Indiana
-330690127,2013-03-10,2,127,home,FALSE,Michigan State,71,Spartans,Michigan State Spartans,Michigan St
-330690127,2013-03-10,2,77,away,FALSE,Northwestern,61,Wildcats,Northwestern Wildcats,Northwestern
-330690194,2013-03-10,2,194,home,FALSE,Ohio State,68,Buckeyes,Ohio State Buckeyes,Ohio State
-330690194,2013-03-10,2,356,away,FALSE,Illinois,55,Fighting Illini,Illinois Fighting Illini,Illinois
-330690218,2013-03-10,2,218,home,FALSE,Temple,84,Owls,Temple Owls,Temple
-330690218,2013-03-10,2,2670,away,FALSE,VCU,76,Rams,VCU Rams,VCU
-330690213,2013-03-10,2,213,home,FALSE,Penn State,60,Nittany Lions,Penn State Nittany Lions,Penn State
-330690213,2013-03-10,2,275,away,FALSE,Wisconsin,63,Badgers,Wisconsin Badgers,Wisconsin
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330690130,2013,regular-season,2013-03-10,2,130,home,FALSE,Michigan,71,Wolverines,Michigan Wolverines,Michigan
+330690130,2013,regular-season,2013-03-10,2,84,away,FALSE,Indiana,72,Hoosiers,Indiana Hoosiers,Indiana
+330690127,2013,regular-season,2013-03-10,2,127,home,FALSE,Michigan State,71,Spartans,Michigan State Spartans,Michigan St
+330690127,2013,regular-season,2013-03-10,2,77,away,FALSE,Northwestern,61,Wildcats,Northwestern Wildcats,Northwestern
+330690194,2013,regular-season,2013-03-10,2,194,home,FALSE,Ohio State,68,Buckeyes,Ohio State Buckeyes,Ohio State
+330690194,2013,regular-season,2013-03-10,2,356,away,FALSE,Illinois,55,Fighting Illini,Illinois Fighting Illini,Illinois
+330690218,2013,regular-season,2013-03-10,2,218,home,FALSE,Temple,84,Owls,Temple Owls,Temple
+330690218,2013,regular-season,2013-03-10,2,2670,away,FALSE,VCU,76,Rams,VCU Rams,VCU
+330690213,2013,regular-season,2013-03-10,2,213,home,FALSE,Penn State,60,Nittany Lions,Penn State Nittany Lions,Penn State
+330690213,2013,regular-season,2013-03-10,2,275,away,FALSE,Wisconsin,63,Badgers,Wisconsin Badgers,Wisconsin

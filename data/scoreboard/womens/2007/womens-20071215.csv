@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273490245,2007-12-15,2,245,home,FALSE,Texas A&M,62,Aggies,Texas A&M Aggies,Texas A&M
-273490245,2007-12-15,2,2,away,FALSE,Auburn,60,Tigers,Auburn Tigers,Auburn
-273490277,2007-12-15,2,277,home,FALSE,West Virginia,93,Mountaineers,West Virginia Mountaineers,West Virginia
-273490277,2007-12-15,2,2506,away,FALSE,Presbyterian,26,Blue Hose,Presbyterian Blue Hose,Presbyterian
-273492751,2007-12-15,2,2751,home,FALSE,Wyoming,75,Cowgirls,Wyoming Cowgirls,Wyoming
-273492751,2007-12-15,2,2928,away,FALSE,Texas Woman's University,60,Pioneers,Texas Woman's University Pioneers,Texwoman
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273490245,2008,regular-season,2007-12-15,2,245,home,FALSE,Texas A&M,62,Aggies,Texas A&M Aggies,Texas A&M
+273490245,2008,regular-season,2007-12-15,2,2,away,FALSE,Auburn,60,Tigers,Auburn Tigers,Auburn
+273490277,2008,regular-season,2007-12-15,2,277,home,FALSE,West Virginia,93,Mountaineers,West Virginia Mountaineers,West Virginia
+273490277,2008,regular-season,2007-12-15,2,2506,away,FALSE,Presbyterian,26,Blue Hose,Presbyterian Blue Hose,Presbyterian
+273492751,2008,regular-season,2007-12-15,2,2751,home,FALSE,Wyoming,75,Cowgirls,Wyoming Cowgirls,Wyoming
+273492751,2008,regular-season,2007-12-15,2,2928,away,FALSE,Texas Woman's University,60,Pioneers,Texas Woman's University Pioneers,Texwoman

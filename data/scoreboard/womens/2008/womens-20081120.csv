@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-283250041,2008-11-20,2,41,home,FALSE,UConn,99,Huskies,UConn Huskies,UConn
-283250041,2008-11-20,2,21,away,FALSE,San Diego State,55,Aztecs,San Diego State Aztecs,San Diego St
-283250024,2008-11-20,2,24,home,FALSE,Stanford,84,Cardinal,Stanford Cardinal,Stanford
-283250024,2008-11-20,2,167,away,FALSE,New Mexico,46,Lobos,New Mexico Lobos,New Mexico
-283250120,2008-11-20,2,120,home,FALSE,Maryland,90,Terrapins,Maryland Terrapins,Maryland
-283250120,2008-11-20,2,256,away,FALSE,James Madison,76,Dukes,James Madison Dukes,James Madison
-283250130,2008-11-20,2,130,home,FALSE,Michigan,56,Wolverines,Michigan Wolverines,Michigan
-283250130,2008-11-20,2,245,away,FALSE,Texas A&M,59,Aggies,Texas A&M Aggies,Texas A&M
-283250251,2008-11-20,2,251,home,FALSE,Texas,87,Longhorns,Texas Longhorns,Texas
-283250251,2008-11-20,2,357,away,FALSE,Texas A&M-Corpus Christi,36,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-283252509,2008-11-20,2,2509,home,FALSE,Purdue,70,Boilermakers,Purdue Boilermakers,Purdue
-283252509,2008-11-20,2,2501,away,FALSE,Portland,50,Pilots,Portland Pilots,Portland
-283250052,2008-11-20,2,52,home,FALSE,Florida State,70,Seminoles,Florida State Seminoles,Florida St
-283250052,2008-11-20,2,232,away,FALSE,Charleston,57,Cougars,Charleston Cougars,Charleston
-283252628,2008-11-20,2,2628,home,FALSE,TCU,70,Horned Frogs,TCU Horned Frogs,TCU
-283252628,2008-11-20,2,250,away,FALSE,UT Arlington,45,Mavericks,UT Arlington Mavericks,UT Arlington
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283250041,2009,regular-season,2008-11-20,2,41,home,FALSE,UConn,99,Huskies,UConn Huskies,UConn
+283250041,2009,regular-season,2008-11-20,2,21,away,FALSE,San Diego State,55,Aztecs,San Diego State Aztecs,San Diego St
+283250024,2009,regular-season,2008-11-20,2,24,home,FALSE,Stanford,84,Cardinal,Stanford Cardinal,Stanford
+283250024,2009,regular-season,2008-11-20,2,167,away,FALSE,New Mexico,46,Lobos,New Mexico Lobos,New Mexico
+283250120,2009,regular-season,2008-11-20,2,120,home,FALSE,Maryland,90,Terrapins,Maryland Terrapins,Maryland
+283250120,2009,regular-season,2008-11-20,2,256,away,FALSE,James Madison,76,Dukes,James Madison Dukes,James Madison
+283250130,2009,regular-season,2008-11-20,2,130,home,FALSE,Michigan,56,Wolverines,Michigan Wolverines,Michigan
+283250130,2009,regular-season,2008-11-20,2,245,away,FALSE,Texas A&M,59,Aggies,Texas A&M Aggies,Texas A&M
+283250251,2009,regular-season,2008-11-20,2,251,home,FALSE,Texas,87,Longhorns,Texas Longhorns,Texas
+283250251,2009,regular-season,2008-11-20,2,357,away,FALSE,Texas A&M-Corpus Christi,36,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+283252509,2009,regular-season,2008-11-20,2,2509,home,FALSE,Purdue,70,Boilermakers,Purdue Boilermakers,Purdue
+283252509,2009,regular-season,2008-11-20,2,2501,away,FALSE,Portland,50,Pilots,Portland Pilots,Portland
+283250052,2009,regular-season,2008-11-20,2,52,home,FALSE,Florida State,70,Seminoles,Florida State Seminoles,Florida St
+283250052,2009,regular-season,2008-11-20,2,232,away,FALSE,Charleston,57,Cougars,Charleston Cougars,Charleston
+283252628,2009,regular-season,2008-11-20,2,2628,home,FALSE,TCU,70,Horned Frogs,TCU Horned Frogs,TCU
+283252628,2009,regular-season,2008-11-20,2,250,away,FALSE,UT Arlington,45,Mavericks,UT Arlington Mavericks,UT Arlington

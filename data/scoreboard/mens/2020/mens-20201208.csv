@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401267863,2020-12-08,2,2633,home,FALSE,Tennessee,56,Volunteers,Tennessee Volunteers,Tennessee
-401267863,2020-12-08,2,38,away,FALSE,Colorado,47,Buffaloes,Colorado Buffaloes,Colorado
-401261641,2020-12-08,0,2250,home,FALSE,Gonzaga,0,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401261641,2020-12-08,0,2627,away,FALSE,Tarleton State,0,Texans,Tarleton State Texans,Tarleton St
-401254045,2020-12-08,0,239,home,FALSE,Baylor,0,Bears,Baylor Bears,Baylor
-401254045,2020-12-08,0,2447,away,FALSE,Nicholls,0,Colonels,Nicholls Colonels,Nicholls
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401267863,2021,regular-season,2020-12-08,2,2633,home,FALSE,Tennessee,56,Volunteers,Tennessee Volunteers,Tennessee
+401267863,2021,regular-season,2020-12-08,2,38,away,FALSE,Colorado,47,Buffaloes,Colorado Buffaloes,Colorado
+401261641,2021,regular-season,2020-12-08,0,2250,home,FALSE,Gonzaga,0,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401261641,2021,regular-season,2020-12-08,0,2627,away,FALSE,Tarleton State,0,Texans,Tarleton State Texans,Tarleton St
+401254045,2021,regular-season,2020-12-08,0,239,home,FALSE,Baylor,0,Bears,Baylor Bears,Baylor
+401254045,2021,regular-season,2020-12-08,0,2447,away,FALSE,Nicholls,0,Colonels,Nicholls Colonels,Nicholls

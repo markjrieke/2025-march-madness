@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263630333,2006-12-29,2,333,home,FALSE,Alabama,80,Crimson Tide,Alabama Crimson Tide,Alabama
-263630333,2006-12-29,2,288,away,FALSE,Lipscomb,58,Bisons,Lipscomb Bisons,Lipscomb
-263630099,2006-12-29,2,99,home,FALSE,LSU,60,Tigers,LSU Tigers,LSU
-263630099,2006-12-29,2,2535,away,FALSE,Samford,45,Bulldogs,Samford Bulldogs,Samford
-263632541,2006-12-29,2,2541,home,FALSE,Santa Clara,48,Broncos,Santa Clara Broncos,Santa Clara
-263632541,2006-12-29,2,2005,away,FALSE,Air Force,78,Falcons,Air Force Falcons,Air Force
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263630333,2007,regular-season,2006-12-29,2,333,home,FALSE,Alabama,80,Crimson Tide,Alabama Crimson Tide,Alabama
+263630333,2007,regular-season,2006-12-29,2,288,away,FALSE,Lipscomb,58,Bisons,Lipscomb Bisons,Lipscomb
+263630099,2007,regular-season,2006-12-29,2,99,home,FALSE,LSU,60,Tigers,LSU Tigers,LSU
+263630099,2007,regular-season,2006-12-29,2,2535,away,FALSE,Samford,45,Bulldogs,Samford Bulldogs,Samford
+263632541,2007,regular-season,2006-12-29,2,2541,home,FALSE,Santa Clara,48,Broncos,Santa Clara Broncos,Santa Clara
+263632541,2007,regular-season,2006-12-29,2,2005,away,FALSE,Air Force,78,Falcons,Air Force Falcons,Air Force

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401123390,2019-03-31,3,96,home,TRUE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
-401123390,2019-03-31,3,2,away,TRUE,Auburn,77,Tigers,Auburn Tigers,Auburn
-401123387,2019-03-31,2,150,home,TRUE,Duke,67,Blue Devils,Duke Blue Devils,Duke
-401123387,2019-03-31,2,127,away,TRUE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401123390,2019,post-season,2019-03-31,3,96,home,TRUE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
+401123390,2019,post-season,2019-03-31,3,2,away,TRUE,Auburn,77,Tigers,Auburn Tigers,Auburn
+401123387,2019,post-season,2019-03-31,2,150,home,TRUE,Duke,67,Blue Devils,Duke Blue Devils,Duke
+401123387,2019,post-season,2019-03-31,2,127,away,TRUE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St

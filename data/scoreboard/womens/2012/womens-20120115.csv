@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320150251,2012-01-15,2,251,home,FALSE,Texas,59,Longhorns,Texas Longhorns,Texas
-320150251,2012-01-15,2,239,away,FALSE,Baylor,77,Bears,Baylor Bears,Baylor
-320152633,2012-01-15,2,2633,home,FALSE,Tennessee,87,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-320152633,2012-01-15,2,238,away,FALSE,Vanderbilt,64,Commodores,Vanderbilt Commodores,Vanderbilt
-320150259,2012-01-15,2,259,home,FALSE,Virginia Tech,34,Hokies,Virginia Tech Hokies,Virginia Tech
-320150259,2012-01-15,2,150,away,FALSE,Duke,61,Blue Devils,Duke Blue Devils,Duke
-320152579,2012-01-15,2,2579,home,FALSE,South Carolina,58,Gamecocks,South Carolina Gamecocks,South Carolina
-320152579,2012-01-15,2,96,away,FALSE,Kentucky,66,Wildcats,Kentucky Wildcats,Kentucky
-320150127,2012-01-15,2,127,home,FALSE,Michigan State,56,Spartans,Michigan State Spartans,Michigan St
-320150127,2012-01-15,2,194,away,FALSE,Ohio State,64,Buckeyes,Ohio State Buckeyes,Ohio State
-320150052,2012-01-15,2,52,home,FALSE,Florida State,57,Seminoles,Florida State Seminoles,Florida St
-320150052,2012-01-15,2,2390,away,FALSE,Miami,60,Hurricanes,Miami Hurricanes,Miami
-320150158,2012-01-15,2,158,home,FALSE,Nebraska,73,Cornhuskers,Nebraska Cornhuskers,Nebraska
-320150158,2012-01-15,2,213,away,FALSE,Penn State,93,Lady Lions,Penn State Lady Lions,Penn State
-320152509,2012-01-15,2,2509,home,FALSE,Purdue,57,Boilermakers,Purdue Boilermakers,Purdue
-320152509,2012-01-15,2,2294,away,FALSE,Iowa,55,Hawkeyes,Iowa Hawkeyes,Iowa
-320150046,2012-01-15,2,46,home,FALSE,Georgetown,69,Hoyas,Georgetown Hoyas,Georgetown
-320150046,2012-01-15,2,183,away,FALSE,Syracuse,42,Orange,Syracuse Orange,Syracuse
-320150344,2012-01-15,2,344,home,FALSE,Mississippi State,51,Bulldogs,Mississippi State Bulldogs,Mississippi St
-320150344,2012-01-15,2,61,away,FALSE,Georgia,68,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-320150111,2012-01-15,2,111,home,FALSE,Northeastern,54,Huskies,Northeastern Huskies,Northeastern
-320150111,2012-01-15,2,48,away,FALSE,Delaware,70,Blue Hens,Delaware Blue Hens,Delaware
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320150251,2012,regular-season,2012-01-15,2,251,home,FALSE,Texas,59,Longhorns,Texas Longhorns,Texas
+320150251,2012,regular-season,2012-01-15,2,239,away,FALSE,Baylor,77,Bears,Baylor Bears,Baylor
+320152633,2012,regular-season,2012-01-15,2,2633,home,FALSE,Tennessee,87,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+320152633,2012,regular-season,2012-01-15,2,238,away,FALSE,Vanderbilt,64,Commodores,Vanderbilt Commodores,Vanderbilt
+320150259,2012,regular-season,2012-01-15,2,259,home,FALSE,Virginia Tech,34,Hokies,Virginia Tech Hokies,Virginia Tech
+320150259,2012,regular-season,2012-01-15,2,150,away,FALSE,Duke,61,Blue Devils,Duke Blue Devils,Duke
+320152579,2012,regular-season,2012-01-15,2,2579,home,FALSE,South Carolina,58,Gamecocks,South Carolina Gamecocks,South Carolina
+320152579,2012,regular-season,2012-01-15,2,96,away,FALSE,Kentucky,66,Wildcats,Kentucky Wildcats,Kentucky
+320150127,2012,regular-season,2012-01-15,2,127,home,FALSE,Michigan State,56,Spartans,Michigan State Spartans,Michigan St
+320150127,2012,regular-season,2012-01-15,2,194,away,FALSE,Ohio State,64,Buckeyes,Ohio State Buckeyes,Ohio State
+320150052,2012,regular-season,2012-01-15,2,52,home,FALSE,Florida State,57,Seminoles,Florida State Seminoles,Florida St
+320150052,2012,regular-season,2012-01-15,2,2390,away,FALSE,Miami,60,Hurricanes,Miami Hurricanes,Miami
+320150158,2012,regular-season,2012-01-15,2,158,home,FALSE,Nebraska,73,Cornhuskers,Nebraska Cornhuskers,Nebraska
+320150158,2012,regular-season,2012-01-15,2,213,away,FALSE,Penn State,93,Lady Lions,Penn State Lady Lions,Penn State
+320152509,2012,regular-season,2012-01-15,2,2509,home,FALSE,Purdue,57,Boilermakers,Purdue Boilermakers,Purdue
+320152509,2012,regular-season,2012-01-15,2,2294,away,FALSE,Iowa,55,Hawkeyes,Iowa Hawkeyes,Iowa
+320150046,2012,regular-season,2012-01-15,2,46,home,FALSE,Georgetown,69,Hoyas,Georgetown Hoyas,Georgetown
+320150046,2012,regular-season,2012-01-15,2,183,away,FALSE,Syracuse,42,Orange,Syracuse Orange,Syracuse
+320150344,2012,regular-season,2012-01-15,2,344,home,FALSE,Mississippi State,51,Bulldogs,Mississippi State Bulldogs,Mississippi St
+320150344,2012,regular-season,2012-01-15,2,61,away,FALSE,Georgia,68,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+320150111,2012,regular-season,2012-01-15,2,111,home,FALSE,Northeastern,54,Huskies,Northeastern Huskies,Northeastern
+320150111,2012,regular-season,2012-01-15,2,48,away,FALSE,Delaware,70,Blue Hens,Delaware Blue Hens,Delaware

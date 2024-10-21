@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401286954,2021-03-14,4,2670,home,TRUE,VCU,81,Rams,VCU Rams,VCU
-401286954,2021-03-14,4,113,away,TRUE,Massachusetts,69,Minutewomen,Massachusetts Minutewomen,UMass
-401301884,2021-03-14,4,239,home,TRUE,Baylor,76,Bears,Baylor Bears,Baylor
-401301884,2021-03-14,4,277,away,TRUE,West Virginia,50,Mountaineers,West Virginia Mountaineers,West Virginia
-401301897,2021-03-14,4,2272,home,FALSE,High Point,62,Panthers,High Point Panthers,High Point
-401301897,2021-03-14,4,2097,away,FALSE,Campbell,46,Fighting Camels,Campbell Fighting Camels,Campbell
-401289533,2021-03-14,4,116,home,FALSE,Mount St. Mary's,70,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-401289533,2021-03-14,4,2681,away,FALSE,Wagner,38,Seahawks,Wagner Seahawks,Wagner
-401287105,2021-03-14,4,2617,home,TRUE,Stephen F. Austin,56,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
-401287105,2021-03-14,4,2534,away,TRUE,Sam Houston,45,Bearkats,Sam Houston Bearkats,Sam Houston
-401286908,2021-03-14,4,526,home,TRUE,Florida Gulf Coast,84,Eagles,Florida Gulf Coast Eagles,FGCU
-401286908,2021-03-14,4,2335,away,TRUE,Liberty,62,Flames,Liberty Flames,Liberty
-401287091,2021-03-14,4,104,home,FALSE,Boston University,54,Terriers,Boston University Terriers,Boston U
-401287091,2021-03-14,4,2329,away,FALSE,Lehigh,64,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-401287022,2021-03-14,4,2181,home,TRUE,Drake,70,Bulldogs,Drake Bulldogs,Drake
-401287022,2021-03-14,4,71,away,TRUE,Bradley,78,Braves,Bradley Braves,Bradley
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401286954,2021,regular-season,2021-03-14,4,2670,home,TRUE,VCU,81,Rams,VCU Rams,VCU
+401286954,2021,regular-season,2021-03-14,4,113,away,TRUE,Massachusetts,69,Minutewomen,Massachusetts Minutewomen,UMass
+401301884,2021,regular-season,2021-03-14,4,239,home,TRUE,Baylor,76,Bears,Baylor Bears,Baylor
+401301884,2021,regular-season,2021-03-14,4,277,away,TRUE,West Virginia,50,Mountaineers,West Virginia Mountaineers,West Virginia
+401301897,2021,regular-season,2021-03-14,4,2272,home,FALSE,High Point,62,Panthers,High Point Panthers,High Point
+401301897,2021,regular-season,2021-03-14,4,2097,away,FALSE,Campbell,46,Fighting Camels,Campbell Fighting Camels,Campbell
+401289533,2021,regular-season,2021-03-14,4,116,home,FALSE,Mount St. Mary's,70,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+401289533,2021,regular-season,2021-03-14,4,2681,away,FALSE,Wagner,38,Seahawks,Wagner Seahawks,Wagner
+401287105,2021,regular-season,2021-03-14,4,2617,home,TRUE,Stephen F. Austin,56,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
+401287105,2021,regular-season,2021-03-14,4,2534,away,TRUE,Sam Houston,45,Bearkats,Sam Houston Bearkats,Sam Houston
+401286908,2021,regular-season,2021-03-14,4,526,home,TRUE,Florida Gulf Coast,84,Eagles,Florida Gulf Coast Eagles,FGCU
+401286908,2021,regular-season,2021-03-14,4,2335,away,TRUE,Liberty,62,Flames,Liberty Flames,Liberty
+401287091,2021,regular-season,2021-03-14,4,104,home,FALSE,Boston University,54,Terriers,Boston University Terriers,Boston U
+401287091,2021,regular-season,2021-03-14,4,2329,away,FALSE,Lehigh,64,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+401287022,2021,regular-season,2021-03-14,4,2181,home,TRUE,Drake,70,Bulldogs,Drake Bulldogs,Drake
+401287022,2021,regular-season,2021-03-14,4,71,away,TRUE,Bradley,78,Braves,Bradley Braves,Bradley

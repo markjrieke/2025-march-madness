@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401484721,2023-01-28,4,2294,home,FALSE,Iowa,80,Hawkeyes,Iowa Hawkeyes,Iowa
-401484721,2023-01-28,4,158,away,FALSE,Nebraska,76,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401494169,2023-01-28,4,66,home,FALSE,Iowa State,86,Cyclones,Iowa State Cyclones,Iowa State
-401494169,2023-01-28,4,201,away,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
-401474746,2023-01-28,4,2250,home,FALSE,Gonzaga,67,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401474746,2023-01-28,4,2492,away,FALSE,Pepperdine,49,Waves,Pepperdine Waves,Pepperdine
-401492550,2023-01-28,4,2393,home,FALSE,Middle Tennessee,67,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-401492550,2023-01-28,4,2229,away,FALSE,Florida International,41,Panthers,Florida International Panthers,FIU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401484721,2023,regular-season,2023-01-28,4,2294,home,FALSE,Iowa,80,Hawkeyes,Iowa Hawkeyes,Iowa
+401484721,2023,regular-season,2023-01-28,4,158,away,FALSE,Nebraska,76,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401494169,2023,regular-season,2023-01-28,4,66,home,FALSE,Iowa State,86,Cyclones,Iowa State Cyclones,Iowa State
+401494169,2023,regular-season,2023-01-28,4,201,away,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
+401474746,2023,regular-season,2023-01-28,4,2250,home,FALSE,Gonzaga,67,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401474746,2023,regular-season,2023-01-28,4,2492,away,FALSE,Pepperdine,49,Waves,Pepperdine Waves,Pepperdine
+401492550,2023,regular-season,2023-01-28,4,2393,home,FALSE,Middle Tennessee,67,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+401492550,2023,regular-season,2023-01-28,4,2229,away,FALSE,Florida International,41,Panthers,Florida International Panthers,FIU

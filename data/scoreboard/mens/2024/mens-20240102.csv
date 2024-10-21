@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401600308,2024-01-02,2,120,home,FALSE,Maryland,53,Terrapins,Maryland Terrapins,Maryland
-401600308,2024-01-02,2,2509,away,FALSE,Purdue,67,Boilermakers,Purdue Boilermakers,Purdue
-401599471,2024-01-02,2,41,home,FALSE,UConn,85,Huskies,UConn Huskies,UConn
-401599471,2024-01-02,2,305,away,FALSE,DePaul,56,Blue Demons,DePaul Blue Demons,DePaul
-401575525,2024-01-02,2,2633,home,FALSE,Tennessee,87,Volunteers,Tennessee Volunteers,Tennessee
-401575525,2024-01-02,2,2450,away,FALSE,Norfolk State,50,Spartans,Norfolk State Spartans,Norfolk St
-401604101,2024-01-02,2,221,home,FALSE,Pittsburgh,57,Panthers,Pittsburgh Panthers,Pitt
-401604101,2024-01-02,2,153,away,FALSE,North Carolina,70,Tar Heels,North Carolina Tar Heels,North Carolina
-401600307,2024-01-02,2,356,home,FALSE,Illinois,96,Fighting Illini,Illinois Fighting Illini,Illinois
-401600307,2024-01-02,2,77,away,FALSE,Northwestern,66,Wildcats,Northwestern Wildcats,Northwestern
-401606629,2024-01-02,2,36,home,FALSE,Colorado State,76,Rams,Colorado State Rams,Colorado St
-401606629,2024-01-02,2,167,away,FALSE,New Mexico,68,Lobos,New Mexico Lobos,New Mexico
-401604100,2024-01-02,2,150,home,FALSE,Duke,86,Blue Devils,Duke Blue Devils,Duke
-401604100,2024-01-02,2,183,away,FALSE,Syracuse,66,Orange,Syracuse Orange,Syracuse
-401602055,2024-01-02,2,2226,home,FALSE,Florida Atlantic,79,Owls,Florida Atlantic Owls,FAU
-401602055,2024-01-02,2,151,away,FALSE,East Carolina,64,Pirates,East Carolina Pirates,East Carolina
-401598580,2024-01-02,2,239,home,FALSE,Baylor,98,Bears,Baylor Bears,Baylor
-401598580,2024-01-02,2,172,away,FALSE,Cornell,79,Big Red,Cornell Big Red,Cornell
-401600306,2024-01-02,2,275,home,FALSE,Wisconsin,83,Badgers,Wisconsin Badgers,Wisconsin
-401600306,2024-01-02,2,2294,away,FALSE,Iowa,72,Hawkeyes,Iowa Hawkeyes,Iowa
-401583801,2024-01-02,2,2,home,FALSE,Auburn,88,Tigers,Auburn Tigers,Auburn
-401583801,2024-01-02,2,219,away,FALSE,Pennsylvania,68,Quakers,Pennsylvania Quakers,Penn
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401600308,2024,regular-season,2024-01-02,2,120,home,FALSE,Maryland,53,Terrapins,Maryland Terrapins,Maryland
+401600308,2024,regular-season,2024-01-02,2,2509,away,FALSE,Purdue,67,Boilermakers,Purdue Boilermakers,Purdue
+401599471,2024,regular-season,2024-01-02,2,41,home,FALSE,UConn,85,Huskies,UConn Huskies,UConn
+401599471,2024,regular-season,2024-01-02,2,305,away,FALSE,DePaul,56,Blue Demons,DePaul Blue Demons,DePaul
+401575525,2024,regular-season,2024-01-02,2,2633,home,FALSE,Tennessee,87,Volunteers,Tennessee Volunteers,Tennessee
+401575525,2024,regular-season,2024-01-02,2,2450,away,FALSE,Norfolk State,50,Spartans,Norfolk State Spartans,Norfolk St
+401604101,2024,regular-season,2024-01-02,2,221,home,FALSE,Pittsburgh,57,Panthers,Pittsburgh Panthers,Pitt
+401604101,2024,regular-season,2024-01-02,2,153,away,FALSE,North Carolina,70,Tar Heels,North Carolina Tar Heels,North Carolina
+401600307,2024,regular-season,2024-01-02,2,356,home,FALSE,Illinois,96,Fighting Illini,Illinois Fighting Illini,Illinois
+401600307,2024,regular-season,2024-01-02,2,77,away,FALSE,Northwestern,66,Wildcats,Northwestern Wildcats,Northwestern
+401606629,2024,regular-season,2024-01-02,2,36,home,FALSE,Colorado State,76,Rams,Colorado State Rams,Colorado St
+401606629,2024,regular-season,2024-01-02,2,167,away,FALSE,New Mexico,68,Lobos,New Mexico Lobos,New Mexico
+401604100,2024,regular-season,2024-01-02,2,150,home,FALSE,Duke,86,Blue Devils,Duke Blue Devils,Duke
+401604100,2024,regular-season,2024-01-02,2,183,away,FALSE,Syracuse,66,Orange,Syracuse Orange,Syracuse
+401602055,2024,regular-season,2024-01-02,2,2226,home,FALSE,Florida Atlantic,79,Owls,Florida Atlantic Owls,FAU
+401602055,2024,regular-season,2024-01-02,2,151,away,FALSE,East Carolina,64,Pirates,East Carolina Pirates,East Carolina
+401598580,2024,regular-season,2024-01-02,2,239,home,FALSE,Baylor,98,Bears,Baylor Bears,Baylor
+401598580,2024,regular-season,2024-01-02,2,172,away,FALSE,Cornell,79,Big Red,Cornell Big Red,Cornell
+401600306,2024,regular-season,2024-01-02,2,275,home,FALSE,Wisconsin,83,Badgers,Wisconsin Badgers,Wisconsin
+401600306,2024,regular-season,2024-01-02,2,2294,away,FALSE,Iowa,72,Hawkeyes,Iowa Hawkeyes,Iowa
+401583801,2024,regular-season,2024-01-02,2,2,home,FALSE,Auburn,88,Tigers,Auburn Tigers,Auburn
+401583801,2024,regular-season,2024-01-02,2,219,away,FALSE,Pennsylvania,68,Quakers,Pennsylvania Quakers,Penn

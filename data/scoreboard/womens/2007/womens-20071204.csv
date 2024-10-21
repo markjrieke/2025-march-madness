@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273380197,2007-12-04,2,197,home,FALSE,Oklahoma State,85,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-273380197,2007-12-04,2,2724,away,FALSE,Wichita State,39,Shockers,Wichita State Shockers,Wichita St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273380197,2008,regular-season,2007-12-04,2,197,home,FALSE,Oklahoma State,85,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+273380197,2008,regular-season,2007-12-04,2,2724,away,FALSE,Wichita State,39,Shockers,Wichita State Shockers,Wichita St

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240262641,2004-01-26,3,2641,home,FALSE,Texas Tech,61,Red Raiders,Texas Tech Red Raiders,Texas Tech
-240262641,2004-01-26,3,251,away,FALSE,Texas,62,Longhorns,Texas Longhorns,Texas
-240262507,2004-01-26,2,2507,home,FALSE,Providence,65,Friars,Providence Friars,Providence
-240262507,2004-01-26,2,46,away,FALSE,Georgetown,50,Hoyas,Georgetown Hoyas,Georgetown
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240262641,2004,regular-season,2004-01-26,3,2641,home,FALSE,Texas Tech,61,Red Raiders,Texas Tech Red Raiders,Texas Tech
+240262641,2004,regular-season,2004-01-26,3,251,away,FALSE,Texas,62,Longhorns,Texas Longhorns,Texas
+240262507,2004,regular-season,2004-01-26,2,2507,home,FALSE,Providence,65,Friars,Providence Friars,Providence
+240262507,2004,regular-season,2004-01-26,2,46,away,FALSE,Georgetown,50,Hoyas,Georgetown Hoyas,Georgetown

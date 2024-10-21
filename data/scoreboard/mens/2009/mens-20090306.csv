@@ -1,57 +1,57 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290652247,2009-03-06,2,2247,home,TRUE,Georgia State,54,Panthers,Georgia State Panthers,Georgia St
-290652247,2009-03-06,2,48,away,TRUE,Delaware,41,Blue Hens,Delaware Blue Hens,Delaware
-290652460,2009-03-06,2,2460,home,TRUE,Northern Iowa,73,Panthers,Northern Iowa Panthers,Northern Iowa
-290652460,2009-03-06,2,282,away,TRUE,Indiana State,69,Sycamores,Indiana State Sycamores,Indiana St
-290652026,2009-03-06,2,2026,home,TRUE,App State,86,Mountaineers,App State Mountaineers,App State
-290652026,2009-03-06,2,290,away,TRUE,Georgia Southern,75,Eagles,Georgia Southern Eagles,GA Southern
-290652275,2009-03-06,2,2275,home,TRUE,Hofstra,79,Pride,Hofstra Pride,Hofstra
-290652275,2009-03-06,2,350,away,TRUE,UNC Wilmington,66,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
-290650071,2009-03-06,2,71,home,TRUE,Bradley,67,Braves,Bradley Braves,Bradley
-290650071,2009-03-06,2,79,away,TRUE,Southern Illinois,55,Salukis,Southern Illinois Salukis,S Illinois
-290650232,2009-03-06,2,232,home,TRUE,Charleston,69,Cougars,Charleston Cougars,Charleston
-290650232,2009-03-06,2,2430,away,TRUE,UNC Greensboro,56,Spartans,UNC Greensboro Spartans,UNC Greensboro
-290652750,2009-03-06,2,2750,home,TRUE,Wright State,80,Raiders,Wright State Raiders,Wright St
-290652750,2009-03-06,2,270,away,TRUE,Milwaukee,70,Panthers,Milwaukee Panthers,Milwaukee
-290650256,2009-03-06,2,256,home,TRUE,James Madison,70,Dukes,James Madison Dukes,James Madison
-290650256,2009-03-06,2,2729,away,TRUE,William & Mary,48,Tribe,William & Mary Tribe,William & Mary
-290652747,2009-03-06,2,2747,home,FALSE,Wofford,55,Terriers,Wofford Terriers,Wofford
-290652747,2009-03-06,2,2210,away,FALSE,Elon,62,Phoenix,Elon Phoenix,Elon
-290652630,2009-03-06,2,2630,home,TRUE,UT Martin,55,Skyhawks,UT Martin Skyhawks,UT Martin
-290652630,2009-03-06,2,2413,away,TRUE,Morehead State,63,Eagles,Morehead State Eagles,Morehead St
-290652193,2009-03-06,2,2193,home,TRUE,East Tennessee State,88,Buccaneers,East Tennessee State Buccaneers,ETSU
-290652193,2009-03-06,2,2057,away,TRUE,Belmont,74,Bruins,Belmont Bruins,Belmont
-290650311,2009-03-06,2,311,home,TRUE,Maine,56,Black Bears,Maine Black Bears,Maine
-290650311,2009-03-06,2,42,away,TRUE,Hartford,65,Hawks,Hartford Hawks,Hartford
-290650225,2009-03-06,2,225,home,FALSE,Brown,61,Bears,Brown Bears,Brown
-290650225,2009-03-06,2,108,away,FALSE,Harvard,59,Crimson,Harvard Crimson,Harvard
-290650172,2009-03-06,2,172,home,FALSE,Cornell,83,Big Red,Cornell Big Red,Cornell
-290650172,2009-03-06,2,219,away,FALSE,Pennsylvania,59,Quakers,Pennsylvania Quakers,Penn
-290650171,2009-03-06,2,171,home,FALSE,Columbia,58,Lions,Columbia Lions,Columbia
-290650171,2009-03-06,2,163,away,FALSE,Princeton,44,Tigers,Princeton Tigers,Princeton
-290650087,2009-03-06,2,87,home,FALSE,Notre Dame,74,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-290650087,2009-03-06,2,2599,away,FALSE,St. John's,55,Red Storm,St. John's Red Storm,St John's
-290650043,2009-03-06,2,43,home,FALSE,Yale,74,Bulldogs,Yale Bulldogs,Yale
-290650043,2009-03-06,2,159,away,FALSE,Dartmouth,62,Big Green,Dartmouth Big Green,Dartmouth
-290650156,2009-03-06,2,156,home,TRUE,Creighton,63,Bluejays,Creighton Bluejays,Creighton
-290650156,2009-03-06,2,2724,away,TRUE,Wichita State,62,Shockers,Wichita State Shockers,Wichita St
-290652352,2009-03-06,2,2352,home,TRUE,Loyola Maryland,68,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-290652352,2009-03-06,2,2099,away,TRUE,Canisius,74,Golden Griffins,Canisius Golden Griffins,Canisius
-290650325,2009-03-06,2,325,home,TRUE,Cleveland State,67,Vikings,Cleveland State Vikings,Cleveland St
-290650325,2009-03-06,2,82,away,TRUE,UIC,64,Flames,UIC Flames,UIC
-290652182,2009-03-06,2,2182,home,TRUE,Drexel,62,Dragons,Drexel Dragons,Drexel
-290652182,2009-03-06,2,119,away,TRUE,Towson,73,Tigers,Towson Tigers,Towson
-290652046,2009-03-06,2,2046,home,TRUE,Austin Peay,67,Governors,Austin Peay Governors,Austin Peay
-290652046,2009-03-06,2,93,away,TRUE,Murray State,50,Racers,Murray State Racers,Murray St
-290650301,2009-03-06,2,301,home,TRUE,San Diego,62,Toreros,San Diego Toreros,San Diego
-290650301,2009-03-06,2,2351,away,TRUE,Loyola Marymount,56,Lions,Loyola Marymount Lions,LMU
-290652535,2009-03-06,2,2535,home,TRUE,Samford,57,Bulldogs,Samford Bulldogs,Samford
-290652535,2009-03-06,2,231,away,TRUE,Furman,52,Paladins,Furman Paladins,Furman
-290650314,2009-03-06,2,314,home,TRUE,Iona,40,Gaels,Iona Gaels,Iona
-290650314,2009-03-06,2,2368,away,TRUE,Marist,43,Red Foxes,Marist Red Foxes,Marist
-290650288,2009-03-06,2,288,home,TRUE,Lipscomb,72,Bisons,Lipscomb Bisons,Lipscomb
-290650288,2009-03-06,2,294,away,TRUE,Jacksonville,88,Dolphins,Jacksonville Dolphins,Jacksonville
-290652287,2009-03-06,2,2287,home,TRUE,Illinois State,78,Redbirds,Illinois State Redbirds,Illinois St
-290652287,2009-03-06,2,339,away,TRUE,Evansville,68,Purple Aces,Evansville Purple Aces,Evansville
-290652492,2009-03-06,2,2492,home,TRUE,Pepperdine,93,Waves,Pepperdine Waves,Pepperdine
-290652492,2009-03-06,2,2539,away,TRUE,San Francisco,85,Dons,San Francisco Dons,San Francisco
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290652247,2009,regular-season,2009-03-06,2,2247,home,TRUE,Georgia State,54,Panthers,Georgia State Panthers,Georgia St
+290652247,2009,regular-season,2009-03-06,2,48,away,TRUE,Delaware,41,Blue Hens,Delaware Blue Hens,Delaware
+290652460,2009,regular-season,2009-03-06,2,2460,home,TRUE,Northern Iowa,73,Panthers,Northern Iowa Panthers,Northern Iowa
+290652460,2009,regular-season,2009-03-06,2,282,away,TRUE,Indiana State,69,Sycamores,Indiana State Sycamores,Indiana St
+290652026,2009,regular-season,2009-03-06,2,2026,home,TRUE,App State,86,Mountaineers,App State Mountaineers,App State
+290652026,2009,regular-season,2009-03-06,2,290,away,TRUE,Georgia Southern,75,Eagles,Georgia Southern Eagles,GA Southern
+290652275,2009,regular-season,2009-03-06,2,2275,home,TRUE,Hofstra,79,Pride,Hofstra Pride,Hofstra
+290652275,2009,regular-season,2009-03-06,2,350,away,TRUE,UNC Wilmington,66,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+290650071,2009,regular-season,2009-03-06,2,71,home,TRUE,Bradley,67,Braves,Bradley Braves,Bradley
+290650071,2009,regular-season,2009-03-06,2,79,away,TRUE,Southern Illinois,55,Salukis,Southern Illinois Salukis,S Illinois
+290650232,2009,regular-season,2009-03-06,2,232,home,TRUE,Charleston,69,Cougars,Charleston Cougars,Charleston
+290650232,2009,regular-season,2009-03-06,2,2430,away,TRUE,UNC Greensboro,56,Spartans,UNC Greensboro Spartans,UNC Greensboro
+290652750,2009,regular-season,2009-03-06,2,2750,home,TRUE,Wright State,80,Raiders,Wright State Raiders,Wright St
+290652750,2009,regular-season,2009-03-06,2,270,away,TRUE,Milwaukee,70,Panthers,Milwaukee Panthers,Milwaukee
+290650256,2009,regular-season,2009-03-06,2,256,home,TRUE,James Madison,70,Dukes,James Madison Dukes,James Madison
+290650256,2009,regular-season,2009-03-06,2,2729,away,TRUE,William & Mary,48,Tribe,William & Mary Tribe,William & Mary
+290652747,2009,regular-season,2009-03-06,2,2747,home,FALSE,Wofford,55,Terriers,Wofford Terriers,Wofford
+290652747,2009,regular-season,2009-03-06,2,2210,away,FALSE,Elon,62,Phoenix,Elon Phoenix,Elon
+290652630,2009,regular-season,2009-03-06,2,2630,home,TRUE,UT Martin,55,Skyhawks,UT Martin Skyhawks,UT Martin
+290652630,2009,regular-season,2009-03-06,2,2413,away,TRUE,Morehead State,63,Eagles,Morehead State Eagles,Morehead St
+290652193,2009,regular-season,2009-03-06,2,2193,home,TRUE,East Tennessee State,88,Buccaneers,East Tennessee State Buccaneers,ETSU
+290652193,2009,regular-season,2009-03-06,2,2057,away,TRUE,Belmont,74,Bruins,Belmont Bruins,Belmont
+290650311,2009,regular-season,2009-03-06,2,311,home,TRUE,Maine,56,Black Bears,Maine Black Bears,Maine
+290650311,2009,regular-season,2009-03-06,2,42,away,TRUE,Hartford,65,Hawks,Hartford Hawks,Hartford
+290650225,2009,regular-season,2009-03-06,2,225,home,FALSE,Brown,61,Bears,Brown Bears,Brown
+290650225,2009,regular-season,2009-03-06,2,108,away,FALSE,Harvard,59,Crimson,Harvard Crimson,Harvard
+290650172,2009,regular-season,2009-03-06,2,172,home,FALSE,Cornell,83,Big Red,Cornell Big Red,Cornell
+290650172,2009,regular-season,2009-03-06,2,219,away,FALSE,Pennsylvania,59,Quakers,Pennsylvania Quakers,Penn
+290650171,2009,regular-season,2009-03-06,2,171,home,FALSE,Columbia,58,Lions,Columbia Lions,Columbia
+290650171,2009,regular-season,2009-03-06,2,163,away,FALSE,Princeton,44,Tigers,Princeton Tigers,Princeton
+290650087,2009,regular-season,2009-03-06,2,87,home,FALSE,Notre Dame,74,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+290650087,2009,regular-season,2009-03-06,2,2599,away,FALSE,St. John's,55,Red Storm,St. John's Red Storm,St John's
+290650043,2009,regular-season,2009-03-06,2,43,home,FALSE,Yale,74,Bulldogs,Yale Bulldogs,Yale
+290650043,2009,regular-season,2009-03-06,2,159,away,FALSE,Dartmouth,62,Big Green,Dartmouth Big Green,Dartmouth
+290650156,2009,regular-season,2009-03-06,2,156,home,TRUE,Creighton,63,Bluejays,Creighton Bluejays,Creighton
+290650156,2009,regular-season,2009-03-06,2,2724,away,TRUE,Wichita State,62,Shockers,Wichita State Shockers,Wichita St
+290652352,2009,regular-season,2009-03-06,2,2352,home,TRUE,Loyola Maryland,68,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+290652352,2009,regular-season,2009-03-06,2,2099,away,TRUE,Canisius,74,Golden Griffins,Canisius Golden Griffins,Canisius
+290650325,2009,regular-season,2009-03-06,2,325,home,TRUE,Cleveland State,67,Vikings,Cleveland State Vikings,Cleveland St
+290650325,2009,regular-season,2009-03-06,2,82,away,TRUE,UIC,64,Flames,UIC Flames,UIC
+290652182,2009,regular-season,2009-03-06,2,2182,home,TRUE,Drexel,62,Dragons,Drexel Dragons,Drexel
+290652182,2009,regular-season,2009-03-06,2,119,away,TRUE,Towson,73,Tigers,Towson Tigers,Towson
+290652046,2009,regular-season,2009-03-06,2,2046,home,TRUE,Austin Peay,67,Governors,Austin Peay Governors,Austin Peay
+290652046,2009,regular-season,2009-03-06,2,93,away,TRUE,Murray State,50,Racers,Murray State Racers,Murray St
+290650301,2009,regular-season,2009-03-06,2,301,home,TRUE,San Diego,62,Toreros,San Diego Toreros,San Diego
+290650301,2009,regular-season,2009-03-06,2,2351,away,TRUE,Loyola Marymount,56,Lions,Loyola Marymount Lions,LMU
+290652535,2009,regular-season,2009-03-06,2,2535,home,TRUE,Samford,57,Bulldogs,Samford Bulldogs,Samford
+290652535,2009,regular-season,2009-03-06,2,231,away,TRUE,Furman,52,Paladins,Furman Paladins,Furman
+290650314,2009,regular-season,2009-03-06,2,314,home,TRUE,Iona,40,Gaels,Iona Gaels,Iona
+290650314,2009,regular-season,2009-03-06,2,2368,away,TRUE,Marist,43,Red Foxes,Marist Red Foxes,Marist
+290650288,2009,regular-season,2009-03-06,2,288,home,TRUE,Lipscomb,72,Bisons,Lipscomb Bisons,Lipscomb
+290650288,2009,regular-season,2009-03-06,2,294,away,TRUE,Jacksonville,88,Dolphins,Jacksonville Dolphins,Jacksonville
+290652287,2009,regular-season,2009-03-06,2,2287,home,TRUE,Illinois State,78,Redbirds,Illinois State Redbirds,Illinois St
+290652287,2009,regular-season,2009-03-06,2,339,away,TRUE,Evansville,68,Purple Aces,Evansville Purple Aces,Evansville
+290652492,2009,regular-season,2009-03-06,2,2492,home,TRUE,Pepperdine,93,Waves,Pepperdine Waves,Pepperdine
+290652492,2009,regular-season,2009-03-06,2,2539,away,TRUE,San Francisco,85,Dons,San Francisco Dons,San Francisco

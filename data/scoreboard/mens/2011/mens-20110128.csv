@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310282352,2011-01-28,2,2352,home,FALSE,Loyola Maryland,59,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-310282352,2011-01-28,2,2561,away,FALSE,Siena,76,Saints,Siena Saints,Siena
-310282099,2011-01-28,2,2099,home,FALSE,Canisius,69,Golden Griffins,Canisius Golden Griffins,Canisius
-310282099,2011-01-28,2,315,away,FALSE,Niagara,54,Purple Eagles,Niagara Purple Eagles,Niagara
-310282057,2011-01-28,2,2057,home,FALSE,Belmont,89,Bruins,Belmont Bruins,Belmont
-310282057,2011-01-28,2,526,away,FALSE,Florida Gulf Coast,56,Eagles,Florida Gulf Coast Eagles,FGCU
-310280219,2011-01-28,2,219,home,FALSE,Pennsylvania,66,Quakers,Pennsylvania Quakers,Penn
-310280219,2011-01-28,2,43,away,FALSE,Yale,58,Bulldogs,Yale Bulldogs,Yale
-310280163,2011-01-28,2,163,home,FALSE,Princeton,78,Tigers,Princeton Tigers,Princeton
-310280163,2011-01-28,2,225,away,FALSE,Brown,60,Bears,Brown Bears,Brown
-310280159,2011-01-28,2,159,home,FALSE,Dartmouth,64,Big Green,Dartmouth Big Green,Dartmouth
-310280159,2011-01-28,2,172,away,FALSE,Cornell,57,Big Red,Cornell Big Red,Cornell
-310280108,2011-01-28,2,108,home,FALSE,Harvard,77,Crimson,Harvard Crimson,Harvard
-310280108,2011-01-28,2,171,away,FALSE,Columbia,66,Lions,Columbia Lions,Columbia
-310282217,2011-01-28,2,2217,home,FALSE,Fairfield,61,Stags,Fairfield Stags,Fairfield
-310282217,2011-01-28,2,2363,away,FALSE,Manhattan,59,Jaspers,Manhattan Jaspers,Manhattan
-310282739,2011-01-28,2,2739,home,FALSE,Green Bay,61,Phoenix,Green Bay Phoenix,Green Bay
-310282739,2011-01-28,2,2750,away,FALSE,Wright State,63,Raiders,Wright State Raiders,Wright St
-310280288,2011-01-28,2,288,home,FALSE,Lipscomb,82,Bisons,Lipscomb Bisons,Lipscomb
-310280288,2011-01-28,2,56,away,FALSE,Stetson,62,Hatters,Stetson Hatters,Stetson
-310280270,2011-01-28,2,270,home,FALSE,Milwaukee,72,Panthers,Milwaukee Panthers,Milwaukee
-310280270,2011-01-28,2,2174,away,FALSE,Detroit Mercy,67,Titans,Detroit Mercy Titans,Detroit Mercy
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310282352,2011,regular-season,2011-01-28,2,2352,home,FALSE,Loyola Maryland,59,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+310282352,2011,regular-season,2011-01-28,2,2561,away,FALSE,Siena,76,Saints,Siena Saints,Siena
+310282099,2011,regular-season,2011-01-28,2,2099,home,FALSE,Canisius,69,Golden Griffins,Canisius Golden Griffins,Canisius
+310282099,2011,regular-season,2011-01-28,2,315,away,FALSE,Niagara,54,Purple Eagles,Niagara Purple Eagles,Niagara
+310282057,2011,regular-season,2011-01-28,2,2057,home,FALSE,Belmont,89,Bruins,Belmont Bruins,Belmont
+310282057,2011,regular-season,2011-01-28,2,526,away,FALSE,Florida Gulf Coast,56,Eagles,Florida Gulf Coast Eagles,FGCU
+310280219,2011,regular-season,2011-01-28,2,219,home,FALSE,Pennsylvania,66,Quakers,Pennsylvania Quakers,Penn
+310280219,2011,regular-season,2011-01-28,2,43,away,FALSE,Yale,58,Bulldogs,Yale Bulldogs,Yale
+310280163,2011,regular-season,2011-01-28,2,163,home,FALSE,Princeton,78,Tigers,Princeton Tigers,Princeton
+310280163,2011,regular-season,2011-01-28,2,225,away,FALSE,Brown,60,Bears,Brown Bears,Brown
+310280159,2011,regular-season,2011-01-28,2,159,home,FALSE,Dartmouth,64,Big Green,Dartmouth Big Green,Dartmouth
+310280159,2011,regular-season,2011-01-28,2,172,away,FALSE,Cornell,57,Big Red,Cornell Big Red,Cornell
+310280108,2011,regular-season,2011-01-28,2,108,home,FALSE,Harvard,77,Crimson,Harvard Crimson,Harvard
+310280108,2011,regular-season,2011-01-28,2,171,away,FALSE,Columbia,66,Lions,Columbia Lions,Columbia
+310282217,2011,regular-season,2011-01-28,2,2217,home,FALSE,Fairfield,61,Stags,Fairfield Stags,Fairfield
+310282217,2011,regular-season,2011-01-28,2,2363,away,FALSE,Manhattan,59,Jaspers,Manhattan Jaspers,Manhattan
+310282739,2011,regular-season,2011-01-28,2,2739,home,FALSE,Green Bay,61,Phoenix,Green Bay Phoenix,Green Bay
+310282739,2011,regular-season,2011-01-28,2,2750,away,FALSE,Wright State,63,Raiders,Wright State Raiders,Wright St
+310280288,2011,regular-season,2011-01-28,2,288,home,FALSE,Lipscomb,82,Bisons,Lipscomb Bisons,Lipscomb
+310280288,2011,regular-season,2011-01-28,2,56,away,FALSE,Stetson,62,Hatters,Stetson Hatters,Stetson
+310280270,2011,regular-season,2011-01-28,2,270,home,FALSE,Milwaukee,72,Panthers,Milwaukee Panthers,Milwaukee
+310280270,2011,regular-season,2011-01-28,2,2174,away,FALSE,Detroit Mercy,67,Titans,Detroit Mercy Titans,Detroit Mercy

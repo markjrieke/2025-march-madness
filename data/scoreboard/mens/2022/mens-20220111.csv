@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401368367,2022-01-11,2,239,home,FALSE,Baylor,62,Bears,Baylor Bears,Baylor
-401368367,2022-01-11,2,2641,away,FALSE,Texas Tech,65,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401364861,2022-01-11,2,333,home,FALSE,Alabama,77,Crimson Tide,Alabama Crimson Tide,Alabama
-401364861,2022-01-11,2,2,away,FALSE,Auburn,81,Tigers,Auburn Tigers,Auburn
-401402814,2022-01-11,2,24,home,FALSE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
-401402814,2022-01-11,2,30,away,FALSE,USC,69,Trojans,USC Trojans,USC
-401368368,2022-01-11,2,2305,home,FALSE,Kansas,62,Jayhawks,Kansas Jayhawks,Kansas
-401368368,2022-01-11,2,66,away,FALSE,Iowa State,61,Cyclones,Iowa State Cyclones,Iowa State
-401364859,2022-01-11,2,238,home,FALSE,Vanderbilt,66,Commodores,Vanderbilt Commodores,Vanderbilt
-401364859,2022-01-11,2,96,away,FALSE,Kentucky,78,Wildcats,Kentucky Wildcats,Kentucky
-401368369,2022-01-11,2,251,home,FALSE,Texas,66,Longhorns,Texas Longhorns,Texas
-401368369,2022-01-11,2,201,away,FALSE,Oklahoma,52,Sooners,Oklahoma Sooners,Oklahoma
-401364858,2022-01-11,2,2633,home,FALSE,Tennessee,66,Volunteers,Tennessee Volunteers,Tennessee
-401364858,2022-01-11,2,2579,away,FALSE,South Carolina,46,Gamecocks,South Carolina Gamecocks,South Carolina
-401364373,2022-01-11,2,158,home,FALSE,Nebraska,71,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401364373,2022-01-11,2,356,away,FALSE,Illinois,81,Fighting Illini,Illinois Fighting Illini,Illinois
-401364374,2022-01-11,0,130,home,FALSE,Michigan,0,Wolverines,Michigan Wolverines,Michigan
-401364374,2022-01-11,0,2509,away,FALSE,Purdue,0,Boilermakers,Purdue Boilermakers,Purdue
-401373541,2022-01-11,0,156,home,FALSE,Creighton,0,Bluejays,Creighton Bluejays,Creighton
-401373541,2022-01-11,0,2507,away,FALSE,Providence,0,Friars,Providence Friars,Providence
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401368367,2022,regular-season,2022-01-11,2,239,home,FALSE,Baylor,62,Bears,Baylor Bears,Baylor
+401368367,2022,regular-season,2022-01-11,2,2641,away,FALSE,Texas Tech,65,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401364861,2022,regular-season,2022-01-11,2,333,home,FALSE,Alabama,77,Crimson Tide,Alabama Crimson Tide,Alabama
+401364861,2022,regular-season,2022-01-11,2,2,away,FALSE,Auburn,81,Tigers,Auburn Tigers,Auburn
+401402814,2022,regular-season,2022-01-11,2,24,home,FALSE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
+401402814,2022,regular-season,2022-01-11,2,30,away,FALSE,USC,69,Trojans,USC Trojans,USC
+401368368,2022,regular-season,2022-01-11,2,2305,home,FALSE,Kansas,62,Jayhawks,Kansas Jayhawks,Kansas
+401368368,2022,regular-season,2022-01-11,2,66,away,FALSE,Iowa State,61,Cyclones,Iowa State Cyclones,Iowa State
+401364859,2022,regular-season,2022-01-11,2,238,home,FALSE,Vanderbilt,66,Commodores,Vanderbilt Commodores,Vanderbilt
+401364859,2022,regular-season,2022-01-11,2,96,away,FALSE,Kentucky,78,Wildcats,Kentucky Wildcats,Kentucky
+401368369,2022,regular-season,2022-01-11,2,251,home,FALSE,Texas,66,Longhorns,Texas Longhorns,Texas
+401368369,2022,regular-season,2022-01-11,2,201,away,FALSE,Oklahoma,52,Sooners,Oklahoma Sooners,Oklahoma
+401364858,2022,regular-season,2022-01-11,2,2633,home,FALSE,Tennessee,66,Volunteers,Tennessee Volunteers,Tennessee
+401364858,2022,regular-season,2022-01-11,2,2579,away,FALSE,South Carolina,46,Gamecocks,South Carolina Gamecocks,South Carolina
+401364373,2022,regular-season,2022-01-11,2,158,home,FALSE,Nebraska,71,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401364373,2022,regular-season,2022-01-11,2,356,away,FALSE,Illinois,81,Fighting Illini,Illinois Fighting Illini,Illinois
+401364374,2022,regular-season,2022-01-11,0,130,home,FALSE,Michigan,0,Wolverines,Michigan Wolverines,Michigan
+401364374,2022,regular-season,2022-01-11,0,2509,away,FALSE,Purdue,0,Boilermakers,Purdue Boilermakers,Purdue
+401373541,2022,regular-season,2022-01-11,0,156,home,FALSE,Creighton,0,Bluejays,Creighton Bluejays,Creighton
+401373541,2022,regular-season,2022-01-11,0,2507,away,FALSE,Providence,0,Friars,Providence Friars,Providence

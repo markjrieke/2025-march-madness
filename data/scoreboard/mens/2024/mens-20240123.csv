@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401600346,2024-01-23,2,2509,home,FALSE,Purdue,99,Boilermakers,Purdue Boilermakers,Purdue
-401600346,2024-01-23,2,130,away,FALSE,Michigan,67,Wolverines,Michigan Wolverines,Michigan
-401603434,2024-01-23,2,252,home,FALSE,BYU,68,Cougars,BYU Cougars,BYU
-401603434,2024-01-23,2,248,away,FALSE,Houston,75,Cougars,Houston Cougars,Houston
-401597144,2024-01-23,2,2579,home,FALSE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
-401597144,2024-01-23,2,96,away,FALSE,Kentucky,62,Wildcats,Kentucky Wildcats,Kentucky
-401603435,2024-01-23,2,201,home,FALSE,Oklahoma,60,Sooners,Oklahoma Sooners,Oklahoma
-401603435,2024-01-23,2,251,away,FALSE,Texas,75,Longhorns,Texas Longhorns,Texas
-401604144,2024-01-23,2,97,home,FALSE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
-401604144,2024-01-23,2,150,away,FALSE,Duke,83,Blue Devils,Duke Blue Devils,Duke
-401600348,2024-01-23,2,135,home,FALSE,Minnesota,59,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401600348,2024-01-23,2,275,away,FALSE,Wisconsin,61,Badgers,Wisconsin Badgers,Wisconsin
-401596857,2024-01-23,2,2325,home,FALSE,La Salle,54,Explorers,La Salle Explorers,La Salle
-401596857,2024-01-23,2,2168,away,FALSE,Dayton,66,Flyers,Dayton Flyers,Dayton
-401599499,2024-01-23,2,156,home,FALSE,Creighton,85,Bluejays,Creighton Bluejays,Creighton
-401599499,2024-01-23,2,2752,away,FALSE,Xavier,78,Musketeers,Xavier Musketeers,Xavier
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401600346,2024,regular-season,2024-01-23,2,2509,home,FALSE,Purdue,99,Boilermakers,Purdue Boilermakers,Purdue
+401600346,2024,regular-season,2024-01-23,2,130,away,FALSE,Michigan,67,Wolverines,Michigan Wolverines,Michigan
+401603434,2024,regular-season,2024-01-23,2,252,home,FALSE,BYU,68,Cougars,BYU Cougars,BYU
+401603434,2024,regular-season,2024-01-23,2,248,away,FALSE,Houston,75,Cougars,Houston Cougars,Houston
+401597144,2024,regular-season,2024-01-23,2,2579,home,FALSE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
+401597144,2024,regular-season,2024-01-23,2,96,away,FALSE,Kentucky,62,Wildcats,Kentucky Wildcats,Kentucky
+401603435,2024,regular-season,2024-01-23,2,201,home,FALSE,Oklahoma,60,Sooners,Oklahoma Sooners,Oklahoma
+401603435,2024,regular-season,2024-01-23,2,251,away,FALSE,Texas,75,Longhorns,Texas Longhorns,Texas
+401604144,2024,regular-season,2024-01-23,2,97,home,FALSE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
+401604144,2024,regular-season,2024-01-23,2,150,away,FALSE,Duke,83,Blue Devils,Duke Blue Devils,Duke
+401600348,2024,regular-season,2024-01-23,2,135,home,FALSE,Minnesota,59,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401600348,2024,regular-season,2024-01-23,2,275,away,FALSE,Wisconsin,61,Badgers,Wisconsin Badgers,Wisconsin
+401596857,2024,regular-season,2024-01-23,2,2325,home,FALSE,La Salle,54,Explorers,La Salle Explorers,La Salle
+401596857,2024,regular-season,2024-01-23,2,2168,away,FALSE,Dayton,66,Flyers,Dayton Flyers,Dayton
+401599499,2024,regular-season,2024-01-23,2,156,home,FALSE,Creighton,85,Bluejays,Creighton Bluejays,Creighton
+401599499,2024,regular-season,2024-01-23,2,2752,away,FALSE,Xavier,78,Musketeers,Xavier Musketeers,Xavier

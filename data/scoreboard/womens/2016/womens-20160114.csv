@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400831595,2016-01-14,4,96,home,FALSE,Kentucky,62,Wildcats,Kentucky Wildcats,Kentucky
-400831595,2016-01-14,4,2579,away,FALSE,South Carolina,73,Gamecocks,South Carolina Gamecocks,South Carolina
-400842224,2016-01-14,4,103,home,FALSE,Boston College,50,Eagles,Boston College Eagles,Boston College
-400842224,2016-01-14,4,87,away,FALSE,Notre Dame,63,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400834924,2016-01-14,4,77,home,FALSE,Northwestern,86,Wildcats,Northwestern Wildcats,Northwestern
-400834924,2016-01-14,4,194,away,FALSE,Ohio State,82,Buckeyes,Ohio State Buckeyes,Ohio State
-400831598,2016-01-14,4,142,home,FALSE,Missouri,66,Tigers,Missouri Tigers,Missouri
-400831598,2016-01-14,4,344,away,FALSE,Mississippi State,54,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400834852,2016-01-14,4,130,home,FALSE,Michigan,67,Wolverines,Michigan Wolverines,Michigan
-400834852,2016-01-14,4,120,away,FALSE,Maryland,74,Terrapins,Maryland Terrapins,Maryland
-400831593,2016-01-14,4,8,home,FALSE,Arkansas,64,Razorbacks,Arkansas Razorbacks,Arkansas
-400831593,2016-01-14,4,2633,away,FALSE,Tennessee,59,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400831597,2016-01-14,4,245,home,FALSE,Texas A&M,81,Aggies,Texas A&M Aggies,Texas A&M
-400831597,2016-01-14,4,145,away,FALSE,Ole Miss,58,Rebels,Ole Miss Rebels,Ole Miss
-400842641,2016-01-14,4,228,home,FALSE,Clemson,40,Tigers,Clemson Tigers,Clemson
-400842641,2016-01-14,4,52,away,FALSE,Florida State,85,Seminoles,Florida State Seminoles,Florida St
-400831594,2016-01-14,4,57,home,FALSE,Florida,61,Gators,Florida Gators,Florida
-400831594,2016-01-14,4,61,away,FALSE,Georgia,71,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-400842286,2016-01-14,4,2390,home,FALSE,Miami,71,Hurricanes,Miami Hurricanes,Miami
-400842286,2016-01-14,4,154,away,FALSE,Wake Forest,60,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-400841340,2016-01-14,4,150,home,FALSE,Duke,62,Blue Devils,Duke Blue Devils,Duke
-400841340,2016-01-14,4,152,away,FALSE,NC State,65,Wolfpack,NC State Wolfpack,NC State
-400842504,2016-01-14,4,258,home,FALSE,Virginia,41,Cavaliers,Virginia Cavaliers,Virginia
-400842504,2016-01-14,4,97,away,FALSE,Louisville,59,Cardinals,Louisville Cardinals,Louisville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400831595,2016,regular-season,2016-01-14,4,96,home,FALSE,Kentucky,62,Wildcats,Kentucky Wildcats,Kentucky
+400831595,2016,regular-season,2016-01-14,4,2579,away,FALSE,South Carolina,73,Gamecocks,South Carolina Gamecocks,South Carolina
+400842224,2016,regular-season,2016-01-14,4,103,home,FALSE,Boston College,50,Eagles,Boston College Eagles,Boston College
+400842224,2016,regular-season,2016-01-14,4,87,away,FALSE,Notre Dame,63,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400834924,2016,regular-season,2016-01-14,4,77,home,FALSE,Northwestern,86,Wildcats,Northwestern Wildcats,Northwestern
+400834924,2016,regular-season,2016-01-14,4,194,away,FALSE,Ohio State,82,Buckeyes,Ohio State Buckeyes,Ohio State
+400831598,2016,regular-season,2016-01-14,4,142,home,FALSE,Missouri,66,Tigers,Missouri Tigers,Missouri
+400831598,2016,regular-season,2016-01-14,4,344,away,FALSE,Mississippi State,54,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400834852,2016,regular-season,2016-01-14,4,130,home,FALSE,Michigan,67,Wolverines,Michigan Wolverines,Michigan
+400834852,2016,regular-season,2016-01-14,4,120,away,FALSE,Maryland,74,Terrapins,Maryland Terrapins,Maryland
+400831593,2016,regular-season,2016-01-14,4,8,home,FALSE,Arkansas,64,Razorbacks,Arkansas Razorbacks,Arkansas
+400831593,2016,regular-season,2016-01-14,4,2633,away,FALSE,Tennessee,59,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400831597,2016,regular-season,2016-01-14,4,245,home,FALSE,Texas A&M,81,Aggies,Texas A&M Aggies,Texas A&M
+400831597,2016,regular-season,2016-01-14,4,145,away,FALSE,Ole Miss,58,Rebels,Ole Miss Rebels,Ole Miss
+400842641,2016,regular-season,2016-01-14,4,228,home,FALSE,Clemson,40,Tigers,Clemson Tigers,Clemson
+400842641,2016,regular-season,2016-01-14,4,52,away,FALSE,Florida State,85,Seminoles,Florida State Seminoles,Florida St
+400831594,2016,regular-season,2016-01-14,4,57,home,FALSE,Florida,61,Gators,Florida Gators,Florida
+400831594,2016,regular-season,2016-01-14,4,61,away,FALSE,Georgia,71,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+400842286,2016,regular-season,2016-01-14,4,2390,home,FALSE,Miami,71,Hurricanes,Miami Hurricanes,Miami
+400842286,2016,regular-season,2016-01-14,4,154,away,FALSE,Wake Forest,60,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+400841340,2016,regular-season,2016-01-14,4,150,home,FALSE,Duke,62,Blue Devils,Duke Blue Devils,Duke
+400841340,2016,regular-season,2016-01-14,4,152,away,FALSE,NC State,65,Wolfpack,NC State Wolfpack,NC State
+400842504,2016,regular-season,2016-01-14,4,258,home,FALSE,Virginia,41,Cavaliers,Virginia Cavaliers,Virginia
+400842504,2016,regular-season,2016-01-14,4,97,away,FALSE,Louisville,59,Cardinals,Louisville Cardinals,Louisville

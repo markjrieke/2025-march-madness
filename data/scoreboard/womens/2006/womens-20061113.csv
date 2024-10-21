@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263170024,2006-11-13,2,24,home,FALSE,Stanford,52,Cardinal,Stanford Cardinal,Stanford
-263170024,2006-11-13,2,252,away,FALSE,BYU,55,Cougars,BYU Cougars,BYU
-263170041,2006-11-13,2,41,home,FALSE,UConn,84,Huskies,UConn Huskies,UConn
-263170041,2006-11-13,2,257,away,FALSE,Richmond,50,Spiders,Richmond Spiders,Richmond
-263170099,2006-11-13,2,99,home,FALSE,LSU,88,Tigers,LSU Tigers,LSU
-263170099,2006-11-13,2,47,away,FALSE,Howard,44,Bison,Howard Bison,Howard
-263170009,2006-11-13,2,9,home,FALSE,Arizona State,96,Sun Devils,Arizona State Sun Devils,Arizona St
-263170009,2006-11-13,2,2226,away,FALSE,Florida Atlantic,60,Owls,Florida Atlantic Owls,FAU
-263170158,2006-11-13,2,167,home,FALSE,New Mexico,59,Lobos,New Mexico Lobos,New Mexico
-263170158,2006-11-13,2,158,away,FALSE,Nebraska,66,Cornhuskers,Nebraska Cornhuskers,Nebraska
-263170251,2006-11-13,2,251,home,FALSE,Texas,69,Longhorns,Texas Longhorns,Texas
-263170251,2006-11-13,2,309,away,FALSE,Louisiana,59,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263170024,2007,regular-season,2006-11-13,2,24,home,FALSE,Stanford,52,Cardinal,Stanford Cardinal,Stanford
+263170024,2007,regular-season,2006-11-13,2,252,away,FALSE,BYU,55,Cougars,BYU Cougars,BYU
+263170041,2007,regular-season,2006-11-13,2,41,home,FALSE,UConn,84,Huskies,UConn Huskies,UConn
+263170041,2007,regular-season,2006-11-13,2,257,away,FALSE,Richmond,50,Spiders,Richmond Spiders,Richmond
+263170099,2007,regular-season,2006-11-13,2,99,home,FALSE,LSU,88,Tigers,LSU Tigers,LSU
+263170099,2007,regular-season,2006-11-13,2,47,away,FALSE,Howard,44,Bison,Howard Bison,Howard
+263170009,2007,regular-season,2006-11-13,2,9,home,FALSE,Arizona State,96,Sun Devils,Arizona State Sun Devils,Arizona St
+263170009,2007,regular-season,2006-11-13,2,2226,away,FALSE,Florida Atlantic,60,Owls,Florida Atlantic Owls,FAU
+263170158,2007,regular-season,2006-11-13,2,167,home,FALSE,New Mexico,59,Lobos,New Mexico Lobos,New Mexico
+263170158,2007,regular-season,2006-11-13,2,158,away,FALSE,Nebraska,66,Cornhuskers,Nebraska Cornhuskers,Nebraska
+263170251,2007,regular-season,2006-11-13,2,251,home,FALSE,Texas,69,Longhorns,Texas Longhorns,Texas
+263170251,2007,regular-season,2006-11-13,2,309,away,FALSE,Louisiana,59,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana

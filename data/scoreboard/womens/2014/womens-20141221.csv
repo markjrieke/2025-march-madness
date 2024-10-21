@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400590435,2014-12-21,2,41,home,TRUE,UConn,86,Huskies,UConn Huskies,UConn
-400590435,2014-12-21,2,26,away,TRUE,UCLA,50,Bruins,UCLA Bruins,UCLA
-400592340,2014-12-21,2,245,home,TRUE,Texas A&M,65,Aggies,Texas A&M Aggies,Texas A&M
-400592340,2014-12-21,2,251,away,TRUE,Texas,67,Longhorns,Texas Longhorns,Texas
-400592779,2014-12-21,2,87,home,FALSE,Notre Dame,64,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400592779,2014-12-21,2,2603,away,FALSE,Saint Joseph's,50,Hawks,Saint Joseph's Hawks,Saint Joseph's
-400593042,2014-12-21,2,153,home,TRUE,North Carolina,85,Tar Heels,North Carolina Tar Heels,North Carolina
-400593042,2014-12-21,2,2210,away,TRUE,Elon,67,Phoenix,Elon Phoenix,Elon
-400593041,2014-12-21,2,150,home,FALSE,Duke,89,Blue Devils,Duke Blue Devils,Duke
-400593041,2014-12-21,2,96,away,FALSE,Kentucky,68,Wildcats,Kentucky Wildcats,Kentucky
-400590436,2014-12-21,2,25,home,FALSE,California,57,Golden Bears,California Golden Bears,California
-400590436,2014-12-21,2,97,away,FALSE,Louisville,70,Cardinals,Louisville Cardinals,Louisville
-400596641,2014-12-21,2,2154,home,FALSE,Coppin State,51,Eagles,Coppin State Eagles,Coppin St
-400596641,2014-12-21,2,120,away,FALSE,Maryland,110,Terrapins,Maryland Terrapins,Maryland
-400590434,2014-12-21,2,30,home,FALSE,USC,62,Trojans,USC Trojans,USC
-400590434,2014-12-21,2,197,away,FALSE,Oklahoma State,66,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-400589801,2014-12-21,2,2181,home,FALSE,Drake,98,Bulldogs,Drake Bulldogs,Drake
-400589801,2014-12-21,2,2294,away,FALSE,Iowa,100,Hawkeyes,Iowa Hawkeyes,Iowa
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400590435,2015,regular-season,2014-12-21,2,41,home,TRUE,UConn,86,Huskies,UConn Huskies,UConn
+400590435,2015,regular-season,2014-12-21,2,26,away,TRUE,UCLA,50,Bruins,UCLA Bruins,UCLA
+400592340,2015,regular-season,2014-12-21,2,245,home,TRUE,Texas A&M,65,Aggies,Texas A&M Aggies,Texas A&M
+400592340,2015,regular-season,2014-12-21,2,251,away,TRUE,Texas,67,Longhorns,Texas Longhorns,Texas
+400592779,2015,regular-season,2014-12-21,2,87,home,FALSE,Notre Dame,64,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400592779,2015,regular-season,2014-12-21,2,2603,away,FALSE,Saint Joseph's,50,Hawks,Saint Joseph's Hawks,Saint Joseph's
+400593042,2015,regular-season,2014-12-21,2,153,home,TRUE,North Carolina,85,Tar Heels,North Carolina Tar Heels,North Carolina
+400593042,2015,regular-season,2014-12-21,2,2210,away,TRUE,Elon,67,Phoenix,Elon Phoenix,Elon
+400593041,2015,regular-season,2014-12-21,2,150,home,FALSE,Duke,89,Blue Devils,Duke Blue Devils,Duke
+400593041,2015,regular-season,2014-12-21,2,96,away,FALSE,Kentucky,68,Wildcats,Kentucky Wildcats,Kentucky
+400590436,2015,regular-season,2014-12-21,2,25,home,FALSE,California,57,Golden Bears,California Golden Bears,California
+400590436,2015,regular-season,2014-12-21,2,97,away,FALSE,Louisville,70,Cardinals,Louisville Cardinals,Louisville
+400596641,2015,regular-season,2014-12-21,2,2154,home,FALSE,Coppin State,51,Eagles,Coppin State Eagles,Coppin St
+400596641,2015,regular-season,2014-12-21,2,120,away,FALSE,Maryland,110,Terrapins,Maryland Terrapins,Maryland
+400590434,2015,regular-season,2014-12-21,2,30,home,FALSE,USC,62,Trojans,USC Trojans,USC
+400590434,2015,regular-season,2014-12-21,2,197,away,FALSE,Oklahoma State,66,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+400589801,2015,regular-season,2014-12-21,2,2181,home,FALSE,Drake,98,Bulldogs,Drake Bulldogs,Drake
+400589801,2015,regular-season,2014-12-21,2,2294,away,FALSE,Iowa,100,Hawkeyes,Iowa Hawkeyes,Iowa

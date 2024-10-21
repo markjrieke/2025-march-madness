@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320360150,2012-02-05,3,150,home,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
-320360150,2012-02-05,3,2390,away,FALSE,Miami,78,Hurricanes,Miami Hurricanes,Miami
-320360127,2012-02-05,2,127,home,FALSE,Michigan State,64,Spartans,Michigan State Spartans,Michigan St
-320360127,2012-02-05,2,130,away,FALSE,Michigan,54,Wolverines,Michigan Wolverines,Michigan
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320360150,2012,regular-season,2012-02-05,3,150,home,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
+320360150,2012,regular-season,2012-02-05,3,2390,away,FALSE,Miami,78,Hurricanes,Miami Hurricanes,Miami
+320360127,2012,regular-season,2012-02-05,2,127,home,FALSE,Michigan State,64,Spartans,Michigan State Spartans,Michigan St
+320360127,2012,regular-season,2012-02-05,2,130,away,FALSE,Michigan,54,Wolverines,Michigan Wolverines,Michigan

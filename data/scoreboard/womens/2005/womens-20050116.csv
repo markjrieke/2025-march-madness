@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250160239,2005-01-16,2,239,home,FALSE,Baylor,78,Bears,Baylor Bears,Baylor
-250160239,2005-01-16,2,201,away,FALSE,Oklahoma,68,Sooners,Oklahoma Sooners,Oklahoma
-250160099,2005-01-16,2,99,home,FALSE,LSU,76,Tigers,LSU Tigers,LSU
-250160099,2005-01-16,2,333,away,FALSE,Alabama,51,Crimson Tide,Alabama Crimson Tide,Alabama
-250160194,2005-01-16,2,194,home,FALSE,Ohio State,52,Buckeyes,Ohio State Buckeyes,Ohio State
-250160194,2005-01-16,2,164,away,FALSE,Rutgers,50,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-250160087,2005-01-16,2,87,home,FALSE,Notre Dame,86,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-250160087,2005-01-16,2,2509,away,FALSE,Purdue,69,Boilermakers,Purdue Boilermakers,Purdue
-250160238,2005-01-16,2,238,home,FALSE,Vanderbilt,65,Commodores,Vanderbilt Commodores,Vanderbilt
-250160238,2005-01-16,2,2633,away,FALSE,Tennessee,79,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-250160127,2005-01-16,2,127,home,FALSE,Michigan State,62,Spartans,Michigan State Spartans,Michigan St
-250160127,2005-01-16,2,135,away,FALSE,Minnesota,49,Golden Gophers,Minnesota Golden Gophers,Minnesota
-250160052,2005-01-16,3,52,home,FALSE,Florida State,95,Seminoles,Florida State Seminoles,Florida St
-250160052,2005-01-16,3,120,away,FALSE,Maryland,91,Terrapins,Maryland Terrapins,Maryland
-250160061,2005-01-16,2,61,home,FALSE,Georgia,71,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-250160061,2005-01-16,2,2,away,FALSE,Auburn,56,Tigers,Auburn Tigers,Auburn
-250160026,2005-01-16,2,26,home,FALSE,UCLA,73,Bruins,UCLA Bruins,UCLA
-250160026,2005-01-16,2,12,away,FALSE,Arizona,84,Wildcats,Arizona Wildcats,Arizona
-250162294,2005-01-16,2,2294,home,FALSE,Iowa,81,Hawkeyes,Iowa Hawkeyes,Iowa
-250162294,2005-01-16,2,77,away,FALSE,Northwestern,76,Wildcats,Northwestern Wildcats,Northwestern
-250160305,2005-01-16,2,305,home,FALSE,DePaul,103,Blue Demons,DePaul Blue Demons,DePaul
-250160305,2005-01-16,2,2429,away,FALSE,Charlotte,64,49ers,Charlotte 49ers,Charlotte
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250160239,2005,regular-season,2005-01-16,2,239,home,FALSE,Baylor,78,Bears,Baylor Bears,Baylor
+250160239,2005,regular-season,2005-01-16,2,201,away,FALSE,Oklahoma,68,Sooners,Oklahoma Sooners,Oklahoma
+250160099,2005,regular-season,2005-01-16,2,99,home,FALSE,LSU,76,Tigers,LSU Tigers,LSU
+250160099,2005,regular-season,2005-01-16,2,333,away,FALSE,Alabama,51,Crimson Tide,Alabama Crimson Tide,Alabama
+250160194,2005,regular-season,2005-01-16,2,194,home,FALSE,Ohio State,52,Buckeyes,Ohio State Buckeyes,Ohio State
+250160194,2005,regular-season,2005-01-16,2,164,away,FALSE,Rutgers,50,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+250160087,2005,regular-season,2005-01-16,2,87,home,FALSE,Notre Dame,86,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+250160087,2005,regular-season,2005-01-16,2,2509,away,FALSE,Purdue,69,Boilermakers,Purdue Boilermakers,Purdue
+250160238,2005,regular-season,2005-01-16,2,238,home,FALSE,Vanderbilt,65,Commodores,Vanderbilt Commodores,Vanderbilt
+250160238,2005,regular-season,2005-01-16,2,2633,away,FALSE,Tennessee,79,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+250160127,2005,regular-season,2005-01-16,2,127,home,FALSE,Michigan State,62,Spartans,Michigan State Spartans,Michigan St
+250160127,2005,regular-season,2005-01-16,2,135,away,FALSE,Minnesota,49,Golden Gophers,Minnesota Golden Gophers,Minnesota
+250160052,2005,regular-season,2005-01-16,3,52,home,FALSE,Florida State,95,Seminoles,Florida State Seminoles,Florida St
+250160052,2005,regular-season,2005-01-16,3,120,away,FALSE,Maryland,91,Terrapins,Maryland Terrapins,Maryland
+250160061,2005,regular-season,2005-01-16,2,61,home,FALSE,Georgia,71,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+250160061,2005,regular-season,2005-01-16,2,2,away,FALSE,Auburn,56,Tigers,Auburn Tigers,Auburn
+250160026,2005,regular-season,2005-01-16,2,26,home,FALSE,UCLA,73,Bruins,UCLA Bruins,UCLA
+250160026,2005,regular-season,2005-01-16,2,12,away,FALSE,Arizona,84,Wildcats,Arizona Wildcats,Arizona
+250162294,2005,regular-season,2005-01-16,2,2294,home,FALSE,Iowa,81,Hawkeyes,Iowa Hawkeyes,Iowa
+250162294,2005,regular-season,2005-01-16,2,77,away,FALSE,Northwestern,76,Wildcats,Northwestern Wildcats,Northwestern
+250160305,2005,regular-season,2005-01-16,2,305,home,FALSE,DePaul,103,Blue Demons,DePaul Blue Demons,DePaul
+250160305,2005,regular-season,2005-01-16,2,2429,away,FALSE,Charlotte,64,49ers,Charlotte 49ers,Charlotte

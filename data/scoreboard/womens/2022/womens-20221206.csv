@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401486878,2022-12-06,4,2250,home,FALSE,Gonzaga,73,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401486878,2022-12-06,4,2511,away,FALSE,Queens University,49,Royals,Queens University Royals,Queens
-401487501,2022-12-06,4,222,home,FALSE,Villanova,83,Wildcats,Villanova Wildcats,Villanova
-401487501,2022-12-06,4,44,away,FALSE,American University,42,Eagles,American University Eagles,American
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401486878,2023,regular-season,2022-12-06,4,2250,home,FALSE,Gonzaga,73,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401486878,2023,regular-season,2022-12-06,4,2511,away,FALSE,Queens University,49,Royals,Queens University Royals,Queens
+401487501,2023,regular-season,2022-12-06,4,222,home,FALSE,Villanova,83,Wildcats,Villanova Wildcats,Villanova
+401487501,2023,regular-season,2022-12-06,4,44,away,FALSE,American University,42,Eagles,American University Eagles,American

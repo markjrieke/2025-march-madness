@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400546834,2014-03-16,3,2247,home,TRUE,Georgia State,81,Panthers,Georgia State Panthers,Georgia St
-400546834,2014-03-16,3,309,away,TRUE,Louisiana,82,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
-400546819,2014-03-16,2,2670,home,TRUE,VCU,61,Rams,VCU Rams,VCU
-400546819,2014-03-16,2,2603,away,TRUE,Saint Joseph's,65,Hawks,Saint Joseph's Hawks,Saint Joseph's
-400546817,2014-03-16,2,258,home,TRUE,Virginia,72,Cavaliers,Virginia Cavaliers,Virginia
-400546817,2014-03-16,2,150,away,TRUE,Duke,63,Blue Devils,Duke Blue Devils,Duke
-400546818,2014-03-16,2,57,home,TRUE,Florida,61,Gators,Florida Gators,Florida
-400546818,2014-03-16,2,96,away,TRUE,Kentucky,60,Wildcats,Kentucky Wildcats,Kentucky
-400546820,2014-03-16,2,130,home,TRUE,Michigan,55,Wolverines,Michigan Wolverines,Michigan
-400546820,2014-03-16,2,127,away,TRUE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400546834,2014,regular-season,2014-03-16,3,2247,home,TRUE,Georgia State,81,Panthers,Georgia State Panthers,Georgia St
+400546834,2014,regular-season,2014-03-16,3,309,away,TRUE,Louisiana,82,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+400546819,2014,regular-season,2014-03-16,2,2670,home,TRUE,VCU,61,Rams,VCU Rams,VCU
+400546819,2014,regular-season,2014-03-16,2,2603,away,TRUE,Saint Joseph's,65,Hawks,Saint Joseph's Hawks,Saint Joseph's
+400546817,2014,regular-season,2014-03-16,2,258,home,TRUE,Virginia,72,Cavaliers,Virginia Cavaliers,Virginia
+400546817,2014,regular-season,2014-03-16,2,150,away,TRUE,Duke,63,Blue Devils,Duke Blue Devils,Duke
+400546818,2014,regular-season,2014-03-16,2,57,home,TRUE,Florida,61,Gators,Florida Gators,Florida
+400546818,2014,regular-season,2014-03-16,2,96,away,TRUE,Kentucky,60,Wildcats,Kentucky Wildcats,Kentucky
+400546820,2014,regular-season,2014-03-16,2,130,home,TRUE,Michigan,55,Wolverines,Michigan Wolverines,Michigan
+400546820,2014,regular-season,2014-03-16,2,127,away,TRUE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St

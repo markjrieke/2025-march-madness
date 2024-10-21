@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401271433,2020-12-22,2,2250,home,FALSE,Gonzaga,95,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401271433,2020-12-22,2,2466,away,FALSE,Northwestern State,78,Demons,Northwestern State Demons,N'Western St
-401253838,2020-12-22,2,2305,home,FALSE,Kansas,79,Jayhawks,Kansas Jayhawks,Kansas
-401253838,2020-12-22,2,277,away,FALSE,West Virginia,65,Mountaineers,West Virginia Mountaineers,West Virginia
-401263331,2020-12-22,2,2294,home,FALSE,Iowa,70,Hawkeyes,Iowa Hawkeyes,Iowa
-401263331,2020-12-22,2,2509,away,FALSE,Purdue,55,Boilermakers,Purdue Boilermakers,Purdue
-401264248,2020-12-22,2,248,home,FALSE,Houston,76,Cougars,Houston Cougars,Houston
-401264248,2020-12-22,2,218,away,FALSE,Temple,50,Owls,Temple Owls,Temple
-401263330,2020-12-22,2,275,home,FALSE,Wisconsin,67,Badgers,Wisconsin Badgers,Wisconsin
-401263330,2020-12-22,2,158,away,FALSE,Nebraska,53,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401258865,2020-12-22,2,142,home,FALSE,Missouri,54,Tigers,Missouri Tigers,Missouri
-401258865,2020-12-22,2,71,away,FALSE,Bradley,53,Braves,Bradley Braves,Bradley
-401253839,2020-12-22,2,201,home,FALSE,Oklahoma,67,Sooners,Oklahoma Sooners,Oklahoma
-401253839,2020-12-22,2,2641,away,FALSE,Texas Tech,69,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401270547,2020-12-22,2,258,home,FALSE,Virginia,76,Cavaliers,Virginia Cavaliers,Virginia
-401270547,2020-12-22,2,2729,away,FALSE,William & Mary,40,Tribe,William & Mary Tribe,William & Mary
-401260181,2020-12-22,2,152,home,FALSE,NC State,79,Wolfpack,NC State Wolfpack,NC State
-401260181,2020-12-22,2,153,away,FALSE,North Carolina,76,Tar Heels,North Carolina Tar Heels,North Carolina
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401271433,2021,regular-season,2020-12-22,2,2250,home,FALSE,Gonzaga,95,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401271433,2021,regular-season,2020-12-22,2,2466,away,FALSE,Northwestern State,78,Demons,Northwestern State Demons,N'Western St
+401253838,2021,regular-season,2020-12-22,2,2305,home,FALSE,Kansas,79,Jayhawks,Kansas Jayhawks,Kansas
+401253838,2021,regular-season,2020-12-22,2,277,away,FALSE,West Virginia,65,Mountaineers,West Virginia Mountaineers,West Virginia
+401263331,2021,regular-season,2020-12-22,2,2294,home,FALSE,Iowa,70,Hawkeyes,Iowa Hawkeyes,Iowa
+401263331,2021,regular-season,2020-12-22,2,2509,away,FALSE,Purdue,55,Boilermakers,Purdue Boilermakers,Purdue
+401264248,2021,regular-season,2020-12-22,2,248,home,FALSE,Houston,76,Cougars,Houston Cougars,Houston
+401264248,2021,regular-season,2020-12-22,2,218,away,FALSE,Temple,50,Owls,Temple Owls,Temple
+401263330,2021,regular-season,2020-12-22,2,275,home,FALSE,Wisconsin,67,Badgers,Wisconsin Badgers,Wisconsin
+401263330,2021,regular-season,2020-12-22,2,158,away,FALSE,Nebraska,53,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401258865,2021,regular-season,2020-12-22,2,142,home,FALSE,Missouri,54,Tigers,Missouri Tigers,Missouri
+401258865,2021,regular-season,2020-12-22,2,71,away,FALSE,Bradley,53,Braves,Bradley Braves,Bradley
+401253839,2021,regular-season,2020-12-22,2,201,home,FALSE,Oklahoma,67,Sooners,Oklahoma Sooners,Oklahoma
+401253839,2021,regular-season,2020-12-22,2,2641,away,FALSE,Texas Tech,69,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401270547,2021,regular-season,2020-12-22,2,258,home,FALSE,Virginia,76,Cavaliers,Virginia Cavaliers,Virginia
+401270547,2021,regular-season,2020-12-22,2,2729,away,FALSE,William & Mary,40,Tribe,William & Mary Tribe,William & Mary
+401260181,2021,regular-season,2020-12-22,2,152,home,FALSE,NC State,79,Wolfpack,NC State Wolfpack,NC State
+401260181,2021,regular-season,2020-12-22,2,153,away,FALSE,North Carolina,76,Tar Heels,North Carolina Tar Heels,North Carolina

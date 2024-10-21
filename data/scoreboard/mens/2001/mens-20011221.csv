@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213550201,2001-12-21,2,201,home,FALSE,Oklahoma,72,Sooners,Oklahoma Sooners,Oklahoma
-213550201,2001-12-21,2,120,away,FALSE,Maryland,56,Terrapins,Maryland Terrapins,Maryland
-213550333,2001-12-21,2,333,home,FALSE,Alabama,90,Crimson Tide,Alabama Crimson Tide,Alabama
-213550333,2001-12-21,2,2010,away,FALSE,Alabama A&M,54,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
-213552250,2001-12-21,2,2250,home,FALSE,Gonzaga,105,Bulldogs,Gonzaga Bulldogs,Gonzaga
-213552250,2001-12-21,2,2202,away,FALSE,Eastern Oregon,45,Mountaineers,Eastern Oregon Mountaineers,E Oregon
-213550344,2001-12-21,2,344,home,FALSE,Mississippi State,56,Bulldogs,Mississippi State Bulldogs,Mississippi St
-213550344,2001-12-21,2,2132,away,FALSE,Cincinnati,90,Bearcats,Cincinnati Bearcats,Cincinnati
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213550201,2002,regular-season,2001-12-21,2,201,home,FALSE,Oklahoma,72,Sooners,Oklahoma Sooners,Oklahoma
+213550201,2002,regular-season,2001-12-21,2,120,away,FALSE,Maryland,56,Terrapins,Maryland Terrapins,Maryland
+213550333,2002,regular-season,2001-12-21,2,333,home,FALSE,Alabama,90,Crimson Tide,Alabama Crimson Tide,Alabama
+213550333,2002,regular-season,2001-12-21,2,2010,away,FALSE,Alabama A&M,54,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+213552250,2002,regular-season,2001-12-21,2,2250,home,FALSE,Gonzaga,105,Bulldogs,Gonzaga Bulldogs,Gonzaga
+213552250,2002,regular-season,2001-12-21,2,2202,away,FALSE,Eastern Oregon,45,Mountaineers,Eastern Oregon Mountaineers,E Oregon
+213550344,2002,regular-season,2001-12-21,2,344,home,FALSE,Mississippi State,56,Bulldogs,Mississippi State Bulldogs,Mississippi St
+213550344,2002,regular-season,2001-12-21,2,2132,away,FALSE,Cincinnati,90,Bearcats,Cincinnati Bearcats,Cincinnati

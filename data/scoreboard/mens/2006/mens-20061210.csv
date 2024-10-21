@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263440251,2006-12-10,3,251,home,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
-263440251,2006-12-10,3,99,away,FALSE,LSU,75,Tigers,LSU Tigers,LSU
-263440103,2006-12-10,2,103,home,FALSE,Boston College,73,Eagles,Boston College Eagles,Boston College
-263440103,2006-12-10,2,120,away,FALSE,Maryland,62,Terrapins,Maryland Terrapins,Maryland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263440251,2007,regular-season,2006-12-10,3,251,home,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
+263440251,2007,regular-season,2006-12-10,3,99,away,FALSE,LSU,75,Tigers,LSU Tigers,LSU
+263440103,2007,regular-season,2006-12-10,2,103,home,FALSE,Boston College,73,Eagles,Boston College Eagles,Boston College
+263440103,2007,regular-season,2006-12-10,2,120,away,FALSE,Maryland,62,Terrapins,Maryland Terrapins,Maryland

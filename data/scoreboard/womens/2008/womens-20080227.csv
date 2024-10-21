@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280580164,2008-02-27,2,164,home,FALSE,Rutgers,60,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-280580164,2008-02-27,2,305,away,FALSE,DePaul,46,Blue Demons,DePaul Blue Demons,DePaul
-280580239,2008-02-27,2,239,home,FALSE,Baylor,76,Bears,Baylor Bears,Baylor
-280580239,2008-02-27,2,38,away,FALSE,Colorado,62,Buffaloes,Colorado Buffaloes,Colorado
-280582641,2008-02-27,2,2641,home,FALSE,Texas Tech,55,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-280582641,2008-02-27,2,201,away,FALSE,Oklahoma,65,Sooners,Oklahoma Sooners,Oklahoma
-280580087,2008-02-27,2,87,home,FALSE,Notre Dame,92,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-280580087,2008-02-27,2,58,away,FALSE,South Florida,49,Bulls,South Florida Bulls,South Florida
-280580257,2008-02-27,2,257,home,FALSE,Richmond,59,Spiders,Richmond Spiders,Richmond
-280580257,2008-02-27,2,45,away,FALSE,George Washington,75,Revolutionaries,George Washington Revolutionaries,G Washington
-280580254,2008-02-27,2,254,home,FALSE,Utah,68,Utes,Utah Utes,Utah
-280580254,2008-02-27,2,2628,away,FALSE,TCU,53,Horned Frogs,TCU Horned Frogs,TCU
-280580197,2008-02-27,2,197,home,FALSE,Oklahoma State,57,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-280580197,2008-02-27,2,245,away,FALSE,Texas A&M,63,Aggies,Texas A&M Aggies,Texas A&M
-280582306,2008-02-27,2,2306,home,FALSE,Kansas State,69,Wildcats,Kansas State Wildcats,Kansas St
-280582306,2008-02-27,2,158,away,FALSE,Nebraska,65,Cornhuskers,Nebraska Cornhuskers,Nebraska
-280582751,2008-02-27,2,2751,home,FALSE,Wyoming,68,Cowgirls,Wyoming Cowgirls,Wyoming
-280582751,2008-02-27,2,36,away,FALSE,Colorado State,46,Rams,Colorado State Rams,Colorado St
-280582612,2008-02-27,2,2612,home,FALSE,Saint Peter's,57,Peacocks,Saint Peter's Peacocks,Saint Peter's
-280582612,2008-02-27,2,2368,away,FALSE,Marist,70,Red Foxes,Marist Red Foxes,Marist
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280580164,2008,regular-season,2008-02-27,2,164,home,FALSE,Rutgers,60,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+280580164,2008,regular-season,2008-02-27,2,305,away,FALSE,DePaul,46,Blue Demons,DePaul Blue Demons,DePaul
+280580239,2008,regular-season,2008-02-27,2,239,home,FALSE,Baylor,76,Bears,Baylor Bears,Baylor
+280580239,2008,regular-season,2008-02-27,2,38,away,FALSE,Colorado,62,Buffaloes,Colorado Buffaloes,Colorado
+280582641,2008,regular-season,2008-02-27,2,2641,home,FALSE,Texas Tech,55,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+280582641,2008,regular-season,2008-02-27,2,201,away,FALSE,Oklahoma,65,Sooners,Oklahoma Sooners,Oklahoma
+280580087,2008,regular-season,2008-02-27,2,87,home,FALSE,Notre Dame,92,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+280580087,2008,regular-season,2008-02-27,2,58,away,FALSE,South Florida,49,Bulls,South Florida Bulls,South Florida
+280580257,2008,regular-season,2008-02-27,2,257,home,FALSE,Richmond,59,Spiders,Richmond Spiders,Richmond
+280580257,2008,regular-season,2008-02-27,2,45,away,FALSE,George Washington,75,Revolutionaries,George Washington Revolutionaries,G Washington
+280580254,2008,regular-season,2008-02-27,2,254,home,FALSE,Utah,68,Utes,Utah Utes,Utah
+280580254,2008,regular-season,2008-02-27,2,2628,away,FALSE,TCU,53,Horned Frogs,TCU Horned Frogs,TCU
+280580197,2008,regular-season,2008-02-27,2,197,home,FALSE,Oklahoma State,57,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+280580197,2008,regular-season,2008-02-27,2,245,away,FALSE,Texas A&M,63,Aggies,Texas A&M Aggies,Texas A&M
+280582306,2008,regular-season,2008-02-27,2,2306,home,FALSE,Kansas State,69,Wildcats,Kansas State Wildcats,Kansas St
+280582306,2008,regular-season,2008-02-27,2,158,away,FALSE,Nebraska,65,Cornhuskers,Nebraska Cornhuskers,Nebraska
+280582751,2008,regular-season,2008-02-27,2,2751,home,FALSE,Wyoming,68,Cowgirls,Wyoming Cowgirls,Wyoming
+280582751,2008,regular-season,2008-02-27,2,36,away,FALSE,Colorado State,46,Rams,Colorado State Rams,Colorado St
+280582612,2008,regular-season,2008-02-27,2,2612,home,FALSE,Saint Peter's,57,Peacocks,Saint Peter's Peacocks,Saint Peter's
+280582612,2008,regular-season,2008-02-27,2,2368,away,FALSE,Marist,70,Red Foxes,Marist Red Foxes,Marist

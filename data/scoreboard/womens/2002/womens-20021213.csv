@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-223470135,2002-12-13,2,135,home,FALSE,Minnesota,88,Golden Gophers,Minnesota Golden Gophers,Minnesota
-223470135,2002-12-13,2,140,away,FALSE,Kansas City,53,Roos,Kansas City Roos,Kansas City
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+223470135,2003,regular-season,2002-12-13,2,135,home,FALSE,Minnesota,88,Golden Gophers,Minnesota Golden Gophers,Minnesota
+223470135,2003,regular-season,2002-12-13,2,140,away,FALSE,Kansas City,53,Roos,Kansas City Roos,Kansas City

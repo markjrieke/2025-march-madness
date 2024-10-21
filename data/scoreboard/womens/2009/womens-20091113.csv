@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293170295,2009-11-13,2,295,home,FALSE,Old Dominion,56,Monarchs,Old Dominion Monarchs,Old Dominion
-293170295,2009-11-13,2,24,away,FALSE,Stanford,89,Cardinal,Stanford Cardinal,Stanford
-293170194,2009-11-13,2,194,home,FALSE,Ohio State,91,Buckeyes,Ohio State Buckeyes,Ohio State
-293170194,2009-11-13,2,2197,away,FALSE,Eastern Illinois,68,Panthers,Eastern Illinois Panthers,E Illinois
-293170153,2009-11-13,2,153,home,FALSE,North Carolina,88,Tar Heels,North Carolina Tar Heels,North Carolina
-293170153,2009-11-13,2,232,away,FALSE,Charleston,57,Cougars,Charleston Cougars,Charleston
-293170030,2009-11-13,3,30,home,FALSE,USC,71,Trojans,USC Trojans,USC
-293170030,2009-11-13,3,2752,away,FALSE,Xavier,81,Musketeers,Xavier Musketeers,Xavier
-293170251,2009-11-13,2,251,home,FALSE,Texas,71,Longhorns,Texas Longhorns,Texas
-293170251,2009-11-13,2,2636,away,FALSE,UTSA,60,Roadrunners,UTSA Roadrunners,UTSA
-293172277,2009-11-13,2,2277,home,FALSE,Houston Christian,35,Huskies,Houston Christian Huskies,Hou Christian
-293172277,2009-11-13,2,150,away,FALSE,Duke,104,Blue Devils,Duke Blue Devils,Duke
-293172378,2009-11-13,2,2378,home,FALSE,UMBC,57,Retrievers,UMBC Retrievers,UMBC
-293172378,2009-11-13,2,258,away,FALSE,Virginia,68,Cavaliers,Virginia Cavaliers,Virginia
-293170052,2009-11-13,2,52,home,FALSE,Florida State,79,Seminoles,Florida State Seminoles,Florida St
-293170052,2009-11-13,2,2454,away,FALSE,North Florida,50,Ospreys,North Florida Ospreys,North Florida
-293170305,2009-11-13,2,305,home,FALSE,DePaul,86,Blue Demons,DePaul Blue Demons,DePaul
-293170305,2009-11-13,2,2117,away,FALSE,Central Michigan,76,Chippewas,Central Michigan Chippewas,C Michigan
-293170201,2009-11-13,2,201,home,FALSE,Oklahoma,108,Sooners,Oklahoma Sooners,Oklahoma
-293170201,2009-11-13,2,2382,away,FALSE,Mercer,66,Bears,Mercer Bears,Mercer
-293172168,2009-11-13,2,2168,home,FALSE,Dayton,77,Flyers,Dayton Flyers,Dayton
-293172168,2009-11-13,2,127,away,FALSE,Michigan State,74,Spartans,Michigan State Spartans,Michigan St
-293170344,2009-11-13,2,344,home,FALSE,Mississippi State,106,Bulldogs,Mississippi State Bulldogs,Mississippi St
-293170344,2009-11-13,2,2029,away,FALSE,Arkansas-Pine Bluff,48,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293170295,2010,regular-season,2009-11-13,2,295,home,FALSE,Old Dominion,56,Monarchs,Old Dominion Monarchs,Old Dominion
+293170295,2010,regular-season,2009-11-13,2,24,away,FALSE,Stanford,89,Cardinal,Stanford Cardinal,Stanford
+293170194,2010,regular-season,2009-11-13,2,194,home,FALSE,Ohio State,91,Buckeyes,Ohio State Buckeyes,Ohio State
+293170194,2010,regular-season,2009-11-13,2,2197,away,FALSE,Eastern Illinois,68,Panthers,Eastern Illinois Panthers,E Illinois
+293170153,2010,regular-season,2009-11-13,2,153,home,FALSE,North Carolina,88,Tar Heels,North Carolina Tar Heels,North Carolina
+293170153,2010,regular-season,2009-11-13,2,232,away,FALSE,Charleston,57,Cougars,Charleston Cougars,Charleston
+293170030,2010,regular-season,2009-11-13,3,30,home,FALSE,USC,71,Trojans,USC Trojans,USC
+293170030,2010,regular-season,2009-11-13,3,2752,away,FALSE,Xavier,81,Musketeers,Xavier Musketeers,Xavier
+293170251,2010,regular-season,2009-11-13,2,251,home,FALSE,Texas,71,Longhorns,Texas Longhorns,Texas
+293170251,2010,regular-season,2009-11-13,2,2636,away,FALSE,UTSA,60,Roadrunners,UTSA Roadrunners,UTSA
+293172277,2010,regular-season,2009-11-13,2,2277,home,FALSE,Houston Christian,35,Huskies,Houston Christian Huskies,Hou Christian
+293172277,2010,regular-season,2009-11-13,2,150,away,FALSE,Duke,104,Blue Devils,Duke Blue Devils,Duke
+293172378,2010,regular-season,2009-11-13,2,2378,home,FALSE,UMBC,57,Retrievers,UMBC Retrievers,UMBC
+293172378,2010,regular-season,2009-11-13,2,258,away,FALSE,Virginia,68,Cavaliers,Virginia Cavaliers,Virginia
+293170052,2010,regular-season,2009-11-13,2,52,home,FALSE,Florida State,79,Seminoles,Florida State Seminoles,Florida St
+293170052,2010,regular-season,2009-11-13,2,2454,away,FALSE,North Florida,50,Ospreys,North Florida Ospreys,North Florida
+293170305,2010,regular-season,2009-11-13,2,305,home,FALSE,DePaul,86,Blue Demons,DePaul Blue Demons,DePaul
+293170305,2010,regular-season,2009-11-13,2,2117,away,FALSE,Central Michigan,76,Chippewas,Central Michigan Chippewas,C Michigan
+293170201,2010,regular-season,2009-11-13,2,201,home,FALSE,Oklahoma,108,Sooners,Oklahoma Sooners,Oklahoma
+293170201,2010,regular-season,2009-11-13,2,2382,away,FALSE,Mercer,66,Bears,Mercer Bears,Mercer
+293172168,2010,regular-season,2009-11-13,2,2168,home,FALSE,Dayton,77,Flyers,Dayton Flyers,Dayton
+293172168,2010,regular-season,2009-11-13,2,127,away,FALSE,Michigan State,74,Spartans,Michigan State Spartans,Michigan St
+293170344,2010,regular-season,2009-11-13,2,344,home,FALSE,Mississippi State,106,Bulldogs,Mississippi State Bulldogs,Mississippi St
+293170344,2010,regular-season,2009-11-13,2,2029,away,FALSE,Arkansas-Pine Bluff,48,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff

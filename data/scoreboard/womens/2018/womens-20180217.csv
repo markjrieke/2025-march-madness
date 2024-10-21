@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400994024,2018-02-17,4,239,home,FALSE,Baylor,88,Bears,Baylor Bears,Baylor
-400994024,2018-02-17,4,2305,away,FALSE,Kansas,51,Jayhawks,Kansas Jayhawks,Kansas
-400994111,2018-02-17,4,197,home,FALSE,Oklahoma State,62,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-400994111,2018-02-17,4,251,away,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
-400994514,2018-02-17,4,25,home,FALSE,California,78,Golden Bears,California Golden Bears,California
-400994514,2018-02-17,4,24,away,FALSE,Stanford,66,Cardinal,Stanford Cardinal,Stanford
-400998392,2018-02-17,4,2754,home,FALSE,Youngstown State,42,Penguins,Youngstown State Penguins,Youngstown St
-400998392,2018-02-17,4,2739,away,FALSE,Green Bay,67,Phoenix,Green Bay Phoenix,Green Bay
-400998720,2018-02-17,4,2057,home,FALSE,Belmont,80,Bruins,Belmont Bruins,Belmont
-400998720,2018-02-17,4,2413,away,FALSE,Morehead State,56,Eagles,Morehead State Eagles,Morehead St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400994024,2018,regular-season,2018-02-17,4,239,home,FALSE,Baylor,88,Bears,Baylor Bears,Baylor
+400994024,2018,regular-season,2018-02-17,4,2305,away,FALSE,Kansas,51,Jayhawks,Kansas Jayhawks,Kansas
+400994111,2018,regular-season,2018-02-17,4,197,home,FALSE,Oklahoma State,62,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+400994111,2018,regular-season,2018-02-17,4,251,away,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
+400994514,2018,regular-season,2018-02-17,4,25,home,FALSE,California,78,Golden Bears,California Golden Bears,California
+400994514,2018,regular-season,2018-02-17,4,24,away,FALSE,Stanford,66,Cardinal,Stanford Cardinal,Stanford
+400998392,2018,regular-season,2018-02-17,4,2754,home,FALSE,Youngstown State,42,Penguins,Youngstown State Penguins,Youngstown St
+400998392,2018,regular-season,2018-02-17,4,2739,away,FALSE,Green Bay,67,Phoenix,Green Bay Phoenix,Green Bay
+400998720,2018,regular-season,2018-02-17,4,2057,home,FALSE,Belmont,80,Bruins,Belmont Bruins,Belmont
+400998720,2018,regular-season,2018-02-17,4,2413,away,FALSE,Morehead State,56,Eagles,Morehead State Eagles,Morehead St

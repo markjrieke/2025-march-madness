@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400831537,2016-02-10,3,2641,home,FALSE,Texas Tech,85,Red Raiders,Texas Tech Red Raiders,Texas Tech
-400831537,2016-02-10,3,66,away,FALSE,Iowa State,82,Cyclones,Iowa State Cyclones,Iowa State
-400830446,2016-02-10,2,333,home,FALSE,Alabama,63,Crimson Tide,Alabama Crimson Tide,Alabama
-400830446,2016-02-10,2,245,away,FALSE,Texas A&M,62,Aggies,Texas A&M Aggies,Texas A&M
-400835294,2016-02-10,2,2567,home,FALSE,SMU,77,Mustangs,SMU Mustangs,SMU
-400835294,2016-02-10,2,202,away,FALSE,Tulsa,82,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-400840292,2016-02-10,4,269,home,FALSE,Marquette,96,Golden Eagles,Marquette Golden Eagles,Marquette
-400840292,2016-02-10,4,2507,away,FALSE,Providence,91,Friars,Providence Friars,Providence
-400831538,2016-02-10,2,2306,home,FALSE,Kansas State,72,Wildcats,Kansas State Wildcats,Kansas St
-400831538,2016-02-10,2,239,away,FALSE,Baylor,82,Bears,Baylor Bears,Baylor
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400831537,2016,regular-season,2016-02-10,3,2641,home,FALSE,Texas Tech,85,Red Raiders,Texas Tech Red Raiders,Texas Tech
+400831537,2016,regular-season,2016-02-10,3,66,away,FALSE,Iowa State,82,Cyclones,Iowa State Cyclones,Iowa State
+400830446,2016,regular-season,2016-02-10,2,333,home,FALSE,Alabama,63,Crimson Tide,Alabama Crimson Tide,Alabama
+400830446,2016,regular-season,2016-02-10,2,245,away,FALSE,Texas A&M,62,Aggies,Texas A&M Aggies,Texas A&M
+400835294,2016,regular-season,2016-02-10,2,2567,home,FALSE,SMU,77,Mustangs,SMU Mustangs,SMU
+400835294,2016,regular-season,2016-02-10,2,202,away,FALSE,Tulsa,82,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+400840292,2016,regular-season,2016-02-10,4,269,home,FALSE,Marquette,96,Golden Eagles,Marquette Golden Eagles,Marquette
+400840292,2016,regular-season,2016-02-10,4,2507,away,FALSE,Providence,91,Friars,Providence Friars,Providence
+400831538,2016,regular-season,2016-02-10,2,2306,home,FALSE,Kansas State,72,Wildcats,Kansas State Wildcats,Kansas St
+400831538,2016,regular-season,2016-02-10,2,239,away,FALSE,Baylor,82,Bears,Baylor Bears,Baylor

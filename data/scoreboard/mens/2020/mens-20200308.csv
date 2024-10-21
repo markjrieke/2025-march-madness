@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401166268,2020-03-08,2,120,home,FALSE,Maryland,83,Terrapins,Maryland Terrapins,Maryland
-401166268,2020-03-08,2,130,away,FALSE,Michigan,70,Wolverines,Michigan Wolverines,Michigan
-401166269,2020-03-08,2,127,home,FALSE,Michigan State,80,Spartans,Michigan State Spartans,Michigan St
-401166269,2020-03-08,2,194,away,FALSE,Ohio State,69,Buckeyes,Ohio State Buckeyes,Ohio State
-401166267,2020-03-08,2,356,home,FALSE,Illinois,78,Fighting Illini,Illinois Fighting Illini,Illinois
-401166267,2020-03-08,2,2294,away,FALSE,Iowa,76,Hawkeyes,Iowa Hawkeyes,Iowa
-401169507,2020-03-08,2,248,home,FALSE,Houston,64,Cougars,Houston Cougars,Houston
-401169507,2020-03-08,2,235,away,FALSE,Memphis,57,Tigers,Memphis Tigers,Memphis
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401166268,2020,regular-season,2020-03-08,2,120,home,FALSE,Maryland,83,Terrapins,Maryland Terrapins,Maryland
+401166268,2020,regular-season,2020-03-08,2,130,away,FALSE,Michigan,70,Wolverines,Michigan Wolverines,Michigan
+401166269,2020,regular-season,2020-03-08,2,127,home,FALSE,Michigan State,80,Spartans,Michigan State Spartans,Michigan St
+401166269,2020,regular-season,2020-03-08,2,194,away,FALSE,Ohio State,69,Buckeyes,Ohio State Buckeyes,Ohio State
+401166267,2020,regular-season,2020-03-08,2,356,home,FALSE,Illinois,78,Fighting Illini,Illinois Fighting Illini,Illinois
+401166267,2020,regular-season,2020-03-08,2,2294,away,FALSE,Iowa,76,Hawkeyes,Iowa Hawkeyes,Iowa
+401169507,2020,regular-season,2020-03-08,2,248,home,FALSE,Houston,64,Cougars,Houston Cougars,Houston
+401169507,2020,regular-season,2020-03-08,2,235,away,FALSE,Memphis,57,Tigers,Memphis Tigers,Memphis

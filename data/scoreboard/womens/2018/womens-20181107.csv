@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401092326,2018-11-07,4,24,home,FALSE,Stanford,71,Cardinal,Stanford Cardinal,Stanford
-401092326,2018-11-07,4,302,away,FALSE,UC Davis,43,Aggies,UC Davis Aggies,UC Davis
-401091932,2018-11-07,4,152,home,FALSE,NC State,77,Wolfpack,NC State Wolfpack,NC State
-401091932,2018-11-07,4,2057,away,FALSE,Belmont,62,Bruins,Belmont Bruins,Belmont
-401091402,2018-11-07,4,245,home,FALSE,Texas A&M,65,Aggies,Texas A&M Aggies,Texas A&M
-401091402,2018-11-07,4,242,away,FALSE,Rice,54,Owls,Rice Owls,Rice
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401092326,2019,regular-season,2018-11-07,4,24,home,FALSE,Stanford,71,Cardinal,Stanford Cardinal,Stanford
+401092326,2019,regular-season,2018-11-07,4,302,away,FALSE,UC Davis,43,Aggies,UC Davis Aggies,UC Davis
+401091932,2019,regular-season,2018-11-07,4,152,home,FALSE,NC State,77,Wolfpack,NC State Wolfpack,NC State
+401091932,2019,regular-season,2018-11-07,4,2057,away,FALSE,Belmont,62,Bruins,Belmont Bruins,Belmont
+401091402,2019,regular-season,2018-11-07,4,245,home,FALSE,Texas A&M,65,Aggies,Texas A&M Aggies,Texas A&M
+401091402,2019,regular-season,2018-11-07,4,242,away,FALSE,Rice,54,Owls,Rice Owls,Rice

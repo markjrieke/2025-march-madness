@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313640150,2011-12-30,2,150,home,FALSE,Duke,110,Blue Devils,Duke Blue Devils,Duke
-313640150,2011-12-30,2,2711,away,FALSE,Western Michigan,70,Broncos,Western Michigan Broncos,W Michigan
-313640295,2011-12-30,2,295,home,FALSE,Old Dominion,68,Monarchs,Old Dominion Monarchs,Old Dominion
-313640295,2011-12-30,2,142,away,FALSE,Missouri,75,Tigers,Missouri Tigers,Missouri
-313642197,2011-12-30,2,2197,home,FALSE,Eastern Illinois,40,Panthers,Eastern Illinois Panthers,E Illinois
-313642197,2011-12-30,2,93,away,FALSE,Murray State,73,Racers,Murray State Racers,Murray St
-313640258,2011-12-30,2,258,home,FALSE,Virginia,57,Cavaliers,Virginia Cavaliers,Virginia
-313640258,2011-12-30,2,119,away,FALSE,Towson,50,Tigers,Towson Tigers,Towson
-313640021,2011-12-30,2,21,home,FALSE,San Diego State,94,Aztecs,San Diego State Aztecs,San Diego St
-313640021,2011-12-30,2,29,away,FALSE,Redlands,43,Bulldogs,Redlands Bulldogs,Redlands
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313640150,2012,regular-season,2011-12-30,2,150,home,FALSE,Duke,110,Blue Devils,Duke Blue Devils,Duke
+313640150,2012,regular-season,2011-12-30,2,2711,away,FALSE,Western Michigan,70,Broncos,Western Michigan Broncos,W Michigan
+313640295,2012,regular-season,2011-12-30,2,295,home,FALSE,Old Dominion,68,Monarchs,Old Dominion Monarchs,Old Dominion
+313640295,2012,regular-season,2011-12-30,2,142,away,FALSE,Missouri,75,Tigers,Missouri Tigers,Missouri
+313642197,2012,regular-season,2011-12-30,2,2197,home,FALSE,Eastern Illinois,40,Panthers,Eastern Illinois Panthers,E Illinois
+313642197,2012,regular-season,2011-12-30,2,93,away,FALSE,Murray State,73,Racers,Murray State Racers,Murray St
+313640258,2012,regular-season,2011-12-30,2,258,home,FALSE,Virginia,57,Cavaliers,Virginia Cavaliers,Virginia
+313640258,2012,regular-season,2011-12-30,2,119,away,FALSE,Towson,50,Tigers,Towson Tigers,Towson
+313640021,2012,regular-season,2011-12-30,2,21,home,FALSE,San Diego State,94,Aztecs,San Diego State Aztecs,San Diego St
+313640021,2012,regular-season,2011-12-30,2,29,away,FALSE,Redlands,43,Bulldogs,Redlands Bulldogs,Redlands

@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220510041,2002-02-20,2,41,home,FALSE,UConn,106,Huskies,UConn Huskies,UConn
-220510041,2002-02-20,2,2507,away,FALSE,Providence,41,Friars,Providence Friars,Providence
-220510239,2002-02-20,2,239,home,FALSE,Baylor,80,Bears,Baylor Bears,Baylor
-220510239,2002-02-20,2,38,away,FALSE,Colorado,69,Buffaloes,Colorado Buffaloes,Colorado
-220510142,2002-02-20,2,142,home,FALSE,Missouri,52,Tigers,Missouri Tigers,Missouri
-220510142,2002-02-20,2,66,away,FALSE,Iowa State,62,Cyclones,Iowa State Cyclones,Iowa State
-220510103,2002-02-20,2,103,home,FALSE,Boston College,73,Eagles,Boston College Eagles,Boston College
-220510103,2002-02-20,2,183,away,FALSE,Syracuse,63,Orange,Syracuse Orange,Syracuse
-220512390,2002-02-20,2,2390,home,FALSE,Miami,55,Hurricanes,Miami Hurricanes,Miami
-220512390,2002-02-20,2,259,away,FALSE,Virginia Tech,53,Hokies,Virginia Tech Hokies,Virginia Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220510041,2002,regular-season,2002-02-20,2,41,home,FALSE,UConn,106,Huskies,UConn Huskies,UConn
+220510041,2002,regular-season,2002-02-20,2,2507,away,FALSE,Providence,41,Friars,Providence Friars,Providence
+220510239,2002,regular-season,2002-02-20,2,239,home,FALSE,Baylor,80,Bears,Baylor Bears,Baylor
+220510239,2002,regular-season,2002-02-20,2,38,away,FALSE,Colorado,69,Buffaloes,Colorado Buffaloes,Colorado
+220510142,2002,regular-season,2002-02-20,2,142,home,FALSE,Missouri,52,Tigers,Missouri Tigers,Missouri
+220510142,2002,regular-season,2002-02-20,2,66,away,FALSE,Iowa State,62,Cyclones,Iowa State Cyclones,Iowa State
+220510103,2002,regular-season,2002-02-20,2,103,home,FALSE,Boston College,73,Eagles,Boston College Eagles,Boston College
+220510103,2002,regular-season,2002-02-20,2,183,away,FALSE,Syracuse,63,Orange,Syracuse Orange,Syracuse
+220512390,2002,regular-season,2002-02-20,2,2390,home,FALSE,Miami,55,Hurricanes,Miami Hurricanes,Miami
+220512390,2002,regular-season,2002-02-20,2,259,away,FALSE,Virginia Tech,53,Hokies,Virginia Tech Hokies,Virginia Tech

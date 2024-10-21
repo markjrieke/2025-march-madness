@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290570153,2009-02-26,2,153,home,FALSE,North Carolina,90,Tar Heels,North Carolina Tar Heels,North Carolina
-290570153,2009-02-26,2,2390,away,FALSE,Miami,76,Hurricanes,Miami Hurricanes,Miami
-290570194,2009-02-26,2,194,home,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
-290570194,2009-02-26,2,275,away,FALSE,Wisconsin,53,Badgers,Wisconsin Badgers,Wisconsin
-290570099,2009-02-26,2,99,home,FALSE,LSU,63,Tigers,LSU Tigers,LSU
-290570099,2009-02-26,2,2633,away,FALSE,Tennessee,61,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-290570009,2009-02-26,2,9,home,FALSE,Arizona State,55,Sun Devils,Arizona State Sun Devils,Arizona St
-290570009,2009-02-26,2,264,away,FALSE,Washington,32,Huskies,Washington Huskies,Washington
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290570153,2009,regular-season,2009-02-26,2,153,home,FALSE,North Carolina,90,Tar Heels,North Carolina Tar Heels,North Carolina
+290570153,2009,regular-season,2009-02-26,2,2390,away,FALSE,Miami,76,Hurricanes,Miami Hurricanes,Miami
+290570194,2009,regular-season,2009-02-26,2,194,home,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
+290570194,2009,regular-season,2009-02-26,2,275,away,FALSE,Wisconsin,53,Badgers,Wisconsin Badgers,Wisconsin
+290570099,2009,regular-season,2009-02-26,2,99,home,FALSE,LSU,63,Tigers,LSU Tigers,LSU
+290570099,2009,regular-season,2009-02-26,2,2633,away,FALSE,Tennessee,61,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+290570009,2009,regular-season,2009-02-26,2,9,home,FALSE,Arizona State,55,Sun Devils,Arizona State Sun Devils,Arizona St
+290570009,2009,regular-season,2009-02-26,2,264,away,FALSE,Washington,32,Huskies,Washington Huskies,Washington

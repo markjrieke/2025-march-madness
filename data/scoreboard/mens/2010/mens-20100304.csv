@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300620127,2010-03-04,2,127,home,FALSE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
-300620127,2010-03-04,2,213,away,FALSE,Penn State,65,Nittany Lions,Penn State Nittany Lions,Penn State
-300630221,2010-03-04,2,221,home,FALSE,Pittsburgh,73,Panthers,Pittsburgh Panthers,Pitt
-300630221,2010-03-04,2,2507,away,FALSE,Providence,71,Friars,Providence Friars,Providence
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300620127,2010,regular-season,2010-03-04,2,127,home,FALSE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
+300620127,2010,regular-season,2010-03-04,2,213,away,FALSE,Penn State,65,Nittany Lions,Penn State Nittany Lions,Penn State
+300630221,2010,regular-season,2010-03-04,2,221,home,FALSE,Pittsburgh,73,Panthers,Pittsburgh Panthers,Pitt
+300630221,2010,regular-season,2010-03-04,2,2507,away,FALSE,Providence,71,Friars,Providence Friars,Providence

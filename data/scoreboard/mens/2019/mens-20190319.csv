@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401123378,2019-03-19,2,2504,home,TRUE,Prairie View A&M,76,Panthers,Prairie View A&M Panthers,Prairie View
-401123378,2019-03-19,2,161,away,TRUE,Fairleigh Dickinson,82,Knights,Fairleigh Dickinson Knights,Fair Dickinson
-401123380,2019-03-19,2,2057,home,TRUE,Belmont,81,Bruins,Belmont Bruins,Belmont
-401123380,2019-03-19,2,218,away,TRUE,Temple,70,Owls,Temple Owls,Temple
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401123378,2019,post-season,2019-03-19,2,2504,home,TRUE,Prairie View A&M,76,Panthers,Prairie View A&M Panthers,Prairie View
+401123378,2019,post-season,2019-03-19,2,161,away,TRUE,Fairleigh Dickinson,82,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+401123380,2019,post-season,2019-03-19,2,2057,home,TRUE,Belmont,81,Bruins,Belmont Bruins,Belmont
+401123380,2019,post-season,2019-03-19,2,218,away,TRUE,Temple,70,Owls,Temple Owls,Temple

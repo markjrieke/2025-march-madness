@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401609674,2024-01-19,4,38,home,FALSE,Colorado,68,Buffaloes,Colorado Buffaloes,Colorado
-401609674,2024-01-19,4,26,away,FALSE,UCLA,76,Bruins,UCLA Bruins,UCLA
-401609675,2024-01-19,4,254,home,FALSE,Utah,78,Utes,Utah Utes,Utah
-401609675,2024-01-19,4,30,away,FALSE,USC,58,Trojans,USC Trojans,USC
-401609678,2024-01-19,4,24,home,FALSE,Stanford,88,Cardinal,Stanford Cardinal,Stanford
-401609678,2024-01-19,4,2483,away,FALSE,Oregon,63,Ducks,Oregon Ducks,Oregon
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401609674,2024,regular-season,2024-01-19,4,38,home,FALSE,Colorado,68,Buffaloes,Colorado Buffaloes,Colorado
+401609674,2024,regular-season,2024-01-19,4,26,away,FALSE,UCLA,76,Bruins,UCLA Bruins,UCLA
+401609675,2024,regular-season,2024-01-19,4,254,home,FALSE,Utah,78,Utes,Utah Utes,Utah
+401609675,2024,regular-season,2024-01-19,4,30,away,FALSE,USC,58,Trojans,USC Trojans,USC
+401609678,2024,regular-season,2024-01-19,4,24,home,FALSE,Stanford,88,Cardinal,Stanford Cardinal,Stanford
+401609678,2024,regular-season,2024-01-19,4,2483,away,FALSE,Oregon,63,Ducks,Oregon Ducks,Oregon

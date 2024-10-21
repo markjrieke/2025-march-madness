@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220130152,2002-01-13,2,152,home,FALSE,NC State,57,Wolfpack,NC State Wolfpack,NC State
-220130152,2002-01-13,2,150,away,FALSE,Duke,76,Blue Devils,Duke Blue Devils,Duke
-220130059,2002-01-13,2,59,home,FALSE,Georgia Tech,87,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-220130059,2002-01-13,2,120,away,FALSE,Maryland,92,Terrapins,Maryland Terrapins,Maryland
-220132294,2002-01-13,2,2294,home,FALSE,Iowa,66,Hawkeyes,Iowa Hawkeyes,Iowa
-220132294,2002-01-13,2,84,away,FALSE,Indiana,77,Hoosiers,Indiana Hoosiers,Indiana
-220132250,2002-01-13,2,2250,home,FALSE,Gonzaga,75,Bulldogs,Gonzaga Bulldogs,Gonzaga
-220132250,2002-01-13,2,301,away,FALSE,San Diego,62,Toreros,San Diego Toreros,San Diego
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220130152,2002,regular-season,2002-01-13,2,152,home,FALSE,NC State,57,Wolfpack,NC State Wolfpack,NC State
+220130152,2002,regular-season,2002-01-13,2,150,away,FALSE,Duke,76,Blue Devils,Duke Blue Devils,Duke
+220130059,2002,regular-season,2002-01-13,2,59,home,FALSE,Georgia Tech,87,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+220130059,2002,regular-season,2002-01-13,2,120,away,FALSE,Maryland,92,Terrapins,Maryland Terrapins,Maryland
+220132294,2002,regular-season,2002-01-13,2,2294,home,FALSE,Iowa,66,Hawkeyes,Iowa Hawkeyes,Iowa
+220132294,2002,regular-season,2002-01-13,2,84,away,FALSE,Indiana,77,Hoosiers,Indiana Hoosiers,Indiana
+220132250,2002,regular-season,2002-01-13,2,2250,home,FALSE,Gonzaga,75,Bulldogs,Gonzaga Bulldogs,Gonzaga
+220132250,2002,regular-season,2002-01-13,2,301,away,FALSE,San Diego,62,Toreros,San Diego Toreros,San Diego

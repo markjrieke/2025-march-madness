@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400923164,2017-01-24,4,2535,home,FALSE,Samford,72,Bulldogs,Samford Bulldogs,Samford
-400923164,2017-01-24,4,2040,away,FALSE,Auburn-Montgomery,50,Senators,Auburn-Montgomery Senators,Aub-Montgomery
-400914271,2017-01-24,4,2506,home,FALSE,Presbyterian,60,Blue Hose,Presbyterian Blue Hose,Presbyterian
-400914271,2017-01-24,4,2427,away,FALSE,UNC Asheville,67,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-400914270,2017-01-24,4,2737,home,FALSE,Winthrop,78,Eagles,Winthrop Eagles,Winthrop
-400914270,2017-01-24,4,2344,away,FALSE,Longwood,72,Lancers,Longwood Lancers,Longwood
-400914269,2017-01-24,4,2127,home,FALSE,Charleston Southern,64,Buccaneers,Charleston Southern Buccaneers,Charleston So
-400914269,2017-01-24,4,2241,away,FALSE,Gardner-Webb,57,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-400914268,2017-01-24,4,2097,home,FALSE,Campbell,58,Fighting Camels,Campbell Fighting Camels,Campbell
-400914268,2017-01-24,4,2272,away,FALSE,High Point,33,Panthers,High Point Panthers,High Point
-400913580,2017-01-24,4,2515,home,FALSE,Radford,76,Highlanders,Radford Highlanders,Radford
-400913580,2017-01-24,4,2335,away,FALSE,Liberty,68,Flames,Liberty Flames,Liberty
-400912670,2017-01-24,4,2244,home,FALSE,George Mason,48,Patriots,George Mason Patriots,George Mason
-400912670,2017-01-24,4,2168,away,FALSE,Dayton,60,Flyers,Dayton Flyers,Dayton
-400911769,2017-01-24,4,151,home,FALSE,East Carolina,44,Pirates,East Carolina Pirates,East Carolina
-400911769,2017-01-24,4,41,away,FALSE,UConn,91,Huskies,UConn Huskies,UConn
-400911768,2017-01-24,4,2116,home,FALSE,UCF,64,Knights,UCF Knights,UCF
-400911768,2017-01-24,4,2132,away,FALSE,Cincinnati,44,Bearcats,Cincinnati Bearcats,Cincinnati
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400923164,2017,regular-season,2017-01-24,4,2535,home,FALSE,Samford,72,Bulldogs,Samford Bulldogs,Samford
+400923164,2017,regular-season,2017-01-24,4,2040,away,FALSE,Auburn-Montgomery,50,Senators,Auburn-Montgomery Senators,Aub-Montgomery
+400914271,2017,regular-season,2017-01-24,4,2506,home,FALSE,Presbyterian,60,Blue Hose,Presbyterian Blue Hose,Presbyterian
+400914271,2017,regular-season,2017-01-24,4,2427,away,FALSE,UNC Asheville,67,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+400914270,2017,regular-season,2017-01-24,4,2737,home,FALSE,Winthrop,78,Eagles,Winthrop Eagles,Winthrop
+400914270,2017,regular-season,2017-01-24,4,2344,away,FALSE,Longwood,72,Lancers,Longwood Lancers,Longwood
+400914269,2017,regular-season,2017-01-24,4,2127,home,FALSE,Charleston Southern,64,Buccaneers,Charleston Southern Buccaneers,Charleston So
+400914269,2017,regular-season,2017-01-24,4,2241,away,FALSE,Gardner-Webb,57,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+400914268,2017,regular-season,2017-01-24,4,2097,home,FALSE,Campbell,58,Fighting Camels,Campbell Fighting Camels,Campbell
+400914268,2017,regular-season,2017-01-24,4,2272,away,FALSE,High Point,33,Panthers,High Point Panthers,High Point
+400913580,2017,regular-season,2017-01-24,4,2515,home,FALSE,Radford,76,Highlanders,Radford Highlanders,Radford
+400913580,2017,regular-season,2017-01-24,4,2335,away,FALSE,Liberty,68,Flames,Liberty Flames,Liberty
+400912670,2017,regular-season,2017-01-24,4,2244,home,FALSE,George Mason,48,Patriots,George Mason Patriots,George Mason
+400912670,2017,regular-season,2017-01-24,4,2168,away,FALSE,Dayton,60,Flyers,Dayton Flyers,Dayton
+400911769,2017,regular-season,2017-01-24,4,151,home,FALSE,East Carolina,44,Pirates,East Carolina Pirates,East Carolina
+400911769,2017,regular-season,2017-01-24,4,41,away,FALSE,UConn,91,Huskies,UConn Huskies,UConn
+400911768,2017,regular-season,2017-01-24,4,2116,home,FALSE,UCF,64,Knights,UCF Knights,UCF
+400911768,2017,regular-season,2017-01-24,4,2132,away,FALSE,Cincinnati,44,Bearcats,Cincinnati Bearcats,Cincinnati

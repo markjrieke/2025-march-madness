@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400548885,2014-03-28,2,130,home,TRUE,Michigan,73,Wolverines,Michigan Wolverines,Michigan
-400548885,2014-03-28,2,2633,away,TRUE,Tennessee,71,Volunteers,Tennessee Volunteers,Tennessee
-400548879,2014-03-28,2,66,home,TRUE,Iowa State,76,Cyclones,Iowa State Cyclones,Iowa State
-400548879,2014-03-28,2,41,away,TRUE,UConn,81,Huskies,UConn Huskies,UConn
-400548877,2014-03-28,2,97,home,TRUE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
-400548877,2014-03-28,2,96,away,TRUE,Kentucky,74,Wildcats,Kentucky Wildcats,Kentucky
-400548899,2014-03-28,2,258,home,TRUE,Virginia,59,Cavaliers,Virginia Cavaliers,Virginia
-400548899,2014-03-28,2,127,away,TRUE,Michigan State,61,Spartans,Michigan State Spartans,Michigan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400548885,2014,post-season,2014-03-28,2,130,home,TRUE,Michigan,73,Wolverines,Michigan Wolverines,Michigan
+400548885,2014,post-season,2014-03-28,2,2633,away,TRUE,Tennessee,71,Volunteers,Tennessee Volunteers,Tennessee
+400548879,2014,post-season,2014-03-28,2,66,home,TRUE,Iowa State,76,Cyclones,Iowa State Cyclones,Iowa State
+400548879,2014,post-season,2014-03-28,2,41,away,TRUE,UConn,81,Huskies,UConn Huskies,UConn
+400548877,2014,post-season,2014-03-28,2,97,home,TRUE,Louisville,69,Cardinals,Louisville Cardinals,Louisville
+400548877,2014,post-season,2014-03-28,2,96,away,TRUE,Kentucky,74,Wildcats,Kentucky Wildcats,Kentucky
+400548899,2014,post-season,2014-03-28,2,258,home,TRUE,Virginia,59,Cavaliers,Virginia Cavaliers,Virginia
+400548899,2014,post-season,2014-03-28,2,127,away,TRUE,Michigan State,61,Spartans,Michigan State Spartans,Michigan St

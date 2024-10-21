@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230472305,2003-02-16,2,2305,home,FALSE,Kansas,70,Jayhawks,Kansas Jayhawks,Kansas
-230472305,2003-02-16,2,66,away,FALSE,Iowa State,51,Cyclones,Iowa State Cyclones,Iowa State
-230470120,2003-02-16,0,120,home,FALSE,Maryland,0,Terrapins,Maryland Terrapins,Maryland
-230470120,2003-02-16,0,154,away,FALSE,Wake Forest,0,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230472305,2003,regular-season,2003-02-16,2,2305,home,FALSE,Kansas,70,Jayhawks,Kansas Jayhawks,Kansas
+230472305,2003,regular-season,2003-02-16,2,66,away,FALSE,Iowa State,51,Cyclones,Iowa State Cyclones,Iowa State
+230470120,2003,regular-season,2003-02-16,0,120,home,FALSE,Maryland,0,Terrapins,Maryland Terrapins,Maryland
+230470120,2003,regular-season,2003-02-16,0,154,away,FALSE,Wake Forest,0,Demon Deacons,Wake Forest Demon Deacons,Wake Forest

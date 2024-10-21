@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400834856,2016-01-26,0,213,home,FALSE,Penn State,0,Lady Lions,Penn State Lady Lions,Penn State
-400834856,2016-01-26,0,120,away,FALSE,Maryland,0,Terrapins,Maryland Terrapins,Maryland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400834856,2016,regular-season,2016-01-26,0,213,home,FALSE,Penn State,0,Lady Lions,Penn State Lady Lions,Penn State
+400834856,2016,regular-season,2016-01-26,0,120,away,FALSE,Maryland,0,Terrapins,Maryland Terrapins,Maryland

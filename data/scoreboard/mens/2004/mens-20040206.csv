@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240372272,2004-02-06,3,2272,home,FALSE,High Point,81,Panthers,High Point Panthers,High Point
-240372272,2004-02-06,3,2127,away,FALSE,Charleston Southern,78,Buccaneers,Charleston Southern Buccaneers,Charleston So
-240370225,2004-02-06,2,225,home,FALSE,Brown,81,Bears,Brown Bears,Brown
-240370225,2004-02-06,2,172,away,FALSE,Cornell,96,Big Red,Cornell Big Red,Cornell
-240370219,2004-02-06,2,219,home,FALSE,Pennsylvania,104,Quakers,Pennsylvania Quakers,Penn
-240370219,2004-02-06,2,108,away,FALSE,Harvard,69,Crimson,Harvard Crimson,Harvard
-240370043,2004-02-06,2,43,home,FALSE,Yale,63,Bulldogs,Yale Bulldogs,Yale
-240370043,2004-02-06,2,171,away,FALSE,Columbia,58,Lions,Columbia Lions,Columbia
-240372653,2004-02-06,2,2653,home,FALSE,Troy,85,Trojans,Troy Trojans,Troy
-240372653,2004-02-06,2,2247,away,FALSE,Georgia State,69,Panthers,Georgia State Panthers,Georgia St
-240370163,2004-02-06,2,163,home,FALSE,Princeton,61,Tigers,Princeton Tigers,Princeton
-240370163,2004-02-06,2,159,away,FALSE,Dartmouth,45,Big Green,Dartmouth Big Green,Dartmouth
-240372520,2004-02-06,3,2520,home,FALSE,Rider,69,Broncs,Rider Broncs,Rider
-240372520,2004-02-06,3,2612,away,FALSE,Saint Peter's,77,Peacocks,Saint Peter's Peacocks,Saint Peter's
-240372142,2004-02-06,2,2142,home,FALSE,Colgate,75,Raiders,Colgate Raiders,Colgate
-240372142,2004-02-06,2,322,away,FALSE,Lafayette,66,Leopards,Lafayette Leopards,Lafayette
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240372272,2004,regular-season,2004-02-06,3,2272,home,FALSE,High Point,81,Panthers,High Point Panthers,High Point
+240372272,2004,regular-season,2004-02-06,3,2127,away,FALSE,Charleston Southern,78,Buccaneers,Charleston Southern Buccaneers,Charleston So
+240370225,2004,regular-season,2004-02-06,2,225,home,FALSE,Brown,81,Bears,Brown Bears,Brown
+240370225,2004,regular-season,2004-02-06,2,172,away,FALSE,Cornell,96,Big Red,Cornell Big Red,Cornell
+240370219,2004,regular-season,2004-02-06,2,219,home,FALSE,Pennsylvania,104,Quakers,Pennsylvania Quakers,Penn
+240370219,2004,regular-season,2004-02-06,2,108,away,FALSE,Harvard,69,Crimson,Harvard Crimson,Harvard
+240370043,2004,regular-season,2004-02-06,2,43,home,FALSE,Yale,63,Bulldogs,Yale Bulldogs,Yale
+240370043,2004,regular-season,2004-02-06,2,171,away,FALSE,Columbia,58,Lions,Columbia Lions,Columbia
+240372653,2004,regular-season,2004-02-06,2,2653,home,FALSE,Troy,85,Trojans,Troy Trojans,Troy
+240372653,2004,regular-season,2004-02-06,2,2247,away,FALSE,Georgia State,69,Panthers,Georgia State Panthers,Georgia St
+240370163,2004,regular-season,2004-02-06,2,163,home,FALSE,Princeton,61,Tigers,Princeton Tigers,Princeton
+240370163,2004,regular-season,2004-02-06,2,159,away,FALSE,Dartmouth,45,Big Green,Dartmouth Big Green,Dartmouth
+240372520,2004,regular-season,2004-02-06,3,2520,home,FALSE,Rider,69,Broncs,Rider Broncs,Rider
+240372520,2004,regular-season,2004-02-06,3,2612,away,FALSE,Saint Peter's,77,Peacocks,Saint Peter's Peacocks,Saint Peter's
+240372142,2004,regular-season,2004-02-06,2,2142,home,FALSE,Colgate,75,Raiders,Colgate Raiders,Colgate
+240372142,2004,regular-season,2004-02-06,2,322,away,FALSE,Lafayette,66,Leopards,Lafayette Leopards,Lafayette

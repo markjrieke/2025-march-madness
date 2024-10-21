@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401123398,2019-03-22,2,2132,home,TRUE,Cincinnati,72,Bearcats,Cincinnati Bearcats,Cincinnati
-401123398,2019-03-22,2,2294,away,TRUE,Iowa,79,Hawkeyes,Iowa Hawkeyes,Iowa
-401123411,2019-03-22,2,145,home,TRUE,Ole Miss,72,Rebels,Ole Miss Rebels,Ole Miss
-401123411,2019-03-22,2,201,away,TRUE,Oklahoma,95,Sooners,Oklahoma Sooners,Oklahoma
-401123407,2019-03-22,2,2641,home,TRUE,Texas Tech,72,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401123407,2019-03-22,2,94,away,TRUE,Northern Kentucky,57,Norse,Northern Kentucky Norse,N Kentucky
-401123409,2019-03-22,2,2306,home,TRUE,Kansas State,64,Wildcats,Kansas State Wildcats,Kansas St
-401123409,2019-03-22,2,300,away,TRUE,UC Irvine,70,Anteaters,UC Irvine Anteaters,UC Irvine
-401123397,2019-03-22,2,2633,home,TRUE,Tennessee,77,Volunteers,Tennessee Volunteers,Tennessee
-401123397,2019-03-22,2,2142,away,TRUE,Colgate,70,Raiders,Colgate Raiders,Colgate
-401123412,2019-03-22,2,258,home,TRUE,Virginia,71,Cavaliers,Virginia Cavaliers,Virginia
-401123412,2019-03-22,2,2241,away,TRUE,Gardner-Webb,56,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-401123408,2019-03-22,2,2084,home,TRUE,Buffalo,91,Bulls,Buffalo Bulls,Buffalo
-401123408,2019-03-22,2,9,away,TRUE,Arizona State,74,Sun Devils,Arizona State Sun Devils,Arizona St
-401123410,2019-03-22,2,275,home,TRUE,Wisconsin,54,Badgers,Wisconsin Badgers,Wisconsin
-401123410,2019-03-22,2,2483,away,TRUE,Oregon,72,Ducks,Oregon Ducks,Oregon
-401123415,2019-03-22,2,328,home,TRUE,Utah State,61,Aggies,Utah State Aggies,Utah State
-401123415,2019-03-22,2,264,away,TRUE,Washington,78,Huskies,Washington Huskies,Washington
-401123420,2019-03-22,2,150,home,TRUE,Duke,85,Blue Devils,Duke Blue Devils,Duke
-401123420,2019-03-22,2,2449,away,TRUE,North Dakota State,62,Bison,North Dakota State Bison,N Dakota St
-401123413,2019-03-22,2,248,home,TRUE,Houston,84,Cougars,Houston Cougars,Houston
-401123413,2019-03-22,2,2247,away,TRUE,Georgia State,55,Panthers,Georgia State Panthers,Georgia St
-401123418,2019-03-22,2,344,home,TRUE,Mississippi State,76,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401123418,2019-03-22,2,2335,away,TRUE,Liberty,80,Flames,Liberty Flames,Liberty
-401123416,2019-03-22,2,153,home,TRUE,North Carolina,88,Tar Heels,North Carolina Tar Heels,North Carolina
-401123416,2019-03-22,2,314,away,TRUE,Iona,73,Gaels,Iona Gaels,Iona
-401123419,2019-03-22,2,2670,home,TRUE,VCU,58,Rams,VCU Rams,VCU
-401123419,2019-03-22,2,2116,away,TRUE,UCF,73,Knights,UCF Knights,UCF
-401123414,2019-03-22,2,66,home,TRUE,Iowa State,59,Cyclones,Iowa State Cyclones,Iowa State
-401123414,2019-03-22,2,194,away,TRUE,Ohio State,62,Buckeyes,Ohio State Buckeyes,Ohio State
-401123417,2019-03-22,2,259,home,TRUE,Virginia Tech,66,Hokies,Virginia Tech Hokies,Virginia Tech
-401123417,2019-03-22,2,139,away,TRUE,Saint Louis,52,Billikens,Saint Louis Billikens,Saint Louis
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401123398,2019,post-season,2019-03-22,2,2132,home,TRUE,Cincinnati,72,Bearcats,Cincinnati Bearcats,Cincinnati
+401123398,2019,post-season,2019-03-22,2,2294,away,TRUE,Iowa,79,Hawkeyes,Iowa Hawkeyes,Iowa
+401123411,2019,post-season,2019-03-22,2,145,home,TRUE,Ole Miss,72,Rebels,Ole Miss Rebels,Ole Miss
+401123411,2019,post-season,2019-03-22,2,201,away,TRUE,Oklahoma,95,Sooners,Oklahoma Sooners,Oklahoma
+401123407,2019,post-season,2019-03-22,2,2641,home,TRUE,Texas Tech,72,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401123407,2019,post-season,2019-03-22,2,94,away,TRUE,Northern Kentucky,57,Norse,Northern Kentucky Norse,N Kentucky
+401123409,2019,post-season,2019-03-22,2,2306,home,TRUE,Kansas State,64,Wildcats,Kansas State Wildcats,Kansas St
+401123409,2019,post-season,2019-03-22,2,300,away,TRUE,UC Irvine,70,Anteaters,UC Irvine Anteaters,UC Irvine
+401123397,2019,post-season,2019-03-22,2,2633,home,TRUE,Tennessee,77,Volunteers,Tennessee Volunteers,Tennessee
+401123397,2019,post-season,2019-03-22,2,2142,away,TRUE,Colgate,70,Raiders,Colgate Raiders,Colgate
+401123412,2019,post-season,2019-03-22,2,258,home,TRUE,Virginia,71,Cavaliers,Virginia Cavaliers,Virginia
+401123412,2019,post-season,2019-03-22,2,2241,away,TRUE,Gardner-Webb,56,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+401123408,2019,post-season,2019-03-22,2,2084,home,TRUE,Buffalo,91,Bulls,Buffalo Bulls,Buffalo
+401123408,2019,post-season,2019-03-22,2,9,away,TRUE,Arizona State,74,Sun Devils,Arizona State Sun Devils,Arizona St
+401123410,2019,post-season,2019-03-22,2,275,home,TRUE,Wisconsin,54,Badgers,Wisconsin Badgers,Wisconsin
+401123410,2019,post-season,2019-03-22,2,2483,away,TRUE,Oregon,72,Ducks,Oregon Ducks,Oregon
+401123415,2019,post-season,2019-03-22,2,328,home,TRUE,Utah State,61,Aggies,Utah State Aggies,Utah State
+401123415,2019,post-season,2019-03-22,2,264,away,TRUE,Washington,78,Huskies,Washington Huskies,Washington
+401123420,2019,post-season,2019-03-22,2,150,home,TRUE,Duke,85,Blue Devils,Duke Blue Devils,Duke
+401123420,2019,post-season,2019-03-22,2,2449,away,TRUE,North Dakota State,62,Bison,North Dakota State Bison,N Dakota St
+401123413,2019,post-season,2019-03-22,2,248,home,TRUE,Houston,84,Cougars,Houston Cougars,Houston
+401123413,2019,post-season,2019-03-22,2,2247,away,TRUE,Georgia State,55,Panthers,Georgia State Panthers,Georgia St
+401123418,2019,post-season,2019-03-22,2,344,home,TRUE,Mississippi State,76,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401123418,2019,post-season,2019-03-22,2,2335,away,TRUE,Liberty,80,Flames,Liberty Flames,Liberty
+401123416,2019,post-season,2019-03-22,2,153,home,TRUE,North Carolina,88,Tar Heels,North Carolina Tar Heels,North Carolina
+401123416,2019,post-season,2019-03-22,2,314,away,TRUE,Iona,73,Gaels,Iona Gaels,Iona
+401123419,2019,post-season,2019-03-22,2,2670,home,TRUE,VCU,58,Rams,VCU Rams,VCU
+401123419,2019,post-season,2019-03-22,2,2116,away,TRUE,UCF,73,Knights,UCF Knights,UCF
+401123414,2019,post-season,2019-03-22,2,66,home,TRUE,Iowa State,59,Cyclones,Iowa State Cyclones,Iowa State
+401123414,2019,post-season,2019-03-22,2,194,away,TRUE,Ohio State,62,Buckeyes,Ohio State Buckeyes,Ohio State
+401123417,2019,post-season,2019-03-22,2,259,home,TRUE,Virginia Tech,66,Hokies,Virginia Tech Hokies,Virginia Tech
+401123417,2019,post-season,2019-03-22,2,139,away,TRUE,Saint Louis,52,Billikens,Saint Louis Billikens,Saint Louis

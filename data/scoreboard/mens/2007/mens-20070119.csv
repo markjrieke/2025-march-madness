@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270192612,2007-01-19,2,2612,home,FALSE,Saint Peter's,55,Peacocks,Saint Peter's Peacocks,Saint Peter's
-270192612,2007-01-19,2,2352,away,FALSE,Loyola Maryland,62,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-270192561,2007-01-19,2,2561,home,FALSE,Siena,67,Saints,Siena Saints,Siena
-270192561,2007-01-19,2,2217,away,FALSE,Fairfield,72,Stags,Fairfield Stags,Fairfield
-270192117,2007-01-19,2,2117,home,FALSE,Central Michigan,57,Chippewas,Central Michigan Chippewas,C Michigan
-270192117,2007-01-19,2,2050,away,FALSE,Ball State,64,Cardinals,Ball State Cardinals,Ball State
-270192550,2007-01-19,2,2550,home,FALSE,Seton Hall,58,Pirates,Seton Hall Pirates,Seton Hall
-270192550,2007-01-19,2,46,away,FALSE,Georgetown,74,Hoyas,Georgetown Hoyas,Georgetown
-270192193,2007-01-19,3,2193,home,FALSE,East Tennessee State,78,Buccaneers,East Tennessee State Buccaneers,ETSU
-270192193,2007-01-19,3,338,away,FALSE,Kennesaw State,66,Owls,Kennesaw State Owls,Kennesaw St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270192612,2007,regular-season,2007-01-19,2,2612,home,FALSE,Saint Peter's,55,Peacocks,Saint Peter's Peacocks,Saint Peter's
+270192612,2007,regular-season,2007-01-19,2,2352,away,FALSE,Loyola Maryland,62,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+270192561,2007,regular-season,2007-01-19,2,2561,home,FALSE,Siena,67,Saints,Siena Saints,Siena
+270192561,2007,regular-season,2007-01-19,2,2217,away,FALSE,Fairfield,72,Stags,Fairfield Stags,Fairfield
+270192117,2007,regular-season,2007-01-19,2,2117,home,FALSE,Central Michigan,57,Chippewas,Central Michigan Chippewas,C Michigan
+270192117,2007,regular-season,2007-01-19,2,2050,away,FALSE,Ball State,64,Cardinals,Ball State Cardinals,Ball State
+270192550,2007,regular-season,2007-01-19,2,2550,home,FALSE,Seton Hall,58,Pirates,Seton Hall Pirates,Seton Hall
+270192550,2007,regular-season,2007-01-19,2,46,away,FALSE,Georgetown,74,Hoyas,Georgetown Hoyas,Georgetown
+270192193,2007,regular-season,2007-01-19,3,2193,home,FALSE,East Tennessee State,78,Buccaneers,East Tennessee State Buccaneers,ETSU
+270192193,2007,regular-season,2007-01-19,3,338,away,FALSE,Kennesaw State,66,Owls,Kennesaw State Owls,Kennesaw St

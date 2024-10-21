@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330290194,2013-01-29,2,194,home,FALSE,Ohio State,58,Buckeyes,Ohio State Buckeyes,Ohio State
-330290194,2013-01-29,2,275,away,FALSE,Wisconsin,49,Badgers,Wisconsin Badgers,Wisconsin
-330292724,2013-01-29,2,2724,home,FALSE,Wichita State,55,Shockers,Wichita State Shockers,Wichita St
-330292724,2013-01-29,2,282,away,FALSE,Indiana State,68,Sycamores,Indiana State Sycamores,Indiana St
-330290145,2013-01-29,2,145,home,FALSE,Ole Miss,74,Rebels,Ole Miss Rebels,Ole Miss
-330290145,2013-01-29,2,96,away,FALSE,Kentucky,87,Wildcats,Kentucky Wildcats,Kentucky
-330290258,2013-01-29,2,258,home,FALSE,Virginia,58,Cavaliers,Virginia Cavaliers,Virginia
-330290258,2013-01-29,2,152,away,FALSE,NC State,55,Wolfpack,NC State Wolfpack,NC State
-330290135,2013-01-29,2,135,home,FALSE,Minnesota,84,Golden Gophers,Minnesota Golden Gophers,Minnesota
-330290135,2013-01-29,2,158,away,FALSE,Nebraska,65,Cornhuskers,Nebraska Cornhuskers,Nebraska
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330290194,2013,regular-season,2013-01-29,2,194,home,FALSE,Ohio State,58,Buckeyes,Ohio State Buckeyes,Ohio State
+330290194,2013,regular-season,2013-01-29,2,275,away,FALSE,Wisconsin,49,Badgers,Wisconsin Badgers,Wisconsin
+330292724,2013,regular-season,2013-01-29,2,2724,home,FALSE,Wichita State,55,Shockers,Wichita State Shockers,Wichita St
+330292724,2013,regular-season,2013-01-29,2,282,away,FALSE,Indiana State,68,Sycamores,Indiana State Sycamores,Indiana St
+330290145,2013,regular-season,2013-01-29,2,145,home,FALSE,Ole Miss,74,Rebels,Ole Miss Rebels,Ole Miss
+330290145,2013,regular-season,2013-01-29,2,96,away,FALSE,Kentucky,87,Wildcats,Kentucky Wildcats,Kentucky
+330290258,2013,regular-season,2013-01-29,2,258,home,FALSE,Virginia,58,Cavaliers,Virginia Cavaliers,Virginia
+330290258,2013,regular-season,2013-01-29,2,152,away,FALSE,NC State,55,Wolfpack,NC State Wolfpack,NC State
+330290135,2013,regular-season,2013-01-29,2,135,home,FALSE,Minnesota,84,Golden Gophers,Minnesota Golden Gophers,Minnesota
+330290135,2013,regular-season,2013-01-29,2,158,away,FALSE,Nebraska,65,Cornhuskers,Nebraska Cornhuskers,Nebraska

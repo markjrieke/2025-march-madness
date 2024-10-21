@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313442509,2011-12-10,2,2509,home,FALSE,Purdue,38,Boilermakers,Purdue Boilermakers,Purdue
-313442509,2011-12-10,2,87,away,FALSE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-313442390,2011-12-10,2,2390,home,FALSE,Miami,76,Hurricanes,Miami Hurricanes,Miami
-313442390,2011-12-10,2,145,away,FALSE,Ole Miss,48,Rebels,Ole Miss Rebels,Ole Miss
-313440194,2011-12-10,2,194,home,FALSE,Ohio State,84,Buckeyes,Ohio State Buckeyes,Ohio State
-313440194,2011-12-10,2,2099,away,FALSE,Canisius,41,Golden Griffins,Canisius Golden Griffins,Canisius
-313440097,2011-12-10,2,97,home,FALSE,Louisville,92,Cardinals,Louisville Cardinals,Louisville
-313440097,2011-12-10,2,2241,away,FALSE,Gardner-Webb,27,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-313440251,2011-12-10,2,251,home,FALSE,Texas,61,Longhorns,Texas Longhorns,Texas
-313440251,2011-12-10,2,127,away,FALSE,Michigan State,53,Spartans,Michigan State Spartans,Michigan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313442509,2012,regular-season,2011-12-10,2,2509,home,FALSE,Purdue,38,Boilermakers,Purdue Boilermakers,Purdue
+313442509,2012,regular-season,2011-12-10,2,87,away,FALSE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+313442390,2012,regular-season,2011-12-10,2,2390,home,FALSE,Miami,76,Hurricanes,Miami Hurricanes,Miami
+313442390,2012,regular-season,2011-12-10,2,145,away,FALSE,Ole Miss,48,Rebels,Ole Miss Rebels,Ole Miss
+313440194,2012,regular-season,2011-12-10,2,194,home,FALSE,Ohio State,84,Buckeyes,Ohio State Buckeyes,Ohio State
+313440194,2012,regular-season,2011-12-10,2,2099,away,FALSE,Canisius,41,Golden Griffins,Canisius Golden Griffins,Canisius
+313440097,2012,regular-season,2011-12-10,2,97,home,FALSE,Louisville,92,Cardinals,Louisville Cardinals,Louisville
+313440097,2012,regular-season,2011-12-10,2,2241,away,FALSE,Gardner-Webb,27,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+313440251,2012,regular-season,2011-12-10,2,251,home,FALSE,Texas,61,Longhorns,Texas Longhorns,Texas
+313440251,2012,regular-season,2011-12-10,2,127,away,FALSE,Michigan State,53,Spartans,Michigan State Spartans,Michigan St

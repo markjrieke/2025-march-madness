@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313250194,2011-11-21,2,194,home,FALSE,Ohio State,85,Buckeyes,Ohio State Buckeyes,Ohio State
-313250194,2011-11-21,2,2454,away,FALSE,North Florida,50,Ospreys,North Florida Ospreys,North Florida
-313250057,2011-11-21,2,57,home,TRUE,Florida,78,Gators,Florida Gators,Florida
-313250057,2011-11-21,2,2750,away,TRUE,Wright State,65,Raiders,Wright State Raiders,Wright St
-313250344,2011-11-21,2,344,home,FALSE,Mississippi State,78,Bulldogs,Mississippi State Bulldogs,Mississippi St
-313250344,2011-11-21,2,2433,away,FALSE,UL Monroe,63,Warhawks,UL Monroe Warhawks,UL Monroe
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313250194,2012,regular-season,2011-11-21,2,194,home,FALSE,Ohio State,85,Buckeyes,Ohio State Buckeyes,Ohio State
+313250194,2012,regular-season,2011-11-21,2,2454,away,FALSE,North Florida,50,Ospreys,North Florida Ospreys,North Florida
+313250057,2012,regular-season,2011-11-21,2,57,home,TRUE,Florida,78,Gators,Florida Gators,Florida
+313250057,2012,regular-season,2011-11-21,2,2750,away,TRUE,Wright State,65,Raiders,Wright State Raiders,Wright St
+313250344,2012,regular-season,2011-11-21,2,344,home,FALSE,Mississippi State,78,Bulldogs,Mississippi State Bulldogs,Mississippi St
+313250344,2012,regular-season,2011-11-21,2,2433,away,FALSE,UL Monroe,63,Warhawks,UL Monroe Warhawks,UL Monroe

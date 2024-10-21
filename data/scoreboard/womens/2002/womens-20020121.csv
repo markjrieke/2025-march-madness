@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220210041,2002-01-21,2,41,home,FALSE,UConn,80,Huskies,UConn Huskies,UConn
-220210041,2002-01-21,2,87,away,FALSE,Notre Dame,53,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-220210154,2002-01-21,2,154,home,FALSE,Wake Forest,65,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-220210154,2002-01-21,2,153,away,FALSE,North Carolina,64,Tar Heels,North Carolina Tar Heels,North Carolina
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220210041,2002,regular-season,2002-01-21,2,41,home,FALSE,UConn,80,Huskies,UConn Huskies,UConn
+220210041,2002,regular-season,2002-01-21,2,87,away,FALSE,Notre Dame,53,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+220210154,2002,regular-season,2002-01-21,2,154,home,FALSE,Wake Forest,65,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+220210154,2002,regular-season,2002-01-21,2,153,away,FALSE,North Carolina,64,Tar Heels,North Carolina Tar Heels,North Carolina

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293420046,2009-12-08,2,46,home,TRUE,Georgetown,72,Hoyas,Georgetown Hoyas,Georgetown
-293420046,2009-12-08,2,2086,away,TRUE,Butler,65,Bulldogs,Butler Bulldogs,Butler
-293422628,2009-12-08,2,2628,home,FALSE,TCU,70,Horned Frogs,TCU Horned Frogs,TCU
-293422628,2009-12-08,2,2641,away,FALSE,Texas Tech,80,Red Raiders,Texas Tech Red Raiders,Texas Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293420046,2010,regular-season,2009-12-08,2,46,home,TRUE,Georgetown,72,Hoyas,Georgetown Hoyas,Georgetown
+293420046,2010,regular-season,2009-12-08,2,2086,away,TRUE,Butler,65,Bulldogs,Butler Bulldogs,Butler
+293422628,2010,regular-season,2009-12-08,2,2628,home,FALSE,TCU,70,Horned Frogs,TCU Horned Frogs,TCU
+293422628,2010,regular-season,2009-12-08,2,2641,away,FALSE,Texas Tech,80,Red Raiders,Texas Tech Red Raiders,Texas Tech

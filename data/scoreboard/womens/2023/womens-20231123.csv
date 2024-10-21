@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401576993,2023-11-23,4,38,home,TRUE,Colorado,77,Buffaloes,Colorado Buffaloes,Colorado
-401576993,2023-11-23,4,2132,away,TRUE,Cincinnati,60,Bearcats,Cincinnati Bearcats,Cincinnati
-401574649,2023-11-23,4,152,home,TRUE,NC State,84,Wolfpack,NC State Wolfpack,NC State
-401574649,2023-11-23,4,96,away,TRUE,Kentucky,55,Wildcats,Kentucky Wildcats,Kentucky
-401576992,2023-11-23,4,251,home,TRUE,Texas,84,Longhorns,Texas Longhorns,Texas
-401576992,2023-11-23,4,9,away,TRUE,Arizona State,42,Sun Devils,Arizona State Sun Devils,Arizona St
-401578071,2023-11-23,4,2633,home,TRUE,Tennessee,57,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401578071,2023-11-23,4,84,away,TRUE,Indiana,71,Hoosiers,Indiana Hoosiers,Indiana
-401578069,2023-11-23,4,163,home,TRUE,Princeton,77,Tigers,Princeton Tigers,Princeton
-401578069,2023-11-23,4,201,away,TRUE,Oklahoma,63,Sooners,Oklahoma Sooners,Oklahoma
-401578129,2023-11-23,4,265,home,TRUE,Washington State,87,Cougars,Washington State Cougars,Washington St
-401578129,2023-11-23,4,120,away,TRUE,Maryland,67,Terrapins,Maryland Terrapins,Maryland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401576993,2024,regular-season,2023-11-23,4,38,home,TRUE,Colorado,77,Buffaloes,Colorado Buffaloes,Colorado
+401576993,2024,regular-season,2023-11-23,4,2132,away,TRUE,Cincinnati,60,Bearcats,Cincinnati Bearcats,Cincinnati
+401574649,2024,regular-season,2023-11-23,4,152,home,TRUE,NC State,84,Wolfpack,NC State Wolfpack,NC State
+401574649,2024,regular-season,2023-11-23,4,96,away,TRUE,Kentucky,55,Wildcats,Kentucky Wildcats,Kentucky
+401576992,2024,regular-season,2023-11-23,4,251,home,TRUE,Texas,84,Longhorns,Texas Longhorns,Texas
+401576992,2024,regular-season,2023-11-23,4,9,away,TRUE,Arizona State,42,Sun Devils,Arizona State Sun Devils,Arizona St
+401578071,2024,regular-season,2023-11-23,4,2633,home,TRUE,Tennessee,57,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401578071,2024,regular-season,2023-11-23,4,84,away,TRUE,Indiana,71,Hoosiers,Indiana Hoosiers,Indiana
+401578069,2024,regular-season,2023-11-23,4,163,home,TRUE,Princeton,77,Tigers,Princeton Tigers,Princeton
+401578069,2024,regular-season,2023-11-23,4,201,away,TRUE,Oklahoma,63,Sooners,Oklahoma Sooners,Oklahoma
+401578129,2024,regular-season,2023-11-23,4,265,home,TRUE,Washington State,87,Cougars,Washington State Cougars,Washington St
+401578129,2024,regular-season,2023-11-23,4,120,away,TRUE,Maryland,67,Terrapins,Maryland Terrapins,Maryland

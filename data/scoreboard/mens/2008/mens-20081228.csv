@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-283630153,2008-12-28,2,153,home,FALSE,North Carolina,97,Tar Heels,North Carolina Tar Heels,North Carolina
-283630153,2008-12-28,2,164,away,FALSE,Rutgers,75,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-283632509,2008-12-28,2,2509,home,FALSE,Purdue,59,Boilermakers,Purdue Boilermakers,Purdue
-283632509,2008-12-28,2,2674,away,FALSE,Valparaiso,45,Beacons,Valparaiso Beacons,Valparaiso
-283630026,2008-12-28,2,26,home,FALSE,UCLA,78,Bruins,UCLA Bruins,UCLA
-283630026,2008-12-28,2,2348,away,FALSE,Louisiana Tech,55,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
-283630135,2008-12-28,2,135,home,FALSE,Minnesota,82,Golden Gophers,Minnesota Golden Gophers,Minnesota
-283630135,2008-12-28,2,2272,away,FALSE,High Point,56,Panthers,High Point Panthers,High Point
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283630153,2009,regular-season,2008-12-28,2,153,home,FALSE,North Carolina,97,Tar Heels,North Carolina Tar Heels,North Carolina
+283630153,2009,regular-season,2008-12-28,2,164,away,FALSE,Rutgers,75,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+283632509,2009,regular-season,2008-12-28,2,2509,home,FALSE,Purdue,59,Boilermakers,Purdue Boilermakers,Purdue
+283632509,2009,regular-season,2008-12-28,2,2674,away,FALSE,Valparaiso,45,Beacons,Valparaiso Beacons,Valparaiso
+283630026,2009,regular-season,2008-12-28,2,26,home,FALSE,UCLA,78,Bruins,UCLA Bruins,UCLA
+283630026,2009,regular-season,2008-12-28,2,2348,away,FALSE,Louisiana Tech,55,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
+283630135,2009,regular-season,2008-12-28,2,135,home,FALSE,Minnesota,82,Golden Gophers,Minnesota Golden Gophers,Minnesota
+283630135,2009,regular-season,2008-12-28,2,2272,away,FALSE,High Point,56,Panthers,High Point Panthers,High Point

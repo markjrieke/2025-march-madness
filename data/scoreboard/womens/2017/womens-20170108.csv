@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400910926,2017-01-08,4,2633,home,FALSE,Tennessee,64,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400910926,2017-01-08,4,344,away,FALSE,Mississippi State,74,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400910923,2017-01-08,4,57,home,FALSE,Florida,62,Gators,Florida Gators,Florida
-400910923,2017-01-08,4,2579,away,FALSE,South Carolina,81,Gamecocks,South Carolina Gamecocks,South Carolina
-400912118,2017-01-08,4,52,home,FALSE,Florida State,69,Seminoles,Florida State Seminoles,Florida St
-400912118,2017-01-08,4,150,away,FALSE,Duke,45,Blue Devils,Duke Blue Devils,Duke
-400912120,2017-01-08,4,97,home,FALSE,Louisville,73,Cardinals,Louisville Cardinals,Louisville
-400912120,2017-01-08,4,221,away,FALSE,Pittsburgh,52,Panthers,Pittsburgh Panthers,Pitt
-400913931,2017-01-08,6,24,home,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
-400913931,2017-01-08,6,204,away,FALSE,Oregon State,72,Beavers,Oregon State Beavers,Oregon St
-400911144,2017-01-08,4,277,home,FALSE,West Virginia,83,Mountaineers,West Virginia Mountaineers,West Virginia
-400911144,2017-01-08,4,201,away,FALSE,Oklahoma,73,Sooners,Oklahoma Sooners,Oklahoma
-400912115,2017-01-08,4,228,home,FALSE,Clemson,69,Tigers,Clemson Tigers,Clemson
-400912115,2017-01-08,4,259,away,FALSE,Virginia Tech,78,Hokies,Virginia Tech Hokies,Virginia Tech
-400913930,2017-01-08,4,38,home,FALSE,Colorado,52,Buffaloes,Colorado Buffaloes,Colorado
-400913930,2017-01-08,4,9,away,FALSE,Arizona State,71,Sun Devils,Arizona State Sun Devils,Arizona St
-400913928,2017-01-08,4,25,home,FALSE,California,66,Golden Bears,California Golden Bears,California
-400913928,2017-01-08,4,2483,away,FALSE,Oregon,69,Ducks,Oregon Ducks,Oregon
-400922484,2017-01-08,4,2550,home,FALSE,Seton Hall,65,Pirates,Seton Hall Pirates,Seton Hall
-400922484,2017-01-08,4,305,away,FALSE,DePaul,96,Blue Demons,DePaul Blue Demons,DePaul
-400910925,2017-01-08,4,96,home,FALSE,Kentucky,68,Wildcats,Kentucky Wildcats,Kentucky
-400910925,2017-01-08,4,245,away,FALSE,Texas A&M,77,Aggies,Texas A&M Aggies,Texas A&M
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400910926,2017,regular-season,2017-01-08,4,2633,home,FALSE,Tennessee,64,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400910926,2017,regular-season,2017-01-08,4,344,away,FALSE,Mississippi State,74,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400910923,2017,regular-season,2017-01-08,4,57,home,FALSE,Florida,62,Gators,Florida Gators,Florida
+400910923,2017,regular-season,2017-01-08,4,2579,away,FALSE,South Carolina,81,Gamecocks,South Carolina Gamecocks,South Carolina
+400912118,2017,regular-season,2017-01-08,4,52,home,FALSE,Florida State,69,Seminoles,Florida State Seminoles,Florida St
+400912118,2017,regular-season,2017-01-08,4,150,away,FALSE,Duke,45,Blue Devils,Duke Blue Devils,Duke
+400912120,2017,regular-season,2017-01-08,4,97,home,FALSE,Louisville,73,Cardinals,Louisville Cardinals,Louisville
+400912120,2017,regular-season,2017-01-08,4,221,away,FALSE,Pittsburgh,52,Panthers,Pittsburgh Panthers,Pitt
+400913931,2017,regular-season,2017-01-08,6,24,home,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
+400913931,2017,regular-season,2017-01-08,6,204,away,FALSE,Oregon State,72,Beavers,Oregon State Beavers,Oregon St
+400911144,2017,regular-season,2017-01-08,4,277,home,FALSE,West Virginia,83,Mountaineers,West Virginia Mountaineers,West Virginia
+400911144,2017,regular-season,2017-01-08,4,201,away,FALSE,Oklahoma,73,Sooners,Oklahoma Sooners,Oklahoma
+400912115,2017,regular-season,2017-01-08,4,228,home,FALSE,Clemson,69,Tigers,Clemson Tigers,Clemson
+400912115,2017,regular-season,2017-01-08,4,259,away,FALSE,Virginia Tech,78,Hokies,Virginia Tech Hokies,Virginia Tech
+400913930,2017,regular-season,2017-01-08,4,38,home,FALSE,Colorado,52,Buffaloes,Colorado Buffaloes,Colorado
+400913930,2017,regular-season,2017-01-08,4,9,away,FALSE,Arizona State,71,Sun Devils,Arizona State Sun Devils,Arizona St
+400913928,2017,regular-season,2017-01-08,4,25,home,FALSE,California,66,Golden Bears,California Golden Bears,California
+400913928,2017,regular-season,2017-01-08,4,2483,away,FALSE,Oregon,69,Ducks,Oregon Ducks,Oregon
+400922484,2017,regular-season,2017-01-08,4,2550,home,FALSE,Seton Hall,65,Pirates,Seton Hall Pirates,Seton Hall
+400922484,2017,regular-season,2017-01-08,4,305,away,FALSE,DePaul,96,Blue Demons,DePaul Blue Demons,DePaul
+400910925,2017,regular-season,2017-01-08,4,96,home,FALSE,Kentucky,68,Wildcats,Kentucky Wildcats,Kentucky
+400910925,2017,regular-season,2017-01-08,4,245,away,FALSE,Texas A&M,77,Aggies,Texas A&M Aggies,Texas A&M

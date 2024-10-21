@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401369473,2021-12-16,5,152,home,FALSE,NC State,80,Wolfpack,NC State Wolfpack,NC State
-401369473,2021-12-16,5,61,away,FALSE,Georgia,82,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-401369474,2021-12-16,4,97,home,FALSE,Louisville,82,Cardinals,Louisville Cardinals,Louisville
-401369474,2021-12-16,4,2198,away,FALSE,Eastern Kentucky,38,Colonels,Eastern Kentucky Colonels,E Kentucky
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401369473,2022,regular-season,2021-12-16,5,152,home,FALSE,NC State,80,Wolfpack,NC State Wolfpack,NC State
+401369473,2022,regular-season,2021-12-16,5,61,away,FALSE,Georgia,82,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+401369474,2022,regular-season,2021-12-16,4,97,home,FALSE,Louisville,82,Cardinals,Louisville Cardinals,Louisville
+401369474,2022,regular-season,2021-12-16,4,2198,away,FALSE,Eastern Kentucky,38,Colonels,Eastern Kentucky Colonels,E Kentucky

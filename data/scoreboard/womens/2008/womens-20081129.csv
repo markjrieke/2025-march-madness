@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-283340153,2008-11-29,2,153,home,TRUE,North Carolina,82,Tar Heels,North Carolina Tar Heels,North Carolina
-283340153,2008-11-29,2,204,away,TRUE,Oregon State,78,Beavers,Oregon State Beavers,Oregon St
-283342294,2008-11-29,2,2294,home,TRUE,Iowa,43,Hawkeyes,Iowa Hawkeyes,Iowa
-283342294,2008-11-29,2,25,away,TRUE,California,76,Golden Bears,California Golden Bears,California
-283340024,2008-11-29,2,24,home,TRUE,Stanford,83,Cardinal,Stanford Cardinal,Stanford
-283340024,2008-11-29,2,66,away,TRUE,Iowa State,45,Cyclones,Iowa State Cyclones,Iowa State
-283340239,2008-11-29,2,239,home,TRUE,Baylor,58,Bears,Baylor Bears,Baylor
-283340239,2008-11-29,2,275,away,TRUE,Wisconsin,59,Badgers,Wisconsin Badgers,Wisconsin
-283342440,2008-11-29,2,2440,home,FALSE,Nevada,85,Wolf Pack,Nevada Wolf Pack,Nevada
-283342440,2008-11-29,2,97,away,FALSE,Louisville,82,Cardinals,Louisville Cardinals,Louisville
-283342492,2008-11-29,2,2492,home,FALSE,Pepperdine,60,Waves,Pepperdine Waves,Pepperdine
-283342492,2008-11-29,2,245,away,FALSE,Texas A&M,70,Aggies,Texas A&M Aggies,Texas A&M
-283340251,2008-11-29,2,251,home,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
-283340251,2008-11-29,2,59,away,FALSE,Georgia Tech,68,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-283340087,2008-11-29,2,87,home,FALSE,Notre Dame,78,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-283340087,2008-11-29,2,127,away,FALSE,Michigan State,72,Spartans,Michigan State Spartans,Michigan St
-283340002,2008-11-29,2,2,home,TRUE,Auburn,66,Tigers,Auburn Tigers,Auburn
-283340002,2008-11-29,2,152,away,TRUE,NC State,51,Wolfpack,NC State Wolfpack,NC State
-283340269,2008-11-29,2,269,home,FALSE,Marquette,71,Golden Eagles,Marquette Golden Eagles,Marquette
-283340269,2008-11-29,2,258,away,FALSE,Virginia,76,Cavaliers,Virginia Cavaliers,Virginia
-283340238,2008-11-29,2,238,home,FALSE,Vanderbilt,72,Commodores,Vanderbilt Commodores,Vanderbilt
-283340238,2008-11-29,2,259,away,FALSE,Virginia Tech,43,Hokies,Virginia Tech Hokies,Virginia Tech
-283340062,2008-11-29,2,62,home,FALSE,Hawai'i,74,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
-283340062,2008-11-29,2,2509,away,FALSE,Purdue,90,Boilermakers,Purdue Boilermakers,Purdue
-283340194,2008-11-29,2,194,home,FALSE,Ohio State,72,Buckeyes,Ohio State Buckeyes,Ohio State
-283340194,2008-11-29,2,104,away,FALSE,Boston University,47,Terriers,Boston University Terriers,Boston U
-283340009,2008-11-29,2,9,home,TRUE,Arizona State,60,Sun Devils,Arizona State Sun Devils,Arizona St
-283340009,2008-11-29,2,57,away,TRUE,Florida,65,Gators,Florida Gators,Florida
-283342752,2008-11-29,2,2752,home,FALSE,Xavier,66,Musketeers,Xavier Musketeers,Xavier
-283342752,2008-11-29,2,2737,away,FALSE,Winthrop,43,Eagles,Winthrop Eagles,Winthrop
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283340153,2009,regular-season,2008-11-29,2,153,home,TRUE,North Carolina,82,Tar Heels,North Carolina Tar Heels,North Carolina
+283340153,2009,regular-season,2008-11-29,2,204,away,TRUE,Oregon State,78,Beavers,Oregon State Beavers,Oregon St
+283342294,2009,regular-season,2008-11-29,2,2294,home,TRUE,Iowa,43,Hawkeyes,Iowa Hawkeyes,Iowa
+283342294,2009,regular-season,2008-11-29,2,25,away,TRUE,California,76,Golden Bears,California Golden Bears,California
+283340024,2009,regular-season,2008-11-29,2,24,home,TRUE,Stanford,83,Cardinal,Stanford Cardinal,Stanford
+283340024,2009,regular-season,2008-11-29,2,66,away,TRUE,Iowa State,45,Cyclones,Iowa State Cyclones,Iowa State
+283340239,2009,regular-season,2008-11-29,2,239,home,TRUE,Baylor,58,Bears,Baylor Bears,Baylor
+283340239,2009,regular-season,2008-11-29,2,275,away,TRUE,Wisconsin,59,Badgers,Wisconsin Badgers,Wisconsin
+283342440,2009,regular-season,2008-11-29,2,2440,home,FALSE,Nevada,85,Wolf Pack,Nevada Wolf Pack,Nevada
+283342440,2009,regular-season,2008-11-29,2,97,away,FALSE,Louisville,82,Cardinals,Louisville Cardinals,Louisville
+283342492,2009,regular-season,2008-11-29,2,2492,home,FALSE,Pepperdine,60,Waves,Pepperdine Waves,Pepperdine
+283342492,2009,regular-season,2008-11-29,2,245,away,FALSE,Texas A&M,70,Aggies,Texas A&M Aggies,Texas A&M
+283340251,2009,regular-season,2008-11-29,2,251,home,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
+283340251,2009,regular-season,2008-11-29,2,59,away,FALSE,Georgia Tech,68,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+283340087,2009,regular-season,2008-11-29,2,87,home,FALSE,Notre Dame,78,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+283340087,2009,regular-season,2008-11-29,2,127,away,FALSE,Michigan State,72,Spartans,Michigan State Spartans,Michigan St
+283340002,2009,regular-season,2008-11-29,2,2,home,TRUE,Auburn,66,Tigers,Auburn Tigers,Auburn
+283340002,2009,regular-season,2008-11-29,2,152,away,TRUE,NC State,51,Wolfpack,NC State Wolfpack,NC State
+283340269,2009,regular-season,2008-11-29,2,269,home,FALSE,Marquette,71,Golden Eagles,Marquette Golden Eagles,Marquette
+283340269,2009,regular-season,2008-11-29,2,258,away,FALSE,Virginia,76,Cavaliers,Virginia Cavaliers,Virginia
+283340238,2009,regular-season,2008-11-29,2,238,home,FALSE,Vanderbilt,72,Commodores,Vanderbilt Commodores,Vanderbilt
+283340238,2009,regular-season,2008-11-29,2,259,away,FALSE,Virginia Tech,43,Hokies,Virginia Tech Hokies,Virginia Tech
+283340062,2009,regular-season,2008-11-29,2,62,home,FALSE,Hawai'i,74,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
+283340062,2009,regular-season,2008-11-29,2,2509,away,FALSE,Purdue,90,Boilermakers,Purdue Boilermakers,Purdue
+283340194,2009,regular-season,2008-11-29,2,194,home,FALSE,Ohio State,72,Buckeyes,Ohio State Buckeyes,Ohio State
+283340194,2009,regular-season,2008-11-29,2,104,away,FALSE,Boston University,47,Terriers,Boston University Terriers,Boston U
+283340009,2009,regular-season,2008-11-29,2,9,home,TRUE,Arizona State,60,Sun Devils,Arizona State Sun Devils,Arizona St
+283340009,2009,regular-season,2008-11-29,2,57,away,TRUE,Florida,65,Gators,Florida Gators,Florida
+283342752,2009,regular-season,2008-11-29,2,2752,home,FALSE,Xavier,66,Musketeers,Xavier Musketeers,Xavier
+283342752,2009,regular-season,2008-11-29,2,2737,away,FALSE,Winthrop,43,Eagles,Winthrop Eagles,Winthrop

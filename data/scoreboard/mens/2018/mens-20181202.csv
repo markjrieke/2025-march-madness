@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401082977,2018-12-02,2,2633,home,FALSE,Tennessee,79,Volunteers,Tennessee Volunteers,Tennessee
-401082977,2018-12-02,2,357,away,FALSE,Texas A&M-Corpus Christi,51,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-401082497,2018-12-02,2,194,home,FALSE,Ohio State,79,Buckeyes,Ohio State Buckeyes,Ohio State
-401082497,2018-12-02,2,135,away,FALSE,Minnesota,59,Golden Gophers,Minnesota Golden Gophers,Minnesota
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401082977,2019,regular-season,2018-12-02,2,2633,home,FALSE,Tennessee,79,Volunteers,Tennessee Volunteers,Tennessee
+401082977,2019,regular-season,2018-12-02,2,357,away,FALSE,Texas A&M-Corpus Christi,51,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+401082497,2019,regular-season,2018-12-02,2,194,home,FALSE,Ohio State,79,Buckeyes,Ohio State Buckeyes,Ohio State
+401082497,2019,regular-season,2018-12-02,2,135,away,FALSE,Minnesota,59,Golden Gophers,Minnesota Golden Gophers,Minnesota

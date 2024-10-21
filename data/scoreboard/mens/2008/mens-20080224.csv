@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280550153,2008-02-24,2,153,home,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
-280550153,2008-02-24,2,154,away,FALSE,Wake Forest,73,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-280550024,2008-02-24,2,24,home,FALSE,Stanford,79,Cardinal,Stanford Cardinal,Stanford
-280550024,2008-02-24,2,25,away,FALSE,California,69,Golden Bears,California Golden Bears,California
-280552168,2008-02-24,2,2168,home,FALSE,Dayton,51,Flyers,Dayton Flyers,Dayton
-280552168,2008-02-24,2,2752,away,FALSE,Xavier,57,Musketeers,Xavier Musketeers,Xavier
-280550194,2008-02-24,2,194,home,FALSE,Ohio State,53,Buckeyes,Ohio State Buckeyes,Ohio State
-280550194,2008-02-24,2,275,away,FALSE,Wisconsin,58,Badgers,Wisconsin Badgers,Wisconsin
-280550221,2008-02-24,2,221,home,FALSE,Pittsburgh,73,Panthers,Pittsburgh Panthers,Pitt
-280550221,2008-02-24,2,97,away,FALSE,Louisville,75,Cardinals,Louisville Cardinals,Louisville
-280550087,2008-02-24,2,87,home,FALSE,Notre Dame,94,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-280550087,2008-02-24,2,183,away,FALSE,Syracuse,87,Orange,Syracuse Orange,Syracuse
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280550153,2008,regular-season,2008-02-24,2,153,home,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
+280550153,2008,regular-season,2008-02-24,2,154,away,FALSE,Wake Forest,73,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+280550024,2008,regular-season,2008-02-24,2,24,home,FALSE,Stanford,79,Cardinal,Stanford Cardinal,Stanford
+280550024,2008,regular-season,2008-02-24,2,25,away,FALSE,California,69,Golden Bears,California Golden Bears,California
+280552168,2008,regular-season,2008-02-24,2,2168,home,FALSE,Dayton,51,Flyers,Dayton Flyers,Dayton
+280552168,2008,regular-season,2008-02-24,2,2752,away,FALSE,Xavier,57,Musketeers,Xavier Musketeers,Xavier
+280550194,2008,regular-season,2008-02-24,2,194,home,FALSE,Ohio State,53,Buckeyes,Ohio State Buckeyes,Ohio State
+280550194,2008,regular-season,2008-02-24,2,275,away,FALSE,Wisconsin,58,Badgers,Wisconsin Badgers,Wisconsin
+280550221,2008,regular-season,2008-02-24,2,221,home,FALSE,Pittsburgh,73,Panthers,Pittsburgh Panthers,Pitt
+280550221,2008,regular-season,2008-02-24,2,97,away,FALSE,Louisville,75,Cardinals,Louisville Cardinals,Louisville
+280550087,2008,regular-season,2008-02-24,2,87,home,FALSE,Notre Dame,94,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+280550087,2008,regular-season,2008-02-24,2,183,away,FALSE,Syracuse,87,Orange,Syracuse Orange,Syracuse

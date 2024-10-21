@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400508685,2013-11-23,2,219,home,FALSE,Pennsylvania,54,Quakers,Pennsylvania Quakers,Penn
-400508685,2013-11-23,2,87,away,FALSE,Notre Dame,76,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400503672,2013-11-23,2,251,home,FALSE,Texas,54,Longhorns,Texas Longhorns,Texas
-400503672,2013-11-23,2,24,away,FALSE,Stanford,63,Cardinal,Stanford Cardinal,Stanford
-400508683,2013-11-23,2,119,home,FALSE,Towson,53,Tigers,Towson Tigers,Towson
-400508683,2013-11-23,2,120,away,FALSE,Maryland,90,Terrapins,Maryland Terrapins,Maryland
-400508336,2013-11-23,2,2348,home,FALSE,Louisiana Tech,69,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-400508336,2013-11-23,2,99,away,FALSE,LSU,81,Tigers,LSU Tigers,LSU
-400509755,2013-11-23,2,167,home,FALSE,New Mexico,53,Lobos,New Mexico Lobos,New Mexico
-400509755,2013-11-23,2,38,away,FALSE,Colorado,85,Buffaloes,Colorado Buffaloes,Colorado
-400508337,2013-11-23,2,21,home,FALSE,San Diego State,54,Aztecs,San Diego State Aztecs,San Diego St
-400508337,2013-11-23,2,2579,away,FALSE,South Carolina,88,Gamecocks,South Carolina Gamecocks,South Carolina
-400510578,2013-11-23,2,127,home,FALSE,Michigan State,81,Spartans,Michigan State Spartans,Michigan St
-400510578,2013-11-23,2,242,away,FALSE,Rice,68,Owls,Rice Owls,Rice
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400508685,2014,regular-season,2013-11-23,2,219,home,FALSE,Pennsylvania,54,Quakers,Pennsylvania Quakers,Penn
+400508685,2014,regular-season,2013-11-23,2,87,away,FALSE,Notre Dame,76,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400503672,2014,regular-season,2013-11-23,2,251,home,FALSE,Texas,54,Longhorns,Texas Longhorns,Texas
+400503672,2014,regular-season,2013-11-23,2,24,away,FALSE,Stanford,63,Cardinal,Stanford Cardinal,Stanford
+400508683,2014,regular-season,2013-11-23,2,119,home,FALSE,Towson,53,Tigers,Towson Tigers,Towson
+400508683,2014,regular-season,2013-11-23,2,120,away,FALSE,Maryland,90,Terrapins,Maryland Terrapins,Maryland
+400508336,2014,regular-season,2013-11-23,2,2348,home,FALSE,Louisiana Tech,69,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+400508336,2014,regular-season,2013-11-23,2,99,away,FALSE,LSU,81,Tigers,LSU Tigers,LSU
+400509755,2014,regular-season,2013-11-23,2,167,home,FALSE,New Mexico,53,Lobos,New Mexico Lobos,New Mexico
+400509755,2014,regular-season,2013-11-23,2,38,away,FALSE,Colorado,85,Buffaloes,Colorado Buffaloes,Colorado
+400508337,2014,regular-season,2013-11-23,2,21,home,FALSE,San Diego State,54,Aztecs,San Diego State Aztecs,San Diego St
+400508337,2014,regular-season,2013-11-23,2,2579,away,FALSE,South Carolina,88,Gamecocks,South Carolina Gamecocks,South Carolina
+400510578,2014,regular-season,2013-11-23,2,127,home,FALSE,Michigan State,81,Spartans,Michigan State Spartans,Michigan St
+400510578,2014,regular-season,2013-11-23,2,242,away,FALSE,Rice,68,Owls,Rice Owls,Rice

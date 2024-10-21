@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320570194,2012-02-26,2,194,home,FALSE,Ohio State,60,Buckeyes,Ohio State Buckeyes,Ohio State
-320570194,2012-02-26,2,275,away,FALSE,Wisconsin,63,Badgers,Wisconsin Badgers,Wisconsin
-320572390,2012-02-26,2,2390,home,FALSE,Miami,78,Hurricanes,Miami Hurricanes,Miami
-320572390,2012-02-26,2,52,away,FALSE,Florida State,62,Seminoles,Florida State Seminoles,Florida St
-320570097,2012-02-26,2,97,home,FALSE,Louisville,57,Cardinals,Louisville Cardinals,Louisville
-320570097,2012-02-26,2,221,away,FALSE,Pittsburgh,54,Panthers,Pittsburgh Panthers,Pitt
-320570135,2012-02-26,2,135,home,FALSE,Minnesota,50,Golden Gophers,Minnesota Golden Gophers,Minnesota
-320570135,2012-02-26,2,84,away,FALSE,Indiana,69,Hoosiers,Indiana Hoosiers,Indiana
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320570194,2012,regular-season,2012-02-26,2,194,home,FALSE,Ohio State,60,Buckeyes,Ohio State Buckeyes,Ohio State
+320570194,2012,regular-season,2012-02-26,2,275,away,FALSE,Wisconsin,63,Badgers,Wisconsin Badgers,Wisconsin
+320572390,2012,regular-season,2012-02-26,2,2390,home,FALSE,Miami,78,Hurricanes,Miami Hurricanes,Miami
+320572390,2012,regular-season,2012-02-26,2,52,away,FALSE,Florida State,62,Seminoles,Florida State Seminoles,Florida St
+320570097,2012,regular-season,2012-02-26,2,97,home,FALSE,Louisville,57,Cardinals,Louisville Cardinals,Louisville
+320570097,2012,regular-season,2012-02-26,2,221,away,FALSE,Pittsburgh,54,Panthers,Pittsburgh Panthers,Pitt
+320570135,2012,regular-season,2012-02-26,2,135,home,FALSE,Minnesota,50,Golden Gophers,Minnesota Golden Gophers,Minnesota
+320570135,2012,regular-season,2012-02-26,2,84,away,FALSE,Indiana,69,Hoosiers,Indiana Hoosiers,Indiana

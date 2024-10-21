@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220530030,2002-02-22,2,30,home,FALSE,USC,60,Trojans,USC Trojans,USC
-220530030,2002-02-22,2,24,away,FALSE,Stanford,78,Cardinal,Stanford Cardinal,Stanford
-220532275,2002-02-22,2,2275,home,FALSE,Hofstra,57,Pride,Hofstra Pride,Hofstra
-220532275,2002-02-22,2,295,away,FALSE,Old Dominion,90,Monarchs,Old Dominion Monarchs,Old Dominion
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220530030,2002,regular-season,2002-02-22,2,30,home,FALSE,USC,60,Trojans,USC Trojans,USC
+220530030,2002,regular-season,2002-02-22,2,24,away,FALSE,Stanford,78,Cardinal,Stanford Cardinal,Stanford
+220532275,2002,regular-season,2002-02-22,2,2275,home,FALSE,Hofstra,57,Pride,Hofstra Pride,Hofstra
+220532275,2002,regular-season,2002-02-22,2,295,away,FALSE,Old Dominion,90,Monarchs,Old Dominion Monarchs,Old Dominion

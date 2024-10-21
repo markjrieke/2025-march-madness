@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401487236,2023-02-15,4,41,home,FALSE,UConn,62,Huskies,UConn Huskies,UConn
-401487236,2023-02-15,4,156,away,FALSE,Creighton,60,Bluejays,Creighton Bluejays,Creighton
-401484753,2023-02-15,4,2294,home,FALSE,Iowa,91,Hawkeyes,Iowa Hawkeyes,Iowa
-401484753,2023-02-15,4,275,away,FALSE,Wisconsin,61,Badgers,Wisconsin Badgers,Wisconsin
-401487240,2023-02-15,4,2599,home,FALSE,St. John's,57,Red Storm,St. John's Red Storm,St John's
-401487240,2023-02-15,4,222,away,FALSE,Villanova,73,Wildcats,Villanova Wildcats,Villanova
-401494195,2023-02-15,4,201,home,FALSE,Oklahoma,84,Sooners,Oklahoma Sooners,Oklahoma
-401494195,2023-02-15,4,2641,away,FALSE,Texas Tech,57,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401487236,2023,regular-season,2023-02-15,4,41,home,FALSE,UConn,62,Huskies,UConn Huskies,UConn
+401487236,2023,regular-season,2023-02-15,4,156,away,FALSE,Creighton,60,Bluejays,Creighton Bluejays,Creighton
+401484753,2023,regular-season,2023-02-15,4,2294,home,FALSE,Iowa,91,Hawkeyes,Iowa Hawkeyes,Iowa
+401484753,2023,regular-season,2023-02-15,4,275,away,FALSE,Wisconsin,61,Badgers,Wisconsin Badgers,Wisconsin
+401487240,2023,regular-season,2023-02-15,4,2599,home,FALSE,St. John's,57,Red Storm,St. John's Red Storm,St John's
+401487240,2023,regular-season,2023-02-15,4,222,away,FALSE,Villanova,73,Wildcats,Villanova Wildcats,Villanova
+401494195,2023,regular-season,2023-02-15,4,201,home,FALSE,Oklahoma,84,Sooners,Oklahoma Sooners,Oklahoma
+401494195,2023,regular-season,2023-02-15,4,2641,away,FALSE,Texas Tech,57,Lady Raiders,Texas Tech Lady Raiders,Texas Tech

@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260610254,2006-03-02,2,254,home,FALSE,Utah,62,Utes,Utah Utes,Utah
-260610254,2006-03-02,2,2628,away,FALSE,TCU,63,Horned Frogs,TCU Horned Frogs,TCU
-260610036,2006-03-02,2,36,home,FALSE,Colorado State,67,Rams,Colorado State Rams,Colorado St
-260610036,2006-03-02,2,252,away,FALSE,BYU,69,Cougars,BYU Cougars,BYU
-260612439,2006-03-02,2,2439,home,FALSE,UNLV,65,Lady Rebels,UNLV Lady Rebels,UNLV
-260612439,2006-03-02,2,167,away,FALSE,New Mexico,63,Lobos,New Mexico Lobos,New Mexico
-260610057,2006-03-02,2,57,home,FALSE,Florida,98,Gators,Florida Gators,Florida
-260610057,2006-03-02,2,344,away,FALSE,Mississippi State,83,Bulldogs,Mississippi State Bulldogs,Mississippi St
-260610238,2006-03-02,2,238,home,FALSE,Vanderbilt,84,Commodores,Vanderbilt Commodores,Vanderbilt
-260610238,2006-03-02,2,333,away,FALSE,Alabama,62,Crimson Tide,Alabama Crimson Tide,Alabama
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260610254,2006,regular-season,2006-03-02,2,254,home,FALSE,Utah,62,Utes,Utah Utes,Utah
+260610254,2006,regular-season,2006-03-02,2,2628,away,FALSE,TCU,63,Horned Frogs,TCU Horned Frogs,TCU
+260610036,2006,regular-season,2006-03-02,2,36,home,FALSE,Colorado State,67,Rams,Colorado State Rams,Colorado St
+260610036,2006,regular-season,2006-03-02,2,252,away,FALSE,BYU,69,Cougars,BYU Cougars,BYU
+260612439,2006,regular-season,2006-03-02,2,2439,home,FALSE,UNLV,65,Lady Rebels,UNLV Lady Rebels,UNLV
+260612439,2006,regular-season,2006-03-02,2,167,away,FALSE,New Mexico,63,Lobos,New Mexico Lobos,New Mexico
+260610057,2006,regular-season,2006-03-02,2,57,home,FALSE,Florida,98,Gators,Florida Gators,Florida
+260610057,2006,regular-season,2006-03-02,2,344,away,FALSE,Mississippi State,83,Bulldogs,Mississippi State Bulldogs,Mississippi St
+260610238,2006,regular-season,2006-03-02,2,238,home,FALSE,Vanderbilt,84,Commodores,Vanderbilt Commodores,Vanderbilt
+260610238,2006,regular-season,2006-03-02,2,333,away,FALSE,Alabama,62,Crimson Tide,Alabama Crimson Tide,Alabama

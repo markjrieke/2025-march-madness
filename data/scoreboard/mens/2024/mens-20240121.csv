@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401602092,2024-01-21,2,2655,home,FALSE,Tulane,81,Green Wave,Tulane Green Wave,Tulane
-401602092,2024-01-21,2,235,away,FALSE,Memphis,79,Tigers,Memphis Tigers,Memphis
-401600344,2024-01-21,2,356,home,FALSE,Illinois,86,Fighting Illini,Illinois Fighting Illini,Illinois
-401600344,2024-01-21,2,164,away,FALSE,Rutgers,63,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-401602093,2024-01-21,3,2636,home,FALSE,UTSA,103,Roadrunners,UTSA Roadrunners,UTSA
-401602093,2024-01-21,3,2226,away,FALSE,Florida Atlantic,112,Owls,Florida Atlantic Owls,FAU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401602092,2024,regular-season,2024-01-21,2,2655,home,FALSE,Tulane,81,Green Wave,Tulane Green Wave,Tulane
+401602092,2024,regular-season,2024-01-21,2,235,away,FALSE,Memphis,79,Tigers,Memphis Tigers,Memphis
+401600344,2024,regular-season,2024-01-21,2,356,home,FALSE,Illinois,86,Fighting Illini,Illinois Fighting Illini,Illinois
+401600344,2024,regular-season,2024-01-21,2,164,away,FALSE,Rutgers,63,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401602093,2024,regular-season,2024-01-21,3,2636,home,FALSE,UTSA,103,Roadrunners,UTSA Roadrunners,UTSA
+401602093,2024,regular-season,2024-01-21,3,2226,away,FALSE,Florida Atlantic,112,Owls,Florida Atlantic Owls,FAU

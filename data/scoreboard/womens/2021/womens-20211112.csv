@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401372876,2021-11-12,4,233,home,TRUE,South Dakota,41,Coyotes,South Dakota Coyotes,South Dakota
-401372876,2021-11-12,4,2579,away,TRUE,South Carolina,72,Gamecocks,South Carolina Gamecocks,South Carolina
-401379891,2021-11-12,4,120,home,FALSE,Maryland,88,Terrapins,Maryland Terrapins,Maryland
-401379891,2021-11-12,4,222,away,FALSE,Villanova,67,Wildcats,Villanova Wildcats,Villanova
-401376844,2021-11-12,4,204,home,FALSE,Oregon State,82,Beavers,Oregon State Beavers,Oregon St
-401376844,2021-11-12,4,2351,away,FALSE,Loyola Marymount,52,Lions,Loyola Marymount Lions,LMU
-401375910,2021-11-12,4,2116,home,FALSE,UCF,41,Knights,UCF Knights,UCF
-401375910,2021-11-12,4,2633,away,FALSE,Tennessee,49,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401372876,2022,regular-season,2021-11-12,4,233,home,TRUE,South Dakota,41,Coyotes,South Dakota Coyotes,South Dakota
+401372876,2022,regular-season,2021-11-12,4,2579,away,TRUE,South Carolina,72,Gamecocks,South Carolina Gamecocks,South Carolina
+401379891,2022,regular-season,2021-11-12,4,120,home,FALSE,Maryland,88,Terrapins,Maryland Terrapins,Maryland
+401379891,2022,regular-season,2021-11-12,4,222,away,FALSE,Villanova,67,Wildcats,Villanova Wildcats,Villanova
+401376844,2022,regular-season,2021-11-12,4,204,home,FALSE,Oregon State,82,Beavers,Oregon State Beavers,Oregon St
+401376844,2022,regular-season,2021-11-12,4,2351,away,FALSE,Loyola Marymount,52,Lions,Loyola Marymount Lions,LMU
+401375910,2022,regular-season,2021-11-12,4,2116,home,FALSE,UCF,41,Knights,UCF Knights,UCF
+401375910,2022,regular-season,2021-11-12,4,2633,away,FALSE,Tennessee,49,Lady Volunteers,Tennessee Lady Volunteers,Tennessee

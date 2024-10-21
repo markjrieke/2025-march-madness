@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401176361,2020-03-07,4,172,home,FALSE,Cornell,50,Big Red,Cornell Big Red,Cornell
-401176361,2020-03-07,4,163,away,FALSE,Princeton,69,Tigers,Princeton Tigers,Princeton
-401180348,2020-03-07,4,2623,home,FALSE,Missouri State,72,Lady Bears,Missouri State Lady Bears,Missouri St
-401180348,2020-03-07,4,2350,away,FALSE,Loyola Chicago,61,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401176361,2020,regular-season,2020-03-07,4,172,home,FALSE,Cornell,50,Big Red,Cornell Big Red,Cornell
+401176361,2020,regular-season,2020-03-07,4,163,away,FALSE,Princeton,69,Tigers,Princeton Tigers,Princeton
+401180348,2020,regular-season,2020-03-07,4,2623,home,FALSE,Missouri State,72,Lady Bears,Missouri State Lady Bears,Missouri St
+401180348,2020,regular-season,2020-03-07,4,2350,away,FALSE,Loyola Chicago,61,Ramblers,Loyola Chicago Ramblers,Loyola Chicago

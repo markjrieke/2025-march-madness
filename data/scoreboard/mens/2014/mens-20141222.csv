@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400593229,2014-12-22,2,25,home,FALSE,California,56,Golden Bears,California Golden Bears,California
-400593229,2014-12-22,2,275,away,FALSE,Wisconsin,68,Badgers,Wisconsin Badgers,Wisconsin
-400586748,2014-12-22,2,218,home,FALSE,Temple,77,Owls,Temple Owls,Temple
-400586748,2014-12-22,2,2305,away,FALSE,Kansas,52,Jayhawks,Kansas Jayhawks,Kansas
-400593231,2014-12-22,2,264,home,FALSE,Washington,66,Huskies,Washington Huskies,Washington
-400593231,2014-12-22,2,2655,away,FALSE,Tulane,57,Green Wave,Tulane Green Wave,Tulane
-400587467,2014-12-22,2,87,home,FALSE,Notre Dame,91,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400587467,2014-12-22,2,2459,away,FALSE,Northern Illinois,66,Huskies,Northern Illinois Huskies,N Illinois
-400588386,2014-12-22,2,2599,home,FALSE,St. John's,66,Red Storm,St. John's Red Storm,St John's
-400588386,2014-12-22,2,299,away,FALSE,Long Beach State,49,Beach,Long Beach State Beach,Long Beach St
-400585764,2014-12-22,2,277,home,FALSE,West Virginia,77,Mountaineers,West Virginia Mountaineers,West Virginia
-400585764,2014-12-22,2,2747,away,FALSE,Wofford,44,Terriers,Wofford Terriers,Wofford
-400585987,2014-12-22,2,201,home,FALSE,Oklahoma,85,Sooners,Oklahoma Sooners,Oklahoma
-400585987,2014-12-22,2,2692,away,FALSE,Weber State,51,Wildcats,Weber State Wildcats,Weber St
-400587464,2014-12-22,2,194,home,FALSE,Ohio State,93,Buckeyes,Ohio State Buckeyes,Ohio State
-400587464,2014-12-22,2,193,away,FALSE,Miami (OH),55,RedHawks,Miami (OH) RedHawks,Miami OH
-400591016,2014-12-22,2,239,home,FALSE,Baylor,70,Bears,Baylor Bears,Baylor
-400591016,2014-12-22,2,2582,away,FALSE,Southern,66,Jaguars,Southern Jaguars,Southern
-400589328,2014-12-22,2,36,home,FALSE,Colorado State,75,Rams,Colorado State Rams,Colorado St
-400589328,2014-12-22,2,2127,away,FALSE,Charleston Southern,54,Buccaneers,Charleston Southern Buccaneers,Charleston So
-400598805,2014-12-22,2,2628,home,FALSE,TCU,80,Horned Frogs,TCU Horned Frogs,TCU
-400598805,2014-12-22,2,2755,away,FALSE,Grambling,39,Tigers,Grambling Tigers,Grambling
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400593229,2015,regular-season,2014-12-22,2,25,home,FALSE,California,56,Golden Bears,California Golden Bears,California
+400593229,2015,regular-season,2014-12-22,2,275,away,FALSE,Wisconsin,68,Badgers,Wisconsin Badgers,Wisconsin
+400586748,2015,regular-season,2014-12-22,2,218,home,FALSE,Temple,77,Owls,Temple Owls,Temple
+400586748,2015,regular-season,2014-12-22,2,2305,away,FALSE,Kansas,52,Jayhawks,Kansas Jayhawks,Kansas
+400593231,2015,regular-season,2014-12-22,2,264,home,FALSE,Washington,66,Huskies,Washington Huskies,Washington
+400593231,2015,regular-season,2014-12-22,2,2655,away,FALSE,Tulane,57,Green Wave,Tulane Green Wave,Tulane
+400587467,2015,regular-season,2014-12-22,2,87,home,FALSE,Notre Dame,91,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400587467,2015,regular-season,2014-12-22,2,2459,away,FALSE,Northern Illinois,66,Huskies,Northern Illinois Huskies,N Illinois
+400588386,2015,regular-season,2014-12-22,2,2599,home,FALSE,St. John's,66,Red Storm,St. John's Red Storm,St John's
+400588386,2015,regular-season,2014-12-22,2,299,away,FALSE,Long Beach State,49,Beach,Long Beach State Beach,Long Beach St
+400585764,2015,regular-season,2014-12-22,2,277,home,FALSE,West Virginia,77,Mountaineers,West Virginia Mountaineers,West Virginia
+400585764,2015,regular-season,2014-12-22,2,2747,away,FALSE,Wofford,44,Terriers,Wofford Terriers,Wofford
+400585987,2015,regular-season,2014-12-22,2,201,home,FALSE,Oklahoma,85,Sooners,Oklahoma Sooners,Oklahoma
+400585987,2015,regular-season,2014-12-22,2,2692,away,FALSE,Weber State,51,Wildcats,Weber State Wildcats,Weber St
+400587464,2015,regular-season,2014-12-22,2,194,home,FALSE,Ohio State,93,Buckeyes,Ohio State Buckeyes,Ohio State
+400587464,2015,regular-season,2014-12-22,2,193,away,FALSE,Miami (OH),55,RedHawks,Miami (OH) RedHawks,Miami OH
+400591016,2015,regular-season,2014-12-22,2,239,home,FALSE,Baylor,70,Bears,Baylor Bears,Baylor
+400591016,2015,regular-season,2014-12-22,2,2582,away,FALSE,Southern,66,Jaguars,Southern Jaguars,Southern
+400589328,2015,regular-season,2014-12-22,2,36,home,FALSE,Colorado State,75,Rams,Colorado State Rams,Colorado St
+400589328,2015,regular-season,2014-12-22,2,2127,away,FALSE,Charleston Southern,54,Buccaneers,Charleston Southern Buccaneers,Charleston So
+400598805,2015,regular-season,2014-12-22,2,2628,home,FALSE,TCU,80,Horned Frogs,TCU Horned Frogs,TCU
+400598805,2015,regular-season,2014-12-22,2,2755,away,FALSE,Grambling,39,Tigers,Grambling Tigers,Grambling

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303612174,2010-12-27,2,2174,home,FALSE,Detroit Mercy,68,Titans,Detroit Mercy Titans,Detroit Mercy
-303612174,2010-12-27,2,3098,away,FALSE,Marygrove,27,Mustangs,Marygrove Mustangs,Marygrove 
-303610197,2010-12-27,2,197,home,FALSE,Oklahoma State,95,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-303610197,2010-12-27,2,2029,away,FALSE,Arkansas-Pine Bluff,50,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-303610302,2010-12-27,2,302,home,FALSE,UC Davis,70,Aggies,UC Davis Aggies,UC Davis
-303610302,2010-12-27,2,2541,away,FALSE,Santa Clara,54,Broncos,Santa Clara Broncos,Santa Clara
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303612174,2011,regular-season,2010-12-27,2,2174,home,FALSE,Detroit Mercy,68,Titans,Detroit Mercy Titans,Detroit Mercy
+303612174,2011,regular-season,2010-12-27,2,3098,away,FALSE,Marygrove,27,Mustangs,Marygrove Mustangs,Marygrove 
+303610197,2011,regular-season,2010-12-27,2,197,home,FALSE,Oklahoma State,95,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+303610197,2011,regular-season,2010-12-27,2,2029,away,FALSE,Arkansas-Pine Bluff,50,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+303610302,2011,regular-season,2010-12-27,2,302,home,FALSE,UC Davis,70,Aggies,UC Davis Aggies,UC Davis
+303610302,2011,regular-season,2010-12-27,2,2541,away,FALSE,Santa Clara,54,Broncos,Santa Clara Broncos,Santa Clara

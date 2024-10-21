@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273560153,2007-12-22,2,153,home,FALSE,North Carolina,105,Tar Heels,North Carolina Tar Heels,North Carolina
-273560153,2007-12-22,2,2540,away,FALSE,UC Santa Barbara,70,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-273560235,2007-12-22,2,235,home,FALSE,Memphis,85,Tigers,Memphis Tigers,Memphis
-273560235,2007-12-22,2,46,away,FALSE,Georgetown,71,Hoyas,Georgetown Hoyas,Georgetown
-273562305,2007-12-22,2,2305,home,FALSE,Kansas,78,Jayhawks,Kansas Jayhawks,Kansas
-273562305,2007-12-22,2,193,away,FALSE,Miami (OH),54,RedHawks,Miami (OH) RedHawks,Miami OH
-273560127,2007-12-22,2,127,home,FALSE,Michigan State,78,Spartans,Michigan State Spartans,Michigan St
-273560127,2007-12-22,2,251,away,FALSE,Texas,72,Longhorns,Texas Longhorns,Texas
-273560130,2007-12-22,2,130,home,FALSE,Michigan,54,Wolverines,Michigan Wolverines,Michigan
-273560130,2007-12-22,2,26,away,FALSE,UCLA,69,Bruins,UCLA Bruins,UCLA
-273562752,2007-12-22,2,2752,home,FALSE,Xavier,75,Musketeers,Xavier Musketeers,Xavier
-273562752,2007-12-22,2,2633,away,FALSE,Tennessee,82,Volunteers,Tennessee Volunteers,Tennessee
-273560084,2007-12-22,2,84,home,FALSE,Indiana,73,Hoosiers,Indiana Hoosiers,Indiana
-273560084,2007-12-22,2,2154,away,FALSE,Coppin State,46,Eagles,Coppin State Eagles,Coppin St
-273560245,2007-12-22,2,245,home,FALSE,Texas A&M,88,Aggies,Texas A&M Aggies,Texas A&M
-273560245,2007-12-22,2,300,away,FALSE,UC Irvine,66,Anteaters,UC Irvine Anteaters,UC Irvine
-273560228,2007-12-22,2,228,home,TRUE,Clemson,82,Tigers,Clemson Tigers,Clemson
-273560228,2007-12-22,2,145,away,TRUE,Ole Miss,85,Rebels,Ole Miss Rebels,Ole Miss
-273560526,2007-12-22,2,526,home,FALSE,Florida Gulf Coast,66,Eagles,Florida Gulf Coast Eagles,FGCU
-273560526,2007-12-22,2,2086,away,FALSE,Butler,78,Bulldogs,Butler Bulldogs,Butler
-273560238,2007-12-22,2,238,home,FALSE,Vanderbilt,83,Commodores,Vanderbilt Commodores,Vanderbilt
-273560238,2007-12-22,2,2634,away,FALSE,Tennessee State,74,Tigers,Tennessee State Tigers,Tennessee St
-273560012,2007-12-22,2,12,home,FALSE,Arizona,74,Wildcats,Arizona Wildcats,Arizona
-273560012,2007-12-22,2,21,away,FALSE,San Diego State,58,Aztecs,San Diego State Aztecs,San Diego St
-273560222,2007-12-22,2,222,home,FALSE,Villanova,72,Wildcats,Villanova Wildcats,Villanova
-273560222,2007-12-22,2,171,away,FALSE,Columbia,56,Lions,Columbia Lions,Columbia
-273562473,2007-12-22,2,2473,home,TRUE,Oakland,68,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-273562473,2007-12-22,2,2483,away,TRUE,Oregon,62,Ducks,Oregon Ducks,Oregon
-273562099,2007-12-22,2,2099,home,FALSE,Canisius,54,Golden Griffins,Canisius Golden Griffins,Canisius
-273562099,2007-12-22,2,277,away,FALSE,West Virginia,77,Mountaineers,West Virginia Mountaineers,West Virginia
-273560030,2007-12-22,2,30,home,FALSE,USC,78,Trojans,USC Trojans,USC
-273560030,2007-12-22,2,13,away,FALSE,Cal Poly,55,Mustangs,Cal Poly Mustangs,Cal Poly
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273560153,2008,regular-season,2007-12-22,2,153,home,FALSE,North Carolina,105,Tar Heels,North Carolina Tar Heels,North Carolina
+273560153,2008,regular-season,2007-12-22,2,2540,away,FALSE,UC Santa Barbara,70,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+273560235,2008,regular-season,2007-12-22,2,235,home,FALSE,Memphis,85,Tigers,Memphis Tigers,Memphis
+273560235,2008,regular-season,2007-12-22,2,46,away,FALSE,Georgetown,71,Hoyas,Georgetown Hoyas,Georgetown
+273562305,2008,regular-season,2007-12-22,2,2305,home,FALSE,Kansas,78,Jayhawks,Kansas Jayhawks,Kansas
+273562305,2008,regular-season,2007-12-22,2,193,away,FALSE,Miami (OH),54,RedHawks,Miami (OH) RedHawks,Miami OH
+273560127,2008,regular-season,2007-12-22,2,127,home,FALSE,Michigan State,78,Spartans,Michigan State Spartans,Michigan St
+273560127,2008,regular-season,2007-12-22,2,251,away,FALSE,Texas,72,Longhorns,Texas Longhorns,Texas
+273560130,2008,regular-season,2007-12-22,2,130,home,FALSE,Michigan,54,Wolverines,Michigan Wolverines,Michigan
+273560130,2008,regular-season,2007-12-22,2,26,away,FALSE,UCLA,69,Bruins,UCLA Bruins,UCLA
+273562752,2008,regular-season,2007-12-22,2,2752,home,FALSE,Xavier,75,Musketeers,Xavier Musketeers,Xavier
+273562752,2008,regular-season,2007-12-22,2,2633,away,FALSE,Tennessee,82,Volunteers,Tennessee Volunteers,Tennessee
+273560084,2008,regular-season,2007-12-22,2,84,home,FALSE,Indiana,73,Hoosiers,Indiana Hoosiers,Indiana
+273560084,2008,regular-season,2007-12-22,2,2154,away,FALSE,Coppin State,46,Eagles,Coppin State Eagles,Coppin St
+273560245,2008,regular-season,2007-12-22,2,245,home,FALSE,Texas A&M,88,Aggies,Texas A&M Aggies,Texas A&M
+273560245,2008,regular-season,2007-12-22,2,300,away,FALSE,UC Irvine,66,Anteaters,UC Irvine Anteaters,UC Irvine
+273560228,2008,regular-season,2007-12-22,2,228,home,TRUE,Clemson,82,Tigers,Clemson Tigers,Clemson
+273560228,2008,regular-season,2007-12-22,2,145,away,TRUE,Ole Miss,85,Rebels,Ole Miss Rebels,Ole Miss
+273560526,2008,regular-season,2007-12-22,2,526,home,FALSE,Florida Gulf Coast,66,Eagles,Florida Gulf Coast Eagles,FGCU
+273560526,2008,regular-season,2007-12-22,2,2086,away,FALSE,Butler,78,Bulldogs,Butler Bulldogs,Butler
+273560238,2008,regular-season,2007-12-22,2,238,home,FALSE,Vanderbilt,83,Commodores,Vanderbilt Commodores,Vanderbilt
+273560238,2008,regular-season,2007-12-22,2,2634,away,FALSE,Tennessee State,74,Tigers,Tennessee State Tigers,Tennessee St
+273560012,2008,regular-season,2007-12-22,2,12,home,FALSE,Arizona,74,Wildcats,Arizona Wildcats,Arizona
+273560012,2008,regular-season,2007-12-22,2,21,away,FALSE,San Diego State,58,Aztecs,San Diego State Aztecs,San Diego St
+273560222,2008,regular-season,2007-12-22,2,222,home,FALSE,Villanova,72,Wildcats,Villanova Wildcats,Villanova
+273560222,2008,regular-season,2007-12-22,2,171,away,FALSE,Columbia,56,Lions,Columbia Lions,Columbia
+273562473,2008,regular-season,2007-12-22,2,2473,home,TRUE,Oakland,68,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+273562473,2008,regular-season,2007-12-22,2,2483,away,TRUE,Oregon,62,Ducks,Oregon Ducks,Oregon
+273562099,2008,regular-season,2007-12-22,2,2099,home,FALSE,Canisius,54,Golden Griffins,Canisius Golden Griffins,Canisius
+273562099,2008,regular-season,2007-12-22,2,277,away,FALSE,West Virginia,77,Mountaineers,West Virginia Mountaineers,West Virginia
+273560030,2008,regular-season,2007-12-22,2,30,home,FALSE,USC,78,Trojans,USC Trojans,USC
+273560030,2008,regular-season,2007-12-22,2,13,away,FALSE,Cal Poly,55,Mustangs,Cal Poly Mustangs,Cal Poly

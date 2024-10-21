@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-270102390,2007-01-10,2,2390,home,FALSE,Miami,53,Hurricanes,Miami Hurricanes,Miami
-270102390,2007-01-10,2,120,away,FALSE,Maryland,111,Terrapins,Maryland Terrapins,Maryland
-270100150,2007-01-10,2,150,home,FALSE,Duke,83,Blue Devils,Duke Blue Devils,Duke
-270100150,2007-01-10,2,59,away,FALSE,Georgia Tech,51,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-270100239,2007-01-10,2,239,home,FALSE,Baylor,63,Bears,Baylor Bears,Baylor
-270100239,2007-01-10,2,201,away,FALSE,Oklahoma,76,Sooners,Oklahoma Sooners,Oklahoma
-270100189,2007-01-10,2,189,home,FALSE,Bowling Green,74,Falcons,Bowling Green Falcons,Bowling Green
-270100189,2007-01-10,2,2309,away,FALSE,Kent State,52,Golden Flashes,Kent State Golden Flashes,Kent State
-270102641,2007-01-10,2,2641,home,FALSE,Texas Tech,47,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-270102641,2007-01-10,2,245,away,FALSE,Texas A&M,49,Aggies,Texas A&M Aggies,Texas A&M
-270100142,2007-01-10,3,142,home,FALSE,Missouri,77,Tigers,Missouri Tigers,Missouri
-270100142,2007-01-10,3,251,away,FALSE,Texas,79,Longhorns,Texas Longhorns,Texas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+270102390,2007,regular-season,2007-01-10,2,2390,home,FALSE,Miami,53,Hurricanes,Miami Hurricanes,Miami
+270102390,2007,regular-season,2007-01-10,2,120,away,FALSE,Maryland,111,Terrapins,Maryland Terrapins,Maryland
+270100150,2007,regular-season,2007-01-10,2,150,home,FALSE,Duke,83,Blue Devils,Duke Blue Devils,Duke
+270100150,2007,regular-season,2007-01-10,2,59,away,FALSE,Georgia Tech,51,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+270100239,2007,regular-season,2007-01-10,2,239,home,FALSE,Baylor,63,Bears,Baylor Bears,Baylor
+270100239,2007,regular-season,2007-01-10,2,201,away,FALSE,Oklahoma,76,Sooners,Oklahoma Sooners,Oklahoma
+270100189,2007,regular-season,2007-01-10,2,189,home,FALSE,Bowling Green,74,Falcons,Bowling Green Falcons,Bowling Green
+270100189,2007,regular-season,2007-01-10,2,2309,away,FALSE,Kent State,52,Golden Flashes,Kent State Golden Flashes,Kent State
+270102641,2007,regular-season,2007-01-10,2,2641,home,FALSE,Texas Tech,47,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+270102641,2007,regular-season,2007-01-10,2,245,away,FALSE,Texas A&M,49,Aggies,Texas A&M Aggies,Texas A&M
+270100142,2007,regular-season,2007-01-10,3,142,home,FALSE,Missouri,77,Tigers,Missouri Tigers,Missouri
+270100142,2007,regular-season,2007-01-10,3,251,away,FALSE,Texas,79,Longhorns,Texas Longhorns,Texas

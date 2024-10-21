@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401368064,2022-01-22,4,2628,home,FALSE,TCU,47,Horned Frogs,TCU Horned Frogs,TCU
-401368064,2022-01-22,4,251,away,FALSE,Texas,68,Longhorns,Texas Longhorns,Texas
-401367894,2022-01-22,4,301,home,FALSE,San Diego,63,Toreros,San Diego Toreros,San Diego
-401367894,2022-01-22,4,252,away,FALSE,BYU,74,Cougars,BYU Cougars,BYU
-401373974,2022-01-22,4,55,home,FALSE,Jacksonville State,44,Gamecocks,Jacksonville State Gamecocks,Jax State
-401373974,2022-01-22,4,526,away,FALSE,Florida Gulf Coast,66,Eagles,Florida Gulf Coast Eagles,FGCU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401368064,2022,regular-season,2022-01-22,4,2628,home,FALSE,TCU,47,Horned Frogs,TCU Horned Frogs,TCU
+401368064,2022,regular-season,2022-01-22,4,251,away,FALSE,Texas,68,Longhorns,Texas Longhorns,Texas
+401367894,2022,regular-season,2022-01-22,4,301,home,FALSE,San Diego,63,Toreros,San Diego Toreros,San Diego
+401367894,2022,regular-season,2022-01-22,4,252,away,FALSE,BYU,74,Cougars,BYU Cougars,BYU
+401373974,2022,regular-season,2022-01-22,4,55,home,FALSE,Jacksonville State,44,Gamecocks,Jacksonville State Gamecocks,Jax State
+401373974,2022,regular-season,2022-01-22,4,526,away,FALSE,Florida Gulf Coast,66,Eagles,Florida Gulf Coast Eagles,FGCU

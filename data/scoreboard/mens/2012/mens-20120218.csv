@@ -1,37 +1,37 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320490096,2012-02-18,2,96,home,FALSE,Kentucky,77,Wildcats,Kentucky Wildcats,Kentucky
-320490096,2012-02-18,2,145,away,FALSE,Ole Miss,62,Rebels,Ole Miss Rebels,Ole Miss
-320490245,2012-02-18,2,245,home,FALSE,Texas A&M,62,Aggies,Texas A&M Aggies,Texas A&M
-320490245,2012-02-18,2,142,away,FALSE,Missouri,71,Tigers,Missouri Tigers,Missouri
-320492305,2012-02-18,2,2305,home,FALSE,Kansas,83,Jayhawks,Kansas Jayhawks,Kansas
-320492305,2012-02-18,2,2641,away,FALSE,Texas Tech,50,Red Raiders,Texas Tech Red Raiders,Texas Tech
-320490130,2012-02-18,2,130,home,FALSE,Michigan,56,Wolverines,Michigan Wolverines,Michigan
-320490130,2012-02-18,2,194,away,FALSE,Ohio State,51,Buckeyes,Ohio State Buckeyes,Ohio State
-320490153,2012-02-18,2,153,home,FALSE,North Carolina,74,Tar Heels,North Carolina Tar Heels,North Carolina
-320490153,2012-02-18,2,228,away,FALSE,Clemson,52,Tigers,Clemson Tigers,Clemson
-320490239,2012-02-18,2,239,home,FALSE,Baylor,56,Bears,Baylor Bears,Baylor
-320490239,2012-02-18,2,2306,away,FALSE,Kansas State,57,Wildcats,Kansas State Wildcats,Kansas St
-320492507,2012-02-18,2,2507,home,FALSE,Providence,53,Friars,Providence Friars,Providence
-320492507,2012-02-18,2,46,away,FALSE,Georgetown,63,Hoyas,Georgetown Hoyas,Georgetown
-320490167,2012-02-18,2,167,home,FALSE,New Mexico,65,Lobos,New Mexico Lobos,New Mexico
-320490167,2012-02-18,2,2439,away,FALSE,UNLV,45,Rebels,UNLV Rebels,UNLV
-320490041,2012-02-18,2,41,home,FALSE,UConn,64,Huskies,UConn Huskies,UConn
-320490041,2012-02-18,2,269,away,FALSE,Marquette,79,Golden Eagles,Marquette Golden Eagles,Marquette
-320492005,2012-02-18,2,2005,home,FALSE,Air Force,58,Falcons,Air Force Falcons,Air Force
-320492005,2012-02-18,2,21,away,FALSE,San Diego State,56,Aztecs,San Diego State Aztecs,San Diego St
-320490008,2012-02-18,2,8,home,FALSE,Arkansas,68,Razorbacks,Arkansas Razorbacks,Arkansas
-320490008,2012-02-18,2,57,away,FALSE,Florida,98,Gators,Florida Gators,Florida
-320490093,2012-02-18,2,93,home,FALSE,Murray State,65,Racers,Murray State Racers,Murray St
-320490093,2012-02-18,2,2608,away,FALSE,Saint Mary's,51,Gaels,Saint Mary's Gaels,Saint Mary's
-320490305,2012-02-18,3,305,home,FALSE,DePaul,82,Blue Demons,DePaul Blue Demons,DePaul
-320490305,2012-02-18,3,97,away,FALSE,Louisville,90,Cardinals,Louisville Cardinals,Louisville
-320490152,2012-02-18,2,152,home,FALSE,NC State,62,Wolfpack,NC State Wolfpack,NC State
-320490152,2012-02-18,2,52,away,FALSE,Florida State,76,Seminoles,Florida State Seminoles,Florida St
-320490258,2012-02-18,2,258,home,FALSE,Virginia,71,Cavaliers,Virginia Cavaliers,Virginia
-320490258,2012-02-18,2,120,away,FALSE,Maryland,44,Terrapins,Maryland Terrapins,Maryland
-320490222,2012-02-18,3,222,home,FALSE,Villanova,70,Wildcats,Villanova Wildcats,Villanova
-320490222,2012-02-18,3,87,away,FALSE,Notre Dame,74,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-320492166,2012-02-18,2,2166,home,FALSE,Davidson,74,Wildcats,Davidson Wildcats,Davidson
-320492166,2012-02-18,2,2724,away,FALSE,Wichita State,91,Shockers,Wichita State Shockers,Wichita St
-320492539,2012-02-18,2,2539,home,FALSE,San Francisco,66,Dons,San Francisco Dons,San Francisco
-320492539,2012-02-18,2,2250,away,FALSE,Gonzaga,65,Bulldogs,Gonzaga Bulldogs,Gonzaga
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320490096,2012,regular-season,2012-02-18,2,96,home,FALSE,Kentucky,77,Wildcats,Kentucky Wildcats,Kentucky
+320490096,2012,regular-season,2012-02-18,2,145,away,FALSE,Ole Miss,62,Rebels,Ole Miss Rebels,Ole Miss
+320490245,2012,regular-season,2012-02-18,2,245,home,FALSE,Texas A&M,62,Aggies,Texas A&M Aggies,Texas A&M
+320490245,2012,regular-season,2012-02-18,2,142,away,FALSE,Missouri,71,Tigers,Missouri Tigers,Missouri
+320492305,2012,regular-season,2012-02-18,2,2305,home,FALSE,Kansas,83,Jayhawks,Kansas Jayhawks,Kansas
+320492305,2012,regular-season,2012-02-18,2,2641,away,FALSE,Texas Tech,50,Red Raiders,Texas Tech Red Raiders,Texas Tech
+320490130,2012,regular-season,2012-02-18,2,130,home,FALSE,Michigan,56,Wolverines,Michigan Wolverines,Michigan
+320490130,2012,regular-season,2012-02-18,2,194,away,FALSE,Ohio State,51,Buckeyes,Ohio State Buckeyes,Ohio State
+320490153,2012,regular-season,2012-02-18,2,153,home,FALSE,North Carolina,74,Tar Heels,North Carolina Tar Heels,North Carolina
+320490153,2012,regular-season,2012-02-18,2,228,away,FALSE,Clemson,52,Tigers,Clemson Tigers,Clemson
+320490239,2012,regular-season,2012-02-18,2,239,home,FALSE,Baylor,56,Bears,Baylor Bears,Baylor
+320490239,2012,regular-season,2012-02-18,2,2306,away,FALSE,Kansas State,57,Wildcats,Kansas State Wildcats,Kansas St
+320492507,2012,regular-season,2012-02-18,2,2507,home,FALSE,Providence,53,Friars,Providence Friars,Providence
+320492507,2012,regular-season,2012-02-18,2,46,away,FALSE,Georgetown,63,Hoyas,Georgetown Hoyas,Georgetown
+320490167,2012,regular-season,2012-02-18,2,167,home,FALSE,New Mexico,65,Lobos,New Mexico Lobos,New Mexico
+320490167,2012,regular-season,2012-02-18,2,2439,away,FALSE,UNLV,45,Rebels,UNLV Rebels,UNLV
+320490041,2012,regular-season,2012-02-18,2,41,home,FALSE,UConn,64,Huskies,UConn Huskies,UConn
+320490041,2012,regular-season,2012-02-18,2,269,away,FALSE,Marquette,79,Golden Eagles,Marquette Golden Eagles,Marquette
+320492005,2012,regular-season,2012-02-18,2,2005,home,FALSE,Air Force,58,Falcons,Air Force Falcons,Air Force
+320492005,2012,regular-season,2012-02-18,2,21,away,FALSE,San Diego State,56,Aztecs,San Diego State Aztecs,San Diego St
+320490008,2012,regular-season,2012-02-18,2,8,home,FALSE,Arkansas,68,Razorbacks,Arkansas Razorbacks,Arkansas
+320490008,2012,regular-season,2012-02-18,2,57,away,FALSE,Florida,98,Gators,Florida Gators,Florida
+320490093,2012,regular-season,2012-02-18,2,93,home,FALSE,Murray State,65,Racers,Murray State Racers,Murray St
+320490093,2012,regular-season,2012-02-18,2,2608,away,FALSE,Saint Mary's,51,Gaels,Saint Mary's Gaels,Saint Mary's
+320490305,2012,regular-season,2012-02-18,3,305,home,FALSE,DePaul,82,Blue Demons,DePaul Blue Demons,DePaul
+320490305,2012,regular-season,2012-02-18,3,97,away,FALSE,Louisville,90,Cardinals,Louisville Cardinals,Louisville
+320490152,2012,regular-season,2012-02-18,2,152,home,FALSE,NC State,62,Wolfpack,NC State Wolfpack,NC State
+320490152,2012,regular-season,2012-02-18,2,52,away,FALSE,Florida State,76,Seminoles,Florida State Seminoles,Florida St
+320490258,2012,regular-season,2012-02-18,2,258,home,FALSE,Virginia,71,Cavaliers,Virginia Cavaliers,Virginia
+320490258,2012,regular-season,2012-02-18,2,120,away,FALSE,Maryland,44,Terrapins,Maryland Terrapins,Maryland
+320490222,2012,regular-season,2012-02-18,3,222,home,FALSE,Villanova,70,Wildcats,Villanova Wildcats,Villanova
+320490222,2012,regular-season,2012-02-18,3,87,away,FALSE,Notre Dame,74,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+320492166,2012,regular-season,2012-02-18,2,2166,home,FALSE,Davidson,74,Wildcats,Davidson Wildcats,Davidson
+320492166,2012,regular-season,2012-02-18,2,2724,away,FALSE,Wichita State,91,Shockers,Wichita State Shockers,Wichita St
+320492539,2012,regular-season,2012-02-18,2,2539,home,FALSE,San Francisco,66,Dons,San Francisco Dons,San Francisco
+320492539,2012,regular-season,2012-02-18,2,2250,away,FALSE,Gonzaga,65,Bulldogs,Gonzaga Bulldogs,Gonzaga

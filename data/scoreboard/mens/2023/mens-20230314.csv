@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401522117,2023-03-14,2,357,home,TRUE,Texas A&M-Corpus Christi,75,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-401522117,2023-03-14,2,2546,away,TRUE,Southeast Missouri State,71,Redhawks,Southeast Missouri State Redhawks,SE Missouri
-401522116,2023-03-14,2,344,home,TRUE,Mississippi State,59,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401522116,2023-03-14,2,221,away,TRUE,Pittsburgh,60,Panthers,Pittsburgh Panthers,Pitt
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401522117,2023,post-season,2023-03-14,2,357,home,TRUE,Texas A&M-Corpus Christi,75,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+401522117,2023,post-season,2023-03-14,2,2546,away,TRUE,Southeast Missouri State,71,Redhawks,Southeast Missouri State Redhawks,SE Missouri
+401522116,2023,post-season,2023-03-14,2,344,home,TRUE,Mississippi State,59,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401522116,2023,post-season,2023-03-14,2,221,away,TRUE,Pittsburgh,60,Panthers,Pittsburgh Panthers,Pitt

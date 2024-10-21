@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253390251,2005-12-05,2,251,home,FALSE,Texas,85,Longhorns,Texas Longhorns,Texas
-253390251,2005-12-05,2,242,away,FALSE,Rice,58,Owls,Rice Owls,Rice
-253390097,2005-12-05,2,97,home,FALSE,Louisville,53,Cardinals,Louisville Cardinals,Louisville
-253390097,2005-12-05,2,257,away,FALSE,Richmond,45,Spiders,Richmond Spiders,Richmond
-253390356,2005-12-05,2,356,home,FALSE,Illinois,75,Fighting Illini,Illinois Fighting Illini,Illinois
-253390356,2005-12-05,2,2031,away,FALSE,Little Rock,49,Trojans,Little Rock Trojans,Little Rock
-253390045,2005-12-05,2,45,home,FALSE,George Washington,78,Revolutionaries,George Washington Revolutionaries,G Washington
-253390045,2005-12-05,2,120,away,FALSE,Maryland,70,Terrapins,Maryland Terrapins,Maryland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253390251,2006,regular-season,2005-12-05,2,251,home,FALSE,Texas,85,Longhorns,Texas Longhorns,Texas
+253390251,2006,regular-season,2005-12-05,2,242,away,FALSE,Rice,58,Owls,Rice Owls,Rice
+253390097,2006,regular-season,2005-12-05,2,97,home,FALSE,Louisville,53,Cardinals,Louisville Cardinals,Louisville
+253390097,2006,regular-season,2005-12-05,2,257,away,FALSE,Richmond,45,Spiders,Richmond Spiders,Richmond
+253390356,2006,regular-season,2005-12-05,2,356,home,FALSE,Illinois,75,Fighting Illini,Illinois Fighting Illini,Illinois
+253390356,2006,regular-season,2005-12-05,2,2031,away,FALSE,Little Rock,49,Trojans,Little Rock Trojans,Little Rock
+253390045,2006,regular-season,2005-12-05,2,45,home,FALSE,George Washington,78,Revolutionaries,George Washington Revolutionaries,G Washington
+253390045,2006,regular-season,2005-12-05,2,120,away,FALSE,Maryland,70,Terrapins,Maryland Terrapins,Maryland

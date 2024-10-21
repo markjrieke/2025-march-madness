@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320400093,2012-02-09,2,93,home,FALSE,Murray State,68,Racers,Murray State Racers,Murray St
-320400093,2012-02-09,2,2634,away,FALSE,Tennessee State,72,Tigers,Tennessee State Tigers,Tennessee St
-320402250,2012-02-09,2,2250,home,FALSE,Gonzaga,73,Bulldogs,Gonzaga Bulldogs,Gonzaga
-320402250,2012-02-09,2,2608,away,FALSE,Saint Mary's,59,Gaels,Saint Mary's Gaels,Saint Mary's
-320400344,2012-02-09,2,344,home,FALSE,Mississippi State,70,Bulldogs,Mississippi State Bulldogs,Mississippi St
-320400344,2012-02-09,2,145,away,FALSE,Ole Miss,60,Rebels,Ole Miss Rebels,Ole Miss
-320400135,2012-02-09,3,135,home,FALSE,Minnesota,61,Golden Gophers,Minnesota Golden Gophers,Minnesota
-320400135,2012-02-09,3,275,away,FALSE,Wisconsin,68,Badgers,Wisconsin Badgers,Wisconsin
-320400084,2012-02-09,2,84,home,FALSE,Indiana,84,Hoosiers,Indiana Hoosiers,Indiana
-320400084,2012-02-09,2,356,away,FALSE,Illinois,71,Fighting Illini,Illinois Fighting Illini,Illinois
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320400093,2012,regular-season,2012-02-09,2,93,home,FALSE,Murray State,68,Racers,Murray State Racers,Murray St
+320400093,2012,regular-season,2012-02-09,2,2634,away,FALSE,Tennessee State,72,Tigers,Tennessee State Tigers,Tennessee St
+320402250,2012,regular-season,2012-02-09,2,2250,home,FALSE,Gonzaga,73,Bulldogs,Gonzaga Bulldogs,Gonzaga
+320402250,2012,regular-season,2012-02-09,2,2608,away,FALSE,Saint Mary's,59,Gaels,Saint Mary's Gaels,Saint Mary's
+320400344,2012,regular-season,2012-02-09,2,344,home,FALSE,Mississippi State,70,Bulldogs,Mississippi State Bulldogs,Mississippi St
+320400344,2012,regular-season,2012-02-09,2,145,away,FALSE,Ole Miss,60,Rebels,Ole Miss Rebels,Ole Miss
+320400135,2012,regular-season,2012-02-09,3,135,home,FALSE,Minnesota,61,Golden Gophers,Minnesota Golden Gophers,Minnesota
+320400135,2012,regular-season,2012-02-09,3,275,away,FALSE,Wisconsin,68,Badgers,Wisconsin Badgers,Wisconsin
+320400084,2012,regular-season,2012-02-09,2,84,home,FALSE,Indiana,84,Hoosiers,Indiana Hoosiers,Indiana
+320400084,2012,regular-season,2012-02-09,2,356,away,FALSE,Illinois,71,Fighting Illini,Illinois Fighting Illini,Illinois

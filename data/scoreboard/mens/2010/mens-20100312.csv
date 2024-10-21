@@ -1,37 +1,37 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300712305,2010-03-12,2,2305,home,TRUE,Kansas,79,Jayhawks,Kansas Jayhawks,Kansas
-300712305,2010-03-12,2,245,away,TRUE,Texas A&M,66,Aggies,Texas A&M Aggies,Texas A&M
-300710096,2010-03-12,2,96,home,TRUE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
-300710096,2010-03-12,2,333,away,TRUE,Alabama,67,Crimson Tide,Alabama Crimson Tide,Alabama
-300710150,2010-03-12,2,150,home,TRUE,Duke,57,Blue Devils,Duke Blue Devils,Duke
-300710150,2010-03-12,2,258,away,TRUE,Virginia,46,Cavaliers,Virginia Cavaliers,Virginia
-300710194,2010-03-12,2,194,home,TRUE,Ohio State,69,Buckeyes,Ohio State Buckeyes,Ohio State
-300710194,2010-03-12,2,130,away,TRUE,Michigan,68,Wolverines,Michigan Wolverines,Michigan
-300712509,2010-03-12,2,2509,home,TRUE,Purdue,69,Boilermakers,Purdue Boilermakers,Purdue
-300712509,2010-03-12,2,77,away,TRUE,Northwestern,61,Wildcats,Northwestern Wildcats,Northwestern
-300710277,2010-03-12,2,277,home,TRUE,West Virginia,53,Mountaineers,West Virginia Mountaineers,West Virginia
-300710277,2010-03-12,2,87,away,TRUE,Notre Dame,51,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-300710167,2010-03-12,2,167,home,TRUE,New Mexico,69,Lobos,New Mexico Lobos,New Mexico
-300710167,2010-03-12,2,21,away,TRUE,San Diego State,72,Aztecs,San Diego State Aztecs,San Diego St
-300712306,2010-03-12,2,2306,home,TRUE,Kansas State,82,Wildcats,Kansas State Wildcats,Kansas St
-300712306,2010-03-12,2,239,away,TRUE,Baylor,75,Bears,Baylor Bears,Baylor
-300710127,2010-03-12,3,127,home,TRUE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
-300710127,2010-03-12,3,135,away,TRUE,Minnesota,72,Golden Gophers,Minnesota Golden Gophers,Minnesota
-300710275,2010-03-12,2,275,home,TRUE,Wisconsin,54,Badgers,Wisconsin Badgers,Wisconsin
-300710275,2010-03-12,2,356,away,TRUE,Illinois,58,Fighting Illini,Illinois Fighting Illini,Illinois
-300710252,2010-03-12,2,252,home,TRUE,BYU,66,Cougars,BYU Cougars,BYU
-300710252,2010-03-12,2,2439,away,TRUE,UNLV,70,Rebels,UNLV Rebels,UNLV
-300710145,2010-03-12,2,145,home,TRUE,Ole Miss,65,Rebels,Ole Miss Rebels,Ole Miss
-300710145,2010-03-12,2,2633,away,TRUE,Tennessee,76,Volunteers,Tennessee Volunteers,Tennessee
-300710218,2010-03-12,2,218,home,TRUE,Temple,69,Owls,Temple Owls,Temple
-300710218,2010-03-12,2,179,away,TRUE,St. Bonaventure,51,Bonnies,St. Bonaventure Bonnies,St Bonaventure
-300710120,2010-03-12,2,120,home,TRUE,Maryland,64,Terrapins,Maryland Terrapins,Maryland
-300710120,2010-03-12,2,59,away,TRUE,Georgia Tech,69,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-300710238,2010-03-12,2,238,home,TRUE,Vanderbilt,78,Commodores,Vanderbilt Commodores,Vanderbilt
-300710238,2010-03-12,2,61,away,TRUE,Georgia,66,Bulldogs,Georgia Bulldogs,Georgia
-300710269,2010-03-12,2,269,home,TRUE,Marquette,57,Golden Eagles,Marquette Golden Eagles,Marquette
-300710269,2010-03-12,2,46,away,TRUE,Georgetown,80,Hoyas,Georgetown Hoyas,Georgetown
-300712752,2010-03-12,2,2752,home,TRUE,Xavier,78,Musketeers,Xavier Musketeers,Xavier
-300712752,2010-03-12,2,2168,away,TRUE,Dayton,73,Flyers,Dayton Flyers,Dayton
-300712638,2010-03-12,2,2638,home,TRUE,UTEP,75,Miners,UTEP Miners,UTEP
-300712638,2010-03-12,2,202,away,TRUE,Tulsa,61,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300712305,2010,regular-season,2010-03-12,2,2305,home,TRUE,Kansas,79,Jayhawks,Kansas Jayhawks,Kansas
+300712305,2010,regular-season,2010-03-12,2,245,away,TRUE,Texas A&M,66,Aggies,Texas A&M Aggies,Texas A&M
+300710096,2010,regular-season,2010-03-12,2,96,home,TRUE,Kentucky,73,Wildcats,Kentucky Wildcats,Kentucky
+300710096,2010,regular-season,2010-03-12,2,333,away,TRUE,Alabama,67,Crimson Tide,Alabama Crimson Tide,Alabama
+300710150,2010,regular-season,2010-03-12,2,150,home,TRUE,Duke,57,Blue Devils,Duke Blue Devils,Duke
+300710150,2010,regular-season,2010-03-12,2,258,away,TRUE,Virginia,46,Cavaliers,Virginia Cavaliers,Virginia
+300710194,2010,regular-season,2010-03-12,2,194,home,TRUE,Ohio State,69,Buckeyes,Ohio State Buckeyes,Ohio State
+300710194,2010,regular-season,2010-03-12,2,130,away,TRUE,Michigan,68,Wolverines,Michigan Wolverines,Michigan
+300712509,2010,regular-season,2010-03-12,2,2509,home,TRUE,Purdue,69,Boilermakers,Purdue Boilermakers,Purdue
+300712509,2010,regular-season,2010-03-12,2,77,away,TRUE,Northwestern,61,Wildcats,Northwestern Wildcats,Northwestern
+300710277,2010,regular-season,2010-03-12,2,277,home,TRUE,West Virginia,53,Mountaineers,West Virginia Mountaineers,West Virginia
+300710277,2010,regular-season,2010-03-12,2,87,away,TRUE,Notre Dame,51,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+300710167,2010,regular-season,2010-03-12,2,167,home,TRUE,New Mexico,69,Lobos,New Mexico Lobos,New Mexico
+300710167,2010,regular-season,2010-03-12,2,21,away,TRUE,San Diego State,72,Aztecs,San Diego State Aztecs,San Diego St
+300712306,2010,regular-season,2010-03-12,2,2306,home,TRUE,Kansas State,82,Wildcats,Kansas State Wildcats,Kansas St
+300712306,2010,regular-season,2010-03-12,2,239,away,TRUE,Baylor,75,Bears,Baylor Bears,Baylor
+300710127,2010,regular-season,2010-03-12,3,127,home,TRUE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
+300710127,2010,regular-season,2010-03-12,3,135,away,TRUE,Minnesota,72,Golden Gophers,Minnesota Golden Gophers,Minnesota
+300710275,2010,regular-season,2010-03-12,2,275,home,TRUE,Wisconsin,54,Badgers,Wisconsin Badgers,Wisconsin
+300710275,2010,regular-season,2010-03-12,2,356,away,TRUE,Illinois,58,Fighting Illini,Illinois Fighting Illini,Illinois
+300710252,2010,regular-season,2010-03-12,2,252,home,TRUE,BYU,66,Cougars,BYU Cougars,BYU
+300710252,2010,regular-season,2010-03-12,2,2439,away,TRUE,UNLV,70,Rebels,UNLV Rebels,UNLV
+300710145,2010,regular-season,2010-03-12,2,145,home,TRUE,Ole Miss,65,Rebels,Ole Miss Rebels,Ole Miss
+300710145,2010,regular-season,2010-03-12,2,2633,away,TRUE,Tennessee,76,Volunteers,Tennessee Volunteers,Tennessee
+300710218,2010,regular-season,2010-03-12,2,218,home,TRUE,Temple,69,Owls,Temple Owls,Temple
+300710218,2010,regular-season,2010-03-12,2,179,away,TRUE,St. Bonaventure,51,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+300710120,2010,regular-season,2010-03-12,2,120,home,TRUE,Maryland,64,Terrapins,Maryland Terrapins,Maryland
+300710120,2010,regular-season,2010-03-12,2,59,away,TRUE,Georgia Tech,69,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+300710238,2010,regular-season,2010-03-12,2,238,home,TRUE,Vanderbilt,78,Commodores,Vanderbilt Commodores,Vanderbilt
+300710238,2010,regular-season,2010-03-12,2,61,away,TRUE,Georgia,66,Bulldogs,Georgia Bulldogs,Georgia
+300710269,2010,regular-season,2010-03-12,2,269,home,TRUE,Marquette,57,Golden Eagles,Marquette Golden Eagles,Marquette
+300710269,2010,regular-season,2010-03-12,2,46,away,TRUE,Georgetown,80,Hoyas,Georgetown Hoyas,Georgetown
+300712752,2010,regular-season,2010-03-12,2,2752,home,TRUE,Xavier,78,Musketeers,Xavier Musketeers,Xavier
+300712752,2010,regular-season,2010-03-12,2,2168,away,TRUE,Dayton,73,Flyers,Dayton Flyers,Dayton
+300712638,2010,regular-season,2010-03-12,2,2638,home,TRUE,UTEP,75,Miners,UTEP Miners,UTEP
+300712638,2010,regular-season,2010-03-12,2,202,away,TRUE,Tulsa,61,Golden Hurricane,Tulsa Golden Hurricane,Tulsa

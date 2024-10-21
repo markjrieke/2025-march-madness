@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-223200325,2002-11-16,2,325,home,FALSE,Cleveland State,66,Vikings,Cleveland State Vikings,Cleveland St
-223200325,2002-11-16,2,2226,away,FALSE,Florida Atlantic,71,Owls,Florida Atlantic Owls,FAU
-223200036,2002-11-16,2,36,home,FALSE,Colorado State,80,Rams,Colorado State Rams,Colorado St
-223200036,2002-11-16,2,2870,away,FALSE,Purdue Fort Wayne,62,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-223200331,2002-11-16,2,331,home,FALSE,Eastern Washington,75,Eagles,Eastern Washington Eagles,E Washington
-223200331,2002-11-16,2,2737,away,FALSE,Winthrop,61,Eagles,Winthrop Eagles,Winthrop
-223200275,2002-11-16,2,275,home,FALSE,Wisconsin,84,Badgers,Wisconsin Badgers,Wisconsin
-223200275,2002-11-16,2,2459,away,FALSE,Northern Illinois,56,Huskies,Northern Illinois Huskies,N Illinois
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+223200325,2003,regular-season,2002-11-16,2,325,home,FALSE,Cleveland State,66,Vikings,Cleveland State Vikings,Cleveland St
+223200325,2003,regular-season,2002-11-16,2,2226,away,FALSE,Florida Atlantic,71,Owls,Florida Atlantic Owls,FAU
+223200036,2003,regular-season,2002-11-16,2,36,home,FALSE,Colorado State,80,Rams,Colorado State Rams,Colorado St
+223200036,2003,regular-season,2002-11-16,2,2870,away,FALSE,Purdue Fort Wayne,62,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+223200331,2003,regular-season,2002-11-16,2,331,home,FALSE,Eastern Washington,75,Eagles,Eastern Washington Eagles,E Washington
+223200331,2003,regular-season,2002-11-16,2,2737,away,FALSE,Winthrop,61,Eagles,Winthrop Eagles,Winthrop
+223200275,2003,regular-season,2002-11-16,2,275,home,FALSE,Wisconsin,84,Badgers,Wisconsin Badgers,Wisconsin
+223200275,2003,regular-season,2002-11-16,2,2459,away,FALSE,Northern Illinois,56,Huskies,Northern Illinois Huskies,N Illinois

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330920087,2013-04-02,2,87,home,TRUE,Notre Dame,87,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-330920087,2013-04-02,2,150,away,TRUE,Duke,76,Blue Devils,Duke Blue Devils,Duke
-330922633,2013-04-02,2,2633,home,TRUE,Tennessee,78,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-330922633,2013-04-02,2,97,away,TRUE,Louisville,86,Cardinals,Louisville Cardinals,Louisville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330920087,2013,post-season,2013-04-02,2,87,home,TRUE,Notre Dame,87,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+330920087,2013,post-season,2013-04-02,2,150,away,TRUE,Duke,76,Blue Devils,Duke Blue Devils,Duke
+330922633,2013,post-season,2013-04-02,2,2633,home,TRUE,Tennessee,78,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+330922633,2013,post-season,2013-04-02,2,97,away,TRUE,Louisville,86,Cardinals,Louisville Cardinals,Louisville

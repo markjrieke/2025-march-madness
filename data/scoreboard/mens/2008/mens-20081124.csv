@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-283292124,2008-11-24,2,2124,home,FALSE,Chaminade,70,Silverswords,Chaminade Silverswords,Chaminade
-283292124,2008-11-24,2,153,away,FALSE,North Carolina,115,Tar Heels,North Carolina Tar Heels,North Carolina
-283290275,2008-11-24,2,275,home,FALSE,Wisconsin,57,Badgers,Wisconsin Badgers,Wisconsin
-283290275,2008-11-24,2,41,away,FALSE,UConn,76,Huskies,UConn Huskies,UConn
-283290251,2008-11-24,2,251,home,TRUE,Texas,68,Longhorns,Texas Longhorns,Texas
-283290251,2008-11-24,2,2603,away,TRUE,Saint Joseph's,50,Hawks,Saint Joseph's Hawks,Saint Joseph's
-283290087,2008-11-24,2,87,home,TRUE,Notre Dame,88,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-283290087,2008-11-24,2,84,away,TRUE,Indiana,50,Hoosiers,Indiana Hoosiers,Indiana
-283290183,2008-11-24,2,57,home,TRUE,Florida,83,Gators,Florida Gators,Florida
-283290183,2008-11-24,2,183,away,TRUE,Syracuse,89,Orange,Syracuse Orange,Syracuse
-283290154,2008-11-24,2,154,home,FALSE,Wake Forest,62,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-283290154,2008-11-24,2,2736,away,FALSE,Winston-Salem,31,Rams,Winston-Salem Rams,Winston-Salem
-283290301,2008-11-24,2,301,home,FALSE,San Diego,45,Toreros,San Diego Toreros,San Diego
-283290301,2008-11-24,2,2390,away,FALSE,Miami,80,Hurricanes,Miami Hurricanes,Miami
-283292305,2008-11-24,2,264,home,TRUE,Washington,54,Huskies,Washington Huskies,Washington
-283292305,2008-11-24,2,2305,away,TRUE,Kansas,73,Jayhawks,Kansas Jayhawks,Kansas
-283292166,2008-11-24,2,2166,home,FALSE,Davidson,76,Wildcats,Davidson Wildcats,Davidson
-283292166,2008-11-24,2,2226,away,FALSE,Florida Atlantic,60,Owls,Florida Atlantic Owls,FAU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283292124,2009,regular-season,2008-11-24,2,2124,home,FALSE,Chaminade,70,Silverswords,Chaminade Silverswords,Chaminade
+283292124,2009,regular-season,2008-11-24,2,153,away,FALSE,North Carolina,115,Tar Heels,North Carolina Tar Heels,North Carolina
+283290275,2009,regular-season,2008-11-24,2,275,home,FALSE,Wisconsin,57,Badgers,Wisconsin Badgers,Wisconsin
+283290275,2009,regular-season,2008-11-24,2,41,away,FALSE,UConn,76,Huskies,UConn Huskies,UConn
+283290251,2009,regular-season,2008-11-24,2,251,home,TRUE,Texas,68,Longhorns,Texas Longhorns,Texas
+283290251,2009,regular-season,2008-11-24,2,2603,away,TRUE,Saint Joseph's,50,Hawks,Saint Joseph's Hawks,Saint Joseph's
+283290087,2009,regular-season,2008-11-24,2,87,home,TRUE,Notre Dame,88,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+283290087,2009,regular-season,2008-11-24,2,84,away,TRUE,Indiana,50,Hoosiers,Indiana Hoosiers,Indiana
+283290183,2009,regular-season,2008-11-24,2,57,home,TRUE,Florida,83,Gators,Florida Gators,Florida
+283290183,2009,regular-season,2008-11-24,2,183,away,TRUE,Syracuse,89,Orange,Syracuse Orange,Syracuse
+283290154,2009,regular-season,2008-11-24,2,154,home,FALSE,Wake Forest,62,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+283290154,2009,regular-season,2008-11-24,2,2736,away,FALSE,Winston-Salem,31,Rams,Winston-Salem Rams,Winston-Salem
+283290301,2009,regular-season,2008-11-24,2,301,home,FALSE,San Diego,45,Toreros,San Diego Toreros,San Diego
+283290301,2009,regular-season,2008-11-24,2,2390,away,FALSE,Miami,80,Hurricanes,Miami Hurricanes,Miami
+283292305,2009,regular-season,2008-11-24,2,264,home,TRUE,Washington,54,Huskies,Washington Huskies,Washington
+283292305,2009,regular-season,2008-11-24,2,2305,away,TRUE,Kansas,73,Jayhawks,Kansas Jayhawks,Kansas
+283292166,2009,regular-season,2008-11-24,2,2166,home,FALSE,Davidson,76,Wildcats,Davidson Wildcats,Davidson
+283292166,2009,regular-season,2008-11-24,2,2226,away,FALSE,Florida Atlantic,60,Owls,Florida Atlantic Owls,FAU

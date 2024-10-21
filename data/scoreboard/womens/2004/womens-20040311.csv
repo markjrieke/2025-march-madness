@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240710251,2004-03-11,2,251,home,FALSE,Texas,63,Longhorns,Texas Longhorns,Texas
-240710251,2004-03-11,2,239,away,FALSE,Baylor,59,Bears,Baylor Bears,Baylor
-240712306,2004-03-11,2,2306,home,FALSE,Kansas State,66,Wildcats,Kansas State Wildcats,Kansas St
-240712306,2004-03-11,2,201,away,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240710251,2004,regular-season,2004-03-11,2,251,home,FALSE,Texas,63,Longhorns,Texas Longhorns,Texas
+240710251,2004,regular-season,2004-03-11,2,239,away,FALSE,Baylor,59,Bears,Baylor Bears,Baylor
+240712306,2004,regular-season,2004-03-11,2,2306,home,FALSE,Kansas State,66,Wildcats,Kansas State Wildcats,Kansas St
+240712306,2004,regular-season,2004-03-11,2,201,away,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma

@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-223390107,2002-12-05,2,107,home,FALSE,Holy Cross,46,Crusaders,Holy Cross Crusaders,Holy Cross
-223390107,2002-12-05,2,41,away,FALSE,UConn,68,Huskies,UConn Huskies,UConn
-223390153,2002-12-05,2,153,home,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
-223390153,2002-12-05,2,2026,away,FALSE,App State,44,Mountaineers,App State Mountaineers,App State
-223390201,2002-12-05,2,201,home,FALSE,Oklahoma,77,Sooners,Oklahoma Sooners,Oklahoma
-223390201,2002-12-05,2,2617,away,FALSE,Stephen F. Austin,55,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
-223392539,2002-12-05,2,2539,home,FALSE,San Francisco,65,Dons,San Francisco Dons,San Francisco
-223392539,2002-12-05,2,252,away,FALSE,BYU,68,Cougars,BYU Cougars,BYU
-223392198,2002-12-05,2,2198,home,FALSE,Eastern Kentucky,78,Colonels,Eastern Kentucky Colonels,E Kentucky
-223392198,2002-12-05,2,2132,away,FALSE,Cincinnati,91,Bearcats,Cincinnati Bearcats,Cincinnati
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+223390107,2003,regular-season,2002-12-05,2,107,home,FALSE,Holy Cross,46,Crusaders,Holy Cross Crusaders,Holy Cross
+223390107,2003,regular-season,2002-12-05,2,41,away,FALSE,UConn,68,Huskies,UConn Huskies,UConn
+223390153,2003,regular-season,2002-12-05,2,153,home,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
+223390153,2003,regular-season,2002-12-05,2,2026,away,FALSE,App State,44,Mountaineers,App State Mountaineers,App State
+223390201,2003,regular-season,2002-12-05,2,201,home,FALSE,Oklahoma,77,Sooners,Oklahoma Sooners,Oklahoma
+223390201,2003,regular-season,2002-12-05,2,2617,away,FALSE,Stephen F. Austin,55,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
+223392539,2003,regular-season,2002-12-05,2,2539,home,FALSE,San Francisco,65,Dons,San Francisco Dons,San Francisco
+223392539,2003,regular-season,2002-12-05,2,252,away,FALSE,BYU,68,Cougars,BYU Cougars,BYU
+223392198,2003,regular-season,2002-12-05,2,2198,home,FALSE,Eastern Kentucky,78,Colonels,Eastern Kentucky Colonels,E Kentucky
+223392198,2003,regular-season,2002-12-05,2,2132,away,FALSE,Cincinnati,91,Bearcats,Cincinnati Bearcats,Cincinnati

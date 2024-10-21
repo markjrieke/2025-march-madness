@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320290194,2012-01-29,2,194,home,FALSE,Ohio State,64,Buckeyes,Ohio State Buckeyes,Ohio State
-320290194,2012-01-29,2,130,away,FALSE,Michigan,49,Wolverines,Michigan Wolverines,Michigan
-320290153,2012-01-29,2,153,home,FALSE,North Carolina,93,Tar Heels,North Carolina Tar Heels,North Carolina
-320290153,2012-01-29,2,59,away,FALSE,Georgia Tech,81,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-320290084,2012-01-29,2,84,home,FALSE,Indiana,103,Hoosiers,Indiana Hoosiers,Indiana
-320290084,2012-01-29,2,2294,away,FALSE,Iowa,89,Hawkeyes,Iowa Hawkeyes,Iowa
-320290041,2012-01-29,2,41,home,FALSE,UConn,48,Huskies,UConn Huskies,UConn
-320290041,2012-01-29,2,87,away,FALSE,Notre Dame,50,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320290194,2012,regular-season,2012-01-29,2,194,home,FALSE,Ohio State,64,Buckeyes,Ohio State Buckeyes,Ohio State
+320290194,2012,regular-season,2012-01-29,2,130,away,FALSE,Michigan,49,Wolverines,Michigan Wolverines,Michigan
+320290153,2012,regular-season,2012-01-29,2,153,home,FALSE,North Carolina,93,Tar Heels,North Carolina Tar Heels,North Carolina
+320290153,2012,regular-season,2012-01-29,2,59,away,FALSE,Georgia Tech,81,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+320290084,2012,regular-season,2012-01-29,2,84,home,FALSE,Indiana,103,Hoosiers,Indiana Hoosiers,Indiana
+320290084,2012,regular-season,2012-01-29,2,2294,away,FALSE,Iowa,89,Hawkeyes,Iowa Hawkeyes,Iowa
+320290041,2012,regular-season,2012-01-29,2,41,home,FALSE,UConn,48,Huskies,UConn Huskies,UConn
+320290041,2012,regular-season,2012-01-29,2,87,away,FALSE,Notre Dame,50,Fighting Irish,Notre Dame Fighting Irish,Notre Dame

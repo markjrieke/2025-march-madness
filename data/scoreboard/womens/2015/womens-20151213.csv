@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400838947,2015-12-13,4,2579,home,FALSE,South Carolina,86,Gamecocks,South Carolina Gamecocks,South Carolina
-400838947,2015-12-13,4,2737,away,FALSE,Winthrop,37,Eagles,Winthrop Eagles,Winthrop
-400823523,2015-12-13,4,239,home,FALSE,Baylor,105,Bears,Baylor Bears,Baylor
-400823523,2015-12-13,4,2377,away,FALSE,McNeese,46,Cowgirls,McNeese Cowgirls,McNeese
-400820975,2015-12-13,4,251,home,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
-400820975,2015-12-13,4,24,away,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
-400842258,2015-12-13,4,2393,home,FALSE,Middle Tennessee,52,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-400842258,2015-12-13,4,96,away,FALSE,Kentucky,68,Wildcats,Kentucky Wildcats,Kentucky
-400827812,2015-12-13,4,2348,home,FALSE,Louisiana Tech,63,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-400827812,2015-12-13,4,344,away,FALSE,Mississippi State,93,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400819179,2015-12-13,4,194,home,FALSE,Ohio State,89,Buckeyes,Ohio State Buckeyes,Ohio State
-400819179,2015-12-13,4,2448,away,FALSE,North Carolina A&T,56,Aggies,North Carolina A&T Aggies,NC A&T
-400834918,2015-12-13,4,2350,home,FALSE,Loyola Chicago,72,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-400834918,2015-12-13,4,77,away,FALSE,Northwestern,81,Wildcats,Northwestern Wildcats,Northwestern
-400821005,2015-12-13,4,201,home,FALSE,Oklahoma,80,Sooners,Oklahoma Sooners,Oklahoma
-400821005,2015-12-13,4,2636,away,FALSE,UTSA,41,Roadrunners,UTSA Roadrunners,UTSA
-400821071,2015-12-13,4,130,home,FALSE,Michigan,77,Wolverines,Michigan Wolverines,Michigan
-400821071,2015-12-13,4,26,away,FALSE,UCLA,86,Bruins,UCLA Bruins,UCLA
-400825117,2015-12-13,4,58,home,FALSE,South Florida,61,Bulls,South Florida Bulls,South Florida
-400825117,2015-12-13,4,236,away,FALSE,Chattanooga,33,Mocs,Chattanooga Mocs,Chattanooga
-400830364,2015-12-13,4,2473,home,FALSE,Oakland,62,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-400830364,2015-12-13,4,127,away,FALSE,Michigan State,82,Spartans,Michigan State Spartans,Michigan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400838947,2016,regular-season,2015-12-13,4,2579,home,FALSE,South Carolina,86,Gamecocks,South Carolina Gamecocks,South Carolina
+400838947,2016,regular-season,2015-12-13,4,2737,away,FALSE,Winthrop,37,Eagles,Winthrop Eagles,Winthrop
+400823523,2016,regular-season,2015-12-13,4,239,home,FALSE,Baylor,105,Bears,Baylor Bears,Baylor
+400823523,2016,regular-season,2015-12-13,4,2377,away,FALSE,McNeese,46,Cowgirls,McNeese Cowgirls,McNeese
+400820975,2016,regular-season,2015-12-13,4,251,home,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
+400820975,2016,regular-season,2015-12-13,4,24,away,FALSE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
+400842258,2016,regular-season,2015-12-13,4,2393,home,FALSE,Middle Tennessee,52,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+400842258,2016,regular-season,2015-12-13,4,96,away,FALSE,Kentucky,68,Wildcats,Kentucky Wildcats,Kentucky
+400827812,2016,regular-season,2015-12-13,4,2348,home,FALSE,Louisiana Tech,63,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+400827812,2016,regular-season,2015-12-13,4,344,away,FALSE,Mississippi State,93,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400819179,2016,regular-season,2015-12-13,4,194,home,FALSE,Ohio State,89,Buckeyes,Ohio State Buckeyes,Ohio State
+400819179,2016,regular-season,2015-12-13,4,2448,away,FALSE,North Carolina A&T,56,Aggies,North Carolina A&T Aggies,NC A&T
+400834918,2016,regular-season,2015-12-13,4,2350,home,FALSE,Loyola Chicago,72,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+400834918,2016,regular-season,2015-12-13,4,77,away,FALSE,Northwestern,81,Wildcats,Northwestern Wildcats,Northwestern
+400821005,2016,regular-season,2015-12-13,4,201,home,FALSE,Oklahoma,80,Sooners,Oklahoma Sooners,Oklahoma
+400821005,2016,regular-season,2015-12-13,4,2636,away,FALSE,UTSA,41,Roadrunners,UTSA Roadrunners,UTSA
+400821071,2016,regular-season,2015-12-13,4,130,home,FALSE,Michigan,77,Wolverines,Michigan Wolverines,Michigan
+400821071,2016,regular-season,2015-12-13,4,26,away,FALSE,UCLA,86,Bruins,UCLA Bruins,UCLA
+400825117,2016,regular-season,2015-12-13,4,58,home,FALSE,South Florida,61,Bulls,South Florida Bulls,South Florida
+400825117,2016,regular-season,2015-12-13,4,236,away,FALSE,Chattanooga,33,Mocs,Chattanooga Mocs,Chattanooga
+400830364,2016,regular-season,2015-12-13,4,2473,home,FALSE,Oakland,62,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+400830364,2016,regular-season,2015-12-13,4,127,away,FALSE,Michigan State,82,Spartans,Michigan State Spartans,Michigan St

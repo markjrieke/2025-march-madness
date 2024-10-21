@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401488384,2022-12-10,2,248,home,FALSE,Houston,65,Cougars,Houston Cougars,Houston
-401488384,2022-12-10,2,333,away,FALSE,Alabama,71,Crimson Tide,Alabama Crimson Tide,Alabama
-401484843,2022-12-10,3,158,home,FALSE,Nebraska,62,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401484843,2022-12-10,3,2509,away,FALSE,Purdue,65,Boilermakers,Purdue Boilermakers,Purdue
-401485175,2022-12-10,2,41,home,FALSE,UConn,114,Huskies,UConn Huskies,UConn
-401485175,2022-12-10,2,112358,away,FALSE,Long Island University,61,Sharks,Long Island University Sharks,Long Island
-401483203,2022-12-10,2,142,home,FALSE,Missouri,67,Tigers,Missouri Tigers,Missouri
-401483203,2022-12-10,2,2305,away,FALSE,Kansas,95,Jayhawks,Kansas Jayhawks,Kansas
-401483296,2022-12-10,2,8,home,TRUE,Arkansas,88,Razorbacks,Arkansas Razorbacks,Arkansas
-401483296,2022-12-10,2,201,away,TRUE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
-401482913,2022-12-10,2,150,home,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
-401482913,2022-12-10,2,2379,away,FALSE,Maryland Eastern Shore,55,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-401487477,2022-12-10,2,96,home,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
-401487477,2022-12-10,2,43,away,FALSE,Yale,59,Bulldogs,Yale Bulldogs,Yale
-401484842,2022-12-10,2,356,home,FALSE,Illinois,59,Fighting Illini,Illinois Fighting Illini,Illinois
-401484842,2022-12-10,2,213,away,FALSE,Penn State,74,Nittany Lions,Penn State Nittany Lions,Penn State
-401483468,2022-12-10,2,26,home,FALSE,UCLA,87,Bruins,UCLA Bruins,UCLA
-401483468,2022-12-10,2,2172,away,FALSE,Denver,64,Pioneers,Denver Pioneers,Denver
-401485177,2022-12-10,2,252,home,TRUE,BYU,83,Cougars,BYU Cougars,BYU
-401485177,2022-12-10,2,156,away,TRUE,Creighton,80,Bluejays,Creighton Bluejays,Creighton
-401483304,2022-12-10,2,2567,home,TRUE,SMU,75,Mustangs,SMU Mustangs,SMU
-401483304,2022-12-10,2,2628,away,TRUE,TCU,83,Horned Frogs,TCU Horned Frogs,TCU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401488384,2023,regular-season,2022-12-10,2,248,home,FALSE,Houston,65,Cougars,Houston Cougars,Houston
+401488384,2023,regular-season,2022-12-10,2,333,away,FALSE,Alabama,71,Crimson Tide,Alabama Crimson Tide,Alabama
+401484843,2023,regular-season,2022-12-10,3,158,home,FALSE,Nebraska,62,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401484843,2023,regular-season,2022-12-10,3,2509,away,FALSE,Purdue,65,Boilermakers,Purdue Boilermakers,Purdue
+401485175,2023,regular-season,2022-12-10,2,41,home,FALSE,UConn,114,Huskies,UConn Huskies,UConn
+401485175,2023,regular-season,2022-12-10,2,112358,away,FALSE,Long Island University,61,Sharks,Long Island University Sharks,Long Island
+401483203,2023,regular-season,2022-12-10,2,142,home,FALSE,Missouri,67,Tigers,Missouri Tigers,Missouri
+401483203,2023,regular-season,2022-12-10,2,2305,away,FALSE,Kansas,95,Jayhawks,Kansas Jayhawks,Kansas
+401483296,2023,regular-season,2022-12-10,2,8,home,TRUE,Arkansas,88,Razorbacks,Arkansas Razorbacks,Arkansas
+401483296,2023,regular-season,2022-12-10,2,201,away,TRUE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
+401482913,2023,regular-season,2022-12-10,2,150,home,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
+401482913,2023,regular-season,2022-12-10,2,2379,away,FALSE,Maryland Eastern Shore,55,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+401487477,2023,regular-season,2022-12-10,2,96,home,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
+401487477,2023,regular-season,2022-12-10,2,43,away,FALSE,Yale,59,Bulldogs,Yale Bulldogs,Yale
+401484842,2023,regular-season,2022-12-10,2,356,home,FALSE,Illinois,59,Fighting Illini,Illinois Fighting Illini,Illinois
+401484842,2023,regular-season,2022-12-10,2,213,away,FALSE,Penn State,74,Nittany Lions,Penn State Nittany Lions,Penn State
+401483468,2023,regular-season,2022-12-10,2,26,home,FALSE,UCLA,87,Bruins,UCLA Bruins,UCLA
+401483468,2023,regular-season,2022-12-10,2,2172,away,FALSE,Denver,64,Pioneers,Denver Pioneers,Denver
+401485177,2023,regular-season,2022-12-10,2,252,home,TRUE,BYU,83,Cougars,BYU Cougars,BYU
+401485177,2023,regular-season,2022-12-10,2,156,away,TRUE,Creighton,80,Bluejays,Creighton Bluejays,Creighton
+401483304,2023,regular-season,2022-12-10,2,2567,home,TRUE,SMU,75,Mustangs,SMU Mustangs,SMU
+401483304,2023,regular-season,2022-12-10,2,2628,away,TRUE,TCU,83,Horned Frogs,TCU Horned Frogs,TCU

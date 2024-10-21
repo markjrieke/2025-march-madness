@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243342377,2004-11-29,2,2377,home,FALSE,McNeese,71,Cowgirls,McNeese Cowgirls,McNeese
-243342377,2004-11-29,2,2443,away,FALSE,New Orleans,52,Privateers,New Orleans Privateers,New Orleans
-243342241,2004-11-29,2,2241,home,FALSE,Gardner-Webb,64,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-243342241,2004-11-29,2,294,away,FALSE,Jacksonville,53,Dolphins,Jacksonville Dolphins,Jacksonville
-243340172,2004-11-29,2,172,home,FALSE,Cornell,42,Big Red,Cornell Big Red,Cornell
-243340172,2004-11-29,2,2099,away,FALSE,Canisius,63,Golden Griffins,Canisius Golden Griffins,Canisius
-243342755,2004-11-29,2,2755,home,FALSE,Grambling,55,Lady Tigers,Grambling Lady Tigers,Grambling
-243342755,2004-11-29,2,357,away,FALSE,Texas A&M-Corpus Christi,66,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-243342649,2004-11-29,2,2649,home,FALSE,Toledo,67,Rockets,Toledo Rockets,Toledo
-243342649,2004-11-29,2,2350,away,FALSE,Loyola Chicago,71,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-243342603,2004-11-29,2,2603,home,FALSE,Saint Joseph's,66,Hawks,Saint Joseph's Hawks,Saint Joseph's
-243342603,2004-11-29,2,2329,away,FALSE,Lehigh,68,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-243342368,2004-11-29,2,2368,home,FALSE,Marist,52,Red Foxes,Marist Red Foxes,Marist
-243342368,2004-11-29,2,160,away,FALSE,New Hampshire,34,Wildcats,New Hampshire Wildcats,New Hampshire
-243342127,2004-11-29,2,2127,home,FALSE,Charleston Southern,77,Buccaneers,Charleston Southern Buccaneers,Charleston So
-243342127,2004-11-29,2,2448,away,FALSE,North Carolina A&T,48,Aggies,North Carolina A&T Aggies,NC A&T
-243340261,2004-11-29,2,261,home,FALSE,Vermont,62,Catamounts,Vermont Catamounts,Vermont
-243340261,2004-11-29,2,2217,away,FALSE,Fairfield,71,Stags,Fairfield Stags,Fairfield
-243342320,2004-11-29,2,2320,home,FALSE,Lamar,72,Cardinals,Lamar Cardinals,Lamar
-243342320,2004-11-29,2,2637,away,FALSE,Texas College,24,Steers,Texas College Steers,Texas College
-243340140,2004-11-29,2,140,home,FALSE,Kansas City,61,Roos,Kansas City Roos,Kansas City
-243340140,2004-11-29,2,2458,away,FALSE,Northern Colorado,49,Bears,Northern Colorado Bears,N Colorado
-243340066,2004-11-29,2,66,home,FALSE,Iowa State,113,Cyclones,Iowa State Cyclones,Iowa State
-243340066,2004-11-29,2,2870,away,FALSE,Purdue Fort Wayne,45,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-243342623,2004-11-29,2,2623,home,FALSE,Missouri State,77,Lady Bears,Missouri State Lady Bears,Missouri St
-243342623,2004-11-29,2,2031,away,FALSE,Little Rock,47,Trojans,Little Rock Trojans,Little Rock
-243340012,2004-11-29,2,12,home,FALSE,Arizona,79,Wildcats,Arizona Wildcats,Arizona
-243340012,2004-11-29,2,2638,away,FALSE,UTEP,47,Miners,UTEP Miners,UTEP
-243340253,2004-11-29,2,253,home,FALSE,Southern Utah,55,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
-243340253,2004-11-29,2,250,away,FALSE,UT Arlington,62,Mavericks,UT Arlington Mavericks,UT Arlington
-243340166,2004-11-29,2,166,home,FALSE,New Mexico State,74,Aggies,New Mexico State Aggies,New Mexico St
-243340166,2004-11-29,2,2703,away,FALSE,Western New Mexico,59,Mustangs,Western New Mexico Mustangs,W New Mex
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243342377,2005,regular-season,2004-11-29,2,2377,home,FALSE,McNeese,71,Cowgirls,McNeese Cowgirls,McNeese
+243342377,2005,regular-season,2004-11-29,2,2443,away,FALSE,New Orleans,52,Privateers,New Orleans Privateers,New Orleans
+243342241,2005,regular-season,2004-11-29,2,2241,home,FALSE,Gardner-Webb,64,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+243342241,2005,regular-season,2004-11-29,2,294,away,FALSE,Jacksonville,53,Dolphins,Jacksonville Dolphins,Jacksonville
+243340172,2005,regular-season,2004-11-29,2,172,home,FALSE,Cornell,42,Big Red,Cornell Big Red,Cornell
+243340172,2005,regular-season,2004-11-29,2,2099,away,FALSE,Canisius,63,Golden Griffins,Canisius Golden Griffins,Canisius
+243342755,2005,regular-season,2004-11-29,2,2755,home,FALSE,Grambling,55,Lady Tigers,Grambling Lady Tigers,Grambling
+243342755,2005,regular-season,2004-11-29,2,357,away,FALSE,Texas A&M-Corpus Christi,66,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+243342649,2005,regular-season,2004-11-29,2,2649,home,FALSE,Toledo,67,Rockets,Toledo Rockets,Toledo
+243342649,2005,regular-season,2004-11-29,2,2350,away,FALSE,Loyola Chicago,71,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+243342603,2005,regular-season,2004-11-29,2,2603,home,FALSE,Saint Joseph's,66,Hawks,Saint Joseph's Hawks,Saint Joseph's
+243342603,2005,regular-season,2004-11-29,2,2329,away,FALSE,Lehigh,68,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+243342368,2005,regular-season,2004-11-29,2,2368,home,FALSE,Marist,52,Red Foxes,Marist Red Foxes,Marist
+243342368,2005,regular-season,2004-11-29,2,160,away,FALSE,New Hampshire,34,Wildcats,New Hampshire Wildcats,New Hampshire
+243342127,2005,regular-season,2004-11-29,2,2127,home,FALSE,Charleston Southern,77,Buccaneers,Charleston Southern Buccaneers,Charleston So
+243342127,2005,regular-season,2004-11-29,2,2448,away,FALSE,North Carolina A&T,48,Aggies,North Carolina A&T Aggies,NC A&T
+243340261,2005,regular-season,2004-11-29,2,261,home,FALSE,Vermont,62,Catamounts,Vermont Catamounts,Vermont
+243340261,2005,regular-season,2004-11-29,2,2217,away,FALSE,Fairfield,71,Stags,Fairfield Stags,Fairfield
+243342320,2005,regular-season,2004-11-29,2,2320,home,FALSE,Lamar,72,Cardinals,Lamar Cardinals,Lamar
+243342320,2005,regular-season,2004-11-29,2,2637,away,FALSE,Texas College,24,Steers,Texas College Steers,Texas College
+243340140,2005,regular-season,2004-11-29,2,140,home,FALSE,Kansas City,61,Roos,Kansas City Roos,Kansas City
+243340140,2005,regular-season,2004-11-29,2,2458,away,FALSE,Northern Colorado,49,Bears,Northern Colorado Bears,N Colorado
+243340066,2005,regular-season,2004-11-29,2,66,home,FALSE,Iowa State,113,Cyclones,Iowa State Cyclones,Iowa State
+243340066,2005,regular-season,2004-11-29,2,2870,away,FALSE,Purdue Fort Wayne,45,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+243342623,2005,regular-season,2004-11-29,2,2623,home,FALSE,Missouri State,77,Lady Bears,Missouri State Lady Bears,Missouri St
+243342623,2005,regular-season,2004-11-29,2,2031,away,FALSE,Little Rock,47,Trojans,Little Rock Trojans,Little Rock
+243340012,2005,regular-season,2004-11-29,2,12,home,FALSE,Arizona,79,Wildcats,Arizona Wildcats,Arizona
+243340012,2005,regular-season,2004-11-29,2,2638,away,FALSE,UTEP,47,Miners,UTEP Miners,UTEP
+243340253,2005,regular-season,2004-11-29,2,253,home,FALSE,Southern Utah,55,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+243340253,2005,regular-season,2004-11-29,2,250,away,FALSE,UT Arlington,62,Mavericks,UT Arlington Mavericks,UT Arlington
+243340166,2005,regular-season,2004-11-29,2,166,home,FALSE,New Mexico State,74,Aggies,New Mexico State Aggies,New Mexico St
+243340166,2005,regular-season,2004-11-29,2,2703,away,FALSE,Western New Mexico,59,Mustangs,Western New Mexico Mustangs,W New Mex

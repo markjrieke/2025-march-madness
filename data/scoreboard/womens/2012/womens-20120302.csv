@@ -1,93 +1,93 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320622217,2012-03-02,2,2217,home,FALSE,Fairfield,61,Stags,Fairfield Stags,Fairfield
-320622217,2012-03-02,2,314,away,FALSE,Iona,45,Gaels,Iona Gaels,Iona
-320620059,2012-03-02,2,59,home,TRUE,Georgia Tech,54,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-320620059,2012-03-02,2,153,away,TRUE,North Carolina,53,Tar Heels,North Carolina Tar Heels,North Carolina
-320622363,2012-03-02,2,2363,home,TRUE,Manhattan,33,Jaspers,Manhattan Jaspers,Manhattan
-320622363,2012-03-02,2,2561,away,TRUE,Siena,34,Saints,Siena Saints,Siena
-320622325,2012-03-02,2,2325,home,FALSE,La Salle,52,Explorers,La Salle Explorers,La Salle
-320622325,2012-03-02,2,2752,away,FALSE,Xavier,49,Musketeers,Xavier Musketeers,Xavier
-320620232,2012-03-02,2,232,home,TRUE,Charleston,53,Cougars,Charleston Cougars,Charleston
-320620232,2012-03-02,2,2747,away,TRUE,Wofford,64,Terriers,Wofford Terriers,Wofford
-320620194,2012-03-02,2,194,home,TRUE,Ohio State,57,Buckeyes,Ohio State Buckeyes,Ohio State
-320620194,2012-03-02,2,130,away,TRUE,Michigan,48,Wolverines,Michigan Wolverines,Michigan
-320620526,2012-03-02,2,526,home,TRUE,Florida Gulf Coast,76,Eagles,Florida Gulf Coast Eagles,FGCU
-320620526,2012-03-02,2,338,away,TRUE,Kennesaw State,53,Owls,Kennesaw State Owls,Kennesaw St
-320620183,2012-03-02,2,183,home,TRUE,Syracuse,57,Orange,Syracuse Orange,Syracuse
-320620183,2012-03-02,2,2507,away,TRUE,Providence,47,Friars,Providence Friars,Providence
-320620104,2012-03-02,2,104,home,TRUE,Boston University,52,Terriers,Boston University Terriers,Boston U
-320620104,2012-03-02,2,311,away,TRUE,Maine,43,Black Bears,Maine Black Bears,Maine
-320622630,2012-03-02,2,2630,home,TRUE,UT Martin,102,Skyhawks,UT Martin Skyhawks,UT Martin
-320622630,2012-03-02,2,93,away,TRUE,Murray State,77,Racers,Murray State Racers,Murray St
-320620096,2012-03-02,2,96,home,TRUE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
-320620096,2012-03-02,2,57,away,TRUE,Florida,67,Gators,Florida Gators,Florida
-320622368,2012-03-02,2,2368,home,TRUE,Marist,74,Red Foxes,Marist Red Foxes,Marist
-320622368,2012-03-02,2,2612,away,TRUE,Saint Peter's,49,Peacocks,Saint Peter's Peacocks,Saint Peter's
-320622294,2012-03-02,2,2294,home,TRUE,Iowa,68,Hawkeyes,Iowa Hawkeyes,Iowa
-320622294,2012-03-02,2,158,away,TRUE,Nebraska,80,Cornhuskers,Nebraska Cornhuskers,Nebraska
-320622717,2012-03-02,3,2717,home,TRUE,Western Carolina,61,Catamounts,Western Carolina Catamounts,W Carolina
-320622717,2012-03-02,3,290,away,TRUE,Georgia Southern,56,Eagles,Georgia Southern Eagles,GA Southern
-320620058,2012-03-02,2,58,home,TRUE,South Florida,60,Bulls,South Florida Bulls,South Florida
-320620058,2012-03-02,2,221,away,TRUE,Pittsburgh,59,Panthers,Pittsburgh Panthers,Pitt
-320620160,2012-03-02,2,160,home,TRUE,New Hampshire,57,Wildcats,New Hampshire Wildcats,New Hampshire
-320620160,2012-03-02,2,2378,away,TRUE,UMBC,59,Retrievers,UMBC Retrievers,UMBC
-320622603,2012-03-02,2,2603,home,FALSE,Saint Joseph's,63,Hawks,Saint Joseph's Hawks,Saint Joseph's
-320622603,2012-03-02,2,2230,away,FALSE,Fordham,52,Rams,Fordham Rams,Fordham
-320620056,2012-03-02,2,56,home,TRUE,Stetson,67,Hatters,Stetson Hatters,Stetson
-320620056,2012-03-02,2,294,away,TRUE,Jacksonville,60,Dolphins,Jacksonville Dolphins,Jacksonville
-320622608,2012-03-02,2,2608,home,TRUE,Saint Mary's,67,Gaels,Saint Mary's Gaels,Saint Mary's
-320622608,2012-03-02,2,2492,away,TRUE,Pepperdine,63,Waves,Pepperdine Waves,Pepperdine
-320622197,2012-03-02,3,2197,home,TRUE,Eastern Illinois,72,Panthers,Eastern Illinois Panthers,E Illinois
-320622197,2012-03-02,3,2635,away,TRUE,Tennessee Tech,81,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
-320620150,2012-03-02,2,150,home,TRUE,Duke,73,Blue Devils,Duke Blue Devils,Duke
-320620150,2012-03-02,2,152,away,TRUE,NC State,75,Wolfpack,NC State Wolfpack,NC State
-320622633,2012-03-02,2,2633,home,TRUE,Tennessee,68,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-320622633,2012-03-02,2,238,away,TRUE,Vanderbilt,57,Commodores,Vanderbilt Commodores,Vanderbilt
-320622352,2012-03-02,2,2352,home,TRUE,Loyola Maryland,63,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-320622352,2012-03-02,2,315,away,TRUE,Niagara,77,Purple Eagles,Niagara Purple Eagles,Niagara
-320620231,2012-03-02,2,231,home,TRUE,Furman,63,Paladins,Furman Paladins,Furman
-320620231,2012-03-02,2,2430,away,TRUE,UNC Greensboro,58,Spartans,UNC Greensboro Spartans,UNC Greensboro
-320622184,2012-03-02,2,2184,home,FALSE,Duquesne,69,Dukes,Duquesne Dukes,Duquesne
-320622184,2012-03-02,2,45,away,FALSE,George Washington,55,Revolutionaries,George Washington Revolutionaries,G Washington
-320620301,2012-03-02,2,301,home,TRUE,San Diego,70,Toreros,San Diego Toreros,San Diego
-320620301,2012-03-02,2,2501,away,TRUE,Portland,60,Pilots,Portland Pilots,Portland
-320622390,2012-03-02,2,2390,home,TRUE,Miami,74,Hurricanes,Miami Hurricanes,Miami
-320622390,2012-03-02,2,154,away,TRUE,Wake Forest,81,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-320620222,2012-03-02,2,222,home,TRUE,Villanova,61,Wildcats,Villanova Wildcats,Villanova
-320620222,2012-03-02,2,2550,away,TRUE,Seton Hall,60,Pirates,Seton Hall Pirates,Seton Hall
-320620213,2012-03-02,2,213,home,TRUE,Penn State,78,Lady Lions,Penn State Lady Lions,Penn State
-320620213,2012-03-02,2,135,away,TRUE,Minnesota,74,Golden Gophers,Minnesota Golden Gophers,Minnesota
-320620399,2012-03-02,2,399,home,TRUE,UAlbany,74,Great Danes,UAlbany Great Danes,UAlbany
-320620399,2012-03-02,2,261,away,TRUE,Vermont,61,Catamounts,Vermont Catamounts,Vermont
-320622737,2012-03-02,3,2737,home,FALSE,Winthrop,81,Eagles,Winthrop Eagles,Winthrop
-320622737,2012-03-02,3,2127,away,FALSE,Charleston Southern,75,Buccaneers,Charleston Southern Buccaneers,Charleston So
-320622506,2012-03-02,2,2506,home,FALSE,Presbyterian,56,Blue Hose,Presbyterian Blue Hose,Presbyterian
-320622506,2012-03-02,2,324,away,FALSE,Coastal Carolina,52,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
-320622335,2012-03-02,2,2335,home,FALSE,Liberty,72,Flames,Liberty Flames,Liberty
-320622335,2012-03-02,2,2515,away,FALSE,Radford,66,Highlanders,Radford Highlanders,Radford
-320622241,2012-03-02,2,2241,home,FALSE,Gardner-Webb,46,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-320622241,2012-03-02,2,2272,away,FALSE,High Point,66,Panthers,High Point Panthers,High Point
-320620225,2012-03-02,2,225,home,FALSE,Brown,66,Bears,Brown Bears,Brown
-320620225,2012-03-02,2,219,away,FALSE,Pennsylvania,72,Quakers,Pennsylvania Quakers,Penn
-320620159,2012-03-02,2,159,home,FALSE,Dartmouth,55,Big Green,Dartmouth Big Green,Dartmouth
-320620159,2012-03-02,2,172,away,FALSE,Cornell,48,Big Red,Cornell Big Red,Cornell
-320620108,2012-03-02,2,108,home,FALSE,Harvard,88,Crimson,Harvard Crimson,Harvard
-320620108,2012-03-02,2,171,away,FALSE,Columbia,64,Lions,Columbia Lions,Columbia
-320620043,2012-03-02,2,43,home,FALSE,Yale,53,Bulldogs,Yale Bulldogs,Yale
-320620043,2012-03-02,2,163,away,FALSE,Princeton,71,Tigers,Princeton Tigers,Princeton
-320622429,2012-03-02,2,2429,home,FALSE,Charlotte,59,49ers,Charlotte 49ers,Charlotte
-320622429,2012-03-02,2,139,away,FALSE,Saint Louis,64,Billikens,Saint Louis Billikens,Saint Louis
-320622427,2012-03-02,2,2427,home,FALSE,UNC Asheville,55,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-320622427,2012-03-02,2,2097,away,FALSE,Campbell,74,Fighting Camels,Campbell Fighting Camels,Campbell
-320620099,2012-03-02,2,99,home,TRUE,LSU,41,Tigers,LSU Tigers,LSU
-320620099,2012-03-02,2,8,away,TRUE,Arkansas,40,Razorbacks,Arkansas Razorbacks,Arkansas
-320622132,2012-03-02,2,2132,home,TRUE,Cincinnati,51,Bearcats,Cincinnati Bearcats,Cincinnati
-320622132,2012-03-02,2,269,away,TRUE,Marquette,54,Golden Eagles,Marquette Golden Eagles,Marquette
-320620120,2012-03-02,2,120,home,TRUE,Maryland,70,Terrapins,Maryland Terrapins,Maryland
-320620120,2012-03-02,2,258,away,TRUE,Virginia,58,Cavaliers,Virginia Cavaliers,Virginia
-320620042,2012-03-02,2,42,home,FALSE,Hartford,45,Hawks,Hartford Hawks,Hartford
-320620042,2012-03-02,2,2066,away,FALSE,Binghamton,48,Bearcats,Binghamton Bearcats,Binghamton
-320622509,2012-03-02,2,2509,home,TRUE,Purdue,73,Boilermakers,Purdue Boilermakers,Purdue
-320622509,2012-03-02,2,127,away,TRUE,Michigan State,64,Spartans,Michigan State Spartans,Michigan St
-320620061,2012-03-02,2,61,home,TRUE,Georgia,55,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-320620061,2012-03-02,2,2579,away,TRUE,South Carolina,59,Gamecocks,South Carolina Gamecocks,South Carolina
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320622217,2012,regular-season,2012-03-02,2,2217,home,FALSE,Fairfield,61,Stags,Fairfield Stags,Fairfield
+320622217,2012,regular-season,2012-03-02,2,314,away,FALSE,Iona,45,Gaels,Iona Gaels,Iona
+320620059,2012,regular-season,2012-03-02,2,59,home,TRUE,Georgia Tech,54,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+320620059,2012,regular-season,2012-03-02,2,153,away,TRUE,North Carolina,53,Tar Heels,North Carolina Tar Heels,North Carolina
+320622363,2012,regular-season,2012-03-02,2,2363,home,TRUE,Manhattan,33,Jaspers,Manhattan Jaspers,Manhattan
+320622363,2012,regular-season,2012-03-02,2,2561,away,TRUE,Siena,34,Saints,Siena Saints,Siena
+320622325,2012,regular-season,2012-03-02,2,2325,home,FALSE,La Salle,52,Explorers,La Salle Explorers,La Salle
+320622325,2012,regular-season,2012-03-02,2,2752,away,FALSE,Xavier,49,Musketeers,Xavier Musketeers,Xavier
+320620232,2012,regular-season,2012-03-02,2,232,home,TRUE,Charleston,53,Cougars,Charleston Cougars,Charleston
+320620232,2012,regular-season,2012-03-02,2,2747,away,TRUE,Wofford,64,Terriers,Wofford Terriers,Wofford
+320620194,2012,regular-season,2012-03-02,2,194,home,TRUE,Ohio State,57,Buckeyes,Ohio State Buckeyes,Ohio State
+320620194,2012,regular-season,2012-03-02,2,130,away,TRUE,Michigan,48,Wolverines,Michigan Wolverines,Michigan
+320620526,2012,regular-season,2012-03-02,2,526,home,TRUE,Florida Gulf Coast,76,Eagles,Florida Gulf Coast Eagles,FGCU
+320620526,2012,regular-season,2012-03-02,2,338,away,TRUE,Kennesaw State,53,Owls,Kennesaw State Owls,Kennesaw St
+320620183,2012,regular-season,2012-03-02,2,183,home,TRUE,Syracuse,57,Orange,Syracuse Orange,Syracuse
+320620183,2012,regular-season,2012-03-02,2,2507,away,TRUE,Providence,47,Friars,Providence Friars,Providence
+320620104,2012,regular-season,2012-03-02,2,104,home,TRUE,Boston University,52,Terriers,Boston University Terriers,Boston U
+320620104,2012,regular-season,2012-03-02,2,311,away,TRUE,Maine,43,Black Bears,Maine Black Bears,Maine
+320622630,2012,regular-season,2012-03-02,2,2630,home,TRUE,UT Martin,102,Skyhawks,UT Martin Skyhawks,UT Martin
+320622630,2012,regular-season,2012-03-02,2,93,away,TRUE,Murray State,77,Racers,Murray State Racers,Murray St
+320620096,2012,regular-season,2012-03-02,2,96,home,TRUE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
+320620096,2012,regular-season,2012-03-02,2,57,away,TRUE,Florida,67,Gators,Florida Gators,Florida
+320622368,2012,regular-season,2012-03-02,2,2368,home,TRUE,Marist,74,Red Foxes,Marist Red Foxes,Marist
+320622368,2012,regular-season,2012-03-02,2,2612,away,TRUE,Saint Peter's,49,Peacocks,Saint Peter's Peacocks,Saint Peter's
+320622294,2012,regular-season,2012-03-02,2,2294,home,TRUE,Iowa,68,Hawkeyes,Iowa Hawkeyes,Iowa
+320622294,2012,regular-season,2012-03-02,2,158,away,TRUE,Nebraska,80,Cornhuskers,Nebraska Cornhuskers,Nebraska
+320622717,2012,regular-season,2012-03-02,3,2717,home,TRUE,Western Carolina,61,Catamounts,Western Carolina Catamounts,W Carolina
+320622717,2012,regular-season,2012-03-02,3,290,away,TRUE,Georgia Southern,56,Eagles,Georgia Southern Eagles,GA Southern
+320620058,2012,regular-season,2012-03-02,2,58,home,TRUE,South Florida,60,Bulls,South Florida Bulls,South Florida
+320620058,2012,regular-season,2012-03-02,2,221,away,TRUE,Pittsburgh,59,Panthers,Pittsburgh Panthers,Pitt
+320620160,2012,regular-season,2012-03-02,2,160,home,TRUE,New Hampshire,57,Wildcats,New Hampshire Wildcats,New Hampshire
+320620160,2012,regular-season,2012-03-02,2,2378,away,TRUE,UMBC,59,Retrievers,UMBC Retrievers,UMBC
+320622603,2012,regular-season,2012-03-02,2,2603,home,FALSE,Saint Joseph's,63,Hawks,Saint Joseph's Hawks,Saint Joseph's
+320622603,2012,regular-season,2012-03-02,2,2230,away,FALSE,Fordham,52,Rams,Fordham Rams,Fordham
+320620056,2012,regular-season,2012-03-02,2,56,home,TRUE,Stetson,67,Hatters,Stetson Hatters,Stetson
+320620056,2012,regular-season,2012-03-02,2,294,away,TRUE,Jacksonville,60,Dolphins,Jacksonville Dolphins,Jacksonville
+320622608,2012,regular-season,2012-03-02,2,2608,home,TRUE,Saint Mary's,67,Gaels,Saint Mary's Gaels,Saint Mary's
+320622608,2012,regular-season,2012-03-02,2,2492,away,TRUE,Pepperdine,63,Waves,Pepperdine Waves,Pepperdine
+320622197,2012,regular-season,2012-03-02,3,2197,home,TRUE,Eastern Illinois,72,Panthers,Eastern Illinois Panthers,E Illinois
+320622197,2012,regular-season,2012-03-02,3,2635,away,TRUE,Tennessee Tech,81,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
+320620150,2012,regular-season,2012-03-02,2,150,home,TRUE,Duke,73,Blue Devils,Duke Blue Devils,Duke
+320620150,2012,regular-season,2012-03-02,2,152,away,TRUE,NC State,75,Wolfpack,NC State Wolfpack,NC State
+320622633,2012,regular-season,2012-03-02,2,2633,home,TRUE,Tennessee,68,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+320622633,2012,regular-season,2012-03-02,2,238,away,TRUE,Vanderbilt,57,Commodores,Vanderbilt Commodores,Vanderbilt
+320622352,2012,regular-season,2012-03-02,2,2352,home,TRUE,Loyola Maryland,63,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+320622352,2012,regular-season,2012-03-02,2,315,away,TRUE,Niagara,77,Purple Eagles,Niagara Purple Eagles,Niagara
+320620231,2012,regular-season,2012-03-02,2,231,home,TRUE,Furman,63,Paladins,Furman Paladins,Furman
+320620231,2012,regular-season,2012-03-02,2,2430,away,TRUE,UNC Greensboro,58,Spartans,UNC Greensboro Spartans,UNC Greensboro
+320622184,2012,regular-season,2012-03-02,2,2184,home,FALSE,Duquesne,69,Dukes,Duquesne Dukes,Duquesne
+320622184,2012,regular-season,2012-03-02,2,45,away,FALSE,George Washington,55,Revolutionaries,George Washington Revolutionaries,G Washington
+320620301,2012,regular-season,2012-03-02,2,301,home,TRUE,San Diego,70,Toreros,San Diego Toreros,San Diego
+320620301,2012,regular-season,2012-03-02,2,2501,away,TRUE,Portland,60,Pilots,Portland Pilots,Portland
+320622390,2012,regular-season,2012-03-02,2,2390,home,TRUE,Miami,74,Hurricanes,Miami Hurricanes,Miami
+320622390,2012,regular-season,2012-03-02,2,154,away,TRUE,Wake Forest,81,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+320620222,2012,regular-season,2012-03-02,2,222,home,TRUE,Villanova,61,Wildcats,Villanova Wildcats,Villanova
+320620222,2012,regular-season,2012-03-02,2,2550,away,TRUE,Seton Hall,60,Pirates,Seton Hall Pirates,Seton Hall
+320620213,2012,regular-season,2012-03-02,2,213,home,TRUE,Penn State,78,Lady Lions,Penn State Lady Lions,Penn State
+320620213,2012,regular-season,2012-03-02,2,135,away,TRUE,Minnesota,74,Golden Gophers,Minnesota Golden Gophers,Minnesota
+320620399,2012,regular-season,2012-03-02,2,399,home,TRUE,UAlbany,74,Great Danes,UAlbany Great Danes,UAlbany
+320620399,2012,regular-season,2012-03-02,2,261,away,TRUE,Vermont,61,Catamounts,Vermont Catamounts,Vermont
+320622737,2012,regular-season,2012-03-02,3,2737,home,FALSE,Winthrop,81,Eagles,Winthrop Eagles,Winthrop
+320622737,2012,regular-season,2012-03-02,3,2127,away,FALSE,Charleston Southern,75,Buccaneers,Charleston Southern Buccaneers,Charleston So
+320622506,2012,regular-season,2012-03-02,2,2506,home,FALSE,Presbyterian,56,Blue Hose,Presbyterian Blue Hose,Presbyterian
+320622506,2012,regular-season,2012-03-02,2,324,away,FALSE,Coastal Carolina,52,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+320622335,2012,regular-season,2012-03-02,2,2335,home,FALSE,Liberty,72,Flames,Liberty Flames,Liberty
+320622335,2012,regular-season,2012-03-02,2,2515,away,FALSE,Radford,66,Highlanders,Radford Highlanders,Radford
+320622241,2012,regular-season,2012-03-02,2,2241,home,FALSE,Gardner-Webb,46,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+320622241,2012,regular-season,2012-03-02,2,2272,away,FALSE,High Point,66,Panthers,High Point Panthers,High Point
+320620225,2012,regular-season,2012-03-02,2,225,home,FALSE,Brown,66,Bears,Brown Bears,Brown
+320620225,2012,regular-season,2012-03-02,2,219,away,FALSE,Pennsylvania,72,Quakers,Pennsylvania Quakers,Penn
+320620159,2012,regular-season,2012-03-02,2,159,home,FALSE,Dartmouth,55,Big Green,Dartmouth Big Green,Dartmouth
+320620159,2012,regular-season,2012-03-02,2,172,away,FALSE,Cornell,48,Big Red,Cornell Big Red,Cornell
+320620108,2012,regular-season,2012-03-02,2,108,home,FALSE,Harvard,88,Crimson,Harvard Crimson,Harvard
+320620108,2012,regular-season,2012-03-02,2,171,away,FALSE,Columbia,64,Lions,Columbia Lions,Columbia
+320620043,2012,regular-season,2012-03-02,2,43,home,FALSE,Yale,53,Bulldogs,Yale Bulldogs,Yale
+320620043,2012,regular-season,2012-03-02,2,163,away,FALSE,Princeton,71,Tigers,Princeton Tigers,Princeton
+320622429,2012,regular-season,2012-03-02,2,2429,home,FALSE,Charlotte,59,49ers,Charlotte 49ers,Charlotte
+320622429,2012,regular-season,2012-03-02,2,139,away,FALSE,Saint Louis,64,Billikens,Saint Louis Billikens,Saint Louis
+320622427,2012,regular-season,2012-03-02,2,2427,home,FALSE,UNC Asheville,55,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+320622427,2012,regular-season,2012-03-02,2,2097,away,FALSE,Campbell,74,Fighting Camels,Campbell Fighting Camels,Campbell
+320620099,2012,regular-season,2012-03-02,2,99,home,TRUE,LSU,41,Tigers,LSU Tigers,LSU
+320620099,2012,regular-season,2012-03-02,2,8,away,TRUE,Arkansas,40,Razorbacks,Arkansas Razorbacks,Arkansas
+320622132,2012,regular-season,2012-03-02,2,2132,home,TRUE,Cincinnati,51,Bearcats,Cincinnati Bearcats,Cincinnati
+320622132,2012,regular-season,2012-03-02,2,269,away,TRUE,Marquette,54,Golden Eagles,Marquette Golden Eagles,Marquette
+320620120,2012,regular-season,2012-03-02,2,120,home,TRUE,Maryland,70,Terrapins,Maryland Terrapins,Maryland
+320620120,2012,regular-season,2012-03-02,2,258,away,TRUE,Virginia,58,Cavaliers,Virginia Cavaliers,Virginia
+320620042,2012,regular-season,2012-03-02,2,42,home,FALSE,Hartford,45,Hawks,Hartford Hawks,Hartford
+320620042,2012,regular-season,2012-03-02,2,2066,away,FALSE,Binghamton,48,Bearcats,Binghamton Bearcats,Binghamton
+320622509,2012,regular-season,2012-03-02,2,2509,home,TRUE,Purdue,73,Boilermakers,Purdue Boilermakers,Purdue
+320622509,2012,regular-season,2012-03-02,2,127,away,TRUE,Michigan State,64,Spartans,Michigan State Spartans,Michigan St
+320620061,2012,regular-season,2012-03-02,2,61,home,TRUE,Georgia,55,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+320620061,2012,regular-season,2012-03-02,2,2579,away,TRUE,South Carolina,59,Gamecocks,South Carolina Gamecocks,South Carolina

@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290530041,2009-02-22,2,41,home,FALSE,UConn,76,Huskies,UConn Huskies,UConn
-290530041,2009-02-22,2,87,away,FALSE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-290530002,2009-02-22,2,2,home,FALSE,Auburn,65,Tigers,Auburn Tigers,Auburn
-290530002,2009-02-22,2,61,away,FALSE,Georgia,59,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-290530120,2009-02-22,2,120,home,FALSE,Maryland,77,Terrapins,Maryland Terrapins,Maryland
-290530120,2009-02-22,2,150,away,FALSE,Duke,59,Blue Devils,Duke Blue Devils,Duke
-290530052,2009-02-22,2,52,home,FALSE,Florida State,59,Seminoles,Florida State Seminoles,Florida St
-290530052,2009-02-22,2,2390,away,FALSE,Miami,58,Hurricanes,Miami Hurricanes,Miami
-290532633,2009-02-22,2,2633,home,FALSE,Tennessee,82,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-290532633,2009-02-22,2,344,away,FALSE,Mississippi State,68,Bulldogs,Mississippi State Bulldogs,Mississippi St
-290530057,2009-02-22,2,57,home,FALSE,Florida,82,Gators,Florida Gators,Florida
-290530057,2009-02-22,2,2579,away,FALSE,South Carolina,66,Gamecocks,South Carolina Gamecocks,South Carolina
-290530145,2009-02-22,2,145,home,FALSE,Ole Miss,71,Rebels,Ole Miss Rebels,Ole Miss
-290530145,2009-02-22,2,238,away,FALSE,Vanderbilt,69,Commodores,Vanderbilt Commodores,Vanderbilt
-290530084,2009-02-22,2,84,home,FALSE,Indiana,67,Hoosiers,Indiana Hoosiers,Indiana
-290530084,2009-02-22,2,194,away,FALSE,Ohio State,79,Buckeyes,Ohio State Buckeyes,Ohio State
-290532305,2009-02-22,2,2305,home,FALSE,Kansas,58,Jayhawks,Kansas Jayhawks,Kansas
-290532305,2009-02-22,2,66,away,FALSE,Iowa State,47,Cyclones,Iowa State Cyclones,Iowa State
-290530258,2009-02-22,2,258,home,FALSE,Virginia,90,Cavaliers,Virginia Cavaliers,Virginia
-290530258,2009-02-22,2,103,away,FALSE,Boston College,70,Eagles,Boston College Eagles,Boston College
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290530041,2009,regular-season,2009-02-22,2,41,home,FALSE,UConn,76,Huskies,UConn Huskies,UConn
+290530041,2009,regular-season,2009-02-22,2,87,away,FALSE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+290530002,2009,regular-season,2009-02-22,2,2,home,FALSE,Auburn,65,Tigers,Auburn Tigers,Auburn
+290530002,2009,regular-season,2009-02-22,2,61,away,FALSE,Georgia,59,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+290530120,2009,regular-season,2009-02-22,2,120,home,FALSE,Maryland,77,Terrapins,Maryland Terrapins,Maryland
+290530120,2009,regular-season,2009-02-22,2,150,away,FALSE,Duke,59,Blue Devils,Duke Blue Devils,Duke
+290530052,2009,regular-season,2009-02-22,2,52,home,FALSE,Florida State,59,Seminoles,Florida State Seminoles,Florida St
+290530052,2009,regular-season,2009-02-22,2,2390,away,FALSE,Miami,58,Hurricanes,Miami Hurricanes,Miami
+290532633,2009,regular-season,2009-02-22,2,2633,home,FALSE,Tennessee,82,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+290532633,2009,regular-season,2009-02-22,2,344,away,FALSE,Mississippi State,68,Bulldogs,Mississippi State Bulldogs,Mississippi St
+290530057,2009,regular-season,2009-02-22,2,57,home,FALSE,Florida,82,Gators,Florida Gators,Florida
+290530057,2009,regular-season,2009-02-22,2,2579,away,FALSE,South Carolina,66,Gamecocks,South Carolina Gamecocks,South Carolina
+290530145,2009,regular-season,2009-02-22,2,145,home,FALSE,Ole Miss,71,Rebels,Ole Miss Rebels,Ole Miss
+290530145,2009,regular-season,2009-02-22,2,238,away,FALSE,Vanderbilt,69,Commodores,Vanderbilt Commodores,Vanderbilt
+290530084,2009,regular-season,2009-02-22,2,84,home,FALSE,Indiana,67,Hoosiers,Indiana Hoosiers,Indiana
+290530084,2009,regular-season,2009-02-22,2,194,away,FALSE,Ohio State,79,Buckeyes,Ohio State Buckeyes,Ohio State
+290532305,2009,regular-season,2009-02-22,2,2305,home,FALSE,Kansas,58,Jayhawks,Kansas Jayhawks,Kansas
+290532305,2009,regular-season,2009-02-22,2,66,away,FALSE,Iowa State,47,Cyclones,Iowa State Cyclones,Iowa State
+290530258,2009,regular-season,2009-02-22,2,258,home,FALSE,Virginia,90,Cavaliers,Virginia Cavaliers,Virginia
+290530258,2009,regular-season,2009-02-22,2,103,away,FALSE,Boston College,70,Eagles,Boston College Eagles,Boston College

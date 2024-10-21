@@ -1,51 +1,51 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330690042,2013-03-10,2,42,home,TRUE,Hartford,64,Hawks,Hartford Hawks,Hartford
-330690042,2013-03-10,2,261,away,TRUE,Vermont,33,Catamounts,Vermont Catamounts,Vermont
-330690236,2013-03-10,2,236,home,TRUE,Chattanooga,72,Mocs,Chattanooga Mocs,Chattanooga
-330690236,2013-03-10,2,2026,away,TRUE,App State,67,Mountaineers,App State Mountaineers,App State
-330690097,2013-03-10,2,97,home,TRUE,Louisville,62,Cardinals,Louisville Cardinals,Louisville
-330690097,2013-03-10,2,2599,away,TRUE,St. John's,55,Red Storm,St. John's Red Storm,St John's
-330692870,2013-03-10,4,2870,home,TRUE,Purdue Fort Wayne,106,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-330692870,2013-03-10,4,2710,away,TRUE,Western Illinois,101,Leathernecks,Western Illinois Leathernecks,W Illinois
-330692393,2013-03-10,2,2393,home,TRUE,Middle Tennessee,68,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-330692393,2013-03-10,2,2229,away,TRUE,Florida International,59,Panthers,Florida International Panthers,FIU
-330692168,2013-03-10,0,2168,home,TRUE,Dayton,0,Flyers,Dayton Flyers,Dayton
-330692168,2013-03-10,0,2603,away,TRUE,Saint Joseph's,0,Hawks,Saint Joseph's Hawks,Saint Joseph's
-330690399,2013-03-10,2,399,home,FALSE,UAlbany,71,Great Danes,UAlbany Great Danes,UAlbany
-330690399,2013-03-10,2,160,away,FALSE,New Hampshire,57,Wildcats,New Hampshire Wildcats,New Hampshire
-330692529,2013-03-10,2,2529,home,FALSE,Sacred Heart,64,Pioneers,Sacred Heart Pioneers,Sacred Heart
-330692529,2013-03-10,2,2597,away,FALSE,St. Francis Brooklyn,38,Terriers,St. Francis Brooklyn Terriers,St Francis BK
-330692514,2013-03-10,2,2514,home,FALSE,Quinnipiac,79,Bobcats,Quinnipiac Bobcats,Quinnipiac
-330692514,2013-03-10,2,2803,away,FALSE,Bryant,55,Bulldogs,Bryant Bulldogs,Bryant
-330690239,2013-03-10,2,239,home,TRUE,Baylor,77,Bears,Baylor Bears,Baylor
-330690239,2013-03-10,2,197,away,TRUE,Oklahoma State,69,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-330690150,2013-03-10,2,150,home,TRUE,Duke,92,Blue Devils,Duke Blue Devils,Duke
-330690150,2013-03-10,2,153,away,TRUE,North Carolina,73,Tar Heels,North Carolina Tar Heels,North Carolina
-330692166,2013-03-10,2,2166,home,TRUE,Davidson,71,Wildcats,Davidson Wildcats,Davidson
-330692166,2013-03-10,2,2210,away,TRUE,Elon,61,Phoenix,Elon Phoenix,Elon
-330690087,2013-03-10,2,87,home,TRUE,Notre Dame,75,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-330690087,2013-03-10,2,58,away,TRUE,South Florida,66,Bulls,South Florida Bulls,South Florida
-330692598,2013-03-10,2,2598,home,FALSE,St. Francis (PA),66,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-330692598,2013-03-10,2,2115,away,FALSE,Central Connecticut,63,Blue Devils,Central Connecticut Blue Devils,C Connecticut
-330692405,2013-03-10,3,2405,home,FALSE,Monmouth,57,Hawks,Monmouth Hawks,Monmouth
-330692405,2013-03-10,3,116,away,FALSE,Mount St. Mary's,59,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-330692031,2013-03-10,2,2031,home,TRUE,Little Rock,74,Trojans,Little Rock Trojans,Little Rock
-330692031,2013-03-10,2,98,away,TRUE,Western Kentucky,54,Lady Toppers,Western Kentucky Lady Toppers,Western KY
-330692509,2013-03-10,2,2509,home,TRUE,Purdue,62,Boilermakers,Purdue Boilermakers,Purdue
-330692509,2013-03-10,2,127,away,TRUE,Michigan State,47,Spartans,Michigan State Spartans,Michigan St
-330692230,2013-03-10,0,2230,home,TRUE,Fordham,0,Rams,Fordham Rams,Fordham
-330692230,2013-03-10,0,218,away,TRUE,Temple,0,Owls,Temple Owls,Temple
-330690233,2013-03-10,2,233,home,TRUE,South Dakota,73,Coyotes,South Dakota Coyotes,South Dakota
-330690233,2013-03-10,2,2449,away,TRUE,North Dakota State,53,Bison,North Dakota State Bison,N Dakota St
-330690066,2013-03-10,2,66,home,TRUE,Iowa State,79,Cyclones,Iowa State Cyclones,Iowa State
-330690066,2013-03-10,2,201,away,TRUE,Oklahoma,60,Sooners,Oklahoma Sooners,Oklahoma
-330692335,2013-03-10,2,2335,home,TRUE,Liberty,54,Flames,Liberty Flames,Liberty
-330692335,2013-03-10,2,2344,away,TRUE,Longwood,45,Lancers,Longwood Lancers,Longwood
-330690096,2013-03-10,2,96,home,TRUE,Kentucky,67,Wildcats,Kentucky Wildcats,Kentucky
-330690096,2013-03-10,2,245,away,TRUE,Texas A&M,75,Aggies,Texas A&M Aggies,Texas A&M
-330690041,2013-03-10,2,41,home,TRUE,UConn,94,Huskies,UConn Huskies,UConn
-330690041,2013-03-10,2,305,away,TRUE,DePaul,61,Blue Demons,DePaul Blue Demons,DePaul
-330690024,2013-03-10,2,24,home,TRUE,Stanford,51,Cardinal,Stanford Cardinal,Stanford
-330690024,2013-03-10,2,26,away,TRUE,UCLA,49,Bruins,UCLA Bruins,UCLA
-330690183,2013-03-10,2,183,home,TRUE,Syracuse,61,Orange,Syracuse Orange,Syracuse
-330690183,2013-03-10,2,222,away,TRUE,Villanova,56,Wildcats,Villanova Wildcats,Villanova
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330690042,2013,regular-season,2013-03-10,2,42,home,TRUE,Hartford,64,Hawks,Hartford Hawks,Hartford
+330690042,2013,regular-season,2013-03-10,2,261,away,TRUE,Vermont,33,Catamounts,Vermont Catamounts,Vermont
+330690236,2013,regular-season,2013-03-10,2,236,home,TRUE,Chattanooga,72,Mocs,Chattanooga Mocs,Chattanooga
+330690236,2013,regular-season,2013-03-10,2,2026,away,TRUE,App State,67,Mountaineers,App State Mountaineers,App State
+330690097,2013,regular-season,2013-03-10,2,97,home,TRUE,Louisville,62,Cardinals,Louisville Cardinals,Louisville
+330690097,2013,regular-season,2013-03-10,2,2599,away,TRUE,St. John's,55,Red Storm,St. John's Red Storm,St John's
+330692870,2013,regular-season,2013-03-10,4,2870,home,TRUE,Purdue Fort Wayne,106,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+330692870,2013,regular-season,2013-03-10,4,2710,away,TRUE,Western Illinois,101,Leathernecks,Western Illinois Leathernecks,W Illinois
+330692393,2013,regular-season,2013-03-10,2,2393,home,TRUE,Middle Tennessee,68,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+330692393,2013,regular-season,2013-03-10,2,2229,away,TRUE,Florida International,59,Panthers,Florida International Panthers,FIU
+330692168,2013,regular-season,2013-03-10,0,2168,home,TRUE,Dayton,0,Flyers,Dayton Flyers,Dayton
+330692168,2013,regular-season,2013-03-10,0,2603,away,TRUE,Saint Joseph's,0,Hawks,Saint Joseph's Hawks,Saint Joseph's
+330690399,2013,regular-season,2013-03-10,2,399,home,FALSE,UAlbany,71,Great Danes,UAlbany Great Danes,UAlbany
+330690399,2013,regular-season,2013-03-10,2,160,away,FALSE,New Hampshire,57,Wildcats,New Hampshire Wildcats,New Hampshire
+330692529,2013,regular-season,2013-03-10,2,2529,home,FALSE,Sacred Heart,64,Pioneers,Sacred Heart Pioneers,Sacred Heart
+330692529,2013,regular-season,2013-03-10,2,2597,away,FALSE,St. Francis Brooklyn,38,Terriers,St. Francis Brooklyn Terriers,St Francis BK
+330692514,2013,regular-season,2013-03-10,2,2514,home,FALSE,Quinnipiac,79,Bobcats,Quinnipiac Bobcats,Quinnipiac
+330692514,2013,regular-season,2013-03-10,2,2803,away,FALSE,Bryant,55,Bulldogs,Bryant Bulldogs,Bryant
+330690239,2013,regular-season,2013-03-10,2,239,home,TRUE,Baylor,77,Bears,Baylor Bears,Baylor
+330690239,2013,regular-season,2013-03-10,2,197,away,TRUE,Oklahoma State,69,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+330690150,2013,regular-season,2013-03-10,2,150,home,TRUE,Duke,92,Blue Devils,Duke Blue Devils,Duke
+330690150,2013,regular-season,2013-03-10,2,153,away,TRUE,North Carolina,73,Tar Heels,North Carolina Tar Heels,North Carolina
+330692166,2013,regular-season,2013-03-10,2,2166,home,TRUE,Davidson,71,Wildcats,Davidson Wildcats,Davidson
+330692166,2013,regular-season,2013-03-10,2,2210,away,TRUE,Elon,61,Phoenix,Elon Phoenix,Elon
+330690087,2013,regular-season,2013-03-10,2,87,home,TRUE,Notre Dame,75,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+330690087,2013,regular-season,2013-03-10,2,58,away,TRUE,South Florida,66,Bulls,South Florida Bulls,South Florida
+330692598,2013,regular-season,2013-03-10,2,2598,home,FALSE,St. Francis (PA),66,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+330692598,2013,regular-season,2013-03-10,2,2115,away,FALSE,Central Connecticut,63,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+330692405,2013,regular-season,2013-03-10,3,2405,home,FALSE,Monmouth,57,Hawks,Monmouth Hawks,Monmouth
+330692405,2013,regular-season,2013-03-10,3,116,away,FALSE,Mount St. Mary's,59,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+330692031,2013,regular-season,2013-03-10,2,2031,home,TRUE,Little Rock,74,Trojans,Little Rock Trojans,Little Rock
+330692031,2013,regular-season,2013-03-10,2,98,away,TRUE,Western Kentucky,54,Lady Toppers,Western Kentucky Lady Toppers,Western KY
+330692509,2013,regular-season,2013-03-10,2,2509,home,TRUE,Purdue,62,Boilermakers,Purdue Boilermakers,Purdue
+330692509,2013,regular-season,2013-03-10,2,127,away,TRUE,Michigan State,47,Spartans,Michigan State Spartans,Michigan St
+330692230,2013,regular-season,2013-03-10,0,2230,home,TRUE,Fordham,0,Rams,Fordham Rams,Fordham
+330692230,2013,regular-season,2013-03-10,0,218,away,TRUE,Temple,0,Owls,Temple Owls,Temple
+330690233,2013,regular-season,2013-03-10,2,233,home,TRUE,South Dakota,73,Coyotes,South Dakota Coyotes,South Dakota
+330690233,2013,regular-season,2013-03-10,2,2449,away,TRUE,North Dakota State,53,Bison,North Dakota State Bison,N Dakota St
+330690066,2013,regular-season,2013-03-10,2,66,home,TRUE,Iowa State,79,Cyclones,Iowa State Cyclones,Iowa State
+330690066,2013,regular-season,2013-03-10,2,201,away,TRUE,Oklahoma,60,Sooners,Oklahoma Sooners,Oklahoma
+330692335,2013,regular-season,2013-03-10,2,2335,home,TRUE,Liberty,54,Flames,Liberty Flames,Liberty
+330692335,2013,regular-season,2013-03-10,2,2344,away,TRUE,Longwood,45,Lancers,Longwood Lancers,Longwood
+330690096,2013,regular-season,2013-03-10,2,96,home,TRUE,Kentucky,67,Wildcats,Kentucky Wildcats,Kentucky
+330690096,2013,regular-season,2013-03-10,2,245,away,TRUE,Texas A&M,75,Aggies,Texas A&M Aggies,Texas A&M
+330690041,2013,regular-season,2013-03-10,2,41,home,TRUE,UConn,94,Huskies,UConn Huskies,UConn
+330690041,2013,regular-season,2013-03-10,2,305,away,TRUE,DePaul,61,Blue Demons,DePaul Blue Demons,DePaul
+330690024,2013,regular-season,2013-03-10,2,24,home,TRUE,Stanford,51,Cardinal,Stanford Cardinal,Stanford
+330690024,2013,regular-season,2013-03-10,2,26,away,TRUE,UCLA,49,Bruins,UCLA Bruins,UCLA
+330690183,2013,regular-season,2013-03-10,2,183,home,TRUE,Syracuse,61,Orange,Syracuse Orange,Syracuse
+330690183,2013,regular-season,2013-03-10,2,222,away,TRUE,Villanova,56,Wildcats,Villanova Wildcats,Villanova

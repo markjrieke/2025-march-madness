@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330510213,2013-02-20,2,213,home,FALSE,Penn State,95,Lady Lions,Penn State Lady Lions,Penn State
-330510213,2013-02-20,2,356,away,FALSE,Illinois,62,Fighting Illini,Illinois Fighting Illini,Illinois
-330510097,2013-02-20,2,97,home,FALSE,Louisville,62,Cardinals,Louisville Cardinals,Louisville
-330510097,2013-02-20,2,58,away,FALSE,South Florida,73,Bulls,South Florida Bulls,South Florida
-330510084,2013-02-20,2,84,home,FALSE,Indiana,62,Hoosiers,Indiana Hoosiers,Indiana
-330510084,2013-02-20,2,2509,away,FALSE,Purdue,61,Boilermakers,Purdue Boilermakers,Purdue
-330512628,2013-02-20,2,2628,home,FALSE,TCU,64,Horned Frogs,TCU Horned Frogs,TCU
-330512628,2013-02-20,2,197,away,FALSE,Oklahoma State,63,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330510213,2013,regular-season,2013-02-20,2,213,home,FALSE,Penn State,95,Lady Lions,Penn State Lady Lions,Penn State
+330510213,2013,regular-season,2013-02-20,2,356,away,FALSE,Illinois,62,Fighting Illini,Illinois Fighting Illini,Illinois
+330510097,2013,regular-season,2013-02-20,2,97,home,FALSE,Louisville,62,Cardinals,Louisville Cardinals,Louisville
+330510097,2013,regular-season,2013-02-20,2,58,away,FALSE,South Florida,73,Bulls,South Florida Bulls,South Florida
+330510084,2013,regular-season,2013-02-20,2,84,home,FALSE,Indiana,62,Hoosiers,Indiana Hoosiers,Indiana
+330510084,2013,regular-season,2013-02-20,2,2509,away,FALSE,Purdue,61,Boilermakers,Purdue Boilermakers,Purdue
+330512628,2013,regular-season,2013-02-20,2,2628,home,FALSE,TCU,64,Horned Frogs,TCU Horned Frogs,TCU
+330512628,2013,regular-season,2013-02-20,2,197,away,FALSE,Oklahoma State,63,Cowgirls,Oklahoma State Cowgirls,Oklahoma St

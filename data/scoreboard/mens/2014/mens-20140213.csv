@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400510027,2014-02-13,2,127,home,FALSE,Michigan State,85,Spartans,Michigan State Spartans,Michigan St
-400510027,2014-02-13,2,77,away,FALSE,Northwestern,70,Wildcats,Northwestern Wildcats,Northwestern
-400504569,2014-02-13,2,2086,home,FALSE,Butler,63,Bulldogs,Butler Bulldogs,Butler
-400504569,2014-02-13,2,156,away,FALSE,Creighton,68,Bluejays,Creighton Bluejays,Creighton
-400510028,2014-02-13,2,275,home,FALSE,Wisconsin,78,Badgers,Wisconsin Badgers,Wisconsin
-400510028,2014-02-13,2,135,away,FALSE,Minnesota,70,Golden Gophers,Minnesota Golden Gophers,Minnesota
-400497000,2014-02-13,0,218,home,FALSE,Temple,0,Owls,Temple Owls,Temple
-400497000,2014-02-13,0,97,away,FALSE,Louisville,0,Cardinals,Louisville Cardinals,Louisville
-400497001,2014-02-13,0,164,home,FALSE,Rutgers,0,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400497001,2014-02-13,0,2567,away,FALSE,SMU,0,Mustangs,SMU Mustangs,SMU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400510027,2014,regular-season,2014-02-13,2,127,home,FALSE,Michigan State,85,Spartans,Michigan State Spartans,Michigan St
+400510027,2014,regular-season,2014-02-13,2,77,away,FALSE,Northwestern,70,Wildcats,Northwestern Wildcats,Northwestern
+400504569,2014,regular-season,2014-02-13,2,2086,home,FALSE,Butler,63,Bulldogs,Butler Bulldogs,Butler
+400504569,2014,regular-season,2014-02-13,2,156,away,FALSE,Creighton,68,Bluejays,Creighton Bluejays,Creighton
+400510028,2014,regular-season,2014-02-13,2,275,home,FALSE,Wisconsin,78,Badgers,Wisconsin Badgers,Wisconsin
+400510028,2014,regular-season,2014-02-13,2,135,away,FALSE,Minnesota,70,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400497000,2014,regular-season,2014-02-13,0,218,home,FALSE,Temple,0,Owls,Temple Owls,Temple
+400497000,2014,regular-season,2014-02-13,0,97,away,FALSE,Louisville,0,Cardinals,Louisville Cardinals,Louisville
+400497001,2014,regular-season,2014-02-13,0,164,home,FALSE,Rutgers,0,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400497001,2014,regular-season,2014-02-13,0,2567,away,FALSE,SMU,0,Mustangs,SMU Mustangs,SMU

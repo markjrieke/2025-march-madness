@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280532737,2008-02-22,2,2737,home,FALSE,Winthrop,47,Eagles,Winthrop Eagles,Winthrop
-280532737,2008-02-22,2,2166,away,FALSE,Davidson,60,Wildcats,Davidson Wildcats,Davidson
-280532344,2008-02-22,2,2344,home,FALSE,Longwood,79,Lancers,Longwood Lancers,Longwood
-280532344,2008-02-22,2,2335,away,FALSE,Liberty,68,Flames,Liberty Flames,Liberty
-280530172,2008-02-22,2,172,home,FALSE,Cornell,85,Big Red,Cornell Big Red,Cornell
-280530172,2008-02-22,2,43,away,FALSE,Yale,65,Bulldogs,Yale Bulldogs,Yale
-280530171,2008-02-22,2,171,home,FALSE,Columbia,52,Lions,Columbia Lions,Columbia
-280530171,2008-02-22,2,225,away,FALSE,Brown,67,Bears,Brown Bears,Brown
-280530159,2008-02-22,2,159,home,FALSE,Dartmouth,62,Big Green,Dartmouth Big Green,Dartmouth
-280530159,2008-02-22,2,219,away,FALSE,Pennsylvania,88,Quakers,Pennsylvania Quakers,Penn
-280530108,2008-02-22,3,108,home,FALSE,Harvard,74,Crimson,Harvard Crimson,Harvard
-280530108,2008-02-22,3,163,away,FALSE,Princeton,67,Tigers,Princeton Tigers,Princeton
-280532057,2008-02-22,2,2057,home,FALSE,Belmont,74,Bruins,Belmont Bruins,Belmont
-280532057,2008-02-22,2,288,away,FALSE,Lipscomb,65,Bisons,Lipscomb Bisons,Lipscomb
-280532571,2008-02-22,2,2571,home,FALSE,South Dakota State,60,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-280532571,2008-02-22,2,2449,away,FALSE,North Dakota State,63,Bison,North Dakota State Bison,N Dakota St
-280530328,2008-02-22,2,328,home,FALSE,Utah State,72,Aggies,Utah State Aggies,Utah State
-280530328,2008-02-22,2,2540,away,FALSE,UC Santa Barbara,59,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-280532934,2008-02-22,2,2934,home,FALSE,Cal State Bakersfield,60,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
-280532934,2008-02-22,2,292,away,FALSE,UT Rio Grande Valley,67,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280532737,2008,regular-season,2008-02-22,2,2737,home,FALSE,Winthrop,47,Eagles,Winthrop Eagles,Winthrop
+280532737,2008,regular-season,2008-02-22,2,2166,away,FALSE,Davidson,60,Wildcats,Davidson Wildcats,Davidson
+280532344,2008,regular-season,2008-02-22,2,2344,home,FALSE,Longwood,79,Lancers,Longwood Lancers,Longwood
+280532344,2008,regular-season,2008-02-22,2,2335,away,FALSE,Liberty,68,Flames,Liberty Flames,Liberty
+280530172,2008,regular-season,2008-02-22,2,172,home,FALSE,Cornell,85,Big Red,Cornell Big Red,Cornell
+280530172,2008,regular-season,2008-02-22,2,43,away,FALSE,Yale,65,Bulldogs,Yale Bulldogs,Yale
+280530171,2008,regular-season,2008-02-22,2,171,home,FALSE,Columbia,52,Lions,Columbia Lions,Columbia
+280530171,2008,regular-season,2008-02-22,2,225,away,FALSE,Brown,67,Bears,Brown Bears,Brown
+280530159,2008,regular-season,2008-02-22,2,159,home,FALSE,Dartmouth,62,Big Green,Dartmouth Big Green,Dartmouth
+280530159,2008,regular-season,2008-02-22,2,219,away,FALSE,Pennsylvania,88,Quakers,Pennsylvania Quakers,Penn
+280530108,2008,regular-season,2008-02-22,3,108,home,FALSE,Harvard,74,Crimson,Harvard Crimson,Harvard
+280530108,2008,regular-season,2008-02-22,3,163,away,FALSE,Princeton,67,Tigers,Princeton Tigers,Princeton
+280532057,2008,regular-season,2008-02-22,2,2057,home,FALSE,Belmont,74,Bruins,Belmont Bruins,Belmont
+280532057,2008,regular-season,2008-02-22,2,288,away,FALSE,Lipscomb,65,Bisons,Lipscomb Bisons,Lipscomb
+280532571,2008,regular-season,2008-02-22,2,2571,home,FALSE,South Dakota State,60,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+280532571,2008,regular-season,2008-02-22,2,2449,away,FALSE,North Dakota State,63,Bison,North Dakota State Bison,N Dakota St
+280530328,2008,regular-season,2008-02-22,2,328,home,FALSE,Utah State,72,Aggies,Utah State Aggies,Utah State
+280530328,2008,regular-season,2008-02-22,2,2540,away,FALSE,UC Santa Barbara,59,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+280532934,2008,regular-season,2008-02-22,2,2934,home,FALSE,Cal State Bakersfield,60,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+280532934,2008,regular-season,2008-02-22,2,292,away,FALSE,UT Rio Grande Valley,67,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande

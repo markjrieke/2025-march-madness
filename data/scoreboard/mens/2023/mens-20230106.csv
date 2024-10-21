@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401473515,2023-01-06,2,2649,home,FALSE,Toledo,102,Rockets,Toledo Rockets,Toledo
-401473515,2023-01-06,2,2711,away,FALSE,Western Michigan,74,Broncos,Western Michigan Broncos,W Michigan
-401492368,2023-01-06,2,171,home,FALSE,Columbia,49,Lions,Columbia Lions,Columbia
-401492368,2023-01-06,2,163,away,FALSE,Princeton,68,Tigers,Princeton Tigers,Princeton
-401487460,2023-01-06,2,172,home,FALSE,Cornell,88,Big Red,Cornell Big Red,Cornell
-401487460,2023-01-06,2,219,away,FALSE,Pennsylvania,69,Quakers,Pennsylvania Quakers,Penn
-401487378,2023-01-06,2,43,home,FALSE,Yale,77,Bulldogs,Yale Bulldogs,Yale
-401487378,2023-01-06,2,159,away,FALSE,Dartmouth,81,Big Green,Dartmouth Big Green,Dartmouth
-401487339,2023-01-06,3,225,home,FALSE,Brown,68,Bears,Brown Bears,Brown
-401487339,2023-01-06,3,108,away,FALSE,Harvard,70,Crimson,Harvard Crimson,Harvard
-401486979,2023-01-06,2,2561,home,FALSE,Siena,70,Saints,Siena Saints,Siena
-401486979,2023-01-06,2,2612,away,FALSE,Saint Peter's,60,Peacocks,Saint Peter's Peacocks,Saint Peter's
-401486978,2023-01-06,2,2520,home,FALSE,Rider,63,Broncs,Rider Broncs,Rider
-401486978,2023-01-06,2,2514,away,FALSE,Quinnipiac,72,Bobcats,Quinnipiac Bobcats,Quinnipiac
-401486977,2023-01-06,2,2368,home,FALSE,Marist,57,Red Foxes,Marist Red Foxes,Marist
-401486977,2023-01-06,2,314,away,FALSE,Iona,84,Gaels,Iona Gaels,Iona
-401486976,2023-01-06,2,2363,home,FALSE,Manhattan,57,Jaspers,Manhattan Jaspers,Manhattan
-401486976,2023-01-06,2,2099,away,FALSE,Canisius,64,Golden Griffins,Canisius Golden Griffins,Canisius
-401486975,2023-01-06,3,2217,home,FALSE,Fairfield,69,Stags,Fairfield Stags,Fairfield
-401486975,2023-01-06,3,315,away,FALSE,Niagara,77,Purple Eagles,Niagara Purple Eagles,Niagara
-401470000,2023-01-06,2,94,home,FALSE,Northern Kentucky,63,Norse,Northern Kentucky Norse,N Kentucky
-401470000,2023-01-06,2,2473,away,FALSE,Oakland,64,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-401469999,2023-01-06,2,2750,home,FALSE,Wright State,90,Raiders,Wright State Raiders,Wright St
-401469999,2023-01-06,2,2174,away,FALSE,Detroit Mercy,85,Titans,Detroit Mercy Titans,Detroit Mercy
-401473510,2023-01-06,2,2050,home,FALSE,Ball State,70,Cardinals,Ball State Cardinals,Ball State
-401473510,2023-01-06,2,2006,away,FALSE,Akron,63,Zips,Akron Zips,Akron
-401490327,2023-01-06,2,25,home,FALSE,California,92,Golden Bears,California Golden Bears,California
-401490327,2023-01-06,2,24,away,FALSE,Stanford,70,Cardinal,Stanford Cardinal,Stanford
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401473515,2023,regular-season,2023-01-06,2,2649,home,FALSE,Toledo,102,Rockets,Toledo Rockets,Toledo
+401473515,2023,regular-season,2023-01-06,2,2711,away,FALSE,Western Michigan,74,Broncos,Western Michigan Broncos,W Michigan
+401492368,2023,regular-season,2023-01-06,2,171,home,FALSE,Columbia,49,Lions,Columbia Lions,Columbia
+401492368,2023,regular-season,2023-01-06,2,163,away,FALSE,Princeton,68,Tigers,Princeton Tigers,Princeton
+401487460,2023,regular-season,2023-01-06,2,172,home,FALSE,Cornell,88,Big Red,Cornell Big Red,Cornell
+401487460,2023,regular-season,2023-01-06,2,219,away,FALSE,Pennsylvania,69,Quakers,Pennsylvania Quakers,Penn
+401487378,2023,regular-season,2023-01-06,2,43,home,FALSE,Yale,77,Bulldogs,Yale Bulldogs,Yale
+401487378,2023,regular-season,2023-01-06,2,159,away,FALSE,Dartmouth,81,Big Green,Dartmouth Big Green,Dartmouth
+401487339,2023,regular-season,2023-01-06,3,225,home,FALSE,Brown,68,Bears,Brown Bears,Brown
+401487339,2023,regular-season,2023-01-06,3,108,away,FALSE,Harvard,70,Crimson,Harvard Crimson,Harvard
+401486979,2023,regular-season,2023-01-06,2,2561,home,FALSE,Siena,70,Saints,Siena Saints,Siena
+401486979,2023,regular-season,2023-01-06,2,2612,away,FALSE,Saint Peter's,60,Peacocks,Saint Peter's Peacocks,Saint Peter's
+401486978,2023,regular-season,2023-01-06,2,2520,home,FALSE,Rider,63,Broncs,Rider Broncs,Rider
+401486978,2023,regular-season,2023-01-06,2,2514,away,FALSE,Quinnipiac,72,Bobcats,Quinnipiac Bobcats,Quinnipiac
+401486977,2023,regular-season,2023-01-06,2,2368,home,FALSE,Marist,57,Red Foxes,Marist Red Foxes,Marist
+401486977,2023,regular-season,2023-01-06,2,314,away,FALSE,Iona,84,Gaels,Iona Gaels,Iona
+401486976,2023,regular-season,2023-01-06,2,2363,home,FALSE,Manhattan,57,Jaspers,Manhattan Jaspers,Manhattan
+401486976,2023,regular-season,2023-01-06,2,2099,away,FALSE,Canisius,64,Golden Griffins,Canisius Golden Griffins,Canisius
+401486975,2023,regular-season,2023-01-06,3,2217,home,FALSE,Fairfield,69,Stags,Fairfield Stags,Fairfield
+401486975,2023,regular-season,2023-01-06,3,315,away,FALSE,Niagara,77,Purple Eagles,Niagara Purple Eagles,Niagara
+401470000,2023,regular-season,2023-01-06,2,94,home,FALSE,Northern Kentucky,63,Norse,Northern Kentucky Norse,N Kentucky
+401470000,2023,regular-season,2023-01-06,2,2473,away,FALSE,Oakland,64,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+401469999,2023,regular-season,2023-01-06,2,2750,home,FALSE,Wright State,90,Raiders,Wright State Raiders,Wright St
+401469999,2023,regular-season,2023-01-06,2,2174,away,FALSE,Detroit Mercy,85,Titans,Detroit Mercy Titans,Detroit Mercy
+401473510,2023,regular-season,2023-01-06,2,2050,home,FALSE,Ball State,70,Cardinals,Ball State Cardinals,Ball State
+401473510,2023,regular-season,2023-01-06,2,2006,away,FALSE,Akron,63,Zips,Akron Zips,Akron
+401490327,2023,regular-season,2023-01-06,2,25,home,FALSE,California,92,Golden Bears,California Golden Bears,California
+401490327,2023,regular-season,2023-01-06,2,24,away,FALSE,Stanford,70,Cardinal,Stanford Cardinal,Stanford

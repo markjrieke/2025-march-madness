@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401166028,2019-11-09,2,120,home,FALSE,Maryland,73,Terrapins,Maryland Terrapins,Maryland
-401166028,2019-11-09,2,227,away,FALSE,Rhode Island,55,Rams,Rhode Island Rams,Rhode Island
-401175206,2019-11-09,2,2250,home,FALSE,Gonzaga,110,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401175206,2019-11-09,2,2029,away,FALSE,Arkansas-Pine Bluff,60,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-401168442,2019-11-09,2,2550,home,FALSE,Seton Hall,74,Pirates,Seton Hall Pirates,Seton Hall
-401168442,2019-11-09,2,2619,away,FALSE,Stony Brook,57,Seawolves,Stony Brook Seawolves,Stony Brook
-401169606,2019-11-09,2,2641,home,FALSE,Texas Tech,79,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401169606,2019-11-09,2,2065,away,FALSE,Bethune-Cookman,44,Wildcats,Bethune-Cookman Wildcats,Bethune
-401170563,2019-11-09,2,2483,home,FALSE,Oregon,106,Ducks,Oregon Ducks,Oregon
-401170563,2019-11-09,2,68,away,FALSE,Boise State,75,Broncos,Boise State Broncos,Boise St
-401166030,2019-11-09,2,2509,home,FALSE,Purdue,66,Boilermakers,Purdue Boilermakers,Purdue
-401166030,2019-11-09,2,251,away,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401166028,2020,regular-season,2019-11-09,2,120,home,FALSE,Maryland,73,Terrapins,Maryland Terrapins,Maryland
+401166028,2020,regular-season,2019-11-09,2,227,away,FALSE,Rhode Island,55,Rams,Rhode Island Rams,Rhode Island
+401175206,2020,regular-season,2019-11-09,2,2250,home,FALSE,Gonzaga,110,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401175206,2020,regular-season,2019-11-09,2,2029,away,FALSE,Arkansas-Pine Bluff,60,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+401168442,2020,regular-season,2019-11-09,2,2550,home,FALSE,Seton Hall,74,Pirates,Seton Hall Pirates,Seton Hall
+401168442,2020,regular-season,2019-11-09,2,2619,away,FALSE,Stony Brook,57,Seawolves,Stony Brook Seawolves,Stony Brook
+401169606,2020,regular-season,2019-11-09,2,2641,home,FALSE,Texas Tech,79,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401169606,2020,regular-season,2019-11-09,2,2065,away,FALSE,Bethune-Cookman,44,Wildcats,Bethune-Cookman Wildcats,Bethune
+401170563,2020,regular-season,2019-11-09,2,2483,home,FALSE,Oregon,106,Ducks,Oregon Ducks,Oregon
+401170563,2020,regular-season,2019-11-09,2,68,away,FALSE,Boise State,75,Broncos,Boise State Broncos,Boise St
+401166030,2020,regular-season,2019-11-09,2,2509,home,FALSE,Purdue,66,Boilermakers,Purdue Boilermakers,Purdue
+401166030,2020,regular-season,2019-11-09,2,251,away,FALSE,Texas,70,Longhorns,Texas Longhorns,Texas

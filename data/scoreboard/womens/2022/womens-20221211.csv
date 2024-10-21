@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401480034,2022-12-11,4,2579,home,FALSE,South Carolina,88,Gamecocks,South Carolina Gamecocks,South Carolina
-401480034,2022-12-11,4,2335,away,FALSE,Liberty,39,Flames,Liberty Flames,Liberty
-401484666,2022-12-11,4,194,home,FALSE,Ohio State,74,Buckeyes,Ohio State Buckeyes,Ohio State
-401484666,2022-12-11,4,127,away,FALSE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St
-401483894,2022-12-11,4,120,home,FALSE,Maryland,85,Terrapins,Maryland Terrapins,Maryland
-401483894,2022-12-11,4,41,away,FALSE,UConn,78,Huskies,UConn Huskies,UConn
-401487844,2022-12-11,4,259,home,FALSE,Virginia Tech,86,Hokies,Virginia Tech Hokies,Virginia Tech
-401487844,2022-12-11,4,2427,away,FALSE,UNC Asheville,48,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-401480271,2022-12-11,4,153,home,FALSE,North Carolina,99,Tar Heels,North Carolina Tar Heels,North Carolina
-401480271,2022-12-11,4,2747,away,FALSE,Wofford,67,Terriers,Wofford Terriers,Wofford
-401480216,2022-12-11,4,152,home,FALSE,NC State,65,Wolfpack,NC State Wolfpack,NC State
-401480216,2022-12-11,4,58,away,FALSE,South Florida,57,Bulls,South Florida Bulls,South Florida
-401483559,2022-12-11,4,66,home,FALSE,Iowa State,84,Cyclones,Iowa State Cyclones,Iowa State
-401483559,2022-12-11,4,294,away,FALSE,Jacksonville,50,Dolphins,Jacksonville Dolphins,Jacksonville
-401488839,2022-12-11,4,2483,home,FALSE,Oregon,75,Ducks,Oregon Ducks,Oregon
-401488839,2022-12-11,4,204,away,FALSE,Oregon State,67,Beavers,Oregon State Beavers,Oregon St
-401480049,2022-12-11,4,8,home,FALSE,Arkansas,77,Razorbacks,Arkansas Razorbacks,Arkansas
-401480049,2022-12-11,4,2032,away,FALSE,Arkansas State,63,Red Wolves,Arkansas State Red Wolves,Arkansas St
-401487948,2022-12-11,4,2250,home,FALSE,Gonzaga,73,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401487948,2022-12-11,4,302,away,FALSE,UC Davis,55,Aggies,UC Davis Aggies,UC Davis
-401492795,2022-12-11,4,201,home,FALSE,Oklahoma,94,Sooners,Oklahoma Sooners,Oklahoma
-401492795,2022-12-11,4,2523,away,FALSE,Robert Morris,65,Colonials,Robert Morris Colonials,Robert Morris
-401480097,2022-12-11,0,99,home,FALSE,LSU,0,Tigers,LSU Tigers,LSU
-401480097,2022-12-11,0,2443,away,FALSE,New Orleans,0,Privateers,New Orleans Privateers,New Orleans
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401480034,2023,regular-season,2022-12-11,4,2579,home,FALSE,South Carolina,88,Gamecocks,South Carolina Gamecocks,South Carolina
+401480034,2023,regular-season,2022-12-11,4,2335,away,FALSE,Liberty,39,Flames,Liberty Flames,Liberty
+401484666,2023,regular-season,2022-12-11,4,194,home,FALSE,Ohio State,74,Buckeyes,Ohio State Buckeyes,Ohio State
+401484666,2023,regular-season,2022-12-11,4,127,away,FALSE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St
+401483894,2023,regular-season,2022-12-11,4,120,home,FALSE,Maryland,85,Terrapins,Maryland Terrapins,Maryland
+401483894,2023,regular-season,2022-12-11,4,41,away,FALSE,UConn,78,Huskies,UConn Huskies,UConn
+401487844,2023,regular-season,2022-12-11,4,259,home,FALSE,Virginia Tech,86,Hokies,Virginia Tech Hokies,Virginia Tech
+401487844,2023,regular-season,2022-12-11,4,2427,away,FALSE,UNC Asheville,48,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+401480271,2023,regular-season,2022-12-11,4,153,home,FALSE,North Carolina,99,Tar Heels,North Carolina Tar Heels,North Carolina
+401480271,2023,regular-season,2022-12-11,4,2747,away,FALSE,Wofford,67,Terriers,Wofford Terriers,Wofford
+401480216,2023,regular-season,2022-12-11,4,152,home,FALSE,NC State,65,Wolfpack,NC State Wolfpack,NC State
+401480216,2023,regular-season,2022-12-11,4,58,away,FALSE,South Florida,57,Bulls,South Florida Bulls,South Florida
+401483559,2023,regular-season,2022-12-11,4,66,home,FALSE,Iowa State,84,Cyclones,Iowa State Cyclones,Iowa State
+401483559,2023,regular-season,2022-12-11,4,294,away,FALSE,Jacksonville,50,Dolphins,Jacksonville Dolphins,Jacksonville
+401488839,2023,regular-season,2022-12-11,4,2483,home,FALSE,Oregon,75,Ducks,Oregon Ducks,Oregon
+401488839,2023,regular-season,2022-12-11,4,204,away,FALSE,Oregon State,67,Beavers,Oregon State Beavers,Oregon St
+401480049,2023,regular-season,2022-12-11,4,8,home,FALSE,Arkansas,77,Razorbacks,Arkansas Razorbacks,Arkansas
+401480049,2023,regular-season,2022-12-11,4,2032,away,FALSE,Arkansas State,63,Red Wolves,Arkansas State Red Wolves,Arkansas St
+401487948,2023,regular-season,2022-12-11,4,2250,home,FALSE,Gonzaga,73,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401487948,2023,regular-season,2022-12-11,4,302,away,FALSE,UC Davis,55,Aggies,UC Davis Aggies,UC Davis
+401492795,2023,regular-season,2022-12-11,4,201,home,FALSE,Oklahoma,94,Sooners,Oklahoma Sooners,Oklahoma
+401492795,2023,regular-season,2022-12-11,4,2523,away,FALSE,Robert Morris,65,Colonials,Robert Morris Colonials,Robert Morris
+401480097,2023,regular-season,2022-12-11,0,99,home,FALSE,LSU,0,Tigers,LSU Tigers,LSU
+401480097,2023,regular-season,2022-12-11,0,2443,away,FALSE,New Orleans,0,Privateers,New Orleans Privateers,New Orleans

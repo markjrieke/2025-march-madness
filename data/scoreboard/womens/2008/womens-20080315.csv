@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280750197,2008-03-15,2,197,home,FALSE,Oklahoma State,59,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-280750197,2008-03-15,2,245,away,FALSE,Texas A&M,64,Aggies,Texas A&M Aggies,Texas A&M
-280750295,2008-03-15,2,295,home,FALSE,Old Dominion,74,Monarchs,Old Dominion Monarchs,Old Dominion
-280750295,2008-03-15,2,119,away,FALSE,Towson,51,Tigers,Towson Tigers,Towson
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280750197,2008,regular-season,2008-03-15,2,197,home,FALSE,Oklahoma State,59,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+280750197,2008,regular-season,2008-03-15,2,245,away,FALSE,Texas A&M,64,Aggies,Texas A&M Aggies,Texas A&M
+280750295,2008,regular-season,2008-03-15,2,295,home,FALSE,Old Dominion,74,Monarchs,Old Dominion Monarchs,Old Dominion
+280750295,2008,regular-season,2008-03-15,2,119,away,FALSE,Towson,51,Tigers,Towson Tigers,Towson

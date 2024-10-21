@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401609708,2024-02-09,4,38,home,FALSE,Colorado,90,Buffaloes,Colorado Buffaloes,Colorado
-401609708,2024-02-09,4,2483,away,FALSE,Oregon,57,Ducks,Oregon Ducks,Oregon
-401609712,2024-02-09,5,264,home,FALSE,Washington,59,Huskies,Washington Huskies,Washington
-401609712,2024-02-09,5,24,away,FALSE,Stanford,63,Cardinal,Stanford Cardinal,Stanford
-401609713,2024-02-09,4,26,home,FALSE,UCLA,66,Bruins,UCLA Bruins,UCLA
-401609713,2024-02-09,4,12,away,FALSE,Arizona,58,Wildcats,Arizona Wildcats,Arizona
-401609710,2024-02-09,4,30,home,FALSE,USC,81,Trojans,USC Trojans,USC
-401609710,2024-02-09,4,9,away,FALSE,Arizona State,63,Sun Devils,Arizona State Sun Devils,Arizona St
-401609709,2024-02-09,4,254,home,FALSE,Utah,44,Utes,Utah Utes,Utah
-401609709,2024-02-09,4,204,away,FALSE,Oregon State,58,Beavers,Oregon State Beavers,Oregon St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401609708,2024,regular-season,2024-02-09,4,38,home,FALSE,Colorado,90,Buffaloes,Colorado Buffaloes,Colorado
+401609708,2024,regular-season,2024-02-09,4,2483,away,FALSE,Oregon,57,Ducks,Oregon Ducks,Oregon
+401609712,2024,regular-season,2024-02-09,5,264,home,FALSE,Washington,59,Huskies,Washington Huskies,Washington
+401609712,2024,regular-season,2024-02-09,5,24,away,FALSE,Stanford,63,Cardinal,Stanford Cardinal,Stanford
+401609713,2024,regular-season,2024-02-09,4,26,home,FALSE,UCLA,66,Bruins,UCLA Bruins,UCLA
+401609713,2024,regular-season,2024-02-09,4,12,away,FALSE,Arizona,58,Wildcats,Arizona Wildcats,Arizona
+401609710,2024,regular-season,2024-02-09,4,30,home,FALSE,USC,81,Trojans,USC Trojans,USC
+401609710,2024,regular-season,2024-02-09,4,9,away,FALSE,Arizona State,63,Sun Devils,Arizona State Sun Devils,Arizona St
+401609709,2024,regular-season,2024-02-09,4,254,home,FALSE,Utah,44,Utes,Utah Utes,Utah
+401609709,2024,regular-season,2024-02-09,4,204,away,FALSE,Oregon State,58,Beavers,Oregon State Beavers,Oregon St

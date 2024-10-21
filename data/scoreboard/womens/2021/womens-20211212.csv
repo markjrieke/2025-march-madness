@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401369462,2021-12-12,4,152,home,FALSE,NC State,101,Wolfpack,NC State Wolfpack,NC State
-401369462,2021-12-12,4,2608,away,FALSE,Saint Mary's,73,Gaels,Saint Mary's Gaels,Saint Mary's
-401376874,2021-12-12,4,24,home,FALSE,Stanford,91,Cardinal,Stanford Cardinal,Stanford
-401376874,2021-12-12,4,279,away,FALSE,Pacific,62,Tigers,Pacific Tigers,Pacific
-401381131,2021-12-12,4,12,home,FALSE,Arizona,77,Wildcats,Arizona Wildcats,Arizona
-401381131,2021-12-12,4,167,away,FALSE,New Mexico,60,Lobos,New Mexico Lobos,New Mexico
-401384444,2021-12-12,4,2633,home,FALSE,Tennessee,84,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401384444,2021-12-12,4,2247,away,FALSE,Georgia State,60,Panthers,Georgia State Panthers,Georgia St
-401364492,2021-12-12,4,194,home,FALSE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
-401364492,2021-12-12,4,84,away,FALSE,Indiana,86,Hoosiers,Indiana Hoosiers,Indiana
-401364493,2021-12-12,4,130,home,FALSE,Michigan,73,Wolverines,Michigan Wolverines,Michigan
-401364493,2021-12-12,4,135,away,FALSE,Minnesota,61,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401376929,2021-12-12,4,66,home,FALSE,Iowa State,70,Cyclones,Iowa State Cyclones,Iowa State
-401376929,2021-12-12,4,2460,away,FALSE,Northern Iowa,69,Panthers,Northern Iowa Panthers,Northern Iowa
-401376629,2021-12-12,4,2670,home,FALSE,VCU,57,Rams,VCU Rams,VCU
-401376629,2021-12-12,4,58,away,FALSE,South Florida,64,Bulls,South Florida Bulls,South Florida
-401365980,2021-12-12,4,2628,home,FALSE,TCU,87,Horned Frogs,TCU Horned Frogs,TCU
-401365980,2021-12-12,4,245,away,FALSE,Texas A&M,75,Aggies,Texas A&M Aggies,Texas A&M
-401369467,2021-12-12,4,87,home,FALSE,Notre Dame,78,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401369467,2021-12-12,4,2870,away,FALSE,Purdue Fort Wayne,41,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-401376856,2021-12-12,4,222,home,FALSE,Villanova,56,Wildcats,Villanova Wildcats,Villanova
-401376856,2021-12-12,4,204,away,FALSE,Oregon State,52,Beavers,Oregon State Beavers,Oregon St
-401375946,2021-12-12,4,99,home,FALSE,LSU,96,Tigers,LSU Tigers,LSU
-401375946,2021-12-12,4,2640,away,FALSE,Texas Southern,55,Tigers,Texas Southern Tigers,Texas Southern
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401369462,2022,regular-season,2021-12-12,4,152,home,FALSE,NC State,101,Wolfpack,NC State Wolfpack,NC State
+401369462,2022,regular-season,2021-12-12,4,2608,away,FALSE,Saint Mary's,73,Gaels,Saint Mary's Gaels,Saint Mary's
+401376874,2022,regular-season,2021-12-12,4,24,home,FALSE,Stanford,91,Cardinal,Stanford Cardinal,Stanford
+401376874,2022,regular-season,2021-12-12,4,279,away,FALSE,Pacific,62,Tigers,Pacific Tigers,Pacific
+401381131,2022,regular-season,2021-12-12,4,12,home,FALSE,Arizona,77,Wildcats,Arizona Wildcats,Arizona
+401381131,2022,regular-season,2021-12-12,4,167,away,FALSE,New Mexico,60,Lobos,New Mexico Lobos,New Mexico
+401384444,2022,regular-season,2021-12-12,4,2633,home,FALSE,Tennessee,84,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401384444,2022,regular-season,2021-12-12,4,2247,away,FALSE,Georgia State,60,Panthers,Georgia State Panthers,Georgia St
+401364492,2022,regular-season,2021-12-12,4,194,home,FALSE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
+401364492,2022,regular-season,2021-12-12,4,84,away,FALSE,Indiana,86,Hoosiers,Indiana Hoosiers,Indiana
+401364493,2022,regular-season,2021-12-12,4,130,home,FALSE,Michigan,73,Wolverines,Michigan Wolverines,Michigan
+401364493,2022,regular-season,2021-12-12,4,135,away,FALSE,Minnesota,61,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401376929,2022,regular-season,2021-12-12,4,66,home,FALSE,Iowa State,70,Cyclones,Iowa State Cyclones,Iowa State
+401376929,2022,regular-season,2021-12-12,4,2460,away,FALSE,Northern Iowa,69,Panthers,Northern Iowa Panthers,Northern Iowa
+401376629,2022,regular-season,2021-12-12,4,2670,home,FALSE,VCU,57,Rams,VCU Rams,VCU
+401376629,2022,regular-season,2021-12-12,4,58,away,FALSE,South Florida,64,Bulls,South Florida Bulls,South Florida
+401365980,2022,regular-season,2021-12-12,4,2628,home,FALSE,TCU,87,Horned Frogs,TCU Horned Frogs,TCU
+401365980,2022,regular-season,2021-12-12,4,245,away,FALSE,Texas A&M,75,Aggies,Texas A&M Aggies,Texas A&M
+401369467,2022,regular-season,2021-12-12,4,87,home,FALSE,Notre Dame,78,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401369467,2022,regular-season,2021-12-12,4,2870,away,FALSE,Purdue Fort Wayne,41,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+401376856,2022,regular-season,2021-12-12,4,222,home,FALSE,Villanova,56,Wildcats,Villanova Wildcats,Villanova
+401376856,2022,regular-season,2021-12-12,4,204,away,FALSE,Oregon State,52,Beavers,Oregon State Beavers,Oregon St
+401375946,2022,regular-season,2021-12-12,4,99,home,FALSE,LSU,96,Tigers,LSU Tigers,LSU
+401375946,2022,regular-season,2021-12-12,4,2640,away,FALSE,Texas Southern,55,Tigers,Texas Southern Tigers,Texas Southern

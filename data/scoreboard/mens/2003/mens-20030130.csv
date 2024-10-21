@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230300012,2003-01-30,2,12,home,FALSE,Arizona,77,Wildcats,Arizona Wildcats,Arizona
-230300012,2003-01-30,2,24,away,FALSE,Stanford,82,Cardinal,Stanford Cardinal,Stanford
-230300150,2003-01-30,2,150,home,FALSE,Duke,80,Blue Devils,Duke Blue Devils,Duke
-230300150,2003-01-30,2,2086,away,FALSE,Butler,60,Bulldogs,Butler Bulldogs,Butler
-230300120,2003-01-30,2,120,home,FALSE,Maryland,75,Terrapins,Maryland Terrapins,Maryland
-230300120,2003-01-30,2,152,away,FALSE,NC State,60,Wolfpack,NC State Wolfpack,NC State
-230300009,2003-01-30,2,9,home,FALSE,Arizona State,75,Sun Devils,Arizona State Sun Devils,Arizona St
-230300009,2003-01-30,2,25,away,FALSE,California,70,Golden Bears,California Golden Bears,California
-230300026,2003-01-30,3,26,home,FALSE,UCLA,91,Bruins,UCLA Bruins,UCLA
-230300026,2003-01-30,3,2483,away,FALSE,Oregon,96,Ducks,Oregon Ducks,Oregon
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230300012,2003,regular-season,2003-01-30,2,12,home,FALSE,Arizona,77,Wildcats,Arizona Wildcats,Arizona
+230300012,2003,regular-season,2003-01-30,2,24,away,FALSE,Stanford,82,Cardinal,Stanford Cardinal,Stanford
+230300150,2003,regular-season,2003-01-30,2,150,home,FALSE,Duke,80,Blue Devils,Duke Blue Devils,Duke
+230300150,2003,regular-season,2003-01-30,2,2086,away,FALSE,Butler,60,Bulldogs,Butler Bulldogs,Butler
+230300120,2003,regular-season,2003-01-30,2,120,home,FALSE,Maryland,75,Terrapins,Maryland Terrapins,Maryland
+230300120,2003,regular-season,2003-01-30,2,152,away,FALSE,NC State,60,Wolfpack,NC State Wolfpack,NC State
+230300009,2003,regular-season,2003-01-30,2,9,home,FALSE,Arizona State,75,Sun Devils,Arizona State Sun Devils,Arizona St
+230300009,2003,regular-season,2003-01-30,2,25,away,FALSE,California,70,Golden Bears,California Golden Bears,California
+230300026,2003,regular-season,2003-01-30,3,26,home,FALSE,UCLA,91,Bruins,UCLA Bruins,UCLA
+230300026,2003,regular-season,2003-01-30,3,2483,away,FALSE,Oregon,96,Ducks,Oregon Ducks,Oregon

@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220120041,2002-01-12,2,41,home,FALSE,UConn,96,Huskies,UConn Huskies,UConn
-220120041,2002-01-12,2,2390,away,FALSE,Miami,50,Hurricanes,Miami Hurricanes,Miami
-220120239,2002-01-12,2,239,home,FALSE,Baylor,73,Bears,Baylor Bears,Baylor
-220120239,2002-01-12,2,201,away,FALSE,Oklahoma,82,Sooners,Oklahoma Sooners,Oklahoma
-220120245,2002-01-12,2,245,home,FALSE,Texas A&M,88,Aggies,Texas A&M Aggies,Texas A&M
-220120245,2002-01-12,2,66,away,FALSE,Iowa State,71,Cyclones,Iowa State Cyclones,Iowa State
-220122306,2002-01-12,2,2306,home,FALSE,Kansas State,85,Wildcats,Kansas State Wildcats,Kansas St
-220122306,2002-01-12,2,158,away,FALSE,Nebraska,71,Cornhuskers,Nebraska Cornhuskers,Nebraska
-220120038,2002-01-12,2,38,home,FALSE,Colorado,79,Buffaloes,Colorado Buffaloes,Colorado
-220120038,2002-01-12,2,197,away,FALSE,Oklahoma State,57,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-220120254,2002-01-12,5,254,home,FALSE,Utah,77,Utes,Utah Utes,Utah
-220120254,2002-01-12,5,36,away,FALSE,Colorado State,87,Rams,Colorado State Rams,Colorado St
-220120221,2002-01-12,2,221,home,FALSE,Pittsburgh,57,Panthers,Pittsburgh Panthers,Pitt
-220120221,2002-01-12,2,103,away,FALSE,Boston College,81,Eagles,Boston College Eagles,Boston College
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220120041,2002,regular-season,2002-01-12,2,41,home,FALSE,UConn,96,Huskies,UConn Huskies,UConn
+220120041,2002,regular-season,2002-01-12,2,2390,away,FALSE,Miami,50,Hurricanes,Miami Hurricanes,Miami
+220120239,2002,regular-season,2002-01-12,2,239,home,FALSE,Baylor,73,Bears,Baylor Bears,Baylor
+220120239,2002,regular-season,2002-01-12,2,201,away,FALSE,Oklahoma,82,Sooners,Oklahoma Sooners,Oklahoma
+220120245,2002,regular-season,2002-01-12,2,245,home,FALSE,Texas A&M,88,Aggies,Texas A&M Aggies,Texas A&M
+220120245,2002,regular-season,2002-01-12,2,66,away,FALSE,Iowa State,71,Cyclones,Iowa State Cyclones,Iowa State
+220122306,2002,regular-season,2002-01-12,2,2306,home,FALSE,Kansas State,85,Wildcats,Kansas State Wildcats,Kansas St
+220122306,2002,regular-season,2002-01-12,2,158,away,FALSE,Nebraska,71,Cornhuskers,Nebraska Cornhuskers,Nebraska
+220120038,2002,regular-season,2002-01-12,2,38,home,FALSE,Colorado,79,Buffaloes,Colorado Buffaloes,Colorado
+220120038,2002,regular-season,2002-01-12,2,197,away,FALSE,Oklahoma State,57,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+220120254,2002,regular-season,2002-01-12,5,254,home,FALSE,Utah,77,Utes,Utah Utes,Utah
+220120254,2002,regular-season,2002-01-12,5,36,away,FALSE,Colorado State,87,Rams,Colorado State Rams,Colorado St
+220120221,2002,regular-season,2002-01-12,2,221,home,FALSE,Pittsburgh,57,Panthers,Pittsburgh Panthers,Pitt
+220120221,2002,regular-season,2002-01-12,2,103,away,FALSE,Boston College,81,Eagles,Boston College Eagles,Boston College

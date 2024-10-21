@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401473536,2023-01-20,2,2309,home,FALSE,Kent State,86,Golden Flashes,Kent State Golden Flashes,Kent State
-401473536,2023-01-20,2,2050,away,FALSE,Ball State,65,Cardinals,Ball State Cardinals,Ball State
-401486999,2023-01-20,2,2561,home,FALSE,Siena,72,Saints,Siena Saints,Siena
-401486999,2023-01-20,2,116,away,FALSE,Mount St. Mary's,57,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-401486998,2023-01-20,2,2520,home,FALSE,Rider,65,Broncs,Rider Broncs,Rider
-401486998,2023-01-20,2,315,away,FALSE,Niagara,62,Purple Eagles,Niagara Purple Eagles,Niagara
-401486997,2023-01-20,2,2368,home,FALSE,Marist,57,Red Foxes,Marist Red Foxes,Marist
-401486997,2023-01-20,2,2612,away,FALSE,Saint Peter's,61,Peacocks,Saint Peter's Peacocks,Saint Peter's
-401486996,2023-01-20,3,2363,home,FALSE,Manhattan,76,Jaspers,Manhattan Jaspers,Manhattan
-401486996,2023-01-20,3,314,away,FALSE,Iona,84,Gaels,Iona Gaels,Iona
-401486995,2023-01-20,2,2217,home,FALSE,Fairfield,67,Stags,Fairfield Stags,Fairfield
-401486995,2023-01-20,2,2099,away,FALSE,Canisius,58,Golden Griffins,Canisius Golden Griffins,Canisius
-401485228,2023-01-20,2,2599,home,FALSE,St. John's,49,Red Storm,St. John's Red Storm,St John's
-401485228,2023-01-20,2,222,away,FALSE,Villanova,57,Wildcats,Villanova Wildcats,Villanova
-401484436,2023-01-20,2,257,home,FALSE,Richmond,62,Spiders,Richmond Spiders,Richmond
-401484436,2023-01-20,2,2670,away,FALSE,VCU,74,Rams,VCU Rams,VCU
-401473459,2023-01-20,2,2598,home,FALSE,St. Francis (PA),87,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-401473459,2023-01-20,2,2597,away,FALSE,St. Francis Brooklyn,61,Terriers,St. Francis Brooklyn Terriers,St Francis BK
-401473458,2023-01-20,2,112358,home,FALSE,Long Island University,66,Sharks,Long Island University Sharks,Long Island
-401473458,2023-01-20,2,284,away,FALSE,Stonehill,73,Skyhawks,Stonehill Skyhawks,Stonehill
-401473457,2023-01-20,2,2681,home,FALSE,Wagner,72,Seahawks,Wagner Seahawks,Wagner
-401473457,2023-01-20,2,2115,away,FALSE,Central Connecticut,50,Blue Devils,Central Connecticut Blue Devils,C Connecticut
-401473456,2023-01-20,2,161,home,FALSE,Fairleigh Dickinson,85,Knights,Fairleigh Dickinson Knights,Fair Dickinson
-401473456,2023-01-20,2,2529,away,FALSE,Sacred Heart,92,Pioneers,Sacred Heart Pioneers,Sacred Heart
-401473537,2023-01-20,2,2084,home,FALSE,Buffalo,77,Bulls,Buffalo Bulls,Buffalo
-401473537,2023-01-20,2,2649,away,FALSE,Toledo,86,Rockets,Toledo Rockets,Toledo
-401482824,2023-01-20,3,167,home,FALSE,New Mexico,81,Lobos,New Mexico Lobos,New Mexico
-401482824,2023-01-20,3,68,away,FALSE,Boise State,79,Broncos,Boise State Broncos,Boise St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401473536,2023,regular-season,2023-01-20,2,2309,home,FALSE,Kent State,86,Golden Flashes,Kent State Golden Flashes,Kent State
+401473536,2023,regular-season,2023-01-20,2,2050,away,FALSE,Ball State,65,Cardinals,Ball State Cardinals,Ball State
+401486999,2023,regular-season,2023-01-20,2,2561,home,FALSE,Siena,72,Saints,Siena Saints,Siena
+401486999,2023,regular-season,2023-01-20,2,116,away,FALSE,Mount St. Mary's,57,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+401486998,2023,regular-season,2023-01-20,2,2520,home,FALSE,Rider,65,Broncs,Rider Broncs,Rider
+401486998,2023,regular-season,2023-01-20,2,315,away,FALSE,Niagara,62,Purple Eagles,Niagara Purple Eagles,Niagara
+401486997,2023,regular-season,2023-01-20,2,2368,home,FALSE,Marist,57,Red Foxes,Marist Red Foxes,Marist
+401486997,2023,regular-season,2023-01-20,2,2612,away,FALSE,Saint Peter's,61,Peacocks,Saint Peter's Peacocks,Saint Peter's
+401486996,2023,regular-season,2023-01-20,3,2363,home,FALSE,Manhattan,76,Jaspers,Manhattan Jaspers,Manhattan
+401486996,2023,regular-season,2023-01-20,3,314,away,FALSE,Iona,84,Gaels,Iona Gaels,Iona
+401486995,2023,regular-season,2023-01-20,2,2217,home,FALSE,Fairfield,67,Stags,Fairfield Stags,Fairfield
+401486995,2023,regular-season,2023-01-20,2,2099,away,FALSE,Canisius,58,Golden Griffins,Canisius Golden Griffins,Canisius
+401485228,2023,regular-season,2023-01-20,2,2599,home,FALSE,St. John's,49,Red Storm,St. John's Red Storm,St John's
+401485228,2023,regular-season,2023-01-20,2,222,away,FALSE,Villanova,57,Wildcats,Villanova Wildcats,Villanova
+401484436,2023,regular-season,2023-01-20,2,257,home,FALSE,Richmond,62,Spiders,Richmond Spiders,Richmond
+401484436,2023,regular-season,2023-01-20,2,2670,away,FALSE,VCU,74,Rams,VCU Rams,VCU
+401473459,2023,regular-season,2023-01-20,2,2598,home,FALSE,St. Francis (PA),87,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+401473459,2023,regular-season,2023-01-20,2,2597,away,FALSE,St. Francis Brooklyn,61,Terriers,St. Francis Brooklyn Terriers,St Francis BK
+401473458,2023,regular-season,2023-01-20,2,112358,home,FALSE,Long Island University,66,Sharks,Long Island University Sharks,Long Island
+401473458,2023,regular-season,2023-01-20,2,284,away,FALSE,Stonehill,73,Skyhawks,Stonehill Skyhawks,Stonehill
+401473457,2023,regular-season,2023-01-20,2,2681,home,FALSE,Wagner,72,Seahawks,Wagner Seahawks,Wagner
+401473457,2023,regular-season,2023-01-20,2,2115,away,FALSE,Central Connecticut,50,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+401473456,2023,regular-season,2023-01-20,2,161,home,FALSE,Fairleigh Dickinson,85,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+401473456,2023,regular-season,2023-01-20,2,2529,away,FALSE,Sacred Heart,92,Pioneers,Sacred Heart Pioneers,Sacred Heart
+401473537,2023,regular-season,2023-01-20,2,2084,home,FALSE,Buffalo,77,Bulls,Buffalo Bulls,Buffalo
+401473537,2023,regular-season,2023-01-20,2,2649,away,FALSE,Toledo,86,Rockets,Toledo Rockets,Toledo
+401482824,2023,regular-season,2023-01-20,3,167,home,FALSE,New Mexico,81,Lobos,New Mexico Lobos,New Mexico
+401482824,2023,regular-season,2023-01-20,3,68,away,FALSE,Boise State,79,Broncos,Boise State Broncos,Boise St

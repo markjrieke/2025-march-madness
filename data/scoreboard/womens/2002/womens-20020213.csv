@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220440183,2002-02-13,2,183,home,FALSE,Syracuse,55,Orange,Syracuse Orange,Syracuse
-220440183,2002-02-13,2,41,away,FALSE,UConn,85,Huskies,UConn Huskies,UConn
-220442306,2002-02-13,2,2306,home,FALSE,Kansas State,68,Wildcats,Kansas State Wildcats,Kansas St
-220442306,2002-02-13,2,201,away,FALSE,Oklahoma,76,Sooners,Oklahoma Sooners,Oklahoma
-220440245,2002-02-13,2,245,home,FALSE,Texas A&M,68,Aggies,Texas A&M Aggies,Texas A&M
-220440245,2002-02-13,2,239,away,FALSE,Baylor,81,Bears,Baylor Bears,Baylor
-220440038,2002-02-13,2,38,home,FALSE,Colorado,78,Buffaloes,Colorado Buffaloes,Colorado
-220440038,2002-02-13,2,142,away,FALSE,Missouri,47,Tigers,Missouri Tigers,Missouri
-220442507,2002-02-13,2,2507,home,FALSE,Providence,67,Friars,Providence Friars,Providence
-220442507,2002-02-13,2,259,away,FALSE,Virginia Tech,61,Hokies,Virginia Tech Hokies,Virginia Tech
-220440087,2002-02-13,2,87,home,FALSE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-220440087,2002-02-13,2,2599,away,FALSE,St. John's,31,Red Storm,St. John's Red Storm,St John's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220440183,2002,regular-season,2002-02-13,2,183,home,FALSE,Syracuse,55,Orange,Syracuse Orange,Syracuse
+220440183,2002,regular-season,2002-02-13,2,41,away,FALSE,UConn,85,Huskies,UConn Huskies,UConn
+220442306,2002,regular-season,2002-02-13,2,2306,home,FALSE,Kansas State,68,Wildcats,Kansas State Wildcats,Kansas St
+220442306,2002,regular-season,2002-02-13,2,201,away,FALSE,Oklahoma,76,Sooners,Oklahoma Sooners,Oklahoma
+220440245,2002,regular-season,2002-02-13,2,245,home,FALSE,Texas A&M,68,Aggies,Texas A&M Aggies,Texas A&M
+220440245,2002,regular-season,2002-02-13,2,239,away,FALSE,Baylor,81,Bears,Baylor Bears,Baylor
+220440038,2002,regular-season,2002-02-13,2,38,home,FALSE,Colorado,78,Buffaloes,Colorado Buffaloes,Colorado
+220440038,2002,regular-season,2002-02-13,2,142,away,FALSE,Missouri,47,Tigers,Missouri Tigers,Missouri
+220442507,2002,regular-season,2002-02-13,2,2507,home,FALSE,Providence,67,Friars,Providence Friars,Providence
+220442507,2002,regular-season,2002-02-13,2,259,away,FALSE,Virginia Tech,61,Hokies,Virginia Tech Hokies,Virginia Tech
+220440087,2002,regular-season,2002-02-13,2,87,home,FALSE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+220440087,2002,regular-season,2002-02-13,2,2599,away,FALSE,St. John's,31,Red Storm,St. John's Red Storm,St John's

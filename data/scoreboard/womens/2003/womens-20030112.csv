@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230120099,2003-01-12,2,99,home,FALSE,LSU,71,Tigers,LSU Tigers,LSU
-230120099,2003-01-12,2,145,away,FALSE,Ole Miss,54,Rebels,Ole Miss Rebels,Ole Miss
-230120041,2003-01-12,2,41,home,FALSE,UConn,69,Huskies,UConn Huskies,UConn
-230120041,2003-01-12,2,259,away,FALSE,Virginia Tech,57,Hokies,Virginia Tech Hokies,Virginia Tech
-230122633,2003-01-12,2,2633,home,FALSE,Tennessee,81,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-230122633,2003-01-12,2,2,away,FALSE,Auburn,72,Tigers,Auburn Tigers,Auburn
-230122509,2003-01-12,2,2509,home,FALSE,Purdue,69,Boilermakers,Purdue Boilermakers,Purdue
-230122509,2003-01-12,2,130,away,FALSE,Michigan,52,Wolverines,Michigan Wolverines,Michigan
-230120135,2003-01-12,2,135,home,FALSE,Minnesota,94,Golden Gophers,Minnesota Golden Gophers,Minnesota
-230120135,2003-01-12,2,2294,away,FALSE,Iowa,65,Hawkeyes,Iowa Hawkeyes,Iowa
-230120052,2003-01-12,2,52,home,FALSE,Florida State,53,Seminoles,Florida State Seminoles,Florida St
-230120052,2003-01-12,2,153,away,FALSE,North Carolina,74,Tar Heels,North Carolina Tar Heels,North Carolina
-230120008,2003-01-12,2,8,home,FALSE,Arkansas,67,Razorbacks,Arkansas Razorbacks,Arkansas
-230120008,2003-01-12,2,2579,away,FALSE,South Carolina,58,Gamecocks,South Carolina Gamecocks,South Carolina
-230120344,2003-01-12,2,344,home,FALSE,Mississippi State,78,Bulldogs,Mississippi State Bulldogs,Mississippi St
-230120344,2003-01-12,2,238,away,FALSE,Vanderbilt,75,Commodores,Vanderbilt Commodores,Vanderbilt
-230120077,2003-01-12,2,77,home,FALSE,Northwestern,63,Wildcats,Northwestern Wildcats,Northwestern
-230120077,2003-01-12,2,213,away,FALSE,Penn State,79,Lady Lions,Penn State Lady Lions,Penn State
-230120084,2003-01-12,2,84,home,FALSE,Indiana,54,Hoosiers,Indiana Hoosiers,Indiana
-230120084,2003-01-12,2,194,away,FALSE,Ohio State,50,Buckeyes,Ohio State Buckeyes,Ohio State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230120099,2003,regular-season,2003-01-12,2,99,home,FALSE,LSU,71,Tigers,LSU Tigers,LSU
+230120099,2003,regular-season,2003-01-12,2,145,away,FALSE,Ole Miss,54,Rebels,Ole Miss Rebels,Ole Miss
+230120041,2003,regular-season,2003-01-12,2,41,home,FALSE,UConn,69,Huskies,UConn Huskies,UConn
+230120041,2003,regular-season,2003-01-12,2,259,away,FALSE,Virginia Tech,57,Hokies,Virginia Tech Hokies,Virginia Tech
+230122633,2003,regular-season,2003-01-12,2,2633,home,FALSE,Tennessee,81,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+230122633,2003,regular-season,2003-01-12,2,2,away,FALSE,Auburn,72,Tigers,Auburn Tigers,Auburn
+230122509,2003,regular-season,2003-01-12,2,2509,home,FALSE,Purdue,69,Boilermakers,Purdue Boilermakers,Purdue
+230122509,2003,regular-season,2003-01-12,2,130,away,FALSE,Michigan,52,Wolverines,Michigan Wolverines,Michigan
+230120135,2003,regular-season,2003-01-12,2,135,home,FALSE,Minnesota,94,Golden Gophers,Minnesota Golden Gophers,Minnesota
+230120135,2003,regular-season,2003-01-12,2,2294,away,FALSE,Iowa,65,Hawkeyes,Iowa Hawkeyes,Iowa
+230120052,2003,regular-season,2003-01-12,2,52,home,FALSE,Florida State,53,Seminoles,Florida State Seminoles,Florida St
+230120052,2003,regular-season,2003-01-12,2,153,away,FALSE,North Carolina,74,Tar Heels,North Carolina Tar Heels,North Carolina
+230120008,2003,regular-season,2003-01-12,2,8,home,FALSE,Arkansas,67,Razorbacks,Arkansas Razorbacks,Arkansas
+230120008,2003,regular-season,2003-01-12,2,2579,away,FALSE,South Carolina,58,Gamecocks,South Carolina Gamecocks,South Carolina
+230120344,2003,regular-season,2003-01-12,2,344,home,FALSE,Mississippi State,78,Bulldogs,Mississippi State Bulldogs,Mississippi St
+230120344,2003,regular-season,2003-01-12,2,238,away,FALSE,Vanderbilt,75,Commodores,Vanderbilt Commodores,Vanderbilt
+230120077,2003,regular-season,2003-01-12,2,77,home,FALSE,Northwestern,63,Wildcats,Northwestern Wildcats,Northwestern
+230120077,2003,regular-season,2003-01-12,2,213,away,FALSE,Penn State,79,Lady Lions,Penn State Lady Lions,Penn State
+230120084,2003,regular-season,2003-01-12,2,84,home,FALSE,Indiana,54,Hoosiers,Indiana Hoosiers,Indiana
+230120084,2003,regular-season,2003-01-12,2,194,away,FALSE,Ohio State,50,Buckeyes,Ohio State Buckeyes,Ohio State

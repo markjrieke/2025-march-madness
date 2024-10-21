@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323482057,2012-12-13,2,2057,home,FALSE,Belmont,85,Bruins,Belmont Bruins,Belmont
-323482057,2012-12-13,2,2247,away,FALSE,Georgia State,62,Panthers,Georgia State Panthers,Georgia St
-323480324,2012-12-13,2,324,home,FALSE,Coastal Carolina,70,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
-323480324,2012-12-13,2,451,away,FALSE,Converse,43,Converse,Converse,Convrsecol
-323482427,2012-12-13,2,2427,home,FALSE,UNC Asheville,62,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-323482427,2012-12-13,2,338,away,FALSE,Kennesaw State,71,Owls,Kennesaw State Owls,Kennesaw St
-323482229,2012-12-13,2,2229,home,FALSE,Florida International,66,Panthers,Florida International Panthers,FIU
-323482229,2012-12-13,2,2116,away,FALSE,UCF,49,Knights,UCF Knights,UCF
-323482011,2012-12-13,2,2011,home,FALSE,Alabama State,46,Lady Hornets,Alabama State Lady Hornets,Alabama St
-323482011,2012-12-13,2,2447,away,FALSE,Nicholls,57,Colonels,Nicholls Colonels,Nicholls
-323482515,2012-12-13,2,2515,home,FALSE,Radford,73,Highlanders,Radford Highlanders,Radford
-323482515,2012-12-13,2,2450,away,FALSE,Norfolk State,50,Spartans,Norfolk State Spartans,Norfolk St
-323482335,2012-12-13,2,2335,home,FALSE,Liberty,82,Flames,Liberty Flames,Liberty
-323482335,2012-12-13,2,2073,away,FALSE,Bluefield State,46,Big Blues,Bluefield State Big Blues,Bluefield St
-323482241,2012-12-13,2,2241,home,FALSE,Gardner-Webb,56,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-323482241,2012-12-13,2,2166,away,FALSE,Davidson,59,Wildcats,Davidson Wildcats,Davidson
-323482210,2012-12-13,2,2210,home,FALSE,Elon,74,Phoenix,Elon Phoenix,Elon
-323482210,2012-12-13,2,2415,away,FALSE,Morgan State,54,Lady Bears,Morgan State Lady Bears,Morgan St
-323480349,2012-12-13,2,349,home,FALSE,Army,77,Black Knights,Army Black Knights,Army
-323480349,2012-12-13,2,2383,away,FALSE,Merchant Marine Academy,40,Mariners,Merchant Marine Academy Mariners,Merch Marn
-323480309,2012-12-13,2,309,home,FALSE,Louisiana,68,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
-323480309,2012-12-13,2,2443,away,FALSE,New Orleans,41,Privateers,New Orleans Privateers,New Orleans
-323480242,2012-12-13,2,242,home,FALSE,Rice,68,Owls,Rice Owls,Rice
-323480242,2012-12-13,2,2130,away,FALSE,Chicago State,42,Cougars,Chicago State Cougars,Chicago St
-323480099,2012-12-13,2,99,home,FALSE,LSU,76,Tigers,LSU Tigers,LSU
-323480099,2012-12-13,2,2193,away,FALSE,East Tennessee State,42,Bucs,East Tennessee State Bucs,ETSU
-323482005,2012-12-13,3,2005,home,FALSE,Air Force,82,Falcons,Air Force Falcons,Air Force
-323482005,2012-12-13,3,2934,away,FALSE,Cal State Bakersfield,78,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
-323480204,2012-12-13,2,204,home,FALSE,Oregon State,54,Beavers,Oregon State Beavers,Oregon St
-323480204,2012-12-13,2,2239,away,FALSE,Cal State Fullerton,36,Titans,Cal State Fullerton Titans,Fullerton
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323482057,2013,regular-season,2012-12-13,2,2057,home,FALSE,Belmont,85,Bruins,Belmont Bruins,Belmont
+323482057,2013,regular-season,2012-12-13,2,2247,away,FALSE,Georgia State,62,Panthers,Georgia State Panthers,Georgia St
+323480324,2013,regular-season,2012-12-13,2,324,home,FALSE,Coastal Carolina,70,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+323480324,2013,regular-season,2012-12-13,2,451,away,FALSE,Converse,43,Converse,Converse,Convrsecol
+323482427,2013,regular-season,2012-12-13,2,2427,home,FALSE,UNC Asheville,62,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+323482427,2013,regular-season,2012-12-13,2,338,away,FALSE,Kennesaw State,71,Owls,Kennesaw State Owls,Kennesaw St
+323482229,2013,regular-season,2012-12-13,2,2229,home,FALSE,Florida International,66,Panthers,Florida International Panthers,FIU
+323482229,2013,regular-season,2012-12-13,2,2116,away,FALSE,UCF,49,Knights,UCF Knights,UCF
+323482011,2013,regular-season,2012-12-13,2,2011,home,FALSE,Alabama State,46,Lady Hornets,Alabama State Lady Hornets,Alabama St
+323482011,2013,regular-season,2012-12-13,2,2447,away,FALSE,Nicholls,57,Colonels,Nicholls Colonels,Nicholls
+323482515,2013,regular-season,2012-12-13,2,2515,home,FALSE,Radford,73,Highlanders,Radford Highlanders,Radford
+323482515,2013,regular-season,2012-12-13,2,2450,away,FALSE,Norfolk State,50,Spartans,Norfolk State Spartans,Norfolk St
+323482335,2013,regular-season,2012-12-13,2,2335,home,FALSE,Liberty,82,Flames,Liberty Flames,Liberty
+323482335,2013,regular-season,2012-12-13,2,2073,away,FALSE,Bluefield State,46,Big Blues,Bluefield State Big Blues,Bluefield St
+323482241,2013,regular-season,2012-12-13,2,2241,home,FALSE,Gardner-Webb,56,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+323482241,2013,regular-season,2012-12-13,2,2166,away,FALSE,Davidson,59,Wildcats,Davidson Wildcats,Davidson
+323482210,2013,regular-season,2012-12-13,2,2210,home,FALSE,Elon,74,Phoenix,Elon Phoenix,Elon
+323482210,2013,regular-season,2012-12-13,2,2415,away,FALSE,Morgan State,54,Lady Bears,Morgan State Lady Bears,Morgan St
+323480349,2013,regular-season,2012-12-13,2,349,home,FALSE,Army,77,Black Knights,Army Black Knights,Army
+323480349,2013,regular-season,2012-12-13,2,2383,away,FALSE,Merchant Marine Academy,40,Mariners,Merchant Marine Academy Mariners,Merch Marn
+323480309,2013,regular-season,2012-12-13,2,309,home,FALSE,Louisiana,68,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+323480309,2013,regular-season,2012-12-13,2,2443,away,FALSE,New Orleans,41,Privateers,New Orleans Privateers,New Orleans
+323480242,2013,regular-season,2012-12-13,2,242,home,FALSE,Rice,68,Owls,Rice Owls,Rice
+323480242,2013,regular-season,2012-12-13,2,2130,away,FALSE,Chicago State,42,Cougars,Chicago State Cougars,Chicago St
+323480099,2013,regular-season,2012-12-13,2,99,home,FALSE,LSU,76,Tigers,LSU Tigers,LSU
+323480099,2013,regular-season,2012-12-13,2,2193,away,FALSE,East Tennessee State,42,Bucs,East Tennessee State Bucs,ETSU
+323482005,2013,regular-season,2012-12-13,3,2005,home,FALSE,Air Force,82,Falcons,Air Force Falcons,Air Force
+323482005,2013,regular-season,2012-12-13,3,2934,away,FALSE,Cal State Bakersfield,78,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+323480204,2013,regular-season,2012-12-13,2,204,home,FALSE,Oregon State,54,Beavers,Oregon State Beavers,Oregon St
+323480204,2013,regular-season,2012-12-13,2,2239,away,FALSE,Cal State Fullerton,36,Titans,Cal State Fullerton Titans,Fullerton

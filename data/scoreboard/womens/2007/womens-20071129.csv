@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273330041,2007-11-29,2,41,home,FALSE,UConn,80,Huskies,UConn Huskies,UConn
-273330041,2007-11-29,2,252,away,FALSE,BYU,34,Cougars,BYU Cougars,BYU
-273330153,2007-11-29,2,153,home,FALSE,North Carolina,90,Tar Heels,North Carolina Tar Heels,North Carolina
-273330153,2007-11-29,2,2509,away,FALSE,Purdue,72,Boilermakers,Purdue Boilermakers,Purdue
-273330061,2007-11-29,2,61,home,FALSE,Georgia,69,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-273330061,2007-11-29,2,2473,away,FALSE,Oakland,59,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-273330248,2007-11-29,2,248,home,FALSE,Houston,46,Cougars,Houston Cougars,Houston
-273330248,2007-11-29,2,99,away,FALSE,LSU,77,Tigers,LSU Tigers,LSU
-273332546,2007-11-29,2,2546,home,FALSE,Southeast Missouri State,51,Redhawks,Southeast Missouri State Redhawks,SE Missouri
-273332546,2007-11-29,2,239,away,FALSE,Baylor,81,Bears,Baylor Bears,Baylor
-273330245,2007-11-29,2,245,home,FALSE,Texas A&M,69,Aggies,Texas A&M Aggies,Texas A&M
-273330245,2007-11-29,2,130,away,FALSE,Michigan,41,Wolverines,Michigan Wolverines,Michigan
-273330305,2007-11-29,2,305,home,FALSE,DePaul,74,Blue Demons,DePaul Blue Demons,DePaul
-273330305,2007-11-29,2,82,away,FALSE,UIC,35,Flames,UIC Flames,UIC
-273332751,2007-11-29,2,2751,home,FALSE,Wyoming,65,Cowgirls,Wyoming Cowgirls,Wyoming
-273332751,2007-11-29,2,149,away,FALSE,Montana,54,Lady Griz,Montana Lady Griz,Montana
-273330251,2007-11-29,2,251,home,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
-273330251,2007-11-29,2,250,away,FALSE,UT Arlington,60,Mavericks,UT Arlington Mavericks,UT Arlington
-273330127,2007-11-29,2,127,home,FALSE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St
-273330127,2007-11-29,2,228,away,FALSE,Clemson,51,Tigers,Clemson Tigers,Clemson
-273330295,2007-11-29,2,295,home,FALSE,Old Dominion,77,Monarchs,Old Dominion Monarchs,Old Dominion
-273330295,2007-11-29,2,213,away,FALSE,Penn State,49,Lady Lions,Penn State Lady Lions,Penn State
-273330197,2007-11-29,2,197,home,FALSE,Oklahoma State,96,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-273330197,2007-11-29,2,2032,away,FALSE,Arkansas State,54,Red Wolves,Arkansas State Red Wolves,Arkansas St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273330041,2008,regular-season,2007-11-29,2,41,home,FALSE,UConn,80,Huskies,UConn Huskies,UConn
+273330041,2008,regular-season,2007-11-29,2,252,away,FALSE,BYU,34,Cougars,BYU Cougars,BYU
+273330153,2008,regular-season,2007-11-29,2,153,home,FALSE,North Carolina,90,Tar Heels,North Carolina Tar Heels,North Carolina
+273330153,2008,regular-season,2007-11-29,2,2509,away,FALSE,Purdue,72,Boilermakers,Purdue Boilermakers,Purdue
+273330061,2008,regular-season,2007-11-29,2,61,home,FALSE,Georgia,69,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+273330061,2008,regular-season,2007-11-29,2,2473,away,FALSE,Oakland,59,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+273330248,2008,regular-season,2007-11-29,2,248,home,FALSE,Houston,46,Cougars,Houston Cougars,Houston
+273330248,2008,regular-season,2007-11-29,2,99,away,FALSE,LSU,77,Tigers,LSU Tigers,LSU
+273332546,2008,regular-season,2007-11-29,2,2546,home,FALSE,Southeast Missouri State,51,Redhawks,Southeast Missouri State Redhawks,SE Missouri
+273332546,2008,regular-season,2007-11-29,2,239,away,FALSE,Baylor,81,Bears,Baylor Bears,Baylor
+273330245,2008,regular-season,2007-11-29,2,245,home,FALSE,Texas A&M,69,Aggies,Texas A&M Aggies,Texas A&M
+273330245,2008,regular-season,2007-11-29,2,130,away,FALSE,Michigan,41,Wolverines,Michigan Wolverines,Michigan
+273330305,2008,regular-season,2007-11-29,2,305,home,FALSE,DePaul,74,Blue Demons,DePaul Blue Demons,DePaul
+273330305,2008,regular-season,2007-11-29,2,82,away,FALSE,UIC,35,Flames,UIC Flames,UIC
+273332751,2008,regular-season,2007-11-29,2,2751,home,FALSE,Wyoming,65,Cowgirls,Wyoming Cowgirls,Wyoming
+273332751,2008,regular-season,2007-11-29,2,149,away,FALSE,Montana,54,Lady Griz,Montana Lady Griz,Montana
+273330251,2008,regular-season,2007-11-29,2,251,home,FALSE,Texas,76,Longhorns,Texas Longhorns,Texas
+273330251,2008,regular-season,2007-11-29,2,250,away,FALSE,UT Arlington,60,Mavericks,UT Arlington Mavericks,UT Arlington
+273330127,2008,regular-season,2007-11-29,2,127,home,FALSE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St
+273330127,2008,regular-season,2007-11-29,2,228,away,FALSE,Clemson,51,Tigers,Clemson Tigers,Clemson
+273330295,2008,regular-season,2007-11-29,2,295,home,FALSE,Old Dominion,77,Monarchs,Old Dominion Monarchs,Old Dominion
+273330295,2008,regular-season,2007-11-29,2,213,away,FALSE,Penn State,49,Lady Lions,Penn State Lady Lions,Penn State
+273330197,2008,regular-season,2007-11-29,2,197,home,FALSE,Oklahoma State,96,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+273330197,2008,regular-season,2007-11-29,2,2032,away,FALSE,Arkansas State,54,Red Wolves,Arkansas State Red Wolves,Arkansas St

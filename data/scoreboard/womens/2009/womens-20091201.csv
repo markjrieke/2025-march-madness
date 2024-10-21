@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293352633,2009-12-01,2,2633,home,FALSE,Tennessee,93,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-293352633,2009-12-01,2,45,away,FALSE,George Washington,53,Revolutionaries,George Washington Revolutionaries,G Washington
-293352348,2009-12-01,2,2348,home,FALSE,Louisiana Tech,74,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-293352348,2009-12-01,2,99,away,FALSE,LSU,77,Tigers,LSU Tigers,LSU
-293350061,2009-12-01,2,61,home,FALSE,Georgia,71,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-293350061,2009-12-01,2,5,away,FALSE,UAB,42,Blazers,UAB Blazers,UAB
-293350251,2009-12-01,2,251,home,FALSE,Texas,94,Longhorns,Texas Longhorns,Texas
-293350251,2009-12-01,2,198,away,FALSE,Oral Roberts,80,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293352633,2010,regular-season,2009-12-01,2,2633,home,FALSE,Tennessee,93,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+293352633,2010,regular-season,2009-12-01,2,45,away,FALSE,George Washington,53,Revolutionaries,George Washington Revolutionaries,G Washington
+293352348,2010,regular-season,2009-12-01,2,2348,home,FALSE,Louisiana Tech,74,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+293352348,2010,regular-season,2009-12-01,2,99,away,FALSE,LSU,77,Tigers,LSU Tigers,LSU
+293350061,2010,regular-season,2009-12-01,2,61,home,FALSE,Georgia,71,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+293350061,2010,regular-season,2009-12-01,2,5,away,FALSE,UAB,42,Blazers,UAB Blazers,UAB
+293350251,2010,regular-season,2009-12-01,2,251,home,FALSE,Texas,94,Longhorns,Texas Longhorns,Texas
+293350251,2010,regular-season,2009-12-01,2,198,away,FALSE,Oral Roberts,80,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts

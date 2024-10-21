@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293370251,2009-12-03,2,251,home,FALSE,Texas,69,Longhorns,Texas Longhorns,Texas
-293370251,2009-12-03,2,30,away,FALSE,USC,50,Trojans,USC Trojans,USC
-293372641,2009-12-03,3,2641,home,FALSE,Texas Tech,99,Red Raiders,Texas Tech Red Raiders,Texas Tech
-293372641,2009-12-03,3,264,away,FALSE,Washington,92,Huskies,Washington Huskies,Washington
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293370251,2010,regular-season,2009-12-03,2,251,home,FALSE,Texas,69,Longhorns,Texas Longhorns,Texas
+293370251,2010,regular-season,2009-12-03,2,30,away,FALSE,USC,50,Trojans,USC Trojans,USC
+293372641,2010,regular-season,2009-12-03,3,2641,home,FALSE,Texas Tech,99,Red Raiders,Texas Tech Red Raiders,Texas Tech
+293372641,2010,regular-season,2009-12-03,3,264,away,FALSE,Washington,92,Huskies,Washington Huskies,Washington

@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401082987,2019-01-29,2,2579,home,FALSE,South Carolina,70,Gamecocks,South Carolina Gamecocks,South Carolina
-401082987,2019-01-29,2,2633,away,FALSE,Tennessee,92,Volunteers,Tennessee Volunteers,Tennessee
-401082772,2019-01-29,3,152,home,FALSE,NC State,65,Wolfpack,NC State Wolfpack,NC State
-401082772,2019-01-29,3,258,away,FALSE,Virginia,66,Cavaliers,Virginia Cavaliers,Virginia
-401082462,2019-01-29,2,130,home,FALSE,Michigan,65,Wolverines,Michigan Wolverines,Michigan
-401082462,2019-01-29,2,194,away,FALSE,Ohio State,49,Buckeyes,Ohio State Buckeyes,Ohio State
-401082936,2019-01-29,2,238,home,FALSE,Vanderbilt,52,Commodores,Vanderbilt Commodores,Vanderbilt
-401082936,2019-01-29,2,96,away,FALSE,Kentucky,87,Wildcats,Kentucky Wildcats,Kentucky
-401089698,2019-01-29,2,2439,home,FALSE,UNLV,70,Rebels,UNLV Rebels,UNLV
-401089698,2019-01-29,2,2440,away,FALSE,Nevada,87,Wolf Pack,Nevada Wolf Pack,Nevada
-401082865,2019-01-29,2,59,home,FALSE,Georgia Tech,54,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-401082865,2019-01-29,2,153,away,FALSE,North Carolina,77,Tar Heels,North Carolina Tar Heels,North Carolina
-401083505,2019-01-29,2,251,home,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
-401083505,2019-01-29,2,2305,away,FALSE,Kansas,63,Jayhawks,Kansas Jayhawks,Kansas
-401086250,2019-01-29,2,2084,home,FALSE,Buffalo,83,Bulls,Buffalo Bulls,Buffalo
-401086250,2019-01-29,2,2050,away,FALSE,Ball State,59,Cardinals,Ball State Cardinals,Ball State
-401082437,2019-01-29,2,120,home,FALSE,Maryland,70,Terrapins,Maryland Terrapins,Maryland
-401082437,2019-01-29,2,77,away,FALSE,Northwestern,52,Wildcats,Northwestern Wildcats,Northwestern
-401082964,2019-01-29,2,333,home,FALSE,Alabama,83,Crimson Tide,Alabama Crimson Tide,Alabama
-401082964,2019-01-29,2,344,away,FALSE,Mississippi State,79,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401082525,2019-01-29,2,158,home,FALSE,Nebraska,51,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401082525,2019-01-29,2,275,away,FALSE,Wisconsin,62,Badgers,Wisconsin Badgers,Wisconsin
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401082987,2019,regular-season,2019-01-29,2,2579,home,FALSE,South Carolina,70,Gamecocks,South Carolina Gamecocks,South Carolina
+401082987,2019,regular-season,2019-01-29,2,2633,away,FALSE,Tennessee,92,Volunteers,Tennessee Volunteers,Tennessee
+401082772,2019,regular-season,2019-01-29,3,152,home,FALSE,NC State,65,Wolfpack,NC State Wolfpack,NC State
+401082772,2019,regular-season,2019-01-29,3,258,away,FALSE,Virginia,66,Cavaliers,Virginia Cavaliers,Virginia
+401082462,2019,regular-season,2019-01-29,2,130,home,FALSE,Michigan,65,Wolverines,Michigan Wolverines,Michigan
+401082462,2019,regular-season,2019-01-29,2,194,away,FALSE,Ohio State,49,Buckeyes,Ohio State Buckeyes,Ohio State
+401082936,2019,regular-season,2019-01-29,2,238,home,FALSE,Vanderbilt,52,Commodores,Vanderbilt Commodores,Vanderbilt
+401082936,2019,regular-season,2019-01-29,2,96,away,FALSE,Kentucky,87,Wildcats,Kentucky Wildcats,Kentucky
+401089698,2019,regular-season,2019-01-29,2,2439,home,FALSE,UNLV,70,Rebels,UNLV Rebels,UNLV
+401089698,2019,regular-season,2019-01-29,2,2440,away,FALSE,Nevada,87,Wolf Pack,Nevada Wolf Pack,Nevada
+401082865,2019,regular-season,2019-01-29,2,59,home,FALSE,Georgia Tech,54,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+401082865,2019,regular-season,2019-01-29,2,153,away,FALSE,North Carolina,77,Tar Heels,North Carolina Tar Heels,North Carolina
+401083505,2019,regular-season,2019-01-29,2,251,home,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
+401083505,2019,regular-season,2019-01-29,2,2305,away,FALSE,Kansas,63,Jayhawks,Kansas Jayhawks,Kansas
+401086250,2019,regular-season,2019-01-29,2,2084,home,FALSE,Buffalo,83,Bulls,Buffalo Bulls,Buffalo
+401086250,2019,regular-season,2019-01-29,2,2050,away,FALSE,Ball State,59,Cardinals,Ball State Cardinals,Ball State
+401082437,2019,regular-season,2019-01-29,2,120,home,FALSE,Maryland,70,Terrapins,Maryland Terrapins,Maryland
+401082437,2019,regular-season,2019-01-29,2,77,away,FALSE,Northwestern,52,Wildcats,Northwestern Wildcats,Northwestern
+401082964,2019,regular-season,2019-01-29,2,333,home,FALSE,Alabama,83,Crimson Tide,Alabama Crimson Tide,Alabama
+401082964,2019,regular-season,2019-01-29,2,344,away,FALSE,Mississippi State,79,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401082525,2019,regular-season,2019-01-29,2,158,home,FALSE,Nebraska,51,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401082525,2019,regular-season,2019-01-29,2,275,away,FALSE,Wisconsin,62,Badgers,Wisconsin Badgers,Wisconsin

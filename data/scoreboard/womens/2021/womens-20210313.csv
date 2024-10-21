@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401287741,2021-03-13,4,189,home,TRUE,Bowling Green,72,Falcons,Bowling Green Falcons,Bowling Green
-401287741,2021-03-13,4,2117,away,TRUE,Central Michigan,77,Chippewas,Central Michigan Chippewas,C Michigan
-401287011,2021-03-13,4,2368,home,TRUE,Marist,69,Red Foxes,Marist Red Foxes,Marist
-401287011,2021-03-13,4,2612,away,TRUE,Saint Peter's,30,Peacocks,Saint Peter's Peacocks,Saint Peter's
-401301882,2021-03-13,4,239,home,TRUE,Baylor,66,Bears,Baylor Bears,Baylor
-401301882,2021-03-13,4,251,away,TRUE,Texas,55,Longhorns,Texas Longhorns,Texas
-401286951,2021-03-13,4,2168,home,TRUE,Dayton,50,Flyers,Dayton Flyers,Dayton
-401286951,2021-03-13,4,2670,away,TRUE,VCU,56,Rams,VCU Rams,VCU
-401301898,2021-03-13,4,120,home,TRUE,Maryland,104,Terrapins,Maryland Terrapins,Maryland
-401301898,2021-03-13,4,2294,away,TRUE,Iowa,84,Hawkeyes,Iowa Hawkeyes,Iowa
-401287103,2021-03-13,4,2617,home,TRUE,Stephen F. Austin,55,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
-401287103,2021-03-13,4,2110,away,TRUE,Central Arkansas,47,Sugar Bears,Central Arkansas Sugar Bears,C Arkansas
-401287112,2021-03-13,4,2296,home,TRUE,Jackson State,67,Lady Tigers,Jackson State Lady Tigers,Jackson St
-401287112,2021-03-13,4,2011,away,TRUE,Alabama State,66,Lady Hornets,Alabama State Lady Hornets,Alabama St
-401301883,2021-03-13,4,277,home,TRUE,West Virginia,59,Mountaineers,West Virginia Mountaineers,West Virginia
-401301883,2021-03-13,4,197,away,TRUE,Oklahoma State,50,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-401286952,2021-03-13,4,139,home,TRUE,Saint Louis,81,Billikens,Saint Louis Billikens,Saint Louis
-401286952,2021-03-13,4,113,away,TRUE,Massachusetts,90,Minutewomen,Massachusetts Minutewomen,UMass
-401301905,2021-03-13,4,2448,home,TRUE,North Carolina A&T,59,Aggies,North Carolina A&T Aggies,NC A&T
-401301905,2021-03-13,4,47,away,TRUE,Howard,57,Bison,Howard Bison,Howard
-401301933,2021-03-13,4,2856,home,TRUE,California Baptist,78,Lancers,California Baptist Lancers,CA Baptist
-401301933,2021-03-13,4,2253,away,TRUE,Grand Canyon,60,Lopes,Grand Canyon Lopes,Grand Canyon
-401301770,2021-03-13,4,48,home,TRUE,Delaware,52,Blue Hens,Delaware Blue Hens,Delaware
-401301770,2021-03-13,4,2182,away,TRUE,Drexel,63,Dragons,Drexel Dragons,Drexel
-401287104,2021-03-13,4,2545,home,TRUE,SE Louisiana,77,Lady Lions,SE Louisiana Lady Lions,SE Louisiana
-401287104,2021-03-13,4,2534,away,TRUE,Sam Houston,79,Bearkats,Sam Houston Bearkats,Sam Houston
-401301990,2021-03-13,4,242,home,TRUE,Rice,65,Owls,Rice Owls,Rice
-401301990,2021-03-13,4,2393,away,TRUE,Middle Tennessee,68,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-401312393,2021-03-13,4,71,home,FALSE,Bradley,70,Braves,Bradley Braves,Bradley
-401312393,2021-03-13,4,2350,away,FALSE,Loyola Chicago,56,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-401286970,2021-03-13,4,302,home,TRUE,UC Davis,61,Aggies,UC Davis Aggies,UC Davis
-401286970,2021-03-13,4,300,away,TRUE,UC Irvine,42,Anteaters,UC Irvine Anteaters,UC Irvine
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401287741,2021,regular-season,2021-03-13,4,189,home,TRUE,Bowling Green,72,Falcons,Bowling Green Falcons,Bowling Green
+401287741,2021,regular-season,2021-03-13,4,2117,away,TRUE,Central Michigan,77,Chippewas,Central Michigan Chippewas,C Michigan
+401287011,2021,regular-season,2021-03-13,4,2368,home,TRUE,Marist,69,Red Foxes,Marist Red Foxes,Marist
+401287011,2021,regular-season,2021-03-13,4,2612,away,TRUE,Saint Peter's,30,Peacocks,Saint Peter's Peacocks,Saint Peter's
+401301882,2021,regular-season,2021-03-13,4,239,home,TRUE,Baylor,66,Bears,Baylor Bears,Baylor
+401301882,2021,regular-season,2021-03-13,4,251,away,TRUE,Texas,55,Longhorns,Texas Longhorns,Texas
+401286951,2021,regular-season,2021-03-13,4,2168,home,TRUE,Dayton,50,Flyers,Dayton Flyers,Dayton
+401286951,2021,regular-season,2021-03-13,4,2670,away,TRUE,VCU,56,Rams,VCU Rams,VCU
+401301898,2021,regular-season,2021-03-13,4,120,home,TRUE,Maryland,104,Terrapins,Maryland Terrapins,Maryland
+401301898,2021,regular-season,2021-03-13,4,2294,away,TRUE,Iowa,84,Hawkeyes,Iowa Hawkeyes,Iowa
+401287103,2021,regular-season,2021-03-13,4,2617,home,TRUE,Stephen F. Austin,55,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
+401287103,2021,regular-season,2021-03-13,4,2110,away,TRUE,Central Arkansas,47,Sugar Bears,Central Arkansas Sugar Bears,C Arkansas
+401287112,2021,regular-season,2021-03-13,4,2296,home,TRUE,Jackson State,67,Lady Tigers,Jackson State Lady Tigers,Jackson St
+401287112,2021,regular-season,2021-03-13,4,2011,away,TRUE,Alabama State,66,Lady Hornets,Alabama State Lady Hornets,Alabama St
+401301883,2021,regular-season,2021-03-13,4,277,home,TRUE,West Virginia,59,Mountaineers,West Virginia Mountaineers,West Virginia
+401301883,2021,regular-season,2021-03-13,4,197,away,TRUE,Oklahoma State,50,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+401286952,2021,regular-season,2021-03-13,4,139,home,TRUE,Saint Louis,81,Billikens,Saint Louis Billikens,Saint Louis
+401286952,2021,regular-season,2021-03-13,4,113,away,TRUE,Massachusetts,90,Minutewomen,Massachusetts Minutewomen,UMass
+401301905,2021,regular-season,2021-03-13,4,2448,home,TRUE,North Carolina A&T,59,Aggies,North Carolina A&T Aggies,NC A&T
+401301905,2021,regular-season,2021-03-13,4,47,away,TRUE,Howard,57,Bison,Howard Bison,Howard
+401301933,2021,regular-season,2021-03-13,4,2856,home,TRUE,California Baptist,78,Lancers,California Baptist Lancers,CA Baptist
+401301933,2021,regular-season,2021-03-13,4,2253,away,TRUE,Grand Canyon,60,Lopes,Grand Canyon Lopes,Grand Canyon
+401301770,2021,regular-season,2021-03-13,4,48,home,TRUE,Delaware,52,Blue Hens,Delaware Blue Hens,Delaware
+401301770,2021,regular-season,2021-03-13,4,2182,away,TRUE,Drexel,63,Dragons,Drexel Dragons,Drexel
+401287104,2021,regular-season,2021-03-13,4,2545,home,TRUE,SE Louisiana,77,Lady Lions,SE Louisiana Lady Lions,SE Louisiana
+401287104,2021,regular-season,2021-03-13,4,2534,away,TRUE,Sam Houston,79,Bearkats,Sam Houston Bearkats,Sam Houston
+401301990,2021,regular-season,2021-03-13,4,242,home,TRUE,Rice,65,Owls,Rice Owls,Rice
+401301990,2021,regular-season,2021-03-13,4,2393,away,TRUE,Middle Tennessee,68,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+401312393,2021,regular-season,2021-03-13,4,71,home,FALSE,Bradley,70,Braves,Bradley Braves,Bradley
+401312393,2021,regular-season,2021-03-13,4,2350,away,FALSE,Loyola Chicago,56,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+401286970,2021,regular-season,2021-03-13,4,302,home,TRUE,UC Davis,61,Aggies,UC Davis Aggies,UC Davis
+401286970,2021,regular-season,2021-03-13,4,300,away,TRUE,UC Irvine,42,Anteaters,UC Irvine Anteaters,UC Irvine

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401414522,2022-03-26,4,152,home,TRUE,NC State,66,Wolfpack,NC State Wolfpack,NC State
-401414522,2022-03-26,4,87,away,TRUE,Notre Dame,63,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401414519,2022-03-26,4,41,home,TRUE,UConn,75,Huskies,UConn Huskies,UConn
-401414519,2022-03-26,4,84,away,TRUE,Indiana,58,Hoosiers,Indiana Hoosiers,Indiana
-401414520,2022-03-26,4,97,home,TRUE,Louisville,76,Cardinals,Louisville Cardinals,Louisville
-401414520,2022-03-26,4,2633,away,TRUE,Tennessee,64,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-401414530,2022-03-26,4,130,home,TRUE,Michigan,52,Wolverines,Michigan Wolverines,Michigan
-401414530,2022-03-26,4,233,away,TRUE,South Dakota,49,Coyotes,South Dakota Coyotes,South Dakota
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401414522,2022,post-season,2022-03-26,4,152,home,TRUE,NC State,66,Wolfpack,NC State Wolfpack,NC State
+401414522,2022,post-season,2022-03-26,4,87,away,TRUE,Notre Dame,63,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401414519,2022,post-season,2022-03-26,4,41,home,TRUE,UConn,75,Huskies,UConn Huskies,UConn
+401414519,2022,post-season,2022-03-26,4,84,away,TRUE,Indiana,58,Hoosiers,Indiana Hoosiers,Indiana
+401414520,2022,post-season,2022-03-26,4,97,home,TRUE,Louisville,76,Cardinals,Louisville Cardinals,Louisville
+401414520,2022,post-season,2022-03-26,4,2633,away,TRUE,Tennessee,64,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+401414530,2022,post-season,2022-03-26,4,130,home,TRUE,Michigan,52,Wolverines,Michigan Wolverines,Michigan
+401414530,2022,post-season,2022-03-26,4,233,away,TRUE,South Dakota,49,Coyotes,South Dakota Coyotes,South Dakota

@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320482612,2012-02-17,2,2612,home,FALSE,Saint Peter's,54,Peacocks,Saint Peter's Peacocks,Saint Peter's
-320482612,2012-02-17,2,2352,away,FALSE,Loyola Maryland,61,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-320482561,2012-02-17,2,2561,home,FALSE,Siena,61,Saints,Siena Saints,Siena
-320482561,2012-02-17,2,2363,away,FALSE,Manhattan,56,Jaspers,Manhattan Jaspers,Manhattan
-320482520,2012-02-17,2,2520,home,FALSE,Rider,80,Broncs,Rider Broncs,Rider
-320482520,2012-02-17,2,314,away,FALSE,Iona,76,Gaels,Iona Gaels,Iona
-320482099,2012-02-17,2,2099,home,FALSE,Canisius,52,Golden Griffins,Canisius Golden Griffins,Canisius
-320482099,2012-02-17,2,2368,away,FALSE,Marist,81,Red Foxes,Marist Red Foxes,Marist
-320480315,2012-02-17,2,315,home,FALSE,Niagara,50,Purple Eagles,Niagara Purple Eagles,Niagara
-320480315,2012-02-17,2,2217,away,FALSE,Fairfield,56,Stags,Fairfield Stags,Fairfield
-320480225,2012-02-17,2,225,home,FALSE,Brown,58,Bears,Brown Bears,Brown
-320480225,2012-02-17,2,108,away,FALSE,Harvard,55,Crimson,Harvard Crimson,Harvard
-320480172,2012-02-17,2,172,home,FALSE,Cornell,45,Big Red,Cornell Big Red,Cornell
-320480172,2012-02-17,2,219,away,FALSE,Pennsylvania,42,Quakers,Pennsylvania Quakers,Penn
-320480171,2012-02-17,2,171,home,FALSE,Columbia,46,Lions,Columbia Lions,Columbia
-320480171,2012-02-17,2,163,away,FALSE,Princeton,86,Tigers,Princeton Tigers,Princeton
-320480071,2012-02-17,2,71,home,FALSE,Bradley,75,Braves,Bradley Braves,Bradley
-320480071,2012-02-17,2,2460,away,FALSE,Northern Iowa,61,Panthers,Northern Iowa Panthers,Northern Iowa
-320480043,2012-02-17,2,43,home,FALSE,Yale,66,Bulldogs,Yale Bulldogs,Yale
-320480043,2012-02-17,2,159,away,FALSE,Dartmouth,48,Big Green,Dartmouth Big Green,Dartmouth
-320482724,2012-02-17,2,2724,home,FALSE,Wichita State,74,Shockers,Wichita State Shockers,Wichita St
-320482724,2012-02-17,2,79,away,FALSE,Southern Illinois,46,Salukis,Southern Illinois Salukis,S Illinois
-320482623,2012-02-17,2,2623,home,FALSE,Missouri State,76,Lady Bears,Missouri State Lady Bears,Missouri St
-320482623,2012-02-17,2,339,away,FALSE,Evansville,62,Purple Aces,Evansville Purple Aces,Evansville
-320482181,2012-02-17,2,2181,home,FALSE,Drake,60,Bulldogs,Drake Bulldogs,Drake
-320482181,2012-02-17,2,282,away,FALSE,Indiana State,43,Sycamores,Indiana State Sycamores,Indiana St
-320480156,2012-02-17,2,156,home,FALSE,Creighton,68,Bluejays,Creighton Bluejays,Creighton
-320480156,2012-02-17,2,2287,away,FALSE,Illinois State,59,Redbirds,Illinois State Redbirds,Illinois St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320482612,2012,regular-season,2012-02-17,2,2612,home,FALSE,Saint Peter's,54,Peacocks,Saint Peter's Peacocks,Saint Peter's
+320482612,2012,regular-season,2012-02-17,2,2352,away,FALSE,Loyola Maryland,61,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+320482561,2012,regular-season,2012-02-17,2,2561,home,FALSE,Siena,61,Saints,Siena Saints,Siena
+320482561,2012,regular-season,2012-02-17,2,2363,away,FALSE,Manhattan,56,Jaspers,Manhattan Jaspers,Manhattan
+320482520,2012,regular-season,2012-02-17,2,2520,home,FALSE,Rider,80,Broncs,Rider Broncs,Rider
+320482520,2012,regular-season,2012-02-17,2,314,away,FALSE,Iona,76,Gaels,Iona Gaels,Iona
+320482099,2012,regular-season,2012-02-17,2,2099,home,FALSE,Canisius,52,Golden Griffins,Canisius Golden Griffins,Canisius
+320482099,2012,regular-season,2012-02-17,2,2368,away,FALSE,Marist,81,Red Foxes,Marist Red Foxes,Marist
+320480315,2012,regular-season,2012-02-17,2,315,home,FALSE,Niagara,50,Purple Eagles,Niagara Purple Eagles,Niagara
+320480315,2012,regular-season,2012-02-17,2,2217,away,FALSE,Fairfield,56,Stags,Fairfield Stags,Fairfield
+320480225,2012,regular-season,2012-02-17,2,225,home,FALSE,Brown,58,Bears,Brown Bears,Brown
+320480225,2012,regular-season,2012-02-17,2,108,away,FALSE,Harvard,55,Crimson,Harvard Crimson,Harvard
+320480172,2012,regular-season,2012-02-17,2,172,home,FALSE,Cornell,45,Big Red,Cornell Big Red,Cornell
+320480172,2012,regular-season,2012-02-17,2,219,away,FALSE,Pennsylvania,42,Quakers,Pennsylvania Quakers,Penn
+320480171,2012,regular-season,2012-02-17,2,171,home,FALSE,Columbia,46,Lions,Columbia Lions,Columbia
+320480171,2012,regular-season,2012-02-17,2,163,away,FALSE,Princeton,86,Tigers,Princeton Tigers,Princeton
+320480071,2012,regular-season,2012-02-17,2,71,home,FALSE,Bradley,75,Braves,Bradley Braves,Bradley
+320480071,2012,regular-season,2012-02-17,2,2460,away,FALSE,Northern Iowa,61,Panthers,Northern Iowa Panthers,Northern Iowa
+320480043,2012,regular-season,2012-02-17,2,43,home,FALSE,Yale,66,Bulldogs,Yale Bulldogs,Yale
+320480043,2012,regular-season,2012-02-17,2,159,away,FALSE,Dartmouth,48,Big Green,Dartmouth Big Green,Dartmouth
+320482724,2012,regular-season,2012-02-17,2,2724,home,FALSE,Wichita State,74,Shockers,Wichita State Shockers,Wichita St
+320482724,2012,regular-season,2012-02-17,2,79,away,FALSE,Southern Illinois,46,Salukis,Southern Illinois Salukis,S Illinois
+320482623,2012,regular-season,2012-02-17,2,2623,home,FALSE,Missouri State,76,Lady Bears,Missouri State Lady Bears,Missouri St
+320482623,2012,regular-season,2012-02-17,2,339,away,FALSE,Evansville,62,Purple Aces,Evansville Purple Aces,Evansville
+320482181,2012,regular-season,2012-02-17,2,2181,home,FALSE,Drake,60,Bulldogs,Drake Bulldogs,Drake
+320482181,2012,regular-season,2012-02-17,2,282,away,FALSE,Indiana State,43,Sycamores,Indiana State Sycamores,Indiana St
+320480156,2012,regular-season,2012-02-17,2,156,home,FALSE,Creighton,68,Bluejays,Creighton Bluejays,Creighton
+320480156,2012,regular-season,2012-02-17,2,2287,away,FALSE,Illinois State,59,Redbirds,Illinois State Redbirds,Illinois St

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-233440147,2003-12-10,2,147,home,FALSE,Montana State,59,Bobcats,Montana State Bobcats,Montana St
-233440147,2003-12-10,2,201,away,FALSE,Oklahoma,90,Sooners,Oklahoma Sooners,Oklahoma
-233440045,2003-12-10,3,45,home,FALSE,George Washington,76,Revolutionaries,George Washington Revolutionaries,G Washington
-233440045,2003-12-10,3,103,away,FALSE,Boston College,75,Eagles,Boston College Eagles,Boston College
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+233440147,2004,regular-season,2003-12-10,2,147,home,FALSE,Montana State,59,Bobcats,Montana State Bobcats,Montana St
+233440147,2004,regular-season,2003-12-10,2,201,away,FALSE,Oklahoma,90,Sooners,Oklahoma Sooners,Oklahoma
+233440045,2004,regular-season,2003-12-10,3,45,home,FALSE,George Washington,76,Revolutionaries,George Washington Revolutionaries,G Washington
+233440045,2004,regular-season,2003-12-10,3,103,away,FALSE,Boston College,75,Eagles,Boston College Eagles,Boston College

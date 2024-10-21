@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401603325,2024-01-27,4,2306,home,FALSE,Kansas State,67,Wildcats,Kansas State Wildcats,Kansas St
-401603325,2024-01-27,4,252,away,FALSE,BYU,65,Cougars,BYU Cougars,BYU
-401601555,2024-01-27,4,2294,home,FALSE,Iowa,92,Hawkeyes,Iowa Hawkeyes,Iowa
-401601555,2024-01-27,4,158,away,FALSE,Nebraska,73,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401584564,2024-01-27,4,41,home,FALSE,UConn,67,Huskies,UConn Huskies,UConn
-401584564,2024-01-27,4,87,away,FALSE,Notre Dame,82,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401603326,2024-01-27,4,251,home,FALSE,Texas,67,Longhorns,Texas Longhorns,Texas
-401603326,2024-01-27,4,2132,away,FALSE,Cincinnati,50,Bearcats,Cincinnati Bearcats,Cincinnati
-401589563,2024-01-27,4,2539,home,FALSE,San Francisco,54,Dons,San Francisco Dons,San Francisco
-401589563,2024-01-27,4,2250,away,FALSE,Gonzaga,73,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401603328,2024-01-27,4,277,home,FALSE,West Virginia,84,Mountaineers,West Virginia Mountaineers,West Virginia
-401603328,2024-01-27,4,66,away,FALSE,Iowa State,78,Cyclones,Iowa State Cyclones,Iowa State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401603325,2024,regular-season,2024-01-27,4,2306,home,FALSE,Kansas State,67,Wildcats,Kansas State Wildcats,Kansas St
+401603325,2024,regular-season,2024-01-27,4,252,away,FALSE,BYU,65,Cougars,BYU Cougars,BYU
+401601555,2024,regular-season,2024-01-27,4,2294,home,FALSE,Iowa,92,Hawkeyes,Iowa Hawkeyes,Iowa
+401601555,2024,regular-season,2024-01-27,4,158,away,FALSE,Nebraska,73,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401584564,2024,regular-season,2024-01-27,4,41,home,FALSE,UConn,67,Huskies,UConn Huskies,UConn
+401584564,2024,regular-season,2024-01-27,4,87,away,FALSE,Notre Dame,82,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401603326,2024,regular-season,2024-01-27,4,251,home,FALSE,Texas,67,Longhorns,Texas Longhorns,Texas
+401603326,2024,regular-season,2024-01-27,4,2132,away,FALSE,Cincinnati,50,Bearcats,Cincinnati Bearcats,Cincinnati
+401589563,2024,regular-season,2024-01-27,4,2539,home,FALSE,San Francisco,54,Dons,San Francisco Dons,San Francisco
+401589563,2024,regular-season,2024-01-27,4,2250,away,FALSE,Gonzaga,73,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401603328,2024,regular-season,2024-01-27,4,277,home,FALSE,West Virginia,84,Mountaineers,West Virginia Mountaineers,West Virginia
+401603328,2024,regular-season,2024-01-27,4,66,away,FALSE,Iowa State,78,Cyclones,Iowa State Cyclones,Iowa State

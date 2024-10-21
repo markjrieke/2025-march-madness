@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220150197,2002-01-15,2,197,home,FALSE,Oklahoma State,61,Cowboys,Oklahoma State Cowboys,Oklahoma St
-220150197,2002-01-15,2,2305,away,FALSE,Kansas,79,Jayhawks,Kansas Jayhawks,Kansas
-220150258,2002-01-15,2,258,home,FALSE,Virginia,86,Cavaliers,Virginia Cavaliers,Virginia
-220150258,2002-01-15,2,154,away,FALSE,Wake Forest,74,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-220150356,2002-01-15,2,356,home,FALSE,Illinois,77,Fighting Illini,Illinois Fighting Illini,Illinois
-220150356,2002-01-15,2,2294,away,FALSE,Iowa,66,Hawkeyes,Iowa Hawkeyes,Iowa
-220150096,2002-01-15,2,96,home,FALSE,Kentucky,87,Wildcats,Kentucky Wildcats,Kentucky
-220150096,2002-01-15,2,145,away,FALSE,Ole Miss,64,Rebels,Ole Miss Rebels,Ole Miss
-220152483,2002-01-15,2,2483,home,FALSE,Oregon,71,Ducks,Oregon Ducks,Oregon
-220152483,2002-01-15,2,2930,away,FALSE,Willamette,48,Bearcats,Willamette Bearcats,Willamette
-220152390,2002-01-15,4,2390,home,FALSE,Miami,76,Hurricanes,Miami Hurricanes,Miami
-220152390,2002-01-15,4,221,away,FALSE,Pittsburgh,69,Panthers,Pittsburgh Panthers,Pitt
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220150197,2002,regular-season,2002-01-15,2,197,home,FALSE,Oklahoma State,61,Cowboys,Oklahoma State Cowboys,Oklahoma St
+220150197,2002,regular-season,2002-01-15,2,2305,away,FALSE,Kansas,79,Jayhawks,Kansas Jayhawks,Kansas
+220150258,2002,regular-season,2002-01-15,2,258,home,FALSE,Virginia,86,Cavaliers,Virginia Cavaliers,Virginia
+220150258,2002,regular-season,2002-01-15,2,154,away,FALSE,Wake Forest,74,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+220150356,2002,regular-season,2002-01-15,2,356,home,FALSE,Illinois,77,Fighting Illini,Illinois Fighting Illini,Illinois
+220150356,2002,regular-season,2002-01-15,2,2294,away,FALSE,Iowa,66,Hawkeyes,Iowa Hawkeyes,Iowa
+220150096,2002,regular-season,2002-01-15,2,96,home,FALSE,Kentucky,87,Wildcats,Kentucky Wildcats,Kentucky
+220150096,2002,regular-season,2002-01-15,2,145,away,FALSE,Ole Miss,64,Rebels,Ole Miss Rebels,Ole Miss
+220152483,2002,regular-season,2002-01-15,2,2483,home,FALSE,Oregon,71,Ducks,Oregon Ducks,Oregon
+220152483,2002,regular-season,2002-01-15,2,2930,away,FALSE,Willamette,48,Bearcats,Willamette Bearcats,Willamette
+220152390,2002,regular-season,2002-01-15,4,2390,home,FALSE,Miami,76,Hurricanes,Miami Hurricanes,Miami
+220152390,2002,regular-season,2002-01-15,4,221,away,FALSE,Pittsburgh,69,Panthers,Pittsburgh Panthers,Pitt

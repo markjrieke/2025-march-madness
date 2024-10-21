@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400913969,2017-02-03,4,24,home,FALSE,Stanford,58,Cardinal,Stanford Cardinal,Stanford
-400913969,2017-02-03,4,30,away,FALSE,USC,42,Trojans,USC Trojans,USC
-400913970,2017-02-03,4,254,home,FALSE,Utah,53,Utes,Utah Utes,Utah
-400913970,2017-02-03,4,264,away,FALSE,Washington,82,Huskies,Washington Huskies,Washington
-400913971,2017-02-03,4,9,home,FALSE,Arizona State,45,Sun Devils,Arizona State Sun Devils,Arizona St
-400913971,2017-02-03,4,204,away,FALSE,Oregon State,54,Beavers,Oregon State Beavers,Oregon St
-400913972,2017-02-03,4,25,home,FALSE,California,80,Golden Bears,California Golden Bears,California
-400913972,2017-02-03,4,26,away,FALSE,UCLA,77,Bruins,UCLA Bruins,UCLA
-400911378,2017-02-03,4,305,home,FALSE,DePaul,54,Blue Demons,DePaul Blue Demons,DePaul
-400911378,2017-02-03,4,2599,away,FALSE,St. John's,51,Red Storm,St. John's Red Storm,St John's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400913969,2017,regular-season,2017-02-03,4,24,home,FALSE,Stanford,58,Cardinal,Stanford Cardinal,Stanford
+400913969,2017,regular-season,2017-02-03,4,30,away,FALSE,USC,42,Trojans,USC Trojans,USC
+400913970,2017,regular-season,2017-02-03,4,254,home,FALSE,Utah,53,Utes,Utah Utes,Utah
+400913970,2017,regular-season,2017-02-03,4,264,away,FALSE,Washington,82,Huskies,Washington Huskies,Washington
+400913971,2017,regular-season,2017-02-03,4,9,home,FALSE,Arizona State,45,Sun Devils,Arizona State Sun Devils,Arizona St
+400913971,2017,regular-season,2017-02-03,4,204,away,FALSE,Oregon State,54,Beavers,Oregon State Beavers,Oregon St
+400913972,2017,regular-season,2017-02-03,4,25,home,FALSE,California,80,Golden Bears,California Golden Bears,California
+400913972,2017,regular-season,2017-02-03,4,26,away,FALSE,UCLA,77,Bruins,UCLA Bruins,UCLA
+400911378,2017,regular-season,2017-02-03,4,305,home,FALSE,DePaul,54,Blue Demons,DePaul Blue Demons,DePaul
+400911378,2017,regular-season,2017-02-03,4,2599,away,FALSE,St. John's,51,Red Storm,St. John's Red Storm,St John's

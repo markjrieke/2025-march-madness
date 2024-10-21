@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313360183,2011-12-02,2,183,home,FALSE,Syracuse,72,Orange,Syracuse Orange,Syracuse
-313360183,2011-12-02,2,57,away,FALSE,Florida,68,Gators,Florida Gators,Florida
-313360097,2011-12-02,3,97,home,FALSE,Louisville,62,Cardinals,Louisville Cardinals,Louisville
-313360097,2011-12-02,3,238,away,FALSE,Vanderbilt,60,Commodores,Vanderbilt Commodores,Vanderbilt
-313360142,2011-12-02,2,142,home,FALSE,Missouri,90,Tigers,Missouri Tigers,Missouri
-313360142,2011-12-02,2,2466,away,FALSE,Northwestern State,56,Demons,Northwestern State Demons,N'Western St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313360183,2012,regular-season,2011-12-02,2,183,home,FALSE,Syracuse,72,Orange,Syracuse Orange,Syracuse
+313360183,2012,regular-season,2011-12-02,2,57,away,FALSE,Florida,68,Gators,Florida Gators,Florida
+313360097,2012,regular-season,2011-12-02,3,97,home,FALSE,Louisville,62,Cardinals,Louisville Cardinals,Louisville
+313360097,2012,regular-season,2011-12-02,3,238,away,FALSE,Vanderbilt,60,Commodores,Vanderbilt Commodores,Vanderbilt
+313360142,2012,regular-season,2011-12-02,2,142,home,FALSE,Missouri,90,Tigers,Missouri Tigers,Missouri
+313360142,2012,regular-season,2011-12-02,2,2466,away,FALSE,Northwestern State,56,Demons,Northwestern State Demons,N'Western St

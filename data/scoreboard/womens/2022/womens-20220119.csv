@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401368061,2022-01-19,4,66,home,FALSE,Iowa State,48,Cyclones,Iowa State Cyclones,Iowa State
-401368061,2022-01-19,4,251,away,FALSE,Texas,66,Longhorns,Texas Longhorns,Texas
-401368059,2022-01-19,4,277,home,FALSE,West Virginia,76,Mountaineers,West Virginia Mountaineers,West Virginia
-401368059,2022-01-19,4,201,away,FALSE,Oklahoma,88,Sooners,Oklahoma Sooners,Oklahoma
-401368060,2022-01-19,4,239,home,FALSE,Baylor,67,Bears,Baylor Bears,Baylor
-401368060,2022-01-19,4,197,away,FALSE,Oklahoma State,49,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-401373969,2022-01-19,4,56,home,FALSE,Stetson,41,Hatters,Stetson Hatters,Stetson
-401373969,2022-01-19,4,526,away,FALSE,Florida Gulf Coast,78,Eagles,Florida Gulf Coast Eagles,FGCU
-401364528,2022-01-19,0,84,home,FALSE,Indiana,0,Hoosiers,Indiana Hoosiers,Indiana
-401364528,2022-01-19,0,127,away,FALSE,Michigan State,0,Spartans,Michigan State Spartans,Michigan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401368061,2022,regular-season,2022-01-19,4,66,home,FALSE,Iowa State,48,Cyclones,Iowa State Cyclones,Iowa State
+401368061,2022,regular-season,2022-01-19,4,251,away,FALSE,Texas,66,Longhorns,Texas Longhorns,Texas
+401368059,2022,regular-season,2022-01-19,4,277,home,FALSE,West Virginia,76,Mountaineers,West Virginia Mountaineers,West Virginia
+401368059,2022,regular-season,2022-01-19,4,201,away,FALSE,Oklahoma,88,Sooners,Oklahoma Sooners,Oklahoma
+401368060,2022,regular-season,2022-01-19,4,239,home,FALSE,Baylor,67,Bears,Baylor Bears,Baylor
+401368060,2022,regular-season,2022-01-19,4,197,away,FALSE,Oklahoma State,49,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+401373969,2022,regular-season,2022-01-19,4,56,home,FALSE,Stetson,41,Hatters,Stetson Hatters,Stetson
+401373969,2022,regular-season,2022-01-19,4,526,away,FALSE,Florida Gulf Coast,78,Eagles,Florida Gulf Coast Eagles,FGCU
+401364528,2022,regular-season,2022-01-19,0,84,home,FALSE,Indiana,0,Hoosiers,Indiana Hoosiers,Indiana
+401364528,2022,regular-season,2022-01-19,0,127,away,FALSE,Michigan State,0,Spartans,Michigan State Spartans,Michigan St

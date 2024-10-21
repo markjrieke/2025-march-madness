@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400787679,2015-03-29,2,2579,home,TRUE,South Carolina,80,Gamecocks,South Carolina Gamecocks,South Carolina
-400787679,2015-03-29,2,52,away,TRUE,Florida State,74,Seminoles,Florida State Seminoles,Florida St
-400787683,2015-03-29,2,87,home,TRUE,Notre Dame,77,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400787683,2015-03-29,2,239,away,TRUE,Baylor,68,Bears,Baylor Bears,Baylor
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400787679,2015,post-season,2015-03-29,2,2579,home,TRUE,South Carolina,80,Gamecocks,South Carolina Gamecocks,South Carolina
+400787679,2015,post-season,2015-03-29,2,52,away,TRUE,Florida State,74,Seminoles,Florida State Seminoles,Florida St
+400787683,2015,post-season,2015-03-29,2,87,home,TRUE,Notre Dame,77,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400787683,2015,post-season,2015-03-29,2,239,away,TRUE,Baylor,68,Bears,Baylor Bears,Baylor

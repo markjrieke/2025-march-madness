@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400910687,2016-12-07,2,96,home,FALSE,Kentucky,87,Wildcats,Kentucky Wildcats,Kentucky
-400910687,2016-12-07,2,2674,away,FALSE,Valparaiso,63,Beacons,Valparaiso Beacons,Valparaiso
-400915298,2016-12-07,2,153,home,FALSE,North Carolina,83,Tar Heels,North Carolina Tar Heels,North Carolina
-400915298,2016-12-07,2,2166,away,FALSE,Davidson,74,Wildcats,Davidson Wildcats,Davidson
-400915554,2016-12-07,2,2250,home,FALSE,Gonzaga,98,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400915554,2016-12-07,2,264,away,FALSE,Washington,71,Huskies,Washington Huskies,Washington
-400915107,2016-12-07,2,158,home,FALSE,Nebraska,62,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400915107,2016-12-07,2,156,away,FALSE,Creighton,77,Bluejays,Creighton Bluejays,Creighton
-400915295,2016-12-07,2,97,home,FALSE,Louisville,74,Cardinals,Louisville Cardinals,Louisville
-400915295,2016-12-07,2,79,away,FALSE,Southern Illinois,51,Salukis,Southern Illinois Salukis,S Illinois
-400915555,2016-12-07,2,38,home,FALSE,Colorado,68,Buffaloes,Colorado Buffaloes,Colorado
-400915555,2016-12-07,2,2752,away,FALSE,Xavier,66,Musketeers,Xavier Musketeers,Xavier
-400916164,2016-12-07,2,277,home,TRUE,West Virginia,90,Mountaineers,West Virginia Mountaineers,West Virginia
-400916164,2016-12-07,2,2717,away,TRUE,Western Carolina,37,Catamounts,Western Carolina Catamounts,W Carolina
-400918211,2016-12-07,2,282,home,FALSE,Indiana State,72,Sycamores,Indiana State Sycamores,Indiana St
-400918211,2016-12-07,2,2086,away,FALSE,Butler,71,Bulldogs,Butler Bulldogs,Butler
-400914927,2016-12-07,2,275,home,FALSE,Wisconsin,78,Badgers,Wisconsin Badgers,Wisconsin
-400914927,2016-12-07,2,304,away,FALSE,Idaho State,44,Bengals,Idaho State Bengals,Idaho St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400910687,2017,regular-season,2016-12-07,2,96,home,FALSE,Kentucky,87,Wildcats,Kentucky Wildcats,Kentucky
+400910687,2017,regular-season,2016-12-07,2,2674,away,FALSE,Valparaiso,63,Beacons,Valparaiso Beacons,Valparaiso
+400915298,2017,regular-season,2016-12-07,2,153,home,FALSE,North Carolina,83,Tar Heels,North Carolina Tar Heels,North Carolina
+400915298,2017,regular-season,2016-12-07,2,2166,away,FALSE,Davidson,74,Wildcats,Davidson Wildcats,Davidson
+400915554,2017,regular-season,2016-12-07,2,2250,home,FALSE,Gonzaga,98,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400915554,2017,regular-season,2016-12-07,2,264,away,FALSE,Washington,71,Huskies,Washington Huskies,Washington
+400915107,2017,regular-season,2016-12-07,2,158,home,FALSE,Nebraska,62,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400915107,2017,regular-season,2016-12-07,2,156,away,FALSE,Creighton,77,Bluejays,Creighton Bluejays,Creighton
+400915295,2017,regular-season,2016-12-07,2,97,home,FALSE,Louisville,74,Cardinals,Louisville Cardinals,Louisville
+400915295,2017,regular-season,2016-12-07,2,79,away,FALSE,Southern Illinois,51,Salukis,Southern Illinois Salukis,S Illinois
+400915555,2017,regular-season,2016-12-07,2,38,home,FALSE,Colorado,68,Buffaloes,Colorado Buffaloes,Colorado
+400915555,2017,regular-season,2016-12-07,2,2752,away,FALSE,Xavier,66,Musketeers,Xavier Musketeers,Xavier
+400916164,2017,regular-season,2016-12-07,2,277,home,TRUE,West Virginia,90,Mountaineers,West Virginia Mountaineers,West Virginia
+400916164,2017,regular-season,2016-12-07,2,2717,away,TRUE,Western Carolina,37,Catamounts,Western Carolina Catamounts,W Carolina
+400918211,2017,regular-season,2016-12-07,2,282,home,FALSE,Indiana State,72,Sycamores,Indiana State Sycamores,Indiana St
+400918211,2017,regular-season,2016-12-07,2,2086,away,FALSE,Butler,71,Bulldogs,Butler Bulldogs,Butler
+400914927,2017,regular-season,2016-12-07,2,275,home,FALSE,Wisconsin,78,Badgers,Wisconsin Badgers,Wisconsin
+400914927,2017,regular-season,2016-12-07,2,304,away,FALSE,Idaho State,44,Bengals,Idaho State Bengals,Idaho St

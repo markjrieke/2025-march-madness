@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263330221,2006-11-29,2,221,home,FALSE,Pittsburgh,67,Panthers,Pittsburgh Panthers,Pitt
-263330221,2006-11-29,2,2523,away,FALSE,Robert Morris,53,Colonials,Robert Morris Colonials,Robert Morris
-263330153,2006-11-29,2,153,home,FALSE,North Carolina,98,Tar Heels,North Carolina Tar Heels,North Carolina
-263330153,2006-11-29,2,194,away,FALSE,Ohio State,89,Buckeyes,Ohio State Buckeyes,Ohio State
-263330099,2006-11-29,2,99,home,FALSE,LSU,91,Tigers,LSU Tigers,LSU
-263330099,2006-11-29,2,2377,away,FALSE,McNeese,57,Cowboys,McNeese Cowboys,McNeese
-263330264,2006-11-29,2,264,home,FALSE,Washington,87,Huskies,Washington Huskies,Washington
-263330264,2006-11-29,2,70,away,FALSE,Idaho,66,Vandals,Idaho Vandals,Idaho
-263330235,2006-11-29,2,235,home,FALSE,Memphis,86,Tigers,Memphis Tigers,Memphis
-263330235,2006-11-29,2,2032,away,FALSE,Arkansas State,60,Red Wolves,Arkansas State Red Wolves,Arkansas St
-263332724,2006-11-29,2,2724,home,FALSE,Wichita State,85,Shockers,Wichita State Shockers,Wichita St
-263332724,2006-11-29,2,140,away,FALSE,Kansas City,55,Roos,Kansas City Roos,Kansas City
-263330046,2006-11-29,2,46,home,FALSE,Georgetown,50,Hoyas,Georgetown Hoyas,Georgetown
-263330046,2006-11-29,2,2483,away,FALSE,Oregon,57,Ducks,Oregon Ducks,Oregon
-263332674,2006-11-29,2,2674,home,FALSE,Valparaiso,47,Beacons,Valparaiso Beacons,Valparaiso
-263332674,2006-11-29,2,2086,away,FALSE,Butler,60,Bulldogs,Butler Bulldogs,Butler
-263330041,2006-11-29,2,41,home,FALSE,UConn,89,Huskies,UConn Huskies,UConn
-263330041,2006-11-29,2,2529,away,FALSE,Sacred Heart,46,Pioneers,Sacred Heart Pioneers,Sacred Heart
-263330309,2006-11-29,2,309,home,FALSE,Louisiana,74,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
-263330309,2006-11-29,2,2440,away,FALSE,Nevada,86,Wolf Pack,Nevada Wolf Pack,Nevada
-263332509,2006-11-29,2,2509,home,FALSE,Purdue,61,Boilermakers,Purdue Boilermakers,Purdue
-263332509,2006-11-29,2,258,away,FALSE,Virginia,59,Cavaliers,Virginia Cavaliers,Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263330221,2007,regular-season,2006-11-29,2,221,home,FALSE,Pittsburgh,67,Panthers,Pittsburgh Panthers,Pitt
+263330221,2007,regular-season,2006-11-29,2,2523,away,FALSE,Robert Morris,53,Colonials,Robert Morris Colonials,Robert Morris
+263330153,2007,regular-season,2006-11-29,2,153,home,FALSE,North Carolina,98,Tar Heels,North Carolina Tar Heels,North Carolina
+263330153,2007,regular-season,2006-11-29,2,194,away,FALSE,Ohio State,89,Buckeyes,Ohio State Buckeyes,Ohio State
+263330099,2007,regular-season,2006-11-29,2,99,home,FALSE,LSU,91,Tigers,LSU Tigers,LSU
+263330099,2007,regular-season,2006-11-29,2,2377,away,FALSE,McNeese,57,Cowboys,McNeese Cowboys,McNeese
+263330264,2007,regular-season,2006-11-29,2,264,home,FALSE,Washington,87,Huskies,Washington Huskies,Washington
+263330264,2007,regular-season,2006-11-29,2,70,away,FALSE,Idaho,66,Vandals,Idaho Vandals,Idaho
+263330235,2007,regular-season,2006-11-29,2,235,home,FALSE,Memphis,86,Tigers,Memphis Tigers,Memphis
+263330235,2007,regular-season,2006-11-29,2,2032,away,FALSE,Arkansas State,60,Red Wolves,Arkansas State Red Wolves,Arkansas St
+263332724,2007,regular-season,2006-11-29,2,2724,home,FALSE,Wichita State,85,Shockers,Wichita State Shockers,Wichita St
+263332724,2007,regular-season,2006-11-29,2,140,away,FALSE,Kansas City,55,Roos,Kansas City Roos,Kansas City
+263330046,2007,regular-season,2006-11-29,2,46,home,FALSE,Georgetown,50,Hoyas,Georgetown Hoyas,Georgetown
+263330046,2007,regular-season,2006-11-29,2,2483,away,FALSE,Oregon,57,Ducks,Oregon Ducks,Oregon
+263332674,2007,regular-season,2006-11-29,2,2674,home,FALSE,Valparaiso,47,Beacons,Valparaiso Beacons,Valparaiso
+263332674,2007,regular-season,2006-11-29,2,2086,away,FALSE,Butler,60,Bulldogs,Butler Bulldogs,Butler
+263330041,2007,regular-season,2006-11-29,2,41,home,FALSE,UConn,89,Huskies,UConn Huskies,UConn
+263330041,2007,regular-season,2006-11-29,2,2529,away,FALSE,Sacred Heart,46,Pioneers,Sacred Heart Pioneers,Sacred Heart
+263330309,2007,regular-season,2006-11-29,2,309,home,FALSE,Louisiana,74,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+263330309,2007,regular-season,2006-11-29,2,2440,away,FALSE,Nevada,86,Wolf Pack,Nevada Wolf Pack,Nevada
+263332509,2007,regular-season,2006-11-29,2,2509,home,FALSE,Purdue,61,Boilermakers,Purdue Boilermakers,Purdue
+263332509,2007,regular-season,2006-11-29,2,258,away,FALSE,Virginia,59,Cavaliers,Virginia Cavaliers,Virginia

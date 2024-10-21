@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401172692,2020-02-14,2,2649,home,FALSE,Toledo,67,Rockets,Toledo Rockets,Toledo
-401172692,2020-02-14,2,2084,away,FALSE,Buffalo,83,Bulls,Buffalo Bulls,Buffalo
-401174456,2020-02-14,2,94,home,FALSE,Northern Kentucky,84,Norse,Northern Kentucky Norse,N Kentucky
-401174456,2020-02-14,2,85,away,FALSE,IU Indianapolis,70,Jaguars,IU Indianapolis Jaguars,IU Indy
-401172690,2020-02-14,2,2117,home,FALSE,Central Michigan,67,Chippewas,Central Michigan Chippewas,C Michigan
-401172690,2020-02-14,2,2006,away,FALSE,Akron,80,Zips,Akron Zips,Akron
-401172345,2020-02-14,2,163,home,FALSE,Princeton,64,Tigers,Princeton Tigers,Princeton
-401172345,2020-02-14,2,43,away,FALSE,Yale,88,Bulldogs,Yale Bulldogs,Yale
-401172305,2020-02-14,2,108,home,FALSE,Harvard,85,Crimson,Harvard Crimson,Harvard
-401172305,2020-02-14,2,172,away,FALSE,Cornell,63,Big Red,Cornell Big Red,Cornell
-401172288,2020-02-14,2,159,home,FALSE,Dartmouth,65,Big Green,Dartmouth Big Green,Dartmouth
-401172288,2020-02-14,2,171,away,FALSE,Columbia,63,Lions,Columbia Lions,Columbia
-401172270,2020-02-14,2,219,home,FALSE,Pennsylvania,63,Quakers,Pennsylvania Quakers,Penn
-401172270,2020-02-14,2,225,away,FALSE,Brown,75,Bears,Brown Bears,Brown
-401172068,2020-02-14,2,2612,home,FALSE,Saint Peter's,84,Peacocks,Saint Peter's Peacocks,Saint Peter's
-401172068,2020-02-14,2,2514,away,FALSE,Quinnipiac,72,Bobcats,Quinnipiac Bobcats,Quinnipiac
-401171990,2020-02-14,2,314,home,FALSE,Iona,80,Gaels,Iona Gaels,Iona
-401171990,2020-02-14,2,2363,away,FALSE,Manhattan,57,Jaspers,Manhattan Jaspers,Manhattan
-401171970,2020-02-14,3,2368,home,FALSE,Marist,53,Red Foxes,Marist Red Foxes,Marist
-401171970,2020-02-14,3,2217,away,FALSE,Fairfield,57,Stags,Fairfield Stags,Fairfield
-401171947,2020-02-14,2,2099,home,FALSE,Canisius,71,Golden Griffins,Canisius Golden Griffins,Canisius
-401171947,2020-02-14,2,2405,away,FALSE,Monmouth,85,Hawks,Monmouth Hawks,Monmouth
-401170291,2020-02-14,2,179,home,FALSE,St. Bonaventure,64,Bonnies,St. Bonaventure Bonnies,St Bonaventure
-401170291,2020-02-14,2,2166,away,FALSE,Davidson,93,Wildcats,Davidson Wildcats,Davidson
-401175005,2020-02-14,2,2449,home,FALSE,North Dakota State,80,Bison,North Dakota State Bison,N Dakota St
-401175005,2020-02-14,2,2870,away,FALSE,Purdue Fort Wayne,70,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-401175004,2020-02-14,2,2571,home,FALSE,South Dakota State,90,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-401175004,2020-02-14,2,2172,away,FALSE,Denver,78,Pioneers,Denver Pioneers,Denver
-401174472,2020-02-14,2,2750,home,FALSE,Wright State,75,Raiders,Wright State Raiders,Wright St
-401174472,2020-02-14,2,82,away,FALSE,UIC,58,Flames,UIC Flames,UIC
-401172078,2020-02-14,2,2561,home,FALSE,Siena,73,Saints,Siena Saints,Siena
-401172078,2020-02-14,2,2520,away,FALSE,Rider,64,Broncs,Rider Broncs,Rider
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401172692,2020,regular-season,2020-02-14,2,2649,home,FALSE,Toledo,67,Rockets,Toledo Rockets,Toledo
+401172692,2020,regular-season,2020-02-14,2,2084,away,FALSE,Buffalo,83,Bulls,Buffalo Bulls,Buffalo
+401174456,2020,regular-season,2020-02-14,2,94,home,FALSE,Northern Kentucky,84,Norse,Northern Kentucky Norse,N Kentucky
+401174456,2020,regular-season,2020-02-14,2,85,away,FALSE,IU Indianapolis,70,Jaguars,IU Indianapolis Jaguars,IU Indy
+401172690,2020,regular-season,2020-02-14,2,2117,home,FALSE,Central Michigan,67,Chippewas,Central Michigan Chippewas,C Michigan
+401172690,2020,regular-season,2020-02-14,2,2006,away,FALSE,Akron,80,Zips,Akron Zips,Akron
+401172345,2020,regular-season,2020-02-14,2,163,home,FALSE,Princeton,64,Tigers,Princeton Tigers,Princeton
+401172345,2020,regular-season,2020-02-14,2,43,away,FALSE,Yale,88,Bulldogs,Yale Bulldogs,Yale
+401172305,2020,regular-season,2020-02-14,2,108,home,FALSE,Harvard,85,Crimson,Harvard Crimson,Harvard
+401172305,2020,regular-season,2020-02-14,2,172,away,FALSE,Cornell,63,Big Red,Cornell Big Red,Cornell
+401172288,2020,regular-season,2020-02-14,2,159,home,FALSE,Dartmouth,65,Big Green,Dartmouth Big Green,Dartmouth
+401172288,2020,regular-season,2020-02-14,2,171,away,FALSE,Columbia,63,Lions,Columbia Lions,Columbia
+401172270,2020,regular-season,2020-02-14,2,219,home,FALSE,Pennsylvania,63,Quakers,Pennsylvania Quakers,Penn
+401172270,2020,regular-season,2020-02-14,2,225,away,FALSE,Brown,75,Bears,Brown Bears,Brown
+401172068,2020,regular-season,2020-02-14,2,2612,home,FALSE,Saint Peter's,84,Peacocks,Saint Peter's Peacocks,Saint Peter's
+401172068,2020,regular-season,2020-02-14,2,2514,away,FALSE,Quinnipiac,72,Bobcats,Quinnipiac Bobcats,Quinnipiac
+401171990,2020,regular-season,2020-02-14,2,314,home,FALSE,Iona,80,Gaels,Iona Gaels,Iona
+401171990,2020,regular-season,2020-02-14,2,2363,away,FALSE,Manhattan,57,Jaspers,Manhattan Jaspers,Manhattan
+401171970,2020,regular-season,2020-02-14,3,2368,home,FALSE,Marist,53,Red Foxes,Marist Red Foxes,Marist
+401171970,2020,regular-season,2020-02-14,3,2217,away,FALSE,Fairfield,57,Stags,Fairfield Stags,Fairfield
+401171947,2020,regular-season,2020-02-14,2,2099,home,FALSE,Canisius,71,Golden Griffins,Canisius Golden Griffins,Canisius
+401171947,2020,regular-season,2020-02-14,2,2405,away,FALSE,Monmouth,85,Hawks,Monmouth Hawks,Monmouth
+401170291,2020,regular-season,2020-02-14,2,179,home,FALSE,St. Bonaventure,64,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+401170291,2020,regular-season,2020-02-14,2,2166,away,FALSE,Davidson,93,Wildcats,Davidson Wildcats,Davidson
+401175005,2020,regular-season,2020-02-14,2,2449,home,FALSE,North Dakota State,80,Bison,North Dakota State Bison,N Dakota St
+401175005,2020,regular-season,2020-02-14,2,2870,away,FALSE,Purdue Fort Wayne,70,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+401175004,2020,regular-season,2020-02-14,2,2571,home,FALSE,South Dakota State,90,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+401175004,2020,regular-season,2020-02-14,2,2172,away,FALSE,Denver,78,Pioneers,Denver Pioneers,Denver
+401174472,2020,regular-season,2020-02-14,2,2750,home,FALSE,Wright State,75,Raiders,Wright State Raiders,Wright St
+401174472,2020,regular-season,2020-02-14,2,82,away,FALSE,UIC,58,Flames,UIC Flames,UIC
+401172078,2020,regular-season,2020-02-14,2,2561,home,FALSE,Siena,73,Saints,Siena Saints,Siena
+401172078,2020,regular-season,2020-02-14,2,2520,away,FALSE,Rider,64,Broncs,Rider Broncs,Rider

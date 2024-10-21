@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401364412,2022-01-30,2,2509,home,FALSE,Purdue,81,Boilermakers,Purdue Boilermakers,Purdue
-401364412,2022-01-30,2,194,away,FALSE,Ohio State,78,Buckeyes,Ohio State Buckeyes,Ohio State
-401364411,2022-01-30,2,275,home,FALSE,Wisconsin,66,Badgers,Wisconsin Badgers,Wisconsin
-401364411,2022-01-30,2,135,away,FALSE,Minnesota,60,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401373567,2022-01-30,2,2507,home,FALSE,Providence,65,Friars,Providence Friars,Providence
-401373567,2022-01-30,2,269,away,FALSE,Marquette,63,Golden Eagles,Marquette Golden Eagles,Marquette
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401364412,2022,regular-season,2022-01-30,2,2509,home,FALSE,Purdue,81,Boilermakers,Purdue Boilermakers,Purdue
+401364412,2022,regular-season,2022-01-30,2,194,away,FALSE,Ohio State,78,Buckeyes,Ohio State Buckeyes,Ohio State
+401364411,2022,regular-season,2022-01-30,2,275,home,FALSE,Wisconsin,66,Badgers,Wisconsin Badgers,Wisconsin
+401364411,2022,regular-season,2022-01-30,2,135,away,FALSE,Minnesota,60,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401373567,2022,regular-season,2022-01-30,2,2507,home,FALSE,Providence,65,Friars,Providence Friars,Providence
+401373567,2022,regular-season,2022-01-30,2,269,away,FALSE,Marquette,63,Golden Eagles,Marquette Golden Eagles,Marquette

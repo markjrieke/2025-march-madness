@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401169256,2019-12-16,4,305,home,FALSE,DePaul,74,Blue Demons,DePaul Blue Demons,DePaul
-401169256,2019-12-16,4,41,away,FALSE,UConn,84,Huskies,UConn Huskies,UConn
-401177202,2019-12-16,4,2483,home,FALSE,Oregon,84,Ducks,Oregon Ducks,Oregon
-401177202,2019-12-16,4,27,away,FALSE,UC Riverside,41,Highlanders,UC Riverside Highlanders,UC Riverside
-401166775,2019-12-16,4,309,home,FALSE,Louisiana,48,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
-401166775,2019-12-16,4,344,away,FALSE,Mississippi State,64,Bulldogs,Mississippi State Bulldogs,Mississippi St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401169256,2020,regular-season,2019-12-16,4,305,home,FALSE,DePaul,74,Blue Demons,DePaul Blue Demons,DePaul
+401169256,2020,regular-season,2019-12-16,4,41,away,FALSE,UConn,84,Huskies,UConn Huskies,UConn
+401177202,2020,regular-season,2019-12-16,4,2483,home,FALSE,Oregon,84,Ducks,Oregon Ducks,Oregon
+401177202,2020,regular-season,2019-12-16,4,27,away,FALSE,UC Riverside,41,Highlanders,UC Riverside Highlanders,UC Riverside
+401166775,2020,regular-season,2019-12-16,4,309,home,FALSE,Louisiana,48,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+401166775,2020,regular-season,2019-12-16,4,344,away,FALSE,Mississippi State,64,Bulldogs,Mississippi State Bulldogs,Mississippi St

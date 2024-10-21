@@ -1,37 +1,37 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400843116,2016-01-11,4,116,home,FALSE,Mount St. Mary's,59,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-400843116,2016-01-11,4,2803,away,FALSE,Bryant,70,Bulldogs,Bryant Bulldogs,Bryant
-400845446,2016-01-11,4,2261,home,FALSE,Hampton,59,Lady Pirates,Hampton Lady Pirates,Hampton
-400845446,2016-01-11,4,50,away,FALSE,Florida A&M,66,Rattlers,Florida A&M Rattlers,Florida A&M
-400846972,2016-01-11,5,2379,home,FALSE,Maryland Eastern Shore,69,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-400846972,2016-01-11,5,2415,away,FALSE,Morgan State,77,Lady Bears,Morgan State Lady Bears,Morgan St
-400845418,2016-01-11,4,2569,home,FALSE,South Carolina State,54,Lady Bulldogs,South Carolina State Lady Bulldogs,SC State
-400845418,2016-01-11,4,2448,away,FALSE,North Carolina A&T,57,Aggies,North Carolina A&T Aggies,NC A&T
-400835366,2016-01-11,4,2169,home,FALSE,Delaware State,87,Hornets,Delaware State Hornets,Delaware St
-400835366,2016-01-11,4,47,away,FALSE,Howard,86,Bison,Howard Bison,Howard
-400846997,2016-01-11,4,2542,home,FALSE,Savannah State,57,Tigers,Savannah State Tigers,Savannah St
-400846997,2016-01-11,4,2428,away,FALSE,North Carolina Central,39,Eagles,North Carolina Central Eagles,NC Central
-400835344,2016-01-11,4,2450,home,FALSE,Norfolk State,45,Spartans,Norfolk State Spartans,Norfolk St
-400835344,2016-01-11,4,2065,away,FALSE,Bethune-Cookman,53,Wildcats,Bethune-Cookman Wildcats,Bethune
-400847990,2016-01-11,4,2016,home,FALSE,Alcorn State,76,Lady Braves,Alcorn State Lady Braves,Alcorn St
-400847990,2016-01-11,4,2755,away,FALSE,Grambling,85,Lady Tigers,Grambling Lady Tigers,Grambling
-400846831,2016-01-11,4,2010,home,FALSE,Alabama A&M,79,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
-400846831,2016-01-11,4,2400,away,FALSE,Mississippi Valley State,68,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
-400845622,2016-01-11,4,2011,home,FALSE,Alabama State,72,Lady Hornets,Alabama State Lady Hornets,Alabama St
-400845622,2016-01-11,4,2029,away,FALSE,Arkansas-Pine Bluff,63,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-400838978,2016-01-11,4,2110,home,FALSE,Central Arkansas,74,Sugar Bears,Central Arkansas Sugar Bears,C Arkansas
-400838978,2016-01-11,4,2320,away,FALSE,Lamar,49,Cardinals,Lamar Cardinals,Lamar
-400829754,2016-01-11,4,2582,home,FALSE,Southern,84,Jaguars,Southern Jaguars,Southern
-400829754,2016-01-11,4,2296,away,FALSE,Jackson State,57,Lady Tigers,Jackson State Lady Tigers,Jackson St
-400846899,2016-01-11,4,2529,home,FALSE,Sacred Heart,73,Pioneers,Sacred Heart Pioneers,Sacred Heart
-400846899,2016-01-11,4,2681,away,FALSE,Wagner,62,Seahawks,Wagner Seahawks,Wagner
-400844600,2016-01-11,4,2515,home,FALSE,Radford,62,Highlanders,Radford Highlanders,Radford
-400844600,2016-01-11,4,2097,away,FALSE,Campbell,59,Fighting Camels,Campbell Fighting Camels,Campbell
-400843940,2016-01-11,4,171,home,FALSE,Columbia,72,Lions,Columbia Lions,Columbia
-400843940,2016-01-11,4,2885,away,FALSE,NJIT,52,Highlanders,NJIT Highlanders,NJIT
-400843242,2016-01-11,4,2597,home,FALSE,St. Francis Brooklyn,76,Terriers,St. Francis Brooklyn Terriers,St Francis BK
-400843242,2016-01-11,4,2598,away,FALSE,St. Francis (PA),83,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-400843230,2016-01-11,4,2341,home,FALSE,LIU Brooklyn,49,Blackbirds,LIU Brooklyn Blackbirds,LIU Brooklyn
-400843230,2016-01-11,4,2523,away,FALSE,Robert Morris,52,Colonials,Robert Morris Colonials,Robert Morris
-400843145,2016-01-11,4,161,home,FALSE,Fairleigh Dickinson,75,Knights,Fairleigh Dickinson Knights,Fair Dickinson
-400843145,2016-01-11,4,2115,away,FALSE,Central Connecticut,78,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400843116,2016,regular-season,2016-01-11,4,116,home,FALSE,Mount St. Mary's,59,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+400843116,2016,regular-season,2016-01-11,4,2803,away,FALSE,Bryant,70,Bulldogs,Bryant Bulldogs,Bryant
+400845446,2016,regular-season,2016-01-11,4,2261,home,FALSE,Hampton,59,Lady Pirates,Hampton Lady Pirates,Hampton
+400845446,2016,regular-season,2016-01-11,4,50,away,FALSE,Florida A&M,66,Rattlers,Florida A&M Rattlers,Florida A&M
+400846972,2016,regular-season,2016-01-11,5,2379,home,FALSE,Maryland Eastern Shore,69,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+400846972,2016,regular-season,2016-01-11,5,2415,away,FALSE,Morgan State,77,Lady Bears,Morgan State Lady Bears,Morgan St
+400845418,2016,regular-season,2016-01-11,4,2569,home,FALSE,South Carolina State,54,Lady Bulldogs,South Carolina State Lady Bulldogs,SC State
+400845418,2016,regular-season,2016-01-11,4,2448,away,FALSE,North Carolina A&T,57,Aggies,North Carolina A&T Aggies,NC A&T
+400835366,2016,regular-season,2016-01-11,4,2169,home,FALSE,Delaware State,87,Hornets,Delaware State Hornets,Delaware St
+400835366,2016,regular-season,2016-01-11,4,47,away,FALSE,Howard,86,Bison,Howard Bison,Howard
+400846997,2016,regular-season,2016-01-11,4,2542,home,FALSE,Savannah State,57,Tigers,Savannah State Tigers,Savannah St
+400846997,2016,regular-season,2016-01-11,4,2428,away,FALSE,North Carolina Central,39,Eagles,North Carolina Central Eagles,NC Central
+400835344,2016,regular-season,2016-01-11,4,2450,home,FALSE,Norfolk State,45,Spartans,Norfolk State Spartans,Norfolk St
+400835344,2016,regular-season,2016-01-11,4,2065,away,FALSE,Bethune-Cookman,53,Wildcats,Bethune-Cookman Wildcats,Bethune
+400847990,2016,regular-season,2016-01-11,4,2016,home,FALSE,Alcorn State,76,Lady Braves,Alcorn State Lady Braves,Alcorn St
+400847990,2016,regular-season,2016-01-11,4,2755,away,FALSE,Grambling,85,Lady Tigers,Grambling Lady Tigers,Grambling
+400846831,2016,regular-season,2016-01-11,4,2010,home,FALSE,Alabama A&M,79,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+400846831,2016,regular-season,2016-01-11,4,2400,away,FALSE,Mississippi Valley State,68,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
+400845622,2016,regular-season,2016-01-11,4,2011,home,FALSE,Alabama State,72,Lady Hornets,Alabama State Lady Hornets,Alabama St
+400845622,2016,regular-season,2016-01-11,4,2029,away,FALSE,Arkansas-Pine Bluff,63,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+400838978,2016,regular-season,2016-01-11,4,2110,home,FALSE,Central Arkansas,74,Sugar Bears,Central Arkansas Sugar Bears,C Arkansas
+400838978,2016,regular-season,2016-01-11,4,2320,away,FALSE,Lamar,49,Cardinals,Lamar Cardinals,Lamar
+400829754,2016,regular-season,2016-01-11,4,2582,home,FALSE,Southern,84,Jaguars,Southern Jaguars,Southern
+400829754,2016,regular-season,2016-01-11,4,2296,away,FALSE,Jackson State,57,Lady Tigers,Jackson State Lady Tigers,Jackson St
+400846899,2016,regular-season,2016-01-11,4,2529,home,FALSE,Sacred Heart,73,Pioneers,Sacred Heart Pioneers,Sacred Heart
+400846899,2016,regular-season,2016-01-11,4,2681,away,FALSE,Wagner,62,Seahawks,Wagner Seahawks,Wagner
+400844600,2016,regular-season,2016-01-11,4,2515,home,FALSE,Radford,62,Highlanders,Radford Highlanders,Radford
+400844600,2016,regular-season,2016-01-11,4,2097,away,FALSE,Campbell,59,Fighting Camels,Campbell Fighting Camels,Campbell
+400843940,2016,regular-season,2016-01-11,4,171,home,FALSE,Columbia,72,Lions,Columbia Lions,Columbia
+400843940,2016,regular-season,2016-01-11,4,2885,away,FALSE,NJIT,52,Highlanders,NJIT Highlanders,NJIT
+400843242,2016,regular-season,2016-01-11,4,2597,home,FALSE,St. Francis Brooklyn,76,Terriers,St. Francis Brooklyn Terriers,St Francis BK
+400843242,2016,regular-season,2016-01-11,4,2598,away,FALSE,St. Francis (PA),83,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+400843230,2016,regular-season,2016-01-11,4,2341,home,FALSE,LIU Brooklyn,49,Blackbirds,LIU Brooklyn Blackbirds,LIU Brooklyn
+400843230,2016,regular-season,2016-01-11,4,2523,away,FALSE,Robert Morris,52,Colonials,Robert Morris Colonials,Robert Morris
+400843145,2016,regular-season,2016-01-11,4,161,home,FALSE,Fairleigh Dickinson,75,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+400843145,2016,regular-season,2016-01-11,4,2115,away,FALSE,Central Connecticut,78,Blue Devils,Central Connecticut Blue Devils,C Connecticut

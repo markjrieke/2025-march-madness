@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400916251,2017-02-21,2,239,home,FALSE,Baylor,60,Bears,Baylor Bears,Baylor
-400916251,2017-02-21,2,201,away,FALSE,Oklahoma,54,Sooners,Oklahoma Sooners,Oklahoma
-400910700,2017-02-21,2,142,home,FALSE,Missouri,62,Tigers,Missouri Tigers,Missouri
-400910700,2017-02-21,2,96,away,FALSE,Kentucky,72,Wildcats,Kentucky Wildcats,Kentucky
-400910654,2017-02-21,2,57,home,FALSE,Florida,81,Gators,Florida Gators,Florida
-400910654,2017-02-21,2,2579,away,FALSE,South Carolina,66,Gamecocks,South Carolina Gamecocks,South Carolina
-400915179,2017-02-21,3,213,home,FALSE,Penn State,70,Nittany Lions,Penn State Nittany Lions,Penn State
-400915179,2017-02-21,3,2509,away,FALSE,Purdue,74,Boilermakers,Purdue Boilermakers,Purdue
-400918130,2017-02-21,2,2724,home,FALSE,Wichita State,109,Shockers,Wichita State Shockers,Wichita St
-400918130,2017-02-21,2,339,away,FALSE,Evansville,83,Purple Aces,Evansville Purple Aces,Evansville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400916251,2017,regular-season,2017-02-21,2,239,home,FALSE,Baylor,60,Bears,Baylor Bears,Baylor
+400916251,2017,regular-season,2017-02-21,2,201,away,FALSE,Oklahoma,54,Sooners,Oklahoma Sooners,Oklahoma
+400910700,2017,regular-season,2017-02-21,2,142,home,FALSE,Missouri,62,Tigers,Missouri Tigers,Missouri
+400910700,2017,regular-season,2017-02-21,2,96,away,FALSE,Kentucky,72,Wildcats,Kentucky Wildcats,Kentucky
+400910654,2017,regular-season,2017-02-21,2,57,home,FALSE,Florida,81,Gators,Florida Gators,Florida
+400910654,2017,regular-season,2017-02-21,2,2579,away,FALSE,South Carolina,66,Gamecocks,South Carolina Gamecocks,South Carolina
+400915179,2017,regular-season,2017-02-21,3,213,home,FALSE,Penn State,70,Nittany Lions,Penn State Nittany Lions,Penn State
+400915179,2017,regular-season,2017-02-21,3,2509,away,FALSE,Purdue,74,Boilermakers,Purdue Boilermakers,Purdue
+400918130,2017,regular-season,2017-02-21,2,2724,home,FALSE,Wichita State,109,Shockers,Wichita State Shockers,Wichita St
+400918130,2017,regular-season,2017-02-21,2,339,away,FALSE,Evansville,83,Purple Aces,Evansville Purple Aces,Evansville

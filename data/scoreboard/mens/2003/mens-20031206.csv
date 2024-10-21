@@ -1,37 +1,37 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-233400024,2003-12-06,2,24,home,FALSE,Stanford,64,Cardinal,Stanford Cardinal,Stanford
-233400024,2003-12-06,2,2305,away,FALSE,Kansas,58,Jayhawks,Kansas Jayhawks,Kansas
-233400057,2003-12-06,2,57,home,FALSE,Florida,74,Gators,Florida Gators,Florida
-233400057,2003-12-06,2,56,away,FALSE,Stetson,61,Hatters,Stetson Hatters,Stetson
-233400041,2003-12-06,2,41,home,FALSE,UConn,74,Huskies,UConn Huskies,UConn
-233400041,2003-12-06,2,349,away,FALSE,Army,46,Black Knights,Army Black Knights,Army
-233400084,2003-12-06,2,84,home,FALSE,Indiana,58,Hoosiers,Indiana Hoosiers,Indiana
-233400084,2003-12-06,2,142,away,FALSE,Missouri,63,Tigers,Missouri Tigers,Missouri
-233400127,2003-12-06,3,127,home,FALSE,Michigan State,77,Spartans,Michigan State Spartans,Michigan St
-233400127,2003-12-06,3,201,away,FALSE,Oklahoma,80,Sooners,Oklahoma Sooners,Oklahoma
-233400150,2003-12-06,2,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
-233400150,2003-12-06,2,2599,away,FALSE,St. John's,58,Red Storm,St. John's Red Storm,St John's
-233400139,2003-12-06,2,139,home,FALSE,Saint Louis,67,Billikens,Saint Louis Billikens,Saint Louis
-233400139,2003-12-06,2,12,away,FALSE,Arizona,68,Wildcats,Arizona Wildcats,Arizona
-233400026,2003-12-06,2,26,home,FALSE,UCLA,50,Bruins,UCLA Bruins,UCLA
-233400026,2003-12-06,2,96,away,FALSE,Kentucky,52,Wildcats,Kentucky Wildcats,Kentucky
-233400356,2003-12-06,2,356,home,FALSE,Illinois,84,Fighting Illini,Illinois Fighting Illini,Illinois
-233400356,2003-12-06,2,8,away,FALSE,Arkansas,61,Razorbacks,Arkansas Razorbacks,Arkansas
-233400219,2003-12-06,2,219,home,FALSE,Pennsylvania,59,Quakers,Pennsylvania Quakers,Penn
-233400219,2003-12-06,2,2603,away,FALSE,Saint Joseph's,67,Hawks,Saint Joseph's Hawks,Saint Joseph's
-233400059,2003-12-06,2,59,home,FALSE,Georgia Tech,94,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-233400059,2003-12-06,2,2634,away,FALSE,Tennessee State,43,Tigers,Tennessee State Tigers,Tennessee St
-233400275,2003-12-06,2,275,home,FALSE,Wisconsin,68,Badgers,Wisconsin Badgers,Wisconsin
-233400275,2003-12-06,2,2174,away,FALSE,Detroit Mercy,42,Titans,Detroit Mercy Titans,Detroit Mercy
-233400120,2003-12-06,2,120,home,FALSE,Maryland,68,Terrapins,Maryland Terrapins,Maryland
-233400120,2003-12-06,2,2250,away,FALSE,Gonzaga,82,Bulldogs,Gonzaga Bulldogs,Gonzaga
-233400154,2003-12-06,2,154,home,FALSE,Wake Forest,81,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-233400154,2003-12-06,2,257,away,FALSE,Richmond,66,Spiders,Richmond Spiders,Richmond
-233402509,2003-12-06,2,2509,home,FALSE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
-233402509,2003-12-06,2,2130,away,FALSE,Chicago State,57,Cougars,Chicago State Cougars,Chicago St
-233400221,2003-12-06,2,221,home,FALSE,Pittsburgh,64,Panthers,Pittsburgh Panthers,Pitt
-233400221,2003-12-06,2,213,away,FALSE,Penn State,37,Nittany Lions,Penn State Nittany Lions,Penn State
-233400087,2003-12-06,2,87,home,FALSE,Notre Dame,68,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-233400087,2003-12-06,2,2117,away,FALSE,Central Michigan,69,Chippewas,Central Michigan Chippewas,C Michigan
-233400252,2003-12-06,2,252,home,FALSE,BYU,76,Cougars,BYU Cougars,BYU
-233400252,2003-12-06,2,197,away,FALSE,Oklahoma State,71,Cowboys,Oklahoma State Cowboys,Oklahoma St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+233400024,2004,regular-season,2003-12-06,2,24,home,FALSE,Stanford,64,Cardinal,Stanford Cardinal,Stanford
+233400024,2004,regular-season,2003-12-06,2,2305,away,FALSE,Kansas,58,Jayhawks,Kansas Jayhawks,Kansas
+233400057,2004,regular-season,2003-12-06,2,57,home,FALSE,Florida,74,Gators,Florida Gators,Florida
+233400057,2004,regular-season,2003-12-06,2,56,away,FALSE,Stetson,61,Hatters,Stetson Hatters,Stetson
+233400041,2004,regular-season,2003-12-06,2,41,home,FALSE,UConn,74,Huskies,UConn Huskies,UConn
+233400041,2004,regular-season,2003-12-06,2,349,away,FALSE,Army,46,Black Knights,Army Black Knights,Army
+233400084,2004,regular-season,2003-12-06,2,84,home,FALSE,Indiana,58,Hoosiers,Indiana Hoosiers,Indiana
+233400084,2004,regular-season,2003-12-06,2,142,away,FALSE,Missouri,63,Tigers,Missouri Tigers,Missouri
+233400127,2004,regular-season,2003-12-06,3,127,home,FALSE,Michigan State,77,Spartans,Michigan State Spartans,Michigan St
+233400127,2004,regular-season,2003-12-06,3,201,away,FALSE,Oklahoma,80,Sooners,Oklahoma Sooners,Oklahoma
+233400150,2004,regular-season,2003-12-06,2,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
+233400150,2004,regular-season,2003-12-06,2,2599,away,FALSE,St. John's,58,Red Storm,St. John's Red Storm,St John's
+233400139,2004,regular-season,2003-12-06,2,139,home,FALSE,Saint Louis,67,Billikens,Saint Louis Billikens,Saint Louis
+233400139,2004,regular-season,2003-12-06,2,12,away,FALSE,Arizona,68,Wildcats,Arizona Wildcats,Arizona
+233400026,2004,regular-season,2003-12-06,2,26,home,FALSE,UCLA,50,Bruins,UCLA Bruins,UCLA
+233400026,2004,regular-season,2003-12-06,2,96,away,FALSE,Kentucky,52,Wildcats,Kentucky Wildcats,Kentucky
+233400356,2004,regular-season,2003-12-06,2,356,home,FALSE,Illinois,84,Fighting Illini,Illinois Fighting Illini,Illinois
+233400356,2004,regular-season,2003-12-06,2,8,away,FALSE,Arkansas,61,Razorbacks,Arkansas Razorbacks,Arkansas
+233400219,2004,regular-season,2003-12-06,2,219,home,FALSE,Pennsylvania,59,Quakers,Pennsylvania Quakers,Penn
+233400219,2004,regular-season,2003-12-06,2,2603,away,FALSE,Saint Joseph's,67,Hawks,Saint Joseph's Hawks,Saint Joseph's
+233400059,2004,regular-season,2003-12-06,2,59,home,FALSE,Georgia Tech,94,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+233400059,2004,regular-season,2003-12-06,2,2634,away,FALSE,Tennessee State,43,Tigers,Tennessee State Tigers,Tennessee St
+233400275,2004,regular-season,2003-12-06,2,275,home,FALSE,Wisconsin,68,Badgers,Wisconsin Badgers,Wisconsin
+233400275,2004,regular-season,2003-12-06,2,2174,away,FALSE,Detroit Mercy,42,Titans,Detroit Mercy Titans,Detroit Mercy
+233400120,2004,regular-season,2003-12-06,2,120,home,FALSE,Maryland,68,Terrapins,Maryland Terrapins,Maryland
+233400120,2004,regular-season,2003-12-06,2,2250,away,FALSE,Gonzaga,82,Bulldogs,Gonzaga Bulldogs,Gonzaga
+233400154,2004,regular-season,2003-12-06,2,154,home,FALSE,Wake Forest,81,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+233400154,2004,regular-season,2003-12-06,2,257,away,FALSE,Richmond,66,Spiders,Richmond Spiders,Richmond
+233402509,2004,regular-season,2003-12-06,2,2509,home,FALSE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
+233402509,2004,regular-season,2003-12-06,2,2130,away,FALSE,Chicago State,57,Cougars,Chicago State Cougars,Chicago St
+233400221,2004,regular-season,2003-12-06,2,221,home,FALSE,Pittsburgh,64,Panthers,Pittsburgh Panthers,Pitt
+233400221,2004,regular-season,2003-12-06,2,213,away,FALSE,Penn State,37,Nittany Lions,Penn State Nittany Lions,Penn State
+233400087,2004,regular-season,2003-12-06,2,87,home,FALSE,Notre Dame,68,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+233400087,2004,regular-season,2003-12-06,2,2117,away,FALSE,Central Michigan,69,Chippewas,Central Michigan Chippewas,C Michigan
+233400252,2004,regular-season,2003-12-06,2,252,home,FALSE,BYU,76,Cougars,BYU Cougars,BYU
+233400252,2004,regular-season,2003-12-06,2,197,away,FALSE,Oklahoma State,71,Cowboys,Oklahoma State Cowboys,Oklahoma St

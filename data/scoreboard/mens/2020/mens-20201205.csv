@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401254034,2020-12-05,2,2305,home,FALSE,Kansas,65,Jayhawks,Kansas Jayhawks,Kansas
-401254034,2020-12-05,2,2449,away,FALSE,North Dakota State,61,Bison,North Dakota State Bison,N Dakota St
-401260964,2020-12-05,2,248,home,FALSE,Houston,77,Cougars,Houston Cougars,Houston
-401260964,2020-12-05,2,2579,away,FALSE,South Carolina,67,Gamecocks,South Carolina Gamecocks,South Carolina
-401254044,2020-12-05,0,239,home,TRUE,Baylor,0,Bears,Baylor Bears,Baylor
-401254044,2020-12-05,0,2250,away,TRUE,Gonzaga,0,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401266708,2020-12-05,0,356,home,FALSE,Illinois,0,Fighting Illini,Illinois Fighting Illini,Illinois
-401266708,2020-12-05,0,2630,away,FALSE,UT Martin,0,Skyhawks,UT Martin Skyhawks,UT Martin
-401255664,2020-12-05,0,194,home,FALSE,Ohio State,0,Buckeyes,Ohio State Buckeyes,Ohio State
-401255664,2020-12-05,0,2010,away,FALSE,Alabama A&M,0,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401254034,2021,regular-season,2020-12-05,2,2305,home,FALSE,Kansas,65,Jayhawks,Kansas Jayhawks,Kansas
+401254034,2021,regular-season,2020-12-05,2,2449,away,FALSE,North Dakota State,61,Bison,North Dakota State Bison,N Dakota St
+401260964,2021,regular-season,2020-12-05,2,248,home,FALSE,Houston,77,Cougars,Houston Cougars,Houston
+401260964,2021,regular-season,2020-12-05,2,2579,away,FALSE,South Carolina,67,Gamecocks,South Carolina Gamecocks,South Carolina
+401254044,2021,regular-season,2020-12-05,0,239,home,TRUE,Baylor,0,Bears,Baylor Bears,Baylor
+401254044,2021,regular-season,2020-12-05,0,2250,away,TRUE,Gonzaga,0,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401266708,2021,regular-season,2020-12-05,0,356,home,FALSE,Illinois,0,Fighting Illini,Illinois Fighting Illini,Illinois
+401266708,2021,regular-season,2020-12-05,0,2630,away,FALSE,UT Martin,0,Skyhawks,UT Martin Skyhawks,UT Martin
+401255664,2021,regular-season,2020-12-05,0,194,home,FALSE,Ohio State,0,Buckeyes,Ohio State Buckeyes,Ohio State
+401255664,2021,regular-season,2020-12-05,0,2010,away,FALSE,Alabama A&M,0,Bulldogs,Alabama A&M Bulldogs,Alabama A&M

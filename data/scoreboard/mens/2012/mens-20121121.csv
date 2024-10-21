@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323260221,2012-11-21,2,130,home,TRUE,Michigan,67,Wolverines,Michigan Wolverines,Michigan
-323260221,2012-11-21,2,221,away,TRUE,Pittsburgh,62,Panthers,Pittsburgh Panthers,Pitt
-323260183,2012-11-21,2,183,home,FALSE,Syracuse,73,Orange,Syracuse Orange,Syracuse
-323260183,2012-11-21,2,163,away,FALSE,Princeton,53,Tigers,Princeton Tigers,Princeton
-323260096,2012-11-21,2,96,home,FALSE,Kentucky,81,Wildcats,Kentucky Wildcats,Kentucky
-323260096,2012-11-21,2,2413,away,FALSE,Morehead State,70,Eagles,Morehead State Eagles,Morehead St
-323260021,2012-11-21,2,21,home,FALSE,San Diego State,79,Aztecs,San Diego State Aztecs,San Diego St
-323260021,2012-11-21,2,2029,away,FALSE,Arkansas-Pine Bluff,43,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323260221,2013,regular-season,2012-11-21,2,130,home,TRUE,Michigan,67,Wolverines,Michigan Wolverines,Michigan
+323260221,2013,regular-season,2012-11-21,2,221,away,TRUE,Pittsburgh,62,Panthers,Pittsburgh Panthers,Pitt
+323260183,2013,regular-season,2012-11-21,2,183,home,FALSE,Syracuse,73,Orange,Syracuse Orange,Syracuse
+323260183,2013,regular-season,2012-11-21,2,163,away,FALSE,Princeton,53,Tigers,Princeton Tigers,Princeton
+323260096,2013,regular-season,2012-11-21,2,96,home,FALSE,Kentucky,81,Wildcats,Kentucky Wildcats,Kentucky
+323260096,2013,regular-season,2012-11-21,2,2413,away,FALSE,Morehead State,70,Eagles,Morehead State Eagles,Morehead St
+323260021,2013,regular-season,2012-11-21,2,21,home,FALSE,San Diego State,79,Aztecs,San Diego State Aztecs,San Diego St
+323260021,2013,regular-season,2012-11-21,2,2029,away,FALSE,Arkansas-Pine Bluff,43,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff

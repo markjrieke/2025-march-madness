@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280540041,2008-02-23,2,41,home,FALSE,UConn,98,Huskies,UConn Huskies,UConn
-280540041,2008-02-23,2,2599,away,FALSE,St. John's,41,Red Storm,St. John's Red Storm,St John's
-280542507,2008-02-23,2,2507,home,FALSE,Providence,43,Friars,Providence Friars,Providence
-280542507,2008-02-23,2,164,away,FALSE,Rutgers,62,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-280540025,2008-02-23,2,25,home,FALSE,California,58,Golden Bears,California Golden Bears,California
-280540025,2008-02-23,2,24,away,FALSE,Stanford,60,Cardinal,Stanford Cardinal,Stanford
-280540066,2008-02-23,2,66,home,FALSE,Iowa State,54,Cyclones,Iowa State Cyclones,Iowa State
-280540066,2008-02-23,2,239,away,FALSE,Baylor,59,Bears,Baylor Bears,Baylor
-280540201,2008-02-23,2,201,home,FALSE,Oklahoma,81,Sooners,Oklahoma Sooners,Oklahoma
-280540201,2008-02-23,2,197,away,FALSE,Oklahoma State,71,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-280540277,2008-02-23,2,277,home,FALSE,West Virginia,76,Mountaineers,West Virginia Mountaineers,West Virginia
-280540277,2008-02-23,2,222,away,FALSE,Villanova,55,Wildcats,Villanova Wildcats,Villanova
-280540038,2008-02-23,2,38,home,FALSE,Colorado,73,Buffaloes,Colorado Buffaloes,Colorado
-280540038,2008-02-23,2,2306,away,FALSE,Kansas State,68,Wildcats,Kansas State Wildcats,Kansas St
-280540167,2008-02-23,2,167,home,FALSE,New Mexico,53,Lobos,New Mexico Lobos,New Mexico
-280540167,2008-02-23,2,254,away,FALSE,Utah,57,Utes,Utah Utes,Utah
-280540183,2008-02-23,2,183,home,FALSE,Syracuse,66,Orange,Syracuse Orange,Syracuse
-280540183,2008-02-23,2,2132,away,FALSE,Cincinnati,56,Bearcats,Cincinnati Bearcats,Cincinnati
-280540269,2008-02-23,2,269,home,FALSE,Marquette,76,Golden Eagles,Marquette Golden Eagles,Marquette
-280540269,2008-02-23,2,221,away,FALSE,Pittsburgh,69,Panthers,Pittsburgh Panthers,Pitt
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280540041,2008,regular-season,2008-02-23,2,41,home,FALSE,UConn,98,Huskies,UConn Huskies,UConn
+280540041,2008,regular-season,2008-02-23,2,2599,away,FALSE,St. John's,41,Red Storm,St. John's Red Storm,St John's
+280542507,2008,regular-season,2008-02-23,2,2507,home,FALSE,Providence,43,Friars,Providence Friars,Providence
+280542507,2008,regular-season,2008-02-23,2,164,away,FALSE,Rutgers,62,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+280540025,2008,regular-season,2008-02-23,2,25,home,FALSE,California,58,Golden Bears,California Golden Bears,California
+280540025,2008,regular-season,2008-02-23,2,24,away,FALSE,Stanford,60,Cardinal,Stanford Cardinal,Stanford
+280540066,2008,regular-season,2008-02-23,2,66,home,FALSE,Iowa State,54,Cyclones,Iowa State Cyclones,Iowa State
+280540066,2008,regular-season,2008-02-23,2,239,away,FALSE,Baylor,59,Bears,Baylor Bears,Baylor
+280540201,2008,regular-season,2008-02-23,2,201,home,FALSE,Oklahoma,81,Sooners,Oklahoma Sooners,Oklahoma
+280540201,2008,regular-season,2008-02-23,2,197,away,FALSE,Oklahoma State,71,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+280540277,2008,regular-season,2008-02-23,2,277,home,FALSE,West Virginia,76,Mountaineers,West Virginia Mountaineers,West Virginia
+280540277,2008,regular-season,2008-02-23,2,222,away,FALSE,Villanova,55,Wildcats,Villanova Wildcats,Villanova
+280540038,2008,regular-season,2008-02-23,2,38,home,FALSE,Colorado,73,Buffaloes,Colorado Buffaloes,Colorado
+280540038,2008,regular-season,2008-02-23,2,2306,away,FALSE,Kansas State,68,Wildcats,Kansas State Wildcats,Kansas St
+280540167,2008,regular-season,2008-02-23,2,167,home,FALSE,New Mexico,53,Lobos,New Mexico Lobos,New Mexico
+280540167,2008,regular-season,2008-02-23,2,254,away,FALSE,Utah,57,Utes,Utah Utes,Utah
+280540183,2008,regular-season,2008-02-23,2,183,home,FALSE,Syracuse,66,Orange,Syracuse Orange,Syracuse
+280540183,2008,regular-season,2008-02-23,2,2132,away,FALSE,Cincinnati,56,Bearcats,Cincinnati Bearcats,Cincinnati
+280540269,2008,regular-season,2008-02-23,2,269,home,FALSE,Marquette,76,Golden Eagles,Marquette Golden Eagles,Marquette
+280540269,2008,regular-season,2008-02-23,2,221,away,FALSE,Pittsburgh,69,Panthers,Pittsburgh Panthers,Pitt

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400871279,2016-03-15,2,526,home,TRUE,Florida Gulf Coast,96,Eagles,Florida Gulf Coast Eagles,FGCU
-400871279,2016-03-15,2,161,away,TRUE,Fairleigh Dickinson,65,Knights,Fairleigh Dickinson Knights,Fair Dickinson
-400871274,2016-03-15,2,238,home,TRUE,Vanderbilt,50,Commodores,Vanderbilt Commodores,Vanderbilt
-400871274,2016-03-15,2,2724,away,TRUE,Wichita State,70,Shockers,Wichita State Shockers,Wichita St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400871279,2016,post-season,2016-03-15,2,526,home,TRUE,Florida Gulf Coast,96,Eagles,Florida Gulf Coast Eagles,FGCU
+400871279,2016,post-season,2016-03-15,2,161,away,TRUE,Fairleigh Dickinson,65,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+400871274,2016,post-season,2016-03-15,2,238,home,TRUE,Vanderbilt,50,Commodores,Vanderbilt Commodores,Vanderbilt
+400871274,2016,post-season,2016-03-15,2,2724,away,TRUE,Wichita State,70,Shockers,Wichita State Shockers,Wichita St

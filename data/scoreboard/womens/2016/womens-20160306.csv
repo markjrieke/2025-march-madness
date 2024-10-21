@@ -1,51 +1,51 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400870003,2016-03-06,4,2514,home,TRUE,Quinnipiac,66,Bobcats,Quinnipiac Bobcats,Quinnipiac
-400870003,2016-03-06,4,2405,away,TRUE,Monmouth,59,Hawks,Monmouth Hawks,Monmouth
-400870131,2016-03-06,4,45,home,TRUE,George Washington,63,Revolutionaries,George Washington Revolutionaries,G Washington
-400870131,2016-03-06,4,2184,away,TRUE,Duquesne,60,Dukes,Duquesne Dukes,Duquesne
-400870002,2016-03-06,4,87,home,TRUE,Notre Dame,68,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400870002,2016-03-06,4,183,away,TRUE,Syracuse,57,Orange,Syracuse Orange,Syracuse
-400870007,2016-03-06,4,222,home,TRUE,Villanova,48,Wildcats,Villanova Wildcats,Villanova
-400870007,2016-03-06,4,156,away,TRUE,Creighton,57,Bluejays,Creighton Bluejays,Creighton
-400869956,2016-03-06,4,2382,home,TRUE,Mercer,57,Bears,Mercer Bears,Mercer
-400869956,2016-03-06,4,236,away,TRUE,Chattanooga,65,Mocs,Chattanooga Mocs,Chattanooga
-400868473,2016-03-06,4,2523,home,FALSE,Robert Morris,68,Colonials,Robert Morris Colonials,Robert Morris
-400868473,2016-03-06,4,161,away,FALSE,Fairleigh Dickinson,59,Knights,Fairleigh Dickinson Knights,Fair Dickinson
-400868472,2016-03-06,4,2803,home,FALSE,Bryant,70,Bulldogs,Bryant Bulldogs,Bryant
-400868472,2016-03-06,4,2341,away,FALSE,LIU Brooklyn,56,Blackbirds,LIU Brooklyn Blackbirds,LIU Brooklyn
-400868471,2016-03-06,4,2529,home,FALSE,Sacred Heart,66,Pioneers,Sacred Heart Pioneers,Sacred Heart
-400868471,2016-03-06,4,116,away,FALSE,Mount St. Mary's,47,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-400868286,2016-03-06,4,198,home,TRUE,Oral Roberts,68,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-400868286,2016-03-06,4,2710,away,TRUE,Western Illinois,55,Leathernecks,Western Illinois Leathernecks,W Illinois
-400847016,2016-03-06,4,2750,home,FALSE,Wright State,77,Raiders,Wright State Raiders,Wright St
-400847016,2016-03-06,4,2754,away,FALSE,Youngstown State,66,Penguins,Youngstown State Penguins,Youngstown St
-400870118,2016-03-06,4,314,home,TRUE,Iona,57,Gaels,Iona Gaels,Iona
-400870118,2016-03-06,4,2368,away,TRUE,Marist,53,Red Foxes,Marist Red Foxes,Marist
-400869999,2016-03-06,4,311,home,TRUE,Maine,51,Black Bears,Maine Black Bears,Maine
-400869999,2016-03-06,4,2619,away,TRUE,Stony Brook,48,Seawolves,Stony Brook Seawolves,Stony Brook
-400870181,2016-03-06,4,2579,home,TRUE,South Carolina,66,Gamecocks,South Carolina Gamecocks,South Carolina
-400870181,2016-03-06,4,344,away,TRUE,Mississippi State,52,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400870001,2016-03-06,4,239,home,TRUE,Baylor,84,Bears,Baylor Bears,Baylor
-400870001,2016-03-06,4,201,away,TRUE,Oklahoma,57,Sooners,Oklahoma Sooners,Oklahoma
-400868474,2016-03-06,4,2598,home,FALSE,St. Francis (PA),83,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-400868474,2016-03-06,4,2115,away,FALSE,Central Connecticut,77,Blue Devils,Central Connecticut Blue Devils,C Connecticut
-400868384,2016-03-06,4,2550,home,TRUE,Seton Hall,93,Pirates,Seton Hall Pirates,Seton Hall
-400868384,2016-03-06,4,269,away,TRUE,Marquette,86,Golden Eagles,Marquette Golden Eagles,Marquette
-400868288,2016-03-06,4,85,home,TRUE,IU Indianapolis,51,Jaguars,IU Indianapolis Jaguars,IU Indy
-400868288,2016-03-06,4,2437,away,TRUE,Omaha,62,Mavericks,Omaha Mavericks,Omaha
-400870199,2016-03-06,4,2066,home,TRUE,Binghamton,43,Bearcats,Binghamton Bearcats,Binghamton
-400870199,2016-03-06,4,399,away,TRUE,UAlbany,79,Great Danes,UAlbany Great Danes,UAlbany
-400870132,2016-03-06,4,41,home,TRUE,UConn,82,Huskies,UConn Huskies,UConn
-400870132,2016-03-06,4,2655,away,TRUE,Tulane,35,Green Wave,Tulane Green Wave,Tulane
-400870227,2016-03-06,4,251,home,TRUE,Texas,67,Longhorns,Texas Longhorns,Texas
-400870227,2016-03-06,4,277,away,TRUE,West Virginia,51,Mountaineers,West Virginia Mountaineers,West Virginia
-400870188,2016-03-06,4,58,home,TRUE,South Florida,64,Bulls,South Florida Bulls,South Florida
-400870188,2016-03-06,4,218,away,TRUE,Temple,46,Owls,Temple Owls,Temple
-400870177,2016-03-06,4,305,home,TRUE,DePaul,76,Blue Demons,DePaul Blue Demons,DePaul
-400870177,2016-03-06,4,2086,away,TRUE,Butler,49,Bulldogs,Butler Bulldogs,Butler
-400870176,2016-03-06,4,120,home,TRUE,Maryland,60,Terrapins,Maryland Terrapins,Maryland
-400870176,2016-03-06,4,127,away,TRUE,Michigan State,44,Spartans,Michigan State Spartans,Michigan St
-400870209,2016-03-06,4,204,home,TRUE,Oregon State,69,Beavers,Oregon State Beavers,Oregon St
-400870209,2016-03-06,4,26,away,TRUE,UCLA,57,Bruins,UCLA Bruins,UCLA
-400868385,2016-03-06,4,2599,home,TRUE,St. John's,65,Red Storm,St. John's Red Storm,St John's
-400868385,2016-03-06,4,46,away,TRUE,Georgetown,52,Hoyas,Georgetown Hoyas,Georgetown
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400870003,2016,regular-season,2016-03-06,4,2514,home,TRUE,Quinnipiac,66,Bobcats,Quinnipiac Bobcats,Quinnipiac
+400870003,2016,regular-season,2016-03-06,4,2405,away,TRUE,Monmouth,59,Hawks,Monmouth Hawks,Monmouth
+400870131,2016,regular-season,2016-03-06,4,45,home,TRUE,George Washington,63,Revolutionaries,George Washington Revolutionaries,G Washington
+400870131,2016,regular-season,2016-03-06,4,2184,away,TRUE,Duquesne,60,Dukes,Duquesne Dukes,Duquesne
+400870002,2016,regular-season,2016-03-06,4,87,home,TRUE,Notre Dame,68,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400870002,2016,regular-season,2016-03-06,4,183,away,TRUE,Syracuse,57,Orange,Syracuse Orange,Syracuse
+400870007,2016,regular-season,2016-03-06,4,222,home,TRUE,Villanova,48,Wildcats,Villanova Wildcats,Villanova
+400870007,2016,regular-season,2016-03-06,4,156,away,TRUE,Creighton,57,Bluejays,Creighton Bluejays,Creighton
+400869956,2016,regular-season,2016-03-06,4,2382,home,TRUE,Mercer,57,Bears,Mercer Bears,Mercer
+400869956,2016,regular-season,2016-03-06,4,236,away,TRUE,Chattanooga,65,Mocs,Chattanooga Mocs,Chattanooga
+400868473,2016,regular-season,2016-03-06,4,2523,home,FALSE,Robert Morris,68,Colonials,Robert Morris Colonials,Robert Morris
+400868473,2016,regular-season,2016-03-06,4,161,away,FALSE,Fairleigh Dickinson,59,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+400868472,2016,regular-season,2016-03-06,4,2803,home,FALSE,Bryant,70,Bulldogs,Bryant Bulldogs,Bryant
+400868472,2016,regular-season,2016-03-06,4,2341,away,FALSE,LIU Brooklyn,56,Blackbirds,LIU Brooklyn Blackbirds,LIU Brooklyn
+400868471,2016,regular-season,2016-03-06,4,2529,home,FALSE,Sacred Heart,66,Pioneers,Sacred Heart Pioneers,Sacred Heart
+400868471,2016,regular-season,2016-03-06,4,116,away,FALSE,Mount St. Mary's,47,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+400868286,2016,regular-season,2016-03-06,4,198,home,TRUE,Oral Roberts,68,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+400868286,2016,regular-season,2016-03-06,4,2710,away,TRUE,Western Illinois,55,Leathernecks,Western Illinois Leathernecks,W Illinois
+400847016,2016,regular-season,2016-03-06,4,2750,home,FALSE,Wright State,77,Raiders,Wright State Raiders,Wright St
+400847016,2016,regular-season,2016-03-06,4,2754,away,FALSE,Youngstown State,66,Penguins,Youngstown State Penguins,Youngstown St
+400870118,2016,regular-season,2016-03-06,4,314,home,TRUE,Iona,57,Gaels,Iona Gaels,Iona
+400870118,2016,regular-season,2016-03-06,4,2368,away,TRUE,Marist,53,Red Foxes,Marist Red Foxes,Marist
+400869999,2016,regular-season,2016-03-06,4,311,home,TRUE,Maine,51,Black Bears,Maine Black Bears,Maine
+400869999,2016,regular-season,2016-03-06,4,2619,away,TRUE,Stony Brook,48,Seawolves,Stony Brook Seawolves,Stony Brook
+400870181,2016,regular-season,2016-03-06,4,2579,home,TRUE,South Carolina,66,Gamecocks,South Carolina Gamecocks,South Carolina
+400870181,2016,regular-season,2016-03-06,4,344,away,TRUE,Mississippi State,52,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400870001,2016,regular-season,2016-03-06,4,239,home,TRUE,Baylor,84,Bears,Baylor Bears,Baylor
+400870001,2016,regular-season,2016-03-06,4,201,away,TRUE,Oklahoma,57,Sooners,Oklahoma Sooners,Oklahoma
+400868474,2016,regular-season,2016-03-06,4,2598,home,FALSE,St. Francis (PA),83,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+400868474,2016,regular-season,2016-03-06,4,2115,away,FALSE,Central Connecticut,77,Blue Devils,Central Connecticut Blue Devils,C Connecticut
+400868384,2016,regular-season,2016-03-06,4,2550,home,TRUE,Seton Hall,93,Pirates,Seton Hall Pirates,Seton Hall
+400868384,2016,regular-season,2016-03-06,4,269,away,TRUE,Marquette,86,Golden Eagles,Marquette Golden Eagles,Marquette
+400868288,2016,regular-season,2016-03-06,4,85,home,TRUE,IU Indianapolis,51,Jaguars,IU Indianapolis Jaguars,IU Indy
+400868288,2016,regular-season,2016-03-06,4,2437,away,TRUE,Omaha,62,Mavericks,Omaha Mavericks,Omaha
+400870199,2016,regular-season,2016-03-06,4,2066,home,TRUE,Binghamton,43,Bearcats,Binghamton Bearcats,Binghamton
+400870199,2016,regular-season,2016-03-06,4,399,away,TRUE,UAlbany,79,Great Danes,UAlbany Great Danes,UAlbany
+400870132,2016,regular-season,2016-03-06,4,41,home,TRUE,UConn,82,Huskies,UConn Huskies,UConn
+400870132,2016,regular-season,2016-03-06,4,2655,away,TRUE,Tulane,35,Green Wave,Tulane Green Wave,Tulane
+400870227,2016,regular-season,2016-03-06,4,251,home,TRUE,Texas,67,Longhorns,Texas Longhorns,Texas
+400870227,2016,regular-season,2016-03-06,4,277,away,TRUE,West Virginia,51,Mountaineers,West Virginia Mountaineers,West Virginia
+400870188,2016,regular-season,2016-03-06,4,58,home,TRUE,South Florida,64,Bulls,South Florida Bulls,South Florida
+400870188,2016,regular-season,2016-03-06,4,218,away,TRUE,Temple,46,Owls,Temple Owls,Temple
+400870177,2016,regular-season,2016-03-06,4,305,home,TRUE,DePaul,76,Blue Demons,DePaul Blue Demons,DePaul
+400870177,2016,regular-season,2016-03-06,4,2086,away,TRUE,Butler,49,Bulldogs,Butler Bulldogs,Butler
+400870176,2016,regular-season,2016-03-06,4,120,home,TRUE,Maryland,60,Terrapins,Maryland Terrapins,Maryland
+400870176,2016,regular-season,2016-03-06,4,127,away,TRUE,Michigan State,44,Spartans,Michigan State Spartans,Michigan St
+400870209,2016,regular-season,2016-03-06,4,204,home,TRUE,Oregon State,69,Beavers,Oregon State Beavers,Oregon St
+400870209,2016,regular-season,2016-03-06,4,26,away,TRUE,UCLA,57,Bruins,UCLA Bruins,UCLA
+400868385,2016,regular-season,2016-03-06,4,2599,home,TRUE,St. John's,65,Red Storm,St. John's Red Storm,St John's
+400868385,2016,regular-season,2016-03-06,4,46,away,TRUE,Georgetown,52,Hoyas,Georgetown Hoyas,Georgetown

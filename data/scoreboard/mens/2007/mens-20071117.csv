@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273210097,2007-11-17,2,97,home,TRUE,Louisville,104,Cardinals,Louisville Cardinals,Louisville
-273210097,2007-11-17,2,42,away,TRUE,Hartford,69,Hawks,Hartford Hawks,Hartford
-273212501,2007-11-17,2,2501,home,FALSE,Portland,61,Pilots,Portland Pilots,Portland
-273212501,2007-11-17,2,2483,away,FALSE,Oregon,85,Ducks,Oregon Ducks,Oregon
-273212250,2007-11-17,2,2250,home,FALSE,Gonzaga,84,Bulldogs,Gonzaga Bulldogs,Gonzaga
-273212250,2007-11-17,2,27,away,FALSE,UC Riverside,48,Highlanders,UC Riverside Highlanders,UC Riverside
-273210245,2007-11-17,2,245,home,FALSE,Texas A&M,85,Aggies,Texas A&M Aggies,Texas A&M
-273210245,2007-11-17,2,2888,away,FALSE,Ouachita Baptist,59,Tigers,Ouachita Baptist Tigers,Ouachita
-273210012,2007-11-17,2,12,home,FALSE,Arizona,72,Wildcats,Arizona Wildcats,Arizona
-273210012,2007-11-17,2,258,away,FALSE,Virginia,75,Cavaliers,Virginia Cavaliers,Virginia
-273212561,2007-11-17,2,2561,home,FALSE,Siena,79,Saints,Siena Saints,Siena
-273212561,2007-11-17,2,24,away,FALSE,Stanford,67,Cardinal,Stanford Cardinal,Stanford
-273212306,2007-11-17,2,2306,home,FALSE,Kansas State,77,Wildcats,Kansas State Wildcats,Kansas St
-273212306,2007-11-17,2,2710,away,FALSE,Western Illinois,64,Leathernecks,Western Illinois Leathernecks,W Illinois
-273210079,2007-11-17,2,79,home,FALSE,Southern Illinois,88,Salukis,Southern Illinois Salukis,S Illinois
-273210079,2007-11-17,2,2459,away,FALSE,Northern Illinois,68,Huskies,Northern Illinois Huskies,N Illinois
-273210339,2007-11-17,2,339,home,FALSE,Evansville,47,Purple Aces,Evansville Purple Aces,Evansville
-273210339,2007-11-17,2,2086,away,FALSE,Butler,60,Bulldogs,Butler Bulldogs,Butler
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273210097,2008,regular-season,2007-11-17,2,97,home,TRUE,Louisville,104,Cardinals,Louisville Cardinals,Louisville
+273210097,2008,regular-season,2007-11-17,2,42,away,TRUE,Hartford,69,Hawks,Hartford Hawks,Hartford
+273212501,2008,regular-season,2007-11-17,2,2501,home,FALSE,Portland,61,Pilots,Portland Pilots,Portland
+273212501,2008,regular-season,2007-11-17,2,2483,away,FALSE,Oregon,85,Ducks,Oregon Ducks,Oregon
+273212250,2008,regular-season,2007-11-17,2,2250,home,FALSE,Gonzaga,84,Bulldogs,Gonzaga Bulldogs,Gonzaga
+273212250,2008,regular-season,2007-11-17,2,27,away,FALSE,UC Riverside,48,Highlanders,UC Riverside Highlanders,UC Riverside
+273210245,2008,regular-season,2007-11-17,2,245,home,FALSE,Texas A&M,85,Aggies,Texas A&M Aggies,Texas A&M
+273210245,2008,regular-season,2007-11-17,2,2888,away,FALSE,Ouachita Baptist,59,Tigers,Ouachita Baptist Tigers,Ouachita
+273210012,2008,regular-season,2007-11-17,2,12,home,FALSE,Arizona,72,Wildcats,Arizona Wildcats,Arizona
+273210012,2008,regular-season,2007-11-17,2,258,away,FALSE,Virginia,75,Cavaliers,Virginia Cavaliers,Virginia
+273212561,2008,regular-season,2007-11-17,2,2561,home,FALSE,Siena,79,Saints,Siena Saints,Siena
+273212561,2008,regular-season,2007-11-17,2,24,away,FALSE,Stanford,67,Cardinal,Stanford Cardinal,Stanford
+273212306,2008,regular-season,2007-11-17,2,2306,home,FALSE,Kansas State,77,Wildcats,Kansas State Wildcats,Kansas St
+273212306,2008,regular-season,2007-11-17,2,2710,away,FALSE,Western Illinois,64,Leathernecks,Western Illinois Leathernecks,W Illinois
+273210079,2008,regular-season,2007-11-17,2,79,home,FALSE,Southern Illinois,88,Salukis,Southern Illinois Salukis,S Illinois
+273210079,2008,regular-season,2007-11-17,2,2459,away,FALSE,Northern Illinois,68,Huskies,Northern Illinois Huskies,N Illinois
+273210339,2008,regular-season,2007-11-17,2,339,home,FALSE,Evansville,47,Purple Aces,Evansville Purple Aces,Evansville
+273210339,2008,regular-season,2007-11-17,2,2086,away,FALSE,Butler,60,Bulldogs,Butler Bulldogs,Butler

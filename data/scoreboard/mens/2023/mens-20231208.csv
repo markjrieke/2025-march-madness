@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401597838,2023-12-08,2,2184,home,FALSE,Duquesne,68,Dukes,Duquesne Dukes,Duquesne
-401597838,2023-12-08,2,2612,away,FALSE,Saint Peter's,59,Peacocks,Saint Peter's Peacocks,Saint Peter's
-401593810,2023-12-08,2,103,home,FALSE,Boston College,95,Eagles,Boston College Eagles,Boston College
-401593810,2023-12-08,2,107,away,FALSE,Holy Cross,64,Crusaders,Holy Cross Crusaders,Holy Cross
-401589299,2023-12-08,2,2520,home,FALSE,Rider,73,Broncs,Rider Broncs,Rider
-401589299,2023-12-08,2,284,away,FALSE,Stonehill,56,Skyhawks,Stonehill Skyhawks,Stonehill
-401587230,2023-12-08,2,2363,home,FALSE,Manhattan,71,Jaspers,Manhattan Jaspers,Manhattan
-401587230,2023-12-08,2,161,away,FALSE,Fairleigh Dickinson,76,Knights,Fairleigh Dickinson Knights,Fair Dickinson
-401587189,2023-12-08,2,43,home,FALSE,Yale,95,Bulldogs,Yale Bulldogs,Yale
-401587189,2023-12-08,2,35,away,FALSE,Colby-Sawyer,36,Chargers,Colby-Sawyer Chargers,Colby-Sawyer
-401581743,2023-12-08,2,108,home,FALSE,Harvard,70,Crimson,Harvard Crimson,Harvard
-401581743,2023-12-08,2,349,away,FALSE,Army,64,Black Knights,Army Black Knights,Army
-401581730,2023-12-08,2,2272,home,FALSE,High Point,75,Panthers,High Point Panthers,High Point
-401581730,2023-12-08,2,2448,away,FALSE,North Carolina A&T,62,Aggies,North Carolina A&T Aggies,NC A&T
-401581354,2023-12-08,2,2199,home,FALSE,Eastern Michigan,63,Eagles,Eastern Michigan Eagles,E Michigan
-401581354,2023-12-08,2,2473,away,FALSE,Oakland,77,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-401577711,2023-12-08,2,55,home,FALSE,Jacksonville State,49,Gamecocks,Jacksonville State Gamecocks,Jax State
-401577711,2023-12-08,2,82,away,FALSE,UIC,55,Flames,UIC Flames,UIC
-401577687,2023-12-08,2,2514,home,FALSE,Quinnipiac,71,Bobcats,Quinnipiac Bobcats,Quinnipiac
-401577687,2023-12-08,2,2426,away,FALSE,Navy,68,Midshipmen,Navy Midshipmen,Navy
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401597838,2024,regular-season,2023-12-08,2,2184,home,FALSE,Duquesne,68,Dukes,Duquesne Dukes,Duquesne
+401597838,2024,regular-season,2023-12-08,2,2612,away,FALSE,Saint Peter's,59,Peacocks,Saint Peter's Peacocks,Saint Peter's
+401593810,2024,regular-season,2023-12-08,2,103,home,FALSE,Boston College,95,Eagles,Boston College Eagles,Boston College
+401593810,2024,regular-season,2023-12-08,2,107,away,FALSE,Holy Cross,64,Crusaders,Holy Cross Crusaders,Holy Cross
+401589299,2024,regular-season,2023-12-08,2,2520,home,FALSE,Rider,73,Broncs,Rider Broncs,Rider
+401589299,2024,regular-season,2023-12-08,2,284,away,FALSE,Stonehill,56,Skyhawks,Stonehill Skyhawks,Stonehill
+401587230,2024,regular-season,2023-12-08,2,2363,home,FALSE,Manhattan,71,Jaspers,Manhattan Jaspers,Manhattan
+401587230,2024,regular-season,2023-12-08,2,161,away,FALSE,Fairleigh Dickinson,76,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+401587189,2024,regular-season,2023-12-08,2,43,home,FALSE,Yale,95,Bulldogs,Yale Bulldogs,Yale
+401587189,2024,regular-season,2023-12-08,2,35,away,FALSE,Colby-Sawyer,36,Chargers,Colby-Sawyer Chargers,Colby-Sawyer
+401581743,2024,regular-season,2023-12-08,2,108,home,FALSE,Harvard,70,Crimson,Harvard Crimson,Harvard
+401581743,2024,regular-season,2023-12-08,2,349,away,FALSE,Army,64,Black Knights,Army Black Knights,Army
+401581730,2024,regular-season,2023-12-08,2,2272,home,FALSE,High Point,75,Panthers,High Point Panthers,High Point
+401581730,2024,regular-season,2023-12-08,2,2448,away,FALSE,North Carolina A&T,62,Aggies,North Carolina A&T Aggies,NC A&T
+401581354,2024,regular-season,2023-12-08,2,2199,home,FALSE,Eastern Michigan,63,Eagles,Eastern Michigan Eagles,E Michigan
+401581354,2024,regular-season,2023-12-08,2,2473,away,FALSE,Oakland,77,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+401577711,2024,regular-season,2023-12-08,2,55,home,FALSE,Jacksonville State,49,Gamecocks,Jacksonville State Gamecocks,Jax State
+401577711,2024,regular-season,2023-12-08,2,82,away,FALSE,UIC,55,Flames,UIC Flames,UIC
+401577687,2024,regular-season,2023-12-08,2,2514,home,FALSE,Quinnipiac,71,Bobcats,Quinnipiac Bobcats,Quinnipiac
+401577687,2024,regular-season,2023-12-08,2,2426,away,FALSE,Navy,68,Midshipmen,Navy Midshipmen,Navy

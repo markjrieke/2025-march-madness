@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-244000040,2004-03-20,2,61,home,FALSE,Georgia,78,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-244000040,2004-03-20,2,2335,away,FALSE,Liberty,53,Flames,Liberty Flames,Liberty
-244000026,2004-03-20,2,164,home,FALSE,Rutgers,69,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-244000026,2004-03-20,2,236,away,FALSE,Chattanooga,74,Mocs,Chattanooga Mocs,Chattanooga
-244000016,2004-03-20,2,2633,home,FALSE,Tennessee,77,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-244000016,2004-03-20,2,2142,away,FALSE,Colgate,54,Raiders,Colgate Raiders,Colgate
-244000008,2004-03-20,2,194,home,FALSE,Ohio State,73,Buckeyes,Ohio State Buckeyes,Ohio State
-244000008,2004-03-20,2,277,away,FALSE,West Virginia,67,Mountaineers,West Virginia Mountaineers,West Virginia
-244000039,2004-03-20,2,2628,home,FALSE,TCU,70,Horned Frogs,TCU Horned Frogs,TCU
-244000039,2004-03-20,2,218,away,FALSE,Temple,57,Owls,Temple Owls,Temple
-244000027,2004-03-20,2,238,home,FALSE,Vanderbilt,76,Commodores,Vanderbilt Commodores,Vanderbilt
-244000027,2004-03-20,2,288,away,FALSE,Lipscomb,45,Bisons,Lipscomb Bisons,Lipscomb
-244000017,2004-03-20,2,45,home,FALSE,George Washington,46,Revolutionaries,George Washington Revolutionaries,G Washington
-244000017,2004-03-20,2,305,away,FALSE,DePaul,83,Blue Demons,DePaul Blue Demons,DePaul
-244000009,2004-03-20,2,103,home,FALSE,Boston College,58,Eagles,Boston College Eagles,Boston College
-244000009,2004-03-20,2,2199,away,FALSE,Eastern Michigan,56,Eagles,Eastern Michigan Eagles,E Michigan
-244000055,2004-03-20,2,248,home,FALSE,Houston,62,Cougars,Houston Cougars,Houston
-244000055,2004-03-20,2,2739,away,FALSE,Green Bay,47,Phoenix,Green Bay Phoenix,Green Bay
-244000024,2004-03-20,2,201,home,FALSE,Oklahoma,58,Sooners,Oklahoma Sooners,Oklahoma
-244000024,2004-03-20,2,2368,away,FALSE,Marist,45,Red Foxes,Marist Red Foxes,Marist
-244000019,2004-03-20,2,57,home,FALSE,Florida,68,Gators,Florida Gators,Florida
-244000019,2004-03-20,2,167,away,FALSE,New Mexico,56,Lobos,New Mexico Lobos,New Mexico
-244000005,2004-03-20,2,2641,home,FALSE,Texas Tech,60,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-244000005,2004-03-20,2,311,away,FALSE,Maine,50,Black Bears,Maine Black Bears,Maine
-244000054,2004-03-20,2,38,home,FALSE,Colorado,49,Buffaloes,Colorado Buffaloes,Colorado
-244000054,2004-03-20,2,2540,away,FALSE,UC Santa Barbara,76,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-244000023,2004-03-20,2,24,home,FALSE,Stanford,68,Cardinal,Stanford Cardinal,Stanford
-244000023,2004-03-20,2,142,away,FALSE,Missouri,44,Tigers,Missouri Tigers,Missouri
-244000020,2004-03-20,2,239,home,FALSE,Baylor,71,Bears,Baylor Bears,Baylor
-244000020,2004-03-20,2,2351,away,FALSE,Loyola Marymount,60,Lions,Loyola Marymount Lions,LMU
-244000004,2004-03-20,2,2348,home,FALSE,Louisiana Tech,81,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-244000004,2004-03-20,2,149,away,FALSE,Montana,77,Lady Griz,Montana Lady Griz,Montana
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+244000040,2004,post-season,2004-03-20,2,61,home,FALSE,Georgia,78,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+244000040,2004,post-season,2004-03-20,2,2335,away,FALSE,Liberty,53,Flames,Liberty Flames,Liberty
+244000026,2004,post-season,2004-03-20,2,164,home,FALSE,Rutgers,69,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+244000026,2004,post-season,2004-03-20,2,236,away,FALSE,Chattanooga,74,Mocs,Chattanooga Mocs,Chattanooga
+244000016,2004,post-season,2004-03-20,2,2633,home,FALSE,Tennessee,77,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+244000016,2004,post-season,2004-03-20,2,2142,away,FALSE,Colgate,54,Raiders,Colgate Raiders,Colgate
+244000008,2004,post-season,2004-03-20,2,194,home,FALSE,Ohio State,73,Buckeyes,Ohio State Buckeyes,Ohio State
+244000008,2004,post-season,2004-03-20,2,277,away,FALSE,West Virginia,67,Mountaineers,West Virginia Mountaineers,West Virginia
+244000039,2004,post-season,2004-03-20,2,2628,home,FALSE,TCU,70,Horned Frogs,TCU Horned Frogs,TCU
+244000039,2004,post-season,2004-03-20,2,218,away,FALSE,Temple,57,Owls,Temple Owls,Temple
+244000027,2004,post-season,2004-03-20,2,238,home,FALSE,Vanderbilt,76,Commodores,Vanderbilt Commodores,Vanderbilt
+244000027,2004,post-season,2004-03-20,2,288,away,FALSE,Lipscomb,45,Bisons,Lipscomb Bisons,Lipscomb
+244000017,2004,post-season,2004-03-20,2,45,home,FALSE,George Washington,46,Revolutionaries,George Washington Revolutionaries,G Washington
+244000017,2004,post-season,2004-03-20,2,305,away,FALSE,DePaul,83,Blue Demons,DePaul Blue Demons,DePaul
+244000009,2004,post-season,2004-03-20,2,103,home,FALSE,Boston College,58,Eagles,Boston College Eagles,Boston College
+244000009,2004,post-season,2004-03-20,2,2199,away,FALSE,Eastern Michigan,56,Eagles,Eastern Michigan Eagles,E Michigan
+244000055,2004,post-season,2004-03-20,2,248,home,FALSE,Houston,62,Cougars,Houston Cougars,Houston
+244000055,2004,post-season,2004-03-20,2,2739,away,FALSE,Green Bay,47,Phoenix,Green Bay Phoenix,Green Bay
+244000024,2004,post-season,2004-03-20,2,201,home,FALSE,Oklahoma,58,Sooners,Oklahoma Sooners,Oklahoma
+244000024,2004,post-season,2004-03-20,2,2368,away,FALSE,Marist,45,Red Foxes,Marist Red Foxes,Marist
+244000019,2004,post-season,2004-03-20,2,57,home,FALSE,Florida,68,Gators,Florida Gators,Florida
+244000019,2004,post-season,2004-03-20,2,167,away,FALSE,New Mexico,56,Lobos,New Mexico Lobos,New Mexico
+244000005,2004,post-season,2004-03-20,2,2641,home,FALSE,Texas Tech,60,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+244000005,2004,post-season,2004-03-20,2,311,away,FALSE,Maine,50,Black Bears,Maine Black Bears,Maine
+244000054,2004,post-season,2004-03-20,2,38,home,FALSE,Colorado,49,Buffaloes,Colorado Buffaloes,Colorado
+244000054,2004,post-season,2004-03-20,2,2540,away,FALSE,UC Santa Barbara,76,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+244000023,2004,post-season,2004-03-20,2,24,home,FALSE,Stanford,68,Cardinal,Stanford Cardinal,Stanford
+244000023,2004,post-season,2004-03-20,2,142,away,FALSE,Missouri,44,Tigers,Missouri Tigers,Missouri
+244000020,2004,post-season,2004-03-20,2,239,home,FALSE,Baylor,71,Bears,Baylor Bears,Baylor
+244000020,2004,post-season,2004-03-20,2,2351,away,FALSE,Loyola Marymount,60,Lions,Loyola Marymount Lions,LMU
+244000004,2004,post-season,2004-03-20,2,2348,home,FALSE,Louisiana Tech,81,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+244000004,2004,post-season,2004-03-20,2,149,away,FALSE,Montana,77,Lady Griz,Montana Lady Griz,Montana

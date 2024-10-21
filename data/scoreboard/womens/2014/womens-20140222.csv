@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400511012,2014-02-22,2,248,home,FALSE,Houston,41,Cougars,Houston Cougars,Houston
-400511012,2014-02-22,2,41,away,FALSE,UConn,92,Huskies,UConn Huskies,UConn
-400503815,2014-02-22,2,2628,home,FALSE,TCU,46,Horned Frogs,TCU Horned Frogs,TCU
-400503815,2014-02-22,2,239,away,FALSE,Baylor,69,Bears,Baylor Bears,Baylor
-400503818,2014-02-22,2,2306,home,FALSE,Kansas State,40,Wildcats,Kansas State Wildcats,Kansas St
-400503818,2014-02-22,2,277,away,FALSE,West Virginia,61,Mountaineers,West Virginia Mountaineers,West Virginia
-400511196,2014-02-22,2,2250,home,FALSE,Gonzaga,72,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400511196,2014-02-22,2,2501,away,FALSE,Portland,61,Pilots,Portland Pilots,Portland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400511012,2014,regular-season,2014-02-22,2,248,home,FALSE,Houston,41,Cougars,Houston Cougars,Houston
+400511012,2014,regular-season,2014-02-22,2,41,away,FALSE,UConn,92,Huskies,UConn Huskies,UConn
+400503815,2014,regular-season,2014-02-22,2,2628,home,FALSE,TCU,46,Horned Frogs,TCU Horned Frogs,TCU
+400503815,2014,regular-season,2014-02-22,2,239,away,FALSE,Baylor,69,Bears,Baylor Bears,Baylor
+400503818,2014,regular-season,2014-02-22,2,2306,home,FALSE,Kansas State,40,Wildcats,Kansas State Wildcats,Kansas St
+400503818,2014,regular-season,2014-02-22,2,277,away,FALSE,West Virginia,61,Mountaineers,West Virginia Mountaineers,West Virginia
+400511196,2014,regular-season,2014-02-22,2,2250,home,FALSE,Gonzaga,72,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400511196,2014,regular-season,2014-02-22,2,2501,away,FALSE,Portland,61,Pilots,Portland Pilots,Portland

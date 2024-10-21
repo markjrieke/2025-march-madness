@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400905167,2017-01-21,4,239,home,FALSE,Baylor,79,Bears,Baylor Bears,Baylor
-400905167,2017-01-21,4,277,away,FALSE,West Virginia,73,Mountaineers,West Virginia Mountaineers,West Virginia
-400911154,2017-01-21,4,2641,home,FALSE,Texas Tech,57,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-400911154,2017-01-21,4,251,away,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
-400911370,2017-01-21,5,305,home,FALSE,DePaul,101,Blue Demons,DePaul Blue Demons,DePaul
-400911370,2017-01-21,5,269,away,FALSE,Marquette,102,Golden Eagles,Marquette Golden Eagles,Marquette
-400905226,2017-01-21,4,66,home,FALSE,Iowa State,75,Cyclones,Iowa State Cyclones,Iowa State
-400905226,2017-01-21,4,2306,away,FALSE,Kansas State,69,Wildcats,Kansas State Wildcats,Kansas St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400905167,2017,regular-season,2017-01-21,4,239,home,FALSE,Baylor,79,Bears,Baylor Bears,Baylor
+400905167,2017,regular-season,2017-01-21,4,277,away,FALSE,West Virginia,73,Mountaineers,West Virginia Mountaineers,West Virginia
+400911154,2017,regular-season,2017-01-21,4,2641,home,FALSE,Texas Tech,57,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+400911154,2017,regular-season,2017-01-21,4,251,away,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
+400911370,2017,regular-season,2017-01-21,5,305,home,FALSE,DePaul,101,Blue Demons,DePaul Blue Demons,DePaul
+400911370,2017,regular-season,2017-01-21,5,269,away,FALSE,Marquette,102,Golden Eagles,Marquette Golden Eagles,Marquette
+400905226,2017,regular-season,2017-01-21,4,66,home,FALSE,Iowa State,75,Cyclones,Iowa State Cyclones,Iowa State
+400905226,2017,regular-season,2017-01-21,4,2306,away,FALSE,Kansas State,69,Wildcats,Kansas State Wildcats,Kansas St

@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313172633,2011-11-13,2,2633,home,FALSE,Tennessee,89,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-313172633,2011-11-13,2,2492,away,FALSE,Pepperdine,57,Waves,Pepperdine Waves,Pepperdine
-313170041,2011-11-13,2,41,home,FALSE,UConn,77,Huskies,UConn Huskies,UConn
-313170041,2011-11-13,2,107,away,FALSE,Holy Cross,37,Crusaders,Holy Cross Crusaders,Holy Cross
-313170024,2011-11-13,2,24,home,FALSE,Stanford,76,Cardinal,Stanford Cardinal,Stanford
-313170024,2011-11-13,2,2250,away,FALSE,Gonzaga,61,Bulldogs,Gonzaga Bulldogs,Gonzaga
-313172623,2011-11-13,2,2623,home,FALSE,Missouri State,64,Lady Bears,Missouri State Lady Bears,Missouri St
-313172623,2011-11-13,2,97,away,FALSE,Louisville,73,Cardinals,Louisville Cardinals,Louisville
-313170120,2011-11-13,2,120,home,FALSE,Maryland,72,Terrapins,Maryland Terrapins,Maryland
-313170120,2011-11-13,2,46,away,FALSE,Georgetown,53,Hoyas,Georgetown Hoyas,Georgetown
-313160201,2011-11-13,2,201,home,FALSE,Oklahoma,117,Sooners,Oklahoma Sooners,Oklahoma
-313160201,2011-11-13,2,16,away,FALSE,Sacramento State,55,Hornets,Sacramento State Hornets,Sacramento St
-313170164,2011-11-13,2,164,home,FALSE,Rutgers,73,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-313170164,2011-11-13,2,25,away,FALSE,California,70,Golden Bears,California Golden Bears,California
-313172509,2011-11-13,2,2509,home,FALSE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
-313172509,2011-11-13,2,85,away,FALSE,IU Indianapolis,45,Jaguars,IU Indianapolis Jaguars,IU Indy
-313170153,2011-11-13,2,153,home,FALSE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
-313170153,2011-11-13,2,2908,away,FALSE,South Carolina Upstate,34,Spartans,South Carolina Upstate Spartans,SC Upstate
-313170194,2011-11-13,2,194,home,FALSE,Ohio State,78,Buckeyes,Ohio State Buckeyes,Ohio State
-313170194,2011-11-13,2,2634,away,FALSE,Tennessee State,51,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313172633,2012,regular-season,2011-11-13,2,2633,home,FALSE,Tennessee,89,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+313172633,2012,regular-season,2011-11-13,2,2492,away,FALSE,Pepperdine,57,Waves,Pepperdine Waves,Pepperdine
+313170041,2012,regular-season,2011-11-13,2,41,home,FALSE,UConn,77,Huskies,UConn Huskies,UConn
+313170041,2012,regular-season,2011-11-13,2,107,away,FALSE,Holy Cross,37,Crusaders,Holy Cross Crusaders,Holy Cross
+313170024,2012,regular-season,2011-11-13,2,24,home,FALSE,Stanford,76,Cardinal,Stanford Cardinal,Stanford
+313170024,2012,regular-season,2011-11-13,2,2250,away,FALSE,Gonzaga,61,Bulldogs,Gonzaga Bulldogs,Gonzaga
+313172623,2012,regular-season,2011-11-13,2,2623,home,FALSE,Missouri State,64,Lady Bears,Missouri State Lady Bears,Missouri St
+313172623,2012,regular-season,2011-11-13,2,97,away,FALSE,Louisville,73,Cardinals,Louisville Cardinals,Louisville
+313170120,2012,regular-season,2011-11-13,2,120,home,FALSE,Maryland,72,Terrapins,Maryland Terrapins,Maryland
+313170120,2012,regular-season,2011-11-13,2,46,away,FALSE,Georgetown,53,Hoyas,Georgetown Hoyas,Georgetown
+313160201,2012,regular-season,2011-11-13,2,201,home,FALSE,Oklahoma,117,Sooners,Oklahoma Sooners,Oklahoma
+313160201,2012,regular-season,2011-11-13,2,16,away,FALSE,Sacramento State,55,Hornets,Sacramento State Hornets,Sacramento St
+313170164,2012,regular-season,2011-11-13,2,164,home,FALSE,Rutgers,73,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+313170164,2012,regular-season,2011-11-13,2,25,away,FALSE,California,70,Golden Bears,California Golden Bears,California
+313172509,2012,regular-season,2011-11-13,2,2509,home,FALSE,Purdue,75,Boilermakers,Purdue Boilermakers,Purdue
+313172509,2012,regular-season,2011-11-13,2,85,away,FALSE,IU Indianapolis,45,Jaguars,IU Indianapolis Jaguars,IU Indy
+313170153,2012,regular-season,2011-11-13,2,153,home,FALSE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
+313170153,2012,regular-season,2011-11-13,2,2908,away,FALSE,South Carolina Upstate,34,Spartans,South Carolina Upstate Spartans,SC Upstate
+313170194,2012,regular-season,2011-11-13,2,194,home,FALSE,Ohio State,78,Buckeyes,Ohio State Buckeyes,Ohio State
+313170194,2012,regular-season,2011-11-13,2,2634,away,FALSE,Tennessee State,51,Lady Tigers,Tennessee State Lady Tigers,Tennessee St

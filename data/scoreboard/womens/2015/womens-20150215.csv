@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400595046,2015-02-15,2,2579,home,FALSE,South Carolina,89,Gamecocks,South Carolina Gamecocks,South Carolina
-400595046,2015-02-15,2,238,away,FALSE,Vanderbilt,59,Commodores,Vanderbilt Commodores,Vanderbilt
-400592415,2015-02-15,2,239,home,FALSE,Baylor,79,Bears,Baylor Bears,Baylor
-400592415,2015-02-15,2,277,away,FALSE,West Virginia,51,Mountaineers,West Virginia Mountaineers,West Virginia
-400594991,2015-02-15,2,2633,home,FALSE,Tennessee,72,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400594991,2015-02-15,2,96,away,FALSE,Kentucky,58,Wildcats,Kentucky Wildcats,Kentucky
-400593148,2015-02-15,2,258,home,FALSE,Virginia,56,Cavaliers,Virginia Cavaliers,Virginia
-400593148,2015-02-15,2,52,away,FALSE,Florida State,65,Seminoles,Florida State Seminoles,Florida St
-400590528,2015-02-15,2,204,home,FALSE,Oregon State,73,Beavers,Oregon State Beavers,Oregon St
-400590528,2015-02-15,2,12,away,FALSE,Arizona,48,Wildcats,Arizona Wildcats,Arizona
-400593147,2015-02-15,2,97,home,FALSE,Louisville,75,Cardinals,Louisville Cardinals,Louisville
-400593147,2015-02-15,2,153,away,FALSE,North Carolina,66,Tar Heels,North Carolina Tar Heels,North Carolina
-400590530,2015-02-15,2,2483,home,FALSE,Oregon,52,Ducks,Oregon Ducks,Oregon
-400590530,2015-02-15,2,9,away,FALSE,Arizona State,72,Sun Devils,Arizona State Sun Devils,Arizona St
-400594954,2015-02-15,2,344,home,FALSE,Mississippi State,75,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400594954,2015-02-15,2,57,away,FALSE,Florida,62,Gators,Florida Gators,Florida
-400596737,2015-02-15,2,2294,home,FALSE,Iowa,81,Hawkeyes,Iowa Hawkeyes,Iowa
-400596737,2015-02-15,2,84,away,FALSE,Indiana,64,Hoosiers,Indiana Hoosiers,Indiana
-400590529,2015-02-15,2,24,home,FALSE,Stanford,68,Cardinal,Stanford Cardinal,Stanford
-400590529,2015-02-15,2,26,away,FALSE,UCLA,50,Bruins,UCLA Bruins,UCLA
-400592884,2015-02-15,2,45,home,FALSE,George Washington,70,Revolutionaries,George Washington Revolutionaries,G Washington
-400592884,2015-02-15,2,179,away,FALSE,St. Bonaventure,48,Bonnies,St. Bonaventure Bonnies,St Bonaventure
-400596736,2015-02-15,2,158,home,FALSE,Nebraska,70,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400596736,2015-02-15,2,275,away,FALSE,Wisconsin,63,Badgers,Wisconsin Badgers,Wisconsin
-400593149,2015-02-15,2,259,home,FALSE,Virginia Tech,51,Hokies,Virginia Tech Hokies,Virginia Tech
-400593149,2015-02-15,2,183,away,FALSE,Syracuse,59,Orange,Syracuse Orange,Syracuse
-400597540,2015-02-15,2,151,home,FALSE,East Carolina,65,Pirates,East Carolina Pirates,East Carolina
-400597540,2015-02-15,2,58,away,FALSE,South Florida,64,Bulls,South Florida Bulls,South Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400595046,2015,regular-season,2015-02-15,2,2579,home,FALSE,South Carolina,89,Gamecocks,South Carolina Gamecocks,South Carolina
+400595046,2015,regular-season,2015-02-15,2,238,away,FALSE,Vanderbilt,59,Commodores,Vanderbilt Commodores,Vanderbilt
+400592415,2015,regular-season,2015-02-15,2,239,home,FALSE,Baylor,79,Bears,Baylor Bears,Baylor
+400592415,2015,regular-season,2015-02-15,2,277,away,FALSE,West Virginia,51,Mountaineers,West Virginia Mountaineers,West Virginia
+400594991,2015,regular-season,2015-02-15,2,2633,home,FALSE,Tennessee,72,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400594991,2015,regular-season,2015-02-15,2,96,away,FALSE,Kentucky,58,Wildcats,Kentucky Wildcats,Kentucky
+400593148,2015,regular-season,2015-02-15,2,258,home,FALSE,Virginia,56,Cavaliers,Virginia Cavaliers,Virginia
+400593148,2015,regular-season,2015-02-15,2,52,away,FALSE,Florida State,65,Seminoles,Florida State Seminoles,Florida St
+400590528,2015,regular-season,2015-02-15,2,204,home,FALSE,Oregon State,73,Beavers,Oregon State Beavers,Oregon St
+400590528,2015,regular-season,2015-02-15,2,12,away,FALSE,Arizona,48,Wildcats,Arizona Wildcats,Arizona
+400593147,2015,regular-season,2015-02-15,2,97,home,FALSE,Louisville,75,Cardinals,Louisville Cardinals,Louisville
+400593147,2015,regular-season,2015-02-15,2,153,away,FALSE,North Carolina,66,Tar Heels,North Carolina Tar Heels,North Carolina
+400590530,2015,regular-season,2015-02-15,2,2483,home,FALSE,Oregon,52,Ducks,Oregon Ducks,Oregon
+400590530,2015,regular-season,2015-02-15,2,9,away,FALSE,Arizona State,72,Sun Devils,Arizona State Sun Devils,Arizona St
+400594954,2015,regular-season,2015-02-15,2,344,home,FALSE,Mississippi State,75,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400594954,2015,regular-season,2015-02-15,2,57,away,FALSE,Florida,62,Gators,Florida Gators,Florida
+400596737,2015,regular-season,2015-02-15,2,2294,home,FALSE,Iowa,81,Hawkeyes,Iowa Hawkeyes,Iowa
+400596737,2015,regular-season,2015-02-15,2,84,away,FALSE,Indiana,64,Hoosiers,Indiana Hoosiers,Indiana
+400590529,2015,regular-season,2015-02-15,2,24,home,FALSE,Stanford,68,Cardinal,Stanford Cardinal,Stanford
+400590529,2015,regular-season,2015-02-15,2,26,away,FALSE,UCLA,50,Bruins,UCLA Bruins,UCLA
+400592884,2015,regular-season,2015-02-15,2,45,home,FALSE,George Washington,70,Revolutionaries,George Washington Revolutionaries,G Washington
+400592884,2015,regular-season,2015-02-15,2,179,away,FALSE,St. Bonaventure,48,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+400596736,2015,regular-season,2015-02-15,2,158,home,FALSE,Nebraska,70,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400596736,2015,regular-season,2015-02-15,2,275,away,FALSE,Wisconsin,63,Badgers,Wisconsin Badgers,Wisconsin
+400593149,2015,regular-season,2015-02-15,2,259,home,FALSE,Virginia Tech,51,Hokies,Virginia Tech Hokies,Virginia Tech
+400593149,2015,regular-season,2015-02-15,2,183,away,FALSE,Syracuse,59,Orange,Syracuse Orange,Syracuse
+400597540,2015,regular-season,2015-02-15,2,151,home,FALSE,East Carolina,65,Pirates,East Carolina Pirates,East Carolina
+400597540,2015,regular-season,2015-02-15,2,58,away,FALSE,South Florida,64,Bulls,South Florida Bulls,South Florida

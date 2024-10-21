@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400910699,2017-02-14,2,96,home,FALSE,Kentucky,83,Wildcats,Kentucky Wildcats,Kentucky
-400910699,2017-02-14,2,2633,away,FALSE,Tennessee,58,Volunteers,Tennessee Volunteers,Tennessee
-400910627,2017-02-14,2,2,home,FALSE,Auburn,95,Tigers,Auburn Tigers,Auburn
-400910627,2017-02-14,2,57,away,FALSE,Florida,114,Gators,Florida Gators,Florida
-400915194,2017-02-14,2,2509,home,FALSE,Purdue,74,Boilermakers,Purdue Boilermakers,Purdue
-400915194,2017-02-14,2,164,away,FALSE,Rutgers,55,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400915440,2017-02-14,2,103,home,FALSE,Boston College,76,Eagles,Boston College Eagles,Boston College
-400915440,2017-02-14,2,87,away,FALSE,Notre Dame,84,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400910699,2017,regular-season,2017-02-14,2,96,home,FALSE,Kentucky,83,Wildcats,Kentucky Wildcats,Kentucky
+400910699,2017,regular-season,2017-02-14,2,2633,away,FALSE,Tennessee,58,Volunteers,Tennessee Volunteers,Tennessee
+400910627,2017,regular-season,2017-02-14,2,2,home,FALSE,Auburn,95,Tigers,Auburn Tigers,Auburn
+400910627,2017,regular-season,2017-02-14,2,57,away,FALSE,Florida,114,Gators,Florida Gators,Florida
+400915194,2017,regular-season,2017-02-14,2,2509,home,FALSE,Purdue,74,Boilermakers,Purdue Boilermakers,Purdue
+400915194,2017,regular-season,2017-02-14,2,164,away,FALSE,Rutgers,55,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400915440,2017,regular-season,2017-02-14,2,103,home,FALSE,Boston College,76,Eagles,Boston College Eagles,Boston College
+400915440,2017,regular-season,2017-02-14,2,87,away,FALSE,Notre Dame,84,Fighting Irish,Notre Dame Fighting Irish,Notre Dame

@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280090153,2008-01-09,2,153,home,FALSE,North Carolina,93,Tar Heels,North Carolina Tar Heels,North Carolina
-280090153,2008-01-09,2,2427,away,FALSE,UNC Asheville,81,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-280090235,2008-01-09,2,235,home,FALSE,Memphis,99,Tigers,Memphis Tigers,Memphis
-280090235,2008-01-09,2,151,away,FALSE,East Carolina,58,Pirates,East Carolina Pirates,East Carolina
-280092633,2008-01-09,2,2633,home,FALSE,Tennessee,85,Volunteers,Tennessee Volunteers,Tennessee
-280092633,2008-01-09,2,145,away,FALSE,Ole Miss,83,Rebels,Ole Miss Rebels,Ole Miss
-280090218,2008-01-09,2,218,home,FALSE,Temple,64,Owls,Temple Owls,Temple
-280090218,2008-01-09,2,150,away,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
-280090238,2008-01-09,2,238,home,FALSE,Vanderbilt,80,Commodores,Vanderbilt Commodores,Vanderbilt
-280090238,2008-01-09,2,2579,away,FALSE,South Carolina,73,Gamecocks,South Carolina Gamecocks,South Carolina
-280092168,2008-01-09,2,2168,home,FALSE,Dayton,92,Flyers,Dayton Flyers,Dayton
-280092168,2008-01-09,2,227,away,FALSE,Rhode Island,83,Rams,Rhode Island Rams,Rhode Island
-280090228,2008-01-09,2,228,home,FALSE,Clemson,72,Tigers,Clemson Tigers,Clemson
-280090228,2008-01-09,2,2429,away,FALSE,Charlotte,82,49ers,Charlotte 49ers,Charlotte
-280090058,2008-01-09,2,58,home,FALSE,South Florida,66,Bulls,South Florida Bulls,South Florida
-280090058,2008-01-09,2,221,away,FALSE,Pittsburgh,79,Panthers,Pittsburgh Panthers,Pitt
-280092752,2008-01-09,2,2752,home,FALSE,Xavier,83,Musketeers,Xavier Musketeers,Xavier
-280092752,2008-01-09,2,179,away,FALSE,St. Bonaventure,68,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280090153,2008,regular-season,2008-01-09,2,153,home,FALSE,North Carolina,93,Tar Heels,North Carolina Tar Heels,North Carolina
+280090153,2008,regular-season,2008-01-09,2,2427,away,FALSE,UNC Asheville,81,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+280090235,2008,regular-season,2008-01-09,2,235,home,FALSE,Memphis,99,Tigers,Memphis Tigers,Memphis
+280090235,2008,regular-season,2008-01-09,2,151,away,FALSE,East Carolina,58,Pirates,East Carolina Pirates,East Carolina
+280092633,2008,regular-season,2008-01-09,2,2633,home,FALSE,Tennessee,85,Volunteers,Tennessee Volunteers,Tennessee
+280092633,2008,regular-season,2008-01-09,2,145,away,FALSE,Ole Miss,83,Rebels,Ole Miss Rebels,Ole Miss
+280090218,2008,regular-season,2008-01-09,2,218,home,FALSE,Temple,64,Owls,Temple Owls,Temple
+280090218,2008,regular-season,2008-01-09,2,150,away,FALSE,Duke,74,Blue Devils,Duke Blue Devils,Duke
+280090238,2008,regular-season,2008-01-09,2,238,home,FALSE,Vanderbilt,80,Commodores,Vanderbilt Commodores,Vanderbilt
+280090238,2008,regular-season,2008-01-09,2,2579,away,FALSE,South Carolina,73,Gamecocks,South Carolina Gamecocks,South Carolina
+280092168,2008,regular-season,2008-01-09,2,2168,home,FALSE,Dayton,92,Flyers,Dayton Flyers,Dayton
+280092168,2008,regular-season,2008-01-09,2,227,away,FALSE,Rhode Island,83,Rams,Rhode Island Rams,Rhode Island
+280090228,2008,regular-season,2008-01-09,2,228,home,FALSE,Clemson,72,Tigers,Clemson Tigers,Clemson
+280090228,2008,regular-season,2008-01-09,2,2429,away,FALSE,Charlotte,82,49ers,Charlotte 49ers,Charlotte
+280090058,2008,regular-season,2008-01-09,2,58,home,FALSE,South Florida,66,Bulls,South Florida Bulls,South Florida
+280090058,2008,regular-season,2008-01-09,2,221,away,FALSE,Pittsburgh,79,Panthers,Pittsburgh Panthers,Pitt
+280092752,2008,regular-season,2008-01-09,2,2752,home,FALSE,Xavier,83,Musketeers,Xavier Musketeers,Xavier
+280092752,2008,regular-season,2008-01-09,2,179,away,FALSE,St. Bonaventure,68,Bonnies,St. Bonaventure Bonnies,St Bonaventure

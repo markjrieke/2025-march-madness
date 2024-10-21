@@ -1,39 +1,39 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401599536,2024-02-17,2,41,home,FALSE,UConn,81,Huskies,UConn Huskies,UConn
-401599536,2024-02-17,2,269,away,FALSE,Marquette,53,Golden Eagles,Marquette Golden Eagles,Marquette
-401603476,2024-02-17,2,248,home,FALSE,Houston,82,Cougars,Houston Cougars,Houston
-401603476,2024-02-17,2,251,away,FALSE,Texas,61,Longhorns,Texas Longhorns,Texas
-401607425,2024-02-17,2,12,home,FALSE,Arizona,105,Wildcats,Arizona Wildcats,Arizona
-401607425,2024-02-17,2,9,away,FALSE,Arizona State,60,Sun Devils,Arizona State Sun Devils,Arizona St
-401603479,2024-02-17,2,201,home,FALSE,Oklahoma,57,Sooners,Oklahoma Sooners,Oklahoma
-401603479,2024-02-17,2,2305,away,FALSE,Kansas,67,Jayhawks,Kansas Jayhawks,Kansas
-401604190,2024-02-17,2,153,home,FALSE,North Carolina,96,Tar Heels,North Carolina Tar Heels,North Carolina
-401604190,2024-02-17,2,259,away,FALSE,Virginia Tech,81,Hokies,Virginia Tech Hokies,Virginia Tech
-401597188,2024-02-17,2,2633,home,FALSE,Tennessee,88,Volunteers,Tennessee Volunteers,Tennessee
-401597188,2024-02-17,2,238,away,FALSE,Vanderbilt,53,Commodores,Vanderbilt Commodores,Vanderbilt
-401604194,2024-02-17,2,52,home,FALSE,Florida State,67,Seminoles,Florida State Seminoles,Florida St
-401604194,2024-02-17,2,150,away,FALSE,Duke,76,Blue Devils,Duke Blue Devils,Duke
-401603477,2024-02-17,2,66,home,FALSE,Iowa State,82,Cyclones,Iowa State Cyclones,Iowa State
-401603477,2024-02-17,2,2641,away,FALSE,Texas Tech,74,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401597193,2024-02-17,2,2579,home,FALSE,South Carolina,63,Gamecocks,South Carolina Gamecocks,South Carolina
-401597193,2024-02-17,2,99,away,FALSE,LSU,64,Tigers,LSU Tigers,LSU
-401603482,2024-02-17,2,277,home,FALSE,West Virginia,81,Mountaineers,West Virginia Mountaineers,West Virginia
-401603482,2024-02-17,2,239,away,FALSE,Baylor,94,Bears,Baylor Bears,Baylor
-401597190,2024-02-17,2,2,home,FALSE,Auburn,59,Tigers,Auburn Tigers,Auburn
-401597190,2024-02-17,2,96,away,FALSE,Kentucky,70,Wildcats,Kentucky Wildcats,Kentucky
-401600390,2024-02-17,2,120,home,FALSE,Maryland,80,Terrapins,Maryland Terrapins,Maryland
-401600390,2024-02-17,2,356,away,FALSE,Illinois,85,Fighting Illini,Illinois Fighting Illini,Illinois
-401597189,2024-02-17,2,333,home,FALSE,Alabama,100,Crimson Tide,Alabama Crimson Tide,Alabama
-401597189,2024-02-17,2,245,away,FALSE,Texas A&M,75,Aggies,Texas A&M Aggies,Texas A&M
-401596906,2024-02-17,2,2168,home,FALSE,Dayton,78,Flyers,Dayton Flyers,Dayton
-401596906,2024-02-17,2,2230,away,FALSE,Fordham,70,Rams,Fordham Rams,Fordham
-401599534,2024-02-17,2,2086,home,FALSE,Butler,57,Bulldogs,Butler Bulldogs,Butler
-401599534,2024-02-17,2,156,away,FALSE,Creighton,79,Bluejays,Creighton Bluejays,Creighton
-401603480,2024-02-17,2,197,home,FALSE,Oklahoma State,93,Cowboys,Oklahoma State Cowboys,Oklahoma St
-401603480,2024-02-17,2,252,away,FALSE,BYU,83,Cougars,BYU Cougars,BYU
-401600393,2024-02-17,3,2294,home,FALSE,Iowa,88,Hawkeyes,Iowa Hawkeyes,Iowa
-401600393,2024-02-17,3,275,away,FALSE,Wisconsin,86,Badgers,Wisconsin Badgers,Wisconsin
-401604191,2024-02-17,2,258,home,FALSE,Virginia,49,Cavaliers,Virginia Cavaliers,Virginia
-401604191,2024-02-17,2,154,away,FALSE,Wake Forest,47,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-401601900,2024-02-17,2,79,home,FALSE,Southern Illinois,74,Salukis,Southern Illinois Salukis,S Illinois
-401601900,2024-02-17,2,282,away,FALSE,Indiana State,69,Sycamores,Indiana State Sycamores,Indiana St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401599536,2024,regular-season,2024-02-17,2,41,home,FALSE,UConn,81,Huskies,UConn Huskies,UConn
+401599536,2024,regular-season,2024-02-17,2,269,away,FALSE,Marquette,53,Golden Eagles,Marquette Golden Eagles,Marquette
+401603476,2024,regular-season,2024-02-17,2,248,home,FALSE,Houston,82,Cougars,Houston Cougars,Houston
+401603476,2024,regular-season,2024-02-17,2,251,away,FALSE,Texas,61,Longhorns,Texas Longhorns,Texas
+401607425,2024,regular-season,2024-02-17,2,12,home,FALSE,Arizona,105,Wildcats,Arizona Wildcats,Arizona
+401607425,2024,regular-season,2024-02-17,2,9,away,FALSE,Arizona State,60,Sun Devils,Arizona State Sun Devils,Arizona St
+401603479,2024,regular-season,2024-02-17,2,201,home,FALSE,Oklahoma,57,Sooners,Oklahoma Sooners,Oklahoma
+401603479,2024,regular-season,2024-02-17,2,2305,away,FALSE,Kansas,67,Jayhawks,Kansas Jayhawks,Kansas
+401604190,2024,regular-season,2024-02-17,2,153,home,FALSE,North Carolina,96,Tar Heels,North Carolina Tar Heels,North Carolina
+401604190,2024,regular-season,2024-02-17,2,259,away,FALSE,Virginia Tech,81,Hokies,Virginia Tech Hokies,Virginia Tech
+401597188,2024,regular-season,2024-02-17,2,2633,home,FALSE,Tennessee,88,Volunteers,Tennessee Volunteers,Tennessee
+401597188,2024,regular-season,2024-02-17,2,238,away,FALSE,Vanderbilt,53,Commodores,Vanderbilt Commodores,Vanderbilt
+401604194,2024,regular-season,2024-02-17,2,52,home,FALSE,Florida State,67,Seminoles,Florida State Seminoles,Florida St
+401604194,2024,regular-season,2024-02-17,2,150,away,FALSE,Duke,76,Blue Devils,Duke Blue Devils,Duke
+401603477,2024,regular-season,2024-02-17,2,66,home,FALSE,Iowa State,82,Cyclones,Iowa State Cyclones,Iowa State
+401603477,2024,regular-season,2024-02-17,2,2641,away,FALSE,Texas Tech,74,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401597193,2024,regular-season,2024-02-17,2,2579,home,FALSE,South Carolina,63,Gamecocks,South Carolina Gamecocks,South Carolina
+401597193,2024,regular-season,2024-02-17,2,99,away,FALSE,LSU,64,Tigers,LSU Tigers,LSU
+401603482,2024,regular-season,2024-02-17,2,277,home,FALSE,West Virginia,81,Mountaineers,West Virginia Mountaineers,West Virginia
+401603482,2024,regular-season,2024-02-17,2,239,away,FALSE,Baylor,94,Bears,Baylor Bears,Baylor
+401597190,2024,regular-season,2024-02-17,2,2,home,FALSE,Auburn,59,Tigers,Auburn Tigers,Auburn
+401597190,2024,regular-season,2024-02-17,2,96,away,FALSE,Kentucky,70,Wildcats,Kentucky Wildcats,Kentucky
+401600390,2024,regular-season,2024-02-17,2,120,home,FALSE,Maryland,80,Terrapins,Maryland Terrapins,Maryland
+401600390,2024,regular-season,2024-02-17,2,356,away,FALSE,Illinois,85,Fighting Illini,Illinois Fighting Illini,Illinois
+401597189,2024,regular-season,2024-02-17,2,333,home,FALSE,Alabama,100,Crimson Tide,Alabama Crimson Tide,Alabama
+401597189,2024,regular-season,2024-02-17,2,245,away,FALSE,Texas A&M,75,Aggies,Texas A&M Aggies,Texas A&M
+401596906,2024,regular-season,2024-02-17,2,2168,home,FALSE,Dayton,78,Flyers,Dayton Flyers,Dayton
+401596906,2024,regular-season,2024-02-17,2,2230,away,FALSE,Fordham,70,Rams,Fordham Rams,Fordham
+401599534,2024,regular-season,2024-02-17,2,2086,home,FALSE,Butler,57,Bulldogs,Butler Bulldogs,Butler
+401599534,2024,regular-season,2024-02-17,2,156,away,FALSE,Creighton,79,Bluejays,Creighton Bluejays,Creighton
+401603480,2024,regular-season,2024-02-17,2,197,home,FALSE,Oklahoma State,93,Cowboys,Oklahoma State Cowboys,Oklahoma St
+401603480,2024,regular-season,2024-02-17,2,252,away,FALSE,BYU,83,Cougars,BYU Cougars,BYU
+401600393,2024,regular-season,2024-02-17,3,2294,home,FALSE,Iowa,88,Hawkeyes,Iowa Hawkeyes,Iowa
+401600393,2024,regular-season,2024-02-17,3,275,away,FALSE,Wisconsin,86,Badgers,Wisconsin Badgers,Wisconsin
+401604191,2024,regular-season,2024-02-17,2,258,home,FALSE,Virginia,49,Cavaliers,Virginia Cavaliers,Virginia
+401604191,2024,regular-season,2024-02-17,2,154,away,FALSE,Wake Forest,47,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+401601900,2024,regular-season,2024-02-17,2,79,home,FALSE,Southern Illinois,74,Salukis,Southern Illinois Salukis,S Illinois
+401601900,2024,regular-season,2024-02-17,2,282,away,FALSE,Indiana State,69,Sycamores,Indiana State Sycamores,Indiana St

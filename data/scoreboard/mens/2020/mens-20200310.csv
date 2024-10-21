@@ -1,37 +1,37 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401211585,2020-03-10,2,154,home,TRUE,Wake Forest,72,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-401211585,2020-03-10,2,221,away,TRUE,Pittsburgh,81,Panthers,Pittsburgh Panthers,Pitt
-401211030,2020-03-10,2,2217,home,TRUE,Fairfield,43,Stags,Fairfield Stags,Fairfield
-401211030,2020-03-10,2,2363,away,TRUE,Manhattan,61,Jaspers,Manhattan Jaspers,Manhattan
-401211040,2020-03-10,2,2169,home,TRUE,Delaware State,68,Hornets,Delaware State Hornets,Delaware St
-401211040,2020-03-10,2,2379,away,TRUE,Maryland Eastern Shore,64,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-401211092,2020-03-10,2,2504,home,FALSE,Prairie View A&M,82,Panthers,Prairie View A&M Panthers,Prairie View
-401211092,2020-03-10,2,2010,away,FALSE,Alabama A&M,60,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
-401211640,2020-03-10,2,94,home,TRUE,Northern Kentucky,71,Norse,Northern Kentucky Norse,N Kentucky
-401211640,2020-03-10,2,82,away,TRUE,UIC,62,Flames,UIC Flames,UIC
-401211586,2020-03-10,2,259,home,TRUE,Virginia Tech,56,Hokies,Virginia Tech Hokies,Virginia Tech
-401211586,2020-03-10,2,153,away,TRUE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
-401211108,2020-03-10,2,261,home,FALSE,Vermont,81,Catamounts,Vermont Catamounts,Vermont
-401211108,2020-03-10,2,2378,away,FALSE,UMBC,74,Retrievers,UMBC Retrievers,UMBC
-401211107,2020-03-10,2,2619,home,FALSE,Stony Brook,58,Seawolves,Stony Brook Seawolves,Stony Brook
-401211107,2020-03-10,2,42,away,FALSE,Hartford,64,Hawks,Hartford Hawks,Hartford
-401210972,2020-03-10,2,2275,home,TRUE,Hofstra,70,Pride,Hofstra Pride,Hofstra
-401210972,2020-03-10,2,111,away,TRUE,Northeastern,61,Huskies,Northeastern Huskies,Northeastern
-401210963,2020-03-10,2,2523,home,FALSE,Robert Morris,77,Colonials,Robert Morris Colonials,Robert Morris
-401210963,2020-03-10,2,2598,away,FALSE,St. Francis (PA),67,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-401211031,2020-03-10,2,314,home,TRUE,Iona,70,Gaels,Iona Gaels,Iona
-401211031,2020-03-10,2,2099,away,TRUE,Canisius,60,Golden Griffins,Canisius Golden Griffins,Canisius
-401211041,2020-03-10,2,2569,home,TRUE,South Carolina State,63,Bulldogs,South Carolina State Bulldogs,SC State
-401211041,2020-03-10,2,47,away,TRUE,Howard,70,Bison,Howard Bison,Howard
-401211089,2020-03-10,2,2640,home,FALSE,Texas Southern,75,Tigers,Texas Southern Tigers,Texas Southern
-401211089,2020-03-10,2,2755,away,FALSE,Grambling,62,Tigers,Grambling Tigers,Grambling
-401211164,2020-03-10,2,2250,home,TRUE,Gonzaga,84,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401211164,2020-03-10,2,2608,away,TRUE,Saint Mary's,66,Gaels,Saint Mary's Gaels,Saint Mary's
-401211091,2020-03-10,2,2296,home,FALSE,Jackson State,69,Tigers,Jackson State Tigers,Jackson St
-401211091,2020-03-10,2,2016,away,FALSE,Alcorn State,52,Braves,Alcorn State Braves,Alcorn St
-401211090,2020-03-10,2,2582,home,FALSE,Southern,67,Jaguars,Southern Jaguars,Southern
-401211090,2020-03-10,2,2011,away,FALSE,Alabama State,53,Hornets,Alabama State Hornets,Alabama St
-401211088,2020-03-10,2,2449,home,TRUE,North Dakota State,89,Bison,North Dakota State Bison,N Dakota St
-401211088,2020-03-10,2,155,away,TRUE,North Dakota,53,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
-401211032,2020-03-10,2,315,home,TRUE,Niagara,56,Purple Eagles,Niagara Purple Eagles,Niagara
-401211032,2020-03-10,2,2368,away,TRUE,Marist,54,Red Foxes,Marist Red Foxes,Marist
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401211585,2020,regular-season,2020-03-10,2,154,home,TRUE,Wake Forest,72,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+401211585,2020,regular-season,2020-03-10,2,221,away,TRUE,Pittsburgh,81,Panthers,Pittsburgh Panthers,Pitt
+401211030,2020,regular-season,2020-03-10,2,2217,home,TRUE,Fairfield,43,Stags,Fairfield Stags,Fairfield
+401211030,2020,regular-season,2020-03-10,2,2363,away,TRUE,Manhattan,61,Jaspers,Manhattan Jaspers,Manhattan
+401211040,2020,regular-season,2020-03-10,2,2169,home,TRUE,Delaware State,68,Hornets,Delaware State Hornets,Delaware St
+401211040,2020,regular-season,2020-03-10,2,2379,away,TRUE,Maryland Eastern Shore,64,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+401211092,2020,regular-season,2020-03-10,2,2504,home,FALSE,Prairie View A&M,82,Panthers,Prairie View A&M Panthers,Prairie View
+401211092,2020,regular-season,2020-03-10,2,2010,away,FALSE,Alabama A&M,60,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+401211640,2020,regular-season,2020-03-10,2,94,home,TRUE,Northern Kentucky,71,Norse,Northern Kentucky Norse,N Kentucky
+401211640,2020,regular-season,2020-03-10,2,82,away,TRUE,UIC,62,Flames,UIC Flames,UIC
+401211586,2020,regular-season,2020-03-10,2,259,home,TRUE,Virginia Tech,56,Hokies,Virginia Tech Hokies,Virginia Tech
+401211586,2020,regular-season,2020-03-10,2,153,away,TRUE,North Carolina,78,Tar Heels,North Carolina Tar Heels,North Carolina
+401211108,2020,regular-season,2020-03-10,2,261,home,FALSE,Vermont,81,Catamounts,Vermont Catamounts,Vermont
+401211108,2020,regular-season,2020-03-10,2,2378,away,FALSE,UMBC,74,Retrievers,UMBC Retrievers,UMBC
+401211107,2020,regular-season,2020-03-10,2,2619,home,FALSE,Stony Brook,58,Seawolves,Stony Brook Seawolves,Stony Brook
+401211107,2020,regular-season,2020-03-10,2,42,away,FALSE,Hartford,64,Hawks,Hartford Hawks,Hartford
+401210972,2020,regular-season,2020-03-10,2,2275,home,TRUE,Hofstra,70,Pride,Hofstra Pride,Hofstra
+401210972,2020,regular-season,2020-03-10,2,111,away,TRUE,Northeastern,61,Huskies,Northeastern Huskies,Northeastern
+401210963,2020,regular-season,2020-03-10,2,2523,home,FALSE,Robert Morris,77,Colonials,Robert Morris Colonials,Robert Morris
+401210963,2020,regular-season,2020-03-10,2,2598,away,FALSE,St. Francis (PA),67,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+401211031,2020,regular-season,2020-03-10,2,314,home,TRUE,Iona,70,Gaels,Iona Gaels,Iona
+401211031,2020,regular-season,2020-03-10,2,2099,away,TRUE,Canisius,60,Golden Griffins,Canisius Golden Griffins,Canisius
+401211041,2020,regular-season,2020-03-10,2,2569,home,TRUE,South Carolina State,63,Bulldogs,South Carolina State Bulldogs,SC State
+401211041,2020,regular-season,2020-03-10,2,47,away,TRUE,Howard,70,Bison,Howard Bison,Howard
+401211089,2020,regular-season,2020-03-10,2,2640,home,FALSE,Texas Southern,75,Tigers,Texas Southern Tigers,Texas Southern
+401211089,2020,regular-season,2020-03-10,2,2755,away,FALSE,Grambling,62,Tigers,Grambling Tigers,Grambling
+401211164,2020,regular-season,2020-03-10,2,2250,home,TRUE,Gonzaga,84,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401211164,2020,regular-season,2020-03-10,2,2608,away,TRUE,Saint Mary's,66,Gaels,Saint Mary's Gaels,Saint Mary's
+401211091,2020,regular-season,2020-03-10,2,2296,home,FALSE,Jackson State,69,Tigers,Jackson State Tigers,Jackson St
+401211091,2020,regular-season,2020-03-10,2,2016,away,FALSE,Alcorn State,52,Braves,Alcorn State Braves,Alcorn St
+401211090,2020,regular-season,2020-03-10,2,2582,home,FALSE,Southern,67,Jaguars,Southern Jaguars,Southern
+401211090,2020,regular-season,2020-03-10,2,2011,away,FALSE,Alabama State,53,Hornets,Alabama State Hornets,Alabama St
+401211088,2020,regular-season,2020-03-10,2,2449,home,TRUE,North Dakota State,89,Bison,North Dakota State Bison,N Dakota St
+401211088,2020,regular-season,2020-03-10,2,155,away,TRUE,North Dakota,53,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
+401211032,2020,regular-season,2020-03-10,2,315,home,TRUE,Niagara,56,Purple Eagles,Niagara Purple Eagles,Niagara
+401211032,2020,regular-season,2020-03-10,2,2368,away,TRUE,Marist,54,Red Foxes,Marist Red Foxes,Marist

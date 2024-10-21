@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401584484,2023-12-13,4,12,home,FALSE,Arizona,75,Wildcats,Arizona Wildcats,Arizona
-401584484,2023-12-13,4,251,away,FALSE,Texas,88,Longhorns,Texas Longhorns,Texas
-401598321,2023-12-13,4,97,home,FALSE,Louisville,74,Cardinals,Louisville Cardinals,Louisville
-401598321,2023-12-13,4,2413,away,FALSE,Morehead State,48,Eagles,Morehead State Eagles,Morehead St
-401604592,2023-12-13,4,269,home,FALSE,Marquette,76,Golden Eagles,Marquette Golden Eagles,Marquette
-401604592,2023-12-13,4,156,away,FALSE,Creighton,70,Bluejays,Creighton Bluejays,Creighton
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401584484,2024,regular-season,2023-12-13,4,12,home,FALSE,Arizona,75,Wildcats,Arizona Wildcats,Arizona
+401584484,2024,regular-season,2023-12-13,4,251,away,FALSE,Texas,88,Longhorns,Texas Longhorns,Texas
+401598321,2024,regular-season,2023-12-13,4,97,home,FALSE,Louisville,74,Cardinals,Louisville Cardinals,Louisville
+401598321,2024,regular-season,2023-12-13,4,2413,away,FALSE,Morehead State,48,Eagles,Morehead State Eagles,Morehead St
+401604592,2024,regular-season,2023-12-13,4,269,home,FALSE,Marquette,76,Golden Eagles,Marquette Golden Eagles,Marquette
+401604592,2024,regular-season,2023-12-13,4,156,away,FALSE,Creighton,70,Bluejays,Creighton Bluejays,Creighton

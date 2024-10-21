@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313550153,2011-12-21,2,153,home,FALSE,North Carolina,82,Tar Heels,North Carolina Tar Heels,North Carolina
-313550153,2011-12-21,2,251,away,FALSE,Texas,63,Longhorns,Texas Longhorns,Texas
-313550093,2011-12-21,2,93,home,FALSE,Murray State,78,Racers,Murray State Racers,Murray St
-313550093,2011-12-21,2,2630,away,FALSE,UT Martin,54,Skyhawks,UT Martin Skyhawks,UT Martin
-313552547,2011-12-21,2,2547,home,FALSE,Seattle U,77,Redhawks,Seattle U Redhawks,Seattle U
-313552547,2011-12-21,2,258,away,FALSE,Virginia,83,Cavaliers,Virginia Cavaliers,Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313550153,2012,regular-season,2011-12-21,2,153,home,FALSE,North Carolina,82,Tar Heels,North Carolina Tar Heels,North Carolina
+313550153,2012,regular-season,2011-12-21,2,251,away,FALSE,Texas,63,Longhorns,Texas Longhorns,Texas
+313550093,2012,regular-season,2011-12-21,2,93,home,FALSE,Murray State,78,Racers,Murray State Racers,Murray St
+313550093,2012,regular-season,2011-12-21,2,2630,away,FALSE,UT Martin,54,Skyhawks,UT Martin Skyhawks,UT Martin
+313552547,2012,regular-season,2011-12-21,2,2547,home,FALSE,Seattle U,77,Redhawks,Seattle U Redhawks,Seattle U
+313552547,2012,regular-season,2011-12-21,2,258,away,FALSE,Virginia,83,Cavaliers,Virginia Cavaliers,Virginia

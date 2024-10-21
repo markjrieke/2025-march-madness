@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290220046,2009-01-22,2,46,home,FALSE,Georgetown,58,Hoyas,Georgetown Hoyas,Georgetown
-290220046,2009-01-22,2,277,away,FALSE,West Virginia,75,Mountaineers,West Virginia Mountaineers,West Virginia
-290220265,2009-01-22,2,265,home,FALSE,Washington State,59,Cougars,Washington State Cougars,Washington St
-290220265,2009-01-22,2,26,away,FALSE,UCLA,61,Bruins,UCLA Bruins,UCLA
-290222086,2009-01-22,2,2086,home,FALSE,Butler,68,Bulldogs,Butler Bulldogs,Butler
-290222086,2009-01-22,2,2739,away,FALSE,Green Bay,59,Phoenix,Green Bay Phoenix,Green Bay
-290220135,2009-01-22,2,135,home,FALSE,Minnesota,62,Golden Gophers,Minnesota Golden Gophers,Minnesota
-290220135,2009-01-22,2,2509,away,FALSE,Purdue,70,Boilermakers,Purdue Boilermakers,Purdue
-290222492,2009-01-22,2,2492,home,FALSE,Pepperdine,69,Waves,Pepperdine Waves,Pepperdine
-290222492,2009-01-22,2,2250,away,FALSE,Gonzaga,83,Bulldogs,Gonzaga Bulldogs,Gonzaga
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290220046,2009,regular-season,2009-01-22,2,46,home,FALSE,Georgetown,58,Hoyas,Georgetown Hoyas,Georgetown
+290220046,2009,regular-season,2009-01-22,2,277,away,FALSE,West Virginia,75,Mountaineers,West Virginia Mountaineers,West Virginia
+290220265,2009,regular-season,2009-01-22,2,265,home,FALSE,Washington State,59,Cougars,Washington State Cougars,Washington St
+290220265,2009,regular-season,2009-01-22,2,26,away,FALSE,UCLA,61,Bruins,UCLA Bruins,UCLA
+290222086,2009,regular-season,2009-01-22,2,2086,home,FALSE,Butler,68,Bulldogs,Butler Bulldogs,Butler
+290222086,2009,regular-season,2009-01-22,2,2739,away,FALSE,Green Bay,59,Phoenix,Green Bay Phoenix,Green Bay
+290220135,2009,regular-season,2009-01-22,2,135,home,FALSE,Minnesota,62,Golden Gophers,Minnesota Golden Gophers,Minnesota
+290220135,2009,regular-season,2009-01-22,2,2509,away,FALSE,Purdue,70,Boilermakers,Purdue Boilermakers,Purdue
+290222492,2009,regular-season,2009-01-22,2,2492,home,FALSE,Pepperdine,69,Waves,Pepperdine Waves,Pepperdine
+290222492,2009,regular-season,2009-01-22,2,2250,away,FALSE,Gonzaga,83,Bulldogs,Gonzaga Bulldogs,Gonzaga

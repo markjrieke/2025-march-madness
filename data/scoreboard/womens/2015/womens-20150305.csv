@@ -1,157 +1,157 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400765436,2015-03-05,2,2099,home,TRUE,Canisius,56,Golden Griffins,Canisius Golden Griffins,Canisius
-400765436,2015-03-05,2,2405,away,TRUE,Monmouth,68,Hawks,Monmouth Hawks,Monmouth
-400766075,2015-03-05,2,183,home,TRUE,Syracuse,79,Orange,Syracuse Orange,Syracuse
-400766075,2015-03-05,2,154,away,TRUE,Wake Forest,85,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-400765437,2015-03-05,2,2520,home,TRUE,Rider,54,Broncs,Rider Broncs,Rider
-400765437,2015-03-05,2,2612,away,TRUE,Saint Peter's,62,Peacocks,Saint Peter's Peacocks,Saint Peter's
-400765422,2015-03-05,2,2670,home,TRUE,VCU,58,Rams,VCU Rams,VCU
-400765422,2015-03-05,2,139,away,TRUE,Saint Louis,65,Billikens,Saint Louis Billikens,Saint Louis
-400765741,2015-03-05,2,2335,home,TRUE,Liberty,59,Flames,Liberty Flames,Liberty
-400765741,2015-03-05,2,2427,away,TRUE,UNC Asheville,51,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-400765235,2015-03-05,2,236,home,TRUE,Chattanooga,78,Mocs,Chattanooga Mocs,Chattanooga
-400765235,2015-03-05,2,2430,away,TRUE,UNC Greensboro,44,Spartans,UNC Greensboro Spartans,UNC Greensboro
-400765426,2015-03-05,2,130,home,TRUE,Michigan,49,Wolverines,Michigan Wolverines,Michigan
-400765426,2015-03-05,2,127,away,TRUE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
-400765434,2015-03-05,2,145,home,TRUE,Ole Miss,61,Rebels,Ole Miss Rebels,Ole Miss
-400765434,2015-03-05,2,8,away,TRUE,Arkansas,72,Razorbacks,Arkansas Razorbacks,Arkansas
-400765438,2015-03-05,2,315,home,TRUE,Niagara,57,Purple Eagles,Niagara Purple Eagles,Niagara
-400765438,2015-03-05,2,2363,away,TRUE,Manhattan,51,Jaspers,Manhattan Jaspers,Manhattan
-400766086,2015-03-05,2,257,home,TRUE,Richmond,67,Spiders,Richmond Spiders,Richmond
-400766086,2015-03-05,2,113,away,TRUE,Massachusetts,63,Minutewomen,Massachusetts Minutewomen,UMass
-400765415,2015-03-05,2,2390,home,TRUE,Miami,62,Hurricanes,Miami Hurricanes,Miami
-400765415,2015-03-05,2,258,away,TRUE,Virginia,52,Cavaliers,Virginia Cavaliers,Virginia
-400765251,2015-03-05,2,2057,home,TRUE,Belmont,55,Bruins,Belmont Bruins,Belmont
-400765251,2015-03-05,2,55,away,TRUE,Jacksonville State,45,Gamecocks,Jacksonville State Gamecocks,Jax State
-400599174,2015-03-05,2,2379,home,FALSE,Maryland Eastern Shore,50,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-400599174,2015-03-05,2,2415,away,FALSE,Morgan State,65,Lady Bears,Morgan State Lady Bears,Morgan St
-400765236,2015-03-05,2,2535,home,TRUE,Samford,54,Bulldogs,Samford Bulldogs,Samford
-400765236,2015-03-05,2,231,away,TRUE,Furman,65,Paladins,Furman Paladins,Furman
-400765257,2015-03-05,2,2737,home,TRUE,Winthrop,52,Eagles,Winthrop Eagles,Winthrop
-400765257,2015-03-05,2,2097,away,TRUE,Campbell,65,Fighting Camels,Campbell Fighting Camels,Campbell
-400765428,2015-03-05,2,265,home,TRUE,Washington State,66,Cougars,Washington State Cougars,Washington St
-400765428,2015-03-05,2,2483,away,TRUE,Oregon,64,Ducks,Oregon Ducks,Oregon
-400766097,2015-03-05,2,164,home,TRUE,Rutgers,63,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400766097,2015-03-05,2,84,away,TRUE,Indiana,52,Hoosiers,Indiana Hoosiers,Indiana
-400765400,2015-03-05,2,2351,home,TRUE,Loyola Marymount,68,Lions,Loyola Marymount Lions,LMU
-400765400,2015-03-05,2,2492,away,TRUE,Pepperdine,67,Waves,Pepperdine Waves,Pepperdine
-400766087,2015-03-05,2,245,home,TRUE,Texas A&M,57,Aggies,Texas A&M Aggies,Texas A&M
-400766087,2015-03-05,2,2,away,TRUE,Auburn,47,Tigers,Auburn Tigers,Auburn
-400765252,2015-03-05,2,2634,home,TRUE,Tennessee State,81,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
-400765252,2015-03-05,2,2413,away,TRUE,Morehead State,66,Eagles,Morehead State Eagles,Morehead St
-400765423,2015-03-05,2,2603,home,TRUE,Saint Joseph's,71,Hawks,Saint Joseph's Hawks,Saint Joseph's
-400765423,2015-03-05,2,2244,away,TRUE,George Mason,43,Patriots,George Mason Patriots,George Mason
-400765237,2015-03-05,2,2193,home,TRUE,East Tennessee State,73,Bucs,East Tennessee State Bucs,ETSU
-400765237,2015-03-05,2,2717,away,TRUE,Western Carolina,53,Catamounts,Western Carolina Catamounts,W Carolina
-400765429,2015-03-05,2,26,home,TRUE,UCLA,80,Bruins,UCLA Bruins,UCLA
-400765429,2015-03-05,2,12,away,TRUE,Arizona,62,Wildcats,Arizona Wildcats,Arizona
-400602089,2015-03-05,2,290,home,FALSE,Georgia Southern,41,Eagles,Georgia Southern Eagles,GA Southern
-400602089,2015-03-05,2,250,away,FALSE,UT Arlington,66,Mavericks,UT Arlington Mavericks,UT Arlington
-400602041,2015-03-05,2,2026,home,FALSE,App State,61,Mountaineers,App State Mountaineers,App State
-400602041,2015-03-05,2,326,away,FALSE,Texas State,55,Bobcats,Texas State Bobcats,Texas St
-400590155,2015-03-05,2,2393,home,FALSE,Middle Tennessee,79,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-400590155,2015-03-05,2,2229,away,FALSE,Florida International,30,Panthers,Florida International Panthers,FIU
-400765401,2015-03-05,2,2541,home,TRUE,Santa Clara,66,Broncos,Santa Clara Broncos,Santa Clara
-400765401,2015-03-05,2,2501,away,TRUE,Portland,58,Pilots,Portland Pilots,Portland
-400599178,2015-03-05,2,2428,home,FALSE,North Carolina Central,46,Eagles,North Carolina Central Eagles,NC Central
-400599178,2015-03-05,2,2448,away,FALSE,North Carolina A&T,67,Aggies,North Carolina A&T Aggies,NC A&T
-400599177,2015-03-05,2,2261,home,FALSE,Hampton,64,Lady Pirates,Hampton Lady Pirates,Hampton
-400599177,2015-03-05,2,2450,away,FALSE,Norfolk State,49,Spartans,Norfolk State Spartans,Norfolk St
-400599175,2015-03-05,2,2065,home,FALSE,Bethune-Cookman,56,Wildcats,Bethune-Cookman Wildcats,Bethune
-400599175,2015-03-05,2,2569,away,FALSE,South Carolina State,57,Lady Bulldogs,South Carolina State Lady Bulldogs,SC State
-400599173,2015-03-05,2,2154,home,FALSE,Coppin State,79,Eagles,Coppin State Eagles,Coppin St
-400599173,2015-03-05,2,2169,away,FALSE,Delaware State,51,Hornets,Delaware State Hornets,Delaware St
-400590156,2015-03-05,2,5,home,FALSE,UAB,59,Blazers,UAB Blazers,UAB
-400590156,2015-03-05,2,2226,away,FALSE,Florida Atlantic,56,Owls,Florida Atlantic Owls,FAU
-400766085,2015-03-05,2,221,home,TRUE,Pittsburgh,45,Panthers,Pittsburgh Panthers,Pitt
-400766085,2015-03-05,2,259,away,TRUE,Virginia Tech,51,Hokies,Virginia Tech Hokies,Virginia Tech
-400765680,2015-03-05,2,2515,home,TRUE,Radford,56,Highlanders,Radford Highlanders,Radford
-400765680,2015-03-05,2,2241,away,TRUE,Gardner-Webb,70,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-400765435,2015-03-05,2,142,home,TRUE,Missouri,64,Tigers,Missouri Tigers,Missouri
-400765435,2015-03-05,2,61,away,TRUE,Georgia,75,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-400602059,2015-03-05,2,309,home,FALSE,Louisiana,66,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
-400602059,2015-03-05,2,2031,away,FALSE,Little Rock,68,Trojans,Little Rock Trojans,Little Rock
-400599176,2015-03-05,2,50,home,FALSE,Florida A&M,51,Rattlers,Florida A&M Rattlers,Florida A&M
-400599176,2015-03-05,2,2542,away,FALSE,Savannah State,72,Tigers,Savannah State Tigers,Savannah St
-400592135,2015-03-05,2,357,home,FALSE,Texas A&M-Corpus Christi,73,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-400592135,2015-03-05,2,2277,away,FALSE,Houston Christian,48,Huskies,Houston Christian Huskies,Hou Christian
-400592134,2015-03-05,2,2447,home,FALSE,Nicholls,53,Colonels,Nicholls Colonels,Nicholls
-400592134,2015-03-05,2,2110,away,FALSE,Central Arkansas,43,Sugar Bears,Central Arkansas Sugar Bears,C Arkansas
-400590157,2015-03-05,2,276,home,FALSE,Marshall,55,Thundering Herd,Marshall Thundering Herd,Marshall
-400590157,2015-03-05,2,295,away,FALSE,Old Dominion,67,Monarchs,Old Dominion Monarchs,Old Dominion
-400602074,2015-03-05,2,2032,home,FALSE,Arkansas State,70,Red Wolves,Arkansas State Red Wolves,Arkansas St
-400602074,2015-03-05,2,6,away,FALSE,South Alabama,60,Jaguars,South Alabama Jaguars,South Alabama
-400602106,2015-03-05,2,2433,home,FALSE,UL Monroe,61,Warhawks,UL Monroe Warhawks,UL Monroe
-400602106,2015-03-05,2,2247,away,FALSE,Georgia State,66,Panthers,Georgia State Panthers,Georgia St
-400603459,2015-03-05,2,2504,home,FALSE,Prairie View A&M,50,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
-400603459,2015-03-05,2,2582,away,FALSE,Southern,78,Jaguars,Southern Jaguars,Southern
-400602018,2015-03-05,2,2640,home,FALSE,Texas Southern,73,Tigers,Texas Southern Tigers,Texas Southern
-400602018,2015-03-05,2,2016,away,FALSE,Alcorn State,55,Lady Braves,Alcorn State Lady Braves,Alcorn St
-400602016,2015-03-05,2,2296,home,FALSE,Jackson State,66,Lady Tigers,Jackson State Lady Tigers,Jackson St
-400602016,2015-03-05,2,2010,away,FALSE,Alabama A&M,58,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
-400602015,2015-03-05,2,2755,home,FALSE,Grambling,62,Lady Tigers,Grambling Lady Tigers,Grambling
-400602015,2015-03-05,2,2011,away,FALSE,Alabama State,68,Lady Hornets,Alabama State Lady Hornets,Alabama St
-400592139,2015-03-05,2,2320,home,FALSE,Lamar,92,Cardinals,Lamar Cardinals,Lamar
-400592139,2015-03-05,2,2534,away,FALSE,Sam Houston,73,Bearkats,Sam Houston Bearkats,Sam Houston
-400592138,2015-03-05,2,2617,home,FALSE,Stephen F. Austin,56,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
-400592138,2015-03-05,2,2466,away,FALSE,Northwestern State,45,Lady Demons,Northwestern State Lady Demons,N'Western St
-400592136,2015-03-05,2,2443,home,FALSE,New Orleans,84,Privateers,New Orleans Privateers,New Orleans
-400592136,2015-03-05,2,2545,away,FALSE,SE Louisiana,75,Lady Lions,SE Louisiana Lady Lions,SE Louisiana
-400765238,2015-03-05,2,2382,home,TRUE,Mercer,75,Bears,Mercer Bears,Mercer
-400765238,2015-03-05,2,2747,away,TRUE,Wofford,54,Terriers,Wofford Terriers,Wofford
-400766096,2015-03-05,2,227,home,TRUE,Rhode Island,65,Rams,Rhode Island Rams,Rhode Island
-400766096,2015-03-05,2,2325,away,TRUE,La Salle,60,Explorers,La Salle Explorers,La Salle
-400765427,2015-03-05,2,158,home,TRUE,Nebraska,86,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400765427,2015-03-05,2,356,away,TRUE,Illinois,71,Fighting Illini,Illinois Fighting Illini,Illinois
-400598782,2015-03-05,2,2473,home,FALSE,Oakland,70,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-400598782,2015-03-05,2,2674,away,FALSE,Valparaiso,55,Beacons,Valparaiso Beacons,Valparaiso
-400592137,2015-03-05,2,2916,home,FALSE,Incarnate Word,62,Cardinals,Incarnate Word Cardinals,Incarnate Word
-400592137,2015-03-05,2,2000,away,FALSE,Abilene Christian,72,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
-400590152,2015-03-05,2,242,home,FALSE,Rice,49,Owls,Rice Owls,Rice
-400590152,2015-03-05,2,2636,away,FALSE,UTSA,60,Roadrunners,UTSA Roadrunners,UTSA
-400589890,2015-03-05,2,282,home,FALSE,Indiana State,56,Sycamores,Indiana State Sycamores,Indiana St
-400589890,2015-03-05,2,2623,away,FALSE,Missouri State,65,Lady Bears,Missouri State Lady Bears,Missouri St
-400590154,2015-03-05,2,98,home,FALSE,Western Kentucky,80,Lady Toppers,Western Kentucky Lady Toppers,Western KY
-400590154,2015-03-05,2,2429,away,FALSE,Charlotte,72,49ers,Charlotte 49ers,Charlotte
-400590153,2015-03-05,2,249,home,FALSE,North Texas,61,Mean Green,North Texas Mean Green,North Texas
-400590153,2015-03-05,2,2638,away,FALSE,UTEP,69,Miners,UTEP Miners,UTEP
-400589893,2015-03-05,2,339,home,FALSE,Evansville,63,Purple Aces,Evansville Purple Aces,Evansville
-400589893,2015-03-05,2,2724,away,FALSE,Wichita State,77,Shockers,Wichita State Shockers,Wichita St
-400589891,2015-03-05,2,2460,home,FALSE,Northern Iowa,69,Panthers,Northern Iowa Panthers,Northern Iowa
-400589891,2015-03-05,2,2350,away,FALSE,Loyola Chicago,64,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-400589892,2015-03-05,2,2181,home,FALSE,Drake,86,Bulldogs,Drake Bulldogs,Drake
-400589892,2015-03-05,2,71,away,FALSE,Bradley,70,Braves,Bradley Braves,Bradley
-400766101,2015-03-05,2,96,home,TRUE,Kentucky,67,Wildcats,Kentucky Wildcats,Kentucky
-400766101,2015-03-05,2,238,away,TRUE,Vanderbilt,61,Commodores,Vanderbilt Commodores,Vanderbilt
-400766095,2015-03-05,2,153,home,TRUE,North Carolina,84,Tar Heels,North Carolina Tar Heels,North Carolina
-400766095,2015-03-05,2,59,away,TRUE,Georgia Tech,64,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-400765681,2015-03-05,2,2272,home,TRUE,High Point,75,Panthers,High Point Panthers,High Point
-400765681,2015-03-05,2,2506,away,TRUE,Presbyterian,62,Blue Hose,Presbyterian Blue Hose,Presbyterian
-400765430,2015-03-05,2,30,home,TRUE,USC,63,Trojans,USC Trojans,USC
-400765430,2015-03-05,2,38,away,TRUE,Colorado,75,Buffaloes,Colorado Buffaloes,Colorado
-400765402,2015-03-05,2,279,home,TRUE,Pacific,64,Tigers,Pacific Tigers,Pacific
-400765402,2015-03-05,2,2539,away,TRUE,San Francisco,74,Dons,San Francisco Dons,San Francisco
-400596954,2015-03-05,2,331,home,FALSE,Eastern Washington,62,Eagles,Eastern Washington Eagles,E Washington
-400596954,2015-03-05,2,304,away,FALSE,Idaho State,58,Bengals,Idaho State Bengals,Idaho St
-400596953,2015-03-05,2,70,home,FALSE,Idaho,71,Vandals,Idaho Vandals,Idaho
-400596953,2015-03-05,2,2692,away,FALSE,Weber State,42,Wildcats,Weber State Wildcats,Weber St
-400766110,2015-03-05,2,135,home,TRUE,Minnesota,82,Golden Gophers,Minnesota Golden Gophers,Minnesota
-400766110,2015-03-05,2,2509,away,TRUE,Purdue,78,Boilermakers,Purdue Boilermakers,Purdue
-400602255,2015-03-05,2,2463,home,FALSE,Cal State Northridge,77,Matadors,Cal State Northridge Matadors,CSU Northridge
-400602255,2015-03-05,2,299,away,FALSE,Long Beach State,61,Beach,Long Beach State Beach,Long Beach St
-400602215,2015-03-05,2,2540,home,FALSE,UC Santa Barbara,36,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-400602215,2015-03-05,2,62,away,FALSE,Hawai'i,60,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
-400602188,2015-03-05,2,2239,home,FALSE,Cal State Fullerton,66,Titans,Cal State Fullerton Titans,Fullerton
-400602188,2015-03-05,2,300,away,FALSE,UC Irvine,54,Anteaters,UC Irvine Anteaters,UC Irvine
-400602170,2015-03-05,2,27,home,FALSE,UC Riverside,61,Highlanders,UC Riverside Highlanders,UC Riverside
-400602170,2015-03-05,2,302,away,FALSE,UC Davis,56,Aggies,UC Davis Aggies,UC Davis
-400596956,2015-03-05,2,16,home,FALSE,Sacramento State,107,Hornets,Sacramento State Hornets,Sacramento St
-400596956,2015-03-05,2,253,away,FALSE,Southern Utah,73,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
-400596955,2015-03-05,2,2502,home,FALSE,Portland State,62,Vikings,Portland State Vikings,Portland St
-400596955,2015-03-05,2,2464,away,FALSE,Northern Arizona,79,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
-400765403,2015-03-05,2,2608,home,TRUE,Saint Mary's,64,Gaels,Saint Mary's Gaels,Saint Mary's
-400765403,2015-03-05,2,252,away,TRUE,BYU,65,Cougars,BYU Cougars,BYU
-400765431,2015-03-05,2,264,home,TRUE,Washington,75,Huskies,Washington Huskies,Washington
-400765431,2015-03-05,2,254,away,TRUE,Utah,64,Utes,Utah Utes,Utah
-400602017,2015-03-05,0,2400,home,FALSE,Mississippi Valley State,0,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
-400602017,2015-03-05,0,2029,away,FALSE,Arkansas-Pine Bluff,0,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400765436,2015,regular-season,2015-03-05,2,2099,home,TRUE,Canisius,56,Golden Griffins,Canisius Golden Griffins,Canisius
+400765436,2015,regular-season,2015-03-05,2,2405,away,TRUE,Monmouth,68,Hawks,Monmouth Hawks,Monmouth
+400766075,2015,regular-season,2015-03-05,2,183,home,TRUE,Syracuse,79,Orange,Syracuse Orange,Syracuse
+400766075,2015,regular-season,2015-03-05,2,154,away,TRUE,Wake Forest,85,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+400765437,2015,regular-season,2015-03-05,2,2520,home,TRUE,Rider,54,Broncs,Rider Broncs,Rider
+400765437,2015,regular-season,2015-03-05,2,2612,away,TRUE,Saint Peter's,62,Peacocks,Saint Peter's Peacocks,Saint Peter's
+400765422,2015,regular-season,2015-03-05,2,2670,home,TRUE,VCU,58,Rams,VCU Rams,VCU
+400765422,2015,regular-season,2015-03-05,2,139,away,TRUE,Saint Louis,65,Billikens,Saint Louis Billikens,Saint Louis
+400765741,2015,regular-season,2015-03-05,2,2335,home,TRUE,Liberty,59,Flames,Liberty Flames,Liberty
+400765741,2015,regular-season,2015-03-05,2,2427,away,TRUE,UNC Asheville,51,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+400765235,2015,regular-season,2015-03-05,2,236,home,TRUE,Chattanooga,78,Mocs,Chattanooga Mocs,Chattanooga
+400765235,2015,regular-season,2015-03-05,2,2430,away,TRUE,UNC Greensboro,44,Spartans,UNC Greensboro Spartans,UNC Greensboro
+400765426,2015,regular-season,2015-03-05,2,130,home,TRUE,Michigan,49,Wolverines,Michigan Wolverines,Michigan
+400765426,2015,regular-season,2015-03-05,2,127,away,TRUE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
+400765434,2015,regular-season,2015-03-05,2,145,home,TRUE,Ole Miss,61,Rebels,Ole Miss Rebels,Ole Miss
+400765434,2015,regular-season,2015-03-05,2,8,away,TRUE,Arkansas,72,Razorbacks,Arkansas Razorbacks,Arkansas
+400765438,2015,regular-season,2015-03-05,2,315,home,TRUE,Niagara,57,Purple Eagles,Niagara Purple Eagles,Niagara
+400765438,2015,regular-season,2015-03-05,2,2363,away,TRUE,Manhattan,51,Jaspers,Manhattan Jaspers,Manhattan
+400766086,2015,regular-season,2015-03-05,2,257,home,TRUE,Richmond,67,Spiders,Richmond Spiders,Richmond
+400766086,2015,regular-season,2015-03-05,2,113,away,TRUE,Massachusetts,63,Minutewomen,Massachusetts Minutewomen,UMass
+400765415,2015,regular-season,2015-03-05,2,2390,home,TRUE,Miami,62,Hurricanes,Miami Hurricanes,Miami
+400765415,2015,regular-season,2015-03-05,2,258,away,TRUE,Virginia,52,Cavaliers,Virginia Cavaliers,Virginia
+400765251,2015,regular-season,2015-03-05,2,2057,home,TRUE,Belmont,55,Bruins,Belmont Bruins,Belmont
+400765251,2015,regular-season,2015-03-05,2,55,away,TRUE,Jacksonville State,45,Gamecocks,Jacksonville State Gamecocks,Jax State
+400599174,2015,regular-season,2015-03-05,2,2379,home,FALSE,Maryland Eastern Shore,50,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+400599174,2015,regular-season,2015-03-05,2,2415,away,FALSE,Morgan State,65,Lady Bears,Morgan State Lady Bears,Morgan St
+400765236,2015,regular-season,2015-03-05,2,2535,home,TRUE,Samford,54,Bulldogs,Samford Bulldogs,Samford
+400765236,2015,regular-season,2015-03-05,2,231,away,TRUE,Furman,65,Paladins,Furman Paladins,Furman
+400765257,2015,regular-season,2015-03-05,2,2737,home,TRUE,Winthrop,52,Eagles,Winthrop Eagles,Winthrop
+400765257,2015,regular-season,2015-03-05,2,2097,away,TRUE,Campbell,65,Fighting Camels,Campbell Fighting Camels,Campbell
+400765428,2015,regular-season,2015-03-05,2,265,home,TRUE,Washington State,66,Cougars,Washington State Cougars,Washington St
+400765428,2015,regular-season,2015-03-05,2,2483,away,TRUE,Oregon,64,Ducks,Oregon Ducks,Oregon
+400766097,2015,regular-season,2015-03-05,2,164,home,TRUE,Rutgers,63,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400766097,2015,regular-season,2015-03-05,2,84,away,TRUE,Indiana,52,Hoosiers,Indiana Hoosiers,Indiana
+400765400,2015,regular-season,2015-03-05,2,2351,home,TRUE,Loyola Marymount,68,Lions,Loyola Marymount Lions,LMU
+400765400,2015,regular-season,2015-03-05,2,2492,away,TRUE,Pepperdine,67,Waves,Pepperdine Waves,Pepperdine
+400766087,2015,regular-season,2015-03-05,2,245,home,TRUE,Texas A&M,57,Aggies,Texas A&M Aggies,Texas A&M
+400766087,2015,regular-season,2015-03-05,2,2,away,TRUE,Auburn,47,Tigers,Auburn Tigers,Auburn
+400765252,2015,regular-season,2015-03-05,2,2634,home,TRUE,Tennessee State,81,Lady Tigers,Tennessee State Lady Tigers,Tennessee St
+400765252,2015,regular-season,2015-03-05,2,2413,away,TRUE,Morehead State,66,Eagles,Morehead State Eagles,Morehead St
+400765423,2015,regular-season,2015-03-05,2,2603,home,TRUE,Saint Joseph's,71,Hawks,Saint Joseph's Hawks,Saint Joseph's
+400765423,2015,regular-season,2015-03-05,2,2244,away,TRUE,George Mason,43,Patriots,George Mason Patriots,George Mason
+400765237,2015,regular-season,2015-03-05,2,2193,home,TRUE,East Tennessee State,73,Bucs,East Tennessee State Bucs,ETSU
+400765237,2015,regular-season,2015-03-05,2,2717,away,TRUE,Western Carolina,53,Catamounts,Western Carolina Catamounts,W Carolina
+400765429,2015,regular-season,2015-03-05,2,26,home,TRUE,UCLA,80,Bruins,UCLA Bruins,UCLA
+400765429,2015,regular-season,2015-03-05,2,12,away,TRUE,Arizona,62,Wildcats,Arizona Wildcats,Arizona
+400602089,2015,regular-season,2015-03-05,2,290,home,FALSE,Georgia Southern,41,Eagles,Georgia Southern Eagles,GA Southern
+400602089,2015,regular-season,2015-03-05,2,250,away,FALSE,UT Arlington,66,Mavericks,UT Arlington Mavericks,UT Arlington
+400602041,2015,regular-season,2015-03-05,2,2026,home,FALSE,App State,61,Mountaineers,App State Mountaineers,App State
+400602041,2015,regular-season,2015-03-05,2,326,away,FALSE,Texas State,55,Bobcats,Texas State Bobcats,Texas St
+400590155,2015,regular-season,2015-03-05,2,2393,home,FALSE,Middle Tennessee,79,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+400590155,2015,regular-season,2015-03-05,2,2229,away,FALSE,Florida International,30,Panthers,Florida International Panthers,FIU
+400765401,2015,regular-season,2015-03-05,2,2541,home,TRUE,Santa Clara,66,Broncos,Santa Clara Broncos,Santa Clara
+400765401,2015,regular-season,2015-03-05,2,2501,away,TRUE,Portland,58,Pilots,Portland Pilots,Portland
+400599178,2015,regular-season,2015-03-05,2,2428,home,FALSE,North Carolina Central,46,Eagles,North Carolina Central Eagles,NC Central
+400599178,2015,regular-season,2015-03-05,2,2448,away,FALSE,North Carolina A&T,67,Aggies,North Carolina A&T Aggies,NC A&T
+400599177,2015,regular-season,2015-03-05,2,2261,home,FALSE,Hampton,64,Lady Pirates,Hampton Lady Pirates,Hampton
+400599177,2015,regular-season,2015-03-05,2,2450,away,FALSE,Norfolk State,49,Spartans,Norfolk State Spartans,Norfolk St
+400599175,2015,regular-season,2015-03-05,2,2065,home,FALSE,Bethune-Cookman,56,Wildcats,Bethune-Cookman Wildcats,Bethune
+400599175,2015,regular-season,2015-03-05,2,2569,away,FALSE,South Carolina State,57,Lady Bulldogs,South Carolina State Lady Bulldogs,SC State
+400599173,2015,regular-season,2015-03-05,2,2154,home,FALSE,Coppin State,79,Eagles,Coppin State Eagles,Coppin St
+400599173,2015,regular-season,2015-03-05,2,2169,away,FALSE,Delaware State,51,Hornets,Delaware State Hornets,Delaware St
+400590156,2015,regular-season,2015-03-05,2,5,home,FALSE,UAB,59,Blazers,UAB Blazers,UAB
+400590156,2015,regular-season,2015-03-05,2,2226,away,FALSE,Florida Atlantic,56,Owls,Florida Atlantic Owls,FAU
+400766085,2015,regular-season,2015-03-05,2,221,home,TRUE,Pittsburgh,45,Panthers,Pittsburgh Panthers,Pitt
+400766085,2015,regular-season,2015-03-05,2,259,away,TRUE,Virginia Tech,51,Hokies,Virginia Tech Hokies,Virginia Tech
+400765680,2015,regular-season,2015-03-05,2,2515,home,TRUE,Radford,56,Highlanders,Radford Highlanders,Radford
+400765680,2015,regular-season,2015-03-05,2,2241,away,TRUE,Gardner-Webb,70,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+400765435,2015,regular-season,2015-03-05,2,142,home,TRUE,Missouri,64,Tigers,Missouri Tigers,Missouri
+400765435,2015,regular-season,2015-03-05,2,61,away,TRUE,Georgia,75,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+400602059,2015,regular-season,2015-03-05,2,309,home,FALSE,Louisiana,66,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+400602059,2015,regular-season,2015-03-05,2,2031,away,FALSE,Little Rock,68,Trojans,Little Rock Trojans,Little Rock
+400599176,2015,regular-season,2015-03-05,2,50,home,FALSE,Florida A&M,51,Rattlers,Florida A&M Rattlers,Florida A&M
+400599176,2015,regular-season,2015-03-05,2,2542,away,FALSE,Savannah State,72,Tigers,Savannah State Tigers,Savannah St
+400592135,2015,regular-season,2015-03-05,2,357,home,FALSE,Texas A&M-Corpus Christi,73,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+400592135,2015,regular-season,2015-03-05,2,2277,away,FALSE,Houston Christian,48,Huskies,Houston Christian Huskies,Hou Christian
+400592134,2015,regular-season,2015-03-05,2,2447,home,FALSE,Nicholls,53,Colonels,Nicholls Colonels,Nicholls
+400592134,2015,regular-season,2015-03-05,2,2110,away,FALSE,Central Arkansas,43,Sugar Bears,Central Arkansas Sugar Bears,C Arkansas
+400590157,2015,regular-season,2015-03-05,2,276,home,FALSE,Marshall,55,Thundering Herd,Marshall Thundering Herd,Marshall
+400590157,2015,regular-season,2015-03-05,2,295,away,FALSE,Old Dominion,67,Monarchs,Old Dominion Monarchs,Old Dominion
+400602074,2015,regular-season,2015-03-05,2,2032,home,FALSE,Arkansas State,70,Red Wolves,Arkansas State Red Wolves,Arkansas St
+400602074,2015,regular-season,2015-03-05,2,6,away,FALSE,South Alabama,60,Jaguars,South Alabama Jaguars,South Alabama
+400602106,2015,regular-season,2015-03-05,2,2433,home,FALSE,UL Monroe,61,Warhawks,UL Monroe Warhawks,UL Monroe
+400602106,2015,regular-season,2015-03-05,2,2247,away,FALSE,Georgia State,66,Panthers,Georgia State Panthers,Georgia St
+400603459,2015,regular-season,2015-03-05,2,2504,home,FALSE,Prairie View A&M,50,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
+400603459,2015,regular-season,2015-03-05,2,2582,away,FALSE,Southern,78,Jaguars,Southern Jaguars,Southern
+400602018,2015,regular-season,2015-03-05,2,2640,home,FALSE,Texas Southern,73,Tigers,Texas Southern Tigers,Texas Southern
+400602018,2015,regular-season,2015-03-05,2,2016,away,FALSE,Alcorn State,55,Lady Braves,Alcorn State Lady Braves,Alcorn St
+400602016,2015,regular-season,2015-03-05,2,2296,home,FALSE,Jackson State,66,Lady Tigers,Jackson State Lady Tigers,Jackson St
+400602016,2015,regular-season,2015-03-05,2,2010,away,FALSE,Alabama A&M,58,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+400602015,2015,regular-season,2015-03-05,2,2755,home,FALSE,Grambling,62,Lady Tigers,Grambling Lady Tigers,Grambling
+400602015,2015,regular-season,2015-03-05,2,2011,away,FALSE,Alabama State,68,Lady Hornets,Alabama State Lady Hornets,Alabama St
+400592139,2015,regular-season,2015-03-05,2,2320,home,FALSE,Lamar,92,Cardinals,Lamar Cardinals,Lamar
+400592139,2015,regular-season,2015-03-05,2,2534,away,FALSE,Sam Houston,73,Bearkats,Sam Houston Bearkats,Sam Houston
+400592138,2015,regular-season,2015-03-05,2,2617,home,FALSE,Stephen F. Austin,56,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
+400592138,2015,regular-season,2015-03-05,2,2466,away,FALSE,Northwestern State,45,Lady Demons,Northwestern State Lady Demons,N'Western St
+400592136,2015,regular-season,2015-03-05,2,2443,home,FALSE,New Orleans,84,Privateers,New Orleans Privateers,New Orleans
+400592136,2015,regular-season,2015-03-05,2,2545,away,FALSE,SE Louisiana,75,Lady Lions,SE Louisiana Lady Lions,SE Louisiana
+400765238,2015,regular-season,2015-03-05,2,2382,home,TRUE,Mercer,75,Bears,Mercer Bears,Mercer
+400765238,2015,regular-season,2015-03-05,2,2747,away,TRUE,Wofford,54,Terriers,Wofford Terriers,Wofford
+400766096,2015,regular-season,2015-03-05,2,227,home,TRUE,Rhode Island,65,Rams,Rhode Island Rams,Rhode Island
+400766096,2015,regular-season,2015-03-05,2,2325,away,TRUE,La Salle,60,Explorers,La Salle Explorers,La Salle
+400765427,2015,regular-season,2015-03-05,2,158,home,TRUE,Nebraska,86,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400765427,2015,regular-season,2015-03-05,2,356,away,TRUE,Illinois,71,Fighting Illini,Illinois Fighting Illini,Illinois
+400598782,2015,regular-season,2015-03-05,2,2473,home,FALSE,Oakland,70,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+400598782,2015,regular-season,2015-03-05,2,2674,away,FALSE,Valparaiso,55,Beacons,Valparaiso Beacons,Valparaiso
+400592137,2015,regular-season,2015-03-05,2,2916,home,FALSE,Incarnate Word,62,Cardinals,Incarnate Word Cardinals,Incarnate Word
+400592137,2015,regular-season,2015-03-05,2,2000,away,FALSE,Abilene Christian,72,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
+400590152,2015,regular-season,2015-03-05,2,242,home,FALSE,Rice,49,Owls,Rice Owls,Rice
+400590152,2015,regular-season,2015-03-05,2,2636,away,FALSE,UTSA,60,Roadrunners,UTSA Roadrunners,UTSA
+400589890,2015,regular-season,2015-03-05,2,282,home,FALSE,Indiana State,56,Sycamores,Indiana State Sycamores,Indiana St
+400589890,2015,regular-season,2015-03-05,2,2623,away,FALSE,Missouri State,65,Lady Bears,Missouri State Lady Bears,Missouri St
+400590154,2015,regular-season,2015-03-05,2,98,home,FALSE,Western Kentucky,80,Lady Toppers,Western Kentucky Lady Toppers,Western KY
+400590154,2015,regular-season,2015-03-05,2,2429,away,FALSE,Charlotte,72,49ers,Charlotte 49ers,Charlotte
+400590153,2015,regular-season,2015-03-05,2,249,home,FALSE,North Texas,61,Mean Green,North Texas Mean Green,North Texas
+400590153,2015,regular-season,2015-03-05,2,2638,away,FALSE,UTEP,69,Miners,UTEP Miners,UTEP
+400589893,2015,regular-season,2015-03-05,2,339,home,FALSE,Evansville,63,Purple Aces,Evansville Purple Aces,Evansville
+400589893,2015,regular-season,2015-03-05,2,2724,away,FALSE,Wichita State,77,Shockers,Wichita State Shockers,Wichita St
+400589891,2015,regular-season,2015-03-05,2,2460,home,FALSE,Northern Iowa,69,Panthers,Northern Iowa Panthers,Northern Iowa
+400589891,2015,regular-season,2015-03-05,2,2350,away,FALSE,Loyola Chicago,64,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+400589892,2015,regular-season,2015-03-05,2,2181,home,FALSE,Drake,86,Bulldogs,Drake Bulldogs,Drake
+400589892,2015,regular-season,2015-03-05,2,71,away,FALSE,Bradley,70,Braves,Bradley Braves,Bradley
+400766101,2015,regular-season,2015-03-05,2,96,home,TRUE,Kentucky,67,Wildcats,Kentucky Wildcats,Kentucky
+400766101,2015,regular-season,2015-03-05,2,238,away,TRUE,Vanderbilt,61,Commodores,Vanderbilt Commodores,Vanderbilt
+400766095,2015,regular-season,2015-03-05,2,153,home,TRUE,North Carolina,84,Tar Heels,North Carolina Tar Heels,North Carolina
+400766095,2015,regular-season,2015-03-05,2,59,away,TRUE,Georgia Tech,64,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+400765681,2015,regular-season,2015-03-05,2,2272,home,TRUE,High Point,75,Panthers,High Point Panthers,High Point
+400765681,2015,regular-season,2015-03-05,2,2506,away,TRUE,Presbyterian,62,Blue Hose,Presbyterian Blue Hose,Presbyterian
+400765430,2015,regular-season,2015-03-05,2,30,home,TRUE,USC,63,Trojans,USC Trojans,USC
+400765430,2015,regular-season,2015-03-05,2,38,away,TRUE,Colorado,75,Buffaloes,Colorado Buffaloes,Colorado
+400765402,2015,regular-season,2015-03-05,2,279,home,TRUE,Pacific,64,Tigers,Pacific Tigers,Pacific
+400765402,2015,regular-season,2015-03-05,2,2539,away,TRUE,San Francisco,74,Dons,San Francisco Dons,San Francisco
+400596954,2015,regular-season,2015-03-05,2,331,home,FALSE,Eastern Washington,62,Eagles,Eastern Washington Eagles,E Washington
+400596954,2015,regular-season,2015-03-05,2,304,away,FALSE,Idaho State,58,Bengals,Idaho State Bengals,Idaho St
+400596953,2015,regular-season,2015-03-05,2,70,home,FALSE,Idaho,71,Vandals,Idaho Vandals,Idaho
+400596953,2015,regular-season,2015-03-05,2,2692,away,FALSE,Weber State,42,Wildcats,Weber State Wildcats,Weber St
+400766110,2015,regular-season,2015-03-05,2,135,home,TRUE,Minnesota,82,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400766110,2015,regular-season,2015-03-05,2,2509,away,TRUE,Purdue,78,Boilermakers,Purdue Boilermakers,Purdue
+400602255,2015,regular-season,2015-03-05,2,2463,home,FALSE,Cal State Northridge,77,Matadors,Cal State Northridge Matadors,CSU Northridge
+400602255,2015,regular-season,2015-03-05,2,299,away,FALSE,Long Beach State,61,Beach,Long Beach State Beach,Long Beach St
+400602215,2015,regular-season,2015-03-05,2,2540,home,FALSE,UC Santa Barbara,36,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+400602215,2015,regular-season,2015-03-05,2,62,away,FALSE,Hawai'i,60,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
+400602188,2015,regular-season,2015-03-05,2,2239,home,FALSE,Cal State Fullerton,66,Titans,Cal State Fullerton Titans,Fullerton
+400602188,2015,regular-season,2015-03-05,2,300,away,FALSE,UC Irvine,54,Anteaters,UC Irvine Anteaters,UC Irvine
+400602170,2015,regular-season,2015-03-05,2,27,home,FALSE,UC Riverside,61,Highlanders,UC Riverside Highlanders,UC Riverside
+400602170,2015,regular-season,2015-03-05,2,302,away,FALSE,UC Davis,56,Aggies,UC Davis Aggies,UC Davis
+400596956,2015,regular-season,2015-03-05,2,16,home,FALSE,Sacramento State,107,Hornets,Sacramento State Hornets,Sacramento St
+400596956,2015,regular-season,2015-03-05,2,253,away,FALSE,Southern Utah,73,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+400596955,2015,regular-season,2015-03-05,2,2502,home,FALSE,Portland State,62,Vikings,Portland State Vikings,Portland St
+400596955,2015,regular-season,2015-03-05,2,2464,away,FALSE,Northern Arizona,79,Lumberjacks,Northern Arizona Lumberjacks,N Arizona
+400765403,2015,regular-season,2015-03-05,2,2608,home,TRUE,Saint Mary's,64,Gaels,Saint Mary's Gaels,Saint Mary's
+400765403,2015,regular-season,2015-03-05,2,252,away,TRUE,BYU,65,Cougars,BYU Cougars,BYU
+400765431,2015,regular-season,2015-03-05,2,264,home,TRUE,Washington,75,Huskies,Washington Huskies,Washington
+400765431,2015,regular-season,2015-03-05,2,254,away,TRUE,Utah,64,Utes,Utah Utes,Utah
+400602017,2015,regular-season,2015-03-05,0,2400,home,FALSE,Mississippi Valley State,0,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
+400602017,2015,regular-season,2015-03-05,0,2029,away,FALSE,Arkansas-Pine Bluff,0,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff

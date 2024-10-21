@@ -1,47 +1,47 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401121449,2019-03-10,4,2514,home,TRUE,Quinnipiac,80,Bobcats,Quinnipiac Bobcats,Quinnipiac
-401121449,2019-03-10,4,2405,away,TRUE,Monmouth,42,Hawks,Monmouth Hawks,Monmouth
-401121288,2019-03-10,4,2670,home,TRUE,VCU,47,Rams,VCU Rams,VCU
-401121288,2019-03-10,4,2230,away,TRUE,Fordham,62,Rams,Fordham Rams,Fordham
-401121275,2019-03-10,4,2382,home,TRUE,Mercer,66,Bears,Mercer Bears,Mercer
-401121275,2019-03-10,4,231,away,TRUE,Furman,63,Paladins,Furman Paladins,Furman
-401119706,2019-03-10,4,87,home,TRUE,Notre Dame,99,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401119706,2019-03-10,4,97,away,TRUE,Louisville,79,Cardinals,Louisville Cardinals,Louisville
-401121545,2019-03-10,4,311,home,FALSE,Maine,66,Black Bears,Maine Black Bears,Maine
-401121545,2019-03-10,4,399,away,FALSE,UAlbany,51,Great Danes,UAlbany Great Danes,UAlbany
-401121511,2019-03-10,4,269,home,TRUE,Marquette,88,Golden Eagles,Marquette Golden Eagles,Marquette
-401121511,2019-03-10,4,2599,away,TRUE,St. John's,57,Red Storm,St. John's Red Storm,St John's
-401119777,2019-03-10,4,198,home,TRUE,Oral Roberts,68,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-401119777,2019-03-10,4,2710,away,TRUE,Western Illinois,64,Leathernecks,Western Illinois Leathernecks,W Illinois
-401121450,2019-03-10,4,2520,home,TRUE,Rider,52,Broncs,Rider Broncs,Rider
-401121450,2019-03-10,4,2368,away,TRUE,Marist,62,Red Foxes,Marist Red Foxes,Marist
-401121546,2019-03-10,4,42,home,FALSE,Hartford,64,Hawks,Hartford Hawks,Hartford
-401121546,2019-03-10,4,2619,away,FALSE,Stony Brook,59,Seawolves,Stony Brook Seawolves,Stony Brook
-401119681,2019-03-10,4,344,home,TRUE,Mississippi State,101,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401119681,2019-03-10,4,8,away,TRUE,Arkansas,70,Razorbacks,Arkansas Razorbacks,Arkansas
-401121419,2019-03-10,4,239,home,TRUE,Baylor,88,Bears,Baylor Bears,Baylor
-401121419,2019-03-10,4,2306,away,TRUE,Kansas State,60,Wildcats,Kansas State Wildcats,Kansas St
-401121512,2019-03-10,4,46,home,TRUE,Georgetown,76,Hoyas,Georgetown Hoyas,Georgetown
-401121512,2019-03-10,4,222,away,TRUE,Villanova,67,Wildcats,Villanova Wildcats,Villanova
-401119778,2019-03-10,4,2172,home,TRUE,Denver,67,Pioneers,Denver Pioneers,Denver
-401119778,2019-03-10,4,155,away,TRUE,North Dakota,80,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
-401119723,2019-03-10,4,41,home,TRUE,UConn,81,Huskies,UConn Huskies,UConn
-401119723,2019-03-10,4,58,away,TRUE,South Florida,45,Bulls,South Florida Bulls,South Florida
-401121425,2019-03-10,4,2440,home,TRUE,Nevada,78,Wolf Pack,Nevada Wolf Pack,Nevada
-401121425,2019-03-10,4,23,away,TRUE,San José State,68,Spartans,San José State Spartans,San José St
-401121420,2019-03-10,4,66,home,TRUE,Iowa State,75,Cyclones,Iowa State Cyclones,Iowa State
-401121420,2019-03-10,4,251,away,TRUE,Texas,69,Longhorns,Texas Longhorns,Texas
-401119749,2019-03-10,4,120,home,TRUE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
-401119749,2019-03-10,4,2294,away,TRUE,Iowa,90,Hawkeyes,Iowa Hawkeyes,Iowa
-401119724,2019-03-10,4,2116,home,TRUE,UCF,66,Knights,UCF Knights,UCF
-401119724,2019-03-10,4,2132,away,TRUE,Cincinnati,58,Bearcats,Cincinnati Bearcats,Cincinnati
-401121513,2019-03-10,4,305,home,FALSE,DePaul,85,Blue Demons,DePaul Blue Demons,DePaul
-401121513,2019-03-10,4,2507,away,FALSE,Providence,60,Friars,Providence Friars,Providence
-401121426,2019-03-10,4,21,home,TRUE,San Diego State,63,Aztecs,San Diego State Aztecs,San Diego St
-401121426,2019-03-10,4,2005,away,TRUE,Air Force,55,Falcons,Air Force Falcons,Air Force
-401119763,2019-03-10,4,2483,home,TRUE,Oregon,57,Ducks,Oregon Ducks,Oregon
-401119763,2019-03-10,4,24,away,TRUE,Stanford,64,Cardinal,Stanford Cardinal,Stanford
-401121514,2019-03-10,4,2086,home,TRUE,Butler,51,Bulldogs,Butler Bulldogs,Butler
-401121514,2019-03-10,4,156,away,TRUE,Creighton,60,Bluejays,Creighton Bluejays,Creighton
-401121427,2019-03-10,4,328,home,TRUE,Utah State,62,Aggies,Utah State Aggies,Utah State
-401121427,2019-03-10,4,36,away,TRUE,Colorado State,59,Rams,Colorado State Rams,Colorado St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401121449,2019,regular-season,2019-03-10,4,2514,home,TRUE,Quinnipiac,80,Bobcats,Quinnipiac Bobcats,Quinnipiac
+401121449,2019,regular-season,2019-03-10,4,2405,away,TRUE,Monmouth,42,Hawks,Monmouth Hawks,Monmouth
+401121288,2019,regular-season,2019-03-10,4,2670,home,TRUE,VCU,47,Rams,VCU Rams,VCU
+401121288,2019,regular-season,2019-03-10,4,2230,away,TRUE,Fordham,62,Rams,Fordham Rams,Fordham
+401121275,2019,regular-season,2019-03-10,4,2382,home,TRUE,Mercer,66,Bears,Mercer Bears,Mercer
+401121275,2019,regular-season,2019-03-10,4,231,away,TRUE,Furman,63,Paladins,Furman Paladins,Furman
+401119706,2019,regular-season,2019-03-10,4,87,home,TRUE,Notre Dame,99,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401119706,2019,regular-season,2019-03-10,4,97,away,TRUE,Louisville,79,Cardinals,Louisville Cardinals,Louisville
+401121545,2019,regular-season,2019-03-10,4,311,home,FALSE,Maine,66,Black Bears,Maine Black Bears,Maine
+401121545,2019,regular-season,2019-03-10,4,399,away,FALSE,UAlbany,51,Great Danes,UAlbany Great Danes,UAlbany
+401121511,2019,regular-season,2019-03-10,4,269,home,TRUE,Marquette,88,Golden Eagles,Marquette Golden Eagles,Marquette
+401121511,2019,regular-season,2019-03-10,4,2599,away,TRUE,St. John's,57,Red Storm,St. John's Red Storm,St John's
+401119777,2019,regular-season,2019-03-10,4,198,home,TRUE,Oral Roberts,68,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+401119777,2019,regular-season,2019-03-10,4,2710,away,TRUE,Western Illinois,64,Leathernecks,Western Illinois Leathernecks,W Illinois
+401121450,2019,regular-season,2019-03-10,4,2520,home,TRUE,Rider,52,Broncs,Rider Broncs,Rider
+401121450,2019,regular-season,2019-03-10,4,2368,away,TRUE,Marist,62,Red Foxes,Marist Red Foxes,Marist
+401121546,2019,regular-season,2019-03-10,4,42,home,FALSE,Hartford,64,Hawks,Hartford Hawks,Hartford
+401121546,2019,regular-season,2019-03-10,4,2619,away,FALSE,Stony Brook,59,Seawolves,Stony Brook Seawolves,Stony Brook
+401119681,2019,regular-season,2019-03-10,4,344,home,TRUE,Mississippi State,101,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401119681,2019,regular-season,2019-03-10,4,8,away,TRUE,Arkansas,70,Razorbacks,Arkansas Razorbacks,Arkansas
+401121419,2019,regular-season,2019-03-10,4,239,home,TRUE,Baylor,88,Bears,Baylor Bears,Baylor
+401121419,2019,regular-season,2019-03-10,4,2306,away,TRUE,Kansas State,60,Wildcats,Kansas State Wildcats,Kansas St
+401121512,2019,regular-season,2019-03-10,4,46,home,TRUE,Georgetown,76,Hoyas,Georgetown Hoyas,Georgetown
+401121512,2019,regular-season,2019-03-10,4,222,away,TRUE,Villanova,67,Wildcats,Villanova Wildcats,Villanova
+401119778,2019,regular-season,2019-03-10,4,2172,home,TRUE,Denver,67,Pioneers,Denver Pioneers,Denver
+401119778,2019,regular-season,2019-03-10,4,155,away,TRUE,North Dakota,80,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
+401119723,2019,regular-season,2019-03-10,4,41,home,TRUE,UConn,81,Huskies,UConn Huskies,UConn
+401119723,2019,regular-season,2019-03-10,4,58,away,TRUE,South Florida,45,Bulls,South Florida Bulls,South Florida
+401121425,2019,regular-season,2019-03-10,4,2440,home,TRUE,Nevada,78,Wolf Pack,Nevada Wolf Pack,Nevada
+401121425,2019,regular-season,2019-03-10,4,23,away,TRUE,San José State,68,Spartans,San José State Spartans,San José St
+401121420,2019,regular-season,2019-03-10,4,66,home,TRUE,Iowa State,75,Cyclones,Iowa State Cyclones,Iowa State
+401121420,2019,regular-season,2019-03-10,4,251,away,TRUE,Texas,69,Longhorns,Texas Longhorns,Texas
+401119749,2019,regular-season,2019-03-10,4,120,home,TRUE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
+401119749,2019,regular-season,2019-03-10,4,2294,away,TRUE,Iowa,90,Hawkeyes,Iowa Hawkeyes,Iowa
+401119724,2019,regular-season,2019-03-10,4,2116,home,TRUE,UCF,66,Knights,UCF Knights,UCF
+401119724,2019,regular-season,2019-03-10,4,2132,away,TRUE,Cincinnati,58,Bearcats,Cincinnati Bearcats,Cincinnati
+401121513,2019,regular-season,2019-03-10,4,305,home,FALSE,DePaul,85,Blue Demons,DePaul Blue Demons,DePaul
+401121513,2019,regular-season,2019-03-10,4,2507,away,FALSE,Providence,60,Friars,Providence Friars,Providence
+401121426,2019,regular-season,2019-03-10,4,21,home,TRUE,San Diego State,63,Aztecs,San Diego State Aztecs,San Diego St
+401121426,2019,regular-season,2019-03-10,4,2005,away,TRUE,Air Force,55,Falcons,Air Force Falcons,Air Force
+401119763,2019,regular-season,2019-03-10,4,2483,home,TRUE,Oregon,57,Ducks,Oregon Ducks,Oregon
+401119763,2019,regular-season,2019-03-10,4,24,away,TRUE,Stanford,64,Cardinal,Stanford Cardinal,Stanford
+401121514,2019,regular-season,2019-03-10,4,2086,home,TRUE,Butler,51,Bulldogs,Butler Bulldogs,Butler
+401121514,2019,regular-season,2019-03-10,4,156,away,TRUE,Creighton,60,Bluejays,Creighton Bluejays,Creighton
+401121427,2019,regular-season,2019-03-10,4,328,home,TRUE,Utah State,62,Aggies,Utah State Aggies,Utah State
+401121427,2019,regular-season,2019-03-10,4,36,away,TRUE,Colorado State,59,Rams,Colorado State Rams,Colorado St

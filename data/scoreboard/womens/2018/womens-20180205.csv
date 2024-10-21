@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400994021,2018-02-05,4,239,home,FALSE,Baylor,74,Bears,Baylor Bears,Baylor
-400994021,2018-02-05,4,201,away,FALSE,Oklahoma,65,Sooners,Oklahoma Sooners,Oklahoma
-400994155,2018-02-05,4,277,home,FALSE,West Virginia,55,Mountaineers,West Virginia Mountaineers,West Virginia
-400994155,2018-02-05,4,251,away,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
-400994495,2018-02-05,4,30,home,FALSE,USC,70,Trojans,USC Trojans,USC
-400994495,2018-02-05,4,26,away,FALSE,UCLA,84,Bruins,UCLA Bruins,UCLA
-400987702,2018-02-05,4,142,home,FALSE,Missouri,66,Tigers,Missouri Tigers,Missouri
-400987702,2018-02-05,4,57,away,FALSE,Florida,64,Gators,Florida Gators,Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400994021,2018,regular-season,2018-02-05,4,239,home,FALSE,Baylor,74,Bears,Baylor Bears,Baylor
+400994021,2018,regular-season,2018-02-05,4,201,away,FALSE,Oklahoma,65,Sooners,Oklahoma Sooners,Oklahoma
+400994155,2018,regular-season,2018-02-05,4,277,home,FALSE,West Virginia,55,Mountaineers,West Virginia Mountaineers,West Virginia
+400994155,2018,regular-season,2018-02-05,4,251,away,FALSE,Texas,73,Longhorns,Texas Longhorns,Texas
+400994495,2018,regular-season,2018-02-05,4,30,home,FALSE,USC,70,Trojans,USC Trojans,USC
+400994495,2018,regular-season,2018-02-05,4,26,away,FALSE,UCLA,84,Bruins,UCLA Bruins,UCLA
+400987702,2018,regular-season,2018-02-05,4,142,home,FALSE,Missouri,66,Tigers,Missouri Tigers,Missouri
+400987702,2018,regular-season,2018-02-05,4,57,away,FALSE,Florida,64,Gators,Florida Gators,Florida

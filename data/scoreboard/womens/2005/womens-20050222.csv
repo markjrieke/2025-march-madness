@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250530164,2005-02-22,2,164,home,FALSE,Rutgers,54,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-250530164,2005-02-22,2,103,away,FALSE,Boston College,36,Eagles,Boston College Eagles,Boston College
-250530041,2005-02-22,2,41,home,FALSE,UConn,97,Huskies,UConn Huskies,UConn
-250530041,2005-02-22,2,221,away,FALSE,Pittsburgh,49,Panthers,Pittsburgh Panthers,Pitt
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250530164,2005,regular-season,2005-02-22,2,164,home,FALSE,Rutgers,54,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+250530164,2005,regular-season,2005-02-22,2,103,away,FALSE,Boston College,36,Eagles,Boston College Eagles,Boston College
+250530041,2005,regular-season,2005-02-22,2,41,home,FALSE,UConn,97,Huskies,UConn Huskies,UConn
+250530041,2005,regular-season,2005-02-22,2,221,away,FALSE,Pittsburgh,49,Panthers,Pittsburgh Panthers,Pitt

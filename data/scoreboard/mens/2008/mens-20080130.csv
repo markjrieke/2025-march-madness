@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280300248,2008-01-30,2,248,home,FALSE,Houston,77,Cougars,Houston Cougars,Houston
-280300248,2008-01-30,2,235,away,FALSE,Memphis,89,Tigers,Memphis Tigers,Memphis
-280302306,2008-01-30,2,2306,home,FALSE,Kansas State,84,Wildcats,Kansas State Wildcats,Kansas St
-280302306,2008-01-30,2,2305,away,FALSE,Kansas,75,Jayhawks,Kansas Jayhawks,Kansas
-280302599,2008-01-30,2,2599,home,FALSE,St. John's,42,Red Storm,St. John's Red Storm,St John's
-280302599,2008-01-30,2,46,away,FALSE,Georgetown,74,Hoyas,Georgetown Hoyas,Georgetown
-280300127,2008-01-30,2,127,home,FALSE,Michigan State,51,Spartans,Michigan State Spartans,Michigan St
-280300127,2008-01-30,2,356,away,FALSE,Illinois,41,Fighting Illini,Illinois Fighting Illini,Illinois
-280300245,2008-01-30,2,245,home,FALSE,Texas A&M,80,Aggies,Texas A&M Aggies,Texas A&M
-280300245,2008-01-30,2,251,away,FALSE,Texas,63,Longhorns,Texas Longhorns,Texas
-280302181,2008-01-30,2,2181,home,FALSE,Drake,75,Bulldogs,Drake Bulldogs,Drake
-280302181,2008-01-30,2,156,away,FALSE,Creighton,65,Bluejays,Creighton Bluejays,Creighton
-280300221,2008-01-30,2,221,home,FALSE,Pittsburgh,69,Panthers,Pittsburgh Panthers,Pitt
-280300221,2008-01-30,2,222,away,FALSE,Villanova,57,Wildcats,Villanova Wildcats,Villanova
-280300145,2008-01-30,2,145,home,FALSE,Ole Miss,74,Rebels,Ole Miss Rebels,Ole Miss
-280300145,2008-01-30,2,238,away,FALSE,Vanderbilt,58,Commodores,Vanderbilt Commodores,Vanderbilt
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280300248,2008,regular-season,2008-01-30,2,248,home,FALSE,Houston,77,Cougars,Houston Cougars,Houston
+280300248,2008,regular-season,2008-01-30,2,235,away,FALSE,Memphis,89,Tigers,Memphis Tigers,Memphis
+280302306,2008,regular-season,2008-01-30,2,2306,home,FALSE,Kansas State,84,Wildcats,Kansas State Wildcats,Kansas St
+280302306,2008,regular-season,2008-01-30,2,2305,away,FALSE,Kansas,75,Jayhawks,Kansas Jayhawks,Kansas
+280302599,2008,regular-season,2008-01-30,2,2599,home,FALSE,St. John's,42,Red Storm,St. John's Red Storm,St John's
+280302599,2008,regular-season,2008-01-30,2,46,away,FALSE,Georgetown,74,Hoyas,Georgetown Hoyas,Georgetown
+280300127,2008,regular-season,2008-01-30,2,127,home,FALSE,Michigan State,51,Spartans,Michigan State Spartans,Michigan St
+280300127,2008,regular-season,2008-01-30,2,356,away,FALSE,Illinois,41,Fighting Illini,Illinois Fighting Illini,Illinois
+280300245,2008,regular-season,2008-01-30,2,245,home,FALSE,Texas A&M,80,Aggies,Texas A&M Aggies,Texas A&M
+280300245,2008,regular-season,2008-01-30,2,251,away,FALSE,Texas,63,Longhorns,Texas Longhorns,Texas
+280302181,2008,regular-season,2008-01-30,2,2181,home,FALSE,Drake,75,Bulldogs,Drake Bulldogs,Drake
+280302181,2008,regular-season,2008-01-30,2,156,away,FALSE,Creighton,65,Bluejays,Creighton Bluejays,Creighton
+280300221,2008,regular-season,2008-01-30,2,221,home,FALSE,Pittsburgh,69,Panthers,Pittsburgh Panthers,Pitt
+280300221,2008,regular-season,2008-01-30,2,222,away,FALSE,Villanova,57,Wildcats,Villanova Wildcats,Villanova
+280300145,2008,regular-season,2008-01-30,2,145,home,FALSE,Ole Miss,74,Rebels,Ole Miss Rebels,Ole Miss
+280300145,2008,regular-season,2008-01-30,2,238,away,FALSE,Vanderbilt,58,Commodores,Vanderbilt Commodores,Vanderbilt

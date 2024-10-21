@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320160041,2012-01-16,2,41,home,FALSE,UConn,86,Huskies,UConn Huskies,UConn
-320160041,2012-01-16,2,153,away,FALSE,North Carolina,35,Tar Heels,North Carolina Tar Heels,North Carolina
-320160120,2012-01-16,2,120,home,FALSE,Maryland,68,Terrapins,Maryland Terrapins,Maryland
-320160120,2012-01-16,2,258,away,FALSE,Virginia,61,Cavaliers,Virginia Cavaliers,Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320160041,2012,regular-season,2012-01-16,2,41,home,FALSE,UConn,86,Huskies,UConn Huskies,UConn
+320160041,2012,regular-season,2012-01-16,2,153,away,FALSE,North Carolina,35,Tar Heels,North Carolina Tar Heels,North Carolina
+320160120,2012,regular-season,2012-01-16,2,120,home,FALSE,Maryland,68,Terrapins,Maryland Terrapins,Maryland
+320160120,2012,regular-season,2012-01-16,2,258,away,FALSE,Virginia,61,Cavaliers,Virginia Cavaliers,Virginia

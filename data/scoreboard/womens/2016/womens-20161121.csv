@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400911981,2016-11-21,4,2182,home,FALSE,Drexel,62,Dragons,Drexel Dragons,Drexel
-400911981,2016-11-21,4,183,away,FALSE,Syracuse,61,Orange,Syracuse Orange,Syracuse
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400911981,2017,regular-season,2016-11-21,4,2182,home,FALSE,Drexel,62,Dragons,Drexel Dragons,Drexel
+400911981,2017,regular-season,2016-11-21,4,183,away,FALSE,Syracuse,61,Orange,Syracuse Orange,Syracuse

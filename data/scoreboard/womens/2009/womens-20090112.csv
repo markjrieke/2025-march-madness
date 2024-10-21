@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290120150,2009-01-12,2,150,home,FALSE,Duke,68,Blue Devils,Duke Blue Devils,Duke
-290120150,2009-01-12,2,120,away,FALSE,Maryland,65,Terrapins,Maryland Terrapins,Maryland
-290120356,2009-01-12,2,356,home,FALSE,Illinois,35,Fighting Illini,Illinois Fighting Illini,Illinois
-290120356,2009-01-12,2,194,away,FALSE,Ohio State,67,Buckeyes,Ohio State Buckeyes,Ohio State
-290122390,2009-01-12,2,2390,home,FALSE,Miami,50,Hurricanes,Miami Hurricanes,Miami
-290122390,2009-01-12,2,59,away,FALSE,Georgia Tech,68,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290120150,2009,regular-season,2009-01-12,2,150,home,FALSE,Duke,68,Blue Devils,Duke Blue Devils,Duke
+290120150,2009,regular-season,2009-01-12,2,120,away,FALSE,Maryland,65,Terrapins,Maryland Terrapins,Maryland
+290120356,2009,regular-season,2009-01-12,2,356,home,FALSE,Illinois,35,Fighting Illini,Illinois Fighting Illini,Illinois
+290120356,2009,regular-season,2009-01-12,2,194,away,FALSE,Ohio State,67,Buckeyes,Ohio State Buckeyes,Ohio State
+290122390,2009,regular-season,2009-01-12,2,2390,home,FALSE,Miami,50,Hurricanes,Miami Hurricanes,Miami
+290122390,2009,regular-season,2009-01-12,2,59,away,FALSE,Georgia Tech,68,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech

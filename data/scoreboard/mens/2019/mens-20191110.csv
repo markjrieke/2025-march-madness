@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401166054,2019-11-10,2,127,home,FALSE,Michigan State,100,Spartans,Michigan State Spartans,Michigan St
-401166054,2019-11-10,2,2066,away,FALSE,Binghamton,47,Bearcats,Binghamton Bearcats,Binghamton
-401168168,2019-11-10,2,57,home,FALSE,Florida,51,Gators,Florida Gators,Florida
-401168168,2019-11-10,2,52,away,FALSE,Florida State,63,Seminoles,Florida State Seminoles,Florida St
-401168171,2019-11-10,2,258,home,FALSE,Virginia,65,Cavaliers,Virginia Cavaliers,Virginia
-401168171,2019-11-10,2,256,away,FALSE,James Madison,34,Dukes,James Madison Dukes,James Madison
-401166055,2019-11-10,2,194,home,FALSE,Ohio State,76,Buckeyes,Ohio State Buckeyes,Ohio State
-401166055,2019-11-10,2,2349,away,FALSE,UMass Lowell,56,River Hawks,UMass Lowell River Hawks,UMass Lowell
-401169934,2019-11-10,2,12,home,FALSE,Arizona,90,Wildcats,Arizona Wildcats,Arizona
-401169934,2019-11-10,2,356,away,FALSE,Illinois,69,Fighting Illini,Illinois Fighting Illini,Illinois
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401166054,2020,regular-season,2019-11-10,2,127,home,FALSE,Michigan State,100,Spartans,Michigan State Spartans,Michigan St
+401166054,2020,regular-season,2019-11-10,2,2066,away,FALSE,Binghamton,47,Bearcats,Binghamton Bearcats,Binghamton
+401168168,2020,regular-season,2019-11-10,2,57,home,FALSE,Florida,51,Gators,Florida Gators,Florida
+401168168,2020,regular-season,2019-11-10,2,52,away,FALSE,Florida State,63,Seminoles,Florida State Seminoles,Florida St
+401168171,2020,regular-season,2019-11-10,2,258,home,FALSE,Virginia,65,Cavaliers,Virginia Cavaliers,Virginia
+401168171,2020,regular-season,2019-11-10,2,256,away,FALSE,James Madison,34,Dukes,James Madison Dukes,James Madison
+401166055,2020,regular-season,2019-11-10,2,194,home,FALSE,Ohio State,76,Buckeyes,Ohio State Buckeyes,Ohio State
+401166055,2020,regular-season,2019-11-10,2,2349,away,FALSE,UMass Lowell,56,River Hawks,UMass Lowell River Hawks,UMass Lowell
+401169934,2020,regular-season,2019-11-10,2,12,home,FALSE,Arizona,90,Wildcats,Arizona Wildcats,Arizona
+401169934,2020,regular-season,2019-11-10,2,356,away,FALSE,Illinois,69,Fighting Illini,Illinois Fighting Illini,Illinois

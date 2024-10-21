@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400834857,2016-02-02,4,2509,home,FALSE,Purdue,67,Boilermakers,Purdue Boilermakers,Purdue
-400834857,2016-02-02,4,120,away,FALSE,Maryland,87,Terrapins,Maryland Terrapins,Maryland
-400845196,2016-02-02,4,24,home,FALSE,Stanford,53,Cardinal,Stanford Cardinal,Stanford
-400845196,2016-02-02,4,25,away,FALSE,California,46,Golden Bears,California Golden Bears,California
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400834857,2016,regular-season,2016-02-02,4,2509,home,FALSE,Purdue,67,Boilermakers,Purdue Boilermakers,Purdue
+400834857,2016,regular-season,2016-02-02,4,120,away,FALSE,Maryland,87,Terrapins,Maryland Terrapins,Maryland
+400845196,2016,regular-season,2016-02-02,4,24,home,FALSE,Stanford,53,Cardinal,Stanford Cardinal,Stanford
+400845196,2016,regular-season,2016-02-02,4,25,away,FALSE,California,46,Golden Bears,California Golden Bears,California

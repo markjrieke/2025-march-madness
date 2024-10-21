@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250570103,2005-02-26,2,103,home,FALSE,Boston College,70,Eagles,Boston College Eagles,Boston College
-250570103,2005-02-26,2,2550,away,FALSE,Seton Hall,58,Pirates,Seton Hall Pirates,Seton Hall
-250570333,2005-02-26,2,333,home,FALSE,Alabama,71,Crimson Tide,Alabama Crimson Tide,Alabama
-250570333,2005-02-26,2,96,away,FALSE,Kentucky,78,Wildcats,Kentucky Wildcats,Kentucky
-250572599,2005-02-26,2,2599,home,FALSE,St. John's,47,Red Storm,St. John's Red Storm,St John's
-250572599,2005-02-26,2,150,away,FALSE,Duke,58,Blue Devils,Duke Blue Devils,Duke
-250570264,2005-02-26,2,264,home,FALSE,Washington,93,Huskies,Washington Huskies,Washington
-250570264,2005-02-26,2,12,away,FALSE,Arizona,85,Wildcats,Arizona Wildcats,Arizona
-250570235,2005-02-26,2,235,home,FALSE,Memphis,44,Tigers,Memphis Tigers,Memphis
-250570235,2005-02-26,2,97,away,FALSE,Louisville,53,Cardinals,Louisville Cardinals,Louisville
-250570254,2005-02-26,2,254,home,FALSE,Utah,69,Utes,Utah Utes,Utah
-250570254,2005-02-26,2,252,away,FALSE,BYU,60,Cougars,BYU Cougars,BYU
-250570183,2005-02-26,2,183,home,FALSE,Syracuse,91,Orange,Syracuse Orange,Syracuse
-250570183,2005-02-26,2,2507,away,FALSE,Providence,66,Friars,Providence Friars,Providence
-250570221,2005-02-26,2,221,home,FALSE,Pittsburgh,64,Panthers,Pittsburgh Panthers,Pitt
-250570221,2005-02-26,2,41,away,FALSE,UConn,73,Huskies,UConn Huskies,UConn
-250570279,2005-02-26,2,279,home,FALSE,Pacific,75,Tigers,Pacific Tigers,Pacific
-250570279,2005-02-26,2,2463,away,FALSE,Cal State Northridge,61,Matadors,Cal State Northridge Matadors,CSU Northridge
-250572429,2005-02-26,2,2429,home,FALSE,Charlotte,81,49ers,Charlotte 49ers,Charlotte
-250572429,2005-02-26,2,2572,away,FALSE,Southern Miss,58,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
-250570201,2005-02-26,2,201,home,FALSE,Oklahoma,103,Sooners,Oklahoma Sooners,Oklahoma
-250570201,2005-02-26,2,239,away,FALSE,Baylor,60,Bears,Baylor Bears,Baylor
-250572628,2005-02-26,2,2628,home,FALSE,TCU,74,Horned Frogs,TCU Horned Frogs,TCU
-250572628,2005-02-26,2,2132,away,FALSE,Cincinnati,89,Bearcats,Cincinnati Bearcats,Cincinnati
-250570278,2005-02-26,2,278,home,FALSE,Fresno State,63,Bulldogs,Fresno State Bulldogs,Fresno St
-250570278,2005-02-26,2,2440,away,FALSE,Nevada,76,Wolf Pack,Nevada Wolf Pack,Nevada
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250570103,2005,regular-season,2005-02-26,2,103,home,FALSE,Boston College,70,Eagles,Boston College Eagles,Boston College
+250570103,2005,regular-season,2005-02-26,2,2550,away,FALSE,Seton Hall,58,Pirates,Seton Hall Pirates,Seton Hall
+250570333,2005,regular-season,2005-02-26,2,333,home,FALSE,Alabama,71,Crimson Tide,Alabama Crimson Tide,Alabama
+250570333,2005,regular-season,2005-02-26,2,96,away,FALSE,Kentucky,78,Wildcats,Kentucky Wildcats,Kentucky
+250572599,2005,regular-season,2005-02-26,2,2599,home,FALSE,St. John's,47,Red Storm,St. John's Red Storm,St John's
+250572599,2005,regular-season,2005-02-26,2,150,away,FALSE,Duke,58,Blue Devils,Duke Blue Devils,Duke
+250570264,2005,regular-season,2005-02-26,2,264,home,FALSE,Washington,93,Huskies,Washington Huskies,Washington
+250570264,2005,regular-season,2005-02-26,2,12,away,FALSE,Arizona,85,Wildcats,Arizona Wildcats,Arizona
+250570235,2005,regular-season,2005-02-26,2,235,home,FALSE,Memphis,44,Tigers,Memphis Tigers,Memphis
+250570235,2005,regular-season,2005-02-26,2,97,away,FALSE,Louisville,53,Cardinals,Louisville Cardinals,Louisville
+250570254,2005,regular-season,2005-02-26,2,254,home,FALSE,Utah,69,Utes,Utah Utes,Utah
+250570254,2005,regular-season,2005-02-26,2,252,away,FALSE,BYU,60,Cougars,BYU Cougars,BYU
+250570183,2005,regular-season,2005-02-26,2,183,home,FALSE,Syracuse,91,Orange,Syracuse Orange,Syracuse
+250570183,2005,regular-season,2005-02-26,2,2507,away,FALSE,Providence,66,Friars,Providence Friars,Providence
+250570221,2005,regular-season,2005-02-26,2,221,home,FALSE,Pittsburgh,64,Panthers,Pittsburgh Panthers,Pitt
+250570221,2005,regular-season,2005-02-26,2,41,away,FALSE,UConn,73,Huskies,UConn Huskies,UConn
+250570279,2005,regular-season,2005-02-26,2,279,home,FALSE,Pacific,75,Tigers,Pacific Tigers,Pacific
+250570279,2005,regular-season,2005-02-26,2,2463,away,FALSE,Cal State Northridge,61,Matadors,Cal State Northridge Matadors,CSU Northridge
+250572429,2005,regular-season,2005-02-26,2,2429,home,FALSE,Charlotte,81,49ers,Charlotte 49ers,Charlotte
+250572429,2005,regular-season,2005-02-26,2,2572,away,FALSE,Southern Miss,58,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
+250570201,2005,regular-season,2005-02-26,2,201,home,FALSE,Oklahoma,103,Sooners,Oklahoma Sooners,Oklahoma
+250570201,2005,regular-season,2005-02-26,2,239,away,FALSE,Baylor,60,Bears,Baylor Bears,Baylor
+250572628,2005,regular-season,2005-02-26,2,2628,home,FALSE,TCU,74,Horned Frogs,TCU Horned Frogs,TCU
+250572628,2005,regular-season,2005-02-26,2,2132,away,FALSE,Cincinnati,89,Bearcats,Cincinnati Bearcats,Cincinnati
+250570278,2005,regular-season,2005-02-26,2,278,home,FALSE,Fresno State,63,Bulldogs,Fresno State Bulldogs,Fresno St
+250570278,2005,regular-season,2005-02-26,2,2440,away,FALSE,Nevada,76,Wolf Pack,Nevada Wolf Pack,Nevada

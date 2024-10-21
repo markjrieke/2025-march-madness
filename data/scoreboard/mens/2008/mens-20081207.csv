@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-283420202,2008-12-07,2,202,home,TRUE,Tulsa,44,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-283420202,2008-12-07,2,201,away,TRUE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma
-283420097,2008-12-07,2,97,home,FALSE,Louisville,91,Cardinals,Louisville Cardinals,Louisville
-283420097,2008-12-07,2,195,away,FALSE,Ohio,56,Bobcats,Ohio Bobcats,Ohio
-283420026,2008-12-07,2,26,home,FALSE,UCLA,85,Bruins,UCLA Bruins,UCLA
-283420026,2008-12-07,2,2463,away,FALSE,Cal State Northridge,67,Matadors,Cal State Northridge Matadors,CSU Northridge
-283420127,2008-12-07,2,127,home,FALSE,Michigan State,75,Spartans,Michigan State Spartans,Michigan St
-283420127,2008-12-07,2,71,away,FALSE,Bradley,59,Braves,Bradley Braves,Bradley
-283420009,2008-12-07,2,9,home,FALSE,Arizona State,64,Sun Devils,Arizona State Sun Devils,Arizona St
-283420009,2008-12-07,2,158,away,FALSE,Nebraska,44,Cornhuskers,Nebraska Cornhuskers,Nebraska
-283420052,2008-12-07,2,52,home,FALSE,Florida State,57,Seminoles,Florida State Seminoles,Florida St
-283420052,2008-12-07,2,57,away,FALSE,Florida,55,Gators,Florida Gators,Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283420202,2009,regular-season,2008-12-07,2,202,home,TRUE,Tulsa,44,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+283420202,2009,regular-season,2008-12-07,2,201,away,TRUE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma
+283420097,2009,regular-season,2008-12-07,2,97,home,FALSE,Louisville,91,Cardinals,Louisville Cardinals,Louisville
+283420097,2009,regular-season,2008-12-07,2,195,away,FALSE,Ohio,56,Bobcats,Ohio Bobcats,Ohio
+283420026,2009,regular-season,2008-12-07,2,26,home,FALSE,UCLA,85,Bruins,UCLA Bruins,UCLA
+283420026,2009,regular-season,2008-12-07,2,2463,away,FALSE,Cal State Northridge,67,Matadors,Cal State Northridge Matadors,CSU Northridge
+283420127,2009,regular-season,2008-12-07,2,127,home,FALSE,Michigan State,75,Spartans,Michigan State Spartans,Michigan St
+283420127,2009,regular-season,2008-12-07,2,71,away,FALSE,Bradley,59,Braves,Bradley Braves,Bradley
+283420009,2009,regular-season,2008-12-07,2,9,home,FALSE,Arizona State,64,Sun Devils,Arizona State Sun Devils,Arizona St
+283420009,2009,regular-season,2008-12-07,2,158,away,FALSE,Nebraska,44,Cornhuskers,Nebraska Cornhuskers,Nebraska
+283420052,2009,regular-season,2008-12-07,2,52,home,FALSE,Florida State,57,Seminoles,Florida State Seminoles,Florida St
+283420052,2009,regular-season,2008-12-07,2,57,away,FALSE,Florida,55,Gators,Florida Gators,Florida

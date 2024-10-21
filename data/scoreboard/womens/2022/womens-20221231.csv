@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401498564,2022-12-31,4,24,home,FALSE,Stanford,101,Cardinal,Stanford Cardinal,Stanford
-401498564,2022-12-31,4,9,away,FALSE,Arizona State,69,Sun Devils,Arizona State Sun Devils,Arizona St
-401484674,2022-12-31,4,194,home,FALSE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
-401484674,2022-12-31,4,130,away,FALSE,Michigan,57,Wolverines,Michigan Wolverines,Michigan
-401487171,2022-12-31,4,41,home,FALSE,UConn,61,Huskies,UConn Huskies,UConn
-401487171,2022-12-31,4,269,away,FALSE,Marquette,48,Golden Eagles,Marquette Golden Eagles,Marquette
-401494130,2022-12-31,4,2641,home,FALSE,Texas Tech,58,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-401494130,2022-12-31,4,66,away,FALSE,Iowa State,81,Cyclones,Iowa State Cyclones,Iowa State
-401498565,2022-12-31,4,25,home,FALSE,California,56,Golden Bears,California Golden Bears,California
-401498565,2022-12-31,4,12,away,FALSE,Arizona,63,Wildcats,Arizona Wildcats,Arizona
-401474710,2022-12-31,4,2351,home,FALSE,Loyola Marymount,51,Lions,Loyola Marymount Lions,LMU
-401474710,2022-12-31,4,2250,away,FALSE,Gonzaga,96,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401494133,2022-12-31,4,277,home,FALSE,West Virginia,77,Mountaineers,West Virginia Mountaineers,West Virginia
-401494133,2022-12-31,4,201,away,FALSE,Oklahoma,98,Sooners,Oklahoma Sooners,Oklahoma
-401487172,2022-12-31,4,305,home,FALSE,DePaul,82,Blue Demons,DePaul Blue Demons,DePaul
-401487172,2022-12-31,4,156,away,FALSE,Creighton,92,Bluejays,Creighton Bluejays,Creighton
-401494131,2022-12-31,4,197,home,FALSE,Oklahoma State,65,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-401494131,2022-12-31,4,2305,away,FALSE,Kansas,80,Jayhawks,Kansas Jayhawks,Kansas
-401494134,2022-12-31,4,239,home,FALSE,Baylor,64,Bears,Baylor Bears,Baylor
-401494134,2022-12-31,4,2628,away,FALSE,TCU,42,Horned Frogs,TCU Horned Frogs,TCU
-401487173,2022-12-31,4,46,home,FALSE,Georgetown,48,Hoyas,Georgetown Hoyas,Georgetown
-401487173,2022-12-31,4,2599,away,FALSE,St. John's,68,Red Storm,St. John's Red Storm,St John's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401498564,2023,regular-season,2022-12-31,4,24,home,FALSE,Stanford,101,Cardinal,Stanford Cardinal,Stanford
+401498564,2023,regular-season,2022-12-31,4,9,away,FALSE,Arizona State,69,Sun Devils,Arizona State Sun Devils,Arizona St
+401484674,2023,regular-season,2022-12-31,4,194,home,FALSE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
+401484674,2023,regular-season,2022-12-31,4,130,away,FALSE,Michigan,57,Wolverines,Michigan Wolverines,Michigan
+401487171,2023,regular-season,2022-12-31,4,41,home,FALSE,UConn,61,Huskies,UConn Huskies,UConn
+401487171,2023,regular-season,2022-12-31,4,269,away,FALSE,Marquette,48,Golden Eagles,Marquette Golden Eagles,Marquette
+401494130,2023,regular-season,2022-12-31,4,2641,home,FALSE,Texas Tech,58,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+401494130,2023,regular-season,2022-12-31,4,66,away,FALSE,Iowa State,81,Cyclones,Iowa State Cyclones,Iowa State
+401498565,2023,regular-season,2022-12-31,4,25,home,FALSE,California,56,Golden Bears,California Golden Bears,California
+401498565,2023,regular-season,2022-12-31,4,12,away,FALSE,Arizona,63,Wildcats,Arizona Wildcats,Arizona
+401474710,2023,regular-season,2022-12-31,4,2351,home,FALSE,Loyola Marymount,51,Lions,Loyola Marymount Lions,LMU
+401474710,2023,regular-season,2022-12-31,4,2250,away,FALSE,Gonzaga,96,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401494133,2023,regular-season,2022-12-31,4,277,home,FALSE,West Virginia,77,Mountaineers,West Virginia Mountaineers,West Virginia
+401494133,2023,regular-season,2022-12-31,4,201,away,FALSE,Oklahoma,98,Sooners,Oklahoma Sooners,Oklahoma
+401487172,2023,regular-season,2022-12-31,4,305,home,FALSE,DePaul,82,Blue Demons,DePaul Blue Demons,DePaul
+401487172,2023,regular-season,2022-12-31,4,156,away,FALSE,Creighton,92,Bluejays,Creighton Bluejays,Creighton
+401494131,2023,regular-season,2022-12-31,4,197,home,FALSE,Oklahoma State,65,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+401494131,2023,regular-season,2022-12-31,4,2305,away,FALSE,Kansas,80,Jayhawks,Kansas Jayhawks,Kansas
+401494134,2023,regular-season,2022-12-31,4,239,home,FALSE,Baylor,64,Bears,Baylor Bears,Baylor
+401494134,2023,regular-season,2022-12-31,4,2628,away,FALSE,TCU,42,Horned Frogs,TCU Horned Frogs,TCU
+401487173,2023,regular-season,2022-12-31,4,46,home,FALSE,Georgetown,48,Hoyas,Georgetown Hoyas,Georgetown
+401487173,2023,regular-season,2022-12-31,4,2599,away,FALSE,St. John's,68,Red Storm,St. John's Red Storm,St John's

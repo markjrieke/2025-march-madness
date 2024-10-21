@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401364934,2022-02-15,2,2633,home,FALSE,Tennessee,76,Volunteers,Tennessee Volunteers,Tennessee
-401364934,2022-02-15,2,96,away,FALSE,Kentucky,63,Wildcats,Kentucky Wildcats,Kentucky
-401373591,2022-02-15,2,2507,home,FALSE,Providence,84,Friars,Providence Friars,Providence
-401373591,2022-02-15,2,222,away,FALSE,Villanova,89,Wildcats,Villanova Wildcats,Villanova
-401369867,2022-02-15,2,150,home,FALSE,Duke,76,Blue Devils,Duke Blue Devils,Duke
-401369867,2022-02-15,2,154,away,FALSE,Wake Forest,74,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-401364443,2022-02-15,2,84,home,FALSE,Indiana,69,Hoosiers,Indiana Hoosiers,Indiana
-401364443,2022-02-15,2,275,away,FALSE,Wisconsin,74,Badgers,Wisconsin Badgers,Wisconsin
-401364442,2022-02-15,2,194,home,FALSE,Ohio State,70,Buckeyes,Ohio State Buckeyes,Ohio State
-401364442,2022-02-15,2,135,away,FALSE,Minnesota,45,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401364441,2022-02-15,2,213,home,FALSE,Penn State,62,Nittany Lions,Penn State Nittany Lions,Penn State
-401364441,2022-02-15,2,127,away,FALSE,Michigan State,58,Spartans,Michigan State Spartans,Michigan St
-401368415,2022-02-15,3,201,home,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
-401368415,2022-02-15,3,251,away,FALSE,Texas,80,Longhorns,Texas Longhorns,Texas
-401364779,2022-02-15,2,167,home,FALSE,New Mexico,75,Lobos,New Mexico Lobos,New Mexico
-401364779,2022-02-15,2,2751,away,FALSE,Wyoming,66,Cowboys,Wyoming Cowboys,Wyoming
-401364933,2022-02-15,2,142,home,FALSE,Missouri,57,Tigers,Missouri Tigers,Missouri
-401364933,2022-02-15,2,8,away,FALSE,Arkansas,76,Razorbacks,Arkansas Razorbacks,Arkansas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401364934,2022,regular-season,2022-02-15,2,2633,home,FALSE,Tennessee,76,Volunteers,Tennessee Volunteers,Tennessee
+401364934,2022,regular-season,2022-02-15,2,96,away,FALSE,Kentucky,63,Wildcats,Kentucky Wildcats,Kentucky
+401373591,2022,regular-season,2022-02-15,2,2507,home,FALSE,Providence,84,Friars,Providence Friars,Providence
+401373591,2022,regular-season,2022-02-15,2,222,away,FALSE,Villanova,89,Wildcats,Villanova Wildcats,Villanova
+401369867,2022,regular-season,2022-02-15,2,150,home,FALSE,Duke,76,Blue Devils,Duke Blue Devils,Duke
+401369867,2022,regular-season,2022-02-15,2,154,away,FALSE,Wake Forest,74,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+401364443,2022,regular-season,2022-02-15,2,84,home,FALSE,Indiana,69,Hoosiers,Indiana Hoosiers,Indiana
+401364443,2022,regular-season,2022-02-15,2,275,away,FALSE,Wisconsin,74,Badgers,Wisconsin Badgers,Wisconsin
+401364442,2022,regular-season,2022-02-15,2,194,home,FALSE,Ohio State,70,Buckeyes,Ohio State Buckeyes,Ohio State
+401364442,2022,regular-season,2022-02-15,2,135,away,FALSE,Minnesota,45,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401364441,2022,regular-season,2022-02-15,2,213,home,FALSE,Penn State,62,Nittany Lions,Penn State Nittany Lions,Penn State
+401364441,2022,regular-season,2022-02-15,2,127,away,FALSE,Michigan State,58,Spartans,Michigan State Spartans,Michigan St
+401368415,2022,regular-season,2022-02-15,3,201,home,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
+401368415,2022,regular-season,2022-02-15,3,251,away,FALSE,Texas,80,Longhorns,Texas Longhorns,Texas
+401364779,2022,regular-season,2022-02-15,2,167,home,FALSE,New Mexico,75,Lobos,New Mexico Lobos,New Mexico
+401364779,2022,regular-season,2022-02-15,2,2751,away,FALSE,Wyoming,66,Cowboys,Wyoming Cowboys,Wyoming
+401364933,2022,regular-season,2022-02-15,2,142,home,FALSE,Missouri,57,Tigers,Missouri Tigers,Missouri
+401364933,2022,regular-season,2022-02-15,2,8,away,FALSE,Arkansas,76,Razorbacks,Arkansas Razorbacks,Arkansas

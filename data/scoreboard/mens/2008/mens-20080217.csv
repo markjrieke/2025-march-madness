@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280480154,2008-02-17,2,154,home,FALSE,Wake Forest,86,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-280480154,2008-02-17,2,150,away,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
-280480030,2008-02-17,2,30,home,FALSE,USC,46,Trojans,USC Trojans,USC
-280480030,2008-02-17,2,26,away,FALSE,UCLA,56,Bruins,UCLA Bruins,UCLA
-280480164,2008-02-17,2,164,home,FALSE,Rutgers,68,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-280480164,2008-02-17,2,87,away,FALSE,Notre Dame,71,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280480154,2008,regular-season,2008-02-17,2,154,home,FALSE,Wake Forest,86,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+280480154,2008,regular-season,2008-02-17,2,150,away,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
+280480030,2008,regular-season,2008-02-17,2,30,home,FALSE,USC,46,Trojans,USC Trojans,USC
+280480030,2008,regular-season,2008-02-17,2,26,away,FALSE,UCLA,56,Bruins,UCLA Bruins,UCLA
+280480164,2008,regular-season,2008-02-17,2,164,home,FALSE,Rutgers,68,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+280480164,2008,regular-season,2008-02-17,2,87,away,FALSE,Notre Dame,71,Fighting Irish,Notre Dame Fighting Irish,Notre Dame

@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400840314,2016-02-28,2,2550,home,FALSE,Seton Hall,90,Pirates,Seton Hall Pirates,Seton Hall
-400840314,2016-02-28,2,2752,away,FALSE,Xavier,81,Musketeers,Xavier Musketeers,Xavier
-400839332,2016-02-28,2,127,home,FALSE,Michigan State,88,Spartans,Michigan State Spartans,Michigan St
-400839332,2016-02-28,2,213,away,FALSE,Penn State,57,Nittany Lions,Penn State Nittany Lions,Penn State
-400839313,2016-02-28,2,194,home,FALSE,Ohio State,68,Buckeyes,Ohio State Buckeyes,Ohio State
-400839313,2016-02-28,2,2294,away,FALSE,Iowa,64,Hawkeyes,Iowa Hawkeyes,Iowa
-400841304,2016-02-28,2,2483,home,FALSE,Oregon,86,Ducks,Oregon Ducks,Oregon
-400841304,2016-02-28,2,264,away,FALSE,Washington,73,Huskies,Washington Huskies,Washington
-400839229,2016-02-28,2,221,home,FALSE,Pittsburgh,76,Panthers,Pittsburgh Panthers,Pitt
-400839229,2016-02-28,2,150,away,FALSE,Duke,62,Blue Devils,Duke Blue Devils,Duke
-400835313,2016-02-28,2,2567,home,FALSE,SMU,74,Mustangs,SMU Mustangs,SMU
-400835313,2016-02-28,2,2655,away,FALSE,Tulane,53,Green Wave,Tulane Green Wave,Tulane
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400840314,2016,regular-season,2016-02-28,2,2550,home,FALSE,Seton Hall,90,Pirates,Seton Hall Pirates,Seton Hall
+400840314,2016,regular-season,2016-02-28,2,2752,away,FALSE,Xavier,81,Musketeers,Xavier Musketeers,Xavier
+400839332,2016,regular-season,2016-02-28,2,127,home,FALSE,Michigan State,88,Spartans,Michigan State Spartans,Michigan St
+400839332,2016,regular-season,2016-02-28,2,213,away,FALSE,Penn State,57,Nittany Lions,Penn State Nittany Lions,Penn State
+400839313,2016,regular-season,2016-02-28,2,194,home,FALSE,Ohio State,68,Buckeyes,Ohio State Buckeyes,Ohio State
+400839313,2016,regular-season,2016-02-28,2,2294,away,FALSE,Iowa,64,Hawkeyes,Iowa Hawkeyes,Iowa
+400841304,2016,regular-season,2016-02-28,2,2483,home,FALSE,Oregon,86,Ducks,Oregon Ducks,Oregon
+400841304,2016,regular-season,2016-02-28,2,264,away,FALSE,Washington,73,Huskies,Washington Huskies,Washington
+400839229,2016,regular-season,2016-02-28,2,221,home,FALSE,Pittsburgh,76,Panthers,Pittsburgh Panthers,Pitt
+400839229,2016,regular-season,2016-02-28,2,150,away,FALSE,Duke,62,Blue Devils,Duke Blue Devils,Duke
+400835313,2016,regular-season,2016-02-28,2,2567,home,FALSE,SMU,74,Mustangs,SMU Mustangs,SMU
+400835313,2016,regular-season,2016-02-28,2,2655,away,FALSE,Tulane,53,Green Wave,Tulane Green Wave,Tulane

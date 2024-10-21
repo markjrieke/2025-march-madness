@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401169825,2019-11-14,2,57,home,FALSE,Florida,66,Gators,Florida Gators,Florida
-401169825,2019-11-14,2,119,away,FALSE,Towson,60,Tigers,Towson Tigers,Towson
-401171610,2019-11-14,2,2608,home,FALSE,Saint Mary's,81,Gaels,Saint Mary's Gaels,Saint Mary's
-401171610,2019-11-14,2,299,away,FALSE,Long Beach State,63,Beach,Long Beach State Beach,Long Beach St
-401170571,2019-11-14,2,12,home,FALSE,Arizona,87,Wildcats,Arizona Wildcats,Arizona
-401170571,2019-11-14,2,23,away,FALSE,San José State,39,Spartans,San José State Spartans,San José St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401169825,2020,regular-season,2019-11-14,2,57,home,FALSE,Florida,66,Gators,Florida Gators,Florida
+401169825,2020,regular-season,2019-11-14,2,119,away,FALSE,Towson,60,Tigers,Towson Tigers,Towson
+401171610,2020,regular-season,2019-11-14,2,2608,home,FALSE,Saint Mary's,81,Gaels,Saint Mary's Gaels,Saint Mary's
+401171610,2020,regular-season,2019-11-14,2,299,away,FALSE,Long Beach State,63,Beach,Long Beach State Beach,Long Beach St
+401170571,2020,regular-season,2019-11-14,2,12,home,FALSE,Arizona,87,Wildcats,Arizona Wildcats,Arizona
+401170571,2020,regular-season,2019-11-14,2,23,away,FALSE,San José State,39,Spartans,San José State Spartans,San José St

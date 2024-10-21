@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320220084,2012-01-22,2,84,home,FALSE,Indiana,73,Hoosiers,Indiana Hoosiers,Indiana
-320220084,2012-01-22,2,213,away,FALSE,Penn State,54,Nittany Lions,Penn State Nittany Lions,Penn State
-320220258,2012-01-22,2,258,home,FALSE,Virginia,45,Cavaliers,Virginia Cavaliers,Virginia
-320220258,2012-01-22,2,259,away,FALSE,Virginia Tech,47,Hokies,Virginia Tech Hokies,Virginia Tech
-320220356,2012-01-22,2,356,home,FALSE,Illinois,63,Fighting Illini,Illinois Fighting Illini,Illinois
-320220356,2012-01-22,2,275,away,FALSE,Wisconsin,67,Badgers,Wisconsin Badgers,Wisconsin
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320220084,2012,regular-season,2012-01-22,2,84,home,FALSE,Indiana,73,Hoosiers,Indiana Hoosiers,Indiana
+320220084,2012,regular-season,2012-01-22,2,213,away,FALSE,Penn State,54,Nittany Lions,Penn State Nittany Lions,Penn State
+320220258,2012,regular-season,2012-01-22,2,258,home,FALSE,Virginia,45,Cavaliers,Virginia Cavaliers,Virginia
+320220258,2012,regular-season,2012-01-22,2,259,away,FALSE,Virginia Tech,47,Hokies,Virginia Tech Hokies,Virginia Tech
+320220356,2012,regular-season,2012-01-22,2,356,home,FALSE,Illinois,63,Fighting Illini,Illinois Fighting Illini,Illinois
+320220356,2012,regular-season,2012-01-22,2,275,away,FALSE,Wisconsin,67,Badgers,Wisconsin Badgers,Wisconsin

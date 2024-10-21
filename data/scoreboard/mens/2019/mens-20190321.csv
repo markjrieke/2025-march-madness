@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401123436,2019-03-21,2,97,home,TRUE,Louisville,76,Cardinals,Louisville Cardinals,Louisville
-401123436,2019-03-21,2,135,away,TRUE,Minnesota,86,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401123438,2019-03-21,2,99,home,TRUE,LSU,79,Tigers,LSU Tigers,LSU
-401123438,2019-03-21,2,43,away,TRUE,Yale,74,Bulldogs,Yale Bulldogs,Yale
-401123402,2019-03-21,2,2,home,TRUE,Auburn,78,Tigers,Auburn Tigers,Auburn
-401123402,2019-03-21,2,166,away,TRUE,New Mexico State,77,Aggies,New Mexico State Aggies,New Mexico St
-401123393,2019-03-21,2,52,home,TRUE,Florida State,76,Seminoles,Florida State Seminoles,Florida St
-401123393,2019-03-21,2,261,away,TRUE,Vermont,69,Catamounts,Vermont Catamounts,Vermont
-401123435,2019-03-21,2,127,home,TRUE,Michigan State,76,Spartans,Michigan State Spartans,Michigan St
-401123435,2019-03-21,2,71,away,TRUE,Bradley,65,Braves,Bradley Braves,Bradley
-401123437,2019-03-21,2,120,home,TRUE,Maryland,79,Terrapins,Maryland Terrapins,Maryland
-401123437,2019-03-21,2,2057,away,TRUE,Belmont,77,Bruins,Belmont Bruins,Belmont
-401123401,2019-03-21,2,2305,home,TRUE,Kansas,87,Jayhawks,Kansas Jayhawks,Kansas
-401123401,2019-03-21,2,111,away,TRUE,Northeastern,53,Huskies,Northeastern Huskies,Northeastern
-401123394,2019-03-21,2,269,home,TRUE,Marquette,64,Golden Eagles,Marquette Golden Eagles,Marquette
-401123394,2019-03-21,2,93,away,TRUE,Murray State,83,Racers,Murray State Racers,Murray St
-401123406,2019-03-21,2,2440,home,TRUE,Nevada,61,Wolf Pack,Nevada Wolf Pack,Nevada
-401123406,2019-03-21,2,57,away,TRUE,Florida,70,Gators,Florida Gators,Florida
-401123403,2019-03-21,2,96,home,TRUE,Kentucky,79,Wildcats,Kentucky Wildcats,Kentucky
-401123403,2019-03-21,2,2000,away,TRUE,Abilene Christian,44,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
-401123396,2019-03-21,2,2250,home,TRUE,Gonzaga,87,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401123396,2019-03-21,2,161,away,TRUE,Fairleigh Dickinson,49,Knights,Fairleigh Dickinson Knights,Fair Dickinson
-401123400,2019-03-21,2,222,home,TRUE,Villanova,61,Wildcats,Villanova Wildcats,Villanova
-401123400,2019-03-21,2,2608,away,TRUE,Saint Mary's,57,Gaels,Saint Mary's Gaels,Saint Mary's
-401123404,2019-03-21,2,2747,home,TRUE,Wofford,84,Terriers,Wofford Terriers,Wofford
-401123404,2019-03-21,2,2550,away,TRUE,Seton Hall,68,Pirates,Seton Hall Pirates,Seton Hall
-401123405,2019-03-21,2,130,home,TRUE,Michigan,74,Wolverines,Michigan Wolverines,Michigan
-401123405,2019-03-21,2,149,away,TRUE,Montana,55,Grizzlies,Montana Grizzlies,Montana
-401123395,2019-03-21,2,183,home,TRUE,Syracuse,69,Orange,Syracuse Orange,Syracuse
-401123395,2019-03-21,2,239,away,TRUE,Baylor,78,Bears,Baylor Bears,Baylor
-401123399,2019-03-21,2,2509,home,TRUE,Purdue,61,Boilermakers,Purdue Boilermakers,Purdue
-401123399,2019-03-21,2,295,away,TRUE,Old Dominion,48,Monarchs,Old Dominion Monarchs,Old Dominion
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401123436,2019,post-season,2019-03-21,2,97,home,TRUE,Louisville,76,Cardinals,Louisville Cardinals,Louisville
+401123436,2019,post-season,2019-03-21,2,135,away,TRUE,Minnesota,86,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401123438,2019,post-season,2019-03-21,2,99,home,TRUE,LSU,79,Tigers,LSU Tigers,LSU
+401123438,2019,post-season,2019-03-21,2,43,away,TRUE,Yale,74,Bulldogs,Yale Bulldogs,Yale
+401123402,2019,post-season,2019-03-21,2,2,home,TRUE,Auburn,78,Tigers,Auburn Tigers,Auburn
+401123402,2019,post-season,2019-03-21,2,166,away,TRUE,New Mexico State,77,Aggies,New Mexico State Aggies,New Mexico St
+401123393,2019,post-season,2019-03-21,2,52,home,TRUE,Florida State,76,Seminoles,Florida State Seminoles,Florida St
+401123393,2019,post-season,2019-03-21,2,261,away,TRUE,Vermont,69,Catamounts,Vermont Catamounts,Vermont
+401123435,2019,post-season,2019-03-21,2,127,home,TRUE,Michigan State,76,Spartans,Michigan State Spartans,Michigan St
+401123435,2019,post-season,2019-03-21,2,71,away,TRUE,Bradley,65,Braves,Bradley Braves,Bradley
+401123437,2019,post-season,2019-03-21,2,120,home,TRUE,Maryland,79,Terrapins,Maryland Terrapins,Maryland
+401123437,2019,post-season,2019-03-21,2,2057,away,TRUE,Belmont,77,Bruins,Belmont Bruins,Belmont
+401123401,2019,post-season,2019-03-21,2,2305,home,TRUE,Kansas,87,Jayhawks,Kansas Jayhawks,Kansas
+401123401,2019,post-season,2019-03-21,2,111,away,TRUE,Northeastern,53,Huskies,Northeastern Huskies,Northeastern
+401123394,2019,post-season,2019-03-21,2,269,home,TRUE,Marquette,64,Golden Eagles,Marquette Golden Eagles,Marquette
+401123394,2019,post-season,2019-03-21,2,93,away,TRUE,Murray State,83,Racers,Murray State Racers,Murray St
+401123406,2019,post-season,2019-03-21,2,2440,home,TRUE,Nevada,61,Wolf Pack,Nevada Wolf Pack,Nevada
+401123406,2019,post-season,2019-03-21,2,57,away,TRUE,Florida,70,Gators,Florida Gators,Florida
+401123403,2019,post-season,2019-03-21,2,96,home,TRUE,Kentucky,79,Wildcats,Kentucky Wildcats,Kentucky
+401123403,2019,post-season,2019-03-21,2,2000,away,TRUE,Abilene Christian,44,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
+401123396,2019,post-season,2019-03-21,2,2250,home,TRUE,Gonzaga,87,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401123396,2019,post-season,2019-03-21,2,161,away,TRUE,Fairleigh Dickinson,49,Knights,Fairleigh Dickinson Knights,Fair Dickinson
+401123400,2019,post-season,2019-03-21,2,222,home,TRUE,Villanova,61,Wildcats,Villanova Wildcats,Villanova
+401123400,2019,post-season,2019-03-21,2,2608,away,TRUE,Saint Mary's,57,Gaels,Saint Mary's Gaels,Saint Mary's
+401123404,2019,post-season,2019-03-21,2,2747,home,TRUE,Wofford,84,Terriers,Wofford Terriers,Wofford
+401123404,2019,post-season,2019-03-21,2,2550,away,TRUE,Seton Hall,68,Pirates,Seton Hall Pirates,Seton Hall
+401123405,2019,post-season,2019-03-21,2,130,home,TRUE,Michigan,74,Wolverines,Michigan Wolverines,Michigan
+401123405,2019,post-season,2019-03-21,2,149,away,TRUE,Montana,55,Grizzlies,Montana Grizzlies,Montana
+401123395,2019,post-season,2019-03-21,2,183,home,TRUE,Syracuse,69,Orange,Syracuse Orange,Syracuse
+401123395,2019,post-season,2019-03-21,2,239,away,TRUE,Baylor,78,Bears,Baylor Bears,Baylor
+401123399,2019,post-season,2019-03-21,2,2509,home,TRUE,Purdue,61,Boilermakers,Purdue Boilermakers,Purdue
+401123399,2019,post-season,2019-03-21,2,295,away,TRUE,Old Dominion,48,Monarchs,Old Dominion Monarchs,Old Dominion

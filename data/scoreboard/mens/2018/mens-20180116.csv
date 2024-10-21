@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400986511,2018-01-16,2,2509,home,FALSE,Purdue,78,Boilermakers,Purdue Boilermakers,Purdue
-400986511,2018-01-16,2,275,away,FALSE,Wisconsin,50,Badgers,Wisconsin Badgers,Wisconsin
-400989204,2018-01-16,2,2306,home,FALSE,Kansas State,87,Wildcats,Kansas State Wildcats,Kansas St
-400989204,2018-01-16,2,201,away,FALSE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma
-400988067,2018-01-16,2,2116,home,FALSE,UCF,38,Knights,UCF Knights,UCF
-400988067,2018-01-16,2,2132,away,FALSE,Cincinnati,49,Bearcats,Cincinnati Bearcats,Cincinnati
-400986208,2018-01-16,2,153,home,FALSE,North Carolina,87,Tar Heels,North Carolina Tar Heels,North Carolina
-400986208,2018-01-16,2,228,away,FALSE,Clemson,79,Tigers,Clemson Tigers,Clemson
-400987315,2018-01-16,2,2579,home,FALSE,South Carolina,76,Gamecocks,South Carolina Gamecocks,South Carolina
-400987315,2018-01-16,2,96,away,FALSE,Kentucky,68,Wildcats,Kentucky Wildcats,Kentucky
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400986511,2018,regular-season,2018-01-16,2,2509,home,FALSE,Purdue,78,Boilermakers,Purdue Boilermakers,Purdue
+400986511,2018,regular-season,2018-01-16,2,275,away,FALSE,Wisconsin,50,Badgers,Wisconsin Badgers,Wisconsin
+400989204,2018,regular-season,2018-01-16,2,2306,home,FALSE,Kansas State,87,Wildcats,Kansas State Wildcats,Kansas St
+400989204,2018,regular-season,2018-01-16,2,201,away,FALSE,Oklahoma,69,Sooners,Oklahoma Sooners,Oklahoma
+400988067,2018,regular-season,2018-01-16,2,2116,home,FALSE,UCF,38,Knights,UCF Knights,UCF
+400988067,2018,regular-season,2018-01-16,2,2132,away,FALSE,Cincinnati,49,Bearcats,Cincinnati Bearcats,Cincinnati
+400986208,2018,regular-season,2018-01-16,2,153,home,FALSE,North Carolina,87,Tar Heels,North Carolina Tar Heels,North Carolina
+400986208,2018,regular-season,2018-01-16,2,228,away,FALSE,Clemson,79,Tigers,Clemson Tigers,Clemson
+400987315,2018,regular-season,2018-01-16,2,2579,home,FALSE,South Carolina,76,Gamecocks,South Carolina Gamecocks,South Carolina
+400987315,2018,regular-season,2018-01-16,2,96,away,FALSE,Kentucky,68,Wildcats,Kentucky Wildcats,Kentucky

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320232132,2012-01-23,2,2132,home,FALSE,Cincinnati,53,Bearcats,Cincinnati Bearcats,Cincinnati
-320232132,2012-01-23,2,183,away,FALSE,Syracuse,60,Orange,Syracuse Orange,Syracuse
-320232305,2012-01-23,2,2305,home,FALSE,Kansas,64,Jayhawks,Kansas Jayhawks,Kansas
-320232305,2012-01-23,2,245,away,FALSE,Texas A&M,54,Aggies,Texas A&M Aggies,Texas A&M
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320232132,2012,regular-season,2012-01-23,2,2132,home,FALSE,Cincinnati,53,Bearcats,Cincinnati Bearcats,Cincinnati
+320232132,2012,regular-season,2012-01-23,2,183,away,FALSE,Syracuse,60,Orange,Syracuse Orange,Syracuse
+320232305,2012,regular-season,2012-01-23,2,2305,home,FALSE,Kansas,64,Jayhawks,Kansas Jayhawks,Kansas
+320232305,2012,regular-season,2012-01-23,2,245,away,FALSE,Texas A&M,54,Aggies,Texas A&M Aggies,Texas A&M

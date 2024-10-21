@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-293410251,2009-12-07,2,251,home,FALSE,Texas,107,Longhorns,Texas Longhorns,Texas
-293410251,2009-12-07,2,299,away,FALSE,Long Beach State,74,Beach,Long Beach State Beach,Long Beach St
-293412643,2009-12-07,2,2643,home,FALSE,The Citadel,56,Bulldogs,The Citadel Bulldogs,The Citadel
-293412643,2009-12-07,2,127,away,FALSE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
-293410245,2009-12-07,2,245,home,FALSE,Texas A&M,75,Aggies,Texas A&M Aggies,Texas A&M
-293410245,2009-12-07,2,249,away,FALSE,North Texas,65,Mean Green,North Texas Mean Green,North Texas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+293410251,2010,regular-season,2009-12-07,2,251,home,FALSE,Texas,107,Longhorns,Texas Longhorns,Texas
+293410251,2010,regular-season,2009-12-07,2,299,away,FALSE,Long Beach State,74,Beach,Long Beach State Beach,Long Beach St
+293412643,2010,regular-season,2009-12-07,2,2643,home,FALSE,The Citadel,56,Bulldogs,The Citadel Bulldogs,The Citadel
+293412643,2010,regular-season,2009-12-07,2,127,away,FALSE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
+293410245,2010,regular-season,2009-12-07,2,245,home,FALSE,Texas A&M,75,Aggies,Texas A&M Aggies,Texas A&M
+293410245,2010,regular-season,2009-12-07,2,249,away,FALSE,North Texas,65,Mean Green,North Texas Mean Green,North Texas

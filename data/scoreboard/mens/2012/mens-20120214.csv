@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320450135,2012-02-14,2,135,home,FALSE,Minnesota,68,Golden Gophers,Minnesota Golden Gophers,Minnesota
-320450135,2012-02-14,2,194,away,FALSE,Ohio State,78,Buckeyes,Ohio State Buckeyes,Ohio State
-320452628,2012-02-14,3,2628,home,FALSE,TCU,102,Horned Frogs,TCU Horned Frogs,TCU
-320452628,2012-02-14,3,2439,away,FALSE,UNLV,97,Rebels,UNLV Rebels,UNLV
-320450333,2012-02-14,2,333,home,FALSE,Alabama,52,Crimson Tide,Alabama Crimson Tide,Alabama
-320450333,2012-02-14,2,57,away,FALSE,Florida,61,Gators,Florida Gators,Florida
-320450228,2012-02-14,2,228,home,FALSE,Clemson,60,Tigers,Clemson Tigers,Clemson
-320450228,2012-02-14,2,258,away,FALSE,Virginia,48,Cavaliers,Virginia Cavaliers,Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320450135,2012,regular-season,2012-02-14,2,135,home,FALSE,Minnesota,68,Golden Gophers,Minnesota Golden Gophers,Minnesota
+320450135,2012,regular-season,2012-02-14,2,194,away,FALSE,Ohio State,78,Buckeyes,Ohio State Buckeyes,Ohio State
+320452628,2012,regular-season,2012-02-14,3,2628,home,FALSE,TCU,102,Horned Frogs,TCU Horned Frogs,TCU
+320452628,2012,regular-season,2012-02-14,3,2439,away,FALSE,UNLV,97,Rebels,UNLV Rebels,UNLV
+320450333,2012,regular-season,2012-02-14,2,333,home,FALSE,Alabama,52,Crimson Tide,Alabama Crimson Tide,Alabama
+320450333,2012,regular-season,2012-02-14,2,57,away,FALSE,Florida,61,Gators,Florida Gators,Florida
+320450228,2012,regular-season,2012-02-14,2,228,home,FALSE,Clemson,60,Tigers,Clemson Tigers,Clemson
+320450228,2012,regular-season,2012-02-14,2,258,away,FALSE,Virginia,48,Cavaliers,Virginia Cavaliers,Virginia

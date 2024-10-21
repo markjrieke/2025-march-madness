@@ -1,47 +1,47 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401522112,2023-03-11,2,261,home,FALSE,Vermont,72,Catamounts,Vermont Catamounts,Vermont
-401522112,2023-03-11,2,2349,away,FALSE,UMass Lowell,59,River Hawks,UMass Lowell River Hawks,UMass Lowell
-401515350,2023-03-11,2,43,home,TRUE,Yale,80,Bulldogs,Yale Bulldogs,Yale
-401515350,2023-03-11,2,172,away,TRUE,Cornell,60,Big Red,Cornell Big Red,Cornell
-401519356,2023-03-11,2,333,home,TRUE,Alabama,72,Crimson Tide,Alabama Crimson Tide,Alabama
-401519356,2023-03-11,2,142,away,TRUE,Missouri,61,Tigers,Missouri Tigers,Missouri
-401514424,2023-03-11,2,2509,home,TRUE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
-401514424,2023-03-11,2,194,away,TRUE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
-401514317,2023-03-11,2,47,home,TRUE,Howard,65,Bison,Howard Bison,Howard
-401514317,2023-03-11,2,2450,away,TRUE,Norfolk State,64,Spartans,Norfolk State Spartans,Norfolk St
-401514232,2023-03-11,2,2670,home,TRUE,VCU,90,Rams,VCU Rams,VCU
-401514232,2023-03-11,2,139,away,TRUE,Saint Louis,78,Billikens,Saint Louis Billikens,Saint Louis
-401515351,2023-03-11,2,163,home,FALSE,Princeton,77,Tigers,Princeton Tigers,Princeton
-401515351,2023-03-11,2,219,away,FALSE,Pennsylvania,70,Quakers,Pennsylvania Quakers,Penn
-401515337,2023-03-11,2,248,home,TRUE,Houston,69,Cougars,Houston Cougars,Houston
-401515337,2023-03-11,2,2132,away,TRUE,Cincinnati,48,Bearcats,Cincinnati Bearcats,Cincinnati
-401514425,2023-03-11,2,84,home,TRUE,Indiana,73,Hoosiers,Indiana Hoosiers,Indiana
-401514425,2023-03-11,2,213,away,TRUE,Penn State,77,Nittany Lions,Penn State Nittany Lions,Penn State
-401514233,2023-03-11,2,2168,home,TRUE,Dayton,78,Flyers,Dayton Flyers,Dayton
-401514233,2023-03-11,2,2230,away,TRUE,Fordham,68,Rams,Fordham Rams,Fordham
-401519357,2023-03-11,2,245,home,TRUE,Texas A&M,87,Aggies,Texas A&M Aggies,Texas A&M
-401519357,2023-03-11,2,238,away,TRUE,Vanderbilt,75,Commodores,Vanderbilt Commodores,Vanderbilt
-401527436,2023-03-11,2,2755,home,TRUE,Grambling,58,Tigers,Grambling Tigers,Grambling
-401527436,2023-03-11,2,2640,away,TRUE,Texas Southern,61,Tigers,Texas Southern Tigers,Texas Southern
-401515338,2023-03-11,2,235,home,TRUE,Memphis,94,Tigers,Memphis Tigers,Memphis
-401515338,2023-03-11,2,2655,away,TRUE,Tulane,54,Green Wave,Tulane Green Wave,Tulane
-401514982,2023-03-11,2,21,home,TRUE,San Diego State,62,Aztecs,San Diego State Aztecs,San Diego St
-401514982,2023-03-11,2,328,away,TRUE,Utah State,57,Aggies,Utah State Aggies,Utah State
-401514243,2023-03-11,2,2305,home,TRUE,Kansas,56,Jayhawks,Kansas Jayhawks,Kansas
-401514243,2023-03-11,2,251,away,TRUE,Texas,76,Longhorns,Texas Longhorns,Texas
-401514253,2023-03-11,2,269,home,TRUE,Marquette,65,Golden Eagles,Marquette Golden Eagles,Marquette
-401514253,2023-03-11,2,2752,away,TRUE,Xavier,51,Musketeers,Xavier Musketeers,Xavier
-401514310,2023-03-11,2,2649,home,TRUE,Toledo,78,Rockets,Toledo Rockets,Toledo
-401514310,2023-03-11,2,2309,away,TRUE,Kent State,93,Golden Flashes,Kent State Golden Flashes,Kent State
-401514303,2023-03-11,2,314,home,TRUE,Iona,76,Gaels,Iona Gaels,Iona
-401514303,2023-03-11,2,2368,away,TRUE,Marist,55,Red Foxes,Marist Red Foxes,Marist
-401515349,2023-03-11,2,2226,home,TRUE,Florida Atlantic,78,Owls,Florida Atlantic Owls,FAU
-401515349,2023-03-11,2,5,away,TRUE,UAB,56,Blazers,UAB Blazers,UAB
-401514211,2023-03-11,2,258,home,TRUE,Virginia,49,Cavaliers,Virginia Cavaliers,Virginia
-401514211,2023-03-11,2,150,away,TRUE,Duke,59,Blue Devils,Duke Blue Devils,Duke
-401514271,2023-03-11,2,2540,home,TRUE,UC Santa Barbara,72,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-401514271,2023-03-11,2,2239,away,TRUE,Cal State Fullerton,62,Titans,Cal State Fullerton Titans,Fullerton
-401514413,2023-03-11,2,26,home,TRUE,UCLA,59,Bruins,UCLA Bruins,UCLA
-401514413,2023-03-11,2,12,away,TRUE,Arizona,61,Wildcats,Arizona Wildcats,Arizona
-401514393,2023-03-11,2,253,home,TRUE,Southern Utah,66,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
-401514393,2023-03-11,2,2253,away,TRUE,Grand Canyon,84,Lopes,Grand Canyon Lopes,Grand Canyon
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401522112,2023,regular-season,2023-03-11,2,261,home,FALSE,Vermont,72,Catamounts,Vermont Catamounts,Vermont
+401522112,2023,regular-season,2023-03-11,2,2349,away,FALSE,UMass Lowell,59,River Hawks,UMass Lowell River Hawks,UMass Lowell
+401515350,2023,regular-season,2023-03-11,2,43,home,TRUE,Yale,80,Bulldogs,Yale Bulldogs,Yale
+401515350,2023,regular-season,2023-03-11,2,172,away,TRUE,Cornell,60,Big Red,Cornell Big Red,Cornell
+401519356,2023,regular-season,2023-03-11,2,333,home,TRUE,Alabama,72,Crimson Tide,Alabama Crimson Tide,Alabama
+401519356,2023,regular-season,2023-03-11,2,142,away,TRUE,Missouri,61,Tigers,Missouri Tigers,Missouri
+401514424,2023,regular-season,2023-03-11,2,2509,home,TRUE,Purdue,80,Boilermakers,Purdue Boilermakers,Purdue
+401514424,2023,regular-season,2023-03-11,2,194,away,TRUE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
+401514317,2023,regular-season,2023-03-11,2,47,home,TRUE,Howard,65,Bison,Howard Bison,Howard
+401514317,2023,regular-season,2023-03-11,2,2450,away,TRUE,Norfolk State,64,Spartans,Norfolk State Spartans,Norfolk St
+401514232,2023,regular-season,2023-03-11,2,2670,home,TRUE,VCU,90,Rams,VCU Rams,VCU
+401514232,2023,regular-season,2023-03-11,2,139,away,TRUE,Saint Louis,78,Billikens,Saint Louis Billikens,Saint Louis
+401515351,2023,regular-season,2023-03-11,2,163,home,FALSE,Princeton,77,Tigers,Princeton Tigers,Princeton
+401515351,2023,regular-season,2023-03-11,2,219,away,FALSE,Pennsylvania,70,Quakers,Pennsylvania Quakers,Penn
+401515337,2023,regular-season,2023-03-11,2,248,home,TRUE,Houston,69,Cougars,Houston Cougars,Houston
+401515337,2023,regular-season,2023-03-11,2,2132,away,TRUE,Cincinnati,48,Bearcats,Cincinnati Bearcats,Cincinnati
+401514425,2023,regular-season,2023-03-11,2,84,home,TRUE,Indiana,73,Hoosiers,Indiana Hoosiers,Indiana
+401514425,2023,regular-season,2023-03-11,2,213,away,TRUE,Penn State,77,Nittany Lions,Penn State Nittany Lions,Penn State
+401514233,2023,regular-season,2023-03-11,2,2168,home,TRUE,Dayton,78,Flyers,Dayton Flyers,Dayton
+401514233,2023,regular-season,2023-03-11,2,2230,away,TRUE,Fordham,68,Rams,Fordham Rams,Fordham
+401519357,2023,regular-season,2023-03-11,2,245,home,TRUE,Texas A&M,87,Aggies,Texas A&M Aggies,Texas A&M
+401519357,2023,regular-season,2023-03-11,2,238,away,TRUE,Vanderbilt,75,Commodores,Vanderbilt Commodores,Vanderbilt
+401527436,2023,regular-season,2023-03-11,2,2755,home,TRUE,Grambling,58,Tigers,Grambling Tigers,Grambling
+401527436,2023,regular-season,2023-03-11,2,2640,away,TRUE,Texas Southern,61,Tigers,Texas Southern Tigers,Texas Southern
+401515338,2023,regular-season,2023-03-11,2,235,home,TRUE,Memphis,94,Tigers,Memphis Tigers,Memphis
+401515338,2023,regular-season,2023-03-11,2,2655,away,TRUE,Tulane,54,Green Wave,Tulane Green Wave,Tulane
+401514982,2023,regular-season,2023-03-11,2,21,home,TRUE,San Diego State,62,Aztecs,San Diego State Aztecs,San Diego St
+401514982,2023,regular-season,2023-03-11,2,328,away,TRUE,Utah State,57,Aggies,Utah State Aggies,Utah State
+401514243,2023,regular-season,2023-03-11,2,2305,home,TRUE,Kansas,56,Jayhawks,Kansas Jayhawks,Kansas
+401514243,2023,regular-season,2023-03-11,2,251,away,TRUE,Texas,76,Longhorns,Texas Longhorns,Texas
+401514253,2023,regular-season,2023-03-11,2,269,home,TRUE,Marquette,65,Golden Eagles,Marquette Golden Eagles,Marquette
+401514253,2023,regular-season,2023-03-11,2,2752,away,TRUE,Xavier,51,Musketeers,Xavier Musketeers,Xavier
+401514310,2023,regular-season,2023-03-11,2,2649,home,TRUE,Toledo,78,Rockets,Toledo Rockets,Toledo
+401514310,2023,regular-season,2023-03-11,2,2309,away,TRUE,Kent State,93,Golden Flashes,Kent State Golden Flashes,Kent State
+401514303,2023,regular-season,2023-03-11,2,314,home,TRUE,Iona,76,Gaels,Iona Gaels,Iona
+401514303,2023,regular-season,2023-03-11,2,2368,away,TRUE,Marist,55,Red Foxes,Marist Red Foxes,Marist
+401515349,2023,regular-season,2023-03-11,2,2226,home,TRUE,Florida Atlantic,78,Owls,Florida Atlantic Owls,FAU
+401515349,2023,regular-season,2023-03-11,2,5,away,TRUE,UAB,56,Blazers,UAB Blazers,UAB
+401514211,2023,regular-season,2023-03-11,2,258,home,TRUE,Virginia,49,Cavaliers,Virginia Cavaliers,Virginia
+401514211,2023,regular-season,2023-03-11,2,150,away,TRUE,Duke,59,Blue Devils,Duke Blue Devils,Duke
+401514271,2023,regular-season,2023-03-11,2,2540,home,TRUE,UC Santa Barbara,72,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+401514271,2023,regular-season,2023-03-11,2,2239,away,TRUE,Cal State Fullerton,62,Titans,Cal State Fullerton Titans,Fullerton
+401514413,2023,regular-season,2023-03-11,2,26,home,TRUE,UCLA,59,Bruins,UCLA Bruins,UCLA
+401514413,2023,regular-season,2023-03-11,2,12,away,TRUE,Arizona,61,Wildcats,Arizona Wildcats,Arizona
+401514393,2023,regular-season,2023-03-11,2,253,home,TRUE,Southern Utah,66,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+401514393,2023,regular-season,2023-03-11,2,2253,away,TRUE,Grand Canyon,84,Lopes,Grand Canyon Lopes,Grand Canyon

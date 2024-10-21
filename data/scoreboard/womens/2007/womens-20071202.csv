@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273362633,2007-12-02,2,2633,home,FALSE,Tennessee,83,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-273362633,2007-12-02,2,153,away,FALSE,North Carolina,79,Tar Heels,North Carolina Tar Heels,North Carolina
-273360024,2007-12-02,2,24,home,FALSE,Stanford,62,Cardinal,Stanford Cardinal,Stanford
-273360024,2007-12-02,2,302,away,FALSE,UC Davis,41,Aggies,UC Davis Aggies,UC Davis
-273360061,2007-12-02,2,61,home,FALSE,Georgia,71,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-273360061,2007-12-02,2,59,away,FALSE,Georgia Tech,64,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-273362655,2007-12-02,2,2655,home,FALSE,Tulane,36,Green Wave,Tulane Green Wave,Tulane
-273362655,2007-12-02,2,99,away,FALSE,LSU,52,Tigers,LSU Tigers,LSU
-273360201,2007-12-02,2,201,home,FALSE,Oklahoma,93,Sooners,Oklahoma Sooners,Oklahoma
-273360201,2007-12-02,2,2032,away,FALSE,Arkansas State,36,Red Wolves,Arkansas State Red Wolves,Arkansas St
-273360025,2007-12-02,2,25,home,FALSE,California,67,Golden Bears,California Golden Bears,California
-273360025,2007-12-02,2,238,away,FALSE,Vanderbilt,59,Commodores,Vanderbilt Commodores,Vanderbilt
-273362628,2007-12-02,2,2628,home,FALSE,TCU,58,Horned Frogs,TCU Horned Frogs,TCU
-273362628,2007-12-02,2,245,away,FALSE,Texas A&M,68,Aggies,Texas A&M Aggies,Texas A&M
-273360171,2007-12-02,2,171,home,FALSE,Columbia,41,Lions,Columbia Lions,Columbia
-273360171,2007-12-02,2,277,away,FALSE,West Virginia,74,Mountaineers,West Virginia Mountaineers,West Virginia
-273360009,2007-12-02,2,9,home,FALSE,Arizona State,69,Sun Devils,Arizona State Sun Devils,Arizona St
-273360009,2007-12-02,2,2,away,FALSE,Auburn,75,Tigers,Auburn Tigers,Auburn
-273360305,2007-12-02,2,305,home,FALSE,DePaul,80,Blue Demons,DePaul Blue Demons,DePaul
-273360305,2007-12-02,2,2623,away,FALSE,Missouri State,48,Lady Bears,Missouri State Lady Bears,Missouri St
-273360087,2007-12-02,2,87,home,FALSE,Notre Dame,77,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-273360087,2007-12-02,2,130,away,FALSE,Michigan,46,Wolverines,Michigan Wolverines,Michigan
-273360213,2007-12-02,2,213,home,FALSE,Penn State,86,Lady Lions,Penn State Lady Lions,Penn State
-273360213,2007-12-02,2,150,away,FALSE,Duke,84,Blue Devils,Duke Blue Devils,Duke
-273360194,2007-12-02,2,194,home,FALSE,Ohio State,69,Buckeyes,Ohio State Buckeyes,Ohio State
-273360194,2007-12-02,2,145,away,FALSE,Ole Miss,55,Rebels,Ole Miss Rebels,Ole Miss
-273360251,2007-12-02,2,251,home,FALSE,Texas,91,Longhorns,Texas Longhorns,Texas
-273360251,2007-12-02,2,2534,away,FALSE,Sam Houston,41,Bearkats,Sam Houston Bearkats,Sam Houston
-273360295,2007-12-02,2,295,home,FALSE,Old Dominion,79,Monarchs,Old Dominion Monarchs,Old Dominion
-273360295,2007-12-02,2,127,away,FALSE,Michigan State,73,Spartans,Michigan State Spartans,Michigan St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273362633,2008,regular-season,2007-12-02,2,2633,home,FALSE,Tennessee,83,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+273362633,2008,regular-season,2007-12-02,2,153,away,FALSE,North Carolina,79,Tar Heels,North Carolina Tar Heels,North Carolina
+273360024,2008,regular-season,2007-12-02,2,24,home,FALSE,Stanford,62,Cardinal,Stanford Cardinal,Stanford
+273360024,2008,regular-season,2007-12-02,2,302,away,FALSE,UC Davis,41,Aggies,UC Davis Aggies,UC Davis
+273360061,2008,regular-season,2007-12-02,2,61,home,FALSE,Georgia,71,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+273360061,2008,regular-season,2007-12-02,2,59,away,FALSE,Georgia Tech,64,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+273362655,2008,regular-season,2007-12-02,2,2655,home,FALSE,Tulane,36,Green Wave,Tulane Green Wave,Tulane
+273362655,2008,regular-season,2007-12-02,2,99,away,FALSE,LSU,52,Tigers,LSU Tigers,LSU
+273360201,2008,regular-season,2007-12-02,2,201,home,FALSE,Oklahoma,93,Sooners,Oklahoma Sooners,Oklahoma
+273360201,2008,regular-season,2007-12-02,2,2032,away,FALSE,Arkansas State,36,Red Wolves,Arkansas State Red Wolves,Arkansas St
+273360025,2008,regular-season,2007-12-02,2,25,home,FALSE,California,67,Golden Bears,California Golden Bears,California
+273360025,2008,regular-season,2007-12-02,2,238,away,FALSE,Vanderbilt,59,Commodores,Vanderbilt Commodores,Vanderbilt
+273362628,2008,regular-season,2007-12-02,2,2628,home,FALSE,TCU,58,Horned Frogs,TCU Horned Frogs,TCU
+273362628,2008,regular-season,2007-12-02,2,245,away,FALSE,Texas A&M,68,Aggies,Texas A&M Aggies,Texas A&M
+273360171,2008,regular-season,2007-12-02,2,171,home,FALSE,Columbia,41,Lions,Columbia Lions,Columbia
+273360171,2008,regular-season,2007-12-02,2,277,away,FALSE,West Virginia,74,Mountaineers,West Virginia Mountaineers,West Virginia
+273360009,2008,regular-season,2007-12-02,2,9,home,FALSE,Arizona State,69,Sun Devils,Arizona State Sun Devils,Arizona St
+273360009,2008,regular-season,2007-12-02,2,2,away,FALSE,Auburn,75,Tigers,Auburn Tigers,Auburn
+273360305,2008,regular-season,2007-12-02,2,305,home,FALSE,DePaul,80,Blue Demons,DePaul Blue Demons,DePaul
+273360305,2008,regular-season,2007-12-02,2,2623,away,FALSE,Missouri State,48,Lady Bears,Missouri State Lady Bears,Missouri St
+273360087,2008,regular-season,2007-12-02,2,87,home,FALSE,Notre Dame,77,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+273360087,2008,regular-season,2007-12-02,2,130,away,FALSE,Michigan,46,Wolverines,Michigan Wolverines,Michigan
+273360213,2008,regular-season,2007-12-02,2,213,home,FALSE,Penn State,86,Lady Lions,Penn State Lady Lions,Penn State
+273360213,2008,regular-season,2007-12-02,2,150,away,FALSE,Duke,84,Blue Devils,Duke Blue Devils,Duke
+273360194,2008,regular-season,2007-12-02,2,194,home,FALSE,Ohio State,69,Buckeyes,Ohio State Buckeyes,Ohio State
+273360194,2008,regular-season,2007-12-02,2,145,away,FALSE,Ole Miss,55,Rebels,Ole Miss Rebels,Ole Miss
+273360251,2008,regular-season,2007-12-02,2,251,home,FALSE,Texas,91,Longhorns,Texas Longhorns,Texas
+273360251,2008,regular-season,2007-12-02,2,2534,away,FALSE,Sam Houston,41,Bearkats,Sam Houston Bearkats,Sam Houston
+273360295,2008,regular-season,2007-12-02,2,295,home,FALSE,Old Dominion,79,Monarchs,Old Dominion Monarchs,Old Dominion
+273360295,2008,regular-season,2007-12-02,2,127,away,FALSE,Michigan State,73,Spartans,Michigan State Spartans,Michigan St

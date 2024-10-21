@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253480152,2005-12-14,2,152,home,FALSE,NC State,86,Wolfpack,NC State Wolfpack,NC State
-253480152,2005-12-14,2,2427,away,FALSE,UNC Asheville,56,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253480152,2006,regular-season,2005-12-14,2,152,home,FALSE,NC State,86,Wolfpack,NC State Wolfpack,NC State
+253480152,2006,regular-season,2005-12-14,2,2427,away,FALSE,UNC Asheville,56,Bulldogs,UNC Asheville Bulldogs,UNC Asheville

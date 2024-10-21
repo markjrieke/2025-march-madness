@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273520167,2007-12-18,2,167,home,FALSE,New Mexico,54,Lobos,New Mexico Lobos,New Mexico
-273520167,2007-12-18,2,24,away,FALSE,Stanford,73,Cardinal,Stanford Cardinal,Stanford
-273520099,2007-12-18,2,99,home,FALSE,LSU,86,Tigers,LSU Tigers,LSU
-273520099,2007-12-18,2,82,away,FALSE,UIC,44,Flames,UIC Flames,UIC
-273520150,2007-12-18,2,150,home,FALSE,Duke,95,Blue Devils,Duke Blue Devils,Duke
-273520150,2007-12-18,2,3084,away,FALSE,Utah Valley,61,Wolverines,Utah Valley Wolverines,Utah Valley
-273522628,2007-12-18,2,2628,home,FALSE,TCU,97,Horned Frogs,TCU Horned Frogs,TCU
-273522628,2007-12-18,2,197,away,FALSE,Oklahoma State,63,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273520167,2008,regular-season,2007-12-18,2,167,home,FALSE,New Mexico,54,Lobos,New Mexico Lobos,New Mexico
+273520167,2008,regular-season,2007-12-18,2,24,away,FALSE,Stanford,73,Cardinal,Stanford Cardinal,Stanford
+273520099,2008,regular-season,2007-12-18,2,99,home,FALSE,LSU,86,Tigers,LSU Tigers,LSU
+273520099,2008,regular-season,2007-12-18,2,82,away,FALSE,UIC,44,Flames,UIC Flames,UIC
+273520150,2008,regular-season,2007-12-18,2,150,home,FALSE,Duke,95,Blue Devils,Duke Blue Devils,Duke
+273520150,2008,regular-season,2007-12-18,2,3084,away,FALSE,Utah Valley,61,Wolverines,Utah Valley Wolverines,Utah Valley
+273522628,2008,regular-season,2007-12-18,2,2628,home,FALSE,TCU,97,Horned Frogs,TCU Horned Frogs,TCU
+273522628,2008,regular-season,2007-12-18,2,197,away,FALSE,Oklahoma State,63,Cowgirls,Oklahoma State Cowgirls,Oklahoma St

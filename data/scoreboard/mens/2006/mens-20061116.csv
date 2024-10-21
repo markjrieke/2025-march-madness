@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263200057,2006-11-16,2,57,home,FALSE,Florida,90,Gators,Florida Gators,Florida
-263200057,2006-11-16,2,294,away,FALSE,Jacksonville,61,Dolphins,Jacksonville Dolphins,Jacksonville
-263200150,2006-11-16,2,150,home,FALSE,Duke,75,Blue Devils,Duke Blue Devils,Duke
-263200150,2006-11-16,2,2430,away,FALSE,UNC Greensboro,48,Spartans,UNC Greensboro Spartans,UNC Greensboro
-263200235,2006-11-16,2,235,home,FALSE,Memphis,111,Tigers,Memphis Tigers,Memphis
-263200235,2006-11-16,2,2296,away,FALSE,Jackson State,69,Tigers,Jackson State Tigers,Jackson St
-263200127,2006-11-16,2,127,home,FALSE,Michigan State,63,Spartans,Michigan State Spartans,Michigan St
-263200127,2006-11-16,2,251,away,FALSE,Texas,61,Longhorns,Texas Longhorns,Texas
-263200059,2006-11-16,2,59,home,FALSE,Georgia Tech,103,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-263200059,2006-11-16,2,2247,away,FALSE,Georgia State,74,Panthers,Georgia State Panthers,Georgia St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263200057,2007,regular-season,2006-11-16,2,57,home,FALSE,Florida,90,Gators,Florida Gators,Florida
+263200057,2007,regular-season,2006-11-16,2,294,away,FALSE,Jacksonville,61,Dolphins,Jacksonville Dolphins,Jacksonville
+263200150,2007,regular-season,2006-11-16,2,150,home,FALSE,Duke,75,Blue Devils,Duke Blue Devils,Duke
+263200150,2007,regular-season,2006-11-16,2,2430,away,FALSE,UNC Greensboro,48,Spartans,UNC Greensboro Spartans,UNC Greensboro
+263200235,2007,regular-season,2006-11-16,2,235,home,FALSE,Memphis,111,Tigers,Memphis Tigers,Memphis
+263200235,2007,regular-season,2006-11-16,2,2296,away,FALSE,Jackson State,69,Tigers,Jackson State Tigers,Jackson St
+263200127,2007,regular-season,2006-11-16,2,127,home,FALSE,Michigan State,63,Spartans,Michigan State Spartans,Michigan St
+263200127,2007,regular-season,2006-11-16,2,251,away,FALSE,Texas,61,Longhorns,Texas Longhorns,Texas
+263200059,2007,regular-season,2006-11-16,2,59,home,FALSE,Georgia Tech,103,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+263200059,2007,regular-season,2006-11-16,2,2247,away,FALSE,Georgia State,74,Panthers,Georgia State Panthers,Georgia St

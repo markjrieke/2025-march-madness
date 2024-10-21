@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400912055,2016-12-14,4,97,home,FALSE,Louisville,83,Cardinals,Louisville Cardinals,Louisville
-400912055,2016-12-14,4,2571,away,FALSE,South Dakota State,30,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-400911496,2016-12-14,4,2540,home,FALSE,UC Santa Barbara,52,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-400911496,2016-12-14,4,26,away,FALSE,UCLA,71,Bruins,UCLA Bruins,UCLA
-400911704,2016-12-14,4,58,home,FALSE,South Florida,129,Bulls,South Florida Bulls,South Florida
-400911704,2016-12-14,4,2598,away,FALSE,St. Francis (PA),80,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-400912553,2016-12-14,4,145,home,FALSE,Ole Miss,83,Rebels,Ole Miss Rebels,Ole Miss
-400912553,2016-12-14,4,2483,away,FALSE,Oregon,67,Ducks,Oregon Ducks,Oregon
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400912055,2017,regular-season,2016-12-14,4,97,home,FALSE,Louisville,83,Cardinals,Louisville Cardinals,Louisville
+400912055,2017,regular-season,2016-12-14,4,2571,away,FALSE,South Dakota State,30,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+400911496,2017,regular-season,2016-12-14,4,2540,home,FALSE,UC Santa Barbara,52,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+400911496,2017,regular-season,2016-12-14,4,26,away,FALSE,UCLA,71,Bruins,UCLA Bruins,UCLA
+400911704,2017,regular-season,2016-12-14,4,58,home,FALSE,South Florida,129,Bulls,South Florida Bulls,South Florida
+400911704,2017,regular-season,2016-12-14,4,2598,away,FALSE,St. Francis (PA),80,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+400912553,2017,regular-season,2016-12-14,4,145,home,FALSE,Ole Miss,83,Rebels,Ole Miss Rebels,Ole Miss
+400912553,2017,regular-season,2016-12-14,4,2483,away,FALSE,Oregon,67,Ducks,Oregon Ducks,Oregon

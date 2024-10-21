@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330030152,2013-01-03,2,152,home,FALSE,NC State,57,Wolfpack,NC State Wolfpack,NC State
-330030152,2013-01-03,2,150,away,FALSE,Duke,67,Blue Devils,Duke Blue Devils,Duke
-330030096,2013-01-03,2,96,home,FALSE,Kentucky,76,Wildcats,Kentucky Wildcats,Kentucky
-330030096,2013-01-03,2,57,away,FALSE,Florida,69,Gators,Florida Gators,Florida
-330030153,2013-01-03,2,153,home,FALSE,North Carolina,60,Tar Heels,North Carolina Tar Heels,North Carolina
-330030153,2013-01-03,2,120,away,FALSE,Maryland,57,Terrapins,Maryland Terrapins,Maryland
-330030213,2013-01-03,2,213,home,FALSE,Penn State,73,Lady Lions,Penn State Lady Lions,Penn State
-330030213,2013-01-03,2,77,away,FALSE,Northwestern,69,Wildcats,Northwestern Wildcats,Northwestern
-330030061,2013-01-03,2,61,home,FALSE,Georgia,77,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-330030061,2013-01-03,2,142,away,FALSE,Missouri,46,Tigers,Missouri Tigers,Missouri
-330032579,2013-01-03,2,2579,home,FALSE,South Carolina,53,Gamecocks,South Carolina Gamecocks,South Carolina
-330032579,2013-01-03,2,2633,away,FALSE,Tennessee,73,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-330030059,2013-01-03,2,59,home,FALSE,Georgia Tech,78,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-330030059,2013-01-03,2,52,away,FALSE,Florida State,85,Seminoles,Florida State Seminoles,Florida St
-330030002,2013-01-03,2,2,home,FALSE,Auburn,50,Tigers,Auburn Tigers,Auburn
-330030002,2013-01-03,2,8,away,FALSE,Arkansas,47,Razorbacks,Arkansas Razorbacks,Arkansas
-330030245,2013-01-03,2,245,home,FALSE,Texas A&M,91,Aggies,Texas A&M Aggies,Texas A&M
-330030245,2013-01-03,2,333,away,FALSE,Alabama,52,Crimson Tide,Alabama Crimson Tide,Alabama
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330030152,2013,regular-season,2013-01-03,2,152,home,FALSE,NC State,57,Wolfpack,NC State Wolfpack,NC State
+330030152,2013,regular-season,2013-01-03,2,150,away,FALSE,Duke,67,Blue Devils,Duke Blue Devils,Duke
+330030096,2013,regular-season,2013-01-03,2,96,home,FALSE,Kentucky,76,Wildcats,Kentucky Wildcats,Kentucky
+330030096,2013,regular-season,2013-01-03,2,57,away,FALSE,Florida,69,Gators,Florida Gators,Florida
+330030153,2013,regular-season,2013-01-03,2,153,home,FALSE,North Carolina,60,Tar Heels,North Carolina Tar Heels,North Carolina
+330030153,2013,regular-season,2013-01-03,2,120,away,FALSE,Maryland,57,Terrapins,Maryland Terrapins,Maryland
+330030213,2013,regular-season,2013-01-03,2,213,home,FALSE,Penn State,73,Lady Lions,Penn State Lady Lions,Penn State
+330030213,2013,regular-season,2013-01-03,2,77,away,FALSE,Northwestern,69,Wildcats,Northwestern Wildcats,Northwestern
+330030061,2013,regular-season,2013-01-03,2,61,home,FALSE,Georgia,77,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+330030061,2013,regular-season,2013-01-03,2,142,away,FALSE,Missouri,46,Tigers,Missouri Tigers,Missouri
+330032579,2013,regular-season,2013-01-03,2,2579,home,FALSE,South Carolina,53,Gamecocks,South Carolina Gamecocks,South Carolina
+330032579,2013,regular-season,2013-01-03,2,2633,away,FALSE,Tennessee,73,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+330030059,2013,regular-season,2013-01-03,2,59,home,FALSE,Georgia Tech,78,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+330030059,2013,regular-season,2013-01-03,2,52,away,FALSE,Florida State,85,Seminoles,Florida State Seminoles,Florida St
+330030002,2013,regular-season,2013-01-03,2,2,home,FALSE,Auburn,50,Tigers,Auburn Tigers,Auburn
+330030002,2013,regular-season,2013-01-03,2,8,away,FALSE,Arkansas,47,Razorbacks,Arkansas Razorbacks,Arkansas
+330030245,2013,regular-season,2013-01-03,2,245,home,FALSE,Texas A&M,91,Aggies,Texas A&M Aggies,Texas A&M
+330030245,2013,regular-season,2013-01-03,2,333,away,FALSE,Alabama,52,Crimson Tide,Alabama Crimson Tide,Alabama

@@ -1,35 +1,35 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310700194,2011-03-11,3,194,home,TRUE,Ohio State,67,Buckeyes,Ohio State Buckeyes,Ohio State
-310700194,2011-03-11,3,77,away,TRUE,Northwestern,61,Wildcats,Northwestern Wildcats,Northwestern
-310702305,2011-03-11,2,2305,home,TRUE,Kansas,90,Jayhawks,Kansas Jayhawks,Kansas
-310702305,2011-03-11,2,38,away,TRUE,Colorado,83,Buffaloes,Colorado Buffaloes,Colorado
-310700087,2011-03-11,3,87,home,TRUE,Notre Dame,77,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-310700087,2011-03-11,3,97,away,TRUE,Louisville,83,Cardinals,Louisville Cardinals,Louisville
-310700150,2011-03-11,2,150,home,TRUE,Duke,87,Blue Devils,Duke Blue Devils,Duke
-310700150,2011-03-11,2,120,away,TRUE,Maryland,71,Terrapins,Maryland Terrapins,Maryland
-310700153,2011-03-11,2,153,home,TRUE,North Carolina,61,Tar Heels,North Carolina Tar Heels,North Carolina
-310700153,2011-03-11,2,2390,away,TRUE,Miami,59,Hurricanes,Miami Hurricanes,Miami
-310700021,2011-03-11,2,21,home,TRUE,San Diego State,74,Aztecs,San Diego State Aztecs,San Diego St
-310700021,2011-03-11,2,2439,away,TRUE,UNLV,72,Rebels,UNLV Rebels,UNLV
-310700252,2011-03-11,2,252,home,TRUE,BYU,87,Cougars,BYU Cougars,BYU
-310700252,2011-03-11,2,167,away,TRUE,New Mexico,76,Lobos,New Mexico Lobos,New Mexico
-310702509,2011-03-11,2,2509,home,TRUE,Purdue,56,Boilermakers,Purdue Boilermakers,Purdue
-310702509,2011-03-11,2,127,away,TRUE,Michigan State,74,Spartans,Michigan State Spartans,Michigan St
-310700251,2011-03-11,2,251,home,TRUE,Texas,70,Longhorns,Texas Longhorns,Texas
-310700251,2011-03-11,2,245,away,TRUE,Texas A&M,58,Aggies,Texas A&M Aggies,Texas A&M
-310700183,2011-03-11,3,183,home,TRUE,Syracuse,71,Orange,Syracuse Orange,Syracuse
-310700183,2011-03-11,3,41,away,TRUE,UConn,76,Huskies,UConn Huskies,UConn
-310700057,2011-03-11,2,57,home,TRUE,Florida,85,Gators,Florida Gators,Florida
-310700057,2011-03-11,2,2633,away,TRUE,Tennessee,74,Volunteers,Tennessee Volunteers,Tennessee
-310700275,2011-03-11,2,275,home,TRUE,Wisconsin,33,Badgers,Wisconsin Badgers,Wisconsin
-310700275,2011-03-11,2,213,away,TRUE,Penn State,36,Nittany Lions,Penn State Nittany Lions,Penn State
-310700096,2011-03-11,2,96,home,TRUE,Kentucky,75,Wildcats,Kentucky Wildcats,Kentucky
-310700096,2011-03-11,2,145,away,TRUE,Ole Miss,66,Rebels,Ole Miss Rebels,Ole Miss
-310700012,2011-03-11,2,12,home,TRUE,Arizona,67,Wildcats,Arizona Wildcats,Arizona
-310700012,2011-03-11,2,30,away,TRUE,USC,62,Trojans,USC Trojans,USC
-310702752,2011-03-11,2,2752,home,TRUE,Xavier,67,Musketeers,Xavier Musketeers,Xavier
-310702752,2011-03-11,2,2168,away,TRUE,Dayton,68,Flyers,Dayton Flyers,Dayton
-310700328,2011-03-11,2,328,home,TRUE,Utah State,58,Aggies,Utah State Aggies,Utah State
-310700328,2011-03-11,2,23,away,TRUE,San José State,54,Spartans,San José State Spartans,San José St
-310700218,2011-03-11,2,218,home,TRUE,Temple,96,Owls,Temple Owls,Temple
-310700218,2011-03-11,2,2325,away,TRUE,La Salle,76,Explorers,La Salle Explorers,La Salle
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310700194,2011,regular-season,2011-03-11,3,194,home,TRUE,Ohio State,67,Buckeyes,Ohio State Buckeyes,Ohio State
+310700194,2011,regular-season,2011-03-11,3,77,away,TRUE,Northwestern,61,Wildcats,Northwestern Wildcats,Northwestern
+310702305,2011,regular-season,2011-03-11,2,2305,home,TRUE,Kansas,90,Jayhawks,Kansas Jayhawks,Kansas
+310702305,2011,regular-season,2011-03-11,2,38,away,TRUE,Colorado,83,Buffaloes,Colorado Buffaloes,Colorado
+310700087,2011,regular-season,2011-03-11,3,87,home,TRUE,Notre Dame,77,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+310700087,2011,regular-season,2011-03-11,3,97,away,TRUE,Louisville,83,Cardinals,Louisville Cardinals,Louisville
+310700150,2011,regular-season,2011-03-11,2,150,home,TRUE,Duke,87,Blue Devils,Duke Blue Devils,Duke
+310700150,2011,regular-season,2011-03-11,2,120,away,TRUE,Maryland,71,Terrapins,Maryland Terrapins,Maryland
+310700153,2011,regular-season,2011-03-11,2,153,home,TRUE,North Carolina,61,Tar Heels,North Carolina Tar Heels,North Carolina
+310700153,2011,regular-season,2011-03-11,2,2390,away,TRUE,Miami,59,Hurricanes,Miami Hurricanes,Miami
+310700021,2011,regular-season,2011-03-11,2,21,home,TRUE,San Diego State,74,Aztecs,San Diego State Aztecs,San Diego St
+310700021,2011,regular-season,2011-03-11,2,2439,away,TRUE,UNLV,72,Rebels,UNLV Rebels,UNLV
+310700252,2011,regular-season,2011-03-11,2,252,home,TRUE,BYU,87,Cougars,BYU Cougars,BYU
+310700252,2011,regular-season,2011-03-11,2,167,away,TRUE,New Mexico,76,Lobos,New Mexico Lobos,New Mexico
+310702509,2011,regular-season,2011-03-11,2,2509,home,TRUE,Purdue,56,Boilermakers,Purdue Boilermakers,Purdue
+310702509,2011,regular-season,2011-03-11,2,127,away,TRUE,Michigan State,74,Spartans,Michigan State Spartans,Michigan St
+310700251,2011,regular-season,2011-03-11,2,251,home,TRUE,Texas,70,Longhorns,Texas Longhorns,Texas
+310700251,2011,regular-season,2011-03-11,2,245,away,TRUE,Texas A&M,58,Aggies,Texas A&M Aggies,Texas A&M
+310700183,2011,regular-season,2011-03-11,3,183,home,TRUE,Syracuse,71,Orange,Syracuse Orange,Syracuse
+310700183,2011,regular-season,2011-03-11,3,41,away,TRUE,UConn,76,Huskies,UConn Huskies,UConn
+310700057,2011,regular-season,2011-03-11,2,57,home,TRUE,Florida,85,Gators,Florida Gators,Florida
+310700057,2011,regular-season,2011-03-11,2,2633,away,TRUE,Tennessee,74,Volunteers,Tennessee Volunteers,Tennessee
+310700275,2011,regular-season,2011-03-11,2,275,home,TRUE,Wisconsin,33,Badgers,Wisconsin Badgers,Wisconsin
+310700275,2011,regular-season,2011-03-11,2,213,away,TRUE,Penn State,36,Nittany Lions,Penn State Nittany Lions,Penn State
+310700096,2011,regular-season,2011-03-11,2,96,home,TRUE,Kentucky,75,Wildcats,Kentucky Wildcats,Kentucky
+310700096,2011,regular-season,2011-03-11,2,145,away,TRUE,Ole Miss,66,Rebels,Ole Miss Rebels,Ole Miss
+310700012,2011,regular-season,2011-03-11,2,12,home,TRUE,Arizona,67,Wildcats,Arizona Wildcats,Arizona
+310700012,2011,regular-season,2011-03-11,2,30,away,TRUE,USC,62,Trojans,USC Trojans,USC
+310702752,2011,regular-season,2011-03-11,2,2752,home,TRUE,Xavier,67,Musketeers,Xavier Musketeers,Xavier
+310702752,2011,regular-season,2011-03-11,2,2168,away,TRUE,Dayton,68,Flyers,Dayton Flyers,Dayton
+310700328,2011,regular-season,2011-03-11,2,328,home,TRUE,Utah State,58,Aggies,Utah State Aggies,Utah State
+310700328,2011,regular-season,2011-03-11,2,23,away,TRUE,San José State,54,Spartans,San José State Spartans,San José St
+310700218,2011,regular-season,2011-03-11,2,218,home,TRUE,Temple,96,Owls,Temple Owls,Temple
+310700218,2011,regular-season,2011-03-11,2,2325,away,TRUE,La Salle,76,Explorers,La Salle Explorers,La Salle

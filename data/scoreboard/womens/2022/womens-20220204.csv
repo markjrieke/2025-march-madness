@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401382153,2022-02-04,4,12,home,FALSE,Arizona,63,Wildcats,Arizona Wildcats,Arizona
-401382153,2022-02-04,4,2483,away,FALSE,Oregon,48,Ducks,Oregon Ducks,Oregon
-401404214,2022-02-04,4,239,home,FALSE,Baylor,75,Bears,Baylor Bears,Baylor
-401404214,2022-02-04,4,251,away,FALSE,Texas,63,Longhorns,Texas Longhorns,Texas
-401378390,2022-02-04,0,41,home,FALSE,UConn,0,Huskies,UConn Huskies,UConn
-401378390,2022-02-04,0,2086,away,FALSE,Butler,0,Bulldogs,Butler Bulldogs,Butler
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401382153,2022,regular-season,2022-02-04,4,12,home,FALSE,Arizona,63,Wildcats,Arizona Wildcats,Arizona
+401382153,2022,regular-season,2022-02-04,4,2483,away,FALSE,Oregon,48,Ducks,Oregon Ducks,Oregon
+401404214,2022,regular-season,2022-02-04,4,239,home,FALSE,Baylor,75,Bears,Baylor Bears,Baylor
+401404214,2022,regular-season,2022-02-04,4,251,away,FALSE,Texas,63,Longhorns,Texas Longhorns,Texas
+401378390,2022,regular-season,2022-02-04,0,41,home,FALSE,UConn,0,Huskies,UConn Huskies,UConn
+401378390,2022,regular-season,2022-02-04,0,2086,away,FALSE,Butler,0,Bulldogs,Butler Bulldogs,Butler

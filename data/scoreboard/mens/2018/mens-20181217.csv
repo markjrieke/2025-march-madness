@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401082701,2018-12-17,2,52,home,FALSE,Florida State,85,Seminoles,Florida State Seminoles,Florida St
-401082701,2018-12-17,2,2546,away,FALSE,Southeast Missouri State,68,Redhawks,Southeast Missouri State Redhawks,SE Missouri
-401082925,2018-12-17,2,238,home,FALSE,Vanderbilt,81,Commodores,Vanderbilt Commodores,Vanderbilt
-401082925,2018-12-17,2,9,away,FALSE,Arizona State,65,Sun Devils,Arizona State Sun Devils,Arizona St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401082701,2019,regular-season,2018-12-17,2,52,home,FALSE,Florida State,85,Seminoles,Florida State Seminoles,Florida St
+401082701,2019,regular-season,2018-12-17,2,2546,away,FALSE,Southeast Missouri State,68,Redhawks,Southeast Missouri State Redhawks,SE Missouri
+401082925,2019,regular-season,2018-12-17,2,238,home,FALSE,Vanderbilt,81,Commodores,Vanderbilt Commodores,Vanderbilt
+401082925,2019,regular-season,2018-12-17,2,9,away,FALSE,Arizona State,65,Sun Devils,Arizona State Sun Devils,Arizona St

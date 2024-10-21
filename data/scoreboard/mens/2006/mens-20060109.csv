@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260090041,2006-01-09,2,41,home,FALSE,UConn,70,Huskies,UConn Huskies,UConn
-260090041,2006-01-09,2,2132,away,FALSE,Cincinnati,59,Bearcats,Cincinnati Bearcats,Cincinnati
-260092541,2006-01-09,2,2541,home,FALSE,Santa Clara,68,Broncos,Santa Clara Broncos,Santa Clara
-260092541,2006-01-09,2,2250,away,FALSE,Gonzaga,81,Bulldogs,Gonzaga Bulldogs,Gonzaga
-260090066,2006-01-09,2,66,home,FALSE,Iowa State,58,Cyclones,Iowa State Cyclones,Iowa State
-260090066,2006-01-09,2,251,away,FALSE,Texas,78,Longhorns,Texas Longhorns,Texas
-260090097,2006-01-09,2,97,home,FALSE,Louisville,81,Cardinals,Louisville Cardinals,Louisville
-260090097,2006-01-09,2,302,away,FALSE,UC Davis,58,Aggies,UC Davis Aggies,UC Davis
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260090041,2006,regular-season,2006-01-09,2,41,home,FALSE,UConn,70,Huskies,UConn Huskies,UConn
+260090041,2006,regular-season,2006-01-09,2,2132,away,FALSE,Cincinnati,59,Bearcats,Cincinnati Bearcats,Cincinnati
+260092541,2006,regular-season,2006-01-09,2,2541,home,FALSE,Santa Clara,68,Broncos,Santa Clara Broncos,Santa Clara
+260092541,2006,regular-season,2006-01-09,2,2250,away,FALSE,Gonzaga,81,Bulldogs,Gonzaga Bulldogs,Gonzaga
+260090066,2006,regular-season,2006-01-09,2,66,home,FALSE,Iowa State,58,Cyclones,Iowa State Cyclones,Iowa State
+260090066,2006,regular-season,2006-01-09,2,251,away,FALSE,Texas,78,Longhorns,Texas Longhorns,Texas
+260090097,2006,regular-season,2006-01-09,2,97,home,FALSE,Louisville,81,Cardinals,Louisville Cardinals,Louisville
+260090097,2006,regular-season,2006-01-09,2,302,away,FALSE,UC Davis,58,Aggies,UC Davis Aggies,UC Davis

@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400986902,2018-02-22,2,301,home,FALSE,San Diego,72,Toreros,San Diego Toreros,San Diego
-400986902,2018-02-22,2,2250,away,FALSE,Gonzaga,77,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400986585,2018-02-22,2,356,home,FALSE,Illinois,86,Fighting Illini,Illinois Fighting Illini,Illinois
-400986585,2018-02-22,2,2509,away,FALSE,Purdue,93,Boilermakers,Purdue Boilermakers,Purdue
-400988126,2018-02-22,2,2132,home,FALSE,Cincinnati,77,Bearcats,Cincinnati Bearcats,Cincinnati
-400988126,2018-02-22,2,41,away,FALSE,UConn,52,Huskies,UConn Huskies,UConn
-400988375,2018-02-22,3,204,home,FALSE,Oregon State,65,Beavers,Oregon State Beavers,Oregon St
-400988375,2018-02-22,3,12,away,FALSE,Arizona,75,Wildcats,Arizona Wildcats,Arizona
-400986971,2018-02-22,2,2608,home,FALSE,Saint Mary's,75,Gaels,Saint Mary's Gaels,Saint Mary's
-400986971,2018-02-22,2,2492,away,FALSE,Pepperdine,61,Waves,Pepperdine Waves,Pepperdine
-400988127,2018-02-22,2,235,home,FALSE,Memphis,91,Tigers,Memphis Tigers,Memphis
-400988127,2018-02-22,2,248,away,FALSE,Houston,85,Cougars,Houston Cougars,Houston
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400986902,2018,regular-season,2018-02-22,2,301,home,FALSE,San Diego,72,Toreros,San Diego Toreros,San Diego
+400986902,2018,regular-season,2018-02-22,2,2250,away,FALSE,Gonzaga,77,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400986585,2018,regular-season,2018-02-22,2,356,home,FALSE,Illinois,86,Fighting Illini,Illinois Fighting Illini,Illinois
+400986585,2018,regular-season,2018-02-22,2,2509,away,FALSE,Purdue,93,Boilermakers,Purdue Boilermakers,Purdue
+400988126,2018,regular-season,2018-02-22,2,2132,home,FALSE,Cincinnati,77,Bearcats,Cincinnati Bearcats,Cincinnati
+400988126,2018,regular-season,2018-02-22,2,41,away,FALSE,UConn,52,Huskies,UConn Huskies,UConn
+400988375,2018,regular-season,2018-02-22,3,204,home,FALSE,Oregon State,65,Beavers,Oregon State Beavers,Oregon St
+400988375,2018,regular-season,2018-02-22,3,12,away,FALSE,Arizona,75,Wildcats,Arizona Wildcats,Arizona
+400986971,2018,regular-season,2018-02-22,2,2608,home,FALSE,Saint Mary's,75,Gaels,Saint Mary's Gaels,Saint Mary's
+400986971,2018,regular-season,2018-02-22,2,2492,away,FALSE,Pepperdine,61,Waves,Pepperdine Waves,Pepperdine
+400988127,2018,regular-season,2018-02-22,2,235,home,FALSE,Memphis,91,Tigers,Memphis Tigers,Memphis
+400988127,2018,regular-season,2018-02-22,2,248,away,FALSE,Houston,85,Cougars,Houston Cougars,Houston

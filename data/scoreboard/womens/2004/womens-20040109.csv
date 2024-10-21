@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240090305,2004-01-09,2,305,home,FALSE,DePaul,102,Blue Demons,DePaul Blue Demons,DePaul
-240090305,2004-01-09,2,97,away,FALSE,Louisville,83,Cardinals,Louisville Cardinals,Louisville
-240090139,2004-01-09,2,139,home,FALSE,Saint Louis,66,Billikens,Saint Louis Billikens,Saint Louis
-240090139,2004-01-09,2,2628,away,FALSE,TCU,69,Horned Frogs,TCU Horned Frogs,TCU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240090305,2004,regular-season,2004-01-09,2,305,home,FALSE,DePaul,102,Blue Demons,DePaul Blue Demons,DePaul
+240090305,2004,regular-season,2004-01-09,2,97,away,FALSE,Louisville,83,Cardinals,Louisville Cardinals,Louisville
+240090139,2004,regular-season,2004-01-09,2,139,home,FALSE,Saint Louis,66,Billikens,Saint Louis Billikens,Saint Louis
+240090139,2004,regular-season,2004-01-09,2,2628,away,FALSE,TCU,69,Horned Frogs,TCU Horned Frogs,TCU

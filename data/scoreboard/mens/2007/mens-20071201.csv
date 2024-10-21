@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273350096,2007-12-01,2,96,home,FALSE,Kentucky,77,Wildcats,Kentucky Wildcats,Kentucky
-273350096,2007-12-01,2,153,away,FALSE,North Carolina,86,Tar Heels,North Carolina Tar Heels,North Carolina
-273350046,2007-12-01,2,46,home,FALSE,Georgetown,61,Hoyas,Georgetown Hoyas,Georgetown
-273350046,2007-12-01,2,2217,away,FALSE,Fairfield,49,Stags,Fairfield Stags,Fairfield
-273350150,2007-12-01,2,2166,home,TRUE,Davidson,73,Wildcats,Davidson Wildcats,Davidson
-273350150,2007-12-01,2,150,away,TRUE,Duke,79,Blue Devils,Duke Blue Devils,Duke
-273350127,2007-12-01,2,127,home,FALSE,Michigan State,80,Spartans,Michigan State Spartans,Michigan St
-273350127,2007-12-01,2,294,away,FALSE,Jacksonville,51,Dolphins,Jacksonville Dolphins,Jacksonville
-273350097,2007-12-01,2,97,home,FALSE,Louisville,47,Cardinals,Louisville Cardinals,Louisville
-273350097,2007-12-01,2,193,away,FALSE,Miami (OH),44,RedHawks,Miami (OH) RedHawks,Miami OH
-273350221,2007-12-01,2,221,home,FALSE,Pittsburgh,78,Panthers,Pittsburgh Panthers,Pitt
-273350221,2007-12-01,2,2649,away,FALSE,Toledo,52,Rockets,Toledo Rockets,Toledo
-273350079,2007-12-01,2,79,home,FALSE,Southern Illinois,51,Salukis,Southern Illinois Salukis,S Illinois
-273350079,2007-12-01,2,84,away,FALSE,Indiana,64,Hoosiers,Indiana Hoosiers,Indiana
-273352086,2007-12-01,2,2086,home,FALSE,Butler,65,Bulldogs,Butler Bulldogs,Butler
-273352086,2007-12-01,2,194,away,FALSE,Ohio State,46,Buckeyes,Ohio State Buckeyes,Ohio State
-273350228,2007-12-01,2,228,home,FALSE,Clemson,85,Tigers,Clemson Tigers,Clemson
-273350228,2007-12-01,2,2579,away,FALSE,South Carolina,74,Gamecocks,South Carolina Gamecocks,South Carolina
-273350041,2007-12-01,2,41,home,TRUE,UConn,82,Huskies,UConn Huskies,UConn
-273350041,2007-12-01,2,2250,away,TRUE,Gonzaga,85,Bulldogs,Gonzaga Bulldogs,Gonzaga
-273352501,2007-12-01,2,2501,home,FALSE,Portland,54,Pilots,Portland Pilots,Portland
-273352501,2007-12-01,2,252,away,FALSE,BYU,78,Cougars,BYU Cougars,BYU
-273352752,2007-12-01,2,2752,home,FALSE,Xavier,90,Musketeers,Xavier Musketeers,Xavier
-273352752,2007-12-01,2,2057,away,FALSE,Belmont,49,Bruins,Belmont Bruins,Belmont
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273350096,2008,regular-season,2007-12-01,2,96,home,FALSE,Kentucky,77,Wildcats,Kentucky Wildcats,Kentucky
+273350096,2008,regular-season,2007-12-01,2,153,away,FALSE,North Carolina,86,Tar Heels,North Carolina Tar Heels,North Carolina
+273350046,2008,regular-season,2007-12-01,2,46,home,FALSE,Georgetown,61,Hoyas,Georgetown Hoyas,Georgetown
+273350046,2008,regular-season,2007-12-01,2,2217,away,FALSE,Fairfield,49,Stags,Fairfield Stags,Fairfield
+273350150,2008,regular-season,2007-12-01,2,2166,home,TRUE,Davidson,73,Wildcats,Davidson Wildcats,Davidson
+273350150,2008,regular-season,2007-12-01,2,150,away,TRUE,Duke,79,Blue Devils,Duke Blue Devils,Duke
+273350127,2008,regular-season,2007-12-01,2,127,home,FALSE,Michigan State,80,Spartans,Michigan State Spartans,Michigan St
+273350127,2008,regular-season,2007-12-01,2,294,away,FALSE,Jacksonville,51,Dolphins,Jacksonville Dolphins,Jacksonville
+273350097,2008,regular-season,2007-12-01,2,97,home,FALSE,Louisville,47,Cardinals,Louisville Cardinals,Louisville
+273350097,2008,regular-season,2007-12-01,2,193,away,FALSE,Miami (OH),44,RedHawks,Miami (OH) RedHawks,Miami OH
+273350221,2008,regular-season,2007-12-01,2,221,home,FALSE,Pittsburgh,78,Panthers,Pittsburgh Panthers,Pitt
+273350221,2008,regular-season,2007-12-01,2,2649,away,FALSE,Toledo,52,Rockets,Toledo Rockets,Toledo
+273350079,2008,regular-season,2007-12-01,2,79,home,FALSE,Southern Illinois,51,Salukis,Southern Illinois Salukis,S Illinois
+273350079,2008,regular-season,2007-12-01,2,84,away,FALSE,Indiana,64,Hoosiers,Indiana Hoosiers,Indiana
+273352086,2008,regular-season,2007-12-01,2,2086,home,FALSE,Butler,65,Bulldogs,Butler Bulldogs,Butler
+273352086,2008,regular-season,2007-12-01,2,194,away,FALSE,Ohio State,46,Buckeyes,Ohio State Buckeyes,Ohio State
+273350228,2008,regular-season,2007-12-01,2,228,home,FALSE,Clemson,85,Tigers,Clemson Tigers,Clemson
+273350228,2008,regular-season,2007-12-01,2,2579,away,FALSE,South Carolina,74,Gamecocks,South Carolina Gamecocks,South Carolina
+273350041,2008,regular-season,2007-12-01,2,41,home,TRUE,UConn,82,Huskies,UConn Huskies,UConn
+273350041,2008,regular-season,2007-12-01,2,2250,away,TRUE,Gonzaga,85,Bulldogs,Gonzaga Bulldogs,Gonzaga
+273352501,2008,regular-season,2007-12-01,2,2501,home,FALSE,Portland,54,Pilots,Portland Pilots,Portland
+273352501,2008,regular-season,2007-12-01,2,252,away,FALSE,BYU,78,Cougars,BYU Cougars,BYU
+273352752,2008,regular-season,2007-12-01,2,2752,home,FALSE,Xavier,90,Musketeers,Xavier Musketeers,Xavier
+273352752,2008,regular-season,2007-12-01,2,2057,away,FALSE,Belmont,49,Bruins,Belmont Bruins,Belmont

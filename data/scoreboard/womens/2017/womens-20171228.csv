@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400995015,2017-12-28,4,87,home,FALSE,Notre Dame,87,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400995015,2017-12-28,4,183,away,FALSE,Syracuse,72,Orange,Syracuse Orange,Syracuse
-400995013,2017-12-28,4,59,home,FALSE,Georgia Tech,71,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-400995013,2017-12-28,4,97,away,FALSE,Louisville,74,Cardinals,Louisville Cardinals,Louisville
-400987789,2017-12-28,4,344,home,FALSE,Mississippi State,112,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400987789,2017-12-28,4,2400,away,FALSE,Mississippi Valley State,36,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
-400994010,2017-12-28,4,2306,home,FALSE,Kansas State,58,Wildcats,Kansas State Wildcats,Kansas St
-400994010,2017-12-28,4,239,away,FALSE,Baylor,88,Bears,Baylor Bears,Baylor
-400994124,2017-12-28,4,201,home,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
-400994124,2017-12-28,4,251,away,FALSE,Texas,88,Longhorns,Texas Longhorns,Texas
-400994140,2017-12-28,4,2628,home,FALSE,TCU,82,Horned Frogs,TCU Horned Frogs,TCU
-400994140,2017-12-28,4,277,away,FALSE,West Virginia,87,Mountaineers,West Virginia Mountaineers,West Virginia
-400993743,2017-12-28,4,158,home,FALSE,Nebraska,61,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400993743,2017-12-28,4,194,away,FALSE,Ohio State,73,Buckeyes,Ohio State Buckeyes,Ohio State
-400993384,2017-12-28,4,52,home,FALSE,Florida State,82,Seminoles,Florida State Seminoles,Florida St
-400993384,2017-12-28,4,294,away,FALSE,Jacksonville,50,Dolphins,Jacksonville Dolphins,Jacksonville
-400993575,2017-12-28,4,120,home,FALSE,Maryland,100,Terrapins,Maryland Terrapins,Maryland
-400993575,2017-12-28,4,356,away,FALSE,Illinois,65,Fighting Illini,Illinois Fighting Illini,Illinois
-400995780,2017-12-28,4,156,home,FALSE,Creighton,69,Bluejays,Creighton Bluejays,Creighton
-400995780,2017-12-28,4,222,away,FALSE,Villanova,54,Wildcats,Villanova Wildcats,Villanova
-400998381,2017-12-28,4,2750,home,FALSE,Wright State,51,Raiders,Wright State Raiders,Wright St
-400998381,2017-12-28,4,2739,away,FALSE,Green Bay,58,Phoenix,Green Bay Phoenix,Green Bay
-400993700,2017-12-28,4,130,home,FALSE,Michigan,89,Wolverines,Michigan Wolverines,Michigan
-400993700,2017-12-28,4,213,away,FALSE,Penn State,69,Lady Lions,Penn State Lady Lions,Penn State
-400987895,2017-12-28,4,245,home,FALSE,Texas A&M,79,Aggies,Texas A&M Aggies,Texas A&M
-400987895,2017-12-28,4,2567,away,FALSE,SMU,57,Mustangs,SMU Mustangs,SMU
-400993629,2017-12-28,4,275,home,FALSE,Wisconsin,46,Badgers,Wisconsin Badgers,Wisconsin
-400993629,2017-12-28,4,2294,away,FALSE,Iowa,56,Hawkeyes,Iowa Hawkeyes,Iowa
-400994104,2017-12-28,4,2641,home,FALSE,Texas Tech,57,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-400994104,2017-12-28,4,197,away,FALSE,Oklahoma State,98,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400995015,2018,regular-season,2017-12-28,4,87,home,FALSE,Notre Dame,87,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400995015,2018,regular-season,2017-12-28,4,183,away,FALSE,Syracuse,72,Orange,Syracuse Orange,Syracuse
+400995013,2018,regular-season,2017-12-28,4,59,home,FALSE,Georgia Tech,71,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+400995013,2018,regular-season,2017-12-28,4,97,away,FALSE,Louisville,74,Cardinals,Louisville Cardinals,Louisville
+400987789,2018,regular-season,2017-12-28,4,344,home,FALSE,Mississippi State,112,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400987789,2018,regular-season,2017-12-28,4,2400,away,FALSE,Mississippi Valley State,36,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
+400994010,2018,regular-season,2017-12-28,4,2306,home,FALSE,Kansas State,58,Wildcats,Kansas State Wildcats,Kansas St
+400994010,2018,regular-season,2017-12-28,4,239,away,FALSE,Baylor,88,Bears,Baylor Bears,Baylor
+400994124,2018,regular-season,2017-12-28,4,201,home,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
+400994124,2018,regular-season,2017-12-28,4,251,away,FALSE,Texas,88,Longhorns,Texas Longhorns,Texas
+400994140,2018,regular-season,2017-12-28,4,2628,home,FALSE,TCU,82,Horned Frogs,TCU Horned Frogs,TCU
+400994140,2018,regular-season,2017-12-28,4,277,away,FALSE,West Virginia,87,Mountaineers,West Virginia Mountaineers,West Virginia
+400993743,2018,regular-season,2017-12-28,4,158,home,FALSE,Nebraska,61,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400993743,2018,regular-season,2017-12-28,4,194,away,FALSE,Ohio State,73,Buckeyes,Ohio State Buckeyes,Ohio State
+400993384,2018,regular-season,2017-12-28,4,52,home,FALSE,Florida State,82,Seminoles,Florida State Seminoles,Florida St
+400993384,2018,regular-season,2017-12-28,4,294,away,FALSE,Jacksonville,50,Dolphins,Jacksonville Dolphins,Jacksonville
+400993575,2018,regular-season,2017-12-28,4,120,home,FALSE,Maryland,100,Terrapins,Maryland Terrapins,Maryland
+400993575,2018,regular-season,2017-12-28,4,356,away,FALSE,Illinois,65,Fighting Illini,Illinois Fighting Illini,Illinois
+400995780,2018,regular-season,2017-12-28,4,156,home,FALSE,Creighton,69,Bluejays,Creighton Bluejays,Creighton
+400995780,2018,regular-season,2017-12-28,4,222,away,FALSE,Villanova,54,Wildcats,Villanova Wildcats,Villanova
+400998381,2018,regular-season,2017-12-28,4,2750,home,FALSE,Wright State,51,Raiders,Wright State Raiders,Wright St
+400998381,2018,regular-season,2017-12-28,4,2739,away,FALSE,Green Bay,58,Phoenix,Green Bay Phoenix,Green Bay
+400993700,2018,regular-season,2017-12-28,4,130,home,FALSE,Michigan,89,Wolverines,Michigan Wolverines,Michigan
+400993700,2018,regular-season,2017-12-28,4,213,away,FALSE,Penn State,69,Lady Lions,Penn State Lady Lions,Penn State
+400987895,2018,regular-season,2017-12-28,4,245,home,FALSE,Texas A&M,79,Aggies,Texas A&M Aggies,Texas A&M
+400987895,2018,regular-season,2017-12-28,4,2567,away,FALSE,SMU,57,Mustangs,SMU Mustangs,SMU
+400993629,2018,regular-season,2017-12-28,4,275,home,FALSE,Wisconsin,46,Badgers,Wisconsin Badgers,Wisconsin
+400993629,2018,regular-season,2017-12-28,4,2294,away,FALSE,Iowa,56,Hawkeyes,Iowa Hawkeyes,Iowa
+400994104,2018,regular-season,2017-12-28,4,2641,home,FALSE,Texas Tech,57,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+400994104,2018,regular-season,2017-12-28,4,197,away,FALSE,Oklahoma State,98,Cowgirls,Oklahoma State Cowgirls,Oklahoma St

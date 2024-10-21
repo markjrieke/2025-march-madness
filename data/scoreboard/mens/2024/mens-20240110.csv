@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401603411,2024-01-10,2,2116,home,FALSE,UCF,65,Knights,UCF Knights,UCF
-401603411,2024-01-10,2,2305,away,FALSE,Kansas,60,Jayhawks,Kansas Jayhawks,Kansas
-401599483,2024-01-10,2,2752,home,FALSE,Xavier,75,Musketeers,Xavier Musketeers,Xavier
-401599483,2024-01-10,2,41,away,FALSE,UConn,80,Huskies,UConn Huskies,UConn
-401597122,2024-01-10,2,344,home,FALSE,Mississippi State,77,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401597122,2024-01-10,2,2633,away,FALSE,Tennessee,72,Volunteers,Tennessee Volunteers,Tennessee
-401604117,2024-01-10,2,152,home,FALSE,NC State,54,Wolfpack,NC State Wolfpack,NC State
-401604117,2024-01-10,2,153,away,FALSE,North Carolina,67,Tar Heels,North Carolina Tar Heels,North Carolina
-401603410,2024-01-10,2,2628,home,FALSE,TCU,80,Horned Frogs,TCU Horned Frogs,TCU
-401603410,2024-01-10,2,201,away,FALSE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
-401599481,2024-01-10,2,269,home,FALSE,Marquette,62,Golden Eagles,Marquette Golden Eagles,Marquette
-401599481,2024-01-10,2,2086,away,FALSE,Butler,69,Bulldogs,Butler Bulldogs,Butler
-401602070,2024-01-10,3,235,home,FALSE,Memphis,107,Tigers,Memphis Tigers,Memphis
-401602070,2024-01-10,3,2636,away,FALSE,UTSA,101,Roadrunners,UTSA Roadrunners,UTSA
-401600323,2024-01-10,2,194,home,FALSE,Ohio State,60,Buckeyes,Ohio State Buckeyes,Ohio State
-401600323,2024-01-10,2,275,away,FALSE,Wisconsin,71,Badgers,Wisconsin Badgers,Wisconsin
-401604119,2024-01-10,2,259,home,FALSE,Virginia Tech,87,Hokies,Virginia Tech Hokies,Virginia Tech
-401604119,2024-01-10,2,228,away,FALSE,Clemson,72,Tigers,Clemson Tigers,Clemson
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401603411,2024,regular-season,2024-01-10,2,2116,home,FALSE,UCF,65,Knights,UCF Knights,UCF
+401603411,2024,regular-season,2024-01-10,2,2305,away,FALSE,Kansas,60,Jayhawks,Kansas Jayhawks,Kansas
+401599483,2024,regular-season,2024-01-10,2,2752,home,FALSE,Xavier,75,Musketeers,Xavier Musketeers,Xavier
+401599483,2024,regular-season,2024-01-10,2,41,away,FALSE,UConn,80,Huskies,UConn Huskies,UConn
+401597122,2024,regular-season,2024-01-10,2,344,home,FALSE,Mississippi State,77,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401597122,2024,regular-season,2024-01-10,2,2633,away,FALSE,Tennessee,72,Volunteers,Tennessee Volunteers,Tennessee
+401604117,2024,regular-season,2024-01-10,2,152,home,FALSE,NC State,54,Wolfpack,NC State Wolfpack,NC State
+401604117,2024,regular-season,2024-01-10,2,153,away,FALSE,North Carolina,67,Tar Heels,North Carolina Tar Heels,North Carolina
+401603410,2024,regular-season,2024-01-10,2,2628,home,FALSE,TCU,80,Horned Frogs,TCU Horned Frogs,TCU
+401603410,2024,regular-season,2024-01-10,2,201,away,FALSE,Oklahoma,71,Sooners,Oklahoma Sooners,Oklahoma
+401599481,2024,regular-season,2024-01-10,2,269,home,FALSE,Marquette,62,Golden Eagles,Marquette Golden Eagles,Marquette
+401599481,2024,regular-season,2024-01-10,2,2086,away,FALSE,Butler,69,Bulldogs,Butler Bulldogs,Butler
+401602070,2024,regular-season,2024-01-10,3,235,home,FALSE,Memphis,107,Tigers,Memphis Tigers,Memphis
+401602070,2024,regular-season,2024-01-10,3,2636,away,FALSE,UTSA,101,Roadrunners,UTSA Roadrunners,UTSA
+401600323,2024,regular-season,2024-01-10,2,194,home,FALSE,Ohio State,60,Buckeyes,Ohio State Buckeyes,Ohio State
+401600323,2024,regular-season,2024-01-10,2,275,away,FALSE,Wisconsin,71,Badgers,Wisconsin Badgers,Wisconsin
+401604119,2024,regular-season,2024-01-10,2,259,home,FALSE,Virginia Tech,87,Hokies,Virginia Tech Hokies,Virginia Tech
+401604119,2024,regular-season,2024-01-10,2,228,away,FALSE,Clemson,72,Tigers,Clemson Tigers,Clemson

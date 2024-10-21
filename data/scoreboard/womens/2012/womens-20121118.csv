@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323230245,2012-11-18,2,245,home,FALSE,Texas A&M,50,Aggies,Texas A&M Aggies,Texas A&M
-323230245,2012-11-18,2,41,away,FALSE,UConn,81,Huskies,UConn Huskies,UConn
-323230150,2012-11-18,2,150,home,FALSE,Duke,100,Blue Devils,Duke Blue Devils,Duke
-323230150,2012-11-18,2,314,away,FALSE,Iona,31,Gaels,Iona Gaels,Iona
-323230087,2012-11-18,2,87,home,FALSE,Notre Dame,94,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-323230087,2012-11-18,2,113,away,FALSE,Massachusetts,50,Minutewomen,Massachusetts Minutewomen,UMass
-323230213,2012-11-18,2,213,home,FALSE,Penn State,75,Lady Lions,Penn State Lady Lions,Penn State
-323230213,2012-11-18,2,322,away,FALSE,Lafayette,34,Leopards,Lafayette Leopards,Lafayette
-323230061,2012-11-18,2,61,home,FALSE,Georgia,70,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-323230061,2012-11-18,2,2057,away,FALSE,Belmont,38,Bruins,Belmont Bruins,Belmont
-323230201,2012-11-18,2,201,home,FALSE,Oklahoma,68,Sooners,Oklahoma Sooners,Oklahoma
-323230201,2012-11-18,2,139,away,FALSE,Saint Louis,33,Billikens,Saint Louis Billikens,Saint Louis
-323232168,2012-11-18,2,2168,home,FALSE,Dayton,71,Flyers,Dayton Flyers,Dayton
-323232168,2012-11-18,2,238,away,FALSE,Vanderbilt,66,Commodores,Vanderbilt Commodores,Vanderbilt
-323232571,2012-11-18,2,2571,home,FALSE,South Dakota State,60,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-323232571,2012-11-18,2,158,away,FALSE,Nebraska,55,Cornhuskers,Nebraska Cornhuskers,Nebraska
-323230197,2012-11-18,2,197,home,FALSE,Oklahoma State,101,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-323230197,2012-11-18,2,2692,away,FALSE,Weber State,49,Wildcats,Weber State Wildcats,Weber St
-323232390,2012-11-18,2,2390,home,FALSE,Miami,67,Hurricanes,Miami Hurricanes,Miami
-323232390,2012-11-18,2,2633,away,FALSE,Tennessee,79,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323230245,2013,regular-season,2012-11-18,2,245,home,FALSE,Texas A&M,50,Aggies,Texas A&M Aggies,Texas A&M
+323230245,2013,regular-season,2012-11-18,2,41,away,FALSE,UConn,81,Huskies,UConn Huskies,UConn
+323230150,2013,regular-season,2012-11-18,2,150,home,FALSE,Duke,100,Blue Devils,Duke Blue Devils,Duke
+323230150,2013,regular-season,2012-11-18,2,314,away,FALSE,Iona,31,Gaels,Iona Gaels,Iona
+323230087,2013,regular-season,2012-11-18,2,87,home,FALSE,Notre Dame,94,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+323230087,2013,regular-season,2012-11-18,2,113,away,FALSE,Massachusetts,50,Minutewomen,Massachusetts Minutewomen,UMass
+323230213,2013,regular-season,2012-11-18,2,213,home,FALSE,Penn State,75,Lady Lions,Penn State Lady Lions,Penn State
+323230213,2013,regular-season,2012-11-18,2,322,away,FALSE,Lafayette,34,Leopards,Lafayette Leopards,Lafayette
+323230061,2013,regular-season,2012-11-18,2,61,home,FALSE,Georgia,70,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+323230061,2013,regular-season,2012-11-18,2,2057,away,FALSE,Belmont,38,Bruins,Belmont Bruins,Belmont
+323230201,2013,regular-season,2012-11-18,2,201,home,FALSE,Oklahoma,68,Sooners,Oklahoma Sooners,Oklahoma
+323230201,2013,regular-season,2012-11-18,2,139,away,FALSE,Saint Louis,33,Billikens,Saint Louis Billikens,Saint Louis
+323232168,2013,regular-season,2012-11-18,2,2168,home,FALSE,Dayton,71,Flyers,Dayton Flyers,Dayton
+323232168,2013,regular-season,2012-11-18,2,238,away,FALSE,Vanderbilt,66,Commodores,Vanderbilt Commodores,Vanderbilt
+323232571,2013,regular-season,2012-11-18,2,2571,home,FALSE,South Dakota State,60,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+323232571,2013,regular-season,2012-11-18,2,158,away,FALSE,Nebraska,55,Cornhuskers,Nebraska Cornhuskers,Nebraska
+323230197,2013,regular-season,2012-11-18,2,197,home,FALSE,Oklahoma State,101,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+323230197,2013,regular-season,2012-11-18,2,2692,away,FALSE,Weber State,49,Wildcats,Weber State Wildcats,Weber St
+323232390,2013,regular-season,2012-11-18,2,2390,home,FALSE,Miami,67,Hurricanes,Miami Hurricanes,Miami
+323232390,2013,regular-season,2012-11-18,2,2633,away,FALSE,Tennessee,79,Lady Volunteers,Tennessee Lady Volunteers,Tennessee

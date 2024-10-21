@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320050084,2012-01-05,2,84,home,FALSE,Indiana,73,Hoosiers,Indiana Hoosiers,Indiana
-320050084,2012-01-05,2,130,away,FALSE,Michigan,71,Wolverines,Michigan Wolverines,Michigan
-320052934,2012-01-05,2,2934,home,FALSE,Cal State Bakersfield,57,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
-320052934,2012-01-05,2,2439,away,FALSE,UNLV,89,Rebels,UNLV Rebels,UNLV
-320050021,2012-01-05,2,21,home,FALSE,San Diego State,83,Aztecs,San Diego State Aztecs,San Diego St
-320050021,2012-01-05,2,3096,away,FALSE,San Diego Christian,52,Hawks,San Diego Christian Hawks,S Diego Christ
-320052250,2012-01-05,2,2250,home,FALSE,Gonzaga,73,Bulldogs,Gonzaga Bulldogs,Gonzaga
-320052250,2012-01-05,2,2492,away,FALSE,Pepperdine,45,Waves,Pepperdine Waves,Pepperdine
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320050084,2012,regular-season,2012-01-05,2,84,home,FALSE,Indiana,73,Hoosiers,Indiana Hoosiers,Indiana
+320050084,2012,regular-season,2012-01-05,2,130,away,FALSE,Michigan,71,Wolverines,Michigan Wolverines,Michigan
+320052934,2012,regular-season,2012-01-05,2,2934,home,FALSE,Cal State Bakersfield,57,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+320052934,2012,regular-season,2012-01-05,2,2439,away,FALSE,UNLV,89,Rebels,UNLV Rebels,UNLV
+320050021,2012,regular-season,2012-01-05,2,21,home,FALSE,San Diego State,83,Aztecs,San Diego State Aztecs,San Diego St
+320050021,2012,regular-season,2012-01-05,2,3096,away,FALSE,San Diego Christian,52,Hawks,San Diego Christian Hawks,S Diego Christ
+320052250,2012,regular-season,2012-01-05,2,2250,home,FALSE,Gonzaga,73,Bulldogs,Gonzaga Bulldogs,Gonzaga
+320052250,2012,regular-season,2012-01-05,2,2492,away,FALSE,Pepperdine,45,Waves,Pepperdine Waves,Pepperdine

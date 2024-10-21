@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400834754,2015-12-02,4,305,home,FALSE,DePaul,70,Blue Demons,DePaul Blue Demons,DePaul
-400834754,2015-12-02,4,41,away,FALSE,UConn,86,Huskies,UConn Huskies,UConn
-400823520,2015-12-02,4,239,home,FALSE,Baylor,89,Bears,Baylor Bears,Baylor
-400823520,2015-12-02,4,242,away,FALSE,Rice,38,Owls,Rice Owls,Rice
-400820973,2015-12-02,4,251,home,FALSE,Texas,53,Longhorns,Texas Longhorns,Texas
-400820973,2015-12-02,4,344,away,FALSE,Mississippi State,47,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400838847,2015-12-02,4,2633,home,FALSE,Tennessee,85,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400838847,2015-12-02,4,2193,away,FALSE,East Tennessee State,49,Bucs,East Tennessee State Bucs,ETSU
-400842257,2015-12-02,4,94,home,FALSE,Northern Kentucky,65,Norse,Northern Kentucky Norse,N Kentucky
-400842257,2015-12-02,4,96,away,FALSE,Kentucky,84,Wildcats,Kentucky Wildcats,Kentucky
-400821002,2015-12-02,4,201,home,FALSE,Oklahoma,65,Sooners,Oklahoma Sooners,Oklahoma
-400821002,2015-12-02,4,2031,away,FALSE,Little Rock,52,Trojans,Little Rock Trojans,Little Rock
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400834754,2016,regular-season,2015-12-02,4,305,home,FALSE,DePaul,70,Blue Demons,DePaul Blue Demons,DePaul
+400834754,2016,regular-season,2015-12-02,4,41,away,FALSE,UConn,86,Huskies,UConn Huskies,UConn
+400823520,2016,regular-season,2015-12-02,4,239,home,FALSE,Baylor,89,Bears,Baylor Bears,Baylor
+400823520,2016,regular-season,2015-12-02,4,242,away,FALSE,Rice,38,Owls,Rice Owls,Rice
+400820973,2016,regular-season,2015-12-02,4,251,home,FALSE,Texas,53,Longhorns,Texas Longhorns,Texas
+400820973,2016,regular-season,2015-12-02,4,344,away,FALSE,Mississippi State,47,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400838847,2016,regular-season,2015-12-02,4,2633,home,FALSE,Tennessee,85,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400838847,2016,regular-season,2015-12-02,4,2193,away,FALSE,East Tennessee State,49,Bucs,East Tennessee State Bucs,ETSU
+400842257,2016,regular-season,2015-12-02,4,94,home,FALSE,Northern Kentucky,65,Norse,Northern Kentucky Norse,N Kentucky
+400842257,2016,regular-season,2015-12-02,4,96,away,FALSE,Kentucky,84,Wildcats,Kentucky Wildcats,Kentucky
+400821002,2016,regular-season,2015-12-02,4,201,home,FALSE,Oklahoma,65,Sooners,Oklahoma Sooners,Oklahoma
+400821002,2016,regular-season,2015-12-02,4,2031,away,FALSE,Little Rock,52,Trojans,Little Rock Trojans,Little Rock

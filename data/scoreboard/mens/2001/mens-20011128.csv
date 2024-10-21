@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213320160,2001-11-28,2,160,home,FALSE,New Hampshire,56,Wildcats,New Hampshire Wildcats,New Hampshire
-213320160,2001-11-28,2,57,away,FALSE,Florida,108,Gators,Florida Gators,Florida
-213322305,2001-11-28,2,2305,home,FALSE,Kansas,105,Jayhawks,Kansas Jayhawks,Kansas
-213322305,2001-11-28,2,90,away,FALSE,Pittsburg St,62,Gorillas,Pittsburg St Gorillas,Pitt St
-213320026,2001-11-28,2,26,home,FALSE,UCLA,78,Bruins,UCLA Bruins,UCLA
-213320026,2001-11-28,2,2492,away,FALSE,Pepperdine,85,Waves,Pepperdine Waves,Pepperdine
-213320179,2001-11-28,2,179,home,FALSE,St. Bonaventure,82,Bonnies,St. Bonaventure Bonnies,St Bonaventure
-213320179,2001-11-28,2,103,away,FALSE,Boston College,96,Eagles,Boston College Eagles,Boston College
-213320046,2001-11-28,2,46,home,FALSE,Georgetown,91,Hoyas,Georgetown Hoyas,Georgetown
-213320046,2001-11-28,2,2065,away,FALSE,Bethune-Cookman,61,Wildcats,Bethune-Cookman Wildcats,Bethune
-213320048,2001-11-28,2,48,home,FALSE,Delaware,57,Blue Hens,Delaware Blue Hens,Delaware
-213320048,2001-11-28,2,2603,away,FALSE,Saint Joseph's,84,Hawks,Saint Joseph's Hawks,Saint Joseph's
-213320235,2001-11-28,2,235,home,FALSE,Memphis,86,Tigers,Memphis Tigers,Memphis
-213320235,2001-11-28,2,2131,away,FALSE,Christian Brothers,54,Buccaneers,Christian Brothers Buccaneers,Chrst Bros
-213320279,2001-11-28,2,279,home,FALSE,Pacific,65,Tigers,Pacific Tigers,Pacific
-213320279,2001-11-28,2,278,away,FALSE,Fresno State,73,Bulldogs,Fresno State Bulldogs,Fresno St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213320160,2002,regular-season,2001-11-28,2,160,home,FALSE,New Hampshire,56,Wildcats,New Hampshire Wildcats,New Hampshire
+213320160,2002,regular-season,2001-11-28,2,57,away,FALSE,Florida,108,Gators,Florida Gators,Florida
+213322305,2002,regular-season,2001-11-28,2,2305,home,FALSE,Kansas,105,Jayhawks,Kansas Jayhawks,Kansas
+213322305,2002,regular-season,2001-11-28,2,90,away,FALSE,Pittsburg St,62,Gorillas,Pittsburg St Gorillas,Pitt St
+213320026,2002,regular-season,2001-11-28,2,26,home,FALSE,UCLA,78,Bruins,UCLA Bruins,UCLA
+213320026,2002,regular-season,2001-11-28,2,2492,away,FALSE,Pepperdine,85,Waves,Pepperdine Waves,Pepperdine
+213320179,2002,regular-season,2001-11-28,2,179,home,FALSE,St. Bonaventure,82,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+213320179,2002,regular-season,2001-11-28,2,103,away,FALSE,Boston College,96,Eagles,Boston College Eagles,Boston College
+213320046,2002,regular-season,2001-11-28,2,46,home,FALSE,Georgetown,91,Hoyas,Georgetown Hoyas,Georgetown
+213320046,2002,regular-season,2001-11-28,2,2065,away,FALSE,Bethune-Cookman,61,Wildcats,Bethune-Cookman Wildcats,Bethune
+213320048,2002,regular-season,2001-11-28,2,48,home,FALSE,Delaware,57,Blue Hens,Delaware Blue Hens,Delaware
+213320048,2002,regular-season,2001-11-28,2,2603,away,FALSE,Saint Joseph's,84,Hawks,Saint Joseph's Hawks,Saint Joseph's
+213320235,2002,regular-season,2001-11-28,2,235,home,FALSE,Memphis,86,Tigers,Memphis Tigers,Memphis
+213320235,2002,regular-season,2001-11-28,2,2131,away,FALSE,Christian Brothers,54,Buccaneers,Christian Brothers Buccaneers,Chrst Bros
+213320279,2002,regular-season,2001-11-28,2,279,home,FALSE,Pacific,65,Tigers,Pacific Tigers,Pacific
+213320279,2002,regular-season,2001-11-28,2,278,away,FALSE,Fresno State,73,Bulldogs,Fresno State Bulldogs,Fresno St

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401480033,2022-12-03,4,2579,home,FALSE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
-401480033,2022-12-03,4,235,away,FALSE,Memphis,54,Tigers,Memphis Tigers,Memphis
-401488833,2022-12-03,4,2540,home,FALSE,UC Santa Barbara,57,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-401488833,2022-12-03,4,26,away,FALSE,UCLA,68,Bruins,UCLA Bruins,UCLA
-401487977,2022-12-03,4,2483,home,FALSE,Oregon,90,Ducks,Oregon Ducks,Oregon
-401487977,2022-12-03,4,2501,away,FALSE,Portland,51,Pilots,Portland Pilots,Portland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401480033,2023,regular-season,2022-12-03,4,2579,home,FALSE,South Carolina,79,Gamecocks,South Carolina Gamecocks,South Carolina
+401480033,2023,regular-season,2022-12-03,4,235,away,FALSE,Memphis,54,Tigers,Memphis Tigers,Memphis
+401488833,2023,regular-season,2022-12-03,4,2540,home,FALSE,UC Santa Barbara,57,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+401488833,2023,regular-season,2022-12-03,4,26,away,FALSE,UCLA,68,Bruins,UCLA Bruins,UCLA
+401487977,2023,regular-season,2022-12-03,4,2483,home,FALSE,Oregon,90,Ducks,Oregon Ducks,Oregon
+401487977,2023,regular-season,2022-12-03,4,2501,away,FALSE,Portland,51,Pilots,Portland Pilots,Portland

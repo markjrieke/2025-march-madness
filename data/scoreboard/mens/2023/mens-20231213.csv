@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401577596,2023-12-13,2,2439,home,TRUE,UNLV,79,Rebels,UNLV Rebels,UNLV
-401577596,2023-12-13,2,156,away,TRUE,Creighton,64,Bluejays,Creighton Bluejays,Creighton
-401608783,2023-12-13,2,2226,home,FALSE,Florida Atlantic,94,Owls,Florida Atlantic Owls,FAU
-401608783,2023-12-13,2,2229,away,FALSE,Florida International,60,Panthers,Florida International Panthers,FIU
-401593955,2023-12-13,2,252,home,FALSE,BYU,90,Cougars,BYU Cougars,BYU
-401593955,2023-12-13,2,2172,away,FALSE,Denver,74,Pioneers,Denver Pioneers,Denver
-401581722,2023-12-13,2,77,home,FALSE,Northwestern,73,Wildcats,Northwestern Wildcats,Northwestern
-401581722,2023-12-13,2,2130,away,FALSE,Chicago State,75,Cougars,Chicago State Cougars,Chicago St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401577596,2024,regular-season,2023-12-13,2,2439,home,TRUE,UNLV,79,Rebels,UNLV Rebels,UNLV
+401577596,2024,regular-season,2023-12-13,2,156,away,TRUE,Creighton,64,Bluejays,Creighton Bluejays,Creighton
+401608783,2024,regular-season,2023-12-13,2,2226,home,FALSE,Florida Atlantic,94,Owls,Florida Atlantic Owls,FAU
+401608783,2024,regular-season,2023-12-13,2,2229,away,FALSE,Florida International,60,Panthers,Florida International Panthers,FIU
+401593955,2024,regular-season,2023-12-13,2,252,home,FALSE,BYU,90,Cougars,BYU Cougars,BYU
+401593955,2024,regular-season,2023-12-13,2,2172,away,FALSE,Denver,74,Pioneers,Denver Pioneers,Denver
+401581722,2024,regular-season,2023-12-13,2,77,home,FALSE,Northwestern,73,Wildcats,Northwestern Wildcats,Northwestern
+401581722,2024,regular-season,2023-12-13,2,2130,away,FALSE,Chicago State,75,Cougars,Chicago State Cougars,Chicago St

@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401176242,2020-01-13,2,2582,home,FALSE,Southern,56,Jaguars,Southern Jaguars,Southern
-401176242,2020-01-13,2,2296,away,FALSE,Jackson State,50,Tigers,Jackson State Tigers,Jackson St
-401200594,2020-01-13,2,172,home,FALSE,Cornell,70,Big Red,Cornell Big Red,Cornell
-401200594,2020-01-13,2,347,away,FALSE,Elmira,33,Soaring Eagles,Elmira Soaring Eagles,Elmira
-401172858,2020-01-13,2,2352,home,FALSE,Loyola Maryland,53,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-401172858,2020-01-13,2,104,away,FALSE,Boston University,85,Terriers,Boston University Terriers,Boston U
-401175773,2020-01-13,3,2379,home,FALSE,Maryland Eastern Shore,64,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-401175773,2020-01-13,3,2428,away,FALSE,North Carolina Central,69,Eagles,North Carolina Central Eagles,NC Central
-401175759,2020-01-13,3,47,home,FALSE,Howard,95,Bison,Howard Bison,Howard
-401175759,2020-01-13,3,2569,away,FALSE,South Carolina State,101,Bulldogs,South Carolina State Bulldogs,SC State
-401175715,2020-01-13,2,2169,home,FALSE,Delaware State,77,Hornets,Delaware State Hornets,Delaware St
-401175715,2020-01-13,2,2448,away,FALSE,North Carolina A&T,98,Aggies,North Carolina A&T Aggies,NC A&T
-401175679,2020-01-13,2,2065,home,FALSE,Bethune-Cookman,85,Wildcats,Bethune-Cookman Wildcats,Bethune
-401175679,2020-01-13,2,2415,away,FALSE,Morgan State,78,Bears,Morgan State Bears,Morgan St
-401175696,2020-01-13,2,50,home,FALSE,Florida A&M,65,Rattlers,Florida A&M Rattlers,Florida A&M
-401175696,2020-01-13,2,2154,away,FALSE,Coppin State,54,Eagles,Coppin State Eagles,Coppin St
-401181598,2020-01-13,2,2011,home,FALSE,Alabama State,56,Hornets,Alabama State Hornets,Alabama St
-401181598,2020-01-13,2,2029,away,FALSE,Arkansas-Pine Bluff,61,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-401176187,2020-01-13,2,2016,home,FALSE,Alcorn State,87,Braves,Alcorn State Braves,Alcorn St
-401176187,2020-01-13,2,2755,away,FALSE,Grambling,69,Tigers,Grambling Tigers,Grambling
-401176145,2020-01-13,2,2010,home,FALSE,Alabama A&M,66,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
-401176145,2020-01-13,2,2400,away,FALSE,Mississippi Valley State,72,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
-401166534,2020-01-13,2,149,home,FALSE,Montana,85,Grizzlies,Montana Grizzlies,Montana
-401166534,2020-01-13,2,2502,away,FALSE,Portland State,70,Vikings,Portland State Vikings,Portland St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401176242,2020,regular-season,2020-01-13,2,2582,home,FALSE,Southern,56,Jaguars,Southern Jaguars,Southern
+401176242,2020,regular-season,2020-01-13,2,2296,away,FALSE,Jackson State,50,Tigers,Jackson State Tigers,Jackson St
+401200594,2020,regular-season,2020-01-13,2,172,home,FALSE,Cornell,70,Big Red,Cornell Big Red,Cornell
+401200594,2020,regular-season,2020-01-13,2,347,away,FALSE,Elmira,33,Soaring Eagles,Elmira Soaring Eagles,Elmira
+401172858,2020,regular-season,2020-01-13,2,2352,home,FALSE,Loyola Maryland,53,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+401172858,2020,regular-season,2020-01-13,2,104,away,FALSE,Boston University,85,Terriers,Boston University Terriers,Boston U
+401175773,2020,regular-season,2020-01-13,3,2379,home,FALSE,Maryland Eastern Shore,64,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+401175773,2020,regular-season,2020-01-13,3,2428,away,FALSE,North Carolina Central,69,Eagles,North Carolina Central Eagles,NC Central
+401175759,2020,regular-season,2020-01-13,3,47,home,FALSE,Howard,95,Bison,Howard Bison,Howard
+401175759,2020,regular-season,2020-01-13,3,2569,away,FALSE,South Carolina State,101,Bulldogs,South Carolina State Bulldogs,SC State
+401175715,2020,regular-season,2020-01-13,2,2169,home,FALSE,Delaware State,77,Hornets,Delaware State Hornets,Delaware St
+401175715,2020,regular-season,2020-01-13,2,2448,away,FALSE,North Carolina A&T,98,Aggies,North Carolina A&T Aggies,NC A&T
+401175679,2020,regular-season,2020-01-13,2,2065,home,FALSE,Bethune-Cookman,85,Wildcats,Bethune-Cookman Wildcats,Bethune
+401175679,2020,regular-season,2020-01-13,2,2415,away,FALSE,Morgan State,78,Bears,Morgan State Bears,Morgan St
+401175696,2020,regular-season,2020-01-13,2,50,home,FALSE,Florida A&M,65,Rattlers,Florida A&M Rattlers,Florida A&M
+401175696,2020,regular-season,2020-01-13,2,2154,away,FALSE,Coppin State,54,Eagles,Coppin State Eagles,Coppin St
+401181598,2020,regular-season,2020-01-13,2,2011,home,FALSE,Alabama State,56,Hornets,Alabama State Hornets,Alabama St
+401181598,2020,regular-season,2020-01-13,2,2029,away,FALSE,Arkansas-Pine Bluff,61,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+401176187,2020,regular-season,2020-01-13,2,2016,home,FALSE,Alcorn State,87,Braves,Alcorn State Braves,Alcorn St
+401176187,2020,regular-season,2020-01-13,2,2755,away,FALSE,Grambling,69,Tigers,Grambling Tigers,Grambling
+401176145,2020,regular-season,2020-01-13,2,2010,home,FALSE,Alabama A&M,66,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+401176145,2020,regular-season,2020-01-13,2,2400,away,FALSE,Mississippi Valley State,72,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
+401166534,2020,regular-season,2020-01-13,2,149,home,FALSE,Montana,85,Grizzlies,Montana Grizzlies,Montana
+401166534,2020,regular-season,2020-01-13,2,2502,away,FALSE,Portland State,70,Vikings,Portland State Vikings,Portland St

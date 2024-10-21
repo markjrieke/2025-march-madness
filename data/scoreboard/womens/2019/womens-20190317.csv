@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401121556,2019-03-17,4,2083,home,FALSE,Bucknell,66,Bison,Bucknell Bison,Bucknell
-401121556,2019-03-17,4,44,away,FALSE,American University,54,Eagles,American University Eagles,American
-401121570,2019-03-17,4,2523,home,FALSE,Robert Morris,65,Colonials,Robert Morris Colonials,Robert Morris
-401121570,2019-03-17,4,2598,away,FALSE,St. Francis (PA),54,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-401121304,2019-03-17,4,2515,home,FALSE,Radford,57,Highlanders,Radford Highlanders,Radford
-401121304,2019-03-17,4,2097,away,FALSE,Campbell,45,Fighting Camels,Campbell Fighting Camels,Campbell
-401121268,2019-03-17,4,2000,home,TRUE,Abilene Christian,69,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
-401121268,2019-03-17,4,357,away,TRUE,Texas A&M-Corpus Christi,68,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-401121481,2019-03-17,4,2181,home,TRUE,Drake,79,Bulldogs,Drake Bulldogs,Drake
-401121481,2019-03-17,4,2623,away,TRUE,Missouri State,94,Lady Bears,Missouri State Lady Bears,Missouri St
-401121407,2019-03-17,4,526,home,FALSE,Florida Gulf Coast,72,Eagles,Florida Gulf Coast Eagles,FGCU
-401121407,2019-03-17,4,2335,away,FALSE,Liberty,49,Flames,Liberty Flames,Liberty
-401121424,2019-03-17,4,163,home,TRUE,Princeton,65,Tigers,Princeton Tigers,Princeton
-401121424,2019-03-17,4,219,away,TRUE,Pennsylvania,54,Quakers,Pennsylvania Quakers,Penn
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401121556,2019,regular-season,2019-03-17,4,2083,home,FALSE,Bucknell,66,Bison,Bucknell Bison,Bucknell
+401121556,2019,regular-season,2019-03-17,4,44,away,FALSE,American University,54,Eagles,American University Eagles,American
+401121570,2019,regular-season,2019-03-17,4,2523,home,FALSE,Robert Morris,65,Colonials,Robert Morris Colonials,Robert Morris
+401121570,2019,regular-season,2019-03-17,4,2598,away,FALSE,St. Francis (PA),54,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+401121304,2019,regular-season,2019-03-17,4,2515,home,FALSE,Radford,57,Highlanders,Radford Highlanders,Radford
+401121304,2019,regular-season,2019-03-17,4,2097,away,FALSE,Campbell,45,Fighting Camels,Campbell Fighting Camels,Campbell
+401121268,2019,regular-season,2019-03-17,4,2000,home,TRUE,Abilene Christian,69,Wildcats,Abilene Christian Wildcats,Abilene Chrstn
+401121268,2019,regular-season,2019-03-17,4,357,away,TRUE,Texas A&M-Corpus Christi,68,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+401121481,2019,regular-season,2019-03-17,4,2181,home,TRUE,Drake,79,Bulldogs,Drake Bulldogs,Drake
+401121481,2019,regular-season,2019-03-17,4,2623,away,TRUE,Missouri State,94,Lady Bears,Missouri State Lady Bears,Missouri St
+401121407,2019,regular-season,2019-03-17,4,526,home,FALSE,Florida Gulf Coast,72,Eagles,Florida Gulf Coast Eagles,FGCU
+401121407,2019,regular-season,2019-03-17,4,2335,away,FALSE,Liberty,49,Flames,Liberty Flames,Liberty
+401121424,2019,regular-season,2019-03-17,4,163,home,TRUE,Princeton,65,Tigers,Princeton Tigers,Princeton
+401121424,2019,regular-season,2019-03-17,4,219,away,TRUE,Pennsylvania,54,Quakers,Pennsylvania Quakers,Penn

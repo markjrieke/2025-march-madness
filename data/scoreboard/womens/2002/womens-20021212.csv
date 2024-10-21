@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-223462739,2002-12-12,2,2739,home,FALSE,Green Bay,75,Phoenix,Green Bay Phoenix,Green Bay
-223462739,2002-12-12,2,2306,away,FALSE,Kansas State,80,Wildcats,Kansas State Wildcats,Kansas St
-223460111,2002-12-12,2,111,home,FALSE,Northeastern,48,Huskies,Northeastern Huskies,Northeastern
-223460111,2002-12-12,2,103,away,FALSE,Boston College,86,Eagles,Boston College Eagles,Boston College
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+223462739,2003,regular-season,2002-12-12,2,2739,home,FALSE,Green Bay,75,Phoenix,Green Bay Phoenix,Green Bay
+223462739,2003,regular-season,2002-12-12,2,2306,away,FALSE,Kansas State,80,Wildcats,Kansas State Wildcats,Kansas St
+223460111,2003,regular-season,2002-12-12,2,111,home,FALSE,Northeastern,48,Huskies,Northeastern Huskies,Northeastern
+223460111,2003,regular-season,2002-12-12,2,103,away,FALSE,Boston College,86,Eagles,Boston College Eagles,Boston College

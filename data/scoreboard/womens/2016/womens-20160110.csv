@@ -1,39 +1,39 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400834762,2016-01-10,4,58,home,FALSE,South Florida,59,Bulls,South Florida Bulls,South Florida
-400834762,2016-01-10,4,41,away,FALSE,UConn,75,Huskies,UConn Huskies,UConn
-400831591,2016-01-10,4,2579,home,FALSE,South Carolina,83,Gamecocks,South Carolina Gamecocks,South Carolina
-400831591,2016-01-10,4,142,away,FALSE,Missouri,58,Tigers,Missouri Tigers,Missouri
-400842274,2016-01-10,4,87,home,FALSE,Notre Dame,88,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400842274,2016-01-10,4,153,away,FALSE,North Carolina,54,Tar Heels,North Carolina Tar Heels,North Carolina
-400834929,2016-01-10,4,194,home,FALSE,Ohio State,90,Buckeyes,Ohio State Buckeyes,Ohio State
-400834929,2016-01-10,4,164,away,FALSE,Rutgers,78,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400831486,2016-01-10,4,344,home,FALSE,Mississippi State,80,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400831486,2016-01-10,4,8,away,FALSE,Arkansas,55,Razorbacks,Arkansas Razorbacks,Arkansas
-400834834,2016-01-10,4,2294,home,FALSE,Iowa,56,Hawkeyes,Iowa Hawkeyes,Iowa
-400834834,2016-01-10,4,120,away,FALSE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
-400845204,2016-01-10,4,24,home,FALSE,Stanford,71,Cardinal,Stanford Cardinal,Stanford
-400845204,2016-01-10,4,38,away,FALSE,Colorado,56,Buffaloes,Colorado Buffaloes,Colorado
-400831589,2016-01-10,4,61,home,FALSE,Georgia,53,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-400831589,2016-01-10,4,96,away,FALSE,Kentucky,64,Wildcats,Kentucky Wildcats,Kentucky
-400845219,2016-01-10,4,2483,home,FALSE,Oregon,45,Ducks,Oregon Ducks,Oregon
-400845219,2016-01-10,4,204,away,FALSE,Oregon State,59,Beavers,Oregon State Beavers,Oregon St
-400831587,2016-01-10,4,2633,home,FALSE,Tennessee,79,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400831587,2016-01-10,4,2,away,FALSE,Auburn,52,Tigers,Auburn Tigers,Auburn
-400831590,2016-01-10,4,99,home,FALSE,LSU,35,Tigers,LSU Tigers,LSU
-400831590,2016-01-10,4,245,away,FALSE,Texas A&M,53,Aggies,Texas A&M Aggies,Texas A&M
-400845176,2016-01-10,4,265,home,FALSE,Washington State,45,Cougars,Washington State Cougars,Washington St
-400845176,2016-01-10,4,9,away,FALSE,Arizona State,63,Sun Devils,Arizona State Sun Devils,Arizona St
-400845240,2016-01-10,4,30,home,FALSE,USC,71,Trojans,USC Trojans,USC
-400845240,2016-01-10,4,26,away,FALSE,UCLA,68,Bruins,UCLA Bruins,UCLA
-400834885,2016-01-10,4,127,home,FALSE,Michigan State,74,Spartans,Michigan State Spartans,Michigan St
-400834885,2016-01-10,4,77,away,FALSE,Northwestern,51,Wildcats,Northwestern Wildcats,Northwestern
-400832349,2016-01-10,4,201,home,FALSE,Oklahoma,68,Sooners,Oklahoma Sooners,Oklahoma
-400832349,2016-01-10,4,2306,away,FALSE,Kansas State,58,Wildcats,Kansas State Wildcats,Kansas St
-400842635,2016-01-10,4,97,home,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
-400842635,2016-01-10,4,150,away,FALSE,Duke,48,Blue Devils,Duke Blue Devils,Duke
-400842637,2016-01-10,4,52,home,FALSE,Florida State,75,Seminoles,Florida State Seminoles,Florida St
-400842637,2016-01-10,4,59,away,FALSE,Georgia Tech,69,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-400845189,2016-01-10,4,25,home,FALSE,California,79,Golden Bears,California Golden Bears,California
-400845189,2016-01-10,4,254,away,FALSE,Utah,84,Utes,Utah Utes,Utah
-400842357,2016-01-10,4,305,home,FALSE,DePaul,60,Blue Demons,DePaul Blue Demons,DePaul
-400842357,2016-01-10,4,222,away,FALSE,Villanova,64,Wildcats,Villanova Wildcats,Villanova
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400834762,2016,regular-season,2016-01-10,4,58,home,FALSE,South Florida,59,Bulls,South Florida Bulls,South Florida
+400834762,2016,regular-season,2016-01-10,4,41,away,FALSE,UConn,75,Huskies,UConn Huskies,UConn
+400831591,2016,regular-season,2016-01-10,4,2579,home,FALSE,South Carolina,83,Gamecocks,South Carolina Gamecocks,South Carolina
+400831591,2016,regular-season,2016-01-10,4,142,away,FALSE,Missouri,58,Tigers,Missouri Tigers,Missouri
+400842274,2016,regular-season,2016-01-10,4,87,home,FALSE,Notre Dame,88,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400842274,2016,regular-season,2016-01-10,4,153,away,FALSE,North Carolina,54,Tar Heels,North Carolina Tar Heels,North Carolina
+400834929,2016,regular-season,2016-01-10,4,194,home,FALSE,Ohio State,90,Buckeyes,Ohio State Buckeyes,Ohio State
+400834929,2016,regular-season,2016-01-10,4,164,away,FALSE,Rutgers,78,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400831486,2016,regular-season,2016-01-10,4,344,home,FALSE,Mississippi State,80,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400831486,2016,regular-season,2016-01-10,4,8,away,FALSE,Arkansas,55,Razorbacks,Arkansas Razorbacks,Arkansas
+400834834,2016,regular-season,2016-01-10,4,2294,home,FALSE,Iowa,56,Hawkeyes,Iowa Hawkeyes,Iowa
+400834834,2016,regular-season,2016-01-10,4,120,away,FALSE,Maryland,76,Terrapins,Maryland Terrapins,Maryland
+400845204,2016,regular-season,2016-01-10,4,24,home,FALSE,Stanford,71,Cardinal,Stanford Cardinal,Stanford
+400845204,2016,regular-season,2016-01-10,4,38,away,FALSE,Colorado,56,Buffaloes,Colorado Buffaloes,Colorado
+400831589,2016,regular-season,2016-01-10,4,61,home,FALSE,Georgia,53,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+400831589,2016,regular-season,2016-01-10,4,96,away,FALSE,Kentucky,64,Wildcats,Kentucky Wildcats,Kentucky
+400845219,2016,regular-season,2016-01-10,4,2483,home,FALSE,Oregon,45,Ducks,Oregon Ducks,Oregon
+400845219,2016,regular-season,2016-01-10,4,204,away,FALSE,Oregon State,59,Beavers,Oregon State Beavers,Oregon St
+400831587,2016,regular-season,2016-01-10,4,2633,home,FALSE,Tennessee,79,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400831587,2016,regular-season,2016-01-10,4,2,away,FALSE,Auburn,52,Tigers,Auburn Tigers,Auburn
+400831590,2016,regular-season,2016-01-10,4,99,home,FALSE,LSU,35,Tigers,LSU Tigers,LSU
+400831590,2016,regular-season,2016-01-10,4,245,away,FALSE,Texas A&M,53,Aggies,Texas A&M Aggies,Texas A&M
+400845176,2016,regular-season,2016-01-10,4,265,home,FALSE,Washington State,45,Cougars,Washington State Cougars,Washington St
+400845176,2016,regular-season,2016-01-10,4,9,away,FALSE,Arizona State,63,Sun Devils,Arizona State Sun Devils,Arizona St
+400845240,2016,regular-season,2016-01-10,4,30,home,FALSE,USC,71,Trojans,USC Trojans,USC
+400845240,2016,regular-season,2016-01-10,4,26,away,FALSE,UCLA,68,Bruins,UCLA Bruins,UCLA
+400834885,2016,regular-season,2016-01-10,4,127,home,FALSE,Michigan State,74,Spartans,Michigan State Spartans,Michigan St
+400834885,2016,regular-season,2016-01-10,4,77,away,FALSE,Northwestern,51,Wildcats,Northwestern Wildcats,Northwestern
+400832349,2016,regular-season,2016-01-10,4,201,home,FALSE,Oklahoma,68,Sooners,Oklahoma Sooners,Oklahoma
+400832349,2016,regular-season,2016-01-10,4,2306,away,FALSE,Kansas State,58,Wildcats,Kansas State Wildcats,Kansas St
+400842635,2016,regular-season,2016-01-10,4,97,home,FALSE,Louisville,65,Cardinals,Louisville Cardinals,Louisville
+400842635,2016,regular-season,2016-01-10,4,150,away,FALSE,Duke,48,Blue Devils,Duke Blue Devils,Duke
+400842637,2016,regular-season,2016-01-10,4,52,home,FALSE,Florida State,75,Seminoles,Florida State Seminoles,Florida St
+400842637,2016,regular-season,2016-01-10,4,59,away,FALSE,Georgia Tech,69,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+400845189,2016,regular-season,2016-01-10,4,25,home,FALSE,California,79,Golden Bears,California Golden Bears,California
+400845189,2016,regular-season,2016-01-10,4,254,away,FALSE,Utah,84,Utes,Utah Utes,Utah
+400842357,2016,regular-season,2016-01-10,4,305,home,FALSE,DePaul,60,Blue Demons,DePaul Blue Demons,DePaul
+400842357,2016,regular-season,2016-01-10,4,222,away,FALSE,Villanova,64,Wildcats,Villanova Wildcats,Villanova

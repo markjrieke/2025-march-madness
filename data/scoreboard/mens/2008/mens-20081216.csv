@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-283510251,2008-12-16,2,251,home,FALSE,Texas,88,Longhorns,Texas Longhorns,Texas
-283510251,2008-12-16,2,2640,away,FALSE,Texas Southern,72,Tigers,Texas Southern Tigers,Texas Southern
-283512633,2008-12-16,2,2633,home,TRUE,Tennessee,80,Volunteers,Tennessee Volunteers,Tennessee
-283512633,2008-12-16,2,269,away,TRUE,Marquette,68,Golden Eagles,Marquette Golden Eagles,Marquette
-283510228,2008-12-16,2,228,home,FALSE,Clemson,76,Tigers,Clemson Tigers,Clemson
-283510228,2008-12-16,2,2454,away,FALSE,North Florida,36,Ospreys,North Florida Ospreys,North Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283510251,2009,regular-season,2008-12-16,2,251,home,FALSE,Texas,88,Longhorns,Texas Longhorns,Texas
+283510251,2009,regular-season,2008-12-16,2,2640,away,FALSE,Texas Southern,72,Tigers,Texas Southern Tigers,Texas Southern
+283512633,2009,regular-season,2008-12-16,2,2633,home,TRUE,Tennessee,80,Volunteers,Tennessee Volunteers,Tennessee
+283512633,2009,regular-season,2008-12-16,2,269,away,TRUE,Marquette,68,Golden Eagles,Marquette Golden Eagles,Marquette
+283510228,2009,regular-season,2008-12-16,2,228,home,FALSE,Clemson,76,Tigers,Clemson Tigers,Clemson
+283510228,2009,regular-season,2008-12-16,2,2454,away,FALSE,North Florida,36,Ospreys,North Florida Ospreys,North Florida

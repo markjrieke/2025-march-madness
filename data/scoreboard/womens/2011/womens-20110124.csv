@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310240052,2011-01-24,2,52,home,FALSE,Florida State,66,Seminoles,Florida State Seminoles,Florida St
-310240052,2011-01-24,2,2390,away,FALSE,Miami,59,Hurricanes,Miami Hurricanes,Miami
-310240194,2011-01-24,2,194,home,FALSE,Ohio State,81,Buckeyes,Ohio State Buckeyes,Ohio State
-310240194,2011-01-24,2,2294,away,FALSE,Iowa,67,Hawkeyes,Iowa Hawkeyes,Iowa
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310240052,2011,regular-season,2011-01-24,2,52,home,FALSE,Florida State,66,Seminoles,Florida State Seminoles,Florida St
+310240052,2011,regular-season,2011-01-24,2,2390,away,FALSE,Miami,59,Hurricanes,Miami Hurricanes,Miami
+310240194,2011,regular-season,2011-01-24,2,194,home,FALSE,Ohio State,81,Buckeyes,Ohio State Buckeyes,Ohio State
+310240194,2011,regular-season,2011-01-24,2,2294,away,FALSE,Iowa,67,Hawkeyes,Iowa Hawkeyes,Iowa

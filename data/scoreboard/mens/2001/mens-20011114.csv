@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213180142,2001-11-14,2,142,home,FALSE,Missouri,86,Tigers,Missouri Tigers,Missouri
-213180142,2001-11-14,2,2005,away,FALSE,Air Force,58,Falcons,Air Force Falcons,Air Force
-213182294,2001-11-14,2,2294,home,FALSE,Iowa,90,Hawkeyes,Iowa Hawkeyes,Iowa
-213182294,2001-11-14,2,104,away,FALSE,Boston University,61,Terriers,Boston University Terriers,Boston U
-213180235,2001-11-14,2,235,home,FALSE,Memphis,91,Tigers,Memphis Tigers,Memphis
-213180235,2001-11-14,2,295,away,FALSE,Old Dominion,66,Monarchs,Old Dominion Monarchs,Old Dominion
-213180127,2001-11-14,2,127,home,FALSE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
-213180127,2001-11-14,2,201,away,FALSE,Oklahoma,55,Sooners,Oklahoma Sooners,Oklahoma
-213180183,2001-11-14,2,183,home,FALSE,Syracuse,74,Orange,Syracuse Orange,Syracuse
-213180183,2001-11-14,2,305,away,FALSE,DePaul,60,Blue Demons,DePaul Blue Demons,DePaul
-213180333,2001-11-14,2,333,home,FALSE,Alabama,83,Crimson Tide,Alabama Crimson Tide,Alabama
-213180333,2001-11-14,2,2535,away,FALSE,Samford,51,Bulldogs,Samford Bulldogs,Samford
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213180142,2002,regular-season,2001-11-14,2,142,home,FALSE,Missouri,86,Tigers,Missouri Tigers,Missouri
+213180142,2002,regular-season,2001-11-14,2,2005,away,FALSE,Air Force,58,Falcons,Air Force Falcons,Air Force
+213182294,2002,regular-season,2001-11-14,2,2294,home,FALSE,Iowa,90,Hawkeyes,Iowa Hawkeyes,Iowa
+213182294,2002,regular-season,2001-11-14,2,104,away,FALSE,Boston University,61,Terriers,Boston University Terriers,Boston U
+213180235,2002,regular-season,2001-11-14,2,235,home,FALSE,Memphis,91,Tigers,Memphis Tigers,Memphis
+213180235,2002,regular-season,2001-11-14,2,295,away,FALSE,Old Dominion,66,Monarchs,Old Dominion Monarchs,Old Dominion
+213180127,2002,regular-season,2001-11-14,2,127,home,FALSE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
+213180127,2002,regular-season,2001-11-14,2,201,away,FALSE,Oklahoma,55,Sooners,Oklahoma Sooners,Oklahoma
+213180183,2002,regular-season,2001-11-14,2,183,home,FALSE,Syracuse,74,Orange,Syracuse Orange,Syracuse
+213180183,2002,regular-season,2001-11-14,2,305,away,FALSE,DePaul,60,Blue Demons,DePaul Blue Demons,DePaul
+213180333,2002,regular-season,2001-11-14,2,333,home,FALSE,Alabama,83,Crimson Tide,Alabama Crimson Tide,Alabama
+213180333,2002,regular-season,2001-11-14,2,2535,away,FALSE,Samford,51,Bulldogs,Samford Bulldogs,Samford

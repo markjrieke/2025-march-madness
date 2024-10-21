@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400986351,2017-11-15,2,135,home,FALSE,Minnesota,107,Golden Gophers,Minnesota Golden Gophers,Minnesota
-400986351,2017-11-15,2,315,away,FALSE,Niagara,81,Purple Eagles,Niagara Purple Eagles,Niagara
-400992445,2017-11-15,2,2608,home,FALSE,Saint Mary's,76,Gaels,Saint Mary's Gaels,Saint Mary's
-400992445,2017-11-15,2,2239,away,FALSE,Cal State Fullerton,57,Titans,Cal State Fullerton Titans,Fullerton
-400989275,2017-11-15,2,277,home,FALSE,West Virginia,98,Mountaineers,West Virginia Mountaineers,West Virginia
-400989275,2017-11-15,2,44,away,FALSE,American University,64,Eagles,American University Eagles,American
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400986351,2018,regular-season,2017-11-15,2,135,home,FALSE,Minnesota,107,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400986351,2018,regular-season,2017-11-15,2,315,away,FALSE,Niagara,81,Purple Eagles,Niagara Purple Eagles,Niagara
+400992445,2018,regular-season,2017-11-15,2,2608,home,FALSE,Saint Mary's,76,Gaels,Saint Mary's Gaels,Saint Mary's
+400992445,2018,regular-season,2017-11-15,2,2239,away,FALSE,Cal State Fullerton,57,Titans,Cal State Fullerton Titans,Fullerton
+400989275,2018,regular-season,2017-11-15,2,277,home,FALSE,West Virginia,98,Mountaineers,West Virginia Mountaineers,West Virginia
+400989275,2018,regular-season,2017-11-15,2,44,away,FALSE,American University,64,Eagles,American University Eagles,American

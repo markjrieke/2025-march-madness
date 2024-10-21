@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323542579,2012-12-19,2,2579,home,FALSE,South Carolina,49,Gamecocks,South Carolina Gamecocks,South Carolina
-323542579,2012-12-19,2,24,away,FALSE,Stanford,53,Cardinal,Stanford Cardinal,Stanford
-323540041,2012-12-19,2,41,home,FALSE,UConn,97,Huskies,UConn Huskies,UConn
-323540041,2012-12-19,2,2473,away,FALSE,Oakland,25,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-323542628,2012-12-19,2,2628,home,FALSE,TCU,59,Horned Frogs,TCU Horned Frogs,TCU
-323542628,2012-12-19,2,61,away,FALSE,Georgia,72,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-323540052,2012-12-19,2,52,home,FALSE,Florida State,94,Seminoles,Florida State Seminoles,Florida St
-323540052,2012-12-19,2,2382,away,FALSE,Mercer,42,Bears,Mercer Bears,Mercer
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323542579,2013,regular-season,2012-12-19,2,2579,home,FALSE,South Carolina,49,Gamecocks,South Carolina Gamecocks,South Carolina
+323542579,2013,regular-season,2012-12-19,2,24,away,FALSE,Stanford,53,Cardinal,Stanford Cardinal,Stanford
+323540041,2013,regular-season,2012-12-19,2,41,home,FALSE,UConn,97,Huskies,UConn Huskies,UConn
+323540041,2013,regular-season,2012-12-19,2,2473,away,FALSE,Oakland,25,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+323542628,2013,regular-season,2012-12-19,2,2628,home,FALSE,TCU,59,Horned Frogs,TCU Horned Frogs,TCU
+323542628,2013,regular-season,2012-12-19,2,61,away,FALSE,Georgia,72,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+323540052,2013,regular-season,2012-12-19,2,52,home,FALSE,Florida State,94,Seminoles,Florida State Seminoles,Florida St
+323540052,2013,regular-season,2012-12-19,2,2382,away,FALSE,Mercer,42,Bears,Mercer Bears,Mercer

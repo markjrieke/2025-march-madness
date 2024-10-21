@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323460119,2012-12-11,2,119,home,FALSE,Towson,43,Tigers,Towson Tigers,Towson
-323460119,2012-12-11,2,120,away,FALSE,Maryland,88,Terrapins,Maryland Terrapins,Maryland
-323460251,2012-12-11,2,251,home,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
-323460251,2012-12-11,2,2433,away,FALSE,UL Monroe,49,Warhawks,UL Monroe Warhawks,UL Monroe
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323460119,2013,regular-season,2012-12-11,2,119,home,FALSE,Towson,43,Tigers,Towson Tigers,Towson
+323460119,2013,regular-season,2012-12-11,2,120,away,FALSE,Maryland,88,Terrapins,Maryland Terrapins,Maryland
+323460251,2013,regular-season,2012-12-11,2,251,home,FALSE,Texas,77,Longhorns,Texas Longhorns,Texas
+323460251,2013,regular-season,2012-12-11,2,2433,away,FALSE,UL Monroe,49,Warhawks,UL Monroe Warhawks,UL Monroe

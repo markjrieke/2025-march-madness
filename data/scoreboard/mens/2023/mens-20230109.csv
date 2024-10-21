@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401491908,2023-01-09,2,2016,home,FALSE,Alcorn State,92,Braves,Alcorn State Braves,Alcorn St
-401491908,2023-01-09,2,2011,away,FALSE,Alabama State,76,Hornets,Alabama State Hornets,Alabama St
-401496881,2023-01-09,2,2415,home,FALSE,Morgan State,90,Bears,Morgan State Bears,Morgan St
-401496881,2023-01-09,2,2569,away,FALSE,South Carolina State,85,Bulldogs,South Carolina State Bulldogs,SC State
-401490554,2023-01-09,2,349,home,FALSE,Army,75,Black Knights,Army Black Knights,Army
-401490554,2023-01-09,2,2142,away,FALSE,Colgate,77,Raiders,Colgate Raiders,Colgate
-401470006,2023-01-09,2,2523,home,FALSE,Robert Morris,77,Colonials,Robert Morris Colonials,Robert Morris
-401470006,2023-01-09,2,85,away,FALSE,IU Indianapolis,70,Jaguars,IU Indianapolis Jaguars,IU Indy
-401490453,2023-01-09,2,2154,home,FALSE,Coppin State,59,Eagles,Coppin State Eagles,Coppin St
-401490453,2023-01-09,2,2428,away,FALSE,North Carolina Central,64,Eagles,North Carolina Central Eagles,NC Central
-401493624,2023-01-09,2,2130,home,FALSE,Chicago State,90,Cougars,Chicago State Cougars,Chicago St
-401493624,2023-01-09,2,3107,away,FALSE,East-West University,70,Phantoms,East-West University Phantoms,East-West
-401492355,2023-01-09,2,2379,home,FALSE,Maryland Eastern Shore,82,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-401492355,2023-01-09,2,47,away,FALSE,Howard,73,Bison,Howard Bison,Howard
-401485483,2023-01-09,2,2169,home,FALSE,Delaware State,65,Hornets,Delaware State Hornets,Delaware St
-401485483,2023-01-09,2,2450,away,FALSE,Norfolk State,78,Spartans,Norfolk State Spartans,Norfolk St
-401518890,2023-01-09,2,167,home,FALSE,New Mexico,82,Lobos,New Mexico Lobos,New Mexico
-401518890,2023-01-09,2,198,away,FALSE,Oral Roberts,75,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-401494473,2023-01-09,2,2296,home,FALSE,Jackson State,72,Tigers,Jackson State Tigers,Jackson St
-401494473,2023-01-09,2,2010,away,FALSE,Alabama A&M,64,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
-401493725,2023-01-09,2,2400,home,FALSE,Mississippi Valley State,71,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
-401493725,2023-01-09,2,2640,away,FALSE,Texas Southern,67,Tigers,Texas Southern Tigers,Texas Southern
-401492232,2023-01-09,2,2755,home,FALSE,Grambling,62,Tigers,Grambling Tigers,Grambling
-401492232,2023-01-09,2,50,away,FALSE,Florida A&M,57,Rattlers,Florida A&M Rattlers,Florida A&M
-401492210,2023-01-09,2,2582,home,FALSE,Southern,102,Jaguars,Southern Jaguars,Southern
-401492210,2023-01-09,2,2065,away,FALSE,Bethune-Cookman,75,Wildcats,Bethune-Cookman Wildcats,Bethune
-401494484,2023-01-09,2,2029,home,FALSE,Arkansas-Pine Bluff,63,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-401494484,2023-01-09,2,2504,away,FALSE,Prairie View A&M,55,Panthers,Prairie View A&M Panthers,Prairie View
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401491908,2023,regular-season,2023-01-09,2,2016,home,FALSE,Alcorn State,92,Braves,Alcorn State Braves,Alcorn St
+401491908,2023,regular-season,2023-01-09,2,2011,away,FALSE,Alabama State,76,Hornets,Alabama State Hornets,Alabama St
+401496881,2023,regular-season,2023-01-09,2,2415,home,FALSE,Morgan State,90,Bears,Morgan State Bears,Morgan St
+401496881,2023,regular-season,2023-01-09,2,2569,away,FALSE,South Carolina State,85,Bulldogs,South Carolina State Bulldogs,SC State
+401490554,2023,regular-season,2023-01-09,2,349,home,FALSE,Army,75,Black Knights,Army Black Knights,Army
+401490554,2023,regular-season,2023-01-09,2,2142,away,FALSE,Colgate,77,Raiders,Colgate Raiders,Colgate
+401470006,2023,regular-season,2023-01-09,2,2523,home,FALSE,Robert Morris,77,Colonials,Robert Morris Colonials,Robert Morris
+401470006,2023,regular-season,2023-01-09,2,85,away,FALSE,IU Indianapolis,70,Jaguars,IU Indianapolis Jaguars,IU Indy
+401490453,2023,regular-season,2023-01-09,2,2154,home,FALSE,Coppin State,59,Eagles,Coppin State Eagles,Coppin St
+401490453,2023,regular-season,2023-01-09,2,2428,away,FALSE,North Carolina Central,64,Eagles,North Carolina Central Eagles,NC Central
+401493624,2023,regular-season,2023-01-09,2,2130,home,FALSE,Chicago State,90,Cougars,Chicago State Cougars,Chicago St
+401493624,2023,regular-season,2023-01-09,2,3107,away,FALSE,East-West University,70,Phantoms,East-West University Phantoms,East-West
+401492355,2023,regular-season,2023-01-09,2,2379,home,FALSE,Maryland Eastern Shore,82,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+401492355,2023,regular-season,2023-01-09,2,47,away,FALSE,Howard,73,Bison,Howard Bison,Howard
+401485483,2023,regular-season,2023-01-09,2,2169,home,FALSE,Delaware State,65,Hornets,Delaware State Hornets,Delaware St
+401485483,2023,regular-season,2023-01-09,2,2450,away,FALSE,Norfolk State,78,Spartans,Norfolk State Spartans,Norfolk St
+401518890,2023,regular-season,2023-01-09,2,167,home,FALSE,New Mexico,82,Lobos,New Mexico Lobos,New Mexico
+401518890,2023,regular-season,2023-01-09,2,198,away,FALSE,Oral Roberts,75,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+401494473,2023,regular-season,2023-01-09,2,2296,home,FALSE,Jackson State,72,Tigers,Jackson State Tigers,Jackson St
+401494473,2023,regular-season,2023-01-09,2,2010,away,FALSE,Alabama A&M,64,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+401493725,2023,regular-season,2023-01-09,2,2400,home,FALSE,Mississippi Valley State,71,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
+401493725,2023,regular-season,2023-01-09,2,2640,away,FALSE,Texas Southern,67,Tigers,Texas Southern Tigers,Texas Southern
+401492232,2023,regular-season,2023-01-09,2,2755,home,FALSE,Grambling,62,Tigers,Grambling Tigers,Grambling
+401492232,2023,regular-season,2023-01-09,2,50,away,FALSE,Florida A&M,57,Rattlers,Florida A&M Rattlers,Florida A&M
+401492210,2023,regular-season,2023-01-09,2,2582,home,FALSE,Southern,102,Jaguars,Southern Jaguars,Southern
+401492210,2023,regular-season,2023-01-09,2,2065,away,FALSE,Bethune-Cookman,75,Wildcats,Bethune-Cookman Wildcats,Bethune
+401494484,2023,regular-season,2023-01-09,2,2029,home,FALSE,Arkansas-Pine Bluff,63,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+401494484,2023,regular-season,2023-01-09,2,2504,away,FALSE,Prairie View A&M,55,Panthers,Prairie View A&M Panthers,Prairie View

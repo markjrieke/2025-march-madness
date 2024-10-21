@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253550150,2005-12-21,2,150,home,FALSE,Duke,70,Blue Devils,Duke Blue Devils,Duke
-253550150,2005-12-21,2,2599,away,FALSE,St. John's,57,Red Storm,St. John's Red Storm,St John's
-253550356,2005-12-21,2,356,home,FALSE,Illinois,82,Fighting Illini,Illinois Fighting Illini,Illinois
-253550356,2005-12-21,2,142,away,FALSE,Missouri,50,Tigers,Missouri Tigers,Missouri
-253552739,2005-12-21,2,2739,home,FALSE,Green Bay,69,Phoenix,Green Bay Phoenix,Green Bay
-253552739,2005-12-21,2,127,away,FALSE,Michigan State,98,Spartans,Michigan State Spartans,Michigan St
-253550097,2005-12-21,2,97,home,FALSE,Louisville,78,Cardinals,Louisville Cardinals,Louisville
-253550097,2005-12-21,2,232,away,FALSE,Charleston,63,Cougars,Charleston Cougars,Charleston
-253550026,2005-12-21,2,26,home,FALSE,UCLA,74,Bruins,UCLA Bruins,UCLA
-253550026,2005-12-21,2,2681,away,FALSE,Wagner,72,Seahawks,Wagner Seahawks,Wagner
-253550030,2005-12-21,2,30,home,FALSE,USC,74,Trojans,USC Trojans,USC
-253550030,2005-12-21,2,153,away,FALSE,North Carolina,59,Tar Heels,North Carolina Tar Heels,North Carolina
-253552440,2005-12-21,2,2440,home,FALSE,Nevada,68,Wolf Pack,Nevada Wolf Pack,Nevada
-253552440,2005-12-21,2,61,away,FALSE,Georgia,62,Bulldogs,Georgia Bulldogs,Georgia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253550150,2006,regular-season,2005-12-21,2,150,home,FALSE,Duke,70,Blue Devils,Duke Blue Devils,Duke
+253550150,2006,regular-season,2005-12-21,2,2599,away,FALSE,St. John's,57,Red Storm,St. John's Red Storm,St John's
+253550356,2006,regular-season,2005-12-21,2,356,home,FALSE,Illinois,82,Fighting Illini,Illinois Fighting Illini,Illinois
+253550356,2006,regular-season,2005-12-21,2,142,away,FALSE,Missouri,50,Tigers,Missouri Tigers,Missouri
+253552739,2006,regular-season,2005-12-21,2,2739,home,FALSE,Green Bay,69,Phoenix,Green Bay Phoenix,Green Bay
+253552739,2006,regular-season,2005-12-21,2,127,away,FALSE,Michigan State,98,Spartans,Michigan State Spartans,Michigan St
+253550097,2006,regular-season,2005-12-21,2,97,home,FALSE,Louisville,78,Cardinals,Louisville Cardinals,Louisville
+253550097,2006,regular-season,2005-12-21,2,232,away,FALSE,Charleston,63,Cougars,Charleston Cougars,Charleston
+253550026,2006,regular-season,2005-12-21,2,26,home,FALSE,UCLA,74,Bruins,UCLA Bruins,UCLA
+253550026,2006,regular-season,2005-12-21,2,2681,away,FALSE,Wagner,72,Seahawks,Wagner Seahawks,Wagner
+253550030,2006,regular-season,2005-12-21,2,30,home,FALSE,USC,74,Trojans,USC Trojans,USC
+253550030,2006,regular-season,2005-12-21,2,153,away,FALSE,North Carolina,59,Tar Heels,North Carolina Tar Heels,North Carolina
+253552440,2006,regular-season,2005-12-21,2,2440,home,FALSE,Nevada,68,Wolf Pack,Nevada Wolf Pack,Nevada
+253552440,2006,regular-season,2005-12-21,2,61,away,FALSE,Georgia,62,Bulldogs,Georgia Bulldogs,Georgia

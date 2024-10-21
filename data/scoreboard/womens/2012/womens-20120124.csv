@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320240164,2012-01-24,2,164,home,FALSE,Rutgers,65,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-320240164,2012-01-24,2,305,away,FALSE,DePaul,64,Blue Demons,DePaul Blue Demons,DePaul
-320240197,2012-01-24,2,197,home,FALSE,Oklahoma State,57,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-320240197,2012-01-24,2,245,away,FALSE,Texas A&M,53,Aggies,Texas A&M Aggies,Texas A&M
-320240277,2012-01-24,2,277,home,FALSE,West Virginia,54,Mountaineers,West Virginia Mountaineers,West Virginia
-320240277,2012-01-24,2,46,away,FALSE,Georgetown,64,Hoyas,Georgetown Hoyas,Georgetown
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320240164,2012,regular-season,2012-01-24,2,164,home,FALSE,Rutgers,65,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+320240164,2012,regular-season,2012-01-24,2,305,away,FALSE,DePaul,64,Blue Demons,DePaul Blue Demons,DePaul
+320240197,2012,regular-season,2012-01-24,2,197,home,FALSE,Oklahoma State,57,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+320240197,2012,regular-season,2012-01-24,2,245,away,FALSE,Texas A&M,53,Aggies,Texas A&M Aggies,Texas A&M
+320240277,2012,regular-season,2012-01-24,2,277,home,FALSE,West Virginia,54,Mountaineers,West Virginia Mountaineers,West Virginia
+320240277,2012,regular-season,2012-01-24,2,46,away,FALSE,Georgetown,64,Hoyas,Georgetown Hoyas,Georgetown

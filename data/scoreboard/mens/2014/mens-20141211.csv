@@ -1,35 +1,35 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400589122,2014-12-11,2,2643,home,FALSE,The Citadel,48,Bulldogs,The Citadel Bulldogs,The Citadel
-400589122,2014-12-11,2,236,away,FALSE,Chattanooga,67,Mocs,Chattanooga Mocs,Chattanooga
-400597299,2014-12-11,2,142,home,FALSE,Missouri,78,Tigers,Missouri Tigers,Missouri
-400597299,2014-12-11,2,2210,away,FALSE,Elon,73,Phoenix,Elon Phoenix,Elon
-400596340,2014-12-11,2,2057,home,FALSE,Belmont,71,Bruins,Belmont Bruins,Belmont
-400596340,2014-12-11,2,2750,away,FALSE,Wright State,79,Raiders,Wright State Raiders,Wright St
-400589303,2014-12-11,2,2427,home,FALSE,UNC Asheville,78,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-400589303,2014-12-11,2,2839,away,FALSE,Tusculum,40,Pioneers,Tusculum Pioneers,Tusculum
-400589302,2014-12-11,2,324,home,FALSE,Coastal Carolina,85,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
-400589302,2014-12-11,2,2684,away,FALSE,Warren Wilson,40,Owls,Warren Wilson Owls,Warren Wil
-400588368,2014-12-11,2,45,home,FALSE,George Washington,81,Revolutionaries,George Washington Revolutionaries,G Washington
-400588368,2014-12-11,2,305,away,FALSE,DePaul,68,Blue Demons,DePaul Blue Demons,DePaul
-400587837,2014-12-11,2,103,home,FALSE,Boston College,85,Eagles,Boston College Eagles,Boston College
-400587837,2014-12-11,2,311,away,FALSE,Maine,74,Black Bears,Maine Black Bears,Maine
-400587097,2014-12-11,2,2142,home,FALSE,Colgate,65,Raiders,Colgate Raiders,Colgate
-400587097,2014-12-11,2,2066,away,FALSE,Binghamton,44,Bearcats,Binghamton Bearcats,Binghamton
-400586918,2014-12-11,2,2870,home,FALSE,Purdue Fort Wayne,91,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-400586918,2014-12-11,2,2391,away,FALSE,Michigan-Dearborn,67,Wolves,Michigan-Dearborn Wolves,Mich Drbrn
-400597834,2014-12-11,2,232,home,FALSE,Charleston,50,Cougars,Charleston Cougars,Charleston
-400597834,2014-12-11,2,2569,away,FALSE,South Carolina State,47,Bulldogs,South Carolina State Bulldogs,SC State
-400595223,2014-12-11,2,2653,home,FALSE,Troy,80,Trojans,Troy Trojans,Troy
-400595223,2014-12-11,2,2232,away,FALSE,Fort Valley State,63,Wildcats,Fort Valley State Wildcats,Ft Vly St
-400586919,2014-12-11,2,2710,home,FALSE,Western Illinois,78,Leathernecks,Western Illinois Leathernecks,W Illinois
-400586919,2014-12-11,2,70,away,FALSE,Idaho,75,Vandals,Idaho Vandals,Idaho
-400586722,2014-12-11,2,82,home,FALSE,UIC,71,Flames,UIC Flames,UIC
-400586722,2014-12-11,2,2116,away,FALSE,UCF,60,Knights,UCF Knights,UCF
-400591595,2014-12-11,2,68,home,FALSE,Boise State,91,Broncos,Boise State Broncos,Boise St
-400591595,2014-12-11,2,2887,away,FALSE,Northwest Nazarene,51,Nw Nazarene,Northwest Nazarene Nw Nazarene,NW Nzarene
-400587257,2014-12-11,2,2540,home,FALSE,UC Santa Barbara,65,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
-400587257,2014-12-11,2,301,away,FALSE,San Diego,79,Toreros,San Diego Toreros,San Diego
-400585956,2014-12-11,2,2539,home,FALSE,San Francisco,76,Dons,San Francisco Dons,San Francisco
-400585956,2014-12-11,2,331,away,FALSE,Eastern Washington,81,Eagles,Eastern Washington Eagles,E Washington
-400585955,2014-12-11,2,16,home,FALSE,Sacramento State,73,Hornets,Sacramento State Hornets,Sacramento St
-400585955,2014-12-11,2,2239,away,FALSE,Cal State Fullerton,59,Titans,Cal State Fullerton Titans,Fullerton
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400589122,2015,regular-season,2014-12-11,2,2643,home,FALSE,The Citadel,48,Bulldogs,The Citadel Bulldogs,The Citadel
+400589122,2015,regular-season,2014-12-11,2,236,away,FALSE,Chattanooga,67,Mocs,Chattanooga Mocs,Chattanooga
+400597299,2015,regular-season,2014-12-11,2,142,home,FALSE,Missouri,78,Tigers,Missouri Tigers,Missouri
+400597299,2015,regular-season,2014-12-11,2,2210,away,FALSE,Elon,73,Phoenix,Elon Phoenix,Elon
+400596340,2015,regular-season,2014-12-11,2,2057,home,FALSE,Belmont,71,Bruins,Belmont Bruins,Belmont
+400596340,2015,regular-season,2014-12-11,2,2750,away,FALSE,Wright State,79,Raiders,Wright State Raiders,Wright St
+400589303,2015,regular-season,2014-12-11,2,2427,home,FALSE,UNC Asheville,78,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+400589303,2015,regular-season,2014-12-11,2,2839,away,FALSE,Tusculum,40,Pioneers,Tusculum Pioneers,Tusculum
+400589302,2015,regular-season,2014-12-11,2,324,home,FALSE,Coastal Carolina,85,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+400589302,2015,regular-season,2014-12-11,2,2684,away,FALSE,Warren Wilson,40,Owls,Warren Wilson Owls,Warren Wil
+400588368,2015,regular-season,2014-12-11,2,45,home,FALSE,George Washington,81,Revolutionaries,George Washington Revolutionaries,G Washington
+400588368,2015,regular-season,2014-12-11,2,305,away,FALSE,DePaul,68,Blue Demons,DePaul Blue Demons,DePaul
+400587837,2015,regular-season,2014-12-11,2,103,home,FALSE,Boston College,85,Eagles,Boston College Eagles,Boston College
+400587837,2015,regular-season,2014-12-11,2,311,away,FALSE,Maine,74,Black Bears,Maine Black Bears,Maine
+400587097,2015,regular-season,2014-12-11,2,2142,home,FALSE,Colgate,65,Raiders,Colgate Raiders,Colgate
+400587097,2015,regular-season,2014-12-11,2,2066,away,FALSE,Binghamton,44,Bearcats,Binghamton Bearcats,Binghamton
+400586918,2015,regular-season,2014-12-11,2,2870,home,FALSE,Purdue Fort Wayne,91,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+400586918,2015,regular-season,2014-12-11,2,2391,away,FALSE,Michigan-Dearborn,67,Wolves,Michigan-Dearborn Wolves,Mich Drbrn
+400597834,2015,regular-season,2014-12-11,2,232,home,FALSE,Charleston,50,Cougars,Charleston Cougars,Charleston
+400597834,2015,regular-season,2014-12-11,2,2569,away,FALSE,South Carolina State,47,Bulldogs,South Carolina State Bulldogs,SC State
+400595223,2015,regular-season,2014-12-11,2,2653,home,FALSE,Troy,80,Trojans,Troy Trojans,Troy
+400595223,2015,regular-season,2014-12-11,2,2232,away,FALSE,Fort Valley State,63,Wildcats,Fort Valley State Wildcats,Ft Vly St
+400586919,2015,regular-season,2014-12-11,2,2710,home,FALSE,Western Illinois,78,Leathernecks,Western Illinois Leathernecks,W Illinois
+400586919,2015,regular-season,2014-12-11,2,70,away,FALSE,Idaho,75,Vandals,Idaho Vandals,Idaho
+400586722,2015,regular-season,2014-12-11,2,82,home,FALSE,UIC,71,Flames,UIC Flames,UIC
+400586722,2015,regular-season,2014-12-11,2,2116,away,FALSE,UCF,60,Knights,UCF Knights,UCF
+400591595,2015,regular-season,2014-12-11,2,68,home,FALSE,Boise State,91,Broncos,Boise State Broncos,Boise St
+400591595,2015,regular-season,2014-12-11,2,2887,away,FALSE,Northwest Nazarene,51,Nw Nazarene,Northwest Nazarene Nw Nazarene,NW Nzarene
+400587257,2015,regular-season,2014-12-11,2,2540,home,FALSE,UC Santa Barbara,65,Gauchos,UC Santa Barbara Gauchos,Santa Barbara
+400587257,2015,regular-season,2014-12-11,2,301,away,FALSE,San Diego,79,Toreros,San Diego Toreros,San Diego
+400585956,2015,regular-season,2014-12-11,2,2539,home,FALSE,San Francisco,76,Dons,San Francisco Dons,San Francisco
+400585956,2015,regular-season,2014-12-11,2,331,away,FALSE,Eastern Washington,81,Eagles,Eastern Washington Eagles,E Washington
+400585955,2015,regular-season,2014-12-11,2,16,home,FALSE,Sacramento State,73,Hornets,Sacramento State Hornets,Sacramento St
+400585955,2015,regular-season,2014-12-11,2,2239,away,FALSE,Cal State Fullerton,59,Titans,Cal State Fullerton Titans,Fullerton

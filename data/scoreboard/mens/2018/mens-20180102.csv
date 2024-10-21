@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400988557,2018-01-02,2,2752,home,FALSE,Xavier,86,Musketeers,Xavier Musketeers,Xavier
-400988557,2018-01-02,2,2086,away,FALSE,Butler,79,Bulldogs,Butler Bulldogs,Butler
-400989181,2018-01-02,2,2305,home,FALSE,Kansas,73,Jayhawks,Kansas Jayhawks,Kansas
-400989181,2018-01-02,2,2641,away,FALSE,Texas Tech,85,Red Raiders,Texas Tech Red Raiders,Texas Tech
-400987287,2018-01-02,2,245,home,FALSE,Texas A&M,66,Aggies,Texas A&M Aggies,Texas A&M
-400987287,2018-01-02,2,57,away,FALSE,Florida,83,Gators,Florida Gators,Florida
-400989134,2018-01-02,3,239,home,FALSE,Baylor,78,Bears,Baylor Bears,Baylor
-400989134,2018-01-02,3,2628,away,FALSE,TCU,81,Horned Frogs,TCU Horned Frogs,TCU
-400987285,2018-01-02,2,344,home,FALSE,Mississippi State,78,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400987285,2018-01-02,2,8,away,FALSE,Arkansas,75,Razorbacks,Arkansas Razorbacks,Arkansas
-400987286,2018-01-02,2,2633,home,FALSE,Tennessee,84,Volunteers,Tennessee Volunteers,Tennessee
-400987286,2018-01-02,2,2,away,FALSE,Auburn,94,Tigers,Auburn Tigers,Auburn
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400988557,2018,regular-season,2018-01-02,2,2752,home,FALSE,Xavier,86,Musketeers,Xavier Musketeers,Xavier
+400988557,2018,regular-season,2018-01-02,2,2086,away,FALSE,Butler,79,Bulldogs,Butler Bulldogs,Butler
+400989181,2018,regular-season,2018-01-02,2,2305,home,FALSE,Kansas,73,Jayhawks,Kansas Jayhawks,Kansas
+400989181,2018,regular-season,2018-01-02,2,2641,away,FALSE,Texas Tech,85,Red Raiders,Texas Tech Red Raiders,Texas Tech
+400987287,2018,regular-season,2018-01-02,2,245,home,FALSE,Texas A&M,66,Aggies,Texas A&M Aggies,Texas A&M
+400987287,2018,regular-season,2018-01-02,2,57,away,FALSE,Florida,83,Gators,Florida Gators,Florida
+400989134,2018,regular-season,2018-01-02,3,239,home,FALSE,Baylor,78,Bears,Baylor Bears,Baylor
+400989134,2018,regular-season,2018-01-02,3,2628,away,FALSE,TCU,81,Horned Frogs,TCU Horned Frogs,TCU
+400987285,2018,regular-season,2018-01-02,2,344,home,FALSE,Mississippi State,78,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400987285,2018,regular-season,2018-01-02,2,8,away,FALSE,Arkansas,75,Razorbacks,Arkansas Razorbacks,Arkansas
+400987286,2018,regular-season,2018-01-02,2,2633,home,FALSE,Tennessee,84,Volunteers,Tennessee Volunteers,Tennessee
+400987286,2018,regular-season,2018-01-02,2,2,away,FALSE,Auburn,94,Tigers,Auburn Tigers,Auburn

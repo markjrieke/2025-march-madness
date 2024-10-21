@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220310153,2002-01-31,2,153,home,FALSE,North Carolina,58,Tar Heels,North Carolina Tar Heels,North Carolina
-220310153,2002-01-31,2,150,away,FALSE,Duke,87,Blue Devils,Duke Blue Devils,Duke
-220310258,2002-01-31,2,258,home,FALSE,Virginia,87,Cavaliers,Virginia Cavaliers,Virginia
-220310258,2002-01-31,2,120,away,FALSE,Maryland,91,Terrapins,Maryland Terrapins,Maryland
-220312483,2002-01-31,2,2483,home,FALSE,Oregon,91,Ducks,Oregon Ducks,Oregon
-220312483,2002-01-31,2,26,away,FALSE,UCLA,62,Bruins,UCLA Bruins,UCLA
-220310024,2002-01-31,2,24,home,FALSE,Stanford,90,Cardinal,Stanford Cardinal,Stanford
-220310024,2002-01-31,2,9,away,FALSE,Arizona State,81,Sun Devils,Arizona State Sun Devils,Arizona St
-220310025,2002-01-31,2,25,home,FALSE,California,58,Golden Bears,California Golden Bears,California
-220310025,2002-01-31,2,12,away,FALSE,Arizona,68,Wildcats,Arizona Wildcats,Arizona
-220310204,2002-01-31,2,204,home,FALSE,Oregon State,51,Beavers,Oregon State Beavers,Oregon St
-220310204,2002-01-31,2,30,away,FALSE,USC,64,Trojans,USC Trojans,USC
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220310153,2002,regular-season,2002-01-31,2,153,home,FALSE,North Carolina,58,Tar Heels,North Carolina Tar Heels,North Carolina
+220310153,2002,regular-season,2002-01-31,2,150,away,FALSE,Duke,87,Blue Devils,Duke Blue Devils,Duke
+220310258,2002,regular-season,2002-01-31,2,258,home,FALSE,Virginia,87,Cavaliers,Virginia Cavaliers,Virginia
+220310258,2002,regular-season,2002-01-31,2,120,away,FALSE,Maryland,91,Terrapins,Maryland Terrapins,Maryland
+220312483,2002,regular-season,2002-01-31,2,2483,home,FALSE,Oregon,91,Ducks,Oregon Ducks,Oregon
+220312483,2002,regular-season,2002-01-31,2,26,away,FALSE,UCLA,62,Bruins,UCLA Bruins,UCLA
+220310024,2002,regular-season,2002-01-31,2,24,home,FALSE,Stanford,90,Cardinal,Stanford Cardinal,Stanford
+220310024,2002,regular-season,2002-01-31,2,9,away,FALSE,Arizona State,81,Sun Devils,Arizona State Sun Devils,Arizona St
+220310025,2002,regular-season,2002-01-31,2,25,home,FALSE,California,58,Golden Bears,California Golden Bears,California
+220310025,2002,regular-season,2002-01-31,2,12,away,FALSE,Arizona,68,Wildcats,Arizona Wildcats,Arizona
+220310204,2002,regular-season,2002-01-31,2,204,home,FALSE,Oregon State,51,Beavers,Oregon State Beavers,Oregon St
+220310204,2002,regular-season,2002-01-31,2,30,away,FALSE,USC,64,Trojans,USC Trojans,USC

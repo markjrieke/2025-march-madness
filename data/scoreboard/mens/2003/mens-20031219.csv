@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-233532729,2003-12-19,2,2729,home,FALSE,William & Mary,72,Tribe,William & Mary Tribe,William & Mary
-233532729,2003-12-19,2,2261,away,FALSE,Hampton,79,Pirates,Hampton Pirates,Hampton
-233532643,2003-12-19,2,2643,home,FALSE,The Citadel,89,Bulldogs,The Citadel Bulldogs,The Citadel
-233532643,2003-12-19,2,2804,away,FALSE,Chowan,72,Hawks,Chowan Hawks,Chowan
-233532166,2003-12-19,2,2166,home,FALSE,Davidson,98,Wildcats,Davidson Wildcats,Davidson
-233532166,2003-12-19,2,2137,away,FALSE,Clarkson,60,Golden Knights,Clarkson Golden Knights,Clarkson
-233530151,2003-12-19,2,151,home,FALSE,East Carolina,76,Pirates,East Carolina Pirates,East Carolina
-233530151,2003-12-19,2,2241,away,FALSE,Gardner-Webb,59,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-233532534,2003-12-19,2,2534,home,FALSE,Sam Houston,103,Bearkats,Sam Houston Bearkats,Sam Houston
-233532534,2003-12-19,2,2347,away,FALSE,Louisiana Christian,88,Wildcats,Louisiana Christian Wildcats,LA Christian
-233530111,2003-12-19,2,111,home,FALSE,Northeastern,61,Huskies,Northeastern Huskies,Northeastern
-233530111,2003-12-19,2,108,away,FALSE,Harvard,58,Crimson,Harvard Crimson,Harvard
-233530254,2003-12-19,2,254,home,FALSE,Utah,73,Utes,Utah Utes,Utah
-233530254,2003-12-19,2,2463,away,FALSE,Cal State Northridge,57,Matadors,Cal State Northridge Matadors,CSU Northridge
-233530038,2003-12-19,2,38,home,FALSE,Colorado,71,Buffaloes,Colorado Buffaloes,Colorado
-233530038,2003-12-19,2,2634,away,FALSE,Tennessee State,44,Tigers,Tennessee State Tigers,Tennessee St
-233530278,2003-12-19,2,278,home,FALSE,Fresno State,62,Bulldogs,Fresno State Bulldogs,Fresno St
-233530278,2003-12-19,2,30,away,FALSE,USC,65,Trojans,USC Trojans,USC
-233532502,2003-12-19,2,2502,home,FALSE,Portland State,74,Vikings,Portland State Vikings,Portland St
-233532502,2003-12-19,2,2501,away,FALSE,Portland,55,Pilots,Portland Pilots,Portland
-233532443,2003-12-19,2,2443,home,FALSE,New Orleans,86,Privateers,New Orleans Privateers,New Orleans
-233532443,2003-12-19,2,304,away,FALSE,Idaho State,72,Bengals,Idaho State Bengals,Idaho St
-233532351,2003-12-19,2,2351,home,FALSE,Loyola Marymount,68,Lions,Loyola Marymount Lions,LMU
-233532351,2003-12-19,2,258,away,FALSE,Virginia,76,Cavaliers,Virginia Cavaliers,Virginia
-233532459,2003-12-19,2,2459,home,FALSE,Northern Illinois,41,Huskies,Northern Illinois Huskies,N Illinois
-233532459,2003-12-19,2,23,away,FALSE,San José State,53,Spartans,San José State Spartans,San José St
-233530062,2003-12-19,2,62,home,FALSE,Hawai'i,97,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
-233530062,2003-12-19,2,2640,away,FALSE,Texas Southern,67,Tigers,Texas Southern Tigers,Texas Southern
-233542088,2003-12-19,2,2088,home,FALSE,BYU-Hawaii,72,Seasiders,BYU-Hawaii Seasiders,BYU-Hawaii
-233542088,2003-12-19,2,239,away,FALSE,Baylor,67,Bears,Baylor Bears,Baylor
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+233532729,2004,regular-season,2003-12-19,2,2729,home,FALSE,William & Mary,72,Tribe,William & Mary Tribe,William & Mary
+233532729,2004,regular-season,2003-12-19,2,2261,away,FALSE,Hampton,79,Pirates,Hampton Pirates,Hampton
+233532643,2004,regular-season,2003-12-19,2,2643,home,FALSE,The Citadel,89,Bulldogs,The Citadel Bulldogs,The Citadel
+233532643,2004,regular-season,2003-12-19,2,2804,away,FALSE,Chowan,72,Hawks,Chowan Hawks,Chowan
+233532166,2004,regular-season,2003-12-19,2,2166,home,FALSE,Davidson,98,Wildcats,Davidson Wildcats,Davidson
+233532166,2004,regular-season,2003-12-19,2,2137,away,FALSE,Clarkson,60,Golden Knights,Clarkson Golden Knights,Clarkson
+233530151,2004,regular-season,2003-12-19,2,151,home,FALSE,East Carolina,76,Pirates,East Carolina Pirates,East Carolina
+233530151,2004,regular-season,2003-12-19,2,2241,away,FALSE,Gardner-Webb,59,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+233532534,2004,regular-season,2003-12-19,2,2534,home,FALSE,Sam Houston,103,Bearkats,Sam Houston Bearkats,Sam Houston
+233532534,2004,regular-season,2003-12-19,2,2347,away,FALSE,Louisiana Christian,88,Wildcats,Louisiana Christian Wildcats,LA Christian
+233530111,2004,regular-season,2003-12-19,2,111,home,FALSE,Northeastern,61,Huskies,Northeastern Huskies,Northeastern
+233530111,2004,regular-season,2003-12-19,2,108,away,FALSE,Harvard,58,Crimson,Harvard Crimson,Harvard
+233530254,2004,regular-season,2003-12-19,2,254,home,FALSE,Utah,73,Utes,Utah Utes,Utah
+233530254,2004,regular-season,2003-12-19,2,2463,away,FALSE,Cal State Northridge,57,Matadors,Cal State Northridge Matadors,CSU Northridge
+233530038,2004,regular-season,2003-12-19,2,38,home,FALSE,Colorado,71,Buffaloes,Colorado Buffaloes,Colorado
+233530038,2004,regular-season,2003-12-19,2,2634,away,FALSE,Tennessee State,44,Tigers,Tennessee State Tigers,Tennessee St
+233530278,2004,regular-season,2003-12-19,2,278,home,FALSE,Fresno State,62,Bulldogs,Fresno State Bulldogs,Fresno St
+233530278,2004,regular-season,2003-12-19,2,30,away,FALSE,USC,65,Trojans,USC Trojans,USC
+233532502,2004,regular-season,2003-12-19,2,2502,home,FALSE,Portland State,74,Vikings,Portland State Vikings,Portland St
+233532502,2004,regular-season,2003-12-19,2,2501,away,FALSE,Portland,55,Pilots,Portland Pilots,Portland
+233532443,2004,regular-season,2003-12-19,2,2443,home,FALSE,New Orleans,86,Privateers,New Orleans Privateers,New Orleans
+233532443,2004,regular-season,2003-12-19,2,304,away,FALSE,Idaho State,72,Bengals,Idaho State Bengals,Idaho St
+233532351,2004,regular-season,2003-12-19,2,2351,home,FALSE,Loyola Marymount,68,Lions,Loyola Marymount Lions,LMU
+233532351,2004,regular-season,2003-12-19,2,258,away,FALSE,Virginia,76,Cavaliers,Virginia Cavaliers,Virginia
+233532459,2004,regular-season,2003-12-19,2,2459,home,FALSE,Northern Illinois,41,Huskies,Northern Illinois Huskies,N Illinois
+233532459,2004,regular-season,2003-12-19,2,23,away,FALSE,San José State,53,Spartans,San José State Spartans,San José St
+233530062,2004,regular-season,2003-12-19,2,62,home,FALSE,Hawai'i,97,Rainbow Warriors,Hawai'i Rainbow Warriors,Hawai'i
+233530062,2004,regular-season,2003-12-19,2,2640,away,FALSE,Texas Southern,67,Tigers,Texas Southern Tigers,Texas Southern
+233542088,2004,regular-season,2003-12-19,2,2088,home,FALSE,BYU-Hawaii,72,Seasiders,BYU-Hawaii Seasiders,BYU-Hawaii
+233542088,2004,regular-season,2003-12-19,2,239,away,FALSE,Baylor,67,Bears,Baylor Bears,Baylor

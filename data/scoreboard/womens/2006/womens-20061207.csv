@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263412579,2006-12-07,2,2579,home,FALSE,South Carolina,51,Gamecocks,South Carolina Gamecocks,South Carolina
-263412579,2006-12-07,2,201,away,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
-263410150,2006-12-07,2,150,home,FALSE,Duke,69,Blue Devils,Duke Blue Devils,Duke
-263410150,2006-12-07,2,238,away,FALSE,Vanderbilt,48,Commodores,Vanderbilt Commodores,Vanderbilt
-263412633,2006-12-07,2,2633,home,FALSE,Tennessee,85,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-263412633,2006-12-07,2,45,away,FALSE,George Washington,62,Revolutionaries,George Washington Revolutionaries,G Washington
-263410046,2006-12-07,2,46,home,FALSE,Georgetown,26,Hoyas,Georgetown Hoyas,Georgetown
-263410046,2006-12-07,2,41,away,FALSE,UConn,84,Huskies,UConn Huskies,UConn
-263410061,2006-12-07,2,61,home,FALSE,Georgia,62,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-263410061,2006-12-07,2,2393,away,FALSE,Middle Tennessee,70,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-263410025,2006-12-07,2,25,home,FALSE,California,77,Golden Bears,California Golden Bears,California
-263410025,2006-12-07,2,278,away,FALSE,Fresno State,62,Bulldogs,Fresno State Bulldogs,Fresno St
-263410305,2006-12-07,2,305,home,FALSE,DePaul,87,Blue Demons,DePaul Blue Demons,DePaul
-263410305,2006-12-07,2,164,away,FALSE,Rutgers,73,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263412579,2007,regular-season,2006-12-07,2,2579,home,FALSE,South Carolina,51,Gamecocks,South Carolina Gamecocks,South Carolina
+263412579,2007,regular-season,2006-12-07,2,201,away,FALSE,Oklahoma,78,Sooners,Oklahoma Sooners,Oklahoma
+263410150,2007,regular-season,2006-12-07,2,150,home,FALSE,Duke,69,Blue Devils,Duke Blue Devils,Duke
+263410150,2007,regular-season,2006-12-07,2,238,away,FALSE,Vanderbilt,48,Commodores,Vanderbilt Commodores,Vanderbilt
+263412633,2007,regular-season,2006-12-07,2,2633,home,FALSE,Tennessee,85,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+263412633,2007,regular-season,2006-12-07,2,45,away,FALSE,George Washington,62,Revolutionaries,George Washington Revolutionaries,G Washington
+263410046,2007,regular-season,2006-12-07,2,46,home,FALSE,Georgetown,26,Hoyas,Georgetown Hoyas,Georgetown
+263410046,2007,regular-season,2006-12-07,2,41,away,FALSE,UConn,84,Huskies,UConn Huskies,UConn
+263410061,2007,regular-season,2006-12-07,2,61,home,FALSE,Georgia,62,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+263410061,2007,regular-season,2006-12-07,2,2393,away,FALSE,Middle Tennessee,70,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+263410025,2007,regular-season,2006-12-07,2,25,home,FALSE,California,77,Golden Bears,California Golden Bears,California
+263410025,2007,regular-season,2006-12-07,2,278,away,FALSE,Fresno State,62,Bulldogs,Fresno State Bulldogs,Fresno St
+263410305,2007,regular-season,2006-12-07,2,305,home,FALSE,DePaul,87,Blue Demons,DePaul Blue Demons,DePaul
+263410305,2007,regular-season,2006-12-07,2,164,away,FALSE,Rutgers,73,Scarlet Knights,Rutgers Scarlet Knights,Rutgers

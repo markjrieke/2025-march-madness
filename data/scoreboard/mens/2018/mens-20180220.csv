@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400986579,2018-02-20,2,127,home,FALSE,Michigan State,81,Spartans,Michigan State Spartans,Michigan St
-400986579,2018-02-20,2,356,away,FALSE,Illinois,61,Fighting Illini,Illinois Fighting Illini,Illinois
-400986581,2018-02-20,2,194,home,FALSE,Ohio State,79,Buckeyes,Ohio State Buckeyes,Ohio State
-400986581,2018-02-20,2,164,away,FALSE,Rutgers,52,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400990077,2018-02-20,3,2325,home,FALSE,La Salle,93,Explorers,La Salle Explorers,La Salle
-400990077,2018-02-20,3,227,away,FALSE,Rhode Island,95,Rams,Rhode Island Rams,Rhode Island
-400989147,2018-02-20,2,239,home,FALSE,Baylor,60,Bears,Baylor Bears,Baylor
-400989147,2018-02-20,2,277,away,FALSE,West Virginia,71,Mountaineers,West Virginia Mountaineers,West Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400986579,2018,regular-season,2018-02-20,2,127,home,FALSE,Michigan State,81,Spartans,Michigan State Spartans,Michigan St
+400986579,2018,regular-season,2018-02-20,2,356,away,FALSE,Illinois,61,Fighting Illini,Illinois Fighting Illini,Illinois
+400986581,2018,regular-season,2018-02-20,2,194,home,FALSE,Ohio State,79,Buckeyes,Ohio State Buckeyes,Ohio State
+400986581,2018,regular-season,2018-02-20,2,164,away,FALSE,Rutgers,52,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400990077,2018,regular-season,2018-02-20,3,2325,home,FALSE,La Salle,93,Explorers,La Salle Explorers,La Salle
+400990077,2018,regular-season,2018-02-20,3,227,away,FALSE,Rhode Island,95,Rams,Rhode Island Rams,Rhode Island
+400989147,2018,regular-season,2018-02-20,2,239,home,FALSE,Baylor,60,Bears,Baylor Bears,Baylor
+400989147,2018,regular-season,2018-02-20,2,277,away,FALSE,West Virginia,71,Mountaineers,West Virginia Mountaineers,West Virginia

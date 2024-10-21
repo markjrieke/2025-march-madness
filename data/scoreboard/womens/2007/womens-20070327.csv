@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-274000015,2007-03-27,2,2633,home,FALSE,Tennessee,98,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-274000015,2007-03-27,2,145,away,FALSE,Ole Miss,62,Rebels,Ole Miss Rebels,Ole Miss
-274000061,2007-03-27,2,153,home,FALSE,North Carolina,84,Tar Heels,North Carolina Tar Heels,North Carolina
-274000061,2007-03-27,2,2509,away,FALSE,Purdue,72,Boilermakers,Purdue Boilermakers,Purdue
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+274000015,2007,post-season,2007-03-27,2,2633,home,FALSE,Tennessee,98,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+274000015,2007,post-season,2007-03-27,2,145,away,FALSE,Ole Miss,62,Rebels,Ole Miss Rebels,Ole Miss
+274000061,2007,post-season,2007-03-27,2,153,home,FALSE,North Carolina,84,Tar Heels,North Carolina Tar Heels,North Carolina
+274000061,2007,post-season,2007-03-27,2,2509,away,FALSE,Purdue,72,Boilermakers,Purdue Boilermakers,Purdue

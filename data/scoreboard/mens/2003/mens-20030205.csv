@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230360097,2003-02-05,2,97,home,FALSE,Louisville,77,Cardinals,Louisville Cardinals,Louisville
-230360097,2003-02-05,2,2132,away,FALSE,Cincinnati,71,Bearcats,Cincinnati Bearcats,Cincinnati
-230360150,2003-02-05,2,150,home,FALSE,Duke,83,Blue Devils,Duke Blue Devils,Duke
-230360150,2003-02-05,2,153,away,FALSE,North Carolina,74,Tar Heels,North Carolina Tar Heels,North Carolina
-230362550,2003-02-05,2,2550,home,FALSE,Seton Hall,78,Pirates,Seton Hall Pirates,Seton Hall
-230362550,2003-02-05,2,87,away,FALSE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-230360197,2003-02-05,2,197,home,FALSE,Oklahoma State,63,Cowboys,Oklahoma State Cowboys,Oklahoma St
-230360197,2003-02-05,2,2306,away,FALSE,Kansas State,55,Wildcats,Kansas State Wildcats,Kansas St
-230360269,2003-02-05,2,269,home,FALSE,Marquette,68,Golden Eagles,Marquette Golden Eagles,Marquette
-230360269,2003-02-05,2,139,away,FALSE,Saint Louis,64,Billikens,Saint Louis Billikens,Saint Louis
-230360259,2003-02-05,2,259,home,FALSE,Virginia Tech,95,Hokies,Virginia Tech Hokies,Virginia Tech
-230360259,2003-02-05,2,41,away,FALSE,UConn,74,Huskies,UConn Huskies,UConn
-230360008,2003-02-05,2,8,home,FALSE,Arkansas,81,Razorbacks,Arkansas Razorbacks,Arkansas
-230360008,2003-02-05,2,333,away,FALSE,Alabama,70,Crimson Tide,Alabama Crimson Tide,Alabama
-230360344,2003-02-05,2,344,home,FALSE,Mississippi State,82,Bulldogs,Mississippi State Bulldogs,Mississippi St
-230360344,2003-02-05,2,238,away,FALSE,Vanderbilt,60,Commodores,Vanderbilt Commodores,Vanderbilt
-230362509,2003-02-05,2,2509,home,FALSE,Purdue,78,Boilermakers,Purdue Boilermakers,Purdue
-230362509,2003-02-05,2,275,away,FALSE,Wisconsin,60,Badgers,Wisconsin Badgers,Wisconsin
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230360097,2003,regular-season,2003-02-05,2,97,home,FALSE,Louisville,77,Cardinals,Louisville Cardinals,Louisville
+230360097,2003,regular-season,2003-02-05,2,2132,away,FALSE,Cincinnati,71,Bearcats,Cincinnati Bearcats,Cincinnati
+230360150,2003,regular-season,2003-02-05,2,150,home,FALSE,Duke,83,Blue Devils,Duke Blue Devils,Duke
+230360150,2003,regular-season,2003-02-05,2,153,away,FALSE,North Carolina,74,Tar Heels,North Carolina Tar Heels,North Carolina
+230362550,2003,regular-season,2003-02-05,2,2550,home,FALSE,Seton Hall,78,Pirates,Seton Hall Pirates,Seton Hall
+230362550,2003,regular-season,2003-02-05,2,87,away,FALSE,Notre Dame,72,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+230360197,2003,regular-season,2003-02-05,2,197,home,FALSE,Oklahoma State,63,Cowboys,Oklahoma State Cowboys,Oklahoma St
+230360197,2003,regular-season,2003-02-05,2,2306,away,FALSE,Kansas State,55,Wildcats,Kansas State Wildcats,Kansas St
+230360269,2003,regular-season,2003-02-05,2,269,home,FALSE,Marquette,68,Golden Eagles,Marquette Golden Eagles,Marquette
+230360269,2003,regular-season,2003-02-05,2,139,away,FALSE,Saint Louis,64,Billikens,Saint Louis Billikens,Saint Louis
+230360259,2003,regular-season,2003-02-05,2,259,home,FALSE,Virginia Tech,95,Hokies,Virginia Tech Hokies,Virginia Tech
+230360259,2003,regular-season,2003-02-05,2,41,away,FALSE,UConn,74,Huskies,UConn Huskies,UConn
+230360008,2003,regular-season,2003-02-05,2,8,home,FALSE,Arkansas,81,Razorbacks,Arkansas Razorbacks,Arkansas
+230360008,2003,regular-season,2003-02-05,2,333,away,FALSE,Alabama,70,Crimson Tide,Alabama Crimson Tide,Alabama
+230360344,2003,regular-season,2003-02-05,2,344,home,FALSE,Mississippi State,82,Bulldogs,Mississippi State Bulldogs,Mississippi St
+230360344,2003,regular-season,2003-02-05,2,238,away,FALSE,Vanderbilt,60,Commodores,Vanderbilt Commodores,Vanderbilt
+230362509,2003,regular-season,2003-02-05,2,2509,home,FALSE,Purdue,78,Boilermakers,Purdue Boilermakers,Purdue
+230362509,2003,regular-season,2003-02-05,2,275,away,FALSE,Wisconsin,60,Badgers,Wisconsin Badgers,Wisconsin

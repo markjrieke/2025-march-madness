@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-233410153,2003-12-07,2,153,home,FALSE,North Carolina,115,Tar Heels,North Carolina Tar Heels,North Carolina
-233410153,2003-12-07,2,2244,away,FALSE,George Mason,81,Patriots,George Mason Patriots,George Mason
-233410045,2003-12-07,2,45,home,FALSE,George Washington,91,Revolutionaries,George Washington Revolutionaries,G Washington
-233410045,2003-12-07,2,2250,away,FALSE,Gonzaga,96,Bulldogs,Gonzaga Bulldogs,Gonzaga
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+233410153,2004,regular-season,2003-12-07,2,153,home,FALSE,North Carolina,115,Tar Heels,North Carolina Tar Heels,North Carolina
+233410153,2004,regular-season,2003-12-07,2,2244,away,FALSE,George Mason,81,Patriots,George Mason Patriots,George Mason
+233410045,2004,regular-season,2003-12-07,2,45,home,FALSE,George Washington,91,Revolutionaries,George Washington Revolutionaries,G Washington
+233410045,2004,regular-season,2003-12-07,2,2250,away,FALSE,Gonzaga,96,Bulldogs,Gonzaga Bulldogs,Gonzaga

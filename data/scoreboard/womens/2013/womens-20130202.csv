@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330330197,2013-02-02,2,197,home,FALSE,Oklahoma State,62,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-330330197,2013-02-02,2,239,away,FALSE,Baylor,81,Bears,Baylor Bears,Baylor
-330330087,2013-02-02,2,87,home,FALSE,Notre Dame,64,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-330330087,2013-02-02,2,2132,away,FALSE,Cincinnati,42,Bearcats,Cincinnati Bearcats,Cincinnati
-330332599,2013-02-02,2,2599,home,FALSE,St. John's,65,Red Storm,St. John's Red Storm,St John's
-330332599,2013-02-02,2,41,away,FALSE,UConn,71,Huskies,UConn Huskies,UConn
-330330097,2013-02-02,2,97,home,FALSE,Louisville,74,Cardinals,Louisville Cardinals,Louisville
-330330097,2013-02-02,2,46,away,FALSE,Georgetown,60,Hoyas,Georgetown Hoyas,Georgetown
-330330066,2013-02-02,2,66,home,FALSE,Iowa State,67,Cyclones,Iowa State Cyclones,Iowa State
-330330066,2013-02-02,2,2641,away,FALSE,Texas Tech,52,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330330197,2013,regular-season,2013-02-02,2,197,home,FALSE,Oklahoma State,62,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+330330197,2013,regular-season,2013-02-02,2,239,away,FALSE,Baylor,81,Bears,Baylor Bears,Baylor
+330330087,2013,regular-season,2013-02-02,2,87,home,FALSE,Notre Dame,64,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+330330087,2013,regular-season,2013-02-02,2,2132,away,FALSE,Cincinnati,42,Bearcats,Cincinnati Bearcats,Cincinnati
+330332599,2013,regular-season,2013-02-02,2,2599,home,FALSE,St. John's,65,Red Storm,St. John's Red Storm,St John's
+330332599,2013,regular-season,2013-02-02,2,41,away,FALSE,UConn,71,Huskies,UConn Huskies,UConn
+330330097,2013,regular-season,2013-02-02,2,97,home,FALSE,Louisville,74,Cardinals,Louisville Cardinals,Louisville
+330330097,2013,regular-season,2013-02-02,2,46,away,FALSE,Georgetown,60,Hoyas,Georgetown Hoyas,Georgetown
+330330066,2013,regular-season,2013-02-02,2,66,home,FALSE,Iowa State,67,Cyclones,Iowa State Cyclones,Iowa State
+330330066,2013,regular-season,2013-02-02,2,2641,away,FALSE,Texas Tech,52,Lady Raiders,Texas Tech Lady Raiders,Texas Tech

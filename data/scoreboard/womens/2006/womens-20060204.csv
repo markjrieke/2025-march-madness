@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260350041,2006-02-04,2,41,home,FALSE,UConn,58,Huskies,UConn Huskies,UConn
-260350041,2006-02-04,2,277,away,FALSE,West Virginia,50,Mountaineers,West Virginia Mountaineers,West Virginia
-260350164,2006-02-04,2,164,home,FALSE,Rutgers,67,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-260350164,2006-02-04,2,305,away,FALSE,DePaul,57,Blue Demons,DePaul Blue Demons,DePaul
-260350197,2006-02-04,2,197,home,FALSE,Oklahoma State,54,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-260350197,2006-02-04,2,239,away,FALSE,Baylor,81,Bears,Baylor Bears,Baylor
-260350142,2006-02-04,2,142,home,FALSE,Missouri,73,Tigers,Missouri Tigers,Missouri
-260350142,2006-02-04,2,201,away,FALSE,Oklahoma,88,Sooners,Oklahoma Sooners,Oklahoma
-260350024,2006-02-04,2,24,home,FALSE,Stanford,87,Cardinal,Stanford Cardinal,Stanford
-260350024,2006-02-04,2,204,away,FALSE,Oregon State,54,Beavers,Oregon State Beavers,Oregon St
-260350254,2006-02-04,2,254,home,FALSE,Utah,75,Utes,Utah Utes,Utah
-260350254,2006-02-04,2,167,away,FALSE,New Mexico,62,Lobos,New Mexico Lobos,New Mexico
-260350009,2006-02-04,2,9,home,FALSE,Arizona State,79,Sun Devils,Arizona State Sun Devils,Arizona St
-260350009,2006-02-04,2,30,away,FALSE,USC,72,Trojans,USC Trojans,USC
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260350041,2006,regular-season,2006-02-04,2,41,home,FALSE,UConn,58,Huskies,UConn Huskies,UConn
+260350041,2006,regular-season,2006-02-04,2,277,away,FALSE,West Virginia,50,Mountaineers,West Virginia Mountaineers,West Virginia
+260350164,2006,regular-season,2006-02-04,2,164,home,FALSE,Rutgers,67,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+260350164,2006,regular-season,2006-02-04,2,305,away,FALSE,DePaul,57,Blue Demons,DePaul Blue Demons,DePaul
+260350197,2006,regular-season,2006-02-04,2,197,home,FALSE,Oklahoma State,54,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+260350197,2006,regular-season,2006-02-04,2,239,away,FALSE,Baylor,81,Bears,Baylor Bears,Baylor
+260350142,2006,regular-season,2006-02-04,2,142,home,FALSE,Missouri,73,Tigers,Missouri Tigers,Missouri
+260350142,2006,regular-season,2006-02-04,2,201,away,FALSE,Oklahoma,88,Sooners,Oklahoma Sooners,Oklahoma
+260350024,2006,regular-season,2006-02-04,2,24,home,FALSE,Stanford,87,Cardinal,Stanford Cardinal,Stanford
+260350024,2006,regular-season,2006-02-04,2,204,away,FALSE,Oregon State,54,Beavers,Oregon State Beavers,Oregon St
+260350254,2006,regular-season,2006-02-04,2,254,home,FALSE,Utah,75,Utes,Utah Utes,Utah
+260350254,2006,regular-season,2006-02-04,2,167,away,FALSE,New Mexico,62,Lobos,New Mexico Lobos,New Mexico
+260350009,2006,regular-season,2006-02-04,2,9,home,FALSE,Arizona State,79,Sun Devils,Arizona State Sun Devils,Arizona St
+260350009,2006,regular-season,2006-02-04,2,30,away,FALSE,USC,72,Trojans,USC Trojans,USC

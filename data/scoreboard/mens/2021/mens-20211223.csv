@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401373520,2021-12-23,0,305,home,FALSE,DePaul,0,Blue Demons,DePaul Blue Demons,DePaul
-401373520,2021-12-23,0,2550,away,FALSE,Seton Hall,0,Pirates,Seton Hall Pirates,Seton Hall
-401396710,2021-12-23,0,275,home,FALSE,Wisconsin,0,Badgers,Wisconsin Badgers,Wisconsin
-401396710,2021-12-23,0,2244,away,FALSE,George Mason,0,Patriots,George Mason Patriots,George Mason
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401373520,2022,regular-season,2021-12-23,0,305,home,FALSE,DePaul,0,Blue Demons,DePaul Blue Demons,DePaul
+401373520,2022,regular-season,2021-12-23,0,2550,away,FALSE,Seton Hall,0,Pirates,Seton Hall Pirates,Seton Hall
+401396710,2022,regular-season,2021-12-23,0,275,home,FALSE,Wisconsin,0,Badgers,Wisconsin Badgers,Wisconsin
+401396710,2022,regular-season,2021-12-23,0,2244,away,FALSE,George Mason,0,Patriots,George Mason Patriots,George Mason

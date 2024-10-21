@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330162306,2013-01-16,2,2306,home,FALSE,Kansas State,69,Wildcats,Kansas State Wildcats,Kansas St
-330162306,2013-01-16,2,239,away,FALSE,Baylor,90,Bears,Baylor Bears,Baylor
-330160150,2013-01-16,2,150,home,FALSE,Duke,58,Blue Devils,Duke Blue Devils,Duke
-330160150,2013-01-16,2,259,away,FALSE,Virginia Tech,26,Hokies,Virginia Tech Hokies,Virginia Tech
-330162168,2013-01-16,2,2168,home,FALSE,Dayton,95,Flyers,Dayton Flyers,Dayton
-330162168,2013-01-16,2,2325,away,FALSE,La Salle,47,Explorers,La Salle Explorers,La Salle
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330162306,2013,regular-season,2013-01-16,2,2306,home,FALSE,Kansas State,69,Wildcats,Kansas State Wildcats,Kansas St
+330162306,2013,regular-season,2013-01-16,2,239,away,FALSE,Baylor,90,Bears,Baylor Bears,Baylor
+330160150,2013,regular-season,2013-01-16,2,150,home,FALSE,Duke,58,Blue Devils,Duke Blue Devils,Duke
+330160150,2013,regular-season,2013-01-16,2,259,away,FALSE,Virginia Tech,26,Hokies,Virginia Tech Hokies,Virginia Tech
+330162168,2013,regular-season,2013-01-16,2,2168,home,FALSE,Dayton,95,Flyers,Dayton Flyers,Dayton
+330162168,2013,regular-season,2013-01-16,2,2325,away,FALSE,La Salle,47,Explorers,La Salle Explorers,La Salle

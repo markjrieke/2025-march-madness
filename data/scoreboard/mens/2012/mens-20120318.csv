@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320780153,2012-03-18,2,153,home,TRUE,North Carolina,87,Tar Heels,North Carolina Tar Heels,North Carolina
-320780153,2012-03-18,2,156,away,TRUE,Creighton,73,Bluejays,Creighton Bluejays,Creighton
-320780127,2012-03-18,2,127,home,TRUE,Michigan State,65,Spartans,Michigan State Spartans,Michigan St
-320780127,2012-03-18,2,139,away,TRUE,Saint Louis,61,Billikens,Saint Louis Billikens,Saint Louis
-320782305,2012-03-18,2,2305,home,TRUE,Kansas,63,Jayhawks,Kansas Jayhawks,Kansas
-320782305,2012-03-18,2,2509,away,TRUE,Purdue,60,Boilermakers,Purdue Boilermakers,Purdue
-320780052,2012-03-18,2,52,home,TRUE,Florida State,56,Seminoles,Florida State Seminoles,Florida St
-320780052,2012-03-18,2,2132,away,TRUE,Cincinnati,62,Bearcats,Cincinnati Bearcats,Cincinnati
-320780046,2012-03-18,2,46,home,TRUE,Georgetown,63,Hoyas,Georgetown Hoyas,Georgetown
-320780046,2012-03-18,2,152,away,TRUE,NC State,66,Wolfpack,NC State Wolfpack,NC State
-320780057,2012-03-18,2,57,home,TRUE,Florida,84,Gators,Florida Gators,Florida
-320780057,2012-03-18,2,2450,away,TRUE,Norfolk State,50,Spartans,Norfolk State Spartans,Norfolk St
-320780058,2012-03-18,2,58,home,TRUE,South Florida,56,Bulls,South Florida Bulls,South Florida
-320780058,2012-03-18,2,195,away,TRUE,Ohio,62,Bobcats,Ohio Bobcats,Ohio
-320782752,2012-03-18,2,2752,home,TRUE,Xavier,70,Musketeers,Xavier Musketeers,Xavier
-320782752,2012-03-18,2,2329,away,TRUE,Lehigh,58,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320780153,2012,post-season,2012-03-18,2,153,home,TRUE,North Carolina,87,Tar Heels,North Carolina Tar Heels,North Carolina
+320780153,2012,post-season,2012-03-18,2,156,away,TRUE,Creighton,73,Bluejays,Creighton Bluejays,Creighton
+320780127,2012,post-season,2012-03-18,2,127,home,TRUE,Michigan State,65,Spartans,Michigan State Spartans,Michigan St
+320780127,2012,post-season,2012-03-18,2,139,away,TRUE,Saint Louis,61,Billikens,Saint Louis Billikens,Saint Louis
+320782305,2012,post-season,2012-03-18,2,2305,home,TRUE,Kansas,63,Jayhawks,Kansas Jayhawks,Kansas
+320782305,2012,post-season,2012-03-18,2,2509,away,TRUE,Purdue,60,Boilermakers,Purdue Boilermakers,Purdue
+320780052,2012,post-season,2012-03-18,2,52,home,TRUE,Florida State,56,Seminoles,Florida State Seminoles,Florida St
+320780052,2012,post-season,2012-03-18,2,2132,away,TRUE,Cincinnati,62,Bearcats,Cincinnati Bearcats,Cincinnati
+320780046,2012,post-season,2012-03-18,2,46,home,TRUE,Georgetown,63,Hoyas,Georgetown Hoyas,Georgetown
+320780046,2012,post-season,2012-03-18,2,152,away,TRUE,NC State,66,Wolfpack,NC State Wolfpack,NC State
+320780057,2012,post-season,2012-03-18,2,57,home,TRUE,Florida,84,Gators,Florida Gators,Florida
+320780057,2012,post-season,2012-03-18,2,2450,away,TRUE,Norfolk State,50,Spartans,Norfolk State Spartans,Norfolk St
+320780058,2012,post-season,2012-03-18,2,58,home,TRUE,South Florida,56,Bulls,South Florida Bulls,South Florida
+320780058,2012,post-season,2012-03-18,2,195,away,TRUE,Ohio,62,Bobcats,Ohio Bobcats,Ohio
+320782752,2012,post-season,2012-03-18,2,2752,home,TRUE,Xavier,70,Musketeers,Xavier Musketeers,Xavier
+320782752,2012,post-season,2012-03-18,2,2329,away,TRUE,Lehigh,58,Mountain Hawks,Lehigh Mountain Hawks,Lehigh

@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401083556,2019-02-05,2,2633,home,FALSE,Tennessee,72,Volunteers,Tennessee Volunteers,Tennessee
-401083556,2019-02-05,2,142,away,FALSE,Missouri,60,Tigers,Missouri Tigers,Missouri
-401082632,2019-02-05,2,150,home,FALSE,Duke,80,Blue Devils,Duke Blue Devils,Duke
-401082632,2019-02-05,2,103,away,FALSE,Boston College,55,Eagles,Boston College Eagles,Boston College
-401083036,2019-02-05,2,96,home,FALSE,Kentucky,76,Wildcats,Kentucky Wildcats,Kentucky
-401083036,2019-02-05,2,2579,away,FALSE,South Carolina,48,Gamecocks,South Carolina Gamecocks,South Carolina
-401082463,2019-02-05,2,164,home,FALSE,Rutgers,65,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-401082463,2019-02-05,2,130,away,FALSE,Michigan,77,Wolverines,Michigan Wolverines,Michigan
-401082851,2019-02-05,2,153,home,FALSE,North Carolina,113,Tar Heels,North Carolina Tar Heels,North Carolina
-401082851,2019-02-05,2,152,away,FALSE,NC State,96,Wolfpack,NC State Wolfpack,NC State
-401082353,2019-02-05,2,356,home,FALSE,Illinois,79,Fighting Illini,Illinois Fighting Illini,Illinois
-401082353,2019-02-05,2,127,away,FALSE,Michigan State,74,Spartans,Michigan State Spartans,Michigan St
-401083261,2019-02-05,2,269,home,FALSE,Marquette,69,Golden Eagles,Marquette Golden Eagles,Marquette
-401083261,2019-02-05,2,2599,away,FALSE,St. John's,70,Red Storm,St. John's Red Storm,St John's
-401083442,2019-02-05,2,2306,home,FALSE,Kansas State,74,Wildcats,Kansas State Wildcats,Kansas St
-401083442,2019-02-05,2,2305,away,FALSE,Kansas,67,Jayhawks,Kansas Jayhawks,Kansas
-401082709,2019-02-05,2,183,home,FALSE,Syracuse,62,Orange,Syracuse Orange,Syracuse
-401082709,2019-02-05,2,52,away,FALSE,Florida State,80,Seminoles,Florida State Seminoles,Florida St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401083556,2019,regular-season,2019-02-05,2,2633,home,FALSE,Tennessee,72,Volunteers,Tennessee Volunteers,Tennessee
+401083556,2019,regular-season,2019-02-05,2,142,away,FALSE,Missouri,60,Tigers,Missouri Tigers,Missouri
+401082632,2019,regular-season,2019-02-05,2,150,home,FALSE,Duke,80,Blue Devils,Duke Blue Devils,Duke
+401082632,2019,regular-season,2019-02-05,2,103,away,FALSE,Boston College,55,Eagles,Boston College Eagles,Boston College
+401083036,2019,regular-season,2019-02-05,2,96,home,FALSE,Kentucky,76,Wildcats,Kentucky Wildcats,Kentucky
+401083036,2019,regular-season,2019-02-05,2,2579,away,FALSE,South Carolina,48,Gamecocks,South Carolina Gamecocks,South Carolina
+401082463,2019,regular-season,2019-02-05,2,164,home,FALSE,Rutgers,65,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401082463,2019,regular-season,2019-02-05,2,130,away,FALSE,Michigan,77,Wolverines,Michigan Wolverines,Michigan
+401082851,2019,regular-season,2019-02-05,2,153,home,FALSE,North Carolina,113,Tar Heels,North Carolina Tar Heels,North Carolina
+401082851,2019,regular-season,2019-02-05,2,152,away,FALSE,NC State,96,Wolfpack,NC State Wolfpack,NC State
+401082353,2019,regular-season,2019-02-05,2,356,home,FALSE,Illinois,79,Fighting Illini,Illinois Fighting Illini,Illinois
+401082353,2019,regular-season,2019-02-05,2,127,away,FALSE,Michigan State,74,Spartans,Michigan State Spartans,Michigan St
+401083261,2019,regular-season,2019-02-05,2,269,home,FALSE,Marquette,69,Golden Eagles,Marquette Golden Eagles,Marquette
+401083261,2019,regular-season,2019-02-05,2,2599,away,FALSE,St. John's,70,Red Storm,St. John's Red Storm,St John's
+401083442,2019,regular-season,2019-02-05,2,2306,home,FALSE,Kansas State,74,Wildcats,Kansas State Wildcats,Kansas St
+401083442,2019,regular-season,2019-02-05,2,2305,away,FALSE,Kansas,67,Jayhawks,Kansas Jayhawks,Kansas
+401082709,2019,regular-season,2019-02-05,2,183,home,FALSE,Syracuse,62,Orange,Syracuse Orange,Syracuse
+401082709,2019,regular-season,2019-02-05,2,52,away,FALSE,Florida State,80,Seminoles,Florida State Seminoles,Florida St

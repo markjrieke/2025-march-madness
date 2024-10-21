@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401121789,2019-03-11,3,2275,home,TRUE,Hofstra,78,Pride,Hofstra Pride,Hofstra
-401121789,2019-03-11,3,48,away,TRUE,Delaware,74,Blue Hens,Delaware Blue Hens,Delaware
-401121741,2019-03-11,2,2542,home,TRUE,Savannah State,67,Tigers,Savannah State Tigers,Savannah St
-401121741,2019-03-11,2,2169,away,TRUE,Delaware State,71,Hornets,Delaware State Hornets,Delaware St
-401121810,2019-03-11,2,2750,home,TRUE,Wright State,66,Raiders,Wright State Raiders,Wright St
-401121810,2019-03-11,2,2739,away,TRUE,Green Bay,54,Phoenix,Green Bay Phoenix,Green Bay
-401121730,2019-03-11,2,2199,home,FALSE,Eastern Michigan,43,Eagles,Eastern Michigan Eagles,E Michigan
-401121730,2019-03-11,2,2050,away,FALSE,Ball State,61,Cardinals,Ball State Cardinals,Ball State
-401121728,2019-03-11,2,2117,home,FALSE,Central Michigan,81,Chippewas,Central Michigan Chippewas,C Michigan
-401121728,2019-03-11,2,2711,away,FALSE,Western Michigan,67,Broncos,Western Michigan Broncos,W Michigan
-401121697,2019-03-11,2,2449,home,TRUE,North Dakota State,76,Bison,North Dakota State Bison,N Dakota St
-401121697,2019-03-11,2,2710,away,TRUE,Western Illinois,73,Leathernecks,Western Illinois Leathernecks,W Illinois
-401121618,2019-03-11,2,2747,home,TRUE,Wofford,70,Terriers,Wofford Terriers,Wofford
-401121618,2019-03-11,2,2430,away,TRUE,UNC Greensboro,58,Spartans,UNC Greensboro Spartans,UNC Greensboro
-401121731,2019-03-11,2,2006,home,FALSE,Akron,80,Zips,Akron Zips,Akron
-401121731,2019-03-11,2,193,away,FALSE,Miami (OH),51,RedHawks,Miami (OH) RedHawks,Miami OH
-401121790,2019-03-11,2,111,home,TRUE,Northeastern,70,Huskies,Northeastern Huskies,Northeastern
-401121790,2019-03-11,2,232,away,TRUE,Charleston,67,Cougars,Charleston Cougars,Charleston
-401121841,2019-03-11,2,2250,home,TRUE,Gonzaga,100,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401121841,2019-03-11,2,2492,away,TRUE,Pepperdine,74,Waves,Pepperdine Waves,Pepperdine
-401121799,2019-03-11,2,314,home,TRUE,Iona,81,Gaels,Iona Gaels,Iona
-401121799,2019-03-11,2,2405,away,TRUE,Monmouth,60,Hawks,Monmouth Hawks,Monmouth
-401121729,2019-03-11,2,2459,home,FALSE,Northern Illinois,80,Huskies,Northern Illinois Huskies,N Illinois
-401121729,2019-03-11,2,195,away,FALSE,Ohio,61,Bobcats,Ohio Bobcats,Ohio
-401121698,2019-03-11,2,2437,home,TRUE,Omaha,61,Mavericks,Omaha Mavericks,Omaha
-401121698,2019-03-11,2,2870,away,TRUE,Purdue Fort Wayne,60,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
-401121811,2019-03-11,2,94,home,TRUE,Northern Kentucky,64,Norse,Northern Kentucky Norse,N Kentucky
-401121811,2019-03-11,2,2473,away,TRUE,Oakland,63,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-401121842,2019-03-11,2,2608,home,TRUE,Saint Mary's,69,Gaels,Saint Mary's Gaels,Saint Mary's
-401121842,2019-03-11,2,301,away,TRUE,San Diego,62,Toreros,San Diego Toreros,San Diego
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401121789,2019,regular-season,2019-03-11,3,2275,home,TRUE,Hofstra,78,Pride,Hofstra Pride,Hofstra
+401121789,2019,regular-season,2019-03-11,3,48,away,TRUE,Delaware,74,Blue Hens,Delaware Blue Hens,Delaware
+401121741,2019,regular-season,2019-03-11,2,2542,home,TRUE,Savannah State,67,Tigers,Savannah State Tigers,Savannah St
+401121741,2019,regular-season,2019-03-11,2,2169,away,TRUE,Delaware State,71,Hornets,Delaware State Hornets,Delaware St
+401121810,2019,regular-season,2019-03-11,2,2750,home,TRUE,Wright State,66,Raiders,Wright State Raiders,Wright St
+401121810,2019,regular-season,2019-03-11,2,2739,away,TRUE,Green Bay,54,Phoenix,Green Bay Phoenix,Green Bay
+401121730,2019,regular-season,2019-03-11,2,2199,home,FALSE,Eastern Michigan,43,Eagles,Eastern Michigan Eagles,E Michigan
+401121730,2019,regular-season,2019-03-11,2,2050,away,FALSE,Ball State,61,Cardinals,Ball State Cardinals,Ball State
+401121728,2019,regular-season,2019-03-11,2,2117,home,FALSE,Central Michigan,81,Chippewas,Central Michigan Chippewas,C Michigan
+401121728,2019,regular-season,2019-03-11,2,2711,away,FALSE,Western Michigan,67,Broncos,Western Michigan Broncos,W Michigan
+401121697,2019,regular-season,2019-03-11,2,2449,home,TRUE,North Dakota State,76,Bison,North Dakota State Bison,N Dakota St
+401121697,2019,regular-season,2019-03-11,2,2710,away,TRUE,Western Illinois,73,Leathernecks,Western Illinois Leathernecks,W Illinois
+401121618,2019,regular-season,2019-03-11,2,2747,home,TRUE,Wofford,70,Terriers,Wofford Terriers,Wofford
+401121618,2019,regular-season,2019-03-11,2,2430,away,TRUE,UNC Greensboro,58,Spartans,UNC Greensboro Spartans,UNC Greensboro
+401121731,2019,regular-season,2019-03-11,2,2006,home,FALSE,Akron,80,Zips,Akron Zips,Akron
+401121731,2019,regular-season,2019-03-11,2,193,away,FALSE,Miami (OH),51,RedHawks,Miami (OH) RedHawks,Miami OH
+401121790,2019,regular-season,2019-03-11,2,111,home,TRUE,Northeastern,70,Huskies,Northeastern Huskies,Northeastern
+401121790,2019,regular-season,2019-03-11,2,232,away,TRUE,Charleston,67,Cougars,Charleston Cougars,Charleston
+401121841,2019,regular-season,2019-03-11,2,2250,home,TRUE,Gonzaga,100,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401121841,2019,regular-season,2019-03-11,2,2492,away,TRUE,Pepperdine,74,Waves,Pepperdine Waves,Pepperdine
+401121799,2019,regular-season,2019-03-11,2,314,home,TRUE,Iona,81,Gaels,Iona Gaels,Iona
+401121799,2019,regular-season,2019-03-11,2,2405,away,TRUE,Monmouth,60,Hawks,Monmouth Hawks,Monmouth
+401121729,2019,regular-season,2019-03-11,2,2459,home,FALSE,Northern Illinois,80,Huskies,Northern Illinois Huskies,N Illinois
+401121729,2019,regular-season,2019-03-11,2,195,away,FALSE,Ohio,61,Bobcats,Ohio Bobcats,Ohio
+401121698,2019,regular-season,2019-03-11,2,2437,home,TRUE,Omaha,61,Mavericks,Omaha Mavericks,Omaha
+401121698,2019,regular-season,2019-03-11,2,2870,away,TRUE,Purdue Fort Wayne,60,Mastodons,Purdue Fort Wayne Mastodons,Purdue FW
+401121811,2019,regular-season,2019-03-11,2,94,home,TRUE,Northern Kentucky,64,Norse,Northern Kentucky Norse,N Kentucky
+401121811,2019,regular-season,2019-03-11,2,2473,away,TRUE,Oakland,63,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+401121842,2019,regular-season,2019-03-11,2,2608,home,TRUE,Saint Mary's,69,Gaels,Saint Mary's Gaels,Saint Mary's
+401121842,2019,regular-season,2019-03-11,2,301,away,TRUE,San Diego,62,Toreros,San Diego Toreros,San Diego

@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400546900,2014-03-20,2,194,home,TRUE,Ohio State,59,Buckeyes,Ohio State Buckeyes,Ohio State
-400546900,2014-03-20,2,2168,away,TRUE,Dayton,60,Flyers,Dayton Flyers,Dayton
-400546924,2014-03-20,2,275,home,TRUE,Wisconsin,75,Badgers,Wisconsin Badgers,Wisconsin
-400546924,2014-03-20,2,44,away,TRUE,American University,35,Eagles,American University Eagles,American
-400546916,2014-03-20,2,38,home,TRUE,Colorado,48,Buffaloes,Colorado Buffaloes,Colorado
-400546916,2014-03-20,2,221,away,TRUE,Pittsburgh,77,Panthers,Pittsburgh Panthers,Pitt
-400546934,2014-03-20,2,2132,home,TRUE,Cincinnati,57,Bearcats,Cincinnati Bearcats,Cincinnati
-400546934,2014-03-20,2,108,away,TRUE,Harvard,61,Crimson,Harvard Crimson,Harvard
-400546920,2014-03-20,2,183,home,TRUE,Syracuse,77,Orange,Syracuse Orange,Syracuse
-400546920,2014-03-20,2,2711,away,TRUE,Western Michigan,53,Broncos,Western Michigan Broncos,W Michigan
-400546925,2014-03-20,2,2483,home,TRUE,Oregon,87,Ducks,Oregon Ducks,Oregon
-400546925,2014-03-20,2,252,away,TRUE,BYU,68,Cougars,BYU Cougars,BYU
-400546943,2014-03-20,2,57,home,TRUE,Florida,67,Gators,Florida Gators,Florida
-400546943,2014-03-20,2,399,away,TRUE,UAlbany,55,Great Danes,UAlbany Great Danes,UAlbany
-400546908,2014-03-20,2,127,home,TRUE,Michigan State,93,Spartans,Michigan State Spartans,Michigan St
-400546908,2014-03-20,2,48,away,TRUE,Delaware,78,Blue Hens,Delaware Blue Hens,Delaware
-400546936,2014-03-20,3,41,home,TRUE,UConn,89,Huskies,UConn Huskies,UConn
-400546936,2014-03-20,3,2603,away,TRUE,Saint Joseph's,81,Hawks,Saint Joseph's Hawks,Saint Joseph's
-400546929,2014-03-20,2,130,home,TRUE,Michigan,57,Wolverines,Michigan Wolverines,Michigan
-400546929,2014-03-20,2,2747,away,TRUE,Wofford,40,Terriers,Wofford Terriers,Wofford
-400546949,2014-03-20,3,139,home,TRUE,Saint Louis,83,Billikens,Saint Louis Billikens,Saint Louis
-400546949,2014-03-20,3,152,away,TRUE,NC State,80,Wolfpack,NC State Wolfpack,NC State
-400546923,2014-03-20,3,201,home,TRUE,Oklahoma,75,Sooners,Oklahoma Sooners,Oklahoma
-400546923,2014-03-20,3,2449,away,TRUE,North Dakota State,80,Bison,North Dakota State Bison,N Dakota St
-400546930,2014-03-20,2,251,home,TRUE,Texas,87,Longhorns,Texas Longhorns,Texas
-400546930,2014-03-20,2,9,away,TRUE,Arizona State,85,Sun Devils,Arizona State Sun Devils,Arizona St
-400546935,2014-03-20,2,222,home,TRUE,Villanova,73,Wildcats,Villanova Wildcats,Villanova
-400546935,2014-03-20,2,270,away,TRUE,Milwaukee,53,Panthers,Milwaukee Panthers,Milwaukee
-400546903,2014-03-20,2,97,home,TRUE,Louisville,71,Cardinals,Louisville Cardinals,Louisville
-400546903,2014-03-20,2,2363,away,TRUE,Manhattan,64,Jaspers,Manhattan Jaspers,Manhattan
-400546901,2014-03-20,3,21,home,TRUE,San Diego State,73,Aztecs,San Diego State Aztecs,San Diego St
-400546901,2014-03-20,3,166,away,TRUE,New Mexico State,69,Aggies,New Mexico State Aggies,New Mexico St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400546900,2014,post-season,2014-03-20,2,194,home,TRUE,Ohio State,59,Buckeyes,Ohio State Buckeyes,Ohio State
+400546900,2014,post-season,2014-03-20,2,2168,away,TRUE,Dayton,60,Flyers,Dayton Flyers,Dayton
+400546924,2014,post-season,2014-03-20,2,275,home,TRUE,Wisconsin,75,Badgers,Wisconsin Badgers,Wisconsin
+400546924,2014,post-season,2014-03-20,2,44,away,TRUE,American University,35,Eagles,American University Eagles,American
+400546916,2014,post-season,2014-03-20,2,38,home,TRUE,Colorado,48,Buffaloes,Colorado Buffaloes,Colorado
+400546916,2014,post-season,2014-03-20,2,221,away,TRUE,Pittsburgh,77,Panthers,Pittsburgh Panthers,Pitt
+400546934,2014,post-season,2014-03-20,2,2132,home,TRUE,Cincinnati,57,Bearcats,Cincinnati Bearcats,Cincinnati
+400546934,2014,post-season,2014-03-20,2,108,away,TRUE,Harvard,61,Crimson,Harvard Crimson,Harvard
+400546920,2014,post-season,2014-03-20,2,183,home,TRUE,Syracuse,77,Orange,Syracuse Orange,Syracuse
+400546920,2014,post-season,2014-03-20,2,2711,away,TRUE,Western Michigan,53,Broncos,Western Michigan Broncos,W Michigan
+400546925,2014,post-season,2014-03-20,2,2483,home,TRUE,Oregon,87,Ducks,Oregon Ducks,Oregon
+400546925,2014,post-season,2014-03-20,2,252,away,TRUE,BYU,68,Cougars,BYU Cougars,BYU
+400546943,2014,post-season,2014-03-20,2,57,home,TRUE,Florida,67,Gators,Florida Gators,Florida
+400546943,2014,post-season,2014-03-20,2,399,away,TRUE,UAlbany,55,Great Danes,UAlbany Great Danes,UAlbany
+400546908,2014,post-season,2014-03-20,2,127,home,TRUE,Michigan State,93,Spartans,Michigan State Spartans,Michigan St
+400546908,2014,post-season,2014-03-20,2,48,away,TRUE,Delaware,78,Blue Hens,Delaware Blue Hens,Delaware
+400546936,2014,post-season,2014-03-20,3,41,home,TRUE,UConn,89,Huskies,UConn Huskies,UConn
+400546936,2014,post-season,2014-03-20,3,2603,away,TRUE,Saint Joseph's,81,Hawks,Saint Joseph's Hawks,Saint Joseph's
+400546929,2014,post-season,2014-03-20,2,130,home,TRUE,Michigan,57,Wolverines,Michigan Wolverines,Michigan
+400546929,2014,post-season,2014-03-20,2,2747,away,TRUE,Wofford,40,Terriers,Wofford Terriers,Wofford
+400546949,2014,post-season,2014-03-20,3,139,home,TRUE,Saint Louis,83,Billikens,Saint Louis Billikens,Saint Louis
+400546949,2014,post-season,2014-03-20,3,152,away,TRUE,NC State,80,Wolfpack,NC State Wolfpack,NC State
+400546923,2014,post-season,2014-03-20,3,201,home,TRUE,Oklahoma,75,Sooners,Oklahoma Sooners,Oklahoma
+400546923,2014,post-season,2014-03-20,3,2449,away,TRUE,North Dakota State,80,Bison,North Dakota State Bison,N Dakota St
+400546930,2014,post-season,2014-03-20,2,251,home,TRUE,Texas,87,Longhorns,Texas Longhorns,Texas
+400546930,2014,post-season,2014-03-20,2,9,away,TRUE,Arizona State,85,Sun Devils,Arizona State Sun Devils,Arizona St
+400546935,2014,post-season,2014-03-20,2,222,home,TRUE,Villanova,73,Wildcats,Villanova Wildcats,Villanova
+400546935,2014,post-season,2014-03-20,2,270,away,TRUE,Milwaukee,53,Panthers,Milwaukee Panthers,Milwaukee
+400546903,2014,post-season,2014-03-20,2,97,home,TRUE,Louisville,71,Cardinals,Louisville Cardinals,Louisville
+400546903,2014,post-season,2014-03-20,2,2363,away,TRUE,Manhattan,64,Jaspers,Manhattan Jaspers,Manhattan
+400546901,2014,post-season,2014-03-20,3,21,home,TRUE,San Diego State,73,Aztecs,San Diego State Aztecs,San Diego St
+400546901,2014,post-season,2014-03-20,3,166,away,TRUE,New Mexico State,69,Aggies,New Mexico State Aggies,New Mexico St

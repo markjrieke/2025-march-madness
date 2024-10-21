@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273322603,2007-11-28,2,2603,home,FALSE,Saint Joseph's,50,Hawks,Saint Joseph's Hawks,Saint Joseph's
-273322603,2007-11-28,2,164,away,FALSE,Rutgers,56,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-273320024,2007-11-28,2,24,home,FALSE,Stanford,96,Cardinal,Stanford Cardinal,Stanford
-273320024,2007-11-28,2,2539,away,FALSE,San Francisco,61,Dons,San Francisco Dons,San Francisco
-273320025,2007-11-28,2,25,home,FALSE,California,75,Golden Bears,California Golden Bears,California
-273320025,2007-11-28,2,2351,away,FALSE,Loyola Marymount,54,Lions,Loyola Marymount Lions,LMU
-273320238,2007-11-28,2,238,home,FALSE,Vanderbilt,68,Commodores,Vanderbilt Commodores,Vanderbilt
-273320238,2007-11-28,2,150,away,FALSE,Duke,55,Blue Devils,Duke Blue Devils,Duke
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273322603,2008,regular-season,2007-11-28,2,2603,home,FALSE,Saint Joseph's,50,Hawks,Saint Joseph's Hawks,Saint Joseph's
+273322603,2008,regular-season,2007-11-28,2,164,away,FALSE,Rutgers,56,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+273320024,2008,regular-season,2007-11-28,2,24,home,FALSE,Stanford,96,Cardinal,Stanford Cardinal,Stanford
+273320024,2008,regular-season,2007-11-28,2,2539,away,FALSE,San Francisco,61,Dons,San Francisco Dons,San Francisco
+273320025,2008,regular-season,2007-11-28,2,25,home,FALSE,California,75,Golden Bears,California Golden Bears,California
+273320025,2008,regular-season,2007-11-28,2,2351,away,FALSE,Loyola Marymount,54,Lions,Loyola Marymount Lions,LMU
+273320238,2008,regular-season,2007-11-28,2,238,home,FALSE,Vanderbilt,68,Commodores,Vanderbilt Commodores,Vanderbilt
+273320238,2008,regular-season,2007-11-28,2,150,away,FALSE,Duke,55,Blue Devils,Duke Blue Devils,Duke

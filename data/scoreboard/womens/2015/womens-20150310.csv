@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400602909,2015-03-10,2,219,home,FALSE,Pennsylvania,42,Quakers,Pennsylvania Quakers,Penn
-400602909,2015-03-10,2,163,away,FALSE,Princeton,55,Tigers,Princeton Tigers,Princeton
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400602909,2015,regular-season,2015-03-10,2,219,home,FALSE,Pennsylvania,42,Quakers,Pennsylvania Quakers,Penn
+400602909,2015,regular-season,2015-03-10,2,163,away,FALSE,Princeton,55,Tigers,Princeton Tigers,Princeton

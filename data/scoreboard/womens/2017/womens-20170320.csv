@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400947267,2017-03-20,4,24,home,TRUE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
-400947267,2017-03-20,4,2306,away,TRUE,Kansas State,48,Wildcats,Kansas State Wildcats,Kansas St
-400947248,2017-03-20,4,41,home,TRUE,UConn,94,Huskies,UConn Huskies,UConn
-400947248,2017-03-20,4,183,away,TRUE,Syracuse,64,Orange,Syracuse Orange,Syracuse
-400947274,2017-03-20,4,150,home,TRUE,Duke,65,Blue Devils,Duke Blue Devils,Duke
-400947274,2017-03-20,4,2483,away,TRUE,Oregon,74,Ducks,Oregon Ducks,Oregon
-400947269,2017-03-20,4,97,home,TRUE,Louisville,75,Cardinals,Louisville Cardinals,Louisville
-400947269,2017-03-20,4,2633,away,TRUE,Tennessee,64,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400947275,2017-03-20,4,264,home,TRUE,Washington,108,Huskies,Washington Huskies,Washington
-400947275,2017-03-20,4,201,away,TRUE,Oklahoma,82,Sooners,Oklahoma Sooners,Oklahoma
-400947271,2017-03-20,4,239,home,TRUE,Baylor,86,Bears,Baylor Bears,Baylor
-400947271,2017-03-20,4,25,away,TRUE,California,46,Golden Bears,California Golden Bears,California
-400947268,2017-03-20,4,2390,home,TRUE,Miami,78,Hurricanes,Miami Hurricanes,Miami
-400947268,2017-03-20,4,2514,away,TRUE,Quinnipiac,85,Bobcats,Quinnipiac Bobcats,Quinnipiac
-400947272,2017-03-20,4,26,home,TRUE,UCLA,75,Bruins,UCLA Bruins,UCLA
-400947272,2017-03-20,4,245,away,TRUE,Texas A&M,43,Aggies,Texas A&M Aggies,Texas A&M
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400947267,2017,post-season,2017-03-20,4,24,home,TRUE,Stanford,69,Cardinal,Stanford Cardinal,Stanford
+400947267,2017,post-season,2017-03-20,4,2306,away,TRUE,Kansas State,48,Wildcats,Kansas State Wildcats,Kansas St
+400947248,2017,post-season,2017-03-20,4,41,home,TRUE,UConn,94,Huskies,UConn Huskies,UConn
+400947248,2017,post-season,2017-03-20,4,183,away,TRUE,Syracuse,64,Orange,Syracuse Orange,Syracuse
+400947274,2017,post-season,2017-03-20,4,150,home,TRUE,Duke,65,Blue Devils,Duke Blue Devils,Duke
+400947274,2017,post-season,2017-03-20,4,2483,away,TRUE,Oregon,74,Ducks,Oregon Ducks,Oregon
+400947269,2017,post-season,2017-03-20,4,97,home,TRUE,Louisville,75,Cardinals,Louisville Cardinals,Louisville
+400947269,2017,post-season,2017-03-20,4,2633,away,TRUE,Tennessee,64,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400947275,2017,post-season,2017-03-20,4,264,home,TRUE,Washington,108,Huskies,Washington Huskies,Washington
+400947275,2017,post-season,2017-03-20,4,201,away,TRUE,Oklahoma,82,Sooners,Oklahoma Sooners,Oklahoma
+400947271,2017,post-season,2017-03-20,4,239,home,TRUE,Baylor,86,Bears,Baylor Bears,Baylor
+400947271,2017,post-season,2017-03-20,4,25,away,TRUE,California,46,Golden Bears,California Golden Bears,California
+400947268,2017,post-season,2017-03-20,4,2390,home,TRUE,Miami,78,Hurricanes,Miami Hurricanes,Miami
+400947268,2017,post-season,2017-03-20,4,2514,away,TRUE,Quinnipiac,85,Bobcats,Quinnipiac Bobcats,Quinnipiac
+400947272,2017,post-season,2017-03-20,4,26,home,TRUE,UCLA,75,Bruins,UCLA Bruins,UCLA
+400947272,2017,post-season,2017-03-20,4,245,away,TRUE,Texas A&M,43,Aggies,Texas A&M Aggies,Texas A&M

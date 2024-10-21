@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-303240242,2010-11-20,2,242,home,FALSE,Rice,40,Owls,Rice Owls,Rice
-303240242,2010-11-20,2,245,away,FALSE,Texas A&M,80,Aggies,Texas A&M Aggies,Texas A&M
-303242294,2010-11-20,2,2294,home,FALSE,Iowa,87,Hawkeyes,Iowa Hawkeyes,Iowa
-303242294,2010-11-20,2,111,away,FALSE,Northeastern,59,Huskies,Northeastern Huskies,Northeastern
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+303240242,2011,regular-season,2010-11-20,2,242,home,FALSE,Rice,40,Owls,Rice Owls,Rice
+303240242,2011,regular-season,2010-11-20,2,245,away,FALSE,Texas A&M,80,Aggies,Texas A&M Aggies,Texas A&M
+303242294,2011,regular-season,2010-11-20,2,2294,home,FALSE,Iowa,87,Hawkeyes,Iowa Hawkeyes,Iowa
+303242294,2011,regular-season,2010-11-20,2,111,away,FALSE,Northeastern,59,Huskies,Northeastern Huskies,Northeastern

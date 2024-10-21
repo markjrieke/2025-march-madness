@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280310150,2008-01-31,2,150,home,FALSE,Duke,92,Blue Devils,Duke Blue Devils,Duke
-280310150,2008-01-31,2,152,away,FALSE,NC State,72,Wolfpack,NC State Wolfpack,NC State
-280310153,2008-01-31,2,153,home,FALSE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
-280310153,2008-01-31,2,103,away,FALSE,Boston College,69,Eagles,Boston College Eagles,Boston College
-280310026,2008-01-31,2,26,home,FALSE,UCLA,84,Bruins,UCLA Bruins,UCLA
-280310026,2008-01-31,2,9,away,FALSE,Arizona State,51,Sun Devils,Arizona State Sun Devils,Arizona St
-280310265,2008-01-31,2,265,home,FALSE,Washington State,64,Cougars,Washington State Cougars,Washington St
-280310265,2008-01-31,2,25,away,FALSE,California,69,Golden Bears,California Golden Bears,California
-280310275,2008-01-31,2,275,home,FALSE,Wisconsin,62,Badgers,Wisconsin Badgers,Wisconsin
-280310275,2008-01-31,2,84,away,FALSE,Indiana,49,Hoosiers,Indiana Hoosiers,Indiana
-280310264,2008-01-31,2,264,home,FALSE,Washington,51,Huskies,Washington Huskies,Washington
-280310264,2008-01-31,2,24,away,FALSE,Stanford,65,Cardinal,Stanford Cardinal,Stanford
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280310150,2008,regular-season,2008-01-31,2,150,home,FALSE,Duke,92,Blue Devils,Duke Blue Devils,Duke
+280310150,2008,regular-season,2008-01-31,2,152,away,FALSE,NC State,72,Wolfpack,NC State Wolfpack,NC State
+280310153,2008,regular-season,2008-01-31,2,153,home,FALSE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
+280310153,2008,regular-season,2008-01-31,2,103,away,FALSE,Boston College,69,Eagles,Boston College Eagles,Boston College
+280310026,2008,regular-season,2008-01-31,2,26,home,FALSE,UCLA,84,Bruins,UCLA Bruins,UCLA
+280310026,2008,regular-season,2008-01-31,2,9,away,FALSE,Arizona State,51,Sun Devils,Arizona State Sun Devils,Arizona St
+280310265,2008,regular-season,2008-01-31,2,265,home,FALSE,Washington State,64,Cougars,Washington State Cougars,Washington St
+280310265,2008,regular-season,2008-01-31,2,25,away,FALSE,California,69,Golden Bears,California Golden Bears,California
+280310275,2008,regular-season,2008-01-31,2,275,home,FALSE,Wisconsin,62,Badgers,Wisconsin Badgers,Wisconsin
+280310275,2008,regular-season,2008-01-31,2,84,away,FALSE,Indiana,49,Hoosiers,Indiana Hoosiers,Indiana
+280310264,2008,regular-season,2008-01-31,2,264,home,FALSE,Washington,51,Huskies,Washington Huskies,Washington
+280310264,2008,regular-season,2008-01-31,2,24,away,FALSE,Stanford,65,Cardinal,Stanford Cardinal,Stanford

@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401575452,2023-11-10,2,2305,home,FALSE,Kansas,99,Jayhawks,Kansas Jayhawks,Kansas
-401575452,2023-11-10,2,2363,away,FALSE,Manhattan,61,Jaspers,Manhattan Jaspers,Manhattan
-401576148,2023-11-10,2,150,home,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
-401576148,2023-11-10,2,12,away,FALSE,Arizona,78,Wildcats,Arizona Wildcats,Arizona
-401577641,2023-11-10,2,2509,home,FALSE,Purdue,87,Boilermakers,Purdue Boilermakers,Purdue
-401577641,2023-11-10,2,2413,away,FALSE,Morehead State,57,Eagles,Morehead State Eagles,Morehead St
-401577599,2023-11-10,2,269,home,FALSE,Marquette,95,Golden Eagles,Marquette Golden Eagles,Marquette
-401577599,2023-11-10,2,2520,away,FALSE,Rider,65,Broncs,Rider Broncs,Rider
-401575518,2023-11-10,2,275,home,FALSE,Wisconsin,70,Badgers,Wisconsin Badgers,Wisconsin
-401575518,2023-11-10,2,2633,away,FALSE,Tennessee,80,Volunteers,Tennessee Volunteers,Tennessee
-401587185,2023-11-10,2,2250,home,FALSE,Gonzaga,86,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401587185,2023-11-10,2,43,away,FALSE,Yale,71,Bulldogs,Yale Bulldogs,Yale
-401575461,2023-11-10,2,2390,home,FALSE,Miami,88,Hurricanes,Miami Hurricanes,Miami
-401575461,2023-11-10,2,2116,away,FALSE,UCF,72,Knights,UCF Knights,UCF
-401594525,2023-11-10,2,8,home,FALSE,Arkansas,86,Razorbacks,Arkansas Razorbacks,Arkansas
-401594525,2023-11-10,2,2241,away,FALSE,Gardner-Webb,68,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-401575510,2023-11-10,2,194,home,FALSE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
-401575510,2023-11-10,2,245,away,FALSE,Texas A&M,73,Aggies,Texas A&M Aggies,Texas A&M
-401588943,2023-11-10,2,96,home,FALSE,Kentucky,81,Wildcats,Kentucky Wildcats,Kentucky
-401588943,2023-11-10,2,2837,away,FALSE,Texas A&M-Commerce,61,Lions,Texas A&M-Commerce Lions,Texas A&M-Comm
-401593950,2023-11-10,2,252,home,FALSE,BYU,74,Cougars,BYU Cougars,BYU
-401593950,2023-11-10,2,21,away,FALSE,San Diego State,65,Aztecs,San Diego State Aztecs,San Diego St
-401583725,2023-11-10,2,251,home,FALSE,Texas,86,Longhorns,Texas Longhorns,Texas
-401583725,2023-11-10,2,2169,away,FALSE,Delaware State,59,Hornets,Delaware State Hornets,Delaware St
-401584357,2023-11-10,2,222,home,FALSE,Villanova,83,Wildcats,Villanova Wildcats,Villanova
-401584357,2023-11-10,2,2330,away,FALSE,Le Moyne,57,Dolphins,Le Moyne Dolphins,Le Moyne
-401591430,2023-11-10,2,333,home,FALSE,Alabama,102,Crimson Tide,Alabama Crimson Tide,Alabama
-401591430,2023-11-10,2,282,away,FALSE,Indiana State,80,Sycamores,Indiana State Sycamores,Indiana St
-401584511,2023-11-10,2,356,home,FALSE,Illinois,64,Fighting Illini,Illinois Fighting Illini,Illinois
-401584511,2023-11-10,2,2473,away,FALSE,Oakland,53,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401575452,2024,regular-season,2023-11-10,2,2305,home,FALSE,Kansas,99,Jayhawks,Kansas Jayhawks,Kansas
+401575452,2024,regular-season,2023-11-10,2,2363,away,FALSE,Manhattan,61,Jaspers,Manhattan Jaspers,Manhattan
+401576148,2024,regular-season,2023-11-10,2,150,home,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
+401576148,2024,regular-season,2023-11-10,2,12,away,FALSE,Arizona,78,Wildcats,Arizona Wildcats,Arizona
+401577641,2024,regular-season,2023-11-10,2,2509,home,FALSE,Purdue,87,Boilermakers,Purdue Boilermakers,Purdue
+401577641,2024,regular-season,2023-11-10,2,2413,away,FALSE,Morehead State,57,Eagles,Morehead State Eagles,Morehead St
+401577599,2024,regular-season,2023-11-10,2,269,home,FALSE,Marquette,95,Golden Eagles,Marquette Golden Eagles,Marquette
+401577599,2024,regular-season,2023-11-10,2,2520,away,FALSE,Rider,65,Broncs,Rider Broncs,Rider
+401575518,2024,regular-season,2023-11-10,2,275,home,FALSE,Wisconsin,70,Badgers,Wisconsin Badgers,Wisconsin
+401575518,2024,regular-season,2023-11-10,2,2633,away,FALSE,Tennessee,80,Volunteers,Tennessee Volunteers,Tennessee
+401587185,2024,regular-season,2023-11-10,2,2250,home,FALSE,Gonzaga,86,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401587185,2024,regular-season,2023-11-10,2,43,away,FALSE,Yale,71,Bulldogs,Yale Bulldogs,Yale
+401575461,2024,regular-season,2023-11-10,2,2390,home,FALSE,Miami,88,Hurricanes,Miami Hurricanes,Miami
+401575461,2024,regular-season,2023-11-10,2,2116,away,FALSE,UCF,72,Knights,UCF Knights,UCF
+401594525,2024,regular-season,2023-11-10,2,8,home,FALSE,Arkansas,86,Razorbacks,Arkansas Razorbacks,Arkansas
+401594525,2024,regular-season,2023-11-10,2,2241,away,FALSE,Gardner-Webb,68,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+401575510,2024,regular-season,2023-11-10,2,194,home,FALSE,Ohio State,66,Buckeyes,Ohio State Buckeyes,Ohio State
+401575510,2024,regular-season,2023-11-10,2,245,away,FALSE,Texas A&M,73,Aggies,Texas A&M Aggies,Texas A&M
+401588943,2024,regular-season,2023-11-10,2,96,home,FALSE,Kentucky,81,Wildcats,Kentucky Wildcats,Kentucky
+401588943,2024,regular-season,2023-11-10,2,2837,away,FALSE,Texas A&M-Commerce,61,Lions,Texas A&M-Commerce Lions,Texas A&M-Comm
+401593950,2024,regular-season,2023-11-10,2,252,home,FALSE,BYU,74,Cougars,BYU Cougars,BYU
+401593950,2024,regular-season,2023-11-10,2,21,away,FALSE,San Diego State,65,Aztecs,San Diego State Aztecs,San Diego St
+401583725,2024,regular-season,2023-11-10,2,251,home,FALSE,Texas,86,Longhorns,Texas Longhorns,Texas
+401583725,2024,regular-season,2023-11-10,2,2169,away,FALSE,Delaware State,59,Hornets,Delaware State Hornets,Delaware St
+401584357,2024,regular-season,2023-11-10,2,222,home,FALSE,Villanova,83,Wildcats,Villanova Wildcats,Villanova
+401584357,2024,regular-season,2023-11-10,2,2330,away,FALSE,Le Moyne,57,Dolphins,Le Moyne Dolphins,Le Moyne
+401591430,2024,regular-season,2023-11-10,2,333,home,FALSE,Alabama,102,Crimson Tide,Alabama Crimson Tide,Alabama
+401591430,2024,regular-season,2023-11-10,2,282,away,FALSE,Indiana State,80,Sycamores,Indiana State Sycamores,Indiana St
+401584511,2024,regular-season,2023-11-10,2,356,home,FALSE,Illinois,64,Fighting Illini,Illinois Fighting Illini,Illinois
+401584511,2024,regular-season,2023-11-10,2,2473,away,FALSE,Oakland,53,Golden Grizzlies,Oakland Golden Grizzlies,Oakland

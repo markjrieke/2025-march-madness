@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-264000031,2006-04-02,2,153,home,FALSE,North Carolina,70,Tar Heels,North Carolina Tar Heels,North Carolina
-264000031,2006-04-02,2,120,away,FALSE,Maryland,81,Terrapins,Maryland Terrapins,Maryland
-264000062,2006-04-02,2,150,home,FALSE,Duke,64,Blue Devils,Duke Blue Devils,Duke
-264000062,2006-04-02,2,99,away,FALSE,LSU,45,Tigers,LSU Tigers,LSU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+264000031,2006,post-season,2006-04-02,2,153,home,FALSE,North Carolina,70,Tar Heels,North Carolina Tar Heels,North Carolina
+264000031,2006,post-season,2006-04-02,2,120,away,FALSE,Maryland,81,Terrapins,Maryland Terrapins,Maryland
+264000062,2006,post-season,2006-04-02,2,150,home,FALSE,Duke,64,Blue Devils,Duke Blue Devils,Duke
+264000062,2006,post-season,2006-04-02,2,99,away,FALSE,LSU,45,Tigers,LSU Tigers,LSU

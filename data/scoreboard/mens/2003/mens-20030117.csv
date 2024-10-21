@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230172352,2003-01-17,2,2352,home,FALSE,Loyola Maryland,69,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-230172352,2003-01-17,2,2368,away,FALSE,Marist,74,Red Foxes,Marist Red Foxes,Marist
-230172653,2003-01-17,2,2653,home,FALSE,Troy,89,Trojans,Troy Trojans,Troy
-230172653,2003-01-17,2,2382,away,FALSE,Mercer,61,Bears,Mercer Bears,Mercer
-230172539,2003-01-17,2,2539,home,FALSE,San Francisco,73,Dons,San Francisco Dons,San Francisco
-230172539,2003-01-17,2,2501,away,FALSE,Portland,59,Pilots,Portland Pilots,Portland
-230172492,2003-01-17,2,2492,home,FALSE,Pepperdine,73,Waves,Pepperdine Waves,Pepperdine
-230172492,2003-01-17,2,2541,away,FALSE,Santa Clara,69,Broncos,Santa Clara Broncos,Santa Clara
-230172608,2003-01-17,2,2608,home,FALSE,Saint Mary's,53,Gaels,Saint Mary's Gaels,Saint Mary's
-230172608,2003-01-17,2,2250,away,FALSE,Gonzaga,56,Bulldogs,Gonzaga Bulldogs,Gonzaga
-230172351,2003-01-17,2,2351,home,FALSE,Loyola Marymount,68,Lions,Loyola Marymount Lions,LMU
-230172351,2003-01-17,2,301,away,FALSE,San Diego,82,Toreros,San Diego Toreros,San Diego
-230170043,2003-01-17,0,43,home,FALSE,Yale,0,Bulldogs,Yale Bulldogs,Yale
-230170043,2003-01-17,0,225,away,FALSE,Brown,0,Bears,Brown Bears,Brown
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230172352,2003,regular-season,2003-01-17,2,2352,home,FALSE,Loyola Maryland,69,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+230172352,2003,regular-season,2003-01-17,2,2368,away,FALSE,Marist,74,Red Foxes,Marist Red Foxes,Marist
+230172653,2003,regular-season,2003-01-17,2,2653,home,FALSE,Troy,89,Trojans,Troy Trojans,Troy
+230172653,2003,regular-season,2003-01-17,2,2382,away,FALSE,Mercer,61,Bears,Mercer Bears,Mercer
+230172539,2003,regular-season,2003-01-17,2,2539,home,FALSE,San Francisco,73,Dons,San Francisco Dons,San Francisco
+230172539,2003,regular-season,2003-01-17,2,2501,away,FALSE,Portland,59,Pilots,Portland Pilots,Portland
+230172492,2003,regular-season,2003-01-17,2,2492,home,FALSE,Pepperdine,73,Waves,Pepperdine Waves,Pepperdine
+230172492,2003,regular-season,2003-01-17,2,2541,away,FALSE,Santa Clara,69,Broncos,Santa Clara Broncos,Santa Clara
+230172608,2003,regular-season,2003-01-17,2,2608,home,FALSE,Saint Mary's,53,Gaels,Saint Mary's Gaels,Saint Mary's
+230172608,2003,regular-season,2003-01-17,2,2250,away,FALSE,Gonzaga,56,Bulldogs,Gonzaga Bulldogs,Gonzaga
+230172351,2003,regular-season,2003-01-17,2,2351,home,FALSE,Loyola Marymount,68,Lions,Loyola Marymount Lions,LMU
+230172351,2003,regular-season,2003-01-17,2,301,away,FALSE,San Diego,82,Toreros,San Diego Toreros,San Diego
+230170043,2003,regular-season,2003-01-17,0,43,home,FALSE,Yale,0,Bulldogs,Yale Bulldogs,Yale
+230170043,2003,regular-season,2003-01-17,0,225,away,FALSE,Brown,0,Bears,Brown Bears,Brown

@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260630150,2006-03-04,2,150,home,FALSE,Duke,76,Blue Devils,Duke Blue Devils,Duke
-260630150,2006-03-04,2,153,away,FALSE,North Carolina,83,Tar Heels,North Carolina Tar Heels,North Carolina
-260630041,2006-03-04,2,41,home,FALSE,UConn,84,Huskies,UConn Huskies,UConn
-260630041,2006-03-04,2,97,away,FALSE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
-260630235,2006-03-04,2,235,home,FALSE,Memphis,69,Tigers,Memphis Tigers,Memphis
-260630235,2006-03-04,2,248,away,FALSE,Houston,62,Cougars,Houston Cougars,Houston
-260630045,2006-03-04,3,45,home,FALSE,George Washington,86,Revolutionaries,George Washington Revolutionaries,G Washington
-260630045,2006-03-04,3,2429,away,FALSE,Charlotte,85,49ers,Charlotte 49ers,Charlotte
-260630127,2006-03-04,2,127,home,FALSE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St
-260630127,2006-03-04,2,356,away,FALSE,Illinois,75,Fighting Illini,Illinois Fighting Illini,Illinois
-260630238,2006-03-04,2,238,home,FALSE,Vanderbilt,59,Commodores,Vanderbilt Commodores,Vanderbilt
-260630238,2006-03-04,2,2633,away,FALSE,Tennessee,68,Volunteers,Tennessee Volunteers,Tennessee
-260630103,2006-03-04,2,103,home,FALSE,Boston College,59,Eagles,Boston College Eagles,Boston College
-260630103,2006-03-04,2,259,away,FALSE,Virginia Tech,57,Hokies,Virginia Tech Hokies,Virginia Tech
-260630012,2006-03-04,2,12,home,FALSE,Arizona,67,Wildcats,Arizona Wildcats,Arizona
-260630012,2006-03-04,2,264,away,FALSE,Washington,70,Huskies,Washington Huskies,Washington
-260630024,2006-03-04,2,24,home,FALSE,Stanford,54,Cardinal,Stanford Cardinal,Stanford
-260630024,2006-03-04,2,26,away,FALSE,UCLA,75,Bruins,UCLA Bruins,UCLA
-260632132,2006-03-04,2,2132,home,FALSE,Cincinnati,78,Bearcats,Cincinnati Bearcats,Cincinnati
-260632132,2006-03-04,2,277,away,FALSE,West Virginia,75,Mountaineers,West Virginia Mountaineers,West Virginia
-260632306,2006-03-04,2,2306,home,FALSE,Kansas State,52,Wildcats,Kansas State Wildcats,Kansas St
-260632306,2006-03-04,2,2305,away,FALSE,Kansas,66,Jayhawks,Kansas Jayhawks,Kansas
-260630058,2006-03-04,2,58,home,FALSE,South Florida,63,Bulls,South Florida Bulls,South Florida
-260630058,2006-03-04,2,46,away,FALSE,Georgetown,56,Hoyas,Georgetown Hoyas,Georgetown
-260630099,2006-03-04,2,99,home,FALSE,LSU,55,Tigers,LSU Tigers,LSU
-260630099,2006-03-04,2,145,away,FALSE,Ole Miss,52,Rebels,Ole Miss Rebels,Ole Miss
-260630154,2006-03-04,2,154,home,FALSE,Wake Forest,76,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-260630154,2006-03-04,2,152,away,FALSE,NC State,63,Wolfpack,NC State Wolfpack,NC State
-260632294,2006-03-04,2,2294,home,FALSE,Iowa,59,Hawkeyes,Iowa Hawkeyes,Iowa
-260632294,2006-03-04,2,275,away,FALSE,Wisconsin,44,Badgers,Wisconsin Badgers,Wisconsin
-260632440,2006-03-04,2,2440,home,FALSE,Nevada,74,Wolf Pack,Nevada Wolf Pack,Nevada
-260632440,2006-03-04,2,278,away,FALSE,Fresno State,60,Bulldogs,Fresno State Bulldogs,Fresno St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260630150,2006,regular-season,2006-03-04,2,150,home,FALSE,Duke,76,Blue Devils,Duke Blue Devils,Duke
+260630150,2006,regular-season,2006-03-04,2,153,away,FALSE,North Carolina,83,Tar Heels,North Carolina Tar Heels,North Carolina
+260630041,2006,regular-season,2006-03-04,2,41,home,FALSE,UConn,84,Huskies,UConn Huskies,UConn
+260630041,2006,regular-season,2006-03-04,2,97,away,FALSE,Louisville,80,Cardinals,Louisville Cardinals,Louisville
+260630235,2006,regular-season,2006-03-04,2,235,home,FALSE,Memphis,69,Tigers,Memphis Tigers,Memphis
+260630235,2006,regular-season,2006-03-04,2,248,away,FALSE,Houston,62,Cougars,Houston Cougars,Houston
+260630045,2006,regular-season,2006-03-04,3,45,home,FALSE,George Washington,86,Revolutionaries,George Washington Revolutionaries,G Washington
+260630045,2006,regular-season,2006-03-04,3,2429,away,FALSE,Charlotte,85,49ers,Charlotte 49ers,Charlotte
+260630127,2006,regular-season,2006-03-04,2,127,home,FALSE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St
+260630127,2006,regular-season,2006-03-04,2,356,away,FALSE,Illinois,75,Fighting Illini,Illinois Fighting Illini,Illinois
+260630238,2006,regular-season,2006-03-04,2,238,home,FALSE,Vanderbilt,59,Commodores,Vanderbilt Commodores,Vanderbilt
+260630238,2006,regular-season,2006-03-04,2,2633,away,FALSE,Tennessee,68,Volunteers,Tennessee Volunteers,Tennessee
+260630103,2006,regular-season,2006-03-04,2,103,home,FALSE,Boston College,59,Eagles,Boston College Eagles,Boston College
+260630103,2006,regular-season,2006-03-04,2,259,away,FALSE,Virginia Tech,57,Hokies,Virginia Tech Hokies,Virginia Tech
+260630012,2006,regular-season,2006-03-04,2,12,home,FALSE,Arizona,67,Wildcats,Arizona Wildcats,Arizona
+260630012,2006,regular-season,2006-03-04,2,264,away,FALSE,Washington,70,Huskies,Washington Huskies,Washington
+260630024,2006,regular-season,2006-03-04,2,24,home,FALSE,Stanford,54,Cardinal,Stanford Cardinal,Stanford
+260630024,2006,regular-season,2006-03-04,2,26,away,FALSE,UCLA,75,Bruins,UCLA Bruins,UCLA
+260632132,2006,regular-season,2006-03-04,2,2132,home,FALSE,Cincinnati,78,Bearcats,Cincinnati Bearcats,Cincinnati
+260632132,2006,regular-season,2006-03-04,2,277,away,FALSE,West Virginia,75,Mountaineers,West Virginia Mountaineers,West Virginia
+260632306,2006,regular-season,2006-03-04,2,2306,home,FALSE,Kansas State,52,Wildcats,Kansas State Wildcats,Kansas St
+260632306,2006,regular-season,2006-03-04,2,2305,away,FALSE,Kansas,66,Jayhawks,Kansas Jayhawks,Kansas
+260630058,2006,regular-season,2006-03-04,2,58,home,FALSE,South Florida,63,Bulls,South Florida Bulls,South Florida
+260630058,2006,regular-season,2006-03-04,2,46,away,FALSE,Georgetown,56,Hoyas,Georgetown Hoyas,Georgetown
+260630099,2006,regular-season,2006-03-04,2,99,home,FALSE,LSU,55,Tigers,LSU Tigers,LSU
+260630099,2006,regular-season,2006-03-04,2,145,away,FALSE,Ole Miss,52,Rebels,Ole Miss Rebels,Ole Miss
+260630154,2006,regular-season,2006-03-04,2,154,home,FALSE,Wake Forest,76,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+260630154,2006,regular-season,2006-03-04,2,152,away,FALSE,NC State,63,Wolfpack,NC State Wolfpack,NC State
+260632294,2006,regular-season,2006-03-04,2,2294,home,FALSE,Iowa,59,Hawkeyes,Iowa Hawkeyes,Iowa
+260632294,2006,regular-season,2006-03-04,2,275,away,FALSE,Wisconsin,44,Badgers,Wisconsin Badgers,Wisconsin
+260632440,2006,regular-season,2006-03-04,2,2440,home,FALSE,Nevada,74,Wolf Pack,Nevada Wolf Pack,Nevada
+260632440,2006,regular-season,2006-03-04,2,278,away,FALSE,Fresno State,60,Bulldogs,Fresno State Bulldogs,Fresno St

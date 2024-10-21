@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250050356,2005-01-05,2,356,home,FALSE,Illinois,84,Fighting Illini,Illinois Fighting Illini,Illinois
-250050356,2005-01-05,2,194,away,FALSE,Ohio State,65,Buckeyes,Ohio State Buckeyes,Ohio State
-250052305,2005-01-05,2,2305,home,FALSE,Kansas,65,Jayhawks,Kansas Jayhawks,Kansas
-250052305,2005-01-05,2,245,away,FALSE,Texas A&M,60,Aggies,Texas A&M Aggies,Texas A&M
-250050150,2005-01-05,2,150,home,FALSE,Duke,59,Blue Devils,Duke Blue Devils,Duke
-250050150,2005-01-05,2,163,away,FALSE,Princeton,46,Tigers,Princeton Tigers,Princeton
-250052599,2005-01-05,2,2599,home,FALSE,St. John's,65,Red Storm,St. John's Red Storm,St John's
-250052599,2005-01-05,2,183,away,FALSE,Syracuse,79,Orange,Syracuse Orange,Syracuse
-250050096,2005-01-05,2,96,home,FALSE,Kentucky,79,Wildcats,Kentucky Wildcats,Kentucky
-250050096,2005-01-05,2,2579,away,FALSE,South Carolina,75,Gamecocks,South Carolina Gamecocks,South Carolina
-250050041,2005-01-05,2,41,home,FALSE,UConn,70,Huskies,UConn Huskies,UConn
-250050041,2005-01-05,2,103,away,FALSE,Boston College,75,Eagles,Boston College Eagles,Boston College
-250052294,2005-01-05,2,2294,home,FALSE,Iowa,63,Hawkeyes,Iowa Hawkeyes,Iowa
-250052294,2005-01-05,2,130,away,FALSE,Michigan,65,Wolverines,Michigan Wolverines,Michigan
-250050221,2005-01-05,2,221,home,FALSE,Pittsburgh,64,Panthers,Pittsburgh Panthers,Pitt
-250050221,2005-01-05,2,46,away,FALSE,Georgetown,67,Hoyas,Georgetown Hoyas,Georgetown
-250050248,2005-01-05,2,248,home,FALSE,Houston,70,Cougars,Houston Cougars,Houston
-250050248,2005-01-05,2,97,away,FALSE,Louisville,67,Cardinals,Louisville Cardinals,Louisville
-250050344,2005-01-05,2,344,home,FALSE,Mississippi State,90,Bulldogs,Mississippi State Bulldogs,Mississippi St
-250050344,2005-01-05,2,2,away,FALSE,Auburn,53,Tigers,Auburn Tigers,Auburn
-250050238,2005-01-05,2,238,home,FALSE,Vanderbilt,70,Commodores,Vanderbilt Commodores,Vanderbilt
-250050238,2005-01-05,2,333,away,FALSE,Alabama,56,Crimson Tide,Alabama Crimson Tide,Alabama
-250050213,2005-01-05,2,213,home,FALSE,Penn State,58,Nittany Lions,Penn State Nittany Lions,Penn State
-250050213,2005-01-05,2,127,away,FALSE,Michigan State,84,Spartans,Michigan State Spartans,Michigan St
-250050222,2005-01-05,2,222,home,FALSE,Villanova,84,Wildcats,Villanova Wildcats,Villanova
-250050222,2005-01-05,2,277,away,FALSE,West Virginia,46,Mountaineers,West Virginia Mountaineers,West Virginia
-250050045,2005-01-05,2,45,home,FALSE,George Washington,71,Revolutionaries,George Washington Revolutionaries,G Washington
-250050045,2005-01-05,2,2325,away,FALSE,La Salle,42,Explorers,La Salle Explorers,La Salle
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250050356,2005,regular-season,2005-01-05,2,356,home,FALSE,Illinois,84,Fighting Illini,Illinois Fighting Illini,Illinois
+250050356,2005,regular-season,2005-01-05,2,194,away,FALSE,Ohio State,65,Buckeyes,Ohio State Buckeyes,Ohio State
+250052305,2005,regular-season,2005-01-05,2,2305,home,FALSE,Kansas,65,Jayhawks,Kansas Jayhawks,Kansas
+250052305,2005,regular-season,2005-01-05,2,245,away,FALSE,Texas A&M,60,Aggies,Texas A&M Aggies,Texas A&M
+250050150,2005,regular-season,2005-01-05,2,150,home,FALSE,Duke,59,Blue Devils,Duke Blue Devils,Duke
+250050150,2005,regular-season,2005-01-05,2,163,away,FALSE,Princeton,46,Tigers,Princeton Tigers,Princeton
+250052599,2005,regular-season,2005-01-05,2,2599,home,FALSE,St. John's,65,Red Storm,St. John's Red Storm,St John's
+250052599,2005,regular-season,2005-01-05,2,183,away,FALSE,Syracuse,79,Orange,Syracuse Orange,Syracuse
+250050096,2005,regular-season,2005-01-05,2,96,home,FALSE,Kentucky,79,Wildcats,Kentucky Wildcats,Kentucky
+250050096,2005,regular-season,2005-01-05,2,2579,away,FALSE,South Carolina,75,Gamecocks,South Carolina Gamecocks,South Carolina
+250050041,2005,regular-season,2005-01-05,2,41,home,FALSE,UConn,70,Huskies,UConn Huskies,UConn
+250050041,2005,regular-season,2005-01-05,2,103,away,FALSE,Boston College,75,Eagles,Boston College Eagles,Boston College
+250052294,2005,regular-season,2005-01-05,2,2294,home,FALSE,Iowa,63,Hawkeyes,Iowa Hawkeyes,Iowa
+250052294,2005,regular-season,2005-01-05,2,130,away,FALSE,Michigan,65,Wolverines,Michigan Wolverines,Michigan
+250050221,2005,regular-season,2005-01-05,2,221,home,FALSE,Pittsburgh,64,Panthers,Pittsburgh Panthers,Pitt
+250050221,2005,regular-season,2005-01-05,2,46,away,FALSE,Georgetown,67,Hoyas,Georgetown Hoyas,Georgetown
+250050248,2005,regular-season,2005-01-05,2,248,home,FALSE,Houston,70,Cougars,Houston Cougars,Houston
+250050248,2005,regular-season,2005-01-05,2,97,away,FALSE,Louisville,67,Cardinals,Louisville Cardinals,Louisville
+250050344,2005,regular-season,2005-01-05,2,344,home,FALSE,Mississippi State,90,Bulldogs,Mississippi State Bulldogs,Mississippi St
+250050344,2005,regular-season,2005-01-05,2,2,away,FALSE,Auburn,53,Tigers,Auburn Tigers,Auburn
+250050238,2005,regular-season,2005-01-05,2,238,home,FALSE,Vanderbilt,70,Commodores,Vanderbilt Commodores,Vanderbilt
+250050238,2005,regular-season,2005-01-05,2,333,away,FALSE,Alabama,56,Crimson Tide,Alabama Crimson Tide,Alabama
+250050213,2005,regular-season,2005-01-05,2,213,home,FALSE,Penn State,58,Nittany Lions,Penn State Nittany Lions,Penn State
+250050213,2005,regular-season,2005-01-05,2,127,away,FALSE,Michigan State,84,Spartans,Michigan State Spartans,Michigan St
+250050222,2005,regular-season,2005-01-05,2,222,home,FALSE,Villanova,84,Wildcats,Villanova Wildcats,Villanova
+250050222,2005,regular-season,2005-01-05,2,277,away,FALSE,West Virginia,46,Mountaineers,West Virginia Mountaineers,West Virginia
+250050045,2005,regular-season,2005-01-05,2,45,home,FALSE,George Washington,71,Revolutionaries,George Washington Revolutionaries,G Washington
+250050045,2005,regular-season,2005-01-05,2,2325,away,FALSE,La Salle,42,Explorers,La Salle Explorers,La Salle

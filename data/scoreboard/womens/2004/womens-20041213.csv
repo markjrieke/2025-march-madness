@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243480219,2004-12-13,2,219,home,FALSE,Pennsylvania,57,Quakers,Pennsylvania Quakers,Penn
-243480219,2004-12-13,2,194,away,FALSE,Ohio State,70,Buckeyes,Ohio State Buckeyes,Ohio State
-243480218,2004-12-13,2,218,home,FALSE,Temple,71,Owls,Temple Owls,Temple
-243480218,2004-12-13,2,164,away,FALSE,Rutgers,60,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243480219,2005,regular-season,2004-12-13,2,219,home,FALSE,Pennsylvania,57,Quakers,Pennsylvania Quakers,Penn
+243480219,2005,regular-season,2004-12-13,2,194,away,FALSE,Ohio State,70,Buckeyes,Ohio State Buckeyes,Ohio State
+243480218,2005,regular-season,2004-12-13,2,218,home,FALSE,Temple,71,Owls,Temple Owls,Temple
+243480218,2005,regular-season,2004-12-13,2,164,away,FALSE,Rutgers,60,Scarlet Knights,Rutgers Scarlet Knights,Rutgers

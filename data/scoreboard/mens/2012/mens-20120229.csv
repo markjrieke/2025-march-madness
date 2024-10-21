@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320600153,2012-02-29,2,153,home,FALSE,North Carolina,88,Tar Heels,North Carolina Tar Heels,North Carolina
-320600153,2012-02-29,2,120,away,FALSE,Maryland,64,Terrapins,Maryland Terrapins,Maryland
-320600142,2012-02-29,2,142,home,FALSE,Missouri,78,Tigers,Missouri Tigers,Missouri
-320600142,2012-02-29,2,66,away,FALSE,Iowa State,72,Cyclones,Iowa State Cyclones,Iowa State
-320602132,2012-02-29,2,2132,home,FALSE,Cincinnati,72,Bearcats,Cincinnati Bearcats,Cincinnati
-320602132,2012-02-29,2,269,away,FALSE,Marquette,61,Golden Eagles,Marquette Golden Eagles,Marquette
-320600077,2012-02-29,2,77,home,FALSE,Northwestern,73,Wildcats,Northwestern Wildcats,Northwestern
-320600077,2012-02-29,2,194,away,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
-320600036,2012-02-29,2,36,home,FALSE,Colorado State,66,Rams,Colorado State Rams,Colorado St
-320600036,2012-02-29,2,2439,away,FALSE,UNLV,59,Rebels,UNLV Rebels,UNLV
-320600097,2012-02-29,2,97,home,FALSE,Louisville,51,Cardinals,Louisville Cardinals,Louisville
-320600097,2012-02-29,2,58,away,FALSE,South Florida,58,Bulls,South Florida Bulls,South Florida
-320600068,2012-02-29,2,68,home,FALSE,Boise State,53,Broncos,Boise State Broncos,Boise St
-320600068,2012-02-29,2,21,away,FALSE,San Diego State,66,Aztecs,San Diego State Aztecs,San Diego St
-320600218,2012-02-29,3,218,home,FALSE,Temple,90,Owls,Temple Owls,Temple
-320600218,2012-02-29,3,113,away,FALSE,Massachusetts,88,Minutemen,Massachusetts Minutemen,UMass
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320600153,2012,regular-season,2012-02-29,2,153,home,FALSE,North Carolina,88,Tar Heels,North Carolina Tar Heels,North Carolina
+320600153,2012,regular-season,2012-02-29,2,120,away,FALSE,Maryland,64,Terrapins,Maryland Terrapins,Maryland
+320600142,2012,regular-season,2012-02-29,2,142,home,FALSE,Missouri,78,Tigers,Missouri Tigers,Missouri
+320600142,2012,regular-season,2012-02-29,2,66,away,FALSE,Iowa State,72,Cyclones,Iowa State Cyclones,Iowa State
+320602132,2012,regular-season,2012-02-29,2,2132,home,FALSE,Cincinnati,72,Bearcats,Cincinnati Bearcats,Cincinnati
+320602132,2012,regular-season,2012-02-29,2,269,away,FALSE,Marquette,61,Golden Eagles,Marquette Golden Eagles,Marquette
+320600077,2012,regular-season,2012-02-29,2,77,home,FALSE,Northwestern,73,Wildcats,Northwestern Wildcats,Northwestern
+320600077,2012,regular-season,2012-02-29,2,194,away,FALSE,Ohio State,75,Buckeyes,Ohio State Buckeyes,Ohio State
+320600036,2012,regular-season,2012-02-29,2,36,home,FALSE,Colorado State,66,Rams,Colorado State Rams,Colorado St
+320600036,2012,regular-season,2012-02-29,2,2439,away,FALSE,UNLV,59,Rebels,UNLV Rebels,UNLV
+320600097,2012,regular-season,2012-02-29,2,97,home,FALSE,Louisville,51,Cardinals,Louisville Cardinals,Louisville
+320600097,2012,regular-season,2012-02-29,2,58,away,FALSE,South Florida,58,Bulls,South Florida Bulls,South Florida
+320600068,2012,regular-season,2012-02-29,2,68,home,FALSE,Boise State,53,Broncos,Boise State Broncos,Boise St
+320600068,2012,regular-season,2012-02-29,2,21,away,FALSE,San Diego State,66,Aztecs,San Diego State Aztecs,San Diego St
+320600218,2012,regular-season,2012-02-29,3,218,home,FALSE,Temple,90,Owls,Temple Owls,Temple
+320600218,2012,regular-season,2012-02-29,3,113,away,FALSE,Massachusetts,88,Minutemen,Massachusetts Minutemen,UMass

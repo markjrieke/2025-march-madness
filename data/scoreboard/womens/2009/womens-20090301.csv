@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290600030,2009-03-01,2,30,home,FALSE,USC,74,Trojans,USC Trojans,USC
-290600030,2009-03-01,2,24,away,FALSE,Stanford,85,Cardinal,Stanford Cardinal,Stanford
-290600026,2009-03-01,2,26,home,FALSE,UCLA,71,Bruins,UCLA Bruins,UCLA
-290600026,2009-03-01,2,25,away,FALSE,California,56,Golden Bears,California Golden Bears,California
-290602390,2009-03-01,2,2390,home,FALSE,Miami,64,Hurricanes,Miami Hurricanes,Miami
-290602390,2009-03-01,2,120,away,FALSE,Maryland,89,Terrapins,Maryland Terrapins,Maryland
-290600002,2009-03-01,2,2,home,FALSE,Auburn,94,Tigers,Auburn Tigers,Auburn
-290600002,2009-03-01,2,8,away,FALSE,Arkansas,57,Razorbacks,Arkansas Razorbacks,Arkansas
-290600150,2009-03-01,3,150,home,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
-290600150,2009-03-01,3,153,away,FALSE,North Carolina,79,Tar Heels,North Carolina Tar Heels,North Carolina
-290600154,2009-03-01,2,154,home,FALSE,Wake Forest,47,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-290600154,2009-03-01,2,52,away,FALSE,Florida State,58,Seminoles,Florida State Seminoles,Florida St
-290602306,2009-03-01,2,2306,home,FALSE,Kansas State,45,Wildcats,Kansas State Wildcats,Kansas St
-290602306,2009-03-01,2,245,away,FALSE,Texas A&M,71,Aggies,Texas A&M Aggies,Texas A&M
-290600194,2009-03-01,2,194,home,TRUE,Ohio State,74,Buckeyes,Ohio State Buckeyes,Ohio State
-290600194,2009-03-01,2,213,away,TRUE,Penn State,63,Lady Lions,Penn State Lady Lions,Penn State
-290600061,2009-03-01,2,61,home,FALSE,Georgia,84,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-290600061,2009-03-01,2,57,away,FALSE,Florida,75,Gators,Florida Gators,Florida
-290602633,2009-03-01,2,2633,home,FALSE,Tennessee,75,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-290602633,2009-03-01,2,238,away,FALSE,Vanderbilt,66,Commodores,Vanderbilt Commodores,Vanderbilt
-290600059,2009-03-01,2,59,home,FALSE,Georgia Tech,74,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-290600059,2009-03-01,2,258,away,FALSE,Virginia,66,Cavaliers,Virginia Cavaliers,Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290600030,2009,regular-season,2009-03-01,2,30,home,FALSE,USC,74,Trojans,USC Trojans,USC
+290600030,2009,regular-season,2009-03-01,2,24,away,FALSE,Stanford,85,Cardinal,Stanford Cardinal,Stanford
+290600026,2009,regular-season,2009-03-01,2,26,home,FALSE,UCLA,71,Bruins,UCLA Bruins,UCLA
+290600026,2009,regular-season,2009-03-01,2,25,away,FALSE,California,56,Golden Bears,California Golden Bears,California
+290602390,2009,regular-season,2009-03-01,2,2390,home,FALSE,Miami,64,Hurricanes,Miami Hurricanes,Miami
+290602390,2009,regular-season,2009-03-01,2,120,away,FALSE,Maryland,89,Terrapins,Maryland Terrapins,Maryland
+290600002,2009,regular-season,2009-03-01,2,2,home,FALSE,Auburn,94,Tigers,Auburn Tigers,Auburn
+290600002,2009,regular-season,2009-03-01,2,8,away,FALSE,Arkansas,57,Razorbacks,Arkansas Razorbacks,Arkansas
+290600150,2009,regular-season,2009-03-01,3,150,home,FALSE,Duke,81,Blue Devils,Duke Blue Devils,Duke
+290600150,2009,regular-season,2009-03-01,3,153,away,FALSE,North Carolina,79,Tar Heels,North Carolina Tar Heels,North Carolina
+290600154,2009,regular-season,2009-03-01,2,154,home,FALSE,Wake Forest,47,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+290600154,2009,regular-season,2009-03-01,2,52,away,FALSE,Florida State,58,Seminoles,Florida State Seminoles,Florida St
+290602306,2009,regular-season,2009-03-01,2,2306,home,FALSE,Kansas State,45,Wildcats,Kansas State Wildcats,Kansas St
+290602306,2009,regular-season,2009-03-01,2,245,away,FALSE,Texas A&M,71,Aggies,Texas A&M Aggies,Texas A&M
+290600194,2009,regular-season,2009-03-01,2,194,home,TRUE,Ohio State,74,Buckeyes,Ohio State Buckeyes,Ohio State
+290600194,2009,regular-season,2009-03-01,2,213,away,TRUE,Penn State,63,Lady Lions,Penn State Lady Lions,Penn State
+290600061,2009,regular-season,2009-03-01,2,61,home,FALSE,Georgia,84,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+290600061,2009,regular-season,2009-03-01,2,57,away,FALSE,Florida,75,Gators,Florida Gators,Florida
+290602633,2009,regular-season,2009-03-01,2,2633,home,FALSE,Tennessee,75,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+290602633,2009,regular-season,2009-03-01,2,238,away,FALSE,Vanderbilt,66,Commodores,Vanderbilt Commodores,Vanderbilt
+290600059,2009,regular-season,2009-03-01,2,59,home,FALSE,Georgia Tech,74,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+290600059,2009,regular-season,2009-03-01,2,258,away,FALSE,Virginia,66,Cavaliers,Virginia Cavaliers,Virginia

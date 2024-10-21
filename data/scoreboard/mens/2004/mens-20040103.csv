@@ -1,35 +1,35 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240030228,2004-01-03,2,228,home,FALSE,Clemson,54,Tigers,Clemson Tigers,Clemson
-240030228,2004-01-03,2,150,away,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
-240030061,2004-01-03,4,61,home,FALSE,Georgia,83,Bulldogs,Georgia Bulldogs,Georgia
-240030061,2004-01-03,4,59,away,FALSE,Georgia Tech,80,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-240030009,2004-01-03,2,9,home,FALSE,Arizona State,74,Sun Devils,Arizona State Sun Devils,Arizona St
-240030009,2004-01-03,2,12,away,FALSE,Arizona,93,Wildcats,Arizona Wildcats,Arizona
-240030154,2004-01-03,2,154,home,FALSE,Wake Forest,70,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-240030154,2004-01-03,2,167,away,FALSE,New Mexico,61,Lobos,New Mexico Lobos,New Mexico
-240030201,2004-01-03,2,201,home,FALSE,Oklahoma,58,Sooners,Oklahoma Sooners,Oklahoma
-240030201,2004-01-03,2,163,away,FALSE,Princeton,55,Tigers,Princeton Tigers,Princeton
-240030096,2004-01-03,2,96,home,FALSE,Kentucky,61,Wildcats,Kentucky Wildcats,Kentucky
-240030096,2004-01-03,2,153,away,FALSE,North Carolina,56,Tar Heels,North Carolina Tar Heels,North Carolina
-240032603,2004-01-03,2,2603,home,FALSE,Saint Joseph's,90,Hawks,Saint Joseph's Hawks,Saint Joseph's
-240032603,2004-01-03,2,45,away,FALSE,George Washington,81,Revolutionaries,George Washington Revolutionaries,G Washington
-240030097,2004-01-03,2,97,home,FALSE,Louisville,91,Cardinals,Louisville Cardinals,Louisville
-240030097,2004-01-03,2,93,away,FALSE,Murray State,69,Racers,Murray State Racers,Murray St
-240030057,2004-01-03,2,57,home,FALSE,Florida,87,Gators,Florida Gators,Florida
-240030057,2004-01-03,2,52,away,FALSE,Florida State,73,Seminoles,Florida State Seminoles,Florida St
-240030221,2004-01-03,2,221,home,FALSE,Pittsburgh,70,Panthers,Pittsburgh Panthers,Pitt
-240030221,2004-01-03,2,2729,away,FALSE,William & Mary,55,Tribe,William & Mary Tribe,William & Mary
-240030183,2004-01-03,2,183,home,FALSE,Syracuse,96,Orange,Syracuse Orange,Syracuse
-240030183,2004-01-03,2,127,away,FALSE,Michigan State,83,Spartans,Michigan State Spartans,Michigan St
-240030275,2004-01-03,2,275,home,FALSE,Wisconsin,75,Badgers,Wisconsin Badgers,Wisconsin
-240030275,2004-01-03,2,232,away,FALSE,Charleston,49,Cougars,Charleston Cougars,Charleston
-240030356,2004-01-03,3,356,home,FALSE,Illinois,80,Fighting Illini,Illinois Fighting Illini,Illinois
-240030356,2004-01-03,3,2287,away,FALSE,Illinois State,73,Redbirds,Illinois State Redbirds,Illinois St
-240030239,2004-01-03,2,239,home,FALSE,Baylor,65,Bears,Baylor Bears,Baylor
-240030239,2004-01-03,2,2509,away,FALSE,Purdue,76,Boilermakers,Purdue Boilermakers,Purdue
-240032628,2004-01-03,2,2628,home,FALSE,TCU,60,Horned Frogs,TCU Horned Frogs,TCU
-240032628,2004-01-03,2,238,away,FALSE,Vanderbilt,95,Commodores,Vanderbilt Commodores,Vanderbilt
-240030142,2004-01-03,2,142,home,FALSE,Missouri,76,Tigers,Missouri Tigers,Missouri
-240030142,2004-01-03,2,2294,away,FALSE,Iowa,56,Hawkeyes,Iowa Hawkeyes,Iowa
-240032031,2004-01-03,2,2031,home,FALSE,Little Rock,58,Trojans,Little Rock Trojans,Little Rock
-240032031,2004-01-03,2,344,away,FALSE,Mississippi State,68,Bulldogs,Mississippi State Bulldogs,Mississippi St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240030228,2004,regular-season,2004-01-03,2,228,home,FALSE,Clemson,54,Tigers,Clemson Tigers,Clemson
+240030228,2004,regular-season,2004-01-03,2,150,away,FALSE,Duke,73,Blue Devils,Duke Blue Devils,Duke
+240030061,2004,regular-season,2004-01-03,4,61,home,FALSE,Georgia,83,Bulldogs,Georgia Bulldogs,Georgia
+240030061,2004,regular-season,2004-01-03,4,59,away,FALSE,Georgia Tech,80,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+240030009,2004,regular-season,2004-01-03,2,9,home,FALSE,Arizona State,74,Sun Devils,Arizona State Sun Devils,Arizona St
+240030009,2004,regular-season,2004-01-03,2,12,away,FALSE,Arizona,93,Wildcats,Arizona Wildcats,Arizona
+240030154,2004,regular-season,2004-01-03,2,154,home,FALSE,Wake Forest,70,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+240030154,2004,regular-season,2004-01-03,2,167,away,FALSE,New Mexico,61,Lobos,New Mexico Lobos,New Mexico
+240030201,2004,regular-season,2004-01-03,2,201,home,FALSE,Oklahoma,58,Sooners,Oklahoma Sooners,Oklahoma
+240030201,2004,regular-season,2004-01-03,2,163,away,FALSE,Princeton,55,Tigers,Princeton Tigers,Princeton
+240030096,2004,regular-season,2004-01-03,2,96,home,FALSE,Kentucky,61,Wildcats,Kentucky Wildcats,Kentucky
+240030096,2004,regular-season,2004-01-03,2,153,away,FALSE,North Carolina,56,Tar Heels,North Carolina Tar Heels,North Carolina
+240032603,2004,regular-season,2004-01-03,2,2603,home,FALSE,Saint Joseph's,90,Hawks,Saint Joseph's Hawks,Saint Joseph's
+240032603,2004,regular-season,2004-01-03,2,45,away,FALSE,George Washington,81,Revolutionaries,George Washington Revolutionaries,G Washington
+240030097,2004,regular-season,2004-01-03,2,97,home,FALSE,Louisville,91,Cardinals,Louisville Cardinals,Louisville
+240030097,2004,regular-season,2004-01-03,2,93,away,FALSE,Murray State,69,Racers,Murray State Racers,Murray St
+240030057,2004,regular-season,2004-01-03,2,57,home,FALSE,Florida,87,Gators,Florida Gators,Florida
+240030057,2004,regular-season,2004-01-03,2,52,away,FALSE,Florida State,73,Seminoles,Florida State Seminoles,Florida St
+240030221,2004,regular-season,2004-01-03,2,221,home,FALSE,Pittsburgh,70,Panthers,Pittsburgh Panthers,Pitt
+240030221,2004,regular-season,2004-01-03,2,2729,away,FALSE,William & Mary,55,Tribe,William & Mary Tribe,William & Mary
+240030183,2004,regular-season,2004-01-03,2,183,home,FALSE,Syracuse,96,Orange,Syracuse Orange,Syracuse
+240030183,2004,regular-season,2004-01-03,2,127,away,FALSE,Michigan State,83,Spartans,Michigan State Spartans,Michigan St
+240030275,2004,regular-season,2004-01-03,2,275,home,FALSE,Wisconsin,75,Badgers,Wisconsin Badgers,Wisconsin
+240030275,2004,regular-season,2004-01-03,2,232,away,FALSE,Charleston,49,Cougars,Charleston Cougars,Charleston
+240030356,2004,regular-season,2004-01-03,3,356,home,FALSE,Illinois,80,Fighting Illini,Illinois Fighting Illini,Illinois
+240030356,2004,regular-season,2004-01-03,3,2287,away,FALSE,Illinois State,73,Redbirds,Illinois State Redbirds,Illinois St
+240030239,2004,regular-season,2004-01-03,2,239,home,FALSE,Baylor,65,Bears,Baylor Bears,Baylor
+240030239,2004,regular-season,2004-01-03,2,2509,away,FALSE,Purdue,76,Boilermakers,Purdue Boilermakers,Purdue
+240032628,2004,regular-season,2004-01-03,2,2628,home,FALSE,TCU,60,Horned Frogs,TCU Horned Frogs,TCU
+240032628,2004,regular-season,2004-01-03,2,238,away,FALSE,Vanderbilt,95,Commodores,Vanderbilt Commodores,Vanderbilt
+240030142,2004,regular-season,2004-01-03,2,142,home,FALSE,Missouri,76,Tigers,Missouri Tigers,Missouri
+240030142,2004,regular-season,2004-01-03,2,2294,away,FALSE,Iowa,56,Hawkeyes,Iowa Hawkeyes,Iowa
+240032031,2004,regular-season,2004-01-03,2,2031,home,FALSE,Little Rock,58,Trojans,Little Rock Trojans,Little Rock
+240032031,2004,regular-season,2004-01-03,2,344,away,FALSE,Mississippi State,68,Bulldogs,Mississippi State Bulldogs,Mississippi St

@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263430097,2006-12-09,2,97,home,FALSE,Louisville,70,Cardinals,Louisville Cardinals,Louisville
-263430097,2006-12-09,2,98,away,FALSE,Western Kentucky,58,Lady Toppers,Western Kentucky Lady Toppers,Western KY
-263430164,2006-12-09,2,164,home,FALSE,Rutgers,76,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-263430164,2006-12-09,2,163,away,FALSE,Princeton,51,Tigers,Princeton Tigers,Princeton
-263430127,2006-12-09,2,127,home,FALSE,Michigan State,58,Spartans,Michigan State Spartans,Michigan St
-263430127,2006-12-09,2,42,away,FALSE,Hartford,45,Hawks,Hartford Hawks,Hartford
-263430167,2006-12-09,2,167,home,FALSE,New Mexico,72,Lobos,New Mexico Lobos,New Mexico
-263430167,2006-12-09,2,26,away,FALSE,UCLA,63,Bruins,UCLA Bruins,UCLA
-263432473,2006-12-09,2,2473,home,FALSE,Oakland,51,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-263432473,2006-12-09,2,269,away,FALSE,Marquette,64,Golden Eagles,Marquette Golden Eagles,Marquette
-263430158,2006-12-09,2,158,home,FALSE,Nebraska,87,Cornhuskers,Nebraska Cornhuskers,Nebraska
-263430158,2006-12-09,2,130,away,FALSE,Michigan,47,Wolverines,Michigan Wolverines,Michigan
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263430097,2007,regular-season,2006-12-09,2,97,home,FALSE,Louisville,70,Cardinals,Louisville Cardinals,Louisville
+263430097,2007,regular-season,2006-12-09,2,98,away,FALSE,Western Kentucky,58,Lady Toppers,Western Kentucky Lady Toppers,Western KY
+263430164,2007,regular-season,2006-12-09,2,164,home,FALSE,Rutgers,76,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+263430164,2007,regular-season,2006-12-09,2,163,away,FALSE,Princeton,51,Tigers,Princeton Tigers,Princeton
+263430127,2007,regular-season,2006-12-09,2,127,home,FALSE,Michigan State,58,Spartans,Michigan State Spartans,Michigan St
+263430127,2007,regular-season,2006-12-09,2,42,away,FALSE,Hartford,45,Hawks,Hartford Hawks,Hartford
+263430167,2007,regular-season,2006-12-09,2,167,home,FALSE,New Mexico,72,Lobos,New Mexico Lobos,New Mexico
+263430167,2007,regular-season,2006-12-09,2,26,away,FALSE,UCLA,63,Bruins,UCLA Bruins,UCLA
+263432473,2007,regular-season,2006-12-09,2,2473,home,FALSE,Oakland,51,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+263432473,2007,regular-season,2006-12-09,2,269,away,FALSE,Marquette,64,Golden Eagles,Marquette Golden Eagles,Marquette
+263430158,2007,regular-season,2006-12-09,2,158,home,FALSE,Nebraska,87,Cornhuskers,Nebraska Cornhuskers,Nebraska
+263430158,2007,regular-season,2006-12-09,2,130,away,FALSE,Michigan,47,Wolverines,Michigan Wolverines,Michigan

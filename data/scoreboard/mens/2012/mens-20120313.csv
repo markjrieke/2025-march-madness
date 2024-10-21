@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320732400,2012-03-13,2,2400,home,TRUE,Mississippi Valley State,58,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
-320732400,2012-03-13,2,98,away,TRUE,Western Kentucky,59,Hilltoppers,Western Kentucky Hilltoppers,Western KY
-320730252,2012-03-13,2,252,home,TRUE,BYU,78,Cougars,BYU Cougars,BYU
-320730252,2012-03-13,2,314,away,TRUE,Iona,72,Gaels,Iona Gaels,Iona
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320732400,2012,post-season,2012-03-13,2,2400,home,TRUE,Mississippi Valley State,58,Delta Devils,Mississippi Valley State Delta Devils,Miss Valley St
+320732400,2012,post-season,2012-03-13,2,98,away,TRUE,Western Kentucky,59,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+320730252,2012,post-season,2012-03-13,2,252,home,TRUE,BYU,78,Cougars,BYU Cougars,BYU
+320730252,2012,post-season,2012-03-13,2,314,away,TRUE,Iona,72,Gaels,Iona Gaels,Iona

@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-223280057,2002-11-24,2,57,home,FALSE,Florida,88,Gators,Florida Gators,Florida
-223280057,2002-11-24,2,324,away,FALSE,Coastal Carolina,45,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
-223282483,2002-11-24,2,2483,home,FALSE,Oregon,97,Ducks,Oregon Ducks,Oregon
-223282483,2002-11-24,2,2755,away,FALSE,Grambling,52,Tigers,Grambling Tigers,Grambling
-223282752,2002-11-24,2,2752,home,FALSE,Xavier,93,Musketeers,Xavier Musketeers,Xavier
-223282752,2002-11-24,2,50,away,FALSE,Florida A&M,64,Rattlers,Florida A&M Rattlers,Florida A&M
-223280120,2002-11-24,2,120,home,FALSE,Maryland,64,Terrapins,Maryland Terrapins,Maryland
-223280120,2002-11-24,2,193,away,FALSE,Miami (OH),49,RedHawks,Miami (OH) RedHawks,Miami OH
-223280135,2002-11-24,2,135,home,FALSE,Minnesota,87,Golden Gophers,Minnesota Golden Gophers,Minnesota
-223280135,2002-11-24,2,2427,away,FALSE,UNC Asheville,81,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-223280292,2002-11-24,2,292,home,FALSE,UT Rio Grande Valley,50,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-223280292,2002-11-24,2,202,away,FALSE,Tulsa,80,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+223280057,2003,regular-season,2002-11-24,2,57,home,FALSE,Florida,88,Gators,Florida Gators,Florida
+223280057,2003,regular-season,2002-11-24,2,324,away,FALSE,Coastal Carolina,45,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+223282483,2003,regular-season,2002-11-24,2,2483,home,FALSE,Oregon,97,Ducks,Oregon Ducks,Oregon
+223282483,2003,regular-season,2002-11-24,2,2755,away,FALSE,Grambling,52,Tigers,Grambling Tigers,Grambling
+223282752,2003,regular-season,2002-11-24,2,2752,home,FALSE,Xavier,93,Musketeers,Xavier Musketeers,Xavier
+223282752,2003,regular-season,2002-11-24,2,50,away,FALSE,Florida A&M,64,Rattlers,Florida A&M Rattlers,Florida A&M
+223280120,2003,regular-season,2002-11-24,2,120,home,FALSE,Maryland,64,Terrapins,Maryland Terrapins,Maryland
+223280120,2003,regular-season,2002-11-24,2,193,away,FALSE,Miami (OH),49,RedHawks,Miami (OH) RedHawks,Miami OH
+223280135,2003,regular-season,2002-11-24,2,135,home,FALSE,Minnesota,87,Golden Gophers,Minnesota Golden Gophers,Minnesota
+223280135,2003,regular-season,2002-11-24,2,2427,away,FALSE,UNC Asheville,81,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+223280292,2003,regular-season,2002-11-24,2,292,home,FALSE,UT Rio Grande Valley,50,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+223280292,2003,regular-season,2002-11-24,2,202,away,FALSE,Tulsa,80,Golden Hurricane,Tulsa Golden Hurricane,Tulsa

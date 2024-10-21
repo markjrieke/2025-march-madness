@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240502633,2004-02-19,2,2633,home,FALSE,Tennessee,88,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-240502633,2004-02-19,2,57,away,FALSE,Florida,79,Gators,Florida Gators,Florida
-240500150,2004-02-19,2,150,home,FALSE,Duke,87,Blue Devils,Duke Blue Devils,Duke
-240500150,2004-02-19,2,258,away,FALSE,Virginia,54,Cavaliers,Virginia Cavaliers,Virginia
-240502509,2004-02-19,2,2509,home,FALSE,Purdue,65,Boilermakers,Purdue Boilermakers,Purdue
-240502509,2004-02-19,2,356,away,FALSE,Illinois,49,Fighting Illini,Illinois Fighting Illini,Illinois
-240500213,2004-02-19,2,213,home,FALSE,Penn State,66,Lady Lions,Penn State Lady Lions,Penn State
-240500213,2004-02-19,2,275,away,FALSE,Wisconsin,50,Badgers,Wisconsin Badgers,Wisconsin
-240500024,2004-02-19,2,24,home,FALSE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
-240500024,2004-02-19,2,30,away,FALSE,USC,57,Trojans,USC Trojans,USC
-240502294,2004-02-19,2,2294,home,FALSE,Iowa,81,Hawkeyes,Iowa Hawkeyes,Iowa
-240502294,2004-02-19,2,135,away,FALSE,Minnesota,61,Golden Gophers,Minnesota Golden Gophers,Minnesota
-240500099,2004-02-19,2,99,home,FALSE,LSU,55,Tigers,LSU Tigers,LSU
-240500099,2004-02-19,2,238,away,FALSE,Vanderbilt,61,Commodores,Vanderbilt Commodores,Vanderbilt
-240500153,2004-02-19,2,153,home,FALSE,North Carolina,79,Tar Heels,North Carolina Tar Heels,North Carolina
-240500153,2004-02-19,2,120,away,FALSE,Maryland,64,Terrapins,Maryland Terrapins,Maryland
-240500167,2004-02-19,2,167,home,FALSE,New Mexico,49,Lobos,New Mexico Lobos,New Mexico
-240500167,2004-02-19,2,254,away,FALSE,Utah,46,Utes,Utah Utes,Utah
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240502633,2004,regular-season,2004-02-19,2,2633,home,FALSE,Tennessee,88,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+240502633,2004,regular-season,2004-02-19,2,57,away,FALSE,Florida,79,Gators,Florida Gators,Florida
+240500150,2004,regular-season,2004-02-19,2,150,home,FALSE,Duke,87,Blue Devils,Duke Blue Devils,Duke
+240500150,2004,regular-season,2004-02-19,2,258,away,FALSE,Virginia,54,Cavaliers,Virginia Cavaliers,Virginia
+240502509,2004,regular-season,2004-02-19,2,2509,home,FALSE,Purdue,65,Boilermakers,Purdue Boilermakers,Purdue
+240502509,2004,regular-season,2004-02-19,2,356,away,FALSE,Illinois,49,Fighting Illini,Illinois Fighting Illini,Illinois
+240500213,2004,regular-season,2004-02-19,2,213,home,FALSE,Penn State,66,Lady Lions,Penn State Lady Lions,Penn State
+240500213,2004,regular-season,2004-02-19,2,275,away,FALSE,Wisconsin,50,Badgers,Wisconsin Badgers,Wisconsin
+240500024,2004,regular-season,2004-02-19,2,24,home,FALSE,Stanford,75,Cardinal,Stanford Cardinal,Stanford
+240500024,2004,regular-season,2004-02-19,2,30,away,FALSE,USC,57,Trojans,USC Trojans,USC
+240502294,2004,regular-season,2004-02-19,2,2294,home,FALSE,Iowa,81,Hawkeyes,Iowa Hawkeyes,Iowa
+240502294,2004,regular-season,2004-02-19,2,135,away,FALSE,Minnesota,61,Golden Gophers,Minnesota Golden Gophers,Minnesota
+240500099,2004,regular-season,2004-02-19,2,99,home,FALSE,LSU,55,Tigers,LSU Tigers,LSU
+240500099,2004,regular-season,2004-02-19,2,238,away,FALSE,Vanderbilt,61,Commodores,Vanderbilt Commodores,Vanderbilt
+240500153,2004,regular-season,2004-02-19,2,153,home,FALSE,North Carolina,79,Tar Heels,North Carolina Tar Heels,North Carolina
+240500153,2004,regular-season,2004-02-19,2,120,away,FALSE,Maryland,64,Terrapins,Maryland Terrapins,Maryland
+240500167,2004,regular-season,2004-02-19,2,167,home,FALSE,New Mexico,49,Lobos,New Mexico Lobos,New Mexico
+240500167,2004,regular-season,2004-02-19,2,254,away,FALSE,Utah,46,Utes,Utah Utes,Utah

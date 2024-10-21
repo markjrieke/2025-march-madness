@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230720251,2003-03-13,2,251,home,FALSE,Texas,62,Longhorns,Texas Longhorns,Texas
-230720251,2003-03-13,2,38,away,FALSE,Colorado,47,Buffaloes,Colorado Buffaloes,Colorado
-230722306,2003-03-13,2,2306,home,FALSE,Kansas State,65,Wildcats,Kansas State Wildcats,Kansas St
-230722306,2003-03-13,2,2641,away,FALSE,Texas Tech,71,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230720251,2003,regular-season,2003-03-13,2,251,home,FALSE,Texas,62,Longhorns,Texas Longhorns,Texas
+230720251,2003,regular-season,2003-03-13,2,38,away,FALSE,Colorado,47,Buffaloes,Colorado Buffaloes,Colorado
+230722306,2003,regular-season,2003-03-13,2,2306,home,FALSE,Kansas State,65,Wildcats,Kansas State Wildcats,Kansas St
+230722306,2003,regular-season,2003-03-13,2,2641,away,FALSE,Texas Tech,71,Lady Raiders,Texas Tech Lady Raiders,Texas Tech

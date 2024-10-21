@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243420041,2004-12-07,2,41,home,FALSE,UConn,55,Huskies,UConn Huskies,UConn
-243420041,2004-12-07,2,42,away,FALSE,Hartford,32,Hawks,Hartford Hawks,Hartford
-243420061,2004-12-07,2,61,home,FALSE,Georgia,57,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-243420061,2004-12-07,2,9,away,FALSE,Arizona State,67,Sun Devils,Arizona State Sun Devils,Arizona St
-243420120,2004-12-07,2,120,home,FALSE,Maryland,91,Terrapins,Maryland Terrapins,Maryland
-243420120,2004-12-07,2,179,away,FALSE,St. Bonaventure,42,Bonnies,St. Bonaventure Bonnies,St Bonaventure
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243420041,2005,regular-season,2004-12-07,2,41,home,FALSE,UConn,55,Huskies,UConn Huskies,UConn
+243420041,2005,regular-season,2004-12-07,2,42,away,FALSE,Hartford,32,Hawks,Hartford Hawks,Hartford
+243420061,2005,regular-season,2004-12-07,2,61,home,FALSE,Georgia,57,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+243420061,2005,regular-season,2004-12-07,2,9,away,FALSE,Arizona State,67,Sun Devils,Arizona State Sun Devils,Arizona St
+243420120,2005,regular-season,2004-12-07,2,120,home,FALSE,Maryland,91,Terrapins,Maryland Terrapins,Maryland
+243420120,2005,regular-season,2004-12-07,2,179,away,FALSE,St. Bonaventure,42,Bonnies,St. Bonaventure Bonnies,St Bonaventure

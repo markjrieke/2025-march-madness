@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290150228,2009-01-15,2,228,home,FALSE,Clemson,56,Tigers,Clemson Tigers,Clemson
-290150228,2009-01-15,2,120,away,FALSE,Maryland,65,Terrapins,Maryland Terrapins,Maryland
-290150344,2009-01-15,2,344,home,FALSE,Mississippi State,56,Bulldogs,Mississippi State Bulldogs,Mississippi St
-290150344,2009-01-15,2,2633,away,FALSE,Tennessee,63,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-290150194,2009-01-15,2,194,home,FALSE,Ohio State,56,Buckeyes,Ohio State Buckeyes,Ohio State
-290150194,2009-01-15,2,135,away,FALSE,Minnesota,59,Golden Gophers,Minnesota Golden Gophers,Minnesota
-290152579,2009-01-15,2,2579,home,FALSE,South Carolina,63,Gamecocks,South Carolina Gamecocks,South Carolina
-290152579,2009-01-15,2,57,away,FALSE,Florida,77,Gators,Florida Gators,Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290150228,2009,regular-season,2009-01-15,2,228,home,FALSE,Clemson,56,Tigers,Clemson Tigers,Clemson
+290150228,2009,regular-season,2009-01-15,2,120,away,FALSE,Maryland,65,Terrapins,Maryland Terrapins,Maryland
+290150344,2009,regular-season,2009-01-15,2,344,home,FALSE,Mississippi State,56,Bulldogs,Mississippi State Bulldogs,Mississippi St
+290150344,2009,regular-season,2009-01-15,2,2633,away,FALSE,Tennessee,63,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+290150194,2009,regular-season,2009-01-15,2,194,home,FALSE,Ohio State,56,Buckeyes,Ohio State Buckeyes,Ohio State
+290150194,2009,regular-season,2009-01-15,2,135,away,FALSE,Minnesota,59,Golden Gophers,Minnesota Golden Gophers,Minnesota
+290152579,2009,regular-season,2009-01-15,2,2579,home,FALSE,South Carolina,63,Gamecocks,South Carolina Gamecocks,South Carolina
+290152579,2009,regular-season,2009-01-15,2,57,away,FALSE,Florida,77,Gators,Florida Gators,Florida

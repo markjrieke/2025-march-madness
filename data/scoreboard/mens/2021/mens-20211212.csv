@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401373640,2021-12-12,2,30,home,FALSE,USC,73,Trojans,USC Trojans,USC
-401373640,2021-12-12,2,299,away,FALSE,Long Beach State,62,Beach,Long Beach State Beach,Long Beach St
-401371988,2021-12-12,2,66,home,FALSE,Iowa State,47,Cyclones,Iowa State Cyclones,Iowa State
-401371988,2021-12-12,2,2296,away,FALSE,Jackson State,37,Tigers,Jackson State Tigers,Jackson St
-401371292,2021-12-12,0,2250,home,FALSE,Gonzaga,0,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401371292,2021-12-12,0,264,away,FALSE,Washington,0,Huskies,Washington Huskies,Washington
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401373640,2022,regular-season,2021-12-12,2,30,home,FALSE,USC,73,Trojans,USC Trojans,USC
+401373640,2022,regular-season,2021-12-12,2,299,away,FALSE,Long Beach State,62,Beach,Long Beach State Beach,Long Beach St
+401371988,2022,regular-season,2021-12-12,2,66,home,FALSE,Iowa State,47,Cyclones,Iowa State Cyclones,Iowa State
+401371988,2022,regular-season,2021-12-12,2,2296,away,FALSE,Jackson State,37,Tigers,Jackson State Tigers,Jackson St
+401371292,2022,regular-season,2021-12-12,0,2250,home,FALSE,Gonzaga,0,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401371292,2022,regular-season,2021-12-12,0,264,away,FALSE,Washington,0,Huskies,Washington Huskies,Washington

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330632305,2013-03-04,2,2305,home,FALSE,Kansas,79,Jayhawks,Kansas Jayhawks,Kansas
-330632305,2013-03-04,2,2641,away,FALSE,Texas Tech,42,Red Raiders,Texas Tech Red Raiders,Texas Tech
-330630097,2013-03-04,2,97,home,FALSE,Louisville,67,Cardinals,Louisville Cardinals,Louisville
-330630097,2013-03-04,2,2132,away,FALSE,Cincinnati,51,Bearcats,Cincinnati Bearcats,Cincinnati
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330632305,2013,regular-season,2013-03-04,2,2305,home,FALSE,Kansas,79,Jayhawks,Kansas Jayhawks,Kansas
+330632305,2013,regular-season,2013-03-04,2,2641,away,FALSE,Texas Tech,42,Red Raiders,Texas Tech Red Raiders,Texas Tech
+330630097,2013,regular-season,2013-03-04,2,97,home,FALSE,Louisville,67,Cardinals,Louisville Cardinals,Louisville
+330630097,2013,regular-season,2013-03-04,2,2132,away,FALSE,Cincinnati,51,Bearcats,Cincinnati Bearcats,Cincinnati

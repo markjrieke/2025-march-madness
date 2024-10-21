@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300862633,2010-03-27,2,2633,home,TRUE,Tennessee,62,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-300862633,2010-03-27,2,239,away,TRUE,Baylor,77,Bears,Baylor Bears,Baylor
-300860150,2010-03-27,2,150,home,TRUE,Duke,66,Blue Devils,Duke Blue Devils,Duke
-300860150,2010-03-27,2,21,away,TRUE,San Diego State,58,Aztecs,San Diego State Aztecs,San Diego St
-300860024,2010-03-27,2,24,home,TRUE,Stanford,73,Cardinal,Stanford Cardinal,Stanford
-300860024,2010-03-27,2,61,away,TRUE,Georgia,36,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-300862752,2010-03-27,2,2752,home,TRUE,Xavier,74,Musketeers,Xavier Musketeers,Xavier
-300862752,2010-03-27,2,2250,away,TRUE,Gonzaga,56,Bulldogs,Gonzaga Bulldogs,Gonzaga
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300862633,2010,post-season,2010-03-27,2,2633,home,TRUE,Tennessee,62,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+300862633,2010,post-season,2010-03-27,2,239,away,TRUE,Baylor,77,Bears,Baylor Bears,Baylor
+300860150,2010,post-season,2010-03-27,2,150,home,TRUE,Duke,66,Blue Devils,Duke Blue Devils,Duke
+300860150,2010,post-season,2010-03-27,2,21,away,TRUE,San Diego State,58,Aztecs,San Diego State Aztecs,San Diego St
+300860024,2010,post-season,2010-03-27,2,24,home,TRUE,Stanford,73,Cardinal,Stanford Cardinal,Stanford
+300860024,2010,post-season,2010-03-27,2,61,away,TRUE,Georgia,36,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+300862752,2010,post-season,2010-03-27,2,2752,home,TRUE,Xavier,74,Musketeers,Xavier Musketeers,Xavier
+300862752,2010,post-season,2010-03-27,2,2250,away,TRUE,Gonzaga,56,Bulldogs,Gonzaga Bulldogs,Gonzaga

@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300172633,2010-01-17,2,2633,home,FALSE,Tennessee,64,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-300172633,2010-01-17,2,238,away,FALSE,Vanderbilt,57,Commodores,Vanderbilt Commodores,Vanderbilt
-300170194,2010-01-17,2,194,home,FALSE,Ohio State,81,Buckeyes,Ohio State Buckeyes,Ohio State
-300170194,2010-01-17,2,84,away,FALSE,Indiana,64,Hoosiers,Indiana Hoosiers,Indiana
-300170008,2010-01-17,2,8,home,FALSE,Arkansas,63,Razorbacks,Arkansas Razorbacks,Arkansas
-300170008,2010-01-17,2,61,away,FALSE,Georgia,73,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-300170201,2010-01-17,2,201,home,FALSE,Oklahoma,74,Sooners,Oklahoma Sooners,Oklahoma
-300170201,2010-01-17,2,245,away,FALSE,Texas A&M,65,Aggies,Texas A&M Aggies,Texas A&M
-300170239,2010-01-17,2,239,home,FALSE,Baylor,56,Bears,Baylor Bears,Baylor
-300170239,2010-01-17,2,158,away,FALSE,Nebraska,65,Cornhuskers,Nebraska Cornhuskers,Nebraska
-300170153,2010-01-17,2,153,home,FALSE,North Carolina,75,Tar Heels,North Carolina Tar Heels,North Carolina
-300170153,2010-01-17,2,120,away,FALSE,Maryland,64,Terrapins,Maryland Terrapins,Maryland
-300170145,2010-01-17,2,145,home,FALSE,Ole Miss,80,Rebels,Ole Miss Rebels,Ole Miss
-300170145,2010-01-17,2,99,away,FALSE,LSU,71,Tigers,LSU Tigers,LSU
-300170052,2010-01-17,2,52,home,FALSE,Florida State,74,Seminoles,Florida State Seminoles,Florida St
-300170052,2010-01-17,2,152,away,FALSE,NC State,71,Wolfpack,NC State Wolfpack,NC State
-300170221,2010-01-17,2,221,home,FALSE,Pittsburgh,54,Panthers,Pittsburgh Panthers,Pitt
-300170221,2010-01-17,2,277,away,FALSE,West Virginia,69,Mountaineers,West Virginia Mountaineers,West Virginia
-300170213,2010-01-17,2,213,home,FALSE,Penn State,68,Lady Lions,Penn State Lady Lions,Penn State
-300170213,2010-01-17,2,127,away,FALSE,Michigan State,60,Spartans,Michigan State Spartans,Michigan St
-300170103,2010-01-17,2,103,home,FALSE,Boston College,77,Eagles,Boston College Eagles,Boston College
-300170103,2010-01-17,2,59,away,FALSE,Georgia Tech,51,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-300170154,2010-01-17,2,154,home,FALSE,Wake Forest,67,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-300170154,2010-01-17,2,2390,away,FALSE,Miami,64,Hurricanes,Miami Hurricanes,Miami
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300172633,2010,regular-season,2010-01-17,2,2633,home,FALSE,Tennessee,64,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+300172633,2010,regular-season,2010-01-17,2,238,away,FALSE,Vanderbilt,57,Commodores,Vanderbilt Commodores,Vanderbilt
+300170194,2010,regular-season,2010-01-17,2,194,home,FALSE,Ohio State,81,Buckeyes,Ohio State Buckeyes,Ohio State
+300170194,2010,regular-season,2010-01-17,2,84,away,FALSE,Indiana,64,Hoosiers,Indiana Hoosiers,Indiana
+300170008,2010,regular-season,2010-01-17,2,8,home,FALSE,Arkansas,63,Razorbacks,Arkansas Razorbacks,Arkansas
+300170008,2010,regular-season,2010-01-17,2,61,away,FALSE,Georgia,73,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+300170201,2010,regular-season,2010-01-17,2,201,home,FALSE,Oklahoma,74,Sooners,Oklahoma Sooners,Oklahoma
+300170201,2010,regular-season,2010-01-17,2,245,away,FALSE,Texas A&M,65,Aggies,Texas A&M Aggies,Texas A&M
+300170239,2010,regular-season,2010-01-17,2,239,home,FALSE,Baylor,56,Bears,Baylor Bears,Baylor
+300170239,2010,regular-season,2010-01-17,2,158,away,FALSE,Nebraska,65,Cornhuskers,Nebraska Cornhuskers,Nebraska
+300170153,2010,regular-season,2010-01-17,2,153,home,FALSE,North Carolina,75,Tar Heels,North Carolina Tar Heels,North Carolina
+300170153,2010,regular-season,2010-01-17,2,120,away,FALSE,Maryland,64,Terrapins,Maryland Terrapins,Maryland
+300170145,2010,regular-season,2010-01-17,2,145,home,FALSE,Ole Miss,80,Rebels,Ole Miss Rebels,Ole Miss
+300170145,2010,regular-season,2010-01-17,2,99,away,FALSE,LSU,71,Tigers,LSU Tigers,LSU
+300170052,2010,regular-season,2010-01-17,2,52,home,FALSE,Florida State,74,Seminoles,Florida State Seminoles,Florida St
+300170052,2010,regular-season,2010-01-17,2,152,away,FALSE,NC State,71,Wolfpack,NC State Wolfpack,NC State
+300170221,2010,regular-season,2010-01-17,2,221,home,FALSE,Pittsburgh,54,Panthers,Pittsburgh Panthers,Pitt
+300170221,2010,regular-season,2010-01-17,2,277,away,FALSE,West Virginia,69,Mountaineers,West Virginia Mountaineers,West Virginia
+300170213,2010,regular-season,2010-01-17,2,213,home,FALSE,Penn State,68,Lady Lions,Penn State Lady Lions,Penn State
+300170213,2010,regular-season,2010-01-17,2,127,away,FALSE,Michigan State,60,Spartans,Michigan State Spartans,Michigan St
+300170103,2010,regular-season,2010-01-17,2,103,home,FALSE,Boston College,77,Eagles,Boston College Eagles,Boston College
+300170103,2010,regular-season,2010-01-17,2,59,away,FALSE,Georgia Tech,51,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+300170154,2010,regular-season,2010-01-17,2,154,home,FALSE,Wake Forest,67,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+300170154,2010,regular-season,2010-01-17,2,2390,away,FALSE,Miami,64,Hurricanes,Miami Hurricanes,Miami

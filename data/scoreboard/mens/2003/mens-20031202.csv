@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-233360057,2003-12-02,2,57,home,FALSE,Florida,102,Gators,Florida Gators,Florida
-233360057,2003-12-02,2,50,away,FALSE,Florida A&M,78,Rattlers,Florida A&M Rattlers,Florida A&M
-233360142,2003-12-02,2,142,home,FALSE,Missouri,70,Tigers,Missouri Tigers,Missouri
-233360142,2003-12-02,2,2154,away,FALSE,Coppin State,61,Eagles,Coppin State Eagles,Coppin St
-233360153,2003-12-02,2,153,home,FALSE,North Carolina,88,Tar Heels,North Carolina Tar Heels,North Carolina
-233360153,2003-12-02,2,356,away,FALSE,Illinois,81,Fighting Illini,Illinois Fighting Illini,Illinois
-233362603,2003-12-02,2,2603,home,FALSE,Saint Joseph's,84,Hawks,Saint Joseph's Hawks,Saint Joseph's
-233362603,2003-12-02,2,2539,away,FALSE,San Francisco,52,Dons,San Francisco Dons,San Francisco
-233360201,2003-12-02,2,201,home,FALSE,Oklahoma,94,Sooners,Oklahoma Sooners,Oklahoma
-233360201,2003-12-02,2,2029,away,FALSE,Arkansas-Pine Bluff,24,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-233360120,2003-12-02,3,120,home,FALSE,Maryland,73,Terrapins,Maryland Terrapins,Maryland
-233360120,2003-12-02,3,275,away,FALSE,Wisconsin,67,Badgers,Wisconsin Badgers,Wisconsin
-233360154,2003-12-02,2,154,home,FALSE,Wake Forest,100,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-233360154,2003-12-02,2,84,away,FALSE,Indiana,67,Hoosiers,Indiana Hoosiers,Indiana
-233362674,2003-12-02,2,2674,home,FALSE,Valparaiso,49,Beacons,Valparaiso Beacons,Valparaiso
-233362674,2003-12-02,2,2132,away,FALSE,Cincinnati,68,Bearcats,Cincinnati Bearcats,Cincinnati
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+233360057,2004,regular-season,2003-12-02,2,57,home,FALSE,Florida,102,Gators,Florida Gators,Florida
+233360057,2004,regular-season,2003-12-02,2,50,away,FALSE,Florida A&M,78,Rattlers,Florida A&M Rattlers,Florida A&M
+233360142,2004,regular-season,2003-12-02,2,142,home,FALSE,Missouri,70,Tigers,Missouri Tigers,Missouri
+233360142,2004,regular-season,2003-12-02,2,2154,away,FALSE,Coppin State,61,Eagles,Coppin State Eagles,Coppin St
+233360153,2004,regular-season,2003-12-02,2,153,home,FALSE,North Carolina,88,Tar Heels,North Carolina Tar Heels,North Carolina
+233360153,2004,regular-season,2003-12-02,2,356,away,FALSE,Illinois,81,Fighting Illini,Illinois Fighting Illini,Illinois
+233362603,2004,regular-season,2003-12-02,2,2603,home,FALSE,Saint Joseph's,84,Hawks,Saint Joseph's Hawks,Saint Joseph's
+233362603,2004,regular-season,2003-12-02,2,2539,away,FALSE,San Francisco,52,Dons,San Francisco Dons,San Francisco
+233360201,2004,regular-season,2003-12-02,2,201,home,FALSE,Oklahoma,94,Sooners,Oklahoma Sooners,Oklahoma
+233360201,2004,regular-season,2003-12-02,2,2029,away,FALSE,Arkansas-Pine Bluff,24,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+233360120,2004,regular-season,2003-12-02,3,120,home,FALSE,Maryland,73,Terrapins,Maryland Terrapins,Maryland
+233360120,2004,regular-season,2003-12-02,3,275,away,FALSE,Wisconsin,67,Badgers,Wisconsin Badgers,Wisconsin
+233360154,2004,regular-season,2003-12-02,2,154,home,FALSE,Wake Forest,100,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+233360154,2004,regular-season,2003-12-02,2,84,away,FALSE,Indiana,67,Hoosiers,Indiana Hoosiers,Indiana
+233362674,2004,regular-season,2003-12-02,2,2674,home,FALSE,Valparaiso,49,Beacons,Valparaiso Beacons,Valparaiso
+233362674,2004,regular-season,2003-12-02,2,2132,away,FALSE,Cincinnati,68,Bearcats,Cincinnati Bearcats,Cincinnati

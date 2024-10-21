@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400994147,2017-11-17,4,251,home,FALSE,Texas,120,Longhorns,Texas Longhorns,Texas
-400994147,2017-11-17,4,2636,away,FALSE,UTSA,70,Roadrunners,UTSA Roadrunners,UTSA
-400993771,2017-11-17,4,194,home,FALSE,Ohio State,95,Buckeyes,Ohio State Buckeyes,Ohio State
-400993771,2017-11-17,4,2514,away,FALSE,Quinnipiac,63,Bobcats,Quinnipiac Bobcats,Quinnipiac
-400994349,2017-11-17,4,24,home,FALSE,Stanford,53,Cardinal,Stanford Cardinal,Stanford
-400994349,2017-11-17,4,27,away,FALSE,UC Riverside,43,Highlanders,UC Riverside Highlanders,UC Riverside
-400987683,2017-11-17,4,57,home,FALSE,Florida,54,Gators,Florida Gators,Florida
-400987683,2017-11-17,4,52,away,FALSE,Florida State,84,Seminoles,Florida State Seminoles,Florida St
-400994116,2017-11-17,4,201,home,FALSE,Oklahoma,87,Sooners,Oklahoma Sooners,Oklahoma
-400994116,2017-11-17,4,2567,away,FALSE,SMU,75,Mustangs,SMU Mustangs,SMU
-400995465,2017-11-17,4,58,home,FALSE,South Florida,98,Bulls,South Florida Bulls,South Florida
-400995465,2017-11-17,4,2032,away,FALSE,Arkansas State,55,Red Wolves,Arkansas State Red Wolves,Arkansas St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400994147,2018,regular-season,2017-11-17,4,251,home,FALSE,Texas,120,Longhorns,Texas Longhorns,Texas
+400994147,2018,regular-season,2017-11-17,4,2636,away,FALSE,UTSA,70,Roadrunners,UTSA Roadrunners,UTSA
+400993771,2018,regular-season,2017-11-17,4,194,home,FALSE,Ohio State,95,Buckeyes,Ohio State Buckeyes,Ohio State
+400993771,2018,regular-season,2017-11-17,4,2514,away,FALSE,Quinnipiac,63,Bobcats,Quinnipiac Bobcats,Quinnipiac
+400994349,2018,regular-season,2017-11-17,4,24,home,FALSE,Stanford,53,Cardinal,Stanford Cardinal,Stanford
+400994349,2018,regular-season,2017-11-17,4,27,away,FALSE,UC Riverside,43,Highlanders,UC Riverside Highlanders,UC Riverside
+400987683,2018,regular-season,2017-11-17,4,57,home,FALSE,Florida,54,Gators,Florida Gators,Florida
+400987683,2018,regular-season,2017-11-17,4,52,away,FALSE,Florida State,84,Seminoles,Florida State Seminoles,Florida St
+400994116,2018,regular-season,2017-11-17,4,201,home,FALSE,Oklahoma,87,Sooners,Oklahoma Sooners,Oklahoma
+400994116,2018,regular-season,2017-11-17,4,2567,away,FALSE,SMU,75,Mustangs,SMU Mustangs,SMU
+400995465,2018,regular-season,2017-11-17,4,58,home,FALSE,South Florida,98,Bulls,South Florida Bulls,South Florida
+400995465,2018,regular-season,2017-11-17,4,2032,away,FALSE,Arkansas State,55,Red Wolves,Arkansas State Red Wolves,Arkansas St

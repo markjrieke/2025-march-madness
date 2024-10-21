@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213490142,2001-12-15,2,142,home,FALSE,Missouri,65,Tigers,Missouri Tigers,Missouri
-213490142,2001-12-15,2,2294,away,FALSE,Iowa,83,Hawkeyes,Iowa Hawkeyes,Iowa
-213492305,2001-12-15,2,2305,home,FALSE,Kansas,106,Jayhawks,Kansas Jayhawks,Kansas
-213492305,2001-12-15,2,2569,away,FALSE,South Carolina State,73,Bulldogs,South Carolina State Bulldogs,SC State
-213490057,2001-12-15,2,57,home,FALSE,Florida,73,Gators,Florida Gators,Florida
-213490057,2001-12-15,2,2429,away,FALSE,Charlotte,52,49ers,Charlotte 49ers,Charlotte
-213490127,2001-12-15,2,127,home,FALSE,Michigan State,74,Spartans,Michigan State Spartans,Michigan St
-213490127,2001-12-15,2,12,away,FALSE,Arizona,60,Wildcats,Arizona Wildcats,Arizona
-213490096,2001-12-15,2,96,home,FALSE,Kentucky,118,Wildcats,Kentucky Wildcats,Kentucky
-213490096,2001-12-15,2,2310,away,FALSE,Kentucky State,63,Thorobreds,Kentucky State Thorobreds,Kentucky St
-213490024,2001-12-15,2,24,home,FALSE,Stanford,94,Cardinal,Stanford Cardinal,Stanford
-213490024,2001-12-15,2,299,away,FALSE,Long Beach State,77,Beach,Long Beach State Beach,Long Beach St
-213490026,2001-12-15,2,26,home,FALSE,UCLA,75,Bruins,UCLA Bruins,UCLA
-213490026,2001-12-15,2,300,away,FALSE,UC Irvine,74,Anteaters,UC Irvine Anteaters,UC Irvine
-213490046,2001-12-15,2,46,home,FALSE,Georgetown,87,Hoyas,Georgetown Hoyas,Georgetown
-213490046,2001-12-15,2,2450,away,FALSE,Norfolk State,68,Spartans,Norfolk State Spartans,Norfolk St
-213490085,2001-12-15,2,85,home,FALSE,IU Indianapolis,81,Jaguars,IU Indianapolis Jaguars,IU Indy
-213490085,2001-12-15,2,2050,away,FALSE,Ball State,103,Cardinals,Ball State Cardinals,Ball State
-213492390,2001-12-15,2,2390,home,FALSE,Miami,58,Hurricanes,Miami Hurricanes,Miami
-213492390,2001-12-15,2,84,away,FALSE,Indiana,53,Hoosiers,Indiana Hoosiers,Indiana
-213490201,2001-12-15,2,201,home,FALSE,Oklahoma,107,Sooners,Oklahoma Sooners,Oklahoma
-213490201,2001-12-15,2,2272,away,FALSE,High Point,63,Panthers,High Point Panthers,High Point
-213492250,2001-12-15,2,2250,home,FALSE,Gonzaga,67,Bulldogs,Gonzaga Bulldogs,Gonzaga
-213492250,2001-12-15,2,265,away,FALSE,Washington State,44,Cougars,Washington State Cougars,Washington St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213490142,2002,regular-season,2001-12-15,2,142,home,FALSE,Missouri,65,Tigers,Missouri Tigers,Missouri
+213490142,2002,regular-season,2001-12-15,2,2294,away,FALSE,Iowa,83,Hawkeyes,Iowa Hawkeyes,Iowa
+213492305,2002,regular-season,2001-12-15,2,2305,home,FALSE,Kansas,106,Jayhawks,Kansas Jayhawks,Kansas
+213492305,2002,regular-season,2001-12-15,2,2569,away,FALSE,South Carolina State,73,Bulldogs,South Carolina State Bulldogs,SC State
+213490057,2002,regular-season,2001-12-15,2,57,home,FALSE,Florida,73,Gators,Florida Gators,Florida
+213490057,2002,regular-season,2001-12-15,2,2429,away,FALSE,Charlotte,52,49ers,Charlotte 49ers,Charlotte
+213490127,2002,regular-season,2001-12-15,2,127,home,FALSE,Michigan State,74,Spartans,Michigan State Spartans,Michigan St
+213490127,2002,regular-season,2001-12-15,2,12,away,FALSE,Arizona,60,Wildcats,Arizona Wildcats,Arizona
+213490096,2002,regular-season,2001-12-15,2,96,home,FALSE,Kentucky,118,Wildcats,Kentucky Wildcats,Kentucky
+213490096,2002,regular-season,2001-12-15,2,2310,away,FALSE,Kentucky State,63,Thorobreds,Kentucky State Thorobreds,Kentucky St
+213490024,2002,regular-season,2001-12-15,2,24,home,FALSE,Stanford,94,Cardinal,Stanford Cardinal,Stanford
+213490024,2002,regular-season,2001-12-15,2,299,away,FALSE,Long Beach State,77,Beach,Long Beach State Beach,Long Beach St
+213490026,2002,regular-season,2001-12-15,2,26,home,FALSE,UCLA,75,Bruins,UCLA Bruins,UCLA
+213490026,2002,regular-season,2001-12-15,2,300,away,FALSE,UC Irvine,74,Anteaters,UC Irvine Anteaters,UC Irvine
+213490046,2002,regular-season,2001-12-15,2,46,home,FALSE,Georgetown,87,Hoyas,Georgetown Hoyas,Georgetown
+213490046,2002,regular-season,2001-12-15,2,2450,away,FALSE,Norfolk State,68,Spartans,Norfolk State Spartans,Norfolk St
+213490085,2002,regular-season,2001-12-15,2,85,home,FALSE,IU Indianapolis,81,Jaguars,IU Indianapolis Jaguars,IU Indy
+213490085,2002,regular-season,2001-12-15,2,2050,away,FALSE,Ball State,103,Cardinals,Ball State Cardinals,Ball State
+213492390,2002,regular-season,2001-12-15,2,2390,home,FALSE,Miami,58,Hurricanes,Miami Hurricanes,Miami
+213492390,2002,regular-season,2001-12-15,2,84,away,FALSE,Indiana,53,Hoosiers,Indiana Hoosiers,Indiana
+213490201,2002,regular-season,2001-12-15,2,201,home,FALSE,Oklahoma,107,Sooners,Oklahoma Sooners,Oklahoma
+213490201,2002,regular-season,2001-12-15,2,2272,away,FALSE,High Point,63,Panthers,High Point Panthers,High Point
+213492250,2002,regular-season,2001-12-15,2,2250,home,FALSE,Gonzaga,67,Bulldogs,Gonzaga Bulldogs,Gonzaga
+213492250,2002,regular-season,2001-12-15,2,265,away,FALSE,Washington State,44,Cougars,Washington State Cougars,Washington St

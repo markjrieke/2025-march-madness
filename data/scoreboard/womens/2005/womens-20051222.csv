@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253560150,2005-12-22,2,150,home,FALSE,Duke,99,Blue Devils,Duke Blue Devils,Duke
-253560150,2005-12-22,2,36,away,FALSE,Colorado State,52,Rams,Colorado State Rams,Colorado St
-253562244,2005-12-22,2,2244,home,FALSE,George Mason,33,Patriots,George Mason Patriots,George Mason
-253562244,2005-12-22,2,120,away,FALSE,Maryland,70,Terrapins,Maryland Terrapins,Maryland
-253560194,2005-12-22,2,194,home,FALSE,Ohio State,90,Buckeyes,Ohio State Buckeyes,Ohio State
-253560194,2005-12-22,2,2099,away,FALSE,Canisius,58,Golden Griffins,Canisius Golden Griffins,Canisius
-253560041,2005-12-22,2,41,home,FALSE,UConn,86,Huskies,UConn Huskies,UConn
-253560041,2005-12-22,2,2275,away,FALSE,Hofstra,49,Pride,Hofstra Pride,Hofstra
-253560264,2005-12-22,2,264,home,FALSE,Washington,77,Huskies,Washington Huskies,Washington
-253560264,2005-12-22,2,24,away,FALSE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
-253560012,2005-12-22,2,12,home,FALSE,Arizona,59,Wildcats,Arizona Wildcats,Arizona
-253560012,2005-12-22,2,9,away,FALSE,Arizona State,83,Sun Devils,Arizona State Sun Devils,Arizona St
-253560077,2005-12-22,2,77,home,FALSE,Northwestern,58,Wildcats,Northwestern Wildcats,Northwestern
-253560077,2005-12-22,2,305,away,FALSE,DePaul,78,Blue Demons,DePaul Blue Demons,DePaul
-253560135,2005-12-22,2,135,home,FALSE,Minnesota,66,Golden Gophers,Minnesota Golden Gophers,Minnesota
-253560135,2005-12-22,2,66,away,FALSE,Iowa State,61,Cyclones,Iowa State Cyclones,Iowa State
-253562325,2005-12-22,2,2325,home,FALSE,La Salle,57,Explorers,La Salle Explorers,La Salle
-253562325,2005-12-22,2,238,away,FALSE,Vanderbilt,70,Commodores,Vanderbilt Commodores,Vanderbilt
-253560218,2005-12-22,2,218,home,FALSE,Temple,52,Owls,Temple Owls,Temple
-253560218,2005-12-22,2,222,away,FALSE,Villanova,43,Wildcats,Villanova Wildcats,Villanova
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253560150,2006,regular-season,2005-12-22,2,150,home,FALSE,Duke,99,Blue Devils,Duke Blue Devils,Duke
+253560150,2006,regular-season,2005-12-22,2,36,away,FALSE,Colorado State,52,Rams,Colorado State Rams,Colorado St
+253562244,2006,regular-season,2005-12-22,2,2244,home,FALSE,George Mason,33,Patriots,George Mason Patriots,George Mason
+253562244,2006,regular-season,2005-12-22,2,120,away,FALSE,Maryland,70,Terrapins,Maryland Terrapins,Maryland
+253560194,2006,regular-season,2005-12-22,2,194,home,FALSE,Ohio State,90,Buckeyes,Ohio State Buckeyes,Ohio State
+253560194,2006,regular-season,2005-12-22,2,2099,away,FALSE,Canisius,58,Golden Griffins,Canisius Golden Griffins,Canisius
+253560041,2006,regular-season,2005-12-22,2,41,home,FALSE,UConn,86,Huskies,UConn Huskies,UConn
+253560041,2006,regular-season,2005-12-22,2,2275,away,FALSE,Hofstra,49,Pride,Hofstra Pride,Hofstra
+253560264,2006,regular-season,2005-12-22,2,264,home,FALSE,Washington,77,Huskies,Washington Huskies,Washington
+253560264,2006,regular-season,2005-12-22,2,24,away,FALSE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
+253560012,2006,regular-season,2005-12-22,2,12,home,FALSE,Arizona,59,Wildcats,Arizona Wildcats,Arizona
+253560012,2006,regular-season,2005-12-22,2,9,away,FALSE,Arizona State,83,Sun Devils,Arizona State Sun Devils,Arizona St
+253560077,2006,regular-season,2005-12-22,2,77,home,FALSE,Northwestern,58,Wildcats,Northwestern Wildcats,Northwestern
+253560077,2006,regular-season,2005-12-22,2,305,away,FALSE,DePaul,78,Blue Demons,DePaul Blue Demons,DePaul
+253560135,2006,regular-season,2005-12-22,2,135,home,FALSE,Minnesota,66,Golden Gophers,Minnesota Golden Gophers,Minnesota
+253560135,2006,regular-season,2005-12-22,2,66,away,FALSE,Iowa State,61,Cyclones,Iowa State Cyclones,Iowa State
+253562325,2006,regular-season,2005-12-22,2,2325,home,FALSE,La Salle,57,Explorers,La Salle Explorers,La Salle
+253562325,2006,regular-season,2005-12-22,2,238,away,FALSE,Vanderbilt,70,Commodores,Vanderbilt Commodores,Vanderbilt
+253560218,2006,regular-season,2005-12-22,2,218,home,FALSE,Temple,52,Owls,Temple Owls,Temple
+253560218,2006,regular-season,2005-12-22,2,222,away,FALSE,Villanova,43,Wildcats,Villanova Wildcats,Villanova

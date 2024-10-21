@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300302454,2010-01-29,2,2454,home,FALSE,North Florida,61,Ospreys,North Florida Ospreys,North Florida
-300302454,2010-01-29,2,294,away,FALSE,Jacksonville,73,Dolphins,Jacksonville Dolphins,Jacksonville
-300302099,2010-01-29,3,2099,home,FALSE,Canisius,73,Golden Griffins,Canisius Golden Griffins,Canisius
-300302099,2010-01-29,3,315,away,FALSE,Niagara,70,Purple Eagles,Niagara Purple Eagles,Niagara
-300290225,2010-01-29,2,225,home,FALSE,Brown,46,Bears,Brown Bears,Brown
-300290225,2010-01-29,2,163,away,FALSE,Princeton,63,Tigers,Princeton Tigers,Princeton
-300290172,2010-01-29,2,172,home,FALSE,Cornell,71,Big Red,Cornell Big Red,Cornell
-300290172,2010-01-29,2,159,away,FALSE,Dartmouth,37,Big Green,Dartmouth Big Green,Dartmouth
-300290171,2010-01-29,2,171,home,FALSE,Columbia,45,Lions,Columbia Lions,Columbia
-300290171,2010-01-29,2,108,away,FALSE,Harvard,74,Crimson,Harvard Crimson,Harvard
-300290043,2010-01-29,2,43,home,FALSE,Yale,61,Bulldogs,Yale Bulldogs,Yale
-300290043,2010-01-29,2,219,away,FALSE,Pennsylvania,48,Quakers,Pennsylvania Quakers,Penn
-300300270,2010-01-29,2,270,home,FALSE,Milwaukee,85,Panthers,Milwaukee Panthers,Milwaukee
-300300270,2010-01-29,2,2674,away,FALSE,Valparaiso,82,Beacons,Valparaiso Beacons,Valparaiso
-300292739,2010-01-29,2,2739,home,FALSE,Green Bay,57,Phoenix,Green Bay Phoenix,Green Bay
-300292739,2010-01-29,2,2086,away,FALSE,Butler,75,Bulldogs,Butler Bulldogs,Butler
-300292692,2010-01-29,2,2692,home,FALSE,Weber State,81,Wildcats,Weber State Wildcats,Weber St
-300292692,2010-01-29,2,16,away,FALSE,Sacramento State,59,Hornets,Sacramento State Hornets,Sacramento St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300302454,2010,regular-season,2010-01-29,2,2454,home,FALSE,North Florida,61,Ospreys,North Florida Ospreys,North Florida
+300302454,2010,regular-season,2010-01-29,2,294,away,FALSE,Jacksonville,73,Dolphins,Jacksonville Dolphins,Jacksonville
+300302099,2010,regular-season,2010-01-29,3,2099,home,FALSE,Canisius,73,Golden Griffins,Canisius Golden Griffins,Canisius
+300302099,2010,regular-season,2010-01-29,3,315,away,FALSE,Niagara,70,Purple Eagles,Niagara Purple Eagles,Niagara
+300290225,2010,regular-season,2010-01-29,2,225,home,FALSE,Brown,46,Bears,Brown Bears,Brown
+300290225,2010,regular-season,2010-01-29,2,163,away,FALSE,Princeton,63,Tigers,Princeton Tigers,Princeton
+300290172,2010,regular-season,2010-01-29,2,172,home,FALSE,Cornell,71,Big Red,Cornell Big Red,Cornell
+300290172,2010,regular-season,2010-01-29,2,159,away,FALSE,Dartmouth,37,Big Green,Dartmouth Big Green,Dartmouth
+300290171,2010,regular-season,2010-01-29,2,171,home,FALSE,Columbia,45,Lions,Columbia Lions,Columbia
+300290171,2010,regular-season,2010-01-29,2,108,away,FALSE,Harvard,74,Crimson,Harvard Crimson,Harvard
+300290043,2010,regular-season,2010-01-29,2,43,home,FALSE,Yale,61,Bulldogs,Yale Bulldogs,Yale
+300290043,2010,regular-season,2010-01-29,2,219,away,FALSE,Pennsylvania,48,Quakers,Pennsylvania Quakers,Penn
+300300270,2010,regular-season,2010-01-29,2,270,home,FALSE,Milwaukee,85,Panthers,Milwaukee Panthers,Milwaukee
+300300270,2010,regular-season,2010-01-29,2,2674,away,FALSE,Valparaiso,82,Beacons,Valparaiso Beacons,Valparaiso
+300292739,2010,regular-season,2010-01-29,2,2739,home,FALSE,Green Bay,57,Phoenix,Green Bay Phoenix,Green Bay
+300292739,2010,regular-season,2010-01-29,2,2086,away,FALSE,Butler,75,Bulldogs,Butler Bulldogs,Butler
+300292692,2010,regular-season,2010-01-29,2,2692,home,FALSE,Weber State,81,Wildcats,Weber State Wildcats,Weber St
+300292692,2010,regular-season,2010-01-29,2,16,away,FALSE,Sacramento State,59,Hornets,Sacramento State Hornets,Sacramento St

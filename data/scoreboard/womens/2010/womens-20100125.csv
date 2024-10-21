@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300252509,2010-01-25,2,2509,home,FALSE,Purdue,63,Boilermakers,Purdue Boilermakers,Purdue
-300252509,2010-01-25,2,194,away,FALSE,Ohio State,61,Buckeyes,Ohio State Buckeyes,Ohio State
-300250152,2010-01-25,2,152,home,FALSE,NC State,69,Wolfpack,NC State Wolfpack,NC State
-300250152,2010-01-25,2,153,away,FALSE,North Carolina,81,Tar Heels,North Carolina Tar Heels,North Carolina
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300252509,2010,regular-season,2010-01-25,2,2509,home,FALSE,Purdue,63,Boilermakers,Purdue Boilermakers,Purdue
+300252509,2010,regular-season,2010-01-25,2,194,away,FALSE,Ohio State,61,Buckeyes,Ohio State Buckeyes,Ohio State
+300250152,2010,regular-season,2010-01-25,2,152,home,FALSE,NC State,69,Wolfpack,NC State Wolfpack,NC State
+300250152,2010,regular-season,2010-01-25,2,153,away,FALSE,North Carolina,81,Tar Heels,North Carolina Tar Heels,North Carolina

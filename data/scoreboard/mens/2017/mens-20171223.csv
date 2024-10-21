@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400989281,2017-12-23,2,277,home,FALSE,West Virginia,86,Mountaineers,West Virginia Mountaineers,West Virginia
-400989281,2017-12-23,2,2230,away,FALSE,Fordham,69,Rams,Fordham Rams,Fordham
-400986163,2017-12-23,2,154,home,FALSE,Wake Forest,60,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-400986163,2017-12-23,2,2633,away,FALSE,Tennessee,79,Volunteers,Tennessee Volunteers,Tennessee
-400988546,2017-12-23,2,2550,home,FALSE,Seton Hall,74,Pirates,Seton Hall Pirates,Seton Hall
-400988546,2017-12-23,2,2363,away,FALSE,Manhattan,62,Jaspers,Manhattan Jaspers,Manhattan
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400989281,2018,regular-season,2017-12-23,2,277,home,FALSE,West Virginia,86,Mountaineers,West Virginia Mountaineers,West Virginia
+400989281,2018,regular-season,2017-12-23,2,2230,away,FALSE,Fordham,69,Rams,Fordham Rams,Fordham
+400986163,2018,regular-season,2017-12-23,2,154,home,FALSE,Wake Forest,60,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+400986163,2018,regular-season,2017-12-23,2,2633,away,FALSE,Tennessee,79,Volunteers,Tennessee Volunteers,Tennessee
+400988546,2018,regular-season,2017-12-23,2,2550,home,FALSE,Seton Hall,74,Pirates,Seton Hall Pirates,Seton Hall
+400988546,2018,regular-season,2017-12-23,2,2363,away,FALSE,Manhattan,62,Jaspers,Manhattan Jaspers,Manhattan

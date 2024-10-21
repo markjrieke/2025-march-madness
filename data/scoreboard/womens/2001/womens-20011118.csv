@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213220201,2001-11-18,2,201,home,FALSE,Oklahoma,75,Sooners,Oklahoma Sooners,Oklahoma
-213220201,2001-11-18,2,202,away,FALSE,Tulsa,52,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
-213220041,2001-11-18,2,41,home,FALSE,UConn,69,Huskies,UConn Huskies,UConn
-213220041,2001-11-18,2,238,away,FALSE,Vanderbilt,50,Commodores,Vanderbilt Commodores,Vanderbilt
-213222633,2001-11-18,2,2633,home,FALSE,Tennessee,106,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-213222633,2001-11-18,2,30,away,FALSE,USC,66,Trojans,USC Trojans,USC
-213222649,2001-11-18,2,2649,home,FALSE,Toledo,71,Rockets,Toledo Rockets,Toledo
-213222649,2001-11-18,2,150,away,FALSE,Duke,65,Blue Devils,Duke Blue Devils,Duke
-213222509,2001-11-18,2,2509,home,FALSE,Purdue,89,Boilermakers,Purdue Boilermakers,Purdue
-213222509,2001-11-18,2,2197,away,FALSE,Eastern Illinois,33,Panthers,Eastern Illinois Panthers,E Illinois
-213220087,2001-11-18,2,87,home,FALSE,Notre Dame,42,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-213220087,2001-11-18,2,2674,away,FALSE,Valparaiso,35,Beacons,Valparaiso Beacons,Valparaiso
-213220061,2001-11-18,2,61,home,FALSE,Georgia,88,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-213220061,2001-11-18,2,311,away,FALSE,Maine,57,Black Bears,Maine Black Bears,Maine
-213222174,2001-11-18,2,2174,home,FALSE,Detroit Mercy,52,Titans,Detroit Mercy Titans,Detroit Mercy
-213222174,2001-11-18,2,130,away,FALSE,Michigan,67,Wolverines,Michigan Wolverines,Michigan
-213220275,2001-11-18,2,275,home,FALSE,Wisconsin,87,Badgers,Wisconsin Badgers,Wisconsin
-213220275,2001-11-18,2,264,away,FALSE,Washington,67,Huskies,Washington Huskies,Washington
-213220120,2001-11-18,2,120,home,FALSE,Maryland,82,Terrapins,Maryland Terrapins,Maryland
-213220120,2001-11-18,2,2352,away,FALSE,Loyola Maryland,51,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-213220254,2001-11-18,2,254,home,FALSE,Utah,77,Utes,Utah Utes,Utah
-213220254,2001-11-18,2,2086,away,FALSE,Butler,54,Bulldogs,Butler Bulldogs,Butler
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213220201,2002,regular-season,2001-11-18,2,201,home,FALSE,Oklahoma,75,Sooners,Oklahoma Sooners,Oklahoma
+213220201,2002,regular-season,2001-11-18,2,202,away,FALSE,Tulsa,52,Golden Hurricane,Tulsa Golden Hurricane,Tulsa
+213220041,2002,regular-season,2001-11-18,2,41,home,FALSE,UConn,69,Huskies,UConn Huskies,UConn
+213220041,2002,regular-season,2001-11-18,2,238,away,FALSE,Vanderbilt,50,Commodores,Vanderbilt Commodores,Vanderbilt
+213222633,2002,regular-season,2001-11-18,2,2633,home,FALSE,Tennessee,106,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+213222633,2002,regular-season,2001-11-18,2,30,away,FALSE,USC,66,Trojans,USC Trojans,USC
+213222649,2002,regular-season,2001-11-18,2,2649,home,FALSE,Toledo,71,Rockets,Toledo Rockets,Toledo
+213222649,2002,regular-season,2001-11-18,2,150,away,FALSE,Duke,65,Blue Devils,Duke Blue Devils,Duke
+213222509,2002,regular-season,2001-11-18,2,2509,home,FALSE,Purdue,89,Boilermakers,Purdue Boilermakers,Purdue
+213222509,2002,regular-season,2001-11-18,2,2197,away,FALSE,Eastern Illinois,33,Panthers,Eastern Illinois Panthers,E Illinois
+213220087,2002,regular-season,2001-11-18,2,87,home,FALSE,Notre Dame,42,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+213220087,2002,regular-season,2001-11-18,2,2674,away,FALSE,Valparaiso,35,Beacons,Valparaiso Beacons,Valparaiso
+213220061,2002,regular-season,2001-11-18,2,61,home,FALSE,Georgia,88,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+213220061,2002,regular-season,2001-11-18,2,311,away,FALSE,Maine,57,Black Bears,Maine Black Bears,Maine
+213222174,2002,regular-season,2001-11-18,2,2174,home,FALSE,Detroit Mercy,52,Titans,Detroit Mercy Titans,Detroit Mercy
+213222174,2002,regular-season,2001-11-18,2,130,away,FALSE,Michigan,67,Wolverines,Michigan Wolverines,Michigan
+213220275,2002,regular-season,2001-11-18,2,275,home,FALSE,Wisconsin,87,Badgers,Wisconsin Badgers,Wisconsin
+213220275,2002,regular-season,2001-11-18,2,264,away,FALSE,Washington,67,Huskies,Washington Huskies,Washington
+213220120,2002,regular-season,2001-11-18,2,120,home,FALSE,Maryland,82,Terrapins,Maryland Terrapins,Maryland
+213220120,2002,regular-season,2001-11-18,2,2352,away,FALSE,Loyola Maryland,51,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+213220254,2002,regular-season,2001-11-18,2,254,home,FALSE,Utah,77,Utes,Utah Utes,Utah
+213220254,2002,regular-season,2001-11-18,2,2086,away,FALSE,Butler,54,Bulldogs,Butler Bulldogs,Butler

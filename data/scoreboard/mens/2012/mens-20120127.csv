@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320272908,2012-01-27,2,2908,home,FALSE,South Carolina Upstate,58,Spartans,South Carolina Upstate Spartans,SC Upstate
-320272908,2012-01-27,2,2193,away,FALSE,East Tennessee State,54,Buccaneers,East Tennessee State Buccaneers,ETSU
-320272750,2012-01-27,2,2750,home,FALSE,Wright State,47,Raiders,Wright State Raiders,Wright St
-320272750,2012-01-27,2,2350,away,FALSE,Loyola Chicago,41,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-320272217,2012-01-27,2,2217,home,FALSE,Fairfield,62,Stags,Fairfield Stags,Fairfield
-320272217,2012-01-27,2,314,away,FALSE,Iona,71,Gaels,Iona Gaels,Iona
-320272174,2012-01-27,2,2174,home,FALSE,Detroit Mercy,70,Titans,Detroit Mercy Titans,Detroit Mercy
-320272174,2012-01-27,2,82,away,FALSE,UIC,66,Flames,UIC Flames,UIC
-320270315,2012-01-27,2,315,home,FALSE,Niagara,57,Purple Eagles,Niagara Purple Eagles,Niagara
-320270315,2012-01-27,2,2352,away,FALSE,Loyola Maryland,69,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-320270225,2012-01-27,2,225,home,FALSE,Brown,66,Bears,Brown Bears,Brown
-320270225,2012-01-27,2,159,away,FALSE,Dartmouth,59,Big Green,Dartmouth Big Green,Dartmouth
-320270043,2012-01-27,2,43,home,FALSE,Yale,35,Bulldogs,Yale Bulldogs,Yale
-320270043,2012-01-27,2,108,away,FALSE,Harvard,65,Crimson,Harvard Crimson,Harvard
-320272561,2012-01-27,2,2561,home,FALSE,Siena,66,Saints,Siena Saints,Siena
-320272561,2012-01-27,2,2368,away,FALSE,Marist,55,Red Foxes,Marist Red Foxes,Marist
-320272099,2012-01-27,2,2099,home,FALSE,Canisius,66,Golden Griffins,Canisius Golden Griffins,Canisius
-320272099,2012-01-27,2,2363,away,FALSE,Manhattan,78,Jaspers,Manhattan Jaspers,Manhattan
-320272619,2012-01-27,2,2619,home,FALSE,Stony Brook,66,Seawolves,Stony Brook Seawolves,Stony Brook
-320272619,2012-01-27,2,104,away,FALSE,Boston University,57,Terriers,Boston University Terriers,Boston U
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320272908,2012,regular-season,2012-01-27,2,2908,home,FALSE,South Carolina Upstate,58,Spartans,South Carolina Upstate Spartans,SC Upstate
+320272908,2012,regular-season,2012-01-27,2,2193,away,FALSE,East Tennessee State,54,Buccaneers,East Tennessee State Buccaneers,ETSU
+320272750,2012,regular-season,2012-01-27,2,2750,home,FALSE,Wright State,47,Raiders,Wright State Raiders,Wright St
+320272750,2012,regular-season,2012-01-27,2,2350,away,FALSE,Loyola Chicago,41,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+320272217,2012,regular-season,2012-01-27,2,2217,home,FALSE,Fairfield,62,Stags,Fairfield Stags,Fairfield
+320272217,2012,regular-season,2012-01-27,2,314,away,FALSE,Iona,71,Gaels,Iona Gaels,Iona
+320272174,2012,regular-season,2012-01-27,2,2174,home,FALSE,Detroit Mercy,70,Titans,Detroit Mercy Titans,Detroit Mercy
+320272174,2012,regular-season,2012-01-27,2,82,away,FALSE,UIC,66,Flames,UIC Flames,UIC
+320270315,2012,regular-season,2012-01-27,2,315,home,FALSE,Niagara,57,Purple Eagles,Niagara Purple Eagles,Niagara
+320270315,2012,regular-season,2012-01-27,2,2352,away,FALSE,Loyola Maryland,69,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+320270225,2012,regular-season,2012-01-27,2,225,home,FALSE,Brown,66,Bears,Brown Bears,Brown
+320270225,2012,regular-season,2012-01-27,2,159,away,FALSE,Dartmouth,59,Big Green,Dartmouth Big Green,Dartmouth
+320270043,2012,regular-season,2012-01-27,2,43,home,FALSE,Yale,35,Bulldogs,Yale Bulldogs,Yale
+320270043,2012,regular-season,2012-01-27,2,108,away,FALSE,Harvard,65,Crimson,Harvard Crimson,Harvard
+320272561,2012,regular-season,2012-01-27,2,2561,home,FALSE,Siena,66,Saints,Siena Saints,Siena
+320272561,2012,regular-season,2012-01-27,2,2368,away,FALSE,Marist,55,Red Foxes,Marist Red Foxes,Marist
+320272099,2012,regular-season,2012-01-27,2,2099,home,FALSE,Canisius,66,Golden Griffins,Canisius Golden Griffins,Canisius
+320272099,2012,regular-season,2012-01-27,2,2363,away,FALSE,Manhattan,78,Jaspers,Manhattan Jaspers,Manhattan
+320272619,2012,regular-season,2012-01-27,2,2619,home,FALSE,Stony Brook,66,Seawolves,Stony Brook Seawolves,Stony Brook
+320272619,2012,regular-season,2012-01-27,2,104,away,FALSE,Boston University,57,Terriers,Boston University Terriers,Boston U

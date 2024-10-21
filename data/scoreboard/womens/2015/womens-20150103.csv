@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400592351,2015-01-03,2,251,home,FALSE,Texas,60,Longhorns,Texas Longhorns,Texas
-400592351,2015-01-03,2,2305,away,FALSE,Kansas,46,Jayhawks,Kansas Jayhawks,Kansas
-400592352,2015-01-03,2,239,home,FALSE,Baylor,61,Bears,Baylor Bears,Baylor
-400592352,2015-01-03,2,197,away,FALSE,Oklahoma State,45,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-400596657,2015-01-03,2,158,home,FALSE,Nebraska,47,Cornhuskers,Nebraska Cornhuskers,Nebraska
-400596657,2015-01-03,2,120,away,FALSE,Maryland,75,Terrapins,Maryland Terrapins,Maryland
-400590454,2015-01-03,2,26,home,FALSE,UCLA,47,Bruins,UCLA Bruins,UCLA
-400590454,2015-01-03,2,204,away,FALSE,Oregon State,65,Beavers,Oregon State Beavers,Oregon St
-400590455,2015-01-03,2,24,home,FALSE,Stanford,62,Cardinal,Stanford Cardinal,Stanford
-400590455,2015-01-03,2,38,away,FALSE,Colorado,55,Buffaloes,Colorado Buffaloes,Colorado
-400590450,2015-01-03,2,9,home,FALSE,Arizona State,62,Sun Devils,Arizona State Sun Devils,Arizona St
-400590450,2015-01-03,2,264,away,FALSE,Washington,48,Huskies,Washington Huskies,Washington
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400592351,2015,regular-season,2015-01-03,2,251,home,FALSE,Texas,60,Longhorns,Texas Longhorns,Texas
+400592351,2015,regular-season,2015-01-03,2,2305,away,FALSE,Kansas,46,Jayhawks,Kansas Jayhawks,Kansas
+400592352,2015,regular-season,2015-01-03,2,239,home,FALSE,Baylor,61,Bears,Baylor Bears,Baylor
+400592352,2015,regular-season,2015-01-03,2,197,away,FALSE,Oklahoma State,45,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+400596657,2015,regular-season,2015-01-03,2,158,home,FALSE,Nebraska,47,Cornhuskers,Nebraska Cornhuskers,Nebraska
+400596657,2015,regular-season,2015-01-03,2,120,away,FALSE,Maryland,75,Terrapins,Maryland Terrapins,Maryland
+400590454,2015,regular-season,2015-01-03,2,26,home,FALSE,UCLA,47,Bruins,UCLA Bruins,UCLA
+400590454,2015,regular-season,2015-01-03,2,204,away,FALSE,Oregon State,65,Beavers,Oregon State Beavers,Oregon St
+400590455,2015,regular-season,2015-01-03,2,24,home,FALSE,Stanford,62,Cardinal,Stanford Cardinal,Stanford
+400590455,2015,regular-season,2015-01-03,2,38,away,FALSE,Colorado,55,Buffaloes,Colorado Buffaloes,Colorado
+400590450,2015,regular-season,2015-01-03,2,9,home,FALSE,Arizona State,62,Sun Devils,Arizona State Sun Devils,Arizona St
+400590450,2015,regular-season,2015-01-03,2,264,away,FALSE,Washington,48,Huskies,Washington Huskies,Washington

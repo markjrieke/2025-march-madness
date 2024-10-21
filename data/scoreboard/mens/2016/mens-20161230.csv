@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400915600,2016-12-30,2,204,home,FALSE,Oregon State,63,Beavers,Oregon State Beavers,Oregon St
-400915600,2016-12-30,2,26,away,FALSE,UCLA,76,Bruins,UCLA Bruins,UCLA
-400916196,2016-12-30,2,201,home,FALSE,Oklahoma,50,Sooners,Oklahoma Sooners,Oklahoma
-400916196,2016-12-30,2,239,away,FALSE,Baylor,76,Bears,Baylor Bears,Baylor
-400916194,2016-12-30,2,197,home,FALSE,Oklahoma State,75,Cowboys,Oklahoma State Cowboys,Oklahoma St
-400916194,2016-12-30,2,277,away,FALSE,West Virginia,92,Mountaineers,West Virginia Mountaineers,West Virginia
-400915601,2016-12-30,2,25,home,FALSE,California,62,Golden Bears,California Golden Bears,California
-400915601,2016-12-30,2,12,away,FALSE,Arizona,67,Wildcats,Arizona Wildcats,Arizona
-400915599,2016-12-30,2,2483,home,FALSE,Oregon,84,Ducks,Oregon Ducks,Oregon
-400915599,2016-12-30,2,30,away,FALSE,USC,61,Trojans,USC Trojans,USC
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400915600,2017,regular-season,2016-12-30,2,204,home,FALSE,Oregon State,63,Beavers,Oregon State Beavers,Oregon St
+400915600,2017,regular-season,2016-12-30,2,26,away,FALSE,UCLA,76,Bruins,UCLA Bruins,UCLA
+400916196,2017,regular-season,2016-12-30,2,201,home,FALSE,Oklahoma,50,Sooners,Oklahoma Sooners,Oklahoma
+400916196,2017,regular-season,2016-12-30,2,239,away,FALSE,Baylor,76,Bears,Baylor Bears,Baylor
+400916194,2017,regular-season,2016-12-30,2,197,home,FALSE,Oklahoma State,75,Cowboys,Oklahoma State Cowboys,Oklahoma St
+400916194,2017,regular-season,2016-12-30,2,277,away,FALSE,West Virginia,92,Mountaineers,West Virginia Mountaineers,West Virginia
+400915601,2017,regular-season,2016-12-30,2,25,home,FALSE,California,62,Golden Bears,California Golden Bears,California
+400915601,2017,regular-season,2016-12-30,2,12,away,FALSE,Arizona,67,Wildcats,Arizona Wildcats,Arizona
+400915599,2017,regular-season,2016-12-30,2,2483,home,FALSE,Oregon,84,Ducks,Oregon Ducks,Oregon
+400915599,2017,regular-season,2016-12-30,2,30,away,FALSE,USC,61,Trojans,USC Trojans,USC

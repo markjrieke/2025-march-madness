@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400508845,2014-02-02,2,150,home,FALSE,Duke,67,Blue Devils,Duke Blue Devils,Duke
-400508845,2014-02-02,2,87,away,FALSE,Notre Dame,88,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400509852,2014-02-02,2,25,home,FALSE,California,64,Golden Bears,California Golden Bears,California
-400509852,2014-02-02,2,24,away,FALSE,Stanford,79,Cardinal,Stanford Cardinal,Stanford
-400511384,2014-02-02,2,97,home,FALSE,Louisville,79,Cardinals,Louisville Cardinals,Louisville
-400511384,2014-02-02,2,58,away,FALSE,South Florida,59,Bulls,South Florida Bulls,South Florida
-400508844,2014-02-02,2,153,home,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
-400508844,2014-02-02,2,2390,away,FALSE,Miami,83,Hurricanes,Miami Hurricanes,Miami
-400508476,2014-02-02,2,2579,home,FALSE,South Carolina,78,Gamecocks,South Carolina Gamecocks,South Carolina
-400508476,2014-02-02,2,142,away,FALSE,Missouri,62,Tigers,Missouri Tigers,Missouri
-400508842,2014-02-02,2,183,home,FALSE,Syracuse,64,Orange,Syracuse Orange,Syracuse
-400508842,2014-02-02,2,120,away,FALSE,Maryland,89,Terrapins,Maryland Terrapins,Maryland
-400508477,2014-02-02,2,333,home,FALSE,Alabama,54,Crimson Tide,Alabama Crimson Tide,Alabama
-400508477,2014-02-02,2,2633,away,FALSE,Tennessee,64,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400510612,2014-02-02,2,77,home,FALSE,Northwestern,75,Wildcats,Northwestern Wildcats,Northwestern
-400510612,2014-02-02,2,213,away,FALSE,Penn State,79,Lady Lions,Penn State Lady Lions,Penn State
-400508471,2014-02-02,2,96,home,FALSE,Kentucky,63,Wildcats,Kentucky Wildcats,Kentucky
-400508471,2014-02-02,2,99,away,FALSE,LSU,56,Tigers,LSU Tigers,LSU
-400509853,2014-02-02,2,9,home,FALSE,Arizona State,97,Sun Devils,Arizona State Sun Devils,Arizona St
-400509853,2014-02-02,2,2483,away,FALSE,Oregon,94,Ducks,Oregon Ducks,Oregon
-400508473,2014-02-02,2,238,home,FALSE,Vanderbilt,71,Commodores,Vanderbilt Commodores,Vanderbilt
-400508473,2014-02-02,2,245,away,FALSE,Texas A&M,69,Aggies,Texas A&M Aggies,Texas A&M
-400510586,2014-02-02,2,127,home,FALSE,Michigan State,89,Spartans,Michigan State Spartans,Michigan St
-400510586,2014-02-02,2,2509,away,FALSE,Purdue,73,Boilermakers,Purdue Boilermakers,Purdue
-400508846,2014-02-02,2,154,home,FALSE,Wake Forest,78,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-400508846,2014-02-02,2,52,away,FALSE,Florida State,54,Seminoles,Florida State Seminoles,Florida St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400508845,2014,regular-season,2014-02-02,2,150,home,FALSE,Duke,67,Blue Devils,Duke Blue Devils,Duke
+400508845,2014,regular-season,2014-02-02,2,87,away,FALSE,Notre Dame,88,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400509852,2014,regular-season,2014-02-02,2,25,home,FALSE,California,64,Golden Bears,California Golden Bears,California
+400509852,2014,regular-season,2014-02-02,2,24,away,FALSE,Stanford,79,Cardinal,Stanford Cardinal,Stanford
+400511384,2014,regular-season,2014-02-02,2,97,home,FALSE,Louisville,79,Cardinals,Louisville Cardinals,Louisville
+400511384,2014,regular-season,2014-02-02,2,58,away,FALSE,South Florida,59,Bulls,South Florida Bulls,South Florida
+400508844,2014,regular-season,2014-02-02,2,153,home,FALSE,North Carolina,80,Tar Heels,North Carolina Tar Heels,North Carolina
+400508844,2014,regular-season,2014-02-02,2,2390,away,FALSE,Miami,83,Hurricanes,Miami Hurricanes,Miami
+400508476,2014,regular-season,2014-02-02,2,2579,home,FALSE,South Carolina,78,Gamecocks,South Carolina Gamecocks,South Carolina
+400508476,2014,regular-season,2014-02-02,2,142,away,FALSE,Missouri,62,Tigers,Missouri Tigers,Missouri
+400508842,2014,regular-season,2014-02-02,2,183,home,FALSE,Syracuse,64,Orange,Syracuse Orange,Syracuse
+400508842,2014,regular-season,2014-02-02,2,120,away,FALSE,Maryland,89,Terrapins,Maryland Terrapins,Maryland
+400508477,2014,regular-season,2014-02-02,2,333,home,FALSE,Alabama,54,Crimson Tide,Alabama Crimson Tide,Alabama
+400508477,2014,regular-season,2014-02-02,2,2633,away,FALSE,Tennessee,64,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400510612,2014,regular-season,2014-02-02,2,77,home,FALSE,Northwestern,75,Wildcats,Northwestern Wildcats,Northwestern
+400510612,2014,regular-season,2014-02-02,2,213,away,FALSE,Penn State,79,Lady Lions,Penn State Lady Lions,Penn State
+400508471,2014,regular-season,2014-02-02,2,96,home,FALSE,Kentucky,63,Wildcats,Kentucky Wildcats,Kentucky
+400508471,2014,regular-season,2014-02-02,2,99,away,FALSE,LSU,56,Tigers,LSU Tigers,LSU
+400509853,2014,regular-season,2014-02-02,2,9,home,FALSE,Arizona State,97,Sun Devils,Arizona State Sun Devils,Arizona St
+400509853,2014,regular-season,2014-02-02,2,2483,away,FALSE,Oregon,94,Ducks,Oregon Ducks,Oregon
+400508473,2014,regular-season,2014-02-02,2,238,home,FALSE,Vanderbilt,71,Commodores,Vanderbilt Commodores,Vanderbilt
+400508473,2014,regular-season,2014-02-02,2,245,away,FALSE,Texas A&M,69,Aggies,Texas A&M Aggies,Texas A&M
+400510586,2014,regular-season,2014-02-02,2,127,home,FALSE,Michigan State,89,Spartans,Michigan State Spartans,Michigan St
+400510586,2014,regular-season,2014-02-02,2,2509,away,FALSE,Purdue,73,Boilermakers,Purdue Boilermakers,Purdue
+400508846,2014,regular-season,2014-02-02,2,154,home,FALSE,Wake Forest,78,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+400508846,2014,regular-season,2014-02-02,2,52,away,FALSE,Florida State,54,Seminoles,Florida State Seminoles,Florida St

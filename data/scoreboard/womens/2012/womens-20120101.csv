@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320010057,2012-01-01,2,57,home,FALSE,Florida,56,Gators,Florida Gators,Florida
-320010057,2012-01-01,2,96,away,FALSE,Kentucky,59,Wildcats,Kentucky Wildcats,Kentucky
-320010002,2012-01-01,2,2,home,FALSE,Auburn,52,Tigers,Auburn Tigers,Auburn
-320010002,2012-01-01,2,2633,away,FALSE,Tennessee,73,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-320010061,2012-01-01,2,61,home,FALSE,Georgia,67,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-320010061,2012-01-01,2,8,away,FALSE,Arkansas,57,Razorbacks,Arkansas Razorbacks,Arkansas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320010057,2012,regular-season,2012-01-01,2,57,home,FALSE,Florida,56,Gators,Florida Gators,Florida
+320010057,2012,regular-season,2012-01-01,2,96,away,FALSE,Kentucky,59,Wildcats,Kentucky Wildcats,Kentucky
+320010002,2012,regular-season,2012-01-01,2,2,home,FALSE,Auburn,52,Tigers,Auburn Tigers,Auburn
+320010002,2012,regular-season,2012-01-01,2,2633,away,FALSE,Tennessee,73,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+320010061,2012,regular-season,2012-01-01,2,61,home,FALSE,Georgia,67,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+320010061,2012,regular-season,2012-01-01,2,8,away,FALSE,Arkansas,57,Razorbacks,Arkansas Razorbacks,Arkansas

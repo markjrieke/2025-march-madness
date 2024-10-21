@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240730251,2004-03-13,2,251,home,FALSE,Texas,47,Longhorns,Texas Longhorns,Texas
-240730251,2004-03-13,2,201,away,FALSE,Oklahoma,66,Sooners,Oklahoma Sooners,Oklahoma
-240732348,2004-03-13,2,2348,home,FALSE,Louisiana Tech,76,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-240732348,2004-03-13,2,242,away,FALSE,Rice,52,Owls,Rice Owls,Rice
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240730251,2004,regular-season,2004-03-13,2,251,home,FALSE,Texas,47,Longhorns,Texas Longhorns,Texas
+240730251,2004,regular-season,2004-03-13,2,201,away,FALSE,Oklahoma,66,Sooners,Oklahoma Sooners,Oklahoma
+240732348,2004,regular-season,2004-03-13,2,2348,home,FALSE,Louisiana Tech,76,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+240732348,2004,regular-season,2004-03-13,2,242,away,FALSE,Rice,52,Owls,Rice Owls,Rice

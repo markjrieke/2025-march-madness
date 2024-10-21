@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401170148,2019-11-25,2,2670,home,FALSE,VCU,78,Rams,VCU Rams,VCU
-401170148,2019-11-25,2,2011,away,FALSE,Alabama State,62,Hornets,Alabama State Hornets,Alabama St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401170148,2020,regular-season,2019-11-25,2,2670,home,FALSE,VCU,78,Rams,VCU Rams,VCU
+401170148,2020,regular-season,2019-11-25,2,2011,away,FALSE,Alabama State,62,Hornets,Alabama State Hornets,Alabama St

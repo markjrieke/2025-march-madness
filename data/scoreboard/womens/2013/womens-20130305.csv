@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-330640159,2013-03-05,2,159,home,FALSE,Dartmouth,45,Big Green,Dartmouth Big Green,Dartmouth
-330640159,2013-03-05,2,172,away,FALSE,Cornell,53,Big Red,Cornell Big Red,Cornell
-330642305,2013-03-05,2,2305,home,FALSE,Kansas,74,Jayhawks,Kansas Jayhawks,Kansas
-330642305,2013-03-05,2,2628,away,FALSE,TCU,67,Horned Frogs,TCU Horned Frogs,TCU
-330640251,2013-03-05,2,251,home,FALSE,Texas,58,Longhorns,Texas Longhorns,Texas
-330640251,2013-03-05,2,277,away,FALSE,West Virginia,45,Mountaineers,West Virginia Mountaineers,West Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+330640159,2013,regular-season,2013-03-05,2,159,home,FALSE,Dartmouth,45,Big Green,Dartmouth Big Green,Dartmouth
+330640159,2013,regular-season,2013-03-05,2,172,away,FALSE,Cornell,53,Big Red,Cornell Big Red,Cornell
+330642305,2013,regular-season,2013-03-05,2,2305,home,FALSE,Kansas,74,Jayhawks,Kansas Jayhawks,Kansas
+330642305,2013,regular-season,2013-03-05,2,2628,away,FALSE,TCU,67,Horned Frogs,TCU Horned Frogs,TCU
+330640251,2013,regular-season,2013-03-05,2,251,home,FALSE,Texas,58,Longhorns,Texas Longhorns,Texas
+330640251,2013,regular-season,2013-03-05,2,277,away,FALSE,West Virginia,45,Mountaineers,West Virginia Mountaineers,West Virginia

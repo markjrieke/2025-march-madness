@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401629279,2024-03-12,4,251,home,TRUE,Texas,70,Longhorns,Texas Longhorns,Texas
-401629279,2024-03-12,4,66,away,TRUE,Iowa State,53,Cyclones,Iowa State Cyclones,Iowa State
-401629876,2024-03-12,4,2250,home,TRUE,Gonzaga,66,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401629876,2024-03-12,4,2501,away,TRUE,Portland,67,Pilots,Portland Pilots,Portland
-401629586,2024-03-12,4,2439,home,FALSE,UNLV,62,Lady Rebels,UNLV Lady Rebels,UNLV
-401629586,2024-03-12,4,36,away,FALSE,Colorado State,52,Rams,Colorado State Rams,Colorado St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401629279,2024,regular-season,2024-03-12,4,251,home,TRUE,Texas,70,Longhorns,Texas Longhorns,Texas
+401629279,2024,regular-season,2024-03-12,4,66,away,TRUE,Iowa State,53,Cyclones,Iowa State Cyclones,Iowa State
+401629876,2024,regular-season,2024-03-12,4,2250,home,TRUE,Gonzaga,66,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401629876,2024,regular-season,2024-03-12,4,2501,away,TRUE,Portland,67,Pilots,Portland Pilots,Portland
+401629586,2024,regular-season,2024-03-12,4,2439,home,FALSE,UNLV,62,Lady Rebels,UNLV Lady Rebels,UNLV
+401629586,2024,regular-season,2024-03-12,4,36,away,FALSE,Colorado State,52,Rams,Colorado State Rams,Colorado St

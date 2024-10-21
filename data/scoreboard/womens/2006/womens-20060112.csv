@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-260122633,2006-01-12,2,2633,home,FALSE,Tennessee,94,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-260122633,2006-01-12,2,61,away,FALSE,Georgia,85,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-260120099,2006-01-12,2,99,home,FALSE,LSU,79,Tigers,LSU Tigers,LSU
-260120099,2006-01-12,2,2579,away,FALSE,South Carolina,46,Gamecocks,South Carolina Gamecocks,South Carolina
-260120041,2006-01-12,2,41,home,FALSE,UConn,92,Huskies,UConn Huskies,UConn
-260120041,2006-01-12,2,2132,away,FALSE,Cincinnati,71,Bearcats,Cincinnati Bearcats,Cincinnati
-260122294,2006-01-12,2,2294,home,FALSE,Iowa,62,Hawkeyes,Iowa Hawkeyes,Iowa
-260122294,2006-01-12,2,194,away,FALSE,Ohio State,72,Buckeyes,Ohio State Buckeyes,Ohio State
-260120275,2006-01-12,2,275,home,FALSE,Wisconsin,63,Badgers,Wisconsin Badgers,Wisconsin
-260120275,2006-01-12,2,127,away,FALSE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
-260120135,2006-01-12,3,135,home,FALSE,Minnesota,56,Golden Gophers,Minnesota Golden Gophers,Minnesota
-260120135,2006-01-12,3,2509,away,FALSE,Purdue,60,Boilermakers,Purdue Boilermakers,Purdue
-260120009,2006-01-12,2,9,home,FALSE,Arizona State,44,Sun Devils,Arizona State Sun Devils,Arizona St
-260120009,2006-01-12,2,2483,away,FALSE,Oregon,43,Ducks,Oregon Ducks,Oregon
-260120238,2006-01-12,2,238,home,FALSE,Vanderbilt,87,Commodores,Vanderbilt Commodores,Vanderbilt
-260120238,2006-01-12,2,344,away,FALSE,Mississippi State,48,Bulldogs,Mississippi State Bulldogs,Mississippi St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+260122633,2006,regular-season,2006-01-12,2,2633,home,FALSE,Tennessee,94,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+260122633,2006,regular-season,2006-01-12,2,61,away,FALSE,Georgia,85,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+260120099,2006,regular-season,2006-01-12,2,99,home,FALSE,LSU,79,Tigers,LSU Tigers,LSU
+260120099,2006,regular-season,2006-01-12,2,2579,away,FALSE,South Carolina,46,Gamecocks,South Carolina Gamecocks,South Carolina
+260120041,2006,regular-season,2006-01-12,2,41,home,FALSE,UConn,92,Huskies,UConn Huskies,UConn
+260120041,2006,regular-season,2006-01-12,2,2132,away,FALSE,Cincinnati,71,Bearcats,Cincinnati Bearcats,Cincinnati
+260122294,2006,regular-season,2006-01-12,2,2294,home,FALSE,Iowa,62,Hawkeyes,Iowa Hawkeyes,Iowa
+260122294,2006,regular-season,2006-01-12,2,194,away,FALSE,Ohio State,72,Buckeyes,Ohio State Buckeyes,Ohio State
+260120275,2006,regular-season,2006-01-12,2,275,home,FALSE,Wisconsin,63,Badgers,Wisconsin Badgers,Wisconsin
+260120275,2006,regular-season,2006-01-12,2,127,away,FALSE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
+260120135,2006,regular-season,2006-01-12,3,135,home,FALSE,Minnesota,56,Golden Gophers,Minnesota Golden Gophers,Minnesota
+260120135,2006,regular-season,2006-01-12,3,2509,away,FALSE,Purdue,60,Boilermakers,Purdue Boilermakers,Purdue
+260120009,2006,regular-season,2006-01-12,2,9,home,FALSE,Arizona State,44,Sun Devils,Arizona State Sun Devils,Arizona St
+260120009,2006,regular-season,2006-01-12,2,2483,away,FALSE,Oregon,43,Ducks,Oregon Ducks,Oregon
+260120238,2006,regular-season,2006-01-12,2,238,home,FALSE,Vanderbilt,87,Commodores,Vanderbilt Commodores,Vanderbilt
+260120238,2006,regular-season,2006-01-12,2,344,away,FALSE,Mississippi State,48,Bulldogs,Mississippi State Bulldogs,Mississippi St

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250720356,2005-03-13,2,356,home,FALSE,Illinois,54,Fighting Illini,Illinois Fighting Illini,Illinois
-250720356,2005-03-13,2,275,away,FALSE,Wisconsin,43,Badgers,Wisconsin Badgers,Wisconsin
-250720150,2005-03-13,2,150,home,FALSE,Duke,69,Blue Devils,Duke Blue Devils,Duke
-250720150,2005-03-13,2,59,away,FALSE,Georgia Tech,64,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-250720197,2005-03-13,2,197,home,FALSE,Oklahoma State,72,Cowboys,Oklahoma State Cowboys,Oklahoma St
-250720197,2005-03-13,2,2641,away,FALSE,Texas Tech,68,Red Raiders,Texas Tech Red Raiders,Texas Tech
-250720096,2005-03-13,2,96,home,FALSE,Kentucky,53,Wildcats,Kentucky Wildcats,Kentucky
-250720096,2005-03-13,2,57,away,FALSE,Florida,70,Gators,Florida Gators,Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250720356,2005,regular-season,2005-03-13,2,356,home,FALSE,Illinois,54,Fighting Illini,Illinois Fighting Illini,Illinois
+250720356,2005,regular-season,2005-03-13,2,275,away,FALSE,Wisconsin,43,Badgers,Wisconsin Badgers,Wisconsin
+250720150,2005,regular-season,2005-03-13,2,150,home,FALSE,Duke,69,Blue Devils,Duke Blue Devils,Duke
+250720150,2005,regular-season,2005-03-13,2,59,away,FALSE,Georgia Tech,64,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+250720197,2005,regular-season,2005-03-13,2,197,home,FALSE,Oklahoma State,72,Cowboys,Oklahoma State Cowboys,Oklahoma St
+250720197,2005,regular-season,2005-03-13,2,2641,away,FALSE,Texas Tech,68,Red Raiders,Texas Tech Red Raiders,Texas Tech
+250720096,2005,regular-season,2005-03-13,2,96,home,FALSE,Kentucky,53,Wildcats,Kentucky Wildcats,Kentucky
+250720096,2005,regular-season,2005-03-13,2,57,away,FALSE,Florida,70,Gators,Florida Gators,Florida

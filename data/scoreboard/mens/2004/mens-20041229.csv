@@ -1,13 +1,13 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243640096,2004-12-29,2,96,home,FALSE,Kentucky,82,Wildcats,Kentucky Wildcats,Kentucky
-243640096,2004-12-29,2,2097,away,FALSE,Campbell,50,Fighting Camels,Campbell Fighting Camels,Campbell
-243640221,2004-12-29,2,221,home,FALSE,Pittsburgh,72,Panthers,Pittsburgh Panthers,Pitt
-243640221,2004-12-29,2,2579,away,FALSE,South Carolina,68,Gamecocks,South Carolina Gamecocks,South Carolina
-243640251,2004-12-29,2,251,home,FALSE,Texas,100,Longhorns,Texas Longhorns,Texas
-243640251,2004-12-29,2,2636,away,FALSE,UTSA,82,Roadrunners,UTSA Roadrunners,UTSA
-243640275,2004-12-29,2,275,home,FALSE,Wisconsin,76,Badgers,Wisconsin Badgers,Wisconsin
-243640275,2004-12-29,2,333,away,FALSE,Alabama,62,Crimson Tide,Alabama Crimson Tide,Alabama
-243640277,2004-12-29,2,277,home,FALSE,West Virginia,71,Mountaineers,West Virginia Mountaineers,West Virginia
-243640277,2004-12-29,2,45,away,FALSE,George Washington,65,Revolutionaries,George Washington Revolutionaries,G Washington
-243640127,2004-12-29,2,127,home,FALSE,Michigan State,92,Spartans,Michigan State Spartans,Michigan St
-243640127,2004-12-29,2,2427,away,FALSE,UNC Asheville,63,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243640096,2005,regular-season,2004-12-29,2,96,home,FALSE,Kentucky,82,Wildcats,Kentucky Wildcats,Kentucky
+243640096,2005,regular-season,2004-12-29,2,2097,away,FALSE,Campbell,50,Fighting Camels,Campbell Fighting Camels,Campbell
+243640221,2005,regular-season,2004-12-29,2,221,home,FALSE,Pittsburgh,72,Panthers,Pittsburgh Panthers,Pitt
+243640221,2005,regular-season,2004-12-29,2,2579,away,FALSE,South Carolina,68,Gamecocks,South Carolina Gamecocks,South Carolina
+243640251,2005,regular-season,2004-12-29,2,251,home,FALSE,Texas,100,Longhorns,Texas Longhorns,Texas
+243640251,2005,regular-season,2004-12-29,2,2636,away,FALSE,UTSA,82,Roadrunners,UTSA Roadrunners,UTSA
+243640275,2005,regular-season,2004-12-29,2,275,home,FALSE,Wisconsin,76,Badgers,Wisconsin Badgers,Wisconsin
+243640275,2005,regular-season,2004-12-29,2,333,away,FALSE,Alabama,62,Crimson Tide,Alabama Crimson Tide,Alabama
+243640277,2005,regular-season,2004-12-29,2,277,home,FALSE,West Virginia,71,Mountaineers,West Virginia Mountaineers,West Virginia
+243640277,2005,regular-season,2004-12-29,2,45,away,FALSE,George Washington,65,Revolutionaries,George Washington Revolutionaries,G Washington
+243640127,2005,regular-season,2004-12-29,2,127,home,FALSE,Michigan State,92,Spartans,Michigan State Spartans,Michigan St
+243640127,2005,regular-season,2004-12-29,2,2427,away,FALSE,UNC Asheville,63,Bulldogs,UNC Asheville Bulldogs,UNC Asheville

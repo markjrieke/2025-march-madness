@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220540333,2002-02-23,2,333,home,FALSE,Alabama,65,Crimson Tide,Alabama Crimson Tide,Alabama
-220540333,2002-02-23,2,57,away,FALSE,Florida,64,Gators,Florida Gators,Florida
-220540201,2002-02-23,2,201,home,FALSE,Oklahoma,96,Sooners,Oklahoma Sooners,Oklahoma
-220540201,2002-02-23,2,251,away,FALSE,Texas,78,Longhorns,Texas Longhorns,Texas
-220542608,2002-02-23,2,2608,home,FALSE,Saint Mary's,55,Gaels,Saint Mary's Gaels,Saint Mary's
-220542608,2002-02-23,2,2250,away,FALSE,Gonzaga,74,Bulldogs,Gonzaga Bulldogs,Gonzaga
-220540024,2002-02-23,2,24,home,FALSE,Stanford,92,Cardinal,Stanford Cardinal,Stanford
-220540024,2002-02-23,2,26,away,FALSE,UCLA,95,Bruins,UCLA Bruins,UCLA
-220540096,2002-02-23,2,96,home,FALSE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
-220540096,2002-02-23,2,8,away,FALSE,Arkansas,58,Razorbacks,Arkansas Razorbacks,Arkansas
-220540197,2002-02-23,2,197,home,FALSE,Oklahoma State,77,Cowboys,Oklahoma State Cowboys,Oklahoma St
-220540197,2002-02-23,2,239,away,FALSE,Baylor,64,Bears,Baylor Bears,Baylor
-220542483,2002-02-23,2,2483,home,FALSE,Oregon,90,Ducks,Oregon Ducks,Oregon
-220542483,2002-02-23,2,264,away,FALSE,Washington,84,Huskies,Washington Huskies,Washington
-220540077,2002-02-23,2,77,home,FALSE,Northwestern,41,Wildcats,Northwestern Wildcats,Northwestern
-220540077,2002-02-23,2,356,away,FALSE,Illinois,56,Fighting Illini,Illinois Fighting Illini,Illinois
-220542390,2002-02-23,2,2390,home,FALSE,Miami,77,Hurricanes,Miami Hurricanes,Miami
-220542390,2002-02-23,2,87,away,FALSE,Notre Dame,90,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-220540099,2002-02-23,2,99,home,FALSE,LSU,54,Tigers,LSU Tigers,LSU
-220540099,2002-02-23,2,61,away,FALSE,Georgia,55,Bulldogs,Georgia Bulldogs,Georgia
-220540194,2002-02-23,2,194,home,FALSE,Ohio State,77,Buckeyes,Ohio State Buckeyes,Ohio State
-220540194,2002-02-23,2,2509,away,FALSE,Purdue,66,Boilermakers,Purdue Boilermakers,Purdue
-220540025,2002-02-23,2,25,home,FALSE,California,83,Golden Bears,California Golden Bears,California
-220540025,2002-02-23,2,30,away,FALSE,USC,64,Trojans,USC Trojans,USC
-220540258,2002-02-23,2,258,home,FALSE,Virginia,80,Cavaliers,Virginia Cavaliers,Virginia
-220540258,2002-02-23,2,59,away,FALSE,Georgia Tech,82,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-220540098,2002-02-23,2,98,home,FALSE,Western Kentucky,65,Hilltoppers,Western Kentucky Hilltoppers,Western KY
-220540098,2002-02-23,2,2393,away,FALSE,Middle Tennessee,61,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220540333,2002,regular-season,2002-02-23,2,333,home,FALSE,Alabama,65,Crimson Tide,Alabama Crimson Tide,Alabama
+220540333,2002,regular-season,2002-02-23,2,57,away,FALSE,Florida,64,Gators,Florida Gators,Florida
+220540201,2002,regular-season,2002-02-23,2,201,home,FALSE,Oklahoma,96,Sooners,Oklahoma Sooners,Oklahoma
+220540201,2002,regular-season,2002-02-23,2,251,away,FALSE,Texas,78,Longhorns,Texas Longhorns,Texas
+220542608,2002,regular-season,2002-02-23,2,2608,home,FALSE,Saint Mary's,55,Gaels,Saint Mary's Gaels,Saint Mary's
+220542608,2002,regular-season,2002-02-23,2,2250,away,FALSE,Gonzaga,74,Bulldogs,Gonzaga Bulldogs,Gonzaga
+220540024,2002,regular-season,2002-02-23,2,24,home,FALSE,Stanford,92,Cardinal,Stanford Cardinal,Stanford
+220540024,2002,regular-season,2002-02-23,2,26,away,FALSE,UCLA,95,Bruins,UCLA Bruins,UCLA
+220540096,2002,regular-season,2002-02-23,2,96,home,FALSE,Kentucky,71,Wildcats,Kentucky Wildcats,Kentucky
+220540096,2002,regular-season,2002-02-23,2,8,away,FALSE,Arkansas,58,Razorbacks,Arkansas Razorbacks,Arkansas
+220540197,2002,regular-season,2002-02-23,2,197,home,FALSE,Oklahoma State,77,Cowboys,Oklahoma State Cowboys,Oklahoma St
+220540197,2002,regular-season,2002-02-23,2,239,away,FALSE,Baylor,64,Bears,Baylor Bears,Baylor
+220542483,2002,regular-season,2002-02-23,2,2483,home,FALSE,Oregon,90,Ducks,Oregon Ducks,Oregon
+220542483,2002,regular-season,2002-02-23,2,264,away,FALSE,Washington,84,Huskies,Washington Huskies,Washington
+220540077,2002,regular-season,2002-02-23,2,77,home,FALSE,Northwestern,41,Wildcats,Northwestern Wildcats,Northwestern
+220540077,2002,regular-season,2002-02-23,2,356,away,FALSE,Illinois,56,Fighting Illini,Illinois Fighting Illini,Illinois
+220542390,2002,regular-season,2002-02-23,2,2390,home,FALSE,Miami,77,Hurricanes,Miami Hurricanes,Miami
+220542390,2002,regular-season,2002-02-23,2,87,away,FALSE,Notre Dame,90,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+220540099,2002,regular-season,2002-02-23,2,99,home,FALSE,LSU,54,Tigers,LSU Tigers,LSU
+220540099,2002,regular-season,2002-02-23,2,61,away,FALSE,Georgia,55,Bulldogs,Georgia Bulldogs,Georgia
+220540194,2002,regular-season,2002-02-23,2,194,home,FALSE,Ohio State,77,Buckeyes,Ohio State Buckeyes,Ohio State
+220540194,2002,regular-season,2002-02-23,2,2509,away,FALSE,Purdue,66,Boilermakers,Purdue Boilermakers,Purdue
+220540025,2002,regular-season,2002-02-23,2,25,home,FALSE,California,83,Golden Bears,California Golden Bears,California
+220540025,2002,regular-season,2002-02-23,2,30,away,FALSE,USC,64,Trojans,USC Trojans,USC
+220540258,2002,regular-season,2002-02-23,2,258,home,FALSE,Virginia,80,Cavaliers,Virginia Cavaliers,Virginia
+220540258,2002,regular-season,2002-02-23,2,59,away,FALSE,Georgia Tech,82,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+220540098,2002,regular-season,2002-02-23,2,98,home,FALSE,Western Kentucky,65,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+220540098,2002,regular-season,2002-02-23,2,2393,away,FALSE,Middle Tennessee,61,Blue Raiders,Middle Tennessee Blue Raiders,MTSU

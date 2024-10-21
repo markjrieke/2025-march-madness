@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400817213,2015-11-21,2,2460,home,FALSE,Northern Iowa,71,Panthers,Northern Iowa Panthers,Northern Iowa
-400817213,2015-11-21,2,153,away,FALSE,North Carolina,67,Tar Heels,North Carolina Tar Heels,North Carolina
-400818872,2015-11-21,2,2724,home,FALSE,Wichita State,76,Shockers,Wichita State Shockers,Wichita St
-400818872,2015-11-21,2,2214,away,FALSE,Emporia St,54,Hornets,Emporia St Hornets,Emporia St
-400839233,2015-11-21,2,87,home,FALSE,Notre Dame,83,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400839233,2015-11-21,2,2349,away,FALSE,UMass Lowell,57,River Hawks,UMass Lowell River Hawks,UMass Lowell
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400817213,2016,regular-season,2015-11-21,2,2460,home,FALSE,Northern Iowa,71,Panthers,Northern Iowa Panthers,Northern Iowa
+400817213,2016,regular-season,2015-11-21,2,153,away,FALSE,North Carolina,67,Tar Heels,North Carolina Tar Heels,North Carolina
+400818872,2016,regular-season,2015-11-21,2,2724,home,FALSE,Wichita State,76,Shockers,Wichita State Shockers,Wichita St
+400818872,2016,regular-season,2015-11-21,2,2214,away,FALSE,Emporia St,54,Hornets,Emporia St Hornets,Emporia St
+400839233,2016,regular-season,2015-11-21,2,87,home,FALSE,Notre Dame,83,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400839233,2016,regular-season,2015-11-21,2,2349,away,FALSE,UMass Lowell,57,River Hawks,UMass Lowell River Hawks,UMass Lowell

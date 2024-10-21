@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-243360153,2004-12-01,2,153,home,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
-243360153,2004-12-01,2,2747,away,FALSE,Wofford,51,Terriers,Wofford Terriers,Wofford
-243360251,2004-12-01,2,251,home,FALSE,Texas,80,Longhorns,Texas Longhorns,Texas
-243360251,2004-12-01,2,2377,away,FALSE,McNeese,26,Cowgirls,McNeese Cowgirls,McNeese
-243360041,2004-12-01,3,41,home,FALSE,UConn,75,Huskies,UConn Huskies,UConn
-243360041,2004-12-01,3,58,away,FALSE,South Florida,65,Bulls,South Florida Bulls,South Florida
-243360195,2004-12-01,2,195,home,FALSE,Ohio,37,Bobcats,Ohio Bobcats,Ohio
-243360195,2004-12-01,2,194,away,FALSE,Ohio State,107,Buckeyes,Ohio State Buckeyes,Ohio State
-243360238,2004-12-01,2,238,home,FALSE,Vanderbilt,96,Commodores,Vanderbilt Commodores,Vanderbilt
-243360238,2004-12-01,2,235,away,FALSE,Memphis,54,Tigers,Memphis Tigers,Memphis
-243360107,2004-12-01,2,107,home,FALSE,Holy Cross,61,Crusaders,Holy Cross Crusaders,Holy Cross
-243360107,2004-12-01,2,103,away,FALSE,Boston College,69,Eagles,Boston College Eagles,Boston College
-243360045,2004-12-01,2,45,home,FALSE,George Washington,62,Revolutionaries,George Washington Revolutionaries,G Washington
-243360045,2004-12-01,2,222,away,FALSE,Villanova,52,Wildcats,Villanova Wildcats,Villanova
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+243360153,2005,regular-season,2004-12-01,2,153,home,FALSE,North Carolina,89,Tar Heels,North Carolina Tar Heels,North Carolina
+243360153,2005,regular-season,2004-12-01,2,2747,away,FALSE,Wofford,51,Terriers,Wofford Terriers,Wofford
+243360251,2005,regular-season,2004-12-01,2,251,home,FALSE,Texas,80,Longhorns,Texas Longhorns,Texas
+243360251,2005,regular-season,2004-12-01,2,2377,away,FALSE,McNeese,26,Cowgirls,McNeese Cowgirls,McNeese
+243360041,2005,regular-season,2004-12-01,3,41,home,FALSE,UConn,75,Huskies,UConn Huskies,UConn
+243360041,2005,regular-season,2004-12-01,3,58,away,FALSE,South Florida,65,Bulls,South Florida Bulls,South Florida
+243360195,2005,regular-season,2004-12-01,2,195,home,FALSE,Ohio,37,Bobcats,Ohio Bobcats,Ohio
+243360195,2005,regular-season,2004-12-01,2,194,away,FALSE,Ohio State,107,Buckeyes,Ohio State Buckeyes,Ohio State
+243360238,2005,regular-season,2004-12-01,2,238,home,FALSE,Vanderbilt,96,Commodores,Vanderbilt Commodores,Vanderbilt
+243360238,2005,regular-season,2004-12-01,2,235,away,FALSE,Memphis,54,Tigers,Memphis Tigers,Memphis
+243360107,2005,regular-season,2004-12-01,2,107,home,FALSE,Holy Cross,61,Crusaders,Holy Cross Crusaders,Holy Cross
+243360107,2005,regular-season,2004-12-01,2,103,away,FALSE,Boston College,69,Eagles,Boston College Eagles,Boston College
+243360045,2005,regular-season,2004-12-01,2,45,home,FALSE,George Washington,62,Revolutionaries,George Washington Revolutionaries,G Washington
+243360045,2005,regular-season,2004-12-01,2,222,away,FALSE,Villanova,52,Wildcats,Villanova Wildcats,Villanova

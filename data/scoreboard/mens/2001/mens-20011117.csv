@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213210120,2001-11-17,2,120,home,FALSE,Maryland,83,Terrapins,Maryland Terrapins,Maryland
-213210120,2001-11-17,2,44,away,FALSE,American University,53,Eagles,American University Eagles,American
-213212294,2001-11-17,2,2294,home,FALSE,Iowa,75,Hawkeyes,Iowa Hawkeyes,Iowa
-213212294,2001-11-17,2,2348,away,FALSE,Louisiana Tech,67,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
-213210167,2001-11-17,2,167,home,FALSE,New Mexico,66,Lobos,New Mexico Lobos,New Mexico
-213210167,2001-11-17,2,24,away,FALSE,Stanford,81,Cardinal,Stanford Cardinal,Stanford
-213210197,2001-11-17,2,197,home,FALSE,Oklahoma State,81,Cowboys,Oklahoma State Cowboys,Oklahoma St
-213210197,2001-11-17,2,2046,away,FALSE,Austin Peay,58,Governors,Austin Peay Governors,Austin Peay
-213210251,2001-11-17,2,251,home,FALSE,Texas,74,Longhorns,Texas Longhorns,Texas
-213210251,2001-11-17,2,12,away,FALSE,Arizona,88,Wildcats,Arizona Wildcats,Arizona
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213210120,2002,regular-season,2001-11-17,2,120,home,FALSE,Maryland,83,Terrapins,Maryland Terrapins,Maryland
+213210120,2002,regular-season,2001-11-17,2,44,away,FALSE,American University,53,Eagles,American University Eagles,American
+213212294,2002,regular-season,2001-11-17,2,2294,home,FALSE,Iowa,75,Hawkeyes,Iowa Hawkeyes,Iowa
+213212294,2002,regular-season,2001-11-17,2,2348,away,FALSE,Louisiana Tech,67,Bulldogs,Louisiana Tech Bulldogs,Louisiana Tech
+213210167,2002,regular-season,2001-11-17,2,167,home,FALSE,New Mexico,66,Lobos,New Mexico Lobos,New Mexico
+213210167,2002,regular-season,2001-11-17,2,24,away,FALSE,Stanford,81,Cardinal,Stanford Cardinal,Stanford
+213210197,2002,regular-season,2001-11-17,2,197,home,FALSE,Oklahoma State,81,Cowboys,Oklahoma State Cowboys,Oklahoma St
+213210197,2002,regular-season,2001-11-17,2,2046,away,FALSE,Austin Peay,58,Governors,Austin Peay Governors,Austin Peay
+213210251,2002,regular-season,2001-11-17,2,251,home,FALSE,Texas,74,Longhorns,Texas Longhorns,Texas
+213210251,2002,regular-season,2001-11-17,2,12,away,FALSE,Arizona,88,Wildcats,Arizona Wildcats,Arizona

@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400916156,2016-11-30,2,239,home,FALSE,Baylor,79,Bears,Baylor Bears,Baylor
-400916156,2016-11-30,2,2534,away,FALSE,Sam Houston,45,Bearkats,Sam Houston Bearkats,Sam Houston
-400915542,2016-11-30,2,26,home,FALSE,UCLA,98,Bruins,UCLA Bruins,UCLA
-400915542,2016-11-30,2,27,away,FALSE,UC Riverside,56,Highlanders,UC Riverside Highlanders,UC Riverside
-400915541,2016-11-30,2,24,home,FALSE,Stanford,51,Cardinal,Stanford Cardinal,Stanford
-400915541,2016-11-30,2,2608,away,FALSE,Saint Mary's,66,Gaels,Saint Mary's Gaels,Saint Mary's
-400915537,2016-11-30,2,12,home,FALSE,Arizona,85,Wildcats,Arizona Wildcats,Arizona
-400915537,2016-11-30,2,2640,away,FALSE,Texas Southern,63,Tigers,Texas Southern Tigers,Texas Southern
-400925361,2016-11-30,2,2483,home,FALSE,Oregon,93,Ducks,Oregon Ducks,Oregon
-400925361,2016-11-30,2,2848,away,FALSE,Western Oregon,54,Wolves,Western Oregon Wolves,Western Oregon
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400916156,2017,regular-season,2016-11-30,2,239,home,FALSE,Baylor,79,Bears,Baylor Bears,Baylor
+400916156,2017,regular-season,2016-11-30,2,2534,away,FALSE,Sam Houston,45,Bearkats,Sam Houston Bearkats,Sam Houston
+400915542,2017,regular-season,2016-11-30,2,26,home,FALSE,UCLA,98,Bruins,UCLA Bruins,UCLA
+400915542,2017,regular-season,2016-11-30,2,27,away,FALSE,UC Riverside,56,Highlanders,UC Riverside Highlanders,UC Riverside
+400915541,2017,regular-season,2016-11-30,2,24,home,FALSE,Stanford,51,Cardinal,Stanford Cardinal,Stanford
+400915541,2017,regular-season,2016-11-30,2,2608,away,FALSE,Saint Mary's,66,Gaels,Saint Mary's Gaels,Saint Mary's
+400915537,2017,regular-season,2016-11-30,2,12,home,FALSE,Arizona,85,Wildcats,Arizona Wildcats,Arizona
+400915537,2017,regular-season,2016-11-30,2,2640,away,FALSE,Texas Southern,63,Tigers,Texas Southern Tigers,Texas Southern
+400925361,2017,regular-season,2016-11-30,2,2483,home,FALSE,Oregon,93,Ducks,Oregon Ducks,Oregon
+400925361,2017,regular-season,2016-11-30,2,2848,away,FALSE,Western Oregon,54,Wolves,Western Oregon Wolves,Western Oregon

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250240164,2005-01-24,2,164,home,FALSE,Rutgers,84,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-250240164,2005-01-24,2,183,away,FALSE,Syracuse,86,Orange,Syracuse Orange,Syracuse
-250240201,2005-01-24,2,201,home,FALSE,Oklahoma,67,Sooners,Oklahoma Sooners,Oklahoma
-250240201,2005-01-24,2,197,away,FALSE,Oklahoma State,57,Cowboys,Oklahoma State Cowboys,Oklahoma St
-250240254,2005-01-24,2,254,home,FALSE,Utah,63,Utes,Utah Utes,Utah
-250240254,2005-01-24,2,2005,away,FALSE,Air Force,51,Falcons,Air Force Falcons,Air Force
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250240164,2005,regular-season,2005-01-24,2,164,home,FALSE,Rutgers,84,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+250240164,2005,regular-season,2005-01-24,2,183,away,FALSE,Syracuse,86,Orange,Syracuse Orange,Syracuse
+250240201,2005,regular-season,2005-01-24,2,201,home,FALSE,Oklahoma,67,Sooners,Oklahoma Sooners,Oklahoma
+250240201,2005,regular-season,2005-01-24,2,197,away,FALSE,Oklahoma State,57,Cowboys,Oklahoma State Cowboys,Oklahoma St
+250240254,2005,regular-season,2005-01-24,2,254,home,FALSE,Utah,63,Utes,Utah Utes,Utah
+250240254,2005,regular-season,2005-01-24,2,2005,away,FALSE,Air Force,51,Falcons,Air Force Falcons,Air Force

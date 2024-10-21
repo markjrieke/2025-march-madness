@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-283372617,2008-12-02,2,2617,home,FALSE,Stephen F. Austin,36,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
-283372617,2008-12-02,2,245,away,FALSE,Texas A&M,77,Aggies,Texas A&M Aggies,Texas A&M
-283370045,2008-12-02,2,45,home,FALSE,George Washington,59,Revolutionaries,George Washington Revolutionaries,G Washington
-283370045,2008-12-02,2,2633,away,FALSE,Tennessee,71,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-283372199,2008-12-02,2,2199,home,FALSE,Eastern Michigan,63,Eagles,Eastern Michigan Eagles,E Michigan
-283372199,2008-12-02,2,87,away,FALSE,Notre Dame,83,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-283370238,2008-12-02,2,238,home,FALSE,Vanderbilt,78,Commodores,Vanderbilt Commodores,Vanderbilt
-283370238,2008-12-02,2,2515,away,FALSE,Radford,41,Highlanders,Radford Highlanders,Radford
-283372752,2008-12-02,2,2752,home,FALSE,Xavier,67,Musketeers,Xavier Musketeers,Xavier
-283372752,2008-12-02,2,96,away,FALSE,Kentucky,44,Wildcats,Kentucky Wildcats,Kentucky
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283372617,2009,regular-season,2008-12-02,2,2617,home,FALSE,Stephen F. Austin,36,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
+283372617,2009,regular-season,2008-12-02,2,245,away,FALSE,Texas A&M,77,Aggies,Texas A&M Aggies,Texas A&M
+283370045,2009,regular-season,2008-12-02,2,45,home,FALSE,George Washington,59,Revolutionaries,George Washington Revolutionaries,G Washington
+283370045,2009,regular-season,2008-12-02,2,2633,away,FALSE,Tennessee,71,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+283372199,2009,regular-season,2008-12-02,2,2199,home,FALSE,Eastern Michigan,63,Eagles,Eastern Michigan Eagles,E Michigan
+283372199,2009,regular-season,2008-12-02,2,87,away,FALSE,Notre Dame,83,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+283370238,2009,regular-season,2008-12-02,2,238,home,FALSE,Vanderbilt,78,Commodores,Vanderbilt Commodores,Vanderbilt
+283370238,2009,regular-season,2008-12-02,2,2515,away,FALSE,Radford,41,Highlanders,Radford Highlanders,Radford
+283372752,2009,regular-season,2008-12-02,2,2752,home,FALSE,Xavier,67,Musketeers,Xavier Musketeers,Xavier
+283372752,2009,regular-season,2008-12-02,2,96,away,FALSE,Kentucky,44,Wildcats,Kentucky Wildcats,Kentucky

@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250360024,2005-02-05,2,24,home,FALSE,Stanford,67,Cardinal,Stanford Cardinal,Stanford
-250360024,2005-02-05,2,9,away,FALSE,Arizona State,53,Sun Devils,Arizona State Sun Devils,Arizona St
-250360221,2005-02-05,2,221,home,FALSE,Pittsburgh,47,Panthers,Pittsburgh Panthers,Pitt
-250360221,2005-02-05,2,87,away,FALSE,Notre Dame,75,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-250362641,2005-02-05,2,2641,home,FALSE,Texas Tech,49,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-250362641,2005-02-05,2,239,away,FALSE,Baylor,52,Bears,Baylor Bears,Baylor
-250362507,2005-02-05,2,2507,home,FALSE,Providence,24,Friars,Providence Friars,Providence
-250362507,2005-02-05,2,41,away,FALSE,UConn,71,Huskies,UConn Huskies,UConn
-250360066,2005-02-05,2,66,home,FALSE,Iowa State,73,Cyclones,Iowa State Cyclones,Iowa State
-250360066,2005-02-05,2,251,away,FALSE,Texas,69,Longhorns,Texas Longhorns,Texas
-250362306,2005-02-05,2,2306,home,FALSE,Kansas State,66,Wildcats,Kansas State Wildcats,Kansas St
-250362306,2005-02-05,2,197,away,FALSE,Oklahoma State,55,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-250360103,2005-02-05,2,103,home,FALSE,Boston College,52,Eagles,Boston College Eagles,Boston College
-250360103,2005-02-05,2,2599,away,FALSE,St. John's,69,Red Storm,St. John's Red Storm,St John's
-250360097,2005-02-05,2,97,home,FALSE,Louisville,60,Cardinals,Louisville Cardinals,Louisville
-250360097,2005-02-05,2,305,away,FALSE,DePaul,70,Blue Demons,DePaul Blue Demons,DePaul
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250360024,2005,regular-season,2005-02-05,2,24,home,FALSE,Stanford,67,Cardinal,Stanford Cardinal,Stanford
+250360024,2005,regular-season,2005-02-05,2,9,away,FALSE,Arizona State,53,Sun Devils,Arizona State Sun Devils,Arizona St
+250360221,2005,regular-season,2005-02-05,2,221,home,FALSE,Pittsburgh,47,Panthers,Pittsburgh Panthers,Pitt
+250360221,2005,regular-season,2005-02-05,2,87,away,FALSE,Notre Dame,75,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+250362641,2005,regular-season,2005-02-05,2,2641,home,FALSE,Texas Tech,49,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+250362641,2005,regular-season,2005-02-05,2,239,away,FALSE,Baylor,52,Bears,Baylor Bears,Baylor
+250362507,2005,regular-season,2005-02-05,2,2507,home,FALSE,Providence,24,Friars,Providence Friars,Providence
+250362507,2005,regular-season,2005-02-05,2,41,away,FALSE,UConn,71,Huskies,UConn Huskies,UConn
+250360066,2005,regular-season,2005-02-05,2,66,home,FALSE,Iowa State,73,Cyclones,Iowa State Cyclones,Iowa State
+250360066,2005,regular-season,2005-02-05,2,251,away,FALSE,Texas,69,Longhorns,Texas Longhorns,Texas
+250362306,2005,regular-season,2005-02-05,2,2306,home,FALSE,Kansas State,66,Wildcats,Kansas State Wildcats,Kansas St
+250362306,2005,regular-season,2005-02-05,2,197,away,FALSE,Oklahoma State,55,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+250360103,2005,regular-season,2005-02-05,2,103,home,FALSE,Boston College,52,Eagles,Boston College Eagles,Boston College
+250360103,2005,regular-season,2005-02-05,2,2599,away,FALSE,St. John's,69,Red Storm,St. John's Red Storm,St John's
+250360097,2005,regular-season,2005-02-05,2,97,home,FALSE,Louisville,60,Cardinals,Louisville Cardinals,Louisville
+250360097,2005,regular-season,2005-02-05,2,305,away,FALSE,DePaul,70,Blue Demons,DePaul Blue Demons,DePaul

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313350150,2011-12-01,2,150,home,FALSE,Duke,64,Blue Devils,Duke Blue Devils,Duke
-313350150,2011-12-01,2,2509,away,FALSE,Purdue,53,Boilermakers,Purdue Boilermakers,Purdue
-313350127,2011-12-01,2,127,home,FALSE,Michigan State,60,Spartans,Michigan State Spartans,Michigan St
-313350127,2011-12-01,2,2390,away,FALSE,Miami,76,Hurricanes,Miami Hurricanes,Miami
-313350163,2011-12-01,2,163,home,FALSE,Princeton,70,Tigers,Princeton Tigers,Princeton
-313350163,2011-12-01,2,48,away,FALSE,Delaware,81,Blue Hens,Delaware Blue Hens,Delaware
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313350150,2012,regular-season,2011-12-01,2,150,home,FALSE,Duke,64,Blue Devils,Duke Blue Devils,Duke
+313350150,2012,regular-season,2011-12-01,2,2509,away,FALSE,Purdue,53,Boilermakers,Purdue Boilermakers,Purdue
+313350127,2012,regular-season,2011-12-01,2,127,home,FALSE,Michigan State,60,Spartans,Michigan State Spartans,Michigan St
+313350127,2012,regular-season,2011-12-01,2,2390,away,FALSE,Miami,76,Hurricanes,Miami Hurricanes,Miami
+313350163,2012,regular-season,2011-12-01,2,163,home,FALSE,Princeton,70,Tigers,Princeton Tigers,Princeton
+313350163,2012,regular-season,2011-12-01,2,48,away,FALSE,Delaware,81,Blue Hens,Delaware Blue Hens,Delaware

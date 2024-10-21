@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-253650087,2005-12-31,2,87,home,FALSE,Notre Dame,51,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-253650087,2005-12-31,2,2633,away,FALSE,Tennessee,62,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-253650153,2005-12-31,2,153,home,FALSE,North Carolina,101,Tar Heels,North Carolina Tar Heels,North Carolina
-253650153,2005-12-31,2,232,away,FALSE,Charleston,48,Cougars,Charleston Cougars,Charleston
-253650041,2005-12-31,2,41,home,FALSE,UConn,85,Huskies,UConn Huskies,UConn
-253650041,2005-12-31,2,349,away,FALSE,Army,46,Black Knights,Army Black Knights,Army
-253650009,2005-12-31,2,9,home,FALSE,Arizona State,72,Sun Devils,Arizona State Sun Devils,Arizona St
-253650009,2005-12-31,2,265,away,FALSE,Washington State,47,Cougars,Washington State Cougars,Washington St
-253650103,2005-12-31,2,103,home,FALSE,Boston College,73,Eagles,Boston College Eagles,Boston College
-253650103,2005-12-31,2,2142,away,FALSE,Colgate,54,Raiders,Colgate Raiders,Colgate
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+253650087,2006,regular-season,2005-12-31,2,87,home,FALSE,Notre Dame,51,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+253650087,2006,regular-season,2005-12-31,2,2633,away,FALSE,Tennessee,62,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+253650153,2006,regular-season,2005-12-31,2,153,home,FALSE,North Carolina,101,Tar Heels,North Carolina Tar Heels,North Carolina
+253650153,2006,regular-season,2005-12-31,2,232,away,FALSE,Charleston,48,Cougars,Charleston Cougars,Charleston
+253650041,2006,regular-season,2005-12-31,2,41,home,FALSE,UConn,85,Huskies,UConn Huskies,UConn
+253650041,2006,regular-season,2005-12-31,2,349,away,FALSE,Army,46,Black Knights,Army Black Knights,Army
+253650009,2006,regular-season,2005-12-31,2,9,home,FALSE,Arizona State,72,Sun Devils,Arizona State Sun Devils,Arizona St
+253650009,2006,regular-season,2005-12-31,2,265,away,FALSE,Washington State,47,Cougars,Washington State Cougars,Washington St
+253650103,2006,regular-season,2005-12-31,2,103,home,FALSE,Boston College,73,Eagles,Boston College Eagles,Boston College
+253650103,2006,regular-season,2005-12-31,2,2142,away,FALSE,Colgate,54,Raiders,Colgate Raiders,Colgate

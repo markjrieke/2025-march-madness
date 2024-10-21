@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401599439,2023-12-19,2,2507,home,FALSE,Providence,72,Friars,Providence Friars,Providence
-401599439,2023-12-19,2,269,away,FALSE,Marquette,57,Golden Eagles,Marquette Golden Eagles,Marquette
-401581843,2023-12-19,2,256,home,FALSE,James Madison,87,Dukes,James Madison Dukes,James Madison
-401581843,2023-12-19,2,2154,away,FALSE,Coppin State,48,Eagles,Coppin State Eagles,Coppin St
-401575432,2023-12-19,2,235,home,FALSE,Memphis,77,Tigers,Memphis Tigers,Memphis
-401575432,2023-12-19,2,258,away,FALSE,Virginia,54,Cavaliers,Virginia Cavaliers,Virginia
-401591573,2023-12-19,2,145,home,FALSE,Ole Miss,74,Rebels,Ole Miss Rebels,Ole Miss
-401591573,2023-12-19,2,2653,away,FALSE,Troy,53,Trojans,Troy Trojans,Troy
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401599439,2024,regular-season,2023-12-19,2,2507,home,FALSE,Providence,72,Friars,Providence Friars,Providence
+401599439,2024,regular-season,2023-12-19,2,269,away,FALSE,Marquette,57,Golden Eagles,Marquette Golden Eagles,Marquette
+401581843,2024,regular-season,2023-12-19,2,256,home,FALSE,James Madison,87,Dukes,James Madison Dukes,James Madison
+401581843,2024,regular-season,2023-12-19,2,2154,away,FALSE,Coppin State,48,Eagles,Coppin State Eagles,Coppin St
+401575432,2024,regular-season,2023-12-19,2,235,home,FALSE,Memphis,77,Tigers,Memphis Tigers,Memphis
+401575432,2024,regular-season,2023-12-19,2,258,away,FALSE,Virginia,54,Cavaliers,Virginia Cavaliers,Virginia
+401591573,2024,regular-season,2023-12-19,2,145,home,FALSE,Ole Miss,74,Rebels,Ole Miss Rebels,Ole Miss
+401591573,2024,regular-season,2023-12-19,2,2653,away,FALSE,Troy,53,Trojans,Troy Trojans,Troy

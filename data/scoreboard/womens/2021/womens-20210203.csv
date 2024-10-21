@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401270817,2021-02-03,4,41,home,FALSE,UConn,94,Huskies,UConn Huskies,UConn
-401270817,2021-02-03,4,2599,away,FALSE,St. John's,62,Red Storm,St. John's Red Storm,St John's
-401254172,2021-02-03,4,277,home,FALSE,West Virginia,65,Mountaineers,West Virginia Mountaineers,West Virginia
-401254172,2021-02-03,4,66,away,FALSE,Iowa State,56,Cyclones,Iowa State Cyclones,Iowa State
-401264197,2021-02-03,0,2567,home,FALSE,SMU,0,Mustangs,SMU Mustangs,SMU
-401264197,2021-02-03,0,58,away,FALSE,South Florida,0,Bulls,South Florida Bulls,South Florida
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401270817,2021,regular-season,2021-02-03,4,41,home,FALSE,UConn,94,Huskies,UConn Huskies,UConn
+401270817,2021,regular-season,2021-02-03,4,2599,away,FALSE,St. John's,62,Red Storm,St. John's Red Storm,St John's
+401254172,2021,regular-season,2021-02-03,4,277,home,FALSE,West Virginia,65,Mountaineers,West Virginia Mountaineers,West Virginia
+401254172,2021,regular-season,2021-02-03,4,66,away,FALSE,Iowa State,56,Cyclones,Iowa State Cyclones,Iowa State
+401264197,2021,regular-season,2021-02-03,0,2567,home,FALSE,SMU,0,Mustangs,SMU Mustangs,SMU
+401264197,2021,regular-season,2021-02-03,0,58,away,FALSE,South Florida,0,Bulls,South Florida Bulls,South Florida

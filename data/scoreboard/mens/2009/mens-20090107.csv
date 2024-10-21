@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290070150,2009-01-07,2,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
-290070150,2009-01-07,2,2166,away,FALSE,Davidson,67,Wildcats,Davidson Wildcats,Davidson
-290070153,2009-01-07,2,153,home,FALSE,North Carolina,108,Tar Heels,North Carolina Tar Heels,North Carolina
-290070153,2009-01-07,2,232,away,FALSE,Charleston,70,Cougars,Charleston Cougars,Charleston
-290070183,2009-01-07,2,183,home,FALSE,Syracuse,85,Orange,Syracuse Orange,Syracuse
-290070183,2009-01-07,2,305,away,FALSE,DePaul,68,Blue Demons,DePaul Blue Demons,DePaul
-290072633,2009-01-07,3,2633,home,FALSE,Tennessee,79,Volunteers,Tennessee Volunteers,Tennessee
-290072633,2009-01-07,3,2250,away,FALSE,Gonzaga,89,Bulldogs,Gonzaga Bulldogs,Gonzaga
-290070103,2009-01-07,2,103,home,FALSE,Boston College,70,Eagles,Boston College Eagles,Boston College
-290070103,2009-01-07,2,108,away,FALSE,Harvard,82,Crimson,Harvard Crimson,Harvard
-290070164,2009-01-07,2,164,home,FALSE,Rutgers,76,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-290070164,2009-01-07,2,269,away,FALSE,Marquette,81,Golden Eagles,Marquette Golden Eagles,Marquette
-290070058,2009-01-07,2,58,home,FALSE,South Florida,57,Bulls,South Florida Bulls,South Florida
-290070058,2009-01-07,2,97,away,FALSE,Louisville,71,Cardinals,Louisville Cardinals,Louisville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290070150,2009,regular-season,2009-01-07,2,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
+290070150,2009,regular-season,2009-01-07,2,2166,away,FALSE,Davidson,67,Wildcats,Davidson Wildcats,Davidson
+290070153,2009,regular-season,2009-01-07,2,153,home,FALSE,North Carolina,108,Tar Heels,North Carolina Tar Heels,North Carolina
+290070153,2009,regular-season,2009-01-07,2,232,away,FALSE,Charleston,70,Cougars,Charleston Cougars,Charleston
+290070183,2009,regular-season,2009-01-07,2,183,home,FALSE,Syracuse,85,Orange,Syracuse Orange,Syracuse
+290070183,2009,regular-season,2009-01-07,2,305,away,FALSE,DePaul,68,Blue Demons,DePaul Blue Demons,DePaul
+290072633,2009,regular-season,2009-01-07,3,2633,home,FALSE,Tennessee,79,Volunteers,Tennessee Volunteers,Tennessee
+290072633,2009,regular-season,2009-01-07,3,2250,away,FALSE,Gonzaga,89,Bulldogs,Gonzaga Bulldogs,Gonzaga
+290070103,2009,regular-season,2009-01-07,2,103,home,FALSE,Boston College,70,Eagles,Boston College Eagles,Boston College
+290070103,2009,regular-season,2009-01-07,2,108,away,FALSE,Harvard,82,Crimson,Harvard Crimson,Harvard
+290070164,2009,regular-season,2009-01-07,2,164,home,FALSE,Rutgers,76,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+290070164,2009,regular-season,2009-01-07,2,269,away,FALSE,Marquette,81,Golden Eagles,Marquette Golden Eagles,Marquette
+290070058,2009,regular-season,2009-01-07,2,58,home,FALSE,South Florida,57,Bulls,South Florida Bulls,South Florida
+290070058,2009,regular-season,2009-01-07,2,97,away,FALSE,Louisville,71,Cardinals,Louisville Cardinals,Louisville

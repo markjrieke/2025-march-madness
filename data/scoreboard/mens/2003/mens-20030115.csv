@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-230150150,2003-01-15,2,150,home,FALSE,Duke,104,Blue Devils,Duke Blue Devils,Duke
-230150150,2003-01-15,2,258,away,FALSE,Virginia,93,Cavaliers,Virginia Cavaliers,Virginia
-230150239,2003-01-15,2,239,home,FALSE,Baylor,71,Bears,Baylor Bears,Baylor
-230150239,2003-01-15,2,251,away,FALSE,Texas,82,Longhorns,Texas Longhorns,Texas
-230150057,2003-01-15,2,57,home,FALSE,Florida,77,Gators,Florida Gators,Florida
-230150057,2003-01-15,2,2633,away,FALSE,Tennessee,64,Volunteers,Tennessee Volunteers,Tennessee
-230152294,2003-01-15,2,2294,home,FALSE,Iowa,68,Hawkeyes,Iowa Hawkeyes,Iowa
-230152294,2003-01-15,2,356,away,FALSE,Illinois,61,Fighting Illini,Illinois Fighting Illini,Illinois
-230150333,2003-01-15,3,333,home,FALSE,Alabama,68,Crimson Tide,Alabama Crimson Tide,Alabama
-230150333,2003-01-15,3,344,away,FALSE,Mississippi State,62,Bulldogs,Mississippi State Bulldogs,Mississippi St
-230152305,2003-01-15,2,2305,home,FALSE,Kansas,98,Jayhawks,Kansas Jayhawks,Kansas
-230152305,2003-01-15,2,2751,away,FALSE,Wyoming,70,Cowboys,Wyoming Cowboys,Wyoming
-230150156,2003-01-15,2,156,home,FALSE,Creighton,93,Bluejays,Creighton Bluejays,Creighton
-230150156,2003-01-15,2,339,away,FALSE,Evansville,56,Purple Aces,Evansville Purple Aces,Evansville
-230150154,2003-01-15,2,154,home,FALSE,Wake Forest,81,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-230150154,2003-01-15,2,120,away,FALSE,Maryland,72,Terrapins,Maryland Terrapins,Maryland
-230150084,2003-01-15,2,84,home,FALSE,Indiana,71,Hoosiers,Indiana Hoosiers,Indiana
-230150084,2003-01-15,2,77,away,FALSE,Northwestern,57,Wildcats,Northwestern Wildcats,Northwestern
-230152502,2003-01-15,2,2502,home,FALSE,Portland State,63,Vikings,Portland State Vikings,Portland St
-230152502,2003-01-15,2,2483,away,FALSE,Oregon,69,Ducks,Oregon Ducks,Oregon
-230150099,2003-01-15,2,99,home,FALSE,LSU,112,Tigers,LSU Tigers,LSU
-230150099,2003-01-15,2,2113,away,FALSE,Centenary (LA),65,Gentlemen,Centenary (LA) Gentlemen,Centenary (LA)
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+230150150,2003,regular-season,2003-01-15,2,150,home,FALSE,Duke,104,Blue Devils,Duke Blue Devils,Duke
+230150150,2003,regular-season,2003-01-15,2,258,away,FALSE,Virginia,93,Cavaliers,Virginia Cavaliers,Virginia
+230150239,2003,regular-season,2003-01-15,2,239,home,FALSE,Baylor,71,Bears,Baylor Bears,Baylor
+230150239,2003,regular-season,2003-01-15,2,251,away,FALSE,Texas,82,Longhorns,Texas Longhorns,Texas
+230150057,2003,regular-season,2003-01-15,2,57,home,FALSE,Florida,77,Gators,Florida Gators,Florida
+230150057,2003,regular-season,2003-01-15,2,2633,away,FALSE,Tennessee,64,Volunteers,Tennessee Volunteers,Tennessee
+230152294,2003,regular-season,2003-01-15,2,2294,home,FALSE,Iowa,68,Hawkeyes,Iowa Hawkeyes,Iowa
+230152294,2003,regular-season,2003-01-15,2,356,away,FALSE,Illinois,61,Fighting Illini,Illinois Fighting Illini,Illinois
+230150333,2003,regular-season,2003-01-15,3,333,home,FALSE,Alabama,68,Crimson Tide,Alabama Crimson Tide,Alabama
+230150333,2003,regular-season,2003-01-15,3,344,away,FALSE,Mississippi State,62,Bulldogs,Mississippi State Bulldogs,Mississippi St
+230152305,2003,regular-season,2003-01-15,2,2305,home,FALSE,Kansas,98,Jayhawks,Kansas Jayhawks,Kansas
+230152305,2003,regular-season,2003-01-15,2,2751,away,FALSE,Wyoming,70,Cowboys,Wyoming Cowboys,Wyoming
+230150156,2003,regular-season,2003-01-15,2,156,home,FALSE,Creighton,93,Bluejays,Creighton Bluejays,Creighton
+230150156,2003,regular-season,2003-01-15,2,339,away,FALSE,Evansville,56,Purple Aces,Evansville Purple Aces,Evansville
+230150154,2003,regular-season,2003-01-15,2,154,home,FALSE,Wake Forest,81,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+230150154,2003,regular-season,2003-01-15,2,120,away,FALSE,Maryland,72,Terrapins,Maryland Terrapins,Maryland
+230150084,2003,regular-season,2003-01-15,2,84,home,FALSE,Indiana,71,Hoosiers,Indiana Hoosiers,Indiana
+230150084,2003,regular-season,2003-01-15,2,77,away,FALSE,Northwestern,57,Wildcats,Northwestern Wildcats,Northwestern
+230152502,2003,regular-season,2003-01-15,2,2502,home,FALSE,Portland State,63,Vikings,Portland State Vikings,Portland St
+230152502,2003,regular-season,2003-01-15,2,2483,away,FALSE,Oregon,69,Ducks,Oregon Ducks,Oregon
+230150099,2003,regular-season,2003-01-15,2,99,home,FALSE,LSU,112,Tigers,LSU Tigers,LSU
+230150099,2003,regular-season,2003-01-15,2,2113,away,FALSE,Centenary (LA),65,Gentlemen,Centenary (LA) Gentlemen,Centenary (LA)

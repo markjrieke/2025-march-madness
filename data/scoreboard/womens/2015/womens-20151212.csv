@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400826512,2015-12-12,4,2628,home,FALSE,TCU,72,Horned Frogs,TCU Horned Frogs,TCU
-400826512,2015-12-12,4,87,away,FALSE,Notre Dame,88,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400835425,2015-12-12,4,204,home,FALSE,Oregon State,69,Beavers,Oregon State Beavers,Oregon St
-400835425,2015-12-12,4,70,away,FALSE,Idaho,44,Vandals,Idaho Vandals,Idaho
-400842352,2015-12-12,4,245,home,FALSE,Texas A&M,66,Aggies,Texas A&M Aggies,Texas A&M
-400842352,2015-12-12,4,305,away,FALSE,DePaul,80,Blue Demons,DePaul Blue Demons,DePaul
-400821062,2015-12-12,4,183,home,FALSE,Syracuse,54,Orange,Syracuse Orange,Syracuse
-400821062,2015-12-12,4,9,away,FALSE,Arizona State,61,Sun Devils,Arizona State Sun Devils,Arizona St
-400819359,2015-12-12,5,25,home,FALSE,California,87,Golden Bears,California Golden Bears,California
-400819359,2015-12-12,5,158,away,FALSE,Nebraska,80,Cornhuskers,Nebraska Cornhuskers,Nebraska
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400826512,2016,regular-season,2015-12-12,4,2628,home,FALSE,TCU,72,Horned Frogs,TCU Horned Frogs,TCU
+400826512,2016,regular-season,2015-12-12,4,87,away,FALSE,Notre Dame,88,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400835425,2016,regular-season,2015-12-12,4,204,home,FALSE,Oregon State,69,Beavers,Oregon State Beavers,Oregon St
+400835425,2016,regular-season,2015-12-12,4,70,away,FALSE,Idaho,44,Vandals,Idaho Vandals,Idaho
+400842352,2016,regular-season,2015-12-12,4,245,home,FALSE,Texas A&M,66,Aggies,Texas A&M Aggies,Texas A&M
+400842352,2016,regular-season,2015-12-12,4,305,away,FALSE,DePaul,80,Blue Demons,DePaul Blue Demons,DePaul
+400821062,2016,regular-season,2015-12-12,4,183,home,FALSE,Syracuse,54,Orange,Syracuse Orange,Syracuse
+400821062,2016,regular-season,2015-12-12,4,9,away,FALSE,Arizona State,61,Sun Devils,Arizona State Sun Devils,Arizona St
+400819359,2016,regular-season,2015-12-12,5,25,home,FALSE,California,87,Golden Bears,California Golden Bears,California
+400819359,2016,regular-season,2015-12-12,5,158,away,FALSE,Nebraska,80,Cornhuskers,Nebraska Cornhuskers,Nebraska

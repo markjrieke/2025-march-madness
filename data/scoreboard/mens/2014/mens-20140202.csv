@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400510012,2014-02-02,2,84,home,FALSE,Indiana,63,Hoosiers,Indiana Hoosiers,Indiana
-400510012,2014-02-02,2,130,away,FALSE,Michigan,52,Wolverines,Michigan Wolverines,Michigan
-400496987,2014-02-02,2,2132,home,FALSE,Cincinnati,50,Bearcats,Cincinnati Bearcats,Cincinnati
-400496987,2014-02-02,2,58,away,FALSE,South Florida,45,Bulls,South Florida Bulls,South Florida
-400502831,2014-02-02,2,221,home,FALSE,Pittsburgh,45,Panthers,Pittsburgh Panthers,Pitt
-400502831,2014-02-02,2,258,away,FALSE,Virginia,48,Cavaliers,Virginia Cavaliers,Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400510012,2014,regular-season,2014-02-02,2,84,home,FALSE,Indiana,63,Hoosiers,Indiana Hoosiers,Indiana
+400510012,2014,regular-season,2014-02-02,2,130,away,FALSE,Michigan,52,Wolverines,Michigan Wolverines,Michigan
+400496987,2014,regular-season,2014-02-02,2,2132,home,FALSE,Cincinnati,50,Bearcats,Cincinnati Bearcats,Cincinnati
+400496987,2014,regular-season,2014-02-02,2,58,away,FALSE,South Florida,45,Bulls,South Florida Bulls,South Florida
+400502831,2014,regular-season,2014-02-02,2,221,home,FALSE,Pittsburgh,45,Panthers,Pittsburgh Panthers,Pitt
+400502831,2014,regular-season,2014-02-02,2,258,away,FALSE,Virginia,48,Cavaliers,Virginia Cavaliers,Virginia

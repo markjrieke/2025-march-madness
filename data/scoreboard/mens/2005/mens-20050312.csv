@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-250710356,2005-03-12,2,356,home,FALSE,Illinois,64,Fighting Illini,Illinois Fighting Illini,Illinois
-250710356,2005-03-12,2,135,away,FALSE,Minnesota,56,Golden Gophers,Minnesota Golden Gophers,Minnesota
-250710153,2005-03-12,2,153,home,FALSE,North Carolina,75,Tar Heels,North Carolina Tar Heels,North Carolina
-250710153,2005-03-12,2,59,away,FALSE,Georgia Tech,78,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-250710150,2005-03-12,2,150,home,FALSE,Duke,76,Blue Devils,Duke Blue Devils,Duke
-250710150,2005-03-12,2,152,away,FALSE,NC State,69,Wolfpack,NC State Wolfpack,NC State
-250710235,2005-03-12,2,235,home,FALSE,Memphis,74,Tigers,Memphis Tigers,Memphis
-250710235,2005-03-12,2,97,away,FALSE,Louisville,75,Cardinals,Louisville Cardinals,Louisville
-250712305,2005-03-12,2,2305,home,FALSE,Kansas,75,Jayhawks,Kansas Jayhawks,Kansas
-250712305,2005-03-12,2,197,away,FALSE,Oklahoma State,78,Cowboys,Oklahoma State Cowboys,Oklahoma St
-250710096,2005-03-12,3,96,home,FALSE,Kentucky,79,Wildcats,Kentucky Wildcats,Kentucky
-250710096,2005-03-12,3,99,away,FALSE,LSU,78,Tigers,LSU Tigers,LSU
-250710012,2005-03-12,2,12,home,FALSE,Arizona,72,Wildcats,Arizona Wildcats,Arizona
-250710012,2005-03-12,2,264,away,FALSE,Washington,81,Huskies,Washington Huskies,Washington
-250710183,2005-03-12,2,183,home,FALSE,Syracuse,68,Orange,Syracuse Orange,Syracuse
-250710183,2005-03-12,2,277,away,FALSE,West Virginia,59,Mountaineers,West Virginia Mountaineers,West Virginia
-250710333,2005-03-12,2,333,home,FALSE,Alabama,62,Crimson Tide,Alabama Crimson Tide,Alabama
-250710333,2005-03-12,2,57,away,FALSE,Florida,68,Gators,Florida Gators,Florida
-250710201,2005-03-12,2,201,home,FALSE,Oklahoma,63,Sooners,Oklahoma Sooners,Oklahoma
-250710201,2005-03-12,2,2641,away,FALSE,Texas Tech,69,Red Raiders,Texas Tech Red Raiders,Texas Tech
-250710254,2005-03-12,2,254,home,FALSE,Utah,56,Utes,Utah Utes,Utah
-250710254,2005-03-12,2,167,away,FALSE,New Mexico,60,Lobos,New Mexico Lobos,New Mexico
-250710275,2005-03-12,2,275,home,FALSE,Wisconsin,59,Badgers,Wisconsin Badgers,Wisconsin
-250710275,2005-03-12,2,2294,away,FALSE,Iowa,56,Hawkeyes,Iowa Hawkeyes,Iowa
-250710279,2005-03-12,2,279,home,FALSE,Pacific,52,Tigers,Pacific Tigers,Pacific
-250710279,2005-03-12,2,328,away,FALSE,Utah State,65,Aggies,Utah State Aggies,Utah State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+250710356,2005,regular-season,2005-03-12,2,356,home,FALSE,Illinois,64,Fighting Illini,Illinois Fighting Illini,Illinois
+250710356,2005,regular-season,2005-03-12,2,135,away,FALSE,Minnesota,56,Golden Gophers,Minnesota Golden Gophers,Minnesota
+250710153,2005,regular-season,2005-03-12,2,153,home,FALSE,North Carolina,75,Tar Heels,North Carolina Tar Heels,North Carolina
+250710153,2005,regular-season,2005-03-12,2,59,away,FALSE,Georgia Tech,78,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+250710150,2005,regular-season,2005-03-12,2,150,home,FALSE,Duke,76,Blue Devils,Duke Blue Devils,Duke
+250710150,2005,regular-season,2005-03-12,2,152,away,FALSE,NC State,69,Wolfpack,NC State Wolfpack,NC State
+250710235,2005,regular-season,2005-03-12,2,235,home,FALSE,Memphis,74,Tigers,Memphis Tigers,Memphis
+250710235,2005,regular-season,2005-03-12,2,97,away,FALSE,Louisville,75,Cardinals,Louisville Cardinals,Louisville
+250712305,2005,regular-season,2005-03-12,2,2305,home,FALSE,Kansas,75,Jayhawks,Kansas Jayhawks,Kansas
+250712305,2005,regular-season,2005-03-12,2,197,away,FALSE,Oklahoma State,78,Cowboys,Oklahoma State Cowboys,Oklahoma St
+250710096,2005,regular-season,2005-03-12,3,96,home,FALSE,Kentucky,79,Wildcats,Kentucky Wildcats,Kentucky
+250710096,2005,regular-season,2005-03-12,3,99,away,FALSE,LSU,78,Tigers,LSU Tigers,LSU
+250710012,2005,regular-season,2005-03-12,2,12,home,FALSE,Arizona,72,Wildcats,Arizona Wildcats,Arizona
+250710012,2005,regular-season,2005-03-12,2,264,away,FALSE,Washington,81,Huskies,Washington Huskies,Washington
+250710183,2005,regular-season,2005-03-12,2,183,home,FALSE,Syracuse,68,Orange,Syracuse Orange,Syracuse
+250710183,2005,regular-season,2005-03-12,2,277,away,FALSE,West Virginia,59,Mountaineers,West Virginia Mountaineers,West Virginia
+250710333,2005,regular-season,2005-03-12,2,333,home,FALSE,Alabama,62,Crimson Tide,Alabama Crimson Tide,Alabama
+250710333,2005,regular-season,2005-03-12,2,57,away,FALSE,Florida,68,Gators,Florida Gators,Florida
+250710201,2005,regular-season,2005-03-12,2,201,home,FALSE,Oklahoma,63,Sooners,Oklahoma Sooners,Oklahoma
+250710201,2005,regular-season,2005-03-12,2,2641,away,FALSE,Texas Tech,69,Red Raiders,Texas Tech Red Raiders,Texas Tech
+250710254,2005,regular-season,2005-03-12,2,254,home,FALSE,Utah,56,Utes,Utah Utes,Utah
+250710254,2005,regular-season,2005-03-12,2,167,away,FALSE,New Mexico,60,Lobos,New Mexico Lobos,New Mexico
+250710275,2005,regular-season,2005-03-12,2,275,home,FALSE,Wisconsin,59,Badgers,Wisconsin Badgers,Wisconsin
+250710275,2005,regular-season,2005-03-12,2,2294,away,FALSE,Iowa,56,Hawkeyes,Iowa Hawkeyes,Iowa
+250710279,2005,regular-season,2005-03-12,2,279,home,FALSE,Pacific,52,Tigers,Pacific Tigers,Pacific
+250710279,2005,regular-season,2005-03-12,2,328,away,FALSE,Utah State,65,Aggies,Utah State Aggies,Utah State

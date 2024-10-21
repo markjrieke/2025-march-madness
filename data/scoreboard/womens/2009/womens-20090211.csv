@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290422599,2009-02-11,2,2599,home,FALSE,St. John's,64,Red Storm,St. John's Red Storm,St John's
-290422599,2009-02-11,2,41,away,FALSE,UConn,77,Huskies,UConn Huskies,UConn
-290420201,2009-02-11,2,201,home,FALSE,Oklahoma,58,Sooners,Oklahoma Sooners,Oklahoma
-290420201,2009-02-11,2,66,away,FALSE,Iowa State,49,Cyclones,Iowa State Cyclones,Iowa State
-290420197,2009-02-11,3,197,home,FALSE,Oklahoma State,62,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
-290420197,2009-02-11,3,239,away,FALSE,Baylor,64,Bears,Baylor Bears,Baylor
-290420087,2009-02-11,2,87,home,FALSE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-290420087,2009-02-11,2,97,away,FALSE,Louisville,71,Cardinals,Louisville Cardinals,Louisville
-290422641,2009-02-11,2,2641,home,FALSE,Texas Tech,60,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-290422641,2009-02-11,2,245,away,FALSE,Texas A&M,53,Aggies,Texas A&M Aggies,Texas A&M
-290420251,2009-02-11,2,251,home,FALSE,Texas,74,Longhorns,Texas Longhorns,Texas
-290420251,2009-02-11,2,2305,away,FALSE,Kansas,66,Jayhawks,Kansas Jayhawks,Kansas
-290422752,2009-02-11,2,2752,home,FALSE,Xavier,82,Musketeers,Xavier Musketeers,Xavier
-290422752,2009-02-11,2,45,away,FALSE,George Washington,62,Revolutionaries,George Washington Revolutionaries,G Washington
-290420305,2009-02-11,2,305,home,FALSE,DePaul,80,Blue Demons,DePaul Blue Demons,DePaul
-290420305,2009-02-11,2,2550,away,FALSE,Seton Hall,39,Pirates,Seton Hall Pirates,Seton Hall
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290422599,2009,regular-season,2009-02-11,2,2599,home,FALSE,St. John's,64,Red Storm,St. John's Red Storm,St John's
+290422599,2009,regular-season,2009-02-11,2,41,away,FALSE,UConn,77,Huskies,UConn Huskies,UConn
+290420201,2009,regular-season,2009-02-11,2,201,home,FALSE,Oklahoma,58,Sooners,Oklahoma Sooners,Oklahoma
+290420201,2009,regular-season,2009-02-11,2,66,away,FALSE,Iowa State,49,Cyclones,Iowa State Cyclones,Iowa State
+290420197,2009,regular-season,2009-02-11,3,197,home,FALSE,Oklahoma State,62,Cowgirls,Oklahoma State Cowgirls,Oklahoma St
+290420197,2009,regular-season,2009-02-11,3,239,away,FALSE,Baylor,64,Bears,Baylor Bears,Baylor
+290420087,2009,regular-season,2009-02-11,2,87,home,FALSE,Notre Dame,66,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+290420087,2009,regular-season,2009-02-11,2,97,away,FALSE,Louisville,71,Cardinals,Louisville Cardinals,Louisville
+290422641,2009,regular-season,2009-02-11,2,2641,home,FALSE,Texas Tech,60,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+290422641,2009,regular-season,2009-02-11,2,245,away,FALSE,Texas A&M,53,Aggies,Texas A&M Aggies,Texas A&M
+290420251,2009,regular-season,2009-02-11,2,251,home,FALSE,Texas,74,Longhorns,Texas Longhorns,Texas
+290420251,2009,regular-season,2009-02-11,2,2305,away,FALSE,Kansas,66,Jayhawks,Kansas Jayhawks,Kansas
+290422752,2009,regular-season,2009-02-11,2,2752,home,FALSE,Xavier,82,Musketeers,Xavier Musketeers,Xavier
+290422752,2009,regular-season,2009-02-11,2,45,away,FALSE,George Washington,62,Revolutionaries,George Washington Revolutionaries,G Washington
+290420305,2009,regular-season,2009-02-11,2,305,home,FALSE,DePaul,80,Blue Demons,DePaul Blue Demons,DePaul
+290420305,2009,regular-season,2009-02-11,2,2550,away,FALSE,Seton Hall,39,Pirates,Seton Hall Pirates,Seton Hall

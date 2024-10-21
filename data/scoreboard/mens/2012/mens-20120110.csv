@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-320100153,2012-01-10,2,153,home,FALSE,North Carolina,73,Tar Heels,North Carolina Tar Heels,North Carolina
-320100153,2012-01-10,2,2390,away,FALSE,Miami,56,Hurricanes,Miami Hurricanes,Miami
-320102306,2012-01-10,2,2306,home,FALSE,Kansas State,73,Wildcats,Kansas State Wildcats,Kansas St
-320102306,2012-01-10,2,239,away,FALSE,Baylor,75,Bears,Baylor Bears,Baylor
-320100356,2012-01-10,2,356,home,FALSE,Illinois,79,Fighting Illini,Illinois Fighting Illini,Illinois
-320100356,2012-01-10,2,194,away,FALSE,Ohio State,74,Buckeyes,Ohio State Buckeyes,Ohio State
-320100127,2012-01-10,2,127,home,FALSE,Michigan State,95,Spartans,Michigan State Spartans,Michigan St
-320100127,2012-01-10,2,2294,away,FALSE,Iowa,61,Hawkeyes,Iowa Hawkeyes,Iowa
-320102507,2012-01-10,2,2507,home,FALSE,Providence,90,Friars,Providence Friars,Providence
-320102507,2012-01-10,2,97,away,FALSE,Louisville,59,Cardinals,Louisville Cardinals,Louisville
-320100057,2012-01-10,2,57,home,FALSE,Florida,70,Gators,Florida Gators,Florida
-320100057,2012-01-10,2,61,away,FALSE,Georgia,48,Bulldogs,Georgia Bulldogs,Georgia
-320100021,2012-01-10,2,21,home,FALSE,San Diego State,73,Aztecs,San Diego State Aztecs,San Diego St
-320100021,2012-01-10,2,2130,away,FALSE,Chicago State,65,Cougars,Chicago State Cougars,Chicago St
-320100156,2012-01-10,2,156,home,FALSE,Creighton,63,Bluejays,Creighton Bluejays,Creighton
-320100156,2012-01-10,2,2460,away,FALSE,Northern Iowa,60,Panthers,Northern Iowa Panthers,Northern Iowa
-320102550,2012-01-10,2,2550,home,FALSE,Seton Hall,94,Pirates,Seton Hall Pirates,Seton Hall
-320102550,2012-01-10,2,305,away,FALSE,DePaul,73,Blue Demons,DePaul Blue Demons,DePaul
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+320100153,2012,regular-season,2012-01-10,2,153,home,FALSE,North Carolina,73,Tar Heels,North Carolina Tar Heels,North Carolina
+320100153,2012,regular-season,2012-01-10,2,2390,away,FALSE,Miami,56,Hurricanes,Miami Hurricanes,Miami
+320102306,2012,regular-season,2012-01-10,2,2306,home,FALSE,Kansas State,73,Wildcats,Kansas State Wildcats,Kansas St
+320102306,2012,regular-season,2012-01-10,2,239,away,FALSE,Baylor,75,Bears,Baylor Bears,Baylor
+320100356,2012,regular-season,2012-01-10,2,356,home,FALSE,Illinois,79,Fighting Illini,Illinois Fighting Illini,Illinois
+320100356,2012,regular-season,2012-01-10,2,194,away,FALSE,Ohio State,74,Buckeyes,Ohio State Buckeyes,Ohio State
+320100127,2012,regular-season,2012-01-10,2,127,home,FALSE,Michigan State,95,Spartans,Michigan State Spartans,Michigan St
+320100127,2012,regular-season,2012-01-10,2,2294,away,FALSE,Iowa,61,Hawkeyes,Iowa Hawkeyes,Iowa
+320102507,2012,regular-season,2012-01-10,2,2507,home,FALSE,Providence,90,Friars,Providence Friars,Providence
+320102507,2012,regular-season,2012-01-10,2,97,away,FALSE,Louisville,59,Cardinals,Louisville Cardinals,Louisville
+320100057,2012,regular-season,2012-01-10,2,57,home,FALSE,Florida,70,Gators,Florida Gators,Florida
+320100057,2012,regular-season,2012-01-10,2,61,away,FALSE,Georgia,48,Bulldogs,Georgia Bulldogs,Georgia
+320100021,2012,regular-season,2012-01-10,2,21,home,FALSE,San Diego State,73,Aztecs,San Diego State Aztecs,San Diego St
+320100021,2012,regular-season,2012-01-10,2,2130,away,FALSE,Chicago State,65,Cougars,Chicago State Cougars,Chicago St
+320100156,2012,regular-season,2012-01-10,2,156,home,FALSE,Creighton,63,Bluejays,Creighton Bluejays,Creighton
+320100156,2012,regular-season,2012-01-10,2,2460,away,FALSE,Northern Iowa,60,Panthers,Northern Iowa Panthers,Northern Iowa
+320102550,2012,regular-season,2012-01-10,2,2550,home,FALSE,Seton Hall,94,Pirates,Seton Hall Pirates,Seton Hall
+320102550,2012,regular-season,2012-01-10,2,305,away,FALSE,DePaul,73,Blue Demons,DePaul Blue Demons,DePaul

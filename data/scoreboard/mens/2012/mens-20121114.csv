@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323190057,2012-11-14,2,57,home,FALSE,Florida,74,Gators,Florida Gators,Florida
-323190057,2012-11-14,2,275,away,FALSE,Wisconsin,56,Badgers,Wisconsin Badgers,Wisconsin
-323190156,2012-11-14,2,156,home,FALSE,Creighton,77,Bluejays,Creighton Bluejays,Creighton
-323190156,2012-11-14,2,5,away,FALSE,UAB,60,Blazers,UAB Blazers,UAB
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323190057,2013,regular-season,2012-11-14,2,57,home,FALSE,Florida,74,Gators,Florida Gators,Florida
+323190057,2013,regular-season,2012-11-14,2,275,away,FALSE,Wisconsin,56,Badgers,Wisconsin Badgers,Wisconsin
+323190156,2013,regular-season,2012-11-14,2,156,home,FALSE,Creighton,77,Bluejays,Creighton Bluejays,Creighton
+323190156,2013,regular-season,2012-11-14,2,5,away,FALSE,UAB,60,Blazers,UAB Blazers,UAB

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401175693,2019-12-27,2,116,home,FALSE,Mount St. Mary's,79,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-401175693,2019-12-27,2,2154,away,FALSE,Coppin State,55,Eagles,Coppin State Eagles,Coppin St
-401170937,2019-12-27,2,2352,home,FALSE,Loyola Maryland,93,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-401170937,2019-12-27,2,2349,away,FALSE,UMass Lowell,81,River Hawks,UMass Lowell River Hawks,UMass Lowell
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401175693,2020,regular-season,2019-12-27,2,116,home,FALSE,Mount St. Mary's,79,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+401175693,2020,regular-season,2019-12-27,2,2154,away,FALSE,Coppin State,55,Eagles,Coppin State Eagles,Coppin St
+401170937,2020,regular-season,2019-12-27,2,2352,home,FALSE,Loyola Maryland,93,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+401170937,2020,regular-season,2019-12-27,2,2349,away,FALSE,UMass Lowell,81,River Hawks,UMass Lowell River Hawks,UMass Lowell

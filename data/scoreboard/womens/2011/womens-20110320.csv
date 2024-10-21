@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310790041,2011-03-20,2,41,home,FALSE,UConn,75,Huskies,UConn Huskies,UConn
-310790041,2011-03-20,2,42,away,FALSE,Hartford,39,Hawks,Hartford Hawks,Hartford
-310790097,2011-03-20,2,97,home,TRUE,Louisville,81,Cardinals,Louisville Cardinals,Louisville
-310790097,2011-03-20,2,238,away,TRUE,Vanderbilt,62,Commodores,Vanderbilt Commodores,Vanderbilt
-310792390,2011-03-20,2,2390,home,TRUE,Miami,80,Hurricanes,Miami Hurricanes,Miami
-310792390,2011-03-20,2,2241,away,TRUE,Gardner-Webb,62,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-310790120,2011-03-20,2,120,home,FALSE,Maryland,70,Terrapins,Maryland Terrapins,Maryland
-310790120,2011-03-20,2,2598,away,FALSE,St. Francis (PA),48,Red Flash,St. Francis (PA) Red Flash,St Francis PA
-310792306,2011-03-20,2,2306,home,TRUE,Kansas State,45,Wildcats,Kansas State Wildcats,Kansas St
-310792306,2011-03-20,2,2509,away,TRUE,Purdue,53,Boilermakers,Purdue Boilermakers,Purdue
-310792752,2011-03-20,2,2752,home,FALSE,Xavier,72,Musketeers,Xavier Musketeers,Xavier
-310792752,2011-03-20,2,2571,away,FALSE,South Dakota State,56,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-310790201,2011-03-20,2,201,home,TRUE,Oklahoma,86,Sooners,Oklahoma Sooners,Oklahoma
-310790201,2011-03-20,2,256,away,TRUE,James Madison,72,Dukes,James Madison Dukes,James Madison
-310790046,2011-03-20,2,46,home,TRUE,Georgetown,65,Hoyas,Georgetown Hoyas,Georgetown
-310790046,2011-03-20,2,163,away,TRUE,Princeton,49,Tigers,Princeton Tigers,Princeton
-310790245,2011-03-20,2,245,home,TRUE,Texas A&M,87,Aggies,Texas A&M Aggies,Texas A&M
-310790245,2011-03-20,2,2377,away,TRUE,McNeese,47,Cowgirls,McNeese Cowgirls,McNeese
-310790248,2011-03-20,2,248,home,TRUE,Houston,73,Cougars,Houston Cougars,Houston
-310790248,2011-03-20,2,277,away,TRUE,West Virginia,79,Mountaineers,West Virginia Mountaineers,West Virginia
-310790052,2011-03-20,2,52,home,TRUE,Florida State,76,Seminoles,Florida State Seminoles,Florida St
-310790052,2011-03-20,2,2535,away,TRUE,Samford,46,Bulldogs,Samford Bulldogs,Samford
-310792739,2011-03-20,2,2739,home,TRUE,Green Bay,59,Phoenix,Green Bay Phoenix,Green Bay
-310792739,2011-03-20,2,2031,away,TRUE,Little Rock,55,Trojans,Little Rock Trojans,Little Rock
-310790164,2011-03-20,2,164,home,TRUE,Rutgers,76,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-310790164,2011-03-20,2,2348,away,TRUE,Louisiana Tech,51,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-310790127,2011-03-20,2,127,home,TRUE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
-310790127,2011-03-20,2,2460,away,TRUE,Northern Iowa,66,Panthers,Northern Iowa Panthers,Northern Iowa
-310790061,2011-03-20,2,61,home,TRUE,Georgia,56,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-310790061,2011-03-20,2,2393,away,TRUE,Middle Tennessee,41,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-310790239,2011-03-20,2,239,home,FALSE,Baylor,66,Bears,Baylor Bears,Baylor
-310790239,2011-03-20,2,2504,away,FALSE,Prairie View A&M,30,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310790041,2011,post-season,2011-03-20,2,41,home,FALSE,UConn,75,Huskies,UConn Huskies,UConn
+310790041,2011,post-season,2011-03-20,2,42,away,FALSE,Hartford,39,Hawks,Hartford Hawks,Hartford
+310790097,2011,post-season,2011-03-20,2,97,home,TRUE,Louisville,81,Cardinals,Louisville Cardinals,Louisville
+310790097,2011,post-season,2011-03-20,2,238,away,TRUE,Vanderbilt,62,Commodores,Vanderbilt Commodores,Vanderbilt
+310792390,2011,post-season,2011-03-20,2,2390,home,TRUE,Miami,80,Hurricanes,Miami Hurricanes,Miami
+310792390,2011,post-season,2011-03-20,2,2241,away,TRUE,Gardner-Webb,62,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+310790120,2011,post-season,2011-03-20,2,120,home,FALSE,Maryland,70,Terrapins,Maryland Terrapins,Maryland
+310790120,2011,post-season,2011-03-20,2,2598,away,FALSE,St. Francis (PA),48,Red Flash,St. Francis (PA) Red Flash,St Francis PA
+310792306,2011,post-season,2011-03-20,2,2306,home,TRUE,Kansas State,45,Wildcats,Kansas State Wildcats,Kansas St
+310792306,2011,post-season,2011-03-20,2,2509,away,TRUE,Purdue,53,Boilermakers,Purdue Boilermakers,Purdue
+310792752,2011,post-season,2011-03-20,2,2752,home,FALSE,Xavier,72,Musketeers,Xavier Musketeers,Xavier
+310792752,2011,post-season,2011-03-20,2,2571,away,FALSE,South Dakota State,56,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+310790201,2011,post-season,2011-03-20,2,201,home,TRUE,Oklahoma,86,Sooners,Oklahoma Sooners,Oklahoma
+310790201,2011,post-season,2011-03-20,2,256,away,TRUE,James Madison,72,Dukes,James Madison Dukes,James Madison
+310790046,2011,post-season,2011-03-20,2,46,home,TRUE,Georgetown,65,Hoyas,Georgetown Hoyas,Georgetown
+310790046,2011,post-season,2011-03-20,2,163,away,TRUE,Princeton,49,Tigers,Princeton Tigers,Princeton
+310790245,2011,post-season,2011-03-20,2,245,home,TRUE,Texas A&M,87,Aggies,Texas A&M Aggies,Texas A&M
+310790245,2011,post-season,2011-03-20,2,2377,away,TRUE,McNeese,47,Cowgirls,McNeese Cowgirls,McNeese
+310790248,2011,post-season,2011-03-20,2,248,home,TRUE,Houston,73,Cougars,Houston Cougars,Houston
+310790248,2011,post-season,2011-03-20,2,277,away,TRUE,West Virginia,79,Mountaineers,West Virginia Mountaineers,West Virginia
+310790052,2011,post-season,2011-03-20,2,52,home,TRUE,Florida State,76,Seminoles,Florida State Seminoles,Florida St
+310790052,2011,post-season,2011-03-20,2,2535,away,TRUE,Samford,46,Bulldogs,Samford Bulldogs,Samford
+310792739,2011,post-season,2011-03-20,2,2739,home,TRUE,Green Bay,59,Phoenix,Green Bay Phoenix,Green Bay
+310792739,2011,post-season,2011-03-20,2,2031,away,TRUE,Little Rock,55,Trojans,Little Rock Trojans,Little Rock
+310790164,2011,post-season,2011-03-20,2,164,home,TRUE,Rutgers,76,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+310790164,2011,post-season,2011-03-20,2,2348,away,TRUE,Louisiana Tech,51,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+310790127,2011,post-season,2011-03-20,2,127,home,TRUE,Michigan State,69,Spartans,Michigan State Spartans,Michigan St
+310790127,2011,post-season,2011-03-20,2,2460,away,TRUE,Northern Iowa,66,Panthers,Northern Iowa Panthers,Northern Iowa
+310790061,2011,post-season,2011-03-20,2,61,home,TRUE,Georgia,56,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+310790061,2011,post-season,2011-03-20,2,2393,away,TRUE,Middle Tennessee,41,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+310790239,2011,post-season,2011-03-20,2,239,home,FALSE,Baylor,66,Bears,Baylor Bears,Baylor
+310790239,2011,post-season,2011-03-20,2,2504,away,FALSE,Prairie View A&M,30,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View

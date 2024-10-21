@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310340150,2011-02-03,2,150,home,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
-310340150,2011-02-03,2,2390,away,FALSE,Miami,58,Hurricanes,Miami Hurricanes,Miami
-310340009,2011-02-03,2,9,home,FALSE,Arizona State,54,Sun Devils,Arizona State Sun Devils,Arizona St
-310340009,2011-02-03,2,24,away,FALSE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
-310340275,2011-02-03,3,275,home,FALSE,Wisconsin,70,Badgers,Wisconsin Badgers,Wisconsin
-310340275,2011-02-03,3,127,away,FALSE,Michigan State,73,Spartans,Michigan State Spartans,Michigan St
-310340059,2011-02-03,2,59,home,FALSE,Georgia Tech,53,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-310340059,2011-02-03,2,120,away,FALSE,Maryland,56,Terrapins,Maryland Terrapins,Maryland
-310340096,2011-02-03,2,96,home,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
-310340096,2011-02-03,2,2,away,FALSE,Auburn,38,Tigers,Auburn Tigers,Auburn
-310342509,2011-02-03,2,2509,home,FALSE,Purdue,60,Boilermakers,Purdue Boilermakers,Purdue
-310342509,2011-02-03,2,2294,away,FALSE,Iowa,41,Hawkeyes,Iowa Hawkeyes,Iowa
-310342739,2011-02-03,2,2739,home,FALSE,Green Bay,87,Phoenix,Green Bay Phoenix,Green Bay
-310342739,2011-02-03,2,325,away,FALSE,Cleveland State,63,Vikings,Cleveland State Vikings,Cleveland St
-310340061,2011-02-03,3,61,home,FALSE,Georgia,57,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-310340061,2011-02-03,3,8,away,FALSE,Arkansas,54,Razorbacks,Arkansas Razorbacks,Arkansas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310340150,2011,regular-season,2011-02-03,2,150,home,FALSE,Duke,82,Blue Devils,Duke Blue Devils,Duke
+310340150,2011,regular-season,2011-02-03,2,2390,away,FALSE,Miami,58,Hurricanes,Miami Hurricanes,Miami
+310340009,2011,regular-season,2011-02-03,2,9,home,FALSE,Arizona State,54,Sun Devils,Arizona State Sun Devils,Arizona St
+310340009,2011,regular-season,2011-02-03,2,24,away,FALSE,Stanford,72,Cardinal,Stanford Cardinal,Stanford
+310340275,2011,regular-season,2011-02-03,3,275,home,FALSE,Wisconsin,70,Badgers,Wisconsin Badgers,Wisconsin
+310340275,2011,regular-season,2011-02-03,3,127,away,FALSE,Michigan State,73,Spartans,Michigan State Spartans,Michigan St
+310340059,2011,regular-season,2011-02-03,2,59,home,FALSE,Georgia Tech,53,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+310340059,2011,regular-season,2011-02-03,2,120,away,FALSE,Maryland,56,Terrapins,Maryland Terrapins,Maryland
+310340096,2011,regular-season,2011-02-03,2,96,home,FALSE,Kentucky,69,Wildcats,Kentucky Wildcats,Kentucky
+310340096,2011,regular-season,2011-02-03,2,2,away,FALSE,Auburn,38,Tigers,Auburn Tigers,Auburn
+310342509,2011,regular-season,2011-02-03,2,2509,home,FALSE,Purdue,60,Boilermakers,Purdue Boilermakers,Purdue
+310342509,2011,regular-season,2011-02-03,2,2294,away,FALSE,Iowa,41,Hawkeyes,Iowa Hawkeyes,Iowa
+310342739,2011,regular-season,2011-02-03,2,2739,home,FALSE,Green Bay,87,Phoenix,Green Bay Phoenix,Green Bay
+310342739,2011,regular-season,2011-02-03,2,325,away,FALSE,Cleveland State,63,Vikings,Cleveland State Vikings,Cleveland St
+310340061,2011,regular-season,2011-02-03,3,61,home,FALSE,Georgia,57,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+310340061,2011,regular-season,2011-02-03,3,8,away,FALSE,Arkansas,54,Razorbacks,Arkansas Razorbacks,Arkansas

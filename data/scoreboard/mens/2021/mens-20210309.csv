@@ -1,33 +1,33 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401300964,2021-03-09,2,221,home,TRUE,Pittsburgh,73,Panthers,Pittsburgh Panthers,Pitt
-401300964,2021-03-09,2,2390,away,TRUE,Miami,79,Hurricanes,Miami Hurricanes,Miami
-401300965,2021-03-09,2,150,home,TRUE,Duke,86,Blue Devils,Duke Blue Devils,Duke
-401300965,2021-03-09,2,103,away,TRUE,Boston College,51,Eagles,Boston College Eagles,Boston College
-401287056,2021-03-09,2,2514,home,TRUE,Quinnipiac,48,Bobcats,Quinnipiac Bobcats,Quinnipiac
-401287056,2021-03-09,2,314,away,TRUE,Iona,72,Gaels,Iona Gaels,Iona
-401287036,2021-03-09,2,2545,home,TRUE,SE Louisiana,71,Lions,SE Louisiana Lions,SE Louisiana
-401287036,2021-03-09,2,2377,away,TRUE,McNeese,68,Cowboys,McNeese Cowboys,McNeese
-401286949,2021-03-09,2,2463,home,TRUE,Cal State Northridge,63,Matadors,Cal State Northridge Matadors,CSU Northridge
-401286949,2021-03-09,2,299,away,TRUE,Long Beach State,85,Beach,Long Beach State Beach,Long Beach St
-401301950,2021-03-09,2,2182,home,TRUE,Drexel,63,Dragons,Drexel Dragons,Drexel
-401301950,2021-03-09,2,2210,away,TRUE,Elon,56,Phoenix,Elon Phoenix,Elon
-401300966,2021-03-09,2,87,home,TRUE,Notre Dame,80,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-401300966,2021-03-09,2,154,away,TRUE,Wake Forest,77,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-401287122,2021-03-09,2,2803,home,FALSE,Bryant,68,Bulldogs,Bryant Bulldogs,Bryant
-401287122,2021-03-09,2,116,away,FALSE,Mount St. Mary's,73,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
-401286987,2021-03-09,2,325,home,TRUE,Cleveland State,80,Vikings,Cleveland State Vikings,Cleveland St
-401286987,2021-03-09,2,2473,away,TRUE,Oakland,69,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
-401287055,2021-03-09,3,2217,home,TRUE,Fairfield,59,Stags,Fairfield Stags,Fairfield
-401287055,2021-03-09,3,2363,away,TRUE,Manhattan,58,Jaspers,Manhattan Jaspers,Manhattan
-401310985,2021-03-09,2,242,home,TRUE,Rice,61,Owls,Rice Owls,Rice
-401310985,2021-03-09,2,2572,away,TRUE,Southern Miss,52,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
-401287755,2021-03-09,2,2449,home,TRUE,North Dakota State,72,Bison,North Dakota State Bison,N Dakota St
-401287755,2021-03-09,2,198,away,TRUE,Oral Roberts,75,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-401287736,2021-03-09,2,2250,home,TRUE,Gonzaga,88,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401287736,2021-03-09,2,252,away,TRUE,BYU,78,Cougars,BYU Cougars,BYU
-401287037,2021-03-09,2,2916,home,TRUE,Incarnate Word,68,Cardinals,Incarnate Word Cardinals,Incarnate Word
-401287037,2021-03-09,2,2277,away,TRUE,Houston Christian,80,Huskies,Houston Christian Huskies,Hou Christian
-401286955,2021-03-09,2,2239,home,TRUE,Cal State Fullerton,82,Titans,Cal State Fullerton Titans,Fullerton
-401286955,2021-03-09,2,13,away,TRUE,Cal Poly,87,Mustangs,Cal Poly Mustangs,Cal Poly
-401310986,2021-03-09,0,2393,home,TRUE,Middle Tennessee,0,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-401310986,2021-03-09,0,2229,away,TRUE,Florida International,0,Panthers,Florida International Panthers,FIU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401300964,2021,regular-season,2021-03-09,2,221,home,TRUE,Pittsburgh,73,Panthers,Pittsburgh Panthers,Pitt
+401300964,2021,regular-season,2021-03-09,2,2390,away,TRUE,Miami,79,Hurricanes,Miami Hurricanes,Miami
+401300965,2021,regular-season,2021-03-09,2,150,home,TRUE,Duke,86,Blue Devils,Duke Blue Devils,Duke
+401300965,2021,regular-season,2021-03-09,2,103,away,TRUE,Boston College,51,Eagles,Boston College Eagles,Boston College
+401287056,2021,regular-season,2021-03-09,2,2514,home,TRUE,Quinnipiac,48,Bobcats,Quinnipiac Bobcats,Quinnipiac
+401287056,2021,regular-season,2021-03-09,2,314,away,TRUE,Iona,72,Gaels,Iona Gaels,Iona
+401287036,2021,regular-season,2021-03-09,2,2545,home,TRUE,SE Louisiana,71,Lions,SE Louisiana Lions,SE Louisiana
+401287036,2021,regular-season,2021-03-09,2,2377,away,TRUE,McNeese,68,Cowboys,McNeese Cowboys,McNeese
+401286949,2021,regular-season,2021-03-09,2,2463,home,TRUE,Cal State Northridge,63,Matadors,Cal State Northridge Matadors,CSU Northridge
+401286949,2021,regular-season,2021-03-09,2,299,away,TRUE,Long Beach State,85,Beach,Long Beach State Beach,Long Beach St
+401301950,2021,regular-season,2021-03-09,2,2182,home,TRUE,Drexel,63,Dragons,Drexel Dragons,Drexel
+401301950,2021,regular-season,2021-03-09,2,2210,away,TRUE,Elon,56,Phoenix,Elon Phoenix,Elon
+401300966,2021,regular-season,2021-03-09,2,87,home,TRUE,Notre Dame,80,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+401300966,2021,regular-season,2021-03-09,2,154,away,TRUE,Wake Forest,77,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+401287122,2021,regular-season,2021-03-09,2,2803,home,FALSE,Bryant,68,Bulldogs,Bryant Bulldogs,Bryant
+401287122,2021,regular-season,2021-03-09,2,116,away,FALSE,Mount St. Mary's,73,Mountaineers,Mount St. Mary's Mountaineers,Mount St Marys
+401286987,2021,regular-season,2021-03-09,2,325,home,TRUE,Cleveland State,80,Vikings,Cleveland State Vikings,Cleveland St
+401286987,2021,regular-season,2021-03-09,2,2473,away,TRUE,Oakland,69,Golden Grizzlies,Oakland Golden Grizzlies,Oakland
+401287055,2021,regular-season,2021-03-09,3,2217,home,TRUE,Fairfield,59,Stags,Fairfield Stags,Fairfield
+401287055,2021,regular-season,2021-03-09,3,2363,away,TRUE,Manhattan,58,Jaspers,Manhattan Jaspers,Manhattan
+401310985,2021,regular-season,2021-03-09,2,242,home,TRUE,Rice,61,Owls,Rice Owls,Rice
+401310985,2021,regular-season,2021-03-09,2,2572,away,TRUE,Southern Miss,52,Golden Eagles,Southern Miss Golden Eagles,Southern Miss
+401287755,2021,regular-season,2021-03-09,2,2449,home,TRUE,North Dakota State,72,Bison,North Dakota State Bison,N Dakota St
+401287755,2021,regular-season,2021-03-09,2,198,away,TRUE,Oral Roberts,75,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+401287736,2021,regular-season,2021-03-09,2,2250,home,TRUE,Gonzaga,88,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401287736,2021,regular-season,2021-03-09,2,252,away,TRUE,BYU,78,Cougars,BYU Cougars,BYU
+401287037,2021,regular-season,2021-03-09,2,2916,home,TRUE,Incarnate Word,68,Cardinals,Incarnate Word Cardinals,Incarnate Word
+401287037,2021,regular-season,2021-03-09,2,2277,away,TRUE,Houston Christian,80,Huskies,Houston Christian Huskies,Hou Christian
+401286955,2021,regular-season,2021-03-09,2,2239,home,TRUE,Cal State Fullerton,82,Titans,Cal State Fullerton Titans,Fullerton
+401286955,2021,regular-season,2021-03-09,2,13,away,TRUE,Cal Poly,87,Mustangs,Cal Poly Mustangs,Cal Poly
+401310986,2021,regular-season,2021-03-09,0,2393,home,TRUE,Middle Tennessee,0,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+401310986,2021,regular-season,2021-03-09,0,2229,away,TRUE,Florida International,0,Panthers,Florida International Panthers,FIU

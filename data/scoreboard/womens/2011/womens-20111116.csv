@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313200120,2011-11-16,2,120,home,FALSE,Maryland,82,Terrapins,Maryland Terrapins,Maryland
-313200120,2011-11-16,2,119,away,FALSE,Towson,46,Tigers,Towson Tigers,Towson
-313200099,2011-11-16,2,99,home,FALSE,LSU,51,Tigers,LSU Tigers,LSU
-313200099,2011-11-16,2,46,away,FALSE,Georgetown,40,Hoyas,Georgetown Hoyas,Georgetown
-313200164,2011-11-16,2,164,home,FALSE,Rutgers,74,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-313200164,2011-11-16,2,103,away,FALSE,Boston College,58,Eagles,Boston College Eagles,Boston College
-313200153,2011-11-16,2,153,home,FALSE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
-313200153,2011-11-16,2,2430,away,FALSE,UNC Greensboro,35,Spartans,UNC Greensboro Spartans,UNC Greensboro
-313200248,2011-11-16,2,248,home,FALSE,Houston,58,Cougars,Houston Cougars,Houston
-313200248,2011-11-16,2,2641,away,FALSE,Texas Tech,88,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313200120,2012,regular-season,2011-11-16,2,120,home,FALSE,Maryland,82,Terrapins,Maryland Terrapins,Maryland
+313200120,2012,regular-season,2011-11-16,2,119,away,FALSE,Towson,46,Tigers,Towson Tigers,Towson
+313200099,2012,regular-season,2011-11-16,2,99,home,FALSE,LSU,51,Tigers,LSU Tigers,LSU
+313200099,2012,regular-season,2011-11-16,2,46,away,FALSE,Georgetown,40,Hoyas,Georgetown Hoyas,Georgetown
+313200164,2012,regular-season,2011-11-16,2,164,home,FALSE,Rutgers,74,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+313200164,2012,regular-season,2011-11-16,2,103,away,FALSE,Boston College,58,Eagles,Boston College Eagles,Boston College
+313200153,2012,regular-season,2011-11-16,2,153,home,FALSE,North Carolina,91,Tar Heels,North Carolina Tar Heels,North Carolina
+313200153,2012,regular-season,2011-11-16,2,2430,away,FALSE,UNC Greensboro,35,Spartans,UNC Greensboro Spartans,UNC Greensboro
+313200248,2012,regular-season,2011-11-16,2,248,home,FALSE,Houston,58,Cougars,Houston Cougars,Houston
+313200248,2012,regular-season,2011-11-16,2,2641,away,FALSE,Texas Tech,88,Lady Raiders,Texas Tech Lady Raiders,Texas Tech

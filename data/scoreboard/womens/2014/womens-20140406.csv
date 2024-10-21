@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400550434,2014-04-06,2,87,home,TRUE,Notre Dame,87,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-400550434,2014-04-06,2,120,away,TRUE,Maryland,61,Terrapins,Maryland Terrapins,Maryland
-400550454,2014-04-06,2,41,home,TRUE,UConn,75,Huskies,UConn Huskies,UConn
-400550454,2014-04-06,2,24,away,TRUE,Stanford,56,Cardinal,Stanford Cardinal,Stanford
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400550434,2014,post-season,2014-04-06,2,87,home,TRUE,Notre Dame,87,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+400550434,2014,post-season,2014-04-06,2,120,away,TRUE,Maryland,61,Terrapins,Maryland Terrapins,Maryland
+400550454,2014,post-season,2014-04-06,2,41,home,TRUE,UConn,75,Huskies,UConn Huskies,UConn
+400550454,2014,post-season,2014-04-06,2,24,away,TRUE,Stanford,56,Cardinal,Stanford Cardinal,Stanford

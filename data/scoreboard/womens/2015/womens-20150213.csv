@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400590522,2015-02-13,2,204,home,FALSE,Oregon State,70,Beavers,Oregon State Beavers,Oregon St
-400590522,2015-02-13,2,9,away,FALSE,Arizona State,64,Sun Devils,Arizona State Sun Devils,Arizona St
-400602880,2015-02-13,2,225,home,FALSE,Brown,58,Bears,Brown Bears,Brown
-400602880,2015-02-13,2,163,away,FALSE,Princeton,86,Tigers,Princeton Tigers,Princeton
-400590523,2015-02-13,2,24,home,FALSE,Stanford,79,Cardinal,Stanford Cardinal,Stanford
-400590523,2015-02-13,2,30,away,FALSE,USC,60,Trojans,USC Trojans,USC
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400590522,2015,regular-season,2015-02-13,2,204,home,FALSE,Oregon State,70,Beavers,Oregon State Beavers,Oregon St
+400590522,2015,regular-season,2015-02-13,2,9,away,FALSE,Arizona State,64,Sun Devils,Arizona State Sun Devils,Arizona St
+400602880,2015,regular-season,2015-02-13,2,225,home,FALSE,Brown,58,Bears,Brown Bears,Brown
+400602880,2015,regular-season,2015-02-13,2,163,away,FALSE,Princeton,86,Tigers,Princeton Tigers,Princeton
+400590523,2015,regular-season,2015-02-13,2,24,home,FALSE,Stanford,79,Cardinal,Stanford Cardinal,Stanford
+400590523,2015,regular-season,2015-02-13,2,30,away,FALSE,USC,60,Trojans,USC Trojans,USC

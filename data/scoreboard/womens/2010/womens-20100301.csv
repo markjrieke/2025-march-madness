@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300600087,2010-03-01,2,87,home,FALSE,Notre Dame,51,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-300600087,2010-03-01,2,41,away,FALSE,UConn,76,Huskies,UConn Huskies,UConn
-300600183,2010-03-01,2,183,home,FALSE,Syracuse,67,Orange,Syracuse Orange,Syracuse
-300600183,2010-03-01,2,277,away,FALSE,West Virginia,48,Mountaineers,West Virginia Mountaineers,West Virginia
-300600046,2010-03-01,2,46,home,FALSE,Georgetown,71,Hoyas,Georgetown Hoyas,Georgetown
-300600046,2010-03-01,2,2550,away,FALSE,Seton Hall,49,Pirates,Seton Hall Pirates,Seton Hall
-300600221,2010-03-01,2,221,home,FALSE,Pittsburgh,65,Panthers,Pittsburgh Panthers,Pitt
-300600221,2010-03-01,2,2599,away,FALSE,St. John's,77,Red Storm,St. John's Red Storm,St John's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300600087,2010,regular-season,2010-03-01,2,87,home,FALSE,Notre Dame,51,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+300600087,2010,regular-season,2010-03-01,2,41,away,FALSE,UConn,76,Huskies,UConn Huskies,UConn
+300600183,2010,regular-season,2010-03-01,2,183,home,FALSE,Syracuse,67,Orange,Syracuse Orange,Syracuse
+300600183,2010,regular-season,2010-03-01,2,277,away,FALSE,West Virginia,48,Mountaineers,West Virginia Mountaineers,West Virginia
+300600046,2010,regular-season,2010-03-01,2,46,home,FALSE,Georgetown,71,Hoyas,Georgetown Hoyas,Georgetown
+300600046,2010,regular-season,2010-03-01,2,2550,away,FALSE,Seton Hall,49,Pirates,Seton Hall Pirates,Seton Hall
+300600221,2010,regular-season,2010-03-01,2,221,home,FALSE,Pittsburgh,65,Panthers,Pittsburgh Panthers,Pitt
+300600221,2010,regular-season,2010-03-01,2,2599,away,FALSE,St. John's,77,Red Storm,St. John's Red Storm,St John's

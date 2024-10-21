@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213272633,2001-11-23,2,2633,home,FALSE,Tennessee,90,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-213272633,2001-11-23,2,2348,away,FALSE,Louisiana Tech,75,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-213270201,2001-11-23,2,201,home,FALSE,Oklahoma,90,Sooners,Oklahoma Sooners,Oklahoma
-213270201,2001-11-23,2,2086,away,FALSE,Butler,44,Bulldogs,Butler Bulldogs,Butler
-213270066,2001-11-23,2,66,home,FALSE,Iowa State,87,Cyclones,Iowa State Cyclones,Iowa State
-213270066,2001-11-23,2,344,away,FALSE,Mississippi State,74,Bulldogs,Mississippi State Bulldogs,Mississippi St
-213270024,2001-11-23,2,24,home,FALSE,Stanford,96,Cardinal,Stanford Cardinal,Stanford
-213270024,2001-11-23,2,135,away,FALSE,Minnesota,65,Golden Gophers,Minnesota Golden Gophers,Minnesota
-213270084,2001-11-23,2,84,home,FALSE,Indiana,44,Hoosiers,Indiana Hoosiers,Indiana
-213270084,2001-11-23,2,152,away,FALSE,NC State,50,Wolfpack,NC State Wolfpack,NC State
-213270038,2001-11-23,2,38,home,FALSE,Colorado,96,Buffaloes,Colorado Buffaloes,Colorado
-213270038,2001-11-23,2,189,away,FALSE,Bowling Green,44,Falcons,Bowling Green Falcons,Bowling Green
-213272670,2001-11-23,2,2670,home,FALSE,VCU,51,Rams,VCU Rams,VCU
-213272670,2001-11-23,2,295,away,FALSE,Old Dominion,70,Monarchs,Old Dominion Monarchs,Old Dominion
-213270160,2001-11-23,2,160,home,FALSE,New Hampshire,61,Wildcats,New Hampshire Wildcats,New Hampshire
-213270160,2001-11-23,2,130,away,FALSE,Michigan,81,Wolverines,Michigan Wolverines,Michigan
-213270036,2001-11-23,2,36,home,FALSE,Colorado State,85,Rams,Colorado State Rams,Colorado St
-213270036,2001-11-23,2,277,away,FALSE,West Virginia,74,Mountaineers,West Virginia Mountaineers,West Virginia
-213270305,2001-11-23,2,305,home,FALSE,DePaul,36,Blue Demons,DePaul Blue Demons,DePaul
-213270305,2001-11-23,2,120,away,FALSE,Maryland,54,Terrapins,Maryland Terrapins,Maryland
-213272649,2001-11-23,2,2649,home,FALSE,Toledo,64,Rockets,Toledo Rockets,Toledo
-213272649,2001-11-23,2,339,away,FALSE,Evansville,69,Purple Aces,Evansville Purple Aces,Evansville
-213270264,2001-11-23,2,264,home,FALSE,Washington,81,Huskies,Washington Huskies,Washington
-213270264,2001-11-23,2,111,away,FALSE,Northeastern,42,Huskies,Northeastern Huskies,Northeastern
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213272633,2002,regular-season,2001-11-23,2,2633,home,FALSE,Tennessee,90,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+213272633,2002,regular-season,2001-11-23,2,2348,away,FALSE,Louisiana Tech,75,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+213270201,2002,regular-season,2001-11-23,2,201,home,FALSE,Oklahoma,90,Sooners,Oklahoma Sooners,Oklahoma
+213270201,2002,regular-season,2001-11-23,2,2086,away,FALSE,Butler,44,Bulldogs,Butler Bulldogs,Butler
+213270066,2002,regular-season,2001-11-23,2,66,home,FALSE,Iowa State,87,Cyclones,Iowa State Cyclones,Iowa State
+213270066,2002,regular-season,2001-11-23,2,344,away,FALSE,Mississippi State,74,Bulldogs,Mississippi State Bulldogs,Mississippi St
+213270024,2002,regular-season,2001-11-23,2,24,home,FALSE,Stanford,96,Cardinal,Stanford Cardinal,Stanford
+213270024,2002,regular-season,2001-11-23,2,135,away,FALSE,Minnesota,65,Golden Gophers,Minnesota Golden Gophers,Minnesota
+213270084,2002,regular-season,2001-11-23,2,84,home,FALSE,Indiana,44,Hoosiers,Indiana Hoosiers,Indiana
+213270084,2002,regular-season,2001-11-23,2,152,away,FALSE,NC State,50,Wolfpack,NC State Wolfpack,NC State
+213270038,2002,regular-season,2001-11-23,2,38,home,FALSE,Colorado,96,Buffaloes,Colorado Buffaloes,Colorado
+213270038,2002,regular-season,2001-11-23,2,189,away,FALSE,Bowling Green,44,Falcons,Bowling Green Falcons,Bowling Green
+213272670,2002,regular-season,2001-11-23,2,2670,home,FALSE,VCU,51,Rams,VCU Rams,VCU
+213272670,2002,regular-season,2001-11-23,2,295,away,FALSE,Old Dominion,70,Monarchs,Old Dominion Monarchs,Old Dominion
+213270160,2002,regular-season,2001-11-23,2,160,home,FALSE,New Hampshire,61,Wildcats,New Hampshire Wildcats,New Hampshire
+213270160,2002,regular-season,2001-11-23,2,130,away,FALSE,Michigan,81,Wolverines,Michigan Wolverines,Michigan
+213270036,2002,regular-season,2001-11-23,2,36,home,FALSE,Colorado State,85,Rams,Colorado State Rams,Colorado St
+213270036,2002,regular-season,2001-11-23,2,277,away,FALSE,West Virginia,74,Mountaineers,West Virginia Mountaineers,West Virginia
+213270305,2002,regular-season,2001-11-23,2,305,home,FALSE,DePaul,36,Blue Demons,DePaul Blue Demons,DePaul
+213270305,2002,regular-season,2001-11-23,2,120,away,FALSE,Maryland,54,Terrapins,Maryland Terrapins,Maryland
+213272649,2002,regular-season,2001-11-23,2,2649,home,FALSE,Toledo,64,Rockets,Toledo Rockets,Toledo
+213272649,2002,regular-season,2001-11-23,2,339,away,FALSE,Evansville,69,Purple Aces,Evansville Purple Aces,Evansville
+213270264,2002,regular-season,2001-11-23,2,264,home,FALSE,Washington,81,Huskies,Washington Huskies,Washington
+213270264,2002,regular-season,2001-11-23,2,111,away,FALSE,Northeastern,42,Huskies,Northeastern Huskies,Northeastern

@@ -1,37 +1,37 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400546597,2014-03-15,2,256,home,TRUE,James Madison,55,Dukes,James Madison Dukes,James Madison
-400546597,2014-03-15,2,2182,away,TRUE,Drexel,43,Dragons,Drexel Dragons,Drexel
-400546617,2014-03-15,2,2640,home,TRUE,Texas Southern,58,Tigers,Texas Southern Tigers,Texas Southern
-400546617,2014-03-15,2,2504,away,TRUE,Prairie View A&M,63,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
-400546598,2014-03-15,2,2006,home,TRUE,Akron,79,Zips,Akron Zips,Akron
-400546598,2014-03-15,2,2050,away,TRUE,Ball State,68,Cardinals,Ball State Cardinals,Ball State
-400546594,2014-03-15,2,2320,home,TRUE,Lamar,60,Cardinals,Lamar Cardinals,Lamar
-400546594,2014-03-15,2,2466,away,TRUE,Northwestern State,61,Lady Demons,Northwestern State Lady Demons,N'Western St
-400545210,2014-03-15,2,526,home,FALSE,Florida Gulf Coast,64,Eagles,Florida Gulf Coast Eagles,FGCU
-400545210,2014-03-15,2,2382,away,FALSE,Mercer,47,Bears,Mercer Bears,Mercer
-400546615,2014-03-15,2,48,home,TRUE,Delaware,60,Blue Hens,Delaware Blue Hens,Delaware
-400546615,2014-03-15,2,232,away,TRUE,Charleston,52,Cougars,Charleston Cougars,Charleston
-400546604,2014-03-15,2,282,home,FALSE,Indiana State,58,Sycamores,Indiana State Sycamores,Indiana St
-400546604,2014-03-15,2,2181,away,FALSE,Drake,66,Bulldogs,Drake Bulldogs,Drake
-400546599,2014-03-15,2,2261,home,TRUE,Hampton,50,Lady Pirates,Hampton Lady Pirates,Hampton
-400546599,2014-03-15,2,2154,away,TRUE,Coppin State,47,Eagles,Coppin State Eagles,Coppin St
-400546596,2014-03-15,2,2617,home,TRUE,Stephen F. Austin,80,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
-400546596,2014-03-15,2,2377,away,TRUE,McNeese,54,Cowgirls,McNeese Cowgirls,McNeese
-400545211,2014-03-15,2,56,home,TRUE,Stetson,90,Hatters,Stetson Hatters,Stetson
-400545211,2014-03-15,2,2908,away,TRUE,South Carolina Upstate,60,Spartans,South Carolina Upstate Spartans,SC Upstate
-400546620,2014-03-15,2,155,home,TRUE,North Dakota,72,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
-400546620,2014-03-15,2,149,away,TRUE,Montana,55,Lady Griz,Montana Lady Griz,Montana
-400546607,2014-03-15,2,70,home,TRUE,Idaho,75,Vandals,Idaho Vandals,Idaho
-400546607,2014-03-15,2,2547,away,TRUE,Seattle U,67,Redhawks,Seattle U Redhawks,Seattle U
-400546606,2014-03-15,2,2463,home,TRUE,Cal State Northridge,73,Matadors,Cal State Northridge Matadors,CSU Northridge
-400546606,2014-03-15,2,13,away,TRUE,Cal Poly,58,Mustangs,Cal Poly Mustangs,Cal Poly
-400546627,2014-03-15,2,2724,home,TRUE,Wichita State,66,Shockers,Wichita State Shockers,Wichita St
-400546627,2014-03-15,2,2287,away,TRUE,Illinois State,50,Redbirds,Illinois State Redbirds,Illinois St
-400544889,2014-03-15,2,349,home,FALSE,Army,68,Black Knights,Army Black Knights,Army
-400544889,2014-03-15,2,107,away,FALSE,Holy Cross,58,Crusaders,Holy Cross Crusaders,Holy Cross
-400546595,2014-03-15,2,2393,home,TRUE,Middle Tennessee,84,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-400546595,2014-03-15,2,2572,away,TRUE,Southern Miss,55,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-400546605,2014-03-15,2,2032,home,TRUE,Arkansas State,60,Red Wolves,Arkansas State Red Wolves,Arkansas St
-400546605,2014-03-15,2,98,away,TRUE,Western Kentucky,61,Lady Toppers,Western Kentucky Lady Toppers,Western KY
-400546614,2014-03-15,2,36,home,TRUE,Colorado State,68,Rams,Colorado State Rams,Colorado St
-400546614,2014-03-15,2,278,away,TRUE,Fresno State,77,Bulldogs,Fresno State Bulldogs,Fresno St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400546597,2014,regular-season,2014-03-15,2,256,home,TRUE,James Madison,55,Dukes,James Madison Dukes,James Madison
+400546597,2014,regular-season,2014-03-15,2,2182,away,TRUE,Drexel,43,Dragons,Drexel Dragons,Drexel
+400546617,2014,regular-season,2014-03-15,2,2640,home,TRUE,Texas Southern,58,Tigers,Texas Southern Tigers,Texas Southern
+400546617,2014,regular-season,2014-03-15,2,2504,away,TRUE,Prairie View A&M,63,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
+400546598,2014,regular-season,2014-03-15,2,2006,home,TRUE,Akron,79,Zips,Akron Zips,Akron
+400546598,2014,regular-season,2014-03-15,2,2050,away,TRUE,Ball State,68,Cardinals,Ball State Cardinals,Ball State
+400546594,2014,regular-season,2014-03-15,2,2320,home,TRUE,Lamar,60,Cardinals,Lamar Cardinals,Lamar
+400546594,2014,regular-season,2014-03-15,2,2466,away,TRUE,Northwestern State,61,Lady Demons,Northwestern State Lady Demons,N'Western St
+400545210,2014,regular-season,2014-03-15,2,526,home,FALSE,Florida Gulf Coast,64,Eagles,Florida Gulf Coast Eagles,FGCU
+400545210,2014,regular-season,2014-03-15,2,2382,away,FALSE,Mercer,47,Bears,Mercer Bears,Mercer
+400546615,2014,regular-season,2014-03-15,2,48,home,TRUE,Delaware,60,Blue Hens,Delaware Blue Hens,Delaware
+400546615,2014,regular-season,2014-03-15,2,232,away,TRUE,Charleston,52,Cougars,Charleston Cougars,Charleston
+400546604,2014,regular-season,2014-03-15,2,282,home,FALSE,Indiana State,58,Sycamores,Indiana State Sycamores,Indiana St
+400546604,2014,regular-season,2014-03-15,2,2181,away,FALSE,Drake,66,Bulldogs,Drake Bulldogs,Drake
+400546599,2014,regular-season,2014-03-15,2,2261,home,TRUE,Hampton,50,Lady Pirates,Hampton Lady Pirates,Hampton
+400546599,2014,regular-season,2014-03-15,2,2154,away,TRUE,Coppin State,47,Eagles,Coppin State Eagles,Coppin St
+400546596,2014,regular-season,2014-03-15,2,2617,home,TRUE,Stephen F. Austin,80,Ladyjacks,Stephen F. Austin Ladyjacks,SF Austin
+400546596,2014,regular-season,2014-03-15,2,2377,away,TRUE,McNeese,54,Cowgirls,McNeese Cowgirls,McNeese
+400545211,2014,regular-season,2014-03-15,2,56,home,TRUE,Stetson,90,Hatters,Stetson Hatters,Stetson
+400545211,2014,regular-season,2014-03-15,2,2908,away,TRUE,South Carolina Upstate,60,Spartans,South Carolina Upstate Spartans,SC Upstate
+400546620,2014,regular-season,2014-03-15,2,155,home,TRUE,North Dakota,72,Fighting Hawks,North Dakota Fighting Hawks,North Dakota
+400546620,2014,regular-season,2014-03-15,2,149,away,TRUE,Montana,55,Lady Griz,Montana Lady Griz,Montana
+400546607,2014,regular-season,2014-03-15,2,70,home,TRUE,Idaho,75,Vandals,Idaho Vandals,Idaho
+400546607,2014,regular-season,2014-03-15,2,2547,away,TRUE,Seattle U,67,Redhawks,Seattle U Redhawks,Seattle U
+400546606,2014,regular-season,2014-03-15,2,2463,home,TRUE,Cal State Northridge,73,Matadors,Cal State Northridge Matadors,CSU Northridge
+400546606,2014,regular-season,2014-03-15,2,13,away,TRUE,Cal Poly,58,Mustangs,Cal Poly Mustangs,Cal Poly
+400546627,2014,regular-season,2014-03-15,2,2724,home,TRUE,Wichita State,66,Shockers,Wichita State Shockers,Wichita St
+400546627,2014,regular-season,2014-03-15,2,2287,away,TRUE,Illinois State,50,Redbirds,Illinois State Redbirds,Illinois St
+400544889,2014,regular-season,2014-03-15,2,349,home,FALSE,Army,68,Black Knights,Army Black Knights,Army
+400544889,2014,regular-season,2014-03-15,2,107,away,FALSE,Holy Cross,58,Crusaders,Holy Cross Crusaders,Holy Cross
+400546595,2014,regular-season,2014-03-15,2,2393,home,TRUE,Middle Tennessee,84,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+400546595,2014,regular-season,2014-03-15,2,2572,away,TRUE,Southern Miss,55,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+400546605,2014,regular-season,2014-03-15,2,2032,home,TRUE,Arkansas State,60,Red Wolves,Arkansas State Red Wolves,Arkansas St
+400546605,2014,regular-season,2014-03-15,2,98,away,TRUE,Western Kentucky,61,Lady Toppers,Western Kentucky Lady Toppers,Western KY
+400546614,2014,regular-season,2014-03-15,2,36,home,TRUE,Colorado State,68,Rams,Colorado State Rams,Colorado St
+400546614,2014,regular-season,2014-03-15,2,278,away,TRUE,Fresno State,77,Bulldogs,Fresno State Bulldogs,Fresno St

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-283660041,2008-12-31,2,41,home,FALSE,UConn,78,Huskies,UConn Huskies,UConn
-283660041,2008-12-31,2,42,away,FALSE,Hartford,41,Hawks,Hartford Hawks,Hartford
-283662507,2008-12-31,2,2507,home,FALSE,Providence,49,Friars,Providence Friars,Providence
-283662507,2008-12-31,2,150,away,FALSE,Duke,66,Blue Devils,Duke Blue Devils,Duke
-283660077,2008-12-31,2,77,home,FALSE,Northwestern,59,Wildcats,Northwestern Wildcats,Northwestern
-283660077,2008-12-31,2,194,away,FALSE,Ohio State,68,Buckeyes,Ohio State Buckeyes,Ohio State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+283660041,2009,regular-season,2008-12-31,2,41,home,FALSE,UConn,78,Huskies,UConn Huskies,UConn
+283660041,2009,regular-season,2008-12-31,2,42,away,FALSE,Hartford,41,Hawks,Hartford Hawks,Hartford
+283662507,2009,regular-season,2008-12-31,2,2507,home,FALSE,Providence,49,Friars,Providence Friars,Providence
+283662507,2009,regular-season,2008-12-31,2,150,away,FALSE,Duke,66,Blue Devils,Duke Blue Devils,Duke
+283660077,2009,regular-season,2008-12-31,2,77,home,FALSE,Northwestern,59,Wildcats,Northwestern Wildcats,Northwestern
+283660077,2009,regular-season,2008-12-31,2,194,away,FALSE,Ohio State,68,Buckeyes,Ohio State Buckeyes,Ohio State

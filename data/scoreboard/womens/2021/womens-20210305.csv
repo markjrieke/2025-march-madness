@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401283421,2021-03-05,4,164,home,FALSE,Rutgers,71,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-401283421,2021-03-05,4,194,away,FALSE,Ohio State,63,Buckeyes,Ohio State Buckeyes,Ohio State
-401267139,2021-03-05,4,339,home,FALSE,Evansville,54,Purple Aces,Evansville Purple Aces,Evansville
-401267139,2021-03-05,4,2623,away,FALSE,Missouri State,87,Lady Bears,Missouri State Lady Bears,Missouri St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401283421,2021,regular-season,2021-03-05,4,164,home,FALSE,Rutgers,71,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401283421,2021,regular-season,2021-03-05,4,194,away,FALSE,Ohio State,63,Buckeyes,Ohio State Buckeyes,Ohio State
+401267139,2021,regular-season,2021-03-05,4,339,home,FALSE,Evansville,54,Purple Aces,Evansville Purple Aces,Evansville
+401267139,2021,regular-season,2021-03-05,4,2623,away,FALSE,Missouri State,87,Lady Bears,Missouri State Lady Bears,Missouri St

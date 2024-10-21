@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401408573,2022-03-16,2,2750,home,TRUE,Wright State,93,Raiders,Wright State Raiders,Wright St
-401408573,2022-03-16,2,2803,away,TRUE,Bryant,82,Bulldogs,Bryant Bulldogs,Bryant
-401408570,2022-03-16,4,164,home,TRUE,Rutgers,87,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-401408570,2022-03-16,4,87,away,TRUE,Notre Dame,89,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401408573,2022,post-season,2022-03-16,2,2750,home,TRUE,Wright State,93,Raiders,Wright State Raiders,Wright St
+401408573,2022,post-season,2022-03-16,2,2803,away,TRUE,Bryant,82,Bulldogs,Bryant Bulldogs,Bryant
+401408570,2022,post-season,2022-03-16,4,164,home,TRUE,Rutgers,87,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401408570,2022,post-season,2022-03-16,4,87,away,TRUE,Notre Dame,89,Fighting Irish,Notre Dame Fighting Irish,Notre Dame

@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400838949,2015-12-22,4,2579,home,FALSE,South Carolina,78,Gamecocks,South Carolina Gamecocks,South Carolina
-400838949,2015-12-22,4,2210,away,FALSE,Elon,63,Phoenix,Elon Phoenix,Elon
-400842674,2015-12-22,4,24,home,FALSE,Stanford,83,Cardinal,Stanford Cardinal,Stanford
-400842674,2015-12-22,4,2934,away,FALSE,Cal State Bakersfield,41,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
-400834921,2015-12-22,4,77,home,FALSE,Northwestern,80,Wildcats,Northwestern Wildcats,Northwestern
-400834921,2015-12-22,4,140,away,FALSE,Kansas City,38,Roos,Kansas City Roos,Kansas City
-400842389,2015-12-22,4,245,home,FALSE,Texas A&M,69,Aggies,Texas A&M Aggies,Texas A&M
-400842389,2015-12-22,4,2031,away,FALSE,Little Rock,39,Trojans,Little Rock Trojans,Little Rock
-400840709,2015-12-22,4,2390,home,FALSE,Miami,83,Hurricanes,Miami Hurricanes,Miami
-400840709,2015-12-22,4,2229,away,FALSE,Florida International,55,Panthers,Florida International Panthers,FIU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400838949,2016,regular-season,2015-12-22,4,2579,home,FALSE,South Carolina,78,Gamecocks,South Carolina Gamecocks,South Carolina
+400838949,2016,regular-season,2015-12-22,4,2210,away,FALSE,Elon,63,Phoenix,Elon Phoenix,Elon
+400842674,2016,regular-season,2015-12-22,4,24,home,FALSE,Stanford,83,Cardinal,Stanford Cardinal,Stanford
+400842674,2016,regular-season,2015-12-22,4,2934,away,FALSE,Cal State Bakersfield,41,Roadrunners,Cal State Bakersfield Roadrunners,Bakersfield
+400834921,2016,regular-season,2015-12-22,4,77,home,FALSE,Northwestern,80,Wildcats,Northwestern Wildcats,Northwestern
+400834921,2016,regular-season,2015-12-22,4,140,away,FALSE,Kansas City,38,Roos,Kansas City Roos,Kansas City
+400842389,2016,regular-season,2015-12-22,4,245,home,FALSE,Texas A&M,69,Aggies,Texas A&M Aggies,Texas A&M
+400842389,2016,regular-season,2015-12-22,4,2031,away,FALSE,Little Rock,39,Trojans,Little Rock Trojans,Little Rock
+400840709,2016,regular-season,2015-12-22,4,2390,home,FALSE,Miami,83,Hurricanes,Miami Hurricanes,Miami
+400840709,2016,regular-season,2015-12-22,4,2229,away,FALSE,Florida International,55,Panthers,Florida International Panthers,FIU

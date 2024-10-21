@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401370902,2021-12-01,2,26,home,FALSE,UCLA,73,Bruins,UCLA Bruins,UCLA
-401370902,2021-12-01,2,38,away,FALSE,Colorado,61,Buffaloes,Colorado Buffaloes,Colorado
-401371108,2021-12-01,2,219,home,FALSE,Pennsylvania,56,Quakers,Pennsylvania Quakers,Penn
-401371108,2021-12-01,2,222,away,FALSE,Villanova,71,Wildcats,Villanova Wildcats,Villanova
-401369178,2021-12-01,2,8,home,FALSE,Arkansas,97,Razorbacks,Arkansas Razorbacks,Arkansas
-401369178,2021-12-01,2,2110,away,FALSE,Central Arkansas,60,Bears,Central Arkansas Bears,C Arkansas
-401371843,2021-12-01,2,201,home,FALSE,Oklahoma,74,Sooners,Oklahoma Sooners,Oklahoma
-401371843,2021-12-01,2,57,away,FALSE,Florida,67,Gators,Florida Gators,Florida
-401371849,2021-12-01,2,61,home,FALSE,Georgia,82,Bulldogs,Georgia Bulldogs,Georgia
-401371849,2021-12-01,2,235,away,FALSE,Memphis,79,Tigers,Memphis Tigers,Memphis
-401371987,2021-12-01,2,66,home,FALSE,Iowa State,83,Cyclones,Iowa State Cyclones,Iowa State
-401371987,2021-12-01,2,2029,away,FALSE,Arkansas-Pine Bluff,64,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
-401370903,2021-12-01,2,30,home,FALSE,USC,93,Trojans,USC Trojans,USC
-401370903,2021-12-01,2,254,away,FALSE,Utah,73,Utes,Utah Utes,Utah
-401371835,2021-12-01,2,2,home,FALSE,Auburn,85,Tigers,Auburn Tigers,Auburn
-401371835,2021-12-01,2,2116,away,FALSE,UCF,68,Knights,UCF Knights,UCF
-401372022,2021-12-01,2,2550,home,FALSE,Seton Hall,85,Pirates,Seton Hall Pirates,Seton Hall
-401372022,2021-12-01,2,2681,away,FALSE,Wagner,63,Seahawks,Wagner Seahawks,Wagner
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401370902,2022,regular-season,2021-12-01,2,26,home,FALSE,UCLA,73,Bruins,UCLA Bruins,UCLA
+401370902,2022,regular-season,2021-12-01,2,38,away,FALSE,Colorado,61,Buffaloes,Colorado Buffaloes,Colorado
+401371108,2022,regular-season,2021-12-01,2,219,home,FALSE,Pennsylvania,56,Quakers,Pennsylvania Quakers,Penn
+401371108,2022,regular-season,2021-12-01,2,222,away,FALSE,Villanova,71,Wildcats,Villanova Wildcats,Villanova
+401369178,2022,regular-season,2021-12-01,2,8,home,FALSE,Arkansas,97,Razorbacks,Arkansas Razorbacks,Arkansas
+401369178,2022,regular-season,2021-12-01,2,2110,away,FALSE,Central Arkansas,60,Bears,Central Arkansas Bears,C Arkansas
+401371843,2022,regular-season,2021-12-01,2,201,home,FALSE,Oklahoma,74,Sooners,Oklahoma Sooners,Oklahoma
+401371843,2022,regular-season,2021-12-01,2,57,away,FALSE,Florida,67,Gators,Florida Gators,Florida
+401371849,2022,regular-season,2021-12-01,2,61,home,FALSE,Georgia,82,Bulldogs,Georgia Bulldogs,Georgia
+401371849,2022,regular-season,2021-12-01,2,235,away,FALSE,Memphis,79,Tigers,Memphis Tigers,Memphis
+401371987,2022,regular-season,2021-12-01,2,66,home,FALSE,Iowa State,83,Cyclones,Iowa State Cyclones,Iowa State
+401371987,2022,regular-season,2021-12-01,2,2029,away,FALSE,Arkansas-Pine Bluff,64,Golden Lions,Arkansas-Pine Bluff Golden Lions,AR-Pine Bluff
+401370903,2022,regular-season,2021-12-01,2,30,home,FALSE,USC,93,Trojans,USC Trojans,USC
+401370903,2022,regular-season,2021-12-01,2,254,away,FALSE,Utah,73,Utes,Utah Utes,Utah
+401371835,2022,regular-season,2021-12-01,2,2,home,FALSE,Auburn,85,Tigers,Auburn Tigers,Auburn
+401371835,2022,regular-season,2021-12-01,2,2116,away,FALSE,UCF,68,Knights,UCF Knights,UCF
+401372022,2022,regular-season,2021-12-01,2,2550,home,FALSE,Seton Hall,85,Pirates,Seton Hall Pirates,Seton Hall
+401372022,2022,regular-season,2021-12-01,2,2681,away,FALSE,Wagner,63,Seahawks,Wagner Seahawks,Wagner

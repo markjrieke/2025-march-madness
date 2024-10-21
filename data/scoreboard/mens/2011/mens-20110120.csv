@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310200275,2011-01-20,2,275,home,FALSE,Wisconsin,69,Badgers,Wisconsin Badgers,Wisconsin
-310200275,2011-01-20,2,84,away,FALSE,Indiana,60,Hoosiers,Indiana Hoosiers,Indiana
-310200264,2011-01-20,2,264,home,FALSE,Washington,85,Huskies,Washington Huskies,Washington
-310200264,2011-01-20,2,12,away,FALSE,Arizona,68,Wildcats,Arizona Wildcats,Arizona
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310200275,2011,regular-season,2011-01-20,2,275,home,FALSE,Wisconsin,69,Badgers,Wisconsin Badgers,Wisconsin
+310200275,2011,regular-season,2011-01-20,2,84,away,FALSE,Indiana,60,Hoosiers,Indiana Hoosiers,Indiana
+310200264,2011,regular-season,2011-01-20,2,264,home,FALSE,Washington,85,Huskies,Washington Huskies,Washington
+310200264,2011,regular-season,2011-01-20,2,12,away,FALSE,Arizona,68,Wildcats,Arizona Wildcats,Arizona

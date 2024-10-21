@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400988224,2017-11-22,2,30,home,FALSE,USC,88,Trojans,USC Trojans,USC
-400988224,2017-11-22,2,2329,away,FALSE,Lehigh,63,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-400986085,2017-11-22,2,2390,home,TRUE,Miami,57,Hurricanes,Miami Hurricanes,Miami
-400986085,2017-11-22,2,2325,away,TRUE,La Salle,46,Explorers,La Salle Explorers,La Salle
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400988224,2018,regular-season,2017-11-22,2,30,home,FALSE,USC,88,Trojans,USC Trojans,USC
+400988224,2018,regular-season,2017-11-22,2,2329,away,FALSE,Lehigh,63,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+400986085,2018,regular-season,2017-11-22,2,2390,home,TRUE,Miami,57,Hurricanes,Miami Hurricanes,Miami
+400986085,2018,regular-season,2017-11-22,2,2325,away,TRUE,La Salle,46,Explorers,La Salle Explorers,La Salle

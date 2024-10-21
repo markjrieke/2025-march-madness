@@ -1,23 +1,23 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-240250245,2004-01-25,2,245,home,FALSE,Texas A&M,62,Aggies,Texas A&M Aggies,Texas A&M
-240250245,2004-01-25,2,251,away,FALSE,Texas,64,Longhorns,Texas Longhorns,Texas
-240250030,2004-01-25,2,30,home,FALSE,USC,59,Trojans,USC Trojans,USC
-240250030,2004-01-25,2,24,away,FALSE,Stanford,56,Cardinal,Stanford Cardinal,Stanford
-240250194,2004-01-25,2,194,home,FALSE,Ohio State,64,Buckeyes,Ohio State Buckeyes,Ohio State
-240250194,2004-01-25,2,213,away,FALSE,Penn State,70,Lady Lions,Penn State Lady Lions,Penn State
-240250084,2004-01-25,2,84,home,FALSE,Indiana,47,Hoosiers,Indiana Hoosiers,Indiana
-240250084,2004-01-25,2,2509,away,FALSE,Purdue,71,Boilermakers,Purdue Boilermakers,Purdue
-240250135,2004-01-25,2,135,home,FALSE,Minnesota,69,Golden Gophers,Minnesota Golden Gophers,Minnesota
-240250135,2004-01-25,2,127,away,FALSE,Michigan State,72,Spartans,Michigan State Spartans,Michigan St
-240250061,2004-01-25,2,61,home,FALSE,Georgia,80,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-240250061,2004-01-25,2,99,away,FALSE,LSU,74,Tigers,LSU Tigers,LSU
-240250066,2004-01-25,2,66,home,FALSE,Iowa State,51,Cyclones,Iowa State Cyclones,Iowa State
-240250066,2004-01-25,2,38,away,FALSE,Colorado,62,Buffaloes,Colorado Buffaloes,Colorado
-240250305,2004-01-25,2,305,home,FALSE,DePaul,99,Blue Demons,DePaul Blue Demons,DePaul
-240250305,2004-01-25,2,2655,away,FALSE,Tulane,60,Green Wave,Tulane Green Wave,Tulane
-240252628,2004-01-25,2,2628,home,FALSE,TCU,73,Horned Frogs,TCU Horned Frogs,TCU
-240252628,2004-01-25,2,2132,away,FALSE,Cincinnati,57,Bearcats,Cincinnati Bearcats,Cincinnati
-240250008,2004-01-25,2,8,home,FALSE,Arkansas,44,Razorbacks,Arkansas Razorbacks,Arkansas
-240250008,2004-01-25,2,2,away,FALSE,Auburn,71,Tigers,Auburn Tigers,Auburn
-240250248,2004-01-25,3,248,home,FALSE,Houston,75,Cougars,Houston Cougars,Houston
-240250248,2004-01-25,3,97,away,FALSE,Louisville,77,Cardinals,Louisville Cardinals,Louisville
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+240250245,2004,regular-season,2004-01-25,2,245,home,FALSE,Texas A&M,62,Aggies,Texas A&M Aggies,Texas A&M
+240250245,2004,regular-season,2004-01-25,2,251,away,FALSE,Texas,64,Longhorns,Texas Longhorns,Texas
+240250030,2004,regular-season,2004-01-25,2,30,home,FALSE,USC,59,Trojans,USC Trojans,USC
+240250030,2004,regular-season,2004-01-25,2,24,away,FALSE,Stanford,56,Cardinal,Stanford Cardinal,Stanford
+240250194,2004,regular-season,2004-01-25,2,194,home,FALSE,Ohio State,64,Buckeyes,Ohio State Buckeyes,Ohio State
+240250194,2004,regular-season,2004-01-25,2,213,away,FALSE,Penn State,70,Lady Lions,Penn State Lady Lions,Penn State
+240250084,2004,regular-season,2004-01-25,2,84,home,FALSE,Indiana,47,Hoosiers,Indiana Hoosiers,Indiana
+240250084,2004,regular-season,2004-01-25,2,2509,away,FALSE,Purdue,71,Boilermakers,Purdue Boilermakers,Purdue
+240250135,2004,regular-season,2004-01-25,2,135,home,FALSE,Minnesota,69,Golden Gophers,Minnesota Golden Gophers,Minnesota
+240250135,2004,regular-season,2004-01-25,2,127,away,FALSE,Michigan State,72,Spartans,Michigan State Spartans,Michigan St
+240250061,2004,regular-season,2004-01-25,2,61,home,FALSE,Georgia,80,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+240250061,2004,regular-season,2004-01-25,2,99,away,FALSE,LSU,74,Tigers,LSU Tigers,LSU
+240250066,2004,regular-season,2004-01-25,2,66,home,FALSE,Iowa State,51,Cyclones,Iowa State Cyclones,Iowa State
+240250066,2004,regular-season,2004-01-25,2,38,away,FALSE,Colorado,62,Buffaloes,Colorado Buffaloes,Colorado
+240250305,2004,regular-season,2004-01-25,2,305,home,FALSE,DePaul,99,Blue Demons,DePaul Blue Demons,DePaul
+240250305,2004,regular-season,2004-01-25,2,2655,away,FALSE,Tulane,60,Green Wave,Tulane Green Wave,Tulane
+240252628,2004,regular-season,2004-01-25,2,2628,home,FALSE,TCU,73,Horned Frogs,TCU Horned Frogs,TCU
+240252628,2004,regular-season,2004-01-25,2,2132,away,FALSE,Cincinnati,57,Bearcats,Cincinnati Bearcats,Cincinnati
+240250008,2004,regular-season,2004-01-25,2,8,home,FALSE,Arkansas,44,Razorbacks,Arkansas Razorbacks,Arkansas
+240250008,2004,regular-season,2004-01-25,2,2,away,FALSE,Auburn,71,Tigers,Auburn Tigers,Auburn
+240250248,2004,regular-season,2004-01-25,3,248,home,FALSE,Houston,75,Cougars,Houston Cougars,Houston
+240250248,2004,regular-season,2004-01-25,3,97,away,FALSE,Louisville,77,Cardinals,Louisville Cardinals,Louisville

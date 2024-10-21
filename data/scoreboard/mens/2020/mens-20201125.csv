@@ -1,27 +1,27 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401259032,2020-11-25,2,275,home,FALSE,Wisconsin,77,Badgers,Wisconsin Badgers,Wisconsin
-401259032,2020-11-25,2,2197,away,FALSE,Eastern Illinois,67,Panthers,Eastern Illinois Panthers,E Illinois
-401262371,2020-11-25,2,356,home,FALSE,Illinois,122,Fighting Illini,Illinois Fighting Illini,Illinois
-401262371,2020-11-25,2,2448,away,FALSE,North Carolina A&T,60,Aggies,North Carolina A&T Aggies,NC A&T
-401263445,2020-11-25,2,127,home,FALSE,Michigan State,83,Spartans,Michigan State Spartans,Michigan St
-401263445,2020-11-25,2,2199,away,FALSE,Eastern Michigan,67,Eagles,Eastern Michigan Eagles,E Michigan
-401259558,2020-11-25,2,2641,home,FALSE,Texas Tech,101,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401259558,2020-11-25,2,2466,away,FALSE,Northwestern State,58,Demons,Northwestern State Demons,N'Western St
-401252794,2020-11-25,2,153,home,FALSE,North Carolina,79,Tar Heels,North Carolina Tar Heels,North Carolina
-401252794,2020-11-25,2,232,away,FALSE,Charleston,60,Cougars,Charleston Cougars,Charleston
-401257055,2020-11-25,2,248,home,FALSE,Houston,89,Cougars,Houston Cougars,Houston
-401257055,2020-11-25,2,2320,away,FALSE,Lamar,45,Cardinals,Lamar Cardinals,Lamar
-401254076,2020-11-25,2,251,home,FALSE,Texas,91,Longhorns,Texas Longhorns,Texas
-401254076,2020-11-25,2,292,away,FALSE,UT Rio Grande Valley,55,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-401262106,2020-11-25,2,21,home,FALSE,San Diego State,73,Aztecs,San Diego State Aztecs,San Diego St
-401262106,2020-11-25,2,26,away,FALSE,UCLA,58,Bruins,UCLA Bruins,UCLA
-401263457,2020-11-25,2,194,home,FALSE,Ohio State,94,Buckeyes,Ohio State Buckeyes,Ohio State
-401263457,2020-11-25,2,2287,away,FALSE,Illinois State,67,Redbirds,Illinois State Redbirds,Illinois St
-401259563,2020-11-25,2,164,home,FALSE,Rutgers,86,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-401259563,2020-11-25,2,2529,away,FALSE,Sacred Heart,63,Pioneers,Sacred Heart Pioneers,Sacred Heart
-401262142,2020-11-25,2,130,home,FALSE,Michigan,96,Wolverines,Michigan Wolverines,Michigan
-401262142,2020-11-25,2,189,away,FALSE,Bowling Green,82,Falcons,Bowling Green Falcons,Bowling Green
-401260334,2020-11-25,0,150,home,FALSE,Duke,0,Blue Devils,Duke Blue Devils,Duke
-401260334,2020-11-25,0,2241,away,FALSE,Gardner-Webb,0,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
-401262105,2020-11-25,0,2483,home,FALSE,Oregon,0,Ducks,Oregon Ducks,Oregon
-401262105,2020-11-25,0,331,away,FALSE,Eastern Washington,0,Eagles,Eastern Washington Eagles,E Washington
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401259032,2021,regular-season,2020-11-25,2,275,home,FALSE,Wisconsin,77,Badgers,Wisconsin Badgers,Wisconsin
+401259032,2021,regular-season,2020-11-25,2,2197,away,FALSE,Eastern Illinois,67,Panthers,Eastern Illinois Panthers,E Illinois
+401262371,2021,regular-season,2020-11-25,2,356,home,FALSE,Illinois,122,Fighting Illini,Illinois Fighting Illini,Illinois
+401262371,2021,regular-season,2020-11-25,2,2448,away,FALSE,North Carolina A&T,60,Aggies,North Carolina A&T Aggies,NC A&T
+401263445,2021,regular-season,2020-11-25,2,127,home,FALSE,Michigan State,83,Spartans,Michigan State Spartans,Michigan St
+401263445,2021,regular-season,2020-11-25,2,2199,away,FALSE,Eastern Michigan,67,Eagles,Eastern Michigan Eagles,E Michigan
+401259558,2021,regular-season,2020-11-25,2,2641,home,FALSE,Texas Tech,101,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401259558,2021,regular-season,2020-11-25,2,2466,away,FALSE,Northwestern State,58,Demons,Northwestern State Demons,N'Western St
+401252794,2021,regular-season,2020-11-25,2,153,home,FALSE,North Carolina,79,Tar Heels,North Carolina Tar Heels,North Carolina
+401252794,2021,regular-season,2020-11-25,2,232,away,FALSE,Charleston,60,Cougars,Charleston Cougars,Charleston
+401257055,2021,regular-season,2020-11-25,2,248,home,FALSE,Houston,89,Cougars,Houston Cougars,Houston
+401257055,2021,regular-season,2020-11-25,2,2320,away,FALSE,Lamar,45,Cardinals,Lamar Cardinals,Lamar
+401254076,2021,regular-season,2020-11-25,2,251,home,FALSE,Texas,91,Longhorns,Texas Longhorns,Texas
+401254076,2021,regular-season,2020-11-25,2,292,away,FALSE,UT Rio Grande Valley,55,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+401262106,2021,regular-season,2020-11-25,2,21,home,FALSE,San Diego State,73,Aztecs,San Diego State Aztecs,San Diego St
+401262106,2021,regular-season,2020-11-25,2,26,away,FALSE,UCLA,58,Bruins,UCLA Bruins,UCLA
+401263457,2021,regular-season,2020-11-25,2,194,home,FALSE,Ohio State,94,Buckeyes,Ohio State Buckeyes,Ohio State
+401263457,2021,regular-season,2020-11-25,2,2287,away,FALSE,Illinois State,67,Redbirds,Illinois State Redbirds,Illinois St
+401259563,2021,regular-season,2020-11-25,2,164,home,FALSE,Rutgers,86,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401259563,2021,regular-season,2020-11-25,2,2529,away,FALSE,Sacred Heart,63,Pioneers,Sacred Heart Pioneers,Sacred Heart
+401262142,2021,regular-season,2020-11-25,2,130,home,FALSE,Michigan,96,Wolverines,Michigan Wolverines,Michigan
+401262142,2021,regular-season,2020-11-25,2,189,away,FALSE,Bowling Green,82,Falcons,Bowling Green Falcons,Bowling Green
+401260334,2021,regular-season,2020-11-25,0,150,home,FALSE,Duke,0,Blue Devils,Duke Blue Devils,Duke
+401260334,2021,regular-season,2020-11-25,0,2241,away,FALSE,Gardner-Webb,0,Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Gardner-Webb
+401262105,2021,regular-season,2020-11-25,0,2483,home,FALSE,Oregon,0,Ducks,Oregon Ducks,Oregon
+401262105,2021,regular-season,2020-11-25,0,331,away,FALSE,Eastern Washington,0,Eagles,Eastern Washington Eagles,E Washington

@@ -1,21 +1,21 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401169661,2019-12-21,2,222,home,FALSE,Villanova,56,Wildcats,Villanova Wildcats,Villanova
-401169661,2019-12-21,2,2305,away,FALSE,Kansas,55,Jayhawks,Kansas Jayhawks,Kansas
-401166502,2019-12-21,2,2250,home,FALSE,Gonzaga,112,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401166502,2019-12-21,2,331,away,FALSE,Eastern Washington,77,Eagles,Eastern Washington Eagles,E Washington
-401170635,2019-12-21,2,2483,home,FALSE,Oregon,84,Ducks,Oregon Ducks,Oregon
-401170635,2019-12-21,2,2640,away,FALSE,Texas Southern,78,Tigers,Texas Southern Tigers,Texas Southern
-401170005,2019-12-21,2,235,home,FALSE,Memphis,77,Tigers,Memphis Tigers,Memphis
-401170005,2019-12-21,2,2296,away,FALSE,Jackson State,49,Tigers,Jackson State Tigers,Jackson St
-401169900,2019-12-21,2,2,home,FALSE,Auburn,74,Tigers,Auburn Tigers,Auburn
-401169900,2019-12-21,2,2329,away,FALSE,Lehigh,51,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-401166128,2019-12-21,2,130,home,FALSE,Michigan,86,Wolverines,Michigan Wolverines,Michigan
-401166128,2019-12-21,2,2506,away,FALSE,Presbyterian,44,Blue Hose,Presbyterian Blue Hose,Presbyterian
-401166129,2019-12-21,2,127,home,FALSE,Michigan State,101,Spartans,Michigan State Spartans,Michigan St
-401166129,2019-12-21,2,2199,away,FALSE,Eastern Michigan,48,Eagles,Eastern Michigan Eagles,E Michigan
-401169898,2019-12-21,2,2633,home,FALSE,Tennessee,75,Volunteers,Tennessee Volunteers,Tennessee
-401169898,2019-12-21,2,55,away,FALSE,Jacksonville State,53,Gamecocks,Jacksonville State Gamecocks,Jax State
-401169666,2019-12-21,2,2641,home,FALSE,Texas Tech,68,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401169666,2019-12-21,2,292,away,FALSE,UT Rio Grande Valley,58,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-401169662,2019-12-21,2,2754,home,FALSE,Youngstown State,64,Penguins,Youngstown State Penguins,Youngstown St
-401169662,2019-12-21,2,277,away,FALSE,West Virginia,75,Mountaineers,West Virginia Mountaineers,West Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401169661,2020,regular-season,2019-12-21,2,222,home,FALSE,Villanova,56,Wildcats,Villanova Wildcats,Villanova
+401169661,2020,regular-season,2019-12-21,2,2305,away,FALSE,Kansas,55,Jayhawks,Kansas Jayhawks,Kansas
+401166502,2020,regular-season,2019-12-21,2,2250,home,FALSE,Gonzaga,112,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401166502,2020,regular-season,2019-12-21,2,331,away,FALSE,Eastern Washington,77,Eagles,Eastern Washington Eagles,E Washington
+401170635,2020,regular-season,2019-12-21,2,2483,home,FALSE,Oregon,84,Ducks,Oregon Ducks,Oregon
+401170635,2020,regular-season,2019-12-21,2,2640,away,FALSE,Texas Southern,78,Tigers,Texas Southern Tigers,Texas Southern
+401170005,2020,regular-season,2019-12-21,2,235,home,FALSE,Memphis,77,Tigers,Memphis Tigers,Memphis
+401170005,2020,regular-season,2019-12-21,2,2296,away,FALSE,Jackson State,49,Tigers,Jackson State Tigers,Jackson St
+401169900,2020,regular-season,2019-12-21,2,2,home,FALSE,Auburn,74,Tigers,Auburn Tigers,Auburn
+401169900,2020,regular-season,2019-12-21,2,2329,away,FALSE,Lehigh,51,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+401166128,2020,regular-season,2019-12-21,2,130,home,FALSE,Michigan,86,Wolverines,Michigan Wolverines,Michigan
+401166128,2020,regular-season,2019-12-21,2,2506,away,FALSE,Presbyterian,44,Blue Hose,Presbyterian Blue Hose,Presbyterian
+401166129,2020,regular-season,2019-12-21,2,127,home,FALSE,Michigan State,101,Spartans,Michigan State Spartans,Michigan St
+401166129,2020,regular-season,2019-12-21,2,2199,away,FALSE,Eastern Michigan,48,Eagles,Eastern Michigan Eagles,E Michigan
+401169898,2020,regular-season,2019-12-21,2,2633,home,FALSE,Tennessee,75,Volunteers,Tennessee Volunteers,Tennessee
+401169898,2020,regular-season,2019-12-21,2,55,away,FALSE,Jacksonville State,53,Gamecocks,Jacksonville State Gamecocks,Jax State
+401169666,2020,regular-season,2019-12-21,2,2641,home,FALSE,Texas Tech,68,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401169666,2020,regular-season,2019-12-21,2,292,away,FALSE,UT Rio Grande Valley,58,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+401169662,2020,regular-season,2019-12-21,2,2754,home,FALSE,Youngstown State,64,Penguins,Youngstown State Penguins,Youngstown St
+401169662,2020,regular-season,2019-12-21,2,277,away,FALSE,West Virginia,75,Mountaineers,West Virginia Mountaineers,West Virginia

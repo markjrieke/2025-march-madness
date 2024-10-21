@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401480098,2022-12-14,4,99,home,FALSE,LSU,88,Tigers,LSU Tigers,LSU
-401480098,2022-12-14,4,2320,away,FALSE,Lamar,42,Cardinals,Lamar Cardinals,Lamar
-401488841,2022-12-14,4,254,home,FALSE,Utah,85,Utes,Utah Utes,Utah
-401488841,2022-12-14,4,38,away,FALSE,Colorado,58,Buffaloes,Colorado Buffaloes,Colorado
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401480098,2023,regular-season,2022-12-14,4,99,home,FALSE,LSU,88,Tigers,LSU Tigers,LSU
+401480098,2023,regular-season,2022-12-14,4,2320,away,FALSE,Lamar,42,Cardinals,Lamar Cardinals,Lamar
+401488841,2023,regular-season,2022-12-14,4,254,home,FALSE,Utah,85,Utes,Utah Utes,Utah
+401488841,2023,regular-season,2022-12-14,4,38,away,FALSE,Colorado,58,Buffaloes,Colorado Buffaloes,Colorado

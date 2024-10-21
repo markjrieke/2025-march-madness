@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401083550,2018-12-04,2,2305,home,FALSE,Kansas,72,Jayhawks,Kansas Jayhawks,Kansas
-401083550,2018-12-04,2,2747,away,FALSE,Wofford,47,Terriers,Wofford Terriers,Wofford
-401082453,2018-12-04,2,77,home,FALSE,Northwestern,60,Wildcats,Northwestern Wildcats,Northwestern
-401082453,2018-12-04,2,130,away,FALSE,Michigan,62,Wolverines,Michigan Wolverines,Michigan
-401083168,2018-12-04,2,2,home,FALSE,Auburn,67,Tigers,Auburn Tigers,Auburn
-401083168,2018-12-04,2,2427,away,FALSE,UNC Asheville,41,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
-401083069,2018-12-04,2,344,home,FALSE,Mississippi State,90,Bulldogs,Mississippi State Bulldogs,Mississippi St
-401083069,2018-12-04,2,2377,away,FALSE,McNeese,77,Cowboys,McNeese Cowboys,McNeese
-401085900,2018-12-04,2,2210,home,FALSE,Elon,77,Phoenix,Elon Phoenix,Elon
-401085900,2018-12-04,2,231,away,FALSE,Furman,98,Paladins,Furman Paladins,Furman
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401083550,2019,regular-season,2018-12-04,2,2305,home,FALSE,Kansas,72,Jayhawks,Kansas Jayhawks,Kansas
+401083550,2019,regular-season,2018-12-04,2,2747,away,FALSE,Wofford,47,Terriers,Wofford Terriers,Wofford
+401082453,2019,regular-season,2018-12-04,2,77,home,FALSE,Northwestern,60,Wildcats,Northwestern Wildcats,Northwestern
+401082453,2019,regular-season,2018-12-04,2,130,away,FALSE,Michigan,62,Wolverines,Michigan Wolverines,Michigan
+401083168,2019,regular-season,2018-12-04,2,2,home,FALSE,Auburn,67,Tigers,Auburn Tigers,Auburn
+401083168,2019,regular-season,2018-12-04,2,2427,away,FALSE,UNC Asheville,41,Bulldogs,UNC Asheville Bulldogs,UNC Asheville
+401083069,2019,regular-season,2018-12-04,2,344,home,FALSE,Mississippi State,90,Bulldogs,Mississippi State Bulldogs,Mississippi St
+401083069,2019,regular-season,2018-12-04,2,2377,away,FALSE,McNeese,77,Cowboys,McNeese Cowboys,McNeese
+401085900,2019,regular-season,2018-12-04,2,2210,home,FALSE,Elon,77,Phoenix,Elon Phoenix,Elon
+401085900,2019,regular-season,2018-12-04,2,231,away,FALSE,Furman,98,Paladins,Furman Paladins,Furman

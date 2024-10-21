@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400502865,2014-02-19,3,183,home,FALSE,Syracuse,59,Orange,Syracuse Orange,Syracuse
-400502865,2014-02-19,3,103,away,FALSE,Boston College,62,Eagles,Boston College Eagles,Boston College
-400506431,2014-02-19,2,57,home,FALSE,Florida,71,Gators,Florida Gators,Florida
-400506431,2014-02-19,2,2,away,FALSE,Auburn,66,Tigers,Auburn Tigers,Auburn
-400500126,2014-02-19,2,2350,home,FALSE,Loyola Chicago,74,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-400500126,2014-02-19,2,2724,away,FALSE,Wichita State,88,Shockers,Wichita State Shockers,Wichita St
-400506087,2014-02-19,3,254,home,FALSE,Utah,63,Utes,Utah Utes,Utah
-400506087,2014-02-19,3,12,away,FALSE,Arizona,67,Wildcats,Arizona Wildcats,Arizona
-400497008,2014-02-19,2,2116,home,FALSE,UCF,49,Knights,UCF Knights,UCF
-400497008,2014-02-19,2,2132,away,FALSE,Cincinnati,77,Bearcats,Cincinnati Bearcats,Cincinnati
-400506104,2014-02-19,3,2244,home,FALSE,George Mason,85,Patriots,George Mason Patriots,George Mason
-400506104,2014-02-19,3,139,away,FALSE,Saint Louis,89,Billikens,Saint Louis Billikens,Saint Louis
-400504578,2014-02-19,2,269,home,FALSE,Marquette,70,Golden Eagles,Marquette Golden Eagles,Marquette
-400504578,2014-02-19,2,156,away,FALSE,Creighton,85,Bluejays,Creighton Bluejays,Creighton
-400506146,2014-02-19,2,25,home,FALSE,California,66,Golden Bears,California Golden Bears,California
-400506146,2014-02-19,2,26,away,FALSE,UCLA,86,Bruins,UCLA Bruins,UCLA
-400510036,2014-02-19,2,194,home,FALSE,Ohio State,76,Buckeyes,Ohio State Buckeyes,Ohio State
-400510036,2014-02-19,2,77,away,FALSE,Northwestern,60,Wildcats,Northwestern Wildcats,Northwestern
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400502865,2014,regular-season,2014-02-19,3,183,home,FALSE,Syracuse,59,Orange,Syracuse Orange,Syracuse
+400502865,2014,regular-season,2014-02-19,3,103,away,FALSE,Boston College,62,Eagles,Boston College Eagles,Boston College
+400506431,2014,regular-season,2014-02-19,2,57,home,FALSE,Florida,71,Gators,Florida Gators,Florida
+400506431,2014,regular-season,2014-02-19,2,2,away,FALSE,Auburn,66,Tigers,Auburn Tigers,Auburn
+400500126,2014,regular-season,2014-02-19,2,2350,home,FALSE,Loyola Chicago,74,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+400500126,2014,regular-season,2014-02-19,2,2724,away,FALSE,Wichita State,88,Shockers,Wichita State Shockers,Wichita St
+400506087,2014,regular-season,2014-02-19,3,254,home,FALSE,Utah,63,Utes,Utah Utes,Utah
+400506087,2014,regular-season,2014-02-19,3,12,away,FALSE,Arizona,67,Wildcats,Arizona Wildcats,Arizona
+400497008,2014,regular-season,2014-02-19,2,2116,home,FALSE,UCF,49,Knights,UCF Knights,UCF
+400497008,2014,regular-season,2014-02-19,2,2132,away,FALSE,Cincinnati,77,Bearcats,Cincinnati Bearcats,Cincinnati
+400506104,2014,regular-season,2014-02-19,3,2244,home,FALSE,George Mason,85,Patriots,George Mason Patriots,George Mason
+400506104,2014,regular-season,2014-02-19,3,139,away,FALSE,Saint Louis,89,Billikens,Saint Louis Billikens,Saint Louis
+400504578,2014,regular-season,2014-02-19,2,269,home,FALSE,Marquette,70,Golden Eagles,Marquette Golden Eagles,Marquette
+400504578,2014,regular-season,2014-02-19,2,156,away,FALSE,Creighton,85,Bluejays,Creighton Bluejays,Creighton
+400506146,2014,regular-season,2014-02-19,2,25,home,FALSE,California,66,Golden Bears,California Golden Bears,California
+400506146,2014,regular-season,2014-02-19,2,26,away,FALSE,UCLA,86,Bruins,UCLA Bruins,UCLA
+400510036,2014,regular-season,2014-02-19,2,194,home,FALSE,Ohio State,76,Buckeyes,Ohio State Buckeyes,Ohio State
+400510036,2014,regular-season,2014-02-19,2,77,away,FALSE,Northwestern,60,Wildcats,Northwestern Wildcats,Northwestern

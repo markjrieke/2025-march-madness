@@ -1,29 +1,29 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-313560183,2011-12-22,2,183,home,FALSE,Syracuse,80,Orange,Syracuse Orange,Syracuse
-313560183,2011-12-22,2,2655,away,FALSE,Tulane,61,Green Wave,Tulane Green Wave,Tulane
-313560194,2011-12-22,2,194,home,FALSE,Ohio State,69,Buckeyes,Ohio State Buckeyes,Ohio State
-313560194,2011-12-22,2,193,away,FALSE,Miami (OH),40,RedHawks,Miami (OH) RedHawks,Miami OH
-313560096,2011-12-22,2,96,home,FALSE,Kentucky,87,Wildcats,Kentucky Wildcats,Kentucky
-313560096,2011-12-22,2,2352,away,FALSE,Loyola Maryland,63,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
-313560041,2011-12-22,2,41,home,FALSE,UConn,79,Huskies,UConn Huskies,UConn
-313560041,2011-12-22,2,2217,away,FALSE,Fairfield,71,Stags,Fairfield Stags,Fairfield
-313560142,2011-12-22,2,142,home,TRUE,Missouri,78,Tigers,Missouri Tigers,Missouri
-313560142,2011-12-22,2,356,away,TRUE,Illinois,74,Fighting Illini,Illinois Fighting Illini,Illinois
-313560269,2011-12-22,2,269,home,FALSE,Marquette,64,Golden Eagles,Marquette Golden Eagles,Marquette
-313560269,2011-12-22,2,270,away,FALSE,Milwaukee,50,Panthers,Milwaukee Panthers,Milwaukee
-313560057,2011-12-22,2,57,home,FALSE,Florida,82,Gators,Florida Gators,Florida
-313560057,2011-12-22,2,52,away,FALSE,Florida State,64,Seminoles,Florida State Seminoles,Florida St
-313560030,2011-12-22,2,30,home,FALSE,USC,47,Trojans,USC Trojans,USC
-313560030,2011-12-22,2,2305,away,FALSE,Kansas,63,Jayhawks,Kansas Jayhawks,Kansas
-313560046,2011-12-22,2,46,home,FALSE,Georgetown,70,Hoyas,Georgetown Hoyas,Georgetown
-313560046,2011-12-22,2,235,away,FALSE,Memphis,59,Tigers,Memphis Tigers,Memphis
-313560084,2011-12-22,2,84,home,FALSE,Indiana,89,Hoosiers,Indiana Hoosiers,Indiana
-313560084,2011-12-22,2,2378,away,FALSE,UMBC,47,Retrievers,UMBC Retrievers,UMBC
-313560344,2011-12-22,2,344,home,TRUE,Mississippi State,82,Bulldogs,Mississippi State Bulldogs,Mississippi St
-313560344,2011-12-22,2,2466,away,TRUE,Northwestern State,67,Demons,Northwestern State Demons,N'Western St
-313560127,2011-12-22,2,127,home,FALSE,Michigan State,90,Spartans,Michigan State Spartans,Michigan St
-313560127,2011-12-22,2,2329,away,FALSE,Lehigh,81,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
-313560130,2011-12-22,2,130,home,FALSE,Michigan,77,Wolverines,Michigan Wolverines,Michigan
-313560130,2011-12-22,2,71,away,FALSE,Bradley,66,Braves,Bradley Braves,Bradley
-313560156,2011-12-22,2,156,home,FALSE,Creighton,87,Bluejays,Creighton Bluejays,Creighton
-313560156,2011-12-22,2,77,away,FALSE,Northwestern,79,Wildcats,Northwestern Wildcats,Northwestern
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+313560183,2012,regular-season,2011-12-22,2,183,home,FALSE,Syracuse,80,Orange,Syracuse Orange,Syracuse
+313560183,2012,regular-season,2011-12-22,2,2655,away,FALSE,Tulane,61,Green Wave,Tulane Green Wave,Tulane
+313560194,2012,regular-season,2011-12-22,2,194,home,FALSE,Ohio State,69,Buckeyes,Ohio State Buckeyes,Ohio State
+313560194,2012,regular-season,2011-12-22,2,193,away,FALSE,Miami (OH),40,RedHawks,Miami (OH) RedHawks,Miami OH
+313560096,2012,regular-season,2011-12-22,2,96,home,FALSE,Kentucky,87,Wildcats,Kentucky Wildcats,Kentucky
+313560096,2012,regular-season,2011-12-22,2,2352,away,FALSE,Loyola Maryland,63,Greyhounds,Loyola Maryland Greyhounds,Loyola MD
+313560041,2012,regular-season,2011-12-22,2,41,home,FALSE,UConn,79,Huskies,UConn Huskies,UConn
+313560041,2012,regular-season,2011-12-22,2,2217,away,FALSE,Fairfield,71,Stags,Fairfield Stags,Fairfield
+313560142,2012,regular-season,2011-12-22,2,142,home,TRUE,Missouri,78,Tigers,Missouri Tigers,Missouri
+313560142,2012,regular-season,2011-12-22,2,356,away,TRUE,Illinois,74,Fighting Illini,Illinois Fighting Illini,Illinois
+313560269,2012,regular-season,2011-12-22,2,269,home,FALSE,Marquette,64,Golden Eagles,Marquette Golden Eagles,Marquette
+313560269,2012,regular-season,2011-12-22,2,270,away,FALSE,Milwaukee,50,Panthers,Milwaukee Panthers,Milwaukee
+313560057,2012,regular-season,2011-12-22,2,57,home,FALSE,Florida,82,Gators,Florida Gators,Florida
+313560057,2012,regular-season,2011-12-22,2,52,away,FALSE,Florida State,64,Seminoles,Florida State Seminoles,Florida St
+313560030,2012,regular-season,2011-12-22,2,30,home,FALSE,USC,47,Trojans,USC Trojans,USC
+313560030,2012,regular-season,2011-12-22,2,2305,away,FALSE,Kansas,63,Jayhawks,Kansas Jayhawks,Kansas
+313560046,2012,regular-season,2011-12-22,2,46,home,FALSE,Georgetown,70,Hoyas,Georgetown Hoyas,Georgetown
+313560046,2012,regular-season,2011-12-22,2,235,away,FALSE,Memphis,59,Tigers,Memphis Tigers,Memphis
+313560084,2012,regular-season,2011-12-22,2,84,home,FALSE,Indiana,89,Hoosiers,Indiana Hoosiers,Indiana
+313560084,2012,regular-season,2011-12-22,2,2378,away,FALSE,UMBC,47,Retrievers,UMBC Retrievers,UMBC
+313560344,2012,regular-season,2011-12-22,2,344,home,TRUE,Mississippi State,82,Bulldogs,Mississippi State Bulldogs,Mississippi St
+313560344,2012,regular-season,2011-12-22,2,2466,away,TRUE,Northwestern State,67,Demons,Northwestern State Demons,N'Western St
+313560127,2012,regular-season,2011-12-22,2,127,home,FALSE,Michigan State,90,Spartans,Michigan State Spartans,Michigan St
+313560127,2012,regular-season,2011-12-22,2,2329,away,FALSE,Lehigh,81,Mountain Hawks,Lehigh Mountain Hawks,Lehigh
+313560130,2012,regular-season,2011-12-22,2,130,home,FALSE,Michigan,77,Wolverines,Michigan Wolverines,Michigan
+313560130,2012,regular-season,2011-12-22,2,71,away,FALSE,Bradley,66,Braves,Bradley Braves,Bradley
+313560156,2012,regular-season,2011-12-22,2,156,home,FALSE,Creighton,87,Bluejays,Creighton Bluejays,Creighton
+313560156,2012,regular-season,2011-12-22,2,77,away,FALSE,Northwestern,79,Wildcats,Northwestern Wildcats,Northwestern

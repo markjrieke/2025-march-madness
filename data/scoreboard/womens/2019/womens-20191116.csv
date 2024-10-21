@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401177199,2019-11-16,4,2483,home,FALSE,Oregon,99,Ducks,Oregon Ducks,Oregon
-401177199,2019-11-16,4,2640,away,FALSE,Texas Southern,63,Tigers,Texas Southern Tigers,Texas Southern
-401166968,2019-11-16,4,258,home,FALSE,Virginia,47,Cavaliers,Virginia Cavaliers,Virginia
-401166968,2019-11-16,4,96,away,FALSE,Kentucky,50,Wildcats,Kentucky Wildcats,Kentucky
-401171110,2019-11-16,4,183,home,FALSE,Syracuse,75,Orange,Syracuse Orange,Syracuse
-401171110,2019-11-16,4,399,away,FALSE,UAlbany,53,Great Danes,UAlbany Great Danes,UAlbany
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401177199,2020,regular-season,2019-11-16,4,2483,home,FALSE,Oregon,99,Ducks,Oregon Ducks,Oregon
+401177199,2020,regular-season,2019-11-16,4,2640,away,FALSE,Texas Southern,63,Tigers,Texas Southern Tigers,Texas Southern
+401166968,2020,regular-season,2019-11-16,4,258,home,FALSE,Virginia,47,Cavaliers,Virginia Cavaliers,Virginia
+401166968,2020,regular-season,2019-11-16,4,96,away,FALSE,Kentucky,50,Wildcats,Kentucky Wildcats,Kentucky
+401171110,2020,regular-season,2019-11-16,4,183,home,FALSE,Syracuse,75,Orange,Syracuse Orange,Syracuse
+401171110,2020,regular-season,2019-11-16,4,399,away,FALSE,UAlbany,53,Great Danes,UAlbany Great Danes,UAlbany

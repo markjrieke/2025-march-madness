@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400823524,2015-12-17,4,239,home,FALSE,Baylor,97,Bears,Baylor Bears,Baylor
-400823524,2015-12-17,4,198,away,FALSE,Oral Roberts,39,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-400819378,2015-12-17,4,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
-400819378,2015-12-17,4,2335,away,FALSE,Liberty,41,Flames,Liberty Flames,Liberty
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400823524,2016,regular-season,2015-12-17,4,239,home,FALSE,Baylor,97,Bears,Baylor Bears,Baylor
+400823524,2016,regular-season,2015-12-17,4,198,away,FALSE,Oral Roberts,39,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+400819378,2016,regular-season,2015-12-17,4,150,home,FALSE,Duke,79,Blue Devils,Duke Blue Devils,Duke
+400819378,2016,regular-season,2015-12-17,4,2335,away,FALSE,Liberty,41,Flames,Liberty Flames,Liberty

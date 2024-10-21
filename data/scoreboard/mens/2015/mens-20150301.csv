@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400595544,2015-03-01,2,275,home,FALSE,Wisconsin,68,Badgers,Wisconsin Badgers,Wisconsin
-400595544,2015-03-01,2,127,away,FALSE,Michigan State,61,Spartans,Michigan State Spartans,Michigan St
-400586851,2015-03-01,2,41,home,FALSE,UConn,81,Huskies,UConn Huskies,UConn
-400586851,2015-03-01,2,2567,away,FALSE,SMU,73,Mustangs,SMU Mustangs,SMU
-400588475,2015-03-01,2,2507,home,FALSE,Providence,77,Friars,Providence Friars,Providence
-400588475,2015-03-01,2,269,away,FALSE,Marquette,66,Golden Eagles,Marquette Golden Eagles,Marquette
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400595544,2015,regular-season,2015-03-01,2,275,home,FALSE,Wisconsin,68,Badgers,Wisconsin Badgers,Wisconsin
+400595544,2015,regular-season,2015-03-01,2,127,away,FALSE,Michigan State,61,Spartans,Michigan State Spartans,Michigan St
+400586851,2015,regular-season,2015-03-01,2,41,home,FALSE,UConn,81,Huskies,UConn Huskies,UConn
+400586851,2015,regular-season,2015-03-01,2,2567,away,FALSE,SMU,73,Mustangs,SMU Mustangs,SMU
+400588475,2015,regular-season,2015-03-01,2,2507,home,FALSE,Providence,77,Friars,Providence Friars,Providence
+400588475,2015,regular-season,2015-03-01,2,269,away,FALSE,Marquette,66,Golden Eagles,Marquette Golden Eagles,Marquette

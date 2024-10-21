@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400585747,2014-12-16,2,251,home,FALSE,Texas,106,Longhorns,Texas Longhorns,Texas
-400585747,2014-12-16,2,288,away,FALSE,Lipscomb,61,Bisons,Lipscomb Bisons,Lipscomb
-400586367,2014-12-16,2,2724,home,FALSE,Wichita State,53,Shockers,Wichita State Shockers,Wichita St
-400586367,2014-12-16,2,333,away,FALSE,Alabama,52,Crimson Tide,Alabama Crimson Tide,Alabama
-400585745,2014-12-16,2,201,home,FALSE,Oklahoma,85,Sooners,Oklahoma Sooners,Oklahoma
-400585745,2014-12-16,2,198,away,FALSE,Oral Roberts,53,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-400587851,2014-12-16,2,2430,home,FALSE,UNC Greensboro,56,Spartans,UNC Greensboro Spartans,UNC Greensboro
-400587851,2014-12-16,2,153,away,FALSE,North Carolina,79,Tar Heels,North Carolina Tar Heels,North Carolina
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400585747,2015,regular-season,2014-12-16,2,251,home,FALSE,Texas,106,Longhorns,Texas Longhorns,Texas
+400585747,2015,regular-season,2014-12-16,2,288,away,FALSE,Lipscomb,61,Bisons,Lipscomb Bisons,Lipscomb
+400586367,2015,regular-season,2014-12-16,2,2724,home,FALSE,Wichita State,53,Shockers,Wichita State Shockers,Wichita St
+400586367,2015,regular-season,2014-12-16,2,333,away,FALSE,Alabama,52,Crimson Tide,Alabama Crimson Tide,Alabama
+400585745,2015,regular-season,2014-12-16,2,201,home,FALSE,Oklahoma,85,Sooners,Oklahoma Sooners,Oklahoma
+400585745,2015,regular-season,2014-12-16,2,198,away,FALSE,Oral Roberts,53,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+400587851,2015,regular-season,2014-12-16,2,2430,home,FALSE,UNC Greensboro,56,Spartans,UNC Greensboro Spartans,UNC Greensboro
+400587851,2015,regular-season,2014-12-16,2,153,away,FALSE,North Carolina,79,Tar Heels,North Carolina Tar Heels,North Carolina

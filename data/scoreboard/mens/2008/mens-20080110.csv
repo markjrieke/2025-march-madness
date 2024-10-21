@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-280100030,2008-01-10,2,30,home,FALSE,USC,58,Trojans,USC Trojans,USC
-280100030,2008-01-10,2,265,away,FALSE,Washington State,73,Cougars,Washington State Cougars,Washington St
-280100026,2008-01-10,2,26,home,FALSE,UCLA,69,Bruins,UCLA Bruins,UCLA
-280100026,2008-01-10,2,264,away,FALSE,Washington,55,Huskies,Washington Huskies,Washington
-280102086,2008-01-10,2,2086,home,FALSE,Butler,74,Bulldogs,Butler Bulldogs,Butler
-280102086,2008-01-10,2,2739,away,FALSE,Green Bay,65,Phoenix,Green Bay Phoenix,Green Bay
-280100275,2008-01-10,2,275,home,FALSE,Wisconsin,70,Badgers,Wisconsin Badgers,Wisconsin
-280100275,2008-01-10,2,356,away,FALSE,Illinois,60,Fighting Illini,Illinois Fighting Illini,Illinois
-280100204,2008-01-10,2,204,home,FALSE,Oregon State,46,Beavers,Oregon State Beavers,Oregon St
-280100204,2008-01-10,2,24,away,FALSE,Stanford,66,Cardinal,Stanford Cardinal,Stanford
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+280100030,2008,regular-season,2008-01-10,2,30,home,FALSE,USC,58,Trojans,USC Trojans,USC
+280100030,2008,regular-season,2008-01-10,2,265,away,FALSE,Washington State,73,Cougars,Washington State Cougars,Washington St
+280100026,2008,regular-season,2008-01-10,2,26,home,FALSE,UCLA,69,Bruins,UCLA Bruins,UCLA
+280100026,2008,regular-season,2008-01-10,2,264,away,FALSE,Washington,55,Huskies,Washington Huskies,Washington
+280102086,2008,regular-season,2008-01-10,2,2086,home,FALSE,Butler,74,Bulldogs,Butler Bulldogs,Butler
+280102086,2008,regular-season,2008-01-10,2,2739,away,FALSE,Green Bay,65,Phoenix,Green Bay Phoenix,Green Bay
+280100275,2008,regular-season,2008-01-10,2,275,home,FALSE,Wisconsin,70,Badgers,Wisconsin Badgers,Wisconsin
+280100275,2008,regular-season,2008-01-10,2,356,away,FALSE,Illinois,60,Fighting Illini,Illinois Fighting Illini,Illinois
+280100204,2008,regular-season,2008-01-10,2,204,home,FALSE,Oregon State,46,Beavers,Oregon State Beavers,Oregon St
+280100204,2008,regular-season,2008-01-10,2,24,away,FALSE,Stanford,66,Cardinal,Stanford Cardinal,Stanford

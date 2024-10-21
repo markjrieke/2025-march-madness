@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400593196,2014-11-19,2,12,home,FALSE,Arizona,71,Wildcats,Arizona Wildcats,Arizona
-400593196,2014-11-19,2,300,away,FALSE,UC Irvine,54,Anteaters,UC Irvine Anteaters,UC Irvine
-400595369,2014-11-19,2,275,home,FALSE,Wisconsin,84,Badgers,Wisconsin Badgers,Wisconsin
-400595369,2014-11-19,2,2739,away,FALSE,Green Bay,60,Phoenix,Green Bay Phoenix,Green Bay
-400585687,2014-11-19,2,156,home,FALSE,Creighton,65,Bluejays,Creighton Bluejays,Creighton
-400585687,2014-11-19,2,201,away,FALSE,Oklahoma,63,Sooners,Oklahoma Sooners,Oklahoma
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400593196,2015,regular-season,2014-11-19,2,12,home,FALSE,Arizona,71,Wildcats,Arizona Wildcats,Arizona
+400593196,2015,regular-season,2014-11-19,2,300,away,FALSE,UC Irvine,54,Anteaters,UC Irvine Anteaters,UC Irvine
+400595369,2015,regular-season,2014-11-19,2,275,home,FALSE,Wisconsin,84,Badgers,Wisconsin Badgers,Wisconsin
+400595369,2015,regular-season,2014-11-19,2,2739,away,FALSE,Green Bay,60,Phoenix,Green Bay Phoenix,Green Bay
+400585687,2015,regular-season,2014-11-19,2,156,home,FALSE,Creighton,65,Bluejays,Creighton Bluejays,Creighton
+400585687,2015,regular-season,2014-11-19,2,201,away,FALSE,Oklahoma,63,Sooners,Oklahoma Sooners,Oklahoma

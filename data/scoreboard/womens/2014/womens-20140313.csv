@@ -1,37 +1,37 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400544315,2014-03-13,2,2296,home,TRUE,Jackson State,74,Lady Tigers,Jackson State Lady Tigers,Jackson St
-400544315,2014-03-13,2,2400,away,TRUE,Mississippi Valley State,68,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
-400545534,2014-03-13,2,2084,home,TRUE,Buffalo,60,Bulls,Buffalo Bulls,Buffalo
-400545534,2014-03-13,2,2050,away,TRUE,Ball State,74,Cardinals,Ball State Cardinals,Ball State
-400544876,2014-03-13,2,2154,home,TRUE,Coppin State,82,Eagles,Coppin State Eagles,Coppin St
-400544876,2014-03-13,2,2379,away,TRUE,Maryland Eastern Shore,60,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-400544219,2014-03-13,2,2447,home,TRUE,Nicholls,77,Colonels,Nicholls Colonels,Nicholls
-400544219,2014-03-13,2,198,away,TRUE,Oral Roberts,66,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
-400545554,2014-03-13,2,2393,home,TRUE,Middle Tennessee,69,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-400545554,2014-03-13,2,5,away,TRUE,UAB,59,Blazers,UAB Blazers,UAB
-400544205,2014-03-13,2,2729,home,TRUE,William & Mary,65,Tribe,William & Mary Tribe,William & Mary
-400544205,2014-03-13,2,350,away,TRUE,UNC Wilmington,67,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
-400545614,2014-03-13,2,2006,home,TRUE,Akron,83,Zips,Akron Zips,Akron
-400545614,2014-03-13,2,2649,away,TRUE,Toledo,69,Rockets,Toledo Rockets,Toledo
-400544874,2014-03-13,2,50,home,TRUE,Florida A&M,75,Rattlers,Florida A&M Rattlers,Florida A&M
-400544874,2014-03-13,2,2542,away,TRUE,Savannah State,84,Tigers,Savannah State Tigers,Savannah St
-400544220,2014-03-13,2,357,home,TRUE,Texas A&M-Corpus Christi,73,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
-400544220,2014-03-13,2,2377,away,TRUE,McNeese,78,Cowgirls,McNeese Cowgirls,McNeese
-400545674,2014-03-13,2,2655,home,TRUE,Tulane,55,Green Wave,Tulane Green Wave,Tulane
-400545674,2014-03-13,2,2229,away,TRUE,Florida International,69,Panthers,Florida International Panthers,FIU
-400544354,2014-03-13,2,253,home,TRUE,Southern Utah,86,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
-400544354,2014-03-13,2,16,away,TRUE,Sacramento State,78,Hornets,Sacramento State Hornets,Sacramento St
-400544465,2014-03-13,2,2350,home,TRUE,Loyola Chicago,75,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-400544465,2014-03-13,2,71,away,TRUE,Bradley,69,Braves,Bradley Braves,Bradley
-400544355,2014-03-13,2,149,home,TRUE,Montana,75,Lady Griz,Montana Lady Griz,Montana
-400544355,2014-03-13,2,147,away,TRUE,Montana State,66,Bobcats,Montana State Bobcats,Montana St
-400544316,2014-03-13,2,2504,home,TRUE,Prairie View A&M,71,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
-400544316,2014-03-13,2,2011,away,TRUE,Alabama State,61,Lady Hornets,Alabama State Lady Hornets,Alabama St
-400545834,2014-03-13,2,2638,home,TRUE,UTEP,81,Miners,UTEP Miners,UTEP
-400545834,2014-03-13,2,2348,away,TRUE,Louisiana Tech,72,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-400544466,2014-03-13,2,2623,home,TRUE,Missouri State,61,Lady Bears,Missouri State Lady Bears,Missouri St
-400544466,2014-03-13,2,79,away,TRUE,Southern Illinois,39,Salukis,Southern Illinois Salukis,S Illinois
-400544356,2014-03-13,3,331,home,TRUE,Eastern Washington,65,Eagles,Eastern Washington Eagles,E Washington
-400544356,2014-03-13,3,304,away,TRUE,Idaho State,70,Bengals,Idaho State Bengals,Idaho St
-400545994,2014-03-13,2,2572,home,TRUE,Southern Miss,83,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-400545994,2014-03-13,2,295,away,TRUE,Old Dominion,64,Monarchs,Old Dominion Monarchs,Old Dominion
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400544315,2014,regular-season,2014-03-13,2,2296,home,TRUE,Jackson State,74,Lady Tigers,Jackson State Lady Tigers,Jackson St
+400544315,2014,regular-season,2014-03-13,2,2400,away,TRUE,Mississippi Valley State,68,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
+400545534,2014,regular-season,2014-03-13,2,2084,home,TRUE,Buffalo,60,Bulls,Buffalo Bulls,Buffalo
+400545534,2014,regular-season,2014-03-13,2,2050,away,TRUE,Ball State,74,Cardinals,Ball State Cardinals,Ball State
+400544876,2014,regular-season,2014-03-13,2,2154,home,TRUE,Coppin State,82,Eagles,Coppin State Eagles,Coppin St
+400544876,2014,regular-season,2014-03-13,2,2379,away,TRUE,Maryland Eastern Shore,60,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+400544219,2014,regular-season,2014-03-13,2,2447,home,TRUE,Nicholls,77,Colonels,Nicholls Colonels,Nicholls
+400544219,2014,regular-season,2014-03-13,2,198,away,TRUE,Oral Roberts,66,Golden Eagles,Oral Roberts Golden Eagles,Oral Roberts
+400545554,2014,regular-season,2014-03-13,2,2393,home,TRUE,Middle Tennessee,69,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+400545554,2014,regular-season,2014-03-13,2,5,away,TRUE,UAB,59,Blazers,UAB Blazers,UAB
+400544205,2014,regular-season,2014-03-13,2,2729,home,TRUE,William & Mary,65,Tribe,William & Mary Tribe,William & Mary
+400544205,2014,regular-season,2014-03-13,2,350,away,TRUE,UNC Wilmington,67,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+400545614,2014,regular-season,2014-03-13,2,2006,home,TRUE,Akron,83,Zips,Akron Zips,Akron
+400545614,2014,regular-season,2014-03-13,2,2649,away,TRUE,Toledo,69,Rockets,Toledo Rockets,Toledo
+400544874,2014,regular-season,2014-03-13,2,50,home,TRUE,Florida A&M,75,Rattlers,Florida A&M Rattlers,Florida A&M
+400544874,2014,regular-season,2014-03-13,2,2542,away,TRUE,Savannah State,84,Tigers,Savannah State Tigers,Savannah St
+400544220,2014,regular-season,2014-03-13,2,357,home,TRUE,Texas A&M-Corpus Christi,73,Islanders,Texas A&M-Corpus Christi Islanders,Texas A&M-CC
+400544220,2014,regular-season,2014-03-13,2,2377,away,TRUE,McNeese,78,Cowgirls,McNeese Cowgirls,McNeese
+400545674,2014,regular-season,2014-03-13,2,2655,home,TRUE,Tulane,55,Green Wave,Tulane Green Wave,Tulane
+400545674,2014,regular-season,2014-03-13,2,2229,away,TRUE,Florida International,69,Panthers,Florida International Panthers,FIU
+400544354,2014,regular-season,2014-03-13,2,253,home,TRUE,Southern Utah,86,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+400544354,2014,regular-season,2014-03-13,2,16,away,TRUE,Sacramento State,78,Hornets,Sacramento State Hornets,Sacramento St
+400544465,2014,regular-season,2014-03-13,2,2350,home,TRUE,Loyola Chicago,75,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+400544465,2014,regular-season,2014-03-13,2,71,away,TRUE,Bradley,69,Braves,Bradley Braves,Bradley
+400544355,2014,regular-season,2014-03-13,2,149,home,TRUE,Montana,75,Lady Griz,Montana Lady Griz,Montana
+400544355,2014,regular-season,2014-03-13,2,147,away,TRUE,Montana State,66,Bobcats,Montana State Bobcats,Montana St
+400544316,2014,regular-season,2014-03-13,2,2504,home,TRUE,Prairie View A&M,71,Lady Panthers,Prairie View A&M Lady Panthers,Prairie View
+400544316,2014,regular-season,2014-03-13,2,2011,away,TRUE,Alabama State,61,Lady Hornets,Alabama State Lady Hornets,Alabama St
+400545834,2014,regular-season,2014-03-13,2,2638,home,TRUE,UTEP,81,Miners,UTEP Miners,UTEP
+400545834,2014,regular-season,2014-03-13,2,2348,away,TRUE,Louisiana Tech,72,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+400544466,2014,regular-season,2014-03-13,2,2623,home,TRUE,Missouri State,61,Lady Bears,Missouri State Lady Bears,Missouri St
+400544466,2014,regular-season,2014-03-13,2,79,away,TRUE,Southern Illinois,39,Salukis,Southern Illinois Salukis,S Illinois
+400544356,2014,regular-season,2014-03-13,3,331,home,TRUE,Eastern Washington,65,Eagles,Eastern Washington Eagles,E Washington
+400544356,2014,regular-season,2014-03-13,3,304,away,TRUE,Idaho State,70,Bengals,Idaho State Bengals,Idaho St
+400545994,2014,regular-season,2014-03-13,2,2572,home,TRUE,Southern Miss,83,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+400545994,2014,regular-season,2014-03-13,2,295,away,TRUE,Old Dominion,64,Monarchs,Old Dominion Monarchs,Old Dominion

@@ -1,17 +1,17 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401302113,2021-02-25,2,2250,home,FALSE,Gonzaga,89,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401302113,2021-02-25,2,2541,away,FALSE,Santa Clara,75,Broncos,Santa Clara Broncos,Santa Clara
-401263436,2021-02-25,2,130,home,FALSE,Michigan,79,Wolverines,Michigan Wolverines,Michigan
-401263436,2021-02-25,2,2294,away,FALSE,Iowa,57,Hawkeyes,Iowa Hawkeyes,Iowa
-401263375,2021-02-25,2,127,home,FALSE,Michigan State,71,Spartans,Michigan State Spartans,Michigan St
-401263375,2021-02-25,2,194,away,FALSE,Ohio State,67,Buckeyes,Ohio State Buckeyes,Ohio State
-401263321,2021-02-25,2,356,home,FALSE,Illinois,86,Fighting Illini,Illinois Fighting Illini,Illinois
-401263321,2021-02-25,2,158,away,FALSE,Nebraska,70,Cornhuskers,Nebraska Cornhuskers,Nebraska
-401303813,2021-02-25,2,248,home,FALSE,Houston,81,Cougars,Houston Cougars,Houston
-401303813,2021-02-25,2,98,away,FALSE,Western Kentucky,57,Hilltoppers,Western Kentucky Hilltoppers,Western KY
-401265440,2021-02-25,2,38,home,FALSE,Colorado,80,Buffaloes,Colorado Buffaloes,Colorado
-401265440,2021-02-25,2,30,away,FALSE,USC,62,Trojans,USC Trojans,USC
-401262664,2021-02-25,3,21,home,FALSE,San Diego State,78,Aztecs,San Diego State Aztecs,San Diego St
-401262664,2021-02-25,3,68,away,FALSE,Boise State,66,Broncos,Boise State Broncos,Boise St
-401277464,2021-02-25,0,239,home,FALSE,Baylor,0,Bears,Baylor Bears,Baylor
-401277464,2021-02-25,0,277,away,FALSE,West Virginia,0,Mountaineers,West Virginia Mountaineers,West Virginia
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401302113,2021,regular-season,2021-02-25,2,2250,home,FALSE,Gonzaga,89,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401302113,2021,regular-season,2021-02-25,2,2541,away,FALSE,Santa Clara,75,Broncos,Santa Clara Broncos,Santa Clara
+401263436,2021,regular-season,2021-02-25,2,130,home,FALSE,Michigan,79,Wolverines,Michigan Wolverines,Michigan
+401263436,2021,regular-season,2021-02-25,2,2294,away,FALSE,Iowa,57,Hawkeyes,Iowa Hawkeyes,Iowa
+401263375,2021,regular-season,2021-02-25,2,127,home,FALSE,Michigan State,71,Spartans,Michigan State Spartans,Michigan St
+401263375,2021,regular-season,2021-02-25,2,194,away,FALSE,Ohio State,67,Buckeyes,Ohio State Buckeyes,Ohio State
+401263321,2021,regular-season,2021-02-25,2,356,home,FALSE,Illinois,86,Fighting Illini,Illinois Fighting Illini,Illinois
+401263321,2021,regular-season,2021-02-25,2,158,away,FALSE,Nebraska,70,Cornhuskers,Nebraska Cornhuskers,Nebraska
+401303813,2021,regular-season,2021-02-25,2,248,home,FALSE,Houston,81,Cougars,Houston Cougars,Houston
+401303813,2021,regular-season,2021-02-25,2,98,away,FALSE,Western Kentucky,57,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+401265440,2021,regular-season,2021-02-25,2,38,home,FALSE,Colorado,80,Buffaloes,Colorado Buffaloes,Colorado
+401265440,2021,regular-season,2021-02-25,2,30,away,FALSE,USC,62,Trojans,USC Trojans,USC
+401262664,2021,regular-season,2021-02-25,3,21,home,FALSE,San Diego State,78,Aztecs,San Diego State Aztecs,San Diego St
+401262664,2021,regular-season,2021-02-25,3,68,away,FALSE,Boise State,66,Broncos,Boise State Broncos,Boise St
+401277464,2021,regular-season,2021-02-25,0,239,home,FALSE,Baylor,0,Bears,Baylor Bears,Baylor
+401277464,2021,regular-season,2021-02-25,0,277,away,FALSE,West Virginia,0,Mountaineers,West Virginia Mountaineers,West Virginia

@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323500024,2012-12-15,2,24,home,FALSE,Stanford,78,Cardinal,Stanford Cardinal,Stanford
-323500024,2012-12-15,2,279,away,FALSE,Pacific,43,Tigers,Pacific Tigers,Pacific
-323500265,2012-12-15,2,265,home,FALSE,Washington State,62,Cougars,Washington State Cougars,Washington St
-323500265,2012-12-15,2,194,away,FALSE,Ohio State,55,Buckeyes,Ohio State Buckeyes,Ohio State
-323500030,2012-12-15,2,30,home,FALSE,USC,61,Trojans,USC Trojans,USC
-323500030,2012-12-15,2,245,away,FALSE,Texas A&M,79,Aggies,Texas A&M Aggies,Texas A&M
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323500024,2013,regular-season,2012-12-15,2,24,home,FALSE,Stanford,78,Cardinal,Stanford Cardinal,Stanford
+323500024,2013,regular-season,2012-12-15,2,279,away,FALSE,Pacific,43,Tigers,Pacific Tigers,Pacific
+323500265,2013,regular-season,2012-12-15,2,265,home,FALSE,Washington State,62,Cougars,Washington State Cougars,Washington St
+323500265,2013,regular-season,2012-12-15,2,194,away,FALSE,Ohio State,55,Buckeyes,Ohio State Buckeyes,Ohio State
+323500030,2013,regular-season,2012-12-15,2,30,home,FALSE,USC,61,Trojans,USC Trojans,USC
+323500030,2013,regular-season,2012-12-15,2,245,away,FALSE,Texas A&M,79,Aggies,Texas A&M Aggies,Texas A&M

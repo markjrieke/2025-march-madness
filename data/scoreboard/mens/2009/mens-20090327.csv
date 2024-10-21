@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-294000053,2009-03-27,2,97,home,TRUE,Louisville,103,Cardinals,Louisville Cardinals,Louisville
-294000053,2009-03-27,2,12,away,TRUE,Arizona,64,Wildcats,Arizona Wildcats,Arizona
-294000045,2009-03-27,2,201,home,TRUE,Oklahoma,84,Sooners,Oklahoma Sooners,Oklahoma
-294000045,2009-03-27,2,183,away,TRUE,Syracuse,71,Orange,Syracuse Orange,Syracuse
-294000060,2009-03-27,2,127,home,TRUE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
-294000060,2009-03-27,2,2305,away,TRUE,Kansas,62,Jayhawks,Kansas Jayhawks,Kansas
-294000038,2009-03-27,2,153,home,TRUE,North Carolina,98,Tar Heels,North Carolina Tar Heels,North Carolina
-294000038,2009-03-27,2,2250,away,TRUE,Gonzaga,77,Bulldogs,Gonzaga Bulldogs,Gonzaga
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+294000053,2009,post-season,2009-03-27,2,97,home,TRUE,Louisville,103,Cardinals,Louisville Cardinals,Louisville
+294000053,2009,post-season,2009-03-27,2,12,away,TRUE,Arizona,64,Wildcats,Arizona Wildcats,Arizona
+294000045,2009,post-season,2009-03-27,2,201,home,TRUE,Oklahoma,84,Sooners,Oklahoma Sooners,Oklahoma
+294000045,2009,post-season,2009-03-27,2,183,away,TRUE,Syracuse,71,Orange,Syracuse Orange,Syracuse
+294000060,2009,post-season,2009-03-27,2,127,home,TRUE,Michigan State,67,Spartans,Michigan State Spartans,Michigan St
+294000060,2009,post-season,2009-03-27,2,2305,away,TRUE,Kansas,62,Jayhawks,Kansas Jayhawks,Kansas
+294000038,2009,post-season,2009-03-27,2,153,home,TRUE,North Carolina,98,Tar Heels,North Carolina Tar Heels,North Carolina
+294000038,2009,post-season,2009-03-27,2,2250,away,TRUE,Gonzaga,77,Bulldogs,Gonzaga Bulldogs,Gonzaga

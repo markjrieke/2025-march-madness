@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-300470344,2010-02-16,3,344,home,FALSE,Mississippi State,75,Bulldogs,Mississippi State Bulldogs,Mississippi St
-300470344,2010-02-16,3,96,away,FALSE,Kentucky,81,Wildcats,Kentucky Wildcats,Kentucky
-300470084,2010-02-16,2,84,home,FALSE,Indiana,58,Hoosiers,Indiana Hoosiers,Indiana
-300470084,2010-02-16,2,127,away,FALSE,Michigan State,72,Spartans,Michigan State Spartans,Michigan St
-300470239,2010-02-16,2,239,home,FALSE,Baylor,88,Bears,Baylor Bears,Baylor
-300470239,2010-02-16,2,2641,away,FALSE,Texas Tech,70,Red Raiders,Texas Tech Red Raiders,Texas Tech
-300470259,2010-02-16,2,259,home,FALSE,Virginia Tech,87,Hokies,Virginia Tech Hokies,Virginia Tech
-300470259,2010-02-16,2,154,away,FALSE,Wake Forest,83,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+300470344,2010,regular-season,2010-02-16,3,344,home,FALSE,Mississippi State,75,Bulldogs,Mississippi State Bulldogs,Mississippi St
+300470344,2010,regular-season,2010-02-16,3,96,away,FALSE,Kentucky,81,Wildcats,Kentucky Wildcats,Kentucky
+300470084,2010,regular-season,2010-02-16,2,84,home,FALSE,Indiana,58,Hoosiers,Indiana Hoosiers,Indiana
+300470084,2010,regular-season,2010-02-16,2,127,away,FALSE,Michigan State,72,Spartans,Michigan State Spartans,Michigan St
+300470239,2010,regular-season,2010-02-16,2,239,home,FALSE,Baylor,88,Bears,Baylor Bears,Baylor
+300470239,2010,regular-season,2010-02-16,2,2641,away,FALSE,Texas Tech,70,Red Raiders,Texas Tech Red Raiders,Texas Tech
+300470259,2010,regular-season,2010-02-16,2,259,home,FALSE,Virginia Tech,87,Hokies,Virginia Tech Hokies,Virginia Tech
+300470259,2010,regular-season,2010-02-16,2,154,away,FALSE,Wake Forest,83,Demon Deacons,Wake Forest Demon Deacons,Wake Forest

@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401169704,2020-01-20,2,239,home,FALSE,Baylor,61,Bears,Baylor Bears,Baylor
-401169704,2020-01-20,2,201,away,FALSE,Oklahoma,57,Sooners,Oklahoma Sooners,Oklahoma
-401169703,2020-01-20,2,277,home,FALSE,West Virginia,97,Mountaineers,West Virginia Mountaineers,West Virginia
-401169703,2020-01-20,2,251,away,FALSE,Texas,59,Longhorns,Texas Longhorns,Texas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401169704,2020,regular-season,2020-01-20,2,239,home,FALSE,Baylor,61,Bears,Baylor Bears,Baylor
+401169704,2020,regular-season,2020-01-20,2,201,away,FALSE,Oklahoma,57,Sooners,Oklahoma Sooners,Oklahoma
+401169703,2020,regular-season,2020-01-20,2,277,home,FALSE,West Virginia,97,Mountaineers,West Virginia Mountaineers,West Virginia
+401169703,2020,regular-season,2020-01-20,2,251,away,FALSE,Texas,59,Longhorns,Texas Longhorns,Texas

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401382164,2022-02-11,4,24,home,FALSE,Stanford,91,Cardinal,Stanford Cardinal,Stanford
-401382164,2022-02-11,4,254,away,FALSE,Utah,64,Utes,Utah Utes,Utah
-401382160,2022-02-11,4,9,home,FALSE,Arizona State,81,Sun Devils,Arizona State Sun Devils,Arizona St
-401382160,2022-02-11,4,12,away,FALSE,Arizona,77,Wildcats,Arizona Wildcats,Arizona
-401378394,2022-02-11,4,41,home,FALSE,UConn,84,Huskies,UConn Huskies,UConn
-401378394,2022-02-11,4,305,away,FALSE,DePaul,60,Blue Demons,DePaul Blue Demons,DePaul
-401382165,2022-02-11,4,204,home,FALSE,Oregon State,66,Beavers,Oregon State Beavers,Oregon St
-401382165,2022-02-11,4,2483,away,FALSE,Oregon,74,Ducks,Oregon Ducks,Oregon
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401382164,2022,regular-season,2022-02-11,4,24,home,FALSE,Stanford,91,Cardinal,Stanford Cardinal,Stanford
+401382164,2022,regular-season,2022-02-11,4,254,away,FALSE,Utah,64,Utes,Utah Utes,Utah
+401382160,2022,regular-season,2022-02-11,4,9,home,FALSE,Arizona State,81,Sun Devils,Arizona State Sun Devils,Arizona St
+401382160,2022,regular-season,2022-02-11,4,12,away,FALSE,Arizona,77,Wildcats,Arizona Wildcats,Arizona
+401378394,2022,regular-season,2022-02-11,4,41,home,FALSE,UConn,84,Huskies,UConn Huskies,UConn
+401378394,2022,regular-season,2022-02-11,4,305,away,FALSE,DePaul,60,Blue Demons,DePaul Blue Demons,DePaul
+401382165,2022,regular-season,2022-02-11,4,204,home,FALSE,Oregon State,66,Beavers,Oregon State Beavers,Oregon St
+401382165,2022,regular-season,2022-02-11,4,2483,away,FALSE,Oregon,74,Ducks,Oregon Ducks,Oregon

@@ -1,31 +1,31 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401253773,2021-02-20,2,2250,home,FALSE,Gonzaga,106,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401253773,2021-02-20,2,301,away,FALSE,San Diego,69,Toreros,San Diego Toreros,San Diego
-401263369,2021-02-20,2,135,home,FALSE,Minnesota,63,Golden Gophers,Minnesota Golden Gophers,Minnesota
-401263369,2021-02-20,2,356,away,FALSE,Illinois,94,Fighting Illini,Illinois Fighting Illini,Illinois
-401260289,2021-02-20,2,150,home,FALSE,Duke,66,Blue Devils,Duke Blue Devils,Duke
-401260289,2021-02-20,2,258,away,FALSE,Virginia,65,Cavaliers,Virginia Cavaliers,Virginia
-401258813,2021-02-20,2,333,home,FALSE,Alabama,82,Crimson Tide,Alabama Crimson Tide,Alabama
-401258813,2021-02-20,2,238,away,FALSE,Vanderbilt,78,Commodores,Vanderbilt Commodores,Vanderbilt
-401254033,2021-02-20,2,66,home,FALSE,Iowa State,56,Cyclones,Iowa State Cyclones,Iowa State
-401254033,2021-02-20,2,201,away,FALSE,Oklahoma,66,Sooners,Oklahoma Sooners,Oklahoma
-401269655,2021-02-20,2,222,home,FALSE,Villanova,68,Wildcats,Villanova Wildcats,Villanova
-401269655,2021-02-20,2,41,away,FALSE,UConn,60,Huskies,UConn Huskies,UConn
-401253896,2021-02-20,2,251,home,FALSE,Texas,82,Longhorns,Texas Longhorns,Texas
-401253896,2021-02-20,2,277,away,FALSE,West Virginia,84,Mountaineers,West Virginia Mountaineers,West Virginia
-401254040,2021-02-20,2,2305,home,FALSE,Kansas,67,Jayhawks,Kansas Jayhawks,Kansas
-401254040,2021-02-20,2,2641,away,FALSE,Texas Tech,61,Red Raiders,Texas Tech Red Raiders,Texas Tech
-401299693,2021-02-20,2,221,home,FALSE,Pittsburgh,72,Panthers,Pittsburgh Panthers,Pitt
-401299693,2021-02-20,2,52,away,FALSE,Florida State,79,Seminoles,Florida State Seminoles,Florida St
-401265431,2021-02-20,2,30,home,FALSE,USC,72,Trojans,USC Trojans,USC
-401265431,2021-02-20,2,12,away,FALSE,Arizona,81,Wildcats,Arizona Wildcats,Arizona
-401258817,2021-02-20,2,2633,home,FALSE,Tennessee,55,Volunteers,Tennessee Volunteers,Tennessee
-401258817,2021-02-20,2,96,away,FALSE,Kentucky,70,Wildcats,Kentucky Wildcats,Kentucky
-401258819,2021-02-20,2,2579,home,FALSE,South Carolina,78,Gamecocks,South Carolina Gamecocks,South Carolina
-401258819,2021-02-20,2,142,away,FALSE,Missouri,93,Tigers,Missouri Tigers,Missouri
-401262656,2021-02-20,2,278,home,FALSE,Fresno State,57,Bulldogs,Fresno State Bulldogs,Fresno St
-401262656,2021-02-20,2,21,away,FALSE,San Diego State,75,Aztecs,San Diego State Aztecs,San Diego St
-401253894,2021-02-20,0,239,home,FALSE,Baylor,0,Bears,Baylor Bears,Baylor
-401253894,2021-02-20,0,197,away,FALSE,Oklahoma State,0,Cowboys,Oklahoma State Cowboys,Oklahoma St
-401258814,2021-02-20,0,245,home,FALSE,Texas A&M,0,Aggies,Texas A&M Aggies,Texas A&M
-401258814,2021-02-20,0,8,away,FALSE,Arkansas,0,Razorbacks,Arkansas Razorbacks,Arkansas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401253773,2021,regular-season,2021-02-20,2,2250,home,FALSE,Gonzaga,106,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401253773,2021,regular-season,2021-02-20,2,301,away,FALSE,San Diego,69,Toreros,San Diego Toreros,San Diego
+401263369,2021,regular-season,2021-02-20,2,135,home,FALSE,Minnesota,63,Golden Gophers,Minnesota Golden Gophers,Minnesota
+401263369,2021,regular-season,2021-02-20,2,356,away,FALSE,Illinois,94,Fighting Illini,Illinois Fighting Illini,Illinois
+401260289,2021,regular-season,2021-02-20,2,150,home,FALSE,Duke,66,Blue Devils,Duke Blue Devils,Duke
+401260289,2021,regular-season,2021-02-20,2,258,away,FALSE,Virginia,65,Cavaliers,Virginia Cavaliers,Virginia
+401258813,2021,regular-season,2021-02-20,2,333,home,FALSE,Alabama,82,Crimson Tide,Alabama Crimson Tide,Alabama
+401258813,2021,regular-season,2021-02-20,2,238,away,FALSE,Vanderbilt,78,Commodores,Vanderbilt Commodores,Vanderbilt
+401254033,2021,regular-season,2021-02-20,2,66,home,FALSE,Iowa State,56,Cyclones,Iowa State Cyclones,Iowa State
+401254033,2021,regular-season,2021-02-20,2,201,away,FALSE,Oklahoma,66,Sooners,Oklahoma Sooners,Oklahoma
+401269655,2021,regular-season,2021-02-20,2,222,home,FALSE,Villanova,68,Wildcats,Villanova Wildcats,Villanova
+401269655,2021,regular-season,2021-02-20,2,41,away,FALSE,UConn,60,Huskies,UConn Huskies,UConn
+401253896,2021,regular-season,2021-02-20,2,251,home,FALSE,Texas,82,Longhorns,Texas Longhorns,Texas
+401253896,2021,regular-season,2021-02-20,2,277,away,FALSE,West Virginia,84,Mountaineers,West Virginia Mountaineers,West Virginia
+401254040,2021,regular-season,2021-02-20,2,2305,home,FALSE,Kansas,67,Jayhawks,Kansas Jayhawks,Kansas
+401254040,2021,regular-season,2021-02-20,2,2641,away,FALSE,Texas Tech,61,Red Raiders,Texas Tech Red Raiders,Texas Tech
+401299693,2021,regular-season,2021-02-20,2,221,home,FALSE,Pittsburgh,72,Panthers,Pittsburgh Panthers,Pitt
+401299693,2021,regular-season,2021-02-20,2,52,away,FALSE,Florida State,79,Seminoles,Florida State Seminoles,Florida St
+401265431,2021,regular-season,2021-02-20,2,30,home,FALSE,USC,72,Trojans,USC Trojans,USC
+401265431,2021,regular-season,2021-02-20,2,12,away,FALSE,Arizona,81,Wildcats,Arizona Wildcats,Arizona
+401258817,2021,regular-season,2021-02-20,2,2633,home,FALSE,Tennessee,55,Volunteers,Tennessee Volunteers,Tennessee
+401258817,2021,regular-season,2021-02-20,2,96,away,FALSE,Kentucky,70,Wildcats,Kentucky Wildcats,Kentucky
+401258819,2021,regular-season,2021-02-20,2,2579,home,FALSE,South Carolina,78,Gamecocks,South Carolina Gamecocks,South Carolina
+401258819,2021,regular-season,2021-02-20,2,142,away,FALSE,Missouri,93,Tigers,Missouri Tigers,Missouri
+401262656,2021,regular-season,2021-02-20,2,278,home,FALSE,Fresno State,57,Bulldogs,Fresno State Bulldogs,Fresno St
+401262656,2021,regular-season,2021-02-20,2,21,away,FALSE,San Diego State,75,Aztecs,San Diego State Aztecs,San Diego St
+401253894,2021,regular-season,2021-02-20,0,239,home,FALSE,Baylor,0,Bears,Baylor Bears,Baylor
+401253894,2021,regular-season,2021-02-20,0,197,away,FALSE,Oklahoma State,0,Cowboys,Oklahoma State Cowboys,Oklahoma St
+401258814,2021,regular-season,2021-02-20,0,245,home,FALSE,Texas A&M,0,Aggies,Texas A&M Aggies,Texas A&M
+401258814,2021,regular-season,2021-02-20,0,8,away,FALSE,Arkansas,0,Razorbacks,Arkansas Razorbacks,Arkansas

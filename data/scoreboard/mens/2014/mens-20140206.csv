@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400507054,2014-02-06,2,12,home,FALSE,Arizona,67,Wildcats,Arizona Wildcats,Arizona
-400507054,2014-02-06,2,2483,away,FALSE,Oregon,65,Ducks,Oregon Ducks,Oregon
-400496991,2014-02-06,2,2132,home,FALSE,Cincinnati,63,Bearcats,Cincinnati Bearcats,Cincinnati
-400496991,2014-02-06,2,41,away,FALSE,UConn,58,Huskies,UConn Huskies,UConn
-400510017,2014-02-06,2,127,home,FALSE,Michigan State,82,Spartans,Michigan State Spartans,Michigan St
-400510017,2014-02-06,2,213,away,FALSE,Penn State,67,Nittany Lions,Penn State Nittany Lions,Penn State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400507054,2014,regular-season,2014-02-06,2,12,home,FALSE,Arizona,67,Wildcats,Arizona Wildcats,Arizona
+400507054,2014,regular-season,2014-02-06,2,2483,away,FALSE,Oregon,65,Ducks,Oregon Ducks,Oregon
+400496991,2014,regular-season,2014-02-06,2,2132,home,FALSE,Cincinnati,63,Bearcats,Cincinnati Bearcats,Cincinnati
+400496991,2014,regular-season,2014-02-06,2,41,away,FALSE,UConn,58,Huskies,UConn Huskies,UConn
+400510017,2014,regular-season,2014-02-06,2,127,home,FALSE,Michigan State,82,Spartans,Michigan State Spartans,Michigan St
+400510017,2014,regular-season,2014-02-06,2,213,away,FALSE,Penn State,67,Nittany Lions,Penn State Nittany Lions,Penn State

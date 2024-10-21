@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401364351,2021-12-09,2,164,home,FALSE,Rutgers,70,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-401364351,2021-12-09,2,2509,away,FALSE,Purdue,68,Boilermakers,Purdue Boilermakers,Purdue
-401371287,2021-12-09,2,2250,home,FALSE,Gonzaga,80,Bulldogs,Gonzaga Bulldogs,Gonzaga
-401371287,2021-12-09,2,2771,away,FALSE,Merrimack,55,Warriors,Merrimack Warriors,Merrimack
-401372126,2021-12-09,2,66,home,FALSE,Iowa State,73,Cyclones,Iowa State Cyclones,Iowa State
-401372126,2021-12-09,2,2294,away,FALSE,Iowa,53,Hawkeyes,Iowa Hawkeyes,Iowa
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401364351,2022,regular-season,2021-12-09,2,164,home,FALSE,Rutgers,70,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+401364351,2022,regular-season,2021-12-09,2,2509,away,FALSE,Purdue,68,Boilermakers,Purdue Boilermakers,Purdue
+401371287,2022,regular-season,2021-12-09,2,2250,home,FALSE,Gonzaga,80,Bulldogs,Gonzaga Bulldogs,Gonzaga
+401371287,2022,regular-season,2021-12-09,2,2771,away,FALSE,Merrimack,55,Warriors,Merrimack Warriors,Merrimack
+401372126,2022,regular-season,2021-12-09,2,66,home,FALSE,Iowa State,73,Cyclones,Iowa State Cyclones,Iowa State
+401372126,2022,regular-season,2021-12-09,2,2294,away,FALSE,Iowa,53,Hawkeyes,Iowa Hawkeyes,Iowa

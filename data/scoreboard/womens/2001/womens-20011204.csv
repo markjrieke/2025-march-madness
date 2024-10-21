@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213380041,2001-12-04,2,41,home,FALSE,UConn,88,Huskies,UConn Huskies,UConn
-213380041,2001-12-04,2,2599,away,FALSE,St. John's,28,Red Storm,St. John's Red Storm,St John's
-213380290,2001-12-04,2,290,home,FALSE,Georgia Southern,54,Eagles,Georgia Southern Eagles,GA Southern
-213380290,2001-12-04,2,61,away,FALSE,Georgia,73,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-213380251,2001-12-04,2,251,home,FALSE,Texas,83,Longhorns,Texas Longhorns,Texas
-213380251,2001-12-04,2,326,away,FALSE,Texas State,52,Bobcats,Texas State Bobcats,Texas St
-213380099,2001-12-04,2,99,home,FALSE,LSU,81,Tigers,LSU Tigers,LSU
-213380099,2001-12-04,2,309,away,FALSE,Louisiana,49,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
-213382579,2001-12-04,2,2579,home,FALSE,South Carolina,68,Gamecocks,South Carolina Gamecocks,South Carolina
-213382579,2001-12-04,2,218,away,FALSE,Temple,65,Owls,Temple Owls,Temple
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213380041,2002,regular-season,2001-12-04,2,41,home,FALSE,UConn,88,Huskies,UConn Huskies,UConn
+213380041,2002,regular-season,2001-12-04,2,2599,away,FALSE,St. John's,28,Red Storm,St. John's Red Storm,St John's
+213380290,2002,regular-season,2001-12-04,2,290,home,FALSE,Georgia Southern,54,Eagles,Georgia Southern Eagles,GA Southern
+213380290,2002,regular-season,2001-12-04,2,61,away,FALSE,Georgia,73,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+213380251,2002,regular-season,2001-12-04,2,251,home,FALSE,Texas,83,Longhorns,Texas Longhorns,Texas
+213380251,2002,regular-season,2001-12-04,2,326,away,FALSE,Texas State,52,Bobcats,Texas State Bobcats,Texas St
+213380099,2002,regular-season,2001-12-04,2,99,home,FALSE,LSU,81,Tigers,LSU Tigers,LSU
+213380099,2002,regular-season,2001-12-04,2,309,away,FALSE,Louisiana,49,Ragin' Cajuns,Louisiana Ragin' Cajuns,Louisiana
+213382579,2002,regular-season,2001-12-04,2,2579,home,FALSE,South Carolina,68,Gamecocks,South Carolina Gamecocks,South Carolina
+213382579,2002,regular-season,2001-12-04,2,218,away,FALSE,Temple,65,Owls,Temple Owls,Temple

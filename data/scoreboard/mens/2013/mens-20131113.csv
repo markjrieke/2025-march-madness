@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400514227,2013-11-13,2,2483,home,FALSE,Oregon,107,Ducks,Oregon Ducks,Oregon
-400514227,2013-11-13,2,2717,away,FALSE,Western Carolina,83,Catamounts,Western Carolina Catamounts,W Carolina
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400514227,2014,regular-season,2013-11-13,2,2483,home,FALSE,Oregon,107,Ducks,Oregon Ducks,Oregon
+400514227,2014,regular-season,2013-11-13,2,2717,away,FALSE,Western Carolina,83,Catamounts,Western Carolina Catamounts,W Carolina

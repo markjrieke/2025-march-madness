@@ -1,25 +1,25 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-263210120,2006-11-17,2,120,home,FALSE,Maryland,82,Terrapins,Maryland Terrapins,Maryland
-263210120,2006-11-17,2,2628,away,FALSE,TCU,64,Horned Frogs,TCU Horned Frogs,TCU
-263210153,2006-11-17,2,153,home,FALSE,North Carolina,90,Tar Heels,North Carolina Tar Heels,North Carolina
-263210153,2006-11-17,2,2210,away,FALSE,Elon,36,Phoenix,Elon Phoenix,Elon
-263210201,2006-11-17,2,201,home,FALSE,Oklahoma,92,Sooners,Oklahoma Sooners,Oklahoma
-263210201,2006-11-17,2,2198,away,FALSE,Eastern Kentucky,79,Colonels,Eastern Kentucky Colonels,E Kentucky
-263210150,2006-11-17,2,150,home,FALSE,Duke,71,Blue Devils,Duke Blue Devils,Duke
-263210150,2006-11-17,2,2368,away,FALSE,Marist,50,Red Foxes,Marist Red Foxes,Marist
-263212509,2006-11-17,2,2509,home,FALSE,Purdue,88,Boilermakers,Purdue Boilermakers,Purdue
-263212509,2006-11-17,2,264,away,FALSE,Washington,64,Huskies,Washington Huskies,Washington
-263212492,2006-11-17,3,2492,home,FALSE,Pepperdine,75,Waves,Pepperdine Waves,Pepperdine
-263212492,2006-11-17,3,164,away,FALSE,Rutgers,73,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-263210127,2006-11-17,2,127,home,FALSE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St
-263210127,2006-11-17,2,2083,away,FALSE,Bucknell,51,Bison,Bucknell Bison,Bucknell
-263210025,2006-11-17,2,25,home,FALSE,California,88,Golden Bears,California Golden Bears,California
-263210025,2006-11-17,2,57,away,FALSE,Florida,60,Gators,Florida Gators,Florida
-263212571,2006-11-17,2,2571,home,FALSE,South Dakota State,67,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-263212571,2006-11-17,2,30,away,FALSE,USC,63,Trojans,USC Trojans,USC
-263210278,2006-11-17,2,278,home,FALSE,Fresno State,61,Bulldogs,Fresno State Bulldogs,Fresno St
-263210278,2006-11-17,2,252,away,FALSE,BYU,51,Cougars,BYU Cougars,BYU
-263210305,2006-11-17,2,305,home,FALSE,DePaul,86,Blue Demons,DePaul Blue Demons,DePaul
-263210305,2006-11-17,2,43,away,FALSE,Yale,60,Bulldogs,Yale Bulldogs,Yale
-263210167,2006-11-17,2,167,home,FALSE,New Mexico,63,Lobos,New Mexico Lobos,New Mexico
-263210167,2006-11-17,2,251,away,FALSE,Texas,60,Longhorns,Texas Longhorns,Texas
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+263210120,2007,regular-season,2006-11-17,2,120,home,FALSE,Maryland,82,Terrapins,Maryland Terrapins,Maryland
+263210120,2007,regular-season,2006-11-17,2,2628,away,FALSE,TCU,64,Horned Frogs,TCU Horned Frogs,TCU
+263210153,2007,regular-season,2006-11-17,2,153,home,FALSE,North Carolina,90,Tar Heels,North Carolina Tar Heels,North Carolina
+263210153,2007,regular-season,2006-11-17,2,2210,away,FALSE,Elon,36,Phoenix,Elon Phoenix,Elon
+263210201,2007,regular-season,2006-11-17,2,201,home,FALSE,Oklahoma,92,Sooners,Oklahoma Sooners,Oklahoma
+263210201,2007,regular-season,2006-11-17,2,2198,away,FALSE,Eastern Kentucky,79,Colonels,Eastern Kentucky Colonels,E Kentucky
+263210150,2007,regular-season,2006-11-17,2,150,home,FALSE,Duke,71,Blue Devils,Duke Blue Devils,Duke
+263210150,2007,regular-season,2006-11-17,2,2368,away,FALSE,Marist,50,Red Foxes,Marist Red Foxes,Marist
+263212509,2007,regular-season,2006-11-17,2,2509,home,FALSE,Purdue,88,Boilermakers,Purdue Boilermakers,Purdue
+263212509,2007,regular-season,2006-11-17,2,264,away,FALSE,Washington,64,Huskies,Washington Huskies,Washington
+263212492,2007,regular-season,2006-11-17,3,2492,home,FALSE,Pepperdine,75,Waves,Pepperdine Waves,Pepperdine
+263212492,2007,regular-season,2006-11-17,3,164,away,FALSE,Rutgers,73,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+263210127,2007,regular-season,2006-11-17,2,127,home,FALSE,Michigan State,68,Spartans,Michigan State Spartans,Michigan St
+263210127,2007,regular-season,2006-11-17,2,2083,away,FALSE,Bucknell,51,Bison,Bucknell Bison,Bucknell
+263210025,2007,regular-season,2006-11-17,2,25,home,FALSE,California,88,Golden Bears,California Golden Bears,California
+263210025,2007,regular-season,2006-11-17,2,57,away,FALSE,Florida,60,Gators,Florida Gators,Florida
+263212571,2007,regular-season,2006-11-17,2,2571,home,FALSE,South Dakota State,67,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+263212571,2007,regular-season,2006-11-17,2,30,away,FALSE,USC,63,Trojans,USC Trojans,USC
+263210278,2007,regular-season,2006-11-17,2,278,home,FALSE,Fresno State,61,Bulldogs,Fresno State Bulldogs,Fresno St
+263210278,2007,regular-season,2006-11-17,2,252,away,FALSE,BYU,51,Cougars,BYU Cougars,BYU
+263210305,2007,regular-season,2006-11-17,2,305,home,FALSE,DePaul,86,Blue Demons,DePaul Blue Demons,DePaul
+263210305,2007,regular-season,2006-11-17,2,43,away,FALSE,Yale,60,Bulldogs,Yale Bulldogs,Yale
+263210167,2007,regular-season,2006-11-17,2,167,home,FALSE,New Mexico,63,Lobos,New Mexico Lobos,New Mexico
+263210167,2007,regular-season,2006-11-17,2,251,away,FALSE,Texas,60,Longhorns,Texas Longhorns,Texas

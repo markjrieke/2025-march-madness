@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401166241,2020-02-23,2,194,home,FALSE,Ohio State,79,Buckeyes,Ohio State Buckeyes,Ohio State
-401166241,2020-02-23,2,120,away,FALSE,Maryland,72,Terrapins,Maryland Terrapins,Maryland
-401166239,2020-02-23,2,84,home,FALSE,Indiana,68,Hoosiers,Indiana Hoosiers,Indiana
-401166239,2020-02-23,2,213,away,FALSE,Penn State,60,Nittany Lions,Penn State Nittany Lions,Penn State
-401168311,2020-02-23,2,156,home,FALSE,Creighton,81,Bluejays,Creighton Bluejays,Creighton
-401168311,2020-02-23,2,2086,away,FALSE,Butler,59,Bulldogs,Butler Bulldogs,Butler
-401168453,2020-02-23,2,2550,home,FALSE,Seton Hall,81,Pirates,Seton Hall Pirates,Seton Hall
-401168453,2020-02-23,2,2599,away,FALSE,St. John's,65,Red Storm,St. John's Red Storm,St John's
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401166241,2020,regular-season,2020-02-23,2,194,home,FALSE,Ohio State,79,Buckeyes,Ohio State Buckeyes,Ohio State
+401166241,2020,regular-season,2020-02-23,2,120,away,FALSE,Maryland,72,Terrapins,Maryland Terrapins,Maryland
+401166239,2020,regular-season,2020-02-23,2,84,home,FALSE,Indiana,68,Hoosiers,Indiana Hoosiers,Indiana
+401166239,2020,regular-season,2020-02-23,2,213,away,FALSE,Penn State,60,Nittany Lions,Penn State Nittany Lions,Penn State
+401168311,2020,regular-season,2020-02-23,2,156,home,FALSE,Creighton,81,Bluejays,Creighton Bluejays,Creighton
+401168311,2020,regular-season,2020-02-23,2,2086,away,FALSE,Butler,59,Bulldogs,Butler Bulldogs,Butler
+401168453,2020,regular-season,2020-02-23,2,2550,home,FALSE,Seton Hall,81,Pirates,Seton Hall Pirates,Seton Hall
+401168453,2020,regular-season,2020-02-23,2,2599,away,FALSE,St. John's,65,Red Storm,St. John's Red Storm,St John's

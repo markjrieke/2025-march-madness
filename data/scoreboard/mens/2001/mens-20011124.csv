@@ -1,19 +1,19 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-213282752,2001-11-24,2,2752,home,FALSE,Xavier,60,Musketeers,Xavier Musketeers,Xavier
-213282752,2001-11-24,2,142,away,FALSE,Missouri,72,Tigers,Missouri Tigers,Missouri
-213280120,2001-11-24,2,120,home,FALSE,Maryland,77,Terrapins,Maryland Terrapins,Maryland
-213280120,2001-11-24,2,2169,away,FALSE,Delaware State,53,Hornets,Delaware State Hornets,Delaware St
-213280096,2001-11-24,2,96,home,FALSE,Kentucky,94,Wildcats,Kentucky Wildcats,Kentucky
-213280096,2001-11-24,2,2413,away,FALSE,Morehead State,75,Eagles,Morehead State Eagles,Morehead St
-213280235,2001-11-24,2,235,home,FALSE,Memphis,65,Tigers,Memphis Tigers,Memphis
-213280235,2001-11-24,2,2545,away,FALSE,SE Louisiana,46,Lions,SE Louisiana Lions,SE Louisiana
-213282509,2001-11-24,2,2509,home,FALSE,Purdue,62,Boilermakers,Purdue Boilermakers,Purdue
-213282509,2001-11-24,2,24,away,FALSE,Stanford,78,Cardinal,Stanford Cardinal,Stanford
-213280197,2001-11-24,2,197,home,FALSE,Oklahoma State,77,Cowboys,Oklahoma State Cowboys,Oklahoma St
-213280197,2001-11-24,2,249,away,FALSE,North Texas,58,Mean Green,North Texas Mean Green,North Texas
-213280046,2001-11-24,2,46,home,FALSE,Georgetown,91,Hoyas,Georgetown Hoyas,Georgetown
-213280046,2001-11-24,2,119,away,FALSE,Towson,40,Tigers,Towson Tigers,Towson
-213280103,2001-11-24,2,103,home,FALSE,Boston College,88,Eagles,Boston College Eagles,Boston College
-213280103,2001-11-24,2,213,away,FALSE,Penn State,65,Nittany Lions,Penn State Nittany Lions,Penn State
-213280098,2001-11-24,2,98,home,FALSE,Western Kentucky,101,Hilltoppers,Western Kentucky Hilltoppers,Western KY
-213280098,2001-11-24,2,93,away,FALSE,Murray State,77,Racers,Murray State Racers,Murray St
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+213282752,2002,regular-season,2001-11-24,2,2752,home,FALSE,Xavier,60,Musketeers,Xavier Musketeers,Xavier
+213282752,2002,regular-season,2001-11-24,2,142,away,FALSE,Missouri,72,Tigers,Missouri Tigers,Missouri
+213280120,2002,regular-season,2001-11-24,2,120,home,FALSE,Maryland,77,Terrapins,Maryland Terrapins,Maryland
+213280120,2002,regular-season,2001-11-24,2,2169,away,FALSE,Delaware State,53,Hornets,Delaware State Hornets,Delaware St
+213280096,2002,regular-season,2001-11-24,2,96,home,FALSE,Kentucky,94,Wildcats,Kentucky Wildcats,Kentucky
+213280096,2002,regular-season,2001-11-24,2,2413,away,FALSE,Morehead State,75,Eagles,Morehead State Eagles,Morehead St
+213280235,2002,regular-season,2001-11-24,2,235,home,FALSE,Memphis,65,Tigers,Memphis Tigers,Memphis
+213280235,2002,regular-season,2001-11-24,2,2545,away,FALSE,SE Louisiana,46,Lions,SE Louisiana Lions,SE Louisiana
+213282509,2002,regular-season,2001-11-24,2,2509,home,FALSE,Purdue,62,Boilermakers,Purdue Boilermakers,Purdue
+213282509,2002,regular-season,2001-11-24,2,24,away,FALSE,Stanford,78,Cardinal,Stanford Cardinal,Stanford
+213280197,2002,regular-season,2001-11-24,2,197,home,FALSE,Oklahoma State,77,Cowboys,Oklahoma State Cowboys,Oklahoma St
+213280197,2002,regular-season,2001-11-24,2,249,away,FALSE,North Texas,58,Mean Green,North Texas Mean Green,North Texas
+213280046,2002,regular-season,2001-11-24,2,46,home,FALSE,Georgetown,91,Hoyas,Georgetown Hoyas,Georgetown
+213280046,2002,regular-season,2001-11-24,2,119,away,FALSE,Towson,40,Tigers,Towson Tigers,Towson
+213280103,2002,regular-season,2001-11-24,2,103,home,FALSE,Boston College,88,Eagles,Boston College Eagles,Boston College
+213280103,2002,regular-season,2001-11-24,2,213,away,FALSE,Penn State,65,Nittany Lions,Penn State Nittany Lions,Penn State
+213280098,2002,regular-season,2001-11-24,2,98,home,FALSE,Western Kentucky,101,Hilltoppers,Western Kentucky Hilltoppers,Western KY
+213280098,2002,regular-season,2001-11-24,2,93,away,FALSE,Murray State,77,Racers,Murray State Racers,Murray St

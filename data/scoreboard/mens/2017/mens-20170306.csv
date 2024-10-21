@@ -1,35 +1,35 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400945394,2017-03-06,2,2379,home,TRUE,Maryland Eastern Shore,75,Hawks,Maryland Eastern Shore Hawks,MD Eastern
-400945394,2017-03-06,2,2448,away,TRUE,North Carolina A&T,65,Aggies,North Carolina A&T Aggies,NC A&T
-400945730,2017-03-06,2,94,home,TRUE,Northern Kentucky,84,Norse,Northern Kentucky Norse,N Kentucky
-400945730,2017-03-06,2,2754,away,TRUE,Youngstown State,74,Penguins,Youngstown State Penguins,Youngstown St
-400945728,2017-03-06,2,233,home,TRUE,South Dakota,71,Coyotes,South Dakota Coyotes,South Dakota
-400945728,2017-03-06,2,2571,away,TRUE,South Dakota State,74,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-400945727,2017-03-06,2,2430,home,TRUE,UNC Greensboro,74,Spartans,UNC Greensboro Spartans,UNC Greensboro
-400945727,2017-03-06,2,2193,away,TRUE,East Tennessee State,79,Buccaneers,East Tennessee State Buccaneers,ETSU
-400945702,2017-03-06,2,350,home,TRUE,UNC Wilmington,78,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
-400945702,2017-03-06,2,232,away,TRUE,Charleston,69,Cougars,Charleston Cougars,Charleston
-400945449,2017-03-06,3,2309,home,FALSE,Kent State,116,Golden Flashes,Kent State Golden Flashes,Kent State
-400945449,2017-03-06,3,2117,away,FALSE,Central Michigan,106,Chippewas,Central Michigan Chippewas,C Michigan
-400945446,2017-03-06,2,2199,home,FALSE,Eastern Michigan,72,Eagles,Eastern Michigan Eagles,E Michigan
-400945446,2017-03-06,2,2459,away,FALSE,Northern Illinois,69,Huskies,Northern Illinois Huskies,N Illinois
-400945393,2017-03-06,2,2154,home,TRUE,Coppin State,73,Eagles,Coppin State Eagles,Coppin St
-400945393,2017-03-06,2,47,away,TRUE,Howard,79,Bison,Howard Bison,Howard
-400945191,2017-03-06,2,261,home,FALSE,Vermont,74,Catamounts,Vermont Catamounts,Vermont
-400945191,2017-03-06,2,160,away,FALSE,New Hampshire,41,Wildcats,New Hampshire Wildcats,New Hampshire
-400945447,2017-03-06,2,2711,home,FALSE,Western Michigan,65,Broncos,Western Michigan Broncos,W Michigan
-400945447,2017-03-06,2,193,away,FALSE,Miami (OH),61,RedHawks,Miami (OH) RedHawks,Miami OH
-400945192,2017-03-06,2,2619,home,FALSE,Stony Brook,56,Seawolves,Stony Brook Seawolves,Stony Brook
-400945192,2017-03-06,2,399,away,FALSE,UAlbany,63,Great Danes,UAlbany Great Danes,UAlbany
-400945448,2017-03-06,2,2649,home,FALSE,Toledo,77,Rockets,Toledo Rockets,Toledo
-400945448,2017-03-06,2,189,away,FALSE,Bowling Green,62,Falcons,Bowling Green Falcons,Bowling Green
-400945704,2017-03-06,3,314,home,TRUE,Iona,87,Gaels,Iona Gaels,Iona
-400945704,2017-03-06,3,2561,away,TRUE,Siena,86,Saints,Siena Saints,Siena
-400945623,2017-03-06,2,2250,home,TRUE,Gonzaga,77,Bulldogs,Gonzaga Bulldogs,Gonzaga
-400945623,2017-03-06,2,2541,away,TRUE,Santa Clara,68,Broncos,Santa Clara Broncos,Santa Clara
-400945782,2017-03-06,2,2437,home,TRUE,Omaha,90,Mavericks,Omaha Mavericks,Omaha
-400945782,2017-03-06,2,85,away,TRUE,IU Indianapolis,62,Jaguars,IU Indianapolis Jaguars,IU Indy
-400945726,2017-03-06,2,82,home,TRUE,UIC,68,Flames,UIC Flames,UIC
-400945726,2017-03-06,2,270,away,TRUE,Milwaukee,74,Panthers,Milwaukee Panthers,Milwaukee
-400945646,2017-03-06,2,2608,home,TRUE,Saint Mary's,81,Gaels,Saint Mary's Gaels,Saint Mary's
-400945646,2017-03-06,2,252,away,TRUE,BYU,50,Cougars,BYU Cougars,BYU
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400945394,2017,regular-season,2017-03-06,2,2379,home,TRUE,Maryland Eastern Shore,75,Hawks,Maryland Eastern Shore Hawks,MD Eastern
+400945394,2017,regular-season,2017-03-06,2,2448,away,TRUE,North Carolina A&T,65,Aggies,North Carolina A&T Aggies,NC A&T
+400945730,2017,regular-season,2017-03-06,2,94,home,TRUE,Northern Kentucky,84,Norse,Northern Kentucky Norse,N Kentucky
+400945730,2017,regular-season,2017-03-06,2,2754,away,TRUE,Youngstown State,74,Penguins,Youngstown State Penguins,Youngstown St
+400945728,2017,regular-season,2017-03-06,2,233,home,TRUE,South Dakota,71,Coyotes,South Dakota Coyotes,South Dakota
+400945728,2017,regular-season,2017-03-06,2,2571,away,TRUE,South Dakota State,74,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+400945727,2017,regular-season,2017-03-06,2,2430,home,TRUE,UNC Greensboro,74,Spartans,UNC Greensboro Spartans,UNC Greensboro
+400945727,2017,regular-season,2017-03-06,2,2193,away,TRUE,East Tennessee State,79,Buccaneers,East Tennessee State Buccaneers,ETSU
+400945702,2017,regular-season,2017-03-06,2,350,home,TRUE,UNC Wilmington,78,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+400945702,2017,regular-season,2017-03-06,2,232,away,TRUE,Charleston,69,Cougars,Charleston Cougars,Charleston
+400945449,2017,regular-season,2017-03-06,3,2309,home,FALSE,Kent State,116,Golden Flashes,Kent State Golden Flashes,Kent State
+400945449,2017,regular-season,2017-03-06,3,2117,away,FALSE,Central Michigan,106,Chippewas,Central Michigan Chippewas,C Michigan
+400945446,2017,regular-season,2017-03-06,2,2199,home,FALSE,Eastern Michigan,72,Eagles,Eastern Michigan Eagles,E Michigan
+400945446,2017,regular-season,2017-03-06,2,2459,away,FALSE,Northern Illinois,69,Huskies,Northern Illinois Huskies,N Illinois
+400945393,2017,regular-season,2017-03-06,2,2154,home,TRUE,Coppin State,73,Eagles,Coppin State Eagles,Coppin St
+400945393,2017,regular-season,2017-03-06,2,47,away,TRUE,Howard,79,Bison,Howard Bison,Howard
+400945191,2017,regular-season,2017-03-06,2,261,home,FALSE,Vermont,74,Catamounts,Vermont Catamounts,Vermont
+400945191,2017,regular-season,2017-03-06,2,160,away,FALSE,New Hampshire,41,Wildcats,New Hampshire Wildcats,New Hampshire
+400945447,2017,regular-season,2017-03-06,2,2711,home,FALSE,Western Michigan,65,Broncos,Western Michigan Broncos,W Michigan
+400945447,2017,regular-season,2017-03-06,2,193,away,FALSE,Miami (OH),61,RedHawks,Miami (OH) RedHawks,Miami OH
+400945192,2017,regular-season,2017-03-06,2,2619,home,FALSE,Stony Brook,56,Seawolves,Stony Brook Seawolves,Stony Brook
+400945192,2017,regular-season,2017-03-06,2,399,away,FALSE,UAlbany,63,Great Danes,UAlbany Great Danes,UAlbany
+400945448,2017,regular-season,2017-03-06,2,2649,home,FALSE,Toledo,77,Rockets,Toledo Rockets,Toledo
+400945448,2017,regular-season,2017-03-06,2,189,away,FALSE,Bowling Green,62,Falcons,Bowling Green Falcons,Bowling Green
+400945704,2017,regular-season,2017-03-06,3,314,home,TRUE,Iona,87,Gaels,Iona Gaels,Iona
+400945704,2017,regular-season,2017-03-06,3,2561,away,TRUE,Siena,86,Saints,Siena Saints,Siena
+400945623,2017,regular-season,2017-03-06,2,2250,home,TRUE,Gonzaga,77,Bulldogs,Gonzaga Bulldogs,Gonzaga
+400945623,2017,regular-season,2017-03-06,2,2541,away,TRUE,Santa Clara,68,Broncos,Santa Clara Broncos,Santa Clara
+400945782,2017,regular-season,2017-03-06,2,2437,home,TRUE,Omaha,90,Mavericks,Omaha Mavericks,Omaha
+400945782,2017,regular-season,2017-03-06,2,85,away,TRUE,IU Indianapolis,62,Jaguars,IU Indianapolis Jaguars,IU Indy
+400945726,2017,regular-season,2017-03-06,2,82,home,TRUE,UIC,68,Flames,UIC Flames,UIC
+400945726,2017,regular-season,2017-03-06,2,270,away,TRUE,Milwaukee,74,Panthers,Milwaukee Panthers,Milwaukee
+400945646,2017,regular-season,2017-03-06,2,2608,home,TRUE,Saint Mary's,81,Gaels,Saint Mary's Gaels,Saint Mary's
+400945646,2017,regular-season,2017-03-06,2,252,away,TRUE,BYU,50,Cougars,BYU Cougars,BYU

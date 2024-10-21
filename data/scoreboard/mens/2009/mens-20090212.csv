@@ -1,11 +1,11 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-290430087,2009-02-12,2,87,home,FALSE,Notre Dame,90,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
-290430087,2009-02-12,2,97,away,FALSE,Louisville,57,Cardinals,Louisville Cardinals,Louisville
-290430009,2009-02-12,2,9,home,FALSE,Arizona State,74,Sun Devils,Arizona State Sun Devils,Arizona St
-290430009,2009-02-12,2,26,away,FALSE,UCLA,67,Bruins,UCLA Bruins,UCLA
-290432608,2009-02-12,2,2608,home,FALSE,Saint Mary's,70,Gaels,Saint Mary's Gaels,Saint Mary's
-290432608,2009-02-12,2,2250,away,FALSE,Gonzaga,72,Bulldogs,Gonzaga Bulldogs,Gonzaga
-290430070,2009-02-12,2,70,home,FALSE,Idaho,53,Vandals,Idaho Vandals,Idaho
-290430070,2009-02-12,2,328,away,FALSE,Utah State,62,Aggies,Utah State Aggies,Utah State
-290430077,2009-02-12,2,77,home,FALSE,Northwestern,59,Wildcats,Northwestern Wildcats,Northwestern
-290430077,2009-02-12,2,356,away,FALSE,Illinois,60,Fighting Illini,Illinois Fighting Illini,Illinois
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+290430087,2009,regular-season,2009-02-12,2,87,home,FALSE,Notre Dame,90,Fighting Irish,Notre Dame Fighting Irish,Notre Dame
+290430087,2009,regular-season,2009-02-12,2,97,away,FALSE,Louisville,57,Cardinals,Louisville Cardinals,Louisville
+290430009,2009,regular-season,2009-02-12,2,9,home,FALSE,Arizona State,74,Sun Devils,Arizona State Sun Devils,Arizona St
+290430009,2009,regular-season,2009-02-12,2,26,away,FALSE,UCLA,67,Bruins,UCLA Bruins,UCLA
+290432608,2009,regular-season,2009-02-12,2,2608,home,FALSE,Saint Mary's,70,Gaels,Saint Mary's Gaels,Saint Mary's
+290432608,2009,regular-season,2009-02-12,2,2250,away,FALSE,Gonzaga,72,Bulldogs,Gonzaga Bulldogs,Gonzaga
+290430070,2009,regular-season,2009-02-12,2,70,home,FALSE,Idaho,53,Vandals,Idaho Vandals,Idaho
+290430070,2009,regular-season,2009-02-12,2,328,away,FALSE,Utah State,62,Aggies,Utah State Aggies,Utah State
+290430077,2009,regular-season,2009-02-12,2,77,home,FALSE,Northwestern,59,Wildcats,Northwestern Wildcats,Northwestern
+290430077,2009,regular-season,2009-02-12,2,356,away,FALSE,Illinois,60,Fighting Illini,Illinois Fighting Illini,Illinois

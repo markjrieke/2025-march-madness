@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-323272460,2012-11-22,2,97,home,TRUE,Louisville,51,Cardinals,Louisville Cardinals,Louisville
-323272460,2012-11-22,2,2460,away,TRUE,Northern Iowa,46,Panthers,Northern Iowa Panthers,Northern Iowa
-323270135,2012-11-22,2,150,home,TRUE,Duke,89,Blue Devils,Duke Blue Devils,Duke
-323270135,2012-11-22,2,135,away,TRUE,Minnesota,71,Golden Gophers,Minnesota Golden Gophers,Minnesota
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+323272460,2013,regular-season,2012-11-22,2,97,home,TRUE,Louisville,51,Cardinals,Louisville Cardinals,Louisville
+323272460,2013,regular-season,2012-11-22,2,2460,away,TRUE,Northern Iowa,46,Panthers,Northern Iowa Panthers,Northern Iowa
+323270135,2013,regular-season,2012-11-22,2,150,home,TRUE,Duke,89,Blue Devils,Duke Blue Devils,Duke
+323270135,2013,regular-season,2012-11-22,2,135,away,TRUE,Minnesota,71,Golden Gophers,Minnesota Golden Gophers,Minnesota

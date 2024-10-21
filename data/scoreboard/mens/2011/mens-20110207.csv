@@ -1,5 +1,5 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-310382305,2011-02-07,2,2305,home,FALSE,Kansas,103,Jayhawks,Kansas Jayhawks,Kansas
-310382305,2011-02-07,2,142,away,FALSE,Missouri,86,Tigers,Missouri Tigers,Missouri
-310380277,2011-02-07,2,277,home,FALSE,West Virginia,66,Mountaineers,West Virginia Mountaineers,West Virginia
-310380277,2011-02-07,2,221,away,FALSE,Pittsburgh,71,Panthers,Pittsburgh Panthers,Pitt
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+310382305,2011,regular-season,2011-02-07,2,2305,home,FALSE,Kansas,103,Jayhawks,Kansas Jayhawks,Kansas
+310382305,2011,regular-season,2011-02-07,2,142,away,FALSE,Missouri,86,Tigers,Missouri Tigers,Missouri
+310380277,2011,regular-season,2011-02-07,2,277,home,FALSE,West Virginia,66,Mountaineers,West Virginia Mountaineers,West Virginia
+310380277,2011,regular-season,2011-02-07,2,221,away,FALSE,Pittsburgh,71,Panthers,Pittsburgh Panthers,Pitt

@@ -1,9 +1,9 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-220432132,2002-02-12,2,2132,home,FALSE,Cincinnati,67,Bearcats,Cincinnati Bearcats,Cincinnati
-220432132,2002-02-12,2,139,away,FALSE,Saint Louis,53,Billikens,Saint Louis Billikens,Saint Louis
-220430061,2002-02-12,2,61,home,FALSE,Georgia,70,Bulldogs,Georgia Bulldogs,Georgia
-220430061,2002-02-12,2,57,away,FALSE,Florida,85,Gators,Florida Gators,Florida
-220430258,2002-02-12,2,258,home,FALSE,Virginia,73,Cavaliers,Virginia Cavaliers,Virginia
-220430258,2002-02-12,2,153,away,FALSE,North Carolina,63,Tar Heels,North Carolina Tar Heels,North Carolina
-220430127,2002-02-12,2,127,home,FALSE,Michigan State,61,Spartans,Michigan State Spartans,Michigan St
-220430127,2002-02-12,2,356,away,FALSE,Illinois,63,Fighting Illini,Illinois Fighting Illini,Illinois
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+220432132,2002,regular-season,2002-02-12,2,2132,home,FALSE,Cincinnati,67,Bearcats,Cincinnati Bearcats,Cincinnati
+220432132,2002,regular-season,2002-02-12,2,139,away,FALSE,Saint Louis,53,Billikens,Saint Louis Billikens,Saint Louis
+220430061,2002,regular-season,2002-02-12,2,61,home,FALSE,Georgia,70,Bulldogs,Georgia Bulldogs,Georgia
+220430061,2002,regular-season,2002-02-12,2,57,away,FALSE,Florida,85,Gators,Florida Gators,Florida
+220430258,2002,regular-season,2002-02-12,2,258,home,FALSE,Virginia,73,Cavaliers,Virginia Cavaliers,Virginia
+220430258,2002,regular-season,2002-02-12,2,153,away,FALSE,North Carolina,63,Tar Heels,North Carolina Tar Heels,North Carolina
+220430127,2002,regular-season,2002-02-12,2,127,home,FALSE,Michigan State,61,Spartans,Michigan State Spartans,Michigan St
+220430127,2002,regular-season,2002-02-12,2,356,away,FALSE,Illinois,63,Fighting Illini,Illinois Fighting Illini,Illinois

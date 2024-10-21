@@ -1,7 +1,7 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-401498633,2023-01-06,4,38,home,FALSE,Colorado,77,Buffaloes,Colorado Buffaloes,Colorado
-401498633,2023-01-06,4,254,away,FALSE,Utah,67,Utes,Utah Utes,Utah
-401498634,2023-01-06,4,12,home,FALSE,Arizona,72,Wildcats,Arizona Wildcats,Arizona
-401498634,2023-01-06,4,204,away,FALSE,Oregon State,69,Beavers,Oregon State Beavers,Oregon St
-401498632,2023-01-06,4,9,home,FALSE,Arizona State,62,Sun Devils,Arizona State Sun Devils,Arizona St
-401498632,2023-01-06,4,2483,away,FALSE,Oregon,82,Ducks,Oregon Ducks,Oregon
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+401498633,2023,regular-season,2023-01-06,4,38,home,FALSE,Colorado,77,Buffaloes,Colorado Buffaloes,Colorado
+401498633,2023,regular-season,2023-01-06,4,254,away,FALSE,Utah,67,Utes,Utah Utes,Utah
+401498634,2023,regular-season,2023-01-06,4,12,home,FALSE,Arizona,72,Wildcats,Arizona Wildcats,Arizona
+401498634,2023,regular-season,2023-01-06,4,204,away,FALSE,Oregon State,69,Beavers,Oregon State Beavers,Oregon St
+401498632,2023,regular-season,2023-01-06,4,9,home,FALSE,Arizona State,62,Sun Devils,Arizona State Sun Devils,Arizona St
+401498632,2023,regular-season,2023-01-06,4,2483,away,FALSE,Oregon,82,Ducks,Oregon Ducks,Oregon

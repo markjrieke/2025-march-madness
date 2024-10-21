@@ -1,3 +1,3 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-273610153,2007-12-27,2,153,home,FALSE,North Carolina,106,Tar Heels,North Carolina Tar Heels,North Carolina
-273610153,2007-12-27,2,2440,away,FALSE,Nevada,70,Wolf Pack,Nevada Wolf Pack,Nevada
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+273610153,2008,regular-season,2007-12-27,2,153,home,FALSE,North Carolina,106,Tar Heels,North Carolina Tar Heels,North Carolina
+273610153,2008,regular-season,2007-12-27,2,2440,away,FALSE,Nevada,70,Wolf Pack,Nevada Wolf Pack,Nevada

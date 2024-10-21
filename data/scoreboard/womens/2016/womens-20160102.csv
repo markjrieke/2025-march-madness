@@ -1,15 +1,15 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400832072,2016-01-02,4,251,home,FALSE,Texas,86,Longhorns,Texas Longhorns,Texas
-400832072,2016-01-02,4,2641,away,FALSE,Texas Tech,62,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-400834850,2016-01-02,4,120,home,FALSE,Maryland,71,Terrapins,Maryland Terrapins,Maryland
-400834850,2016-01-02,4,194,away,FALSE,Ohio State,80,Buckeyes,Ohio State Buckeyes,Ohio State
-400845228,2016-01-02,4,30,home,FALSE,USC,49,Trojans,USC Trojans,USC
-400845228,2016-01-02,4,204,away,FALSE,Oregon State,57,Beavers,Oregon State Beavers,Oregon St
-400845155,2016-01-02,4,12,home,FALSE,Arizona,34,Wildcats,Arizona Wildcats,Arizona
-400845155,2016-01-02,4,24,away,FALSE,Stanford,59,Cardinal,Stanford Cardinal,Stanford
-400845173,2016-01-02,4,9,home,FALSE,Arizona State,57,Sun Devils,Arizona State Sun Devils,Arizona St
-400845173,2016-01-02,4,25,away,FALSE,California,49,Golden Bears,California Golden Bears,California
-400834989,2016-01-02,4,151,home,FALSE,East Carolina,59,Pirates,East Carolina Pirates,East Carolina
-400834989,2016-01-02,4,58,away,FALSE,South Florida,61,Bulls,South Florida Bulls,South Florida
-400845216,2016-01-02,4,26,home,FALSE,UCLA,80,Bruins,UCLA Bruins,UCLA
-400845216,2016-01-02,4,2483,away,FALSE,Oregon,69,Ducks,Oregon Ducks,Oregon
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400832072,2016,regular-season,2016-01-02,4,251,home,FALSE,Texas,86,Longhorns,Texas Longhorns,Texas
+400832072,2016,regular-season,2016-01-02,4,2641,away,FALSE,Texas Tech,62,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+400834850,2016,regular-season,2016-01-02,4,120,home,FALSE,Maryland,71,Terrapins,Maryland Terrapins,Maryland
+400834850,2016,regular-season,2016-01-02,4,194,away,FALSE,Ohio State,80,Buckeyes,Ohio State Buckeyes,Ohio State
+400845228,2016,regular-season,2016-01-02,4,30,home,FALSE,USC,49,Trojans,USC Trojans,USC
+400845228,2016,regular-season,2016-01-02,4,204,away,FALSE,Oregon State,57,Beavers,Oregon State Beavers,Oregon St
+400845155,2016,regular-season,2016-01-02,4,12,home,FALSE,Arizona,34,Wildcats,Arizona Wildcats,Arizona
+400845155,2016,regular-season,2016-01-02,4,24,away,FALSE,Stanford,59,Cardinal,Stanford Cardinal,Stanford
+400845173,2016,regular-season,2016-01-02,4,9,home,FALSE,Arizona State,57,Sun Devils,Arizona State Sun Devils,Arizona St
+400845173,2016,regular-season,2016-01-02,4,25,away,FALSE,California,49,Golden Bears,California Golden Bears,California
+400834989,2016,regular-season,2016-01-02,4,151,home,FALSE,East Carolina,59,Pirates,East Carolina Pirates,East Carolina
+400834989,2016,regular-season,2016-01-02,4,58,away,FALSE,South Florida,61,Bulls,South Florida Bulls,South Florida
+400845216,2016,regular-season,2016-01-02,4,26,home,FALSE,UCLA,80,Bruins,UCLA Bruins,UCLA
+400845216,2016,regular-season,2016-01-02,4,2483,away,FALSE,Oregon,69,Ducks,Oregon Ducks,Oregon

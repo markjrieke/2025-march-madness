@@ -1,163 +1,163 @@
-game_id,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
-400503685,2013-11-29,2,130,home,TRUE,Michigan,82,Wolverines,Michigan Wolverines,Michigan
-400503685,2013-11-29,2,2641,away,TRUE,Texas Tech,71,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
-400510641,2013-11-29,2,2226,home,FALSE,Florida Atlantic,82,Owls,Florida Atlantic Owls,FAU
-400510641,2013-11-29,2,290,away,FALSE,Georgia Southern,58,Eagles,Georgia Southern Eagles,GA Southern
-400507441,2013-11-29,2,2393,home,TRUE,Middle Tennessee,88,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
-400507441,2013-11-29,2,2545,away,TRUE,SE Louisiana,71,Lady Lions,SE Louisiana Lady Lions,SE Louisiana
-400511772,2013-11-29,2,195,home,TRUE,Ohio,67,Bobcats,Ohio Bobcats,Ohio
-400511772,2013-11-29,2,82,away,TRUE,UIC,76,Flames,UIC Flames,UIC
-400508708,2013-11-29,2,2390,home,FALSE,Miami,78,Hurricanes,Miami Hurricanes,Miami
-400508708,2013-11-29,2,2597,away,FALSE,St. Francis Brooklyn,57,Terriers,St. Francis Brooklyn Terriers,St Francis BK
-400508707,2013-11-29,3,153,home,TRUE,North Carolina,81,Tar Heels,North Carolina Tar Heels,North Carolina
-400508707,2013-11-29,3,9,away,TRUE,Arizona State,94,Sun Devils,Arizona State Sun Devils,Arizona St
-400508352,2013-11-29,2,164,home,TRUE,Rutgers,65,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
-400508352,2013-11-29,2,99,away,TRUE,LSU,69,Tigers,LSU Tigers,LSU
-400507809,2013-11-29,2,166,home,FALSE,New Mexico State,77,Aggies,New Mexico State Aggies,New Mexico St
-400507809,2013-11-29,2,2459,away,FALSE,Northern Illinois,73,Huskies,Northern Illinois Huskies,N Illinois
-400505303,2013-11-29,2,57,home,TRUE,Florida,64,Gators,Florida Gators,Florida
-400505303,2013-11-29,2,2287,away,TRUE,Illinois State,68,Redbirds,Illinois State Redbirds,Illinois St
-400508709,2013-11-29,2,2117,home,TRUE,Central Michigan,64,Chippewas,Central Michigan Chippewas,C Michigan
-400508709,2013-11-29,2,150,away,TRUE,Duke,97,Blue Devils,Duke Blue Devils,Duke
-400504978,2013-11-29,2,2523,home,FALSE,Robert Morris,62,Colonials,Robert Morris Colonials,Robert Morris
-400504978,2013-11-29,2,94,away,FALSE,Northern Kentucky,71,Norse,Northern Kentucky Norse,N Kentucky
-400509278,2013-11-29,2,2619,home,FALSE,Stony Brook,67,Seawolves,Stony Brook Seawolves,Stony Brook
-400509278,2013-11-29,2,349,away,FALSE,Army,75,Black Knights,Army Black Knights,Army
-400509079,2013-11-29,2,2335,home,TRUE,Liberty,66,Flames,Liberty Flames,Liberty
-400509079,2013-11-29,2,278,away,TRUE,Fresno State,70,Bulldogs,Fresno State Bulldogs,Fresno St
-400507440,2013-11-29,2,2341,home,FALSE,LIU Brooklyn,57,Blackbirds,LIU Brooklyn Blackbirds,LIU Brooklyn
-400507440,2013-11-29,2,2377,away,FALSE,McNeese,71,Cowgirls,McNeese Cowgirls,McNeese
-400507436,2013-11-29,2,140,home,FALSE,Kansas City,76,Roos,Kansas City Roos,Kansas City
-400507436,2013-11-29,2,2534,away,FALSE,Sam Houston,78,Bearkats,Sam Houston Bearkats,Sam Houston
-400504754,2013-11-29,2,2247,home,FALSE,Georgia State,65,Panthers,Georgia State Panthers,Georgia St
-400504754,2013-11-29,2,55,away,FALSE,Jacksonville State,63,Gamecocks,Jacksonville State Gamecocks,Jax State
-400512093,2013-11-29,2,152,home,TRUE,NC State,90,Wolfpack,NC State Wolfpack,NC State
-400512093,2013-11-29,2,2750,away,TRUE,Wright State,99,Raiders,Wright State Raiders,Wright St
-400511736,2013-11-29,2,2174,home,TRUE,Detroit Mercy,59,Titans,Detroit Mercy Titans,Detroit Mercy
-400511736,2013-11-29,2,227,away,TRUE,Rhode Island,70,Rams,Rhode Island Rams,Rhode Island
-400505158,2013-11-29,2,2571,home,TRUE,South Dakota State,59,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
-400505158,2013-11-29,2,526,away,TRUE,Florida Gulf Coast,84,Eagles,Florida Gulf Coast Eagles,FGCU
-400512469,2013-11-29,2,2649,home,TRUE,Toledo,59,Rockets,Toledo Rockets,Toledo
-400512469,2013-11-29,2,2239,away,TRUE,Cal State Fullerton,58,Titans,Cal State Fullerton Titans,Fullerton
-400508353,2013-11-29,2,2050,home,TRUE,Ball State,51,Cardinals,Ball State Cardinals,Ball State
-400508353,2013-11-29,2,2,away,TRUE,Auburn,67,Tigers,Auburn Tigers,Auburn
-400507437,2013-11-29,2,270,home,TRUE,Milwaukee,63,Panthers,Milwaukee Panthers,Milwaukee
-400507437,2013-11-29,2,2320,away,TRUE,Lamar,75,Cardinals,Lamar Cardinals,Lamar
-400505302,2013-11-29,2,2350,home,FALSE,Loyola Chicago,55,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
-400505302,2013-11-29,2,322,away,FALSE,Lafayette,66,Leopards,Lafayette Leopards,Lafayette
-400508356,2013-11-29,2,142,home,TRUE,Missouri,68,Tigers,Missouri Tigers,Missouri
-400508356,2013-11-29,2,42,away,TRUE,Hartford,45,Hawks,Hartford Hawks,Hartford
-400509762,2013-11-29,2,213,home,TRUE,Penn State,61,Lady Lions,Penn State Lady Lions,Penn State
-400509762,2013-11-29,2,204,away,TRUE,Oregon State,56,Beavers,Oregon State Beavers,Oregon St
-400509279,2013-11-29,2,2378,home,TRUE,UMBC,48,Retrievers,UMBC Retrievers,UMBC
-400509279,2013-11-29,2,2520,away,TRUE,Rider,60,Broncs,Rider Broncs,Rider
-400508710,2013-11-29,2,2640,home,TRUE,Texas Southern,59,Tigers,Texas Southern Tigers,Texas Southern
-400508710,2013-11-29,2,120,away,TRUE,Maryland,100,Terrapins,Maryland Terrapins,Maryland
-400503686,2013-11-29,2,2752,home,TRUE,Xavier,64,Musketeers,Xavier Musketeers,Xavier
-400503686,2013-11-29,2,2305,away,TRUE,Kansas,59,Jayhawks,Kansas Jayhawks,Kansas
-400509917,2013-11-29,2,2032,home,TRUE,Arkansas State,54,Red Wolves,Arkansas State Red Wolves,Arkansas St
-400509917,2013-11-29,2,356,away,TRUE,Illinois,70,Fighting Illini,Illinois Fighting Illini,Illinois
-400509080,2013-11-29,2,2737,home,TRUE,Winthrop,74,Eagles,Winthrop Eagles,Winthrop
-400509080,2013-11-29,2,2630,away,TRUE,UT Martin,79,Skyhawks,UT Martin Skyhawks,UT Martin
-400505156,2013-11-29,2,149,home,TRUE,Montana,53,Lady Griz,Montana Lady Griz,Montana
-400505156,2013-11-29,2,2449,away,TRUE,North Dakota State,70,Bison,North Dakota State Bison,N Dakota St
-400509437,2013-11-29,2,2550,home,FALSE,Seton Hall,51,Pirates,Seton Hall Pirates,Seton Hall
-400509437,2013-11-29,2,2542,away,FALSE,Savannah State,42,Tigers,Savannah State Tigers,Savannah St
-400508704,2013-11-29,2,59,home,TRUE,Georgia Tech,85,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
-400508704,2013-11-29,2,253,away,TRUE,Southern Utah,60,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
-400508355,2013-11-29,2,61,home,TRUE,Georgia,80,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
-400508355,2013-11-29,2,45,away,TRUE,George Washington,60,Revolutionaries,George Washington Revolutionaries,G Washington
-400504755,2013-11-29,2,5,home,TRUE,UAB,79,Blazers,UAB Blazers,UAB
-400504755,2013-11-29,2,2197,away,TRUE,Eastern Illinois,46,Panthers,Eastern Illinois Panthers,E Illinois
-400509280,2013-11-29,2,311,home,FALSE,Maine,86,Black Bears,Maine Black Bears,Maine
-400509280,2013-11-29,2,113,away,FALSE,Massachusetts,56,Minutewomen,Massachusetts Minutewomen,UMass
-400508357,2013-11-29,2,238,home,FALSE,Vanderbilt,88,Commodores,Vanderbilt Commodores,Vanderbilt
-400508357,2013-11-29,2,2210,away,FALSE,Elon,66,Phoenix,Elon Phoenix,Elon
-400508354,2013-11-29,2,2608,home,FALSE,Saint Mary's,86,Gaels,Saint Mary's Gaels,Saint Mary's
-400508354,2013-11-29,2,333,away,FALSE,Alabama,76,Crimson Tide,Alabama Crimson Tide,Alabama
-400505157,2013-11-29,2,151,home,FALSE,East Carolina,71,Pirates,East Carolina Pirates,East Carolina
-400505157,2013-11-29,2,85,away,FALSE,IU Indianapolis,51,Jaguars,IU Indianapolis Jaguars,IU Indy
-400509592,2013-11-29,2,68,home,FALSE,Boise State,72,Broncos,Boise State Broncos,Boise St
-400509592,2013-11-29,2,304,away,FALSE,Idaho State,70,Bengals,Idaho State Bengals,Idaho St
-400504753,2013-11-29,2,269,home,TRUE,Marquette,84,Golden Eagles,Marquette Golden Eagles,Marquette
-400504753,2013-11-29,2,2635,away,TRUE,Tennessee Tech,64,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
-400519982,2013-11-29,2,2306,home,TRUE,Kansas State,49,Wildcats,Kansas State Wildcats,Kansas St
-400519982,2013-11-29,2,258,away,TRUE,Virginia,46,Cavaliers,Virginia Cavaliers,Virginia
-400512075,2013-11-29,2,2229,home,FALSE,Florida International,65,Panthers,Florida International Panthers,FIU
-400512075,2013-11-29,2,2674,away,FALSE,Valparaiso,47,Beacons,Valparaiso Beacons,Valparaiso
-400511201,2013-11-29,2,2351,home,FALSE,Loyola Marymount,60,Lions,Loyola Marymount Lions,LMU
-400511201,2013-11-29,2,300,away,FALSE,UC Irvine,63,Anteaters,UC Irvine Anteaters,UC Irvine
-400510743,2013-11-29,2,2572,home,FALSE,Southern Miss,76,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
-400510743,2013-11-29,2,2400,away,FALSE,Mississippi Valley State,61,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
-400510108,2013-11-29,2,2426,home,FALSE,Navy,81,Midshipmen,Navy Midshipmen,Navy
-400510108,2013-11-29,2,225,away,FALSE,Brown,61,Bears,Brown Bears,Brown
-400507813,2013-11-29,2,344,home,TRUE,Mississippi State,71,Bulldogs,Mississippi State Bulldogs,Mississippi St
-400507813,2013-11-29,2,2253,away,TRUE,Grand Canyon,62,Lopes,Grand Canyon Lopes,Grand Canyon
-400507439,2013-11-29,2,2704,home,FALSE,West Texas A&M,71,Buffaloes,West Texas A&M Buffaloes,West Texas A&M
-400507439,2013-11-29,2,2916,away,FALSE,Incarnate Word,51,Cardinals,Incarnate Word Cardinals,Incarnate Word
-400503687,2013-11-29,2,251,home,TRUE,Texas,69,Longhorns,Texas Longhorns,Texas
-400503687,2013-11-29,2,245,away,TRUE,Texas A&M,58,Aggies,Texas A&M Aggies,Texas A&M
-400508711,2013-11-29,2,2294,home,TRUE,Iowa,78,Hawkeyes,Iowa Hawkeyes,Iowa
-400508711,2013-11-29,2,103,away,TRUE,Boston College,68,Eagles,Boston College Eagles,Boston College
-400512121,2013-11-29,2,242,home,TRUE,Rice,57,Owls,Rice Owls,Rice
-400512121,2013-11-29,2,2535,away,TRUE,Samford,52,Bulldogs,Samford Bulldogs,Samford
-400511069,2013-11-29,2,2729,home,TRUE,William & Mary,44,Tribe,William & Mary Tribe,William & Mary
-400511069,2013-11-29,2,2739,away,TRUE,Green Bay,90,Phoenix,Green Bay Phoenix,Green Bay
-400507811,2013-11-29,2,292,home,TRUE,UT Rio Grande Valley,50,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
-400507811,2013-11-29,2,2450,away,TRUE,Norfolk State,36,Spartans,Norfolk State Spartans,Norfolk St
-400504976,2013-11-29,2,52,home,FALSE,Florida State,79,Seminoles,Florida State Seminoles,Florida St
-400504976,2013-11-29,2,56,away,FALSE,Stetson,49,Hatters,Stetson Hatters,Stetson
-400504975,2013-11-29,2,2193,home,FALSE,East Tennessee State,82,Bucs,East Tennessee State Bucs,ETSU
-400504975,2013-11-29,2,2010,away,FALSE,Alabama A&M,65,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
-400504752,2013-11-29,2,8,home,TRUE,Arkansas,88,Razorbacks,Arkansas Razorbacks,Arkansas
-400504752,2013-11-29,2,2546,away,TRUE,Southeast Missouri State,37,Redhawks,Southeast Missouri State Redhawks,SE Missouri
-400510593,2013-11-29,2,135,home,TRUE,Minnesota,63,Golden Gophers,Minnesota Golden Gophers,Minnesota
-400510593,2013-11-29,2,236,away,TRUE,Chattanooga,62,Mocs,Chattanooga Mocs,Chattanooga
-400507438,2013-11-29,2,2348,home,FALSE,Louisiana Tech,69,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
-400507438,2013-11-29,2,2443,away,FALSE,New Orleans,39,Privateers,New Orleans Privateers,New Orleans
-400504977,2013-11-29,2,275,home,TRUE,Wisconsin,77,Badgers,Wisconsin Badgers,Wisconsin
-400504977,2013-11-29,2,2382,away,TRUE,Mercer,72,Bears,Mercer Bears,Mercer
-400519983,2013-11-29,2,2567,home,TRUE,SMU,47,Mustangs,SMU Mustangs,SMU
-400519983,2013-11-29,2,2633,away,TRUE,Tennessee,87,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
-400514668,2013-11-29,2,301,home,FALSE,San Diego,86,Toreros,San Diego Toreros,San Diego
-400514668,2013-11-29,2,2812,away,FALSE,Hope,65,Flying Dutchmen,Hope Flying Dutchmen,Hope
-400511529,2013-11-29,2,328,home,TRUE,Utah State,88,Aggies,Utah State Aggies,Utah State
-400511529,2013-11-29,2,2261,away,TRUE,Hampton,98,Lady Pirates,Hampton Lady Pirates,Hampton
-400509439,2013-11-29,2,222,home,TRUE,Villanova,79,Wildcats,Villanova Wildcats,Villanova
-400509439,2013-11-29,2,147,away,TRUE,Montana State,55,Bobcats,Montana State Bobcats,Montana St
-400509438,2013-11-29,2,254,home,TRUE,Utah,54,Utes,Utah Utes,Utah
-400509438,2013-11-29,2,2086,away,TRUE,Butler,66,Bulldogs,Butler Bulldogs,Butler
-400507810,2013-11-29,2,2440,home,FALSE,Nevada,77,Wolf Pack,Nevada Wolf Pack,Nevada
-400507810,2013-11-29,2,70,away,FALSE,Idaho,88,Vandals,Idaho Vandals,Idaho
-400505825,2013-11-29,2,302,home,TRUE,UC Davis,67,Aggies,UC Davis Aggies,UC Davis
-400505825,2013-11-29,2,2539,away,TRUE,San Francisco,69,Dons,San Francisco Dons,San Francisco
-400505304,2013-11-29,2,172,home,TRUE,Cornell,59,Big Red,Cornell Big Red,Cornell
-400505304,2013-11-29,2,2181,away,TRUE,Drake,49,Bulldogs,Drake Bulldogs,Drake
-400508705,2013-11-29,2,235,home,TRUE,Memphis,58,Tigers,Memphis Tigers,Memphis
-400508705,2013-11-29,2,183,away,TRUE,Syracuse,77,Orange,Syracuse Orange,Syracuse
-400511068,2013-11-29,2,26,home,TRUE,UCLA,67,Bruins,UCLA Bruins,UCLA
-400511068,2013-11-29,2,256,away,TRUE,James Madison,77,Dukes,James Madison Dukes,James Madison
-400504756,2013-11-29,2,2198,home,TRUE,Eastern Kentucky,58,Colonels,Eastern Kentucky Colonels,E Kentucky
-400504756,2013-11-29,2,50,away,TRUE,Florida A&M,64,Rattlers,Florida A&M Rattlers,Florida A&M
-400511067,2013-11-29,2,30,home,TRUE,USC,85,Trojans,USC Trojans,USC
-400511067,2013-11-29,2,350,away,TRUE,UNC Wilmington,59,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
-400509281,2013-11-29,2,167,home,FALSE,New Mexico,53,Lobos,New Mexico Lobos,New Mexico
-400509281,2013-11-29,2,2066,away,FALSE,Binghamton,58,Bearcats,Binghamton Bearcats,Binghamton
-400505305,2013-11-29,2,2636,home,FALSE,UTSA,63,Roadrunners,UTSA Roadrunners,UTSA
-400505305,2013-11-29,2,2460,away,FALSE,Northern Iowa,55,Panthers,Northern Iowa Panthers,Northern Iowa
-400509763,2013-11-29,2,38,home,FALSE,Colorado,94,Buffaloes,Colorado Buffaloes,Colorado
-400509763,2013-11-29,2,6,away,FALSE,South Alabama,61,Jaguars,South Alabama Jaguars,South Alabama
-400511244,2013-11-29,2,2501,home,FALSE,Portland,58,Pilots,Portland Pilots,Portland
-400511244,2013-11-29,2,171,away,FALSE,Columbia,42,Lions,Columbia Lions,Columbia
-400507812,2013-11-29,2,2547,home,FALSE,Seattle U,84,Redhawks,Seattle U Redhawks,Seattle U
-400507812,2013-11-29,2,324,away,FALSE,Coastal Carolina,53,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
-400505826,2013-11-29,2,13,home,FALSE,Cal Poly,84,Mustangs,Cal Poly Mustangs,Cal Poly
-400505826,2013-11-29,2,2006,away,FALSE,Akron,74,Zips,Akron Zips,Akron
-400505820,2013-11-29,3,62,home,FALSE,Hawai'i,60,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
-400505820,2013-11-29,3,36,away,FALSE,Colorado State,65,Rams,Colorado State Rams,Colorado St
-400508706,2013-11-29,2,25,home,TRUE,California,84,Golden Bears,California Golden Bears,California
-400508706,2013-11-29,2,154,away,TRUE,Wake Forest,61,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
-400505821,2013-11-29,2,2463,home,FALSE,Cal State Northridge,61,Matadors,Cal State Northridge Matadors,CSU Northridge
-400505821,2013-11-29,2,2541,away,FALSE,Santa Clara,66,Broncos,Santa Clara Broncos,Santa Clara
-400503688,2013-11-29,2,331,home,TRUE,Eastern Washington,60,Eagles,Eastern Washington Eagles,E Washington
-400503688,2013-11-29,2,66,away,TRUE,Iowa State,88,Cyclones,Iowa State Cyclones,Iowa State
+game_id,season,game_type,date,periods,team_id,home_away,neutral_site,location,score,name,display_name,short_display_name
+400503685,2014,regular-season,2013-11-29,2,130,home,TRUE,Michigan,82,Wolverines,Michigan Wolverines,Michigan
+400503685,2014,regular-season,2013-11-29,2,2641,away,TRUE,Texas Tech,71,Lady Raiders,Texas Tech Lady Raiders,Texas Tech
+400510641,2014,regular-season,2013-11-29,2,2226,home,FALSE,Florida Atlantic,82,Owls,Florida Atlantic Owls,FAU
+400510641,2014,regular-season,2013-11-29,2,290,away,FALSE,Georgia Southern,58,Eagles,Georgia Southern Eagles,GA Southern
+400507441,2014,regular-season,2013-11-29,2,2393,home,TRUE,Middle Tennessee,88,Blue Raiders,Middle Tennessee Blue Raiders,MTSU
+400507441,2014,regular-season,2013-11-29,2,2545,away,TRUE,SE Louisiana,71,Lady Lions,SE Louisiana Lady Lions,SE Louisiana
+400511772,2014,regular-season,2013-11-29,2,195,home,TRUE,Ohio,67,Bobcats,Ohio Bobcats,Ohio
+400511772,2014,regular-season,2013-11-29,2,82,away,TRUE,UIC,76,Flames,UIC Flames,UIC
+400508708,2014,regular-season,2013-11-29,2,2390,home,FALSE,Miami,78,Hurricanes,Miami Hurricanes,Miami
+400508708,2014,regular-season,2013-11-29,2,2597,away,FALSE,St. Francis Brooklyn,57,Terriers,St. Francis Brooklyn Terriers,St Francis BK
+400508707,2014,regular-season,2013-11-29,3,153,home,TRUE,North Carolina,81,Tar Heels,North Carolina Tar Heels,North Carolina
+400508707,2014,regular-season,2013-11-29,3,9,away,TRUE,Arizona State,94,Sun Devils,Arizona State Sun Devils,Arizona St
+400508352,2014,regular-season,2013-11-29,2,164,home,TRUE,Rutgers,65,Scarlet Knights,Rutgers Scarlet Knights,Rutgers
+400508352,2014,regular-season,2013-11-29,2,99,away,TRUE,LSU,69,Tigers,LSU Tigers,LSU
+400507809,2014,regular-season,2013-11-29,2,166,home,FALSE,New Mexico State,77,Aggies,New Mexico State Aggies,New Mexico St
+400507809,2014,regular-season,2013-11-29,2,2459,away,FALSE,Northern Illinois,73,Huskies,Northern Illinois Huskies,N Illinois
+400505303,2014,regular-season,2013-11-29,2,57,home,TRUE,Florida,64,Gators,Florida Gators,Florida
+400505303,2014,regular-season,2013-11-29,2,2287,away,TRUE,Illinois State,68,Redbirds,Illinois State Redbirds,Illinois St
+400508709,2014,regular-season,2013-11-29,2,2117,home,TRUE,Central Michigan,64,Chippewas,Central Michigan Chippewas,C Michigan
+400508709,2014,regular-season,2013-11-29,2,150,away,TRUE,Duke,97,Blue Devils,Duke Blue Devils,Duke
+400504978,2014,regular-season,2013-11-29,2,2523,home,FALSE,Robert Morris,62,Colonials,Robert Morris Colonials,Robert Morris
+400504978,2014,regular-season,2013-11-29,2,94,away,FALSE,Northern Kentucky,71,Norse,Northern Kentucky Norse,N Kentucky
+400509278,2014,regular-season,2013-11-29,2,2619,home,FALSE,Stony Brook,67,Seawolves,Stony Brook Seawolves,Stony Brook
+400509278,2014,regular-season,2013-11-29,2,349,away,FALSE,Army,75,Black Knights,Army Black Knights,Army
+400509079,2014,regular-season,2013-11-29,2,2335,home,TRUE,Liberty,66,Flames,Liberty Flames,Liberty
+400509079,2014,regular-season,2013-11-29,2,278,away,TRUE,Fresno State,70,Bulldogs,Fresno State Bulldogs,Fresno St
+400507440,2014,regular-season,2013-11-29,2,2341,home,FALSE,LIU Brooklyn,57,Blackbirds,LIU Brooklyn Blackbirds,LIU Brooklyn
+400507440,2014,regular-season,2013-11-29,2,2377,away,FALSE,McNeese,71,Cowgirls,McNeese Cowgirls,McNeese
+400507436,2014,regular-season,2013-11-29,2,140,home,FALSE,Kansas City,76,Roos,Kansas City Roos,Kansas City
+400507436,2014,regular-season,2013-11-29,2,2534,away,FALSE,Sam Houston,78,Bearkats,Sam Houston Bearkats,Sam Houston
+400504754,2014,regular-season,2013-11-29,2,2247,home,FALSE,Georgia State,65,Panthers,Georgia State Panthers,Georgia St
+400504754,2014,regular-season,2013-11-29,2,55,away,FALSE,Jacksonville State,63,Gamecocks,Jacksonville State Gamecocks,Jax State
+400512093,2014,regular-season,2013-11-29,2,152,home,TRUE,NC State,90,Wolfpack,NC State Wolfpack,NC State
+400512093,2014,regular-season,2013-11-29,2,2750,away,TRUE,Wright State,99,Raiders,Wright State Raiders,Wright St
+400511736,2014,regular-season,2013-11-29,2,2174,home,TRUE,Detroit Mercy,59,Titans,Detroit Mercy Titans,Detroit Mercy
+400511736,2014,regular-season,2013-11-29,2,227,away,TRUE,Rhode Island,70,Rams,Rhode Island Rams,Rhode Island
+400505158,2014,regular-season,2013-11-29,2,2571,home,TRUE,South Dakota State,59,Jackrabbits,South Dakota State Jackrabbits,S Dakota St
+400505158,2014,regular-season,2013-11-29,2,526,away,TRUE,Florida Gulf Coast,84,Eagles,Florida Gulf Coast Eagles,FGCU
+400512469,2014,regular-season,2013-11-29,2,2649,home,TRUE,Toledo,59,Rockets,Toledo Rockets,Toledo
+400512469,2014,regular-season,2013-11-29,2,2239,away,TRUE,Cal State Fullerton,58,Titans,Cal State Fullerton Titans,Fullerton
+400508353,2014,regular-season,2013-11-29,2,2050,home,TRUE,Ball State,51,Cardinals,Ball State Cardinals,Ball State
+400508353,2014,regular-season,2013-11-29,2,2,away,TRUE,Auburn,67,Tigers,Auburn Tigers,Auburn
+400507437,2014,regular-season,2013-11-29,2,270,home,TRUE,Milwaukee,63,Panthers,Milwaukee Panthers,Milwaukee
+400507437,2014,regular-season,2013-11-29,2,2320,away,TRUE,Lamar,75,Cardinals,Lamar Cardinals,Lamar
+400505302,2014,regular-season,2013-11-29,2,2350,home,FALSE,Loyola Chicago,55,Ramblers,Loyola Chicago Ramblers,Loyola Chicago
+400505302,2014,regular-season,2013-11-29,2,322,away,FALSE,Lafayette,66,Leopards,Lafayette Leopards,Lafayette
+400508356,2014,regular-season,2013-11-29,2,142,home,TRUE,Missouri,68,Tigers,Missouri Tigers,Missouri
+400508356,2014,regular-season,2013-11-29,2,42,away,TRUE,Hartford,45,Hawks,Hartford Hawks,Hartford
+400509762,2014,regular-season,2013-11-29,2,213,home,TRUE,Penn State,61,Lady Lions,Penn State Lady Lions,Penn State
+400509762,2014,regular-season,2013-11-29,2,204,away,TRUE,Oregon State,56,Beavers,Oregon State Beavers,Oregon St
+400509279,2014,regular-season,2013-11-29,2,2378,home,TRUE,UMBC,48,Retrievers,UMBC Retrievers,UMBC
+400509279,2014,regular-season,2013-11-29,2,2520,away,TRUE,Rider,60,Broncs,Rider Broncs,Rider
+400508710,2014,regular-season,2013-11-29,2,2640,home,TRUE,Texas Southern,59,Tigers,Texas Southern Tigers,Texas Southern
+400508710,2014,regular-season,2013-11-29,2,120,away,TRUE,Maryland,100,Terrapins,Maryland Terrapins,Maryland
+400503686,2014,regular-season,2013-11-29,2,2752,home,TRUE,Xavier,64,Musketeers,Xavier Musketeers,Xavier
+400503686,2014,regular-season,2013-11-29,2,2305,away,TRUE,Kansas,59,Jayhawks,Kansas Jayhawks,Kansas
+400509917,2014,regular-season,2013-11-29,2,2032,home,TRUE,Arkansas State,54,Red Wolves,Arkansas State Red Wolves,Arkansas St
+400509917,2014,regular-season,2013-11-29,2,356,away,TRUE,Illinois,70,Fighting Illini,Illinois Fighting Illini,Illinois
+400509080,2014,regular-season,2013-11-29,2,2737,home,TRUE,Winthrop,74,Eagles,Winthrop Eagles,Winthrop
+400509080,2014,regular-season,2013-11-29,2,2630,away,TRUE,UT Martin,79,Skyhawks,UT Martin Skyhawks,UT Martin
+400505156,2014,regular-season,2013-11-29,2,149,home,TRUE,Montana,53,Lady Griz,Montana Lady Griz,Montana
+400505156,2014,regular-season,2013-11-29,2,2449,away,TRUE,North Dakota State,70,Bison,North Dakota State Bison,N Dakota St
+400509437,2014,regular-season,2013-11-29,2,2550,home,FALSE,Seton Hall,51,Pirates,Seton Hall Pirates,Seton Hall
+400509437,2014,regular-season,2013-11-29,2,2542,away,FALSE,Savannah State,42,Tigers,Savannah State Tigers,Savannah St
+400508704,2014,regular-season,2013-11-29,2,59,home,TRUE,Georgia Tech,85,Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Tech
+400508704,2014,regular-season,2013-11-29,2,253,away,TRUE,Southern Utah,60,Thunderbirds,Southern Utah Thunderbirds,Southern Utah
+400508355,2014,regular-season,2013-11-29,2,61,home,TRUE,Georgia,80,Lady Bulldogs,Georgia Lady Bulldogs,Georgia
+400508355,2014,regular-season,2013-11-29,2,45,away,TRUE,George Washington,60,Revolutionaries,George Washington Revolutionaries,G Washington
+400504755,2014,regular-season,2013-11-29,2,5,home,TRUE,UAB,79,Blazers,UAB Blazers,UAB
+400504755,2014,regular-season,2013-11-29,2,2197,away,TRUE,Eastern Illinois,46,Panthers,Eastern Illinois Panthers,E Illinois
+400509280,2014,regular-season,2013-11-29,2,311,home,FALSE,Maine,86,Black Bears,Maine Black Bears,Maine
+400509280,2014,regular-season,2013-11-29,2,113,away,FALSE,Massachusetts,56,Minutewomen,Massachusetts Minutewomen,UMass
+400508357,2014,regular-season,2013-11-29,2,238,home,FALSE,Vanderbilt,88,Commodores,Vanderbilt Commodores,Vanderbilt
+400508357,2014,regular-season,2013-11-29,2,2210,away,FALSE,Elon,66,Phoenix,Elon Phoenix,Elon
+400508354,2014,regular-season,2013-11-29,2,2608,home,FALSE,Saint Mary's,86,Gaels,Saint Mary's Gaels,Saint Mary's
+400508354,2014,regular-season,2013-11-29,2,333,away,FALSE,Alabama,76,Crimson Tide,Alabama Crimson Tide,Alabama
+400505157,2014,regular-season,2013-11-29,2,151,home,FALSE,East Carolina,71,Pirates,East Carolina Pirates,East Carolina
+400505157,2014,regular-season,2013-11-29,2,85,away,FALSE,IU Indianapolis,51,Jaguars,IU Indianapolis Jaguars,IU Indy
+400509592,2014,regular-season,2013-11-29,2,68,home,FALSE,Boise State,72,Broncos,Boise State Broncos,Boise St
+400509592,2014,regular-season,2013-11-29,2,304,away,FALSE,Idaho State,70,Bengals,Idaho State Bengals,Idaho St
+400504753,2014,regular-season,2013-11-29,2,269,home,TRUE,Marquette,84,Golden Eagles,Marquette Golden Eagles,Marquette
+400504753,2014,regular-season,2013-11-29,2,2635,away,TRUE,Tennessee Tech,64,Golden Eagles,Tennessee Tech Golden Eagles,Tennessee Tech
+400519982,2014,regular-season,2013-11-29,2,2306,home,TRUE,Kansas State,49,Wildcats,Kansas State Wildcats,Kansas St
+400519982,2014,regular-season,2013-11-29,2,258,away,TRUE,Virginia,46,Cavaliers,Virginia Cavaliers,Virginia
+400512075,2014,regular-season,2013-11-29,2,2229,home,FALSE,Florida International,65,Panthers,Florida International Panthers,FIU
+400512075,2014,regular-season,2013-11-29,2,2674,away,FALSE,Valparaiso,47,Beacons,Valparaiso Beacons,Valparaiso
+400511201,2014,regular-season,2013-11-29,2,2351,home,FALSE,Loyola Marymount,60,Lions,Loyola Marymount Lions,LMU
+400511201,2014,regular-season,2013-11-29,2,300,away,FALSE,UC Irvine,63,Anteaters,UC Irvine Anteaters,UC Irvine
+400510743,2014,regular-season,2013-11-29,2,2572,home,FALSE,Southern Miss,76,Lady Eagles,Southern Miss Lady Eagles,Southern Miss
+400510743,2014,regular-season,2013-11-29,2,2400,away,FALSE,Mississippi Valley State,61,Devilettes,Mississippi Valley State Devilettes,Miss Valley St
+400510108,2014,regular-season,2013-11-29,2,2426,home,FALSE,Navy,81,Midshipmen,Navy Midshipmen,Navy
+400510108,2014,regular-season,2013-11-29,2,225,away,FALSE,Brown,61,Bears,Brown Bears,Brown
+400507813,2014,regular-season,2013-11-29,2,344,home,TRUE,Mississippi State,71,Bulldogs,Mississippi State Bulldogs,Mississippi St
+400507813,2014,regular-season,2013-11-29,2,2253,away,TRUE,Grand Canyon,62,Lopes,Grand Canyon Lopes,Grand Canyon
+400507439,2014,regular-season,2013-11-29,2,2704,home,FALSE,West Texas A&M,71,Buffaloes,West Texas A&M Buffaloes,West Texas A&M
+400507439,2014,regular-season,2013-11-29,2,2916,away,FALSE,Incarnate Word,51,Cardinals,Incarnate Word Cardinals,Incarnate Word
+400503687,2014,regular-season,2013-11-29,2,251,home,TRUE,Texas,69,Longhorns,Texas Longhorns,Texas
+400503687,2014,regular-season,2013-11-29,2,245,away,TRUE,Texas A&M,58,Aggies,Texas A&M Aggies,Texas A&M
+400508711,2014,regular-season,2013-11-29,2,2294,home,TRUE,Iowa,78,Hawkeyes,Iowa Hawkeyes,Iowa
+400508711,2014,regular-season,2013-11-29,2,103,away,TRUE,Boston College,68,Eagles,Boston College Eagles,Boston College
+400512121,2014,regular-season,2013-11-29,2,242,home,TRUE,Rice,57,Owls,Rice Owls,Rice
+400512121,2014,regular-season,2013-11-29,2,2535,away,TRUE,Samford,52,Bulldogs,Samford Bulldogs,Samford
+400511069,2014,regular-season,2013-11-29,2,2729,home,TRUE,William & Mary,44,Tribe,William & Mary Tribe,William & Mary
+400511069,2014,regular-season,2013-11-29,2,2739,away,TRUE,Green Bay,90,Phoenix,Green Bay Phoenix,Green Bay
+400507811,2014,regular-season,2013-11-29,2,292,home,TRUE,UT Rio Grande Valley,50,Vaqueros,UT Rio Grande Valley Vaqueros,UT Rio Grande
+400507811,2014,regular-season,2013-11-29,2,2450,away,TRUE,Norfolk State,36,Spartans,Norfolk State Spartans,Norfolk St
+400504976,2014,regular-season,2013-11-29,2,52,home,FALSE,Florida State,79,Seminoles,Florida State Seminoles,Florida St
+400504976,2014,regular-season,2013-11-29,2,56,away,FALSE,Stetson,49,Hatters,Stetson Hatters,Stetson
+400504975,2014,regular-season,2013-11-29,2,2193,home,FALSE,East Tennessee State,82,Bucs,East Tennessee State Bucs,ETSU
+400504975,2014,regular-season,2013-11-29,2,2010,away,FALSE,Alabama A&M,65,Bulldogs,Alabama A&M Bulldogs,Alabama A&M
+400504752,2014,regular-season,2013-11-29,2,8,home,TRUE,Arkansas,88,Razorbacks,Arkansas Razorbacks,Arkansas
+400504752,2014,regular-season,2013-11-29,2,2546,away,TRUE,Southeast Missouri State,37,Redhawks,Southeast Missouri State Redhawks,SE Missouri
+400510593,2014,regular-season,2013-11-29,2,135,home,TRUE,Minnesota,63,Golden Gophers,Minnesota Golden Gophers,Minnesota
+400510593,2014,regular-season,2013-11-29,2,236,away,TRUE,Chattanooga,62,Mocs,Chattanooga Mocs,Chattanooga
+400507438,2014,regular-season,2013-11-29,2,2348,home,FALSE,Louisiana Tech,69,Lady Techsters,Louisiana Tech Lady Techsters,Louisiana Tech
+400507438,2014,regular-season,2013-11-29,2,2443,away,FALSE,New Orleans,39,Privateers,New Orleans Privateers,New Orleans
+400504977,2014,regular-season,2013-11-29,2,275,home,TRUE,Wisconsin,77,Badgers,Wisconsin Badgers,Wisconsin
+400504977,2014,regular-season,2013-11-29,2,2382,away,TRUE,Mercer,72,Bears,Mercer Bears,Mercer
+400519983,2014,regular-season,2013-11-29,2,2567,home,TRUE,SMU,47,Mustangs,SMU Mustangs,SMU
+400519983,2014,regular-season,2013-11-29,2,2633,away,TRUE,Tennessee,87,Lady Volunteers,Tennessee Lady Volunteers,Tennessee
+400514668,2014,regular-season,2013-11-29,2,301,home,FALSE,San Diego,86,Toreros,San Diego Toreros,San Diego
+400514668,2014,regular-season,2013-11-29,2,2812,away,FALSE,Hope,65,Flying Dutchmen,Hope Flying Dutchmen,Hope
+400511529,2014,regular-season,2013-11-29,2,328,home,TRUE,Utah State,88,Aggies,Utah State Aggies,Utah State
+400511529,2014,regular-season,2013-11-29,2,2261,away,TRUE,Hampton,98,Lady Pirates,Hampton Lady Pirates,Hampton
+400509439,2014,regular-season,2013-11-29,2,222,home,TRUE,Villanova,79,Wildcats,Villanova Wildcats,Villanova
+400509439,2014,regular-season,2013-11-29,2,147,away,TRUE,Montana State,55,Bobcats,Montana State Bobcats,Montana St
+400509438,2014,regular-season,2013-11-29,2,254,home,TRUE,Utah,54,Utes,Utah Utes,Utah
+400509438,2014,regular-season,2013-11-29,2,2086,away,TRUE,Butler,66,Bulldogs,Butler Bulldogs,Butler
+400507810,2014,regular-season,2013-11-29,2,2440,home,FALSE,Nevada,77,Wolf Pack,Nevada Wolf Pack,Nevada
+400507810,2014,regular-season,2013-11-29,2,70,away,FALSE,Idaho,88,Vandals,Idaho Vandals,Idaho
+400505825,2014,regular-season,2013-11-29,2,302,home,TRUE,UC Davis,67,Aggies,UC Davis Aggies,UC Davis
+400505825,2014,regular-season,2013-11-29,2,2539,away,TRUE,San Francisco,69,Dons,San Francisco Dons,San Francisco
+400505304,2014,regular-season,2013-11-29,2,172,home,TRUE,Cornell,59,Big Red,Cornell Big Red,Cornell
+400505304,2014,regular-season,2013-11-29,2,2181,away,TRUE,Drake,49,Bulldogs,Drake Bulldogs,Drake
+400508705,2014,regular-season,2013-11-29,2,235,home,TRUE,Memphis,58,Tigers,Memphis Tigers,Memphis
+400508705,2014,regular-season,2013-11-29,2,183,away,TRUE,Syracuse,77,Orange,Syracuse Orange,Syracuse
+400511068,2014,regular-season,2013-11-29,2,26,home,TRUE,UCLA,67,Bruins,UCLA Bruins,UCLA
+400511068,2014,regular-season,2013-11-29,2,256,away,TRUE,James Madison,77,Dukes,James Madison Dukes,James Madison
+400504756,2014,regular-season,2013-11-29,2,2198,home,TRUE,Eastern Kentucky,58,Colonels,Eastern Kentucky Colonels,E Kentucky
+400504756,2014,regular-season,2013-11-29,2,50,away,TRUE,Florida A&M,64,Rattlers,Florida A&M Rattlers,Florida A&M
+400511067,2014,regular-season,2013-11-29,2,30,home,TRUE,USC,85,Trojans,USC Trojans,USC
+400511067,2014,regular-season,2013-11-29,2,350,away,TRUE,UNC Wilmington,59,Seahawks,UNC Wilmington Seahawks,UNC Wilmington
+400509281,2014,regular-season,2013-11-29,2,167,home,FALSE,New Mexico,53,Lobos,New Mexico Lobos,New Mexico
+400509281,2014,regular-season,2013-11-29,2,2066,away,FALSE,Binghamton,58,Bearcats,Binghamton Bearcats,Binghamton
+400505305,2014,regular-season,2013-11-29,2,2636,home,FALSE,UTSA,63,Roadrunners,UTSA Roadrunners,UTSA
+400505305,2014,regular-season,2013-11-29,2,2460,away,FALSE,Northern Iowa,55,Panthers,Northern Iowa Panthers,Northern Iowa
+400509763,2014,regular-season,2013-11-29,2,38,home,FALSE,Colorado,94,Buffaloes,Colorado Buffaloes,Colorado
+400509763,2014,regular-season,2013-11-29,2,6,away,FALSE,South Alabama,61,Jaguars,South Alabama Jaguars,South Alabama
+400511244,2014,regular-season,2013-11-29,2,2501,home,FALSE,Portland,58,Pilots,Portland Pilots,Portland
+400511244,2014,regular-season,2013-11-29,2,171,away,FALSE,Columbia,42,Lions,Columbia Lions,Columbia
+400507812,2014,regular-season,2013-11-29,2,2547,home,FALSE,Seattle U,84,Redhawks,Seattle U Redhawks,Seattle U
+400507812,2014,regular-season,2013-11-29,2,324,away,FALSE,Coastal Carolina,53,Chanticleers,Coastal Carolina Chanticleers,Coastal Car
+400505826,2014,regular-season,2013-11-29,2,13,home,FALSE,Cal Poly,84,Mustangs,Cal Poly Mustangs,Cal Poly
+400505826,2014,regular-season,2013-11-29,2,2006,away,FALSE,Akron,74,Zips,Akron Zips,Akron
+400505820,2014,regular-season,2013-11-29,3,62,home,FALSE,Hawai'i,60,Rainbow Wahine,Hawai'i Rainbow Wahine,Hawai'i
+400505820,2014,regular-season,2013-11-29,3,36,away,FALSE,Colorado State,65,Rams,Colorado State Rams,Colorado St
+400508706,2014,regular-season,2013-11-29,2,25,home,TRUE,California,84,Golden Bears,California Golden Bears,California
+400508706,2014,regular-season,2013-11-29,2,154,away,TRUE,Wake Forest,61,Demon Deacons,Wake Forest Demon Deacons,Wake Forest
+400505821,2014,regular-season,2013-11-29,2,2463,home,FALSE,Cal State Northridge,61,Matadors,Cal State Northridge Matadors,CSU Northridge
+400505821,2014,regular-season,2013-11-29,2,2541,away,FALSE,Santa Clara,66,Broncos,Santa Clara Broncos,Santa Clara
+400503688,2014,regular-season,2013-11-29,2,331,home,TRUE,Eastern Washington,60,Eagles,Eastern Washington Eagles,E Washington
+400503688,2014,regular-season,2013-11-29,2,66,away,TRUE,Iowa State,88,Cyclones,Iowa State Cyclones,Iowa State
