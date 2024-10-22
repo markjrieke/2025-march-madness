@@ -125,16 +125,16 @@ espn_api_scoreboard <- function(date_str,
   # write to disk
   season <- str_sub(date_str, 1, 4)
   
-  if (!dir.exists(paste0("data/scoreboard/", league))) {
-    dir.create(paste0("data/scoreboard/", league))
+  if (!dir.exists(paste0("data/scoreboard_raw/", league))) {
+    dir.create(paste0("data/scoreboard_raw/", league))
   }
   
-  if (!dir.exists(paste0("data/socreboard/", league, "/", season))) {
-    dir.create(paste0("data/scoreboard/", league, "/", season))
+  if (!dir.exists(paste0("data/socreboard_raw/", league, "/", season))) {
+    dir.create(paste0("data/scoreboard_raw/", league, "/", season))
   }
   
   out %>%
-    write_csv(paste0("data/scoreboard/", league, "/", season, "/", league, "-", date_str, ".csv"))
+    write_csv(paste0("data/scoreboard_raw/", league, "/", season, "/", league, "-", date_str, ".csv"))
   
 }
 
