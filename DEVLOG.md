@@ -1,5 +1,9 @@
 # DEVLOG
 
+## 2024-11-01
+
+Literally got nothing done this week. A bit too stressed out about the election. Hopefully, Kamala wins & I can go on with my merry lil project here.
+
 ## 2024-10-25
 
 This past week, I spent a good chunk of time rewriting the hoopR/wehoop interface to the ESPN basketball API. *Unfortunately*, the API itself is bjorked in un-fixable ways:
