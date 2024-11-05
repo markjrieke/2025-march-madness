@@ -50,7 +50,7 @@ scrape_teams <- function(league = "mens") {
 tibble(league = c("mens", "womens")) %>%
   mutate(data = map(league, scrape_teams)) %>%
   unnest(data) %>%
-  write_csv("data/teams/teams.csv")
+  arrow::write_parquet("data/teams/teams.parquet")
 
 
 
