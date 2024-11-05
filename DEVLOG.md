@@ -1,5 +1,11 @@
 # DEVLOG
 
+## 2024-11-08
+
+* Deleted everything
+* Scraping from ESPN's site directly
+* Adding sys.sleep so that I don't get booted from the server. This is probably not the best way to do this but whatever dawg.
+
 ## 2024-11-01
 
 Literally got nothing done this week. A bit too stressed out about the election. Hopefully, Kamala wins & I can go on with my merry lil project here.
