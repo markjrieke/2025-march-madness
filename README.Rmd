@@ -18,6 +18,7 @@ This repository contains the code for fitting a dynamic Bayesian model of NCAA t
   * away score
   * game location (home team on neutral territory shouldn't get home bonus)
   * overtime?
+  * is_postseason
 
 #### Model
 

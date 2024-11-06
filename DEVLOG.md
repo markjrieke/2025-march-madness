@@ -5,6 +5,7 @@
 * Deleted everything
 * Scraping from ESPN's site directly
 * Adding sys.sleep so that I don't get booted from the server. This is probably not the best way to do this but whatever dawg.
+* Sometimes missing data from the site (home/away)
 
 ## 2024-11-01
 

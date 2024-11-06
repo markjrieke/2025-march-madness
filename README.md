@@ -18,6 +18,7 @@ based on the results.
   - game location (home team on neutral territory shouldn’t get home
     bonus)
   - overtime?
+  - is_postseason
 
 #### Model
 
