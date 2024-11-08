@@ -10,8 +10,39 @@ library(furrr)
 scrape_game <- function(league, game_id, sleep_time = 1) {
   
   # scrape the html for the specified game
-  url <- glue::glue("https://www.espn.com/{league}-college-basketball/game/_/gameId/{game_id}")
-  html <- read_html(url)
+  continue <- TRUE
+  tryCatch(
+    expr = {
+      url <- glue::glue("https://www.espn.com/{league}-college-basketball/game/_/gameId/{game_id}")
+      html <- read_html(url)
+    },
+    error = function(e) {
+      continue <<- FALSE
+    }
+  )
+  
+  # exit if need be
+  if (!continue) {
+    
+    # add to a running list of "bad games" if the url doesn't exist.
+    cli::cli_alert_info(glue::glue("read_html() failed for {game_id}. Adding to bad-games.parquet."))
+    if (!file.exists("data/games/bad-games.parquet")) {
+      
+      tibble(game_id = game_id) %>%
+        arrow::write_parquet("data/games/bad-games.parquet")
+    
+    } else {
+      
+      arrow::read_parquet("data/games/bad-games.parquet") %>%
+        bind_rows(tibble(game_id = game_id)) %>%
+        arrow::write_parquet("data/games/bad-games.parquet")
+      
+    }
+    
+    # exit function
+    return()
+    
+  }
   
   # topline summary
   competitors <- 
