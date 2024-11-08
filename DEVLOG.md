@@ -2,11 +2,11 @@
 
 ## 2024-11-08
 
-* Deleted everything
-* Scraping from ESPN's site directly
-* Adding sys.sleep so that I don't get booted from the server. This is probably not the best way to do this but whatever dawg.
-* Sometimes missing data from the site (home/away)
-* Sometimes missing team ids (usually happens when there's a div II team)
+Kamala lost, which sucks. Gonna bury my head into work & personal projects & hope that the US doesn't descend into fascism under Trump's second term.
+
+Anyway, I've decided to just re-write the webscraping functions myself, rather than import results from another package. It's a bit more work, but I get *exactly* what I need and have a bit more agency to solve weird data problems. The team and schedule scraping isn't too bad, but the game scraping takes like a billion years to run. I have to pepper in a bunch of calls to `Sys.sleep()` calls to keep from getting booted from the site. Even still, I get booted sometimes, so I've had to rewrite the scraping functions a few times to make sure I can make incremental progress.
+
+There are still some weird data issues. Notably, some games have a score of 0-0 or 1-0 in ESPN, even though the game was actually played. For example, Iowa State vs. Iowa show weird results on [ESPN](https://www.espn.com/mens-college-basketball/game/_/gameId/230802294), but show the full score as expected [here](https://www.sports-reference.com/cbb/schools/iowa-state/men/2003-schedule.html). I suppose I'll just need to do a level of manual cleaning after-the-fact, but that's fine. 
 
 ## 2024-11-01
 
