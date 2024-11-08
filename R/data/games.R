@@ -2,6 +2,7 @@
 
 library(tidyverse)
 library(rvest)
+library(furrr)
 
 # scrape results ---------------------------------------------------------------
 
@@ -46,6 +47,8 @@ scrape_game <- function(league, game_id, sleep_time = 1) {
       loser_id = loser_elements$id,
       periods = periods
     )
+  
+  Sys.sleep(sleep_time)
   
   return(out)
   
@@ -96,12 +99,135 @@ extract_home <- function(html) {
 #' Helper function: extract a team's id from the html summary
 extract_id <- function(html, league) {
   
-  html %>%
+  slug <- 
+    html %>%
     html_elements(".ScoreCell__Truncate") %>%
     html_elements("a") %>%
-    html_attr("href") %>%
-    str_remove_all(glue::glue("/{league}-college-basketball/team/_/id/")) %>%
-    str_split_1("/") %>%
-    pluck(1)
+    html_attr("href")
+  
+  if (length(slug) == 0) {
+    
+    out <- "missing"
+    
+  } else {
+    
+    out <-
+      slug %>%
+      str_remove_all(glue::glue("/{league}-college-basketball/team/_/id/")) %>%
+      str_split_1("/") %>%
+      pluck(1)
+    
+  }
   
 }
+
+# scrape ! ---------------------------------------------------------------------
+
+seasons <- 
+  arrow::read_parquet("data/schedule/schedule.parquet") %>%
+  mutate(month = month(date),
+         year = year(date),
+         season = if_else(month >= 11, year + 1, year)) %>%
+  select(-c(month, year)) %>%
+  nest(data = -c(league, season))
+
+# scrape results
+plan(multisession, workers = 8)
+
+for (league in c("mens", "womens")) {
+  
+  for (season in 2002:2024) {
+    
+    # skip over anything that already exists
+    if (file.exists(glue::glue("data/games/{league}-{season}.parquet"))) {
+      cli::cli_alert_info("{league}-{season}.parquet already exists, skipping")
+      next
+    }
+    
+    # rename variables for filtering
+    league_int <- league
+    season_int <- season
+    
+    # break up each season into manageable "chunks"
+    chunks <- 
+      seasons %>%
+      filter(league == league_int,
+             season == season_int) %>%
+      unnest(data) %>%
+      rowid_to_column("chunk") %>%
+      mutate(chunk = ceiling(chunk/200))
+    
+    n_chunks <- max(chunks$chunk)
+    
+    for (chunk in 1:n_chunks) {
+      
+      cli::cli_h1(
+        glue::glue(
+          "{str_to_title(league)} {season - 1}-{str_sub(as.character(season), -2)}",
+          "Chunk {chunk}/{n_chunks}",
+          .sep = ": "
+        )
+      )
+      
+      # rename variables for filtering
+      chunk_int <- chunk
+      
+      # scrape game results for this chunk of games
+      game_chunk <- 
+        chunks %>%
+        filter(chunk == chunk_int) %>%
+        mutate(result = future_pmap(list(league, game_id),
+                                    ~scrape_game(..1, ..2),
+                                    .progress = TRUE)) %>%
+        unnest(result)
+      
+      # create a df for this season
+      if (chunk == 1) {
+        
+        games <- game_chunk
+        
+      } else {
+        
+        games <-
+          games %>%
+          bind_rows(game_chunk)
+        
+      }
+      
+      # give 30-s break between scraping chunks
+      cli::cli_progress_bar("Sleeping...", total = 30, clear = FALSE)
+      for (t in 1:30) {
+        Sys.sleep(1)
+        cli::cli_progress_update()
+      }
+      
+    }
+    
+    # write season-level results out
+    games %>%
+      select(-chunk) %>%
+      arrow::write_parquet(glue::glue("data/games/{league}-{season}.parquet"))
+    
+    # give 5-min break between scraping seasons
+    cli::cli_progress_bar("Sleeping...", total = 300, clear = FALSE)
+    for (t in 1:300) {
+      Sys.sleep(1)
+      cli::cli_progress_update()
+    }
+    
+  }
+  
+  # give a 10-min break between scraping leagues
+  cli::cli_progress_bar("Sleeping...", total = 600, clear = FALSE)
+  for (t in 1:600) {
+    Sys.sleep(1)
+    cli::cli_progress_update()
+  }
+  
+}
+
+plan(sequential)
+
+
+
+
