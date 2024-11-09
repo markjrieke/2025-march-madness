@@ -256,12 +256,6 @@ for (league in c("mens", "womens")) {
   
   for (season in 2002:2024) {
     
-    # # skip over anything that already exists
-    # if (file.exists(glue::glue("data/games/{league}-{season}.parquet"))) {
-    #   cli::cli_alert_info("{league}-{season}.parquet already exists, skipping")
-    #   next
-    # }
-    
     # rename variables for filtering
     league_int <- league
     season_int <- season
