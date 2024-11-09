@@ -7,19 +7,36 @@ library(furrr)
 # scrape results ---------------------------------------------------------------
 
 #' Main function for scraping game-level results
-scrape_game <- function(league, game_id, sleep_time = 1) {
+scrape_game <- function(league, game_id, sleep_time = 1, retry = 2) {
   
-  # scrape the html for the specified game
+  # build the url
+  url <- glue::glue("https://www.espn.com/{league}-college-basketball/game/_/gameId/{game_id}")
+  
+  # set conditions
   continue <- TRUE
-  tryCatch(
-    expr = {
-      url <- glue::glue("https://www.espn.com/{league}-college-basketball/game/_/gameId/{game_id}")
-      html <- read_html(url)
-    },
-    error = function(e) {
-      continue <<- FALSE
+  error_message <- NULL
+  
+  # make multiple attempts if encountering an error
+  for (n in 1:retry) {
+    
+    # try pinging the html
+    result <- try_catch(read_html(url))
+    
+    # exit if successful
+    if (!is.null(result$result)) {
+      html <- result$result
+      break
     }
-  )
+    
+    # try again or log an error
+    if (n < retry) {
+      Sys.sleep(sleep_time)
+    } else {
+      continue <- FALSE
+      error_message <- as.character(result$error)
+    }
+    
+  }
   
   # exit if need be
   if (!continue) {
@@ -28,13 +45,15 @@ scrape_game <- function(league, game_id, sleep_time = 1) {
     cli::cli_alert_info(glue::glue("read_html() failed for {game_id}. Adding to bad-games.parquet."))
     if (!file.exists("data/games/bad-games.parquet")) {
       
-      tibble(game_id = game_id) %>%
+      tibble(game_id = game_id,
+             error_message = error_message) %>%
         arrow::write_parquet("data/games/bad-games.parquet")
     
     } else {
       
       arrow::read_parquet("data/games/bad-games.parquet") %>%
-        bind_rows(tibble(game_id = game_id)) %>%
+        bind_rows(tibble(game_id = game_id,
+                         error_message = error_message)) %>%
         arrow::write_parquet("data/games/bad-games.parquet")
       
     }
@@ -117,6 +136,34 @@ scrape_game <- function(league, game_id, sleep_time = 1) {
 }
 
 # helper functions -------------------------------------------------------------
+
+#' Helper function for handling errors
+try_catch <- function(expr) {
+  
+  # empty error message
+  err <- NULL
+  
+  # attempt & log error
+  result <- 
+    withCallingHandlers(
+      tryCatch(
+        expr,
+        error = function(e) {
+          err <<- e
+          NULL
+        }
+      )
+    )
+  
+  out <-
+    list(
+      result = result,
+      error = err
+    )
+  
+  return(out)
+  
+}
 
 #' Helper function: extract team-level results for the winning/losing team
 extract_elements <- function(html,
