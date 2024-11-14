@@ -9,35 +9,145 @@ source("R/data/utils.R")
 # blegh ------------------------------------------------------------------------
 
 league <- "mens"
-game_id <- "401489112"
-url <- glue::glue("https://www.espn.com/{league}-college-basketball/game/_/gameId/{game_id}")
+team_id <- "103"
+season <- 2005
+url <- glue::glue("https://www.espn.com/{league}-college-basketball/team/schedule/_/id/{team_id}/season/{season}")
 
 result <- read_html(url)
 
-out <-
-  tibble(
-    left_score,
-    left_home,
-    left_id,
-    left_name,
-    right_score,
-    right_home,
-    right_id,
-    right_name,
-    table_header,
-    game_header
-  )
+elements <- 
+  result %>%
+  html_elements(".Table__TR")
 
-out <- 
-  tibble(
-    winner_score = winner_elements$score,
-    winner_home = winner_elements$home,
-    winner_id = winner_elements$id,
-    loser_score = loser_elements$score,
-    loser_home = loser_elements$home,
-    loser_id = loser_elements$id,
-    periods = periods
-  )
+# infer rows that are games from html text
+games <- 
+  tibble(text = html_text2(elements)) %>%
+  rowid_to_column("eid") %>%
+  mutate(game_type = if_else(str_sub(text, -5) == "eason", text, NA_character_)) %>%
+  fill(game_type) %>%
+  mutate(date = str_sub(text, 1, str_locate(text, "\t")[,1] - 1),
+         date = paste(str_sub(date, 6), season, sep = ", "),
+         date = mdy(date),
+         month = month(date),
+         date = if_else(month >= 11, date - years(1), date)) %>%
+  drop_na() %>%
+  select(eid, date, game_type)
+
+# subset to just elements representing games
+elements <- elements[games$eid]
+
+# this'll go into a function & get mapped over
+for (i in 1:length(elements)) {
+  
+  row_elements <- html_elements(elements[10], ".Table__TD")[2:3]
+  
+  # extract links
+  # calling separately to ensure that opponent link gets recorded as null if missing
+  opponent_link <- 
+    row_elements[1] %>%
+    html_elements("a") %>%
+    html_attr("href") %>%
+    unique()
+  
+  game_link <- 
+    row_elements[2] %>%
+    html_elements("a") %>%
+    html_attr("href")
+  
+  # get home status
+  home <- 
+    row_elements[1] %>%
+    html_text2() %>%
+    str_sub(1, 2)
+  
+  home <- home == "vs"
+  
+  # get opponent name
+  opponent_name <- 
+    row_elements[1] %>%
+    html_text2() %>%
+    if_else(condition = home, 
+            true = str_sub(., 3), 
+            false = str_sub(., 2)) %>%
+    if_else(condition = is.na(parse_number(str_sub(., 1, 1))),
+            true = .,
+            false = str_sub(., str_locate(., " ")[,1] + 1)) %>%
+    str_remove(" \\*")
+  
+  # get whether or not the game was played on neutral territory
+  neutral <- 
+    row_elements[1] %>%
+    html_text2() %>%
+    str_detect(" \\*")
+  
+  ot <- 
+    row_elements[2] %>%
+    html_text2() %>%
+    str_detect("OT")
+  
+  if (ot) {
+    
+    n_ot <- 
+      row_elements[2] %>%
+      html_text2() %>%
+      str_sub(-3, -3) %>%
+      as.numeric()
+    
+    n_ot <- if (is.na(n_ot)) 1 else n_ot
+    
+  } else {
+    
+    n_ot <- 0
+    
+  }
+  
+  win <- 
+    row_elements[2] %>%
+    html_text2() %>%
+    str_sub(1, 1)
+  
+  win <- win == "W"
+  
+  win_score <- 
+    row_elements[2] %>%
+    html_text2() %>%
+    str_sub(2, str_locate(., "-")[,1] - 1)
+  
+  lose_score <- 
+    row_elements[2] %>%
+    html_text2() %>%
+    str_sub(str_locate(., "-")[,1] + 1) %>%
+    if_else(condition = ot,
+            true = str_sub(., 1, str_locate(., " ")[,1] - 1),
+            false = .)
+  
+  if (win) {
+    
+    team_score <- win_score
+    opponent_score <- lose_score
+    
+  } else {
+    
+    team_score <- lose_score
+    opponent_score <- win_score
+    
+  }
+
+}
+
+
+# what the fuck do you need
+# [x] team id           passed in from mapping table
+# [x] team name         passed in from mapping table
+# [x] opponent id       read from opponent link (if missing, recorded as NULL)
+# [x] opponent name     yeah boiiiii
+# [x] game_id           read from game link
+# [x] home/away         bool just given for source team
+# [x] neutral territory ye booiee
+# [x] postseason        pulled from the html text
+# [x] score             yeah boi
+# [x] OT (T/F)          yea boii
+# [x] OT periods        yea boii
 
 # scrape results ---------------------------------------------------------------
 
