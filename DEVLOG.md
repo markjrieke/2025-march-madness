@@ -31,6 +31,26 @@ Other data quality issues
 * Games that end in a tie?
   * There are two games that end in a tie
   * This is fine from a modeling perspective, but weird
+* Headers
+  * Will need to get headers (if exist)
+  * I.e., "Men's Basketball Championship - West Region - 2nd Round"
+* Schedule
+  * Will need to rewrite schedule scrape
+  * Infer preseason/regular season/postseason from table
+  * Infer neutral ground from table
+  * Actually can get a lot of info from the schedule table
+  * @ / vs show away/home
+  * * shows neutral status
+  * Result shows score (duh)
+  * Aaand number of overtimes!
+* Want to think of a stupid backronym
+  * Right now B-STORM is on my mind (Bayesian Simulation of Tournament Outcomes and Ratings Model), but I'm not set on it just yet
+* FUCK IT WE BALL
+  * Rewriting the whole thing
+  * (again)
+  * Choosing to scrape schedules to get the full team list
+  * (including teams who weren't D1 in certain seasons)
+  * Leaving the handling of that for later me, better to have all the data now
 
 
 ## 2024-11-08

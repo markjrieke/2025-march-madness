@@ -4,6 +4,41 @@ library(tidyverse)
 library(rvest)
 library(furrr)
 
+source("R/data/utils.R")
+
+# blegh ------------------------------------------------------------------------
+
+league <- "mens"
+game_id <- "401489112"
+url <- glue::glue("https://www.espn.com/{league}-college-basketball/game/_/gameId/{game_id}")
+
+result <- read_html(url)
+
+out <-
+  tibble(
+    left_score,
+    left_home,
+    left_id,
+    left_name,
+    right_score,
+    right_home,
+    right_id,
+    right_name,
+    table_header,
+    game_header
+  )
+
+out <- 
+  tibble(
+    winner_score = winner_elements$score,
+    winner_home = winner_elements$home,
+    winner_id = winner_elements$id,
+    loser_score = loser_elements$score,
+    loser_home = loser_elements$home,
+    loser_id = loser_elements$id,
+    periods = periods
+  )
+
 # scrape results ---------------------------------------------------------------
 
 #' Main function for scraping game-level results
@@ -136,34 +171,6 @@ scrape_game <- function(league, game_id, sleep_time = 1, retry = 2) {
 }
 
 # helper functions -------------------------------------------------------------
-
-#' Helper function for handling errors
-try_catch <- function(expr) {
-  
-  # empty error message
-  err <- NULL
-  
-  # attempt & log error
-  result <- 
-    withCallingHandlers(
-      tryCatch(
-        expr,
-        error = function(e) {
-          err <<- e
-          NULL
-        }
-      )
-    )
-  
-  out <-
-    list(
-      result = result,
-      error = err
-    )
-  
-  return(out)
-  
-}
 
 #' Helper function: extract team-level results for the winning/losing team
 extract_elements <- function(html,
