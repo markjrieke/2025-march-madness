@@ -4,9 +4,34 @@
 
 Other data quality issues
 * home/away is missing a _lot_ & it's not always the case that it's because of a neutral site game. See [here](https://www.espn.com/mens-college-basketball/game/_/gameId/330232050) for example --- no home/away indicators, but Ball State University is in Muncie, Indiana, where the game was played, so they _should_ be home. 
+  * Ah shit, it looks like home is always the right side of the panel & away is the left side...
 * Too many missing game_ids to recode by hand, will have to come up with a programmatic based solution
 * Some games exist in the schedule, but don't have a game results page. I'm just ignoring these, but there's probably a better way to have writting the `tryCatch()` expression than what I implemented. 
   * This doesn't always work though... Sometimes
+* Games with no results
+  * These get encoded as periods < 0
+  * Appears that they're mostly canceled games
+  * Going to roll with that assumption
+* Games with improbably low scores (total score < 20)
+  * Only ~600 across both leagues
+  * Looks to be that these need manual overrides
+  * Fine, I'll do that...
+* So many games without home/away status
+  * Looks like right side is always home / left side is always away
+  * Probably warrants a full rerun
+  * Will need to separate this from 'neutral ground' games
+* Women switch to a 4-period game in the 2015-16 season
+* Periods doesn't count double-overtimes
+  * Looks like the OT column in the results table includes *all* overtimes
+  * Will need to pull the table header, which lists, for example, Final/2OT
+* ID == missing
+  * Looks like these are pretty much all low div teams (DII / DIII)
+  * Will probably also want to pull other items from the header, like team names
+  * Usually ~ 5-7%, but a big spike in the 2020-21 season
+* Games that end in a tie?
+  * There are two games that end in a tie
+  * This is fine from a modeling perspective, but weird
+
 
 ## 2024-11-08
 
