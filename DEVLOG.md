@@ -2,56 +2,34 @@
 
 ## 2024-11-15
 
-Other data quality issues
-* home/away is missing a _lot_ & it's not always the case that it's because of a neutral site game. See [here](https://www.espn.com/mens-college-basketball/game/_/gameId/330232050) for example --- no home/away indicators, but Ball State University is in Muncie, Indiana, where the game was played, so they _should_ be home. 
-  * Ah shit, it looks like home is always the right side of the panel & away is the left side...
-* Too many missing game_ids to recode by hand, will have to come up with a programmatic based solution
-* Some games exist in the schedule, but don't have a game results page. I'm just ignoring these, but there's probably a better way to have writting the `tryCatch()` expression than what I implemented. 
-  * This doesn't always work though... Sometimes
-* Games with no results
-  * These get encoded as periods < 0
-  * Appears that they're mostly canceled games
-  * Going to roll with that assumption
-* Games with improbably low scores (total score < 20)
-  * Only ~600 across both leagues
-  * Looks to be that these need manual overrides
-  * Fine, I'll do that...
-* So many games without home/away status
-  * Looks like right side is always home / left side is always away
-  * Probably warrants a full rerun
-  * Will need to separate this from 'neutral ground' games
-* Women switch to a 4-period game in the 2015-16 season
-* Periods doesn't count double-overtimes
-  * Looks like the OT column in the results table includes *all* overtimes
-  * Will need to pull the table header, which lists, for example, Final/2OT
-* ID == missing
-  * Looks like these are pretty much all low div teams (DII / DIII)
-  * Will probably also want to pull other items from the header, like team names
-  * Usually ~ 5-7%, but a big spike in the 2020-21 season
-* Games that end in a tie?
-  * There are two games that end in a tie
-  * This is fine from a modeling perspective, but weird
-* Headers
-  * Will need to get headers (if exist)
-  * I.e., "Men's Basketball Championship - West Region - 2nd Round"
-* Schedule
-  * Will need to rewrite schedule scrape
-  * Infer preseason/regular season/postseason from table
-  * Infer neutral ground from table
-  * Actually can get a lot of info from the schedule table
-  * @ / vs show away/home
-  * * shows neutral status
-  * Result shows score (duh)
-  * Aaand number of overtimes!
-* Want to think of a stupid backronym
-  * Right now B-STORM is on my mind (Bayesian Simulation of Tournament Outcomes and Ratings Model), but I'm not set on it just yet
-* FUCK IT WE BALL
-  * Rewriting the whole thing
-  * (again)
-  * Choosing to scrape schedules to get the full team list
-  * (including teams who weren't D1 in certain seasons)
-  * Leaving the handling of that for later me, better to have all the data now
+Alrighty, this past week was somewhat involved, so this is a lengthier update. I was able to run the full game webscrape that I put together manually. It literally took two days to run because I had to pepper in a bunch of calls to `Sys.sleep()` to avoid being rude to the robots. That being said, after getting all the games back, I still ran into a number of data quality issues:
 
+* Missing home/away
+  * The indicator text for home/away tams is missing *a lot*, and it's not always the case that it's because of a neutral site game.
+  * For example, [this game](https://www.espn.com/mens-college-basketball/game/_/gameId/330232050) between Ball State University and Iowa doesn't indicate which team is home/away. The game was played in Muncie, Indiana, where Ball State is located, so they *should* be the home team.
+  * In general, it looks like the home team is always the right side of the panel and away is the left side.
+  * There are too many instances to recode by hand, so this in and of itself likely warrants a rerun.
+* Games with no results
+  * Some games exist in the schedule, but don't have a game results page. I'm just ignoring these.
+  * Some games have negative periods (periods were derived from the number of columns in the results table). It appears that these are either canceled or rescheduled events. I'm rolling with that assumption. 
+  * Some games have improbably low scores (total score < 20). It looks like there's only ~600 across both leagues, so these'll have to be manually recoded to display the correct score.
+* Overtimes
+  * The number of periods played is derived from the number of columns in the results table for each game. But! Overtimes just get added to a single column --- even if the game goes through multiple overtimes. 
+  * I'll need to import the correct number of overtimes from the header text (i.e., double-overtime would be recorded as "Final/2OT").
+* Missing team ids
+  * There are a number of games where one team has no page link and therefore has no team id.
+  * These appear to be exhibition games against lower division (DII/DIII) schools.
+  * To differentiate, I'll need to pull the team name *and* ID.
+* Tie games
+  * There are two games that end in a tie.
+  * This is fine from a modeling perspective, but weird.
+* Outstanding items
+  * I still need to find a way to indicate whether or not a game is in the preseason, regular season, or postseason.
+  * I also need to find a way to consistently indicate whether or not a game was played on neutral territory. 
+  
+I figured I would find issues after "the big scrape," so the list above isn't super surprising. Since some of the issues warrant a full rerun anyway, I poked around to see if there's a better method for getting the necessary info out. Turns out there is! Each team's schedule page lists for each season lists the results of each game, whether or not the game is in the regular or postseason, and whether or not the game was played on neutral territory. Further, this drastically reduces the number of scraping calls I need to make from one per game (~255,000) to one per team per season (~17,000). I'll end up with duplicate games in the results (since Team A vs. Team B will appear when I run both Team A's schedule *and* Team B's), but that's a worthwhile trade that I can wrangle away later. 
+
+I rewrote a few wrappers around `tryCatch()` that should also require fewer calls to `Sys.sleep()` (and therefore, should run faster). I need to tinker around with it a bit to make sure, but I should be able to get the full set of results next week.
 
 ## 2024-11-08
 
