@@ -1,5 +1,15 @@
 # DEVLOG
 
+## 2024-11-22
+
+* rewrote the teams scraper
+* rewrote the game scraper
+* the new rewrite meant that I could remove the schedule scraper
+* added a utils script to house some of the common functions
+  * namely, the wrappers around tryCatch, since they're generally useful
+* re-scraped the data --- way faster dawg
+  * As in, took under an hour rather than 2 days
+
 ## 2024-11-15
 
 Alrighty, this past week was somewhat involved, so this is a lengthier update. I was able to run the full game webscrape that I put together manually. It literally took two days to run because I had to pepper in a bunch of calls to `Sys.sleep()` to avoid being rude to the robots. That being said, after getting all the games back, I still ran into a number of data quality issues:

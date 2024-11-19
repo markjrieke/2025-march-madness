@@ -24,7 +24,7 @@ scrape_teams <- function(league, date) {
     tibble(league = league,
            date = ymd(date),
            warning = as.character(result$warning)) %>%
-      write_log("data/teams/teams-warnings.parquet")
+      append_parquet("data/teams/teams-warnings.parquet")
     
   }
   
@@ -34,7 +34,7 @@ scrape_teams <- function(league, date) {
     tibble(league = league,
            date = ymd(date),
            error = as.character(result$error)) %>%
-      write_log("data/teams/teams-errors.parquet")
+      append_parquet("data/teams/teams-errors.parquet")
     
     # exit the function
     return()

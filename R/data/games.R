@@ -6,369 +6,111 @@ library(furrr)
 
 source("R/data/utils.R")
 
-# blegh ------------------------------------------------------------------------
+# functions --------------------------------------------------------------------
 
-league <- "mens"
-team_id <- "103"
-season <- 2005
-url <- glue::glue("https://www.espn.com/{league}-college-basketball/team/schedule/_/id/{team_id}/season/{season}")
-
-result <- read_html(url)
-
-elements <- 
-  result %>%
-  html_elements(".Table__TR")
-
-# infer rows that are games from html text
-games <- 
-  tibble(text = html_text2(elements)) %>%
-  rowid_to_column("eid") %>%
-  mutate(game_type = if_else(str_sub(text, -5) == "eason", text, NA_character_)) %>%
-  fill(game_type) %>%
-  mutate(date = str_sub(text, 1, str_locate(text, "\t")[,1] - 1),
-         date = paste(str_sub(date, 6), season, sep = ", "),
-         date = mdy(date),
-         month = month(date),
-         date = if_else(month >= 11, date - years(1), date)) %>%
-  drop_na() %>%
-  select(eid, date, game_type)
-
-# subset to just elements representing games
-elements <- elements[games$eid]
-
-# this'll go into a function & get mapped over
-for (i in 1:length(elements)) {
+scrape_games <- function(league, team_id, season) {
   
-  row_elements <- html_elements(elements[10], ".Table__TD")[2:3]
+  # read html
+  url <- glue::glue("https://www.espn.com/{league}-college-basketball/team/schedule/_/id/{team_id}/season/{season}")
   
-  # extract links
-  # calling separately to ensure that opponent link gets recorded as null if missing
-  opponent_link <- 
+  # get schedule as html table
+  result <- retry_catch(read_html(url))
+  
+  # log a warning if need be
+  if (!is.null(result$warning)) {
+    
+    tibble(league = league,
+           team_id = team_id,
+           season = season,
+           warning = as.character(result$warning)) %>%
+      write_log("data/games/games-warnings.parquet")
+    
+  }
+  
+  # log an error if need be
+  if (!is.null(result$error)) {
+    
+    tibble(league = league,
+           team_id = team_id,
+           season = season,
+           error = as.character(result$error)) %>%
+      write_log("data/games/games-errors.parquet")
+    
+    # exit the function
+    return()
+    
+  }
+  
+  # extract the schedule as a table
+  elements <-
+    result$result %>%
+    html_elements(".Table__TR")
+  
+  # infer which elements are table rows & which are headers
+  games <-
+    tibble(text = html_text2(elements)) %>%
+    rowid_to_column("eid") %>%
+    mutate(game_type = if_else(str_sub(text, -5) == "eason", text, NA_character_)) %>%
+    fill(game_type) %>%
+    mutate(date = str_sub(text, 1, str_locate(text, "\t")[,1] - 1),
+           date = paste(str_sub(date, 6), season, sep = ", "),
+           date = mdy(date),
+           month = month(date),
+           date = if_else(month >= 11, date - years(1), date)) %>%
+    drop_na() %>%
+    select(eid, date, game_type)
+  
+  # extract table items from each game
+  game_results <- 
+    games %>%
+    mutate(results = map(eid, ~extract_game_result(.x, elements))) %>%
+    unnest(results) %>%
+    select(-eid)
+  
+  return(game_results)
+  
+}
+
+extract_game_result <- function(eid, elements) {
+  
+  row_elements <- html_elements(elements[eid], ".Table__TD")[2:3]
+  
+  opponent_link <-
     row_elements[1] %>%
     html_elements("a") %>%
     html_attr("href") %>%
     unique()
   
-  game_link <- 
+  # (this will be converted to game_id later)
+  game_link <-
     row_elements[2] %>%
     html_elements("a") %>%
     html_attr("href")
   
-  # get home status
-  home <- 
-    row_elements[1] %>%
-    html_text2() %>%
-    str_sub(1, 2)
-  
-  home <- home == "vs"
-  
-  # get opponent name
-  opponent_name <- 
-    row_elements[1] %>%
-    html_text2() %>%
-    if_else(condition = home, 
-            true = str_sub(., 3), 
-            false = str_sub(., 2)) %>%
-    if_else(condition = is.na(parse_number(str_sub(., 1, 1))),
-            true = .,
-            false = str_sub(., str_locate(., " ")[,1] + 1)) %>%
-    str_remove(" \\*")
-  
-  # get whether or not the game was played on neutral territory
-  neutral <- 
-    row_elements[1] %>%
-    html_text2() %>%
-    str_detect(" \\*")
-  
-  ot <- 
-    row_elements[2] %>%
-    html_text2() %>%
-    str_detect("OT")
-  
-  if (ot) {
-    
-    n_ot <- 
-      row_elements[2] %>%
-      html_text2() %>%
-      str_sub(-3, -3) %>%
-      as.numeric()
-    
-    n_ot <- if (is.na(n_ot)) 1 else n_ot
-    
-  } else {
-    
-    n_ot <- 0
-    
-  }
-  
-  win <- 
-    row_elements[2] %>%
-    html_text2() %>%
-    str_sub(1, 1)
-  
-  win <- win == "W"
-  
-  win_score <- 
-    row_elements[2] %>%
-    html_text2() %>%
-    str_sub(2, str_locate(., "-")[,1] - 1)
-  
-  lose_score <- 
-    row_elements[2] %>%
-    html_text2() %>%
-    str_sub(str_locate(., "-")[,1] + 1) %>%
-    if_else(condition = ot,
-            true = str_sub(., 1, str_locate(., " ")[,1] - 1),
-            false = .)
-  
-  if (win) {
-    
-    team_score <- win_score
-    opponent_score <- lose_score
-    
-  } else {
-    
-    team_score <- lose_score
-    opponent_score <- win_score
-    
-  }
-
-}
-
-
-# what the fuck do you need
-# [x] team id           passed in from mapping table
-# [x] team name         passed in from mapping table
-# [x] opponent id       read from opponent link (if missing, recorded as NULL)
-# [x] opponent name     yeah boiiiii
-# [x] game_id           read from game link
-# [x] home/away         bool just given for source team
-# [x] neutral territory ye booiee
-# [x] postseason        pulled from the html text
-# [x] score             yeah boi
-# [x] OT (T/F)          yea boii
-# [x] OT periods        yea boii
-
-# scrape results ---------------------------------------------------------------
-
-#' Main function for scraping game-level results
-scrape_game <- function(league, game_id, sleep_time = 1, retry = 2) {
-  
-  # build the url
-  url <- glue::glue("https://www.espn.com/{league}-college-basketball/game/_/gameId/{game_id}")
-  
-  # set conditions
-  continue <- TRUE
-  error_message <- NULL
-  
-  # make multiple attempts if encountering an error
-  for (n in 1:retry) {
-    
-    # try pinging the html
-    result <- try_catch(read_html(url))
-    
-    # exit if successful
-    if (!is.null(result$result)) {
-      html <- result$result
-      break
-    }
-    
-    # try again or log an error
-    if (n < retry) {
-      Sys.sleep(sleep_time)
-    } else {
-      continue <- FALSE
-      error_message <- as.character(result$error)
-    }
-    
-  }
-  
-  # exit if need be
-  if (!continue) {
-    
-    # add to a running list of "bad games" if the url doesn't exist.
-    cli::cli_alert_info(glue::glue("read_html() failed for {game_id}. Adding to bad-games.parquet."))
-    if (!file.exists("data/games/bad-games.parquet")) {
-      
-      tibble(game_id = game_id,
-             error_message = error_message) %>%
-        arrow::write_parquet("data/games/bad-games.parquet")
-    
-    } else {
-      
-      arrow::read_parquet("data/games/bad-games.parquet") %>%
-        bind_rows(tibble(game_id = game_id,
-                         error_message = error_message)) %>%
-        arrow::write_parquet("data/games/bad-games.parquet")
-      
-    }
-    
-    # exit function
-    return()
-    
-  }
-  
-  # topline summary
-  competitors <- 
-    html %>%
-    html_elements(".Gamestrip__Competitors")
-  
-  # elements for each team
-  left_elements <- extract_elements(competitors, league, "left")
-  right_elements <- extract_elements(competitors, league, "right")
-  
-  # if missing, set home to false
-  # (this is the case for post-season/neutral games)
-  left_elements$home <- if (length(left_elements$home) == 0) FALSE else left_elements$home
-  right_elements$home <- if (length(right_elements$home) == 0) FALSE else right_elements$home
-  
-  # assign to winner/loser elements based on score
-  if (left_elements$score > right_elements$score | (is.na(left_elements$score) & is.na(right_elements$score))) {
-    
-    winner_elements <- left_elements
-    loser_elements <- right_elements
-    
-  } else {
-    
-    winner_elements <- right_elements
-    loser_elements <- left_elements
-    
-  }
-  
-  # extract periods from summary table
-  periods <- 
-    competitors %>%
-    html_table() %>%
-    pluck(1) %>%
-    ncol()
-  
-  # remove team name/total col
-  periods <- periods - 2
-  
-  # some games are canceled each season
-  if (periods <= 0) {
-    
-    out <-
-      tibble(
-        winner_score = 0,
-        winner_home = FALSE,
-        winner_id = "missing",
-        loser_score = 0,
-        loser_home = FALSE,
-        loser_id = "missing",
-        periods = periods
-      )
-    
-  } else {
-    
-    out <- 
-      tibble(
-        winner_score = winner_elements$score,
-        winner_home = winner_elements$home,
-        winner_id = winner_elements$id,
-        loser_score = loser_elements$score,
-        loser_home = loser_elements$home,
-        loser_id = loser_elements$id,
-        periods = periods
-      )
-    
-  }
-  
-  Sys.sleep(sleep_time)
-  
-  return(out)
-  
-}
-
-# helper functions -------------------------------------------------------------
-
-#' Helper function: extract team-level results for the winning/losing team
-extract_elements <- function(html,
-                             league,
-                             team) {
-  
-  team_elements <-
-    html %>%
-    html_elements(glue::glue(".Gamestrip__Team--{team}"))
-  
   out <-
-    list(
-      score = extract_score(team_elements),
-      home = extract_home(team_elements),
-      id = extract_id(team_elements, league)
+    tibble(
+      opponent_link = opponent_link,
+      game_link = game_link,
+      opponent_text = html_text2(row_elements[1]),
+      result_text = html_text2(row_elements[2])
     )
   
   return(out)
   
 }
 
-#' Helper function: extract a team's score from the html summary
-extract_score <- function(html) {
-  
-  html %>%
-    html_element(".Gamestrip__Score") %>%
-    html_text2() %>%
-    parse_number()
-  
-}
-
-#' Helper function: extract whether (or not) a team is the home team
-extract_home <- function(html) {
-  
-  html %>%
-    html_elements(".Gamestrip__InnerRecord") %>%
-    html_text2() %>%
-    str_detect("home")
-
-}
-
-#' Helper function: extract a team's id from the html summary
-extract_id <- function(html, league) {
-  
-  slug <- 
-    html %>%
-    html_elements(".ScoreCell__Truncate") %>%
-    html_elements("a") %>%
-    html_attr("href")
-  
-  if (length(slug) == 0) {
-    
-    out <- "missing"
-    
-  } else {
-    
-    out <-
-      slug %>%
-      str_remove_all(glue::glue("/{league}-college-basketball/team/_/id/")) %>%
-      str_split_1("/") %>%
-      pluck(1)
-    
-  }
-  
-}
-
 # scrape ! ---------------------------------------------------------------------
 
-# pick up data that has already been saved
-written <- 
-  tibble(file = list.files("data/games/")) %>%
-  mutate(games = map(file, ~arrow::read_parquet(paste0("data/games/", .x)))) %>%
-  select(-file) %>%
-  unnest(games) %>%
-  pull(game_id)
+# full list of schedules to scrape
+items <- 
+  arrow::read_parquet("data/teams/teams.parquet") %>%
+  distinct(league, team_id) %>%
+  crossing(season = 2002:2024)
 
-seasons <- 
-  arrow::read_parquet("data/schedule/schedule.parquet") %>%
-  mutate(month = month(date),
-         year = year(date),
-         season = if_else(month >= 11, year + 1, year)) %>%
-  select(-c(month, year)) %>%
-  filter(!game_id %in% written) %>%
-  nest(data = -c(league, season))
-
-# scrape results
+# process results in parallel
 plan(multisession, workers = 8)
 
+# scrape!
 for (league in c("mens", "womens")) {
   
   for (season in 2002:2024) {
@@ -377,26 +119,20 @@ for (league in c("mens", "womens")) {
     league_int <- league
     season_int <- season
     
-    # skip if season is completed
+    # anti-join to remove any pre-collected items
+    
+    # break up season scrapes into 200-unit "chunks"
     chunks <- 
-      seasons %>%
+      items %>%
       filter(league == league_int,
-             season == season_int)
-    
-    if (nrow(chunks) == 0) {
-      cli::cli_alert_info("{league}-{season}.parquet already complete, skipping")
-      next
-    }
-    
-    #  break up each season into manageable "chunks"
-    chunks <- 
-      chunks %>%
-      unnest(data) %>%
+             season == season_int) %>%
       rowid_to_column("chunk") %>%
       mutate(chunk = ceiling(chunk/200))
     
+    # total number of chunks to evaluate
     n_chunks <- max(chunks$chunk)
     
+    # evaluate each chunk separately
     for (chunk in 1:n_chunks) {
       
       cli::cli_h1(
@@ -410,57 +146,100 @@ for (league in c("mens", "womens")) {
       # rename variables for filtering
       chunk_int <- chunk
       
-      # scrape game results for this chunk of games
-      game_chunk <- 
+      # scrape the schedules for the specified chunk
+      game_chunks <- 
         chunks %>%
         filter(chunk == chunk_int) %>%
-        mutate(result = future_pmap(list(league, game_id),
-                                    ~scrape_game(..1, ..2),
-                                    .progress = TRUE)) %>%
-        unnest(result) %>%
-        select(-chunk)
+        mutate(results = future_pmap(list(league, team_id, season),
+                                     scrape_games,
+                                     .progress = TRUE)) %>%
+        select(-chunk) %>%
+        unnest(results)
       
-      if (file.exists(glue::glue("data/games/{league}-{season}.parquet"))) {
-        
-        arrow::read_parquet(glue::glue("data/games/{league}-{season}.parquet")) %>%
-          bind_rows(game_chunk) %>%
-          arrow::write_parquet(glue::glue("data/games/{league}-{season}.parquet"))
-        
-      } else {
-        
-        game_chunk %>%
-          arrow::write_parquet(glue::glue("data/games/{league}-{season}.parquet"))
-        
-      }
+      # save intermittent results
+      game_chunks %>%
+        append_parquet(glue::glue("data/games/{league}-{season}.parquet"))
       
-      # give 30-s break between scraping chunks
-      cli::cli_progress_bar("Sleeping...", total = 30, clear = FALSE)
-      for (t in 1:30) {
-        Sys.sleep(1)
-        cli::cli_progress_update()
-      }
+      # break between chunk scrapes
+      sys_sleep(5)
       
     }
     
-    # give 5-min break between scraping seasons
-    cli::cli_progress_bar("Sleeping...", total = 300, clear = FALSE)
-    for (t in 1:300) {
-      Sys.sleep(1)
-      cli::cli_progress_update()
-    }
+    # break between season scrapes
+    sys_sleep(10)
     
   }
   
-  # give a 10-min break between scraping leagues
-  cli::cli_progress_bar("Sleeping...", total = 600, clear = FALSE)
-  for (t in 1:600) {
-    Sys.sleep(1)
-    cli::cli_progress_update()
-  }
+  # break between league scrapes
+  sys_sleep(30)
   
 }
 
 plan(sequential)
+
+# wrangle ----------------------------------------------------------------------
+
+tibble(file = list.files("data/games", full.names = TRUE)) %>%
+  mutate(games = map(file, arrow::read_parquet)) %>%
+  unnest(games) %>%
+  slice_sample(n = 1e4) %>%
+  distinct(league, 
+           season, 
+           game_link, 
+           .keep_all = TRUE) %>%
+  left_join(arrow::read_parquet("data/teams/teams.parquet"),
+            by = c("league", "team_id")) %>%
+  mutate(home = str_sub(opponent_text, 1, 2) == "vs",
+         opponent_name = if_else(home,
+                                 str_sub(opponent_text, 3),
+                                 str_sub(opponent_text, 2)),
+         opponent_name = if_else(is.na(parse_number(str_sub(opponent_name, 1, 1))),
+                                 opponent_name,
+                                 str_sub(opponent_name, str_locate(opponent_name, " ")[,1] + 1)),
+         opponent_name = str_remove(opponent_name, " \\*"),
+         neutral = str_detect(opponent_text, " \\*"),
+         ot = str_detect(result_text, "OT"),
+         n_ot = str_sub(result_text, -3, -3),
+         n_ot = case_when(!ot ~ 0,
+                          n_ot == " " ~ 1,
+                          .default = as.numeric(n_ot)),
+         win = str_sub(result_text, 1, 1) == "W",
+         win_score = as.numeric(str_sub(result_text, 2, str_locate(result_text, "-")[,1] - 1)),
+         lose_score = str_sub(result_text, str_locate(result_text, "-")[,1] + 1),
+         lose_score = if_else(ot,
+                              str_sub(lose_score, 1, str_locate(lose_score, " ")[,1] - 1),
+                              lose_score),
+         lose_score = as.numeric(lose_score),
+         team_score = if_else(win, win_score, lose_score),
+         opponent_score = if_else(win, lose_score, win_score),
+         opponent_id = str_remove_all(opponent_link, "/mens-|/womens-|college-basketball/team/_/id/"),
+         opponent_id = str_sub(opponent_id, 1, str_locate(opponent_id, "/")[,1] - 1),
+         home_id = if_else(home, team_id, opponent_id),
+         home_name = if_else(home, team_name, opponent_name),
+         home_score = if_else(home, team_score, opponent_score),
+         away_id = if_else(home, opponent_id, team_id),
+         away_name = if_else(home, opponent_name, team_name),
+         away_score = if_else(home, opponent_score, team_score),
+         game_id = str_remove_all(game_link, "https://www.espn.com/|womens-|mens-|college-basketball/game/_/gameId/"),
+         game_id = str_sub(game_id, 1, str_locate(game_id, "/")[,1] - 1)) %>%
+  select(league,
+         season,
+         date,
+         game_id,
+         game_type,
+         neutral,
+         n_ot,
+         home_id,
+         home_name,
+         home_score,
+         away_id,
+         away_name,
+         away_score)
+
+# blegh ------------------------------------------------------------------------
+
+
+
 
 
 
