@@ -269,6 +269,17 @@ tibble(file = list.files("data/games", full.names = TRUE)) %>%
          home_score > 0,
          away_score > 0) %>%
   
+  # join teams with n/a ids but that exist in the db
+  left_join(arrow::read_parquet("data/teams/teams.parquet") %>%
+              distinct(team_name, league, missing_id = team_id),
+            by = c("home_name" = "team_name", "league")) %>%
+  mutate(home_id = if_else(is.na(home_id), missing_id, home_id)) %>%
+  select(-missing_id) %>%
+  left_join(arrow::read_parquet("data/teams/teams.parquet") %>%
+              distinct(team_name, league, missing_id = team_id),
+            by = c("away_name" = "team_name", "league")) %>%
+  mutate(away_id = if_else(is.na(away_id), missing_id, home_id)) %>%
+  
   # write relevant cols to disk
   select(league,
          season,
