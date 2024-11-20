@@ -75,6 +75,7 @@ extract_game_result <- function(eid, elements) {
   
   row_elements <- html_elements(elements[eid], ".Table__TD")[2:3]
   
+  # extract links
   opponent_link <-
     row_elements[1] %>%
     html_elements("a") %>%
@@ -86,6 +87,16 @@ extract_game_result <- function(eid, elements) {
     row_elements[2] %>%
     html_elements("a") %>%
     html_attr("href")
+  
+  # extract text
+  opponent_text <- html_text2(row_elements[1])
+  result_text <- html_text2(row_elements[2])
+  
+  # convert in the event that anything is missing
+  opponent_link <- if (length(opponent_link) == 0) "missing" else opponent_link
+  game_link <- if (length(game_link) == 0) "missing" else game_link
+  opponent_text <- if (length(opponent_text) == 0) "missing" else opponent_text
+  result_text <- if (length(result_text) == 0) "missing" else result_text
   
   out <-
     tibble(
@@ -179,49 +190,86 @@ plan(sequential)
 
 # wrangle ----------------------------------------------------------------------
 
+# open the dataset
 tibble(file = list.files("data/games", full.names = TRUE)) %>%
   mutate(games = map(file, arrow::read_parquet)) %>%
   unnest(games) %>%
-  slice_sample(n = 1e4) %>%
-  distinct(league, 
-           season, 
-           game_link, 
+  
+  # extract the game_id from the game link
+  mutate(game_id = str_remove_all(game_link, "https://www.espn.com/|womens-|mens-|college-basketball/game/_/gameId/"),
+         game_id = str_sub(game_id, 1, str_locate(game_id, "/")[,1] - 1)) %>%
+  
+  # de-duplicate games
+  distinct(league,
+           date,
+           game_id, 
            .keep_all = TRUE) %>%
-  left_join(arrow::read_parquet("data/teams/teams.parquet"),
+
+  # join in source team name
+  left_join(arrow::read_parquet("data/teams/teams.parquet") %>% 
+              distinct(league, team_id, team_name),
             by = c("league", "team_id")) %>%
-  mutate(home = str_sub(opponent_text, 1, 2) == "vs",
-         opponent_name = if_else(home,
+  
+  # determine whether (or not) the source team is home or away
+  # "vs" indicates home, "@" indicates away (i.e., Tulsa vsOSU or Tulsa @OSU)
+  mutate(home = str_sub(opponent_text, 1, 2) == "vs") %>%
+  
+  # extract opponent team's name
+  # removes rank from opponent team, if applicable
+  # removes neutral site indicator, if applicable
+  mutate(opponent_name = if_else(home,
                                  str_sub(opponent_text, 3),
                                  str_sub(opponent_text, 2)),
          opponent_name = if_else(is.na(parse_number(str_sub(opponent_name, 1, 1))),
                                  opponent_name,
                                  str_sub(opponent_name, str_locate(opponent_name, " ")[,1] + 1)),
-         opponent_name = str_remove(opponent_name, " \\*"),
-         neutral = str_detect(opponent_text, " \\*"),
-         ot = str_detect(result_text, "OT"),
+         opponent_name = str_remove(opponent_name, " \\*")) %>%
+  
+  # determine whether (or not) the game was played on neutral territory
+  mutate(neutral = str_detect(opponent_text, " \\*")) %>%
+  
+  # determine whether (or not) the game went to overtime & the number of overtimes
+  mutate(ot = str_detect(result_text, "OT"),
          n_ot = str_sub(result_text, -3, -3),
          n_ot = case_when(!ot ~ 0,
                           n_ot == " " ~ 1,
-                          .default = as.numeric(n_ot)),
-         win = str_sub(result_text, 1, 1) == "W",
-         win_score = as.numeric(str_sub(result_text, 2, str_locate(result_text, "-")[,1] - 1)),
+                          .default = as.numeric(n_ot))) %>%
+  
+  # determine whether (or not) the source team won/lost
+  mutate(win = str_sub(result_text, 1, 1) == "W") %>%
+  
+  # extract the winning/losing score from the results text
+  mutate(win_score = as.numeric(str_sub(result_text, 2, str_locate(result_text, "-")[,1] - 1)),
          lose_score = str_sub(result_text, str_locate(result_text, "-")[,1] + 1),
          lose_score = if_else(ot,
                               str_sub(lose_score, 1, str_locate(lose_score, " ")[,1] - 1),
                               lose_score),
-         lose_score = as.numeric(lose_score),
-         team_score = if_else(win, win_score, lose_score),
-         opponent_score = if_else(win, lose_score, win_score),
-         opponent_id = str_remove_all(opponent_link, "/mens-|/womens-|college-basketball/team/_/id/"),
-         opponent_id = str_sub(opponent_id, 1, str_locate(opponent_id, "/")[,1] - 1),
-         home_id = if_else(home, team_id, opponent_id),
+         lose_score = as.numeric(lose_score)) %>%
+  
+  # assign winner/loser scores to source/opponent team based on win flag
+  mutate(team_score = if_else(win, win_score, lose_score),
+         opponent_score = if_else(win, lose_score, win_score)) %>%
+  
+  # extract the opponent's team_id from the opponent link
+  mutate(opponent_id = str_remove_all(opponent_link, "/mens-|/womens-|college-basketball/team/_/id/"),
+         opponent_id = str_sub(opponent_id, 1, str_locate(opponent_id, "/")[,1] - 1)) %>%
+  
+  # assign home/away parameters based on whether (or not) the source team is the home team
+  mutate(home_id = if_else(home, team_id, opponent_id),
          home_name = if_else(home, team_name, opponent_name),
          home_score = if_else(home, team_score, opponent_score),
          away_id = if_else(home, opponent_id, team_id),
          away_name = if_else(home, opponent_name, team_name),
-         away_score = if_else(home, opponent_score, team_score),
-         game_id = str_remove_all(game_link, "https://www.espn.com/|womens-|mens-|college-basketball/game/_/gameId/"),
-         game_id = str_sub(game_id, 1, str_locate(game_id, "/")[,1] - 1)) %>%
+         away_score = if_else(home, opponent_score, team_score)) %>%
+  
+  # remove canceled or rescheduled games
+  filter(!is.na(game_id),
+         !is.na(home_score),
+         !is.na(away_score),
+         home_score > 0,
+         away_score > 0) %>%
+  
+  # write relevant cols to disk
   select(league,
          season,
          date,
@@ -234,13 +282,8 @@ tibble(file = list.files("data/games", full.names = TRUE)) %>%
          home_score,
          away_id,
          away_name,
-         away_score)
-
-# blegh ------------------------------------------------------------------------
-
-
-
-
+         away_score) %>%
+  arrow::write_parquet("data/games/games.parquet")
 
 
 
