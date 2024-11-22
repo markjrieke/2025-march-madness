@@ -2,13 +2,9 @@
 
 ## 2024-11-22
 
-* rewrote the teams scraper
-* rewrote the game scraper
-* the new rewrite meant that I could remove the schedule scraper
-* added a utils script to house some of the common functions
-  * namely, the wrappers around tryCatch, since they're generally useful
-* re-scraped the data --- way faster dawg
-  * As in, took under an hour rather than 2 days
+*BIG* updates this week (as in, I think the data portion of this project can be called mostly done? I need to do some data quality checks, but I've got the data in hand). I deleted all the existing data that I scraped in the previous week and rewrote the scraper(s) to fix the problems noted below. Because the game scrape is now pulling from each team's schedule page, the schedule scraper is no longer needed. The scrapers a written around a new wrapper around `tryCatch()`, `retry_catch()` (which works with arbitrary expressions, not just webscraping). This (& a few other functions) sit in a utils.R script. The net result of all this rewriting is that **scraping the data is *way* faster**. As in, the game scrape took under an hour rather than two days.
+
+The next step is to perform some last data quality checks to iron out edge cases & wrinkles, then I can (finally) get going on the modeling. Realistically, I won't get to modeling until the week after next, since my family is coming to visit for Thanksgiving next week.
 
 ## 2024-11-15
 
