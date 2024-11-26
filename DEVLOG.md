@@ -6,6 +6,7 @@
 * Over-dispersion, rather than under-dispersion (this is good --- I don't want to have to try to implement the [generalized poisson](https://search.r-project.org/CRAN/refmans/LaplacesDemon/html/dist.Generalized.Poisson.html))
 * Some teams that *do* have an id don't have one in the final `games.parquet` file (e.g., BYU-Hawaii)
 * Oops, wasn't identifying neutral games correctly (easy fix)
+* Cincinnati Christian is the only team with a *different* team_id for mens (3093) and womens (108833). 
 
 ## 2024-11-22
 

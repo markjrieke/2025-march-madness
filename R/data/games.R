@@ -255,6 +255,10 @@ tibble(file = list.files("data/games", full.names = TRUE)) %>%
   mutate(opponent_id = str_remove_all(opponent_link, "/mens-|/womens-|college-basketball/team/_/id/"),
          opponent_id = str_sub(opponent_id, 1, str_locate(opponent_id, "/")[,1] - 1)) %>%
   
+  # recode Cincinnati Christian --- the only school with a different id for men/women
+  mutate(team_id = if_else(team_name == "Cincinnati Christian", "3093", team_id),
+         opponent_id = if_else(opponent_name == "Cincinnati Christian", "3093", opponent_id)) %>%
+  
   # assign home/away parameters based on whether (or not) the source team is the home team
   mutate(home_id = if_else(home, team_id, opponent_id),
          home_name = if_else(home, team_name, opponent_name),
@@ -271,14 +275,17 @@ tibble(file = list.files("data/games", full.names = TRUE)) %>%
          away_score > 0) %>%
   
   # join teams with n/a ids but that exist in the db
+  # also remove bunk Cincinnati Christian recode
   left_join(arrow::read_parquet("data/teams/teams.parquet") %>%
-              distinct(team_name, league, missing_id = team_id),
-            by = c("home_name" = "team_name", "league")) %>%
+              distinct(team_name, missing_id = team_id) %>%
+              filter(missing_id != "108833"),
+            by = c("home_name" = "team_name")) %>%
   mutate(home_id = if_else(is.na(home_id), missing_id, home_id)) %>%
   select(-missing_id) %>%
   left_join(arrow::read_parquet("data/teams/teams.parquet") %>%
-              distinct(team_name, league, missing_id = team_id),
-            by = c("away_name" = "team_name", "league")) %>%
+              distinct(team_name, missing_id = team_id) %>%
+              filter(missing_id != "108833"),
+            by = c("away_name" = "team_name")) %>%
   mutate(away_id = if_else(is.na(away_id), missing_id, away_id)) %>%
   
   # write relevant cols to disk
