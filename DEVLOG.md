@@ -3,6 +3,9 @@
 ## 2024-11-29
 
 * Oops all berries I accidentally coded (almost) all the ids incorrectly. Ended up being a super easy fix (didn't have to re-scrape, just re-wrangle the scraped data).
+* Over-dispersion, rather than under-dispersion (this is good --- I don't want to have to try to implement the [generalized poisson](https://search.r-project.org/CRAN/refmans/LaplacesDemon/html/dist.Generalized.Poisson.html))
+* Some teams that *do* have an id don't have one in the final `games.parquet` file (e.g., BYU-Hawaii)
+* Oops, wasn't identifying neutral games correctly (easy fix)
 
 ## 2024-11-22
 

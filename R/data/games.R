@@ -224,10 +224,10 @@ tibble(file = list.files("data/games", full.names = TRUE)) %>%
          opponent_name = if_else(is.na(parse_number(str_sub(opponent_name, 1, 1))),
                                  opponent_name,
                                  str_sub(opponent_name, str_locate(opponent_name, " ")[,1] + 1)),
-         opponent_name = str_remove(opponent_name, " \\*")) %>%
+         opponent_name = str_remove(opponent_name, " \\*|\\*")) %>%
   
   # determine whether (or not) the game was played on neutral territory
-  mutate(neutral = str_detect(opponent_text, " \\*")) %>%
+  mutate(neutral = str_detect(opponent_text, " \\*|\\*")) %>%
   
   # determine whether (or not) the game went to overtime & the number of overtimes
   mutate(ot = str_detect(result_text, "OT"),
