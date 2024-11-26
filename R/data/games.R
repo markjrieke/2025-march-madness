@@ -192,9 +192,10 @@ plan(sequential)
 
 # open the dataset
 tibble(file = list.files("data/games", full.names = TRUE)) %>%
+  filter(file != "data/games/games.parquet") %>%
   mutate(games = map(file, arrow::read_parquet)) %>%
   unnest(games) %>%
-  
+
   # extract the game_id from the game link
   mutate(game_id = str_remove_all(game_link, "https://www.espn.com/|womens-|mens-|college-basketball/game/_/gameId/"),
          game_id = str_sub(game_id, 1, str_locate(game_id, "/")[,1] - 1)) %>%
@@ -278,7 +279,7 @@ tibble(file = list.files("data/games", full.names = TRUE)) %>%
   left_join(arrow::read_parquet("data/teams/teams.parquet") %>%
               distinct(team_name, league, missing_id = team_id),
             by = c("away_name" = "team_name", "league")) %>%
-  mutate(away_id = if_else(is.na(away_id), missing_id, home_id)) %>%
+  mutate(away_id = if_else(is.na(away_id), missing_id, away_id)) %>%
   
   # write relevant cols to disk
   select(league,

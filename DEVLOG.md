@@ -1,5 +1,9 @@
 # DEVLOG
 
+## 2024-11-29
+
+* Oops all berries I accidentally coded (almost) all the ids incorrectly. Ended up being a super easy fix (didn't have to re-scrape, just re-wrangle the scraped data).
+
 ## 2024-11-22
 
 *BIG* updates this week (as in, I think the data portion of this project can be called mostly done? I need to do some data quality checks, but I've got the data in hand). I deleted all the existing data that I scraped in the previous week and rewrote the scraper(s) to fix the problems noted below. Because the game scrape is now pulling from each team's schedule page, the schedule scraper is no longer needed. The scrapers a written around a new wrapper around `tryCatch()`, `retry_catch()` (which works with arbitrary expressions, not just webscraping). This (& a few other functions) sit in a utils.R script. The net result of all this rewriting is that **scraping the data is *way* faster**. As in, the game scrape took under an hour rather than two days.
