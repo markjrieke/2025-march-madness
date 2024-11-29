@@ -2,11 +2,13 @@
 
 ## 2024-11-29
 
-* Oops all berries I accidentally coded (almost) all the ids incorrectly. Ended up being a super easy fix (didn't have to re-scrape, just re-wrangle the scraped data).
-* Over-dispersion, rather than under-dispersion (this is good --- I don't want to have to try to implement the [generalized poisson](https://search.r-project.org/CRAN/refmans/LaplacesDemon/html/dist.Generalized.Poisson.html))
-* Some teams that *do* have an id don't have one in the final `games.parquet` file (e.g., BYU-Hawaii)
-* Oops, wasn't identifying neutral games correctly (easy fix)
-* Cincinnati Christian is the only team with a *different* team_id for mens (3093) and womens (108833). 
+It's Thanksgiving week & family is in town, so keeping this update short. I really only worked on sorting out a few data quality issues related to how I wrangled the scraped data:
+
+* Fixed an issue causing team ids to get overwritten by the home id
+* Added regex for correctly identifying *all* neutral games
+* Added specific recode(s) for Cincinnati Christian, which is the *only* team with a *different* team_id for mens (3093) and womens(108833)
+
+Some teams that *do* have an id *don't* have one in the final `games.parquet` file (e.g., BYU-Hawaii). I'll have to do some partial matching (or matching off names) here. That shouldn't be too difficult. On a positive note, it looks like points have the problem of over (rather than under) dispersion given a poisson distribution. This is preferred --- overdispersion of a poisson distribution is a solvable problem with modeling tools on hand. Underdispersion would require that I figure out the generalized poisson.
 
 ## 2024-11-22
 
