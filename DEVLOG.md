@@ -1,5 +1,9 @@
 # DEVLOG
 
+## 2024-12-05
+
+* Modeltime dawg
+
 ## 2024-11-29
 
 It's Thanksgiving week & family is in town, so keeping this update short. I really only worked on sorting out a few data quality issues related to how I wrangled the scraped data:
