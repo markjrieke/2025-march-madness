@@ -9,16 +9,7 @@ based on the results.
 
 #### Data
 
-- rewrite of hoopR/wehoop calls to ESPN’s scoreboard API endpoints
-- would need
-  - home team
-  - away team
-  - home score
-  - away score
-  - game location (home team on neutral territory shouldn’t get home
-    bonus)
-  - overtime?
-  - is_postseason
+See the `R/data/` and `data/` directories.
 
 #### Model
 
@@ -26,8 +17,11 @@ use the bivariate poisson to model score outcomes
 
 $$
 \begin{align*}
-S_h &\sim \text{Poisson}(\lambda_0 + \lambda_h) \\
-S_a &\sim \text{Poisson}(\lambda_0 + \lambda_a) \\
+S_h &= Y_0 + Y_h \\
+S_a &= Y_0 + Y_a \\
+Y_0 &\sim \text{Poisson}(\lambda_0) \\
+Y_h &\sim \text{Poisson}(\lambda_h) \\
+Y_a &\sim \text{Poisson}(\lambda_a) \\
 \log(\lambda_h) &= \beta_{a,t[h]} - \beta_{d,t[a]} \\
 \log(\lambda_a) &= \beta_{a,t[a]} - \beta_{d,t[h]} \\
 \log(\lambda_0) &= \gamma \\ 
@@ -38,7 +32,13 @@ $$
 
 Possibly convert to a MVN for attack/defense strength, add in
 time-varying parameters, other predictors (home advantage, game-level
-randome effects, overtime), but that gets to the basic structure.
+random effects, overtime), but that gets to the basic structure.
+
+> Note: the bivariate poisson pmf can be resolved as
+> `target += poisson_lpmf(S_h | lambda_0 + lambda_h) + poisson_lpmf(S_a | lambda_0 + lambda_a);`,
+> since the sum of two poissons is also poisson. The encoding above,
+> however, ensures that the generating function displays the correlated
+> nature in forward evaluation.
 
 Need to figure out:
 
@@ -62,7 +62,7 @@ Need to figure out:
   - tabs for each round
   - greyed out when eliminated
   - Prob of making it to: Round of 32, Sweet 16, Elite 8, Final 4,
-    Championchip, Winning
+    Championship, Winning
 
 ## Links
 

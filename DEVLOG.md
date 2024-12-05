@@ -3,6 +3,9 @@
 ## 2024-12-05
 
 * Modeltime dawg
+* Have been working on a startup idea
+* Okay so NA id indicates that it's a div II / III team that we don't need to worry about
+* There is one team that has a NA id *and* an actual id --- Mid-Continent University (564). To keep it simple, we're just gonna treat them like a div II / III team.
 
 ## 2024-11-29
 
