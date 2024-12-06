@@ -25,7 +25,7 @@ sims <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_03.stan",
+    "stan/dev_04.stan",
     dir = "exe/"
   )
 
@@ -34,7 +34,8 @@ stan_data <-
     N = nrow(tulsa),
     H = tulsa$home_score,
     A = tulsa$away_score,
-    O = tulsa$n_ot
+    O = tulsa$n_ot,
+    G = 1 - tulsa$neutral
     # N = nrow(sims),
     # H = sims$H,
     # A = sims$A
@@ -68,6 +69,6 @@ tulsa_fit$draws(c("Yh", "Ya", "Ot"), format = "df") %>%
              color = "royalblue") +
   geom_point(color = "red") + 
   # geom_density2d(color = "red") +
-  facet_wrap(~Ot) + 
+  # facet_wrap(~Ot) + 
   theme_rieke()
 
