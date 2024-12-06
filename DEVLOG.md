@@ -2,10 +2,11 @@
 
 ## 2024-12-05
 
-* Modeltime dawg
-* Have been working on a startup idea
-* Okay so NA id indicates that it's a div II / III team that we don't need to worry about
-* There is one team that has a NA id *and* an actual id --- Mid-Continent University (564). To keep it simple, we're just gonna treat them like a div II / III team.
+Last of the data checks completed! `NA` team ids pretty much universally indicate that we're dealing with a div II or div III team, so no need to worry about them too much (with the exception of Mid-Continent University, which is the only team that has both a `NA` id *and* an actual id (564). To keep things simple, we're just going to treat them like a div II / III team). I may need to figure out what to do with teams that migrate up to div I for a few seasons but then drop back down to div II / div III. The quick fix is just to filter based on the current `teams.parquet` list. 
+
+Other than that, I've done some initial toe dipping into super basic model work. There's some identifiability issues with the bivariate poisson --- in hindsight this makes sense because you're determining 3 parameter ($\lambda_0$, $\lambda_h$, and $\lambda_a$) from 2 pieces of data ($S_h$ and $S_a$). The bivariate distribution of scores is pretty gaussian blobby, though, so I can *probably* get away with just modeling as two independent poissons. The alternative is to use a copula to get a better model of the covariance. 
+
+Lots to do, but the path forward is pretty clear!
 
 ## 2024-11-29
 
