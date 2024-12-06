@@ -7,7 +7,7 @@ tulsa <-
   mutate(across(ends_with("_id"), ~if_else(.x == "564", NA, .x)),
          across(ends_with("_id"), ~if_else(is.na(.x), "missing", .x))) %>%
   filter(league == "mens",
-         season == 2018)# %>%
+         season == 2018) #%>%
   filter(home_name == "Tulsa" | away_name == "Tulsa")
 
 gamma <- log(40)
@@ -25,7 +25,7 @@ sims <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_02.stan",
+    "stan/dev_03.stan",
     dir = "exe/"
   )
 
@@ -52,16 +52,22 @@ tulsa_fit <-
     iter_sampling = 2000
   )
 
-tulsa_fit$draws(c("Yh", "Ya"), format = "df") %>%
+tulsa_fit$draws(c("Yh", "Ya", "Ot"), format = "df") %>%
   as_tibble() %>%
+  count(Yh, Ya, Ot) %>%
   ggplot(aes(x = Yh,
-             y = Ya)) + 
+             y = Ya,
+             alpha = n)) + 
   geom_point(data = tulsa %>%
-               count(home_score, away_score),
+               count(home_score, 
+                     away_score,
+                     Ot = n_ot),
              mapping = aes(x = home_score,
                            y = away_score,
                            alpha = n),
              color = "royalblue") +
-  geom_density2d(color = "red") +
+  geom_point(color = "red") + 
+  # geom_density2d(color = "red") +
+  facet_wrap(~Ot) + 
   theme_rieke()
 
