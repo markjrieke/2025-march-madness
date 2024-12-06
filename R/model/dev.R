@@ -7,7 +7,7 @@ tulsa <-
   mutate(across(ends_with("_id"), ~if_else(.x == "564", NA, .x)),
          across(ends_with("_id"), ~if_else(is.na(.x), "missing", .x))) %>%
   filter(league == "mens",
-         season == 2018) %>%
+         season == 2018)# %>%
   filter(home_name == "Tulsa" | away_name == "Tulsa")
 
 gamma <- log(40)
@@ -25,7 +25,7 @@ sims <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_01.stan",
+    "stan/dev_02.stan",
     dir = "exe/"
   )
 
@@ -33,7 +33,8 @@ stan_data <-
   list(
     N = nrow(tulsa),
     H = tulsa$home_score,
-    A = tulsa$away_score
+    A = tulsa$away_score,
+    O = tulsa$n_ot
     # N = nrow(sims),
     # H = sims$H,
     # A = sims$A
@@ -63,3 +64,4 @@ tulsa_fit$draws(c("Yh", "Ya"), format = "df") %>%
              color = "royalblue") +
   geom_density2d(color = "red") +
   theme_rieke()
+
