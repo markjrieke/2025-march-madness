@@ -25,7 +25,7 @@ sims <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_04.stan",
+    "stan/dev_05.stan",
     dir = "exe/"
   )
 
@@ -35,7 +35,7 @@ stan_data <-
     H = tulsa$home_score,
     A = tulsa$away_score,
     O = tulsa$n_ot,
-    G = 1 - tulsa$neutral
+    G = tulsa$neutral
     # N = nrow(sims),
     # H = sims$H,
     # A = sims$A
