@@ -5,7 +5,9 @@ library(cmdstanr)
 tulsa <- 
   arrow::read_parquet("data/games/games.parquet") %>%
   mutate(across(ends_with("_id"), ~if_else(.x == "564", NA, .x)),
-         across(ends_with("_id"), ~if_else(is.na(.x), "missing", .x))) %>%
+         across(ends_with("_id"), ~if_else(is.na(.x), "missing", .x)),
+         home_name = if_else(home_id == "missing", "missing", home_name),
+         away_name = if_else(away_id == "missing", "missing", away_name)) %>%
   filter(league == "mens",
          season == 2018) #%>%
   filter(home_name == "Tulsa" | away_name == "Tulsa")
@@ -25,17 +27,41 @@ sims <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_05.stan",
+    "stan/dev_06.stan",
     dir = "exe/"
   )
+
+teams <- 
+  tulsa %>%
+  select(ends_with("name")) %>%
+  pivot_longer(everything(),
+               names_to = "home_away",
+               values_to = "team_name") %>%
+  distinct(team_name) %>%
+  arrange(team_name) %>%
+  rowid_to_column("tid")
+
+tid <- 
+  tulsa %>%
+  left_join(teams, by = c("home_name" = "team_name")) %>%
+  rename(tid1 = tid) %>%
+  left_join(teams, by = c("away_name" = "team_name")) %>%
+  rename(tid2 = tid) %>%
+  select(starts_with("tid")) %>%
+  as.matrix()
 
 stan_data <-
   list(
     N = nrow(tulsa),
+    T = max(teams$tid),
+    tid = tid,
     H = tulsa$home_score,
     A = tulsa$away_score,
     O = tulsa$n_ot,
-    G = tulsa$neutral
+    alpha_mu = log(70/40),
+    alpha_sigma = 0.5,
+    sigma_t_mu = 0,
+    sigma_t_sigma = 0.5
     # N = nrow(sims),
     # H = sims$H,
     # A = sims$A
