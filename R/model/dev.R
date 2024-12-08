@@ -9,12 +9,13 @@ tulsa <-
          home_name = if_else(home_id == "missing", "missing", home_name),
          away_name = if_else(away_id == "missing", "missing", away_name)) %>%
   filter(league == "mens",
-         season == 2018) #%>%
+         season == 2018) %>%
+  slice_sample(n =)
   filter(home_name == "Tulsa" | away_name == "Tulsa")
 
 model <- 
   cmdstan_model(
-    "stan/dev_10.stan",
+    "stan/dev_12.stan",
     dir = "exe/"
   )
 
@@ -47,6 +48,7 @@ stan_data <-
     H = tulsa$home_score,
     A = tulsa$away_score,
     O = tulsa$n_ot,
+    U = 1 - tulsa$neutral,
     alpha = log(70/40),
     alpha_mu = log(70/40),
     alpha_sigma = 0.75,
@@ -59,7 +61,9 @@ stan_data <-
     sigma_d_mu = 0,
     sigma_d_sigma = 0.75,
     sigma_g_mu = 0,
-    sigma_g_sigma = 0.25
+    sigma_g_sigma = 0.25,
+    sigma_p_mu = 0,
+    sigma_p_sigma = 0.25
     # N = nrow(sims),
     # H = sims$H,
     # A = sims$A
@@ -90,7 +94,6 @@ preds %>%
          q95) %>%
   rename(score = median) %>%
   left_join(tulsa %>% rowid_to_column()) %>%
-  filter(n_ot == 0) %>%
   mutate(truth = if_else(location == "home", home_score, away_score)) %>%
   select(location,
          truth,
@@ -109,6 +112,11 @@ preds %>%
               linewidth = 1) + 
   facet_wrap(~location) + 
   theme_rieke()
+
+beepr::beep(1)
+
+tulsa_fit$summary(c(paste0("eta_", c("o", "d", "g"), "[315]"), paste0("sigma_", c("o", "d", "g"))))
+bayesplot::mcmc_pairs(tulsa_fit$draws(c(paste0("eta_", c("o", "d", "g"), "[315]"), paste0("sigma_", c("o", "d", "g")))))
 
 od <- 
   tulsa_fit$summary(c("eta_o", "eta_d"))
