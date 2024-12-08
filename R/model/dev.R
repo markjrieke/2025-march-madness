@@ -12,22 +12,9 @@ tulsa <-
          season == 2018) #%>%
   filter(home_name == "Tulsa" | away_name == "Tulsa")
 
-gamma <- log(40)
-alpha_h <- log(30)
-alpha_a <- log(30)
-n_games <- 500
-
-sims <- 
-  tibble(Y0 = rpois(n_games, exp(gamma)),
-         Y1 = rpois(n_games, exp(alpha_h)),
-         Y2 = rpois(n_games, exp(alpha_a))) %>%
-  mutate(H = Y0 + Y1,
-         A = Y0 + Y2) %>%
-  select(H, A)
-
 model <- 
   cmdstan_model(
-    "stan/dev_06.stan",
+    "stan/dev_09.stan",
     dir = "exe/"
   )
 
@@ -63,6 +50,8 @@ stan_data <-
     alpha = log(70/40),
     alpha_mu = log(70/40),
     alpha_sigma = 0.75,
+    gamma_mu = log(75) - log(70),
+    gamma_sigma = 0.25,
     sigma_t_mu = 0,
     sigma_t_sigma = 0.75,
     sigma_o_mu = 0,
@@ -82,28 +71,9 @@ tulsa_fit <-
     step_size = 0.002,
     chains = 4,
     parallel_chains = 4,
-    iter_warmup = 2000,
-    iter_sampling = 2000
+    iter_warmup = 1000,
+    iter_sampling = 1000
   )
-
-tulsa_fit$draws(c("Yh", "Ya", "Ot"), format = "df") %>%
-  as_tibble() %>%
-  count(Yh, Ya, Ot) %>%
-  ggplot(aes(x = Yh,
-             y = Ya,
-             alpha = n)) + 
-  geom_point(data = tulsa %>%
-               count(home_score, 
-                     away_score,
-                     Ot = n_ot),
-             mapping = aes(x = home_score,
-                           y = away_score,
-                           alpha = n),
-             color = "royalblue") +
-  geom_point(color = "red") + 
-  # geom_density2d(color = "red") +
-  # facet_wrap(~Ot) + 
-  theme_rieke()
 
 preds <- 
   tulsa_fit$summary(c("Yh", "Ya"))
@@ -117,27 +87,24 @@ preds %>%
          q5,
          q95) %>%
   rename(score = median) %>%
-  pivot_wider(names_from = location,
-              values_from = c(score, q5, q95)) %>%
-  bind_cols(tulsa) %>% #filter(away_name == "Tulsa", home_name == "Oklahoma State")
-  select(rowid,
-         home_score,
-         away_score,
-         score_home,
-         score_away,
-         q5_home,
-         q5_away,
-         q95_home,
-         q95_away) %>%
-  ggplot(aes(x = home_score,
-             y = score_home,
-             ymin = q5_home,
-             ymax = q95_home)) + 
-  geom_pointrange(alpha = 0.25,
-                  color = "royalblue") +
-  geom_abline(linetype = "dashed", 
+  left_join(tulsa %>% rowid_to_column()) %>%
+  filter(n_ot == 0) %>%
+  mutate(truth = if_else(location == "home", home_score, away_score)) %>%
+  select(location,
+         truth,
+         score,
+         q5,
+         q95) %>%
+  ggplot(aes(x = truth,
+             y = score,
+             ymin = q5,
+             ymax = q95)) + 
+  geom_pointrange(alpha = 0.125,
+                  color = "royalblue") + 
+  geom_abline(linetype = "dashed",
               color = "orange",
-              linewidth = 1) +
+              linewidth = 1) + 
+  facet_wrap(~location) + 
   theme_rieke()
 
 od <- 
