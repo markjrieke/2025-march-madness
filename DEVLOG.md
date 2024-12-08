@@ -1,6 +1,21 @@
 # DEVLOG
 
-## 2024-12-05
+## 2024-12-13
+
+* more fitting
+* to do: 
+  * correlation between offense, defense, and home advantage?
+  * neutral ground param?
+  * away penalty param?
+  * infer p(n_ot)?
+    * would change gq block
+    * might make inferring distribution of p_win easier?
+  * start thinking about multi-season model
+    * ar processes over parameters
+    * parameter recovery???
+
+
+## 2024-12-06
 
 Last of the data checks completed! `NA` team ids pretty much universally indicate that we're dealing with a div II or div III team, so no need to worry about them too much (with the exception of Mid-Continent University, which is the only team that has both a `NA` id *and* an actual id (564). To keep things simple, we're just going to treat them like a div II / III team). I may need to figure out what to do with teams that migrate up to div I for a few seasons but then drop back down to div II / div III. The quick fix is just to filter based on the current `teams.parquet` list. 
 

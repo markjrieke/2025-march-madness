@@ -96,13 +96,14 @@ preds %>%
          truth,
          score,
          q5,
-         q95) %>%
+         q95,
+         neutral) %>%
   ggplot(aes(x = truth,
              y = score,
              ymin = q5,
-             ymax = q95)) + 
-  geom_pointrange(alpha = 0.125,
-                  color = "royalblue") + 
+             ymax = q95,
+             color = neutral)) + 
+  geom_pointrange(alpha = 0.125) + 
   geom_abline(linetype = "dashed",
               color = "orange",
               linewidth = 1) + 
