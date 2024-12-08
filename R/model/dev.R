@@ -14,7 +14,7 @@ tulsa <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_09.stan",
+    "stan/dev_10.stan",
     dir = "exe/"
   )
 
@@ -57,7 +57,9 @@ stan_data <-
     sigma_o_mu = 0,
     sigma_o_sigma = 0.75,
     sigma_d_mu = 0,
-    sigma_d_sigma = 0.75
+    sigma_d_sigma = 0.75,
+    sigma_g_mu = 0,
+    sigma_g_sigma = 0.25
     # N = nrow(sims),
     # H = sims$H,
     # A = sims$A
