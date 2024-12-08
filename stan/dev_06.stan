@@ -53,4 +53,21 @@ model {
   target += poisson_lpmf(A | lambda_a);
 }
 
+generated quantities {
+  array[N] int<lower=0> Yh = poisson_log_rng(beta_h + log(40));
+  array[N] int<lower=0> Ya = poisson_log_rng(beta_a + log(40));
+  array[N] int<lower=0> Ot = rep_array(0, N);
+  for (n in 1:N) {
+    for (i in 1:100) {
+      if (Yh[n] != Ya[n]) {
+        break;
+      } else {
+        Yh[n] += poisson_log_rng(beta_h[n] + log(5));
+        Ya[n] += poisson_log_rng(beta_a[n] + log(5));
+        Ot[n] += 1;
+      }
+    }
+  }
+}
+
 

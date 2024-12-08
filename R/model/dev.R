@@ -27,7 +27,7 @@ sims <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_08.stan",
+    "stan/dev_06.stan",
     dir = "exe/"
   )
 
@@ -61,8 +61,10 @@ stan_data <-
     A = tulsa$away_score,
     O = tulsa$n_ot,
     alpha = log(70/40),
-    # alpha_mu = log(70/40),
-    # alpha_sigma = 0.75,
+    alpha_mu = log(70/40),
+    alpha_sigma = 0.75,
+    sigma_t_mu = 0,
+    sigma_t_sigma = 0.75,
     sigma_o_mu = 0,
     sigma_o_sigma = 0.75,
     sigma_d_mu = 0,
