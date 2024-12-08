@@ -27,7 +27,7 @@ sims <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_06.stan",
+    "stan/dev_07.stan",
     dir = "exe/"
   )
 
@@ -50,6 +50,8 @@ tid <-
   select(starts_with("tid")) %>%
   as.matrix()
 
+tid <- array(tid, dim = c(nrow(tid), ncol(tid)))
+
 stan_data <-
   list(
     N = nrow(tulsa),
@@ -59,9 +61,11 @@ stan_data <-
     A = tulsa$away_score,
     O = tulsa$n_ot,
     alpha_mu = log(70/40),
-    alpha_sigma = 0.5,
-    sigma_t_mu = 0,
-    sigma_t_sigma = 0.5
+    alpha_sigma = 0.75,
+    sigma_o_mu = 0,
+    sigma_o_sigma = 0.75,
+    sigma_d_mu = 0,
+    sigma_d_sigma = 0.75
     # N = nrow(sims),
     # H = sims$H,
     # A = sims$A
@@ -97,4 +101,68 @@ tulsa_fit$draws(c("Yh", "Ya", "Ot"), format = "df") %>%
   # geom_density2d(color = "red") +
   # facet_wrap(~Ot) + 
   theme_rieke()
+
+preds <- 
+  tulsa_fit$summary(c("Yh", "Ya"))
+
+preds %>%
+  mutate(rowid = parse_number(variable),
+         location = if_else(str_detect(variable, "h"), "home", "away")) %>%
+  select(rowid,
+         location,
+         median,
+         q5,
+         q95) %>%
+  rename(score = median) %>%
+  pivot_wider(names_from = location,
+              values_from = c(score, q5, q95)) %>%
+  bind_cols(tulsa) %>% #filter(away_name == "Tulsa", home_name == "Oklahoma State")
+  select(rowid,
+         home_score,
+         away_score,
+         score_home,
+         score_away,
+         q5_home,
+         q5_away,
+         q95_home,
+         q95_away) %>%
+  ggplot(aes(x = home_score,
+             y = score_home,
+             ymin = q5_home,
+             ymax = q95_home)) + 
+  geom_pointrange(alpha = 0.25,
+                  color = "royalblue") +
+  geom_abline(linetype = "dashed", 
+              color = "orange",
+              linewidth = 1) +
+  theme_rieke()
+
+# sbc --------------------------------------------------------------------------
+
+alpha_mu <- log(70/40)
+alpha_sigma <- 0.3
+sigma_o_mu <- 0
+sigma_o_sigma <- 0.3
+sigma_d_mu <- 0
+sigma_d_sigma <- 0.3
+
+n_sims <- 5000
+
+tibble(alpha = rnorm(n_sims, alpha_mu, alpha_sigma),
+       eta_oh = rnorm(n_sims),
+       eta_dh = rnorm(n_sims),
+       eta_oa = rnorm(n_sims),
+       eta_da = rnorm(n_sims),
+       sigma_o = abs(rnorm(n_sims, sigma_o_mu, sigma_o_sigma)),
+       sigma_d = abs(rnorm(n_sims, sigma_d_mu, sigma_d_sigma))) %>%
+  mutate(beta_h = alpha + eta_oh * sigma_o - eta_da * sigma_d,
+         beta_a = alpha + eta_oa * sigma_o - eta_dh * sigma_d,
+         lambda_h = exp(beta_h) * 40,
+         lambda_a = exp(beta_a) * 40) %>%
+  bind_cols(Yh = rpois(nrow(.), .$lambda_h),
+            Ya = rpois(nrow(.), .$lambda_a)) %>%
+  ggplot(aes(x = Yh,
+             y = Ya)) + 
+  geom_density2d()
+
 
