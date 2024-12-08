@@ -27,7 +27,7 @@ sims <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_07.stan",
+    "stan/dev_08.stan",
     dir = "exe/"
   )
 
@@ -60,8 +60,9 @@ stan_data <-
     H = tulsa$home_score,
     A = tulsa$away_score,
     O = tulsa$n_ot,
-    alpha_mu = log(70/40),
-    alpha_sigma = 0.75,
+    alpha = log(70/40),
+    # alpha_mu = log(70/40),
+    # alpha_sigma = 0.75,
     sigma_o_mu = 0,
     sigma_o_sigma = 0.75,
     sigma_d_mu = 0,
@@ -136,6 +137,60 @@ preds %>%
               color = "orange",
               linewidth = 1) +
   theme_rieke()
+
+od <- 
+  tulsa_fit$summary(c("eta_o", "eta_d"))
+
+od %>%
+  mutate(tid = parse_number(variable),
+         variable = if_else(str_detect(variable, "o"), "offense", "defense")) %>%
+  select(tid, variable, median, q5, q95) %>%
+  pivot_wider(names_from = variable,
+              values_from = c(median, q5, q95)) %>%
+  ggplot(aes(x = median_offense,
+             y = median_defense)) +
+  geom_point(size = 2.5,
+             alpha = 0.25) +
+  geom_segment(aes(x = q5_offense,
+                   xend = q95_offense),
+               alpha = 0.25) +
+  geom_segment(aes(y = q5_defense,
+                   yend = q95_defense),
+               alpha = 0.25) + 
+  theme_rieke()
+
+tuod <- 
+  tulsa_fit$draws(c("eta_o[315]", "eta_d[315]"), format = "df")
+
+tuod %>%
+  as_tibble() %>%
+  rename(offense = 1,
+         defense = 2) %>%
+  slice_sample(n = 2000) %>%
+  ggplot(aes(x = offense,
+             y = defense)) + 
+  geom_point()
+
+1.8/0.8; 0.5/0.4; 0.095/0.095
+
+zo <- 1.8*0.095
+zd <- 0.8*0.095
+to <- 0.5*0.095
+td <- 0.4*0.095
+a <- log(70/40)
+
+tibble(z = rpois(1e4, exp(a + zo - td) * 40),
+       t = rpois(1e4, exp(a + to - zd) * 40)) %>%
+  summarise(pz = sum(z>t)/n())
+
+sigmas <-
+  tulsa_fit$draws(c("sigma_o", "sigma_d"), format = "df")
+
+sigmas %>%
+  as_tibble() %>%
+  ggplot(aes(x = sigma_o,
+             y = sigma_d)) + 
+  geom_point()
 
 # sbc --------------------------------------------------------------------------
 
