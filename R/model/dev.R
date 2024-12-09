@@ -10,12 +10,12 @@ tulsa <-
          away_name = if_else(away_id == "missing", "missing", away_name)) %>%
   filter(league == "mens",
          season == 2018) #%>%
-  # slice_sample(n = 1000)
+  slice_sample(n = 1000)
   filter(home_name == "Tulsa" | away_name == "Tulsa")
 
 model <- 
   cmdstan_model(
-    "stan/dev_14.stan",
+    "stan/dev_15.stan",
     dir = "exe/"
   )
 
@@ -52,8 +52,10 @@ stan_data <-
     alpha = log(70/40),
     alpha_mu = log(70/40),
     alpha_sigma = 0.75,
-    gamma_mu = log(0.1),
+    gamma_mu = 0,
     gamma_sigma = 0.25,
+    delta_mu = log(0.1),
+    delta_sigma = 0.25,
     sigma_t_mu = 0,
     sigma_t_sigma = 0.75,
     sigma_o_mu = 0,
