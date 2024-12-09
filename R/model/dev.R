@@ -9,13 +9,13 @@ tulsa <-
          home_name = if_else(home_id == "missing", "missing", home_name),
          away_name = if_else(away_id == "missing", "missing", away_name)) %>%
   filter(league == "mens",
-         season == 2018) %>%
-  slice_sample(n =)
+         season == 2018) #%>%
+  slice_sample(n = 1000)
   filter(home_name == "Tulsa" | away_name == "Tulsa")
 
 model <- 
   cmdstan_model(
-    "stan/dev_12.stan",
+    "stan/dev_13.stan",
     dir = "exe/"
   )
 
@@ -52,7 +52,7 @@ stan_data <-
     alpha = log(70/40),
     alpha_mu = log(70/40),
     alpha_sigma = 0.75,
-    gamma_mu = log(75) - log(70),
+    gamma_mu = log(0.1),
     gamma_sigma = 0.25,
     sigma_t_mu = 0,
     sigma_t_sigma = 0.75,
@@ -100,7 +100,7 @@ preds %>%
          score,
          q5,
          q95,
-         neutral) %>%
+         neutral) %>% #mutate(within = truth > q5 & truth < q95) %>% percent(within)
   ggplot(aes(x = truth,
              y = score,
              ymin = q5,
