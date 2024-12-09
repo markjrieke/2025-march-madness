@@ -9,13 +9,13 @@ tulsa <-
          home_name = if_else(home_id == "missing", "missing", home_name),
          away_name = if_else(away_id == "missing", "missing", away_name)) %>%
   filter(league == "mens",
-         season == 2018) #%>%
+         season == 2018) %>%
   slice_sample(n = 1000)
   filter(home_name == "Tulsa" | away_name == "Tulsa")
 
 model <- 
   cmdstan_model(
-    "stan/dev_15.stan",
+    "stan/dev_16.stan",
     dir = "exe/"
   )
 
@@ -54,6 +54,10 @@ stan_data <-
     alpha_sigma = 0.75,
     gamma_mu = 0,
     gamma_sigma = 0.25,
+    omega_mu = 0,
+    omega_sigma = 1,
+    zeta_mu = 0,
+    zeta_sigma = 1,
     delta_mu = log(0.1),
     delta_sigma = 0.25,
     sigma_t_mu = 0,
@@ -106,15 +110,14 @@ preds %>%
          q95,
          neutral) %>% #mutate(within = truth > q5 & truth < q95) %>% percent(within)
   # mutate(across(c(truth, score, q5, q95), log)) %>%
-  ggplot(aes(x = truth,
-             y = score,
-             ymin = q5,
-             ymax = q95)) + 
-  geom_pointrange(alpha = 0.125) + 
+  ggplot(aes(x = log(score),
+             y = log(truth))) +
+  geom_point() +
+  # geom_pointrange(alpha = 0.125) + 
   geom_abline(linetype = "dashed",
               color = "orange",
               linewidth = 1) + 
-  geom_smooth() + 
+  geom_smooth(method = "lm") + 
   facet_wrap(~location) + 
   theme_rieke()
 
