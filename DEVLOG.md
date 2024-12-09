@@ -5,11 +5,7 @@
 * more fitting
 * to do: 
   * correlation between offense, defense, and home advantage?
-  * neutral ground param?
-  * away penalty param?
-  * infer p(n_ot)?
-    * would change gq block
-    * might make inferring distribution of p_win easier?
+  * simple linear adjustment ? (i.e., currently overshoot low scores and undershoot high scores)
   * start thinking about multi-season model
     * ar processes over parameters
     * parameter recovery???

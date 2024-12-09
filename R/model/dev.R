@@ -105,15 +105,16 @@ preds %>%
          q5,
          q95,
          neutral) %>% #mutate(within = truth > q5 & truth < q95) %>% percent(within)
+  # mutate(across(c(truth, score, q5, q95), log)) %>%
   ggplot(aes(x = truth,
              y = score,
              ymin = q5,
-             ymax = q95,
-             color = neutral)) + 
+             ymax = q95)) + 
   geom_pointrange(alpha = 0.125) + 
   geom_abline(linetype = "dashed",
               color = "orange",
               linewidth = 1) + 
+  geom_smooth() + 
   facet_wrap(~location) + 
   theme_rieke()
 
