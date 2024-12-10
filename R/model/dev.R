@@ -10,12 +10,12 @@ tulsa <-
          away_name = if_else(away_id == "missing", "missing", away_name)) %>%
   filter(league == "mens",
          season == 2018) #%>%
-  slice_sample(n = 1000)
+  # slice_sample(n = 1000)
   filter(home_name == "Tulsa" | away_name == "Tulsa")
 
 model <- 
   cmdstan_model(
-    "stan/dev_18.stan",
+    "stan/dev_19.stan",
     dir = "exe/"
   )
 
@@ -100,11 +100,12 @@ preds %>%
          score,
          q5,
          q95,
-         neutral) %>%
+         neutral) %>% 
   ggplot(aes(x = truth,
              y = score,
              ymin = q5,
-             ymax = q95)) + 
+             ymax = q95,
+             color = within)) + 
   geom_pointrange(alpha = 0.125,
                   color = "royalblue") +
   geom_abline(linetype = "dashed",
