@@ -9,13 +9,13 @@ tulsa <-
          home_name = if_else(home_id == "missing", "missing", home_name),
          away_name = if_else(away_id == "missing", "missing", away_name)) %>%
   filter(league == "mens",
-         season == 2018) %>%
+         season == 2018) #%>%
   slice_sample(n = 1000)
   filter(home_name == "Tulsa" | away_name == "Tulsa")
 
 model <- 
   cmdstan_model(
-    "stan/dev_16.stan",
+    "stan/dev_17.stan",
     dir = "exe/"
   )
 
@@ -36,45 +36,36 @@ tid <-
   left_join(teams, by = c("away_name" = "team_name")) %>%
   rename(tid2 = tid) %>%
   select(starts_with("tid")) %>%
-  as.matrix()
+  as.matrix() %>%
+  t()
 
-tid <- array(tid, dim = c(nrow(tid), ncol(tid)))
+S <- 
+  tulsa %>%
+  select(home_score, away_score) %>%
+  as.matrix() %>%
+  t()
 
 stan_data <-
   list(
     N = nrow(tulsa),
     T = max(teams$tid),
-    tid = tid,
-    H = tulsa$home_score,
-    A = tulsa$away_score,
     O = tulsa$n_ot,
-    U = 1 - tulsa$neutral,
+    V = 1 - tulsa$neutral,
+    tid = tid,
+    S = S,
     alpha = log(70/40),
-    alpha_mu = log(70/40),
-    alpha_sigma = 0.75,
-    gamma_mu = 0,
-    gamma_sigma = 0.25,
-    omega_mu = 0,
-    omega_sigma = 1,
-    zeta_mu = 0,
-    zeta_sigma = 1,
-    delta_mu = log(0.1),
-    delta_sigma = 0.25,
-    sigma_t_mu = 0,
-    sigma_t_sigma = 0.75,
     sigma_o_mu = 0,
     sigma_o_sigma = 0.75,
     sigma_d_mu = 0,
     sigma_d_sigma = 0.75,
-    sigma_g_mu = 0,
-    sigma_g_sigma = 0.25,
-    sigma_p_mu = 0,
-    sigma_p_sigma = 0.25,
+    sigma_h_mu = 0,
+    sigma_h_sigma = 0.25,
     sigma_i_mu = 0,
-    sigma_i_sigma = 0.75
-    # N = nrow(sims),
-    # H = sims$H,
-    # A = sims$A
+    sigma_i_sigma = 0.75,
+    gamma_mu = 0,
+    gamma_sigma = 0.25,
+    delta_mu = log(0.1),
+    delta_sigma = 0.25
   )
 
 tulsa_fit <-
@@ -90,17 +81,14 @@ tulsa_fit <-
   )
 
 preds <- 
-  tulsa_fit$summary(c("Yh", "Ya"))
+  tulsa_fit$summary(c("Y"))
 
 preds %>%
-  mutate(rowid = parse_number(variable),
-         location = if_else(str_detect(variable, "h"), "home", "away")) %>%
-  select(rowid,
-         location,
-         median,
-         q5,
-         q95) %>%
-  rename(score = median) %>%
+  mutate(location = if_else(str_sub(variable, 3, 3) == "1", "home", "away"),
+         variable = str_remove_all(variable, "Y|\\[1|\\[2|,|\\]"),
+         variable = as.numeric(variable)) %>%
+  rename(rowid = variable,
+         score = median) %>%
   left_join(tulsa %>% rowid_to_column()) %>%
   mutate(truth = if_else(location == "home", home_score, away_score)) %>%
   select(location,
@@ -108,17 +96,17 @@ preds %>%
          score,
          q5,
          q95,
-         neutral) %>% #mutate(within = truth > q5 & truth < q95) %>% percent(within)
-  # mutate(across(c(truth, score, q5, q95), log)) %>%
-  ggplot(aes(x = log(score),
-             y = log(truth))) +
-  geom_point() +
-  # geom_pointrange(alpha = 0.125) + 
+         neutral) %>%
+  ggplot(aes(x = truth,
+             y = score,
+             ymin = q5,
+             ymax = q95)) + 
+  geom_pointrange(alpha = 0.125,
+                  color = "royalblue") +
   geom_abline(linetype = "dashed",
               color = "orange",
               linewidth = 1) + 
-  geom_smooth(method = "lm") + 
-  facet_wrap(~location) + 
+  facet_wrap(~location) +
   theme_rieke()
 
 beepr::beep(1)
