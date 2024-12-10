@@ -15,7 +15,7 @@ tulsa <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_17.stan",
+    "stan/dev_18.stan",
     dir = "exe/"
   )
 
@@ -62,10 +62,14 @@ stan_data <-
     sigma_h_sigma = 0.25,
     sigma_i_mu = 0,
     sigma_i_sigma = 0.75,
-    gamma_mu = 0,
-    gamma_sigma = 0.25,
-    delta_mu = log(0.1),
-    delta_sigma = 0.25
+    gamma_0_mu = 0,
+    gamma_0_sigma = 0.25,
+    delta_0_mu = logit(0.9),
+    delta_0_sigma = 0.25,
+    gamma_t_mu = 0,
+    gamma_t_sigma = 0.25,
+    delta_t_mu = log(0.1),
+    delta_t_sigma = 0.25
   )
 
 tulsa_fit <-
