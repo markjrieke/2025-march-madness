@@ -1,7 +1,7 @@
 library(tidyverse)
 
 mu0 <- log(c(65, 70)/40)
-sigma <- 0.02
+sigma <- 0.03
 
 # set.seed(1234)
 sims <- 
@@ -34,7 +34,7 @@ sims %>%
 
 model <-
   cmdstan_model(
-    "stan/dev_23.stan",
+    "stan/dev_24.stan",
     dir = "exe/"
   )
 
@@ -86,6 +86,31 @@ iterative_fit$summary("beta_plus") %>%
   geom_point(aes(y = mu)) +
   scale_color_brewer(palette = "Dark2") + 
   scale_fill_brewer(palette = "Dark2") + 
+  theme_rieke()
+
+iterative_fit$summary("points_plus") %>%
+  mutate(variable = str_remove_all(variable, "points_plus\\[|\\]"),
+         tid = str_sub(variable, 1, str_locate(variable, ",")[,1] -1),
+         tid = as.integer(tid),
+         t = str_sub(variable, str_locate(variable, ",")[,1] + 1),
+         t = as.integer(t) - 1) %>%
+  ggplot(aes(x = t,
+             y = median,
+             ymin = q5,
+             ymax = q95,
+             color = as.factor(tid),
+             fill = as.factor(tid))) + 
+  geom_point(data = sims,
+             mapping = aes(y = points,
+                           ymin = NULL,
+                           ymax = NULL),
+             alpha = 0.25) +
+  geom_ribbon(aes(color = NULL),
+              alpha = 0.25) + 
+  geom_line() +
+  scale_color_brewer(palette = "Dark2") + 
+  scale_fill_brewer(palette = "Dark2") +
+  facet_wrap(~tid, ncol = 1) + 
   theme_rieke()
 
 iterative_fit$summary(c("beta0", "sigma"))
