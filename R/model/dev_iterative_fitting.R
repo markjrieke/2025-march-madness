@@ -34,21 +34,19 @@ sims %>%
 
 model <-
   cmdstan_model(
-    "stan/dev_22.stan",
+    "stan/dev_23.stan",
     dir = "exe/"
   )
 
-single_team <- 
-  sims %>%
-  filter(tid == 2)
-
 stan_data <-
   list(
-    N = nrow(single_team),
-    T = max(single_team$t) + 1,
-    J = 5,
-    tid = single_team$t + 1,
-    S = single_team$points,
+    N = nrow(sims),
+    T = max(sims$tid),
+    J = max(sims$t) + 1,
+    M = 5,
+    tid = sims$tid,
+    jid = sims$t + 1,
+    S = sims$points,
     beta0_mu = log(70/40),
     beta0_sigma = 0.25,
     log_sigma_mu = log(0.025),
@@ -68,16 +66,26 @@ iterative_fit <-
   )
 
 iterative_fit$summary("beta_plus") %>%
-  mutate(t = parse_number(variable) - 1,
-         across(c(median, q5, q95), ~.x - log(40))) %>%
-  select(t, median, q5, q95) %>%
-  left_join(single_team %>% distinct(t, mu)) %>%
+  mutate(across(c(median, q5, q95), ~.x - log(40)),
+         variable = str_remove_all(variable, "beta_plus\\[|\\]"),
+         tid = str_sub(variable, 1, str_locate(variable, ",")[,1] - 1),
+         tid = as.integer(tid),
+         t = str_sub(variable, str_locate(variable, ",")[,1] + 1),
+         t = as.integer(t) - 1) %>%
+  select(t, tid, median, q5, q95) %>%
+  left_join(sims %>% distinct(t, tid, mu)) %>%
   ggplot(aes(x = t,
              y = median,
              ymin = q5,
-             ymax = q95)) + 
-  geom_ribbon(alpha = 0.25) +
+             ymax = q95,
+             color = as.factor(tid),
+             fill = as.factor(tid))) +
+  geom_ribbon(aes(color = NULL),
+              alpha = 0.25) +
   geom_line() +
-  geom_point(aes(y = mu))
+  geom_point(aes(y = mu)) +
+  scale_color_brewer(palette = "Dark2") + 
+  scale_fill_brewer(palette = "Dark2") + 
+  theme_rieke()
 
 iterative_fit$summary(c("beta0", "sigma"))
