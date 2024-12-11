@@ -3,7 +3,7 @@ library(tidyverse)
 mu0 <- log(c(65, 70)/40)
 sigma <- 0.02
 
-set.seed(1234)
+# set.seed(1234)
 sims <- 
   crossing(t = 0:20,
            tid = 1:2) %>%
@@ -34,7 +34,7 @@ sims %>%
 
 model <-
   cmdstan_model(
-    "stan/dev_20.stan",
+    "stan/dev_21.stan",
     dir = "exe/"
   )
 
@@ -46,12 +46,13 @@ stan_data <-
   list(
     N = nrow(single_team),
     T = max(single_team$t) + 1,
+    J = 5,
     tid = single_team$t + 1,
     S = single_team$points,
     beta0_mu = log(70/40),
     beta0_sigma = 0.25,
     sigma_mu = 0,
-    sigma_sigma = 0.25
+    sigma_sigma = 0.125
   )
 
 iterative_fit <-
@@ -66,7 +67,7 @@ iterative_fit <-
     iter_sampling = 1000
   )
 
-iterative_fit$summary("beta") %>%
+iterative_fit$summary("beta_plus") %>%
   mutate(t = parse_number(variable) - 1,
          across(c(median, q5, q95), ~.x - log(40))) %>%
   select(t, median, q5, q95) %>%
@@ -78,3 +79,5 @@ iterative_fit$summary("beta") %>%
   geom_ribbon(alpha = 0.25) +
   geom_line() +
   geom_point(aes(y = mu))
+
+iterative_fit$summary(c("beta0", "sigma"))
