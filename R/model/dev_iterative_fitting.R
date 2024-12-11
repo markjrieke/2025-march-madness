@@ -34,7 +34,7 @@ sims %>%
 
 model <-
   cmdstan_model(
-    "stan/dev_21.stan",
+    "stan/dev_22.stan",
     dir = "exe/"
   )
 
@@ -51,8 +51,8 @@ stan_data <-
     S = single_team$points,
     beta0_mu = log(70/40),
     beta0_sigma = 0.25,
-    sigma_mu = 0,
-    sigma_sigma = 0.125
+    log_sigma_mu = log(0.025),
+    log_sigma_sigma = 0.5
   )
 
 iterative_fit <-
