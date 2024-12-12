@@ -40,8 +40,7 @@ model <-
     dir = "exe/"
   )
 
-s <- 2000
-
+# iterate over each game
 for (s in unique(sims$season)) {
   
   season_data <- 
@@ -49,97 +48,121 @@ for (s in unique(sims$season)) {
     filter(season == s) %>%
     mutate(sid = 2)
   
-  T <- max(season_data$tid)
-  S <- max(season_data$sid)
-  P <- T + (T * (S-1)) + 1
+  g_min <- min(season_data$game)
   
-  # set priors
-  if (s == 2000) {
+  for (g in unique(season_data$game)) {
     
-    beta0_mu <- rep(log(70/40), T)
-    beta0_sigma <- rep(0.25, T)
-    eta_mu <- rep(0, T * (S-1))
-    eta_sigma <- rep(1, T * (S-1))
-    log_sigma_mu <- log(0.025)
-    log_sigma_sigma <- 0.5
+    game_data <-
+      season_data %>%
+      filter(game == g)
     
-    mu <- c(beta0_mu, eta_mu, log_sigma_mu)
-    Sigma <- diag(c(beta0_sigma, eta_sigma, log_sigma_sigma)^2)
+    T <- max(game_data$tid)
+    S <- max(game_data$sid)
+    P <- T + (T * (S-1)) + 1
     
-  } else {
+    if (s == 2000 & g == 1) {
+      
+      beta0_mu <- rep(log(70/40), T)
+      beta0_sigma <- rep(0.25, T)
+      eta_mu <- rep(0, T * (S-1))
+      eta_sigma <- rep(1, T * (S-1))
+      log_sigma_mu <- log(0.025)
+      log_sigma_sigma <- 0.5
+      
+      mu <- c(beta0_mu, eta_mu, log_sigma_mu)
+      Sigma <- diag(c(beta0_sigma, eta_sigma, log_sigma_sigma)^2)
+      
+    } else {
+      
+      if (g != g_min) {
+        
+        priors <- 
+          game_fit$draws(c("beta0", "eta", "log_sigma"), format = "matrix")
+        
+      } else {
+        
+        post <- 
+          game_fit$draws(c(paste0("beta[", 1:T, ",2]"), "log_sigma"), format = "matrix")
+        
+        priors <-
+          matrix(
+            c(post[,1:2],
+              rnorm(1e4),
+              rnorm(1e4),
+              post[,3]),
+            nrow = 1e4
+          )
+        
+      }
+      
+      mu <- colMeans(priors)
+      Sigma <- cov(priors)
+      
+    }
     
-    post <- 
-      season_fit$draws(c(paste0("beta[", 1:T, ",2]"), "log_sigma"), format = "matrix")
-    
-    priors <- 
-      matrix(
-        c(post[,1:2],
-          rnorm(1e4),
-          rnorm(1e4),
-          post[,3]),
-        nrow = 1e4
+    # pass data to stan
+    stan_data <-
+      list(
+        N = nrow(game_data),
+        T = T,
+        S = S,
+        tid = game_data$tid,
+        sid = game_data$sid,
+        Y = game_data$Y,
+        P = P,
+        mu = mu, 
+        Sigma = Sigma
       )
     
-    mu <- colMeans(priors)
-    Sigma <- cov(priors)
+    # fit game level data
+    game_fit <-
+      model$sample(
+        data = stan_data,
+        seed = 2025,
+        iter_warmup = 1250,
+        iter_sampling = 1250,
+        chains = 8,
+        parallel_chains = 8,
+        init = 0.01,
+        step_size = 0.002
+      )
     
-  }
-  
-  # pass data to stan
-  stan_data <-
-    list(
-      N = nrow(season_data),
-      T = T,
-      S = S,
-      tid = season_data$tid,
-      sid = season_data$sid,
-      Y = season_data$Y,
-      P = P,
-      mu = mu, 
-      Sigma = Sigma
-    )
-  
-  # fit season level data
-  season_fit <-
-    model$sample(
-      data = stan_data,
-      seed = 2025,
-      iter_warmup = 1250,
-      iter_sampling = 1250,
-      chains = 8,
-      parallel_chains = 8,
-      init = 0.01,
-      step_size = 0.002
-    )
-  
-  if (s == 2000) {
-    
-    beta_log <- 
-      season_fit$summary(paste0("beta[", 1:T, ",2]")) %>%
-      mutate(season = s)
-    
-    log_sigma_log <-
-      season_fit$summary("log_sigma") %>%
-      mutate(season = s)
-    
-  } else {
-    
-    beta_log <- 
-      beta_log %>%
-      bind_rows(season_fit$summary(paste0("beta[", 1:T, ",2]")) %>%
-                  mutate(season = s))
-    
-    log_sigma_log <- 
-      log_sigma_log %>%
-      bind_rows(season_fit$summary("log_sigma") %>%
-                  mutate(season = s)) 
+    # post-processing
+    if (s == 2000 & g == 1) {
+      
+      beta_log <- 
+        game_fit$summary(paste0("beta[", 1:T, ",2]")) %>%
+        mutate(season = s,
+               game = g)
+      
+      log_sigma_log <-
+        game_fit$summary("log_sigma") %>%
+        mutate(season = s,
+               game = g)
+      
+    } else {
+      
+      beta_log <- 
+        beta_log %>%
+        bind_rows(game_fit$summary(paste0("beta[", 1:T, ",2]")) %>%
+                    mutate(season = s,
+                           game = g))
+      
+      log_sigma_log <-
+        log_sigma_log %>%
+        bind_rows(game_fit$summary("log_sigma") %>%
+                    mutate(season = s,
+                           game = g))
+      
+    }
     
   }
   
 }
 
 log_sigma_log %>%
-  ggplot(aes(x = season,
+  mutate(x = season + (game - 1)/30) %>%
+  ggplot(aes(x = x,
              y = median,
              ymin = q5,
              ymax = q95)) + 
@@ -153,7 +176,9 @@ beta_log %>%
   mutate(tid = str_remove_all(variable, "beta\\[|,2\\]"),
          tid = as.integer(tid)) %>%
   left_join(sims %>% distinct(season, tid, mu)) %>%
-  ggplot(aes(x = season,
+  mutate(x = season + (game - 1)/30,
+         mu = if_else(game != 30, NA, mu)) %>%
+  ggplot(aes(x = x,
              y = median,
              ymin = q5,
              ymax = q95,
