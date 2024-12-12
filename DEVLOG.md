@@ -9,6 +9,7 @@
 * In the case that you have a single parameter, you can simply pass in the posterior as the new prior
 * When you have multiple parameters, you need to define a correlation structure among the parameters and pass _that_ in as the prior.
 * Luckily, I've mostly got gaussian blobs, so I should be able to pass in a multivariate normal prior
+  * It's not perfect, but it's in rhe range of variation you might expect with estimating covariances from 1k-10k samples
 * Next step is to figure out how to subset this so that I can pass in only the relevant teams as priors
 * more fitting
 * to do: 

@@ -40,11 +40,11 @@ sims %>%
 
 sims1 <-
   sims %>%
-  slice_head(n = nrow(sims)/2)
+  filter(sid <= 10)
 
 sims2 <-
   sims %>%
-  anti_join(sims1)
+  filter(sid == 11)
 
 model <-
   cmdstan_model(
@@ -171,3 +171,34 @@ plot_beta(first_fit)
 plot_beta(second_fit)
 plot_beta(full_fit)
 
+full_fit$draws("params", format = "matrix") %>%
+  cor() %>%
+  heatmap(Rowv = NA, Colv = NA)
+
+first_fit$summary("beta") %>%
+  mutate(fit = "first") %>%
+  nest(data = -fit) %>%
+  bind_rows(second_fit$summary("beta") %>%
+              mutate(fit = "second") %>%
+              nest(data = -fit)) %>%
+  bind_rows(full_fit$summary("beta") %>%
+              mutate(fit = "full") %>%
+              nest(data = -fit)) %>%
+  unnest(data) %>%
+  mutate(index = str_remove_all(variable, "beta\\[|\\]")) %>%
+  separate(index, c("tid", "sid"), ",") %>%
+  mutate(across(c(tid, sid), as.integer),
+         across(c(median, q5, q95), ~exp(.x) * 40)) %>%
+  # filter(fit != "first") %>%
+  ggplot(aes(x = sid,
+             y = median,
+             ymin = q5,
+             ymax = q95,
+             group = fit,
+             linetype = fit,
+             color = as.factor(tid))) + 
+  geom_ribbon(fill = NA) + 
+  geom_line() +
+  scale_color_brewer(palette = "Dark2") +
+  facet_wrap(~tid) +
+  theme_rieke()
