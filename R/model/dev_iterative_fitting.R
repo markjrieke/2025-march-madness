@@ -1,4 +1,6 @@
 library(tidyverse)
+library(cmdstanr)
+library(riekelib)
 
 mu0 <- log(c(65, 70)/40)
 sigma <- 0.03
@@ -34,7 +36,7 @@ sims %>%
 
 model <-
   cmdstan_model(
-    "stan/dev_25.stan",
+    "stan/dev_26.stan",
     dir = "exe/"
   )
 
@@ -47,12 +49,44 @@ extract_beta_log <- function(fit) {
     mutate(index = str_sub(variable, str_locate(variable, "beta")[,2] + 1),
            index = str_remove_all(index, "\\[|\\]"),
            variable = "beta") %>%
-    separate(index, c("tid", "sid"), ",") %>%
+    separate(index, c("tid", "sid")) %>%
     mutate(across(c(tid, sid), as.integer)) %>%
-    inner_join(season_data %>% distinct(season, tid, sid)) %>%
-    select(-sid)
+    left_join(game_data %>% distinct(season, tid, sid)) %>%
+    select(-sid) %>%
+    mutate(season = if_else(is.na(season), s - 1, season),
+           s = s,
+           g = g,
+           updated_ts = Sys.time())
   
 }
+
+extract_log_sigma_log <- function(fit) {
+  
+  fit$summary("log_sigma") %>%
+    mutate(s = s,
+           g = g,
+           updated_ts = Sys.time())
+  
+}
+
+extract_eta_log <- function(fit) {
+  
+  fit$summary("eta") %>%
+    mutate(index = str_sub(variable, str_locate(variable, "eta")[,2] + 1),
+           index = str_remove_all(index, "\\[|\\]"),
+           variable = "eta") %>%
+    separate(index, c("tid", "sid")) %>%
+    mutate(across(c(tid, sid), as.integer),
+           sid = sid + 1) %>%
+    left_join(game_data %>% distinct(season, tid, sid)) %>%
+    select(-sid) %>%
+    mutate(s = s,
+           g = g,
+           updated_ts = Sys.time())
+  
+}
+
+s <- 2000
 
 for (s in unique(sims$season)) {
   
@@ -63,84 +97,150 @@ for (s in unique(sims$season)) {
            tid = team_id,
            Y = points)
   
-  observations <- 
-    list(
-      N = nrow(season_data),
-      T = max(season_data$tid),
-      S = max(season_data$sid),
-      tid = season_data$tid,
-      sid = season_data$sid,
-      Y = season_data$Y
-    )
+  g_max <- max(season_data$game)
   
-  if (s == 2000) {
+  for (g in 1:g_max) {
     
-    priors <- 
+    g1m <- g - 1
+    
+    game_data <-
+      season_data %>%
+      filter(game == g)
+    
+    T <- max(game_data$tid)
+    S <- max(game_data$sid)
+    
+    observations <- 
       list(
-        beta0_mu = rep(log(70/40), observations$T),
-        beta0_sigma = rep(0.25, observations$T),
-        log_sigma_mu = log(0.025),
-        log_sigma_sigma = 0.5
+        N = nrow(game_data),
+        T = T,
+        S = S,
+        tid = game_data$tid,
+        sid = game_data$sid,
+        Y = game_data$Y
       )
     
-  } else {
+    eta_mu <- matrix(nrow = T, ncol = S - 1)
+    eta_sigma <- matrix(nrow = T, ncol = S - 1)
     
-    prev_beta <-
-      beta_logs %>%
-      filter(season == s - 1) %>%
-      arrange(tid)
+    if (!exists("beta_logs")) {
+      
+      beta0_mu <- rep(log(70/40), T)
+      beta0_sigma <- rep(0.25, T)
+      
+    } else {
+      
+      beta0 <- 
+        beta_logs %>%
+        filter(season == s - 1,
+               g == g1m) %>%
+        arrange(tid)
+      
+      beta0_mu <- beta0$mean
+      beta0_sigma <- beta0$sd
+      
+    }
     
-    prev_log_sigma <-
-      log_sigma_logs %>%
-      filter(season == s - 1)
+    if (!exists("eta_logs")) {
+      
+      eta_mu <- matrix(0, nrow = T, ncol = S - 1)
+      eta_sigma <- matrix(1, nrow = T, ncol = S - 1)
+      
+    } else {
+      
+      eta <- 
+        eta_logs %>%
+        filter(season == s,
+               g == g1m) %>%
+        arrange(tid)
+      
+      eta_mu[,1] <- eta$mean
+      eta_sigma[,1] <- eta$sd
+      
+    }
     
-    priors <- 
+    if (!exists("log_sigma_logs")) {
+      
+      log_sigma_mu <- log(0.025)
+      log_sigma_sigma <- 0.5
+      
+    } else {
+      
+      log_sigma <- 
+        log_sigma_logs %>%
+        filter(updated_ts == max(updated_ts))
+      
+      log_sigma_mu <- log_sigma$mean
+      log_sigma_sigma <- log_sigma$sd
+      
+    }
+    
+    priors <-
       list(
-        beta0_mu = prev_beta$mean,
-        beta0_sigma = prev_beta$sd,
-        log_sigma_mu = prev_log_sigma$mean,
-        log_sigma_sigma = prev_log_sigma$sd
+        beta0_mu = beta0_mu,
+        beta0_sigma = beta0_sigma,
+        eta_mu = eta_mu,
+        eta_sigma = eta_sigma,
+        log_sigma_mu = log_sigma_mu,
+        log_sigma_sigma = log_sigma_sigma
       )
     
-  }
-  
-  stan_data <-
-    c(
-      observations,
-      priors
-    )
-  
-  iterative_fit <-
-    model$sample(
-      data = stan_data,
-      seed = 1234,
-      init = 0.01,
-      step_size = 0.002,
-      chains = 4,
-      parallel_chains = 4,
-      iter_warmup = 1000,
-      iter_sampling = 1000
-    )
-  
-  if (s == 2000) {
+    stan_data <-
+      c(
+        observations,
+        priors
+      )
     
-    log_sigma_logs <- 
-      iterative_fit$summary("log_sigma") %>%
-      mutate(season = s)
+    iterative_fit <-
+      model$sample(
+        data = stan_data,
+        seed = 1234,
+        init = 0.01,
+        step_size = 0.002,
+        chains = 4,
+        parallel_chains = 4,
+        iter_warmup = 1000,
+        iter_sampling = 1000
+      )
     
-    beta_logs <- 
-      extract_beta_log(iterative_fit)
+    if (!exists("log_sigma_logs")) {
+      
+      log_sigma_logs <- 
+        extract_log_sigma_log(iterative_fit)
+      
+    } else {
+      
+      log_sigma_logs <- 
+        log_sigma_logs %>%
+        bind_rows(extract_log_sigma_log(iterative_fit))
+      
+    }
     
-  } else {
+    if (!exists("beta_logs")) {
+      
+      beta_logs <- 
+        extract_beta_log(iterative_fit)
+      
+    } else {
+      
+      beta_logs <- 
+        beta_logs %>%
+        bind_rows(extract_beta_log(iterative_fit))
+      
+    }
     
-    log_sigma_logs <- 
-      log_sigma_logs %>%
-      bind_rows(iterative_fit$summary("log_sigma") %>%
-                  mutate(season = s))
-    
-    beta_logs <-
-      beta_logs %>%
-      bind_rows(extract_beta_log(iterative_fit))
+    if (!exists("eta_logs")) {
+      
+      eta_logs <- 
+        extract_eta_log(iterative_fit)
+      
+    } else {
+      
+      eta_logs <- 
+        eta_logs %>%
+        bind_rows(extract_eta_log(iterative_fit))
+      
+    }
     
   }
   

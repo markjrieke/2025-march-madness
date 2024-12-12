@@ -1,1 +1,1 @@
-git log --numstat --date=local --no-merges > bash/history.log
+git log --numstat --date=local --no-merges > history/history.log

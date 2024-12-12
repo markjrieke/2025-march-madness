@@ -2,7 +2,7 @@ library(tidyverse)
 library(riekelib)
 
 # read in commit history
-history <- read_lines("bash/history.log")
+history <- read_lines("history/history.log")
 
 # plot history
 tibble(history = history) %>%
@@ -57,5 +57,8 @@ tibble(history = history) %>%
   ggplot(aes(x = datetime,
              y = loc)) +
   geom_step() +
+  geom_vline(xintercept = ymd_hms("2025-03-20 00:00:00"),
+             linetype = "dotted") + 
   scale_y_comma() +
-  theme_rieke()
+  theme_rieke() +
+  expand_limits(x = ymd_hms("2025-04-08 00:00:00"))
