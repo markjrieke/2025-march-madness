@@ -3,7 +3,7 @@ library(cmdstanr)
 library(riekelib)
 
 mu0 <- log(c(65, 70)/40)
-sigma <- 0.03
+sigma <- 0.05
 
 # set.seed(1234)
 sims <- 
@@ -19,13 +19,9 @@ sims <-
   mutate(lambda = exp(mu) * 40) %>%
   crossing(game = 1:30) %>%
   bind_cols(points = rpois(nrow(.), .$lambda)) %>%
-  nest(data = -season) %>%
-  mutate(sid = rank(season, ties.method = "first")) %>%
-  unnest(data) %>%
   mutate(tid = team_id,
          Y = points)
   
-
 sims %>% 
   ggplot(aes(x = season,
              y = points,
@@ -38,167 +34,139 @@ sims %>%
   facet_wrap(~team_id, ncol = 1) +
   theme_rieke()
 
-sims1 <-
-  sims %>%
-  filter(sid <= 10)
-
-sims2 <-
-  sims %>%
-  filter(sid == 11)
-
 model <-
   cmdstan_model(
     "stan/dev_28.stan",
     dir = "exe/"
   )
 
-# priors
-T <- max(sims$tid)
-S <- max(sims$sid)
-P <- T + (T * (S-1)) + 1
+s <- 2000
 
-beta0_mu <- rep(log(70/40), T)
-beta0_sigma <- rep(0.25, T)
-eta_mu <- rep(0, T * (S-1))
-eta_sigma <- rep(1, T * (S-1))
-log_sigma_mu <- log(0.025)
-log_sigma_sigma <- 0.5
-
-mu <- c(beta0_mu, eta_mu, log_sigma_mu)
-Sigma <- diag(c(beta0_sigma, eta_sigma, log_sigma_sigma)^2)
-
-# fit full model for reference
-stan_data <-
-  list(
-    N = nrow(sims),
-    T = T,
-    S = S,
-    tid = sims$tid,
-    sid = sims$sid,
-    Y = sims$Y,
-    P = P,
-    mu = mu,
-    Sigma = Sigma
-  )
-
-full_fit <-
-  model$sample(
-    data = stan_data,
-    seed = 2025,
-    iter_warmup = 1250,
-    iter_sampling = 1250,
-    chains = 8,
-    parallel_chains = 8
-  )
-
-# fit to the first half of the dataset
-stan_data <-
-  list(
-    N = nrow(sims1),
-    T = T,
-    S = S,
-    tid = sims1$tid,
-    sid = sims1$sid,
-    Y = sims1$Y,
-    P = P,
-    mu = mu,
-    Sigma = Sigma
-  )
-
-first_fit <-
-  model$sample(
-    data = stan_data,
-    seed = 2025,
-    iter_warmup = 1250,
-    iter_sampling = 1250,
-    chains = 8,
-    parallel_chains = 8
-  )
-
-# update priors
-params <- first_fit$draws("params", format = "matrix") 
-mu <- colMeans(params)
-Sigma <- cov(params)
-
-# second fit
-stan_data <-
-  list(
-    N = nrow(sims2),
-    T = T,
-    S = S,
-    tid = sims2$tid,
-    sid = sims2$sid,
-    Y = sims2$Y,
-    P = P,
-    mu = mu,
-    Sigma = Sigma
-  )
-
-second_fit <-
-  model$sample(
-    data = stan_data,
-    seed = 2025,
-    iter_warmup = 1250,
-    iter_sampling = 1250,
-    chains = 8,
-    parallel_chains = 8
-  )
-
-# util plotting function
-plot_beta <- function(fit) {
+for (s in unique(sims$season)) {
   
-  fit$summary("beta") %>%
-    mutate(index = str_remove_all(variable, "beta\\[|\\]")) %>%
-    separate(index, c("tid", "sid"), ",") %>%
-    mutate(across(c(tid, sid), as.integer)) %>%
-    ggplot(aes(x = sid,
-               y = median,
-               ymin = q5,
-               ymax = q95,
-               color = as.factor(tid),
-               fill = as.factor(tid))) + 
-    geom_ribbon(aes(color = NULL),
-                alpha = 0.25) +
-    geom_line() + 
-    scale_color_brewer(palette = "Dark2") + 
-    scale_fill_brewer(palette = "Dark2") +
-    facet_wrap(~tid) + 
-    theme_rieke()
+  season_data <- 
+    sims %>%
+    filter(season == s) %>%
+    mutate(sid = 2)
+  
+  T <- max(season_data$tid)
+  S <- max(season_data$sid)
+  P <- T + (T * (S-1)) + 1
+  
+  # set priors
+  if (s == 2000) {
+    
+    beta0_mu <- rep(log(70/40), T)
+    beta0_sigma <- rep(0.25, T)
+    eta_mu <- rep(0, T * (S-1))
+    eta_sigma <- rep(1, T * (S-1))
+    log_sigma_mu <- log(0.025)
+    log_sigma_sigma <- 0.5
+    
+    mu <- c(beta0_mu, eta_mu, log_sigma_mu)
+    Sigma <- diag(c(beta0_sigma, eta_sigma, log_sigma_sigma)^2)
+    
+  } else {
+    
+    post <- 
+      season_fit$draws(c(paste0("beta[", 1:T, ",2]"), "log_sigma"), format = "matrix")
+    
+    priors <- 
+      matrix(
+        c(post[,1:2],
+          rnorm(1e4),
+          rnorm(1e4),
+          post[,3]),
+        nrow = 1e4
+      )
+    
+    mu <- colMeans(priors)
+    Sigma <- cov(priors)
+    
+  }
+  
+  # pass data to stan
+  stan_data <-
+    list(
+      N = nrow(season_data),
+      T = T,
+      S = S,
+      tid = season_data$tid,
+      sid = season_data$sid,
+      Y = season_data$Y,
+      P = P,
+      mu = mu, 
+      Sigma = Sigma
+    )
+  
+  # fit season level data
+  season_fit <-
+    model$sample(
+      data = stan_data,
+      seed = 2025,
+      iter_warmup = 1250,
+      iter_sampling = 1250,
+      chains = 8,
+      parallel_chains = 8,
+      init = 0.01,
+      step_size = 0.002
+    )
+  
+  if (s == 2000) {
+    
+    beta_log <- 
+      season_fit$summary(paste0("beta[", 1:T, ",2]")) %>%
+      mutate(season = s)
+    
+    log_sigma_log <-
+      season_fit$summary("log_sigma") %>%
+      mutate(season = s)
+    
+  } else {
+    
+    beta_log <- 
+      beta_log %>%
+      bind_rows(season_fit$summary(paste0("beta[", 1:T, ",2]")) %>%
+                  mutate(season = s))
+    
+    log_sigma_log <- 
+      log_sigma_log %>%
+      bind_rows(season_fit$summary("log_sigma") %>%
+                  mutate(season = s)) 
+    
+  }
   
 }
 
-plot_beta(first_fit)
-plot_beta(second_fit)
-plot_beta(full_fit)
+log_sigma_log %>%
+  ggplot(aes(x = season,
+             y = median,
+             ymin = q5,
+             ymax = q95)) + 
+  geom_ribbon(alpha = 0.25) + 
+  geom_line() +
+  geom_hline(yintercept = log(sigma),
+             linetype = "dotted") +
+  theme_rieke()
 
-full_fit$draws("params", format = "matrix") %>%
-  cor() %>%
-  heatmap(Rowv = NA, Colv = NA)
-
-first_fit$summary("beta") %>%
-  mutate(fit = "first") %>%
-  nest(data = -fit) %>%
-  bind_rows(second_fit$summary("beta") %>%
-              mutate(fit = "second") %>%
-              nest(data = -fit)) %>%
-  bind_rows(full_fit$summary("beta") %>%
-              mutate(fit = "full") %>%
-              nest(data = -fit)) %>%
-  unnest(data) %>%
-  mutate(index = str_remove_all(variable, "beta\\[|\\]")) %>%
-  separate(index, c("tid", "sid"), ",") %>%
-  mutate(across(c(tid, sid), as.integer),
-         across(c(median, q5, q95), ~exp(.x) * 40)) %>%
-  # filter(fit != "first") %>%
-  ggplot(aes(x = sid,
+beta_log %>%
+  mutate(tid = str_remove_all(variable, "beta\\[|,2\\]"),
+         tid = as.integer(tid)) %>%
+  left_join(sims %>% distinct(season, tid, mu)) %>%
+  ggplot(aes(x = season,
              y = median,
              ymin = q5,
              ymax = q95,
-             group = fit,
-             linetype = fit,
-             color = as.factor(tid))) + 
-  geom_ribbon(fill = NA) + 
-  geom_line() +
-  scale_color_brewer(palette = "Dark2") +
-  facet_wrap(~tid) +
+             color = as.factor(tid),
+             fill = as.factor(tid))) + 
+  geom_ribbon(aes(color = NULL),
+              alpha = 0.25) +
+  geom_line() + 
+  geom_point(aes(y = mu,
+                 fill = NULL),
+             shape = 21,
+             size = 3) +
+  scale_color_brewer(palette = "Dark2") + 
+  scale_fill_brewer(palette = "Dark2") + 
+  facet_wrap(~tid, ncol = 1) + 
   theme_rieke()
