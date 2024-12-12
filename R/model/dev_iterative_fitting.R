@@ -38,6 +38,13 @@ sims %>%
   facet_wrap(~team_id, ncol = 1) +
   theme_rieke()
 
+sims1 <-
+  sims %>%
+  slice_head(n = nrow(sims)/2)
+
+sims2 <-
+  sims %>%
+  anti_join(sims1)
 
 model <-
   cmdstan_model(
@@ -45,6 +52,7 @@ model <-
     dir = "exe/"
   )
 
+# priors
 T <- max(sims$tid)
 S <- max(sims$sid)
 P <- T + (T * (S-1)) + 1
@@ -59,6 +67,7 @@ log_sigma_sigma <- 0.5
 mu <- c(beta0_mu, eta_mu, log_sigma_mu)
 Sigma <- diag(c(beta0_sigma, eta_sigma, log_sigma_sigma)^2)
 
+# fit full model for reference
 stan_data <-
   list(
     N = nrow(sims),
@@ -72,25 +81,93 @@ stan_data <-
     Sigma = Sigma
   )
 
-matrix_fit <-
+full_fit <-
   model$sample(
     data = stan_data,
     seed = 2025,
-    iter_warmup = 1000,
-    iter_sampling = 1000,
-    chains = 4,
-    parallel_chains = 4
+    iter_warmup = 1250,
+    iter_sampling = 1250,
+    chains = 8,
+    parallel_chains = 8
   )
 
-matrix_fit$draws("params", format = "matrix") %>%
-  cor() %>%
-  heatmap(Rowv = NA, Colv = NA)
+# fit to the first half of the dataset
+stan_data <-
+  list(
+    N = nrow(sims1),
+    T = T,
+    S = S,
+    tid = sims1$tid,
+    sid = sims1$sid,
+    Y = sims1$Y,
+    P = P,
+    mu = mu,
+    Sigma = Sigma
+  )
 
-matrix_fit$draws(c("beta0", "eta", "log_sigma"), format = "matrix") %>%
-  cor() %>%
-  heatmap(Rowv = NA, Colv = NA)
+first_fit <-
+  model$sample(
+    data = stan_data,
+    seed = 2025,
+    iter_warmup = 1250,
+    iter_sampling = 1250,
+    chains = 8,
+    parallel_chains = 8
+  )
 
-tmp <- 
-  matrix_fit$summary(c("beta0", "eta", "log_sigma"))
+# update priors
+params <- first_fit$draws("params", format = "matrix") 
+mu <- colMeans(params)
+Sigma <- cov(params)
 
+# second fit
+stan_data <-
+  list(
+    N = nrow(sims2),
+    T = T,
+    S = S,
+    tid = sims2$tid,
+    sid = sims2$sid,
+    Y = sims2$Y,
+    P = P,
+    mu = mu,
+    Sigma = Sigma
+  )
+
+second_fit <-
+  model$sample(
+    data = stan_data,
+    seed = 2025,
+    iter_warmup = 1250,
+    iter_sampling = 1250,
+    chains = 8,
+    parallel_chains = 8
+  )
+
+# util plotting function
+plot_beta <- function(fit) {
+  
+  fit$summary("beta") %>%
+    mutate(index = str_remove_all(variable, "beta\\[|\\]")) %>%
+    separate(index, c("tid", "sid"), ",") %>%
+    mutate(across(c(tid, sid), as.integer)) %>%
+    ggplot(aes(x = sid,
+               y = median,
+               ymin = q5,
+               ymax = q95,
+               color = as.factor(tid),
+               fill = as.factor(tid))) + 
+    geom_ribbon(aes(color = NULL),
+                alpha = 0.25) +
+    geom_line() + 
+    scale_color_brewer(palette = "Dark2") + 
+    scale_fill_brewer(palette = "Dark2") +
+    facet_wrap(~tid) + 
+    theme_rieke()
+  
+}
+
+plot_beta(first_fit)
+plot_beta(second_fit)
+plot_beta(full_fit)
 
