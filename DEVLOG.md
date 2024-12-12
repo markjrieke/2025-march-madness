@@ -2,6 +2,14 @@
 
 ## 2024-12-13
 
+* Lots of model fitting
+* I have the within-season model pretty much down
+* The extrapolation to previous seasons is straightforward, but I don't want to refit a huge model every time
+* Figuring out iterative fitting of models is a messier challenge than I thought it would be
+* In the case that you have a single parameter, you can simply pass in the posterior as the new prior
+* When you have multiple parameters, you need to define a correlation structure among the parameters and pass _that_ in as the prior.
+* Luckily, I've mostly got gaussian blobs, so I should be able to pass in a multivariate normal prior
+* Next step is to figure out how to subset this so that I can pass in only the relevant teams as priors
 * more fitting
 * to do: 
   * correlation between offense, defense, and home advantage?
