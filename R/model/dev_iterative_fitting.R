@@ -3,7 +3,7 @@ library(cmdstanr)
 library(riekelib)
 
 mu0 <- log(c(65, 70)/40)
-sigma <- 0.05
+sigma <- 0.03
 
 # set.seed(1234)
 sims <- 

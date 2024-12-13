@@ -2,23 +2,13 @@
 
 ## 2024-12-13
 
-* Lots of model fitting
-* I have the within-season model pretty much down
-* The extrapolation to previous seasons is straightforward, but I don't want to refit a huge model every time
-* Figuring out iterative fitting of models is a messier challenge than I thought it would be
-* In the case that you have a single parameter, you can simply pass in the posterior as the new prior
-* When you have multiple parameters, you need to define a correlation structure among the parameters and pass _that_ in as the prior.
-* Luckily, I've mostly got gaussian blobs, so I should be able to pass in a multivariate normal prior
-  * It's not perfect, but it's in rhe range of variation you might expect with estimating covariances from 1k-10k samples
-* Next step is to figure out how to subset this so that I can pass in only the relevant teams as priors
-* more fitting
-* to do: 
-  * correlation between offense, defense, and home advantage?
-  * simple linear adjustment ? (i.e., currently overshoot low scores and undershoot high scores)
-  * start thinking about multi-season model
-    * ar processes over parameters
-    * parameter recovery???
+This week was all about modeling. I wrote like 2,500 lines of code while iterating through dev models. Granted, most of this is because I've been saving each iteration under its own separate file. But still! Lot's done!
 
+On the modeling front, I've been working through two approaches. Firstly, I've been working on a season-level model that uses 2018 data to estimate each team's offensive rating, defensive rating, and home court advantage. It also includes a hurdle component for estimating the number of periods played (i.e., hurdle on whether or not regulation ends in a tie, then poisson over the number of overtimes played). Generating posterior predictions took a bit of figuring out --- games can't end in a tie and the number of overtimes makes things weird. One mess of nested for loops later, though, and I'm able to generate the [expected output](https://bsky.app/profile/markjrieke.bsky.social/post/3lcvwb6zsdk2q).
+
+Teams only play ~30ish games per season, which isn't a lot of information per team. As a result, the season-level model tends to under-estimate good teams and over-estimate bad teams (i.e., the hierarchical component is doing its job and pulling values towards the group average). That's fine/expected --- the other piece of the puzzle is to extend the season-level model to fit over many seasons. Doing so with the full dataset is actually pretty straightforward. However, I don't want to refit the entire model every time a new game comes in. The goal instead is to iteratively fit the model to new data by using the posterior from one fit as the prior for the next fit. This turned out to be somewhat more involved than I originally expected --- you can't just simply pass in each parameter's marginal mean/standard deviation as a prior. You also need to define a correlation structure among the parameters and pass *that* in as the prior. Luckily, I've got mostly gaussian blobs, so I've been able to work with a multivariate normal prior. It's not perfect at retaining information, but it's in the range of variation that you might expect when estimating covariances from 1k-10k samples. 
+
+I've been working with toy data for the problem of iterative fitting. I still have a few things to figure out with the simulated datasets --- namely, making the model flexible enough to handle *either* an entire season *or* a subset of games. Once that's done, the last piece of the modeling puzzle is to apply the iterative-fit extensions to the season-level model.
 
 ## 2024-12-06
 
