@@ -1,5 +1,9 @@
 # DEVLOG
 
+## 2024-12-20
+
+* double counting information in the iterative fit model, but where???
+
 ## 2024-12-13
 
 This week was all about modeling. I wrote like 2,500 lines of code while iterating through dev models. Granted, most of this is because I've been saving each iteration under its own separate file. But still! Lot's done!
