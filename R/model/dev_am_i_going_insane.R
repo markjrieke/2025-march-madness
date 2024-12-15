@@ -55,17 +55,19 @@ initial_fit <-
 log_lik <- 
   initial_fit$draws("beta[75]", format = "df") %>%
   as_tibble() %>%
-  mutate(x = list(1:9),
+  mutate(x = list(1:10),
          eta = map(x, ~rnorm(length(.x)))) %>%
   unnest(c(x, eta)) %>%
-  mutate(beta_pred = eta * exp(log_sigma_s)) %>%
-  bind_cols(Y = rnorm(nrow(.), 0.78, exp(log_sigma_o))) %>%
+  mutate(beta_pred = `beta[75]` + eta * exp(log_sigma_s)) %>%
+  bind_cols(Y = rnorm(nrow(.), 0.5, exp(log_sigma_o))) %>%
   mutate(lp = dnorm(Y, beta_pred, exp(log_sigma_o), log = TRUE)) %>%
   group_by(.draw) %>%
   summarise(lp = sum(lp))
 
 psis_out <-
   loo::psis(log_lik$lp)
+
+psis_out$diagnostics
 
 draw_weights <- 
   loo::weights.importance_sampling(psis_out, log = FALSE)
@@ -80,3 +82,5 @@ posterior::resample_draws(
   rename(beta = 1) %>%
   summarise(mean = mean(beta),
             sd = sd(beta))
+
+initial_fit$summary("beta[75]")
