@@ -3,6 +3,11 @@
 ## 2024-12-20
 
 * double counting information in the iterative fit model, but where???
+* I'm losing my mind somewhat
+* Alternative solutions
+  * Figure out _where_ I'm double-counting information & fix -> fit entire model & update with multivariate normal priors
+  * Use the PSIS method
+  * Refit on current season's data each time
 
 ## 2024-12-13
 
