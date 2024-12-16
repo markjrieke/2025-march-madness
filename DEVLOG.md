@@ -8,6 +8,10 @@
   * Figure out _where_ I'm double-counting information & fix -> fit entire model & update with multivariate normal priors
   * Use the PSIS method
   * Refit on current season's data each time
+* Nah --- just going to use the output as a historical prior a-la 2024-potus
+  * statistically, better to use one a more principled approach
+  * this is good enough though
+  * figuring out mapping of historical prior that yields a $\beta$ and converting that to $\eta$ and $\sigma$
 
 ## 2024-12-13
 
