@@ -21,7 +21,7 @@ model <-
 
 recovery <-
   cmdstan_model(
-    "stan/dev_35.stan",
+    "stan/dev_37.stan",
     dir = "exe/"
   )
 
@@ -48,16 +48,18 @@ group_data <-
   fit$summary("beta")
 
 idxs <- sample(1:100, 4)
+idxs <- 1:100
 params <- paste0("beta[", idxs, "]")
 
 beta_data <- 
-  fit$draws(params, format = "matrix") 
+  fit$summary(params) 
 
 recovery_data <-
   list(
-    S = nrow(beta_data),
-    G = ncol(beta_data),
-    y = beta_data
+    S = 4000,
+    G = nrow(beta_data),
+    beta_mu = beta_data$mean,
+    beta_sigma = beta_data$sd
   )
 
 recovery_fit <-
@@ -70,5 +72,60 @@ recovery_fit <-
     parallel_chains = 4
   )
 
-recovery_fit$summary()
+recovery_fit$summary("beta[2]")
 fit$summary(params)
+
+recovery_fit$summary("eta") %>%
+  mutate(fit = "recovrey") %>%
+  bind_rows(fit$summary("eta") %>%
+              mutate(fit = "fit")) %>%
+  nest(data = -variable) %>%
+  slice_sample(n = 20) %>%
+  unnest(data) %>%
+  ggplot(aes(x = variable,
+             y = median,
+             ymin = q5,
+             ymax = q95,
+             color = fit)) + 
+  geom_pointrange(alpha = 0.5) +
+  coord_flip() +
+  theme_rieke()
+
+# blegh ------------------------------------------------------------------------
+
+centered <- 
+  cmdstan_model(
+    "stan/dev_38.stan",
+    dir = "exe/"
+  )
+
+centered_draws <- 
+  fit$draws(params, format = "df") %>%
+  as_tibble() %>%
+  select(starts_with("beta")) %>%
+  pivot_longer(starts_with("beta"),
+               names_to = "parameter",
+               values_to = "y") %>%
+  nest(data = -parameter) %>%
+  rowid_to_column("g") %>%
+  unnest(data)
+
+centered_data <-
+  list(
+    N = nrow(centered_draws),
+    K = max(centered_draws$g),
+    y = centered_draws$y,
+    g = centered_draws$g
+  )
+
+centered_fit <-
+  centered$sample(
+    centered_data,
+    seed = 1234,
+    iter_warmup = 1000,
+    iter_sampling = 1000,
+    chains = 4,
+    parallel_chains = 4
+  )
+
+centered_fit$summary("tau")
