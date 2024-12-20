@@ -76,7 +76,7 @@ recovery_fit$summary("beta[2]")
 fit$summary(params)
 
 recovery_fit$summary("eta") %>%
-  mutate(fit = "recovrey") %>%
+  mutate(fit = "recovery") %>%
   bind_rows(fit$summary("eta") %>%
               mutate(fit = "fit")) %>%
   nest(data = -variable) %>%

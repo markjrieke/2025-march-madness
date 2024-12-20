@@ -2,16 +2,15 @@
 
 ## 2024-12-20
 
-* double counting information in the iterative fit model, but where???
-* I'm losing my mind somewhat
-* Alternative solutions
-  * Figure out _where_ I'm double-counting information & fix -> fit entire model & update with multivariate normal priors
-  * Use the PSIS method
-  * Refit on current season's data each time
-* Nah --- just going to use the output as a historical prior a-la 2024-potus
-  * statistically, better to use one a more principled approach
-  * this is good enough though
-  * figuring out mapping of historical prior that yields a $\beta$ and converting that to $\eta$ and $\sigma$
+Oh the woes of making the assumption that I know things. Last week, I thought I was getting close to being done with modeling. Turns out I was very wrong! On checking simulated data, a game level iterative fit double counts information somewhere such that the uncertainty around the standard deviation for state change over seasons, $\sigma$, is *way* too low. Iterative fitting is supposed to *hemorrhage* information. When I iteratively fit over seasons, for example, I see the expected slight increase in uncertainty. Using the same model over games doesn't work, for some reason. This made me lose my mind, somewhat. I resigned myself to three possible options:
+
+* Figure out *where* information was getting double-counted in the game-level iterative fit model and fix it.
+* Use [PSIS](https://discourse.mc-stan.org/t/updating-model-based-on-new-data-via-psis/37196/1) to update the posterior without re-fitting the full model each time.
+* Write two different models --- a historical prior and a season model (a-la [2024-potus](https://github.com/markjrieke/2024-potus)).
+
+After giving the first two options a good ole college try, I settled on using the third --- it's not statistically perfect, but it's a worthwhile compromise to avoid refitting 20 years of basketball data each day. I did need to figure out a way of mapping the historical prior that yields offensive/defensive/home court $\beta$s for each team into hierarchical parameters $\eta$ and $\sigma$. This involves fitting a model to the $\beta$ draws from the historical model. For computational efficiency, I figured out how to use the sufficient formulation of a normal model. What's weird, however, is that the centered parameterization is *way more computationally efficient and stable* than the non-centered parameterization.
+
+Lots of bumping into walls, but will continue to move forward on the historical model.
 
 ## 2024-12-13
 

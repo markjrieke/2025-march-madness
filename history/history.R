@@ -57,7 +57,8 @@ tibble(history = history) %>%
   ggplot(aes(x = datetime,
              y = loc)) +
   geom_step() +
-  geom_vline(xintercept = ymd_hms("2025-03-20 00:00:00"),
+  geom_vline(xintercept = ymd_hms(c("2025-03-20 00:00:00",
+                                    "2025-04-07 17:00:00")),
              linetype = "dotted") + 
   scale_y_comma() +
   theme_rieke() +
