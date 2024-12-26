@@ -1,6 +1,8 @@
 library(tidyverse)
 library(riekelib)
 library(cmdstanr)
+
+used_teams <- c("Tulsa", "Stanford", "Missouri", "Loyola Chicago")
   
 tulsa <- 
   arrow::read_parquet("data/games/games.parquet") %>%
@@ -9,8 +11,8 @@ tulsa <-
          home_name = if_else(home_id == "missing", "missing", home_name),
          away_name = if_else(away_id == "missing", "missing", away_name)) %>%
   filter(league == "mens") %>%
-  filter(home_name == "Tulsa" | away_name == "Tulsa") %>%
-  mutate(across(ends_with("name"), ~if_else(.x == "Tulsa", .x, "Other")))
+  filter(home_name %in% used_teams | away_name %in% used_teams) %>%
+  mutate(across(ends_with("name"), ~if_else(.x %in% used_teams, .x, "Other")))
 
 model <- 
   cmdstan_model(
@@ -77,6 +79,9 @@ for (t in 1:T) {
   }
 }
 
+length(prior_mu) == P
+length(prior_Sigma) == P
+
 # convert to matrix
 prior_Sigma <- diag(prior_Sigma, nrow = P, ncol = P)
 
@@ -124,6 +129,7 @@ preds %>%
   geom_line(aes(color = team_name)) +
   scale_color_brewer(palette = "Dark2") + 
   scale_fill_brewer(palette = "Dark2") +
+  facet_wrap(~team_name) + 
   theme_rieke()
 
-fit$summary("eta")
+fit$summary("log_sigma")
