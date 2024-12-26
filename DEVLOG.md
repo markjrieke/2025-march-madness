@@ -1,5 +1,11 @@
 # DEVLOG
 
+## 2024-12-27
+
+* Bruh I was so sick
+* Also, Christmas
+* Started time-series historical model
+
 ## 2024-12-20
 
 Oh the woes of making the assumption that I know things. Last week, I thought I was getting close to being done with modeling. Turns out I was very wrong! On checking simulated data, a game level iterative fit double counts information somewhere such that the uncertainty around the standard deviation for state change over seasons, $\sigma$, is *way* too low. Iterative fitting is supposed to *hemorrhage* information. When I iteratively fit over seasons, for example, I see the expected slight increase in uncertainty. Using the same model over games doesn't work, for some reason. This made me lose my mind, somewhat. I resigned myself to three possible options:
