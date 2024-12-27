@@ -2,7 +2,7 @@ library(tidyverse)
 library(riekelib)
 library(cmdstanr)
 
-used_teams <- c("Tulsa")#, "Stanford", "Missouri", "Loyola Chicago")
+used_teams <- c("Tulsa", "Stanford", "Missouri", "Loyola Chicago", "Marshall", "Vermont", "Saint Louis")
   
 tulsa <- 
   arrow::read_parquet("data/games/games.parquet") %>%
@@ -12,11 +12,12 @@ tulsa <-
          away_name = if_else(away_id == "missing", "missing", away_name)) %>%
   filter(league == "mens") %>%
   filter(home_name %in% used_teams | away_name %in% used_teams) %>%
+  # slice_sample(prop = 0.5) %>%
   mutate(across(ends_with("name"), ~if_else(.x %in% used_teams, .x, "Other")))
 
 model <- 
   cmdstan_model(
-    "stan/dev_41.stan",
+    "stan/dev_42.stan",
     dir = "exe/"
   )
 
@@ -59,11 +60,11 @@ Y <-
 
 T <- max(tid)
 S <- max(sid)
-P <- 2 * (T + (T * (S - 1)) + 1)
+P <- 2 * (T + (T * (S - 1))) + 1
 
-# log_sigma_o / log_sigma_d
-prior_mu <- rep(-3, 2)
-prior_Sigma <- rep(0.5, 2)
+# log_sigma
+prior_mu <- rep(-3, 1)
+prior_Sigma <- rep(0.5, 1)
 
 # beta_o0
 for (t in 1:T) {
@@ -129,69 +130,38 @@ fit <-
   )
 
 preds <-
-  fit$summary("beta")
+  fit$summary(c("beta_o", "beta_d"))
 
 preds %>%
-  mutate(variable = str_remove_all(variable, "beta\\[|\\]")) %>%
-  separate(variable, c("tid", "sid"), ",") %>%
+  mutate(idx = str_remove_all(variable, "beta_|o|d|\\[|\\]")) %>%
+  separate(idx, c("tid", "sid"), ",") %>%
   mutate(across(ends_with("id"), as.integer)) %>%
   left_join(teams) %>%
   left_join(seasons) %>%
-  mutate(across(c(median, q5, q95), ~exp(.x) * 40)) %>%
+  mutate(variable = if_else(str_detect(variable, "o"), "offense", "defense")) %>%
   ggplot(aes(x = season,
              y = median,
              ymin = q5,
              ymax = q95)) + 
   geom_ribbon(aes(fill = team_name),
               alpha = 0.25) +
-  geom_line(aes(color = team_name)) +
+  geom_line(aes(color = team_name)) + 
   scale_color_brewer(palette = "Dark2") + 
   scale_fill_brewer(palette = "Dark2") +
-  facet_wrap(~team_name) + 
+  facet_grid(vars(team_name), vars(variable)) +
   theme_rieke()
 
 fit$summary("log_sigma")
 
-log_sigma_o <- 1
-log_sigma_d <- 1
-beta_o0 <- 1:T
-beta_d0 <- 1:T
-eta_o <- matrix(1:(T * (S-1)), nrow = T, ncol = S-1)
-eta_d <- matrix(1:(T * (S-1)), nrow = T, ncol = S-1)
+beepr::beep(5)
 
-params <- vector("numeric", length = P)
+preds %>%
+  mutate(idx = str_remove_all(variable, "beta_|o|d|\\[|\\]")) %>%
+  separate(idx, c("tid", "sid"), ",") %>%
+  mutate(across(ends_with("id"), as.integer)) %>%
+  left_join(teams) %>%
+  left_join(seasons) %>%
+  mutate(variable = if_else(str_detect(variable, "o"), "offense", "defense")) %>%
+  filter(team_name %in% sample(used_teams, 2)) %>%
+  filter(season == sample(seasons$season, 1))
 
-params[1] <- log_sigma_o
-params[2] <- log_sigma_d
-params[3:(T+2)] <- beta_o0
-params[(T+3):(T+2+T)] <- beta_d0
-
-E <- 2 * T + 2
-for (t in 1:T) {
-  for (s in 1:(S-1)) {
-    params[E+1] <- eta_o[t,s]
-    E <- E + 1
-  }
-}
-
-// place parameters into the vector
-params[1] = log_sigma_o;
-params[2] = log_sigma_d;
-params[3:(T+2)] = beta_o0;
-params[(T+3):(T+2+T)] = beta_d0;
-
-// flatten matrix
-int E = 2 * T + 3;
-for (t in 1:T) {
-  for (s in 1:(S-1)) {
-    params[E+1] = eta_o[t,s];
-    E += 1;
-  }
-}
-
-for (t in 1:T) {
-  for (s in 1:(S-1)) {
-    params[E+1] = eta_d[t,s];
-    E += 1;
-  }
-}
