@@ -2,7 +2,7 @@ library(tidyverse)
 library(riekelib)
 library(cmdstanr)
 
-used_teams <- c("Tulsa", "Stanford", "Missouri", "Loyola Chicago", "Marshall", "Vermont", "Saint Louis")
+used_teams <- c("Tulsa", "Stanford", "Missouri", "Loyola Chicago", "Marshall", "Vermont", "Saint Louis", "Yale")
   
 tulsa <- 
   arrow::read_parquet("data/games/games.parquet") %>%
@@ -17,7 +17,7 @@ tulsa <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_43.stan",
+    "stan/dev_44.stan",
     dir = "exe/"
   )
 
@@ -95,6 +95,7 @@ stan_data <-
     T = T,
     S = S,
     P = P,
+    O = tulsa$n_ot,
     sid = sid,
     tid = tid,
     Y = Y,
@@ -147,3 +148,4 @@ preds %>%
   theme_rieke() +
   facet_wrap(~team_name)
 
+beepr::beep(sample(1:8, 1))
