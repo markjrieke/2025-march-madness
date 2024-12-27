@@ -56,7 +56,7 @@ model {
   // unsaved outputs
   // (turn this into a function at some point)
   matrix[T,S] mu = beta + log(40);
-  array[T] vector[N] log_lambda;
+  array[2] vector[N] log_lambda;
   for (n in 1:N) {
     log_lambda[1,n] = mu[tid[1,n], sid[n]];
     log_lambda[2,n] = mu[tid[2,n], sid[n]];

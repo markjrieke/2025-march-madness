@@ -2,7 +2,7 @@ library(tidyverse)
 library(riekelib)
 library(cmdstanr)
 
-used_teams <- c("Tulsa", "Stanford", "Missouri", "Loyola Chicago")
+used_teams <- c("Tulsa")#, "Stanford", "Missouri", "Loyola Chicago")
   
 tulsa <- 
   arrow::read_parquet("data/games/games.parquet") %>%
@@ -16,7 +16,7 @@ tulsa <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_39.stan",
+    "stan/dev_40.stan",
     dir = "exe/"
   )
 
