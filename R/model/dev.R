@@ -17,7 +17,7 @@ tulsa <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_42.stan",
+    "stan/dev_43.stan",
     dir = "exe/"
   )
 
@@ -60,33 +60,19 @@ Y <-
 
 T <- max(tid)
 S <- max(sid)
-P <- 2 * (T + (T * (S - 1))) + 1
+P <- T + (T * (S - 1)) + 1
 
 # log_sigma
 prior_mu <- rep(-3, 1)
 prior_Sigma <- rep(0.5, 1)
 
-# beta_o0
+# beta_0
 for (t in 1:T) {
   prior_mu <- c(prior_mu, 0)
   prior_Sigma <- c(prior_Sigma, 0.25)
 }
 
-# beta_d0
-for (t in 1:T) {
-  prior_mu <- c(prior_mu, 0)
-  prior_Sigma <- c(prior_Sigma, 0.25)
-}
-
-# eta_o
-for (t in 1:T) {
-  for (s in 1:(S-1)) {
-    prior_mu <- c(prior_mu, 0)
-    prior_Sigma <- c(prior_Sigma, 1)
-  }
-}
-
-# eta_d
+# eta
 for (t in 1:T) {
   for (s in 1:(S-1)) {
     prior_mu <- c(prior_mu, 0)
@@ -129,39 +115,35 @@ fit <-
     iter_sampling = 1000
   )
 
+truth <- 
+  tulsa %>%
+  rowid_to_column() %>%
+  pivot_longer(ends_with("name"),
+               names_to = "location",
+               values_to = "team_name") %>%
+  mutate(location = str_remove(location, "_name")) %>%
+  pivot_longer(ends_with("score"),
+               names_to = "check",
+               values_to = "score") %>%
+  mutate(check = str_remove(check, "_score")) %>%
+  filter(location == check) %>%
+  select(-check)
+
 preds <-
-  fit$summary(c("beta_o", "beta_d"))
+  fit$summary(c("Y_rep"))
 
 preds %>%
-  mutate(idx = str_remove_all(variable, "beta_|o|d|\\[|\\]")) %>%
-  separate(idx, c("tid", "sid"), ",") %>%
-  mutate(across(ends_with("id"), as.integer)) %>%
-  left_join(teams) %>%
-  left_join(seasons) %>%
-  mutate(variable = if_else(str_detect(variable, "o"), "offense", "defense")) %>%
-  ggplot(aes(x = season,
+  mutate(idx = str_remove_all(variable, "Y_rep|\\[|\\]")) %>%
+  separate(idx, c("location", "rowid")) %>%
+  mutate(location = if_else(location == "1", "home", "away"),
+         rowid = as.integer(rowid)) %>%
+  left_join(truth) %>%
+  ggplot(aes(x = score,
              y = median,
              ymin = q5,
              ymax = q95)) + 
-  geom_ribbon(aes(fill = team_name),
-              alpha = 0.25) +
-  geom_line(aes(color = team_name)) + 
-  scale_color_brewer(palette = "Dark2") + 
-  scale_fill_brewer(palette = "Dark2") +
-  facet_grid(vars(team_name), vars(variable)) +
-  theme_rieke()
-
-fit$summary("log_sigma")
-
-beepr::beep(5)
-
-preds %>%
-  mutate(idx = str_remove_all(variable, "beta_|o|d|\\[|\\]")) %>%
-  separate(idx, c("tid", "sid"), ",") %>%
-  mutate(across(ends_with("id"), as.integer)) %>%
-  left_join(teams) %>%
-  left_join(seasons) %>%
-  mutate(variable = if_else(str_detect(variable, "o"), "offense", "defense")) %>%
-  filter(team_name %in% sample(used_teams, 2)) %>%
-  filter(season == sample(seasons$season, 1))
+  geom_pointrange(alpha = 0.125) + 
+  geom_abline(color = "white") + 
+  theme_rieke() +
+  facet_wrap(~team_name)
 
