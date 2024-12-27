@@ -17,7 +17,7 @@ tulsa <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_44.stan",
+    "stan/dev_45.stan",
     dir = "exe/"
   )
 
@@ -60,11 +60,15 @@ Y <-
 
 T <- max(tid)
 S <- max(sid)
-P <- T + (T * (S - 1)) + 1
+P <- T + (T * (S - 1)) + 2
 
 # log_sigma
 prior_mu <- rep(-3, 1)
 prior_Sigma <- rep(0.5, 1)
+
+# beta_h
+prior_mu <- c(prior_mu, 0)
+prior_Sigma <- c(prior_Sigma, 0.25)
 
 # beta_0
 for (t in 1:T) {
