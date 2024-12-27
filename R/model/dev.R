@@ -17,7 +17,7 @@ tulsa <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_46.stan",
+    "stan/dev_47.stan",
     dir = "exe/"
   )
 
@@ -99,10 +99,11 @@ stan_data <-
     T = T,
     S = S,
     P = P,
-    O = tulsa$n_ot,
     sid = sid,
     tid = tid,
     Y = Y,
+    O = tulsa$n_ot,
+    V = tulsa$neutral,
     alpha = alpha,
     prior_mu = prior_mu,
     prior_Sigma = prior_Sigma
