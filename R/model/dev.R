@@ -16,7 +16,7 @@ tulsa <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_40.stan",
+    "stan/dev_41.stan",
     dir = "exe/"
   )
 
@@ -59,19 +59,33 @@ Y <-
 
 T <- max(tid)
 S <- max(sid)
-P <- T + (T * (S - 1)) + 1
+P <- 2 * (T + (T * (S - 1)) + 1)
 
-# log_sigma
-prior_mu <- -3
-prior_Sigma <- 0.5
+# log_sigma_o / log_sigma_d
+prior_mu <- rep(-3, 2)
+prior_Sigma <- rep(0.5, 2)
 
-# beta0
+# beta_o0
 for (t in 1:T) {
   prior_mu <- c(prior_mu, 0)
   prior_Sigma <- c(prior_Sigma, 0.25)
 }
 
-# eta
+# beta_d0
+for (t in 1:T) {
+  prior_mu <- c(prior_mu, 0)
+  prior_Sigma <- c(prior_Sigma, 0.25)
+}
+
+# eta_o
+for (t in 1:T) {
+  for (s in 1:(S-1)) {
+    prior_mu <- c(prior_mu, 0)
+    prior_Sigma <- c(prior_Sigma, 1)
+  }
+}
+
+# eta_d
 for (t in 1:T) {
   for (s in 1:(S-1)) {
     prior_mu <- c(prior_mu, 0)
@@ -85,6 +99,9 @@ length(prior_Sigma) == P
 # convert to matrix
 prior_Sigma <- diag(prior_Sigma, nrow = P, ncol = P)
 
+# log-mean
+alpha <- log(70/40)
+
 stan_data <-
   list(
     N = nrow(tulsa),
@@ -94,6 +111,7 @@ stan_data <-
     sid = sid,
     tid = tid,
     Y = Y,
+    alpha = alpha,
     prior_mu = prior_mu,
     prior_Sigma = prior_Sigma
   )
@@ -133,3 +151,47 @@ preds %>%
   theme_rieke()
 
 fit$summary("log_sigma")
+
+log_sigma_o <- 1
+log_sigma_d <- 1
+beta_o0 <- 1:T
+beta_d0 <- 1:T
+eta_o <- matrix(1:(T * (S-1)), nrow = T, ncol = S-1)
+eta_d <- matrix(1:(T * (S-1)), nrow = T, ncol = S-1)
+
+params <- vector("numeric", length = P)
+
+params[1] <- log_sigma_o
+params[2] <- log_sigma_d
+params[3:(T+2)] <- beta_o0
+params[(T+3):(T+2+T)] <- beta_d0
+
+E <- 2 * T + 2
+for (t in 1:T) {
+  for (s in 1:(S-1)) {
+    params[E+1] <- eta_o[t,s]
+    E <- E + 1
+  }
+}
+
+// place parameters into the vector
+params[1] = log_sigma_o;
+params[2] = log_sigma_d;
+params[3:(T+2)] = beta_o0;
+params[(T+3):(T+2+T)] = beta_d0;
+
+// flatten matrix
+int E = 2 * T + 3;
+for (t in 1:T) {
+  for (s in 1:(S-1)) {
+    params[E+1] = eta_o[t,s];
+    E += 1;
+  }
+}
+
+for (t in 1:T) {
+  for (s in 1:(S-1)) {
+    params[E+1] = eta_d[t,s];
+    E += 1;
+  }
+}
