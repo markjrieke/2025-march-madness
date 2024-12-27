@@ -2,9 +2,7 @@
 
 ## 2024-12-27
 
-* Bruh I was so sick
-* Also, Christmas
-* Started time-series historical model
+Didn't get too much done this week --- hard to do so over the holidays during perfect times, but I was also *violently* ill. Still, I was able to get started a bit on extending the season-level model to a time-series historical model. The current wrinkle is dealing with a banana posterior. All part of the iterative model building process!
 
 ## 2024-12-20
 
