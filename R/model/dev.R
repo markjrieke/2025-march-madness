@@ -18,7 +18,7 @@ tulsa <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_48.stan",
+    "stan/dev_49.stan",
     dir = "exe/"
   )
 
@@ -61,23 +61,25 @@ Y <-
 
 T <- max(tid)
 S <- max(sid)
-P <- 2 + (2 * T) + 2 * (T * (S - 1))
+P <- 3 + (3 * T) + 3 * (T * (S - 1))
 
-# log_sigma_h / log_sigma
-prior_mu <- rep(-3, 2)
-prior_Sigma <- rep(0.5, 2)
+# log_sigma_o / log_sigma_d / log_sigma_h
+prior_mu <- rep(-3, 3)
+prior_Sigma <- rep(0.5, 3)
+
+# beta0_o
+prior_mu <- c(prior_mu, rep(0, T))
+prior_Sigma <- c(prior_Sigma, rep(0.25, T))
+
+# beta0_d
+prior_mu <- c(prior_mu, rep(0, T))
+prior_Sigma <- c(prior_Sigma, rep(0.25, T))
 
 # beta0_h
 prior_mu <- c(prior_mu, rep(0, T))
 prior_Sigma <- c(prior_Sigma, rep(0.25, T))
 
-# beta_0
-for (t in 1:T) {
-  prior_mu <- c(prior_mu, 0)
-  prior_Sigma <- c(prior_Sigma, 0.25)
-}
-
-# eta_h
+# eta_o
 for (t in 1:T) {
   for (s in 1:(S-1)) {
     prior_mu <- c(prior_mu, 0)
@@ -85,7 +87,15 @@ for (t in 1:T) {
   }
 }
 
-# eta
+# eta_d
+for (t in 1:T) {
+  for (s in 1:(S-1)) {
+    prior_mu <- c(prior_mu, 0)
+    prior_Sigma <- c(prior_Sigma, 1)
+  }
+}
+
+# eta_h
 for (t in 1:T) {
   for (s in 1:(S-1)) {
     prior_mu <- c(prior_mu, 0)
@@ -127,7 +137,8 @@ fit <-
     chains = 4,
     parallel_chains = 4,
     iter_warmup = 1000,
-    iter_sampling = 1000
+    iter_sampling = 1000,
+    refresh = 20
   )
 
 truth <- 
@@ -164,4 +175,5 @@ preds %>%
 
 beepr::beep(sample(1:8, 1))
 
-fit$draws(c("beta_h[1,12]", "beta[1,12]")) %>% bayesplot::mcmc_pairs()
+fit$draws(c("beta_o[1,12]", "beta_d[1,12]", "beta_h[1,12]")) %>% bayesplot::mcmc_pairs()
+fit$summary(paste0("beta_", c("o", "d", "h"), "[1,12]"))
