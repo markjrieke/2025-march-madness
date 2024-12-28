@@ -1,5 +1,11 @@
 # DEVLOG
 
+## 2025-01-02
+
+* Giving myself until Dec 30th to work on the time-series based historical model
+* If I don't have it sorted by then, then we'll just use the dev 19 model with 'informed priors'
+  * It's not perfect, but building a project is a series of compromises and this is one I'd be willing to make
+
 ## 2024-12-27
 
 Didn't get too much done this week --- hard to do so over the holidays during perfect times, but I was also *violently* ill. Still, I was able to get started a bit on extending the season-level model to a time-series historical model. The current wrinkle is dealing with a banana posterior. All part of the iterative model building process!

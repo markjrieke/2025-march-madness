@@ -2,7 +2,7 @@ library(tidyverse)
 library(riekelib)
 library(cmdstanr)
 
-used_teams <- c("Tulsa", "Stanford", "Missouri", "Loyola Chicago", "Marshall", "Vermont", "Saint Louis", "Yale")
+used_teams <- c("Tulsa", "Stanford", "Missouri", "Loyola Chicago")#, "Marshall", "Vermont", "Saint Louis", "Yale")
   
 tulsa <- 
   arrow::read_parquet("data/games/games.parquet") %>%
@@ -14,10 +14,11 @@ tulsa <-
   filter(home_name %in% used_teams | away_name %in% used_teams) %>%
   # slice_sample(prop = 0.5) %>%
   mutate(across(ends_with("name"), ~if_else(.x %in% used_teams, .x, "Other")))
+  filter(season == 2018)
 
 model <- 
   cmdstan_model(
-    "stan/dev_47.stan",
+    "stan/dev_48.stan",
     dir = "exe/"
   )
 
@@ -60,13 +61,13 @@ Y <-
 
 T <- max(tid)
 S <- max(sid)
-P <- 1 + (2 * T) + (T * (S - 1))
+P <- 2 + (2 * T) + 2 * (T * (S - 1))
 
-# log_sigma
-prior_mu <- rep(-3, 1)
-prior_Sigma <- rep(0.5, 1)
+# log_sigma_h / log_sigma
+prior_mu <- rep(-3, 2)
+prior_Sigma <- rep(0.5, 2)
 
-# beta_h
+# beta0_h
 prior_mu <- c(prior_mu, rep(0, T))
 prior_Sigma <- c(prior_Sigma, rep(0.25, T))
 
@@ -74,6 +75,14 @@ prior_Sigma <- c(prior_Sigma, rep(0.25, T))
 for (t in 1:T) {
   prior_mu <- c(prior_mu, 0)
   prior_Sigma <- c(prior_Sigma, 0.25)
+}
+
+# eta_h
+for (t in 1:T) {
+  for (s in 1:(S-1)) {
+    prior_mu <- c(prior_mu, 0)
+    prior_Sigma <- c(prior_Sigma, 1)
+  }
 }
 
 # eta
@@ -155,4 +164,4 @@ preds %>%
 
 beepr::beep(sample(1:8, 1))
 
-fit$draws(c("beta_h[1]", "beta[1,1]")) %>% bayesplot::mcmc_pairs()
+fit$draws(c("beta_h[1,12]", "beta[1,12]")) %>% bayesplot::mcmc_pairs()
