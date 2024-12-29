@@ -18,7 +18,7 @@ tulsa <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_50.stan",
+    "stan/dev_51.stan",
     dir = "exe/"
   )
 
@@ -61,51 +61,22 @@ Y <-
 
 T <- max(tid)
 S <- max(sid)
-P <- 4 + T + (T * (S - 1)) + (T * 2) + (T * 2 * (S - 1))
 
-# logit_rho
-prior_mu <- 0
-prior_Sigma <- 1.5
+logit_rho_mu <- 0
+logit_rho_sigma <- 1.5
 
-# log_sigma_o / log_sigma_d / log_sigma_h
-prior_mu <- c(prior_mu, rep(-3, 3))
-prior_Sigma <- c(prior_Sigma, rep(0.5, 3))
+log_sigma_o_mu <- 0
+log_sigma_o_sigma <- 0.5
+log_sigma_d_mu <- 0
+log_sigma_d_sigma <- 0.5
+log_sigma_h_mu <- 0
+log_sigma_h_sigma <- 0.5
 
-# beta0_h
-prior_mu <- c(prior_mu, rep(0, T))
-prior_Sigma <- c(prior_Sigma, rep(0.25, T))
+beta0_h_mu <- 0
+beta0_h_sigma <- 0.25
 
-# eta_h
-for (t in 1:T) {
-  for (s in 1:(S-1)) {
-    prior_mu <- c(prior_mu, 0)
-    prior_Sigma <- c(prior_Sigma, 1)
-  }
-}
-
-# beta0_od
-for (t in 1:T) {
-  for (j in 1:2) {
-    prior_mu <- c(prior_mu, 0)
-    prior_Sigma <- c(prior_Sigma, 0.25)
-  }
-}
-
-# eta_od
-for (t in 1:T) {
-  for (j in 1:2) {
-    for (s in 1:(S-1)) {
-      prior_mu <- c(prior_mu, 0)
-      prior_Sigma <- c(prior_Sigma, 1)
-    }
-  }
-}
-
-length(prior_mu) == P
-length(prior_Sigma) == P
-
-# convert to matrix
-prior_Sigma <- diag(prior_Sigma, nrow = P, ncol = P)
+beta0_od_mu <- 0
+beta0_od_sigma <- 0.25
 
 # log-mean
 alpha <- log(70/40)
@@ -122,8 +93,18 @@ stan_data <-
     O = tulsa$n_ot,
     V = tulsa$neutral,
     alpha = alpha,
-    prior_mu = prior_mu,
-    prior_Sigma = prior_Sigma
+    logit_rho_mu = logit_rho_mu,
+    logit_rho_sigma = logit_rho_sigma,
+    log_sigma_o_mu = log_sigma_o_mu,
+    log_sigma_o_sigma = log_sigma_o_sigma,
+    log_sigma_d_mu = log_sigma_d_mu,
+    log_sigma_d_sigma = log_sigma_d_sigma,
+    log_sigma_h_mu = log_sigma_h_mu,
+    log_sigma_h_sigma = log_sigma_h_sigma,
+    beta0_h_mu = beta0_h_mu,
+    beta0_h_sigma = beta0_h_sigma,
+    beta0_od_mu = beta0_od_mu,
+    beta0_od_sigma = beta0_od_sigma
   )
 
 fit <-
