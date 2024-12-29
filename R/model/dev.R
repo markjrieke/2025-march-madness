@@ -2,7 +2,7 @@ library(tidyverse)
 library(riekelib)
 library(cmdstanr)
 
-used_teams <- c("Tulsa", "Stanford", "Missouri", "Loyola Chicago")#, "Marshall", "Vermont", "Saint Louis", "Yale")
+used_teams <- c("Tulsa", "Stanford", "Missouri", "Loyola Chicago", "Marshall", "Vermont", "Saint Louis", "Yale")
   
 tulsa <- 
   arrow::read_parquet("data/games/games.parquet") %>%
@@ -18,7 +18,7 @@ tulsa <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_51.stan",
+    "stan/dev_52.stan",
     dir = "exe/"
   )
 
@@ -71,9 +71,13 @@ log_sigma_d_mu <- 0
 log_sigma_d_sigma <- 0.5
 log_sigma_h_mu <- 0
 log_sigma_h_sigma <- 0.5
+log_sigma_a_mu <- 0
+log_sigma_a_sigma <- 0.5
 
 beta0_h_mu <- 0
 beta0_h_sigma <- 0.25
+beta0_a_mu <- 0
+beta0_a_sigma <- 0.25
 
 beta0_od_mu <- 0
 beta0_od_sigma <- 0.25
@@ -101,8 +105,12 @@ stan_data <-
     log_sigma_d_sigma = log_sigma_d_sigma,
     log_sigma_h_mu = log_sigma_h_mu,
     log_sigma_h_sigma = log_sigma_h_sigma,
+    log_sigma_a_mu = log_sigma_a_mu,
+    log_sigma_a_sigma = log_sigma_a_sigma,
     beta0_h_mu = beta0_h_mu,
     beta0_h_sigma = beta0_h_sigma,
+    beta0_a_mu = beta0_a_mu,
+    beta0_a_sigma = beta0_a_sigma,
     beta0_od_mu = beta0_od_mu,
     beta0_od_sigma = beta0_od_sigma
   )
@@ -150,6 +158,7 @@ preds %>%
   geom_pointrange(alpha = 0.0625) + 
   geom_abline(color = "white") + 
   theme_rieke() +
+  facet_wrap(~location)
   facet_grid(vars(location), vars(season))
 
 fit$profiles()[[1]] %>%
