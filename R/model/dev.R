@@ -18,7 +18,7 @@ tulsa <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_49.stan",
+    "stan/dev_50.stan",
     dir = "exe/"
   )
 
@@ -61,45 +61,43 @@ Y <-
 
 T <- max(tid)
 S <- max(sid)
-P <- 3 + (3 * T) + 3 * (T * (S - 1))
+P <- 4 + T + (T * (S - 1)) + (T * 2) + (T * 2 * (S - 1))
+
+# logit_rho
+prior_mu <- 0
+prior_Sigma <- 1.5
 
 # log_sigma_o / log_sigma_d / log_sigma_h
-prior_mu <- rep(-3, 3)
-prior_Sigma <- rep(0.5, 3)
-
-# beta0_o
-prior_mu <- c(prior_mu, rep(0, T))
-prior_Sigma <- c(prior_Sigma, rep(0.25, T))
-
-# beta0_d
-prior_mu <- c(prior_mu, rep(0, T))
-prior_Sigma <- c(prior_Sigma, rep(0.25, T))
+prior_mu <- c(prior_mu, rep(-3, 3))
+prior_Sigma <- c(prior_Sigma, rep(0.5, 3))
 
 # beta0_h
 prior_mu <- c(prior_mu, rep(0, T))
 prior_Sigma <- c(prior_Sigma, rep(0.25, T))
-
-# eta_o
-for (t in 1:T) {
-  for (s in 1:(S-1)) {
-    prior_mu <- c(prior_mu, 0)
-    prior_Sigma <- c(prior_Sigma, 1)
-  }
-}
-
-# eta_d
-for (t in 1:T) {
-  for (s in 1:(S-1)) {
-    prior_mu <- c(prior_mu, 0)
-    prior_Sigma <- c(prior_Sigma, 1)
-  }
-}
 
 # eta_h
 for (t in 1:T) {
   for (s in 1:(S-1)) {
     prior_mu <- c(prior_mu, 0)
     prior_Sigma <- c(prior_Sigma, 1)
+  }
+}
+
+# beta0_od
+for (t in 1:T) {
+  for (j in 1:2) {
+    prior_mu <- c(prior_mu, 0)
+    prior_Sigma <- c(prior_Sigma, 0.25)
+  }
+}
+
+# eta_od
+for (t in 1:T) {
+  for (j in 1:2) {
+    for (s in 1:(S-1)) {
+      prior_mu <- c(prior_mu, 0)
+      prior_Sigma <- c(prior_Sigma, 1)
+    }
   }
 }
 
@@ -173,7 +171,9 @@ preds %>%
   theme_rieke() +
   facet_wrap(~team_name)
 
-beepr::beep(sample(1:8, 1))
+fit$profiles()[[1]] %>%
+  as_tibble() %>%
+  arrange(desc(total_time))
 
 fit$draws(c("beta_o[1,12]", "beta_d[1,12]", "beta_h[1,12]")) %>% bayesplot::mcmc_pairs()
 fit$summary(paste0("beta_", c("o", "d", "h"), "[1,12]"))
