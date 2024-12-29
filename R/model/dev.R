@@ -11,10 +11,10 @@ tulsa <-
          home_name = if_else(home_id == "missing", "missing", home_name),
          away_name = if_else(away_id == "missing", "missing", away_name)) %>%
   filter(league == "mens") %>%
-  filter(home_name %in% used_teams | away_name %in% used_teams) %>%
+  # filter(home_name %in% used_teams | away_name %in% used_teams) %>%
   # slice_sample(prop = 0.5) %>%
-  mutate(across(ends_with("name"), ~if_else(.x %in% used_teams, .x, "Other")))
-  filter(season == 2018)
+  # mutate(across(ends_with("name"), ~if_else(.x %in% used_teams, .x, "Other")))
+  filter(season >= 2022)
 
 model <- 
   cmdstan_model(
@@ -147,10 +147,10 @@ preds %>%
              y = median,
              ymin = q5,
              ymax = q95)) + 
-  geom_pointrange(alpha = 0.125) + 
+  geom_pointrange(alpha = 0.0625) + 
   geom_abline(color = "white") + 
   theme_rieke() +
-  facet_wrap(~team_name)
+  facet_grid(vars(location), vars(season))
 
 fit$profiles()[[1]] %>%
   as_tibble() %>%
