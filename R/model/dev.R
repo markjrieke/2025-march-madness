@@ -18,7 +18,7 @@ tulsa <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_53.stan",
+    "stan/dev_54.stan",
     dir = "exe/"
   )
 
@@ -62,9 +62,6 @@ Y <-
 T <- max(tid)
 S <- max(sid)
 
-logit_rho_mu <- 0
-logit_rho_sigma <- 1.5
-
 log_sigma_o_mu <- 0
 log_sigma_o_sigma <- 0.5
 log_sigma_d_mu <- 0
@@ -74,13 +71,14 @@ log_sigma_h_sigma <- 0.5
 log_sigma_a_mu <- 0
 log_sigma_a_sigma <- 0.5
 
+beta0_o_mu <- 0
+beta0_o_sigma <- 0.25
+beta0_d_mu <- 0
+beta0_d_sigma <- 0.25
 beta0_h_mu <- 0
 beta0_h_sigma <- 0.25
 beta0_a_mu <- 0
 beta0_a_sigma <- 0.25
-
-beta0_od_mu <- 0
-beta0_od_sigma <- 0.25
 
 # log-mean
 alpha <- log(70/40)
@@ -90,15 +88,12 @@ stan_data <-
     N = nrow(tulsa),
     T = T,
     S = S,
-    P = P,
     sid = sid,
     tid = tid,
     Y = Y,
     O = tulsa$n_ot,
     V = 1 - tulsa$neutral,
     alpha = alpha,
-    logit_rho_mu = logit_rho_mu,
-    logit_rho_sigma = logit_rho_sigma,
     log_sigma_o_mu = log_sigma_o_mu,
     log_sigma_o_sigma = log_sigma_o_sigma,
     log_sigma_d_mu = log_sigma_d_mu,
@@ -107,12 +102,14 @@ stan_data <-
     log_sigma_h_sigma = log_sigma_h_sigma,
     log_sigma_a_mu = log_sigma_a_mu,
     log_sigma_a_sigma = log_sigma_a_sigma,
+    beta0_o_mu = beta0_o_mu,
+    beta0_o_sigma = beta0_o_sigma,
+    beta0_d_mu = beta0_d_mu,
+    beta0_d_sigma = beta0_d_sigma,
     beta0_h_mu = beta0_h_mu,
     beta0_h_sigma = beta0_h_sigma,
     beta0_a_mu = beta0_a_mu,
-    beta0_a_sigma = beta0_a_sigma,
-    beta0_od_mu = beta0_od_mu,
-    beta0_od_sigma = beta0_od_sigma
+    beta0_a_sigma = beta0_a_sigma
   )
 
 fit <-
@@ -156,8 +153,8 @@ preds %>%
              y = median,
              ymin = q5,
              ymax = q95)) + 
-  geom_point(alpha = 0.0625) + 
-  # geom_pointrange(alpha = 0.0625) + 
+  # geom_point(alpha = 0.0625) + 
+  geom_pointrange(alpha = 0.01) +
   geom_abline(color = "white") + 
   theme_rieke() +
   # facet_wrap(~location)
@@ -167,9 +164,12 @@ fit$profiles()[[1]] %>%
   as_tibble() %>%
   arrange(desc(total_time))
 
+beepr::beep(8)
+
 fit$summary(paste0("log_sigma_", c("o", "d", "h", "a")))
 fit$draws(paste0("log_sigma_", c("o", "d", "h", "a"))) %>% bayesplot::mcmc_pairs()
-fit$summary(c("eta_od[343,1,2]", "eta_od[343,2,2]", "logit_rho", "log_sigma_o", "log_sigma_d"))
-fit$summary("Sigma_od")
-fit$summary(c("beta_od[343,1,3]", "beta_od[343,2,3]"))
-fit$draws(c("beta_od[343,1,3]", "beta_od[343,2,3]")) %>% bayesplot::mcmc_pairs()
+fit$summary(c(paste0("eta_", c("o", "d", "h", "a"), "[343,2]")))
+fit$draws(paste0("eta_", c("o", "d", "h", "a"), "[343,2]")) %>% bayesplot::mcmc_pairs()
+fit$summary(c(paste0("beta_", c("o", "d", "h", "a"), "[343,3]")))
+fit$draws(paste0("beta_", c("o", "d", "h", "a"), "[343,3]")) %>% bayesplot::mcmc_pairs()
+
