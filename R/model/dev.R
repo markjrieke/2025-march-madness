@@ -18,7 +18,7 @@ tulsa <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_52.stan",
+    "stan/dev_53.stan",
     dir = "exe/"
   )
 
@@ -95,7 +95,7 @@ stan_data <-
     tid = tid,
     Y = Y,
     O = tulsa$n_ot,
-    V = tulsa$neutral,
+    V = 1 - tulsa$neutral,
     alpha = alpha,
     logit_rho_mu = logit_rho_mu,
     logit_rho_sigma = logit_rho_sigma,
@@ -151,19 +151,25 @@ preds %>%
   mutate(location = if_else(location == "1", "home", "away"),
          rowid = as.integer(rowid)) %>%
   left_join(truth) %>%
+  # filter(team_name %in% used_teams) %>%
   ggplot(aes(x = score,
              y = median,
              ymin = q5,
              ymax = q95)) + 
-  geom_pointrange(alpha = 0.0625) + 
+  geom_point(alpha = 0.0625) + 
+  # geom_pointrange(alpha = 0.0625) + 
   geom_abline(color = "white") + 
   theme_rieke() +
-  facet_wrap(~location)
+  # facet_wrap(~location)
   facet_grid(vars(location), vars(season))
 
 fit$profiles()[[1]] %>%
   as_tibble() %>%
   arrange(desc(total_time))
 
-fit$draws(c("beta_o[1,12]", "beta_d[1,12]", "beta_h[1,12]")) %>% bayesplot::mcmc_pairs()
-fit$summary(paste0("beta_", c("o", "d", "h"), "[1,12]"))
+fit$summary(paste0("log_sigma_", c("o", "d", "h", "a")))
+fit$draws(paste0("log_sigma_", c("o", "d", "h", "a"))) %>% bayesplot::mcmc_pairs()
+fit$summary(c("eta_od[343,1,2]", "eta_od[343,2,2]", "logit_rho", "log_sigma_o", "log_sigma_d"))
+fit$summary("Sigma_od")
+fit$summary(c("beta_od[343,1,3]", "beta_od[343,2,3]"))
+fit$draws(c("beta_od[343,1,3]", "beta_od[343,2,3]")) %>% bayesplot::mcmc_pairs()
