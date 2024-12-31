@@ -14,12 +14,12 @@ tulsa <-
   # filter(home_name %in% used_teams | away_name %in% used_teams) %>%
   # slice_sample(prop = 0.5) %>%
   # mutate(across(ends_with("name"), ~if_else(.x %in% used_teams, .x, "Other")))
-  filter(season >= 2022) %>%
+  filter(season == 2018) %>%
   filter(home_name != "missing" & away_name != "missing")
 
 model <- 
   cmdstan_model(
-    "stan/dev_55.stan",
+    "stan/dev_56.stan",
     dir = "exe/"
   )
 
@@ -43,17 +43,6 @@ tid <-
   as.matrix() %>%
   t()
 
-seasons <-
-  tulsa %>%
-  distinct(season) %>%
-  arrange(season) %>%
-  rowid_to_column("sid")
-
-sid <- 
-  tulsa %>%
-  left_join(seasons) %>%
-  pull(sid)
-
 Y <- 
   tulsa %>%
   select(home_score, away_score) %>%
@@ -61,7 +50,6 @@ Y <-
   t()
 
 T <- max(tid)
-S <- max(sid)
 
 log_sigma_o_mu <- -3
 log_sigma_o_sigma <- 0.5
@@ -71,17 +59,8 @@ log_sigma_h_mu <- -3
 log_sigma_h_sigma <- 0.5
 log_sigma_a_mu <- -3
 log_sigma_a_sigma <- 0.5
-log_sigma_i_mu <- -3
+log_sigma_i_mu <- -2
 log_sigma_i_sigma <- 0.5
-
-beta0_o_mu <- 0
-beta0_o_sigma <- 0.25
-beta0_d_mu <- 0
-beta0_d_sigma <- 0.25
-beta0_h_mu <- 0
-beta0_h_sigma <- 0.25
-beta0_a_mu <- 0
-beta0_a_sigma <- 0.25
 
 # log-mean
 alpha <- log(70/40)
@@ -90,8 +69,6 @@ stan_data <-
   list(
     N = nrow(tulsa),
     T = T,
-    S = S,
-    sid = sid,
     tid = tid,
     Y = Y,
     O = tulsa$n_ot,
@@ -106,15 +83,7 @@ stan_data <-
     log_sigma_a_mu = log_sigma_a_mu,
     log_sigma_a_sigma = log_sigma_a_sigma,
     log_sigma_i_mu = log_sigma_i_mu,
-    log_sigma_i_sigma = log_sigma_i_sigma,
-    beta0_o_mu = beta0_o_mu,
-    beta0_o_sigma = beta0_o_sigma,
-    beta0_d_mu = beta0_d_mu,
-    beta0_d_sigma = beta0_d_sigma,
-    beta0_h_mu = beta0_h_mu,
-    beta0_h_sigma = beta0_h_sigma,
-    beta0_a_mu = beta0_a_mu,
-    beta0_a_sigma = beta0_a_sigma
+    log_sigma_i_sigma = log_sigma_i_sigma
   )
 
 fit <-
