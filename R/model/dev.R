@@ -2,9 +2,61 @@ library(tidyverse)
 library(riekelib)
 library(cmdstanr)
 
-extract_eta <- function(eta) {
+recover_priors <- function(step) {
   
-  fit$summary(eta) %>%
+  recovery_data <-
+    list(
+      S = 8 * 500,
+      T = nrow(step),
+      beta_mean = step$mean,
+      beta_sd = step$sd
+    )
+  
+  recovery_fit <-
+    recovery$sample(
+      data = recovery_data,
+      seed = 2025,
+      init = 0.01,
+      step_size = 0.002,
+      chains = 8,
+      parallel_chains = 8,
+      iter_warmup = 500,
+      iter_sampling = 500,
+      refresh = 1000
+    )
+  
+  out <-
+    list(
+      eta = recovery_fit$summary("eta"),
+      log_sigma = recovery_fit$summary("log_sigma")
+    )
+  
+  return(out)
+  
+}
+
+extract_eta_step <- function(beta_recovery) {
+  
+  beta_recovery$eta %>%
+    mutate(tid = parse_number(variable)) %>%
+    left_join(teams) %>%
+    mutate(season = s) %>%
+    select(-c(variable, tid)) %>%
+    relocate(season, team_name)
+  
+}
+
+extract_log_sigma_step <- function(beta_recovery) {
+  
+  beta_recovery$log_sigma %>%
+    mutate(season = s) %>%
+    relocate(season)
+  
+}
+
+extract_beta <- function(beta) {
+  
+  fit$summary(beta) %>%
     mutate(tid = parse_number(variable)) %>%
     left_join(teams) %>%
     mutate(season = s) %>%
@@ -32,13 +84,10 @@ set_eta_mu <- function(eta) {
   
 }
 
-set_eta_sd <- function(eta, scale = 0.2, min = 0.1) {
+set_eta_sd <- function(eta) {
   
   eta %>%
     filter(season == s - 1) %>%
-    mutate(sd_prior = scale * sd,
-           sd_prior = if_else(sd_prior < min, min, sd_prior),
-           sd = sd + sd_prior) %>%
     right_join(teams) %>%
     mutate(sd = replace_na(sd, 1)) %>%
     arrange(tid) %>%
@@ -48,28 +97,35 @@ set_eta_sd <- function(eta, scale = 0.2, min = 0.1) {
 
 set_log_sigma_mu <- function(log_sigma) {
   
-  log_sigma_o %>%
+  log_sigma %>%
     filter(season == s - 1) %>%
     pull(mean)
   
 }
 
-set_log_sigma_sd <- function(log_sigma, scale = 0.2, min = 0.02) {
+set_log_sigma_sd <- function(log_sigma) {
   
   log_sigma %>%
     filter(season == s - 1) %>%
-    mutate(sd_prior = scale * sd,
-           sd_prior = if_else(sd_prior < min, min, sd_prior),
-           sd = sd + sd_prior) %>%
     pull(sd)
   
 }
 
 model <- 
   cmdstan_model(
-    "stan/dev_58.stan",
+    "stan/dev_59.stan",
     dir = "exe/"
   )
+
+recovery <-
+  cmdstan_model(
+    "stan/dev_60.stan",
+    dir = "exe/"
+  )
+
+beta_o_step_sigma <- 0.03
+beta_d_step_sigma <- 0.03
+beta_h_step_sigma <- 0.03
 
 games <-
   arrow::read_parquet("data/games/games.parquet") %>%
@@ -81,7 +137,9 @@ games <-
          home_name != "missing",
          away_name != "missing")
 
-for (s in 2002:2024) {
+smin <- 2002
+
+for (s in smin:2024) {
   
   cli::cli_h1(glue::glue("Season {s-1}-{str_sub(as.character(s), -2)}"))
   cli::cli_h2("Pre-processing...")
@@ -118,7 +176,7 @@ for (s in 2002:2024) {
   
   T <- max(tid)
   
-  if (s == 2002) {
+  if (s == smin) {
     
     eta_o_mu <- rep(0, T)
     eta_o_sigma <- rep(1, T)
@@ -139,22 +197,22 @@ for (s in 2002:2024) {
     
   } else {
     
-    eta_o_mu <- set_eta_mu(eta_o)
-    eta_o_sigma <- set_eta_sd(eta_o)
-    eta_d_mu <- set_eta_mu(eta_d)
-    eta_d_sigma <- set_eta_sd(eta_d)
-    eta_h_mu <- set_eta_mu(eta_h)
-    eta_h_sigma <- set_eta_sd(eta_h)
+    eta_o_mu <- set_eta_mu(eta_o_step)
+    eta_o_sigma <- set_eta_sd(eta_o_step)
+    eta_d_mu <- set_eta_mu(eta_d_step)
+    eta_d_sigma <- set_eta_sd(eta_d_step)
+    eta_h_mu <- set_eta_mu(eta_h_step)
+    eta_h_sigma <- set_eta_sd(eta_h_step)
     
-    log_sigma_o_mu <- set_log_sigma_mu(log_sigma_o)
-    log_sigma_o_sigma <- set_log_sigma_sd(log_sigma_o)
-    log_sigma_d_mu <- set_log_sigma_mu(log_sigma_d)
-    log_sigma_d_sigma <- set_log_sigma_sd(log_sigma_d)
-    log_sigma_h_mu <- set_log_sigma_mu(log_sigma_h)
-    log_sigma_h_sigma <- set_log_sigma_sd(log_sigma_h)
+    log_sigma_o_mu <- set_log_sigma_mu(log_sigma_o_step)
+    log_sigma_o_sigma <- set_log_sigma_sd(log_sigma_o_step)
+    log_sigma_d_mu <- set_log_sigma_mu(log_sigma_d_step)
+    log_sigma_d_sigma <- set_log_sigma_sd(log_sigma_d_step)
+    log_sigma_h_mu <- set_log_sigma_mu(log_sigma_h_step)
+    log_sigma_h_sigma <- set_log_sigma_sd(log_sigma_h_step)
     
     log_sigma_i_mu <- set_log_sigma_mu(log_sigma_i)
-    log_sigma_i_sigma <- set_log_sigma_sd(log_sigma_i)
+    log_sigma_i_sigma <- set_log_sigma_sd(log_sigma_i) + 0.03
     
   }
   
@@ -183,7 +241,10 @@ for (s in 2002:2024) {
       log_sigma_h_mu = log_sigma_h_mu,
       log_sigma_h_sigma = log_sigma_h_sigma,
       log_sigma_i_mu = log_sigma_i_mu,
-      log_sigma_i_sigma = log_sigma_i_sigma
+      log_sigma_i_sigma = log_sigma_i_sigma,
+      beta_o_step_sigma = beta_o_step_sigma,
+      beta_d_step_sigma = beta_d_step_sigma,
+      beta_h_step_sigma = beta_h_step_sigma
     )
   
   fit <-
@@ -199,63 +260,116 @@ for (s in 2002:2024) {
       refresh = 1000
     )
   
-  cli::cli_h2("Post-processing...")
+  cli::cli_h2("Extracting beta_*_step")
   
-  if (s == 2002) {
+  # extract information needed to set next priors
+  beta_o_step_s <- fit$summary("beta_o_step")
+  beta_d_step_s <- fit$summary("beta_d_step")
+  beta_h_step_s <- fit$summary("beta_h_step")
+  
+  beta_o_recovery_s <- recover_priors(beta_o_step_s)
+  beta_d_recovery_s <- recover_priors(beta_d_step_s)
+  beta_h_recovery_s <- recover_priors(beta_h_step_s)
+  
+  eta_o_step_s <- extract_eta_step(beta_o_recovery_s)
+  eta_d_step_s <- extract_eta_step(beta_d_recovery_s)
+  eta_h_step_s <- extract_eta_step(beta_h_recovery_s)
+  
+  log_sigma_o_step_s <- extract_log_sigma_step(beta_o_recovery_s)
+  log_sigma_d_step_s <- extract_log_sigma_step(beta_d_recovery_s)
+  log_sigma_h_step_s <- extract_log_sigma_step(beta_h_recovery_s)
+  
+  cli::cli_h2("Extracting beta_*")
+  
+  # extract posteriors
+  beta_o_s <- extract_beta("beta_o")
+  beta_d_s <- extract_beta("beta_d")
+  beta_h_s <- extract_beta("beta_h")
+  
+  cli::cli_h2("Extracting log_sigma_*")
+  
+  log_sigma_o_s <- extract_log_sigma("log_sigma_o")
+  log_sigma_d_s <- extract_log_sigma("log_sigma_d")
+  log_sigma_h_s <- extract_log_sigma("log_sigma_h")
+  log_sigma_i_s <- extract_log_sigma("log_sigma_i")
+  
+  if (s == smin) {
     
-    eta_o <- extract_eta("eta_o")
-    eta_d <- extract_eta("eta_d")
-    eta_h <- extract_eta("eta_h")
+    # initialize prior setting tracking
+    eta_o_step <- eta_o_step_s
+    eta_d_step <- eta_d_step_s
+    eta_h_step <- eta_h_step_s
     
-    log_sigma_o <- extract_log_sigma("log_sigma_o")
-    log_sigma_d <- extract_log_sigma("log_sigma_d")
-    log_sigma_h <- extract_log_sigma("log_sigma_h")
-    log_sigma_i <- extract_log_sigma("log_sigma_i")
+    log_sigma_o_step <- log_sigma_o_step_s
+    log_sigma_d_step <- log_sigma_d_step_s
+    log_sigma_h_step <- log_sigma_h_step_s
+    
+    # initialize posterior tracking
+    beta_o <- beta_o_s
+    beta_d <- beta_d_s
+    beta_h <- beta_h_s
+    
+    log_sigma_o <- log_sigma_o_s
+    log_sigma_d <- log_sigma_d_s
+    log_sigma_h <- log_sigma_h_s
+    log_sigma_i <- log_sigma_i_s
     
   } else {
     
-    eta_o <- bind_rows(eta_o, extract_eta("eta_o"))
-    eta_d <- bind_rows(eta_d, extract_eta("eta_d"))
-    eta_h <- bind_rows(eta_h, extract_eta("eta_h"))
+    # append prior setting tracking
+    eta_o_step <- bind_rows(eta_o_step, eta_o_step_s)
+    eta_d_step <- bind_rows(eta_d_step, eta_d_step_s)
+    eta_h_step <- bind_rows(eta_h_step, eta_h_step_s)
     
-    log_sigma_o <- bind_rows(log_sigma_o, extract_log_sigma("log_sigma_o"))
-    log_sigma_d <- bind_rows(log_sigma_d, extract_log_sigma("log_sigma_d"))
-    log_sigma_h <- bind_rows(log_sigma_h, extract_log_sigma("log_sigma_h"))
-    log_sigma_i <- bind_rows(log_sigma_i, extract_log_sigma("log_sigma_i"))
+    log_sigma_o_step <- bind_rows(log_sigma_o_step, log_sigma_o_step_s)
+    log_sigma_d_step <- bind_rows(log_sigma_d_step, log_sigma_d_step_s)
+    log_sigma_h_step <- bind_rows(log_sigma_h_step, log_sigma_h_step_s)
+    
+    # append posterior tracking
+    beta_o <- bind_rows(beta_o, beta_o_s)
+    beta_d <- bind_rows(beta_d, beta_d_s)
+    beta_h <- bind_rows(beta_h, beta_h_s)
+    
+    log_sigma_o <- bind_rows(log_sigma_o, log_sigma_o_s)
+    log_sigma_d <- bind_rows(log_sigma_d, log_sigma_d_s)
+    log_sigma_h <- bind_rows(log_sigma_h, log_sigma_h_s)
+    log_sigma_i <- bind_rows(log_sigma_i, log_sigma_i_s)
     
   }
   
 }
 
-preds <-
-  fit$summary(c("Y_rep"))
-
-preds %>%
-  mutate(idx = str_remove_all(variable, "Y_rep|\\[|\\]")) %>%
-  separate(idx, c("location", "rowid")) %>%
-  mutate(location = if_else(location == "1", "home", "away"),
-         rowid = as.integer(rowid)) %>%
-  left_join(truth) %>%
-  ggplot(aes(x = score,
+bind_rows(beta_o %>% mutate(variable = "beta_o"),
+          beta_d %>% mutate(variable = "beta_d"),
+          beta_h %>% mutate(variable = "beta_h")) %>%
+  nest(data = -team_name) %>% 
+  slice_sample(n = 12) %>%
+  unnest(data) %>%
+  ggplot(aes(x = season,
              y = median,
              ymin = q5,
              ymax = q95)) + 
-  # geom_point(alpha = 0.01) +
-  geom_pointrange(alpha = 0.0625) +
-  geom_abline(color = "white") + 
-  geom_smooth(method = "lm") + 
-  coord_flip() + 
-  facet_wrap(~location) +
+  geom_ribbon(aes(fill = variable),
+              alpha = 0.25) + 
+  geom_line(aes(color = variable)) + 
+  scale_color_brewer(palette = "Dark2") + 
+  scale_fill_brewer(palette = "Dark2") + 
+  facet_wrap(~team_name) +
   theme_rieke()
 
-fit$profiles()[[1]] %>%
-  as_tibble() %>%
-  arrange(desc(total_time))
+bind_rows(log_sigma_o,
+          log_sigma_d,
+          log_sigma_h,
+          log_sigma_i) %>%
+  mutate(across(c(median, q5, q95), expit)) %>%
+  ggplot(aes(x = season,
+             y = median,
+             ymin = q5,
+             ymax = q95)) + 
+  geom_ribbon(aes(fill = variable),
+              alpha = 0.25) +
+  geom_line(aes(color = variable)) + 
+  scale_color_brewer(palette = "Dark2") + 
+  scale_fill_brewer(palette = "Dark2") + 
+  theme_rieke()
 
-fit$summary(paste0("log_sigma_", c("o", "d", "h", "a", "i")))
-fit$draws(paste0("log_sigma_", c("o", "d", "h", "a", "i"))) %>% bayesplot::mcmc_pairs()
-fit$summary(c(paste0("eta_", c("o", "d", "h", "a"), "[315]")))
-fit$draws(paste0("eta_", c("o", "d", "h", "a"), "[315]")) %>% bayesplot::mcmc_pairs()
-fit$summary(c(paste0("beta_", c("o", "d", "h", "a"), "[315]")))
-fit$draws(paste0("beta_", c("o", "d", "h", "a"), "[315]")) %>% bayesplot::mcmc_pairs()
-fit$cmdstan_diagnose()
