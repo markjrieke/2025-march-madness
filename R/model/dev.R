@@ -19,7 +19,7 @@ tulsa <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_57.stan",
+    "stan/dev_58.stan",
     dir = "exe/"
   )
 
@@ -51,14 +51,20 @@ Y <-
 
 T <- max(tid)
 
+eta_o_mu <- rep(0, T)
+eta_o_sigma <- rep(1, T)
+eta_d_mu <- rep(0, T)
+eta_d_sigma <- rep(1, T)
+eta_h_mu <- rep(0, T)
+eta_h_sigma <- rep(1, T)
+
 log_sigma_o_mu <- -3
 log_sigma_o_sigma <- 0.5
 log_sigma_d_mu <- -3
 log_sigma_d_sigma <- 0.5
 log_sigma_h_mu <- -3
 log_sigma_h_sigma <- 0.5
-log_sigma_a_mu <- -3
-log_sigma_a_sigma <- 0.5
+
 log_sigma_i_mu <- -3
 log_sigma_i_sigma <- 0.5
 
@@ -74,14 +80,18 @@ stan_data <-
     O = tulsa$n_ot,
     V = 1 - tulsa$neutral,
     alpha = alpha,
+    eta_o_mu = eta_o_mu,
+    eta_o_sigma = eta_o_sigma,
+    eta_d_mu = eta_d_mu,
+    eta_d_sigma = eta_d_sigma,
+    eta_h_mu = eta_h_mu,
+    eta_h_sigma = eta_h_sigma,
     log_sigma_o_mu = log_sigma_o_mu,
     log_sigma_o_sigma = log_sigma_o_sigma,
     log_sigma_d_mu = log_sigma_d_mu,
     log_sigma_d_sigma = log_sigma_d_sigma,
     log_sigma_h_mu = log_sigma_h_mu,
     log_sigma_h_sigma = log_sigma_h_sigma,
-    log_sigma_a_mu = log_sigma_a_mu,
-    log_sigma_a_sigma = log_sigma_a_sigma,
     log_sigma_i_mu = log_sigma_i_mu,
     log_sigma_i_sigma = log_sigma_i_sigma
   )
@@ -94,8 +104,8 @@ fit <-
     step_size = 0.002,
     chains = 8,
     parallel_chains = 8,
-    iter_warmup = 1250,
-    iter_sampling = 1250
+    iter_warmup = 500,
+    iter_sampling = 500
   )
 
 truth <- 
@@ -121,20 +131,6 @@ preds %>%
   mutate(location = if_else(location == "1", "home", "away"),
          rowid = as.integer(rowid)) %>%
   left_join(truth) %>%
-  nest(data = -team_name) %>%
-  slice_sample(n = 12) %>%
-  unnest(data) %>%
-  ggplot(aes(x = date,
-             y = median,
-             ymin = q5,
-             ymax = q95)) + 
-  geom_pointrange(color = "royalblue") + 
-  geom_point(aes(y = score),
-             color = "orange") + 
-  theme_rieke() +
-  facet_wrap(~team_name)
-  # filter(season == 2024) 
-  # filter(team_name %in% used_teams) %>%
   ggplot(aes(x = score,
              y = median,
              ymin = q5,
@@ -142,17 +138,19 @@ preds %>%
   # geom_point(alpha = 0.01) +
   geom_pointrange(alpha = 0.0625) +
   geom_abline(color = "white") + 
-  theme_rieke() +
-  facet_wrap(~location)
+  geom_smooth(method = "lm") + 
+  coord_flip() + 
+  facet_wrap(~location) +
+  theme_rieke()
 
 fit$profiles()[[1]] %>%
   as_tibble() %>%
   arrange(desc(total_time))
 
-fit$summary(paste0("log_sigma_", c("o", "d", "h", "i")))
-fit$draws(paste0("log_sigma_", c("o", "d", "h", "i"))) %>% bayesplot::mcmc_pairs()
-fit$summary(c(paste0("eta_", c("o", "d", "h"), "[315]")))
-fit$draws(paste0("eta_", c("o", "d", "h"), "[315]")) %>% bayesplot::mcmc_pairs()
-fit$summary(c(paste0("beta_", c("o", "d", "h"), "[315]")))
-fit$draws(paste0("beta_", c("o", "d", "h"), "[315]")) %>% bayesplot::mcmc_pairs()
+fit$summary(paste0("log_sigma_", c("o", "d", "h", "a", "i")))
+fit$draws(paste0("log_sigma_", c("o", "d", "h", "a", "i"))) %>% bayesplot::mcmc_pairs()
+fit$summary(c(paste0("eta_", c("o", "d", "h", "a"), "[315]")))
+fit$draws(paste0("eta_", c("o", "d", "h", "a"), "[315]")) %>% bayesplot::mcmc_pairs()
+fit$summary(c(paste0("beta_", c("o", "d", "h", "a"), "[315]")))
+fit$draws(paste0("beta_", c("o", "d", "h", "a"), "[315]")) %>% bayesplot::mcmc_pairs()
 fit$cmdstan_diagnose()
