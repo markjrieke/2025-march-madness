@@ -14,11 +14,12 @@ tulsa <-
   # filter(home_name %in% used_teams | away_name %in% used_teams) %>%
   # slice_sample(prop = 0.5) %>%
   # mutate(across(ends_with("name"), ~if_else(.x %in% used_teams, .x, "Other")))
-  filter(season >= 2022)
+  filter(season >= 2022) %>%
+  filter(home_name != "missing" & away_name != "missing")
 
 model <- 
   cmdstan_model(
-    "stan/dev_54.stan",
+    "stan/dev_55.stan",
     dir = "exe/"
   )
 
@@ -62,14 +63,16 @@ Y <-
 T <- max(tid)
 S <- max(sid)
 
-log_sigma_o_mu <- 0
+log_sigma_o_mu <- -3
 log_sigma_o_sigma <- 0.5
-log_sigma_d_mu <- 0
+log_sigma_d_mu <- -3
 log_sigma_d_sigma <- 0.5
-log_sigma_h_mu <- 0
+log_sigma_h_mu <- -3
 log_sigma_h_sigma <- 0.5
-log_sigma_a_mu <- 0
+log_sigma_a_mu <- -3
 log_sigma_a_sigma <- 0.5
+log_sigma_i_mu <- -3
+log_sigma_i_sigma <- 0.5
 
 beta0_o_mu <- 0
 beta0_o_sigma <- 0.25
@@ -102,6 +105,8 @@ stan_data <-
     log_sigma_h_sigma = log_sigma_h_sigma,
     log_sigma_a_mu = log_sigma_a_mu,
     log_sigma_a_sigma = log_sigma_a_sigma,
+    log_sigma_i_mu = log_sigma_i_mu,
+    log_sigma_i_sigma = log_sigma_i_sigma,
     beta0_o_mu = beta0_o_mu,
     beta0_o_sigma = beta0_o_sigma,
     beta0_d_mu = beta0_d_mu,
@@ -148,12 +153,13 @@ preds %>%
   mutate(location = if_else(location == "1", "home", "away"),
          rowid = as.integer(rowid)) %>%
   left_join(truth) %>%
+  # filter(season == 2024) 
   # filter(team_name %in% used_teams) %>%
   ggplot(aes(x = score,
              y = median,
              ymin = q5,
              ymax = q95)) + 
-  # geom_point(alpha = 0.0625) + 
+  # geom_point(alpha = 0.01) +
   geom_pointrange(alpha = 0.01) +
   geom_abline(color = "white") + 
   theme_rieke() +
@@ -166,8 +172,8 @@ fit$profiles()[[1]] %>%
 
 beepr::beep(8)
 
-fit$summary(paste0("log_sigma_", c("o", "d", "h", "a")))
-fit$draws(paste0("log_sigma_", c("o", "d", "h", "a"))) %>% bayesplot::mcmc_pairs()
+fit$summary(paste0("log_sigma_", c("o", "d", "h", "a", "i")))
+fit$draws(paste0("log_sigma_", c("o", "d", "h", "a", "i"))) %>% bayesplot::mcmc_pairs()
 fit$summary(c(paste0("eta_", c("o", "d", "h", "a"), "[343,2]")))
 fit$draws(paste0("eta_", c("o", "d", "h", "a"), "[343,2]")) %>% bayesplot::mcmc_pairs()
 fit$summary(c(paste0("beta_", c("o", "d", "h", "a"), "[343,3]")))
