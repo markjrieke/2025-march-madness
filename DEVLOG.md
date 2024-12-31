@@ -5,6 +5,9 @@
 * Giving myself until Dec 30th to work on the time-series based historical model
 * If I don't have it sorted by then, then we'll just use the dev 19 model with 'informed priors'
   * It's not perfect, but building a project is a series of compromises and this is one I'd be willing to make
+* Got the historical model mostly working
+* Still gonna just use the "informed priors" model
+  * gotta deal with covariance in the posterior somehow, but this works well enough
 
 ## 2024-12-27
 

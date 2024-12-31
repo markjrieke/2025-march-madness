@@ -59,7 +59,7 @@ log_sigma_h_mu <- -3
 log_sigma_h_sigma <- 0.5
 log_sigma_a_mu <- -3
 log_sigma_a_sigma <- 0.5
-log_sigma_i_mu <- -2
+log_sigma_i_mu <- -3
 log_sigma_i_sigma <- 0.5
 
 # log-mean
@@ -92,11 +92,10 @@ fit <-
     seed = 2025,
     init = 0.01,
     step_size = 0.002,
-    chains = 4,
-    parallel_chains = 4,
-    iter_warmup = 1000,
-    iter_sampling = 1000,
-    refresh = 20
+    chains = 8,
+    parallel_chains = 8,
+    iter_warmup = 1250,
+    iter_sampling = 1250
   )
 
 truth <- 
@@ -122,6 +121,18 @@ preds %>%
   mutate(location = if_else(location == "1", "home", "away"),
          rowid = as.integer(rowid)) %>%
   left_join(truth) %>%
+  nest(data = -team_name) %>%
+  slice_sample(n = 12) %>%
+  unnest(data) %>%
+  ggplot(aes(x = date,
+             y = median,
+             ymin = q5,
+             ymax = q95)) + 
+  geom_pointrange(color = "royalblue") + 
+  geom_point(aes(y = score),
+             color = "orange") + 
+  theme_rieke() +
+  facet_wrap(~team_name)
   # filter(season == 2024) 
   # filter(team_name %in% used_teams) %>%
   ggplot(aes(x = score,
@@ -129,22 +140,19 @@ preds %>%
              ymin = q5,
              ymax = q95)) + 
   # geom_point(alpha = 0.01) +
-  geom_pointrange(alpha = 0.01) +
+  geom_pointrange(alpha = 0.0625) +
   geom_abline(color = "white") + 
   theme_rieke() +
-  # facet_wrap(~location)
-  facet_grid(vars(location), vars(season))
+  facet_wrap(~location)
 
 fit$profiles()[[1]] %>%
   as_tibble() %>%
   arrange(desc(total_time))
 
-beepr::beep(8)
-
 fit$summary(paste0("log_sigma_", c("o", "d", "h", "a", "i")))
 fit$draws(paste0("log_sigma_", c("o", "d", "h", "a", "i"))) %>% bayesplot::mcmc_pairs()
-fit$summary(c(paste0("eta_", c("o", "d", "h", "a"), "[343,2]")))
-fit$draws(paste0("eta_", c("o", "d", "h", "a"), "[343,2]")) %>% bayesplot::mcmc_pairs()
-fit$summary(c(paste0("beta_", c("o", "d", "h", "a"), "[343,3]")))
-fit$draws(paste0("beta_", c("o", "d", "h", "a"), "[343,3]")) %>% bayesplot::mcmc_pairs()
-
+fit$summary(c(paste0("eta_", c("o", "d", "h", "a"), "[315]")))
+fit$draws(paste0("eta_", c("o", "d", "h", "a"), "[315]")) %>% bayesplot::mcmc_pairs()
+fit$summary(c(paste0("beta_", c("o", "d", "h", "a"), "[315]")))
+fit$draws(paste0("beta_", c("o", "d", "h", "a"), "[315]")) %>% bayesplot::mcmc_pairs()
+fit$cmdstan_diagnose()
