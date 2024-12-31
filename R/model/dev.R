@@ -19,7 +19,7 @@ tulsa <-
 
 model <- 
   cmdstan_model(
-    "stan/dev_56.stan",
+    "stan/dev_57.stan",
     dir = "exe/"
   )
 
@@ -149,10 +149,10 @@ fit$profiles()[[1]] %>%
   as_tibble() %>%
   arrange(desc(total_time))
 
-fit$summary(paste0("log_sigma_", c("o", "d", "h", "a", "i")))
-fit$draws(paste0("log_sigma_", c("o", "d", "h", "a", "i"))) %>% bayesplot::mcmc_pairs()
-fit$summary(c(paste0("eta_", c("o", "d", "h", "a"), "[315]")))
-fit$draws(paste0("eta_", c("o", "d", "h", "a"), "[315]")) %>% bayesplot::mcmc_pairs()
-fit$summary(c(paste0("beta_", c("o", "d", "h", "a"), "[315]")))
-fit$draws(paste0("beta_", c("o", "d", "h", "a"), "[315]")) %>% bayesplot::mcmc_pairs()
+fit$summary(paste0("log_sigma_", c("o", "d", "h", "i")))
+fit$draws(paste0("log_sigma_", c("o", "d", "h", "i"))) %>% bayesplot::mcmc_pairs()
+fit$summary(c(paste0("eta_", c("o", "d", "h"), "[315]")))
+fit$draws(paste0("eta_", c("o", "d", "h"), "[315]")) %>% bayesplot::mcmc_pairs()
+fit$summary(c(paste0("beta_", c("o", "d", "h"), "[315]")))
+fit$draws(paste0("beta_", c("o", "d", "h"), "[315]")) %>% bayesplot::mcmc_pairs()
 fit$cmdstan_diagnose()
