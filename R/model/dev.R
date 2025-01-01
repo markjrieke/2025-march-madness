@@ -113,7 +113,7 @@ set_log_sigma_sd <- function(log_sigma) {
 
 model <- 
   cmdstan_model(
-    "stan/dev_59.stan",
+    "stan/dev_61.stan",
     dir = "exe/"
   )
 
@@ -137,7 +137,7 @@ games <-
          home_name != "missing",
          away_name != "missing")
 
-smin <- 2002
+smin <- 2018
 
 for (s in smin:2024) {
   
@@ -339,37 +339,80 @@ for (s in smin:2024) {
   
 }
 
-bind_rows(beta_o %>% mutate(variable = "beta_o"),
-          beta_d %>% mutate(variable = "beta_d"),
-          beta_h %>% mutate(variable = "beta_h")) %>%
-  nest(data = -team_name) %>% 
-  slice_sample(n = 12) %>%
-  unnest(data) %>%
-  ggplot(aes(x = season,
+preds <- fit$summary("log_lambda")
+
+corrected_data <- 
+  season_games %>%
+  rowid_to_column() %>%
+  select(rowid,
+         n_ot,
+         home_score,
+         away_score) %>%
+  pivot_longer(ends_with("score"),
+               names_to = "location",
+               values_to = "score") %>%
+  mutate(location = str_remove(location, "_score")) %>%
+  left_join(preds %>%
+              mutate(variable = str_remove_all(variable, "log_lambda\\[|\\]")) %>%
+              separate(variable, c("location", "rowid")) %>%
+              mutate(rowid = as.integer(rowid),
+                     location = if_else(location == "1", "home", "away"))) %>%
+  mutate(truth = log(score/(40 + 5 * n_ot)),
+         across(c(mean, median, q5, q95), ~.x - log(40 + 5 * n_ot)))
+
+corrected_data %>%
+  ggplot(aes(x = median,
+             xmin = q5,
+             xmax = q95,
+             y = truth)) + 
+  geom_pointrange(alpha = 0.05) + 
+  geom_abline(color = "red") + 
+  geom_smooth(method = "lm") + 
+  facet_wrap(~location) + 
+  theme_rieke()
+
+correct <-
+  cmdstan_model(
+    "stan/dev_62.stan",
+    dir = "exe/"
+  )
+
+stan_data <-
+  list(
+    N = nrow(corrected_data),
+    X = corrected_data$mean,
+    Y = corrected_data$truth,
+    alpha_mu = 0,
+    alpha_sigma = 1,
+    beta_mu = 0,
+    beta_sigma = 1,
+    log_sigma_mu = -2,
+    log_sigma_sigma = 1
+  )
+
+correct_fit <-
+  correct$sample(
+    data = stan_data,
+    seed = 2025,
+    init = 0.01,
+    step_size = 0.002,
+    chains = 8,
+    parallel_chains = 8,
+    iter_warmup = 500,
+    iter_sampling = 500,
+    refresh = 1000
+  )
+
+correct_preds <- correct_fit$summary("Y_rep")
+
+correct_preds %>%
+  bind_cols(corrected_data %>% select(truth, location)) %>%
+  ggplot(aes(x = truth,
              y = median,
              ymin = q5,
              ymax = q95)) + 
-  geom_ribbon(aes(fill = variable),
-              alpha = 0.25) + 
-  geom_line(aes(color = variable)) + 
-  scale_color_brewer(palette = "Dark2") + 
-  scale_fill_brewer(palette = "Dark2") + 
-  facet_wrap(~team_name) +
+  geom_pointrange(alpha = 0.05) +
+  geom_abline(color = "red") + 
+  geom_smooth(method = "lm") + 
+  facet_wrap(~location) + 
   theme_rieke()
-
-bind_rows(log_sigma_o,
-          log_sigma_d,
-          log_sigma_h,
-          log_sigma_i) %>%
-  mutate(across(c(median, q5, q95), expit)) %>%
-  ggplot(aes(x = season,
-             y = median,
-             ymin = q5,
-             ymax = q95)) + 
-  geom_ribbon(aes(fill = variable),
-              alpha = 0.25) +
-  geom_line(aes(color = variable)) + 
-  scale_color_brewer(palette = "Dark2") + 
-  scale_fill_brewer(palette = "Dark2") + 
-  theme_rieke()
-
