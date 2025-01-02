@@ -381,7 +381,7 @@ corrected_data %>%
 
 correct <-
   cmdstan_model(
-    "stan/dev_64.stan",
+    "stan/dev_65.stan",
     dir = "exe/"
   )
 
@@ -410,13 +410,13 @@ correct_fit <-
     parallel_chains = 8,
     iter_warmup = 500,
     iter_sampling = 500,
-    refresh = 1000
+    refresh = 100
   )
 
 correct_preds <- correct_fit$summary("Y_rep")
 
 correct_preds %>%
-  bind_cols(corrected_data %>% select(truth, location))
+  bind_cols(corrected_data %>% select(truth, location)) %>%
   slice_sample(n = 1000) %>%
   ggplot(aes(y = truth,
              x = median,
