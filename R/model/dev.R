@@ -361,6 +361,7 @@ corrected_data <-
          across(c(mean, median, q5, q95), ~.x - log(40 + 5 * n_ot)))
 
 corrected_data %>%
+  slice_sample(n = 1000) %>%
   ggplot(aes(x = median,
              xmin = q5,
              xmax = q95,
@@ -369,11 +370,18 @@ corrected_data %>%
   geom_abline(color = "red") + 
   geom_smooth(method = "lm") + 
   facet_wrap(~location) + 
-  theme_rieke()
+  theme_rieke() + 
+  expand_limits(x = c(-0.5, 1.5),
+                y = c(-0.5, 1.5))
+
+# ~62%!
+corrected_data %>%
+  mutate(within = truth > q5 & truth < q95) %>%
+  percent(within)
 
 correct <-
   cmdstan_model(
-    "stan/dev_62.stan",
+    "stan/dev_63.stan",
     dir = "exe/"
   )
 
@@ -382,6 +390,7 @@ stan_data <-
     N = nrow(corrected_data),
     X = corrected_data$mean,
     Y = corrected_data$truth,
+    lid = if_else(corrected_data$location == "home", 1, 2),
     alpha_mu = 0,
     alpha_sigma = 1,
     beta_mu = 0,
@@ -407,12 +416,21 @@ correct_preds <- correct_fit$summary("Y_rep")
 
 correct_preds %>%
   bind_cols(corrected_data %>% select(truth, location)) %>%
-  ggplot(aes(x = truth,
-             y = median,
-             ymin = q5,
-             ymax = q95)) + 
+  slice_sample(n = 1000) %>%
+  ggplot(aes(y = truth,
+             x = median,
+             xmin = q5,
+             xmax = q95)) + 
   geom_pointrange(alpha = 0.05) +
   geom_abline(color = "red") + 
   geom_smooth(method = "lm") + 
   facet_wrap(~location) + 
-  theme_rieke()
+  theme_rieke() + 
+  expand_limits(x = c(-0.5, 1.5),
+                y = c(-0.5, 1.5))
+
+# ~90% (yay!)
+correct_preds %>%
+  bind_cols(corrected_data %>% select(truth, location)) %>%
+  mutate(within = truth > q5 & truth < q95) %>%
+  percent(within)
