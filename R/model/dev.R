@@ -361,12 +361,12 @@ corrected_data <-
          across(c(mean, median, q5, q95), ~.x - log(40 + 5 * n_ot)))
 
 corrected_data %>%
-  slice_sample(n = 1000) %>%
+  # slice_sample(n = 1000) %>%
   ggplot(aes(x = median,
              xmin = q5,
              xmax = q95,
              y = truth)) + 
-  geom_pointrange(alpha = 0.05) + 
+  geom_point(alpha = 0.01) + 
   geom_abline(color = "red") + 
   geom_smooth(method = "lm") + 
   facet_wrap(~location) + 
@@ -381,14 +381,15 @@ corrected_data %>%
 
 correct <-
   cmdstan_model(
-    "stan/dev_63.stan",
+    "stan/dev_64.stan",
     dir = "exe/"
   )
 
 stan_data <-
   list(
     N = nrow(corrected_data),
-    X = corrected_data$mean,
+    X_mu = corrected_data$mean,
+    X_sigma = corrected_data$sd,
     Y = corrected_data$truth,
     lid = if_else(corrected_data$location == "home", 1, 2),
     alpha_mu = 0,
@@ -415,7 +416,7 @@ correct_fit <-
 correct_preds <- correct_fit$summary("Y_rep")
 
 correct_preds %>%
-  bind_cols(corrected_data %>% select(truth, location)) %>%
+  bind_cols(corrected_data %>% select(truth, location))
   slice_sample(n = 1000) %>%
   ggplot(aes(y = truth,
              x = median,
@@ -425,7 +426,7 @@ correct_preds %>%
   geom_abline(color = "red") + 
   geom_smooth(method = "lm") + 
   facet_wrap(~location) + 
-  theme_rieke() + 
+  theme_rieke() +
   expand_limits(x = c(-0.5, 1.5),
                 y = c(-0.5, 1.5))
 
