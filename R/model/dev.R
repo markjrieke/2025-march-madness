@@ -435,3 +435,21 @@ correct_preds %>%
   bind_cols(corrected_data %>% select(truth, location)) %>%
   mutate(within = truth > q5 & truth < q95) %>%
   percent(within)
+
+X <- correct_fit$summary("X")
+
+X %>%
+  select(median, q5, q95) %>%
+  rename_with(~paste0(.x, "_X")) %>%
+  bind_cols(corrected_data) %>%
+  slice_sample(n = 1000) %>%
+  ggplot(aes(x = median,
+             y = median_X)) + 
+  geom_pointrange(aes(ymin = q5_X,
+                      ymax = q95_X),
+                  alpha = 0.05) + 
+  geom_pointrange(aes(xmin = q5,
+                      xmax = q95),
+                  alpha = 0.05) + 
+  geom_abline(color = "red") + 
+  theme_rieke()
