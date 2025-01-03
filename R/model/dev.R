@@ -65,9 +65,9 @@ extract_beta <- function(beta) {
   
 }
 
-extract_log_sigma <- function(log_sigma) {
+extract_parameter <- function(parameter) {
   
-  fit$summary(log_sigma) %>%
+  fit$summary(parameter) %>%
     mutate(season = s) %>%
     relocate(season)
   
@@ -95,17 +95,17 @@ set_eta_sd <- function(eta) {
   
 }
 
-set_log_sigma_mu <- function(log_sigma) {
+set_parameter_mu <- function(parameter) {
   
-  log_sigma %>%
+  parameter %>%
     filter(season == s - 1) %>%
     pull(mean)
   
 }
 
-set_log_sigma_sd <- function(log_sigma) {
+set_parameter_sd <- function(parameter) {
   
-  log_sigma %>%
+  parameter %>%
     filter(season == s - 1) %>%
     pull(sd)
   
@@ -113,7 +113,7 @@ set_log_sigma_sd <- function(log_sigma) {
 
 model <- 
   cmdstan_model(
-    "stan/dev_61.stan",
+    "stan/dev_66.stan",
     dir = "exe/"
   )
 
@@ -126,6 +126,11 @@ recovery <-
 beta_o_step_sigma <- 0.03
 beta_d_step_sigma <- 0.03
 beta_h_step_sigma <- 0.03
+log_sigma_i_step_sigma <- 0.03
+gamma_0_step_sigma <- 0.2
+delta_0_step_sigma <- 0.05
+gamma_ot_step_sigma <- 0.2
+delta_ot_step_sigma <- 0.05
 
 games <-
   arrow::read_parquet("data/games/games.parquet") %>%
@@ -137,9 +142,11 @@ games <-
          home_name != "missing",
          away_name != "missing")
 
-smin <- 2018
+smin <- 2002
 
 for (s in smin:2024) {
+  
+  tictoc::tic()
   
   cli::cli_h1(glue::glue("Season {s-1}-{str_sub(as.character(s), -2)}"))
   cli::cli_h2("Pre-processing...")
@@ -195,6 +202,15 @@ for (s in smin:2024) {
     log_sigma_i_mu <- -3
     log_sigma_i_sigma <- 0.5
     
+    gamma_0_mu <- 0
+    gamma_0_sigma <- 1
+    delta_0_mu <- 2
+    delta_0_sigma <- 1
+    gamma_ot_mu <- 0
+    gamma_ot_sigma <- 1
+    delta_ot_mu <- -1.5
+    delta_ot_sigma <- 1
+    
   } else {
     
     eta_o_mu <- set_eta_mu(eta_o_step)
@@ -204,15 +220,24 @@ for (s in smin:2024) {
     eta_h_mu <- set_eta_mu(eta_h_step)
     eta_h_sigma <- set_eta_sd(eta_h_step)
     
-    log_sigma_o_mu <- set_log_sigma_mu(log_sigma_o_step)
-    log_sigma_o_sigma <- set_log_sigma_sd(log_sigma_o_step)
-    log_sigma_d_mu <- set_log_sigma_mu(log_sigma_d_step)
-    log_sigma_d_sigma <- set_log_sigma_sd(log_sigma_d_step)
-    log_sigma_h_mu <- set_log_sigma_mu(log_sigma_h_step)
-    log_sigma_h_sigma <- set_log_sigma_sd(log_sigma_h_step)
+    log_sigma_o_mu <- set_parameter_mu(log_sigma_o_step)
+    log_sigma_o_sigma <- set_parameter_sd(log_sigma_o_step)
+    log_sigma_d_mu <- set_parameter_mu(log_sigma_d_step)
+    log_sigma_d_sigma <- set_parameter_sd(log_sigma_d_step)
+    log_sigma_h_mu <- set_parameter_mu(log_sigma_h_step)
+    log_sigma_h_sigma <- set_parameter_sd(log_sigma_h_step)
     
-    log_sigma_i_mu <- set_log_sigma_mu(log_sigma_i)
-    log_sigma_i_sigma <- set_log_sigma_sd(log_sigma_i) + 0.03
+    log_sigma_i_mu <- set_parameter_mu(log_sigma_i)
+    log_sigma_i_sigma <- set_parameter_sd(log_sigma_i) + log_sigma_i_step_sigma
+    
+    gamma_0_mu <- set_parameter_mu(gamma_0)
+    gamma_0_sd <- set_parameter_sd(gamma_0) + gamma_0_step_sigma
+    delta_0_mu <- set_parameter_mu(delta_0)
+    delta_0_sd <- set_parameter_sd(delta_0) + delta_0_step_sigma
+    gamma_ot_mu <- set_parameter_mu(gamma_ot)
+    gamma_ot_sd <- set_parameter_sd(gamma_ot) + gamma_ot_step_sigma
+    delta_ot_mu <- set_parameter_mu(delta_ot)
+    delta_ot_sd <- set_parameter_sd(delta_ot) + delta_ot_step_sigma
     
   }
   
@@ -242,6 +267,14 @@ for (s in smin:2024) {
       log_sigma_h_sigma = log_sigma_h_sigma,
       log_sigma_i_mu = log_sigma_i_mu,
       log_sigma_i_sigma = log_sigma_i_sigma,
+      gamma_0_mu = gamma_0_mu,
+      gamma_0_sigma = gamma_0_sigma,
+      delta_0_mu = delta_0_mu,
+      delta_0_sigma = delta_0_sigma,
+      gamma_ot_mu = gamma_ot_mu,
+      gamma_ot_sigma = gamma_ot_sigma,
+      delta_ot_mu = delta_ot_mu,
+      delta_ot_sigma = delta_ot_sigma,
       beta_o_step_sigma = beta_o_step_sigma,
       beta_d_step_sigma = beta_d_step_sigma,
       beta_h_step_sigma = beta_h_step_sigma
@@ -288,10 +321,17 @@ for (s in smin:2024) {
   
   cli::cli_h2("Extracting log_sigma_*")
   
-  log_sigma_o_s <- extract_log_sigma("log_sigma_o")
-  log_sigma_d_s <- extract_log_sigma("log_sigma_d")
-  log_sigma_h_s <- extract_log_sigma("log_sigma_h")
-  log_sigma_i_s <- extract_log_sigma("log_sigma_i")
+  log_sigma_o_s <- extract_parameter("log_sigma_o")
+  log_sigma_d_s <- extract_parameter("log_sigma_d")
+  log_sigma_h_s <- extract_parameter("log_sigma_h")
+  log_sigma_i_s <- extract_parameter("log_sigma_i")
+  
+  cli::cli_h2("Extracting hurdle parameters")
+  
+  gamma_0_s <- extract_parameter("gamma_0")
+  delta_0_s <- extract_parameter("delta_0")
+  gamma_ot_s <- extract_parameter("gamma_ot")
+  delta_ot_s <- extract_parameter("delta_ot")
   
   if (s == smin) {
     
@@ -314,6 +354,11 @@ for (s in smin:2024) {
     log_sigma_h <- log_sigma_h_s
     log_sigma_i <- log_sigma_i_s
     
+    gamma_0 <- gamma_0_s
+    delta_0 <- delta_0_s
+    gamma_ot <- gamma_ot_s
+    delta_ot <- delta_ot_s
+    
   } else {
     
     # append prior setting tracking
@@ -335,121 +380,77 @@ for (s in smin:2024) {
     log_sigma_h <- bind_rows(log_sigma_h, log_sigma_h_s)
     log_sigma_i <- bind_rows(log_sigma_i, log_sigma_i_s)
     
+    gamma_0 <- bind_rows(gamma_0, gamma_0_s)
+    delta_0 <- bind_rows(delta_0, delta_0_s)
+    gamma_ot <- bind_rows(gamma_ot, gamma_ot_s)
+    delta_ot <- bind_rows(delta_ot, delta_ot_s)
+    
+    
   }
+  
+  tictoc::toc()
   
 }
 
-preds <- fit$summary("log_lambda")
+# save intermittant results to avoid refitting the whole thing each time
+beta_o %>% arrow::write_parquet("out/dev/beta_o.parquet")
+beta_d %>% arrow::write_parquet("out/dev/beta_d.parquet")
+beta_h %>% arrow::write_parquet("out/dev/beta_h.parquet")
 
-corrected_data <- 
-  season_games %>%
-  rowid_to_column() %>%
-  select(rowid,
-         n_ot,
-         home_score,
-         away_score) %>%
-  pivot_longer(ends_with("score"),
-               names_to = "location",
-               values_to = "score") %>%
-  mutate(location = str_remove(location, "_score")) %>%
-  left_join(preds %>%
-              mutate(variable = str_remove_all(variable, "log_lambda\\[|\\]")) %>%
-              separate(variable, c("location", "rowid")) %>%
-              mutate(rowid = as.integer(rowid),
-                     location = if_else(location == "1", "home", "away"))) %>%
-  mutate(truth = log(score/(40 + 5 * n_ot)),
-         across(c(mean, median, q5, q95), ~.x - log(40 + 5 * n_ot)))
+log_sigma_o %>% arrow::write_parquet("out/dev/log_sigma_o.parquet")
+log_sigma_d %>% arrow::write_parquet("out/dev/log_sigma_d.parquet")
+log_sigma_h %>% arrow::write_parquet("out/dev/log_sigma_h.parquet")
+log_sigma_i %>% arrow::write_parquet("out/dev/log_sigma_i.parquet")
 
-corrected_data %>%
-  # slice_sample(n = 1000) %>%
-  ggplot(aes(x = median,
-             xmin = q5,
-             xmax = q95,
-             y = truth)) + 
-  geom_point(alpha = 0.01) + 
-  geom_abline(color = "red") + 
-  geom_smooth(method = "lm") + 
-  facet_wrap(~location) + 
-  theme_rieke() + 
-  expand_limits(x = c(-0.5, 1.5),
-                y = c(-0.5, 1.5))
+gamma_0 %>% arrow::write_parquet("out/dev/gamma_0.parquet")
+delta_0 %>% arrow::write_parquet("out/dev/delta_0.parquet")
+gamma_ot %>% arrow::write_parquet("out/dev/gamma_ot.parquet")
+delta_ot %>% arrow::write_parquet("out/dev/delta_ot.parquet")
 
-# ~62%!
-corrected_data %>%
-  mutate(within = truth > q5 & truth < q95) %>%
-  percent(within)
-
-correct <-
-  cmdstan_model(
-    "stan/dev_65.stan",
-    dir = "exe/"
-  )
-
-stan_data <-
-  list(
-    N = nrow(corrected_data),
-    X_mu = corrected_data$mean,
-    X_sigma = corrected_data$sd,
-    Y = corrected_data$truth,
-    lid = if_else(corrected_data$location == "home", 1, 2),
-    alpha_mu = 0,
-    alpha_sigma = 1,
-    beta_mu = 0,
-    beta_sigma = 1,
-    log_sigma_mu = -2,
-    log_sigma_sigma = 1
-  )
-
-correct_fit <-
-  correct$sample(
-    data = stan_data,
-    seed = 2025,
-    init = 0.01,
-    step_size = 0.002,
-    chains = 8,
-    parallel_chains = 8,
-    iter_warmup = 500,
-    iter_sampling = 500,
-    refresh = 100
-  )
-
-correct_preds <- correct_fit$summary("Y_rep")
-
-correct_preds %>%
-  bind_cols(corrected_data %>% select(truth, location)) %>%
-  slice_sample(n = 1000) %>%
-  ggplot(aes(y = truth,
-             x = median,
-             xmin = q5,
-             xmax = q95)) + 
-  geom_pointrange(alpha = 0.05) +
-  geom_abline(color = "red") + 
-  geom_smooth(method = "lm") + 
-  facet_wrap(~location) + 
-  theme_rieke() +
-  expand_limits(x = c(-0.5, 1.5),
-                y = c(-0.5, 1.5))
-
-# ~90% (yay!)
-correct_preds %>%
-  bind_cols(corrected_data %>% select(truth, location)) %>%
-  mutate(within = truth > q5 & truth < q95) %>%
-  percent(within)
-
-X <- correct_fit$summary("X")
-
-X %>%
-  select(median, q5, q95) %>%
-  rename_with(~paste0(.x, "_X")) %>%
-  bind_cols(corrected_data) %>%
-  slice_sample(n = 1000) %>%
-  ggplot(aes(x = median,
-             y = median_X)) + 
-  geom_pointrange(aes(ymin = q5_X,
-                      ymax = q95_X),
-                  alpha = 0.05) + 
-  geom_pointrange(aes(xmin = q5,
-                      xmax = q95),
-                  alpha = 0.05) + 
-  geom_abline(color = "red") + 
+# some posterior explorations
+bind_rows(beta_o %>% mutate(variable = "beta_o"),
+          beta_d %>% mutate(variable = "beta_d"),
+          beta_h %>% mutate(variable = "beta_h")) %>%
+  nest(data = -team_name) %>%
+  mutate(obs = map_int(data, nrow)) %>%
+  filter(obs == 69) %>%
+  slice_sample(n = 12) %>%
+  unnest(data) %>%
+  ggplot(aes(x = season,
+             y = median,
+             ymin = q5,
+             ymax = q95)) + 
+  geom_ribbon(aes(fill = variable),
+              alpha = 0.25) + 
+  geom_line(aes(color = variable)) +
+  scale_color_brewer(palette = "Dark2") + 
+  scale_fill_brewer(palette = "Dark2") + 
+  facet_wrap(~team_name) + 
   theme_rieke()
+
+bind_rows(log_sigma_o,
+          log_sigma_d,
+          log_sigma_h,
+          log_sigma_i) %>%
+  ggplot(aes(x = season,
+             y = median,
+             ymin = q5,
+             ymax = q95)) + 
+  geom_ribbon(alpha = 0.25) + 
+  geom_line() +
+  facet_wrap(~variable) + 
+  theme_rieke()
+
+bind_rows(gamma_0,
+          delta_0,
+          gamma_ot,
+          delta_ot) %>%
+  ggplot(aes(x = season,
+             y = median,
+             ymin = q5,
+             ymax = q95)) + 
+  geom_ribbon(alpha = 0.25) + 
+  geom_line() + 
+  facet_wrap(~variable) +
+  theme_rieke()
+
