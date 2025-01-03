@@ -113,13 +113,13 @@ set_parameter_sd <- function(parameter) {
 
 model <- 
   cmdstan_model(
-    "stan/dev_66.stan",
+    "stan/historical.stan",
     dir = "exe/"
   )
 
 recovery <-
   cmdstan_model(
-    "stan/dev_60.stan",
+    "stan/recovery.stan",
     dir = "exe/"
   )
 

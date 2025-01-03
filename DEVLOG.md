@@ -1,5 +1,9 @@
 # DEVLOG
 
+## 2025-01-09
+
+* committed to the stan architecture: historical, recovery, prediction
+
 ## 2025-01-02
 
 The theme of this past week was **don't let perfect be the enemy of the good** (I had to write this in all caps in my notebook). I gave myself until December 30th to work on the time-series based historical model. I explored a *lot* of options (including a "correction layer" submodel), but ended up utilizing the `dev_19.stan` variant of the model that I got working a few weeks ago. This is good enough and keeps things moving --- all the time spent on further modeling provided little benefit with lots of extra complications.

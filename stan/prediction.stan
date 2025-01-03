@@ -4,44 +4,40 @@ data {
   int<lower=0> T;                        // Number of teams
   
   // Game-level data
-  array[N] int<lower=0> O;               // Number of overtimes per game
   vector<lower=0, upper=1>[N] V;         // Whether (1) or not (0) to apply a home-court advantage
   array[2,N] int<lower=0, upper=T> tid;  // Map team id to game [home, away]
-  array[2,N] int<lower=0> S;             // Final score [home, away]
   
   // Fixed parameters
   real alpha;                            // Fixed intercept value for score (log scale)
   
-  // Hierarchical priors
-  real<lower=0> sigma_o_mu;              // Mean for offensive rating half-normal prior
-  real<lower=0> sigma_o_sigma;           // Scale for offensive rating half-normal prior
-  real<lower=0> sigma_d_mu;              // Mean for defensive rating half-normal prior
-  real<lower=0> sigma_d_sigma;           // Scale for defensive rating half-normal prior
-  real<lower=0> sigma_h_mu;              // Mean for home-court advantage half-normal prior
-  real<lower=0> sigma_h_sigma;           // Scale for home-court advantage half-normal prior
-  real<lower=0> sigma_i_mu;              // Mean for observation-level offset half-normal prior
-  real<lower=0> sigma_i_sigma;           // Scale for observation-level offset half-normal prior
+  // Team data
+  array[T] vector[3] beta_Mu;            // Team-level mean of beta_o, beta_d, and beta_h
+  array[T] matrix[3,3] beta_Sigma;       // Team-level covariance matrix of beta_o, beta_d, and beta_h
   
-  // Hurdle model priors (p(Ot=0) = p(regulation))
-  real gamma_0_mu;                       // Prior mean for effect of team ratings on p(regulation)
-  real<lower=0> gamma_0_sigma;           // Prior scale for effect of team ratings on p(regulation)
-  real delta_0_mu;                       // Prior mean for p(regulation) intercept
-  real<lower=0> delta_0_sigma;           // Prior scale for p(regulation) intercept
+  // Overdispersion data
+  real log_sigma_i;                      // Log-scale overdispersion scale
   
-  // Hurdle model priors (p(Ot>0))
-  real gamma_t_mu;                       // Prior mean for effect of team ratings on overtimes
-  real<lower=0> gamma_t_sigma;           // Prior scale for effect of team ratings on overtimes
-  real delta_t_mu;                       // Prior mean for overtime intercept
-  real<lower=0> delta_t_sigma;           // Prior scale for overtime intercept
+  // Overtime hurdle data
+  vector[2] hurdle_Mu;                   // Hurdle model means of gamma_0 and delta_0
+  matrix[2,2] hurdle_Sigma;              // Hurdle model covariance between gamma_0 and delta_0
+  vector[2] poisson_Mu;                  // Poisson OT model means of gamma_ot and delta_ot
+  matrix[2,2] poisson_Sigma;             // Poisson OT model covariance between gamma_ot and delta_ot
 }
 
 transformed data {
-  vector[N] M = log(40 + to_vector(O) * 5);
   matrix[2,N] H = rep_matrix(0, 2, N);
   H[1,:] = to_row_vector(V);
+  real<lower=0> sigma_i = exp(log_sigma_i);
 }
 
 generated quantities {
+  /*
+      BLEGH --- pick up here tomorrow
+  */
+  vector[T] beta_o;
+  vector[T] beta_d;
+  vector[T] beta_h;
+  
   array[2,N] int<lower=0> Y;
   array[N] int<lower=0> Ot;
   for(n in 1:N) {

@@ -1,86 +1,5 @@
 functions {
-  real poisson_log_lpmf(array[,] int Y,
-                        array[] vector log_lambda) {
-    int T = num_elements(log_lambda[:,1]);
-    real lp = 0.0;
-    for (t in 1:T) {
-      lp += poisson_log_lpmf(Y[t,:] | log_lambda[t,:]);
-    }
-    
-    return lp;
-  }
-  
-  array[] vector map_mu(real alpha,
-                        vector beta_o,
-                        vector beta_d,
-                        vector beta_h,
-                        array[,] int tid,
-                        vector M,
-                        matrix H) {
-    // convert per-minute to per-game
-    int N = num_elements(tid[1,:]);
-    int T = num_elements(beta_h);
-
-    // map team-per-game to observations
-    array[2] vector[N] log_mu;
-    for (t in 1:2) {
-      for (n in 1:N) {
-        log_mu[t,n] = alpha
-                    + beta_o[tid[t,n]]
-                    - beta_d[tid[2-t+1,n]]
-                    + beta_h[tid[t,n]] * H[t,n];
-      }
-      log_mu[t,:] += M;
-    }
-    
-    return log_mu;
-  }
-  
-  array[] vector map_lambda(array[] vector log_mu,
-                            matrix beta_i) {
-    int N = num_elements(log_mu[1]);
-    array[2] vector[N] log_lambda;
-    for (t in 1:2) {
-      log_lambda[t] = log_mu[t] + beta_i[t,:]';
-    }
-    
-    return log_lambda;
-  }
-  
-  vector hurdle_probability(array[] vector log_mu,
-                            real gamma_0,
-                            real delta_0) {
-    int N = num_elements(log_mu[1]);
-    vector[N] logit_theta = gamma_0 * abs(log_mu[1,:] - log_mu[2,:]) + delta_0;
-    
-    return inv_logit(logit_theta);
-  }
-  
-  vector overtime_poisson(array[] vector log_mu,
-                          real gamma_ot,
-                          real delta_ot) {
-    int N = num_elements(log_mu[1]);
-    vector[N] log_lambda_t = gamma_ot * abs(log_mu[1,:] - log_mu[2,:]) + delta_ot;
-    
-    return log_lambda_t;
-  }
-  
-  real poisson_hurdle_lpmf(array[] int O,
-                           vector theta,
-                           vector log_lambda_t) {
-    int N = num_elements(O);
-    real lp = 0.0;
-    for (n in 1:N) {
-      if (O[n] == 0) {
-        lp += log(theta[n]);
-      } else {
-        lp += log1m(theta[n]) + poisson_log_lpmf(O[n] | log_lambda_t[n]) - poisson_lccdf(0 | exp(log_lambda_t[n]));
-      }
-    }
-    
-    return lp;
-  }
-  
+  #include /functions.stan
 }
 
 data {
@@ -169,8 +88,8 @@ transformed parameters {
   matrix[2,N] beta_i = eta_i * sigma_i;
   
   // map parameters to observations
-  array[2] vector[N] log_mu = map_mu(alpha, beta_o, beta_d, beta_h, tid, M, H);
-  array[2] vector[N] log_lambda = map_lambda(log_mu, beta_i);
+  array[2] vector[N] log_mu = map_mu(alpha, beta_o, beta_d, beta_h, tid, H);
+  array[2] vector[N] log_lambda = map_lambda(log_mu, beta_i, M);
   
   // hurdle over number of overtimes
   vector[N] theta = hurdle_probability(log_mu, gamma_0, delta_0);
