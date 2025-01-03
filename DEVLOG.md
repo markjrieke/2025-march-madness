@@ -2,12 +2,9 @@
 
 ## 2025-01-02
 
-* Giving myself until Dec 30th to work on the time-series based historical model
-* If I don't have it sorted by then, then we'll just use the dev 19 model with 'informed priors'
-  * It's not perfect, but building a project is a series of compromises and this is one I'd be willing to make
-* Got the historical model mostly working
-* Still gonna just use the "informed priors" model
-  * gotta deal with covariance in the posterior somehow, but this works well enough
+The theme of this past week was **don't let perfect be the enemy of the good** (I had to write this in all caps in my notebook). I gave myself until December 30th to work on the time-series based historical model. I explored a *lot* of options (including a "correction layer" submodel), but ended up utilizing the `dev_19.stan` variant of the model that I got working a few weeks ago. This is good enough and keeps things moving --- all the time spent on further modeling provided little benefit with lots of extra complications.
+
+The next stage is to "prettify" the model and actually record the historical output/2025 season priors. After that, I can start working on the prediction portion. 
 
 ## 2024-12-27
 
