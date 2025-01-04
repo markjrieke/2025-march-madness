@@ -1,3 +1,7 @@
+functions {
+  #include /functions.stan
+}
+
 data {
   // Dimensions of the dataset
   int<lower=0> N;                        // Number of observations (games)
@@ -31,18 +35,52 @@ transformed data {
 }
 
 generated quantities {
-  /*
-      BLEGH --- pick up here tomorrow
-  */
+  // team parameters derived from posterior
   vector[T] beta_o;
   vector[T] beta_d;
   vector[T] beta_h;
+  matrix[2,N] beta_i;
   
-  array[2,N] int<lower=0> Y;
+  // overtime hurdle parameters
+  real gamma_0;
+  real delta_0;
+  real gamma_ot;
+  real delta_ot;
+  
+  // extract skill parameters
+  for (t in 1:T) {
+    vector[3] beta;
+    beta = multi_normal_rng(beta_Mu[t], beta_Sigma[t]);
+    beta_o[t] = beta[1];
+    beta_d[t] = beta[2];
+    beta_h[t] = beta[3];
+  }
+  
+  // extract game-level overdispersion
+  for (t in 1:2) {
+    beta_i[t,:] = to_row_vector(normal_rng(rep_vector(0, N), sigma_i));
+  }
+  
+  // extract hurdle parameters
+  {
+    vector[2] hurdle_params = multi_normal_rng(hurdle_Mu, hurdle_Sigma);
+    vector[2] poisson_params = multi_normal_rng(poisson_Mu, poisson_Sigma);
+    gamma_0 = hurdle_params[1];
+    delta_0 = hurdle_params[2];
+    gamma_ot = poisson_params[1];
+    delta_ot = poisson_params[2];
+  }
+  
+  // map parameters to observations
+  array[2] vector[N] log_mu = map_mu(alpha, beta_o, beta_d, beta_h, tid, H);
+
+  // hurdle over number of overtimes
+  vector[N] theta = hurdle_probability(log_mu, gamma_0, delta_0);
+  vector[N] log_lambda_t = overtime_poisson(log_mu, gamma_ot, delta_ot);
+  
+  // estimate the number of overtimes played per game
   array[N] int<lower=0> Ot;
-  for(n in 1:N) {
-    
-    // Hurdle for number of overtimes played
+  for (n in 1:N) {
     if (bernoulli_rng(theta[n])) {
       Ot[n] = 0;
     } else {
@@ -54,45 +92,54 @@ generated quantities {
         Ot[n] = 0;
       }
     }
+  }
+  
+  // simulate team scores
+  array[2,N] int Y_rep;
+  for (n in 1:N) {
     
-    // Simulate team scores
-    array[2] real beta_i_rep = normal_rng(rep_vector(0, 2), sigma_i);
     if (Ot[n] == 0) {
       
-      // If game ends in regulation, just simulate w/o ties
+      // if the game ends in regulation, just simulate w/o ties
       for (i in 1:100) {
         for (t in 1:2) {
-          Y[t,n] = poisson_log_rng(beta_t[t,n] + beta_i_rep[t] + log(40 + Ot[n] * 5));
+          Y[t,n] = poisson_log_rng(log_mu[t,n] + beta_i[t,n] + log(40));
         }
         if (Y[1,n] != Y[2,n]) {
           break;
-        } 
+        }
       }
       
     } else {
       
-      // If game goes to overtime, first find the tie score at Ot[n] - 1
+      // if the game goes to overtime, first find the tie score at Ot[n] - 1
       int Ot1m = Ot[n] - 1;
+      
+      // joint probability of a tie score between 1 and 200
       vector[200] p = rep_vector(0, 200);
       for (i in 1:200) {
         for (t in 1:2) {
-          p[i] += poisson_log_lpmf(i | beta_t[t,n] + beta_i_rep[t] + log(40 + Ot1m * 5));
+          p[i] += poisson_log_lpmf(i | log_mu[t,n] + beta_i[t,n] + log(40 + Ot1m * 5));
         }
       }
+      
+      // normalize and sample which tie score was realized
       p = exp(p);
       p /= sum(p);
       int tied = categorical_rng(p);
       
-      // Simulate final overtime w/o ties
+      // simulate final overtime w/o ties
       for (i in 1:100) {
         for (t in 1:2) {
-          Y[t,n] = tied + poisson_log_rng(beta_t[t,n] + beta_i_rep[t] + log(5));
+          Y[t,n] = tied + poisson_log_rng(beta_t[t,n] + beta_i[t,n] + log(5));
         }
         if (Y[1,n] != Y[2,n]) {
           break;
         }
       }
+      
     }
+    
   }
 }
 
