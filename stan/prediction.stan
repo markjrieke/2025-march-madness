@@ -85,7 +85,7 @@ generated quantities {
       Ot[n] = 0;
     } else {
       for (i in 1:2000) {
-        Ot[n] = poisson_log_rng(lambda_t[n]);
+        Ot[n] = poisson_log_rng(log_lambda_t[n]);
         if (Ot[n] > 0) {
           break;
         }
@@ -103,9 +103,9 @@ generated quantities {
       // if the game ends in regulation, just simulate w/o ties
       for (i in 1:100) {
         for (t in 1:2) {
-          Y[t,n] = poisson_log_rng(log_mu[t,n] + beta_i[t,n] + log(40));
+          Y_rep[t,n] = poisson_log_rng(log_mu[t,n] + beta_i[t,n] + log(40));
         }
-        if (Y[1,n] != Y[2,n]) {
+        if (Y_rep[1,n] != Y_rep[2,n]) {
           break;
         }
       }
@@ -131,9 +131,9 @@ generated quantities {
       // simulate final overtime w/o ties
       for (i in 1:100) {
         for (t in 1:2) {
-          Y[t,n] = tied + poisson_log_rng(beta_t[t,n] + beta_i[t,n] + log(5));
+          Y_rep[t,n] = tied + poisson_log_rng(log_mu[t,n] + beta_i[t,n] + log(5));
         }
-        if (Y[1,n] != Y[2,n]) {
+        if (Y_rep[1,n] != Y_rep[2,n]) {
           break;
         }
       }

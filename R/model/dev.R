@@ -142,7 +142,7 @@ games <-
          home_name != "missing",
          away_name != "missing")
 
-smin <- 2002
+smin <- 2023
 
 for (s in smin:2024) {
   
@@ -392,7 +392,103 @@ for (s in smin:2024) {
   
 }
 
+beta_o_draws <- fit$draws("beta_o", format = "matrix")
+beta_d_draws <- fit$draws("beta_d", format = "matrix")
+beta_h_draws <- fit$draws("beta_h", format = "matrix")
+
+hurdle_draws <- fit$draws(c("gamma_0", "delta_0"), format = "matrix")
+poisson_draws <- fit$draws(c("gamma_ot", "delta_ot"), format = "matrix")
+
+beta_Mu <- array(dim = c(T, 3))
+beta_Sigma <- array(dim = c(T, 3, 3))
+
+hurdle_Mu <- colMeans(hurdle_draws)
+hurdle_Sigma <- cov(hurdle_draws)
+poisson_Mu <- colMeans(poisson_draws)
+poisson_Sigma <- cov(poisson_draws)
+
+for (t in 1:T) {
+  
+  beta_draws <- 
+    cbind(
+      beta_o_draws[,t], 
+      beta_d_draws[,t], 
+      beta_h_draws[,t]
+    )
+  
+  beta_Mu[t,] <- colMeans(beta_draws)
+  beta_Sigma[t,,] <- cov(beta_draws)
+  
+}
+
+prediction <-
+  cmdstan_model(
+    "stan/prediction.stan",
+    dir = "exe/"
+  )
+
+stan_data <- 
+  list(
+    N = 2,
+    T = 4,
+    V = c(0, 0),
+    tid = array(1:4, dim = c(2,2)),
+    alpha = log(70/40),
+    beta_Mu = beta_Mu[c(326, 4, 192, 244),],
+    beta_Sigma = beta_Sigma[c(326, 4, 192, 244),,],
+    log_sigma_i = log_sigma_i[2,]$mean,
+    hurdle_Mu = hurdle_Mu,
+    hurdle_Sigma = hurdle_Sigma,
+    poisson_Mu = poisson_Mu,
+    poisson_Sigma = poisson_Sigma
+  )
+
+predictions <- 
+  prediction$sample(
+    data = stan_data,
+    seed = 2025,
+    iter_warmup = 100,
+    iter_sampling = 1250,
+    chains = 8,
+    parallel_chains = 8,
+    fixed_param = TRUE
+  )
+
+predictions$draws(c("Y_rep", "Ot"), format = "df") %>%
+  as_tibble() %>%
+  pivot_longer(starts_with("Y_rep"),
+               names_to = "variable",
+               values_to = "score") %>%
+  mutate(variable = str_remove_all(variable, "Y_rep\\[|\\]")) %>%
+  separate(variable, c("tid", "game")) %>%
+  mutate(across(c(tid, game), as.integer),
+         location = if_else(tid %in% c(1, 3), "home", "away")) %>%
+  select(-tid) %>%
+  pivot_wider(names_from = location,
+              values_from = score) %>%
+  mutate(n_ot = if_else(game == 1, `Ot[1]`, `Ot[2]`),
+         game = if_else(game == 1, 
+                        "Game 1: UConn vs. Alabama",
+                        "Game 2: NC State vs. Purdue")) %>%
+  # group_by(game) %>% percent(home > away)
+  count(game, home, away, n_ot) %>%
+  ggplot(aes(x = home,
+             y = away,
+             color = as.factor(n_ot),
+             alpha = n)) + 
+  geom_point() + 
+  facet_wrap(~game) + 
+  theme_rieke()
+
 # save intermittant results to avoid refitting the whole thing each time
+eta_o_step %>% arrow::write_parquet("out/dev/eta_o_step.parquet")
+eta_d_step %>% arrow::write_parquet("out/dev/eta_d_step.parquet")
+eta_h_step %>% arrow::write_parquet("out/dev/eta_h_step.parquet")
+
+log_sigma_o_step %>% arrow::write_parquet("out/dev/log_sigma_o_step.parquet")
+log_sigma_d_step %>% arrow::write_parquet("out/dev/log_sigma_d_step.parquet")
+log_sigma_h_step %>% arrow::write_parquet("out/dev/log_sigma_h_step.parquet")
+
 beta_o %>% arrow::write_parquet("out/dev/beta_o.parquet")
 beta_d %>% arrow::write_parquet("out/dev/beta_d.parquet")
 beta_h %>% arrow::write_parquet("out/dev/beta_h.parquet")
@@ -413,7 +509,7 @@ bind_rows(beta_o %>% mutate(variable = "beta_o"),
           beta_h %>% mutate(variable = "beta_h")) %>%
   nest(data = -team_name) %>%
   mutate(obs = map_int(data, nrow)) %>%
-  filter(obs == 69) %>%
+  # filter(obs == 69) %>%
   slice_sample(n = 12) %>%
   unnest(data) %>%
   ggplot(aes(x = season,

@@ -49,8 +49,7 @@ array[] vector map_mu(real alpha,
       + beta_o[tid[t,n]]
       - beta_d[tid[2-t+1,n]]
       + beta_h[tid[t,n]] * H[t,n];
-    }
-    log_mu[t,:] += M;
+    };
   }
   
   return log_mu;
