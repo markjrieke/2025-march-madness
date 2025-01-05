@@ -140,3 +140,109 @@ real poisson_hurdle_lpmf(array[] int O,
   
   return lp;
 }
+
+/* Generate estimates of the number of overtimes per game given a hurdled poisson
+
+    @param theta: a vector containing the probability of each game ending in 
+              regulation.
+    @param log_lambda_t: a vector containing the log-mean number of overtimes 
+              (in the event each game goes to overtime).
+*/
+array[] int poisson_hurdle_rng(vector theta,
+                               vector log_lambda_t) {
+  int N = num_elements(theta);
+  array[N] int Ot;
+  for (n in 1:N) {
+    if (bernoulli_rng(theta[n])) {
+      Ot[n] = 0;
+    } else {
+      for (i in 1:2000) {
+        Ot[n] = poisson_log_rng(log_lambda_t[n]);
+        if (Ot[n] > 0) {
+          break;
+        }
+        Ot[n] = 0;
+      }
+    }
+  }
+  
+  return Ot;
+}
+
+/* Simulate the outcome of each game
+
+    @param log_mu: an array of vectors containing the home team's (log_mu[1])
+              and away team's (log_mu[2]) rate of scoring per minute of play per
+              game.
+    @param beta_i: A matrix of overdispersion parameters for the expected score.
+    @param Ot: an array of integers containinig the number of overtimes played
+              in each game.
+*/
+array[,] int simulate_scores_rng(array[] vector log_mu,
+                                 matrix beta_i,
+                                 array[] int Ot) {
+  int N = num_elements(Ot);
+  array[2,N] int Y_rep;
+  for (n in 1:N) {
+    
+    if (Ot[n] == 0) {
+      
+      // if the game ends in regulation, just simulate w/o ties
+      for (i in 1:100) {
+        for (t in 1:2) {
+          Y_rep[t,n] = poisson_log_rng(log_mu[t,n] + beta_i[t,n] + log(40));
+        }
+        if (Y_rep[1,n] != Y_rep[2,n]) {
+          break;
+        }
+      }
+      
+    } else {
+      
+      // if the game goes to overtime, first find the tie score at Ot[n] - 1
+      int Ot1m = Ot[n] - 1;
+      
+      // probability of a tie score between 1 and 200
+      vector[200] p = rep_vector(0, 200);
+      for (i in 1:200) {
+        for (t in 1:2) {
+          p[i] += poisson_log_lpmf(i | log_mu[t,n] + beta_i[t,n] + log(40 + Ot1m * 5));
+        }
+      }
+      
+      // normalize and sample which tie score was realized
+      p = exp(p);
+      p /= sum(p);
+      int tied = categorical_rng(p);
+      
+      // simulate final overtime w/o ties
+      for (i in 1:100) {
+        for (t in 1:2) {
+          Y_rep[t,n] = tied + poisson_log_rng(log_mu[t,n] + beta_i[t,n] + log(5));
+        }
+        if (Y_rep[1,n] != Y_rep[2,n]) {
+          break;
+        }
+      }
+      
+    }
+    
+  }
+  
+  return Y_rep;
+}
+
+/* Estimate the probability that the home team wins
+
+    @param Y_rep: a multidimensional array of integers containing the score for
+              each team in each game.
+*/
+vector probability_home_win(array[,] int Y_rep) {
+  int N = num_elements(Y_rep[1,:]);
+  vector[N] p_win;
+  for (n in 1:N) {
+    p_win[n] = Y_rep[1,n] > Y_rep[2,n] ? 1.0 : 0.0;
+  }
+  
+  return p_win;
+}

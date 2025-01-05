@@ -3,6 +3,7 @@
 ## 2025-01-09
 
 * committed to the stan architecture: historical, recovery, prediction
+* got the prediction engine working for a set of individual games! gotta extend to brackets
 
 ## 2025-01-02
 

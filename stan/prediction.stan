@@ -78,69 +78,10 @@ generated quantities {
   vector[N] theta = hurdle_probability(log_mu, gamma_0, delta_0);
   vector[N] log_lambda_t = overtime_poisson(log_mu, gamma_ot, delta_ot);
   
-  // estimate the number of overtimes played per game
-  array[N] int<lower=0> Ot;
-  for (n in 1:N) {
-    if (bernoulli_rng(theta[n])) {
-      Ot[n] = 0;
-    } else {
-      for (i in 1:2000) {
-        Ot[n] = poisson_log_rng(log_lambda_t[n]);
-        if (Ot[n] > 0) {
-          break;
-        }
-        Ot[n] = 0;
-      }
-    }
-  }
-  
-  // simulate team scores
-  array[2,N] int Y_rep;
-  for (n in 1:N) {
-    
-    if (Ot[n] == 0) {
-      
-      // if the game ends in regulation, just simulate w/o ties
-      for (i in 1:100) {
-        for (t in 1:2) {
-          Y_rep[t,n] = poisson_log_rng(log_mu[t,n] + beta_i[t,n] + log(40));
-        }
-        if (Y_rep[1,n] != Y_rep[2,n]) {
-          break;
-        }
-      }
-      
-    } else {
-      
-      // if the game goes to overtime, first find the tie score at Ot[n] - 1
-      int Ot1m = Ot[n] - 1;
-      
-      // joint probability of a tie score between 1 and 200
-      vector[200] p = rep_vector(0, 200);
-      for (i in 1:200) {
-        for (t in 1:2) {
-          p[i] += poisson_log_lpmf(i | log_mu[t,n] + beta_i[t,n] + log(40 + Ot1m * 5));
-        }
-      }
-      
-      // normalize and sample which tie score was realized
-      p = exp(p);
-      p /= sum(p);
-      int tied = categorical_rng(p);
-      
-      // simulate final overtime w/o ties
-      for (i in 1:100) {
-        for (t in 1:2) {
-          Y_rep[t,n] = tied + poisson_log_rng(log_mu[t,n] + beta_i[t,n] + log(5));
-        }
-        if (Y_rep[1,n] != Y_rep[2,n]) {
-          break;
-        }
-      }
-      
-    }
-    
-  }
+  // estimate results of each game
+  array[N] int<lower=0> Ot = poisson_hurdle_rng(theta, log_lambda_t);
+  array[2,N] int Y_rep = simulate_scores_rng(log_mu, beta_i, Ot);
+  vector[N] p_home_win = probability_home_win(Y_rep);
 }
 
 

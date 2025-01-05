@@ -125,9 +125,4 @@ generated quantities {
   array[T] real beta_o_step = normal_rng(beta_o, beta_o_step_sigma);
   array[T] real beta_d_step = normal_rng(beta_d, beta_d_step_sigma);
   array[T] real beta_h_step = normal_rng(beta_h, beta_h_step_sigma);
-  
-  array[2,N] int Y_rep;
-  for (t in 1:2) {
-    Y_rep[t,:] = poisson_log_rng(log_lambda[t,:]);
-  }
 }
