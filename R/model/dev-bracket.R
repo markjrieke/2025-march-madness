@@ -2,9 +2,6 @@ teams <-
   tibble(tid = 1:64) %>%
   mutate(beta = rnorm(nrow(.)))
 
-# teams: 64 32 16 8 4 2 1
-# games: 32 16  8 4 2 1
-
 teams <- 
   teams %>%
   bind_cols(game = sort(rep(1:32, 2))) %>%
@@ -24,25 +21,16 @@ p_advance <- matrix(0, nrow = nrow(teams), ncol = 6)
 
 for(s in 1:1e4) {
   
-  G <- nrow(teams) / 2
-  wid <- matrix(0, nrow = G, ncol = 6)
+  wid <- matrix(0, nrow = 64, ncol = 7)
+  wid[,1] <- 1:64
 
-  for (r in 1:6) {
+  for (r in 2:7) {
     
-    if (r == 1) {
-      
-      gid <- tid
-      G <- nrow(teams) / 2
-      
-    } else {
-      
-      G <- 2^(6-r)
-      winners <- wid[,r-1]
-      gid <- matrix(nrow = G, ncol = 2)
-      gid[,1] <- winners[which(1:(2*G) %% 2 == 1)]
-      gid[,2] <- winners[which(1:(2*G) %% 2 == 0)]
-      
-    }
+    G <- 2^(7-r)
+    winners <- wid[,r-1]
+    gid <- matrix(nrow = G, ncol = 2)
+    gid[,1] <- winners[which(1:(2*G) %% 2 == 1)]
+    gid[,2] <- winners[which(1:(2*G) %% 2 == 0)]
     
     for (g in 1:G) {
       
@@ -55,9 +43,9 @@ for(s in 1:1e4) {
   }
   
   for (t in 1:nrow(teams)) {
-    for (r in 1:6) {
+    for (r in 2:7) {
       if (t %in% wid[,r]) {
-        p_advance[t,r] <- p_advance[t,r] + 1
+        p_advance[t,r-1] <- p_advance[t,r-1] + 1
       }
     }
   }
@@ -65,3 +53,19 @@ for(s in 1:1e4) {
 }
 
 p_advance <- p_advance/1e4
+
+p_advance %>% 
+  as_tibble() %>% 
+  rowid_to_column("team") %>% 
+  pivot_longer(starts_with("V"), 
+               names_to = "round", 
+               values_to = "p") %>% 
+  mutate(round = parse_number(round)) %>% 
+  group_by(team) %>% 
+  ggplot(aes(x = round, 
+             y = p, 
+             group = team)) + 
+  geom_line(alpha = 0.25)
+
+
+

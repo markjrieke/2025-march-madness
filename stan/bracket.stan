@@ -4,12 +4,10 @@ functions {
 
 data {
   // Dimensions of the dataset
-  int<lower=0> N;                        // Number of observations (games)
   int<lower=0> T;                        // Number of teams
   
-  // Game-level data
-  vector<lower=0, upper=1>[N] V;         // Whether (1) or not (0) to apply a home-court advantage
-  array[2,N] int<lower=0, upper=T> tid;  // Map team id to game [home, away]
+  // Map teams to round of tournament
+  matrix[64,7] wid;                      // Tournament advancement matrix
   
   // Fixed parameters
   real alpha;                            // Fixed intercept value for score (log scale)
@@ -29,8 +27,6 @@ data {
 }
 
 transformed data {
-  matrix[2,N] H = rep_matrix(0, 2, N);
-  H[1,:] = to_row_vector(V);
   real<lower=0> sigma_i = exp(log_sigma_i);
 }
 
