@@ -7,7 +7,7 @@ data {
   int<lower=0> T;                        // Number of teams
   
   // Map teams to round of tournament
-  matrix[64,7] wid;                      // Tournament advancement matrix
+  array[64,7] int wid_0;                 // Tournament advancement array
   
   // Fixed parameters
   real alpha;                            // Fixed intercept value for score (log scale)
@@ -35,7 +35,6 @@ generated quantities {
   vector[T] beta_o;
   vector[T] beta_d;
   vector[T] beta_h;
-  matrix[2,N] beta_i;
   
   // overtime hurdle parameters
   real gamma_0;
@@ -52,11 +51,6 @@ generated quantities {
     beta_h[t] = beta[3];
   }
   
-  // extract game-level overdispersion
-  for (t in 1:2) {
-    beta_i[t,:] = to_row_vector(normal_rng(rep_vector(0, N), sigma_i));
-  }
-  
   // extract hurdle parameters
   {
     vector[2] hurdle_params = multi_normal_rng(hurdle_Mu, hurdle_Sigma);
@@ -67,7 +61,6 @@ generated quantities {
     delta_ot = poisson_params[2];
   }
   
-  // map parameters to observations
   array[2] vector[N] log_mu = map_mu(alpha, beta_o, beta_d, beta_h, tid, H);
 
   // hurdle over number of overtimes
@@ -77,7 +70,74 @@ generated quantities {
   // estimate results of each game
   array[N] int<lower=0> Ot = poisson_hurdle_rng(theta, log_lambda_t);
   array[2,N] int Y_rep = simulate_scores_rng(log_mu, beta_i, Ot);
-  vector[N] p_home_win = probability_home_win(Y_rep);
+  
+  // simulate tournament outcomes
+  array[64,7] int wid = wid0;
+  {
+    for (r in 2:7) {
+      
+      // number of games in this round of the tournament
+      int G = 2^(7 - r);
+      
+      // extract game-level overdispersion
+      matrix[2,G] beta_i;
+      for (t in 1:2) {
+        beta_i[t,:] = to_row_vector(normal_rng(rep_vector(0, G), sigma_i));
+      }
+      
+      // enforce no home game advantages
+      matrix[2,G] H = rep_matrix(0, 2, G);
+      
+      // team ids for winners of the previous round
+      array[2*G] int winners = wid[:,r-1];
+      
+      // map the previous round's winners to a current round matrix
+      array[2,G] gid;
+      for (g in 1:(2*G)) {
+        int i = ((g + 1) % 2) + 1;
+        int j = to_int(ceil(g/2));
+        gid[i,j] = winners[g];
+      }
+      
+      // sample winners in the current round
+      array[2] vector[G] log_mu = map_mu(alpha, beta_o, beta_d, beta_h, gid, H);
+      
+      // hurdle over number of overtimes
+      vector[G] theta = hurdle_probability(log_mu, gamma_0, delta_0);
+      vector[G] log_lambda_t = overtime_poisson(log_mu, gamma_ot, delta_ot);
+      
+      // estimate results of each game
+      array[G] int<lower=0> Ot = poisson_hurdle_rng(theta, log_lambda_t);
+      array[2,G] int Y_rep = simulate_scores_rng(log_mu, beta_i, Ot);
+      
+      // assign winners of each game to current round's update matrix
+      for (g in 1:G) {
+        if (wid[g,r] == 0) {
+          if (Y_rep[1,g] > Y_rep[2,g]) {
+            wid[g,r] = gid[1,g];
+          } else {
+            wid[g,r] = gid[2,g];
+          }
+        }
+      }
+      
+    }
+  }
+  
+  // estimate the probability of each team advancing to each round in the tournament
+  matrix[T,6] p_advance = rep_matrix(0, T, 6);
+  for (t in 1:T) {
+    for (r in 2:7) {
+      int G = 2^(7 - r);
+      for (g in 1:G) {
+        if (wid[g,r] == t) {
+          p_advance[t,r-1] += 1;
+          break;
+        }
+      }
+    }
+  }
+  
 }
 
 

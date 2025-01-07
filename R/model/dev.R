@@ -427,15 +427,17 @@ prediction <-
     dir = "exe/"
   )
 
+bracket_ids <- c(326, 267, 124, 131, 205, 4, 55, 10, 118, 76, 192, 164, 244, 107, 64, 301)
+
 stan_data <- 
   list(
-    N = 2,
-    T = 4,
-    V = c(0, 0),
-    tid = array(1:4, dim = c(2,2)),
+    N = 8,
+    T = 16,
+    V = rep(0, 8),
+    tid = array(1:16, dim = c(2,8)),
     alpha = log(70/40),
-    beta_Mu = beta_Mu[c(326, 4, 192, 244),],
-    beta_Sigma = beta_Sigma[c(326, 4, 192, 244),,],
+    beta_Mu = beta_Mu[bracket_ids,],
+    beta_Sigma = beta_Sigma[bracket_ids,,],
     log_sigma_i = log_sigma_i[2,]$mean,
     hurdle_Mu = hurdle_Mu,
     hurdle_Sigma = hurdle_Sigma,
@@ -454,32 +456,51 @@ predictions <-
     fixed_param = TRUE
   )
 
-predictions$draws(c("Y_rep", "Ot"), format = "df") %>%
+predictions$draws(c("Y_rep"), format = "df") %>%
   as_tibble() %>%
   pivot_longer(starts_with("Y_rep"),
                names_to = "variable",
                values_to = "score") %>%
   mutate(variable = str_remove_all(variable, "Y_rep\\[|\\]")) %>%
   separate(variable, c("tid", "game")) %>%
+  nest(data = -c(tid, game)) %>%
   mutate(across(c(tid, game), as.integer),
-         location = if_else(tid %in% c(1, 3), "home", "away")) %>%
+         location = if_else(tid == 1, "home", "away"),
+         tid = 2 * game - 2 + tid) %>%
+  mutate(name = teams$team_name[bracket_ids[tid]]) %>%
   select(-tid) %>%
+  nplyr::nest_select(data, score, .draw) %>%
+  unnest(data) %>%
   pivot_wider(names_from = location,
-              values_from = score) %>%
-  mutate(n_ot = if_else(game == 1, `Ot[1]`, `Ot[2]`),
-         game = if_else(game == 1, 
-                        "Game 1: UConn vs. Alabama",
-                        "Game 2: NC State vs. Purdue")) %>%
-  # group_by(game) %>% percent(home > away)
-  count(game, home, away, n_ot) %>%
-  ggplot(aes(x = home,
-             y = away,
+              values_from = c(score, name)) %>%
+  left_join(predictions$draws("Ot", format = "df") %>%
+              as_tibble() %>%
+              select(starts_with("Ot"), .draw) %>% 
+              pivot_longer(starts_with("Ot"),
+                           names_to = "game",
+                           values_to = "n_ot") %>%
+              nest(data = -game) %>%
+              mutate(game = parse_number(game)) %>%
+              unnest(data)) %>%
+  nest(data = -c(game, name_home, name_away)) %>%
+  mutate(p_home = map_dbl(data, ~sum(.x$score_home > .x$score_away)/nrow(.x)),
+         p_away = 1 - p_home,
+         game_title = glue::glue("Game {game}: {name_home} ({scales::label_percent(accuracy = 1)(p_home)}) ",
+                                 "vs. {name_away} ({scales::label_percent(accuracy = 1)(p_away)})")) %>%
+  unnest(data) %>%
+  count(game_title,
+        score_home,
+        score_away,
+        n_ot) %>%
+  ggplot(aes(x = score_home,
+             y = score_away,
              color = as.factor(n_ot),
              alpha = n)) + 
-  geom_point() + 
-  facet_wrap(~game) + 
-  theme_rieke()
-
+  geom_point() +
+  facet_wrap(~game_title, ncol = 2) + 
+  theme_rieke() + 
+  theme(legend.position = "none") 
+  
 # save intermittant results to avoid refitting the whole thing each time
 eta_o_step %>% arrow::write_parquet("out/dev/eta_o_step.parquet")
 eta_d_step %>% arrow::write_parquet("out/dev/eta_d_step.parquet")
