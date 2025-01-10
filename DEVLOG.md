@@ -1,11 +1,17 @@
 # DEVLOG
 
-## 2025-01-09
+## 2025-01-10
 
-* committed to the stan architecture: historical, recovery, prediction
-* got the prediction engine working for a set of individual games! gotta extend to brackets
-* I (think) I got bracketed prediction working (even including partially/fully completed rounds)
-* Hell yeah dawg it's working
+*Lots* done this week --- the mantra of **don't let perfect be the enemy of the good** has been a good one to follow. I fully deleted all the dev Stan models and committed to an architecture of:
+
+* A historical model
+* A parameter recovery model (the yang to the historical model's yin)
+* A fixed parameter prediction model for single games
+* A fixed parameter prediction model for the entire tournament
+
+As of last night, I was able to get the tournament simulation up and running --- it outputs the probability of each team advancing to each round *and* is able to account for games that have already been completed!
+
+I've been working with sparse output from each set of models --- the next steps are to really ramp this thing up for production (i.e., increase the draws) and build out an update script. 
 
 ## 2025-01-02
 
