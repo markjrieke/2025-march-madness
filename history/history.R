@@ -47,15 +47,16 @@ tibble(history = history) %>%
   # mutate(extension = if_else(extension == "R => imports.R}", "R", extension)) %>%
   filter(!extension %in% c("csv", "exe", "png", "html", "log")) %>%
   # filter(extension %in% c("R", "stan")) %>%
-  group_by(commit, message, datetime) %>%
+  group_by(commit, message, datetime, extension) %>%
   summarise(additions = sum(additions),
             deletions = sum(deletions)) %>%
   ungroup() %>%
   arrange(datetime) %>%
-  # group_by(extension) %>%
+  group_by(extension) %>%
   mutate(loc = cumsum(additions) - cumsum(deletions)) %>%
   ggplot(aes(x = datetime,
-             y = loc)) +
+             y = loc,
+             color = extension)) +
   geom_step() +
   geom_vline(xintercept = ymd_hms(c("2025-03-20 00:00:00",
                                     "2025-04-07 17:00:00")),

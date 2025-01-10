@@ -4,6 +4,8 @@
 
 * committed to the stan architecture: historical, recovery, prediction
 * got the prediction engine working for a set of individual games! gotta extend to brackets
+* I (think) I got bracketed prediction working (even including partially/fully completed rounds)
+* Hell yeah dawg it's working
 
 ## 2025-01-02
 
