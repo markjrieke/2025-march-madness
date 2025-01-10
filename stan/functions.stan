@@ -246,3 +246,107 @@ vector probability_home_win(array[,] int Y_rep) {
   
   return p_win;
 }
+
+/* Simulate the results of the tournament and estimate the probability of each
+   team making it to each round
+  
+    @param wid0: a multidimensional array of integers mapping the ids of teams 
+              that have won to rounds in the tournament. 0s indicate that the 
+              game has not yet been played.
+    @param alpha: a fixed value for the hierarchical mean score expected for
+              two evenly matched teams.
+    @param beta_o: a vector of offensive ratings for each team.
+    @param beta_d: a vector of defensive ratings for each team.
+    @param beta_h: a vector of home advantages for each team.
+    @param sigma_i: scale of overdispersion in team scores.
+    @param gamma_0: slope parameter in the linear model converting differences 
+              in team skill to probability of game ending in regulation.
+    @param delta_0: intercept parameter in the linear model converting 
+              differences in team skill to probability of game ending in 
+              regulation.
+    @param gamma_ot: slope parameter in the linear model converting differences 
+              in team skill to log-mean number of overtimes.
+    @param delta_ot: intercept parameter in the linear model converting 
+              differences in team skill to log-mean number of overtimes.
+*/
+matrix simulate_tournament_rng(array[,] int wid0,
+                               real alpha,
+                               vector beta_o,
+                               vector beta_d,
+                               vector beta_h,
+                               real sigma_i,
+                               real gamma_0,
+                               real delta_0,
+                               real gamma_ot,
+                               real delta_ot) {
+  int T = num_elements(beta_o);
+  array[64,7] int wid = wid0;
+  
+  // simulate the winner matrix
+  for (r in 2:7) {
+    
+    // number of games in this round of the tournament
+    int G = to_int(2^(7 - r));
+    
+    // extract game-level overdispersion
+    matrix[2,G] beta_i;
+    for (t in 1:2) {
+      beta_i[t,:] = to_row_vector(normal_rng(rep_vector(0, G), sigma_i));
+    }
+    
+    // enforce no home game advantages
+    matrix[2,G] H = rep_matrix(0, 2, G);
+    
+    // team ids for winners of the previous round
+    array[2*G] int winners = wid[1:(2*G),r-1];
+    
+    // map the previous round's winners to a current round matrix
+    array[2,G] int gid;
+    for (g in 1:(2*G)) {
+      int i = ((g + 1) % 2) + 1;
+      int j = to_int(ceil(g/2.0));
+      gid[i,j] = winners[g];
+    }
+    
+    // log mean expected points for matchups in the current round
+    array[2] vector[G] log_mu = map_mu(alpha, beta_o, beta_d, beta_h, gid, H);
+    
+    // hurdle over number of overtimes
+    vector[G] theta = hurdle_probability(log_mu, gamma_0, delta_0);
+    vector[G] log_lambda_t = overtime_poisson(log_mu, gamma_ot, delta_ot);
+    
+    // estimate the results of each game
+    array[G] int Ot = poisson_hurdle_rng(theta, log_lambda_t);
+    array[2,G] int Y_rep = simulate_scores_rng(log_mu, beta_i, Ot);
+    
+    // assign winners of each game to current round's update matrix
+    for (g in 1:G) {
+      if (wid[g,r] == 0) {
+        if (Y_rep[1,g] > Y_rep[2,g]) {
+          wid[g,r] = gid[1,g];
+        } else {
+          wid[g,r] = gid[2,g];
+        }
+      }
+    }
+  
+  }
+  
+  // estimate the probability of each team advancing to each round in the tournament
+  matrix[T,6] p_advance = rep_matrix(0, T, 6);
+  for (t in 1:T) {
+    for (r in 2:7) {
+      int G = to_int(2^(7 - r));
+      for (g in 1:G) {
+        if (wid[g,r] == t) {
+          p_advance[t,r-1] += 1;
+          break;
+        }
+      }
+    }
+  }
+  
+  return p_advance;
+  
+}
+

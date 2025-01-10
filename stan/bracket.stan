@@ -62,71 +62,18 @@ generated quantities {
   }
   
   // simulate tournament outcomes
-  array[64,7] int wid = wid0;
-  {
-    for (r in 2:7) {
-      
-      // number of games in this round of the tournament
-      int G = to_int(2^(7 - r));
-      
-      // extract game-level overdispersion
-      matrix[2,G] beta_i;
-      for (t in 1:2) {
-        beta_i[t,:] = to_row_vector(normal_rng(rep_vector(0, G), sigma_i));
-      }
-      
-      // enforce no home game advantages
-      matrix[2,G] H = rep_matrix(0, 2, G);
-      
-      // team ids for winners of the previous round
-      array[2*G] int winners = wid[1:(2*G),r-1];
-      
-      // map the previous round's winners to a current round matrix
-      array[2,G] int gid;
-      for (g in 1:(2*G)) {
-        int i = ((g + 1) % 2) + 1;
-        int j = to_int(ceil(g/2.0));
-        gid[i,j] = winners[g];
-      }
-      
-      // sample winners in the current round
-      array[2] vector[G] log_mu = map_mu(alpha, beta_o, beta_d, beta_h, gid, H);
-      
-      // hurdle over number of overtimes
-      vector[G] theta = hurdle_probability(log_mu, gamma_0, delta_0);
-      vector[G] log_lambda_t = overtime_poisson(log_mu, gamma_ot, delta_ot);
-      
-      // estimate results of each game
-      array[G] int Ot = poisson_hurdle_rng(theta, log_lambda_t);
-      array[2,G] int Y_rep = simulate_scores_rng(log_mu, beta_i, Ot);
-      
-      // assign winners of each game to current round's update matrix
-      for (g in 1:G) {
-        if (wid[g,r] == 0) {
-          if (Y_rep[1,g] > Y_rep[2,g]) {
-            wid[g,r] = gid[1,g];
-          } else {
-            wid[g,r] = gid[2,g];
-          }
-        }
-      }
-      
-    }
-  }
-  
-  // estimate the probability of each team advancing to each round in the tournament
-  matrix[T,6] p_advance = rep_matrix(0, T, 6);
-  for (t in 1:T) {
-    for (r in 2:7) {
-      int G = to_int(2^(7 - r));
-      for (g in 1:G) {
-        if (wid[g,r] == t) {
-          p_advance[t,r-1] += 1;
-          break;
-        }
-      }
-    }
-  }
+  matrix[T,6] p_advance = simulate_tournament_rng(
+    wid0,
+    alpha,
+    beta_o,
+    beta_d,
+    beta_h,
+    sigma_i,
+    gamma_0,
+    delta_0,
+    gamma_ot,
+    delta_ot
+  );
   
 }
 

@@ -436,7 +436,7 @@ bracket <-
 stan_data <-
   list(
     T = 64,
-    wid0 = array(c(1:64, 1, 3, rep(0, 6*64 - 2)), dim = c(64, 7)),
+    wid0 = array(c(1:64, 1, 3, 5, rep(0, 6*64 - 3)), dim = c(64, 7)),
     alpha = log(70/40),
     beta_Mu = beta_Mu[1:64,],
     beta_Sigma = beta_Sigma[1:64,,],
