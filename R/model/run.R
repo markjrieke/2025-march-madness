@@ -16,7 +16,9 @@ if (!dir.exists("exe")) {
 
 # run historical model ---------------------------------------------------------
 
-
+# add a check after run
+walk(2002:2024, ~run_historical_model(.x, "mens"))
+walk(2002:2024, ~run_historical_model(.x, "womens"))
 
 # utils ------------------------------------------------------------------------
 

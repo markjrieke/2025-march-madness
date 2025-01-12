@@ -12,6 +12,8 @@ run_historical_model <- function(season,
                                  gamma_ot_step_sigma = 0.2,
                                  delta_ot_step_sigma = 0.05) {
   
+  cli::cli_h1(glue::glue("{str_to_title(league)} {season-1}-{str_sub(as.character(season), -2)}"))
+  
   # evaluate processing time
   start_ts <- Sys.time()
   
