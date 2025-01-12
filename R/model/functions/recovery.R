@@ -89,6 +89,7 @@ recover_priors <- function(step,
       num_max_treedepth = diagnostics$num_max_treedepth,
       samples = samples,
       season = season,
+      league = league,
       date_min = mdy(paste0("11/1/", season)),
       date_max = mdy(paste0("4/30/", season + 1)),
       target_variable = glue::glue("beta_{variable}")

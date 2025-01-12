@@ -150,6 +150,7 @@ run_historical_model <- function(season,
       num_max_treedepth = diagnostics$num_max_treedepth,
       samples = samples,
       season = season,
+      league = league,
       date_min = mdy(paste0("11/1/", season)),
       date_max = mdy(paste0("4/30/", season + 1)),
       target_variable = glue::glue("")
@@ -261,12 +262,19 @@ set_historical_priors <- function(teams,
                                   gamma_ot_step_sigma,
                                   delta_ot_step_sigma) {
   
-  # file to check for historical posteriors/priors
-  path <- "out/historical_parameters_team.parquet"
+  # rename variables for internal use
+  league_int <- league
+  
+  # check whether or not the first season (2002) has been run
+  first_run <-
+    arrow::read_parquet("out/model_log.parquet") %>%
+    filter(season == 2002,
+           league == league_int) %>%
+    nrow()
   
   # set priors manually for the first season
   # otherwise infer priors from previous season's posterior
-  if (!file.exists(path)) {
+  if (first_run == 0) {
     
     out <-
       list(
