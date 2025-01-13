@@ -1,5 +1,10 @@
 # DEVLOG
 
+## 2025-01-17
+
+* Men's historical run!
+* Women's historical run!
+
 ## 2025-01-10
 
 *Lots* done this week --- the mantra of **don't let perfect be the enemy of the good** has been a good one to follow. I fully deleted all the dev Stan models and committed to an architecture of:
