@@ -545,3 +545,29 @@ set_global_sigma <- function(parameter,
   
 }
 
+#' Check whether or not all prior seasons have been run for the historical model
+#' 
+#' @description
+#' Checks whether or not all prior seasons (i.e., 2002-2024) have been run and 
+#' for appear in `model_log.parquet` the specified league.
+#' 
+#' @param league Which league to extract results for. Either "mens" or "womens".
+historical_completed <- function(league) {
+  
+  # rename variables for internal use
+  league_int <- league
+  
+  # return seasons that have been evaluated
+  completed_seasons <- 
+    arrow::read_parquet("out/model_log.parquet") %>%
+    filter(model_name == "historical",
+           league == league_int) %>%
+    pull(season)
+  
+  # check if all historical seasons have been run
+  out <- all(2002:2024 %in% completed_seasons)
+  
+  return(out)
+  
+}
+
