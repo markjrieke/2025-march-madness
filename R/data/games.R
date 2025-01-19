@@ -8,6 +8,12 @@ source("R/data/utils.R")
 
 # functions --------------------------------------------------------------------
 
+#' Get game results given a team and season
+#' 
+#' @param league Which league to extract results for. Either "mens" or "womens".
+#' @param team_id ESPN numeric team_id.
+#' @param season Season to extract results for. Seasons are identified by the
+#'        year in which the last game was played.
 scrape_games <- function(league, team_id, season) {
   
   # read html
@@ -71,6 +77,11 @@ scrape_games <- function(league, team_id, season) {
   
 }
 
+#' Extract the results of a game as a one-row tibble
+#' 
+#' @param eid Element id identifying the index of the game to extract from 
+#'        `elements`.
+#' @param elements HTML elements containing game results.
 extract_game_result <- function(eid, elements) {
   
   row_elements <- html_elements(elements[eid], ".Table__TD")[2:3]
@@ -129,8 +140,6 @@ for (league in c("mens", "womens")) {
     # rename variables for filtering
     league_int <- league
     season_int <- season
-    
-    # anti-join to remove any pre-collected items
     
     # break up season scrapes into 200-unit "chunks"
     chunks <- 

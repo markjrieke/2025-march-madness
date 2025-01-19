@@ -10,6 +10,10 @@ source("R/data/utils.R")
 
 # scrape teams -----------------------------------------------------------------
 
+#' Extract Division I teams that played on a specified date
+#' 
+#' @param league Which league to extract results for. Either "mens" or "womens".
+#' @param date Date to extract results from. In the format "20250118".
 scrape_teams <- function(league, date) {
   
   # build url

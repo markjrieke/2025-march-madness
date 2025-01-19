@@ -1,3 +1,59 @@
+#' Run the historical model
+#' 
+#' @description
+#' The historical model is a comparative skill model that estimates the outcome
+#' of each game based on the latent expected rate of scoring for each team.
+#' Further, the historical model includes a hurdle component that estimates the 
+#' probability of a matchup going to overtime and the number of overtimes 
+#' played if so. 
+#' 
+#' The latent rate of scoring for each team is a combination of the team's 
+#' offensive skill, the opponent's defensive skill, and the team's boost in 
+#' scoring potential due to home-court advantages, if applicable. For games that
+#' are played at neutral locations, neither team benefits from their home-court
+#' advantage. 
+#' 
+#' The probability of a game going to overtime is estimated with a simple 
+#' single-variable linear model using the absolute difference in each team's 
+#' rate of scoring (i.e., it's expected that a game with two equally-matched 
+#' teams is likelier to go to overtime than an imbalanced game). Similarly, the 
+#' number of overtimes played is estimated with a simple linear model based on 
+#' the absolute difference in each team's rate of scoring. 
+#' 
+#' Offensive, defensive, and home-court advantage parameters are modeled as
+#' hierarchically distributed independent parameters. Parameters for both 
+#' components of the hurdle model are estimated as fixed parameters. 
+#' 
+#' Priors are set using a psuedo-random walk process. For the first season, 
+#' weakly informative priors are set for all parameters by the function 
+#' internally. For subsequent seasons, priors are set using the posterior of 
+#' each parameter plus a fixed amount of drift passed as arguments to this 
+#' function. A `recovery.stan` submodel is used to convert the output of the 
+#' pseudo-random walk (`beta`) to the hierarchical components (`eta` and 
+#' `sigma`) that are passed into the model as priors. More information on the 
+#' recovery model can be found in `recovery.R`.
+#' 
+#' For each season, the historical model outputs the log of scale parameters and
+#' the hurdle model components to `historical_parameters_global.parquet`. Team-
+#' level offensive, defensive, and home-court advantage parameters for each 
+#' season are stored in `historical_parameters_team.parquet`. 
+#' 
+#' @param season Season to extract results for. Seasons are identified by the
+#'        year in which the last game was played.
+#' @param league Which league to extract results for. Either "mens" or "womens".
+#' @param ... Unused
+#' @param samples Number of posterior samples to generate. Used for both warmup
+#'        and sampling.
+#' @param chains Number of chains used to fit the model. All chains will be run
+#'        in parallel, if available. 
+#' @param beta_o_step_sigma,beta_d_step_sigma,beta_h_step_sigma Pseudo-random 
+#'        walk scale for team skill parameters.
+#' @param log_sigma_i_step_sigma Pseudo-random walk scale for overdispersion 
+#'        scale.
+#' @param gamma_0_step_sigma,gamma_ot_step_sigma Pseudo-random walk scale for 
+#'        slope parameters in the hurdle model.
+#' @param delta_0_step_sigma,delta_ot_step_sigma Pseudo-random walk scale for 
+#'        intercept parameters in the hurdle model.
 run_historical_model <- function(season,
                                  league,
                                  ...,
@@ -162,6 +218,13 @@ run_historical_model <- function(season,
   
 }
 
+#' Extract the summary of a global parameter from a model fit
+#' 
+#' @param fit A model fit by `historical.stan`
+#' @param parameter The parameter name to be extracted.
+#' @param season Season to extract results for. Seasons are identified by the
+#'        year in which the last game was played.
+#' @param league Which league to extract results for. Either "mens" or "womens".
 extract_global_parameter <- function(fit, 
                                      parameter, 
                                      season, 
@@ -179,6 +242,15 @@ extract_global_parameter <- function(fit,
   
 }
 
+#' Extract summaries of team parameters from a model fit
+#' 
+#' @param fit A model fit by `historical.stan`
+#' @param parameter The parameter name to be extracted.
+#' @param teams A tibble mapping ESPN `team_name` and `team_id` to an internal
+#'        mapping id, `tid`.
+#' @param season Season to extract results for. Seasons are identified by the
+#'        year in which the last game was played.
+#' @param league Which league to extract results for. Either "mens" or "womens".
 extract_team_parameter <- function(fit,
                                    parameter,
                                    teams,
@@ -201,6 +273,11 @@ extract_team_parameter <- function(fit,
   
 }
 
+#' Prep data to be passed to the historical model
+#' 
+#' @param games A tibble of game data for a given season.
+#' @param teams A tibble mapping ESPN `team_name` and `team_id` to an internal
+#'        mapping id, `tid`.
 set_data_args <- function(games, teams) {
   
   # map tid to home/away for each game in the season
@@ -252,6 +329,20 @@ set_data_args <- function(games, teams) {
   
 }
 
+#' Prep priors to be passed to the historical model
+#' 
+#' @param teams A tibble mapping ESPN `team_name` and `team_id` to an internal
+#'        mapping id, `tid`.
+#' @param season Season to extract results for. Seasons are identified by the
+#'        year in which the last game was played.
+#' @param league Which league to extract results for. Either "mens" or "womens".
+#' @param T The number of Division I teams that played this season.
+#' @param log_sigma_i_step_sigma Pseudo-random walk scale for overdispersion 
+#'        scale.
+#' @param gamma_0_step_sigma,gamma_ot_step_sigma Pseudo-random walk scale for 
+#'        slope parameters in the hurdle model.
+#' @param delta_0_step_sigma,delta_ot_step_sigma Pseudo-random walk scale for 
+#'        intercept parameters in the hurdle model.
 set_historical_priors <- function(teams,
                                   season,
                                   league,
@@ -342,6 +433,14 @@ set_historical_priors <- function(teams,
   
 }
 
+#' Set the mean for the prior of a team parameter
+#' 
+#' @param parameter The parameter to set a prior for.
+#' @param teams A tibble mapping ESPN `team_name` and `team_id` to an internal
+#'        mapping id, `tid`.
+#' @param season Season to extract results for. Seasons are identified by the
+#'        year in which the last game was played.
+#' @param league Which league to extract results for. Either "mens" or "womens".
 set_team_mu <- function(parameter,
                         teams,
                         season,
@@ -365,6 +464,14 @@ set_team_mu <- function(parameter,
   
 }
 
+#' Set the standard deviation for the prior of a team parameter
+#' 
+#' @param parameter The parameter to set a prior for.
+#' @param teams A tibble mapping ESPN `team_name` and `team_id` to an internal
+#'        mapping id, `tid`.
+#' @param season Season to extract results for. Seasons are identified by the
+#'        year in which the last game was played.
+#' @param league Which league to extract results for. Either "mens" or "womens".
 set_team_sigma <- function(parameter,
                            teams,
                            season,
@@ -388,6 +495,12 @@ set_team_sigma <- function(parameter,
   
 }
 
+#' Set the mean for the prior of a global parameter
+#' 
+#' @param parameter The parameter to set a prior for.
+#' @param season Season to extract results for. Seasons are identified by the
+#'        year in which the last game was played.
+#' @param league Which league to extract results for. Either "mens" or "womens".
 set_global_mu <- function(parameter,
                           season,
                           league) {
@@ -407,6 +520,12 @@ set_global_mu <- function(parameter,
   
 }
 
+#' Set the mean for the prior of a global parameter
+#' 
+#' @param parameter The parameter to set a prior for.
+#' @param season Season to extract results for. Seasons are identified by the
+#'        year in which the last game was played.
+#' @param league Which league to extract results for. Either "mens" or "womens".
 set_global_sigma <- function(parameter,
                              season,
                              league) {

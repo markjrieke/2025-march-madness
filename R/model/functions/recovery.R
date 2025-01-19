@@ -1,3 +1,25 @@
+#' Run the recovery model
+#' 
+#' @description
+#' The recovery model is a submodel of the historical model post-processing that
+#' converts a set of pseudo-random walk parameters (i.e., `beta_*_step`) to 
+#' their hierarchical components, `eta` and `sigma`. By making use of the 
+#' sufficient formulation of the normal distribution, the model is able to take
+#' a summary of team parameters as input, rather than a set of draws as input.
+#' 
+#' @param step A summary tibble of pseudo-random walk parameters fit by the 
+#'        historical model.
+#' @param teams A tibble mapping ESPN `team_name` and `team_id` to an internal
+#'        mapping id, `tid`.
+#' @param season Season to extract results for. Seasons are identified by the
+#'        year in which the last game was played.
+#' @param league Which league to extract results for. Either "mens" or "womens".
+#' @param variable Which team parameter to process (offense, defense, or home-
+#'        court advantage).
+#' @param samples Number of posterior samples to generate. Used for both warmup
+#'        and sampling.
+#' @param chains Number of chains used to fit the model. All chains will be run
+#'        in parallel, if available. 
 recover_priors <- function(step,
                            teams,
                            season,

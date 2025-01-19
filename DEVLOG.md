@@ -1,5 +1,9 @@
 # DEVLOG
 
+## 2025-01-24
+
+* Added documentation to R functions
+
 ## 2025-01-17
 
 This week was relatively light in terms of incremental "hands on keys" dev work, but I was able to run the full set of historical models for both the men's and women's leagues. I'll need to write an incremental training script --- I'll probably actually save the output for each team for each day --- and add a bunch of documentation. After all that, I should be in the clear to start writing the March Madness-specific scrape and predict script. 
