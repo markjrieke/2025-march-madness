@@ -6,7 +6,7 @@ library(rvest)
 library(furrr)
 
 # util webscraping functions
-source("R/data/utils.R")
+source("R/utils.R")
 
 # scrape teams -----------------------------------------------------------------
 

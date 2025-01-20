@@ -5,6 +5,9 @@ library(tidyverse)
 library(cmdstanr)
 library(riekelib)
 
+# util functions
+source("R/utils.R")
+
 # functions
 function_path <- "R/model/functions/"
 walk(list.files(function_path), ~source(paste0(function_path, .x)))
@@ -22,6 +25,10 @@ for (league in c("mens", "womens")) {
     walk(2002:2024, ~run_historical_model(.x, league))
   }
 }
+
+# run current season model -----------------------------------------------------
+
+
 
 # utils ------------------------------------------------------------------------
 

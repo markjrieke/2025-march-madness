@@ -4,7 +4,7 @@ library(tidyverse)
 library(rvest)
 library(furrr)
 
-source("R/data/utils.R")
+source("R/utils.R")
 
 # functions --------------------------------------------------------------------
 
