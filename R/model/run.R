@@ -17,20 +17,21 @@ if (!dir.exists("exe")) {
   dir.create("exe")
 }
 
-# run historical model ---------------------------------------------------------
+# run models -------------------------------------------------------------------
 
-# re-run historical model if needed
+# iterate workflow across leagues
 for (league in c("mens", "womens")) {
+  
+  # re-run historical model if need be
   if(!historical_completed(league)) {
     walk(2002:2024, ~run_historical_model(.x, league))
   }
+  
+  # update parameters for the current season
+  walk(missing_days(league), ~run_update_model(league, .x))
+  
 }
 
-# run current season model -----------------------------------------------------
-
-
-
-# utils ------------------------------------------------------------------------
 
 
 

@@ -529,4 +529,33 @@ extract_game_result <- function(eid, elements) {
   
 }
 
+#' Add documentation
+missing_days <- function(league) {
+  
+  # rename variables for internal use
+  league_int <- league
+  
+  # all potential days to have run the model
+  eligible_days <- 
+    seq.Date(
+      from = mdy("11/5/24"), 
+      to = Sys.Date(), 
+      by = "day"
+    )
+  
+  # days that the model was actually run
+  completed_days <- 
+    arrow::read_parquet("out/model_log.parquet") %>%
+    filter(model_name == "update",
+           league == league_int) %>%
+    pull(date_max)
+  
+  # remove days that were run from eligible days
+  out <- 
+    eligible_days[which(!eligible_days %in% completed_days)]
+  
+  return(out)
+  
+}
+
 

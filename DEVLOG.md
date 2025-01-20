@@ -3,6 +3,7 @@
 ## 2025-01-24
 
 * Added documentation to R functions
+* Function to update the set of games in the current season
 
 ## 2025-01-17
 
