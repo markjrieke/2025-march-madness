@@ -29,7 +29,7 @@ scrape_games <- function(league, team_id, season) {
            team_id = team_id,
            season = season,
            warning = as.character(result$warning)) %>%
-      write_log("data/games/games-warnings.parquet")
+      append_parquet("data/games/games-warnings.parquet")
     
   }
   
@@ -40,7 +40,7 @@ scrape_games <- function(league, team_id, season) {
            team_id = team_id,
            season = season,
            error = as.character(result$error)) %>%
-      write_log("data/games/games-errors.parquet")
+      append_parquet("data/games/games-errors.parquet")
     
     # exit the function
     return()
