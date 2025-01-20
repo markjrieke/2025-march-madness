@@ -44,6 +44,36 @@ append_parquet <- function(data, file) {
   
 }
 
+#' Append an existing rds file with new data, or create a new one if it 
+#' doesn't already exist.
+#' 
+#' @param x A tibble or dataframe
+#' @param file Path to rds file. If it exists, the data in `x` must match to
+#'        be able to append. If it doesn't exist, `file` indicates the path/
+#'        filename of the parquet file to be created.  
+append_rds <- function(data, file) {
+  
+  if (!file.exists(file)) {
+    
+    cli::cli_alert_info(glue::glue("{file} doesn't exist. Initializing file."))
+    data %>%
+      write_rds(file)
+    
+  } else {
+    
+    # read in current file
+    current_file <-
+      read_rds(file)
+    
+    # append and write
+    current_file %>%
+      bind_rows(data) %>%
+      write_rds(file)
+    
+  }
+  
+}
+
 #' Check whether an output file is out-of-date
 #'
 #' @description
