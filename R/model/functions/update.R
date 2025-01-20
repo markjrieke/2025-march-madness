@@ -38,7 +38,8 @@ run_update_model <- function(league,
   season <- 2025
   
   # update game data if not running backtest
-  if (date == Sys.Date()) {
+  games_file <- glue::glue("out/update/{league}-games.parquet")
+  if (date == Sys.Date() | !file.exists(games_file)) {
     update_season_data(league)
   }
     

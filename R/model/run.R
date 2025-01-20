@@ -4,6 +4,8 @@
 library(tidyverse)
 library(cmdstanr)
 library(riekelib)
+library(furrr)
+library(rvest)
 
 # util functions
 source("R/utils.R")
