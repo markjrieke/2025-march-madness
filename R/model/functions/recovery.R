@@ -78,7 +78,7 @@ recover_priors <- function(step,
              team_id, 
              team_name, 
              variable) %>%
-    append_parquet("out/historical_parameters_team.parquet")
+    append_parquet("out/historical/historical_parameters_team.parquet")
   
   # write results for log_sigma
   log_sigma_step %>%
@@ -89,7 +89,7 @@ recover_priors <- function(step,
     relocate(season,
              league,
              variable) %>%
-    append_parquet("out/historical_parameters_global.parquet")
+    append_parquet("out/historical/historical_parameters_global.parquet")
   
   # diagnostics
   diagnostics <-

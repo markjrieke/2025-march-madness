@@ -238,7 +238,7 @@ extract_global_parameter <- function(fit,
     relocate(season,
              league,
              variable) %>%
-    append_parquet("out/historical_parameters_global.parquet")
+    append_parquet("out/historical/historical_parameters_global.parquet")
   
 }
 
@@ -269,7 +269,7 @@ extract_team_parameter <- function(fit,
              team_id, 
              team_name, 
              variable) %>%
-    append_parquet("out/historical_parameters_team.parquet")
+    append_parquet("out/historical/historical_parameters_team.parquet")
   
 }
 
@@ -451,7 +451,7 @@ set_team_mu <- function(parameter,
   league_int <- league
   
   out <- 
-    arrow::read_parquet("out/historical_parameters_team.parquet") %>%
+    arrow::read_parquet("out/historical/historical_parameters_team.parquet") %>%
     filter(season == season_int - 1,
            league == league_int,
            variable == parameter) %>%
@@ -482,7 +482,7 @@ set_team_sigma <- function(parameter,
   league_int <- league
   
   out <- 
-    arrow::read_parquet("out/historical_parameters_team.parquet") %>%
+    arrow::read_parquet("out/historical/historical_parameters_team.parquet") %>%
     filter(season == season_int - 1,
            league == league_int,
            variable == parameter) %>%
@@ -510,7 +510,7 @@ set_global_mu <- function(parameter,
   league_int <- league
   
   out <- 
-    arrow::read_parquet("out/historical_parameters_global.parquet") %>%
+    arrow::read_parquet("out/historical/historical_parameters_global.parquet") %>%
     filter(season == season_int - 1,
            league == league_int,
            variable == parameter) %>%
@@ -535,7 +535,7 @@ set_global_sigma <- function(parameter,
   league_int <- league
   
   out <-
-    arrow::read_parquet("out/historical_parameters_global.parquet") %>%
+    arrow::read_parquet("out/historical/historical_parameters_global.parquet") %>%
     filter(season == season_int - 1,
            league == league_int,
            variable == parameter) %>%
