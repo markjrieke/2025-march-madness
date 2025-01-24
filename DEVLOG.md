@@ -2,8 +2,13 @@
 
 ## 2025-01-24
 
-* Added documentation to R functions
-* Function to update the set of games in the current season
+Another relatively light week --- I've been working pretty diligently on another tangentially related side project. That being said, I feel like this project is in a pretty good spot in terms of the planned schedule. I've added documentation to all the existing functions and setup the `run.R` script to update the set of games in the current season. For January, I need to write the following:
+
+* Function(s) for generating pre-game predictions in the current season (this isn't strictly necessary for this project, but is a nice-to-have, and I've already written the model to do so).
+* Function(s) for scraping the [March Madness page](https://www.espn.com/mens-college-basketball/bracket/_/season/2025). At the moment, the 2025 page redirects to the 2024 bracket, which is fine for development purposes.
+* Function(s) for running the bracket model.
+
+After all that is done, I can start worrying about presentation and UI in February, though I plan to keep it somewhat simple. All things considered, this project is moving along at the expected pace.
 
 ## 2025-01-17
 
