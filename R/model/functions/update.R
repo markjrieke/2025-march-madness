@@ -1,3 +1,38 @@
+#' Run mid-season updates
+#' 
+#' @description
+#' The update model re-uses the historical model to update the offensive, 
+#' defensive, and home-court advantage parameters for each team in the current
+#' (2024-2025) season. More details about the historical model are documented in
+#' the `run_historical_model()` roxygen tags.
+#' 
+#' Although it uses the historical stan model, the update model outputs a 
+#' different set of variables. Namely, rather than outputting the pseudo-random
+#' walk variables, the update model records the actual parameter summaries for 
+#' each team (i.e., `beta_o` is recorded instead of `beta_o_step`). Because each
+#' team rating component is correlated, the output also contains a covariance 
+#' matrix for each team. These values are recorded for each team for each day
+#' under `team_parameters.rds` (saving as a .rds is necessary to preserve the 
+#' correlation matrix). Global parameters for the hurdle model and their 
+#' covariance matrices are stored in a much similar way to 
+#' global_parameters.rds`.
+#' 
+#' @param league Which league to extract results for. Either "mens" or "womens".
+#' @param date The date in the current season to run the update for. Filters to
+#'        only games that have occurred before the specified date.
+#' @param ... Unused
+#' @param samples Number of posterior samples to generate. Used for both warmup
+#'        and sampling.
+#' @param chains Number of chains used to fit the model. All chains will be run
+#'        in parallel, if available. 
+#' @param beta_o_step_sigma,beta_d_step_sigma,beta_h_step_sigma Pseudo-random 
+#'        walk scale for team skill parameters.
+#' @param log_sigma_i_step_sigma Pseudo-random walk scale for overdispersion 
+#'        scale.
+#' @param gamma_0_step_sigma,gamma_ot_step_sigma Pseudo-random walk scale for 
+#'        slope parameters in the hurdle model.
+#' @param delta_0_step_sigma,delta_ot_step_sigma Pseudo-random walk scale for 
+#'        intercept parameters in the hurdle model.
 run_update_model <- function(league,
                              date,
                              ...,
@@ -146,7 +181,13 @@ run_update_model <- function(league,
   
 }
 
-#' Add documentation
+#' Extract mean and covariance matrix summarizing team parameters
+#' 
+#' @param fit A model fit by `historical.stan`
+#' @param teams A tibble mapping ESPN `team_name` and `team_id` to an internal
+#'        mapping id, `tid`.
+#' @param date The date in the current season to run the update for.
+#' @param league Which league to extract results for. Either "mens" or "womens".
 extract_correlated_team_parameters <- function(fit,
                                                teams,
                                                date,
@@ -205,7 +246,13 @@ extract_correlated_team_parameters <- function(fit,
   
 }
 
-#' Update docs
+#' Extract mean and covariance matrix summarizing global parameters
+#' 
+#' @param fit A model fit by `historical.stan`
+#' @param parameter The set of parameters to be extracted. Use "0" for the
+#'        hurdle component and "ot" for the poisson component.
+#' @param date The date in the current season to run the update for.
+#' @param league Which league to extract results for. Either "mens" or "womens".
 extract_correlated_global_parameters <- function(fit,
                                                  parameter = c("0", "ot"),
                                                  date,
@@ -235,7 +282,9 @@ extract_correlated_global_parameters <- function(fit,
 }
 
 
-#' Extract the most recent set of results for the current season
+#' Extract the most recent set of game results for the current season
+#' 
+#' @param league Which league to extract results for. Either "mens" or "womens".
 update_season_data <- function(league) {
   
   cli::cli_alert_info(glue::glue("Updating {str_to_title(league)} data"))
@@ -530,7 +579,9 @@ extract_game_result <- function(eid, elements) {
   
 }
 
-#' Add documentation
+#' Determine which days have not been run for the update model
+#' 
+#' @param league Which league to extract results for. Either "mens" or "womens".
 missing_days <- function(league) {
   
   # rename variables for internal use
