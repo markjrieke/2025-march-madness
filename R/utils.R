@@ -228,3 +228,42 @@ sys_sleep <- function(time, .progress = TRUE) {
   
 }
 
+#' Prep a games dataframe for modeling
+#' 
+#' @param games A tibble of game results as extracted by `scrape_games()`
+prep_games <- function(games) {
+  
+  games %>%
+    
+    # mid-continent university has both a NA id and an actual id (564)
+    # adjust to NA for all observations
+    mutate(across(ends_with("_id"), ~if_else(.x == "564", NA, .x)),
+           across(ends_with("_id"), ~if_else(is.na(.x), "missing", .x)),
+           home_name = if_else(home_id == "missing", "missing", home_name),
+           away_name = if_else(away_id == "missing", "missing", away_name)) %>%
+    
+    # filter to only div 1 teams in current league/season
+    filter(home_name != "missing",
+           away_name != "missing")
+    
+}
+
+#' Map team names and ids to a tid for modeling
+#' 
+#' @param games A tibble of game results as extracted by `scrape_games()` and 
+#'        cleaned by `prep_games()`.
+assign_tids <- function(games) {
+  
+  bind_rows(games %>% distinct(team_name = home_name, team_id = home_id),
+            games %>% distinct(team_name = away_name, team_id = away_id)) %>%
+    distinct(team_name, team_id) %>%
+    arrange(team_name) %>%
+    rowid_to_column("tid")
+  
+}
+
+
+
+
+
+

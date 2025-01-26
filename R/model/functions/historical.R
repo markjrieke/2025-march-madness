@@ -95,27 +95,14 @@ run_historical_model <- function(season,
   # import current set of games
   games <-
     arrow::read_parquet("data/games/games.parquet") %>%
-    
-    # mid-continent university has both a NA id and an actual id (564)
-    # adjust to NA for all observations
-    mutate(across(ends_with("_id"), ~if_else(.x == "564", NA, .x)),
-           across(ends_with("_id"), ~if_else(is.na(.x), "missing", .x)),
-           home_name = if_else(home_id == "missing", "missing", home_name),
-           away_name = if_else(away_id == "missing", "missing", away_name)) %>%
-    
-    # filter to only div 1 teams in current league/season
+    prep_games() %>%
     filter(league == league_int,
-           season == season_int,
-           home_name != "missing",
-           away_name != "missing")
+           season == season_int)
   
   # assign tids for the current season 
   teams <- 
-    bind_rows(games %>% distinct(team_name = home_name, team_id = home_id),
-              games %>% distinct(team_name = away_name, team_id = away_id)) %>%
-    distinct(team_name, team_id) %>%
-    arrange(team_name) %>%
-    rowid_to_column("tid")
+    games %>%
+    assign_tids()
   
   # set data based on current season information
   data_args <- set_data_args(games, teams)

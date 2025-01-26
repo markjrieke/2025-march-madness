@@ -1,5 +1,9 @@
 # DEVLOG
 
+## 2025-01-31
+
+*
+
 ## 2025-01-24
 
 Another relatively light week --- I've been working pretty diligently on another tangentially related side project. That being said, I feel like this project is in a pretty good spot in terms of the planned schedule. I've added documentation to all the existing functions and setup the `run.R` script to update the set of games in the current season. For January, I need to write the following:

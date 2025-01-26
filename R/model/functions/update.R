@@ -82,25 +82,12 @@ run_update_model <- function(league,
   games <- 
     arrow::read_parquet(glue::glue("out/update/{league}-games.parquet")) %>%
     filter(date < date_int) %>%
-    
-    # mid-continent university has bot a NA id and an actual id (564)
-    # adjust to NA for all observations
-    mutate(across(ends_with("_id"), ~if_else(.x == "564", NA, .x)),
-           across(ends_with("_id"), ~if_else(is.na(.x), "missing", .x)),
-           home_name = if_else(home_id == "missing", "missing", home_name),
-           away_name = if_else(away_id == "missing", "missing", away_name)) %>%
-    
-    # filter to only div 1 teams
-    filter(home_name != "missing",
-           away_name != "missing")
+    prep_games()
   
   # assign tids for the current season 
   teams <- 
-    bind_rows(games %>% distinct(team_name = home_name, team_id = home_id),
-              games %>% distinct(team_name = away_name, team_id = away_id)) %>%
-    distinct(team_name, team_id) %>%
-    arrange(team_name) %>%
-    rowid_to_column("tid")
+    games %>%
+    assign_tids()
   
   # set data based on current season information
   data_args <- set_data_args(games, teams)
