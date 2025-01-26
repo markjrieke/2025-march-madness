@@ -135,6 +135,7 @@ run_update_model <- function(league,
   extract_correlated_team_parameters(historical_fit, teams, date, league)
   extract_correlated_global_parameters(historical_fit, "0", date, league)
   extract_correlated_global_parameters(historical_fit, "ot", date, league)
+  extract_log_sigma(historical_fit, date, league)
   
   # diagnostics
   diagnostics <-
@@ -268,6 +269,26 @@ extract_correlated_global_parameters <- function(fit,
   
 }
 
+#' Extract observation-level scale parameter in the current season
+#' 
+#' @param fit A model fit by `historical.stan`
+#' @param date The date in the current season to run the update for.
+#' @param league Which league to extract results for. Either "mens" or "womens".
+extract_log_sigma <- function(fit, 
+                              date, 
+                              league) {
+  
+  # extract a summary of log_sigma_i
+  log_sigma_i <- fit$summary("log_sigma_i")
+  
+  # summarize as a tibble
+  log_sigma_i %>%
+    mutate(date = date,
+           league = league) %>%
+    relocate(date, league) %>%
+    append_parquet("out/update/log_sigma_i.parquet")
+  
+}
 
 #' Extract the most recent set of game results for the current season
 #' 
