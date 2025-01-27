@@ -2,7 +2,8 @@
 
 ## 2025-01-31
 
-*
+* Accidentally didn't save the output for `log_sigma_i` from the update process --- had to rerun the entire shindig. Oh well.
+* Started writing the prediction script
 
 ## 2025-01-24
 
