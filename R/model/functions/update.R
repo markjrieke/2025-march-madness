@@ -355,7 +355,7 @@ update_season_data <- function(league) {
   plan(sequential)
   
   # process results
-  out <- 
+  out <-
     results %>%
     mutate(league = league,
            season = season) %>%
@@ -388,7 +388,7 @@ update_season_data <- function(league) {
            opponent_name = if_else(is.na(parse_number(str_sub(opponent_name, 1, 1))),
                                    opponent_name,
                                    str_sub(opponent_name, str_locate(opponent_name, " ")[,1] + 1)),
-           opponent_name = str_remove(opponent_name, " \\*|\\*")) %>% 
+           opponent_name = str_remove(opponent_name, " \\*|\\*")) %>%
     
     # determine whether (or not) the game was played on neutral territory
     mutate(neutral = str_detect(opponent_text, " \\*|\\*")) %>% 
@@ -409,7 +409,7 @@ update_season_data <- function(league) {
            lose_score = if_else(ot,
                                 str_sub(lose_score, 1, str_locate(lose_score, " ")[,1] - 1),
                                 lose_score),
-           lose_score = as.numeric(lose_score)) %>%
+           lose_score = as.numeric(lose_score)) %>% 
     
     # assign winner/loser scores to source/opponent team based on win flag
     mutate(team_score = if_else(win, win_score, lose_score),
@@ -430,13 +430,13 @@ update_season_data <- function(league) {
            away_id = if_else(home, opponent_id, team_id),
            away_name = if_else(home, opponent_name, team_name),
            away_score = if_else(home, opponent_score, team_score)) %>%
-    
+      
     # remove canceled or rescheduled games
     filter(!is.na(game_id),
-           !is.na(home_score),
-           !is.na(away_score),
-           home_score > 0,
-           away_score > 0) %>%
+           !is.na(home_score) | game_type == "upcoming",
+           !is.na(away_score) | game_type == "upcoming",
+           home_score > 0 | game_type == "upcoming",
+           away_score > 0 | game_type == "upcoming") %>%
     
     # join teams with n/a ids but that exist in the db
     # also remove bunk Cincinnati Christian recode
@@ -529,9 +529,8 @@ scrape_games <- function(league, team_id, season) {
            date = mdy(date),
            month = month(date),
            date = if_else(month >= 11, date - years(1), date)) %>%
-    drop_na() %>%
-    filter(game_type != "upcoming")
-  
+    drop_na()
+
   # extract table items from each game
   game_results <- 
     games %>%
