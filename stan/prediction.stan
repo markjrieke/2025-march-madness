@@ -19,7 +19,8 @@ data {
   array[T] matrix[3,3] beta_Sigma;       // Team-level covariance matrix of beta_o, beta_d, and beta_h
   
   // Overdispersion data
-  real log_sigma_i;                      // Log-scale overdispersion scale
+  real log_sigma_i_mu;                   // Log-scale overdispersion scale mean
+  real<lower=0> log_sigma_i_sigma;       // Log-scale overdispersion scale scale
   
   // Overtime hurdle data
   vector[2] hurdle_Mu;                   // Hurdle model means of gamma_0 and delta_0
@@ -31,10 +32,12 @@ data {
 transformed data {
   matrix[2,N] H = rep_matrix(0, 2, N);
   H[1,:] = to_row_vector(V);
-  real<lower=0> sigma_i = exp(log_sigma_i);
 }
 
 generated quantities {
+  // overdispersion scale
+  real<lower=0> sigma_i = exp(normal_rng(log_sigma_i_mu, log_sigma_i_sigma));
+  
   // team parameters derived from posterior
   vector[T] beta_o;
   vector[T] beta_d;

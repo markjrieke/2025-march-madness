@@ -26,18 +26,10 @@ run_prediction_model <- function(league,
   league_int <- league
   season <- 2025
   
-  if (date == Sys.Date()) {
-    
-    # write a scraper for the current date
-    
-  } else {
-    
-    # import games to be played
-    games <- 
-      arrow::read_parquet(glue::glue("out/update/{league}-games.parquet")) %>%
-      filter(date == date_int)
-    
-  }
+  # import games to be played
+  games <- 
+    arrow::read_parquet(glue::glue("out/update/{league}-games.parquet")) %>%
+    filter(date == date_int)
   
   # early exit if no games were played on the specified date
   if (nrow(games) == 0) {
@@ -69,6 +61,8 @@ run_prediction_model <- function(league,
     model_log %>%
       append_parquet("out/model_log.parquet")
     
+    return(invisible())
+    
   }
   
   # clean and format 
@@ -81,22 +75,35 @@ run_prediction_model <- function(league,
     games %>%
     assign_tids()
   
-  Mu <- 
-    read_rds("out/update/team_parameters.rds") %>%
-    filter(date == date_int,
-           league == league_int,
-           team_name %in% teams$team_name) %>%
-    left_join(teams) %>%
-    arrange(tid) %>%
-    pull(Mu)
+  N <- nrow(games)
   
-  Sigma <- 
+  T <- nrow(teams)
+  
+  V <- 1 - games$neutral
+  
+  # map tid to home/away for each game in the season
+  tid <- 
+    games %>%
+    left_join(teams, by = c("home_name" = "team_name")) %>%
+    rename(tid1 = tid) %>%
+    left_join(teams, by = c("away_name" = "team_name")) %>%
+    rename(tid2 = tid) %>%
+    select(starts_with("tid")) %>%
+    as.matrix() %>%
+    t()
+  
+  alpha <- log(70/40)
+  
+  team_params <-
     read_rds("out/update/team_parameters.rds") %>%
     filter(date == date_int,
            league == league_int,
            team_name %in% teams$team_name) %>%
     left_join(teams) %>%
-    pull(Sigma)
+    arrange(tid)
+  
+  Mu <- team_params$Mu
+  Sigma <- team_params$Sigma
   
   beta_Mu <- array(dim = c(nrow(teams), 3))
   beta_Sigma <- array(dim = c(nrow(teams), 3, 3))
@@ -108,20 +115,80 @@ run_prediction_model <- function(league,
     
   }
   
-  stan_data <- 
+  log_sigma_i <- 
+    arrow::read_parquet("out/update/log_sigma_i.parquet") %>%
+    filter(date == date_int,
+           league == league_int)
+  
+  hurdle_params <- 
+    read_rds("out/update/global_parameters.rds") %>%
+    filter(date == date_int,
+           league == league_int,
+           parameter == "0")
+  
+  hurdle_Mu <- hurdle_params$Mu[[1]]
+  hurdle_Sigma <- hurdle_params$Sigma[[1]]
+  
+  poisson_params <-
+    read_rds("out/update/global_parameters.rds") %>%
+    filter(date == date_int,
+           league == league_int,
+           parameter == "ot")
+  
+  poisson_Mu <- poisson_params$Mu[[1]]
+  poisson_Sigma <- poisson_params$Sigma[[1]]
+  
+  stan_data <-
     list(
-      N = 8,
-      T = 16,
-      V = rep(0, 8),
-      tid = array(1:16, dim = c(2,8)),
-      alpha = log(70/40),
-      beta_Mu = beta_Mu[bracket_ids,],
-      beta_Sigma = beta_Sigma[bracket_ids,,],
-      log_sigma_i = log_sigma_i[2,]$mean,
+      N = N,
+      T = T,
+      V = V,
+      tid = tid,
+      alpha = alpha,
+      beta_Mu = beta_Mu,
+      beta_Sigma = beta_Sigma,
+      log_sigma_i_mu = log_sigma_i$mean,
+      log_sigma_i_sigma = log_sigma_i$sd,
       hurdle_Mu = hurdle_Mu,
       hurdle_Sigma = hurdle_Sigma,
       poisson_Mu = poisson_Mu,
       poisson_Sigma = poisson_Sigma
     )
+  
+  predictions <- 
+    prediction$sample(
+      data = stan_data,
+      seed = 2025,
+      iter_warmup = 100,
+      iter_sampling = 1250,
+      chains = 8,
+      parallel_chains = 8,
+      fixed_param = TRUE
+    )
+  
+  Ot <- predictions$summary("Ot")
+  p_home_win <- predictions$summary("p_home_win")
+  Y_home <- predictions$summary(paste0("Y_rep[1,", 1:nrow(games), "]"))
+  Y_away <- predictions$summary(paste0("Y_rep[2,", 1:nrow(games), "]"))
+  
+  games %>%
+    transmute(league,
+              season,
+              date,
+              game_id,
+              game_type,
+              neutral,
+              home_id,
+              home_name,
+              home_prob = p_home_win$mean,
+              home_median = Y_home$median,
+              home_lower = Y_home$q5,
+              home_upper = Y_home$q95,
+              away_id,
+              away_name,
+              away_prob = 1 - p_home_win$mean,
+              away_median = Y_away$median,
+              away_lower = Y_away$q5,
+              away_upper = Y_away$q95)
   
 }
