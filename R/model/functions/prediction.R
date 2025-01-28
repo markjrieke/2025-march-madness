@@ -99,7 +99,7 @@ run_prediction_model <- function(league,
     filter(date == date_int,
            league == league_int,
            team_name %in% teams$team_name) %>%
-    left_join(teams) %>%
+    right_join(teams) %>%
     arrange(tid)
   
   Mu <- team_params$Mu
@@ -108,10 +108,145 @@ run_prediction_model <- function(league,
   beta_Mu <- array(dim = c(nrow(teams), 3))
   beta_Sigma <- array(dim = c(nrow(teams), 3, 3))
   
+  # code for teams that haven't yet played and don't have a parameter in the
+  # previous season
+  log_sigma_step <- 
+    arrow::read_parquet("out/historical/historical_parameters_global.parquet") %>%
+    filter(season == 2024,
+           league == league_int,
+           str_detect(variable, "step"))
+  
+  log_sigma_rnorm <- function(log_sigma_step, parameter, n = 1e4) {
+    
+    summary <- 
+      log_sigma_step %>%
+      filter(variable == parameter)
+    
+    out <- rnorm(n, summary$mean, summary$sd)
+    
+    return(out)
+    
+  }
+  
+  beta_fresh <- 
+    tibble(sigma_o = log_sigma_rnorm(log_sigma_step, "log_sigma_o_step"),
+           sigma_d = log_sigma_rnorm(log_sigma_step, "log_sigma_d_step"),
+           sigma_h = log_sigma_rnorm(log_sigma_step, "log_sigma_h_step")) %>%
+    mutate(across(everything(), exp)) %>%
+    bind_cols(beta_o = rnorm(nrow(.), 0, .$sigma_o),
+              beta_d = rnorm(nrow(.), 0, .$sigma_d),
+              beta_h = rnorm(nrow(.), 0, .$sigma_h)) %>%
+    select(starts_with("beta")) %>%
+    as.matrix()
+  
+  colMeans(beta_fresh)
+  cov(beta_fresh)
+  
+  # code for teams that haven't played yet but _do_ have parameters in the 
+  # previous season
+  missing_teams <- 
+    arrow::read_parquet("out/historical/historical_parameters_team.parquet") %>% 
+    filter(season == 2024, 
+           league == "mens", 
+           team_name == "Tulsa", 
+           str_detect(variable, "step"))
+  
+  log_sigma_step <- 
+    arrow::read_parquet("out/historical/historical_parameters_global.parquet") %>%
+    filter(season == 2024,
+           league == "mens",
+           str_detect(variable, "step"))
+  
+  rnorm_param <- function(data, parameter, n = 1e4) {
+    
+    summary <-
+      data %>%
+      filter(variable == parameter)
+    
+    out <- rnorm(n, summary$mean, summary$sd)
+    
+    return(out)
+    
+  }
+  
+  beta_draws <- 
+    tibble(eta_o = rnorm_param(missing_teams, "eta_o_step"),
+           eta_d = rnorm_param(missing_teams, "eta_d_step"),
+           eta_h = rnorm_param(missing_teams, "eta_h_step"),
+           sigma_o = rnorm_param(log_sigma_step, "log_sigma_o_step"),
+           sigma_d = rnorm_param(log_sigma_step, "log_sigma_d_step"),
+           sigma_h = rnorm_param(log_sigma_step, "log_sigma_h_step")) %>%
+    mutate(across(starts_with("sigma"), exp),
+           beta_o = eta_o * sigma_o,
+           beta_d = eta_d * sigma_d,
+           beta_h = eta_h * sigma_h) %>%
+    select(starts_with("beta")) %>%
+    as.matrix()
+  
+  colMeans(beta_draws)
+  cov(beta_draws)
+  
+  missing_teams <- 
+    arrow::read_parquet("out/historical/historical_parameters_team.parquet") %>% 
+    filter(season == 2024, 
+           league == "mens", 
+           str_detect(variable, "step"))
+  
+  log_sigma_step <- 
+    arrow::read_parquet("out/historical/historical_parameters_global.parquet") %>%
+    filter(season == 2024,
+           league == "mens",
+           str_detect(variable, "step"))
+  
   for (t in 1:nrow(teams)) {
     
-    beta_Mu[t,] <- Mu[[t]]
-    beta_Sigma[t,,] <- Sigma[[t]]
+    if (!is.null(Mu[[t]])) {
+      
+      beta_Mu[t,] <- Mu[[t]]
+      beta_Sigma[t,,] <- Sigma[[t]]
+      
+    } else {
+      
+      team_params <-
+        missing_teams %>%
+        filter(team_name == teams$team_name[t])
+      
+      if (nrow(team_params) != 3) {
+        
+        beta_draws <-
+          tibble(eta_o = rnorm(1e4, 0, 1),
+                 eta_d = rnorm(1e4, 0, 1),
+                 eta_h = rnorm(1e4, 0, 1))
+        
+      } else {
+        
+        beta_draws <- 
+          tibble(eta_o = rnorm_param(team_params, "eta_o_step"),
+                 eta_d = rnorm_param(team_params, "eta_d_step"),
+                 eta_h = rnorm_param(team_params, "eta_h_step"))
+        
+      }
+      
+      beta_draws <- 
+        beta_draws %>%
+        bind_cols(sigma_o = rnorm_param(log_sigma_step, "log_sigma_o_step"),
+                  sigma_d = rnorm_param(log_sigma_step, "log_sigma_d_step"),
+                  sigma_h = rnorm_param(log_sigma_step, "log_sigma_h_step")) %>%
+        mutate(across(starts_with("sigma"), exp),
+               beta_o = eta_o * sigma_o,
+               beta_d = eta_d * sigma_d,
+               beta_h = eta_h * sigma_h) %>%
+        select(starts_with("beta")) %>%
+        as.matrix()
+      
+      beta_Mu[t,] <- colMeans(beta_draws)
+      beta_Sigma[t,,] <- cov(beta_draws)
+      
+      if (any(is.na(beta_Mu[t,]))) {
+        print(teams$team_name[t])
+      }
+      
+    }
     
   }
   
@@ -189,6 +324,35 @@ run_prediction_model <- function(league,
               away_prob = 1 - p_home_win$mean,
               away_median = Y_away$median,
               away_lower = Y_away$q5,
-              away_upper = Y_away$q95)
+              away_upper = Y_away$q95) %>%
+    bind_cols(games %>%
+                select(home_score, away_score)) %>%
+    select(game_id,
+           starts_with("home"), 
+           starts_with("away"),
+           -ends_with("name"),
+           -ends_with("prob"),
+           -home_id,
+           -away_id) %>%
+    pivot_longer(c(ends_with("median"),
+                   ends_with("lower"),
+                   ends_with("upper")),
+                 names_to = "parameter",
+                 values_to = "estimate") %>%
+    separate(parameter, c("location", "parameter"), "_") %>%
+    pivot_longer(ends_with("score"),
+                 names_to = "location2",
+                 values_to = "score") %>%
+    filter(str_detect(location2, location)) %>%
+    select(-location2) %>%
+    pivot_wider(names_from = parameter,
+                values_from = estimate) %>%
+    ggplot(aes(x = score,
+               y = median,
+               ymin = lower,
+               ymax = upper)) + 
+    geom_pointrange() +
+    geom_abline() +
+    facet_wrap(~location)
   
 }
