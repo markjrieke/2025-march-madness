@@ -108,84 +108,7 @@ run_prediction_model <- function(league,
   beta_Mu <- array(dim = c(nrow(teams), 3))
   beta_Sigma <- array(dim = c(nrow(teams), 3, 3))
   
-  # code for teams that haven't yet played and don't have a parameter in the
-  # previous season
-  log_sigma_step <- 
-    arrow::read_parquet("out/historical/historical_parameters_global.parquet") %>%
-    filter(season == 2024,
-           league == league_int,
-           str_detect(variable, "step"))
-  
-  log_sigma_rnorm <- function(log_sigma_step, parameter, n = 1e4) {
-    
-    summary <- 
-      log_sigma_step %>%
-      filter(variable == parameter)
-    
-    out <- rnorm(n, summary$mean, summary$sd)
-    
-    return(out)
-    
-  }
-  
-  beta_fresh <- 
-    tibble(sigma_o = log_sigma_rnorm(log_sigma_step, "log_sigma_o_step"),
-           sigma_d = log_sigma_rnorm(log_sigma_step, "log_sigma_d_step"),
-           sigma_h = log_sigma_rnorm(log_sigma_step, "log_sigma_h_step")) %>%
-    mutate(across(everything(), exp)) %>%
-    bind_cols(beta_o = rnorm(nrow(.), 0, .$sigma_o),
-              beta_d = rnorm(nrow(.), 0, .$sigma_d),
-              beta_h = rnorm(nrow(.), 0, .$sigma_h)) %>%
-    select(starts_with("beta")) %>%
-    as.matrix()
-  
-  colMeans(beta_fresh)
-  cov(beta_fresh)
-  
-  # code for teams that haven't played yet but _do_ have parameters in the 
-  # previous season
-  missing_teams <- 
-    arrow::read_parquet("out/historical/historical_parameters_team.parquet") %>% 
-    filter(season == 2024, 
-           league == "mens", 
-           team_name == "Tulsa", 
-           str_detect(variable, "step"))
-  
-  log_sigma_step <- 
-    arrow::read_parquet("out/historical/historical_parameters_global.parquet") %>%
-    filter(season == 2024,
-           league == "mens",
-           str_detect(variable, "step"))
-  
-  rnorm_param <- function(data, parameter, n = 1e4) {
-    
-    summary <-
-      data %>%
-      filter(variable == parameter)
-    
-    out <- rnorm(n, summary$mean, summary$sd)
-    
-    return(out)
-    
-  }
-  
-  beta_draws <- 
-    tibble(eta_o = rnorm_param(missing_teams, "eta_o_step"),
-           eta_d = rnorm_param(missing_teams, "eta_d_step"),
-           eta_h = rnorm_param(missing_teams, "eta_h_step"),
-           sigma_o = rnorm_param(log_sigma_step, "log_sigma_o_step"),
-           sigma_d = rnorm_param(log_sigma_step, "log_sigma_d_step"),
-           sigma_h = rnorm_param(log_sigma_step, "log_sigma_h_step")) %>%
-    mutate(across(starts_with("sigma"), exp),
-           beta_o = eta_o * sigma_o,
-           beta_d = eta_d * sigma_d,
-           beta_h = eta_h * sigma_h) %>%
-    select(starts_with("beta")) %>%
-    as.matrix()
-  
-  colMeans(beta_draws)
-  cov(beta_draws)
-  
+  # pre-load dataframes to be able to account for missing teams
   missing_teams <- 
     arrow::read_parquet("out/historical/historical_parameters_team.parquet") %>% 
     filter(season == 2024, 
@@ -198,13 +121,16 @@ run_prediction_model <- function(league,
            league == "mens",
            str_detect(variable, "step"))
   
+  # map prior mean and covariance vectors
   for (t in 1:nrow(teams)) {
     
+    # assign most recent current-season priors if available
     if (!is.null(Mu[[t]])) {
       
       beta_Mu[t,] <- Mu[[t]]
       beta_Sigma[t,,] <- Sigma[[t]]
       
+    # otherwise, infer priors from last season
     } else {
       
       team_params <-
@@ -212,7 +138,8 @@ run_prediction_model <- function(league,
         filter(team_name == teams$team_name[t])
       
       if (nrow(team_params) != 3) {
-        
+      
+        # if priors from last season aren't available, use std normal samples
         beta_draws <-
           tibble(eta_o = rnorm(1e4, 0, 1),
                  eta_d = rnorm(1e4, 0, 1),
@@ -220,6 +147,7 @@ run_prediction_model <- function(league,
         
       } else {
         
+        # if priors from last season are available, generate samples according to the prior
         beta_draws <- 
           tibble(eta_o = rnorm_param(team_params, "eta_o_step"),
                  eta_d = rnorm_param(team_params, "eta_d_step"),
@@ -227,6 +155,7 @@ run_prediction_model <- function(league,
         
       }
       
+      # convert from eta_* -> beta_*
       beta_draws <- 
         beta_draws %>%
         bind_cols(sigma_o = rnorm_param(log_sigma_step, "log_sigma_o_step"),
@@ -239,12 +168,9 @@ run_prediction_model <- function(league,
         select(starts_with("beta")) %>%
         as.matrix()
       
+      # assign simulate mean/covariance priors
       beta_Mu[t,] <- colMeans(beta_draws)
       beta_Sigma[t,,] <- cov(beta_draws)
-      
-      if (any(is.na(beta_Mu[t,]))) {
-        print(teams$team_name[t])
-      }
       
     }
     
