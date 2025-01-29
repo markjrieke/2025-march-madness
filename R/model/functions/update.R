@@ -84,6 +84,15 @@ run_update_model <- function(league,
     filter(date < date_int) %>%
     prep_games()
   
+  # early exit if no games were played on the specified date
+  if (nrow(games) == 0) {
+    
+    message <- glue::glue("No {league} games played before {scales::label_date('%b %d, %Y')(date)}! Exiting...")
+    log_early_exit("update", message, start_ts, season, league, date)
+    return(invisible())
+    
+  }
+  
   # assign tids for the current season 
   teams <- 
     games %>%
@@ -586,35 +595,6 @@ extract_game_result <- function(eid, elements) {
   
 }
 
-#' Determine which days have not been run for the update model
-#' 
-#' @param league Which league to extract results for. Either "mens" or "womens".
-missing_days <- function(league) {
-  
-  # rename variables for internal use
-  league_int <- league
-  
-  # all potential days to have run the model
-  eligible_days <- 
-    seq.Date(
-      from = mdy("11/5/24"), 
-      to = Sys.Date(), 
-      by = "day"
-    )
-  
-  # days that the model was actually run
-  completed_days <- 
-    arrow::read_parquet("out/model_log.parquet") %>%
-    filter(model_name == "update",
-           league == league_int) %>%
-    pull(date_max)
-  
-  # remove days that were run from eligible days
-  out <- 
-    eligible_days[which(!eligible_days %in% completed_days)]
-  
-  return(out)
-  
-}
+
 
 

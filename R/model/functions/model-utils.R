@@ -304,4 +304,81 @@ assign_tids <- function(games) {
   
 }
 
+#' Determine which days have not been run for the update model
+#' 
+#' @param league Which league to extract results for. Either "mens" or "womens".
+#' @param model_name Basename of the model file
+missing_days <- function(league, model_name) {
+  
+  # rename variables for internal use
+  league_int <- league
+  model_name_int <- model_name
+  
+  # all potential days to have run the model
+  eligible_days <- 
+    seq.Date(
+      from = mdy("11/4/24"), 
+      to = Sys.Date(), 
+      by = "day"
+    )
+  
+  # days that the model was actually run
+  completed_days <- 
+    arrow::read_parquet("out/model_log.parquet") %>%
+    filter(model_name == model_name_int,
+           league == league_int) %>%
+    pull(date_max)
+  
+  # remove days that were run from eligible days
+  out <- 
+    eligible_days[which(!eligible_days %in% completed_days)]
+  
+  return(out)
+  
+}
+
+#' Append logs in the event of an early exit from a model run
+#' 
+#' @param model_name Basename of the model file
+#' @param message A message to display in the console in the event of early exit.
+#' @param start_ts The timestame that the model run was started.
+#' @param season Season to extract results for. Seasons are identified by the
+#'        year in which the last game was played.
+#' @param league Which league to extract results for. Either "mens" or "womens".
+#' @param date The date in the current season to run the update for.
+log_early_exit <- function(model_name, 
+                           message,
+                           start_ts,
+                           season,
+                           league,
+                           date) {
+  
+  cli::cli_alert_warning(message)
+  
+  # evaluate processing time
+  end_ts <- Sys.time()
+  
+  # generate model log
+  model_log <-
+    tibble(
+      model_name = model_name,
+      model_version = file.info(glue::glue("stan/{model_name}.stan"))$mtime,
+      start_ts = start_ts,
+      end_ts = end_ts,
+      observations = 0,
+      num_divergent = 0,
+      num_max_treedepth = 0,
+      samples = 0,
+      season = season,
+      league = league,
+      date_min = date,
+      date_max = date,
+      target_variable = glue::glue("")
+    )
+  
+  # append log
+  model_log %>%
+    append_parquet("out/model_log.parquet")
+  
+}
 

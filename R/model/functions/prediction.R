@@ -34,33 +34,8 @@ run_prediction_model <- function(league,
   # early exit if no games were played on the specified date
   if (nrow(games) == 0) {
     
-    cli::cli_alert_warning(glue::glue("No {league} games played on {scales::label_date('%b %d, %Y')(date)}! Exiting..."))
-    
-    # evaluate processing time
-    end_ts <- Sys.time()
-    
-    # generate model log
-    model_log <-
-      tibble(
-        model_name = "prediction",
-        model_version = file.info("stan/prediction.stan")$mtime,
-        start_ts = start_ts,
-        end_ts = end_ts,
-        observations = 0,
-        num_divergent = 0,
-        num_max_treedepth = 0,
-        samples = 0,
-        season = season,
-        league = league,
-        date_min = date,
-        date_max = date,
-        target_variable = glue::glue("")
-      )
-    
-    # append log
-    model_log %>%
-      append_parquet("out/model_log.parquet")
-    
+    message <- glue::glue("No {league} games played on {scales::label_date('%b %d, %Y')(date)}! Exiting...")
+    log_early_exit("prediction", message, start_ts, season, league, date)
     return(invisible())
     
   }
@@ -120,6 +95,18 @@ run_prediction_model <- function(league,
     filter(season == 2024,
            league == "mens",
            str_detect(variable, "step"))
+  
+  rnorm_param <- function(data, parameter, n = 1e4) {
+    
+    summary <-
+      data %>%
+      filter(variable == parameter)
+    
+    out <- rnorm(n, summary$mean, summary$sd)
+    
+    return(out)
+    
+  }
   
   # map prior mean and covariance vectors
   for (t in 1:nrow(teams)) {
