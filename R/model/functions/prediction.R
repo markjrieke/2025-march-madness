@@ -93,13 +93,13 @@ run_prediction_model <- function(league,
   missing_teams <- 
     arrow::read_parquet("out/historical/historical_parameters_team.parquet") %>% 
     filter(season == 2024, 
-           league == "mens", 
+           league == league_int, 
            str_detect(variable, "step"))
   
   log_sigma_step <- 
     arrow::read_parquet("out/historical/historical_parameters_global.parquet") %>%
     filter(season == 2024,
-           league == "mens",
+           league == league_int,
            str_detect(variable, "step"))
   
   rnorm_param <- function(data, parameter, n = 1e4) {
