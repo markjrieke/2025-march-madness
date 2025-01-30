@@ -1,5 +1,11 @@
 run_prediction_model <- function(league,
-                                 date) {
+                                 date,
+                                 ...,
+                                 log_sigma_i_step_sigma = 0.03,
+                                 gamma_0_step_sigma = 0.2,
+                                 delta_0_step_sigma = 0.05,
+                                 gamma_ot_step_sigma = 0.2,
+                                 delta_ot_step_sigma = 0.05) {
   
   cli::cli_h1(glue::glue("{str_to_title(league)} {scales::label_date('%b %d, %Y')(date)} Predictions"))
   
@@ -168,11 +174,45 @@ run_prediction_model <- function(league,
     filter(date == date_int,
            league == league_int)
   
+  if (nrow(log_sigma_i) == 0) {
+    
+    log_sigma_i <- 
+      arrow::read_parquet("out/historical/historical_parameters_global.parquet") %>%
+      filter(season == 2024,
+             league == league_int,
+             variable == "log_sigma_i") %>%
+      mutate(sd = sd + log_sigma_i_step_sigma)
+    
+  }
+  
   hurdle_params <- 
     read_rds("out/update/global_parameters.rds") %>%
     filter(date == date_int,
            league == league_int,
-           parameter == "0")
+           parameter == "0") 
+  
+  if (nrow(hurdle_params) == 0) {
+    
+    hurdle_params <- 
+      arrow::read_parquet("out/historical/historical_parameters_global.parquet") %>%
+      filter(season == 2024,
+             league == league_int,
+             str_detect(variable, "0")) %>%
+      mutate(sd = if_else(variable == "gamma_0",
+                          sd + gamma_0_step_sigma,
+                          sd + delta_0_step_sigma),
+             var = sd^2)
+    
+    Mu <- hurdle_params$mean
+    Sigma <- matrix(c(hurdle_params$var[1], 0, 0, hurdle_params$var[2]), nrow = 2)
+    
+    hurdle_params <- 
+      tibble(
+        Mu = list(Mu),
+        Sigma = list(Sigma)
+      )
+    
+  }
   
   hurdle_Mu <- hurdle_params$Mu[[1]]
   hurdle_Sigma <- hurdle_params$Sigma[[1]]
@@ -182,6 +222,29 @@ run_prediction_model <- function(league,
     filter(date == date_int,
            league == league_int,
            parameter == "ot")
+  
+  if (nrow(poisson_params) == 0) {
+    
+    poisson_params <- 
+      arrow::read_parquet("out/historical/historical_parameters_global.parquet") %>%
+      filter(season == 2024,
+             league == league_int,
+             str_detect(variable, "ot")) %>%
+      mutate(sd = if_else(variable == "gamma_ot",
+                          sd + gamma_ot_step_sigma,
+                          sd + delta_ot_step_sigma),
+             var = sd^2)
+    
+    Mu <- poisson_params$mean
+    Sigma <- matrix(c(poisson_params$var[1], 0, 0, poisson_params$var[2]), nrow = 2)
+    
+    poisson_params <- 
+      tibble(
+        Mu = list(Mu),
+        Sigma = list(Sigma)
+      )
+    
+  }
   
   poisson_Mu <- poisson_params$Mu[[1]]
   poisson_Sigma <- poisson_params$Sigma[[1]]
