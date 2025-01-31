@@ -32,6 +32,9 @@ for (league in c("mens", "womens")) {
   # update parameters for the current season
   walk(missing_days(league, "update"), ~run_update_model(league, .x))
   
+  # update game-level predictions in the current season
+  walk(missing_days(league, "prediction"), ~run_prediction_model(league, .x))
+  
 }
 
 

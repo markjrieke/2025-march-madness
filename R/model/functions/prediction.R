@@ -39,6 +39,11 @@ run_prediction_model <- function(league,
     arrow::read_parquet(glue::glue("out/update/{league}-games.parquet")) %>%
     filter(date == date_int)
   
+  # clean and format 
+  games <- 
+    games %>%
+    prep_games()
+  
   # early exit if no games were played on the specified date
   if (nrow(games) == 0) {
     
@@ -47,11 +52,6 @@ run_prediction_model <- function(league,
     return(invisible())
     
   }
-  
-  # clean and format 
-  games <- 
-    games %>%
-    prep_games()
   
   # assign tids for the set of games to predict
   teams <-
@@ -110,8 +110,6 @@ run_prediction_model <- function(league,
               away_median = Y_away$median,
               away_lower = Y_away$q5,
               away_upper = Y_away$q95) %>%
-    bind_cols(games %>%
-                select(home_score, away_score)) %>%
     append_parquet("out/prediction/predictions.parquet")
   
   # evaluate processing time
