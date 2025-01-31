@@ -1,6 +1,8 @@
 run_prediction_model <- function(league,
                                  date,
                                  ...,
+                                 samples = 1e4,
+                                 chains = 8,
                                  log_sigma_i_step_sigma = 0.03,
                                  gamma_0_step_sigma = 0.2,
                                  delta_0_step_sigma = 0.05,
@@ -56,125 +58,28 @@ run_prediction_model <- function(league,
     games %>%
     assign_tids()
   
-  set_prediction_data <- function(games,
-                                  teams,
-                                  league,
-                                  date) {
-    
-    # total number of games
-    N <- nrow(games)
-    
-    # total number of teams
-    T <- nrow(teams)
-    
-    # whether (1) or not (0) to apply the home-court advantage
-    V <- 1 - games$neutral
-    
-    # map tid to home/away for each game in the season
-    tid <- 
-      games %>%
-      left_join(teams, by = c("home_name" = "team_name")) %>%
-      rename(tid1 = tid) %>%
-      left_join(teams, by = c("away_name" = "team_name")) %>%
-      rename(tid2 = tid) %>%
-      select(starts_with("tid")) %>%
-      as.matrix() %>%
-      t()
-    
-    # log-mean score per minute
-    alpha <- log(70/40)
-    
-    # set mean and covariance of beta params
-    beta <- set_beta(teams, league, date)
-    beta_Mu <- beta$beta_Mu
-    beta_Sigma <- beta$beta_Sigma
-    
-    # set overdispersion scale
-    log_sigma_i <- set_log_sigma_i(league, date, log_sigma_i_step_sigma)
-    
-    # set overtime hurdle/poisson params
-    hurdle_params <- set_overtime_params("0", league, date, gamma_0_step_sigma, delta_0_step_sigma)
-    poisson_params <- set_overtime_params("ot", league, date, gamma_ot_step_sigma, delta_ot_step_sigma)
-    
-    hurdle_Mu <- hurdle_params$Mu
-    hurdle_Sigma <- hurdle_params$Sigma
-    
-    poisson_Mu <- poisson_params$Mu
-    poisson_Sigma <- poisson_params$Sigma
-    
-  }
+  # generate dataset to pass to stan
+  stan_data <- set_prediction_data(games, teams, league, date)
   
-  ########### HEY HOMIE PICK IT UP FROM HERE
-
-  
-  hurdle_Mu <- hurdle_params$Mu[[1]]
-  hurdle_Sigma <- hurdle_params$Sigma[[1]]
-  
-  poisson_params <-
-    read_rds("out/update/global_parameters.rds") %>%
-    filter(date == date_int,
-           league == league_int,
-           parameter == "ot")
-  
-  if (nrow(poisson_params) == 0) {
-    
-    poisson_params <- 
-      arrow::read_parquet("out/historical/historical_parameters_global.parquet") %>%
-      filter(season == 2024,
-             league == league_int,
-             str_detect(variable, "ot")) %>%
-      mutate(sd = if_else(variable == "gamma_ot",
-                          sd + gamma_ot_step_sigma,
-                          sd + delta_ot_step_sigma),
-             var = sd^2)
-    
-    Mu <- poisson_params$mean
-    Sigma <- matrix(c(poisson_params$var[1], 0, 0, poisson_params$var[2]), nrow = 2)
-    
-    poisson_params <- 
-      tibble(
-        Mu = list(Mu),
-        Sigma = list(Sigma)
-      )
-    
-  }
-  
-  poisson_Mu <- poisson_params$Mu[[1]]
-  poisson_Sigma <- poisson_params$Sigma[[1]]
-  
-  stan_data <-
-    list(
-      N = N,
-      T = T,
-      V = V,
-      tid = tid,
-      alpha = alpha,
-      beta_Mu = beta_Mu,
-      beta_Sigma = beta_Sigma,
-      log_sigma_i_mu = log_sigma_i$mean,
-      log_sigma_i_sigma = log_sigma_i$sd,
-      hurdle_Mu = hurdle_Mu,
-      hurdle_Sigma = hurdle_Sigma,
-      poisson_Mu = poisson_Mu,
-      poisson_Sigma = poisson_Sigma
-    )
-  
+  # predict!
   predictions <- 
     prediction$sample(
       data = stan_data,
       seed = 2025,
+      chains = chains,
+      parallel_chains = chains,
       iter_warmup = 100,
-      iter_sampling = 1250,
-      chains = 8,
-      parallel_chains = 8,
+      iter_sampling = round(samples/chains),
       fixed_param = TRUE
     )
   
+  # extract summary output cols
   Ot <- predictions$summary("Ot")
   p_home_win <- predictions$summary("p_home_win")
   Y_home <- predictions$summary(paste0("Y_rep[1,", 1:nrow(games), "]"))
   Y_away <- predictions$summary(paste0("Y_rep[2,", 1:nrow(games), "]"))
   
+  # generate summary dataframe & append to output
   games %>%
     transmute(league,
               season,
@@ -196,33 +101,99 @@ run_prediction_model <- function(league,
               away_upper = Y_away$q95) %>%
     bind_cols(games %>%
                 select(home_score, away_score)) %>%
-    select(game_id,
-           starts_with("home"), 
-           starts_with("away"),
-           -ends_with("name"),
-           -ends_with("prob"),
-           -home_id,
-           -away_id) %>%
-    pivot_longer(c(ends_with("median"),
-                   ends_with("lower"),
-                   ends_with("upper")),
-                 names_to = "parameter",
-                 values_to = "estimate") %>%
-    separate(parameter, c("location", "parameter"), "_") %>%
-    pivot_longer(ends_with("score"),
-                 names_to = "location2",
-                 values_to = "score") %>%
-    filter(str_detect(location2, location)) %>%
-    select(-location2) %>%
-    pivot_wider(names_from = parameter,
-                values_from = estimate) %>%
-    ggplot(aes(x = score,
-               y = median,
-               ymin = lower,
-               ymax = upper)) + 
-    geom_pointrange() +
-    geom_abline() +
-    facet_wrap(~location)
+    append_parquet("out/prediction/predictions.parquet")
+  
+  # evaluate processing time
+  end_ts <- Sys.time()
+  
+  # generate model log
+  model_log <-
+    tibble(
+      model_name = "prediction",
+      model_version = file.info("stan/prediction.stan")$mtime,
+      start_ts = start_ts,
+      end_ts = end_ts,
+      observations = stan_data$N,
+      num_divergent = 0,
+      num_max_treedepth = 0,
+      samples = samples,
+      season = 2025,
+      league = league,
+      date_min = mdy("11/1/2024"),
+      date_max = date,
+      target_variable = glue::glue("")
+    )
+  
+  # append log
+  model_log %>%
+    append_parquet("out/model_log.parquet")
+  
+}
+
+set_prediction_data <- function(games,
+                                teams,
+                                league,
+                                date) {
+  
+  # total number of games
+  N <- nrow(games)
+  
+  # total number of teams
+  T <- nrow(teams)
+  
+  # whether (1) or not (0) to apply the home-court advantage
+  V <- 1 - games$neutral
+  
+  # map tid to home/away for each game in the season
+  tid <- 
+    games %>%
+    left_join(teams, by = c("home_name" = "team_name")) %>%
+    rename(tid1 = tid) %>%
+    left_join(teams, by = c("away_name" = "team_name")) %>%
+    rename(tid2 = tid) %>%
+    select(starts_with("tid")) %>%
+    as.matrix() %>%
+    t()
+  
+  # log-mean score per minute
+  alpha <- log(70/40)
+  
+  # set mean and covariance of beta params
+  beta <- set_beta(teams, league, date)
+  beta_Mu <- beta$beta_Mu
+  beta_Sigma <- beta$beta_Sigma
+  
+  # set overdispersion scale
+  log_sigma_i <- set_log_sigma_i(league, date, log_sigma_i_step_sigma)
+  
+  # set overtime hurdle/poisson params
+  hurdle_params <- set_overtime_params("0", league, date, gamma_0_step_sigma, delta_0_step_sigma)
+  poisson_params <- set_overtime_params("ot", league, date, gamma_ot_step_sigma, delta_ot_step_sigma)
+  
+  hurdle_Mu <- hurdle_params$Mu
+  hurdle_Sigma <- hurdle_params$Sigma
+  
+  poisson_Mu <- poisson_params$Mu
+  poisson_Sigma <- poisson_params$Sigma
+  
+  stan_data <-
+    list(
+      N = N,
+      T = T,
+      V = V,
+      tid = tid,
+      alpha = alpha,
+      beta_Mu = beta_Mu,
+      beta_Sigma = beta_Sigma,
+      log_sigma_i_mu = log_sigma_i$mean,
+      log_sigma_i_sigma = log_sigma_i$sd,
+      hurdle_Mu = hurdle_Mu,
+      hurdle_Sigma = hurdle_Sigma,
+      poisson_Mu = poisson_Mu,
+      poisson_Sigma = poisson_Sigma
+    )
+  
+  return(stan_data)
   
 }
 
