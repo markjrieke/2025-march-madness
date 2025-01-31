@@ -2,8 +2,11 @@
 
 ## 2025-01-31
 
-* Accidentally didn't save the output for `log_sigma_i` from the update process --- had to rerun the entire shindig. Oh well.
-* Started writing the prediction script
+I made a good amount of progress this week, though I haven't finished all the "January" tasks (that's fine, there's enough time ahead of the tournament to finish them out). I finished writing the functions to pass data to the prediction model and ran predictions for games through today. I still need to add documentation, but the functions are fully, well, functional. 
+
+I still need to write the functions for scraping the March Madness bracket page and running the bracket model. Given the amount of time the prediction functions took, I imagine I'll take another full week to fully flesh out the bracket update model. I'll need to use the 2024 page to flesh out the functions (obviously, the 2025 bracket isn't set yet!) and then use the output to build out the UI.
+
+Getting close to the home stretch!
 
 ## 2025-01-24
 
