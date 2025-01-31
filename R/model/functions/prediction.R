@@ -1,3 +1,24 @@
+#' Run the prediction model
+#' 
+#' @description
+#' The prediction model uses the output of the update model to generate pre-game
+#' predictions of each team's score and probability of winning. Unlike other
+#' models, the prediction model does not conduct inference or update parameters,
+#' but rather runs as a `fixed parameter` model. 
+#' 
+#' @param league Which league to extract results for. Either "mens" or "womens".
+#' @param date The date in the current season to run the update for. Filters to
+#'        only games that occur on the specified date.
+#' @param ... Unused
+#' @param samples Number of posterior samples to generate.
+#' @param chains Number of chains used to fit the model. All chains will be run
+#'        in parallel, if available. 
+#' @param log_sigma_i_step_sigma Pseudo-random walk scale for overdispersion 
+#'        scale.
+#' @param gamma_0_step_sigma,gamma_ot_step_sigma Pseudo-random walk scale for 
+#'        slope parameters in the hurdle model.
+#' @param delta_0_step_sigma,delta_ot_step_sigma Pseudo-random walk scale for 
+#'        intercept parameters in the hurdle model.
 run_prediction_model <- function(league,
                                  date,
                                  ...,
@@ -139,6 +160,21 @@ run_prediction_model <- function(league,
   
 }
 
+#' Prep prediction data for passing to Stan
+#'
+#' @param games The set of of games to generate predictions for, cleaned by
+#'        `prep_games()`.
+#' @param teams A tibble mapping ESPN `team_name` and `team_id` to an internal
+#'        mapping id, `tid`.
+#' @param league Which league to extract results for. Either "mens" or "womens".
+#' @param date The date in the current season to run the update for. Filters to
+#'        only games that occur on the specified date.
+#' @param log_sigma_i_step_sigma Pseudo-random walk scale for overdispersion
+#'        scale.
+#' @param gamma_0_step_sigma,gamma_ot_step_sigma Pseudo-random walk scale for
+#'        slope parameters in the hurdle model.
+#' @param delta_0_step_sigma,delta_ot_step_sigma Pseudo-random walk scale for
+#'        intercept parameters in the hurdle model.
 set_prediction_data <- function(games,
                                 teams,
                                 league,
@@ -211,6 +247,26 @@ set_prediction_data <- function(games,
   
 }
 
+#' Set correlated team parameter arguments
+#'
+#' @description
+#' Generates a list containing `beta_Mu`, a list of vectors representing the
+#' mean values of `beta_o`, `beta_d`, and `beta_h`, and `beta_Sigma`, a list of
+#' covariance matrices. Each element of each list maps to a team indexed by a
+#' `tid`.
+#'
+#' By default, `set_beta()` will use the most recent mean vector and covariance
+#' matrix for each team as output by the update model. If a team has not yet
+#' played a game this season, `set_beta()` will set the team's mean vector and
+#' covariance matrix by taking a random walk step from the previous season's
+#' values. If the team did not play in the previous season, a standard normal
+#' distribution will be used to generate skill parameter draws.
+#'
+#' @param teams A tibble mapping ESPN `team_name` and `team_id` to an internal
+#'        mapping id, `tid`.
+#' @param league Which league to extract results for. Either "mens" or "womens".
+#' @param date The date in the current season to run the update for. Filters to
+#'        only games that occur on the specified date.
 set_beta <- function(teams,
                      league,
                      date) {
@@ -315,6 +371,12 @@ set_beta <- function(teams,
   
 }
 
+#' Util function for generating random normal draws from a summary dataframe
+#'
+#' @param data A dataframe summarizing parameter results ouptut by 
+#'        `CmdStanModel$summary()`.
+#' @param parameter The model parameter to generate random normal draws for.
+#' @param n The number of random samples to generate.
 rnorm_param <- function(data, parameter, n = 1e4) {
   
   summary <-
@@ -327,6 +389,17 @@ rnorm_param <- function(data, parameter, n = 1e4) {
   
 }
 
+#' Set the observation-level overdispersion scale
+#' 
+#' @description 
+#' Sets the observation-level overdispersion scale parameter. If necessary, uses
+#' a random walk from the previous season's value.
+#' 
+#' @param league Which league to extract results for. Either "mens" or "womens".
+#' @param date The date in the current season to run the update for. Filters to
+#'        only games that occur on the specified date.
+#' @param log_sigma_i_step_sigma Pseudo-random walk scale for overdispersion 
+#'        scale.
 set_log_sigma_i <- function(league,
                             date,
                             log_sigma_i_step_sigma) {
@@ -357,6 +430,21 @@ set_log_sigma_i <- function(league,
   
 }
 
+#' Set overtime hurdle or poisson parameters
+#' 
+#' @description
+#' Sets the hurdle or poisson parameters for the overtime hurdle calculation. If
+#' necessary, uses a random walk from the previous season's value.
+#' 
+#' @param parameter The set of parameters to be extracted. Use "0" for the
+#'        hurdle component and "ot" for the poisson component.
+#' @param league Which league to extract results for. Either "mens" or "womens".
+#' @param date The date in the current season to run the update for. Filters to
+#'        only games that occur on the specified date.
+#' @param gamma_step Pseudo-random walk scale for slope parameters in the hurdle 
+#'        model.
+#' @param delta_step Pseudo-random walk scale for intercept parameters in the 
+#'        hurdle model.
 set_overtime_params <- function(parameter,
                                 league,
                                 date,
