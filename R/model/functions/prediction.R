@@ -59,7 +59,18 @@ run_prediction_model <- function(league,
     assign_tids()
   
   # generate dataset to pass to stan
-  stan_data <- set_prediction_data(games, teams, league, date)
+  stan_data <- 
+    set_prediction_data(
+      games, 
+      teams, 
+      league, 
+      date,
+      log_sigma_i_step_sigma,
+      gamma_0_step_sigma,
+      delta_0_step_sigma,
+      gamma_ot_step_sigma,
+      delta_ot_step_sigma
+    )
   
   # predict!
   predictions <- 
@@ -133,7 +144,12 @@ run_prediction_model <- function(league,
 set_prediction_data <- function(games,
                                 teams,
                                 league,
-                                date) {
+                                date,
+                                log_sigma_i_step_sigma,
+                                gamma_0_step_sigma,
+                                delta_0_step_sigma,
+                                gamma_ot_step_sigma,
+                                delta_ot_step_sigma) {
   
   # total number of games
   N <- nrow(games)
@@ -339,9 +355,11 @@ set_log_sigma_i <- function(league,
     
   }
   
+  return(log_sigma_i)
+  
 }
 
-set_overtime_params <- function(paramter,
+set_overtime_params <- function(parameter,
                                 league,
                                 date,
                                 gamma_step,
@@ -357,7 +375,7 @@ set_overtime_params <- function(paramter,
     read_rds("out/update/global_parameters.rds") %>%
     filter(date == date_int,
            league == league_int,
-           parameter == parametr_int)
+           parameter == parameter_int)
   
   # use a random walk from last season's value if necessary
   if (nrow(params) == 0) {
