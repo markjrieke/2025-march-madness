@@ -1,5 +1,9 @@
 # DEVLOG
 
+## 2025-02-07
+
+Not much forward progress this past week --- have been a bit distracted by getting a landing page for [swishbook](https://www.swishbook.com/) up and running. Really only was able to add some documentation for the prediction functions. I'll likely need to buckle down in the next week to really flesh out the bracket functions. 
+
 ## 2025-01-31
 
 I made a good amount of progress this week, though I haven't finished all the "January" tasks (that's fine, there's enough time ahead of the tournament to finish them out). I finished writing the functions to pass data to the prediction model and ran predictions for games through today. I still need to add documentation, but the functions are fully, well, functional. 
