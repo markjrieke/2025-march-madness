@@ -1,5 +1,13 @@
 # DEVLOG
 
+## 2025-02-14
+
+* initial dev bracket work
+* really annoying to extract game information given how espn structure's their site
+* made more difficult because we're not yet in march madness mode yet
+* using the wayback machine to test out mid-round updates and scraping edge cases
+* backup is to use a manual process whereby I load a csv with the correct gameids
+
 ## 2025-02-07
 
 Not much forward progress this past week --- have been a bit distracted by getting a landing page for [swishbook](https://www.swishbook.com/) up and running. Really only was able to add some documentation for the prediction functions. I'll likely need to buckle down in the next week to really flesh out the bracket functions. 
