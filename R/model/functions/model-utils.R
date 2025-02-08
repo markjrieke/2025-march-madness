@@ -273,9 +273,10 @@ set_global_sigma <- function(parameter,
 #' Prep a games dataframe for modeling
 #' 
 #' @param games A tibble of game results as extracted by `scrape_games()`
-prep_games <- function(games) {
+prep_games <- function(games, remove_upcoming = TRUE) {
   
-  games %>%
+  out <- 
+    games %>%
     
     # mid-continent university has both a NA id and an actual id (564)
     # adjust to NA for all observations
@@ -287,6 +288,18 @@ prep_games <- function(games) {
     # filter to only div 1 teams in current league/season
     filter(home_name != "missing",
            away_name != "missing")
+  
+  if (remove_upcoming) {
+    
+    out <-
+      out %>%
+      filter(game_type != "upcoming",
+             !is.na(home_score),
+             !is.na(away_score))
+    
+  }
+  
+  return(out)
   
 }
 

@@ -63,7 +63,7 @@ run_prediction_model <- function(league,
   # clean and format 
   games <- 
     games %>%
-    prep_games()
+    prep_games(remove_upcoming = FALSE)
   
   # early exit if no games were played on the specified date
   if (nrow(games) == 0) {
