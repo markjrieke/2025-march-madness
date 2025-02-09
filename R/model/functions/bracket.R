@@ -103,7 +103,10 @@ teams <-
                names_to = "location",
                values_to = "team_id") %>%
   rowid_to_column("tid") %>%
-  select(tid, team_id)
+  select(tid, team_id) %>%
+  left_join(arrow::read_parquet("data/teams/teams.parquet") %>%
+              filter(league == "mens") %>%
+              select(team_id, team_name))
 
 beta <- 
   read_rds("out/update/team_parameters.rds") %>%
@@ -123,5 +126,90 @@ for (t in 1:64) {
   
 }
 
-wid <- array(0, dim = c(64, 7))
-wid[,1] <- teams$tid
+wid0 <- array(0, dim = c(64, 7))
+wid0[,1] <- teams$tid
+
+alpha <- log(70/40)
+
+log_sigma_i <- 
+  arrow::read_parquet("out/update/log_sigma_i.parquet") %>%
+  filter(date == max(date),
+         league == "mens")
+
+log_sigma_i_mu <- log_sigma_i$mean
+log_sigma_i_sigma <- log_sigma_i$sd
+
+overtime_params <- 
+  read_rds("out/update/global_parameters.rds") %>%
+  filter(date == max(date),
+         league == "mens")
+
+hurdle_params <- 
+  overtime_params %>%
+  filter(parameter == "0")
+
+poisson_params <-
+  overtime_params %>%
+  filter(parameter == "ot")
+
+hurdle_Mu <- hurdle_params$Mu[[1]]
+hurdle_Sigma <- hurdle_params$Sigma[[1]]
+
+poisson_Mu <- poisson_params$Mu[[1]]
+poisson_Sigma <- poisson_params$Sigma[[1]]
+
+bracket <-
+  cmdstan_model(
+    "stan/bracket.stan",
+    dir = "exe/"
+  )
+
+stan_data <-
+  list(
+    T = 64,
+    wid0 = wid,
+    alpha = log(70/40),
+    beta_Mu = beta_Mu,
+    beta_Sigma = beta_Sigma,
+    log_sigma_i_mu = log_sigma_i_mu,
+    log_sigma_i_sigma = log_sigma_i_sigma,
+    hurdle_Mu = hurdle_Mu,
+    hurdle_Sigma = hurdle_Sigma,
+    poisson_Mu = poisson_Mu,
+    poisson_Sigma = poisson_Sigma
+  )
+
+bracket_fit <-
+  bracket$sample(
+    data = stan_data,
+    seed = 2025,
+    iter_warmup = 100,
+    iter_sampling = 1250,
+    chains = 8,
+    parallel_chains = 8,
+    fixed_param = TRUE
+  )
+
+p_advance <- 
+  bracket_fit$summary("p_advance")
+
+p_advance %>%
+  mutate(variable = str_remove_all(variable, "p_advance\\[|\\]")) %>%
+  separate(variable, c("tid", "round"), ",") %>%
+  mutate(across(c(tid, round), as.integer)) %>%
+  left_join(teams) %>%
+  select(team_name,
+         round,
+         p_advance = mean) %>%
+  mutate(winner = if_else(team_name == "UConn", "winner", "not")) %>%
+  ggplot(aes(x = round,
+             y = p_advance,
+             group = team_name,
+             color = winner,
+             linewidth = winner,
+             alpha = winner)) +
+  geom_line() +
+  scale_color_manual(values = c("gray40", "royalblue")) +
+  scale_linewidth_manual(values = c(0.5, 2)) +
+  scale_alpha_manual(values = c(0.25, 1)) +
+  theme_rieke()
