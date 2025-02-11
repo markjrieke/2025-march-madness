@@ -1,10 +1,10 @@
-library(rvest)
-
 bracket <- function() {
   
   url <- "https://www.espn.com/mens-college-basketball/bracket/_/season/2023"
-  
+  url <- "https://web.archive.org/web/20230324013710/https://www.espn.com/mens-college-basketball/bracket/_/season/2023"
   bracket <- read_html(url)
+  
+  bracket <- read_html("tmp.html")
   
   # region setup -----------------------------------------------------------------
   
@@ -15,6 +15,10 @@ bracket <- function() {
     html_children() %>%
     html_children() %>%
     html_children() %>%
+
+    # for reading from wayback machine only
+    pluck(3) %>%
+    
     html_children()
   
   # left-to-right in ascending tournament order
@@ -60,40 +64,63 @@ bracket <- function() {
   # later, I'll need to deal with non-complete rounds
   extract_game_ids <- function(x) {
     
-    x %>%
-      html_children() %>%
-      html_elements(".BracketMatchup") %>%
-      html_elements("a") %>%
-      html_attr("href") %>%
-      str_remove_all("/mens-college-basketball/game/_/gameId/") %>%
-      map_chr(~str_sub(.x, 1, str_locate(.x, "/")[,1] - 1))
+    # each round contains a vector of ids
+    game_ids <- list()
+    
+    # iterate over rounds
+    for (r in 1:4) {
+      
+      # extract all the BracketMatchup classes
+      # (these exist whether or not the game_id has been created)
+      matchups <- 
+        x %>%
+        pluck(r) %>%
+        html_children() %>%
+        html_elements(".BracketMatchup")
+      
+      # container for the current round game_ids
+      round_game_ids <- vector("character", length = length(matchups))
+      
+      # iterate over matchups --- empty games are encoded as NA
+      for (m in 1:length(matchups)) {
+        
+        round_game_ids[m] <- 
+          matchups %>%
+          pluck(m) %>%
+          html_children() %>%
+          html_attr("href") %>%
+          str_remove_all("/web/20230324013710mp_/https://www.espn.com|/mens-college-basketball/game/_/gameId/") %>%
+          map_chr(~if_else(str_detect(.x, "/"), 
+                           str_sub(.x, 1, str_locate(.x, "/")[,1] - 1),
+                           .x))
+        
+      }
+      
+      # assign current round's ids to the top-level list
+      game_ids[[r]] <- round_game_ids
+      
+    }
+    
+    return(game_ids)
     
   }
+
+  # extract list of vectors of game ids
+  south <- extract_game_ids(south)
+  east <- extract_game_ids(east)
+  midwest <- extract_game_ids(midwest)
+  west <- extract_game_ids(west)
+
+  # reverse right side of bracket
+  midwest <- midwest[4:1]
+  west <- west[4:1]
   
-  south_1r <- 
-    south %>%
-    pluck(1) %>%
-    extract_game_ids()
-  
-  east_1r <- 
-    east %>%
-    pluck(1) %>% 
-    extract_game_ids()
-  
-  midwest_1r <- 
-    midwest %>%
-    pluck(4) %>%
-    extract_game_ids() 
-  
-  west_1r <- 
-    west %>%
-    pluck(4) %>%
-    extract_game_ids()
-  
-  first_round <- 
-    tibble(game_id = c(south_1r, east_1r, midwest_1r, west_1r)) %>%
+  # get the first round in 1:64 format
+  first_round <-
+    tibble(game_id = c(south[[1]], east[[1]], midwest[[1]], west[[1]])) %>%
     rowid_to_column("rank")
   
+  # assign team ids
   teams <-  
     arrow::read_parquet("data/games/games.parquet") %>%
     filter(game_id %in% first_round$game_id) %>%
@@ -109,6 +136,78 @@ bracket <- function() {
     left_join(arrow::read_parquet("data/teams/teams.parquet") %>%
                 filter(league == "mens") %>%
                 select(team_id, team_name))
+  
+  games <- 
+    arrow::read_parquet("data/games/games.parquet") %>%
+    filter(league == "mens",
+           season == 2023,
+           home_id %in% teams$team_id | away_id %in% teams$team_id,
+           game_type == "Postseason")
+  
+  extract_teams <- function(game_id) {
+    
+    game_id_int <- game_id
+    
+    ids <-
+      games %>%
+      filter(game_id == game_id_int) %>%
+      select(home_id, away_id) %>%
+      pivot_longer(everything(),
+                   names_to = "location",
+                   values_to = "id") %>%
+      pull(id)
+    
+    if (length(ids) > 0) {
+      out <- match(ids, teams$team_id)
+    } else {
+      out <- c(0, 0)
+    }
+    
+    return(out)
+    
+  }
+  
+  flatten_teams <- function(game_ids) {
+    
+    game_ids %>%
+      map(extract_teams) %>%
+      list_c()
+    
+  }
+  
+  wid0 <- array(0, dim = c(64, 7))
+  
+  wid0[1:64,1] <-
+    c(
+      flatten_teams(south[[1]]),
+      flatten_teams(east[[1]]),
+      flatten_teams(midwest[[1]]),
+      flatten_teams(west[[1]])
+    )
+  
+  wid0[1:32,2] <-
+    c(
+      flatten_teams(south[[2]]),
+      flatten_teams(east[[2]]),
+      flatten_teams(midwest[[2]]),
+      flatten_teams(west[[2]])
+    )
+  
+  wid0[1:16,3] <-
+    c(
+      flatten_teams(south[[3]]),
+      flatten_teams(east[[3]]),
+      flatten_teams(midwest[[3]]),
+      flatten_teams(west[[3]])
+    )
+  
+  wid0[1:8,4] <-
+    c(
+      flatten_teams(south[[4]]),
+      flatten_teams(east[[4]]),
+      flatten_teams(midwest[[4]]),
+      flatten_teams(west[[4]])
+    )
   
   beta <- 
     read_rds("out/update/team_parameters.rds") %>%
@@ -127,9 +226,6 @@ bracket <- function() {
     beta_Sigma[t,,] <- beta$Sigma[[t]]
     
   }
-  
-  wid0 <- array(0, dim = c(64, 7))
-  wid0[,1] <- teams$tid
   
   alpha <- log(70/40)
   
@@ -169,7 +265,7 @@ bracket <- function() {
   stan_data <-
     list(
       T = 64,
-      wid0 = wid,
+      wid0 = wid0,
       alpha = log(70/40),
       beta_Mu = beta_Mu,
       beta_Sigma = beta_Sigma,
@@ -203,6 +299,8 @@ bracket <- function() {
     select(team_name,
            round,
            p_advance = mean) %>%
+    # filter(round == 6) %>%
+    # arrange(desc(p_advance))
     mutate(winner = if_else(team_name == "UConn", "winner", "not")) %>%
     ggplot(aes(x = round,
                y = p_advance,
