@@ -2,11 +2,9 @@
 
 ## 2025-02-14
 
-* initial dev bracket work
-* really annoying to extract game information given how espn structure's their site
-* made more difficult because we're not yet in march madness mode yet
-* using the wayback machine to test out mid-round updates and scraping edge cases
-* backup is to use a manual process whereby I load a csv with the correct gameids
+Some more progress on the bracket model this week --- I think it's functionally complete, though I may end up having to do some hotfixes once the bracket actually goes live. In order to test mid-bracket updates, I had to use the wayback machine to pull snapshots mid-tournament from 2023. This is fine, but the current HTML format for the bracket is slightly different than that used in 2023. I tested again on the 2024 bracket, so it should be fine, but as a backup process, I can manually load a csv with the correct `game_id`s. 
+
+Hopefully I can finish out the bracket work this upcoming week --- I really just need to spend some time writing the documentation and cleaning up. After that I can *finally* get started on the UI element. I plan for it to be pretty simple: just a table with tabs for different days showing different snapshots of the tournament. 
 
 ## 2025-02-07
 
