@@ -1,6 +1,9 @@
-bracket <- function(league,
-                    ...,
-                    season = 2025) {
+run_bracket_model <- function(league,
+                              ...,
+                              season = 2025,
+                              date = Sys.Date(),
+                              samples = 1e4,
+                              chains = 8) {
   
   cli::cli_h1(glue::glue("{str_to_title(league)} {scales::label_date('%b %d, %Y')(Sys.Date())} Bracket Update"))
   
@@ -25,26 +28,156 @@ bracket <- function(league,
   # rename variables for internal use
   league_int <- league
   season_int <- season
+  date_int <- date
   
+  # setup teams and bracket structure
+  tournament <- tournament_structure(league, season)
+  
+  # separate tournament objects
+  teams <- tournament$teams
+  wid0 <- tournament$wid0
+  
+  # set data for stan
+  stan_data <- set_bracket_params(teams, wid0, league, date)
+  
+  # make predictions!
+  bracket_fit <-
+    bracket$sample(
+      data = stan_data,
+      seed = 2025,
+      iter_warmup = 100,
+      iter_sampling = round(samples/chains),
+      chains = chains,
+      parallel_chains = chains,
+      fixed_param = TRUE
+    )
+  
+  # probability of each team advancing to each round
+  p_advance <- 
+    bracket_fit$summary("p_advance") %>%
+    mutate(variable = str_remove_all(variable, "p_advance\\[|\\]")) %>%
+    separate(variable, c("tid", "round"), ",") %>%
+    mutate(across(c(tid, round), as.integer)) %>%
+    left_join(teams) %>%
+    transmute(league = league,
+              date = date,
+              team_name = team_name,
+              round = round,
+              p_advance = mean)
+  
+  # write results out
+  p_advance %>%
+    append_parquet("out/bracket/p_advance.parquet")
+  
+  # evaluate processing time
+  end_ts <- Sys.time()
+  
+  # generate model log
+  model_log <-
+    tibble(
+      model_name = "bracket",
+      model_version = file.info("stan/bracket.stan")$mtime,
+      start_ts = start_ts,
+      end_ts = end_ts,
+      observations = 63,
+      num_divergent = 0,
+      num_max_treedepth = 0,
+      samples = samples,
+      season = 2025,
+      league = league,
+      date_min = mdy("11/1/2024"),
+      date_max = date,
+      target_variable = glue::glue("")
+    )
+  
+  # append log
+  model_log %>%
+    append_parquet("out/model_log.parquet")
+  
+}
+
+set_bracket_params <- function(teams, wid0, league, date) {
+  
+  # log mean score
+  alpha <- log(70/40)
+  
+  # team skill parameters
+  beta <- 
+    set_beta(
+      teams = teams,
+      league = league,
+      date = date
+    )
+  
+  beta_Mu <- beta$beta_Mu
+  beta_Sigma <- beta$beta_Sigma
+  
+  # overdispersion parameter
+  log_sigma_i <- 
+    set_log_sigma_i(
+      league = league, 
+      date = date, 
+      log_sigma_i_step_sigma = 0
+    )
+  
+  log_sigma_i_mu <- log_sigma_i$mean
+  log_sigma_i_sigma <- log_sigma_i$sd
+  
+  # probability of overtime parameters
+  hurdle_params <- set_overtime_params("0", league, date, 0, 0)
+  poisson_params <- set_overtime_params("ot", league, date, 0, 0)
+  
+  hurdle_Mu <- hurdle_params$Mu
+  hurdle_Sigma <- hurdle_params$Sigma
+  
+  poisson_Mu <- poisson_params$Mu
+  poisson_Sigma <- poisson_params$Sigma
+  
+  # coalesce to list for stan
+  stan_data <-
+    list(
+      T = 64,
+      wid0 = wid0,
+      alpha = alpha,
+      beta_Mu = beta_Mu,
+      beta_Sigma = beta_Sigma,
+      log_sigma_i_mu = log_sigma_i_mu,
+      log_sigma_i_sigma = log_sigma_i_sigma,
+      hurdle_Mu = hurdle_Mu,
+      hurdle_Sigma = hurdle_Sigma,
+      poisson_Mu = poisson_Mu,
+      poisson_Sigma = poisson_Sigma
+    )
+  
+  return(stan_data)
+  
+}
+
+tournament_structure <- function(league, season) {
+  
+  # internal renaming for filtering
+  league_int <- league
+  season_int <- season
+  
+  # internal redirect for testing pre-tournament
   if (season == 2025) {
     game_file <- glue::glue("out/update/{league}-games.parquet")
   } else {
     game_file <- "data/games/games.parquet"
   }
   
+  # import set of games to be played
   games <- 
     arrow::read_parquet(game_file) %>%
     filter(league == league_int,
            season == season_int,
-           # home_id %in% teams$team_id | away_id %in% teams$team_id,
            game_type == "Postseason")
-  
   
   # scrape current bracket
   url <- glue::glue("https://www.espn.com/{league}-college-basketball/bracket/_/season/{season}")
   html <- read_html(url)
   
-  # four region overlay
+  # overall bracket html - regions as nodes
   four_region <- 
     html %>%
     html_element(".BracketWrapper") %>%
@@ -53,7 +186,7 @@ bracket <- function(league,
     html_children() %>%
     html_children()
   
-  # left-to-right in ascending tournament order
+  # south/east ascend from left-to-right - rounds as nodes
   south <- 
     four_region %>%
     pluck(1) %>%
@@ -72,7 +205,7 @@ bracket <- function(league,
     pluck(2) %>%
     html_children()
   
-  # right-to-left in ascending tournament order
+  # midwest/west ascend from right-to-left - rounds as nodes
   midwest <- 
     four_region %>%
     pluck(1) %>%
@@ -91,6 +224,7 @@ bracket <- function(league,
     pluck(2) %>%
     html_children()
   
+  # final four and championship game nodes
   final_four <- 
     four_region %>%
     pluck(2) %>%
@@ -99,6 +233,7 @@ bracket <- function(league,
     html_children() %>%
     html_children()
   
+  # extract game ids for final four and championship
   south_east <- 
     final_four %>%
     pluck(1) %>%
@@ -122,13 +257,13 @@ bracket <- function(league,
     html_element("a") %>%
     html_attr("href") %>%
     parse_game_id()
-
+  
   # extract list of vectors of game ids
   south <- extract_game_ids(south)
   east <- extract_game_ids(east)
   midwest <- extract_game_ids(midwest)
   west <- extract_game_ids(west)
-
+  
   # reverse right side of bracket
   midwest <- midwest[4:1]
   west <- west[4:1]
@@ -155,146 +290,63 @@ bracket <- function(league,
                 filter(league == league_int) %>%
                 select(team_id, team_name))
   
+  # initialize bracket structure
   wid0 <- array(0, dim = c(64, 7))
   
+  # set first round
   wid0[1:64,1] <-
     c(
-      flatten_teams(south[[1]]),
-      flatten_teams(east[[1]]),
-      flatten_teams(midwest[[1]]),
-      flatten_teams(west[[1]])
+      flatten_teams(south[[1]], games, teams),
+      flatten_teams(east[[1]], games, teams),
+      flatten_teams(midwest[[1]], games, teams),
+      flatten_teams(west[[1]], games, teams)
     )
   
+  # set second round
   wid0[1:32,2] <-
     c(
-      flatten_teams(south[[2]]),
-      flatten_teams(east[[2]]),
-      flatten_teams(midwest[[2]]),
-      flatten_teams(west[[2]])
+      flatten_teams(south[[2]], games, teams),
+      flatten_teams(east[[2]], games, teams),
+      flatten_teams(midwest[[2]], games, teams),
+      flatten_teams(west[[2]], games, teams)
     )
   
+  # set third round (sweet sixteen)
   wid0[1:16,3] <-
     c(
-      flatten_teams(south[[3]]),
-      flatten_teams(east[[3]]),
-      flatten_teams(midwest[[3]]),
-      flatten_teams(west[[3]])
+      flatten_teams(south[[3]], games, teams),
+      flatten_teams(east[[3]], games, teams),
+      flatten_teams(midwest[[3]], games, teams),
+      flatten_teams(west[[3]], games, teams)
     )
   
+  # set fourth round (elite eight)
   wid0[1:8,4] <-
     c(
-      flatten_teams(south[[4]]),
-      flatten_teams(east[[4]]),
-      flatten_teams(midwest[[4]]),
-      flatten_teams(west[[4]])
+      flatten_teams(south[[4]], games, teams),
+      flatten_teams(east[[4]], games, teams),
+      flatten_teams(midwest[[4]], games, teams),
+      flatten_teams(west[[4]], games, teams)
     )
   
+  # set fifth round (final four)
   wid0[1:4,5] <-
     c(
-      extract_teams(south_east), 
-      extract_teams(midwest_west)
+      extract_teams(south_east, games, teams), 
+      extract_teams(midwest_west, games, teams)
     )
   
-  wid0[1:2,6] <- extract_teams(finals)
+  # set championship
+  wid0[1:2,6] <- extract_teams(finals, games, teams)
   
-  beta <- 
-    read_rds("out/update/team_parameters.rds") %>%
-    filter(league == league_int,
-           date == max(date)) %>%
-    filter(team_id %in% teams$team_id) %>%
-    left_join(teams) %>%
-    arrange(tid)
-  
-  beta_Mu <- array(dim = c(64, 3))
-  beta_Sigma <- array(dim = c(64, 3, 3))
-  
-  for (t in 1:64) {
-    
-    beta_Mu[t,] <- beta$Mu[[t]]
-    beta_Sigma[t,,] <- beta$Sigma[[t]]
-    
-  }
-  
-  alpha <- log(70/40)
-  
-  log_sigma_i <- 
-    arrow::read_parquet("out/update/log_sigma_i.parquet") %>%
-    filter(date == max(date),
-           league == league_int)
-  
-  log_sigma_i_mu <- log_sigma_i$mean
-  log_sigma_i_sigma <- log_sigma_i$sd
-  
-  overtime_params <- 
-    read_rds("out/update/global_parameters.rds") %>%
-    filter(date == max(date),
-           league == league_int)
-  
-  hurdle_params <- 
-    overtime_params %>%
-    filter(parameter == "0")
-  
-  poisson_params <-
-    overtime_params %>%
-    filter(parameter == "ot")
-  
-  hurdle_Mu <- hurdle_params$Mu[[1]]
-  hurdle_Sigma <- hurdle_params$Sigma[[1]]
-  
-  poisson_Mu <- poisson_params$Mu[[1]]
-  poisson_Sigma <- poisson_params$Sigma[[1]]
-  
-  stan_data <-
+  # return both teams and wid0
+  out <-
     list(
-      T = 64,
-      wid0 = wid0,
-      alpha = log(70/40),
-      beta_Mu = beta_Mu,
-      beta_Sigma = beta_Sigma,
-      log_sigma_i_mu = log_sigma_i_mu,
-      log_sigma_i_sigma = log_sigma_i_sigma,
-      hurdle_Mu = hurdle_Mu,
-      hurdle_Sigma = hurdle_Sigma,
-      poisson_Mu = poisson_Mu,
-      poisson_Sigma = poisson_Sigma
+      teams = teams,
+      wid0 = wid0
     )
   
-  bracket_fit <-
-    bracket$sample(
-      data = stan_data,
-      seed = 2025,
-      iter_warmup = 100,
-      iter_sampling = 1250,
-      chains = 8,
-      parallel_chains = 8,
-      fixed_param = TRUE
-    )
-  
-  p_advance <- 
-    bracket_fit$summary("p_advance")
-  
-  p_advance %>%
-    mutate(variable = str_remove_all(variable, "p_advance\\[|\\]")) %>%
-    separate(variable, c("tid", "round"), ",") %>%
-    mutate(across(c(tid, round), as.integer)) %>%
-    left_join(teams) %>%
-    select(team_name,
-           round,
-           p_advance = mean) %>%
-    # filter(round == 6) %>%
-    # arrange(desc(p_advance))
-    mutate(winner = if_else(team_name == "South Carolina", "winner", "not")) %>%
-    ggplot(aes(x = round,
-               y = p_advance,
-               group = team_name,
-               color = winner,
-               linewidth = winner,
-               alpha = winner)) +
-    geom_line() +
-    scale_color_manual(values = c("gray40", "royalblue")) +
-    scale_linewidth_manual(values = c(0.5, 2)) +
-    scale_alpha_manual(values = c(0.25, 1)) +
-    theme_rieke()
+  return(out)
   
 }
 
@@ -349,7 +401,7 @@ extract_game_ids <- function(x) {
   
 }
 
-extract_teams <- function(game_id) {
+extract_teams <- function(game_id, games, teams) {
   
   game_id_int <- game_id
   
@@ -372,10 +424,10 @@ extract_teams <- function(game_id) {
   
 }
 
-flatten_teams <- function(game_ids) {
+flatten_teams <- function(game_ids, games, teams) {
   
   game_ids %>%
-    map(extract_teams) %>%
+    map(~extract_teams(.x, games, teams)) %>%
     list_c()
   
 }
