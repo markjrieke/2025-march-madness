@@ -35,6 +35,12 @@ for (league in c("mens", "womens")) {
   # update game-level predictions in the current season
   walk(missing_days(league, "prediction"), ~run_prediction_model(league, .x))
   
+  # update bracket predictions in the current season
+  march_madness_dates <- seq.Date(from = mdy("3/20/25"), to = mdy("4/7/25"), by = "day")
+  if (Sys.Date() %in% march_madness_dates) {
+    run_bracket_model(league)
+  }
+  
 }
 
 
