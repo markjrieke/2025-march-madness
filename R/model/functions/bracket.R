@@ -1,3 +1,22 @@
+#' Run the bracket model
+#' 
+#' @description
+#' The bracket model simulates the outcome of the tournament. Midway through the
+#' tournament, the model treats realized outcomes as occurring with 100% 
+#' probability such that the probability of each team winning the tournament 
+#' updates as they advance through the tournament. Like the prediction model, 
+#' the bracket model does not conduct inference or update parameters, but 
+#' instead runs as a `fixed parameter` model.
+#'  
+#' @param league Which league to extract results for. Either "mens" or "womens".
+#' @param ... Unused
+#' @param season Which season to simulate tournament results for. Used for 
+#'        testing only.
+#' @param date The date in the current season to run. Uses team skill and 
+#'        overtime parameters from the specified date.
+#' @param samples Number of posterior samples to generate.
+#' @param chains Number of chains used to fit the model. All chains will be run
+#'        in parallel, if available. 
 run_bracket_model <- function(league,
                               ...,
                               season = 2025,
@@ -5,7 +24,7 @@ run_bracket_model <- function(league,
                               samples = 1e4,
                               chains = 8) {
   
-  cli::cli_h1(glue::glue("{str_to_title(league)} {scales::label_date('%b %d, %Y')(Sys.Date())} Bracket Update"))
+  cli::cli_h1(glue::glue("{str_to_title(league)} {scales::label_date('%b %d, %Y')(date)} Bracket Update"))
   
   # evaluate processing time
   start_ts <- Sys.time()
@@ -96,6 +115,18 @@ run_bracket_model <- function(league,
   
 }
 
+#' Prep data for the bracket Stan model
+#' 
+#' @param teams A tibble mapping ESPN `team_name` and `team_id` to an internal
+#'        mapping id, `tid`.
+#' @param wid0 A 64 x 7 matrix of integers that map `tid` to matchups. Each 
+#'        column maps to a round in the tournament, with `wid[1,7]` indicating
+#'        the overall winner. `0` is used as a filler value for the matrix 
+#'        (i.e., `wid[2:64,7]` contains all `0`) or as an indication that the 
+#'        outcome of a game has not yet been determined.
+#' @param league Which league to extract results for. Either "mens" or "womens".
+#' @param date The date in the current season to run. Uses team skill and 
+#'        overtime parameters from the specified date.
 set_bracket_params <- function(teams, wid0, league, date) {
   
   # log mean score
@@ -153,6 +184,16 @@ set_bracket_params <- function(teams, wid0, league, date) {
   
 }
 
+#' Generate the data structure necessary for the model
+#' 
+#' @description
+#' This function scrapes the March Madness bracket page from ESPN and returns a 
+#' list containing the teams in the tournament (`teams`) and the current state
+#' of the tournament in a format that the bracket model expects (`wid0`).
+#' 
+#' @param league Which league to extract results for. Either "mens" or "womens".
+#' @param season Which season to simulate tournament results for. Used for 
+#'        testing only.
 tournament_structure <- function(league, season) {
   
   # internal renaming for filtering
@@ -350,6 +391,9 @@ tournament_structure <- function(league, season) {
   
 }
 
+#' Return a set of ESPN game_ids from a vector of url slugs
+#' 
+#' @param x A vector of url slugs that link to games
 parse_game_id <- function(x) {
   
   x %>%
@@ -360,6 +404,10 @@ parse_game_id <- function(x) {
   
 }
 
+#' Convert region bracket HTML into a list of vectors containing ESPN game_ids
+#' for each round of the tournament
+#' 
+#' @param x Regional bracket HTML (i.e., south, east, midwest, or west)
 extract_game_ids <- function(x) {
   
   # each round contains a vector of ids
@@ -401,6 +449,12 @@ extract_game_ids <- function(x) {
   
 }
 
+#' Extract a set of tids given a game_id
+#' 
+#' @param game_id ESPN game_id
+#' @param games A tibble containing schedule postseason games
+#' @param teams A tibble mapping ESPN `team_name` and `team_id` to an internal
+#'        mapping id, `tid`.
 extract_teams <- function(game_id, games, teams) {
   
   game_id_int <- game_id
@@ -424,6 +478,12 @@ extract_teams <- function(game_id, games, teams) {
   
 }
 
+#' Convert a vector of game ids into a vector of tids
+#' 
+#' @param game_id A vector ESPN game_ids
+#' @param games A tibble containing schedule postseason games
+#' @param teams A tibble mapping ESPN `team_name` and `team_id` to an internal
+#'        mapping id, `tid`.
 flatten_teams <- function(game_ids, games, teams) {
   
   game_ids %>%
