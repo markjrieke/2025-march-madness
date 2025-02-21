@@ -76,12 +76,20 @@ run_bracket_model <- function(league,
     bracket_fit$summary("p_advance") %>%
     mutate(variable = str_remove_all(variable, "p_advance\\[|\\]")) %>%
     separate(variable, c("tid", "round"), ",") %>%
-    mutate(across(c(tid, round), as.integer)) %>%
+    mutate(across(c(tid, round), as.integer),
+           advanced = pmap_lgl(list(tid, round), ~..1 %in% wid0[,..2 + 1])) %>%
+    group_by(round) %>%
+    mutate(n_advanced = sum(advanced),
+           round_complete = n_advanced == 2^(6 - round)) %>%
+    ungroup() %>%
+    mutate(status = case_when(advanced ~ "Won",
+                              !advanced & round_complete ~ "Eliminated")) %>%
     left_join(teams) %>%
     transmute(league = league,
               date = date,
               team_name = team_name,
               round = round,
+              status = status,
               p_advance = mean)
   
   # write results out
