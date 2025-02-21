@@ -1,5 +1,11 @@
 # DEVLOG
 
+## 2025-02-21
+
+Working through the basic table structure didn't take too long. I ran into an issue in that I can't conditionally overwrite display text in `gt()` without overwriting the underlying data type --- it appears [this might not be possible in `gt`](https://stackoverflow.com/questions/79457694/conditionally-overwrite-cell-text-with-gtgt). That's alright, the workaround is just to explain in a legend.
+
+I think all that's left is to productionalize the tabling function and write the qmds to display on the site!
+
 ## 2025-02-14
 
 Some more progress on the bracket model this week --- I think it's functionally complete, though I may end up having to do some hotfixes once the bracket actually goes live. In order to test mid-bracket updates, I had to use the wayback machine to pull snapshots mid-tournament from 2023. This is fine, but the current HTML format for the bracket is slightly different than that used in 2023. I tested again on the 2024 bracket, so it should be fine, but as a backup process, I can manually load a csv with the correct `game_id`s. 
