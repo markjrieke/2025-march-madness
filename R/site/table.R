@@ -1,23 +1,27 @@
+library(tidyverse)
 library(gt)
 library(gtExtras)
+library(riekelib)
 
 p_advance <- arrow::read_parquet("tmp.parquet")
 
-checkmark_results <- function(x, s) {
-  
-  case_match(
-    s,
-    "Won" ~ "✓",
-    "Eliminated" ~ "-",
-    .default = scales::label_percent(accuracy = 1)(p)
-  )
-  
-}
+col_win <- "#5A9282"
+col_lose <- "#D3D3D3"
+pal <- c("white", "#838CF1")
 
 check_previous_round <- function(data, round, previous) {
   
   data %>%
-    mutate("{{round}}" := if_else({{previous}} == "Eliminated", "Eliminated", {{round}}))
+    mutate("{{ round }}" := if_else({{ previous }} == "Eliminated", "Eliminated", {{ round }}))
+  
+}
+
+style_override <- function(table, fill, p, s, status) {
+  
+  table %>%
+    tab_style(style = list(cell_fill(fill)),
+              locations = cells_body(columns = {{ p }},
+                                     rows = {{ s }} == status))
   
 }
 
@@ -55,47 +59,25 @@ p_advance %>%
              columns = starts_with("p_round")) %>%
   fmt_percent(starts_with("p_round"), 
               decimals = 0) %>% 
-  # fmt(columns = p_round_1,
-  #     fns = checkmark_results(x, s = s_round_1)) %>%
   data_color(starts_with("p_round"), 
-             palette = c("white", "#838CF1"), 
+             palette = pal, 
              domain = c(0, 1)) %>%
-  tab_style(style = list(cell_fill("#5A9282")),
-            locations = cells_body(columns = p_round_1,
-                                   rows = s_round_1 == "Won")) %>%
-  tab_style(style = list(cell_fill("#5A9282")),
-            locations = cells_body(columns = p_round_2,
-                                   rows = s_round_2 == "Won")) %>%
-  tab_style(style = list(cell_fill("#5A9282")),
-            locations = cells_body(columns = p_round_3,
-                                   rows = s_round_3 == "Won")) %>%
-  tab_style(style = list(cell_fill("#5A9282")),
-            locations = cells_body(columns = p_round_4,
-                                   rows = s_round_4 == "Won")) %>%
-  tab_style(style = list(cell_fill("#5A9282")),
-            locations = cells_body(columns = p_round_5,
-                                   rows = s_round_5 == "Won")) %>%
-  tab_style(style = list(cell_fill("#5A9282")),
-            locations = cells_body(columns = p_round_6,
-                                   rows = s_round_6 == "Won")) %>%
-  tab_style(style = list(cell_fill()),
-            locations = cells_body(columns = p_round_1,
-                                   rows = s_round_1 == "Eliminated")) %>%
-  tab_style(style = list(cell_fill()),
-            locations = cells_body(columns = p_round_2,
-                                   rows = s_round_2 == "Eliminated")) %>%
-  tab_style(style = list(cell_fill()),
-            locations = cells_body(columns = p_round_3,
-                                   rows = s_round_3 == "Eliminated")) %>%
-  tab_style(style = list(cell_fill()),
-            locations = cells_body(columns = p_round_4,
-                                   rows = s_round_4 == "Eliminated")) %>%
-  tab_style(style = list(cell_fill()),
-            locations = cells_body(columns = p_round_5,
-                                   rows = s_round_5 == "Eliminated")) %>%
-  tab_style(style = list(cell_fill()),
-            locations = cells_body(columns = p_round_6,
-                                   rows = s_round_6 == "Eliminated")) %>%
+  style_override(col_win, p_round_1, s_round_1, "Won") %>%
+  style_override(col_win, p_round_2, s_round_2, "Won") %>%
+  style_override(col_win, p_round_3, s_round_3, "Won") %>%
+  style_override(col_win, p_round_4, s_round_4, "Won") %>%
+  style_override(col_win, p_round_5, s_round_5, "Won") %>%
+  style_override(col_win, p_round_6, s_round_6, "Won") %>%
+  style_override(col_lose, p_round_1, s_round_1, "Eliminated") %>%
+  style_override(col_lose, p_round_2, s_round_2, "Eliminated") %>%
+  style_override(col_lose, p_round_3, s_round_3, "Eliminated") %>%
+  style_override(col_lose, p_round_4, s_round_4, "Eliminated") %>%
+  style_override(col_lose, p_round_5, s_round_5, "Eliminated") %>%
+  style_override(col_lose, p_round_6, s_round_6, "Eliminated") %>%
   opt_interactive(use_sorting = TRUE,
                   use_search = TRUE,
-                  use_highlight = TRUE)
+                  use_highlight = TRUE) %>%
+  tab_footnote(md(glue::glue("Chances of each team {color_text('**advancing to the next round**', pal[2])}", 
+                             "Team has {color_text('**advanced to this round**', col_win)}",
+                             "Team was {color_text('**eliminated**', col_lose)}",
+                             .sep = "\n\n")))
