@@ -25,6 +25,31 @@ style_override <- function(table, fill, p, s, status) {
   
 }
 
+text_override <- function(table, p, s, status) {
+  
+  if (status == "Won") {
+    override <- "✓"
+  } else {
+    override <- "✗"
+  }
+  
+  out <-
+    table %>%
+    text_transform(
+      fn = function(x) {override},
+      locations = cells_body(
+        columns = {{ p }},
+        rows = {{ s }} == status
+      )
+    )
+  
+  return(out)
+  
+}
+
+
+  
+
 # dev --- needs p_advance from bracket output
 p_advance %>%
   select(team_name, 
@@ -74,6 +99,18 @@ p_advance %>%
   style_override(col_lose, p_round_4, s_round_4, "Eliminated") %>%
   style_override(col_lose, p_round_5, s_round_5, "Eliminated") %>%
   style_override(col_lose, p_round_6, s_round_6, "Eliminated") %>%
+  text_override(p_round_1, s_round_1, "Won") %>%
+  text_override(p_round_2, s_round_2, "Won") %>%
+  text_override(p_round_3, s_round_3, "Won") %>%
+  text_override(p_round_4, s_round_4, "Won") %>%
+  text_override(p_round_5, s_round_5, "Won") %>%
+  text_override(p_round_6, s_round_6, "Won") %>%
+  text_override(p_round_1, s_round_1, "Eliminated") %>%
+  text_override(p_round_2, s_round_2, "Eliminated") %>%
+  text_override(p_round_3, s_round_3, "Eliminated") %>%
+  text_override(p_round_4, s_round_4, "Eliminated") %>%
+  text_override(p_round_5, s_round_5, "Eliminated") %>%
+  text_override(p_round_6, s_round_6, "Eliminated") %>%
   opt_interactive(use_sorting = TRUE,
                   use_search = TRUE,
                   use_highlight = TRUE) %>%
