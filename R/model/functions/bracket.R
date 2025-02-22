@@ -73,7 +73,7 @@ run_bracket_model <- function(league,
   
   # probability of each team advancing to each round
   p_advance <- 
-    bracket_fit$summary("p_advance") %>%
+    bracket_fit$summary("p_advance") %>% 
     mutate(variable = str_remove_all(variable, "p_advance\\[|\\]")) %>%
     separate(variable, c("tid", "round"), ",") %>%
     mutate(across(c(tid, round), as.integer),
@@ -87,6 +87,7 @@ run_bracket_model <- function(league,
     left_join(teams) %>%
     transmute(league = league,
               date = date,
+              tid = tid,
               team_name = team_name,
               round = round,
               status = status,
