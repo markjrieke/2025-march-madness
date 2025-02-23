@@ -389,6 +389,9 @@ tournament_structure <- function(league, season) {
   # set championship
   wid0[1:2,6] <- extract_teams(finals, games, teams)
   
+  # correct wid0 bracket paths
+  wid0 <- adjust_wid(wid0)
+  
   # return both teams and wid0
   out <-
     list(
@@ -500,5 +503,59 @@ flatten_teams <- function(game_ids, games, teams) {
     list_c()
   
 }
+
+#' Adjust tid positions in wid0 to correctly map bracket path
+#' 
+#' @param wid0 A 64 x 7 matrix of integers that map `tid` to matchups. Each 
+#'        column maps to a round in the tournament, with `wid[1,7]` indicating
+#'        the overall winner. `0` is used as a filler value for the matrix 
+#'        (i.e., `wid[2:64,7]` contains all `0`) or as an indication that the 
+#'        outcome of a game has not yet been determined.
+adjust_wid <- function(wid0) {
+  
+  # return the adjusted bracket
+  wid_adj <- wid0
+  
+  # adjust wid0 so that bracket advancements proceed along the correct path
+  for (r in 6:2) {
+    
+    # vector for noting if teams are in the right place (TRUE) or not (FALSE)
+    adjust <- vector("logical", 2^(7-r))
+    
+    for (g in 1:(2^(7-r))) {
+      
+      # check if teams are in the right position based on upstream bracket
+      adjust[g] <- wid0[g,r] %in% wid0[(2 * g - 1):(2 * g), r - 1]
+      
+    }
+    
+    # flip teams around if necessary
+    for (g in 1:max(1, 2^(7-r-1))) {
+      
+      # 
+      range <- (2 * g - 1):(2 * g)
+      
+      if (!all(adjust[range])) {
+        
+        swap <- wid0[range, r]
+        wid_adj[range, r] <- rev(swap)
+        
+      }
+      
+    }
+    
+  }
+  
+  return(wid_adj)
+  
+}
+
+
+
+
+
+
+
+
 
 

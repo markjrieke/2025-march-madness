@@ -1,5 +1,11 @@
 # DEVLOG
 
+## 2025-02-28
+
+* decided to add a bracket plot
+* (if I can figure it out, if not, I can just do the table only)
+* added a function for modifying wid0 so that teams appear in the correct spot in the bracket
+
 ## 2025-02-21
 
 Working through the basic table structure didn't take too long. I ran into an issue in that I can't conditionally overwrite display text in `gt()` without overwriting the underlying data type --- it appears [this might not be possible in `gt`](https://stackoverflow.com/questions/79457694/conditionally-overwrite-cell-text-with-gtgt). That's alright, the workaround is just to explain in a legend.
