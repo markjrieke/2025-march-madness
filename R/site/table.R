@@ -118,3 +118,5 @@ p_advance %>%
                              "Team has {color_text('**advanced to this round**', col_win)}",
                              "Team was {color_text('**eliminated**', col_lose)}",
                              .sep = "\n\n")))
+
+
