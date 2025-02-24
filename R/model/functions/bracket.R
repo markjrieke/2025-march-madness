@@ -532,10 +532,10 @@ adjust_wid <- function(wid0) {
     # flip teams around if necessary
     for (g in 1:max(1, 2^(7-r-1))) {
       
-      # 
+      # range of positions for current swap to eval 
       range <- (2 * g - 1):(2 * g)
       
-      if (!all(adjust[range])) {
+      if (all(!adjust[range])) {
         
         swap <- wid0[range, r]
         wid_adj[range, r] <- rev(swap)
