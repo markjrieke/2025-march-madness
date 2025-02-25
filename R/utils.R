@@ -68,7 +68,7 @@ append_rds <- function(data, file) {
     # append and write
     current_file %>%
       bind_rows(data) %>%
-      write_rds(file)
+      write_rds(file, compress = "gz")
     
   }
   
