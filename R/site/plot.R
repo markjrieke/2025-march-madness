@@ -1,4 +1,5 @@
 library(tidyverse)
+library(ggiraph)
 
 round_structure <- function(round) {
   
@@ -44,7 +45,43 @@ eval_y <- function(round, pid, lhs) {
   
 }
 
-ggplot() + 
+increment_pid <- function(x) {
+  
+  (x + (x %% 2)) / 2
+  
+}
+
+route_pid <- function(x) {
+  
+  for (i in 2:length(x)) {
+    x[i] <- increment_pid(x[i-1])
+  }
+  
+  return(x)
+  
+}
+
+p_advance %>%
+  group_by(team_name) %>%
+  filter(all(status == "Won" | is.na(status))) %>%
+  ungroup() %>%
+  filter(is.na(status)) %>%
+  rowid_to_column() %>%
+  mutate(init = if_else(round == min(round), rowid, 0),
+         lhs = tid <= 32,
+         rhs = !lhs,
+         x = case_when(lhs ~ round,
+                       rhs ~ 13 - round)) %>%
+  nest(data = -team_name) %>%
+  mutate(pid = map(data, ~.x$init),
+         pid = map(pid, route_pid)) %>%
+  unnest(c(data, pid)) %>%
+  select(-init) %>%
+  mutate(y = eval_y(round + 1, increment_pid(pid), lhs)) 
+
+
+ggobj <- 
+  ggplot() + 
   geom_segment(data = structure %>%
                  mutate(lhs = pid <= 2^(6 - round),
                         rhs = !lhs,
@@ -85,5 +122,153 @@ ggplot() +
                           hjust = hjust),
             family = "IBM Plex Sans",
             size = 2.7) + 
+  geom_segment_interactive(data = p_advance %>%
+                 group_by(team_name) %>%
+                 filter(all(status == "Won" | is.na(status))) %>%
+                 ungroup() %>%
+                 filter(is.na(status)) %>%
+                 rowid_to_column() %>%
+                 mutate(init = if_else(round == min(round), rowid, 0),
+                        lhs = tid <= 32,
+                        rhs = !lhs,
+                        x = case_when(lhs ~ round,
+                                      rhs ~ 13 - round)) %>%
+                 nest(data = -team_name) %>%
+                 mutate(pid = map(data, ~.x$init),
+                        pid = map(pid, route_pid)) %>%
+                 unnest(c(data, pid)) %>%
+                 select(-init) %>%
+                 mutate(y = eval_y(round + 1, increment_pid(pid), lhs),
+                        xend = case_when(lhs ~ x + 1,
+                                         rhs ~ x - 1),
+                        yend = y,
+                        linewidth = 6 * p_advance),
+               mapping = aes(x = x,
+                             xend = xend,
+                             y = y,
+                             yend = yend,
+                             color = team_name,
+                             linewidth = linewidth,
+                             data_id = team_name)) +
+  geom_segment_interactive(data = p_advance %>%
+                 group_by(team_name) %>%
+                 filter(all(status == "Won" | is.na(status))) %>%
+                 ungroup() %>%
+                 filter(is.na(status)) %>%
+                 rowid_to_column() %>%
+                 mutate(init = if_else(round == min(round), rowid, 0),
+                        lhs = tid <= 32,
+                        rhs = !lhs,
+                        x = case_when(lhs ~ round,
+                                      rhs ~ 13 - round)) %>%
+                 nest(data = -team_name) %>%
+                 mutate(pid = map(data, ~.x$init),
+                        pid = map(pid, route_pid)) %>%
+                 unnest(c(data, pid)) %>%
+                 select(-init) %>%
+                 mutate(y = eval_y(round + 1, increment_pid(pid), lhs),
+                        xend = x,
+                        yend = eval_y(round, pid, lhs),
+                        linewidth = 6 * p_advance),
+               mapping = aes(x = x,
+                             xend = xend,
+                             y = y,
+                             yend = yend,
+                             color = team_name,
+                             linewidth = linewidth,
+                             data_id = team_name),
+               alpha = 0.001) + 
+  geom_point_interactive(data = p_advance %>%
+               group_by(team_name) %>%
+               filter(all(status == "Won" | is.na(status))) %>%
+               ungroup() %>%
+               filter(is.na(status)) %>%
+               rowid_to_column() %>%
+               mutate(init = if_else(round == min(round), rowid, 0),
+                      lhs = tid <= 32,
+                      rhs = !lhs,
+                      x = case_when(lhs ~ round,
+                                    rhs ~ 13 - round)) %>%
+               nest(data = -team_name) %>%
+               mutate(pid = map(data, ~.x$init),
+                      pid = map(pid, route_pid)) %>%
+               unnest(c(data, pid)) %>%
+               select(-init) %>%
+               mutate(y = eval_y(round + 1, increment_pid(pid), lhs),
+                      size = 5 * p_advance),
+             mapping = aes(x = x,
+                           y = y,
+                           size = size,
+                           color = team_name,
+                           data_id = team_name)) + 
+  geom_point_interactive(data = p_advance %>%
+               group_by(team_name) %>%
+               filter(all(status == "Won" | is.na(status))) %>%
+               ungroup() %>%
+               filter(is.na(status)) %>%
+               rowid_to_column() %>%
+               mutate(init = if_else(round == min(round), rowid, 0),
+                      lhs = tid <= 32,
+                      rhs = !lhs,
+                      x = case_when(lhs ~ round,
+                                    rhs ~ 13 - round)) %>%
+               nest(data = -team_name) %>%
+               mutate(pid = map(data, ~.x$init),
+                      pid = map(pid, route_pid)) %>%
+               unnest(c(data, pid)) %>%
+               select(-init) %>%
+               mutate(y = eval_y(round, pid, lhs),
+                      size = 5 * p_advance),
+             mapping = aes(x = x,
+                           y = y,
+                           size = size,
+                           color = team_name,
+                           data_id = team_name)) +
+  geom_point_interactive(data = p_advance %>%
+               group_by(team_name) %>%
+               filter(all(status == "Won" | is.na(status))) %>%
+               ungroup() %>%
+               filter(is.na(status)) %>%
+               rowid_to_column() %>%
+               mutate(init = if_else(round == min(round), rowid, 0),
+                      lhs = tid <= 32,
+                      rhs = !lhs,
+                      x = case_when(lhs ~ round + 1,
+                                    rhs ~ 13 - round - 1)) %>%
+               nest(data = -team_name) %>%
+               mutate(pid = map(data, ~.x$init),
+                      pid = map(pid, route_pid)) %>%
+               unnest(c(data, pid)) %>%
+               select(-init) %>%
+               mutate(y = eval_y(round + 1, increment_pid(pid), lhs),
+                      size = 5 * p_advance),
+             mapping = aes(x = x,
+                           y = y,
+                           size = size,
+                           color = team_name,
+                           data_id = team_name)) +
+  scale_linewidth_identity() + 
+  scale_size_identity() + 
   expand_limits(y = c(0, 13)) +
+  guides(color = "none") + 
   theme_void()
+
+opts_default <- function() {
+  
+  base::structure(
+    list(
+      css = "opacity:0;"
+    ),
+    class = "opts_default"
+  )
+  
+}
+
+girafe(
+  ggobj = ggobj,
+  options = list(
+    opts_hover(css = "opacity:1;"),
+    opts_hover_inv("opacity:0;"),
+    opts_hover_theme("opacity:0;")
+  )
+)

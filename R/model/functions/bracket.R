@@ -97,6 +97,12 @@ run_bracket_model <- function(league,
   p_advance %>%
     append_parquet("out/bracket/p_advance.parquet")
   
+  # save wid0 output
+  tibble(league = league,
+         date = date,
+         wid0 = list(wid0)) %>%
+    append_rds("out/bracket/wid0.rds")
+  
   # evaluate processing time
   end_ts <- Sys.time()
   
