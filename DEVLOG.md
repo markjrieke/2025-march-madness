@@ -5,6 +5,8 @@
 * decided to add a bracket plot
 * (if I can figure it out, if not, I can just do the table only)
 * added a function for modifying wid0 so that teams appear in the correct spot in the bracket
+* making the chart interactive involves breaking ggiraph
+* and writing my own set of javascript (fuck)
 
 ## 2025-02-21
 
