@@ -7,6 +7,9 @@
 * added a function for modifying wid0 so that teams appear in the correct spot in the bracket
 * making the chart interactive involves breaking ggiraph
 * and writing my own set of javascript (fuck)
+* HOLY SHIT IT WORKS
+* Basically, I rewrote ggiraph, stripped out the `htmlwidgets::createWidget()` component, and injected my own javascript function into a big html string. Sending the raw html string to quarto lets me render the bracket.
+* Realized there's a (mildly) annoying bug that isn't immediately solvable --- the first round games can be mixed up. This is because ESPN doesn't store the team ids in the html, just the game ids. So I assign position based on home/away, then correct positions in rounds 2:7 (I can do this because the bracket structure enforces a specific ordering). The only round I *can't* do this for is the first round. So we'll just live with it. 
 
 ## 2025-02-21
 
