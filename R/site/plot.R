@@ -162,7 +162,6 @@ advance_structure <-
 winbox <- 
   advance_structure %>%
   filter(round == 6) %>%
-  bind_cols(img = sample(imgs, nrow(.), replace = TRUE)) %>%
   select(team_name, team_data_id) %>%
   left_join(arrow::read_parquet("data/teams/teams.parquet") %>%
               filter(league == "mens")) %>%
@@ -273,7 +272,7 @@ html_intro <- html_str[1:(length(html_str) - 1)]
 html_outro <- "</svg>"
 
 js <- 
-  read_lines("R/site/plot.js") %>%
+  read_lines("js/plot.js") %>%
   str_c(collapse = "\n")
 
 pngs <- 
