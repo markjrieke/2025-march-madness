@@ -57,13 +57,6 @@ teams <-
   distinct(tid, team_name, team_data_id) %>%
   arrange(tid)
 
-imgs <- 
-  c(
-    "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/202.png",
-    "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2655.png",
-    "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
-  )
-
 # skeleton for building bracket
 structure <- 
   bind_rows(
@@ -173,7 +166,7 @@ winbox <-
   select(team_name, team_data_id) %>%
   left_join(arrow::read_parquet("data/teams/teams.parquet") %>%
               filter(league == "mens")) %>%
-  left_join(arrow::read_parquet("data/images/mens-images.parquet"))
+  left_join(arrow::read_parquet("data/images/womens-images.parquet"))
 
 ggobj <- 
   ggplot() + 
