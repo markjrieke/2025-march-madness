@@ -190,6 +190,15 @@ winbox <-
               filter(league == "mens")) %>%
   left_join(arrow::read_parquet("data/images/mens-images.parquet"))
 
+# regional text (ALRIGHT YOU'LL HAVE TO MANUALLY REARRANGE THIS ONCE THE BRACKET LAUNCHES)
+regional_text <- 
+  tibble(
+    mens = c("SOUTH", "WEST", "EAST", "MIDWEST"),
+    womens = c("BRIDGEPORT", "LEXINGTON", "SIOUX FALLS", "KANSAS CITY"),
+    x = c(3, 3, 10, 10),
+    y = c(24.5, 8.5, 24.5, 8.5)
+  )
+
 ggobj <- 
   ggplot() + 
   geom_segment(data = structure,
@@ -204,6 +213,14 @@ ggobj <-
                              y = vy,
                              yend = vyend),
                linewidth = bracket_linewidth) +
+  geom_text(data = regional_text,
+            mapping = aes(x = x,
+                          y = y,
+                          label = mens),
+            color = "gray80",
+            family = "IBM Plex Sans",
+            fontface = "bold",
+            size = 3.5) + 
   geom_segment_interactive(data = advance_structure,
                            mapping = aes(x = hx,
                                          xend = hxend,
@@ -244,7 +261,7 @@ ggobj <-
                                       data_id = team_data_id,
                                       color = team_data_id),
                         x = 6.5,
-                        y = 16.5,
+                        y = 26,
                         family = "IBM Plex Sans",
                         fontface = "bold",
                         size = 6) + 
