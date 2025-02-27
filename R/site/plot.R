@@ -55,7 +55,9 @@ p_advance <-
 teams <-
   p_advance %>%
   distinct(tid, team_name, team_data_id) %>%
-  arrange(tid)
+  arrange(tid) %>%
+  left_join(read_csv("data/manual/team-manual.csv") %>%
+              filter(league == "mens"))
 
 # skeleton for building bracket
 structure <- 
@@ -82,7 +84,7 @@ structure <-
                values_to = "team_data_id") %>%
   drop_na() %>%
   mutate(round = parse_number(round)) %>%
-  left_join(teams %>% select(c(team_name, team_data_id))) %>%
+  left_join(teams %>% select(c(team_name, team_data_id, team_display))) %>%
   right_join(structure)
 
 # append with plotting coordinates
@@ -165,7 +167,7 @@ winbox <-
   select(team_name, team_data_id) %>%
   left_join(arrow::read_parquet("data/teams/teams.parquet") %>%
               filter(league == "mens")) %>%
-  left_join(arrow::read_parquet("data/images/womens-images.parquet"))
+  left_join(arrow::read_parquet("data/images/mens-images.parquet"))
 
 ggobj <- 
   ggplot() + 
@@ -202,7 +204,7 @@ ggobj <-
   geom_text_interactive(data = structure,
                         mapping = aes(x = tx,
                                       y = ty,
-                                      label = team_name,
+                                      label = team_display,
                                       hjust = hjust,
                                       data_id = team_data_id),
                         family = "IBM Plex Sans",
