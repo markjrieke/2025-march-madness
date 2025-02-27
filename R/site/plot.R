@@ -125,13 +125,22 @@ structure <-
 # team-level structure for advancement lines
 advance_structure <-
   p_advance %>%
+  bind_rows(tibble(league = "mens",
+                   date = Sys.Date(),
+                   tid = teams$tid,
+                   team_name = teams$team_name,
+                   round = 0,
+                   status = "Won",
+                   p_advance = 1,
+                   team_data_id = teams$team_data_id),
+            .) %>%
   
   # only display lead-lines for future games
   group_by(team_name) %>%
-  filter(all(status == "Won" | is.na(status))) %>%
+  fill(status) %>%
+  filter(status == "Won") %>%
   ungroup() %>%
-  filter(is.na(status)) %>%
-  
+
   # common transforms and route pids through the tournament
   rowid_to_column() %>%
   mutate(init = if_else(round == min(round), rowid, 0),
@@ -151,14 +160,16 @@ advance_structure <-
                         rhs ~ 13 - round),
          hxend = case_when(lhs ~ hx + 1,
                            rhs ~ hx - 1),
-         hy = eval_y(round + 1, increment_pid(pid), lhs),
+         hy = eval_y(round + 1, pid, lhs),
          hyend = hy) %>%
   
   # vertical segment structure
   mutate(vx = hx,
          vxend = vx,
-         vy = eval_y(round + 1, increment_pid(pid), lhs),
-         vyend = eval_y(round, pid, lhs))
+         vy = case_when(round == 0 ~ NA, 
+                        round > 0 ~ eval_y(round + 1, pid, lhs)),
+         vyend = case_when(round == 0 ~ NA,
+                           round > 0 ~ eval_y(round, pid, lhs)))
 
 # winbox items
 winbox <- 
