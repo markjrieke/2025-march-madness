@@ -1,23 +1,30 @@
+function checkElement(element) {
+  return element.tagName != "text" | element.textContent.includes("%") | element.tagName == "image";
+};
+
 function changeStyle(dataId) {
   const elements = document.querySelectorAll(`[data-id="${dataId}"]`);
+  
   for (var i = 0; i < elements.length; i++) {
-    if (elements[i].tagName != "text") {
-      elements[i].setAttribute("fill-opacity", 0);
-      elements[i].setAttribute("stroke-opacity", 0);
+    // initialize all elements to 0 opacity
+    if (checkElement(elements[i])) {
+      elements[i].style.opacity = 0;
     };
+    
+    // on hover, set opacity to 1 for all elements with a matching data-id
     elements[i].onmouseover = function() {
       for (var k = 0; k < elements.length; k++) {
-        if (elements[k].tagName != "text") {
-          elements[k].setAttribute("fill-opacity", 1);
-          elements[k].setAttribute("stroke-opacity", 1);
+        if (checkElement(elements[k])) {
+          elements[k].style.opacity = 1;
         }
       }
     };
+    
+    // on mouse-out, revert back to 0
     elements[i].onmouseout = function() {
       for (var k = 0; k < elements.length; k++) {
-        if (elements[k].tagName != "text") {
-          elements[k].setAttribute("fill-opacity", 0);
-          elements[k].setAttribute("stroke-opacity", 0);
+        if (checkElement(elements[k])) {
+          elements[k].style.opacity = 0;
         }
       }
     };

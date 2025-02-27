@@ -1,5 +1,6 @@
 library(tidyverse)
 library(ggiraph)
+library(ggimage)
 
 bracket_linewidth <- 0.35
 min_linewidth <- 0.5
@@ -50,12 +51,18 @@ route_pid <- function(x) {
 
 p_advance <- 
   p_advance %>%
-  mutate(team_name = str_remove(team_name, "'"))
+  mutate(team_data_id = str_remove(team_name, "'"))
 
 teams <-
   p_advance %>%
-  distinct(tid, team_name) %>%
+  distinct(tid, team_name, team_data_id) %>%
   arrange(tid)
+
+imgs <- 
+  c(
+    "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/202.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=80&amp;h=80",
+    "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2655.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=80&amp;h=80"
+  )
 
 # skeleton for building bracket
 structure <- 
@@ -75,13 +82,14 @@ structure <-
   as_tibble() %>%
   rename_with(~str_replace(.x, "V", "round_")) %>%
   mutate(across(everything(), as.integer),
-         across(everything(), ~map_chr(.x, ~if (length(teams$team_name[.x]) > 0) teams$team_name[.x] else NA_character_))) %>%
+         across(everything(), ~map_chr(.x, ~if (length(teams$team_data_id[.x]) > 0) teams$team_data_id[.x] else NA_character_))) %>%
   rowid_to_column("pid") %>%
   pivot_longer(-pid,
                names_to = "round",
-               values_to = "team") %>%
+               values_to = "team_data_id") %>%
   drop_na() %>%
   mutate(round = parse_number(round)) %>%
+  left_join(teams %>% select(c(team_name, team_data_id))) %>%
   right_join(structure)
 
 # append with plotting coordinates
@@ -134,7 +142,7 @@ advance_structure <-
   mutate(init = if_else(round == min(round), rowid, 0),
          lhs = tid <= 32,
          rhs = !lhs) %>%
-  nest(data = -team_name) %>%
+  nest(data = -c(team_name, team_data_id)) %>%
   mutate(pid = map(data, ~.x$init),
          pid = map(pid, route_pid)) %>%
   unnest(c(data, pid)) %>%
@@ -171,32 +179,43 @@ ggobj <-
                              y = vy,
                              yend = vyend),
                linewidth = bracket_linewidth) +
-  geom_text_interactive(data = structure,
-                        mapping = aes(x = tx,
-                                      y = ty,
-                                      label = team,
-                                      hjust = hjust,
-                                      data_id = team),
-                        family = "IBM Plex Sans",
-                        size = 2.7) + 
   geom_segment_interactive(data = advance_structure,
                            mapping = aes(x = hx,
                                          xend = hxend,
                                          y = hy,
                                          yend = hyend,
-                                         color = team_name,
+                                         color = team_data_id,
                                          linewidth = linewidth,
-                                         data_id = team_name),
+                                         data_id = team_data_id),
                            lineend = "square") +
   geom_segment_interactive(data = advance_structure,
                            mapping = aes(x = vx,
                                          xend = vxend,
                                          y = vy,
                                          yend = vyend,
-                                         color = team_name,
+                                         color = team_data_id,
                                          linewidth = linewidth,
-                                         data_id = team_name),
+                                         data_id = team_data_id),
                            lineend = "square") +
+  geom_text_interactive(data = structure,
+                        mapping = aes(x = tx,
+                                      y = ty,
+                                      label = team_name,
+                                      hjust = hjust,
+                                      data_id = team_data_id),
+                        family = "IBM Plex Sans",
+                        size = 2.7) + 
+  geom_text_interactive(data = advance_structure,
+                        mapping = aes(x = if_else(lhs, hx + 0.5, hx - 0.5),
+                                      y = hy + 0.5,
+                                      label = case_when(p_advance > 0.99 ~ ">99%",
+                                                        p_advance < 0.01 ~ "<1%",
+                                                        .default = scales::label_percent(accuracy = 1)(p_advance)),
+                                      data_id = team_data_id,
+                                      color = team_data_id),
+                        family = "IBM Plex Sans",
+                        fontface = "bold",
+                        size = 4) + 
   scale_linewidth_identity() + 
   scale_size_identity() + 
   expand_limits(y = c(0, 13)) +
@@ -206,18 +225,15 @@ ggobj <-
 # dev path for img
 path <- tempfile()
 
-args <- list()
-args$canvas_id <- args$canvas_id %||% paste("svg", gsub("-", "_", uuid::UUIDgenerate()), sep = "_")
-args$file <- path
-args$width <- 9
-args$height <- 9
-args$pointsize <- 12
-args$standalone <- TRUE
-args$setdims <- FALSE
-
-if (identical(args$bg, "transparent")) {
-  args$bg <- "#ffffff01"
-}
+args <- list(
+  canvas_id = paste("svg", gsub("-", "_", uuid::UUIDgenerate()), sep = "_"),
+  file = path,
+  width = 9,
+  height = 9,
+  pointsize = 12,
+  standalone = TRUE,
+  setdims = FALSE
+)
 
 devlenth <- length(dev.list())
 do.call(dsvg, args)
@@ -234,15 +250,6 @@ html_str <-
   str_split("\n") %>%
   pluck(1)
 
-js <- 
-  read_lines("R/site/plot.js") %>%
-  str_c(collapse = "\n")
-
-styled_teams <- paste0("changeStyle(\"", teams$team_name, "\");\n")
-styled_teams <- str_c(styled_teams, collapse = "")
-
-script <- paste("<script>", js, styled_teams, "</script>", sep = "\n")
-
 html_str[2] <- 
   if_else(
     str_detect(html_str[2], "width="),
@@ -250,7 +257,30 @@ html_str[2] <-
     html_str[2]
   )
 
-html_aug <- c(html_str, script)
+html_intro <- html_str[1:(length(html_str) - 1)]
+html_outro <- "</svg>"
+
+pngs <- 
+  paste0('<image x="291.6" y="167.32" width="80" height="80" xlink:href="', imgs, '" data-id="', "UConn", '" />') %>%
+  str_c(collapse = "\n")
+
+js <- 
+  read_lines("R/site/plot.js") %>%
+  str_c(collapse = "\n")
+
+# team logos
+img_structure <- 
+  advance_structure %>%
+  filter(round == 6) %>%
+  bind_cols(img = sample(imgs, nrow(.), replace = TRUE)) %>%
+  filter(team_name == "UConn")
+
+styled_teams <- paste0("changeStyle(\"", teams$team_data_id, "\");\n")
+styled_teams <- str_c(styled_teams, collapse = "")
+
+script <- paste("<script>", js, styled_teams, "</script>", sep = "\n")
+
+html_aug <- c(html_intro, pngs, html_outro, script)
 html_aug <- str_c(html_aug, collapse = "\n")
 
 html_aug %>%
@@ -258,3 +288,22 @@ html_aug %>%
 
 unlink(path)
 
+# magick dev -------------------------------------------------------------------
+
+# library(magick)
+# 
+# tulsa <- image_read("https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/202.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=80&amp;h=80")
+# tulane <- <img alt="Tulane Green Wave" class="Image Logo Logo__lg" title="Tulane Green Wave" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2655.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=80&amp;h=80">
+# image_composite(ggobj, tulsa)
+# magick::
+
+tibble(x = rnorm(127),
+       y = rnorm(127),
+       image = sample(c("https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/202.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=80&amp;h=80",
+                        "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2655.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=80&amp;h=80"),
+                      size = 127,
+                      replace = TRUE)) %>%
+  ggplot(aes(x = x,
+             y = y,
+             image = image)) + 
+  ggimage::geom_image(size = 0.1)
