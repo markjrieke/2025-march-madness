@@ -135,11 +135,16 @@ advance_structure <-
                    team_data_id = teams$team_data_id),
             .) %>%
   
-  # only display lead-lines for future games
+  # only display probabilities for future games
   group_by(team_name) %>%
-  fill(status) %>%
-  filter(status == "Won") %>%
+  mutate(status_proj = status) %>%
+  fill(status_proj) %>%
+  filter(status_proj == "Won") %>%
   ungroup() %>%
+  mutate(p_advance_text = if_else(is.na(status) & status_proj == "Won", p_advance, NA),
+         p_advance_text = case_when(p_advance_text > 0.99 ~ ">99%",
+                                    p_advance_text < 0.01 ~ "<1%",
+                                    .default = scales::label_percent(accuracy = 1)(p_advance_text))) %>%
 
   # common transforms and route pids through the tournament
   rowid_to_column() %>%
@@ -164,12 +169,17 @@ advance_structure <-
          hyend = hy) %>%
   
   # vertical segment structure
-  mutate(vx = hx,
+  group_by(team_data_id) %>%
+  mutate(vx = hxend,
          vxend = vx,
-         vy = case_when(round == 0 ~ NA, 
-                        round > 0 ~ eval_y(round + 1, pid, lhs)),
-         vyend = case_when(round == 0 ~ NA,
-                           round > 0 ~ eval_y(round, pid, lhs)))
+         vy = case_when(round >= 5 ~ NA,
+                        lead(status, default = "Eliminated") == "Eliminated" ~ NA,
+                        .default = eval_y(round + 1, pid, lhs)),
+         vyend = case_when(round >= 5 ~ NA,
+                           lead(status, default = "Eliminated") == "Eliminated" ~ NA,
+                           .default = eval_y(round + 2, increment_pid(pid), lhs)),
+         linewidth_lead = (max_linewidth - min_linewidth) * lead(p_advance) + min_linewidth) %>%
+  ungroup()
 
 # winbox items
 winbox <- 
@@ -209,7 +219,7 @@ ggobj <-
                                          y = vy,
                                          yend = vyend,
                                          color = team_data_id,
-                                         linewidth = linewidth,
+                                         linewidth = linewidth_lead,
                                          data_id = team_data_id),
                            lineend = "square") +
   geom_text_interactive(data = structure,
@@ -223,9 +233,7 @@ ggobj <-
   geom_text_interactive(data = advance_structure,
                         mapping = aes(x = if_else(lhs, hx + 0.5, hx - 0.5),
                                       y = hy + 0.5,
-                                      label = case_when(p_advance > 0.99 ~ ">99%",
-                                                        p_advance < 0.01 ~ "<1%",
-                                                        .default = scales::label_percent(accuracy = 1)(p_advance)),
+                                      label = p_advance_text,
                                       data_id = team_data_id,
                                       color = team_data_id),
                         family = "IBM Plex Sans",
