@@ -1,5 +1,5 @@
 function checkElement(element) {
-  return element.tagName != "text" | element.textContent.includes("%") | element.tagName == "image";
+  return element.tagName != "text" | element.textContent.includes("%") | element.tagName == "image" | element.getAttribute("font-weight") == "bold";
 };
 
 function changeStyle(dataId) {

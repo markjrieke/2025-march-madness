@@ -1,6 +1,5 @@
 library(tidyverse)
 library(ggiraph)
-library(ggimage)
 
 bracket_linewidth <- 0.35
 min_linewidth <- 0.5
@@ -60,8 +59,9 @@ teams <-
 
 imgs <- 
   c(
-    "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/202.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=80&amp;h=80",
-    "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2655.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=80&amp;h=80"
+    "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/202.png",
+    "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2655.png",
+    "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
   )
 
 # skeleton for building bracket
@@ -165,6 +165,16 @@ advance_structure <-
          vy = eval_y(round + 1, increment_pid(pid), lhs),
          vyend = eval_y(round, pid, lhs))
 
+# winbox items
+winbox <- 
+  advance_structure %>%
+  filter(round == 6) %>%
+  bind_cols(img = sample(imgs, nrow(.), replace = TRUE)) %>%
+  select(team_name, team_data_id) %>%
+  left_join(arrow::read_parquet("data/teams/teams.parquet") %>%
+              filter(league == "mens")) %>%
+  left_join(arrow::read_parquet("data/images/mens-images.parquet"))
+
 ggobj <- 
   ggplot() + 
   geom_segment(data = structure,
@@ -215,7 +225,16 @@ ggobj <-
                                       color = team_data_id),
                         family = "IBM Plex Sans",
                         fontface = "bold",
-                        size = 4) + 
+                        size = 4) +
+  geom_text_interactive(data = winbox,
+                        mapping = aes(label = team_name,
+                                      data_id = team_data_id,
+                                      color = team_data_id),
+                        x = 6.5,
+                        y = 16.5,
+                        family = "IBM Plex Sans",
+                        fontface = "bold",
+                        size = 6) + 
   scale_linewidth_identity() + 
   scale_size_identity() + 
   expand_limits(y = c(0, 13)) +
@@ -260,20 +279,13 @@ html_str[2] <-
 html_intro <- html_str[1:(length(html_str) - 1)]
 html_outro <- "</svg>"
 
-pngs <- 
-  paste0('<image x="291.6" y="167.32" width="80" height="80" xlink:href="', imgs, '" data-id="', "UConn", '" />') %>%
-  str_c(collapse = "\n")
-
 js <- 
   read_lines("R/site/plot.js") %>%
   str_c(collapse = "\n")
 
-# team logos
-img_structure <- 
-  advance_structure %>%
-  filter(round == 6) %>%
-  bind_cols(img = sample(imgs, nrow(.), replace = TRUE)) %>%
-  filter(team_name == "UConn")
+pngs <- 
+  paste0('<image x="291.6" y="167.32" width="64.8" height="64.8" xlink:href="', winbox$image, '" data-id="', winbox$team_data_id, '" />') %>%
+  str_c(collapse = "\n")
 
 styled_teams <- paste0("changeStyle(\"", teams$team_data_id, "\");\n")
 styled_teams <- str_c(styled_teams, collapse = "")
@@ -288,22 +300,4 @@ html_aug %>%
 
 unlink(path)
 
-# magick dev -------------------------------------------------------------------
 
-# library(magick)
-# 
-# tulsa <- image_read("https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/202.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=80&amp;h=80")
-# tulane <- <img alt="Tulane Green Wave" class="Image Logo Logo__lg" title="Tulane Green Wave" data-mptype="image" src="https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2655.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=80&amp;h=80">
-# image_composite(ggobj, tulsa)
-# magick::
-
-tibble(x = rnorm(127),
-       y = rnorm(127),
-       image = sample(c("https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/202.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=80&amp;h=80",
-                        "https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2655.png&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;w=80&amp;h=80"),
-                      size = 127,
-                      replace = TRUE)) %>%
-  ggplot(aes(x = x,
-             y = y,
-             image = image)) + 
-  ggimage::geom_image(size = 0.1)

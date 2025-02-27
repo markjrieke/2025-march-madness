@@ -10,6 +10,8 @@
 * HOLY SHIT IT WORKS
 * Basically, I rewrote ggiraph, stripped out the `htmlwidgets::createWidget()` component, and injected my own javascript function into a big html string. Sending the raw html string to quarto lets me render the bracket.
 * Realized there's a (mildly) annoying bug that isn't immediately solvable --- the first round games can be mixed up. This is because ESPN doesn't store the team ids in the html, just the game ids. So I assign position based on home/away, then correct positions in rounds 2:7 (I can do this because the bracket structure enforces a specific ordering). The only round I *can't* do this for is the first round. So we'll just live with it. 
+* I also had to write the images directly to the svg since ggimage took years to render
+* To get the links, I had to jump into some python/selenium (there's not really a good post-load option with rvest AFAIK)
 
 ## 2025-02-21
 
