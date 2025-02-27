@@ -8,3 +8,4 @@
 *.log
 exe/
 tmp*
+.venv
