@@ -1,5 +1,6 @@
 library(tidyverse)
 library(ggiraph)
+library(patchwork)
 
 bracket_linewidth <- 0.35
 min_linewidth <- 0.5
@@ -139,10 +140,13 @@ advance_structure <-
   group_by(team_name) %>%
   mutate(status_proj = status) %>%
   fill(status_proj) %>%
-  filter(status_proj == "Won") %>%
+  filter(status_proj == "Won" | round == 6) %>%
   ungroup() %>%
-  mutate(p_advance_text = if_else(is.na(status) & status_proj == "Won", p_advance, NA),
-         p_advance_text = case_when(p_advance_text > 0.99 ~ ">99%",
+  mutate(p_advance_text = case_when(is.na(status) & status_proj == "Won" ~ p_advance, 
+                                    round == 6 & status_proj == "Eliminated" ~ p_advance,
+                                    .default = NA),
+         p_advance_text = case_when(round == 6 & status_proj == "Eliminated" ~ "0%",
+                                    p_advance_text > 0.99 ~ ">99%",
                                     p_advance_text < 0.01 ~ "<1%",
                                     .default = scales::label_percent(accuracy = 1)(p_advance_text))) %>%
 
@@ -173,10 +177,11 @@ advance_structure <-
   mutate(vx = hxend,
          vxend = vx,
          vy = case_when(round >= 5 ~ NA,
-                        lead(status, default = "Eliminated") == "Eliminated" ~ NA,
+                        lead(status_proj, default = "Eliminated") == "Eliminated" ~ NA,
                         .default = eval_y(round + 1, pid, lhs)),
          vyend = case_when(round >= 5 ~ NA,
-                           lead(status, default = "Eliminated") == "Eliminated" ~ NA,
+                           n() == 2 ~ NA,
+                           lead(status_proj, default = "Eliminated") == "Eliminated" ~ NA,
                            .default = eval_y(round + 2, increment_pid(pid), lhs)),
          linewidth_lead = (max_linewidth - min_linewidth) * lead(p_advance) + min_linewidth) %>%
   ungroup()
@@ -199,7 +204,34 @@ regional_text <-
     y = c(24.5, 8.5, 24.5, 8.5)
   )
 
-ggobj <- 
+bracket_header <- 
+  tibble(x = 1:13 - 0.5,
+         y = 0.5,
+         label = c("Round of 64", "Round of 32", "Sweet 16", "Elite 8", "Final 4", "",
+                   "Championship",
+                   "", "Final 4", "Elite 8", "Sweet 16", "Round of 32", "Round of 64")) %>%
+  ggplot() + 
+  geom_text(aes(x = x,
+                y = y,
+                label = label),
+            family = "IBM Plex Sans",
+            size = 2.4,
+            color = "gray60") +
+  annotate(geom = "segment",
+           x = 0,
+           xend = 13,
+           y = 0.3,
+           yend = 0.3,
+           color = "gray60") + 
+  annotate(geom = "segment",
+           x = 0,
+           xend = 13,
+           y = 0.7,
+           yend = 0.7,
+           color = "gray60") + 
+  theme_void()
+
+bracket_plot <- 
   ggplot() + 
   geom_segment(data = structure,
                mapping = aes(x = hx,
@@ -221,6 +253,13 @@ ggobj <-
             family = "IBM Plex Sans",
             fontface = "bold",
             size = 3.5) + 
+  annotate(geom = "text",
+           x = 6.5,
+           y = 30,
+           label = "Hover over each\nteam to see their \nchances of advancing.",
+           family = "IBM Plex Sans",
+           size = 3,
+           color = "gray80") +
   geom_segment_interactive(data = advance_structure,
                            mapping = aes(x = hx,
                                          xend = hxend,
@@ -271,6 +310,10 @@ ggobj <-
   guides(color = "none") + 
   theme_void()
 
+ggobj <- 
+  (bracket_header / bracket_plot) +
+  plot_layout(heights = c(1, 34))
+
 # dev path for img
 path <- tempfile()
 
@@ -314,7 +357,7 @@ js <-
   str_c(collapse = "\n")
 
 pngs <- 
-  paste0('<image x="291.6" y="167.32" width="64.8" height="64.8" xlink:href="', winbox$image, '" data-id="', winbox$team_data_id, '" />') %>%
+  paste0('<image x="286.87" y="174.8" width="69.53" height="69.53" xlink:href="', winbox$image, '" data-id="', winbox$team_data_id, '" />') %>%
   str_c(collapse = "\n")
 
 styled_teams <- paste0("changeStyle(\"", teams$team_data_id, "\");\n")

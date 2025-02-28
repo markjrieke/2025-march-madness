@@ -47,9 +47,6 @@ text_override <- function(table, p, s, status) {
   
 }
 
-
-  
-
 # dev --- needs p_advance from bracket output
 p_advance %>%
   select(team_name, 
