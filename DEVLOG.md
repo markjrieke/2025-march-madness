@@ -2,16 +2,15 @@
 
 ## 2025-02-28
 
-* decided to add a bracket plot
-* (if I can figure it out, if not, I can just do the table only)
-* added a function for modifying wid0 so that teams appear in the correct spot in the bracket
-* making the chart interactive involves breaking ggiraph
-* and writing my own set of javascript (fuck)
-* HOLY SHIT IT WORKS
-* Basically, I rewrote ggiraph, stripped out the `htmlwidgets::createWidget()` component, and injected my own javascript function into a big html string. Sending the raw html string to quarto lets me render the bracket.
-* Realized there's a (mildly) annoying bug that isn't immediately solvable --- the first round games can be mixed up. This is because ESPN doesn't store the team ids in the html, just the game ids. So I assign position based on home/away, then correct positions in rounds 2:7 (I can do this because the bracket structure enforces a specific ordering). The only round I *can't* do this for is the first round. So we'll just live with it. 
-* I also had to write the images directly to the svg since ggimage took years to render
-* To get the links, I had to jump into some python/selenium (there's not really a good post-load option with rvest AFAIK)
+**_WOW_**. What a week.
+
+Out of nowhere, I decided that I was going to add an interactive bracket plot to the landing page. Presenting the table alone feels somewhat incomplete --- the bracket is such a striking visual element of March Madness. I gave myself this week to figure it out, and through a lot of wonk, I did!
+
+First and foremost, the bracket is such a weird structure. It took a lot of grokking algebra to setup the bracket skeleton, get the text for team names/probabilities in the right place, and map the advancement probabilities (this resulted in a lot of "accidental artwork"). But I managed to figure it out, thank god.
+
+When you hover your mouse over a team, the path forward through the tournament highlights with the team's probability of advancing to each round. My normal package for quickly plopping in interactivity, [ggiraph](https://davidgohel.github.io/ggiraph/), doesn't support this [out-of-the-box](https://stackoverflow.com/questions/79465115/set-default-opacity-using-ggiraphgirafe/79475286). My workaround was to rewrite the ggiraph internals, strip out the `htmlwidgets::createWidget()` component, and inject my own [javascript function](js/plot.js) into the html file that ggiraph would normally produce. On hover, each college's logo appears as well. I tried using [ggimage](https://github.com/GuangchuangYu/ggimage) for this, but that took years to render each plot, so I ended up injecting `<image>` tags into the svg as well. I pulled the links for team logos from [ESPN's teams page](https://www.espn.com/mens-college-basketball/teams), but unfortunately these links load *after* the page javascript runs, so `rvest::read_html()` doesn't pick them up. To get around this, I wrote a [small python script](python/images.py) that scrapes the post-load html with [selenium](https://selenium-python.readthedocs.io/).
+
+All in all, this was a whirlwind week of hacking the usual set of tools, but I [got the plot working](https://bsky.app/profile/markjrieke.bsky.social/post/3lj4imraoak2x)! 
 
 ## 2025-02-21
 
