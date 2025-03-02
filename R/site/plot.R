@@ -135,6 +135,14 @@ advance_structure <-
                    p_advance = 1,
                    team_data_id = teams$team_data_id),
             .) %>%
+  left_join(read_csv("data/manual/team-manual.csv") %>%
+              filter(league == "mens") %>%
+              select(team_name, team_color),
+            by = "team_name") %>%
+  
+    
+  # mark 'eliminated' for partially completed rounds
+  # eh do this later h8r
   
   # only display probabilities for future games
   group_by(team_name) %>%
@@ -190,7 +198,7 @@ advance_structure <-
 winbox <- 
   advance_structure %>%
   filter(round == 6) %>%
-  select(team_name, team_data_id) %>%
+  select(team_name, team_data_id, team_color) %>%
   left_join(arrow::read_parquet("data/teams/teams.parquet") %>%
               filter(league == "mens")) %>%
   left_join(arrow::read_parquet("data/images/mens-images.parquet"))
@@ -265,7 +273,7 @@ bracket_plot <-
                                          xend = hxend,
                                          y = hy,
                                          yend = hyend,
-                                         color = team_data_id,
+                                         color = team_color,
                                          linewidth = linewidth,
                                          data_id = team_data_id),
                            lineend = "square") +
@@ -274,7 +282,7 @@ bracket_plot <-
                                          xend = vxend,
                                          y = vy,
                                          yend = vyend,
-                                         color = team_data_id,
+                                         color = team_color,
                                          linewidth = linewidth_lead,
                                          data_id = team_data_id),
                            lineend = "square") +
@@ -291,14 +299,14 @@ bracket_plot <-
                                       y = hy + 0.5,
                                       label = p_advance_text,
                                       data_id = team_data_id,
-                                      color = team_data_id),
+                                      color = team_color),
                         family = "IBM Plex Sans",
                         fontface = "bold",
                         size = 4) +
   geom_text_interactive(data = winbox,
                         mapping = aes(label = team_name,
                                       data_id = team_data_id,
-                                      color = team_data_id),
+                                      color = team_color),
                         x = 6.5,
                         y = 26,
                         family = "IBM Plex Sans",
@@ -306,6 +314,7 @@ bracket_plot <-
                         size = 6) + 
   scale_linewidth_identity() + 
   scale_size_identity() + 
+  scale_color_identity() + 
   expand_limits(y = c(0, 13)) +
   guides(color = "none") + 
   theme_void()
