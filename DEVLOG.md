@@ -1,5 +1,10 @@
 # DEVLOG
 
+## 2025-03-07
+
+* Nips/tucks on the bracket UI
+* Manually added team colors
+
 ## 2025-02-28
 
 **_WOW_**. What a week.
