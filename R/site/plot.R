@@ -139,11 +139,21 @@ advance_structure <-
               filter(league == "mens") %>%
               select(team_name, team_color),
             by = "team_name") %>%
-  
     
-  # mark 'eliminated' for partially completed rounds
-  # eh do this later h8r
+  # route pids through the tournament
+  rowid_to_column() %>%
+  mutate(init = if_else(round == min(round), rowid, 0)) %>%
+  nest(data = -c(team_name, team_data_id)) %>%
+  mutate(pid = map(data, ~.x$init),
+         pid = map(pid, route_pid)) %>%
+  unnest(c(data, pid)) %>%
+  select(-init) %>%
   
+  # update statuses for eliminated teams mid-round
+  group_by(round, pid) %>%
+  mutate(status = if_else(!(all(is.na(status)) | !is.na(status)), "Eliminated", status)) %>%
+  ungroup() %>%
+    
   # only display probabilities for future games
   group_by(team_name) %>%
   mutate(status_proj = status) %>%
@@ -158,16 +168,9 @@ advance_structure <-
                                     p_advance_text < 0.01 ~ "<1%",
                                     .default = scales::label_percent(accuracy = 1)(p_advance_text))) %>%
 
-  # common transforms and route pids through the tournament
-  rowid_to_column() %>%
-  mutate(init = if_else(round == min(round), rowid, 0),
-         lhs = tid <= 32,
+  # common transforms
+  mutate(lhs = tid <= 32,
          rhs = !lhs) %>%
-  nest(data = -c(team_name, team_data_id)) %>%
-  mutate(pid = map(data, ~.x$init),
-         pid = map(pid, route_pid)) %>%
-  unnest(c(data, pid)) %>%
-  select(-init) %>%
   
   # linewidth is based on probability of advancement
   mutate(linewidth = (max_linewidth - min_linewidth) * p_advance + min_linewidth) %>%
@@ -286,14 +289,15 @@ bracket_plot <-
                                          linewidth = linewidth_lead,
                                          data_id = team_data_id),
                            lineend = "square") +
-  geom_text_interactive(data = structure,
-                        mapping = aes(x = tx,
-                                      y = ty,
-                                      label = team_display,
-                                      hjust = hjust,
-                                      data_id = team_data_id),
-                        family = "IBM Plex Sans",
-                        size = 2.7) + 
+  geom_label_interactive(data = structure,
+                         mapping = aes(x = tx,
+                                       y = ty,
+                                       label = team_display,
+                                       hjust = hjust,
+                                       data_id = team_data_id),
+                         family = "IBM Plex Sans",
+                         label.size = 0,
+                         size = 2.7) + 
   geom_text_interactive(data = advance_structure,
                         mapping = aes(x = if_else(lhs, hx + 0.5, hx - 0.5),
                                       y = hy + 0.5,
