@@ -20,9 +20,44 @@ generate_html_table <- function(league,
   # temporarily use a tmp.parquet file
   p_advance <- arrow::read_parquet("tmp.parquet")
   
+  teams <- 
+    p_advance %>%
+    distinct(tid, team_name)
+  
   # build the summary table!
   table <- 
     p_advance %>%
+    bind_rows(tibble(league = league,
+                     date = date,
+                     tid = teams$tid,
+                     team_name = teams$team_name,
+                     round = 0,
+                     status = "Won",
+                     p_advance = 1),
+              .) %>%
+    
+    # route pids through the tournament
+    rowid_to_column() %>%
+    mutate(init = if_else(round == min(round), rowid, 0)) %>%
+    nest(data = -team_name) %>%
+    mutate(pid = map(data, ~.x$init),
+           pid = map(pid, route_pid)) %>%
+    unnest(c(data, pid)) %>%
+    select(-init) %>%
+    
+    # update statuses for eliminated teams mid-round
+    group_by(round, pid) %>%
+    mutate(status = if_else(!(all(is.na(status)) | !is.na(status)), "Eliminated", status)) %>%
+    ungroup() %>%
+      
+    # only display probabilities for future games
+    group_by(team_name) %>%
+    mutate(status_proj = status) %>%
+    fill(status_proj) %>%
+    ungroup() %>%
+    mutate(status = if_else(status_proj == "Eliminated", status_proj, status)) %>%
+    filter(round > 0) %>%
+  
     select(team_name, 
            round, 
            s = status,
@@ -38,13 +73,6 @@ generate_html_table <- function(league,
             desc(p_round_3), 
             desc(p_round_2), 
             desc(p_round_1)) %>%
-    
-    # propagate "eliminated" status for teams that are eliminated
-    check_previous_round(s_round_2, s_round_1) %>% 
-    check_previous_round(s_round_3, s_round_2) %>%
-    check_previous_round(s_round_4, s_round_3) %>%
-    check_previous_round(s_round_5, s_round_4) %>%
-    check_previous_round(s_round_6, s_round_5) %>%
     
     # table-ify
     gt() %>% 
@@ -110,13 +138,6 @@ generate_html_table <- function(league,
   # (html output is fundamentally bjorked for some reason?)
   table %>%
     write_rds(glue::glue("site/table/{league}-{date}.rds"))
-  
-}
-
-check_previous_round <- function(data, round, previous) {
-  
-  data %>%
-    mutate("{{ round }}" := if_else({{ previous }} == "Eliminated", "Eliminated", {{ round }}))
   
 }
 
