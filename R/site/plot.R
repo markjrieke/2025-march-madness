@@ -48,6 +48,36 @@ generate_html_bracket <- function(league,
     arrange(tid) %>%
     left_join(team_html)
   
+  # data necessary for building the bracket plot
+  bracket_data <-
+    build_bracket_data(
+      league,
+      date,
+      p_advance,
+      teams,
+      wid0
+    )
+  
+  # the main kahuna
+  ggobj <- build_bracket_ggobj(bracket_data)
+  
+  # save output has html
+  write_bracket_html(
+    league = league,
+    date = date,
+    ggobj = ggobj,
+    teams = teams,
+    winbox = bracket_data$winbox
+  )
+  
+}
+
+build_bracket_structure <- function(teams,
+                                    wid0,
+                                    ...,
+                                    h_offset = 0.95,
+                                    v_offset = 0.35) {
+  
   # skeleton for building bracket
   structure <- 
     bind_rows(
@@ -105,17 +135,29 @@ generate_html_bracket <- function(league,
                            eval_y(round - 1, 2 * pid, lhs))) %>%
     
     # text components
-    mutate(tx = case_when(lhs ~ round - 0.95,
-                          rhs ~ 13 - round + 0.95),
-           ty = eval_y(round, pid, lhs) + 0.35,
+    mutate(tx = case_when(lhs ~ round - h_offset,
+                          rhs ~ 13 - round + h_offset),
+           ty = eval_y(round, pid, lhs) + v_offset,
            hjust = case_when(lhs ~ 0,
                              rhs ~ 1))
+  
+  return(structure)
+  
+}
+
+build_advance_structure <- function(p_advance,
+                                    teams,
+                                    league,
+                                    date,
+                                    ...,
+                                    max_linewidth = 4,
+                                    min_linewidth = 0.35) {
   
   # team-level structure for advancement lines
   advance_structure <-
     p_advance %>%
-    bind_rows(tibble(league = "mens",
-                     date = Sys.Date(),
+    bind_rows(tibble(league = league,
+                     date = date,
                      tid = teams$tid,
                      team_name = teams$team_name,
                      round = 0,
@@ -123,10 +165,7 @@ generate_html_bracket <- function(league,
                      p_advance = 1,
                      team_data_id = teams$team_data_id),
               .) %>%
-    left_join(read_csv("data/manual/team-manual.csv") %>%
-                filter(league == "mens") %>%
-                select(team_name, team_color),
-              by = "team_name") %>%
+    left_join(teams %>% select(team_name, team_color)) %>%
     
     # route pids through the tournament
     rowid_to_column() %>%
@@ -185,24 +224,114 @@ generate_html_bracket <- function(league,
            linewidth_lead = (max_linewidth - min_linewidth) * lead(p_advance) + min_linewidth) %>%
     ungroup()
   
-  # winbox items
-  winbox <- 
+  return(advance_structure)
+  
+}
+
+build_winbox <- function(advance_structure,
+                         league) {
+  
+  # internal renaming for filtering
+  league_int <- league
+  
+  # get necessary components for mapping images to teams
+  slugs <-
+    arrow::read_parquet("data/teams/teams.parquet") %>%
+    filter(league == league_int) 
+  
+  images <-
+    arrow::read_parquet(glue::glue("data/images/{league}-images.parquet"))
+  
+  # join for displaying data in the winbox
+  winbox <-
     advance_structure %>%
     filter(round == 6) %>%
-    select(team_name, team_data_id, team_color) %>%
-    left_join(arrow::read_parquet("data/teams/teams.parquet") %>%
-                filter(league == "mens")) %>%
-    left_join(arrow::read_parquet("data/images/mens-images.parquet"))
+    select(team_name, 
+           team_id, 
+           team_color) %>%
+    left_join(slugs) %>%
+    left_join(images)
   
-  # regional text (ALRIGHT YOU'LL HAVE TO MANUALLY REARRANGE THIS ONCE THE BRACKET LAUNCHES)
-  regional_text <- 
+  return(winbox)
+  
+}
+
+build_regional_text <- function(league) {
+  
+  label <-
+    if_else(
+      league == "mens",
+      c("SOUTH", "WEST", "EAST", "MIDWEST"),
+      c("BRIDGEPORT", "LEXINGTON", "SIOUX FALLS", "KANSAS CITY")
+    )
+  
+  regional_text <-
     tibble(
-      mens = c("SOUTH", "WEST", "EAST", "MIDWEST"),
-      womens = c("BRIDGEPORT", "LEXINGTON", "SIOUX FALLS", "KANSAS CITY"),
+      label = label,
       x = c(3, 3, 10, 10),
       y = c(24.5, 8.5, 24.5, 8.5)
     )
   
+  return(regional_text)
+  
+}
+
+build_bracket_data <- function(league,
+                               date,
+                               p_advance,
+                               teams,
+                               wid0) {
+  
+  # lines for the bracket structure
+  structure <- 
+    build_bracket_structure(
+      teams, 
+      wid0
+    )
+  
+  # probability of advancement mapping for undetermined games
+  advance_structure <- 
+    build_advance_structure(
+      p_advance,
+      teams,
+      league,
+      date
+    )
+  
+  # items displayed on hover in the "winbox"
+  winbox <-
+    build_winbox(
+      advance_structure,
+      league
+    )
+  
+  # text annotations for each of the bracket regions
+  regional_text <- build_regional_text(league)
+  
+  # return result as a list
+  out <-
+    list(
+      structure = structure,
+      advance_structure = advance_structure,
+      winbox = winbox,
+      regional_text = regional_text
+    )
+  
+  return(out)
+  
+}
+
+build_bracket_ggobj <- function(bracket_data,
+                                ...,
+                                bracket_linewidth = 0.35) {
+  
+  # extract components from bracket data
+  structure <- bracket_data$structure
+  advance_structure <- bracket_data$advance_structure
+  winbox <- bracket_data$winbox
+  regional_text <- bracket_data$regional_text
+  
+  # header component listing rounds
   bracket_header <- 
     tibble(x = 1:13 - 0.5,
            y = 0.5,
@@ -230,6 +359,7 @@ generate_html_bracket <- function(league,
              color = "gray60") + 
     theme_void()
   
+  # main bracket component
   bracket_plot <- 
     ggplot() + 
     geom_segment(data = structure,
@@ -311,25 +441,40 @@ generate_html_bracket <- function(league,
     guides(color = "none") + 
     theme_void()
   
+  # arrange with patchwork
   ggobj <- 
     (bracket_header / bracket_plot) +
     plot_layout(heights = c(1, 34))
   
+  return(ggobj)
+  
+}
+
+write_bracket_html <- function(league,
+                               date,
+                               ggobj,
+                               teams,
+                               winbox) {
+  
   # dev path for img
   path <- tempfile()
   
-  args <- list(
-    canvas_id = paste("svg", gsub("-", "_", uuid::UUIDgenerate()), sep = "_"),
-    file = path,
-    width = 9,
-    height = 9,
-    pointsize = 12,
-    standalone = TRUE,
-    setdims = FALSE
-  )
+  # args for rendering the svg
+  args <- 
+    list(
+      canvas_id = paste("svg", gsub("-", "_", uuid::UUIDgenerate()), sep = "_"),
+      file = path,
+      width = 9,
+      height = 9,
+      pointsize = 12,
+      standalone = TRUE,
+      setdims = FALSE
+    )
   
   devlenth <- length(dev.list())
   do.call(dsvg, args)
+  
+  # render the ggobj to the device
   tryCatch({
     print(ggobj)
   }, finally = {
@@ -338,11 +483,13 @@ generate_html_bracket <- function(league,
     }
   })
   
+  # read in the svg html
   html_str <- 
     read_file(path) %>%
     str_split("\n") %>%
     pluck(1)
   
+  # remove width/height constraints
   html_str[2] <- 
     if_else(
       str_detect(html_str[2], "width="),
@@ -350,28 +497,40 @@ generate_html_bracket <- function(league,
       html_str[2]
     )
   
+  # separate the svg into parts to inject javascript
   html_intro <- html_str[1:(length(html_str) - 1)]
   html_outro <- "</svg>"
   
+  # custom javascript function that changes the opacity for 
+  # elements with the same data_id on hover
   js <- 
     read_lines("js/plot.js") %>%
     str_c(collapse = "\n")
   
-  pngs <- 
-    paste0('<image x="286.87" y="174.8" width="69.53" height="69.53" xlink:href="', winbox$image, '" data-id="', winbox$team_data_id, '" />') %>%
-    str_c(collapse = "\n")
-  
+  # apply js function to all teams in the bracket
   styled_teams <- paste0("changeStyle(\"", teams$team_data_id, "\");\n")
   styled_teams <- str_c(styled_teams, collapse = "")
   
+  # coalesce into an injestible <script> tag
   script <- paste("<script>", js, styled_teams, "</script>", sep = "\n")
   
+  # add image elements so that team logos appear in the winbox on hover
+  pngs <- 
+    paste0('<image x="286.87" y="174.8" width="69.53" height="69.53" xlink:href="', 
+           winbox$image, 
+           '" data-id="', 
+           winbox$team_data_id, '" />') %>%
+    str_c(collapse = "\n")
+  
+  # augment ggobj html with team logos/javascript
   html_aug <- c(html_intro, pngs, html_outro, script)
   html_aug <- str_c(html_aug, collapse = "\n")
   
+  # save!
   html_aug %>%
-    write_lines("tmp.html")
+    write_lines(glue::glue("site/plot/{league}-{date}.html"))
   
+  # close the tmp file
   unlink(path)
   
 }
