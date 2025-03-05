@@ -386,12 +386,12 @@ mens,97,louisville-cardinals,Louisville,Louisville,#b82629
 mens,98,western-kentucky-hilltoppers,Western Kentucky,WKU,#d04746
 mens,99,lsu-tigers,LSU,LSU,#412377
 womens,100277,pensacola-christian-eagles,Pensacola Christian,Pensacola,gray60
-womens,103,boston-college-eagles,Boston College,BC,#REF!
-womens,104,boston-university-terriers,Boston University,BU,#REF!
+womens,103,boston-college-eagles,Boston College,BC,#7f2c34
+womens,104,boston-university-terriers,Boston University,BU,#bb3430
 womens,105890,barber-scotia-sabers,Barber-Scotia,BSC,gray60
-womens,107,holy-cross-crusaders,Holy Cross,Holy Cross,#REF!
+womens,107,holy-cross-crusaders,Holy Cross,Holy Cross,#5f318c
 womens,107722,northwood-university-knights,Northwood University,Northwood,gray60
-womens,108,harvard-crimson,Harvard,Harvard,#REF!
+womens,108,harvard-crimson,Harvard,Harvard,#962c3a
 womens,108784,southwestern-christian-sw-christian,Southwestern Christian,SW Christian,gray60
 womens,108785,indiana-kokomo-cougars,Indiana-Kokomo,Kokomo,gray60
 womens,108788,university-of-saint-mary,University Of Saint Mary,St Mary,gray60
@@ -400,7 +400,7 @@ womens,108824,crowleys-ridge-pioneers,Crowley's Ridge,Crowley's,gray60
 womens,108825,southwestern-christian-tx-sw-christian,Southwestern Christian (TX),SWC TX,gray60
 womens,108826,williams-baptist-eagles,Williams Baptist,Williams,gray60
 womens,108832,kent-state-tuscarawas-golden-eagles,Kent State-Tuscarawas,Tuscarawas,gray60
-womens,108833,cincinnati-christian-eagles,Cincinnati Christian,CCU,#REF!
+womens,108833,cincinnati-christian-eagles,Cincinnati Christian,CCU,gray60
 womens,108846,multnomah-university-lions,Multnomah University,Multnomah,gray60
 womens,108846,multnomah-university-multnomah,Multnomah University,Multnomah,gray60
 womens,108847,st-thomas-aquinas-spartans,St. Thomas Aquinas,St Thomas,gray60
@@ -423,7 +423,7 @@ womens,110398,maine-fort-kent-bengals,Maine-Fort Kent,Fort Kent,gray60
 womens,110400,pacific-union-pioneers,Pacific Union,PU,gray60
 womens,110406,johnson-wales-fl-johnson-wales-fl,Johnson & Wales (FL),JW FL,gray60
 womens,110442,indiana-university-east-indiana-east,Indiana University East,IUE,gray60
-womens,111,northeastern-huskies,Northeastern,NU,#REF!
+womens,111,northeastern-huskies,Northeastern,NU,#bf2e21
 womens,111196,middle-georgia-state-knights,Middle Georgia State,Mid GA,gray60
 womens,111197,converse-valkyries,Converse,Converse,gray60
 womens,111198,csu-pueblo-thunderwolves,CSU Pueblo,CSU Pueblo,gray60
@@ -441,14 +441,14 @@ womens,111959,carlow-celtics,Carlow,Carlow,gray60
 womens,111967,lincoln-christian-bulldogs,Lincoln Christian,Lincoln,gray60
 womens,111990,ottawa-university-arizona-spirit,Ottawa University Arizona,Ottowa,gray60
 womens,111998,suny-new-paltz-hawks,SUNY-New Paltz,SUNY,gray60
-womens,112358,long-island-university-sharks,Long Island University,LIU,#REF!
+womens,112358,long-island-university-sharks,Long Island University,LIU,#6fafe2
 womens,112703,eastern-nazarene-lions,Eastern Nazarene,Nazarene,gray60
 womens,112704,stevenson-mustangs,Stevenson,Stevenson,gray60
-womens,113,massachusetts-minutewomen,Massachusetts,UMass,#REF!
-womens,116,mount-st-marys-mountaineers,Mount St. Mary's,Mt. St. Mary,#REF!
-womens,119,towson-tigers,Towson,Towson,#REF!
-womens,12,arizona-wildcats,Arizona,Arizona,#REF!
-womens,120,maryland-terrapins,Maryland,Maryland,#REF!
+womens,113,massachusetts-minutewomen,Massachusetts,UMass,#7c2621
+womens,116,mount-st-marys-mountaineers,Mount St. Mary's,Mt. St. Mary,#172b4f
+womens,119,towson-tigers,Towson,Towson,#f3bd50
+womens,12,arizona-wildcats,Arizona,Arizona,#9d2127
+womens,120,maryland-terrapins,Maryland,Maryland,#d2353e
 womens,121690,wheaton-college-ma-lyons,Wheaton College (MA),Wheaton,gray60
 womens,121694,johnson-university-fl-suns,Johnson University (FL),JU FL,gray60
 womens,121715,rogers-state-hillcats,Rogers State,Rogers,gray60
@@ -461,393 +461,393 @@ womens,124758,suny-canton-sunycanton,Suny Canton,Canton,gray60
 womens,124760,university-of-science-and-arts-drovers,University of Science and Arts,US&A,gray60
 womens,124761,grace-christian-university-tigers,Grace Christian University,Grace,gray60
 womens,124765,bushnell-beacons,Bushnell,Bushnell,gray60
-womens,127,michigan-state-spartans,Michigan State,Mich State,#REF!
-womens,13,cal-poly-mustangs,Cal Poly,Cal Poly,#REF!
-womens,130,michigan-wolverines,Michigan,Michigan,#REF!
-womens,135,minnesota-golden-gophers,Minnesota,Minnesota,#REF!
-womens,139,saint-louis-billikens,Saint Louis,Saint Louis,#REF!
-womens,140,kansas-city-roos,Kansas City,Kansas City,#REF!
-womens,142,missouri-tigers,Missouri,Missouri,#REF!
-womens,145,ole-miss-rebels,Ole Miss,Ole Miss,#REF!
-womens,147,montana-state-bobcats,Montana State,MT State,#REF!
-womens,149,montana-lady-griz,Montana,Montana,#REF!
-womens,150,duke-blue-devils,Duke,Duke,#REF!
-womens,151,east-carolina-pirates,East Carolina,ECU,#REF!
-womens,152,nc-state-wolfpack,NC State,NC State,#REF!
-womens,153,north-carolina-tar-heels,North Carolina,UNC,#REF!
-womens,154,wake-forest-demon-deacons,Wake Forest,WFU,#REF!
-womens,155,north-dakota-fighting-hawks,North Dakota,UND,#REF!
-womens,156,creighton-bluejays,Creighton,Creighton,#REF!
-womens,158,nebraska-cornhuskers,Nebraska,Nebraska,#REF!
-womens,159,dartmouth-big-green,Dartmouth,Dartmouth,#REF!
-womens,16,sacramento-state-hornets,Sacramento State,Sac State,#REF!
-womens,160,new-hampshire-wildcats,New Hampshire,UNH,#REF!
-womens,161,fairleigh-dickinson-knights,Fairleigh Dickinson,FDU,#REF!
-womens,163,princeton-tigers,Princeton,Princeton,#REF!
-womens,164,rutgers-scarlet-knights,Rutgers,Rutgers,#REF!
-womens,166,new-mexico-state-aggies,New Mexico State,NM State,#REF!
-womens,167,new-mexico-lobos,New Mexico,New Mexico,#REF!
-womens,171,columbia-lions,Columbia,Columbia,#REF!
-womens,172,cornell-big-red,Cornell,Cornell,#REF!
-womens,179,st-bonaventure-bonnies,St. Bonaventure,SBU,#REF!
-womens,183,syracuse-orange,Syracuse,Syracuse,#REF!
-womens,189,bowling-green-falcons,Bowling Green,BGU,#REF!
-womens,193,miami-oh-redhawks,Miami (OH),Miami (OH),#REF!
-womens,194,ohio-state-buckeyes,Ohio State,Ohio State,#REF!
-womens,195,ohio-bobcats,Ohio,Ohio,#REF!
-womens,197,oklahoma-state-cowgirls,Oklahoma State,OSU,#REF!
-womens,198,oral-roberts-golden-eagles,Oral Roberts,ORU,#REF!
-womens,2,auburn-tigers,Auburn,Auburn,#REF!
-womens,2000,abilene-christian-wildcats,Abilene Christian,ACU,#REF!
-womens,2005,air-force-falcons,Air Force,Air Force,#REF!
-womens,2006,akron-zips,Akron,Akron,#REF!
-womens,201,oklahoma-sooners,Oklahoma,Oklahoma,#REF!
-womens,2010,alabama-am-bulldogs,Alabama A&M,AL A&M,#REF!
-womens,2011,alabama-state-lady-hornets,Alabama State,AL State,#REF!
-womens,2016,alcorn-state-lady-braves,Alcorn State,Alcorn,#REF!
+womens,127,michigan-state-spartans,Michigan State,Mich State,#27443b
+womens,13,cal-poly-mustangs,Cal Poly,Cal Poly,#1c471a
+womens,130,michigan-wolverines,Michigan,Michigan,#0c2649
+womens,135,minnesota-golden-gophers,Minnesota,Minnesota,#56132f
+womens,139,saint-louis-billikens,Saint Louis,Saint Louis,#163ba0
+womens,140,kansas-city-roos,Kansas City,Kansas City,#1d4983
+womens,142,missouri-tigers,Missouri,Missouri,#f3ba46
+womens,145,ole-miss-rebels,Ole Miss,Ole Miss,#ba2935
+womens,147,montana-state-bobcats,Montana State,MT State,#081f58
+womens,149,montana-lady-griz,Montana,Montana,#952c4b
+womens,150,duke-blue-devils,Duke,Duke,#102e82
+womens,151,east-carolina-pirates,East Carolina,ECU,#552f7e
+womens,152,nc-state-wolfpack,NC State,NC State,#221f20
+womens,153,north-carolina-tar-heels,North Carolina,UNC,#86aed0
+womens,154,wake-forest-demon-deacons,Wake Forest,WFU,#17191e
+womens,155,north-dakota-fighting-hawks,North Dakota,UND,#43964e
+womens,156,creighton-bluejays,Creighton,Creighton,#265ca5
+womens,158,nebraska-cornhuskers,Nebraska,Nebraska,#bf281b
+womens,159,dartmouth-big-green,Dartmouth,Dartmouth,#275d33
+womens,16,sacramento-state-hornets,Sacramento State,Sac State,#23563f
+womens,160,new-hampshire-wildcats,New Hampshire,UNH,#0c265a
+womens,161,fairleigh-dickinson-knights,Fairleigh Dickinson,FDU,#2a3347
+womens,163,princeton-tigers,Princeton,Princeton,#ea7035
+womens,164,rutgers-scarlet-knights,Rutgers,Rutgers,#b72b35
+womens,166,new-mexico-state-aggies,New Mexico State,NM State,#731e1d
+womens,167,new-mexico-lobos,New Mexico,New Mexico,#b5293e
+womens,171,columbia-lions,Columbia,Columbia,#1d4a81
+womens,172,cornell-big-red,Cornell,Cornell,#db4233
+womens,179,st-bonaventure-bonnies,St. Bonaventure,SBU,#4a3329
+womens,183,syracuse-orange,Syracuse,Syracuse,#cf4f25
+womens,189,bowling-green-falcons,Bowling Green,BGU,#e37e47
+womens,193,miami-oh-redhawks,Miami (OH),Miami (OH),#be2f35
+womens,194,ohio-state-buckeyes,Ohio State,Ohio State,#bd2d45
+womens,195,ohio-bobcats,Ohio,Ohio,#224635
+womens,197,oklahoma-state-cowgirls,Oklahoma State,OSU,#eb672c
+womens,198,oral-roberts-golden-eagles,Oral Roberts,ORU,#a08e3c
+womens,2,auburn-tigers,Auburn,Auburn,#d96c38
+womens,2000,abilene-christian-wildcats,Abilene Christian,ACU,#532f7e
+womens,2005,air-force-falcons,Air Force,Air Force,#13348d
+womens,2006,akron-zips,Akron,Akron,#111d3f
+womens,201,oklahoma-sooners,Oklahoma,Oklahoma,#962d39
+womens,2010,alabama-am-bulldogs,Alabama A&M,AL A&M,#84182b
+womens,2011,alabama-state-lady-hornets,Alabama State,AL State,#edc845
+womens,2016,alcorn-state-lady-braves,Alcorn State,Alcorn,#4c2f69
 womens,2017,alderson-broaddus-battlers,Alderson Broaddus,Alderson,gray60
-womens,202,tulsa-golden-hurricane,Tulsa,Tulsa,#REF!
-womens,2026,app-state-mountaineers,App State,App State,#REF!
-womens,2029,arkansas-pine-bluff-golden-lions,Arkansas-Pine Bluff,Pine Bluff,#REF!
-womens,2031,little-rock-trojans,Little Rock,Little Rock,#REF!
-womens,2032,arkansas-state-red-wolves,Arkansas State,AK State,#REF!
-womens,204,oregon-state-beavers,Oregon State,OR State,#REF!
-womens,2046,austin-peay-governors,Austin Peay,Austin Peay,#REF!
-womens,2050,ball-state-cardinals,Ball State,Ball State,#REF!
-womens,2057,belmont-bruins,Belmont,Belmont,#REF!
-womens,2065,bethune-cookman-wildcats,Bethune-Cookman,BCU,#REF!
-womens,2066,binghamton-bearcats,Binghamton,Bing,#REF!
-womens,2083,bucknell-bison,Bucknell,Bucknell,#REF!
-womens,2084,buffalo-bulls,Buffalo,Buffalo,#REF!
-womens,2086,butler-bulldogs,Butler,Butler,#REF!
+womens,202,tulsa-golden-hurricane,Tulsa,Tulsa,#13348f
+womens,2026,app-state-mountaineers,App State,App State,#f5d70b
+womens,2029,arkansas-pine-bluff-golden-lions,Arkansas-Pine Bluff,Pine Bluff,#e7b541
+womens,2031,little-rock-trojans,Little Rock,Little Rock,#542028
+womens,2032,arkansas-state-red-wolves,Arkansas State,AK State,#d2353e
+womens,204,oregon-state-beavers,Oregon State,OR State,#d15024
+womens,2046,austin-peay-governors,Austin Peay,Austin Peay,#b32934
+womens,2050,ball-state-cardinals,Ball State,Ball State,#bb271a
+womens,2057,belmont-bruins,Belmont,Belmont,#d44653
+womens,2065,bethune-cookman-wildcats,Bethune-Cookman,BCU,#7a1638
+womens,2066,binghamton-bearcats,Binghamton,Bing,#3e6e56
+womens,2083,bucknell-bison,Bucknell,Bucknell,#d96937
+womens,2084,buffalo-bulls,Buffalo,Buffalo,#265ca3
+womens,2086,butler-bulldogs,Butler,Butler,#000031
 womens,2088,byu-hawaii-seasiders,BYU-Hawaii,BYU-Hawaii,gray60
-womens,2097,campbell-fighting-camels,Campbell,Campbell,#REF!
-womens,2099,canisius-golden-griffins,Canisius,Canisius,#REF!
-womens,21,san-diego-state-aztecs,San Diego State,San Diego,#REF!
+womens,2097,campbell-fighting-camels,Campbell,Campbell,#eb562e
+womens,2099,canisius-golden-griffins,Canisius,Canisius,#e4b340
+womens,21,san-diego-state-aztecs,San Diego State,San Diego,#b43e3e
 womens,2100,cardinal-stritch-wolves,Cardinal Stritch,Cardinal,gray60
-womens,2110,central-arkansas-sugar-bears,Central Arkansas,Central AR,#REF!
-womens,2115,central-connecticut-blue-devils,Central Connecticut,Central CT,#REF!
-womens,2116,ucf-knights,UCF,UCF,#REF!
-womens,2117,central-michigan-chippewas,Central Michigan,Central MI,#REF!
-womens,2127,charleston-southern-buccaneers,Charleston Southern,Charleston,#REF!
-womens,213,penn-state-lady-lions,Penn State,Penn State,#REF!
-womens,2130,chicago-state-cougars,Chicago State,Chi State,#REF!
-womens,2132,cincinnati-bearcats,Cincinnati,Cincinnati,#REF!
-womens,2142,colgate-raiders,Colgate,Colgate,#REF!
-womens,2154,coppin-state-eagles,Coppin State,Coppin,#REF!
-womens,2166,davidson-wildcats,Davidson,Davidson,#REF!
-womens,2168,dayton-flyers,Dayton,Dayton,#REF!
-womens,2169,delaware-state-hornets,Delaware State,DE State,#REF!
-womens,2172,denver-pioneers,Denver,Denver,#REF!
-womens,2174,detroit-mercy-titans,Detroit Mercy,Detroit,#REF!
-womens,218,temple-owls,Temple,Temple,#REF!
-womens,2181,drake-bulldogs,Drake,Drake,#REF!
-womens,2182,drexel-dragons,Drexel,Drexel,#REF!
-womens,2184,duquesne-dukes,Duquesne,Duquesne,#REF!
-womens,219,pennsylvania-quakers,Pennsylvania,Penn,#REF!
-womens,2193,east-tennessee-state-bucs,East Tennessee State,E. TN State,#REF!
+womens,2110,central-arkansas-sugar-bears,Central Arkansas,Central AR,#49287e
+womens,2115,central-connecticut-blue-devils,Central Connecticut,Central CT,#215196
+womens,2116,ucf-knights,UCF,UCF,#b1a370
+womens,2117,central-michigan-chippewas,Central Michigan,Central MI,#610f32
+womens,2127,charleston-southern-buccaneers,Charleston Southern,Charleston,#0c2754
+womens,213,penn-state-lady-lions,Penn State,Penn State,#0f2c5e
+womens,2130,chicago-state-cougars,Chicago State,Chi State,#2c673e
+womens,2132,cincinnati-bearcats,Cincinnati,Cincinnati,#be2f35
+womens,2142,colgate-raiders,Colgate,Colgate,#771d1e
+womens,2154,coppin-state-eagles,Coppin State,Coppin,#152e54
+womens,2166,davidson-wildcats,Davidson,Davidson,#c3bdb6
+womens,2168,dayton-flyers,Dayton,Dayton,#cb2c38
+womens,2169,delaware-state-hornets,Delaware State,DE State,#d93738
+womens,2172,denver-pioneers,Denver,Denver,#8b1a31
+womens,2174,detroit-mercy-titans,Detroit Mercy,Detroit,#9b233f
+womens,218,temple-owls,Temple,Temple,#902d38
+womens,2181,drake-bulldogs,Drake,Drake,#225491
+womens,2182,drexel-dragons,Drexel,Drexel,#f8d86f
+womens,2184,duquesne-dukes,Duquesne,Duquesne,#111d3f
+womens,219,pennsylvania-quakers,Pennsylvania,Penn,#091e57
+womens,2193,east-tennessee-state-bucs,East Tennessee State,E. TN State,#0f2c5e
 womens,2196,eastern-university-pa-eagles,Eastern University (PA),EUPA,gray60
-womens,2197,eastern-illinois-panthers,Eastern Illinois,East IL,#REF!
-womens,2198,eastern-kentucky-colonels,Eastern Kentucky,East KY,#REF!
-womens,2199,eastern-michigan-eagles,Eastern Michigan,East MI,#REF!
-womens,221,pittsburgh-panthers,Pittsburgh,Pittsburgh,#REF!
-womens,2210,elon-phoenix,Elon,Elon,#REF!
-womens,2217,fairfield-stags,Fairfield,Fairfield,#REF!
-womens,222,villanova-wildcats,Villanova,Villanova,#REF!
-womens,2226,florida-atlantic-owls,Florida Atlantic,FAU,#REF!
-womens,2229,florida-international-panthers,Florida International,FL Int'l,#REF!
-womens,2230,fordham-rams,Fordham,Fordham,#REF!
+womens,2197,eastern-illinois-panthers,Eastern Illinois,East IL,#1c348f
+womens,2198,eastern-kentucky-colonels,Eastern Kentucky,East KY,#441a20
+womens,2199,eastern-michigan-eagles,Eastern Michigan,East MI,#2f6844
+womens,221,pittsburgh-panthers,Pittsburgh,Pittsburgh,#1a348f
+womens,2210,elon-phoenix,Elon,Elon,#691111
+womens,2217,fairfield-stags,Fairfield,Fairfield,#bf3736
+womens,222,villanova-wildcats,Villanova,Villanova,#87caec
+womens,2226,florida-atlantic-owls,Florida Atlantic,FAU,#1a4378
+womens,2229,florida-international-panthers,Florida International,FL Int'l,#111d3f
+womens,2230,fordham-rams,Fordham,Fordham,#7a1638
 womens,2233,franklin-grizzlies,Franklin,Franklin,gray60
-womens,2239,cal-state-fullerton-titans,Cal State Fullerton,Fullerton,#REF!
-womens,2241,gardner-webb-runnin-bulldogs,Gardner-Webb,GW,#REF!
-womens,2244,george-mason-patriots,George Mason,GMU,#REF!
-womens,2247,georgia-state-panthers,Georgia State,GA State,#REF!
-womens,225,brown-bears,Brown,Brown,#REF!
-womens,2250,gonzaga-bulldogs,Gonzaga,Gonzaga,#REF!
-womens,2253,grand-canyon-lopes,Grand Canyon,GCU,#REF!
-womens,2261,hampton-lady-pirates,Hampton,Hampton,#REF!
-womens,227,rhode-island-rams,Rhode Island,URI,#REF!
-womens,2272,high-point-panthers,High Point,High Point,#REF!
-womens,2275,hofstra-pride,Hofstra,Hofstra,#REF!
-womens,2277,houston-christian-huskies,Houston Christian,HCU,#REF!
-womens,228,clemson-tigers,Clemson,Clemson,#REF!
+womens,2239,cal-state-fullerton-titans,Cal State Fullerton,Fullerton,#ed7338
+womens,2241,gardner-webb-runnin-bulldogs,Gardner-Webb,GW,#131313
+womens,2244,george-mason-patriots,George Mason,GMU,#315736
+womens,2247,georgia-state-panthers,Georgia State,GA State,#11319a
+womens,225,brown-bears,Brown,Brown,#4a372b
+womens,2250,gonzaga-bulldogs,Gonzaga,Gonzaga,#d0343e
+womens,2253,grand-canyon-lopes,Grand Canyon,GCU,#4c2591
+womens,2261,hampton-lady-pirates,Hampton,Hampton,#335593
+womens,227,rhode-island-rams,Rhode Island,URI,#78a6d6
+womens,2272,high-point-panthers,High Point,High Point,#2a3891
+womens,2275,hofstra-pride,Hofstra,Hofstra,#22539a
+womens,2277,houston-christian-huskies,Houston Christian,HCU,#132e82
+womens,228,clemson-tigers,Clemson,Clemson,#e67043
 womens,2281,huston-tillotson-rams,Huston-Tillotson,Tillotson,gray60
-womens,2287,illinois-state-redbirds,Illinois State,IL State,#REF!
-womens,2294,iowa-hawkeyes,Iowa,Iowa,#REF!
-womens,2296,jackson-state-lady-tigers,Jackson State,Jackson,#REF!
-womens,23,san-jose-state-spartans,San José State,San José,#REF!
-womens,2305,kansas-jayhawks,Kansas,Kansas,#REF!
-womens,2306,kansas-state-wildcats,Kansas State,K State,#REF!
-womens,2309,kent-state-golden-flashes,Kent State,Kent State,#REF!
-womens,231,furman-paladins,Furman,Furman,#REF!
-womens,232,charleston-cougars,Charleston,Charleston,#REF!
-womens,2320,lamar-cardinals,Lamar,Lamar,#REF!
+womens,2287,illinois-state-redbirds,Illinois State,IL State,#bc4750
+womens,2294,iowa-hawkeyes,Iowa,Iowa,#000000
+womens,2296,jackson-state-lady-tigers,Jackson State,Jackson,#0f203b
+womens,23,san-jose-state-spartans,San José State,San José,#1437a2
+womens,2305,kansas-jayhawks,Kansas,Kansas,#2050b3
+womens,2306,kansas-state-wildcats,Kansas State,K State,#2e0d54
+womens,2309,kent-state-golden-flashes,Kent State,Kent State,#153872
+womens,231,furman-paladins,Furman,Furman,#522e7e
+womens,232,charleston-cougars,Charleston,Charleston,#702b33
+womens,2320,lamar-cardinals,Lamar,Lamar,#da364a
 womens,2321,lambuth-eagles,Lambuth,Lambuth,gray60
 womens,2323,lane-college-dragons,Lane College,Lane,gray60
-womens,2325,la-salle-explorers,La Salle,La Salle,#REF!
-womens,2329,lehigh-mountain-hawks,Lehigh,Lehigh,#REF!
-womens,233,south-dakota-coyotes,South Dakota,USD,#REF!
-womens,2330,le-moyne-dolphins,Le Moyne,Le Moyne,#REF!
-womens,2335,liberty-flames,Liberty,Liberty,#REF!
+womens,2325,la-salle-explorers,La Salle,La Salle,#f7d046
+womens,2329,lehigh-mountain-hawks,Lehigh,Lehigh,#7e3f27
+womens,233,south-dakota-coyotes,South Dakota,USD,#c12f3a
+womens,2330,le-moyne-dolphins,Le Moyne,Le Moyne,#1b4531
+womens,2335,liberty-flames,Liberty,Liberty,#b42b38
 womens,2341,liu-brooklyn-blackbirds,LIU Brooklyn,LIU,gray60
-womens,2344,longwood-lancers,Longwood,Longwood,#REF!
-womens,2348,louisiana-tech-lady-techsters,Louisiana Tech,LA Tech,#REF!
-womens,2349,umass-lowell-river-hawks,UMass Lowell,Lowell,#REF!
-womens,235,memphis-tigers,Memphis,Memphis,#REF!
-womens,2350,loyola-chicago-ramblers,Loyola Chicago,Loyola Chi,#REF!
-womens,2351,loyola-marymount-lions,Loyola Marymount,Loyola Mt,#REF!
-womens,2352,loyola-maryland-greyhounds,Loyola Maryland,Loyola MD,#REF!
-womens,236,chattanooga-mocs,Chattanooga,Chattanooga,#REF!
-womens,2363,manhattan-jaspers,Manhattan,Manhattan,#REF!
-womens,2368,marist-red-foxes,Marist,Marist,#REF!
-womens,2377,mcneese-cowgirls,McNeese,McNeese,#REF!
-womens,2378,umbc-retrievers,UMBC,UMBC,#REF!
-womens,2379,maryland-eastern-shore-hawks,Maryland Eastern Shore,UMES,#REF!
-womens,238,vanderbilt-commodores,Vanderbilt,Vanderbilt,#REF!
-womens,2382,mercer-bears,Mercer,Mercer,#REF!
-womens,2385,mercyhurst-lakers,Mercyhurst,Mercyhurst,#REF!
-womens,239,baylor-bears,Baylor,Baylor,#REF!
-womens,2390,miami-hurricanes,Miami,Miami,#REF!
-womens,2393,middle-tennessee-blue-raiders,Middle Tennessee,Middle TN,#REF!
-womens,24,stanford-cardinal,Stanford,Stanford,#REF!
-womens,2400,mississippi-valley-state-devilettes,Mississippi Valley State,MS Valley,#REF!
-womens,2405,monmouth-hawks,Monmouth,Monmouth,#REF!
-womens,2413,morehead-state-eagles,Morehead State,Morehead,#REF!
-womens,2415,morgan-state-lady-bears,Morgan State,Morgan,#REF!
-womens,242,rice-owls,Rice,Rice,#REF!
-womens,2426,navy-midshipmen,Navy,Navy,#REF!
-womens,2427,unc-asheville-bulldogs,UNC Asheville,Asheville,#REF!
-womens,2428,north-carolina-central-eagles,North Carolina Central,NC Central,#REF!
-womens,2429,charlotte-49ers,Charlotte,Charlotte,#REF!
-womens,2430,unc-greensboro-spartans,UNC Greensboro,Greensboro,#REF!
-womens,2433,ul-monroe-warhawks,UL Monroe,UL Monroe,#REF!
-womens,2437,omaha-mavericks,Omaha,Omaha,#REF!
-womens,2439,unlv-lady-rebels,UNLV,UNLV,#REF!
-womens,2440,nevada-wolf-pack,Nevada,Nevada,#REF!
-womens,2443,new-orleans-privateers,New Orleans,NOLA,#REF!
-womens,2447,nicholls-colonels,Nicholls,Nicholls,#REF!
-womens,2448,north-carolina-at-aggies,North Carolina A&T,NC A&T,#REF!
-womens,2449,north-dakota-state-bison,North Dakota State,ND State,#REF!
-womens,245,texas-am-aggies,Texas A&M,Texas A&M,#REF!
-womens,2450,norfolk-state-spartans,Norfolk State,Norfolk State,#REF!
-womens,2453,north-alabama-lions,North Alabama,N Alabama,#REF!
-womens,2454,north-florida-ospreys,North Florida,N Florida,#REF!
-womens,2458,northern-colorado-bears,Northern Colorado,N Colorado,#REF!
-womens,2459,northern-illinois-huskies,Northern Illinois,N Illinois,#REF!
-womens,2460,northern-iowa-panthers,Northern Iowa,N Iowa,#REF!
-womens,2463,cal-state-northridge-matadors,Cal State Northridge,Northridge,#REF!
-womens,2464,northern-arizona-lumberjacks,Northern Arizona,N Arizona,#REF!
-womens,2466,northwestern-state-lady-demons,Northwestern State,NW State,#REF!
-womens,2473,oakland-golden-grizzlies,Oakland,Oakland,#REF!
-womens,248,houston-cougars,Houston,Houston,#REF!
-womens,2483,oregon-ducks,Oregon,Oregon,#REF!
-womens,249,north-texas-mean-green,North Texas,North Texas,#REF!
-womens,2492,pepperdine-waves,Pepperdine,Pepperdine,#REF!
-womens,25,california-golden-bears,California,California,#REF!
-womens,250,ut-arlington-mavericks,UT Arlington,Arlington,#REF!
-womens,2501,portland-pilots,Portland,Portland,#REF!
-womens,2502,portland-state-vikings,Portland State,PSU,#REF!
-womens,2504,prairie-view-am-lady-panthers,Prairie View A&M,PVAMU,#REF!
-womens,2506,presbyterian-blue-hose,Presbyterian,PC,#REF!
-womens,2507,providence-friars,Providence,Providence,#REF!
-womens,2509,purdue-boilermakers,Purdue,Purdue,#REF!
-womens,251,texas-longhorns,Texas,Texas,#REF!
-womens,2511,queens-university-royals,Queens University,Queens,#REF!
-womens,2514,quinnipiac-bobcats,Quinnipiac,Quinnipiac,#REF!
-womens,2515,radford-highlanders,Radford,Radford,#REF!
-womens,252,byu-cougars,BYU,BYU,#REF!
-womens,2520,rider-broncs,Rider,Rider,#REF!
-womens,2523,robert-morris-colonials,Robert Morris,RMU,#REF!
-womens,2529,sacred-heart-pioneers,Sacred Heart,SHU,#REF!
-womens,253,southern-utah-thunderbirds,Southern Utah,S Utah,#REF!
-womens,2534,sam-houston-bearkats,Sam Houston,SH,#REF!
-womens,2535,samford-bulldogs,Samford,Samford,#REF!
-womens,2539,san-francisco-dons,San Francisco,San Fran,#REF!
-womens,254,utah-utes,Utah,Utah,#REF!
-womens,2540,uc-santa-barbara-gauchos,UC Santa Barbara,UCSB,#REF!
-womens,2541,santa-clara-broncos,Santa Clara,Santa Clara,#REF!
-womens,2545,se-louisiana-lady-lions,SE Louisiana,SE LA,#REF!
-womens,2546,southeast-missouri-state-redhawks,Southeast Missouri State,SEMO,#REF!
-womens,2547,seattle-u-redhawks,Seattle U,Seattle U,#REF!
-womens,2550,seton-hall-pirates,Seton Hall,Seton Hall,#REF!
-womens,256,james-madison-dukes,James Madison,JMU,#REF!
-womens,2561,siena-saints,Siena,Siena,#REF!
-womens,2565,siu-edwardsville-cougars,SIU Edwardsville,SIUE,#REF!
-womens,2567,smu-mustangs,SMU,SMU,#REF!
-womens,2569,south-carolina-state-lady-bulldogs,South Carolina State,SC State,#REF!
-womens,257,richmond-spiders,Richmond,Richmond,#REF!
-womens,2571,south-dakota-state-jackrabbits,South Dakota State,SD State,#REF!
-womens,2572,southern-miss-lady-eagles,Southern Miss,S Miss,#REF!
-womens,2579,south-carolina-gamecocks,South Carolina,SC,#REF!
-womens,258,virginia-cavaliers,Virginia,Virginia,#REF!
-womens,2582,southern-jaguars,Southern,Southern,#REF!
-womens,259,virginia-tech-hokies,Virginia Tech,VT,#REF!
-womens,2597,st-francis-brooklyn-terriers,St. Francis Brooklyn,Brooklyn,#REF!
-womens,2598,st-francis-pa-red-flash,St. Francis (PA),SFU,#REF!
-womens,2599,st-johns-red-storm,St. John's,St. John's,#REF!
-womens,26,ucla-bruins,UCLA,UCLA,#REF!
-womens,2603,saint-josephs-hawks,Saint Joseph's,SJU,#REF!
-womens,2608,saint-marys-gaels,Saint Mary's,SMC,#REF!
-womens,261,vermont-catamounts,Vermont,Vermont,#REF!
-womens,2612,saint-peters-peacocks,Saint Peter's,St Peters,#REF!
-womens,2617,stephen-f-austin-ladyjacks,Stephen F. Austin,SF Austin,#REF!
-womens,2619,stony-brook-seawolves,Stony Brook,Stony Brook,#REF!
-womens,2623,missouri-state-lady-bears,Missouri State,MO State,#REF!
-womens,2627,tarleton-state-texans,Tarleton State,Tarleton,#REF!
-womens,2628,tcu-horned-frogs,TCU,TCU,#REF!
-womens,2630,ut-martin-skyhawks,UT Martin,UT Martin,#REF!
-womens,2633,tennessee-lady-volunteers,Tennessee,Tennessee,#REF!
-womens,2634,tennessee-state-lady-tigers,Tennessee State,TN State,#REF!
-womens,2635,tennessee-tech-golden-eagles,Tennessee Tech,TN Tech,#REF!
-womens,2636,utsa-roadrunners,UTSA,UTSA,#REF!
-womens,2638,utep-miners,UTEP,UTEP,#REF!
-womens,264,washington-huskies,Washington,Washington,#REF!
-womens,2640,texas-southern-tigers,Texas Southern,TSU,#REF!
-womens,2641,texas-tech-lady-raiders,Texas Tech,Texas Tech,#REF!
-womens,2649,toledo-rockets,Toledo,Toledo,#REF!
-womens,265,washington-state-cougars,Washington State,WSU,#REF!
-womens,2653,troy-trojans,Troy,Troy,#REF!
-womens,2655,tulane-green-wave,Tulane,Tulane,#REF!
-womens,2666,urbana-blue-knights,Urbana,Urbana,#REF!
-womens,2670,vcu-rams,VCU,VCU,#REF!
-womens,2671,virginia-intermont-cobras,Virginia Intermont,VA Inter,#REF!
-womens,2674,valparaiso-beacons,Valparaiso,Valparaiso,#REF!
-womens,2681,wagner-seahawks,Wagner,Wagner,#REF!
-womens,269,marquette-golden-eagles,Marquette,Marquette,#REF!
-womens,2692,weber-state-wildcats,Weber State,Weber State,#REF!
-womens,2698,west-georgia-wolves,West Georgia,UWG,#REF!
-womens,27,uc-riverside-highlanders,UC Riverside,Riverside,#REF!
-womens,270,milwaukee-panthers,Milwaukee,Milwaukee,#REF!
+womens,2344,longwood-lancers,Longwood,Longwood,#121d3f
+womens,2348,louisiana-tech-lady-techsters,Louisiana Tech,LA Tech,#c9393a
+womens,2349,umass-lowell-river-hawks,UMass Lowell,Lowell,#be3436
+womens,235,memphis-tigers,Memphis,Memphis,#1a4281
+womens,2350,loyola-chicago-ramblers,Loyola Chicago,Loyola Chi,#502021
+womens,2351,loyola-marymount-lions,Loyola Marymount,Loyola Mt,#9d2c3b
+womens,2352,loyola-maryland-greyhounds,Loyola Maryland,Loyola MD,#284b47
+womens,236,chattanooga-mocs,Chattanooga,Chattanooga,#f2ba50
+womens,2363,manhattan-jaspers,Manhattan,Manhattan,#2f6e41
+womens,2368,marist-red-foxes,Marist,Marist,#d2353e
+womens,2377,mcneese-cowgirls,McNeese,McNeese,#0f2d94
+womens,2378,umbc-retrievers,UMBC,UMBC,#f3c144
+womens,2379,maryland-eastern-shore-hawks,Maryland Eastern Shore,UMES,#5d2232
+womens,238,vanderbilt-commodores,Vanderbilt,Vanderbilt,#b4a163
+womens,2382,mercer-bears,Mercer,Mercer,#e68841
+womens,2385,mercyhurst-lakers,Mercyhurst,Mercyhurst,#2c6658
+womens,239,baylor-bears,Baylor,Baylor,#244635
+womens,2390,miami-hurricanes,Miami,Miami,#e37a39
+womens,2393,middle-tennessee-blue-raiders,Middle Tennessee,Middle TN,#2e6bb1
+womens,24,stanford-cardinal,Stanford,Stanford,#80221c
+womens,2400,mississippi-valley-state-devilettes,Mississippi Valley State,MS Valley,#dc4134
+womens,2405,monmouth-hawks,Monmouth,Monmouth,#21345b
+womens,2413,morehead-state-eagles,Morehead State,Morehead,#f8d74e
+womens,2415,morgan-state-lady-bears,Morgan State,Morgan,#184080
+womens,242,rice-owls,Rice,Rice,#173d7a
+womens,2426,navy-midshipmen,Navy,Navy,#092157
+womens,2427,unc-asheville-bulldogs,UNC Asheville,Asheville,#1941aa
+womens,2428,north-carolina-central-eagles,North Carolina Central,NC Central,#8b1b31
+womens,2429,charlotte-49ers,Charlotte,Charlotte,#265641
+womens,2430,unc-greensboro-spartans,UNC Greensboro,Greensboro,#132041
+womens,2433,ul-monroe-warhawks,UL Monroe,UL Monroe,#802b35
+womens,2437,omaha-mavericks,Omaha,Omaha,#d2353e
+womens,2439,unlv-lady-rebels,UNLV,UNLV,#bd271b
+womens,2440,nevada-wolf-pack,Nevada,Nevada,#0f2c5e
+womens,2443,new-orleans-privateers,New Orleans,NOLA,#265ca1
+womens,2447,nicholls-colonels,Nicholls,Nicholls,#b42b36
+womens,2448,north-carolina-at-aggies,North Carolina A&T,NC A&T,#f1bc4b
+womens,2449,north-dakota-state-bison,North Dakota State,ND State,#23553e
+womens,245,texas-am-aggies,Texas A&M,Texas A&M,#490905
+womens,2450,norfolk-state-spartans,Norfolk State,Norfolk State,#f1bb41
+womens,2453,north-alabama-lions,North Alabama,N Alabama,#532d7d
+womens,2454,north-florida-ospreys,North Florida,N Florida,#061946
+womens,2458,northern-colorado-bears,Northern Colorado,N Colorado,#f3c14b
+womens,2459,northern-illinois-huskies,Northern Illinois,N Illinois,#bb271a
+womens,2460,northern-iowa-panthers,Northern Iowa,N Iowa,#44156a
+womens,2463,cal-state-northridge-matadors,Cal State Northridge,Northridge,#bf3437
+womens,2464,northern-arizona-lumberjacks,Northern Arizona,N Arizona,#ebb93f
+womens,2466,northwestern-state-lady-demons,Northwestern State,NW State,#45308c
+womens,2473,oakland-golden-grizzlies,Oakland,Oakland,#b69763
+womens,248,houston-cougars,Houston,Houston,#b93a3e
+womens,2483,oregon-ducks,Oregon,Oregon,#2f6e37
+womens,249,north-texas-mean-green,North Texas,North Texas,#3f8d3f
+womens,2492,pepperdine-waves,Pepperdine,Pepperdine,#04143d
+womens,25,california-golden-bears,California,California,#0f2c5e
+womens,250,ut-arlington-mavericks,UT Arlington,Arlington,#dd783a
+womens,2501,portland-pilots,Portland,Portland,#2e046d
+womens,2502,portland-state-vikings,Portland State,PSU,#244634
+womens,2504,prairie-view-am-lady-panthers,Prairie View A&M,PVAMU,#000000
+womens,2506,presbyterian-blue-hose,Presbyterian,PC,#285fa5
+womens,2507,providence-friars,Providence,Providence,#000000
+womens,2509,purdue-boilermakers,Purdue,Purdue,#ccb88d
+womens,251,texas-longhorns,Texas,Texas,#bf5f36
+womens,2511,queens-university-royals,Queens University,Queens,#162b68
+womens,2514,quinnipiac-bobcats,Quinnipiac,Quinnipiac,#e7b14f
+womens,2515,radford-highlanders,Radford,Radford,#b12425
+womens,252,byu-cougars,BYU,BYU,#173c9f
+womens,2520,rider-broncs,Rider,Rider,#9d3443
+womens,2523,robert-morris-colonials,Robert Morris,RMU,#be2f35
+womens,2529,sacred-heart-pioneers,Sacred Heart,SHU,#bd2d45
+womens,253,southern-utah-thunderbirds,Southern Utah,S Utah,#b83632
+womens,2534,sam-houston-bearkats,Sam Houston,SH,#d36238
+womens,2535,samford-bulldogs,Samford,Samford,#162646
+womens,2539,san-francisco-dons,San Francisco,San Fran,#22533e
+womens,254,utah-utes,Utah,Utah,#d72e35
+womens,2540,uc-santa-barbara-gauchos,UC Santa Barbara,UCSB,#1b115c
+womens,2541,santa-clara-broncos,Santa Clara,Santa Clara,#6f2a3a
+womens,2545,se-louisiana-lady-lions,SE Louisiana,SE LA,#2c5535
+womens,2546,southeast-missouri-state-redhawks,Southeast Missouri State,SEMO,#c8333a
+womens,2547,seattle-u-redhawks,Seattle U,Seattle U,#ac3137
+womens,2550,seton-hall-pirates,Seton Hall,Seton Hall,#285fa5
+womens,256,james-madison-dukes,James Madison,JMU,#362767
+womens,2561,siena-saints,Siena,Siena,#2b644a
+womens,2565,siu-edwardsville-cougars,SIU Edwardsville,SIUE,#cf4635
+womens,2567,smu-mustangs,SMU,SMU,#bb273a
+womens,2569,south-carolina-state-lady-bulldogs,South Carolina State,SC State,#84182b
+womens,257,richmond-spiders,Richmond,Richmond,#0e2b5a
+womens,2571,south-dakota-state-jackrabbits,South Dakota State,SD State,#f8d347
+womens,2572,southern-miss-lady-eagles,Southern Miss,S Miss,#f4c747
+womens,2579,south-carolina-gamecocks,South Carolina,SC,#8b1b31
+womens,258,virginia-cavaliers,Virginia,Virginia,#e55933
+womens,2582,southern-jaguars,Southern,Southern,#73addc
+womens,259,virginia-tech-hokies,Virginia Tech,VT,#5a0d30
+womens,2597,st-francis-brooklyn-terriers,St. Francis Brooklyn,Brooklyn,gray60
+womens,2598,st-francis-pa-red-flash,St. Francis (PA),SFU,#ac3836
+womens,2599,st-johns-red-storm,St. John's,St. John's,#b4313e
+womens,26,ucla-bruins,UCLA,UCLA,#3871a8
+womens,2603,saint-josephs-hawks,Saint Joseph's,SJU,#9b2232
+womens,2608,saint-marys-gaels,Saint Mary's,SMC,#102f54
+womens,261,vermont-catamounts,Vermont,Vermont,#204f32
+womens,2612,saint-peters-peacocks,Saint Peter's,St Peters,#163b6d
+womens,2617,stephen-f-austin-ladyjacks,Stephen F. Austin,SF Austin,#562991
+womens,2619,stony-brook-seawolves,Stony Brook,Stony Brook,#112241
+womens,2623,missouri-state-lady-bears,Missouri State,MO State,#541113
+womens,2627,tarleton-state-texans,Tarleton State,Tarleton,#532d7d
+womens,2628,tcu-horned-frogs,TCU,TCU,#471c74
+womens,2630,ut-martin-skyhawks,UT Martin,UT Martin,#0d2959
+womens,2633,tennessee-lady-volunteers,Tennessee,Tennessee,#ef8933
+womens,2634,tennessee-state-lady-tigers,Tennessee State,TN State,#2d3287
+womens,2635,tennessee-tech-golden-eagles,Tennessee Tech,TN Tech,#564094
+womens,2636,utsa-roadrunners,UTSA,UTSA,#12223d
+womens,2638,utep-miners,UTEP,UTEP,#111d3f
+womens,264,washington-huskies,Washington,Washington,#2e046a
+womens,2640,texas-southern-tigers,Texas Southern,TSU,#8b3759
+womens,2641,texas-tech-lady-raiders,Texas Tech,Texas Tech,#c83c2b
+womens,2649,toledo-rockets,Toledo,Toledo,#f7d047
+womens,265,washington-state-cougars,Washington State,WSU,#8c2a35
+womens,2653,troy-trojans,Troy,Troy,#85323c
+womens,2655,tulane-green-wave,Tulane,Tulane,#2a634a
+womens,2666,urbana-blue-knights,Urbana,Urbana,gray60
+womens,2670,vcu-rams,VCU,VCU,#daa040
+womens,2671,virginia-intermont-cobras,Virginia Intermont,VA Inter,gray60
+womens,2674,valparaiso-beacons,Valparaiso,Valparaiso,#553311
+womens,2681,wagner-seahawks,Wagner,Wagner,#1c473b
+womens,269,marquette-golden-eagles,Marquette,Marquette,#123262
+womens,2692,weber-state-wildcats,Weber State,Weber State,#45287d
+womens,2698,west-georgia-wolves,West Georgia,UWG,#12329b
+womens,27,uc-riverside-highlanders,UC Riverside,Riverside,#163ba0
+womens,270,milwaukee-panthers,Milwaukee,Milwaukee,#77797b
 womens,2704,west-texas-am-buffaloes,West Texas A&M,West TAMU,gray60
-womens,2710,western-illinois-leathernecks,Western Illinois,West IL,#REF!
-womens,2711,western-michigan-broncos,Western Michigan,West MI,#REF!
-womens,2717,western-carolina-catamounts,Western Carolina,W Carolina,#REF!
-womens,2724,wichita-state-shockers,Wichita State,Wichita,#REF!
-womens,2729,william-mary-tribe,William & Mary,W&M,#REF!
-womens,2737,winthrop-eagles,Winthrop,Winthrop,#REF!
-womens,2739,green-bay-phoenix,Green Bay,Green Bay,#REF!
-womens,2747,wofford-terriers,Wofford,Wofford,#REF!
-womens,275,wisconsin-badgers,Wisconsin,Wisconsin,#REF!
-womens,2750,wright-state-raiders,Wright State,Wright,#REF!
-womens,2751,wyoming-cowgirls,Wyoming,Wyoming,#REF!
-womens,2752,xavier-musketeers,Xavier,Xavier,#REF!
-womens,2754,youngstown-state-penguins,Youngstown State,Youngstown,#REF!
-womens,2755,grambling-lady-tigers,Grambling,Grambling,#REF!
-womens,276,marshall-thundering-herd,Marshall,Marshall,#REF!
-womens,277,west-virginia-mountaineers,West Virginia,WVU,#REF!
-womens,2771,merrimack-warriors,Merrimack,Merrimack,#REF!
-womens,278,fresno-state-bulldogs,Fresno State,Fresno,#REF!
-womens,279,pacific-tigers,Pacific,Pacific,#REF!
-womens,28,uc-san-diego-tritons,UC San Diego,UCSD,#REF!
-womens,2803,bryant-bulldogs,Bryant,Bryant,#REF!
-womens,2815,lindenwood-lions,Lindenwood,Lindenwood,#REF!
-womens,282,indiana-state-sycamores,Indiana State,IN State,#REF!
-womens,2837,east-texas-am-lions,East Texas A&M,East TAMU,#REF!
-womens,284,stonehill-skyhawks,Stonehill,Stonehill,#REF!
-womens,2856,california-baptist-lancers,California Baptist,CA Baptist,#REF!
+womens,2710,western-illinois-leathernecks,Western Illinois,West IL,#4e2b8e
+womens,2711,western-michigan-broncos,Western Michigan,West MI,#4b1e07
+womens,2717,western-carolina-catamounts,Western Carolina,W Carolina,#55308c
+womens,2724,wichita-state-shockers,Wichita State,Wichita,#f8d448
+womens,2729,william-mary-tribe,William & Mary,W&M,#2b5541
+womens,2737,winthrop-eagles,Winthrop,Winthrop,#9a2035
+womens,2739,green-bay-phoenix,Green Bay,Green Bay,#1b2f29
+womens,2747,wofford-terriers,Wofford,Wofford,#856f50
+womens,275,wisconsin-badgers,Wisconsin,Wisconsin,#b12535
+womens,2750,wright-state-raiders,Wright State,Wright,#2f6d55
+womens,2751,wyoming-cowgirls,Wyoming,Wyoming,#453026
+womens,2752,xavier-musketeers,Xavier,Xavier,#24304c
+womens,2754,youngstown-state-penguins,Youngstown State,Youngstown,#d2353e
+womens,2755,grambling-lady-tigers,Grambling,Grambling,#e7b541
+womens,276,marshall-thundering-herd,Marshall,Marshall,#4eab4f
+womens,277,west-virginia-mountaineers,West Virginia,WVU,#0c2752
+womens,2771,merrimack-warriors,Merrimack,Merrimack,#133469
+womens,278,fresno-state-bulldogs,Fresno State,Fresno,#b42b36
+womens,279,pacific-tigers,Pacific,Pacific,#cb6937
+womens,28,uc-san-diego-tritons,UC San Diego,UCSD,#182749
+womens,2803,bryant-bulldogs,Bryant,Bryant,#a29578
+womens,2815,lindenwood-lions,Lindenwood,Lindenwood,#b0a16f
+womens,282,indiana-state-sycamores,Indiana State,IN State,#224b8c
+womens,2837,east-texas-am-lions,East Texas A&M,East TAMU,#143767
+womens,284,stonehill-skyhawks,Stonehill,Stonehill,#322a76
+womens,2856,california-baptist-lancers,California Baptist,CA Baptist,#0a2350
 womens,2859,cascade-thunderbirds,Cascade,Cascade,gray60
-womens,2868,holy-names-university-hawks,Holy Names University,Holy Names,#REF!
-womens,2870,purdue-fort-wayne-mastodons,Purdue Fort Wayne,PFW,#REF!
-womens,288,lipscomb-bisons,Lipscomb,Lipscomb,#REF!
-womens,2885,njit-highlanders,NJIT,NJIT,#REF!
+womens,2868,holy-names-university-hawks,Holy Names University,Holy Names,gray60
+womens,2870,purdue-fort-wayne-mastodons,Purdue Fort Wayne,PFW,#c0a049
+womens,288,lipscomb-bisons,Lipscomb,Lipscomb,#f3bb44
+womens,2885,njit-highlanders,NJIT,NJIT,#151f45
 womens,2894,sioux-falls-cougars,Sioux Falls,Sioux Falls,gray60
-womens,290,georgia-southern-eagles,Georgia Southern,GA South,#REF!
-womens,2900,st-thomas-minnesota-tommies,St. Thomas-Minnesota,St Thomas,#REF!
-womens,2908,south-carolina-upstate-spartans,South Carolina Upstate,USC Upstate,#REF!
-womens,2916,incarnate-word-cardinals,Incarnate Word,UIW,#REF!
-womens,292,ut-rio-grande-valley-vaqueros,UT Rio Grande Valley,UTRGV,#REF!
-womens,2934,cal-state-bakersfield-roadrunners,Cal State Bakersfield,Bakersfield,#REF!
-womens,294,jacksonville-dolphins,Jacksonville,Jacksonville,#REF!
-womens,295,old-dominion-monarchs,Old Dominion,ODU,#REF!
+womens,290,georgia-southern-eagles,Georgia Southern,GA South,#143772
+womens,2900,st-thomas-minnesota-tommies,St. Thomas-Minnesota,St Thomas,#4c2a6f
+womens,2908,south-carolina-upstate-spartans,South Carolina Upstate,USC Upstate,#3a834b
+womens,2916,incarnate-word-cardinals,Incarnate Word,UIW,#c04140
+womens,292,ut-rio-grande-valley-vaqueros,UT Rio Grande Valley,UTRGV,#ec6431
+womens,2934,cal-state-bakersfield-roadrunners,Cal State Bakersfield,Bakersfield,#264283
+womens,294,jacksonville-dolphins,Jacksonville,Jacksonville,#224c43
+womens,295,old-dominion-monarchs,Old Dominion,ODU,#1b4573
 womens,2959,baruch-bearcats,Baruch,Baruch,gray60
 womens,2973,ramapo,Ramapo,Ramapo,gray60
-womens,299,long-beach-state-beach,Long Beach State,LB State,#REF!
-womens,30,usc-trojans,USC,USC,#REF!
-womens,300,uc-irvine-anteaters,UC Irvine,UC Irvine,#REF!
-womens,301,san-diego-toreros,San Diego,San Diego,#REF!
-womens,302,uc-davis-aggies,UC Davis,UC Davis,#REF!
-womens,304,idaho-state-bengals,Idaho State,Idaho State,#REF!
-womens,305,depaul-blue-demons,DePaul,DePaul,#REF!
-womens,3084,utah-valley-wolverines,Utah Valley,Utah Valley,#REF!
+womens,299,long-beach-state-beach,Long Beach State,LB State,#050707
+womens,30,usc-trojans,USC,USC,#902d38
+womens,300,uc-irvine-anteaters,UC Irvine,UC Irvine,#12223d
+womens,301,san-diego-toreros,San Diego,San Diego,#5a9acd
+womens,302,uc-davis-aggies,UC Davis,UC Davis,#172b4f
+womens,304,idaho-state-bengals,Idaho State,Idaho State,#e3803a
+womens,305,depaul-blue-demons,DePaul,DePaul,#4398d3
+womens,3084,utah-valley-wolverines,Utah Valley,Utah Valley,#305b3a
 womens,3086,ut-tyler-patriots,UT Tyler,UT Tyler,gray60
-womens,309,louisiana-ragin-cajuns,Louisiana,Louisiana,#REF!
+womens,309,louisiana-ragin-cajuns,Louisiana,Louisiana,#8c2629
 womens,3091,hope-international-royals,Hope International,Hope,gray60
 womens,3094,johnson-and-wales-wildcats,Johnson and Wales,J&W,gray60
 womens,3099,concordia-college-al-hornets,Concordia College (AL),Concordia,gray60
-womens,3101,utah-tech-trailblazers,Utah Tech,Utah Tech,#REF!
-womens,311,maine-black-bears,Maine,Maine,#REF!
+womens,3101,utah-tech-trailblazers,Utah Tech,Utah Tech,#ab2e2a
+womens,311,maine-black-bears,Maine,Maine,#88bbe5
 womens,3125,temple-baptist-rams,Temple Baptist,Temple,gray60
-womens,314,iona-gaels,Iona,Iona,#REF!
+womens,314,iona-gaels,Iona,Iona,#69313d
 womens,3140,st-catharine-patriots,St. Catharine,St Cath,gray60
-womens,315,niagara-purple-eagles,Niagara,Niagara,#REF!
+womens,315,niagara-purple-eagles,Niagara,Niagara,#322a77
 womens,3172,northeast-oklahoma-st-riverhawks,Northeast Oklahoma St,NE OSU,gray60
-womens,322,lafayette-leopards,Lafayette,Lafayette,#REF!
+womens,322,lafayette-leopards,Lafayette,Lafayette,#84182b
 womens,3232,indiana-dabney-lions,Indiana Dabney,IN Dabney,gray60
-womens,324,coastal-carolina-chanticleers,Coastal Carolina,CCU,#REF!
-womens,325,cleveland-state-vikings,Cleveland State,Cleveland,#REF!
-womens,326,texas-state-bobcats,Texas State,Texas State,#REF!
-womens,328,utah-state-aggies,Utah State,Utah State,#REF!
-womens,331,eastern-washington-eagles,Eastern Washington,EWU,#REF!
-womens,333,alabama-crimson-tide,Alabama,Alabama,#REF!
-womens,338,kennesaw-state-owls,Kennesaw State,Kennesaw,#REF!
-womens,339,evansville-purple-aces,Evansville,Evansville,#REF!
-womens,344,mississippi-state-bulldogs,Mississippi State,MS State,#REF!
-womens,349,army-black-knights,Army,Army,#REF!
-womens,350,unc-wilmington-seahawks,UNC Wilmington,Wilmington,#REF!
-womens,356,illinois-fighting-illini,Illinois,Illinois,#REF!
-womens,357,texas-am-corpus-christi-islanders,Texas A&M-Corpus Christi,TAMU CC,#REF!
-womens,36,colorado-state-rams,Colorado State,CSU,#REF!
-womens,38,colorado-buffaloes,Colorado,Colorado,#REF!
-womens,399,ualbany-great-danes,UAlbany,UAlbany,#REF!
-womens,41,uconn-huskies,UConn,UConn,#REF!
+womens,324,coastal-carolina-chanticleers,Coastal Carolina,CCU,#307077
+womens,325,cleveland-state-vikings,Cleveland State,Cleveland,#a6a8ab
+womens,326,texas-state-bobcats,Texas State,Texas State,#502021
+womens,328,utah-state-aggies,Utah State,Utah State,#0b25e8
+womens,331,eastern-washington-eagles,Eastern Washington,EWU,#b42b36
+womens,333,alabama-crimson-tide,Alabama,Alabama,#962e38
+womens,338,kennesaw-state-owls,Kennesaw State,Kennesaw,#f3bd50
+womens,339,evansville-purple-aces,Evansville,Evansville,#351860
+womens,344,mississippi-state-bulldogs,Mississippi State,MS State,#551c26
+womens,349,army-black-knights,Army,Army,#17191d
+womens,350,unc-wilmington-seahawks,UNC Wilmington,Wilmington,#2a645e
+womens,356,illinois-fighting-illini,Illinois,Illinois,#d75641
+womens,357,texas-am-corpus-christi-islanders,Texas A&M-Corpus Christi,TAMU CC,#3478bc
+womens,36,colorado-state-rams,Colorado State,CSU,#2b4c2e
+womens,38,colorado-buffaloes,Colorado,Colorado,#cbb984
+womens,399,ualbany-great-danes,UAlbany,UAlbany,#401867
+womens,41,uconn-huskies,UConn,UConn,#0a2242
 womens,415,george-fox-bruins,George Fox,George Fox,gray60
-womens,43,yale-bulldogs,Yale,Yale,#REF!
+womens,43,yale-bulldogs,Yale,Yale,#11223e
 womens,435,puerto-rico-rio-piedras-pr-rio-piedras,Puerto Rico-Rio Piedras,Rio Piedtras,gray60
-womens,44,american-university-eagles,American University,AU,#REF!
-womens,45,george-washington-revolutionaries,George Washington,GW,#REF!
-womens,46,georgetown-hoyas,Georgetown,Georgetown,#REF!
+womens,44,american-university-eagles,American University,AU,#1f3c88
+womens,45,george-washington-revolutionaries,George Washington,GW,#1d3060
+womens,46,georgetown-hoyas,Georgetown,Georgetown,#192849
 womens,464,bennett-college-for-women-belles,Bennett College For Women,Bennett,gray60
-womens,47,howard-bison,Howard,Howard,#REF!
+womens,47,howard-bison,Howard,Howard,#153960
 womens,476,medaille-college-mavericks,Medaille College,Medaille,gray60
-womens,48,delaware-blue-hens,Delaware,Delaware,#REF!
+womens,48,delaware-blue-hens,Delaware,Delaware,#1c4892
 womens,487,bacone-college-warriors,Bacone College,Bacone,gray60
 womens,489,barber-scotia-college-tigers,Barber-Scotia College,Barber-Scotia,gray60
 womens,491,benedictine-ravens,Benedictine,Benedictine,gray60
-womens,5,uab-blazers,UAB,UAB,#REF!
-womens,50,florida-am-rattlers,Florida A&M,FL A&M,#REF!
-womens,52,florida-state-seminoles,Florida State,FSU,#REF!
-womens,526,florida-gulf-coast-eagles,Florida Gulf Coast,FGCU,#REF!
-womens,55,jacksonville-state-gamecocks,Jacksonville State,Jax State,#REF!
-womens,56,stetson-hatters,Stetson,Stetson,#REF!
-womens,57,florida-gators,Florida,Florida,#REF!
-womens,58,south-florida-bulls,South Florida,USF,#REF!
+womens,5,uab-blazers,UAB,UAB,#2a6044
+womens,50,florida-am-rattlers,Florida A&M,FL A&M,#3b8557
+womens,52,florida-state-seminoles,Florida State,FSU,#72343e
+womens,526,florida-gulf-coast-eagles,Florida Gulf Coast,FGCU,#469771
+womens,55,jacksonville-state-gamecocks,Jacksonville State,Jax State,#b93330
+womens,56,stetson-hatters,Stetson,Stetson,#275541
+womens,57,florida-gators,Florida,Florida,#ea5a32
+womens,58,south-florida-bulls,South Florida,USF,#255743
 womens,580,newman-jets,Newman,Newman,gray60
-womens,59,georgia-tech-yellow-jackets,Georgia Tech,GA Tech,#REF!
-womens,6,south-alabama-jaguars,South Alabama,S Alabama,#REF!
+womens,59,georgia-tech-yellow-jackets,Georgia Tech,GA Tech,#b1a370
+womens,6,south-alabama-jaguars,South Alabama,S Alabama,#b4364a
 womens,608,university-of-the-sciences-u-of-the-sciences,University Of The Sciences,UTS,gray60
-womens,61,georgia-lady-bulldogs,Georgia,Georgia,#REF!
-womens,62,hawaii-rainbow-wahine,Hawai'i,Hawai'i,#REF!
+womens,61,georgia-lady-bulldogs,Georgia,Georgia,#ad3136
+womens,62,hawaii-rainbow-wahine,Hawai'i,Hawai'i,#24573a
 womens,627,ursuline-arrows,Ursuline,Ursuline,gray60
-womens,66,iowa-state-cyclones,Iowa State,Iowa State,#REF!
-womens,68,boise-state-broncos,Boise State,Boise State,#REF!
-womens,70,idaho-vandals,Idaho,Idaho,#REF!
-womens,71,bradley-braves,Bradley,Bradley,#REF!
-womens,77,northwestern-wildcats,Northwestern,Northwestern,#REF!
+womens,66,iowa-state-cyclones,Iowa State,Iowa State,#a9283b
+womens,68,boise-state-broncos,Boise State,Boise State,#12329a
+womens,70,idaho-vandals,Idaho,Idaho,#e9b744
+womens,71,bradley-braves,Bradley,Bradley,#961d13
+womens,77,northwestern-wildcats,Northwestern,Northwestern,#522e7e
 womens,7859,washington-college-md-shoremen,Washington College (MD),Wash (MD),gray60
-womens,79,southern-illinois-salukis,Southern Illinois,SIU,#REF!
-womens,8,arkansas-razorbacks,Arkansas,Arkansas,#REF!
-womens,82,uic-flames,UIC,UIC,#REF!
-womens,84,indiana-hoosiers,Indiana,Indiana,#REF!
-womens,85,iu-indianapolis-jaguars,IU Indianapolis,IU Indy,#REF!
+womens,79,southern-illinois-salukis,Southern Illinois,SIU,#662b3d
+womens,8,arkansas-razorbacks,Arkansas,Arkansas,#972c38
+womens,82,uic-flames,UIC,UIC,#c92a38
+womens,84,indiana-hoosiers,Indiana,Indiana,#8c1a11
+womens,85,iu-indianapolis-jaguars,IU Indianapolis,IU Indy,#ca8437
 womens,86697,grace-christian-tigers,Grace Christian,Grace,gray60
 womens,86802,oswego-st-lakers,Oswego St,Oswego St,gray60
-womens,87,notre-dame-fighting-irish,Notre Dame,Notre Dame,#REF!
-womens,88,southern-indiana-screaming-eagles,Southern Indiana,S Indiana,#REF!
-womens,9,arizona-state-sun-devils,Arizona State,AZ State,#REF!
-womens,91,bellarmine-knights,Bellarmine,Bellarmine,#REF!
-womens,93,murray-state-racers,Murray State,Murray State,#REF!
-womens,94,northern-kentucky-norse,Northern Kentucky,N Kentucky,#REF!
-womens,96,kentucky-wildcats,Kentucky,Kentucky,#REF!
-womens,97,louisville-cardinals,Louisville,Louisville,#REF!
-womens,98,western-kentucky-lady-toppers,Western Kentucky,WKU,#REF!
-womens,99,lsu-tigers,LSU,LSU,#REF!
+womens,87,notre-dame-fighting-irish,Notre Dame,Notre Dame,#04143e
+womens,88,southern-indiana-screaming-eagles,Southern Indiana,S Indiana,#0e2b58
+womens,9,arizona-state-sun-devils,Arizona State,AZ State,#821d3b
+womens,91,bellarmine-knights,Bellarmine,Bellarmine,#873242
+womens,93,murray-state-racers,Murray State,Murray State,#f6c845
+womens,94,northern-kentucky-norse,Northern Kentucky,N Kentucky,#f6ca52
+womens,96,kentucky-wildcats,Kentucky,Kentucky,#12329a
+womens,97,louisville-cardinals,Louisville,Louisville,#b82629
+womens,98,western-kentucky-lady-toppers,Western Kentucky,WKU,#d04746
+womens,99,lsu-tigers,LSU,LSU,#412377
