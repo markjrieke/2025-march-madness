@@ -247,7 +247,7 @@ build_winbox <- function(advance_structure,
     advance_structure %>%
     filter(round == 6) %>%
     select(team_name, 
-           team_id, 
+           team_data_id, 
            team_color) %>%
     left_join(slugs) %>%
     left_join(images)
@@ -258,12 +258,11 @@ build_winbox <- function(advance_structure,
 
 build_regional_text <- function(league) {
   
-  label <-
-    if_else(
-      league == "mens",
-      c("SOUTH", "WEST", "EAST", "MIDWEST"),
-      c("BRIDGEPORT", "LEXINGTON", "SIOUX FALLS", "KANSAS CITY")
-    )
+  if (league == "mens") {
+    label <- c("SOUTH", "WEST", "EAST", "MIDWEST")
+  } else {
+    label <- c("BRIDGEPORT", "LEXINGTON", "SIOUX FALLS", "KANSAS CITY")
+  }
   
   regional_text <-
     tibble(
@@ -377,7 +376,7 @@ build_bracket_ggobj <- function(bracket_data,
     geom_text(data = regional_text,
               mapping = aes(x = x,
                             y = y,
-                            label = mens),
+                            label = label),
               color = "gray80",
               family = "IBM Plex Sans",
               fontface = "bold",
