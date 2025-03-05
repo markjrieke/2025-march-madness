@@ -1,3 +1,18 @@
+#' Generate an interactive March Madness summary table
+#' 
+#' @description
+#' Generates a `gt` table that summarizes the tournament for the specified 
+#' league on the specified day. Teams that have advanced are marked with a ✓ and
+#' teams that have been eliminated are marked with a ✗. Each team's probability
+#' of advancement to each round is also displayed.
+#' 
+#' @param league Which league to generate a plot for. Either "mens" or "womens".
+#' @param date The date in the tournament to generate a table for.
+#' @param ... Unused.
+#' @param col_win Cell color for teams that have won/advanced to a round.
+#' @param col_lose Cell color for teams that have been eliminated.
+#' @param pal A length-2 vector containing the lower/upper bounds of a color 
+#'        scale that the probability of advancement is interpolated between.
 generate_html_table <- function(league,
                                 date,
                                 ...,
@@ -141,6 +156,17 @@ generate_html_table <- function(league,
   
 }
 
+#' Override the cell style with a fill color if the cell meets the specified
+#' status condition
+#' 
+#' @param table A `gt` table
+#' @param fill The override fill color
+#' @param p The probability column that will potentially have its style 
+#'        overridden.
+#' @param s The status column that is used to determine if p's style is 
+#'        overridden.  
+#' @param status The status condition (character) that will trigger the 
+#'        override.
 style_override <- function(table, fill, p, s, status) {
   
   table %>%
@@ -150,6 +176,16 @@ style_override <- function(table, fill, p, s, status) {
   
 }
 
+#' Override the cell text with new text if the cell meets the specified status
+#' condition.
+#' 
+#' @param table A `gt` table
+#' @param p The probability column that will potentially have its text 
+#'        overridden.
+#' @param s The status column that is used to determine if p's text is 
+#'        overridden.  
+#' @param status The status condition (character) that will trigger the 
+#'        override.
 text_override <- function(table, p, s, status) {
   
   if (status == "Won") {

@@ -1,3 +1,23 @@
+#' Generate an interactive March Madness bracket
+#' 
+#' @description
+#' Generates an interactive `<svg>` element and stores the resulting html file
+#' locally. When hovering over each team, their probability of advancing to each
+#' stage in the tournament appears alongside a line segment with width 
+#' proportional to this probability. On hover, the team's logo and their full 
+#' name appears in the center.
+#' 
+#' Interactivity is supported by injecting a custom javascript function as a 
+#' string into the element html. The function, `changeStyle()`, is defined under
+#' js/plot.js.
+#' 
+#' @param league Which league to generate a plot for. Either "mens" or "womens".
+#' @param date The date in the tournament to generate a plot for.
+#' @param ... Unused.
+#' @param bracket_linewidth Linewidth of the `geom_segment()` elements that are 
+#'        used to define the bracket structure.
+#' @param min_linewidth,max_linewidth Min/max linewidths of the `geom_segment()`
+#'        elements representing each team's probability of advancement. 
 generate_html_bracket <- function(league,
                                   date,
                                   ...,
@@ -72,6 +92,18 @@ generate_html_bracket <- function(league,
   
 }
 
+#' Build a tibble with the information needed to plot a bracket and the current
+#' teams that have advanced
+#' 
+#' @param teams A tibble containing team-level information needed for plotting:
+#'        team_data_id, team_display, and team_color.
+#' @param wid0 A 64 x 7 matrix of integers that map `tid` to matchups. Each 
+#'        column maps to a round in the tournament, with `wid[1,7]` indicating
+#'        the overall winner. `0` is used as a filler value for the matrix 
+#'        (i.e., `wid[2:64,7]` contains all `0`) or as an indication that the 
+#'        outcome of a game has not yet been determined.
+#' @param ... Unused.
+#' @param h_offset,v_offset Horizontal and vertical offsets for text elements.
 build_bracket_structure <- function(teams,
                                     wid0,
                                     ...,
@@ -145,6 +177,16 @@ build_bracket_structure <- function(teams,
   
 }
 
+#' Build a tibble with the information needed to generate text and segment 
+#' elements associated with the probability of advancement
+#' 
+#' @param p_advance A tibble containing the probability of each team advancing
+#'        to the next round, as well as their status for the current round.
+#' @param league Which league to generate a plot for. Either "mens" or "womens".
+#' @param date The date in the tournament to generate a plot for.
+#' @param ... Unused.
+#' @param min_linewidth,max_linewidth Min/max linewidths of the `geom_segment()`
+#'        elements representing each team's probability of advancement. 
 build_advance_structure <- function(p_advance,
                                     teams,
                                     league,
@@ -228,6 +270,13 @@ build_advance_structure <- function(p_advance,
   
 }
 
+#' Build a tibble with the information needed to display images in the "winbox"
+#' on hover
+#' 
+#' @param advance_structure A tibble containing the necessary information to 
+#'        generate text and segment elements associated with the probability of
+#'        advancement.
+#' @param league Which league to generate a plot for. Either "mens" or "womens".
 build_winbox <- function(advance_structure,
                          league) {
   
@@ -256,6 +305,10 @@ build_winbox <- function(advance_structure,
   
 }
 
+#' Build a tibble with the information necessary to decorate the plot with 
+#' regional text
+#' 
+#' @param league Which league to generate a plot for. Either "mens" or "womens".
 build_regional_text <- function(league) {
   
   if (league == "mens") {
@@ -275,6 +328,19 @@ build_regional_text <- function(league) {
   
 }
 
+#' Generate all the dataframes necessary to build the bracket plot
+#' 
+#' @param league Which league to generate a plot for. Either "mens" or "womens".
+#' @param date The date in the tournament to generate a plot for.
+#' @param p_advance A tibble containing the probability of each team advancing
+#'        to the next round, as well as their status for the current round.
+#' @param teams A tibble containing team-level information needed for plotting:
+#'        team_data_id, team_display, and team_color.
+#' @param wid0 A 64 x 7 matrix of integers that map `tid` to matchups. Each 
+#'        column maps to a round in the tournament, with `wid[1,7]` indicating
+#'        the overall winner. `0` is used as a filler value for the matrix 
+#'        (i.e., `wid[2:64,7]` contains all `0`) or as an indication that the 
+#'        outcome of a game has not yet been determined.
 build_bracket_data <- function(league,
                                date,
                                p_advance,
@@ -320,6 +386,13 @@ build_bracket_data <- function(league,
   
 }
 
+#' Build the static components of the bracket plot
+#' 
+#' @param bracket_data A list containing the following dataframes: `structure`, 
+#'        `advance_structure`, `winbox`, and `regional_text`.
+#' @param ... Unused.
+#' @param bracket_linewidth Linewidth of the `geom_segment()` elements that are 
+#'        used to define the bracket structure.
 build_bracket_ggobj <- function(bracket_data,
                                 ...,
                                 bracket_linewidth = 0.35) {
@@ -449,6 +522,15 @@ build_bracket_ggobj <- function(bracket_data,
   
 }
 
+#' Add interactivity and save the bracket object as a html file
+#' 
+#' @param league Which league to generate a plot for. Either "mens" or "womens".
+#' @param date The date in the tournament to generate a plot for.
+#' @param ggobj A static ggplot2 object containing all the bracket elements.
+#' @param teams A tibble containing team-level information needed for plotting:
+#'        team_data_id, team_display, and team_color.
+#' @param winbox A tibble with the information needed to display each team's 
+#'        logo in the "winbox".
 write_bracket_html <- function(league,
                                date,
                                ggobj,
@@ -534,10 +616,14 @@ write_bracket_html <- function(league,
   
 }
 
+#' Util function ported from ggiraph
 read_file <- function(path, ..., encoding = "UTF-8", warn = FALSE) {
   paste0(readLines(con = path, encoding = encoding, warn = warn, ...), collapse = "\n")
 }
 
+#' Generate a tibble with the base bracket structure for the supplied round
+#' 
+#' @param round Round in the tournament. `0` corresponds to the round of 64.
 round_structure <- function(round) {
   
   tibble(
@@ -547,6 +633,12 @@ round_structure <- function(round) {
   
 }
 
+#' Estimate the y-position of a bracket element
+#' 
+#' @param round Round in the tournament. `0` corresponds to the round of 64.
+#' @param pid Team's position in the supplied round.
+#' @param lhs Whether (TRUE) or not (FALSE) the team advances on the left-hand 
+#'        side of the bracket.
 eval_y <- function(round, pid, lhs) {
   
   case_when(
