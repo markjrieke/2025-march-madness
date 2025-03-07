@@ -2,8 +2,11 @@
 
 ## 2025-03-07
 
-* Nips/tucks on the bracket UI
-* Manually added team colors
+Alrighty! I managed to get a lot done on the bracket --- mostly the nips/tucks that constitute polishing. The most annoying (but worthwhile) thing was manually going in and adding every team's color. I used my laptop's in-built eyedropper tool to pluck the RGB values from logos on ESPN's site, converted those into hex codes, then entered the hex codes into a CSV. There's probably a way I could've automated that, but it would have taken me just as long (or longer) to figure out how to implement it. 
+
+I also spent *way* too much time figuring out a [backronym](https://en.wikipedia.org/wiki/Backronym) for the modeling system --- **MADHATTRS**: **M**ultivariate **A**ttack/**D**efense/**H**ome **A**djustments **T**o **T**eam **R**atings (via) **S**imulation. It's a fun acronym, but moreso it's a fun nod to my family's long-time March Madness bracket group name, Madhatters (I should text my grandma, she'll get a kick out of this). 
+
+I've started [keeping track](https://github.com/markjrieke/2025-march-madness/issues/1) of all the odds/ends I need to get done for launch. Next on the docket is doing work in the site repo to get ready for publish!
 
 ## 2025-02-28
 
