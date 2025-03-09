@@ -26,14 +26,11 @@ generate_html_table <- function(league,
   league_int <- league
   date_int <- date
   
-  # # read in data
-  # p_advance <- 
-  #   arrow::read_parquet("out/bracket/p_advance.parquet") %>%
-  #   filter(league == league_int,
-  #          date == date_int)
-  
-  # temporarily use a tmp.parquet file
-  p_advance <- arrow::read_parquet("tmp.parquet")
+  # read in data
+  p_advance <-
+    arrow::read_parquet("out/bracket/p_advance.parquet") %>%
+    filter(league == league_int,
+           date == date_int)
   
   teams <- 
     p_advance %>%

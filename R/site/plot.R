@@ -31,30 +31,23 @@ generate_html_bracket <- function(league,
   league_int <- league
   date_int <- date
   
-  # # read in probability of advancement
-  # p_advance <- 
-  #   arrow::read_parquet("out/bracket/p_advance.parquet") %>%
-  #   filter(league == league_int,
-  #          date == date_int)
+  # read in probability of advancement
+  p_advance <-
+    arrow::read_parquet("out/bracket/p_advance.parquet") %>%
+    filter(league == league_int,
+           date == date_int)
   
-  # # read in tournament structure matrix
-  # read_rds("out/bracket/wid0.rds") %>% 
-  #   filter(league == league_int, 
-  #          date == date_int) %>% 
-  #   pull(wid0) %>%
-  #   pluck(1)
+  # read in tournament structure matrix
+  read_rds("out/bracket/wid0.rds") %>%
+    filter(league == league_int,
+           date == date_int) %>%
+    pull(wid0) %>%
+    pluck(1)
   
   # read in manually set team html parameters
   team_html <- 
     read_csv("data/manual/team-manual.csv") %>%
     filter(league == league_int)
-  
-  # temporarily use tmp files
-  p_advance <- arrow::read_parquet("tmp.parquet")
-  wid0 <- 
-    read_rds("tmp.rds") %>%
-    pull(wid0) %>%
-    pluck(1)
   
   # set team_data_id html identifier as team_name w/o apostrophes 
   p_advance <- 
