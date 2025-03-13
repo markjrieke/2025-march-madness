@@ -6,13 +6,19 @@ library(cmdstanr)
 library(riekelib)
 library(furrr)
 library(rvest)
+library(gt)
+library(gtExtras)
+library(ggiraph)
+library(patchwork)
 
 # util functions
 source("R/utils.R")
 
 # functions
-function_path <- "R/model/functions/"
-walk(list.files(function_path), ~source(paste0(function_path, .x)))
+function_paths <- c("R/model/functions/", "R/site/")
+for (path in function_paths) {
+  walk(list.files(path), ~source(paste0(path, .x)))
+}
 
 # create stan model exe directory
 if (!dir.exists("exe")) {
