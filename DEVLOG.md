@@ -1,5 +1,11 @@
 # DEVLOG
 
+## 2025-03-14
+
+* Got the site template *down pat*!
+* Wrote the methodology post!
+* Wrote all the easy READMEs
+
 ## 2025-03-07
 
 Alrighty! I managed to get a lot done on the bracket --- mostly the nips/tucks that constitute polishing. The most annoying (but worthwhile) thing was manually going in and adding every team's color. I used my laptop's in-built eyedropper tool to pluck the RGB values from logos on ESPN's site, converted those into hex codes, then entered the hex codes into a CSV. There's probably a way I could've automated that, but it would have taken me just as long (or longer) to figure out how to implement it. 
