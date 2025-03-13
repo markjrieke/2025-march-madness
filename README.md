@@ -3,74 +3,28 @@
 
 This repository contains the code for fitting a dynamic Bayesian model
 of NCAA team performance and simulating potential March Madness outcomes
-based on the results.
+based on the results. The model is written in
+[Stan](https://mc-stan.org/) and the core pipeline is written in
+[R](https://www.r-project.org/), with some modest
+[Python](https://www.python.org/) and
+[JavaScript](https://www.javascript.com/) as needed.
 
-## outline
+READMEs in each directory provide details on the directory contents. In
+particular, the [stan/](stan/) README walks through the model in detail.
+A general overview of the model methodology can be found in the [*How
+this
+works*](https://www.thedatadiary.net/posts/2025-03-16-march-madness/)
+article, and the full output for the
+[men’s](https://www.thedatadiary.net/projects/2025-march-madness/mens)
+and
+[women’s](https://www.thedatadiary.net/projects/2025-march-madness/womens)
+brackets can be found at [the data
+diary](https://www.thedatadiary.net/).
 
-#### Data
+## Version history
 
-See the `R/data/` and `data/` directories.
+### 1.0
 
-#### Model
+###### 2025-03-16
 
-use the bivariate poisson to model score outcomes
-
-$$
-\begin{align*}
-S_h &= Y_0 + Y_h \\
-S_a &= Y_0 + Y_a \\
-Y_0 &\sim \text{Poisson}(\lambda_0) \\
-Y_h &\sim \text{Poisson}(\lambda_h) \\
-Y_a &\sim \text{Poisson}(\lambda_a) \\
-\log(\lambda_h) &= \beta_{a,t[h]} - \beta_{d,t[a]} \\
-\log(\lambda_a) &= \beta_{a,t[a]} - \beta_{d,t[h]} \\
-\log(\lambda_0) &= \gamma \\ 
-\beta_{a,t} &= \alpha_a + \eta_{a,t} \sigma_a \\
-\beta_{d,t} &= \alpha_d + \eta_{d,t} \sigma_d
-\end{align*}
-$$
-
-Possibly convert to a MVN for attack/defense strength, add in
-time-varying parameters, other predictors (home advantage, game-level
-random effects, overtime), but that gets to the basic structure.
-
-> Note: the bivariate poisson pmf can be resolved as
-> `target += poisson_lpmf(S_h | lambda_0 + lambda_h) + poisson_lpmf(S_a | lambda_0 + lambda_a);`,
-> since the sum of two poissons is also poisson. The encoding above,
-> however, ensures that the generating function displays the correlated
-> nature in forward evaluation.
-
-Need to figure out:
-
-- bivariate_poisson_lpmf
-- mid-season updates?
-  - don’t refit the entire model lol
-  - posterior -\> prior extraction
-  - half normal extraction
-
-#### Simulation
-
-- Part of model? Or separate & pass in model output as data?
-- Individual game is easy
-- Future matchups is somewhat difficult (array indexing hell)
-- Ragged-array problem — how to handle completed games & future games?
-
-#### UI
-
-- Ideally, big interactive bracket
-- Can also do a big table with:
-  - tabs for each round
-  - greyed out when eliminated
-  - Prob of making it to: Round of 32, Sweet 16, Elite 8, Final 4,
-    Championship, Winning
-
-## Links
-
-- [Paper on bivariate poisson for modeling soccer
-  outcomes](https://link.springer.com/content/pdf/10.1007/s10182-021-00413-9.pdf)
-- [Repo for simulating tournament
-  advancement](https://github.com/lbenz730/intl_soccer_2024)
-- [Bivariate poisson in
-  Stan](https://discourse.mc-stan.org/t/loo-and-loglikelihood-calculation-for-bivariate-poisson/28648)
-- [ESPN API
-  links](https://gist.github.com/akeaswaran/b48b02f1c94f873c6655e7129910fc3b)
+- Initial release
