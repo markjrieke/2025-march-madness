@@ -15,7 +15,7 @@ library(patchwork)
 source("R/utils.R")
 
 # functions
-function_paths <- c("R/model/functions/", "R/site/")
+function_paths <- c("R/model/", "R/site/")
 for (path in function_paths) {
   walk(list.files(path), ~source(paste0(path, .x)))
 }
