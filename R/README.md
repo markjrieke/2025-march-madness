@@ -18,8 +18,8 @@ Contains scripts for generating data that doesn't need to be recomputed each run
   * Scrapes the results of all games played in the men's and women's leagues since the 2002 season from ESPN.
   * Games against lower division teams are included in the result. 
 * `teams.R` 
-  * Scrapes the team information (name, id, and slug) for currently active teams from ESPN. 
-  * Teams that are no longer exist or are not currently D1 teams do not appear in the table.
+  * Scrapes the team information (name, id, and slug) for teams that appear at any point in ESPN's schedule.
+  * Teams that have never appeared as D1 teams do not appear in the table.
   
 ## model/
 
