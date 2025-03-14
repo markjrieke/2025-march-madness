@@ -2,9 +2,7 @@
 
 ## 2025-03-14
 
-* Got the site template *down pat*!
-* Wrote the methodology post!
-* Wrote all the easy READMEs
+Finally in the home stretch. I've got the site setup to render, wrote the methodology post, and have gotten through adding all the easy READMEs (I still need to add a README for the stan directory). There are a few odds and ends to tie up before this is truly done. I can't really finish the plotting functions until the brackets become available on selection Sunday and I can't really kick off the bracket model updates until the first four games are played (across both men's and women's leagues, which occurs on different days). I need to add a temporary landing page that the bracket links direct to, but in general, this is *really close* to being done and likely will be come next week.
 
 ## 2025-03-07
 
