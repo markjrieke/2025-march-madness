@@ -307,7 +307,7 @@ build_regional_text <- function(league) {
   if (league == "mens") {
     label <- c("SOUTH", "WEST", "EAST", "MIDWEST")
   } else {
-    label <- c("BRIDGEPORT", "LEXINGTON", "SIOUX FALLS", "KANSAS CITY")
+    label <- c("REGION 1:\nSPOKANE", "REGION 4:\nSPOKANE", "REGION 2:\nBIRMINGHAM", "REGION 2:\nBIRMINGHAM")
   }
   
   regional_text <-
