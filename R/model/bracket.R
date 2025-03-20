@@ -226,8 +226,7 @@ tournament_structure <- function(league, season) {
   games <- 
     arrow::read_parquet(game_file) %>%
     filter(league == league_int,
-           season == season_int,
-           game_type == "Postseason")
+           season == season_int)
   
   # scrape current bracket
   url <- glue::glue("https://www.espn.com/{league}-college-basketball/bracket/_/season/{season}")
@@ -474,6 +473,10 @@ extract_game_ids <- function(x) {
 #' @param teams A tibble mapping ESPN `team_name` and `team_id` to an internal
 #'        mapping id, `tid`.
 extract_teams <- function(game_id, games, teams) {
+  
+  if (length(game_id) == 0) {
+    return(c(0, 0))
+  }
   
   game_id_int <- game_id
   

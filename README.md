@@ -23,8 +23,8 @@ diary](https://www.thedatadiary.net/).
 
 ## Version history
 
-### 1.0
+### 0.0.9000
 
 ###### 2025-03-16
 
-- Initial release
+- Initial pre-release
