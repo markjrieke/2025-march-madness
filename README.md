@@ -23,6 +23,14 @@ diary](https://www.thedatadiary.net/).
 
 ## Version history
 
+### 1.0
+
+###### 2025-03-20
+
+- Initial release!
+- Fixes a few minor pre-release bugs to ensure pipeline runs on 2025
+  tournament data
+
 ### 0.0.9000
 
 ###### 2025-03-16
