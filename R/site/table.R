@@ -73,7 +73,7 @@ generate_html_table <- function(league,
     select(team_name, 
            round, 
            s = status,
-           p = p_advance) %>% 
+           p = p_advance) %>%
     pivot_wider(names_from = round, 
                 values_from = c(p, s), 
                 names_prefix = "round_") %>%

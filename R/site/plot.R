@@ -38,7 +38,8 @@ generate_html_bracket <- function(league,
            date == date_int)
   
   # read in tournament structure matrix
-  read_rds("out/bracket/wid0.rds") %>%
+  wid0 <- 
+    read_rds("out/bracket/wid0.rds") %>%
     filter(league == league_int,
            date == date_int) %>%
     pull(wid0) %>%

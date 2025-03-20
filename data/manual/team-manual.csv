@@ -6,7 +6,7 @@ mens,108,harvard-crimson,Harvard,Harvard,#962c3a
 mens,111,northeastern-huskies,Northeastern,NU,#bf2e21
 mens,112358,long-island-university-sharks,Long Island University,LIU,#6fafe2
 mens,113,massachusetts-minutemen,Massachusetts,UMass,#7c2621
-mens,116,mount-st-marys-mountaineers,Mount St. Mary's,Mt. St. Mary,#172b4f
+mens,116,mount-st-marys-mountaineers,Mount St. Mary's,MSM,#172b4f
 mens,119,towson-tigers,Towson,Towson,#f3bd50
 mens,12,arizona-wildcats,Arizona,Arizona,#9d2127
 mens,120,maryland-terrapins,Maryland,Maryland,#d2353e
@@ -35,7 +35,7 @@ mens,161,fairleigh-dickinson-knights,Fairleigh Dickinson,FDU,#2a3347
 mens,163,princeton-tigers,Princeton,Princeton,#ea7035
 mens,164,rutgers-scarlet-knights,Rutgers,Rutgers,#b72b35
 mens,166,new-mexico-state-aggies,New Mexico State,NM State,#731e1d
-mens,167,new-mexico-lobos,New Mexico,New Mexico,#b5293e
+mens,167,new-mexico-lobos,New Mexico,UNM,#b5293e
 mens,171,columbia-lions,Columbia,Columbia,#1d4a81
 mens,172,cornell-big-red,Cornell,Cornell,#db4233
 mens,179,st-bonaventure-bonnies,St. Bonaventure,SBU,#4a3329
@@ -168,8 +168,8 @@ mens,2443,new-orleans-privateers,New Orleans,NOLA,#265ca1
 mens,2447,nicholls-colonels,Nicholls,Nicholls,#b42b36
 mens,2448,north-carolina-at-aggies,North Carolina A&T,NC A&T,#f1bc4b
 mens,2449,north-dakota-state-bison,North Dakota State,ND State,#23553e
-mens,245,texas-am-aggies,Texas A&M,Texas A&M,#490905
-mens,2450,norfolk-state-spartans,Norfolk State,Norfolk State,#f1bb41
+mens,245,texas-am-aggies,Texas A&M,TAMU,#490905
+mens,2450,norfolk-state-spartans,Norfolk State,Norfolk,#f1bb41
 mens,2453,north-alabama-lions,North Alabama,N Alabama,#532d7d
 mens,2454,north-florida-ospreys,North Florida,N Florida,#061946
 mens,2458,northern-colorado-bears,Northern Colorado,N Colorado,#f3c14b
@@ -328,7 +328,7 @@ mens,322,lafayette-leopards,Lafayette,Lafayette,#84182b
 mens,324,coastal-carolina-chanticleers,Coastal Carolina,CCU,#307077
 mens,325,cleveland-state-vikings,Cleveland State,Cleveland,#a6a8ab
 mens,326,texas-state-bobcats,Texas State,Texas State,#502021
-mens,328,utah-state-aggies,Utah State,Utah State,#0b25e8
+mens,328,utah-state-aggies,Utah State,Utah State,#0b2538
 mens,331,eastern-washington-eagles,Eastern Washington,EWU,#b42b36
 mens,333,alabama-crimson-tide,Alabama,Alabama,#962e38
 mens,338,kennesaw-state-owls,Kennesaw State,Kennesaw,#f3bd50
@@ -445,7 +445,7 @@ womens,112358,long-island-university-sharks,Long Island University,LIU,#6fafe2
 womens,112703,eastern-nazarene-lions,Eastern Nazarene,Nazarene,gray60
 womens,112704,stevenson-mustangs,Stevenson,Stevenson,gray60
 womens,113,massachusetts-minutewomen,Massachusetts,UMass,#7c2621
-womens,116,mount-st-marys-mountaineers,Mount St. Mary's,Mt. St. Mary,#172b4f
+womens,116,mount-st-marys-mountaineers,Mount St. Mary's,MSM,#172b4f
 womens,119,towson-tigers,Towson,Towson,#f3bd50
 womens,12,arizona-wildcats,Arizona,Arizona,#9d2127
 womens,120,maryland-terrapins,Maryland,Maryland,#d2353e
@@ -486,7 +486,7 @@ womens,161,fairleigh-dickinson-knights,Fairleigh Dickinson,FDU,#2a3347
 womens,163,princeton-tigers,Princeton,Princeton,#ea7035
 womens,164,rutgers-scarlet-knights,Rutgers,Rutgers,#b72b35
 womens,166,new-mexico-state-aggies,New Mexico State,NM State,#731e1d
-womens,167,new-mexico-lobos,New Mexico,New Mexico,#b5293e
+womens,167,new-mexico-lobos,New Mexico,UNM,#b5293e
 womens,171,columbia-lions,Columbia,Columbia,#1d4a81
 womens,172,cornell-big-red,Cornell,Cornell,#db4233
 womens,179,st-bonaventure-bonnies,St. Bonaventure,SBU,#4a3329
@@ -628,8 +628,8 @@ womens,2443,new-orleans-privateers,New Orleans,NOLA,#265ca1
 womens,2447,nicholls-colonels,Nicholls,Nicholls,#b42b36
 womens,2448,north-carolina-at-aggies,North Carolina A&T,NC A&T,#f1bc4b
 womens,2449,north-dakota-state-bison,North Dakota State,ND State,#23553e
-womens,245,texas-am-aggies,Texas A&M,Texas A&M,#490905
-womens,2450,norfolk-state-spartans,Norfolk State,Norfolk State,#f1bb41
+womens,245,texas-am-aggies,Texas A&M,TAMU,#490905
+womens,2450,norfolk-state-spartans,Norfolk State,Norfolk,#f1bb41
 womens,2453,north-alabama-lions,North Alabama,N Alabama,#532d7d
 womens,2454,north-florida-ospreys,North Florida,N Florida,#061946
 womens,2458,northern-colorado-bears,Northern Colorado,N Colorado,#f3c14b
@@ -786,7 +786,7 @@ womens,3232,indiana-dabney-lions,Indiana Dabney,IN Dabney,gray60
 womens,324,coastal-carolina-chanticleers,Coastal Carolina,CCU,#307077
 womens,325,cleveland-state-vikings,Cleveland State,Cleveland,#a6a8ab
 womens,326,texas-state-bobcats,Texas State,Texas State,#502021
-womens,328,utah-state-aggies,Utah State,Utah State,#0b25e8
+womens,328,utah-state-aggies,Utah State,Utah State,#0b2538
 womens,331,eastern-washington-eagles,Eastern Washington,EWU,#b42b36
 womens,333,alabama-crimson-tide,Alabama,Alabama,#962e38
 womens,338,kennesaw-state-owls,Kennesaw State,Kennesaw,#f3bd50

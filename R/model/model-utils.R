@@ -395,3 +395,15 @@ log_early_exit <- function(model_name,
   
 }
 
+#' Find the tournament dates that have not been evaluated
+#' 
+#' @param league Which league to extract results for. Either "mens" or "womens".
+missing_tournament_days <- function(league) {
+  
+  start_date <- ifelse(league == "mens", mdy("3/20/25"), mdy("3/21/25"))
+  tournament_days <- missing_days(league, "bracket")
+  tournament_days <- tournament_days[which(tournament_days >= start_date)]
+  
+  return(tournament_days)
+  
+}
