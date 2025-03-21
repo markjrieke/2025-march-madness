@@ -23,6 +23,14 @@ diary](https://www.thedatadiary.net/).
 
 ## Version history
 
+### 1.1
+
+###### 2025-03-21
+
+- Modified `images.py` so that Tennessee’s women’s logo appears
+  correctly.
+- Updated women’s regional names.
+
 ### 1.0
 
 ###### 2025-03-20

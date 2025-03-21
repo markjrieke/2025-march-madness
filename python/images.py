@@ -27,6 +27,7 @@ for league in leagues:
         DataFrame({'image': images})
         .select(col('image').str.slice(offset=0, length=col('image').str.find('png') + 3))
         .with_columns(col('image').str.slice(offset=col('image').str.find('500/') + 4).alias('team_id'))
+        .with_columns(col('team_id').str.replace('_ncw', ''))
         .select(col('image'),
                 col('team_id').str.replace('.png', ''))
         .write_parquet(f'data/images/{league}-images.parquet')

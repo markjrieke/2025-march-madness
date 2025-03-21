@@ -159,7 +159,7 @@ mens,2426,navy-midshipmen,Navy,Navy,#092157
 mens,2427,unc-asheville-bulldogs,UNC Asheville,Asheville,#1941aa
 mens,2428,north-carolina-central-eagles,North Carolina Central,NC Central,#8b1b31
 mens,2429,charlotte-49ers,Charlotte,Charlotte,#265641
-mens,2430,unc-greensboro-spartans,UNC Greensboro,Greensboro,#132041
+mens,2430,unc-greensboro-spartans,UNC Greensboro,UNCG,#132041
 mens,2433,ul-monroe-warhawks,UL Monroe,UL Monroe,#802b35
 mens,2437,omaha-mavericks,Omaha,Omaha,#d2353e
 mens,2439,unlv-rebels,UNLV,UNLV,#bd271b
@@ -375,11 +375,11 @@ mens,8,arkansas-razorbacks,Arkansas,Arkansas,#972c38
 mens,82,uic-flames,UIC,UIC,#c92a38
 mens,84,indiana-hoosiers,Indiana,Indiana,#8c1a11
 mens,85,iu-indianapolis-jaguars,IU Indianapolis,IU Indy,#ca8437
-mens,87,notre-dame-fighting-irish,Notre Dame,Notre Dame,#04143e
+mens,87,notre-dame-fighting-irish,Notre Dame,ND,#04143e
 mens,88,southern-indiana-screaming-eagles,Southern Indiana,S Indiana,#0e2b58
 mens,9,arizona-state-sun-devils,Arizona State,AZ State,#821d3b
 mens,91,bellarmine-knights,Bellarmine,Bellarmine,#873242
-mens,93,murray-state-racers,Murray State,Murray State,#f6c845
+mens,93,murray-state-racers,Murray State,Murray,#f6c845
 mens,94,northern-kentucky-norse,Northern Kentucky,N Kentucky,#f6ca52
 mens,96,kentucky-wildcats,Kentucky,Kentucky,#12329a
 mens,97,louisville-cardinals,Louisville,Louisville,#b82629
@@ -619,7 +619,7 @@ womens,2426,navy-midshipmen,Navy,Navy,#092157
 womens,2427,unc-asheville-bulldogs,UNC Asheville,Asheville,#1941aa
 womens,2428,north-carolina-central-eagles,North Carolina Central,NC Central,#8b1b31
 womens,2429,charlotte-49ers,Charlotte,Charlotte,#265641
-womens,2430,unc-greensboro-spartans,UNC Greensboro,Greensboro,#132041
+womens,2430,unc-greensboro-spartans,UNC Greensboro,UNCG,#132041
 womens,2433,ul-monroe-warhawks,UL Monroe,UL Monroe,#802b35
 womens,2437,omaha-mavericks,Omaha,Omaha,#d2353e
 womens,2439,unlv-lady-rebels,UNLV,UNLV,#bd271b
@@ -841,11 +841,11 @@ womens,84,indiana-hoosiers,Indiana,Indiana,#8c1a11
 womens,85,iu-indianapolis-jaguars,IU Indianapolis,IU Indy,#ca8437
 womens,86697,grace-christian-tigers,Grace Christian,Grace,gray60
 womens,86802,oswego-st-lakers,Oswego St,Oswego St,gray60
-womens,87,notre-dame-fighting-irish,Notre Dame,Notre Dame,#04143e
+womens,87,notre-dame-fighting-irish,Notre Dame,ND,#04143e
 womens,88,southern-indiana-screaming-eagles,Southern Indiana,S Indiana,#0e2b58
 womens,9,arizona-state-sun-devils,Arizona State,AZ State,#821d3b
 womens,91,bellarmine-knights,Bellarmine,Bellarmine,#873242
-womens,93,murray-state-racers,Murray State,Murray State,#f6c845
+womens,93,murray-state-racers,Murray State,Murray,#f6c845
 womens,94,northern-kentucky-norse,Northern Kentucky,N Kentucky,#f6ca52
 womens,96,kentucky-wildcats,Kentucky,Kentucky,#12329a
 womens,97,louisville-cardinals,Louisville,Louisville,#b82629
