@@ -23,6 +23,13 @@ diary](https://www.thedatadiary.net/).
 
 ## Version history
 
+### 1.2
+
+- Modify `extract_teams()` so that partially-filled games return a `0`
+  instead of `NA`
+- Manual override for Men’s BYU Sweet 16 game (no link available in
+  ESPN)
+
 ### 1.1
 
 ###### 2025-03-21

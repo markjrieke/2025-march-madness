@@ -491,6 +491,7 @@ extract_teams <- function(game_id, games, teams) {
   
   if (length(ids) > 0) {
     out <- match(ids, teams$team_id)
+    out <- replace_na(out, 0)
   } else {
     out <- c(0, 0)
   }
