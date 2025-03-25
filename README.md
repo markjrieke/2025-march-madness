@@ -23,6 +23,16 @@ diary](https://www.thedatadiary.net/).
 
 ## Version history
 
+### 1.3
+
+###### 2025-03-25
+
+- `run_*_model()` functions now de-duplicate results by date/league
+  before writing results out.
+- `run_bracket_model()`, `generate_html_bracket()`, and
+  `generate_html_table()` skip processing when no games have been
+  played.
+
 ### 1.2
 
 ###### 2025-03-23

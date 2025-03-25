@@ -112,7 +112,8 @@ run_prediction_model <- function(league,
   Y_away <- predictions$summary(paste0("Y_rep[2,", 1:nrow(games), "]"))
   
   # generate summary dataframe & append to output
-  games %>%
+  predictions <- 
+    games %>%
     transmute(league,
               season,
               date,
@@ -130,9 +131,13 @@ run_prediction_model <- function(league,
               away_prob = 1 - p_home_win$mean,
               away_median = Y_away$median,
               away_lower = Y_away$q5,
-              away_upper = Y_away$q95) %>%
-    append_parquet("out/prediction/predictions.parquet")
+              away_upper = Y_away$q95)
   
+  arrow::read_parquet("out/prediction/predictions.parquet") %>%
+    anti_join(predictions) %>%
+    bind_rows(predictions) %>%
+    arrow::write_parquet("out/prediction/predictions.parquet")
+
   # evaluate processing time
   end_ts <- Sys.time()
   

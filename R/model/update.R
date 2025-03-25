@@ -235,12 +235,17 @@ extract_correlated_team_parameters <- function(fit,
   }
   
   # join & save results
-  out %>%
+  out <- 
+    out %>%
     left_join(teams) %>%
     select(-tid) %>%
-    relocate(team_id, team_name, .after = league) %>%
-    append_rds("out/update/team_parameters.rds")
+    relocate(team_id, team_name, .after = league) 
   
+  read_rds("out/update/team_parameters.rds") %>%
+    anti_join(out) %>%
+    bind_rows(out) %>%
+    write_rds("out/update/team_parameters.rds")
+
 }
 
 #' Extract mean and covariance matrix summarizing global parameters
@@ -273,8 +278,10 @@ extract_correlated_global_parameters <- function(fit,
       Sigma = list(cov(draws))
     )
   
-  global_params %>%
-    append_rds("out/update/global_parameters.rds")
+  read_rds("out/update/global_parameters.rds") %>%
+    anti_join(global_params) %>%
+    bind_rows(global_params) %>%
+    write_rds("out/update/global_parameters.rds")
   
 }
 
@@ -291,12 +298,17 @@ extract_log_sigma <- function(fit,
   log_sigma_i <- fit$summary("log_sigma_i")
   
   # summarize as a tibble
-  log_sigma_i %>%
+  log_sigma_i <- 
+    log_sigma_i %>%
     mutate(date = date,
            league = league) %>%
-    relocate(date, league) %>%
-    append_parquet("out/update/log_sigma_i.parquet")
+    relocate(date, league)
   
+  arrow::read_parquet("out/update/log_sigma_i.parquet") %>%
+    anti_join(log_sigma_i) %>%
+    bind_rows(log_sigma_i) %>%
+    arrow::write_parquet("out/update/log_sigma_i.parquet")
+
 }
 
 #' Extract the most recent set of game results for the current season

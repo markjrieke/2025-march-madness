@@ -32,6 +32,14 @@ generate_html_table <- function(league,
     filter(league == league_int,
            date == date_int)
   
+  # early exit if need be
+  if (nrow(p_advance) == 0) {
+    
+    cli::cli_h2(glue::glue("No {league} rows in p_advance for {scales::label_date('%b %d, %Y')(date)}. Skipping..."))
+    return()
+    
+  }
+  
   teams <- 
     p_advance %>%
     distinct(tid, team_name)

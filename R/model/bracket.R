@@ -56,6 +56,49 @@ run_bracket_model <- function(league,
   teams <- tournament$teams
   wid0 <- tournament$wid0
   
+  # check if any games have been played since last run
+  wid_last <- 
+    read_rds("out/bracket/wid0.rds") %>%
+    filter(league == league_int,
+           date == max(date)) %>%
+    select(wid0) %>%
+    pull(wid0) %>%
+    pluck(1)
+  
+  # skip processing if no games have been played
+  if (all(wid0 == wid_last)) {
+    
+    cli::cli_h2(glue::glue("No {league} games played since last update. Skipping..."))
+    
+    end_ts <- Sys.time()
+    
+    # generate model log
+    model_log <-
+      tibble(
+        model_name = "bracket",
+        model_version = file.info("stan/bracket.stan")$mtime,
+        start_ts = start_ts,
+        end_ts = end_ts,
+        observations = 0,
+        num_divergent = 0,
+        num_max_treedepth = 0,
+        samples = 0,
+        season = 2025,
+        league = league,
+        date_min = mdy("11/1/2024"),
+        date_max = date,
+        target_variable = glue::glue("")
+      )
+    
+    # append log
+    model_log %>%
+      append_parquet("out/model_log.parquet")
+    
+    # exit
+    return()
+    
+  }
+  
   # set data for stan
   stan_data <- set_bracket_params(teams, wid0, league, date)
   
@@ -94,14 +137,23 @@ run_bracket_model <- function(league,
               p_advance = mean)
   
   # write results out
-  p_advance %>%
-    append_parquet("out/bracket/p_advance.parquet")
+  arrow::read_parquet("out/bracket/p_advance.parquet") %>%
+    anti_join(p_advance) %>%
+    bind_rows(p_advance) %>%
+    arrow::write_parquet("out/bracket/p_advance.parquet")
   
   # save wid0 output
-  tibble(league = league,
-         date = date,
-         wid0 = list(wid0)) %>%
-    append_rds("out/bracket/wid0.rds")
+  wid0 <- 
+    tibble(
+      league = league,
+      date = date,
+      wid0 = list(wid0)
+    )
+  
+  read_rds("out/bracket/wid0.rds") %>%
+    anti_join(wid0) %>%
+    bind_rows(wid0) %>%
+    write_rds("out/bracket/wid0.rds")
   
   # evaluate processing time
   end_ts <- Sys.time()

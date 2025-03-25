@@ -37,6 +37,14 @@ generate_html_bracket <- function(league,
     filter(league == league_int,
            date == date_int)
   
+  # early exit if need be
+  if (nrow(p_advance) == 0) {
+    
+    cli::cli_h2(glue::glue("No {league} rows in p_advance for {scales::label_date('%b %d, %Y')(date)}. Skipping..."))
+    return()
+    
+  }
+  
   # read in tournament structure matrix
   wid0 <- 
     read_rds("out/bracket/wid0.rds") %>%
