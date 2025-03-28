@@ -59,8 +59,8 @@ run_bracket_model <- function(league,
   # check if any games have been played since last run
   wid_last <- 
     read_rds("out/bracket/wid0.rds") %>%
-    filter(league == league_int,
-           date == max(date)) %>%
+    filter(league == league_int) %>%
+    filter(date == max(date)) %>%
     select(wid0) %>%
     pull(wid0) %>%
     pluck(1)

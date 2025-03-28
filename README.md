@@ -23,6 +23,13 @@ diary](https://www.thedatadiary.net/).
 
 ## Version history
 
+### 1.4
+
+###### 2025-03-28
+
+- Fixed minor bug in `run_bracket_model()` to enforce correct date
+  filtering when finding last `wid0` used.
+
 ### 1.3
 
 ###### 2025-03-25
