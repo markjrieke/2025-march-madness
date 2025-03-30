@@ -242,7 +242,7 @@ extract_correlated_team_parameters <- function(fit,
     relocate(team_id, team_name, .after = league) 
   
   read_rds("out/update/team_parameters.rds") %>%
-    anti_join(out) %>%
+    anti_join(out, by = c("date", "league", "team_id", "team_name")) %>%
     bind_rows(out) %>%
     write_rds("out/update/team_parameters.rds")
 
@@ -279,7 +279,7 @@ extract_correlated_global_parameters <- function(fit,
     )
   
   read_rds("out/update/global_parameters.rds") %>%
-    anti_join(global_params) %>%
+    anti_join(global_params, by = c("date", "league", "parameter")) %>%
     bind_rows(global_params) %>%
     write_rds("out/update/global_parameters.rds")
   
@@ -305,7 +305,7 @@ extract_log_sigma <- function(fit,
     relocate(date, league)
   
   arrow::read_parquet("out/update/log_sigma_i.parquet") %>%
-    anti_join(log_sigma_i) %>%
+    anti_join(log_sigma_i, by = c("date", "league", "variable")) %>%
     bind_rows(log_sigma_i) %>%
     arrow::write_parquet("out/update/log_sigma_i.parquet")
 

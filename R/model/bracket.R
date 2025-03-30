@@ -138,7 +138,7 @@ run_bracket_model <- function(league,
   
   # write results out
   arrow::read_parquet("out/bracket/p_advance.parquet") %>%
-    anti_join(p_advance) %>%
+    anti_join(p_advance, by = c("league", "date", "tid", "round")) %>%
     bind_rows(p_advance) %>%
     arrow::write_parquet("out/bracket/p_advance.parquet")
   
@@ -151,7 +151,7 @@ run_bracket_model <- function(league,
     )
   
   read_rds("out/bracket/wid0.rds") %>%
-    anti_join(wid0) %>%
+    anti_join(wid0, by = c("league", "date")) %>%
     bind_rows(wid0) %>%
     write_rds("out/bracket/wid0.rds")
   

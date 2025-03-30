@@ -23,6 +23,12 @@ diary](https://www.thedatadiary.net/).
 
 ## Version history
 
+### 1.5
+
+###### 2025-03-30
+
+- Added explicit anti-join columns when writing model outputs to disk.
+
 ### 1.4
 
 ###### 2025-03-28

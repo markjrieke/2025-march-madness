@@ -134,7 +134,7 @@ run_prediction_model <- function(league,
               away_upper = Y_away$q95)
   
   arrow::read_parquet("out/prediction/predictions.parquet") %>%
-    anti_join(predictions) %>%
+    anti_join(predictions, by = c("league", "season", "date", "game_id")) %>%
     bind_rows(predictions) %>%
     arrow::write_parquet("out/prediction/predictions.parquet")
 
