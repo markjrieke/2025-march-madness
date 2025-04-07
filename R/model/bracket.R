@@ -446,6 +446,22 @@ tournament_structure <- function(league, season) {
   # set championship
   wid0[1:2,6] <- extract_teams(finals, games, teams)
   
+  # set winner
+  finals_result <- 
+    games %>%
+    filter(game_id == finals) %>%
+    drop_na()
+    
+  if (nrow(finals_result) > 0) {
+    
+    wid0[1,7] <- 
+      finals_result %>%
+      transmute(team_id = if_else(home_score > away_score, home_id, away_id)) %>%
+      left_join(teams) %>%
+      pull(tid)
+    
+  }
+  
   # correct wid0 bracket paths
   wid0 <- adjust_wid(wid0)
   

@@ -23,6 +23,13 @@ diary](https://www.thedatadiary.net/).
 
 ## Version history
 
+### 1.6
+
+###### 2025-04-07
+
+- Modified `run_bracket_model()` to pull in the result of the
+  championship game.
+
 ### 1.5
 
 ###### 2025-03-30
